@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/teclado-tiene-12-teclas-funcion-sabes-sirven-1126463'>Tu teclado tiene 12 teclas de función, ¿sabes para qué sirven?</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/teclado-tiene-12-teclas-funcion-sabes-sirven-1126463' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/teclas-funcion-2823001.jpg' alt='Tu teclado tiene 12 teclas de función, ¿sabes para qué sirven?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/windows-11-quiere-evitar-apuntes-contrasena-donde-seguramente-ya-tienes-guardada-1130187'>Windows 11 quiere evitar que apuntes tu contraseña donde seguramente ya la tienes guardada</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/windows-11-quiere-evitar-apuntes-contrasena-donde-seguramente-ya-tienes-guardada-1130187' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/windows-11-2621901.jpg' alt='Windows 11 quiere evitar que apuntes tu contraseña donde seguramente ya la tienes guardada' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/guia-compra/mochila-portatil-1115247'>Todo lo que debes saber antes de comprar una mochila para tu portátil</a></h4>
     <a href='https://computerhoy.com/guia-compra/mochila-portatil-1115247' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/mochila-portatil-2796527.jpg' alt='Todo lo que debes saber antes de comprar una mochila para tu portátil' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/analisis/tecnologia/oneplus-10t-5g-review-opinion-1129929'>OnePlus 10T 5G, análisis y opinión</a></h4>
     <a href='https://computerhoy.com/analisis/tecnologia/oneplus-10t-5g-review-opinion-1129929' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/oneplus-10t-analisis-opinion-2823469.jpg' alt='OnePlus 10T 5G, análisis y opinión' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-ordenadores-baratos-intel-core-i7-jugar-1129425'>5 ordenadores baratos con Intel Core i7 para jugar sin arruinarte</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-ordenadores-baratos-intel-core-i7-jugar-1129425' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/portatil-gaming-hp-victus-16-2426997.jpg' alt='5 ordenadores baratos con Intel Core i7 para jugar sin arruinarte' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/nuevo-coche-electrico-volvo-no-podras-conducirlo-estas-borracho-1129933'>El nuevo coche eléctrico de Volvo no podrás conducirlo si estás borracho</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/nuevo-coche-electrico-volvo-no-podras-conducirlo-estas-borracho-1129933' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/conducir-borracho-2823411.jpg' alt='El nuevo coche eléctrico de Volvo no podrás conducirlo si estás borracho' />
     </a>
 </div>
 
