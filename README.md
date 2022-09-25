@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-ordenadores-baratos-intel-core-i7-jugar-1129425'>5 ordenadores baratos con Intel Core i7 para jugar sin arruinarte</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-ordenadores-baratos-intel-core-i7-jugar-1129425' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/portatil-gaming-hp-victus-16-2426997.jpg' alt='5 ordenadores baratos con Intel Core i7 para jugar sin arruinarte' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/nuevo-coche-electrico-volvo-no-podras-conducirlo-estas-borracho-1129933'>El nuevo coche eléctrico de Volvo no podrás conducirlo si estás borracho</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/nuevo-coche-electrico-volvo-no-podras-conducirlo-estas-borracho-1129933' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/conducir-borracho-2823411.jpg' alt='El nuevo coche eléctrico de Volvo no podrás conducirlo si estás borracho' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/razones-deberias-descartar-iphone-14-1128739'>Razones por la que deberías descartar el iPhone 14</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/razones-deberias-descartar-iphone-14-1128739' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/iphone-14-2806805.jpg' alt='Razones por la que deberías descartar el iPhone 14' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/nueva-ciudad-ecologica-japon-ha-empezado-construir-tokio-1129937'>Esta es la nueva ciudad ecológica que Japón ha empezado a construir en Tokio</a></h4>
     <a href='https://computerhoy.com/noticias/life/nueva-ciudad-ecologica-japon-ha-empezado-construir-tokio-1129937' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/ciudad-ecologica-futurista-japon-ha-empezado-construir-tokio-2823417.jpg' alt='Esta es la nueva ciudad ecológica que Japón ha empezado a construir en Tokio' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/hace-49-anos-nacia-primer-ordenador-portatil-historia-mcm-70-9-kg-1129353'>Hace 49 años nacía el primer ordenador portátil de la historia: MCM/70 de 9 kg</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/hace-49-anos-nacia-primer-ordenador-portatil-historia-mcm-70-9-kg-1129353' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/mcm-70-2822267.jpg' alt='Hace 49 años nacía el primer ordenador portátil de la historia: MCM/70 de 9 kg' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-ordenadores-sobremesa-puedes-comprar-1043047'>Mejores ordenadores de sobremesa que puedes comprar en 2022</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-ordenadores-sobremesa-puedes-comprar-1043047' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/escritorio-pc-sobremesa-portatil-monitor-2671435.jpg' alt='Mejores ordenadores de sobremesa que puedes comprar en 2022' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/manzanillo-muerte-arbol-mas-peligroso-mundo-1129343'>El árbol más peligroso del mundo puede matarte o herirte de cuatro formas diferentes</a></h4>
-    <a href='https://computerhoy.com/noticias/life/manzanillo-muerte-arbol-mas-peligroso-mundo-1129343' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/arbol-peligroso-mundo-puede-matarte-herirte-tres-formas-diferentes-2822263.jpg' alt='El árbol más peligroso del mundo puede matarte o herirte de cuatro formas diferentes' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/errores-no-debes-cometer-comprar-reloj-deportivo-smartwatch-hacer-deporte-1119125'>Errores que no debes cometer al comprar un reloj deportivo o smartwatch para hacer deporte</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/errores-no-debes-cometer-comprar-reloj-deportivo-smartwatch-hacer-deporte-1119125' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/10/smartwatch-2111423.jpg' alt='Errores que no debes cometer al comprar un reloj deportivo o smartwatch para hacer deporte' />
     </a>
 </div>
 
