@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/surface-pro-8-tablet-portatil-microsoft-ahora-300-euros-descuento-1130217'>Surface Pro 8: la tablet y portátil de Microsoft ahora con más de 300 euros de descuento</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/surface-pro-8-tablet-portatil-microsoft-ahora-300-euros-descuento-1130217' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/microsoft-surface-pro-8-analisis-opinion-2613507.jpg' alt='Surface Pro 8: la tablet y portátil de Microsoft ahora con más de 300 euros de descuento' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/nuevo-robot-aspirador-xiaomi-no-solo-aspira-barre-sino-friega-profundidad-1130203'>Este nuevo robot aspirador de Xiaomi no solo aspira y barre sino que friega en profundidad</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/nuevo-robot-aspirador-xiaomi-no-solo-aspira-barre-sino-friega-profundidad-1130203' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/mijia-robot-vacuum-cleaner-1s-2823869.jpg' alt='Este nuevo robot aspirador de Xiaomi no solo aspira y barre sino que friega en profundidad' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/entretenimiento/7-grandes-avances-tecnologicos-revolucionaron-mundo-cine-series-1128445'>7 grandes avances tecnológicos que revolucionaron el mundo del cine y las series</a></h4>
     <a href='https://computerhoy.com/reportajes/entretenimiento/7-grandes-avances-tecnologicos-revolucionaron-mundo-cine-series-1128445' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/10/camara-cine-2097067.jpg' alt='7 grandes avances tecnológicos que revolucionaron el mundo del cine y las series' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/teclado-tiene-12-teclas-funcion-sabes-sirven-1126463'>Tu teclado tiene 12 teclas de función, ¿sabes para qué sirven?</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/teclado-tiene-12-teclas-funcion-sabes-sirven-1126463' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/teclas-funcion-2823001.jpg' alt='Tu teclado tiene 12 teclas de función, ¿sabes para qué sirven?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/windows-11-quiere-evitar-apuntes-contrasena-donde-seguramente-ya-tienes-guardada-1130187'>Windows 11 quiere evitar que apuntes tu contraseña donde seguramente ya la tienes guardada</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/windows-11-quiere-evitar-apuntes-contrasena-donde-seguramente-ya-tienes-guardada-1130187' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/windows-11-2621901.jpg' alt='Windows 11 quiere evitar que apuntes tu contraseña donde seguramente ya la tienes guardada' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/guia-compra/mochila-portatil-1115247'>Todo lo que debes saber antes de comprar una mochila para tu portátil</a></h4>
-    <a href='https://computerhoy.com/guia-compra/mochila-portatil-1115247' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/mochila-portatil-2796527.jpg' alt='Todo lo que debes saber antes de comprar una mochila para tu portátil' />
     </a>
 </div>
 
