@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/actualizacion-windows-11-22h2-destroza-rendimiento-tarjetas-graficas-nvidia-como-arreglarlo-1130243'>La actualización Windows 11 22H2 destroza el rendimiento de las tarjetas NVIDIA: así puedes arreglarlo</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/actualizacion-windows-11-22h2-destroza-rendimiento-tarjetas-graficas-nvidia-como-arreglarlo-1130243' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/actualizacion-windows-11-22h2-destroza-rendimiento-tarjetas-graficas-nvidia-puedes-arreglarlo-2823987.jpg' alt='La actualización Windows 11 22H2 destroza el rendimiento de las tarjetas NVIDIA: así puedes arreglarlo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/cientificos-descubren-cerebro-sufre-recableado-40-anos-explicaria-muchas-cosas-1130211'>Científicos descubren que el cerebro sufre un “recableado” tras los 40 años que explicaría muchas cosas</a></h4>
     <a href='https://computerhoy.com/noticias/life/cientificos-descubren-cerebro-sufre-recableado-40-anos-explicaria-muchas-cosas-1130211' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/cerebro-2823899.jpg' alt='Científicos descubren que el cerebro sufre un “recableado” tras los 40 años que explicaría muchas cosas' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/entretenimiento/7-grandes-avances-tecnologicos-revolucionaron-mundo-cine-series-1128445'>7 grandes avances tecnológicos que revolucionaron el mundo del cine y las series</a></h4>
     <a href='https://computerhoy.com/reportajes/entretenimiento/7-grandes-avances-tecnologicos-revolucionaron-mundo-cine-series-1128445' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/10/camara-cine-2097067.jpg' alt='7 grandes avances tecnológicos que revolucionaron el mundo del cine y las series' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/funcion-seguridad-reconocimiento-facial-podria-incluirse-nuevo-samsung-galaxy-s23-1130193'>Esta función de seguridad de reconocimiento facial podría incluirse en el nuevo Samsung Galaxy S23</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/funcion-seguridad-reconocimiento-facial-podria-incluirse-nuevo-samsung-galaxy-s23-1130193' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/samsung-galaxy-s22-analisis-opinion-2627253.jpg' alt='Esta función de seguridad de reconocimiento facial podría incluirse en el nuevo Samsung Galaxy S23' />
     </a>
 </div>
 
