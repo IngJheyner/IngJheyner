@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/nueva-ciudad-ecologica-japon-ha-empezado-construir-tokio-1129937'>Esta es la nueva ciudad ecológica que Japón ha empezado a construir en Tokio</a></h4>
+    <a href='https://computerhoy.com/noticias/life/nueva-ciudad-ecologica-japon-ha-empezado-construir-tokio-1129937' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/ciudad-ecologica-futurista-japon-ha-empezado-construir-tokio-2823417.jpg' alt='Esta es la nueva ciudad ecológica que Japón ha empezado a construir en Tokio' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/hace-49-anos-nacia-primer-ordenador-portatil-historia-mcm-70-9-kg-1129353'>Hace 49 años nacía el primer ordenador portátil de la historia: MCM/70 de 9 kg</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/hace-49-anos-nacia-primer-ordenador-portatil-historia-mcm-70-9-kg-1129353' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/mcm-70-2822267.jpg' alt='Hace 49 años nacía el primer ordenador portátil de la historia: MCM/70 de 9 kg' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-ordenadores-sobremesa-puedes-comprar-1043047'>Mejores ordenadores de sobremesa que puedes comprar en 2022</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-ordenadores-sobremesa-puedes-comprar-1043047' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/escritorio-pc-sobremesa-portatil-monitor-2671435.jpg' alt='Mejores ordenadores de sobremesa que puedes comprar en 2022' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/manzanillo-muerte-arbol-mas-peligroso-mundo-1129343'>El árbol más peligroso del mundo puede matarte o herirte de cuatro formas diferentes</a></h4>
+    <a href='https://computerhoy.com/noticias/life/manzanillo-muerte-arbol-mas-peligroso-mundo-1129343' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/arbol-peligroso-mundo-puede-matarte-herirte-tres-formas-diferentes-2822263.jpg' alt='El árbol más peligroso del mundo puede matarte o herirte de cuatro formas diferentes' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/errores-no-debes-cometer-comprar-reloj-deportivo-smartwatch-hacer-deporte-1119125'>Errores que no debes cometer al comprar un reloj deportivo o smartwatch para hacer deporte</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/errores-no-debes-cometer-comprar-reloj-deportivo-smartwatch-hacer-deporte-1119125' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/10/smartwatch-2111423.jpg' alt='Errores que no debes cometer al comprar un reloj deportivo o smartwatch para hacer deporte' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/tres-millones-dolares-parada-autobus-rompes-cristal-3m-1129415'>Tres millones de dólares en una parada de autobús: si rompes el cristal te los quedas</a></h4>
-    <a href='https://computerhoy.com/noticias/life/tres-millones-dolares-parada-autobus-rompes-cristal-3m-1129415' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/tres-millones-dolares-parada-autobus-rompes-cristal-te-quedas-2822409.jpg' alt='Tres millones de dólares en una parada de autobús: si rompes el cristal te los quedas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/nasa-vuelve-retrasar-lanzamiento-artemis-i-ahora-debe-fuerza-naturaleza-1129941'>La NASA vuelve a retrasar el lanzamiento de la Artemis I, y ahora se debe a la fuerza de la naturaleza</a></h4>
-    <a href='https://computerhoy.com/noticias/life/nasa-vuelve-retrasar-lanzamiento-artemis-i-ahora-debe-fuerza-naturaleza-1129941' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/nasa-vuelve-retrasar-lanzamiento-artemis-i-ocasion-no-debe-fallo-tecnico-2823435.jpg' alt='La NASA vuelve a retrasar el lanzamiento de la Artemis I, y ahora se debe a la fuerza de la naturaleza' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/toda-basura-ser-humano-ya-ha-dejado-marte-no-poca-1129931'>Esta es toda la basura que el ser humano ya ha dejado en Marte, y no es poca</a></h4>
-    <a href='https://computerhoy.com/noticias/life/toda-basura-ser-humano-ya-ha-dejado-marte-no-poca-1129931' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/superficie-marte-2741179.jpg' alt='Esta es toda la basura que el ser humano ya ha dejado en Marte, y no es poca' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/5-moviles-realme-hemos-probado-recomendamos-1022551'>7 móviles realme que hemos probado y recomendamos</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/5-moviles-realme-hemos-probado-recomendamos-1022551' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/analisis-realme-gt-2-pro-2629659.jpg' alt='7 móviles realme que hemos probado y recomendamos' />
     </a>
 </div>
 
