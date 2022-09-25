@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/reto-tiktok-cocinar-pollo-nyquil-1130261'>Cocinar con medicamentos, la última locura de TikTok que ha puesto en alerta a las autoridades sanitarias</a></h4>
+    <a href='https://computerhoy.com/noticias/life/reto-tiktok-cocinar-pollo-nyquil-1130261' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/ocinar-medicamentos-ultima-locura-tiktok-ha-puesto-alerta-autoridades-sanitarias-2824035.jpg' alt='Cocinar con medicamentos, la última locura de TikTok que ha puesto en alerta a las autoridades sanitarias' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/guia-compra/router-wifi-6'>WiFi 6, todo lo que debes saber y los mejores routers compatibles que puedes comprar</a></h4>
     <a href='https://computerhoy.com/guia-compra/router-wifi-6' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/11/xiaomi-mi-router-ax1800-2126365.jpg' alt='WiFi 6, todo lo que debes saber y los mejores routers compatibles que puedes comprar' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/cientificos-descubren-cerebro-sufre-recableado-40-anos-explicaria-muchas-cosas-1130211'>Científicos descubren que el cerebro sufre un “recableado” tras los 40 años que explicaría muchas cosas</a></h4>
     <a href='https://computerhoy.com/noticias/life/cientificos-descubren-cerebro-sufre-recableado-40-anos-explicaria-muchas-cosas-1130211' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/cerebro-2823899.jpg' alt='Científicos descubren que el cerebro sufre un “recableado” tras los 40 años que explicaría muchas cosas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/surface-pro-8-tablet-portatil-microsoft-ahora-300-euros-descuento-1130217'>Surface Pro 8: la tablet y portátil de Microsoft ahora con más de 300 euros de descuento</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/surface-pro-8-tablet-portatil-microsoft-ahora-300-euros-descuento-1130217' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/microsoft-surface-pro-8-analisis-opinion-2613507.jpg' alt='Surface Pro 8: la tablet y portátil de Microsoft ahora con más de 300 euros de descuento' />
     </a>
 </div>
 
