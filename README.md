@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/guia-compra/mochila-portatil-1115247'>Todo lo que debes saber antes de comprar una mochila para tu portátil</a></h4>
+    <a href='https://computerhoy.com/guia-compra/mochila-portatil-1115247' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/mochila-portatil-2796527.jpg' alt='Todo lo que debes saber antes de comprar una mochila para tu portátil' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/conexion-satelital-moviles-1121531'>¿Qué es la Conexión Satelital en móviles?</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/conexion-satelital-moviles-1121531' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/verticalimage1663953661493-2822993.jpg' alt='¿Qué es la Conexión Satelital en móviles?' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/nuevo-coche-electrico-volvo-no-podras-conducirlo-estas-borracho-1129933'>El nuevo coche eléctrico de Volvo no podrás conducirlo si estás borracho</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/nuevo-coche-electrico-volvo-no-podras-conducirlo-estas-borracho-1129933' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/conducir-borracho-2823411.jpg' alt='El nuevo coche eléctrico de Volvo no podrás conducirlo si estás borracho' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/razones-deberias-descartar-iphone-14-1128739'>Razones por la que deberías descartar el iPhone 14</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/razones-deberias-descartar-iphone-14-1128739' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/iphone-14-2806805.jpg' alt='Razones por la que deberías descartar el iPhone 14' />
     </a>
 </div>
 
