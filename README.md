@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/analisis/tecnologia/oneplus-10t-5g-review-opinion-1129929'>OnePlus 10T 5G, análisis y opinión</a></h4>
+    <a href='https://computerhoy.com/analisis/tecnologia/oneplus-10t-5g-review-opinion-1129929' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/oneplus-10t-analisis-opinion-2823469.jpg' alt='OnePlus 10T 5G, análisis y opinión' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-ordenadores-baratos-intel-core-i7-jugar-1129425'>5 ordenadores baratos con Intel Core i7 para jugar sin arruinarte</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/mejores-ordenadores-baratos-intel-core-i7-jugar-1129425' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/portatil-gaming-hp-victus-16-2426997.jpg' alt='5 ordenadores baratos con Intel Core i7 para jugar sin arruinarte' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/nueva-ciudad-ecologica-japon-ha-empezado-construir-tokio-1129937'>Esta es la nueva ciudad ecológica que Japón ha empezado a construir en Tokio</a></h4>
     <a href='https://computerhoy.com/noticias/life/nueva-ciudad-ecologica-japon-ha-empezado-construir-tokio-1129937' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/ciudad-ecologica-futurista-japon-ha-empezado-construir-tokio-2823417.jpg' alt='Esta es la nueva ciudad ecológica que Japón ha empezado a construir en Tokio' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/hace-49-anos-nacia-primer-ordenador-portatil-historia-mcm-70-9-kg-1129353'>Hace 49 años nacía el primer ordenador portátil de la historia: MCM/70 de 9 kg</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/hace-49-anos-nacia-primer-ordenador-portatil-historia-mcm-70-9-kg-1129353' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/mcm-70-2822267.jpg' alt='Hace 49 años nacía el primer ordenador portátil de la historia: MCM/70 de 9 kg' />
     </a>
 </div>
 
