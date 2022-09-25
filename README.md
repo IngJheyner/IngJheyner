@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/jupiter-mas-cerca-tierra-ultimos-59-anos-ver-lunas-simples-prismaticos-1130277'>Júpiter nunca ha estado tan cerca de la Tierra en los últimos 59 años, puedes ver sus lunas con unos prismáticos</a></h4>
+    <a href='https://computerhoy.com/noticias/life/jupiter-mas-cerca-tierra-ultimos-59-anos-ver-lunas-simples-prismaticos-1130277' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/delfin-jupiter-tamano-tierra-puedes-verlo-2219539.jpg' alt='Júpiter nunca ha estado tan cerca de la Tierra en los últimos 59 años, puedes ver sus lunas con unos prismáticos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/voz-darth-vader-james-earl-jones-sustituido-inteligencia-artificial-1130275'>Después de 45 años siendo la voz de Darth Vader, James Earl Jones va a ser sustituido por una IA</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/voz-darth-vader-james-earl-jones-sustituido-inteligencia-artificial-1130275' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/darth-vader-2524427.jpg' alt='Después de 45 años siendo la voz de Darth Vader, James Earl Jones va a ser sustituido por una IA' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-medir-distancias-superficies-recorridos-google-maps-1127651'>Cómo medir distancias, superficies y recorridos en Google Maps</a></h4>
     <a href='https://computerhoy.com/tutoriales/tecnologia/como-medir-distancias-superficies-recorridos-google-maps-1127651' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/09/google-maps-lg-v50.jpg' alt='Cómo medir distancias, superficies y recorridos en Google Maps' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/actualizacion-windows-11-22h2-destroza-rendimiento-tarjetas-graficas-nvidia-como-arreglarlo-1130243'>La actualización Windows 11 22H2 destroza el rendimiento de las tarjetas NVIDIA: así puedes arreglarlo</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/actualizacion-windows-11-22h2-destroza-rendimiento-tarjetas-graficas-nvidia-como-arreglarlo-1130243' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/actualizacion-windows-11-22h2-destroza-rendimiento-tarjetas-graficas-nvidia-puedes-arreglarlo-2823987.jpg' alt='La actualización Windows 11 22H2 destroza el rendimiento de las tarjetas NVIDIA: así puedes arreglarlo' />
     </a>
 </div>
 
