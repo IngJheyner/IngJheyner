@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/errores-no-debes-cometer-comprar-reloj-deportivo-smartwatch-hacer-deporte-1119125'>Errores que no debes cometer al comprar un reloj deportivo o smartwatch para hacer deporte</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/errores-no-debes-cometer-comprar-reloj-deportivo-smartwatch-hacer-deporte-1119125' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/10/smartwatch-2111423.jpg' alt='Errores que no debes cometer al comprar un reloj deportivo o smartwatch para hacer deporte' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/tres-millones-dolares-parada-autobus-rompes-cristal-3m-1129415'>Tres millones de dólares en una parada de autobús: si rompes el cristal te los quedas</a></h4>
     <a href='https://computerhoy.com/noticias/life/tres-millones-dolares-parada-autobus-rompes-cristal-3m-1129415' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/tres-millones-dolares-parada-autobus-rompes-cristal-te-quedas-2822409.jpg' alt='Tres millones de dólares en una parada de autobús: si rompes el cristal te los quedas' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/5-moviles-realme-hemos-probado-recomendamos-1022551'>7 móviles realme que hemos probado y recomendamos</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/5-moviles-realme-hemos-probado-recomendamos-1022551' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/analisis-realme-gt-2-pro-2629659.jpg' alt='7 móviles realme que hemos probado y recomendamos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-webs-retos-fotograficos-moviles-diarios-mejorar-tecnica-camara-1125583'>Las mejores webs de retos fotográficos móviles diarios para mejorar tu técnica con la cámara</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-webs-retos-fotograficos-moviles-diarios-mejorar-tecnica-camara-1125583' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/foto-movil-2815095.jpg' alt='Las mejores webs de retos fotográficos móviles diarios para mejorar tu técnica con la cámara' />
     </a>
 </div>
 
