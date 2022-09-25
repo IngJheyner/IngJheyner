@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/cientificos-descubren-cerebro-sufre-recableado-40-anos-explicaria-muchas-cosas-1130211'>Científicos descubren que el cerebro sufre un “recableado” tras los 40 años que explicaría muchas cosas</a></h4>
+    <a href='https://computerhoy.com/noticias/life/cientificos-descubren-cerebro-sufre-recableado-40-anos-explicaria-muchas-cosas-1130211' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/cerebro-2823899.jpg' alt='Científicos descubren que el cerebro sufre un “recableado” tras los 40 años que explicaría muchas cosas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/surface-pro-8-tablet-portatil-microsoft-ahora-300-euros-descuento-1130217'>Surface Pro 8: la tablet y portátil de Microsoft ahora con más de 300 euros de descuento</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/surface-pro-8-tablet-portatil-microsoft-ahora-300-euros-descuento-1130217' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/microsoft-surface-pro-8-analisis-opinion-2613507.jpg' alt='Surface Pro 8: la tablet y portátil de Microsoft ahora con más de 300 euros de descuento' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/funcion-seguridad-reconocimiento-facial-podria-incluirse-nuevo-samsung-galaxy-s23-1130193'>Esta función de seguridad de reconocimiento facial podría incluirse en el nuevo Samsung Galaxy S23</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/funcion-seguridad-reconocimiento-facial-podria-incluirse-nuevo-samsung-galaxy-s23-1130193' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/samsung-galaxy-s22-analisis-opinion-2627253.jpg' alt='Esta función de seguridad de reconocimiento facial podría incluirse en el nuevo Samsung Galaxy S23' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/teclado-tiene-12-teclas-funcion-sabes-sirven-1126463'>Tu teclado tiene 12 teclas de función, ¿sabes para qué sirven?</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/teclado-tiene-12-teclas-funcion-sabes-sirven-1126463' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/teclas-funcion-2823001.jpg' alt='Tu teclado tiene 12 teclas de función, ¿sabes para qué sirven?' />
     </a>
 </div>
 
