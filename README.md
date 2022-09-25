@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/voz-darth-vader-james-earl-jones-sustituido-inteligencia-artificial-1130275'>Después de 45 años siendo la voz de Darth Vader, James Earl Jones va a ser sustituido por una IA</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/voz-darth-vader-james-earl-jones-sustituido-inteligencia-artificial-1130275' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/darth-vader-2524427.jpg' alt='Después de 45 años siendo la voz de Darth Vader, James Earl Jones va a ser sustituido por una IA' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/reto-tiktok-cocinar-pollo-nyquil-1130261'>Cocinar con medicamentos, la última locura de TikTok que ha puesto en alerta a las autoridades sanitarias</a></h4>
     <a href='https://computerhoy.com/noticias/life/reto-tiktok-cocinar-pollo-nyquil-1130261' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/ocinar-medicamentos-ultima-locura-tiktok-ha-puesto-alerta-autoridades-sanitarias-2824035.jpg' alt='Cocinar con medicamentos, la última locura de TikTok que ha puesto en alerta a las autoridades sanitarias' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/actualizacion-windows-11-22h2-destroza-rendimiento-tarjetas-graficas-nvidia-como-arreglarlo-1130243'>La actualización Windows 11 22H2 destroza el rendimiento de las tarjetas NVIDIA: así puedes arreglarlo</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/actualizacion-windows-11-22h2-destroza-rendimiento-tarjetas-graficas-nvidia-como-arreglarlo-1130243' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/actualizacion-windows-11-22h2-destroza-rendimiento-tarjetas-graficas-nvidia-puedes-arreglarlo-2823987.jpg' alt='La actualización Windows 11 22H2 destroza el rendimiento de las tarjetas NVIDIA: así puedes arreglarlo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/cientificos-descubren-cerebro-sufre-recableado-40-anos-explicaria-muchas-cosas-1130211'>Científicos descubren que el cerebro sufre un “recableado” tras los 40 años que explicaría muchas cosas</a></h4>
-    <a href='https://computerhoy.com/noticias/life/cientificos-descubren-cerebro-sufre-recableado-40-anos-explicaria-muchas-cosas-1130211' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/cerebro-2823899.jpg' alt='Científicos descubren que el cerebro sufre un “recableado” tras los 40 años que explicaría muchas cosas' />
     </a>
 </div>
 
