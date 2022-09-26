@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/guia-compra/tablet-teletrabajo-1126117'>Guía y consejos para comprar una tablet para teletrabajar</a></h4>
+    <a href='https://computerhoy.com/guia-compra/tablet-teletrabajo-1126117' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/tablet-trabajo-2816189.jpg' alt='Guía y consejos para comprar una tablet para teletrabajar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/35-noticias-tecnologia-comenzar-manana-informado-ultimo-1130465'>35 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/35-noticias-tecnologia-comenzar-manana-informado-ultimo-1130465' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/35-noticias-tecnologia-comenzar-manana-informado-ultimo-2824269.jpg' alt='35 noticias de tecnología para comenzar la mañana informado de lo último' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/mejores-bicicletas-estaticas-spinning-cecotec-1130263'>Mejores bicicletas estáticas y de spinning Cecotec para hacer deporte en casa</a></h4>
+    <a href='https://computerhoy.com/noticias/life/mejores-bicicletas-estaticas-spinning-cecotec-1130263' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/cecotec-drumfit-indoor-7000-magno-2824039.jpg' alt='Mejores bicicletas estáticas y de spinning Cecotec para hacer deporte en casa' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/mycusini-impresora-chocolate-1130281'>El sueño de los golosos: las impresoras 3D de chocolate llegan a los hogares (vídeo)</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/mycusini-impresora-chocolate-1130281' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/verticalimage1664140767995-2824101.jpg' alt='El sueño de los golosos: las impresoras 3D de chocolate llegan a los hogares (vídeo)' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/jupiter-mas-cerca-tierra-ultimos-59-anos-ver-lunas-simples-prismaticos-1130277'>Júpiter nunca ha estado tan cerca de la Tierra en los últimos 59 años, puedes ver sus lunas con unos prismáticos</a></h4>
     <a href='https://computerhoy.com/noticias/life/jupiter-mas-cerca-tierra-ultimos-59-anos-ver-lunas-simples-prismaticos-1130277' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/delfin-jupiter-tamano-tierra-puedes-verlo-2219539.jpg' alt='Júpiter nunca ha estado tan cerca de la Tierra en los últimos 59 años, puedes ver sus lunas con unos prismáticos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/voz-darth-vader-james-earl-jones-sustituido-inteligencia-artificial-1130275'>Después de 45 años siendo la voz de Darth Vader, James Earl Jones va a ser sustituido por una IA</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/voz-darth-vader-james-earl-jones-sustituido-inteligencia-artificial-1130275' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/darth-vader-2524427.jpg' alt='Después de 45 años siendo la voz de Darth Vader, James Earl Jones va a ser sustituido por una IA' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/reto-tiktok-cocinar-pollo-nyquil-1130261'>Cocinar con medicamentos, la última locura de TikTok que ha puesto en alerta a las autoridades sanitarias</a></h4>
-    <a href='https://computerhoy.com/noticias/life/reto-tiktok-cocinar-pollo-nyquil-1130261' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/ocinar-medicamentos-ultima-locura-tiktok-ha-puesto-alerta-autoridades-sanitarias-2824035.jpg' alt='Cocinar con medicamentos, la última locura de TikTok que ha puesto en alerta a las autoridades sanitarias' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/guia-compra/router-wifi-6'>WiFi 6, todo lo que debes saber y los mejores routers compatibles que puedes comprar</a></h4>
-    <a href='https://computerhoy.com/guia-compra/router-wifi-6' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/11/xiaomi-mi-router-ax1800-2126365.jpg' alt='WiFi 6, todo lo que debes saber y los mejores routers compatibles que puedes comprar' />
     </a>
 </div>
 
