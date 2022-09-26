@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/peligroso-efecto-secundario-funcion-satelital-iphone-14-1130689'>El peligroso efecto secundario de la función satelital del iPhone 14</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/peligroso-efecto-secundario-funcion-satelital-iphone-14-1130689' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/analisis-iphone-14-2821549.jpg' alt='El peligroso efecto secundario de la función satelital del iPhone 14' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/todas-novedades-series-peliculas-llegan-netflix-octubre-2022-1130687'>Todas las novedades de series y películas que llegan a Netflix en octubre 2022</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/todas-novedades-series-peliculas-llegan-netflix-octubre-2022-1130687' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/todas-novedades-series-peliculas-llegan-netflix-octubre-2022-2824903.jpg' alt='Todas las novedades de series y películas que llegan a Netflix en octubre 2022' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/ticwatch-pro-3-oferta-amazon-1123741'>Inteligente y deportivo a precio de chollo: este smartwatch TicWatch ha bajado de precio hasta los 164€</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/ticwatch-pro-3-oferta-amazon-1123741' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/analisis-ticwatch-pro-3-ultra-2607453.jpg' alt='Inteligente y deportivo a precio de chollo: este smartwatch TicWatch ha bajado de precio hasta los 164€' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/mapa-europa-deja-claro-fuente-usa-generar-energia-cada-pais-1130647'>El mapa de Europa que deja claro qué fuente se usa para generar la energía en cada país</a></h4>
-    <a href='https://computerhoy.com/noticias/life/mapa-europa-deja-claro-fuente-usa-generar-energia-cada-pais-1130647' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/mapa-europa-deja-claro-fuente-usa-generar-energia-cada-pais-2824717.jpg' alt='El mapa de Europa que deja claro qué fuente se usa para generar la energía en cada país' />
     </a>
 </div>
 
