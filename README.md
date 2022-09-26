@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/ticwatch-pro-3-oferta-amazon-1123741'>Inteligente y deportivo a precio de chollo: este smartwatch TicWatch ha bajado de precio hasta los 164€</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/ticwatch-pro-3-oferta-amazon-1123741' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/analisis-ticwatch-pro-3-ultra-2607453.jpg' alt='Inteligente y deportivo a precio de chollo: este smartwatch TicWatch ha bajado de precio hasta los 164€' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/mapa-europa-deja-claro-fuente-usa-generar-energia-cada-pais-1130647'>El mapa de Europa que deja claro qué fuente se usa para generar la energía en cada país</a></h4>
+    <a href='https://computerhoy.com/noticias/life/mapa-europa-deja-claro-fuente-usa-generar-energia-cada-pais-1130647' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/mapa-europa-deja-claro-fuente-usa-generar-energia-cada-pais-2824717.jpg' alt='El mapa de Europa que deja claro qué fuente se usa para generar la energía en cada país' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/zte-axon-30s-democratizacion-smartphone-camara-pantalla-1130629'>ZTE Axon 30S, la democratización del smartphone con cámara bajo pantalla</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/zte-axon-30s-democratizacion-smartphone-camara-pantalla-1130629' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/analisis-zte-axon-30-2459941.jpg' alt='ZTE Axon 30S, la democratización del smartphone con cámara bajo pantalla' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/experto-haciendo-uso-inteligencia-artificial-crear-pelicula-puedes-participar-1130597'>Un experto está haciendo uso de la inteligencia artificial para crear una película, en la que puedes participar</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/experto-haciendo-uso-inteligencia-artificial-crear-pelicula-puedes-participar-1130597' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/salt-2824585.jpg' alt='Un experto está haciendo uso de la inteligencia artificial para crear una película, en la que puedes participar' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/dile-adios-dolores-espalda-mientras-trabajas-gracias-escritorio-elevable-automatico-oferta-1128473'>Dile adiós a los dolores de espalda mientras trabajas gracias a este escritorio elevable automático en oferta</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/dile-adios-dolores-espalda-mientras-trabajas-gracias-escritorio-elevable-automatico-oferta-1128473' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/escritorio-elevable-electrico-399eu-aplicando-cupon-2820565.jpg' alt='Dile adiós a los dolores de espalda mientras trabajas gracias a este escritorio elevable automático en oferta' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/futuro-negro-listas-iptv-ya-equiparan-crimen-organizado-1130627'>Futuro negro para las listas IPTV que ya se equiparan con el crimen organizado</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/futuro-negro-listas-iptv-ya-equiparan-crimen-organizado-1130627' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/iptv-2818055.jpg' alt='Futuro negro para las listas IPTV que ya se equiparan con el crimen organizado' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/windows-11-podria-ser-menos-eficiente-windows-10-hacer-bateria-portatil-dure-menos-1130565'>Windows 11 podría ser menos eficiente que Windows 10 y hacer que la batería de tu portátil dure menos</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/windows-11-podria-ser-menos-eficiente-windows-10-hacer-bateria-portatil-dure-menos-1130565' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/windows-11-2798545.jpg' alt='Windows 11 podría ser menos eficiente que Windows 10 y hacer que la batería de tu portátil dure menos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/exprime-todo-rendimiento-gpu-radeon-rx-radeon-monster-profile-13-mejora-menor-consumo-1130555'>Exprime todo el rendimiento de tu GPU Radeon RX con Radeon Monster Profile, hasta un 13 % de mejora con menor consumo</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/exprime-todo-rendimiento-gpu-radeon-rx-radeon-monster-profile-13-mejora-menor-consumo-1130555' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/01/amd_radeon_VII_3.jpg' alt='Exprime todo el rendimiento de tu GPU Radeon RX con Radeon Monster Profile, hasta un 13 % de mejora con menor consumo' />
     </a>
 </div>
 
