@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/meta-demuestra-como-sabe-postura-usuario-gafas-meta-quest-2-necesidad-sensores-externos-1130495'>Meta demuestra cómo sabe la postura del usuario de sus gafas Meta Quest 2 sin necesidad de sensores externos </a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/meta-demuestra-como-sabe-postura-usuario-gafas-meta-quest-2-necesidad-sensores-externos-1130495' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/meta-quest-2-2824303.jpg' alt='Meta demuestra cómo sabe la postura del usuario de sus gafas Meta Quest 2 sin necesidad de sensores externos ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/realme-gt-neo-3t-oferta-aliexpress-plaza-1127597'>Snapdragon 870 y carga a 80W por menos de 300 euros: el realme GT Neo 3T promete mucho y da mucho</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/realme-gt-neo-3t-oferta-aliexpress-plaza-1127597' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/realme-gt-neo-3t-analisis-opinion-2759205.jpg' alt='Snapdragon 870 y carga a 80W por menos de 300 euros: el realme GT Neo 3T promete mucho y da mucho' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/bebes-reaccionan-utero-sabores-comida-toman-madres-1130481'>Los bebés reaccionan desde el útero a los sabores de la comida que toman sus madres</a></h4>
+    <a href='https://computerhoy.com/noticias/life/bebes-reaccionan-utero-sabores-comida-toman-madres-1130481' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/12/ecografia-2177643.jpg' alt='Los bebés reaccionan desde el útero a los sabores de la comida que toman sus madres' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/guia-compra/freidora-sin-aceite-cecotec-1015425'>Comprar una freidora sin aceite de Cecotec: modelos, diferencias y todo lo que debes tener en cuenta</a></h4>
     <a href='https://computerhoy.com/guia-compra/freidora-sin-aceite-cecotec-1015425' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/cecotec-cecofry-full-inox-5500-2824051.jpg' alt='Comprar una freidora sin aceite de Cecotec: modelos, diferencias y todo lo que debes tener en cuenta' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/guia-compra/tablet-teletrabajo-1126117'>Guía y consejos para comprar una tablet para teletrabajar</a></h4>
     <a href='https://computerhoy.com/guia-compra/tablet-teletrabajo-1126117' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/tablet-trabajo-2816189.jpg' alt='Guía y consejos para comprar una tablet para teletrabajar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/35-noticias-tecnologia-comenzar-manana-informado-ultimo-1130465'>35 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/35-noticias-tecnologia-comenzar-manana-informado-ultimo-1130465' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/35-noticias-tecnologia-comenzar-manana-informado-ultimo-2824269.jpg' alt='35 noticias de tecnología para comenzar la mañana informado de lo último' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/mejores-bicicletas-estaticas-spinning-cecotec-1130263'>Mejores bicicletas estáticas y de spinning Cecotec para hacer deporte en casa</a></h4>
-    <a href='https://computerhoy.com/noticias/life/mejores-bicicletas-estaticas-spinning-cecotec-1130263' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/cecotec-drumfit-indoor-7000-magno-2824039.jpg' alt='Mejores bicicletas estáticas y de spinning Cecotec para hacer deporte en casa' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/mycusini-impresora-chocolate-1130281'>El sueño de los golosos: las impresoras 3D de chocolate llegan a los hogares (vídeo)</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/mycusini-impresora-chocolate-1130281' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/verticalimage1664140767995-2824101.jpg' alt='El sueño de los golosos: las impresoras 3D de chocolate llegan a los hogares (vídeo)' />
     </a>
 </div>
 
