@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/windows-11-podria-ser-menos-eficiente-windows-10-hacer-bateria-portatil-dure-menos-1130565'>Windows 11 podría ser menos eficiente que Windows 10 y hacer que la batería de tu portátil dure menos</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/windows-11-podria-ser-menos-eficiente-windows-10-hacer-bateria-portatil-dure-menos-1130565' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/windows-11-2798545.jpg' alt='Windows 11 podría ser menos eficiente que Windows 10 y hacer que la batería de tu portátil dure menos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/exprime-todo-rendimiento-gpu-radeon-rx-radeon-monster-profile-13-mejora-menor-consumo-1130555'>Exprime todo el rendimiento de tu GPU Radeon RX con Radeon Monster Profile, hasta un 13 % de mejora con menor consumo</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/exprime-todo-rendimiento-gpu-radeon-rx-radeon-monster-profile-13-mejora-menor-consumo-1130555' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/01/amd_radeon_VII_3.jpg' alt='Exprime todo el rendimiento de tu GPU Radeon RX con Radeon Monster Profile, hasta un 13 % de mejora con menor consumo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/ios-16-trae-oculto-util-fondo-pantalla-bloqueo-iphone-puedes-activarlo-1130515'>iOS 16 trae oculto un útil fondo de pantalla de bloqueo para iPhone, así puedes activarlo</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/ios-16-trae-oculto-util-fondo-pantalla-bloqueo-iphone-puedes-activarlo-1130515' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/ios-16-2724099.jpg' alt='iOS 16 trae oculto un útil fondo de pantalla de bloqueo para iPhone, así puedes activarlo' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/apple-watch-ultra-vs-martillo-locura-acabamos-ver-hacer-youtuber-1130501'>Apple Watch Ultra vs martillo, la locura que acabamos de ver hacer a un YouTuber</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/apple-watch-ultra-vs-martillo-locura-acabamos-ver-hacer-youtuber-1130501' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/apple-watch-ultra-vs-martillo-locura-acabamos-ver-hacer-youtuber-2824307.jpg' alt='Apple Watch Ultra vs martillo, la locura que acabamos de ver hacer a un YouTuber' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/meta-demuestra-como-sabe-postura-usuario-gafas-meta-quest-2-necesidad-sensores-externos-1130495'>Meta demuestra cómo sabe la postura del usuario de sus gafas Meta Quest 2 sin necesidad de sensores externos </a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/meta-demuestra-como-sabe-postura-usuario-gafas-meta-quest-2-necesidad-sensores-externos-1130495' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/meta-quest-2-2824303.jpg' alt='Meta demuestra cómo sabe la postura del usuario de sus gafas Meta Quest 2 sin necesidad de sensores externos ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/realme-gt-neo-3t-oferta-aliexpress-plaza-1127597'>Snapdragon 870 y carga a 80W por menos de 300 euros: el realme GT Neo 3T promete mucho y da mucho</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/realme-gt-neo-3t-oferta-aliexpress-plaza-1127597' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/realme-gt-neo-3t-analisis-opinion-2759205.jpg' alt='Snapdragon 870 y carga a 80W por menos de 300 euros: el realme GT Neo 3T promete mucho y da mucho' />
     </a>
 </div>
 
