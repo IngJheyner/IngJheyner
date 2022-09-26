@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/todas-novedades-series-peliculas-llegan-netflix-octubre-2022-1130687'>Todas las novedades de series y películas que llegan a Netflix en octubre 2022</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/todas-novedades-series-peliculas-llegan-netflix-octubre-2022-1130687' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/todas-novedades-series-peliculas-llegan-netflix-octubre-2022-2824903.jpg' alt='Todas las novedades de series y películas que llegan a Netflix en octubre 2022' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/pccomponentes-lanza-mundo-tvs-completa-linea-nilait-todos-publicos-1130655'>PcComponentes se lanza al mundo de las TVs con la completa línea Nilait para todos los públicos</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/pccomponentes-lanza-mundo-tvs-completa-linea-nilait-todos-publicos-1130655' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/pccomponentes-nilait-2824917.jpg' alt='PcComponentes se lanza al mundo de las TVs con la completa línea Nilait para todos los públicos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/amazon-prepara-nuevo-prime-day-dos-semanas-apuntate-conocer-antemano-mejores-ofertas-1130665'>Amazon prepara un nuevo Prime Day en dos semanas, apúntate para conocer de antemano las mejores ofertas</a></h4>
+    <a href='https://computerhoy.com/noticias/life/amazon-prepara-nuevo-prime-day-dos-semanas-apuntate-conocer-antemano-mejores-ofertas-1130665' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/quien-puede-participar-prime-day-2748415.jpg' alt='Amazon prepara un nuevo Prime Day en dos semanas, apúntate para conocer de antemano las mejores ofertas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/ticwatch-pro-3-oferta-amazon-1123741'>Inteligente y deportivo a precio de chollo: este smartwatch TicWatch ha bajado de precio hasta los 164€</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/ticwatch-pro-3-oferta-amazon-1123741' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/analisis-ticwatch-pro-3-ultra-2607453.jpg' alt='Inteligente y deportivo a precio de chollo: este smartwatch TicWatch ha bajado de precio hasta los 164€' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/mapa-europa-deja-claro-fuente-usa-generar-energia-cada-pais-1130647'>El mapa de Europa que deja claro qué fuente se usa para generar la energía en cada país</a></h4>
     <a href='https://computerhoy.com/noticias/life/mapa-europa-deja-claro-fuente-usa-generar-energia-cada-pais-1130647' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/mapa-europa-deja-claro-fuente-usa-generar-energia-cada-pais-2824717.jpg' alt='El mapa de Europa que deja claro qué fuente se usa para generar la energía en cada país' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/zte-axon-30s-democratizacion-smartphone-camara-pantalla-1130629'>ZTE Axon 30S, la democratización del smartphone con cámara bajo pantalla</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/zte-axon-30s-democratizacion-smartphone-camara-pantalla-1130629' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/analisis-zte-axon-30-2459941.jpg' alt='ZTE Axon 30S, la democratización del smartphone con cámara bajo pantalla' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/experto-haciendo-uso-inteligencia-artificial-crear-pelicula-puedes-participar-1130597'>Un experto está haciendo uso de la inteligencia artificial para crear una película, en la que puedes participar</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/experto-haciendo-uso-inteligencia-artificial-crear-pelicula-puedes-participar-1130597' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/salt-2824585.jpg' alt='Un experto está haciendo uso de la inteligencia artificial para crear una película, en la que puedes participar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/dile-adios-dolores-espalda-mientras-trabajas-gracias-escritorio-elevable-automatico-oferta-1128473'>Dile adiós a los dolores de espalda mientras trabajas gracias a este escritorio elevable automático en oferta</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/dile-adios-dolores-espalda-mientras-trabajas-gracias-escritorio-elevable-automatico-oferta-1128473' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/escritorio-elevable-electrico-399eu-aplicando-cupon-2820565.jpg' alt='Dile adiós a los dolores de espalda mientras trabajas gracias a este escritorio elevable automático en oferta' />
     </a>
 </div>
 
