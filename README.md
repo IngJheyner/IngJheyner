@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/casa-del-dragon-episodio-6-tomas-mas-largas-1130851'>Poca gente se ha dado cuenta, pero el último episodio de La Casa del Dragón ha batido un récord</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/casa-del-dragon-episodio-6-tomas-mas-largas-1130851' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/poca-gente-ha-dado-cuenta-pero-ultimo-episodio-casa-dragon-ha-batido-record-2825169.jpg' alt='Poca gente se ha dado cuenta, pero el último episodio de La Casa del Dragón ha batido un récord' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/whatsapp-quiere-ser-google-meet-ahora-podras-enviar-enlaces-invitacion-llamadas-1130815'>WhatsApp quiere ser Google Meet: ahora podrás enviar enlaces de invitación a llamadas</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/whatsapp-quiere-ser-google-meet-ahora-podras-enviar-enlaces-invitacion-llamadas-1130815' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/whatsapp-2737425.jpg' alt='WhatsApp quiere ser Google Meet: ahora podrás enviar enlaces de invitación a llamadas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/whatsapp-web-como-funciona-diferencias-whatsapp-movil-1130583'>Qué es WhatsApp Web, cómo funciona y diferencias con el WhatsApp de tu móvil</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/whatsapp-web-como-funciona-diferencias-whatsapp-movil-1130583' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/whatsapp-web-2824571.jpg' alt='Qué es WhatsApp Web, cómo funciona y diferencias con el WhatsApp de tu móvil' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/mejores-alternativas-gratis-chat-linea-omegle-1130717'>Las mejores alternativas gratis al chat en línea de Omegle</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/mejores-alternativas-gratis-chat-linea-omegle-1130717' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/omegle-2619297.jpg' alt='Las mejores alternativas gratis al chat en línea de Omegle' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/airpods-pro-2-primeras-impresiones-mejores-auriculares-cancelacion-ruido-apple-1130751'>AirPods Pro 2, primeras impresiones de los mejores auriculares con cancelación de ruido de Apple</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/airpods-pro-2-primeras-impresiones-mejores-auriculares-cancelacion-ruido-apple-1130751' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/apple-airpods-pro-2-2825021.jpg' alt='AirPods Pro 2, primeras impresiones de los mejores auriculares con cancelación de ruido de Apple' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-rotar-texto-google-docs-1130779'>Cómo rotar texto en Google Docs</a></h4>
-    <a href='https://computerhoy.com/tutoriales/tecnologia/como-rotar-texto-google-docs-1130779' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/google-docs-2825039.jpg' alt='Cómo rotar texto en Google Docs' />
     </a>
 </div>
 
