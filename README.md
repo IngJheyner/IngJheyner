@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/guia-compra/freidora-sin-aceite-cecotec-1015425'>Comprar una freidora sin aceite de Cecotec: modelos, diferencias y todo lo que debes tener en cuenta</a></h4>
+    <a href='https://computerhoy.com/guia-compra/freidora-sin-aceite-cecotec-1015425' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/cecotec-cecofry-full-inox-5500-2824051.jpg' alt='Comprar una freidora sin aceite de Cecotec: modelos, diferencias y todo lo que debes tener en cuenta' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/guia-compra/tablet-teletrabajo-1126117'>Guía y consejos para comprar una tablet para teletrabajar</a></h4>
     <a href='https://computerhoy.com/guia-compra/tablet-teletrabajo-1126117' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/tablet-trabajo-2816189.jpg' alt='Guía y consejos para comprar una tablet para teletrabajar' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/mycusini-impresora-chocolate-1130281'>El sueño de los golosos: las impresoras 3D de chocolate llegan a los hogares (vídeo)</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/mycusini-impresora-chocolate-1130281' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/verticalimage1664140767995-2824101.jpg' alt='El sueño de los golosos: las impresoras 3D de chocolate llegan a los hogares (vídeo)' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/jupiter-mas-cerca-tierra-ultimos-59-anos-ver-lunas-simples-prismaticos-1130277'>Júpiter nunca ha estado tan cerca de la Tierra en los últimos 59 años, puedes ver sus lunas con unos prismáticos</a></h4>
-    <a href='https://computerhoy.com/noticias/life/jupiter-mas-cerca-tierra-ultimos-59-anos-ver-lunas-simples-prismaticos-1130277' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/delfin-jupiter-tamano-tierra-puedes-verlo-2219539.jpg' alt='Júpiter nunca ha estado tan cerca de la Tierra en los últimos 59 años, puedes ver sus lunas con unos prismáticos' />
     </a>
 </div>
 
