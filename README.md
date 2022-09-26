@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/primer-trailer-completo-serie-the-last-us-hbo-max-1130879'>La serie The Last of Us estrena su primer tráiler completo, y es tan perturbador como esperábamos</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/primer-trailer-completo-serie-the-last-us-hbo-max-1130879' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/verticalimage1664225411988-2825219.jpg' alt='La serie The Last of Us estrena su primer tráiler completo, y es tan perturbador como esperábamos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/sencillo-truco-puede-solucionar-todos-problemas-conexion-android-auto-1130865'>Un sencillo truco puede solucionar todos los problemas de conexión de Android Auto</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/sencillo-truco-puede-solucionar-todos-problemas-conexion-android-auto-1130865' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/android-auto-2700725.jpg' alt='Un sencillo truco puede solucionar todos los problemas de conexión de Android Auto' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/casa-del-dragon-episodio-6-tomas-mas-largas-1130851'>Poca gente se ha dado cuenta, pero el último episodio de La Casa del Dragón ha batido un récord</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/casa-del-dragon-episodio-6-tomas-mas-largas-1130851' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/poca-gente-ha-dado-cuenta-pero-ultimo-episodio-casa-dragon-ha-batido-record-2825169.jpg' alt='Poca gente se ha dado cuenta, pero el último episodio de La Casa del Dragón ha batido un récord' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/whatsapp-quiere-ser-google-meet-ahora-podras-enviar-enlaces-invitacion-llamadas-1130815'>WhatsApp quiere ser Google Meet: ahora podrás enviar enlaces de invitación a llamadas</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/whatsapp-quiere-ser-google-meet-ahora-podras-enviar-enlaces-invitacion-llamadas-1130815' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/whatsapp-2737425.jpg' alt='WhatsApp quiere ser Google Meet: ahora podrás enviar enlaces de invitación a llamadas' />
     </a>
 </div>
 
