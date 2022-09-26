@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/whatsapp-web-como-funciona-diferencias-whatsapp-movil-1130583'>Qué es WhatsApp Web, cómo funciona y diferencias con el WhatsApp de tu móvil</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/whatsapp-web-como-funciona-diferencias-whatsapp-movil-1130583' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/whatsapp-web-2824571.jpg' alt='Qué es WhatsApp Web, cómo funciona y diferencias con el WhatsApp de tu móvil' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/mediamarkt-adelanta-amazon-mejores-ofertas-semana-1130507'>MediaMarkt se adelanta a Amazon: estas son sus mejores ofertas de la semana</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/mediamarkt-adelanta-amazon-mejores-ofertas-semana-1130507' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/echo-show-8-2431899.jpg' alt='MediaMarkt se adelanta a Amazon: estas son sus mejores ofertas de la semana' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-rotar-texto-google-docs-1130779'>Cómo rotar texto en Google Docs</a></h4>
     <a href='https://computerhoy.com/tutoriales/tecnologia/como-rotar-texto-google-docs-1130779' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/google-docs-2825039.jpg' alt='Cómo rotar texto en Google Docs' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/nintendo-switch-pro-cada-vez-real-culpa-error-nvidia-1130737'>La Nintendo Switch Pro es cada vez más real y la culpa es de un error de NVIDIA</a></h4>
-    <a href='https://computerhoy.com/noticias/nintendo-switch-pro-cada-vez-real-culpa-error-nvidia-1130737' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/analisis-nintendo-switch-oled-2508427.jpg' alt='La Nintendo Switch Pro es cada vez más real y la culpa es de un error de NVIDIA' />
     </a>
 </div>
 
