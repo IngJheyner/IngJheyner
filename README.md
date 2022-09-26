@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/experto-haciendo-uso-inteligencia-artificial-crear-pelicula-puedes-participar-1130597'>Un experto está haciendo uso de la inteligencia artificial para crear una película, en la que puedes participar</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/experto-haciendo-uso-inteligencia-artificial-crear-pelicula-puedes-participar-1130597' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/salt-2824585.jpg' alt='Un experto está haciendo uso de la inteligencia artificial para crear una película, en la que puedes participar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/dile-adios-dolores-espalda-mientras-trabajas-gracias-escritorio-elevable-automatico-oferta-1128473'>Dile adiós a los dolores de espalda mientras trabajas gracias a este escritorio elevable automático en oferta</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/dile-adios-dolores-espalda-mientras-trabajas-gracias-escritorio-elevable-automatico-oferta-1128473' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/escritorio-elevable-electrico-399eu-aplicando-cupon-2820565.jpg' alt='Dile adiós a los dolores de espalda mientras trabajas gracias a este escritorio elevable automático en oferta' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/futuro-negro-listas-iptv-ya-equiparan-crimen-organizado-1130627'>Futuro negro para las listas IPTV que ya se equiparan con el crimen organizado</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/futuro-negro-listas-iptv-ya-equiparan-crimen-organizado-1130627' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/iptv-2818055.jpg' alt='Futuro negro para las listas IPTV que ya se equiparan con el crimen organizado' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/windows-11-podria-ser-menos-eficiente-windows-10-hacer-bateria-portatil-dure-menos-1130565'>Windows 11 podría ser menos eficiente que Windows 10 y hacer que la batería de tu portátil dure menos</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/windows-11-podria-ser-menos-eficiente-windows-10-hacer-bateria-portatil-dure-menos-1130565' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/windows-11-2798545.jpg' alt='Windows 11 podría ser menos eficiente que Windows 10 y hacer que la batería de tu portátil dure menos' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/exprime-todo-rendimiento-gpu-radeon-rx-radeon-monster-profile-13-mejora-menor-consumo-1130555'>Exprime todo el rendimiento de tu GPU Radeon RX con Radeon Monster Profile, hasta un 13 % de mejora con menor consumo</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/exprime-todo-rendimiento-gpu-radeon-rx-radeon-monster-profile-13-mejora-menor-consumo-1130555' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/01/amd_radeon_VII_3.jpg' alt='Exprime todo el rendimiento de tu GPU Radeon RX con Radeon Monster Profile, hasta un 13 % de mejora con menor consumo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/ios-16-trae-oculto-util-fondo-pantalla-bloqueo-iphone-puedes-activarlo-1130515'>iOS 16 trae oculto un útil fondo de pantalla de bloqueo para iPhone, así puedes activarlo</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/ios-16-trae-oculto-util-fondo-pantalla-bloqueo-iphone-puedes-activarlo-1130515' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/ios-16-2724099.jpg' alt='iOS 16 trae oculto un útil fondo de pantalla de bloqueo para iPhone, así puedes activarlo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/gaming/secreto-nuevas-playstation-5-pesan-menos-1130505'>El secreto de por qué las nuevas PlayStation 5 pesan menos</a></h4>
-    <a href='https://computerhoy.com/noticias/gaming/secreto-nuevas-playstation-5-pesan-menos-1130505' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/playstation-5-2640605.jpg' alt='El secreto de por qué las nuevas PlayStation 5 pesan menos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/apple-watch-ultra-vs-martillo-locura-acabamos-ver-hacer-youtuber-1130501'>Apple Watch Ultra vs martillo, la locura que acabamos de ver hacer a un YouTuber</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/apple-watch-ultra-vs-martillo-locura-acabamos-ver-hacer-youtuber-1130501' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/apple-watch-ultra-vs-martillo-locura-acabamos-ver-hacer-youtuber-2824307.jpg' alt='Apple Watch Ultra vs martillo, la locura que acabamos de ver hacer a un YouTuber' />
     </a>
 </div>
 
