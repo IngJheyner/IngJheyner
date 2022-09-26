@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/sencillo-truco-puede-solucionar-todos-problemas-conexion-android-auto-1130865'>Un sencillo truco puede solucionar todos los problemas de conexión de Android Auto</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/sencillo-truco-puede-solucionar-todos-problemas-conexion-android-auto-1130865' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/android-auto-2700725.jpg' alt='Un sencillo truco puede solucionar todos los problemas de conexión de Android Auto' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/pixel-6-pro-google-precio-minimo-oferta-1130863'>El móvil Pixel 6 Pro de Google con 12 GB de RAM baja a su precio mínimo, gracias al descuentazo de 225 euros, solo 674 euros</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/pixel-6-pro-google-precio-minimo-oferta-1130863' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/google-pixel-6-pro-analisis-opinion-2604433.jpg' alt='El móvil Pixel 6 Pro de Google con 12 GB de RAM baja a su precio mínimo, gracias al descuentazo de 225 euros, solo 674 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/detectan-peligroso-troyano-casi-200-apps-google-play-deberias-eliminar-antes-posible-1130859'>Detectan un peligroso troyano en casi 200 apps de Google Play que deberías eliminar lo antes posible</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/detectan-peligroso-troyano-casi-200-apps-google-play-deberias-eliminar-antes-posible-1130859' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/android-malware-2755065.jpg' alt='Detectan un peligroso troyano en casi 200 apps de Google Play que deberías eliminar lo antes posible' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/casa-del-dragon-episodio-6-tomas-mas-largas-1130851'>Poca gente se ha dado cuenta, pero el último episodio de La Casa del Dragón ha batido un récord</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/casa-del-dragon-episodio-6-tomas-mas-largas-1130851' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/poca-gente-ha-dado-cuenta-pero-ultimo-episodio-casa-dragon-ha-batido-record-2825169.jpg' alt='Poca gente se ha dado cuenta, pero el último episodio de La Casa del Dragón ha batido un récord' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/whatsapp-quiere-ser-google-meet-ahora-podras-enviar-enlaces-invitacion-llamadas-1130815'>WhatsApp quiere ser Google Meet: ahora podrás enviar enlaces de invitación a llamadas</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/whatsapp-quiere-ser-google-meet-ahora-podras-enviar-enlaces-invitacion-llamadas-1130815' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/whatsapp-2737425.jpg' alt='WhatsApp quiere ser Google Meet: ahora podrás enviar enlaces de invitación a llamadas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/whatsapp-web-como-funciona-diferencias-whatsapp-movil-1130583'>Qué es WhatsApp Web, cómo funciona y diferencias con el WhatsApp de tu móvil</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/whatsapp-web-como-funciona-diferencias-whatsapp-movil-1130583' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/whatsapp-web-2824571.jpg' alt='Qué es WhatsApp Web, cómo funciona y diferencias con el WhatsApp de tu móvil' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mediamarkt-adelanta-amazon-mejores-ofertas-semana-1130507'>MediaMarkt se adelanta a Amazon: estas son sus mejores ofertas de la semana</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mediamarkt-adelanta-amazon-mejores-ofertas-semana-1130507' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/echo-show-8-2431899.jpg' alt='MediaMarkt se adelanta a Amazon: estas son sus mejores ofertas de la semana' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/mejores-alternativas-gratis-chat-linea-omegle-1130717'>Las mejores alternativas gratis al chat en línea de Omegle</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/mejores-alternativas-gratis-chat-linea-omegle-1130717' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/omegle-2619297.jpg' alt='Las mejores alternativas gratis al chat en línea de Omegle' />
     </a>
 </div>
 
