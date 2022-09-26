@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mediamarkt-adelanta-amazon-mejores-ofertas-semana-1130507'>MediaMarkt se adelanta a Amazon: estas son sus mejores ofertas de la semana</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mediamarkt-adelanta-amazon-mejores-ofertas-semana-1130507' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/echo-show-8-2431899.jpg' alt='MediaMarkt se adelanta a Amazon: estas son sus mejores ofertas de la semana' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/mejores-alternativas-gratis-chat-linea-omegle-1130717'>Las mejores alternativas gratis al chat en línea de Omegle</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/mejores-alternativas-gratis-chat-linea-omegle-1130717' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/omegle-2619297.jpg' alt='Las mejores alternativas gratis al chat en línea de Omegle' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/nintendo-switch-pro-cada-vez-real-culpa-error-nvidia-1130737'>La Nintendo Switch Pro es cada vez más real y la culpa es de un error de NVIDIA</a></h4>
     <a href='https://computerhoy.com/noticias/nintendo-switch-pro-cada-vez-real-culpa-error-nvidia-1130737' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/analisis-nintendo-switch-oled-2508427.jpg' alt='La Nintendo Switch Pro es cada vez más real y la culpa es de un error de NVIDIA' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/peligroso-efecto-secundario-funcion-satelital-iphone-14-1130689'>El peligroso efecto secundario de la función satelital del iPhone 14</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/peligroso-efecto-secundario-funcion-satelital-iphone-14-1130689' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/analisis-iphone-14-2821549.jpg' alt='El peligroso efecto secundario de la función satelital del iPhone 14' />
     </a>
 </div>
 
