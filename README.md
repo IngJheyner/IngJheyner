@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/mejores-alternativas-gratis-chat-linea-omegle-1130717'>Las mejores alternativas gratis al chat en línea de Omegle</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/mejores-alternativas-gratis-chat-linea-omegle-1130717' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/omegle-2619297.jpg' alt='Las mejores alternativas gratis al chat en línea de Omegle' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/airpods-pro-2-primeras-impresiones-mejores-auriculares-cancelacion-ruido-apple-1130751'>AirPods Pro 2, primeras impresiones de los mejores auriculares con cancelación de ruido de Apple</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/airpods-pro-2-primeras-impresiones-mejores-auriculares-cancelacion-ruido-apple-1130751' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/apple-airpods-pro-2-2825021.jpg' alt='AirPods Pro 2, primeras impresiones de los mejores auriculares con cancelación de ruido de Apple' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-rotar-texto-google-docs-1130779'>Cómo rotar texto en Google Docs</a></h4>
+    <a href='https://computerhoy.com/tutoriales/tecnologia/como-rotar-texto-google-docs-1130779' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/google-docs-2825039.jpg' alt='Cómo rotar texto en Google Docs' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/nintendo-switch-pro-cada-vez-real-culpa-error-nvidia-1130737'>La Nintendo Switch Pro es cada vez más real y la culpa es de un error de NVIDIA</a></h4>
     <a href='https://computerhoy.com/noticias/nintendo-switch-pro-cada-vez-real-culpa-error-nvidia-1130737' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/analisis-nintendo-switch-oled-2508427.jpg' alt='La Nintendo Switch Pro es cada vez más real y la culpa es de un error de NVIDIA' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/peligroso-efecto-secundario-funcion-satelital-iphone-14-1130689'>El peligroso efecto secundario de la función satelital del iPhone 14</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/peligroso-efecto-secundario-funcion-satelital-iphone-14-1130689' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/analisis-iphone-14-2821549.jpg' alt='El peligroso efecto secundario de la función satelital del iPhone 14' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/todas-novedades-series-peliculas-llegan-netflix-octubre-2022-1130687'>Todas las novedades de series y películas que llegan a Netflix en octubre 2022</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/todas-novedades-series-peliculas-llegan-netflix-octubre-2022-1130687' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/todas-novedades-series-peliculas-llegan-netflix-octubre-2022-2824903.jpg' alt='Todas las novedades de series y películas que llegan a Netflix en octubre 2022' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/pccomponentes-lanza-mundo-tvs-completa-linea-nilait-todos-publicos-1130655'>PcComponentes se lanza al mundo de las TVs con la completa línea Nilait para todos los públicos</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/pccomponentes-lanza-mundo-tvs-completa-linea-nilait-todos-publicos-1130655' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/pccomponentes-nilait-2824917.jpg' alt='PcComponentes se lanza al mundo de las TVs con la completa línea Nilait para todos los públicos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/amazon-prepara-nuevo-prime-day-dos-semanas-apuntate-conocer-antemano-mejores-ofertas-1130665'>Amazon prepara un nuevo Prime Day en dos semanas, apúntate para conocer de antemano las mejores ofertas</a></h4>
-    <a href='https://computerhoy.com/noticias/life/amazon-prepara-nuevo-prime-day-dos-semanas-apuntate-conocer-antemano-mejores-ofertas-1130665' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/quien-puede-participar-prime-day-2748415.jpg' alt='Amazon prepara un nuevo Prime Day en dos semanas, apúntate para conocer de antemano las mejores ofertas' />
     </a>
 </div>
 
