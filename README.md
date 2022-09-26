@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/nintendo-switch-pro-cada-vez-real-culpa-error-nvidia-1130737'>La Nintendo Switch Pro es cada vez más real y la culpa es de un error de NVIDIA</a></h4>
+    <a href='https://computerhoy.com/noticias/nintendo-switch-pro-cada-vez-real-culpa-error-nvidia-1130737' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/analisis-nintendo-switch-oled-2508427.jpg' alt='La Nintendo Switch Pro es cada vez más real y la culpa es de un error de NVIDIA' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/peligroso-efecto-secundario-funcion-satelital-iphone-14-1130689'>El peligroso efecto secundario de la función satelital del iPhone 14</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/peligroso-efecto-secundario-funcion-satelital-iphone-14-1130689' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/analisis-iphone-14-2821549.jpg' alt='El peligroso efecto secundario de la función satelital del iPhone 14' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/amazon-prepara-nuevo-prime-day-dos-semanas-apuntate-conocer-antemano-mejores-ofertas-1130665'>Amazon prepara un nuevo Prime Day en dos semanas, apúntate para conocer de antemano las mejores ofertas</a></h4>
     <a href='https://computerhoy.com/noticias/life/amazon-prepara-nuevo-prime-day-dos-semanas-apuntate-conocer-antemano-mejores-ofertas-1130665' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/quien-puede-participar-prime-day-2748415.jpg' alt='Amazon prepara un nuevo Prime Day en dos semanas, apúntate para conocer de antemano las mejores ofertas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/ticwatch-pro-3-oferta-amazon-1123741'>Inteligente y deportivo a precio de chollo: este smartwatch TicWatch ha bajado de precio hasta los 164€</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/ticwatch-pro-3-oferta-amazon-1123741' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/analisis-ticwatch-pro-3-ultra-2607453.jpg' alt='Inteligente y deportivo a precio de chollo: este smartwatch TicWatch ha bajado de precio hasta los 164€' />
     </a>
 </div>
 
