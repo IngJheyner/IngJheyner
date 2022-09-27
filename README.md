@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/xiaomi-redmi-note-11-pro-mejor-precio-1131361'>Si te gustan las pantallas grandes a 120 Hz para ver vídeos, series o jugar, el Xiaomi Redmi Note 11 Pro baja a solo 229 euros</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/xiaomi-redmi-note-11-pro-mejor-precio-1131361' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/te-gustan-pantallas-grandes-ver-videos-series-jugar-carga-ultrarrapida-xiaomi-redmi-note-11-pro-baja-solo-229-euros-2826041.jpg' alt='Si te gustan las pantallas grandes a 120 Hz para ver vídeos, series o jugar, el Xiaomi Redmi Note 11 Pro baja a solo 229 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/25-contrasenas-debes-evitar-cuentas-gmail-facebook-1131423'>Las 25 contraseñas que debes evitar en tus cuentas de Gmail o Facebook</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/25-contrasenas-debes-evitar-cuentas-gmail-facebook-1131423' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/contrasenas-2826263.jpg' alt='Las 25 contraseñas que debes evitar en tus cuentas de Gmail o Facebook' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/descubren-dos-nuevas-amenazas-seguridad-whatsapp-debes-actualizar-ya-mismo-1131421'>Descubren dos nuevas amenazas de seguridad en WhatsApp y debes actualizar ya mismo</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/descubren-dos-nuevas-amenazas-seguridad-whatsapp-debes-actualizar-ya-mismo-1131421' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/seguridad-whatsapp-2754239.jpg' alt='Descubren dos nuevas amenazas de seguridad en WhatsApp y debes actualizar ya mismo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/xiaomi-mijia-modular-robot-video-1131417'>El nuevo robot modular de Xiaomi lo montas tú como más te guste (vídeo)</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/xiaomi-mijia-modular-robot-video-1131417' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/verticalimage1664299064733-2826233.jpg' alt='El nuevo robot modular de Xiaomi lo montas tú como más te guste (vídeo)' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/intel-core-13a-generacion-ya-estan-aqui-arquitectura-raptor-lake-prometen-41-rendimiento-1131397'>Los Intel Core de 13ª generación ya están aquí bajo la arquitectura Raptor Lake y prometen un 41% más de rendimiento</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/intel-core-13a-generacion-ya-estan-aqui-arquitectura-raptor-lake-prometen-41-rendimiento-1131397' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/intel-core-13a-generacion-ya-estan-aqui-arquitectura-raptor-lake-prometen-41-rendimiento-2826177.jpg' alt='Los Intel Core de 13ª generación ya están aquí bajo la arquitectura Raptor Lake y prometen un 41% más de rendimiento' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/amazon-liquidacion-iphone-1130641'>Amazon también está de liquidación en iPhone: estos modelos están en perfecto estado</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/amazon-liquidacion-iphone-1130641' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/iphone-13-pro-max-2704797.jpg' alt='Amazon también está de liquidación en iPhone: estos modelos están en perfecto estado' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/detectado-peligroso-adware-apps-ios-android-13-millones-instalaciones-lista-completa-1131323'>Detectado un peligroso adware en apps para iOS y Android con más de 13 millones de instalaciones (lista completa)</a></h4>
-    <a href='https://computerhoy.com/noticias/detectado-peligroso-adware-apps-ios-android-13-millones-instalaciones-lista-completa-1131323' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/adware-apkpure-2294191.jpg' alt='Detectado un peligroso adware en apps para iOS y Android con más de 13 millones de instalaciones (lista completa)' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/supermercados-baratos-caros-2022-ocu-ahorro-casi-1000-euros-1131247'>Los supermercados más baratos y caros de este 2022, según la OCU: ahorro de casi 1000 euros</a></h4>
-    <a href='https://computerhoy.com/noticias/life/supermercados-baratos-caros-2022-ocu-ahorro-casi-1000-euros-1131247' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/hombre-haciendo-compra-2689153.jpg' alt='Los supermercados más baratos y caros de este 2022, según la OCU: ahorro de casi 1000 euros' />
     </a>
 </div>
 
