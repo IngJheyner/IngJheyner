@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/como-saber-te-han-puesto-litros-combustible-has-pagado-gasolinera-1131073'>Cómo saber si te han puesto los litros de combustible que has pagado en la gasolinera</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/como-saber-te-han-puesto-litros-combustible-has-pagado-gasolinera-1131073' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/como-saber-te-han-puesto-litros-has-pagado-gasolinera-2825425.jpg' alt='Cómo saber si te han puesto los litros de combustible que has pagado en la gasolinera' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/motor/coche-autonomo-con-ojos-reduce-atropellos-video-1130887'>Ponerle ojos a un coche autónomo reduce los atropellos en un 64% (vídeo)</a></h4>
     <a href='https://computerhoy.com/noticias/motor/coche-autonomo-con-ojos-reduce-atropellos-video-1130887' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/verticalimage1664231776235-2825245.jpg' alt='Ponerle ojos a un coche autónomo reduce los atropellos en un 64% (vídeo)' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/pixel-6-pro-google-precio-minimo-oferta-1130863'>El móvil Pixel 6 Pro de Google con 12 GB de RAM baja a su precio mínimo, gracias al descuentazo de 225 euros, solo 674 euros</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/pixel-6-pro-google-precio-minimo-oferta-1130863' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/google-pixel-6-pro-analisis-opinion-2604433.jpg' alt='El móvil Pixel 6 Pro de Google con 12 GB de RAM baja a su precio mínimo, gracias al descuentazo de 225 euros, solo 674 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/detectan-peligroso-troyano-casi-200-apps-google-play-deberias-eliminar-antes-posible-1130859'>Detectan un peligroso troyano en casi 200 apps de Google Play que deberías eliminar lo antes posible</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/detectan-peligroso-troyano-casi-200-apps-google-play-deberias-eliminar-antes-posible-1130859' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/android-malware-2755065.jpg' alt='Detectan un peligroso troyano en casi 200 apps de Google Play que deberías eliminar lo antes posible' />
     </a>
 </div>
 
