@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/hoy-google-cumple-24-como-buscador-web-marco-antes-despues-vidas-1131117'>Hoy Google cumple 24 como buscador web, así marcó un antes y un después en nuestras vidas</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/hoy-google-cumple-24-como-buscador-web-marco-antes-despues-vidas-1131117' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/hoy-google-cumple-24-como-buscador-web-marco-antes-despues-vidas-2825461.jpg' alt='Hoy Google cumple 24 como buscador web, así marcó un antes y un después en nuestras vidas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/momento-dart-choca-asteroide-video-exito-nasa-1131099'>El momento en el que DART choca con el asteroide en vídeo, un éxito según la NASA</a></h4>
+    <a href='https://computerhoy.com/noticias/momento-dart-choca-asteroide-video-exito-nasa-1131099' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/dart-mision-nasa-2825457.jpg' alt='El momento en el que DART choca con el asteroide en vídeo, un éxito según la NASA' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-monitores-frecuencia-cardiaca-deporte-1130571'>Mejores monitores de frecuencia cardíaca para hacer deporte que puedes comprar</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/mejores-monitores-frecuencia-cardiaca-deporte-1130571' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/wahoo-tickr-2824689.jpg' alt='Mejores monitores de frecuencia cardíaca para hacer deporte que puedes comprar' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/27-noticias-tecnologia-comenzar-manana-informado-ultimo-1131077'>27 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/27-noticias-tecnologia-comenzar-manana-informado-ultimo-1131077' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/27-noticias-tecnologia-comenzar-manana-informado-ultimo-2825429.jpg' alt='27 noticias de tecnología para comenzar la mañana informado de lo último' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-tablets-baratas-menos-200-euros-puedes-comprar-1129341'>Mejores tablets baratas de menos de 200 euros que puedes comprar</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-tablets-baratas-menos-200-euros-puedes-comprar-1129341' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/realme-pad-2597535.jpg' alt='Mejores tablets baratas de menos de 200 euros que puedes comprar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/como-saber-te-han-puesto-litros-combustible-has-pagado-gasolinera-1131073'>Cómo saber si te han puesto los litros de combustible que has pagado en la gasolinera</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/como-saber-te-han-puesto-litros-combustible-has-pagado-gasolinera-1131073' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/como-saber-te-han-puesto-litros-has-pagado-gasolinera-2825425.jpg' alt='Cómo saber si te han puesto los litros de combustible que has pagado en la gasolinera' />
     </a>
 </div>
 
