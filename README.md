@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/tarjeta-grafica-intel-arc-a770-especificaciones-tecnicas--precio-fecha-lanzamiento-1131443'>La tarjeta gráfica Intel ARC A770 llega a las tiendas el 12 de octubre, cuesta 329 dólares</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/tarjeta-grafica-intel-arc-a770-especificaciones-tecnicas--precio-fecha-lanzamiento-1131443' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/tarjetas-graficas-intel-arc-llegan-tiendas-12-octubre-partir-329-dolares-2826303.jpg' alt='La tarjeta gráfica Intel ARC A770 llega a las tiendas el 12 de octubre, cuesta 329 dólares' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/smartwach-barato-oneplus-deja-ver-completo-nord-watch-1131395'>El smartwach barato de OnePlus se deja ver al completo: así es el Nord Watch</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/smartwach-barato-oneplus-deja-ver-completo-nord-watch-1131395' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/oneplus-watch-diseno-2430523.jpg' alt='El smartwach barato de OnePlus se deja ver al completo: así es el Nord Watch' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/25-contrasenas-debes-evitar-cuentas-gmail-facebook-1131423'>Las 25 contraseñas que debes evitar en tus cuentas de Gmail o Facebook</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/25-contrasenas-debes-evitar-cuentas-gmail-facebook-1131423' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/contrasenas-2826263.jpg' alt='Las 25 contraseñas que debes evitar en tus cuentas de Gmail o Facebook' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/descubren-dos-nuevas-amenazas-seguridad-whatsapp-debes-actualizar-ya-mismo-1131421'>Descubren dos nuevas amenazas de seguridad en WhatsApp y debes actualizar ya mismo</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/descubren-dos-nuevas-amenazas-seguridad-whatsapp-debes-actualizar-ya-mismo-1131421' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/seguridad-whatsapp-2754239.jpg' alt='Descubren dos nuevas amenazas de seguridad en WhatsApp y debes actualizar ya mismo' />
     </a>
 </div>
 
