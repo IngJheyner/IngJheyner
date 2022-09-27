@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/huawei-mate-50-pro-llegara-venta-manera-internacional-1131257'>El Huawei Mate 50 Pro llegará a la venta de manera internacional</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/huawei-mate-50-pro-llegara-venta-manera-internacional-1131257' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/huawei-mate-50-2825783.jpg' alt='El Huawei Mate 50 Pro llegará a la venta de manera internacional' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/maravillosa-scene-android-hace-posible-samsung-galaxy-s3-note-2-10-anos-reciban-android-13-1131227'>La maravillosa scene Android hace posible que Samsung Galaxy S3 y Note 2, con más de 10 años, reciban Android 13</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/maravillosa-scene-android-hace-posible-samsung-galaxy-s3-note-2-10-anos-reciban-android-13-1131227' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/maravillosa-scene-android-hace-posible-samsung-galaxy-s3-note-2-10-anos-reciban-android-13-2825739.jpg' alt='La maravillosa scene Android hace posible que Samsung Galaxy S3 y Note 2, con más de 10 años, reciban Android 13' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/pixel-7-pro-sera-iphone-14-google-mismo-hardware-pixel-6-pro-ligeros-toques-1131237'>El Pixel 7 Pro será el iPhone 14 de Google, mismo hardware que Pixel 6 Pro con ligeros toques</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/pixel-7-pro-sera-iphone-14-google-mismo-hardware-pixel-6-pro-ligeros-toques-1131237' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/pixel-7-pro-2825737.jpg' alt='El Pixel 7 Pro será el iPhone 14 de Google, mismo hardware que Pixel 6 Pro con ligeros toques' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/nuevos-macbook-air-m2-ya-son-174-euros-baratos-puedes-elegir-color-1131175'>Los nuevos MacBook Air con M2 ya son 174 euros más baratos, y puedes elegir color</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/nuevos-macbook-air-m2-ya-son-174-euros-baratos-puedes-elegir-color-1131175' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/analisis-macbook-air-m2-2779349.jpg' alt='Los nuevos MacBook Air con M2 ya son 174 euros más baratos, y puedes elegir color' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/cientificos-encuentran-arma-perfecta-cancer-virus-herpes-modificado-geneticamente-funciona-1131183'>Científicos encuentran el arma perfecta contra el cáncer: virus del herpes modificado genéticamente, ¡y funciona!</a></h4>
-    <a href='https://computerhoy.com/noticias/cientificos-encuentran-arma-perfecta-cancer-virus-herpes-modificado-geneticamente-funciona-1131183' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/06/celulas-cancer.jpg' alt='Científicos encuentran el arma perfecta contra el cáncer: virus del herpes modificado genéticamente, ¡y funciona!' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/nuevo-plegable-llega-ciudad-vivo-x-fold-especificaciones-top-diseno-premium-1131167'>Un nuevo plegable llega a la ciudad, vivo X Fold+, con especificaciones top y diseño premium</a></h4>
-    <a href='https://computerhoy.com/noticias/nuevo-plegable-llega-ciudad-vivo-x-fold-especificaciones-top-diseno-premium-1131167' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/nuevo-plegable-llega-ciudad-vivo-x-fold-especificaciones-top-diseno-premium-2825661.jpg' alt='Un nuevo plegable llega a la ciudad, vivo X Fold+, con especificaciones top y diseño premium' />
     </a>
 </div>
 
