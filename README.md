@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/amazon-liquidacion-iphone-1130641'>Amazon también está de liquidación en iPhone: estos modelos están en perfecto estado</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/amazon-liquidacion-iphone-1130641' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/iphone-13-pro-max-2704797.jpg' alt='Amazon también está de liquidación en iPhone: estos modelos están en perfecto estado' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/detectado-peligroso-adware-apps-ios-android-13-millones-instalaciones-lista-completa-1131323'>Detectado un peligroso adware en apps para iOS y Android con más de 13 millones de instalaciones (lista completa)</a></h4>
     <a href='https://computerhoy.com/noticias/detectado-peligroso-adware-apps-ios-android-13-millones-instalaciones-lista-completa-1131323' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/adware-apkpure-2294191.jpg' alt='Detectado un peligroso adware en apps para iOS y Android con más de 13 millones de instalaciones (lista completa)' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-ver-tdt-online-kodi-vlc-internet-directo-291513'>Cómo ver la TDT online con Kodi y VLC por Internet y en directo</a></h4>
     <a href='https://computerhoy.com/tutoriales/tecnologia/como-ver-tdt-online-kodi-vlc-internet-directo-291513' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/08/ver-tdt-online-kodi-vlc-internet_5.jpg' alt='Cómo ver la TDT online con Kodi y VLC por Internet y en directo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/nuevos-amd-ryzen-7000-demuestran-intel-cual-camino-eficiencia-energetica-1131315'>Los nuevos AMD Ryzen 7000 demuestran a Intel cuál es el camino de la eficiencia energética</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/nuevos-amd-ryzen-7000-demuestran-intel-cual-camino-eficiencia-energetica-1131315' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/amd-ryzen-7000-2825937.jpg' alt='Los nuevos AMD Ryzen 7000 demuestran a Intel cuál es el camino de la eficiencia energética' />
     </a>
 </div>
 
