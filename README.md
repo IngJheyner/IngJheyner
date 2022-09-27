@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/ia-resucita-artistas-fallecidos-80-90-serian-mayores-1131325'>Una IA resucita a los artistas fallecidos en los 80 y 90: así serían de mayores</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/ia-resucita-artistas-fallecidos-80-90-serian-mayores-1131325' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/kurt-cobein-2825943.jpg' alt='Una IA resucita a los artistas fallecidos en los 80 y 90: así serían de mayores' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-ver-tdt-online-kodi-vlc-internet-directo-291513'>Cómo ver la TDT online con Kodi y VLC por Internet y en directo</a></h4>
     <a href='https://computerhoy.com/tutoriales/tecnologia/como-ver-tdt-online-kodi-vlc-internet-directo-291513' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/08/ver-tdt-online-kodi-vlc-internet_5.jpg' alt='Cómo ver la TDT online con Kodi y VLC por Internet y en directo' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/como-ver-recibo-ibi-casa-internet-1131277'>Cómo ver el recibo del IBI de tu casa por Internet</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/como-ver-recibo-ibi-casa-internet-1131277' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/inquilinos-recibiendo-llaves-casa-2778125.jpg' alt='Cómo ver el recibo del IBI de tu casa por Internet' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/lg-gram-14z-oferta-400-euros-descuento-1109753'>16 GB de RAM, Intel Core i7 y solo 1 kg de peso: este portátil ultraligero tiene casi 400 euros de descuento</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/lg-gram-14z-oferta-400-euros-descuento-1109753' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/lg-gram-analisis-opinion-2570155.jpg' alt='16 GB de RAM, Intel Core i7 y solo 1 kg de peso: este portátil ultraligero tiene casi 400 euros de descuento' />
     </a>
 </div>
 
