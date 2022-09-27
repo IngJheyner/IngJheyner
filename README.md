@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/coche-autonomo-con-ojos-reduce-atropellos-video-1130887'>Ponerle ojos a un coche autónomo reduce los atropellos en un 64% (vídeo)</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/coche-autonomo-con-ojos-reduce-atropellos-video-1130887' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/verticalimage1664231776235-2825245.jpg' alt='Ponerle ojos a un coche autónomo reduce los atropellos en un 64% (vídeo)' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/primer-trailer-completo-serie-the-last-us-hbo-max-1130879'>La serie The Last of Us estrena su primer tráiler completo, y es tan perturbador como esperábamos</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/primer-trailer-completo-serie-the-last-us-hbo-max-1130879' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/verticalimage1664225411988-2825219.jpg' alt='La serie The Last of Us estrena su primer tráiler completo, y es tan perturbador como esperábamos' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/detectan-peligroso-troyano-casi-200-apps-google-play-deberias-eliminar-antes-posible-1130859'>Detectan un peligroso troyano en casi 200 apps de Google Play que deberías eliminar lo antes posible</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/detectan-peligroso-troyano-casi-200-apps-google-play-deberias-eliminar-antes-posible-1130859' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/android-malware-2755065.jpg' alt='Detectan un peligroso troyano en casi 200 apps de Google Play que deberías eliminar lo antes posible' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/casa-del-dragon-episodio-6-tomas-mas-largas-1130851'>Poca gente se ha dado cuenta, pero el último episodio de La Casa del Dragón ha batido un récord</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/casa-del-dragon-episodio-6-tomas-mas-largas-1130851' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/poca-gente-ha-dado-cuenta-pero-ultimo-episodio-casa-dragon-ha-batido-record-2825169.jpg' alt='Poca gente se ha dado cuenta, pero el último episodio de La Casa del Dragón ha batido un récord' />
     </a>
 </div>
 
