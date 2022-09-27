@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-ver-tdt-online-kodi-vlc-internet-directo-291513'>Cómo ver la TDT online con Kodi y VLC por Internet y en directo</a></h4>
+    <a href='https://computerhoy.com/tutoriales/tecnologia/como-ver-tdt-online-kodi-vlc-internet-directo-291513' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/08/ver-tdt-online-kodi-vlc-internet_5.jpg' alt='Cómo ver la TDT online con Kodi y VLC por Internet y en directo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/nuevos-amd-ryzen-7000-demuestran-intel-cual-camino-eficiencia-energetica-1131315'>Los nuevos AMD Ryzen 7000 demuestran a Intel cuál es el camino de la eficiencia energética</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/nuevos-amd-ryzen-7000-demuestran-intel-cual-camino-eficiencia-energetica-1131315' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/amd-ryzen-7000-2825937.jpg' alt='Los nuevos AMD Ryzen 7000 demuestran a Intel cuál es el camino de la eficiencia energética' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/realmente-bateria-apple-watch-ultra-despiece-video-1131287'>Así es realmente la batería del Apple Watch Ultra, despiece en vídeo</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/realmente-bateria-apple-watch-ultra-despiece-video-1131287' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/realmente-bateria-apple-watch-ultra-despiece-video-2825859.jpg' alt='Así es realmente la batería del Apple Watch Ultra, despiece en vídeo' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/lg-gram-14z-oferta-400-euros-descuento-1109753'>16 GB de RAM, Intel Core i7 y solo 1 kg de peso: este portátil ultraligero tiene casi 400 euros de descuento</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/lg-gram-14z-oferta-400-euros-descuento-1109753' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/lg-gram-analisis-opinion-2570155.jpg' alt='16 GB de RAM, Intel Core i7 y solo 1 kg de peso: este portátil ultraligero tiene casi 400 euros de descuento' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/huawei-mate-50-pro-llegara-venta-manera-internacional-1131257'>El Huawei Mate 50 Pro llegará a la venta de manera internacional</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/huawei-mate-50-pro-llegara-venta-manera-internacional-1131257' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/huawei-mate-50-2825783.jpg' alt='El Huawei Mate 50 Pro llegará a la venta de manera internacional' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/maravillosa-scene-android-hace-posible-samsung-galaxy-s3-note-2-10-anos-reciban-android-13-1131227'>La maravillosa scene Android hace posible que Samsung Galaxy S3 y Note 2, con más de 10 años, reciban Android 13</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/maravillosa-scene-android-hace-posible-samsung-galaxy-s3-note-2-10-anos-reciban-android-13-1131227' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/maravillosa-scene-android-hace-posible-samsung-galaxy-s3-note-2-10-anos-reciban-android-13-2825739.jpg' alt='La maravillosa scene Android hace posible que Samsung Galaxy S3 y Note 2, con más de 10 años, reciban Android 13' />
     </a>
 </div>
 
