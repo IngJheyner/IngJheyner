@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-monitores-frecuencia-cardiaca-deporte-1130571'>Mejores monitores de frecuencia cardíaca para hacer deporte que puedes comprar</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-monitores-frecuencia-cardiaca-deporte-1130571' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/wahoo-tickr-2824689.jpg' alt='Mejores monitores de frecuencia cardíaca para hacer deporte que puedes comprar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/tres-tipos-grasa-corporal-como-reducirla-1131089'>Existen tres tipos de grasa en el cuerpo y así puedes reducir cada uno de ellos</a></h4>
+    <a href='https://computerhoy.com/noticias/life/tres-tipos-grasa-corporal-como-reducirla-1131089' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/existen-tres-tripos-grasa-cuerpo-como-puedes-reducir-cada-ellas-2825433.jpg' alt='Existen tres tipos de grasa en el cuerpo y así puedes reducir cada uno de ellos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/27-noticias-tecnologia-comenzar-manana-informado-ultimo-1131077'>27 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/27-noticias-tecnologia-comenzar-manana-informado-ultimo-1131077' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/27-noticias-tecnologia-comenzar-manana-informado-ultimo-2825429.jpg' alt='27 noticias de tecnología para comenzar la mañana informado de lo último' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/motor/como-saber-te-han-puesto-litros-combustible-has-pagado-gasolinera-1131073'>Cómo saber si te han puesto los litros de combustible que has pagado en la gasolinera</a></h4>
     <a href='https://computerhoy.com/noticias/motor/como-saber-te-han-puesto-litros-combustible-has-pagado-gasolinera-1131073' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/como-saber-te-han-puesto-litros-has-pagado-gasolinera-2825425.jpg' alt='Cómo saber si te han puesto los litros de combustible que has pagado en la gasolinera' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/coche-autonomo-con-ojos-reduce-atropellos-video-1130887'>Ponerle ojos a un coche autónomo reduce los atropellos en un 64% (vídeo)</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/coche-autonomo-con-ojos-reduce-atropellos-video-1130887' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/verticalimage1664231776235-2825245.jpg' alt='Ponerle ojos a un coche autónomo reduce los atropellos en un 64% (vídeo)' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/primer-trailer-completo-serie-the-last-us-hbo-max-1130879'>La serie The Last of Us estrena su primer tráiler completo, y es tan perturbador como esperábamos</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/primer-trailer-completo-serie-the-last-us-hbo-max-1130879' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/verticalimage1664225411988-2825219.jpg' alt='La serie The Last of Us estrena su primer tráiler completo, y es tan perturbador como esperábamos' />
     </a>
 </div>
 
