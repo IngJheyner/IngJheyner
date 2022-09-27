@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/pixel-7-pro-sera-iphone-14-google-mismo-hardware-pixel-6-pro-ligeros-toques-1131237'>El Pixel 7 Pro será el iPhone 14 de Google, mismo hardware que Pixel 6 Pro con ligeros toques</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/pixel-7-pro-sera-iphone-14-google-mismo-hardware-pixel-6-pro-ligeros-toques-1131237' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/pixel-7-pro-2825737.jpg' alt='El Pixel 7 Pro será el iPhone 14 de Google, mismo hardware que Pixel 6 Pro con ligeros toques' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/ig-nobel-prizes-2022-premios-sacan-colores-estudios-cientificos-ridiculos-como-demostrar-tan-dificil-leer-contrato-1131187'>Ig Nobel Prizes 2022, los premios que sacan los colores a estudios científicos ridículos como demostrar por qué es tan difícil leer un contrato</a></h4>
+    <a href='https://computerhoy.com/noticias/life/ig-nobel-prizes-2022-premios-sacan-colores-estudios-cientificos-ridiculos-como-demostrar-tan-dificil-leer-contrato-1131187' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/ig-nobel-prizes-2022-2825651.jpg' alt='Ig Nobel Prizes 2022, los premios que sacan los colores a estudios científicos ridículos como demostrar por qué es tan difícil leer un contrato' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/nuevos-macbook-air-m2-ya-son-174-euros-baratos-puedes-elegir-color-1131175'>Los nuevos MacBook Air con M2 ya son 174 euros más baratos, y puedes elegir color</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/nuevos-macbook-air-m2-ya-son-174-euros-baratos-puedes-elegir-color-1131175' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/analisis-macbook-air-m2-2779349.jpg' alt='Los nuevos MacBook Air con M2 ya son 174 euros más baratos, y puedes elegir color' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/nuevo-plegable-llega-ciudad-vivo-x-fold-especificaciones-top-diseno-premium-1131167'>Un nuevo plegable llega a la ciudad, vivo X Fold+, con especificaciones top y diseño premium</a></h4>
     <a href='https://computerhoy.com/noticias/nuevo-plegable-llega-ciudad-vivo-x-fold-especificaciones-top-diseno-premium-1131167' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/nuevo-plegable-llega-ciudad-vivo-x-fold-especificaciones-top-diseno-premium-2825661.jpg' alt='Un nuevo plegable llega a la ciudad, vivo X Fold+, con especificaciones top y diseño premium' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/gaming/netflix-da-salto-gaming-creando-primer-estudio-videojuegos-1131171'>Netflix da el salto al gaming creando su primer estudio de videojuegos</a></h4>
-    <a href='https://computerhoy.com/noticias/gaming/netflix-da-salto-gaming-creando-primer-estudio-videojuegos-1131171' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/netflix-gaming-2825567.jpg' alt='Netflix da el salto al gaming creando su primer estudio de videojuegos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/primera-roomba-irobot-aspira-friega-manera-selectiva-gracias-curioso-mecanismo-1131145'>La primera Roomba de iRobot que aspira y/o friega de manera selectiva gracias a un curioso mecanismo</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/primera-roomba-irobot-aspira-friega-manera-selectiva-gracias-curioso-mecanismo-1131145' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/primera-roomba-irobot-aspira-friega-manera-selectiva-gracias-curioso-mecanismo-2825483.jpg' alt='La primera Roomba de iRobot que aspira y/o friega de manera selectiva gracias a un curioso mecanismo' />
     </a>
 </div>
 
