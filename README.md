@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/nuevos-macbook-air-m2-ya-son-174-euros-baratos-puedes-elegir-color-1131175'>Los nuevos MacBook Air con M2 ya son 174 euros más baratos, y puedes elegir color</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/nuevos-macbook-air-m2-ya-son-174-euros-baratos-puedes-elegir-color-1131175' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/analisis-macbook-air-m2-2779349.jpg' alt='Los nuevos MacBook Air con M2 ya son 174 euros más baratos, y puedes elegir color' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/cientificos-encuentran-arma-perfecta-cancer-virus-herpes-modificado-geneticamente-funciona-1131183'>Científicos encuentran el arma perfecta contra el cáncer: virus del herpes modificado genéticamente, ¡y funciona!</a></h4>
+    <a href='https://computerhoy.com/noticias/cientificos-encuentran-arma-perfecta-cancer-virus-herpes-modificado-geneticamente-funciona-1131183' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/06/celulas-cancer.jpg' alt='Científicos encuentran el arma perfecta contra el cáncer: virus del herpes modificado genéticamente, ¡y funciona!' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/nuevo-plegable-llega-ciudad-vivo-x-fold-especificaciones-top-diseno-premium-1131167'>Un nuevo plegable llega a la ciudad, vivo X Fold+, con especificaciones top y diseño premium</a></h4>
+    <a href='https://computerhoy.com/noticias/nuevo-plegable-llega-ciudad-vivo-x-fold-especificaciones-top-diseno-premium-1131167' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/nuevo-plegable-llega-ciudad-vivo-x-fold-especificaciones-top-diseno-premium-2825661.jpg' alt='Un nuevo plegable llega a la ciudad, vivo X Fold+, con especificaciones top y diseño premium' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/gaming/netflix-da-salto-gaming-creando-primer-estudio-videojuegos-1131171'>Netflix da el salto al gaming creando su primer estudio de videojuegos</a></h4>
     <a href='https://computerhoy.com/noticias/gaming/netflix-da-salto-gaming-creando-primer-estudio-videojuegos-1131171' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/netflix-gaming-2825567.jpg' alt='Netflix da el salto al gaming creando su primer estudio de videojuegos' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/primera-roomba-irobot-aspira-friega-manera-selectiva-gracias-curioso-mecanismo-1131145'>La primera Roomba de iRobot que aspira y/o friega de manera selectiva gracias a un curioso mecanismo</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/primera-roomba-irobot-aspira-friega-manera-selectiva-gracias-curioso-mecanismo-1131145' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/primera-roomba-irobot-aspira-friega-manera-selectiva-gracias-curioso-mecanismo-2825483.jpg' alt='La primera Roomba de iRobot que aspira y/o friega de manera selectiva gracias a un curioso mecanismo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-evitar-miradas-indiscretas-conversaciones-whatsapp-web-915915'>Cómo evitar miradas indiscretas a tus conversaciones en WhatsApp Web</a></h4>
-    <a href='https://computerhoy.com/tutoriales/tecnologia/como-evitar-miradas-indiscretas-conversaciones-whatsapp-web-915915' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/03/whatsapp-2279241.jpg' alt='Cómo evitar miradas indiscretas a tus conversaciones en WhatsApp Web' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/acabo-abrir-webs-pantalla-completa-google-1131127'>Se acabó el abrir webs a pantalla completa para Google</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/acabo-abrir-webs-pantalla-completa-google-1131127' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/05/google-discover-como-sacarle-maximo-partido_1.jpg' alt='Se acabó el abrir webs a pantalla completa para Google' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/apple-watch-series-7-rebaja-70-euros-1130675'>El Apple Watch Series 7 reacciona a las novedades y suma una rebaja de 70 euros</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/apple-watch-series-7-rebaja-70-euros-1130675' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/apple-watch-series-7-2513213.jpg' alt='El Apple Watch Series 7 reacciona a las novedades y suma una rebaja de 70 euros' />
     </a>
 </div>
 
