@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/smartwach-barato-oneplus-deja-ver-completo-nord-watch-1131395'>El smartwach barato de OnePlus se deja ver al completo: así es el Nord Watch</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/smartwach-barato-oneplus-deja-ver-completo-nord-watch-1131395' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/oneplus-watch-diseno-2430523.jpg' alt='El smartwach barato de OnePlus se deja ver al completo: así es el Nord Watch' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/salvar-rey-hbo-max-primer-episodio-gratis-1131433'>Cómo ver gratis el primer capítulo de Salvar al Rey de HBO Max, sin registro</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/salvar-rey-hbo-max-primer-episodio-gratis-1131433' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/verticalimage1664304433094-2826295.jpg' alt='Cómo ver gratis el primer capítulo de Salvar al Rey de HBO Max, sin registro' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/xiaomi-redmi-note-11-pro-mejor-precio-1131361'>Si te gustan las pantallas grandes a 120 Hz para ver vídeos, series o jugar, el Xiaomi Redmi Note 11 Pro baja a solo 229 euros</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/xiaomi-redmi-note-11-pro-mejor-precio-1131361' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/te-gustan-pantallas-grandes-ver-videos-series-jugar-carga-ultrarrapida-xiaomi-redmi-note-11-pro-baja-solo-229-euros-2826041.jpg' alt='Si te gustan las pantallas grandes a 120 Hz para ver vídeos, series o jugar, el Xiaomi Redmi Note 11 Pro baja a solo 229 euros' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/descubren-dos-nuevas-amenazas-seguridad-whatsapp-debes-actualizar-ya-mismo-1131421'>Descubren dos nuevas amenazas de seguridad en WhatsApp y debes actualizar ya mismo</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/descubren-dos-nuevas-amenazas-seguridad-whatsapp-debes-actualizar-ya-mismo-1131421' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/seguridad-whatsapp-2754239.jpg' alt='Descubren dos nuevas amenazas de seguridad en WhatsApp y debes actualizar ya mismo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/xiaomi-mijia-modular-robot-video-1131417'>El nuevo robot modular de Xiaomi lo montas tú como más te guste (vídeo)</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/xiaomi-mijia-modular-robot-video-1131417' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/verticalimage1664299064733-2826233.jpg' alt='El nuevo robot modular de Xiaomi lo montas tú como más te guste (vídeo)' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/intel-core-13a-generacion-ya-estan-aqui-arquitectura-raptor-lake-prometen-41-rendimiento-1131397'>Los Intel Core de 13ª generación ya están aquí bajo la arquitectura Raptor Lake y prometen un 41% más de rendimiento</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/intel-core-13a-generacion-ya-estan-aqui-arquitectura-raptor-lake-prometen-41-rendimiento-1131397' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/intel-core-13a-generacion-ya-estan-aqui-arquitectura-raptor-lake-prometen-41-rendimiento-2826177.jpg' alt='Los Intel Core de 13ª generación ya están aquí bajo la arquitectura Raptor Lake y prometen un 41% más de rendimiento' />
     </a>
 </div>
 
