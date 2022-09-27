@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/hoy-google-cumple-24-como-buscador-web-marco-antes-despues-vidas-1131117'>Hoy Google cumple 24 como buscador web, así marcó un antes y un después en nuestras vidas</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/hoy-google-cumple-24-como-buscador-web-marco-antes-despues-vidas-1131117' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/hoy-google-cumple-24-como-buscador-web-marco-antes-despues-vidas-2825461.jpg' alt='Hoy Google cumple 24 como buscador web, así marcó un antes y un después en nuestras vidas' />
+    <h4><a href='https://computerhoy.com/noticias/gaming/netflix-da-salto-gaming-creando-primer-estudio-videojuegos-1131171'>Netflix da el salto al gaming creando su primer estudio de videojuegos</a></h4>
+    <a href='https://computerhoy.com/noticias/gaming/netflix-da-salto-gaming-creando-primer-estudio-videojuegos-1131171' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/netflix-gaming-2825567.jpg' alt='Netflix da el salto al gaming creando su primer estudio de videojuegos' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/momento-dart-choca-asteroide-video-exito-nasa-1131099'>El momento en el que DART choca con el asteroide en vídeo, un éxito según la NASA</a></h4>
-    <a href='https://computerhoy.com/noticias/momento-dart-choca-asteroide-video-exito-nasa-1131099' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/dart-mision-nasa-2825457.jpg' alt='El momento en el que DART choca con el asteroide en vídeo, un éxito según la NASA' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/primera-roomba-irobot-aspira-friega-manera-selectiva-gracias-curioso-mecanismo-1131145'>La primera Roomba de iRobot que aspira y/o friega de manera selectiva gracias a un curioso mecanismo</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/primera-roomba-irobot-aspira-friega-manera-selectiva-gracias-curioso-mecanismo-1131145' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/primera-roomba-irobot-aspira-friega-manera-selectiva-gracias-curioso-mecanismo-2825483.jpg' alt='La primera Roomba de iRobot que aspira y/o friega de manera selectiva gracias a un curioso mecanismo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-monitores-frecuencia-cardiaca-deporte-1130571'>Mejores monitores de frecuencia cardíaca para hacer deporte que puedes comprar</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-monitores-frecuencia-cardiaca-deporte-1130571' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/wahoo-tickr-2824689.jpg' alt='Mejores monitores de frecuencia cardíaca para hacer deporte que puedes comprar' />
+    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-evitar-miradas-indiscretas-conversaciones-whatsapp-web-915915'>Cómo evitar miradas indiscretas a tus conversaciones en WhatsApp Web</a></h4>
+    <a href='https://computerhoy.com/tutoriales/tecnologia/como-evitar-miradas-indiscretas-conversaciones-whatsapp-web-915915' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/03/whatsapp-2279241.jpg' alt='Cómo evitar miradas indiscretas a tus conversaciones en WhatsApp Web' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/tres-tipos-grasa-corporal-como-reducirla-1131089'>Existen tres tipos de grasa en el cuerpo y así puedes reducir cada uno de ellos</a></h4>
-    <a href='https://computerhoy.com/noticias/life/tres-tipos-grasa-corporal-como-reducirla-1131089' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/existen-tres-tripos-grasa-cuerpo-como-puedes-reducir-cada-ellas-2825433.jpg' alt='Existen tres tipos de grasa en el cuerpo y así puedes reducir cada uno de ellos' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/acabo-abrir-webs-pantalla-completa-google-1131127'>Se acabó el abrir webs a pantalla completa para Google</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/acabo-abrir-webs-pantalla-completa-google-1131127' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/05/google-discover-como-sacarle-maximo-partido_1.jpg' alt='Se acabó el abrir webs a pantalla completa para Google' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/27-noticias-tecnologia-comenzar-manana-informado-ultimo-1131077'>27 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/27-noticias-tecnologia-comenzar-manana-informado-ultimo-1131077' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/27-noticias-tecnologia-comenzar-manana-informado-ultimo-2825429.jpg' alt='27 noticias de tecnología para comenzar la mañana informado de lo último' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/apple-watch-series-7-rebaja-70-euros-1130675'>El Apple Watch Series 7 reacciona a las novedades y suma una rebaja de 70 euros</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/apple-watch-series-7-rebaja-70-euros-1130675' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/apple-watch-series-7-2513213.jpg' alt='El Apple Watch Series 7 reacciona a las novedades y suma una rebaja de 70 euros' />
     </a>
 </div>
 
