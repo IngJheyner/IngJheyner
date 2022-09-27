@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/detectado-peligroso-adware-apps-ios-android-13-millones-instalaciones-lista-completa-1131323'>Detectado un peligroso adware en apps para iOS y Android con más de 13 millones de instalaciones (lista completa)</a></h4>
+    <a href='https://computerhoy.com/noticias/detectado-peligroso-adware-apps-ios-android-13-millones-instalaciones-lista-completa-1131323' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/adware-apkpure-2294191.jpg' alt='Detectado un peligroso adware en apps para iOS y Android con más de 13 millones de instalaciones (lista completa)' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/supermercados-baratos-caros-2022-ocu-ahorro-casi-1000-euros-1131247'>Los supermercados más baratos y caros de este 2022, según la OCU: ahorro de casi 1000 euros</a></h4>
+    <a href='https://computerhoy.com/noticias/life/supermercados-baratos-caros-2022-ocu-ahorro-casi-1000-euros-1131247' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/hombre-haciendo-compra-2689153.jpg' alt='Los supermercados más baratos y caros de este 2022, según la OCU: ahorro de casi 1000 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/ia-resucita-artistas-fallecidos-80-90-serian-mayores-1131325'>Una IA resucita a los artistas fallecidos en los 80 y 90: así serían de mayores</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/ia-resucita-artistas-fallecidos-80-90-serian-mayores-1131325' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/kurt-cobein-2825943.jpg' alt='Una IA resucita a los artistas fallecidos en los 80 y 90: así serían de mayores' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/nuevos-amd-ryzen-7000-demuestran-intel-cual-camino-eficiencia-energetica-1131315'>Los nuevos AMD Ryzen 7000 demuestran a Intel cuál es el camino de la eficiencia energética</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/nuevos-amd-ryzen-7000-demuestran-intel-cual-camino-eficiencia-energetica-1131315' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/amd-ryzen-7000-2825937.jpg' alt='Los nuevos AMD Ryzen 7000 demuestran a Intel cuál es el camino de la eficiencia energética' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/realmente-bateria-apple-watch-ultra-despiece-video-1131287'>Así es realmente la batería del Apple Watch Ultra, despiece en vídeo</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/realmente-bateria-apple-watch-ultra-despiece-video-1131287' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/realmente-bateria-apple-watch-ultra-despiece-video-2825859.jpg' alt='Así es realmente la batería del Apple Watch Ultra, despiece en vídeo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/como-ver-recibo-ibi-casa-internet-1131277'>Cómo ver el recibo del IBI de tu casa por Internet</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/como-ver-recibo-ibi-casa-internet-1131277' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/inquilinos-recibiendo-llaves-casa-2778125.jpg' alt='Cómo ver el recibo del IBI de tu casa por Internet' />
     </a>
 </div>
 
