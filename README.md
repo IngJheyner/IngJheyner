@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/realmente-bateria-apple-watch-ultra-despiece-video-1131287'>Así es realmente la batería del Apple Watch Ultra, despiece en vídeo</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/realmente-bateria-apple-watch-ultra-despiece-video-1131287' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/realmente-bateria-apple-watch-ultra-despiece-video-2825859.jpg' alt='Así es realmente la batería del Apple Watch Ultra, despiece en vídeo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/como-ver-recibo-ibi-casa-internet-1131277'>Cómo ver el recibo del IBI de tu casa por Internet</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/como-ver-recibo-ibi-casa-internet-1131277' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/inquilinos-recibiendo-llaves-casa-2778125.jpg' alt='Cómo ver el recibo del IBI de tu casa por Internet' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/lg-gram-14z-oferta-400-euros-descuento-1109753'>16 GB de RAM, Intel Core i7 y solo 1 kg de peso: este portátil ultraligero tiene casi 400 euros de descuento</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/lg-gram-14z-oferta-400-euros-descuento-1109753' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/lg-gram-analisis-opinion-2570155.jpg' alt='16 GB de RAM, Intel Core i7 y solo 1 kg de peso: este portátil ultraligero tiene casi 400 euros de descuento' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/huawei-mate-50-pro-llegara-venta-manera-internacional-1131257'>El Huawei Mate 50 Pro llegará a la venta de manera internacional</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/huawei-mate-50-pro-llegara-venta-manera-internacional-1131257' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/huawei-mate-50-2825783.jpg' alt='El Huawei Mate 50 Pro llegará a la venta de manera internacional' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/maravillosa-scene-android-hace-posible-samsung-galaxy-s3-note-2-10-anos-reciban-android-13-1131227'>La maravillosa scene Android hace posible que Samsung Galaxy S3 y Note 2, con más de 10 años, reciban Android 13</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/maravillosa-scene-android-hace-posible-samsung-galaxy-s3-note-2-10-anos-reciban-android-13-1131227' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/maravillosa-scene-android-hace-posible-samsung-galaxy-s3-note-2-10-anos-reciban-android-13-2825739.jpg' alt='La maravillosa scene Android hace posible que Samsung Galaxy S3 y Note 2, con más de 10 años, reciban Android 13' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/pixel-7-pro-sera-iphone-14-google-mismo-hardware-pixel-6-pro-ligeros-toques-1131237'>El Pixel 7 Pro será el iPhone 14 de Google, mismo hardware que Pixel 6 Pro con ligeros toques</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/pixel-7-pro-sera-iphone-14-google-mismo-hardware-pixel-6-pro-ligeros-toques-1131237' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/pixel-7-pro-2825737.jpg' alt='El Pixel 7 Pro será el iPhone 14 de Google, mismo hardware que Pixel 6 Pro con ligeros toques' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/ig-nobel-prizes-2022-premios-sacan-colores-estudios-cientificos-ridiculos-como-demostrar-tan-dificil-leer-contrato-1131187'>Ig Nobel Prizes 2022, los premios que sacan los colores a estudios científicos ridículos como demostrar por qué es tan difícil leer un contrato</a></h4>
-    <a href='https://computerhoy.com/noticias/life/ig-nobel-prizes-2022-premios-sacan-colores-estudios-cientificos-ridiculos-como-demostrar-tan-dificil-leer-contrato-1131187' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/ig-nobel-prizes-2022-2825651.jpg' alt='Ig Nobel Prizes 2022, los premios que sacan los colores a estudios científicos ridículos como demostrar por qué es tan difícil leer un contrato' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/nuevos-macbook-air-m2-ya-son-174-euros-baratos-puedes-elegir-color-1131175'>Los nuevos MacBook Air con M2 ya son 174 euros más baratos, y puedes elegir color</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/nuevos-macbook-air-m2-ya-son-174-euros-baratos-puedes-elegir-color-1131175' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/analisis-macbook-air-m2-2779349.jpg' alt='Los nuevos MacBook Air con M2 ya son 174 euros más baratos, y puedes elegir color' />
     </a>
 </div>
 
