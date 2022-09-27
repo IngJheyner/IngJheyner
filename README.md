@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/xiaomi-mijia-modular-robot-video-1131417'>El nuevo robot modular de Xiaomi lo montas tú como más te guste (vídeo)</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/xiaomi-mijia-modular-robot-video-1131417' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/verticalimage1664299064733-2826233.jpg' alt='El nuevo robot modular de Xiaomi lo montas tú como más te guste (vídeo)' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/intel-core-13a-generacion-ya-estan-aqui-arquitectura-raptor-lake-prometen-41-rendimiento-1131397'>Los Intel Core de 13ª generación ya están aquí bajo la arquitectura Raptor Lake y prometen un 41% más de rendimiento</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/intel-core-13a-generacion-ya-estan-aqui-arquitectura-raptor-lake-prometen-41-rendimiento-1131397' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/intel-core-13a-generacion-ya-estan-aqui-arquitectura-raptor-lake-prometen-41-rendimiento-2826177.jpg' alt='Los Intel Core de 13ª generación ya están aquí bajo la arquitectura Raptor Lake y prometen un 41% más de rendimiento' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/amazon-liquidacion-iphone-1130641'>Amazon también está de liquidación en iPhone: estos modelos están en perfecto estado</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/amazon-liquidacion-iphone-1130641' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/iphone-13-pro-max-2704797.jpg' alt='Amazon también está de liquidación en iPhone: estos modelos están en perfecto estado' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/supermercados-baratos-caros-2022-ocu-ahorro-casi-1000-euros-1131247'>Los supermercados más baratos y caros de este 2022, según la OCU: ahorro de casi 1000 euros</a></h4>
     <a href='https://computerhoy.com/noticias/life/supermercados-baratos-caros-2022-ocu-ahorro-casi-1000-euros-1131247' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/hombre-haciendo-compra-2689153.jpg' alt='Los supermercados más baratos y caros de este 2022, según la OCU: ahorro de casi 1000 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/ia-resucita-artistas-fallecidos-80-90-serian-mayores-1131325'>Una IA resucita a los artistas fallecidos en los 80 y 90: así serían de mayores</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/ia-resucita-artistas-fallecidos-80-90-serian-mayores-1131325' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/kurt-cobein-2825943.jpg' alt='Una IA resucita a los artistas fallecidos en los 80 y 90: así serían de mayores' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-ver-tdt-online-kodi-vlc-internet-directo-291513'>Cómo ver la TDT online con Kodi y VLC por Internet y en directo</a></h4>
-    <a href='https://computerhoy.com/tutoriales/tecnologia/como-ver-tdt-online-kodi-vlc-internet-directo-291513' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/08/ver-tdt-online-kodi-vlc-internet_5.jpg' alt='Cómo ver la TDT online con Kodi y VLC por Internet y en directo' />
     </a>
 </div>
 
