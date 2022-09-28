@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/la-casa-del-dragon-localizaciones-espana-video-1132093'>HBO Max publica un espectacular vídeo con las localizaciones españolas de La Casa del Dragón</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/la-casa-del-dragon-localizaciones-espana-video-1132093' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/verticalimage1664387290275-2827519.jpg' alt='HBO Max publica un espectacular vídeo con las localizaciones españolas de La Casa del Dragón' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/desembarco-productos-amazon-kindle-scribe-halo-rise-echo-auto-2-gen-nuevos-echo-dot-reloj-1132075'>Desembarco de productos de Amazon: Kindle Scribe, Halo Rise, Echo Auto 2 Gen y nuevos Echo Dot con y sin reloj</a></h4>
+    <a href='https://computerhoy.com/noticias/desembarco-productos-amazon-kindle-scribe-halo-rise-echo-auto-2-gen-nuevos-echo-dot-reloj-1132075' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/desembarco-productos-amazon-kindle-scribe-halo-rise-echo-auto-2-gen-nuevos-echo-dot-reloj-2827481.jpg' alt='Desembarco de productos de Amazon: Kindle Scribe, Halo Rise, Echo Auto 2 Gen y nuevos Echo Dot con y sin reloj' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/estufas-gas-butano-baratas-ahorrar-factura-luz-1002927'>5 estufas de gas baratas para ahorrar en la factura de la luz este invierno</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/estufas-gas-butano-baratas-ahorrar-factura-luz-1002927' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/estufa-gas-2824905.jpg' alt='5 estufas de gas baratas para ahorrar en la factura de la luz este invierno' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/instagram-ya-probando-nueva-funcion-dejar-notas-24h-seguidores-md-1131959'>Instagram ya está probando una nueva función para dejar Notas de 24h a tus seguidores en los MD</a></h4>
     <a href='https://computerhoy.com/noticias/instagram-ya-probando-nueva-funcion-dejar-notas-24h-seguidores-md-1131959' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/instagram-ya-probando-nueva-funcion-dejar-notas-24h-seguidores-md-2827267.jpg' alt='Instagram ya está probando una nueva función para dejar Notas de 24h a tus seguidores en los MD' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/giro-elon-musk-no-vio-venir-nuevo-capitulo-compra-twitter-1132009'>El giro que Elon Musk no vio venir: nuevo capítulo en la compra de Twitter</a></h4>
-    <a href='https://computerhoy.com/noticias/giro-elon-musk-no-vio-venir-nuevo-capitulo-compra-twitter-1132009' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/elon-musk-2658491.jpg' alt='El giro que Elon Musk no vio venir: nuevo capítulo en la compra de Twitter' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/cientificos-descubren-como-acabar-hambre-modificando-sistema-alimentario-mundial-1131995'>Científicos descubren cómo acabar con el hambre modificando el sistema alimentario mundial</a></h4>
-    <a href='https://computerhoy.com/noticias/cientificos-descubren-como-acabar-hambre-modificando-sistema-alimentario-mundial-1131995' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/sequia-africa-2812779.jpg' alt='Científicos descubren cómo acabar con el hambre modificando el sistema alimentario mundial' />
     </a>
 </div>
 
