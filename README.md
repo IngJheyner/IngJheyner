@@ -50,8 +50,32 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/futuro-portatiles-acaba-inventarlo-samsung-intel-1131705'>El futuro de los portátiles acaba de inventarlo Samsung e Intel</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/futuro-portatiles-acaba-inventarlo-samsung-intel-1131705' target='_blank'>
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/soporte-oficial-apps-android-windows-11-llega-espana-muchos-paises-funciona-1131727'>El soporte oficial de apps Android en Windows 11 llega a España y muchos más países: así funciona</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/soporte-oficial-apps-android-windows-11-llega-espana-muchos-paises-funciona-1131727' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/windows-11-2826685.jpg' alt='El soporte oficial de apps Android en Windows 11 llega a España y muchos más países: así funciona' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/iphone-13-rebaja-casi-100-euros-1130613'>Si prefieres el iPhone 13, ahora es mucho más barato con una rebaja de casi 100 euros</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/iphone-13-rebaja-casi-100-euros-1130613' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/iphone-13-2824605.jpg' alt='Si prefieres el iPhone 13, ahora es mucho más barato con una rebaja de casi 100 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/whatsapp-trabaja-modo-no-molestar-evitar-distracciones-llamadas-mensajes-1131721'>WhatsApp trabaja en un modo no molestar para evitar distracciones con sus llamadas y mensajes</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/whatsapp-trabaja-modo-no-molestar-evitar-distracciones-llamadas-mensajes-1131721' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/whatsapp-telegram-2718213.jpg' alt='WhatsApp trabaja en un modo no molestar para evitar distracciones con sus llamadas y mensajes' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/futuro-portatiles-acaba-inventarlo-samsung-intel-1131705'>El futuro de los portátiles acaba de inventarlo Samsung e Intel</a></h4>
+    <a href='https://computerhoy.com/noticias/futuro-portatiles-acaba-inventarlo-samsung-intel-1131705' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/portatil-pantalla-extendible-samsung-2826575.jpg' alt='El futuro de los portátiles acaba de inventarlo Samsung e Intel' />
     </a>
 </div>
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/instagram-ya-no-partira-stories-clips-60-segundos-ininterrumpidos-libertad-1131711'>Instagram ya no partirá tus stories en clips: hasta 60 segundos ininterrumpidos de libertad</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/instagram-ya-no-partira-stories-clips-60-segundos-ininterrumpidos-libertad-1131711' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/instagram-stories-2507043.jpg' alt='Instagram ya no partirá tus stories en clips: hasta 60 segundos ininterrumpidos de libertad' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/bombillas-inteligentes-menos-10-euros-1033313'>Bombillas inteligentes de menos de 10€ para controlar toda la iluminación sin moverte del sofá</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/bombillas-inteligentes-menos-10-euros-1033313' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/casa-iluminada-2654657.jpg' alt='Bombillas inteligentes de menos de 10€ para controlar toda la iluminación sin moverte del sofá' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/26-noticias-tecnologia-comenzar-manana-informado-ultimo-1131681'>26 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/26-noticias-tecnologia-comenzar-manana-informado-ultimo-1131681' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/25-noticias-tecnologia-comenzar-manana-informado-ultimo-2826555.jpg' alt='26 noticias de tecnología para comenzar la mañana informado de lo último' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/rebajas-xiaomi-otono-moviles-aspiradoras-ordenadores-1131141'>Rebajas Xiaomi en otoño: móviles, aspiradoras y ordenadores a precio de saldo</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/rebajas-xiaomi-otono-moviles-aspiradoras-ordenadores-1131141' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/xiaomi-mi-tv-q1e-55-2543101.jpg' alt='Rebajas Xiaomi en otoño: móviles, aspiradoras y ordenadores a precio de saldo' />
     </a>
 </div>
 
