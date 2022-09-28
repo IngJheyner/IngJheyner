@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/mejores-alternativas-gratis-wetransfer-enviar-archivos-grandes-1131915'>Las mejores alternativas gratis a Wetransfer para enviar archivos grandes</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/mejores-alternativas-gratis-wetransfer-enviar-archivos-grandes-1131915' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/wetransfer-2237061.jpg' alt='Las mejores alternativas gratis a Wetransfer para enviar archivos grandes' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/esta-formula-te-dice-cuantas-calorias-debes-comer-dia-adelgazar-286837'>Con esta fórmula sabrás cuántas calorías debes comer al día para adelgazar, según tu peso, edad y altura</a></h4>
+    <a href='https://computerhoy.com/noticias/life/esta-formula-te-dice-cuantas-calorias-debes-comer-dia-adelgazar-286837' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/10/calorias-alimentos-2119653.jpg' alt='Con esta fórmula sabrás cuántas calorías debes comer al día para adelgazar, según tu peso, edad y altura' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/familia-galaxy-s23-tendra-diseno-sencillo-mejor-camara-samsung-tamano-filtracion-renders-1131889'>La familia Galaxy S23 tendrá un diseño más sencillo, mejor cámara Samsung y más tamaño, según la filtración de sus renders</a></h4>
+    <a href='https://computerhoy.com/noticias/familia-galaxy-s23-tendra-diseno-sencillo-mejor-camara-samsung-tamano-filtracion-renders-1131889' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/galaxy-s23-2826875.jpg' alt='La familia Galaxy S23 tendrá un diseño más sencillo, mejor cámara Samsung y más tamaño, según la filtración de sus renders' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/greenpeace-comienza-campana-terminar-engano-etiquetas-medioambientales-dgt-1131883'>Greenpeace comienza una campaña para terminar con el engaño de las etiquetas medioambientales de la DGT</a></h4>
+    <a href='https://computerhoy.com/noticias/greenpeace-comienza-campana-terminar-engano-etiquetas-medioambientales-dgt-1131883' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/pegatina-dgt-2583187.jpg' alt='Greenpeace comienza una campaña para terminar con el engaño de las etiquetas medioambientales de la DGT' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/novedades-han-llegado-excel-septiembre-2022-no-dejan-indiferente-nadie-1131759'>Las novedades que han llegado a Excel en septiembre de 2022 no dejan indiferente a nadie</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/novedades-han-llegado-excel-septiembre-2022-no-dejan-indiferente-nadie-1131759' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/portada-microsoft-excel-2801475.jpg' alt='Las novedades que han llegado a Excel en septiembre de 2022 no dejan indiferente a nadie' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/huawei-watch-gt-runner-oferta-rebaja-1131191'>Huawei rebaja aún más su reloj de running barato y pone en serios apuros a Garmin y Polar</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/huawei-watch-gt-runner-oferta-rebaja-1131191' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/huawei-watch-gt-runner-2600583.jpg' alt='Huawei rebaja aún más su reloj de running barato y pone en serios apuros a Garmin y Polar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/2-tb-tamano-primer-prototipo-microsd-2-terabytes-ya-funcional-1131857'>2 TB en el tamaño de una uña, primer prototipo de microSD de 2 terabytes ya funcional</a></h4>
-    <a href='https://computerhoy.com/noticias/2-tb-tamano-primer-prototipo-microsd-2-terabytes-ya-funcional-1131857' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/2-tb-tamano-primer-prototipo-microsd-2-terabytes-ya-funcional-2826833.jpg' alt='2 TB en el tamaño de una uña, primer prototipo de microSD de 2 terabytes ya funcional' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/todo-sabemos-nuevos-xiaomi-12t-12t-pro-fecha-lanzamiento-incluida-1131781'>Esto es todo lo que sabemos de los nuevos Xiaomi 12T y 12T Pro, fecha de lanzamiento incluida</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/todo-sabemos-nuevos-xiaomi-12t-12t-pro-fecha-lanzamiento-incluida-1131781' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/todo-sabemos-nuevos-xiaomi-12t-12t-pro-fecha-lanzamiento-incluida-2826801.jpg' alt='Esto es todo lo que sabemos de los nuevos Xiaomi 12T y 12T Pro, fecha de lanzamiento incluida' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/soporte-oficial-apps-android-windows-11-llega-espana-muchos-paises-funciona-1131727'>El soporte oficial de apps Android en Windows 11 llega a España y muchos más países: así funciona</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/soporte-oficial-apps-android-windows-11-llega-espana-muchos-paises-funciona-1131727' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/windows-11-2826685.jpg' alt='El soporte oficial de apps Android en Windows 11 llega a España y muchos más países: así funciona' />
     </a>
 </div>
 
