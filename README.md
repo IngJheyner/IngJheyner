@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/hyperloop-elon-musk-llega-espana-zaragoza-1132113'>El Hyperloop de Elon Musk llegará a España a través de Zaragoza</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/hyperloop-elon-musk-llega-espana-zaragoza-1132113' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/hyperloop-elon-musk-llegara-espana-traves-zaragoza-2827577.jpg' alt='El Hyperloop de Elon Musk llegará a España a través de Zaragoza' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/novedades-busqueda-google-entender-peticiones-forma-sencilla-natural-1132103'>Las novedades de búsqueda de Google para entender peticiones de forma más sencilla y natural</a></h4>
     <a href='https://computerhoy.com/noticias/novedades-busqueda-google-entender-peticiones-forma-sencilla-natural-1132103' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/google-2819349.jpg' alt='Las novedades de búsqueda de Google para entender peticiones de forma más sencilla y natural' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/codigos-qr-popularizaron-pandemia-ahora-mayores-peligros-movil-1132099'>Los códigos QR se popularizaron con la pandemia y ahora es uno de los mayores peligros para tu móvil</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/codigos-qr-popularizaron-pandemia-ahora-mayores-peligros-movil-1132099' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/codigo-qr-2827525.jpg' alt='Los códigos QR se popularizaron con la pandemia y ahora es uno de los mayores peligros para tu móvil' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/probable-ahora-tengas-pagar-peaje-urbano-acceder-zona-ciudad-coche-1132095'>Es probable que ahora tengas que pagar un peaje urbano para acceder a esta zona de tu ciudad en coche</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/probable-ahora-tengas-pagar-peaje-urbano-acceder-zona-ciudad-coche-1132095' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/pegatina-dgt-2583187.jpg' alt='Es probable que ahora tengas que pagar un peaje urbano para acceder a esta zona de tu ciudad en coche' />
     </a>
 </div>
 
