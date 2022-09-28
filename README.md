@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/instagram-ya-probando-nueva-funcion-dejar-notas-24h-seguidores-md-1131959'>Instagram ya está probando una nueva función para dejar Notas de 24h a tus seguidores en los MD</a></h4>
+    <a href='https://computerhoy.com/noticias/instagram-ya-probando-nueva-funcion-dejar-notas-24h-seguidores-md-1131959' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/instagram-ya-probando-nueva-funcion-dejar-notas-24h-seguidores-md-2827267.jpg' alt='Instagram ya está probando una nueva función para dejar Notas de 24h a tus seguidores en los MD' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/giro-elon-musk-no-vio-venir-nuevo-capitulo-compra-twitter-1132009'>El giro que Elon Musk no vio venir: nuevo capítulo en la compra de Twitter</a></h4>
+    <a href='https://computerhoy.com/noticias/giro-elon-musk-no-vio-venir-nuevo-capitulo-compra-twitter-1132009' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/elon-musk-2658491.jpg' alt='El giro que Elon Musk no vio venir: nuevo capítulo en la compra de Twitter' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/cientificos-descubren-como-acabar-hambre-modificando-sistema-alimentario-mundial-1131995'>Científicos descubren cómo acabar con el hambre modificando el sistema alimentario mundial</a></h4>
+    <a href='https://computerhoy.com/noticias/cientificos-descubren-como-acabar-hambre-modificando-sistema-alimentario-mundial-1131995' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/sequia-africa-2812779.jpg' alt='Científicos descubren cómo acabar con el hambre modificando el sistema alimentario mundial' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/problemas-usuarios-iphone-14-pro-1131955'>Más problemas para los usuarios del iPhone 14 Pro</a></h4>
     <a href='https://computerhoy.com/noticias/problemas-usuarios-iphone-14-pro-1131955' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/analisis-iphone-14-pro-2821749.jpg' alt='Más problemas para los usuarios del iPhone 14 Pro' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/sal-caduca-como-saber-ha-echado-perder-1131937'>La sal "caduca", cómo saber si se ha echado a perder</a></h4>
     <a href='https://computerhoy.com/noticias/life/sal-caduca-como-saber-ha-echado-perder-1131937' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/sal-2826987.jpg' alt='La sal "caduca", cómo saber si se ha echado a perder' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/whatsapp-como-instalar-actualizar-todas-funciones-consejos-trucos-1131235'>WhatsApp: cómo instalar y actualizar, todas sus funciones, consejos y trucos</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/whatsapp-como-instalar-actualizar-todas-funciones-consejos-trucos-1131235' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/whatsapp-2825733.jpg' alt='WhatsApp: cómo instalar y actualizar, todas sus funciones, consejos y trucos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/arrasa-ventas-echo-dot-oferta-amazon-precio-derribo-menos-20-euros-1131713'>Arrasa en ventas el Echo Dot, en oferta en Amazon a precio de derribo por menos de 20 euros</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/arrasa-ventas-echo-dot-oferta-amazon-precio-derribo-menos-20-euros-1131713' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/amazon-echo-dot-4a-generacion-2471825.jpg' alt='Arrasa en ventas el Echo Dot, en oferta en Amazon a precio de derribo por menos de 20 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/como-usar-word-excel-powerpoint-completamente-gratis-1131923'>Cómo usar Word, Excel y PowerPoint completamente gratis</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/como-usar-word-excel-powerpoint-completamente-gratis-1131923' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/microsoft-office-2826985.jpg' alt='Cómo usar Word, Excel y PowerPoint completamente gratis' />
     </a>
 </div>
 
