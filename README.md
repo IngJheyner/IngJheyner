@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/novedades-han-llegado-excel-septiembre-2022-no-dejan-indiferente-nadie-1131759'>Las novedades que han llegado a Excel en septiembre de 2022 no dejan indiferente a nadie</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/novedades-han-llegado-excel-septiembre-2022-no-dejan-indiferente-nadie-1131759' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/portada-microsoft-excel-2801475.jpg' alt='Las novedades que han llegado a Excel en septiembre de 2022 no dejan indiferente a nadie' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/huawei-watch-gt-runner-oferta-rebaja-1131191'>Huawei rebaja aún más su reloj de running barato y pone en serios apuros a Garmin y Polar</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/huawei-watch-gt-runner-oferta-rebaja-1131191' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/huawei-watch-gt-runner-2600583.jpg' alt='Huawei rebaja aún más su reloj de running barato y pone en serios apuros a Garmin y Polar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/2-tb-tamano-primer-prototipo-microsd-2-terabytes-ya-funcional-1131857'>2 TB en el tamaño de una uña, primer prototipo de microSD de 2 terabytes ya funcional</a></h4>
+    <a href='https://computerhoy.com/noticias/2-tb-tamano-primer-prototipo-microsd-2-terabytes-ya-funcional-1131857' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/2-tb-tamano-primer-prototipo-microsd-2-terabytes-ya-funcional-2826833.jpg' alt='2 TB en el tamaño de una uña, primer prototipo de microSD de 2 terabytes ya funcional' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/todo-sabemos-nuevos-xiaomi-12t-12t-pro-fecha-lanzamiento-incluida-1131781'>Esto es todo lo que sabemos de los nuevos Xiaomi 12T y 12T Pro, fecha de lanzamiento incluida</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/todo-sabemos-nuevos-xiaomi-12t-12t-pro-fecha-lanzamiento-incluida-1131781' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/todo-sabemos-nuevos-xiaomi-12t-12t-pro-fecha-lanzamiento-incluida-2826801.jpg' alt='Esto es todo lo que sabemos de los nuevos Xiaomi 12T y 12T Pro, fecha de lanzamiento incluida' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/soporte-oficial-apps-android-windows-11-llega-espana-muchos-paises-funciona-1131727'>El soporte oficial de apps Android en Windows 11 llega a España y muchos más países: así funciona</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/soporte-oficial-apps-android-windows-11-llega-espana-muchos-paises-funciona-1131727' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/windows-11-2826685.jpg' alt='El soporte oficial de apps Android en Windows 11 llega a España y muchos más países: así funciona' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/iphone-13-rebaja-casi-100-euros-1130613'>Si prefieres el iPhone 13, ahora es mucho más barato con una rebaja de casi 100 euros</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/iphone-13-rebaja-casi-100-euros-1130613' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/iphone-13-2824605.jpg' alt='Si prefieres el iPhone 13, ahora es mucho más barato con una rebaja de casi 100 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/whatsapp-trabaja-modo-no-molestar-evitar-distracciones-llamadas-mensajes-1131721'>WhatsApp trabaja en un modo no molestar para evitar distracciones con sus llamadas y mensajes</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/whatsapp-trabaja-modo-no-molestar-evitar-distracciones-llamadas-mensajes-1131721' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/whatsapp-telegram-2718213.jpg' alt='WhatsApp trabaja en un modo no molestar para evitar distracciones con sus llamadas y mensajes' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/futuro-portatiles-acaba-inventarlo-samsung-intel-1131705'>El futuro de los portátiles acaba de inventarlo Samsung e Intel</a></h4>
-    <a href='https://computerhoy.com/noticias/futuro-portatiles-acaba-inventarlo-samsung-intel-1131705' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/portatil-pantalla-extendible-samsung-2826575.jpg' alt='El futuro de los portátiles acaba de inventarlo Samsung e Intel' />
     </a>
 </div>
 
