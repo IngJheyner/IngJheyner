@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/26-noticias-tecnologia-comenzar-manana-informado-ultimo-1131681'>26 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/26-noticias-tecnologia-comenzar-manana-informado-ultimo-1131681' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/25-noticias-tecnologia-comenzar-manana-informado-ultimo-2826555.jpg' alt='26 noticias de tecnología para comenzar la mañana informado de lo último' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/rebajas-xiaomi-otono-moviles-aspiradoras-ordenadores-1131141'>Rebajas Xiaomi en otoño: móviles, aspiradoras y ordenadores a precio de saldo</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/rebajas-xiaomi-otono-moviles-aspiradoras-ordenadores-1131141' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/xiaomi-mi-tv-q1e-55-2543101.jpg' alt='Rebajas Xiaomi en otoño: móviles, aspiradoras y ordenadores a precio de saldo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/banarse-agua-helada-bueno-salud-1131679'>Bañarse en agua helada, ¿es bueno para la salud?</a></h4>
     <a href='https://computerhoy.com/noticias/life/banarse-agua-helada-bueno-salud-1131679' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/banarse-agua-helada-bueno-salud-2826553.jpg' alt='Bañarse en agua helada, ¿es bueno para la salud?' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/tarjeta-grafica-intel-arc-a770-especificaciones-tecnicas--precio-fecha-lanzamiento-1131443'>La tarjeta gráfica Intel ARC A770 llega a las tiendas el 12 de octubre, cuesta 329 dólares</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/tarjeta-grafica-intel-arc-a770-especificaciones-tecnicas--precio-fecha-lanzamiento-1131443' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/tarjetas-graficas-intel-arc-llegan-tiendas-12-octubre-partir-329-dolares-2826303.jpg' alt='La tarjeta gráfica Intel ARC A770 llega a las tiendas el 12 de octubre, cuesta 329 dólares' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/smartwach-barato-oneplus-deja-ver-completo-nord-watch-1131395'>El smartwach barato de OnePlus se deja ver al completo: así es el Nord Watch</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/smartwach-barato-oneplus-deja-ver-completo-nord-watch-1131395' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/oneplus-watch-diseno-2430523.jpg' alt='El smartwach barato de OnePlus se deja ver al completo: así es el Nord Watch' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/salvar-rey-hbo-max-primer-episodio-gratis-1131433'>Cómo ver gratis el primer capítulo de Salvar al Rey de HBO Max, sin registro</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/salvar-rey-hbo-max-primer-episodio-gratis-1131433' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/verticalimage1664304433094-2826295.jpg' alt='Cómo ver gratis el primer capítulo de Salvar al Rey de HBO Max, sin registro' />
     </a>
 </div>
 
