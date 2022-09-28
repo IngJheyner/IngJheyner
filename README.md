@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/sal-caduca-como-saber-ha-echado-perder-1131937'>La sal "caduca", cómo saber si se ha echado a perder</a></h4>
+    <a href='https://computerhoy.com/noticias/life/sal-caduca-como-saber-ha-echado-perder-1131937' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/sal-2826987.jpg' alt='La sal "caduca", cómo saber si se ha echado a perder' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/whatsapp-como-instalar-actualizar-todas-funciones-consejos-trucos-1131235'>WhatsApp: cómo instalar y actualizar, todas sus funciones, consejos y trucos</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/whatsapp-como-instalar-actualizar-todas-funciones-consejos-trucos-1131235' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/whatsapp-2825733.jpg' alt='WhatsApp: cómo instalar y actualizar, todas sus funciones, consejos y trucos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/arrasa-ventas-echo-dot-oferta-amazon-precio-derribo-menos-20-euros-1131713'>Arrasa en ventas el Echo Dot, en oferta en Amazon a precio de derribo por menos de 20 euros</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/arrasa-ventas-echo-dot-oferta-amazon-precio-derribo-menos-20-euros-1131713' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/amazon-echo-dot-4a-generacion-2471825.jpg' alt='Arrasa en ventas el Echo Dot, en oferta en Amazon a precio de derribo por menos de 20 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/como-usar-word-excel-powerpoint-completamente-gratis-1131923'>Cómo usar Word, Excel y PowerPoint completamente gratis</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/como-usar-word-excel-powerpoint-completamente-gratis-1131923' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/microsoft-office-2826985.jpg' alt='Cómo usar Word, Excel y PowerPoint completamente gratis' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/mejores-alternativas-gratis-wetransfer-enviar-archivos-grandes-1131915'>Las mejores alternativas gratis a Wetransfer para enviar archivos grandes</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/mejores-alternativas-gratis-wetransfer-enviar-archivos-grandes-1131915' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/wetransfer-2237061.jpg' alt='Las mejores alternativas gratis a Wetransfer para enviar archivos grandes' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/esta-formula-te-dice-cuantas-calorias-debes-comer-dia-adelgazar-286837'>Con esta fórmula sabrás cuántas calorías debes comer al día para adelgazar, según tu peso, edad y altura</a></h4>
-    <a href='https://computerhoy.com/noticias/life/esta-formula-te-dice-cuantas-calorias-debes-comer-dia-adelgazar-286837' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/10/calorias-alimentos-2119653.jpg' alt='Con esta fórmula sabrás cuántas calorías debes comer al día para adelgazar, según tu peso, edad y altura' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/familia-galaxy-s23-tendra-diseno-sencillo-mejor-camara-samsung-tamano-filtracion-renders-1131889'>La familia Galaxy S23 tendrá un diseño más sencillo, mejor cámara Samsung y más tamaño, según la filtración de sus renders</a></h4>
-    <a href='https://computerhoy.com/noticias/familia-galaxy-s23-tendra-diseno-sencillo-mejor-camara-samsung-tamano-filtracion-renders-1131889' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/galaxy-s23-2826875.jpg' alt='La familia Galaxy S23 tendrá un diseño más sencillo, mejor cámara Samsung y más tamaño, según la filtración de sus renders' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/greenpeace-comienza-campana-terminar-engano-etiquetas-medioambientales-dgt-1131883'>Greenpeace comienza una campaña para terminar con el engaño de las etiquetas medioambientales de la DGT</a></h4>
-    <a href='https://computerhoy.com/noticias/greenpeace-comienza-campana-terminar-engano-etiquetas-medioambientales-dgt-1131883' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/pegatina-dgt-2583187.jpg' alt='Greenpeace comienza una campaña para terminar con el engaño de las etiquetas medioambientales de la DGT' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/novedades-han-llegado-excel-septiembre-2022-no-dejan-indiferente-nadie-1131759'>Las novedades que han llegado a Excel en septiembre de 2022 no dejan indiferente a nadie</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/novedades-han-llegado-excel-septiembre-2022-no-dejan-indiferente-nadie-1131759' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/portada-microsoft-excel-2801475.jpg' alt='Las novedades que han llegado a Excel en septiembre de 2022 no dejan indiferente a nadie' />
     </a>
 </div>
 
