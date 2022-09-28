@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/la-casa-del-dragon-localizaciones-espana-video-1132093'>HBO Max publica un espectacular vídeo con las localizaciones españolas de La Casa del Dragón</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/la-casa-del-dragon-localizaciones-espana-video-1132093' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/verticalimage1664387290275-2827519.jpg' alt='HBO Max publica un espectacular vídeo con las localizaciones españolas de La Casa del Dragón' />
+    <h4><a href='https://computerhoy.com/noticias/novedades-busqueda-google-entender-peticiones-forma-sencilla-natural-1132103'>Las novedades de búsqueda de Google para entender peticiones de forma más sencilla y natural</a></h4>
+    <a href='https://computerhoy.com/noticias/novedades-busqueda-google-entender-peticiones-forma-sencilla-natural-1132103' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/google-2819349.jpg' alt='Las novedades de búsqueda de Google para entender peticiones de forma más sencilla y natural' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/desembarco-productos-amazon-kindle-scribe-halo-rise-echo-auto-2-gen-nuevos-echo-dot-reloj-1132075'>Desembarco de productos de Amazon: Kindle Scribe, Halo Rise, Echo Auto 2 Gen y nuevos Echo Dot con y sin reloj</a></h4>
-    <a href='https://computerhoy.com/noticias/desembarco-productos-amazon-kindle-scribe-halo-rise-echo-auto-2-gen-nuevos-echo-dot-reloj-1132075' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/desembarco-productos-amazon-kindle-scribe-halo-rise-echo-auto-2-gen-nuevos-echo-dot-reloj-2827481.jpg' alt='Desembarco de productos de Amazon: Kindle Scribe, Halo Rise, Echo Auto 2 Gen y nuevos Echo Dot con y sin reloj' />
+    <h4><a href='https://computerhoy.com/noticias/motor/parachoques-vtc-barcelona-que-significa-1132107'>Este extraño y curioso parachoques que llevan los VTC en Barcelona tiene una explicación</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/parachoques-vtc-barcelona-que-significa-1132107' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/vtc-bolt-barcelona-2813741.jpg' alt='Este extraño y curioso parachoques que llevan los VTC en Barcelona tiene una explicación' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/estufas-gas-butano-baratas-ahorrar-factura-luz-1002927'>5 estufas de gas baratas para ahorrar en la factura de la luz este invierno</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/estufas-gas-butano-baratas-ahorrar-factura-luz-1002927' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/estufa-gas-2824905.jpg' alt='5 estufas de gas baratas para ahorrar en la factura de la luz este invierno' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/xiaomi-12x-con-robot-aspirador-regalo-1132049'>Xiaomi regala un robot aspirador a quien compre uno de sus móviles de gama alta</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/xiaomi-12x-con-robot-aspirador-regalo-1132049' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/xiaomi-regala-robot-aspirador-quien-compre-moviles-gama-alta-2827347.jpg' alt='Xiaomi regala un robot aspirador a quien compre uno de sus móviles de gama alta' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/redmi-pad-4g-deja-ver-completo-filtrado-diseno-especificaciones-completo-1132037'>La Redmi Pad 4G se deja ver al completo: filtrado su diseño y especificaciones al completo</a></h4>
-    <a href='https://computerhoy.com/noticias/redmi-pad-4g-deja-ver-completo-filtrado-diseno-especificaciones-completo-1132037' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/redmi-pad-4g-deja-ver-completo-filtrado-diseno-especificaciones-completo-2827341.jpg' alt='La Redmi Pad 4G se deja ver al completo: filtrado su diseño y especificaciones al completo' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/codigos-qr-popularizaron-pandemia-ahora-mayores-peligros-movil-1132099'>Los códigos QR se popularizaron con la pandemia y ahora es uno de los mayores peligros para tu móvil</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/codigos-qr-popularizaron-pandemia-ahora-mayores-peligros-movil-1132099' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/codigo-qr-2827525.jpg' alt='Los códigos QR se popularizaron con la pandemia y ahora es uno de los mayores peligros para tu móvil' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/instagram-ya-probando-nueva-funcion-dejar-notas-24h-seguidores-md-1131959'>Instagram ya está probando una nueva función para dejar Notas de 24h a tus seguidores en los MD</a></h4>
-    <a href='https://computerhoy.com/noticias/instagram-ya-probando-nueva-funcion-dejar-notas-24h-seguidores-md-1131959' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/instagram-ya-probando-nueva-funcion-dejar-notas-24h-seguidores-md-2827267.jpg' alt='Instagram ya está probando una nueva función para dejar Notas de 24h a tus seguidores en los MD' />
+    <h4><a href='https://computerhoy.com/noticias/motor/probable-ahora-tengas-pagar-peaje-urbano-acceder-zona-ciudad-coche-1132095'>Es probable que ahora tengas que pagar un peaje urbano para acceder a esta zona de tu ciudad en coche</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/probable-ahora-tengas-pagar-peaje-urbano-acceder-zona-ciudad-coche-1132095' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/pegatina-dgt-2583187.jpg' alt='Es probable que ahora tengas que pagar un peaje urbano para acceder a esta zona de tu ciudad en coche' />
     </a>
 </div>
 
