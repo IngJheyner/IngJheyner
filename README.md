@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/estufas-gas-butano-baratas-ahorrar-factura-luz-1002927'>5 estufas de gas baratas para ahorrar en la factura de la luz este invierno</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/estufas-gas-butano-baratas-ahorrar-factura-luz-1002927' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/estufa-gas-2824905.jpg' alt='5 estufas de gas baratas para ahorrar en la factura de la luz este invierno' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/redmi-pad-4g-deja-ver-completo-filtrado-diseno-especificaciones-completo-1132037'>La Redmi Pad 4G se deja ver al completo: filtrado su diseño y especificaciones al completo</a></h4>
+    <a href='https://computerhoy.com/noticias/redmi-pad-4g-deja-ver-completo-filtrado-diseno-especificaciones-completo-1132037' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/redmi-pad-4g-deja-ver-completo-filtrado-diseno-especificaciones-completo-2827341.jpg' alt='La Redmi Pad 4G se deja ver al completo: filtrado su diseño y especificaciones al completo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/instagram-ya-probando-nueva-funcion-dejar-notas-24h-seguidores-md-1131959'>Instagram ya está probando una nueva función para dejar Notas de 24h a tus seguidores en los MD</a></h4>
     <a href='https://computerhoy.com/noticias/instagram-ya-probando-nueva-funcion-dejar-notas-24h-seguidores-md-1131959' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/instagram-ya-probando-nueva-funcion-dejar-notas-24h-seguidores-md-2827267.jpg' alt='Instagram ya está probando una nueva función para dejar Notas de 24h a tus seguidores en los MD' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/cientificos-descubren-como-acabar-hambre-modificando-sistema-alimentario-mundial-1131995'>Científicos descubren cómo acabar con el hambre modificando el sistema alimentario mundial</a></h4>
     <a href='https://computerhoy.com/noticias/cientificos-descubren-como-acabar-hambre-modificando-sistema-alimentario-mundial-1131995' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/sequia-africa-2812779.jpg' alt='Científicos descubren cómo acabar con el hambre modificando el sistema alimentario mundial' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/problemas-usuarios-iphone-14-pro-1131955'>Más problemas para los usuarios del iPhone 14 Pro</a></h4>
-    <a href='https://computerhoy.com/noticias/problemas-usuarios-iphone-14-pro-1131955' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/analisis-iphone-14-pro-2821749.jpg' alt='Más problemas para los usuarios del iPhone 14 Pro' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/sal-caduca-como-saber-ha-echado-perder-1131937'>La sal "caduca", cómo saber si se ha echado a perder</a></h4>
-    <a href='https://computerhoy.com/noticias/life/sal-caduca-como-saber-ha-echado-perder-1131937' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/sal-2826987.jpg' alt='La sal "caduca", cómo saber si se ha echado a perder' />
     </a>
 </div>
 
