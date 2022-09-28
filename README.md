@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/problemas-usuarios-iphone-14-pro-1131955'>Más problemas para los usuarios del iPhone 14 Pro</a></h4>
+    <a href='https://computerhoy.com/noticias/problemas-usuarios-iphone-14-pro-1131955' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/analisis-iphone-14-pro-2821749.jpg' alt='Más problemas para los usuarios del iPhone 14 Pro' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/sal-caduca-como-saber-ha-echado-perder-1131937'>La sal "caduca", cómo saber si se ha echado a perder</a></h4>
     <a href='https://computerhoy.com/noticias/life/sal-caduca-como-saber-ha-echado-perder-1131937' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/sal-2826987.jpg' alt='La sal "caduca", cómo saber si se ha echado a perder' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/como-usar-word-excel-powerpoint-completamente-gratis-1131923'>Cómo usar Word, Excel y PowerPoint completamente gratis</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/como-usar-word-excel-powerpoint-completamente-gratis-1131923' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/microsoft-office-2826985.jpg' alt='Cómo usar Word, Excel y PowerPoint completamente gratis' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/mejores-alternativas-gratis-wetransfer-enviar-archivos-grandes-1131915'>Las mejores alternativas gratis a Wetransfer para enviar archivos grandes</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/mejores-alternativas-gratis-wetransfer-enviar-archivos-grandes-1131915' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/wetransfer-2237061.jpg' alt='Las mejores alternativas gratis a Wetransfer para enviar archivos grandes' />
     </a>
 </div>
 
