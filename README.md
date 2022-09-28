@@ -58,9 +58,9 @@
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/parachoques-vtc-barcelona-que-significa-1132107'>Este extraño y curioso parachoques que llevan los VTC en Barcelona tiene una explicación</a></h4>
+    <h4><a href='https://computerhoy.com/noticias/motor/parachoques-vtc-barcelona-que-significa-1132107'>Este extraño parachoques que llevan los VTC en Barcelona tiene una explicación</a></h4>
     <a href='https://computerhoy.com/noticias/motor/parachoques-vtc-barcelona-que-significa-1132107' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/vtc-bolt-barcelona-2813741.jpg' alt='Este extraño y curioso parachoques que llevan los VTC en Barcelona tiene una explicación' />
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/vtc-bolt-barcelona-2813741.jpg' alt='Este extraño parachoques que llevan los VTC en Barcelona tiene una explicación' />
     </a>
 </div>
 
