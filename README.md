@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/todo-sabemos-nuevos-xiaomi-12t-12t-pro-fecha-lanzamiento-incluida-1131781'>Esto es todo lo que sabemos de los nuevos Xiaomi 12T y 12T Pro, fecha de lanzamiento incluida</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/todo-sabemos-nuevos-xiaomi-12t-12t-pro-fecha-lanzamiento-incluida-1131781' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/todo-sabemos-nuevos-xiaomi-12t-12t-pro-fecha-lanzamiento-incluida-2826801.jpg' alt='Esto es todo lo que sabemos de los nuevos Xiaomi 12T y 12T Pro, fecha de lanzamiento incluida' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/soporte-oficial-apps-android-windows-11-llega-espana-muchos-paises-funciona-1131727'>El soporte oficial de apps Android en Windows 11 llega a España y muchos más países: así funciona</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/soporte-oficial-apps-android-windows-11-llega-espana-muchos-paises-funciona-1131727' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/windows-11-2826685.jpg' alt='El soporte oficial de apps Android en Windows 11 llega a España y muchos más países: así funciona' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/futuro-portatiles-acaba-inventarlo-samsung-intel-1131705'>El futuro de los portátiles acaba de inventarlo Samsung e Intel</a></h4>
     <a href='https://computerhoy.com/noticias/futuro-portatiles-acaba-inventarlo-samsung-intel-1131705' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/portatil-pantalla-extendible-samsung-2826575.jpg' alt='El futuro de los portátiles acaba de inventarlo Samsung e Intel' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/instagram-ya-no-partira-stories-clips-60-segundos-ininterrumpidos-libertad-1131711'>Instagram ya no partirá tus stories en clips: hasta 60 segundos ininterrumpidos de libertad</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/instagram-ya-no-partira-stories-clips-60-segundos-ininterrumpidos-libertad-1131711' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/instagram-stories-2507043.jpg' alt='Instagram ya no partirá tus stories en clips: hasta 60 segundos ininterrumpidos de libertad' />
     </a>
 </div>
 
