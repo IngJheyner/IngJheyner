@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/mejores-alternativas-gratis-teamviewer-controlar-pc-distancia-1132575'>Las mejores alternativas gratis a Teamviewer para controlar un PC a distancia</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/mejores-alternativas-gratis-teamviewer-controlar-pc-distancia-1132575' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/mejores-alternativas-gratis-teamviewer-controlar-pc-distancia-2828341.jpg' alt='Las mejores alternativas gratis a Teamviewer para controlar un PC a distancia' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/nuevo-moto-g72-ya-tiene-fecha-lanzamiento-todo-sabemos-smartphone-1132555'>El Moto G72 ya tiene fecha de lanzamiento: esto es todo lo que sabemos de este nuevo smartphone</a></h4>
     <a href='https://computerhoy.com/noticias/nuevo-moto-g72-ya-tiene-fecha-lanzamiento-todo-sabemos-smartphone-1132555' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/moto-g72-ya-tiene-fecha-lanzamiento-todo-sabemos-nuevo-smartphone-2828287.jpg' alt='El Moto G72 ya tiene fecha de lanzamiento: esto es todo lo que sabemos de este nuevo smartphone' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/huawei-recibe-luz-verde-europa-integrar-funcion-ecg-watch-gt-3-pro-presion-arterial-watch-d-1132505'>Huawei recibe luz verde de Europa para integrar su función ECG en el Watch GT 3 Pro y presión arterial en el Watch D</a></h4>
     <a href='https://computerhoy.com/noticias/huawei-recibe-luz-verde-europa-integrar-funcion-ecg-watch-gt-3-pro-presion-arterial-watch-d-1132505' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/huawei-recibe-luz-verde-europa-integrar-funcion-ecg-watch-gt-3-pro-presion-arterial-watch-d-2828207.jpg' alt='Huawei recibe luz verde de Europa para integrar su función ECG en el Watch GT 3 Pro y presión arterial en el Watch D' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/apple-da-marcha-atras-no-aumentara-produccion-iphone-14-1132501'>Apple da marcha atrás: no aumentará la producción de iPhone 14</a></h4>
-    <a href='https://computerhoy.com/noticias/apple-da-marcha-atras-no-aumentara-produccion-iphone-14-1132501' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/tienda-apple-2708783.jpg' alt='Apple da marcha atrás: no aumentará la producción de iPhone 14' />
     </a>
 </div>
 
