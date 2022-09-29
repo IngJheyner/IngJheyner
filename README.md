@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/ya-quiosco-numero-626-computer-hoy-1128463'>¡Ya está en tu quiosco el número 626 de Computer Hoy!</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/ya-quiosco-numero-626-computer-hoy-1128463' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/computer-hoy-626-2822869.jpg' alt='¡Ya está en tu quiosco el número 626 de Computer Hoy!' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/mejores-relojes-running-comprar-793903'>Estos son los mejores relojes de running que puedes comprar en 2022</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/mejores-relojes-running-comprar-793903' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/01/running-2204069.jpg' alt='Estos son los mejores relojes de running que puedes comprar en 2022' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/28-noticias-tecnologia-comenzar-manana-informado-ultimo-1132341'>28 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/28-noticias-tecnologia-comenzar-manana-informado-ultimo-1132341' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/27-noticias-tecnologia-comenzar-manana-informado-ultimo-2827801.jpg' alt='28 noticias de tecnología para comenzar la mañana informado de lo último' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/5-razas-perro-no-deberias-tener-problemas-salud-veterinario-1132339'>5 razas de perro que no deberías tener por sus problemas de salud, según un veterinario</a></h4>
     <a href='https://computerhoy.com/noticias/life/5-razas-perro-no-deberias-tener-problemas-salud-veterinario-1132339' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/5-razas-perro-no-deberias-tener-problemas-salud-veterinario-2827799.jpg' alt='5 razas de perro que no deberías tener por sus problemas de salud, según un veterinario' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/hyperloop-elon-musk-llega-espana-zaragoza-1132113'>El Hyperloop de Elon Musk llegará a España a través de Zaragoza</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/hyperloop-elon-musk-llega-espana-zaragoza-1132113' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/hyperloop-elon-musk-llegara-espana-traves-zaragoza-2827577.jpg' alt='El Hyperloop de Elon Musk llegará a España a través de Zaragoza' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/novedades-busqueda-google-entender-peticiones-forma-sencilla-natural-1132103'>Las novedades de búsqueda de Google para entender peticiones de forma más sencilla y natural</a></h4>
-    <a href='https://computerhoy.com/noticias/novedades-busqueda-google-entender-peticiones-forma-sencilla-natural-1132103' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/google-2819349.jpg' alt='Las novedades de búsqueda de Google para entender peticiones de forma más sencilla y natural' />
     </a>
 </div>
 
