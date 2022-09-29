@@ -50,9 +50,17 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/google-no-aguanta-cierra-stadia-anos-perdidas-1132691'>Google no aguanta más y cierra Stadia tras años de pérdidas</a></h4>
+    <a href='https://computerhoy.com/noticias/google-no-aguanta-cierra-stadia-anos-perdidas-1132691' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/google-stadia-juegos-2248461.jpg' alt='Google no aguanta más y cierra Stadia tras años de pérdidas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/make-video-capaz-crear-videos-cortos-texto-meta-ai-escribes-hace-magia-1132679'>Make-A-Video es capaz de crear vídeos cortos desde texto con Meta AI: tú escribes y hace magia</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/make-video-capaz-crear-videos-cortos-texto-meta-ai-escribes-hace-magia-1132679' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/make-video-2828735.jpg' alt='Make-A-Video es capaz de crear vídeos cortos desde texto con Meta AI: tú escribes y hace magia' />
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/video-ai-2828763.jpg' alt='Make-A-Video es capaz de crear vídeos cortos desde texto con Meta AI: tú escribes y hace magia' />
     </a>
 </div>
 
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/gaming/razer-edge-5g-primera-consola-portatil-5g-1132653'>Así es Razer Edge 5G: la primera consola portátil con 5G</a></h4>
     <a href='https://computerhoy.com/noticias/gaming/razer-edge-5g-primera-consola-portatil-5g-1132653' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/consola-razer-2828631.jpg' alt='Así es Razer Edge 5G: la primera consola portátil con 5G' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/microsoft-prepara-proximo-surface-studio-3-cpu-gpu-hace-dos-generaciones-1132631'>Microsoft prepara su próximo Surface Studio 3 con CPU y GPU de hace dos generaciones</a></h4>
-    <a href='https://computerhoy.com/noticias/microsoft-prepara-proximo-surface-studio-3-cpu-gpu-hace-dos-generaciones-1132631' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/11/microsoft-surface-studio-2.jpg' alt='Microsoft prepara su próximo Surface Studio 3 con CPU y GPU de hace dos generaciones' />
     </a>
 </div>
 
