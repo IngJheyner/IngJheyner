@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/fundadores-netflix-predice-fin-tdt-television-convencional-queda-muy-poco-1132721'>Uno de los fundadores de Netflix predice el fin de la TDT y la televisión convencional (y queda muy poco)</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/fundadores-netflix-predice-fin-tdt-television-convencional-queda-muy-poco-1132721' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/mujer-viendo-television-2828799.jpg' alt='Uno de los fundadores de Netflix predice el fin de la TDT y la televisión convencional (y queda muy poco)' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/apagon-serie-movistar-plus-1132715'>Movistar Plus+ ha lanzado Apagón, la miniserie que habla sobre unos de los grandes miedos que nos acechan</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/apagon-serie-movistar-plus-1132715' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/verticalimage1664474321318-2828797.jpg' alt='Movistar Plus+ ha lanzado Apagón, la miniserie que habla sobre unos de los grandes miedos que nos acechan' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/convierte-catador-improvisado-producto-favorito-mercadona-tambien-podrias-hacer-mismo-1132711'>Se convierte en catador improvisado de su producto favorito de Mercadona y tú también podrías hacer lo mismo</a></h4>
+    <a href='https://computerhoy.com/noticias/life/convierte-catador-improvisado-producto-favorito-mercadona-tambien-podrias-hacer-mismo-1132711' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/mercadona-2828789.jpg' alt='Se convierte en catador improvisado de su producto favorito de Mercadona y tú también podrías hacer lo mismo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/nuevo-gadget-garmin-hace-competencia-iphone-14-conexion-satelital-1132705'>El nuevo gadget de Garmin le hace la competencia al iPhone 14 y su conexión satelital</a></h4>
+    <a href='https://computerhoy.com/noticias/nuevo-gadget-garmin-hace-competencia-iphone-14-conexion-satelital-1132705' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/camping-acampada-acampar-2374543.jpg' alt='El nuevo gadget de Garmin le hace la competencia al iPhone 14 y su conexión satelital' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/google-no-aguanta-cierra-stadia-anos-perdidas-1132691'>Google no aguanta más y cierra Stadia tras años de pérdidas</a></h4>
     <a href='https://computerhoy.com/noticias/google-no-aguanta-cierra-stadia-anos-perdidas-1132691' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/google-stadia-juegos-2248461.jpg' alt='Google no aguanta más y cierra Stadia tras años de pérdidas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/make-video-capaz-crear-videos-cortos-texto-meta-ai-escribes-hace-magia-1132679'>Make-A-Video es capaz de crear vídeos cortos desde texto con Meta AI: tú escribes y hace magia</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/make-video-capaz-crear-videos-cortos-texto-meta-ai-escribes-hace-magia-1132679' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/video-ai-2828763.jpg' alt='Make-A-Video es capaz de crear vídeos cortos desde texto con Meta AI: tú escribes y hace magia' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/amazon-kindle-scribe-merece-pena-comprar-1132391'>Kindle Scribe: por qué merece la pena comprar este nuevo lector de ebooks</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/amazon-kindle-scribe-merece-pena-comprar-1132391' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/amazon-kindle-scribe-2827915.jpg' alt='Kindle Scribe: por qué merece la pena comprar este nuevo lector de ebooks' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/google-repetira-precios-pixel-7-7-pro-ha-filtrado-amazon-1132663'>Google repetirá precios con los Pixel 7 y 7 Pro según se ha filtrado en Amazon</a></h4>
-    <a href='https://computerhoy.com/noticias/google-repetira-precios-pixel-7-7-pro-ha-filtrado-amazon-1132663' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/presentacion-pixel-7-pixel-watch-ya-tiene-fecha-2805441.jpg' alt='Google repetirá precios con los Pixel 7 y 7 Pro según se ha filtrado en Amazon' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/gaming/razer-edge-5g-primera-consola-portatil-5g-1132653'>Así es Razer Edge 5G: la primera consola portátil con 5G</a></h4>
-    <a href='https://computerhoy.com/noticias/gaming/razer-edge-5g-primera-consola-portatil-5g-1132653' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/consola-razer-2828631.jpg' alt='Así es Razer Edge 5G: la primera consola portátil con 5G' />
     </a>
 </div>
 
