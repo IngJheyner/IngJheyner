@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/como-funciona-too-good-go-app-comer-muy-barato-evitar-desperdicio-1132459'>Qué es y cómo funciona Too Good To Go, la app para comer muy barato y evitar el desperdicio</a></h4>
+    <a href='https://computerhoy.com/noticias/como-funciona-too-good-go-app-comer-muy-barato-evitar-desperdicio-1132459' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/too-good-go-2828093.jpg' alt='Qué es y cómo funciona Too Good To Go, la app para comer muy barato y evitar el desperdicio' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/purificador-aire-xiaomi-mi-air-purifier-3c-oferta-1131847'>El purificador de aire Xiaomi más barato ahora lo es aún más: ya cuesta mucho menos de 100 euros</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/purificador-aire-xiaomi-mi-air-purifier-3c-oferta-1131847' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/xiaomi-mi-air-purifier-3c-2619207.jpg' alt='El purificador de aire Xiaomi más barato ahora lo es aún más: ya cuesta mucho menos de 100 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/bot-pornhub-paliar-abuso-infantil-exito-173000-intervenciones-primer-mes-vida-1132455'>El bot de PornHub para paliar el abuso infantil es un éxito, más de 173.000 intervenciones en su primer mes de vida</a></h4>
+    <a href='https://computerhoy.com/noticias/bot-pornhub-paliar-abuso-infantil-exito-173000-intervenciones-primer-mes-vida-1132455' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/pornhub-2828141.jpg' alt='El bot de PornHub para paliar el abuso infantil es un éxito, más de 173.000 intervenciones en su primer mes de vida' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/google-maps-modo-experto-50-trucos-avanzados-funciones-desconocidas-1131969'>Google Maps modo experto: 50 trucos avanzados y funciones desconocidas</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/google-maps-modo-experto-50-trucos-avanzados-funciones-desconocidas-1131969' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/google-maps-2827131.jpg' alt='Google Maps modo experto: 50 trucos avanzados y funciones desconocidas' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/whatsapp-trabaja-funcion-evitar-ciertos-mensajes-puedan-eliminar-1132441'>WhatsApp trabaja en una función para evitar que ciertos mensajes se puedan eliminar</a></h4>
     <a href='https://computerhoy.com/noticias/whatsapp-trabaja-funcion-evitar-ciertos-mensajes-puedan-eliminar-1132441' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/whatsapp-2827987.jpg' alt='WhatsApp trabaja en una función para evitar que ciertos mensajes se puedan eliminar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/bmw-usara-amazon-alexa-como-asistente-voz-proxima-generacion-vehiculos-1132429'>BMW usará la tecnología de Amazon Alexa para crear un nuevo asistente de voz de cara a 2024</a></h4>
-    <a href='https://computerhoy.com/noticias/bmw-usara-amazon-alexa-como-asistente-voz-proxima-generacion-vehiculos-1132429' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/bmw-usara-amazon-alexa-como-asistente-voz-proxima-generacion-vehiculos-2827981.jpg' alt='BMW usará la tecnología de Amazon Alexa para crear un nuevo asistente de voz de cara a 2024' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/robot-bipedo-cassie-bate-record-mundo-100-metros-1132343'>Cuidado, Usain Bolt: Cassie bate el récord del mundo de los 100 metros para un robot bípedo (vídeo)</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/robot-bipedo-cassie-bate-record-mundo-100-metros-1132343' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/verticalimage1664426941252-2827805.jpg' alt='Cuidado, Usain Bolt: Cassie bate el récord del mundo de los 100 metros para un robot bípedo (vídeo)' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/comprueba-sensaciones-da-barrio-google-maps-curiosas-novedades-llegan-breve-1132395'>Comprueba qué sensaciones da un barrio en Google Maps, una de las curiosas novedades que llegan en breve</a></h4>
-    <a href='https://computerhoy.com/noticias/comprueba-sensaciones-da-barrio-google-maps-curiosas-novedades-llegan-breve-1132395' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/trucos-ocultos-google-maps-android-te-haran-vida-facil-2530159.jpg' alt='Comprueba qué sensaciones da un barrio en Google Maps, una de las curiosas novedades que llegan en breve' />
     </a>
 </div>
 
