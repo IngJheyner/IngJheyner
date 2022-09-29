@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/xioami-redmi-note-11r-1132393'>Xioami Redmi Note 11R ve la luz y es sorprendentemente parecido al POCO M4 5G</a></h4>
-    <a href='https://computerhoy.com/noticias/xioami-redmi-note-11r-1132393' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/redmi-note-11r-2827879.jpg' alt='Xioami Redmi Note 11R ve la luz y es sorprendentemente parecido al POCO M4 5G' />
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/google-maps-modo-experto-50-trucos-avanzados-funciones-desconocidas-1131969'>Google Maps modo experto: 50 trucos avanzados y funciones desconocidas</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/google-maps-modo-experto-50-trucos-avanzados-funciones-desconocidas-1131969' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/google-maps-2827131.jpg' alt='Google Maps modo experto: 50 trucos avanzados y funciones desconocidas' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/hace-13-anos-nacio-antivirus-microsoft-windows-microsoft-security-essentials-1132361'>Hace 13 años nació el antivirus de Microsoft para Windows: Microsoft Security Essentials</a></h4>
-    <a href='https://computerhoy.com/noticias/hace-13-anos-nacio-antivirus-microsoft-windows-microsoft-security-essentials-1132361' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/microsoft-security-essentials-2827877.jpg' alt='Hace 13 años nació el antivirus de Microsoft para Windows: Microsoft Security Essentials' />
+    <h4><a href='https://computerhoy.com/noticias/whatsapp-trabaja-funcion-evitar-ciertos-mensajes-puedan-eliminar-1132441'>WhatsApp trabaja en una función para evitar que ciertos mensajes se puedan eliminar</a></h4>
+    <a href='https://computerhoy.com/noticias/whatsapp-trabaja-funcion-evitar-ciertos-mensajes-puedan-eliminar-1132441' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/whatsapp-2827987.jpg' alt='WhatsApp trabaja en una función para evitar que ciertos mensajes se puedan eliminar' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/ya-quiosco-numero-626-computer-hoy-1128463'>¡Ya está en tu quiosco el número 626 de Computer Hoy!</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/ya-quiosco-numero-626-computer-hoy-1128463' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/computer-hoy-626-2822869.jpg' alt='¡Ya está en tu quiosco el número 626 de Computer Hoy!' />
+    <h4><a href='https://computerhoy.com/noticias/bmw-usara-amazon-alexa-como-asistente-voz-proxima-generacion-vehiculos-1132429'>BMW usará la tecnología de Amazon Alexa para crear un nuevo asistente de voz de cara a 2024</a></h4>
+    <a href='https://computerhoy.com/noticias/bmw-usara-amazon-alexa-como-asistente-voz-proxima-generacion-vehiculos-1132429' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/bmw-usara-amazon-alexa-como-asistente-voz-proxima-generacion-vehiculos-2827981.jpg' alt='BMW usará la tecnología de Amazon Alexa para crear un nuevo asistente de voz de cara a 2024' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/mejores-relojes-running-comprar-793903'>Estos son los mejores relojes de running que puedes comprar en 2022</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/mejores-relojes-running-comprar-793903' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/01/running-2204069.jpg' alt='Estos son los mejores relojes de running que puedes comprar en 2022' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/robot-bipedo-cassie-bate-record-mundo-100-metros-1132343'>Cuidado, Usain Bolt: Cassie bate el récord del mundo de los 100 metros para un robot bípedo (vídeo)</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/robot-bipedo-cassie-bate-record-mundo-100-metros-1132343' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/verticalimage1664426941252-2827805.jpg' alt='Cuidado, Usain Bolt: Cassie bate el récord del mundo de los 100 metros para un robot bípedo (vídeo)' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/28-noticias-tecnologia-comenzar-manana-informado-ultimo-1132341'>28 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/28-noticias-tecnologia-comenzar-manana-informado-ultimo-1132341' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/27-noticias-tecnologia-comenzar-manana-informado-ultimo-2827801.jpg' alt='28 noticias de tecnología para comenzar la mañana informado de lo último' />
+    <h4><a href='https://computerhoy.com/noticias/comprueba-sensaciones-da-barrio-google-maps-curiosas-novedades-llegan-breve-1132395'>Comprueba qué sensaciones da un barrio en Google Maps, una de las curiosas novedades que llegan en breve</a></h4>
+    <a href='https://computerhoy.com/noticias/comprueba-sensaciones-da-barrio-google-maps-curiosas-novedades-llegan-breve-1132395' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/trucos-ocultos-google-maps-android-te-haran-vida-facil-2530159.jpg' alt='Comprueba qué sensaciones da un barrio en Google Maps, una de las curiosas novedades que llegan en breve' />
     </a>
 </div>
 
