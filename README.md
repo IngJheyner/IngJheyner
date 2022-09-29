@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/xioami-redmi-note-11r-1132393'>Xioami Redmi Note 11R ve la luz y es sorprendentemente parecido al POCO M4 5G</a></h4>
+    <a href='https://computerhoy.com/noticias/xioami-redmi-note-11r-1132393' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/redmi-note-11r-2827879.jpg' alt='Xioami Redmi Note 11R ve la luz y es sorprendentemente parecido al POCO M4 5G' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/hace-13-anos-nacio-antivirus-microsoft-windows-microsoft-security-essentials-1132361'>Hace 13 años nació el antivirus de Microsoft para Windows: Microsoft Security Essentials</a></h4>
+    <a href='https://computerhoy.com/noticias/hace-13-anos-nacio-antivirus-microsoft-windows-microsoft-security-essentials-1132361' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/microsoft-security-essentials-2827877.jpg' alt='Hace 13 años nació el antivirus de Microsoft para Windows: Microsoft Security Essentials' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/ya-quiosco-numero-626-computer-hoy-1128463'>¡Ya está en tu quiosco el número 626 de Computer Hoy!</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/ya-quiosco-numero-626-computer-hoy-1128463' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/computer-hoy-626-2822869.jpg' alt='¡Ya está en tu quiosco el número 626 de Computer Hoy!' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/28-noticias-tecnologia-comenzar-manana-informado-ultimo-1132341'>28 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/28-noticias-tecnologia-comenzar-manana-informado-ultimo-1132341' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/27-noticias-tecnologia-comenzar-manana-informado-ultimo-2827801.jpg' alt='28 noticias de tecnología para comenzar la mañana informado de lo último' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-apple-rango-precio-931423'>Estos son los mejores móviles de Apple por rango de precio</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-apple-rango-precio-931423' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/review-iphone-14-pro-2821761.jpg' alt='Estos son los mejores móviles de Apple por rango de precio' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/5-razas-perro-no-deberias-tener-problemas-salud-veterinario-1132339'>5 razas de perro que no deberías tener por sus problemas de salud, según un veterinario</a></h4>
-    <a href='https://computerhoy.com/noticias/life/5-razas-perro-no-deberias-tener-problemas-salud-veterinario-1132339' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/5-razas-perro-no-deberias-tener-problemas-salud-veterinario-2827799.jpg' alt='5 razas de perro que no deberías tener por sus problemas de salud, según un veterinario' />
     </a>
 </div>
 
