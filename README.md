@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/28-noticias-tecnologia-comenzar-manana-informado-ultimo-1132341'>28 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/28-noticias-tecnologia-comenzar-manana-informado-ultimo-1132341' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/27-noticias-tecnologia-comenzar-manana-informado-ultimo-2827801.jpg' alt='28 noticias de tecnología para comenzar la mañana informado de lo último' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-apple-rango-precio-931423'>Estos son los mejores móviles de Apple por rango de precio</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-apple-rango-precio-931423' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/review-iphone-14-pro-2821761.jpg' alt='Estos son los mejores móviles de Apple por rango de precio' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/5-razas-perro-no-deberias-tener-problemas-salud-veterinario-1132339'>5 razas de perro que no deberías tener por sus problemas de salud, según un veterinario</a></h4>
     <a href='https://computerhoy.com/noticias/life/5-razas-perro-no-deberias-tener-problemas-salud-veterinario-1132339' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/5-razas-perro-no-deberias-tener-problemas-salud-veterinario-2827799.jpg' alt='5 razas de perro que no deberías tener por sus problemas de salud, según un veterinario' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/novedades-busqueda-google-entender-peticiones-forma-sencilla-natural-1132103'>Las novedades de búsqueda de Google para entender peticiones de forma más sencilla y natural</a></h4>
     <a href='https://computerhoy.com/noticias/novedades-busqueda-google-entender-peticiones-forma-sencilla-natural-1132103' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/google-2819349.jpg' alt='Las novedades de búsqueda de Google para entender peticiones de forma más sencilla y natural' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/parachoques-vtc-barcelona-que-significa-1132107'>Este extraño parachoques que llevan los VTC en Barcelona tiene una explicación</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/parachoques-vtc-barcelona-que-significa-1132107' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/vtc-bolt-barcelona-2813741.jpg' alt='Este extraño parachoques que llevan los VTC en Barcelona tiene una explicación' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/xiaomi-12x-con-robot-aspirador-regalo-1132049'>Xiaomi regala un robot aspirador a quien compre uno de sus móviles de gama alta</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/xiaomi-12x-con-robot-aspirador-regalo-1132049' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/xiaomi-regala-robot-aspirador-quien-compre-moviles-gama-alta-2827347.jpg' alt='Xiaomi regala un robot aspirador a quien compre uno de sus móviles de gama alta' />
     </a>
 </div>
 
