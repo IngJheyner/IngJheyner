@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/nuevo-moto-g72-ya-tiene-fecha-lanzamiento-todo-sabemos-smartphone-1132555'>El Moto G72 ya tiene fecha de lanzamiento: esto es todo lo que sabemos de este nuevo smartphone</a></h4>
+    <a href='https://computerhoy.com/noticias/nuevo-moto-g72-ya-tiene-fecha-lanzamiento-todo-sabemos-smartphone-1132555' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/moto-g72-ya-tiene-fecha-lanzamiento-todo-sabemos-nuevo-smartphone-2828287.jpg' alt='El Moto G72 ya tiene fecha de lanzamiento: esto es todo lo que sabemos de este nuevo smartphone' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/precios-gas-electricidad-invierno-estufa-gas-butano-cada-vez-interesante-calentar-casa-1131439'>Con los precios del gas y electricidad este invierno, esta estufa de gas butano cada vez es más interesante para calentar tu casa</a></h4>
+    <a href='https://computerhoy.com/noticias/life/precios-gas-electricidad-invierno-estufa-gas-butano-cada-vez-interesante-calentar-casa-1131439' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/orbegozo-hbf-90-2827989.jpg' alt='Con los precios del gas y electricidad este invierno, esta estufa de gas butano cada vez es más interesante para calentar tu casa' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/motivo-nasa-tiene-literalmente-reinventar-rueda-marte-1132533'>El motivo por el que la NASA tiene que, literalmente, reinventar la rueda para Marte</a></h4>
     <a href='https://computerhoy.com/noticias/motivo-nasa-tiene-literalmente-reinventar-rueda-marte-1132533' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/astrolab-flex-rover-2643137.jpg' alt='El motivo por el que la NASA tiene que, literalmente, reinventar la rueda para Marte' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/apple-da-marcha-atras-no-aumentara-produccion-iphone-14-1132501'>Apple da marcha atrás: no aumentará la producción de iPhone 14</a></h4>
     <a href='https://computerhoy.com/noticias/apple-da-marcha-atras-no-aumentara-produccion-iphone-14-1132501' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/tienda-apple-2708783.jpg' alt='Apple da marcha atrás: no aumentará la producción de iPhone 14' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/como-funciona-too-good-go-app-comer-muy-barato-evitar-desperdicio-1132459'>Qué es y cómo funciona Too Good To Go, la app para comer muy barato y evitar el desperdicio</a></h4>
-    <a href='https://computerhoy.com/noticias/como-funciona-too-good-go-app-comer-muy-barato-evitar-desperdicio-1132459' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/too-good-go-2828093.jpg' alt='Qué es y cómo funciona Too Good To Go, la app para comer muy barato y evitar el desperdicio' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/purificador-aire-xiaomi-mi-air-purifier-3c-oferta-1131847'>El purificador de aire Xiaomi más barato ahora lo es aún más: ya cuesta mucho menos de 100 euros</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/purificador-aire-xiaomi-mi-air-purifier-3c-oferta-1131847' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/xiaomi-mi-air-purifier-3c-2619207.jpg' alt='El purificador de aire Xiaomi más barato ahora lo es aún más: ya cuesta mucho menos de 100 euros' />
     </a>
 </div>
 
