@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/make-video-capaz-crear-videos-cortos-texto-meta-ai-escribes-hace-magia-1132679'>Make-A-Video es capaz de crear vídeos cortos desde texto con Meta AI: tú escribes y hace magia</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/make-video-capaz-crear-videos-cortos-texto-meta-ai-escribes-hace-magia-1132679' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/make-video-2828735.jpg' alt='Make-A-Video es capaz de crear vídeos cortos desde texto con Meta AI: tú escribes y hace magia' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/amazon-kindle-scribe-merece-pena-comprar-1132391'>Kindle Scribe: por qué merece la pena comprar este nuevo lector de ebooks</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/amazon-kindle-scribe-merece-pena-comprar-1132391' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/amazon-kindle-scribe-2827915.jpg' alt='Kindle Scribe: por qué merece la pena comprar este nuevo lector de ebooks' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/google-repetira-precios-pixel-7-7-pro-ha-filtrado-amazon-1132663'>Google repetirá precios con los Pixel 7 y 7 Pro según se ha filtrado en Amazon</a></h4>
     <a href='https://computerhoy.com/noticias/google-repetira-precios-pixel-7-7-pro-ha-filtrado-amazon-1132663' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/presentacion-pixel-7-pixel-watch-ya-tiene-fecha-2805441.jpg' alt='Google repetirá precios con los Pixel 7 y 7 Pro según se ha filtrado en Amazon' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/microsoft-prepara-proximo-surface-studio-3-cpu-gpu-hace-dos-generaciones-1132631'>Microsoft prepara su próximo Surface Studio 3 con CPU y GPU de hace dos generaciones</a></h4>
     <a href='https://computerhoy.com/noticias/microsoft-prepara-proximo-surface-studio-3-cpu-gpu-hace-dos-generaciones-1132631' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/11/microsoft-surface-studio-2.jpg' alt='Microsoft prepara su próximo Surface Studio 3 con CPU y GPU de hace dos generaciones' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/nuevas-filtraciones-aseguran-snapdragon-8-gen-2-llegaria-especificaciones-muy-diferentes-1132641'>Nuevas filtraciones aseguran que el Snapdragon 8 Gen 2 llegaría con especificaciones muy diferentes</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/nuevas-filtraciones-aseguran-snapdragon-8-gen-2-llegaria-especificaciones-muy-diferentes-1132641' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/snapdragon-8-gen-2-2828603.jpg' alt='Nuevas filtraciones aseguran que el Snapdragon 8 Gen 2 llegaría con especificaciones muy diferentes' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/mejores-alternativas-gratis-teamviewer-controlar-pc-distancia-1132575'>Las mejores alternativas gratis a Teamviewer para controlar un PC a distancia</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/mejores-alternativas-gratis-teamviewer-controlar-pc-distancia-1132575' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/mejores-alternativas-gratis-teamviewer-controlar-pc-distancia-2828341.jpg' alt='Las mejores alternativas gratis a Teamviewer para controlar un PC a distancia' />
     </a>
 </div>
 
