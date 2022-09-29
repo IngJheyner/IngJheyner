@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/5-razas-perro-no-deberias-tener-problemas-salud-veterinario-1132339'>5 razas de perro que no deberías tener por sus problemas de salud, según un veterinario</a></h4>
+    <a href='https://computerhoy.com/noticias/life/5-razas-perro-no-deberias-tener-problemas-salud-veterinario-1132339' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/5-razas-perro-no-deberias-tener-problemas-salud-veterinario-2827799.jpg' alt='5 razas de perro que no deberías tener por sus problemas de salud, según un veterinario' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/motor/hyperloop-elon-musk-llega-espana-zaragoza-1132113'>El Hyperloop de Elon Musk llegará a España a través de Zaragoza</a></h4>
     <a href='https://computerhoy.com/noticias/motor/hyperloop-elon-musk-llega-espana-zaragoza-1132113' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/hyperloop-elon-musk-llegara-espana-traves-zaragoza-2827577.jpg' alt='El Hyperloop de Elon Musk llegará a España a través de Zaragoza' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/xiaomi-12x-con-robot-aspirador-regalo-1132049'>Xiaomi regala un robot aspirador a quien compre uno de sus móviles de gama alta</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/xiaomi-12x-con-robot-aspirador-regalo-1132049' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/xiaomi-regala-robot-aspirador-quien-compre-moviles-gama-alta-2827347.jpg' alt='Xiaomi regala un robot aspirador a quien compre uno de sus móviles de gama alta' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/codigos-qr-popularizaron-pandemia-ahora-mayores-peligros-movil-1132099'>Los códigos QR se popularizaron con la pandemia y ahora es uno de los mayores peligros para tu móvil</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/codigos-qr-popularizaron-pandemia-ahora-mayores-peligros-movil-1132099' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/codigo-qr-2827525.jpg' alt='Los códigos QR se popularizaron con la pandemia y ahora es uno de los mayores peligros para tu móvil' />
     </a>
 </div>
 
