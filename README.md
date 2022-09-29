@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/google-repetira-precios-pixel-7-7-pro-ha-filtrado-amazon-1132663'>Google repetirá precios con los Pixel 7 y 7 Pro según se ha filtrado en Amazon</a></h4>
+    <a href='https://computerhoy.com/noticias/google-repetira-precios-pixel-7-7-pro-ha-filtrado-amazon-1132663' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/presentacion-pixel-7-pixel-watch-ya-tiene-fecha-2805441.jpg' alt='Google repetirá precios con los Pixel 7 y 7 Pro según se ha filtrado en Amazon' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/gaming/razer-edge-5g-primera-consola-portatil-5g-1132653'>Así es Razer Edge 5G: la primera consola portátil con 5G</a></h4>
+    <a href='https://computerhoy.com/noticias/gaming/razer-edge-5g-primera-consola-portatil-5g-1132653' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/consola-razer-2828631.jpg' alt='Así es Razer Edge 5G: la primera consola portátil con 5G' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/microsoft-prepara-proximo-surface-studio-3-cpu-gpu-hace-dos-generaciones-1132631'>Microsoft prepara su próximo Surface Studio 3 con CPU y GPU de hace dos generaciones</a></h4>
+    <a href='https://computerhoy.com/noticias/microsoft-prepara-proximo-surface-studio-3-cpu-gpu-hace-dos-generaciones-1132631' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/11/microsoft-surface-studio-2.jpg' alt='Microsoft prepara su próximo Surface Studio 3 con CPU y GPU de hace dos generaciones' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/nuevas-filtraciones-aseguran-snapdragon-8-gen-2-llegaria-especificaciones-muy-diferentes-1132641'>Nuevas filtraciones aseguran que el Snapdragon 8 Gen 2 llegaría con especificaciones muy diferentes</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/nuevas-filtraciones-aseguran-snapdragon-8-gen-2-llegaria-especificaciones-muy-diferentes-1132641' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/snapdragon-8-gen-2-2828603.jpg' alt='Nuevas filtraciones aseguran que el Snapdragon 8 Gen 2 llegaría con especificaciones muy diferentes' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/mejores-alternativas-gratis-teamviewer-controlar-pc-distancia-1132575'>Las mejores alternativas gratis a Teamviewer para controlar un PC a distancia</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/mejores-alternativas-gratis-teamviewer-controlar-pc-distancia-1132575' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/mejores-alternativas-gratis-teamviewer-controlar-pc-distancia-2828341.jpg' alt='Las mejores alternativas gratis a Teamviewer para controlar un PC a distancia' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/nuevo-moto-g72-ya-tiene-fecha-lanzamiento-todo-sabemos-smartphone-1132555'>El Moto G72 ya tiene fecha de lanzamiento: esto es todo lo que sabemos de este nuevo smartphone</a></h4>
-    <a href='https://computerhoy.com/noticias/nuevo-moto-g72-ya-tiene-fecha-lanzamiento-todo-sabemos-smartphone-1132555' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/moto-g72-ya-tiene-fecha-lanzamiento-todo-sabemos-nuevo-smartphone-2828287.jpg' alt='El Moto G72 ya tiene fecha de lanzamiento: esto es todo lo que sabemos de este nuevo smartphone' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/precios-gas-electricidad-invierno-estufa-gas-butano-cada-vez-interesante-calentar-casa-1131439'>Con los precios del gas y electricidad este invierno, esta estufa de gas butano cada vez es más interesante para calentar tu casa</a></h4>
-    <a href='https://computerhoy.com/noticias/life/precios-gas-electricidad-invierno-estufa-gas-butano-cada-vez-interesante-calentar-casa-1131439' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/orbegozo-hbf-90-2827989.jpg' alt='Con los precios del gas y electricidad este invierno, esta estufa de gas butano cada vez es más interesante para calentar tu casa' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motivo-nasa-tiene-literalmente-reinventar-rueda-marte-1132533'>El motivo por el que la NASA tiene que, literalmente, reinventar la rueda para Marte</a></h4>
-    <a href='https://computerhoy.com/noticias/motivo-nasa-tiene-literalmente-reinventar-rueda-marte-1132533' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/astrolab-flex-rover-2643137.jpg' alt='El motivo por el que la NASA tiene que, literalmente, reinventar la rueda para Marte' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/huawei-recibe-luz-verde-europa-integrar-funcion-ecg-watch-gt-3-pro-presion-arterial-watch-d-1132505'>Huawei recibe luz verde de Europa para integrar su función ECG en el Watch GT 3 Pro y presión arterial en el Watch D</a></h4>
-    <a href='https://computerhoy.com/noticias/huawei-recibe-luz-verde-europa-integrar-funcion-ecg-watch-gt-3-pro-presion-arterial-watch-d-1132505' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/huawei-recibe-luz-verde-europa-integrar-funcion-ecg-watch-gt-3-pro-presion-arterial-watch-d-2828207.jpg' alt='Huawei recibe luz verde de Europa para integrar su función ECG en el Watch GT 3 Pro y presión arterial en el Watch D' />
     </a>
 </div>
 
