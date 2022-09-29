@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/dall-e-inteligencia-artificial-openai-gratis-todos-1132735'>La inteligencia artificial Dall-E de OpenAI ya está disponible gratis para todos</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/dall-e-inteligencia-artificial-openai-gratis-todos-1132735' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/ia-dall-openai-ya-disponible-gratis-todos-2828817.jpg' alt='La inteligencia artificial Dall-E de OpenAI ya está disponible gratis para todos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/amazon-music-unlimited-4-meses-gratis-1132727'>¿Cansado de los anuncios de Spotify? Amazon te regala 4 meses de servicio Premium y sonido HD</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/amazon-music-unlimited-4-meses-gratis-1132727' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/cansado-anuncios-spotify-amazon-te-regala-4-meses-servicio-premium-sonido-hd-2828809.jpg' alt='¿Cansado de los anuncios de Spotify? Amazon te regala 4 meses de servicio Premium y sonido HD' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/convierte-catador-improvisado-producto-favorito-mercadona-tambien-podrias-hacer-mismo-1132711'>Se convierte en catador improvisado de su producto favorito de Mercadona y tú también podrías hacer lo mismo</a></h4>
     <a href='https://computerhoy.com/noticias/life/convierte-catador-improvisado-producto-favorito-mercadona-tambien-podrias-hacer-mismo-1132711' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/mercadona-2828789.jpg' alt='Se convierte en catador improvisado de su producto favorito de Mercadona y tú también podrías hacer lo mismo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/nuevo-gadget-garmin-hace-competencia-iphone-14-conexion-satelital-1132705'>El nuevo gadget de Garmin le hace la competencia al iPhone 14 y su conexión satelital</a></h4>
-    <a href='https://computerhoy.com/noticias/nuevo-gadget-garmin-hace-competencia-iphone-14-conexion-satelital-1132705' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/camping-acampada-acampar-2374543.jpg' alt='El nuevo gadget de Garmin le hace la competencia al iPhone 14 y su conexión satelital' />
     </a>
 </div>
 
