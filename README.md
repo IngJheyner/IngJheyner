@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/rtx-4090-debes-saber-consumo-energetico-propia-nvidia-1133181'>RTX 4090: lo que debes saber sobre su consumo energético, según la propia NVIDIA</a></h4>
+    <a href='https://computerhoy.com/noticias/rtx-4090-debes-saber-consumo-energetico-propia-nvidia-1133181' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/nvidia-rtx-4090-2819207.jpg' alt='RTX 4090: lo que debes saber sobre su consumo energético, según la propia NVIDIA' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/listas/tecnologia/18-consejos-buscar-google-como-experto-395469'>Consejos para buscar en Google como un experto</a></h4>
+    <a href='https://computerhoy.com/listas/tecnologia/18-consejos-buscar-google-como-experto-395469' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/buscar-google-2829659.jpg' alt='Consejos para buscar en Google como un experto' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/elon-musk-rescate-hubble-piensa-spacex-alargar-vida-viejo-telescopio-nasa-1133167'>Elon Musk al rescate del Hubble: así piensa SpaceX alargar la vida del viejo telescopio de la NASA</a></h4>
+    <a href='https://computerhoy.com/noticias/elon-musk-rescate-hubble-piensa-spacex-alargar-vida-viejo-telescopio-nasa-1133167' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/telescopio-hubble-2829577.jpg' alt='Elon Musk al rescate del Hubble: así piensa SpaceX alargar la vida del viejo telescopio de la NASA' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/todas-novedades-llegan-hbo-max-octubre-2022-1133147'>Todas las novedades que llegan a HBO Max este octubre 2022</a></h4>
     <a href='https://computerhoy.com/noticias/todas-novedades-llegan-hbo-max-octubre-2022-1133147' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/white-lotus-2440453.jpg' alt='Todas las novedades que llegan a HBO Max este octubre 2022' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/gaming/fifa-23-totalmente-gratis-xbox-series-s-envio-expres-1133117'>FIFA 23 totalmente gratis con la Xbox Series S y con envío exprés</a></h4>
     <a href='https://computerhoy.com/noticias/gaming/fifa-23-totalmente-gratis-xbox-series-s-envio-expres-1133117' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/11/analisis-xbox-series-s-computerhoy-2131659.jpg' alt='FIFA 23 totalmente gratis con la Xbox Series S y con envío exprés' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tiktok-revolucion-copy-paste-resto-redes-sociales-1133137'>TikTok y la revolución de copy/paste en el resto de redes sociales</a></h4>
-    <a href='https://computerhoy.com/noticias/tiktok-revolucion-copy-paste-resto-redes-sociales-1133137' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/estudio-demuestra-todos-sabemos-semana-instagram-tiktok-reduce-ansiedad-2704427.jpg' alt='TikTok y la revolución de copy/paste en el resto de redes sociales' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/camaras-seguridad-exteriores-anker-bateria-ilimitada-gracias-sol-1133095'>Cámaras de seguridad de exteriores Anker con batería ilimitada gracias al sol</a></h4>
-    <a href='https://computerhoy.com/noticias/camaras-seguridad-exteriores-anker-bateria-ilimitada-gracias-sol-1133095' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/anker-2829395.jpg' alt='Cámaras de seguridad de exteriores Anker con batería ilimitada gracias al sol' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/nueva-serie-netflix-ha-conseguido-superar-estreno-juego-calamar-1133061'>La nueva serie de Netflix que ha conseguido superar el estreno de El juego del Calamar</a></h4>
-    <a href='https://computerhoy.com/noticias/nueva-serie-netflix-ha-conseguido-superar-estreno-juego-calamar-1133061' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/monstruo-historia-jeffrey-dahmer-2820419.jpg' alt='La nueva serie de Netflix que ha conseguido superar el estreno de El juego del Calamar' />
     </a>
 </div>
 
