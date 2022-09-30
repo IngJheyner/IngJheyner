@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/primer-accidente-dron-reparto-google-choca-cable-electrico-deja-luz-2000-casas-durante-hora-1133315'>Primer accidente de un dron de reparto de Google: choca contra un cable eléctrico y deja sin luz a 2.000 casas durante una hora</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/primer-accidente-dron-reparto-google-choca-cable-electrico-deja-luz-2000-casas-durante-hora-1133315' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/primer-accidente-dron-reparto-google-choca-cable-electrico-deja-luz-2000-casas-durante-hora-2830043.jpg' alt='Primer accidente de un dron de reparto de Google: choca contra un cable eléctrico y deja sin luz a 2.000 casas durante una hora' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/gaming/prime-gaming-juegos-gratis-octubre-2022-1133311'>Fallout 76, Total War: Warhammer II, Middle Earth: Shadow of War y otros juegazos gratis que regala Amazon en octubre</a></h4>
     <a href='https://computerhoy.com/noticias/gaming/prime-gaming-juegos-gratis-octubre-2022-1133311' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/fallout-76-total-war-warhammer-ii-midde-earth-shadows-war-otros-juegazos-gratis-regala-amazon-2830041.jpg' alt='Fallout 76, Total War: Warhammer II, Middle Earth: Shadow of War y otros juegazos gratis que regala Amazon en octubre' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/sirve-agujero-tapa-boligrafos-bic-seguramente-no-estas-pensando-1133279'>¿Para qué sirve el agujero en la tapa de los bolígrafos BIC? Seguramente no para lo que estás pensando</a></h4>
     <a href='https://computerhoy.com/noticias/life/sirve-agujero-tapa-boligrafos-bic-seguramente-no-estas-pensando-1133279' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/boligrafo-2829971.jpg' alt='¿Para qué sirve el agujero en la tapa de los bolígrafos BIC? Seguramente no para lo que estás pensando' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/android-14-puede-suponer-fin-aplicaciones-moviles-32-bits-1133223'>Android 14 puede suponer el fin de las aplicaciones móviles de 32 bits</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/android-14-puede-suponer-fin-aplicaciones-moviles-32-bits-1133223' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/hoy-google-cumple-24-como-buscador-web-marco-antes-despues-vidas-2825461.jpg' alt='Android 14 puede suponer el fin de las aplicaciones móviles de 32 bits' />
     </a>
 </div>
 
