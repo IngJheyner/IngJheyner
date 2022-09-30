@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/nueva-serie-netflix-ha-conseguido-superar-estreno-juego-calamar-1133061'>La nueva serie de Netflix que ha conseguido superar el estreno de El juego del Calamar</a></h4>
+    <a href='https://computerhoy.com/noticias/nueva-serie-netflix-ha-conseguido-superar-estreno-juego-calamar-1133061' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/monstruo-historia-jeffrey-dahmer-2820419.jpg' alt='La nueva serie de Netflix que ha conseguido superar el estreno de El juego del Calamar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/robot-low-cost-xiaomi-aspira-friega-grandes-ofertas-momento-amazon-1131911'>El robot low cost de Xiaomi que aspira y friega es una de las grandes ofertas del momento en Amazon</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/robot-low-cost-xiaomi-aspira-friega-grandes-ofertas-momento-amazon-1131911' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/xiaomi-robot-vacuum-mop-2s-2658339.jpg' alt='El robot low cost de Xiaomi que aspira y friega es una de las grandes ofertas del momento en Amazon' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/9-procesos-windows-puedes-cerrar-miedo-mejorar-rendimiento-pc-1133049'>Los 9 procesos de Windows que puedes cerrar sin miedo para mejorar el rendimiento de tu PC</a></h4>
+    <a href='https://computerhoy.com/noticias/9-procesos-windows-puedes-cerrar-miedo-mejorar-rendimiento-pc-1133049' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/windows-11-2822283.jpg' alt='Los 9 procesos de Windows que puedes cerrar sin miedo para mejorar el rendimiento de tu PC' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/whatsapp-prepara-opcion-crear-llamadas-usuarios-puedan-unirse-cuando-puedan-1133033'>WhatsApp prepara la opción de crear llamadas y que los usuarios puedan unirse cuando puedan</a></h4>
+    <a href='https://computerhoy.com/noticias/whatsapp-prepara-opcion-crear-llamadas-usuarios-puedan-unirse-cuando-puedan-1133033' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/whatsapp-2829237.jpg' alt='WhatsApp prepara la opción de crear llamadas y que los usuarios puedan unirse cuando puedan' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/nueva-regla-5-anos-intentar-mejorar-asunto-basura-espacial-1133025'>La nueva Regla de los 5 Años para intentar mejorar el asunto de basura espacial</a></h4>
     <a href='https://computerhoy.com/noticias/nueva-regla-5-anos-intentar-mejorar-asunto-basura-espacial-1133025' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/nueva-regla-5-anos-intentar-mejorar-asunto-basura-espacial-2829195.jpg' alt='La nueva Regla de los 5 Años para intentar mejorar el asunto de basura espacial' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/microsoft-mejora-sonido-videollamadas-team-sintetizando-audio-mediante-ia-1133011'>Microsoft mejora el sonido de videollamadas en Teams sintetizando el audio mediante IA</a></h4>
-    <a href='https://computerhoy.com/noticias/microsoft-mejora-sonido-videollamadas-team-sintetizando-audio-mediante-ia-1133011' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/microsoft-teams-2829161.jpg' alt='Microsoft mejora el sonido de videollamadas en Teams sintetizando el audio mediante IA' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/google-pixel-6a-precio-minimo-tuimeilibre-1131893'>Google va a por Xiaomi: su Pixel 6a baja aún más de precio y pone en apuros a sus rivales</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/google-pixel-6a-precio-minimo-tuimeilibre-1131893' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/analisis-pixel-6a-2765529.jpg' alt='Google va a por Xiaomi: su Pixel 6a baja aún más de precio y pone en apuros a sus rivales' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/mejores-fotos-submarinas-2022-lens-awards-1132993'>Las mejores fotografías submarinas de 2022 de Lens Awards</a></h4>
-    <a href='https://computerhoy.com/noticias/mejores-fotos-submarinas-2022-lens-awards-1132993' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/mejores-fotos-submarinas-2022-lens-awards-2829095.jpg' alt='Las mejores fotografías submarinas de 2022 de Lens Awards' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/filtra-absolutamente-todo-xiaomi-12t-12t-pro-diseno-especificaciones-precios-1133003'>Se filtran por completo los Xiaomi 12T y 12T Pro: diseño, especificaciones y precios</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/filtra-absolutamente-todo-xiaomi-12t-12t-pro-diseno-especificaciones-precios-1133003' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/xiaomi-12t-2829157.jpg' alt='Se filtran por completo los Xiaomi 12T y 12T Pro: diseño, especificaciones y precios' />
     </a>
 </div>
 
