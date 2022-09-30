@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/estrenos-novedades-llegan-amazon-prime-video-anillos-padres-dictaduras-1133191'>Estrenos y novedades de Amazon Prime Video en octubre: Los Anillos de Poder llegan a su fin</a></h4>
+    <a href='https://computerhoy.com/noticias/estrenos-novedades-llegan-amazon-prime-video-anillos-padres-dictaduras-1133191' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/estrenos-novedades-llegan-amazon-prime-video-anillos-padres-dictaduras-2829719.jpg' alt='Estrenos y novedades de Amazon Prime Video en octubre: Los Anillos de Poder llegan a su fin' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/rtx-4090-debes-saber-consumo-energetico-propia-nvidia-1133181'>RTX 4090: lo que debes saber sobre su consumo energético, según la propia NVIDIA</a></h4>
     <a href='https://computerhoy.com/noticias/rtx-4090-debes-saber-consumo-energetico-propia-nvidia-1133181' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/nvidia-rtx-4090-2819207.jpg' alt='RTX 4090: lo que debes saber sobre su consumo energético, según la propia NVIDIA' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/todas-novedades-llegan-hbo-max-octubre-2022-1133147'>Todas las novedades que llegan a HBO Max este octubre 2022</a></h4>
     <a href='https://computerhoy.com/noticias/todas-novedades-llegan-hbo-max-octubre-2022-1133147' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/white-lotus-2440453.jpg' alt='Todas las novedades que llegan a HBO Max este octubre 2022' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/gaming/fifa-23-totalmente-gratis-xbox-series-s-envio-expres-1133117'>FIFA 23 totalmente gratis con la Xbox Series S y con envío exprés</a></h4>
-    <a href='https://computerhoy.com/noticias/gaming/fifa-23-totalmente-gratis-xbox-series-s-envio-expres-1133117' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/11/analisis-xbox-series-s-computerhoy-2131659.jpg' alt='FIFA 23 totalmente gratis con la Xbox Series S y con envío exprés' />
     </a>
 </div>
 
