@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/series-ver-fin-semana-netflix-disney-movistar-plus-asesino-apagon-senor-cabreado-1133185'>Qué series ver este fin de semana en Netflix, Disney+ y Movistar Plus+: un asesino, un apagón y un señor cabreado</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/series-ver-fin-semana-netflix-disney-movistar-plus-asesino-apagon-senor-cabreado-1133185' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/series-fin-semana-2829711.jpg' alt='Qué series ver este fin de semana en Netflix, Disney+ y Movistar Plus+: un asesino, un apagón y un señor cabreado' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entendiendo-factura-electrica-tarifas-como-ahorrar-casa-1133197'>Entendiendo tu factura eléctrica, tarifas y cómo ahorrar en casa</a></h4>
+    <a href='https://computerhoy.com/noticias/entendiendo-factura-electrica-tarifas-como-ahorrar-casa-1133197' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/entendiendo-factura-electrica-tarifas-como-ahorrar-casa-2829749.jpg' alt='Entendiendo tu factura eléctrica, tarifas y cómo ahorrar en casa' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/supuesto-diseno-samsung-galaxy-s23-ultra-filtra-seria-identico-galaxy-s22-ultra-1133209'>El supuesto diseño del Samsung Galaxy S23 Ultra se filtra y sería idéntico al Galaxy S22 Ultra</a></h4>
+    <a href='https://computerhoy.com/noticias/supuesto-diseno-samsung-galaxy-s23-ultra-filtra-seria-identico-galaxy-s22-ultra-1133209' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/supuesto-diseno-samsung-galaxy-s23-ultra-filtra-seria-identico-galaxy-s22-ultra-2829751.jpg' alt='El supuesto diseño del Samsung Galaxy S23 Ultra se filtra y sería idéntico al Galaxy S22 Ultra' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/peliculas-ver-fin-semana-netflix-prime-video-disney-nueva-paco-leon-sonic-2-vuelta-brujas-salem-1121383'>Qué películas ver este fin de semana en Netflix, Prime Video y Disney+: la nueva de Paco León, Sonic 2 y la vuelta de las brujas de Salem</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/peliculas-ver-fin-semana-netflix-prime-video-disney-nueva-paco-leon-sonic-2-vuelta-brujas-salem-1121383' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/peliculas-ver-fin-semana-netflix-prime-video-disney-nueva-paco-leon-sonic-2-vuelta-brujas-salem-2829233.jpg' alt='Qué películas ver este fin de semana en Netflix, Prime Video y Disney+: la nueva de Paco León, Sonic 2 y la vuelta de las brujas de Salem' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/estrenos-novedades-llegan-amazon-prime-video-anillos-padres-dictaduras-1133191'>Estrenos y novedades de Amazon Prime Video en octubre: Los Anillos de Poder llegan a su fin</a></h4>
     <a href='https://computerhoy.com/noticias/estrenos-novedades-llegan-amazon-prime-video-anillos-padres-dictaduras-1133191' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/estrenos-novedades-llegan-amazon-prime-video-anillos-padres-dictaduras-2829719.jpg' alt='Estrenos y novedades de Amazon Prime Video en octubre: Los Anillos de Poder llegan a su fin' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/rtx-4090-debes-saber-consumo-energetico-propia-nvidia-1133181'>RTX 4090: lo que debes saber sobre su consumo energético, según la propia NVIDIA</a></h4>
-    <a href='https://computerhoy.com/noticias/rtx-4090-debes-saber-consumo-energetico-propia-nvidia-1133181' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/nvidia-rtx-4090-2819207.jpg' alt='RTX 4090: lo que debes saber sobre su consumo energético, según la propia NVIDIA' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/listas/tecnologia/18-consejos-buscar-google-como-experto-395469'>Consejos para buscar en Google como un experto</a></h4>
-    <a href='https://computerhoy.com/listas/tecnologia/18-consejos-buscar-google-como-experto-395469' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/buscar-google-2829659.jpg' alt='Consejos para buscar en Google como un experto' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/elon-musk-rescate-hubble-piensa-spacex-alargar-vida-viejo-telescopio-nasa-1133167'>Elon Musk al rescate del Hubble: así piensa SpaceX alargar la vida del viejo telescopio de la NASA</a></h4>
-    <a href='https://computerhoy.com/noticias/elon-musk-rescate-hubble-piensa-spacex-alargar-vida-viejo-telescopio-nasa-1133167' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/telescopio-hubble-2829577.jpg' alt='Elon Musk al rescate del Hubble: así piensa SpaceX alargar la vida del viejo telescopio de la NASA' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/todas-novedades-llegan-hbo-max-octubre-2022-1133147'>Todas las novedades que llegan a HBO Max este octubre 2022</a></h4>
-    <a href='https://computerhoy.com/noticias/todas-novedades-llegan-hbo-max-octubre-2022-1133147' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/white-lotus-2440453.jpg' alt='Todas las novedades que llegan a HBO Max este octubre 2022' />
     </a>
 </div>
 
