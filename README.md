@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/ejercicio-ayuda-metabolismo-quemar-grasas-incluso-estando-sentados-nuevo-estudio-1132961'>Este sencillo ejercicio ayuda al metabolismo y a quemar grasas incluso estando sentados, según un nuevo estudio</a></h4>
+    <a href='https://computerhoy.com/noticias/life/ejercicio-ayuda-metabolismo-quemar-grasas-incluso-estando-sentados-nuevo-estudio-1132961' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/sencillo-ejercicio-ayuda-metabolismo-quemar-grasas-pasas-muchas-horas-sentado-nuevo-estudio-2829047.jpg' alt='Este sencillo ejercicio ayuda al metabolismo y a quemar grasas incluso estando sentados, según un nuevo estudio' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/estadio-lusail--final-copa-mundo-futbol-2022-video-1132959'>Así es por dentro el estadio de la Final de la Copa del Mundo de Fútbol 2022 (vídeo)</a></h4>
     <a href='https://computerhoy.com/noticias/life/estadio-lusail--final-copa-mundo-futbol-2022-video-1132959' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/verticalimage1664490192367-2829043.jpg' alt='Así es por dentro el estadio de la Final de la Copa del Mundo de Fútbol 2022 (vídeo)' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/fundadores-netflix-predice-fin-tdt-television-convencional-queda-muy-poco-1132721'>Uno de los fundadores de Netflix predice el fin de la TDT y la televisión convencional (y queda muy poco)</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/fundadores-netflix-predice-fin-tdt-television-convencional-queda-muy-poco-1132721' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/mujer-viendo-television-2828799.jpg' alt='Uno de los fundadores de Netflix predice el fin de la TDT y la televisión convencional (y queda muy poco)' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/apagon-serie-movistar-plus-1132715'>Movistar Plus+ ha lanzado Apagón, la miniserie que habla sobre unos de los grandes miedos que nos acechan</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/apagon-serie-movistar-plus-1132715' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/verticalimage1664474321318-2828797.jpg' alt='Movistar Plus+ ha lanzado Apagón, la miniserie que habla sobre unos de los grandes miedos que nos acechan' />
     </a>
 </div>
 
