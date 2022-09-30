@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/mini-pc-16-gb-ram-salida-4k-windows-11-oferta-1133303'>Este Mini PC con 16 GB de RAM, salida 4K y Windows 11 tiene un 25% de descuento y baja a su precio mínimo, 339 euros</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/mini-pc-16-gb-ram-salida-4k-windows-11-oferta-1133303' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/minipc-16-gb-ram-windows-11-tiene-25-descuento-baja-precio-minimo-339-euros-2830025.jpg' alt='Este Mini PC con 16 GB de RAM, salida 4K y Windows 11 tiene un 25% de descuento y baja a su precio mínimo, 339 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/bruce-willis-derechos-deepfake-deepcake-1133293'>Seguirás viendo a Bruce Willis en el cine, aunque ya no sea él: ha vendido sus derechos a una compañía de deepfakes</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/bruce-willis-derechos-deepfake-deepcake-1133293' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/seguiras-viendo-bruce-willis-cine-aunque-ya-no-sea-ha-vendido-derechos-compania-deepfakes-2830021.jpg' alt='Seguirás viendo a Bruce Willis en el cine, aunque ya no sea él: ha vendido sus derechos a una compañía de deepfakes' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/motor/alerta-seguridad-grave-modelos-vendidos-seat-cupra-leon-1133275'>Alerta de seguridad grave para uno de los modelos más vendidos de Seat y Cupra León</a></h4>
     <a href='https://computerhoy.com/noticias/motor/alerta-seguridad-grave-modelos-vendidos-seat-cupra-leon-1133275' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/seat-leon-2702635.jpg' alt='Alerta de seguridad grave para uno de los modelos más vendidos de Seat y Cupra León' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-sistemas-alarma-seguridad-puedes-comprar-solo-pagaras-vez-989503'>Mejores sistemas de alarma y seguridad que puedes comprar (y que solo pagarás una vez)</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-sistemas-alarma-seguridad-puedes-comprar-solo-pagaras-vez-989503' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/centralita-alarma-ring-2829275.jpg' alt='Mejores sistemas de alarma y seguridad que puedes comprar (y que solo pagarás una vez)' />
     </a>
 </div>
 
