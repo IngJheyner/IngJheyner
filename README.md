@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-sistemas-alarma-seguridad-puedes-comprar-solo-pagaras-vez-989503'>Mejores sistemas de alarma y seguridad que puedes comprar (y que solo pagarás una vez)</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-sistemas-alarma-seguridad-puedes-comprar-solo-pagaras-vez-989503' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/centralita-alarma-ring-2829275.jpg' alt='Mejores sistemas de alarma y seguridad que puedes comprar (y que solo pagarás una vez)' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/series-ver-fin-semana-netflix-disney-movistar-plus-asesino-apagon-senor-cabreado-1133185'>Qué series ver este fin de semana en Netflix, Disney+ y Movistar Plus+: un asesino, un apagón y un señor cabreado</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/series-ver-fin-semana-netflix-disney-movistar-plus-asesino-apagon-senor-cabreado-1133185' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/series-fin-semana-2829711.jpg' alt='Qué series ver este fin de semana en Netflix, Disney+ y Movistar Plus+: un asesino, un apagón y un señor cabreado' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/peliculas-ver-fin-semana-netflix-prime-video-disney-nueva-paco-leon-sonic-2-vuelta-brujas-salem-1121383'>Qué películas ver este fin de semana en Netflix, Prime Video y Disney+: la nueva de Paco León, Sonic 2 y la vuelta de las brujas de Salem</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/peliculas-ver-fin-semana-netflix-prime-video-disney-nueva-paco-leon-sonic-2-vuelta-brujas-salem-1121383' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/peliculas-ver-fin-semana-netflix-prime-video-disney-nueva-paco-leon-sonic-2-vuelta-brujas-salem-2829233.jpg' alt='Qué películas ver este fin de semana en Netflix, Prime Video y Disney+: la nueva de Paco León, Sonic 2 y la vuelta de las brujas de Salem' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/estrenos-novedades-llegan-amazon-prime-video-anillos-padres-dictaduras-1133191'>Estrenos y novedades de Amazon Prime Video en octubre: Los Anillos de Poder llegan a su fin</a></h4>
-    <a href='https://computerhoy.com/noticias/estrenos-novedades-llegan-amazon-prime-video-anillos-padres-dictaduras-1133191' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/estrenos-novedades-llegan-amazon-prime-video-anillos-padres-dictaduras-2829719.jpg' alt='Estrenos y novedades de Amazon Prime Video en octubre: Los Anillos de Poder llegan a su fin' />
     </a>
 </div>
 
