@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/28-noticias-tecnologia-comenzar-manana-informado-ultimo-1132963'>28 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/28-noticias-tecnologia-comenzar-manana-informado-ultimo-1132963' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/28-noticias-tecnologia-comenzar-manana-informado-ultimo-2829049.jpg' alt='28 noticias de tecnología para comenzar la mañana informado de lo último' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/amazon-fire-hd-8-2022-motivos-comprar-tablet-barata-1132545'>Nueva tablet Fire HD 8 (2022): 5 motivos por los que es la tablet barata casi perfecta</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/amazon-fire-hd-8-2022-motivos-comprar-tablet-barata-1132545' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/amazon-fire-hd-8-2022-2828261.jpg' alt='Nueva tablet Fire HD 8 (2022): 5 motivos por los que es la tablet barata casi perfecta' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/ejercicio-ayuda-metabolismo-quemar-grasas-incluso-estando-sentados-nuevo-estudio-1132961'>Este sencillo ejercicio ayuda al metabolismo y a quemar grasas incluso estando sentados, según un nuevo estudio</a></h4>
     <a href='https://computerhoy.com/noticias/life/ejercicio-ayuda-metabolismo-quemar-grasas-incluso-estando-sentados-nuevo-estudio-1132961' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/sencillo-ejercicio-ayuda-metabolismo-quemar-grasas-pasas-muchas-horas-sentado-nuevo-estudio-2829047.jpg' alt='Este sencillo ejercicio ayuda al metabolismo y a quemar grasas incluso estando sentados, según un nuevo estudio' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/dall-e-inteligencia-artificial-openai-gratis-todos-1132735'>La inteligencia artificial Dall-E de OpenAI ya está disponible gratis para todos</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/dall-e-inteligencia-artificial-openai-gratis-todos-1132735' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/ia-dall-openai-ya-disponible-gratis-todos-2828817.jpg' alt='La inteligencia artificial Dall-E de OpenAI ya está disponible gratis para todos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/amazon-music-unlimited-4-meses-gratis-1132727'>¿Cansado de los anuncios de Spotify? Amazon te regala 4 meses de servicio Premium y sonido HD</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/amazon-music-unlimited-4-meses-gratis-1132727' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/cansado-anuncios-spotify-amazon-te-regala-4-meses-servicio-premium-sonido-hd-2828809.jpg' alt='¿Cansado de los anuncios de Spotify? Amazon te regala 4 meses de servicio Premium y sonido HD' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/fundadores-netflix-predice-fin-tdt-television-convencional-queda-muy-poco-1132721'>Uno de los fundadores de Netflix predice el fin de la TDT y la televisión convencional (y queda muy poco)</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/fundadores-netflix-predice-fin-tdt-television-convencional-queda-muy-poco-1132721' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/mujer-viendo-television-2828799.jpg' alt='Uno de los fundadores de Netflix predice el fin de la TDT y la televisión convencional (y queda muy poco)' />
     </a>
 </div>
 
