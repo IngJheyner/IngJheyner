@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/estadio-lusail--final-copa-mundo-futbol-2022-video-1132959'>Así es por dentro el estadio de la Final de la Copa del Mundo de Fútbol 2022 (vídeo)</a></h4>
+    <a href='https://computerhoy.com/noticias/life/estadio-lusail--final-copa-mundo-futbol-2022-video-1132959' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/verticalimage1664490192367-2829043.jpg' alt='Así es por dentro el estadio de la Final de la Copa del Mundo de Fútbol 2022 (vídeo)' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/dall-e-inteligencia-artificial-openai-gratis-todos-1132735'>La inteligencia artificial Dall-E de OpenAI ya está disponible gratis para todos</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/dall-e-inteligencia-artificial-openai-gratis-todos-1132735' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/ia-dall-openai-ya-disponible-gratis-todos-2828817.jpg' alt='La inteligencia artificial Dall-E de OpenAI ya está disponible gratis para todos' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/apagon-serie-movistar-plus-1132715'>Movistar Plus+ ha lanzado Apagón, la miniserie que habla sobre unos de los grandes miedos que nos acechan</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/apagon-serie-movistar-plus-1132715' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/verticalimage1664474321318-2828797.jpg' alt='Movistar Plus+ ha lanzado Apagón, la miniserie que habla sobre unos de los grandes miedos que nos acechan' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/convierte-catador-improvisado-producto-favorito-mercadona-tambien-podrias-hacer-mismo-1132711'>Se convierte en catador improvisado de su producto favorito de Mercadona y tú también podrías hacer lo mismo</a></h4>
-    <a href='https://computerhoy.com/noticias/life/convierte-catador-improvisado-producto-favorito-mercadona-tambien-podrias-hacer-mismo-1132711' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/mercadona-2828789.jpg' alt='Se convierte en catador improvisado de su producto favorito de Mercadona y tú también podrías hacer lo mismo' />
     </a>
 </div>
 
