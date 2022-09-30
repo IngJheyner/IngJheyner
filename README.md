@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/sirve-agujero-tapa-boligrafos-bic-seguramente-no-estas-pensando-1133279'>¿Para qué sirve el agujero en la tapa de los bolígrafos BIC? Seguramente no para lo que estás pensando</a></h4>
+    <a href='https://computerhoy.com/noticias/life/sirve-agujero-tapa-boligrafos-bic-seguramente-no-estas-pensando-1133279' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/boligrafo-2829971.jpg' alt='¿Para qué sirve el agujero en la tapa de los bolígrafos BIC? Seguramente no para lo que estás pensando' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/android-14-puede-suponer-fin-aplicaciones-moviles-32-bits-1133223'>Android 14 puede suponer el fin de las aplicaciones móviles de 32 bits</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/android-14-puede-suponer-fin-aplicaciones-moviles-32-bits-1133223' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/hoy-google-cumple-24-como-buscador-web-marco-antes-despues-vidas-2825461.jpg' alt='Android 14 puede suponer el fin de las aplicaciones móviles de 32 bits' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/alerta-seguridad-grave-modelos-vendidos-seat-cupra-leon-1133275'>Alerta de seguridad grave para uno de los modelos más vendidos de Seat y Cupra León</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/alerta-seguridad-grave-modelos-vendidos-seat-cupra-leon-1133275' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/seat-leon-2702635.jpg' alt='Alerta de seguridad grave para uno de los modelos más vendidos de Seat y Cupra León' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-sistemas-alarma-seguridad-puedes-comprar-solo-pagaras-vez-989503'>Mejores sistemas de alarma y seguridad que puedes comprar (y que solo pagarás una vez)</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/mejores-sistemas-alarma-seguridad-puedes-comprar-solo-pagaras-vez-989503' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/centralita-alarma-ring-2829275.jpg' alt='Mejores sistemas de alarma y seguridad que puedes comprar (y que solo pagarás una vez)' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/series-ver-fin-semana-netflix-disney-movistar-plus-asesino-apagon-senor-cabreado-1133185'>Qué series ver este fin de semana en Netflix, Disney+ y Movistar Plus+: un asesino, un apagón y un señor cabreado</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/series-ver-fin-semana-netflix-disney-movistar-plus-asesino-apagon-senor-cabreado-1133185' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/series-fin-semana-2829711.jpg' alt='Qué series ver este fin de semana en Netflix, Disney+ y Movistar Plus+: un asesino, un apagón y un señor cabreado' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entendiendo-factura-electrica-tarifas-como-ahorrar-casa-1133197'>Entendiendo tu factura eléctrica, tarifas y cómo ahorrar en casa</a></h4>
-    <a href='https://computerhoy.com/noticias/entendiendo-factura-electrica-tarifas-como-ahorrar-casa-1133197' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/entendiendo-factura-electrica-tarifas-como-ahorrar-casa-2829749.jpg' alt='Entendiendo tu factura eléctrica, tarifas y cómo ahorrar en casa' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/supuesto-diseno-samsung-galaxy-s23-ultra-filtra-seria-identico-galaxy-s22-ultra-1133209'>El supuesto diseño del Samsung Galaxy S23 Ultra se filtra y sería idéntico al Galaxy S22 Ultra</a></h4>
-    <a href='https://computerhoy.com/noticias/supuesto-diseno-samsung-galaxy-s23-ultra-filtra-seria-identico-galaxy-s22-ultra-1133209' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/supuesto-diseno-samsung-galaxy-s23-ultra-filtra-seria-identico-galaxy-s22-ultra-2829751.jpg' alt='El supuesto diseño del Samsung Galaxy S23 Ultra se filtra y sería idéntico al Galaxy S22 Ultra' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/peliculas-ver-fin-semana-netflix-prime-video-disney-nueva-paco-leon-sonic-2-vuelta-brujas-salem-1121383'>Qué películas ver este fin de semana en Netflix, Prime Video y Disney+: la nueva de Paco León, Sonic 2 y la vuelta de las brujas de Salem</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/peliculas-ver-fin-semana-netflix-prime-video-disney-nueva-paco-leon-sonic-2-vuelta-brujas-salem-1121383' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/peliculas-ver-fin-semana-netflix-prime-video-disney-nueva-paco-leon-sonic-2-vuelta-brujas-salem-2829233.jpg' alt='Qué películas ver este fin de semana en Netflix, Prime Video y Disney+: la nueva de Paco León, Sonic 2 y la vuelta de las brujas de Salem' />
     </a>
 </div>
 
