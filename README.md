@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/nueva-regla-5-anos-intentar-mejorar-asunto-basura-espacial-1133025'>La nueva Regla de los 5 Años para intentar mejorar el asunto de basura espacial</a></h4>
+    <a href='https://computerhoy.com/noticias/nueva-regla-5-anos-intentar-mejorar-asunto-basura-espacial-1133025' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/nueva-regla-5-anos-intentar-mejorar-asunto-basura-espacial-2829195.jpg' alt='La nueva Regla de los 5 Años para intentar mejorar el asunto de basura espacial' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/microsoft-mejora-sonido-videollamadas-team-sintetizando-audio-mediante-ia-1133011'>Microsoft mejora el sonido de videollamadas en Teams sintetizando el audio mediante IA</a></h4>
+    <a href='https://computerhoy.com/noticias/microsoft-mejora-sonido-videollamadas-team-sintetizando-audio-mediante-ia-1133011' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/microsoft-teams-2829161.jpg' alt='Microsoft mejora el sonido de videollamadas en Teams sintetizando el audio mediante IA' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/google-pixel-6a-precio-minimo-tuimeilibre-1131893'>Google va a por Xiaomi: su Pixel 6a baja aún más de precio y pone en apuros a sus rivales</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/google-pixel-6a-precio-minimo-tuimeilibre-1131893' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/analisis-pixel-6a-2765529.jpg' alt='Google va a por Xiaomi: su Pixel 6a baja aún más de precio y pone en apuros a sus rivales' />
@@ -66,25 +82,9 @@
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/filtra-absolutamente-todo-xiaomi-12t-12t-pro-diseno-especificaciones-precios-1133003'>Se filtra absolutamente todo de los Xiaomi 12T y 12T Pro: diseño, especificaciones y precios</a></h4>
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/filtra-absolutamente-todo-xiaomi-12t-12t-pro-diseno-especificaciones-precios-1133003'>Se filtran por completo los Xiaomi 12T y 12T Pro: diseño, especificaciones y precios</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/filtra-absolutamente-todo-xiaomi-12t-12t-pro-diseno-especificaciones-precios-1133003' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/xiaomi-12t-2829157.jpg' alt='Se filtra absolutamente todo de los Xiaomi 12T y 12T Pro: diseño, especificaciones y precios' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/acaba-ser-editado-oficialmente-primer-tweet-1132991'>Acaba de ser editado oficialmente el primer tweet</a></h4>
-    <a href='https://computerhoy.com/noticias/acaba-ser-editado-oficialmente-primer-tweet-1132991' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/acaba-ser-editado-oficialmente-primer-tweet-2829083.jpg' alt='Acaba de ser editado oficialmente el primer tweet' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/amazon-fire-tv-cube-2022-caracteristicas-precio-merece-pena-comprarlo-1132621'>Amazon Fire TV Cube (2022): características, precio y por qué merece la pena comprarlo</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/amazon-fire-tv-cube-2022-caracteristicas-precio-merece-pena-comprarlo-1132621' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/amazon-fire-tv-cube-2022-2828563.jpg' alt='Amazon Fire TV Cube (2022): características, precio y por qué merece la pena comprarlo' />
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/xiaomi-12t-2829157.jpg' alt='Se filtran por completo los Xiaomi 12T y 12T Pro: diseño, especificaciones y precios' />
     </a>
 </div>
 
