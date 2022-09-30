@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/google-pixel-6a-precio-minimo-tuimeilibre-1131893'>Google va a por Xiaomi: su Pixel 6a baja aún más de precio y pone en apuros a sus rivales</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/google-pixel-6a-precio-minimo-tuimeilibre-1131893' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/analisis-pixel-6a-2765529.jpg' alt='Google va a por Xiaomi: su Pixel 6a baja aún más de precio y pone en apuros a sus rivales' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/mejores-fotos-submarinas-2022-lens-awards-1132993'>Las mejores fotografías submarinas de 2022 de Lens Awards</a></h4>
+    <a href='https://computerhoy.com/noticias/mejores-fotos-submarinas-2022-lens-awards-1132993' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/mejores-fotos-submarinas-2022-lens-awards-2829095.jpg' alt='Las mejores fotografías submarinas de 2022 de Lens Awards' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/filtra-absolutamente-todo-xiaomi-12t-12t-pro-diseno-especificaciones-precios-1133003'>Se filtra absolutamente todo de los Xiaomi 12T y 12T Pro: diseño, especificaciones y precios</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/filtra-absolutamente-todo-xiaomi-12t-12t-pro-diseno-especificaciones-precios-1133003' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/xiaomi-12t-2829157.jpg' alt='Se filtra absolutamente todo de los Xiaomi 12T y 12T Pro: diseño, especificaciones y precios' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/acaba-ser-editado-oficialmente-primer-tweet-1132991'>Acaba de ser editado oficialmente el primer tweet</a></h4>
     <a href='https://computerhoy.com/noticias/acaba-ser-editado-oficialmente-primer-tweet-1132991' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/acaba-ser-editado-oficialmente-primer-tweet-2829083.jpg' alt='Acaba de ser editado oficialmente el primer tweet' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/amazon-fire-tv-cube-2022-caracteristicas-precio-merece-pena-comprarlo-1132621'>Amazon Fire TV Cube (2022): características, precio y por qué merece la pena comprarlo</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/amazon-fire-tv-cube-2022-caracteristicas-precio-merece-pena-comprarlo-1132621' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/amazon-fire-tv-cube-2022-2828563.jpg' alt='Amazon Fire TV Cube (2022): características, precio y por qué merece la pena comprarlo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/28-noticias-tecnologia-comenzar-manana-informado-ultimo-1132963'>28 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/28-noticias-tecnologia-comenzar-manana-informado-ultimo-1132963' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/28-noticias-tecnologia-comenzar-manana-informado-ultimo-2829049.jpg' alt='28 noticias de tecnología para comenzar la mañana informado de lo último' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/amazon-fire-hd-8-2022-motivos-comprar-tablet-barata-1132545'>Nueva tablet Fire HD 8 (2022): 5 motivos por los que es la tablet barata casi perfecta</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/amazon-fire-hd-8-2022-motivos-comprar-tablet-barata-1132545' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/amazon-fire-hd-8-2022-2828261.jpg' alt='Nueva tablet Fire HD 8 (2022): 5 motivos por los que es la tablet barata casi perfecta' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/ejercicio-ayuda-metabolismo-quemar-grasas-incluso-estando-sentados-nuevo-estudio-1132961'>Este sencillo ejercicio ayuda al metabolismo y a quemar grasas incluso estando sentados, según un nuevo estudio</a></h4>
-    <a href='https://computerhoy.com/noticias/life/ejercicio-ayuda-metabolismo-quemar-grasas-incluso-estando-sentados-nuevo-estudio-1132961' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/sencillo-ejercicio-ayuda-metabolismo-quemar-grasas-pasas-muchas-horas-sentado-nuevo-estudio-2829047.jpg' alt='Este sencillo ejercicio ayuda al metabolismo y a quemar grasas incluso estando sentados, según un nuevo estudio' />
     </a>
 </div>
 
