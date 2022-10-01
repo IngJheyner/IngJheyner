@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-relojes-inteligentes-ciclismo-932617'>Estos son los mejores relojes inteligentes para ciclismo que puedes comprar</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-relojes-inteligentes-ciclismo-932617' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/ciclista-tierra-bici-gravel-2829537.jpg' alt='Estos son los mejores relojes inteligentes para ciclismo que puedes comprar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/podras-mantener-movil-limpio-libre-virus-1129601'>Así podrás mantener tu móvil limpio y libre de virus</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/podras-mantener-movil-limpio-libre-virus-1129601' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/telefono-esterilizadora-2822981.jpg' alt='Así podrás mantener tu móvil limpio y libre de virus' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/motor/camioneta-vanguardista-cybertruck-tesla-podria-actuar-tambien-como-barco-1133577'>La camioneta vanguardista Cybertruck de Tesla podría actuar también como un barco</a></h4>
     <a href='https://computerhoy.com/noticias/motor/camioneta-vanguardista-cybertruck-tesla-podria-actuar-tambien-como-barco-1133577' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/03/tesla-cybertruck-2256663.jpg' alt='La camioneta vanguardista Cybertruck de Tesla podría actuar también como un barco' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/mejor-barata-freidora-aire-aceite-te-vende-amazon-1133585'>Esta es la mejor y más barata freidora de aire sin aceite y te la vende Amazon</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/mejor-barata-freidora-aire-aceite-te-vende-amazon-1133585' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/freidora-aceita-amazon-basics-2830345.jpg' alt='Esta es la mejor y más barata freidora de aire sin aceite y te la vende Amazon' />
     </a>
 </div>
 
