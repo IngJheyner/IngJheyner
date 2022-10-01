@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/camioneta-vanguardista-cybertruck-tesla-podria-actuar-tambien-como-barco-1133577'>La camioneta vanguardista Cybertruck de Tesla podría actuar también como un barco</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/camioneta-vanguardista-cybertruck-tesla-podria-actuar-tambien-como-barco-1133577' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/03/tesla-cybertruck-2256663.jpg' alt='La camioneta vanguardista Cybertruck de Tesla podría actuar también como un barco' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/mejor-barata-freidora-aire-aceite-te-vende-amazon-1133585'>Esta es la mejor y más barata freidora de aire sin aceite y te la vende Amazon</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/mejor-barata-freidora-aire-aceite-te-vende-amazon-1133585' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/freidora-aceita-amazon-basics-2830345.jpg' alt='Esta es la mejor y más barata freidora de aire sin aceite y te la vende Amazon' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/10-practicas-demostradas-cientificamente-ayudan-aprender-cualquier-cosa-rapido-1133565'>10 prácticas demostradas científicamente que ayudan a aprender cualquier cosa más rápido</a></h4>
     <a href='https://computerhoy.com/noticias/life/10-practicas-demostradas-cientificamente-ayudan-aprender-cualquier-cosa-rapido-1133565' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/chica-estudiando-2830315.jpg' alt='10 prácticas demostradas científicamente que ayudan a aprender cualquier cosa más rápido' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/algunos-nuevos-apple-watch-tienen-problemas-microfono-apple-ya-trabaja-solucion-1133559'>Algunos nuevos Apple Watch tienen problemas con el micrófono y Apple ya trabaja en una solución</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/algunos-nuevos-apple-watch-tienen-problemas-microfono-apple-ya-trabaja-solucion-1133559' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/apple-watch-ultra-2808843.jpg' alt='Algunos nuevos Apple Watch tienen problemas con el micrófono y Apple ya trabaja en una solución' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/guia-compra/mini-pc-1126499'>Cómo elegir el mejor Mini PC</a></h4>
-    <a href='https://computerhoy.com/guia-compra/mini-pc-1126499' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/mini-pc-chuwi-larkbox-pro-2642113.jpg' alt='Cómo elegir el mejor Mini PC' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/primer-prototipo-optimus-robot-humanoide-tesla-todos-podriamos-tener-casa-1133549'>Este es el primer prototipo de Optimus, el robot humanoide de Tesla que todos podríamos tener en casa</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/primer-prototipo-optimus-robot-humanoide-tesla-todos-podriamos-tener-casa-1133549' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/tesla-optimus-2830299.jpg' alt='Este es el primer prototipo de Optimus, el robot humanoide de Tesla que todos podríamos tener en casa' />
     </a>
 </div>
 
