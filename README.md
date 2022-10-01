@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/torreta-laser-inteligencia%20artificia-mata-cucarachas-1133067'>Inventa una torreta láser controlada por IA que mata a las cucarachas que se acercan</a></h4>
+    <a href='https://computerhoy.com/noticias/life/torreta-laser-inteligencia%20artificia-mata-cucarachas-1133067' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/inventa-torreta-laser-controlada-ia-mata-cucarachas-acercan-2829267.jpg' alt='Inventa una torreta láser controlada por IA que mata a las cucarachas que se acercan' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/robots-ya-estan-aprendiendo-agarrar-todo-tipo-objetos-cantidad-fuerza-adecuada-1133607'>Los robots ya están aprendiendo a agarrar todo tipo de objetos con la cantidad de fuerza adecuada</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/robots-ya-estan-aprendiendo-agarrar-todo-tipo-objetos-cantidad-fuerza-adecuada-1133607' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/ahora-robots-pueden-agarrar-objetos-cantidad-fuerza-adecuada-2830385.jpg' alt='Los robots ya están aprendiendo a agarrar todo tipo de objetos con la cantidad de fuerza adecuada' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/nueva-tecnologia-podria-sustituir-unidades-almacenamiento-actuales-precio-1133593'>Esta nueva tecnología podría sustituir a las unidades de almacenamiento actuales y a bajo precio</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/nueva-tecnologia-podria-sustituir-unidades-almacenamiento-actuales-precio-1133593' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/disco-almacenamiento-2830349.jpg' alt='Esta nueva tecnología podría sustituir a las unidades de almacenamiento actuales y a bajo precio' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/ralph-macchio-cobra-kai-reacciona-nueva-pelicula-karate-kid-espera-2024-1133587'>Ralph Macchio de Cobra Kai reacciona ante la nueva película de Karate Kid que se espera para 2024</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/ralph-macchio-cobra-kai-reacciona-nueva-pelicula-karate-kid-espera-2024-1133587' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/cobra-kai-2779965.jpg' alt='Ralph Macchio de Cobra Kai reacciona ante la nueva película de Karate Kid que se espera para 2024' />
     </a>
 </div>
 
