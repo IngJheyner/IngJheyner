@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/7-veces-tecnologia-ha-ayudado-ganar-distintos-deportes-alla-ajedrez-1129925'>Las 7 veces que la tecnología ha ayudado a ganar en distintos deportes más allá del ajedrez</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/7-veces-tecnologia-ha-ayudado-ganar-distintos-deportes-alla-ajedrez-1129925' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/7-veces-tecnologia-ha-ayudado-ganar-distintos-deportes-alla-ajedrez-2827381.jpg' alt='Las 7 veces que la tecnología ha ayudado a ganar en distintos deportes más allá del ajedrez' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/habito-consumo-bebidas-colesterol-alto-dietista-1133521'>El hábito de consumo de bebidas más importante si tienes el colesterol alto, según una dietista</a></h4>
     <a href='https://computerhoy.com/noticias/life/habito-consumo-bebidas-colesterol-alto-dietista-1133521' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/habito-bebidas-importante-tienes-colesterol-alto-dietista-2830233.jpg' alt='El hábito de consumo de bebidas más importante si tienes el colesterol alto, según una dietista' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/po-80-record-factory-tocadiscos-graba-reproduce-vinilos-video-1133519'>El juguete para niños que no vimos venir: un tocadiscos que graba y reproduce vinilos (vídeo)</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/po-80-record-factory-tocadiscos-graba-reproduce-vinilos-video-1133519' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/verticalimage1664582207736-2830231.jpg' alt='El juguete para niños que no vimos venir: un tocadiscos que graba y reproduce vinilos (vídeo)' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/guia-compra/cargador-usb-coche-1122491'>Guía para comprar cargadores USB para el coche </a></h4>
-    <a href='https://computerhoy.com/guia-compra/cargador-usb-coche-1122491' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/cargador-coche-2809727.jpg' alt='Guía para comprar cargadores USB para el coche ' />
     </a>
 </div>
 
