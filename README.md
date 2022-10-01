@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/habito-consumo-bebidas-colesterol-alto-dietista-1133521'>El hábito de consumo de bebidas más importante si tienes el colesterol alto, según una dietista</a></h4>
+    <a href='https://computerhoy.com/noticias/life/habito-consumo-bebidas-colesterol-alto-dietista-1133521' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/habito-bebidas-importante-tienes-colesterol-alto-dietista-2830233.jpg' alt='El hábito de consumo de bebidas más importante si tienes el colesterol alto, según una dietista' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/axiom-va-llevar-botella-champan-espacio-1133027'>Por qué Axiom va a llevar una botella de champán al espacio</a></h4>
+    <a href='https://computerhoy.com/noticias/life/axiom-va-llevar-botella-champan-espacio-1133027' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/axiom-va-llevar-botella-champan-espacio-2829177.jpg' alt='Por qué Axiom va a llevar una botella de champán al espacio' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-altavoces-inteligentes-sin-alexa-852503'>5 altavoces inteligentes que no tienen Alexa y que merecen mucho la pena</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-altavoces-inteligentes-sin-alexa-852503' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/apple-homepod-mini-2829463.jpg' alt='5 altavoces inteligentes que no tienen Alexa y que merecen mucho la pena' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/po-80-record-factory-tocadiscos-graba-reproduce-vinilos-video-1133519'>El juguete para niños que no vimos venir: un tocadiscos que graba y reproduce vinilos (vídeo)</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/po-80-record-factory-tocadiscos-graba-reproduce-vinilos-video-1133519' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/verticalimage1664582207736-2830231.jpg' alt='El juguete para niños que no vimos venir: un tocadiscos que graba y reproduce vinilos (vídeo)' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/guia-compra/cargador-usb-coche-1122491'>Guía para comprar cargadores USB para el coche </a></h4>
     <a href='https://computerhoy.com/guia-compra/cargador-usb-coche-1122491' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/cargador-coche-2809727.jpg' alt='Guía para comprar cargadores USB para el coche ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/primer-accidente-dron-reparto-google-choca-cable-electrico-deja-luz-2000-casas-durante-hora-1133315'>Primer accidente de un dron de reparto de Google: choca contra un cable eléctrico y deja sin luz a 2.000 casas durante una hora</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/primer-accidente-dron-reparto-google-choca-cable-electrico-deja-luz-2000-casas-durante-hora-1133315' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/primer-accidente-dron-reparto-google-choca-cable-electrico-deja-luz-2000-casas-durante-hora-2830043.jpg' alt='Primer accidente de un dron de reparto de Google: choca contra un cable eléctrico y deja sin luz a 2.000 casas durante una hora' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/gaming/prime-gaming-juegos-gratis-octubre-2022-1133311'>Fallout 76, Total War: Warhammer II, Middle Earth: Shadow of War y otros juegazos gratis que regala Amazon en octubre</a></h4>
-    <a href='https://computerhoy.com/noticias/gaming/prime-gaming-juegos-gratis-octubre-2022-1133311' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/fallout-76-total-war-warhammer-ii-midde-earth-shadows-war-otros-juegazos-gratis-regala-amazon-2830041.jpg' alt='Fallout 76, Total War: Warhammer II, Middle Earth: Shadow of War y otros juegazos gratis que regala Amazon en octubre' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/mini-pc-16-gb-ram-salida-4k-windows-11-oferta-1133303'>Este Mini PC con 16 GB de RAM, salida 4K y Windows 11 tiene un 25% de descuento y baja a su precio mínimo, 339 euros</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/mini-pc-16-gb-ram-salida-4k-windows-11-oferta-1133303' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/minipc-16-gb-ram-windows-11-tiene-25-descuento-baja-precio-minimo-339-euros-2830025.jpg' alt='Este Mini PC con 16 GB de RAM, salida 4K y Windows 11 tiene un 25% de descuento y baja a su precio mínimo, 339 euros' />
     </a>
 </div>
 
