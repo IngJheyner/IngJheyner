@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/analisis/tecnologia/logitech-blue-sona-review-opinion-1130271'>Logitech Blue Sona, análisis y opinión</a></h4>
+    <a href='https://computerhoy.com/analisis/tecnologia/logitech-blue-sona-review-opinion-1130271' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/blue-sona-analisis-microno-2826023.jpg' alt='Logitech Blue Sona, análisis y opinión' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/7-veces-tecnologia-ha-ayudado-ganar-distintos-deportes-alla-ajedrez-1129925'>Las 7 veces que la tecnología ha ayudado a ganar en distintos deportes más allá del ajedrez</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/7-veces-tecnologia-ha-ayudado-ganar-distintos-deportes-alla-ajedrez-1129925' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/7-veces-tecnologia-ha-ayudado-ganar-distintos-deportes-alla-ajedrez-2827381.jpg' alt='Las 7 veces que la tecnología ha ayudado a ganar en distintos deportes más allá del ajedrez' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-altavoces-inteligentes-sin-alexa-852503'>5 altavoces inteligentes que no tienen Alexa y que merecen mucho la pena</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/mejores-altavoces-inteligentes-sin-alexa-852503' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/apple-homepod-mini-2829463.jpg' alt='5 altavoces inteligentes que no tienen Alexa y que merecen mucho la pena' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/po-80-record-factory-tocadiscos-graba-reproduce-vinilos-video-1133519'>El juguete para niños que no vimos venir: un tocadiscos que graba y reproduce vinilos (vídeo)</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/po-80-record-factory-tocadiscos-graba-reproduce-vinilos-video-1133519' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/verticalimage1664582207736-2830231.jpg' alt='El juguete para niños que no vimos venir: un tocadiscos que graba y reproduce vinilos (vídeo)' />
     </a>
 </div>
 
