@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/algunos-nuevos-apple-watch-tienen-problemas-microfono-apple-ya-trabaja-solucion-1133559'>Algunos nuevos Apple Watch tienen problemas con el micrófono y Apple ya trabaja en una solución</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/algunos-nuevos-apple-watch-tienen-problemas-microfono-apple-ya-trabaja-solucion-1133559' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/apple-watch-ultra-2808843.jpg' alt='Algunos nuevos Apple Watch tienen problemas con el micrófono y Apple ya trabaja en una solución' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/guia-compra/mini-pc-1126499'>Cómo elegir el mejor Mini PC</a></h4>
+    <a href='https://computerhoy.com/guia-compra/mini-pc-1126499' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/mini-pc-chuwi-larkbox-pro-2642113.jpg' alt='Cómo elegir el mejor Mini PC' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/primer-prototipo-optimus-robot-humanoide-tesla-todos-podriamos-tener-casa-1133549'>Este es el primer prototipo de Optimus, el robot humanoide de Tesla que todos podríamos tener en casa</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/primer-prototipo-optimus-robot-humanoide-tesla-todos-podriamos-tener-casa-1133549' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/tesla-optimus-2830299.jpg' alt='Este es el primer prototipo de Optimus, el robot humanoide de Tesla que todos podríamos tener en casa' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/todos-copian-todos-pero-apple-comunica-como-pocas-1130883'>Todos copian a todos, pero Apple comunica como pocas</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/todos-copian-todos-pero-apple-comunica-como-pocas-1130883' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/apple-2825233.jpg' alt='Todos copian a todos, pero Apple comunica como pocas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/10-conceptos-claves-mundo-criptomonedas-todo-tienes-saber-1119763'>10 conceptos clave del mundo de las criptomonedas: esto es todo lo que tienes que saber</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/10-conceptos-claves-mundo-criptomonedas-todo-tienes-saber-1119763' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/verticalimage1664553878677-2829819.jpg' alt='10 conceptos clave del mundo de las criptomonedas: esto es todo lo que tienes que saber' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/life/mejores-herramientas-bricolaje-lidl-1131853'>Herramientas de bricolaje Lidl: estas son las mejores que puedes comprar en su web</a></h4>
-    <a href='https://computerhoy.com/reportajes/life/mejores-herramientas-bricolaje-lidl-1131853' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/sierra-circular-dewalt-2827319.jpg' alt='Herramientas de bricolaje Lidl: estas son las mejores que puedes comprar en su web' />
     </a>
 </div>
 
