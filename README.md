@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/po-80-record-factory-tocadiscos-graba-reproduce-vinilos-video-1133519'>El juguete para niños que no vimos venir: un tocadiscos que graba y reproduce vinilos (vídeo)</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/po-80-record-factory-tocadiscos-graba-reproduce-vinilos-video-1133519' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/verticalimage1664582207736-2830231.jpg' alt='El juguete para niños que no vimos venir: un tocadiscos que graba y reproduce vinilos (vídeo)' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/guia-compra/cargador-usb-coche-1122491'>Guía para comprar cargadores USB para el coche </a></h4>
+    <a href='https://computerhoy.com/guia-compra/cargador-usb-coche-1122491' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/cargador-coche-2809727.jpg' alt='Guía para comprar cargadores USB para el coche ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/primer-accidente-dron-reparto-google-choca-cable-electrico-deja-luz-2000-casas-durante-hora-1133315'>Primer accidente de un dron de reparto de Google: choca contra un cable eléctrico y deja sin luz a 2.000 casas durante una hora</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/primer-accidente-dron-reparto-google-choca-cable-electrico-deja-luz-2000-casas-durante-hora-1133315' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/primer-accidente-dron-reparto-google-choca-cable-electrico-deja-luz-2000-casas-durante-hora-2830043.jpg' alt='Primer accidente de un dron de reparto de Google: choca contra un cable eléctrico y deja sin luz a 2.000 casas durante una hora' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/mini-pc-16-gb-ram-salida-4k-windows-11-oferta-1133303'>Este Mini PC con 16 GB de RAM, salida 4K y Windows 11 tiene un 25% de descuento y baja a su precio mínimo, 339 euros</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/mini-pc-16-gb-ram-salida-4k-windows-11-oferta-1133303' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/minipc-16-gb-ram-windows-11-tiene-25-descuento-baja-precio-minimo-339-euros-2830025.jpg' alt='Este Mini PC con 16 GB de RAM, salida 4K y Windows 11 tiene un 25% de descuento y baja a su precio mínimo, 339 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/bruce-willis-derechos-deepfake-deepcake-1133293'>Seguirás viendo a Bruce Willis en el cine, aunque ya no sea él: ha vendido sus derechos a una compañía de deepfakes</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/bruce-willis-derechos-deepfake-deepcake-1133293' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/seguiras-viendo-bruce-willis-cine-aunque-ya-no-sea-ha-vendido-derechos-compania-deepfakes-2830021.jpg' alt='Seguirás viendo a Bruce Willis en el cine, aunque ya no sea él: ha vendido sus derechos a una compañía de deepfakes' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/sirve-agujero-tapa-boligrafos-bic-seguramente-no-estas-pensando-1133279'>¿Para qué sirve el agujero en la tapa de los bolígrafos BIC? Seguramente no para lo que estás pensando</a></h4>
-    <a href='https://computerhoy.com/noticias/life/sirve-agujero-tapa-boligrafos-bic-seguramente-no-estas-pensando-1133279' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/boligrafo-2829971.jpg' alt='¿Para qué sirve el agujero en la tapa de los bolígrafos BIC? Seguramente no para lo que estás pensando' />
     </a>
 </div>
 
