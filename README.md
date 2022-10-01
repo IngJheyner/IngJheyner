@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/podras-mantener-movil-limpio-libre-virus-1129601'>Así podrás mantener tu móvil limpio y libre de virus</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/podras-mantener-movil-limpio-libre-virus-1129601' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/telefono-esterilizadora-2822981.jpg' alt='Así podrás mantener tu móvil limpio y libre de virus' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/nueva-tecnologia-podria-sustituir-unidades-almacenamiento-actuales-precio-1133593'>Esta nueva tecnología podría sustituir a las unidades de almacenamiento actuales y a bajo precio</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/nueva-tecnologia-podria-sustituir-unidades-almacenamiento-actuales-precio-1133593' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/disco-almacenamiento-2830349.jpg' alt='Esta nueva tecnología podría sustituir a las unidades de almacenamiento actuales y a bajo precio' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/ralph-macchio-cobra-kai-reacciona-nueva-pelicula-karate-kid-espera-2024-1133587'>Ralph Macchio de Cobra Kai reacciona ante la nueva película de Karate Kid que se espera para 2024</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/ralph-macchio-cobra-kai-reacciona-nueva-pelicula-karate-kid-espera-2024-1133587' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/cobra-kai-2779965.jpg' alt='Ralph Macchio de Cobra Kai reacciona ante la nueva película de Karate Kid que se espera para 2024' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/mejor-barata-freidora-aire-aceite-te-vende-amazon-1133585'>Esta es la mejor y más barata freidora de aire sin aceite y te la vende Amazon</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/mejor-barata-freidora-aire-aceite-te-vende-amazon-1133585' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/freidora-aceita-amazon-basics-2830345.jpg' alt='Esta es la mejor y más barata freidora de aire sin aceite y te la vende Amazon' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/10-practicas-demostradas-cientificamente-ayudan-aprender-cualquier-cosa-rapido-1133565'>10 prácticas demostradas científicamente que ayudan a aprender cualquier cosa más rápido</a></h4>
-    <a href='https://computerhoy.com/noticias/life/10-practicas-demostradas-cientificamente-ayudan-aprender-cualquier-cosa-rapido-1133565' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/chica-estudiando-2830315.jpg' alt='10 prácticas demostradas científicamente que ayudan a aprender cualquier cosa más rápido' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/entretenimiento/7-series-muy-conocidas-malos-tan-ingeniosos-no-dejan-sorprenderte-1131415'>7 series muy conocidas con malos tan ingeniosos que no dejan de sorprenderte</a></h4>
-    <a href='https://computerhoy.com/reportajes/entretenimiento/7-series-muy-conocidas-malos-tan-ingeniosos-no-dejan-sorprenderte-1131415' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/negan-2826269.jpg' alt='7 series muy conocidas con malos tan ingeniosos que no dejan de sorprenderte' />
     </a>
 </div>
 
