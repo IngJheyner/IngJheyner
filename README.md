@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/10-practicas-demostradas-cientificamente-ayudan-aprender-cualquier-cosa-rapido-1133565'>10 prácticas demostradas científicamente que ayudan a aprender cualquier cosa más rápido</a></h4>
+    <a href='https://computerhoy.com/noticias/life/10-practicas-demostradas-cientificamente-ayudan-aprender-cualquier-cosa-rapido-1133565' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/chica-estudiando-2830315.jpg' alt='10 prácticas demostradas científicamente que ayudan a aprender cualquier cosa más rápido' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/entretenimiento/7-series-muy-conocidas-malos-tan-ingeniosos-no-dejan-sorprenderte-1131415'>7 series muy conocidas con malos tan ingeniosos que no dejan de sorprenderte</a></h4>
+    <a href='https://computerhoy.com/reportajes/entretenimiento/7-series-muy-conocidas-malos-tan-ingeniosos-no-dejan-sorprenderte-1131415' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/negan-2826269.jpg' alt='7 series muy conocidas con malos tan ingeniosos que no dejan de sorprenderte' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/algunos-nuevos-apple-watch-tienen-problemas-microfono-apple-ya-trabaja-solucion-1133559'>Algunos nuevos Apple Watch tienen problemas con el micrófono y Apple ya trabaja en una solución</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/algunos-nuevos-apple-watch-tienen-problemas-microfono-apple-ya-trabaja-solucion-1133559' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/apple-watch-ultra-2808843.jpg' alt='Algunos nuevos Apple Watch tienen problemas con el micrófono y Apple ya trabaja en una solución' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/primer-prototipo-optimus-robot-humanoide-tesla-todos-podriamos-tener-casa-1133549'>Este es el primer prototipo de Optimus, el robot humanoide de Tesla que todos podríamos tener en casa</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/primer-prototipo-optimus-robot-humanoide-tesla-todos-podriamos-tener-casa-1133549' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/tesla-optimus-2830299.jpg' alt='Este es el primer prototipo de Optimus, el robot humanoide de Tesla que todos podríamos tener en casa' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/todos-modelos-iphone-android-quedaran-whatsapp-dias-1112771'>Todos los modelos de iPhone y Android que HOY se quedan sin WhatsApp </a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/todos-modelos-iphone-android-quedaran-whatsapp-dias-1112771' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/whatsapp-2812871.jpg' alt='Todos los modelos de iPhone y Android que HOY se quedan sin WhatsApp ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/todos-copian-todos-pero-apple-comunica-como-pocas-1130883'>Todos copian a todos, pero Apple comunica como pocas</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/todos-copian-todos-pero-apple-comunica-como-pocas-1130883' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/apple-2825233.jpg' alt='Todos copian a todos, pero Apple comunica como pocas' />
     </a>
 </div>
 
