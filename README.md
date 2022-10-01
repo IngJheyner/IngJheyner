@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/primer-prototipo-optimus-robot-humanoide-tesla-todos-podriamos-tener-casa-1133549'>Este es el primer prototipo de Optimus, el robot humanoide de Tesla que todos podríamos tener en casa</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/primer-prototipo-optimus-robot-humanoide-tesla-todos-podriamos-tener-casa-1133549' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/tesla-optimus-2830299.jpg' alt='Este es el primer prototipo de Optimus, el robot humanoide de Tesla que todos podríamos tener en casa' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/todos-modelos-iphone-android-quedaran-whatsapp-dias-1112771'>Todos los modelos de iPhone y Android que HOY se quedan sin WhatsApp </a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/todos-modelos-iphone-android-quedaran-whatsapp-dias-1112771' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/whatsapp-2812871.jpg' alt='Todos los modelos de iPhone y Android que HOY se quedan sin WhatsApp ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/todos-copian-todos-pero-apple-comunica-como-pocas-1130883'>Todos copian a todos, pero Apple comunica como pocas</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/todos-copian-todos-pero-apple-comunica-como-pocas-1130883' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/apple-2825233.jpg' alt='Todos copian a todos, pero Apple comunica como pocas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/10-conceptos-claves-mundo-criptomonedas-todo-tienes-saber-1119763'>10 conceptos clave del mundo de las criptomonedas: esto es todo lo que tienes que saber</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/10-conceptos-claves-mundo-criptomonedas-todo-tienes-saber-1119763' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/verticalimage1664553878677-2829819.jpg' alt='10 conceptos clave del mundo de las criptomonedas: esto es todo lo que tienes que saber' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/life/mejores-herramientas-bricolaje-lidl-1131853'>Herramientas de bricolaje Lidl: estas son las mejores que puedes comprar en su web</a></h4>
     <a href='https://computerhoy.com/reportajes/life/mejores-herramientas-bricolaje-lidl-1131853' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/sierra-circular-dewalt-2827319.jpg' alt='Herramientas de bricolaje Lidl: estas son las mejores que puedes comprar en su web' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/tecnologia/logitech-blue-sona-review-opinion-1130271'>Logitech Blue Sona, análisis y opinión</a></h4>
-    <a href='https://computerhoy.com/analisis/tecnologia/logitech-blue-sona-review-opinion-1130271' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/blue-sona-analisis-microno-2826023.jpg' alt='Logitech Blue Sona, análisis y opinión' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/7-veces-tecnologia-ha-ayudado-ganar-distintos-deportes-alla-ajedrez-1129925'>Las 7 veces que la tecnología ha ayudado a ganar en distintos deportes más allá del ajedrez</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/7-veces-tecnologia-ha-ayudado-ganar-distintos-deportes-alla-ajedrez-1129925' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/7-veces-tecnologia-ha-ayudado-ganar-distintos-deportes-alla-ajedrez-2827381.jpg' alt='Las 7 veces que la tecnología ha ayudado a ganar en distintos deportes más allá del ajedrez' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/habito-consumo-bebidas-colesterol-alto-dietista-1133521'>El hábito de consumo de bebidas más importante si tienes el colesterol alto, según una dietista</a></h4>
-    <a href='https://computerhoy.com/noticias/life/habito-consumo-bebidas-colesterol-alto-dietista-1133521' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/habito-bebidas-importante-tienes-colesterol-alto-dietista-2830233.jpg' alt='El hábito de consumo de bebidas más importante si tienes el colesterol alto, según una dietista' />
     </a>
 </div>
 
