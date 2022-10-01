@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/robots-ya-estan-aprendiendo-agarrar-todo-tipo-objetos-cantidad-fuerza-adecuada-1133607'>Los robots ya están aprendiendo a agarrar todo tipo de objetos con la cantidad de fuerza adecuada</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/robots-ya-estan-aprendiendo-agarrar-todo-tipo-objetos-cantidad-fuerza-adecuada-1133607' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/ahora-robots-pueden-agarrar-objetos-cantidad-fuerza-adecuada-2830385.jpg' alt='Los robots ya están aprendiendo a agarrar todo tipo de objetos con la cantidad de fuerza adecuada' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-relojes-inteligentes-ciclismo-932617'>Estos son los mejores relojes inteligentes para ciclismo que puedes comprar</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/mejores-relojes-inteligentes-ciclismo-932617' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/ciclista-tierra-bici-gravel-2829537.jpg' alt='Estos son los mejores relojes inteligentes para ciclismo que puedes comprar' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/ralph-macchio-cobra-kai-reacciona-nueva-pelicula-karate-kid-espera-2024-1133587'>Ralph Macchio de Cobra Kai reacciona ante la nueva película de Karate Kid que se espera para 2024</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/ralph-macchio-cobra-kai-reacciona-nueva-pelicula-karate-kid-espera-2024-1133587' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/cobra-kai-2779965.jpg' alt='Ralph Macchio de Cobra Kai reacciona ante la nueva película de Karate Kid que se espera para 2024' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/camioneta-vanguardista-cybertruck-tesla-podria-actuar-tambien-como-barco-1133577'>La camioneta vanguardista Cybertruck de Tesla podría actuar también como un barco</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/camioneta-vanguardista-cybertruck-tesla-podria-actuar-tambien-como-barco-1133577' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/03/tesla-cybertruck-2256663.jpg' alt='La camioneta vanguardista Cybertruck de Tesla podría actuar también como un barco' />
     </a>
 </div>
 
