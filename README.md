@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/10-conceptos-claves-mundo-criptomonedas-todo-tienes-saber-1119763'>10 conceptos clave del mundo de las criptomonedas: esto es todo lo que tienes que saber</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/10-conceptos-claves-mundo-criptomonedas-todo-tienes-saber-1119763' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/verticalimage1664553878677-2829819.jpg' alt='10 conceptos clave del mundo de las criptomonedas: esto es todo lo que tienes que saber' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/life/mejores-herramientas-bricolaje-lidl-1131853'>Herramientas de bricolaje Lidl: estas son las mejores que puedes comprar en su web</a></h4>
+    <a href='https://computerhoy.com/reportajes/life/mejores-herramientas-bricolaje-lidl-1131853' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/sierra-circular-dewalt-2827319.jpg' alt='Herramientas de bricolaje Lidl: estas son las mejores que puedes comprar en su web' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/analisis/tecnologia/logitech-blue-sona-review-opinion-1130271'>Logitech Blue Sona, análisis y opinión</a></h4>
     <a href='https://computerhoy.com/analisis/tecnologia/logitech-blue-sona-review-opinion-1130271' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/blue-sona-analisis-microno-2826023.jpg' alt='Logitech Blue Sona, análisis y opinión' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/habito-consumo-bebidas-colesterol-alto-dietista-1133521'>El hábito de consumo de bebidas más importante si tienes el colesterol alto, según una dietista</a></h4>
     <a href='https://computerhoy.com/noticias/life/habito-consumo-bebidas-colesterol-alto-dietista-1133521' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/habito-bebidas-importante-tienes-colesterol-alto-dietista-2830233.jpg' alt='El hábito de consumo de bebidas más importante si tienes el colesterol alto, según una dietista' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/axiom-va-llevar-botella-champan-espacio-1133027'>Por qué Axiom va a llevar una botella de champán al espacio</a></h4>
-    <a href='https://computerhoy.com/noticias/life/axiom-va-llevar-botella-champan-espacio-1133027' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/axiom-va-llevar-botella-champan-espacio-2829177.jpg' alt='Por qué Axiom va a llevar una botella de champán al espacio' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-altavoces-inteligentes-sin-alexa-852503'>5 altavoces inteligentes que no tienen Alexa y que merecen mucho la pena</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-altavoces-inteligentes-sin-alexa-852503' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/apple-homepod-mini-2829463.jpg' alt='5 altavoces inteligentes que no tienen Alexa y que merecen mucho la pena' />
     </a>
 </div>
 
