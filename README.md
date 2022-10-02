@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-fundas-airpods-pro-2-1133161'>Mejores fundas para los AirPods Pro 2 que puedes comprar</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-fundas-airpods-pro-2-1133161' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/airpods-pro-2830237.jpg' alt='Mejores fundas para los AirPods Pro 2 que puedes comprar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/megadron-eh216-policia-nacional-coche-volador-autonomo-primer-vuelo-video-1133965'>El coche volador autónomo de la Policía Nacional ya ha completado su primer vuelo (vídeo)</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/megadron-eh216-policia-nacional-coche-volador-autonomo-primer-vuelo-video-1133965' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/verticalimage1664724224533-2830883.jpg' alt='El coche volador autónomo de la Policía Nacional ya ha completado su primer vuelo (vídeo)' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/vuelta-clase-sera-facil-estos-accesorios-1130175'>La vuelta a clase será más fácil con estos accesorios</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/vuelta-clase-sera-facil-estos-accesorios-1130175' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/ninos-clase-2823801.jpg' alt='La vuelta a clase será más fácil con estos accesorios' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/bruce-willis-derechos-deepfake-deepcake-1133293'>Seguirás viendo a Bruce Willis en el cine, aunque ya no sea él: ha vendido sus derechos a una compañía de deepfakes</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/bruce-willis-derechos-deepfake-deepcake-1133293' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/seguiras-viendo-bruce-willis-cine-aunque-ya-no-sea-ha-vendido-derechos-compania-deepfakes-2830021.jpg' alt='Seguirás viendo a Bruce Willis en el cine, aunque ya no sea él: ha vendido sus derechos a una compañía de deepfakes' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/motor/truco-hombro-salir-aparcamiento-estrecho-1133939'>El 'truco del hombro' para salir de un aparcamiento estrecho sin un rasguño</a></h4>
     <a href='https://computerhoy.com/noticias/motor/truco-hombro-salir-aparcamiento-estrecho-1133939' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/truco-hombro-salir-plaza-estrecha-rasguno-2830815.jpg' alt='El 'truco del hombro' para salir de un aparcamiento estrecho sin un rasguño' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/bebes-varias-tazas-cafe-dia-reduciras-riesgo-desarrollar-enfermedades-cardiovasculares-1133909'>Si bebes varias tazas de café al día reducirás el riesgo de desarrollar enfermedades cardiovasculares</a></h4>
-    <a href='https://computerhoy.com/noticias/life/bebes-varias-tazas-cafe-dia-reduciras-riesgo-desarrollar-enfermedades-cardiovasculares-1133909' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/cafe-2830745.jpg' alt='Si bebes varias tazas de café al día reducirás el riesgo de desarrollar enfermedades cardiovasculares' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/portatil-pantalla-oled-12-gb-ram-menos-600-euros-chollo-pccomponentes-1133915'>Portátil con pantalla OLED y 12 GB de RAM por menos de 600 euros, un chollo de PcComponentes</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/portatil-pantalla-oled-12-gb-ram-menos-600-euros-chollo-pccomponentes-1133915' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/asus-vivobook-15-2830751.jpg' alt='Portátil con pantalla OLED y 12 GB de RAM por menos de 600 euros, un chollo de PcComponentes' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/breve-podras-hacer-encuestas-grupos-whatsapp-1133905'>En breve podrás hacer encuestas en grupos de WhatsApp</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/breve-podras-hacer-encuestas-grupos-whatsapp-1133905' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/encuestas-whatsapp-2635955.jpg' alt='En breve podrás hacer encuestas en grupos de WhatsApp' />
     </a>
 </div>
 
