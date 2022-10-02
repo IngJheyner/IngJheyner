@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/entretenimiento/6-peliculas-optimistas-tienes-plataformas-pueden-alegrarte-cualquier-dia-1132071'>6 películas optimistas que tienes en plataformas y que pueden alegrarte cualquier día</a></h4>
+    <a href='https://computerhoy.com/reportajes/entretenimiento/6-peliculas-optimistas-tienes-plataformas-pueden-alegrarte-cualquier-dia-1132071' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/intocable-2827443.jpg' alt='6 películas optimistas que tienes en plataformas y que pueden alegrarte cualquier día' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/son-logos-nomenclatura-conexiones-usb-c-veremos-nuevos-cables-dispositivos-1133899'>Así son los logos y nomenclatura de las conexiones USB-C que veremos en nuevos cables y dispositivos</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/son-logos-nomenclatura-conexiones-usb-c-veremos-nuevos-cables-dispositivos-1133899' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/usb-c-2830723.jpg' alt='Así son los logos y nomenclatura de las conexiones USB-C que veremos en nuevos cables y dispositivos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/analisis/tecnologia/oppo-pad-air-review-opinion-1129055'>OPPO Pad Air, análisis y opinión</a></h4>
+    <a href='https://computerhoy.com/analisis/tecnologia/oppo-pad-air-review-opinion-1129055' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/oppo-pad-air-analisis-opinion-2826343.jpg' alt='OPPO Pad Air, análisis y opinión' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/amazon-lista-error-pixel-watch-nuevas-imagenes-promocionales-sorpresa-1133887'>Amazon lista por error el Pixel Watch con nuevas imágenes promocionales y una sorpresa</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/amazon-lista-error-pixel-watch-nuevas-imagenes-promocionales-sorpresa-1133887' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/filtran-imagenes-promocionales-nuevos-detalles-pixel-watch-gracias-amazon-2830713.jpg' alt='Amazon lista por error el Pixel Watch con nuevas imágenes promocionales y una sorpresa' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/guia-compra/ordenador-infantil-1129529'>Un ordenador para niños: esto es lo que debes saber</a></h4>
     <a href='https://computerhoy.com/guia-compra/ordenador-infantil-1129529' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/nina-ordenador-2822789.jpg' alt='Un ordenador para niños: esto es lo que debes saber' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/12-soluciones-problemas-bluetooth-comunes-android-1124975'>12 soluciones a los problemas Bluetooth más comunes en Android</a></h4>
-    <a href='https://computerhoy.com/tutoriales/tecnologia/12-soluciones-problemas-bluetooth-comunes-android-1124975' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/bluetooth-android-2813909.jpg' alt='12 soluciones a los problemas Bluetooth más comunes en Android' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/tecnologia/hisense-e7hq-55-review-opinion-1132035'>Hisense E7HQ de 55”, análisis y opinión</a></h4>
-    <a href='https://computerhoy.com/analisis/tecnologia/hisense-e7hq-55-review-opinion-1132035' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/hisense-e7hq-analisis-opinion-2827567.jpg' alt='Hisense E7HQ de 55”, análisis y opinión' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/8-maneras-puedes-gastar-criptomonedas-1125709'>8 maneras en las que puedes gastar tus criptomonedas</a></h4>
-    <a href='https://computerhoy.com/tutoriales/tecnologia/8-maneras-puedes-gastar-criptomonedas-1125709' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/criptomomnedas-2815371.jpg' alt='8 maneras en las que puedes gastar tus criptomonedas' />
     </a>
 </div>
 
