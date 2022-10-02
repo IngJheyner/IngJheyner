@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/bruce-willis-derechos-deepfake-deepcake-1133293'>Seguirás viendo a Bruce Willis en el cine, aunque ya no sea él: ha vendido sus derechos a una compañía de deepfakes</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/bruce-willis-derechos-deepfake-deepcake-1133293' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/seguiras-viendo-bruce-willis-cine-aunque-ya-no-sea-ha-vendido-derechos-compania-deepfakes-2830021.jpg' alt='Seguirás viendo a Bruce Willis en el cine, aunque ya no sea él: ha vendido sus derechos a una compañía de deepfakes' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/truco-hombro-salir-aparcamiento-estrecho-1133939'>El 'truco del hombro' para salir de un aparcamiento estrecho sin un rasguño</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/truco-hombro-salir-aparcamiento-estrecho-1133939' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/truco-hombro-salir-plaza-estrecha-rasguno-2830815.jpg' alt='El 'truco del hombro' para salir de un aparcamiento estrecho sin un rasguño' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/bebes-varias-tazas-cafe-dia-reduciras-riesgo-desarrollar-enfermedades-cardiovasculares-1133909'>Si bebes varias tazas de café al día reducirás el riesgo de desarrollar enfermedades cardiovasculares</a></h4>
     <a href='https://computerhoy.com/noticias/life/bebes-varias-tazas-cafe-dia-reduciras-riesgo-desarrollar-enfermedades-cardiovasculares-1133909' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/cafe-2830745.jpg' alt='Si bebes varias tazas de café al día reducirás el riesgo de desarrollar enfermedades cardiovasculares' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/breve-podras-hacer-encuestas-grupos-whatsapp-1133905'>En breve podrás hacer encuestas en grupos de WhatsApp</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/breve-podras-hacer-encuestas-grupos-whatsapp-1133905' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/encuestas-whatsapp-2635955.jpg' alt='En breve podrás hacer encuestas en grupos de WhatsApp' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/entretenimiento/6-peliculas-optimistas-tienes-plataformas-pueden-alegrarte-cualquier-dia-1132071'>6 películas optimistas que tienes en plataformas y que pueden alegrarte cualquier día</a></h4>
-    <a href='https://computerhoy.com/reportajes/entretenimiento/6-peliculas-optimistas-tienes-plataformas-pueden-alegrarte-cualquier-dia-1132071' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/intocable-2827443.jpg' alt='6 películas optimistas que tienes en plataformas y que pueden alegrarte cualquier día' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/son-logos-nomenclatura-conexiones-usb-c-veremos-nuevos-cables-dispositivos-1133899'>Así son los logos y nomenclatura de las conexiones USB-C que veremos en nuevos cables y dispositivos</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/son-logos-nomenclatura-conexiones-usb-c-veremos-nuevos-cables-dispositivos-1133899' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/usb-c-2830723.jpg' alt='Así son los logos y nomenclatura de las conexiones USB-C que veremos en nuevos cables y dispositivos' />
     </a>
 </div>
 
