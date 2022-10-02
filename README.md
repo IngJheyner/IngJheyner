@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/12-soluciones-problemas-bluetooth-comunes-android-1124975'>12 soluciones a los problemas Bluetooth más comunes en Android</a></h4>
+    <a href='https://computerhoy.com/tutoriales/tecnologia/12-soluciones-problemas-bluetooth-comunes-android-1124975' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/bluetooth-android-2813909.jpg' alt='12 soluciones a los problemas Bluetooth más comunes en Android' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/analisis/tecnologia/hisense-e7hq-55-review-opinion-1132035'>Hisense E7HQ de 55”, análisis y opinión</a></h4>
     <a href='https://computerhoy.com/analisis/tecnologia/hisense-e7hq-55-review-opinion-1132035' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/hisense-e7hq-analisis-opinion-2827567.jpg' alt='Hisense E7HQ de 55”, análisis y opinión' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/ve-cerca-huracan-fiona-traves-nuevo-robot-1133609'>Así se ve de cerca el huracán Fiona a través de un nuevo robot</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/ve-cerca-huracan-fiona-traves-nuevo-robot-1133609' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/huracan-2830387.jpg' alt='Así se ve de cerca el huracán Fiona a través de un nuevo robot' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/cientifico-datos-desvela-dia-mas-aburrido-siglo-1132487'>Un científico de datos desvela el día más aburrido del último siglo</a></h4>
-    <a href='https://computerhoy.com/noticias/life/cientifico-datos-desvela-dia-mas-aburrido-siglo-1132487' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/cientifico-datos-desvela-dia-aburrido-ultimo-siglo-2828131.jpg' alt='Un científico de datos desvela el día más aburrido del último siglo' />
     </a>
 </div>
 
