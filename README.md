@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/analisis/tecnologia/hisense-e7hq-55-review-opinion-1132035'>Hisense E7HQ de 55”, análisis y opinión</a></h4>
+    <a href='https://computerhoy.com/analisis/tecnologia/hisense-e7hq-55-review-opinion-1132035' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/hisense-e7hq-analisis-opinion-2827567.jpg' alt='Hisense E7HQ de 55”, análisis y opinión' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/8-maneras-puedes-gastar-criptomonedas-1125709'>8 maneras en las que puedes gastar tus criptomonedas</a></h4>
+    <a href='https://computerhoy.com/tutoriales/tecnologia/8-maneras-puedes-gastar-criptomonedas-1125709' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/criptomomnedas-2815371.jpg' alt='8 maneras en las que puedes gastar tus criptomonedas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-relojes-natacion-aguas-abiertas-907327'>Estos son los mejores relojes para natación en aguas abiertas</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-relojes-natacion-aguas-abiertas-907327' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/nadador-aguas-abiertas-2423249.jpg' alt='Estos son los mejores relojes para natación en aguas abiertas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/ve-cerca-huracan-fiona-traves-nuevo-robot-1133609'>Así se ve de cerca el huracán Fiona a través de un nuevo robot</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/ve-cerca-huracan-fiona-traves-nuevo-robot-1133609' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/huracan-2830387.jpg' alt='Así se ve de cerca el huracán Fiona a través de un nuevo robot' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/cientifico-datos-desvela-dia-mas-aburrido-siglo-1132487'>Un científico de datos desvela el día más aburrido del último siglo</a></h4>
     <a href='https://computerhoy.com/noticias/life/cientifico-datos-desvela-dia-mas-aburrido-siglo-1132487' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/cientifico-datos-desvela-dia-aburrido-ultimo-siglo-2828131.jpg' alt='Un científico de datos desvela el día más aburrido del último siglo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/dioxido-carbono-culpable-arboles-hoy-dia-sean-grandes-antano-1133615'>El dióxido de carbono es el culpable de que los árboles hoy día sean más grandes que antaño</a></h4>
-    <a href='https://computerhoy.com/noticias/life/dioxido-carbono-culpable-arboles-hoy-dia-sean-grandes-antano-1133615' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/bosque-frondoso-2830395.jpg' alt='El dióxido de carbono es el culpable de que los árboles hoy día sean más grandes que antaño' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-cursos-programacion-online-certificado-finalizacion-1133233'>Mejores cursos de programación online con certificado de finalización</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-cursos-programacion-online-certificado-finalizacion-1133233' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/programador-trabajando-portatil-2829853.jpg' alt='Mejores cursos de programación online con certificado de finalización' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-cancelan-suscripciones-paypal-1071563'>Cómo se cancelan las suscripciones en PayPal</a></h4>
-    <a href='https://computerhoy.com/tutoriales/tecnologia/como-cancelan-suscripciones-paypal-1071563' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/01/paypal.jpg' alt='Cómo se cancelan las suscripciones en PayPal' />
     </a>
 </div>
 
