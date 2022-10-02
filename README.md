@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/amazon-lista-error-pixel-watch-nuevas-imagenes-promocionales-sorpresa-1133887'>Amazon lista por error el Pixel Watch con nuevas imágenes promocionales y una sorpresa</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/amazon-lista-error-pixel-watch-nuevas-imagenes-promocionales-sorpresa-1133887' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/filtran-imagenes-promocionales-nuevos-detalles-pixel-watch-gracias-amazon-2830713.jpg' alt='Amazon lista por error el Pixel Watch con nuevas imágenes promocionales y una sorpresa' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/guia-compra/ordenador-infantil-1129529'>Un ordenador para niños: esto es lo que debes saber</a></h4>
     <a href='https://computerhoy.com/guia-compra/ordenador-infantil-1129529' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/nina-ordenador-2822789.jpg' alt='Un ordenador para niños: esto es lo que debes saber' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tutoriales/tecnologia/8-maneras-puedes-gastar-criptomonedas-1125709'>8 maneras en las que puedes gastar tus criptomonedas</a></h4>
     <a href='https://computerhoy.com/tutoriales/tecnologia/8-maneras-puedes-gastar-criptomonedas-1125709' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/criptomomnedas-2815371.jpg' alt='8 maneras en las que puedes gastar tus criptomonedas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-relojes-natacion-aguas-abiertas-907327'>Estos son los mejores relojes para natación en aguas abiertas</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-relojes-natacion-aguas-abiertas-907327' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/nadador-aguas-abiertas-2423249.jpg' alt='Estos son los mejores relojes para natación en aguas abiertas' />
     </a>
 </div>
 
