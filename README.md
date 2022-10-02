@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-clonar-disco-duro-ssd-windows-mac-1099647'>Cómo clonar un disco duro / SSD en Windows o Mac</a></h4>
+    <a href='https://computerhoy.com/tutoriales/tecnologia/como-clonar-disco-duro-ssd-windows-mac-1099647' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/disco-duro-2769499.jpg' alt='Cómo clonar un disco duro / SSD en Windows o Mac' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/torreta-laser-inteligencia%20artificia-mata-cucarachas-1133067'>Inventa una torreta láser controlada por IA que mata a las cucarachas que se acercan</a></h4>
     <a href='https://computerhoy.com/noticias/life/torreta-laser-inteligencia%20artificia-mata-cucarachas-1133067' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/inventa-torreta-laser-controlada-ia-mata-cucarachas-acercan-2829267.jpg' alt='Inventa una torreta láser controlada por IA que mata a las cucarachas que se acercan' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/podras-mantener-movil-limpio-libre-virus-1129601'>Así podrás mantener tu móvil limpio y libre de virus</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/podras-mantener-movil-limpio-libre-virus-1129601' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/telefono-esterilizadora-2822981.jpg' alt='Así podrás mantener tu móvil limpio y libre de virus' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/nueva-tecnologia-podria-sustituir-unidades-almacenamiento-actuales-precio-1133593'>Esta nueva tecnología podría sustituir a las unidades de almacenamiento actuales y a bajo precio</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/nueva-tecnologia-podria-sustituir-unidades-almacenamiento-actuales-precio-1133593' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/disco-almacenamiento-2830349.jpg' alt='Esta nueva tecnología podría sustituir a las unidades de almacenamiento actuales y a bajo precio' />
     </a>
 </div>
 
