@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/guia-compra/ordenador-infantil-1129529'>Un ordenador para niños: esto es lo que debes saber</a></h4>
+    <a href='https://computerhoy.com/guia-compra/ordenador-infantil-1129529' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/nina-ordenador-2822789.jpg' alt='Un ordenador para niños: esto es lo que debes saber' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tutoriales/tecnologia/12-soluciones-problemas-bluetooth-comunes-android-1124975'>12 soluciones a los problemas Bluetooth más comunes en Android</a></h4>
     <a href='https://computerhoy.com/tutoriales/tecnologia/12-soluciones-problemas-bluetooth-comunes-android-1124975' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/bluetooth-android-2813909.jpg' alt='12 soluciones a los problemas Bluetooth más comunes en Android' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-relojes-natacion-aguas-abiertas-907327'>Estos son los mejores relojes para natación en aguas abiertas</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/mejores-relojes-natacion-aguas-abiertas-907327' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/nadador-aguas-abiertas-2423249.jpg' alt='Estos son los mejores relojes para natación en aguas abiertas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/ve-cerca-huracan-fiona-traves-nuevo-robot-1133609'>Así se ve de cerca el huracán Fiona a través de un nuevo robot</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/ve-cerca-huracan-fiona-traves-nuevo-robot-1133609' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/huracan-2830387.jpg' alt='Así se ve de cerca el huracán Fiona a través de un nuevo robot' />
     </a>
 </div>
 
