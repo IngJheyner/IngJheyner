@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/bebes-varias-tazas-cafe-dia-reduciras-riesgo-desarrollar-enfermedades-cardiovasculares-1133909'>Si bebes varias tazas de café al día reducirás el riesgo de desarrollar enfermedades cardiovasculares</a></h4>
+    <a href='https://computerhoy.com/noticias/life/bebes-varias-tazas-cafe-dia-reduciras-riesgo-desarrollar-enfermedades-cardiovasculares-1133909' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/cafe-2830745.jpg' alt='Si bebes varias tazas de café al día reducirás el riesgo de desarrollar enfermedades cardiovasculares' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/portatil-pantalla-oled-12-gb-ram-menos-600-euros-chollo-pccomponentes-1133915'>Portátil con pantalla OLED y 12 GB de RAM por menos de 600 euros, un chollo de PcComponentes</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/portatil-pantalla-oled-12-gb-ram-menos-600-euros-chollo-pccomponentes-1133915' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/asus-vivobook-15-2830751.jpg' alt='Portátil con pantalla OLED y 12 GB de RAM por menos de 600 euros, un chollo de PcComponentes' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/son-logos-nomenclatura-conexiones-usb-c-veremos-nuevos-cables-dispositivos-1133899'>Así son los logos y nomenclatura de las conexiones USB-C que veremos en nuevos cables y dispositivos</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/son-logos-nomenclatura-conexiones-usb-c-veremos-nuevos-cables-dispositivos-1133899' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/usb-c-2830723.jpg' alt='Así son los logos y nomenclatura de las conexiones USB-C que veremos en nuevos cables y dispositivos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/tecnologia/oppo-pad-air-review-opinion-1129055'>OPPO Pad Air, análisis y opinión</a></h4>
-    <a href='https://computerhoy.com/analisis/tecnologia/oppo-pad-air-review-opinion-1129055' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/oppo-pad-air-analisis-opinion-2826343.jpg' alt='OPPO Pad Air, análisis y opinión' />
     </a>
 </div>
 
