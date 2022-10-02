@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/google-gboard-bar-teclado-barra--teclas-en-fila-video-1133977'>Google Japón presenta un teclado de 1,6 metros en donde todas las teclas están en fila (vídeo)</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/google-gboard-bar-teclado-barra--teclas-en-fila-video-1133977' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/verticalimage1664729045708-2830893.jpg' alt='Google Japón presenta un teclado de 1,6 metros en donde todas las teclas están en fila (vídeo)' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-fundas-airpods-pro-2-1133161'>Mejores fundas para los AirPods Pro 2 que puedes comprar</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/mejores-fundas-airpods-pro-2-1133161' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/airpods-pro-2830237.jpg' alt='Mejores fundas para los AirPods Pro 2 que puedes comprar' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/bruce-willis-derechos-deepfake-deepcake-1133293'>Seguirás viendo a Bruce Willis en el cine, aunque ya no sea él: ha vendido sus derechos a una compañía de deepfakes</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/bruce-willis-derechos-deepfake-deepcake-1133293' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/seguiras-viendo-bruce-willis-cine-aunque-ya-no-sea-ha-vendido-derechos-compania-deepfakes-2830021.jpg' alt='Seguirás viendo a Bruce Willis en el cine, aunque ya no sea él: ha vendido sus derechos a una compañía de deepfakes' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/truco-hombro-salir-aparcamiento-estrecho-1133939'>El 'truco del hombro' para salir de un aparcamiento estrecho sin un rasguño</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/truco-hombro-salir-aparcamiento-estrecho-1133939' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/truco-hombro-salir-plaza-estrecha-rasguno-2830815.jpg' alt='El 'truco del hombro' para salir de un aparcamiento estrecho sin un rasguño' />
     </a>
 </div>
 
