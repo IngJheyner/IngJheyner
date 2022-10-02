@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/portatil-pantalla-oled-12-gb-ram-menos-600-euros-chollo-pccomponentes-1133915'>Portátil con pantalla OLED y 12 GB de RAM por menos de 600 euros, un chollo de PcComponentes</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/portatil-pantalla-oled-12-gb-ram-menos-600-euros-chollo-pccomponentes-1133915' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/asus-vivobook-15-2830751.jpg' alt='Portátil con pantalla OLED y 12 GB de RAM por menos de 600 euros, un chollo de PcComponentes' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/breve-podras-hacer-encuestas-grupos-whatsapp-1133905'>En breve podrás hacer encuestas en grupos de WhatsApp</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/breve-podras-hacer-encuestas-grupos-whatsapp-1133905' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/encuestas-whatsapp-2635955.jpg' alt='En breve podrás hacer encuestas en grupos de WhatsApp' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/entretenimiento/6-peliculas-optimistas-tienes-plataformas-pueden-alegrarte-cualquier-dia-1132071'>6 películas optimistas que tienes en plataformas y que pueden alegrarte cualquier día</a></h4>
     <a href='https://computerhoy.com/reportajes/entretenimiento/6-peliculas-optimistas-tienes-plataformas-pueden-alegrarte-cualquier-dia-1132071' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/intocable-2827443.jpg' alt='6 películas optimistas que tienes en plataformas y que pueden alegrarte cualquier día' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/analisis/tecnologia/oppo-pad-air-review-opinion-1129055'>OPPO Pad Air, análisis y opinión</a></h4>
     <a href='https://computerhoy.com/analisis/tecnologia/oppo-pad-air-review-opinion-1129055' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/oppo-pad-air-analisis-opinion-2826343.jpg' alt='OPPO Pad Air, análisis y opinión' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/amazon-lista-error-pixel-watch-nuevas-imagenes-promocionales-sorpresa-1133887'>Amazon lista por error el Pixel Watch con nuevas imágenes promocionales y una sorpresa</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/amazon-lista-error-pixel-watch-nuevas-imagenes-promocionales-sorpresa-1133887' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/filtran-imagenes-promocionales-nuevos-detalles-pixel-watch-gracias-amazon-2830713.jpg' alt='Amazon lista por error el Pixel Watch con nuevas imágenes promocionales y una sorpresa' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/guia-compra/ordenador-infantil-1129529'>Un ordenador para niños: esto es lo que debes saber</a></h4>
-    <a href='https://computerhoy.com/guia-compra/ordenador-infantil-1129529' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/nina-ordenador-2822789.jpg' alt='Un ordenador para niños: esto es lo que debes saber' />
     </a>
 </div>
 
