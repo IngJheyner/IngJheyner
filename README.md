@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/nuevo-record-computacion-cuantica-primer-procesador-6-qubits-fabricado-silicio-1133983'>Nuevo récord en la computación cuántica: el primer procesador de 6 qubits fabricado con silicio</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/nuevo-record-computacion-cuantica-primer-procesador-6-qubits-fabricado-silicio-1133983' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/nuevo-record-computacion-cuantica-primer-procesador-6-qubits-fabricado-silicio-2830905.jpg' alt='Nuevo récord en la computación cuántica: el primer procesador de 6 qubits fabricado con silicio' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/mision-artemis-i-luna-fecha-lanzamiento-noviembre-1133981'>Una buena y una mala noticia de la misión Artemis I a la Luna, que ya tiene nueva fecha de lanzamiento</a></h4>
     <a href='https://computerhoy.com/noticias/life/mision-artemis-i-luna-fecha-lanzamiento-noviembre-1133981' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/09/nasa-confirma-pondra-mujer-luna-2024-explica-detalles-mision-2075383.jpg' alt='Una buena y una mala noticia de la misión Artemis I a la Luna, que ya tiene nueva fecha de lanzamiento' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/motor/megadron-eh216-policia-nacional-coche-volador-autonomo-primer-vuelo-video-1133965'>El coche volador autónomo de la Policía Nacional ya ha completado su primer vuelo (vídeo)</a></h4>
     <a href='https://computerhoy.com/noticias/motor/megadron-eh216-policia-nacional-coche-volador-autonomo-primer-vuelo-video-1133965' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/verticalimage1664724224533-2830883.jpg' alt='El coche volador autónomo de la Policía Nacional ya ha completado su primer vuelo (vídeo)' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/vuelta-clase-sera-facil-estos-accesorios-1130175'>La vuelta a clase será más fácil con estos accesorios</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/vuelta-clase-sera-facil-estos-accesorios-1130175' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/ninos-clase-2823801.jpg' alt='La vuelta a clase será más fácil con estos accesorios' />
     </a>
 </div>
 
