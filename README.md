@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/primer-ferry-electrico-autonomo-transporta-pasajeros-noruega-1133111'>El primer ferry eléctrico y autónomo ya transporta pasajeros en Noruega</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/primer-ferry-electrico-autonomo-transporta-pasajeros-noruega-1133111' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/primer-ferry-electrico-autonomo-ya-transporta-pasajeros-noruega-2829361.jpg' alt='El primer ferry eléctrico y autónomo ya transporta pasajeros en Noruega' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/nuevo-record-computacion-cuantica-primer-procesador-6-qubits-fabricado-silicio-1133983'>Nuevo récord en la computación cuántica: el primer procesador de 6 qubits fabricado con silicio</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/nuevo-record-computacion-cuantica-primer-procesador-6-qubits-fabricado-silicio-1133983' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/nuevo-record-computacion-cuantica-primer-procesador-6-qubits-fabricado-silicio-2830905.jpg' alt='Nuevo récord en la computación cuántica: el primer procesador de 6 qubits fabricado con silicio' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-fundas-airpods-pro-2-1133161'>Mejores fundas para los AirPods Pro 2 que puedes comprar</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/mejores-fundas-airpods-pro-2-1133161' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/airpods-pro-2830237.jpg' alt='Mejores fundas para los AirPods Pro 2 que puedes comprar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/megadron-eh216-policia-nacional-coche-volador-autonomo-primer-vuelo-video-1133965'>El coche volador autónomo de la Policía Nacional ya ha completado su primer vuelo (vídeo)</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/megadron-eh216-policia-nacional-coche-volador-autonomo-primer-vuelo-video-1133965' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/verticalimage1664724224533-2830883.jpg' alt='El coche volador autónomo de la Policía Nacional ya ha completado su primer vuelo (vídeo)' />
     </a>
 </div>
 
