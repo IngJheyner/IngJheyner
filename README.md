@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/cientifico-datos-desvela-dia-mas-aburrido-siglo-1132487'>Un científico de datos desvela el día más aburrido del último siglo</a></h4>
+    <a href='https://computerhoy.com/noticias/life/cientifico-datos-desvela-dia-mas-aburrido-siglo-1132487' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/cientifico-datos-desvela-dia-aburrido-ultimo-siglo-2828131.jpg' alt='Un científico de datos desvela el día más aburrido del último siglo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/dioxido-carbono-culpable-arboles-hoy-dia-sean-grandes-antano-1133615'>El dióxido de carbono es el culpable de que los árboles hoy día sean más grandes que antaño</a></h4>
+    <a href='https://computerhoy.com/noticias/life/dioxido-carbono-culpable-arboles-hoy-dia-sean-grandes-antano-1133615' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/bosque-frondoso-2830395.jpg' alt='El dióxido de carbono es el culpable de que los árboles hoy día sean más grandes que antaño' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-cursos-programacion-online-certificado-finalizacion-1133233'>Mejores cursos de programación online con certificado de finalización</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-cursos-programacion-online-certificado-finalizacion-1133233' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/programador-trabajando-portatil-2829853.jpg' alt='Mejores cursos de programación online con certificado de finalización' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-cancelan-suscripciones-paypal-1071563'>Cómo se cancelan las suscripciones en PayPal</a></h4>
+    <a href='https://computerhoy.com/tutoriales/tecnologia/como-cancelan-suscripciones-paypal-1071563' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/01/paypal.jpg' alt='Cómo se cancelan las suscripciones en PayPal' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-clonar-disco-duro-ssd-windows-mac-1099647'>Cómo clonar un disco duro / SSD en Windows o Mac</a></h4>
     <a href='https://computerhoy.com/tutoriales/tecnologia/como-clonar-disco-duro-ssd-windows-mac-1099647' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/disco-duro-2769499.jpg' alt='Cómo clonar un disco duro / SSD en Windows o Mac' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/torreta-laser-inteligencia%20artificia-mata-cucarachas-1133067'>Inventa una torreta láser controlada por IA que mata a las cucarachas que se acercan</a></h4>
-    <a href='https://computerhoy.com/noticias/life/torreta-laser-inteligencia%20artificia-mata-cucarachas-1133067' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/inventa-torreta-laser-controlada-ia-mata-cucarachas-acercan-2829267.jpg' alt='Inventa una torreta láser controlada por IA que mata a las cucarachas que se acercan' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/robots-ya-estan-aprendiendo-agarrar-todo-tipo-objetos-cantidad-fuerza-adecuada-1133607'>Los robots ya están aprendiendo a agarrar todo tipo de objetos con la cantidad de fuerza adecuada</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/robots-ya-estan-aprendiendo-agarrar-todo-tipo-objetos-cantidad-fuerza-adecuada-1133607' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/ahora-robots-pueden-agarrar-objetos-cantidad-fuerza-adecuada-2830385.jpg' alt='Los robots ya están aprendiendo a agarrar todo tipo de objetos con la cantidad de fuerza adecuada' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-relojes-inteligentes-ciclismo-932617'>Estos son los mejores relojes inteligentes para ciclismo que puedes comprar</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-relojes-inteligentes-ciclismo-932617' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/ciclista-tierra-bici-gravel-2829537.jpg' alt='Estos son los mejores relojes inteligentes para ciclismo que puedes comprar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/podras-mantener-movil-limpio-libre-virus-1129601'>Así podrás mantener tu móvil limpio y libre de virus</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/podras-mantener-movil-limpio-libre-virus-1129601' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/telefono-esterilizadora-2822981.jpg' alt='Así podrás mantener tu móvil limpio y libre de virus' />
     </a>
 </div>
 
