@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/ve-cerca-huracan-fiona-traves-nuevo-robot-1133609'>Así se ve de cerca el huracán Fiona a través de un nuevo robot</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/ve-cerca-huracan-fiona-traves-nuevo-robot-1133609' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/huracan-2830387.jpg' alt='Así se ve de cerca el huracán Fiona a través de un nuevo robot' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/cientifico-datos-desvela-dia-mas-aburrido-siglo-1132487'>Un científico de datos desvela el día más aburrido del último siglo</a></h4>
     <a href='https://computerhoy.com/noticias/life/cientifico-datos-desvela-dia-mas-aburrido-siglo-1132487' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/cientifico-datos-desvela-dia-aburrido-ultimo-siglo-2828131.jpg' alt='Un científico de datos desvela el día más aburrido del último siglo' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-cancelan-suscripciones-paypal-1071563'>Cómo se cancelan las suscripciones en PayPal</a></h4>
     <a href='https://computerhoy.com/tutoriales/tecnologia/como-cancelan-suscripciones-paypal-1071563' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/01/paypal.jpg' alt='Cómo se cancelan las suscripciones en PayPal' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-clonar-disco-duro-ssd-windows-mac-1099647'>Cómo clonar un disco duro / SSD en Windows o Mac</a></h4>
-    <a href='https://computerhoy.com/tutoriales/tecnologia/como-clonar-disco-duro-ssd-windows-mac-1099647' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/disco-duro-2769499.jpg' alt='Cómo clonar un disco duro / SSD en Windows o Mac' />
     </a>
 </div>
 
