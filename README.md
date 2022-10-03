@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/kit-alarma-ring-5-dispositivos-descuento-1134563'>Este kit de alarma de Ring, formado por 5 dispositivos, protegerá tu casa por completo sin cuotas, y tiene un 25% de descuento</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/kit-alarma-ring-5-dispositivos-descuento-1134563' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/kit-alarma-ring-formado-5-dispositivos-protegera-casa-completo-cuotas-2831983.jpg' alt='Este kit de alarma de Ring, formado por 5 dispositivos, protegerá tu casa por completo sin cuotas, y tiene un 25% de descuento' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/aprovechan-vulnerabilidad-firmware-hacer-jailbreak-ps5-1134543'>Aprovechan una vulnerabilidad en el firmware para hacer jailbreak a la PS5</a></h4>
+    <a href='https://computerhoy.com/noticias/aprovechan-vulnerabilidad-firmware-hacer-jailbreak-ps5-1134543' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/11/analisis-ps5-computerhoy-2140495.jpg' alt='Aprovechan una vulnerabilidad en el firmware para hacer jailbreak a la PS5' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/confunden-reestreno-avatar-con-avatar-2-sentido-del-agua-devolucion-dinero-1134553'>Cientos de personas piden la devolución del dinero en el reestreno de Avatar, porque pensaban que iban a ver Avatar 2</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/confunden-reestreno-avatar-con-avatar-2-sentido-del-agua-devolucion-dinero-1134553' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/cientos-personas-piden-devolucion-dinero-reestreno-avatar-porque-pensaban-iban-ver-avatar-2-2831973.jpg' alt='Cientos de personas piden la devolución del dinero en el reestreno de Avatar, porque pensaban que iban a ver Avatar 2' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/todo-sabemos-acerca-nuevos-google-pixel-7-pixel-7-pro-1134501'>Todo lo que sabemos acerca de los nuevos Google Pixel 7 y Pixel 7 Pro</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/todo-sabemos-acerca-nuevos-google-pixel-7-pixel-7-pro-1134501' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/google-pixel-7-google-tablet-google-wallet-todas-novedades-software-google-i-ano-2699771.jpg' alt='Todo lo que sabemos acerca de los nuevos Google Pixel 7 y Pixel 7 Pro' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/compartes-cuenta-netflix-sencillo-cambio-evitara-arruinen-perfil-1134525'>¿Compartes cuenta de Netflix? Este sencillo cambio evitará que arruinen tu perfil</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/compartes-cuenta-netflix-sencillo-cambio-evitara-arruinen-perfil-1134525' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/netflix-app-tv-2682771.jpg' alt='¿Compartes cuenta de Netflix? Este sencillo cambio evitará que arruinen tu perfil' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/amazon-descuentos-productos-liquidacion-1134257'>Amazon tiene todos estos chollos en liquidación, con un 10% de descuento extra con este truco</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/amazon-descuentos-productos-liquidacion-1134257' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/samsung-galaxy-watch-5-pro-analisis-opinion-2809243.jpg' alt='Amazon tiene todos estos chollos en liquidación, con un 10% de descuento extra con este truco' />
     </a>
 </div>
 
