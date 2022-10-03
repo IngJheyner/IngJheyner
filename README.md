@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/aspiradora-inalambrica-xiaomi-va-dyson-potencia-precio-rompedores-1133087'>Esta aspiradora inalámbrica Xiaomi va a por Dyson: potencia y precio rompedores</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/aspiradora-inalambrica-xiaomi-va-dyson-potencia-precio-rompedores-1133087' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/xiaomi-mi-vacuum-cleaner-g10-2829301.jpg' alt='Esta aspiradora inalámbrica Xiaomi va a por Dyson: potencia y precio rompedores' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/youtube-sigue-probando-funciones-ultima-no-te-va-gustar-4k-solo-usuarios-pago-1134281'>YouTube sigue probando funciones y esta última no te va a gustar: 4K solo para los usuarios de pago</a></h4>
+    <a href='https://computerhoy.com/noticias/youtube-sigue-probando-funciones-ultima-no-te-va-gustar-4k-solo-usuarios-pago-1134281' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/youtube-premium-2718177.jpg' alt='YouTube sigue probando funciones y esta última no te va a gustar: 4K solo para los usuarios de pago' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/nostalgicos-placa-genera-ruidos-disco-duro-usarla-junto-ssd-1134265'>Para los nostálgicos: esta placa genera los ruidos de un disco duro al usarla junto a un SSD</a></h4>
+    <a href='https://computerhoy.com/noticias/nostalgicos-placa-genera-ruidos-disco-duro-usarla-junto-ssd-1134265' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/ssd-hdd-2831271.jpg' alt='Para los nostálgicos: esta placa genera los ruidos de un disco duro al usarla junto a un SSD' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/chaos-malware-ha-infectado-millones-ordenadores-windows-linux-dispositivos-1134261'>Así es Chaos: el malware que ha infectado millones de ordenadores Windows, Linux y dispositivos</a></h4>
     <a href='https://computerhoy.com/noticias/chaos-malware-ha-infectado-millones-ordenadores-windows-linux-dispositivos-1134261' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/comprueba-movil-detectan-peligroso-malware-bancario-6-aplicaciones-antivirus-android-2669659.jpg' alt='Así es Chaos: el malware que ha infectado millones de ordenadores Windows, Linux y dispositivos' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/netflix-adelanta-cancela-serie-grabar-primera-temporada-ni-estrenara-1134213'>Netflix se adelanta y cancela una serie tras grabar la primera temporada, ni la estrenará</a></h4>
     <a href='https://computerhoy.com/noticias/netflix-adelanta-cancela-serie-grabar-primera-temporada-ni-estrenara-1134213' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/grendel-2831257.jpg' alt='Netflix se adelanta y cancela una serie tras grabar la primera temporada, ni la estrenará' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/portatil-windows-11-pesa-15-kg-sorprendentemente-barato-huawei-399-euros-1133075'>Este portátil con Windows 11 pesa 1,5 kg y es sorprendentemente barato: de Huawei y por 399 euros</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/portatil-windows-11-pesa-15-kg-sorprendentemente-barato-huawei-399-euros-1133075' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/huawei-matebook-d15-2369105.jpg' alt='Este portátil con Windows 11 pesa 1,5 kg y es sorprendentemente barato: de Huawei y por 399 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/funciona-robot-barista-realiza-cafes-premium-creaciones-artisticas-1134219'>Así funciona el robot barista que realiza cafés premium con creaciones artísticas gracias a la IA</a></h4>
-    <a href='https://computerhoy.com/noticias/funciona-robot-barista-realiza-cafes-premium-creaciones-artisticas-1134219' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/robot-barista-2831149.jpg' alt='Así funciona el robot barista que realiza cafés premium con creaciones artísticas gracias a la IA' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/mediatek-finalmente-pillo-qualcomm-dimensity-9000-bestia-1134193'>MediaTek finalmente pilló a Qualcomm, Dimensity 9000+ es una bestia</a></h4>
-    <a href='https://computerhoy.com/noticias/mediatek-finalmente-pillo-qualcomm-dimensity-9000-bestia-1134193' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/mediatek-dimensity-9000-2738041.jpg' alt='MediaTek finalmente pilló a Qualcomm, Dimensity 9000+ es una bestia' />
     </a>
 </div>
 
