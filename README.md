@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/admitida-demanda-ocu-apple-tienes-iphone-antiguo-podrias-recibir-cuantiosa-compensacion-1134537'>Admitida la demanda de la OCU contra Apple: si tienes un iPhone antiguo podrías recibir una cuantiosa compensación</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/admitida-demanda-ocu-apple-tienes-iphone-antiguo-podrias-recibir-cuantiosa-compensacion-1134537' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/12/iphone-6-2156859.jpg' alt='Admitida la demanda de la OCU contra Apple: si tienes un iPhone antiguo podrías recibir una cuantiosa compensación' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/todo-sabemos-acerca-nuevos-google-pixel-7-pixel-7-pro-1134501'>Todo lo que sabemos acerca de los nuevos Google Pixel 7 y Pixel 7 Pro</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/todo-sabemos-acerca-nuevos-google-pixel-7-pixel-7-pro-1134501' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/google-pixel-7-google-tablet-google-wallet-todas-novedades-software-google-i-ano-2699771.jpg' alt='Todo lo que sabemos acerca de los nuevos Google Pixel 7 y Pixel 7 Pro' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/compartes-cuenta-netflix-sencillo-cambio-evitara-arruinen-perfil-1134525'>¿Compartes cuenta de Netflix? Este sencillo cambio evitará que arruinen tu perfil</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/compartes-cuenta-netflix-sencillo-cambio-evitara-arruinen-perfil-1134525' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/netflix-app-tv-2682771.jpg' alt='¿Compartes cuenta de Netflix? Este sencillo cambio evitará que arruinen tu perfil' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/amazon-descuentos-productos-liquidacion-1134257'>Amazon tiene todos estos chollos en liquidación, con un 10% de descuento extra con este truco</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/amazon-descuentos-productos-liquidacion-1134257' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/samsung-galaxy-watch-5-pro-analisis-opinion-2809243.jpg' alt='Amazon tiene todos estos chollos en liquidación, con un 10% de descuento extra con este truco' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/oneplus-nord-watch-oficial-bateria-30-dias-pantalla-amoled-nuevo-smartwatch-barato-1134475'>OnePlus Nord Watch es oficial: batería para 30 días y pantalla AMOLED para este nuevo smartwatch barato</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/oneplus-nord-watch-oficial-bateria-30-dias-pantalla-amoled-nuevo-smartwatch-barato-1134475' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/oneplus-nord-watch-oficial-bateria-30-dias-pantalla-amoled-nuevo-smartwatch-barato-2831793.jpg' alt='OnePlus Nord Watch es oficial: batería para 30 días y pantalla AMOLED para este nuevo smartwatch barato' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/7-mejores-alternativas-buscador-google-1134453'>Las 7 mejores alternativas al buscador Google</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/7-mejores-alternativas-buscador-google-1134453' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/06/mejores-buscadores-alternativos-google-2019_0.jpg' alt='Las 7 mejores alternativas al buscador Google' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/como-funciona-steam-chromebook-1134455'>Así es cómo funciona Steam en los Chromebook</a></h4>
-    <a href='https://computerhoy.com/noticias/como-funciona-steam-chromebook-1134455' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/steam-2831727.jpg' alt='Así es cómo funciona Steam en los Chromebook' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/metaverso-duda-otro-gigante-tech-duda-futuro-1134451'>El metaverso en duda: otro gigante tech duda de su futuro</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/metaverso-duda-otro-gigante-tech-duda-futuro-1134451' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/tim-cook-ceo-apple-2638845.jpg' alt='El metaverso en duda: otro gigante tech duda de su futuro' />
     </a>
 </div>
 
