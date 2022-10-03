@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/5-grandes-estrenos-disney-octubre-hay-todos-gustos-1134303'>Los 5 grandes estrenos de Disney+ en octubre, hay para todos los gustos</a></h4>
+    <a href='https://computerhoy.com/noticias/5-grandes-estrenos-disney-octubre-hay-todos-gustos-1134303' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/descuentazo-75-disney-apuntate-mes-solo-199-euros-2807863.jpg' alt='Los 5 grandes estrenos de Disney+ en octubre, hay para todos los gustos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/trucos-mentales-mejorar-mejorar-memoria-ralentizar-envejecimiento-cerebral-1134313'>Trucos para mejorar la memoria y ralentizar el envejecimiento del cerebro</a></h4>
+    <a href='https://computerhoy.com/noticias/trucos-mentales-mejorar-mejorar-memoria-ralentizar-envejecimiento-cerebral-1134313' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/cerebro-pieza-puzle-2309799.jpg' alt='Trucos para mejorar la memoria y ralentizar el envejecimiento del cerebro' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/aspiradora-inalambrica-xiaomi-va-dyson-potencia-precio-rompedores-1133087'>Esta aspiradora inalámbrica Xiaomi va a por Dyson: potencia y precio rompedores</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/aspiradora-inalambrica-xiaomi-va-dyson-potencia-precio-rompedores-1133087' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/xiaomi-mi-vacuum-cleaner-g10-2829301.jpg' alt='Esta aspiradora inalámbrica Xiaomi va a por Dyson: potencia y precio rompedores' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/nostalgicos-placa-genera-ruidos-disco-duro-usarla-junto-ssd-1134265'>Para los nostálgicos: esta placa genera los ruidos de un disco duro al usarla junto a un SSD</a></h4>
     <a href='https://computerhoy.com/noticias/nostalgicos-placa-genera-ruidos-disco-duro-usarla-junto-ssd-1134265' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/ssd-hdd-2831271.jpg' alt='Para los nostálgicos: esta placa genera los ruidos de un disco duro al usarla junto a un SSD' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/chaos-malware-ha-infectado-millones-ordenadores-windows-linux-dispositivos-1134261'>Así es Chaos: el malware que ha infectado millones de ordenadores Windows, Linux y dispositivos</a></h4>
-    <a href='https://computerhoy.com/noticias/chaos-malware-ha-infectado-millones-ordenadores-windows-linux-dispositivos-1134261' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/comprueba-movil-detectan-peligroso-malware-bancario-6-aplicaciones-antivirus-android-2669659.jpg' alt='Así es Chaos: el malware que ha infectado millones de ordenadores Windows, Linux y dispositivos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/netflix-adelanta-cancela-serie-grabar-primera-temporada-ni-estrenara-1134213'>Netflix se adelanta y cancela una serie tras grabar la primera temporada, ni la estrenará</a></h4>
-    <a href='https://computerhoy.com/noticias/netflix-adelanta-cancela-serie-grabar-primera-temporada-ni-estrenara-1134213' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/grendel-2831257.jpg' alt='Netflix se adelanta y cancela una serie tras grabar la primera temporada, ni la estrenará' />
     </a>
 </div>
 
