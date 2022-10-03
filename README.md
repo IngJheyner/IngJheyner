@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/linux-60-ya-disponible-novedades-1134571'>Linux 6.0 ya está disponible: estas son sus novedades</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/linux-60-ya-disponible-novedades-1134571' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/linux-60-ya-disponible-estas-son-novedades-2831987.jpg' alt='Linux 6.0 ya está disponible: estas son sus novedades' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/kit-alarma-ring-5-dispositivos-descuento-1134563'>Este kit de alarma de Ring, formado por 5 dispositivos, protegerá tu casa por completo sin cuotas, y tiene un 25% de descuento</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/kit-alarma-ring-5-dispositivos-descuento-1134563' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/kit-alarma-ring-formado-5-dispositivos-protegera-casa-completo-cuotas-2831983.jpg' alt='Este kit de alarma de Ring, formado por 5 dispositivos, protegerá tu casa por completo sin cuotas, y tiene un 25% de descuento' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/admitida-demanda-ocu-apple-tienes-iphone-antiguo-podrias-recibir-cuantiosa-compensacion-1134537'>Admitida la demanda de la OCU contra Apple: si tienes un iPhone antiguo, podrías recibir una cuantiosa compensación</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/admitida-demanda-ocu-apple-tienes-iphone-antiguo-podrias-recibir-cuantiosa-compensacion-1134537' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/12/iphone-6-2156859.jpg' alt='Admitida la demanda de la OCU contra Apple: si tienes un iPhone antiguo, podrías recibir una cuantiosa compensación' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/todo-sabemos-acerca-nuevos-google-pixel-7-pixel-7-pro-1134501'>Todo lo que sabemos acerca de los nuevos Google Pixel 7 y Pixel 7 Pro</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/todo-sabemos-acerca-nuevos-google-pixel-7-pixel-7-pro-1134501' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/google-pixel-7-google-tablet-google-wallet-todas-novedades-software-google-i-ano-2699771.jpg' alt='Todo lo que sabemos acerca de los nuevos Google Pixel 7 y Pixel 7 Pro' />
     </a>
 </div>
 
