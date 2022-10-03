@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/chaos-malware-ha-infectado-millones-ordenadores-windows-linux-dispositivos-1134261'>Así es Chaos: el malware que ha infectado millones de ordenadores Windows, Linux y dispositivos</a></h4>
+    <a href='https://computerhoy.com/noticias/chaos-malware-ha-infectado-millones-ordenadores-windows-linux-dispositivos-1134261' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/comprueba-movil-detectan-peligroso-malware-bancario-6-aplicaciones-antivirus-android-2669659.jpg' alt='Así es Chaos: el malware que ha infectado millones de ordenadores Windows, Linux y dispositivos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/netflix-adelanta-cancela-serie-grabar-primera-temporada-ni-estrenara-1134213'>Netflix se adelanta y cancela una serie tras grabar la primera temporada, ni la estrenará</a></h4>
+    <a href='https://computerhoy.com/noticias/netflix-adelanta-cancela-serie-grabar-primera-temporada-ni-estrenara-1134213' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/grendel-2831257.jpg' alt='Netflix se adelanta y cancela una serie tras grabar la primera temporada, ni la estrenará' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/portatil-windows-11-pesa-15-kg-sorprendentemente-barato-huawei-399-euros-1133075'>Este portátil con Windows 11 pesa 1,5 kg y es sorprendentemente barato: de Huawei y por 399 euros</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/portatil-windows-11-pesa-15-kg-sorprendentemente-barato-huawei-399-euros-1133075' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/huawei-matebook-d15-2369105.jpg' alt='Este portátil con Windows 11 pesa 1,5 kg y es sorprendentemente barato: de Huawei y por 399 euros' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/mediatek-finalmente-pillo-qualcomm-dimensity-9000-bestia-1134193'>MediaTek finalmente pilló a Qualcomm, Dimensity 9000+ es una bestia</a></h4>
     <a href='https://computerhoy.com/noticias/mediatek-finalmente-pillo-qualcomm-dimensity-9000-bestia-1134193' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/mediatek-dimensity-9000-2738041.jpg' alt='MediaTek finalmente pilló a Qualcomm, Dimensity 9000+ es una bestia' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/consejos-nasa-mes-octubre-te-gusta-observar-estrellas-1134199'>Los consejos de la NASA para este mes de octubre si te gusta observar estrellas</a></h4>
-    <a href='https://computerhoy.com/noticias/consejos-nasa-mes-octubre-te-gusta-observar-estrellas-1134199' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/lactea-lluvia-meteoros-perseidas-2734167.jpg' alt='Los consejos de la NASA para este mes de octubre si te gusta observar estrellas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/samsung-galaxy-a12-merece-pena-caracteristicas-alternativas-baratas-1133975'>Samsung Galaxy A12: ¿merece la pena? Características y alternativas baratas</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/samsung-galaxy-a12-merece-pena-caracteristicas-alternativas-baratas-1133975' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/samsung-galaxy-a12-2830897.jpg' alt='Samsung Galaxy A12: ¿merece la pena? Características y alternativas baratas' />
     </a>
 </div>
 
