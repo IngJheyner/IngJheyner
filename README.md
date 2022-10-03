@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/7-mejores-alternativas-buscador-google-1134453'>Las 7 mejores alternativas al buscador Google</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/7-mejores-alternativas-buscador-google-1134453' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/06/mejores-buscadores-alternativos-google-2019_0.jpg' alt='Las 7 mejores alternativas al buscador Google' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/como-funciona-steam-chromebook-1134455'>Así es cómo funciona Steam en los Chromebook</a></h4>
+    <a href='https://computerhoy.com/noticias/como-funciona-steam-chromebook-1134455' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/steam-2831727.jpg' alt='Así es cómo funciona Steam en los Chromebook' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/metaverso-duda-otro-gigante-tech-duda-futuro-1134451'>El metaverso en duda: otro gigante tech duda de su futuro</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/metaverso-duda-otro-gigante-tech-duda-futuro-1134451' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/tim-cook-ceo-apple-2638845.jpg' alt='El metaverso en duda: otro gigante tech duda de su futuro' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/stickers-whatsapp-como-instalarlos-50-paquetes-gratis-907421'>Stickers para WhatsApp: cómo instalarlos y más de 70 paquetes gratis para descargar en iOS y Android</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/stickers-whatsapp-como-instalarlos-50-paquetes-gratis-907421' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/stickers-whatsapp-como-instalarlos-50-paquetes-gratis-descargar-ios-android-2423373.jpg' alt='Stickers para WhatsApp: cómo instalarlos y más de 70 paquetes gratis para descargar en iOS y Android' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/nothing-prepara-lanzar-nuevos-auriculares-ear-stick-carcasa-forma-barra-labios-1134403'>Nothing se prepara para lanzar sus nuevos auriculares TWS con una carcasa en forma de barra de labios</a></h4>
-    <a href='https://computerhoy.com/noticias/nothing-prepara-lanzar-nuevos-auriculares-ear-stick-carcasa-forma-barra-labios-1134403' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/nothing-prepara-lanzar-nuevos-auriculares-ear-stick-carcasa-forma-barra-labios-2831587.jpg' alt='Nothing se prepara para lanzar sus nuevos auriculares TWS con una carcasa en forma de barra de labios' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/portatil-144-hz-1-tb-ssd-bestia-potencia-ahora-rompe-barrera-1000-euros-1132445'>Este portátil con 144 Hz y 1 TB de SSD es una bestia de potencia que ahora rompe la barrera de los 1.000 euros</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/portatil-144-hz-1-tb-ssd-bestia-potencia-ahora-rompe-barrera-1000-euros-1132445' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/asus-rog-zephyrus-14-2827971.jpg' alt='Este portátil con 144 Hz y 1 TB de SSD es una bestia de potencia que ahora rompe la barrera de los 1.000 euros' />
     </a>
 </div>
 
