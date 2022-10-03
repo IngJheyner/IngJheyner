@@ -50,9 +50,17 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/admitida-demanda-ocu-apple-tienes-iphone-antiguo-podrias-recibir-cuantiosa-compensacion-1134537'>Admitida la demanda de la OCU contra Apple: si tienes un iPhone antiguo podrías recibir una cuantiosa compensación</a></h4>
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/confunden-reestreno-avatar-con-avatar-2-sentido-del-agua-devolucion-dinero-1134553'>Cientos de personas piden la devolución del dinero en el reestreno de Avatar, porque pensaban que iban a ver Avatar 2</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/confunden-reestreno-avatar-con-avatar-2-sentido-del-agua-devolucion-dinero-1134553' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/cientos-personas-piden-devolucion-dinero-reestreno-avatar-porque-pensaban-iban-ver-avatar-2-2831973.jpg' alt='Cientos de personas piden la devolución del dinero en el reestreno de Avatar, porque pensaban que iban a ver Avatar 2' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/admitida-demanda-ocu-apple-tienes-iphone-antiguo-podrias-recibir-cuantiosa-compensacion-1134537'>Admitida la demanda de la OCU contra Apple: si tienes un iPhone antiguo, podrías recibir una cuantiosa compensación</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/admitida-demanda-ocu-apple-tienes-iphone-antiguo-podrias-recibir-cuantiosa-compensacion-1134537' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/12/iphone-6-2156859.jpg' alt='Admitida la demanda de la OCU contra Apple: si tienes un iPhone antiguo podrías recibir una cuantiosa compensación' />
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/12/iphone-6-2156859.jpg' alt='Admitida la demanda de la OCU contra Apple: si tienes un iPhone antiguo, podrías recibir una cuantiosa compensación' />
     </a>
 </div>
 
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/amazon-descuentos-productos-liquidacion-1134257'>Amazon tiene todos estos chollos en liquidación, con un 10% de descuento extra con este truco</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/amazon-descuentos-productos-liquidacion-1134257' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/samsung-galaxy-watch-5-pro-analisis-opinion-2809243.jpg' alt='Amazon tiene todos estos chollos en liquidación, con un 10% de descuento extra con este truco' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/oneplus-nord-watch-oficial-bateria-30-dias-pantalla-amoled-nuevo-smartwatch-barato-1134475'>OnePlus Nord Watch es oficial: batería para 30 días y pantalla AMOLED para este nuevo smartwatch barato</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/oneplus-nord-watch-oficial-bateria-30-dias-pantalla-amoled-nuevo-smartwatch-barato-1134475' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/oneplus-nord-watch-oficial-bateria-30-dias-pantalla-amoled-nuevo-smartwatch-barato-2831793.jpg' alt='OnePlus Nord Watch es oficial: batería para 30 días y pantalla AMOLED para este nuevo smartwatch barato' />
     </a>
 </div>
 
