@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/acer-reinventa-tarjetas-graficas-diseno-loco-intel-arc-a770-1134389'>Acer reinventa las tarjetas gráficas con el diseño más loco de la Intel Arc A770</a></h4>
+    <a href='https://computerhoy.com/noticias/acer-reinventa-tarjetas-graficas-diseno-loco-intel-arc-a770-1134389' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/intel-revela-especificaciones-oficiales-todas-tarjetas-intel-arc-2809233.jpg' alt='Acer reinventa las tarjetas gráficas con el diseño más loco de la Intel Arc A770' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/stickers-whatsapp-como-instalarlos-50-paquetes-gratis-907421'>Stickers para WhatsApp: cómo instalarlos y más de 70 paquetes gratis para descargar en iOS y Android</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/stickers-whatsapp-como-instalarlos-50-paquetes-gratis-907421' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/stickers-whatsapp-como-instalarlos-50-paquetes-gratis-descargar-ios-android-2423373.jpg' alt='Stickers para WhatsApp: cómo instalarlos y más de 70 paquetes gratis para descargar en iOS y Android' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/asus-renueva-portatiles-expertbook-b5-expertbook-b5-flip-16-pulgadas-pantalla-oled-1610-1134351'>ASUS renueva sus portátiles ExpertBook B5 y ExpertBook B5 Flip con 16 pulgadas de pantalla OLED y 16:10</a></h4>
     <a href='https://computerhoy.com/noticias/asus-renueva-portatiles-expertbook-b5-expertbook-b5-flip-16-pulgadas-pantalla-oled-1610-1134351' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/asus-renueva-portatiles-expertbook-b5-expertbook-b5-flip-16-pulgadas-pantalla-oled-1610-2831473.jpg' alt='ASUS renueva sus portátiles ExpertBook B5 y ExpertBook B5 Flip con 16 pulgadas de pantalla OLED y 16:10' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/honor-x40-gt-procesador-snapdragon-6-gen-1-pantalla-oled-1134375'>Así es el Honor X40 GT: procesador Snapdragon 6 Gen 1 y pantalla OLED</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/honor-x40-gt-procesador-snapdragon-6-gen-1-pantalla-oled-1134375' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/honor-x40-gt-2831539.jpg' alt='Así es el Honor X40 GT: procesador Snapdragon 6 Gen 1 y pantalla OLED' />
     </a>
 </div>
 
