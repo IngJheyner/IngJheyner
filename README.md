@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/samsung-galaxy-a12-merece-pena-caracteristicas-alternativas-baratas-1133975'>Samsung Galaxy A12: ¿merece la pena? Características y alternativas baratas</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/samsung-galaxy-a12-merece-pena-caracteristicas-alternativas-baratas-1133975' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/samsung-galaxy-a12-2830897.jpg' alt='Samsung Galaxy A12: ¿merece la pena? Características y alternativas baratas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/38-noticias-tecnologia-comenzar-manana-informado-ultimo-1134167'>38 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/38-noticias-tecnologia-comenzar-manana-informado-ultimo-1134167' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/38-noticias-tecnologia-comenzar-manana-informado-ultimo-2831081.jpg' alt='38 noticias de tecnología para comenzar la mañana informado de lo último' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/primer-ferry-electrico-autonomo-transporta-pasajeros-noruega-1133111'>El primer ferry eléctrico y autónomo ya transporta pasajeros en Noruega</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/primer-ferry-electrico-autonomo-transporta-pasajeros-noruega-1133111' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/primer-ferry-electrico-autonomo-ya-transporta-pasajeros-noruega-2829361.jpg' alt='El primer ferry eléctrico y autónomo ya transporta pasajeros en Noruega' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/nuevo-record-computacion-cuantica-primer-procesador-6-qubits-fabricado-silicio-1133983'>Nuevo récord en la computación cuántica: el primer procesador de 6 qubits fabricado con silicio</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/nuevo-record-computacion-cuantica-primer-procesador-6-qubits-fabricado-silicio-1133983' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/nuevo-record-computacion-cuantica-primer-procesador-6-qubits-fabricado-silicio-2830905.jpg' alt='Nuevo récord en la computación cuántica: el primer procesador de 6 qubits fabricado con silicio' />
     </a>
 </div>
 
