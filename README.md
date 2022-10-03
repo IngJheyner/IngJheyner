@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/38-noticias-tecnologia-comenzar-manana-informado-ultimo-1134167'>38 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/38-noticias-tecnologia-comenzar-manana-informado-ultimo-1134167' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/38-noticias-tecnologia-comenzar-manana-informado-ultimo-2831081.jpg' alt='38 noticias de tecnología para comenzar la mañana informado de lo último' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/cataratas-sangre-antartida-vida-alienigena-posible-1133985'>Las Cataratas de Sangre, una inquietante visión en plena Antártida, y una prueba de que la vida alienígena es posible</a></h4>
+    <a href='https://computerhoy.com/noticias/life/cataratas-sangre-antartida-vida-alienigena-posible-1133985' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/cataratas-sangre-inquietante-vision-plena-antartida-prueba-vida-alienigena-posible-2830909.jpg' alt='Las Cataratas de Sangre, una inquietante visión en plena Antártida, y una prueba de que la vida alienígena es posible' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-potentes-baratos-jugar-android-1041223'>10 móviles potentes y baratos para jugar a cualquier juego de Android</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-potentes-baratos-jugar-android-1041223' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/samsung-galaxy-s21-fe-analisis-opinion-2592595.jpg' alt='10 móviles potentes y baratos para jugar a cualquier juego de Android' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/primer-ferry-electrico-autonomo-transporta-pasajeros-noruega-1133111'>El primer ferry eléctrico y autónomo ya transporta pasajeros en Noruega</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/primer-ferry-electrico-autonomo-transporta-pasajeros-noruega-1133111' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/primer-ferry-electrico-autonomo-ya-transporta-pasajeros-noruega-2829361.jpg' alt='El primer ferry eléctrico y autónomo ya transporta pasajeros en Noruega' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/nuevo-record-computacion-cuantica-primer-procesador-6-qubits-fabricado-silicio-1133983'>Nuevo récord en la computación cuántica: el primer procesador de 6 qubits fabricado con silicio</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/nuevo-record-computacion-cuantica-primer-procesador-6-qubits-fabricado-silicio-1133983' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/nuevo-record-computacion-cuantica-primer-procesador-6-qubits-fabricado-silicio-2830905.jpg' alt='Nuevo récord en la computación cuántica: el primer procesador de 6 qubits fabricado con silicio' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/mision-artemis-i-luna-fecha-lanzamiento-noviembre-1133981'>Una buena y una mala noticia de la misión Artemis I a la Luna, que ya tiene nueva fecha de lanzamiento</a></h4>
-    <a href='https://computerhoy.com/noticias/life/mision-artemis-i-luna-fecha-lanzamiento-noviembre-1133981' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/09/nasa-confirma-pondra-mujer-luna-2024-explica-detalles-mision-2075383.jpg' alt='Una buena y una mala noticia de la misión Artemis I a la Luna, que ya tiene nueva fecha de lanzamiento' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/google-gboard-bar-teclado-barra--teclas-en-fila-video-1133977'>Google Japón presenta un teclado de 1,6 metros en donde todas las teclas están en fila (vídeo)</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/google-gboard-bar-teclado-barra--teclas-en-fila-video-1133977' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/verticalimage1664729045708-2830893.jpg' alt='Google Japón presenta un teclado de 1,6 metros en donde todas las teclas están en fila (vídeo)' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-fundas-airpods-pro-2-1133161'>Mejores fundas para los AirPods Pro 2 que puedes comprar</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-fundas-airpods-pro-2-1133161' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/airpods-pro-2830237.jpg' alt='Mejores fundas para los AirPods Pro 2 que puedes comprar' />
     </a>
 </div>
 
