@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/amazon-descuentos-productos-liquidacion-1134257'>Amazon tiene todos estos chollos en liquidación, con un 10% de descuento extra con este truco</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/amazon-descuentos-productos-liquidacion-1134257' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/samsung-galaxy-watch-5-pro-analisis-opinion-2809243.jpg' alt='Amazon tiene todos estos chollos en liquidación, con un 10% de descuento extra con este truco' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/oneplus-nord-watch-oficial-bateria-30-dias-pantalla-amoled-nuevo-smartwatch-barato-1134475'>OnePlus Nord Watch es oficial: batería para 30 días y pantalla AMOLED para este nuevo smartwatch barato</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/oneplus-nord-watch-oficial-bateria-30-dias-pantalla-amoled-nuevo-smartwatch-barato-1134475' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/oneplus-nord-watch-oficial-bateria-30-dias-pantalla-amoled-nuevo-smartwatch-barato-2831793.jpg' alt='OnePlus Nord Watch es oficial: batería para 30 días y pantalla AMOLED para este nuevo smartwatch barato' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/7-mejores-alternativas-buscador-google-1134453'>Las 7 mejores alternativas al buscador Google</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/7-mejores-alternativas-buscador-google-1134453' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/06/mejores-buscadores-alternativos-google-2019_0.jpg' alt='Las 7 mejores alternativas al buscador Google' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/metaverso-duda-otro-gigante-tech-duda-futuro-1134451'>El metaverso en duda: otro gigante tech duda de su futuro</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/metaverso-duda-otro-gigante-tech-duda-futuro-1134451' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/tim-cook-ceo-apple-2638845.jpg' alt='El metaverso en duda: otro gigante tech duda de su futuro' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/acer-reinventa-tarjetas-graficas-diseno-loco-intel-arc-a770-1134389'>Acer reinventa las tarjetas gráficas con el diseño más loco de la Intel Arc A770</a></h4>
-    <a href='https://computerhoy.com/noticias/acer-reinventa-tarjetas-graficas-diseno-loco-intel-arc-a770-1134389' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/intel-revela-especificaciones-oficiales-todas-tarjetas-intel-arc-2809233.jpg' alt='Acer reinventa las tarjetas gráficas con el diseño más loco de la Intel Arc A770' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/stickers-whatsapp-como-instalarlos-50-paquetes-gratis-907421'>Stickers para WhatsApp: cómo instalarlos y más de 70 paquetes gratis para descargar en iOS y Android</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/stickers-whatsapp-como-instalarlos-50-paquetes-gratis-907421' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/stickers-whatsapp-como-instalarlos-50-paquetes-gratis-descargar-ios-android-2423373.jpg' alt='Stickers para WhatsApp: cómo instalarlos y más de 70 paquetes gratis para descargar en iOS y Android' />
     </a>
 </div>
 
