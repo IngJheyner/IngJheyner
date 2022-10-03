@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/portatil-144-hz-1-tb-ssd-bestia-potencia-ahora-rompe-barrera-1000-euros-1132445'>Este portátil con 144 Hz y 1 TB de SSD es una bestia de potencia que ahora rompe la barrera de los 1.000 euros</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/portatil-144-hz-1-tb-ssd-bestia-potencia-ahora-rompe-barrera-1000-euros-1132445' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/asus-rog-zephyrus-14-2827971.jpg' alt='Este portátil con 144 Hz y 1 TB de SSD es una bestia de potencia que ahora rompe la barrera de los 1.000 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/asus-renueva-portatiles-expertbook-b5-expertbook-b5-flip-16-pulgadas-pantalla-oled-1610-1134351'>ASUS renueva sus portátiles ExpertBook B5 y ExpertBook B5 Flip con 16 pulgadas de pantalla OLED y 16:10</a></h4>
+    <a href='https://computerhoy.com/noticias/asus-renueva-portatiles-expertbook-b5-expertbook-b5-flip-16-pulgadas-pantalla-oled-1610-1134351' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/asus-renueva-portatiles-expertbook-b5-expertbook-b5-flip-16-pulgadas-pantalla-oled-1610-2831473.jpg' alt='ASUS renueva sus portátiles ExpertBook B5 y ExpertBook B5 Flip con 16 pulgadas de pantalla OLED y 16:10' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/honor-x40-gt-procesador-snapdragon-6-gen-1-pantalla-oled-1134375'>Así es el Honor X40 GT: procesador Snapdragon 6 Gen 1 y pantalla OLED</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/honor-x40-gt-procesador-snapdragon-6-gen-1-pantalla-oled-1134375' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/honor-x40-gt-2831539.jpg' alt='Así es el Honor X40 GT: procesador Snapdragon 6 Gen 1 y pantalla OLED' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/quien-elon-musk-paypal-tesla-space-x-historia-exitos-fracasos-1133115'>¿Quién es Elon Musk? PayPal, Tesla, Space X: historia, éxitos y fracasos</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/quien-elon-musk-paypal-tesla-space-x-historia-exitos-fracasos-1133115' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/elon-musk-2829389.jpg' alt='¿Quién es Elon Musk? PayPal, Tesla, Space X: historia, éxitos y fracasos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/5-grandes-estrenos-disney-octubre-hay-todos-gustos-1134303'>Los 5 grandes estrenos de Disney+ en octubre, hay para todos los gustos</a></h4>
     <a href='https://computerhoy.com/noticias/5-grandes-estrenos-disney-octubre-hay-todos-gustos-1134303' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/descuentazo-75-disney-apuntate-mes-solo-199-euros-2807863.jpg' alt='Los 5 grandes estrenos de Disney+ en octubre, hay para todos los gustos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/trucos-mentales-mejorar-mejorar-memoria-ralentizar-envejecimiento-cerebral-1134313'>Trucos para mejorar la memoria y ralentizar el envejecimiento del cerebro</a></h4>
-    <a href='https://computerhoy.com/noticias/trucos-mentales-mejorar-mejorar-memoria-ralentizar-envejecimiento-cerebral-1134313' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/cerebro-pieza-puzle-2309799.jpg' alt='Trucos para mejorar la memoria y ralentizar el envejecimiento del cerebro' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/aspiradora-inalambrica-xiaomi-va-dyson-potencia-precio-rompedores-1133087'>Esta aspiradora inalámbrica Xiaomi va a por Dyson: potencia y precio rompedores</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/aspiradora-inalambrica-xiaomi-va-dyson-potencia-precio-rompedores-1133087' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/xiaomi-mi-vacuum-cleaner-g10-2829301.jpg' alt='Esta aspiradora inalámbrica Xiaomi va a por Dyson: potencia y precio rompedores' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/youtube-sigue-probando-funciones-ultima-no-te-va-gustar-4k-solo-usuarios-pago-1134281'>YouTube sigue probando funciones y esta última no te va a gustar: 4K solo para los usuarios de pago</a></h4>
-    <a href='https://computerhoy.com/noticias/youtube-sigue-probando-funciones-ultima-no-te-va-gustar-4k-solo-usuarios-pago-1134281' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/youtube-premium-2718177.jpg' alt='YouTube sigue probando funciones y esta última no te va a gustar: 4K solo para los usuarios de pago' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/nostalgicos-placa-genera-ruidos-disco-duro-usarla-junto-ssd-1134265'>Para los nostálgicos: esta placa genera los ruidos de un disco duro al usarla junto a un SSD</a></h4>
-    <a href='https://computerhoy.com/noticias/nostalgicos-placa-genera-ruidos-disco-duro-usarla-junto-ssd-1134265' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/ssd-hdd-2831271.jpg' alt='Para los nostálgicos: esta placa genera los ruidos de un disco duro al usarla junto a un SSD' />
     </a>
 </div>
 
