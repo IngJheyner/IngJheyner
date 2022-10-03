@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/portatil-windows-11-pesa-15-kg-sorprendentemente-barato-huawei-399-euros-1133075'>Este portátil con Windows 11 pesa 1,5 kg y es sorprendentemente barato: de Huawei y por 399 euros</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/portatil-windows-11-pesa-15-kg-sorprendentemente-barato-huawei-399-euros-1133075' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/huawei-matebook-d15-2369105.jpg' alt='Este portátil con Windows 11 pesa 1,5 kg y es sorprendentemente barato: de Huawei y por 399 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/funciona-robot-barista-realiza-cafes-premium-creaciones-artisticas-1134219'>Así funciona el robot barista que realiza cafés premium con creaciones artísticas gracias a la IA</a></h4>
+    <a href='https://computerhoy.com/noticias/funciona-robot-barista-realiza-cafes-premium-creaciones-artisticas-1134219' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/robot-barista-2831149.jpg' alt='Así funciona el robot barista que realiza cafés premium con creaciones artísticas gracias a la IA' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/mediatek-finalmente-pillo-qualcomm-dimensity-9000-bestia-1134193'>MediaTek finalmente pilló a Qualcomm, Dimensity 9000+ es una bestia</a></h4>
+    <a href='https://computerhoy.com/noticias/mediatek-finalmente-pillo-qualcomm-dimensity-9000-bestia-1134193' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/mediatek-dimensity-9000-2738041.jpg' alt='MediaTek finalmente pilló a Qualcomm, Dimensity 9000+ es una bestia' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/consejos-nasa-mes-octubre-te-gusta-observar-estrellas-1134199'>Los consejos de la NASA para este mes de octubre si te gusta observar estrellas</a></h4>
+    <a href='https://computerhoy.com/noticias/consejos-nasa-mes-octubre-te-gusta-observar-estrellas-1134199' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/lactea-lluvia-meteoros-perseidas-2734167.jpg' alt='Los consejos de la NASA para este mes de octubre si te gusta observar estrellas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/samsung-galaxy-a12-merece-pena-caracteristicas-alternativas-baratas-1133975'>Samsung Galaxy A12: ¿merece la pena? Características y alternativas baratas</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/samsung-galaxy-a12-merece-pena-caracteristicas-alternativas-baratas-1133975' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/samsung-galaxy-a12-2830897.jpg' alt='Samsung Galaxy A12: ¿merece la pena? Características y alternativas baratas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/38-noticias-tecnologia-comenzar-manana-informado-ultimo-1134167'>38 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/38-noticias-tecnologia-comenzar-manana-informado-ultimo-1134167' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/38-noticias-tecnologia-comenzar-manana-informado-ultimo-2831081.jpg' alt='38 noticias de tecnología para comenzar la mañana informado de lo último' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/cataratas-sangre-antartida-vida-alienigena-posible-1133985'>Las Cataratas de Sangre, una inquietante visión en plena Antártida, y una prueba de que la vida alienígena es posible</a></h4>
-    <a href='https://computerhoy.com/noticias/life/cataratas-sangre-antartida-vida-alienigena-posible-1133985' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/cataratas-sangre-inquietante-vision-plena-antartida-prueba-vida-alienigena-posible-2830909.jpg' alt='Las Cataratas de Sangre, una inquietante visión en plena Antártida, y una prueba de que la vida alienígena es posible' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-potentes-baratos-jugar-android-1041223'>10 móviles potentes y baratos para jugar a cualquier juego de Android</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-potentes-baratos-jugar-android-1041223' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/samsung-galaxy-s21-fe-analisis-opinion-2592595.jpg' alt='10 móviles potentes y baratos para jugar a cualquier juego de Android' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/primer-ferry-electrico-autonomo-transporta-pasajeros-noruega-1133111'>El primer ferry eléctrico y autónomo ya transporta pasajeros en Noruega</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/primer-ferry-electrico-autonomo-transporta-pasajeros-noruega-1133111' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/primer-ferry-electrico-autonomo-ya-transporta-pasajeros-noruega-2829361.jpg' alt='El primer ferry eléctrico y autónomo ya transporta pasajeros en Noruega' />
     </a>
 </div>
 
