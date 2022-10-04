@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/chollo-xiami-bombilla-wifi-mucho-barata-piensas-menos-10-euros-1134267'>Chollo Xiami: bombilla con WiFi mucho más barata de lo que piensas, por menos de 10 euros</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/chollo-xiami-bombilla-wifi-mucho-barata-piensas-menos-10-euros-1134267' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/10/xiaomi-mi-smart-led-bulb-2111487.jpg' alt='Chollo Xiami: bombilla con WiFi mucho más barata de lo que piensas, por menos de 10 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/hemos-esperado-cinco-anos-ver-trailer-black-phanter-wakanda-forever-real-1134823'>Hemos esperado cinco años para ver este tráiler: ¡Black Panther: Wakanda Forever es real!</a></h4>
+    <a href='https://computerhoy.com/noticias/hemos-esperado-cinco-anos-ver-trailer-black-phanter-wakanda-forever-real-1134823' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/black-phanter-wakanda-forever-2832197.jpg' alt='Hemos esperado cinco años para ver este tráiler: ¡Black Panther: Wakanda Forever es real!' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/reconstruccion-adn-humanos-extintos-premio-nobel-medicina-2022-1134831'>La reconstrucción del ADN de humanos extintos, Premio Nobel de Medicina 2022</a></h4>
+    <a href='https://computerhoy.com/noticias/reconstruccion-adn-humanos-extintos-premio-nobel-medicina-2022-1134831' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/reconstruccion-adn-humanos-extintos-premio-nobel-medicina-2022-2832219.jpg' alt='La reconstrucción del ADN de humanos extintos, Premio Nobel de Medicina 2022' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/life/aniversario-lidl-mejores-ofertas-1134401'>Aniversario de Lidl: estas son sus mejores ofertas</a></h4>
     <a href='https://computerhoy.com/reportajes/life/aniversario-lidl-mejores-ofertas-1134401' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/centro-comercial-lidl-2831649.jpg' alt='Aniversario de Lidl: estas son sus mejores ofertas' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/28-noticias-tecnologia-comenzar-manana-informado-ultimo-1134791'>28 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/28-noticias-tecnologia-comenzar-manana-informado-ultimo-1134791' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/28-noticias-tecnologia-comenzar-manana-informado-ultimo-2832181.jpg' alt='28 noticias de tecnología para comenzar la mañana informado de lo último' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-relojes-gps-ninos-908537'>Estos son los mejores relojes con localizador GPS para niños</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-relojes-gps-ninos-908537' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/ninos-cogidos-mano-charco-2831171.jpg' alt='Estos son los mejores relojes con localizador GPS para niños' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/dependencia-emocional-consejos-1134789'>¿Sufres dependencia emocional de otra persona? Estos consejos te ayudarán a descubrirlo</a></h4>
-    <a href='https://computerhoy.com/noticias/life/dependencia-emocional-consejos-1134789' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/sufres-dependencia-emocional-otra-persona-estos-consejos-te-ayudaran-descubrirlo-2832179.jpg' alt='¿Sufres dependencia emocional de otra persona? Estos consejos te ayudarán a descubrirlo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/planta-controla-machete-video-1134585'>La planta que controla un machete con su "cerebro" (vídeo)</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/planta-controla-machete-video-1134585' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/verticalimage1664834864187-2831993.jpg' alt='La planta que controla un machete con su "cerebro" (vídeo)' />
     </a>
 </div>
 
