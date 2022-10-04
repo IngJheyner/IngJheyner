@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/dias-naranjas-pccomponentes-mejores-ofertas-1134843'>Días Naranjas de PcComponentes: estas son las 10 mejores ofertas</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/dias-naranjas-pccomponentes-mejores-ofertas-1134843' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/dias-naranjas-pccomponentes-2832375.jpg' alt='Días Naranjas de PcComponentes: estas son las 10 mejores ofertas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/google-home-recibe-gran-actualizacion-mejoras-diseno-nuevas-caracteristicas-ya-disponibles-1135141'>Google Home recibe su gran actualización: mejoras en diseño y nuevas características ya disponibles</a></h4>
+    <a href='https://computerhoy.com/noticias/google-home-recibe-gran-actualizacion-mejoras-diseno-nuevas-caracteristicas-ya-disponibles-1135141' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/google-home-recibe-gran-actualizacion-mejoras-diseno-nuevas-caracteristicas-ya-disponibles-2832935.jpg' alt='Google Home recibe su gran actualización: mejoras en diseño y nuevas características ya disponibles' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/modelos-basados-ia-seran-entrenados-entender-lenguaje-personas-discapacitadas-poder-ayudarlas-1134975'>Los modelos basados en IA serán entrenados para entender el lenguaje de personas discapacitadas </a></h4>
     <a href='https://computerhoy.com/noticias/modelos-basados-ia-seran-entrenados-entender-lenguaje-personas-discapacitadas-poder-ayudarlas-1134975' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/08/futuro-seguridad-movil-residira-inteligencia-artificial.jpg' alt='Los modelos basados en IA serán entrenados para entender el lenguaje de personas discapacitadas ' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/mejores-alternativas-gratis-word-2022-1135111'>Las mejores alternativas gratis a Word de 2022</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/mejores-alternativas-gratis-word-2022-1135111' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/09/microsoft-word_0.jpg' alt='Las mejores alternativas gratis a Word de 2022' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/samsung-galaxy-s23-desnudo-especificaciones-camaras-baterias-filtradas-1135095'>Los Samsung Galaxy S23 al desnudo: especificaciones de cámaras y baterías filtradas</a></h4>
-    <a href='https://computerhoy.com/noticias/samsung-galaxy-s23-desnudo-especificaciones-camaras-baterias-filtradas-1135095' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/supuesto-diseno-samsung-galaxy-s23-ultra-filtra-seria-identico-galaxy-s22-ultra-2829751.jpg' alt='Los Samsung Galaxy S23 al desnudo: especificaciones de cámaras y baterías filtradas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/realidad-coches-etiqueta-b-dgt-2023-no-tan-mala-como-cuentan-1135091'>La realidad de los coches con etiqueta B de la DGT en 2023 no es tan mala como cuentan</a></h4>
-    <a href='https://computerhoy.com/noticias/realidad-coches-etiqueta-b-dgt-2023-no-tan-mala-como-cuentan-1135091' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/etiquetas-dgt-2238245.jpg' alt='La realidad de los coches con etiqueta B de la DGT en 2023 no es tan mala como cuentan' />
     </a>
 </div>
 
