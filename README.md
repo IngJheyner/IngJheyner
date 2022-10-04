@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/modelos-basados-ia-seran-entrenados-entender-lenguaje-personas-discapacitadas-poder-ayudarlas-1134975'>Los modelos basados en IA serán entrenados para entender el lenguaje de personas discapacitadas </a></h4>
+    <a href='https://computerhoy.com/noticias/modelos-basados-ia-seran-entrenados-entender-lenguaje-personas-discapacitadas-poder-ayudarlas-1134975' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/08/futuro-seguridad-movil-residira-inteligencia-artificial.jpg' alt='Los modelos basados en IA serán entrenados para entender el lenguaje de personas discapacitadas ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-recuperar-mensajes-borrados-whatsapp-movil-web-1073255'>Cómo recuperar mensajes borrados de WhatsApp en móvil y web</a></h4>
+    <a href='https://computerhoy.com/tutoriales/tecnologia/como-recuperar-mensajes-borrados-whatsapp-movil-web-1073255' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/mensajes-eliminados-whatsapp-2723535.jpg' alt='Cómo recuperar mensajes borrados de WhatsApp en móvil y web' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/mejores-alternativas-gratis-word-2022-1135111'>Las mejores alternativas gratis a Word de 2022</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/mejores-alternativas-gratis-word-2022-1135111' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/09/microsoft-word_0.jpg' alt='Las mejores alternativas gratis a Word de 2022' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/samsung-galaxy-s23-desnudo-especificaciones-camaras-baterias-filtradas-1135095'>Los Samsung Galaxy S23 al desnudo: especificaciones de cámaras y baterías filtradas</a></h4>
+    <a href='https://computerhoy.com/noticias/samsung-galaxy-s23-desnudo-especificaciones-camaras-baterias-filtradas-1135095' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/supuesto-diseno-samsung-galaxy-s23-ultra-filtra-seria-identico-galaxy-s22-ultra-2829751.jpg' alt='Los Samsung Galaxy S23 al desnudo: especificaciones de cámaras y baterías filtradas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/realidad-coches-etiqueta-b-dgt-2023-no-tan-mala-como-cuentan-1135091'>La realidad de los coches con etiqueta B de la DGT en 2023 no es tan mala como cuentan</a></h4>
     <a href='https://computerhoy.com/noticias/realidad-coches-etiqueta-b-dgt-2023-no-tan-mala-como-cuentan-1135091' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/etiquetas-dgt-2238245.jpg' alt='La realidad de los coches con etiqueta B de la DGT en 2023 no es tan mala como cuentan' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/whatsapp-ya-bloquea-capturas-pantalla-ciertos-tipos-mensajes-1135083'>WhatsApp ya bloquea las capturas de pantalla para ciertos tipos de mensajes</a></h4>
-    <a href='https://computerhoy.com/noticias/whatsapp-ya-bloquea-capturas-pantalla-ciertos-tipos-mensajes-1135083' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/privacidad-whatsapp-2747425.jpg' alt='WhatsApp ya bloquea las capturas de pantalla para ciertos tipos de mensajes' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/xiaomi-smart-band-7-pro-mi-band-toda-vida-esteroides-1134787'>Xiaomi Smart Band 7 Pro, la Mi band de toda la vida en esteroides</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/xiaomi-smart-band-7-pro-mi-band-toda-vida-esteroides-1134787' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/xiaomi-smart-band-7-pro-2832315.jpg' alt='Xiaomi Smart Band 7 Pro, la Mi band de toda la vida en esteroides' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/xiaomi-quiere-conquistar-casa-nuevas-tvs-q2-electrodomesticos-dispositivos-inteligentes-1134583'>Xiaomi quiere conquistar tu casa con sus nuevas TVs Q2, electrodomésticos y dispositivos inteligentes</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/xiaomi-quiere-conquistar-casa-nuevas-tvs-q2-electrodomesticos-dispositivos-inteligentes-1134583' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/xiaomi-eco-2832437.jpg' alt='Xiaomi quiere conquistar tu casa con sus nuevas TVs Q2, electrodomésticos y dispositivos inteligentes' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/xiaomi-12t-pro-unboxing-toma-contacto-nuevo-smartphone-top-xiaomi-1134895'>Xiaomi 12T Pro, unboxing y toma de contacto del nuevo smartphone top de Xiaomi</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/xiaomi-12t-pro-unboxing-toma-contacto-nuevo-smartphone-top-xiaomi-1134895' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/unboxing-xiaomi-12t-pro-2832345.jpg' alt='Xiaomi 12T Pro, unboxing y toma de contacto del nuevo smartphone top de Xiaomi' />
     </a>
 </div>
 
