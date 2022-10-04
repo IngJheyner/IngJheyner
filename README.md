@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/dependencia-emocional-consejos-1134789'>¿Sufres dependencia emocional de otra persona? Estos consejos te ayudarán a descubrirlo</a></h4>
+    <a href='https://computerhoy.com/noticias/life/dependencia-emocional-consejos-1134789' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/sufres-dependencia-emocional-otra-persona-estos-consejos-te-ayudaran-descubrirlo-2832179.jpg' alt='¿Sufres dependencia emocional de otra persona? Estos consejos te ayudarán a descubrirlo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/planta-controla-machete-video-1134585'>La planta que controla un machete con su "cerebro" (vídeo)</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/planta-controla-machete-video-1134585' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/verticalimage1664834864187-2831993.jpg' alt='La planta que controla un machete con su "cerebro" (vídeo)' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/aprovechan-vulnerabilidad-firmware-hacer-jailbreak-ps5-1134543'>Aprovechan una vulnerabilidad en el firmware para hacer jailbreak a la PS5</a></h4>
     <a href='https://computerhoy.com/noticias/aprovechan-vulnerabilidad-firmware-hacer-jailbreak-ps5-1134543' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/11/analisis-ps5-computerhoy-2140495.jpg' alt='Aprovechan una vulnerabilidad en el firmware para hacer jailbreak a la PS5' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/confunden-reestreno-avatar-con-avatar-2-sentido-del-agua-devolucion-dinero-1134553'>Cientos de personas piden la devolución del dinero en el reestreno de Avatar, porque pensaban que iban a ver Avatar 2</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/confunden-reestreno-avatar-con-avatar-2-sentido-del-agua-devolucion-dinero-1134553' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/cientos-personas-piden-devolucion-dinero-reestreno-avatar-porque-pensaban-iban-ver-avatar-2-2831973.jpg' alt='Cientos de personas piden la devolución del dinero en el reestreno de Avatar, porque pensaban que iban a ver Avatar 2' />
     </a>
 </div>
 
