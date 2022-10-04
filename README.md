@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/trucos-legales-mujer-japonesa-no-pagar-sola-factura-luz-10-anos-1134951'>Los trucos (legales) de esta mujer japonesa para no pagar un sola factura de la luz en 10 años</a></h4>
+    <a href='https://computerhoy.com/noticias/trucos-legales-mujer-japonesa-no-pagar-sola-factura-luz-10-anos-1134951' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/trucos-legales-mujer-japonesa-no-pagar-sola-factura-luz-10-anos-2832459.jpg' alt='Los trucos (legales) de esta mujer japonesa para no pagar un sola factura de la luz en 10 años' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/podras-elegir-nuevo-color-coche-blanco-puro-mundo-1134911'>Podrás elegir un nuevo color para tu coche: el blanco más puro del mundo</a></h4>
+    <a href='https://computerhoy.com/noticias/podras-elegir-nuevo-color-coche-blanco-puro-mundo-1134911' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/polestar-coche-electrico-2554785.jpg' alt='Podrás elegir un nuevo color para tu coche: el blanco más puro del mundo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/funciona-primera-protesis-mejora-memoria-cerebral-50-1134893'>Así funciona la primera prótesis que mejora la memoria cerebral en un 50%</a></h4>
     <a href='https://computerhoy.com/noticias/funciona-primera-protesis-mejora-memoria-cerebral-50-1134893' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/cerebro-2233289.jpg' alt='Así funciona la primera prótesis que mejora la memoria cerebral en un 50%' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/cientificos-confirman-habra-nueva-pangea-dentro-300-millones-anos-1134863'>Los científicos lo confirman: habrá una nueva Pangea dentro de 300 millones de años</a></h4>
     <a href='https://computerhoy.com/noticias/cientificos-confirman-habra-nueva-pangea-dentro-300-millones-anos-1134863' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/pangea-2450845.jpg' alt='Los científicos lo confirman: habrá una nueva Pangea dentro de 300 millones de años' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/cooler-master-presenta-silla-haptica-permitira-experiencia-inmersivas-mientras-juegas-1134839'>Cooler Master presenta su silla háptica que permitirá experiencias inmersivas mientras juegas</a></h4>
-    <a href='https://computerhoy.com/noticias/cooler-master-presenta-silla-haptica-permitira-experiencia-inmersivas-mientras-juegas-1134839' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/silla-haptica-2832247.jpg' alt='Cooler Master presenta su silla háptica que permitirá experiencias inmersivas mientras juegas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/chollo-xiami-bombilla-wifi-mucho-barata-piensas-menos-10-euros-1134267'>Chollo Xiami: bombilla con WiFi mucho más barata de lo que piensas, por menos de 10 euros</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/chollo-xiami-bombilla-wifi-mucho-barata-piensas-menos-10-euros-1134267' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/10/xiaomi-mi-smart-led-bulb-2111487.jpg' alt='Chollo Xiami: bombilla con WiFi mucho más barata de lo que piensas, por menos de 10 euros' />
     </a>
 </div>
 
