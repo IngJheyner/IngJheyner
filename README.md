@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/life/aniversario-lidl-mejores-ofertas-1134401'>Aniversario de Lidl: estas son sus mejores ofertas</a></h4>
+    <a href='https://computerhoy.com/reportajes/life/aniversario-lidl-mejores-ofertas-1134401' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/centro-comercial-lidl-2831649.jpg' alt='Aniversario de Lidl: estas son sus mejores ofertas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/28-noticias-tecnologia-comenzar-manana-informado-ultimo-1134791'>28 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/28-noticias-tecnologia-comenzar-manana-informado-ultimo-1134791' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/28-noticias-tecnologia-comenzar-manana-informado-ultimo-2832181.jpg' alt='28 noticias de tecnología para comenzar la mañana informado de lo último' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/planta-controla-machete-video-1134585'>La planta que controla un machete con su "cerebro" (vídeo)</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/planta-controla-machete-video-1134585' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/verticalimage1664834864187-2831993.jpg' alt='La planta que controla un machete con su "cerebro" (vídeo)' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/linux-60-ya-disponible-novedades-1134571'>Linux 6.0 ya está disponible: estas son sus novedades</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/linux-60-ya-disponible-novedades-1134571' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/linux-60-ya-disponible-estas-son-novedades-2831987.jpg' alt='Linux 6.0 ya está disponible: estas son sus novedades' />
     </a>
 </div>
 
