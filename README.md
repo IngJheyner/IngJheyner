@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/realidad-coches-etiqueta-b-dgt-2023-no-tan-mala-como-cuentan-1135091'>La realidad de los coches con etiqueta B de la DGT en 2023 no es tan mala como cuentan</a></h4>
+    <a href='https://computerhoy.com/noticias/realidad-coches-etiqueta-b-dgt-2023-no-tan-mala-como-cuentan-1135091' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/etiquetas-dgt-2238245.jpg' alt='La realidad de los coches con etiqueta B de la DGT en 2023 no es tan mala como cuentan' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/whatsapp-ya-bloquea-capturas-pantalla-ciertos-tipos-mensajes-1135083'>WhatsApp ya bloquea las capturas de pantalla para ciertos tipos de mensajes</a></h4>
     <a href='https://computerhoy.com/noticias/whatsapp-ya-bloquea-capturas-pantalla-ciertos-tipos-mensajes-1135083' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/privacidad-whatsapp-2747425.jpg' alt='WhatsApp ya bloquea las capturas de pantalla para ciertos tipos de mensajes' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/xiaomi-12t-pro-unboxing-toma-contacto-nuevo-smartphone-top-xiaomi-1134895'>Xiaomi 12T Pro, unboxing y toma de contacto del nuevo smartphone top de Xiaomi</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/xiaomi-12t-pro-unboxing-toma-contacto-nuevo-smartphone-top-xiaomi-1134895' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/unboxing-xiaomi-12t-pro-2832345.jpg' alt='Xiaomi 12T Pro, unboxing y toma de contacto del nuevo smartphone top de Xiaomi' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/xiaomi-12t-12t-pro-redmi-pad-redmi-buds-4-4-pro-ultimo-ha-presentado-compania-1134203'>Xiaomi 12T y 12T Pro, Redmi Pad y Redmi Buds 4 y 4 Pro, así es lo último que ha presentado la compañía</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/xiaomi-12t-12t-pro-redmi-pad-redmi-buds-4-4-pro-ultimo-ha-presentado-compania-1134203' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/xiaomi-12t-12t-pro-redmi-buds-4-redmi-pad-munich-2832243.jpg' alt='Xiaomi 12T y 12T Pro, Redmi Pad y Redmi Buds 4 y 4 Pro, así es lo último que ha presentado la compañía' />
     </a>
 </div>
 
