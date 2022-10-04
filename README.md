@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/planta-controla-machete-video-1134585'>La planta que controla un machete con su "cerebro" (vídeo)</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/planta-controla-machete-video-1134585' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/verticalimage1664834864187-2831993.jpg' alt='La planta que controla un machete con su "cerebro" (vídeo)' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/linux-60-ya-disponible-novedades-1134571'>Linux 6.0 ya está disponible: estas son sus novedades</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/linux-60-ya-disponible-novedades-1134571' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/linux-60-ya-disponible-estas-son-novedades-2831987.jpg' alt='Linux 6.0 ya está disponible: estas son sus novedades' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/confunden-reestreno-avatar-con-avatar-2-sentido-del-agua-devolucion-dinero-1134553'>Cientos de personas piden la devolución del dinero en el reestreno de Avatar, porque pensaban que iban a ver Avatar 2</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/confunden-reestreno-avatar-con-avatar-2-sentido-del-agua-devolucion-dinero-1134553' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/cientos-personas-piden-devolucion-dinero-reestreno-avatar-porque-pensaban-iban-ver-avatar-2-2831973.jpg' alt='Cientos de personas piden la devolución del dinero en el reestreno de Avatar, porque pensaban que iban a ver Avatar 2' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/admitida-demanda-ocu-apple-tienes-iphone-antiguo-podrias-recibir-cuantiosa-compensacion-1134537'>Admitida la demanda de la OCU contra Apple: si tienes un iPhone antiguo, podrías recibir una cuantiosa compensación</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/admitida-demanda-ocu-apple-tienes-iphone-antiguo-podrias-recibir-cuantiosa-compensacion-1134537' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/12/iphone-6-2156859.jpg' alt='Admitida la demanda de la OCU contra Apple: si tienes un iPhone antiguo, podrías recibir una cuantiosa compensación' />
     </a>
 </div>
 
