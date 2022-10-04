@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/trucos-legales-mujer-japonesa-no-pagar-sola-factura-luz-10-anos-1134951'>Los trucos (legales) de esta mujer japonesa para no pagar un sola factura de la luz en 10 años</a></h4>
-    <a href='https://computerhoy.com/noticias/trucos-legales-mujer-japonesa-no-pagar-sola-factura-luz-10-anos-1134951' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/trucos-legales-mujer-japonesa-no-pagar-sola-factura-luz-10-anos-2832459.jpg' alt='Los trucos (legales) de esta mujer japonesa para no pagar un sola factura de la luz en 10 años' />
+    <h4><a href='https://computerhoy.com/noticias/vorwerk-presenta-kobold-vk7-thermomix-aspiradores-1134971'>Vorwerk presenta Kobold VK7, la “Thermomix” de los aspiradores</a></h4>
+    <a href='https://computerhoy.com/noticias/vorwerk-presenta-kobold-vk7-thermomix-aspiradores-1134971' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/vorwerk-presenta-kobold-vk7-thermomix-aspiradores-2832525.jpg' alt='Vorwerk presenta Kobold VK7, la “Thermomix” de los aspiradores' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/podras-elegir-nuevo-color-coche-blanco-puro-mundo-1134911'>Podrás elegir un nuevo color para tu coche: el blanco más puro del mundo</a></h4>
-    <a href='https://computerhoy.com/noticias/podras-elegir-nuevo-color-coche-blanco-puro-mundo-1134911' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/polestar-coche-electrico-2554785.jpg' alt='Podrás elegir un nuevo color para tu coche: el blanco más puro del mundo' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/como-ver-directo-presentacion-xiaomi-12t-12t-pro-1134981'>Cómo ver en directo la presentación de los Xiaomi 12T y 12T Pro</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/como-ver-directo-presentacion-xiaomi-12t-12t-pro-1134981' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/xiaomi-12t-series-2832537.jpg' alt='Cómo ver en directo la presentación de los Xiaomi 12T y 12T Pro' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/funciona-primera-protesis-mejora-memoria-cerebral-50-1134893'>Así funciona la primera prótesis que mejora la memoria cerebral en un 50%</a></h4>
-    <a href='https://computerhoy.com/noticias/funciona-primera-protesis-mejora-memoria-cerebral-50-1134893' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/cerebro-2233289.jpg' alt='Así funciona la primera prótesis que mejora la memoria cerebral en un 50%' />
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/android-historia-versiones-google-play-todas-novedades-1134319'>Android: historia, versiones, Google Play y todas sus novedades</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/android-historia-versiones-google-play-todas-novedades-1134319' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/android-2832529.jpg' alt='Android: historia, versiones, Google Play y todas sus novedades' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/cambio-hora-octubre-2022-horario-invierno-1134927'>Cuándo se cambia la hora en octubre</a></h4>
-    <a href='https://computerhoy.com/noticias/life/cambio-hora-octubre-2022-horario-invierno-1134927' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/cuando-cambia-hora-octubre-2832385.jpg' alt='Cuándo se cambia la hora en octubre' />
+    <h4><a href='https://computerhoy.com/noticias/hbo-vuelve-liar-casa-dragon-como-ya-hizo-juego-tronos-2019-1134947'>HBO la vuelve a liar con La Casa del Dragón como ya hizo con Juego de Tronos en 2019</a></h4>
+    <a href='https://computerhoy.com/noticias/hbo-vuelve-liar-casa-dragon-como-ya-hizo-juego-tronos-2019-1134947' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/casa-dragon-1x07-2830845.jpeg' alt='HBO la vuelve a liar con La Casa del Dragón como ya hizo con Juego de Tronos en 2019' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/cientificos-confirman-habra-nueva-pangea-dentro-300-millones-anos-1134863'>Los científicos lo confirman: habrá una nueva Pangea dentro de 300 millones de años</a></h4>
-    <a href='https://computerhoy.com/noticias/cientificos-confirman-habra-nueva-pangea-dentro-300-millones-anos-1134863' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/pangea-2450845.jpg' alt='Los científicos lo confirman: habrá una nueva Pangea dentro de 300 millones de años' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/mini-pc-viene-windows-11-realmente-barato-cuesta-poco-200-euros-1134287'>Este Mini PC viene con Windows 11 y es realmente barato: cuesta poco más de 200 euros</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/mini-pc-viene-windows-11-realmente-barato-cuesta-poco-200-euros-1134287' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/mini-pc-geekom-miniair-11-2831317.jpg' alt='Este Mini PC viene con Windows 11 y es realmente barato: cuesta poco más de 200 euros' />
     </a>
 </div>
 
