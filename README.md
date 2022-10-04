@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/xiaomi-quiere-conquistar-casa-nuevas-tvs-q2-electrodomesticos-dispositivos-inteligentes-1134583'>Xiaomi quiere conquistar tu casa con sus nuevas TVs Q2, electrodomésticos y dispositivos inteligentes</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/xiaomi-quiere-conquistar-casa-nuevas-tvs-q2-electrodomesticos-dispositivos-inteligentes-1134583' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/xiaomi-eco-2832437.jpg' alt='Xiaomi quiere conquistar tu casa con sus nuevas TVs Q2, electrodomésticos y dispositivos inteligentes' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/xiaomi-12t-pro-unboxing-toma-contacto-nuevo-smartphone-top-xiaomi-1134895'>Xiaomi 12T Pro, unboxing y toma de contacto del nuevo smartphone top de Xiaomi</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/xiaomi-12t-pro-unboxing-toma-contacto-nuevo-smartphone-top-xiaomi-1134895' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/unboxing-xiaomi-12t-pro-2832345.jpg' alt='Xiaomi 12T Pro, unboxing y toma de contacto del nuevo smartphone top de Xiaomi' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/xiaomi-12t-12t-pro-redmi-pad-redmi-buds-4-4-pro-ultimo-ha-presentado-compania-1134203'>Xiaomi 12T y 12T Pro, Redmi Pad y Redmi Buds 4 y 4 Pro, así es lo último que ha presentado la compañía</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/xiaomi-12t-12t-pro-redmi-pad-redmi-buds-4-4-pro-ultimo-ha-presentado-compania-1134203' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/xiaomi-12t-12t-pro-redmi-buds-4-redmi-pad-munich-2832243.jpg' alt='Xiaomi 12T y 12T Pro, Redmi Pad y Redmi Buds 4 y 4 Pro, así es lo último que ha presentado la compañía' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/cuando-acaba-bonificacion-gasolina-20-centimos-1135009'>¿Cuándo se acaba la bonificación de la gasolina de 20 céntimos?</a></h4>
     <a href='https://computerhoy.com/noticias/cuando-acaba-bonificacion-gasolina-20-centimos-1135009' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/surtidor-gasolina-diesel-2819759.jpg' alt='¿Cuándo se acaba la bonificación de la gasolina de 20 céntimos?' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/oficial-parlamento-europea-aprueba-cargador-universal-aparatos-electronicos-1135037'>Es oficial: el Parlamento Europeo aprueba el cargador universal para los aparatos electrónicos</a></h4>
     <a href='https://computerhoy.com/noticias/oficial-parlamento-europea-aprueba-cargador-universal-aparatos-electronicos-1135037' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/10/banderas-union-europea-fachada-eurocamara-estrasburgo.jpg' alt='Es oficial: el Parlamento Europeo aprueba el cargador universal para los aparatos electrónicos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/freidora-aire-tiene-todos-9l-capacidad-dos-cestas-no-te-quedes-hambre-1129365'>Esta freidora de aire tiene para todos: 9L de capacidad y dos cestas para que no te quedes con hambre</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/freidora-aire-tiene-todos-9l-capacidad-dos-cestas-no-te-quedes-hambre-1129365' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/cecotec-cecofry-advance-double-2686149.jpg' alt='Esta freidora de aire tiene para todos: 9L de capacidad y dos cestas para que no te quedes con hambre' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/ordenan-bloqueo-13000-paginas-descargas-iptv-proteger-estreno-pelicula-1134995'>Ordenan el bloqueo de más de 13.000 páginas de descargas e IPTV para proteger el estreno de una película</a></h4>
-    <a href='https://computerhoy.com/noticias/ordenan-bloqueo-13000-paginas-descargas-iptv-proteger-estreno-pelicula-1134995' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/vikram-vedha-2832695.jpg' alt='Ordenan el bloqueo de más de 13.000 páginas de descargas e IPTV para proteger el estreno de una película' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/vorwerk-presenta-kobold-vk7-thermomix-aspiradores-1134971'>Vorwerk presenta Kobold VK7, la “Thermomix” de los aspiradores</a></h4>
-    <a href='https://computerhoy.com/noticias/vorwerk-presenta-kobold-vk7-thermomix-aspiradores-1134971' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/vorwerk-presenta-kobold-vk7-thermomix-aspiradores-2832525.jpg' alt='Vorwerk presenta Kobold VK7, la “Thermomix” de los aspiradores' />
     </a>
 </div>
 
