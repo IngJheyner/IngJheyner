@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/routers-wifi-6-en-malla-eero-plus-oferta-1135209'>Estos routers WiFi 6 de Amazon son los definitivos: 420 m2 de WiFi sin cortes</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/routers-wifi-6-en-malla-eero-plus-oferta-1135209' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/estos-routers-wifi-6-amazon-son-definitivos-420-m2-wifi-cortes-2833029.jpg' alt='Estos routers WiFi 6 de Amazon son los definitivos: 420 m2 de WiFi sin cortes' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/google-nets-wifi-pro-nuevo-router-wifi-6e-mesh-google-1135143'>Google Nest WiFi Pro: así es el nuevo router con WiFi 6E y Mesh de Google</a></h4>
     <a href='https://computerhoy.com/noticias/google-nets-wifi-pro-nuevo-router-wifi-6e-mesh-google-1135143' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/google-nest-wifi-pro-nuevo-router-wifi-6e-mesh-google-2833021.jpg' alt='Google Nest WiFi Pro: así es el nuevo router con WiFi 6E y Mesh de Google' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/windows-11-22h2-provoca-caida-rendimiento-hora-manejar-archivos-hay-solucion-1135189'>Windows 11 22H2 provoca una caída de rendimiento a la hora de manejar archivos, y hay una solución</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/windows-11-22h2-provoca-caida-rendimiento-hora-manejar-archivos-hay-solucion-1135189' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/windows-11-2767553.jpg' alt='Windows 11 22H2 provoca una caída de rendimiento a la hora de manejar archivos, y hay una solución' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/elon-musk-vuelve-cambiar-opinion-quiere-completar-compra-twitter-1135175'>Elon Musk vuelve a cambiar de opinión y quiere completar la compra de Twitter</a></h4>
-    <a href='https://computerhoy.com/noticias/elon-musk-vuelve-cambiar-opinion-quiere-completar-compra-twitter-1135175' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/elon-musk-convierte-accionista-mayoritario-twitter-compra-92-casi-3000-millones-dolares-2664905.jpg' alt='Elon Musk vuelve a cambiar de opinión y quiere completar la compra de Twitter' />
     </a>
 </div>
 
