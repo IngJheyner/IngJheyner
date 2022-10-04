@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/28-noticias-tecnologia-comenzar-manana-informado-ultimo-1134791'>28 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/28-noticias-tecnologia-comenzar-manana-informado-ultimo-1134791' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/28-noticias-tecnologia-comenzar-manana-informado-ultimo-2832181.jpg' alt='28 noticias de tecnología para comenzar la mañana informado de lo último' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-relojes-gps-ninos-908537'>Estos son los mejores relojes con localizador GPS para niños</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-relojes-gps-ninos-908537' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/ninos-cogidos-mano-charco-2831171.jpg' alt='Estos son los mejores relojes con localizador GPS para niños' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/dependencia-emocional-consejos-1134789'>¿Sufres dependencia emocional de otra persona? Estos consejos te ayudarán a descubrirlo</a></h4>
     <a href='https://computerhoy.com/noticias/life/dependencia-emocional-consejos-1134789' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/sufres-dependencia-emocional-otra-persona-estos-consejos-te-ayudaran-descubrirlo-2832179.jpg' alt='¿Sufres dependencia emocional de otra persona? Estos consejos te ayudarán a descubrirlo' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/linux-60-ya-disponible-novedades-1134571'>Linux 6.0 ya está disponible: estas son sus novedades</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/linux-60-ya-disponible-novedades-1134571' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/linux-60-ya-disponible-estas-son-novedades-2831987.jpg' alt='Linux 6.0 ya está disponible: estas son sus novedades' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/kit-alarma-ring-5-dispositivos-descuento-1134563'>Este kit de alarma de Ring, formado por 5 dispositivos, protegerá tu casa por completo sin cuotas, y tiene un 25% de descuento</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/kit-alarma-ring-5-dispositivos-descuento-1134563' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/kit-alarma-ring-formado-5-dispositivos-protegera-casa-completo-cuotas-2831983.jpg' alt='Este kit de alarma de Ring, formado por 5 dispositivos, protegerá tu casa por completo sin cuotas, y tiene un 25% de descuento' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/aprovechan-vulnerabilidad-firmware-hacer-jailbreak-ps5-1134543'>Aprovechan una vulnerabilidad en el firmware para hacer jailbreak a la PS5</a></h4>
-    <a href='https://computerhoy.com/noticias/aprovechan-vulnerabilidad-firmware-hacer-jailbreak-ps5-1134543' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/11/analisis-ps5-computerhoy-2140495.jpg' alt='Aprovechan una vulnerabilidad en el firmware para hacer jailbreak a la PS5' />
     </a>
 </div>
 
