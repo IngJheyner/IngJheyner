@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/google-nets-wifi-pro-nuevo-router-wifi-6e-mesh-google-1135143'>Google Nest WiFi Pro: así es el nuevo router con WiFi 6E y Mesh de Google</a></h4>
+    <a href='https://computerhoy.com/noticias/google-nets-wifi-pro-nuevo-router-wifi-6e-mesh-google-1135143' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/google-nest-wifi-pro-nuevo-router-wifi-6e-mesh-google-2833021.jpg' alt='Google Nest WiFi Pro: así es el nuevo router con WiFi 6E y Mesh de Google' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/agricultor-cordobes-construye-coche-formula-1-montilla-1135201'>Un agricultor cordobés construye un coche de Fórmula 1 y asegura que puede correr a 250 Km/h</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/agricultor-cordobes-construye-coche-formula-1-montilla-1135201' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/agricultor-cordobes-construye-coche-formula-1-ahora-quiere-correr-circuito-2833019.jpg' alt='Un agricultor cordobés construye un coche de Fórmula 1 y asegura que puede correr a 250 Km/h' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/mercadona-adelanta-navidad-suma-turron-como-novedad-lineales-1135193'>Mercadona se adelanta a la Navidad y suma el turrón como novedad en sus lineales</a></h4>
     <a href='https://computerhoy.com/noticias/life/mercadona-adelanta-navidad-suma-turron-como-novedad-lineales-1135193' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/turron-chocolate-2832975.jpg' alt='Mercadona se adelanta a la Navidad y suma el turrón como novedad en sus lineales' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/elon-musk-vuelve-cambiar-opinion-quiere-completar-compra-twitter-1135175'>Elon Musk vuelve a cambiar de opinión y quiere completar la compra de Twitter</a></h4>
     <a href='https://computerhoy.com/noticias/elon-musk-vuelve-cambiar-opinion-quiere-completar-compra-twitter-1135175' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/elon-musk-convierte-accionista-mayoritario-twitter-compra-92-casi-3000-millones-dolares-2664905.jpg' alt='Elon Musk vuelve a cambiar de opinión y quiere completar la compra de Twitter' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/dias-naranjas-pccomponentes-mejores-ofertas-1134843'>Días Naranjas de PcComponentes: estas son las 10 mejores ofertas</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/dias-naranjas-pccomponentes-mejores-ofertas-1134843' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/dias-naranjas-pccomponentes-2832375.jpg' alt='Días Naranjas de PcComponentes: estas son las 10 mejores ofertas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/google-home-recibe-gran-actualizacion-mejoras-diseno-nuevas-caracteristicas-ya-disponibles-1135141'>Google Home recibe su gran actualización: mejoras en diseño y nuevas características ya disponibles</a></h4>
-    <a href='https://computerhoy.com/noticias/google-home-recibe-gran-actualizacion-mejoras-diseno-nuevas-caracteristicas-ya-disponibles-1135141' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/google-home-recibe-gran-actualizacion-mejoras-diseno-nuevas-caracteristicas-ya-disponibles-2832935.jpg' alt='Google Home recibe su gran actualización: mejoras en diseño y nuevas características ya disponibles' />
     </a>
 </div>
 
