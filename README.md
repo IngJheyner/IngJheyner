@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/funciona-primera-protesis-mejora-memoria-cerebral-50-1134893'>Así funciona la primera prótesis que mejora la memoria cerebral en un 50%</a></h4>
+    <a href='https://computerhoy.com/noticias/funciona-primera-protesis-mejora-memoria-cerebral-50-1134893' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/cerebro-2233289.jpg' alt='Así funciona la primera prótesis que mejora la memoria cerebral en un 50%' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/cambio-hora-octubre-2022-horario-invierno-1134927'>Cuándo se cambia la hora en octubre</a></h4>
+    <a href='https://computerhoy.com/noticias/life/cambio-hora-octubre-2022-horario-invierno-1134927' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/cuando-cambia-hora-octubre-2832385.jpg' alt='Cuándo se cambia la hora en octubre' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/cientificos-confirman-habra-nueva-pangea-dentro-300-millones-anos-1134863'>Los científicos lo confirman: habrá una nueva Pangea dentro de 300 millones de años</a></h4>
+    <a href='https://computerhoy.com/noticias/cientificos-confirman-habra-nueva-pangea-dentro-300-millones-anos-1134863' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/pangea-2450845.jpg' alt='Los científicos lo confirman: habrá una nueva Pangea dentro de 300 millones de años' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/cooler-master-presenta-silla-haptica-permitira-experiencia-inmersivas-mientras-juegas-1134839'>Cooler Master presenta su silla háptica que permitirá experiencias inmersivas mientras juegas</a></h4>
+    <a href='https://computerhoy.com/noticias/cooler-master-presenta-silla-haptica-permitira-experiencia-inmersivas-mientras-juegas-1134839' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/silla-haptica-2832247.jpg' alt='Cooler Master presenta su silla háptica que permitirá experiencias inmersivas mientras juegas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/chollo-xiami-bombilla-wifi-mucho-barata-piensas-menos-10-euros-1134267'>Chollo Xiami: bombilla con WiFi mucho más barata de lo que piensas, por menos de 10 euros</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/chollo-xiami-bombilla-wifi-mucho-barata-piensas-menos-10-euros-1134267' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/10/xiaomi-mi-smart-led-bulb-2111487.jpg' alt='Chollo Xiami: bombilla con WiFi mucho más barata de lo que piensas, por menos de 10 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/hemos-esperado-cinco-anos-ver-trailer-black-phanter-wakanda-forever-real-1134823'>Hemos esperado cinco años para ver este tráiler: ¡Black Panther: Wakanda Forever es real!</a></h4>
-    <a href='https://computerhoy.com/noticias/hemos-esperado-cinco-anos-ver-trailer-black-phanter-wakanda-forever-real-1134823' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/black-phanter-wakanda-forever-2832197.jpg' alt='Hemos esperado cinco años para ver este tráiler: ¡Black Panther: Wakanda Forever es real!' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/reconstruccion-adn-humanos-extintos-premio-nobel-medicina-2022-1134831'>La reconstrucción del ADN de humanos extintos, Premio Nobel de Medicina 2022</a></h4>
-    <a href='https://computerhoy.com/noticias/reconstruccion-adn-humanos-extintos-premio-nobel-medicina-2022-1134831' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/reconstruccion-adn-humanos-extintos-premio-nobel-medicina-2022-2832219.jpg' alt='La reconstrucción del ADN de humanos extintos, Premio Nobel de Medicina 2022' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/life/aniversario-lidl-mejores-ofertas-1134401'>Aniversario de Lidl: estas son sus mejores ofertas</a></h4>
-    <a href='https://computerhoy.com/reportajes/life/aniversario-lidl-mejores-ofertas-1134401' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/centro-comercial-lidl-2831649.jpg' alt='Aniversario de Lidl: estas son sus mejores ofertas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/28-noticias-tecnologia-comenzar-manana-informado-ultimo-1134791'>28 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/28-noticias-tecnologia-comenzar-manana-informado-ultimo-1134791' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/28-noticias-tecnologia-comenzar-manana-informado-ultimo-2832181.jpg' alt='28 noticias de tecnología para comenzar la mañana informado de lo último' />
     </a>
 </div>
 
