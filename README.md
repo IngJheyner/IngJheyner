@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/ludosport-deporte-jedi-star-wars-1135221'>Ludosport, el deporte que te convierte en un Jedi sin  necesidad de "viajar" a Star Wars</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/ludosport-deporte-jedi-star-wars-1135221' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/ludosport-deporte-te-convierte-jedi-necesidad-viajar-star-wars-2833069.jpg' alt='Ludosport, el deporte que te convierte en un Jedi sin  necesidad de "viajar" a Star Wars' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/routers-wifi-6-en-malla-eero-plus-oferta-1135209'>Estos routers WiFi 6 de Amazon son los definitivos: 420 m2 de WiFi sin cortes</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/routers-wifi-6-en-malla-eero-plus-oferta-1135209' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/estos-routers-wifi-6-amazon-son-definitivos-420-m2-wifi-cortes-2833029.jpg' alt='Estos routers WiFi 6 de Amazon son los definitivos: 420 m2 de WiFi sin cortes' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/mercadona-adelanta-navidad-suma-turron-como-novedad-lineales-1135193'>Mercadona se adelanta a la Navidad y suma el turrón como novedad en sus lineales</a></h4>
     <a href='https://computerhoy.com/noticias/life/mercadona-adelanta-navidad-suma-turron-como-novedad-lineales-1135193' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/turron-chocolate-2832975.jpg' alt='Mercadona se adelanta a la Navidad y suma el turrón como novedad en sus lineales' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/windows-11-22h2-provoca-caida-rendimiento-hora-manejar-archivos-hay-solucion-1135189'>Windows 11 22H2 provoca una caída de rendimiento a la hora de manejar archivos, y hay una solución</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/windows-11-22h2-provoca-caida-rendimiento-hora-manejar-archivos-hay-solucion-1135189' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/windows-11-2767553.jpg' alt='Windows 11 22H2 provoca una caída de rendimiento a la hora de manejar archivos, y hay una solución' />
     </a>
 </div>
 
