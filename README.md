@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tesla-sigue-quitando-sensores-coches-muestra-confianza-ciega-camaras-1135775'>Tesla sigue quitando sensores a sus coches y muestra confianza ciega en sus cámaras</a></h4>
+    <a href='https://computerhoy.com/noticias/tesla-sigue-quitando-sensores-coches-muestra-confianza-ciega-camaras-1135775' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/tesla-2676199.jpg' alt='Tesla sigue quitando sensores a sus coches y muestra confianza ciega en sus cámaras' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/cuales-son-ocu-companias-electricas-gas-favoritas-espanoles-1135773'>Cuales son, según la OCU, las compañías eléctricas y gas favoritas de los españoles</a></h4>
+    <a href='https://computerhoy.com/noticias/cuales-son-ocu-companias-electricas-gas-favoritas-espanoles-1135773' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/electricidad-euro-2636485.jpg' alt='Cuales son, según la OCU, las compañías eléctricas y gas favoritas de los españoles' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-baratos-xiaomi-5g-937217'>Estos son los móviles con 5G más baratos de Xiaomi</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-baratos-xiaomi-5g-937217' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/poco-m4-pro-5g-2527121.jpg' alt='Estos son los móviles con 5G más baratos de Xiaomi' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/listas/entretenimiento/mejores-alternativas-spotify-escuchar-musica-podcast-1135731'>Las mejores alternativas a Spotify para escuchar música y podcast</a></h4>
     <a href='https://computerhoy.com/listas/entretenimiento/mejores-alternativas-spotify-escuchar-musica-podcast-1135731' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/spotify-web-guia-completa-todo-debes-saber-escuchar-musica-navegador-2482061.jpg' alt='Las mejores alternativas a Spotify para escuchar música y podcast' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/amazon-kids-llega-alexa-espana-diversion-peques-casa-1135733'>Amazon Kids llega a Alexa en España, diversión para los peques en casa</a></h4>
     <a href='https://computerhoy.com/noticias/amazon-kids-llega-alexa-espana-diversion-peques-casa-1135733' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/amazon-kids-llega-alexa-espana-diversion-peques-casa-2834017.jpg' alt='Amazon Kids llega a Alexa en España, diversión para los peques en casa' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/oppo-a77s-movil-apunta-superventas-gama-media-aires-premium-1135687'>Oppo A77s, el móvil que apunta a superventas de la gama media con aires premium</a></h4>
-    <a href='https://computerhoy.com/noticias/oppo-a77s-movil-apunta-superventas-gama-media-aires-premium-1135687' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/oppo-a77s-movil-apunta-superventas-gama-media-aires-premium-2833991.jpg' alt='Oppo A77s, el móvil que apunta a superventas de la gama media con aires premium' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/boat-superyate-submarino-lujo-cuesta-25-millones-dolares-1135645'>Así es U-Boat: el superyate submarino de lujo que cuesta 25 millones de dólares</a></h4>
-    <a href='https://computerhoy.com/noticias/boat-superyate-submarino-lujo-cuesta-25-millones-dolares-1135645' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/yate-submarino-2833937.jpg' alt='Así es U-Boat: el superyate submarino de lujo que cuesta 25 millones de dólares' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/gaming/unboxing-rtx-4090-tarjeta-grafica-potente-mundo-1134533'>Unboxing de la RTX 4090: así es la tarjeta gráfica más potente del mundo </a></h4>
-    <a href='https://computerhoy.com/reportajes/gaming/unboxing-rtx-4090-tarjeta-grafica-potente-mundo-1134533' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/nvidia-rtx-4090-2831909.jpg' alt='Unboxing de la RTX 4090: así es la tarjeta gráfica más potente del mundo ' />
     </a>
 </div>
 
