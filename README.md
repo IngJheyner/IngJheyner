@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/gaming/unboxing-rtx-4090-tarjeta-grafica-potente-mundo-1134533'>Unboxing de la RTX 4090: así es la tarjeta gráfica más potente del mundo</a></h4>
+    <a href='https://computerhoy.com/reportajes/gaming/unboxing-rtx-4090-tarjeta-grafica-potente-mundo-1134533' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/nvidia-rtx-4090-2831909.jpg' alt='Unboxing de la RTX 4090: así es la tarjeta gráfica más potente del mundo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/pixel-watch-vs-apple-watch-tamano-importa-1135619'>Pixel Watch vs Apple Watch, el tamaño importa</a></h4>
+    <a href='https://computerhoy.com/noticias/pixel-watch-vs-apple-watch-tamano-importa-1135619' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/pixel-watch-vs-apple-watch-tamano-importa-2833751.jpg' alt='Pixel Watch vs Apple Watch, el tamaño importa' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/nvidia-rtx-4090-corre-overwatch-2-360-fps-25k-resolucion-1135631'>La NVIDIA RTX 4090 corre Overwatch 2 a más de 360 fps a 2,5K de resolución</a></h4>
+    <a href='https://computerhoy.com/noticias/nvidia-rtx-4090-corre-overwatch-2-360-fps-25k-resolucion-1135631' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/rtx-4090-overwatch-2-2833741.jpg' alt='La NVIDIA RTX 4090 corre Overwatch 2 a más de 360 fps a 2,5K de resolución' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/mediamarkt-bate-amazon-terreno-rebaja-kindle-vendidos-aun-tienda-oficial-1134369'>MediaMarkt bate a Amazon en su terreno: rebaja uno de los Kindle más vendidos aún más que la tienda oficial</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/mediamarkt-bate-amazon-terreno-rebaja-kindle-vendidos-aun-tienda-oficial-1134369' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/kindle-paperwhite-2021-2479915.jpg' alt='MediaMarkt bate a Amazon en su terreno: rebaja uno de los Kindle más vendidos aún más que la tienda oficial' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/hacer-cuando-no-puedes-acceder-whatsapp-web-culpa-codigo-qr-1050475'>Qué hacer cuando no puedes acceder a WhatsApp Web por culpa del código QR</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/hacer-cuando-no-puedes-acceder-whatsapp-web-culpa-codigo-qr-1050475' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/whatsapp-2670977.jpg' alt='Qué hacer cuando no puedes acceder a WhatsApp Web por culpa del código QR' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/nobel-fisica-ano-va-tecnologia-hara-funcionar-ordenadores-cuanticos-1135579'>El Nobel de Física de este año va para la tecnología que hará funcionar los ordenadores cuánticos</a></h4>
-    <a href='https://computerhoy.com/noticias/nobel-fisica-ano-va-tecnologia-hara-funcionar-ordenadores-cuanticos-1135579' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/ordenador-cuantico-2833731.jpg' alt='El Nobel de Física de este año va para la tecnología que hará funcionar los ordenadores cuánticos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/elon-musk-explica-porque-comprar-twitter-quiere-crear-aplicacion-todo-1135591'>Elon Musk explica el porqué de comprar Twitter: quiere crear una aplicación todo en uno </a></h4>
-    <a href='https://computerhoy.com/noticias/elon-musk-explica-porque-comprar-twitter-quiere-crear-aplicacion-todo-1135591' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/elon-musk-explica-porque-comprar-twitter-quiere-crear-aplicacion-todo-2833707.jpg' alt='Elon Musk explica el porqué de comprar Twitter: quiere crear una aplicación todo en uno ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/mapa-muestra-pais-exporta-espana-provincia-provincia-1135569'>El mapa que muestra a qué país se exporta más desde España, provincia a provincia</a></h4>
-    <a href='https://computerhoy.com/noticias/mapa-muestra-pais-exporta-espana-provincia-provincia-1135569' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/mapa-muestra-pais-exporta-espana-provincia-provincia-2833653.jpg' alt='El mapa que muestra a qué país se exporta más desde España, provincia a provincia' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/movil-barato-xiaomi-abandera-gama-entrada-ahora-oferta-amazon-1134327'>Este es el móvil barato de Xiaomi que abandera su gama de entrada, y ahora está en oferta en Amazon</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/movil-barato-xiaomi-abandera-gama-entrada-ahora-oferta-amazon-1134327' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/redmi-10-analisis-opinion-2523315.jpg' alt='Este es el móvil barato de Xiaomi que abandera su gama de entrada, y ahora está en oferta en Amazon' />
     </a>
 </div>
 
