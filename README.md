@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/como-cortar-cuerda-sin-herramientas-truco-1135833'>Cómo cortar una cuerda en segundos sin herramientas</a></h4>
+    <a href='https://computerhoy.com/noticias/life/como-cortar-cuerda-sin-herramientas-truco-1135833' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/como-cortar-cuerda-segundos-herramientas-2834217.jpg' alt='Cómo cortar una cuerda en segundos sin herramientas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/realme-gt-neo-3t-5g-oferta-1135829'>realme GT Neo 3T 5G, un móvil potente con carga rápida a 80 W, por solo 362 euros</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/realme-gt-neo-3t-5g-oferta-1135829' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/realme-gt-neo-3t-2725139.jpg' alt='realme GT Neo 3T 5G, un móvil potente con carga rápida a 80 W, por solo 362 euros' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/motor/coche-vs-tren-300-km-h-video-1135811'>Se pica con un tren a 300 km/h y lo graba mientras conduce (vídeo)</a></h4>
     <a href='https://computerhoy.com/noticias/motor/coche-vs-tren-300-km-h-video-1135811' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/pica-tren-300-km-h-graba-mientras-conduce-video-2834185.jpg' alt='Se pica con un tren a 300 km/h y lo graba mientras conduce (vídeo)' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/quieres-trabajar-apple-necesitas-algo-experiencia-laboral-tim-cook-1135805'>Si quieres trabajar para Apple necesitas algo más que experiencia laboral, según Tim Cook</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/quieres-trabajar-apple-necesitas-algo-experiencia-laboral-tim-cook-1135805' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/tim-cook-2834173.jpg' alt='Si quieres trabajar para Apple necesitas algo más que experiencia laboral, según Tim Cook' />
     </a>
 </div>
 
