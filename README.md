@@ -50,9 +50,25 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/gaming/unboxing-rtx-4090-tarjeta-grafica-potente-mundo-1134533'>Unboxing de la RTX 4090: así es la tarjeta gráfica más potente del mundo</a></h4>
+    <h4><a href='https://computerhoy.com/noticias/oppo-a77s-movil-apunta-superventas-gama-media-aires-premium-1135687'>Oppo A77s, el móvil que apunta a superventas de la gama media con aires premium</a></h4>
+    <a href='https://computerhoy.com/noticias/oppo-a77s-movil-apunta-superventas-gama-media-aires-premium-1135687' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/oppo-a77s-movil-apunta-superventas-gama-media-aires-premium-2833991.jpg' alt='Oppo A77s, el móvil que apunta a superventas de la gama media con aires premium' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/boat-superyate-submarino-lujo-cuesta-25-millones-dolares-1135645'>Así es U-Boat: el superyate submarino de lujo que cuesta 25 millones de dólares</a></h4>
+    <a href='https://computerhoy.com/noticias/boat-superyate-submarino-lujo-cuesta-25-millones-dolares-1135645' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/yate-submarino-2833937.jpg' alt='Así es U-Boat: el superyate submarino de lujo que cuesta 25 millones de dólares' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/gaming/unboxing-rtx-4090-tarjeta-grafica-potente-mundo-1134533'>Unboxing de la RTX 4090: así es la tarjeta gráfica más potente del mundo </a></h4>
     <a href='https://computerhoy.com/reportajes/gaming/unboxing-rtx-4090-tarjeta-grafica-potente-mundo-1134533' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/nvidia-rtx-4090-2831909.jpg' alt='Unboxing de la RTX 4090: así es la tarjeta gráfica más potente del mundo' />
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/nvidia-rtx-4090-2831909.jpg' alt='Unboxing de la RTX 4090: así es la tarjeta gráfica más potente del mundo ' />
     </a>
 </div>
 
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/nvidia-rtx-4090-corre-overwatch-2-360-fps-25k-resolucion-1135631'>La NVIDIA RTX 4090 corre Overwatch 2 a más de 360 fps a 2,5K de resolución</a></h4>
     <a href='https://computerhoy.com/noticias/nvidia-rtx-4090-corre-overwatch-2-360-fps-25k-resolucion-1135631' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/rtx-4090-overwatch-2-2833741.jpg' alt='La NVIDIA RTX 4090 corre Overwatch 2 a más de 360 fps a 2,5K de resolución' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/mediamarkt-bate-amazon-terreno-rebaja-kindle-vendidos-aun-tienda-oficial-1134369'>MediaMarkt bate a Amazon en su terreno: rebaja uno de los Kindle más vendidos aún más que la tienda oficial</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/mediamarkt-bate-amazon-terreno-rebaja-kindle-vendidos-aun-tienda-oficial-1134369' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/kindle-paperwhite-2021-2479915.jpg' alt='MediaMarkt bate a Amazon en su terreno: rebaja uno de los Kindle más vendidos aún más que la tienda oficial' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/hacer-cuando-no-puedes-acceder-whatsapp-web-culpa-codigo-qr-1050475'>Qué hacer cuando no puedes acceder a WhatsApp Web por culpa del código QR</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/hacer-cuando-no-puedes-acceder-whatsapp-web-culpa-codigo-qr-1050475' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/whatsapp-2670977.jpg' alt='Qué hacer cuando no puedes acceder a WhatsApp Web por culpa del código QR' />
     </a>
 </div>
 
