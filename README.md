@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/elon-musk-tenia-razon-tesla-model-x-convierte-lancha-han-comprobado-huracan-ian-1135477'>Elon Musk tenía razón: el Tesla Model X se convierte en una lancha y lo han comprobado con el huracán Ian</a></h4>
+    <a href='https://computerhoy.com/noticias/elon-musk-tenia-razon-tesla-model-x-convierte-lancha-han-comprobado-huracan-ian-1135477' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/tesla-model-x-2833383.jpg' alt='Elon Musk tenía razón: el Tesla Model X se convierte en una lancha y lo han comprobado con el huracán Ian' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/32-noticias-tecnologia-comenzar-manana-informado-ultimo-1135443'>32 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/32-noticias-tecnologia-comenzar-manana-informado-ultimo-1135443' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/31-noticias-tecnologia-comenzar-manana-informado-ultimo-2833307.jpg' alt='32 noticias de tecnología para comenzar la mañana informado de lo último' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/gaming/stadia-drama-cerrar-plataforma-nube-1135229'>Stadia, el drama de cerrar una plataforma en la nube: juegos exclusivos en el limbo, compras sin valor, y jugadores desesperados</a></h4>
     <a href='https://computerhoy.com/noticias/gaming/stadia-drama-cerrar-plataforma-nube-1135229' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/stadia-drama-cerrar-plataforma-streaming-juegos-limbo-compras-valor-jugadores-desesperados-2833117.jpg' alt='Stadia, el drama de cerrar una plataforma en la nube: juegos exclusivos en el limbo, compras sin valor, y jugadores desesperados' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/ludosport-deporte-jedi-star-wars-1135221'>Ludosport, el deporte que te convierte en un Jedi sin  necesidad de "viajar" a Star Wars</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/ludosport-deporte-jedi-star-wars-1135221' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/ludosport-deporte-te-convierte-jedi-necesidad-viajar-star-wars-2833069.jpg' alt='Ludosport, el deporte que te convierte en un Jedi sin  necesidad de "viajar" a Star Wars' />
     </a>
 </div>
 
