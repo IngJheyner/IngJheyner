@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/realme-gt-neo-3t-5g-oferta-1135829'>realme GT Neo 3T 5G, un móvil potente con carga rápida a 80 W, por solo 362 euros</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/realme-gt-neo-3t-5g-oferta-1135829' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/realme-gt-neo-3t-2725139.jpg' alt='realme GT Neo 3T 5G, un móvil potente con carga rápida a 80 W, por solo 362 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/dahmer-serie-canibal-milwaukee-netflix-1135823'>Dahmer, la serie que cuenta la vida del Caníbal de Milwaukee, ya está entre las más vistas de toda la historia de Netflix</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/dahmer-serie-canibal-milwaukee-netflix-1135823' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/verticalimage1664995558550-2834199.jpg' alt='Dahmer, la serie que cuenta la vida del Caníbal de Milwaukee, ya está entre las más vistas de toda la historia de Netflix' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/como-saber-esa-moneda-5-pesetas-has-encontrado-casa-tiene-algun-valor-1135799'>Cómo saber si esa moneda de 5 pesetas que has encontrado por casa tiene algún valor</a></h4>
     <a href='https://computerhoy.com/noticias/como-saber-esa-moneda-5-pesetas-has-encontrado-casa-tiene-algun-valor-1135799' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/aun-te-quedan-pesetas-bancos-ya-no-canjean-unica-manera-ganar-dinero-ellas-2415457.jpg' alt='Cómo saber si esa moneda de 5 pesetas que has encontrado por casa tiene algún valor' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/quieres-trabajar-apple-necesitas-algo-experiencia-laboral-tim-cook-1135805'>Si quieres trabajar para Apple necesitas algo más que experiencia laboral, según Tim Cook</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/quieres-trabajar-apple-necesitas-algo-experiencia-laboral-tim-cook-1135805' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/tim-cook-2834173.jpg' alt='Si quieres trabajar para Apple necesitas algo más que experiencia laboral, según Tim Cook' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/piensan-pildora-no-sera-necesario-ni-hagas-ejercicio-controlar-peso-1135803'>Piensan en una píldora con la que no será necesario ni que hagas ejercicio para controlar tu peso</a></h4>
-    <a href='https://computerhoy.com/noticias/life/piensan-pildora-no-sera-necesario-ni-hagas-ejercicio-controlar-peso-1135803' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/hacer-ejercicio-2834155.jpg' alt='Piensan en una píldora con la que no será necesario ni que hagas ejercicio para controlar tu peso' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tesla-sigue-quitando-sensores-coches-muestra-confianza-ciega-camaras-1135775'>Tesla sigue quitando sensores a sus coches y muestra confianza ciega en sus cámaras</a></h4>
-    <a href='https://computerhoy.com/noticias/tesla-sigue-quitando-sensores-coches-muestra-confianza-ciega-camaras-1135775' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/tesla-2676199.jpg' alt='Tesla sigue quitando sensores a sus coches y muestra confianza ciega en sus cámaras' />
     </a>
 </div>
 
