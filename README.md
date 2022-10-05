@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/32-noticias-tecnologia-comenzar-manana-informado-ultimo-1135443'>32 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/32-noticias-tecnologia-comenzar-manana-informado-ultimo-1135443' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/31-noticias-tecnologia-comenzar-manana-informado-ultimo-2833307.jpg' alt='32 noticias de tecnología para comenzar la mañana informado de lo último' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/listas/tecnologia/estas-sillas-ergonomicas-son-perfectas-trabajar-jugar-595369'>Estas sillas ergonómicas son perfectas para trabajar y jugar</a></h4>
+    <a href='https://computerhoy.com/listas/tecnologia/estas-sillas-ergonomicas-son-perfectas-trabajar-jugar-595369' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/zona-trabajo-silla-oficina-ergonomica-mesa-ajuste-altura-2832671.jpg' alt='Estas sillas ergonómicas son perfectas para trabajar y jugar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/polucion-digital-irl-trashcan-papelera-fisica-borra-emails-1135435'>La papelera física que borra tus emails para alertar sobre un problema desconocido: la polución digital</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/polucion-digital-irl-trashcan-papelera-fisica-borra-emails-1135435' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/verticalimage1664936638391-2833301.jpg' alt='La papelera física que borra tus emails para alertar sobre un problema desconocido: la polución digital' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/ludosport-deporte-jedi-star-wars-1135221'>Ludosport, el deporte que te convierte en un Jedi sin  necesidad de "viajar" a Star Wars</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/ludosport-deporte-jedi-star-wars-1135221' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/ludosport-deporte-te-convierte-jedi-necesidad-viajar-star-wars-2833069.jpg' alt='Ludosport, el deporte que te convierte en un Jedi sin  necesidad de "viajar" a Star Wars' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/routers-wifi-6-en-malla-eero-plus-oferta-1135209'>Estos routers WiFi 6 de Amazon son los definitivos: 420 m2 de WiFi sin cortes</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/routers-wifi-6-en-malla-eero-plus-oferta-1135209' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/estos-routers-wifi-6-amazon-son-definitivos-420-m2-wifi-cortes-2833029.jpg' alt='Estos routers WiFi 6 de Amazon son los definitivos: 420 m2 de WiFi sin cortes' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/google-nets-wifi-pro-nuevo-router-wifi-6e-mesh-google-1135143'>Google Nest WiFi Pro: así es el nuevo router con WiFi 6E y Mesh de Google</a></h4>
-    <a href='https://computerhoy.com/noticias/google-nets-wifi-pro-nuevo-router-wifi-6e-mesh-google-1135143' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/google-nest-wifi-pro-nuevo-router-wifi-6e-mesh-google-2833021.jpg' alt='Google Nest WiFi Pro: así es el nuevo router con WiFi 6E y Mesh de Google' />
     </a>
 </div>
 
