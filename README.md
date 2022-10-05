@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/ataque-ddos-ha-arruinado-estreno-overwatch-2-provocado-colas-30000-usuarios-1135481'>Un ataque DDoS ha arruinado el estreno de Overwatch 2 y provocado colas de 30.000 usuarios</a></h4>
+    <a href='https://computerhoy.com/noticias/ataque-ddos-ha-arruinado-estreno-overwatch-2-provocado-colas-30000-usuarios-1135481' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/overwatch-2-2833297.jpg' alt='Un ataque DDoS ha arruinado el estreno de Overwatch 2 y provocado colas de 30.000 usuarios' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/motivos-comprar-xiaomi-smart-band-7-pro-pulsera-actividad-1135453'>5 motivos por el que te merece comprar una Xiaomi Smart Band 7 Pro antes que cualquier otra pulsera de actividad</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/motivos-comprar-xiaomi-smart-band-7-pro-pulsera-actividad-1135453' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/xiaomi-smart-band-7-pro-2833395.jpg' alt='5 motivos por el que te merece comprar una Xiaomi Smart Band 7 Pro antes que cualquier otra pulsera de actividad' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/elon-musk-tenia-razon-tesla-model-x-convierte-lancha-han-comprobado-huracan-ian-1135477'>Elon Musk tenía razón: el Tesla Model X se convierte en una lancha y lo han comprobado con el huracán Ian</a></h4>
     <a href='https://computerhoy.com/noticias/elon-musk-tenia-razon-tesla-model-x-convierte-lancha-han-comprobado-huracan-ian-1135477' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/tesla-model-x-2833383.jpg' alt='Elon Musk tenía razón: el Tesla Model X se convierte en una lancha y lo han comprobado con el huracán Ian' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/listas/tecnologia/estas-sillas-ergonomicas-son-perfectas-trabajar-jugar-595369'>Estas sillas ergonómicas son perfectas para trabajar y jugar</a></h4>
     <a href='https://computerhoy.com/listas/tecnologia/estas-sillas-ergonomicas-son-perfectas-trabajar-jugar-595369' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/zona-trabajo-silla-oficina-ergonomica-mesa-ajuste-altura-2832671.jpg' alt='Estas sillas ergonómicas son perfectas para trabajar y jugar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/polucion-digital-irl-trashcan-papelera-fisica-borra-emails-1135435'>La papelera física que borra tus emails para alertar sobre un problema desconocido: la polución digital</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/polucion-digital-irl-trashcan-papelera-fisica-borra-emails-1135435' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/verticalimage1664936638391-2833301.jpg' alt='La papelera física que borra tus emails para alertar sobre un problema desconocido: la polución digital' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/gaming/stadia-drama-cerrar-plataforma-nube-1135229'>Stadia, el drama de cerrar una plataforma en la nube: juegos exclusivos en el limbo, compras sin valor, y jugadores desesperados</a></h4>
-    <a href='https://computerhoy.com/noticias/gaming/stadia-drama-cerrar-plataforma-nube-1135229' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/stadia-drama-cerrar-plataforma-streaming-juegos-limbo-compras-valor-jugadores-desesperados-2833117.jpg' alt='Stadia, el drama de cerrar una plataforma en la nube: juegos exclusivos en el limbo, compras sin valor, y jugadores desesperados' />
     </a>
 </div>
 
