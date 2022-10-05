@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/mapa-muestra-pais-exporta-espana-provincia-provincia-1135569'>El mapa que muestra a qué país se exporta más desde España, provincia a provincia</a></h4>
+    <a href='https://computerhoy.com/noticias/mapa-muestra-pais-exporta-espana-provincia-provincia-1135569' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/mapa-muestra-pais-exporta-espana-provincia-provincia-2833653.jpg' alt='El mapa que muestra a qué país se exporta más desde España, provincia a provincia' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/movil-barato-xiaomi-abandera-gama-entrada-ahora-oferta-amazon-1134327'>Este es el móvil barato de Xiaomi que abandera su gama de entrada, y ahora está en oferta en Amazon</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/movil-barato-xiaomi-abandera-gama-entrada-ahora-oferta-amazon-1134327' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/redmi-10-analisis-opinion-2523315.jpg' alt='Este es el móvil barato de Xiaomi que abandera su gama de entrada, y ahora está en oferta en Amazon' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/apple-quiere-seguir-vendiendo-iphones-2025-europa-tendran-tener-usb-c-1135553'>Si Apple quiere seguir vendiendo iPhones en 2024 en Europa, tendrán que tener USB-C</a></h4>
     <a href='https://computerhoy.com/noticias/apple-quiere-seguir-vendiendo-iphones-2025-europa-tendran-tener-usb-c-1135553' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/iphone-13-2824605.jpg' alt='Si Apple quiere seguir vendiendo iPhones en 2024 en Europa, tendrán que tener USB-C' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/dev-dgt-deberias-crear-cuenta-eres-conductor-1135529'>Qué es la DEV de la DGT y por qué deberías crear tu cuenta si eres conductor</a></h4>
     <a href='https://computerhoy.com/noticias/dev-dgt-deberias-crear-cuenta-eres-conductor-1135529' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/02/mitad-conductores-renunciaria-coche-antes-movil-1862531.jpg' alt='Qué es la DEV de la DGT y por qué deberías crear tu cuenta si eres conductor' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/hace-oficial-lanzamiento-estandar-smarthome-matter-10-pronto-llegara-apple-lanzamiento-ios-161-1135491'>Llega Matter 1.0 oficialmente a Android, pronto para Apple con iOS 16.1 </a></h4>
-    <a href='https://computerhoy.com/noticias/hace-oficial-lanzamiento-estandar-smarthome-matter-10-pronto-llegara-apple-lanzamiento-ios-161-1135491' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/hace-oficial-lanzamiento-estandar-smarthome-matter-10-pronto-llegara-apple-lanzamiento-ios-161-2833413.jpg' alt='Llega Matter 1.0 oficialmente a Android, pronto para Apple con iOS 16.1 ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/buenas-noticias-pc-sony-confirma-exclusivos-ps5-saldran-siempre-ordenador-1135489'>Buenas noticias para el PC: Sony confirma que sus exclusivos de PS5 saldrán siempre en ordenador</a></h4>
-    <a href='https://computerhoy.com/noticias/buenas-noticias-pc-sony-confirma-exclusivos-ps5-saldran-siempre-ordenador-1135489' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/11/analisis-ps5-computerhoy-2140495.jpg' alt='Buenas noticias para el PC: Sony confirma que sus exclusivos de PS5 saldrán siempre en ordenador' />
     </a>
 </div>
 
