@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/listas/entretenimiento/mejores-alternativas-spotify-escuchar-musica-podcast-1135731'>Las mejores alternativas a Spotify para escuchar música y podcast</a></h4>
+    <a href='https://computerhoy.com/listas/entretenimiento/mejores-alternativas-spotify-escuchar-musica-podcast-1135731' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/spotify-web-guia-completa-todo-debes-saber-escuchar-musica-navegador-2482061.jpg' alt='Las mejores alternativas a Spotify para escuchar música y podcast' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/amazon-kids-llega-alexa-espana-diversion-peques-casa-1135733'>Amazon Kids llega a Alexa en España, diversión para los peques en casa</a></h4>
+    <a href='https://computerhoy.com/noticias/amazon-kids-llega-alexa-espana-diversion-peques-casa-1135733' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/amazon-kids-llega-alexa-espana-diversion-peques-casa-2834017.jpg' alt='Amazon Kids llega a Alexa en España, diversión para los peques en casa' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/oppo-a77s-movil-apunta-superventas-gama-media-aires-premium-1135687'>Oppo A77s, el móvil que apunta a superventas de la gama media con aires premium</a></h4>
     <a href='https://computerhoy.com/noticias/oppo-a77s-movil-apunta-superventas-gama-media-aires-premium-1135687' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/oppo-a77s-movil-apunta-superventas-gama-media-aires-premium-2833991.jpg' alt='Oppo A77s, el móvil que apunta a superventas de la gama media con aires premium' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/gaming/unboxing-rtx-4090-tarjeta-grafica-potente-mundo-1134533'>Unboxing de la RTX 4090: así es la tarjeta gráfica más potente del mundo </a></h4>
     <a href='https://computerhoy.com/reportajes/gaming/unboxing-rtx-4090-tarjeta-grafica-potente-mundo-1134533' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/nvidia-rtx-4090-2831909.jpg' alt='Unboxing de la RTX 4090: así es la tarjeta gráfica más potente del mundo ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/pixel-watch-vs-apple-watch-tamano-importa-1135619'>Pixel Watch vs Apple Watch, el tamaño importa</a></h4>
-    <a href='https://computerhoy.com/noticias/pixel-watch-vs-apple-watch-tamano-importa-1135619' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/pixel-watch-vs-apple-watch-tamano-importa-2833751.jpg' alt='Pixel Watch vs Apple Watch, el tamaño importa' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/nvidia-rtx-4090-corre-overwatch-2-360-fps-25k-resolucion-1135631'>La NVIDIA RTX 4090 corre Overwatch 2 a más de 360 fps a 2,5K de resolución</a></h4>
-    <a href='https://computerhoy.com/noticias/nvidia-rtx-4090-corre-overwatch-2-360-fps-25k-resolucion-1135631' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/rtx-4090-overwatch-2-2833741.jpg' alt='La NVIDIA RTX 4090 corre Overwatch 2 a más de 360 fps a 2,5K de resolución' />
     </a>
 </div>
 
