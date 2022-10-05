@@ -50,9 +50,33 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/hace-oficial-lanzamiento-estandar-smarthome-matter-10-pronto-llegara-apple-lanzamiento-ios-161-1135491'>Se hace oficial el lanzamiento del estándar smarthome Matter 1.0, que pronto llegará a Apple con el lanzamiento de iOS 16.1 </a></h4>
+    <h4><a href='https://computerhoy.com/noticias/apple-quiere-seguir-vendiendo-iphones-2025-europa-tendran-tener-usb-c-1135553'>Si Apple quiere seguir vendiendo iPhones en 2024 en Europa, tendrán que tener USB-C</a></h4>
+    <a href='https://computerhoy.com/noticias/apple-quiere-seguir-vendiendo-iphones-2025-europa-tendran-tener-usb-c-1135553' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/iphone-13-2824605.jpg' alt='Si Apple quiere seguir vendiendo iPhones en 2024 en Europa, tendrán que tener USB-C' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/proyector-tactil-videollamadas-glow-otro-fracaso-amazon-1135533'>El proyector táctil para videollamadas, Glow, otro fracaso para Amazon</a></h4>
+    <a href='https://computerhoy.com/noticias/proyector-tactil-videollamadas-glow-otro-fracaso-amazon-1135533' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/proyector-tactil-videollamadas-glow-otro-fracaso-amazon-2833553.jpg' alt='El proyector táctil para videollamadas, Glow, otro fracaso para Amazon' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/dev-dgt-deberias-crear-cuenta-eres-conductor-1135529'>Qué es la DEV de la DGT y por qué deberías crear tu cuenta si eres conductor</a></h4>
+    <a href='https://computerhoy.com/noticias/dev-dgt-deberias-crear-cuenta-eres-conductor-1135529' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/02/mitad-conductores-renunciaria-coche-antes-movil-1862531.jpg' alt='Qué es la DEV de la DGT y por qué deberías crear tu cuenta si eres conductor' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/hace-oficial-lanzamiento-estandar-smarthome-matter-10-pronto-llegara-apple-lanzamiento-ios-161-1135491'>Llega Matter 1.0 oficialmente a Android, pronto para Apple con iOS 16.1 </a></h4>
     <a href='https://computerhoy.com/noticias/hace-oficial-lanzamiento-estandar-smarthome-matter-10-pronto-llegara-apple-lanzamiento-ios-161-1135491' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/hace-oficial-lanzamiento-estandar-smarthome-matter-10-pronto-llegara-apple-lanzamiento-ios-161-2833413.jpg' alt='Se hace oficial el lanzamiento del estándar smarthome Matter 1.0, que pronto llegará a Apple con el lanzamiento de iOS 16.1 ' />
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/hace-oficial-lanzamiento-estandar-smarthome-matter-10-pronto-llegara-apple-lanzamiento-ios-161-2833413.jpg' alt='Llega Matter 1.0 oficialmente a Android, pronto para Apple con iOS 16.1 ' />
     </a>
 </div>
 
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/buenas-noticias-pc-sony-confirma-exclusivos-ps5-saldran-siempre-ordenador-1135489'>Buenas noticias para el PC: Sony confirma que sus exclusivos de PS5 saldrán siempre en ordenador</a></h4>
     <a href='https://computerhoy.com/noticias/buenas-noticias-pc-sony-confirma-exclusivos-ps5-saldran-siempre-ordenador-1135489' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/11/analisis-ps5-computerhoy-2140495.jpg' alt='Buenas noticias para el PC: Sony confirma que sus exclusivos de PS5 saldrán siempre en ordenador' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/tienda-espanola-ya-ha-rebajado-iphone-14-cae-menos-1000-euros-1134315'>Esta tienda española ya ha rebajado el iPhone 14: cae a menos de 1.000 euros</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/tienda-espanola-ya-ha-rebajado-iphone-14-cae-menos-1000-euros-1134315' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/analisis-iphone-14-2821545.jpg' alt='Esta tienda española ya ha rebajado el iPhone 14: cae a menos de 1.000 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/ataque-ddos-ha-arruinado-estreno-overwatch-2-provocado-colas-30000-usuarios-1135481'>Un ataque DDoS ha arruinado el estreno de Overwatch 2 y provocado colas de 30.000 usuarios</a></h4>
-    <a href='https://computerhoy.com/noticias/ataque-ddos-ha-arruinado-estreno-overwatch-2-provocado-colas-30000-usuarios-1135481' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/overwatch-2-2833297.jpg' alt='Un ataque DDoS ha arruinado el estreno de Overwatch 2 y provocado colas de 30.000 usuarios' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/motivos-comprar-xiaomi-smart-band-7-pro-pulsera-actividad-1135453'>5 motivos por el que te merece comprar una Xiaomi Smart Band 7 Pro antes que cualquier otra pulsera de actividad</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/motivos-comprar-xiaomi-smart-band-7-pro-pulsera-actividad-1135453' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/xiaomi-smart-band-7-pro-2833395.jpg' alt='5 motivos por el que te merece comprar una Xiaomi Smart Band 7 Pro antes que cualquier otra pulsera de actividad' />
     </a>
 </div>
 
