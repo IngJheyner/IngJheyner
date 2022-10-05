@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/coche-vs-tren-300-km-h-video-1135811'>Se pica con un tren a 300 km/h y lo graba mientras conduce (vídeo)</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/coche-vs-tren-300-km-h-video-1135811' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/pica-tren-300-km-h-graba-mientras-conduce-video-2834185.jpg' alt='Se pica con un tren a 300 km/h y lo graba mientras conduce (vídeo)' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/quieres-trabajar-apple-necesitas-algo-experiencia-laboral-tim-cook-1135805'>Si quieres trabajar para Apple necesitas algo más que experiencia laboral, según Tim Cook</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/quieres-trabajar-apple-necesitas-algo-experiencia-laboral-tim-cook-1135805' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/tim-cook-2834173.jpg' alt='Si quieres trabajar para Apple necesitas algo más que experiencia laboral, según Tim Cook' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/piensan-pildora-no-sera-necesario-ni-hagas-ejercicio-controlar-peso-1135803'>Piensan en una píldora con la que no será necesario ni que hagas ejercicio para controlar tu peso</a></h4>
+    <a href='https://computerhoy.com/noticias/life/piensan-pildora-no-sera-necesario-ni-hagas-ejercicio-controlar-peso-1135803' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/hacer-ejercicio-2834155.jpg' alt='Piensan en una píldora con la que no será necesario ni que hagas ejercicio para controlar tu peso' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tesla-sigue-quitando-sensores-coches-muestra-confianza-ciega-camaras-1135775'>Tesla sigue quitando sensores a sus coches y muestra confianza ciega en sus cámaras</a></h4>
     <a href='https://computerhoy.com/noticias/tesla-sigue-quitando-sensores-coches-muestra-confianza-ciega-camaras-1135775' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/tesla-2676199.jpg' alt='Tesla sigue quitando sensores a sus coches y muestra confianza ciega en sus cámaras' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/cuales-son-ocu-companias-electricas-gas-favoritas-espanoles-1135773'>Cuales son, según la OCU, las compañías eléctricas y gas favoritas de los españoles</a></h4>
     <a href='https://computerhoy.com/noticias/cuales-son-ocu-companias-electricas-gas-favoritas-espanoles-1135773' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/electricidad-euro-2636485.jpg' alt='Cuales son, según la OCU, las compañías eléctricas y gas favoritas de los españoles' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-baratos-xiaomi-5g-937217'>Estos son los móviles con 5G más baratos de Xiaomi</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-baratos-xiaomi-5g-937217' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/poco-m4-pro-5g-2527121.jpg' alt='Estos son los móviles con 5G más baratos de Xiaomi' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/listas/entretenimiento/mejores-alternativas-spotify-escuchar-musica-podcast-1135731'>Las mejores alternativas a Spotify para escuchar música y podcast</a></h4>
-    <a href='https://computerhoy.com/listas/entretenimiento/mejores-alternativas-spotify-escuchar-musica-podcast-1135731' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/spotify-web-guia-completa-todo-debes-saber-escuchar-musica-navegador-2482061.jpg' alt='Las mejores alternativas a Spotify para escuchar música y podcast' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/amazon-kids-llega-alexa-espana-diversion-peques-casa-1135733'>Amazon Kids llega a Alexa en España, diversión para los peques en casa</a></h4>
-    <a href='https://computerhoy.com/noticias/amazon-kids-llega-alexa-espana-diversion-peques-casa-1135733' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/amazon-kids-llega-alexa-espana-diversion-peques-casa-2834017.jpg' alt='Amazon Kids llega a Alexa en España, diversión para los peques en casa' />
     </a>
 </div>
 
