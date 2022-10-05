@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/polucion-digital-irl-trashcan-papelera-fisica-borra-emails-1135435'>La papelera física que borra tus emails para alertar sobre un problema desconocido: la polución digital</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/polucion-digital-irl-trashcan-papelera-fisica-borra-emails-1135435' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/verticalimage1664936638391-2833301.jpg' alt='La papelera física que borra tus emails para alertar sobre un problema desconocido: la polución digital' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/gaming/stadia-drama-cerrar-plataforma-nube-1135229'>Stadia, el drama de cerrar una plataforma en la nube: juegos exclusivos en el limbo, compras sin valor, y jugadores desesperados</a></h4>
     <a href='https://computerhoy.com/noticias/gaming/stadia-drama-cerrar-plataforma-nube-1135229' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/stadia-drama-cerrar-plataforma-streaming-juegos-limbo-compras-valor-jugadores-desesperados-2833117.jpg' alt='Stadia, el drama de cerrar una plataforma en la nube: juegos exclusivos en el limbo, compras sin valor, y jugadores desesperados' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/google-nets-wifi-pro-nuevo-router-wifi-6e-mesh-google-1135143'>Google Nest WiFi Pro: así es el nuevo router con WiFi 6E y Mesh de Google</a></h4>
     <a href='https://computerhoy.com/noticias/google-nets-wifi-pro-nuevo-router-wifi-6e-mesh-google-1135143' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/google-nest-wifi-pro-nuevo-router-wifi-6e-mesh-google-2833021.jpg' alt='Google Nest WiFi Pro: así es el nuevo router con WiFi 6E y Mesh de Google' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/agricultor-cordobes-construye-coche-formula-1-montilla-1135201'>Un agricultor cordobés construye un coche de Fórmula 1 y asegura que puede correr a 250 Km/h</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/agricultor-cordobes-construye-coche-formula-1-montilla-1135201' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/agricultor-cordobes-construye-coche-formula-1-ahora-quiere-correr-circuito-2833019.jpg' alt='Un agricultor cordobés construye un coche de Fórmula 1 y asegura que puede correr a 250 Km/h' />
     </a>
 </div>
 
