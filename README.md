@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/trailer-super-mario-bros-pelicula-1136489'>¡Este es el tráiler de Super Mario Bros La Película!</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/trailer-super-mario-bros-pelicula-1136489' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/verticalimage1665088337418-2835435.jpg' alt='¡Este es el tráiler de Super Mario Bros La Película!' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/robot-aspirador-friegasuelos-conga-999-vital-x-descuento-1136473'>El robot aspirador y friegasuelos Conga 999 Vital X lo hace todo bien y baja de precio a solo 129 euros</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/robot-aspirador-friegasuelos-conga-999-vital-x-descuento-1136473' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/l-robot-aspirador-friegasuelos-conga-999-vital-x-hace-todo-bien-baja-precio-solo-129-euros-2835401.jpg' alt='El robot aspirador y friegasuelos Conga 999 Vital X lo hace todo bien y baja de precio a solo 129 euros' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/estas-cuentas-whatsapp-ya-pueden-empezar-utilizar-whatsapp-premium-funcionalidades-exclusivas-1136455'>Estas cuentas de WhatsApp ya pueden empezar a utilizar WhatsApp Premium con funcionalidades exclusivas</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/estas-cuentas-whatsapp-ya-pueden-empezar-utilizar-whatsapp-premium-funcionalidades-exclusivas-1136455' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/whatsapp-business-2734971.jpg' alt='Estas cuentas de WhatsApp ya pueden empezar a utilizar WhatsApp Premium con funcionalidades exclusivas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/estas-son-todas-razones-no-deberias-apagar-router-noche-1136451'>Estas son todas las razones por las que no deberías apagar el router por la noche</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/estas-son-todas-razones-no-deberias-apagar-router-noche-1136451' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/router-2835351.jpg' alt='Estas son todas las razones por las que no deberías apagar el router por la noche' />
     </a>
 </div>
 
