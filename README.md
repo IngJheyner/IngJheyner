@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-destacar-detalles-importantes-google-docs-creando-caja-texto-1136371'>Cómo destacar detalles importantes en Google Docs creando una caja de texto</a></h4>
+    <a href='https://computerhoy.com/tutoriales/tecnologia/como-destacar-detalles-importantes-google-docs-creando-caja-texto-1136371' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/04/google-docs.jpg' alt='Cómo destacar detalles importantes en Google Docs creando una caja de texto' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/google-pixel-7-pixel-7-pro-tensor-g2-interior-android-13-camaras-competir-gama-alta-1136277'>Google Pixel 7 y Pixel 7 Pro: Tensor G2 en el interior, Android 13 y cámaras para competir con la gama alta</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/google-pixel-7-pixel-7-pro-tensor-g2-interior-android-13-camaras-competir-gama-alta-1136277' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/google-pixel-7-pixel-7-pro-tensor-g2-interior-android-13-camaras-competir-gama-alta-2835055.jpg' alt='Google Pixel 7 y Pixel 7 Pro: Tensor G2 en el interior, Android 13 y cámaras para competir con la gama alta' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/mejora-visualizacion-monitor-hdr-windows-11-aplicacion-oficial-microsoft-1136309'>Mejora la visualización en tu monitor HDR con Windows 11 y esta aplicación oficial de Microsoft</a></h4>
+    <a href='https://computerhoy.com/noticias/mejora-visualizacion-monitor-hdr-windows-11-aplicacion-oficial-microsoft-1136309' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/analisis-monitor-hp-u28-4k-hdr-2766377.jpg' alt='Mejora la visualización en tu monitor HDR con Windows 11 y esta aplicación oficial de Microsoft' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-integrar-mapa-google-maps-documento-google-docs-1136273'>Cómo integrar un mapa de Google Maps en un documento de Google Docs</a></h4>
     <a href='https://computerhoy.com/tutoriales/tecnologia/como-integrar-mapa-google-maps-documento-google-docs-1136273' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/cambio-importante-google-maps-ya-no-recomendara-ruta-rapida-2494857.jpg' alt='Cómo integrar un mapa de Google Maps en un documento de Google Docs' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/nueva-funcion-twitter-imagenes-videos-gif-solo-tuit-1136317'>Nueva función de Twitter: imágenes, vídeos y GIF en un solo tuit</a></h4>
     <a href='https://computerhoy.com/noticias/nueva-funcion-twitter-imagenes-videos-gif-solo-tuit-1136317' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/nueva-funcion-twitter-imagenes-videos-gif-solo-tuit-2835015.jpg' alt='Nueva función de Twitter: imágenes, vídeos y GIF en un solo tuit' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-enviar-mensaje-whatsapp-agregar-contacto-agenda-810385'>Cómo enviar un mensaje de WhatsApp sin agregar el contacto a la agenda</a></h4>
-    <a href='https://computerhoy.com/tutoriales/tecnologia/como-enviar-mensaje-whatsapp-agregar-contacto-agenda-810385' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/whatsapp-logo-2834999.jpg' alt='Cómo enviar un mensaje de WhatsApp sin agregar el contacto a la agenda' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/planes-samsung-ssd-2030-memorias-1000-tb-1136281'>Los planes de Samsung para los SSD en 2030: memorias de 1.000 TB</a></h4>
-    <a href='https://computerhoy.com/noticias/planes-samsung-ssd-2030-memorias-1000-tb-1136281' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/09/samsung-lanza-primer-ssd-pcie-40-rapido-todos-2079877.jpg' alt='Los planes de Samsung para los SSD en 2030: memorias de 1.000 TB' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/estas-son-imagenes-impresionantes-ano-pano-awards-2022-1136229'>Estas son las imágenes más impresionantes del año, Pano Awards 2022</a></h4>
-    <a href='https://computerhoy.com/noticias/estas-son-imagenes-impresionantes-ano-pano-awards-2022-1136229' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/mejores-fotografias-2022-2834831.jpg' alt='Estas son las imágenes más impresionantes del año, Pano Awards 2022' />
     </a>
 </div>
 
