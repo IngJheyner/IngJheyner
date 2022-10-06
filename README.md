@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/estas-son-todas-razones-no-deberias-apagar-router-noche-1136451'>Estas son todas las razones por las que no deberías apagar el router por la noche</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/estas-son-todas-razones-no-deberias-apagar-router-noche-1136451' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/router-2835351.jpg' alt='Estas son todas las razones por las que no deberías apagar el router por la noche' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/ahora-nunca-memoria-ram-ssd-aumentaran-precios-descenso-produccion-1136401'>Ahora o nunca, la memoria RAM y los SSD aumentarán de precios por descenso de la producción</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/ahora-nunca-memoria-ram-ssd-aumentaran-precios-descenso-produccion-1136401' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/unidad-ssd-nvme-m2-instalada-torre-ordenador-2764077.jpg' alt='Ahora o nunca, la memoria RAM y los SSD aumentarán de precios por descenso de la producción' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/pasar-itv-antes-tiempo-1136443'>Ya es posible pasar la ITV antes de tiempo, te explicamos por qué es recomendable hacerlo</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/pasar-itv-antes-tiempo-1136443' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/itv-2475297.jpg' alt='Ya es posible pasar la ITV antes de tiempo, te explicamos por qué es recomendable hacerlo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/google-vuelve-sector-tablets-hace-nueva-google-pixel-tablet-1136439'>Google vuelve al sector de las tablets y lo hace con la nueva Google Pixel Tablet</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/google-vuelve-sector-tablets-hace-nueva-google-pixel-tablet-1136439' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/google-vuelve-sector-tablets-hace-nueva-google-pixel-tablet-2835331.jpg' alt='Google vuelve al sector de las tablets y lo hace con la nueva Google Pixel Tablet' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-aspiradoras-inalambricas-808033'>Estas son las mejores aspiradoras inalámbricas que puedes comprar en 2022</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/mejores-aspiradoras-inalambricas-808033' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/dyson-omni-glide-2641155.jpg' alt='Estas son las mejores aspiradoras inalámbricas que puedes comprar en 2022' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/google-pixel-watch-primer-reloj-inteligente-google-llega-claras-desventajas-1136385'>Google Pixel Watch: así es el primer reloj inteligente de Google que llega con claras desventajas</a></h4>
-    <a href='https://computerhoy.com/noticias/google-pixel-watch-primer-reloj-inteligente-google-llega-claras-desventajas-1136385' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/google-pixel-watch-pixel-buds-pro-primer-reloj-compania-llega-junto-auriculares-audio-espacial-2699763.jpg' alt='Google Pixel Watch: así es el primer reloj inteligente de Google que llega con claras desventajas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/ia-ya-capaz-predecir-lectura-retina-podrias-padecer-ataque-corazon-1136319'>La IA ya es capaz de predecir, con una lectura de retina, si podrías padecer un ataque al corazón</a></h4>
-    <a href='https://computerhoy.com/noticias/ia-ya-capaz-predecir-lectura-retina-podrias-padecer-ataque-corazon-1136319' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/inteligencia-artificial-2835023.jpg' alt='La IA ya es capaz de predecir, con una lectura de retina, si podrías padecer un ataque al corazón' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/android-auto-moviles-pierde-caracteristica-fundamental-google-maps-1136351'>Android Auto para móviles pierde una característica fundamental de Google Maps</a></h4>
-    <a href='https://computerhoy.com/noticias/android-auto-moviles-pierde-caracteristica-fundamental-google-maps-1136351' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/android-auto-2663003.jpg' alt='Android Auto para móviles pierde una característica fundamental de Google Maps' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/google-pixel-7-pixel-7-pro-tensor-g2-interior-android-13-camaras-competir-gama-alta-1136277'>Google Pixel 7 y Pixel 7 Pro: Tensor G2 en el interior, Android 13 y cámaras para competir con la gama alta</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/google-pixel-7-pixel-7-pro-tensor-g2-interior-android-13-camaras-competir-gama-alta-1136277' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/google-pixel-7-pixel-7-pro-tensor-g2-interior-android-13-camaras-competir-gama-alta-2835055.jpg' alt='Google Pixel 7 y Pixel 7 Pro: Tensor G2 en el interior, Android 13 y cámaras para competir con la gama alta' />
     </a>
 </div>
 
