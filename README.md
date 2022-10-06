@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-integrar-mapa-google-maps-documento-google-docs-1136273'>Cómo integrar un mapa de Google Maps en un documento de Google Docs</a></h4>
+    <a href='https://computerhoy.com/tutoriales/tecnologia/como-integrar-mapa-google-maps-documento-google-docs-1136273' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/cambio-importante-google-maps-ya-no-recomendara-ruta-rapida-2494857.jpg' alt='Cómo integrar un mapa de Google Maps en un documento de Google Docs' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/nueva-funcion-twitter-imagenes-videos-gif-solo-tuit-1136317'>Nueva función de Twitter: imágenes, vídeos y GIF en un solo tuit</a></h4>
     <a href='https://computerhoy.com/noticias/nueva-funcion-twitter-imagenes-videos-gif-solo-tuit-1136317' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/nueva-funcion-twitter-imagenes-videos-gif-solo-tuit-2835015.jpg' alt='Nueva función de Twitter: imágenes, vídeos y GIF en un solo tuit' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/estas-son-imagenes-impresionantes-ano-pano-awards-2022-1136229'>Estas son las imágenes más impresionantes del año, Pano Awards 2022</a></h4>
     <a href='https://computerhoy.com/noticias/estas-son-imagenes-impresionantes-ano-pano-awards-2022-1136229' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/mejores-fotografias-2022-2834831.jpg' alt='Estas son las imágenes más impresionantes del año, Pano Awards 2022' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/funciona-paso-paso-ia-stable-diffusion-crear-imagenes-texto-1136173'>Así funciona, paso a paso, la IA Stable Diffusion al crear imágenes desde texto</a></h4>
-    <a href='https://computerhoy.com/noticias/funciona-paso-paso-ia-stable-diffusion-crear-imagenes-texto-1136173' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/funciona-paso-paso-ia-stable-diffusion-crear-imagenes-texto-2834821.jpg' alt='Así funciona, paso a paso, la IA Stable Diffusion al crear imágenes desde texto' />
     </a>
 </div>
 
