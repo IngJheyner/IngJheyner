@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/fallece-rider-glovo-mientras-entregaba-paquete-despedido-no-entregarlo-tiempo-1136035'>Fallece un rider de Glovo mientras entregaba un paquete y es despedido por no entregarlo a tiempo</a></h4>
+    <a href='https://computerhoy.com/noticias/life/fallece-rider-glovo-mientras-entregaba-paquete-despedido-no-entregarlo-tiempo-1136035' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/03/riders-glovo-deliveroo-1891231.jpg' alt='Fallece un rider de Glovo mientras entregaba un paquete y es despedido por no entregarlo a tiempo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/como-cortar-cuerda-sin-herramientas-truco-1135833'>Cómo cortar una cuerda en segundos sin herramientas</a></h4>
     <a href='https://computerhoy.com/noticias/life/como-cortar-cuerda-sin-herramientas-truco-1135833' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/como-cortar-cuerda-segundos-herramientas-2834217.jpg' alt='Cómo cortar una cuerda en segundos sin herramientas' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/como-saber-esa-moneda-5-pesetas-has-encontrado-casa-tiene-algun-valor-1135799'>Cómo saber si esa moneda de 5 pesetas que has encontrado por casa tiene algún valor</a></h4>
     <a href='https://computerhoy.com/noticias/como-saber-esa-moneda-5-pesetas-has-encontrado-casa-tiene-algun-valor-1135799' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/aun-te-quedan-pesetas-bancos-ya-no-canjean-unica-manera-ganar-dinero-ellas-2415457.jpg' alt='Cómo saber si esa moneda de 5 pesetas que has encontrado por casa tiene algún valor' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/coche-vs-tren-300-km-h-video-1135811'>Se pica con un tren a 300 km/h y lo graba mientras conduce (vídeo)</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/coche-vs-tren-300-km-h-video-1135811' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/pica-tren-300-km-h-graba-mientras-conduce-video-2834185.jpg' alt='Se pica con un tren a 300 km/h y lo graba mientras conduce (vídeo)' />
     </a>
 </div>
 
