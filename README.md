@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/25-noticias-tecnologia-comenzar-manana-informado-ultimo-1136039'>25 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/25-noticias-tecnologia-comenzar-manana-informado-ultimo-1136039' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/24-noticias-tecnologia-comenzar-manana-informado-ultimo-2834415.jpg' alt='25 noticias de tecnología para comenzar la mañana informado de lo último' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/motor/estas-son-mejores-bicis-electricas-ciudad-2022-1031387'>Estas son las mejores bicis eléctricas para la ciudad de 2022</a></h4>
+    <a href='https://computerhoy.com/reportajes/motor/estas-son-mejores-bicis-electricas-ciudad-2022-1031387' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/bicicleta-electrica-decathlon-elops-ebike-120-2833947.jpg' alt='Estas son las mejores bicis eléctricas para la ciudad de 2022' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/spinlaunch-lanzamiento-cohete-nasa-sin-combustible-honda-video-1136037'>SpinLaunch completa con éxito el lanzamiento de un cohete de la NASA sin combustible, usando una honda (vídeo)</a></h4>
     <a href='https://computerhoy.com/noticias/life/spinlaunch-lanzamiento-cohete-nasa-sin-combustible-honda-video-1136037' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/verticalimage1665008186817-2834413.jpg' alt='SpinLaunch completa con éxito el lanzamiento de un cohete de la NASA sin combustible, usando una honda (vídeo)' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/como-cortar-cuerda-sin-herramientas-truco-1135833'>Cómo cortar una cuerda en segundos sin herramientas</a></h4>
     <a href='https://computerhoy.com/noticias/life/como-cortar-cuerda-sin-herramientas-truco-1135833' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/como-cortar-cuerda-segundos-herramientas-2834217.jpg' alt='Cómo cortar una cuerda en segundos sin herramientas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/realme-gt-neo-3t-5g-oferta-1135829'>realme GT Neo 3T 5G, un móvil potente con carga rápida a 80 W, por solo 362 euros</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/realme-gt-neo-3t-5g-oferta-1135829' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/realme-gt-neo-3t-2725139.jpg' alt='realme GT Neo 3T 5G, un móvil potente con carga rápida a 80 W, por solo 362 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/dahmer-serie-canibal-milwaukee-netflix-1135823'>Dahmer, la serie que cuenta la vida del Caníbal de Milwaukee, ya está entre las más vistas de toda la historia de Netflix</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/dahmer-serie-canibal-milwaukee-netflix-1135823' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/verticalimage1664995558550-2834199.jpg' alt='Dahmer, la serie que cuenta la vida del Caníbal de Milwaukee, ya está entre las más vistas de toda la historia de Netflix' />
     </a>
 </div>
 
