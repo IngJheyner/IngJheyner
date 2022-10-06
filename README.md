@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-patinetes-electricos-puedes-comprar-1031083'>Estos son los mejores patinetes eléctricos que puedes comprar en 2022</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-patinetes-electricos-puedes-comprar-1031083' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/xiaomi-mi-electric-scooter-pro-2-2503287.jpg' alt='Estos son los mejores patinetes eléctricos que puedes comprar en 2022' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/25-noticias-tecnologia-comenzar-manana-informado-ultimo-1136039'>25 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/25-noticias-tecnologia-comenzar-manana-informado-ultimo-1136039' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/24-noticias-tecnologia-comenzar-manana-informado-ultimo-2834415.jpg' alt='25 noticias de tecnología para comenzar la mañana informado de lo último' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/fallece-rider-glovo-mientras-entregaba-paquete-despedido-no-entregarlo-tiempo-1136035'>Fallece un rider de Glovo mientras entregaba un paquete y es despedido por no entregarlo a tiempo</a></h4>
     <a href='https://computerhoy.com/noticias/life/fallece-rider-glovo-mientras-entregaba-paquete-despedido-no-entregarlo-tiempo-1136035' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/03/riders-glovo-deliveroo-1891231.jpg' alt='Fallece un rider de Glovo mientras entregaba un paquete y es despedido por no entregarlo a tiempo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/como-cortar-cuerda-sin-herramientas-truco-1135833'>Cómo cortar una cuerda en segundos sin herramientas</a></h4>
-    <a href='https://computerhoy.com/noticias/life/como-cortar-cuerda-sin-herramientas-truco-1135833' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/como-cortar-cuerda-segundos-herramientas-2834217.jpg' alt='Cómo cortar una cuerda en segundos sin herramientas' />
     </a>
 </div>
 
