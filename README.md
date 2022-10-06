@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/intel-consigue-nuevo-hito-fabricacion-chips-cuanticos-1136063'>Intel consigue un nuevo hito en fabricación de chips cuánticos</a></h4>
-    <a href='https://computerhoy.com/noticias/intel-consigue-nuevo-hito-fabricacion-chips-cuanticos-1136063' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/intel-stand-mwc-2633929.jpg' alt='Intel consigue un nuevo hito en fabricación de chips cuánticos' />
+    <h4><a href='https://computerhoy.com/noticias/spotify-apuesta-podcast-sigue-pie-adquiere-empresa-monitoriza-episodios-seguridad-1136135'>Spotify y su apuesta por los podcast sigue en pie: adquiere una empresa que monitoriza los episodios por seguridad</a></h4>
+    <a href='https://computerhoy.com/noticias/spotify-apuesta-podcast-sigue-pie-adquiere-empresa-monitoriza-episodios-seguridad-1136135' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/spotify-apuesta-podcast-sigue-pie-adquiere-empresa-monitoriza-episodios-seguridad-2834627.jpg' alt='Spotify y su apuesta por los podcast sigue en pie: adquiere una empresa que monitoriza los episodios por seguridad' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-patinetes-electricos-puedes-comprar-1031083'>Estos son los mejores patinetes eléctricos que puedes comprar en 2022</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-patinetes-electricos-puedes-comprar-1031083' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/xiaomi-mi-electric-scooter-pro-2-2503287.jpg' alt='Estos son los mejores patinetes eléctricos que puedes comprar en 2022' />
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/como-funciona-carga-rapida-120w-xiaomi-12t-pro-1135621'>Así funciona la carga rápida 120W del Xiaomi 12T Pro</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/como-funciona-carga-rapida-120w-xiaomi-12t-pro-1135621' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/xiaomi-12t-pro-carga-120w-2833727.jpg' alt='Así funciona la carga rápida 120W del Xiaomi 12T Pro' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/25-noticias-tecnologia-comenzar-manana-informado-ultimo-1136039'>25 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/25-noticias-tecnologia-comenzar-manana-informado-ultimo-1136039' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/24-noticias-tecnologia-comenzar-manana-informado-ultimo-2834415.jpg' alt='25 noticias de tecnología para comenzar la mañana informado de lo último' />
+    <h4><a href='https://computerhoy.com/noticias/como-formo-luna-nueva-simulacion-desvela-1136077'>Cómo se formó la luna, así es la nueva simulación que lo desvela</a></h4>
+    <a href='https://computerhoy.com/noticias/como-formo-luna-nueva-simulacion-desvela-1136077' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/tierra-luna-2834467.jpg' alt='Cómo se formó la luna, así es la nueva simulación que lo desvela' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/motor/estas-son-mejores-bicis-electricas-ciudad-2022-1031387'>Estas son las mejores bicis eléctricas para la ciudad de 2022</a></h4>
-    <a href='https://computerhoy.com/reportajes/motor/estas-son-mejores-bicis-electricas-ciudad-2022-1031387' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/bicicleta-electrica-decathlon-elops-ebike-120-2833947.jpg' alt='Estas son las mejores bicis eléctricas para la ciudad de 2022' />
+    <h4><a href='https://computerhoy.com/noticias/iphone-14-plus-cuando-tamano-importa-1136091'>iPhone 14 Plus, cuando el tamaño importa</a></h4>
+    <a href='https://computerhoy.com/noticias/iphone-14-plus-cuando-tamano-importa-1136091' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/iphone-14-plus-cuando-tamano-importa-2834511.jpg' alt='iPhone 14 Plus, cuando el tamaño importa' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/spinlaunch-lanzamiento-cohete-nasa-sin-combustible-honda-video-1136037'>SpinLaunch completa con éxito el lanzamiento de un cohete de la NASA sin combustible, usando una honda (vídeo)</a></h4>
-    <a href='https://computerhoy.com/noticias/life/spinlaunch-lanzamiento-cohete-nasa-sin-combustible-honda-video-1136037' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/verticalimage1665008186817-2834413.jpg' alt='SpinLaunch completa con éxito el lanzamiento de un cohete de la NASA sin combustible, usando una honda (vídeo)' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/mejores-moviles-android-google-ahora-precio-record-cuesta-mitad-iphone-14-1134837'>Uno de los mejores móviles Android es de Google y ahora está a precio récord: cuesta la mitad que el iPhone 14 </a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/mejores-moviles-android-google-ahora-precio-record-cuesta-mitad-iphone-14-1134837' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/analisis-google-pixel-6-2604633.jpg' alt='Uno de los mejores móviles Android es de Google y ahora está a precio récord: cuesta la mitad que el iPhone 14 ' />
     </a>
 </div>
 
