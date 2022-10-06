@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/bizum-principiantes-como-funciona-como-crear-cuenta-enviar-recibir-dinero-1135577'>Bizum para principiantes: qué es, cómo funciona y cómo crear tu cuenta para enviar y recibir dinero</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/bizum-principiantes-como-funciona-como-crear-cuenta-enviar-recibir-dinero-1135577' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/bizum-2833649.jpg' alt='Bizum para principiantes: qué es, cómo funciona y cómo crear tu cuenta para enviar y recibir dinero' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/iphone-11-ofera-500-euros-precio-minimo-1134917'>Un iPhone que roza los 500 euros de precio: ideal si los nuevos modelos te parecen demasiado caros</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/iphone-11-ofera-500-euros-precio-minimo-1134917' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/iphone-11-2832369.jpg' alt='Un iPhone que roza los 500 euros de precio: ideal si los nuevos modelos te parecen demasiado caros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/enganos-electricas-cobrarte-tope-gas-factura-luz-1136215'>Los engaños de las eléctricas para cobrarte el tope del gas en la factura de la luz</a></h4>
+    <a href='https://computerhoy.com/noticias/life/enganos-electricas-cobrarte-tope-gas-factura-luz-1136215' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/electricidad-euro-2636485.jpg' alt='Los engaños de las eléctricas para cobrarte el tope del gas en la factura de la luz' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/pixel-7-pro-rendimiento-altura-snapdragon-888-mejor-chip-hace-dos-generaciones-1136153'>El Pixel 7 Pro y su rendimiento, a la altura del Snapdragon 888 el mejor chip... de hace dos generaciones</a></h4>
+    <a href='https://computerhoy.com/noticias/pixel-7-pro-rendimiento-altura-snapdragon-888-mejor-chip-hace-dos-generaciones-1136153' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/pixel-7-pro-2825737.jpg' alt='El Pixel 7 Pro y su rendimiento, a la altura del Snapdragon 888 el mejor chip... de hace dos generaciones' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/spotify-apuesta-podcast-sigue-pie-adquiere-empresa-monitoriza-episodios-seguridad-1136135'>Spotify y su apuesta por los podcast sigue en pie: adquiere una empresa que monitoriza los episodios por seguridad</a></h4>
     <a href='https://computerhoy.com/noticias/spotify-apuesta-podcast-sigue-pie-adquiere-empresa-monitoriza-episodios-seguridad-1136135' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/spotify-apuesta-podcast-sigue-pie-adquiere-empresa-monitoriza-episodios-seguridad-2834627.jpg' alt='Spotify y su apuesta por los podcast sigue en pie: adquiere una empresa que monitoriza los episodios por seguridad' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/como-funciona-carga-rapida-120w-xiaomi-12t-pro-1135621'>Así funciona la carga rápida 120W del Xiaomi 12T Pro</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/como-funciona-carga-rapida-120w-xiaomi-12t-pro-1135621' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/xiaomi-12t-pro-carga-120w-2833727.jpg' alt='Así funciona la carga rápida 120W del Xiaomi 12T Pro' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/como-formo-luna-nueva-simulacion-desvela-1136077'>Cómo se formó la luna, así es la nueva simulación que lo desvela</a></h4>
-    <a href='https://computerhoy.com/noticias/como-formo-luna-nueva-simulacion-desvela-1136077' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/tierra-luna-2834467.jpg' alt='Cómo se formó la luna, así es la nueva simulación que lo desvela' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/iphone-14-plus-cuando-tamano-importa-1136091'>iPhone 14 Plus, cuando el tamaño importa</a></h4>
-    <a href='https://computerhoy.com/noticias/iphone-14-plus-cuando-tamano-importa-1136091' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/iphone-14-plus-cuando-tamano-importa-2834511.jpg' alt='iPhone 14 Plus, cuando el tamaño importa' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/mejores-moviles-android-google-ahora-precio-record-cuesta-mitad-iphone-14-1134837'>Uno de los mejores móviles Android es de Google y ahora está a precio récord: cuesta la mitad que el iPhone 14 </a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/mejores-moviles-android-google-ahora-precio-record-cuesta-mitad-iphone-14-1134837' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/analisis-google-pixel-6-2604633.jpg' alt='Uno de los mejores móviles Android es de Google y ahora está a precio récord: cuesta la mitad que el iPhone 14 ' />
     </a>
 </div>
 
