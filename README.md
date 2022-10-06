@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/nueva-funcion-twitter-imagenes-videos-gif-solo-tuit-1136317'>Nueva función de Twitter: imágenes, vídeos y GIF en un solo tuit</a></h4>
+    <a href='https://computerhoy.com/noticias/nueva-funcion-twitter-imagenes-videos-gif-solo-tuit-1136317' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/nueva-funcion-twitter-imagenes-videos-gif-solo-tuit-2835015.jpg' alt='Nueva función de Twitter: imágenes, vídeos y GIF en un solo tuit' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-enviar-mensaje-whatsapp-agregar-contacto-agenda-810385'>Cómo enviar un mensaje de WhatsApp sin agregar el contacto a la agenda</a></h4>
+    <a href='https://computerhoy.com/tutoriales/tecnologia/como-enviar-mensaje-whatsapp-agregar-contacto-agenda-810385' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/whatsapp-logo-2834999.jpg' alt='Cómo enviar un mensaje de WhatsApp sin agregar el contacto a la agenda' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/planes-samsung-ssd-2030-memorias-1000-tb-1136281'>Los planes de Samsung para los SSD en 2030: memorias de 1.000 TB</a></h4>
     <a href='https://computerhoy.com/noticias/planes-samsung-ssd-2030-memorias-1000-tb-1136281' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/09/samsung-lanza-primer-ssd-pcie-40-rapido-todos-2079877.jpg' alt='Los planes de Samsung para los SSD en 2030: memorias de 1.000 TB' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/funciona-paso-paso-ia-stable-diffusion-crear-imagenes-texto-1136173'>Así funciona, paso a paso, la IA Stable Diffusion al crear imágenes desde texto</a></h4>
     <a href='https://computerhoy.com/noticias/funciona-paso-paso-ia-stable-diffusion-crear-imagenes-texto-1136173' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/funciona-paso-paso-ia-stable-diffusion-crear-imagenes-texto-2834821.jpg' alt='Así funciona, paso a paso, la IA Stable Diffusion al crear imágenes desde texto' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/olvidate-buscar-cajero-estancos-administraciones-loterias-sacar-dinero-banco-nickel-1135729'>Olvídate de buscar cajero: Estancos y Administraciones de Loterías para sacar dinero con el banco Nickel</a></h4>
-    <a href='https://computerhoy.com/noticias/life/olvidate-buscar-cajero-estancos-administraciones-loterias-sacar-dinero-banco-nickel-1135729' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/olvidate-buscar-cajero-estancos-administraciones-loterias-sacar-dinero-banco-nickel-2834023.jpg' alt='Olvídate de buscar cajero: Estancos y Administraciones de Loterías para sacar dinero con el banco Nickel' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/bizum-principiantes-como-funciona-como-crear-cuenta-enviar-recibir-dinero-1135577'>Bizum para principiantes: qué es, cómo funciona y cómo crear tu cuenta para enviar y recibir dinero</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/bizum-principiantes-como-funciona-como-crear-cuenta-enviar-recibir-dinero-1135577' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/bizum-2833649.jpg' alt='Bizum para principiantes: qué es, cómo funciona y cómo crear tu cuenta para enviar y recibir dinero' />
     </a>
 </div>
 
