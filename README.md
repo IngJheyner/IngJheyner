@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/imagen-video-inteligencia-artificial-google-convierte-texto-video-1136493'>Imagen Video, la nueva IA de Google que convierte texto en vídeo</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/imagen-video-inteligencia-artificial-google-convierte-texto-video-1136493' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/imagen-video-nueva-ia-google-convierte-texto-video-2835495.jpg' alt='Imagen Video, la nueva IA de Google que convierte texto en vídeo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/trailer-super-mario-bros-pelicula-1136489'>¡Este es el tráiler de Super Mario Bros La Película!</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/trailer-super-mario-bros-pelicula-1136489' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/verticalimage1665088337418-2835435.jpg' alt='¡Este es el tráiler de Super Mario Bros La Película!' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/preparate-frio-persianas-termicas-lidl-ahorra-calefaccion-1136449'>Prepárate para el frío con las persianas térmicas de Lidl y ahorra en calefacción</a></h4>
     <a href='https://computerhoy.com/noticias/life/preparate-frio-persianas-termicas-lidl-ahorra-calefaccion-1136449' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/persianas-2734961.jpg' alt='Prepárate para el frío con las persianas térmicas de Lidl y ahorra en calefacción' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/estas-cuentas-whatsapp-ya-pueden-empezar-utilizar-whatsapp-premium-funcionalidades-exclusivas-1136455'>Estas cuentas de WhatsApp ya pueden empezar a utilizar WhatsApp Premium con funcionalidades exclusivas</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/estas-cuentas-whatsapp-ya-pueden-empezar-utilizar-whatsapp-premium-funcionalidades-exclusivas-1136455' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/whatsapp-business-2734971.jpg' alt='Estas cuentas de WhatsApp ya pueden empezar a utilizar WhatsApp Premium con funcionalidades exclusivas' />
     </a>
 </div>
 
