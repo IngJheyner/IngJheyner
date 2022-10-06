@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/intel-consigue-nuevo-hito-fabricacion-chips-cuanticos-1136063'>Intel consigue un nuevo hito en fabricación de chips cuánticos</a></h4>
+    <a href='https://computerhoy.com/noticias/intel-consigue-nuevo-hito-fabricacion-chips-cuanticos-1136063' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/intel-stand-mwc-2633929.jpg' alt='Intel consigue un nuevo hito en fabricación de chips cuánticos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-patinetes-electricos-puedes-comprar-1031083'>Estos son los mejores patinetes eléctricos que puedes comprar en 2022</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/mejores-patinetes-electricos-puedes-comprar-1031083' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/xiaomi-mi-electric-scooter-pro-2-2503287.jpg' alt='Estos son los mejores patinetes eléctricos que puedes comprar en 2022' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/spinlaunch-lanzamiento-cohete-nasa-sin-combustible-honda-video-1136037'>SpinLaunch completa con éxito el lanzamiento de un cohete de la NASA sin combustible, usando una honda (vídeo)</a></h4>
     <a href='https://computerhoy.com/noticias/life/spinlaunch-lanzamiento-cohete-nasa-sin-combustible-honda-video-1136037' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/verticalimage1665008186817-2834413.jpg' alt='SpinLaunch completa con éxito el lanzamiento de un cohete de la NASA sin combustible, usando una honda (vídeo)' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/fallece-rider-glovo-mientras-entregaba-paquete-despedido-no-entregarlo-tiempo-1136035'>Fallece un rider de Glovo mientras entregaba un paquete y es despedido por no entregarlo a tiempo</a></h4>
-    <a href='https://computerhoy.com/noticias/life/fallece-rider-glovo-mientras-entregaba-paquete-despedido-no-entregarlo-tiempo-1136035' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/03/riders-glovo-deliveroo-1891231.jpg' alt='Fallece un rider de Glovo mientras entregaba un paquete y es despedido por no entregarlo a tiempo' />
     </a>
 </div>
 
