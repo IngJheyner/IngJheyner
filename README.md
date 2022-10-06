@@ -50,9 +50,17 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-destacar-detalles-importantes-google-docs-creando-caja-texto-1136371'>Cómo destacar detalles importantes en Google Docs creando una caja de texto</a></h4>
-    <a href='https://computerhoy.com/tutoriales/tecnologia/como-destacar-detalles-importantes-google-docs-creando-caja-texto-1136371' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/04/google-docs.jpg' alt='Cómo destacar detalles importantes en Google Docs creando una caja de texto' />
+    <h4><a href='https://computerhoy.com/noticias/ia-ya-capaz-predecir-lectura-retina-podrias-padecer-ataque-corazon-1136319'>La IA ya es capaz de predecir, con una lectura de retina, si podrías padecer un ataque al corazón</a></h4>
+    <a href='https://computerhoy.com/noticias/ia-ya-capaz-predecir-lectura-retina-podrias-padecer-ataque-corazon-1136319' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/inteligencia-artificial-2835023.jpg' alt='La IA ya es capaz de predecir, con una lectura de retina, si podrías padecer un ataque al corazón' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/android-auto-moviles-pierde-caracteristica-fundamental-google-maps-1136351'>Android Auto para móviles pierde una característica fundamental de Google Maps</a></h4>
+    <a href='https://computerhoy.com/noticias/android-auto-moviles-pierde-caracteristica-fundamental-google-maps-1136351' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/android-auto-2663003.jpg' alt='Android Auto para móviles pierde una característica fundamental de Google Maps' />
     </a>
 </div>
 
@@ -66,25 +74,17 @@
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/mejora-visualizacion-monitor-hdr-windows-11-aplicacion-oficial-microsoft-1136309'>Mejora la visualización en tu monitor HDR con Windows 11 y esta aplicación oficial de Microsoft</a></h4>
-    <a href='https://computerhoy.com/noticias/mejora-visualizacion-monitor-hdr-windows-11-aplicacion-oficial-microsoft-1136309' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/analisis-monitor-hp-u28-4k-hdr-2766377.jpg' alt='Mejora la visualización en tu monitor HDR con Windows 11 y esta aplicación oficial de Microsoft' />
+    <h4><a href='https://computerhoy.com/noticias/life/como-sacar-corcho-sin-sacacorchos-ni-herramientas-mejor-truco-bodega-francesa-1136375'>Cómo sacar un corcho sin sacacorchos ni herramientas, el mejor truco de una bodega francesa</a></h4>
+    <a href='https://computerhoy.com/noticias/life/como-sacar-corcho-sin-sacacorchos-ni-herramientas-mejor-truco-bodega-francesa-1136375' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/como-sacar-corcho-sacacorchos-ni-otras-herramientas-2835149.jpg' alt='Cómo sacar un corcho sin sacacorchos ni herramientas, el mejor truco de una bodega francesa' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-integrar-mapa-google-maps-documento-google-docs-1136273'>Cómo integrar un mapa de Google Maps en un documento de Google Docs</a></h4>
-    <a href='https://computerhoy.com/tutoriales/tecnologia/como-integrar-mapa-google-maps-documento-google-docs-1136273' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/cambio-importante-google-maps-ya-no-recomendara-ruta-rapida-2494857.jpg' alt='Cómo integrar un mapa de Google Maps en un documento de Google Docs' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/nueva-funcion-twitter-imagenes-videos-gif-solo-tuit-1136317'>Nueva función de Twitter: imágenes, vídeos y GIF en un solo tuit</a></h4>
-    <a href='https://computerhoy.com/noticias/nueva-funcion-twitter-imagenes-videos-gif-solo-tuit-1136317' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/nueva-funcion-twitter-imagenes-videos-gif-solo-tuit-2835015.jpg' alt='Nueva función de Twitter: imágenes, vídeos y GIF en un solo tuit' />
+    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-destacar-detalles-importantes-google-docs-creando-caja-texto-1136371'>Cómo destacar detalles importantes en Google Docs creando una caja de texto</a></h4>
+    <a href='https://computerhoy.com/tutoriales/tecnologia/como-destacar-detalles-importantes-google-docs-creando-caja-texto-1136371' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/04/google-docs.jpg' alt='Cómo destacar detalles importantes en Google Docs creando una caja de texto' />
     </a>
 </div>
 
