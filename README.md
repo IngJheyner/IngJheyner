@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/robot-aspirador-friegasuelos-conga-999-vital-x-descuento-1136473'>El robot aspirador y friegasuelos Conga 999 Vital X lo hace todo bien y baja de precio a solo 129 euros</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/robot-aspirador-friegasuelos-conga-999-vital-x-descuento-1136473' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/l-robot-aspirador-friegasuelos-conga-999-vital-x-hace-todo-bien-baja-precio-solo-129-euros-2835401.jpg' alt='El robot aspirador y friegasuelos Conga 999 Vital X lo hace todo bien y baja de precio a solo 129 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/caceres-city-of-dragons-evento-europeo-juego-de-tronos-la-casa-del-dragon-1136465'>Se presenta Cáceres City of Dragons, el mayor evento europeo sobre el universo de Juego de Tronos</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/caceres-city-of-dragons-evento-europeo-juego-de-tronos-la-casa-del-dragon-1136465' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/llega-caceres-city-dragons-mayor-evento-europeo-universo-juego-tronos-2835385.jpg' alt='Se presenta Cáceres City of Dragons, el mayor evento europeo sobre el universo de Juego de Tronos' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/estas-son-todas-razones-no-deberias-apagar-router-noche-1136451'>Estas son todas las razones por las que no deberías apagar el router por la noche</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/estas-son-todas-razones-no-deberias-apagar-router-noche-1136451' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/router-2835351.jpg' alt='Estas son todas las razones por las que no deberías apagar el router por la noche' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/ahora-nunca-memoria-ram-ssd-aumentaran-precios-descenso-produccion-1136401'>Ahora o nunca, la memoria RAM y los SSD aumentarán de precios por descenso de la producción</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/ahora-nunca-memoria-ram-ssd-aumentaran-precios-descenso-produccion-1136401' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/unidad-ssd-nvme-m2-instalada-torre-ordenador-2764077.jpg' alt='Ahora o nunca, la memoria RAM y los SSD aumentarán de precios por descenso de la producción' />
     </a>
 </div>
 
