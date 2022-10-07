@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/xiaomi-redmi-buds-4-auriculares-baratos-1136177'>Redmi Buds 4: así son los auriculares inalámbricos de Xiaomi que compiten con los AirPods por la mitad de precio</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/xiaomi-redmi-buds-4-auriculares-baratos-1136177' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/xiaomi-redmi-buds-4-2834643.jpg' alt='Redmi Buds 4: así son los auriculares inalámbricos de Xiaomi que compiten con los AirPods por la mitad de precio' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/reloj-apocalipsis-fin-mundo-cuando-conoceremos-nueva-fecha-fin-humanidad-1136951'>Reloj del apocalipsis o fin del mundo: ¿cuándo conoceremos la nueva fecha para el fin de la humanidad?</a></h4>
+    <a href='https://computerhoy.com/noticias/reloj-apocalipsis-fin-mundo-cuando-conoceremos-nueva-fecha-fin-humanidad-1136951' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/09/bomba-nuclear-2050633.jpg' alt='Reloj del apocalipsis o fin del mundo: ¿cuándo conoceremos la nueva fecha para el fin de la humanidad?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/series-ver-fin-semana-netflix-hbo-max-disney-she-hulk-alfred-batman-terror-adolescente-1136919'>Qué series ver este fin de semana en Netflix, HBO Max y Disney+: She-Hulk, Alfred (Batman) y terror adolescente</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/series-ver-fin-semana-netflix-hbo-max-disney-she-hulk-alfred-batman-terror-adolescente-1136919' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/series-ver-fin-semana-netflix-hbo-max-disney-she-hulk-alfred-batman-terror-adolescente-2836301.jpg' alt='Qué series ver este fin de semana en Netflix, HBO Max y Disney+: She-Hulk, Alfred (Batman) y terror adolescente' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/google-pixel-7-pro-desmontado-poco-cambia-frente-ano-pasado-1136889'>Google Pixel 7 Pro desmontado, poco cambia frente el año pasado</a></h4>
     <a href='https://computerhoy.com/noticias/google-pixel-7-pro-desmontado-poco-cambia-frente-ano-pasado-1136889' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/google-pixel-7-pro-desmontado-poco-cambia-frente-ano-pasado-2836225.jpg' alt='Google Pixel 7 Pro desmontado, poco cambia frente el año pasado' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/25-mejores-fotos-perfil-whatsapp-291949'>Las 45 mejores fotos de perfil para WhatsApp para ponerte en 2022</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/25-mejores-fotos-perfil-whatsapp-291949' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/whatsapp-2664033.jpg' alt='Las 45 mejores fotos de perfil para WhatsApp para ponerte en 2022' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/paginas-web-visitadas-cada-pais-mundo-queda-confirmado-spain-different-1136891'>Las páginas web más visitadas en cada país del mundo, queda confirmado: Spain is different</a></h4>
-    <a href='https://computerhoy.com/noticias/paginas-web-visitadas-cada-pais-mundo-queda-confirmado-spain-different-1136891' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/webs-2836229.jpg' alt='Las páginas web más visitadas en cada país del mundo, queda confirmado: Spain is different' />
     </a>
 </div>
 
