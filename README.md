@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/boston-dynamics-pronuncia-robots-han-modificado-armas-1136757'>Boston Dynamics se pronuncia sobre los robots que han modificado con armas</a></h4>
+    <a href='https://computerhoy.com/noticias/boston-dynamics-pronuncia-robots-han-modificado-armas-1136757' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/boston-dynamics-spot-2835919.jpg' alt='Boston Dynamics se pronuncia sobre los robots que han modificado con armas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/amazon-acaba-pruebas-robotito-reparto-scout-1136729'>Amazon acaba las pruebas de su robotito de reparto Scout</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/amazon-acaba-pruebas-robotito-reparto-scout-1136729' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/scout-amazon-2835853.jpg' alt='Amazon acaba las pruebas de su robotito de reparto Scout' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/amazon-regala-15eu-credito-simplemente-usar-servicio-1136745'>Amazon regala 15€ en crédito simplemente por usar este servicio</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/amazon-regala-15eu-credito-simplemente-usar-servicio-1136745' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/cajas-carton-amazon-2835827.jpg' alt='Amazon regala 15€ en crédito simplemente por usar este servicio' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/como-huawei-planea-sobrevivir-bloqueo-chips-americano-1136747'>Así es como Huawei planea sobrevivir al bloqueo de chips americano</a></h4>
+    <a href='https://computerhoy.com/noticias/como-huawei-planea-sobrevivir-bloqueo-chips-americano-1136747' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/huawei-2762965.jpg' alt='Así es como Huawei planea sobrevivir al bloqueo de chips americano' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/motor/elon-musk-asegura-camion-electrico-tesla-produccion-llegara-navidad-1136737'>Elon Musk asegura que el camión eléctrico de Tesla está en producción: llegará en Navidad</a></h4>
     <a href='https://computerhoy.com/noticias/motor/elon-musk-asegura-camion-electrico-tesla-produccion-llegara-navidad-1136737' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/tesla-semi-truck-llegara-ano-cybertruck-hara-2023-2783377.jpg' alt='Elon Musk asegura que el camión eléctrico de Tesla está en producción: llegará en Navidad' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/acer-presenta-nuevo-portatil-swift-edge-pantalla-oled-procesador-ryzen-5-6800u-1136723'>Acer presenta su nuevo portátil Swift Edge: pantalla OLED y procesador Ryzen 5 6800U</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/acer-presenta-nuevo-portatil-swift-edge-pantalla-oled-procesador-ryzen-5-6800u-1136723' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/acer-swift-oled-nuevo-convertible-pantalla-oled-hacer-procesadores-intel-core-12a-generacion-2714519.jpg' alt='Acer presenta su nuevo portátil Swift Edge: pantalla OLED y procesador Ryzen 5 6800U' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/dias-naranjas-pccomponentes-mejores-ofertas-1134843'>Días Naranjas de PcComponentes: estas son las 10 mejores ofertas</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/dias-naranjas-pccomponentes-mejores-ofertas-1134843' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/dias-naranjas-pccomponentes-2832375.jpg' alt='Días Naranjas de PcComponentes: estas son las 10 mejores ofertas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/28-noticias-tecnologia-comenzar-manana-informado-ultimo-1136699'>28 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/28-noticias-tecnologia-comenzar-manana-informado-ultimo-1136699' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/28-noticias-tecnologia-comenzar-manana-informado-ultimo-2835703.jpg' alt='28 noticias de tecnología para comenzar la mañana informado de lo último' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/imagen-video-inteligencia-artificial-google-convierte-texto-video-1136493'>Imagen Video, la nueva IA de Google que convierte texto en vídeo</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/imagen-video-inteligencia-artificial-google-convierte-texto-video-1136493' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/imagen-video-nueva-ia-google-convierte-texto-video-2835495.jpg' alt='Imagen Video, la nueva IA de Google que convierte texto en vídeo' />
     </a>
 </div>
 
