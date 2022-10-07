@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/dias-naranjas-pccomponentes-mejores-ofertas-1134843'>Días Naranjas de PcComponentes: estas son las 10 mejores ofertas</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/dias-naranjas-pccomponentes-mejores-ofertas-1134843' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/dias-naranjas-pccomponentes-2832375.jpg' alt='Días Naranjas de PcComponentes: estas son las 10 mejores ofertas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/28-noticias-tecnologia-comenzar-manana-informado-ultimo-1136699'>28 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/28-noticias-tecnologia-comenzar-manana-informado-ultimo-1136699' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/28-noticias-tecnologia-comenzar-manana-informado-ultimo-2835703.jpg' alt='28 noticias de tecnología para comenzar la mañana informado de lo último' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/robot-aspirador-friegasuelos-conga-999-vital-x-descuento-1136473'>El robot aspirador y friegasuelos Conga 999 Vital X lo hace todo bien y baja de precio a solo 129 euros</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/robot-aspirador-friegasuelos-conga-999-vital-x-descuento-1136473' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/l-robot-aspirador-friegasuelos-conga-999-vital-x-hace-todo-bien-baja-precio-solo-129-euros-2835401.jpg' alt='El robot aspirador y friegasuelos Conga 999 Vital X lo hace todo bien y baja de precio a solo 129 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/caceres-city-of-dragons-evento-europeo-juego-de-tronos-la-casa-del-dragon-1136465'>Se presenta Cáceres City of Dragons, el mayor evento europeo sobre el universo de Juego de Tronos</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/caceres-city-of-dragons-evento-europeo-juego-de-tronos-la-casa-del-dragon-1136465' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/llega-caceres-city-dragons-mayor-evento-europeo-universo-juego-tronos-2835385.jpg' alt='Se presenta Cáceres City of Dragons, el mayor evento europeo sobre el universo de Juego de Tronos' />
     </a>
 </div>
 
