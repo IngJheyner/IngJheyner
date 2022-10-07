@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/acer-presenta-nuevo-portatil-swift-edge-pantalla-oled-procesador-ryzen-5-6800u-1136723'>Acer presenta su nuevo portátil Swift Edge: pantalla OLED y procesador Ryzen 5 6800U</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/acer-presenta-nuevo-portatil-swift-edge-pantalla-oled-procesador-ryzen-5-6800u-1136723' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/acer-swift-oled-nuevo-convertible-pantalla-oled-hacer-procesadores-intel-core-12a-generacion-2714519.jpg' alt='Acer presenta su nuevo portátil Swift Edge: pantalla OLED y procesador Ryzen 5 6800U' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/dias-naranjas-pccomponentes-mejores-ofertas-1134843'>Días Naranjas de PcComponentes: estas son las 10 mejores ofertas</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/dias-naranjas-pccomponentes-mejores-ofertas-1134843' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/dias-naranjas-pccomponentes-2832375.jpg' alt='Días Naranjas de PcComponentes: estas son las 10 mejores ofertas' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/trailer-super-mario-bros-pelicula-1136489'>¡Este es el tráiler de Super Mario Bros La Película!</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/trailer-super-mario-bros-pelicula-1136489' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/verticalimage1665088337418-2835435.jpg' alt='¡Este es el tráiler de Super Mario Bros La Película!' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/robot-aspirador-friegasuelos-conga-999-vital-x-descuento-1136473'>El robot aspirador y friegasuelos Conga 999 Vital X lo hace todo bien y baja de precio a solo 129 euros</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/robot-aspirador-friegasuelos-conga-999-vital-x-descuento-1136473' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/l-robot-aspirador-friegasuelos-conga-999-vital-x-hace-todo-bien-baja-precio-solo-129-euros-2835401.jpg' alt='El robot aspirador y friegasuelos Conga 999 Vital X lo hace todo bien y baja de precio a solo 129 euros' />
     </a>
 </div>
 
