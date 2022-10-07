@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/bicicleta-electrica-plegable-todo-chollo-conoces-codigo-compra-1136803'>Esta bicicleta eléctrica es plegable y todo un chollo si conoces este código de compra</a></h4>
+    <a href='https://computerhoy.com/noticias/life/bicicleta-electrica-plegable-todo-chollo-conoces-codigo-compra-1136803' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/bicicleta-electrica-plegable-dyu-d3f-2835945.jpg' alt='Esta bicicleta eléctrica es plegable y todo un chollo si conoces este código de compra' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/tiktok-lanza-nuevas-herramientas-creadores-1136829'>TikTok lanza nuevas herramientas para los creadores</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/tiktok-lanza-nuevas-herramientas-creadores-1136829' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/tiktok-dientes-perfectos-2792685.jpg' alt='TikTok lanza nuevas herramientas para los creadores' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/boston-dynamics-pronuncia-robots-han-modificado-armas-1136757'>Boston Dynamics se pronuncia sobre los robots que han modificado con armas</a></h4>
     <a href='https://computerhoy.com/noticias/boston-dynamics-pronuncia-robots-han-modificado-armas-1136757' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/boston-dynamics-spot-2835919.jpg' alt='Boston Dynamics se pronuncia sobre los robots que han modificado con armas' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/amazon-regala-15eu-credito-simplemente-usar-servicio-1136745'>Amazon regala 15€ en crédito simplemente por usar este servicio</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/amazon-regala-15eu-credito-simplemente-usar-servicio-1136745' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/cajas-carton-amazon-2835827.jpg' alt='Amazon regala 15€ en crédito simplemente por usar este servicio' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/como-huawei-planea-sobrevivir-bloqueo-chips-americano-1136747'>Así es como Huawei planea sobrevivir al bloqueo de chips americano</a></h4>
-    <a href='https://computerhoy.com/noticias/como-huawei-planea-sobrevivir-bloqueo-chips-americano-1136747' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/huawei-2762965.jpg' alt='Así es como Huawei planea sobrevivir al bloqueo de chips americano' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/elon-musk-asegura-camion-electrico-tesla-produccion-llegara-navidad-1136737'>Elon Musk asegura que el camión eléctrico de Tesla está en producción: llegará en Navidad</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/elon-musk-asegura-camion-electrico-tesla-produccion-llegara-navidad-1136737' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/tesla-semi-truck-llegara-ano-cybertruck-hara-2023-2783377.jpg' alt='Elon Musk asegura que el camión eléctrico de Tesla está en producción: llegará en Navidad' />
     </a>
 </div>
 
