@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/roban-contrasena-1-millon-usuarios-facebook-400-apps-ios-android-1137023'>Roban la contraseña a 1 millón de usuarios de Facebook a través de 400 apps de iOS y Android</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/roban-contrasena-1-millon-usuarios-facebook-400-apps-ios-android-1137023' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/roban-contrasena-1-millon-usuarios-facebook-traves-400-apps-ios-android-2836567.jpg' alt='Roban la contraseña a 1 millón de usuarios de Facebook a través de 400 apps de iOS y Android' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/binance-hackeada-roban-585-millones-euros-tokens-1137021'>Binance hackeada, roban 585 millones de euros en tokens</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/binance-hackeada-roban-585-millones-euros-tokens-1137021' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/binance-hackeada-roban-585-millones-euros-tokens-2836565.jpg' alt='Binance hackeada, roban 585 millones de euros en tokens' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/cobra-kai-serie-vista-nielsen-anillos-poder-casa-dragon-1137011'>Cobra Kai ha sido la serie más vista según Nielsen, y una serie poco conocida supera a Los Anillos de Poder y La Casa del Dragón</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/cobra-kai-serie-vista-nielsen-anillos-poder-casa-dragon-1137011' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/cobra-kai-5-william-zabka-2787047.jpg' alt='Cobra Kai ha sido la serie más vista según Nielsen, y una serie poco conocida supera a Los Anillos de Poder y La Casa del Dragón' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/nuevos-iphone-14-salen-muy-caros-apple-1136971'>Los nuevos iPhone 14 le salen muy caros a Apple</a></h4>
-    <a href='https://computerhoy.com/noticias/nuevos-iphone-14-salen-muy-caros-apple-1136971' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/analisis-iphone-14-pro-2821731.jpg' alt='Los nuevos iPhone 14 le salen muy caros a Apple' />
     </a>
 </div>
 
