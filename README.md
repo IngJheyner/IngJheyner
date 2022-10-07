@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/paginas-web-visitadas-cada-pais-mundo-queda-confirmado-spain-different-1136891'>Las páginas web más visitadas en cada país del mundo, queda confirmado: Spain is different</a></h4>
+    <a href='https://computerhoy.com/noticias/paginas-web-visitadas-cada-pais-mundo-queda-confirmado-spain-different-1136891' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/webs-2836229.jpg' alt='Las páginas web más visitadas en cada país del mundo, queda confirmado: Spain is different' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/son-criptomonedas-como-funcionan-cuales-son-importantes-ahora-mismo-1134999'>Qué son las criptomonedas, cómo funcionan y cuáles son las más importantes ahora mismo</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/son-criptomonedas-como-funcionan-cuales-son-importantes-ahora-mismo-1134999' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/criptomonedas-2832547.jpg' alt='Qué son las criptomonedas, cómo funcionan y cuáles son las más importantes ahora mismo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/cuidado-estos-timos-estafas-tiktok-1136833'>Cuidado con estos timos y estafas de TikTok</a></h4>
     <a href='https://computerhoy.com/noticias/cuidado-estos-timos-estafas-tiktok-1136833' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/tiktok-2799869.jpg' alt='Cuidado con estos timos y estafas de TikTok' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/tiktok-lanza-nuevas-herramientas-creadores-1136829'>TikTok lanza nuevas herramientas para los creadores</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/tiktok-lanza-nuevas-herramientas-creadores-1136829' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/tiktok-dientes-perfectos-2792685.jpg' alt='TikTok lanza nuevas herramientas para los creadores' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/boston-dynamics-pronuncia-robots-han-modificado-armas-1136757'>Boston Dynamics se pronuncia sobre los robots que han modificado con armas</a></h4>
-    <a href='https://computerhoy.com/noticias/boston-dynamics-pronuncia-robots-han-modificado-armas-1136757' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/boston-dynamics-spot-2835919.jpg' alt='Boston Dynamics se pronuncia sobre los robots que han modificado con armas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/amazon-acaba-pruebas-robotito-reparto-scout-1136729'>Amazon acaba las pruebas de su robotito de reparto Scout</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/amazon-acaba-pruebas-robotito-reparto-scout-1136729' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/scout-amazon-2835853.jpg' alt='Amazon acaba las pruebas de su robotito de reparto Scout' />
     </a>
 </div>
 
