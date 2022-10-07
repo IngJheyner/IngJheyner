@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/28-noticias-tecnologia-comenzar-manana-informado-ultimo-1136699'>28 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/28-noticias-tecnologia-comenzar-manana-informado-ultimo-1136699' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/28-noticias-tecnologia-comenzar-manana-informado-ultimo-2835703.jpg' alt='28 noticias de tecnología para comenzar la mañana informado de lo último' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/imagen-video-inteligencia-artificial-google-convierte-texto-video-1136493'>Imagen Video, la nueva IA de Google que convierte texto en vídeo</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/imagen-video-inteligencia-artificial-google-convierte-texto-video-1136493' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/imagen-video-nueva-ia-google-convierte-texto-video-2835495.jpg' alt='Imagen Video, la nueva IA de Google que convierte texto en vídeo' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/caceres-city-of-dragons-evento-europeo-juego-de-tronos-la-casa-del-dragon-1136465'>Se presenta Cáceres City of Dragons, el mayor evento europeo sobre el universo de Juego de Tronos</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/caceres-city-of-dragons-evento-europeo-juego-de-tronos-la-casa-del-dragon-1136465' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/llega-caceres-city-dragons-mayor-evento-europeo-universo-juego-tronos-2835385.jpg' alt='Se presenta Cáceres City of Dragons, el mayor evento europeo sobre el universo de Juego de Tronos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/preparate-frio-persianas-termicas-lidl-ahorra-calefaccion-1136449'>Prepárate para el frío con las persianas térmicas de Lidl y ahorra en calefacción</a></h4>
-    <a href='https://computerhoy.com/noticias/life/preparate-frio-persianas-termicas-lidl-ahorra-calefaccion-1136449' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/persianas-2734961.jpg' alt='Prepárate para el frío con las persianas térmicas de Lidl y ahorra en calefacción' />
     </a>
 </div>
 
