@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/binance-hackeada-roban-585-millones-euros-tokens-1137021'>Binance hackeada, roban 585 millones de euros en tokens</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/binance-hackeada-roban-585-millones-euros-tokens-1137021' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/binance-hackeada-roban-585-millones-euros-tokens-2836565.jpg' alt='Binance hackeada, roban 585 millones de euros en tokens' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/tablet-lenovo-estacion-carga-inteligente-descuento-1137015'>Esta tablet de 10" de Lenovo se convierte en un marco digital y altavoz inteligente cuando no la usas, y tiene 30€ de descuento</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/tablet-lenovo-estacion-carga-inteligente-descuento-1137015' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/tablet-10-lenovo-convierte-marco-digital-cuando-no-usas-tiene-30eu-descuento-2836547.jpg' alt='Esta tablet de 10" de Lenovo se convierte en un marco digital y altavoz inteligente cuando no la usas, y tiene 30€ de descuento' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/nuevos-iphone-14-salen-muy-caros-apple-1136971'>Los nuevos iPhone 14 le salen muy caros a Apple</a></h4>
     <a href='https://computerhoy.com/noticias/nuevos-iphone-14-salen-muy-caros-apple-1136971' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/analisis-iphone-14-pro-2821731.jpg' alt='Los nuevos iPhone 14 le salen muy caros a Apple' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/crea-retrato-difunta-reina-isabel-ii-google-maps-avioneta-1136999'>Así se crea el retrato de la difunta Reina Isabel II en Google Maps y con una avioneta</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/crea-retrato-difunta-reina-isabel-ii-google-maps-avioneta-1136999' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/crea-avioneta-google-maps-espectacular-retrato-reina-isabel-ii-2836465.jpg' alt='Así se crea el retrato de la difunta Reina Isabel II en Google Maps y con una avioneta' />
     </a>
 </div>
 
