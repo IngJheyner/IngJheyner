@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/series-ver-fin-semana-netflix-hbo-max-disney-she-hulk-alfred-batman-terror-adolescente-1136919'>Qué series ver este fin de semana en Netflix, HBO Max y Disney+: She-Hulk, Alfred (Batman) y terror adolescente</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/series-ver-fin-semana-netflix-hbo-max-disney-she-hulk-alfred-batman-terror-adolescente-1136919' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/series-ver-fin-semana-netflix-hbo-max-disney-she-hulk-alfred-batman-terror-adolescente-2836301.jpg' alt='Qué series ver este fin de semana en Netflix, HBO Max y Disney+: She-Hulk, Alfred (Batman) y terror adolescente' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/peliculas-ver-fin-semana-movistarplus-netflix-disney-penelope-cruz-terror-marvel-mila-kunis-1136917'>Qué películas ver este fin de semana en MovistarPlus+, Netflix y Disney+: Penélope Cruz, terror en Marvel y una de Mila Kunis</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/peliculas-ver-fin-semana-movistarplus-netflix-disney-penelope-cruz-terror-marvel-mila-kunis-1136917' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/peliculas-ver-fin-semana-movistarplus-netflix-disney-penelope-cruz-terror-marvel-mila-kunis-2836313.jpg' alt='Qué películas ver este fin de semana en MovistarPlus+, Netflix y Disney+: Penélope Cruz, terror en Marvel y una de Mila Kunis' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/google-pixel-7-pro-desmontado-poco-cambia-frente-ano-pasado-1136889'>Google Pixel 7 Pro desmontado, poco cambia frente el año pasado</a></h4>
     <a href='https://computerhoy.com/noticias/google-pixel-7-pro-desmontado-poco-cambia-frente-ano-pasado-1136889' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/google-pixel-7-pro-desmontado-poco-cambia-frente-ano-pasado-2836225.jpg' alt='Google Pixel 7 Pro desmontado, poco cambia frente el año pasado' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/paginas-web-visitadas-cada-pais-mundo-queda-confirmado-spain-different-1136891'>Las páginas web más visitadas en cada país del mundo, queda confirmado: Spain is different</a></h4>
     <a href='https://computerhoy.com/noticias/paginas-web-visitadas-cada-pais-mundo-queda-confirmado-spain-different-1136891' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/webs-2836229.jpg' alt='Las páginas web más visitadas en cada país del mundo, queda confirmado: Spain is different' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/son-criptomonedas-como-funcionan-cuales-son-importantes-ahora-mismo-1134999'>Qué son las criptomonedas, cómo funcionan y cuáles son las más importantes ahora mismo</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/son-criptomonedas-como-funcionan-cuales-son-importantes-ahora-mismo-1134999' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/criptomonedas-2832547.jpg' alt='Qué son las criptomonedas, cómo funcionan y cuáles son las más importantes ahora mismo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/cuidado-estos-timos-estafas-tiktok-1136833'>Cuidado con estos timos y estafas de TikTok</a></h4>
-    <a href='https://computerhoy.com/noticias/cuidado-estos-timos-estafas-tiktok-1136833' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/tiktok-2799869.jpg' alt='Cuidado con estos timos y estafas de TikTok' />
     </a>
 </div>
 
