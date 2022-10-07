@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/google-pixel-7-pro-desmontado-poco-cambia-frente-ano-pasado-1136889'>Google Pixel 7 Pro desmontado, poco cambia frente el año pasado</a></h4>
+    <a href='https://computerhoy.com/noticias/google-pixel-7-pro-desmontado-poco-cambia-frente-ano-pasado-1136889' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/google-pixel-7-pro-desmontado-poco-cambia-frente-ano-pasado-2836225.jpg' alt='Google Pixel 7 Pro desmontado, poco cambia frente el año pasado' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/25-mejores-fotos-perfil-whatsapp-291949'>Las 45 mejores fotos de perfil para WhatsApp para ponerte en 2022</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/25-mejores-fotos-perfil-whatsapp-291949' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/whatsapp-2664033.jpg' alt='Las 45 mejores fotos de perfil para WhatsApp para ponerte en 2022' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/paginas-web-visitadas-cada-pais-mundo-queda-confirmado-spain-different-1136891'>Las páginas web más visitadas en cada país del mundo, queda confirmado: Spain is different</a></h4>
     <a href='https://computerhoy.com/noticias/paginas-web-visitadas-cada-pais-mundo-queda-confirmado-spain-different-1136891' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/webs-2836229.jpg' alt='Las páginas web más visitadas en cada país del mundo, queda confirmado: Spain is different' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/cuidado-estos-timos-estafas-tiktok-1136833'>Cuidado con estos timos y estafas de TikTok</a></h4>
     <a href='https://computerhoy.com/noticias/cuidado-estos-timos-estafas-tiktok-1136833' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/tiktok-2799869.jpg' alt='Cuidado con estos timos y estafas de TikTok' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/bicicleta-electrica-plegable-todo-chollo-conoces-codigo-compra-1136803'>Esta bicicleta eléctrica es plegable y todo un chollo si conoces este código de compra</a></h4>
-    <a href='https://computerhoy.com/noticias/life/bicicleta-electrica-plegable-todo-chollo-conoces-codigo-compra-1136803' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/bicicleta-electrica-plegable-dyu-d3f-2835945.jpg' alt='Esta bicicleta eléctrica es plegable y todo un chollo si conoces este código de compra' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/tiktok-lanza-nuevas-herramientas-creadores-1136829'>TikTok lanza nuevas herramientas para los creadores</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/tiktok-lanza-nuevas-herramientas-creadores-1136829' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/tiktok-dientes-perfectos-2792685.jpg' alt='TikTok lanza nuevas herramientas para los creadores' />
     </a>
 </div>
 
