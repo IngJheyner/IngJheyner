@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/crea-retrato-difunta-reina-isabel-ii-google-maps-avioneta-1136999'>Así se crea el retrato de la difunta Reina Isabel II en Google Maps y con una avioneta</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/crea-retrato-difunta-reina-isabel-ii-google-maps-avioneta-1136999' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/crea-avioneta-google-maps-espectacular-retrato-reina-isabel-ii-2836465.jpg' alt='Así se crea el retrato de la difunta Reina Isabel II en Google Maps y con una avioneta' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/estas-son-opciones-debes-revisar-whatsapp-proteger-cuenta-1136995'>Estas son las opciones que debes revisar en WhatsApp para proteger tu cuenta</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/estas-son-opciones-debes-revisar-whatsapp-proteger-cuenta-1136995' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/privacidad-whatsapp-2747425.jpg' alt='Estas son las opciones que debes revisar en WhatsApp para proteger tu cuenta' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/xiaomi-redmi-buds-4-auriculares-baratos-1136177'>Redmi Buds 4: así son los auriculares inalámbricos de Xiaomi que compiten con los AirPods por la mitad de precio</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/xiaomi-redmi-buds-4-auriculares-baratos-1136177' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/xiaomi-redmi-buds-4-2834643.jpg' alt='Redmi Buds 4: así son los auriculares inalámbricos de Xiaomi que compiten con los AirPods por la mitad de precio' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/series-ver-fin-semana-netflix-hbo-max-disney-she-hulk-alfred-batman-terror-adolescente-1136919'>Qué series ver este fin de semana en Netflix, HBO Max y Disney+: She-Hulk, Alfred (Batman) y terror adolescente</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/series-ver-fin-semana-netflix-hbo-max-disney-she-hulk-alfred-batman-terror-adolescente-1136919' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/series-ver-fin-semana-netflix-hbo-max-disney-she-hulk-alfred-batman-terror-adolescente-2836301.jpg' alt='Qué series ver este fin de semana en Netflix, HBO Max y Disney+: She-Hulk, Alfred (Batman) y terror adolescente' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/peliculas-ver-fin-semana-movistarplus-netflix-disney-penelope-cruz-terror-marvel-mila-kunis-1136917'>Qué películas ver este fin de semana en MovistarPlus+, Netflix y Disney+: Penélope Cruz, terror en Marvel y una de Mila Kunis</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/peliculas-ver-fin-semana-movistarplus-netflix-disney-penelope-cruz-terror-marvel-mila-kunis-1136917' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/peliculas-ver-fin-semana-movistarplus-netflix-disney-penelope-cruz-terror-marvel-mila-kunis-2836313.jpg' alt='Qué películas ver este fin de semana en MovistarPlus+, Netflix y Disney+: Penélope Cruz, terror en Marvel y una de Mila Kunis' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/google-pixel-7-pro-desmontado-poco-cambia-frente-ano-pasado-1136889'>Google Pixel 7 Pro desmontado, poco cambia frente el año pasado</a></h4>
-    <a href='https://computerhoy.com/noticias/google-pixel-7-pro-desmontado-poco-cambia-frente-ano-pasado-1136889' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/google-pixel-7-pro-desmontado-poco-cambia-frente-ano-pasado-2836225.jpg' alt='Google Pixel 7 Pro desmontado, poco cambia frente el año pasado' />
     </a>
 </div>
 
