@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/elon-musk-asegura-camion-electrico-tesla-produccion-llegara-navidad-1136737'>Elon Musk asegura que el camión eléctrico de Tesla está en producción: llegará en Navidad</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/elon-musk-asegura-camion-electrico-tesla-produccion-llegara-navidad-1136737' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/tesla-semi-truck-llegara-ano-cybertruck-hara-2023-2783377.jpg' alt='Elon Musk asegura que el camión eléctrico de Tesla está en producción: llegará en Navidad' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/acer-presenta-nuevo-portatil-swift-edge-pantalla-oled-procesador-ryzen-5-6800u-1136723'>Acer presenta su nuevo portátil Swift Edge: pantalla OLED y procesador Ryzen 5 6800U</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/acer-presenta-nuevo-portatil-swift-edge-pantalla-oled-procesador-ryzen-5-6800u-1136723' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/acer-swift-oled-nuevo-convertible-pantalla-oled-hacer-procesadores-intel-core-12a-generacion-2714519.jpg' alt='Acer presenta su nuevo portátil Swift Edge: pantalla OLED y procesador Ryzen 5 6800U' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/imagen-video-inteligencia-artificial-google-convierte-texto-video-1136493'>Imagen Video, la nueva IA de Google que convierte texto en vídeo</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/imagen-video-inteligencia-artificial-google-convierte-texto-video-1136493' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/imagen-video-nueva-ia-google-convierte-texto-video-2835495.jpg' alt='Imagen Video, la nueva IA de Google que convierte texto en vídeo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/trailer-super-mario-bros-pelicula-1136489'>¡Este es el tráiler de Super Mario Bros La Película!</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/trailer-super-mario-bros-pelicula-1136489' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/verticalimage1665088337418-2835435.jpg' alt='¡Este es el tráiler de Super Mario Bros La Película!' />
     </a>
 </div>
 
