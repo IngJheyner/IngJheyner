@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/cobra-kai-serie-vista-nielsen-anillos-poder-casa-dragon-1137011'>Cobra Kai ha sido la serie más vista según Nielsen, y una serie poco conocida supera a Los Anillos de Poder y La Casa del Dragón</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/cobra-kai-serie-vista-nielsen-anillos-poder-casa-dragon-1137011' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/cobra-kai-5-william-zabka-2787047.jpg' alt='Cobra Kai ha sido la serie más vista según Nielsen, y una serie poco conocida supera a Los Anillos de Poder y La Casa del Dragón' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/nuevos-iphone-14-salen-muy-caros-apple-1136971'>Los nuevos iPhone 14 le salen muy caros a Apple</a></h4>
+    <a href='https://computerhoy.com/noticias/nuevos-iphone-14-salen-muy-caros-apple-1136971' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/analisis-iphone-14-pro-2821731.jpg' alt='Los nuevos iPhone 14 le salen muy caros a Apple' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/crea-retrato-difunta-reina-isabel-ii-google-maps-avioneta-1136999'>Así se crea el retrato de la difunta Reina Isabel II en Google Maps y con una avioneta</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/crea-retrato-difunta-reina-isabel-ii-google-maps-avioneta-1136999' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/crea-avioneta-google-maps-espectacular-retrato-reina-isabel-ii-2836465.jpg' alt='Así se crea el retrato de la difunta Reina Isabel II en Google Maps y con una avioneta' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/xiaomi-redmi-buds-4-auriculares-baratos-1136177'>Redmi Buds 4: así son los auriculares inalámbricos de Xiaomi que compiten con los AirPods por la mitad de precio</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/xiaomi-redmi-buds-4-auriculares-baratos-1136177' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/xiaomi-redmi-buds-4-2834643.jpg' alt='Redmi Buds 4: así son los auriculares inalámbricos de Xiaomi que compiten con los AirPods por la mitad de precio' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/reloj-apocalipsis-fin-mundo-cuando-conoceremos-nueva-fecha-fin-humanidad-1136951'>Reloj del apocalipsis o fin del mundo: ¿cuándo conoceremos la nueva fecha para el fin de la humanidad?</a></h4>
-    <a href='https://computerhoy.com/noticias/reloj-apocalipsis-fin-mundo-cuando-conoceremos-nueva-fecha-fin-humanidad-1136951' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/09/bomba-nuclear-2050633.jpg' alt='Reloj del apocalipsis o fin del mundo: ¿cuándo conoceremos la nueva fecha para el fin de la humanidad?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/series-ver-fin-semana-netflix-hbo-max-disney-she-hulk-alfred-batman-terror-adolescente-1136919'>Qué series ver este fin de semana en Netflix, HBO Max y Disney+: She-Hulk, Alfred (Batman) y terror adolescente</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/series-ver-fin-semana-netflix-hbo-max-disney-she-hulk-alfred-batman-terror-adolescente-1136919' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/series-ver-fin-semana-netflix-hbo-max-disney-she-hulk-alfred-batman-terror-adolescente-2836301.jpg' alt='Qué series ver este fin de semana en Netflix, HBO Max y Disney+: She-Hulk, Alfred (Batman) y terror adolescente' />
     </a>
 </div>
 
