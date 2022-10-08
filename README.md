@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/razon-todavia-no-puedes-participar-ese-grupo-whatsapp-pediste-unirte-1137323'>Esta es la razón por la que todavía no puedes participar en ese grupo de WhatsApp en el que pediste unirte</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/razon-todavia-no-puedes-participar-ese-grupo-whatsapp-pediste-unirte-1137323' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/comunidad-whatsapp-2525619.jpg' alt='Esta es la razón por la que todavía no puedes participar en ese grupo de WhatsApp en el que pediste unirte' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/ahora-estacion-metro-taiwan-alberga-granja-vertical-organica-1137303'>Ahora esta estación de metro en Taiwán alberga una granja vertical orgánica</a></h4>
     <a href='https://computerhoy.com/noticias/life/ahora-estacion-metro-taiwan-alberga-granja-vertical-organica-1137303' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/transforman-estacion-metro-granja-vertical-organica-2836909.jpg' alt='Ahora esta estación de metro en Taiwán alberga una granja vertical orgánica' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/estas-serian-nuevas-caracteristicas-rumoreado-apple-tv-barato-lanzaria-2022-1137301'>Estas serían las nuevas características del rumoreado Apple TV barato que se lanzaría en 2022</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/estas-serian-nuevas-caracteristicas-rumoreado-apple-tv-barato-lanzaria-2022-1137301' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/apple-tv-2475835.jpg' alt='Estas serían las nuevas características del rumoreado Apple TV barato que se lanzaría en 2022' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/10-cosas-puedes-arreglar-mismo-windows-11-funcione-mucho-mejor-1136133'>10 cosas que puedes arreglar tú mismo para que Windows 11 funcione mucho mejor</a></h4>
-    <a href='https://computerhoy.com/tutoriales/tecnologia/10-cosas-puedes-arreglar-mismo-windows-11-funcione-mucho-mejor-1136133' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/windows-11-2834541.jpg' alt='10 cosas que puedes arreglar tú mismo para que Windows 11 funcione mucho mejor' />
     </a>
 </div>
 
