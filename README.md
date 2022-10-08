@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/netflix-estrenara-primera-vez-pelicula-salas-cine-antes-plataforma-1137299'>Netflix estrenará por primera vez una película en las salas de cine antes que en su plataforma</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/netflix-estrenara-primera-vez-pelicula-salas-cine-antes-plataforma-1137299' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/punales-espalda-2-2704911.jpg' alt='Netflix estrenará por primera vez una película en las salas de cine antes que en su plataforma' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/robot-aspirador-tambien-friega-limpia-solo-menos-230-euros-1137289'>El robot aspirador que también friega y se limpia solo a menos de 230 euros</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/robot-aspirador-tambien-friega-limpia-solo-menos-230-euros-1137289' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/conga-2290-2836881.jpg' alt='El robot aspirador que también friega y se limpia solo a menos de 230 euros' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/twitter-sabe-cuando-haces-capturas-pantalla-tuits-no-gusta-1137261'>Twitter sabe cuando haces capturas de pantalla de los tuits, y no le gusta</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/twitter-sabe-cuando-haces-capturas-pantalla-tuits-no-gusta-1137261' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/twitter-2836821.jpg' alt='Twitter sabe cuando haces capturas de pantalla de los tuits, y no le gusta' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/mediamarkt-rebaja-110eu-mejores-moviles-ano-samsung-galaxy-s22-varios-colores-1136199'>MediaMarkt rebaja 110€ uno de los mejores móviles del año, este Samsung Galaxy S22 en varios colores</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/mediamarkt-rebaja-110eu-mejores-moviles-ano-samsung-galaxy-s22-varios-colores-1136199' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/samsung-galaxy-s22-analisis-opinion-2741215.jpg' alt='MediaMarkt rebaja 110€ uno de los mejores móviles del año, este Samsung Galaxy S22 en varios colores' />
     </a>
 </div>
 
