@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/usar-smartwatch-2022-como-tener-experiencia-movil-business-class-1127419'>Usar un smartwatch en 2022 o cómo tener la experiencia móvil “Business Class”</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/usar-smartwatch-2022-como-tener-experiencia-movil-business-class-1127419' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/poco-watch-analisis-opinion-2777941.jpg' alt='Usar un smartwatch en 2022 o cómo tener la experiencia móvil “Business Class”' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/analisis/tecnologia/motorola-edge-30-neo-review-opinion-1133925'>Motorola Edge 30 Neo: análisis y opinión</a></h4>
     <a href='https://computerhoy.com/analisis/tecnologia/motorola-edge-30-neo-review-opinion-1133925' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/motorola-edge-30-neo-2833061.jpg' alt='Motorola Edge 30 Neo: análisis y opinión' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/bucardo-pirineos-unico-animal-historia-ha-extinguido-dos-veces-1136779'>El bucardo de los Pirineos, el único animal de la historia que se ha extinguido dos veces</a></h4>
     <a href='https://computerhoy.com/noticias/life/bucardo-pirineos-unico-animal-historia-ha-extinguido-dos-veces-1136779' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/bucardo-pirineos-unico-animal-historia-ha-extinguido-dos-veces-2835915.jpg' alt='El bucardo de los Pirineos, el único animal de la historia que se ha extinguido dos veces' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/tecnologicas-destruyen-millones-servidores-discos-duros-temor-hackers-1137203'>Las tecnológicas destruyen millones de servidores y discos duros al año que podrían usarse, por temor a los hackers</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/tecnologicas-destruyen-millones-servidores-discos-duros-temor-hackers-1137203' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/tecnologicas-destruyen-millones-servidores-discos-duros-ano-podrian-usarse-temor-hackers-2836727.jpg' alt='Las tecnológicas destruyen millones de servidores y discos duros al año que podrían usarse, por temor a los hackers' />
     </a>
 </div>
 
