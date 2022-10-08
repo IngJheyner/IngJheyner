@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/ahora-estacion-metro-taiwan-alberga-granja-vertical-organica-1137303'>Ahora esta estación de metro en Taiwán alberga una granja vertical orgánica</a></h4>
+    <a href='https://computerhoy.com/noticias/life/ahora-estacion-metro-taiwan-alberga-granja-vertical-organica-1137303' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/transforman-estacion-metro-granja-vertical-organica-2836909.jpg' alt='Ahora esta estación de metro en Taiwán alberga una granja vertical orgánica' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/oferta-apple-tv-4k-mediamarkt-1136345'>Una de las ofertas más raras que encontrarás: por fin los Apple TV tienen descuento en MediaMarkt</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/oferta-apple-tv-4k-mediamarkt-1136345' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/apple-tv-4k-2835049.jpg' alt='Una de las ofertas más raras que encontrarás: por fin los Apple TV tienen descuento en MediaMarkt' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-mandar-facilmente-fotos-iphone-pc-windows-1127483'>Cómo mandar fácilmente tus fotos del iPhone a un PC Windows </a></h4>
+    <a href='https://computerhoy.com/tutoriales/tecnologia/como-mandar-facilmente-fotos-iphone-pc-windows-1127483' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/iphone-fotos-2818437.jpg' alt='Cómo mandar fácilmente tus fotos del iPhone a un PC Windows ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/estas-serian-nuevas-caracteristicas-rumoreado-apple-tv-barato-lanzaria-2022-1137301'>Estas serían las nuevas características del rumoreado Apple TV barato que se lanzaría en 2022</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/estas-serian-nuevas-caracteristicas-rumoreado-apple-tv-barato-lanzaria-2022-1137301' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/apple-tv-2475835.jpg' alt='Estas serían las nuevas características del rumoreado Apple TV barato que se lanzaría en 2022' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/tutoriales/tecnologia/10-cosas-puedes-arreglar-mismo-windows-11-funcione-mucho-mejor-1136133'>10 cosas que puedes arreglar tú mismo para que Windows 11 funcione mucho mejor</a></h4>
     <a href='https://computerhoy.com/tutoriales/tecnologia/10-cosas-puedes-arreglar-mismo-windows-11-funcione-mucho-mejor-1136133' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/windows-11-2834541.jpg' alt='10 cosas que puedes arreglar tú mismo para que Windows 11 funcione mucho mejor' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/netflix-estrenara-primera-vez-pelicula-salas-cine-antes-plataforma-1137299'>Netflix estrenará por primera vez una película en las salas de cine antes que en su plataforma</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/netflix-estrenara-primera-vez-pelicula-salas-cine-antes-plataforma-1137299' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/punales-espalda-2-2704911.jpg' alt='Netflix estrenará por primera vez una película en las salas de cine antes que en su plataforma' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/robot-aspirador-tambien-friega-limpia-solo-menos-230-euros-1137289'>El robot aspirador que también friega y se limpia solo a menos de 230 euros</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/robot-aspirador-tambien-friega-limpia-solo-menos-230-euros-1137289' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/conga-2290-2836881.jpg' alt='El robot aspirador que también friega y se limpia solo a menos de 230 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/crean-casco-impulsado-ia-dar-bomberos-superpoderes-1137277'>Crean un casco impulsado por IA para dar a los bomberos superpoderes</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/crean-casco-impulsado-ia-dar-bomberos-superpoderes-1137277' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/crean-casco-impulsado-ia-dar-bomberos-superpoderes-2836857.jpg' alt='Crean un casco impulsado por IA para dar a los bomberos superpoderes' />
     </a>
 </div>
 
