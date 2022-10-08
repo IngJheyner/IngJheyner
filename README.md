@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/10-cosas-puedes-arreglar-mismo-windows-11-funcione-mucho-mejor-1136133'>10 cosas que puedes arreglar tú mismo para que Windows 11 funcione mucho mejor</a></h4>
+    <a href='https://computerhoy.com/tutoriales/tecnologia/10-cosas-puedes-arreglar-mismo-windows-11-funcione-mucho-mejor-1136133' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/windows-11-2834541.jpg' alt='10 cosas que puedes arreglar tú mismo para que Windows 11 funcione mucho mejor' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/netflix-estrenara-primera-vez-pelicula-salas-cine-antes-plataforma-1137299'>Netflix estrenará por primera vez una película en las salas de cine antes que en su plataforma</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/netflix-estrenara-primera-vez-pelicula-salas-cine-antes-plataforma-1137299' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/punales-espalda-2-2704911.jpg' alt='Netflix estrenará por primera vez una película en las salas de cine antes que en su plataforma' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/entretenimiento/7-peliculas-inteligencia-artificial-personaje-historia-1135177'>7 películas en las que la Inteligencia Artificial es un personaje más de la historia</a></h4>
     <a href='https://computerhoy.com/reportajes/entretenimiento/7-peliculas-inteligencia-artificial-personaje-historia-1135177' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/2001-odisea-espacio-2824011.jpg' alt='7 películas en las que la Inteligencia Artificial es un personaje más de la historia' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/twitter-sabe-cuando-haces-capturas-pantalla-tuits-no-gusta-1137261'>Twitter sabe cuando haces capturas de pantalla de los tuits, y no le gusta</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/twitter-sabe-cuando-haces-capturas-pantalla-tuits-no-gusta-1137261' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/twitter-2836821.jpg' alt='Twitter sabe cuando haces capturas de pantalla de los tuits, y no le gusta' />
     </a>
 </div>
 
