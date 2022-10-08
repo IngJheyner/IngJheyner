@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/como-dibujar-circulo-perfecto-sin-compas-1137197'>Cómo dibujar un círculo perfecto solo con la mano (y un boli)</a></h4>
+    <a href='https://computerhoy.com/noticias/life/como-dibujar-circulo-perfecto-sin-compas-1137197' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/como-dibujar-circulo-perfecto-solo-mano-boli-2836717.jpg' alt='Cómo dibujar un círculo perfecto solo con la mano (y un boli)' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-traducir-pagina-web-chrome-1123075'>Cómo traducir una página web en Chrome</a></h4>
+    <a href='https://computerhoy.com/tutoriales/tecnologia/como-traducir-pagina-web-chrome-1123075' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/traducir-2810465.jpg' alt='Cómo traducir una página web en Chrome' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/roban-contrasena-1-millon-usuarios-facebook-400-apps-ios-android-1137023'>Roban la contraseña a 1 millón de usuarios de Facebook a través de 400 apps de iOS y Android</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/roban-contrasena-1-millon-usuarios-facebook-400-apps-ios-android-1137023' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/roban-contrasena-1-millon-usuarios-facebook-traves-400-apps-ios-android-2836567.jpg' alt='Roban la contraseña a 1 millón de usuarios de Facebook a través de 400 apps de iOS y Android' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/tablet-lenovo-estacion-carga-inteligente-descuento-1137015'>Esta tablet de 10" de Lenovo se convierte en un marco digital y altavoz inteligente cuando no la usas, y tiene 30€ de descuento</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/tablet-lenovo-estacion-carga-inteligente-descuento-1137015' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/tablet-10-lenovo-convierte-marco-digital-cuando-no-usas-tiene-30eu-descuento-2836547.jpg' alt='Esta tablet de 10" de Lenovo se convierte en un marco digital y altavoz inteligente cuando no la usas, y tiene 30€ de descuento' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/chrome-navegador-vulnerable-anos-luz-rival-seguro-1136987'>Chrome es el navegador más vulnerable y está a años luz de su rival más seguro</a></h4>
-    <a href='https://computerhoy.com/noticias/chrome-navegador-vulnerable-anos-luz-rival-seguro-1136987' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/google-chrome-seguridad-2577995.jpg' alt='Chrome es el navegador más vulnerable y está a años luz de su rival más seguro' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/cobra-kai-serie-vista-nielsen-anillos-poder-casa-dragon-1137011'>Cobra Kai ha sido la serie más vista según Nielsen, y una serie poco conocida supera a Los Anillos de Poder y La Casa del Dragón</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/cobra-kai-serie-vista-nielsen-anillos-poder-casa-dragon-1137011' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/cobra-kai-5-william-zabka-2787047.jpg' alt='Cobra Kai ha sido la serie más vista según Nielsen, y una serie poco conocida supera a Los Anillos de Poder y La Casa del Dragón' />
     </a>
 </div>
 
