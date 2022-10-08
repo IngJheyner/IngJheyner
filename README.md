@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/estas-serian-nuevas-caracteristicas-rumoreado-apple-tv-barato-lanzaria-2022-1137301'>Estas serían las nuevas características del rumoreado Apple TV barato que se lanzaría en 2022</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/estas-serian-nuevas-caracteristicas-rumoreado-apple-tv-barato-lanzaria-2022-1137301' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/apple-tv-2475835.jpg' alt='Estas serían las nuevas características del rumoreado Apple TV barato que se lanzaría en 2022' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tutoriales/tecnologia/10-cosas-puedes-arreglar-mismo-windows-11-funcione-mucho-mejor-1136133'>10 cosas que puedes arreglar tú mismo para que Windows 11 funcione mucho mejor</a></h4>
     <a href='https://computerhoy.com/tutoriales/tecnologia/10-cosas-puedes-arreglar-mismo-windows-11-funcione-mucho-mejor-1136133' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/windows-11-2834541.jpg' alt='10 cosas que puedes arreglar tú mismo para que Windows 11 funcione mucho mejor' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/crean-casco-impulsado-ia-dar-bomberos-superpoderes-1137277'>Crean un casco impulsado por IA para dar a los bomberos superpoderes</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/crean-casco-impulsado-ia-dar-bomberos-superpoderes-1137277' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/crean-casco-impulsado-ia-dar-bomberos-superpoderes-2836857.jpg' alt='Crean un casco impulsado por IA para dar a los bomberos superpoderes' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/entretenimiento/7-peliculas-inteligencia-artificial-personaje-historia-1135177'>7 películas en las que la Inteligencia Artificial es un personaje más de la historia</a></h4>
-    <a href='https://computerhoy.com/reportajes/entretenimiento/7-peliculas-inteligencia-artificial-personaje-historia-1135177' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/2001-odisea-espacio-2824011.jpg' alt='7 películas en las que la Inteligencia Artificial es un personaje más de la historia' />
     </a>
 </div>
 
