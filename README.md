@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/errores-cometemos-comprar-ordenador-portatil-1125847'>Errores que cometemos al comprar un ordenador portátil</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/errores-cometemos-comprar-ordenador-portatil-1125847' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/portatil-2815849.jpg' alt='Errores que cometemos al comprar un ordenador portátil' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-camara-865673'>Mejores móviles para hacer fotos: estos son los que mejores cámaras tienen en 2022</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-camara-865673' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/review-iphone-14-pro-2821761.jpg' alt='Mejores móviles para hacer fotos: estos son los que mejores cámaras tienen en 2022' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/bucardo-pirineos-unico-animal-historia-ha-extinguido-dos-veces-1136779'>El bucardo de los Pirineos, el único animal de la historia que se ha extinguido dos veces</a></h4>
     <a href='https://computerhoy.com/noticias/life/bucardo-pirineos-unico-animal-historia-ha-extinguido-dos-veces-1136779' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/bucardo-pirineos-unico-animal-historia-ha-extinguido-dos-veces-2835915.jpg' alt='El bucardo de los Pirineos, el único animal de la historia que se ha extinguido dos veces' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-teclados-programadores-1103571'>Estos son los mejores teclados para programadores que puedes comprar</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/mejores-teclados-programadores-1103571' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/teclado-mecanico-colores-2831241.jpg' alt='Estos son los mejores teclados para programadores que puedes comprar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/como-dibujar-circulo-perfecto-sin-compas-1137197'>Cómo dibujar un círculo perfecto solo con la mano (y un boli)</a></h4>
-    <a href='https://computerhoy.com/noticias/life/como-dibujar-circulo-perfecto-sin-compas-1137197' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/como-dibujar-circulo-perfecto-solo-mano-boli-2836717.jpg' alt='Cómo dibujar un círculo perfecto solo con la mano (y un boli)' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-traducir-pagina-web-chrome-1123075'>Cómo traducir una página web en Chrome</a></h4>
-    <a href='https://computerhoy.com/tutoriales/tecnologia/como-traducir-pagina-web-chrome-1123075' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/traducir-2810465.jpg' alt='Cómo traducir una página web en Chrome' />
     </a>
 </div>
 
