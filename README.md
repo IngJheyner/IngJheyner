@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/robot-aspirador-tambien-friega-limpia-solo-menos-230-euros-1137289'>El robot aspirador que también friega y se limpia solo a menos de 230 euros</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/robot-aspirador-tambien-friega-limpia-solo-menos-230-euros-1137289' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/conga-2290-2836881.jpg' alt='El robot aspirador que también friega y se limpia solo a menos de 230 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/crean-casco-impulsado-ia-dar-bomberos-superpoderes-1137277'>Crean un casco impulsado por IA para dar a los bomberos superpoderes</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/crean-casco-impulsado-ia-dar-bomberos-superpoderes-1137277' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/crean-casco-impulsado-ia-dar-bomberos-superpoderes-2836857.jpg' alt='Crean un casco impulsado por IA para dar a los bomberos superpoderes' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/entretenimiento/7-peliculas-inteligencia-artificial-personaje-historia-1135177'>7 películas en las que la Inteligencia Artificial es un personaje más de la historia</a></h4>
+    <a href='https://computerhoy.com/reportajes/entretenimiento/7-peliculas-inteligencia-artificial-personaje-historia-1135177' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/2001-odisea-espacio-2824011.jpg' alt='7 películas en las que la Inteligencia Artificial es un personaje más de la historia' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/twitter-sabe-cuando-haces-capturas-pantalla-tuits-no-gusta-1137261'>Twitter sabe cuando haces capturas de pantalla de los tuits, y no le gusta</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/twitter-sabe-cuando-haces-capturas-pantalla-tuits-no-gusta-1137261' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/twitter-2836821.jpg' alt='Twitter sabe cuando haces capturas de pantalla de los tuits, y no le gusta' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/mediamarkt-rebaja-110eu-mejores-moviles-ano-samsung-galaxy-s22-varios-colores-1136199'>MediaMarkt rebaja 110€ uno de los mejores móviles del año, este Samsung Galaxy S22 en varios colores</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/mediamarkt-rebaja-110eu-mejores-moviles-ano-samsung-galaxy-s22-varios-colores-1136199' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/samsung-galaxy-s22-analisis-opinion-2741215.jpg' alt='MediaMarkt rebaja 110€ uno de los mejores móviles del año, este Samsung Galaxy S22 en varios colores' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/qualcomm-quiere-dominar-gama-media-premium-snapdragon-7-gen-2-competir-mediatek-1137249'>Qualcomm quiere dominar la gama media premium con el Snapdragon 7 Gen 2 y competir con Mediatek</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/qualcomm-quiere-dominar-gama-media-premium-snapdragon-7-gen-2-competir-mediatek-1137249' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/09/qualcomm-snapdragon-2050873.jpg' alt='Qualcomm quiere dominar la gama media premium con el Snapdragon 7 Gen 2 y competir con Mediatek' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/bluetooth-multipunto-como-funciona-1120381'>¿Qué es el Bluetooth Multipunto y cómo funciona?</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/bluetooth-multipunto-como-funciona-1120381' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/sony-linkbuds-s-analisis-opinion-2784745.jpg' alt='¿Qué es el Bluetooth Multipunto y cómo funciona?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/usar-smartwatch-2022-como-tener-experiencia-movil-business-class-1127419'>Usar un smartwatch en 2022 o cómo tener la experiencia móvil “Business Class”</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/usar-smartwatch-2022-como-tener-experiencia-movil-business-class-1127419' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/poco-watch-analisis-opinion-2777941.jpg' alt='Usar un smartwatch en 2022 o cómo tener la experiencia móvil “Business Class”' />
     </a>
 </div>
 
