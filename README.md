@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/bluetooth-multipunto-como-funciona-1120381'>¿Qué es el Bluetooth Multipunto y cómo funciona?</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/bluetooth-multipunto-como-funciona-1120381' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/sony-linkbuds-s-analisis-opinion-2784745.jpg' alt='¿Qué es el Bluetooth Multipunto y cómo funciona?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/usar-smartwatch-2022-como-tener-experiencia-movil-business-class-1127419'>Usar un smartwatch en 2022 o cómo tener la experiencia móvil “Business Class”</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/usar-smartwatch-2022-como-tener-experiencia-movil-business-class-1127419' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/poco-watch-analisis-opinion-2777941.jpg' alt='Usar un smartwatch en 2022 o cómo tener la experiencia móvil “Business Class”' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-camara-865673'>Mejores móviles para hacer fotos: estos son los que mejores cámaras tienen en 2022</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-camara-865673' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/review-iphone-14-pro-2821761.jpg' alt='Mejores móviles para hacer fotos: estos son los que mejores cámaras tienen en 2022' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/bucardo-pirineos-unico-animal-historia-ha-extinguido-dos-veces-1136779'>El bucardo de los Pirineos, el único animal de la historia que se ha extinguido dos veces</a></h4>
-    <a href='https://computerhoy.com/noticias/life/bucardo-pirineos-unico-animal-historia-ha-extinguido-dos-veces-1136779' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/bucardo-pirineos-unico-animal-historia-ha-extinguido-dos-veces-2835915.jpg' alt='El bucardo de los Pirineos, el único animal de la historia que se ha extinguido dos veces' />
     </a>
 </div>
 
