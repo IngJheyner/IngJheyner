@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/bucardo-pirineos-unico-animal-historia-ha-extinguido-dos-veces-1136779'>El bucardo de los Pirineos, el único animal de la historia que se ha extinguido dos veces</a></h4>
+    <a href='https://computerhoy.com/noticias/life/bucardo-pirineos-unico-animal-historia-ha-extinguido-dos-veces-1136779' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/bucardo-pirineos-unico-animal-historia-ha-extinguido-dos-veces-2835915.jpg' alt='El bucardo de los Pirineos, el único animal de la historia que se ha extinguido dos veces' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/tecnologicas-destruyen-millones-servidores-discos-duros-temor-hackers-1137203'>Las tecnológicas destruyen millones de servidores y discos duros al año que podrían usarse, por temor a los hackers</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/tecnologicas-destruyen-millones-servidores-discos-duros-temor-hackers-1137203' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/tecnologicas-destruyen-millones-servidores-discos-duros-ano-podrian-usarse-temor-hackers-2836727.jpg' alt='Las tecnológicas destruyen millones de servidores y discos duros al año que podrían usarse, por temor a los hackers' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-teclados-programadores-1103571'>Estos son los mejores teclados para programadores que puedes comprar</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-teclados-programadores-1103571' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/teclado-mecanico-colores-2831241.jpg' alt='Estos son los mejores teclados para programadores que puedes comprar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/como-dibujar-circulo-perfecto-sin-compas-1137197'>Cómo dibujar un círculo perfecto solo con la mano (y un boli)</a></h4>
     <a href='https://computerhoy.com/noticias/life/como-dibujar-circulo-perfecto-sin-compas-1137197' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/como-dibujar-circulo-perfecto-solo-mano-boli-2836717.jpg' alt='Cómo dibujar un círculo perfecto solo con la mano (y un boli)' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-traducir-pagina-web-chrome-1123075'>Cómo traducir una página web en Chrome</a></h4>
     <a href='https://computerhoy.com/tutoriales/tecnologia/como-traducir-pagina-web-chrome-1123075' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/traducir-2810465.jpg' alt='Cómo traducir una página web en Chrome' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/roban-contrasena-1-millon-usuarios-facebook-400-apps-ios-android-1137023'>Roban la contraseña a 1 millón de usuarios de Facebook a través de 400 apps de iOS y Android</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/roban-contrasena-1-millon-usuarios-facebook-400-apps-ios-android-1137023' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/roban-contrasena-1-millon-usuarios-facebook-traves-400-apps-ios-android-2836567.jpg' alt='Roban la contraseña a 1 millón de usuarios de Facebook a través de 400 apps de iOS y Android' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/binance-hackeada-roban-585-millones-euros-tokens-1137021'>Binance hackeada, roban 585 millones de euros en tokens</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/binance-hackeada-roban-585-millones-euros-tokens-1137021' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/binance-hackeada-roban-585-millones-euros-tokens-2836565.jpg' alt='Binance hackeada, roban 585 millones de euros en tokens' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/tablet-lenovo-estacion-carga-inteligente-descuento-1137015'>Esta tablet de 10" de Lenovo se convierte en un marco digital y altavoz inteligente cuando no la usas, y tiene 30€ de descuento</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/tablet-lenovo-estacion-carga-inteligente-descuento-1137015' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/tablet-10-lenovo-convierte-marco-digital-cuando-no-usas-tiene-30eu-descuento-2836547.jpg' alt='Esta tablet de 10" de Lenovo se convierte en un marco digital y altavoz inteligente cuando no la usas, y tiene 30€ de descuento' />
     </a>
 </div>
 
