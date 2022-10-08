@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/twitter-sabe-cuando-haces-capturas-pantalla-tuits-no-gusta-1137261'>Twitter sabe cuando haces capturas de pantalla de los tuits, y no le gusta</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/twitter-sabe-cuando-haces-capturas-pantalla-tuits-no-gusta-1137261' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/twitter-2836821.jpg' alt='Twitter sabe cuando haces capturas de pantalla de los tuits, y no le gusta' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/mediamarkt-rebaja-110eu-mejores-moviles-ano-samsung-galaxy-s22-varios-colores-1136199'>MediaMarkt rebaja 110€ uno de los mejores móviles del año, este Samsung Galaxy S22 en varios colores</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/mediamarkt-rebaja-110eu-mejores-moviles-ano-samsung-galaxy-s22-varios-colores-1136199' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/samsung-galaxy-s22-analisis-opinion-2741215.jpg' alt='MediaMarkt rebaja 110€ uno de los mejores móviles del año, este Samsung Galaxy S22 en varios colores' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/usar-smartwatch-2022-como-tener-experiencia-movil-business-class-1127419'>Usar un smartwatch en 2022 o cómo tener la experiencia móvil “Business Class”</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/usar-smartwatch-2022-como-tener-experiencia-movil-business-class-1127419' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/poco-watch-analisis-opinion-2777941.jpg' alt='Usar un smartwatch en 2022 o cómo tener la experiencia móvil “Business Class”' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/tecnologia/motorola-edge-30-neo-review-opinion-1133925'>Motorola Edge 30 Neo: análisis y opinión</a></h4>
-    <a href='https://computerhoy.com/analisis/tecnologia/motorola-edge-30-neo-review-opinion-1133925' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/motorola-edge-30-neo-2833061.jpg' alt='Motorola Edge 30 Neo: análisis y opinión' />
     </a>
 </div>
 
