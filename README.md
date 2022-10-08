@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/mediamarkt-rebaja-110eu-mejores-moviles-ano-samsung-galaxy-s22-varios-colores-1136199'>MediaMarkt rebaja 110€ uno de los mejores móviles del año, este Samsung Galaxy S22 en varios colores</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/mediamarkt-rebaja-110eu-mejores-moviles-ano-samsung-galaxy-s22-varios-colores-1136199' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/samsung-galaxy-s22-analisis-opinion-2741215.jpg' alt='MediaMarkt rebaja 110€ uno de los mejores móviles del año, este Samsung Galaxy S22 en varios colores' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/qualcomm-quiere-dominar-gama-media-premium-snapdragon-7-gen-2-competir-mediatek-1137249'>Qualcomm quiere dominar la gama media premium con el Snapdragon 7 Gen 2 y competir con Mediatek</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/qualcomm-quiere-dominar-gama-media-premium-snapdragon-7-gen-2-competir-mediatek-1137249' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/09/qualcomm-snapdragon-2050873.jpg' alt='Qualcomm quiere dominar la gama media premium con el Snapdragon 7 Gen 2 y competir con Mediatek' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/bluetooth-multipunto-como-funciona-1120381'>¿Qué es el Bluetooth Multipunto y cómo funciona?</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/bluetooth-multipunto-como-funciona-1120381' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/sony-linkbuds-s-analisis-opinion-2784745.jpg' alt='¿Qué es el Bluetooth Multipunto y cómo funciona?' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/analisis/tecnologia/motorola-edge-30-neo-review-opinion-1133925'>Motorola Edge 30 Neo: análisis y opinión</a></h4>
     <a href='https://computerhoy.com/analisis/tecnologia/motorola-edge-30-neo-review-opinion-1133925' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/motorola-edge-30-neo-2833061.jpg' alt='Motorola Edge 30 Neo: análisis y opinión' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/errores-cometemos-comprar-ordenador-portatil-1125847'>Errores que cometemos al comprar un ordenador portátil</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/errores-cometemos-comprar-ordenador-portatil-1125847' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/portatil-2815849.jpg' alt='Errores que cometemos al comprar un ordenador portátil' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-camara-865673'>Mejores móviles para hacer fotos: estos son los que mejores cámaras tienen en 2022</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-camara-865673' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/review-iphone-14-pro-2821761.jpg' alt='Mejores móviles para hacer fotos: estos son los que mejores cámaras tienen en 2022' />
     </a>
 </div>
 
