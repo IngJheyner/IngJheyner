@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/gaming/udu-console-consola-juegos-obliga-moverse-hacer-ejercicio-1137637'>UDU Console, la consola de juegos que obliga a moverse y hacer ejercicio</a></h4>
+    <a href='https://computerhoy.com/noticias/gaming/udu-console-consola-juegos-obliga-moverse-hacer-ejercicio-1137637' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/verticalimage1665321923616-2837597.jpg' alt='UDU Console, la consola de juegos que obliga a moverse y hacer ejercicio' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/robot-capaz-cocinar-pizzas-menos-5-minutos-idea-antiguos-trabajadores-spacex-1137613'>Este robot es capaz de cocinar pizzas en menos de 5 minutos y es una idea de antiguos trabajadores de SpaceX</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/robot-capaz-cocinar-pizzas-menos-5-minutos-idea-antiguos-trabajadores-spacex-1137613' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/antiguos-empleados-spacex-crean-robot-capaz-hacer-cualquier-pizza-5-minutos-2837479.jpg' alt='Este robot es capaz de cocinar pizzas en menos de 5 minutos y es una idea de antiguos trabajadores de SpaceX' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/guias-compra/torre-sonido-1125785'>En qué debemos fijarnos al comprar una torre de sonido</a></h4>
     <a href='https://computerhoy.com/guias-compra/torre-sonido-1125785' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/torres-sonido-2815695.jpg' alt='En qué debemos fijarnos al comprar una torre de sonido' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/iphone-ya-no-te-repara-apple-ser-producto-obsoleto-1137605'>Este iPhone ya no te lo repara Apple al ser un producto obsoleto</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/iphone-ya-no-te-repara-apple-ser-producto-obsoleto-1137605' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/iphone-13-2824605.jpg' alt='Este iPhone ya no te lo repara Apple al ser un producto obsoleto' />
     </a>
 </div>
 
