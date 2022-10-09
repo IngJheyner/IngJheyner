@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/audiogen-inteligencia-artificial-convierte-texto-en-sonidos-1137667'>Primero fueron imágenes, luego vídeo, y ahora una IA crea sonidos a partir de texto</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/audiogen-inteligencia-artificial-convierte-texto-en-sonidos-1137667' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/primero-fueron-imagenes-luego-video-ahora-ia-crea-sonidos-partir-texto-2837675.jpg' alt='Primero fueron imágenes, luego vídeo, y ahora una IA crea sonidos a partir de texto' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/ya-puedes-comprar-nueva-tablet-barata-xiaomi-redmi-pad-todo-puedes-necesitar-menos-300eu-1136181'>Ya puedes comprar la nueva tablet barata de Xiaomi: Redmi Pad es todo lo que puedes necesitar por menos de 300€</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/ya-puedes-comprar-nueva-tablet-barata-xiaomi-redmi-pad-todo-puedes-necesitar-menos-300eu-1136181' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/xiaomi-redmi-pad-2834641.jpg' alt='Ya puedes comprar la nueva tablet barata de Xiaomi: Redmi Pad es todo lo que puedes necesitar por menos de 300€' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-bloquear-paginas-web-android-1117761'>Cómo bloquear páginas web en Android</a></h4>
     <a href='https://computerhoy.com/tutoriales/tecnologia/como-bloquear-paginas-web-android-1117761' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/bloquear-paginas-web-android-2800505.jpg' alt='Cómo bloquear páginas web en Android' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/calefactor-barato-mejores-ofertas-adelantarte-meses-frios-1136817'>Este calefactor barato es una de las mejores ofertas para adelantarte a los meses más fríos</a></h4>
     <a href='https://computerhoy.com/noticias/life/calefactor-barato-mejores-ofertas-adelantarte-meses-frios-1136817' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/calefactor-barato-mejores-ofertas-adelantarte-meses-frios-2835985.jpg' alt='Este calefactor barato es una de las mejores ofertas para adelantarte a los meses más fríos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/gaming/udu-console-consola-juegos-obliga-moverse-hacer-ejercicio-1137637'>UDU Console, la consola de juegos que obliga a moverse y hacer ejercicio (vídeo)</a></h4>
-    <a href='https://computerhoy.com/noticias/gaming/udu-console-consola-juegos-obliga-moverse-hacer-ejercicio-1137637' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/verticalimage1665321923616-2837597.jpg' alt='UDU Console, la consola de juegos que obliga a moverse y hacer ejercicio (vídeo)' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/robot-capaz-cocinar-pizzas-menos-5-minutos-idea-antiguos-trabajadores-spacex-1137613'>Este robot es capaz de cocinar pizzas en menos de 5 minutos y es una idea de antiguos trabajadores de SpaceX</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/robot-capaz-cocinar-pizzas-menos-5-minutos-idea-antiguos-trabajadores-spacex-1137613' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/antiguos-empleados-spacex-crean-robot-capaz-hacer-cualquier-pizza-5-minutos-2837479.jpg' alt='Este robot es capaz de cocinar pizzas en menos de 5 minutos y es una idea de antiguos trabajadores de SpaceX' />
     </a>
 </div>
 
