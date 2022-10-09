@@ -50,9 +50,33 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/gaming/udu-console-consola-juegos-obliga-moverse-hacer-ejercicio-1137637'>UDU Console, la consola de juegos que obliga a moverse y hacer ejercicio</a></h4>
+    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-bloquear-paginas-web-android-1117761'>Cómo bloquear páginas web en Android</a></h4>
+    <a href='https://computerhoy.com/tutoriales/tecnologia/como-bloquear-paginas-web-android-1117761' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/bloquear-paginas-web-android-2800505.jpg' alt='Cómo bloquear páginas web en Android' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/microsoft-trucos-mejorar-rendimiento-gaming-windows-11-1137659'>Microsoft publica dos trucos para mejorar el rendimiento gaming de Windows 11 hasta un 10%... a costa de la seguridad</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/microsoft-trucos-mejorar-rendimiento-gaming-windows-11-1137659' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/microsoft-publica-dos-trucos-mejorar-rendimiento-gaming-windows-11-10-costa-seguridad-2837645.jpg' alt='Microsoft publica dos trucos para mejorar el rendimiento gaming de Windows 11 hasta un 10%... a costa de la seguridad' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/calefactor-barato-mejores-ofertas-adelantarte-meses-frios-1136817'>Este calefactor barato es una de las mejores ofertas para adelantarte a los meses más fríos</a></h4>
+    <a href='https://computerhoy.com/noticias/life/calefactor-barato-mejores-ofertas-adelantarte-meses-frios-1136817' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/calefactor-barato-mejores-ofertas-adelantarte-meses-frios-2835985.jpg' alt='Este calefactor barato es una de las mejores ofertas para adelantarte a los meses más fríos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/gaming/udu-console-consola-juegos-obliga-moverse-hacer-ejercicio-1137637'>UDU Console, la consola de juegos que obliga a moverse y hacer ejercicio (vídeo)</a></h4>
     <a href='https://computerhoy.com/noticias/gaming/udu-console-consola-juegos-obliga-moverse-hacer-ejercicio-1137637' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/verticalimage1665321923616-2837597.jpg' alt='UDU Console, la consola de juegos que obliga a moverse y hacer ejercicio' />
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/verticalimage1665321923616-2837597.jpg' alt='UDU Console, la consola de juegos que obliga a moverse y hacer ejercicio (vídeo)' />
     </a>
 </div>
 
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/robot-capaz-cocinar-pizzas-menos-5-minutos-idea-antiguos-trabajadores-spacex-1137613'>Este robot es capaz de cocinar pizzas en menos de 5 minutos y es una idea de antiguos trabajadores de SpaceX</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/robot-capaz-cocinar-pizzas-menos-5-minutos-idea-antiguos-trabajadores-spacex-1137613' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/antiguos-empleados-spacex-crean-robot-capaz-hacer-cualquier-pizza-5-minutos-2837479.jpg' alt='Este robot es capaz de cocinar pizzas en menos de 5 minutos y es una idea de antiguos trabajadores de SpaceX' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/imponente-portatil-lg-16-pulgadas-procesador-intel-core-i7-oferta-1199-euros-1137621'>Este imponente portátil LG de 16 pulgadas con procesador Intel Core i7 en oferta a 1199 euros</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/imponente-portatil-lg-16-pulgadas-procesador-intel-core-i7-oferta-1199-euros-1137621' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/lg-gram-16z95p-g-2837505.jpg' alt='Este imponente portátil LG de 16 pulgadas con procesador Intel Core i7 en oferta a 1199 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/investigadores-explican-mejores-ideas-vienen-mientras-nos-estamos-duchando-1137611'>Investigadores explican por qué nuestras mejores ideas vienen mientras nos estamos duchando</a></h4>
-    <a href='https://computerhoy.com/noticias/life/investigadores-explican-mejores-ideas-vienen-mientras-nos-estamos-duchando-1137611' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/mujer-tomando-ducha-2837473.jpg' alt='Investigadores explican por qué nuestras mejores ideas vienen mientras nos estamos duchando' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/guias-compra/torre-sonido-1125785'>En qué debemos fijarnos al comprar una torre de sonido</a></h4>
-    <a href='https://computerhoy.com/guias-compra/torre-sonido-1125785' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/torres-sonido-2815695.jpg' alt='En qué debemos fijarnos al comprar una torre de sonido' />
     </a>
 </div>
 
