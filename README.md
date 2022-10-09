@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/analisis/tecnologia/sony-xperia-5-iv-review-opinion-1137271'>Sony Xperia 5 IV, análisis y opinión</a></h4>
+    <a href='https://computerhoy.com/analisis/tecnologia/sony-xperia-5-iv-review-opinion-1137271' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/sony-xperia-5-iv-analisis-opinion-2837049.jpg' alt='Sony Xperia 5 IV, análisis y opinión' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/estas-son-mejores-tiras-led-inteligentes-puedes-comprar-ahora-mismo-1136785'>Estas son las mejores tiras LED inteligentes que puedes comprar ahora mismo</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/estas-son-mejores-tiras-led-inteligentes-puedes-comprar-ahora-mismo-1136785' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/tiras-led-espejos-2836057.jpg' alt='Estas son las mejores tiras LED inteligentes que puedes comprar ahora mismo' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/pasando-ranas-chernobil-1137317'>Esto es lo que les está pasando a las ranas en Chernóbil</a></h4>
     <a href='https://computerhoy.com/noticias/life/pasando-ranas-chernobil-1137317' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/rana-2836957.jpg' alt='Esto es lo que les está pasando a las ranas en Chernóbil' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-reparar-windows-powershell-cuando-aparece-reiniciar-1056645'>Cómo reparar Windows PowerShell cuando aparece al reiniciar</a></h4>
-    <a href='https://computerhoy.com/tutoriales/tecnologia/como-reparar-windows-powershell-cuando-aparece-reiniciar-1056645' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/powershell-windows-2694441.jpg' alt='Cómo reparar Windows PowerShell cuando aparece al reiniciar' />
     </a>
 </div>
 
