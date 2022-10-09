@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-solucionar-lag-ping-alto-juegos-windows-11-1126971'>Cómo solucionar Lag y un ping alto en juegos de Windows 11</a></h4>
+    <a href='https://computerhoy.com/tutoriales/tecnologia/como-solucionar-lag-ping-alto-juegos-windows-11-1126971' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/windows-11-2817695.jpg' alt='Cómo solucionar Lag y un ping alto en juegos de Windows 11' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/no-existiera-apple-habria-inventarlaaunque-luego-uses-windows-android-1054727'>Si no existiera Apple habría que inventarla…aunque luego uses Windows o Android</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/no-existiera-apple-habria-inventarlaaunque-luego-uses-windows-android-1054727' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/apple-airtag-2652625.jpg' alt='Si no existiera Apple habría que inventarla…aunque luego uses Windows o Android' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/guia-compra/mando-bluetooh-android-1126131'>Guía y consejos para comprar un mando Bluetooth para Android</a></h4>
     <a href='https://computerhoy.com/guia-compra/mando-bluetooh-android-1126131' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/mando-android-2816225.jpg' alt='Guía y consejos para comprar un mando Bluetooth para Android' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/nuevo-robot-pretende-sustituir-humanos-cocinas-industria-comida-rapida-1137315'>Nuevo robot que pretende sustituir a los humanos en las cocinas de la industria de comida rápida</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/nuevo-robot-pretende-sustituir-humanos-cocinas-industria-comida-rapida-1137315' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/nuevo-robot-pretende-sustituir-humanos-cocinas-industria-comida-rapida-2836949.jpg' alt='Nuevo robot que pretende sustituir a los humanos en las cocinas de la industria de comida rápida' />
     </a>
 </div>
 
