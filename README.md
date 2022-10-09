@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/guias-compra/torre-sonido-1125785'>En qué debemos fijarnos al comprar una torre de sonido</a></h4>
+    <a href='https://computerhoy.com/guias-compra/torre-sonido-1125785' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/torres-sonido-2815695.jpg' alt='En qué debemos fijarnos al comprar una torre de sonido' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/iphone-ya-no-te-repara-apple-ser-producto-obsoleto-1137605'>Este iPhone ya no te lo repara Apple al ser un producto obsoleto</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/iphone-ya-no-te-repara-apple-ser-producto-obsoleto-1137605' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/iphone-13-2824605.jpg' alt='Este iPhone ya no te lo repara Apple al ser un producto obsoleto' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/analisis/tecnologia/lg-40wp95c-analisis-opinion-1135117'>LG 40WP95C, análisis y opinión</a></h4>
     <a href='https://computerhoy.com/analisis/tecnologia/lg-40wp95c-analisis-opinion-1135117' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/lg-40wp95c-analisis-opinion-2833005.jpg' alt='LG 40WP95C, análisis y opinión' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-solucionar-lag-ping-alto-juegos-windows-11-1126971'>Cómo solucionar Lag y un ping alto en juegos de Windows 11</a></h4>
     <a href='https://computerhoy.com/tutoriales/tecnologia/como-solucionar-lag-ping-alto-juegos-windows-11-1126971' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/windows-11-2817695.jpg' alt='Cómo solucionar Lag y un ping alto en juegos de Windows 11' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/no-existiera-apple-habria-inventarlaaunque-luego-uses-windows-android-1054727'>Si no existiera Apple habría que inventarla…aunque luego uses Windows o Android</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/no-existiera-apple-habria-inventarlaaunque-luego-uses-windows-android-1054727' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/apple-airtag-2652625.jpg' alt='Si no existiera Apple habría que inventarla…aunque luego uses Windows o Android' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/tecnologia/sony-xperia-5-iv-review-opinion-1137271'>Sony Xperia 5 IV, análisis y opinión</a></h4>
-    <a href='https://computerhoy.com/analisis/tecnologia/sony-xperia-5-iv-review-opinion-1137271' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/sony-xperia-5-iv-analisis-opinion-2837049.jpg' alt='Sony Xperia 5 IV, análisis y opinión' />
     </a>
 </div>
 
