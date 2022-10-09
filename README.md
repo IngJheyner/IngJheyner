@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/robot-capaz-cocinar-pizzas-menos-5-minutos-idea-antiguos-trabajadores-spacex-1137613'>Este robot es capaz de cocinar pizzas en menos de 5 minutos y es una idea de antiguos trabajadores de SpaceX</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/robot-capaz-cocinar-pizzas-menos-5-minutos-idea-antiguos-trabajadores-spacex-1137613' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/antiguos-empleados-spacex-crean-robot-capaz-hacer-cualquier-pizza-5-minutos-2837479.jpg' alt='Este robot es capaz de cocinar pizzas en menos de 5 minutos y es una idea de antiguos trabajadores de SpaceX' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/imponente-portatil-lg-16-pulgadas-procesador-intel-core-i7-oferta-1199-euros-1137621'>Este imponente portátil LG de 16 pulgadas con procesador Intel Core i7 en oferta a 1199 euros</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/imponente-portatil-lg-16-pulgadas-procesador-intel-core-i7-oferta-1199-euros-1137621' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/lg-gram-16z95p-g-2837505.jpg' alt='Este imponente portátil LG de 16 pulgadas con procesador Intel Core i7 en oferta a 1199 euros' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/iphone-ya-no-te-repara-apple-ser-producto-obsoleto-1137605'>Este iPhone ya no te lo repara Apple al ser un producto obsoleto</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/iphone-ya-no-te-repara-apple-ser-producto-obsoleto-1137605' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/iphone-13-2824605.jpg' alt='Este iPhone ya no te lo repara Apple al ser un producto obsoleto' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/tecnologia/lg-40wp95c-analisis-opinion-1135117'>LG 40WP95C, análisis y opinión</a></h4>
-    <a href='https://computerhoy.com/analisis/tecnologia/lg-40wp95c-analisis-opinion-1135117' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/lg-40wp95c-analisis-opinion-2833005.jpg' alt='LG 40WP95C, análisis y opinión' />
     </a>
 </div>
 
