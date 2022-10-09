@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/amazon-kindle-vs-kobo-nia-mejor-lector-libros-electronico-1029509'>Amazon Kindle vs Kobo Nia, ¿qué lector de libros electrónico es mejor?</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/amazon-kindle-vs-kobo-nia-mejor-lector-libros-electronico-1029509' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/amazon-kindle-vs-kobo-nia-2831255.jpg' alt='Amazon Kindle vs Kobo Nia, ¿qué lector de libros electrónico es mejor?' />
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/estas-son-mejores-tiras-led-inteligentes-puedes-comprar-ahora-mismo-1136785'>Estas son las mejores tiras LED inteligentes que puedes comprar ahora mismo</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/estas-son-mejores-tiras-led-inteligentes-puedes-comprar-ahora-mismo-1136785' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/tiras-led-espejos-2836057.jpg' alt='Estas son las mejores tiras LED inteligentes que puedes comprar ahora mismo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/errores-no-tienes-cometer-comprar-cargador-usb-coche-1122717'>Los errores que no tienes que cometer al comprar un cargador USB de coche</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/errores-no-tienes-cometer-comprar-cargador-usb-coche-1122717' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/cargador-coche-2809979.jpg' alt='Los errores que no tienes que cometer al comprar un cargador USB de coche' />
+    <h4><a href='https://computerhoy.com/guia-compra/mando-bluetooh-android-1126131'>Guía y consejos para comprar un mando Bluetooth para Android</a></h4>
+    <a href='https://computerhoy.com/guia-compra/mando-bluetooh-android-1126131' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/mando-android-2816225.jpg' alt='Guía y consejos para comprar un mando Bluetooth para Android' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/razon-todavia-no-puedes-participar-ese-grupo-whatsapp-pediste-unirte-1137323'>Esta es la razón por la que todavía no puedes participar en ese grupo de WhatsApp en el que pediste unirte</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/razon-todavia-no-puedes-participar-ese-grupo-whatsapp-pediste-unirte-1137323' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/comunidad-whatsapp-2525619.jpg' alt='Esta es la razón por la que todavía no puedes participar en ese grupo de WhatsApp en el que pediste unirte' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/nuevo-robot-pretende-sustituir-humanos-cocinas-industria-comida-rapida-1137315'>Nuevo robot que pretende sustituir a los humanos en las cocinas de la industria de comida rápida</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/nuevo-robot-pretende-sustituir-humanos-cocinas-industria-comida-rapida-1137315' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/nuevo-robot-pretende-sustituir-humanos-cocinas-industria-comida-rapida-2836949.jpg' alt='Nuevo robot que pretende sustituir a los humanos en las cocinas de la industria de comida rápida' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/ahora-estacion-metro-taiwan-alberga-granja-vertical-organica-1137303'>Ahora esta estación de metro en Taiwán alberga una granja vertical orgánica</a></h4>
-    <a href='https://computerhoy.com/noticias/life/ahora-estacion-metro-taiwan-alberga-granja-vertical-organica-1137303' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/transforman-estacion-metro-granja-vertical-organica-2836909.jpg' alt='Ahora esta estación de metro en Taiwán alberga una granja vertical orgánica' />
+    <h4><a href='https://computerhoy.com/noticias/life/pasando-ranas-chernobil-1137317'>Esto es lo que les está pasando a las ranas en Chernóbil</a></h4>
+    <a href='https://computerhoy.com/noticias/life/pasando-ranas-chernobil-1137317' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/rana-2836957.jpg' alt='Esto es lo que les está pasando a las ranas en Chernóbil' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/oferta-apple-tv-4k-mediamarkt-1136345'>Una de las ofertas más raras que encontrarás: por fin los Apple TV tienen descuento en MediaMarkt</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/oferta-apple-tv-4k-mediamarkt-1136345' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/apple-tv-4k-2835049.jpg' alt='Una de las ofertas más raras que encontrarás: por fin los Apple TV tienen descuento en MediaMarkt' />
+    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-reparar-windows-powershell-cuando-aparece-reiniciar-1056645'>Cómo reparar Windows PowerShell cuando aparece al reiniciar</a></h4>
+    <a href='https://computerhoy.com/tutoriales/tecnologia/como-reparar-windows-powershell-cuando-aparece-reiniciar-1056645' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/powershell-windows-2694441.jpg' alt='Cómo reparar Windows PowerShell cuando aparece al reiniciar' />
     </a>
 </div>
 
