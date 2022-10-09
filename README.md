@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/analisis/tecnologia/lg-40wp95c-analisis-opinion-1135117'>LG 40WP95C, análisis y opinión</a></h4>
+    <a href='https://computerhoy.com/analisis/tecnologia/lg-40wp95c-analisis-opinion-1135117' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/lg-40wp95c-analisis-opinion-2833005.jpg' alt='LG 40WP95C, análisis y opinión' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/tecnologia-nasa-puede-cargar-coche-electrico-tan-solo-5-minutos-1137591'>Esta tecnología de la NASA puede cargar un coche eléctrico en tan solo 5 minutos</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/tecnologia-nasa-puede-cargar-coche-electrico-tan-solo-5-minutos-1137591' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/coche-electrico-2837441.jpg' alt='Esta tecnología de la NASA puede cargar un coche eléctrico en tan solo 5 minutos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-solucionar-lag-ping-alto-juegos-windows-11-1126971'>Cómo solucionar Lag y un ping alto en juegos de Windows 11</a></h4>
     <a href='https://computerhoy.com/tutoriales/tecnologia/como-solucionar-lag-ping-alto-juegos-windows-11-1126971' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/windows-11-2817695.jpg' alt='Cómo solucionar Lag y un ping alto en juegos de Windows 11' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/analisis/tecnologia/sony-xperia-5-iv-review-opinion-1137271'>Sony Xperia 5 IV, análisis y opinión</a></h4>
     <a href='https://computerhoy.com/analisis/tecnologia/sony-xperia-5-iv-review-opinion-1137271' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/sony-xperia-5-iv-analisis-opinion-2837049.jpg' alt='Sony Xperia 5 IV, análisis y opinión' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/estas-son-mejores-tiras-led-inteligentes-puedes-comprar-ahora-mismo-1136785'>Estas son las mejores tiras LED inteligentes que puedes comprar ahora mismo</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/estas-son-mejores-tiras-led-inteligentes-puedes-comprar-ahora-mismo-1136785' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/tiras-led-espejos-2836057.jpg' alt='Estas son las mejores tiras LED inteligentes que puedes comprar ahora mismo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/guia-compra/mando-bluetooh-android-1126131'>Guía y consejos para comprar un mando Bluetooth para Android</a></h4>
-    <a href='https://computerhoy.com/guia-compra/mando-bluetooh-android-1126131' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/mando-android-2816225.jpg' alt='Guía y consejos para comprar un mando Bluetooth para Android' />
     </a>
 </div>
 
