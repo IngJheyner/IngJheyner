@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/imponente-portatil-lg-16-pulgadas-procesador-intel-core-i7-oferta-1199-euros-1137621'>Este imponente portátil LG de 16 pulgadas con procesador Intel Core i7 en oferta a 1199 euros</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/imponente-portatil-lg-16-pulgadas-procesador-intel-core-i7-oferta-1199-euros-1137621' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/lg-gram-16z95p-g-2837505.jpg' alt='Este imponente portátil LG de 16 pulgadas con procesador Intel Core i7 en oferta a 1199 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/investigadores-explican-mejores-ideas-vienen-mientras-nos-estamos-duchando-1137611'>Investigadores explican por qué nuestras mejores ideas vienen mientras nos estamos duchando</a></h4>
+    <a href='https://computerhoy.com/noticias/life/investigadores-explican-mejores-ideas-vienen-mientras-nos-estamos-duchando-1137611' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/mujer-tomando-ducha-2837473.jpg' alt='Investigadores explican por qué nuestras mejores ideas vienen mientras nos estamos duchando' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/guias-compra/torre-sonido-1125785'>En qué debemos fijarnos al comprar una torre de sonido</a></h4>
     <a href='https://computerhoy.com/guias-compra/torre-sonido-1125785' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/torres-sonido-2815695.jpg' alt='En qué debemos fijarnos al comprar una torre de sonido' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/analisis/tecnologia/lg-40wp95c-analisis-opinion-1135117'>LG 40WP95C, análisis y opinión</a></h4>
     <a href='https://computerhoy.com/analisis/tecnologia/lg-40wp95c-analisis-opinion-1135117' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/lg-40wp95c-analisis-opinion-2833005.jpg' alt='LG 40WP95C, análisis y opinión' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/tecnologia-nasa-puede-cargar-coche-electrico-tan-solo-5-minutos-1137591'>Esta tecnología de la NASA puede cargar un coche eléctrico en tan solo 5 minutos</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/tecnologia-nasa-puede-cargar-coche-electrico-tan-solo-5-minutos-1137591' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/coche-electrico-2837441.jpg' alt='Esta tecnología de la NASA puede cargar un coche eléctrico en tan solo 5 minutos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-solucionar-lag-ping-alto-juegos-windows-11-1126971'>Cómo solucionar Lag y un ping alto en juegos de Windows 11</a></h4>
-    <a href='https://computerhoy.com/tutoriales/tecnologia/como-solucionar-lag-ping-alto-juegos-windows-11-1126971' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/windows-11-2817695.jpg' alt='Cómo solucionar Lag y un ping alto en juegos de Windows 11' />
     </a>
 </div>
 
