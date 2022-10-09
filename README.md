@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/arbol-mas-alto-amazonas-1137675'>Tres años después de su descubrimiento, consiguen llegar hasta el árbol más alto del Amazonas</a></h4>
+    <a href='https://computerhoy.com/noticias/life/arbol-mas-alto-amazonas-1137675' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/tres-anos-despues-descubrimiento-consiguen-llegar-arbol-alto-amazonas-2837693.jpg' alt='Tres años después de su descubrimiento, consiguen llegar hasta el árbol más alto del Amazonas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/hackeo-bios-alder-lake-procesadores-intel-12a-generacion-codigo-fuente-4chan-1137671'>Hackean la BIOS de los procesadores Intel de 12ª Generación y publican el código fuente en 4chan</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/hackeo-bios-alder-lake-procesadores-intel-12a-generacion-codigo-fuente-4chan-1137671' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/intel-12-generacion-2553573.jpg' alt='Hackean la BIOS de los procesadores Intel de 12ª Generación y publican el código fuente en 4chan' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-bloquear-paginas-web-android-1117761'>Cómo bloquear páginas web en Android</a></h4>
     <a href='https://computerhoy.com/tutoriales/tecnologia/como-bloquear-paginas-web-android-1117761' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/bloquear-paginas-web-android-2800505.jpg' alt='Cómo bloquear páginas web en Android' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/microsoft-trucos-mejorar-rendimiento-gaming-windows-11-1137659'>Microsoft publica dos trucos para mejorar el rendimiento gaming de Windows 11 hasta un 10%... a costa de la seguridad</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/microsoft-trucos-mejorar-rendimiento-gaming-windows-11-1137659' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/microsoft-publica-dos-trucos-mejorar-rendimiento-gaming-windows-11-10-costa-seguridad-2837645.jpg' alt='Microsoft publica dos trucos para mejorar el rendimiento gaming de Windows 11 hasta un 10%... a costa de la seguridad' />
     </a>
 </div>
 
