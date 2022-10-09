@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/amazon-kindle-vs-kobo-nia-mejor-lector-libros-electronico-1029509'>Amazon Kindle vs Kobo Nia, ¿qué lector de libros electrónico es mejor?</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/amazon-kindle-vs-kobo-nia-mejor-lector-libros-electronico-1029509' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/amazon-kindle-vs-kobo-nia-2831255.jpg' alt='Amazon Kindle vs Kobo Nia, ¿qué lector de libros electrónico es mejor?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/errores-no-tienes-cometer-comprar-cargador-usb-coche-1122717'>Los errores que no tienes que cometer al comprar un cargador USB de coche</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/errores-no-tienes-cometer-comprar-cargador-usb-coche-1122717' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/cargador-coche-2809979.jpg' alt='Los errores que no tienes que cometer al comprar un cargador USB de coche' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/oferta-apple-tv-4k-mediamarkt-1136345'>Una de las ofertas más raras que encontrarás: por fin los Apple TV tienen descuento en MediaMarkt</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/oferta-apple-tv-4k-mediamarkt-1136345' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/apple-tv-4k-2835049.jpg' alt='Una de las ofertas más raras que encontrarás: por fin los Apple TV tienen descuento en MediaMarkt' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-mandar-facilmente-fotos-iphone-pc-windows-1127483'>Cómo mandar fácilmente tus fotos del iPhone a un PC Windows </a></h4>
-    <a href='https://computerhoy.com/tutoriales/tecnologia/como-mandar-facilmente-fotos-iphone-pc-windows-1127483' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/iphone-fotos-2818437.jpg' alt='Cómo mandar fácilmente tus fotos del iPhone a un PC Windows ' />
     </a>
 </div>
 
