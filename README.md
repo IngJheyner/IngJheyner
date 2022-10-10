@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/estas-usando-mal-secadora-prendas-evitar-ocu-ahorrarte-disgusto-1138083'>Estás usando mal la secadora, qué prendas evitar según la OCU para ahorrarte un disgusto</a></h4>
+    <a href='https://computerhoy.com/noticias/estas-usando-mal-secadora-prendas-evitar-ocu-ahorrarte-disgusto-1138083' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/secadora-ropa-pequena-2621807.jpg' alt='Estás usando mal la secadora, qué prendas evitar según la OCU para ahorrarte un disgusto' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/techtober-apple-dispositivos-esperamos-lleguen-mes-octubre-1138033'>El techtober de Apple, los dispositivos que esperamos que lleguen este mes de octubre</a></h4>
     <a href='https://computerhoy.com/noticias/techtober-apple-dispositivos-esperamos-lleguen-mes-octubre-1138033' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/apple-confirma-fecha-nuevo-evento-conoceremos-nuevos-iphone-14-2794101.jpg' alt='El techtober de Apple, los dispositivos que esperamos que lleguen este mes de octubre' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/vecinos-hacen-falta-saturar-canal-wi-fi-como-solucionarlo-1137999'>Los vecinos que hacen falta para saturar el canal de tu Wi-Fi y cómo solucionarlo</a></h4>
     <a href='https://computerhoy.com/noticias/vecinos-hacen-falta-saturar-canal-wi-fi-como-solucionarlo-1137999' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/router-wifi-2623703.jpg' alt='Los vecinos que hacen falta para saturar el canal de tu Wi-Fi y cómo solucionarlo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/intel-confirma-filtraciones-bios-procesadores-alder-lake-ello-implica-1137965'>Intel confirma las filtraciones de la BIOS de sus procesadores Alder Lake y lo que ello implica</a></h4>
-    <a href='https://computerhoy.com/noticias/intel-confirma-filtraciones-bios-procesadores-alder-lake-ello-implica-1137965' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/intel-core-13a-generacion-ya-estan-aqui-arquitectura-raptor-lake-prometen-41-rendimiento-2826177.jpg' alt='Intel confirma las filtraciones de la BIOS de sus procesadores Alder Lake y lo que ello implica' />
     </a>
 </div>
 
