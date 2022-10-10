@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/techtober-apple-dispositivos-esperamos-lleguen-mes-octubre-1138033'>El techtober de Apple, los dispositivos que esperamos que lleguen este mes de octubre</a></h4>
+    <a href='https://computerhoy.com/noticias/techtober-apple-dispositivos-esperamos-lleguen-mes-octubre-1138033' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/apple-confirma-fecha-nuevo-evento-conoceremos-nuevos-iphone-14-2794101.jpg' alt='El techtober de Apple, los dispositivos que esperamos que lleguen este mes de octubre' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/400-apps-android-ios-lista-negra-meta-robar-informacion-acceso-facebook-1138035'>Más de 400 apps de Android e iOS en la lista negra de Meta por robar información de acceso a Facebook</a></h4>
     <a href='https://computerhoy.com/noticias/400-apps-android-ios-lista-negra-meta-robar-informacion-acceso-facebook-1138035' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/400-apps-android-ios-lista-negra-meta-robar-informacion-acceso-facebook-2838265.jpg' alt='Más de 400 apps de Android e iOS en la lista negra de Meta por robar información de acceso a Facebook' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/intel-confirma-filtraciones-bios-procesadores-alder-lake-ello-implica-1137965'>Intel confirma las filtraciones de la BIOS de sus procesadores Alder Lake y lo que ello implica</a></h4>
     <a href='https://computerhoy.com/noticias/intel-confirma-filtraciones-bios-procesadores-alder-lake-ello-implica-1137965' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/intel-core-13a-generacion-ya-estan-aqui-arquitectura-raptor-lake-prometen-41-rendimiento-2826177.jpg' alt='Intel confirma las filtraciones de la BIOS de sus procesadores Alder Lake y lo que ello implica' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tensor-g2-procesador-google-pixel-primeros-ser-fabricados-4nm-1137953'>Así es el Tensor G2, procesador de los Google Pixel: de los primeros en ser fabricados en 4nm</a></h4>
-    <a href='https://computerhoy.com/noticias/tensor-g2-procesador-google-pixel-primeros-ser-fabricados-4nm-1137953' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/tensor-g2-procesador-google-pixel-primeros-ser-fabricados-4nm-2838139.jpg' alt='Así es el Tensor G2, procesador de los Google Pixel: de los primeros en ser fabricados en 4nm' />
     </a>
 </div>
 
