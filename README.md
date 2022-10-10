@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/intel-confirma-filtraciones-bios-procesadores-alder-lake-ello-implica-1137965'>Intel confirma las filtraciones de la BIOS de sus procesadores Alder Lake y lo que ello implica</a></h4>
+    <a href='https://computerhoy.com/noticias/intel-confirma-filtraciones-bios-procesadores-alder-lake-ello-implica-1137965' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/intel-core-13a-generacion-ya-estan-aqui-arquitectura-raptor-lake-prometen-41-rendimiento-2826177.jpg' alt='Intel confirma las filtraciones de la BIOS de sus procesadores Alder Lake y lo que ello implica' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tensor-g2-procesador-google-pixel-primeros-ser-fabricados-4nm-1137953'>Así es el Tensor G2, procesador de los Google Pixel: de los primeros en ser fabricados en 4nm</a></h4>
+    <a href='https://computerhoy.com/noticias/tensor-g2-procesador-google-pixel-primeros-ser-fabricados-4nm-1137953' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/tensor-g2-procesador-google-pixel-primeros-ser-fabricados-4nm-2838139.jpg' alt='Así es el Tensor G2, procesador de los Google Pixel: de los primeros en ser fabricados en 4nm' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/sistema-satelites-mandan-tierra-energia-solar-ademas-datos-demostracion-funcional-esa-airbus-1137895'>El sistema de satélites que mandan a la Tierra energía solar además de datos, demostración funcional de la ESA y Airbus</a></h4>
     <a href='https://computerhoy.com/noticias/sistema-satelites-mandan-tierra-energia-solar-ademas-datos-demostracion-funcional-esa-airbus-1137895' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/sistema-satelites-mandan-tierra-energia-solar-ademas-datos-demostracion-funcional-esa-airbus-2838043.jpg' alt='El sistema de satélites que mandan a la Tierra energía solar además de datos, demostración funcional de la ESA y Airbus' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/cupones-descuento-amazon-prime-day-octubre-2022-1137867'>Esta página de cupones de Amazon es totalmente desconocida y te puede ahorrar mucho dinero en el Prime Day de octubre</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/cupones-descuento-amazon-prime-day-octubre-2022-1137867' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/cupones-2837881.jpg' alt='Esta página de cupones de Amazon es totalmente desconocida y te puede ahorrar mucho dinero en el Prime Day de octubre' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/mapa-podras-comprobar-ganas-dinero-vecinos-1137877'>El mapa en el que podrás comprobar si ganas más dinero que tus vecinos</a></h4>
-    <a href='https://computerhoy.com/noticias/mapa-podras-comprobar-ganas-dinero-vecinos-1137877' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/mapa-podras-comprobar-ganas-dinero-vecinos-2837901.jpg' alt='El mapa en el que podrás comprobar si ganas más dinero que tus vecinos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/ya-tenemos-fecha-honor-x40-gt-snapdragon-888-pantalla-oled-1137891'>Ya tenemos fecha del Honor X40 GT: Snapdragon 888 y pantalla OLED</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/ya-tenemos-fecha-honor-x40-gt-snapdragon-888-pantalla-oled-1137891' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/honor-x40-gt-2837993.jpg' alt='Ya tenemos fecha del Honor X40 GT: Snapdragon 888 y pantalla OLED' />
     </a>
 </div>
 
