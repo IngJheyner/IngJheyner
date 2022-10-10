@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/bizum-presenta-cursos-online-gratis-personas-mayores-1138111'>Bizum presenta sus cursos online gratis para personas mayores</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/bizum-presenta-cursos-online-gratis-personas-mayores-1138111' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/bizum-2833649.jpg' alt='Bizum presenta sus cursos online gratis para personas mayores' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/polemica-deteccion-accidentes-iphone-14-parques-atracciones-saturacion-emergencias-1138067'>La polémica de la detección de accidentes del iPhone 14 en parques de atracciones y la saturación de emergencias</a></h4>
+    <a href='https://computerhoy.com/noticias/polemica-deteccion-accidentes-iphone-14-parques-atracciones-saturacion-emergencias-1138067' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/polemica-deteccion-accidentes-iphone-14-parques-atracciones-saturacion-emergencias-2838391.jpg' alt='La polémica de la detección de accidentes del iPhone 14 en parques de atracciones y la saturación de emergencias' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/nueva-manera-robar-contrasena-ataque-termico-ia-1138123'>La nueva manera de robar tu contraseña, un ataque térmico con IA</a></h4>
     <a href='https://computerhoy.com/noticias/nueva-manera-robar-contrasena-ataque-termico-ia-1138123' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/hacker-2606589.jpg' alt='La nueva manera de robar tu contraseña, un ataque térmico con IA' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/estas-usando-mal-secadora-prendas-evitar-ocu-ahorrarte-disgusto-1138083'>Estás usando mal la secadora, qué prendas evitar según la OCU para ahorrarte un disgusto</a></h4>
     <a href='https://computerhoy.com/noticias/estas-usando-mal-secadora-prendas-evitar-ocu-ahorrarte-disgusto-1138083' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/secadora-ropa-pequena-2621807.jpg' alt='Estás usando mal la secadora, qué prendas evitar según la OCU para ahorrarte un disgusto' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/techtober-apple-dispositivos-esperamos-lleguen-mes-octubre-1138033'>El techtober de Apple, los dispositivos que esperamos que lleguen este mes de octubre</a></h4>
-    <a href='https://computerhoy.com/noticias/techtober-apple-dispositivos-esperamos-lleguen-mes-octubre-1138033' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/apple-confirma-fecha-nuevo-evento-conoceremos-nuevos-iphone-14-2794101.jpg' alt='El techtober de Apple, los dispositivos que esperamos que lleguen este mes de octubre' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/400-apps-android-ios-lista-negra-meta-robar-informacion-acceso-facebook-1138035'>Cuidado con estas 400 apps de Android e iOS, desinstálalas ya que están robando información de acceso a Facebook</a></h4>
-    <a href='https://computerhoy.com/noticias/400-apps-android-ios-lista-negra-meta-robar-informacion-acceso-facebook-1138035' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/400-apps-android-ios-lista-negra-meta-robar-informacion-acceso-facebook-2838265.jpg' alt='Cuidado con estas 400 apps de Android e iOS, desinstálalas ya que están robando información de acceso a Facebook' />
     </a>
 </div>
 
