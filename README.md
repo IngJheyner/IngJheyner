@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/mapa-podras-comprobar-ganas-dinero-vecinos-1137877'>El mapa en el que podrás comprobar si ganas más dinero que tus vecinos</a></h4>
+    <a href='https://computerhoy.com/noticias/mapa-podras-comprobar-ganas-dinero-vecinos-1137877' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/mapa-podras-comprobar-ganas-dinero-vecinos-2837901.jpg' alt='El mapa en el que podrás comprobar si ganas más dinero que tus vecinos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/ya-tenemos-fecha-honor-x40-gt-snapdragon-888-pantalla-oled-1137891'>Ya tenemos fecha del Honor X40 GT: Snapdragon 888 y pantalla OLED</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/ya-tenemos-fecha-honor-x40-gt-snapdragon-888-pantalla-oled-1137891' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/honor-x40-gt-2837993.jpg' alt='Ya tenemos fecha del Honor X40 GT: Snapdragon 888 y pantalla OLED' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/listas/tecnologia/5-alternativas-chromecast-puedes-comprar-amazon-572101'>5 alternativas al Chromecast que sí puedes comprar en Amazon</a></h4>
     <a href='https://computerhoy.com/listas/tecnologia/5-alternativas-chromecast-puedes-comprar-amazon-572101' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/realme-4k-smart-tv-stick-2837651.jpg' alt='5 alternativas al Chromecast que sí puedes comprar en Amazon' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/life/xiaomi-smart-cooking-robot-robot-cocina-inteligente-premium-informacion-ofertas-1137649'>Tiembla Thermomix: Xiaomi ya tiene su propio robot de cocina de lujo que no deja indiferente</a></h4>
     <a href='https://computerhoy.com/reportajes/life/xiaomi-smart-cooking-robot-robot-cocina-inteligente-premium-informacion-ofertas-1137649' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/xiaomi-smart-cooking-robot-2837635.jpg' alt='Tiembla Thermomix: Xiaomi ya tiene su propio robot de cocina de lujo que no deja indiferente' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/arbol-mas-alto-amazonas-1137675'>Tres años después de su descubrimiento, consiguen llegar hasta el árbol más alto del Amazonas</a></h4>
-    <a href='https://computerhoy.com/noticias/life/arbol-mas-alto-amazonas-1137675' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/tres-anos-despues-descubrimiento-consiguen-llegar-arbol-alto-amazonas-2837693.jpg' alt='Tres años después de su descubrimiento, consiguen llegar hasta el árbol más alto del Amazonas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/hackeo-bios-alder-lake-procesadores-intel-12a-generacion-codigo-fuente-4chan-1137671'>Hackean la BIOS de los procesadores Intel de 12ª Generación y publican el código fuente en 4chan</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/hackeo-bios-alder-lake-procesadores-intel-12a-generacion-codigo-fuente-4chan-1137671' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/intel-12-generacion-2553573.jpg' alt='Hackean la BIOS de los procesadores Intel de 12ª Generación y publican el código fuente en 4chan' />
     </a>
 </div>
 
