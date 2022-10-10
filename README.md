@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/35-noticias-tecnologia-comenzar-manana-informado-ultimo-1137839'>35 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/35-noticias-tecnologia-comenzar-manana-informado-ultimo-1137839' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/35-noticias-tecnologia-comenzar-manana-informado-ultimo-2837843.jpg' alt='35 noticias de tecnología para comenzar la mañana informado de lo último' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/life/xiaomi-smart-cooking-robot-robot-cocina-inteligente-premium-informacion-ofertas-1137649'>Tiembla Thermomix: Xiaomi ya tiene su propio robot de cocina de lujo que no deja indiferente</a></h4>
+    <a href='https://computerhoy.com/reportajes/life/xiaomi-smart-cooking-robot-robot-cocina-inteligente-premium-informacion-ofertas-1137649' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/xiaomi-smart-cooking-robot-2837635.jpg' alt='Tiembla Thermomix: Xiaomi ya tiene su propio robot de cocina de lujo que no deja indiferente' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/arbol-mas-alto-amazonas-1137675'>Tres años después de su descubrimiento, consiguen llegar hasta el árbol más alto del Amazonas</a></h4>
     <a href='https://computerhoy.com/noticias/life/arbol-mas-alto-amazonas-1137675' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/tres-anos-despues-descubrimiento-consiguen-llegar-arbol-alto-amazonas-2837693.jpg' alt='Tres años después de su descubrimiento, consiguen llegar hasta el árbol más alto del Amazonas' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/audiogen-inteligencia-artificial-convierte-texto-en-sonidos-1137667'>Primero fueron imágenes, luego vídeo, y ahora una IA crea sonidos a partir de texto</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/audiogen-inteligencia-artificial-convierte-texto-en-sonidos-1137667' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/primero-fueron-imagenes-luego-video-ahora-ia-crea-sonidos-partir-texto-2837675.jpg' alt='Primero fueron imágenes, luego vídeo, y ahora una IA crea sonidos a partir de texto' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/ya-puedes-comprar-nueva-tablet-barata-xiaomi-redmi-pad-todo-puedes-necesitar-menos-300eu-1136181'>Ya puedes comprar la nueva tablet barata de Xiaomi: Redmi Pad es todo lo que puedes necesitar por menos de 300€</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/ya-puedes-comprar-nueva-tablet-barata-xiaomi-redmi-pad-todo-puedes-necesitar-menos-300eu-1136181' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/xiaomi-redmi-pad-2834641.jpg' alt='Ya puedes comprar la nueva tablet barata de Xiaomi: Redmi Pad es todo lo que puedes necesitar por menos de 300€' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-bloquear-paginas-web-android-1117761'>Cómo bloquear páginas web en Android</a></h4>
-    <a href='https://computerhoy.com/tutoriales/tecnologia/como-bloquear-paginas-web-android-1117761' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/bloquear-paginas-web-android-2800505.jpg' alt='Cómo bloquear páginas web en Android' />
     </a>
 </div>
 
