@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/estos-meses-debes-comprar-bitcoin-porque-habra-tocado-fondo-1138245'>En estos meses debes comprar Bitcoin porque habrá tocado fondo</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/estos-meses-debes-comprar-bitcoin-porque-habra-tocado-fondo-1138245' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/bitcoin-2621405.jpg' alt='En estos meses debes comprar Bitcoin porque habrá tocado fondo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/consola-nintendo-switch-oled-stock-30-euros-descuento-1138241'>La consola Nintendo Switch OLED en stock y con 30 euros de descuento, una combinación que no se ve todos los días</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/consola-nintendo-switch-oled-stock-30-euros-descuento-1138241' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/analisis-nintendo-switch-oled-2508427.jpg' alt='La consola Nintendo Switch OLED en stock y con 30 euros de descuento, una combinación que no se ve todos los días' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/la-maldicion-hombre-lobo-terror-marvel-disney-1138235'>Disney+ ha estrenado una pequeña joya de terror y poca gente se ha dado cuenta: La maldición del Hombre Lobo</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/la-maldicion-hombre-lobo-terror-marvel-disney-1138235' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/verticalimage1665423239355-2838603.jpg' alt='Disney+ ha estrenado una pequeña joya de terror y poca gente se ha dado cuenta: La maldición del Hombre Lobo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/apple-estaria-trabajando-nuevo-iphone-llegaria-diseno-completamente-diferente-1138161'>Apple estaría trabajando en el nuevo iPhone SE que llegaría con un diseño completamente diferente</a></h4>
     <a href='https://computerhoy.com/noticias/apple-estaria-trabajando-nuevo-iphone-llegaria-diseno-completamente-diferente-1138161' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/analisis-iphone-2022-2656605.jpg' alt='Apple estaría trabajando en el nuevo iPhone SE que llegaría con un diseño completamente diferente' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/3-senales-sabras-cuenta-instagram-falsa-como-mantenerte-salvo-1138203'>3 señales con las que sabrás que una cuenta de Instagram es falsa y cómo mantenerte a salvo</a></h4>
     <a href='https://computerhoy.com/noticias/3-senales-sabras-cuenta-instagram-falsa-como-mantenerte-salvo-1138203' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/instagram-ifnluencers-2826857.jpg' alt='3 señales con las que sabrás que una cuenta de Instagram es falsa y cómo mantenerte a salvo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/telegram-web-configuracion-trucos-consejos-773579'>Cómo funciona Telegram Web: configuración y todo lo que puedes hacer sin utilizar el móvil</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/telegram-web-configuracion-trucos-consejos-773579' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/12/telegram-web-2171813.jpg' alt='Cómo funciona Telegram Web: configuración y todo lo que puedes hacer sin utilizar el móvil' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/chromecast-google-todo-puedes-hacer-cada-1136325'>Qué es Chromecast de Google y todo lo que puedes hacer con cada uno</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/chromecast-google-todo-puedes-hacer-cada-1136325' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/chromecast-google-tv-2020-2230197.jpg' alt='Qué es Chromecast de Google y todo lo que puedes hacer con cada uno' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/grupos-whatsapp-multitudinarios-aplicacion-mensajeria-prepara-aumentar-limite-usuarios-1138159'>Grupos de WhatsApp multitudinarios: la aplicación de mensajería se prepara para aumentar el límite de usuarios</a></h4>
-    <a href='https://computerhoy.com/noticias/grupos-whatsapp-multitudinarios-aplicacion-mensajeria-prepara-aumentar-limite-usuarios-1138159' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/whatsapp-logo-2834999.jpg' alt='Grupos de WhatsApp multitudinarios: la aplicación de mensajería se prepara para aumentar el límite de usuarios' />
     </a>
 </div>
 
