@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/directo-amazon-prime-day-octubre-mejores-ofertas-1138091'>En directo el Amazon Prime Day de octubre: sigue las mejores ofertas</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/directo-amazon-prime-day-octubre-mejores-ofertas-1138091' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/ofertas-prime-day-octubre-directo-2838323.jpg' alt='En directo el Amazon Prime Day de octubre: sigue las mejores ofertas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/adriana-chechik-streamer-actriz-porno-parte-espalda-twitchcon-1138261'>La streamer y actriz porno Adriana Chechik se parte la espalda haciendo una acrobacia en la TwitchCon</a></h4>
+    <a href='https://computerhoy.com/noticias/life/adriana-chechik-streamer-actriz-porno-parte-espalda-twitchcon-1138261' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/streamer-actriz-porno-adriana-chechik-parte-espalda-haciendo-acrobacia-twitchcon-2838685.jpg' alt='La streamer y actriz porno Adriana Chechik se parte la espalda haciendo una acrobacia en la TwitchCon' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/carga-inalambrica-podria-ser-estandar-iphone-ipad-2024-1138247'>La carga inalámbrica podría ser el estándar en los iPhone y los iPad para 2024</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/carga-inalambrica-podria-ser-estandar-iphone-ipad-2024-1138247' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/iphone-13-pro-max-color-verde-alpino-2765457.jpg' alt='La carga inalámbrica podría ser el estándar en los iPhone y los iPad para 2024' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/consola-nintendo-switch-oled-stock-30-euros-descuento-1138241'>La consola Nintendo Switch OLED en stock y con 30 euros de descuento, una combinación que no se ve todos los días</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/consola-nintendo-switch-oled-stock-30-euros-descuento-1138241' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/analisis-nintendo-switch-oled-2508427.jpg' alt='La consola Nintendo Switch OLED en stock y con 30 euros de descuento, una combinación que no se ve todos los días' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/la-maldicion-hombre-lobo-terror-marvel-disney-1138235'>Disney+ ha estrenado una pequeña joya de terror y poca gente se ha dado cuenta: La maldición del Hombre Lobo</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/la-maldicion-hombre-lobo-terror-marvel-disney-1138235' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/verticalimage1665423239355-2838603.jpg' alt='Disney+ ha estrenado una pequeña joya de terror y poca gente se ha dado cuenta: La maldición del Hombre Lobo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/apple-estaria-trabajando-nuevo-iphone-llegaria-diseno-completamente-diferente-1138161'>Apple estaría trabajando en el nuevo iPhone SE que llegaría con un diseño completamente diferente</a></h4>
-    <a href='https://computerhoy.com/noticias/apple-estaria-trabajando-nuevo-iphone-llegaria-diseno-completamente-diferente-1138161' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/analisis-iphone-2022-2656605.jpg' alt='Apple estaría trabajando en el nuevo iPhone SE que llegaría con un diseño completamente diferente' />
     </a>
 </div>
 
