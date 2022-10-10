@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/apple-estaria-trabajando-nuevo-iphone-llegaria-diseno-completamente-diferente-1138161'>Apple estaría trabajando en el nuevo iPhone SE que llegaría con un diseño completamente diferente</a></h4>
+    <a href='https://computerhoy.com/noticias/apple-estaria-trabajando-nuevo-iphone-llegaria-diseno-completamente-diferente-1138161' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/analisis-iphone-2022-2656605.jpg' alt='Apple estaría trabajando en el nuevo iPhone SE que llegaría con un diseño completamente diferente' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/3-senales-sabras-cuenta-instagram-falsa-como-mantenerte-salvo-1138203'>3 señales con las que sabrás que una cuenta de Instagram es falsa y cómo mantenerte a salvo</a></h4>
     <a href='https://computerhoy.com/noticias/3-senales-sabras-cuenta-instagram-falsa-como-mantenerte-salvo-1138203' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/instagram-ifnluencers-2826857.jpg' alt='3 señales con las que sabrás que una cuenta de Instagram es falsa y cómo mantenerte a salvo' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/grupos-whatsapp-multitudinarios-aplicacion-mensajeria-prepara-aumentar-limite-usuarios-1138159'>Grupos de WhatsApp multitudinarios: la aplicación de mensajería se prepara para aumentar el límite de usuarios</a></h4>
     <a href='https://computerhoy.com/noticias/grupos-whatsapp-multitudinarios-aplicacion-mensajeria-prepara-aumentar-limite-usuarios-1138159' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/whatsapp-logo-2834999.jpg' alt='Grupos de WhatsApp multitudinarios: la aplicación de mensajería se prepara para aumentar el límite de usuarios' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/donde-comprar-barato-google-pixel-7-pixel-7-pro-1137929'>Dónde comprar más barato los nuevos Google Pixel 7 y Pixel 7 Pro</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/donde-comprar-barato-google-pixel-7-pixel-7-pro-1137929' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/google-pixel-7-pro-google-pixel-7-2838095.jpg' alt='Dónde comprar más barato los nuevos Google Pixel 7 y Pixel 7 Pro' />
     </a>
 </div>
 
