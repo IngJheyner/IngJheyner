@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/sistema-satelites-mandan-tierra-energia-solar-ademas-datos-demostracion-funcional-esa-airbus-1137895'>El sistema de satélites que mandan a la Tierra energía solar además de datos, demostración funcional de la ESA y Airbus</a></h4>
+    <a href='https://computerhoy.com/noticias/sistema-satelites-mandan-tierra-energia-solar-ademas-datos-demostracion-funcional-esa-airbus-1137895' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/sistema-satelites-mandan-tierra-energia-solar-ademas-datos-demostracion-funcional-esa-airbus-2838043.jpg' alt='El sistema de satélites que mandan a la Tierra energía solar además de datos, demostración funcional de la ESA y Airbus' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/jugar-doom-notepad-windows-ya-posible-1137909'>Jugar a Doom en el NotePad de Windows ya es posible</a></h4>
+    <a href='https://computerhoy.com/noticias/jugar-doom-notepad-windows-ya-posible-1137909' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/09/casi-30-anos-despues-doom-doom-ii-actualizan-anadir-soporte-panoramico-2056289.jpg' alt='Jugar a Doom en el NotePad de Windows ya es posible' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/cupones-descuento-amazon-prime-day-octubre-2022-1137867'>Esta página de cupones de Amazon es totalmente desconocida y te puede ahorrar mucho dinero en el Prime Day de octubre</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/cupones-descuento-amazon-prime-day-octubre-2022-1137867' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/cupones-2837881.jpg' alt='Esta página de cupones de Amazon es totalmente desconocida y te puede ahorrar mucho dinero en el Prime Day de octubre' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/mapa-podras-comprobar-ganas-dinero-vecinos-1137877'>El mapa en el que podrás comprobar si ganas más dinero que tus vecinos</a></h4>
     <a href='https://computerhoy.com/noticias/mapa-podras-comprobar-ganas-dinero-vecinos-1137877' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/mapa-podras-comprobar-ganas-dinero-vecinos-2837901.jpg' alt='El mapa en el que podrás comprobar si ganas más dinero que tus vecinos' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/ya-tenemos-fecha-honor-x40-gt-snapdragon-888-pantalla-oled-1137891'>Ya tenemos fecha del Honor X40 GT: Snapdragon 888 y pantalla OLED</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/ya-tenemos-fecha-honor-x40-gt-snapdragon-888-pantalla-oled-1137891' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/honor-x40-gt-2837993.jpg' alt='Ya tenemos fecha del Honor X40 GT: Snapdragon 888 y pantalla OLED' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/listas/tecnologia/5-alternativas-chromecast-puedes-comprar-amazon-572101'>5 alternativas al Chromecast que sí puedes comprar en Amazon</a></h4>
-    <a href='https://computerhoy.com/listas/tecnologia/5-alternativas-chromecast-puedes-comprar-amazon-572101' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/realme-4k-smart-tv-stick-2837651.jpg' alt='5 alternativas al Chromecast que sí puedes comprar en Amazon' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/35-noticias-tecnologia-comenzar-manana-informado-ultimo-1137839'>35 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/35-noticias-tecnologia-comenzar-manana-informado-ultimo-1137839' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/35-noticias-tecnologia-comenzar-manana-informado-ultimo-2837843.jpg' alt='35 noticias de tecnología para comenzar la mañana informado de lo último' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/life/xiaomi-smart-cooking-robot-robot-cocina-inteligente-premium-informacion-ofertas-1137649'>Tiembla Thermomix: Xiaomi ya tiene su propio robot de cocina de lujo que no deja indiferente</a></h4>
-    <a href='https://computerhoy.com/reportajes/life/xiaomi-smart-cooking-robot-robot-cocina-inteligente-premium-informacion-ofertas-1137649' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/xiaomi-smart-cooking-robot-2837635.jpg' alt='Tiembla Thermomix: Xiaomi ya tiene su propio robot de cocina de lujo que no deja indiferente' />
     </a>
 </div>
 
