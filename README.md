@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/400-apps-android-ios-lista-negra-meta-robar-informacion-acceso-facebook-1138035'>Más de 400 apps de Android e iOS en la lista negra de Meta por robar información de acceso a Facebook</a></h4>
+    <a href='https://computerhoy.com/noticias/400-apps-android-ios-lista-negra-meta-robar-informacion-acceso-facebook-1138035' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/400-apps-android-ios-lista-negra-meta-robar-informacion-acceso-facebook-2838265.jpg' alt='Más de 400 apps de Android e iOS en la lista negra de Meta por robar información de acceso a Facebook' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/snapdragon-8-gen2-mejoras-50-qualcomm-pisa-acelerador-ver-mediatek-retrovisor-1137989'>Snapdragon 8 Gen 2, mejoras del 50 %: Qualcomm pisa el acelerador al ver a MediaTek por el retrovisor</a></h4>
+    <a href='https://computerhoy.com/noticias/snapdragon-8-gen2-mejoras-50-qualcomm-pisa-acelerador-ver-mediatek-retrovisor-1137989' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/snapdragon-8-gen-2-2815061.jpg' alt='Snapdragon 8 Gen 2, mejoras del 50 %: Qualcomm pisa el acelerador al ver a MediaTek por el retrovisor' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/vecinos-hacen-falta-saturar-canal-wi-fi-como-solucionarlo-1137999'>Los vecinos que hacen falta para saturar el canal de tu Wi-Fi y cómo solucionarlo</a></h4>
+    <a href='https://computerhoy.com/noticias/vecinos-hacen-falta-saturar-canal-wi-fi-como-solucionarlo-1137999' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/router-wifi-2623703.jpg' alt='Los vecinos que hacen falta para saturar el canal de tu Wi-Fi y cómo solucionarlo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/intel-confirma-filtraciones-bios-procesadores-alder-lake-ello-implica-1137965'>Intel confirma las filtraciones de la BIOS de sus procesadores Alder Lake y lo que ello implica</a></h4>
     <a href='https://computerhoy.com/noticias/intel-confirma-filtraciones-bios-procesadores-alder-lake-ello-implica-1137965' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/intel-core-13a-generacion-ya-estan-aqui-arquitectura-raptor-lake-prometen-41-rendimiento-2826177.jpg' alt='Intel confirma las filtraciones de la BIOS de sus procesadores Alder Lake y lo que ello implica' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tensor-g2-procesador-google-pixel-primeros-ser-fabricados-4nm-1137953'>Así es el Tensor G2, procesador de los Google Pixel: de los primeros en ser fabricados en 4nm</a></h4>
     <a href='https://computerhoy.com/noticias/tensor-g2-procesador-google-pixel-primeros-ser-fabricados-4nm-1137953' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/tensor-g2-procesador-google-pixel-primeros-ser-fabricados-4nm-2838139.jpg' alt='Así es el Tensor G2, procesador de los Google Pixel: de los primeros en ser fabricados en 4nm' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/sistema-satelites-mandan-tierra-energia-solar-ademas-datos-demostracion-funcional-esa-airbus-1137895'>El sistema de satélites que mandan a la Tierra energía solar además de datos, demostración funcional de la ESA y Airbus</a></h4>
-    <a href='https://computerhoy.com/noticias/sistema-satelites-mandan-tierra-energia-solar-ademas-datos-demostracion-funcional-esa-airbus-1137895' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/sistema-satelites-mandan-tierra-energia-solar-ademas-datos-demostracion-funcional-esa-airbus-2838043.jpg' alt='El sistema de satélites que mandan a la Tierra energía solar además de datos, demostración funcional de la ESA y Airbus' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/jugar-doom-notepad-windows-ya-posible-1137909'>Jugar a Doom en el NotePad de Windows ya es posible</a></h4>
-    <a href='https://computerhoy.com/noticias/jugar-doom-notepad-windows-ya-posible-1137909' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/09/casi-30-anos-despues-doom-doom-ii-actualizan-anadir-soporte-panoramico-2056289.jpg' alt='Jugar a Doom en el NotePad de Windows ya es posible' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/cupones-descuento-amazon-prime-day-octubre-2022-1137867'>Esta página de cupones de Amazon es totalmente desconocida y te puede ahorrar mucho dinero en el Prime Day de octubre</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/cupones-descuento-amazon-prime-day-octubre-2022-1137867' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/cupones-2837881.jpg' alt='Esta página de cupones de Amazon es totalmente desconocida y te puede ahorrar mucho dinero en el Prime Day de octubre' />
     </a>
 </div>
 
