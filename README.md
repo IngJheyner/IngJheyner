@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/nueva-manera-robar-contrasena-ataque-termico-ia-1138123'>La nueva manera de robar tu contraseña, un ataque térmico con IA</a></h4>
+    <a href='https://computerhoy.com/noticias/nueva-manera-robar-contrasena-ataque-termico-ia-1138123' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/hacker-2606589.jpg' alt='La nueva manera de robar tu contraseña, un ataque térmico con IA' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/listas/tecnologia/aplicaciones-telefonos-android-ios-te-ayudaran-encontrar-nuevo-hobby-1119609'>Aplicaciones para teléfonos Android e iOS que te ayudarán a encontrar un nuevo hobby</a></h4>
+    <a href='https://computerhoy.com/listas/tecnologia/aplicaciones-telefonos-android-ios-te-ayudaran-encontrar-nuevo-hobby-1119609' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/aplicaciones-telefonos-android-ios-te-ayudaran-encontrar-nuevo-hobby-2838341.jpg' alt='Aplicaciones para teléfonos Android e iOS que te ayudarán a encontrar un nuevo hobby' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/estas-usando-mal-secadora-prendas-evitar-ocu-ahorrarte-disgusto-1138083'>Estás usando mal la secadora, qué prendas evitar según la OCU para ahorrarte un disgusto</a></h4>
     <a href='https://computerhoy.com/noticias/estas-usando-mal-secadora-prendas-evitar-ocu-ahorrarte-disgusto-1138083' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/secadora-ropa-pequena-2621807.jpg' alt='Estás usando mal la secadora, qué prendas evitar según la OCU para ahorrarte un disgusto' />
@@ -66,25 +82,9 @@
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/400-apps-android-ios-lista-negra-meta-robar-informacion-acceso-facebook-1138035'>Más de 400 apps de Android e iOS en la lista negra de Meta por robar información de acceso a Facebook</a></h4>
+    <h4><a href='https://computerhoy.com/noticias/400-apps-android-ios-lista-negra-meta-robar-informacion-acceso-facebook-1138035'>Cuidado con estas 400 apps de Android e iOS, desinstálalas ya que están robando información de acceso a Facebook</a></h4>
     <a href='https://computerhoy.com/noticias/400-apps-android-ios-lista-negra-meta-robar-informacion-acceso-facebook-1138035' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/400-apps-android-ios-lista-negra-meta-robar-informacion-acceso-facebook-2838265.jpg' alt='Más de 400 apps de Android e iOS en la lista negra de Meta por robar información de acceso a Facebook' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/snapdragon-8-gen2-mejoras-50-qualcomm-pisa-acelerador-ver-mediatek-retrovisor-1137989'>Snapdragon 8 Gen 2, mejoras del 50 %: Qualcomm pisa el acelerador al ver a MediaTek por el retrovisor</a></h4>
-    <a href='https://computerhoy.com/noticias/snapdragon-8-gen2-mejoras-50-qualcomm-pisa-acelerador-ver-mediatek-retrovisor-1137989' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/snapdragon-8-gen-2-2815061.jpg' alt='Snapdragon 8 Gen 2, mejoras del 50 %: Qualcomm pisa el acelerador al ver a MediaTek por el retrovisor' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/vecinos-hacen-falta-saturar-canal-wi-fi-como-solucionarlo-1137999'>Los vecinos que hacen falta para saturar el canal de tu Wi-Fi y cómo solucionarlo</a></h4>
-    <a href='https://computerhoy.com/noticias/vecinos-hacen-falta-saturar-canal-wi-fi-como-solucionarlo-1137999' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/router-wifi-2623703.jpg' alt='Los vecinos que hacen falta para saturar el canal de tu Wi-Fi y cómo solucionarlo' />
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/400-apps-android-ios-lista-negra-meta-robar-informacion-acceso-facebook-2838265.jpg' alt='Cuidado con estas 400 apps de Android e iOS, desinstálalas ya que están robando información de acceso a Facebook' />
     </a>
 </div>
 
