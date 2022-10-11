@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/consumo-coches-electricos-proximas-decadas-1138895'>La red eléctrica mundial sí podrá dar soporte a los coches eléctricos en las próximas décadas, según un informe de BloombergNEF</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/consumo-coches-electricos-proximas-decadas-1138895' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/cargadores-coche-electrico-2547745.jpg' alt='La red eléctrica mundial sí podrá dar soporte a los coches eléctricos en las próximas décadas, según un informe de BloombergNEF' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/meta-quest-pro-precio-fecha-lanzamiento-1138891'>Meta presenta las gafas de realidad virtual y mixta Quest Pro, una nueva entrada al Metaverso por 1.800 euros</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/meta-quest-pro-precio-fecha-lanzamiento-1138891' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/verticalimage1665518719798-2839903.jpg' alt='Meta presenta las gafas de realidad virtual y mixta Quest Pro, una nueva entrada al Metaverso por 1.800 euros' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/piratas-informaticos-filtran-1-millon-tarjetas-credito-debes-comprobar-no-sea-1138873'>Piratas informáticos filtran más de 1 millón de tarjetas de crédito y debes comprobar que no sea la tuya</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/piratas-informaticos-filtran-1-millon-tarjetas-credito-debes-comprobar-no-sea-1138873' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/tarjetas-credito-2802137.jpg' alt='Piratas informáticos filtran más de 1 millón de tarjetas de crédito y debes comprobar que no sea la tuya' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/estos-son-5-elementos-agentes-trafico-vigilaran-proximos-dias-riesgo-llevarte-buena-multa-1138867'>Estos son los 5 elementos que los agentes de tráfico vigilarán en los próximos días a riesgo de llevarte una buena multa</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/estos-son-5-elementos-agentes-trafico-vigilaran-proximos-dias-riesgo-llevarte-buena-multa-1138867' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/multa-2758211.jpg' alt='Estos son los 5 elementos que los agentes de tráfico vigilarán en los próximos días a riesgo de llevarte una buena multa' />
     </a>
 </div>
 
