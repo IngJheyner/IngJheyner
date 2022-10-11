@@ -50,17 +50,9 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/casi-mitad-pcs-mercado-no-pueden-actualizar-windows-11-eso-gran-problema-1138497'>Casi la mitad de PCs del mercado no se pueden actualizar a Windows 11 y eso es un gran problema</a></h4>
-    <a href='https://computerhoy.com/noticias/casi-mitad-pcs-mercado-no-pueden-actualizar-windows-11-eso-gran-problema-1138497' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/casi-mitad-pcs-mercado-no-pueden-actualizar-windows-11-eso-gran-problema-2838905.jpg' alt='Casi la mitad de PCs del mercado no se pueden actualizar a Windows 11 y eso es un gran problema' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-chollos-ofertas-especiales-amazon-prime-1137963'>Los 10 mejores chollos entre las ofertas especiales de Amazon Prime</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-chollos-ofertas-especiales-amazon-prime-1137963' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/chollos-amazon-prime-2838213.jpg' alt='Los 10 mejores chollos entre las ofertas especiales de Amazon Prime' />
+    <h4><a href='https://computerhoy.com/noticias/recrean-universo-conocido-minecraft-aspecto-formidable-1138511'>Recrean el universo conocido en Minecraft y su aspecto es formidable</a></h4>
+    <a href='https://computerhoy.com/noticias/recrean-universo-conocido-minecraft-aspecto-formidable-1138511' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/recrean-universo-conocido-minecraft-aspecto-formidable-2838909.jpg' alt='Recrean el universo conocido en Minecraft y su aspecto es formidable' />
     </a>
 </div>
 
@@ -74,17 +66,25 @@
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/30-noticias-tecnologia-comenzar-manana-informado-ultimo-1138473'>30 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/30-noticias-tecnologia-comenzar-manana-informado-ultimo-1138473' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/30-noticias-tecnologia-comenzar-manana-informado-ultimo-2838877.jpg' alt='30 noticias de tecnología para comenzar la mañana informado de lo último' />
+    <h4><a href='https://computerhoy.com/noticias/ya-sabemos-precios-tarjetas-graficas-intel-solo-nvidia-sale-ganando-1138495'>Ya sabemos los precios de las tarjetas gráficas de Intel y solo NVIDIA sale ganando</a></h4>
+    <a href='https://computerhoy.com/noticias/ya-sabemos-precios-tarjetas-graficas-intel-solo-nvidia-sale-ganando-1138495' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/tarjetas-graficas-intel-arc-parece-retrasan-nuevo-julio-agosto-motivo-2696141.jpg' alt='Ya sabemos los precios de las tarjetas gráficas de Intel y solo NVIDIA sale ganando' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/listas/tecnologia/mejores-ofertas-especiales-prime-amazon-1138103'>Estas son las mejores ofertas especiales para miembros Prime de Amazon</a></h4>
-    <a href='https://computerhoy.com/listas/tecnologia/mejores-ofertas-especiales-prime-amazon-1138103' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/ofertas-amazon-prime-octubre-2838405.jpg' alt='Estas son las mejores ofertas especiales para miembros Prime de Amazon' />
+    <h4><a href='https://computerhoy.com/noticias/casi-mitad-pcs-mercado-no-pueden-actualizar-windows-11-eso-gran-problema-1138497'>Casi la mitad de PCs del mercado no se pueden actualizar a Windows 11 y eso es un gran problema</a></h4>
+    <a href='https://computerhoy.com/noticias/casi-mitad-pcs-mercado-no-pueden-actualizar-windows-11-eso-gran-problema-1138497' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/casi-mitad-pcs-mercado-no-pueden-actualizar-windows-11-eso-gran-problema-2838905.jpg' alt='Casi la mitad de PCs del mercado no se pueden actualizar a Windows 11 y eso es un gran problema' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-chollos-ofertas-especiales-amazon-prime-1137963'>Los 10 mejores chollos entre las ofertas especiales de Amazon Prime</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-chollos-ofertas-especiales-amazon-prime-1137963' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/chollos-amazon-prime-2838213.jpg' alt='Los 10 mejores chollos entre las ofertas especiales de Amazon Prime' />
     </a>
 </div>
 
