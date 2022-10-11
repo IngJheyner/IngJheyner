@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/30-noticias-tecnologia-comenzar-manana-informado-ultimo-1138473'>30 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/30-noticias-tecnologia-comenzar-manana-informado-ultimo-1138473' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/30-noticias-tecnologia-comenzar-manana-informado-ultimo-2838877.jpg' alt='30 noticias de tecnología para comenzar la mañana informado de lo último' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/listas/tecnologia/mejores-ofertas-especiales-prime-amazon-1138103'>Estas son las mejores ofertas especiales para miembros Prime de Amazon</a></h4>
+    <a href='https://computerhoy.com/listas/tecnologia/mejores-ofertas-especiales-prime-amazon-1138103' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/ofertas-amazon-prime-octubre-2838405.jpg' alt='Estas son las mejores ofertas especiales para miembros Prime de Amazon' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/por-que-no-podemos-hacernos-cosquillas-nosotros-mismos-1138471'>El misterio de por qué no podemos hacernos cosquillas a nosotros mismos, desvelado por unos neurocientíficos</a></h4>
     <a href='https://computerhoy.com/noticias/life/por-que-no-podemos-hacernos-cosquillas-nosotros-mismos-1138471' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/misterio-no-podemos-hacernos-cosquillas-nosotros-mismos-desvelado-neurocientificos-2838875.jpg' alt='El misterio de por qué no podemos hacernos cosquillas a nosotros mismos, desvelado por unos neurocientíficos' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/robots-sirvienta-masiro-project-video-1138267'>Estos robots doncella inspirados en el anime ya sirven café en una cafetería de Tokio, y son bastante inquietantes (vídeo)</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/robots-sirvienta-masiro-project-video-1138267' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/verticalimage1665439878010-2838691.jpg' alt='Estos robots doncella inspirados en el anime ya sirven café en una cafetería de Tokio, y son bastante inquietantes (vídeo)' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/adriana-chechik-streamer-actriz-porno-parte-espalda-twitchcon-1138261'>La streamer y actriz porno Adriana Chechik se parte la espalda haciendo una acrobacia en la TwitchCon</a></h4>
-    <a href='https://computerhoy.com/noticias/life/adriana-chechik-streamer-actriz-porno-parte-espalda-twitchcon-1138261' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/streamer-actriz-porno-adriana-chechik-parte-espalda-haciendo-acrobacia-twitchcon-2838685.jpg' alt='La streamer y actriz porno Adriana Chechik se parte la espalda haciendo una acrobacia en la TwitchCon' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/carga-inalambrica-podria-ser-estandar-iphone-ipad-2024-1138247'>La carga inalámbrica podría ser el estándar en los iPhone y los iPad para 2024</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/carga-inalambrica-podria-ser-estandar-iphone-ipad-2024-1138247' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/iphone-13-pro-max-color-verde-alpino-2765457.jpg' alt='La carga inalámbrica podría ser el estándar en los iPhone y los iPad para 2024' />
     </a>
 </div>
 
