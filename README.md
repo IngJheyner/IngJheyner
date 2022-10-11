@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/directo-amazon-prime-day-octubre-mejores-ofertas-1138091'>En directo el Amazon Prime Day de octubre: sigue las mejores ofertas</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/directo-amazon-prime-day-octubre-mejores-ofertas-1138091' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/ofertas-prime-day-octubre-directo-2838323.jpg' alt='En directo el Amazon Prime Day de octubre: sigue las mejores ofertas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/nuevo-chip-mediatek-traera-camaras-200-mpx-smartphones-gama-media-1138617'>El nuevo chip de MediaTek traerá las cámaras de 200 Mpx a los smartphones de gama media</a></h4>
     <a href='https://computerhoy.com/noticias/nuevo-chip-mediatek-traera-camaras-200-mpx-smartphones-gama-media-1138617' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/mediatek-dimensity-2839231.jpg' alt='El nuevo chip de MediaTek traerá las cámaras de 200 Mpx a los smartphones de gama media' />
@@ -69,14 +77,6 @@
     <h4><a href='https://computerhoy.com/noticias/youtube-pone-marcha-alias-unicos-creadores-contenidos-puro-estilo-instagram-1138619'>YouTube pone marcha los "alias" únicos para los creadores de contenidos al puro estilo Twitter</a></h4>
     <a href='https://computerhoy.com/noticias/youtube-pone-marcha-alias-unicos-creadores-contenidos-puro-estilo-instagram-1138619' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/youtube-pone-marcha-alias-unicos-creadores-contenidos-puro-estilo-twitter-2839219.jpg' alt='YouTube pone marcha los "alias" únicos para los creadores de contenidos al puro estilo Twitter' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/directo-amazon-prime-day-octubre-mejores-ofertas-1138091'>En directo el Amazon Prime Day de octubre: sigue las mejores ofertas</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/directo-amazon-prime-day-octubre-mejores-ofertas-1138091' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/ofertas-prime-day-octubre-directo-2838323.jpg' alt='En directo el Amazon Prime Day de octubre: sigue las mejores ofertas' />
     </a>
 </div>
 
