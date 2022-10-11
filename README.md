@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/caracteristica-telegram-todo-mundo-quiere-desaparezca-1138841'>Esta es la característica de Telegram que todo el mundo quiere que desaparezca</a></h4>
+    <a href='https://computerhoy.com/noticias/caracteristica-telegram-todo-mundo-quiere-desaparezca-1138841' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/telegram-2728425.jpg' alt='Esta es la característica de Telegram que todo el mundo quiere que desaparezca' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/emancipation-hacia-la-libertad-will-smith-apple-tv-plus-1138853'>La redención de Will Smith, en un papel de Óscar: Apple al fin se atreve a estrenar Hacia la Libertad (Emancipation)</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/emancipation-hacia-la-libertad-will-smith-apple-tv-plus-1138853' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/verticalimage1665508314628-2839817.jpg' alt='La redención de Will Smith, en un papel de Óscar: Apple al fin se atreve a estrenar Hacia la Libertad (Emancipation)' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/ultimos-rumores-apuntan-telefono-plegable-pixel-fold-google-tiene-ya-fecha-presentacion-1138815'>Los últimos rumores apuntan a que el teléfono plegable Pixel Fold de Google tiene ya fecha de presentación</a></h4>
     <a href='https://computerhoy.com/noticias/ultimos-rumores-apuntan-telefono-plegable-pixel-fold-google-tiene-ya-fecha-presentacion-1138815' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/google-pixel-fold-2492949.jpg' alt='Los últimos rumores apuntan a que el teléfono plegable Pixel Fold de Google tiene ya fecha de presentación' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/directo-amazon-prime-day-octubre-mejores-ofertas-1138091'>En directo el Amazon Prime Day de octubre: sigue las mejores ofertas</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/directo-amazon-prime-day-octubre-mejores-ofertas-1138091' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/ofertas-prime-day-octubre-directo-2-2839505.jpg' alt='En directo el Amazon Prime Day de octubre: sigue las mejores ofertas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/cual-mejor-forma-ver-tdt-gratis-movil-tivify-tdtchannels-1138779'>Cuál es la mejor forma de ver la TDT gratis en el móvil: ¿Tivify o TDTChannels?</a></h4>
-    <a href='https://computerhoy.com/noticias/cual-mejor-forma-ver-tdt-gratis-movil-tivify-tdtchannels-1138779' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/04/como-ver-canales-hd-no-estan-tdt_6.jpg' alt='Cuál es la mejor forma de ver la TDT gratis en el móvil: ¿Tivify o TDTChannels?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/moto-g72-ya-espana-1138793'>El Moto G72 de Motorola ya está en España: una gran cámara de 108 Mpx a un precio muy comedido</a></h4>
-    <a href='https://computerhoy.com/noticias/moto-g72-ya-espana-1138793' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/moto-g72-motorola-ya-espana-gran-camara-108-mpx-precio-muy-comedido-2839583.jpg' alt='El Moto G72 de Motorola ya está en España: una gran cámara de 108 Mpx a un precio muy comedido' />
     </a>
 </div>
 
