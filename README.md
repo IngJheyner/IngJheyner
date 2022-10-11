@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/por-que-no-podemos-hacernos-cosquillas-nosotros-mismos-1138471'>El misterio de por qué no podemos hacernos cosquillas a nosotros mismos, desvelado por unos neurocientíficos</a></h4>
+    <a href='https://computerhoy.com/noticias/life/por-que-no-podemos-hacernos-cosquillas-nosotros-mismos-1138471' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/misterio-no-podemos-hacernos-cosquillas-nosotros-mismos-desvelado-neurocientificos-2838875.jpg' alt='El misterio de por qué no podemos hacernos cosquillas a nosotros mismos, desvelado por unos neurocientíficos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/directo-amazon-prime-day-octubre-mejores-ofertas-1138091'>En directo el Amazon Prime Day de octubre: sigue las mejores ofertas</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/directo-amazon-prime-day-octubre-mejores-ofertas-1138091' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/ofertas-prime-day-octubre-directo-2838323.jpg' alt='En directo el Amazon Prime Day de octubre: sigue las mejores ofertas' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/carga-inalambrica-podria-ser-estandar-iphone-ipad-2024-1138247'>La carga inalámbrica podría ser el estándar en los iPhone y los iPad para 2024</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/carga-inalambrica-podria-ser-estandar-iphone-ipad-2024-1138247' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/iphone-13-pro-max-color-verde-alpino-2765457.jpg' alt='La carga inalámbrica podría ser el estándar en los iPhone y los iPad para 2024' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/estos-meses-debes-comprar-bitcoin-porque-habra-tocado-fondo-1138245'>En estos meses debes comprar Bitcoin porque habrá tocado fondo</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/estos-meses-debes-comprar-bitcoin-porque-habra-tocado-fondo-1138245' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/bitcoin-2621405.jpg' alt='En estos meses debes comprar Bitcoin porque habrá tocado fondo' />
     </a>
 </div>
 
