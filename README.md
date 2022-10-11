@@ -58,6 +58,14 @@
 
 
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/robots-sirvienta-masiro-project-video-1138267'>Estos robots doncella inspirados en el anime ya sirven café en una cafetería de Tokio, y son bastante inquietantes (vídeo)</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/robots-sirvienta-masiro-project-video-1138267' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/verticalimage1665439878010-2838691.jpg' alt='Estos robots doncella inspirados en el anime ya sirven café en una cafetería de Tokio, y son bastante inquietantes (vídeo)' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/adriana-chechik-streamer-actriz-porno-parte-espalda-twitchcon-1138261'>La streamer y actriz porno Adriana Chechik se parte la espalda haciendo una acrobacia en la TwitchCon</a></h4>
     <a href='https://computerhoy.com/noticias/life/adriana-chechik-streamer-actriz-porno-parte-espalda-twitchcon-1138261' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/streamer-actriz-porno-adriana-chechik-parte-espalda-haciendo-acrobacia-twitchcon-2838685.jpg' alt='La streamer y actriz porno Adriana Chechik se parte la espalda haciendo una acrobacia en la TwitchCon' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/estos-meses-debes-comprar-bitcoin-porque-habra-tocado-fondo-1138245'>En estos meses debes comprar Bitcoin porque habrá tocado fondo</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/estos-meses-debes-comprar-bitcoin-porque-habra-tocado-fondo-1138245' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/bitcoin-2621405.jpg' alt='En estos meses debes comprar Bitcoin porque habrá tocado fondo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/consola-nintendo-switch-oled-stock-30-euros-descuento-1138241'>La consola Nintendo Switch OLED en stock y con 30 euros de descuento, una combinación que no se ve todos los días</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/consola-nintendo-switch-oled-stock-30-euros-descuento-1138241' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/analisis-nintendo-switch-oled-2508427.jpg' alt='La consola Nintendo Switch OLED en stock y con 30 euros de descuento, una combinación que no se ve todos los días' />
     </a>
 </div>
 
