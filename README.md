@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/ultimos-rumores-apuntan-telefono-plegable-pixel-fold-google-tiene-ya-fecha-presentacion-1138815'>Los últimos rumores apuntan a que el teléfono plegable Pixel Fold de Google tiene ya fecha de presentación</a></h4>
+    <a href='https://computerhoy.com/noticias/ultimos-rumores-apuntan-telefono-plegable-pixel-fold-google-tiene-ya-fecha-presentacion-1138815' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/google-pixel-fold-2492949.jpg' alt='Los últimos rumores apuntan a que el teléfono plegable Pixel Fold de Google tiene ya fecha de presentación' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/samsung-windows-11-portatil-solo-539-euros-ofertas-estrella-prime-day-octubre-1138185'>Samsung y Windows 11: este portátil de solo 539 euros, una de las ofertas estrella del Prime Day de octubre</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/samsung-windows-11-portatil-solo-539-euros-ofertas-estrella-prime-day-octubre-1138185' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/samsung-galaxy-book-2315975.jpg' alt='Samsung y Windows 11: este portátil de solo 539 euros, una de las ofertas estrella del Prime Day de octubre' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/moto-g72-ya-espana-1138793'>El Moto G72 de Motorola ya está en España: una gran cámara de 108 Mpx a un precio muy comedido</a></h4>
     <a href='https://computerhoy.com/noticias/moto-g72-ya-espana-1138793' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/moto-g72-motorola-ya-espana-gran-camara-108-mpx-precio-muy-comedido-2839583.jpg' alt='El Moto G72 de Motorola ya está en España: una gran cámara de 108 Mpx a un precio muy comedido' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/pixel-6-vs-pixel-7-deberias-hacer-cambio-1138723'>Pixel 6 vs. Pixel 7: ¿deberías hacer el cambio?</a></h4>
-    <a href='https://computerhoy.com/noticias/pixel-6-vs-pixel-7-deberias-hacer-cambio-1138723' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/pixel-6-vs-pixel-7-deberias-hacer-cambio-2839435.jpg' alt='Pixel 6 vs. Pixel 7: ¿deberías hacer el cambio?' />
     </a>
 </div>
 
