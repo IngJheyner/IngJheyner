@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/pixel-6-vs-pixel-7-deberias-hacer-cambio-1138723'>Pixel 6 vs. Pixel 7: ¿deberías hacer el cambio?</a></h4>
+    <a href='https://computerhoy.com/noticias/pixel-6-vs-pixel-7-deberias-hacer-cambio-1138723' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/pixel-6-vs-pixel-7-deberias-hacer-cambio-2839435.jpg' alt='Pixel 6 vs. Pixel 7: ¿deberías hacer el cambio?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/cecotec-entra-lleno-mundo-tvs-1138755'>Cecotec entra de lleno en el mundo de las TVs</a></h4>
     <a href='https://computerhoy.com/noticias/cecotec-entra-lleno-mundo-tvs-1138755' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/cecotec-entra-lleno-mundo-tvs-2839515.jpg' alt='Cecotec entra de lleno en el mundo de las TVs' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/freidora-aceite-top-ventas-apunta-nuevo-prime-day-rebaja-1137971'>La freidora sin aceite top ventas se apunta al nuevo Prime Day con una rebaja</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/freidora-aceite-top-ventas-apunta-nuevo-prime-day-rebaja-1137971' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/freidora-aire-cosori-2623409.jpg' alt='La freidora sin aceite top ventas se apunta al nuevo Prime Day con una rebaja' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/gaming/nvidia-rtx-4090-analisis-opinion-1136425'>NVIDIA RTX 4090 Founders Edition, análisis y opinión</a></h4>
-    <a href='https://computerhoy.com/analisis/gaming/nvidia-rtx-4090-analisis-opinion-1136425' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/nvidia-rtx-4090-2835441.jpg' alt='NVIDIA RTX 4090 Founders Edition, análisis y opinión' />
     </a>
 </div>
 
