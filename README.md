@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-chollos-ofertas-especiales-amazon-prime-1137963'>Los 10 mejores chollos entre las ofertas especiales de Amazon Prime</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-chollos-ofertas-especiales-amazon-prime-1137963' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/chollos-amazon-prime-2838213.jpg' alt='Los 10 mejores chollos entre las ofertas especiales de Amazon Prime' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/directo-amazon-prime-day-octubre-mejores-ofertas-1138091'>En directo el Amazon Prime Day de octubre: sigue las mejores ofertas</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/directo-amazon-prime-day-octubre-mejores-ofertas-1138091' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/ofertas-prime-day-octubre-directo-2838323.jpg' alt='En directo el Amazon Prime Day de octubre: sigue las mejores ofertas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/30-noticias-tecnologia-comenzar-manana-informado-ultimo-1138473'>30 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/30-noticias-tecnologia-comenzar-manana-informado-ultimo-1138473' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/30-noticias-tecnologia-comenzar-manana-informado-ultimo-2838877.jpg' alt='30 noticias de tecnología para comenzar la mañana informado de lo último' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/por-que-no-podemos-hacernos-cosquillas-nosotros-mismos-1138471'>El misterio de por qué no podemos hacernos cosquillas a nosotros mismos, desvelado por unos neurocientíficos</a></h4>
     <a href='https://computerhoy.com/noticias/life/por-que-no-podemos-hacernos-cosquillas-nosotros-mismos-1138471' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/misterio-no-podemos-hacernos-cosquillas-nosotros-mismos-desvelado-neurocientificos-2838875.jpg' alt='El misterio de por qué no podemos hacernos cosquillas a nosotros mismos, desvelado por unos neurocientíficos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/directo-amazon-prime-day-octubre-mejores-ofertas-1138091'>En directo el Amazon Prime Day de octubre: sigue las mejores ofertas</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/directo-amazon-prime-day-octubre-mejores-ofertas-1138091' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/ofertas-prime-day-octubre-directo-2838323.jpg' alt='En directo el Amazon Prime Day de octubre: sigue las mejores ofertas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/robots-sirvienta-masiro-project-video-1138267'>Estos robots doncella inspirados en el anime ya sirven café en una cafetería de Tokio, y son bastante inquietantes (vídeo)</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/robots-sirvienta-masiro-project-video-1138267' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/verticalimage1665439878010-2838691.jpg' alt='Estos robots doncella inspirados en el anime ya sirven café en una cafetería de Tokio, y son bastante inquietantes (vídeo)' />
     </a>
 </div>
 
