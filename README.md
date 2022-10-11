@@ -50,9 +50,9 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/freidora-aceite-top-ventas-apunta-nuevo-prime-day-rebaja-1137971'>La freidora sin aceite top ventas se apunta al nuevo Prime Day con una rebaja</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/freidora-aceite-top-ventas-apunta-nuevo-prime-day-rebaja-1137971' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/freidora-aire-cosori-2623409.jpg' alt='La freidora sin aceite top ventas se apunta al nuevo Prime Day con una rebaja' />
+    <h4><a href='https://computerhoy.com/noticias/cecotec-entra-lleno-mundo-tvs-1138755'>Cecotec entra de lleno en el mundo de las TVs</a></h4>
+    <a href='https://computerhoy.com/noticias/cecotec-entra-lleno-mundo-tvs-1138755' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/cecotec-entra-lleno-mundo-tvs-2839515.jpg' alt='Cecotec entra de lleno en el mundo de las TVs' />
     </a>
 </div>
 
@@ -66,25 +66,25 @@
 
 
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/cual-tiempo-vida-util-paneles-solares-1138753'>¿Cuál es el tiempo de vida útil de los paneles solares?</a></h4>
+    <a href='https://computerhoy.com/noticias/cual-tiempo-vida-util-paneles-solares-1138753' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/paneles-solares-2785047.jpg' alt='¿Cuál es el tiempo de vida útil de los paneles solares?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/freidora-aceite-top-ventas-apunta-nuevo-prime-day-rebaja-1137971'>La freidora sin aceite top ventas se apunta al nuevo Prime Day con una rebaja</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/freidora-aceite-top-ventas-apunta-nuevo-prime-day-rebaja-1137971' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/freidora-aire-cosori-2623409.jpg' alt='La freidora sin aceite top ventas se apunta al nuevo Prime Day con una rebaja' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/analisis/gaming/nvidia-rtx-4090-analisis-opinion-1136425'>NVIDIA RTX 4090 Founders Edition, análisis y opinión</a></h4>
     <a href='https://computerhoy.com/analisis/gaming/nvidia-rtx-4090-analisis-opinion-1136425' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/nvidia-rtx-4090-2835441.jpg' alt='NVIDIA RTX 4090 Founders Edition, análisis y opinión' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/conduce-todo-mundo-salir-casa-google-maps-driving-simulator-995003'>Conduce por todo el mundo sin salir de tu casa en Google Maps con Driving Simulator</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/conduce-todo-mundo-salir-casa-google-maps-driving-simulator-995003' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/conduce-todo-mundo-salir-casa-google-maps-driving-simulator-2585243.jpg' alt='Conduce por todo el mundo sin salir de tu casa en Google Maps con Driving Simulator' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/taxi-volador-te-lleva-casa-aeropuerto-realidad-1138691'>El taxi volador que te lleva de casa al aeropuerto es una realidad</a></h4>
-    <a href='https://computerhoy.com/noticias/taxi-volador-te-lleva-casa-aeropuerto-realidad-1138691' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/taxi-volador-2839437.jpg' alt='El taxi volador que te lleva de casa al aeropuerto es una realidad' />
     </a>
 </div>
 
