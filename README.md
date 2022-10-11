@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/freidora-aceite-top-ventas-apunta-nuevo-prime-day-rebaja-1137971'>La freidora sin aceite top ventas se apunta al nuevo Prime Day con una rebaja</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/freidora-aceite-top-ventas-apunta-nuevo-prime-day-rebaja-1137971' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/freidora-aire-cosori-2623409.jpg' alt='La freidora sin aceite top ventas se apunta al nuevo Prime Day con una rebaja' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/directo-amazon-prime-day-octubre-mejores-ofertas-1138091'>En directo el Amazon Prime Day de octubre: sigue las mejores ofertas</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/directo-amazon-prime-day-octubre-mejores-ofertas-1138091' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/ofertas-prime-day-octubre-directo-2-2839505.jpg' alt='En directo el Amazon Prime Day de octubre: sigue las mejores ofertas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/analisis/gaming/nvidia-rtx-4090-analisis-opinion-1136425'>NVIDIA RTX 4090 Founders Edition, análisis y opinión</a></h4>
     <a href='https://computerhoy.com/analisis/gaming/nvidia-rtx-4090-analisis-opinion-1136425' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/nvidia-rtx-4090-2835441.jpg' alt='NVIDIA RTX 4090 Founders Edition, análisis y opinión' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/taxi-volador-te-lleva-casa-aeropuerto-realidad-1138691'>El taxi volador que te lleva de casa al aeropuerto es una realidad</a></h4>
     <a href='https://computerhoy.com/noticias/taxi-volador-te-lleva-casa-aeropuerto-realidad-1138691' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/taxi-volador-2839437.jpg' alt='El taxi volador que te lleva de casa al aeropuerto es una realidad' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/estos-son-fallos-ethereum-bitcoin-creador-cardano-1138681'>Estos son los fallos de Ethereum y Bitcoin, según el creador de Cardano</a></h4>
-    <a href='https://computerhoy.com/noticias/estos-son-fallos-ethereum-bitcoin-creador-cardano-1138681' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/estos-son-fallos-ethereum-bitcoin-creador-cardano-2839421.jpg' alt='Estos son los fallos de Ethereum y Bitcoin, según el creador de Cardano' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/garmin-fenix-6x-pro-reloj-ideal-runners-llega-franja-300-euros-1137939'>Garmin Fenix 6X Pro: el reloj ideal para runners llega a la franja de 300 euros</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/garmin-fenix-6x-pro-reloj-ideal-runners-llega-franja-300-euros-1137939' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/garmin-fenix-6x-pro-2503237.jpg' alt='Garmin Fenix 6X Pro: el reloj ideal para runners llega a la franja de 300 euros' />
     </a>
 </div>
 
