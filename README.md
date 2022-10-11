@@ -50,17 +50,25 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/aplicaciones-android-evitar-quieres-ahorrar-bateria-1138551'>Las aplicaciones Android a evitar si quieres ahorrar batería</a></h4>
-    <a href='https://computerhoy.com/noticias/aplicaciones-android-evitar-quieres-ahorrar-bateria-1138551' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/funcion-oculta-proteger-privacidad-35-usuarios-android-desconoce-2795885.jpg' alt='Las aplicaciones Android a evitar si quieres ahorrar batería' />
+    <h4><a href='https://computerhoy.com/noticias/nuevo-chip-mediatek-traera-camaras-200-mpx-smartphones-gama-media-1138617'>El nuevo chip de MediaTek traerá las cámaras de 200 Mpx a los smartphones de gama media</a></h4>
+    <a href='https://computerhoy.com/noticias/nuevo-chip-mediatek-traera-camaras-200-mpx-smartphones-gama-media-1138617' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/mediatek-dimensity-2839231.jpg' alt='El nuevo chip de MediaTek traerá las cámaras de 200 Mpx a los smartphones de gama media' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/innengine-motor-pistones-opuestos-espanol-1138599'>INNengine, el motor de pistones opuestos español que quiere revolucionar los automóviles</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/innengine-motor-pistones-opuestos-espanol-1138599' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/innengine-motor-termico-espanol-quiere-revolucionar-automoviles-2839125.jpg' alt='INNengine, el motor de pistones opuestos español que quiere revolucionar los automóviles' />
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/moviles-baratos-ofertas-especiales-amazon-prime-1138525'>10 móviles más baratos de lo normal durante las ofertas especiales de Amazon Prime</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/moviles-baratos-ofertas-especiales-amazon-prime-1138525' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/analisis-pixel-6a-2765509.jpg' alt='10 móviles más baratos de lo normal durante las ofertas especiales de Amazon Prime' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/youtube-pone-marcha-alias-unicos-creadores-contenidos-puro-estilo-instagram-1138619'>YouTube pone marcha los "alias" únicos para los creadores de contenidos al puro estilo Twitter</a></h4>
+    <a href='https://computerhoy.com/noticias/youtube-pone-marcha-alias-unicos-creadores-contenidos-puro-estilo-instagram-1138619' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/youtube-pone-marcha-alias-unicos-creadores-contenidos-puro-estilo-twitter-2839219.jpg' alt='YouTube pone marcha los "alias" únicos para los creadores de contenidos al puro estilo Twitter' />
     </a>
 </div>
 
@@ -74,17 +82,9 @@
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/whatsapp-probando-nueva-barra-lateral-app-posibilidad-responder-estados-1138523'>Novedades visibles y útiles en WhatsApp Web y la app para Windows</a></h4>
-    <a href='https://computerhoy.com/noticias/whatsapp-probando-nueva-barra-lateral-app-posibilidad-responder-estados-1138523' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/whatsapp-web-2534515.jpg' alt='Novedades visibles y útiles en WhatsApp Web y la app para Windows' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/movil-barato-samsung-arrasa-ventas-ahora-incluso-rebajado-amazon-prime-day-1137881'>El móvil barato de Samsung que arrasa en ventas, ahora incluso más rebajado en Amazon por su Prime Day</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/movil-barato-samsung-arrasa-ventas-ahora-incluso-rebajado-amazon-prime-day-1137881' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/samsung-galaxy-m13-2837905.jpg' alt='El móvil barato de Samsung que arrasa en ventas, ahora incluso más rebajado en Amazon por su Prime Day' />
+    <h4><a href='https://computerhoy.com/noticias/desarrollan-sistema-hace-motores-diesel-contaminen-igual-coche-electrico-1138557'>Desarrollan un sistema que hace que los motores diésel contaminen igual que un coche eléctrico</a></h4>
+    <a href='https://computerhoy.com/noticias/desarrollan-sistema-hace-motores-diesel-contaminen-igual-coche-electrico-1138557' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/01/japon-anuncia-fin-coches-gasolina-diesel-2188245.jpg' alt='Desarrollan un sistema que hace que los motores diésel contaminen igual que un coche eléctrico' />
     </a>
 </div>
 
