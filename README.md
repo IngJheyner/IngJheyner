@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/garmin-forerunner-245-reloj-running-descuento-1138879'>Garmin Forerunner 245, uno de los relojes más usados por los runners, baja a 159 euros</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/garmin-forerunner-245-reloj-running-descuento-1138879' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/garmin-forerunner-245-relojes-usados-gamers-baja-159-euros-2839871.jpg' alt='Garmin Forerunner 245, uno de los relojes más usados por los runners, baja a 159 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/piratas-informaticos-filtran-1-millon-tarjetas-credito-debes-comprobar-no-sea-1138873'>Piratas informáticos filtran más de 1 millón de tarjetas de crédito y debes comprobar que no sea la tuya</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/piratas-informaticos-filtran-1-millon-tarjetas-credito-debes-comprobar-no-sea-1138873' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/tarjetas-credito-2802137.jpg' alt='Piratas informáticos filtran más de 1 millón de tarjetas de crédito y debes comprobar que no sea la tuya' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/estos-son-5-elementos-agentes-trafico-vigilaran-proximos-dias-riesgo-llevarte-buena-multa-1138867'>Estos son los 5 elementos que los agentes de tráfico vigilarán en los próximos días a riesgo de llevarte una buena multa</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/estos-son-5-elementos-agentes-trafico-vigilaran-proximos-dias-riesgo-llevarte-buena-multa-1138867' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/multa-2758211.jpg' alt='Estos son los 5 elementos que los agentes de tráfico vigilarán en los próximos días a riesgo de llevarte una buena multa' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/caracteristica-telegram-todo-mundo-quiere-desaparezca-1138841'>Esta es la característica de Telegram que todo el mundo quiere que desaparezca</a></h4>
     <a href='https://computerhoy.com/noticias/caracteristica-telegram-todo-mundo-quiere-desaparezca-1138841' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/telegram-2728425.jpg' alt='Esta es la característica de Telegram que todo el mundo quiere que desaparezca' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/emancipation-hacia-la-libertad-will-smith-apple-tv-plus-1138853'>La redención de Will Smith, en un papel de Óscar: Apple al fin se atreve a estrenar Hacia la Libertad (Emancipation)</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/emancipation-hacia-la-libertad-will-smith-apple-tv-plus-1138853' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/verticalimage1665508314628-2839817.jpg' alt='La redención de Will Smith, en un papel de Óscar: Apple al fin se atreve a estrenar Hacia la Libertad (Emancipation)' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/ultimos-rumores-apuntan-telefono-plegable-pixel-fold-google-tiene-ya-fecha-presentacion-1138815'>Los últimos rumores apuntan a que el teléfono plegable Pixel Fold de Google tiene ya fecha de presentación</a></h4>
-    <a href='https://computerhoy.com/noticias/ultimos-rumores-apuntan-telefono-plegable-pixel-fold-google-tiene-ya-fecha-presentacion-1138815' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/google-pixel-fold-2492949.jpg' alt='Los últimos rumores apuntan a que el teléfono plegable Pixel Fold de Google tiene ya fecha de presentación' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/samsung-windows-11-portatil-solo-539-euros-ofertas-estrella-prime-day-octubre-1138185'>Samsung y Windows 11: este portátil de solo 539 euros, una de las ofertas estrella del Prime Day de octubre</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/samsung-windows-11-portatil-solo-539-euros-ofertas-estrella-prime-day-octubre-1138185' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/samsung-galaxy-book-2315975.jpg' alt='Samsung y Windows 11: este portátil de solo 539 euros, una de las ofertas estrella del Prime Day de octubre' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/directo-amazon-prime-day-octubre-mejores-ofertas-1138091'>En directo el Amazon Prime Day de octubre: sigue las mejores ofertas</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/directo-amazon-prime-day-octubre-mejores-ofertas-1138091' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/ofertas-prime-day-octubre-directo-2-2839505.jpg' alt='En directo el Amazon Prime Day de octubre: sigue las mejores ofertas' />
     </a>
 </div>
 
