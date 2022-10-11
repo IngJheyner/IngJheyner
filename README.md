@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/meta-quest-pro-precio-fecha-lanzamiento-1138891'>Meta presenta las gafas de realidad virtual y mixta Quest Pro, una nueva entrada al Metaverso por 1.800 euros</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/meta-quest-pro-precio-fecha-lanzamiento-1138891' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/verticalimage1665518719798-2839903.jpg' alt='Meta presenta las gafas de realidad virtual y mixta Quest Pro, una nueva entrada al Metaverso por 1.800 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/acer-chromebook-516-ge-chromebook-hecho-jugar-videojuegos-1138875'>Acer Chromebook 516 GE: así es el Chromebook hecho para jugar a videojuegos</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/acer-chromebook-516-ge-chromebook-hecho-jugar-videojuegos-1138875' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/acer-chromebook-516-ge-chromebook-hecho-jugar-videojuegos-2839855.jpg' alt='Acer Chromebook 516 GE: así es el Chromebook hecho para jugar a videojuegos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/garmin-forerunner-245-reloj-running-descuento-1138879'>Garmin Forerunner 245, uno de los relojes más usados por los runners, baja a 159 euros</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/garmin-forerunner-245-reloj-running-descuento-1138879' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/garmin-forerunner-245-relojes-usados-gamers-baja-159-euros-2839871.jpg' alt='Garmin Forerunner 245, uno de los relojes más usados por los runners, baja a 159 euros' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/motor/estos-son-5-elementos-agentes-trafico-vigilaran-proximos-dias-riesgo-llevarte-buena-multa-1138867'>Estos son los 5 elementos que los agentes de tráfico vigilarán en los próximos días a riesgo de llevarte una buena multa</a></h4>
     <a href='https://computerhoy.com/noticias/motor/estos-son-5-elementos-agentes-trafico-vigilaran-proximos-dias-riesgo-llevarte-buena-multa-1138867' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/multa-2758211.jpg' alt='Estos son los 5 elementos que los agentes de tráfico vigilarán en los próximos días a riesgo de llevarte una buena multa' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/caracteristica-telegram-todo-mundo-quiere-desaparezca-1138841'>Esta es la característica de Telegram que todo el mundo quiere que desaparezca</a></h4>
-    <a href='https://computerhoy.com/noticias/caracteristica-telegram-todo-mundo-quiere-desaparezca-1138841' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/telegram-2728425.jpg' alt='Esta es la característica de Telegram que todo el mundo quiere que desaparezca' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/emancipation-hacia-la-libertad-will-smith-apple-tv-plus-1138853'>La redención de Will Smith, en un papel de Óscar: Apple al fin se atreve a estrenar Hacia la Libertad (Emancipation)</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/emancipation-hacia-la-libertad-will-smith-apple-tv-plus-1138853' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/verticalimage1665508314628-2839817.jpg' alt='La redención de Will Smith, en un papel de Óscar: Apple al fin se atreve a estrenar Hacia la Libertad (Emancipation)' />
     </a>
 </div>
 
