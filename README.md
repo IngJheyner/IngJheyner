@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/casi-mitad-pcs-mercado-no-pueden-actualizar-windows-11-eso-gran-problema-1138497'>Casi la mitad de PCs del mercado no se pueden actualizar a Windows 11 y eso es un gran problema</a></h4>
+    <a href='https://computerhoy.com/noticias/casi-mitad-pcs-mercado-no-pueden-actualizar-windows-11-eso-gran-problema-1138497' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/casi-mitad-pcs-mercado-no-pueden-actualizar-windows-11-eso-gran-problema-2838905.jpg' alt='Casi la mitad de PCs del mercado no se pueden actualizar a Windows 11 y eso es un gran problema' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-chollos-ofertas-especiales-amazon-prime-1137963'>Los 10 mejores chollos entre las ofertas especiales de Amazon Prime</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/mejores-chollos-ofertas-especiales-amazon-prime-1137963' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/chollos-amazon-prime-2838213.jpg' alt='Los 10 mejores chollos entre las ofertas especiales de Amazon Prime' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/listas/tecnologia/mejores-ofertas-especiales-prime-amazon-1138103'>Estas son las mejores ofertas especiales para miembros Prime de Amazon</a></h4>
     <a href='https://computerhoy.com/listas/tecnologia/mejores-ofertas-especiales-prime-amazon-1138103' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/ofertas-amazon-prime-octubre-2838405.jpg' alt='Estas son las mejores ofertas especiales para miembros Prime de Amazon' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/por-que-no-podemos-hacernos-cosquillas-nosotros-mismos-1138471'>El misterio de por qué no podemos hacernos cosquillas a nosotros mismos, desvelado por unos neurocientíficos</a></h4>
-    <a href='https://computerhoy.com/noticias/life/por-que-no-podemos-hacernos-cosquillas-nosotros-mismos-1138471' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/misterio-no-podemos-hacernos-cosquillas-nosotros-mismos-desvelado-neurocientificos-2838875.jpg' alt='El misterio de por qué no podemos hacernos cosquillas a nosotros mismos, desvelado por unos neurocientíficos' />
     </a>
 </div>
 
