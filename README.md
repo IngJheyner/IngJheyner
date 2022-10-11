@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/estos-son-fallos-ethereum-bitcoin-creador-cardano-1138681'>Estos son los fallos de Ethereum y Bitcoin, según el creador de Cardano</a></h4>
+    <a href='https://computerhoy.com/noticias/estos-son-fallos-ethereum-bitcoin-creador-cardano-1138681' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/estos-son-fallos-ethereum-bitcoin-creador-cardano-2839421.jpg' alt='Estos son los fallos de Ethereum y Bitcoin, según el creador de Cardano' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/garmin-fenix-6x-pro-reloj-ideal-runners-llega-franja-300-euros-1137939'>Garmin Fenix 6X Pro: el reloj ideal para runners llega a la franja de 300 euros</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/garmin-fenix-6x-pro-reloj-ideal-runners-llega-franja-300-euros-1137939' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/garmin-fenix-6x-pro-2503237.jpg' alt='Garmin Fenix 6X Pro: el reloj ideal para runners llega a la franja de 300 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/patrocinado/tecnologia/xiaomi-12t-series-fotografia-200mp-cambia-juego-1136249'>Xiaomi 12T Series: la fotografía de 200 Mpx cambia el juego </a></h4>
+    <a href='https://computerhoy.com/patrocinado/tecnologia/xiaomi-12t-series-fotografia-200mp-cambia-juego-1136249' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/xiaomi-12t-pro-negro-2834927.jpg' alt='Xiaomi 12T Series: la fotografía de 200 Mpx cambia el juego ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/caldera-hidrogeno-quiero-no-puedo-como-alternativa-gas-ruso-1138649'>Caldera de hidrógeno, un quiero y no puedo como alternativa al gas ruso</a></h4>
+    <a href='https://computerhoy.com/noticias/caldera-hidrogeno-quiero-no-puedo-como-alternativa-gas-ruso-1138649' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/caldera-hidrogeno-quiero-no-puedo-como-alternativa-gas-ruso-2839281.jpg' alt='Caldera de hidrógeno, un quiero y no puedo como alternativa al gas ruso' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/directo-amazon-prime-day-octubre-mejores-ofertas-1138091'>En directo el Amazon Prime Day de octubre: sigue las mejores ofertas</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/directo-amazon-prime-day-octubre-mejores-ofertas-1138091' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/ofertas-prime-day-octubre-directo-2838323.jpg' alt='En directo el Amazon Prime Day de octubre: sigue las mejores ofertas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/nuevo-chip-mediatek-traera-camaras-200-mpx-smartphones-gama-media-1138617'>El nuevo chip de MediaTek traerá las cámaras de 200 Mpx a los smartphones de gama media</a></h4>
-    <a href='https://computerhoy.com/noticias/nuevo-chip-mediatek-traera-camaras-200-mpx-smartphones-gama-media-1138617' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/mediatek-dimensity-2839231.jpg' alt='El nuevo chip de MediaTek traerá las cámaras de 200 Mpx a los smartphones de gama media' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/moviles-baratos-ofertas-especiales-amazon-prime-1138525'>10 móviles más baratos de lo normal durante las ofertas especiales de Amazon Prime</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/moviles-baratos-ofertas-especiales-amazon-prime-1138525' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/analisis-pixel-6a-2765509.jpg' alt='10 móviles más baratos de lo normal durante las ofertas especiales de Amazon Prime' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/youtube-pone-marcha-alias-unicos-creadores-contenidos-puro-estilo-instagram-1138619'>YouTube pone marcha los "alias" únicos para los creadores de contenidos al puro estilo Twitter</a></h4>
-    <a href='https://computerhoy.com/noticias/youtube-pone-marcha-alias-unicos-creadores-contenidos-puro-estilo-instagram-1138619' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/youtube-pone-marcha-alias-unicos-creadores-contenidos-puro-estilo-twitter-2839219.jpg' alt='YouTube pone marcha los "alias" únicos para los creadores de contenidos al puro estilo Twitter' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/desarrollan-sistema-hace-motores-diesel-contaminen-igual-coche-electrico-1138557'>Desarrollan un sistema que hace que los motores diésel contaminen igual que un coche eléctrico</a></h4>
-    <a href='https://computerhoy.com/noticias/desarrollan-sistema-hace-motores-diesel-contaminen-igual-coche-electrico-1138557' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/01/japon-anuncia-fin-coches-gasolina-diesel-2188245.jpg' alt='Desarrollan un sistema que hace que los motores diésel contaminen igual que un coche eléctrico' />
     </a>
 </div>
 
