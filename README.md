@@ -50,17 +50,9 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/pixel-6-vs-pixel-7-deberias-hacer-cambio-1138723'>Pixel 6 vs. Pixel 7: ¿deberías hacer el cambio?</a></h4>
-    <a href='https://computerhoy.com/noticias/pixel-6-vs-pixel-7-deberias-hacer-cambio-1138723' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/pixel-6-vs-pixel-7-deberias-hacer-cambio-2839435.jpg' alt='Pixel 6 vs. Pixel 7: ¿deberías hacer el cambio?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/cecotec-entra-lleno-mundo-tvs-1138755'>Cecotec entra de lleno en el mundo de las TVs</a></h4>
-    <a href='https://computerhoy.com/noticias/cecotec-entra-lleno-mundo-tvs-1138755' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/cecotec-entra-lleno-mundo-tvs-2839515.jpg' alt='Cecotec entra de lleno en el mundo de las TVs' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/samsung-windows-11-portatil-solo-539-euros-ofertas-estrella-prime-day-octubre-1138185'>Samsung y Windows 11: este portátil de solo 539 euros, una de las ofertas estrella del Prime Day de octubre</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/samsung-windows-11-portatil-solo-539-euros-ofertas-estrella-prime-day-octubre-1138185' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/samsung-galaxy-book-2315975.jpg' alt='Samsung y Windows 11: este portátil de solo 539 euros, una de las ofertas estrella del Prime Day de octubre' />
     </a>
 </div>
 
@@ -74,17 +66,25 @@
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/cual-tiempo-vida-util-paneles-solares-1138753'>¿Cuál es el tiempo de vida útil de los paneles solares?</a></h4>
-    <a href='https://computerhoy.com/noticias/cual-tiempo-vida-util-paneles-solares-1138753' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/paneles-solares-2785047.jpg' alt='¿Cuál es el tiempo de vida útil de los paneles solares?' />
+    <h4><a href='https://computerhoy.com/noticias/cual-mejor-forma-ver-tdt-gratis-movil-tivify-tdtchannels-1138779'>Cuál es la mejor forma de ver la TDT gratis en el móvil: ¿Tivify o TDTChannels?</a></h4>
+    <a href='https://computerhoy.com/noticias/cual-mejor-forma-ver-tdt-gratis-movil-tivify-tdtchannels-1138779' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/04/como-ver-canales-hd-no-estan-tdt_6.jpg' alt='Cuál es la mejor forma de ver la TDT gratis en el móvil: ¿Tivify o TDTChannels?' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/freidora-aceite-top-ventas-apunta-nuevo-prime-day-rebaja-1137971'>La freidora sin aceite top ventas se apunta al nuevo Prime Day con una rebaja</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/freidora-aceite-top-ventas-apunta-nuevo-prime-day-rebaja-1137971' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/freidora-aire-cosori-2623409.jpg' alt='La freidora sin aceite top ventas se apunta al nuevo Prime Day con una rebaja' />
+    <h4><a href='https://computerhoy.com/noticias/moto-g72-ya-espana-1138793'>El Moto G72 de Motorola ya está en España: una gran cámara de 108 Mpx a un precio muy comedido</a></h4>
+    <a href='https://computerhoy.com/noticias/moto-g72-ya-espana-1138793' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/moto-g72-motorola-ya-espana-gran-camara-108-mpx-precio-muy-comedido-2839583.jpg' alt='El Moto G72 de Motorola ya está en España: una gran cámara de 108 Mpx a un precio muy comedido' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/pixel-6-vs-pixel-7-deberias-hacer-cambio-1138723'>Pixel 6 vs. Pixel 7: ¿deberías hacer el cambio?</a></h4>
+    <a href='https://computerhoy.com/noticias/pixel-6-vs-pixel-7-deberias-hacer-cambio-1138723' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/pixel-6-vs-pixel-7-deberias-hacer-cambio-2839435.jpg' alt='Pixel 6 vs. Pixel 7: ¿deberías hacer el cambio?' />
     </a>
 </div>
 
