@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/analisis/gaming/nvidia-rtx-4090-analisis-opinion-1136425'>NVIDIA RTX 4090 Founders Edition, análisis y opinión</a></h4>
+    <a href='https://computerhoy.com/analisis/gaming/nvidia-rtx-4090-analisis-opinion-1136425' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/nvidia-rtx-4090-2835441.jpg' alt='NVIDIA RTX 4090 Founders Edition, análisis y opinión' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/conduce-todo-mundo-salir-casa-google-maps-driving-simulator-995003'>Conduce por todo el mundo sin salir de tu casa en Google Maps con Driving Simulator</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/conduce-todo-mundo-salir-casa-google-maps-driving-simulator-995003' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/conduce-todo-mundo-salir-casa-google-maps-driving-simulator-2585243.jpg' alt='Conduce por todo el mundo sin salir de tu casa en Google Maps con Driving Simulator' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/taxi-volador-te-lleva-casa-aeropuerto-realidad-1138691'>El taxi volador que te lleva de casa al aeropuerto es una realidad</a></h4>
+    <a href='https://computerhoy.com/noticias/taxi-volador-te-lleva-casa-aeropuerto-realidad-1138691' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/taxi-volador-2839437.jpg' alt='El taxi volador que te lleva de casa al aeropuerto es una realidad' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/estos-son-fallos-ethereum-bitcoin-creador-cardano-1138681'>Estos son los fallos de Ethereum y Bitcoin, según el creador de Cardano</a></h4>
     <a href='https://computerhoy.com/noticias/estos-son-fallos-ethereum-bitcoin-creador-cardano-1138681' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/estos-son-fallos-ethereum-bitcoin-creador-cardano-2839421.jpg' alt='Estos son los fallos de Ethereum y Bitcoin, según el creador de Cardano' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/garmin-fenix-6x-pro-reloj-ideal-runners-llega-franja-300-euros-1137939'>Garmin Fenix 6X Pro: el reloj ideal para runners llega a la franja de 300 euros</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/garmin-fenix-6x-pro-reloj-ideal-runners-llega-franja-300-euros-1137939' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/garmin-fenix-6x-pro-2503237.jpg' alt='Garmin Fenix 6X Pro: el reloj ideal para runners llega a la franja de 300 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/patrocinado/tecnologia/xiaomi-12t-series-fotografia-200mp-cambia-juego-1136249'>Xiaomi 12T Series: la fotografía de 200 Mpx cambia el juego </a></h4>
-    <a href='https://computerhoy.com/patrocinado/tecnologia/xiaomi-12t-series-fotografia-200mp-cambia-juego-1136249' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/xiaomi-12t-pro-negro-2834927.jpg' alt='Xiaomi 12T Series: la fotografía de 200 Mpx cambia el juego ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/caldera-hidrogeno-quiero-no-puedo-como-alternativa-gas-ruso-1138649'>Caldera de hidrógeno, un quiero y no puedo como alternativa al gas ruso</a></h4>
-    <a href='https://computerhoy.com/noticias/caldera-hidrogeno-quiero-no-puedo-como-alternativa-gas-ruso-1138649' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/caldera-hidrogeno-quiero-no-puedo-como-alternativa-gas-ruso-2839281.jpg' alt='Caldera de hidrógeno, un quiero y no puedo como alternativa al gas ruso' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/directo-amazon-prime-day-octubre-mejores-ofertas-1138091'>En directo el Amazon Prime Day de octubre: sigue las mejores ofertas</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/directo-amazon-prime-day-octubre-mejores-ofertas-1138091' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/ofertas-prime-day-octubre-directo-2838323.jpg' alt='En directo el Amazon Prime Day de octubre: sigue las mejores ofertas' />
     </a>
 </div>
 
