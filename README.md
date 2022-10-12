@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/bmw-consola-airconsole-jugar-coche-1139237'>Los vehículos BMW tendrán su propia consola AirConsole integrada, más de 200 juegos para jugar en el coche</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/bmw-consola-airconsole-jugar-coche-1139237' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/BMWanunciaAirConsolemasde200juegosparajugarenelcocheconayudadelmovil_166558157837213686.jpg' alt='Los vehículos BMW tendrán su propia consola AirConsole integrada, más de 200 juegos para jugar en el coche' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/mision-dart-asteroide-dimorphos-exito-1139231'>Exito absoluto: la nave de la misión DART que la NASA estrelló contra el asteroide Dimorphos, desvió su trayectoria</a></h4>
+    <a href='https://computerhoy.com/noticias/life/mision-dart-asteroide-dimorphos-exito-1139231' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/ExitoabsolutolanavedelamisionDARTquelaNASAestrellocontraelasteroideDimorfodesviosutrayectoria_16655780949638256.jpg' alt='Exito absoluto: la nave de la misión DART que la NASA estrelló contra el asteroide Dimorphos, desvió su trayectoria' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/amazon-hunde-precio-movil-google-arrasa-ventas-ofertas-prime-auriculares-regalo-1138613'>Amazon hunde el precio del móvil Google que arrasa en ventas en sus ofertas Prime ¡y con auriculares de regalo!</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/amazon-hunde-precio-movil-google-arrasa-ventas-ofertas-prime-auriculares-regalo-1138613' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/analisis-pixel-6a-2765529.jpg' alt='Amazon hunde el precio del móvil Google que arrasa en ventas en sus ofertas Prime ¡y con auriculares de regalo!' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-crear-firma-personalizada-correos-gmail-1074019'>Cómo crear una firma personalizada para tus correos de Gmail</a></h4>
     <a href='https://computerhoy.com/tutoriales/tecnologia/como-crear-firma-personalizada-correos-gmail-1074019' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/06/gmail.jpg' alt='Cómo crear una firma personalizada para tus correos de Gmail' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/cuantas-temporadas-tendra-la-casa-dragon-george-rr-martin-1139187'>George R.R. Martin revela cuántas temporadas tendrá, como mínimo, La Casa del Dragón</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/cuantas-temporadas-tendra-la-casa-dragon-george-rr-martin-1139187' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/casa-dragon-2835353.jpg' alt='George R.R. Martin revela cuántas temporadas tendrá, como mínimo, La Casa del Dragón' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/robot-aspirador-vacia-solo-ahora-ha-quedado-precio-brutal-amazon-1138007'>Este robot aspirador se vacía solo y ahora ha quedado a un precio brutal en Amazon</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/robot-aspirador-vacia-solo-ahora-ha-quedado-precio-brutal-amazon-1138007' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/conga-2290-2836881.jpg' alt='Este robot aspirador se vacía solo y ahora ha quedado a un precio brutal en Amazon' />
     </a>
 </div>
 
