@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/5-alimentos-te-hacen-sentir-feliz-ciencia-1138897'>5 alimentos que te hacen sentir más feliz, según la ciencia</a></h4>
+    <a href='https://computerhoy.com/noticias/life/5-alimentos-te-hacen-sentir-feliz-ciencia-1138897' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/5-comidas-te-hacen-sentir-feliz-ciencia-2839921.jpg' alt='5 alimentos que te hacen sentir más feliz, según la ciencia' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/motor/consumo-coches-electricos-proximas-decadas-1138895'>La red eléctrica mundial sí podrá dar soporte a los coches eléctricos en las próximas décadas, según un informe de BloombergNEF</a></h4>
     <a href='https://computerhoy.com/noticias/motor/consumo-coches-electricos-proximas-decadas-1138895' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/cargadores-coche-electrico-2547745.jpg' alt='La red eléctrica mundial sí podrá dar soporte a los coches eléctricos en las próximas décadas, según un informe de BloombergNEF' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/garmin-forerunner-245-reloj-running-descuento-1138879'>Garmin Forerunner 245, uno de los relojes más usados por los runners, baja a 159 euros</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/garmin-forerunner-245-reloj-running-descuento-1138879' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/garmin-forerunner-245-relojes-usados-gamers-baja-159-euros-2839871.jpg' alt='Garmin Forerunner 245, uno de los relojes más usados por los runners, baja a 159 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/piratas-informaticos-filtran-1-millon-tarjetas-credito-debes-comprobar-no-sea-1138873'>Piratas informáticos filtran más de 1 millón de tarjetas de crédito y debes comprobar que no sea la tuya</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/piratas-informaticos-filtran-1-millon-tarjetas-credito-debes-comprobar-no-sea-1138873' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/tarjetas-credito-2802137.jpg' alt='Piratas informáticos filtran más de 1 millón de tarjetas de crédito y debes comprobar que no sea la tuya' />
     </a>
 </div>
 
