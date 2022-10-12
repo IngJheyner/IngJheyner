@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/estas-son-ofertas-vendidas-primer-dia-amazon-prime-day-octubre-1138653'>Estas son las ofertas más vendidas en el primer día de Amazon Prime Day de octubre</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/estas-son-ofertas-vendidas-primer-dia-amazon-prime-day-octubre-1138653' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/mejores-ofertas-2839239.jpg' alt='Estas son las ofertas más vendidas en el primer día de Amazon Prime Day de octubre' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/guia-compra/smartwatch-hibrido-1115227'>Todo lo que debes saber antes de comprar un smartwatch híbrido</a></h4>
+    <a href='https://computerhoy.com/guia-compra/smartwatch-hibrido-1115227' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/smartwatch-hibridos-2796509.jpg' alt='Todo lo que debes saber antes de comprar un smartwatch híbrido' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/motor/primera-autocaravana-historia-ford-model-t-motor-caravan-1137339'>Un vistazo por dentro a la primera autocaravana de la historia, que cumple 108 años</a></h4>
     <a href='https://computerhoy.com/noticias/motor/primera-autocaravana-historia-ford-model-t-motor-caravan-1137339' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/vistazo-dentro-primera-autocaravana-historia-cumple-108-anos-2837169.jpg' alt='Un vistazo por dentro a la primera autocaravana de la historia, que cumple 108 años' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/moviles-xiaomi-ofertas-especiales-amazon-prime-day-1138507'>7 móviles Xiaomi buenos, bonitos y baratos durante las ofertas especiales de Amazon Prime Day</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/moviles-xiaomi-ofertas-especiales-amazon-prime-day-1138507' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/xiaomi-11t-5g-2518867.jpg' alt='7 móviles Xiaomi buenos, bonitos y baratos durante las ofertas especiales de Amazon Prime Day' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/5-alimentos-te-hacen-sentir-feliz-ciencia-1138897'>5 alimentos que te hacen sentir más feliz, según la ciencia</a></h4>
-    <a href='https://computerhoy.com/noticias/life/5-alimentos-te-hacen-sentir-feliz-ciencia-1138897' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/5-comidas-te-hacen-sentir-feliz-ciencia-2839921.jpg' alt='5 alimentos que te hacen sentir más feliz, según la ciencia' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/consumo-coches-electricos-proximas-decadas-1138895'>La red eléctrica mundial sí podrá dar soporte a los coches eléctricos en las próximas décadas, según un informe de BloombergNEF</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/consumo-coches-electricos-proximas-decadas-1138895' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/cargadores-coche-electrico-2547745.jpg' alt='La red eléctrica mundial sí podrá dar soporte a los coches eléctricos en las próximas décadas, según un informe de BloombergNEF' />
     </a>
 </div>
 
