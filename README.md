@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/listas/tecnologia/mejores-aplicaciones-realizar-grabaciones-musicales-profesionales-android-1119619'>Las mejores aplicaciones con las que realizar grabaciones musicales profesionales en Android</a></h4>
+    <a href='https://computerhoy.com/listas/tecnologia/mejores-aplicaciones-realizar-grabaciones-musicales-profesionales-android-1119619' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/mejores-aplicaciones-realizar-grabaciones-musicales-profesionales-android-2838619.jpg' alt='Las mejores aplicaciones con las que realizar grabaciones musicales profesionales en Android' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/surface-laptop-5-surface-studio-2-dos-pesos-pesados-microsoft-renuevan-otono-1138233'>Surface Laptop 5 y Surface Studio 2+, los dos pesos pesados de Microsoft se renuevan en otoño</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/surface-laptop-5-surface-studio-2-dos-pesos-pesados-microsoft-renuevan-otono-1138233' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/surface-laptop-5-surface-studio-2-2838581.jpg' alt='Surface Laptop 5 y Surface Studio 2+, los dos pesos pesados de Microsoft se renuevan en otoño' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/motor/bmw-consola-airconsole-jugar-coche-1139237'>Los vehículos BMW tendrán su propia consola AirConsole integrada, más de 200 juegos para jugar en el coche</a></h4>
     <a href='https://computerhoy.com/noticias/motor/bmw-consola-airconsole-jugar-coche-1139237' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/BMWanunciaAirConsolemasde200juegosparajugarenelcocheconayudadelmovil_166558157837213686.jpg' alt='Los vehículos BMW tendrán su propia consola AirConsole integrada, más de 200 juegos para jugar en el coche' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/mision-dart-asteroide-dimorphos-exito-1139231'>Exito absoluto: la nave de la misión DART que la NASA estrelló contra el asteroide Dimorphos, desvió su trayectoria</a></h4>
-    <a href='https://computerhoy.com/noticias/life/mision-dart-asteroide-dimorphos-exito-1139231' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/ExitoabsolutolanavedelamisionDARTquelaNASAestrellocontraelasteroideDimorfodesviosutrayectoria_16655780949638256.jpg' alt='Exito absoluto: la nave de la misión DART que la NASA estrelló contra el asteroide Dimorphos, desvió su trayectoria' />
     </a>
 </div>
 
