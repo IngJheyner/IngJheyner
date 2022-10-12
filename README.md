@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/amazon-hunde-precio-movil-google-arrasa-ventas-ofertas-prime-auriculares-regalo-1138613'>Amazon hunde el precio del móvil Google que arrasa en ventas en sus ofertas Prime ¡y con auriculares de regalo!</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/amazon-hunde-precio-movil-google-arrasa-ventas-ofertas-prime-auriculares-regalo-1138613' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/analisis-pixel-6a-2765529.jpg' alt='Amazon hunde el precio del móvil Google que arrasa en ventas en sus ofertas Prime ¡y con auriculares de regalo!' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/elon-musk-pone-venta-perfume-pelo-quemado-burnt-hair-1139207'>Elon Musk pone a la venta el perfume "Pelo Quemado" para hombre, y no es broma</a></h4>
+    <a href='https://computerhoy.com/noticias/life/elon-musk-pone-venta-perfume-pelo-quemado-burnt-hair-1139207' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/PeloquemadodeElonMusk_166557277268023084.jpg' alt='Elon Musk pone a la venta el perfume "Pelo Quemado" para hombre, y no es broma' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-crear-firma-personalizada-correos-gmail-1074019'>Cómo crear una firma personalizada para tus correos de Gmail</a></h4>
     <a href='https://computerhoy.com/tutoriales/tecnologia/como-crear-firma-personalizada-correos-gmail-1074019' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/06/gmail.jpg' alt='Cómo crear una firma personalizada para tus correos de Gmail' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/robot-aspirador-vacia-solo-ahora-ha-quedado-precio-brutal-amazon-1138007'>Este robot aspirador se vacía solo y ahora ha quedado a un precio brutal en Amazon</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/robot-aspirador-vacia-solo-ahora-ha-quedado-precio-brutal-amazon-1138007' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/conga-2290-2836881.jpg' alt='Este robot aspirador se vacía solo y ahora ha quedado a un precio brutal en Amazon' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/xiaomi-12-lite-review-opinion-1136279'>Xiaomi 12 Lite, análisis y opinión</a></h4>
-    <a href='https://computerhoy.com/analisis/xiaomi-12-lite-review-opinion-1136279' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/analisis-xiaomi-12-lite-2835837.jpg' alt='Xiaomi 12 Lite, análisis y opinión' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/gboard-teclado-oficial-google-actualiza-tablets-android-1139181'>Gboard, el teclado oficial de Google, se actualiza después de años para traer el teclado de PC a las tablets Android</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/gboard-teclado-oficial-google-actualiza-tablets-android-1139181' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/Gboard_16655671671007673.jpg' alt='Gboard, el teclado oficial de Google, se actualiza después de años para traer el teclado de PC a las tablets Android' />
     </a>
 </div>
 
