@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-crear-firma-personalizada-correos-gmail-1074019'>Cómo crear una firma personalizada para tus correos de Gmail</a></h4>
+    <a href='https://computerhoy.com/tutoriales/tecnologia/como-crear-firma-personalizada-correos-gmail-1074019' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/06/gmail.jpg' alt='Cómo crear una firma personalizada para tus correos de Gmail' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/cuantas-temporadas-tendra-la-casa-dragon-george-rr-martin-1139187'>George R.R. Martin revela cuántas temporadas tendrá, como mínimo, La Casa del Dragón</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/cuantas-temporadas-tendra-la-casa-dragon-george-rr-martin-1139187' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/casa-dragon-2835353.jpg' alt='George R.R. Martin revela cuántas temporadas tendrá, como mínimo, La Casa del Dragón' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/robot-aspirador-vacia-solo-ahora-ha-quedado-precio-brutal-amazon-1138007'>Este robot aspirador se vacía solo y ahora ha quedado a un precio brutal en Amazon</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/robot-aspirador-vacia-solo-ahora-ha-quedado-precio-brutal-amazon-1138007' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/conga-2290-2836881.jpg' alt='Este robot aspirador se vacía solo y ahora ha quedado a un precio brutal en Amazon' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/analisis/xiaomi-12-lite-review-opinion-1136279'>Xiaomi 12 Lite, análisis y opinión</a></h4>
+    <a href='https://computerhoy.com/analisis/xiaomi-12-lite-review-opinion-1136279' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/analisis-xiaomi-12-lite-2835837.jpg' alt='Xiaomi 12 Lite, análisis y opinión' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/gboard-teclado-oficial-google-actualiza-tablets-android-1139181'>Gboard, el teclado oficial de Google, se actualiza después de años para traer el teclado de PC a las tablets Android</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/gboard-teclado-oficial-google-actualiza-tablets-android-1139181' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/Gboard_16655671671007673.jpg' alt='Gboard, el teclado oficial de Google, se actualiza después de años para traer el teclado de PC a las tablets Android' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/audio-360-mejora-real-moda-pasajera-1134235'>Audio 360: ¿mejora real o una moda pasajera?</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/audio-360-mejora-real-moda-pasajera-1134235' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/sony-wh-1000xm4-2695203.jpg' alt='Audio 360: ¿mejora real o una moda pasajera?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/tiembla-garmin-huawei-watch-gt-runner-reloj-deportivo-sobresaliente-barato-toda-competencia-1138571'>Tiembla Garmin: el Huawei Watch GT Runner es un reloj deportivo sobresaliente y más barato que toda la competencia</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/tiembla-garmin-huawei-watch-gt-runner-reloj-deportivo-sobresaliente-barato-toda-competencia-1138571' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/huawei-watch-gt-runner-2600583.jpg' alt='Tiembla Garmin: el Huawei Watch GT Runner es un reloj deportivo sobresaliente y más barato que toda la competencia' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/wifi-como-funciona-versiones-consejos-mejorar-senal-1137959'>Qué es WiFi, cómo funciona, versiones y consejos para mejorar la señal</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/wifi-como-funciona-versiones-consejos-mejorar-senal-1137959' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/wifi-2839837.jpg' alt='Qué es WiFi, cómo funciona, versiones y consejos para mejorar la señal' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/estas-son-ofertas-vendidas-primer-dia-amazon-prime-day-octubre-1138653'>Estas son las ofertas más vendidas en el primer día de Amazon Prime Day de octubre</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/estas-son-ofertas-vendidas-primer-dia-amazon-prime-day-octubre-1138653' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/mejores-ofertas-2839239.jpg' alt='Estas son las ofertas más vendidas en el primer día de Amazon Prime Day de octubre' />
     </a>
 </div>
 
