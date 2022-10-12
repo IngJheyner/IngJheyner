@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/intel-despidos-miles-empleados-bajas-ventas-pc-1139269'>Intel despedirá a miles de empleados por las bajas ventas de PC, según Bloomberg</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/intel-despidos-miles-empleados-bajas-ventas-pc-1139269' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/InteldespediraamilesdeempleadosporlasbajasventasdePCsegunBloomberg_166559458269231614.jpg' alt='Intel despedirá a miles de empleados por las bajas ventas de PC, según Bloomberg' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/analisis/google-pixel-7-pro-review-opinion-1138829'>Google Pixel 7 Pro, análisis y opinión</a></h4>
+    <a href='https://computerhoy.com/analisis/google-pixel-7-pro-review-opinion-1138829' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/analisis-pixel-7-pro-2839685.jpg' alt='Google Pixel 7 Pro, análisis y opinión' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/microsoft-designer-editor-grafico-inteligencia-artificial-dall-e-1139255'>Microsoft Designer, el nuevo PowerPoint que integra la IA DALL-E para convertir texto en imágenes, gratis para todos</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/microsoft-designer-editor-grafico-inteligencia-artificial-dall-e-1139255' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/MicrosoftsesubealatendenciadecreaciondeimagenesIAconDesigner_166558944110623542.jpg' alt='Microsoft Designer, el nuevo PowerPoint que integra la IA DALL-E para convertir texto en imágenes, gratis para todos' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/surface-laptop-5-surface-studio-2-dos-pesos-pesados-microsoft-renuevan-otono-1138233'>Surface Laptop 5 y Surface Studio 2+, los dos pesos pesados de Microsoft se renuevan en otoño</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/surface-laptop-5-surface-studio-2-dos-pesos-pesados-microsoft-renuevan-otono-1138233' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/surface-laptop-5-surface-studio-2-2838581.jpg' alt='Surface Laptop 5 y Surface Studio 2+, los dos pesos pesados de Microsoft se renuevan en otoño' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/surface-pro-9-portatil-convertible-profesional-microsoft-renueva-redes-5g-1138219'>Surface Pro 9, el portátil convertible profesional de Microsoft se renueva con redes 5G</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/surface-pro-9-portatil-convertible-profesional-microsoft-renueva-redes-5g-1138219' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/surface-pro-9-2838571.jpg' alt='Surface Pro 9, el portátil convertible profesional de Microsoft se renueva con redes 5G' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-mejorar-calidad-imagen-juegos-antiguos-windows-reshade-1128151'>Cómo mejorar la calidad de imagen de juegos antiguos en Windows con ReShade</a></h4>
-    <a href='https://computerhoy.com/tutoriales/tecnologia/como-mejorar-calidad-imagen-juegos-antiguos-windows-reshade-1128151' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/cuanto-cuesta-jugar-hora-ps5-ps4-xbox-series-x-one-switch-nueva-tarifa-luz-2375505.jpg' alt='Cómo mejorar la calidad de imagen de juegos antiguos en Windows con ReShade' />
     </a>
 </div>
 
