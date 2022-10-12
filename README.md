@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/microsoft-designer-editor-grafico-inteligencia-artificial-dall-e-1139255'>Microsoft Designer, el nuevo PowerPoint que integra la IA DALL-E para convertir texto en imágenes, gratis para todos</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/microsoft-designer-editor-grafico-inteligencia-artificial-dall-e-1139255' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/MicrosoftsesubealatendenciadecreaciondeimagenesIAconDesigner_166558944110623542.jpg' alt='Microsoft Designer, el nuevo PowerPoint que integra la IA DALL-E para convertir texto en imágenes, gratis para todos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/listas/tecnologia/mejores-aplicaciones-realizar-grabaciones-musicales-profesionales-android-1119619'>Las mejores aplicaciones con las que realizar grabaciones musicales profesionales en Android</a></h4>
     <a href='https://computerhoy.com/listas/tecnologia/mejores-aplicaciones-realizar-grabaciones-musicales-profesionales-android-1119619' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/mejores-aplicaciones-realizar-grabaciones-musicales-profesionales-android-2838619.jpg' alt='Las mejores aplicaciones con las que realizar grabaciones musicales profesionales en Android' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-mejorar-calidad-imagen-juegos-antiguos-windows-reshade-1128151'>Cómo mejorar la calidad de imagen de juegos antiguos en Windows con ReShade</a></h4>
     <a href='https://computerhoy.com/tutoriales/tecnologia/como-mejorar-calidad-imagen-juegos-antiguos-windows-reshade-1128151' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/cuanto-cuesta-jugar-hora-ps5-ps4-xbox-series-x-one-switch-nueva-tarifa-luz-2375505.jpg' alt='Cómo mejorar la calidad de imagen de juegos antiguos en Windows con ReShade' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/bmw-consola-airconsole-jugar-coche-1139237'>Los vehículos BMW tendrán su propia consola AirConsole integrada, más de 200 juegos para jugar en el coche</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/bmw-consola-airconsole-jugar-coche-1139237' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/BMWanunciaAirConsolemasde200juegosparajugarenelcocheconayudadelmovil_166558157837213686.jpg' alt='Los vehículos BMW tendrán su propia consola AirConsole integrada, más de 200 juegos para jugar en el coche' />
     </a>
 </div>
 
