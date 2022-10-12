@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/adolescentes-estadounidenses-iphone-1139283'>El 87% de los adolescentes estadounidenses tienen un iPhone</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/adolescentes-estadounidenses-iphone-1139283' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/analisis-iphone-14-pro-2821753.jpg' alt='El 87% de los adolescentes estadounidenses tienen un iPhone' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/guia-compra/chimeneas-electricas-1137287'>Chimeneas eléctricas: todo lo que necesitas saber para comprar la mejor para ti</a></h4>
     <a href='https://computerhoy.com/guia-compra/chimeneas-electricas-1137287' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/chimenea-electrica-2836879.jpg' alt='Chimeneas eléctricas: todo lo que necesitas saber para comprar la mejor para ti' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/passkeys-android-chrome-google-contrasenas-1139275'>Google estrena las Passkeys en Android y Chrome para desterrar para siempre las contraseñas</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/passkeys-android-chrome-google-contrasenas-1139275' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/GoogleestrenalasPasskeysenAndroidyChromeparadesterrarparasiemprelascontrasenas_166559882477240622.jpg' alt='Google estrena las Passkeys en Android y Chrome para desterrar para siempre las contraseñas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/intel-despidos-miles-empleados-bajas-ventas-pc-1139269'>Intel despedirá a miles de empleados por las bajas ventas de PC, según Bloomberg</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/intel-despidos-miles-empleados-bajas-ventas-pc-1139269' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/InteldespediraamilesdeempleadosporlasbajasventasdePCsegunBloomberg_166559458269231614.jpg' alt='Intel despedirá a miles de empleados por las bajas ventas de PC, según Bloomberg' />
     </a>
 </div>
 
