@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/guia-compra/chimeneas-electricas-1137287'>Chimeneas eléctricas: todo lo que necesitas saber para comprar la mejor para ti</a></h4>
+    <a href='https://computerhoy.com/guia-compra/chimeneas-electricas-1137287' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/chimenea-electrica-2836879.jpg' alt='Chimeneas eléctricas: todo lo que necesitas saber para comprar la mejor para ti' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/android-auto-83-ya-disponible-usuarios-beta-incluye-importante-novedad-1139277'>Android Auto 8.3 ya está disponible para los usuarios beta e incluye esta importante novedad</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/android-auto-83-ya-disponible-usuarios-beta-incluye-importante-novedad-1139277' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/android-auto-2575823.jpg' alt='Android Auto 8.3 ya está disponible para los usuarios beta e incluye esta importante novedad' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/producto-mercadona-no-debes-consumir-ya-han-retirado-lineales-presencia-salmonela-1139271'>Este es el producto de Mercadona que no debes consumir y que ya han retirado de sus lineales por presencia de salmonela</a></h4>
+    <a href='https://computerhoy.com/noticias/life/producto-mercadona-no-debes-consumir-ya-han-retirado-lineales-presencia-salmonela-1139271' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/Mercadona_1665598702992476.jpg' alt='Este es el producto de Mercadona que no debes consumir y que ya han retirado de sus lineales por presencia de salmonela' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/passkeys-android-chrome-google-contrasenas-1139275'>Google estrena las Passkeys en Android y Chrome para desterrar para siempre las contraseñas</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/passkeys-android-chrome-google-contrasenas-1139275' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/GoogleestrenalasPasskeysenAndroidyChromeparadesterrarparasiemprelascontrasenas_166559882477240622.jpg' alt='Google estrena las Passkeys en Android y Chrome para desterrar para siempre las contraseñas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/intel-despidos-miles-empleados-bajas-ventas-pc-1139269'>Intel despedirá a miles de empleados por las bajas ventas de PC, según Bloomberg</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/intel-despidos-miles-empleados-bajas-ventas-pc-1139269' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/InteldespediraamilesdeempleadosporlasbajasventasdePCsegunBloomberg_166559458269231614.jpg' alt='Intel despedirá a miles de empleados por las bajas ventas de PC, según Bloomberg' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/google-pixel-7-pro-review-opinion-1138829'>Google Pixel 7 Pro, análisis y opinión</a></h4>
-    <a href='https://computerhoy.com/analisis/google-pixel-7-pro-review-opinion-1138829' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/analisis-pixel-7-pro-2839685.jpg' alt='Google Pixel 7 Pro, análisis y opinión' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/microsoft-designer-editor-grafico-inteligencia-artificial-dall-e-1139255'>Microsoft Designer, el nuevo PowerPoint que integra la IA DALL-E para convertir texto en imágenes, gratis para todos</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/microsoft-designer-editor-grafico-inteligencia-artificial-dall-e-1139255' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/MicrosoftsesubealatendenciadecreaciondeimagenesIAconDesigner_166558944110623542.jpg' alt='Microsoft Designer, el nuevo PowerPoint que integra la IA DALL-E para convertir texto en imágenes, gratis para todos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/listas/tecnologia/mejores-aplicaciones-realizar-grabaciones-musicales-profesionales-android-1119619'>Las mejores aplicaciones con las que realizar grabaciones musicales profesionales en Android</a></h4>
-    <a href='https://computerhoy.com/listas/tecnologia/mejores-aplicaciones-realizar-grabaciones-musicales-profesionales-android-1119619' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/mejores-aplicaciones-realizar-grabaciones-musicales-profesionales-android-2838619.jpg' alt='Las mejores aplicaciones con las que realizar grabaciones musicales profesionales en Android' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/surface-laptop-5-surface-studio-2-dos-pesos-pesados-microsoft-renuevan-otono-1138233'>Surface Laptop 5 y Surface Studio 2+, los dos pesos pesados de Microsoft se renuevan en otoño</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/surface-laptop-5-surface-studio-2-dos-pesos-pesados-microsoft-renuevan-otono-1138233' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/surface-laptop-5-surface-studio-2-2838581.jpg' alt='Surface Laptop 5 y Surface Studio 2+, los dos pesos pesados de Microsoft se renuevan en otoño' />
     </a>
 </div>
 
