@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/gboard-teclado-oficial-google-actualiza-tablets-android-1139181'>Gboard, el teclado oficial de Google, se actualiza después de años para traer el teclado de PC a las tablets Android</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/gboard-teclado-oficial-google-actualiza-tablets-android-1139181' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/Gboard_16655671671007673.jpg' alt='Gboard, el teclado oficial de Google, se actualiza después de años para traer el teclado de PC a las tablets Android' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/audio-360-mejora-real-moda-pasajera-1134235'>Audio 360: ¿mejora real o una moda pasajera?</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/audio-360-mejora-real-moda-pasajera-1134235' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/sony-wh-1000xm4-2695203.jpg' alt='Audio 360: ¿mejora real o una moda pasajera?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/tiembla-garmin-huawei-watch-gt-runner-reloj-deportivo-sobresaliente-barato-toda-competencia-1138571'>Tiembla Garmin: el Huawei Watch GT Runner es un reloj deportivo sobresaliente y más barato que toda la competencia</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/tiembla-garmin-huawei-watch-gt-runner-reloj-deportivo-sobresaliente-barato-toda-competencia-1138571' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/huawei-watch-gt-runner-2600583.jpg' alt='Tiembla Garmin: el Huawei Watch GT Runner es un reloj deportivo sobresaliente y más barato que toda la competencia' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/estas-son-ofertas-vendidas-primer-dia-amazon-prime-day-octubre-1138653'>Estas son las ofertas más vendidas en el primer día de Amazon Prime Day de octubre</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/estas-son-ofertas-vendidas-primer-dia-amazon-prime-day-octubre-1138653' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/mejores-ofertas-2839239.jpg' alt='Estas son las ofertas más vendidas en el primer día de Amazon Prime Day de octubre' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/guia-compra/smartwatch-hibrido-1115227'>Todo lo que debes saber antes de comprar un smartwatch híbrido</a></h4>
-    <a href='https://computerhoy.com/guia-compra/smartwatch-hibrido-1115227' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/smartwatch-hibridos-2796509.jpg' alt='Todo lo que debes saber antes de comprar un smartwatch híbrido' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/primera-autocaravana-historia-ford-model-t-motor-caravan-1137339'>Un vistazo por dentro a la primera autocaravana de la historia, que cumple 108 años</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/primera-autocaravana-historia-ford-model-t-motor-caravan-1137339' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/vistazo-dentro-primera-autocaravana-historia-cumple-108-anos-2837169.jpg' alt='Un vistazo por dentro a la primera autocaravana de la historia, que cumple 108 años' />
     </a>
 </div>
 
