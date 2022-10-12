@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/primera-autocaravana-historia-ford-model-t-motor-caravan-1137339'>Un vistazo por dentro a la primera autocaravana de la historia, que cumple 108 años</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/primera-autocaravana-historia-ford-model-t-motor-caravan-1137339' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/vistazo-dentro-primera-autocaravana-historia-cumple-108-anos-2837169.jpg' alt='Un vistazo por dentro a la primera autocaravana de la historia, que cumple 108 años' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/28-noticias-tecnologia-comenzar-manana-informado-ultimo-1139135'>28 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/28-noticias-tecnologia-comenzar-manana-informado-ultimo-1139135' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/Noticias_1665543337827401.jpg' alt='28 noticias de tecnología para comenzar la mañana informado de lo último' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/moviles-xiaomi-ofertas-especiales-amazon-prime-day-1138507'>7 móviles Xiaomi buenos, bonitos y baratos durante las ofertas especiales de Amazon Prime Day</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/moviles-xiaomi-ofertas-especiales-amazon-prime-day-1138507' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/xiaomi-11t-5g-2518867.jpg' alt='7 móviles Xiaomi buenos, bonitos y baratos durante las ofertas especiales de Amazon Prime Day' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/5-alimentos-te-hacen-sentir-feliz-ciencia-1138897'>5 alimentos que te hacen sentir más feliz, según la ciencia</a></h4>
     <a href='https://computerhoy.com/noticias/life/5-alimentos-te-hacen-sentir-feliz-ciencia-1138897' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/5-comidas-te-hacen-sentir-feliz-ciencia-2839921.jpg' alt='5 alimentos que te hacen sentir más feliz, según la ciencia' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/motor/consumo-coches-electricos-proximas-decadas-1138895'>La red eléctrica mundial sí podrá dar soporte a los coches eléctricos en las próximas décadas, según un informe de BloombergNEF</a></h4>
     <a href='https://computerhoy.com/noticias/motor/consumo-coches-electricos-proximas-decadas-1138895' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/cargadores-coche-electrico-2547745.jpg' alt='La red eléctrica mundial sí podrá dar soporte a los coches eléctricos en las próximas décadas, según un informe de BloombergNEF' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/meta-quest-pro-precio-fecha-lanzamiento-1138891'>Meta presenta las gafas de realidad virtual y mixta Quest Pro, una nueva entrada al Metaverso por 1.800 euros</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/meta-quest-pro-precio-fecha-lanzamiento-1138891' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/verticalimage1665518719798-2839903.jpg' alt='Meta presenta las gafas de realidad virtual y mixta Quest Pro, una nueva entrada al Metaverso por 1.800 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/acer-chromebook-516-ge-chromebook-hecho-jugar-videojuegos-1138875'>Acer Chromebook 516 GE: así es el Chromebook hecho para jugar a videojuegos</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/acer-chromebook-516-ge-chromebook-hecho-jugar-videojuegos-1138875' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/acer-chromebook-516-ge-chromebook-hecho-jugar-videojuegos-2839855.jpg' alt='Acer Chromebook 516 GE: así es el Chromebook hecho para jugar a videojuegos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/garmin-forerunner-245-reloj-running-descuento-1138879'>Garmin Forerunner 245, uno de los relojes más usados por los runners, baja a 159 euros</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/garmin-forerunner-245-reloj-running-descuento-1138879' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/garmin-forerunner-245-relojes-usados-gamers-baja-159-euros-2839871.jpg' alt='Garmin Forerunner 245, uno de los relojes más usados por los runners, baja a 159 euros' />
     </a>
 </div>
 
