@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/tiembla-garmin-huawei-watch-gt-runner-reloj-deportivo-sobresaliente-barato-toda-competencia-1138571'>Tiembla Garmin: el Huawei Watch GT Runner es un reloj deportivo sobresaliente y más barato que toda la competencia</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/tiembla-garmin-huawei-watch-gt-runner-reloj-deportivo-sobresaliente-barato-toda-competencia-1138571' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/huawei-watch-gt-runner-2600583.jpg' alt='Tiembla Garmin: el Huawei Watch GT Runner es un reloj deportivo sobresaliente y más barato que toda la competencia' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/wifi-como-funciona-versiones-consejos-mejorar-senal-1137959'>Qué es WiFi, cómo funciona, versiones y consejos para mejorar la señal</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/wifi-como-funciona-versiones-consejos-mejorar-senal-1137959' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/wifi-2839837.jpg' alt='Qué es WiFi, cómo funciona, versiones y consejos para mejorar la señal' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/estas-son-ofertas-vendidas-primer-dia-amazon-prime-day-octubre-1138653'>Estas son las ofertas más vendidas en el primer día de Amazon Prime Day de octubre</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/estas-son-ofertas-vendidas-primer-dia-amazon-prime-day-octubre-1138653' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/mejores-ofertas-2839239.jpg' alt='Estas son las ofertas más vendidas en el primer día de Amazon Prime Day de octubre' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/motor/primera-autocaravana-historia-ford-model-t-motor-caravan-1137339'>Un vistazo por dentro a la primera autocaravana de la historia, que cumple 108 años</a></h4>
     <a href='https://computerhoy.com/noticias/motor/primera-autocaravana-historia-ford-model-t-motor-caravan-1137339' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/vistazo-dentro-primera-autocaravana-historia-cumple-108-anos-2837169.jpg' alt='Un vistazo por dentro a la primera autocaravana de la historia, que cumple 108 años' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/28-noticias-tecnologia-comenzar-manana-informado-ultimo-1139135'>28 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/28-noticias-tecnologia-comenzar-manana-informado-ultimo-1139135' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/Noticias_1665543337827401.jpg' alt='28 noticias de tecnología para comenzar la mañana informado de lo último' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/moviles-xiaomi-ofertas-especiales-amazon-prime-day-1138507'>7 móviles Xiaomi buenos, bonitos y baratos durante las ofertas especiales de Amazon Prime Day</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/moviles-xiaomi-ofertas-especiales-amazon-prime-day-1138507' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/xiaomi-11t-5g-2518867.jpg' alt='7 móviles Xiaomi buenos, bonitos y baratos durante las ofertas especiales de Amazon Prime Day' />
     </a>
 </div>
 
