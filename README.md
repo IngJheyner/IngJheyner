@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/listas/tecnologia/mejores-aplicaciones-android-llevar-diario-registros-cada-dia-1119603'>Las mejores aplicaciones Android para llevar un diario con los registros de cada día</a></h4>
+    <a href='https://computerhoy.com/listas/tecnologia/mejores-aplicaciones-android-llevar-diario-registros-cada-dia-1119603' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/mejores-aplicaciones-android-llevar-diario-registros-cada-dia-2838649.jpg' alt='Las mejores aplicaciones Android para llevar un diario con los registros de cada día' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/xiaomi-echa-cierre-servicio-exclusivo-telefonos-estas-son-mejores-alternativas-1139853'>Xiaomi echa el cierre a un servicio exclusivo de sus teléfonos: estas son las mejores alternativas</a></h4>
     <a href='https://computerhoy.com/noticias/xiaomi-echa-cierre-servicio-exclusivo-telefonos-estas-son-mejores-alternativas-1139853' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/xiaomi-12t-xiaomi-12t-pro-2829151.jpg' alt='Xiaomi echa el cierre a un servicio exclusivo de sus teléfonos: estas son las mejores alternativas' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/los-anillos-de-poder-temporada-dos-1139865'>Acaba la primera temporada de Los Anillos de Poder, ¿esperaremos uno o dos años?</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/los-anillos-de-poder-temporada-dos-1139865' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/anillos-poder-1x04-2815611.jpg' alt='Acaba la primera temporada de Los Anillos de Poder, ¿esperaremos uno o dos años?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/popular-producto-ahora-mismo-no-facil-encontrar-mercadona-1139863'>Este es el popular producto que ahora mismo no es fácil de encontrar en Mercadona</a></h4>
-    <a href='https://computerhoy.com/noticias/life/popular-producto-ahora-mismo-no-facil-encontrar-mercadona-1139863' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/leche-supermercado-2842407.jpg' alt='Este es el popular producto que ahora mismo no es fácil de encontrar en Mercadona' />
     </a>
 </div>
 
