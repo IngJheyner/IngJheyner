@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/xiaomi-echa-cierre-servicio-exclusivo-telefonos-estas-son-mejores-alternativas-1139853'>Xiaomi echa el cierre a un servicio exclusivo de sus teléfonos: estas son las mejores alternativas</a></h4>
+    <a href='https://computerhoy.com/noticias/xiaomi-echa-cierre-servicio-exclusivo-telefonos-estas-son-mejores-alternativas-1139853' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/xiaomi-12t-xiaomi-12t-pro-2829151.jpg' alt='Xiaomi echa el cierre a un servicio exclusivo de sus teléfonos: estas son las mejores alternativas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/televisor-xiaomi-tv-a2-4k-50-pulgadas-dolby-vision-oferta-1139875'>Para ver las series y películas como se merecen: televisor Xiaomi TV A2 4K de 50 pulgadas con Dolby Vision, solo 449 euros</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/televisor-xiaomi-tv-a2-4k-50-pulgadas-dolby-vision-oferta-1139875' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/ver-series-peliculas-como-merecen-televisor-xiaomi-tv-a2-50-pulgadas-resolucion-4k-dolby-vision-solo-449-euros-2842423.jpg' alt='Para ver las series y películas como se merecen: televisor Xiaomi TV A2 4K de 50 pulgadas con Dolby Vision, solo 449 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/google-pixel-7-esconde-secreto-puede-acabar-dual-sim-tal-como-conocemos-1139833'>El Google Pixel 7 esconde un secreto que puede acabar con el Dual SIM tal y como lo conocemos</a></h4>
     <a href='https://computerhoy.com/noticias/google-pixel-7-esconde-secreto-puede-acabar-dual-sim-tal-como-conocemos-1139833' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/google-pixel-7-pro-2838091.jpg' alt='El Google Pixel 7 esconde un secreto que puede acabar con el Dual SIM tal y como lo conocemos' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/popular-producto-ahora-mismo-no-facil-encontrar-mercadona-1139863'>Este es el popular producto que ahora mismo no es fácil de encontrar en Mercadona</a></h4>
     <a href='https://computerhoy.com/noticias/life/popular-producto-ahora-mismo-no-facil-encontrar-mercadona-1139863' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/leche-supermercado-2842407.jpg' alt='Este es el popular producto que ahora mismo no es fácil de encontrar en Mercadona' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/estos-coches-van-poder-circular-ciudades-pegatina-medioambiental-1139861'>Estos coches van a poder circular por las ciudades sin pegatina medioambiental</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/estos-coches-van-poder-circular-ciudades-pegatina-medioambiental-1139861' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/08/pegatinas-dgt-2042253.jpg' alt='Estos coches van a poder circular por las ciudades sin pegatina medioambiental' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/suscripcion-barata-anuncios-netflix-ya-tiene-fecha-precio-espana-llegara-10-noviembre-1139841'>La suscripción barata con anuncios de Netflix ya tiene fecha y precio en España: llegará el 10 de noviembre</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/suscripcion-barata-anuncios-netflix-ya-tiene-fecha-precio-espana-llegara-10-noviembre-1139841' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/ilustracion-netflix-2829815.jpg' alt='La suscripción barata con anuncios de Netflix ya tiene fecha y precio en España: llegará el 10 de noviembre' />
     </a>
 </div>
 
