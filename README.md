@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/netflix-apuesta-series-1000-episodios-ultimos-tres-meses-1139611'>Netflix y su apuesta por las series: más de 1.000 episodios en los últimos tres meses</a></h4>
+    <a href='https://computerhoy.com/noticias/netflix-apuesta-series-1000-episodios-ultimos-tres-meses-1139611' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/netflix-app-2767547.jpg' alt='Netflix y su apuesta por las series: más de 1.000 episodios en los últimos tres meses' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/ipad-apple-oferta-justo-tiempo-navidad-nuevo-precio-espana-1139539'>El iPad de Apple, en oferta justo a tiempo para Navidad: de nuevo a su precio más bajo en España</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/ipad-apple-oferta-justo-tiempo-navidad-nuevo-precio-espana-1139539' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/apple-ipad-9a-generacion-analisis-opinion-2562507.jpg' alt='El iPad de Apple, en oferta justo a tiempo para Navidad: de nuevo a su precio más bajo en España' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/snapchat-ya-tiene-filtros-probar-como-te-queda-ropa-1139573'>Snapchat ya tiene filtros para probar cómo te queda la ropa</a></h4>
     <a href='https://computerhoy.com/noticias/snapchat-ya-tiene-filtros-probar-como-te-queda-ropa-1139573' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/snapchat-ya-tiene-filtros-probar-como-te-queda-ropa-2841883.jpg' alt='Snapchat ya tiene filtros para probar cómo te queda la ropa' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/exoesqueleto-consigue-andes-40-rapido-esfuerzo-extra-1139579'>El exoesqueleto que consigue que andes un 40 % más rápido sin esfuerzo extra</a></h4>
     <a href='https://computerhoy.com/noticias/exoesqueleto-consigue-andes-40-rapido-esfuerzo-extra-1139579' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/piernas-robot-2841907.jpg' alt='El exoesqueleto que consigue que andes un 40 % más rápido sin esfuerzo extra' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/funcionara-archivar-aplicaciones-android-nuevo-metodo-ahorrar-espacio-borrar-app-1139543'>Así funcionará Archivar Aplicaciones en Android, nuevo método para ahorrar espacio sin borrar una app</a></h4>
-    <a href='https://computerhoy.com/noticias/funcionara-archivar-aplicaciones-android-nuevo-metodo-ahorrar-espacio-borrar-app-1139543' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/telefono-movil-android-pantalla-encendida-2775373.jpg' alt='Así funcionará Archivar Aplicaciones en Android, nuevo método para ahorrar espacio sin borrar una app' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/realme-10-pro-5g-1139551'>El nuevo realme 10 Pro+ 5G ya en desarrollo con un posible SoC MediaTek Dimensity 1080 bajo el capó</a></h4>
-    <a href='https://computerhoy.com/noticias/realme-10-pro-5g-1139551' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/realme-9-pro-analisis-opinion-2618117.jpg' alt='El nuevo realme 10 Pro+ 5G ya en desarrollo con un posible SoC MediaTek Dimensity 1080 bajo el capó' />
     </a>
 </div>
 
