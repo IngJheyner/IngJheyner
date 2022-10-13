@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/microsoft-office-desaparece-microsoft-365-1139887'>Después de 30 años, Office desaparece para siempre: Microsoft le cambia el nombre</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/microsoft-office-desaparece-microsoft-365-1139887' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/despues-30-anos-office-nos-dice-adios-microsoft-cambia-nombre-2842485.jpg' alt='Después de 30 años, Office desaparece para siempre: Microsoft le cambia el nombre' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/listas/tecnologia/mejores-aplicaciones-android-llevar-diario-registros-cada-dia-1119603'>Las mejores aplicaciones Android para llevar un diario con los registros de cada día</a></h4>
     <a href='https://computerhoy.com/listas/tecnologia/mejores-aplicaciones-android-llevar-diario-registros-cada-dia-1119603' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/mejores-aplicaciones-android-llevar-diario-registros-cada-dia-2838649.jpg' alt='Las mejores aplicaciones Android para llevar un diario con los registros de cada día' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/google-pixel-7-esconde-secreto-puede-acabar-dual-sim-tal-como-conocemos-1139833'>El Google Pixel 7 esconde un secreto que puede acabar con el Dual SIM tal y como lo conocemos</a></h4>
     <a href='https://computerhoy.com/noticias/google-pixel-7-esconde-secreto-puede-acabar-dual-sim-tal-como-conocemos-1139833' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/google-pixel-7-pro-2838091.jpg' alt='El Google Pixel 7 esconde un secreto que puede acabar con el Dual SIM tal y como lo conocemos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/los-anillos-de-poder-temporada-dos-1139865'>Acaba la primera temporada de Los Anillos de Poder, ¿esperaremos uno o dos años?</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/los-anillos-de-poder-temporada-dos-1139865' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/anillos-poder-1x04-2815611.jpg' alt='Acaba la primera temporada de Los Anillos de Poder, ¿esperaremos uno o dos años?' />
     </a>
 </div>
 
