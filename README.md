@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/como-pasar-fotos-movil-android-ordenador-windows-1139695'>Cómo pasar fotos de tu móvil Android a tu ordenador Windows</a></h4>
+    <a href='https://computerhoy.com/noticias/como-pasar-fotos-movil-android-ordenador-windows-1139695' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/samsung-galaxy-s22-analisis-opinion-2740969.jpg' alt='Cómo pasar fotos de tu móvil Android a tu ordenador Windows' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/aspiradoras-dyson-potentes-ahora-100-euros-barata-1139649'>Una de las aspiradoras Dyson más potentes, ahora 100 euros más barata</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/aspiradoras-dyson-potentes-ahora-100-euros-barata-1139649' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/dyson-v12-slim-absolute-2842061.jpg' alt='Una de las aspiradoras Dyson más potentes, ahora 100 euros más barata' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/ipad-apple-oferta-justo-tiempo-navidad-nuevo-precio-espana-1139539'>El iPad de Apple, en oferta justo a tiempo para Navidad: de nuevo a su precio más bajo en España</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/ipad-apple-oferta-justo-tiempo-navidad-nuevo-precio-espana-1139539' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/apple-ipad-9a-generacion-analisis-opinion-2562507.jpg' alt='El iPad de Apple, en oferta justo a tiempo para Navidad: de nuevo a su precio más bajo en España' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/snapchat-ya-tiene-filtros-probar-como-te-queda-ropa-1139573'>Snapchat ya tiene filtros para probar cómo te queda la ropa</a></h4>
-    <a href='https://computerhoy.com/noticias/snapchat-ya-tiene-filtros-probar-como-te-queda-ropa-1139573' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/snapchat-ya-tiene-filtros-probar-como-te-queda-ropa-2841883.jpg' alt='Snapchat ya tiene filtros para probar cómo te queda la ropa' />
     </a>
 </div>
 
