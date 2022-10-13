@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/neuronas-creadas-laboratorio-ya-son-capaces-jugar-videojuegos-1139775'>Neuronas creadas en laboratorio ya son capaces de jugar a videojuegos</a></h4>
+    <a href='https://computerhoy.com/noticias/neuronas-creadas-laboratorio-ya-son-capaces-jugar-videojuegos-1139775' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/03/neuronas-2276283.jpg' alt='Neuronas creadas en laboratorio ya son capaces de jugar a videojuegos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/sony-zv-1f-nueva-camara-compacta-facil-usar-creadores-contenido-1139763'>Sony ZV-1F, la nueva cámara compacta fácil de usar para creadores de contenido</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/sony-zv-1f-nueva-camara-compacta-facil-usar-creadores-contenido-1139763' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/sony-zv-1f-2842287.jpg' alt='Sony ZV-1F, la nueva cámara compacta fácil de usar para creadores de contenido' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/llegan-cambios-nuevas-reacciones-whatsapp-1139771'>Llegan cambios a las nuevas reacciones de WhatsApp</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/llegan-cambios-nuevas-reacciones-whatsapp-1139771' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/whatsapp-recurre-mismisimo-mark-zuckerberg-anunciar-dos-grandes-novedades-2755989.jpg' alt='Llegan cambios a las nuevas reacciones de WhatsApp' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/como-pasar-fotos-movil-android-ordenador-windows-1139695'>Cómo pasar fotos de tu móvil Android a tu ordenador Windows</a></h4>
     <a href='https://computerhoy.com/noticias/como-pasar-fotos-movil-android-ordenador-windows-1139695' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/samsung-galaxy-s22-analisis-opinion-2740969.jpg' alt='Cómo pasar fotos de tu móvil Android a tu ordenador Windows' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/aspiradoras-dyson-potentes-ahora-100-euros-barata-1139649'>Una de las aspiradoras Dyson más potentes, ahora 100 euros más barata</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/aspiradoras-dyson-potentes-ahora-100-euros-barata-1139649' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/dyson-v12-slim-absolute-2842061.jpg' alt='Una de las aspiradoras Dyson más potentes, ahora 100 euros más barata' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/propios-empleados-google-mofan-modo-incognito-chrome-1139661'>Los propios empleados de Google se mofan del modo incógnito de Chrome</a></h4>
-    <a href='https://computerhoy.com/noticias/propios-empleados-google-mofan-modo-incognito-chrome-1139661' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/06/modo-incognito-chrome.jpg' alt='Los propios empleados de Google se mofan del modo incógnito de Chrome' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/netflix-apuesta-series-1000-episodios-ultimos-tres-meses-1139611'>Netflix y su apuesta por las series: más de 1.000 episodios en los últimos tres meses</a></h4>
-    <a href='https://computerhoy.com/noticias/netflix-apuesta-series-1000-episodios-ultimos-tres-meses-1139611' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/netflix-app-2767547.jpg' alt='Netflix y su apuesta por las series: más de 1.000 episodios en los últimos tres meses' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/ipad-apple-oferta-justo-tiempo-navidad-nuevo-precio-espana-1139539'>El iPad de Apple, en oferta justo a tiempo para Navidad: de nuevo a su precio más bajo en España</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/ipad-apple-oferta-justo-tiempo-navidad-nuevo-precio-espana-1139539' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/apple-ipad-9a-generacion-analisis-opinion-2562507.jpg' alt='El iPad de Apple, en oferta justo a tiempo para Navidad: de nuevo a su precio más bajo en España' />
     </a>
 </div>
 
