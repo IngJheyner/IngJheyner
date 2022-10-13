@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/suscripcion-barata-anuncios-netflix-ya-tiene-fecha-precio-espana-llegara-10-noviembre-1139841'>La suscripción barata con anuncios de Netflix ya tiene fecha y precio en España: llegará el 10 de noviembre</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/suscripcion-barata-anuncios-netflix-ya-tiene-fecha-precio-espana-llegara-10-noviembre-1139841' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/ilustracion-netflix-2829815.jpg' alt='La suscripción barata con anuncios de Netflix ya tiene fecha y precio en España: llegará el 10 de noviembre' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/whatsapp-mejora-estados-caracteristica-ya-hemos-visto-instagram-1139811'>WhatsApp mejora sus estados con una característica que ya hemos visto en Instagram</a></h4>
     <a href='https://computerhoy.com/noticias/whatsapp-mejora-estados-caracteristica-ya-hemos-visto-instagram-1139811' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/whatsapp-2812871.jpg' alt='WhatsApp mejora sus estados con una característica que ya hemos visto en Instagram' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/neuronas-creadas-laboratorio-ya-son-capaces-jugar-videojuegos-1139775'>Neuronas creadas en laboratorio ya son capaces de jugar a videojuegos</a></h4>
     <a href='https://computerhoy.com/noticias/neuronas-creadas-laboratorio-ya-son-capaces-jugar-videojuegos-1139775' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/03/neuronas-2276283.jpg' alt='Neuronas creadas en laboratorio ya son capaces de jugar a videojuegos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/sony-zv-1f-nueva-camara-compacta-facil-usar-creadores-contenido-1139763'>Sony ZV-1F, la nueva cámara compacta fácil de usar para creadores de contenido</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/sony-zv-1f-nueva-camara-compacta-facil-usar-creadores-contenido-1139763' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/sony-zv-1f-2842287.jpg' alt='Sony ZV-1F, la nueva cámara compacta fácil de usar para creadores de contenido' />
     </a>
 </div>
 
