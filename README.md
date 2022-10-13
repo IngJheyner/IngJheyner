@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/snapchat-ya-tiene-filtros-probar-como-te-queda-ropa-1139573'>Snapchat ya tiene filtros para probar cómo te queda la ropa</a></h4>
+    <a href='https://computerhoy.com/noticias/snapchat-ya-tiene-filtros-probar-como-te-queda-ropa-1139573' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/snapchat-ya-tiene-filtros-probar-como-te-queda-ropa-2841883.jpg' alt='Snapchat ya tiene filtros para probar cómo te queda la ropa' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/analisis/tecnologia/apple-watch-series-8-analisis-opinion-1139289'>Apple Watch series 8, análisis y opinión</a></h4>
+    <a href='https://computerhoy.com/analisis/tecnologia/apple-watch-series-8-analisis-opinion-1139289' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/AppleWatchseries8analisisyopinion_1665613288106851.jpg' alt='Apple Watch series 8, análisis y opinión' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/exoesqueleto-consigue-andes-40-rapido-esfuerzo-extra-1139579'>El exoesqueleto que consigue que andes un 40 % más rápido sin esfuerzo extra</a></h4>
+    <a href='https://computerhoy.com/noticias/exoesqueleto-consigue-andes-40-rapido-esfuerzo-extra-1139579' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/piernas-robot-2841907.jpg' alt='El exoesqueleto que consigue que andes un 40 % más rápido sin esfuerzo extra' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/funcionara-archivar-aplicaciones-android-nuevo-metodo-ahorrar-espacio-borrar-app-1139543'>Así funcionará Archivar Aplicaciones en Android, nuevo método para ahorrar espacio sin borrar una app</a></h4>
     <a href='https://computerhoy.com/noticias/funcionara-archivar-aplicaciones-android-nuevo-metodo-ahorrar-espacio-borrar-app-1139543' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/telefono-movil-android-pantalla-encendida-2775373.jpg' alt='Así funcionará Archivar Aplicaciones en Android, nuevo método para ahorrar espacio sin borrar una app' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/realme-10-pro-5g-1139551'>El nuevo realme 10 Pro+ 5G ya en desarrollo con un posible SoC MediaTek Dimensity 1080 bajo el capó</a></h4>
     <a href='https://computerhoy.com/noticias/realme-10-pro-5g-1139551' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/realme-9-pro-analisis-opinion-2618117.jpg' alt='El nuevo realme 10 Pro+ 5G ya en desarrollo con un posible SoC MediaTek Dimensity 1080 bajo el capó' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/nuevo-iphone-14-ya-rebajado-precio-40-euros-recogida-tienda-hoy-mismo-1139531'>El nuevo iPhone 14, ya rebajado de precio en 40 euros y con recogida en tienda hoy mismo</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/nuevo-iphone-14-ya-rebajado-precio-40-euros-recogida-tienda-hoy-mismo-1139531' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/analisis-iphone-14-2821545.jpg' alt='El nuevo iPhone 14, ya rebajado de precio en 40 euros y con recogida en tienda hoy mismo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/elon-musk-convierte-vendedor-colonias-poder-comprar-twitter-1139521'>Grabar la pantalla en Windows 11 ya es tan sencillo como hacer una captura</a></h4>
-    <a href='https://computerhoy.com/noticias/elon-musk-convierte-vendedor-colonias-poder-comprar-twitter-1139521' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/windows-11-2822283.jpg' alt='Grabar la pantalla en Windows 11 ya es tan sencillo como hacer una captura' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/cuidado-ataque-man-disk-tienes-movil-android-1139513'>Cuidado con el ataque Man-in-the-Disk si tienes un móvil Android</a></h4>
-    <a href='https://computerhoy.com/noticias/cuidado-ataque-man-disk-tienes-movil-android-1139513' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/CuidadoconelataqueManintheDisksitienesunmovilAndroid_16656447102543327.jpg' alt='Cuidado con el ataque Man-in-the-Disk si tienes un móvil Android' />
     </a>
 </div>
 
