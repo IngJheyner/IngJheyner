@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/aspiradoras-dyson-potentes-ahora-100-euros-barata-1139649'>Una de las aspiradoras Dyson más potentes, ahora 100 euros más barata</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/aspiradoras-dyson-potentes-ahora-100-euros-barata-1139649' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/dyson-v12-slim-absolute-2842061.jpg' alt='Una de las aspiradoras Dyson más potentes, ahora 100 euros más barata' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/propios-empleados-google-mofan-modo-incognito-chrome-1139661'>Los propios empleados de Google se mofan del modo incógnito de Chrome</a></h4>
+    <a href='https://computerhoy.com/noticias/propios-empleados-google-mofan-modo-incognito-chrome-1139661' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/06/modo-incognito-chrome.jpg' alt='Los propios empleados de Google se mofan del modo incógnito de Chrome' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/netflix-apuesta-series-1000-episodios-ultimos-tres-meses-1139611'>Netflix y su apuesta por las series: más de 1.000 episodios en los últimos tres meses</a></h4>
     <a href='https://computerhoy.com/noticias/netflix-apuesta-series-1000-episodios-ultimos-tres-meses-1139611' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/netflix-app-2767547.jpg' alt='Netflix y su apuesta por las series: más de 1.000 episodios en los últimos tres meses' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/snapchat-ya-tiene-filtros-probar-como-te-queda-ropa-1139573'>Snapchat ya tiene filtros para probar cómo te queda la ropa</a></h4>
     <a href='https://computerhoy.com/noticias/snapchat-ya-tiene-filtros-probar-como-te-queda-ropa-1139573' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/snapchat-ya-tiene-filtros-probar-como-te-queda-ropa-2841883.jpg' alt='Snapchat ya tiene filtros para probar cómo te queda la ropa' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/tecnologia/apple-watch-series-8-analisis-opinion-1139289'>Apple Watch series 8, análisis y opinión</a></h4>
-    <a href='https://computerhoy.com/analisis/tecnologia/apple-watch-series-8-analisis-opinion-1139289' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/AppleWatchseries8analisisyopinion_1665613288106851.jpg' alt='Apple Watch series 8, análisis y opinión' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/exoesqueleto-consigue-andes-40-rapido-esfuerzo-extra-1139579'>El exoesqueleto que consigue que andes un 40 % más rápido sin esfuerzo extra</a></h4>
-    <a href='https://computerhoy.com/noticias/exoesqueleto-consigue-andes-40-rapido-esfuerzo-extra-1139579' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/piernas-robot-2841907.jpg' alt='El exoesqueleto que consigue que andes un 40 % más rápido sin esfuerzo extra' />
     </a>
 </div>
 
