@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/whatsapp-mejora-estados-caracteristica-ya-hemos-visto-instagram-1139811'>WhatsApp mejora sus estados con una característica que ya hemos visto en Instagram</a></h4>
+    <a href='https://computerhoy.com/noticias/whatsapp-mejora-estados-caracteristica-ya-hemos-visto-instagram-1139811' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/whatsapp-2812871.jpg' alt='WhatsApp mejora sus estados con una característica que ya hemos visto en Instagram' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/oppo-no-pierde-tiempo-oppo-reno9-ya-estaria-camino-ultimas-filtraciones-1139767'>OPPO no pierde el tiempo y el OPPO Reno9 ya estaría en camino según las últimas filtraciones</a></h4>
     <a href='https://computerhoy.com/noticias/oppo-no-pierde-tiempo-oppo-reno9-ya-estaria-camino-ultimas-filtraciones-1139767' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/analisis-oppo-reno-8-pro-2809025.jpg' alt='OPPO no pierde el tiempo y el OPPO Reno9 ya estaría en camino según las últimas filtraciones' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/sony-zv-1f-nueva-camara-compacta-facil-usar-creadores-contenido-1139763'>Sony ZV-1F, la nueva cámara compacta fácil de usar para creadores de contenido</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/sony-zv-1f-nueva-camara-compacta-facil-usar-creadores-contenido-1139763' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/sony-zv-1f-2842287.jpg' alt='Sony ZV-1F, la nueva cámara compacta fácil de usar para creadores de contenido' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/llegan-cambios-nuevas-reacciones-whatsapp-1139771'>Llegan cambios a las nuevas reacciones de WhatsApp</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/llegan-cambios-nuevas-reacciones-whatsapp-1139771' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/whatsapp-recurre-mismisimo-mark-zuckerberg-anunciar-dos-grandes-novedades-2755989.jpg' alt='Llegan cambios a las nuevas reacciones de WhatsApp' />
     </a>
 </div>
 
