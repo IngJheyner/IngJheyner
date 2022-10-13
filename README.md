@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/oppo-no-pierde-tiempo-oppo-reno9-ya-estaria-camino-ultimas-filtraciones-1139767'>OPPO no pierde el tiempo y el OPPO Reno9 ya estaría en camino según las últimas filtraciones</a></h4>
+    <a href='https://computerhoy.com/noticias/oppo-no-pierde-tiempo-oppo-reno9-ya-estaria-camino-ultimas-filtraciones-1139767' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/analisis-oppo-reno-8-pro-2809025.jpg' alt='OPPO no pierde el tiempo y el OPPO Reno9 ya estaría en camino según las últimas filtraciones' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-medir-distancias-superficies-recorridos-google-maps-1127651'>Cómo medir distancias, superficies y recorridos en Google Maps</a></h4>
+    <a href='https://computerhoy.com/tutoriales/tecnologia/como-medir-distancias-superficies-recorridos-google-maps-1127651' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/google-maps-2842323.jpg' alt='Cómo medir distancias, superficies y recorridos en Google Maps' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/neuronas-creadas-laboratorio-ya-son-capaces-jugar-videojuegos-1139775'>Neuronas creadas en laboratorio ya son capaces de jugar a videojuegos</a></h4>
     <a href='https://computerhoy.com/noticias/neuronas-creadas-laboratorio-ya-son-capaces-jugar-videojuegos-1139775' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/03/neuronas-2276283.jpg' alt='Neuronas creadas en laboratorio ya son capaces de jugar a videojuegos' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/llegan-cambios-nuevas-reacciones-whatsapp-1139771'>Llegan cambios a las nuevas reacciones de WhatsApp</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/llegan-cambios-nuevas-reacciones-whatsapp-1139771' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/whatsapp-recurre-mismisimo-mark-zuckerberg-anunciar-dos-grandes-novedades-2755989.jpg' alt='Llegan cambios a las nuevas reacciones de WhatsApp' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/como-pasar-fotos-movil-android-ordenador-windows-1139695'>Cómo pasar fotos de tu móvil Android a tu ordenador Windows</a></h4>
-    <a href='https://computerhoy.com/noticias/como-pasar-fotos-movil-android-ordenador-windows-1139695' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/samsung-galaxy-s22-analisis-opinion-2740969.jpg' alt='Cómo pasar fotos de tu móvil Android a tu ordenador Windows' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/aspiradoras-dyson-potentes-ahora-100-euros-barata-1139649'>Una de las aspiradoras Dyson más potentes, ahora 100 euros más barata</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/aspiradoras-dyson-potentes-ahora-100-euros-barata-1139649' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/dyson-v12-slim-absolute-2842061.jpg' alt='Una de las aspiradoras Dyson más potentes, ahora 100 euros más barata' />
     </a>
 </div>
 
