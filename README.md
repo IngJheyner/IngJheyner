@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/google-pixel-7-esconde-secreto-puede-acabar-dual-sim-tal-como-conocemos-1139833'>El Google Pixel 7 esconde un secreto que puede acabar con el Dual SIM tal y como lo conocemos</a></h4>
+    <a href='https://computerhoy.com/noticias/google-pixel-7-esconde-secreto-puede-acabar-dual-sim-tal-como-conocemos-1139833' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/google-pixel-7-pro-2838091.jpg' alt='El Google Pixel 7 esconde un secreto que puede acabar con el Dual SIM tal y como lo conocemos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/los-anillos-de-poder-temporada-dos-1139865'>Acaba la primera temporada de Los Anillos de Poder, ¿esperaremos uno o dos años?</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/los-anillos-de-poder-temporada-dos-1139865' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/anillos-poder-1x04-2815611.jpg' alt='Acaba la primera temporada de Los Anillos de Poder, ¿esperaremos uno o dos años?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/popular-producto-ahora-mismo-no-facil-encontrar-mercadona-1139863'>Este es el popular producto que ahora mismo no es fácil de encontrar en Mercadona</a></h4>
+    <a href='https://computerhoy.com/noticias/life/popular-producto-ahora-mismo-no-facil-encontrar-mercadona-1139863' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/leche-supermercado-2842407.jpg' alt='Este es el popular producto que ahora mismo no es fácil de encontrar en Mercadona' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/estos-coches-van-poder-circular-ciudades-pegatina-medioambiental-1139861'>Estos coches van a poder circular por las ciudades sin pegatina medioambiental</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/estos-coches-van-poder-circular-ciudades-pegatina-medioambiental-1139861' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/08/pegatinas-dgt-2042253.jpg' alt='Estos coches van a poder circular por las ciudades sin pegatina medioambiental' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/suscripcion-barata-anuncios-netflix-ya-tiene-fecha-precio-espana-llegara-10-noviembre-1139841'>La suscripción barata con anuncios de Netflix ya tiene fecha y precio en España: llegará el 10 de noviembre</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/suscripcion-barata-anuncios-netflix-ya-tiene-fecha-precio-espana-llegara-10-noviembre-1139841' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/ilustracion-netflix-2829815.jpg' alt='La suscripción barata con anuncios de Netflix ya tiene fecha y precio en España: llegará el 10 de noviembre' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/whatsapp-mejora-estados-caracteristica-ya-hemos-visto-instagram-1139811'>WhatsApp mejora sus estados con una característica que ya hemos visto en Instagram</a></h4>
-    <a href='https://computerhoy.com/noticias/whatsapp-mejora-estados-caracteristica-ya-hemos-visto-instagram-1139811' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/whatsapp-2812871.jpg' alt='WhatsApp mejora sus estados con una característica que ya hemos visto en Instagram' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/oppo-no-pierde-tiempo-oppo-reno9-ya-estaria-camino-ultimas-filtraciones-1139767'>OPPO no pierde el tiempo y el OPPO Reno9 ya estaría en camino según las últimas filtraciones</a></h4>
-    <a href='https://computerhoy.com/noticias/oppo-no-pierde-tiempo-oppo-reno9-ya-estaria-camino-ultimas-filtraciones-1139767' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/analisis-oppo-reno-8-pro-2809025.jpg' alt='OPPO no pierde el tiempo y el OPPO Reno9 ya estaría en camino según las últimas filtraciones' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-medir-distancias-superficies-recorridos-google-maps-1127651'>Cómo medir distancias, superficies y recorridos en Google Maps</a></h4>
-    <a href='https://computerhoy.com/tutoriales/tecnologia/como-medir-distancias-superficies-recorridos-google-maps-1127651' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/google-maps-2842323.jpg' alt='Cómo medir distancias, superficies y recorridos en Google Maps' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/neuronas-creadas-laboratorio-ya-son-capaces-jugar-videojuegos-1139775'>Neuronas creadas en laboratorio ya son capaces de jugar a videojuegos</a></h4>
-    <a href='https://computerhoy.com/noticias/neuronas-creadas-laboratorio-ya-son-capaces-jugar-videojuegos-1139775' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/03/neuronas-2276283.jpg' alt='Neuronas creadas en laboratorio ya son capaces de jugar a videojuegos' />
     </a>
 </div>
 
