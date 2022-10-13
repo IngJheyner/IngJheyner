@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/nuevo-iphone-14-ya-rebajado-precio-40-euros-recogida-tienda-hoy-mismo-1139531'>El nuevo iPhone 14, ya rebajado de precio en 40 euros y con recogida en tienda hoy mismo</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/nuevo-iphone-14-ya-rebajado-precio-40-euros-recogida-tienda-hoy-mismo-1139531' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/analisis-iphone-14-2821545.jpg' alt='El nuevo iPhone 14, ya rebajado de precio en 40 euros y con recogida en tienda hoy mismo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/elon-musk-convierte-vendedor-colonias-poder-comprar-twitter-1139521'>Grabar la pantalla en Windows 11 ya es tan sencillo como hacer una captura</a></h4>
+    <a href='https://computerhoy.com/noticias/elon-musk-convierte-vendedor-colonias-poder-comprar-twitter-1139521' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/windows-11-2822283.jpg' alt='Grabar la pantalla en Windows 11 ya es tan sencillo como hacer una captura' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/cuidado-ataque-man-disk-tienes-movil-android-1139513'>Cuidado con el ataque Man-in-the-Disk si tienes un móvil Android</a></h4>
+    <a href='https://computerhoy.com/noticias/cuidado-ataque-man-disk-tienes-movil-android-1139513' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/CuidadoconelataqueManintheDisksitienesunmovilAndroid_16656447102543327.jpg' alt='Cuidado con el ataque Man-in-the-Disk si tienes un móvil Android' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/ya-quiosco-numero-627-computer-hoy-1135747'>¡Ya está en tu quiosco el número 627 de Computer Hoy!</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/ya-quiosco-numero-627-computer-hoy-1135747' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/computer-hoy-627-2835019.jpg' alt='¡Ya está en tu quiosco el número 627 de Computer Hoy!' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/primer-turista-espacial-ya-tiene-nuevo-viaje-horizonte-luna-cohete-space-x-1139499'>El primer turista espacial ya tiene nuevo viaje en el horizonte: la Luna en una nave de SpaceX</a></h4>
     <a href='https://computerhoy.com/noticias/primer-turista-espacial-ya-tiene-nuevo-viaje-horizonte-luna-cohete-space-x-1139499' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/ElprimerturistaespacialyatienenuevoviajeenelhorizontelaLunaenunanavedeSpaceX_16656421160762032.jpg' alt='El primer turista espacial ya tiene nuevo viaje en el horizonte: la Luna en una nave de SpaceX' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/listas/tecnologia/mejores-routers-wifi-6-2020-697793'>Estos son los mejores routers con WiFi 6 que puedes comprar en 2022</a></h4>
-    <a href='https://computerhoy.com/listas/tecnologia/mejores-routers-wifi-6-2020-697793' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/amazon-eero-6-analisis-opinion-2436045.jpg' alt='Estos son los mejores routers con WiFi 6 que puedes comprar en 2022' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/22-noticias-tecnologia-comenzar-manana-informado-ultimo-1139491'>22 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/22-noticias-tecnologia-comenzar-manana-informado-ultimo-1139491' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/20noticiasdetecnologiaparacomenzarlamananainformadodeloultimo_16656367819485280.jpg' alt='22 noticias de tecnología para comenzar la mañana informado de lo último' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/media-markt-ofertas-apple-days-iphone-14-macbook-air-m2-ipad-pro-1139265'>Apple Days en MediaMarkt: ofertas en iPhone 14, MacBook Air M2 y mucho más</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/media-markt-ofertas-apple-days-iphone-14-macbook-air-m2-ipad-pro-1139265' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/analisis-iphone-14-pro-2821729.jpg' alt='Apple Days en MediaMarkt: ofertas en iPhone 14, MacBook Air M2 y mucho más' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/adolescentes-estadounidenses-iphone-1139283'>El 87% de los adolescentes estadounidenses tiene un iPhone</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/adolescentes-estadounidenses-iphone-1139283' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/analisis-iphone-14-pro-2821753.jpg' alt='El 87% de los adolescentes estadounidenses tiene un iPhone' />
     </a>
 </div>
 
