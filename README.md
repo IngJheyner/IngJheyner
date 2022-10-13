@@ -50,9 +50,25 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/adolescentes-estadounidenses-iphone-1139283'>El 87% de los adolescentes estadounidenses tienen un iPhone</a></h4>
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/22-noticias-tecnologia-comenzar-manana-informado-ultimo-1139491'>22 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/22-noticias-tecnologia-comenzar-manana-informado-ultimo-1139491' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/20noticiasdetecnologiaparacomenzarlamananainformadodeloultimo_16656367819485280.jpg' alt='22 noticias de tecnología para comenzar la mañana informado de lo último' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/media-markt-ofertas-apple-days-iphone-14-macbook-air-m2-ipad-pro-1139265'>Apple Days en MediaMarkt: ofertas en iPhone 14, MacBook Air M2 y mucho más</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/media-markt-ofertas-apple-days-iphone-14-macbook-air-m2-ipad-pro-1139265' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/analisis-iphone-14-pro-2821729.jpg' alt='Apple Days en MediaMarkt: ofertas en iPhone 14, MacBook Air M2 y mucho más' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/adolescentes-estadounidenses-iphone-1139283'>El 87% de los adolescentes estadounidenses tiene un iPhone</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/adolescentes-estadounidenses-iphone-1139283' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/analisis-iphone-14-pro-2821753.jpg' alt='El 87% de los adolescentes estadounidenses tienen un iPhone' />
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/analisis-iphone-14-pro-2821753.jpg' alt='El 87% de los adolescentes estadounidenses tiene un iPhone' />
     </a>
 </div>
 
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/android-auto-83-ya-disponible-usuarios-beta-incluye-importante-novedad-1139277'>Android Auto 8.3 ya está disponible para los usuarios beta e incluye esta importante novedad</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/android-auto-83-ya-disponible-usuarios-beta-incluye-importante-novedad-1139277' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/android-auto-2575823.jpg' alt='Android Auto 8.3 ya está disponible para los usuarios beta e incluye esta importante novedad' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/producto-mercadona-no-debes-consumir-ya-han-retirado-lineales-presencia-salmonela-1139271'>Este es el producto de Mercadona que no debes consumir y que ya han retirado de sus lineales por presencia de salmonela</a></h4>
-    <a href='https://computerhoy.com/noticias/life/producto-mercadona-no-debes-consumir-ya-han-retirado-lineales-presencia-salmonela-1139271' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/Mercadona_1665598702992476.jpg' alt='Este es el producto de Mercadona que no debes consumir y que ya han retirado de sus lineales por presencia de salmonela' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/passkeys-android-chrome-google-contrasenas-1139275'>Google estrena las Passkeys en Android y Chrome para desterrar para siempre las contraseñas</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/passkeys-android-chrome-google-contrasenas-1139275' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/GoogleestrenalasPasskeysenAndroidyChromeparadesterrarparasiemprelascontrasenas_166559882477240622.jpg' alt='Google estrena las Passkeys en Android y Chrome para desterrar para siempre las contraseñas' />
     </a>
 </div>
 
