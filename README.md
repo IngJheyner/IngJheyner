@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/primer-turista-espacial-ya-tiene-nuevo-viaje-horizonte-luna-cohete-space-x-1139499'>El primer turista espacial ya tiene nuevo viaje en el horizonte: la Luna en una nave de SpaceX</a></h4>
+    <a href='https://computerhoy.com/noticias/primer-turista-espacial-ya-tiene-nuevo-viaje-horizonte-luna-cohete-space-x-1139499' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/ElprimerturistaespacialyatienenuevoviajeenelhorizontelaLunaenunanavedeSpaceX_16656421160762032.jpg' alt='El primer turista espacial ya tiene nuevo viaje en el horizonte: la Luna en una nave de SpaceX' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/listas/tecnologia/mejores-routers-wifi-6-2020-697793'>Estos son los mejores routers con WiFi 6 que puedes comprar en 2022</a></h4>
+    <a href='https://computerhoy.com/listas/tecnologia/mejores-routers-wifi-6-2020-697793' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/amazon-eero-6-analisis-opinion-2436045.jpg' alt='Estos son los mejores routers con WiFi 6 que puedes comprar en 2022' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/22-noticias-tecnologia-comenzar-manana-informado-ultimo-1139491'>22 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/22-noticias-tecnologia-comenzar-manana-informado-ultimo-1139491' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/20noticiasdetecnologiaparacomenzarlamananainformadodeloultimo_16656367819485280.jpg' alt='22 noticias de tecnología para comenzar la mañana informado de lo último' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/adolescentes-estadounidenses-iphone-1139283'>El 87% de los adolescentes estadounidenses tiene un iPhone</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/adolescentes-estadounidenses-iphone-1139283' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/analisis-iphone-14-pro-2821753.jpg' alt='El 87% de los adolescentes estadounidenses tiene un iPhone' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/guia-compra/chimeneas-electricas-1137287'>Chimeneas eléctricas: todo lo que necesitas saber para comprar la mejor para ti</a></h4>
-    <a href='https://computerhoy.com/guia-compra/chimeneas-electricas-1137287' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/chimenea-electrica-2836879.jpg' alt='Chimeneas eléctricas: todo lo que necesitas saber para comprar la mejor para ti' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/android-auto-83-ya-disponible-usuarios-beta-incluye-importante-novedad-1139277'>Android Auto 8.3 ya está disponible para los usuarios beta e incluye esta importante novedad</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/android-auto-83-ya-disponible-usuarios-beta-incluye-importante-novedad-1139277' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/android-auto-2575823.jpg' alt='Android Auto 8.3 ya está disponible para los usuarios beta e incluye esta importante novedad' />
     </a>
 </div>
 
