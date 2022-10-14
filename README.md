@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/listas/tecnologia/7-juegos-telefonos-android-podras-jugar-amigos-multijugador-local-1119597'>7 juegos para teléfonos Android con los que podrás jugar con tus amigos en multijugador local</a></h4>
+    <a href='https://computerhoy.com/listas/tecnologia/7-juegos-telefonos-android-podras-jugar-amigos-multijugador-local-1119597' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/7-juegos-telefonos-android-podras-jugar-amigos-multijugador-local-2838677.jpg' alt='7 juegos para teléfonos Android con los que podrás jugar con tus amigos en multijugador local' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/peliculas-ver-fin-semana-movistarplus-netflix-prime-video-halloween-sandra-bullock-espanola-muy-sugerente-1138229'>Qué películas ver este fin de semana en MovistarPlus+, Netflix y Prime Video: Halloween, Sandra Bullock y una española muy sugerente</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/peliculas-ver-fin-semana-movistarplus-netflix-prime-video-halloween-sandra-bullock-espanola-muy-sugerente-1138229' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/peliculas-ver-fin-semana-movistarplus-netflix-prime-video-halloween-sandra-bullock-espanola-muy-sugerente-2838599.jpg' alt='Qué películas ver este fin de semana en MovistarPlus+, Netflix y Prime Video: Halloween, Sandra Bullock y una española muy sugerente' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/funciona-editar-mensajes-whatsapp-como-veran-demas-1140345'>Así funciona editar mensajes en WhatsApp y cómo lo verán los demás</a></h4>
     <a href='https://computerhoy.com/noticias/funciona-editar-mensajes-whatsapp-como-veran-demas-1140345' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/whatsapp-business-2734971.jpg' alt='Así funciona editar mensajes en WhatsApp y cómo lo verán los demás' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/ticwatch-pro-3-lte-reloj-inteligente-deporte-menos-200-euros-1140273'>Ticwatch Pro 3 LTE, el reloj inteligente para deporte y para el día a día por fin cuesta menos de 200 euros</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/ticwatch-pro-3-lte-reloj-inteligente-deporte-menos-200-euros-1140273' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/ticwatch-pro-3-lte-2843141.jpg' alt='Ticwatch Pro 3 LTE, el reloj inteligente para deporte y para el día a día por fin cuesta menos de 200 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/explosion-superpotente-rayos-gamma-recorrera-tierra-1140289'>Una explosión superpotente de rayos gamma acaba de recorrer la Tierra</a></h4>
-    <a href='https://computerhoy.com/noticias/explosion-superpotente-rayos-gamma-recorrera-tierra-1140289' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/rayos-gamma-2843191.jpg' alt='Una explosión superpotente de rayos gamma acaba de recorrer la Tierra' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-crear-rutas-mapas-personalizados-google-maps-1099133'>Cómo crear rutas y mapas personalizados en Google Maps</a></h4>
-    <a href='https://computerhoy.com/tutoriales/tecnologia/como-crear-rutas-mapas-personalizados-google-maps-1099133' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/colores-google-maps-trafico-2757217.jpg' alt='Cómo crear rutas y mapas personalizados en Google Maps' />
     </a>
 </div>
 
