@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/filtran-especificaciones-pantalla-telefono-plegable-google-pixel-fold-1140407'>Se filtran las especificaciones de la pantalla del teléfono plegable Google Pixel Fold</a></h4>
+    <a href='https://computerhoy.com/noticias/filtran-especificaciones-pantalla-telefono-plegable-google-pixel-fold-1140407' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/pixel-fold-2382135.jpg' alt='Se filtran las especificaciones de la pantalla del teléfono plegable Google Pixel Fold' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/ultimos-rumores-apuntan-lenovo-estaria-preparandose-lanzamiento-1140379'>Los últimos rumores apuntan a que Lenovo estaría preparándose para el lanzamiento</a></h4>
+    <a href='https://computerhoy.com/noticias/ultimos-rumores-apuntan-lenovo-estaria-preparandose-lanzamiento-1140379' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/galeria-review-lenovo-thinkpad-x1-fold-2417361.jpg' alt='Los últimos rumores apuntan a que Lenovo estaría preparándose para el lanzamiento' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/series-ver-fin-semana-netflix-apple-tv-crunchyroll-familia-drogadicto-anime-1140365'>Qué series ver este fin de semana en Netflix, Apple TV+ y Crunchyroll: una familia, un drogadicto y un anime</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/series-ver-fin-semana-netflix-apple-tv-crunchyroll-familia-drogadicto-anime-1140365' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/mejores-series-fin-semana-2843355.jpg' alt='Qué series ver este fin de semana en Netflix, Apple TV+ y Crunchyroll: una familia, un drogadicto y un anime' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/listas/tecnologia/7-juegos-telefonos-android-podras-jugar-amigos-multijugador-local-1119597'>7 juegos para teléfonos Android con los que podrás jugar con tus amigos en multijugador local</a></h4>
     <a href='https://computerhoy.com/listas/tecnologia/7-juegos-telefonos-android-podras-jugar-amigos-multijugador-local-1119597' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/7-juegos-telefonos-android-podras-jugar-amigos-multijugador-local-2838677.jpg' alt='7 juegos para teléfonos Android con los que podrás jugar con tus amigos en multijugador local' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/peliculas-ver-fin-semana-movistarplus-netflix-prime-video-halloween-sandra-bullock-espanola-muy-sugerente-1138229'>Qué películas ver este fin de semana en MovistarPlus+, Netflix y Prime Video: Halloween, Sandra Bullock y una española muy sugerente</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/peliculas-ver-fin-semana-movistarplus-netflix-prime-video-halloween-sandra-bullock-espanola-muy-sugerente-1138229' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/peliculas-ver-fin-semana-movistarplus-netflix-prime-video-halloween-sandra-bullock-espanola-muy-sugerente-2838599.jpg' alt='Qué películas ver este fin de semana en MovistarPlus+, Netflix y Prime Video: Halloween, Sandra Bullock y una española muy sugerente' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/funciona-editar-mensajes-whatsapp-como-veran-demas-1140345'>Así funciona editar mensajes en WhatsApp y cómo lo verán los demás</a></h4>
-    <a href='https://computerhoy.com/noticias/funciona-editar-mensajes-whatsapp-como-veran-demas-1140345' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/whatsapp-business-2734971.jpg' alt='Así funciona editar mensajes en WhatsApp y cómo lo verán los demás' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/elon-musk-cansa-ser-generoso-pueblo-ucraniano-1140329'>Elon Musk se cansa de ser generoso con el pueblo ucraniano</a></h4>
-    <a href='https://computerhoy.com/noticias/elon-musk-cansa-ser-generoso-pueblo-ucraniano-1140329' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/12/elon-musk-2161621.jpg' alt='Elon Musk se cansa de ser generoso con el pueblo ucraniano' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/ticwatch-pro-3-lte-reloj-inteligente-deporte-menos-200-euros-1140273'>Ticwatch Pro 3 LTE, el reloj inteligente para deporte y para el día a día por fin cuesta menos de 200 euros</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/ticwatch-pro-3-lte-reloj-inteligente-deporte-menos-200-euros-1140273' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/ticwatch-pro-3-lte-2843141.jpg' alt='Ticwatch Pro 3 LTE, el reloj inteligente para deporte y para el día a día por fin cuesta menos de 200 euros' />
     </a>
 </div>
 
