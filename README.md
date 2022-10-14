@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/netflix-tendra-desvelar-mayores-secretos-nueva-suscripcion-anuncios-1140245'>Netflix tendrá que desvelar uno de sus mayores secretos con la nueva suscripción con anuncios</a></h4>
+    <a href='https://computerhoy.com/noticias/netflix-tendra-desvelar-mayores-secretos-nueva-suscripcion-anuncios-1140245' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/netflix-2796523.jpg' alt='Netflix tendrá que desvelar uno de sus mayores secretos con la nueva suscripción con anuncios' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/movil-xiaomi-5g-carga-120w-tiene-casi-100eu-descuento-estos-momentos-1140167'>Este móvil Xiaomi con 5G y carga a 120W tiene casi 100€ de descuento en estos momentos</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/movil-xiaomi-5g-carga-120w-tiene-casi-100eu-descuento-estos-momentos-1140167' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/xiaomi-redmi-note-11-pro-5g-2693461.jpg' alt='Este móvil Xiaomi con 5G y carga a 120W tiene casi 100€ de descuento en estos momentos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/hp-chromebook-156-chromebook-x360-133-dos-nuevos-portatiles-hp-sistema-operativo-google-1140229'>HP Chromebook de 15,6" y Chromebook x360 de 13,3", los dos nuevos portátiles de HP con sistema operativo de Google</a></h4>
     <a href='https://computerhoy.com/noticias/hp-chromebook-156-chromebook-x360-133-dos-nuevos-portatiles-hp-sistema-operativo-google-1140229' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/hp-chromebook-x360-133-2842941.jpg' alt='HP Chromebook de 15,6" y Chromebook x360 de 13,3", los dos nuevos portátiles de HP con sistema operativo de Google' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/2022-van-convertir-basura-casi-tantos-moviles-como-seres-humanos-hay-tierra-1140217'>Este 2022 se van a convertir en basura casi tantos móviles como seres humanos hay en la Tierra</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/2022-van-convertir-basura-casi-tantos-moviles-como-seres-humanos-hay-tierra-1140217' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/basura-espacial-2336789.jpg' alt='Este 2022 se van a convertir en basura casi tantos móviles como seres humanos hay en la Tierra' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/razer-viper-v2-pro-review-opinion-1140155'>Razer Viper V2 Pro, análisis y opinión</a></h4>
-    <a href='https://computerhoy.com/analisis/razer-viper-v2-pro-review-opinion-1140155' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/review-razer-viper-v2-pro-2842787.jpg' alt='Razer Viper V2 Pro, análisis y opinión' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/desploma-precio-airpods-max-tienen-ahora-130-euros-descuento-1139657'>Se desploma el precio de los AirPods Max, que tienen ahora 130 euros de descuento</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/desploma-precio-airpods-max-tienen-ahora-130-euros-descuento-1139657' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/airpods-max-2446053.jpg' alt='Se desploma el precio de los AirPods Max, que tienen ahora 130 euros de descuento' />
     </a>
 </div>
 
