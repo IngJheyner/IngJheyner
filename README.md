@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/hp-chromebook-156-chromebook-x360-133-dos-nuevos-portatiles-hp-sistema-operativo-google-1140229'>HP Chromebook de 15,6" y Chromebook x360 de 13,3", los dos nuevos portátiles de HP con sistema operativo de Google</a></h4>
+    <a href='https://computerhoy.com/noticias/hp-chromebook-156-chromebook-x360-133-dos-nuevos-portatiles-hp-sistema-operativo-google-1140229' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/hp-chromebook-x360-133-2842941.jpg' alt='HP Chromebook de 15,6" y Chromebook x360 de 13,3", los dos nuevos portátiles de HP con sistema operativo de Google' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/pueblo-castellon-obligado-instalar-barrera-corregir-error-fatal-google-maps-1140195'>Este pueblo de Castellón obligado a instalar una barrera para corregir un error fatal de Google Maps</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/pueblo-castellon-obligado-instalar-barrera-corregir-error-fatal-google-maps-1140195' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/barrera-2842957.jpg' alt='Este pueblo de Castellón obligado a instalar una barrera para corregir un error fatal de Google Maps' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/2022-van-convertir-basura-casi-tantos-moviles-como-seres-humanos-hay-tierra-1140217'>Este 2022 se van a convertir en basura casi tantos móviles como seres humanos hay en la Tierra</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/2022-van-convertir-basura-casi-tantos-moviles-como-seres-humanos-hay-tierra-1140217' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/basura-espacial-2336789.jpg' alt='Este 2022 se van a convertir en basura casi tantos móviles como seres humanos hay en la Tierra' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/analisis/razer-viper-v2-pro-review-opinion-1140155'>Razer Viper V2 Pro, análisis y opinión</a></h4>
     <a href='https://computerhoy.com/analisis/razer-viper-v2-pro-review-opinion-1140155' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/review-razer-viper-v2-pro-2842787.jpg' alt='Razer Viper V2 Pro, análisis y opinión' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/desploma-precio-airpods-max-tienen-ahora-130-euros-descuento-1139657'>Se desploma el precio de los AirPods Max, que tienen ahora 130 euros de descuento</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/desploma-precio-airpods-max-tienen-ahora-130-euros-descuento-1139657' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/airpods-max-2446053.jpg' alt='Se desploma el precio de los AirPods Max, que tienen ahora 130 euros de descuento' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/amazon-quiere-lanzar-propios-satelites-hacer-competencia-starlink-1140169'>Amazon quiere lanzar sus propios satélites y hacer competencia a Starlink </a></h4>
-    <a href='https://computerhoy.com/noticias/amazon-quiere-lanzar-propios-satelites-hacer-competencia-starlink-1140169' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/satelite-tierra-2446745.jpg' alt='Amazon quiere lanzar sus propios satélites y hacer competencia a Starlink ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/microsoft-triplica-velocidad-descomprimir-archivos-juegos-windows-usando-gpu-directstorage-11-1140173'>Microsoft reduce a un tercio la descompresión de juegos en Windows usando la GPU</a></h4>
-    <a href='https://computerhoy.com/noticias/microsoft-triplica-velocidad-descomprimir-archivos-juegos-windows-usando-gpu-directstorage-11-1140173' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/unzip-gpu-2842831.jpg' alt='Microsoft reduce a un tercio la descompresión de juegos en Windows usando la GPU' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/fossil-anima-wear-os-3-reloj-gen-6-1140161'>Fossil se anima con Wear OS 3 para su reloj Gen 6 Wellnes Edition</a></h4>
-    <a href='https://computerhoy.com/noticias/fossil-anima-wear-os-3-reloj-gen-6-1140161' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/fossil-gen-6-analisis-opinion-2544933.jpg' alt='Fossil se anima con Wear OS 3 para su reloj Gen 6 Wellnes Edition' />
     </a>
 </div>
 
