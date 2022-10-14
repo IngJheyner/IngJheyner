@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/robots-cocina-menos-200-euros-oferta-842795'>5 robots de cocina de menos de 200 euros que merecen la pena</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/robots-cocina-menos-200-euros-oferta-842795' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/cecotec-mambo-10090-2842079.jpg' alt='5 robots de cocina de menos de 200 euros que merecen la pena' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/27-noticias-tecnologia-comenzar-manana-informado-ultimo-1140121'>27 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/27-noticias-tecnologia-comenzar-manana-informado-ultimo-1140121' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/27-noticias-tecnologia-comenzar-manana-informado-ultimo-2842717.jpg' alt='27 noticias de tecnología para comenzar la mañana informado de lo último' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/motor/renault-mobilize-solo-vehiculo-electrico-unipersonal-joystick-video-1140117'>Renault Mobilize Solo, el nuevo vehículo eléctrico unipersonal que se maneja con un joystick (vídeo)</a></h4>
     <a href='https://computerhoy.com/noticias/motor/renault-mobilize-solo-vehiculo-electrico-unipersonal-joystick-video-1140117' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/verticalimage1665699617172-2842711.jpg' alt='Renault Mobilize Solo, el nuevo vehículo eléctrico unipersonal que se maneja con un joystick (vídeo)' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/microsoft-office-desaparece-microsoft-365-1139887'>Después de 30 años, Office desaparece para siempre: Microsoft le cambia el nombre</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/microsoft-office-desaparece-microsoft-365-1139887' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/despues-30-anos-office-nos-dice-adios-microsoft-cambia-nombre-2842485.jpg' alt='Después de 30 años, Office desaparece para siempre: Microsoft le cambia el nombre' />
     </a>
 </div>
 
