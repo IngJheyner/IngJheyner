@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/analisis/razer-viper-v2-pro-review-opinion-1140155'>Razer Viper V2 Pro, análisis y opinión</a></h4>
+    <a href='https://computerhoy.com/analisis/razer-viper-v2-pro-review-opinion-1140155' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/review-razer-viper-v2-pro-2842787.jpg' alt='Razer Viper V2 Pro, análisis y opinión' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/desploma-precio-airpods-max-tienen-ahora-130-euros-descuento-1139657'>Se desploma el precio de los AirPods Max, que tienen ahora 130 euros de descuento</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/desploma-precio-airpods-max-tienen-ahora-130-euros-descuento-1139657' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/airpods-max-2446053.jpg' alt='Se desploma el precio de los AirPods Max, que tienen ahora 130 euros de descuento' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/amazon-quiere-lanzar-propios-satelites-hacer-competencia-starlink-1140169'>Amazon quiere lanzar sus propios satélites y hacer competencia a Starlink </a></h4>
+    <a href='https://computerhoy.com/noticias/amazon-quiere-lanzar-propios-satelites-hacer-competencia-starlink-1140169' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/satelite-tierra-2446745.jpg' alt='Amazon quiere lanzar sus propios satélites y hacer competencia a Starlink ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/microsoft-triplica-velocidad-descomprimir-archivos-juegos-windows-usando-gpu-directstorage-11-1140173'>Microsoft reduce a un tercio la descompresión de juegos en Windows usando la GPU</a></h4>
+    <a href='https://computerhoy.com/noticias/microsoft-triplica-velocidad-descomprimir-archivos-juegos-windows-usando-gpu-directstorage-11-1140173' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/unzip-gpu-2842831.jpg' alt='Microsoft reduce a un tercio la descompresión de juegos en Windows usando la GPU' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/fossil-anima-wear-os-3-reloj-gen-6-1140161'>Fossil se anima con Wear OS 3 para su reloj Gen 6 Wellnes Edition</a></h4>
     <a href='https://computerhoy.com/noticias/fossil-anima-wear-os-3-reloj-gen-6-1140161' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/fossil-gen-6-analisis-opinion-2544933.jpg' alt='Fossil se anima con Wear OS 3 para su reloj Gen 6 Wellnes Edition' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/robots-cocina-menos-200-euros-oferta-842795'>5 robots de cocina de menos de 200 euros que merecen la pena</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/robots-cocina-menos-200-euros-oferta-842795' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/cecotec-mambo-10090-2842079.jpg' alt='5 robots de cocina de menos de 200 euros que merecen la pena' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/27-noticias-tecnologia-comenzar-manana-informado-ultimo-1140121'>27 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/27-noticias-tecnologia-comenzar-manana-informado-ultimo-1140121' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/27-noticias-tecnologia-comenzar-manana-informado-ultimo-2842717.jpg' alt='27 noticias de tecnología para comenzar la mañana informado de lo último' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-gadgets-viajar-1139549'>Los 10 mejores gadgets para viajar que puedes comprar</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-gadgets-viajar-1139549' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/hombre-esperando-aeropuerto-movil-mano-2842075.jpg' alt='Los 10 mejores gadgets para viajar que puedes comprar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/como-mejorar-productividad-metodo-benjamin-franklin-1140119'>Cómo mejorar tu productividad con el método de Benjamin Franklin</a></h4>
-    <a href='https://computerhoy.com/noticias/life/como-mejorar-productividad-metodo-benjamin-franklin-1140119' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/12/truco-psicologico-benjamin-franklin-caer-bien-todo-mundo-incluso-enemigos-2158359.jpg' alt='Cómo mejorar tu productividad con el método de Benjamin Franklin' />
     </a>
 </div>
 
