@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/donde-hay-mas-anuncios-netflix-tdt-1140425'>Dónde verás más anuncios, ¿en la nueva suscripción barata de Netflix o en la TDT?</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/donde-hay-mas-anuncios-netflix-tdt-1140425' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/donde-veras-anuncios-nueva-suscripcion-barata-netflix-tdt-2843511.jpg' alt='Dónde verás más anuncios, ¿en la nueva suscripción barata de Netflix o en la TDT?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/filtran-especificaciones-pantalla-telefono-plegable-google-pixel-fold-1140407'>Se filtran las especificaciones de la pantalla del teléfono plegable Google Pixel Fold</a></h4>
     <a href='https://computerhoy.com/noticias/filtran-especificaciones-pantalla-telefono-plegable-google-pixel-fold-1140407' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/pixel-fold-2382135.jpg' alt='Se filtran las especificaciones de la pantalla del teléfono plegable Google Pixel Fold' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/listas/tecnologia/7-juegos-telefonos-android-podras-jugar-amigos-multijugador-local-1119597'>7 juegos para teléfonos Android con los que podrás jugar con tus amigos en multijugador local</a></h4>
     <a href='https://computerhoy.com/listas/tecnologia/7-juegos-telefonos-android-podras-jugar-amigos-multijugador-local-1119597' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/7-juegos-telefonos-android-podras-jugar-amigos-multijugador-local-2838677.jpg' alt='7 juegos para teléfonos Android con los que podrás jugar con tus amigos en multijugador local' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/peliculas-ver-fin-semana-movistarplus-netflix-prime-video-halloween-sandra-bullock-espanola-muy-sugerente-1138229'>Qué películas ver este fin de semana en MovistarPlus+, Netflix y Prime Video: Halloween, Sandra Bullock y una española muy sugerente</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/peliculas-ver-fin-semana-movistarplus-netflix-prime-video-halloween-sandra-bullock-espanola-muy-sugerente-1138229' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/peliculas-ver-fin-semana-movistarplus-netflix-prime-video-halloween-sandra-bullock-espanola-muy-sugerente-2838599.jpg' alt='Qué películas ver este fin de semana en MovistarPlus+, Netflix y Prime Video: Halloween, Sandra Bullock y una española muy sugerente' />
     </a>
 </div>
 
