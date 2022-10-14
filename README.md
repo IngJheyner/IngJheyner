@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/27-noticias-tecnologia-comenzar-manana-informado-ultimo-1140121'>27 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/27-noticias-tecnologia-comenzar-manana-informado-ultimo-1140121' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/27-noticias-tecnologia-comenzar-manana-informado-ultimo-2842717.jpg' alt='27 noticias de tecnología para comenzar la mañana informado de lo último' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-gadgets-viajar-1139549'>Los 10 mejores gadgets para viajar que puedes comprar</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-gadgets-viajar-1139549' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/hombre-esperando-aeropuerto-movil-mano-2842075.jpg' alt='Los 10 mejores gadgets para viajar que puedes comprar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/como-mejorar-productividad-metodo-benjamin-franklin-1140119'>Cómo mejorar tu productividad con el método de Benjamin Franklin</a></h4>
     <a href='https://computerhoy.com/noticias/life/como-mejorar-productividad-metodo-benjamin-franklin-1140119' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/12/truco-psicologico-benjamin-franklin-caer-bien-todo-mundo-incluso-enemigos-2158359.jpg' alt='Cómo mejorar tu productividad con el método de Benjamin Franklin' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/microsoft-office-desaparece-microsoft-365-1139887'>Después de 30 años, Office desaparece para siempre: Microsoft le cambia el nombre</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/microsoft-office-desaparece-microsoft-365-1139887' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/despues-30-anos-office-nos-dice-adios-microsoft-cambia-nombre-2842485.jpg' alt='Después de 30 años, Office desaparece para siempre: Microsoft le cambia el nombre' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/listas/tecnologia/mejores-aplicaciones-android-llevar-diario-registros-cada-dia-1119603'>Las mejores aplicaciones Android para llevar un diario con los registros de cada día</a></h4>
-    <a href='https://computerhoy.com/listas/tecnologia/mejores-aplicaciones-android-llevar-diario-registros-cada-dia-1119603' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/mejores-aplicaciones-android-llevar-diario-registros-cada-dia-2838649.jpg' alt='Las mejores aplicaciones Android para llevar un diario con los registros de cada día' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/xiaomi-echa-cierre-servicio-exclusivo-telefonos-estas-son-mejores-alternativas-1139853'>Xiaomi echa el cierre a un servicio exclusivo de sus teléfonos: estas son las mejores alternativas</a></h4>
-    <a href='https://computerhoy.com/noticias/xiaomi-echa-cierre-servicio-exclusivo-telefonos-estas-son-mejores-alternativas-1139853' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/xiaomi-12t-xiaomi-12t-pro-2829151.jpg' alt='Xiaomi echa el cierre a un servicio exclusivo de sus teléfonos: estas son las mejores alternativas' />
     </a>
 </div>
 
