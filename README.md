@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/temperatura-debes-poner-calefaccion-invierno-ahorrar-factura-1140441'>A esta temperatura debes poner la calefacción este invierno para ahorrar en tu factura</a></h4>
+    <a href='https://computerhoy.com/noticias/life/temperatura-debes-poner-calefaccion-invierno-ahorrar-factura-1140441' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/termostato-2843571.jpg' alt='A esta temperatura debes poner la calefacción este invierno para ahorrar en tu factura' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/malware-bancario-utiliza-ingenieria-social-enganarte-vaciar-cuenta-bancaria-1140437'>Este malware bancario utiliza ingeniería social para engañarte y vaciar tu cuenta bancaria</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/malware-bancario-utiliza-ingenieria-social-enganarte-vaciar-cuenta-bancaria-1140437' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/apps-programas-utilizados-introducir-malware-cuidado-descargarlos-2777481.jpg' alt='Este malware bancario utiliza ingeniería social para engañarte y vaciar tu cuenta bancaria' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/nvidia-no-gustan-criticas-cancela-lanzamiento-rtx-4080-12-gb-1140419'>A NVIDIA no le gustan las críticas y cancela el lanzamiento de la RTX 4080 de 12 GB</a></h4>
+    <a href='https://computerhoy.com/noticias/nvidia-no-gustan-criticas-cancela-lanzamiento-rtx-4080-12-gb-1140419' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/rtx-4080-nvidia-2819209.jpg' alt='A NVIDIA no le gustan las críticas y cancela el lanzamiento de la RTX 4080 de 12 GB' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/donde-hay-mas-anuncios-netflix-tdt-1140425'>Dónde verás más anuncios, ¿en la nueva suscripción barata de Netflix o en la TDT?</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/donde-hay-mas-anuncios-netflix-tdt-1140425' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/donde-veras-anuncios-nueva-suscripcion-barata-netflix-tdt-2843511.jpg' alt='Dónde verás más anuncios, ¿en la nueva suscripción barata de Netflix o en la TDT?' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/filtran-especificaciones-pantalla-telefono-plegable-google-pixel-fold-1140407'>Se filtran las especificaciones de la pantalla del teléfono plegable Google Pixel Fold</a></h4>
     <a href='https://computerhoy.com/noticias/filtran-especificaciones-pantalla-telefono-plegable-google-pixel-fold-1140407' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/pixel-fold-2382135.jpg' alt='Se filtran las especificaciones de la pantalla del teléfono plegable Google Pixel Fold' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/ultimos-rumores-apuntan-lenovo-estaria-preparandose-lanzamiento-1140379'>Los últimos rumores apuntan a que Lenovo estaría preparándose para el lanzamiento</a></h4>
-    <a href='https://computerhoy.com/noticias/ultimos-rumores-apuntan-lenovo-estaria-preparandose-lanzamiento-1140379' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/galeria-review-lenovo-thinkpad-x1-fold-2417361.jpg' alt='Los últimos rumores apuntan a que Lenovo estaría preparándose para el lanzamiento' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/series-ver-fin-semana-netflix-apple-tv-crunchyroll-familia-drogadicto-anime-1140365'>Qué series ver este fin de semana en Netflix, Apple TV+ y Crunchyroll: una familia, un drogadicto y un anime</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/series-ver-fin-semana-netflix-apple-tv-crunchyroll-familia-drogadicto-anime-1140365' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/mejores-series-fin-semana-2843355.jpg' alt='Qué series ver este fin de semana en Netflix, Apple TV+ y Crunchyroll: una familia, un drogadicto y un anime' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/listas/tecnologia/7-juegos-telefonos-android-podras-jugar-amigos-multijugador-local-1119597'>7 juegos para teléfonos Android con los que podrás jugar con tus amigos en multijugador local</a></h4>
-    <a href='https://computerhoy.com/listas/tecnologia/7-juegos-telefonos-android-podras-jugar-amigos-multijugador-local-1119597' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/7-juegos-telefonos-android-podras-jugar-amigos-multijugador-local-2838677.jpg' alt='7 juegos para teléfonos Android con los que podrás jugar con tus amigos en multijugador local' />
     </a>
 </div>
 
