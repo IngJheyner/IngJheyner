@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/nueva-freidora-inteligente-sin-aceite-cosori-oferta-1140459'>La nueva freidora inteligente sin aceite de Cosori es un 30% más rápida, y ya está en oferta</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/nueva-freidora-inteligente-sin-aceite-cosori-oferta-1140459' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/nueva-freidora-inteligente-aceite-cosori-30-rapida-ya-oferta-2843609.jpg' alt='La nueva freidora inteligente sin aceite de Cosori es un 30% más rápida, y ya está en oferta' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/temperatura-debes-poner-calefaccion-invierno-ahorrar-factura-1140441'>A esta temperatura debes poner la calefacción este invierno para ahorrar en tu factura</a></h4>
     <a href='https://computerhoy.com/noticias/life/temperatura-debes-poner-calefaccion-invierno-ahorrar-factura-1140441' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/termostato-2843571.jpg' alt='A esta temperatura debes poner la calefacción este invierno para ahorrar en tu factura' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/donde-hay-mas-anuncios-netflix-tdt-1140425'>Dónde verás más anuncios, ¿en la nueva suscripción barata de Netflix o en la TDT?</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/donde-hay-mas-anuncios-netflix-tdt-1140425' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/donde-veras-anuncios-nueva-suscripcion-barata-netflix-tdt-2843511.jpg' alt='Dónde verás más anuncios, ¿en la nueva suscripción barata de Netflix o en la TDT?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/filtran-especificaciones-pantalla-telefono-plegable-google-pixel-fold-1140407'>Se filtran las especificaciones de la pantalla del teléfono plegable Google Pixel Fold</a></h4>
-    <a href='https://computerhoy.com/noticias/filtran-especificaciones-pantalla-telefono-plegable-google-pixel-fold-1140407' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/pixel-fold-2382135.jpg' alt='Se filtran las especificaciones de la pantalla del teléfono plegable Google Pixel Fold' />
     </a>
 </div>
 
