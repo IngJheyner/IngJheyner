@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/fossil-anima-wear-os-3-reloj-gen-6-1140161'>Fossil se anima con Wear OS 3 para su reloj Gen 6 Wellnes Edition</a></h4>
+    <a href='https://computerhoy.com/noticias/fossil-anima-wear-os-3-reloj-gen-6-1140161' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/fossil-gen-6-analisis-opinion-2544933.jpg' alt='Fossil se anima con Wear OS 3 para su reloj Gen 6 Wellnes Edition' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/robots-cocina-menos-200-euros-oferta-842795'>5 robots de cocina de menos de 200 euros que merecen la pena</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/robots-cocina-menos-200-euros-oferta-842795' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/cecotec-mambo-10090-2842079.jpg' alt='5 robots de cocina de menos de 200 euros que merecen la pena' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/como-mejorar-productividad-metodo-benjamin-franklin-1140119'>Cómo mejorar tu productividad con el método de Benjamin Franklin</a></h4>
     <a href='https://computerhoy.com/noticias/life/como-mejorar-productividad-metodo-benjamin-franklin-1140119' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/12/truco-psicologico-benjamin-franklin-caer-bien-todo-mundo-incluso-enemigos-2158359.jpg' alt='Cómo mejorar tu productividad con el método de Benjamin Franklin' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/renault-mobilize-solo-vehiculo-electrico-unipersonal-joystick-video-1140117'>Renault Mobilize Solo, el nuevo vehículo eléctrico unipersonal que se maneja con un joystick (vídeo)</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/renault-mobilize-solo-vehiculo-electrico-unipersonal-joystick-video-1140117' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/verticalimage1665699617172-2842711.jpg' alt='Renault Mobilize Solo, el nuevo vehículo eléctrico unipersonal que se maneja con un joystick (vídeo)' />
     </a>
 </div>
 
