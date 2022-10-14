@@ -50,9 +50,17 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/renault-mobilize-solo-vehiculo-electrico-unipersonal-joystick-video-1140117'>Mobilize Solo, el nuevo vehículo eléctrico unipersonal de Renault que se maneja con un joystick (vídeo)</a></h4>
+    <h4><a href='https://computerhoy.com/noticias/life/como-mejorar-productividad-metodo-benjamin-franklin-1140119'>Cómo mejorar tu productividad con el método de Benjamin Franklin</a></h4>
+    <a href='https://computerhoy.com/noticias/life/como-mejorar-productividad-metodo-benjamin-franklin-1140119' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/12/truco-psicologico-benjamin-franklin-caer-bien-todo-mundo-incluso-enemigos-2158359.jpg' alt='Cómo mejorar tu productividad con el método de Benjamin Franklin' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/renault-mobilize-solo-vehiculo-electrico-unipersonal-joystick-video-1140117'>Renault Mobilize Solo, el nuevo vehículo eléctrico unipersonal que se maneja con un joystick (vídeo)</a></h4>
     <a href='https://computerhoy.com/noticias/motor/renault-mobilize-solo-vehiculo-electrico-unipersonal-joystick-video-1140117' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/verticalimage1665699617172-2842711.jpg' alt='Mobilize Solo, el nuevo vehículo eléctrico unipersonal de Renault que se maneja con un joystick (vídeo)' />
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/verticalimage1665699617172-2842711.jpg' alt='Renault Mobilize Solo, el nuevo vehículo eléctrico unipersonal que se maneja con un joystick (vídeo)' />
     </a>
 </div>
 
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/xiaomi-echa-cierre-servicio-exclusivo-telefonos-estas-son-mejores-alternativas-1139853'>Xiaomi echa el cierre a un servicio exclusivo de sus teléfonos: estas son las mejores alternativas</a></h4>
     <a href='https://computerhoy.com/noticias/xiaomi-echa-cierre-servicio-exclusivo-telefonos-estas-son-mejores-alternativas-1139853' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/xiaomi-12t-xiaomi-12t-pro-2829151.jpg' alt='Xiaomi echa el cierre a un servicio exclusivo de sus teléfonos: estas son las mejores alternativas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/televisor-xiaomi-tv-a2-4k-50-pulgadas-dolby-vision-oferta-1139875'>Para ver las series y películas como se merecen: televisor Xiaomi TV A2 4K de 50 pulgadas con Dolby Vision, solo 449 euros</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/televisor-xiaomi-tv-a2-4k-50-pulgadas-dolby-vision-oferta-1139875' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/ver-series-peliculas-como-merecen-televisor-xiaomi-tv-a2-50-pulgadas-resolucion-4k-dolby-vision-solo-449-euros-2842423.jpg' alt='Para ver las series y películas como se merecen: televisor Xiaomi TV A2 4K de 50 pulgadas con Dolby Vision, solo 449 euros' />
     </a>
 </div>
 
