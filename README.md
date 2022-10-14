@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/funciona-editar-mensajes-whatsapp-como-veran-demas-1140345'>Así funciona editar mensajes en WhatsApp y cómo lo verán los demás</a></h4>
+    <a href='https://computerhoy.com/noticias/funciona-editar-mensajes-whatsapp-como-veran-demas-1140345' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/whatsapp-business-2734971.jpg' alt='Así funciona editar mensajes en WhatsApp y cómo lo verán los demás' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/elon-musk-cansa-ser-generoso-pueblo-ucraniano-1140329'>Elon Musk se cansa de ser generoso con el pueblo ucraniano</a></h4>
+    <a href='https://computerhoy.com/noticias/elon-musk-cansa-ser-generoso-pueblo-ucraniano-1140329' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/12/elon-musk-2161621.jpg' alt='Elon Musk se cansa de ser generoso con el pueblo ucraniano' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/ticwatch-pro-3-lte-reloj-inteligente-deporte-menos-200-euros-1140273'>Ticwatch Pro 3 LTE, el reloj inteligente para deporte y para el día a día por fin cuesta menos de 200 euros</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/ticwatch-pro-3-lte-reloj-inteligente-deporte-menos-200-euros-1140273' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/ticwatch-pro-3-lte-2843141.jpg' alt='Ticwatch Pro 3 LTE, el reloj inteligente para deporte y para el día a día por fin cuesta menos de 200 euros' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-crear-rutas-mapas-personalizados-google-maps-1099133'>Cómo crear rutas y mapas personalizados en Google Maps</a></h4>
     <a href='https://computerhoy.com/tutoriales/tecnologia/como-crear-rutas-mapas-personalizados-google-maps-1099133' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/colores-google-maps-trafico-2757217.jpg' alt='Cómo crear rutas y mapas personalizados en Google Maps' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/netflix-tendra-desvelar-mayores-secretos-nueva-suscripcion-anuncios-1140245'>Netflix tendrá que desvelar uno de sus mayores secretos con la nueva suscripción con anuncios</a></h4>
-    <a href='https://computerhoy.com/noticias/netflix-tendra-desvelar-mayores-secretos-nueva-suscripcion-anuncios-1140245' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/netflix-2796523.jpg' alt='Netflix tendrá que desvelar uno de sus mayores secretos con la nueva suscripción con anuncios' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/movil-xiaomi-5g-carga-120w-tiene-casi-100eu-descuento-estos-momentos-1140167'>Este móvil Xiaomi con 5G y carga a 120W tiene casi 100€ de descuento en estos momentos</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/movil-xiaomi-5g-carga-120w-tiene-casi-100eu-descuento-estos-momentos-1140167' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/xiaomi-redmi-note-11-pro-5g-2693461.jpg' alt='Este móvil Xiaomi con 5G y carga a 120W tiene casi 100€ de descuento en estos momentos' />
     </a>
 </div>
 
