@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/renault-mobilize-solo-vehiculo-electrico-unipersonal-joystick-video-1140117'>Mobilize Solo, el nuevo vehículo eléctrico unipersonal de Renault que se maneja con un joystick (vídeo)</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/renault-mobilize-solo-vehiculo-electrico-unipersonal-joystick-video-1140117' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/verticalimage1665699617172-2842711.jpg' alt='Mobilize Solo, el nuevo vehículo eléctrico unipersonal de Renault que se maneja con un joystick (vídeo)' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/microsoft-office-desaparece-microsoft-365-1139887'>Después de 30 años, Office desaparece para siempre: Microsoft le cambia el nombre</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/microsoft-office-desaparece-microsoft-365-1139887' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/despues-30-anos-office-nos-dice-adios-microsoft-cambia-nombre-2842485.jpg' alt='Después de 30 años, Office desaparece para siempre: Microsoft le cambia el nombre' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/televisor-xiaomi-tv-a2-4k-50-pulgadas-dolby-vision-oferta-1139875'>Para ver las series y películas como se merecen: televisor Xiaomi TV A2 4K de 50 pulgadas con Dolby Vision, solo 449 euros</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/televisor-xiaomi-tv-a2-4k-50-pulgadas-dolby-vision-oferta-1139875' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/ver-series-peliculas-como-merecen-televisor-xiaomi-tv-a2-50-pulgadas-resolucion-4k-dolby-vision-solo-449-euros-2842423.jpg' alt='Para ver las series y películas como se merecen: televisor Xiaomi TV A2 4K de 50 pulgadas con Dolby Vision, solo 449 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/google-pixel-7-esconde-secreto-puede-acabar-dual-sim-tal-como-conocemos-1139833'>El Google Pixel 7 esconde un secreto que puede acabar con el Dual SIM tal y como lo conocemos</a></h4>
-    <a href='https://computerhoy.com/noticias/google-pixel-7-esconde-secreto-puede-acabar-dual-sim-tal-como-conocemos-1139833' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/google-pixel-7-pro-2838091.jpg' alt='El Google Pixel 7 esconde un secreto que puede acabar con el Dual SIM tal y como lo conocemos' />
     </a>
 </div>
 
