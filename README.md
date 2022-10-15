@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/estas-serian-funciones-precio-nuevo-plan-suscripcion-spotify-incluiria-audio-alta-calidad-mucho-1140707'>Estas serían las funciones y el precio del nuevo plan de suscripción de Spotify que incluiría audio de alta calidad y mucho más</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/estas-serian-funciones-precio-nuevo-plan-suscripcion-spotify-incluiria-audio-alta-calidad-mucho-1140707' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/12/spotify-2169135.jpg' alt='Estas serían las funciones y el precio del nuevo plan de suscripción de Spotify que incluiría audio de alta calidad y mucho más' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/analisis/samsung-galaxy-watch-5-review-opinion-1140327'>Samsung Galaxy Watch 5, análisis y opinión</a></h4>
+    <a href='https://computerhoy.com/analisis/samsung-galaxy-watch-5-review-opinion-1140327' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/review-samsung-galaxy-watch-5-2843269.jpg' alt='Samsung Galaxy Watch 5, análisis y opinión' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/cascos-realidad-mixta-apple-contaran-escaneo-iris-pagos-diseno-premium-1140697'>Los cascos de realidad mixta de Apple contarán con escaneo de iris para pagos y un diseño premium</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/cascos-realidad-mixta-apple-contaran-escaneo-iris-pagos-diseno-premium-1140697' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/visor-realidad-virtual-2721487.jpg' alt='Los cascos de realidad mixta de Apple contarán con escaneo de iris para pagos y un diseño premium' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tutoriales/tecnologia/tres-maneras-acceder-opciones-arranque-windows-10-windows-11-1077031'>Tres maneras de acceder a las opciones de arranque de Windows 10 y Windows 11</a></h4>
     <a href='https://computerhoy.com/tutoriales/tecnologia/tres-maneras-acceder-opciones-arranque-windows-10-windows-11-1077031' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/encender-ordenador-2730405.jpg' alt='Tres maneras de acceder a las opciones de arranque de Windows 10 y Windows 11' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/sennheiser-momentum-4-review-opinion-1123997'>Sennheiser Momentum 4, análisis y opinión</a></h4>
-    <a href='https://computerhoy.com/analisis/sennheiser-momentum-4-review-opinion-1123997' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/analisis-sennheiser-momentum-4-2836095.jpg' alt='Sennheiser Momentum 4, análisis y opinión' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/plegables-no-son-futuro-1138623'>Los plegables no son el futuro…</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/plegables-no-son-futuro-1138623' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/analisis-galaxy-fold-4-2791571.jpg' alt='Los plegables no son el futuro…' />
     </a>
 </div>
 
