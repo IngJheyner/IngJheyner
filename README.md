@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/tres-maneras-acceder-opciones-arranque-windows-10-windows-11-1077031'>Tres maneras de acceder a las opciones de arranque de Windows 10 y Windows 11</a></h4>
+    <a href='https://computerhoy.com/tutoriales/tecnologia/tres-maneras-acceder-opciones-arranque-windows-10-windows-11-1077031' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/encender-ordenador-2730405.jpg' alt='Tres maneras de acceder a las opciones de arranque de Windows 10 y Windows 11' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/analisis/sennheiser-momentum-4-review-opinion-1123997'>Sennheiser Momentum 4, análisis y opinión</a></h4>
     <a href='https://computerhoy.com/analisis/sennheiser-momentum-4-review-opinion-1123997' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/analisis-sennheiser-momentum-4-2836095.jpg' alt='Sennheiser Momentum 4, análisis y opinión' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/efecto-perspectiva-william-shatner-astronautas-1140177'>Qué es el Efecto Perspectiva que ha afectado a William Shatner: "Mi viaje al espacio me ha envuelto en una tristeza abrumadora"</a></h4>
     <a href='https://computerhoy.com/noticias/life/efecto-perspectiva-william-shatner-astronautas-1140177' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/efecto-panorama-ha-afectado-william-shatner-mi-viaje-espacio-me-ha-envuelto-tristeza-abrumadora-2842797.jpg' alt='Qué es el Efecto Perspectiva que ha afectado a William Shatner: "Mi viaje al espacio me ha envuelto en una tristeza abrumadora"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-auriculares-iphone-puedes-comprar-1023811'>Más allá de los AirPods, estos son los mejores auriculares para iPhone que puedes comprar</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-auriculares-iphone-puedes-comprar-1023811' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/hombre-airpods-pro-apple-calle-2637005.jpg' alt='Más allá de los AirPods, estos son los mejores auriculares para iPhone que puedes comprar' />
     </a>
 </div>
 
