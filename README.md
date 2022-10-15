@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/pirateria-series-peliculas-aumentado-2022-muso-1140469'>La piratería de series y películas ha aumentado de forma brutal en 2022, y la culpa no es de la inflación</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/pirateria-series-peliculas-aumentado-2022-muso-1140469' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/pirateria-series-peliculas-ha-aumentado-2022-culpa-no-inflacion-2843665.jpg' alt='La piratería de series y películas ha aumentado de forma brutal en 2022, y la culpa no es de la inflación' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/microsoft-desvela-escritorio-windows-12-1140465'>Microsoft desvela sin querer el escritorio de Windows 12, con muchas novedades</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/microsoft-desvela-escritorio-windows-12-1140465' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/microsoft-desvela-querer-posible-escritorio-windows-12-2843623.jpg' alt='Microsoft desvela sin querer el escritorio de Windows 12, con muchas novedades' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/malware-bancario-utiliza-ingenieria-social-enganarte-vaciar-cuenta-bancaria-1140437'>Este malware bancario utiliza ingeniería social para engañarte y vaciar tu cuenta bancaria</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/malware-bancario-utiliza-ingenieria-social-enganarte-vaciar-cuenta-bancaria-1140437' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/apps-programas-utilizados-introducir-malware-cuidado-descargarlos-2777481.jpg' alt='Este malware bancario utiliza ingeniería social para engañarte y vaciar tu cuenta bancaria' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/nvidia-no-gustan-criticas-cancela-lanzamiento-rtx-4080-12-gb-1140419'>A NVIDIA no le gustan las críticas y cancela el lanzamiento de la RTX 4080 de 12 GB</a></h4>
-    <a href='https://computerhoy.com/noticias/nvidia-no-gustan-criticas-cancela-lanzamiento-rtx-4080-12-gb-1140419' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/rtx-4080-nvidia-2819209.jpg' alt='A NVIDIA no le gustan las críticas y cancela el lanzamiento de la RTX 4080 de 12 GB' />
     </a>
 </div>
 
