@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/plegables-no-son-futuro-1138623'>Los plegables no son el futuro…</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/plegables-no-son-futuro-1138623' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/analisis-galaxy-fold-4-2791571.jpg' alt='Los plegables no son el futuro…' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-camara-108-megapixeles-oferta-838515'>Estos son los 5 mejores móviles con cámara de 108 megapíxeles que puedes comprar ahora mismo</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-camara-108-megapixeles-oferta-838515' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/analisis-samsung-galaxy-s22-ultra-2620737.jpg' alt='Estos son los 5 mejores móviles con cámara de 108 megapíxeles que puedes comprar ahora mismo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/efecto-perspectiva-william-shatner-astronautas-1140177'>Qué es el Efecto Perspectiva que ha afectado a William Shatner: "Mi viaje al espacio me ha envuelto en una tristeza abrumadora"</a></h4>
     <a href='https://computerhoy.com/noticias/life/efecto-perspectiva-william-shatner-astronautas-1140177' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/efecto-panorama-ha-afectado-william-shatner-mi-viaje-espacio-me-ha-envuelto-tristeza-abrumadora-2842797.jpg' alt='Qué es el Efecto Perspectiva que ha afectado a William Shatner: "Mi viaje al espacio me ha envuelto en una tristeza abrumadora"' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/partido-sintetico-dinamarca-candidato-inteligencia-artificial-leader-lars-1140661'>El Partido Sintético de Dinamarca quiere presentarse a las elecciones con una IA como candidato</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/partido-sintetico-dinamarca-candidato-inteligencia-artificial-leader-lars-1140661' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/partido-sintetico-dinamarca-quiere-presentarse-elecciones-ia-como-candidato-2843843.jpg' alt='El Partido Sintético de Dinamarca quiere presentarse a las elecciones con una IA como candidato' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/ansiedad-dominical-domingos-vuelta-trabajo-clases-consejos-ayuda-1140659'>¿Sufres ansiedad los domingos por la tarde por la vuelta al trabajo o las clases? Estos consejos de expertos te ayudarán</a></h4>
-    <a href='https://computerhoy.com/noticias/life/ansiedad-dominical-domingos-vuelta-trabajo-clases-consejos-ayuda-1140659' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/sufres-ansiedad-domingos-tarde-vuelta-trabajo-clases-estos-consejos-expertos-te-ayudaran-2843841.jpg' alt='¿Sufres ansiedad los domingos por la tarde por la vuelta al trabajo o las clases? Estos consejos de expertos te ayudarán' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/pirateria-series-peliculas-aumentado-2022-muso-1140469'>La piratería de series y películas ha aumentado de forma brutal en 2022, y la culpa no es de la inflación</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/pirateria-series-peliculas-aumentado-2022-muso-1140469' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/pirateria-series-peliculas-ha-aumentado-2022-culpa-no-inflacion-2843665.jpg' alt='La piratería de series y películas ha aumentado de forma brutal en 2022, y la culpa no es de la inflación' />
     </a>
 </div>
 
