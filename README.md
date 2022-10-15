@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/ansiedad-dominical-domingos-vuelta-trabajo-clases-consejos-ayuda-1140659'>¿Sufres ansiedad los domingos por la tarde por la vuelta al trabajo o las clases? Estos consejos de expertos te ayudarán</a></h4>
+    <a href='https://computerhoy.com/noticias/life/ansiedad-dominical-domingos-vuelta-trabajo-clases-consejos-ayuda-1140659' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/sufres-ansiedad-domingos-tarde-vuelta-trabajo-clases-estos-consejos-expertos-te-ayudaran-2843841.jpg' alt='¿Sufres ansiedad los domingos por la tarde por la vuelta al trabajo o las clases? Estos consejos de expertos te ayudarán' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/pirateria-series-peliculas-aumentado-2022-muso-1140469'>La piratería de series y películas ha aumentado de forma brutal en 2022, y la culpa no es de la inflación</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/pirateria-series-peliculas-aumentado-2022-muso-1140469' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/pirateria-series-peliculas-ha-aumentado-2022-culpa-no-inflacion-2843665.jpg' alt='La piratería de series y películas ha aumentado de forma brutal en 2022, y la culpa no es de la inflación' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/temperatura-debes-poner-calefaccion-invierno-ahorrar-factura-1140441'>A esta temperatura debes poner la calefacción este invierno para ahorrar en tu factura</a></h4>
     <a href='https://computerhoy.com/noticias/life/temperatura-debes-poner-calefaccion-invierno-ahorrar-factura-1140441' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/termostato-2843571.jpg' alt='A esta temperatura debes poner la calefacción este invierno para ahorrar en tu factura' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/malware-bancario-utiliza-ingenieria-social-enganarte-vaciar-cuenta-bancaria-1140437'>Este malware bancario utiliza ingeniería social para engañarte y vaciar tu cuenta bancaria</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/malware-bancario-utiliza-ingenieria-social-enganarte-vaciar-cuenta-bancaria-1140437' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/apps-programas-utilizados-introducir-malware-cuidado-descargarlos-2777481.jpg' alt='Este malware bancario utiliza ingeniería social para engañarte y vaciar tu cuenta bancaria' />
     </a>
 </div>
 
