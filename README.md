@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/foamstream-espuma-biodegradable-malas-hierbas-ecologico-1140263'>Esta espuma biodegradable sin herbicidas mata las malas hierbas sin contaminar</a></h4>
+    <a href='https://computerhoy.com/noticias/life/foamstream-espuma-biodegradable-malas-hierbas-ecologico-1140263' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/espuma-biodegradable-pesticidas-mata-malas-hierbas-contaminar-2843083.jpg' alt='Esta espuma biodegradable sin herbicidas mata las malas hierbas sin contaminar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/gaming/ya-oficial-razer-edge-5g-primera-consola-portatil-5g-dedicada-juegues-donde-sea-interrupciones-1140765'>Ya es oficial Razer Edge 5G: la primera consola portátil 5G dedicada para que juegues donde sea sin interrupciones</a></h4>
     <a href='https://computerhoy.com/noticias/gaming/ya-oficial-razer-edge-5g-primera-consola-portatil-5g-dedicada-juegues-donde-sea-interrupciones-1140765' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/razer-edge-5g-2844207.jpg' alt='Ya es oficial Razer Edge 5G: la primera consola portátil 5G dedicada para que juegues donde sea sin interrupciones' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/entretenimiento/cortometrajes-mediometrajes-disney-querras-ver-sentada-cuanto-sepas-existen-1138819'>Cortometrajes y mediometrajes de Disney+ que querrás ver de una sentada en cuanto sepas que existen</a></h4>
     <a href='https://computerhoy.com/reportajes/entretenimiento/cortometrajes-mediometrajes-disney-querras-ver-sentada-cuanto-sepas-existen-1138819' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/CortometrajesymediometrajesdeDisneyquequerrasverdeunasentadaencuantosepasqueexisten_166564110226112289.jpg' alt='Cortometrajes y mediometrajes de Disney+ que querrás ver de una sentada en cuanto sepas que existen' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/crean-tortuga-robotica-anfibia-puede-moverse-tierra-agua-1140745'>Crean una tortuga robótica anfibia que puede moverse por tierra y agua</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/crean-tortuga-robotica-anfibia-puede-moverse-tierra-agua-1140745' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/crean-tortuga-robotica-anfibia-puede-moverse-tierra-agua-2843963.jpg' alt='Crean una tortuga robótica anfibia que puede moverse por tierra y agua' />
     </a>
 </div>
 
