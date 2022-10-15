@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/analisis/sennheiser-momentum-4-review-opinion-1123997'>Sennheiser Momentum 4, análisis y opinión</a></h4>
+    <a href='https://computerhoy.com/analisis/sennheiser-momentum-4-review-opinion-1123997' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/analisis-sennheiser-momentum-4-2836095.jpg' alt='Sennheiser Momentum 4, análisis y opinión' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/plegables-no-son-futuro-1138623'>Los plegables no son el futuro…</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/plegables-no-son-futuro-1138623' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/analisis-galaxy-fold-4-2791571.jpg' alt='Los plegables no son el futuro…' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-auriculares-iphone-puedes-comprar-1023811'>Más allá de los AirPods, estos son los mejores auriculares para iPhone que puedes comprar</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/mejores-auriculares-iphone-puedes-comprar-1023811' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/hombre-airpods-pro-apple-calle-2637005.jpg' alt='Más allá de los AirPods, estos son los mejores auriculares para iPhone que puedes comprar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/partido-sintetico-dinamarca-candidato-inteligencia-artificial-leader-lars-1140661'>El Partido Sintético de Dinamarca quiere presentarse a las elecciones con una IA como candidato</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/partido-sintetico-dinamarca-candidato-inteligencia-artificial-leader-lars-1140661' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/partido-sintetico-dinamarca-quiere-presentarse-elecciones-ia-como-candidato-2843843.jpg' alt='El Partido Sintético de Dinamarca quiere presentarse a las elecciones con una IA como candidato' />
     </a>
 </div>
 
