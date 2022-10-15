@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/efecto-perspectiva-william-shatner-astronautas-1140177'>Qué es el Efecto Perspectiva que ha afectado a William Shatner: "Mi viaje al espacio me ha envuelto en una tristeza abrumadora"</a></h4>
+    <a href='https://computerhoy.com/noticias/life/efecto-perspectiva-william-shatner-astronautas-1140177' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/efecto-panorama-ha-afectado-william-shatner-mi-viaje-espacio-me-ha-envuelto-tristeza-abrumadora-2842797.jpg' alt='Qué es el Efecto Perspectiva que ha afectado a William Shatner: "Mi viaje al espacio me ha envuelto en una tristeza abrumadora"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-auriculares-iphone-puedes-comprar-1023811'>Más allá de los AirPods, estos son los mejores auriculares para iPhone que puedes comprar</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-auriculares-iphone-puedes-comprar-1023811' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/hombre-airpods-pro-apple-calle-2637005.jpg' alt='Más allá de los AirPods, estos son los mejores auriculares para iPhone que puedes comprar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/partido-sintetico-dinamarca-candidato-inteligencia-artificial-leader-lars-1140661'>El Partido Sintético de Dinamarca quiere presentarse a las elecciones con una IA como candidato</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/partido-sintetico-dinamarca-candidato-inteligencia-artificial-leader-lars-1140661' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/partido-sintetico-dinamarca-quiere-presentarse-elecciones-ia-como-candidato-2843843.jpg' alt='El Partido Sintético de Dinamarca quiere presentarse a las elecciones con una IA como candidato' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/ansiedad-dominical-domingos-vuelta-trabajo-clases-consejos-ayuda-1140659'>¿Sufres ansiedad los domingos por la tarde por la vuelta al trabajo o las clases? Estos consejos de expertos te ayudarán</a></h4>
     <a href='https://computerhoy.com/noticias/life/ansiedad-dominical-domingos-vuelta-trabajo-clases-consejos-ayuda-1140659' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/sufres-ansiedad-domingos-tarde-vuelta-trabajo-clases-estos-consejos-expertos-te-ayudaran-2843841.jpg' alt='¿Sufres ansiedad los domingos por la tarde por la vuelta al trabajo o las clases? Estos consejos de expertos te ayudarán' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/pirateria-series-peliculas-aumentado-2022-muso-1140469'>La piratería de series y películas ha aumentado de forma brutal en 2022, y la culpa no es de la inflación</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/pirateria-series-peliculas-aumentado-2022-muso-1140469' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/pirateria-series-peliculas-ha-aumentado-2022-culpa-no-inflacion-2843665.jpg' alt='La piratería de series y películas ha aumentado de forma brutal en 2022, y la culpa no es de la inflación' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/microsoft-desvela-escritorio-windows-12-1140465'>Microsoft desvela sin querer el escritorio de Windows 12, con muchas novedades</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/microsoft-desvela-escritorio-windows-12-1140465' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/microsoft-desvela-querer-posible-escritorio-windows-12-2843623.jpg' alt='Microsoft desvela sin querer el escritorio de Windows 12, con muchas novedades' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/nueva-freidora-inteligente-sin-aceite-cosori-oferta-1140459'>La nueva freidora inteligente sin aceite de Cosori es un 30% más rápida, y ya está en oferta</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/nueva-freidora-inteligente-sin-aceite-cosori-oferta-1140459' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/nueva-freidora-inteligente-aceite-cosori-30-rapida-ya-oferta-2843609.jpg' alt='La nueva freidora inteligente sin aceite de Cosori es un 30% más rápida, y ya está en oferta' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/temperatura-debes-poner-calefaccion-invierno-ahorrar-factura-1140441'>A esta temperatura debes poner la calefacción este invierno para ahorrar en tu factura</a></h4>
-    <a href='https://computerhoy.com/noticias/life/temperatura-debes-poner-calefaccion-invierno-ahorrar-factura-1140441' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/termostato-2843571.jpg' alt='A esta temperatura debes poner la calefacción este invierno para ahorrar en tu factura' />
     </a>
 </div>
 
