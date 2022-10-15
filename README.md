@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/popular-xiaomi-12x-ya-alcance-todos-bolsillos-gracias-200-euros-descuento-1140725'>El popular Xiaomi 12X ya al alcance de todos los bolsillos gracias a sus 200 euros de descuento</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/popular-xiaomi-12x-ya-alcance-todos-bolsillos-gracias-200-euros-descuento-1140725' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/xiaomi-12x-2683151.jpg' alt='El popular Xiaomi 12X ya al alcance de todos los bolsillos gracias a sus 200 euros de descuento' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/apple-planea-nueva-version-imessage-capacidades-ar-salas-chats-1140715'>Apple planea una nueva versión de iMessage con capacidades AR y salas de chats</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/apple-planea-nueva-version-imessage-capacidades-ar-salas-chats-1140715' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/imessage-2843909.jpg' alt='Apple planea una nueva versión de iMessage con capacidades AR y salas de chats' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/entretenimiento/7-series-comedia-tantas-temporadas-afortunadamente-parece-nunca-acaban-1138673'>7 series de comedia con tantas temporadas que (afortunadamente) parece que nunca acaban</a></h4>
+    <a href='https://computerhoy.com/reportajes/entretenimiento/7-series-comedia-tantas-temporadas-afortunadamente-parece-nunca-acaban-1138673' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/office-2603421.jpg' alt='7 series de comedia con tantas temporadas que (afortunadamente) parece que nunca acaban' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/estas-serian-funciones-precio-nuevo-plan-suscripcion-spotify-incluiria-audio-alta-calidad-mucho-1140707'>Estas serían las funciones y el precio del nuevo plan de suscripción de Spotify que incluiría audio de alta calidad y mucho más</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/estas-serian-funciones-precio-nuevo-plan-suscripcion-spotify-incluiria-audio-alta-calidad-mucho-1140707' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/12/spotify-2169135.jpg' alt='Estas serían las funciones y el precio del nuevo plan de suscripción de Spotify que incluiría audio de alta calidad y mucho más' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/analisis/samsung-galaxy-watch-5-review-opinion-1140327'>Samsung Galaxy Watch 5, análisis y opinión</a></h4>
     <a href='https://computerhoy.com/analisis/samsung-galaxy-watch-5-review-opinion-1140327' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/review-samsung-galaxy-watch-5-2843269.jpg' alt='Samsung Galaxy Watch 5, análisis y opinión' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/cascos-realidad-mixta-apple-contaran-escaneo-iris-pagos-diseno-premium-1140697'>Los cascos de realidad mixta de Apple contarán con escaneo de iris para pagos y un diseño premium</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/cascos-realidad-mixta-apple-contaran-escaneo-iris-pagos-diseno-premium-1140697' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/visor-realidad-virtual-2721487.jpg' alt='Los cascos de realidad mixta de Apple contarán con escaneo de iris para pagos y un diseño premium' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/dlss-3-novedad-nuevas-tarjetas-graficas-serie-geforce-rtx-nvidia-1133897'>¿Qué es DLSS 3, la novedad de las nuevas tarjetas gráficas de la serie GeForce RTX de NVIDIA?</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/dlss-3-novedad-nuevas-tarjetas-graficas-serie-geforce-rtx-nvidia-1133897' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/verticalimage1665788006228-2843661.jpg' alt='¿Qué es DLSS 3, la novedad de las nuevas tarjetas gráficas de la serie GeForce RTX de NVIDIA?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/tres-maneras-acceder-opciones-arranque-windows-10-windows-11-1077031'>Tres maneras de acceder a las opciones de arranque de Windows 10 y Windows 11</a></h4>
-    <a href='https://computerhoy.com/tutoriales/tecnologia/tres-maneras-acceder-opciones-arranque-windows-10-windows-11-1077031' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/encender-ordenador-2730405.jpg' alt='Tres maneras de acceder a las opciones de arranque de Windows 10 y Windows 11' />
     </a>
 </div>
 
