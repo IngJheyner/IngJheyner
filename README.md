@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/dlss-3-novedad-nuevas-tarjetas-graficas-serie-geforce-rtx-nvidia-1133897'>¿Qué es DLSS 3, la novedad de las nuevas tarjetas gráficas de la serie GeForce RTX de NVIDIA?</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/dlss-3-novedad-nuevas-tarjetas-graficas-serie-geforce-rtx-nvidia-1133897' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/verticalimage1665788006228-2843661.jpg' alt='¿Qué es DLSS 3, la novedad de las nuevas tarjetas gráficas de la serie GeForce RTX de NVIDIA?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tutoriales/tecnologia/tres-maneras-acceder-opciones-arranque-windows-10-windows-11-1077031'>Tres maneras de acceder a las opciones de arranque de Windows 10 y Windows 11</a></h4>
     <a href='https://computerhoy.com/tutoriales/tecnologia/tres-maneras-acceder-opciones-arranque-windows-10-windows-11-1077031' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/encender-ordenador-2730405.jpg' alt='Tres maneras de acceder a las opciones de arranque de Windows 10 y Windows 11' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-camara-108-megapixeles-oferta-838515'>Estos son los 5 mejores móviles con cámara de 108 megapíxeles que puedes comprar ahora mismo</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-camara-108-megapixeles-oferta-838515' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/analisis-samsung-galaxy-s22-ultra-2620737.jpg' alt='Estos son los 5 mejores móviles con cámara de 108 megapíxeles que puedes comprar ahora mismo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/efecto-perspectiva-william-shatner-astronautas-1140177'>Qué es el Efecto Perspectiva que ha afectado a William Shatner: "Mi viaje al espacio me ha envuelto en una tristeza abrumadora"</a></h4>
-    <a href='https://computerhoy.com/noticias/life/efecto-perspectiva-william-shatner-astronautas-1140177' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/efecto-panorama-ha-afectado-william-shatner-mi-viaje-espacio-me-ha-envuelto-tristeza-abrumadora-2842797.jpg' alt='Qué es el Efecto Perspectiva que ha afectado a William Shatner: "Mi viaje al espacio me ha envuelto en una tristeza abrumadora"' />
     </a>
 </div>
 
