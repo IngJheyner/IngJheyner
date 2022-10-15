@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/oferta-conseguir-hbo-max-2-euros-anuales-estafa-consiste-1140743'>Esta oferta para conseguir HBO Max por 2 euros anuales es una estafa, y en esto consiste</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/oferta-conseguir-hbo-max-2-euros-anuales-estafa-consiste-1140743' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/hbo-max-movil-2633613.jpg' alt='Esta oferta para conseguir HBO Max por 2 euros anuales es una estafa, y en esto consiste' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/popular-xiaomi-12x-ya-alcance-todos-bolsillos-gracias-200-euros-descuento-1140725'>El popular Xiaomi 12X ya al alcance de todos los bolsillos gracias a sus 200 euros de descuento</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/popular-xiaomi-12x-ya-alcance-todos-bolsillos-gracias-200-euros-descuento-1140725' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/xiaomi-12x-2683151.jpg' alt='El popular Xiaomi 12X ya al alcance de todos los bolsillos gracias a sus 200 euros de descuento' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/estas-serian-funciones-precio-nuevo-plan-suscripcion-spotify-incluiria-audio-alta-calidad-mucho-1140707'>Estas serían las funciones y el precio del nuevo plan de suscripción de Spotify que incluiría audio de alta calidad y mucho más</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/estas-serian-funciones-precio-nuevo-plan-suscripcion-spotify-incluiria-audio-alta-calidad-mucho-1140707' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/12/spotify-2169135.jpg' alt='Estas serían las funciones y el precio del nuevo plan de suscripción de Spotify que incluiría audio de alta calidad y mucho más' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/samsung-galaxy-watch-5-review-opinion-1140327'>Samsung Galaxy Watch 5, análisis y opinión</a></h4>
-    <a href='https://computerhoy.com/analisis/samsung-galaxy-watch-5-review-opinion-1140327' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/review-samsung-galaxy-watch-5-2843269.jpg' alt='Samsung Galaxy Watch 5, análisis y opinión' />
     </a>
 </div>
 
