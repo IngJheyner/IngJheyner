@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/gaming/ya-oficial-razer-edge-5g-primera-consola-portatil-5g-dedicada-juegues-donde-sea-interrupciones-1140765'>Ya es oficial Razer Edge 5G: la primera consola portátil 5G dedicada para que juegues donde sea sin interrupciones</a></h4>
+    <a href='https://computerhoy.com/noticias/gaming/ya-oficial-razer-edge-5g-primera-consola-portatil-5g-dedicada-juegues-donde-sea-interrupciones-1140765' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/razer-edge-5g-2844207.jpg' alt='Ya es oficial Razer Edge 5G: la primera consola portátil 5G dedicada para que juegues donde sea sin interrupciones' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/ya-aqui-semana-oso-gordo-vota-oso-ha-engordado-hibernacion-1136885'>Ya está aquí la Semana del Oso Gordo: vota por el oso que más ha engordado para la hibernación</a></h4>
+    <a href='https://computerhoy.com/noticias/life/ya-aqui-semana-oso-gordo-vota-oso-ha-engordado-hibernacion-1136885' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/ya-aqui-semana-osos-gordos-vota-oso-ha-engordado-hibernacion-2836147.jpg' alt='Ya está aquí la Semana del Oso Gordo: vota por el oso que más ha engordado para la hibernación' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/robot-inspirado-cangrejo-topo-puede-excavar-casi-cualquier-superficie-1140757'>Este robot inspirado en un cangrejo topo puede excavar en casi cualquier superficie</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/robot-inspirado-cangrejo-topo-puede-excavar-casi-cualquier-superficie-1140757' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/robot-inspirado-cangrejo-topo-puede-excavar-casi-cualquier-superficie-2844201.jpg' alt='Este robot inspirado en un cangrejo topo puede excavar en casi cualquier superficie' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/entretenimiento/cortometrajes-mediometrajes-disney-querras-ver-sentada-cuanto-sepas-existen-1138819'>Cortometrajes y mediometrajes de Disney+ que querrás ver de una sentada en cuanto sepas que existen</a></h4>
     <a href='https://computerhoy.com/reportajes/entretenimiento/cortometrajes-mediometrajes-disney-querras-ver-sentada-cuanto-sepas-existen-1138819' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/CortometrajesymediometrajesdeDisneyquequerrasverdeunasentadaencuantosepasqueexisten_166564110226112289.jpg' alt='Cortometrajes y mediometrajes de Disney+ que querrás ver de una sentada en cuanto sepas que existen' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/crean-tortuga-robotica-anfibia-puede-moverse-tierra-agua-1140745'>Crean una tortuga robótica anfibia que puede moverse por tierra y agua</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/crean-tortuga-robotica-anfibia-puede-moverse-tierra-agua-1140745' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/crean-tortuga-robotica-anfibia-puede-moverse-tierra-agua-2843963.jpg' alt='Crean una tortuga robótica anfibia que puede moverse por tierra y agua' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/oferta-conseguir-hbo-max-2-euros-anuales-estafa-consiste-1140743'>Esta oferta para conseguir HBO Max por 2 euros anuales es una estafa, y en esto consiste</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/oferta-conseguir-hbo-max-2-euros-anuales-estafa-consiste-1140743' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/hbo-max-movil-2633613.jpg' alt='Esta oferta para conseguir HBO Max por 2 euros anuales es una estafa, y en esto consiste' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/popular-xiaomi-12x-ya-alcance-todos-bolsillos-gracias-200-euros-descuento-1140725'>El popular Xiaomi 12X ya al alcance de todos los bolsillos gracias a sus 200 euros de descuento</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/popular-xiaomi-12x-ya-alcance-todos-bolsillos-gracias-200-euros-descuento-1140725' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/xiaomi-12x-2683151.jpg' alt='El popular Xiaomi 12X ya al alcance de todos los bolsillos gracias a sus 200 euros de descuento' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/apple-planea-nueva-version-imessage-capacidades-ar-salas-chats-1140715'>Apple planea una nueva versión de iMessage con capacidades AR y salas de chats</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/apple-planea-nueva-version-imessage-capacidades-ar-salas-chats-1140715' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/imessage-2843909.jpg' alt='Apple planea una nueva versión de iMessage con capacidades AR y salas de chats' />
     </a>
 </div>
 
