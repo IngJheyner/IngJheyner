@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/crean-tortuga-robotica-anfibia-puede-moverse-tierra-agua-1140745'>Crean una tortuga robótica anfibia que puede moverse por tierra y agua</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/crean-tortuga-robotica-anfibia-puede-moverse-tierra-agua-1140745' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/crean-tortuga-robotica-anfibia-puede-moverse-tierra-agua-2843963.jpg' alt='Crean una tortuga robótica anfibia que puede moverse por tierra y agua' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/oferta-conseguir-hbo-max-2-euros-anuales-estafa-consiste-1140743'>Esta oferta para conseguir HBO Max por 2 euros anuales es una estafa, y en esto consiste</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/oferta-conseguir-hbo-max-2-euros-anuales-estafa-consiste-1140743' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/hbo-max-movil-2633613.jpg' alt='Esta oferta para conseguir HBO Max por 2 euros anuales es una estafa, y en esto consiste' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/entretenimiento/7-series-comedia-tantas-temporadas-afortunadamente-parece-nunca-acaban-1138673'>7 series de comedia con tantas temporadas que (afortunadamente) parece que nunca acaban</a></h4>
     <a href='https://computerhoy.com/reportajes/entretenimiento/7-series-comedia-tantas-temporadas-afortunadamente-parece-nunca-acaban-1138673' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/office-2603421.jpg' alt='7 series de comedia con tantas temporadas que (afortunadamente) parece que nunca acaban' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/estas-serian-funciones-precio-nuevo-plan-suscripcion-spotify-incluiria-audio-alta-calidad-mucho-1140707'>Estas serían las funciones y el precio del nuevo plan de suscripción de Spotify que incluiría audio de alta calidad y mucho más</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/estas-serian-funciones-precio-nuevo-plan-suscripcion-spotify-incluiria-audio-alta-calidad-mucho-1140707' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/12/spotify-2169135.jpg' alt='Estas serían las funciones y el precio del nuevo plan de suscripción de Spotify que incluiría audio de alta calidad y mucho más' />
     </a>
 </div>
 
