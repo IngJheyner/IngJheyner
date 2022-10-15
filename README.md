@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/entretenimiento/cortometrajes-mediometrajes-disney-querras-ver-sentada-cuanto-sepas-existen-1138819'>Cortometrajes y mediometrajes de Disney+ que querrás ver de una sentada en cuanto sepas que existen</a></h4>
+    <a href='https://computerhoy.com/reportajes/entretenimiento/cortometrajes-mediometrajes-disney-querras-ver-sentada-cuanto-sepas-existen-1138819' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/CortometrajesymediometrajesdeDisneyquequerrasverdeunasentadaencuantosepasqueexisten_166564110226112289.jpg' alt='Cortometrajes y mediometrajes de Disney+ que querrás ver de una sentada en cuanto sepas que existen' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/crean-tortuga-robotica-anfibia-puede-moverse-tierra-agua-1140745'>Crean una tortuga robótica anfibia que puede moverse por tierra y agua</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/crean-tortuga-robotica-anfibia-puede-moverse-tierra-agua-1140745' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/crean-tortuga-robotica-anfibia-puede-moverse-tierra-agua-2843963.jpg' alt='Crean una tortuga robótica anfibia que puede moverse por tierra y agua' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/apple-planea-nueva-version-imessage-capacidades-ar-salas-chats-1140715'>Apple planea una nueva versión de iMessage con capacidades AR y salas de chats</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/apple-planea-nueva-version-imessage-capacidades-ar-salas-chats-1140715' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/imessage-2843909.jpg' alt='Apple planea una nueva versión de iMessage con capacidades AR y salas de chats' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/entretenimiento/7-series-comedia-tantas-temporadas-afortunadamente-parece-nunca-acaban-1138673'>7 series de comedia con tantas temporadas que (afortunadamente) parece que nunca acaban</a></h4>
-    <a href='https://computerhoy.com/reportajes/entretenimiento/7-series-comedia-tantas-temporadas-afortunadamente-parece-nunca-acaban-1138673' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/office-2603421.jpg' alt='7 series de comedia con tantas temporadas que (afortunadamente) parece que nunca acaban' />
     </a>
 </div>
 
