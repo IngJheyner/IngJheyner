@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/cascos-realidad-mixta-apple-contaran-escaneo-iris-pagos-diseno-premium-1140697'>Los cascos de realidad mixta de Apple contarán con escaneo de iris para pagos y un diseño premium</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/cascos-realidad-mixta-apple-contaran-escaneo-iris-pagos-diseno-premium-1140697' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/visor-realidad-virtual-2721487.jpg' alt='Los cascos de realidad mixta de Apple contarán con escaneo de iris para pagos y un diseño premium' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/dlss-3-novedad-nuevas-tarjetas-graficas-serie-geforce-rtx-nvidia-1133897'>¿Qué es DLSS 3, la novedad de las nuevas tarjetas gráficas de la serie GeForce RTX de NVIDIA?</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/dlss-3-novedad-nuevas-tarjetas-graficas-serie-geforce-rtx-nvidia-1133897' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/verticalimage1665788006228-2843661.jpg' alt='¿Qué es DLSS 3, la novedad de las nuevas tarjetas gráficas de la serie GeForce RTX de NVIDIA?' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/plegables-no-son-futuro-1138623'>Los plegables no son el futuro…</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/plegables-no-son-futuro-1138623' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/analisis-galaxy-fold-4-2791571.jpg' alt='Los plegables no son el futuro…' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-camara-108-megapixeles-oferta-838515'>Estos son los 5 mejores móviles con cámara de 108 megapíxeles que puedes comprar ahora mismo</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-camara-108-megapixeles-oferta-838515' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/analisis-samsung-galaxy-s22-ultra-2620737.jpg' alt='Estos son los 5 mejores móviles con cámara de 108 megapíxeles que puedes comprar ahora mismo' />
     </a>
 </div>
 
