@@ -66,9 +66,9 @@
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/elon-musk-financia-gratis-satelites-starlink-ucrania-1141115'>Como hizo con Twitter, Elon más da un volantazo y ahora dice que financiará gratis a Ucrania: "al infierno con ello"</a></h4>
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/elon-musk-financia-gratis-satelites-starlink-ucrania-1141115'>Como hizo con Twitter, Elon Musk da un volantazo y ahora dice que financiará gratis a Ucrania: "al infierno con ello"</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/elon-musk-financia-gratis-satelites-starlink-ucrania-1141115' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/elon-musk-revela-quien-inventor-bitcoin-principales-investigadores-estan-acuerdo-2573957.jpg' alt='Como hizo con Twitter, Elon más da un volantazo y ahora dice que financiará gratis a Ucrania: "al infierno con ello"' />
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/elon-musk-revela-quien-inventor-bitcoin-principales-investigadores-estan-acuerdo-2573957.jpg' alt='Como hizo con Twitter, Elon Musk da un volantazo y ahora dice que financiará gratis a Ucrania: "al infierno con ello"' />
     </a>
 </div>
 
