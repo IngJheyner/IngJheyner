@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/guia-compra/organizadores-de-cables-1129855'>Organizadores de cables: todo lo que necesitas saber</a></h4>
+    <a href='https://computerhoy.com/guia-compra/organizadores-de-cables-1129855' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/cables-2823281.jpg' alt='Organizadores de cables: todo lo que necesitas saber' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/inventan-nueva-tecnologia-bateria-capaz-cargar-coches-electricos-solo-10-minutos-1141035'>Inventan una nueva tecnología de batería capaz de cargar coches eléctricos en solo 10 minutos</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/inventan-nueva-tecnologia-bateria-capaz-cargar-coches-electricos-solo-10-minutos-1141035' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/coche-electrico-estacion-carga-2538519.jpg' alt='Inventan una nueva tecnología de batería capaz de cargar coches eléctricos en solo 10 minutos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/fails-tecnologicos-importantes-historia-1138727'>Los fails tecnológicos más importantes de la historia</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/fails-tecnologicos-importantes-historia-1138727' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/desesperado-2839451.jpg' alt='Los fails tecnológicos más importantes de la historia' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-deshabilitar-rotacion-pantalla-android-unica-aplicacion-1140297'>Cómo deshabilitar la rotación de pantalla en Android para una única aplicación</a></h4>
     <a href='https://computerhoy.com/tutoriales/tecnologia/como-deshabilitar-rotacion-pantalla-android-unica-aplicacion-1140297' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/rotacion-app-android-2843667.jpg' alt='Cómo deshabilitar la rotación de pantalla en Android para una única aplicación' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/listas/tecnologia/estos-son-cinco-mejores-moviles-baratos-samsung-576041'>Estos son los cinco mejores móviles baratos de Samsung que puedes comprar en 2022</a></h4>
-    <a href='https://computerhoy.com/listas/tecnologia/estos-son-cinco-mejores-moviles-baratos-samsung-576041' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/samsung-galaxy-a52s-5g-2519639.jpg' alt='Estos son los cinco mejores móviles baratos de Samsung que puedes comprar en 2022' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/tecnologia-aprovechara-sentido-olfato-nuevos-juegos-realidad-virtual-1140751'>Esta tecnología aprovechará el sentido del olfato en los nuevos juegos de realidad virtual</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/tecnologia-aprovechara-sentido-olfato-nuevos-juegos-realidad-virtual-1140751' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/tecnologia-aprovechara-sentido-olfato-vr-2844191.jpg' alt='Esta tecnología aprovechará el sentido del olfato en los nuevos juegos de realidad virtual' />
     </a>
 </div>
 
