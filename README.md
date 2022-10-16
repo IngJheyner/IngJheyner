@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/guia-compra/monitores-inalambricos-1129867'>Monitores inalámbricos: adiós a los cables</a></h4>
+    <a href='https://computerhoy.com/guia-compra/monitores-inalambricos-1129867' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/monitor-inalambrico-2823295.jpg' alt='Monitores inalámbricos: adiós a los cables' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/motor/alguien-intentando-convertir-tesla-model-3-cyberroadster-1141069'>Alguien está intentando convertir su Tesla Model 3 en un "CyberRoadster"</a></h4>
     <a href='https://computerhoy.com/noticias/motor/alguien-intentando-convertir-tesla-model-3-cyberroadster-1141069' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/cyberroadster-2844351.jpg' alt='Alguien está intentando convertir su Tesla Model 3 en un "CyberRoadster"' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/concepto-tranvia-electrico-dos-pisos-puede-ser-estrella-transporte-hong-kong-1141049'>Este concepto de tranvía eléctrico de dos pisos puede ser la estrella en el transporte en Hong Kong</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/concepto-tranvia-electrico-dos-pisos-puede-ser-estrella-transporte-hong-kong-1141049' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/disenan-concepto-tranvia-electrico-dos-pisos-conductor-hong-kong-2844303.jpg' alt='Este concepto de tranvía eléctrico de dos pisos puede ser la estrella en el transporte en Hong Kong' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/apple-trabajaria-nueva-base-ipad-convertirla-pantalla-inteligente-1141047'>Apple trabajaría en una nueva base para el iPad para convertirla en una pantalla inteligente</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/apple-trabajaria-nueva-base-ipad-convertirla-pantalla-inteligente-1141047' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/ipad-air-5a-generacion-analisis-opinion-2667697.jpg' alt='Apple trabajaría en una nueva base para el iPad para convertirla en una pantalla inteligente' />
     </a>
 </div>
 
