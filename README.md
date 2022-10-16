@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/apple-trabajaria-nueva-base-ipad-convertirla-pantalla-inteligente-1141047'>Apple trabajaría en una nueva base para el iPad para convertirla en una pantalla inteligente</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/apple-trabajaria-nueva-base-ipad-convertirla-pantalla-inteligente-1141047' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/ipad-air-5a-generacion-analisis-opinion-2667697.jpg' alt='Apple trabajaría en una nueva base para el iPad para convertirla en una pantalla inteligente' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/guia-compra/organizadores-de-cables-1129855'>Organizadores de cables: todo lo que necesitas saber</a></h4>
     <a href='https://computerhoy.com/guia-compra/organizadores-de-cables-1129855' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/cables-2823281.jpg' alt='Organizadores de cables: todo lo que necesitas saber' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/analisis/tecnologia/apple-airpods-pro-2-review-opinion-1140971'>Apple AirPods Pro 2, análisis y opinión</a></h4>
     <a href='https://computerhoy.com/analisis/tecnologia/apple-airpods-pro-2-review-opinion-1140971' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/apple-airpods-pro-2-analisis-opinion-2844275.jpg' alt='Apple AirPods Pro 2, análisis y opinión' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-deshabilitar-rotacion-pantalla-android-unica-aplicacion-1140297'>Cómo deshabilitar la rotación de pantalla en Android para una única aplicación</a></h4>
-    <a href='https://computerhoy.com/tutoriales/tecnologia/como-deshabilitar-rotacion-pantalla-android-unica-aplicacion-1140297' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/rotacion-app-android-2843667.jpg' alt='Cómo deshabilitar la rotación de pantalla en Android para una única aplicación' />
     </a>
 </div>
 
