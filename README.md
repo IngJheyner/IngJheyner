@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/alguien-intentando-convertir-tesla-model-3-cyberroadster-1141069'>Alguien está intentando convertir su Tesla Model 3 en un "CyberRoadster"</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/alguien-intentando-convertir-tesla-model-3-cyberroadster-1141069' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/cyberroadster-2844351.jpg' alt='Alguien está intentando convertir su Tesla Model 3 en un "CyberRoadster"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/freidora-dietetica-aceite-mejor-comer-sano-ahora-menos-50-euros-1141063'>Esta freidora dietética sin aceite es lo mejor para comer sano y ahora por menos de 50 euros</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/freidora-dietetica-aceite-mejor-comer-sano-ahora-menos-50-euros-1141063' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/cecofry-compact-2000-2844331.jpg' alt='Esta freidora dietética sin aceite es lo mejor para comer sano y ahora por menos de 50 euros' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/apple-trabajaria-nueva-base-ipad-convertirla-pantalla-inteligente-1141047'>Apple trabajaría en una nueva base para el iPad para convertirla en una pantalla inteligente</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/apple-trabajaria-nueva-base-ipad-convertirla-pantalla-inteligente-1141047' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/ipad-air-5a-generacion-analisis-opinion-2667697.jpg' alt='Apple trabajaría en una nueva base para el iPad para convertirla en una pantalla inteligente' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/guia-compra/organizadores-de-cables-1129855'>Organizadores de cables: todo lo que necesitas saber</a></h4>
-    <a href='https://computerhoy.com/guia-compra/organizadores-de-cables-1129855' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/cables-2823281.jpg' alt='Organizadores de cables: todo lo que necesitas saber' />
     </a>
 </div>
 
