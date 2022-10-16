@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-deshabilitar-rotacion-pantalla-android-unica-aplicacion-1140297'>Cómo deshabilitar la rotación de pantalla en Android para una única aplicación</a></h4>
+    <a href='https://computerhoy.com/tutoriales/tecnologia/como-deshabilitar-rotacion-pantalla-android-unica-aplicacion-1140297' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/rotacion-app-android-2843667.jpg' alt='Cómo deshabilitar la rotación de pantalla en Android para una única aplicación' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/listas/tecnologia/estos-son-cinco-mejores-moviles-baratos-samsung-576041'>Estos son los cinco mejores móviles baratos de Samsung que puedes comprar en 2022</a></h4>
+    <a href='https://computerhoy.com/listas/tecnologia/estos-son-cinco-mejores-moviles-baratos-samsung-576041' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/samsung-galaxy-a52s-5g-2519639.jpg' alt='Estos son los cinco mejores móviles baratos de Samsung que puedes comprar en 2022' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/tecnologia-aprovechara-sentido-olfato-nuevos-juegos-realidad-virtual-1140751'>Esta tecnología aprovechará el sentido del olfato en los nuevos juegos de realidad virtual</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/tecnologia-aprovechara-sentido-olfato-nuevos-juegos-realidad-virtual-1140751' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/tecnologia-aprovechara-sentido-olfato-vr-2844191.jpg' alt='Esta tecnología aprovechará el sentido del olfato en los nuevos juegos de realidad virtual' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/espana-cuenta-pasaportes-mayores-ventajas-mundo-informe-1140747'>España cuenta con uno de los pasaportes con mayores ventajas del mundo, según este informe</a></h4>
     <a href='https://computerhoy.com/noticias/life/espana-cuenta-pasaportes-mayores-ventajas-mundo-informe-1140747' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/pasaporte-2843967.jpg' alt='España cuenta con uno de los pasaportes con mayores ventajas del mundo, según este informe' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/tienda-solo-escaladores-cuelga-130-metros-altura-video-1136811'>La tienda de bebidas y snacks que cuelga a 130 metros de altura, para abastecer a los escaladores (vídeo)</a></h4>
     <a href='https://computerhoy.com/noticias/life/tienda-solo-escaladores-cuelga-130-metros-altura-video-1136811' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/tienda-bebidas-snacks-cuelga-130-metros-altura-abastecer-escaladores-video-2835979.jpg' alt='La tienda de bebidas y snacks que cuelga a 130 metros de altura, para abastecer a los escaladores (vídeo)' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-calculadoras-cientificas-1064453'>Calculadora científica: estos son los mejores modelos que hay a la venta</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-calculadoras-cientificas-1064453' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/calculadora-cientifica-2844161.jpg' alt='Calculadora científica: estos son los mejores modelos que hay a la venta' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/foamstream-espuma-biodegradable-malas-hierbas-ecologico-1140263'>Esta espuma biodegradable sin herbicidas mata las malas hierbas sin contaminar</a></h4>
-    <a href='https://computerhoy.com/noticias/life/foamstream-espuma-biodegradable-malas-hierbas-ecologico-1140263' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/espuma-biodegradable-pesticidas-mata-malas-hierbas-contaminar-2843083.jpg' alt='Esta espuma biodegradable sin herbicidas mata las malas hierbas sin contaminar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/gaming/ya-oficial-razer-edge-5g-primera-consola-portatil-5g-dedicada-juegues-donde-sea-interrupciones-1140765'>Ya es oficial Razer Edge 5G: la primera consola portátil 5G dedicada para que juegues donde sea sin interrupciones</a></h4>
-    <a href='https://computerhoy.com/noticias/gaming/ya-oficial-razer-edge-5g-primera-consola-portatil-5g-dedicada-juegues-donde-sea-interrupciones-1140765' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/razer-edge-5g-2844207.jpg' alt='Ya es oficial Razer Edge 5G: la primera consola portátil 5G dedicada para que juegues donde sea sin interrupciones' />
     </a>
 </div>
 
