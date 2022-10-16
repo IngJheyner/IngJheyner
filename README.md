@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/foto-mas-cercana-luna-europa-jupiter-albergar-vida-1136851'>La imagen más cercana de la luna Europa de Júpiter, el lugar con más posibilidades de albergar vida</a></h4>
+    <a href='https://computerhoy.com/noticias/life/foto-mas-cercana-luna-europa-jupiter-albergar-vida-1136851' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/imagenes-cercanas-luna-europa-jupiter-lugar-posibilidades-albergar-vida-2836109.jpg' alt='La imagen más cercana de la luna Europa de Júpiter, el lugar con más posibilidades de albergar vida' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/robot-serpiente-escala-arboles-farolas-escaleras-pared-video-1141135'>El robot serpiente que escala árboles, farolas, y escaleras de pared (vídeo)</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/robot-serpiente-escala-arboles-farolas-escaleras-pared-video-1141135' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/verticalimage1665928157180-2844575.jpg' alt='El robot serpiente que escala árboles, farolas, y escaleras de pared (vídeo)' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/microsoft-hololens-gafas-realidad-aumentada-soldados-ejercito-test-1141133'>A algunos soldados no les gustan las gafas de realidad aumentada Microsoft HoloLens: "nos van a matar a todos"</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/microsoft-hololens-gafas-realidad-aumentada-soldados-ejercito-test-1141133' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/soldados-no-gustan-gafas-realidad-aumentada-microsoft-hololens-nos-van-matar-todos-2844571.jpg' alt='A algunos soldados no les gustan las gafas de realidad aumentada Microsoft HoloLens: "nos van a matar a todos"' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/auriculares-adidas-rpt-02-sol-recargan-luz-solar-1141121'>Los nuevos auriculares de Adidas que se recargan con la luz, promete que nunca tendrás que usar un cargador</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/auriculares-adidas-rpt-02-sol-recargan-luz-solar-1141121' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/nuevos-auriculares-adidas-energia-solar-no-tendras-recargar-nunca-2844511.jpg' alt='Los nuevos auriculares de Adidas que se recargan con la luz, promete que nunca tendrás que usar un cargador' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/elon-musk-financia-gratis-satelites-starlink-ucrania-1141115'>Como hizo con Twitter, Elon Musk da un volantazo y ahora dice que financiará gratis a Ucrania: "al infierno con ello"</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/elon-musk-financia-gratis-satelites-starlink-ucrania-1141115' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/elon-musk-revela-quien-inventor-bitcoin-principales-investigadores-estan-acuerdo-2573957.jpg' alt='Como hizo con Twitter, Elon Musk da un volantazo y ahora dice que financiará gratis a Ucrania: "al infierno con ello"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/guia-compra/monitores-inalambricos-1129867'>Monitores inalámbricos: adiós a los cables</a></h4>
-    <a href='https://computerhoy.com/guia-compra/monitores-inalambricos-1129867' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/monitor-inalambrico-2823295.jpg' alt='Monitores inalámbricos: adiós a los cables' />
     </a>
 </div>
 
