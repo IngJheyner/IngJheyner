@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/ssd-m2-pcie-50-cfd-disipador-enorme-1141127'>Mejor compra una caja de PC bien grande: los nuevos SSD M.2 PCIe 5.0 son unas bestias enormes</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/ssd-m2-pcie-50-cfd-disipador-enorme-1141127' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/mejor-compra-caja-pc-bien-grande-nuevos-ssd-pcie-50-son-unas-bestias-enormes-2844521.jpg' alt='Mejor compra una caja de PC bien grande: los nuevos SSD M.2 PCIe 5.0 son unas bestias enormes' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/auriculares-adidas-rpt-02-sol-recargan-luz-solar-1141121'>Los nuevos auriculares de Adidas que se recargan con la luz, promete que nunca tendrás que usar un cargador</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/auriculares-adidas-rpt-02-sol-recargan-luz-solar-1141121' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/nuevos-auriculares-adidas-energia-solar-no-tendras-recargar-nunca-2844511.jpg' alt='Los nuevos auriculares de Adidas que se recargan con la luz, promete que nunca tendrás que usar un cargador' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/motor/alguien-intentando-convertir-tesla-model-3-cyberroadster-1141069'>Alguien está intentando convertir su Tesla Model 3 en un "CyberRoadster"</a></h4>
     <a href='https://computerhoy.com/noticias/motor/alguien-intentando-convertir-tesla-model-3-cyberroadster-1141069' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/cyberroadster-2844351.jpg' alt='Alguien está intentando convertir su Tesla Model 3 en un "CyberRoadster"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/freidora-dietetica-aceite-mejor-comer-sano-ahora-menos-50-euros-1141063'>Esta freidora dietética sin aceite es lo mejor para comer sano y ahora por menos de 50 euros</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/freidora-dietetica-aceite-mejor-comer-sano-ahora-menos-50-euros-1141063' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/cecofry-compact-2000-2844331.jpg' alt='Esta freidora dietética sin aceite es lo mejor para comer sano y ahora por menos de 50 euros' />
     </a>
 </div>
 
