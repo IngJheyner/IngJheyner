@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/microsoft-hololens-gafas-realidad-aumentada-soldados-ejercito-test-1141133'>A algunos soldados no les gustan las gafas de realidad aumentada Microsoft HoloLens: "nos van a matar a todos"</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/microsoft-hololens-gafas-realidad-aumentada-soldados-ejercito-test-1141133' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/soldados-no-gustan-gafas-realidad-aumentada-microsoft-hololens-nos-van-matar-todos-2844571.jpg' alt='A algunos soldados no les gustan las gafas de realidad aumentada Microsoft HoloLens: "nos van a matar a todos"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/ssd-m2-pcie-50-cfd-disipador-enorme-1141127'>Mejor compra una caja de PC bien grande: los nuevos SSD M.2 PCIe 5.0 son unas bestias enormes</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/ssd-m2-pcie-50-cfd-disipador-enorme-1141127' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/mejor-compra-caja-pc-bien-grande-nuevos-ssd-pcie-50-son-unas-bestias-enormes-2844521.jpg' alt='Mejor compra una caja de PC bien grande: los nuevos SSD M.2 PCIe 5.0 son unas bestias enormes' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/guia-compra/monitores-inalambricos-1129867'>Monitores inalámbricos: adiós a los cables</a></h4>
     <a href='https://computerhoy.com/guia-compra/monitores-inalambricos-1129867' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/monitor-inalambrico-2823295.jpg' alt='Monitores inalámbricos: adiós a los cables' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/alguien-intentando-convertir-tesla-model-3-cyberroadster-1141069'>Alguien está intentando convertir su Tesla Model 3 en un "CyberRoadster"</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/alguien-intentando-convertir-tesla-model-3-cyberroadster-1141069' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/cyberroadster-2844351.jpg' alt='Alguien está intentando convertir su Tesla Model 3 en un "CyberRoadster"' />
     </a>
 </div>
 
