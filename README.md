@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/fails-tecnologicos-importantes-historia-1138727'>Los fails tecnológicos más importantes de la historia</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/fails-tecnologicos-importantes-historia-1138727' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/desesperado-2839451.jpg' alt='Los fails tecnológicos más importantes de la historia' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/analisis/tecnologia/apple-airpods-pro-2-review-opinion-1140971'>Apple AirPods Pro 2, análisis y opinión</a></h4>
     <a href='https://computerhoy.com/analisis/tecnologia/apple-airpods-pro-2-review-opinion-1140971' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/apple-airpods-pro-2-analisis-opinion-2844275.jpg' alt='Apple AirPods Pro 2, análisis y opinión' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/tecnologia-aprovechara-sentido-olfato-nuevos-juegos-realidad-virtual-1140751'>Esta tecnología aprovechará el sentido del olfato en los nuevos juegos de realidad virtual</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/tecnologia-aprovechara-sentido-olfato-nuevos-juegos-realidad-virtual-1140751' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/tecnologia-aprovechara-sentido-olfato-vr-2844191.jpg' alt='Esta tecnología aprovechará el sentido del olfato en los nuevos juegos de realidad virtual' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/espana-cuenta-pasaportes-mayores-ventajas-mundo-informe-1140747'>España cuenta con uno de los pasaportes con mayores ventajas del mundo, según este informe</a></h4>
-    <a href='https://computerhoy.com/noticias/life/espana-cuenta-pasaportes-mayores-ventajas-mundo-informe-1140747' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/pasaporte-2843967.jpg' alt='España cuenta con uno de los pasaportes con mayores ventajas del mundo, según este informe' />
     </a>
 </div>
 
