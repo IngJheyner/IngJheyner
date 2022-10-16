@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/analisis/tecnologia/apple-airpods-pro-2-review-opinion-1140971'>Apple AirPods Pro 2, análisis y opinión</a></h4>
+    <a href='https://computerhoy.com/analisis/tecnologia/apple-airpods-pro-2-review-opinion-1140971' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/apple-airpods-pro-2-analisis-opinion-2844275.jpg' alt='Apple AirPods Pro 2, análisis y opinión' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-deshabilitar-rotacion-pantalla-android-unica-aplicacion-1140297'>Cómo deshabilitar la rotación de pantalla en Android para una única aplicación</a></h4>
     <a href='https://computerhoy.com/tutoriales/tecnologia/como-deshabilitar-rotacion-pantalla-android-unica-aplicacion-1140297' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/rotacion-app-android-2843667.jpg' alt='Cómo deshabilitar la rotación de pantalla en Android para una única aplicación' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/espana-cuenta-pasaportes-mayores-ventajas-mundo-informe-1140747'>España cuenta con uno de los pasaportes con mayores ventajas del mundo, según este informe</a></h4>
     <a href='https://computerhoy.com/noticias/life/espana-cuenta-pasaportes-mayores-ventajas-mundo-informe-1140747' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/pasaporte-2843967.jpg' alt='España cuenta con uno de los pasaportes con mayores ventajas del mundo, según este informe' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/tienda-solo-escaladores-cuelga-130-metros-altura-video-1136811'>La tienda de bebidas y snacks que cuelga a 130 metros de altura, para abastecer a los escaladores (vídeo)</a></h4>
-    <a href='https://computerhoy.com/noticias/life/tienda-solo-escaladores-cuelga-130-metros-altura-video-1136811' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/tienda-bebidas-snacks-cuelga-130-metros-altura-abastecer-escaladores-video-2835979.jpg' alt='La tienda de bebidas y snacks que cuelga a 130 metros de altura, para abastecer a los escaladores (vídeo)' />
     </a>
 </div>
 
