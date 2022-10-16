@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/freidora-dietetica-aceite-mejor-comer-sano-ahora-menos-50-euros-1141063'>Esta freidora dietética sin aceite es lo mejor para comer sano y ahora por menos de 50 euros</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/freidora-dietetica-aceite-mejor-comer-sano-ahora-menos-50-euros-1141063' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/cecofry-compact-2000-2844331.jpg' alt='Esta freidora dietética sin aceite es lo mejor para comer sano y ahora por menos de 50 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/entretenimiento/6-series-no-deberias-ver-llevas-mal-estres-te-pondran-muy-nervioso-1139805'>6 series que no deberías ver si llevas mal el estrés, ¡te pondrán muy nervioso!</a></h4>
+    <a href='https://computerhoy.com/reportajes/entretenimiento/6-series-no-deberias-ver-llevas-mal-estres-te-pondran-muy-nervioso-1139805' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/mindhunter-2842343.jpg' alt='6 series que no deberías ver si llevas mal el estrés, ¡te pondrán muy nervioso!' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/concepto-tranvia-electrico-dos-pisos-puede-ser-estrella-transporte-hong-kong-1141049'>Este concepto de tranvía eléctrico de dos pisos puede ser la estrella en el transporte en Hong Kong</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/concepto-tranvia-electrico-dos-pisos-puede-ser-estrella-transporte-hong-kong-1141049' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/disenan-concepto-tranvia-electrico-dos-pisos-conductor-hong-kong-2844303.jpg' alt='Este concepto de tranvía eléctrico de dos pisos puede ser la estrella en el transporte en Hong Kong' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/guia-compra/organizadores-de-cables-1129855'>Organizadores de cables: todo lo que necesitas saber</a></h4>
     <a href='https://computerhoy.com/guia-compra/organizadores-de-cables-1129855' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/cables-2823281.jpg' alt='Organizadores de cables: todo lo que necesitas saber' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/inventan-nueva-tecnologia-bateria-capaz-cargar-coches-electricos-solo-10-minutos-1141035'>Inventan una nueva tecnología de batería capaz de cargar coches eléctricos en solo 10 minutos</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/inventan-nueva-tecnologia-bateria-capaz-cargar-coches-electricos-solo-10-minutos-1141035' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/coche-electrico-estacion-carga-2538519.jpg' alt='Inventan una nueva tecnología de batería capaz de cargar coches eléctricos en solo 10 minutos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/fails-tecnologicos-importantes-historia-1138727'>Los fails tecnológicos más importantes de la historia</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/fails-tecnologicos-importantes-historia-1138727' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/desesperado-2839451.jpg' alt='Los fails tecnológicos más importantes de la historia' />
     </a>
 </div>
 
