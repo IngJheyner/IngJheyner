@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/auriculares-adidas-rpt-02-sol-recargan-luz-solar-1141121'>Los nuevos auriculares de Adidas que se recargan con la luz, promete que nunca tendrás que usar un cargador</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/auriculares-adidas-rpt-02-sol-recargan-luz-solar-1141121' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/nuevos-auriculares-adidas-energia-solar-no-tendras-recargar-nunca-2844511.jpg' alt='Los nuevos auriculares de Adidas que se recargan con la luz, promete que nunca tendrás que usar un cargador' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/elon-musk-financia-gratis-satelites-starlink-ucrania-1141115'>Como hizo con Twitter, Elon más da un volantazo y ahora dice que financiará gratis a Ucrania: "al infierno con ello"</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/elon-musk-financia-gratis-satelites-starlink-ucrania-1141115' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/elon-musk-revela-quien-inventor-bitcoin-principales-investigadores-estan-acuerdo-2573957.jpg' alt='Como hizo con Twitter, Elon más da un volantazo y ahora dice que financiará gratis a Ucrania: "al infierno con ello"' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/freidora-dietetica-aceite-mejor-comer-sano-ahora-menos-50-euros-1141063'>Esta freidora dietética sin aceite es lo mejor para comer sano y ahora por menos de 50 euros</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/freidora-dietetica-aceite-mejor-comer-sano-ahora-menos-50-euros-1141063' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/cecofry-compact-2000-2844331.jpg' alt='Esta freidora dietética sin aceite es lo mejor para comer sano y ahora por menos de 50 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/entretenimiento/6-series-no-deberias-ver-llevas-mal-estres-te-pondran-muy-nervioso-1139805'>6 series que no deberías ver si llevas mal el estrés, ¡te pondrán muy nervioso!</a></h4>
-    <a href='https://computerhoy.com/reportajes/entretenimiento/6-series-no-deberias-ver-llevas-mal-estres-te-pondran-muy-nervioso-1139805' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/mindhunter-2842343.jpg' alt='6 series que no deberías ver si llevas mal el estrés, ¡te pondrán muy nervioso!' />
     </a>
 </div>
 
