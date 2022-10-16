@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/concepto-tranvia-electrico-dos-pisos-puede-ser-estrella-transporte-hong-kong-1141049'>Este concepto de tranvía eléctrico de dos pisos puede ser la estrella en el transporte en Hong Kong</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/concepto-tranvia-electrico-dos-pisos-puede-ser-estrella-transporte-hong-kong-1141049' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/disenan-concepto-tranvia-electrico-dos-pisos-conductor-hong-kong-2844303.jpg' alt='Este concepto de tranvía eléctrico de dos pisos puede ser la estrella en el transporte en Hong Kong' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/apple-trabajaria-nueva-base-ipad-convertirla-pantalla-inteligente-1141047'>Apple trabajaría en una nueva base para el iPad para convertirla en una pantalla inteligente</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/apple-trabajaria-nueva-base-ipad-convertirla-pantalla-inteligente-1141047' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/ipad-air-5a-generacion-analisis-opinion-2667697.jpg' alt='Apple trabajaría en una nueva base para el iPad para convertirla en una pantalla inteligente' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/fails-tecnologicos-importantes-historia-1138727'>Los fails tecnológicos más importantes de la historia</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/fails-tecnologicos-importantes-historia-1138727' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/desesperado-2839451.jpg' alt='Los fails tecnológicos más importantes de la historia' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/tecnologia/apple-airpods-pro-2-review-opinion-1140971'>Apple AirPods Pro 2, análisis y opinión</a></h4>
-    <a href='https://computerhoy.com/analisis/tecnologia/apple-airpods-pro-2-review-opinion-1140971' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/apple-airpods-pro-2-analisis-opinion-2844275.jpg' alt='Apple AirPods Pro 2, análisis y opinión' />
     </a>
 </div>
 
