@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/prueba-windows-95-como-aplicacion-necesidad-particiones-ni-instalacion-1141369'>Prueba Windows 95 como una aplicación, sin necesidad de particiones ni instalación</a></h4>
+    <a href='https://computerhoy.com/noticias/prueba-windows-95-como-aplicacion-necesidad-particiones-ni-instalacion-1141369' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/10/ordenador-windows-95-2103983.jpg' alt='Prueba Windows 95 como una aplicación, sin necesidad de particiones ni instalación' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/guia-compra-1111-trucos-consejos-aliexpress-962207'>Guía de compra del 11.11: trucos y consejos para comprar más barato en AliExpress</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/guia-compra-1111-trucos-consejos-aliexpress-962207' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/carrito-compra-ofertas-1111-2844513.jpg' alt='Guía de compra del 11.11: trucos y consejos para comprar más barato en AliExpress' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/35-noticias-tecnologia-comenzar-manana-informado-ultimo-1141345'>35 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/35-noticias-tecnologia-comenzar-manana-informado-ultimo-1141345' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/35-noticias-tecnologia-comenzar-manana-informado-ultimo-2844909.jpg' alt='35 noticias de tecnología para comenzar la mañana informado de lo último' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/foto-mas-cercana-luna-europa-jupiter-albergar-vida-1136851'>La imagen más cercana de la luna Europa de Júpiter, el lugar con más posibilidades de albergar vida</a></h4>
     <a href='https://computerhoy.com/noticias/life/foto-mas-cercana-luna-europa-jupiter-albergar-vida-1136851' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/imagenes-cercanas-luna-europa-jupiter-lugar-posibilidades-albergar-vida-2836109.jpg' alt='La imagen más cercana de la luna Europa de Júpiter, el lugar con más posibilidades de albergar vida' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/robot-serpiente-escala-arboles-farolas-escaleras-pared-video-1141135'>El robot serpiente que escala árboles, farolas, y escaleras de pared (vídeo)</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/robot-serpiente-escala-arboles-farolas-escaleras-pared-video-1141135' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/verticalimage1665928157180-2844575.jpg' alt='El robot serpiente que escala árboles, farolas, y escaleras de pared (vídeo)' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/microsoft-hololens-gafas-realidad-aumentada-soldados-ejercito-test-1141133'>A algunos soldados no les gustan las gafas de realidad aumentada Microsoft HoloLens: "nos van a matar a todos"</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/microsoft-hololens-gafas-realidad-aumentada-soldados-ejercito-test-1141133' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/soldados-no-gustan-gafas-realidad-aumentada-microsoft-hololens-nos-van-matar-todos-2844571.jpg' alt='A algunos soldados no les gustan las gafas de realidad aumentada Microsoft HoloLens: "nos van a matar a todos"' />
     </a>
 </div>
 
