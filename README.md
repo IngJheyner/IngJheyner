@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/rtx-4090-derriba-contrasenas-tiempo-record-malas-noticias-ciberseguridad-1141625'>La RTX 4090 derriba contraseñas en tiempo récord: malas noticias para la ciberseguridad</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/rtx-4090-derriba-contrasenas-tiempo-record-malas-noticias-ciberseguridad-1141625' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/nvidia-rtx-4090-2835461.jpg' alt='La RTX 4090 derriba contraseñas en tiempo récord: malas noticias para la ciberseguridad' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/gaming/como-recuperar-dinero-has-gastado-google-stadia-1141581'>Cómo recuperar el dinero que has gastado en Google Stadia</a></h4>
+    <a href='https://computerhoy.com/noticias/gaming/como-recuperar-dinero-has-gastado-google-stadia-1141581' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/11/analisis-google-stadia_12.jpg' alt='Cómo recuperar el dinero que has gastado en Google Stadia' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/chromecast-google-tv-actualiza-android-12-estas-son-principales-novedades-1141611'>El Chromecast con Google TV se actualiza a Android 12 y estás son sus principales novedades</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/chromecast-google-tv-actualiza-android-12-estas-son-principales-novedades-1141611' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/chromecast-google-tv-2020-2232767.jpg' alt='El Chromecast con Google TV se actualiza a Android 12 y estás son sus principales novedades' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/amazfit-falcon-reloj-deportes-extremos-quiere-competir-apple-watch-ultra-1141553'>Amazfit Falcon: así es el reloj para deportes extremos que quiere competir con el Apple Watch Ultra</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/amazfit-falcon-reloj-deportes-extremos-quiere-competir-apple-watch-ultra-1141553' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/amazfit-falcon-reloj-deportes-extremos-quiere-competir-apple-watch-ultra-2845491.jpg' alt='Amazfit Falcon: así es el reloj para deportes extremos que quiere competir con el Apple Watch Ultra' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/modulo-ram-casi-arruina-ultimo-kernel-linux-1141545'>El módulo de RAM que casi arruina el último kernel de Linux</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/modulo-ram-casi-arruina-ultimo-kernel-linux-1141545' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/03/linux_0.jpg' alt='El módulo de RAM que casi arruina el último kernel de Linux' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/google-chrome-descarga-instalacion-configuracion-extensiones-todo-debes-saber-1140203'>Google Chrome: descarga e instalación, configuración, extensiones y todo lo que debes saber</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/google-chrome-descarga-instalacion-configuracion-extensiones-todo-debes-saber-1140203' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/google-chrome-2845581.jpg' alt='Google Chrome: descarga e instalación, configuración, extensiones y todo lo que debes saber' />
     </a>
 </div>
 
