@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/freidora-aire-cecotec-cestillo-6-litros-ahora-menos-90-euros-1140463'>La freidora de aire de Cecotec con un cestillo de 6 litros ahora está por menos de 90 euros</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/freidora-aire-cecotec-cestillo-6-litros-ahora-menos-90-euros-1140463' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/freidora-aire-cecotec-cestillo-6-litros-ahora-menos-90-euros-2843619.jpg' alt='La freidora de aire de Cecotec con un cestillo de 6 litros ahora está por menos de 90 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/plan-europa-encriptar-cuanticamente-comunicaciones-satelite-2024-1141393'>El plan de Europa para encriptar cuánticamente las comunicaciones por satélite en 2024</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/plan-europa-encriptar-cuanticamente-comunicaciones-satelite-2024-1141393' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/07/amazon-va-elon-musk-recibe-aprobacion-fcc-poner-orbita-3236-satelites-2015355.jpg' alt='El plan de Europa para encriptar cuánticamente las comunicaciones por satélite en 2024' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/prueba-windows-95-como-aplicacion-necesidad-particiones-ni-instalacion-1141369'>Prueba Windows 95 como una aplicación, sin necesidad de particiones ni instalación</a></h4>
     <a href='https://computerhoy.com/noticias/prueba-windows-95-como-aplicacion-necesidad-particiones-ni-instalacion-1141369' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/10/ordenador-windows-95-2103983.jpg' alt='Prueba Windows 95 como una aplicación, sin necesidad de particiones ni instalación' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/35-noticias-tecnologia-comenzar-manana-informado-ultimo-1141345'>35 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/35-noticias-tecnologia-comenzar-manana-informado-ultimo-1141345' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/35-noticias-tecnologia-comenzar-manana-informado-ultimo-2844909.jpg' alt='35 noticias de tecnología para comenzar la mañana informado de lo último' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/donde-comprar-iphone-14-iphone-14-plus-iphone-14-pro-iphone-14-pro-max-1122095'>Dónde puedes comprar los iPhone 14 con ofertas y regalos</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/donde-comprar-iphone-14-iphone-14-plus-iphone-14-pro-iphone-14-pro-max-1122095' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/analisis-iphone-14-pro-2821729.jpg' alt='Dónde puedes comprar los iPhone 14 con ofertas y regalos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/foto-mas-cercana-luna-europa-jupiter-albergar-vida-1136851'>La imagen más cercana de la luna Europa de Júpiter, el lugar con más posibilidades de albergar vida</a></h4>
-    <a href='https://computerhoy.com/noticias/life/foto-mas-cercana-luna-europa-jupiter-albergar-vida-1136851' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/imagenes-cercanas-luna-europa-jupiter-lugar-posibilidades-albergar-vida-2836109.jpg' alt='La imagen más cercana de la luna Europa de Júpiter, el lugar con más posibilidades de albergar vida' />
     </a>
 </div>
 
