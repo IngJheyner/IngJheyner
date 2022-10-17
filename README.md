@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/twitter-quiere-acabar-menciones-no-deseadas-nueva-funcionalidad-1141627'>Twitter quiere acabar con las menciones no deseadas con esta nueva funcionalidad</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/twitter-quiere-acabar-menciones-no-deseadas-nueva-funcionalidad-1141627' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/twitter-2639193.jpg' alt='Twitter quiere acabar con las menciones no deseadas con esta nueva funcionalidad' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/life/mejores-calefactores-bano-puedes-comprar-1141495'>Mejores calefactores para baño que puedes comprar</a></h4>
+    <a href='https://computerhoy.com/reportajes/life/mejores-calefactores-bano-puedes-comprar-1141495' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/calefactor-bano-cecotec-ready-warm-6150-ceramic-rotate-style-2845263.jpg' alt='Mejores calefactores para baño que puedes comprar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/listas/tecnologia/mejores-aplicaciones-android-empezar-correr-llevar-registro-entrenamientos-1119605'>Las mejores aplicaciones Android para empezar a correr y llevar un registro de los entrenamientos</a></h4>
     <a href='https://computerhoy.com/listas/tecnologia/mejores-aplicaciones-android-empezar-correr-llevar-registro-entrenamientos-1119605' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/mejores-aplicaciones-android-empezar-correr-llevar-registro-entrenamientos-2845849.jpg' alt='Las mejores aplicaciones Android para empezar a correr y llevar un registro de los entrenamientos' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/gaming/como-recuperar-dinero-has-gastado-google-stadia-1141581'>Cómo recuperar el dinero que has gastado en Google Stadia</a></h4>
     <a href='https://computerhoy.com/noticias/gaming/como-recuperar-dinero-has-gastado-google-stadia-1141581' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/11/analisis-google-stadia_12.jpg' alt='Cómo recuperar el dinero que has gastado en Google Stadia' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/chromecast-google-tv-actualiza-android-12-estas-son-principales-novedades-1141611'>El Chromecast con Google TV se actualiza a Android 12 y estás son sus principales novedades</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/chromecast-google-tv-actualiza-android-12-estas-son-principales-novedades-1141611' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/chromecast-google-tv-2020-2232767.jpg' alt='El Chromecast con Google TV se actualiza a Android 12 y estás son sus principales novedades' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/gaming/mejores-juegos-gratis-descargar-windows-207634'>Los mejores juegos gratis para descargar en Windows 10 y 11 en 2022</a></h4>
-    <a href='https://computerhoy.com/reportajes/gaming/mejores-juegos-gratis-descargar-windows-207634' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/07/warframe-1991589.jpg' alt='Los mejores juegos gratis para descargar en Windows 10 y 11 en 2022' />
     </a>
 </div>
 
