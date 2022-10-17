@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/netflix-transferencia-perfiles-1141765'>Netflix ya prepara la prohibición de compartir cuentas: lanza la transferencia de perfiles</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/netflix-transferencia-perfiles-1141765' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/netflix-ya-prepara-prohibicion-compartir-cuentas-lanza-transferencia-perfiles-2846083.jpg' alt='Netflix ya prepara la prohibición de compartir cuentas: lanza la transferencia de perfiles' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/hombre-no-puede-acceder-casi-2-millones-euros-bitcoin-porque-no-recuerda-contrasena-hotmail-1141757'>Este hombre no puede acceder a casi 2 millones de euros en Bitcoin porque no recuerda su contraseña de Hotmail</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/hombre-no-puede-acceder-casi-2-millones-euros-bitcoin-porque-no-recuerda-contrasena-hotmail-1141757' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/caida-bitcoin-2592649.jpg' alt='Este hombre no puede acceder a casi 2 millones de euros en Bitcoin porque no recuerda su contraseña de Hotmail' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/filtradas-especificaciones-samsung-galaxy-m54-procesador-gama-alta-bateria-enorme-capacidad-1141727'>Filtradas las especificaciones del Samsung Galaxy M54: procesador de gama alta y batería de enorme capacidad</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/filtradas-especificaciones-samsung-galaxy-m54-procesador-gama-alta-bateria-enorme-capacidad-1141727' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/samsung-galaxy-m53-5g-2680871.jpg' alt='Filtradas las especificaciones del Samsung Galaxy M54: procesador de gama alta y batería de enorme capacidad' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/rusia-cierra-web-ucraniana-soldados-rusos-rendicion-1141745'>Rusia cierra una web ucraniana de acogida de soldados rusos que aceptan rendirse, estaba saturada de peticiones</a></h4>
-    <a href='https://computerhoy.com/noticias/life/rusia-cierra-web-ucraniana-soldados-rusos-rendicion-1141745' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/rusia-cierra-web-ucraniana-acogida-soldados-rusos-aceptan-rendirse-estaba-saturada-peticiones-2846063.jpg' alt='Rusia cierra una web ucraniana de acogida de soldados rusos que aceptan rendirse, estaba saturada de peticiones' />
     </a>
 </div>
 
