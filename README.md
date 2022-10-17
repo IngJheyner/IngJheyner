@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/35-noticias-tecnologia-comenzar-manana-informado-ultimo-1141345'>35 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/35-noticias-tecnologia-comenzar-manana-informado-ultimo-1141345' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/35-noticias-tecnologia-comenzar-manana-informado-ultimo-2844909.jpg' alt='35 noticias de tecnología para comenzar la mañana informado de lo último' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/donde-comprar-iphone-14-iphone-14-plus-iphone-14-pro-iphone-14-pro-max-1122095'>Dónde puedes comprar los iPhone 14 con ofertas y regalos</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/donde-comprar-iphone-14-iphone-14-plus-iphone-14-pro-iphone-14-pro-max-1122095' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/analisis-iphone-14-pro-2821729.jpg' alt='Dónde puedes comprar los iPhone 14 con ofertas y regalos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/foto-mas-cercana-luna-europa-jupiter-albergar-vida-1136851'>La imagen más cercana de la luna Europa de Júpiter, el lugar con más posibilidades de albergar vida</a></h4>
     <a href='https://computerhoy.com/noticias/life/foto-mas-cercana-luna-europa-jupiter-albergar-vida-1136851' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/imagenes-cercanas-luna-europa-jupiter-lugar-posibilidades-albergar-vida-2836109.jpg' alt='La imagen más cercana de la luna Europa de Júpiter, el lugar con más posibilidades de albergar vida' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/microsoft-hololens-gafas-realidad-aumentada-soldados-ejercito-test-1141133'>A algunos soldados no les gustan las gafas de realidad aumentada Microsoft HoloLens: "nos van a matar a todos"</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/microsoft-hololens-gafas-realidad-aumentada-soldados-ejercito-test-1141133' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/soldados-no-gustan-gafas-realidad-aumentada-microsoft-hololens-nos-van-matar-todos-2844571.jpg' alt='A algunos soldados no les gustan las gafas de realidad aumentada Microsoft HoloLens: "nos van a matar a todos"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/ssd-m2-pcie-50-cfd-disipador-enorme-1141127'>Mejor compra una caja de PC bien grande: los nuevos SSD M.2 PCIe 5.0 son unas bestias enormes</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/ssd-m2-pcie-50-cfd-disipador-enorme-1141127' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/mejor-compra-caja-pc-bien-grande-nuevos-ssd-pcie-50-son-unas-bestias-enormes-2844521.jpg' alt='Mejor compra una caja de PC bien grande: los nuevos SSD M.2 PCIe 5.0 son unas bestias enormes' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/auriculares-adidas-rpt-02-sol-recargan-luz-solar-1141121'>Los nuevos auriculares de Adidas que se recargan con la luz, promete que nunca tendrás que usar un cargador</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/auriculares-adidas-rpt-02-sol-recargan-luz-solar-1141121' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/nuevos-auriculares-adidas-energia-solar-no-tendras-recargar-nunca-2844511.jpg' alt='Los nuevos auriculares de Adidas que se recargan con la luz, promete que nunca tendrás que usar un cargador' />
     </a>
 </div>
 
