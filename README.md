@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/generador-solar-537-wh-paneles-solares-plegables-200-w-oferta-cupon-1141767'>Generador Solar de 537 Wh con paneles solares plegables de hasta 200 W, solo 849 euros aplicando cupón</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/generador-solar-537-wh-paneles-solares-plegables-200-w-oferta-cupon-1141767' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/generador-solar-537wh-paneles-solares-plegables-solo-849-euros-aplicando-cupon-2846085.jpg' alt='Generador Solar de 537 Wh con paneles solares plegables de hasta 200 W, solo 849 euros aplicando cupón' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/netflix-transferencia-perfiles-1141765'>Netflix ya prepara la prohibición de compartir cuentas: lanza la transferencia de perfiles</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/netflix-transferencia-perfiles-1141765' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/netflix-ya-prepara-prohibicion-compartir-cuentas-lanza-transferencia-perfiles-2846083.jpg' alt='Netflix ya prepara la prohibición de compartir cuentas: lanza la transferencia de perfiles' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/expertos-advierten-peligro-sigan-lanzando-satelites-starlink-espacio-1141751'>Expertos advierten del peligro de que se sigan lanzando satélites de Starlink al espacio</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/expertos-advierten-peligro-sigan-lanzando-satelites-starlink-espacio-1141751' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/starlink-2628997.jpg' alt='Expertos advierten del peligro de que se sigan lanzando satélites de Starlink al espacio' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/filtradas-especificaciones-samsung-galaxy-m54-procesador-gama-alta-bateria-enorme-capacidad-1141727'>Filtradas las especificaciones del Samsung Galaxy M54: procesador de gama alta y batería de enorme capacidad</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/filtradas-especificaciones-samsung-galaxy-m54-procesador-gama-alta-bateria-enorme-capacidad-1141727' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/samsung-galaxy-m53-5g-2680871.jpg' alt='Filtradas las especificaciones del Samsung Galaxy M54: procesador de gama alta y batería de enorme capacidad' />
     </a>
 </div>
 
