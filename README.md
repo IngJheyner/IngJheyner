@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/ya-puedes-descargar-ultima-version-android-auto-movil-1141473'>Ya puedes descargar la última versión de Android Auto en tu móvil</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/ya-puedes-descargar-ultima-version-android-auto-movil-1141473' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/android-auto-2694683.jpg' alt='Ya puedes descargar la última versión de Android Auto en tu móvil' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/nuevo-ipad-pro-chip-portatil-punto-ver-luz-1141411'>El nuevo iPad Pro con chip de portátil está a punto de ver la luz</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/nuevo-ipad-pro-chip-portatil-punto-ver-luz-1141411' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/ipad-pro-2485173.jpg' alt='El nuevo iPad Pro con chip de portátil está a punto de ver la luz' />
@@ -66,9 +74,9 @@
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/plan-europa-encriptar-cuanticamente-comunicaciones-satelite-2024-1141393'>El plan de Europa para encriptar cuánticamente las comunicaciones por satélite en 2024</a></h4>
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/plan-europa-encriptar-cuanticamente-comunicaciones-satelite-2024-1141393'>El plan de Europa para cifrar cuánticamente las comunicaciones por satélite en 2024</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/plan-europa-encriptar-cuanticamente-comunicaciones-satelite-2024-1141393' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/07/amazon-va-elon-musk-recibe-aprobacion-fcc-poner-orbita-3236-satelites-2015355.jpg' alt='El plan de Europa para encriptar cuánticamente las comunicaciones por satélite en 2024' />
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/07/amazon-va-elon-musk-recibe-aprobacion-fcc-poner-orbita-3236-satelites-2015355.jpg' alt='El plan de Europa para cifrar cuánticamente las comunicaciones por satélite en 2024' />
     </a>
 </div>
 
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/prueba-windows-95-como-aplicacion-necesidad-particiones-ni-instalacion-1141369'>Prueba Windows 95 como una aplicación, sin necesidad de particiones ni instalación</a></h4>
     <a href='https://computerhoy.com/noticias/prueba-windows-95-como-aplicacion-necesidad-particiones-ni-instalacion-1141369' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/10/ordenador-windows-95-2103983.jpg' alt='Prueba Windows 95 como una aplicación, sin necesidad de particiones ni instalación' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/guia-compra-1111-trucos-consejos-aliexpress-962207'>Guía de compra del 11.11: trucos y consejos para comprar más barato en AliExpress</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/guia-compra-1111-trucos-consejos-aliexpress-962207' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/carrito-compra-ofertas-1111-2844513.jpg' alt='Guía de compra del 11.11: trucos y consejos para comprar más barato en AliExpress' />
     </a>
 </div>
 
