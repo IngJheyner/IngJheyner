@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/amazfit-falcon-reloj-deportes-extremos-quiere-competir-apple-watch-ultra-1141553'>Amazfit Falcon: así es el reloj para deportes extremos que quiere competir con el Apple Watch Ultra</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/amazfit-falcon-reloj-deportes-extremos-quiere-competir-apple-watch-ultra-1141553' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/amazfit-falcon-reloj-deportes-extremos-quiere-competir-apple-watch-ultra-2845491.jpg' alt='Amazfit Falcon: así es el reloj para deportes extremos que quiere competir con el Apple Watch Ultra' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/modulo-ram-casi-arruina-ultimo-kernel-linux-1141545'>El módulo de RAM que casi arruina el último kernel de Linux</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/modulo-ram-casi-arruina-ultimo-kernel-linux-1141545' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/03/linux_0.jpg' alt='El módulo de RAM que casi arruina el último kernel de Linux' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/google-chrome-descarga-instalacion-configuracion-extensiones-todo-debes-saber-1140203'>Google Chrome: descarga e instalación, configuración, extensiones y todo lo que debes saber</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/google-chrome-descarga-instalacion-configuracion-extensiones-todo-debes-saber-1140203' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/google-chrome-2845581.jpg' alt='Google Chrome: descarga e instalación, configuración, extensiones y todo lo que debes saber' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/prueba-cerveza-steve-jobs-contratar-mantener-mejores-empleados-1141527'>La prueba de la cerveza de Steve Jobs para contratar y mantener a sus mejores empleados</a></h4>
     <a href='https://computerhoy.com/noticias/life/prueba-cerveza-steve-jobs-contratar-mantener-mejores-empleados-1141527' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/09/steve-jobs-primer-iphone.jpg' alt='La prueba de la cerveza de Steve Jobs para contratar y mantener a sus mejores empleados' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/motor/poner-calefaccion-coche-hace-consuma-1141515'>¿Poner la calefacción del coche hace que consuma más?</a></h4>
     <a href='https://computerhoy.com/noticias/motor/poner-calefaccion-coche-hace-consuma-1141515' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/10/calefaccion-coche-2109235.jpg' alt='¿Poner la calefacción del coche hace que consuma más?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/todo-sabemos-windows-12-pcs-compatibles-nuevas-caracteristicas-1141503'>Esto es todo lo que sabemos de Windows 12: PCs compatibles y nuevas características</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/todo-sabemos-windows-12-pcs-compatibles-nuevas-caracteristicas-1141503' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/windows-12-2845309.jpg' alt='Esto es todo lo que sabemos de Windows 12: PCs compatibles y nuevas características' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/mejores-consejos-android-vaya-como-primer-dia-1141513'>Los mejores consejos para que tu Android vaya como el primer día</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/mejores-consejos-android-vaya-como-primer-dia-1141513' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/funcion-oculta-proteger-privacidad-35-usuarios-android-desconoce-2795885.jpg' alt='Los mejores consejos para que tu Android vaya como el primer día' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/elegante-deportivo-smartwatch-huawei-tiene-88-analisis-ahora-rebajado-70-euros-1140215'>Elegante y deportivo: este smartwatch de Huawei tiene un 88 en nuestro análisis y ahora está rebajado en 70 euros</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/elegante-deportivo-smartwatch-huawei-tiene-88-analisis-ahora-rebajado-70-euros-1140215' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/analisis-huawei-watch-gt-3-pro-2705113.jpg' alt='Elegante y deportivo: este smartwatch de Huawei tiene un 88 en nuestro análisis y ahora está rebajado en 70 euros' />
     </a>
 </div>
 
