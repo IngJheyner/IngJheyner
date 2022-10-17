@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/nuevo-ipad-pro-chip-portatil-punto-ver-luz-1141411'>El nuevo iPad Pro con chip de portátil está a punto de ver la luz</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/nuevo-ipad-pro-chip-portatil-punto-ver-luz-1141411' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/ipad-pro-2485173.jpg' alt='El nuevo iPad Pro con chip de portátil está a punto de ver la luz' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/freidora-aire-cecotec-cestillo-6-litros-ahora-menos-90-euros-1140463'>La freidora de aire de Cecotec con un cestillo de 6 litros ahora está por menos de 90 euros</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/freidora-aire-cecotec-cestillo-6-litros-ahora-menos-90-euros-1140463' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/freidora-aire-cecotec-cestillo-6-litros-ahora-menos-90-euros-2843619.jpg' alt='La freidora de aire de Cecotec con un cestillo de 6 litros ahora está por menos de 90 euros' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/guia-compra-1111-trucos-consejos-aliexpress-962207'>Guía de compra del 11.11: trucos y consejos para comprar más barato en AliExpress</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/guia-compra-1111-trucos-consejos-aliexpress-962207' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/carrito-compra-ofertas-1111-2844513.jpg' alt='Guía de compra del 11.11: trucos y consejos para comprar más barato en AliExpress' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/35-noticias-tecnologia-comenzar-manana-informado-ultimo-1141345'>35 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/35-noticias-tecnologia-comenzar-manana-informado-ultimo-1141345' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/35-noticias-tecnologia-comenzar-manana-informado-ultimo-2844909.jpg' alt='35 noticias de tecnología para comenzar la mañana informado de lo último' />
     </a>
 </div>
 
