@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/hombre-no-puede-acceder-casi-2-millones-euros-bitcoin-porque-no-recuerda-contrasena-hotmail-1141757'>Este hombre no puede acceder a casi 2 millones de euros en Bitcoin porque no recuerda su contraseña de Hotmail</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/hombre-no-puede-acceder-casi-2-millones-euros-bitcoin-porque-no-recuerda-contrasena-hotmail-1141757' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/caida-bitcoin-2592649.jpg' alt='Este hombre no puede acceder a casi 2 millones de euros en Bitcoin porque no recuerda su contraseña de Hotmail' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/the-peripheral-serie-prime-video-1141755'>Tras acabar Los Anillos de Poder, Prime Video se pasa al cyberpunk con The Peripheral</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/the-peripheral-serie-prime-video-1141755' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/verticalimage1666032456929-2846073.jpg' alt='Tras acabar Los Anillos de Poder, Prime Video se pasa al cyberpunk con The Peripheral' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/expertos-advierten-peligro-sigan-lanzando-satelites-starlink-espacio-1141751'>Expertos advierten del peligro de que se sigan lanzando satélites de Starlink al espacio</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/expertos-advierten-peligro-sigan-lanzando-satelites-starlink-espacio-1141751' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/starlink-2628997.jpg' alt='Expertos advierten del peligro de que se sigan lanzando satélites de Starlink al espacio' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/filtradas-especificaciones-samsung-galaxy-m54-procesador-gama-alta-bateria-enorme-capacidad-1141727'>Filtradas las especificaciones del Samsung Galaxy M54: procesador de gama alta y batería de enorme capacidad</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/filtradas-especificaciones-samsung-galaxy-m54-procesador-gama-alta-bateria-enorme-capacidad-1141727' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/samsung-galaxy-m53-5g-2680871.jpg' alt='Filtradas las especificaciones del Samsung Galaxy M54: procesador de gama alta y batería de enorme capacidad' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/rusia-cierra-web-ucraniana-soldados-rusos-rendicion-1141745'>Rusia cierra una web ucraniana de acogida de soldados rusos que aceptan rendirse, estaba saturada de peticiones</a></h4>
     <a href='https://computerhoy.com/noticias/life/rusia-cierra-web-ucraniana-soldados-rusos-rendicion-1141745' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/rusia-cierra-web-ucraniana-acogida-soldados-rusos-aceptan-rendirse-estaba-saturada-peticiones-2846063.jpg' alt='Rusia cierra una web ucraniana de acogida de soldados rusos que aceptan rendirse, estaba saturada de peticiones' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/twitter-quiere-acabar-menciones-no-deseadas-nueva-funcionalidad-1141627'>Twitter quiere acabar con las menciones no deseadas con esta nueva funcionalidad</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/twitter-quiere-acabar-menciones-no-deseadas-nueva-funcionalidad-1141627' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/twitter-2639193.jpg' alt='Twitter quiere acabar con las menciones no deseadas con esta nueva funcionalidad' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/life/mejores-calefactores-bano-puedes-comprar-1141495'>Mejores calefactores para baño que puedes comprar</a></h4>
-    <a href='https://computerhoy.com/reportajes/life/mejores-calefactores-bano-puedes-comprar-1141495' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/calefactor-bano-cecotec-ready-warm-6150-ceramic-rotate-style-2845263.jpg' alt='Mejores calefactores para baño que puedes comprar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/listas/tecnologia/mejores-aplicaciones-android-empezar-correr-llevar-registro-entrenamientos-1119605'>Las mejores aplicaciones Android para empezar a correr y llevar un registro de los entrenamientos</a></h4>
-    <a href='https://computerhoy.com/listas/tecnologia/mejores-aplicaciones-android-empezar-correr-llevar-registro-entrenamientos-1119605' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/mejores-aplicaciones-android-empezar-correr-llevar-registro-entrenamientos-2845849.jpg' alt='Las mejores aplicaciones Android para empezar a correr y llevar un registro de los entrenamientos' />
     </a>
 </div>
 
