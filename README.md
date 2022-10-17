@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/chromecast-google-tv-actualiza-android-12-estas-son-principales-novedades-1141611'>El Chromecast con Google TV se actualiza a Android 12 y estás son sus principales novedades</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/chromecast-google-tv-actualiza-android-12-estas-son-principales-novedades-1141611' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/chromecast-google-tv-2020-2232767.jpg' alt='El Chromecast con Google TV se actualiza a Android 12 y estás son sus principales novedades' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/gaming/mejores-juegos-gratis-descargar-windows-207634'>Los mejores juegos gratis para descargar en Windows 10 y 11 en 2022</a></h4>
     <a href='https://computerhoy.com/reportajes/gaming/mejores-juegos-gratis-descargar-windows-207634' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/07/warframe-1991589.jpg' alt='Los mejores juegos gratis para descargar en Windows 10 y 11 en 2022' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/google-chrome-descarga-instalacion-configuracion-extensiones-todo-debes-saber-1140203'>Google Chrome: descarga e instalación, configuración, extensiones y todo lo que debes saber</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/google-chrome-descarga-instalacion-configuracion-extensiones-todo-debes-saber-1140203' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/google-chrome-2845581.jpg' alt='Google Chrome: descarga e instalación, configuración, extensiones y todo lo que debes saber' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/prueba-cerveza-steve-jobs-contratar-mantener-mejores-empleados-1141527'>La prueba de la cerveza de Steve Jobs para contratar y mantener a sus mejores empleados</a></h4>
-    <a href='https://computerhoy.com/noticias/life/prueba-cerveza-steve-jobs-contratar-mantener-mejores-empleados-1141527' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/09/steve-jobs-primer-iphone.jpg' alt='La prueba de la cerveza de Steve Jobs para contratar y mantener a sus mejores empleados' />
     </a>
 </div>
 
