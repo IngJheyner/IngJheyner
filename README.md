@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/filtradas-especificaciones-samsung-galaxy-m54-procesador-gama-alta-bateria-enorme-capacidad-1141727'>Filtradas las especificaciones del Samsung Galaxy M54: procesador de gama alta y batería de enorme capacidad</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/filtradas-especificaciones-samsung-galaxy-m54-procesador-gama-alta-bateria-enorme-capacidad-1141727' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/samsung-galaxy-m53-5g-2680871.jpg' alt='Filtradas las especificaciones del Samsung Galaxy M54: procesador de gama alta y batería de enorme capacidad' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/rusia-cierra-web-ucraniana-soldados-rusos-rendicion-1141745'>Rusia cierra una web ucraniana de acogida de soldados rusos que aceptan rendirse, estaba saturada de peticiones</a></h4>
+    <a href='https://computerhoy.com/noticias/life/rusia-cierra-web-ucraniana-soldados-rusos-rendicion-1141745' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/rusia-cierra-web-ucraniana-acogida-soldados-rusos-aceptan-rendirse-estaba-saturada-peticiones-2846063.jpg' alt='Rusia cierra una web ucraniana de acogida de soldados rusos que aceptan rendirse, estaba saturada de peticiones' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/twitter-quiere-acabar-menciones-no-deseadas-nueva-funcionalidad-1141627'>Twitter quiere acabar con las menciones no deseadas con esta nueva funcionalidad</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/twitter-quiere-acabar-menciones-no-deseadas-nueva-funcionalidad-1141627' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/twitter-2639193.jpg' alt='Twitter quiere acabar con las menciones no deseadas con esta nueva funcionalidad' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/listas/tecnologia/mejores-aplicaciones-android-empezar-correr-llevar-registro-entrenamientos-1119605'>Las mejores aplicaciones Android para empezar a correr y llevar un registro de los entrenamientos</a></h4>
     <a href='https://computerhoy.com/listas/tecnologia/mejores-aplicaciones-android-empezar-correr-llevar-registro-entrenamientos-1119605' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/mejores-aplicaciones-android-empezar-correr-llevar-registro-entrenamientos-2845849.jpg' alt='Las mejores aplicaciones Android para empezar a correr y llevar un registro de los entrenamientos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/rtx-4090-derriba-contrasenas-tiempo-record-malas-noticias-ciberseguridad-1141625'>La RTX 4090 derriba contraseñas en tiempo récord: malas noticias para la ciberseguridad</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/rtx-4090-derriba-contrasenas-tiempo-record-malas-noticias-ciberseguridad-1141625' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/nvidia-rtx-4090-2835461.jpg' alt='La RTX 4090 derriba contraseñas en tiempo récord: malas noticias para la ciberseguridad' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/gaming/como-recuperar-dinero-has-gastado-google-stadia-1141581'>Cómo recuperar el dinero que has gastado en Google Stadia</a></h4>
-    <a href='https://computerhoy.com/noticias/gaming/como-recuperar-dinero-has-gastado-google-stadia-1141581' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/11/analisis-google-stadia_12.jpg' alt='Cómo recuperar el dinero que has gastado en Google Stadia' />
     </a>
 </div>
 
