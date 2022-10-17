@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/gaming/mejores-juegos-gratis-descargar-windows-207634'>Los mejores juegos gratis para descargar en Windows 10 y 11 en 2022</a></h4>
+    <a href='https://computerhoy.com/reportajes/gaming/mejores-juegos-gratis-descargar-windows-207634' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/07/warframe-1991589.jpg' alt='Los mejores juegos gratis para descargar en Windows 10 y 11 en 2022' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/amazfit-falcon-reloj-deportes-extremos-quiere-competir-apple-watch-ultra-1141553'>Amazfit Falcon: así es el reloj para deportes extremos que quiere competir con el Apple Watch Ultra</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/amazfit-falcon-reloj-deportes-extremos-quiere-competir-apple-watch-ultra-1141553' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/amazfit-falcon-reloj-deportes-extremos-quiere-competir-apple-watch-ultra-2845491.jpg' alt='Amazfit Falcon: así es el reloj para deportes extremos que quiere competir con el Apple Watch Ultra' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/prueba-cerveza-steve-jobs-contratar-mantener-mejores-empleados-1141527'>La prueba de la cerveza de Steve Jobs para contratar y mantener a sus mejores empleados</a></h4>
     <a href='https://computerhoy.com/noticias/life/prueba-cerveza-steve-jobs-contratar-mantener-mejores-empleados-1141527' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/09/steve-jobs-primer-iphone.jpg' alt='La prueba de la cerveza de Steve Jobs para contratar y mantener a sus mejores empleados' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/poner-calefaccion-coche-hace-consuma-1141515'>¿Poner la calefacción del coche hace que consuma más?</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/poner-calefaccion-coche-hace-consuma-1141515' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/10/calefaccion-coche-2109235.jpg' alt='¿Poner la calefacción del coche hace que consuma más?' />
     </a>
 </div>
 
