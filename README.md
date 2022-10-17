@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/ya-puedes-descargar-ultima-version-android-auto-movil-1141473'>Ya puedes descargar la última versión de Android Auto en tu móvil</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/ya-puedes-descargar-ultima-version-android-auto-movil-1141473' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/android-auto-2694683.jpg' alt='Ya puedes descargar la última versión de Android Auto en tu móvil' />
+    <h4><a href='https://computerhoy.com/noticias/life/prueba-cerveza-steve-jobs-contratar-mantener-mejores-empleados-1141527'>La prueba de la cerveza de Steve Jobs para contratar y mantener a sus mejores empleados</a></h4>
+    <a href='https://computerhoy.com/noticias/life/prueba-cerveza-steve-jobs-contratar-mantener-mejores-empleados-1141527' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/09/steve-jobs-primer-iphone.jpg' alt='La prueba de la cerveza de Steve Jobs para contratar y mantener a sus mejores empleados' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/nuevo-ipad-pro-chip-portatil-punto-ver-luz-1141411'>El nuevo iPad Pro con chip de portátil está a punto de ver la luz</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/nuevo-ipad-pro-chip-portatil-punto-ver-luz-1141411' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/ipad-pro-2485173.jpg' alt='El nuevo iPad Pro con chip de portátil está a punto de ver la luz' />
+    <h4><a href='https://computerhoy.com/noticias/motor/poner-calefaccion-coche-hace-consuma-1141515'>¿Poner la calefacción del coche hace que consuma más?</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/poner-calefaccion-coche-hace-consuma-1141515' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/10/calefaccion-coche-2109235.jpg' alt='¿Poner la calefacción del coche hace que consuma más?' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/freidora-aire-cecotec-cestillo-6-litros-ahora-menos-90-euros-1140463'>La freidora de aire de Cecotec con un cestillo de 6 litros ahora está por menos de 90 euros</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/freidora-aire-cecotec-cestillo-6-litros-ahora-menos-90-euros-1140463' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/freidora-aire-cecotec-cestillo-6-litros-ahora-menos-90-euros-2843619.jpg' alt='La freidora de aire de Cecotec con un cestillo de 6 litros ahora está por menos de 90 euros' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/todo-sabemos-windows-12-pcs-compatibles-nuevas-caracteristicas-1141503'>Esto es todo lo que sabemos de Windows 12: PCs compatibles y nuevas características</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/todo-sabemos-windows-12-pcs-compatibles-nuevas-caracteristicas-1141503' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/windows-12-2845309.jpg' alt='Esto es todo lo que sabemos de Windows 12: PCs compatibles y nuevas características' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/plan-europa-encriptar-cuanticamente-comunicaciones-satelite-2024-1141393'>El plan de Europa para cifrar cuánticamente las comunicaciones por satélite en 2024</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/plan-europa-encriptar-cuanticamente-comunicaciones-satelite-2024-1141393' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/07/amazon-va-elon-musk-recibe-aprobacion-fcc-poner-orbita-3236-satelites-2015355.jpg' alt='El plan de Europa para cifrar cuánticamente las comunicaciones por satélite en 2024' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/mejores-consejos-android-vaya-como-primer-dia-1141513'>Los mejores consejos para que tu Android vaya como el primer día</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/mejores-consejos-android-vaya-como-primer-dia-1141513' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/funcion-oculta-proteger-privacidad-35-usuarios-android-desconoce-2795885.jpg' alt='Los mejores consejos para que tu Android vaya como el primer día' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/prueba-windows-95-como-aplicacion-necesidad-particiones-ni-instalacion-1141369'>Prueba Windows 95 como una aplicación, sin necesidad de particiones ni instalación</a></h4>
-    <a href='https://computerhoy.com/noticias/prueba-windows-95-como-aplicacion-necesidad-particiones-ni-instalacion-1141369' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/10/ordenador-windows-95-2103983.jpg' alt='Prueba Windows 95 como una aplicación, sin necesidad de particiones ni instalación' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/elegante-deportivo-smartwatch-huawei-tiene-88-analisis-ahora-rebajado-70-euros-1140215'>Elegante y deportivo: este smartwatch de Huawei tiene un 88 en nuestro análisis y ahora está rebajado en 70 euros</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/elegante-deportivo-smartwatch-huawei-tiene-88-analisis-ahora-rebajado-70-euros-1140215' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/analisis-huawei-watch-gt-3-pro-2705113.jpg' alt='Elegante y deportivo: este smartwatch de Huawei tiene un 88 en nuestro análisis y ahora está rebajado en 70 euros' />
     </a>
 </div>
 
