@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/tiktok-rinde-contenido-adulto-introduce-cambios-drasticos-red-social-1141699'>TikTok se rinde al contenido para adulto e introduce cambios drásticos en la red social</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/tiktok-rinde-contenido-adulto-introduce-cambios-drasticos-red-social-1141699' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/logo-tiktok-2792771.jpg' alt='TikTok se rinde al contenido para adulto e introduce cambios drásticos en la red social' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/generador-solar-537-wh-paneles-solares-plegables-200-w-oferta-cupon-1141767'>Generador Solar de 537 Wh con paneles solares plegables de hasta 200 W, solo 849 euros aplicando cupón</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/generador-solar-537-wh-paneles-solares-plegables-200-w-oferta-cupon-1141767' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/generador-solar-537wh-paneles-solares-plegables-solo-849-euros-aplicando-cupon-2846085.jpg' alt='Generador Solar de 537 Wh con paneles solares plegables de hasta 200 W, solo 849 euros aplicando cupón' />
@@ -74,17 +82,9 @@
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/the-peripheral-serie-prime-video-1141755'>Tras acabar Los Anillos de Poder, Prime Video se pasa al cyberpunk con The Peripheral</a></h4>
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/the-peripheral-serie-prime-video-1141755'>Tras acabar Los Anillos de Poder, Prime Video se pasa a la ciencia-ficción con The Peripheral</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/the-peripheral-serie-prime-video-1141755' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/verticalimage1666032456929-2846073.jpg' alt='Tras acabar Los Anillos de Poder, Prime Video se pasa al cyberpunk con The Peripheral' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/expertos-advierten-peligro-sigan-lanzando-satelites-starlink-espacio-1141751'>Expertos advierten del peligro de que se sigan lanzando satélites de Starlink al espacio</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/expertos-advierten-peligro-sigan-lanzando-satelites-starlink-espacio-1141751' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/starlink-2628997.jpg' alt='Expertos advierten del peligro de que se sigan lanzando satélites de Starlink al espacio' />
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/verticalimage1666032456929-2846073.jpg' alt='Tras acabar Los Anillos de Poder, Prime Video se pasa a la ciencia-ficción con The Peripheral' />
     </a>
 </div>
 
