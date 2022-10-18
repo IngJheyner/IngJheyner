@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/alimentos-conectados-codigo-qr-comestibles-video-1142377'>Llegan los alimentos conectados: tienen un código QR dentro (vídeo)</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/alimentos-conectados-codigo-qr-comestibles-video-1142377' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/verticalimage1666130702507-2847129.jpg' alt='Llegan los alimentos conectados: tienen un código QR dentro (vídeo)' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/nueva-actualizacion-windows-11-22h2-explorador-archivos-barra-tareas-1142369'>La actualización Windows 11 22H2 estaba incompleta: hoy llegan las mejoras prometidas</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/nueva-actualizacion-windows-11-22h2-explorador-archivos-barra-tareas-1142369' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/actualizacion-windows-11-22h2-estaba-incompleta-hoy-llegan-mejoras-prometidas-2847115.jpg' alt='La actualización Windows 11 22H2 estaba incompleta: hoy llegan las mejoras prometidas' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/filmin-books-fest-festival-documentales-escritores-literatura-1142349'>Filmin anuncia un festival que enamorará a todos los amantes de los libros</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/filmin-books-fest-festival-documentales-escritores-literatura-1142349' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/filmin-anuncia-festival-enamorara-todos-amantes-libros-2847071.jpg' alt='Filmin anuncia un festival que enamorará a todos los amantes de los libros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/usuarios-twitter-obligan-multimillonario-vender-jet-privado-1142341'>Usuarios de Twitter obligan a este multimillonario a vender su jet privado</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/usuarios-twitter-obligan-multimillonario-vender-jet-privado-1142341' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/jet-privado-2847061.jpg' alt='Usuarios de Twitter obligan a este multimillonario a vender su jet privado' />
     </a>
 </div>
 
