@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/prime-video-estrena-ultima-emotiva-gran-produccion-todavia-sigue-cines-1142195'>Prime video estrena su última y emotiva gran producción, que todavía sigue en los cines</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/prime-video-estrena-ultima-emotiva-gran-produccion-todavia-sigue-cines-1142195' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/argentina-1985-2829723.jpg' alt='Prime video estrena su última y emotiva gran producción, que todavía sigue en los cines' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/honor-tira-casa-ventana-estos-dos-portatiles-magicbook-estan-oferta-1142061'>Honor tira la casa por la ventana: estos dos portátiles MagicBook están en oferta</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/honor-tira-casa-ventana-estos-dos-portatiles-magicbook-estan-oferta-1142061' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/08/honor-magicbook-15-2035237.jpg' alt='Honor tira la casa por la ventana: estos dos portátiles MagicBook están en oferta' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/ultima-actualizacion-windows-10-11-trae-consigo-problemas-red-puedes-solucionarlos-1142047'>La última actualización de Windows 10 y 11 trae consigo problemas de red, así puedes solucionarlos </a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/ultima-actualizacion-windows-10-11-trae-consigo-problemas-red-puedes-solucionarlos-1142047' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/ultima-actualizacion-windows-10-11-trae-consigo-problemas-red-puedes-solucionarlos-2846589.jpg' alt='La última actualización de Windows 10 y 11 trae consigo problemas de red, así puedes solucionarlos ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/te-cobran-peajes-virtuales-cabinas-ya-funcionan-carreteras-espanolas-1142109'>Así te cobran los peajes virtuales sin cabinas que ya funcionan en las carreteras españolas</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/te-cobran-peajes-virtuales-cabinas-ya-funcionan-carreteras-espanolas-1142109' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/carretera-peaje-2755011.jpg' alt='Así te cobran los peajes virtuales sin cabinas que ya funcionan en las carreteras españolas' />
     </a>
 </div>
 
