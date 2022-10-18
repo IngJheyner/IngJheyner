@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/gaming/sims-4-ya-son-gratis-puedes-descargarlo-ordenador-1141987'>Los Sims 4 ya son gratis, así puedes descargarlo en tu ordenador</a></h4>
+    <a href='https://computerhoy.com/noticias/gaming/sims-4-ya-son-gratis-puedes-descargarlo-ordenador-1141987' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/sims-4-edicion-fiesta-deluxe-2741147.jpg' alt='Los Sims 4 ya son gratis, así puedes descargarlo en tu ordenador' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/cupones-11-11-aliexpress-como-funcionan-como-conseguirlos-1141639'>Cupones del 11.11 en AliExpress: cómo funcionan y cómo conseguirlos</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/cupones-11-11-aliexpress-como-funcionan-como-conseguirlos-1141639' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/portada-compras-2845833.jpg' alt='Cupones del 11.11 en AliExpress: cómo funcionan y cómo conseguirlos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/27-noticias-tecnologia-comenzar-manana-informado-ultimo-1141979'>27 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/27-noticias-tecnologia-comenzar-manana-informado-ultimo-1141979' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/27-noticias-tecnologia-comenzar-manana-informado-ultimo-2846291.jpg' alt='27 noticias de tecnología para comenzar la mañana informado de lo último' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/gaming/modiplay-racing-scalextric-realista-movil-video-1141975'>MODIplay Racing, el scalextric realista con hasta 30 personas, que se maneja con el móvil (vídeo)</a></h4>
     <a href='https://computerhoy.com/noticias/gaming/modiplay-racing-scalextric-realista-movil-video-1141975' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/verticalimage1666057134955-2846287.jpg' alt='MODIplay Racing, el scalextric realista con hasta 30 personas, que se maneja con el móvil (vídeo)' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/tiktok-rinde-contenido-adulto-introduce-cambios-drasticos-red-social-1141699'>TikTok se rinde al contenido para adulto e introduce cambios drásticos en la red social</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/tiktok-rinde-contenido-adulto-introduce-cambios-drasticos-red-social-1141699' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/logo-tiktok-2792771.jpg' alt='TikTok se rinde al contenido para adulto e introduce cambios drásticos en la red social' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/generador-solar-537-wh-paneles-solares-plegables-200-w-oferta-cupon-1141767'>Generador Solar de 537 Wh con paneles solares plegables de hasta 200 W, solo 849 euros aplicando cupón</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/generador-solar-537-wh-paneles-solares-plegables-200-w-oferta-cupon-1141767' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/generador-solar-537wh-paneles-solares-plegables-solo-849-euros-aplicando-cupon-2846085.jpg' alt='Generador Solar de 537 Wh con paneles solares plegables de hasta 200 W, solo 849 euros aplicando cupón' />
     </a>
 </div>
 
