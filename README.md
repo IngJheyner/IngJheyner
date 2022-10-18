@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/te-cobran-peajes-virtuales-cabinas-ya-funcionan-carreteras-espanolas-1142109'>Así te cobran los peajes virtuales sin cabinas que ya funcionan en las carreteras españolas</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/te-cobran-peajes-virtuales-cabinas-ya-funcionan-carreteras-espanolas-1142109' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/carretera-peaje-2755011.jpg' alt='Así te cobran los peajes virtuales sin cabinas que ya funcionan en las carreteras españolas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/televisores-8k-van-ser-prohibidos-union-europea-1142107'>Los televisores 8K van a ser prohibidos... por la Unión Europea</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/televisores-8k-van-ser-prohibidos-union-europea-1142107' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/samsung-8k-anillos-2794625.jpg' alt='Los televisores 8K van a ser prohibidos... por la Unión Europea' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/primera-oferta-apple-watch-series-8-amazon-ahora-sensor-temperatura-1142037'>Primera oferta en el Apple Watch Series 8, y de Amazon: ahora con sensor de temperatura</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/primera-oferta-apple-watch-series-8-amazon-ahora-sensor-temperatura-1142037' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/apple-watch-series-8-analisis-opinion-2841937.jpg' alt='Primera oferta en el Apple Watch Series 8, y de Amazon: ahora con sensor de temperatura' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/usa-camara-modo-manual-guia-interactiva-canon-valida-moviles-cualquier-camara-1142011'>Haz fotos en modo manual, guía interactiva de Canon válida para móviles y cualquier cámara</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/usa-camara-modo-manual-guia-interactiva-canon-valida-moviles-cualquier-camara-1142011' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/usa-camara-modo-manual-guia-interactiva-canon-valida-moviles-cualquier-camara-2846313.jpg' alt='Haz fotos en modo manual, guía interactiva de Canon válida para móviles y cualquier cámara' />
     </a>
 </div>
 
