@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/apple-ipad-pro-2022-m2-apple-renueva-tablet-procesional-ultimo-procesador-1142291'>Apple iPad Pro 2022 con M2: Apple renueva su tablet procesional con su último procesador</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/apple-ipad-pro-2022-m2-apple-renueva-tablet-procesional-ultimo-procesador-1142291' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/apple-ipad-pro-2022-m2-apple-renueva-tablet-procesional-ultimo-procesador-2846883.jpg' alt='Apple iPad Pro 2022 con M2: Apple renueva su tablet procesional con su último procesador' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/galaxy-s23-sera-proximo-movil-top-samsung-no-no-batira-iphone-14-pro-1142275'>Galaxy S23, así será el próximo móvil top de Samsung y, no, no batirá al iPhone 14 Pro</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/galaxy-s23-sera-proximo-movil-top-samsung-no-no-batira-iphone-14-pro-1142275' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/galaxy-s23-2826875.jpg' alt='Galaxy S23, así será el próximo móvil top de Samsung y, no, no batirá al iPhone 14 Pro' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/apple-renueva-ipad-barato-nuevo-ipad-109-pulgadas-usb-c-mismo-diseno-ipad-pro-1142283'>Apple renueva su iPad barato: así es el nuevo iPad de 10,9 pulgadas con USB-C y el mismo diseño que el iPad Pro</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/apple-renueva-ipad-barato-nuevo-ipad-109-pulgadas-usb-c-mismo-diseno-ipad-pro-1142283' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/apple-renueva-ipad-barato-nuevo-ipad-109-pulgadas-usb-c-mismo-diseno-ipad-pro-2846869.jpg' alt='Apple renueva su iPad barato: así es el nuevo iPad de 10,9 pulgadas con USB-C y el mismo diseño que el iPad Pro' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/criptomonedas-blue-chip-ultima-esperanza-sector-1142271'>Criptomonedas Blue-Chip, ¿la última esperanza del sector?</a></h4>
     <a href='https://computerhoy.com/noticias/life/criptomonedas-blue-chip-ultima-esperanza-sector-1142271' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/criptomonedas-2832727.jpg' alt='Criptomonedas Blue-Chip, ¿la última esperanza del sector?' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/microsoft-defender-windows-hace-aguas-cuando-queda-conexion-internet-1142245'>Microsoft Defender para Windows hace aguas cuando se queda sin conexión a Internet</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/microsoft-defender-windows-hace-aguas-cuando-queda-conexion-internet-1142245' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/08/microsoft-defender-pc-2037107.jpg' alt='Microsoft Defender para Windows hace aguas cuando se queda sin conexión a Internet' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/operadoras-mayor-velocidad-conexion-netflix-1142173'>Las operadoras con mayor de velocidad de conexión a Netflix</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/operadoras-mayor-velocidad-conexion-netflix-1142173' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/operadoras-mayor-velocidad-conexion-netflix-2846639.jpg' alt='Las operadoras con mayor de velocidad de conexión a Netflix' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/giphy-dejara-ser-facebook-obligan-vender-1142251'>Giphy dejará de ser de Facebook, les obligan a vender</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/giphy-dejara-ser-facebook-obligan-vender-1142251' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/11/giphy.jpg' alt='Giphy dejará de ser de Facebook, les obligan a vender' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/prime-video-estrena-ultima-emotiva-gran-produccion-todavia-sigue-cines-1142195'>Prime video estrena su última y emotiva gran producción, que todavía sigue en los cines</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/prime-video-estrena-ultima-emotiva-gran-produccion-todavia-sigue-cines-1142195' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/argentina-1985-2829723.jpg' alt='Prime video estrena su última y emotiva gran producción, que todavía sigue en los cines' />
     </a>
 </div>
 
