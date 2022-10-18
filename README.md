@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/criptomonedas-blue-chip-ultima-esperanza-sector-1142271'>Criptomonedas Blue-Chip, ¿la última esperanza del sector?</a></h4>
+    <a href='https://computerhoy.com/noticias/life/criptomonedas-blue-chip-ultima-esperanza-sector-1142271' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/criptomonedas-2832727.jpg' alt='Criptomonedas Blue-Chip, ¿la última esperanza del sector?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/microsoft-defender-windows-hace-aguas-cuando-queda-conexion-internet-1142245'>Microsoft Defender para Windows hace aguas cuando se queda sin conexión a Internet</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/microsoft-defender-windows-hace-aguas-cuando-queda-conexion-internet-1142245' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/08/microsoft-defender-pc-2037107.jpg' alt='Microsoft Defender para Windows hace aguas cuando se queda sin conexión a Internet' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/operadoras-mayor-velocidad-conexion-netflix-1142173'>Las operadoras con mayor de velocidad de conexión a Netflix</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/operadoras-mayor-velocidad-conexion-netflix-1142173' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/operadoras-mayor-velocidad-conexion-netflix-2846639.jpg' alt='Las operadoras con mayor de velocidad de conexión a Netflix' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/giphy-dejara-ser-facebook-obligan-vender-1142251'>Giphy dejará de ser de Facebook, les obligan a vender</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/giphy-dejara-ser-facebook-obligan-vender-1142251' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/11/giphy.jpg' alt='Giphy dejará de ser de Facebook, les obligan a vender' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/prime-video-estrena-ultima-emotiva-gran-produccion-todavia-sigue-cines-1142195'>Prime video estrena su última y emotiva gran producción, que todavía sigue en los cines</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/prime-video-estrena-ultima-emotiva-gran-produccion-todavia-sigue-cines-1142195' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/argentina-1985-2829723.jpg' alt='Prime video estrena su última y emotiva gran producción, que todavía sigue en los cines' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/honor-tira-casa-ventana-estos-dos-portatiles-magicbook-estan-oferta-1142061'>Honor tira la casa por la ventana: estos dos portátiles MagicBook están en oferta</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/honor-tira-casa-ventana-estos-dos-portatiles-magicbook-estan-oferta-1142061' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/08/honor-magicbook-15-2035237.jpg' alt='Honor tira la casa por la ventana: estos dos portátiles MagicBook están en oferta' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/benjamin-moore-desvela-color-ano-2023-raspberry-blush-moda-pintar-casas-1142071'>Benjamin Moore desvela el Color del Año 2023, que se pondrá de moda para pintar las casas</a></h4>
-    <a href='https://computerhoy.com/noticias/life/benjamin-moore-desvela-color-ano-2023-raspberry-blush-moda-pintar-casas-1142071' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/benjamin-moore-desvela-color-ano-2023-pondra-moda-pintar-casas-2846425.jpg' alt='Benjamin Moore desvela el Color del Año 2023, que se pondrá de moda para pintar las casas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/crean-sistema-motores-diesel-funcionen-90-hidrogeno-1142155'>Crean un sistema para que los motores diésel funcionen con un 90 % de hidrógeno</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/crean-sistema-motores-diesel-funcionen-90-hidrogeno-1142155' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/motor-diesel-mazda-2706531.jpg' alt='Crean un sistema para que los motores diésel funcionen con un 90 % de hidrógeno' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/ultima-actualizacion-windows-10-11-trae-consigo-problemas-red-puedes-solucionarlos-1142047'>La última actualización de Windows 10 y 11 trae consigo problemas de red, así puedes solucionarlos </a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/ultima-actualizacion-windows-10-11-trae-consigo-problemas-red-puedes-solucionarlos-1142047' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/ultima-actualizacion-windows-10-11-trae-consigo-problemas-red-puedes-solucionarlos-2846589.jpg' alt='La última actualización de Windows 10 y 11 trae consigo problemas de red, así puedes solucionarlos ' />
     </a>
 </div>
 
