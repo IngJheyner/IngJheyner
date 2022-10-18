@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/gaming/modiplay-racing-scalextric-realista-movil-video-1141975'>MODIplay Racing, el scalextric realista con hasta 30 personas, que se maneja con el móvil (vídeo)</a></h4>
+    <a href='https://computerhoy.com/noticias/gaming/modiplay-racing-scalextric-realista-movil-video-1141975' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/verticalimage1666057134955-2846287.jpg' alt='MODIplay Racing, el scalextric realista con hasta 30 personas, que se maneja con el móvil (vídeo)' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/tiktok-rinde-contenido-adulto-introduce-cambios-drasticos-red-social-1141699'>TikTok se rinde al contenido para adulto e introduce cambios drásticos en la red social</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/tiktok-rinde-contenido-adulto-introduce-cambios-drasticos-red-social-1141699' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/logo-tiktok-2792771.jpg' alt='TikTok se rinde al contenido para adulto e introduce cambios drásticos en la red social' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/hombre-no-puede-acceder-casi-2-millones-euros-bitcoin-porque-no-recuerda-contrasena-hotmail-1141757'>Este hombre no puede acceder a casi 2 millones de euros en Bitcoin porque no recuerda su contraseña de Hotmail</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/hombre-no-puede-acceder-casi-2-millones-euros-bitcoin-porque-no-recuerda-contrasena-hotmail-1141757' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/caida-bitcoin-2592649.jpg' alt='Este hombre no puede acceder a casi 2 millones de euros en Bitcoin porque no recuerda su contraseña de Hotmail' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/the-peripheral-serie-prime-video-1141755'>Tras acabar Los Anillos de Poder, Prime Video se pasa a la ciencia-ficción con The Peripheral</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/the-peripheral-serie-prime-video-1141755' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/verticalimage1666032456929-2846073.jpg' alt='Tras acabar Los Anillos de Poder, Prime Video se pasa a la ciencia-ficción con The Peripheral' />
     </a>
 </div>
 
