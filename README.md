@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/concepto-lenovo-telefono-enrollable-saldria-marca-motorola-1142059'>Este es el concepto de Lenovo de teléfono enrollable que saldría bajo la marca Motorola</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/concepto-lenovo-telefono-enrollable-saldria-marca-motorola-1142059' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/telefono-enrollable-lenovo-2846399.jpg' alt='Este es el concepto de Lenovo de teléfono enrollable que saldría bajo la marca Motorola' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/6-series-peliculas-salen-netflix-breve-no-puedes-perderte-1142027'>Las 6 series y películas que salen de Netflix en breve y no puedes perderte</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/6-series-peliculas-salen-netflix-breve-no-puedes-perderte-1142027' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/gotham-2776595.jpg' alt='Las 6 series y películas que salen de Netflix en breve y no puedes perderte' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/primera-oferta-apple-watch-series-8-amazon-ahora-sensor-temperatura-1142037'>Primera oferta en el Apple Watch Series 8, y de Amazon: ahora con sensor de temperatura</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/primera-oferta-apple-watch-series-8-amazon-ahora-sensor-temperatura-1142037' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/apple-watch-series-8-analisis-opinion-2841937.jpg' alt='Primera oferta en el Apple Watch Series 8, y de Amazon: ahora con sensor de temperatura' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/gaming/sims-4-ya-son-gratis-puedes-descargarlo-ordenador-1141987'>Los Sims 4 ya son gratis, así puedes descargarlo en tu ordenador</a></h4>
     <a href='https://computerhoy.com/noticias/gaming/sims-4-ya-son-gratis-puedes-descargarlo-ordenador-1141987' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/sims-4-edicion-fiesta-deluxe-2741147.jpg' alt='Los Sims 4 ya son gratis, así puedes descargarlo en tu ordenador' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/cupones-11-11-aliexpress-como-funcionan-como-conseguirlos-1141639'>Cupones del 11.11 en AliExpress: cómo funcionan y cómo conseguirlos</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/cupones-11-11-aliexpress-como-funcionan-como-conseguirlos-1141639' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/portada-compras-2845833.jpg' alt='Cupones del 11.11 en AliExpress: cómo funcionan y cómo conseguirlos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/27-noticias-tecnologia-comenzar-manana-informado-ultimo-1141979'>27 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/27-noticias-tecnologia-comenzar-manana-informado-ultimo-1141979' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/27-noticias-tecnologia-comenzar-manana-informado-ultimo-2846291.jpg' alt='27 noticias de tecnología para comenzar la mañana informado de lo último' />
     </a>
 </div>
 
