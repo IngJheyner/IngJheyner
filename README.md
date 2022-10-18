@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/nueva-actualizacion-windows-11-22h2-explorador-archivos-barra-tareas-1142369'>La actualización Windows 11 22H2 estaba incompleta: hoy llegan las mejoras prometidas</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/nueva-actualizacion-windows-11-22h2-explorador-archivos-barra-tareas-1142369' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/actualizacion-windows-11-22h2-estaba-incompleta-hoy-llegan-mejoras-prometidas-2847115.jpg' alt='La actualización Windows 11 22H2 estaba incompleta: hoy llegan las mejoras prometidas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/radiador-electrico-bajo-consumo-cecotec-modo-eco-oferta-1142355'>Este radiador eléctrico de bajo consumo de Cecotec con modo ECO, en oferta por solo 66,90 euros</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/radiador-electrico-bajo-consumo-cecotec-modo-eco-oferta-1142355' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/radiador-electrico-consumo-modo-eco-oferta-solo-6690-euros-2847083.jpg' alt='Este radiador eléctrico de bajo consumo de Cecotec con modo ECO, en oferta por solo 66,90 euros' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/usuarios-twitter-obligan-multimillonario-vender-jet-privado-1142341'>Usuarios de Twitter obligan a este multimillonario a vender su jet privado</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/usuarios-twitter-obligan-multimillonario-vender-jet-privado-1142341' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/jet-privado-2847061.jpg' alt='Usuarios de Twitter obligan a este multimillonario a vender su jet privado' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/acusan-bill-gates-introducir-chips-estas-hamburguesas-veganas-1142339'>Acusan a Bill Gates de introducir chips en estas hamburguesas veganas</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/acusan-bill-gates-introducir-chips-estas-hamburguesas-veganas-1142339' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/hamburguesas-veganas-2847059.jpg' alt='Acusan a Bill Gates de introducir chips en estas hamburguesas veganas' />
     </a>
 </div>
 
