@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/honor-tira-casa-ventana-estos-dos-portatiles-magicbook-estan-oferta-1142061'>Honor tira la casa por la ventana: estos dos portátiles MagicBook están en oferta</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/honor-tira-casa-ventana-estos-dos-portatiles-magicbook-estan-oferta-1142061' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/08/honor-magicbook-15-2035237.jpg' alt='Honor tira la casa por la ventana: estos dos portátiles MagicBook están en oferta' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/benjamin-moore-desvela-color-ano-2023-raspberry-blush-moda-pintar-casas-1142071'>Benjamin Moore desvela el Color del Año 2023, que se pondrá de moda para pintar las casas</a></h4>
+    <a href='https://computerhoy.com/noticias/life/benjamin-moore-desvela-color-ano-2023-raspberry-blush-moda-pintar-casas-1142071' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/benjamin-moore-desvela-color-ano-2023-pondra-moda-pintar-casas-2846425.jpg' alt='Benjamin Moore desvela el Color del Año 2023, que se pondrá de moda para pintar las casas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/crean-sistema-motores-diesel-funcionen-90-hidrogeno-1142155'>Crean un sistema para que los motores diésel funcionen con un 90 % de hidrógeno</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/crean-sistema-motores-diesel-funcionen-90-hidrogeno-1142155' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/motor-diesel-mazda-2706531.jpg' alt='Crean un sistema para que los motores diésel funcionen con un 90 % de hidrógeno' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/ultima-actualizacion-windows-10-11-trae-consigo-problemas-red-puedes-solucionarlos-1142047'>La última actualización de Windows 10 y 11 trae consigo problemas de red, así puedes solucionarlos </a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/ultima-actualizacion-windows-10-11-trae-consigo-problemas-red-puedes-solucionarlos-1142047' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/ultima-actualizacion-windows-10-11-trae-consigo-problemas-red-puedes-solucionarlos-2846589.jpg' alt='La última actualización de Windows 10 y 11 trae consigo problemas de red, así puedes solucionarlos ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/motor/te-cobran-peajes-virtuales-cabinas-ya-funcionan-carreteras-espanolas-1142109'>Así te cobran los peajes virtuales sin cabinas que ya funcionan en las carreteras españolas</a></h4>
     <a href='https://computerhoy.com/noticias/motor/te-cobran-peajes-virtuales-cabinas-ya-funcionan-carreteras-espanolas-1142109' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/carretera-peaje-2755011.jpg' alt='Así te cobran los peajes virtuales sin cabinas que ya funcionan en las carreteras españolas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/televisores-8k-van-ser-prohibidos-union-europea-1142107'>Los televisores 8K van a ser prohibidos... por la Unión Europea</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/televisores-8k-van-ser-prohibidos-union-europea-1142107' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/samsung-8k-anillos-2794625.jpg' alt='Los televisores 8K van a ser prohibidos... por la Unión Europea' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/concepto-lenovo-telefono-enrollable-saldria-marca-motorola-1142059'>Este es el concepto de Lenovo de teléfono enrollable que saldría bajo la marca Motorola</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/concepto-lenovo-telefono-enrollable-saldria-marca-motorola-1142059' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/telefono-enrollable-lenovo-2846399.jpg' alt='Este es el concepto de Lenovo de teléfono enrollable que saldría bajo la marca Motorola' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/6-series-peliculas-salen-netflix-breve-no-puedes-perderte-1142027'>Las 6 series y películas que salen de Netflix en breve y no puedes perderte</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/6-series-peliculas-salen-netflix-breve-no-puedes-perderte-1142027' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/gotham-2776595.jpg' alt='Las 6 series y películas que salen de Netflix en breve y no puedes perderte' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/primera-oferta-apple-watch-series-8-amazon-ahora-sensor-temperatura-1142037'>Primera oferta en el Apple Watch Series 8, y de Amazon: ahora con sensor de temperatura</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/primera-oferta-apple-watch-series-8-amazon-ahora-sensor-temperatura-1142037' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/apple-watch-series-8-analisis-opinion-2841937.jpg' alt='Primera oferta en el Apple Watch Series 8, y de Amazon: ahora con sensor de temperatura' />
     </a>
 </div>
 
