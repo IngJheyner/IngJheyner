@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/televisores-8k-van-ser-prohibidos-union-europea-1142107'>Los televisores 8K van a ser prohibidos... por la Unión Europea</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/televisores-8k-van-ser-prohibidos-union-europea-1142107' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/samsung-8k-anillos-2794625.jpg' alt='Los televisores 8K van a ser prohibidos... por la Unión Europea' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/concepto-lenovo-telefono-enrollable-saldria-marca-motorola-1142059'>Este es el concepto de Lenovo de teléfono enrollable que saldría bajo la marca Motorola</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/concepto-lenovo-telefono-enrollable-saldria-marca-motorola-1142059' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/telefono-enrollable-lenovo-2846399.jpg' alt='Este es el concepto de Lenovo de teléfono enrollable que saldría bajo la marca Motorola' />
@@ -74,17 +82,9 @@
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/usa-camara-modo-manual-guia-interactiva-canon-valida-moviles-cualquier-camara-1142011'>Usa tu cámara en modo manual, guía interactiva de Canon válida para móviles y cualquier cámara</a></h4>
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/usa-camara-modo-manual-guia-interactiva-canon-valida-moviles-cualquier-camara-1142011'>Haz fotos en modo manual, guía interactiva de Canon válida para móviles y cualquier cámara</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/usa-camara-modo-manual-guia-interactiva-canon-valida-moviles-cualquier-camara-1142011' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/usa-camara-modo-manual-guia-interactiva-canon-valida-moviles-cualquier-camara-2846313.jpg' alt='Usa tu cámara en modo manual, guía interactiva de Canon válida para móviles y cualquier cámara' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/gaming/sims-4-ya-son-gratis-puedes-descargarlo-ordenador-1141987'>Los Sims 4 ya son gratis, así puedes descargarlo en tu ordenador</a></h4>
-    <a href='https://computerhoy.com/noticias/gaming/sims-4-ya-son-gratis-puedes-descargarlo-ordenador-1141987' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/sims-4-edicion-fiesta-deluxe-2741147.jpg' alt='Los Sims 4 ya son gratis, así puedes descargarlo en tu ordenador' />
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/usa-camara-modo-manual-guia-interactiva-canon-valida-moviles-cualquier-camara-2846313.jpg' alt='Haz fotos en modo manual, guía interactiva de Canon válida para móviles y cualquier cámara' />
     </a>
 </div>
 
