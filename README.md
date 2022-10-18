@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/acusan-bill-gates-introducir-chips-estas-hamburguesas-veganas-1142339'>Acusan a Bill Gates de introducir chips en estas hamburguesas veganas</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/acusan-bill-gates-introducir-chips-estas-hamburguesas-veganas-1142339' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/hamburguesas-veganas-2847059.jpg' alt='Acusan a Bill Gates de introducir chips en estas hamburguesas veganas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/nuevo-apple-tv-4k-oficial-a15-bionic-interior-almacenamiento-barato-1142311'>El nuevo Apple TV 4K es oficial: A15 Bionic en su interior, más almacenamiento y más barato</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/nuevo-apple-tv-4k-oficial-a15-bionic-interior-almacenamiento-barato-1142311' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/nuevo-apple-tv-4k-oficial-a15-bionic-interior-almacenamiento-barato-2846991.jpg' alt='El nuevo Apple TV 4K es oficial: A15 Bionic en su interior, más almacenamiento y más barato' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/apple-ipad-pro-2022-m2-apple-renueva-tablet-procesional-ultimo-procesador-1142291'>Apple iPad Pro 2022 con M2: Apple renueva su tablet procesional con su último procesador</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/apple-ipad-pro-2022-m2-apple-renueva-tablet-procesional-ultimo-procesador-1142291' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/apple-ipad-pro-2022-m2-apple-renueva-tablet-procesional-ultimo-procesador-2846883.jpg' alt='Apple iPad Pro 2022 con M2: Apple renueva su tablet procesional con su último procesador' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/galaxy-s23-sera-proximo-movil-top-samsung-no-no-batira-iphone-14-pro-1142275'>Galaxy S23, así será el próximo móvil top de Samsung y, no, no batirá al iPhone 14 Pro</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/galaxy-s23-sera-proximo-movil-top-samsung-no-no-batira-iphone-14-pro-1142275' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/galaxy-s23-2826875.jpg' alt='Galaxy S23, así será el próximo móvil top de Samsung y, no, no batirá al iPhone 14 Pro' />
     </a>
 </div>
 
