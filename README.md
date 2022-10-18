@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/radiador-electrico-bajo-consumo-cecotec-modo-eco-oferta-1142355'>Este radiador eléctrico de bajo consumo de Cecotec con modo ECO, en oferta por solo 66,90 euros</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/radiador-electrico-bajo-consumo-cecotec-modo-eco-oferta-1142355' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/radiador-electrico-consumo-modo-eco-oferta-solo-6690-euros-2847083.jpg' alt='Este radiador eléctrico de bajo consumo de Cecotec con modo ECO, en oferta por solo 66,90 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/google-quiere-decirle-jefe-donde-estas-todo-momento-1142269'>Google quiere decirle a tu jefe donde estas en todo momento</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/google-quiere-decirle-jefe-donde-estas-todo-momento-1142269' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/hoy-google-cumple-24-como-buscador-web-marco-antes-despues-vidas-2825461.jpg' alt='Google quiere decirle a tu jefe donde estas en todo momento' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/acusan-bill-gates-introducir-chips-estas-hamburguesas-veganas-1142339'>Acusan a Bill Gates de introducir chips en estas hamburguesas veganas</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/acusan-bill-gates-introducir-chips-estas-hamburguesas-veganas-1142339' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/hamburguesas-veganas-2847059.jpg' alt='Acusan a Bill Gates de introducir chips en estas hamburguesas veganas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/nuevo-apple-tv-4k-oficial-a15-bionic-interior-almacenamiento-barato-1142311'>El nuevo Apple TV 4K es oficial: A15 Bionic en su interior, más almacenamiento y más barato</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/nuevo-apple-tv-4k-oficial-a15-bionic-interior-almacenamiento-barato-1142311' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/nuevo-apple-tv-4k-oficial-a15-bionic-interior-almacenamiento-barato-2846991.jpg' alt='El nuevo Apple TV 4K es oficial: A15 Bionic en su interior, más almacenamiento y más barato' />
     </a>
 </div>
 
