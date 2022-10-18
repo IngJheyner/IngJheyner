@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/google-quiere-decirle-jefe-donde-estas-todo-momento-1142269'>Google quiere decirle a tu jefe donde estas en todo momento</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/google-quiere-decirle-jefe-donde-estas-todo-momento-1142269' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/hoy-google-cumple-24-como-buscador-web-marco-antes-despues-vidas-2825461.jpg' alt='Google quiere decirle a tu jefe donde estas en todo momento' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/filmin-books-fest-festival-documentales-escritores-literatura-1142349'>Filmin anuncia un festival que enamorará a todos los amantes de los libros</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/filmin-books-fest-festival-documentales-escritores-literatura-1142349' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/filmin-anuncia-festival-enamorara-todos-amantes-libros-2847071.jpg' alt='Filmin anuncia un festival que enamorará a todos los amantes de los libros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/usuarios-twitter-obligan-multimillonario-vender-jet-privado-1142341'>Usuarios de Twitter obligan a este multimillonario a vender su jet privado</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/usuarios-twitter-obligan-multimillonario-vender-jet-privado-1142341' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/jet-privado-2847061.jpg' alt='Usuarios de Twitter obligan a este multimillonario a vender su jet privado' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/acusan-bill-gates-introducir-chips-estas-hamburguesas-veganas-1142339'>Acusan a Bill Gates de introducir chips en estas hamburguesas veganas</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/acusan-bill-gates-introducir-chips-estas-hamburguesas-veganas-1142339' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/hamburguesas-veganas-2847059.jpg' alt='Acusan a Bill Gates de introducir chips en estas hamburguesas veganas' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/nuevo-apple-tv-4k-oficial-a15-bionic-interior-almacenamiento-barato-1142311'>El nuevo Apple TV 4K es oficial: A15 Bionic en su interior, más almacenamiento y más barato</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/nuevo-apple-tv-4k-oficial-a15-bionic-interior-almacenamiento-barato-1142311' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/nuevo-apple-tv-4k-oficial-a15-bionic-interior-almacenamiento-barato-2846991.jpg' alt='El nuevo Apple TV 4K es oficial: A15 Bionic en su interior, más almacenamiento y más barato' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/tiendas-ofertas-especiales-11-11-1142045'>Ofertas del 11.11: qué tiendas tendrán ofertas especiales en este día</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/tiendas-ofertas-especiales-11-11-1142045' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/compras-internet-2846437.jpg' alt='Ofertas del 11.11: qué tiendas tendrán ofertas especiales en este día' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-auriculares-con-cable-1043197'>¿Necesitas unos auriculares con cable? Estos son los mejores modelos</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-auriculares-con-cable-1043197' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/mujer-escuchando-musica-auriculares-cable-iphone-2846853.jpg' alt='¿Necesitas unos auriculares con cable? Estos son los mejores modelos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/apple-ipad-pro-2022-m2-apple-renueva-tablet-procesional-ultimo-procesador-1142291'>Apple iPad Pro 2022 con M2: Apple renueva su tablet procesional con su último procesador</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/apple-ipad-pro-2022-m2-apple-renueva-tablet-procesional-ultimo-procesador-1142291' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/apple-ipad-pro-2022-m2-apple-renueva-tablet-procesional-ultimo-procesador-2846883.jpg' alt='Apple iPad Pro 2022 con M2: Apple renueva su tablet procesional con su último procesador' />
     </a>
 </div>
 
