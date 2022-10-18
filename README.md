@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/nuevo-apple-tv-4k-oficial-a15-bionic-interior-almacenamiento-barato-1142311'>El nuevo Apple TV 4K es oficial: A15 Bionic en su interior, más almacenamiento y más barato</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/nuevo-apple-tv-4k-oficial-a15-bionic-interior-almacenamiento-barato-1142311' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/nuevo-apple-tv-4k-oficial-a15-bionic-interior-almacenamiento-barato-2846991.jpg' alt='El nuevo Apple TV 4K es oficial: A15 Bionic en su interior, más almacenamiento y más barato' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/tiendas-ofertas-especiales-11-11-1142045'>Ofertas del 11.11: qué tiendas tendrán ofertas especiales en este día</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/tiendas-ofertas-especiales-11-11-1142045' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/compras-internet-2846437.jpg' alt='Ofertas del 11.11: qué tiendas tendrán ofertas especiales en este día' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-auriculares-con-cable-1043197'>¿Necesitas unos auriculares con cable? Estos son los mejores modelos</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-auriculares-con-cable-1043197' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/mujer-escuchando-musica-auriculares-cable-iphone-2846853.jpg' alt='¿Necesitas unos auriculares con cable? Estos son los mejores modelos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/apple-ipad-pro-2022-m2-apple-renueva-tablet-procesional-ultimo-procesador-1142291'>Apple iPad Pro 2022 con M2: Apple renueva su tablet procesional con su último procesador</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/apple-ipad-pro-2022-m2-apple-renueva-tablet-procesional-ultimo-procesador-1142291' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/apple-ipad-pro-2022-m2-apple-renueva-tablet-procesional-ultimo-procesador-2846883.jpg' alt='Apple iPad Pro 2022 con M2: Apple renueva su tablet procesional con su último procesador' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/galaxy-s23-sera-proximo-movil-top-samsung-no-no-batira-iphone-14-pro-1142275'>Galaxy S23, así será el próximo móvil top de Samsung y, no, no batirá al iPhone 14 Pro</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/galaxy-s23-sera-proximo-movil-top-samsung-no-no-batira-iphone-14-pro-1142275' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/galaxy-s23-2826875.jpg' alt='Galaxy S23, así será el próximo móvil top de Samsung y, no, no batirá al iPhone 14 Pro' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/apple-renueva-ipad-barato-nuevo-ipad-109-pulgadas-usb-c-mismo-diseno-ipad-pro-1142283'>Apple renueva su iPad barato: así es el nuevo iPad de 10,9 pulgadas con USB-C y el mismo diseño que el iPad Pro</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/apple-renueva-ipad-barato-nuevo-ipad-109-pulgadas-usb-c-mismo-diseno-ipad-pro-1142283' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/apple-renueva-ipad-barato-nuevo-ipad-109-pulgadas-usb-c-mismo-diseno-ipad-pro-2846869.jpg' alt='Apple renueva su iPad barato: así es el nuevo iPad de 10,9 pulgadas con USB-C y el mismo diseño que el iPad Pro' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/criptomonedas-blue-chip-ultima-esperanza-sector-1142271'>Criptomonedas Blue-Chip, ¿la última esperanza del sector?</a></h4>
-    <a href='https://computerhoy.com/noticias/life/criptomonedas-blue-chip-ultima-esperanza-sector-1142271' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/criptomonedas-2832727.jpg' alt='Criptomonedas Blue-Chip, ¿la última esperanza del sector?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/microsoft-defender-windows-hace-aguas-cuando-queda-conexion-internet-1142245'>Microsoft Defender para Windows hace aguas cuando se queda sin conexión a Internet</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/microsoft-defender-windows-hace-aguas-cuando-queda-conexion-internet-1142245' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/08/microsoft-defender-pc-2037107.jpg' alt='Microsoft Defender para Windows hace aguas cuando se queda sin conexión a Internet' />
     </a>
 </div>
 
