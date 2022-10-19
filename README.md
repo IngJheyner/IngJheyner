@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/apple-reduce-produccion-iphone-14-plus-decide-enfocarse-pro-pro-max-aunque-iphone-15-plus-sigue-previsto-1142795'>Apple reduce la producción del iPhone 14 Plus y decide enfocarse en el Pro y Pro Max, aunque el iPhone 15 Plus sigue previsto </a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/apple-reduce-produccion-iphone-14-plus-decide-enfocarse-pro-pro-max-aunque-iphone-15-plus-sigue-previsto-1142795' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/iphone-14-plus-podria-ser-gran-fail-apple-ano-2847747.jpg' alt='Apple reduce la producción del iPhone 14 Plus y decide enfocarse en el Pro y Pro Max, aunque el iPhone 15 Plus sigue previsto ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/ya-puedes-descargar-moment-1-gran-actualizacion-windows-11-2022-1142773'>Ya puedes descargar Moment 1, la gran actualización de Windows 11 de 2022</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/ya-puedes-descargar-moment-1-gran-actualizacion-windows-11-2022-1142773' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/windows-11-22h2-2711631.jpg' alt='Ya puedes descargar Moment 1, la gran actualización de Windows 11 de 2022' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/nueva-tecnica-podria-ayudar-personas-olvidar-recuerdos-especificos-1142695'>Una nueva técnica podría ayudar a las personas a olvidar recuerdos específicos</a></h4>
     <a href='https://computerhoy.com/noticias/life/nueva-tecnica-podria-ayudar-personas-olvidar-recuerdos-especificos-1142695' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/cerebro-2823899.jpg' alt='Una nueva técnica podría ayudar a las personas a olvidar recuerdos específicos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/portatil-menos-1-kg-tiene-16gb-ram-windows-11-ahora-400eu-barato-1142099'>Este portátil de menos de 1 kg tiene 16GB de RAM y Windows 11: ahora es 400€ más barato</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/portatil-menos-1-kg-tiene-16gb-ram-windows-11-ahora-400eu-barato-1142099' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/lg-gram-analisis-opinion-2570133.jpg' alt='Este portátil de menos de 1 kg tiene 16GB de RAM y Windows 11: ahora es 400€ más barato' />
     </a>
 </div>
 
