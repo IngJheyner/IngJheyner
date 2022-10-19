@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/nueva-tecnica-podria-ayudar-personas-olvidar-recuerdos-especificos-1142695'>Una nueva técnica podría ayudar a las personas a olvidar recuerdos específicos</a></h4>
+    <a href='https://computerhoy.com/noticias/life/nueva-tecnica-podria-ayudar-personas-olvidar-recuerdos-especificos-1142695' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/cerebro-2823899.jpg' alt='Una nueva técnica podría ayudar a las personas a olvidar recuerdos específicos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/portatil-menos-1-kg-tiene-16gb-ram-windows-11-ahora-400eu-barato-1142099'>Este portátil de menos de 1 kg tiene 16GB de RAM y Windows 11: ahora es 400€ más barato</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/portatil-menos-1-kg-tiene-16gb-ram-windows-11-ahora-400eu-barato-1142099' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/lg-gram-analisis-opinion-2570133.jpg' alt='Este portátil de menos de 1 kg tiene 16GB de RAM y Windows 11: ahora es 400€ más barato' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/ya-puede-probar-ia-conversacional-siente-google-1142673'>Ya se puede probar la IA conversacional “que siente” de Google</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/ya-puede-probar-ia-conversacional-siente-google-1142673' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/lamda-google-2847535.jpg' alt='Ya se puede probar la IA conversacional “que siente” de Google' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/ciudades-espanolas-destacan-europa-tener-usuarios-taxi-olvidadizos-dgt-1142661'>Las ciudades españolas que destacan en Europa por tener los usuarios de taxi más olvidadizos según la DGT</a></h4>
     <a href='https://computerhoy.com/noticias/life/ciudades-espanolas-destacan-europa-tener-usuarios-taxi-olvidadizos-dgt-1142661' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/ciudades-espanolas-destacan-europa-tener-usuarios-taxi-olvidadizos-dgt-2847435.jpg' alt='Las ciudades españolas que destacan en Europa por tener los usuarios de taxi más olvidadizos según la DGT' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/acabo-compartir-cuenta-netflix-confirma-comenzara-cobrar-usuario-adicional-partir-2023-1142651'>Se acabó compartir cuenta, Netflix confirma que comenzará a cobrar por usuario adicional a partir de 2023</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/acabo-compartir-cuenta-netflix-confirma-comenzara-cobrar-usuario-adicional-partir-2023-1142651' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/netflix-busca-socio-inesperado-tarifa-anuncios-microsoft-2758217.jpg' alt='Se acabó compartir cuenta, Netflix confirma que comenzará a cobrar por usuario adicional a partir de 2023' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/televisor-qled-android-tiene-precio-sorprendentemente-mide-55-cuesta-menos-piensas-1142089'>Este televisor QLED con Android tiene un precio sorprendentemente bajo: mide 55" y cuesta menos de lo que piensas</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/televisor-qled-android-tiene-precio-sorprendentemente-mide-55-cuesta-menos-piensas-1142089' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/cecotec-vqu11055-2846447.jpg' alt='Este televisor QLED con Android tiene un precio sorprendentemente bajo: mide 55" y cuesta menos de lo que piensas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/graba-propios-vinilos-casa-kit-tener-eps-lofi-1142645'>Graba tus propios vinilos en casa con este kit para tener tus EPs LoFi</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/graba-propios-vinilos-casa-kit-tener-eps-lofi-1142645' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/graba-propios-vinilos-casa-kit-tener-eps-lofi-2847405.jpg' alt='Graba tus propios vinilos en casa con este kit para tener tus EPs LoFi' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/han-tardado-118-anos-pero-ya-real-primer-rolls-royce-electrico-1142637'>Han tardado 118 años, pero ya es real: así es el primer Rolls-Royce eléctrico</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/han-tardado-118-anos-pero-ya-real-primer-rolls-royce-electrico-1142637' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/rolls-royce-spectre-2847395.jpg' alt='Han tardado 118 años, pero ya es real: así es el primer Rolls-Royce eléctrico' />
     </a>
 </div>
 
