@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/reloj-ticwatch-e3-wear-os-gps-nfc-descuento-1143003'>Ticwatch E3 con Wear OS, GPS y NFC, un reloj que gusta mucho porque integra lo que pide la gente, con un 20% de descuento</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/reloj-ticwatch-e3-wear-os-gps-nfc-descuento-1143003' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/ticwatch-e3-wear-os-nfc-reloj-gustando-mucho-porque-integra-pide-gente-20-descuento-2848311.jpg' alt='Ticwatch E3 con Wear OS, GPS y NFC, un reloj que gusta mucho porque integra lo que pide la gente, con un 20% de descuento' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/malas-noticias-google-pixel-watch-reparar-pantalla-quebradero-cabeza-1142981'>Malas noticias para el Google Pixel Watch: reparar su pantalla es un quebradero de cabeza</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/malas-noticias-google-pixel-watch-reparar-pantalla-quebradero-cabeza-1142981' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/google-pixel-watch-2702235.jpg' alt='Malas noticias para el Google Pixel Watch: reparar su pantalla es un quebradero de cabeza' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/google-chrome-actualiza-fin-integra-caracteristica-usuarios-llevan-pidiendo-anos-1142959'>Google Chrome se actualiza y por fin integra una característica que los usuarios llevan pidiendo años</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/google-chrome-actualiza-fin-integra-caracteristica-usuarios-llevan-pidiendo-anos-1142959' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/google-chrome-2845581.jpg' alt='Google Chrome se actualiza y por fin integra una característica que los usuarios llevan pidiendo años' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/sentencia-judicial-podria-anular-7000-multas-fallo-radar-1142985'>Una sentencia judicial podría anular más de 7000 multas por un fallo en un radar</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/sentencia-judicial-podria-anular-7000-multas-fallo-radar-1142985' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/limite-velocidad-dgt-2350519.jpg' alt='Una sentencia judicial podría anular más de 7000 multas por un fallo en un radar' />
     </a>
 </div>
 
