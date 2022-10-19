@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/bose-quietcomfort-earbuds-ii-cancelacion-ruido-personalizada-mejoras-sonido-competir-airpods-pro-2-1142889'>Bose QuietComfort Earbuds II: cancelación de ruido personalizada y mejoras en sonido para competir con los AirPods Pro 2</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/bose-quietcomfort-earbuds-ii-cancelacion-ruido-personalizada-mejoras-sonido-competir-airpods-pro-2-1142889' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/bose-quietcomfort-earbuds-ii-cancelacion-ruido-personalizada-mejoras-sonido-competir-airpods-pro-2-2848079.jpg' alt='Bose QuietComfort Earbuds II: cancelación de ruido personalizada y mejoras en sonido para competir con los AirPods Pro 2' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-crear-nueva-cuenta-correo-hotmail-recuperar-antigua-has-perdido-955771'>Cómo crear una nueva cuenta de correo de Hotmail o recuperar una antigua que has perdido</a></h4>
+    <a href='https://computerhoy.com/tutoriales/tecnologia/como-crear-nueva-cuenta-correo-hotmail-recuperar-antigua-has-perdido-955771' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/como-recuperar-esa-vieja-cuenta-correo-hotmail-hace-anos-no-utilizas-2341651.jpg' alt='Cómo crear una nueva cuenta de correo de Hotmail o recuperar una antigua que has perdido' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/lg-presenta-dos-nuevos-televisores-lifestyle-panel-oled-easel-pose-1142879'>LG presenta sus dos nuevos televisores lifestyle con panel OLED: Easel y Posé</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/lg-presenta-dos-nuevos-televisores-lifestyle-panel-oled-easel-pose-1142879' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/lg-easel-2848045.jpg' alt='LG presenta sus dos nuevos televisores lifestyle con panel OLED: Easel y Posé' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/xiaomi-cierra-cloud-gallery-recomienda-copias-seguridad-nube-google-photos-1142821'>Xiaomi cierra Cloud Gallery y recomienda las copias de seguridad en la nube de Google Photos</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/xiaomi-cierra-cloud-gallery-recomienda-copias-seguridad-nube-google-photos-1142821' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/xiaomi-cloud-gallery-2847995.jpg' alt='Xiaomi cierra Cloud Gallery y recomienda las copias de seguridad en la nube de Google Photos' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/apple-reduce-produccion-iphone-14-plus-decide-enfocarse-pro-pro-max-aunque-iphone-15-plus-sigue-previsto-1142795'>Apple reduce la producción del iPhone 14 Plus y decide enfocarse en el Pro y Pro Max, aunque el iPhone 15 Plus sigue previsto </a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/apple-reduce-produccion-iphone-14-plus-decide-enfocarse-pro-pro-max-aunque-iphone-15-plus-sigue-previsto-1142795' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/iphone-14-plus-podria-ser-gran-fail-apple-ano-2847747.jpg' alt='Apple reduce la producción del iPhone 14 Plus y decide enfocarse en el Pro y Pro Max, aunque el iPhone 15 Plus sigue previsto ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/ya-puedes-descargar-moment-1-gran-actualizacion-windows-11-2022-1142773'>Ya puedes descargar Moment 1, la gran actualización de Windows 11 de 2022</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/ya-puedes-descargar-moment-1-gran-actualizacion-windows-11-2022-1142773' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/windows-11-22h2-2711631.jpg' alt='Ya puedes descargar Moment 1, la gran actualización de Windows 11 de 2022' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/gracias-app-movil-podremos-ver-videos-haciendo-uso-realidad-virtual-revivirlos-1142771'>Gracias a esta app de móvil podremos ver nuestros vídeos haciendo uso de la Realidad Virtual y revivirlos</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/gracias-app-movil-podremos-ver-videos-haciendo-uso-realidad-virtual-revivirlos-1142771' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/ver-videos-movil-vr-app-como-teletransportarte-dentro-2847635.jpg' alt='Gracias a esta app de móvil podremos ver nuestros vídeos haciendo uso de la Realidad Virtual y revivirlos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/no-tires-iphone-14-suelo-no-quieres-quedarte-telefono-quedan-caida-accidental-1142725'>No tires tu iPhone 14 al suelo si no quieres quedarte sin teléfono: así quedan tras una caída accidental</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/no-tires-iphone-14-suelo-no-quieres-quedarte-telefono-quedan-caida-accidental-1142725' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/analisis-iphone-14-pro-2821731.jpg' alt='No tires tu iPhone 14 al suelo si no quieres quedarte sin teléfono: así quedan tras una caída accidental' />
     </a>
 </div>
 
