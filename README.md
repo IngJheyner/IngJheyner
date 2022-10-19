@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/telescopio-james-webb-fotografia-pilares-creacion-estrellas-nuevas-1143015'>El telescopio James Webb fotografía los Pilares de la Creación, desvelando un nuevo manto de estrellas desconocidas</a></h4>
+    <a href='https://computerhoy.com/noticias/life/telescopio-james-webb-fotografia-pilares-creacion-estrellas-nuevas-1143015' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/pilares-creacion-2848337.jpg' alt='El telescopio James Webb fotografía los Pilares de la Creación, desvelando un nuevo manto de estrellas desconocidas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/reloj-ticwatch-e3-wear-os-gps-nfc-descuento-1143003'>TicWatch E3 con Wear OS, GPS y NFC, un reloj que gusta mucho porque integra lo que pide la gente, con un 20% de descuento</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/reloj-ticwatch-e3-wear-os-gps-nfc-descuento-1143003' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/ticwatch-e3-wear-os-nfc-reloj-gustando-mucho-porque-integra-pide-gente-20-descuento-2848311.jpg' alt='TicWatch E3 con Wear OS, GPS y NFC, un reloj que gusta mucho porque integra lo que pide la gente, con un 20% de descuento' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/netflix-gana-24-millones-suscriptores-tercer-trimestre-2022-1142989'>Netflix cierra bocas: gana 2,4 millones de suscriptores, superando todas las previsiones</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/netflix-gana-24-millones-suscriptores-tercer-trimestre-2022-1142989' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/netflix-cierra-bocas-gana-24-millones-suscriptores-superando-todas-previsiones-2848225.jpg' alt='Netflix cierra bocas: gana 2,4 millones de suscriptores, superando todas las previsiones' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/google-chrome-actualiza-fin-integra-caracteristica-usuarios-llevan-pidiendo-anos-1142959'>Google Chrome se actualiza y por fin integra una característica que los usuarios llevan pidiendo años</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/google-chrome-actualiza-fin-integra-caracteristica-usuarios-llevan-pidiendo-anos-1142959' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/google-chrome-2845581.jpg' alt='Google Chrome se actualiza y por fin integra una característica que los usuarios llevan pidiendo años' />
     </a>
 </div>
 
