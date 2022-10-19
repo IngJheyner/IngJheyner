@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/ya-puedes-descargar-moment-1-gran-actualizacion-windows-11-2022-1142773'>Ya puedes descargar Moment 1, la gran actualización de Windows 11 de 2022</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/ya-puedes-descargar-moment-1-gran-actualizacion-windows-11-2022-1142773' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/windows-11-22h2-2711631.jpg' alt='Ya puedes descargar Moment 1, la gran actualización de Windows 11 de 2022' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/gracias-app-movil-podremos-ver-videos-haciendo-uso-realidad-virtual-revivirlos-1142771'>Gracias a esta app de móvil podremos ver nuestros vídeos haciendo uso de la Realidad Virtual y revivirlos</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/gracias-app-movil-podremos-ver-videos-haciendo-uso-realidad-virtual-revivirlos-1142771' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/ver-videos-movil-vr-app-como-teletransportarte-dentro-2847635.jpg' alt='Gracias a esta app de móvil podremos ver nuestros vídeos haciendo uso de la Realidad Virtual y revivirlos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/no-tires-iphone-14-suelo-no-quieres-quedarte-telefono-quedan-caida-accidental-1142725'>No tires tu iPhone 14 al suelo si no quieres quedarte sin teléfono: así quedan tras una caída accidental</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/no-tires-iphone-14-suelo-no-quieres-quedarte-telefono-quedan-caida-accidental-1142725' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/analisis-iphone-14-pro-2821731.jpg' alt='No tires tu iPhone 14 al suelo si no quieres quedarte sin teléfono: así quedan tras una caída accidental' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/portatil-menos-1-kg-tiene-16gb-ram-windows-11-ahora-400eu-barato-1142099'>Este portátil de menos de 1 kg tiene 16GB de RAM y Windows 11: ahora es 400€ más barato</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/portatil-menos-1-kg-tiene-16gb-ram-windows-11-ahora-400eu-barato-1142099' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/lg-gram-analisis-opinion-2570133.jpg' alt='Este portátil de menos de 1 kg tiene 16GB de RAM y Windows 11: ahora es 400€ más barato' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/ya-puede-probar-ia-conversacional-siente-google-1142673'>Ya se puede probar la IA conversacional “que siente” de Google</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/ya-puede-probar-ia-conversacional-siente-google-1142673' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/lamda-google-2847535.jpg' alt='Ya se puede probar la IA conversacional “que siente” de Google' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/ciudades-espanolas-destacan-europa-tener-usuarios-taxi-olvidadizos-dgt-1142661'>Las ciudades españolas que destacan en Europa por tener los usuarios de taxi más olvidadizos según la DGT</a></h4>
-    <a href='https://computerhoy.com/noticias/life/ciudades-espanolas-destacan-europa-tener-usuarios-taxi-olvidadizos-dgt-1142661' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/ciudades-espanolas-destacan-europa-tener-usuarios-taxi-olvidadizos-dgt-2847435.jpg' alt='Las ciudades españolas que destacan en Europa por tener los usuarios de taxi más olvidadizos según la DGT' />
     </a>
 </div>
 
