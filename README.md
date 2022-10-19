@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/disenan-muneca-programable-objetivo-introducir-ninas-sector-tecnologia-1142621'>Diseñan muñeca programable con el objetivo de introducir a las niñas en el sector de la tecnología</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/disenan-muneca-programable-objetivo-introducir-ninas-sector-tecnologia-1142621' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/disenan-muneca-programable-objetivo-introducir-ninas-sector-tecnologia-2847375.jpg' alt='Diseñan muñeca programable con el objetivo de introducir a las niñas en el sector de la tecnología' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/esperado-smartphone-plegable-oppo-llegara-pantalla-oled-camara-50-mpx-1142635'>El esperado smartphone plegable de Oppo llegará con pantalla OLED y cámara de 50 Mpx</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/esperado-smartphone-plegable-oppo-llegara-pantalla-oled-camara-50-mpx-1142635' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/analisis-oppo-find-n-2588329.jpg' alt='El esperado smartphone plegable de Oppo llegará con pantalla OLED y cámara de 50 Mpx' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-ofertas-televisores-mundial-futbol-pccomponentes-1142159'>Estas son las mejores ofertas en televisores para ver el Mundial de Fútbol que puedes comprar en PcComponentes</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-ofertas-televisores-mundial-futbol-pccomponentes-1142159' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/smart-tv-grande-salon-moderno-2846837.jpg' alt='Estas son las mejores ofertas en televisores para ver el Mundial de Fútbol que puedes comprar en PcComponentes' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/27-noticias-tecnologia-comenzar-manana-informado-ultimo-1142593'>27 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/27-noticias-tecnologia-comenzar-manana-informado-ultimo-1142593' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/27-noticias-tecnologia-comenzar-manana-informado-ultimo-2847337.jpg' alt='27 noticias de tecnología para comenzar la mañana informado de lo último' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/ofertas-descuentos-adelantarse-black-friday-1142087'>5 ofertas con las que adelantarse al Black Friday</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/ofertas-descuentos-adelantarse-black-friday-1142087' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/honor-magicbook-x14-analisis-opinion-2585323.jpg' alt='5 ofertas con las que adelantarse al Black Friday' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/sintomas-deficit-vitamina-b12-veganos-1142589'>Síntomas de que tienes déficit de vitamina B12, que puede producir graves enfermedades</a></h4>
-    <a href='https://computerhoy.com/noticias/life/sintomas-deficit-vitamina-b12-veganos-1142589' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/sintomas-tienes-deficit-grave-vitamina-b12-aparecen-comes-poca-carne-2847335.jpg' alt='Síntomas de que tienes déficit de vitamina B12, que puede producir graves enfermedades' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/espana-suspende-adopcion-coche-electrico-cuatro-razones-1142587'>España suspende en la adopción del coche eléctrico: cuatro razones que lo explican</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/espana-suspende-adopcion-coche-electrico-cuatro-razones-1142587' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/espana-suspende-adopcion-coche-electrico-cuatro-razones-explican-2847333.jpg' alt='España suspende en la adopción del coche eléctrico: cuatro razones que lo explican' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/alimentos-conectados-codigo-qr-comestibles-video-1142377'>Llegan los alimentos conectados: tienen un código QR dentro (vídeo)</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/alimentos-conectados-codigo-qr-comestibles-video-1142377' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/verticalimage1666130702507-2847129.jpg' alt='Llegan los alimentos conectados: tienen un código QR dentro (vídeo)' />
     </a>
 </div>
 
