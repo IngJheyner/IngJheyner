@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/sintomas-deficit-vitamina-b12-veganos-1142589'>Síntomas de que tienes déficit de vitamina B12, aparecen cuando comes pocos productos animales</a></h4>
+    <a href='https://computerhoy.com/noticias/life/sintomas-deficit-vitamina-b12-veganos-1142589' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/sintomas-tienes-deficit-grave-vitamina-b12-aparecen-comes-poca-carne-2847335.jpg' alt='Síntomas de que tienes déficit de vitamina B12, aparecen cuando comes pocos productos animales' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/espana-suspende-adopcion-coche-electrico-cuatro-razones-1142587'>España suspende en la adopción del coche eléctrico: cuatro razones que lo explican</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/espana-suspende-adopcion-coche-electrico-cuatro-razones-1142587' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/espana-suspende-adopcion-coche-electrico-cuatro-razones-explican-2847333.jpg' alt='España suspende en la adopción del coche eléctrico: cuatro razones que lo explican' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/alimentos-conectados-codigo-qr-comestibles-video-1142377'>Llegan los alimentos conectados: tienen un código QR dentro (vídeo)</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/alimentos-conectados-codigo-qr-comestibles-video-1142377' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/verticalimage1666130702507-2847129.jpg' alt='Llegan los alimentos conectados: tienen un código QR dentro (vídeo)' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/radiador-electrico-bajo-consumo-cecotec-modo-eco-oferta-1142355'>Este radiador eléctrico de bajo consumo de Cecotec con modo ECO, en oferta por solo 66,90 euros</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/radiador-electrico-bajo-consumo-cecotec-modo-eco-oferta-1142355' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/radiador-electrico-consumo-modo-eco-oferta-solo-6690-euros-2847083.jpg' alt='Este radiador eléctrico de bajo consumo de Cecotec con modo ECO, en oferta por solo 66,90 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/google-quiere-decirle-jefe-donde-estas-todo-momento-1142269'>Google quiere decirle a tu jefe donde estas en todo momento</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/google-quiere-decirle-jefe-donde-estas-todo-momento-1142269' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/hoy-google-cumple-24-como-buscador-web-marco-antes-despues-vidas-2825461.jpg' alt='Google quiere decirle a tu jefe donde estas en todo momento' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/filmin-books-fest-festival-documentales-escritores-literatura-1142349'>Filmin anuncia un festival que enamorará a todos los amantes de los libros</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/filmin-books-fest-festival-documentales-escritores-literatura-1142349' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/filmin-anuncia-festival-enamorara-todos-amantes-libros-2847071.jpg' alt='Filmin anuncia un festival que enamorará a todos los amantes de los libros' />
     </a>
 </div>
 
