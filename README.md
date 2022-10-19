@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/listas/tecnologia/7-aplicaciones-telefonos-android-podras-crear-dibujos-profesionales-1119617'>7 aplicaciones para teléfonos Android con las que podrás crear dibujos profesionales</a></h4>
+    <a href='https://computerhoy.com/listas/tecnologia/7-aplicaciones-telefonos-android-podras-crear-dibujos-profesionales-1119617' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/7-aplicaciones-telefonos-android-podras-crear-dibujos-profesionales-2847945.jpg' alt='7 aplicaciones para teléfonos Android con las que podrás crear dibujos profesionales' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/ipad-10-generacion-2022-motivos-merece-pena-1142677'>5 motivos por los que merece la pena comprar el nuevo iPad (2022)</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/ipad-10-generacion-2022-motivos-merece-pena-1142677' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/ipad-10a-generacion-2022-2847433.jpg' alt='5 motivos por los que merece la pena comprar el nuevo iPad (2022)' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/netflix-quiere-triunfar-donde-google-stadia-ha-fracasado-servicio-juegos-streaming-confirmado-1142907'>Netflix quiere triunfar donde Google Stadia ha fracasado, servicio de juegos por streaming confirmado</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/netflix-quiere-triunfar-donde-google-stadia-ha-fracasado-servicio-juegos-streaming-confirmado-1142907' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/netflix-2810051.jpg' alt='Netflix quiere triunfar donde Google Stadia ha fracasado, servicio de juegos por streaming confirmado' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/bose-quietcomfort-earbuds-ii-cancelacion-ruido-personalizada-mejoras-sonido-competir-airpods-pro-2-1142889'>Bose QuietComfort Earbuds II: cancelación de ruido personalizada y mejoras en sonido para competir con los AirPods Pro 2</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/bose-quietcomfort-earbuds-ii-cancelacion-ruido-personalizada-mejoras-sonido-competir-airpods-pro-2-1142889' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/bose-quietcomfort-earbuds-ii-cancelacion-ruido-personalizada-mejoras-sonido-competir-airpods-pro-2-2848133.jpg' alt='Bose QuietComfort Earbuds II: cancelación de ruido personalizada y mejoras en sonido para competir con los AirPods Pro 2' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-crear-nueva-cuenta-correo-hotmail-recuperar-antigua-has-perdido-955771'>Cómo crear una nueva cuenta de correo de Hotmail o recuperar una antigua que has perdido</a></h4>
-    <a href='https://computerhoy.com/tutoriales/tecnologia/como-crear-nueva-cuenta-correo-hotmail-recuperar-antigua-has-perdido-955771' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/como-recuperar-esa-vieja-cuenta-correo-hotmail-hace-anos-no-utilizas-2341651.jpg' alt='Cómo crear una nueva cuenta de correo de Hotmail o recuperar una antigua que has perdido' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/lg-presenta-dos-nuevos-televisores-lifestyle-panel-oled-easel-pose-1142879'>LG presenta sus dos nuevos televisores lifestyle con panel OLED: Easel y Posé</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/lg-presenta-dos-nuevos-televisores-lifestyle-panel-oled-easel-pose-1142879' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/lg-easel-2848045.jpg' alt='LG presenta sus dos nuevos televisores lifestyle con panel OLED: Easel y Posé' />
     </a>
 </div>
 
