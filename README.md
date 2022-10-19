@@ -50,9 +50,9 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/reloj-ticwatch-e3-wear-os-gps-nfc-descuento-1143003'>Ticwatch E3 con Wear OS, GPS y NFC, un reloj que gusta mucho porque integra lo que pide la gente, con un 20% de descuento</a></h4>
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/reloj-ticwatch-e3-wear-os-gps-nfc-descuento-1143003'>TicWatch E3 con Wear OS, GPS y NFC, un reloj que gusta mucho porque integra lo que pide la gente, con un 20% de descuento</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/reloj-ticwatch-e3-wear-os-gps-nfc-descuento-1143003' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/ticwatch-e3-wear-os-nfc-reloj-gustando-mucho-porque-integra-pide-gente-20-descuento-2848311.jpg' alt='Ticwatch E3 con Wear OS, GPS y NFC, un reloj que gusta mucho porque integra lo que pide la gente, con un 20% de descuento' />
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/ticwatch-e3-wear-os-nfc-reloj-gustando-mucho-porque-integra-pide-gente-20-descuento-2848311.jpg' alt='TicWatch E3 con Wear OS, GPS y NFC, un reloj que gusta mucho porque integra lo que pide la gente, con un 20% de descuento' />
     </a>
 </div>
 
