@@ -50,9 +50,25 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/sintomas-deficit-vitamina-b12-veganos-1142589'>Síntomas de que tienes déficit de vitamina B12, aparecen cuando comes pocos productos animales</a></h4>
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/27-noticias-tecnologia-comenzar-manana-informado-ultimo-1142593'>27 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/27-noticias-tecnologia-comenzar-manana-informado-ultimo-1142593' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/27-noticias-tecnologia-comenzar-manana-informado-ultimo-2847337.jpg' alt='27 noticias de tecnología para comenzar la mañana informado de lo último' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/ofertas-descuentos-adelantarse-black-friday-1142087'>5 ofertas con las que adelantarse al Black Friday</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/ofertas-descuentos-adelantarse-black-friday-1142087' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/honor-magicbook-x14-analisis-opinion-2585323.jpg' alt='5 ofertas con las que adelantarse al Black Friday' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/sintomas-deficit-vitamina-b12-veganos-1142589'>Síntomas de que tienes déficit de vitamina B12, que puede producir graves enfermedades</a></h4>
     <a href='https://computerhoy.com/noticias/life/sintomas-deficit-vitamina-b12-veganos-1142589' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/sintomas-tienes-deficit-grave-vitamina-b12-aparecen-comes-poca-carne-2847335.jpg' alt='Síntomas de que tienes déficit de vitamina B12, aparecen cuando comes pocos productos animales' />
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/sintomas-tienes-deficit-grave-vitamina-b12-aparecen-comes-poca-carne-2847335.jpg' alt='Síntomas de que tienes déficit de vitamina B12, que puede producir graves enfermedades' />
     </a>
 </div>
 
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/alimentos-conectados-codigo-qr-comestibles-video-1142377'>Llegan los alimentos conectados: tienen un código QR dentro (vídeo)</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/alimentos-conectados-codigo-qr-comestibles-video-1142377' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/verticalimage1666130702507-2847129.jpg' alt='Llegan los alimentos conectados: tienen un código QR dentro (vídeo)' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/nueva-actualizacion-windows-11-22h2-explorador-archivos-barra-tareas-1142369'>La actualización Windows 11 22H2 estaba incompleta: hoy llegan las mejoras prometidas</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/nueva-actualizacion-windows-11-22h2-explorador-archivos-barra-tareas-1142369' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/actualizacion-windows-11-22h2-estaba-incompleta-hoy-llegan-mejoras-prometidas-2847115.jpg' alt='La actualización Windows 11 22H2 estaba incompleta: hoy llegan las mejoras prometidas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/radiador-electrico-bajo-consumo-cecotec-modo-eco-oferta-1142355'>Este radiador eléctrico de bajo consumo de Cecotec con modo ECO, en oferta por solo 66,90 euros</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/radiador-electrico-bajo-consumo-cecotec-modo-eco-oferta-1142355' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/radiador-electrico-consumo-modo-eco-oferta-solo-6690-euros-2847083.jpg' alt='Este radiador eléctrico de bajo consumo de Cecotec con modo ECO, en oferta por solo 66,90 euros' />
     </a>
 </div>
 
