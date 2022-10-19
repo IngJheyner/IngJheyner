@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/malas-noticias-google-pixel-watch-reparar-pantalla-quebradero-cabeza-1142981'>Malas noticias para el Google Pixel Watch: reparar su pantalla es un quebradero de cabeza</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/malas-noticias-google-pixel-watch-reparar-pantalla-quebradero-cabeza-1142981' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/google-pixel-watch-2702235.jpg' alt='Malas noticias para el Google Pixel Watch: reparar su pantalla es un quebradero de cabeza' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/investigadores-hackean-sistema-nervioso-escuchar-musica-traves-sentido-tacto-1142987'>Investigadores “hackean” el sistema nervioso para escuchar música a través del sentido del tacto</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/investigadores-hackean-sistema-nervioso-escuchar-musica-traves-sentido-tacto-1142987' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/dispositivo-permite-escuchar-musica-traves-sentido-tacto-2848221.jpg' alt='Investigadores “hackean” el sistema nervioso para escuchar música a través del sentido del tacto' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/netflix-gana-24-millones-suscriptores-tercer-trimestre-2022-1142989'>Netflix cierra bocas: gana 2,4 millones de suscriptores, superando todas las previsiones</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/netflix-gana-24-millones-suscriptores-tercer-trimestre-2022-1142989' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/netflix-cierra-bocas-gana-24-millones-suscriptores-superando-todas-previsiones-2848225.jpg' alt='Netflix cierra bocas: gana 2,4 millones de suscriptores, superando todas las previsiones' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/motor/sentencia-judicial-podria-anular-7000-multas-fallo-radar-1142985'>Una sentencia judicial podría anular más de 7000 multas por un fallo en un radar</a></h4>
     <a href='https://computerhoy.com/noticias/motor/sentencia-judicial-podria-anular-7000-multas-fallo-radar-1142985' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/limite-velocidad-dgt-2350519.jpg' alt='Una sentencia judicial podría anular más de 7000 multas por un fallo en un radar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/elon-musk-quiere-tengamos-internet-aviones-servicio-starlink-1142957'>Elon Musk quiere que tengamos Internet en los aviones, así es su servicio desde Starlink</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/elon-musk-quiere-tengamos-internet-aviones-servicio-starlink-1142957' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/starlink-2628997.jpg' alt='Elon Musk quiere que tengamos Internet en los aviones, así es su servicio desde Starlink' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/listas/tecnologia/7-aplicaciones-telefonos-android-podras-crear-dibujos-profesionales-1119617'>7 aplicaciones para teléfonos Android con las que podrás crear dibujos profesionales</a></h4>
-    <a href='https://computerhoy.com/listas/tecnologia/7-aplicaciones-telefonos-android-podras-crear-dibujos-profesionales-1119617' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/7-aplicaciones-telefonos-android-podras-crear-dibujos-profesionales-2847945.jpg' alt='7 aplicaciones para teléfonos Android con las que podrás crear dibujos profesionales' />
     </a>
 </div>
 
