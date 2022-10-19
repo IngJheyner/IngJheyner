@@ -50,9 +50,25 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/netflix-quiere-triunfar-donde-google-stadia-ha-fracasado-servicio-juegos-streaming-confirmado-1142907'>Netflix quiere triunfar donde Google Stadia ha fracasado, servicio de juegos por streaming confirmado</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/netflix-quiere-triunfar-donde-google-stadia-ha-fracasado-servicio-juegos-streaming-confirmado-1142907' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/netflix-2810051.jpg' alt='Netflix quiere triunfar donde Google Stadia ha fracasado, servicio de juegos por streaming confirmado' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/vigilante-nueva-serie-ryan-murphy-netflix-ya-ha-desbancado-dahmer-1142853'>El Vigilante, la nueva serie de Ryan Murphy para Netflix que ya ha desbancado a Dahmer</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/vigilante-nueva-serie-ryan-murphy-netflix-ya-ha-desbancado-dahmer-1142853' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/vigilante-2847979.jpg' alt='El Vigilante, la nueva serie de Ryan Murphy para Netflix que ya ha desbancado a Dahmer' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/bose-quietcomfort-earbuds-ii-cancelacion-ruido-personalizada-mejoras-sonido-competir-airpods-pro-2-1142889'>Bose QuietComfort Earbuds II: cancelación de ruido personalizada y mejoras en sonido para competir con los AirPods Pro 2</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/bose-quietcomfort-earbuds-ii-cancelacion-ruido-personalizada-mejoras-sonido-competir-airpods-pro-2-1142889' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/bose-quietcomfort-earbuds-ii-cancelacion-ruido-personalizada-mejoras-sonido-competir-airpods-pro-2-2848079.jpg' alt='Bose QuietComfort Earbuds II: cancelación de ruido personalizada y mejoras en sonido para competir con los AirPods Pro 2' />
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/bose-quietcomfort-earbuds-ii-cancelacion-ruido-personalizada-mejoras-sonido-competir-airpods-pro-2-2848133.jpg' alt='Bose QuietComfort Earbuds II: cancelación de ruido personalizada y mejoras en sonido para competir con los AirPods Pro 2' />
     </a>
 </div>
 
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/lg-presenta-dos-nuevos-televisores-lifestyle-panel-oled-easel-pose-1142879'>LG presenta sus dos nuevos televisores lifestyle con panel OLED: Easel y Posé</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/lg-presenta-dos-nuevos-televisores-lifestyle-panel-oled-easel-pose-1142879' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/lg-easel-2848045.jpg' alt='LG presenta sus dos nuevos televisores lifestyle con panel OLED: Easel y Posé' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/xiaomi-cierra-cloud-gallery-recomienda-copias-seguridad-nube-google-photos-1142821'>Xiaomi cierra Cloud Gallery y recomienda las copias de seguridad en la nube de Google Photos</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/xiaomi-cierra-cloud-gallery-recomienda-copias-seguridad-nube-google-photos-1142821' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/xiaomi-cloud-gallery-2847995.jpg' alt='Xiaomi cierra Cloud Gallery y recomienda las copias de seguridad en la nube de Google Photos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/apple-reduce-produccion-iphone-14-plus-decide-enfocarse-pro-pro-max-aunque-iphone-15-plus-sigue-previsto-1142795'>Apple reduce la producción del iPhone 14 Plus y decide enfocarse en el Pro y Pro Max, aunque el iPhone 15 Plus sigue previsto </a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/apple-reduce-produccion-iphone-14-plus-decide-enfocarse-pro-pro-max-aunque-iphone-15-plus-sigue-previsto-1142795' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/iphone-14-plus-podria-ser-gran-fail-apple-ano-2847747.jpg' alt='Apple reduce la producción del iPhone 14 Plus y decide enfocarse en el Pro y Pro Max, aunque el iPhone 15 Plus sigue previsto ' />
     </a>
 </div>
 
