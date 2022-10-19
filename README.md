@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/netflix-gana-24-millones-suscriptores-tercer-trimestre-2022-1142989'>Netflix cierra bocas: gana 2,4 millones de suscriptores, superando todas las previsiones</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/netflix-gana-24-millones-suscriptores-tercer-trimestre-2022-1142989' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/netflix-cierra-bocas-gana-24-millones-suscriptores-superando-todas-previsiones-2848225.jpg' alt='Netflix cierra bocas: gana 2,4 millones de suscriptores, superando todas las previsiones' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/google-chrome-actualiza-fin-integra-caracteristica-usuarios-llevan-pidiendo-anos-1142959'>Google Chrome se actualiza y por fin integra una característica que los usuarios llevan pidiendo años</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/google-chrome-actualiza-fin-integra-caracteristica-usuarios-llevan-pidiendo-anos-1142959' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/google-chrome-2845581.jpg' alt='Google Chrome se actualiza y por fin integra una característica que los usuarios llevan pidiendo años' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/sentencia-judicial-podria-anular-7000-multas-fallo-radar-1142985'>Una sentencia judicial podría anular más de 7000 multas por un fallo en un radar</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/sentencia-judicial-podria-anular-7000-multas-fallo-radar-1142985' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/limite-velocidad-dgt-2350519.jpg' alt='Una sentencia judicial podría anular más de 7000 multas por un fallo en un radar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/elon-musk-quiere-tengamos-internet-aviones-servicio-starlink-1142957'>Elon Musk quiere que tengamos Internet en los aviones, así es su servicio desde Starlink</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/elon-musk-quiere-tengamos-internet-aviones-servicio-starlink-1142957' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/starlink-2628997.jpg' alt='Elon Musk quiere que tengamos Internet en los aviones, así es su servicio desde Starlink' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/listas/tecnologia/7-aplicaciones-telefonos-android-podras-crear-dibujos-profesionales-1119617'>7 aplicaciones para teléfonos Android con las que podrás crear dibujos profesionales</a></h4>
     <a href='https://computerhoy.com/listas/tecnologia/7-aplicaciones-telefonos-android-podras-crear-dibujos-profesionales-1119617' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/7-aplicaciones-telefonos-android-podras-crear-dibujos-profesionales-2847945.jpg' alt='7 aplicaciones para teléfonos Android con las que podrás crear dibujos profesionales' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/ipad-10-generacion-2022-motivos-merece-pena-1142677'>5 motivos por los que merece la pena comprar el nuevo iPad (2022)</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/ipad-10-generacion-2022-motivos-merece-pena-1142677' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/ipad-10a-generacion-2022-2847433.jpg' alt='5 motivos por los que merece la pena comprar el nuevo iPad (2022)' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/netflix-quiere-triunfar-donde-google-stadia-ha-fracasado-servicio-juegos-streaming-confirmado-1142907'>Netflix quiere triunfar donde Google Stadia ha fracasado, servicio de juegos por streaming confirmado</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/netflix-quiere-triunfar-donde-google-stadia-ha-fracasado-servicio-juegos-streaming-confirmado-1142907' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/netflix-2810051.jpg' alt='Netflix quiere triunfar donde Google Stadia ha fracasado, servicio de juegos por streaming confirmado' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/vigilante-nueva-serie-ryan-murphy-netflix-ya-ha-desbancado-dahmer-1142853'>El Vigilante, la nueva serie de Ryan Murphy para Netflix que ya ha desbancado a Dahmer</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/vigilante-nueva-serie-ryan-murphy-netflix-ya-ha-desbancado-dahmer-1142853' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/vigilante-2847979.jpg' alt='El Vigilante, la nueva serie de Ryan Murphy para Netflix que ya ha desbancado a Dahmer' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/bose-quietcomfort-earbuds-ii-cancelacion-ruido-personalizada-mejoras-sonido-competir-airpods-pro-2-1142889'>Bose QuietComfort Earbuds II: cancelación de ruido personalizada y mejoras en sonido para competir con los AirPods Pro 2</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/bose-quietcomfort-earbuds-ii-cancelacion-ruido-personalizada-mejoras-sonido-competir-airpods-pro-2-1142889' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/bose-quietcomfort-earbuds-ii-cancelacion-ruido-personalizada-mejoras-sonido-competir-airpods-pro-2-2848133.jpg' alt='Bose QuietComfort Earbuds II: cancelación de ruido personalizada y mejoras en sonido para competir con los AirPods Pro 2' />
     </a>
 </div>
 
