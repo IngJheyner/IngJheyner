@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/no-tires-iphone-14-suelo-no-quieres-quedarte-telefono-quedan-caida-accidental-1142725'>No tires tu iPhone 14 al suelo si no quieres quedarte sin teléfono: así quedan tras una caída accidental</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/no-tires-iphone-14-suelo-no-quieres-quedarte-telefono-quedan-caida-accidental-1142725' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/analisis-iphone-14-pro-2821731.jpg' alt='No tires tu iPhone 14 al suelo si no quieres quedarte sin teléfono: así quedan tras una caída accidental' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/nueva-tecnica-podria-ayudar-personas-olvidar-recuerdos-especificos-1142695'>Una nueva técnica podría ayudar a las personas a olvidar recuerdos específicos</a></h4>
     <a href='https://computerhoy.com/noticias/life/nueva-tecnica-podria-ayudar-personas-olvidar-recuerdos-especificos-1142695' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/cerebro-2823899.jpg' alt='Una nueva técnica podría ayudar a las personas a olvidar recuerdos específicos' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/ciudades-espanolas-destacan-europa-tener-usuarios-taxi-olvidadizos-dgt-1142661'>Las ciudades españolas que destacan en Europa por tener los usuarios de taxi más olvidadizos según la DGT</a></h4>
     <a href='https://computerhoy.com/noticias/life/ciudades-espanolas-destacan-europa-tener-usuarios-taxi-olvidadizos-dgt-1142661' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/ciudades-espanolas-destacan-europa-tener-usuarios-taxi-olvidadizos-dgt-2847435.jpg' alt='Las ciudades españolas que destacan en Europa por tener los usuarios de taxi más olvidadizos según la DGT' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/acabo-compartir-cuenta-netflix-confirma-comenzara-cobrar-usuario-adicional-partir-2023-1142651'>Se acabó compartir cuenta, Netflix confirma que comenzará a cobrar por usuario adicional a partir de 2023</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/acabo-compartir-cuenta-netflix-confirma-comenzara-cobrar-usuario-adicional-partir-2023-1142651' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/netflix-busca-socio-inesperado-tarifa-anuncios-microsoft-2758217.jpg' alt='Se acabó compartir cuenta, Netflix confirma que comenzará a cobrar por usuario adicional a partir de 2023' />
     </a>
 </div>
 
