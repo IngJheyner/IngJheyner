@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/televisor-qled-android-tiene-precio-sorprendentemente-mide-55-cuesta-menos-piensas-1142089'>Este televisor QLED con Android tiene un precio sorprendentemente bajo: mide 55" y cuesta menos de lo que piensas</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/televisor-qled-android-tiene-precio-sorprendentemente-mide-55-cuesta-menos-piensas-1142089' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/cecotec-vqu11055-2846447.jpg' alt='Este televisor QLED con Android tiene un precio sorprendentemente bajo: mide 55" y cuesta menos de lo que piensas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/graba-propios-vinilos-casa-kit-tener-eps-lofi-1142645'>Graba tus propios vinilos en casa con este kit para tener tus EPs LoFi</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/graba-propios-vinilos-casa-kit-tener-eps-lofi-1142645' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/graba-propios-vinilos-casa-kit-tener-eps-lofi-2847405.jpg' alt='Graba tus propios vinilos en casa con este kit para tener tus EPs LoFi' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/han-tardado-118-anos-pero-ya-real-primer-rolls-royce-electrico-1142637'>Han tardado 118 años, pero ya es real: así es el primer Rolls-Royce eléctrico</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/han-tardado-118-anos-pero-ya-real-primer-rolls-royce-electrico-1142637' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/rolls-royce-spectre-2847395.jpg' alt='Han tardado 118 años, pero ya es real: así es el primer Rolls-Royce eléctrico' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/disenan-muneca-programable-objetivo-introducir-ninas-sector-tecnologia-1142621'>Diseñan muñeca programable con el objetivo de introducir a las niñas en el sector de la tecnología</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/disenan-muneca-programable-objetivo-introducir-ninas-sector-tecnologia-1142621' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/disenan-muneca-programable-objetivo-introducir-ninas-sector-tecnologia-2847375.jpg' alt='Diseñan muñeca programable con el objetivo de introducir a las niñas en el sector de la tecnología' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/esperado-smartphone-plegable-oppo-llegara-pantalla-oled-camara-50-mpx-1142635'>El esperado smartphone plegable de Oppo llegará con pantalla OLED y cámara de 50 Mpx</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/esperado-smartphone-plegable-oppo-llegara-pantalla-oled-camara-50-mpx-1142635' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/analisis-oppo-find-n-2588329.jpg' alt='El esperado smartphone plegable de Oppo llegará con pantalla OLED y cámara de 50 Mpx' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-ofertas-televisores-mundial-futbol-pccomponentes-1142159'>Estas son las mejores ofertas en televisores para ver el Mundial de Fútbol que puedes comprar en PcComponentes</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-ofertas-televisores-mundial-futbol-pccomponentes-1142159' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/smart-tv-grande-salon-moderno-2846837.jpg' alt='Estas son las mejores ofertas en televisores para ver el Mundial de Fútbol que puedes comprar en PcComponentes' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/27-noticias-tecnologia-comenzar-manana-informado-ultimo-1142593'>27 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/27-noticias-tecnologia-comenzar-manana-informado-ultimo-1142593' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/27-noticias-tecnologia-comenzar-manana-informado-ultimo-2847337.jpg' alt='27 noticias de tecnología para comenzar la mañana informado de lo último' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/ofertas-descuentos-adelantarse-black-friday-1142087'>5 ofertas con las que adelantarse al Black Friday</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/ofertas-descuentos-adelantarse-black-friday-1142087' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/honor-magicbook-x14-analisis-opinion-2585323.jpg' alt='5 ofertas con las que adelantarse al Black Friday' />
     </a>
 </div>
 
