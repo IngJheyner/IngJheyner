@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/xiaomi-cierra-cloud-gallery-recomienda-copias-seguridad-nube-google-photos-1142821'>Xiaomi cierra Cloud Gallery y recomienda las copias de seguridad en la nube de Google Photos</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/xiaomi-cierra-cloud-gallery-recomienda-copias-seguridad-nube-google-photos-1142821' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/xiaomi-cloud-gallery-2847995.jpg' alt='Xiaomi cierra Cloud Gallery y recomienda las copias de seguridad en la nube de Google Photos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/apple-reduce-produccion-iphone-14-plus-decide-enfocarse-pro-pro-max-aunque-iphone-15-plus-sigue-previsto-1142795'>Apple reduce la producción del iPhone 14 Plus y decide enfocarse en el Pro y Pro Max, aunque el iPhone 15 Plus sigue previsto </a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/apple-reduce-produccion-iphone-14-plus-decide-enfocarse-pro-pro-max-aunque-iphone-15-plus-sigue-previsto-1142795' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/iphone-14-plus-podria-ser-gran-fail-apple-ano-2847747.jpg' alt='Apple reduce la producción del iPhone 14 Plus y decide enfocarse en el Pro y Pro Max, aunque el iPhone 15 Plus sigue previsto ' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/no-tires-iphone-14-suelo-no-quieres-quedarte-telefono-quedan-caida-accidental-1142725'>No tires tu iPhone 14 al suelo si no quieres quedarte sin teléfono: así quedan tras una caída accidental</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/no-tires-iphone-14-suelo-no-quieres-quedarte-telefono-quedan-caida-accidental-1142725' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/analisis-iphone-14-pro-2821731.jpg' alt='No tires tu iPhone 14 al suelo si no quieres quedarte sin teléfono: así quedan tras una caída accidental' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/nueva-tecnica-podria-ayudar-personas-olvidar-recuerdos-especificos-1142695'>Una nueva técnica podría ayudar a las personas a olvidar recuerdos específicos</a></h4>
-    <a href='https://computerhoy.com/noticias/life/nueva-tecnica-podria-ayudar-personas-olvidar-recuerdos-especificos-1142695' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/cerebro-2823899.jpg' alt='Una nueva técnica podría ayudar a las personas a olvidar recuerdos específicos' />
     </a>
 </div>
 
