@@ -50,9 +50,9 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/telescopio-james-webb-fotografia-pilares-creacion-estrellas-nuevas-1143015'>El telescopio James Webb fotografía los Pilares de la Creación, desvelando un nuevo manto de estrellas desconocidas</a></h4>
+    <h4><a href='https://computerhoy.com/noticias/life/telescopio-james-webb-fotografia-pilares-creacion-estrellas-nuevas-1143015'>El telescopio James Webb fotografía los Pilares de la Creación, desvelando un nuevo manto de estrellas desconocidas (vídeo)</a></h4>
     <a href='https://computerhoy.com/noticias/life/telescopio-james-webb-fotografia-pilares-creacion-estrellas-nuevas-1143015' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/pilares-creacion-2848337.jpg' alt='El telescopio James Webb fotografía los Pilares de la Creación, desvelando un nuevo manto de estrellas desconocidas' />
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/pilares-creacion-2848337.jpg' alt='El telescopio James Webb fotografía los Pilares de la Creación, desvelando un nuevo manto de estrellas desconocidas (vídeo)' />
     </a>
 </div>
 
