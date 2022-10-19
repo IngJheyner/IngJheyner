@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/ciudades-espanolas-destacan-europa-tener-usuarios-taxi-olvidadizos-dgt-1142661'>Las ciudades españolas que destacan en Europa por tener los usuarios de taxi más olvidadizos según la DGT</a></h4>
+    <a href='https://computerhoy.com/noticias/life/ciudades-espanolas-destacan-europa-tener-usuarios-taxi-olvidadizos-dgt-1142661' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/ciudades-espanolas-destacan-europa-tener-usuarios-taxi-olvidadizos-dgt-2847435.jpg' alt='Las ciudades españolas que destacan en Europa por tener los usuarios de taxi más olvidadizos según la DGT' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/acabo-compartir-cuenta-netflix-confirma-comenzara-cobrar-usuario-adicional-partir-2023-1142651'>Se acabó compartir cuenta, Netflix confirma que comenzará a cobrar por usuario adicional a partir de 2023</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/acabo-compartir-cuenta-netflix-confirma-comenzara-cobrar-usuario-adicional-partir-2023-1142651' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/netflix-busca-socio-inesperado-tarifa-anuncios-microsoft-2758217.jpg' alt='Se acabó compartir cuenta, Netflix confirma que comenzará a cobrar por usuario adicional a partir de 2023' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/televisor-qled-android-tiene-precio-sorprendentemente-mide-55-cuesta-menos-piensas-1142089'>Este televisor QLED con Android tiene un precio sorprendentemente bajo: mide 55" y cuesta menos de lo que piensas</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/televisor-qled-android-tiene-precio-sorprendentemente-mide-55-cuesta-menos-piensas-1142089' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/cecotec-vqu11055-2846447.jpg' alt='Este televisor QLED con Android tiene un precio sorprendentemente bajo: mide 55" y cuesta menos de lo que piensas' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/motor/han-tardado-118-anos-pero-ya-real-primer-rolls-royce-electrico-1142637'>Han tardado 118 años, pero ya es real: así es el primer Rolls-Royce eléctrico</a></h4>
     <a href='https://computerhoy.com/noticias/motor/han-tardado-118-anos-pero-ya-real-primer-rolls-royce-electrico-1142637' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/rolls-royce-spectre-2847395.jpg' alt='Han tardado 118 años, pero ya es real: así es el primer Rolls-Royce eléctrico' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/disenan-muneca-programable-objetivo-introducir-ninas-sector-tecnologia-1142621'>Diseñan muñeca programable con el objetivo de introducir a las niñas en el sector de la tecnología</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/disenan-muneca-programable-objetivo-introducir-ninas-sector-tecnologia-1142621' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/disenan-muneca-programable-objetivo-introducir-ninas-sector-tecnologia-2847375.jpg' alt='Diseñan muñeca programable con el objetivo de introducir a las niñas en el sector de la tecnología' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/esperado-smartphone-plegable-oppo-llegara-pantalla-oled-camara-50-mpx-1142635'>El esperado smartphone plegable de Oppo llegará con pantalla OLED y cámara de 50 Mpx</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/esperado-smartphone-plegable-oppo-llegara-pantalla-oled-camara-50-mpx-1142635' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/analisis-oppo-find-n-2588329.jpg' alt='El esperado smartphone plegable de Oppo llegará con pantalla OLED y cámara de 50 Mpx' />
     </a>
 </div>
 
