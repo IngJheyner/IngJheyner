@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/forma-adecuada-compartir-fotos-imagenes-whatsapp-calidad-original-1143561'>Esta es la forma adecuada de compartir fotos e imágenes en WhatsApp a calidad original</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/forma-adecuada-compartir-fotos-imagenes-whatsapp-calidad-original-1143561' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/whatsapp-2731207.jpg' alt='Esta es la forma adecuada de compartir fotos e imágenes en WhatsApp a calidad original' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-auriculares-con-cable-1043197'>¿Necesitas unos auriculares con cable? Estos son los mejores modelos</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/mejores-auriculares-con-cable-1043197' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/mujer-escuchando-musica-auriculares-cable-iphone-2846853.jpg' alt='¿Necesitas unos auriculares con cable? Estos son los mejores modelos' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/aprender-programar-mejores-lenguajes-empezar-demandados-mejores-cursos-gratis-1142067'>Aprender a programar: mejores lenguajes para empezar, los más demandados y mejores cursos gratis</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/aprender-programar-mejores-lenguajes-empezar-demandados-mejores-cursos-gratis-1142067' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/programacion-2846417.jpg' alt='Aprender a programar: mejores lenguajes para empezar, los más demandados y mejores cursos gratis' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/camara-digital-grande-mundo-lista-3200-megapixeles-tomar-imagenes-universo-lejano-1143511'>La cámara digital más grande del mundo está lista: 3.200 megapíxeles para tomar imágenes del universo lejano</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/camara-digital-grande-mundo-lista-3200-megapixeles-tomar-imagenes-universo-lejano-1143511' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/camara-digital-grande-mundo-lista-3200-megapixeles-tomar-imagenes-universo-lejano-2849097.jpg' alt='La cámara digital más grande del mundo está lista: 3.200 megapíxeles para tomar imágenes del universo lejano' />
     </a>
 </div>
 
