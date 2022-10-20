@@ -50,9 +50,25 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/intel-presenta-nueva-generacion-thunderbolt-tres-veces-potente-thunderbolt-4-1143487'>Intel presenta la nueva generación de Thunderbolt, tres veces más potente que Thunderbolt 4</a></h4>
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/aprender-programar-mejores-lenguajes-empezar-demandados-mejores-cursos-gratis-1142067'>Aprender a programar: mejores lenguajes para empezar, los más demandados y mejores cursos gratis</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/aprender-programar-mejores-lenguajes-empezar-demandados-mejores-cursos-gratis-1142067' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/programacion-2846417.jpg' alt='Aprender a programar: mejores lenguajes para empezar, los más demandados y mejores cursos gratis' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/camara-digital-grande-mundo-lista-3200-megapixeles-tomar-imagenes-universo-lejano-1143511'>La cámara digital más grande del mundo está lista: 3.200 megapíxeles para tomar imágenes del universo lejano</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/camara-digital-grande-mundo-lista-3200-megapixeles-tomar-imagenes-universo-lejano-1143511' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/camara-digital-grande-mundo-lista-3200-megapixeles-tomar-imagenes-universo-lejano-2849097.jpg' alt='La cámara digital más grande del mundo está lista: 3.200 megapíxeles para tomar imágenes del universo lejano' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/intel-presenta-nueva-generacion-thunderbolt-tres-veces-potente-thunderbolt-4-1143487'>Intel presenta la nueva generación de Thunderbolt, tres veces más rápido que Thunderbolt 4</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/intel-presenta-nueva-generacion-thunderbolt-tres-veces-potente-thunderbolt-4-1143487' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/thunderbolt-50-2849055.jpg' alt='Intel presenta la nueva generación de Thunderbolt, tres veces más potente que Thunderbolt 4' />
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/thunderbolt-50-2849055.jpg' alt='Intel presenta la nueva generación de Thunderbolt, tres veces más rápido que Thunderbolt 4' />
     </a>
 </div>
 
@@ -66,25 +82,9 @@
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/xiaomi-renueva-linea-smartwatches-amazfit-gtr-4-gts-4-1143449'>Xiaomi renueva su línea de smartwatches: Amazfit GTR 4 y GTS 4</a></h4>
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/xiaomi-renueva-linea-smartwatches-amazfit-gtr-4-gts-4-1143449'>Nueva su línea de smartwatches Amazfit, llegan los GTR 4 y GTS 4</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/xiaomi-renueva-linea-smartwatches-amazfit-gtr-4-gts-4-1143449' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/amazfit-gts-4-amazfit-gtr-4-2848947.jpg' alt='Xiaomi renueva su línea de smartwatches: Amazfit GTR 4 y GTS 4' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/increible-ciudad-futurista-coches-sola-calle-170-kilometros-comienza-tomar-forma-1143429'>¡Increíble! La ciudad futurista sin coches y con una sola calle de 170 kilómetros comienza a tomar forma</a></h4>
-    <a href='https://computerhoy.com/noticias/life/increible-ciudad-futurista-coches-sola-calle-170-kilometros-comienza-tomar-forma-1143429' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/line-ciudad-futurista-coches-sola-calle-170-kilometros-arabia-saudi-comienza-tomar-forma-2848937.jpg' alt='¡Increíble! La ciudad futurista sin coches y con una sola calle de 170 kilómetros comienza a tomar forma' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/zte-axon-40-oficial-panel-amoled-667-procesador-unisoc-1143433'>El ZTE Axon 40 SE es oficial: panel AMOLED de 6,67" y procesador Unisoc</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/zte-axon-40-oficial-panel-amoled-667-procesador-unisoc-1143433' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/zte-axon-40-2848903.jpg' alt='El ZTE Axon 40 SE es oficial: panel AMOLED de 6,67" y procesador Unisoc' />
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/amazfit-gtr-4-gts-4-2849087.jpg' alt='Nueva su línea de smartwatches Amazfit, llegan los GTR 4 y GTS 4' />
     </a>
 </div>
 
