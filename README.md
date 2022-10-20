@@ -50,9 +50,17 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/barilla-dispositivo-passive-cooker-cocer-pasta-2-minutos-cocina-pasiva-1143233'>Barilla lanza un dispositivo conectado al móvil para cocer la pasta con solo 2 minutos de gas o electricidad</a></h4>
+    <h4><a href='https://computerhoy.com/noticias/life/tiendas-online-portales-subasta-vender-pesetas-1143235'>Tiendas online y portales de subasta para vender tus pesetas, que pueden valer miles de euros</a></h4>
+    <a href='https://computerhoy.com/noticias/life/tiendas-online-portales-subasta-vender-pesetas-1143235' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/tiendas-online-portales-subasta-vender-pesetas-pueden-valer-miles-euros-2848525.jpg' alt='Tiendas online y portales de subasta para vender tus pesetas, que pueden valer miles de euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/barilla-dispositivo-passive-cooker-cocer-pasta-2-minutos-cocina-pasiva-1143233'>Barilla lanza un dispositivo conectado al móvil para cocer la pasta con solo 2 minutos de gas o electricidad (vídeo)</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/barilla-dispositivo-passive-cooker-cocer-pasta-2-minutos-cocina-pasiva-1143233' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/verticalimage1666218138075-2848523.jpg' alt='Barilla lanza un dispositivo conectado al móvil para cocer la pasta con solo 2 minutos de gas o electricidad' />
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/verticalimage1666218138075-2848523.jpg' alt='Barilla lanza un dispositivo conectado al móvil para cocer la pasta con solo 2 minutos de gas o electricidad (vídeo)' />
     </a>
 </div>
 
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/malas-noticias-google-pixel-watch-reparar-pantalla-quebradero-cabeza-1142981'>Malas noticias para el Google Pixel Watch: reparar su pantalla es un quebradero de cabeza</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/malas-noticias-google-pixel-watch-reparar-pantalla-quebradero-cabeza-1142981' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/google-pixel-watch-2702235.jpg' alt='Malas noticias para el Google Pixel Watch: reparar su pantalla es un quebradero de cabeza' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/investigadores-hackean-sistema-nervioso-escuchar-musica-traves-sentido-tacto-1142987'>Investigadores “hackean” el sistema nervioso para escuchar música a través del sentido del tacto</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/investigadores-hackean-sistema-nervioso-escuchar-musica-traves-sentido-tacto-1142987' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/dispositivo-permite-escuchar-musica-traves-sentido-tacto-2848221.jpg' alt='Investigadores “hackean” el sistema nervioso para escuchar música a través del sentido del tacto' />
     </a>
 </div>
 
