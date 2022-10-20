@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/xiaomi-renueva-linea-smartwatches-amazfit-gtr-4-gts-4-1143449'>Xiaomi renueva su línea de smartwatches: Amazfit GTR 4 y GTS 4</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/xiaomi-renueva-linea-smartwatches-amazfit-gtr-4-gts-4-1143449' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/amazfit-gts-4-amazfit-gtr-4-2848947.jpg' alt='Xiaomi renueva su línea de smartwatches: Amazfit GTR 4 y GTS 4' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/increible-ciudad-futurista-coches-sola-calle-170-kilometros-comienza-tomar-forma-1143429'>¡Increíble! La ciudad futurista sin coches y con una sola calle de 170 kilómetros comienza a tomar forma</a></h4>
+    <a href='https://computerhoy.com/noticias/life/increible-ciudad-futurista-coches-sola-calle-170-kilometros-comienza-tomar-forma-1143429' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/line-ciudad-futurista-coches-sola-calle-170-kilometros-arabia-saudi-comienza-tomar-forma-2848937.jpg' alt='¡Increíble! La ciudad futurista sin coches y con una sola calle de 170 kilómetros comienza a tomar forma' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/zte-axon-40-oficial-panel-amoled-667-procesador-unisoc-1143433'>El ZTE Axon 40 SE es oficial: panel AMOLED de 6,67" y procesador Unisoc</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/zte-axon-40-oficial-panel-amoled-667-procesador-unisoc-1143433' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/zte-axon-40-2848903.jpg' alt='El ZTE Axon 40 SE es oficial: panel AMOLED de 6,67" y procesador Unisoc' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/microsoft-office-desaparece-pasara-versiones-offline-conexion-1143393'>Microsoft Office desaparece: ¿qué pasará con las versiones offline sin conexión?</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/microsoft-office-desaparece-pasara-versiones-offline-conexion-1143393' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/microsoft-365-2848843.jpg' alt='Microsoft Office desaparece: ¿qué pasará con las versiones offline sin conexión?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/android-13-go-edition-ya-oficial-estas-son-novedades-trae-smartphones-gama-baja-1143379'>Android 13 (Go Edition) ya es oficial y estas son las novedades que trae para los smartphones de gama baja</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/android-13-go-edition-ya-oficial-estas-son-novedades-trae-smartphones-gama-baja-1143379' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/android-13-go-edition-ya-oficial-estas-son-novedades-trae-smartphones-gama-baja-2848827.jpg' alt='Android 13 (Go Edition) ya es oficial y estas son las novedades que trae para los smartphones de gama baja' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/nuevo-superventas-samsung-5g-tiene-150-euros-descuento-1142653'>El nuevo superventas de Samsung con 5G tiene más de 150 euros de descuento</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/nuevo-superventas-samsung-5g-tiene-150-euros-descuento-1142653' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/samsung-galaxy-m53-5g-2847401.jpg' alt='El nuevo superventas de Samsung con 5G tiene más de 150 euros de descuento' />
     </a>
 </div>
 
