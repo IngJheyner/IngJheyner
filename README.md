@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/intel-presenta-nueva-generacion-thunderbolt-tres-veces-potente-thunderbolt-4-1143487'>Intel presenta la nueva generación de Thunderbolt, tres veces más potente que Thunderbolt 4</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/intel-presenta-nueva-generacion-thunderbolt-tres-veces-potente-thunderbolt-4-1143487' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/thunderbolt-50-2849055.jpg' alt='Intel presenta la nueva generación de Thunderbolt, tres veces más potente que Thunderbolt 4' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/gaming/rtx-4090-900-w-era-real-nvidia-descarto-era-disipador-1143479'>La RTX 4090 de 900 W era real... hasta que NVIDIA la descartó: así era su disipador</a></h4>
     <a href='https://computerhoy.com/noticias/gaming/rtx-4090-900-w-era-real-nvidia-descarto-era-disipador-1143479' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/nvidia-rtx-4090-2849027.jpg' alt='La RTX 4090 de 900 W era real... hasta que NVIDIA la descartó: así era su disipador' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/zte-axon-40-oficial-panel-amoled-667-procesador-unisoc-1143433'>El ZTE Axon 40 SE es oficial: panel AMOLED de 6,67" y procesador Unisoc</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/zte-axon-40-oficial-panel-amoled-667-procesador-unisoc-1143433' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/zte-axon-40-2848903.jpg' alt='El ZTE Axon 40 SE es oficial: panel AMOLED de 6,67" y procesador Unisoc' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/lg-display-recibe-primera-verificacion-negro-perfecto-paneles-oled-42-97-pulgadas-1143411'>LG Display recibe la primera verificación de "Negro Perfecto" en sus paneles OLED de entre 42 y 97 pulgadas</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/lg-display-recibe-primera-verificacion-negro-perfecto-paneles-oled-42-97-pulgadas-1143411' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/lg-display-recibe-primera-verificacion-negro-perfecto-paneles-oled-42-97-pulgadas-2848883.jpg' alt='LG Display recibe la primera verificación de "Negro Perfecto" en sus paneles OLED de entre 42 y 97 pulgadas' />
     </a>
 </div>
 
