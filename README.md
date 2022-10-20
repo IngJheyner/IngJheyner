@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/barilla-dispositivo-passive-cooker-cocer-pasta-2-minutos-cocina-pasiva-1143233'>Barilla lanza un dispositivo conectado al móvil para cocer la pasta con solo 2 minutos de gas o electricidad</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/barilla-dispositivo-passive-cooker-cocer-pasta-2-minutos-cocina-pasiva-1143233' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/verticalimage1666218138075-2848523.jpg' alt='Barilla lanza un dispositivo conectado al móvil para cocer la pasta con solo 2 minutos de gas o electricidad' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/telescopio-james-webb-fotografia-pilares-creacion-estrellas-nuevas-1143015'>El telescopio James Webb fotografía los Pilares de la Creación, desvelando un nuevo manto de estrellas desconocidas (vídeo)</a></h4>
     <a href='https://computerhoy.com/noticias/life/telescopio-james-webb-fotografia-pilares-creacion-estrellas-nuevas-1143015' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/pilares-creacion-2848337.jpg' alt='El telescopio James Webb fotografía los Pilares de la Creación, desvelando un nuevo manto de estrellas desconocidas (vídeo)' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/investigadores-hackean-sistema-nervioso-escuchar-musica-traves-sentido-tacto-1142987'>Investigadores “hackean” el sistema nervioso para escuchar música a través del sentido del tacto</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/investigadores-hackean-sistema-nervioso-escuchar-musica-traves-sentido-tacto-1142987' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/dispositivo-permite-escuchar-musica-traves-sentido-tacto-2848221.jpg' alt='Investigadores “hackean” el sistema nervioso para escuchar música a través del sentido del tacto' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/netflix-gana-24-millones-suscriptores-tercer-trimestre-2022-1142989'>Netflix cierra bocas: gana 2,4 millones de suscriptores, superando todas las previsiones</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/netflix-gana-24-millones-suscriptores-tercer-trimestre-2022-1142989' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/netflix-cierra-bocas-gana-24-millones-suscriptores-superando-todas-previsiones-2848225.jpg' alt='Netflix cierra bocas: gana 2,4 millones de suscriptores, superando todas las previsiones' />
     </a>
 </div>
 
