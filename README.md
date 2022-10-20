@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/onlyfans-seguira-dando-cabida-contenido-adultos-menos-durante-5-anos-ceo-1143277'>OnlyFans seguirá dando cabida al contenido para adultos al menos durante 5 años más, según su CEO</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/onlyfans-seguira-dando-cabida-contenido-adultos-menos-durante-5-anos-ceo-1143277' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/onlyfans-2556899.jpg' alt='OnlyFans seguirá dando cabida al contenido para adultos al menos durante 5 años más, según su CEO' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/27-noticias-tecnologia-comenzar-manana-informado-ultimo-1143239'>27 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/27-noticias-tecnologia-comenzar-manana-informado-ultimo-1143239' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/27-noticias-tecnologia-comenzar-manana-informado-ultimo-2848553.jpg' alt='27 noticias de tecnología para comenzar la mañana informado de lo último' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/barilla-dispositivo-passive-cooker-cocer-pasta-2-minutos-cocina-pasiva-1143233'>Barilla lanza un dispositivo conectado al móvil para cocer la pasta con solo 2 minutos de gas o electricidad (vídeo)</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/barilla-dispositivo-passive-cooker-cocer-pasta-2-minutos-cocina-pasiva-1143233' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/verticalimage1666218138075-2848523.jpg' alt='Barilla lanza un dispositivo conectado al móvil para cocer la pasta con solo 2 minutos de gas o electricidad (vídeo)' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/telescopio-james-webb-fotografia-pilares-creacion-estrellas-nuevas-1143015'>El telescopio James Webb fotografía los Pilares de la Creación, desvelando un nuevo manto de estrellas desconocidas (vídeo)</a></h4>
-    <a href='https://computerhoy.com/noticias/life/telescopio-james-webb-fotografia-pilares-creacion-estrellas-nuevas-1143015' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/pilares-creacion-2848337.jpg' alt='El telescopio James Webb fotografía los Pilares de la Creación, desvelando un nuevo manto de estrellas desconocidas (vídeo)' />
     </a>
 </div>
 
