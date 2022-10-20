@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/software-espia-vas-tener-instalarte-quieres-visitar-catar-copa-mundo-2022-1143569'>Este es el software espía que vas a tener que instalarte si quieres visitar Catar para la Copa del Mundo 2022 </a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/software-espia-vas-tener-instalarte-quieres-visitar-catar-copa-mundo-2022-1143569' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/catar-2022-2849243.jpg' alt='Este es el software espía que vas a tener que instalarte si quieres visitar Catar para la Copa del Mundo 2022 ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/forma-adecuada-compartir-fotos-imagenes-whatsapp-calidad-original-1143561'>Esta es la forma adecuada de compartir fotos e imágenes en WhatsApp a calidad original</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/forma-adecuada-compartir-fotos-imagenes-whatsapp-calidad-original-1143561' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/whatsapp-2731207.jpg' alt='Esta es la forma adecuada de compartir fotos e imágenes en WhatsApp a calidad original' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/snapchat-aterriza-espana-suscripcion-pago-snapchat-llega-caracteristicas-exclusivas-1143521'>Snapchat+ aterriza en España: así es la suscripción de pago de Snapchat que llega con características exclusivas</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/snapchat-aterriza-espana-suscripcion-pago-snapchat-llega-caracteristicas-exclusivas-1143521' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/snapchat-aterriza-espana-suscripcion-pago-snapchat-llega-caracteristicas-exclusivas-2849121.jpg' alt='Snapchat+ aterriza en España: así es la suscripción de pago de Snapchat que llega con características exclusivas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/aprender-programar-mejores-lenguajes-empezar-demandados-mejores-cursos-gratis-1142067'>Aprender a programar: mejores lenguajes para empezar, los más demandados y mejores cursos gratis</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/aprender-programar-mejores-lenguajes-empezar-demandados-mejores-cursos-gratis-1142067' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/programacion-2846417.jpg' alt='Aprender a programar: mejores lenguajes para empezar, los más demandados y mejores cursos gratis' />
     </a>
 </div>
 
