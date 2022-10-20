@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/tesla-barato-cerca-gracias-nueva-plataforma-coches-electricos-elon-musk-1143507'>El Tesla barato más cerca gracias a la nueva plataforma para coches eléctricos de Elon Musk</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/tesla-barato-cerca-gracias-nueva-plataforma-coches-electricos-elon-musk-1143507' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/elon-musk-tesla-2560983.jpg' alt='El Tesla barato más cerca gracias a la nueva plataforma para coches eléctricos de Elon Musk' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/cuando-podras-instalar-ipados-16-modelos-ipad-podran-actualizar-ios-16-1143543'>Cuándo podrás instalar iPadOS 16 y qué modelos de iPad podrán actualizar a iOS 16</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/cuando-podras-instalar-ipados-16-modelos-ipad-podran-actualizar-ios-16-1143543' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/ipad-109-pulgadas-2022-2847483.jpg' alt='Cuándo podrás instalar iPadOS 16 y qué modelos de iPad podrán actualizar a iOS 16' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/roborock-q7-max-aspira-friega-mapea-casa-3d-lidar-descuento-1143591'>Roborock Q7 Max aspira, friega, y mapea la casa en 3D con LiDAR, y tiene un 33% de descuento</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/roborock-q7-max-aspira-friega-mapea-casa-3d-lidar-descuento-1143591' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/roborock-q7-max-aspira-friega-mapea-casa-3d-lidar-tiene-33-descuento-2849325.jpg' alt='Roborock Q7 Max aspira, friega, y mapea la casa en 3D con LiDAR, y tiene un 33% de descuento' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/adobe-tiene-ia-capaz-recuperar-piernas-caso-te-hayan-cortado-foto-1143579'>Adobe tiene una IA que es capaz de recuperar tus piernas en caso de que te las hayan cortado en una foto</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/adobe-tiene-ia-capaz-recuperar-piernas-caso-te-hayan-cortado-foto-1143579' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/herramienta-ia-adobe-completar-fotografia-te-cortaron-pierna-2849269.jpg' alt='Adobe tiene una IA que es capaz de recuperar tus piernas en caso de que te las hayan cortado en una foto' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/software-espia-vas-tener-instalarte-quieres-visitar-catar-copa-mundo-2022-1143569'>Este es el software espía que vas a tener que instalarte si quieres visitar Catar para la Copa del Mundo 2022 </a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/software-espia-vas-tener-instalarte-quieres-visitar-catar-copa-mundo-2022-1143569' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/catar-2022-2849243.jpg' alt='Este es el software espía que vas a tener que instalarte si quieres visitar Catar para la Copa del Mundo 2022 ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/forma-adecuada-compartir-fotos-imagenes-whatsapp-calidad-original-1143561'>Esta es la forma adecuada de compartir fotos e imágenes en WhatsApp a calidad original</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/forma-adecuada-compartir-fotos-imagenes-whatsapp-calidad-original-1143561' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/whatsapp-2731207.jpg' alt='Esta es la forma adecuada de compartir fotos e imágenes en WhatsApp a calidad original' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-auriculares-con-cable-1043197'>¿Necesitas unos auriculares con cable? Estos son los mejores modelos</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-auriculares-con-cable-1043197' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/mujer-escuchando-musica-auriculares-cable-iphone-2846853.jpg' alt='¿Necesitas unos auriculares con cable? Estos son los mejores modelos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/procesador-mediatek-gama-alta-2023-dimensity-9200-1143501'>Así es el procesador de MediaTek para la gama alta de 2023: el Dimensity 9200</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/procesador-mediatek-gama-alta-2023-dimensity-9200-1143501' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/mediatek-dimensity-2839231.jpg' alt='Así es el procesador de MediaTek para la gama alta de 2023: el Dimensity 9200' />
     </a>
 </div>
 
