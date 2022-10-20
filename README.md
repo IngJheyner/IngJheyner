@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/27-noticias-tecnologia-comenzar-manana-informado-ultimo-1143239'>27 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/27-noticias-tecnologia-comenzar-manana-informado-ultimo-1143239' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/27-noticias-tecnologia-comenzar-manana-informado-ultimo-2848553.jpg' alt='27 noticias de tecnología para comenzar la mañana informado de lo último' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/donde-comprar-ipad-2018-barato-1142717'>Dónde comprar el iPad (2021) barato ahora que hay una nueva (y muy cara) versión</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/donde-comprar-ipad-2018-barato-1142717' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/apple-ipad-9a-generacion-analisis-opinion-2562501.jpg' alt='Dónde comprar el iPad (2021) barato ahora que hay una nueva (y muy cara) versión' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/telescopio-james-webb-fotografia-pilares-creacion-estrellas-nuevas-1143015'>El telescopio James Webb fotografía los Pilares de la Creación, desvelando un nuevo manto de estrellas desconocidas (vídeo)</a></h4>
     <a href='https://computerhoy.com/noticias/life/telescopio-james-webb-fotografia-pilares-creacion-estrellas-nuevas-1143015' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/pilares-creacion-2848337.jpg' alt='El telescopio James Webb fotografía los Pilares de la Creación, desvelando un nuevo manto de estrellas desconocidas (vídeo)' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/reloj-ticwatch-e3-wear-os-gps-nfc-descuento-1143003'>TicWatch E3 con Wear OS, GPS y NFC, un reloj que gusta mucho porque integra lo que pide la gente, con un 20% de descuento</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/reloj-ticwatch-e3-wear-os-gps-nfc-descuento-1143003' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/ticwatch-e3-wear-os-nfc-reloj-gustando-mucho-porque-integra-pide-gente-20-descuento-2848311.jpg' alt='TicWatch E3 con Wear OS, GPS y NFC, un reloj que gusta mucho porque integra lo que pide la gente, con un 20% de descuento' />
     </a>
 </div>
 
