@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/funciona-camara-360o-evita-roces-coche-cada-aparcamiento-1143337'>Así funciona la cámara 360º que evita que roces tu coche en cada aparcamiento</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/funciona-camara-360o-evita-roces-coche-cada-aparcamiento-1143337' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/4-trucos-definitivos-aparcar-cuando-no-hay-sitio-psicologo-comportamiento-2600445.jpg' alt='Así funciona la cámara 360º que evita que roces tu coche en cada aparcamiento' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/netflix-confirma-cancelacion-segunda-temporada-cyberpunk-edgerunners-1143289'>Netflix confirma la cancelación de la segunda temporada de Cyberpunk: Edgerunners</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/netflix-confirma-cancelacion-segunda-temporada-cyberpunk-edgerunners-1143289' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/netflix-confirma-cancelacion-segunda-temporada-cyberpunk-edgerunners-2848635.jpg' alt='Netflix confirma la cancelación de la segunda temporada de Cyberpunk: Edgerunners' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/redmi-note-12-real-anunciara-muy-pronto-1143279'>El Redmi Note 12 es real y se anunciará muy pronto</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/redmi-note-12-real-anunciara-muy-pronto-1143279' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/redmi-note-12-2848593.jpg' alt='El Redmi Note 12 es real y se anunciará muy pronto' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/27-noticias-tecnologia-comenzar-manana-informado-ultimo-1143239'>27 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/27-noticias-tecnologia-comenzar-manana-informado-ultimo-1143239' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/27-noticias-tecnologia-comenzar-manana-informado-ultimo-2848553.jpg' alt='27 noticias de tecnología para comenzar la mañana informado de lo último' />
     </a>
 </div>
 
