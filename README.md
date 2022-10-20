@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/donde-comprar-ipad-2018-barato-1142717'>Dónde comprar el iPad (2021) barato ahora que hay una nueva (y muy cara) versión</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/donde-comprar-ipad-2018-barato-1142717' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/apple-ipad-9a-generacion-analisis-opinion-2562501.jpg' alt='Dónde comprar el iPad (2021) barato ahora que hay una nueva (y muy cara) versión' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/tiendas-online-portales-subasta-vender-pesetas-1143235'>Tiendas online y portales de subasta para vender tus pesetas, que pueden valer miles de euros</a></h4>
     <a href='https://computerhoy.com/noticias/life/tiendas-online-portales-subasta-vender-pesetas-1143235' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/tiendas-online-portales-subasta-vender-pesetas-pueden-valer-miles-euros-2848525.jpg' alt='Tiendas online y portales de subasta para vender tus pesetas, que pueden valer miles de euros' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/reloj-ticwatch-e3-wear-os-gps-nfc-descuento-1143003'>TicWatch E3 con Wear OS, GPS y NFC, un reloj que gusta mucho porque integra lo que pide la gente, con un 20% de descuento</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/reloj-ticwatch-e3-wear-os-gps-nfc-descuento-1143003' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/ticwatch-e3-wear-os-nfc-reloj-gustando-mucho-porque-integra-pide-gente-20-descuento-2848311.jpg' alt='TicWatch E3 con Wear OS, GPS y NFC, un reloj que gusta mucho porque integra lo que pide la gente, con un 20% de descuento' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/malas-noticias-google-pixel-watch-reparar-pantalla-quebradero-cabeza-1142981'>Malas noticias para el Google Pixel Watch: reparar su pantalla es un quebradero de cabeza</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/malas-noticias-google-pixel-watch-reparar-pantalla-quebradero-cabeza-1142981' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/google-pixel-watch-2702235.jpg' alt='Malas noticias para el Google Pixel Watch: reparar su pantalla es un quebradero de cabeza' />
     </a>
 </div>
 
