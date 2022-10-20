@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/adobe-tiene-ia-capaz-recuperar-piernas-caso-te-hayan-cortado-foto-1143579'>Adobe tiene una IA que es capaz de recuperar tus piernas en caso de que te las hayan cortado en una foto</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/adobe-tiene-ia-capaz-recuperar-piernas-caso-te-hayan-cortado-foto-1143579' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/herramienta-ia-adobe-completar-fotografia-te-cortaron-pierna-2849269.jpg' alt='Adobe tiene una IA que es capaz de recuperar tus piernas en caso de que te las hayan cortado en una foto' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/software-espia-vas-tener-instalarte-quieres-visitar-catar-copa-mundo-2022-1143569'>Este es el software espía que vas a tener que instalarte si quieres visitar Catar para la Copa del Mundo 2022 </a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/software-espia-vas-tener-instalarte-quieres-visitar-catar-copa-mundo-2022-1143569' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/catar-2022-2849243.jpg' alt='Este es el software espía que vas a tener que instalarte si quieres visitar Catar para la Copa del Mundo 2022 ' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/procesador-mediatek-gama-alta-2023-dimensity-9200-1143501'>Así es el procesador de MediaTek para la gama alta de 2023: el Dimensity 9200</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/procesador-mediatek-gama-alta-2023-dimensity-9200-1143501' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/mediatek-dimensity-2839231.jpg' alt='Así es el procesador de MediaTek para la gama alta de 2023: el Dimensity 9200' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/snapchat-aterriza-espana-suscripcion-pago-snapchat-llega-caracteristicas-exclusivas-1143521'>Snapchat+ aterriza en España: así es la suscripción de pago de Snapchat que llega con características exclusivas</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/snapchat-aterriza-espana-suscripcion-pago-snapchat-llega-caracteristicas-exclusivas-1143521' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/snapchat-aterriza-espana-suscripcion-pago-snapchat-llega-caracteristicas-exclusivas-2849121.jpg' alt='Snapchat+ aterriza en España: así es la suscripción de pago de Snapchat que llega con características exclusivas' />
     </a>
 </div>
 
