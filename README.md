@@ -50,9 +50,33 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/netflix-confirma-cancelacion-segunda-temporada-cyberpunk-edgerunners-1143289'>Netflix confirma la cancelación de la segunda temporada de Cyberpunk: Edgerunners</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/netflix-confirma-cancelacion-segunda-temporada-cyberpunk-edgerunners-1143289' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/netflix-confirma-cancelacion-segunda-temporada-cyberpunk-edgerunners-2848635.jpg' alt='Netflix confirma la cancelación de la segunda temporada de Cyberpunk: Edgerunners' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/aspiradora-inalambrica-tambien-fregona-ahora-tiene-precio-normal-1142627'>Esta aspiradora inalámbrica es también fregona, y ahora tiene un precio más bajo de lo normal</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/aspiradora-inalambrica-tambien-fregona-ahora-tiene-precio-normal-1142627' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/conga-rockstar-29600-aquacollect-2847363.jpg' alt='Esta aspiradora inalámbrica es también fregona, y ahora tiene un precio más bajo de lo normal' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/onlyfans-seguira-dando-cabida-contenido-adultos-menos-durante-5-anos-ceo-1143277'>OnlyFans seguirá dando cabida al contenido para adultos al menos durante 5 años más, según su CEO</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/onlyfans-seguira-dando-cabida-contenido-adultos-menos-durante-5-anos-ceo-1143277' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/onlyfans-2556899.jpg' alt='OnlyFans seguirá dando cabida al contenido para adultos al menos durante 5 años más, según su CEO' />
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/onlyfans-seguira-dando-cabida-contenido-adultos-menos-durante-5-anos-ceo-2848637.jpg' alt='OnlyFans seguirá dando cabida al contenido para adultos al menos durante 5 años más, según su CEO' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/redmi-note-12-real-anunciara-muy-pronto-1143279'>El Redmi Note 12 es real y se anunciará muy pronto</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/redmi-note-12-real-anunciara-muy-pronto-1143279' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/redmi-note-12-2848593.jpg' alt='El Redmi Note 12 es real y se anunciará muy pronto' />
     </a>
 </div>
 
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/27-noticias-tecnologia-comenzar-manana-informado-ultimo-1143239'>27 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/27-noticias-tecnologia-comenzar-manana-informado-ultimo-1143239' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/27-noticias-tecnologia-comenzar-manana-informado-ultimo-2848553.jpg' alt='27 noticias de tecnología para comenzar la mañana informado de lo último' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/donde-comprar-ipad-2018-barato-1142717'>Dónde comprar el iPad (2021) barato ahora que hay una nueva (y muy cara) versión</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/donde-comprar-ipad-2018-barato-1142717' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/apple-ipad-9a-generacion-analisis-opinion-2562501.jpg' alt='Dónde comprar el iPad (2021) barato ahora que hay una nueva (y muy cara) versión' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/tiendas-online-portales-subasta-vender-pesetas-1143235'>Tiendas online y portales de subasta para vender tus pesetas, que pueden valer miles de euros</a></h4>
-    <a href='https://computerhoy.com/noticias/life/tiendas-online-portales-subasta-vender-pesetas-1143235' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/tiendas-online-portales-subasta-vender-pesetas-pueden-valer-miles-euros-2848525.jpg' alt='Tiendas online y portales de subasta para vender tus pesetas, que pueden valer miles de euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/barilla-dispositivo-passive-cooker-cocer-pasta-2-minutos-cocina-pasiva-1143233'>Barilla lanza un dispositivo conectado al móvil para cocer la pasta con solo 2 minutos de gas o electricidad (vídeo)</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/barilla-dispositivo-passive-cooker-cocer-pasta-2-minutos-cocina-pasiva-1143233' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/verticalimage1666218138075-2848523.jpg' alt='Barilla lanza un dispositivo conectado al móvil para cocer la pasta con solo 2 minutos de gas o electricidad (vídeo)' />
     </a>
 </div>
 
