@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/zte-axon-40-oficial-panel-amoled-667-procesador-unisoc-1143433'>El ZTE Axon 40 SE es oficial: panel AMOLED de 6,67" y procesador Unisoc</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/zte-axon-40-oficial-panel-amoled-667-procesador-unisoc-1143433' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/zte-axon-40-2848903.jpg' alt='El ZTE Axon 40 SE es oficial: panel AMOLED de 6,67" y procesador Unisoc' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/lg-display-recibe-primera-verificacion-negro-perfecto-paneles-oled-42-97-pulgadas-1143411'>LG Display recibe la primera verificación de "Negro Perfecto" en sus paneles OLED de entre 42 y 97 pulgadas</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/lg-display-recibe-primera-verificacion-negro-perfecto-paneles-oled-42-97-pulgadas-1143411' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/lg-display-recibe-primera-verificacion-negro-perfecto-paneles-oled-42-97-pulgadas-2848883.jpg' alt='LG Display recibe la primera verificación de "Negro Perfecto" en sus paneles OLED de entre 42 y 97 pulgadas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/microsoft-office-desaparece-pasara-versiones-offline-conexion-1143393'>Microsoft Office desaparece: ¿qué pasará con las versiones offline sin conexión?</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/microsoft-office-desaparece-pasara-versiones-offline-conexion-1143393' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/microsoft-365-2848843.jpg' alt='Microsoft Office desaparece: ¿qué pasará con las versiones offline sin conexión?' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/nuevo-superventas-samsung-5g-tiene-150-euros-descuento-1142653'>El nuevo superventas de Samsung con 5G tiene más de 150 euros de descuento</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/nuevo-superventas-samsung-5g-tiene-150-euros-descuento-1142653' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/samsung-galaxy-m53-5g-2847401.jpg' alt='El nuevo superventas de Samsung con 5G tiene más de 150 euros de descuento' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/7-apps-android-poder-localizar-amigos-familiares-incluso-grandes-aglomeraciones-gente-963783'>10 apps Android para poder localizar a tus amigos y familiares incluso en grandes aglomeraciones de gente</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/7-apps-android-poder-localizar-amigos-familiares-incluso-grandes-aglomeraciones-gente-963783' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/ubicacion-2530989.jpg' alt='10 apps Android para poder localizar a tus amigos y familiares incluso en grandes aglomeraciones de gente' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/elon-musk-anuncia-mayor-cambio-conduccion-autonoma-fecha-te-afectara-1143371'>Elon Musk anuncia el mayor cambio en la conducción autónoma hasta la fecha: así te afectará</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/elon-musk-anuncia-mayor-cambio-conduccion-autonoma-fecha-te-afectara-1143371' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/ceo-tesla-elon-musk-2751069.jpg' alt='Elon Musk anuncia el mayor cambio en la conducción autónoma hasta la fecha: así te afectará' />
     </a>
 </div>
 
