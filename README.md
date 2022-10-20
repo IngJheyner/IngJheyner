@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-auriculares-con-cable-1043197'>¿Necesitas unos auriculares con cable? Estos son los mejores modelos</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-auriculares-con-cable-1043197' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/mujer-escuchando-musica-auriculares-cable-iphone-2846853.jpg' alt='¿Necesitas unos auriculares con cable? Estos son los mejores modelos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/procesador-mediatek-gama-alta-2023-dimensity-9200-1143501'>Así es el procesador de MediaTek para la gama alta de 2023: el Dimensity 9200</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/procesador-mediatek-gama-alta-2023-dimensity-9200-1143501' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/mediatek-dimensity-2839231.jpg' alt='Así es el procesador de MediaTek para la gama alta de 2023: el Dimensity 9200' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/snapchat-aterriza-espana-suscripcion-pago-snapchat-llega-caracteristicas-exclusivas-1143521'>Snapchat+ aterriza en España: así es la suscripción de pago de Snapchat que llega con características exclusivas</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/snapchat-aterriza-espana-suscripcion-pago-snapchat-llega-caracteristicas-exclusivas-1143521' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/snapchat-aterriza-espana-suscripcion-pago-snapchat-llega-caracteristicas-exclusivas-2849121.jpg' alt='Snapchat+ aterriza en España: así es la suscripción de pago de Snapchat que llega con características exclusivas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/aprender-programar-mejores-lenguajes-empezar-demandados-mejores-cursos-gratis-1142067'>Aprender a programar: mejores lenguajes para empezar, los más demandados y mejores cursos gratis</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/aprender-programar-mejores-lenguajes-empezar-demandados-mejores-cursos-gratis-1142067' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/programacion-2846417.jpg' alt='Aprender a programar: mejores lenguajes para empezar, los más demandados y mejores cursos gratis' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/camara-digital-grande-mundo-lista-3200-megapixeles-tomar-imagenes-universo-lejano-1143511'>La cámara digital más grande del mundo está lista: 3.200 megapíxeles para tomar imágenes del universo lejano</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/camara-digital-grande-mundo-lista-3200-megapixeles-tomar-imagenes-universo-lejano-1143511' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/camara-digital-grande-mundo-lista-3200-megapixeles-tomar-imagenes-universo-lejano-2849097.jpg' alt='La cámara digital más grande del mundo está lista: 3.200 megapíxeles para tomar imágenes del universo lejano' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/intel-presenta-nueva-generacion-thunderbolt-tres-veces-potente-thunderbolt-4-1143487'>Intel presenta la nueva generación de Thunderbolt, tres veces más rápido que Thunderbolt 4</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/intel-presenta-nueva-generacion-thunderbolt-tres-veces-potente-thunderbolt-4-1143487' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/thunderbolt-50-2849055.jpg' alt='Intel presenta la nueva generación de Thunderbolt, tres veces más rápido que Thunderbolt 4' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/gaming/rtx-4090-900-w-era-real-nvidia-descarto-era-disipador-1143479'>La RTX 4090 de 900 W era real... hasta que NVIDIA la descartó: así era su disipador</a></h4>
-    <a href='https://computerhoy.com/noticias/gaming/rtx-4090-900-w-era-real-nvidia-descarto-era-disipador-1143479' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/nvidia-rtx-4090-2849027.jpg' alt='La RTX 4090 de 900 W era real... hasta que NVIDIA la descartó: así era su disipador' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/xiaomi-renueva-linea-smartwatches-amazfit-gtr-4-gts-4-1143449'>Nueva su línea de smartwatches Amazfit, llegan los GTR 4 y GTS 4</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/xiaomi-renueva-linea-smartwatches-amazfit-gtr-4-gts-4-1143449' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/amazfit-gtr-4-gts-4-2849087.jpg' alt='Nueva su línea de smartwatches Amazfit, llegan los GTR 4 y GTS 4' />
     </a>
 </div>
 
