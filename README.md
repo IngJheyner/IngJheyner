@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/philips-presenta-nueva-linea-monitores-perifericos-gaming-evnia-paneles-oled-hdr-tasas-refresco-165-hz-1144003'>Philips presenta su nueva línea de monitores y periféricos gaming Evnia: paneles OLED, HDR y tasas de refresco de 165 Hz</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/philips-presenta-nueva-linea-monitores-perifericos-gaming-evnia-paneles-oled-hdr-tasas-refresco-165-hz-1144003' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/monitor-philips-evnia-2850035.jpg' alt='Philips presenta su nueva línea de monitores y periféricos gaming Evnia: paneles OLED, HDR y tasas de refresco de 165 Hz' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/billetes-iryo-destinos-precios-como-funciona-tarifas-flexibles-primer-operador-privado-trenes-ave-1143955'>Billetes iryo: destinos, precios y cómo funciona las tarifas flexibles del primer operador privado de trenes AVE</a></h4>
     <a href='https://computerhoy.com/noticias/life/billetes-iryo-destinos-precios-como-funciona-tarifas-flexibles-primer-operador-privado-trenes-ave-1143955' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/billetes-iryo-destinos-precios-como-funciona-tarifas-flexibles-primer-operador-privado-trenes-ave-2849863.jpg' alt='Billetes iryo: destinos, precios y cómo funciona las tarifas flexibles del primer operador privado de trenes AVE' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/mcafee-alerta-google-malware-16-aplicaciones-ya-acumulan-20-millones-descargas-1143933'>Cuidado si tienes algunas de estas 16 aplicaciones Android: se detecta un malware que ya afecta a más de 20 millones de usuarios</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/mcafee-alerta-google-malware-16-aplicaciones-ya-acumulan-20-millones-descargas-1143933' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/mcafee-alerta-google-malware-16-aplicaciones-ya-acumulan-20-millones-descargas-2849851.jpg' alt='Cuidado si tienes algunas de estas 16 aplicaciones Android: se detecta un malware que ya afecta a más de 20 millones de usuarios' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/ryzen-7-potentisimo-portatil-microsoft-amazon-ha-rebajado-200-euros-1142863'>Ryzen 7 para el potentísimo portátil Microsoft que Amazon ha rebajado en más de 200 euros</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/ryzen-7-potentisimo-portatil-microsoft-amazon-ha-rebajado-200-euros-1142863' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/microsoft-surface-laptop-4-analisis-opinion-2355581.jpg' alt='Ryzen 7 para el potentísimo portátil Microsoft que Amazon ha rebajado en más de 200 euros' />
     </a>
 </div>
 
