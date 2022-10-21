@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/microsoft-pc-manager-alternativa-ccleaner-1144125'>PC Manager, la nueva app de Microsoft que quiere sustituir a CCleaner</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/microsoft-pc-manager-alternativa-ccleaner-1144125' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/pc-manager-nueva-app-microsoft-quiere-sustituir-ccleaner-2850449.jpg' alt='PC Manager, la nueva app de Microsoft que quiere sustituir a CCleaner' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/samsung-galaxy-s22-256-gb-almacenamiento-rebajado-200-euros-1144123'>Uno de los mejores móviles del año, el Samsung Galaxy S22 con 256 GB de almacenamiento, rebajado 200 euros </a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/samsung-galaxy-s22-256-gb-almacenamiento-rebajado-200-euros-1144123' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/samsung-galaxy-s22-analisis-opinion-2741215.jpg' alt='Uno de los mejores móviles del año, el Samsung Galaxy S22 con 256 GB de almacenamiento, rebajado 200 euros ' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/estos-moviles-antiguos-tienes-trastero-pueden-valer-cientos-euros-1144093'>Estos móviles antiguos que tienes en el trastero pueden valer cientos de euros</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/estos-moviles-antiguos-tienes-trastero-pueden-valer-cientos-euros-1144093' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/iphone-3g-2850363.jpg' alt='Estos móviles antiguos que tienes en el trastero pueden valer cientos de euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/amazon-confirma-existencia-google-pixel-7a-todo-sabemos-hermano-pequeno-pixel-7-pro-1144075'>Amazon confirma la existencia del Google Pixel 7a: esto es todo lo que sabemos del hermano pequeño del Pixel 7 Pro</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/amazon-confirma-existencia-google-pixel-7a-todo-sabemos-hermano-pequeno-pixel-7-pro-1144075' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/analisis-pixel-6a-2765509.jpg' alt='Amazon confirma la existencia del Google Pixel 7a: esto es todo lo que sabemos del hermano pequeño del Pixel 7 Pro' />
     </a>
 </div>
 
