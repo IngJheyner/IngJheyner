@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/estos-moviles-antiguos-tienes-trastero-pueden-valer-cientos-euros-1144093'>Estos móviles antiguos que tienes en el trastero pueden valer cientos de euros</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/estos-moviles-antiguos-tienes-trastero-pueden-valer-cientos-euros-1144093' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/iphone-3g-2850363.jpg' alt='Estos móviles antiguos que tienes en el trastero pueden valer cientos de euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/amazon-confirma-existencia-google-pixel-7a-todo-sabemos-hermano-pequeno-pixel-7-pro-1144075'>Amazon confirma la existencia del Google Pixel 7a: esto es todo lo que sabemos del hermano pequeño del Pixel 7 Pro</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/amazon-confirma-existencia-google-pixel-7a-todo-sabemos-hermano-pequeno-pixel-7-pro-1144075' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/analisis-pixel-6a-2765509.jpg' alt='Amazon confirma la existencia del Google Pixel 7a: esto es todo lo que sabemos del hermano pequeño del Pixel 7 Pro' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/ipad-pro-m2-vs-samsung-galaxy-tab-s8-cual-mejor-comparativa-precios-caracteristicas-1143437'>iPad Pro M2 (2022) vs Samsung Galaxy Tab S8: ¿cuál es mejor? Comparativa de precios y características</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/ipad-pro-m2-vs-samsung-galaxy-tab-s8-cual-mejor-comparativa-precios-caracteristicas-1143437' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/ipad-pro-2022-vs-samsung-galaxy-tab-s8-2848949.jpg' alt='iPad Pro M2 (2022) vs Samsung Galaxy Tab S8: ¿cuál es mejor? Comparativa de precios y características' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/series-ver-fin-semana-netflix-prime-video-apple-tv-reality-resort-videojuego-1144025'>Qué series ver este fin de semana en Netflix, Prime Video y Apple TV+: un reality, un resort y un videojuego</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/series-ver-fin-semana-netflix-prime-video-apple-tv-reality-resort-videojuego-1144025' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/series-fin-semana-octubre-2022-2850169.jpg' alt='Qué series ver este fin de semana en Netflix, Prime Video y Apple TV+: un reality, un resort y un videojuego' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/peliculas-ver-fin-semana-hbo-max-netflix-movistarplus-morbius-segunda-wonder-woman-joven-radical-reformado-1143889'>Qué películas ver este fin de semana en HBO Max, Netflix y MovistarPlus+: Morbius, la segunda de Wonder Woman y un joven radical "reformado"</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/peliculas-ver-fin-semana-hbo-max-netflix-movistarplus-morbius-segunda-wonder-woman-joven-radical-reformado-1143889' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/peliculas-ver-fin-semana-hbo-max-netflix-movistarplus-morbius-segunda-wonder-woman-joven-radical-reformado-2850087.jpg' alt='Qué películas ver este fin de semana en HBO Max, Netflix y MovistarPlus+: Morbius, la segunda de Wonder Woman y un joven radical "reformado"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/philips-presenta-nueva-linea-monitores-perifericos-gaming-evnia-paneles-oled-hdr-tasas-refresco-165-hz-1144003'>Philips presenta su nueva línea de monitores y periféricos gaming Evnia: paneles OLED, HDR y tasas de refresco de 165 Hz</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/philips-presenta-nueva-linea-monitores-perifericos-gaming-evnia-paneles-oled-hdr-tasas-refresco-165-hz-1144003' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/monitor-philips-evnia-2850035.jpg' alt='Philips presenta su nueva línea de monitores y periféricos gaming Evnia: paneles OLED, HDR y tasas de refresco de 165 Hz' />
     </a>
 </div>
 
