@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-portatiles-baratos-windows-11-1142855'>Estos son los mejores portátiles baratos con Windows 11</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-portatiles-baratos-windows-11-1142855' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/hombre-utilizando-portatil-windows-11-2848113.jpg' alt='Estos son los mejores portátiles baratos con Windows 11' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/usb4-20-especificaciones-80-gbps-1143809'>Ya está aquí USB4 2.0 con velocidades de hasta 120 Gbps</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/usb4-20-especificaciones-80-gbps-1143809' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/ya-aqui-usb4-20-velocidades-80-gbps-cables-actuales-2849575.jpg' alt='Ya está aquí USB4 2.0 con velocidades de hasta 120 Gbps' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/tesla-barato-cerca-gracias-nueva-plataforma-coches-electricos-elon-musk-1143507'>El Tesla barato más cerca gracias a la nueva plataforma para coches eléctricos de Elon Musk</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/tesla-barato-cerca-gracias-nueva-plataforma-coches-electricos-elon-musk-1143507' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/elon-musk-tesla-2560983.jpg' alt='El Tesla barato más cerca gracias a la nueva plataforma para coches eléctricos de Elon Musk' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/cuando-podras-instalar-ipados-16-modelos-ipad-podran-actualizar-ios-16-1143543'>Cuándo podrás instalar iPadOS 16 y qué modelos de iPad podrán actualizar a iOS 16</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/cuando-podras-instalar-ipados-16-modelos-ipad-podran-actualizar-ios-16-1143543' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/ipad-109-pulgadas-2022-2847483.jpg' alt='Cuándo podrás instalar iPadOS 16 y qué modelos de iPad podrán actualizar a iOS 16' />
     </a>
 </div>
 
