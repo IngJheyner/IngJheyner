@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/billetes-iryo-destinos-precios-como-funciona-tarifas-flexibles-primer-operador-privado-trenes-ave-1143955'>Billetes iryo: destinos, precios y cómo funciona las tarifas flexibles del primer operador privado de trenes AVE</a></h4>
+    <a href='https://computerhoy.com/noticias/life/billetes-iryo-destinos-precios-como-funciona-tarifas-flexibles-primer-operador-privado-trenes-ave-1143955' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/billetes-iryo-destinos-precios-como-funciona-tarifas-flexibles-primer-operador-privado-trenes-ave-2849863.jpg' alt='Billetes iryo: destinos, precios y cómo funciona las tarifas flexibles del primer operador privado de trenes AVE' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/carnet-conducir-internacional-dgt-sirve-como-conseguirlo-1143941'>Qué es el carnet de conducir internacional de la DGT, para qué sirve y cómo conseguirlo</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/carnet-conducir-internacional-dgt-sirve-como-conseguirlo-1143941' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/carnet-conducir-internacional-2849829.jpg' alt='Qué es el carnet de conducir internacional de la DGT, para qué sirve y cómo conseguirlo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tutoriales/tecnologia/tienes-amazon-fire-tv-puedes-disfrutar-canales-iptv-utilizando-kodi-1142831'>Si tienes un Amazon Fire TV, puedes disfrutar de canales IPTV utilizando Kodi</a></h4>
     <a href='https://computerhoy.com/tutoriales/tecnologia/tienes-amazon-fire-tv-puedes-disfrutar-canales-iptv-utilizando-kodi-1142831' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/kodi-amazon-fire-tv-stick-2847867.jpg' alt='Si tienes un Amazon Fire TV, puedes disfrutar de canales IPTV utilizando Kodi' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/ryzen-7-potentisimo-portatil-microsoft-amazon-ha-rebajado-200-euros-1142863'>Ryzen 7 para el potentísimo portátil Microsoft que Amazon ha rebajado en más de 200 euros</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/ryzen-7-potentisimo-portatil-microsoft-amazon-ha-rebajado-200-euros-1142863' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/microsoft-surface-laptop-4-analisis-opinion-2355581.jpg' alt='Ryzen 7 para el potentísimo portátil Microsoft que Amazon ha rebajado en más de 200 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/software/mejores-programas-limpiar-acelerar-tu-pc-windows-72549'>Las mejores apps y programas para limpiar y acelerar tu PC con Windows 11</a></h4>
-    <a href='https://computerhoy.com/noticias/software/mejores-programas-limpiar-acelerar-tu-pc-windows-72549' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/windows-11-2514479.jpg' alt='Las mejores apps y programas para limpiar y acelerar tu PC con Windows 11' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/caracteristica-oculta-google-tienes-conocer-eres-trekkie-1143913'>La característica oculta de Google que tienes que conocer si eres un trekkie</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/caracteristica-oculta-google-tienes-conocer-eres-trekkie-1143913' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/google-star-trek-2849821.jpg' alt='La característica oculta de Google que tienes que conocer si eres un trekkie' />
     </a>
 </div>
 
