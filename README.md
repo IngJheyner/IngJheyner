@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/ipad-pro-m2-vs-samsung-galaxy-tab-s8-cual-mejor-comparativa-precios-caracteristicas-1143437'>iPad Pro M2 (2022) vs Samsung Galaxy Tab S8: ¿cuál es mejor? Comparativa de precios y características</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/ipad-pro-m2-vs-samsung-galaxy-tab-s8-cual-mejor-comparativa-precios-caracteristicas-1143437' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/ipad-pro-2022-vs-samsung-galaxy-tab-s8-2848949.jpg' alt='iPad Pro M2 (2022) vs Samsung Galaxy Tab S8: ¿cuál es mejor? Comparativa de precios y características' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/semana-viene-recibiras-aviso-gobierno-movil-motivo-1144043'>La semana que viene recibirás un aviso del Gobierno en tu móvil: este es el motivo</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/semana-viene-recibiras-aviso-gobierno-movil-motivo-1144043' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/analisis-pixel-7-pro-2839677.jpg' alt='La semana que viene recibirás un aviso del Gobierno en tu móvil: este es el motivo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/series-ver-fin-semana-netflix-prime-video-apple-tv-reality-resort-videojuego-1144025'>Qué series ver este fin de semana en Netflix, Prime Video y Apple TV+: un reality, un resort y un videojuego</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/series-ver-fin-semana-netflix-prime-video-apple-tv-reality-resort-videojuego-1144025' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/series-fin-semana-octubre-2022-2850169.jpg' alt='Qué series ver este fin de semana en Netflix, Prime Video y Apple TV+: un reality, un resort y un videojuego' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/philips-presenta-nueva-linea-monitores-perifericos-gaming-evnia-paneles-oled-hdr-tasas-refresco-165-hz-1144003'>Philips presenta su nueva línea de monitores y periféricos gaming Evnia: paneles OLED, HDR y tasas de refresco de 165 Hz</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/philips-presenta-nueva-linea-monitores-perifericos-gaming-evnia-paneles-oled-hdr-tasas-refresco-165-hz-1144003' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/monitor-philips-evnia-2850035.jpg' alt='Philips presenta su nueva línea de monitores y periféricos gaming Evnia: paneles OLED, HDR y tasas de refresco de 165 Hz' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/billetes-iryo-destinos-precios-como-funciona-tarifas-flexibles-primer-operador-privado-trenes-ave-1143955'>Billetes iryo: destinos, precios y cómo funcionan las tarifas flexibles del primer operador privado de trenes AVE</a></h4>
-    <a href='https://computerhoy.com/noticias/life/billetes-iryo-destinos-precios-como-funciona-tarifas-flexibles-primer-operador-privado-trenes-ave-1143955' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/billetes-iryo-destinos-precios-como-funciona-tarifas-flexibles-primer-operador-privado-trenes-ave-2849863.jpg' alt='Billetes iryo: destinos, precios y cómo funcionan las tarifas flexibles del primer operador privado de trenes AVE' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/carnet-conducir-internacional-dgt-sirve-como-conseguirlo-1143941'>Qué es el carnet de conducir internacional de la DGT, para qué sirve y cómo conseguirlo</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/carnet-conducir-internacional-dgt-sirve-como-conseguirlo-1143941' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/carnet-conducir-internacional-2849829.jpg' alt='Qué es el carnet de conducir internacional de la DGT, para qué sirve y cómo conseguirlo' />
     </a>
 </div>
 
