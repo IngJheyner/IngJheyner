@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/me-quiero-comprar-ipad-2019-opciones-tengo-390981'>Qué iPad me compro en 2022: guía para elegir la tablet de Apple perfecta para ti</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/me-quiero-comprar-ipad-2019-opciones-tengo-390981' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/ipad-air-5a-generacion-analisis-opinion-2667697.jpg' alt='Qué iPad me compro en 2022: guía para elegir la tablet de Apple perfecta para ti' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/26-noticias-tecnologia-comenzar-manana-informado-ultimo-1143811'>26 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/26-noticias-tecnologia-comenzar-manana-informado-ultimo-1143811' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/26-noticias-tecnologia-comenzar-manana-informado-ultimo-2849577.jpg' alt='26 noticias de tecnología para comenzar la mañana informado de lo último' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/pelicula-senor-anillos-nft-warner-movieverse-1143603'>Warner hace historia al vender la película de El Señor de los Anillos como un NFT</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/pelicula-senor-anillos-nft-warner-movieverse-1143603' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/warner-hace-historia-vender-pelicula-senor-anillos-formato-nft-2849341.jpg' alt='Warner hace historia al vender la película de El Señor de los Anillos como un NFT' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/7-usos-tecnologia-darte-chute-felicidad-mientras-teletrabajas-1143577'>7 usos de la tecnología para darte un chute de felicidad mientras teletrabajas</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/7-usos-tecnologia-darte-chute-felicidad-mientras-teletrabajas-1143577' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/08/nuevos-ordenadores-hp-serie-z-cambian-adaptarse-teletrabajo-nueva-normalidad-2049583.jpg' alt='7 usos de la tecnología para darte un chute de felicidad mientras teletrabajas' />
     </a>
 </div>
 
