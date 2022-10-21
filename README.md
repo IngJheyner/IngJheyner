@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/ya-puedes-tener-android-auto-carplay-coche-tesla-gracias-hack-1143893'>Ya puedes tener Android Auto y CarPlay en tu coche Tesla gracias a este hack</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/ya-puedes-tener-android-auto-carplay-coche-tesla-gracias-hack-1143893' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/ya-puedes-tener-android-auto-carplay-coche-tesla-gracias-hack-2849791.jpg' alt='Ya puedes tener Android Auto y CarPlay en tu coche Tesla gracias a este hack' />
+    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/tienes-amazon-fire-tv-puedes-disfrutar-canales-iptv-utilizando-kodi-1142831'>Si tienes un Amazon Fire TV, puedes disfrutar de canales IPTV utilizando Kodi</a></h4>
+    <a href='https://computerhoy.com/tutoriales/tecnologia/tienes-amazon-fire-tv-puedes-disfrutar-canales-iptv-utilizando-kodi-1142831' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/kodi-amazon-fire-tv-stick-2847867.jpg' alt='Si tienes un Amazon Fire TV, puedes disfrutar de canales IPTV utilizando Kodi' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/freidora-aceite-casi-perfecta-doble-cesta-comidas-familiares-grasas-1142857'>Esta es la freidora sin aceite casi perfecta: doble cesta para comidas familiares sin grasas</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/freidora-aceite-casi-perfecta-doble-cesta-comidas-familiares-grasas-1142857' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/cecotec-cecofry-advance-double-2686149.jpg' alt='Esta es la freidora sin aceite casi perfecta: doble cesta para comidas familiares sin grasas' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/mcafee-alerta-google-malware-16-aplicaciones-ya-acumulan-20-millones-descargas-1143933'>Cuidado si tienes algunas de estas 16 aplicaciones Android: se detecta un malware que ya afecta a más de 20 millones de usuarios</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/mcafee-alerta-google-malware-16-aplicaciones-ya-acumulan-20-millones-descargas-1143933' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/mcafee-alerta-google-malware-16-aplicaciones-ya-acumulan-20-millones-descargas-2849851.jpg' alt='Cuidado si tienes algunas de estas 16 aplicaciones Android: se detecta un malware que ya afecta a más de 20 millones de usuarios' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/apple-rebaja-macbook-pro-reacondicionados-m1-pro-m1-max-eso-solo-puede-significar-cosa-1143891'>Apple rebaja sus MacBook Pro reacondicionados con M1 Pro y M1 Max y eso solo puede significar una cosa</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/apple-rebaja-macbook-pro-reacondicionados-m1-pro-m1-max-eso-solo-puede-significar-cosa-1143891' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/macbook-pro-14-m1-pro-2538075.jpg' alt='Apple rebaja sus MacBook Pro reacondicionados con M1 Pro y M1 Max y eso solo puede significar una cosa' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/ryzen-7-potentisimo-portatil-microsoft-amazon-ha-rebajado-200-euros-1142863'>Ryzen 7 para el potentísimo portátil Microsoft que Amazon ha rebajado en más de 200 euros</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/ryzen-7-potentisimo-portatil-microsoft-amazon-ha-rebajado-200-euros-1142863' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/microsoft-surface-laptop-4-analisis-opinion-2355581.jpg' alt='Ryzen 7 para el potentísimo portátil Microsoft que Amazon ha rebajado en más de 200 euros' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/llegan-whatsapp-grandes-novedades-forma-avatares-miles-participantes-1143887'>Llegan a WhatsApp grandes novedades en forma de avatares y miles de participantes</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/llegan-whatsapp-grandes-novedades-forma-avatares-miles-participantes-1143887' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/whatsapp-telegram-2718213.jpg' alt='Llegan a WhatsApp grandes novedades en forma de avatares y miles de participantes' />
+    <h4><a href='https://computerhoy.com/noticias/software/mejores-programas-limpiar-acelerar-tu-pc-windows-72549'>Las mejores apps y programas para limpiar y acelerar tu PC con Windows 11</a></h4>
+    <a href='https://computerhoy.com/noticias/software/mejores-programas-limpiar-acelerar-tu-pc-windows-72549' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/windows-11-2514479.jpg' alt='Las mejores apps y programas para limpiar y acelerar tu PC con Windows 11' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/nasa-pone-prueba-sistema-aterrizaje-forzoso-llegar-marte-estrellando-dispositivos-video-1143857'>La NASA pone a prueba un sistema de aterrizaje forzoso para llegar a Marte estrellando sus dispositivos (vídeo)</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/nasa-pone-prueba-sistema-aterrizaje-forzoso-llegar-marte-estrellando-dispositivos-video-1143857' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/como-nasa-prepara-aterrizaje-forzoso-marte-dummy-test-espacio-2849681.jpg' alt='La NASA pone a prueba un sistema de aterrizaje forzoso para llegar a Marte estrellando sus dispositivos (vídeo)' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/caracteristica-oculta-google-tienes-conocer-eres-trekkie-1143913'>La característica oculta de Google que tienes que conocer si eres un trekkie</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/caracteristica-oculta-google-tienes-conocer-eres-trekkie-1143913' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/google-star-trek-2849821.jpg' alt='La característica oculta de Google que tienes que conocer si eres un trekkie' />
     </a>
 </div>
 
