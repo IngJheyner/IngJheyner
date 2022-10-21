@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/the-crown-netflix-criticas-disclaimer-trailer-1144111'>La situación en el Reino Unido obliga a incluir un insólito cambio en el último trailer de The Crown</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/the-crown-netflix-criticas-disclaimer-trailer-1144111' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/verticalimage1666377529799-2850393.jpg' alt='La situación en el Reino Unido obliga a incluir un insólito cambio en el último trailer de The Crown' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/posible-sabotaje-varios-cables-submarinos-sur-europa-podrian-dejarte-internet-1144095'>El posible sabotaje a varios cables submarinos en el sur de Europa podrían dejarte sin Internet</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/posible-sabotaje-varios-cables-submarinos-sur-europa-podrian-dejarte-internet-1144095' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/cable-internet-2850365.jpg' alt='El posible sabotaje a varios cables submarinos en el sur de Europa podrían dejarte sin Internet' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/ipad-pro-m2-vs-samsung-galaxy-tab-s8-cual-mejor-comparativa-precios-caracteristicas-1143437'>iPad Pro M2 (2022) vs Samsung Galaxy Tab S8: ¿cuál es mejor? Comparativa de precios y características</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/ipad-pro-m2-vs-samsung-galaxy-tab-s8-cual-mejor-comparativa-precios-caracteristicas-1143437' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/ipad-pro-2022-vs-samsung-galaxy-tab-s8-2848949.jpg' alt='iPad Pro M2 (2022) vs Samsung Galaxy Tab S8: ¿cuál es mejor? Comparativa de precios y características' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/semana-viene-recibiras-aviso-gobierno-movil-motivo-1144043'>La semana que viene recibirás un aviso del Gobierno en tu móvil: este es el motivo</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/semana-viene-recibiras-aviso-gobierno-movil-motivo-1144043' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/semana-viene-recibiras-aviso-gobierno-movil-motivo-2850369.jpg' alt='La semana que viene recibirás un aviso del Gobierno en tu móvil: este es el motivo' />
     </a>
 </div>
 
