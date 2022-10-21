@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/llegan-whatsapp-grandes-novedades-forma-avatares-miles-participantes-1143887'>Llegan a WhatsApp grandes novedades en forma de avatares y miles de participantes</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/llegan-whatsapp-grandes-novedades-forma-avatares-miles-participantes-1143887' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/whatsapp-telegram-2718213.jpg' alt='Llegan a WhatsApp grandes novedades en forma de avatares y miles de participantes' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/nasa-pone-prueba-sistema-aterrizaje-forzoso-llegar-marte-estrellando-dispositivos-video-1143857'>La NASA pone a prueba un sistema de aterrizaje forzoso para llegar a Marte estrellando sus dispositivos (vídeo)</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/nasa-pone-prueba-sistema-aterrizaje-forzoso-llegar-marte-estrellando-dispositivos-video-1143857' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/como-nasa-prepara-aterrizaje-forzoso-marte-dummy-test-espacio-2849681.jpg' alt='La NASA pone a prueba un sistema de aterrizaje forzoso para llegar a Marte estrellando sus dispositivos (vídeo)' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/dahmer-hace-hueco-top-10-contenidos-vistos-sola-semana-jamas-registrados-nielsen-1143833'>Dahmer se hace un hueco en el top 10 de contenidos más vistos en una sola semana jamás registrados, según Nielsen</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/dahmer-hace-hueco-top-10-contenidos-vistos-sola-semana-jamas-registrados-nielsen-1143833' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/dahmer-hace-hueco-top-10-programas-vistos-sola-semana-jamas-registrados-nielsen-2849655.jpg' alt='Dahmer se hace un hueco en el top 10 de contenidos más vistos en una sola semana jamás registrados, según Nielsen' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/me-quiero-comprar-ipad-2019-opciones-tengo-390981'>Qué iPad me compro en 2022: guía para elegir la tablet de Apple perfecta para ti</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/me-quiero-comprar-ipad-2019-opciones-tengo-390981' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/ipad-air-5a-generacion-analisis-opinion-2667697.jpg' alt='Qué iPad me compro en 2022: guía para elegir la tablet de Apple perfecta para ti' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/26-noticias-tecnologia-comenzar-manana-informado-ultimo-1143811'>26 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/26-noticias-tecnologia-comenzar-manana-informado-ultimo-1143811' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/26-noticias-tecnologia-comenzar-manana-informado-ultimo-2849577.jpg' alt='26 noticias de tecnología para comenzar la mañana informado de lo último' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-portatiles-baratos-windows-11-1142855'>Estos son los mejores portátiles baratos con Windows 11</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-portatiles-baratos-windows-11-1142855' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/hombre-utilizando-portatil-windows-11-2848113.jpg' alt='Estos son los mejores portátiles baratos con Windows 11' />
     </a>
 </div>
 
