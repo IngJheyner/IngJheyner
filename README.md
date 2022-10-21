@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/samsung-galaxy-s22-256-gb-almacenamiento-rebajado-200-euros-1144123'>Uno de los mejores móviles del año, el Samsung Galaxy S22 con 256 GB de almacenamiento, rebajado 200 euros </a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/samsung-galaxy-s22-256-gb-almacenamiento-rebajado-200-euros-1144123' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/samsung-galaxy-s22-analisis-opinion-2741215.jpg' alt='Uno de los mejores móviles del año, el Samsung Galaxy S22 con 256 GB de almacenamiento, rebajado 200 euros ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/the-crown-netflix-criticas-disclaimer-trailer-1144111'>La situación en el Reino Unido obliga a incluir un insólito cambio en el último trailer de The Crown</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/the-crown-netflix-criticas-disclaimer-trailer-1144111' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/verticalimage1666377529799-2850393.jpg' alt='La situación en el Reino Unido obliga a incluir un insólito cambio en el último trailer de The Crown' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/amazon-confirma-existencia-google-pixel-7a-todo-sabemos-hermano-pequeno-pixel-7-pro-1144075'>Amazon confirma la existencia del Google Pixel 7a: esto es todo lo que sabemos del hermano pequeño del Pixel 7 Pro</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/amazon-confirma-existencia-google-pixel-7a-todo-sabemos-hermano-pequeno-pixel-7-pro-1144075' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/analisis-pixel-6a-2765509.jpg' alt='Amazon confirma la existencia del Google Pixel 7a: esto es todo lo que sabemos del hermano pequeño del Pixel 7 Pro' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/ipad-pro-m2-vs-samsung-galaxy-tab-s8-cual-mejor-comparativa-precios-caracteristicas-1143437'>iPad Pro M2 (2022) vs Samsung Galaxy Tab S8: ¿cuál es mejor? Comparativa de precios y características</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/ipad-pro-m2-vs-samsung-galaxy-tab-s8-cual-mejor-comparativa-precios-caracteristicas-1143437' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/ipad-pro-2022-vs-samsung-galaxy-tab-s8-2848949.jpg' alt='iPad Pro M2 (2022) vs Samsung Galaxy Tab S8: ¿cuál es mejor? Comparativa de precios y características' />
     </a>
 </div>
 
