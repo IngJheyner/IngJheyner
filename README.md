@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/dahmer-hace-hueco-top-10-contenidos-vistos-sola-semana-jamas-registrados-nielsen-1143833'>Dahmer se hace un hueco en el top 10 de contenidos más vistos en una sola semana jamás registrados, según Nielsen</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/dahmer-hace-hueco-top-10-contenidos-vistos-sola-semana-jamas-registrados-nielsen-1143833' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/dahmer-hace-hueco-top-10-programas-vistos-sola-semana-jamas-registrados-nielsen-2849655.jpg' alt='Dahmer se hace un hueco en el top 10 de contenidos más vistos en una sola semana jamás registrados, según Nielsen' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/windows-ya-compatible-aplicaciones-android-pero-tiene-truco-1143839'>Windows ya es compatible con las aplicaciones Android, pero tiene truco</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/windows-ya-compatible-aplicaciones-android-pero-tiene-truco-1143839' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/subsistema-windows-android-2849643.jpg' alt='Windows ya es compatible con las aplicaciones Android, pero tiene truco' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/me-quiero-comprar-ipad-2019-opciones-tengo-390981'>Qué iPad me compro en 2022: guía para elegir la tablet de Apple perfecta para ti</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/me-quiero-comprar-ipad-2019-opciones-tengo-390981' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/ipad-air-5a-generacion-analisis-opinion-2667697.jpg' alt='Qué iPad me compro en 2022: guía para elegir la tablet de Apple perfecta para ti' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-portatiles-baratos-windows-11-1142855'>Estos son los mejores portátiles baratos con Windows 11</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/mejores-portatiles-baratos-windows-11-1142855' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/hombre-utilizando-portatil-windows-11-2848113.jpg' alt='Estos son los mejores portátiles baratos con Windows 11' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/usb4-20-especificaciones-80-gbps-1143809'>Ya está aquí USB4 2.0 con velocidades de hasta 120 Gbps</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/usb4-20-especificaciones-80-gbps-1143809' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/ya-aqui-usb4-20-velocidades-80-gbps-cables-actuales-2849575.jpg' alt='Ya está aquí USB4 2.0 con velocidades de hasta 120 Gbps' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/pelicula-senor-anillos-nft-warner-movieverse-1143603'>Warner hace historia al vender la película de El Señor de los Anillos como un NFT</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/pelicula-senor-anillos-nft-warner-movieverse-1143603' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/warner-hace-historia-vender-pelicula-senor-anillos-formato-nft-2849341.jpg' alt='Warner hace historia al vender la película de El Señor de los Anillos como un NFT' />
     </a>
 </div>
 
