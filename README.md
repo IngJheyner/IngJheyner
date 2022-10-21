@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/series-ver-fin-semana-netflix-prime-video-apple-tv-reality-resort-videojuego-1144025'>Qué series ver este fin de semana en Netflix, Prime Video y Apple TV+: un reality, un resort y un videojuego</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/series-ver-fin-semana-netflix-prime-video-apple-tv-reality-resort-videojuego-1144025' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/series-fin-semana-octubre-2022-2850169.jpg' alt='Qué series ver este fin de semana en Netflix, Prime Video y Apple TV+: un reality, un resort y un videojuego' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/peliculas-ver-fin-semana-hbo-max-netflix-movistarplus-morbius-segunda-wonder-woman-joven-radical-reformado-1143889'>Qué películas ver este fin de semana en HBO Max, Netflix y MovistarPlus+: Morbius, la segunda de Wonder Woman y un joven radical "reformado"</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/peliculas-ver-fin-semana-hbo-max-netflix-movistarplus-morbius-segunda-wonder-woman-joven-radical-reformado-1143889' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/peliculas-ver-fin-semana-hbo-max-netflix-movistarplus-morbius-segunda-wonder-woman-joven-radical-reformado-2850087.jpg' alt='Qué películas ver este fin de semana en HBO Max, Netflix y MovistarPlus+: Morbius, la segunda de Wonder Woman y un joven radical "reformado"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/philips-presenta-nueva-linea-monitores-perifericos-gaming-evnia-paneles-oled-hdr-tasas-refresco-165-hz-1144003'>Philips presenta su nueva línea de monitores y periféricos gaming Evnia: paneles OLED, HDR y tasas de refresco de 165 Hz</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/philips-presenta-nueva-linea-monitores-perifericos-gaming-evnia-paneles-oled-hdr-tasas-refresco-165-hz-1144003' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/monitor-philips-evnia-2850035.jpg' alt='Philips presenta su nueva línea de monitores y periféricos gaming Evnia: paneles OLED, HDR y tasas de refresco de 165 Hz' />
@@ -58,9 +74,9 @@
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/billetes-iryo-destinos-precios-como-funciona-tarifas-flexibles-primer-operador-privado-trenes-ave-1143955'>Billetes iryo: destinos, precios y cómo funciona las tarifas flexibles del primer operador privado de trenes AVE</a></h4>
+    <h4><a href='https://computerhoy.com/noticias/life/billetes-iryo-destinos-precios-como-funciona-tarifas-flexibles-primer-operador-privado-trenes-ave-1143955'>Billetes iryo: destinos, precios y cómo funcionan las tarifas flexibles del primer operador privado de trenes AVE</a></h4>
     <a href='https://computerhoy.com/noticias/life/billetes-iryo-destinos-precios-como-funciona-tarifas-flexibles-primer-operador-privado-trenes-ave-1143955' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/billetes-iryo-destinos-precios-como-funciona-tarifas-flexibles-primer-operador-privado-trenes-ave-2849863.jpg' alt='Billetes iryo: destinos, precios y cómo funciona las tarifas flexibles del primer operador privado de trenes AVE' />
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/billetes-iryo-destinos-precios-como-funciona-tarifas-flexibles-primer-operador-privado-trenes-ave-2849863.jpg' alt='Billetes iryo: destinos, precios y cómo funcionan las tarifas flexibles del primer operador privado de trenes AVE' />
     </a>
 </div>
 
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/motor/carnet-conducir-internacional-dgt-sirve-como-conseguirlo-1143941'>Qué es el carnet de conducir internacional de la DGT, para qué sirve y cómo conseguirlo</a></h4>
     <a href='https://computerhoy.com/noticias/motor/carnet-conducir-internacional-dgt-sirve-como-conseguirlo-1143941' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/carnet-conducir-internacional-2849829.jpg' alt='Qué es el carnet de conducir internacional de la DGT, para qué sirve y cómo conseguirlo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/tienes-amazon-fire-tv-puedes-disfrutar-canales-iptv-utilizando-kodi-1142831'>Si tienes un Amazon Fire TV, puedes disfrutar de canales IPTV utilizando Kodi</a></h4>
-    <a href='https://computerhoy.com/tutoriales/tecnologia/tienes-amazon-fire-tv-puedes-disfrutar-canales-iptv-utilizando-kodi-1142831' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/kodi-amazon-fire-tv-stick-2847867.jpg' alt='Si tienes un Amazon Fire TV, puedes disfrutar de canales IPTV utilizando Kodi' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/mcafee-alerta-google-malware-16-aplicaciones-ya-acumulan-20-millones-descargas-1143933'>Cuidado si tienes algunas de estas 16 aplicaciones Android: se detecta un malware que ya afecta a más de 20 millones de usuarios</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/mcafee-alerta-google-malware-16-aplicaciones-ya-acumulan-20-millones-descargas-1143933' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/mcafee-alerta-google-malware-16-aplicaciones-ya-acumulan-20-millones-descargas-2849851.jpg' alt='Cuidado si tienes algunas de estas 16 aplicaciones Android: se detecta un malware que ya afecta a más de 20 millones de usuarios' />
     </a>
 </div>
 
