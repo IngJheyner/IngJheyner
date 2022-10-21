@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/ya-puedes-tener-android-auto-carplay-coche-tesla-gracias-hack-1143893'>Ya puedes tener Android Auto y CarPlay en tu coche Tesla gracias a este hack</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/ya-puedes-tener-android-auto-carplay-coche-tesla-gracias-hack-1143893' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/ya-puedes-tener-android-auto-carplay-coche-tesla-gracias-hack-2849791.jpg' alt='Ya puedes tener Android Auto y CarPlay en tu coche Tesla gracias a este hack' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/freidora-aceite-casi-perfecta-doble-cesta-comidas-familiares-grasas-1142857'>Esta es la freidora sin aceite casi perfecta: doble cesta para comidas familiares sin grasas</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/freidora-aceite-casi-perfecta-doble-cesta-comidas-familiares-grasas-1142857' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/cecotec-cecofry-advance-double-2686149.jpg' alt='Esta es la freidora sin aceite casi perfecta: doble cesta para comidas familiares sin grasas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/apple-rebaja-macbook-pro-reacondicionados-m1-pro-m1-max-eso-solo-puede-significar-cosa-1143891'>Apple rebaja sus MacBook Pro reacondicionados con M1 Pro y M1 Max y eso solo puede significar una cosa</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/apple-rebaja-macbook-pro-reacondicionados-m1-pro-m1-max-eso-solo-puede-significar-cosa-1143891' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/macbook-pro-14-m1-pro-2538075.jpg' alt='Apple rebaja sus MacBook Pro reacondicionados con M1 Pro y M1 Max y eso solo puede significar una cosa' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/llegan-whatsapp-grandes-novedades-forma-avatares-miles-participantes-1143887'>Llegan a WhatsApp grandes novedades en forma de avatares y miles de participantes</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/llegan-whatsapp-grandes-novedades-forma-avatares-miles-participantes-1143887' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/whatsapp-telegram-2718213.jpg' alt='Llegan a WhatsApp grandes novedades en forma de avatares y miles de participantes' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/nasa-pone-prueba-sistema-aterrizaje-forzoso-llegar-marte-estrellando-dispositivos-video-1143857'>La NASA pone a prueba un sistema de aterrizaje forzoso para llegar a Marte estrellando sus dispositivos (vídeo)</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/nasa-pone-prueba-sistema-aterrizaje-forzoso-llegar-marte-estrellando-dispositivos-video-1143857' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/como-nasa-prepara-aterrizaje-forzoso-marte-dummy-test-espacio-2849681.jpg' alt='La NASA pone a prueba un sistema de aterrizaje forzoso para llegar a Marte estrellando sus dispositivos (vídeo)' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/dahmer-hace-hueco-top-10-contenidos-vistos-sola-semana-jamas-registrados-nielsen-1143833'>Dahmer se hace un hueco en el top 10 de contenidos más vistos en una sola semana jamás registrados, según Nielsen</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/dahmer-hace-hueco-top-10-contenidos-vistos-sola-semana-jamas-registrados-nielsen-1143833' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/dahmer-hace-hueco-top-10-programas-vistos-sola-semana-jamas-registrados-nielsen-2849655.jpg' alt='Dahmer se hace un hueco en el top 10 de contenidos más vistos en una sola semana jamás registrados, según Nielsen' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/windows-ya-compatible-aplicaciones-android-pero-tiene-truco-1143839'>Windows ya es compatible con las aplicaciones Android, pero tiene truco</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/windows-ya-compatible-aplicaciones-android-pero-tiene-truco-1143839' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/subsistema-windows-android-2849643.jpg' alt='Windows ya es compatible con las aplicaciones Android, pero tiene truco' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/me-quiero-comprar-ipad-2019-opciones-tengo-390981'>Qué iPad me compro en 2022: guía para elegir la tablet de Apple perfecta para ti</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/me-quiero-comprar-ipad-2019-opciones-tengo-390981' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/ipad-air-5a-generacion-analisis-opinion-2667697.jpg' alt='Qué iPad me compro en 2022: guía para elegir la tablet de Apple perfecta para ti' />
     </a>
 </div>
 
