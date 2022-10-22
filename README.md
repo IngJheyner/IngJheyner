@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/qrishing-cuales-son-peligros-nueva-estafa-codigo-qr-1129611'>¿Qué es QRishing y cuáles son los peligros de esta nueva estafa con el código QR?</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/qrishing-cuales-son-peligros-nueva-estafa-codigo-qr-1129611' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/verticalimage1666366125710-2850285.jpg' alt='¿Qué es QRishing y cuáles son los peligros de esta nueva estafa con el código QR?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/analisis/huawei-mate-xs-2-review-opinion-1141461'>Huawei Mate Xs 2, análisis y opinión</a></h4>
     <a href='https://computerhoy.com/analisis/huawei-mate-xs-2-review-opinion-1141461' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/analisis-huawei-mate-xs-2-2845453.jpg' alt='Huawei Mate Xs 2, análisis y opinión' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/motor/placas-matricula-digitales-pantalla-tinta-electronica-california-1143929'>California aprueba las placas de matrícula digitales: una pantalla de tinta eléctronica que puedes cambiar con el móvil</a></h4>
     <a href='https://computerhoy.com/noticias/motor/placas-matricula-digitales-pantalla-tinta-electronica-california-1143929' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/california-aprueba-placas-matricula-digitales-pantalla-tinta-electronica-puedes-cambiar-movil-2849813.jpg' alt='California aprueba las placas de matrícula digitales: una pantalla de tinta eléctronica que puedes cambiar con el móvil' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/life/aspiradoras-inalambricas-cecotec-mejores-conga-rockstar-1143871'>Aspiradoras inalámbricas Cecotec: estas son las mejores Conga Rockstar que puedes comprar</a></h4>
-    <a href='https://computerhoy.com/reportajes/life/aspiradoras-inalambricas-cecotec-mejores-conga-rockstar-1143871' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/hombre-pasando-aspiradora-inalambrica-diferentes-superficies-casa-moderna-2849855.jpg' alt='Aspiradoras inalámbricas Cecotec: estas son las mejores Conga Rockstar que puedes comprar' />
     </a>
 </div>
 
