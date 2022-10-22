@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/crean-robot-doblador-ropa-puede-doblar-40-prendas-hora-1144389'>Crean un robot doblador de ropa que puede doblar 40 prendas en una hora</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/crean-robot-doblador-ropa-puede-doblar-40-prendas-hora-1144389' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/robot-podra-doblar-toda-ropa-apenas-minutos-2850701.jpg' alt='Crean un robot doblador de ropa que puede doblar 40 prendas en una hora' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/te-afectara-hipotetica-prohibicion-venta-televisores-8k-union-europea-1144381'>Así te afectará la hipotética prohibición de venta de televisores 8K en la Unión Europea</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/te-afectara-hipotetica-prohibicion-venta-televisores-8k-union-europea-1144381' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/televisores-modernos-tienda-tecnologia-2850687.jpg' alt='Así te afectará la hipotética prohibición de venta de televisores 8K en la Unión Europea' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/tendras-pagar-sigues-compartiendo-cuenta-netflix-amigos-familiares-1144363'>Esto es lo que tendrás que pagar de más si sigues compartiendo tu cuenta de Netflix con tus amigos y familiares</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/tendras-pagar-sigues-compartiendo-cuenta-netflix-amigos-familiares-1144363' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/netflix-app-tv-2682771.jpg' alt='Esto es lo que tendrás que pagar de más si sigues compartiendo tu cuenta de Netflix con tus amigos y familiares' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/tecnologia/sony-bravia-xr-x95k-65-review-opinion-1142993'>Sony Bravia XR X95K de 65”, análisis y opinión</a></h4>
-    <a href='https://computerhoy.com/analisis/tecnologia/sony-bravia-xr-x95k-65-review-opinion-1142993' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/sony-bravia-xr-x95k-65-analisis-opinion-2848287.jpg' alt='Sony Bravia XR X95K de 65”, análisis y opinión' />
     </a>
 </div>
 
