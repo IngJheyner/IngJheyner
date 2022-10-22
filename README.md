@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/analisis/tecnologia/sony-bravia-xr-x95k-65-review-opinion-1142993'>Sony Bravia XR X95K de 65”, análisis y opinión</a></h4>
+    <a href='https://computerhoy.com/analisis/tecnologia/sony-bravia-xr-x95k-65-review-opinion-1142993' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/sony-bravia-xr-x95k-65-analisis-opinion-2848287.jpg' alt='Sony Bravia XR X95K de 65”, análisis y opinión' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/mercado-subastas-nombres-usuario-telegram-listo-funciona-1144351'>El mercado de subastas de nombres de usuario de Telegram está listo y así funciona</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/mercado-subastas-nombres-usuario-telegram-listo-funciona-1144351' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/telegram-2850665.jpg' alt='El mercado de subastas de nombres de usuario de Telegram está listo y así funciona' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tutoriales/tecnologia/soluciones-cuando-ordenador-atasca-reiniciar-1141593'>Soluciones cuando tu ordenador se atasca al reiniciar</a></h4>
     <a href='https://computerhoy.com/tutoriales/tecnologia/soluciones-cuando-ordenador-atasca-reiniciar-1141593' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/arreglar-ordenador-2845735.jpg' alt='Soluciones cuando tu ordenador se atasca al reiniciar' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/analisis/huawei-mate-xs-2-review-opinion-1141461'>Huawei Mate Xs 2, análisis y opinión</a></h4>
     <a href='https://computerhoy.com/analisis/huawei-mate-xs-2-review-opinion-1141461' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/analisis-huawei-mate-xs-2-2845453.jpg' alt='Huawei Mate Xs 2, análisis y opinión' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/life/cuando-es-11-11-aliexpress-origen-descuentos-ofertas-1143967'>Cuándo es el 11.11 de AliExpress: origen de estos descuentos y ofertas del gigante chino</a></h4>
-    <a href='https://computerhoy.com/reportajes/life/cuando-es-11-11-aliexpress-origen-descuentos-ofertas-1143967' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/ilustracion-elementos-tienda-carrito-compra-bolsa-compra-regalos-2850263.jpg' alt='Cuándo es el 11.11 de AliExpress: origen de estos descuentos y ofertas del gigante chino' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/como-sacar-anillo-atascado-truco-1144323'>Cómo quitarte un anillo que no sale, sin usar productos</a></h4>
-    <a href='https://computerhoy.com/noticias/life/como-sacar-anillo-atascado-truco-1144323' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/como-quitarte-anillo-no-sale-usar-productos-2850649.jpg' alt='Cómo quitarte un anillo que no sale, sin usar productos' />
     </a>
 </div>
 
