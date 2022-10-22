@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/dia-recibiras-alerta-movil-como-parte-pruebas-sistema-emergencias-nacional-1144413'>Este día recibirás una alerta en tu móvil como parte de las pruebas del sistema de emergencias nacional</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/dia-recibiras-alerta-movil-como-parte-pruebas-sistema-emergencias-nacional-1144413' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/sistema-emergencias-nacional-2850733.jpg' alt='Este día recibirás una alerta en tu móvil como parte de las pruebas del sistema de emergencias nacional' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/donde-comprar-ipad-pro-m1-barato-1144055'>iPad Pro M1: dónde comprarlo al mejor precio ahora que hay nuevo iPad Pro con M2</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/donde-comprar-ipad-pro-m1-barato-1144055' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/08/apple-ipad-pro-2020-analisis-opinion-2030021.jpg' alt='iPad Pro M1: dónde comprarlo al mejor precio ahora que hay nuevo iPad Pro con M2' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/empresa-turismo-espacial-te-ofrecera-viajes-globo-borde-espacio-partir-2025-1144401'>Esta empresa de turismo espacial te ofrecerá viajes en globo hasta el borde del espacio a partir de 2025</a></h4>
+    <a href='https://computerhoy.com/noticias/life/empresa-turismo-espacial-te-ofrecera-viajes-globo-borde-espacio-partir-2025-1144401' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/empresa-turismo-espacial-madrilena-te-llevara-globo-borde-espacio-2850727.jpg' alt='Esta empresa de turismo espacial te ofrecerá viajes en globo hasta el borde del espacio a partir de 2025' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/buen-uso-tecnologia-innovacion-como-nos-ayuda-salvar-planeta-tierra-1139259'>El buen uso de la tecnología e innovación: cómo nos ayuda a salvar el planeta Tierra</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/buen-uso-tecnologia-innovacion-como-nos-ayuda-salvar-planeta-tierra-1139259' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/buen-uso-tecnologia-innovacion-como-nos-ayuda-salvar-planeta-tierra-2850309.jpg' alt='El buen uso de la tecnología e innovación: cómo nos ayuda a salvar el planeta Tierra' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/motor/modifican-tesla-pueda-recorrer-2800-kilometros-recargar-no-va-gustar-policia-1144397'>Modifican un Tesla para que pueda recorrer 2800 kilómetros sin recargar y no va a gustar a la policía</a></h4>
     <a href='https://computerhoy.com/noticias/motor/modifican-tesla-pueda-recorrer-2800-kilometros-recargar-no-va-gustar-policia-1144397' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/modifican-tesla-pueda-recorrer-2500-kilometros-recargar-no-va-gustar-policia-2850721.jpg' alt='Modifican un Tesla para que pueda recorrer 2800 kilómetros sin recargar y no va a gustar a la policía' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/crean-robot-doblador-ropa-puede-doblar-40-prendas-hora-1144389'>Crean un robot doblador de ropa que puede doblar 40 prendas en una hora</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/crean-robot-doblador-ropa-puede-doblar-40-prendas-hora-1144389' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/robot-podra-doblar-toda-ropa-apenas-minutos-2850701.jpg' alt='Crean un robot doblador de ropa que puede doblar 40 prendas en una hora' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/te-afectara-hipotetica-prohibicion-venta-televisores-8k-union-europea-1144381'>Así te afectará la hipotética prohibición de venta de televisores 8K en la Unión Europea</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/te-afectara-hipotetica-prohibicion-venta-televisores-8k-union-europea-1144381' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/televisores-modernos-tienda-tecnologia-2850687.jpg' alt='Así te afectará la hipotética prohibición de venta de televisores 8K en la Unión Europea' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/tambien-vas-poder-crear-encuestas-chats-individuales-whatsapp-1144369'>También vas a poder crear encuestas en los chats individuales en WhatsApp</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/tambien-vas-poder-crear-encuestas-chats-individuales-whatsapp-1144369' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/encuestas-whatsapp-2635955.jpg' alt='También vas a poder crear encuestas en los chats individuales en WhatsApp' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/entretenimiento/7-series-actuales-terror-tan-efectivas-parecen-larga-pesadilla-1143553'>7 series actuales de terror tan efectivas que parecen una larga pesadilla</a></h4>
-    <a href='https://computerhoy.com/reportajes/entretenimiento/7-series-actuales-terror-tan-efectivas-parecen-larga-pesadilla-1143553' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/misa-medianoche-2656687.jpg' alt='7 series actuales de terror tan efectivas que parecen una larga pesadilla' />
     </a>
 </div>
 
