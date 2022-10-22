@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/salir-andar-carrera-caminantes-centurion-walkers-reto-1141015'>Si te gusta salir a andar, la Carrera de los Caminantes Centurión te propone un reto</a></h4>
+    <a href='https://computerhoy.com/noticias/life/salir-andar-carrera-caminantes-centurion-walkers-reto-1141015' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/te-gusta-salir-andar-carrera-caminante-centurion-te-propone-reto-2844245.jpg' alt='Si te gusta salir a andar, la Carrera de los Caminantes Centurión te propone un reto' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/dia-recibiras-alerta-movil-como-parte-pruebas-sistema-emergencias-nacional-1144413'>Este día recibirás una alerta en tu móvil como parte de las pruebas del sistema de emergencias nacional</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/dia-recibiras-alerta-movil-como-parte-pruebas-sistema-emergencias-nacional-1144413' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/sistema-emergencias-nacional-2850733.jpg' alt='Este día recibirás una alerta en tu móvil como parte de las pruebas del sistema de emergencias nacional' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/buen-uso-tecnologia-innovacion-como-nos-ayuda-salvar-planeta-tierra-1139259'>El buen uso de la tecnología e innovación: cómo nos ayuda a salvar el planeta Tierra</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/buen-uso-tecnologia-innovacion-como-nos-ayuda-salvar-planeta-tierra-1139259' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/buen-uso-tecnologia-innovacion-como-nos-ayuda-salvar-planeta-tierra-2850309.jpg' alt='El buen uso de la tecnología e innovación: cómo nos ayuda a salvar el planeta Tierra' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/modifican-tesla-pueda-recorrer-2800-kilometros-recargar-no-va-gustar-policia-1144397'>Modifican un Tesla para que pueda recorrer 2800 kilómetros sin recargar y no va a gustar a la policía</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/modifican-tesla-pueda-recorrer-2800-kilometros-recargar-no-va-gustar-policia-1144397' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/modifican-tesla-pueda-recorrer-2500-kilometros-recargar-no-va-gustar-policia-2850721.jpg' alt='Modifican un Tesla para que pueda recorrer 2800 kilómetros sin recargar y no va a gustar a la policía' />
     </a>
 </div>
 
