@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/te-afectara-hipotetica-prohibicion-venta-televisores-8k-union-europea-1144381'>Así te afectará la hipotética prohibición de venta de televisores 8K en la Unión Europea</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/te-afectara-hipotetica-prohibicion-venta-televisores-8k-union-europea-1144381' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/televisores-modernos-tienda-tecnologia-2850687.jpg' alt='Así te afectará la hipotética prohibición de venta de televisores 8K en la Unión Europea' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/tambien-vas-poder-crear-encuestas-chats-individuales-whatsapp-1144369'>También vas a poder crear encuestas en los chats individuales en WhatsApp</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/tambien-vas-poder-crear-encuestas-chats-individuales-whatsapp-1144369' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/encuestas-whatsapp-2635955.jpg' alt='También vas a poder crear encuestas en los chats individuales en WhatsApp' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/analisis/tecnologia/sony-bravia-xr-x95k-65-review-opinion-1142993'>Sony Bravia XR X95K de 65”, análisis y opinión</a></h4>
     <a href='https://computerhoy.com/analisis/tecnologia/sony-bravia-xr-x95k-65-review-opinion-1142993' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/sony-bravia-xr-x95k-65-analisis-opinion-2848287.jpg' alt='Sony Bravia XR X95K de 65”, análisis y opinión' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/mercado-subastas-nombres-usuario-telegram-listo-funciona-1144351'>El mercado de subastas de nombres de usuario de Telegram está listo y así funciona</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/mercado-subastas-nombres-usuario-telegram-listo-funciona-1144351' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/telegram-2850665.jpg' alt='El mercado de subastas de nombres de usuario de Telegram está listo y así funciona' />
     </a>
 </div>
 
