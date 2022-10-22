@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/soluciones-cuando-ordenador-atasca-reiniciar-1141593'>Soluciones cuando tu ordenador se atasca al reiniciar</a></h4>
+    <a href='https://computerhoy.com/tutoriales/tecnologia/soluciones-cuando-ordenador-atasca-reiniciar-1141593' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/arreglar-ordenador-2845735.jpg' alt='Soluciones cuando tu ordenador se atasca al reiniciar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/qrishing-cuales-son-peligros-nueva-estafa-codigo-qr-1129611'>¿Qué es QRishing y cuáles son los peligros de esta nueva estafa con el código QR?</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/qrishing-cuales-son-peligros-nueva-estafa-codigo-qr-1129611' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/verticalimage1666366125710-2850285.jpg' alt='¿Qué es QRishing y cuáles son los peligros de esta nueva estafa con el código QR?' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/como-sacar-anillo-atascado-truco-1144323'>Cómo quitarte un anillo que no sale, sin usar productos</a></h4>
     <a href='https://computerhoy.com/noticias/life/como-sacar-anillo-atascado-truco-1144323' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/como-quitarte-anillo-no-sale-usar-productos-2850649.jpg' alt='Cómo quitarte un anillo que no sale, sin usar productos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/placas-matricula-digitales-pantalla-tinta-electronica-california-1143929'>California aprueba las placas de matrícula digitales: una pantalla de tinta eléctronica que puedes cambiar con el móvil</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/placas-matricula-digitales-pantalla-tinta-electronica-california-1143929' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/california-aprueba-placas-matricula-digitales-pantalla-tinta-electronica-puedes-cambiar-movil-2849813.jpg' alt='California aprueba las placas de matrícula digitales: una pantalla de tinta eléctronica que puedes cambiar con el móvil' />
     </a>
 </div>
 
