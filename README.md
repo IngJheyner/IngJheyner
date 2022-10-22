@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/como-sacar-anillo-atascado-truco-1144323'>Cómo quitarte un anillo que no sale, sin usar productos</a></h4>
+    <a href='https://computerhoy.com/noticias/life/como-sacar-anillo-atascado-truco-1144323' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/como-quitarte-anillo-no-sale-usar-productos-2850649.jpg' alt='Cómo quitarte un anillo que no sale, sin usar productos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/placas-matricula-digitales-pantalla-tinta-electronica-california-1143929'>California aprueba las placas de matrícula digitales: una pantalla de tinta eléctronica que puedes cambiar con el móvil</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/placas-matricula-digitales-pantalla-tinta-electronica-california-1143929' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/california-aprueba-placas-matricula-digitales-pantalla-tinta-electronica-puedes-cambiar-movil-2849813.jpg' alt='California aprueba las placas de matrícula digitales: una pantalla de tinta eléctronica que puedes cambiar con el móvil' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/life/aspiradoras-inalambricas-cecotec-mejores-conga-rockstar-1143871'>Aspiradoras inalámbricas Cecotec: estas son las mejores Conga Rockstar que puedes comprar</a></h4>
+    <a href='https://computerhoy.com/reportajes/life/aspiradoras-inalambricas-cecotec-mejores-conga-rockstar-1143871' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/hombre-pasando-aspiradora-inalambrica-diferentes-superficies-casa-moderna-2849855.jpg' alt='Aspiradoras inalámbricas Cecotec: estas son las mejores Conga Rockstar que puedes comprar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/motor/bicicleta-camper-solar-tiene-propia-cama-video-1144321'>La bicicleta camper solar, tiene su propia cama (vídeo)</a></h4>
     <a href='https://computerhoy.com/noticias/motor/bicicleta-camper-solar-tiene-propia-cama-video-1144321' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/verticalimage1666394873291-2850645.jpg' alt='La bicicleta camper solar, tiene su propia cama (vídeo)' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/microsoft-pc-manager-alternativa-ccleaner-1144125'>PC Manager, la nueva app de Microsoft que quiere sustituir a CCleaner</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/microsoft-pc-manager-alternativa-ccleaner-1144125' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/pc-manager-nueva-app-microsoft-quiere-sustituir-ccleaner-2850449.jpg' alt='PC Manager, la nueva app de Microsoft que quiere sustituir a CCleaner' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/samsung-galaxy-s22-256-gb-almacenamiento-rebajado-200-euros-1144123'>Uno de los mejores móviles del año, el Samsung Galaxy S22 con 256 GB de almacenamiento, rebajado 200 euros </a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/samsung-galaxy-s22-256-gb-almacenamiento-rebajado-200-euros-1144123' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/samsung-galaxy-s22-analisis-opinion-2741215.jpg' alt='Uno de los mejores móviles del año, el Samsung Galaxy S22 con 256 GB de almacenamiento, rebajado 200 euros ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/the-crown-netflix-criticas-disclaimer-trailer-1144111'>La situación en el Reino Unido obliga a incluir un insólito cambio en el último trailer de The Crown</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/the-crown-netflix-criticas-disclaimer-trailer-1144111' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/verticalimage1666377529799-2850393.jpg' alt='La situación en el Reino Unido obliga a incluir un insólito cambio en el último trailer de The Crown' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/posible-sabotaje-varios-cables-submarinos-sur-europa-podrian-dejarte-internet-1144095'>El posible sabotaje a varios cables submarinos en el sur de Europa podrían dejarte sin Internet</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/posible-sabotaje-varios-cables-submarinos-sur-europa-podrian-dejarte-internet-1144095' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/cable-internet-2850365.jpg' alt='El posible sabotaje a varios cables submarinos en el sur de Europa podrían dejarte sin Internet' />
     </a>
 </div>
 
