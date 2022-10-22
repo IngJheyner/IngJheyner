@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/modifican-tesla-pueda-recorrer-2800-kilometros-recargar-no-va-gustar-policia-1144397'>Modifican un Tesla para que pueda recorrer 2800 kilómetros sin recargar y no va a gustar a la policía</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/modifican-tesla-pueda-recorrer-2800-kilometros-recargar-no-va-gustar-policia-1144397' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/modifican-tesla-pueda-recorrer-2500-kilometros-recargar-no-va-gustar-policia-2850721.jpg' alt='Modifican un Tesla para que pueda recorrer 2800 kilómetros sin recargar y no va a gustar a la policía' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/crean-robot-doblador-ropa-puede-doblar-40-prendas-hora-1144389'>Crean un robot doblador de ropa que puede doblar 40 prendas en una hora</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/crean-robot-doblador-ropa-puede-doblar-40-prendas-hora-1144389' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/robot-podra-doblar-toda-ropa-apenas-minutos-2850701.jpg' alt='Crean un robot doblador de ropa que puede doblar 40 prendas en una hora' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/entretenimiento/7-series-actuales-terror-tan-efectivas-parecen-larga-pesadilla-1143553'>7 series actuales de terror tan efectivas que parecen una larga pesadilla</a></h4>
     <a href='https://computerhoy.com/reportajes/entretenimiento/7-series-actuales-terror-tan-efectivas-parecen-larga-pesadilla-1143553' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/misa-medianoche-2656687.jpg' alt='7 series actuales de terror tan efectivas que parecen una larga pesadilla' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/tendras-pagar-sigues-compartiendo-cuenta-netflix-amigos-familiares-1144363'>Esto es lo que tendrás que pagar de más si sigues compartiendo tu cuenta de Netflix con tus amigos y familiares</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/tendras-pagar-sigues-compartiendo-cuenta-netflix-amigos-familiares-1144363' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/netflix-app-tv-2682771.jpg' alt='Esto es lo que tendrás que pagar de más si sigues compartiendo tu cuenta de Netflix con tus amigos y familiares' />
     </a>
 </div>
 
