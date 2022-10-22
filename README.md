@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/tambien-vas-poder-crear-encuestas-chats-individuales-whatsapp-1144369'>También vas a poder crear encuestas en los chats individuales en WhatsApp</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/tambien-vas-poder-crear-encuestas-chats-individuales-whatsapp-1144369' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/encuestas-whatsapp-2635955.jpg' alt='También vas a poder crear encuestas en los chats individuales en WhatsApp' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/entretenimiento/7-series-actuales-terror-tan-efectivas-parecen-larga-pesadilla-1143553'>7 series actuales de terror tan efectivas que parecen una larga pesadilla</a></h4>
+    <a href='https://computerhoy.com/reportajes/entretenimiento/7-series-actuales-terror-tan-efectivas-parecen-larga-pesadilla-1143553' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/misa-medianoche-2656687.jpg' alt='7 series actuales de terror tan efectivas que parecen una larga pesadilla' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/tendras-pagar-sigues-compartiendo-cuenta-netflix-amigos-familiares-1144363'>Esto es lo que tendrás que pagar de más si sigues compartiendo tu cuenta de Netflix con tus amigos y familiares</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/tendras-pagar-sigues-compartiendo-cuenta-netflix-amigos-familiares-1144363' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/netflix-app-tv-2682771.jpg' alt='Esto es lo que tendrás que pagar de más si sigues compartiendo tu cuenta de Netflix con tus amigos y familiares' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/mercado-subastas-nombres-usuario-telegram-listo-funciona-1144351'>El mercado de subastas de nombres de usuario de Telegram está listo y así funciona</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/mercado-subastas-nombres-usuario-telegram-listo-funciona-1144351' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/telegram-2850665.jpg' alt='El mercado de subastas de nombres de usuario de Telegram está listo y así funciona' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/soluciones-cuando-ordenador-atasca-reiniciar-1141593'>Soluciones cuando tu ordenador se atasca al reiniciar</a></h4>
-    <a href='https://computerhoy.com/tutoriales/tecnologia/soluciones-cuando-ordenador-atasca-reiniciar-1141593' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/arreglar-ordenador-2845735.jpg' alt='Soluciones cuando tu ordenador se atasca al reiniciar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/qrishing-cuales-son-peligros-nueva-estafa-codigo-qr-1129611'>¿Qué es QRishing y cuáles son los peligros de esta nueva estafa con el código QR?</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/qrishing-cuales-son-peligros-nueva-estafa-codigo-qr-1129611' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/verticalimage1666366125710-2850285.jpg' alt='¿Qué es QRishing y cuáles son los peligros de esta nueva estafa con el código QR?' />
     </a>
 </div>
 
