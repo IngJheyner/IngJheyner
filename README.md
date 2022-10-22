@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/analisis/huawei-mate-xs-2-review-opinion-1141461'>Huawei Mate Xs 2, análisis y opinión</a></h4>
+    <a href='https://computerhoy.com/analisis/huawei-mate-xs-2-review-opinion-1141461' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/analisis-huawei-mate-xs-2-2845453.jpg' alt='Huawei Mate Xs 2, análisis y opinión' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/life/cuando-es-11-11-aliexpress-origen-descuentos-ofertas-1143967'>Cuándo es el 11.11 de AliExpress: origen de estos descuentos y ofertas del gigante chino</a></h4>
     <a href='https://computerhoy.com/reportajes/life/cuando-es-11-11-aliexpress-origen-descuentos-ofertas-1143967' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/ilustracion-elementos-tienda-carrito-compra-bolsa-compra-regalos-2850263.jpg' alt='Cuándo es el 11.11 de AliExpress: origen de estos descuentos y ofertas del gigante chino' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/life/aspiradoras-inalambricas-cecotec-mejores-conga-rockstar-1143871'>Aspiradoras inalámbricas Cecotec: estas son las mejores Conga Rockstar que puedes comprar</a></h4>
     <a href='https://computerhoy.com/reportajes/life/aspiradoras-inalambricas-cecotec-mejores-conga-rockstar-1143871' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/hombre-pasando-aspiradora-inalambrica-diferentes-superficies-casa-moderna-2849855.jpg' alt='Aspiradoras inalámbricas Cecotec: estas son las mejores Conga Rockstar que puedes comprar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/bicicleta-camper-solar-tiene-propia-cama-video-1144321'>La bicicleta camper solar, tiene su propia cama (vídeo)</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/bicicleta-camper-solar-tiene-propia-cama-video-1144321' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/verticalimage1666394873291-2850645.jpg' alt='La bicicleta camper solar, tiene su propia cama (vídeo)' />
     </a>
 </div>
 
