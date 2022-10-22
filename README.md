@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/life/cuando-es-11-11-aliexpress-origen-descuentos-ofertas-1143967'>Cuándo es el 11.11 de AliExpress: origen de estos descuentos y ofertas del gigante chino</a></h4>
+    <a href='https://computerhoy.com/reportajes/life/cuando-es-11-11-aliexpress-origen-descuentos-ofertas-1143967' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/ilustracion-elementos-tienda-carrito-compra-bolsa-compra-regalos-2850263.jpg' alt='Cuándo es el 11.11 de AliExpress: origen de estos descuentos y ofertas del gigante chino' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/como-sacar-anillo-atascado-truco-1144323'>Cómo quitarte un anillo que no sale, sin usar productos</a></h4>
     <a href='https://computerhoy.com/noticias/life/como-sacar-anillo-atascado-truco-1144323' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/como-quitarte-anillo-no-sale-usar-productos-2850649.jpg' alt='Cómo quitarte un anillo que no sale, sin usar productos' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/motor/bicicleta-camper-solar-tiene-propia-cama-video-1144321'>La bicicleta camper solar, tiene su propia cama (vídeo)</a></h4>
     <a href='https://computerhoy.com/noticias/motor/bicicleta-camper-solar-tiene-propia-cama-video-1144321' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/verticalimage1666394873291-2850645.jpg' alt='La bicicleta camper solar, tiene su propia cama (vídeo)' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/microsoft-pc-manager-alternativa-ccleaner-1144125'>PC Manager, la nueva app de Microsoft que quiere sustituir a CCleaner</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/microsoft-pc-manager-alternativa-ccleaner-1144125' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/pc-manager-nueva-app-microsoft-quiere-sustituir-ccleaner-2850449.jpg' alt='PC Manager, la nueva app de Microsoft que quiere sustituir a CCleaner' />
     </a>
 </div>
 
