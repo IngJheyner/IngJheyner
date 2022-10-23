@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/puedes-contratar-tarifa-tur-gas-pagina-web-telefono-1144705'>Así puedes contratar la tarifa TUR de gas por página web o por teléfono</a></h4>
+    <a href='https://computerhoy.com/noticias/life/puedes-contratar-tarifa-tur-gas-pagina-web-telefono-1144705' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/tarifa-gas-2851103.jpg' alt='Así puedes contratar la tarifa TUR de gas por página web o por teléfono' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/google-maps-android-auto-puede-enviarte-cualquier-destino-no-quieras-debido-error-1144689'>Google Maps en Android Auto puede enviarte a cualquier destino que no quieras debido a este error</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/google-maps-android-auto-puede-enviarte-cualquier-destino-no-quieras-debido-error-1144689' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/android-auto-2575823.jpg' alt='Google Maps en Android Auto puede enviarte a cualquier destino que no quieras debido a este error' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tutoriales/tecnologia/cuando-activar-desactivar-arranque-rapido-windows-11-1129363'>Cuándo y por qué activar o desactivar el arranque rápido en Windows 11</a></h4>
     <a href='https://computerhoy.com/tutoriales/tecnologia/cuando-activar-desactivar-arranque-rapido-windows-11-1129363' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/windows-11-2822283.jpg' alt='Cuándo y por qué activar o desactivar el arranque rápido en Windows 11' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/analisis/tecnologia/huawei-matebook-x-pro-2022-review-opinion-1144429'>Huawei MateBook X Pro 2022, análisis y opinión</a></h4>
     <a href='https://computerhoy.com/analisis/tecnologia/huawei-matebook-x-pro-2022-review-opinion-1144429' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/huawei-matebook-x-pro-2022-analisis-opinion-2851071.jpg' alt='Huawei MateBook X Pro 2022, análisis y opinión' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/todo-tienes-saber-antes-comprar-fire-tv-1137333'>Todo lo que tienes que saber antes de comprar un Fire TV</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/todo-tienes-saber-antes-comprar-fire-tv-1137333' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/analisis-fire-tv-stick-4k-max-2526575.jpg' alt='Todo lo que tienes que saber antes de comprar un Fire TV' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-tablets-estudiantes-1113743'>Estas son las mejores tablets para estudiantes de 2022</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-tablets-estudiantes-1113743' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/xiaomi-redmi-pad-2850337.jpg' alt='Estas son las mejores tablets para estudiantes de 2022' />
     </a>
 </div>
 
