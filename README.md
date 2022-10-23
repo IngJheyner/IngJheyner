@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/nasa-grupo-16-expertos-fenomeno-ovni-durante-9-meses-1144775'>La NASA presenta al grupo de 16 expertos que estudiarán el fenómeno OVNI durante 9 meses</a></h4>
+    <a href='https://computerhoy.com/noticias/life/nasa-grupo-16-expertos-fenomeno-ovni-durante-9-meses-1144775' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/nasa-presenta-grupo-16-expertos-estudiaran-archivos-ovni-durante-9-meses-2851297.jpg' alt='La NASA presenta al grupo de 16 expertos que estudiarán el fenómeno OVNI durante 9 meses' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/mas-anuncios-app-store-1144773'>Si esta semana comienzas a ver más anuncios en la App Store, no se te ha colado un malware publicitario: es Apple</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/mas-anuncios-app-store-1144773' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/semana-comienzas-ver-anuncios-app-store-no-te-ha-colado-malware-publicitario-apple-2851285.jpg' alt='Si esta semana comienzas a ver más anuncios en la App Store, no se te ha colado un malware publicitario: es Apple' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/accesorios-necesitas-freidora-aire-1141071'>Los accesorios que necesitas para tu freidora de aire</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/accesorios-necesitas-freidora-aire-1141071' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/freidora-aire-toda-familia-philips-tamano-xl-mejores-ofertas-semana-2780243.jpg' alt='Los accesorios que necesitas para tu freidora de aire' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/estas-son-peliculas-marvel-llegaran-disney-plus-2023-1144725'>Estas son las películas de Marvel que llegarán a Disney Plus en 2023</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/estas-son-peliculas-marvel-llegaran-disney-plus-2023-1144725' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/guardianes-galaxia-star-lord-2576779.jpg' alt='Estas son las películas de Marvel que llegarán a Disney Plus en 2023' />
     </a>
 </div>
 
