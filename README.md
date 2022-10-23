@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/todo-debes-saber-antes-comprar-funda-movil-1115591'>Todo lo que debes saber antes de comprar una funda para tu móvil</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/todo-debes-saber-antes-comprar-funda-movil-1115591' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/fundas-iphone-2796879.jpg' alt='Todo lo que debes saber antes de comprar una funda para tu móvil' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/salir-andar-carrera-caminantes-centurion-walkers-reto-1141015'>Si te gusta salir a andar, la Carrera de los Caminantes Centurión te propone un reto</a></h4>
     <a href='https://computerhoy.com/noticias/life/salir-andar-carrera-caminantes-centurion-walkers-reto-1141015' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/te-gusta-salir-andar-carrera-caminante-centurion-te-propone-reto-2844245.jpg' alt='Si te gusta salir a andar, la Carrera de los Caminantes Centurión te propone un reto' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/empresa-turismo-espacial-te-ofrecera-viajes-globo-borde-espacio-partir-2025-1144401'>Esta empresa de turismo espacial te ofrecerá viajes en globo hasta el borde del espacio a partir de 2025</a></h4>
     <a href='https://computerhoy.com/noticias/life/empresa-turismo-espacial-te-ofrecera-viajes-globo-borde-espacio-partir-2025-1144401' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/empresa-turismo-espacial-madrilena-te-llevara-globo-borde-espacio-2850727.jpg' alt='Esta empresa de turismo espacial te ofrecerá viajes en globo hasta el borde del espacio a partir de 2025' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/buen-uso-tecnologia-innovacion-como-nos-ayuda-salvar-planeta-tierra-1139259'>El buen uso de la tecnología e innovación: cómo nos ayuda a salvar el planeta Tierra</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/buen-uso-tecnologia-innovacion-como-nos-ayuda-salvar-planeta-tierra-1139259' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/buen-uso-tecnologia-innovacion-como-nos-ayuda-salvar-planeta-tierra-2850309.jpg' alt='El buen uso de la tecnología e innovación: cómo nos ayuda a salvar el planeta Tierra' />
     </a>
 </div>
 
