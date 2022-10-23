@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/analisis/tecnologia/huawei-matebook-x-pro-2022-review-opinion-1144429'>Huawei MateBook X Pro 2022, análisis y opinión</a></h4>
+    <a href='https://computerhoy.com/analisis/tecnologia/huawei-matebook-x-pro-2022-review-opinion-1144429' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/huawei-matebook-x-pro-2022-analisis-opinion-2851071.jpg' alt='Huawei MateBook X Pro 2022, análisis y opinión' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/todo-tienes-saber-antes-comprar-fire-tv-1137333'>Todo lo que tienes que saber antes de comprar un Fire TV</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/todo-tienes-saber-antes-comprar-fire-tv-1137333' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/analisis-fire-tv-stick-4k-max-2526575.jpg' alt='Todo lo que tienes que saber antes de comprar un Fire TV' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/ahora-sabemos-razon-mosquitos-pican-unas-personas-otras-1144415'>Ahora sabemos la razón por la que los mosquitos pican más a unas personas que a otras</a></h4>
     <a href='https://computerhoy.com/noticias/life/ahora-sabemos-razon-mosquitos-pican-unas-personas-otras-1144415' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/ahora-sabemos-razon-mosquitos-pican-unas-personas-otras-2850743.jpg' alt='Ahora sabemos la razón por la que los mosquitos pican más a unas personas que a otras' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/espectacular-foto-national-geographic-increible-ilusion-optica-1143873'>Esta espectacular foto de National Geographic es una increíble ilusión óptica</a></h4>
-    <a href='https://computerhoy.com/noticias/life/espectacular-foto-national-geographic-increible-ilusion-optica-1143873' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/foto-national-geographic-increible-ilusion-optica-2849711.jpg' alt='Esta espectacular foto de National Geographic es una increíble ilusión óptica' />
     </a>
 </div>
 
