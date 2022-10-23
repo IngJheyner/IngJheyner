@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/todo-tienes-saber-antes-comprar-fire-tv-1137333'>Todo lo que tienes que saber antes de comprar un Fire TV</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/todo-tienes-saber-antes-comprar-fire-tv-1137333' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/analisis-fire-tv-stick-4k-max-2526575.jpg' alt='Todo lo que tienes que saber antes de comprar un Fire TV' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-tablets-estudiantes-1113743'>Estas son las mejores tablets para estudiantes de 2022</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-tablets-estudiantes-1113743' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/xiaomi-redmi-pad-2850337.jpg' alt='Estas son las mejores tablets para estudiantes de 2022' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/cientificos-entrenan-perro-robot-convierta-mejor-portero-mundo-1144419'>Científicos entrenan a un perro robot para que se convierta en el mejor portero del mundo</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/cientificos-entrenan-perro-robot-convierta-mejor-portero-mundo-1144419' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/perro-robot-detiene-disparos-cualquier-portero-liga-espanola-2850755.jpg' alt='Científicos entrenan a un perro robot para que se convierta en el mejor portero del mundo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/ahora-sabemos-razon-mosquitos-pican-unas-personas-otras-1144415'>Ahora sabemos la razón por la que los mosquitos pican más a unas personas que a otras</a></h4>
     <a href='https://computerhoy.com/noticias/life/ahora-sabemos-razon-mosquitos-pican-unas-personas-otras-1144415' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/ahora-sabemos-razon-mosquitos-pican-unas-personas-otras-2850743.jpg' alt='Ahora sabemos la razón por la que los mosquitos pican más a unas personas que a otras' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/espectacular-foto-national-geographic-increible-ilusion-optica-1143873'>Esta espectacular foto de National Geographic es una increíble ilusión óptica</a></h4>
     <a href='https://computerhoy.com/noticias/life/espectacular-foto-national-geographic-increible-ilusion-optica-1143873' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/foto-national-geographic-increible-ilusion-optica-2849711.jpg' alt='Esta espectacular foto de National Geographic es una increíble ilusión óptica' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-tablets-10-pulgadas-puedes-comprar-1127593'>Mejores tablets de 10 pulgadas que puedes comprar en 2022</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-tablets-10-pulgadas-puedes-comprar-1127593' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/tablets-10-pulgadas-2850311.jpg' alt='Mejores tablets de 10 pulgadas que puedes comprar en 2022' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/lista-23-recomendaciones-mantener-ordenador-windows-11-seguro-1143443'>La lista de 23 recomendaciones para mantener tu ordenador Windows 11 seguro</a></h4>
-    <a href='https://computerhoy.com/tutoriales/tecnologia/lista-23-recomendaciones-mantener-ordenador-windows-11-seguro-1143443' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/casi-mitad-pcs-mercado-no-pueden-actualizar-windows-11-eso-gran-problema-2838905.jpg' alt='La lista de 23 recomendaciones para mantener tu ordenador Windows 11 seguro' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/todo-debes-saber-antes-comprar-funda-movil-1115591'>Todo lo que debes saber antes de comprar una funda para tu móvil</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/todo-debes-saber-antes-comprar-funda-movil-1115591' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/fundas-iphone-2796879.jpg' alt='Todo lo que debes saber antes de comprar una funda para tu móvil' />
     </a>
 </div>
 
