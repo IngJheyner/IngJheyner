@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/mas-anuncios-app-store-1144773'>Si esta semana comienzas a ver más anuncios en la App Store, no se te ha colado un malware publicitario: es Apple</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/mas-anuncios-app-store-1144773' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/semana-comienzas-ver-anuncios-app-store-no-te-ha-colado-malware-publicitario-apple-2851285.jpg' alt='Si esta semana comienzas a ver más anuncios en la App Store, no se te ha colado un malware publicitario: es Apple' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/listas/tecnologia/freidoras-sin-aceite-cual-comprar-509813'>Las mejores freidoras sin aceite que puedes comprar en 2022</a></h4>
     <a href='https://computerhoy.com/listas/tecnologia/freidoras-sin-aceite-cual-comprar-509813' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/xiaomi-mi-smart-air-fryer-2411673.jpg' alt='Las mejores freidoras sin aceite que puedes comprar en 2022' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/estas-son-peliculas-marvel-llegaran-disney-plus-2023-1144725'>Estas son las películas de Marvel que llegarán a Disney Plus en 2023</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/estas-son-peliculas-marvel-llegaran-disney-plus-2023-1144725' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/guardianes-galaxia-star-lord-2576779.jpg' alt='Estas son las películas de Marvel que llegarán a Disney Plus en 2023' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/crean-madera-transparente-ecologica-podria-acabar-reemplazando-plastico-1144719'>Crean una madera transparente ecológica que podría acabar reemplazando al plástico</a></h4>
-    <a href='https://computerhoy.com/noticias/life/crean-madera-transparente-ecologica-podria-acabar-reemplazando-plastico-1144719' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/tablones-madera-2851117.jpg' alt='Crean una madera transparente ecológica que podría acabar reemplazando al plástico' />
     </a>
 </div>
 
