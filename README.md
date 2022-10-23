@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/incendio-moai-rapa-nui-isla-pascua-1144777'>Un incendio causa un daño irreparable en numerosos moái de la Isla de Pascua</a></h4>
+    <a href='https://computerhoy.com/noticias/life/incendio-moai-rapa-nui-isla-pascua-1144777' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/incendio-causa-dano-irreparable-numerosos-moai-isla-rapa-nui-2851343.jpg' alt='Un incendio causa un daño irreparable en numerosos moái de la Isla de Pascua' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/nasa-grupo-16-expertos-fenomeno-ovni-durante-9-meses-1144775'>La NASA presenta al grupo de 16 expertos que estudiarán el fenómeno OVNI durante 9 meses</a></h4>
     <a href='https://computerhoy.com/noticias/life/nasa-grupo-16-expertos-fenomeno-ovni-durante-9-meses-1144775' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/nasa-presenta-grupo-16-expertos-estudiaran-archivos-ovni-durante-9-meses-2851297.jpg' alt='La NASA presenta al grupo de 16 expertos que estudiarán el fenómeno OVNI durante 9 meses' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/sound-enhancement-mejora-gratis-sonido-youtube-netflix-hbo-chrome-1144763'>Mejora gratis el sonido de YouTube, Netflix, HBO y cualquier sonido que se reproduzca desde Chrome</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/sound-enhancement-mejora-gratis-sonido-youtube-netflix-hbo-chrome-1144763' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/mejora-gratis-sonido-youtube-netflix-hbo-cualquier-sonido-reproduzca-chrome-2851253.jpg' alt='Mejora gratis el sonido de YouTube, Netflix, HBO y cualquier sonido que se reproduzca desde Chrome' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/accesorios-necesitas-freidora-aire-1141071'>Los accesorios que necesitas para tu freidora de aire</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/accesorios-necesitas-freidora-aire-1141071' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/freidora-aire-toda-familia-philips-tamano-xl-mejores-ofertas-semana-2780243.jpg' alt='Los accesorios que necesitas para tu freidora de aire' />
     </a>
 </div>
 
