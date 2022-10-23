@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/estas-son-peliculas-marvel-llegaran-disney-plus-2023-1144725'>Estas son las películas de Marvel que llegarán a Disney Plus en 2023</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/estas-son-peliculas-marvel-llegaran-disney-plus-2023-1144725' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/guardianes-galaxia-star-lord-2576779.jpg' alt='Estas son las películas de Marvel que llegarán a Disney Plus en 2023' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/crean-madera-transparente-ecologica-podria-acabar-reemplazando-plastico-1144719'>Crean una madera transparente ecológica que podría acabar reemplazando al plástico</a></h4>
+    <a href='https://computerhoy.com/noticias/life/crean-madera-transparente-ecologica-podria-acabar-reemplazando-plastico-1144719' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/tablones-madera-2851117.jpg' alt='Crean una madera transparente ecológica que podría acabar reemplazando al plástico' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/robot-ping-pong-google-pronto-podria-ser-pesadilla-cualquier-jugador-profesional-1144711'>El robot de ping pong de Google que pronto podría ser la pesadilla de cualquier jugador profesional</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/robot-ping-pong-google-pronto-podria-ser-pesadilla-cualquier-jugador-profesional-1144711' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/google-crea-robot-ping-pong-capaz-vencer-casi-cualquier-ser-humano-2851109.jpg' alt='El robot de ping pong de Google que pronto podría ser la pesadilla de cualquier jugador profesional' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/puedes-contratar-tarifa-tur-gas-pagina-web-telefono-1144705'>Así puedes contratar la tarifa TUR de gas por página web o por teléfono</a></h4>
     <a href='https://computerhoy.com/noticias/life/puedes-contratar-tarifa-tur-gas-pagina-web-telefono-1144705' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/tarifa-gas-2851103.jpg' alt='Así puedes contratar la tarifa TUR de gas por página web o por teléfono' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/google-maps-android-auto-puede-enviarte-cualquier-destino-no-quieras-debido-error-1144689'>Google Maps en Android Auto puede enviarte a cualquier destino que no quieras debido a este error</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/google-maps-android-auto-puede-enviarte-cualquier-destino-no-quieras-debido-error-1144689' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/android-auto-2575823.jpg' alt='Google Maps en Android Auto puede enviarte a cualquier destino que no quieras debido a este error' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/cuando-activar-desactivar-arranque-rapido-windows-11-1129363'>Cuándo y por qué activar o desactivar el arranque rápido en Windows 11</a></h4>
-    <a href='https://computerhoy.com/tutoriales/tecnologia/cuando-activar-desactivar-arranque-rapido-windows-11-1129363' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/windows-11-2822283.jpg' alt='Cuándo y por qué activar o desactivar el arranque rápido en Windows 11' />
     </a>
 </div>
 
