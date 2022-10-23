@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/cuando-activar-desactivar-arranque-rapido-windows-11-1129363'>Cuándo y por qué activar o desactivar el arranque rápido en Windows 11</a></h4>
+    <a href='https://computerhoy.com/tutoriales/tecnologia/cuando-activar-desactivar-arranque-rapido-windows-11-1129363' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/windows-11-2822283.jpg' alt='Cuándo y por qué activar o desactivar el arranque rápido en Windows 11' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/errores-no-cometer-hora-comprar-online-1141021'>Errores que no cometer a la hora de comprar online</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/errores-no-cometer-hora-comprar-online-1141021' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/comprando-onine-2844281.jpg' alt='Errores que no cometer a la hora de comprar online' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-tablets-estudiantes-1113743'>Estas son las mejores tablets para estudiantes de 2022</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/mejores-tablets-estudiantes-1113743' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/xiaomi-redmi-pad-2850337.jpg' alt='Estas son las mejores tablets para estudiantes de 2022' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/cientificos-entrenan-perro-robot-convierta-mejor-portero-mundo-1144419'>Científicos entrenan a un perro robot para que se convierta en el mejor portero del mundo</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/cientificos-entrenan-perro-robot-convierta-mejor-portero-mundo-1144419' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/perro-robot-detiene-disparos-cualquier-portero-liga-espanola-2850755.jpg' alt='Científicos entrenan a un perro robot para que se convierta en el mejor portero del mundo' />
     </a>
 </div>
 
