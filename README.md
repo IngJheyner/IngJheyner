@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/accesorios-necesitas-freidora-aire-1141071'>Los accesorios que necesitas para tu freidora de aire</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/accesorios-necesitas-freidora-aire-1141071' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/freidora-aire-toda-familia-philips-tamano-xl-mejores-ofertas-semana-2780243.jpg' alt='Los accesorios que necesitas para tu freidora de aire' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/estas-son-peliculas-marvel-llegaran-disney-plus-2023-1144725'>Estas son las películas de Marvel que llegarán a Disney Plus en 2023</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/estas-son-peliculas-marvel-llegaran-disney-plus-2023-1144725' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/guardianes-galaxia-star-lord-2576779.jpg' alt='Estas son las películas de Marvel que llegarán a Disney Plus en 2023' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/entretenimiento/7-series-peliculas-universos-paralelos-te-haran-dudar-realidad-vives-1142971'>7 series y películas de universos paralelos que te harán dudar sobre la realidad en la que vives</a></h4>
     <a href='https://computerhoy.com/reportajes/entretenimiento/7-series-peliculas-universos-paralelos-te-haran-dudar-realidad-vives-1142971' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/7-series-peliculas-universos-paralelos-te-haran-dudar-realidad-vives-2849145.jpg' alt='7 series y películas de universos paralelos que te harán dudar sobre la realidad en la que vives' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/puedes-contratar-tarifa-tur-gas-pagina-web-telefono-1144705'>Así puedes contratar la tarifa TUR de gas por página web o por teléfono</a></h4>
-    <a href='https://computerhoy.com/noticias/life/puedes-contratar-tarifa-tur-gas-pagina-web-telefono-1144705' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/tarifa-gas-2851103.jpg' alt='Así puedes contratar la tarifa TUR de gas por página web o por teléfono' />
     </a>
 </div>
 
