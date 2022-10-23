@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/listas/tecnologia/freidoras-sin-aceite-cual-comprar-509813'>Las mejores freidoras sin aceite que puedes comprar en 2022</a></h4>
+    <a href='https://computerhoy.com/listas/tecnologia/freidoras-sin-aceite-cual-comprar-509813' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/xiaomi-mi-smart-air-fryer-2411673.jpg' alt='Las mejores freidoras sin aceite que puedes comprar en 2022' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/sound-enhancement-mejora-gratis-sonido-youtube-netflix-hbo-chrome-1144763'>Mejora gratis el sonido de YouTube, Netflix, HBO y cualquier sonido que se reproduzca desde Chrome</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/sound-enhancement-mejora-gratis-sonido-youtube-netflix-hbo-chrome-1144763' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/mejora-gratis-sonido-youtube-netflix-hbo-cualquier-sonido-reproduzca-chrome-2851253.jpg' alt='Mejora gratis el sonido de YouTube, Netflix, HBO y cualquier sonido que se reproduzca desde Chrome' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/accesorios-necesitas-freidora-aire-1141071'>Los accesorios que necesitas para tu freidora de aire</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/accesorios-necesitas-freidora-aire-1141071' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/freidora-aire-toda-familia-philips-tamano-xl-mejores-ofertas-semana-2780243.jpg' alt='Los accesorios que necesitas para tu freidora de aire' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/crean-madera-transparente-ecologica-podria-acabar-reemplazando-plastico-1144719'>Crean una madera transparente ecológica que podría acabar reemplazando al plástico</a></h4>
     <a href='https://computerhoy.com/noticias/life/crean-madera-transparente-ecologica-podria-acabar-reemplazando-plastico-1144719' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/tablones-madera-2851117.jpg' alt='Crean una madera transparente ecológica que podría acabar reemplazando al plástico' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/robot-ping-pong-google-pronto-podria-ser-pesadilla-cualquier-jugador-profesional-1144711'>El robot de ping pong de Google que pronto podría ser la pesadilla de cualquier jugador profesional</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/robot-ping-pong-google-pronto-podria-ser-pesadilla-cualquier-jugador-profesional-1144711' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/google-crea-robot-ping-pong-capaz-vencer-casi-cualquier-ser-humano-2851109.jpg' alt='El robot de ping pong de Google que pronto podría ser la pesadilla de cualquier jugador profesional' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/entretenimiento/7-series-peliculas-universos-paralelos-te-haran-dudar-realidad-vives-1142971'>7 series y películas de universos paralelos que te harán dudar sobre la realidad en la que vives</a></h4>
-    <a href='https://computerhoy.com/reportajes/entretenimiento/7-series-peliculas-universos-paralelos-te-haran-dudar-realidad-vives-1142971' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/7-series-peliculas-universos-paralelos-te-haran-dudar-realidad-vives-2849145.jpg' alt='7 series y películas de universos paralelos que te harán dudar sobre la realidad en la que vives' />
     </a>
 </div>
 
