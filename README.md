@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/ahora-sabemos-razon-mosquitos-pican-unas-personas-otras-1144415'>Ahora sabemos la razón por la que los mosquitos pican más a unas personas que a otras</a></h4>
+    <a href='https://computerhoy.com/noticias/life/ahora-sabemos-razon-mosquitos-pican-unas-personas-otras-1144415' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/ahora-sabemos-razon-mosquitos-pican-unas-personas-otras-2850743.jpg' alt='Ahora sabemos la razón por la que los mosquitos pican más a unas personas que a otras' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/espectacular-foto-national-geographic-increible-ilusion-optica-1143873'>Esta espectacular foto de National Geographic es una increíble ilusión óptica</a></h4>
+    <a href='https://computerhoy.com/noticias/life/espectacular-foto-national-geographic-increible-ilusion-optica-1143873' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/foto-national-geographic-increible-ilusion-optica-2849711.jpg' alt='Esta espectacular foto de National Geographic es una increíble ilusión óptica' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-tablets-10-pulgadas-puedes-comprar-1127593'>Mejores tablets de 10 pulgadas que puedes comprar en 2022</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-tablets-10-pulgadas-puedes-comprar-1127593' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/tablets-10-pulgadas-2850311.jpg' alt='Mejores tablets de 10 pulgadas que puedes comprar en 2022' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/lista-23-recomendaciones-mantener-ordenador-windows-11-seguro-1143443'>La lista de 23 recomendaciones para mantener tu ordenador Windows 11 seguro</a></h4>
+    <a href='https://computerhoy.com/tutoriales/tecnologia/lista-23-recomendaciones-mantener-ordenador-windows-11-seguro-1143443' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/casi-mitad-pcs-mercado-no-pueden-actualizar-windows-11-eso-gran-problema-2838905.jpg' alt='La lista de 23 recomendaciones para mantener tu ordenador Windows 11 seguro' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/todo-debes-saber-antes-comprar-funda-movil-1115591'>Todo lo que debes saber antes de comprar una funda para tu móvil</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/todo-debes-saber-antes-comprar-funda-movil-1115591' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/fundas-iphone-2796879.jpg' alt='Todo lo que debes saber antes de comprar una funda para tu móvil' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/salir-andar-carrera-caminantes-centurion-walkers-reto-1141015'>Si te gusta salir a andar, la Carrera de los Caminantes Centurión te propone un reto</a></h4>
-    <a href='https://computerhoy.com/noticias/life/salir-andar-carrera-caminantes-centurion-walkers-reto-1141015' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/te-gusta-salir-andar-carrera-caminante-centurion-te-propone-reto-2844245.jpg' alt='Si te gusta salir a andar, la Carrera de los Caminantes Centurión te propone un reto' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/dia-recibiras-alerta-movil-como-parte-pruebas-sistema-emergencias-nacional-1144413'>Este día recibirás una alerta en tu móvil como parte de las pruebas del sistema de emergencias nacional</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/dia-recibiras-alerta-movil-como-parte-pruebas-sistema-emergencias-nacional-1144413' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/sistema-emergencias-nacional-2850733.jpg' alt='Este día recibirás una alerta en tu móvil como parte de las pruebas del sistema de emergencias nacional' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/donde-comprar-ipad-pro-m1-barato-1144055'>iPad Pro M1: dónde comprarlo al mejor precio ahora que hay nuevo iPad Pro con M2</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/donde-comprar-ipad-pro-m1-barato-1144055' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/08/apple-ipad-pro-2020-analisis-opinion-2030021.jpg' alt='iPad Pro M1: dónde comprarlo al mejor precio ahora que hay nuevo iPad Pro con M2' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/empresa-turismo-espacial-te-ofrecera-viajes-globo-borde-espacio-partir-2025-1144401'>Esta empresa de turismo espacial te ofrecerá viajes en globo hasta el borde del espacio a partir de 2025</a></h4>
-    <a href='https://computerhoy.com/noticias/life/empresa-turismo-espacial-te-ofrecera-viajes-globo-borde-espacio-partir-2025-1144401' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/empresa-turismo-espacial-madrilena-te-llevara-globo-borde-espacio-2850727.jpg' alt='Esta empresa de turismo espacial te ofrecerá viajes en globo hasta el borde del espacio a partir de 2025' />
     </a>
 </div>
 
