@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/errores-no-cometer-hora-comprar-online-1141021'>Errores que no cometer a la hora de comprar online</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/errores-no-cometer-hora-comprar-online-1141021' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/comprando-onine-2844281.jpg' alt='Errores que no cometer a la hora de comprar online' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/analisis/tecnologia/huawei-matebook-x-pro-2022-review-opinion-1144429'>Huawei MateBook X Pro 2022, análisis y opinión</a></h4>
     <a href='https://computerhoy.com/analisis/tecnologia/huawei-matebook-x-pro-2022-review-opinion-1144429' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/huawei-matebook-x-pro-2022-analisis-opinion-2851071.jpg' alt='Huawei MateBook X Pro 2022, análisis y opinión' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/cientificos-entrenan-perro-robot-convierta-mejor-portero-mundo-1144419'>Científicos entrenan a un perro robot para que se convierta en el mejor portero del mundo</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/cientificos-entrenan-perro-robot-convierta-mejor-portero-mundo-1144419' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/perro-robot-detiene-disparos-cualquier-portero-liga-espanola-2850755.jpg' alt='Científicos entrenan a un perro robot para que se convierta en el mejor portero del mundo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/ahora-sabemos-razon-mosquitos-pican-unas-personas-otras-1144415'>Ahora sabemos la razón por la que los mosquitos pican más a unas personas que a otras</a></h4>
-    <a href='https://computerhoy.com/noticias/life/ahora-sabemos-razon-mosquitos-pican-unas-personas-otras-1144415' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/ahora-sabemos-razon-mosquitos-pican-unas-personas-otras-2850743.jpg' alt='Ahora sabemos la razón por la que los mosquitos pican más a unas personas que a otras' />
     </a>
 </div>
 
