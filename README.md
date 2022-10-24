@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/redmi-lanza-nuevos-televisores-gamers-120-hz-como-tasa-refresco-diagonales-75-pulgadas-1145239'>Redmi lanza nuevos televisores para gamers: 120 Hz como tasa de refresco y diagonales de hasta 75 pulgadas</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/redmi-lanza-nuevos-televisores-gamers-120-hz-como-tasa-refresco-diagonales-75-pulgadas-1145239' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/redmi-lanza-nuevos-televisores-gamers-120-hz-como-tasa-refresco-diagonales-75-pulgadas-2852139.jpg' alt='Redmi lanza nuevos televisores para gamers: 120 Hz como tasa de refresco y diagonales de hasta 75 pulgadas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/snapdragon-870-pantalla-120-hz-chollo-realme-pone-android-gama-alta-tiro-cualquiera-1143937'>Snapdragon 870 y pantalla 120 Hz: este chollo de realme pone un Android de gama alta a tiro de cualquiera</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/snapdragon-870-pantalla-120-hz-chollo-realme-pone-android-gama-alta-tiro-cualquiera-1143937' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/realme-gt-neo-2-analisis-opinion-2533433.jpg' alt='Snapdragon 870 y pantalla 120 Hz: este chollo de realme pone un Android de gama alta a tiro de cualquiera' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/podras-utilizar-desbloqueo-facial-pagar-google-pixel-7-pero-solo-vives-region-1145215'>Podrás utilizar el desbloqueo facial para pagar con el Google Pixel 7, pero solo si vives en esta región</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/podras-utilizar-desbloqueo-facial-pagar-google-pixel-7-pero-solo-vives-region-1145215' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/analisis-pixel-7-pro-2839679.jpg' alt='Podrás utilizar el desbloqueo facial para pagar con el Google Pixel 7, pero solo si vives en esta región' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/metaverso-cerrara-2025-aseguran-expertos-tema-1145211'>El metaverso cerrará en 2025, aseguran expertos en el tema</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/metaverso-cerrara-2025-aseguran-expertos-tema-1145211' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/metaverso-2548333.jpg' alt='El metaverso cerrará en 2025, aseguran expertos en el tema' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/whatsapp-no-funciona-problemas-errores-solucion-909175'>¿WhatsApp no funciona o da problemas? Los errores más frecuentes y su solución</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/whatsapp-no-funciona-problemas-errores-solucion-909175' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/whatsapp-alterado-2404291.jpg' alt='¿WhatsApp no funciona o da problemas? Los errores más frecuentes y su solución' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/listas/tecnologia/mejores-alternativas-autenticador-google-estar-siempre-seguro-1108485'>Las mejores alternativas al autenticador de Google para estar siempre seguro</a></h4>
-    <a href='https://computerhoy.com/listas/tecnologia/mejores-alternativas-autenticador-google-estar-siempre-seguro-1108485' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/mejores-alternativas-autenticador-google-estar-siempre-seguro-2785629.jpg' alt='Las mejores alternativas al autenticador de Google para estar siempre seguro' />
     </a>
 </div>
 
