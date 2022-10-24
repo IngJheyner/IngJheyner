@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/netflix-estrenos-temporadas-completas-alternativas-1145331'>En Netflix confían en seguir lanzando las temporadas de golpe, pero también están haciendo pruebas</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/netflix-estrenos-temporadas-completas-alternativas-1145331' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/netflix-confian-seguir-lanzando-temporadas-golpe-pero-tambien-estan-haciendo-pruebas-2852451.jpg' alt='En Netflix confían en seguir lanzando las temporadas de golpe, pero también están haciendo pruebas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/sentenciados-total-45-meses-prision-defraudar-600000-euros-vender-suscripciones-iptv-piratas-1145321'>Sentenciados a un total de 45 meses de prisión por defraudar más de 600.000 euros por vender suscripciones IPTV piratas</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/sentenciados-total-45-meses-prision-defraudar-600000-euros-vender-suscripciones-iptv-piratas-1145321' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/iptv-2852443.jpg' alt='Sentenciados a un total de 45 meses de prisión por defraudar más de 600.000 euros por vender suscripciones IPTV piratas' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/redmi-lanza-nuevos-televisores-gamers-120-hz-como-tasa-refresco-diagonales-75-pulgadas-1145239'>Redmi lanza nuevos televisores para gamers: 120 Hz como tasa de refresco y diagonales de hasta 75 pulgadas</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/redmi-lanza-nuevos-televisores-gamers-120-hz-como-tasa-refresco-diagonales-75-pulgadas-1145239' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/redmi-lanza-nuevos-televisores-gamers-120-hz-como-tasa-refresco-diagonales-75-pulgadas-2852139.jpg' alt='Redmi lanza nuevos televisores para gamers: 120 Hz como tasa de refresco y diagonales de hasta 75 pulgadas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/snapdragon-870-pantalla-120-hz-chollo-realme-pone-android-gama-alta-tiro-cualquiera-1143937'>Snapdragon 870 y pantalla 120 Hz: este chollo de realme pone un Android de gama alta a tiro de cualquiera</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/snapdragon-870-pantalla-120-hz-chollo-realme-pone-android-gama-alta-tiro-cualquiera-1143937' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/realme-gt-neo-2-analisis-opinion-2533433.jpg' alt='Snapdragon 870 y pantalla 120 Hz: este chollo de realme pone un Android de gama alta a tiro de cualquiera' />
     </a>
 </div>
 
