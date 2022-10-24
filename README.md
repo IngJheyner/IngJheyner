@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/tablet-barata-samsung-ahora-cuesta-menos-200-euros-te-envian-gratis-1143927'>Esta tablet barata de Samsung ahora lo es más: cuesta menos de 200 euros y te la envían gratis</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/tablet-barata-samsung-ahora-cuesta-menos-200-euros-te-envian-gratis-1143927' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/samsung-galaxy-a8-2849809.jpg' alt='Esta tablet barata de Samsung ahora lo es más: cuesta menos de 200 euros y te la envían gratis' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/podras-ver-eclipse-solar-parcial-25-octubre-persona-online-1145005'>Así podrás ver el eclipse solar parcial del 25 de octubre en persona o vía online</a></h4>
+    <a href='https://computerhoy.com/noticias/life/podras-ver-eclipse-solar-parcial-25-octubre-persona-online-1145005' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/podras-ver-eclipse-solar-parcial-25-octubre-persona-online-2851605.jpg' alt='Así podrás ver el eclipse solar parcial del 25 de octubre en persona o vía online' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/intel-acaba-romper-record-overclock-mejor-procesador-13a-gen-1144989'>Intel acaba de romper el récord de overclock con su mejor procesador de 13ª Gen</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/intel-acaba-romper-record-overclock-mejor-procesador-13a-gen-1144989' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/intel-core-13a-generacion-ya-estan-aqui-arquitectura-raptor-lake-prometen-41-rendimiento-2826177.jpg' alt='Intel acaba de romper el récord de overclock con su mejor procesador de 13ª Gen' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/analisis/tecnologia/irobot-roomba-j7-analisis-opinion-1144761'>iRobot Roomba j7+, análisis y opinión</a></h4>
     <a href='https://computerhoy.com/analisis/tecnologia/irobot-roomba-j7-analisis-opinion-1144761' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/roomba-j7-portada-2851337.jpg' alt='iRobot Roomba j7+, análisis y opinión' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/life/mejores-emisores-termicos-bajo-consumo-modelos-ofertas-descuentos-1144771'>Emisores térmicos de bajo consumo: estos son los mejores que puedes comprar</a></h4>
-    <a href='https://computerhoy.com/reportajes/life/mejores-emisores-termicos-bajo-consumo-modelos-ofertas-descuentos-1144771' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/gato-descansando-encima-radiador-2851295.jpg' alt='Emisores térmicos de bajo consumo: estos son los mejores que puedes comprar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/34-noticias-tecnologia-comenzar-manana-informado-ultimo-1144955'>34 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/34-noticias-tecnologia-comenzar-manana-informado-ultimo-1144955' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/34-noticias-tecnologia-comenzar-manana-informado-ultimo-2851519.jpg' alt='34 noticias de tecnología para comenzar la mañana informado de lo último' />
     </a>
 </div>
 
