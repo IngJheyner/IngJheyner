@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/gaming/cuidado-nvidia-rtx-4090-cable-alimentacion-puede-explotar-romper-grafica-1145141'>Cuidado con las NVIDIA RTX 4090: el cable de alimentación puede explotar y romper tu gráfica</a></h4>
+    <a href='https://computerhoy.com/noticias/gaming/cuidado-nvidia-rtx-4090-cable-alimentacion-puede-explotar-romper-grafica-1145141' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/nvidia-rtx-4090-2831907.jpg' alt='Cuidado con las NVIDIA RTX 4090: el cable de alimentación puede explotar y romper tu gráfica' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/funciona-camera-assistant-nueva-app-samsung-mejorar-fotos-1145139'>Así funciona Camera Assistant, la nueva app de Samsung para mejorar tus fotos</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/funciona-camera-assistant-nueva-app-samsung-mejorar-fotos-1145139' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/samsung-galaxy-s22-analisis-opinion-2627223.jpg' alt='Así funciona Camera Assistant, la nueva app de Samsung para mejorar tus fotos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/serie-redmi-note-12-fecha-lanzamiento-algunas-especificaciones-desveladas-1145113'>Serie Redmi Note 12: fecha de lanzamiento y algunas de sus especificaciones desveladas</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/serie-redmi-note-12-fecha-lanzamiento-algunas-especificaciones-desveladas-1145113' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/serie-redmi-note-12-fecha-lanzamiento-algunas-especificaciones-desveladas-2851877.jpg' alt='Serie Redmi Note 12: fecha de lanzamiento y algunas de sus especificaciones desveladas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/sera-superprocesador-apple-m2-extreme-mac-pro-48-nucleos-gpu-top-1145099'>Así será el superprocesador Apple M2 Extreme para los Mac Pro: 48 núcleos y GPU top</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/sera-superprocesador-apple-m2-extreme-mac-pro-48-nucleos-gpu-top-1145099' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/11/mac-pro.jpg' alt='Así será el superprocesador Apple M2 Extreme para los Mac Pro: 48 núcleos y GPU top' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/pluto-tv-no-deja-crecer-multiplica-canales-series-peliculas-gratis-1145059'>Pluto TV no deja de crecer y multiplica sus canales de series y películas gratis</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/pluto-tv-no-deja-crecer-multiplica-canales-series-peliculas-gratis-1145059' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/pluto-tv-2851815.jpg' alt='Pluto TV no deja de crecer y multiplica sus canales de series y películas gratis' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/amazon-liquidacion-correas-loop-deportiva-apple-watch-1145085'>Amazon está de liquidación en estas correas Loop deportivas oficiales para el Apple Watch</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/amazon-liquidacion-correas-loop-deportiva-apple-watch-1145085' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/correas-apple-watch-loop-deportiva-apple-2851799.jpg' alt='Amazon está de liquidación en estas correas Loop deportivas oficiales para el Apple Watch' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/gobierno-pone-marcha-pruebas-aviso-emergencias-alert-puedes-recibir-smartphone-1145051'>El Gobierno pone en marcha las pruebas de aviso de emergencias ES-Alert que puedes recibir en tu smartphone</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/gobierno-pone-marcha-pruebas-aviso-emergencias-alert-puedes-recibir-smartphone-1145051' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/como-saber-recibiras-aviso-emergencias-alert-movil-android-iphone-2851717.jpg' alt='El Gobierno pone en marcha las pruebas de aviso de emergencias ES-Alert que puedes recibir en tu smartphone' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/todo-llega-windows-11-actualizacion-22h2-1145057'>Todo esto llega a Windows 11 con la actualización 22H2</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/todo-llega-windows-11-actualizacion-22h2-1145057' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/windows-11-22h2-2711631.jpg' alt='Todo esto llega a Windows 11 con la actualización 22H2' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/tablet-barata-samsung-ahora-cuesta-menos-200-euros-te-envian-gratis-1143927'>Esta tablet barata de Samsung ahora lo es más: cuesta menos de 200 euros y te la envían gratis</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/tablet-barata-samsung-ahora-cuesta-menos-200-euros-te-envian-gratis-1143927' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/samsung-galaxy-a8-2849809.jpg' alt='Esta tablet barata de Samsung ahora lo es más: cuesta menos de 200 euros y te la envían gratis' />
     </a>
 </div>
 
