@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/podras-utilizar-desbloqueo-facial-pagar-google-pixel-7-pero-solo-vives-region-1145215'>Podrás utilizar el desbloqueo facial para pagar con el Google Pixel 7, pero solo si vives en esta región</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/podras-utilizar-desbloqueo-facial-pagar-google-pixel-7-pero-solo-vives-region-1145215' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/analisis-pixel-7-pro-2839679.jpg' alt='Podrás utilizar el desbloqueo facial para pagar con el Google Pixel 7, pero solo si vives en esta región' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/nuevo-realme-10-pro-5g-llegaria-mismo-ano-diseno-propio-gama-alta-1145191'>El nuevo realme 10 Pro+ 5G llegaría este mismo año con un diseño propio de la gama alta</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/nuevo-realme-10-pro-5g-llegaria-mismo-ano-diseno-propio-gama-alta-1145191' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/nuevo-realme-10-pro-5g-llegaria-mismo-ano-diseno-propio-gama-alta-2852069.jpg' alt='El nuevo realme 10 Pro+ 5G llegaría este mismo año con un diseño propio de la gama alta' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/listas/tecnologia/mejores-alternativas-autenticador-google-estar-siempre-seguro-1108485'>Las mejores alternativas al autenticador de Google para estar siempre seguro</a></h4>
     <a href='https://computerhoy.com/listas/tecnologia/mejores-alternativas-autenticador-google-estar-siempre-seguro-1108485' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/mejores-alternativas-autenticador-google-estar-siempre-seguro-2785629.jpg' alt='Las mejores alternativas al autenticador de Google para estar siempre seguro' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/gaming/steam-ha-roto-record-historico-pc-nunca-antes-tantos-jugadores-conectaron-vez-1145189'>Steam ha roto un récord histórico de PC: nunca antes tantos jugadores se conectaron a la vez</a></h4>
-    <a href='https://computerhoy.com/noticias/gaming/steam-ha-roto-record-historico-pc-nunca-antes-tantos-jugadores-conectaron-vez-1145189' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/galeria-review-steam-deck-2704053.jpg' alt='Steam ha roto un récord histórico de PC: nunca antes tantos jugadores se conectaron a la vez' />
     </a>
 </div>
 
