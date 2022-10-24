@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/samsung-galaxy-s22-televisor-samsung-4k-hdr-43-pulgadas-gratis-oferta-1145339'>Samsung Galaxy S22 con televisor Samsung 4K HDR de 43 pulgadas gratis valorado en 519 euros, todo por 859 euros</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/samsung-galaxy-s22-televisor-samsung-4k-hdr-43-pulgadas-gratis-oferta-1145339' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/samsung-galaxy-s22-859-euros-televisor-4k-hdr-43-pulgadas-gratis-valorado-519-euros-2852463.jpg' alt='Samsung Galaxy S22 con televisor Samsung 4K HDR de 43 pulgadas gratis valorado en 519 euros, todo por 859 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/9-motivos-usar-monitor-modo-vertical-1145251'>Los 9 motivos por los que usar tu monitor en modo vertical</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/9-motivos-usar-monitor-modo-vertical-1145251' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/monitor-vertical-2654285.jpg' alt='Los 9 motivos por los que usar tu monitor en modo vertical' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/apple-tv-apple-music-apple-one-subida-precio-cuotas-espana-1145335'>Apple TV+, Apple Music y Apple One acaban de subir de precio en España</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/apple-tv-apple-music-apple-one-subida-precio-cuotas-espana-1145335' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/apple-tv-apple-music-apple-one-acaban-subir-precio-espana-2852457.jpg' alt='Apple TV+, Apple Music y Apple One acaban de subir de precio en España' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/sentenciados-total-45-meses-prision-defraudar-600000-euros-vender-suscripciones-iptv-piratas-1145321'>Sentenciados a un total de 45 meses de prisión por defraudar más de 600.000 euros por vender suscripciones IPTV piratas</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/sentenciados-total-45-meses-prision-defraudar-600000-euros-vender-suscripciones-iptv-piratas-1145321' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/iptv-2852443.jpg' alt='Sentenciados a un total de 45 meses de prisión por defraudar más de 600.000 euros por vender suscripciones IPTV piratas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/dgt-mete-pata-twitter-ultimo-reto-viral-1145319'>La DGT "mete la pata" en Twitter con su último reto viral</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/dgt-mete-pata-twitter-ultimo-reto-viral-1145319' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/dgt-2852437.jpg' alt='La DGT "mete la pata" en Twitter con su último reto viral' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/comision-europea-plantea-prohibir-mineria-criptomonedas-ahorrar-energia-1145317'>La Comisión Europea se plantea prohibir la minería de criptomonedas para ahorrar energía</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/comision-europea-plantea-prohibir-mineria-criptomonedas-ahorrar-energia-1145317' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/comision-europa-plantea-prohibir-mineria-criptomonedas-ahorrar-energia-invierno-2852435.jpg' alt='La Comisión Europea se plantea prohibir la minería de criptomonedas para ahorrar energía' />
     </a>
 </div>
 
