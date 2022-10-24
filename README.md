@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/apple-tv-apple-music-apple-one-subida-precio-cuotas-espana-1145335'>Apple TV+, Apple Music y Apple One acaban de subir de precio en España</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/apple-tv-apple-music-apple-one-subida-precio-cuotas-espana-1145335' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/apple-tv-apple-music-apple-one-acaban-subir-precio-espana-2852457.jpg' alt='Apple TV+, Apple Music y Apple One acaban de subir de precio en España' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/netflix-estrenos-temporadas-completas-alternativas-1145331'>En Netflix confían en seguir lanzando las temporadas de golpe, pero también están haciendo pruebas</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/netflix-estrenos-temporadas-completas-alternativas-1145331' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/netflix-confian-seguir-lanzando-temporadas-golpe-pero-tambien-estan-haciendo-pruebas-2852451.jpg' alt='En Netflix confían en seguir lanzando las temporadas de golpe, pero también están haciendo pruebas' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/comision-europea-plantea-prohibir-mineria-criptomonedas-ahorrar-energia-1145317'>La Comisión Europea se plantea prohibir la minería de criptomonedas para ahorrar energía</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/comision-europea-plantea-prohibir-mineria-criptomonedas-ahorrar-energia-1145317' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/comision-europa-plantea-prohibir-mineria-criptomonedas-ahorrar-energia-invierno-2852435.jpg' alt='La Comisión Europea se plantea prohibir la minería de criptomonedas para ahorrar energía' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/redmi-lanza-nuevos-televisores-gamers-120-hz-como-tasa-refresco-diagonales-75-pulgadas-1145239'>Redmi lanza nuevos televisores para gamers: 120 Hz como tasa de refresco y diagonales de hasta 75 pulgadas</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/redmi-lanza-nuevos-televisores-gamers-120-hz-como-tasa-refresco-diagonales-75-pulgadas-1145239' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/redmi-lanza-nuevos-televisores-gamers-120-hz-como-tasa-refresco-diagonales-75-pulgadas-2852139.jpg' alt='Redmi lanza nuevos televisores para gamers: 120 Hz como tasa de refresco y diagonales de hasta 75 pulgadas' />
     </a>
 </div>
 
