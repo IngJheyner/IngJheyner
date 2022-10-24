@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/34-noticias-tecnologia-comenzar-manana-informado-ultimo-1144955'>34 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/34-noticias-tecnologia-comenzar-manana-informado-ultimo-1144955' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/34-noticias-tecnologia-comenzar-manana-informado-ultimo-2851519.jpg' alt='34 noticias de tecnología para comenzar la mañana informado de lo último' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/directo-mejores-ofertas-black-friday-1144767'>En directo: Las mejores ofertas de Black Friday</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/directo-mejores-ofertas-black-friday-1144767' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/portada-directo-black-friday-2851279.jpg' alt='En directo: Las mejores ofertas de Black Friday' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/incendio-moai-rapa-nui-isla-pascua-1144777'>Un incendio causa un daño irreparable en numerosos moái de la Isla de Pascua</a></h4>
     <a href='https://computerhoy.com/noticias/life/incendio-moai-rapa-nui-isla-pascua-1144777' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/incendio-causa-dano-irreparable-numerosos-moai-isla-rapa-nui-2851343.jpg' alt='Un incendio causa un daño irreparable en numerosos moái de la Isla de Pascua' />
@@ -58,9 +74,9 @@
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/nasa-grupo-16-expertos-fenomeno-ovni-durante-9-meses-1144775'>La NASA presenta al grupo de 16 expertos que estudiarán el fenómeno OVNI durante 9 meses</a></h4>
+    <h4><a href='https://computerhoy.com/noticias/life/nasa-grupo-16-expertos-fenomeno-ovni-durante-9-meses-1144775'>La NASA presenta el grupo de 16 expertos que estudiarán el fenómeno OVNI durante 9 meses</a></h4>
     <a href='https://computerhoy.com/noticias/life/nasa-grupo-16-expertos-fenomeno-ovni-durante-9-meses-1144775' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/nasa-presenta-grupo-16-expertos-estudiaran-archivos-ovni-durante-9-meses-2851297.jpg' alt='La NASA presenta al grupo de 16 expertos que estudiarán el fenómeno OVNI durante 9 meses' />
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/nasa-presenta-grupo-16-expertos-estudiaran-archivos-ovni-durante-9-meses-2851297.jpg' alt='La NASA presenta el grupo de 16 expertos que estudiarán el fenómeno OVNI durante 9 meses' />
     </a>
 </div>
 
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/mas-anuncios-app-store-1144773'>Si esta semana comienzas a ver más anuncios en la App Store, no se te ha colado un malware publicitario: es Apple</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/mas-anuncios-app-store-1144773' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/semana-comienzas-ver-anuncios-app-store-no-te-ha-colado-malware-publicitario-apple-2851285.jpg' alt='Si esta semana comienzas a ver más anuncios en la App Store, no se te ha colado un malware publicitario: es Apple' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/listas/tecnologia/freidoras-sin-aceite-cual-comprar-509813'>Las mejores freidoras sin aceite que puedes comprar en 2022</a></h4>
-    <a href='https://computerhoy.com/listas/tecnologia/freidoras-sin-aceite-cual-comprar-509813' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/xiaomi-mi-smart-air-fryer-2411673.jpg' alt='Las mejores freidoras sin aceite que puedes comprar en 2022' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/sound-enhancement-mejora-gratis-sonido-youtube-netflix-hbo-chrome-1144763'>Mejora gratis el sonido de YouTube, Netflix, HBO y cualquier sonido que se reproduzca desde Chrome</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/sound-enhancement-mejora-gratis-sonido-youtube-netflix-hbo-chrome-1144763' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/mejora-gratis-sonido-youtube-netflix-hbo-cualquier-sonido-reproduzca-chrome-2851253.jpg' alt='Mejora gratis el sonido de YouTube, Netflix, HBO y cualquier sonido que se reproduzca desde Chrome' />
     </a>
 </div>
 
