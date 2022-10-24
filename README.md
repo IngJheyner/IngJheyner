@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/sentenciados-total-45-meses-prision-defraudar-600000-euros-vender-suscripciones-iptv-piratas-1145321'>Sentenciados a un total de 45 meses de prisión por defraudar más de 600.000 euros por vender suscripciones IPTV piratas</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/sentenciados-total-45-meses-prision-defraudar-600000-euros-vender-suscripciones-iptv-piratas-1145321' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/iptv-2852443.jpg' alt='Sentenciados a un total de 45 meses de prisión por defraudar más de 600.000 euros por vender suscripciones IPTV piratas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/dgt-mete-pata-twitter-ultimo-reto-viral-1145319'>La DGT "mete la pata" en Twitter con su último reto viral</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/dgt-mete-pata-twitter-ultimo-reto-viral-1145319' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/dgt-2852437.jpg' alt='La DGT "mete la pata" en Twitter con su último reto viral' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/comision-europea-plantea-prohibir-mineria-criptomonedas-ahorrar-energia-1145317'>La Comisión Europea se plantea prohibir la minería de criptomonedas para ahorrar energía</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/comision-europea-plantea-prohibir-mineria-criptomonedas-ahorrar-energia-1145317' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/comision-europa-plantea-prohibir-mineria-criptomonedas-ahorrar-energia-invierno-2852435.jpg' alt='La Comisión Europea se plantea prohibir la minería de criptomonedas para ahorrar energía' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/redmi-lanza-nuevos-televisores-gamers-120-hz-como-tasa-refresco-diagonales-75-pulgadas-1145239'>Redmi lanza nuevos televisores para gamers: 120 Hz como tasa de refresco y diagonales de hasta 75 pulgadas</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/redmi-lanza-nuevos-televisores-gamers-120-hz-como-tasa-refresco-diagonales-75-pulgadas-1145239' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/redmi-lanza-nuevos-televisores-gamers-120-hz-como-tasa-refresco-diagonales-75-pulgadas-2852139.jpg' alt='Redmi lanza nuevos televisores para gamers: 120 Hz como tasa de refresco y diagonales de hasta 75 pulgadas' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/snapdragon-870-pantalla-120-hz-chollo-realme-pone-android-gama-alta-tiro-cualquiera-1143937'>Snapdragon 870 y pantalla 120 Hz: este chollo de realme pone un Android de gama alta a tiro de cualquiera</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/snapdragon-870-pantalla-120-hz-chollo-realme-pone-android-gama-alta-tiro-cualquiera-1143937' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/realme-gt-neo-2-analisis-opinion-2533433.jpg' alt='Snapdragon 870 y pantalla 120 Hz: este chollo de realme pone un Android de gama alta a tiro de cualquiera' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/podras-utilizar-desbloqueo-facial-pagar-google-pixel-7-pero-solo-vives-region-1145215'>Podrás utilizar el desbloqueo facial para pagar con el Google Pixel 7, pero solo si vives en esta región</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/podras-utilizar-desbloqueo-facial-pagar-google-pixel-7-pero-solo-vives-region-1145215' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/analisis-pixel-7-pro-2839679.jpg' alt='Podrás utilizar el desbloqueo facial para pagar con el Google Pixel 7, pero solo si vives en esta región' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/nuevo-realme-10-pro-5g-llegaria-mismo-ano-diseno-propio-gama-alta-1145191'>El nuevo realme 10 Pro+ 5G llegaría este mismo año con un diseño propio de la gama alta</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/nuevo-realme-10-pro-5g-llegaria-mismo-ano-diseno-propio-gama-alta-1145191' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/nuevo-realme-10-pro-5g-llegaria-mismo-ano-diseno-propio-gama-alta-2852069.jpg' alt='El nuevo realme 10 Pro+ 5G llegaría este mismo año con un diseño propio de la gama alta' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/metaverso-cerrara-2025-aseguran-expertos-tema-1145211'>El metaverso cerrará en 2025, aseguran expertos en el tema</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/metaverso-cerrara-2025-aseguran-expertos-tema-1145211' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/metaverso-2548333.jpg' alt='El metaverso cerrará en 2025, aseguran expertos en el tema' />
     </a>
 </div>
 
