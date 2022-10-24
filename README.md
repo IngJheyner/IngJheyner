@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/tdt-espana-seguira-siendo-verguenza-como-minimo-2024-1145161'>La TDT en España seguirá siendo una vergüenza como mínimo hasta 2024</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/tdt-espana-seguira-siendo-verguenza-como-minimo-2024-1145161' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/tdt-espana-seguira-siendo-verguenza-como-minimo-2024-2852053.jpg' alt='La TDT en España seguirá siendo una vergüenza como mínimo hasta 2024' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/gaming/cuidado-nvidia-rtx-4090-cable-alimentacion-puede-explotar-romper-grafica-1145141'>Cuidado con las NVIDIA RTX 4090: el cable de alimentación puede explotar y romper tu gráfica</a></h4>
     <a href='https://computerhoy.com/noticias/gaming/cuidado-nvidia-rtx-4090-cable-alimentacion-puede-explotar-romper-grafica-1145141' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/nvidia-rtx-4090-2831907.jpg' alt='Cuidado con las NVIDIA RTX 4090: el cable de alimentación puede explotar y romper tu gráfica' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/sera-superprocesador-apple-m2-extreme-mac-pro-48-nucleos-gpu-top-1145099'>Así será el superprocesador Apple M2 Extreme para los Mac Pro: 48 núcleos y GPU top</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/sera-superprocesador-apple-m2-extreme-mac-pro-48-nucleos-gpu-top-1145099' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/11/mac-pro.jpg' alt='Así será el superprocesador Apple M2 Extreme para los Mac Pro: 48 núcleos y GPU top' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/pluto-tv-no-deja-crecer-multiplica-canales-series-peliculas-gratis-1145059'>Pluto TV no deja de crecer y multiplica sus canales de series y películas gratis</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/pluto-tv-no-deja-crecer-multiplica-canales-series-peliculas-gratis-1145059' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/pluto-tv-2851815.jpg' alt='Pluto TV no deja de crecer y multiplica sus canales de series y películas gratis' />
     </a>
 </div>
 
