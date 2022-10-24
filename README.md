@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/firefox-android-actualiza-caracteristica-usuarios-chrome-llevan-anos-esperando-1145181'>Firefox para Android se actualiza con una característica que los usuarios de Chrome llevan años esperando</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/firefox-android-actualiza-caracteristica-usuarios-chrome-llevan-anos-esperando-1145181' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/06/chrome-firefox.jpg' alt='Firefox para Android se actualiza con una característica que los usuarios de Chrome llevan años esperando' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/nuevo-realme-10-pro-5g-llegaria-mismo-ano-diseno-propio-gama-alta-1145191'>El nuevo realme 10 Pro+ 5G llegaría este mismo año con un diseño propio de la gama alta</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/nuevo-realme-10-pro-5g-llegaria-mismo-ano-diseno-propio-gama-alta-1145191' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/nuevo-realme-10-pro-5g-llegaria-mismo-ano-diseno-propio-gama-alta-2852069.jpg' alt='El nuevo realme 10 Pro+ 5G llegaría este mismo año con un diseño propio de la gama alta' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/tdt-espana-seguira-siendo-verguenza-como-minimo-2024-1145161'>La TDT en España seguirá siendo una vergüenza como mínimo hasta 2024</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/tdt-espana-seguira-siendo-verguenza-como-minimo-2024-1145161' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/tdt-espana-seguira-siendo-verguenza-como-minimo-2024-2852053.jpg' alt='La TDT en España seguirá siendo una vergüenza como mínimo hasta 2024' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/metaverso-cerrara-2025-aseguran-expertos-tema-1145211'>El metaverso cerrará en 2025, aseguran expertos en el tema</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/metaverso-cerrara-2025-aseguran-expertos-tema-1145211' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/metaverso-2548333.jpg' alt='El metaverso cerrará en 2025, aseguran expertos en el tema' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/gaming/cuidado-nvidia-rtx-4090-cable-alimentacion-puede-explotar-romper-grafica-1145141'>Cuidado con las NVIDIA RTX 4090: el cable de alimentación puede explotar y romper tu gráfica</a></h4>
-    <a href='https://computerhoy.com/noticias/gaming/cuidado-nvidia-rtx-4090-cable-alimentacion-puede-explotar-romper-grafica-1145141' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/nvidia-rtx-4090-2831907.jpg' alt='Cuidado con las NVIDIA RTX 4090: el cable de alimentación puede explotar y romper tu gráfica' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/whatsapp-no-funciona-problemas-errores-solucion-909175'>¿WhatsApp no funciona o da problemas? Los errores más frecuentes y su solución</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/whatsapp-no-funciona-problemas-errores-solucion-909175' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/whatsapp-alterado-2404291.jpg' alt='¿WhatsApp no funciona o da problemas? Los errores más frecuentes y su solución' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/funciona-camera-assistant-nueva-app-samsung-mejorar-fotos-1145139'>Así funciona Camera Assistant, la nueva app de Samsung para mejorar tus fotos</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/funciona-camera-assistant-nueva-app-samsung-mejorar-fotos-1145139' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/samsung-galaxy-s22-analisis-opinion-2627223.jpg' alt='Así funciona Camera Assistant, la nueva app de Samsung para mejorar tus fotos' />
+    <h4><a href='https://computerhoy.com/listas/tecnologia/mejores-alternativas-autenticador-google-estar-siempre-seguro-1108485'>Las mejores alternativas al autenticador de Google para estar siempre seguro</a></h4>
+    <a href='https://computerhoy.com/listas/tecnologia/mejores-alternativas-autenticador-google-estar-siempre-seguro-1108485' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/mejores-alternativas-autenticador-google-estar-siempre-seguro-2785629.jpg' alt='Las mejores alternativas al autenticador de Google para estar siempre seguro' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/serie-redmi-note-12-fecha-lanzamiento-algunas-especificaciones-desveladas-1145113'>Serie Redmi Note 12: fecha de lanzamiento y algunas de sus especificaciones desveladas</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/serie-redmi-note-12-fecha-lanzamiento-algunas-especificaciones-desveladas-1145113' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/serie-redmi-note-12-fecha-lanzamiento-algunas-especificaciones-desveladas-2851877.jpg' alt='Serie Redmi Note 12: fecha de lanzamiento y algunas de sus especificaciones desveladas' />
+    <h4><a href='https://computerhoy.com/noticias/gaming/steam-ha-roto-record-historico-pc-nunca-antes-tantos-jugadores-conectaron-vez-1145189'>Steam ha roto un récord histórico de PC: nunca antes tantos jugadores se conectaron a la vez</a></h4>
+    <a href='https://computerhoy.com/noticias/gaming/steam-ha-roto-record-historico-pc-nunca-antes-tantos-jugadores-conectaron-vez-1145189' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/galeria-review-steam-deck-2704053.jpg' alt='Steam ha roto un récord histórico de PC: nunca antes tantos jugadores se conectaron a la vez' />
     </a>
 </div>
 
