@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/pluto-tv-no-deja-crecer-multiplica-canales-series-peliculas-gratis-1145059'>Pluto TV no deja de crecer y multiplica sus canales de series y películas gratis</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/pluto-tv-no-deja-crecer-multiplica-canales-series-peliculas-gratis-1145059' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/pluto-tv-2851815.jpg' alt='Pluto TV no deja de crecer y multiplica sus canales de series y películas gratis' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/amazon-liquidacion-correas-loop-deportiva-apple-watch-1145085'>Amazon está de liquidación en estas correas Loop deportivas oficiales para el Apple Watch</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/amazon-liquidacion-correas-loop-deportiva-apple-watch-1145085' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/correas-apple-watch-loop-deportiva-apple-2851799.jpg' alt='Amazon está de liquidación en estas correas Loop deportivas oficiales para el Apple Watch' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/gobierno-pone-marcha-pruebas-aviso-emergencias-alert-puedes-recibir-smartphone-1145051'>El Gobierno pone en marcha las pruebas de aviso de emergencias ES-Alert que puedes recibir en tu smartphone</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/gobierno-pone-marcha-pruebas-aviso-emergencias-alert-puedes-recibir-smartphone-1145051' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/como-saber-recibiras-aviso-emergencias-alert-movil-android-iphone-2851717.jpg' alt='El Gobierno pone en marcha las pruebas de aviso de emergencias ES-Alert que puedes recibir en tu smartphone' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/tablet-barata-samsung-ahora-cuesta-menos-200-euros-te-envian-gratis-1143927'>Esta tablet barata de Samsung ahora lo es más: cuesta menos de 200 euros y te la envían gratis</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/tablet-barata-samsung-ahora-cuesta-menos-200-euros-te-envian-gratis-1143927' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/samsung-galaxy-a8-2849809.jpg' alt='Esta tablet barata de Samsung ahora lo es más: cuesta menos de 200 euros y te la envían gratis' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/podras-ver-eclipse-solar-parcial-25-octubre-persona-online-1145005'>Así podrás ver el eclipse solar parcial del 25 de octubre en persona o vía online</a></h4>
-    <a href='https://computerhoy.com/noticias/life/podras-ver-eclipse-solar-parcial-25-octubre-persona-online-1145005' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/podras-ver-eclipse-solar-parcial-25-octubre-persona-online-2851605.jpg' alt='Así podrás ver el eclipse solar parcial del 25 de octubre en persona o vía online' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/intel-acaba-romper-record-overclock-mejor-procesador-13a-gen-1144989'>Intel acaba de romper el récord de overclock con su mejor procesador de 13ª Gen</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/intel-acaba-romper-record-overclock-mejor-procesador-13a-gen-1144989' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/intel-core-13a-generacion-ya-estan-aqui-arquitectura-raptor-lake-prometen-41-rendimiento-2826177.jpg' alt='Intel acaba de romper el récord de overclock con su mejor procesador de 13ª Gen' />
     </a>
 </div>
 
