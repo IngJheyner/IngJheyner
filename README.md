@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/intel-acaba-romper-record-overclock-mejor-procesador-13a-gen-1144989'>Intel acaba de romper el récord de overclock con su mejor procesador de 13ª Gen</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/intel-acaba-romper-record-overclock-mejor-procesador-13a-gen-1144989' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/intel-core-13a-generacion-ya-estan-aqui-arquitectura-raptor-lake-prometen-41-rendimiento-2826177.jpg' alt='Intel acaba de romper el récord de overclock con su mejor procesador de 13ª Gen' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/huawei-ya-tiene-fecha-lanzamiento-nuevo-smartphone-plegable-pocket-s-1144987'>Huawei ya tiene fecha de lanzamiento de su nuevo smartphone plegable Pocket S</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/huawei-ya-tiene-fecha-lanzamiento-nuevo-smartphone-plegable-pocket-s-1144987' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/huawei-ya-tiene-fecha-lanzamiento-nuevo-smartphone-plegable-pocket-s-2851575.jpg' alt='Huawei ya tiene fecha de lanzamiento de su nuevo smartphone plegable Pocket S' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/analisis/tecnologia/irobot-roomba-j7-analisis-opinion-1144761'>iRobot Roomba j7+, análisis y opinión</a></h4>
+    <a href='https://computerhoy.com/analisis/tecnologia/irobot-roomba-j7-analisis-opinion-1144761' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/roomba-j7-portada-2851337.jpg' alt='iRobot Roomba j7+, análisis y opinión' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/life/mejores-emisores-termicos-bajo-consumo-modelos-ofertas-descuentos-1144771'>Emisores térmicos de bajo consumo: estos son los mejores que puedes comprar</a></h4>
+    <a href='https://computerhoy.com/reportajes/life/mejores-emisores-termicos-bajo-consumo-modelos-ofertas-descuentos-1144771' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/gato-descansando-encima-radiador-2851295.jpg' alt='Emisores térmicos de bajo consumo: estos son los mejores que puedes comprar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/34-noticias-tecnologia-comenzar-manana-informado-ultimo-1144955'>34 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/34-noticias-tecnologia-comenzar-manana-informado-ultimo-1144955' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/34-noticias-tecnologia-comenzar-manana-informado-ultimo-2851519.jpg' alt='34 noticias de tecnología para comenzar la mañana informado de lo último' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/directo-mejores-ofertas-black-friday-1144767'>En directo: Las mejores ofertas de Black Friday</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/directo-mejores-ofertas-black-friday-1144767' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/portada-directo-black-friday-2851279.jpg' alt='En directo: Las mejores ofertas de Black Friday' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/incendio-moai-rapa-nui-isla-pascua-1144777'>Un incendio causa un daño irreparable en numerosos moái de la Isla de Pascua</a></h4>
-    <a href='https://computerhoy.com/noticias/life/incendio-moai-rapa-nui-isla-pascua-1144777' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/incendio-causa-dano-irreparable-numerosos-moai-isla-rapa-nui-2851343.jpg' alt='Un incendio causa un daño irreparable en numerosos moái de la Isla de Pascua' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/nasa-grupo-16-expertos-fenomeno-ovni-durante-9-meses-1144775'>La NASA presenta el grupo de 16 expertos que estudiarán el fenómeno OVNI durante 9 meses</a></h4>
-    <a href='https://computerhoy.com/noticias/life/nasa-grupo-16-expertos-fenomeno-ovni-durante-9-meses-1144775' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/nasa-presenta-grupo-16-expertos-estudiaran-archivos-ovni-durante-9-meses-2851297.jpg' alt='La NASA presenta el grupo de 16 expertos que estudiarán el fenómeno OVNI durante 9 meses' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/mas-anuncios-app-store-1144773'>Si esta semana comienzas a ver más anuncios en la App Store, no se te ha colado un malware publicitario: es Apple</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/mas-anuncios-app-store-1144773' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/semana-comienzas-ver-anuncios-app-store-no-te-ha-colado-malware-publicitario-apple-2851285.jpg' alt='Si esta semana comienzas a ver más anuncios en la App Store, no se te ha colado un malware publicitario: es Apple' />
     </a>
 </div>
 
