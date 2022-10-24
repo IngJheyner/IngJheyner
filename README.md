@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/gobierno-pone-marcha-pruebas-aviso-emergencias-alert-puedes-recibir-smartphone-1145051'>El Gobierno pone en marcha las pruebas de aviso de emergencias ES-Alert que puedes recibir en tu smartphone</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/gobierno-pone-marcha-pruebas-aviso-emergencias-alert-puedes-recibir-smartphone-1145051' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/como-saber-recibiras-aviso-emergencias-alert-movil-android-iphone-2851717.jpg' alt='El Gobierno pone en marcha las pruebas de aviso de emergencias ES-Alert que puedes recibir en tu smartphone' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/todo-llega-windows-11-actualizacion-22h2-1145057'>Todo esto llega a Windows 11 con la actualización 22H2</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/todo-llega-windows-11-actualizacion-22h2-1145057' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/windows-11-22h2-2711631.jpg' alt='Todo esto llega a Windows 11 con la actualización 22H2' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/tablet-barata-samsung-ahora-cuesta-menos-200-euros-te-envian-gratis-1143927'>Esta tablet barata de Samsung ahora lo es más: cuesta menos de 200 euros y te la envían gratis</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/tablet-barata-samsung-ahora-cuesta-menos-200-euros-te-envian-gratis-1143927' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/samsung-galaxy-a8-2849809.jpg' alt='Esta tablet barata de Samsung ahora lo es más: cuesta menos de 200 euros y te la envían gratis' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/intel-acaba-romper-record-overclock-mejor-procesador-13a-gen-1144989'>Intel acaba de romper el récord de overclock con su mejor procesador de 13ª Gen</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/intel-acaba-romper-record-overclock-mejor-procesador-13a-gen-1144989' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/intel-core-13a-generacion-ya-estan-aqui-arquitectura-raptor-lake-prometen-41-rendimiento-2826177.jpg' alt='Intel acaba de romper el récord de overclock con su mejor procesador de 13ª Gen' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/huawei-ya-tiene-fecha-lanzamiento-nuevo-smartphone-plegable-pocket-s-1144987'>Huawei ya tiene fecha de lanzamiento de su nuevo smartphone plegable Pocket S</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/huawei-ya-tiene-fecha-lanzamiento-nuevo-smartphone-plegable-pocket-s-1144987' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/huawei-ya-tiene-fecha-lanzamiento-nuevo-smartphone-plegable-pocket-s-2851575.jpg' alt='Huawei ya tiene fecha de lanzamiento de su nuevo smartphone plegable Pocket S' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/tecnologia/irobot-roomba-j7-analisis-opinion-1144761'>iRobot Roomba j7+, análisis y opinión</a></h4>
-    <a href='https://computerhoy.com/analisis/tecnologia/irobot-roomba-j7-analisis-opinion-1144761' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/roomba-j7-portada-2851337.jpg' alt='iRobot Roomba j7+, análisis y opinión' />
     </a>
 </div>
 
