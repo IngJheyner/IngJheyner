@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/firefox-android-actualiza-caracteristica-usuarios-chrome-llevan-anos-esperando-1145181'>Firefox para Android se actualiza con una característica que los usuarios de Chrome llevan años esperando</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/firefox-android-actualiza-caracteristica-usuarios-chrome-llevan-anos-esperando-1145181' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/06/chrome-firefox.jpg' alt='Firefox para Android se actualiza con una característica que los usuarios de Chrome llevan años esperando' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/tdt-espana-seguira-siendo-verguenza-como-minimo-2024-1145161'>La TDT en España seguirá siendo una vergüenza como mínimo hasta 2024</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/tdt-espana-seguira-siendo-verguenza-como-minimo-2024-1145161' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/tdt-espana-seguira-siendo-verguenza-como-minimo-2024-2852053.jpg' alt='La TDT en España seguirá siendo una vergüenza como mínimo hasta 2024' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/serie-redmi-note-12-fecha-lanzamiento-algunas-especificaciones-desveladas-1145113'>Serie Redmi Note 12: fecha de lanzamiento y algunas de sus especificaciones desveladas</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/serie-redmi-note-12-fecha-lanzamiento-algunas-especificaciones-desveladas-1145113' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/serie-redmi-note-12-fecha-lanzamiento-algunas-especificaciones-desveladas-2851877.jpg' alt='Serie Redmi Note 12: fecha de lanzamiento y algunas de sus especificaciones desveladas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/sera-superprocesador-apple-m2-extreme-mac-pro-48-nucleos-gpu-top-1145099'>Así será el superprocesador Apple M2 Extreme para los Mac Pro: 48 núcleos y GPU top</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/sera-superprocesador-apple-m2-extreme-mac-pro-48-nucleos-gpu-top-1145099' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/11/mac-pro.jpg' alt='Así será el superprocesador Apple M2 Extreme para los Mac Pro: 48 núcleos y GPU top' />
     </a>
 </div>
 
