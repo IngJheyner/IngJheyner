@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/egloo-calentador-sin-electricidad-mantiene-calor-5-horas-1145533'>Egloo, el calentador sin electricidad que mantiene el calor durante 5 horas (vídeo)</a></h4>
+    <a href='https://computerhoy.com/noticias/life/egloo-calentador-sin-electricidad-mantiene-calor-5-horas-1145533' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/verticalimage1666652617841-2852653.jpg' alt='Egloo, el calentador sin electricidad que mantiene el calor durante 5 horas (vídeo)' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/samsung-galaxy-s22-televisor-samsung-4k-hdr-43-pulgadas-gratis-oferta-1145339'>Samsung Galaxy S22 con televisor Samsung 4K HDR de 43 pulgadas gratis valorado en 519 euros, todo por 859 euros</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/samsung-galaxy-s22-televisor-samsung-4k-hdr-43-pulgadas-gratis-oferta-1145339' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/samsung-galaxy-s22-859-euros-televisor-4k-hdr-43-pulgadas-gratis-valorado-519-euros-2852463.jpg' alt='Samsung Galaxy S22 con televisor Samsung 4K HDR de 43 pulgadas gratis valorado en 519 euros, todo por 859 euros' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/netflix-estrenos-temporadas-completas-alternativas-1145331'>En Netflix confían en seguir lanzando las temporadas de golpe, pero también están haciendo pruebas</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/netflix-estrenos-temporadas-completas-alternativas-1145331' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/netflix-confian-seguir-lanzando-temporadas-golpe-pero-tambien-estan-haciendo-pruebas-2852451.jpg' alt='En Netflix confían en seguir lanzando las temporadas de golpe, pero también están haciendo pruebas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/sentenciados-total-45-meses-prision-defraudar-600000-euros-vender-suscripciones-iptv-piratas-1145321'>Sentenciados a un total de 45 meses de prisión por defraudar más de 600.000 euros por vender suscripciones IPTV piratas</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/sentenciados-total-45-meses-prision-defraudar-600000-euros-vender-suscripciones-iptv-piratas-1145321' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/iptv-2852443.jpg' alt='Sentenciados a un total de 45 meses de prisión por defraudar más de 600.000 euros por vender suscripciones IPTV piratas' />
     </a>
 </div>
 
