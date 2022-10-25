@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/elemento-clave-mantener-cpu-bien-fria-tienes-cocina-1145727'>El elemento clave para mantener tu CPU bien fría lo tienes en la cocina</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/elemento-clave-mantener-cpu-bien-fria-tienes-cocina-1145727' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/forma-colocar-pasta-termica-gpu-reduce-5-grados-adicionales-temperatura-no-usa-casi-nadie-2803293.jpg' alt='El elemento clave para mantener tu CPU bien fría lo tienes en la cocina' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/metodo-triangulo-expertos-lenguaje-corporal-saber-instante-alguien-te-mintiendo-1145705'>El método del triángulo de los expertos en lenguaje corporal para saber al instante si alguien te está mintiendo</a></h4>
+    <a href='https://computerhoy.com/noticias/life/metodo-triangulo-expertos-lenguaje-corporal-saber-instante-alguien-te-mintiendo-1145705' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/eres-persona-insoportable-no-te-has-dado-cuenta-test-medico-te-ayuda-descubrirlo-2691539.jpg' alt='El método del triángulo de los expertos en lenguaje corporal para saber al instante si alguien te está mintiendo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/copiar-internet-pendrive-no-pero-transferir-todo-internet-segundo-ya-posible-1145699'>Copiar Internet a un pendrive no, pero transferir todo Internet en un segundo ya es posible</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/copiar-internet-pendrive-no-pero-transferir-todo-internet-segundo-ya-posible-1145699' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/copiar-internet-pendrive-no-pero-transferir-todo-internet-segundo-ya-posible-2852961.jpg' alt='Copiar Internet a un pendrive no, pero transferir todo Internet en un segundo ya es posible' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/nueva-costumbre-netflix-vuelve-cancelar-serie-antes-estreno-1145691'>¿Nueva costumbre? Netflix vuelve a cancelar una serie antes de su estreno</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/nueva-costumbre-netflix-vuelve-cancelar-serie-antes-estreno-1145691' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/netflix-ya-prepara-prohibicion-compartir-cuentas-lanza-transferencia-perfiles-2846083.jpg' alt='¿Nueva costumbre? Netflix vuelve a cancelar una serie antes de su estreno' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/10-funciones-macos-ventura-windows-11-deberia-tomar-nota-1145623'>Las 10 funciones de MacOS Ventura de las que Windows 11 debería tomar nota </a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/10-funciones-macos-ventura-windows-11-deberia-tomar-nota-1145623' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/10-funciones-windows-11-deberia-tomar-nota-macos-ventura-2852805.jpg' alt='Las 10 funciones de MacOS Ventura de las que Windows 11 debería tomar nota ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/lavado-cara-youtube-nuevo-diseno-funcionalidades-1145669'>Así es el lavado de cara de YouTube, su nuevo diseño y funcionalidades</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/lavado-cara-youtube-nuevo-diseno-funcionalidades-1145669' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/lavado-cara-youtube-nuevo-diseno-funcionalidades-2852917.jpg' alt='Así es el lavado de cara de YouTube, su nuevo diseño y funcionalidades' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/disney-suma-modalidad-suscripcion-barata-anuncios-pero-faltara-gran-caracteristica-1145651'>Disney+ se suma a la modalidad de suscripción barata con anuncios, pero le faltará una gran característica</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/disney-suma-modalidad-suscripcion-barata-anuncios-pero-faltara-gran-caracteristica-1145651' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/disney-opcion-groupwatch-2852903.jpg' alt='Disney+ se suma a la modalidad de suscripción barata con anuncios, pero le faltará una gran característica' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/motorola-razr-2022-primeras-impresiones-rival-directo-samsung-galaxy-z-flip-4-1145315'>Motorola Razr 2022, primeras impresiones del rival directo del Samsung Galaxy Z Flip 4</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/motorola-razr-2022-primeras-impresiones-rival-directo-samsung-galaxy-z-flip-4-1145315' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/motorola-razr-2022-2852667.jpg' alt='Motorola Razr 2022, primeras impresiones del rival directo del Samsung Galaxy Z Flip 4' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/reloj-inteligente-25-euros-rompe-mercado-realme-tiene-todo-podrias-pedir-1145061'>Este reloj inteligente de 25 euros rompe el mercado: es de realme y tiene todo lo que podrías pedir</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/reloj-inteligente-25-euros-rompe-mercado-realme-tiene-todo-podrias-pedir-1145061' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/realme-watch-2851735.jpg' alt='Este reloj inteligente de 25 euros rompe el mercado: es de realme y tiene todo lo que podrías pedir' />
     </a>
 </div>
 
