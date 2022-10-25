@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/guia-compra/termostato-inteligente-1137293'>Todo lo que tienes que saber para comprar un termostato inteligente</a></h4>
+    <a href='https://computerhoy.com/guia-compra/termostato-inteligente-1137293' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/12/termostato-inteligente-2172413.jpg' alt='Todo lo que tienes que saber para comprar un termostato inteligente' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/relojes-inteligentes-electrocardiograma-ecg-estos-son-mejores-758541'>Relojes que hacen electrocardiogramas (ECG): estos son los mejores y más baratos que puedes comprar</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/relojes-inteligentes-electrocardiograma-ecg-estos-son-mejores-758541' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/apple-watch-series-8-analisis-opinion-2841939.jpg' alt='Relojes que hacen electrocardiogramas (ECG): estos son los mejores y más baratos que puedes comprar' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/mala-idea-besar-perro-boca-nariz-1145535'>Por qué es una mala idea besar a tu perro en la boca o la nariz</a></h4>
     <a href='https://computerhoy.com/noticias/life/mala-idea-besar-perro-boca-nariz-1145535' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/mala-idea-besar-perro-boca-2852655.jpg' alt='Por qué es una mala idea besar a tu perro en la boca o la nariz' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/egloo-calentador-sin-electricidad-mantiene-calor-5-horas-1145533'>Egloo, el calentador sin electricidad que mantiene el calor durante 5 horas (vídeo)</a></h4>
-    <a href='https://computerhoy.com/noticias/life/egloo-calentador-sin-electricidad-mantiene-calor-5-horas-1145533' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/verticalimage1666652617841-2852653.jpg' alt='Egloo, el calentador sin electricidad que mantiene el calor durante 5 horas (vídeo)' />
     </a>
 </div>
 
