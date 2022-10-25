@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/8-motivos-movil-va-tan-lento-como-solucionarlo-1145625'>Los 8 motivos por los que tu móvil va tan lento y cómo solucionarlo</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/8-motivos-movil-va-tan-lento-como-solucionarlo-1145625' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/galaxy-z-fold-3-5g-tienes-ventajas-smartphone-tablet-solo-dispositivo-2465945.jpg' alt='Los 8 motivos por los que tu móvil va tan lento y cómo solucionarlo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/ia-bumble-integra-ya-filtra-98-fotos-desnudos-no-solicitados-ya-software-libre-1145603'>La IA de Bumble para censurar fotos de desnudos no solicitados con una precisión del 98% ya es software libre </a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/ia-bumble-integra-ya-filtra-98-fotos-desnudos-no-solicitados-ya-software-libre-1145603' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/ia-bumble-integra-ya-filtra-98-fotos-desnudos-no-solicitados-ya-software-libre-2852791.jpg' alt='La IA de Bumble para censurar fotos de desnudos no solicitados con una precisión del 98% ya es software libre ' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/como-funciona-carga-energia-limpia-iphone-ios-161-1145569'>Qué es y cómo funciona la Carga con Energía Limpia del iPhone en iOS 16.1</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/como-funciona-carga-energia-limpia-iphone-ios-161-1145569' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/como-funciona-carga-energia-limpia-iphone-ios-161-2852737.jpg' alt='Qué es y cómo funciona la Carga con Energía Limpia del iPhone en iOS 16.1' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/camara-vivo-x90-promete-rinde-pack-fotografico-proximo-smartphone-top-vivo-1145553'>La cámara del Vivo X90 promete, así rinde el pack fotográfico del próximo smartphone top de vivo</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/camara-vivo-x90-promete-rinde-pack-fotografico-proximo-smartphone-top-vivo-1145553' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/analisis-vivo-x80-pro-2752737.jpg' alt='La cámara del Vivo X90 promete, así rinde el pack fotográfico del próximo smartphone top de vivo' />
     </a>
 </div>
 
