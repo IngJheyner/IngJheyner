@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/8-motivos-movil-va-tan-lento-como-solucionarlo-1145625'>Los 8 motivos por los que tu móvil va tan lento y cómo solucionarlo</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/8-motivos-movil-va-tan-lento-como-solucionarlo-1145625' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/galaxy-z-fold-3-5g-tienes-ventajas-smartphone-tablet-solo-dispositivo-2465945.jpg' alt='Los 8 motivos por los que tu móvil va tan lento y cómo solucionarlo' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/10-funciones-macos-ventura-windows-11-deberia-tomar-nota-1145623'>Las 10 funciones de MacOS Ventura de las que Windows 11 debería tomar nota </a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/10-funciones-macos-ventura-windows-11-deberia-tomar-nota-1145623' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/10-funciones-windows-11-deberia-tomar-nota-macos-ventura-2852805.jpg' alt='Las 10 funciones de MacOS Ventura de las que Windows 11 debería tomar nota ' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/ia-bumble-integra-ya-filtra-98-fotos-desnudos-no-solicitados-ya-software-libre-1145603'>La IA de Bumble para censurar fotos de desnudos no solicitados con una precisión del 98% ya es software libre </a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/ia-bumble-integra-ya-filtra-98-fotos-desnudos-no-solicitados-ya-software-libre-1145603' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/ia-bumble-integra-ya-filtra-98-fotos-desnudos-no-solicitados-ya-software-libre-2852791.jpg' alt='La IA de Bumble para censurar fotos de desnudos no solicitados con una precisión del 98% ya es software libre ' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/lavado-cara-youtube-nuevo-diseno-funcionalidades-1145669'>Así es el lavado de cara de YouTube, su nuevo diseño y funcionalidades</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/lavado-cara-youtube-nuevo-diseno-funcionalidades-1145669' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/lavado-cara-youtube-nuevo-diseno-funcionalidades-2852917.jpg' alt='Así es el lavado de cara de YouTube, su nuevo diseño y funcionalidades' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/5-gangas-samsung-moviles-tablets-portatiles-televisor-regalo-1145111'>5 gangas de Samsung en móviles, tablets y portátiles ¡hasta con televisor de regalo!</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/5-gangas-samsung-moviles-tablets-portatiles-televisor-regalo-1145111' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/samsung-galaxy-s22-analisis-opinion-2741207.jpg' alt='5 gangas de Samsung en móviles, tablets y portátiles ¡hasta con televisor de regalo!' />
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/disney-suma-modalidad-suscripcion-barata-anuncios-pero-faltara-gran-caracteristica-1145651'>Disney+ se suma a la modalidad de suscripción barata con anuncios, pero le faltará una gran característica</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/disney-suma-modalidad-suscripcion-barata-anuncios-pero-faltara-gran-caracteristica-1145651' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/disney-opcion-groupwatch-2852903.jpg' alt='Disney+ se suma a la modalidad de suscripción barata con anuncios, pero le faltará una gran característica' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/ha-caido-whatsapp-no-movil-ni-conexion-wifi-1145591'>Se ha caído WhatsApp, no es tu móvil ni tu conexión WiFi</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/ha-caido-whatsapp-no-movil-ni-conexion-wifi-1145591' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/whatsapp-2803159.jpg' alt='Se ha caído WhatsApp, no es tu móvil ni tu conexión WiFi' />
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/motorola-razr-2022-primeras-impresiones-rival-directo-samsung-galaxy-z-flip-4-1145315'>Motorola Razr 2022, primeras impresiones del rival directo del Samsung Galaxy Z Flip 4</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/motorola-razr-2022-primeras-impresiones-rival-directo-samsung-galaxy-z-flip-4-1145315' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/motorola-razr-2022-2852667.jpg' alt='Motorola Razr 2022, primeras impresiones del rival directo del Samsung Galaxy Z Flip 4' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/como-funciona-carga-energia-limpia-iphone-ios-161-1145569'>Qué es y cómo funciona la Carga con Energía Limpia del iPhone en iOS 16.1</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/como-funciona-carga-energia-limpia-iphone-ios-161-1145569' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/como-funciona-carga-energia-limpia-iphone-ios-161-2852737.jpg' alt='Qué es y cómo funciona la Carga con Energía Limpia del iPhone en iOS 16.1' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/reloj-inteligente-25-euros-rompe-mercado-realme-tiene-todo-podrias-pedir-1145061'>Este reloj inteligente de 25 euros rompe el mercado: es de realme y tiene todo lo que podrías pedir</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/reloj-inteligente-25-euros-rompe-mercado-realme-tiene-todo-podrias-pedir-1145061' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/realme-watch-2851735.jpg' alt='Este reloj inteligente de 25 euros rompe el mercado: es de realme y tiene todo lo que podrías pedir' />
     </a>
 </div>
 
