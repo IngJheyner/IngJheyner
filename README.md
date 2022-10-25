@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/u2-ipod-acciones-apple-steve-jobs-1145877'>U2 propuso a Apple un lucrativo acuerdo pero Steve Jobs no mordió el anzuelo</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/u2-ipod-acciones-apple-steve-jobs-1145877' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/u2-propuso-apple-lucrativo-acuerdo-pero-steve-jobs-no-mordio-anzuelo-2853259.jpg' alt='U2 propuso a Apple un lucrativo acuerdo pero Steve Jobs no mordió el anzuelo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/pagar-tarjeta-no-gratis-estos-son-millones-embolsan-bancos-1145805'>Pagar con tarjeta no es gratis, estos son los millones que se embolsan los bancos</a></h4>
     <a href='https://computerhoy.com/noticias/life/pagar-tarjeta-no-gratis-estos-son-millones-embolsan-bancos-1145805' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/11/tarjeta-credito-2127299.jpg' alt='Pagar con tarjeta no es gratis, estos son los millones que se embolsan los bancos' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/oneplus-nord-n300-5g-gama-media-oneplus-5g-90-hz-procesador-mediatek-1145849'>OnePlus Nord N300 5G: así es el gama media de OnePlus con 5G, 90 Hz y procesador MediaTek</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/oneplus-nord-n300-5g-gama-media-oneplus-5g-90-hz-procesador-mediatek-1145849' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/oneplus-nord-n300-5g-gama-media-oneplus-5g-90-hz-procesador-mediatek-2853245.jpg' alt='OnePlus Nord N300 5G: así es el gama media de OnePlus con 5G, 90 Hz y procesador MediaTek' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/final-casa-dragon-hbo-max-audiencia-1145867'>La audiencia del final de La Casa del Dragón bate récords en HBO Max y cierra cualquier debate</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/final-casa-dragon-hbo-max-audiencia-1145867' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/audiencia-final-casa-dragon-bate-records-hbo-max-cierra-cualquier-debate-2853243.jpg' alt='La audiencia del final de La Casa del Dragón bate récords en HBO Max y cierra cualquier debate' />
     </a>
 </div>
 
