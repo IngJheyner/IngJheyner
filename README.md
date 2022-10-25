@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/adios-ford-fiesta-no-tendra-version-electrica-dejara-fabricarse-1145861'>Adiós al Ford Fiesta: no tendrá versión eléctrica y dejará de fabricarse</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/adios-ford-fiesta-no-tendra-version-electrica-dejara-fabricarse-1145861' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/ford-fiesta-2853183.jpg' alt='Adiós al Ford Fiesta: no tendrá versión eléctrica y dejará de fabricarse' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/funcionalidad-google-maps-ya-no-vas-poder-usar-android-auto-1145859'>Esta es la funcionalidad de Google Maps que ya no vas a poder usar en Android Auto</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/funcionalidad-google-maps-ya-no-vas-poder-usar-android-auto-1145859' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/android-auto-2575823.jpg' alt='Esta es la funcionalidad de Google Maps que ya no vas a poder usar en Android Auto' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/google-chrome-dejara-ser-compatible-windows-7-81-2023-1145829'>Google Chrome dejará de ser compatible con Windows 7 y 8.1 en 2023</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/google-chrome-dejara-ser-compatible-windows-7-81-2023-1145829' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/ordenador-google-chrome-2573811.jpg' alt='Google Chrome dejará de ser compatible con Windows 7 y 8.1 en 2023' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/directo-mejores-ofertas-black-friday-1144767'>En directo: Las mejores ofertas de Black Friday</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/directo-mejores-ofertas-black-friday-1144767' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/portada-directo-black-friday-2851279.jpg' alt='En directo: Las mejores ofertas de Black Friday' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/ipados-16-revolucion-tablets-apple-funcionalidades-nuevas-caracteristicas-1145753'>iPadOS 16 y la revolución para las tablets Apple: funcionalidades y nuevas características</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/ipados-16-revolucion-tablets-apple-funcionalidades-nuevas-caracteristicas-1145753' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/apple-ipad-pro-2022-m2-apple-renueva-tablet-procesional-ultimo-procesador-2846883.jpg' alt='iPadOS 16 y la revolución para las tablets Apple: funcionalidades y nuevas características' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/nueva-generacion-intel-13th-gen-raptor-completamente-filtrada-microsoft-1145765'>La nueva generación de Intel 13th Gen Raptor Like completamente filtrada... por Microsoft</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/nueva-generacion-intel-13th-gen-raptor-completamente-filtrada-microsoft-1145765' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/nuevos-procesadores-alder-lake-intel-llevan-experiencia-gaming-otro-nivel-2554955.jpg' alt='La nueva generación de Intel 13th Gen Raptor Like completamente filtrada... por Microsoft' />
     </a>
 </div>
 
