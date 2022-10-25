@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/mini-pc-chuwi-ryzen-7-16-gb-ram-wifi-6-windows-11-oferta-1145799'>Este mini PC de CHUWI es una "bestia" con Ryzen 7, 16 GB de RAM, WiFi 6 y Windows 11, por solo 559 euros</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/mini-pc-chuwi-ryzen-7-16-gb-ram-wifi-6-windows-11-oferta-1145799' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/mini-pc-chuwi-bestia-ryzen-7-16-gb-ram-wifi-6-hardware-ultima-generacion-solo-559-euros-2853101.jpg' alt='Este mini PC de CHUWI es una "bestia" con Ryzen 7, 16 GB de RAM, WiFi 6 y Windows 11, por solo 559 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/oneplus-nord-n300-5g-gama-media-oneplus-5g-90-hz-procesador-mediatek-1145849'>OnePlus Nord N300 5G: así es el gama media de OnePlus con 5G, 90 Hz y procesador MediaTek</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/oneplus-nord-n300-5g-gama-media-oneplus-5g-90-hz-procesador-mediatek-1145849' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/oneplus-nord-n300-5g-gama-media-oneplus-5g-90-hz-procesador-mediatek-2853245.jpg' alt='OnePlus Nord N300 5G: así es el gama media de OnePlus con 5G, 90 Hz y procesador MediaTek' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/final-casa-dragon-hbo-max-audiencia-1145867'>La audiencia del final de La Casa del Dragón bate récords en HBO Max y cierra cualquier debate</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/final-casa-dragon-hbo-max-audiencia-1145867' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/audiencia-final-casa-dragon-bate-records-hbo-max-cierra-cualquier-debate-2853243.jpg' alt='La audiencia del final de La Casa del Dragón bate récords en HBO Max y cierra cualquier debate' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/huevo-pascua-musical-oculto-hace-bailar-google-1145847'>El huevo de pascua musical oculto que hace bailar a Google</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/huevo-pascua-musical-oculto-hace-bailar-google-1145847' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/google-chrome-2656983.jpg' alt='El huevo de pascua musical oculto que hace bailar a Google' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/motor/adios-ford-fiesta-no-tendra-version-electrica-dejara-fabricarse-1145861'>Adiós al Ford Fiesta: no tendrá versión eléctrica y dejará de fabricarse</a></h4>
     <a href='https://computerhoy.com/noticias/motor/adios-ford-fiesta-no-tendra-version-electrica-dejara-fabricarse-1145861' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/ford-fiesta-2853183.jpg' alt='Adiós al Ford Fiesta: no tendrá versión eléctrica y dejará de fabricarse' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/funcionalidad-google-maps-ya-no-vas-poder-usar-android-auto-1145859'>Esta es la funcionalidad de Google Maps que ya no vas a poder usar en Android Auto</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/funcionalidad-google-maps-ya-no-vas-poder-usar-android-auto-1145859' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/android-auto-2575823.jpg' alt='Esta es la funcionalidad de Google Maps que ya no vas a poder usar en Android Auto' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/google-chrome-dejara-ser-compatible-windows-7-81-2023-1145829'>Google Chrome dejará de ser compatible con Windows 7 y 8.1 en 2023</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/google-chrome-dejara-ser-compatible-windows-7-81-2023-1145829' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/ordenador-google-chrome-2573811.jpg' alt='Google Chrome dejará de ser compatible con Windows 7 y 8.1 en 2023' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/guia-comprar-aliexpress-como-funciona-994775'>Guía para comprar en AliExpress en 2022: encuentra las mejores ofertas y evita estafas y malas experiencias</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/guia-comprar-aliexpress-como-funciona-994775' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/iphone-app-store-apple-abierta-perfil-aplicacion-compras-aliexpress-2852811.jpg' alt='Guía para comprar en AliExpress en 2022: encuentra las mejores ofertas y evita estafas y malas experiencias' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/directo-mejores-ofertas-black-friday-1144767'>En directo: Las mejores ofertas de Black Friday</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/directo-mejores-ofertas-black-friday-1144767' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/portada-directo-black-friday-2851279.jpg' alt='En directo: Las mejores ofertas de Black Friday' />
     </a>
 </div>
 
