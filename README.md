@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/relojes-inteligentes-electrocardiograma-ecg-estos-son-mejores-758541'>Relojes que hacen electrocardiogramas (ECG): estos son los mejores y más baratos que puedes comprar</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/relojes-inteligentes-electrocardiograma-ecg-estos-son-mejores-758541' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/apple-watch-series-8-analisis-opinion-2841939.jpg' alt='Relojes que hacen electrocardiogramas (ECG): estos son los mejores y más baratos que puedes comprar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/27-noticias-tecnologia-comenzar-manana-informado-ultimo-1145539'>27 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/27-noticias-tecnologia-comenzar-manana-informado-ultimo-1145539' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/27-noticias-tecnologia-comenzar-manana-informado-ultimo-2852671.jpg' alt='27 noticias de tecnología para comenzar la mañana informado de lo último' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/life/cuando-es-black-friday-2022-fecha-inicio-ofertas-1145153'>Cuándo es el Black Friday 2022: esta es la fecha de inicio de las ofertas</a></h4>
+    <a href='https://computerhoy.com/reportajes/life/cuando-es-black-friday-2022-fecha-inicio-ofertas-1145153' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/portada-black-friday-2852169.jpg' alt='Cuándo es el Black Friday 2022: esta es la fecha de inicio de las ofertas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/mala-idea-besar-perro-boca-nariz-1145535'>Por qué es una mala idea besar a tu perro en la boca o la nariz</a></h4>
     <a href='https://computerhoy.com/noticias/life/mala-idea-besar-perro-boca-nariz-1145535' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/mala-idea-besar-perro-boca-2852655.jpg' alt='Por qué es una mala idea besar a tu perro en la boca o la nariz' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/egloo-calentador-sin-electricidad-mantiene-calor-5-horas-1145533'>Egloo, el calentador sin electricidad que mantiene el calor durante 5 horas (vídeo)</a></h4>
     <a href='https://computerhoy.com/noticias/life/egloo-calentador-sin-electricidad-mantiene-calor-5-horas-1145533' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/verticalimage1666652617841-2852653.jpg' alt='Egloo, el calentador sin electricidad que mantiene el calor durante 5 horas (vídeo)' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/samsung-galaxy-s22-televisor-samsung-4k-hdr-43-pulgadas-gratis-oferta-1145339'>Samsung Galaxy S22 con televisor Samsung 4K HDR de 43 pulgadas gratis valorado en 519 euros, todo por 859 euros</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/samsung-galaxy-s22-televisor-samsung-4k-hdr-43-pulgadas-gratis-oferta-1145339' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/samsung-galaxy-s22-859-euros-televisor-4k-hdr-43-pulgadas-gratis-valorado-519-euros-2852463.jpg' alt='Samsung Galaxy S22 con televisor Samsung 4K HDR de 43 pulgadas gratis valorado en 519 euros, todo por 859 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/9-motivos-usar-monitor-modo-vertical-1145251'>Los 9 motivos por los que usar tu monitor en modo vertical</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/9-motivos-usar-monitor-modo-vertical-1145251' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/monitor-vertical-2654285.jpg' alt='Los 9 motivos por los que usar tu monitor en modo vertical' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/apple-tv-apple-music-apple-one-subida-precio-cuotas-espana-1145335'>Apple TV+, Apple Music y Apple One acaban de subir de precio en España</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/apple-tv-apple-music-apple-one-subida-precio-cuotas-espana-1145335' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/apple-tv-apple-music-apple-one-acaban-subir-precio-espana-2852457.jpg' alt='Apple TV+, Apple Music y Apple One acaban de subir de precio en España' />
     </a>
 </div>
 
