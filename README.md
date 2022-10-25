@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/mala-idea-besar-perro-boca-nariz-1145535'>Por qué es una mala idea besar a tu perro en la boca o la nariz</a></h4>
+    <a href='https://computerhoy.com/noticias/life/mala-idea-besar-perro-boca-nariz-1145535' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/mala-idea-besar-perro-boca-2852655.jpg' alt='Por qué es una mala idea besar a tu perro en la boca o la nariz' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/egloo-calentador-sin-electricidad-mantiene-calor-5-horas-1145533'>Egloo, el calentador sin electricidad que mantiene el calor durante 5 horas (vídeo)</a></h4>
     <a href='https://computerhoy.com/noticias/life/egloo-calentador-sin-electricidad-mantiene-calor-5-horas-1145533' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/verticalimage1666652617841-2852653.jpg' alt='Egloo, el calentador sin electricidad que mantiene el calor durante 5 horas (vídeo)' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/apple-tv-apple-music-apple-one-subida-precio-cuotas-espana-1145335'>Apple TV+, Apple Music y Apple One acaban de subir de precio en España</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/apple-tv-apple-music-apple-one-subida-precio-cuotas-espana-1145335' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/apple-tv-apple-music-apple-one-acaban-subir-precio-espana-2852457.jpg' alt='Apple TV+, Apple Music y Apple One acaban de subir de precio en España' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/netflix-estrenos-temporadas-completas-alternativas-1145331'>En Netflix confían en seguir lanzando las temporadas de golpe, pero también están haciendo pruebas</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/netflix-estrenos-temporadas-completas-alternativas-1145331' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/netflix-confian-seguir-lanzando-temporadas-golpe-pero-tambien-estan-haciendo-pruebas-2852451.jpg' alt='En Netflix confían en seguir lanzando las temporadas de golpe, pero también están haciendo pruebas' />
     </a>
 </div>
 
