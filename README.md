@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/google-chrome-dejara-ser-compatible-windows-7-81-2023-1145829'>Google Chrome dejará de ser compatible con Windows 7 y 8.1 en 2023</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/google-chrome-dejara-ser-compatible-windows-7-81-2023-1145829' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/ordenador-google-chrome-2573811.jpg' alt='Google Chrome dejará de ser compatible con Windows 7 y 8.1 en 2023' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/guia-comprar-aliexpress-como-funciona-994775'>Guía para comprar en AliExpress en 2022: encuentra las mejores ofertas y evita estafas y malas experiencias</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/guia-comprar-aliexpress-como-funciona-994775' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/iphone-app-store-apple-abierta-perfil-aplicacion-compras-aliexpress-2852811.jpg' alt='Guía para comprar en AliExpress en 2022: encuentra las mejores ofertas y evita estafas y malas experiencias' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/directo-mejores-ofertas-black-friday-1144767'>En directo: Las mejores ofertas de Black Friday</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/directo-mejores-ofertas-black-friday-1144767' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/portada-directo-black-friday-2851279.jpg' alt='En directo: Las mejores ofertas de Black Friday' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/nueva-generacion-intel-13th-gen-raptor-completamente-filtrada-microsoft-1145765'>La nueva generación de Intel 13th Gen Raptor Like completamente filtrada... por Microsoft</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/nueva-generacion-intel-13th-gen-raptor-completamente-filtrada-microsoft-1145765' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/nuevos-procesadores-alder-lake-intel-llevan-experiencia-gaming-otro-nivel-2554955.jpg' alt='La nueva generación de Intel 13th Gen Raptor Like completamente filtrada... por Microsoft' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/te-has-comprado-iphone-14-estos-accesorios-son-imprescindibles-1141081'>Si te has comprado un iPhone 14, estos accesorios son imprescindibles</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/te-has-comprado-iphone-14-estos-accesorios-son-imprescindibles-1141081' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/analisis-iphone-14-2821549.jpg' alt='Si te has comprado un iPhone 14, estos accesorios son imprescindibles' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/policia-metaverso-real-ya-siendo-formada-interpol-1145725'>La Policía del Metaverso es real, ya está siendo formada por la Interpol </a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/policia-metaverso-real-ya-siendo-formada-interpol-1145725' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/policia-metaverso-real-ya-siendo-formada-interpol-2852997.jpg' alt='La Policía del Metaverso es real, ya está siendo formada por la Interpol ' />
     </a>
 </div>
 
