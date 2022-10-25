@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/pagar-tarjeta-no-gratis-estos-son-millones-embolsan-bancos-1145805'>Pagar con tarjeta no es gratis, estos son los millones que se embolsan los bancos</a></h4>
+    <a href='https://computerhoy.com/noticias/life/pagar-tarjeta-no-gratis-estos-son-millones-embolsan-bancos-1145805' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/11/tarjeta-credito-2127299.jpg' alt='Pagar con tarjeta no es gratis, estos son los millones que se embolsan los bancos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/netflix-no-te-ha-enviado-ningun-sms-funciona-nueva-estafa-utiliza-suscripcion-netflix-como-cebo-1145855'>Netflix no te ha enviado ningún SMS: así funciona la nueva estafa que utiliza la suscripción a Netflix como cebo</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/netflix-no-te-ha-enviado-ningun-sms-funciona-nueva-estafa-utiliza-suscripcion-netflix-como-cebo-1145855' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/netflix-app-2767547.jpg' alt='Netflix no te ha enviado ningún SMS: así funciona la nueva estafa que utiliza la suscripción a Netflix como cebo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/mini-pc-chuwi-ryzen-7-16-gb-ram-wifi-6-windows-11-oferta-1145799'>Este mini PC de CHUWI es una "bestia" con Ryzen 7, 16 GB de RAM, WiFi 6 y Windows 11, por solo 559 euros</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/mini-pc-chuwi-ryzen-7-16-gb-ram-wifi-6-windows-11-oferta-1145799' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/mini-pc-chuwi-bestia-ryzen-7-16-gb-ram-wifi-6-hardware-ultima-generacion-solo-559-euros-2853101.jpg' alt='Este mini PC de CHUWI es una "bestia" con Ryzen 7, 16 GB de RAM, WiFi 6 y Windows 11, por solo 559 euros' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/final-casa-dragon-hbo-max-audiencia-1145867'>La audiencia del final de La Casa del Dragón bate récords en HBO Max y cierra cualquier debate</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/final-casa-dragon-hbo-max-audiencia-1145867' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/audiencia-final-casa-dragon-bate-records-hbo-max-cierra-cualquier-debate-2853243.jpg' alt='La audiencia del final de La Casa del Dragón bate récords en HBO Max y cierra cualquier debate' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/huevo-pascua-musical-oculto-hace-bailar-google-1145847'>El huevo de pascua musical oculto que hace bailar a Google</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/huevo-pascua-musical-oculto-hace-bailar-google-1145847' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/google-chrome-2656983.jpg' alt='El huevo de pascua musical oculto que hace bailar a Google' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/adios-ford-fiesta-no-tendra-version-electrica-dejara-fabricarse-1145861'>Adiós al Ford Fiesta: no tendrá versión eléctrica y dejará de fabricarse</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/adios-ford-fiesta-no-tendra-version-electrica-dejara-fabricarse-1145861' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/ford-fiesta-2853183.jpg' alt='Adiós al Ford Fiesta: no tendrá versión eléctrica y dejará de fabricarse' />
     </a>
 </div>
 
