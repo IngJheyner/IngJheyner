@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/directo-mejores-ofertas-black-friday-1144767'>En directo: Las mejores ofertas de Black Friday</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/directo-mejores-ofertas-black-friday-1144767' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/portada-directo-black-friday-2851279.jpg' alt='En directo: Las mejores ofertas de Black Friday' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/ipados-16-revolucion-tablets-apple-funcionalidades-nuevas-caracteristicas-1145753'>iPadOS 16 y la revolución para las tablets Apple: funcionalidades y nuevas características</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/ipados-16-revolucion-tablets-apple-funcionalidades-nuevas-caracteristicas-1145753' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/apple-ipad-pro-2022-m2-apple-renueva-tablet-procesional-ultimo-procesador-2846883.jpg' alt='iPadOS 16 y la revolución para las tablets Apple: funcionalidades y nuevas características' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/nueva-generacion-intel-13th-gen-raptor-completamente-filtrada-microsoft-1145765'>La nueva generación de Intel 13th Gen Raptor Like completamente filtrada... por Microsoft</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/nueva-generacion-intel-13th-gen-raptor-completamente-filtrada-microsoft-1145765' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/nuevos-procesadores-alder-lake-intel-llevan-experiencia-gaming-otro-nivel-2554955.jpg' alt='La nueva generación de Intel 13th Gen Raptor Like completamente filtrada... por Microsoft' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/policia-metaverso-real-ya-siendo-formada-interpol-1145725'>La Policía del Metaverso es real, ya está siendo formada por la Interpol </a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/policia-metaverso-real-ya-siendo-formada-interpol-1145725' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/policia-metaverso-real-ya-siendo-formada-interpol-2852997.jpg' alt='La Policía del Metaverso es real, ya está siendo formada por la Interpol ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/elemento-clave-mantener-cpu-bien-fria-tienes-cocina-1145727'>El elemento clave para mantener tu CPU bien fría lo tienes en la cocina</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/elemento-clave-mantener-cpu-bien-fria-tienes-cocina-1145727' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/forma-colocar-pasta-termica-gpu-reduce-5-grados-adicionales-temperatura-no-usa-casi-nadie-2803293.jpg' alt='El elemento clave para mantener tu CPU bien fría lo tienes en la cocina' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/metodo-triangulo-expertos-lenguaje-corporal-saber-instante-alguien-te-mintiendo-1145705'>El método del triángulo de los expertos en lenguaje corporal para saber al instante si alguien te está mintiendo</a></h4>
-    <a href='https://computerhoy.com/noticias/life/metodo-triangulo-expertos-lenguaje-corporal-saber-instante-alguien-te-mintiendo-1145705' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/eres-persona-insoportable-no-te-has-dado-cuenta-test-medico-te-ayuda-descubrirlo-2691539.jpg' alt='El método del triángulo de los expertos en lenguaje corporal para saber al instante si alguien te está mintiendo' />
     </a>
 </div>
 
