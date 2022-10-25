@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/nueva-generacion-intel-13th-gen-raptor-completamente-filtrada-microsoft-1145765'>La nueva generación de Intel 13th Gen Raptor Like completamente filtrada... por Microsoft</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/nueva-generacion-intel-13th-gen-raptor-completamente-filtrada-microsoft-1145765' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/nuevos-procesadores-alder-lake-intel-llevan-experiencia-gaming-otro-nivel-2554955.jpg' alt='La nueva generación de Intel 13th Gen Raptor Like completamente filtrada... por Microsoft' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/te-has-comprado-iphone-14-estos-accesorios-son-imprescindibles-1141081'>Si te has comprado un iPhone 14, estos accesorios son imprescindibles</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/te-has-comprado-iphone-14-estos-accesorios-son-imprescindibles-1141081' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/analisis-iphone-14-2821549.jpg' alt='Si te has comprado un iPhone 14, estos accesorios son imprescindibles' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/metodo-triangulo-expertos-lenguaje-corporal-saber-instante-alguien-te-mintiendo-1145705'>El método del triángulo de los expertos en lenguaje corporal para saber al instante si alguien te está mintiendo</a></h4>
     <a href='https://computerhoy.com/noticias/life/metodo-triangulo-expertos-lenguaje-corporal-saber-instante-alguien-te-mintiendo-1145705' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/eres-persona-insoportable-no-te-has-dado-cuenta-test-medico-te-ayuda-descubrirlo-2691539.jpg' alt='El método del triángulo de los expertos en lenguaje corporal para saber al instante si alguien te está mintiendo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/copiar-internet-pendrive-no-pero-transferir-todo-internet-segundo-ya-posible-1145699'>Copiar Internet a un pendrive no, pero transferir todo Internet en un segundo ya es posible</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/copiar-internet-pendrive-no-pero-transferir-todo-internet-segundo-ya-posible-1145699' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/copiar-internet-pendrive-no-pero-transferir-todo-internet-segundo-ya-posible-2852961.jpg' alt='Copiar Internet a un pendrive no, pero transferir todo Internet en un segundo ya es posible' />
     </a>
 </div>
 
