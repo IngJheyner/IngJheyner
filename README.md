@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/ha-caido-whatsapp-no-movil-ni-conexion-wifi-1145591'>Se ha caído WhatsApp, no es tu móvil ni tu conexión WiFi</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/ha-caido-whatsapp-no-movil-ni-conexion-wifi-1145591' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/whatsapp-2803159.jpg' alt='Se ha caído WhatsApp, no es tu móvil ni tu conexión WiFi' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/como-funciona-carga-energia-limpia-iphone-ios-161-1145569'>Qué es y cómo funciona la Carga con Energía Limpia del iPhone en iOS 16.1</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/como-funciona-carga-energia-limpia-iphone-ios-161-1145569' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/como-funciona-carga-energia-limpia-iphone-ios-161-2852737.jpg' alt='Qué es y cómo funciona la Carga con Energía Limpia del iPhone en iOS 16.1' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/camara-vivo-x90-promete-rinde-pack-fotografico-proximo-smartphone-top-vivo-1145553'>La cámara del Vivo X90 promete, así rinde el pack fotográfico del próximo smartphone top de vivo</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/camara-vivo-x90-promete-rinde-pack-fotografico-proximo-smartphone-top-vivo-1145553' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/analisis-vivo-x80-pro-2752737.jpg' alt='La cámara del Vivo X90 promete, así rinde el pack fotográfico del próximo smartphone top de vivo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/guia-compra/termostato-inteligente-1137293'>Todo lo que tienes que saber para comprar un termostato inteligente</a></h4>
     <a href='https://computerhoy.com/guia-compra/termostato-inteligente-1137293' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/12/termostato-inteligente-2172413.jpg' alt='Todo lo que tienes que saber para comprar un termostato inteligente' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/relojes-inteligentes-electrocardiograma-ecg-estos-son-mejores-758541'>Relojes que hacen electrocardiogramas (ECG): estos son los mejores y más baratos que puedes comprar</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/relojes-inteligentes-electrocardiograma-ecg-estos-son-mejores-758541' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/apple-watch-series-8-analisis-opinion-2841939.jpg' alt='Relojes que hacen electrocardiogramas (ECG): estos son los mejores y más baratos que puedes comprar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/27-noticias-tecnologia-comenzar-manana-informado-ultimo-1145539'>27 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/27-noticias-tecnologia-comenzar-manana-informado-ultimo-1145539' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/27-noticias-tecnologia-comenzar-manana-informado-ultimo-2852671.jpg' alt='27 noticias de tecnología para comenzar la mañana informado de lo último' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/life/cuando-es-black-friday-2022-fecha-inicio-ofertas-1145153'>Cuándo es el Black Friday 2022: esta es la fecha de inicio de las ofertas</a></h4>
-    <a href='https://computerhoy.com/reportajes/life/cuando-es-black-friday-2022-fecha-inicio-ofertas-1145153' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/portada-black-friday-2852169.jpg' alt='Cuándo es el Black Friday 2022: esta es la fecha de inicio de las ofertas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/mala-idea-besar-perro-boca-nariz-1145535'>Por qué es una mala idea besar a tu perro en la boca o la nariz</a></h4>
-    <a href='https://computerhoy.com/noticias/life/mala-idea-besar-perro-boca-nariz-1145535' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/mala-idea-besar-perro-boca-2852655.jpg' alt='Por qué es una mala idea besar a tu perro en la boca o la nariz' />
     </a>
 </div>
 
