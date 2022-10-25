@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/te-has-comprado-iphone-14-estos-accesorios-son-imprescindibles-1141081'>Si te has comprado un iPhone 14, estos accesorios son imprescindibles</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/te-has-comprado-iphone-14-estos-accesorios-son-imprescindibles-1141081' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/analisis-iphone-14-2821549.jpg' alt='Si te has comprado un iPhone 14, estos accesorios son imprescindibles' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/policia-metaverso-real-ya-siendo-formada-interpol-1145725'>La Policía del Metaverso es real, ya está siendo formada por la Interpol </a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/policia-metaverso-real-ya-siendo-formada-interpol-1145725' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/policia-metaverso-real-ya-siendo-formada-interpol-2852997.jpg' alt='La Policía del Metaverso es real, ya está siendo formada por la Interpol ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/elemento-clave-mantener-cpu-bien-fria-tienes-cocina-1145727'>El elemento clave para mantener tu CPU bien fría lo tienes en la cocina</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/elemento-clave-mantener-cpu-bien-fria-tienes-cocina-1145727' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/forma-colocar-pasta-termica-gpu-reduce-5-grados-adicionales-temperatura-no-usa-casi-nadie-2803293.jpg' alt='El elemento clave para mantener tu CPU bien fría lo tienes en la cocina' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/copiar-internet-pendrive-no-pero-transferir-todo-internet-segundo-ya-posible-1145699'>Copiar Internet a un pendrive no, pero transferir todo Internet en un segundo ya es posible</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/copiar-internet-pendrive-no-pero-transferir-todo-internet-segundo-ya-posible-1145699' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/copiar-internet-pendrive-no-pero-transferir-todo-internet-segundo-ya-posible-2852961.jpg' alt='Copiar Internet a un pendrive no, pero transferir todo Internet en un segundo ya es posible' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/nueva-costumbre-netflix-vuelve-cancelar-serie-antes-estreno-1145691'>¿Nueva costumbre? Netflix vuelve a cancelar una serie antes de su estreno</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/nueva-costumbre-netflix-vuelve-cancelar-serie-antes-estreno-1145691' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/netflix-ya-prepara-prohibicion-compartir-cuentas-lanza-transferencia-perfiles-2846083.jpg' alt='¿Nueva costumbre? Netflix vuelve a cancelar una serie antes de su estreno' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/10-funciones-macos-ventura-windows-11-deberia-tomar-nota-1145623'>Las 10 funciones de MacOS Ventura de las que Windows 11 debería tomar nota </a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/10-funciones-macos-ventura-windows-11-deberia-tomar-nota-1145623' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/10-funciones-windows-11-deberia-tomar-nota-macos-ventura-2852805.jpg' alt='Las 10 funciones de MacOS Ventura de las que Windows 11 debería tomar nota ' />
     </a>
 </div>
 
