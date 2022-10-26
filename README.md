@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/mototok-robot-electrico-transporta-aparca-aviones-helicopteros-video-1146131'>Mototok, el robot eléctrico que transporta y aparca aviones y helicopteros (vídeo)</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/mototok-robot-electrico-transporta-aparca-aviones-helicopteros-video-1146131' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/verticalimage1666744671726-2853523.jpg' alt='Mototok, el robot eléctrico que transporta y aparca aviones y helicopteros (vídeo)' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/philips-monitor-segunda-pantalla-tinta-electronica-1145893'>Philips lanza un monitor con una segunda pantalla de tinta electrónica</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/philips-monitor-segunda-pantalla-tinta-electronica-1145893' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/philips-lanza-monitor-segunda-pantalla-tinta-electronica-2853285.jpg' alt='Philips lanza un monitor con una segunda pantalla de tinta electrónica' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/pagar-tarjeta-no-gratis-estos-son-millones-embolsan-bancos-1145805'>Pagar con tarjeta no es gratis, estos son los millones que se embolsan los bancos</a></h4>
     <a href='https://computerhoy.com/noticias/life/pagar-tarjeta-no-gratis-estos-son-millones-embolsan-bancos-1145805' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/11/tarjeta-credito-2127299.jpg' alt='Pagar con tarjeta no es gratis, estos son los millones que se embolsan los bancos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/netflix-no-te-ha-enviado-ningun-sms-funciona-nueva-estafa-utiliza-suscripcion-netflix-como-cebo-1145855'>Netflix no te ha enviado ningún SMS: así funciona la nueva estafa que utiliza la suscripción a Netflix como cebo</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/netflix-no-te-ha-enviado-ningun-sms-funciona-nueva-estafa-utiliza-suscripcion-netflix-como-cebo-1145855' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/netflix-app-2767547.jpg' alt='Netflix no te ha enviado ningún SMS: así funciona la nueva estafa que utiliza la suscripción a Netflix como cebo' />
     </a>
 </div>
 
