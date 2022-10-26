@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/apple-confirma-reganadientes-tendra-usar-conector-usb-c-proximos-iphones-1146181'>Apple confirma a regañadientes que tendrá que usar el conector USB-C en sus próximos iPhones</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/apple-confirma-reganadientes-tendra-usar-conector-usb-c-proximos-iphones-1146181' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/usb-c-2830723.jpg' alt='Apple confirma a regañadientes que tendrá que usar el conector USB-C en sus próximos iPhones' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/spotify-gana-usuarios-beneficios-aun-subira-precio-suscripciones-2023-1146173'>Spotify gana en usuarios y beneficios... y aun así subirá el precio de las suscripciones en 2023</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/spotify-gana-usuarios-beneficios-aun-subira-precio-suscripciones-2023-1146173' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/spotify-2318979.jpg' alt='Spotify gana en usuarios y beneficios... y aun así subirá el precio de las suscripciones en 2023' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/directo-mejores-ofertas-black-friday-1144767'>En directo: Las mejores ofertas de Black Friday</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/directo-mejores-ofertas-black-friday-1144767' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/portada-directo-black-friday-2851279.jpg' alt='En directo: Las mejores ofertas de Black Friday' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/29-noticias-tecnologia-comenzar-manana-informado-ultimo-1146135'>29 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/29-noticias-tecnologia-comenzar-manana-informado-ultimo-1146135' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/29-noticias-tecnologia-comenzar-manana-informado-ultimo-2853525.jpg' alt='29 noticias de tecnología para comenzar la mañana informado de lo último' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/life/cuando-cyber-monday-2022-fecha-inicio-ofertas-1145637'>Cuándo es el Cyber Monday 2022: esta es la fecha de inicio de las ofertas</a></h4>
-    <a href='https://computerhoy.com/reportajes/life/cuando-cyber-monday-2022-fecha-inicio-ofertas-1145637' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/cyber-monday-2852863.jpg' alt='Cuándo es el Cyber Monday 2022: esta es la fecha de inicio de las ofertas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/mototok-robot-electrico-transporta-aparca-aviones-helicopteros-video-1146131'>Mototok, el robot eléctrico que transporta y aparca aviones y helicopteros (vídeo)</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/mototok-robot-electrico-transporta-aparca-aviones-helicopteros-video-1146131' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/verticalimage1666744671726-2853523.jpg' alt='Mototok, el robot eléctrico que transporta y aparca aviones y helicopteros (vídeo)' />
     </a>
 </div>
 
