@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/que-son-alimentos-organicos-ventajas-1146487'>Qué significa que un alimento sea "orgánico", y qué ventajas tiene</a></h4>
+    <a href='https://computerhoy.com/noticias/life/que-son-alimentos-organicos-ventajas-1146487' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/significa-alimento-sea-organico-ventajas-tiene-2854359.jpg' alt='Qué significa que un alimento sea "orgánico", y qué ventajas tiene' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/como-ver-todos-partidos-mundial-2022-solo-20-euros-forma-legal-1146391'>Cómo ver todos los partidos del Mundial 2022 por solo 20 euros y de forma legal</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/como-ver-todos-partidos-mundial-2022-solo-20-euros-forma-legal-1146391' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/televisor-futbol-tv-4k-2775915.jpg' alt='Cómo ver todos los partidos del Mundial 2022 por solo 20 euros y de forma legal' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/ya-podras-ligar-mucho-tinder-gracias-ciencia-1146479'>Ya podrás ligar mucho más en Tinder gracias a la ciencia</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/ya-podras-ligar-mucho-tinder-gracias-ciencia-1146479' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/pareja-mano-2854337.jpg' alt='Ya podrás ligar mucho más en Tinder gracias a la ciencia' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/motor/ahora-dgt-quiere-pillarte-estos-radares-carreteras-1146475'>Ahora la DGT quiere “pillarte” con estos radares en las carreteras</a></h4>
     <a href='https://computerhoy.com/noticias/motor/ahora-dgt-quiere-pillarte-estos-radares-carreteras-1146475' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/01/radar-dgt-2206447.jpg' alt='Ahora la DGT quiere “pillarte” con estos radares en las carreteras' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/gmail-web-movil-todas-funciones-explicadas-mejores-trucos-1143897'>Gmail en Web y Móvil: todas las funciones explicadas y mejores trucos</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/gmail-web-movil-todas-funciones-explicadas-mejores-trucos-1143897' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/gmail-2715359.jpg' alt='Gmail en Web y Móvil: todas las funciones explicadas y mejores trucos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/polemica-servida-politica-publicidad-app-store-ha-hecho-anuncios-casinos-inunden-tienda-apps-apple-1146383'>La polémica está servida: la política de la publicidad en la App Store ha hecho que los anuncios de casinos inunden la tienda de apps de Apple</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/polemica-servida-politica-publicidad-app-store-ha-hecho-anuncios-casinos-inunden-tienda-apps-apple-1146383' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/polemica-servida-politica-publicidad-app-store-ha-hecho-anuncios-casinos-inunden-tienda-apps-apple-2854227.jpg' alt='La polémica está servida: la política de la publicidad en la App Store ha hecho que los anuncios de casinos inunden la tienda de apps de Apple' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/listas/tecnologia/7-mejores-aplicaciones-moviles-android-identificar-aves-1143021'>Las 7 mejores aplicaciones para móviles Android con las que identificar aves</a></h4>
-    <a href='https://computerhoy.com/listas/tecnologia/7-mejores-aplicaciones-moviles-android-identificar-aves-1143021' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/7-mejores-aplicaciones-moviles-android-identificar-aves-2854133.jpg' alt='Las 7 mejores aplicaciones para móviles Android con las que identificar aves' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/prepara-movil-halloween-11-mejores-fondos-pantalla-1146379'>Prepara tu móvil para Halloween, los 12 mejores fondos de pantalla</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/prepara-movil-halloween-11-mejores-fondos-pantalla-1146379' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/10/halloween.jpg' alt='Prepara tu móvil para Halloween, los 12 mejores fondos de pantalla' />
     </a>
 </div>
 
