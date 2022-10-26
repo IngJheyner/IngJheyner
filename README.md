@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/gaming/truco-steam-ahorrar-dinero-1146515'>Con este truco podrás ahorrar mucho dinero en Steam, pruébalo con las Rebajas de Halloween</a></h4>
+    <a href='https://computerhoy.com/noticias/gaming/truco-steam-ahorrar-dinero-1146515' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/truco-podras-ahorrarte-mucho-dinero-steam-pruebalo-rebajas-halloween-2854401.jpg' alt='Con este truco podrás ahorrar mucho dinero en Steam, pruébalo con las Rebajas de Halloween' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/tiktok-ha-convertido-nuevo-facebook-desinformacion-campa-anchas-1146431'>TikTok se ha convertido en el nuevo Facebook: la desinformación campa a sus anchas</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/tiktok-ha-convertido-nuevo-facebook-desinformacion-campa-anchas-1146431' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/tiktok-vs-facebook-2692523.jpg' alt='TikTok se ha convertido en el nuevo Facebook: la desinformación campa a sus anchas' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/que-son-alimentos-organicos-ventajas-1146487'>Qué significa que un alimento sea orgánico, y qué ventajas tiene</a></h4>
     <a href='https://computerhoy.com/noticias/life/que-son-alimentos-organicos-ventajas-1146487' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/significa-alimento-sea-organico-ventajas-tiene-2854359.jpg' alt='Qué significa que un alimento sea orgánico, y qué ventajas tiene' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/como-ver-todos-partidos-mundial-2022-solo-20-euros-forma-legal-1146391'>Cómo ver todos los partidos del Mundial 2022 por solo 20 euros y de forma legal</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/como-ver-todos-partidos-mundial-2022-solo-20-euros-forma-legal-1146391' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/televisor-futbol-tv-4k-2775915.jpg' alt='Cómo ver todos los partidos del Mundial 2022 por solo 20 euros y de forma legal' />
     </a>
 </div>
 
