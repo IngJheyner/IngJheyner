@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/polemica-servida-politica-publicidad-app-store-ha-hecho-anuncios-casinos-inunden-tienda-apps-apple-1146383'>La polémica está servida: la política de la publicidad en la App Store ha hecho que los anuncios de casinos inunden la tienda de apps de Apple</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/polemica-servida-politica-publicidad-app-store-ha-hecho-anuncios-casinos-inunden-tienda-apps-apple-1146383' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/polemica-servida-politica-publicidad-app-store-ha-hecho-anuncios-casinos-inunden-tienda-apps-apple-2854227.jpg' alt='La polémica está servida: la política de la publicidad en la App Store ha hecho que los anuncios de casinos inunden la tienda de apps de Apple' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/listas/tecnologia/7-mejores-aplicaciones-moviles-android-identificar-aves-1143021'>Las 7 mejores aplicaciones para móviles Android con las que identificar aves</a></h4>
+    <a href='https://computerhoy.com/listas/tecnologia/7-mejores-aplicaciones-moviles-android-identificar-aves-1143021' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/7-mejores-aplicaciones-moviles-android-identificar-aves-2854133.jpg' alt='Las 7 mejores aplicaciones para móviles Android con las que identificar aves' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/prepara-movil-halloween-11-mejores-fondos-pantalla-1146379'>Prepara tu móvil para Halloween, los 12 mejores fondos de pantalla</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/prepara-movil-halloween-11-mejores-fondos-pantalla-1146379' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/10/halloween.jpg' alt='Prepara tu móvil para Halloween, los 12 mejores fondos de pantalla' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/roban-radares-velocidad-suiza-usarlos-drones-rusos-1146375'>Roban radares de velocidad en Suiza... para usarlos en drones rusos</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/roban-radares-velocidad-suiza-usarlos-drones-rusos-1146375' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/como-activar-funcion-google-maps-te-avisa-radares-dgt-2422045.jpg' alt='Roban radares de velocidad en Suiza... para usarlos en drones rusos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/cupones-11-11-aliexpress-como-funcionan-como-conseguirlos-1141639'>Cupones del 11.11 en AliExpress: cómo funcionan y cómo conseguirlos</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/cupones-11-11-aliexpress-como-funcionan-como-conseguirlos-1141639' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/portada-compras-2845833.jpg' alt='Cupones del 11.11 en AliExpress: cómo funcionan y cómo conseguirlos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/aunque-parezca-mentira-terrorifico-video-generado-ordenador-unreal-5-llega-tiempo-halloween-1146341'>Aunque parezca mentira este terrorífico vídeo está generado por ordenador con Unreal 5 y llega a tiempo para Halloween </a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/aunque-parezca-mentira-terrorifico-video-generado-ordenador-unreal-5-llega-tiempo-halloween-1146341' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/aunque-parezca-mentira-terrorifico-video-generado-ordenador-unreal-5-llega-tiempo-halloween-2854077.jpg' alt='Aunque parezca mentira este terrorífico vídeo está generado por ordenador con Unreal 5 y llega a tiempo para Halloween ' />
     </a>
 </div>
 
