@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/29-noticias-tecnologia-comenzar-manana-informado-ultimo-1146135'>29 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/29-noticias-tecnologia-comenzar-manana-informado-ultimo-1146135' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/29-noticias-tecnologia-comenzar-manana-informado-ultimo-2853525.jpg' alt='29 noticias de tecnología para comenzar la mañana informado de lo último' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/life/cuando-cyber-monday-2022-fecha-inicio-ofertas-1145637'>Cuándo es el Cyber Monday 2022: esta es la fecha de inicio de las ofertas</a></h4>
+    <a href='https://computerhoy.com/reportajes/life/cuando-cyber-monday-2022-fecha-inicio-ofertas-1145637' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/cyber-monday-2852863.jpg' alt='Cuándo es el Cyber Monday 2022: esta es la fecha de inicio de las ofertas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/mototok-robot-electrico-transporta-aparca-aviones-helicopteros-video-1146131'>Mototok, el robot eléctrico que transporta y aparca aviones y helicopteros (vídeo)</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/mototok-robot-electrico-transporta-aparca-aviones-helicopteros-video-1146131' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/verticalimage1666744671726-2853523.jpg' alt='Mototok, el robot eléctrico que transporta y aparca aviones y helicopteros (vídeo)' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/locura-doom-llega-chocolatinas-barra-chocolate-puedes-jugar-clasico-1145887'>La locura de DOOM llega a las chocolatinas: así es la barra de chocolate con la que puedes jugar a este clásico</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/locura-doom-llega-chocolatinas-barra-chocolate-puedes-jugar-clasico-1145887' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/locura-doom-llega-chocolatinas-barra-chocolate-puedes-jugar-clasico-2853265.jpg' alt='La locura de DOOM llega a las chocolatinas: así es la barra de chocolate con la que puedes jugar a este clásico' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/u2-ipod-acciones-apple-steve-jobs-1145877'>U2 propuso a Apple un lucrativo acuerdo pero Steve Jobs no mordió el anzuelo</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/u2-ipod-acciones-apple-steve-jobs-1145877' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/u2-propuso-apple-lucrativo-acuerdo-pero-steve-jobs-no-mordio-anzuelo-2853259.jpg' alt='U2 propuso a Apple un lucrativo acuerdo pero Steve Jobs no mordió el anzuelo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/pagar-tarjeta-no-gratis-estos-son-millones-embolsan-bancos-1145805'>Pagar con tarjeta no es gratis, estos son los millones que se embolsan los bancos</a></h4>
-    <a href='https://computerhoy.com/noticias/life/pagar-tarjeta-no-gratis-estos-son-millones-embolsan-bancos-1145805' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/11/tarjeta-credito-2127299.jpg' alt='Pagar con tarjeta no es gratis, estos son los millones que se embolsan los bancos' />
     </a>
 </div>
 
