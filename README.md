@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/philips-monitor-segunda-pantalla-tinta-electronica-1145893'>Philips lanza un monitor con una segunda pantalla de tinta electrónica</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/philips-monitor-segunda-pantalla-tinta-electronica-1145893' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/philips-lanza-monitor-segunda-pantalla-tinta-electronica-2853285.jpg' alt='Philips lanza un monitor con una segunda pantalla de tinta electrónica' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/locura-doom-llega-chocolatinas-barra-chocolate-puedes-jugar-clasico-1145887'>La locura de DOOM llega a las chocolatinas: así es la barra de chocolate con la que puedes jugar a este clásico</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/locura-doom-llega-chocolatinas-barra-chocolate-puedes-jugar-clasico-1145887' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/locura-doom-llega-chocolatinas-barra-chocolate-puedes-jugar-clasico-2853265.jpg' alt='La locura de DOOM llega a las chocolatinas: así es la barra de chocolate con la que puedes jugar a este clásico' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/netflix-no-te-ha-enviado-ningun-sms-funciona-nueva-estafa-utiliza-suscripcion-netflix-como-cebo-1145855'>Netflix no te ha enviado ningún SMS: así funciona la nueva estafa que utiliza la suscripción a Netflix como cebo</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/netflix-no-te-ha-enviado-ningun-sms-funciona-nueva-estafa-utiliza-suscripcion-netflix-como-cebo-1145855' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/netflix-app-2767547.jpg' alt='Netflix no te ha enviado ningún SMS: así funciona la nueva estafa que utiliza la suscripción a Netflix como cebo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/mini-pc-chuwi-ryzen-7-16-gb-ram-wifi-6-windows-11-oferta-1145799'>Este mini PC de CHUWI es una "bestia" con Ryzen 7, 16 GB de RAM, WiFi 6 y Windows 11, por solo 559 euros</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/mini-pc-chuwi-ryzen-7-16-gb-ram-wifi-6-windows-11-oferta-1145799' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/mini-pc-chuwi-bestia-ryzen-7-16-gb-ram-wifi-6-hardware-ultima-generacion-solo-559-euros-2853101.jpg' alt='Este mini PC de CHUWI es una "bestia" con Ryzen 7, 16 GB de RAM, WiFi 6 y Windows 11, por solo 559 euros' />
     </a>
 </div>
 
