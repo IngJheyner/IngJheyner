@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/quiere-convencer-nuevo-smartphone-realme-c33-bateria-5000-mah-camara-50-mpx-ia-1146269'>Así quiere convencer el nuevo smartphone realme C33: batería de 5.000 mAh y cámara de 50 Mpx con IA</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/quiere-convencer-nuevo-smartphone-realme-c33-bateria-5000-mah-camara-50-mpx-ia-1146269' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/realme-c33-2853897.jpg' alt='Así quiere convencer el nuevo smartphone realme C33: batería de 5.000 mAh y cámara de 50 Mpx con IA' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/gran-banco-imagenes-alia-openai-vender-creaciones-dall-2-plataforma-1146289'>Un gran banco de imágenes se alía con OpenAI para vender las creaciones de DALL-E 2 en su plataforma</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/gran-banco-imagenes-alia-openai-vender-creaciones-dall-2-plataforma-1146289' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/gran-banco-imagenes-alia-openai-vender-creaciones-plataforma-2853947.jpg' alt='Un gran banco de imágenes se alía con OpenAI para vender las creaciones de DALL-E 2 en su plataforma' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/muriendo-twitter-reflexion-hizo-elon-musk-ahora-parece-confirmarse-estudio-1146247'>¿Se está muriendo Twitter?, la reflexión que hizo Elon Musk y que ahora parece confirmarse, según un estudio</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/muriendo-twitter-reflexion-hizo-elon-musk-ahora-parece-confirmarse-estudio-1146247' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/muriendo-twitter-reflexion-hizo-elon-musk-ahora-parece-confirmarse-estudio-2853875.jpg' alt='¿Se está muriendo Twitter?, la reflexión que hizo Elon Musk y que ahora parece confirmarse, según un estudio' />
+    <h4><a href='https://computerhoy.com/noticias/gaming/pc-terrorifico-halloween-ha-montado-lego-brutal-1146273'>El PC más terrorífico de este Halloween lo ha montado LEGO... y es brutal</a></h4>
+    <a href='https://computerhoy.com/noticias/gaming/pc-terrorifico-halloween-ha-montado-lego-brutal-1146273' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/pc-mood-lego-halloween-2854007.jpg' alt='El PC más terrorífico de este Halloween lo ha montado LEGO... y es brutal' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/rode-entra-lleno-sector-gaming-dos-nuevos-microfonos-xdm-100-xcm-50-1146237'>Rode entra de lleno en el sector gaming con dos nuevos micrófonos: XDM-100 y XCM-50 </a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/rode-entra-lleno-sector-gaming-dos-nuevos-microfonos-xdm-100-xcm-50-1146237' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/rode-xdm-100-2853699.jpg' alt='Rode entra de lleno en el sector gaming con dos nuevos micrófonos: XDM-100 y XCM-50 ' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/ganga-macbook-air-m2-baja-300-euros-amazon-1146211'>Ganga en el MacBook Air con M2: baja más de 300 euros en Amazon</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/ganga-macbook-air-m2-baja-300-euros-amazon-1146211' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/galeria-review-macbook-air-m2-2779311.jpg' alt='Ganga en el MacBook Air con M2: baja más de 300 euros en Amazon' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/whatsapp-estrena-funcion-enviar-imagenes-videos-gifs-documentos-pie-foto-1146201'>WhatsApp estrena función: enviar imágenes, vídeos, GIFs y documentos con pie de foto</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/whatsapp-estrena-funcion-enviar-imagenes-videos-gifs-documentos-pie-foto-1146201' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/logotipo-whatsapp-2850303.jpg' alt='WhatsApp estrena función: enviar imágenes, vídeos, GIFs y documentos con pie de foto' />
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/omegle-como-funciona-redes-sociales-peligrosas-deberias-evitar-808247'>Qué es Omegle y cómo funciona la peligrosa red social que deberías evitar</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/omegle-como-funciona-redes-sociales-peligrosas-deberias-evitar-808247' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/omegle-2632433.jpg' alt='Qué es Omegle y cómo funciona la peligrosa red social que deberías evitar' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/ofertas-adelantadas-aliexpress-1111-1146185'>Adelántate al 11.11 de AliExpress: 5 gangas en productos de primera categoría que ya están rebajados</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/ofertas-adelantadas-aliexpress-1111-1146185' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/1111-aliexpress-11-11-2853593.jpg' alt='Adelántate al 11.11 de AliExpress: 5 gangas en productos de primera categoría que ya están rebajados' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/numero-ataques-ransomware-ha-reducido-2022-pero-no-te-emociones-hay-trampa-1146265'>El número de ataques de ransomware se ha reducido este 2022, pero no te emociones, hay trampa</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/numero-ataques-ransomware-ha-reducido-2022-pero-no-te-emociones-hay-trampa-1146265' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/02/5-tendencias-van-cambiar-ciberseguridad-2020-1858639.jpg' alt='El número de ataques de ransomware se ha reducido este 2022, pero no te emociones, hay trampa' />
     </a>
 </div>
 
