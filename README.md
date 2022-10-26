@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/estas-son-grandes-mejoras-esperan-versiones-pro-proximos-iphone-15-1146313'>Estas son las grandes mejoras que se esperan en las versiones Pro de los próximos iPhone 15</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/estas-son-grandes-mejoras-esperan-versiones-pro-proximos-iphone-15-1146313' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/analisis-iphone-14-pro-2821731.jpg' alt='Estas son las grandes mejoras que se esperan en las versiones Pro de los próximos iPhone 15' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/gran-banco-imagenes-alia-openai-vender-creaciones-dall-2-plataforma-1146289'>Un gran banco de imágenes se alía con OpenAI para vender las creaciones de DALL-E 2 en su plataforma</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/gran-banco-imagenes-alia-openai-vender-creaciones-dall-2-plataforma-1146289' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/gran-banco-imagenes-alia-openai-vender-creaciones-plataforma-2853947.jpg' alt='Un gran banco de imágenes se alía con OpenAI para vender las creaciones de DALL-E 2 en su plataforma' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/omegle-como-funciona-redes-sociales-peligrosas-deberias-evitar-808247'>Qué es Omegle y cómo funciona la peligrosa red social que deberías evitar</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/omegle-como-funciona-redes-sociales-peligrosas-deberias-evitar-808247' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/omegle-2632433.jpg' alt='Qué es Omegle y cómo funciona la peligrosa red social que deberías evitar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/numero-ataques-ransomware-ha-reducido-2022-pero-no-te-emociones-hay-trampa-1146265'>El número de ataques de ransomware se ha reducido este 2022, pero no te emociones, hay trampa</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/numero-ataques-ransomware-ha-reducido-2022-pero-no-te-emociones-hay-trampa-1146265' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/02/5-tendencias-van-cambiar-ciberseguridad-2020-1858639.jpg' alt='El número de ataques de ransomware se ha reducido este 2022, pero no te emociones, hay trampa' />
     </a>
 </div>
 
