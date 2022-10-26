@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/prepara-movil-halloween-11-mejores-fondos-pantalla-1146379'>Prepara tu móvil para Halloween, los 12 mejores fondos de pantalla</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/prepara-movil-halloween-11-mejores-fondos-pantalla-1146379' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/10/halloween.jpg' alt='Prepara tu móvil para Halloween, los 12 mejores fondos de pantalla' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/nothing-ear-stick-son-nuevos-auriculares-tws-nothing-diseno-muy-llamativo-1145793'>Nothing Ear (Stick): así son los nuevos auriculares TWS de Nothing con un diseño muy llamativo</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/nothing-ear-stick-son-nuevos-auriculares-tws-nothing-diseno-muy-llamativo-1145793' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/nothing-presenta-nuevos-auriculares-tws-nothing-ear-stick-2853099.jpg' alt='Nothing Ear (Stick): así son los nuevos auriculares TWS de Nothing con un diseño muy llamativo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/roban-radares-velocidad-suiza-usarlos-drones-rusos-1146375'>Roban radares de velocidad en Suiza... para usarlos en drones rusos</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/roban-radares-velocidad-suiza-usarlos-drones-rusos-1146375' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/como-activar-funcion-google-maps-te-avisa-radares-dgt-2422045.jpg' alt='Roban radares de velocidad en Suiza... para usarlos en drones rusos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/cupones-11-11-aliexpress-como-funcionan-como-conseguirlos-1141639'>Cupones del 11.11 en AliExpress: cómo funcionan y cómo conseguirlos</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/cupones-11-11-aliexpress-como-funcionan-como-conseguirlos-1141639' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/portada-compras-2845833.jpg' alt='Cupones del 11.11 en AliExpress: cómo funcionan y cómo conseguirlos' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/aunque-parezca-mentira-terrorifico-video-generado-ordenador-unreal-5-llega-tiempo-halloween-1146341'>Aunque parezca mentira este terrorífico vídeo está generado por ordenador con Unreal 5 y llega a tiempo para Halloween </a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/aunque-parezca-mentira-terrorifico-video-generado-ordenador-unreal-5-llega-tiempo-halloween-1146341' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/aunque-parezca-mentira-terrorifico-video-generado-ordenador-unreal-5-llega-tiempo-halloween-2854077.jpg' alt='Aunque parezca mentira este terrorífico vídeo está generado por ordenador con Unreal 5 y llega a tiempo para Halloween ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/amd-asegura-nuevas-gpus-no-quemaran-conectores-alimentacion-como-rtx-4090-1146321'>AMD asegura que sus nuevas GPUs no quemarán los conectores de alimentación como las RTX 4090</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/amd-asegura-nuevas-gpus-no-quemaran-conectores-alimentacion-como-rtx-4090-1146321' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/10/amd-desvela-tarjetas-radeon-rx-6000-potentes-rtx-3000-nvidia-baratas-2117365.jpg' alt='AMD asegura que sus nuevas GPUs no quemarán los conectores de alimentación como las RTX 4090' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/estas-son-grandes-mejoras-esperan-versiones-pro-proximos-iphone-15-1146313'>Estas son las grandes mejoras que se esperan en las versiones Pro de los próximos iPhone 15</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/estas-son-grandes-mejoras-esperan-versiones-pro-proximos-iphone-15-1146313' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/analisis-iphone-14-pro-2821731.jpg' alt='Estas son las grandes mejoras que se esperan en las versiones Pro de los próximos iPhone 15' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/gran-banco-imagenes-alia-openai-vender-creaciones-dall-2-plataforma-1146289'>Un gran banco de imágenes se alía con OpenAI para vender las creaciones de DALL-E 2 en su plataforma</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/gran-banco-imagenes-alia-openai-vender-creaciones-dall-2-plataforma-1146289' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/gran-banco-imagenes-alia-openai-vender-creaciones-plataforma-2853947.jpg' alt='Un gran banco de imágenes se alía con OpenAI para vender las creaciones de DALL-E 2 en su plataforma' />
     </a>
 </div>
 
