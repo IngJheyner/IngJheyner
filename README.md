@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/ahora-dgt-quiere-pillarte-estos-radares-carreteras-1146475'>Ahora la DGT quiere “pillarte” con estos radares en las carreteras</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/ahora-dgt-quiere-pillarte-estos-radares-carreteras-1146475' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/01/radar-dgt-2206447.jpg' alt='Ahora la DGT quiere “pillarte” con estos radares en las carreteras' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/gmail-web-movil-todas-funciones-explicadas-mejores-trucos-1143897'>Gmail en Web y Móvil: todas las funciones explicadas y mejores trucos</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/gmail-web-movil-todas-funciones-explicadas-mejores-trucos-1143897' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/gmail-2715359.jpg' alt='Gmail en Web y Móvil: todas las funciones explicadas y mejores trucos' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/prepara-movil-halloween-11-mejores-fondos-pantalla-1146379'>Prepara tu móvil para Halloween, los 12 mejores fondos de pantalla</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/prepara-movil-halloween-11-mejores-fondos-pantalla-1146379' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/10/halloween.jpg' alt='Prepara tu móvil para Halloween, los 12 mejores fondos de pantalla' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/nothing-ear-stick-son-nuevos-auriculares-tws-nothing-diseno-muy-llamativo-1145793'>Nothing Ear (Stick): así son los nuevos auriculares TWS de Nothing con un diseño muy llamativo</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/nothing-ear-stick-son-nuevos-auriculares-tws-nothing-diseno-muy-llamativo-1145793' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/nothing-presenta-nuevos-auriculares-tws-nothing-ear-stick-2853099.jpg' alt='Nothing Ear (Stick): así son los nuevos auriculares TWS de Nothing con un diseño muy llamativo' />
     </a>
 </div>
 
