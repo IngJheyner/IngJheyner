@@ -50,9 +50,17 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/que-son-alimentos-organicos-ventajas-1146487'>Qué significa que un alimento sea "orgánico", y qué ventajas tiene</a></h4>
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/plan-basico-anuncios-netflix-desaparecen-series-peliculas-1146495'>Por qué algunas series y películas no se podrán ver en la suscripción de Netflix con anuncios</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/plan-basico-anuncios-netflix-desaparecen-series-peliculas-1146495' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/donde-veras-anuncios-nueva-suscripcion-barata-netflix-tdt-2843511.jpg' alt='Por qué algunas series y películas no se podrán ver en la suscripción de Netflix con anuncios' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/que-son-alimentos-organicos-ventajas-1146487'>Qué significa que un alimento sea orgánico, y qué ventajas tiene</a></h4>
     <a href='https://computerhoy.com/noticias/life/que-son-alimentos-organicos-ventajas-1146487' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/significa-alimento-sea-organico-ventajas-tiene-2854359.jpg' alt='Qué significa que un alimento sea "orgánico", y qué ventajas tiene' />
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/significa-alimento-sea-organico-ventajas-tiene-2854359.jpg' alt='Qué significa que un alimento sea orgánico, y qué ventajas tiene' />
     </a>
 </div>
 
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/motor/ahora-dgt-quiere-pillarte-estos-radares-carreteras-1146475'>Ahora la DGT quiere “pillarte” con estos radares en las carreteras</a></h4>
     <a href='https://computerhoy.com/noticias/motor/ahora-dgt-quiere-pillarte-estos-radares-carreteras-1146475' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/01/radar-dgt-2206447.jpg' alt='Ahora la DGT quiere “pillarte” con estos radares en las carreteras' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/gmail-web-movil-todas-funciones-explicadas-mejores-trucos-1143897'>Gmail en Web y Móvil: todas las funciones explicadas y mejores trucos</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/gmail-web-movil-todas-funciones-explicadas-mejores-trucos-1143897' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/gmail-2715359.jpg' alt='Gmail en Web y Móvil: todas las funciones explicadas y mejores trucos' />
     </a>
 </div>
 
