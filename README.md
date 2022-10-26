@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/quiere-convencer-nuevo-smartphone-realme-c33-bateria-5000-mah-camara-50-mpx-ia-1146269'>Así quiere convencer el nuevo smartphone realme C33: batería de 5.000 mAh y cámara de 50 Mpx con IA</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/quiere-convencer-nuevo-smartphone-realme-c33-bateria-5000-mah-camara-50-mpx-ia-1146269' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/realme-c33-2853897.jpg' alt='Así quiere convencer el nuevo smartphone realme C33: batería de 5.000 mAh y cámara de 50 Mpx con IA' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/muriendo-twitter-reflexion-hizo-elon-musk-ahora-parece-confirmarse-estudio-1146247'>¿Se está muriendo Twitter?, la reflexión que hizo Elon Musk y que ahora parece confirmarse, según un estudio</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/muriendo-twitter-reflexion-hizo-elon-musk-ahora-parece-confirmarse-estudio-1146247' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/muriendo-twitter-reflexion-hizo-elon-musk-ahora-parece-confirmarse-estudio-2853875.jpg' alt='¿Se está muriendo Twitter?, la reflexión que hizo Elon Musk y que ahora parece confirmarse, según un estudio' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/rode-entra-lleno-sector-gaming-dos-nuevos-microfonos-xdm-100-xcm-50-1146237'>Rode entra de lleno en el sector gaming con dos nuevos micrófonos: XDM-100 y XCM-50 </a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/rode-entra-lleno-sector-gaming-dos-nuevos-microfonos-xdm-100-xcm-50-1146237' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/rode-xdm-100-2853699.jpg' alt='Rode entra de lleno en el sector gaming con dos nuevos micrófonos: XDM-100 y XCM-50 ' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/ofertas-adelantadas-aliexpress-1111-1146185'>Adelántate al 11.11 de AliExpress: 5 gangas en productos de primera categoría que ya están rebajados</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/ofertas-adelantadas-aliexpress-1111-1146185' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/1111-aliexpress-11-11-2853593.jpg' alt='Adelántate al 11.11 de AliExpress: 5 gangas en productos de primera categoría que ya están rebajados' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/apple-confirma-reganadientes-tendra-usar-conector-usb-c-proximos-iphones-1146181'>Apple confirma a regañadientes que tendrá que usar el conector USB-C en sus próximos iPhones</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/apple-confirma-reganadientes-tendra-usar-conector-usb-c-proximos-iphones-1146181' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/usb-c-2830723.jpg' alt='Apple confirma a regañadientes que tendrá que usar el conector USB-C en sus próximos iPhones' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/spotify-gana-usuarios-beneficios-aun-subira-precio-suscripciones-2023-1146173'>Spotify gana en usuarios y beneficios... y aun así subirá el precio de las suscripciones en 2023</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/spotify-gana-usuarios-beneficios-aun-subira-precio-suscripciones-2023-1146173' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/spotify-2318979.jpg' alt='Spotify gana en usuarios y beneficios... y aun así subirá el precio de las suscripciones en 2023' />
     </a>
 </div>
 
