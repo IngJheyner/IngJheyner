@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/cupones-11-11-aliexpress-como-funcionan-como-conseguirlos-1141639'>Cupones del 11.11 en AliExpress: cómo funcionan y cómo conseguirlos</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/cupones-11-11-aliexpress-como-funcionan-como-conseguirlos-1141639' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/portada-compras-2845833.jpg' alt='Cupones del 11.11 en AliExpress: cómo funcionan y cómo conseguirlos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/aunque-parezca-mentira-terrorifico-video-generado-ordenador-unreal-5-llega-tiempo-halloween-1146341'>Aunque parezca mentira este terrorífico vídeo está generado por ordenador con Unreal 5 y llega a tiempo para Halloween </a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/aunque-parezca-mentira-terrorifico-video-generado-ordenador-unreal-5-llega-tiempo-halloween-1146341' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/aunque-parezca-mentira-terrorifico-video-generado-ordenador-unreal-5-llega-tiempo-halloween-2854077.jpg' alt='Aunque parezca mentira este terrorífico vídeo está generado por ordenador con Unreal 5 y llega a tiempo para Halloween ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/amd-asegura-nuevas-gpus-no-quemaran-conectores-alimentacion-como-rtx-4090-1146321'>AMD asegura que sus nuevas GPUs no quemarán los conectores de alimentación como las RTX 4090</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/amd-asegura-nuevas-gpus-no-quemaran-conectores-alimentacion-como-rtx-4090-1146321' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/10/amd-desvela-tarjetas-radeon-rx-6000-potentes-rtx-3000-nvidia-baratas-2117365.jpg' alt='AMD asegura que sus nuevas GPUs no quemarán los conectores de alimentación como las RTX 4090' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/estas-son-grandes-mejoras-esperan-versiones-pro-proximos-iphone-15-1146313'>Estas son las grandes mejoras que se esperan en las versiones Pro de los próximos iPhone 15</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/estas-son-grandes-mejoras-esperan-versiones-pro-proximos-iphone-15-1146313' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/analisis-iphone-14-pro-2821731.jpg' alt='Estas son las grandes mejoras que se esperan en las versiones Pro de los próximos iPhone 15' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/gran-banco-imagenes-alia-openai-vender-creaciones-dall-2-plataforma-1146289'>Un gran banco de imágenes se alía con OpenAI para vender las creaciones de DALL-E 2 en su plataforma</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/gran-banco-imagenes-alia-openai-vender-creaciones-dall-2-plataforma-1146289' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/gran-banco-imagenes-alia-openai-vender-creaciones-plataforma-2853947.jpg' alt='Un gran banco de imágenes se alía con OpenAI para vender las creaciones de DALL-E 2 en su plataforma' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/gaming/pc-terrorifico-halloween-ha-montado-lego-brutal-1146273'>El PC más terrorífico de este Halloween lo ha montado LEGO... y es brutal</a></h4>
-    <a href='https://computerhoy.com/noticias/gaming/pc-terrorifico-halloween-ha-montado-lego-brutal-1146273' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/pc-mood-lego-halloween-2854007.jpg' alt='El PC más terrorífico de este Halloween lo ha montado LEGO... y es brutal' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/ganga-macbook-air-m2-baja-300-euros-amazon-1146211'>Ganga en el MacBook Air con M2: baja más de 300 euros en Amazon</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/ganga-macbook-air-m2-baja-300-euros-amazon-1146211' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/galeria-review-macbook-air-m2-2779311.jpg' alt='Ganga en el MacBook Air con M2: baja más de 300 euros en Amazon' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/omegle-como-funciona-redes-sociales-peligrosas-deberias-evitar-808247'>Qué es Omegle y cómo funciona la peligrosa red social que deberías evitar</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/omegle-como-funciona-redes-sociales-peligrosas-deberias-evitar-808247' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/omegle-2632433.jpg' alt='Qué es Omegle y cómo funciona la peligrosa red social que deberías evitar' />
     </a>
 </div>
 
