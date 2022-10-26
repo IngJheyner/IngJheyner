@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/tiktok-ha-convertido-nuevo-facebook-desinformacion-campa-anchas-1146431'>TikTok se ha convertido en el nuevo Facebook: la desinformación campa a sus anchas</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/tiktok-ha-convertido-nuevo-facebook-desinformacion-campa-anchas-1146431' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/tiktok-vs-facebook-2692523.jpg' alt='TikTok se ha convertido en el nuevo Facebook: la desinformación campa a sus anchas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/tablet-xiaomi-pad-5-descuento-1146511'>La tablet Xiaomi Pad 5 tiene un descuento del 21%, es ideal para ver series o jugar a videojuegos en cualquier sitio</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/tablet-xiaomi-pad-5-descuento-1146511' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/analisis-xiaomi-pad-5-2531827.jpg' alt='La tablet Xiaomi Pad 5 tiene un descuento del 21%, es ideal para ver series o jugar a videojuegos en cualquier sitio' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/plan-basico-anuncios-netflix-desaparecen-series-peliculas-1146495'>Por qué algunas series y películas no se podrán ver en la suscripción de Netflix con anuncios</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/plan-basico-anuncios-netflix-desaparecen-series-peliculas-1146495' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/donde-veras-anuncios-nueva-suscripcion-barata-netflix-tdt-2843511.jpg' alt='Por qué algunas series y películas no se podrán ver en la suscripción de Netflix con anuncios' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/como-ver-todos-partidos-mundial-2022-solo-20-euros-forma-legal-1146391'>Cómo ver todos los partidos del Mundial 2022 por solo 20 euros y de forma legal</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/como-ver-todos-partidos-mundial-2022-solo-20-euros-forma-legal-1146391' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/televisor-futbol-tv-4k-2775915.jpg' alt='Cómo ver todos los partidos del Mundial 2022 por solo 20 euros y de forma legal' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/ya-podras-ligar-mucho-tinder-gracias-ciencia-1146479'>Ya podrás ligar mucho más en Tinder gracias a la ciencia</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/ya-podras-ligar-mucho-tinder-gracias-ciencia-1146479' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/pareja-mano-2854337.jpg' alt='Ya podrás ligar mucho más en Tinder gracias a la ciencia' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/ahora-dgt-quiere-pillarte-estos-radares-carreteras-1146475'>Ahora la DGT quiere “pillarte” con estos radares en las carreteras</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/ahora-dgt-quiere-pillarte-estos-radares-carreteras-1146475' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/01/radar-dgt-2206447.jpg' alt='Ahora la DGT quiere “pillarte” con estos radares en las carreteras' />
     </a>
 </div>
 
