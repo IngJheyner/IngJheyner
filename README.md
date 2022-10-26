@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/gmail-web-movil-todas-funciones-explicadas-mejores-trucos-1143897'>Gmail en Web y Móvil: todas las funciones explicadas y mejores trucos</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/gmail-web-movil-todas-funciones-explicadas-mejores-trucos-1143897' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/gmail-2715359.jpg' alt='Gmail en Web y Móvil: todas las funciones explicadas y mejores trucos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/polemica-servida-politica-publicidad-app-store-ha-hecho-anuncios-casinos-inunden-tienda-apps-apple-1146383'>La polémica está servida: la política de la publicidad en la App Store ha hecho que los anuncios de casinos inunden la tienda de apps de Apple</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/polemica-servida-politica-publicidad-app-store-ha-hecho-anuncios-casinos-inunden-tienda-apps-apple-1146383' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/polemica-servida-politica-publicidad-app-store-ha-hecho-anuncios-casinos-inunden-tienda-apps-apple-2854227.jpg' alt='La polémica está servida: la política de la publicidad en la App Store ha hecho que los anuncios de casinos inunden la tienda de apps de Apple' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/nothing-ear-stick-son-nuevos-auriculares-tws-nothing-diseno-muy-llamativo-1145793'>Nothing Ear (Stick): así son los nuevos auriculares TWS de Nothing con un diseño muy llamativo</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/nothing-ear-stick-son-nuevos-auriculares-tws-nothing-diseno-muy-llamativo-1145793' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/nothing-presenta-nuevos-auriculares-tws-nothing-ear-stick-2853099.jpg' alt='Nothing Ear (Stick): así son los nuevos auriculares TWS de Nothing con un diseño muy llamativo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/roban-radares-velocidad-suiza-usarlos-drones-rusos-1146375'>Roban radares de velocidad en Suiza... para usarlos en drones rusos</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/roban-radares-velocidad-suiza-usarlos-drones-rusos-1146375' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/como-activar-funcion-google-maps-te-avisa-radares-dgt-2422045.jpg' alt='Roban radares de velocidad en Suiza... para usarlos en drones rusos' />
     </a>
 </div>
 
