@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/directo-mejores-ofertas-black-friday-1144767'>En directo: Las mejores ofertas de Black Friday</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/directo-mejores-ofertas-black-friday-1144767' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/portada-directo-black-friday-2851279.jpg' alt='En directo: Las mejores ofertas de Black Friday' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/life/que-merece-pena-comprar-11-11-aliexpress-1145665'>Qué comprar en el 11.11 de AliExpress: estos suelen ser los productos con mayor descuento en China</a></h4>
+    <a href='https://computerhoy.com/reportajes/life/que-merece-pena-comprar-11-11-aliexpress-1145665' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/portada-1111-aliexpress-2852995.jpg' alt='Qué comprar en el 11.11 de AliExpress: estos suelen ser los productos con mayor descuento en China' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/29-noticias-tecnologia-comenzar-manana-informado-ultimo-1146135'>29 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/29-noticias-tecnologia-comenzar-manana-informado-ultimo-1146135' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/29-noticias-tecnologia-comenzar-manana-informado-ultimo-2853525.jpg' alt='29 noticias de tecnología para comenzar la mañana informado de lo último' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/mototok-robot-electrico-transporta-aparca-aviones-helicopteros-video-1146131'>Mototok, el robot eléctrico que transporta y aparca aviones y helicopteros (vídeo)</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/mototok-robot-electrico-transporta-aparca-aviones-helicopteros-video-1146131' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/verticalimage1666744671726-2853523.jpg' alt='Mototok, el robot eléctrico que transporta y aparca aviones y helicopteros (vídeo)' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/philips-monitor-segunda-pantalla-tinta-electronica-1145893'>Philips lanza un monitor con una segunda pantalla de tinta electrónica</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/philips-monitor-segunda-pantalla-tinta-electronica-1145893' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/philips-lanza-monitor-segunda-pantalla-tinta-electronica-2853285.jpg' alt='Philips lanza un monitor con una segunda pantalla de tinta electrónica' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/locura-doom-llega-chocolatinas-barra-chocolate-puedes-jugar-clasico-1145887'>La locura de DOOM llega a las chocolatinas: así es la barra de chocolate con la que puedes jugar a este clásico</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/locura-doom-llega-chocolatinas-barra-chocolate-puedes-jugar-clasico-1145887' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/locura-doom-llega-chocolatinas-barra-chocolate-puedes-jugar-clasico-2853265.jpg' alt='La locura de DOOM llega a las chocolatinas: así es la barra de chocolate con la que puedes jugar a este clásico' />
     </a>
 </div>
 
