@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/motor-powerstorm-mbb-optibike-bicicletas-electricas-1147269'>El nuevo motor Powerstorm MBB para bicicletas eléctricas es tan potente que es ilegal en Europa</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/motor-powerstorm-mbb-optibike-bicicletas-electricas-1147269' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/nuevo-motor-powerstorm-mbb-bicicletas-electricas-tan-potente-ilegal-europa-2855729.jpg' alt='El nuevo motor Powerstorm MBB para bicicletas eléctricas es tan potente que es ilegal en Europa' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/te-costara-pasar-itv-cada-comunidad-autonoma-hay-grandes-diferencias-1147257'>Esto es lo que te costará pasar la ITV en cada Comunidad Autónoma, y hay grandes diferencias</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/te-costara-pasar-itv-cada-comunidad-autonoma-hay-grandes-diferencias-1147257' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/itv-2475297.jpg' alt='Esto es lo que te costará pasar la ITV en cada Comunidad Autónoma, y hay grandes diferencias' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/snapchat-fin-anade-editor-video-1147023'>Snapchat al fin añade un editor de vídeo</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/snapchat-fin-anade-editor-video-1147023' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/snapchat-fin-anade-editor-video-2855451.jpg' alt='Snapchat al fin añade un editor de vídeo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/ofertas-tecnoprecios-corte-ingles-octubre-1146975'>5 ofertas de los Tecnoprecios de El Corte Inglés que superan a otras tiendas</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/ofertas-tecnoprecios-corte-ingles-octubre-1146975' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/corte-ingles-2855225.jpg' alt='5 ofertas de los Tecnoprecios de El Corte Inglés que superan a otras tiendas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/entretenimiento/costumbres-formas-celebrar-halloween-tambien-puedes-hacer-espana-2022-1145845'>Costumbres y formas de celebrar Halloween que también puedes hacer en España este 2022</a></h4>
     <a href='https://computerhoy.com/reportajes/entretenimiento/costumbres-formas-celebrar-halloween-tambien-puedes-hacer-espana-2022-1145845' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/costumbres-formas-celebrar-halloween-tambien-puedes-hacer-espana-2022-2853191.jpg' alt='Costumbres y formas de celebrar Halloween que también puedes hacer en España este 2022' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/primer-coche-volador-espanol-ya-vuela-jaen-1147025'>El primer coche volador español ya vuela sobre Jaén</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/primer-coche-volador-espanol-ya-vuela-jaen-1147025' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/concept-integrity-2854695.jpg' alt='El primer coche volador español ya vuela sobre Jaén' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/ya-estan-llegando-chalecos-trajes-hapticos-te-haran-sentir-golpes-caricias-metaverso-1147017'>Ya están llegando los chalecos y trajes hápticos que te harán sentir golpes o caricias en el Metaverso </a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/ya-estan-llegando-chalecos-trajes-hapticos-te-haran-sentir-golpes-caricias-metaverso-1147017' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/ya-estan-llegando-chalecos-trajes-hapticos-te-haran-sentir-golpes-caricias-metaverso-2855427.jpg' alt='Ya están llegando los chalecos y trajes hápticos que te harán sentir golpes o caricias en el Metaverso ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/whatsapp-no-te-funciona-te-contamos-posibles-soluciones-hay-1086537'>Si WhatsApp no te funciona, te contamos que posibles soluciones hay</a></h4>
-    <a href='https://computerhoy.com/tutoriales/tecnologia/whatsapp-no-te-funciona-te-contamos-posibles-soluciones-hay-1086537' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/whatsapp-2721883.jpg' alt='Si WhatsApp no te funciona, te contamos que posibles soluciones hay' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/12-mejores-memes-halloween-whatsapp-1147015'>Los 12 mejores memes de Halloween para WhatsApp</a></h4>
-    <a href='https://computerhoy.com/noticias/life/12-mejores-memes-halloween-whatsapp-1147015' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/halloween-2855369.jpg' alt='Los 12 mejores memes de Halloween para WhatsApp' />
     </a>
 </div>
 
