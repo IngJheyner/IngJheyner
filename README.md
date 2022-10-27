@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/smartmi-2s-pro-retrete-inteligente-xiaomi-video-1146723'>Smartmi 2S Pro, el retrete inteligente de Xiaomi (vídeo)</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/smartmi-2s-pro-retrete-inteligente-xiaomi-video-1146723' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/verticalimage1666830592276-2854607.jpg' alt='Smartmi 2S Pro, el retrete inteligente de Xiaomi (vídeo)' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/gaming/truco-steam-ahorrar-dinero-1146515'>Con este truco podrás ahorrar mucho dinero en Steam, pruébalo con las Rebajas de Halloween</a></h4>
     <a href='https://computerhoy.com/noticias/gaming/truco-steam-ahorrar-dinero-1146515' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/truco-podras-ahorrarte-mucho-dinero-steam-pruebalo-rebajas-halloween-2854401.jpg' alt='Con este truco podrás ahorrar mucho dinero en Steam, pruébalo con las Rebajas de Halloween' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/plan-basico-anuncios-netflix-desaparecen-series-peliculas-1146495'>Por qué algunas series y películas no se podrán ver en la suscripción de Netflix con anuncios</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/plan-basico-anuncios-netflix-desaparecen-series-peliculas-1146495' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/donde-veras-anuncios-nueva-suscripcion-barata-netflix-tdt-2843511.jpg' alt='Por qué algunas series y películas no se podrán ver en la suscripción de Netflix con anuncios' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/que-son-alimentos-organicos-ventajas-1146487'>Qué significa que un alimento sea orgánico, y qué ventajas tiene</a></h4>
-    <a href='https://computerhoy.com/noticias/life/que-son-alimentos-organicos-ventajas-1146487' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/significa-alimento-sea-organico-ventajas-tiene-2854359.jpg' alt='Qué significa que un alimento sea orgánico, y qué ventajas tiene' />
     </a>
 </div>
 
