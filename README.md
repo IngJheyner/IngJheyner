@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/eres-persona-facilmente-influenciable-ilusion-optica-te-dice-1147253'>¿Eres una persona fácilmente influenciable? Esta ilusión óptica te lo dice</a></h4>
+    <a href='https://computerhoy.com/noticias/life/eres-persona-facilmente-influenciable-ilusion-optica-te-dice-1147253' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/eres-persona-facilmente-influenciable-ilusion-optica-te-dice-2855757.jpg' alt='¿Eres una persona fácilmente influenciable? Esta ilusión óptica te lo dice' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/google-da-finalizada-pandemia-covid-19-importante-detalle-google-maps-1147277'>Google da por finalizada la pandemia del COVID-19 con este importante detalle en Google Maps</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/google-da-finalizada-pandemia-covid-19-importante-detalle-google-maps-1147277' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/google-maps-2352479.jpg' alt='Google da por finalizada la pandemia del COVID-19 con este importante detalle en Google Maps' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/motor/te-costara-pasar-itv-cada-comunidad-autonoma-hay-grandes-diferencias-1147257'>Esto es lo que te costará pasar la ITV en cada Comunidad Autónoma, y hay grandes diferencias</a></h4>
     <a href='https://computerhoy.com/noticias/motor/te-costara-pasar-itv-cada-comunidad-autonoma-hay-grandes-diferencias-1147257' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/itv-2475297.jpg' alt='Esto es lo que te costará pasar la ITV en cada Comunidad Autónoma, y hay grandes diferencias' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/snapchat-fin-anade-editor-video-1147023'>Snapchat al fin añade un editor de vídeo</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/snapchat-fin-anade-editor-video-1147023' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/snapchat-fin-anade-editor-video-2855451.jpg' alt='Snapchat al fin añade un editor de vídeo' />
     </a>
 </div>
 
