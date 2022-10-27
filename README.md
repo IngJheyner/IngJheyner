@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/teoria-gravedad-tambalea-300-anos-inamovible-1146759'>La teoría de la gravedad se tambalea tras más de 300 años inamovible</a></h4>
+    <a href='https://computerhoy.com/noticias/life/teoria-gravedad-tambalea-300-anos-inamovible-1146759' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/nino-comiendo-manzana-2711719.jpg' alt='La teoría de la gravedad se tambalea tras más de 300 años inamovible' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/sera-meta-quest-3-lanzara-ano-viene-aunque-seguramente-implique-perdidas-astronomicas-1146773'>Así será Meta Quest 3: se lanzará el año que viene aunque seguramente implique pérdidas astronómicas </a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/sera-meta-quest-3-lanzara-ano-viene-aunque-seguramente-implique-perdidas-astronomicas-1146773' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/sera-meta-quest-3-lanzara-ano-viene-aunque-seguramente-implique-perdidas-astronomicas-2854677.jpg' alt='Así será Meta Quest 3: se lanzará el año que viene aunque seguramente implique pérdidas astronómicas ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/ya-quiosco-numero-628-computer-hoy-1143321'>¡Ya está en tu quiosco el número 628 de Computer Hoy!</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/ya-quiosco-numero-628-computer-hoy-1143321' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/computer-hoy-628-2849719.jpg' alt='¡Ya está en tu quiosco el número 628 de Computer Hoy!' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/donde-comprar-iphone-14-rebajado-black-friday-precio-tiendas-hay-descuentos-1146293'>Dónde comprar el iPhone 14 rebajado este Black Friday: precio y tiendas en las que hay descuentos</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/donde-comprar-iphone-14-rebajado-black-friday-precio-tiendas-hay-descuentos-1146293' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/analisis-iphone-14-pro-2821751.jpg' alt='Dónde comprar el iPhone 14 rebajado este Black Friday: precio y tiendas en las que hay descuentos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/27-noticias-tecnologia-comenzar-manana-informado-ultimo-1146729'>27 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/27-noticias-tecnologia-comenzar-manana-informado-ultimo-1146729' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/27-noticias-tecnologia-comenzar-manana-informado-ultimo-2854613.jpg' alt='27 noticias de tecnología para comenzar la mañana informado de lo último' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-trucos-consejos-ahorrar-black-friday-970097'>Mejores trucos y consejos para ahorrar en el Black Friday</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-trucos-consejos-ahorrar-black-friday-970097' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/black-friday-2852763.jpg' alt='Mejores trucos y consejos para ahorrar en el Black Friday' />
     </a>
 </div>
 
