@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/elon-musk-ya-decorando-despacho-venta-twitter-cuestion-horas-1146821'>Elon Musk ya está decorando su despacho: la venta de Twitter es cuestión de horas</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/elon-musk-ya-decorando-despacho-venta-twitter-cuestion-horas-1146821' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/elon-musk-twitter-2854809.jpg' alt='Elon Musk ya está decorando su despacho: la venta de Twitter es cuestión de horas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/10-comidas-no-deberias-recalentar-microondas-1146805'>Las 10 comidas que no deberías recalentar en el microondas</a></h4>
+    <a href='https://computerhoy.com/noticias/life/10-comidas-no-deberias-recalentar-microondas-1146805' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/09/mejores-microondas-baratos-puedes-comprar_5.jpg' alt='Las 10 comidas que no deberías recalentar en el microondas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-relojes-inteligentes-hemos-probado-ultimamente-1006129'>Estos son los mejores 8 relojes inteligentes que hemos probado últimamente</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/mejores-relojes-inteligentes-hemos-probado-ultimamente-1006129' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/huawei-watch-gt-3-analisis-opinion-2585297.jpg' alt='Estos son los mejores 8 relojes inteligentes que hemos probado últimamente' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/ia-sabe-como-te-sientes-tiempo-real-solo-mirarte-cara-1146789'>La IA que sabe cómo te sientes en tiempo real con solo mirarte a la cara </a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/ia-sabe-como-te-sientes-tiempo-real-solo-mirarte-cara-1146789' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/reconocimiento-facial-2288535.jpg' alt='La IA que sabe cómo te sientes en tiempo real con solo mirarte a la cara ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/teoria-gravedad-tambalea-300-anos-inamovible-1146759'>La teoría de la gravedad se tambalea tras más de 300 años inamovible</a></h4>
-    <a href='https://computerhoy.com/noticias/life/teoria-gravedad-tambalea-300-anos-inamovible-1146759' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/nino-comiendo-manzana-2711719.jpg' alt='La teoría de la gravedad se tambalea tras más de 300 años inamovible' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/sera-meta-quest-3-lanzara-ano-viene-aunque-seguramente-implique-perdidas-astronomicas-1146773'>Así será Meta Quest 3: se lanzará el año que viene aunque seguramente implique pérdidas astronómicas </a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/sera-meta-quest-3-lanzara-ano-viene-aunque-seguramente-implique-perdidas-astronomicas-1146773' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/sera-meta-quest-3-lanzara-ano-viene-aunque-seguramente-implique-perdidas-astronomicas-2854677.jpg' alt='Así será Meta Quest 3: se lanzará el año que viene aunque seguramente implique pérdidas astronómicas ' />
     </a>
 </div>
 
