@@ -58,9 +58,9 @@
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/viajeras-tiempo-mujeres-hablando-movil-hace-100-anos-video-1147289'>A la caza de las viajeras del tiempo: dos mujeres hablando por el móvil hace 100 años... y una posible explicación</a></h4>
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/viajeras-tiempo-mujeres-hablando-movil-hace-100-anos-video-1147289'>Viajeras del tiempo: vídeos con dos mujeres hablando por el móvil hace 100 años... y una posible explicación</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/viajeras-tiempo-mujeres-hablando-movil-hace-100-anos-video-1147289' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/caza-viajeras-tiempo-dos-mujeres-hablando-movil-hace-100-anos-dos-tienen-explicacion-2855765.jpg' alt='A la caza de las viajeras del tiempo: dos mujeres hablando por el móvil hace 100 años... y una posible explicación' />
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/caza-viajeras-tiempo-dos-mujeres-hablando-movil-hace-100-anos-dos-tienen-explicacion-2855765.jpg' alt='Viajeras del tiempo: vídeos con dos mujeres hablando por el móvil hace 100 años... y una posible explicación' />
     </a>
 </div>
 
