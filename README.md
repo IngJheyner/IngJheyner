@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-trucos-consejos-ahorrar-black-friday-970097'>Mejores trucos y consejos para ahorrar en el Black Friday</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-trucos-consejos-ahorrar-black-friday-970097' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/black-friday-2852763.jpg' alt='Mejores trucos y consejos para ahorrar en el Black Friday' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/beneficios-comer-castanas-asadas-1146725'>Los increíbles beneficios de comer castañas asadas cuando hace frío</a></h4>
+    <a href='https://computerhoy.com/noticias/life/beneficios-comer-castanas-asadas-1146725' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/increibles-beneficios-comer-castanas-asadas-cuando-hace-frio-2854609.jpg' alt='Los increíbles beneficios de comer castañas asadas cuando hace frío' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/smartmi-2s-pro-retrete-inteligente-xiaomi-video-1146723'>Smartmi 2S Pro, el retrete inteligente de Xiaomi (vídeo)</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/smartmi-2s-pro-retrete-inteligente-xiaomi-video-1146723' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/verticalimage1666830592276-2854607.jpg' alt='Smartmi 2S Pro, el retrete inteligente de Xiaomi (vídeo)' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/tiktok-ha-convertido-nuevo-facebook-desinformacion-campa-anchas-1146431'>TikTok se ha convertido en el nuevo Facebook: la desinformación campa a sus anchas</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/tiktok-ha-convertido-nuevo-facebook-desinformacion-campa-anchas-1146431' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/tiktok-vs-facebook-2692523.jpg' alt='TikTok se ha convertido en el nuevo Facebook: la desinformación campa a sus anchas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/tablet-xiaomi-pad-5-descuento-1146511'>La tablet Xiaomi Pad 5 tiene un descuento del 21%, es ideal para ver series o jugar a videojuegos en cualquier sitio</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/tablet-xiaomi-pad-5-descuento-1146511' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/analisis-xiaomi-pad-5-2531827.jpg' alt='La tablet Xiaomi Pad 5 tiene un descuento del 21%, es ideal para ver series o jugar a videojuegos en cualquier sitio' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/plan-basico-anuncios-netflix-desaparecen-series-peliculas-1146495'>Por qué algunas series y películas no se podrán ver en la suscripción de Netflix con anuncios</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/plan-basico-anuncios-netflix-desaparecen-series-peliculas-1146495' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/donde-veras-anuncios-nueva-suscripcion-barata-netflix-tdt-2843511.jpg' alt='Por qué algunas series y películas no se podrán ver en la suscripción de Netflix con anuncios' />
     </a>
 </div>
 
