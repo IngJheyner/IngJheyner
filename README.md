@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/27-noticias-tecnologia-comenzar-manana-informado-ultimo-1146729'>27 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/27-noticias-tecnologia-comenzar-manana-informado-ultimo-1146729' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/27-noticias-tecnologia-comenzar-manana-informado-ultimo-2854613.jpg' alt='27 noticias de tecnología para comenzar la mañana informado de lo último' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-trucos-consejos-ahorrar-black-friday-970097'>Mejores trucos y consejos para ahorrar en el Black Friday</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/mejores-trucos-consejos-ahorrar-black-friday-970097' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/black-friday-2852763.jpg' alt='Mejores trucos y consejos para ahorrar en el Black Friday' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/gaming/truco-steam-ahorrar-dinero-1146515'>Con este truco podrás ahorrar mucho dinero en Steam, pruébalo con las Rebajas de Halloween</a></h4>
     <a href='https://computerhoy.com/noticias/gaming/truco-steam-ahorrar-dinero-1146515' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/truco-podras-ahorrarte-mucho-dinero-steam-pruebalo-rebajas-halloween-2854401.jpg' alt='Con este truco podrás ahorrar mucho dinero en Steam, pruébalo con las Rebajas de Halloween' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/tiktok-ha-convertido-nuevo-facebook-desinformacion-campa-anchas-1146431'>TikTok se ha convertido en el nuevo Facebook: la desinformación campa a sus anchas</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/tiktok-ha-convertido-nuevo-facebook-desinformacion-campa-anchas-1146431' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/tiktok-vs-facebook-2692523.jpg' alt='TikTok se ha convertido en el nuevo Facebook: la desinformación campa a sus anchas' />
     </a>
 </div>
 
