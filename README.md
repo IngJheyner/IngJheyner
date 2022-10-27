@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/son-emojis-usados-solteros-solteras-espana-meetic-1146851'>Esto son los emojis más usados por los solteros y solteras de España según Meetic</a></h4>
+    <a href='https://computerhoy.com/noticias/life/son-emojis-usados-solteros-solteras-espana-meetic-1146851' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/emojis-2818053.jpg' alt='Esto son los emojis más usados por los solteros y solteras de España según Meetic' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/ultima-imagen-james-webb-nasa-tiene-locos-astronomos-como-radiografia-1146981'>La última imagen del James Webb de la NASA tiene locos a los astrónomos: “es como una radiografía"</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/ultima-imagen-james-webb-nasa-tiene-locos-astronomos-como-radiografia-1146981' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/ultima-imagen-james-webb-nasa-tiene-locos-astronomos-como-radiografia-2855335.jpg' alt='La última imagen del James Webb de la NASA tiene locos a los astrónomos: “es como una radiografía"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/cuesta-cargar-movil-ano-puedes-calcularlo-1146939'>Esto es lo que cuesta cargar tu móvil al año, así puedes calcularlo</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/cuesta-cargar-movil-ano-puedes-calcularlo-1146939' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/cargador-inalambrico-iphone-2812775.jpg' alt='Esto es lo que cuesta cargar tu móvil al año, así puedes calcularlo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/elon-musk-compra-twitter-primer-mensaje-anunciantes-1146999'>Elon Musk compra Twitter y su primer mensaje es para… los anunciantes</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/elon-musk-compra-twitter-primer-mensaje-anunciantes-1146999' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/elon-musk-2657243.jpg' alt='Elon Musk compra Twitter y su primer mensaje es para… los anunciantes' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/oferta-iphone-14-rebaja-130-euros-1146903'>Esta oferta en el iPhone 14 sí que lo rebaja significativamente: 130 euros de descuento ¡y en España!</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/oferta-iphone-14-rebaja-130-euros-1146903' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/iphone-14-2854953.jpg' alt='Esta oferta en el iPhone 14 sí que lo rebaja significativamente: 130 euros de descuento ¡y en España!' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/truco-tiktok-hacer-cafe-leche-destaca-peligroso-explosivo-1146913'>El truco de TikTok para hacer café con leche que destaca por peligroso y explosivo</a></h4>
-    <a href='https://computerhoy.com/noticias/life/truco-tiktok-hacer-cafe-leche-destaca-peligroso-explosivo-1146913' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/cafetera-italiana-2391337.jpg' alt='El truco de TikTok para hacer café con leche que destaca por peligroso y explosivo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/escudo-espacial-termico-nasa-clave-conquistar-marte-1146887'>Así es el escudo espacial térmico de la NASA clave para conquistar Marte</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/escudo-espacial-termico-nasa-clave-conquistar-marte-1146887' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/escudo-termico-nasa-2854983.jpg' alt='Así es el escudo espacial térmico de la NASA clave para conquistar Marte' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/he-entrenado-ia-generar-imagenes-mi-estos-son-impresionantes-resultados-1146493'>He entrenado una IA para generar imágenes de mí y estos son los impresionantes resultados</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/he-entrenado-ia-generar-imagenes-mi-estos-son-impresionantes-resultados-1146493' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/ia-matu-2854905.jpg' alt='He entrenado una IA para generar imágenes de mí y estos son los impresionantes resultados' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/cupones-11-11-aliexpress-como-funcionan-como-conseguirlos-1141639'>Cupones del 11.11 en AliExpress: cómo funcionan y cómo conseguirlos</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/cupones-11-11-aliexpress-como-funcionan-como-conseguirlos-1141639' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/portada-compras-2845833.jpg' alt='Cupones del 11.11 en AliExpress: cómo funcionan y cómo conseguirlos' />
     </a>
 </div>
 
