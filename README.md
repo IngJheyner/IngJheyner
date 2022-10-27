@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/oferta-iphone-14-rebaja-130-euros-1146903'>Esta oferta en el iPhone 14 sí que lo rebaja significativamente: 130 euros de descuento ¡y en España!</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/oferta-iphone-14-rebaja-130-euros-1146903' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/iphone-14-2854953.jpg' alt='Esta oferta en el iPhone 14 sí que lo rebaja significativamente: 130 euros de descuento ¡y en España!' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/truco-tiktok-hacer-cafe-leche-destaca-peligroso-explosivo-1146913'>El truco de TikTok para hacer café con leche que destaca por peligroso y explosivo</a></h4>
+    <a href='https://computerhoy.com/noticias/life/truco-tiktok-hacer-cafe-leche-destaca-peligroso-explosivo-1146913' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/cafetera-italiana-2391337.jpg' alt='El truco de TikTok para hacer café con leche que destaca por peligroso y explosivo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/escudo-espacial-termico-nasa-clave-conquistar-marte-1146887'>Así es el escudo espacial térmico de la NASA clave para conquistar Marte</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/escudo-espacial-termico-nasa-clave-conquistar-marte-1146887' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/escudo-termico-nasa-2854983.jpg' alt='Así es el escudo espacial térmico de la NASA clave para conquistar Marte' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/he-entrenado-ia-generar-imagenes-mi-estos-son-impresionantes-resultados-1146493'>He entrenado una IA para generar imágenes de mí y estos son los impresionantes resultados</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/he-entrenado-ia-generar-imagenes-mi-estos-son-impresionantes-resultados-1146493' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/ia-matu-2854905.jpg' alt='He entrenado una IA para generar imágenes de mí y estos son los impresionantes resultados' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/cupones-11-11-aliexpress-como-funcionan-como-conseguirlos-1141639'>Cupones del 11.11 en AliExpress: cómo funcionan y cómo conseguirlos</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/cupones-11-11-aliexpress-como-funcionan-como-conseguirlos-1141639' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/portada-compras-2845833.jpg' alt='Cupones del 11.11 en AliExpress: cómo funcionan y cómo conseguirlos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/tcl-lanza-nuevos-televisores-smart-tv-fire-tv-integrado-50cf630k-55cf630k-1146885'>TCL lanza sus nuevos televisores Smart TV con Fire TV integrado: 50CF630K y 55CF630K</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/tcl-lanza-nuevos-televisores-smart-tv-fire-tv-integrado-50cf630k-55cf630k-1146885' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/tcl-televisor-smarttv-fire-tv-2854901.jpg' alt='TCL lanza sus nuevos televisores Smart TV con Fire TV integrado: 50CF630K y 55CF630K' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/pantalla-2k-wifi-6-portatil-ultraligero-presume-precio-amazon-599eu-1145077'>Pantalla 2K y WiFi 6: este portátil ultraligero presume de precio en Amazon por 599€</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/pantalla-2k-wifi-6-portatil-ultraligero-presume-precio-amazon-599eu-1145077' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/realme-book-analisis-opinion-2563253.jpg' alt='Pantalla 2K y WiFi 6: este portátil ultraligero presume de precio en Amazon por 599€' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/elon-musk-ya-decorando-despacho-venta-twitter-cuestion-horas-1146821'>Elon Musk ya está decorando su despacho: la venta de Twitter es cuestión de horas</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/elon-musk-ya-decorando-despacho-venta-twitter-cuestion-horas-1146821' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/elon-musk-twitter-2854809.jpg' alt='Elon Musk ya está decorando su despacho: la venta de Twitter es cuestión de horas' />
     </a>
 </div>
 
