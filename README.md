@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/he-entrenado-ia-generar-imagenes-mi-estos-son-impresionantes-resultados-1146493'>He entrenado una IA para generar imágenes de mí y estos son los impresionantes resultados</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/he-entrenado-ia-generar-imagenes-mi-estos-son-impresionantes-resultados-1146493' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/ia-matu-2854905.jpg' alt='He entrenado una IA para generar imágenes de mí y estos son los impresionantes resultados' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/cupones-11-11-aliexpress-como-funcionan-como-conseguirlos-1141639'>Cupones del 11.11 en AliExpress: cómo funcionan y cómo conseguirlos</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/cupones-11-11-aliexpress-como-funcionan-como-conseguirlos-1141639' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/portada-compras-2845833.jpg' alt='Cupones del 11.11 en AliExpress: cómo funcionan y cómo conseguirlos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/tcl-lanza-nuevos-televisores-smart-tv-fire-tv-integrado-50cf630k-55cf630k-1146885'>TCL lanza sus nuevos televisores Smart TV con Fire TV integrado: 50CF630K y 55CF630K</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/tcl-lanza-nuevos-televisores-smart-tv-fire-tv-integrado-50cf630k-55cf630k-1146885' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/tcl-televisor-smarttv-fire-tv-2854901.jpg' alt='TCL lanza sus nuevos televisores Smart TV con Fire TV integrado: 50CF630K y 55CF630K' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/pantalla-2k-wifi-6-portatil-ultraligero-presume-precio-amazon-599eu-1145077'>Pantalla 2K y WiFi 6: este portátil ultraligero presume de precio en Amazon por 599€</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/pantalla-2k-wifi-6-portatil-ultraligero-presume-precio-amazon-599eu-1145077' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/realme-book-analisis-opinion-2563253.jpg' alt='Pantalla 2K y WiFi 6: este portátil ultraligero presume de precio en Amazon por 599€' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/elon-musk-ya-decorando-despacho-venta-twitter-cuestion-horas-1146821'>Elon Musk ya está decorando su despacho: la venta de Twitter es cuestión de horas</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/elon-musk-ya-decorando-despacho-venta-twitter-cuestion-horas-1146821' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/elon-musk-twitter-2854809.jpg' alt='Elon Musk ya está decorando su despacho: la venta de Twitter es cuestión de horas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/10-comidas-no-deberias-recalentar-microondas-1146805'>Las 10 comidas que no deberías recalentar en el microondas</a></h4>
-    <a href='https://computerhoy.com/noticias/life/10-comidas-no-deberias-recalentar-microondas-1146805' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/09/mejores-microondas-baratos-puedes-comprar_5.jpg' alt='Las 10 comidas que no deberías recalentar en el microondas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-relojes-inteligentes-hemos-probado-ultimamente-1006129'>Estos son los mejores 8 relojes inteligentes que hemos probado últimamente</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-relojes-inteligentes-hemos-probado-ultimamente-1006129' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/huawei-watch-gt-3-analisis-opinion-2585297.jpg' alt='Estos son los mejores 8 relojes inteligentes que hemos probado últimamente' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/ya-puedes-navegar-500-mbps-mientras-conduces-nuevo-servicio-starlink-1146787'>Ya puedes navegar a más de 500 Mbps mientras conduces: así es el nuevo servicio de Starlink</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/ya-puedes-navegar-500-mbps-mientras-conduces-nuevo-servicio-starlink-1146787' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/starlink-vehiculos-2854741.jpg' alt='Ya puedes navegar a más de 500 Mbps mientras conduces: así es el nuevo servicio de Starlink' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/ia-sabe-como-te-sientes-tiempo-real-solo-mirarte-cara-1146789'>La IA que sabe cómo te sientes en tiempo real con solo mirarte a la cara </a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/ia-sabe-como-te-sientes-tiempo-real-solo-mirarte-cara-1146789' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/reconocimiento-facial-2288535.jpg' alt='La IA que sabe cómo te sientes en tiempo real con solo mirarte a la cara ' />
     </a>
 </div>
 
