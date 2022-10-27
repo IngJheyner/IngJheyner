@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/google-da-finalizada-pandemia-covid-19-importante-detalle-google-maps-1147277'>Google da por finalizada la pandemia del COVID-19 con este importante detalle en Google Maps</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/google-da-finalizada-pandemia-covid-19-importante-detalle-google-maps-1147277' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/google-maps-2352479.jpg' alt='Google da por finalizada la pandemia del COVID-19 con este importante detalle en Google Maps' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/0-100-9-minutos-redmi-presenta-smartphone-carga-rapida-mercado-1147021'>Del 0% al 100% en 9 minutos: Redmi presenta el smartphone con la carga más rápida del mercado</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/0-100-9-minutos-redmi-presenta-smartphone-carga-rapida-mercado-1147021' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/0-100-9-minutos-redmi-presenta-smartphone-carga-rapida-mercado-2855739.jpg' alt='Del 0% al 100% en 9 minutos: Redmi presenta el smartphone con la carga más rápida del mercado' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/motor/motor-powerstorm-mbb-optibike-bicicletas-electricas-1147269'>El nuevo motor Powerstorm MBB para bicicletas eléctricas es tan potente que es ilegal en Europa</a></h4>
     <a href='https://computerhoy.com/noticias/motor/motor-powerstorm-mbb-optibike-bicicletas-electricas-1147269' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/nuevo-motor-powerstorm-mbb-bicicletas-electricas-tan-potente-ilegal-europa-2855729.jpg' alt='El nuevo motor Powerstorm MBB para bicicletas eléctricas es tan potente que es ilegal en Europa' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/snapchat-fin-anade-editor-video-1147023'>Snapchat al fin añade un editor de vídeo</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/snapchat-fin-anade-editor-video-1147023' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/snapchat-fin-anade-editor-video-2855451.jpg' alt='Snapchat al fin añade un editor de vídeo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/ofertas-tecnoprecios-corte-ingles-octubre-1146975'>5 ofertas de los Tecnoprecios de El Corte Inglés que superan a otras tiendas</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/ofertas-tecnoprecios-corte-ingles-octubre-1146975' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/corte-ingles-2855225.jpg' alt='5 ofertas de los Tecnoprecios de El Corte Inglés que superan a otras tiendas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/entretenimiento/costumbres-formas-celebrar-halloween-tambien-puedes-hacer-espana-2022-1145845'>Costumbres y formas de celebrar Halloween que también puedes hacer en España este 2022</a></h4>
-    <a href='https://computerhoy.com/reportajes/entretenimiento/costumbres-formas-celebrar-halloween-tambien-puedes-hacer-espana-2022-1145845' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/costumbres-formas-celebrar-halloween-tambien-puedes-hacer-espana-2022-2853191.jpg' alt='Costumbres y formas de celebrar Halloween que también puedes hacer en España este 2022' />
     </a>
 </div>
 
