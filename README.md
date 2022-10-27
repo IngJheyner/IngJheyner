@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/viajeras-tiempo-mujeres-hablando-movil-hace-100-anos-video-1147289'>A la caza de las viajeras del tiempo: dos mujeres hablando por el móvil hace 100 años... y las dos tienen una explicación</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/viajeras-tiempo-mujeres-hablando-movil-hace-100-anos-video-1147289' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/caza-viajeras-tiempo-dos-mujeres-hablando-movil-hace-100-anos-dos-tienen-explicacion-2855765.jpg' alt='A la caza de las viajeras del tiempo: dos mujeres hablando por el móvil hace 100 años... y las dos tienen una explicación' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/eres-persona-facilmente-influenciable-ilusion-optica-te-dice-1147253'>¿Eres una persona fácilmente influenciable? Esta ilusión óptica te lo dice</a></h4>
     <a href='https://computerhoy.com/noticias/life/eres-persona-facilmente-influenciable-ilusion-optica-te-dice-1147253' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/eres-persona-facilmente-influenciable-ilusion-optica-te-dice-2855757.jpg' alt='¿Eres una persona fácilmente influenciable? Esta ilusión óptica te lo dice' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/motor/motor-powerstorm-mbb-optibike-bicicletas-electricas-1147269'>El nuevo motor Powerstorm MBB para bicicletas eléctricas es tan potente que es ilegal en Europa</a></h4>
     <a href='https://computerhoy.com/noticias/motor/motor-powerstorm-mbb-optibike-bicicletas-electricas-1147269' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/nuevo-motor-powerstorm-mbb-bicicletas-electricas-tan-potente-ilegal-europa-2855729.jpg' alt='El nuevo motor Powerstorm MBB para bicicletas eléctricas es tan potente que es ilegal en Europa' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/te-costara-pasar-itv-cada-comunidad-autonoma-hay-grandes-diferencias-1147257'>Esto es lo que te costará pasar la ITV en cada Comunidad Autónoma, y hay grandes diferencias</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/te-costara-pasar-itv-cada-comunidad-autonoma-hay-grandes-diferencias-1147257' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/itv-2475297.jpg' alt='Esto es lo que te costará pasar la ITV en cada Comunidad Autónoma, y hay grandes diferencias' />
     </a>
 </div>
 
