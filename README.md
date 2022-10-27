@@ -50,9 +50,17 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/viajeras-tiempo-mujeres-hablando-movil-hace-100-anos-video-1147289'>A la caza de las viajeras del tiempo: dos mujeres hablando por el móvil hace 100 años... y las dos tienen una explicación</a></h4>
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/televisor-4k-cecotec-50-pulgadas-dolby-vision-hdmi-21-299-euros-1147297'>Cecotec ya vende televisores 4K y este modelo de 50 pulgadas con Dolby Vision y HDMI 2.1 baja a solo... ¡299 euros!</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/televisor-4k-cecotec-50-pulgadas-dolby-vision-hdmi-21-299-euros-1147297' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/cecotec-ya-vende-televisores-4k-modelo-50-pulgadas-dolby-vision-baja-solo-299-euros-2855901.jpg' alt='Cecotec ya vende televisores 4K y este modelo de 50 pulgadas con Dolby Vision y HDMI 2.1 baja a solo... ¡299 euros!' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/viajeras-tiempo-mujeres-hablando-movil-hace-100-anos-video-1147289'>A la caza de las viajeras del tiempo: dos mujeres hablando por el móvil hace 100 años... y una posible explicación</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/viajeras-tiempo-mujeres-hablando-movil-hace-100-anos-video-1147289' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/caza-viajeras-tiempo-dos-mujeres-hablando-movil-hace-100-anos-dos-tienen-explicacion-2855765.jpg' alt='A la caza de las viajeras del tiempo: dos mujeres hablando por el móvil hace 100 años... y las dos tienen una explicación' />
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/caza-viajeras-tiempo-dos-mujeres-hablando-movil-hace-100-anos-dos-tienen-explicacion-2855765.jpg' alt='A la caza de las viajeras del tiempo: dos mujeres hablando por el móvil hace 100 años... y una posible explicación' />
     </a>
 </div>
 
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/0-100-9-minutos-redmi-presenta-smartphone-carga-rapida-mercado-1147021'>Del 0% al 100% en 9 minutos: Redmi presenta el smartphone con la carga más rápida del mercado</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/0-100-9-minutos-redmi-presenta-smartphone-carga-rapida-mercado-1147021' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/0-100-9-minutos-redmi-presenta-smartphone-carga-rapida-mercado-2855739.jpg' alt='Del 0% al 100% en 9 minutos: Redmi presenta el smartphone con la carga más rápida del mercado' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/motor-powerstorm-mbb-optibike-bicicletas-electricas-1147269'>El nuevo motor Powerstorm MBB para bicicletas eléctricas es tan potente que es ilegal en Europa</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/motor-powerstorm-mbb-optibike-bicicletas-electricas-1147269' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/nuevo-motor-powerstorm-mbb-bicicletas-electricas-tan-potente-ilegal-europa-2855729.jpg' alt='El nuevo motor Powerstorm MBB para bicicletas eléctricas es tan potente que es ilegal en Europa' />
     </a>
 </div>
 
