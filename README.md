@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-relojes-inteligentes-hemos-probado-ultimamente-1006129'>Estos son los mejores 8 relojes inteligentes que hemos probado últimamente</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-relojes-inteligentes-hemos-probado-ultimamente-1006129' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/huawei-watch-gt-3-analisis-opinion-2585297.jpg' alt='Estos son los mejores 8 relojes inteligentes que hemos probado últimamente' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/ya-puedes-navegar-500-mbps-mientras-conduces-nuevo-servicio-starlink-1146787'>Ya puedes navegar a más de 500 Mbps mientras conduces: así es el nuevo servicio de Starlink</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/ya-puedes-navegar-500-mbps-mientras-conduces-nuevo-servicio-starlink-1146787' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/starlink-vehiculos-2854741.jpg' alt='Ya puedes navegar a más de 500 Mbps mientras conduces: así es el nuevo servicio de Starlink' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/ia-sabe-como-te-sientes-tiempo-real-solo-mirarte-cara-1146789'>La IA que sabe cómo te sientes en tiempo real con solo mirarte a la cara </a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/ia-sabe-como-te-sientes-tiempo-real-solo-mirarte-cara-1146789' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/reconocimiento-facial-2288535.jpg' alt='La IA que sabe cómo te sientes en tiempo real con solo mirarte a la cara ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/teoria-gravedad-tambalea-300-anos-inamovible-1146759'>La teoría de la gravedad se tambalea tras más de 300 años inamovible</a></h4>
     <a href='https://computerhoy.com/noticias/life/teoria-gravedad-tambalea-300-anos-inamovible-1146759' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/nino-comiendo-manzana-2711719.jpg' alt='La teoría de la gravedad se tambalea tras más de 300 años inamovible' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/sera-meta-quest-3-lanzara-ano-viene-aunque-seguramente-implique-perdidas-astronomicas-1146773'>Así será Meta Quest 3: se lanzará el año que viene aunque seguramente implique pérdidas astronómicas </a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/sera-meta-quest-3-lanzara-ano-viene-aunque-seguramente-implique-perdidas-astronomicas-1146773' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/sera-meta-quest-3-lanzara-ano-viene-aunque-seguramente-implique-perdidas-astronomicas-2854677.jpg' alt='Así será Meta Quest 3: se lanzará el año que viene aunque seguramente implique pérdidas astronómicas ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/ya-quiosco-numero-628-computer-hoy-1143321'>¡Ya está en tu quiosco el número 628 de Computer Hoy!</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/ya-quiosco-numero-628-computer-hoy-1143321' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/computer-hoy-628-2849719.jpg' alt='¡Ya está en tu quiosco el número 628 de Computer Hoy!' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/directo-mejores-ofertas-black-friday-1144767'>En directo: Las mejores ofertas de Black Friday</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/directo-mejores-ofertas-black-friday-1144767' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/portada-directo-black-friday-2851279.jpg' alt='En directo: Las mejores ofertas de Black Friday' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/donde-comprar-iphone-14-rebajado-black-friday-precio-tiendas-hay-descuentos-1146293'>Dónde comprar el iPhone 14 rebajado este Black Friday: precio y tiendas en las que hay descuentos</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/donde-comprar-iphone-14-rebajado-black-friday-precio-tiendas-hay-descuentos-1146293' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/analisis-iphone-14-pro-2821751.jpg' alt='Dónde comprar el iPhone 14 rebajado este Black Friday: precio y tiendas en las que hay descuentos' />
     </a>
 </div>
 
