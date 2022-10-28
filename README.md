@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/truco-definitivo-acabar-olores-raros-frigorifico-1147437'>El truco definitivo para acabar con los olores raros en el frigorífico</a></h4>
+    <a href='https://computerhoy.com/noticias/life/truco-definitivo-acabar-olores-raros-frigorifico-1147437' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/truco-definitivo-acabar-olores-raros-frigorifico-2856073.jpg' alt='El truco definitivo para acabar con los olores raros en el frigorífico' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/oficial-elon-musk-convierte-ceo-twitter-aprovecha-despedir-primeros-empleados-1147435'>Es oficial: Elon Musk se convierte en el CEO de Twitter... y aprovecha para despedir a sus primeros empleados</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/oficial-elon-musk-convierte-ceo-twitter-aprovecha-despedir-primeros-empleados-1147435' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/ilustracion-perfil-elon-musk-twitter-2753783.jpg' alt='Es oficial: Elon Musk se convierte en el CEO de Twitter... y aprovecha para despedir a sus primeros empleados' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/directo-mejores-ofertas-black-friday-1144767'>En directo: Las mejores ofertas de Black Friday</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/directo-mejores-ofertas-black-friday-1144767' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/portada-directo-black-friday-2851279.jpg' alt='En directo: Las mejores ofertas de Black Friday' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/27-noticias-tecnologia-comenzar-manana-informado-ultimo-1147399'>27 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/27-noticias-tecnologia-comenzar-manana-informado-ultimo-1147399' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/27-noticias-tecnologia-comenzar-manana-informado-ultimo-2856025.jpg' alt='27 noticias de tecnología para comenzar la mañana informado de lo último' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/recogida-basura-automatizada-futuro-video-1147397'>La recogida de basura del futuro: sin tocar, sin olores, y sin camiones de basura (vídeo)</a></h4>
-    <a href='https://computerhoy.com/noticias/life/recogida-basura-automatizada-futuro-video-1147397' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/verticalimage1666917258960-2856023.jpg' alt='La recogida de basura del futuro: sin tocar, sin olores, y sin camiones de basura (vídeo)' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/robot-reparto-autonomo-arrollado-tren-video-1147303'>Su pedido sufrirá un retraso: el robot de reparto ha sido arrollado por un tren (vídeo)</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/robot-reparto-autonomo-arrollado-tren-video-1147303' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/pedido-sufrira-retraso-robot-reparto-ha-sido-arrollado-tren-video-2855923.jpg' alt='Su pedido sufrirá un retraso: el robot de reparto ha sido arrollado por un tren (vídeo)' />
     </a>
 </div>
 
