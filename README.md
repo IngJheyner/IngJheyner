@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/descubre-famoso-cuadro-mondrian-ha-estado-colgado-reves-durante-75-anos-1147723'>Descubre que un famoso cuadro de Mondrian ha estado colgado al revés durante 75 años</a></h4>
+    <a href='https://computerhoy.com/noticias/life/descubre-famoso-cuadro-mondrian-ha-estado-colgado-reves-durante-75-anos-1147723' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/descubre-famoso-cuadro-mondrian-ha-estado-colgado-reves-durante-75-anos-2856899.jpg' alt='Descubre que un famoso cuadro de Mondrian ha estado colgado al revés durante 75 años' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/zapatos-inteligentes-te-permitiran-andar-rapido-cualquier-otro-calzado-1147667'>Los zapatos inteligentes que te permitirán andar más rápido que con cualquier otro calzado</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/zapatos-inteligentes-te-permitiran-andar-rapido-cualquier-otro-calzado-1147667' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/zapatos-inteligentes-te-permitiran-andar-rapido-cualquier-otro-calzado-2856623.jpg' alt='Los zapatos inteligentes que te permitirán andar más rápido que con cualquier otro calzado' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/puedes-incluso-pagar-iphone-tener-bateria-hace-1147663'>Puedes incluso pagar con el iPhone sin tener batería, y se hace así</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/puedes-incluso-pagar-iphone-tener-bateria-hace-1147663' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/pagar-movil-2856607.jpg' alt='Puedes incluso pagar con el iPhone sin tener batería, y se hace así' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/series-ver-fin-semana-netflix-prime-video-hbo-max-gabinete-unas-historias-supersoldado-1147639'>Qué series ver este fin de semana en Netflix, Prime Video y HBO Max: un gabinete, unas historias y un supersoldado</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/series-ver-fin-semana-netflix-prime-video-hbo-max-gabinete-unas-historias-supersoldado-1147639' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/series-fin-semana-halloween-2856519.jpg' alt='Qué series ver este fin de semana en Netflix, Prime Video y HBO Max: un gabinete, unas historias y un supersoldado' />
     </a>
 </div>
 
