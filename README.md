@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/50-anos-pruebas-habra-dummy-mujer-estudiar-accidentes-coche-1147651'>Tras 50 años de pruebas habrá un dummy mujer para estudiar los accidentes de coche</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/50-anos-pruebas-habra-dummy-mujer-estudiar-accidentes-coche-1147651' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/dummy-2856523.jpg' alt='Tras 50 años de pruebas habrá un dummy mujer para estudiar los accidentes de coche' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/todos-coches-nuevos-emitan-co2-seran-prohibidos-cara-ano-2035-europa-1147643'>Todos los coches nuevos que emitan CO2 serán prohibidos de cara al año 2035 en Europa</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/todos-coches-nuevos-emitan-co2-seran-prohibidos-cara-ano-2035-europa-1147643' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/impuesto-co2-pagan-coches-cataluna-podria-llegar-otras-comunidades-2493179.jpg' alt='Todos los coches nuevos que emitan CO2 serán prohibidos de cara al año 2035 en Europa' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/entretenimiento/series-terror-sustos-historia-pasar-halloween-miedo-1145249'>Las series de terror con más sustos de la historia para pasar un Halloween de miedo</a></h4>
+    <a href='https://computerhoy.com/reportajes/entretenimiento/series-terror-sustos-historia-pasar-halloween-miedo-1145249' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/marianne-2852165.jpg' alt='Las series de terror con más sustos de la historia para pasar un Halloween de miedo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-cambiar-personalizar-pantalla-arranque-logo-windows-1142199'>Cómo cambiar y personalizar la pantalla de arranque del logo de Windows </a></h4>
+    <a href='https://computerhoy.com/tutoriales/tecnologia/como-cambiar-personalizar-pantalla-arranque-logo-windows-1142199' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/cambiar-pantalla-arranque-windows-2846655.jpg' alt='Cómo cambiar y personalizar la pantalla de arranque del logo de Windows ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/mejores-moviles-2022-nuevo-novedoso-ademas-barato-nunca-50eu-descuento-1147493'>Uno de los mejores móviles de 2022 es nuevo, novedoso y además más barato que nunca con 50€ de descuento</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/mejores-moviles-2022-nuevo-novedoso-ademas-barato-nunca-50eu-descuento-1147493' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/nothing-phone-1-analisis-opinion-2772691.jpg' alt='Uno de los mejores móviles de 2022 es nuevo, novedoso y además más barato que nunca con 50€ de descuento' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/windows-11-ya-puede-conectarse-internet-movil-forma-automatica-siempre-tengas-galaxy-1147585'>Windows 11 ya puede conectarse al internet de tu móvil de forma automática... siempre que tengas un Galaxy</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/windows-11-ya-puede-conectarse-internet-movil-forma-automatica-siempre-tengas-galaxy-1147585' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/windows-11-2798545.jpg' alt='Windows 11 ya puede conectarse al internet de tu móvil de forma automática... siempre que tengas un Galaxy' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/huawei-mate-50-pro-llega-espana-novedosa-camara-servicios-inteligentes-1147551'>Huawei Mate 50 Pro llega a España con su novedosa cámara y servicios inteligentes</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/huawei-mate-50-pro-llega-espana-novedosa-camara-servicios-inteligentes-1147551' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/huawei-mate-50-pro-llega-espana-2856301.jpg' alt='Huawei Mate 50 Pro llega a España con su novedosa cámara y servicios inteligentes' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/revolucion-movil-2023-moviles-botones-fisicos-tanto-android-como-iphone-15-1147541'>La revolución móvil de 2023: móviles sin botones físicos tanto en Android como iPhone 15</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/revolucion-movil-2023-moviles-botones-fisicos-tanto-android-como-iphone-15-1147541' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/iphone-14-plus-podria-ser-gran-fail-apple-ano-2847747.jpg' alt='La revolución móvil de 2023: móviles sin botones físicos tanto en Android como iPhone 15' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/listas/industria/8-mejores-paginas-web-saber-quien-me-ha-llamado-420997'>ListaSpam y otras webs para saber quién te está llamado por teléfono</a></h4>
-    <a href='https://computerhoy.com/listas/industria/8-mejores-paginas-web-saber-quien-me-ha-llamado-420997' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/telefono-ordenador-2233305.jpg' alt='ListaSpam y otras webs para saber quién te está llamado por teléfono' />
     </a>
 </div>
 
