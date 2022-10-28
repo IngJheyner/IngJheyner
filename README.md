@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/mejores-moviles-2022-nuevo-novedoso-ademas-barato-nunca-50eu-descuento-1147493'>Uno de los mejores móviles de 2022 es nuevo, novedoso y además más barato que nunca con 50€ de descuento</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/mejores-moviles-2022-nuevo-novedoso-ademas-barato-nunca-50eu-descuento-1147493' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/nothing-phone-1-analisis-opinion-2772691.jpg' alt='Uno de los mejores móviles de 2022 es nuevo, novedoso y además más barato que nunca con 50€ de descuento' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/windows-11-ya-puede-conectarse-internet-movil-forma-automatica-siempre-tengas-galaxy-1147585'>Windows 11 ya puede conectarse al internet de tu móvil de forma automática... siempre que tengas un Galaxy</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/windows-11-ya-puede-conectarse-internet-movil-forma-automatica-siempre-tengas-galaxy-1147585' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/windows-11-2798545.jpg' alt='Windows 11 ya puede conectarse al internet de tu móvil de forma automática... siempre que tengas un Galaxy' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/huawei-mate-50-pro-llega-espana-novedosa-camara-servicios-inteligentes-1147551'>Huawei Mate 50 Pro llega a España con su novedosa cámara y servicios inteligentes</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/huawei-mate-50-pro-llega-espana-novedosa-camara-servicios-inteligentes-1147551' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/huawei-mate-50-pro-llega-espana-2856301.jpg' alt='Huawei Mate 50 Pro llega a España con su novedosa cámara y servicios inteligentes' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/listas/industria/8-mejores-paginas-web-saber-quien-me-ha-llamado-420997'>ListaSpam y otras webs para saber quién te está llamado por teléfono</a></h4>
     <a href='https://computerhoy.com/listas/industria/8-mejores-paginas-web-saber-quien-me-ha-llamado-420997' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/telefono-ordenador-2233305.jpg' alt='ListaSpam y otras webs para saber quién te está llamado por teléfono' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/descuento-nordvpn-black-friday-1146897'>Consigue un 63% de descuento en este conocido VPN durante 2 años en una oferta adelantada del Black Friday</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/descuento-nordvpn-black-friday-1146897' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/persona-mirando-movil-vpn-tv-encendida-fondo-2855279.jpg' alt='Consigue un 63% de descuento en este conocido VPN durante 2 años en una oferta adelantada del Black Friday' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/estas-son-6-pools-mineria-tener-cuenta-quieres-minar-criptomonedas-1147511'>Estas son los 6 Pools de Minado a tener en cuenta si quieres minar criptomonedas</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/estas-son-6-pools-mineria-tener-cuenta-quieres-minar-criptomonedas-1147511' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/03/mineros-criptomonedas-2261307.jpg' alt='Estas son los 6 Pools de Minado a tener en cuenta si quieres minar criptomonedas' />
     </a>
 </div>
 
