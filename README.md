@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/recogida-basura-automatizada-futuro-video-1147397'>La recogida de basura del futuro: sin tocar, sin olores, y sin camiones de basura (vídeo)</a></h4>
+    <a href='https://computerhoy.com/noticias/life/recogida-basura-automatizada-futuro-video-1147397' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/verticalimage1666917258960-2856023.jpg' alt='La recogida de basura del futuro: sin tocar, sin olores, y sin camiones de basura (vídeo)' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/robot-reparto-autonomo-arrollado-tren-video-1147303'>Su pedido sufrirá un retraso: el robot de reparto ha sido arrollado por un tren (vídeo)</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/robot-reparto-autonomo-arrollado-tren-video-1147303' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/pedido-sufrira-retraso-robot-reparto-ha-sido-arrollado-tren-video-2855923.jpg' alt='Su pedido sufrirá un retraso: el robot de reparto ha sido arrollado por un tren (vídeo)' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/eres-persona-facilmente-influenciable-ilusion-optica-te-dice-1147253'>¿Eres una persona fácilmente influenciable? Esta ilusión óptica te lo dice</a></h4>
     <a href='https://computerhoy.com/noticias/life/eres-persona-facilmente-influenciable-ilusion-optica-te-dice-1147253' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/eres-persona-facilmente-influenciable-ilusion-optica-te-dice-2855757.jpg' alt='¿Eres una persona fácilmente influenciable? Esta ilusión óptica te lo dice' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/google-da-finalizada-pandemia-covid-19-importante-detalle-google-maps-1147277'>Google da por finalizada la pandemia del COVID-19 con este importante detalle en Google Maps</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/google-da-finalizada-pandemia-covid-19-importante-detalle-google-maps-1147277' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/google-maps-2352479.jpg' alt='Google da por finalizada la pandemia del COVID-19 con este importante detalle en Google Maps' />
     </a>
 </div>
 
