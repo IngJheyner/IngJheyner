@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/zapatos-inteligentes-te-permitiran-andar-rapido-cualquier-otro-calzado-1147667'>Los zapatos inteligentes que te permitirán andar más rápido que con cualquier otro calzado</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/zapatos-inteligentes-te-permitiran-andar-rapido-cualquier-otro-calzado-1147667' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/zapatos-inteligentes-te-permitiran-andar-rapido-cualquier-otro-calzado-2856623.jpg' alt='Los zapatos inteligentes que te permitirán andar más rápido que con cualquier otro calzado' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/motivos-comprar-xiaomi-smart-band-7-pro-pulsera-actividad-1135453'>5 motivos por el que te merece comprar una Xiaomi Smart Band 7 Pro antes que cualquier otra pulsera de actividad</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/motivos-comprar-xiaomi-smart-band-7-pro-pulsera-actividad-1135453' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/xiaomi-smart-band-7-pro-2833395.jpg' alt='5 motivos por el que te merece comprar una Xiaomi Smart Band 7 Pro antes que cualquier otra pulsera de actividad' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/impacto-meteorito-marte-desentierra-grata-sorpresa-nasa-1147703'>El impacto de un meteorito sobre Marte desentierra una grata sorpresa para la NASA</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/impacto-meteorito-marte-desentierra-grata-sorpresa-nasa-1147703' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/impacto-meteorito-marte-desentierra-grata-sorpresa-nasa-2856745.jpg' alt='El impacto de un meteorito sobre Marte desentierra una grata sorpresa para la NASA' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/series-ver-fin-semana-netflix-prime-video-hbo-max-gabinete-unas-historias-supersoldado-1147639'>Qué series ver este fin de semana en Netflix, Prime Video y HBO Max: un gabinete, unas historias y un supersoldado</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/series-ver-fin-semana-netflix-prime-video-hbo-max-gabinete-unas-historias-supersoldado-1147639' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/series-fin-semana-halloween-2856519.jpg' alt='Qué series ver este fin de semana en Netflix, Prime Video y HBO Max: un gabinete, unas historias y un supersoldado' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/nueva-ley-union-europea-cambiara-drasticamente-como-usas-internet-1147671'>La nueva ley de la Unión Europea cambiará drásticamente cómo usas Internet</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/nueva-ley-union-europea-cambiara-drasticamente-como-usas-internet-1147671' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/nueva-ley-union-europea-cambiara-drasticamente-como-usas-internet-2856659.jpg' alt='La nueva ley de la Unión Europea cambiará drásticamente cómo usas Internet' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/peliculas-ver-fin-semana-netflix-movistarplus-disney-asesinos-uci-airbnb-sospechoso-humanos-sinteticos-1147545'>Qué películas ver este fin de semana en Netflix, MovistarPlus+ y Disney+: asesinos en la UCI, un Airbnb sospechoso y humanos sintéticos</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/peliculas-ver-fin-semana-netflix-movistarplus-disney-asesinos-uci-airbnb-sospechoso-humanos-sinteticos-1147545' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/peliculas-ver-fin-semana-netflix-movistarplus-disney-asesinos-uci-airbnb-sospechoso-humanos-sinteticos-2856463.jpg' alt='Qué películas ver este fin de semana en Netflix, MovistarPlus+ y Disney+: asesinos en la UCI, un Airbnb sospechoso y humanos sintéticos' />
     </a>
 </div>
 
