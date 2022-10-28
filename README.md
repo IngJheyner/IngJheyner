@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/youtube-certificara-ciertos-canales-contenidos-como-fuentes-contrastadas-informacion-salud-1147447'>YouTube certificará ciertos canales o contenidos como fuentes contrastadas de información sobre salud</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/youtube-certificara-ciertos-canales-contenidos-como-fuentes-contrastadas-informacion-salud-1147447' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/youtube-2856105.jpg' alt='YouTube certificará ciertos canales o contenidos como fuentes contrastadas de información sobre salud' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/dispositivos-ahorrar-energia-casa-baratos-1145661'>5 dispositivos para ahorrar energía en casa que además son muy baratos</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/dispositivos-ahorrar-energia-casa-baratos-1145661' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/ahorro-energetico-eficiencia-2852879.jpg' alt='5 dispositivos para ahorrar energía en casa que además son muy baratos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/google-ya-tiene-ia-generara-avatar-plataforma-1147451'>Google ya tiene una IA que generará tu avatar en su plataforma</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/google-ya-tiene-ia-generara-avatar-plataforma-1147451' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/google-ya-tiene-ia-generara-avatar-plataforma-2856079.jpg' alt='Google ya tiene una IA que generará tu avatar en su plataforma' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/truco-definitivo-acabar-olores-raros-frigorifico-1147437'>El truco definitivo para acabar con los olores raros en el frigorífico</a></h4>
     <a href='https://computerhoy.com/noticias/life/truco-definitivo-acabar-olores-raros-frigorifico-1147437' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/truco-definitivo-acabar-olores-raros-frigorifico-2856073.jpg' alt='El truco definitivo para acabar con los olores raros en el frigorífico' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/oficial-elon-musk-convierte-ceo-twitter-aprovecha-despedir-primeros-empleados-1147435'>Es oficial: Elon Musk se convierte en el CEO de Twitter... y aprovecha para despedir a sus primeros empleados</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/oficial-elon-musk-convierte-ceo-twitter-aprovecha-despedir-primeros-empleados-1147435' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/ilustracion-perfil-elon-musk-twitter-2753783.jpg' alt='Es oficial: Elon Musk se convierte en el CEO de Twitter... y aprovecha para despedir a sus primeros empleados' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/directo-mejores-ofertas-black-friday-1144767'>En directo: Las mejores ofertas de Black Friday</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/directo-mejores-ofertas-black-friday-1144767' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/portada-directo-black-friday-2851279.jpg' alt='En directo: Las mejores ofertas de Black Friday' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/life/como-conseguir-cashback-descuentos-11-11-aliexpress-paypal-alipay-1146831'>Cómo conseguir cashback y descuentos en el 11.11 de AliExpress con PayPal y AliPay</a></h4>
-    <a href='https://computerhoy.com/reportajes/life/como-conseguir-cashback-descuentos-11-11-aliexpress-paypal-alipay-1146831' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/carrito-compra-2854885.jpg' alt='Cómo conseguir cashback y descuentos en el 11.11 de AliExpress con PayPal y AliPay' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/27-noticias-tecnologia-comenzar-manana-informado-ultimo-1147399'>27 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/27-noticias-tecnologia-comenzar-manana-informado-ultimo-1147399' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/27-noticias-tecnologia-comenzar-manana-informado-ultimo-2856025.jpg' alt='27 noticias de tecnología para comenzar la mañana informado de lo último' />
     </a>
 </div>
 
