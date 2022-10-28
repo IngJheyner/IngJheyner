@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/quien-elon-musk-paypal-tesla-space-x-historia-exitos-fracasos-1133115'>¿Quién es Elon Musk? Twitter, PayPal, Tesla, Space X: historia, éxitos y fracasos</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/quien-elon-musk-paypal-tesla-space-x-historia-exitos-fracasos-1133115' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/elon-musk-2829389.jpg' alt='¿Quién es Elon Musk? Twitter, PayPal, Tesla, Space X: historia, éxitos y fracasos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/motor/50-anos-pruebas-habra-dummy-mujer-estudiar-accidentes-coche-1147651'>Tras 50 años de pruebas habrá un dummy mujer para estudiar los accidentes de coche</a></h4>
     <a href='https://computerhoy.com/noticias/motor/50-anos-pruebas-habra-dummy-mujer-estudiar-accidentes-coche-1147651' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/dummy-2856523.jpg' alt='Tras 50 años de pruebas habrá un dummy mujer para estudiar los accidentes de coche' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-cambiar-personalizar-pantalla-arranque-logo-windows-1142199'>Cómo cambiar y personalizar la pantalla de arranque del logo de Windows </a></h4>
     <a href='https://computerhoy.com/tutoriales/tecnologia/como-cambiar-personalizar-pantalla-arranque-logo-windows-1142199' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/cambiar-pantalla-arranque-windows-2846655.jpg' alt='Cómo cambiar y personalizar la pantalla de arranque del logo de Windows ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/mejores-moviles-2022-nuevo-novedoso-ademas-barato-nunca-50eu-descuento-1147493'>Uno de los mejores móviles de 2022 es nuevo, novedoso y además más barato que nunca con 50€ de descuento</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/mejores-moviles-2022-nuevo-novedoso-ademas-barato-nunca-50eu-descuento-1147493' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/nothing-phone-1-analisis-opinion-2772691.jpg' alt='Uno de los mejores móviles de 2022 es nuevo, novedoso y además más barato que nunca con 50€ de descuento' />
     </a>
 </div>
 
