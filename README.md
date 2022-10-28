@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/life/como-conseguir-cashback-descuentos-11-11-aliexpress-paypal-alipay-1146831'>Cómo conseguir cashback y descuentos en el 11.11 de AliExpress con PayPal y AliPay</a></h4>
+    <a href='https://computerhoy.com/reportajes/life/como-conseguir-cashback-descuentos-11-11-aliexpress-paypal-alipay-1146831' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/carrito-compra-2854885.jpg' alt='Cómo conseguir cashback y descuentos en el 11.11 de AliExpress con PayPal y AliPay' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/27-noticias-tecnologia-comenzar-manana-informado-ultimo-1147399'>27 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/27-noticias-tecnologia-comenzar-manana-informado-ultimo-1147399' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/27-noticias-tecnologia-comenzar-manana-informado-ultimo-2856025.jpg' alt='27 noticias de tecnología para comenzar la mañana informado de lo último' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/recogida-basura-automatizada-futuro-video-1147397'>La recogida de basura del futuro: sin tocar, sin olores, y sin camiones de basura (vídeo)</a></h4>
     <a href='https://computerhoy.com/noticias/life/recogida-basura-automatizada-futuro-video-1147397' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/verticalimage1666917258960-2856023.jpg' alt='La recogida de basura del futuro: sin tocar, sin olores, y sin camiones de basura (vídeo)' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/televisor-4k-cecotec-50-pulgadas-dolby-vision-hdmi-21-299-euros-1147297'>Cecotec ya vende televisores 4K y este modelo de 50 pulgadas con Dolby Vision y HDMI 2.1 baja a solo... ¡299 euros!</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/televisor-4k-cecotec-50-pulgadas-dolby-vision-hdmi-21-299-euros-1147297' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/cecotec-ya-vende-televisores-4k-modelo-50-pulgadas-dolby-vision-baja-solo-299-euros-2855901.jpg' alt='Cecotec ya vende televisores 4K y este modelo de 50 pulgadas con Dolby Vision y HDMI 2.1 baja a solo... ¡299 euros!' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/viajeras-tiempo-mujeres-hablando-movil-hace-100-anos-video-1147289'>Viajeras del tiempo: vídeos con dos mujeres hablando por el móvil hace 100 años... y una posible explicación</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/viajeras-tiempo-mujeres-hablando-movil-hace-100-anos-video-1147289' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/caza-viajeras-tiempo-dos-mujeres-hablando-movil-hace-100-anos-dos-tienen-explicacion-2855765.jpg' alt='Viajeras del tiempo: vídeos con dos mujeres hablando por el móvil hace 100 años... y una posible explicación' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/eres-persona-facilmente-influenciable-ilusion-optica-te-dice-1147253'>¿Eres una persona fácilmente influenciable? Esta ilusión óptica te lo dice</a></h4>
-    <a href='https://computerhoy.com/noticias/life/eres-persona-facilmente-influenciable-ilusion-optica-te-dice-1147253' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/eres-persona-facilmente-influenciable-ilusion-optica-te-dice-2855757.jpg' alt='¿Eres una persona fácilmente influenciable? Esta ilusión óptica te lo dice' />
     </a>
 </div>
 
