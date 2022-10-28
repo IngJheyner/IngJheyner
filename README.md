@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/directo-mejores-ofertas-black-friday-1144767'>En directo: Las mejores ofertas de Black Friday</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/directo-mejores-ofertas-black-friday-1144767' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/portada-directo-black-friday-2851279.jpg' alt='En directo: Las mejores ofertas de Black Friday' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/life/como-conseguir-cashback-descuentos-11-11-aliexpress-paypal-alipay-1146831'>Cómo conseguir cashback y descuentos en el 11.11 de AliExpress con PayPal y AliPay</a></h4>
     <a href='https://computerhoy.com/reportajes/life/como-conseguir-cashback-descuentos-11-11-aliexpress-paypal-alipay-1146831' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/carrito-compra-2854885.jpg' alt='Cómo conseguir cashback y descuentos en el 11.11 de AliExpress con PayPal y AliPay' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/robot-reparto-autonomo-arrollado-tren-video-1147303'>Su pedido sufrirá un retraso: el robot de reparto ha sido arrollado por un tren (vídeo)</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/robot-reparto-autonomo-arrollado-tren-video-1147303' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/pedido-sufrira-retraso-robot-reparto-ha-sido-arrollado-tren-video-2855923.jpg' alt='Su pedido sufrirá un retraso: el robot de reparto ha sido arrollado por un tren (vídeo)' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/televisor-4k-cecotec-50-pulgadas-dolby-vision-hdmi-21-299-euros-1147297'>Cecotec ya vende televisores 4K y este modelo de 50 pulgadas con Dolby Vision y HDMI 2.1 baja a solo... ¡299 euros!</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/televisor-4k-cecotec-50-pulgadas-dolby-vision-hdmi-21-299-euros-1147297' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/cecotec-ya-vende-televisores-4k-modelo-50-pulgadas-dolby-vision-baja-solo-299-euros-2855901.jpg' alt='Cecotec ya vende televisores 4K y este modelo de 50 pulgadas con Dolby Vision y HDMI 2.1 baja a solo... ¡299 euros!' />
     </a>
 </div>
 
