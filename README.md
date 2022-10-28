@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/robot-reparto-autonomo-arrollado-tren-video-1147303'>Su pedido sufrirá un retraso: el robot de reparto ha sido arrollado por un tren (vídeo)</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/robot-reparto-autonomo-arrollado-tren-video-1147303' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/pedido-sufrira-retraso-robot-reparto-ha-sido-arrollado-tren-video-2855923.jpg' alt='Su pedido sufrirá un retraso: el robot de reparto ha sido arrollado por un tren (vídeo)' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/televisor-4k-cecotec-50-pulgadas-dolby-vision-hdmi-21-299-euros-1147297'>Cecotec ya vende televisores 4K y este modelo de 50 pulgadas con Dolby Vision y HDMI 2.1 baja a solo... ¡299 euros!</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/televisor-4k-cecotec-50-pulgadas-dolby-vision-hdmi-21-299-euros-1147297' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/cecotec-ya-vende-televisores-4k-modelo-50-pulgadas-dolby-vision-baja-solo-299-euros-2855901.jpg' alt='Cecotec ya vende televisores 4K y este modelo de 50 pulgadas con Dolby Vision y HDMI 2.1 baja a solo... ¡299 euros!' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/google-da-finalizada-pandemia-covid-19-importante-detalle-google-maps-1147277'>Google da por finalizada la pandemia del COVID-19 con este importante detalle en Google Maps</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/google-da-finalizada-pandemia-covid-19-importante-detalle-google-maps-1147277' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/google-maps-2352479.jpg' alt='Google da por finalizada la pandemia del COVID-19 con este importante detalle en Google Maps' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/0-100-9-minutos-redmi-presenta-smartphone-carga-rapida-mercado-1147021'>Del 0% al 100% en 9 minutos: Redmi presenta el smartphone con la carga más rápida del mercado</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/0-100-9-minutos-redmi-presenta-smartphone-carga-rapida-mercado-1147021' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/0-100-9-minutos-redmi-presenta-smartphone-carga-rapida-mercado-2855739.jpg' alt='Del 0% al 100% en 9 minutos: Redmi presenta el smartphone con la carga más rápida del mercado' />
     </a>
 </div>
 
