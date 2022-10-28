@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/esta-elon-musk-loco-1147769'>¿Está Elon Musk loco?</a></h4>
+    <a href='https://computerhoy.com/noticias/life/esta-elon-musk-loco-1147769' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/elon-musk-loco-2857009.jpg' alt='¿Está Elon Musk loco?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/avecina-dulceida-muchos-crimenes-novedades-noviembre-amazon-prime-video-1147741'>La que se avecina, Dulceida y muchos crímenes en las novedades de noviembre de Amazon Prime Video</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/avecina-dulceida-muchos-crimenes-novedades-noviembre-amazon-prime-video-1147741' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/avecina-dulceida-muchos-crimenes-novedades-noviembre-amazon-prime-video-2857001.jpg' alt='La que se avecina, Dulceida y muchos crímenes en las novedades de noviembre de Amazon Prime Video' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/descubre-famoso-cuadro-mondrian-ha-estado-colgado-reves-durante-75-anos-1147723'>Descubre que un famoso cuadro de Mondrian ha estado colgado al revés durante 75 años</a></h4>
     <a href='https://computerhoy.com/noticias/life/descubre-famoso-cuadro-mondrian-ha-estado-colgado-reves-durante-75-anos-1147723' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/descubre-famoso-cuadro-mondrian-ha-estado-colgado-reves-durante-75-anos-2856899.jpg' alt='Descubre que un famoso cuadro de Mondrian ha estado colgado al revés durante 75 años' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/zapatos-inteligentes-te-permitiran-andar-rapido-cualquier-otro-calzado-1147667'>Los zapatos inteligentes que te permitirán andar más rápido que con cualquier otro calzado</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/zapatos-inteligentes-te-permitiran-andar-rapido-cualquier-otro-calzado-1147667' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/zapatos-inteligentes-te-permitiran-andar-rapido-cualquier-otro-calzado-2856623.jpg' alt='Los zapatos inteligentes que te permitirán andar más rápido que con cualquier otro calzado' />
     </a>
 </div>
 
