@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/ceo-disney-peliculas-animacion-son-para-ninos-1147757'>¿Las películas de animación son solo para niños? Quizá que no te guste la opinión del CEO de Disney</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/ceo-disney-peliculas-animacion-son-para-ninos-1147757' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/disney-demasiado-barata-ofrece-deberia-encarecerse-avisa-ceo-disney-2814735.jpg' alt='¿Las películas de animación son solo para niños? Quizá que no te guste la opinión del CEO de Disney' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/telegram-quiere-cobrarte-leer-ciertos-mensajes-ya-probando-1147729'>Telegram quiere cobrarte por leer ciertos mensajes y ya lo está probando</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/telegram-quiere-cobrarte-leer-ciertos-mensajes-ya-probando-1147729' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/telegram-quiere-cobrarte-leer-ciertos-mensajes-ya-probando-2856953.jpg' alt='Telegram quiere cobrarte por leer ciertos mensajes y ya lo está probando' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/descubre-famoso-cuadro-mondrian-ha-estado-colgado-reves-durante-75-anos-1147723'>Descubre que un famoso cuadro de Mondrian ha estado colgado al revés durante 75 años</a></h4>
     <a href='https://computerhoy.com/noticias/life/descubre-famoso-cuadro-mondrian-ha-estado-colgado-reves-durante-75-anos-1147723' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/descubre-famoso-cuadro-mondrian-ha-estado-colgado-reves-durante-75-anos-2856899.jpg' alt='Descubre que un famoso cuadro de Mondrian ha estado colgado al revés durante 75 años' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/motivos-comprar-xiaomi-smart-band-7-pro-pulsera-actividad-1135453'>5 motivos por el que te merece comprar una Xiaomi Smart Band 7 Pro antes que cualquier otra pulsera de actividad</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/motivos-comprar-xiaomi-smart-band-7-pro-pulsera-actividad-1135453' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/xiaomi-smart-band-7-pro-2833395.jpg' alt='5 motivos por el que te merece comprar una Xiaomi Smart Band 7 Pro antes que cualquier otra pulsera de actividad' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/impacto-meteorito-marte-desentierra-grata-sorpresa-nasa-1147703'>El impacto de un meteorito sobre Marte desentierra una grata sorpresa para la NASA</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/impacto-meteorito-marte-desentierra-grata-sorpresa-nasa-1147703' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/impacto-meteorito-marte-desentierra-grata-sorpresa-nasa-2856745.jpg' alt='El impacto de un meteorito sobre Marte desentierra una grata sorpresa para la NASA' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/puedes-incluso-pagar-iphone-tener-bateria-hace-1147663'>Puedes incluso pagar con el iPhone sin tener batería, y se hace así</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/puedes-incluso-pagar-iphone-tener-bateria-hace-1147663' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/pagar-movil-2856607.jpg' alt='Puedes incluso pagar con el iPhone sin tener batería, y se hace así' />
     </a>
 </div>
 
