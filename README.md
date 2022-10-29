@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/inspiran-medusas-crear-mano-robotica-blanda-agarrar-cualquier-objeto-1148085'>Se inspiran en las medusas para crear una mano robótica blanda para agarrar cualquier objeto</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/inspiran-medusas-crear-mano-robotica-blanda-agarrar-cualquier-objeto-1148085' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/crean-mano-robotica-tiene-tentaculos-neumaticos-lugar-pinzas-2857379.jpg' alt='Se inspiran en las medusas para crear una mano robótica blanda para agarrar cualquier objeto' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-docks-usb-c-macbook-ofertas-precios-1147565'>Mejores docks USB-C para los MacBook que puedes comprar</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-docks-usb-c-macbook-ofertas-precios-1147565' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/ordenador-portatil-macbook-pro-chip-m1-auriculares-cuaderno-cerca-mesa-2856675.jpg' alt='Mejores docks USB-C para los MacBook que puedes comprar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/regla-37-podras-tomar-decisiones-avaladas-matematicas-funciona-1148059'>Con la regla del 37% podrás tomar decisiones avaladas por las matemáticas, y así funciona</a></h4>
     <a href='https://computerhoy.com/noticias/life/regla-37-podras-tomar-decisiones-avaladas-matematicas-funciona-1148059' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/tomar-decisiones-2857349.jpg' alt='Con la regla del 37% podrás tomar decisiones avaladas por las matemáticas, y así funciona' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/google-detalla-beneficios-telefonos-android-solo-64-bits-ram-menos-bloqueos-1148053'>Google detalla los beneficios de los teléfonos Android de solo 64 bits: más RAM y menos bloqueos</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/google-detalla-beneficios-telefonos-android-solo-64-bits-ram-menos-bloqueos-1148053' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/analisis-pixel-7-pro-2839679.jpg' alt='Google detalla los beneficios de los teléfonos Android de solo 64 bits: más RAM y menos bloqueos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-montar-imagen-iso-windows-necesidad-aplicaciones-1147057'>Cómo montar una imagen ISO en Windows sin necesidad de aplicaciones </a></h4>
-    <a href='https://computerhoy.com/tutoriales/tecnologia/como-montar-imagen-iso-windows-necesidad-aplicaciones-1147057' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/imagen-iso-windows-2855467.jpg' alt='Cómo montar una imagen ISO en Windows sin necesidad de aplicaciones ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/ultima-locura-elon-musk-dividir-twitter-varios-modos-contentar-todos-1148049'>La última locura de Elon Musk: dividir Twitter en varios modos para contentar a todos</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/ultima-locura-elon-musk-dividir-twitter-varios-modos-contentar-todos-1148049' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/elon-musk-twitter-2671041.jpg' alt='La última locura de Elon Musk: dividir Twitter en varios modos para contentar a todos' />
     </a>
 </div>
 
