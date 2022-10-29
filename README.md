@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/mejor-forma-retener-talento-empresa-steve-jobs-1148027'>Esta es la mejor forma de retener talento en una empresa, según Steve Jobs</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/mejor-forma-retener-talento-empresa-steve-jobs-1148027' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/03/steve-jobs-2280383.jpg' alt='Esta es la mejor forma de retener talento en una empresa, según Steve Jobs' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/cambio-hora-como-cambiar-hora-manualmente-pc-ios-android-horario-invierno-1148021'>Cambio de hora: cómo cambiar la hora manualmente en PC, iOS y Android (horario de invierno)</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/cambio-hora-como-cambiar-hora-manualmente-pc-ios-android-horario-invierno-1148021' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/cambio-hora-invierno-2857291.jpg' alt='Cambio de hora: cómo cambiar la hora manualmente en PC, iOS y Android (horario de invierno)' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/analisis/tecnologia/realme-c33-review-opinion-1144721'>realme C33, análisis y opinión</a></h4>
     <a href='https://computerhoy.com/analisis/tecnologia/realme-c33-review-opinion-1144721' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/realme-c33-2852427.jpg' alt='realme C33, análisis y opinión' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/autoconsumo-energetico-1132717'>¿Qué es el autoconsumo energético?</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/autoconsumo-energetico-1132717' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/verticalimage1666889050667-2856041.jpg' alt='¿Qué es el autoconsumo energético?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/tecnologia/motorola-razr-2022-review-opinion-1147291'>Motorola Razr 2022, análisis y opinión</a></h4>
-    <a href='https://computerhoy.com/analisis/tecnologia/motorola-razr-2022-review-opinion-1147291' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/motorola-razr-2022-analisis-opinion-2855767.jpg' alt='Motorola Razr 2022, análisis y opinión' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/directo-mejores-ofertas-black-friday-1144767'>En directo: Las mejores ofertas de Black Friday</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/directo-mejores-ofertas-black-friday-1144767' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/portada-directo-black-friday-2851279.jpg' alt='En directo: Las mejores ofertas de Black Friday' />
     </a>
 </div>
 
