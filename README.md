@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/perros-reconocen-incompetencia-humana-1144127'>No solo los gatos te miran por encima del hombro: estudio descubre que los perros reconocen la incompetencia humana</a></h4>
+    <a href='https://computerhoy.com/noticias/life/perros-reconocen-incompetencia-humana-1144127' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/no-solo-gatos-te-miran-encima-hombro-estudio-descubre-perros-reconocen-incompetencia-humana-2850451.jpg' alt='No solo los gatos te miran por encima del hombro: estudio descubre que los perros reconocen la incompetencia humana' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/guia-compra/mesa-gaming-1130207'>Todo lo que tienes que saber para comprar una mesa gaming</a></h4>
     <a href='https://computerhoy.com/guia-compra/mesa-gaming-1130207' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/mesa-gaming-2823889.jpg' alt='Todo lo que tienes que saber para comprar una mesa gaming' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-docks-usb-c-macbook-ofertas-precios-1147565'>Mejores docks USB-C para los MacBook que puedes comprar</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/mejores-docks-usb-c-macbook-ofertas-precios-1147565' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/ordenador-portatil-macbook-pro-chip-m1-auriculares-cuaderno-cerca-mesa-2856675.jpg' alt='Mejores docks USB-C para los MacBook que puedes comprar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/regla-37-podras-tomar-decisiones-avaladas-matematicas-funciona-1148059'>Con la regla del 37% podrás tomar decisiones avaladas por las matemáticas, y así funciona</a></h4>
-    <a href='https://computerhoy.com/noticias/life/regla-37-podras-tomar-decisiones-avaladas-matematicas-funciona-1148059' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/tomar-decisiones-2857349.jpg' alt='Con la regla del 37% podrás tomar decisiones avaladas por las matemáticas, y así funciona' />
     </a>
 </div>
 
