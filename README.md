@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/ultima-locura-elon-musk-dividir-twitter-varios-modos-contentar-todos-1148049'>La última locura de Elon Musk: dividir Twitter en varios modos para contentar a todos</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/ultima-locura-elon-musk-dividir-twitter-varios-modos-contentar-todos-1148049' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/elon-musk-twitter-2671041.jpg' alt='La última locura de Elon Musk: dividir Twitter en varios modos para contentar a todos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/entretenimiento/5-mejores-canales-youtube-gratis-legales-ver-peliculas-terror-halloween-1148037'>5 mejores canales de YouTube gratis y legales para ver películas de terror en Halloween</a></h4>
     <a href='https://computerhoy.com/reportajes/entretenimiento/5-mejores-canales-youtube-gratis-legales-ver-peliculas-terror-halloween-1148037' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/peliculas-terror-2857319.jpg' alt='5 mejores canales de YouTube gratis y legales para ver películas de terror en Halloween' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/analisis/tecnologia/realme-c33-review-opinion-1144721'>realme C33, análisis y opinión</a></h4>
     <a href='https://computerhoy.com/analisis/tecnologia/realme-c33-review-opinion-1144721' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/realme-c33-2852427.jpg' alt='realme C33, análisis y opinión' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/todo-necesitas-saber-comprar-estufa-pellets-1141039'>Todo lo que necesitas saber para comprar una estufa de pellets</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/todo-necesitas-saber-comprar-estufa-pellets-1141039' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/estufa-pellets-2844289.jpg' alt='Todo lo que necesitas saber para comprar una estufa de pellets' />
     </a>
 </div>
 
