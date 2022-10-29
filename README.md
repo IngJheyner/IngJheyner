@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/directo-mejores-ofertas-black-friday-1144767'>En directo: Las mejores ofertas de Black Friday</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/directo-mejores-ofertas-black-friday-1144767' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/portada-directo-black-friday-2851279.jpg' alt='En directo: Las mejores ofertas de Black Friday' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/comparativa-nordvpn-vs-expressvpn-mejor-vpn-1147471'>Comparativa NordVPN vs ExpressVPN: ¿cuál es la mejor VPN para uso diario?</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/comparativa-nordvpn-vs-expressvpn-mejor-vpn-1147471' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/hombre-dando-senal-ok-mientras-utiliza-ordenador-cafeteria-2856277.jpg' alt='Comparativa NordVPN vs ExpressVPN: ¿cuál es la mejor VPN para uso diario?' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/creacion-adan-miguel-angel-secretos-1144787'>La Creación de Adán de Miguel Ángel esconde un secreto que poca gente conoce</a></h4>
     <a href='https://computerhoy.com/noticias/life/creacion-adan-miguel-angel-secretos-1144787' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/creacion-adan-miguel-angel-esconde-secreto-poca-gente-conoce-2851353.jpg' alt='La Creación de Adán de Miguel Ángel esconde un secreto que poca gente conoce' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/cenar-tarde-engorda-1147975'>Un nuevo estudio demuestra que cenar tarde es aún peor para la salud y el peso de lo que pensábamos</a></h4>
-    <a href='https://computerhoy.com/noticias/life/cenar-tarde-engorda-1147975' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/nuevo-estudio-demuestra-cenar-tarde-aun-peor-salud-peso-pensabamos-2857235.jpg' alt='Un nuevo estudio demuestra que cenar tarde es aún peor para la salud y el peso de lo que pensábamos' />
     </a>
 </div>
 
