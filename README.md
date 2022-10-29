@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/todo-necesitas-saber-comprar-estufa-pellets-1141039'>Todo lo que necesitas saber para comprar una estufa de pellets</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/todo-necesitas-saber-comprar-estufa-pellets-1141039' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/estufa-pellets-2844289.jpg' alt='Todo lo que necesitas saber para comprar una estufa de pellets' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/autoconsumo-energetico-1132717'>¿Qué es el autoconsumo energético?</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/autoconsumo-energetico-1132717' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/verticalimage1666889050667-2856041.jpg' alt='¿Qué es el autoconsumo energético?' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/comparativa-nordvpn-vs-expressvpn-mejor-vpn-1147471'>Comparativa NordVPN vs ExpressVPN: ¿cuál es la mejor VPN para uso diario?</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/comparativa-nordvpn-vs-expressvpn-mejor-vpn-1147471' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/hombre-dando-senal-ok-mientras-utiliza-ordenador-cafeteria-2856277.jpg' alt='Comparativa NordVPN vs ExpressVPN: ¿cuál es la mejor VPN para uso diario?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/apple-netflix-disney-avaricia-rompera-saco-1145555'>Apple, Netflix, Disney y la avaricia que romperá el saco</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/apple-netflix-disney-avaricia-rompera-saco-1145555' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/subida-precio-2852733.jpg' alt='Apple, Netflix, Disney y la avaricia que romperá el saco' />
     </a>
 </div>
 
