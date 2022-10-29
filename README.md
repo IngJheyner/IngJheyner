@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/xiaomi-11t-5g-8gb-ram-pantalla-120-hz-camara-108-mpx-solo-319-euros-1147771'>Xiaomi 11T 5G, con 8GB de RAM, pantalla a 120 Hz y cámara de 108 Mpx, solo 319 euros</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/xiaomi-11t-5g-8gb-ram-pantalla-120-hz-camara-108-mpx-solo-319-euros-1147771' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/xiaomi-11t-5g-2518873.jpg' alt='Xiaomi 11T 5G, con 8GB de RAM, pantalla a 120 Hz y cámara de 108 Mpx, solo 319 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/esta-elon-musk-loco-1147769'>¿Está Elon Musk loco?</a></h4>
     <a href='https://computerhoy.com/noticias/life/esta-elon-musk-loco-1147769' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/elon-musk-loco-2857009.jpg' alt='¿Está Elon Musk loco?' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/telegram-quiere-cobrarte-leer-ciertos-mensajes-ya-probando-1147729'>Telegram quiere cobrarte por leer ciertos mensajes y ya lo está probando</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/telegram-quiere-cobrarte-leer-ciertos-mensajes-ya-probando-1147729' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/telegram-quiere-cobrarte-leer-ciertos-mensajes-ya-probando-2856953.jpg' alt='Telegram quiere cobrarte por leer ciertos mensajes y ya lo está probando' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/descubre-famoso-cuadro-mondrian-ha-estado-colgado-reves-durante-75-anos-1147723'>Descubre que un famoso cuadro de Mondrian ha estado colgado al revés durante 75 años</a></h4>
-    <a href='https://computerhoy.com/noticias/life/descubre-famoso-cuadro-mondrian-ha-estado-colgado-reves-durante-75-anos-1147723' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/descubre-famoso-cuadro-mondrian-ha-estado-colgado-reves-durante-75-anos-2856899.jpg' alt='Descubre que un famoso cuadro de Mondrian ha estado colgado al revés durante 75 años' />
     </a>
 </div>
 
