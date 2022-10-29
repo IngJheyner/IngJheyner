@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/cenar-tarde-engorda-1147975'>Un nuevo estudio demuestra que cenar tarde es aún peor para la salud y el peso de lo que pensábamos</a></h4>
+    <a href='https://computerhoy.com/noticias/life/cenar-tarde-engorda-1147975' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/nuevo-estudio-demuestra-cenar-tarde-aun-peor-salud-peso-pensabamos-2857235.jpg' alt='Un nuevo estudio demuestra que cenar tarde es aún peor para la salud y el peso de lo que pensábamos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/xiaomi-11t-5g-8gb-ram-pantalla-120-hz-camara-108-mpx-solo-319-euros-1147771'>Xiaomi 11T 5G, con 8GB de RAM, pantalla a 120 Hz y cámara de 108 Mpx, solo 319 euros</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/xiaomi-11t-5g-8gb-ram-pantalla-120-hz-camara-108-mpx-solo-319-euros-1147771' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/xiaomi-11t-5g-2518873.jpg' alt='Xiaomi 11T 5G, con 8GB de RAM, pantalla a 120 Hz y cámara de 108 Mpx, solo 319 euros' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/ceo-disney-peliculas-animacion-son-para-ninos-1147757'>¿Las películas de animación son solo para niños? Quizá que no te guste la opinión del CEO de Disney</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/ceo-disney-peliculas-animacion-son-para-ninos-1147757' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/disney-demasiado-barata-ofrece-deberia-encarecerse-avisa-ceo-disney-2814735.jpg' alt='¿Las películas de animación son solo para niños? Quizá que no te guste la opinión del CEO de Disney' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/telegram-quiere-cobrarte-leer-ciertos-mensajes-ya-probando-1147729'>Telegram quiere cobrarte por leer ciertos mensajes y ya lo está probando</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/telegram-quiere-cobrarte-leer-ciertos-mensajes-ya-probando-1147729' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/telegram-quiere-cobrarte-leer-ciertos-mensajes-ya-probando-2856953.jpg' alt='Telegram quiere cobrarte por leer ciertos mensajes y ya lo está probando' />
     </a>
 </div>
 
