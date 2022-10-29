@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/google-detalla-beneficios-telefonos-android-solo-64-bits-ram-menos-bloqueos-1148053'>Google detalla los beneficios de los teléfonos Android de solo 64 bits: más RAM y menos bloqueos</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/google-detalla-beneficios-telefonos-android-solo-64-bits-ram-menos-bloqueos-1148053' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/analisis-pixel-7-pro-2839679.jpg' alt='Google detalla los beneficios de los teléfonos Android de solo 64 bits: más RAM y menos bloqueos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-montar-imagen-iso-windows-necesidad-aplicaciones-1147057'>Cómo montar una imagen ISO en Windows sin necesidad de aplicaciones </a></h4>
+    <a href='https://computerhoy.com/tutoriales/tecnologia/como-montar-imagen-iso-windows-necesidad-aplicaciones-1147057' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/imagen-iso-windows-2855467.jpg' alt='Cómo montar una imagen ISO en Windows sin necesidad de aplicaciones ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/ultima-locura-elon-musk-dividir-twitter-varios-modos-contentar-todos-1148049'>La última locura de Elon Musk: dividir Twitter en varios modos para contentar a todos</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/ultima-locura-elon-musk-dividir-twitter-varios-modos-contentar-todos-1148049' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/elon-musk-twitter-2671041.jpg' alt='La última locura de Elon Musk: dividir Twitter en varios modos para contentar a todos' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/mejor-forma-retener-talento-empresa-steve-jobs-1148027'>Esta es la mejor forma de retener talento en una empresa, según Steve Jobs</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/mejor-forma-retener-talento-empresa-steve-jobs-1148027' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/03/steve-jobs-2280383.jpg' alt='Esta es la mejor forma de retener talento en una empresa, según Steve Jobs' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/cambio-hora-como-cambiar-hora-manualmente-pc-ios-android-horario-invierno-1148021'>Cambio de hora: cómo cambiar la hora manualmente en PC, iOS y Android (horario de invierno)</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/cambio-hora-como-cambiar-hora-manualmente-pc-ios-android-horario-invierno-1148021' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/cambio-hora-invierno-2857291.jpg' alt='Cambio de hora: cómo cambiar la hora manualmente en PC, iOS y Android (horario de invierno)' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/tecnologia/realme-c33-review-opinion-1144721'>realme C33, análisis y opinión</a></h4>
-    <a href='https://computerhoy.com/analisis/tecnologia/realme-c33-review-opinion-1144721' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/realme-c33-2852427.jpg' alt='realme C33, análisis y opinión' />
     </a>
 </div>
 
