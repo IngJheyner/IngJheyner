@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/comparativa-nordvpn-vs-expressvpn-mejor-vpn-1147471'>Comparativa NordVPN vs ExpressVPN: ¿cuál es la mejor VPN para uso diario?</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/comparativa-nordvpn-vs-expressvpn-mejor-vpn-1147471' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/hombre-dando-senal-ok-mientras-utiliza-ordenador-cafeteria-2856277.jpg' alt='Comparativa NordVPN vs ExpressVPN: ¿cuál es la mejor VPN para uso diario?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/apple-netflix-disney-avaricia-rompera-saco-1145555'>Apple, Netflix, Disney y la avaricia que romperá el saco</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/apple-netflix-disney-avaricia-rompera-saco-1145555' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/subida-precio-2852733.jpg' alt='Apple, Netflix, Disney y la avaricia que romperá el saco' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/cenar-tarde-engorda-1147975'>Un nuevo estudio demuestra que cenar tarde es aún peor para la salud y el peso de lo que pensábamos</a></h4>
     <a href='https://computerhoy.com/noticias/life/cenar-tarde-engorda-1147975' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/nuevo-estudio-demuestra-cenar-tarde-aun-peor-salud-peso-pensabamos-2857235.jpg' alt='Un nuevo estudio demuestra que cenar tarde es aún peor para la salud y el peso de lo que pensábamos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/xiaomi-11t-5g-8gb-ram-pantalla-120-hz-camara-108-mpx-solo-319-euros-1147771'>Xiaomi 11T 5G, con 8GB de RAM, pantalla a 120 Hz y cámara de 108 Mpx, solo 319 euros</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/xiaomi-11t-5g-8gb-ram-pantalla-120-hz-camara-108-mpx-solo-319-euros-1147771' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/xiaomi-11t-5g-2518873.jpg' alt='Xiaomi 11T 5G, con 8GB de RAM, pantalla a 120 Hz y cámara de 108 Mpx, solo 319 euros' />
     </a>
 </div>
 
