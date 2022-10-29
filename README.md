@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/autoconsumo-energetico-1132717'>¿Qué es el autoconsumo energético?</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/autoconsumo-energetico-1132717' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/verticalimage1666889050667-2856041.jpg' alt='¿Qué es el autoconsumo energético?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/analisis/tecnologia/motorola-razr-2022-review-opinion-1147291'>Motorola Razr 2022, análisis y opinión</a></h4>
+    <a href='https://computerhoy.com/analisis/tecnologia/motorola-razr-2022-review-opinion-1147291' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/motorola-razr-2022-analisis-opinion-2855767.jpg' alt='Motorola Razr 2022, análisis y opinión' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/directo-mejores-ofertas-black-friday-1144767'>En directo: Las mejores ofertas de Black Friday</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/directo-mejores-ofertas-black-friday-1144767' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/portada-directo-black-friday-2851279.jpg' alt='En directo: Las mejores ofertas de Black Friday' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/apple-netflix-disney-avaricia-rompera-saco-1145555'>Apple, Netflix, Disney y la avaricia que romperá el saco</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/apple-netflix-disney-avaricia-rompera-saco-1145555' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/subida-precio-2852733.jpg' alt='Apple, Netflix, Disney y la avaricia que romperá el saco' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/reacondicionados-black-friday-ofertas-segunda-mano-1147433'>Reacondicionados en el Black Friday: ofertas y todo lo que debes saber para ahorrar en productos de segunda mano</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/reacondicionados-black-friday-ofertas-segunda-mano-1147433' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/cajas-2856047.jpg' alt='Reacondicionados en el Black Friday: ofertas y todo lo que debes saber para ahorrar en productos de segunda mano' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/creacion-adan-miguel-angel-secretos-1144787'>La Creación de Adán de Miguel Ángel esconde un secreto que poca gente conoce</a></h4>
-    <a href='https://computerhoy.com/noticias/life/creacion-adan-miguel-angel-secretos-1144787' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/creacion-adan-miguel-angel-esconde-secreto-poca-gente-conoce-2851353.jpg' alt='La Creación de Adán de Miguel Ángel esconde un secreto que poca gente conoce' />
     </a>
 </div>
 
