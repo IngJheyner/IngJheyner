@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/apple-netflix-disney-avaricia-rompera-saco-1145555'>Apple, Netflix, Disney y la avaricia que romperá el saco</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/apple-netflix-disney-avaricia-rompera-saco-1145555' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/subida-precio-2852733.jpg' alt='Apple, Netflix, Disney y la avaricia que romperá el saco' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/reacondicionados-black-friday-ofertas-segunda-mano-1147433'>Reacondicionados en el Black Friday: ofertas y todo lo que debes saber para ahorrar en productos de segunda mano</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/reacondicionados-black-friday-ofertas-segunda-mano-1147433' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/cajas-2856047.jpg' alt='Reacondicionados en el Black Friday: ofertas y todo lo que debes saber para ahorrar en productos de segunda mano' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/creacion-adan-miguel-angel-secretos-1144787'>La Creación de Adán de Miguel Ángel esconde un secreto que poca gente conoce</a></h4>
     <a href='https://computerhoy.com/noticias/life/creacion-adan-miguel-angel-secretos-1144787' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/creacion-adan-miguel-angel-esconde-secreto-poca-gente-conoce-2851353.jpg' alt='La Creación de Adán de Miguel Ángel esconde un secreto que poca gente conoce' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/xiaomi-11t-5g-8gb-ram-pantalla-120-hz-camara-108-mpx-solo-319-euros-1147771'>Xiaomi 11T 5G, con 8GB de RAM, pantalla a 120 Hz y cámara de 108 Mpx, solo 319 euros</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/xiaomi-11t-5g-8gb-ram-pantalla-120-hz-camara-108-mpx-solo-319-euros-1147771' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/xiaomi-11t-5g-2518873.jpg' alt='Xiaomi 11T 5G, con 8GB de RAM, pantalla a 120 Hz y cámara de 108 Mpx, solo 319 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/esta-elon-musk-loco-1147769'>¿Está Elon Musk loco?</a></h4>
-    <a href='https://computerhoy.com/noticias/life/esta-elon-musk-loco-1147769' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/elon-musk-loco-2857009.jpg' alt='¿Está Elon Musk loco?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/avecina-dulceida-muchos-crimenes-novedades-noviembre-amazon-prime-video-1147741'>La que se avecina, Dulceida y muchos crímenes en las novedades de noviembre de Amazon Prime Video</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/avecina-dulceida-muchos-crimenes-novedades-noviembre-amazon-prime-video-1147741' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/avecina-dulceida-muchos-crimenes-novedades-noviembre-amazon-prime-video-2857001.jpg' alt='La que se avecina, Dulceida y muchos crímenes en las novedades de noviembre de Amazon Prime Video' />
     </a>
 </div>
 
