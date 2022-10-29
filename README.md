@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/guia-compra/mesa-gaming-1130207'>Todo lo que tienes que saber para comprar una mesa gaming</a></h4>
+    <a href='https://computerhoy.com/guia-compra/mesa-gaming-1130207' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/mesa-gaming-2823889.jpg' alt='Todo lo que tienes que saber para comprar una mesa gaming' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/afecta-salud-cambio-hora-no-nada-bueno-1148077'>Así afecta a tu salud el cambio de hora, y no es nada bueno</a></h4>
     <a href='https://computerhoy.com/noticias/life/afecta-salud-cambio-hora-no-nada-bueno-1148077' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/cambio-hora-2518341.jpg' alt='Así afecta a tu salud el cambio de hora, y no es nada bueno' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/regla-37-podras-tomar-decisiones-avaladas-matematicas-funciona-1148059'>Con la regla del 37% podrás tomar decisiones avaladas por las matemáticas, y así funciona</a></h4>
     <a href='https://computerhoy.com/noticias/life/regla-37-podras-tomar-decisiones-avaladas-matematicas-funciona-1148059' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/tomar-decisiones-2857349.jpg' alt='Con la regla del 37% podrás tomar decisiones avaladas por las matemáticas, y así funciona' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/life/como-conseguir-cashback-descuentos-11-11-aliexpress-paypal-alipay-1146831'>Cómo conseguir cashback y descuentos en el 11.11 de AliExpress con PayPal y AliPay</a></h4>
-    <a href='https://computerhoy.com/reportajes/life/como-conseguir-cashback-descuentos-11-11-aliexpress-paypal-alipay-1146831' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/carrito-compra-2854885.jpg' alt='Cómo conseguir cashback y descuentos en el 11.11 de AliExpress con PayPal y AliPay' />
     </a>
 </div>
 
