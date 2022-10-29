@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/afecta-salud-cambio-hora-no-nada-bueno-1148077'>Así afecta a tu salud el cambio de hora, y no es nada bueno</a></h4>
+    <a href='https://computerhoy.com/noticias/life/afecta-salud-cambio-hora-no-nada-bueno-1148077' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/cambio-hora-2518341.jpg' alt='Así afecta a tu salud el cambio de hora, y no es nada bueno' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/inspiran-medusas-crear-mano-robotica-blanda-agarrar-cualquier-objeto-1148085'>Se inspiran en las medusas para crear una mano robótica blanda para agarrar cualquier objeto</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/inspiran-medusas-crear-mano-robotica-blanda-agarrar-cualquier-objeto-1148085' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/crean-mano-robotica-tiene-tentaculos-neumaticos-lugar-pinzas-2857379.jpg' alt='Se inspiran en las medusas para crear una mano robótica blanda para agarrar cualquier objeto' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/life/como-conseguir-cashback-descuentos-11-11-aliexpress-paypal-alipay-1146831'>Cómo conseguir cashback y descuentos en el 11.11 de AliExpress con PayPal y AliPay</a></h4>
     <a href='https://computerhoy.com/reportajes/life/como-conseguir-cashback-descuentos-11-11-aliexpress-paypal-alipay-1146831' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/carrito-compra-2854885.jpg' alt='Cómo conseguir cashback y descuentos en el 11.11 de AliExpress con PayPal y AliPay' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/google-detalla-beneficios-telefonos-android-solo-64-bits-ram-menos-bloqueos-1148053'>Google detalla los beneficios de los teléfonos Android de solo 64 bits: más RAM y menos bloqueos</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/google-detalla-beneficios-telefonos-android-solo-64-bits-ram-menos-bloqueos-1148053' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/analisis-pixel-7-pro-2839679.jpg' alt='Google detalla los beneficios de los teléfonos Android de solo 64 bits: más RAM y menos bloqueos' />
     </a>
 </div>
 
