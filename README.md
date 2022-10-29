@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/entretenimiento/5-mejores-canales-youtube-gratis-legales-ver-peliculas-terror-halloween-1148037'>5 mejores canales de YouTube gratis y legales para ver películas de terror en Halloween</a></h4>
+    <a href='https://computerhoy.com/reportajes/entretenimiento/5-mejores-canales-youtube-gratis-legales-ver-peliculas-terror-halloween-1148037' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/peliculas-terror-2857319.jpg' alt='5 mejores canales de YouTube gratis y legales para ver películas de terror en Halloween' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/mejor-forma-retener-talento-empresa-steve-jobs-1148027'>Esta es la mejor forma de retener talento en una empresa, según Steve Jobs</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/mejor-forma-retener-talento-empresa-steve-jobs-1148027' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/03/steve-jobs-2280383.jpg' alt='Esta es la mejor forma de retener talento en una empresa, según Steve Jobs' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/todo-necesitas-saber-comprar-estufa-pellets-1141039'>Todo lo que necesitas saber para comprar una estufa de pellets</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/todo-necesitas-saber-comprar-estufa-pellets-1141039' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/estufa-pellets-2844289.jpg' alt='Todo lo que necesitas saber para comprar una estufa de pellets' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/autoconsumo-energetico-1132717'>¿Qué es el autoconsumo energético?</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/autoconsumo-energetico-1132717' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/verticalimage1666889050667-2856041.jpg' alt='¿Qué es el autoconsumo energético?' />
     </a>
 </div>
 
