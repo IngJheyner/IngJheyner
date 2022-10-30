@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/analisis/tecnologia/huawei-freebuds-review-opinion-1141125'>Huawei FreeBuds SE, análisis y opinión</a></h4>
+    <a href='https://computerhoy.com/analisis/tecnologia/huawei-freebuds-review-opinion-1141125' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/huawei-freebuds-2848173.jpg' alt='Huawei FreeBuds SE, análisis y opinión' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/life/monedas-sorteos-ofertas-11-11-aliexpress-1148067'>Monedas, sorteos y más: el 11.11 de AliExpress arranca con muchas formas de ahorrar</a></h4>
     <a href='https://computerhoy.com/reportajes/life/monedas-sorteos-ofertas-11-11-aliexpress-1148067' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/persona-sujetando-monedas-oro-manos-2857369.jpg' alt='Monedas, sorteos y más: el 11.11 de AliExpress arranca con muchas formas de ahorrar' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/cambio-climatico-puede-acabar-empeorando-basura-espacial-nos-afecta-1148087'>El cambio climático puede acabar empeorando la basura espacial, y así nos afecta</a></h4>
     <a href='https://computerhoy.com/noticias/life/cambio-climatico-puede-acabar-empeorando-basura-espacial-nos-afecta-1148087' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/basura-espacial-2857381.jpg' alt='El cambio climático puede acabar empeorando la basura espacial, y así nos afecta' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/triangulo-bermudas-fin-mito-1145259'>¿Por qué ya nadie habla del Triángulo de las Bermudas?</a></h4>
-    <a href='https://computerhoy.com/noticias/life/triangulo-bermudas-fin-mito-1145259' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/ya-nadie-habla-triangulo-bermudas-2852179.jpg' alt='¿Por qué ya nadie habla del Triángulo de las Bermudas?' />
     </a>
 </div>
 
