@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/investigadores-logran-imprimir-circuitos-electronicos-plastico-tela-incluso-frutas-1148373'>Investigadores logran imprimir circuitos electrónicos en plástico, tela e incluso frutas</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/investigadores-logran-imprimir-circuitos-electronicos-plastico-tela-incluso-frutas-1148373' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/nueva-tecnica-imprime-circuitos-electronicos-plastico-incluso-frutas-2857903.jpg' alt='Investigadores logran imprimir circuitos electrónicos en plástico, tela e incluso frutas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/guia-compra/portatil-edicion-1137259'>Qué portátil comprar para editar vídeo y fotos</a></h4>
     <a href='https://computerhoy.com/guia-compra/portatil-edicion-1137259' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/portatil-fotos-videos-2836819.jpg' alt='Qué portátil comprar para editar vídeo y fotos' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/analisis/tecnologia/apple-iphone-14-plus-review-opinion-1148309'>Apple iPhone 14 Plus, análisis y opinión</a></h4>
     <a href='https://computerhoy.com/analisis/tecnologia/apple-iphone-14-plus-review-opinion-1148309' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/apple-iphone-14-plus-analisis-opinion-2857809.jpg' alt='Apple iPhone 14 Plus, análisis y opinión' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/whatsapp-probando-mejoras-enviarse-mensajes-mismo-1148345'>WhatsApp está probando mejoras para enviarse mensajes a sí mismo</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/whatsapp-probando-mejoras-enviarse-mensajes-mismo-1148345' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/whatsapp-2664033.jpg' alt='WhatsApp está probando mejoras para enviarse mensajes a sí mismo' />
     </a>
 </div>
 
