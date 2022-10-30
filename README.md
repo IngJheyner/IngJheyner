@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/apple-macbook-pro-mac-pro-retrasan-2023-1148417'>Apple ya no lanzará ningún Mac en 2022, los MacBook Pro y el Mac Pro se retrasan a 2023</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/apple-macbook-pro-mac-pro-retrasan-2023-1148417' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/11/mac-pro.jpg' alt='Apple ya no lanzará ningún Mac en 2022, los MacBook Pro y el Mac Pro se retrasan a 2023' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-tener-pantalla-bloqueo-windows-11-difuminar-1139553'>Cómo tener una pantalla de bloqueo en Windows 11 sin difuminar</a></h4>
     <a href='https://computerhoy.com/tutoriales/tecnologia/como-tener-pantalla-bloqueo-windows-11-difuminar-1139553' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/Windowspantalladeinicio_166564689536814189.jpg' alt='Cómo tener una pantalla de bloqueo en Windows 11 sin difuminar' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/investigadores-logran-imprimir-circuitos-electronicos-plastico-tela-incluso-frutas-1148373'>Investigadores logran imprimir circuitos electrónicos en plástico, tela e incluso frutas</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/investigadores-logran-imprimir-circuitos-electronicos-plastico-tela-incluso-frutas-1148373' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/nueva-tecnica-imprime-circuitos-electronicos-plastico-incluso-frutas-2857903.jpg' alt='Investigadores logran imprimir circuitos electrónicos en plástico, tela e incluso frutas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/guia-compra/portatil-edicion-1137259'>Qué portátil comprar para editar vídeo y fotos</a></h4>
-    <a href='https://computerhoy.com/guia-compra/portatil-edicion-1137259' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/portatil-fotos-videos-2836819.jpg' alt='Qué portátil comprar para editar vídeo y fotos' />
     </a>
 </div>
 
