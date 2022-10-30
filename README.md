@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/agujero-capa-ozono-reduciendo-gracias-prohibicion-productos-quimicos-aerosoles-1148351'>El agujero de la capa de ozono se está reduciendo gracias a la prohibición de los productos químicos y de los aerosoles</a></h4>
+    <a href='https://computerhoy.com/noticias/life/agujero-capa-ozono-reduciendo-gracias-prohibicion-productos-quimicos-aerosoles-1148351' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/agujero-capa-ozono-2857863.jpg' alt='El agujero de la capa de ozono se está reduciendo gracias a la prohibición de los productos químicos y de los aerosoles' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/analisis/tecnologia/apple-iphone-14-plus-review-opinion-1148309'>Apple iPhone 14 Plus, análisis y opinión</a></h4>
     <a href='https://computerhoy.com/analisis/tecnologia/apple-iphone-14-plus-review-opinion-1148309' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/apple-iphone-14-plus-analisis-opinion-2857809.jpg' alt='Apple iPhone 14 Plus, análisis y opinión' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/crean-lavadora-humanos-inteligencia-artificial-reproduce-musica-mientras-te-lava-1148337'>Crean una lavadora de humanos con inteligencia artificial que reproduce música mientras te lava</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/crean-lavadora-humanos-inteligencia-artificial-reproduce-musica-mientras-te-lava-1148337' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/cientificos-crean-lavadora-humanos-usa-inteligencia-artificial-2857855.jpg' alt='Crean una lavadora de humanos con inteligencia artificial que reproduce música mientras te lava' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/11-soluciones-hacer-movil-android-funcione-rapido-1146481'>11 soluciones para hacer que tu móvil Android funcione más rápido</a></h4>
-    <a href='https://computerhoy.com/tutoriales/tecnologia/11-soluciones-hacer-movil-android-funcione-rapido-1146481' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/telefono-android-compacto-2704819.jpg' alt='11 soluciones para hacer que tu móvil Android funcione más rápido' />
     </a>
 </div>
 
