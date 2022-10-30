@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/11-soluciones-hacer-movil-android-funcione-rapido-1146481'>11 soluciones para hacer que tu móvil Android funcione más rápido</a></h4>
+    <a href='https://computerhoy.com/tutoriales/tecnologia/11-soluciones-hacer-movil-android-funcione-rapido-1146481' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/telefono-android-compacto-2704819.jpg' alt='11 soluciones para hacer que tu móvil Android funcione más rápido' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/analisis/tecnologia/huawei-freebuds-review-opinion-1141125'>Huawei FreeBuds SE, análisis y opinión</a></h4>
     <a href='https://computerhoy.com/analisis/tecnologia/huawei-freebuds-review-opinion-1141125' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/huawei-freebuds-2848173.jpg' alt='Huawei FreeBuds SE, análisis y opinión' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/cientificos-crean-robot-elimina-cualquier-tipo-insecto-mediante-laser-sustituir-pesticidas-1148081'>Científicos crean un robot que elimina cualquier tipo de insecto mediante láser para sustituir a los pesticidas</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/cientificos-crean-robot-elimina-cualquier-tipo-insecto-mediante-laser-sustituir-pesticidas-1148081' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/insecto-2857373.jpg' alt='Científicos crean un robot que elimina cualquier tipo de insecto mediante láser para sustituir a los pesticidas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/cambio-climatico-puede-acabar-empeorando-basura-espacial-nos-afecta-1148087'>El cambio climático puede acabar empeorando la basura espacial, y así nos afecta</a></h4>
-    <a href='https://computerhoy.com/noticias/life/cambio-climatico-puede-acabar-empeorando-basura-espacial-nos-afecta-1148087' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/basura-espacial-2857381.jpg' alt='El cambio climático puede acabar empeorando la basura espacial, y así nos afecta' />
     </a>
 </div>
 
