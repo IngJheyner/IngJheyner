@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/guia-compra/medidor-consumo-electrico-1144671'>Medidores domésticos de consumo eléctrico: ideales para ayudarte a ahorrar luz</a></h4>
+    <a href='https://computerhoy.com/guia-compra/medidor-consumo-electrico-1144671' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/medidores-domesticos-2851077.jpg' alt='Medidores domésticos de consumo eléctrico: ideales para ayudarte a ahorrar luz' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/crean-lavadora-humanos-inteligencia-artificial-reproduce-musica-mientras-te-lava-1148337'>Crean una lavadora de humanos con inteligencia artificial que reproduce música mientras te lava</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/crean-lavadora-humanos-inteligencia-artificial-reproduce-musica-mientras-te-lava-1148337' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/cientificos-crean-lavadora-humanos-usa-inteligencia-artificial-2857855.jpg' alt='Crean una lavadora de humanos con inteligencia artificial que reproduce música mientras te lava' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tutoriales/tecnologia/11-soluciones-hacer-movil-android-funcione-rapido-1146481'>11 soluciones para hacer que tu móvil Android funcione más rápido</a></h4>
     <a href='https://computerhoy.com/tutoriales/tecnologia/11-soluciones-hacer-movil-android-funcione-rapido-1146481' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/telefono-android-compacto-2704819.jpg' alt='11 soluciones para hacer que tu móvil Android funcione más rápido' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/life/monedas-sorteos-ofertas-11-11-aliexpress-1148067'>Monedas, sorteos y más: el 11.11 de AliExpress arranca con muchas formas de ahorrar</a></h4>
     <a href='https://computerhoy.com/reportajes/life/monedas-sorteos-ofertas-11-11-aliexpress-1148067' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/persona-sujetando-monedas-oro-manos-2857369.jpg' alt='Monedas, sorteos y más: el 11.11 de AliExpress arranca con muchas formas de ahorrar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/guia-compra/auriculares-dormir-1144355'>Guía y consejos para comprar unos auriculares para dormir</a></h4>
-    <a href='https://computerhoy.com/guia-compra/auriculares-dormir-1144355' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/durmiendo-auriculares-2850675.jpg' alt='Guía y consejos para comprar unos auriculares para dormir' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/cientificos-crean-robot-elimina-cualquier-tipo-insecto-mediante-laser-sustituir-pesticidas-1148081'>Científicos crean un robot que elimina cualquier tipo de insecto mediante láser para sustituir a los pesticidas</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/cientificos-crean-robot-elimina-cualquier-tipo-insecto-mediante-laser-sustituir-pesticidas-1148081' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/insecto-2857373.jpg' alt='Científicos crean un robot que elimina cualquier tipo de insecto mediante láser para sustituir a los pesticidas' />
     </a>
 </div>
 
