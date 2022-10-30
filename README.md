@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/the-witcher-netflix-liam-hemsworth-sustituye-henry-cavill-geralt-rivia-1148409'>Bomba en The Witcher de Netflix: Liam Hemsworth sustituye a Henry Cavill en el papel protagonista</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/the-witcher-netflix-liam-hemsworth-sustituye-henry-cavill-geralt-rivia-1148409' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/bomba-witcher-netflix-liam-hemsworth-sustituye-henry-cavill-papel-protagonista-2857989.jpg' alt='Bomba en The Witcher de Netflix: Liam Hemsworth sustituye a Henry Cavill en el papel protagonista' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/investigadores-logran-imprimir-circuitos-electronicos-plastico-tela-incluso-frutas-1148373'>Investigadores logran imprimir circuitos electrónicos en plástico, tela e incluso frutas</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/investigadores-logran-imprimir-circuitos-electronicos-plastico-tela-incluso-frutas-1148373' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/nueva-tecnica-imprime-circuitos-electronicos-plastico-incluso-frutas-2857903.jpg' alt='Investigadores logran imprimir circuitos electrónicos en plástico, tela e incluso frutas' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/agujero-capa-ozono-reduciendo-gracias-prohibicion-productos-quimicos-aerosoles-1148351'>El agujero de la capa de ozono se está reduciendo gracias a la prohibición de los productos químicos y de los aerosoles</a></h4>
     <a href='https://computerhoy.com/noticias/life/agujero-capa-ozono-reduciendo-gracias-prohibicion-productos-quimicos-aerosoles-1148351' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/agujero-capa-ozono-2857863.jpg' alt='El agujero de la capa de ozono se está reduciendo gracias a la prohibición de los productos químicos y de los aerosoles' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/tecnologia/apple-iphone-14-plus-review-opinion-1148309'>Apple iPhone 14 Plus, análisis y opinión</a></h4>
-    <a href='https://computerhoy.com/analisis/tecnologia/apple-iphone-14-plus-review-opinion-1148309' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/apple-iphone-14-plus-analisis-opinion-2857809.jpg' alt='Apple iPhone 14 Plus, análisis y opinión' />
     </a>
 </div>
 
