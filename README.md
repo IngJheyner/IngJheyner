@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/life/monedas-sorteos-ofertas-11-11-aliexpress-1148067'>Monedas, sorteos y más: el 11.11 de AliExpress arranca con muchas formas de ahorrar</a></h4>
+    <a href='https://computerhoy.com/reportajes/life/monedas-sorteos-ofertas-11-11-aliexpress-1148067' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/persona-sujetando-monedas-oro-manos-2857369.jpg' alt='Monedas, sorteos y más: el 11.11 de AliExpress arranca con muchas formas de ahorrar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/guia-compra/auriculares-dormir-1144355'>Guía y consejos para comprar unos auriculares para dormir</a></h4>
+    <a href='https://computerhoy.com/guia-compra/auriculares-dormir-1144355' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/durmiendo-auriculares-2850675.jpg' alt='Guía y consejos para comprar unos auriculares para dormir' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/cientificos-crean-robot-elimina-cualquier-tipo-insecto-mediante-laser-sustituir-pesticidas-1148081'>Científicos crean un robot que elimina cualquier tipo de insecto mediante láser para sustituir a los pesticidas</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/cientificos-crean-robot-elimina-cualquier-tipo-insecto-mediante-laser-sustituir-pesticidas-1148081' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/insecto-2857373.jpg' alt='Científicos crean un robot que elimina cualquier tipo de insecto mediante láser para sustituir a los pesticidas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/cambio-climatico-puede-acabar-empeorando-basura-espacial-nos-afecta-1148087'>El cambio climático puede acabar empeorando la basura espacial, y así nos afecta</a></h4>
     <a href='https://computerhoy.com/noticias/life/cambio-climatico-puede-acabar-empeorando-basura-espacial-nos-afecta-1148087' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/basura-espacial-2857381.jpg' alt='El cambio climático puede acabar empeorando la basura espacial, y así nos afecta' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/triangulo-bermudas-fin-mito-1145259'>¿Por qué ya nadie habla del Triángulo de las Bermudas?</a></h4>
     <a href='https://computerhoy.com/noticias/life/triangulo-bermudas-fin-mito-1145259' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/ya-nadie-habla-triangulo-bermudas-2852179.jpg' alt='¿Por qué ya nadie habla del Triángulo de las Bermudas?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/life/tiendas-tendran-mejores-ofertas-black-friday-1148051'>Qué tiendas tendrán las mejores ofertas en el Black Friday</a></h4>
-    <a href='https://computerhoy.com/reportajes/life/tiendas-tendran-mejores-ofertas-black-friday-1148051' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/maniquies-vestidos-tienda-ropa-ofertas-2857351.jpg' alt='Qué tiendas tendrán las mejores ofertas en el Black Friday' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/perros-reconocen-incompetencia-humana-1144127'>No solo los gatos te miran por encima del hombro: estudio descubre que los perros reconocen la incompetencia humana</a></h4>
-    <a href='https://computerhoy.com/noticias/life/perros-reconocen-incompetencia-humana-1144127' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/no-solo-gatos-te-miran-encima-hombro-estudio-descubre-perros-reconocen-incompetencia-humana-2850451.jpg' alt='No solo los gatos te miran por encima del hombro: estudio descubre que los perros reconocen la incompetencia humana' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/guia-compra/mesa-gaming-1130207'>Todo lo que tienes que saber para comprar una mesa gaming</a></h4>
-    <a href='https://computerhoy.com/guia-compra/mesa-gaming-1130207' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/mesa-gaming-2823889.jpg' alt='Todo lo que tienes que saber para comprar una mesa gaming' />
     </a>
 </div>
 
