@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/vietnam-venden-tarjetas-graficas-peso-puestos-callejeros-1148421'>En Vietnam ya venden tarjetas gráficas al peso en puestos callejeros</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/vietnam-venden-tarjetas-graficas-peso-puestos-callejeros-1148421' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/vietnam-ya-venden-tarjetas-graficas-peso-puestos-callejeros-2858023.jpg' alt='En Vietnam ya venden tarjetas gráficas al peso en puestos callejeros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/apple-macbook-pro-mac-pro-retrasan-2023-1148417'>Apple ya no lanzará ningún Mac en 2022, los MacBook Pro y el Mac Pro se retrasan a 2023</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/apple-macbook-pro-mac-pro-retrasan-2023-1148417' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/11/mac-pro.jpg' alt='Apple ya no lanzará ningún Mac en 2022, los MacBook Pro y el Mac Pro se retrasan a 2023' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/the-witcher-netflix-liam-hemsworth-sustituye-henry-cavill-geralt-rivia-1148409'>Bomba en The Witcher de Netflix: Liam Hemsworth sustituye a Henry Cavill en el papel protagonista</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/the-witcher-netflix-liam-hemsworth-sustituye-henry-cavill-geralt-rivia-1148409' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/bomba-witcher-netflix-liam-hemsworth-sustituye-henry-cavill-papel-protagonista-2857989.jpg' alt='Bomba en The Witcher de Netflix: Liam Hemsworth sustituye a Henry Cavill en el papel protagonista' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/investigadores-logran-imprimir-circuitos-electronicos-plastico-tela-incluso-frutas-1148373'>Investigadores logran imprimir circuitos electrónicos en plástico, tela e incluso frutas</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/investigadores-logran-imprimir-circuitos-electronicos-plastico-tela-incluso-frutas-1148373' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/nueva-tecnica-imprime-circuitos-electronicos-plastico-incluso-frutas-2857903.jpg' alt='Investigadores logran imprimir circuitos electrónicos en plástico, tela e incluso frutas' />
     </a>
 </div>
 
