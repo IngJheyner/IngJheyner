@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/analisis/tecnologia/apple-iphone-14-plus-review-opinion-1148309'>Apple iPhone 14 Plus, análisis y opinión</a></h4>
+    <a href='https://computerhoy.com/analisis/tecnologia/apple-iphone-14-plus-review-opinion-1148309' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/apple-iphone-14-plus-analisis-opinion-2857809.jpg' alt='Apple iPhone 14 Plus, análisis y opinión' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/whatsapp-probando-mejoras-enviarse-mensajes-mismo-1148345'>WhatsApp está probando mejoras para enviarse mensajes a sí mismo</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/whatsapp-probando-mejoras-enviarse-mensajes-mismo-1148345' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/whatsapp-2664033.jpg' alt='WhatsApp está probando mejoras para enviarse mensajes a sí mismo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/guia-compra/medidor-consumo-electrico-1144671'>Medidores domésticos de consumo eléctrico: ideales para ayudarte a ahorrar luz</a></h4>
     <a href='https://computerhoy.com/guia-compra/medidor-consumo-electrico-1144671' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/medidores-domesticos-2851077.jpg' alt='Medidores domésticos de consumo eléctrico: ideales para ayudarte a ahorrar luz' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tutoriales/tecnologia/11-soluciones-hacer-movil-android-funcione-rapido-1146481'>11 soluciones para hacer que tu móvil Android funcione más rápido</a></h4>
     <a href='https://computerhoy.com/tutoriales/tecnologia/11-soluciones-hacer-movil-android-funcione-rapido-1146481' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/telefono-android-compacto-2704819.jpg' alt='11 soluciones para hacer que tu móvil Android funcione más rápido' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/tecnologia/huawei-freebuds-review-opinion-1141125'>Huawei FreeBuds SE, análisis y opinión</a></h4>
-    <a href='https://computerhoy.com/analisis/tecnologia/huawei-freebuds-review-opinion-1141125' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/huawei-freebuds-2848173.jpg' alt='Huawei FreeBuds SE, análisis y opinión' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/life/monedas-sorteos-ofertas-11-11-aliexpress-1148067'>Monedas, sorteos y más: el 11.11 de AliExpress arranca con muchas formas de ahorrar</a></h4>
-    <a href='https://computerhoy.com/reportajes/life/monedas-sorteos-ofertas-11-11-aliexpress-1148067' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/persona-sujetando-monedas-oro-manos-2857369.jpg' alt='Monedas, sorteos y más: el 11.11 de AliExpress arranca con muchas formas de ahorrar' />
     </a>
 </div>
 
