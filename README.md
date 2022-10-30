@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-tener-pantalla-bloqueo-windows-11-difuminar-1139553'>Cómo tener una pantalla de bloqueo en Windows 11 sin difuminar</a></h4>
+    <a href='https://computerhoy.com/tutoriales/tecnologia/como-tener-pantalla-bloqueo-windows-11-difuminar-1139553' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/Windowspantalladeinicio_166564689536814189.jpg' alt='Cómo tener una pantalla de bloqueo en Windows 11 sin difuminar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/comparativa-fire-tv-stick-4k-max-vs-fire-tv-stick-4k-1121423'>Fire TV Stick 4K Max vs Fire TV Stick 4K de Amazon: diferencias y cuál es la mejor compra</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/comparativa-fire-tv-stick-4k-max-vs-fire-tv-stick-4k-1121423' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/amazon-fire-tv-stick-4k-max-2495301.jpg' alt='Fire TV Stick 4K Max vs Fire TV Stick 4K de Amazon: diferencias y cuál es la mejor compra' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/the-witcher-netflix-liam-hemsworth-sustituye-henry-cavill-geralt-rivia-1148409'>Bomba en The Witcher de Netflix: Liam Hemsworth sustituye a Henry Cavill en el papel protagonista</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/the-witcher-netflix-liam-hemsworth-sustituye-henry-cavill-geralt-rivia-1148409' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/bomba-witcher-netflix-liam-hemsworth-sustituye-henry-cavill-papel-protagonista-2857989.jpg' alt='Bomba en The Witcher de Netflix: Liam Hemsworth sustituye a Henry Cavill en el papel protagonista' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/guia-compra/portatil-edicion-1137259'>Qué portátil comprar para editar vídeo y fotos</a></h4>
     <a href='https://computerhoy.com/guia-compra/portatil-edicion-1137259' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/portatil-fotos-videos-2836819.jpg' alt='Qué portátil comprar para editar vídeo y fotos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/internet-explorer-11-desactivara-eliminara-windows-solo-unas-semanas-no-podras-hacer-nada-1148367'>Internet Explorer 11 se desactivará y eliminará de tu Windows en solo unas semanas y no podrás hacer nada</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/internet-explorer-11-desactivara-eliminara-windows-solo-unas-semanas-no-podras-hacer-nada-1148367' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/internet-explorer-11-2857897.jpg' alt='Internet Explorer 11 se desactivará y eliminará de tu Windows en solo unas semanas y no podrás hacer nada' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/agujero-capa-ozono-reduciendo-gracias-prohibicion-productos-quimicos-aerosoles-1148351'>El agujero de la capa de ozono se está reduciendo gracias a la prohibición de los productos químicos y de los aerosoles</a></h4>
-    <a href='https://computerhoy.com/noticias/life/agujero-capa-ozono-reduciendo-gracias-prohibicion-productos-quimicos-aerosoles-1148351' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/agujero-capa-ozono-2857863.jpg' alt='El agujero de la capa de ozono se está reduciendo gracias a la prohibición de los productos químicos y de los aerosoles' />
     </a>
 </div>
 
