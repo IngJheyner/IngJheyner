@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/guia-compra/portatil-edicion-1137259'>Qué portátil comprar para editar vídeo y fotos</a></h4>
+    <a href='https://computerhoy.com/guia-compra/portatil-edicion-1137259' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/portatil-fotos-videos-2836819.jpg' alt='Qué portátil comprar para editar vídeo y fotos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/internet-explorer-11-desactivara-eliminara-windows-solo-unas-semanas-no-podras-hacer-nada-1148367'>Internet Explorer 11 se desactivará y eliminará de tu Windows en solo unas semanas y no podrás hacer nada</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/internet-explorer-11-desactivara-eliminara-windows-solo-unas-semanas-no-podras-hacer-nada-1148367' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/internet-explorer-11-2857897.jpg' alt='Internet Explorer 11 se desactivará y eliminará de tu Windows en solo unas semanas y no podrás hacer nada' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/agujero-capa-ozono-reduciendo-gracias-prohibicion-productos-quimicos-aerosoles-1148351'>El agujero de la capa de ozono se está reduciendo gracias a la prohibición de los productos químicos y de los aerosoles</a></h4>
     <a href='https://computerhoy.com/noticias/life/agujero-capa-ozono-reduciendo-gracias-prohibicion-productos-quimicos-aerosoles-1148351' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/agujero-capa-ozono-2857863.jpg' alt='El agujero de la capa de ozono se está reduciendo gracias a la prohibición de los productos químicos y de los aerosoles' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/whatsapp-probando-mejoras-enviarse-mensajes-mismo-1148345'>WhatsApp está probando mejoras para enviarse mensajes a sí mismo</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/whatsapp-probando-mejoras-enviarse-mensajes-mismo-1148345' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/whatsapp-2664033.jpg' alt='WhatsApp está probando mejoras para enviarse mensajes a sí mismo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/guia-compra/medidor-consumo-electrico-1144671'>Medidores domésticos de consumo eléctrico: ideales para ayudarte a ahorrar luz</a></h4>
-    <a href='https://computerhoy.com/guia-compra/medidor-consumo-electrico-1144671' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/medidores-domesticos-2851077.jpg' alt='Medidores domésticos de consumo eléctrico: ideales para ayudarte a ahorrar luz' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/crean-lavadora-humanos-inteligencia-artificial-reproduce-musica-mientras-te-lava-1148337'>Crean una lavadora de humanos con inteligencia artificial que reproduce música mientras te lava</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/crean-lavadora-humanos-inteligencia-artificial-reproduce-musica-mientras-te-lava-1148337' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/cientificos-crean-lavadora-humanos-usa-inteligencia-artificial-2857855.jpg' alt='Crean una lavadora de humanos con inteligencia artificial que reproduce música mientras te lava' />
     </a>
 </div>
 
