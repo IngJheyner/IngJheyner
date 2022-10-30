@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/divertida-foto-sol-sonrie-preocupante-tierra-1148425'>La divertida imagen del Sol que sonríe, es preocupante para la Tierra</a></h4>
+    <a href='https://computerhoy.com/noticias/life/divertida-foto-sol-sonrie-preocupante-tierra-1148425' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/divertida-imagen-sol-sonriendo-preocupante-tierra-2858055.jpg' alt='La divertida imagen del Sol que sonríe, es preocupante para la Tierra' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/vietnam-venden-tarjetas-graficas-peso-puestos-callejeros-1148421'>En Vietnam ya venden tarjetas gráficas al peso en puestos callejeros</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/vietnam-venden-tarjetas-graficas-peso-puestos-callejeros-1148421' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/vietnam-ya-venden-tarjetas-graficas-peso-puestos-callejeros-2858023.jpg' alt='En Vietnam ya venden tarjetas gráficas al peso en puestos callejeros' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/comparativa-fire-tv-stick-4k-max-vs-fire-tv-stick-4k-1121423'>Fire TV Stick 4K Max vs Fire TV Stick 4K de Amazon: diferencias y cuál es la mejor compra</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/comparativa-fire-tv-stick-4k-max-vs-fire-tv-stick-4k-1121423' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/amazon-fire-tv-stick-4k-max-2495301.jpg' alt='Fire TV Stick 4K Max vs Fire TV Stick 4K de Amazon: diferencias y cuál es la mejor compra' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/the-witcher-netflix-liam-hemsworth-sustituye-henry-cavill-geralt-rivia-1148409'>Bomba en The Witcher de Netflix: Liam Hemsworth sustituye a Henry Cavill en el papel protagonista</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/the-witcher-netflix-liam-hemsworth-sustituye-henry-cavill-geralt-rivia-1148409' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/bomba-witcher-netflix-liam-hemsworth-sustituye-henry-cavill-papel-protagonista-2857989.jpg' alt='Bomba en The Witcher de Netflix: Liam Hemsworth sustituye a Henry Cavill en el papel protagonista' />
     </a>
 </div>
 
