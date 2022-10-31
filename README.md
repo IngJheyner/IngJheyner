@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/estos-son-5-grandes-cambios-elon-musk-quiere-hacer-twitter-1148813'>Estos son los 5 grandes cambios que Elon Musk quiere hacer en Twitter</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/estos-son-5-grandes-cambios-elon-musk-quiere-hacer-twitter-1148813' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/elon-musk-twitter-2671041.jpg' alt='Estos son los 5 grandes cambios que Elon Musk quiere hacer en Twitter' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/pilares-creacion-james-webb-version-halloween-imagen-asusta-1148777'>Los Pilares de la Creación del James Webb en versión Halloween, una imagen que asusta</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/pilares-creacion-james-webb-version-halloween-imagen-asusta-1148777' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/ultima-imagen-james-webb-nasa-tiene-locos-astronomos-como-radiografia-2855263.jpg' alt='Los Pilares de la Creación del James Webb en versión Halloween, una imagen que asusta' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/8-mejores-juguetes-tecnologicos-educativos-ninos-aprendan-1148713'>Los 8 mejores juguetes tecnológicos y educativos para que los niños aprendan</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/8-mejores-juguetes-tecnologicos-educativos-ninos-aprendan-1148713' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/8-juguetes-tecnologicos-introducir-ninos-tecnologia-mientras-aprenden-2858795.jpg' alt='Los 8 mejores juguetes tecnológicos y educativos para que los niños aprendan' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/ultima-idea-elon-musk-resucitar-vieja-app-combatir-tiktok-1148751'>La última idea de Elon Musk es resucitar una vieja app para combatir a TikTok</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/ultima-idea-elon-musk-resucitar-vieja-app-combatir-tiktok-1148751' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/elon-musk-2657243.jpg' alt='La última idea de Elon Musk es resucitar una vieja app para combatir a TikTok' />
     </a>
 </div>
 
