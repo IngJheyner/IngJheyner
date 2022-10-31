@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/linux-ventajas-diferencias-windows-mejores-distribuciones-1145635'>Qué es Linux: ventajas, diferencias con Windows y mejores distribuciones</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/linux-ventajas-diferencias-windows-mejores-distribuciones-1145635' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/01/linux.jpg' alt='Qué es Linux: ventajas, diferencias con Windows y mejores distribuciones' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-oppo-descuentos-ofertas-893741'>Estos son los mejores móviles Oppo que puedes comprar en 2022</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-oppo-descuentos-ofertas-893741' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/review-oppo-reno-8-pro-2809153.jpg' alt='Estos son los mejores móviles Oppo que puedes comprar en 2022' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/life/cupones-regalo-black-friday-amazon-aliexpress-1148413'>Cupones Black Friday 2022: Amazon, AliExpress y otras tiendas con cheques regalo</a></h4>
     <a href='https://computerhoy.com/reportajes/life/cupones-regalo-black-friday-amazon-aliexpress-1148413' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/mujer-cupon-descuento-mano-2857997.jpg' alt='Cupones Black Friday 2022: Amazon, AliExpress y otras tiendas con cheques regalo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/foto-terrorifica-halloween-real-hormiga-1147483'>La foto más terrorífica de este Halloween es real, y podría estar correteando por tu casa</a></h4>
-    <a href='https://computerhoy.com/noticias/life/foto-terrorifica-halloween-real-hormiga-1147483' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/foto-terrorifica-halloween-real-podria-estar-correteando-casa-2856151.jpg' alt='La foto más terrorífica de este Halloween es real, y podría estar correteando por tu casa' />
     </a>
 </div>
 
