@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/puedes-limpiar-escritorio-windows-11-truco-oculto-sistema-operativo-1148715'>Así puedes limpiar el escritorio de Windows 11 con este truco oculto del sistema operativo</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/puedes-limpiar-escritorio-windows-11-truco-oculto-sistema-operativo-1148715' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/windows-11-2822283.jpg' alt='Así puedes limpiar el escritorio de Windows 11 con este truco oculto del sistema operativo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/humanidad-acabara-2060-eso-predijo-isaac-newton-1148669'>La humanidad acabará en 2060... o eso predijo Isaac Newton</a></h4>
     <a href='https://computerhoy.com/noticias/life/humanidad-acabara-2060-eso-predijo-isaac-newton-1148669' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/isaac-newton-2858615.jpg' alt='La humanidad acabará en 2060... o eso predijo Isaac Newton' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/cupones-11-11-aliexpress-como-funcionan-como-conseguirlos-1141639'>Cupones del 11.11 en AliExpress: cómo funcionan y cómo conseguirlos</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/cupones-11-11-aliexpress-como-funcionan-como-conseguirlos-1141639' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/portada-compras-2845833.jpg' alt='Cupones del 11.11 en AliExpress: cómo funcionan y cómo conseguirlos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/creador-twitter-quiere-hacer-competencia-elon-musk-propia-red-social-1148639'>El creador de Twitter quiere hacer la competencia a Elon Musk con su propia red social</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/creador-twitter-quiere-hacer-competencia-elon-musk-propia-red-social-1148639' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/ceo-square-twitter-jack-dorsey-2401289.jpg' alt='El creador de Twitter quiere hacer la competencia a Elon Musk con su propia red social' />
     </a>
 </div>
 
