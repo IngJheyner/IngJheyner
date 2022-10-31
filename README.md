@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/foto-terrorifica-halloween-real-hormiga-1147483'>La foto más terrorífica de este Halloween es real, y podría estar correteando por tu casa</a></h4>
+    <a href='https://computerhoy.com/noticias/life/foto-terrorifica-halloween-real-hormiga-1147483' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/foto-terrorifica-halloween-real-podria-estar-correteando-casa-2856151.jpg' alt='La foto más terrorífica de este Halloween es real, y podría estar correteando por tu casa' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/divertida-foto-sol-sonrie-preocupante-tierra-1148425'>La divertida imagen del Sol que sonríe, es preocupante para la Tierra</a></h4>
     <a href='https://computerhoy.com/noticias/life/divertida-foto-sol-sonrie-preocupante-tierra-1148425' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/divertida-imagen-sol-sonriendo-preocupante-tierra-2858055.jpg' alt='La divertida imagen del Sol que sonríe, es preocupante para la Tierra' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-tener-pantalla-bloqueo-windows-11-difuminar-1139553'>Cómo tener una pantalla de bloqueo en Windows 11 sin difuminar</a></h4>
     <a href='https://computerhoy.com/tutoriales/tecnologia/como-tener-pantalla-bloqueo-windows-11-difuminar-1139553' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/Windowspantalladeinicio_166564689536814189.jpg' alt='Cómo tener una pantalla de bloqueo en Windows 11 sin difuminar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/comparativa-fire-tv-stick-4k-max-vs-fire-tv-stick-4k-1121423'>Fire TV Stick 4K Max vs Fire TV Stick 4K de Amazon: diferencias y cuál es la mejor compra</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/comparativa-fire-tv-stick-4k-max-vs-fire-tv-stick-4k-1121423' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/amazon-fire-tv-stick-4k-max-2495301.jpg' alt='Fire TV Stick 4K Max vs Fire TV Stick 4K de Amazon: diferencias y cuál es la mejor compra' />
     </a>
 </div>
 
