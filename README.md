@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/8-mejores-juguetes-tecnologicos-educativos-ninos-aprendan-1148713'>Los 8 mejores juguetes tecnológicos y educativos para que los niños aprendan</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/8-mejores-juguetes-tecnologicos-educativos-ninos-aprendan-1148713' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/8-juguetes-tecnologicos-introducir-ninos-tecnologia-mientras-aprenden-2858795.jpg' alt='Los 8 mejores juguetes tecnológicos y educativos para que los niños aprendan' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/ultima-idea-elon-musk-resucitar-vieja-app-combatir-tiktok-1148751'>La última idea de Elon Musk es resucitar una vieja app para combatir a TikTok</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/ultima-idea-elon-musk-resucitar-vieja-app-combatir-tiktok-1148751' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/elon-musk-2657243.jpg' alt='La última idea de Elon Musk es resucitar una vieja app para combatir a TikTok' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/rival-iphone-hecho-google-ya-oferta-cuesta-menos-600-euros-lleva-android-alto-1148643'>El rival del iPhone hecho por Google está ya en oferta: cuesta menos de 600 euros y lleva Android a lo más alto</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/rival-iphone-hecho-google-ya-oferta-cuesta-menos-600-euros-lleva-android-alto-1148643' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/analisis-pixel-7-pro-2839667.jpg' alt='El rival del iPhone hecho por Google está ya en oferta: cuesta menos de 600 euros y lleva Android a lo más alto' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/twitter-elon-musk-cuerdas-aplicaciones-como-mastodon-1148679'>El Twitter de Elon Musk contra las cuerdas por aplicaciones como Mastodon</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/twitter-elon-musk-cuerdas-aplicaciones-como-mastodon-1148679' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/temor-nuevo-oscuro-twitter-elon-musk-abre-puerta-nuevas-apps-como-mastodon-2858571.jpg' alt='El Twitter de Elon Musk contra las cuerdas por aplicaciones como Mastodon' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/puedes-limpiar-escritorio-windows-11-truco-oculto-sistema-operativo-1148715'>Así puedes limpiar el escritorio de Windows 11 con este truco oculto del sistema operativo</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/puedes-limpiar-escritorio-windows-11-truco-oculto-sistema-operativo-1148715' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/windows-11-2822283.jpg' alt='Así puedes limpiar el escritorio de Windows 11 con este truco oculto del sistema operativo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/humanidad-acabara-2060-eso-predijo-isaac-newton-1148669'>La humanidad acabará en 2060... o eso predijo Isaac Newton</a></h4>
-    <a href='https://computerhoy.com/noticias/life/humanidad-acabara-2060-eso-predijo-isaac-newton-1148669' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/isaac-newton-2858615.jpg' alt='La humanidad acabará en 2060... o eso predijo Isaac Newton' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/cancelacion-ruido-diseno-premium-estos-auriculares-huawei-cuestan-casi-mitad-1145677'>Cancelación de ruido y diseño premium: estos auriculares de Huawei cuestan casi la mitad</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/cancelacion-ruido-diseno-premium-estos-auriculares-huawei-cuestan-casi-mitad-1145677' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/huawei-freebuds-4-2852907.jpg' alt='Cancelación de ruido y diseño premium: estos auriculares de Huawei cuestan casi la mitad' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/adios-verificacion-gratuita-twitter-elon-musk-quiere-cobrar-ella-forma-1148631'>Adiós a la verificación gratuita en Twitter: Elon Musk quiere cobrar por ella de esta forma</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/adios-verificacion-gratuita-twitter-elon-musk-quiere-cobrar-ella-forma-1148631' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/ilustracion-perfil-elon-musk-twitter-2753783.jpg' alt='Adiós a la verificación gratuita en Twitter: Elon Musk quiere cobrar por ella de esta forma' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/cupones-11-11-aliexpress-como-funcionan-como-conseguirlos-1141639'>Cupones del 11.11 en AliExpress: cómo funcionan y cómo conseguirlos</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/cupones-11-11-aliexpress-como-funcionan-como-conseguirlos-1141639' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/portada-compras-2845833.jpg' alt='Cupones del 11.11 en AliExpress: cómo funcionan y cómo conseguirlos' />
     </a>
 </div>
 
