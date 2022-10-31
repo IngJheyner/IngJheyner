@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/filtra-grafica-rdna-3-tope-gama-amd-gigante-error-nvidia-1148845'>Se filtra la gráfica RDNA 3 tope de gama de AMD: gigante y sin el error de NVIDIA</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/filtra-grafica-rdna-3-tope-gama-amd-gigante-error-nvidia-1148845' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/amd-rx-7900-2859077.jpg' alt='Se filtra la gráfica RDNA 3 tope de gama de AMD: gigante y sin el error de NVIDIA' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/instagram-sufre-caida-mundial-bloquea-cuentas-cientos-usuarios-error-1148837'>Instagram sufre una caída mundial y bloquea las cuentas de cientos de usuarios por error</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/instagram-sufre-caida-mundial-bloquea-cuentas-cientos-usuarios-error-1148837' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/instagram-cae-bloquea-cuentas-cientos-usuarios-error-2859081.jpg' alt='Instagram sufre una caída mundial y bloquea las cuentas de cientos de usuarios por error' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/guia-compra/localizadores-moto-1144333'>Localizadores de moto: todo lo que necesitas saber</a></h4>
+    <a href='https://computerhoy.com/guia-compra/localizadores-moto-1144333' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/moto-2850653.jpg' alt='Localizadores de moto: todo lo que necesitas saber' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/estos-son-5-grandes-cambios-elon-musk-quiere-hacer-twitter-1148813'>Estos son los 5 grandes cambios que Elon Musk quiere hacer en Twitter</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/estos-son-5-grandes-cambios-elon-musk-quiere-hacer-twitter-1148813' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/elon-musk-twitter-2671041.jpg' alt='Estos son los 5 grandes cambios que Elon Musk quiere hacer en Twitter' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/pilares-creacion-james-webb-version-halloween-imagen-asusta-1148777'>Los Pilares de la Creación del James Webb en versión Halloween, una imagen que asusta</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/pilares-creacion-james-webb-version-halloween-imagen-asusta-1148777' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/ultima-imagen-james-webb-nasa-tiene-locos-astronomos-como-radiografia-2855263.jpg' alt='Los Pilares de la Creación del James Webb en versión Halloween, una imagen que asusta' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/xiaomi-13-pro-filtrado-completo-sera-autentica-bestia-camara-top-1148785'>El Xiaomi 13 Pro filtrado al completo: será una auténtica bestia con una cámara TOP</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/xiaomi-13-pro-filtrado-completo-sera-autentica-bestia-camara-top-1148785' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/nuevos-xiaomi-12s-12s-pro-12s-ultra-snapdragon-8-gen-1-sensor-pulgada-optica-leica-2749229.jpg' alt='El Xiaomi 13 Pro filtrado al completo: será una auténtica bestia con una cámara TOP' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/directo-mejores-ofertas-black-friday-1144767'>En directo: Las mejores ofertas de Black Friday</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/directo-mejores-ofertas-black-friday-1144767' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/portada-directo-black-friday-2851279.jpg' alt='En directo: Las mejores ofertas de Black Friday' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/8-mejores-juguetes-tecnologicos-educativos-ninos-aprendan-1148713'>Los 8 mejores juguetes tecnológicos y educativos para que los niños aprendan</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/8-mejores-juguetes-tecnologicos-educativos-ninos-aprendan-1148713' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/8-juguetes-tecnologicos-introducir-ninos-tecnologia-mientras-aprenden-2858795.jpg' alt='Los 8 mejores juguetes tecnológicos y educativos para que los niños aprendan' />
     </a>
 </div>
 
