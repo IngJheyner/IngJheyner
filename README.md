@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/directo-mejores-ofertas-black-friday-1144767'>En directo: Las mejores ofertas de Black Friday</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/directo-mejores-ofertas-black-friday-1144767' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/portada-directo-black-friday-2851279.jpg' alt='En directo: Las mejores ofertas de Black Friday' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/8-mejores-juguetes-tecnologicos-educativos-ninos-aprendan-1148713'>Los 8 mejores juguetes tecnológicos y educativos para que los niños aprendan</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/8-mejores-juguetes-tecnologicos-educativos-ninos-aprendan-1148713' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/8-juguetes-tecnologicos-introducir-ninos-tecnologia-mientras-aprenden-2858795.jpg' alt='Los 8 mejores juguetes tecnológicos y educativos para que los niños aprendan' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/twitter-elon-musk-cuerdas-aplicaciones-como-mastodon-1148679'>El Twitter de Elon Musk contra las cuerdas por aplicaciones como Mastodon</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/twitter-elon-musk-cuerdas-aplicaciones-como-mastodon-1148679' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/temor-nuevo-oscuro-twitter-elon-musk-abre-puerta-nuevas-apps-como-mastodon-2858571.jpg' alt='El Twitter de Elon Musk contra las cuerdas por aplicaciones como Mastodon' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/puedes-limpiar-escritorio-windows-11-truco-oculto-sistema-operativo-1148715'>Así puedes limpiar el escritorio de Windows 11 con este truco oculto del sistema operativo</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/puedes-limpiar-escritorio-windows-11-truco-oculto-sistema-operativo-1148715' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/windows-11-2822283.jpg' alt='Así puedes limpiar el escritorio de Windows 11 con este truco oculto del sistema operativo' />
     </a>
 </div>
 
