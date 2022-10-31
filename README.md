@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/reloj-samsung-galaxy-watch-5-alternativa-apple-watch-series-8-descuento-1148963'>El nuevo reloj Samsung Galaxy Watch 5 es una gran alternativa al Apple Watch Series 8, con este descuento baja de los 300 euros</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/reloj-samsung-galaxy-watch-5-alternativa-apple-watch-series-8-descuento-1148963' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/review-samsung-galaxy-watch-5-2843267.jpg' alt='El nuevo reloj Samsung Galaxy Watch 5 es una gran alternativa al Apple Watch Series 8, con este descuento baja de los 300 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/puedes-descargar-nueva-version-android-auto-84-antes-nadie-1148949'>Así puedes descargar la nueva versión de Android Auto 8.4 antes que nadie</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/puedes-descargar-nueva-version-android-auto-84-antes-nadie-1148949' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/android-auto-2343833.jpg' alt='Así puedes descargar la nueva versión de Android Auto 8.4 antes que nadie' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/netflix-the-witcher-fans-cancelar-serie-1148943'>Netflix ante una situación insólita: ahora son los espectadores los que quieren que se cancele una serie</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/netflix-the-witcher-fans-cancelar-serie-1148943' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/netflix-situacion-insolita-ahora-son-espectadores-quieren-cancele-serie-2859271.jpg' alt='Netflix ante una situación insólita: ahora son los espectadores los que quieren que se cancele una serie' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/3-metodos-eliminar-proteccion-escritura-tarjetas-sd-windows-1121967'>3 métodos para eliminar la protección de escritura de tarjetas SD en Windows</a></h4>
-    <a href='https://computerhoy.com/tutoriales/tecnologia/3-metodos-eliminar-proteccion-escritura-tarjetas-sd-windows-1121967' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/tarjetas-sd-2808431.jpg' alt='3 métodos para eliminar la protección de escritura de tarjetas SD en Windows' />
     </a>
 </div>
 
