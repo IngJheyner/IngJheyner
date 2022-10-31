@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/gaming/doodle-google-halloween-juego-multijugador-online-fantasmas-1148887'>El doodle de Google de hoy esconde un divertido juego multijugador online de fantasmas, ideal para Halloween</a></h4>
+    <a href='https://computerhoy.com/noticias/gaming/doodle-google-halloween-juego-multijugador-online-fantasmas-1148887' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/doodle-google-hoy-esconde-divertido-juego-fantasmas-multijugador-ideal-halloween-2859177.jpg' alt='El doodle de Google de hoy esconde un divertido juego multijugador online de fantasmas, ideal para Halloween' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/estos-son-todos-estreno-hbo-max-noviembre-2022-1148865'>Estos son todos los estreno de HBO Max para noviembre de 2022</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/estos-son-todos-estreno-hbo-max-noviembre-2022-1148865' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/hbo-max-vive-aumento-suscriptores-estas-son-3-claves-exito-2678499.jpg' alt='Estos son todos los estreno de HBO Max para noviembre de 2022' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/gaming/juego-terror-pc-halloween-punto-ser-denunciado-ikea-1148853'>El juego de terror para PC de este Halloween está a punto de ser denunciado por IKEA</a></h4>
+    <a href='https://computerhoy.com/noticias/gaming/juego-terror-pc-halloween-punto-ser-denunciado-ikea-1148853' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/juego-terror-imita-ikea-2859087.jpg' alt='El juego de terror para PC de este Halloween está a punto de ser denunciado por IKEA' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/filtra-grafica-rdna-3-tope-gama-amd-gigante-error-nvidia-1148845'>Se filtra la gráfica RDNA 3 tope de gama de AMD: gigante y sin el error de NVIDIA</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/filtra-grafica-rdna-3-tope-gama-amd-gigante-error-nvidia-1148845' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/amd-rx-7900-2859077.jpg' alt='Se filtra la gráfica RDNA 3 tope de gama de AMD: gigante y sin el error de NVIDIA' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/instagram-sufre-caida-mundial-bloquea-cuentas-cientos-usuarios-error-1148837'>Instagram sufre una caída mundial y bloquea las cuentas de cientos de usuarios por error</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/instagram-sufre-caida-mundial-bloquea-cuentas-cientos-usuarios-error-1148837' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/instagram-cae-bloquea-cuentas-cientos-usuarios-error-2859081.jpg' alt='Instagram sufre una caída mundial y bloquea las cuentas de cientos de usuarios por error' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/guia-compra/localizadores-moto-1144333'>Localizadores de moto: todo lo que necesitas saber</a></h4>
-    <a href='https://computerhoy.com/guia-compra/localizadores-moto-1144333' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/moto-2850653.jpg' alt='Localizadores de moto: todo lo que necesitas saber' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/estos-son-5-grandes-cambios-elon-musk-quiere-hacer-twitter-1148813'>Estos son los 5 grandes cambios que Elon Musk quiere hacer en Twitter</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/estos-son-5-grandes-cambios-elon-musk-quiere-hacer-twitter-1148813' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/elon-musk-twitter-2671041.jpg' alt='Estos son los 5 grandes cambios que Elon Musk quiere hacer en Twitter' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/pilares-creacion-james-webb-version-halloween-imagen-asusta-1148777'>Los Pilares de la Creación del James Webb en versión Halloween, una imagen que asusta</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/pilares-creacion-james-webb-version-halloween-imagen-asusta-1148777' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/ultima-imagen-james-webb-nasa-tiene-locos-astronomos-como-radiografia-2855263.jpg' alt='Los Pilares de la Creación del James Webb en versión Halloween, una imagen que asusta' />
     </a>
 </div>
 
