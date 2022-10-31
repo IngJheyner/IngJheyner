@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-oppo-descuentos-ofertas-893741'>Estos son los mejores móviles Oppo que puedes comprar en 2022</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-oppo-descuentos-ofertas-893741' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/review-oppo-reno-8-pro-2809153.jpg' alt='Estos son los mejores móviles Oppo que puedes comprar en 2022' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/amou-haji-persona-mas-sucia-mundo-1147527'>Amou Haji, la persona más sucia del mundo, 60 años sin tocar el agua, muere dos meses después de lavarse</a></h4>
     <a href='https://computerhoy.com/noticias/life/amou-haji-persona-mas-sucia-mundo-1147527' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/amou-haji-persona-sucia-mundo-60-anos-tocar-agua-muere-dos-meses-despues-lavarse-2856265.jpg' alt='Amou Haji, la persona más sucia del mundo, 60 años sin tocar el agua, muere dos meses después de lavarse' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/foto-terrorifica-halloween-real-hormiga-1147483'>La foto más terrorífica de este Halloween es real, y podría estar correteando por tu casa</a></h4>
     <a href='https://computerhoy.com/noticias/life/foto-terrorifica-halloween-real-hormiga-1147483' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/foto-terrorifica-halloween-real-podria-estar-correteando-casa-2856151.jpg' alt='La foto más terrorífica de este Halloween es real, y podría estar correteando por tu casa' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/divertida-foto-sol-sonrie-preocupante-tierra-1148425'>La divertida imagen del Sol que sonríe, es preocupante para la Tierra</a></h4>
-    <a href='https://computerhoy.com/noticias/life/divertida-foto-sol-sonrie-preocupante-tierra-1148425' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/divertida-imagen-sol-sonriendo-preocupante-tierra-2858055.jpg' alt='La divertida imagen del Sol que sonríe, es preocupante para la Tierra' />
     </a>
 </div>
 
