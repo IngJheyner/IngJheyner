@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/humanidad-acabara-2060-eso-predijo-isaac-newton-1148669'>La humanidad acabará en 2060... o eso predijo Isaac Newton</a></h4>
+    <a href='https://computerhoy.com/noticias/life/humanidad-acabara-2060-eso-predijo-isaac-newton-1148669' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/isaac-newton-2858615.jpg' alt='La humanidad acabará en 2060... o eso predijo Isaac Newton' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/cancelacion-ruido-diseno-premium-estos-auriculares-huawei-cuestan-casi-mitad-1145677'>Cancelación de ruido y diseño premium: estos auriculares de Huawei cuestan casi la mitad</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/cancelacion-ruido-diseno-premium-estos-auriculares-huawei-cuestan-casi-mitad-1145677' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/huawei-freebuds-4-2852907.jpg' alt='Cancelación de ruido y diseño premium: estos auriculares de Huawei cuestan casi la mitad' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/creador-twitter-quiere-hacer-competencia-elon-musk-propia-red-social-1148639'>El creador de Twitter quiere hacer la competencia a Elon Musk con su propia red social</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/creador-twitter-quiere-hacer-competencia-elon-musk-propia-red-social-1148639' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/ceo-square-twitter-jack-dorsey-2401289.jpg' alt='El creador de Twitter quiere hacer la competencia a Elon Musk con su propia red social' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/linux-ventajas-diferencias-windows-mejores-distribuciones-1145635'>Qué es Linux: ventajas, diferencias con Windows y mejores distribuciones</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/linux-ventajas-diferencias-windows-mejores-distribuciones-1145635' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/01/linux.jpg' alt='Qué es Linux: ventajas, diferencias con Windows y mejores distribuciones' />
     </a>
 </div>
 
