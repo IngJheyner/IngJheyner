@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/cancelacion-ruido-diseno-premium-estos-auriculares-huawei-cuestan-casi-mitad-1145677'>Cancelación de ruido y diseño premium: estos auriculares de Huawei cuestan casi la mitad</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/cancelacion-ruido-diseno-premium-estos-auriculares-huawei-cuestan-casi-mitad-1145677' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/huawei-freebuds-4-2852907.jpg' alt='Cancelación de ruido y diseño premium: estos auriculares de Huawei cuestan casi la mitad' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/adios-verificacion-gratuita-twitter-elon-musk-quiere-cobrar-ella-forma-1148631'>Adiós a la verificación gratuita en Twitter: Elon Musk quiere cobrar por ella de esta forma</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/adios-verificacion-gratuita-twitter-elon-musk-quiere-cobrar-ella-forma-1148631' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/ilustracion-perfil-elon-musk-twitter-2753783.jpg' alt='Adiós a la verificación gratuita en Twitter: Elon Musk quiere cobrar por ella de esta forma' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/cupones-11-11-aliexpress-como-funcionan-como-conseguirlos-1141639'>Cupones del 11.11 en AliExpress: cómo funcionan y cómo conseguirlos</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/cupones-11-11-aliexpress-como-funcionan-como-conseguirlos-1141639' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/portada-compras-2845833.jpg' alt='Cupones del 11.11 en AliExpress: cómo funcionan y cómo conseguirlos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/creador-twitter-quiere-hacer-competencia-elon-musk-propia-red-social-1148639'>El creador de Twitter quiere hacer la competencia a Elon Musk con su propia red social</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/creador-twitter-quiere-hacer-competencia-elon-musk-propia-red-social-1148639' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/ceo-square-twitter-jack-dorsey-2401289.jpg' alt='El creador de Twitter quiere hacer la competencia a Elon Musk con su propia red social' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/linux-ventajas-diferencias-windows-mejores-distribuciones-1145635'>Qué es Linux: ventajas, diferencias con Windows y mejores distribuciones</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/linux-ventajas-diferencias-windows-mejores-distribuciones-1145635' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/01/linux.jpg' alt='Qué es Linux: ventajas, diferencias con Windows y mejores distribuciones' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-oppo-descuentos-ofertas-893741'>Estos son los mejores móviles Oppo que puedes comprar en 2022</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-oppo-descuentos-ofertas-893741' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/review-oppo-reno-8-pro-2809153.jpg' alt='Estos son los mejores móviles Oppo que puedes comprar en 2022' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/amou-haji-persona-mas-sucia-mundo-1147527'>Amou Haji, la persona más sucia del mundo, 60 años sin tocar el agua, muere dos meses después de lavarse</a></h4>
-    <a href='https://computerhoy.com/noticias/life/amou-haji-persona-mas-sucia-mundo-1147527' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/amou-haji-persona-sucia-mundo-60-anos-tocar-agua-muere-dos-meses-despues-lavarse-2856265.jpg' alt='Amou Haji, la persona más sucia del mundo, 60 años sin tocar el agua, muere dos meses después de lavarse' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/33-noticias-tecnologia-comenzar-manana-informado-ultimo-1148601'>33 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/33-noticias-tecnologia-comenzar-manana-informado-ultimo-1148601' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/33-noticias-tecnologia-comenzar-manana-informado-ultimo-2858219.jpg' alt='33 noticias de tecnología para comenzar la mañana informado de lo último' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/life/cupones-regalo-black-friday-amazon-aliexpress-1148413'>Cupones Black Friday 2022: Amazon, AliExpress y otras tiendas con cheques regalo</a></h4>
-    <a href='https://computerhoy.com/reportajes/life/cupones-regalo-black-friday-amazon-aliexpress-1148413' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/mujer-cupon-descuento-mano-2857997.jpg' alt='Cupones Black Friday 2022: Amazon, AliExpress y otras tiendas con cheques regalo' />
     </a>
 </div>
 
