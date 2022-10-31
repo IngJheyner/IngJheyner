@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/puedes-descargar-nueva-version-android-auto-84-antes-nadie-1148949'>Así puedes descargar la nueva versión de Android Auto 8.4 antes que nadie</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/puedes-descargar-nueva-version-android-auto-84-antes-nadie-1148949' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/android-auto-2343833.jpg' alt='Así puedes descargar la nueva versión de Android Auto 8.4 antes que nadie' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/radares-medusa-puedes-acabar-viendo-ciudades-triunfan-francia-1148947'>Los “radares medusa” que puedes acabar viendo en tus ciudades y que triunfan en Francia</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/radares-medusa-puedes-acabar-viendo-ciudades-triunfan-francia-1148947' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/03/radar-dgt-2263921.jpg' alt='Los “radares medusa” que puedes acabar viendo en tus ciudades y que triunfan en Francia' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/listas/life/7-mejores-aplicaciones-tiempo-telefonos-android-1143025'>Las 7 mejores aplicaciones del tiempo para teléfonos Android</a></h4>
+    <a href='https://computerhoy.com/listas/life/7-mejores-aplicaciones-tiempo-telefonos-android-1143025' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/7-mejores-aplicaciones-tiempo-telefonos-android-2857397.jpg' alt='Las 7 mejores aplicaciones del tiempo para teléfonos Android' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/netflix-the-witcher-fans-cancelar-serie-1148943'>Netflix ante una situación insólita: ahora son los espectadores los que quieren que se cancele una serie</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/netflix-the-witcher-fans-cancelar-serie-1148943' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/netflix-situacion-insolita-ahora-son-espectadores-quieren-cancele-serie-2859271.jpg' alt='Netflix ante una situación insólita: ahora son los espectadores los que quieren que se cancele una serie' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tutoriales/tecnologia/3-metodos-eliminar-proteccion-escritura-tarjetas-sd-windows-1121967'>3 métodos para eliminar la protección de escritura de tarjetas SD en Windows</a></h4>
     <a href='https://computerhoy.com/tutoriales/tecnologia/3-metodos-eliminar-proteccion-escritura-tarjetas-sd-windows-1121967' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/tarjetas-sd-2808431.jpg' alt='3 métodos para eliminar la protección de escritura de tarjetas SD en Windows' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/life/mejores-bicicletas-electricas-plegables-puedes-comprar-1034119'>Mejores bicicletas eléctricas plegables que puedes comprar</a></h4>
-    <a href='https://computerhoy.com/reportajes/life/mejores-bicicletas-electricas-plegables-puedes-comprar-1034119' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/bicicleta-plegable-electrica-2810151.jpg' alt='Mejores bicicletas eléctricas plegables que puedes comprar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/listas/gaming/juegos-terrorificos-halloween-movil-android-1148089'>Los juegos más terroríficos de Halloween para tu móvil Android</a></h4>
-    <a href='https://computerhoy.com/listas/gaming/juegos-terrorificos-halloween-movil-android-1148089' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/juegos-terrorificos-halloween-movil-android-2857419.jpg' alt='Los juegos más terroríficos de Halloween para tu móvil Android' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/gaming/doodle-google-halloween-juego-multijugador-online-fantasmas-1148887'>El doodle de Google esconde un divertido juego online multijugador de fantasmas, ideal para Halloween</a></h4>
-    <a href='https://computerhoy.com/noticias/gaming/doodle-google-halloween-juego-multijugador-online-fantasmas-1148887' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/doodle-google-hoy-esconde-divertido-juego-fantasmas-multijugador-ideal-halloween-2859177.jpg' alt='El doodle de Google esconde un divertido juego online multijugador de fantasmas, ideal para Halloween' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/estos-son-todos-estreno-hbo-max-noviembre-2022-1148865'>Estos son todos los estreno de HBO Max para noviembre de 2022</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/estos-son-todos-estreno-hbo-max-noviembre-2022-1148865' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/hbo-max-vive-aumento-suscriptores-estas-son-3-claves-exito-2678499.jpg' alt='Estos son todos los estreno de HBO Max para noviembre de 2022' />
     </a>
 </div>
 
