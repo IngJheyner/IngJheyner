@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/pilares-creacion-james-webb-version-halloween-imagen-asusta-1148777'>Los Pilares de la Creación del James Webb en versión Halloween, una imagen que asusta</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/pilares-creacion-james-webb-version-halloween-imagen-asusta-1148777' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/ultima-imagen-james-webb-nasa-tiene-locos-astronomos-como-radiografia-2855263.jpg' alt='Los Pilares de la Creación del James Webb en versión Halloween, una imagen que asusta' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/xiaomi-13-pro-filtrado-completo-sera-autentica-bestia-camara-top-1148785'>El Xiaomi 13 Pro filtrado al completo: será una auténtica bestia con una cámara TOP</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/xiaomi-13-pro-filtrado-completo-sera-autentica-bestia-camara-top-1148785' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/nuevos-xiaomi-12s-12s-pro-12s-ultra-snapdragon-8-gen-1-sensor-pulgada-optica-leica-2749229.jpg' alt='El Xiaomi 13 Pro filtrado al completo: será una auténtica bestia con una cámara TOP' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/directo-mejores-ofertas-black-friday-1144767'>En directo: Las mejores ofertas de Black Friday</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/directo-mejores-ofertas-black-friday-1144767' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/portada-directo-black-friday-2851279.jpg' alt='En directo: Las mejores ofertas de Black Friday' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/ultima-idea-elon-musk-resucitar-vieja-app-combatir-tiktok-1148751'>La última idea de Elon Musk es resucitar una vieja app para combatir a TikTok</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/ultima-idea-elon-musk-resucitar-vieja-app-combatir-tiktok-1148751' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/elon-musk-2657243.jpg' alt='La última idea de Elon Musk es resucitar una vieja app para combatir a TikTok' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/rival-iphone-hecho-google-ya-oferta-cuesta-menos-600-euros-lleva-android-alto-1148643'>El rival del iPhone hecho por Google está ya en oferta: cuesta menos de 600 euros y lleva Android a lo más alto</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/rival-iphone-hecho-google-ya-oferta-cuesta-menos-600-euros-lleva-android-alto-1148643' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/analisis-pixel-7-pro-2839667.jpg' alt='El rival del iPhone hecho por Google está ya en oferta: cuesta menos de 600 euros y lleva Android a lo más alto' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/twitter-elon-musk-cuerdas-aplicaciones-como-mastodon-1148679'>El Twitter de Elon Musk contra las cuerdas por aplicaciones como Mastodon</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/twitter-elon-musk-cuerdas-aplicaciones-como-mastodon-1148679' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/temor-nuevo-oscuro-twitter-elon-musk-abre-puerta-nuevas-apps-como-mastodon-2858571.jpg' alt='El Twitter de Elon Musk contra las cuerdas por aplicaciones como Mastodon' />
     </a>
 </div>
 
