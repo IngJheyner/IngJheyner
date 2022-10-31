@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/amou-haji-persona-mas-sucia-mundo-1147527'>Amou Haji, la persona más sucia del mundo, 60 años sin tocar el agua, muere dos meses después de lavarse</a></h4>
+    <a href='https://computerhoy.com/noticias/life/amou-haji-persona-mas-sucia-mundo-1147527' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/amou-haji-persona-sucia-mundo-60-anos-tocar-agua-muere-dos-meses-despues-lavarse-2856265.jpg' alt='Amou Haji, la persona más sucia del mundo, 60 años sin tocar el agua, muere dos meses después de lavarse' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/33-noticias-tecnologia-comenzar-manana-informado-ultimo-1148601'>33 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/33-noticias-tecnologia-comenzar-manana-informado-ultimo-1148601' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/33-noticias-tecnologia-comenzar-manana-informado-ultimo-2858219.jpg' alt='33 noticias de tecnología para comenzar la mañana informado de lo último' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/life/cupones-regalo-black-friday-amazon-aliexpress-1148413'>Cupones Black Friday 2022: Amazon, AliExpress y otras tiendas con cheques regalo</a></h4>
+    <a href='https://computerhoy.com/reportajes/life/cupones-regalo-black-friday-amazon-aliexpress-1148413' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/mujer-cupon-descuento-mano-2857997.jpg' alt='Cupones Black Friday 2022: Amazon, AliExpress y otras tiendas con cheques regalo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/foto-terrorifica-halloween-real-hormiga-1147483'>La foto más terrorífica de este Halloween es real, y podría estar correteando por tu casa</a></h4>
     <a href='https://computerhoy.com/noticias/life/foto-terrorifica-halloween-real-hormiga-1147483' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/foto-terrorifica-halloween-real-podria-estar-correteando-casa-2856151.jpg' alt='La foto más terrorífica de este Halloween es real, y podría estar correteando por tu casa' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/divertida-foto-sol-sonrie-preocupante-tierra-1148425'>La divertida imagen del Sol que sonríe, es preocupante para la Tierra</a></h4>
     <a href='https://computerhoy.com/noticias/life/divertida-foto-sol-sonrie-preocupante-tierra-1148425' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/divertida-imagen-sol-sonriendo-preocupante-tierra-2858055.jpg' alt='La divertida imagen del Sol que sonríe, es preocupante para la Tierra' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/vietnam-venden-tarjetas-graficas-peso-puestos-callejeros-1148421'>En Vietnam ya venden tarjetas gráficas al peso en puestos callejeros</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/vietnam-venden-tarjetas-graficas-peso-puestos-callejeros-1148421' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/vietnam-ya-venden-tarjetas-graficas-peso-puestos-callejeros-2858023.jpg' alt='En Vietnam ya venden tarjetas gráficas al peso en puestos callejeros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/apple-macbook-pro-mac-pro-retrasan-2023-1148417'>Apple ya no lanzará ningún Mac en 2022, los MacBook Pro y el Mac Pro se retrasan a 2023</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/apple-macbook-pro-mac-pro-retrasan-2023-1148417' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/11/mac-pro.jpg' alt='Apple ya no lanzará ningún Mac en 2022, los MacBook Pro y el Mac Pro se retrasan a 2023' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-tener-pantalla-bloqueo-windows-11-difuminar-1139553'>Cómo tener una pantalla de bloqueo en Windows 11 sin difuminar</a></h4>
-    <a href='https://computerhoy.com/tutoriales/tecnologia/como-tener-pantalla-bloqueo-windows-11-difuminar-1139553' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/Windowspantalladeinicio_166564689536814189.jpg' alt='Cómo tener una pantalla de bloqueo en Windows 11 sin difuminar' />
     </a>
 </div>
 
