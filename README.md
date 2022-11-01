@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/patinete-xiaomi-pro-2-merece-pena-caracteristicas-precio-alternativas-1125045'>Patinete Xiaomi Pro 2: ¿merece la pena? Características, precio y alternativas</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/patinete-xiaomi-pro-2-merece-pena-caracteristicas-precio-alternativas-1125045' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/xiaomi-mi-electric-scooter-pro-2-2814207.jpg' alt='Patinete Xiaomi Pro 2: ¿merece la pena? Características, precio y alternativas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/nuevo-pixel-7-pro-prueba-test-resistencia-aranazos-pantalla-camara-fallido-1149293'>El nuevo Pixel 7 Pro a prueba: test de resistencia a arañazos en pantalla y cámara fallido</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/nuevo-pixel-7-pro-prueba-test-resistencia-aranazos-pantalla-camara-fallido-1149293' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/nuevo-pixel-7-pro-prueba-test-resistencia-aranazos-pantalla-camara-2859753.jpg' alt='El nuevo Pixel 7 Pro a prueba: test de resistencia a arañazos en pantalla y cámara fallido' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/adobe-exige-suscripcion-quieres-tener-todos-colores-pantone-apps-como-photoshop-1149271'>Adobe exige una suscripción si quieres tener todos los colores Pantone en apps como Photoshop</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/adobe-exige-suscripcion-quieres-tener-todos-colores-pantone-apps-como-photoshop-1149271' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/colores-pantone-aplicaciones-adobe-como-photoshop-iran-suscripcion-2859677.jpg' alt='Adobe exige una suscripción si quieres tener todos los colores Pantone en apps como Photoshop' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/huawei-anadira-mate-xs-2-comunicacion-satelite-primer-plegable-conseguirlo-1149213'>Huawei añadirá a su Mate Xs 2 la comunicación por satélite: el primer plegable en conseguirlo</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/huawei-anadira-mate-xs-2-comunicacion-satelite-primer-plegable-conseguirlo-1149213' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/analisis-huawei-mate-xs-2-2845419.jpg' alt='Huawei añadirá a su Mate Xs 2 la comunicación por satélite: el primer plegable en conseguirlo' />
     </a>
 </div>
 
