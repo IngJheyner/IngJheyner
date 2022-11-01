@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/guia-compra/ratones-inalambricos-1137231'>Ratones inalámbricos: todo lo que necesitas saber</a></h4>
+    <a href='https://computerhoy.com/guia-compra/ratones-inalambricos-1137231' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/10/raton-inalambrico-raton-cable-cual-elegir.jpg' alt='Ratones inalámbricos: todo lo que necesitas saber' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/salvaje-historia-como-medico-consiguio-robar-cerebro-albert-einstein-1149239'>Esta es la salvaje historia de cómo un médico consiguió robar el cerebro de Albert Einstein </a></h4>
+    <a href='https://computerhoy.com/noticias/life/salvaje-historia-como-medico-consiguio-robar-cerebro-albert-einstein-1149239' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/surrealista-historia-como-robaron-cerebro-albert-einstein-2859653.jpg' alt='Esta es la salvaje historia de cómo un médico consiguió robar el cerebro de Albert Einstein ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/adobe-exige-suscripcion-quieres-tener-todos-colores-pantone-apps-como-photoshop-1149271'>Adobe exige una suscripción si quieres tener todos los colores Pantone en apps como Photoshop</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/adobe-exige-suscripcion-quieres-tener-todos-colores-pantone-apps-como-photoshop-1149271' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/colores-pantone-aplicaciones-adobe-como-photoshop-iran-suscripcion-2859677.jpg' alt='Adobe exige una suscripción si quieres tener todos los colores Pantone en apps como Photoshop' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/maxima-cobertura-wifi-300-m2-pack-routers-mesh-ahora-31-descuento-1145631'>Máxima cobertura WiFi en 300 m2 con este pack de routers Mesh, ahora con un 31% de descuento</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/maxima-cobertura-wifi-300-m2-pack-routers-mesh-ahora-31-descuento-1145631' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/tenda-nova-mw5s-2852807.jpg' alt='Máxima cobertura WiFi en 300 m2 con este pack de routers Mesh, ahora con un 31% de descuento' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/esperanza-twitter-acepte-criptomoneda-dogecoin-como-oficial-dispara-valor-1149207'>La esperanza de que Twitter acepte la criptomoneda Dogecoin como oficial, dispara su valor</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/esperanza-twitter-acepte-criptomoneda-dogecoin-como-oficial-dispara-valor-1149207' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/esperanza-twitter-acepte-criptomoneda-dogecoin-como-oficial-dispara-valor-2859579.jpg' alt='La esperanza de que Twitter acepte la criptomoneda Dogecoin como oficial, dispara su valor' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/mayor-asteroide-2022-tan-grande-como-burj-khalifa-pasara-hoy-cerca-tierra-1149193'>El mayor asteroide de este 2022, tan grande como el Burj Khalifa, pasará hoy "cerca" de la Tierra</a></h4>
-    <a href='https://computerhoy.com/noticias/life/mayor-asteroide-2022-tan-grande-como-burj-khalifa-pasara-hoy-cerca-tierra-1149193' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/mayor-asteroide-2022-tan-grande-como-burj-khalifa-pasara-hoy-cerca-tierra-2859577.jpg' alt='El mayor asteroide de este 2022, tan grande como el Burj Khalifa, pasará hoy "cerca" de la Tierra' />
     </a>
 </div>
 
