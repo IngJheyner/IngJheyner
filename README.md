@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/mayor-asteroide-2022-tan-grande-como-burj-khalifa-pasara-hoy-cerca-tierra-1149193'>El mayor asteroide de este 2022, tan grande como el Burj Khalifa, pasará hoy "cerca" de la Tierra</a></h4>
+    <a href='https://computerhoy.com/noticias/life/mayor-asteroide-2022-tan-grande-como-burj-khalifa-pasara-hoy-cerca-tierra-1149193' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/mayor-asteroide-2022-tan-grande-como-burj-khalifa-pasara-hoy-cerca-tierra-2859577.jpg' alt='El mayor asteroide de este 2022, tan grande como el Burj Khalifa, pasará hoy "cerca" de la Tierra' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/life/monedas-sorteos-ofertas-11-11-aliexpress-1148067'>Monedas, sorteos y más: el 11.11 de AliExpress arranca con muchas formas de ahorrar</a></h4>
+    <a href='https://computerhoy.com/reportajes/life/monedas-sorteos-ofertas-11-11-aliexpress-1148067' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/persona-sujetando-monedas-oro-manos-2857369.jpg' alt='Monedas, sorteos y más: el 11.11 de AliExpress arranca con muchas formas de ahorrar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/life/como-conseguir-cashback-descuentos-11-11-aliexpress-paypal-alipay-1146831'>Cómo conseguir cashback y descuentos en el 11.11 de AliExpress con PayPal y AliPay</a></h4>
     <a href='https://computerhoy.com/reportajes/life/como-conseguir-cashback-descuentos-11-11-aliexpress-paypal-alipay-1146831' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/carrito-compra-2854885.jpg' alt='Cómo conseguir cashback y descuentos en el 11.11 de AliExpress con PayPal y AliPay' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/life/que-merece-pena-comprar-11-11-aliexpress-1145665'>Qué comprar en el 11.11 de AliExpress: estos suelen ser los productos con mayor descuento en China</a></h4>
     <a href='https://computerhoy.com/reportajes/life/que-merece-pena-comprar-11-11-aliexpress-1145665' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/portada-1111-aliexpress-2852995.jpg' alt='Qué comprar en el 11.11 de AliExpress: estos suelen ser los productos con mayor descuento en China' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/directo-mejores-ofertas-black-friday-1144767'>En directo: Las mejores ofertas de Black Friday</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/directo-mejores-ofertas-black-friday-1144767' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/portada-directo-black-friday-2851279.jpg' alt='En directo: Las mejores ofertas de Black Friday' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/life/cuando-es-11-11-aliexpress-origen-descuentos-ofertas-1143967'>Cuándo es el 11.11 de AliExpress: origen de estos descuentos y ofertas del gigante chino</a></h4>
-    <a href='https://computerhoy.com/reportajes/life/cuando-es-11-11-aliexpress-origen-descuentos-ofertas-1143967' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/ilustracion-elementos-tienda-carrito-compra-bolsa-compra-regalos-2850263.jpg' alt='Cuándo es el 11.11 de AliExpress: origen de estos descuentos y ofertas del gigante chino' />
     </a>
 </div>
 
