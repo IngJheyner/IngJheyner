@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/no-deberias-quitar-hojas-secas-caen-jardin-otono-1149187'>Por qué no deberías quitar las hojas que caen en tu jardín este otoño</a></h4>
+    <a href='https://computerhoy.com/noticias/life/no-deberias-quitar-hojas-secas-caen-jardin-otono-1149187' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/no-deberias-quitar-hojas-caen-jardin-otono-2859545.jpg' alt='Por qué no deberías quitar las hojas que caen en tu jardín este otoño' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/hilu-manta-grafeno-calienta-invierno-refresca-verano-video-1148977'>HILU, la manta de grafeno que calienta en invierno y refresca en verano (vídeo)</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/hilu-manta-grafeno-calienta-invierno-refresca-verano-video-1148977' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/verticalimage1667255012837-2859325.jpg' alt='HILU, la manta de grafeno que calienta en invierno y refresca en verano (vídeo)' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/puedes-descargar-nueva-version-android-auto-84-antes-nadie-1148949'>Así puedes descargar la nueva versión de Android Auto 8.4 antes que nadie</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/puedes-descargar-nueva-version-android-auto-84-antes-nadie-1148949' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/android-auto-2343833.jpg' alt='Así puedes descargar la nueva versión de Android Auto 8.4 antes que nadie' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/radares-medusa-puedes-acabar-viendo-ciudades-triunfan-francia-1148947'>Los “radares medusa” que puedes acabar viendo en tus ciudades y que triunfan en Francia</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/radares-medusa-puedes-acabar-viendo-ciudades-triunfan-francia-1148947' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/03/radar-dgt-2263921.jpg' alt='Los “radares medusa” que puedes acabar viendo en tus ciudades y que triunfan en Francia' />
     </a>
 </div>
 
