@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/adobe-exige-suscripcion-quieres-tener-todos-colores-pantone-apps-como-photoshop-1149271'>Adobe exige una suscripción si quieres tener todos los colores Pantone en apps como Photoshop</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/adobe-exige-suscripcion-quieres-tener-todos-colores-pantone-apps-como-photoshop-1149271' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/colores-pantone-aplicaciones-adobe-como-photoshop-iran-suscripcion-2859677.jpg' alt='Adobe exige una suscripción si quieres tener todos los colores Pantone en apps como Photoshop' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/huawei-anadira-mate-xs-2-comunicacion-satelite-primer-plegable-conseguirlo-1149213'>Huawei añadirá a su Mate Xs 2 la comunicación por satélite: el primer plegable en conseguirlo</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/huawei-anadira-mate-xs-2-comunicacion-satelite-primer-plegable-conseguirlo-1149213' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/analisis-huawei-mate-xs-2-2845419.jpg' alt='Huawei añadirá a su Mate Xs 2 la comunicación por satélite: el primer plegable en conseguirlo' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/mayor-asteroide-2022-tan-grande-como-burj-khalifa-pasara-hoy-cerca-tierra-1149193'>El mayor asteroide de este 2022, tan grande como el Burj Khalifa, pasará hoy "cerca" de la Tierra</a></h4>
     <a href='https://computerhoy.com/noticias/life/mayor-asteroide-2022-tan-grande-como-burj-khalifa-pasara-hoy-cerca-tierra-1149193' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/mayor-asteroide-2022-tan-grande-como-burj-khalifa-pasara-hoy-cerca-tierra-2859577.jpg' alt='El mayor asteroide de este 2022, tan grande como el Burj Khalifa, pasará hoy "cerca" de la Tierra' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/life/monedas-sorteos-ofertas-11-11-aliexpress-1148067'>Monedas, sorteos y más: el 11.11 de AliExpress arranca con muchas formas de ahorrar</a></h4>
-    <a href='https://computerhoy.com/reportajes/life/monedas-sorteos-ofertas-11-11-aliexpress-1148067' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/persona-sujetando-monedas-oro-manos-2857369.jpg' alt='Monedas, sorteos y más: el 11.11 de AliExpress arranca con muchas formas de ahorrar' />
     </a>
 </div>
 
