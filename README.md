@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/guia-compra-1111-trucos-consejos-aliexpress-962207'>Guía de compra del 11.11: trucos y consejos para comprar más barato en AliExpress</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/guia-compra-1111-trucos-consejos-aliexpress-962207' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/carrito-compra-ofertas-1111-2844513.jpg' alt='Guía de compra del 11.11: trucos y consejos para comprar más barato en AliExpress' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/life/como-evitar-fraudes-black-friday-1148607'>Cómo evitar fraudes en el Black Friday 2022</a></h4>
+    <a href='https://computerhoy.com/reportajes/life/como-evitar-fraudes-black-friday-1148607' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/intento-fraude-internet-2858241.jpg' alt='Cómo evitar fraudes en el Black Friday 2022' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tutoriales/tecnologia/no-te-funcionan-widgets-windows-11-puedes-arreglar-1140741'>Si no te funcionan los widgets de Windows 11, así lo puedes arreglar</a></h4>
     <a href='https://computerhoy.com/tutoriales/tecnologia/no-te-funcionan-widgets-windows-11-puedes-arreglar-1140741' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/widgets-windows-11-2843957.jpg' alt='Si no te funcionan los widgets de Windows 11, así lo puedes arreglar' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/1111-aliexpress-primeras-ofertas-cupones-1-noviembre-1148707'>El 11.11 de AliExpress se adelanta: estas son las ofertas flash que puedes conseguir hoy</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/1111-aliexpress-primeras-ofertas-cupones-1-noviembre-1148707' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/1111-2858623.jpg' alt='El 11.11 de AliExpress se adelanta: estas son las ofertas flash que puedes conseguir hoy' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/no-deberias-quitar-hojas-secas-caen-jardin-otono-1149187'>Por qué no deberías quitar las hojas que caen en tu jardín este otoño</a></h4>
-    <a href='https://computerhoy.com/noticias/life/no-deberias-quitar-hojas-secas-caen-jardin-otono-1149187' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/no-deberias-quitar-hojas-caen-jardin-otono-2859545.jpg' alt='Por qué no deberías quitar las hojas que caen en tu jardín este otoño' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/hilu-manta-grafeno-calienta-invierno-refresca-verano-video-1148977'>HILU, la manta de grafeno que calienta en invierno y refresca en verano (vídeo)</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/hilu-manta-grafeno-calienta-invierno-refresca-verano-video-1148977' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/verticalimage1667255012837-2859325.jpg' alt='HILU, la manta de grafeno que calienta en invierno y refresca en verano (vídeo)' />
     </a>
 </div>
 
