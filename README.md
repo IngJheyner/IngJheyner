@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/no-te-funcionan-widgets-windows-11-puedes-arreglar-1140741'>Si no te funcionan los widgets de Windows 11, así lo puedes arreglar</a></h4>
+    <a href='https://computerhoy.com/tutoriales/tecnologia/no-te-funcionan-widgets-windows-11-puedes-arreglar-1140741' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/widgets-windows-11-2843957.jpg' alt='Si no te funcionan los widgets de Windows 11, así lo puedes arreglar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/30-noticias-tecnologia-comenzar-manana-informado-ultimo-1149189'>30 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/30-noticias-tecnologia-comenzar-manana-informado-ultimo-1149189' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/30-noticias-tecnologia-comenzar-manana-informado-ultimo-2859547.jpg' alt='30 noticias de tecnología para comenzar la mañana informado de lo último' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/1111-aliexpress-primeras-ofertas-cupones-1-noviembre-1148707'>El 11.11 de AliExpress se adelanta: estas son las ofertas flash que puedes conseguir hoy</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/1111-aliexpress-primeras-ofertas-cupones-1-noviembre-1148707' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/1111-2858623.jpg' alt='El 11.11 de AliExpress se adelanta: estas son las ofertas flash que puedes conseguir hoy' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/no-deberias-quitar-hojas-secas-caen-jardin-otono-1149187'>Por qué no deberías quitar las hojas que caen en tu jardín este otoño</a></h4>
     <a href='https://computerhoy.com/noticias/life/no-deberias-quitar-hojas-secas-caen-jardin-otono-1149187' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/no-deberias-quitar-hojas-caen-jardin-otono-2859545.jpg' alt='Por qué no deberías quitar las hojas que caen en tu jardín este otoño' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/hilu-manta-grafeno-calienta-invierno-refresca-verano-video-1148977'>HILU, la manta de grafeno que calienta en invierno y refresca en verano (vídeo)</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/hilu-manta-grafeno-calienta-invierno-refresca-verano-video-1148977' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/verticalimage1667255012837-2859325.jpg' alt='HILU, la manta de grafeno que calienta en invierno y refresca en verano (vídeo)' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/ley-mercados-digitales-union-europea-1148975'>A partir de hoy, Internet va a cambiar para siempre en Europa</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/ley-mercados-digitales-union-europea-1148975' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/partir-manana-internet-va-cambiar-siempre-europa-2859321.jpg' alt='A partir de hoy, Internet va a cambiar para siempre en Europa' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/reloj-samsung-galaxy-watch-5-alternativa-apple-watch-series-8-descuento-1148963'>El nuevo reloj Samsung Galaxy Watch 5 es una gran alternativa al Apple Watch Series 8, con este descuento baja de los 300 euros</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/reloj-samsung-galaxy-watch-5-alternativa-apple-watch-series-8-descuento-1148963' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/review-samsung-galaxy-watch-5-2843267.jpg' alt='El nuevo reloj Samsung Galaxy Watch 5 es una gran alternativa al Apple Watch Series 8, con este descuento baja de los 300 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/puedes-descargar-nueva-version-android-auto-84-antes-nadie-1148949'>Así puedes descargar la nueva versión de Android Auto 8.4 antes que nadie</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/puedes-descargar-nueva-version-android-auto-84-antes-nadie-1148949' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/android-auto-2343833.jpg' alt='Así puedes descargar la nueva versión de Android Auto 8.4 antes que nadie' />
     </a>
 </div>
 
