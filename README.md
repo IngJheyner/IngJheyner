@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/nuevo-pixel-7-pro-prueba-test-resistencia-aranazos-pantalla-camara-fallido-1149293'>El nuevo Pixel 7 Pro a prueba: test de resistencia a arañazos en pantalla y cámara fallido</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/nuevo-pixel-7-pro-prueba-test-resistencia-aranazos-pantalla-camara-fallido-1149293' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/nuevo-pixel-7-pro-prueba-test-resistencia-aranazos-pantalla-camara-2859753.jpg' alt='El nuevo Pixel 7 Pro a prueba: test de resistencia a arañazos en pantalla y cámara fallido' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/guia-compra/ratones-inalambricos-1137231'>Ratones inalámbricos: todo lo que necesitas saber</a></h4>
     <a href='https://computerhoy.com/guia-compra/ratones-inalambricos-1137231' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/10/raton-inalambrico-raton-cable-cual-elegir.jpg' alt='Ratones inalámbricos: todo lo que necesitas saber' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/huawei-anadira-mate-xs-2-comunicacion-satelite-primer-plegable-conseguirlo-1149213'>Huawei añadirá a su Mate Xs 2 la comunicación por satélite: el primer plegable en conseguirlo</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/huawei-anadira-mate-xs-2-comunicacion-satelite-primer-plegable-conseguirlo-1149213' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/analisis-huawei-mate-xs-2-2845419.jpg' alt='Huawei añadirá a su Mate Xs 2 la comunicación por satélite: el primer plegable en conseguirlo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/maxima-cobertura-wifi-300-m2-pack-routers-mesh-ahora-31-descuento-1145631'>Máxima cobertura WiFi en 300 m2 con este pack de routers Mesh, ahora con un 31% de descuento</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/maxima-cobertura-wifi-300-m2-pack-routers-mesh-ahora-31-descuento-1145631' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/tenda-nova-mw5s-2852807.jpg' alt='Máxima cobertura WiFi en 300 m2 con este pack de routers Mesh, ahora con un 31% de descuento' />
     </a>
 </div>
 
