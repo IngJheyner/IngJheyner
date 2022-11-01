@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/esperanza-twitter-acepte-criptomoneda-dogecoin-como-oficial-dispara-valor-1149207'>La esperanza de que Twitter acepte la criptomoneda Dogecoin como oficial, dispara su valor</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/esperanza-twitter-acepte-criptomoneda-dogecoin-como-oficial-dispara-valor-1149207' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/esperanza-twitter-acepte-criptomoneda-dogecoin-como-oficial-dispara-valor-2859579.jpg' alt='La esperanza de que Twitter acepte la criptomoneda Dogecoin como oficial, dispara su valor' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/mayor-asteroide-2022-tan-grande-como-burj-khalifa-pasara-hoy-cerca-tierra-1149193'>El mayor asteroide de este 2022, tan grande como el Burj Khalifa, pasará hoy "cerca" de la Tierra</a></h4>
     <a href='https://computerhoy.com/noticias/life/mayor-asteroide-2022-tan-grande-como-burj-khalifa-pasara-hoy-cerca-tierra-1149193' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/mayor-asteroide-2022-tan-grande-como-burj-khalifa-pasara-hoy-cerca-tierra-2859577.jpg' alt='El mayor asteroide de este 2022, tan grande como el Burj Khalifa, pasará hoy "cerca" de la Tierra' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/cupones-11-11-aliexpress-como-funcionan-como-conseguirlos-1141639'>Cupones del 11.11 en AliExpress: cómo funcionan y cómo conseguirlos</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/cupones-11-11-aliexpress-como-funcionan-como-conseguirlos-1141639' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/portada-compras-2845833.jpg' alt='Cupones del 11.11 en AliExpress: cómo funcionan y cómo conseguirlos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/life/que-merece-pena-comprar-11-11-aliexpress-1145665'>Qué comprar en el 11.11 de AliExpress: estos suelen ser los productos con mayor descuento en China</a></h4>
-    <a href='https://computerhoy.com/reportajes/life/que-merece-pena-comprar-11-11-aliexpress-1145665' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/portada-1111-aliexpress-2852995.jpg' alt='Qué comprar en el 11.11 de AliExpress: estos suelen ser los productos con mayor descuento en China' />
     </a>
 </div>
 
