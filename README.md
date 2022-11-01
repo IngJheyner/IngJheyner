@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/hilu-manta-grafeno-calienta-invierno-refresca-verano-video-1148977'>HILU, la manta de grafeno que calienta en invierno y refresca en verano (vídeo)</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/hilu-manta-grafeno-calienta-invierno-refresca-verano-video-1148977' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/verticalimage1667255012837-2859325.jpg' alt='HILU, la manta de grafeno que calienta en invierno y refresca en verano (vídeo)' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/ley-mercados-digitales-union-europea-1148975'>A partir de hoy, Internet va a cambiar para siempre en Europa</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/ley-mercados-digitales-union-europea-1148975' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/partir-manana-internet-va-cambiar-siempre-europa-2859321.jpg' alt='A partir de hoy, Internet va a cambiar para siempre en Europa' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/reloj-samsung-galaxy-watch-5-alternativa-apple-watch-series-8-descuento-1148963'>El nuevo reloj Samsung Galaxy Watch 5 es una gran alternativa al Apple Watch Series 8, con este descuento baja de los 300 euros</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/reloj-samsung-galaxy-watch-5-alternativa-apple-watch-series-8-descuento-1148963' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/review-samsung-galaxy-watch-5-2843267.jpg' alt='El nuevo reloj Samsung Galaxy Watch 5 es una gran alternativa al Apple Watch Series 8, con este descuento baja de los 300 euros' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/motor/radares-medusa-puedes-acabar-viendo-ciudades-triunfan-francia-1148947'>Los “radares medusa” que puedes acabar viendo en tus ciudades y que triunfan en Francia</a></h4>
     <a href='https://computerhoy.com/noticias/motor/radares-medusa-puedes-acabar-viendo-ciudades-triunfan-francia-1148947' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/03/radar-dgt-2263921.jpg' alt='Los “radares medusa” que puedes acabar viendo en tus ciudades y que triunfan en Francia' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/listas/life/7-mejores-aplicaciones-tiempo-telefonos-android-1143025'>Las 7 mejores aplicaciones del tiempo para teléfonos Android</a></h4>
-    <a href='https://computerhoy.com/listas/life/7-mejores-aplicaciones-tiempo-telefonos-android-1143025' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/7-mejores-aplicaciones-tiempo-telefonos-android-2857397.jpg' alt='Las 7 mejores aplicaciones del tiempo para teléfonos Android' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/netflix-the-witcher-fans-cancelar-serie-1148943'>Netflix ante una situación insólita: ahora son los espectadores los que quieren que se cancele una serie</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/netflix-the-witcher-fans-cancelar-serie-1148943' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/netflix-situacion-insolita-ahora-son-espectadores-quieren-cancele-serie-2859271.jpg' alt='Netflix ante una situación insólita: ahora son los espectadores los que quieren que se cancele una serie' />
     </a>
 </div>
 
