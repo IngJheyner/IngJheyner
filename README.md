@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/estos-juguetes-mcdonalds-venden-actualmente-ebay-20000-dolares-1149299'>Estos juguetes de McDonald's se venden actualmente en eBay por hasta 20.000 dólares</a></h4>
+    <a href='https://computerhoy.com/noticias/life/estos-juguetes-mcdonalds-venden-actualmente-ebay-20000-dolares-1149299' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/estos-juguetes-mcdonalds-venden-actualmente-ebay-20000-dolares-2859767.jpg' alt='Estos juguetes de McDonald's se venden actualmente en eBay por hasta 20.000 dólares' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/debes-saber-algunas-leches-compras-supermercado-csic-1149339'>Esto es lo que debes saber sobre algunas leches que compras en el supermercado, según el CSIC</a></h4>
     <a href='https://computerhoy.com/noticias/life/debes-saber-algunas-leches-compras-supermercado-csic-1149339' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/leche-supermercado-2648195.jpg' alt='Esto es lo que debes saber sobre algunas leches que compras en el supermercado, según el CSIC' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tutoriales/tecnologia/mejores-soluciones-evitar-gasto-inutil-bateria-windows-11-1144007'>Las mejores soluciones para evitar el gasto inútil de batería en Windows 11</a></h4>
     <a href='https://computerhoy.com/tutoriales/tecnologia/mejores-soluciones-evitar-gasto-inutil-bateria-windows-11-1144007' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/windows-11-2689905.jpg' alt='Las mejores soluciones para evitar el gasto inútil de batería en Windows 11' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/amazon-music-amplia-lista-canciones-miembros-prime-100-millones-1149309'>Amazon Music amplía la lista de canciones de los miembros de Prime hasta las 100 millones</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/amazon-music-amplia-lista-canciones-miembros-prime-100-millones-1149309' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/amazon-amplia-lista-canciones-miembros-prime-100-millones-2859797.jpg' alt='Amazon Music amplía la lista de canciones de los miembros de Prime hasta las 100 millones' />
     </a>
 </div>
 
