@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/debes-saber-algunas-leches-compras-supermercado-csic-1149339'>Esto es lo que debes saber sobre algunas leches que compras en el supermercado, según el CSIC</a></h4>
+    <a href='https://computerhoy.com/noticias/life/debes-saber-algunas-leches-compras-supermercado-csic-1149339' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/leche-supermercado-2648195.jpg' alt='Esto es lo que debes saber sobre algunas leches que compras en el supermercado, según el CSIC' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/dgt-cambia-sistema-notificacion-multas-afecta-conjunto-conductores-1149337'>La DGT cambia el sistema de notificación de multas y así afecta a este conjunto de conductores</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/dgt-cambia-sistema-notificacion-multas-afecta-conjunto-conductores-1149337' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/multa-coche-2859855.jpg' alt='La DGT cambia el sistema de notificación de multas y así afecta a este conjunto de conductores' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/raton-pliega-como-pieza-origami-queda-totalmente-plano-1149329'>Este ratón se pliega como una pieza de origami y queda totalmente plano</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/raton-pliega-como-pieza-origami-queda-totalmente-plano-1149329' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/raton-pliega-como-pieza-origami-queda-totalmente-plano-2859849.jpg' alt='Este ratón se pliega como una pieza de origami y queda totalmente plano' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tutoriales/tecnologia/mejores-soluciones-evitar-gasto-inutil-bateria-windows-11-1144007'>Las mejores soluciones para evitar el gasto inútil de batería en Windows 11</a></h4>
     <a href='https://computerhoy.com/tutoriales/tecnologia/mejores-soluciones-evitar-gasto-inutil-bateria-windows-11-1144007' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/windows-11-2689905.jpg' alt='Las mejores soluciones para evitar el gasto inútil de batería en Windows 11' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/amazon-music-amplia-lista-canciones-miembros-prime-100-millones-1149309'>Amazon Music amplía la lista de canciones de los miembros de Prime hasta las 100 millones</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/amazon-music-amplia-lista-canciones-miembros-prime-100-millones-1149309' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/amazon-amplia-lista-canciones-miembros-prime-100-millones-2859797.jpg' alt='Amazon Music amplía la lista de canciones de los miembros de Prime hasta las 100 millones' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/patinete-xiaomi-pro-2-merece-pena-caracteristicas-precio-alternativas-1125045'>Patinete Xiaomi Pro 2: ¿merece la pena? Características, precio y alternativas</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/patinete-xiaomi-pro-2-merece-pena-caracteristicas-precio-alternativas-1125045' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/xiaomi-mi-electric-scooter-pro-2-2814207.jpg' alt='Patinete Xiaomi Pro 2: ¿merece la pena? Características, precio y alternativas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/nuevo-pixel-7-pro-prueba-test-resistencia-aranazos-pantalla-camara-fallido-1149293'>El nuevo Pixel 7 Pro a prueba: test de resistencia a arañazos en pantalla y cámara fallido</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/nuevo-pixel-7-pro-prueba-test-resistencia-aranazos-pantalla-camara-fallido-1149293' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/nuevo-pixel-7-pro-prueba-test-resistencia-aranazos-pantalla-camara-2859753.jpg' alt='El nuevo Pixel 7 Pro a prueba: test de resistencia a arañazos en pantalla y cámara fallido' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/guia-compra/ratones-inalambricos-1137231'>Ratones inalámbricos: todo lo que necesitas saber</a></h4>
-    <a href='https://computerhoy.com/guia-compra/ratones-inalambricos-1137231' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/10/raton-inalambrico-raton-cable-cual-elegir.jpg' alt='Ratones inalámbricos: todo lo que necesitas saber' />
     </a>
 </div>
 
