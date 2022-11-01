@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/huawei-anadira-mate-xs-2-comunicacion-satelite-primer-plegable-conseguirlo-1149213'>Huawei añadirá a su Mate Xs 2 la comunicación por satélite: el primer plegable en conseguirlo</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/huawei-anadira-mate-xs-2-comunicacion-satelite-primer-plegable-conseguirlo-1149213' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/analisis-huawei-mate-xs-2-2845419.jpg' alt='Huawei añadirá a su Mate Xs 2 la comunicación por satélite: el primer plegable en conseguirlo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/maxima-cobertura-wifi-300-m2-pack-routers-mesh-ahora-31-descuento-1145631'>Máxima cobertura WiFi en 300 m2 con este pack de routers Mesh, ahora con un 31% de descuento</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/maxima-cobertura-wifi-300-m2-pack-routers-mesh-ahora-31-descuento-1145631' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/tenda-nova-mw5s-2852807.jpg' alt='Máxima cobertura WiFi en 300 m2 con este pack de routers Mesh, ahora con un 31% de descuento' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/esperanza-twitter-acepte-criptomoneda-dogecoin-como-oficial-dispara-valor-1149207'>La esperanza de que Twitter acepte la criptomoneda Dogecoin como oficial, dispara su valor</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/esperanza-twitter-acepte-criptomoneda-dogecoin-como-oficial-dispara-valor-1149207' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/esperanza-twitter-acepte-criptomoneda-dogecoin-como-oficial-dispara-valor-2859579.jpg' alt='La esperanza de que Twitter acepte la criptomoneda Dogecoin como oficial, dispara su valor' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/life/monedas-sorteos-ofertas-11-11-aliexpress-1148067'>Monedas, sorteos y más: el 11.11 de AliExpress arranca con muchas formas de ahorrar</a></h4>
     <a href='https://computerhoy.com/reportajes/life/monedas-sorteos-ofertas-11-11-aliexpress-1148067' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/persona-sujetando-monedas-oro-manos-2857369.jpg' alt='Monedas, sorteos y más: el 11.11 de AliExpress arranca con muchas formas de ahorrar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/life/como-conseguir-cashback-descuentos-11-11-aliexpress-paypal-alipay-1146831'>Cómo conseguir cashback y descuentos en el 11.11 de AliExpress con PayPal y AliPay</a></h4>
-    <a href='https://computerhoy.com/reportajes/life/como-conseguir-cashback-descuentos-11-11-aliexpress-paypal-alipay-1146831' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/carrito-compra-2854885.jpg' alt='Cómo conseguir cashback y descuentos en el 11.11 de AliExpress con PayPal y AliPay' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/cupones-11-11-aliexpress-como-funcionan-como-conseguirlos-1141639'>Cupones del 11.11 en AliExpress: cómo funcionan y cómo conseguirlos</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/cupones-11-11-aliexpress-como-funcionan-como-conseguirlos-1141639' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/portada-compras-2845833.jpg' alt='Cupones del 11.11 en AliExpress: cómo funcionan y cómo conseguirlos' />
     </a>
 </div>
 
