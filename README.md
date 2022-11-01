@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/mejores-soluciones-evitar-gasto-inutil-bateria-windows-11-1144007'>Las mejores soluciones para evitar el gasto inútil de batería en Windows 11</a></h4>
+    <a href='https://computerhoy.com/tutoriales/tecnologia/mejores-soluciones-evitar-gasto-inutil-bateria-windows-11-1144007' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/windows-11-2689905.jpg' alt='Las mejores soluciones para evitar el gasto inútil de batería en Windows 11' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/amazon-music-amplia-lista-canciones-miembros-prime-100-millones-1149309'>Amazon Music amplía la lista de canciones de los miembros de Prime hasta las 100 millones</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/amazon-music-amplia-lista-canciones-miembros-prime-100-millones-1149309' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/amazon-amplia-lista-canciones-miembros-prime-100-millones-2859797.jpg' alt='Amazon Music amplía la lista de canciones de los miembros de Prime hasta las 100 millones' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/patinete-xiaomi-pro-2-merece-pena-caracteristicas-precio-alternativas-1125045'>Patinete Xiaomi Pro 2: ¿merece la pena? Características, precio y alternativas</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/patinete-xiaomi-pro-2-merece-pena-caracteristicas-precio-alternativas-1125045' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/xiaomi-mi-electric-scooter-pro-2-2814207.jpg' alt='Patinete Xiaomi Pro 2: ¿merece la pena? Características, precio y alternativas' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/guia-compra/ratones-inalambricos-1137231'>Ratones inalámbricos: todo lo que necesitas saber</a></h4>
     <a href='https://computerhoy.com/guia-compra/ratones-inalambricos-1137231' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/10/raton-inalambrico-raton-cable-cual-elegir.jpg' alt='Ratones inalámbricos: todo lo que necesitas saber' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/salvaje-historia-como-medico-consiguio-robar-cerebro-albert-einstein-1149239'>Esta es la salvaje historia de cómo un médico consiguió robar el cerebro de Albert Einstein </a></h4>
-    <a href='https://computerhoy.com/noticias/life/salvaje-historia-como-medico-consiguio-robar-cerebro-albert-einstein-1149239' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/surrealista-historia-como-robaron-cerebro-albert-einstein-2859653.jpg' alt='Esta es la salvaje historia de cómo un médico consiguió robar el cerebro de Albert Einstein ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/adobe-exige-suscripcion-quieres-tener-todos-colores-pantone-apps-como-photoshop-1149271'>Adobe exige una suscripción si quieres tener todos los colores Pantone en apps como Photoshop</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/adobe-exige-suscripcion-quieres-tener-todos-colores-pantone-apps-como-photoshop-1149271' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/colores-pantone-aplicaciones-adobe-como-photoshop-iran-suscripcion-2859677.jpg' alt='Adobe exige una suscripción si quieres tener todos los colores Pantone en apps como Photoshop' />
     </a>
 </div>
 
