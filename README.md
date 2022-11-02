@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/netflix-basico-anuncios-series-no-estaran-the-crown-cobra-kai-1149893'>Netflix Básico con anuncios se estrena mañana y al menos 5 grandes estudios con series en el top 10 aún no han firmado</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/netflix-basico-anuncios-series-no-estaran-the-crown-cobra-kai-1149893' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/netflix-basico-anuncios-estrena-manana-menos-5-grandes-estudios-series-top-10-no-estaran-2860951.jpg' alt='Netflix Básico con anuncios se estrena mañana y al menos 5 grandes estudios con series en el top 10 aún no han firmado' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/listas/tecnologia/7-mejores-aplicaciones-editar-fotografias-moviles-android-1143019'>Las 7 mejores aplicaciones para editar fotografías en móviles Android</a></h4>
+    <a href='https://computerhoy.com/listas/tecnologia/7-mejores-aplicaciones-editar-fotografias-moviles-android-1143019' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/7-mejores-aplicaciones-editar-fotografias-moviles-android-2857421.jpg' alt='Las 7 mejores aplicaciones para editar fotografías en móviles Android' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/gaming/precio-fecha-lanzamiento-gafas-realidad-virtual-playstation-5-1149841'>Precio y fecha de lanzamiento de las gafas de Realidad Virtual para PlayStation 5</a></h4>
     <a href='https://computerhoy.com/noticias/gaming/precio-fecha-lanzamiento-gafas-realidad-virtual-playstation-5-1149841' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/ps-vr2-2860803.jpg' alt='Precio y fecha de lanzamiento de las gafas de Realidad Virtual para PlayStation 5' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/directo-mejores-ofertas-black-friday-1144767'>En directo: Las mejores ofertas de Black Friday</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/directo-mejores-ofertas-black-friday-1144767' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/portada-directo-black-friday-2851279.jpg' alt='En directo: Las mejores ofertas de Black Friday' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/cinco-caracteristicas-no-debe-tener-proximo-coche-1149795'>Las cinco características que no debe tener tu próximo coche</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/cinco-caracteristicas-no-debe-tener-proximo-coche-1149795' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/pantalla-tactil-coche-2790267.jpg' alt='Las cinco características que no debe tener tu próximo coche' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-guardar-web-formato-pdf-windows-mac-1145745'>Cómo guardar una web en formato PDF en Windows y Mac</a></h4>
-    <a href='https://computerhoy.com/tutoriales/tecnologia/como-guardar-web-formato-pdf-windows-mac-1145745' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/03/pdf_0.jpg' alt='Cómo guardar una web en formato PDF en Windows y Mac' />
     </a>
 </div>
 
