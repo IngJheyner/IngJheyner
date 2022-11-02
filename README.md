@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/samsung-galaxy-s22-precio-derribo-televisor-regalo-pack-definitivo-oferta-ahora-mismo-1148727'>Samsung Galaxy S22 a precio de derribo y televisor de regalo: este es el pack definitivo en oferta ahora mismo</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/samsung-galaxy-s22-precio-derribo-televisor-regalo-pack-definitivo-oferta-ahora-mismo-1148727' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/samsung-galaxy-s22-analisis-opinion-2741209.jpg' alt='Samsung Galaxy S22 a precio de derribo y televisor de regalo: este es el pack definitivo en oferta ahora mismo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/twitter-adelanta-funcion-editar-tuits-paso-llegar-todos-usuarios-1149619'>Twitter adelanta que su función de editar tuits está a un paso de llegar a todos los usuarios</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/twitter-adelanta-funcion-editar-tuits-paso-llegar-todos-usuarios-1149619' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/nueva-funcion-twitter-imagenes-videos-gif-solo-tuit-2835015.jpg' alt='Twitter adelanta que su función de editar tuits está a un paso de llegar a todos los usuarios' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/concepto-xiaomi-convertir-smartphone-camara-fotos-profesional-1149601'>El concepto de Xiaomi para convertir tu smartphone en un cámara de fotos profesional</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/concepto-xiaomi-convertir-smartphone-camara-fotos-profesional-1149601' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/xiaomi-12s-ultra-2860213.jpg' alt='El concepto de Xiaomi para convertir tu smartphone en un cámara de fotos profesional' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/life/cuando-es-11-11-aliexpress-origen-descuentos-ofertas-1143967'>Cuándo es el 11.11 de AliExpress: origen de estos descuentos y ofertas del gigante chino</a></h4>
     <a href='https://computerhoy.com/reportajes/life/cuando-es-11-11-aliexpress-origen-descuentos-ofertas-1143967' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/ilustracion-elementos-tienda-carrito-compra-bolsa-compra-regalos-2850263.jpg' alt='Cuándo es el 11.11 de AliExpress: origen de estos descuentos y ofertas del gigante chino' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/17-noticias-tecnologia-comenzar-manana-informado-ultimo-1149577'>17 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/17-noticias-tecnologia-comenzar-manana-informado-ultimo-1149577' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/17-noticias-tecnologia-comenzar-manana-informado-ultimo-2860101.jpg' alt='17 noticias de tecnología para comenzar la mañana informado de lo último' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/life/como-aprovechar-ofertas-black-friday-1148765'>Qué necesitas para aprovechar las ofertas del Black Friday al máximo</a></h4>
-    <a href='https://computerhoy.com/reportajes/life/como-aprovechar-ofertas-black-friday-1148765' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/mujer-sentada-suelo-realizando-compra-tarjeta-credito-durante-black-friday-2858799.jpg' alt='Qué necesitas para aprovechar las ofertas del Black Friday al máximo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/estos-juguetes-mcdonalds-venden-actualmente-ebay-20000-dolares-1149299'>Estos juguetes de McDonald's se venden actualmente en eBay por hasta 20.000 dólares</a></h4>
-    <a href='https://computerhoy.com/noticias/life/estos-juguetes-mcdonalds-venden-actualmente-ebay-20000-dolares-1149299' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/estos-juguetes-mcdonalds-venden-actualmente-ebay-20000-dolares-2859767.jpg' alt='Estos juguetes de McDonald's se venden actualmente en eBay por hasta 20.000 dólares' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/debes-saber-algunas-leches-compras-supermercado-csic-1149339'>Esto es lo que debes saber sobre algunas leches que compras en el supermercado, según el CSIC</a></h4>
-    <a href='https://computerhoy.com/noticias/life/debes-saber-algunas-leches-compras-supermercado-csic-1149339' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/leche-supermercado-2648195.jpg' alt='Esto es lo que debes saber sobre algunas leches que compras en el supermercado, según el CSIC' />
     </a>
 </div>
 
