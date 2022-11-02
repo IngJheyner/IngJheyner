@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/llegan-avatares-whatsapp-usarlos-sera-muy-facil-arreglan-fallos-1149689'>Llegan los avatares en WhatsApp y usarlos será muy fácil... si arreglan los fallos</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/llegan-avatares-whatsapp-usarlos-sera-muy-facil-arreglan-fallos-1149689' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/meta-avatars-store-2734761.jpg' alt='Llegan los avatares en WhatsApp y usarlos será muy fácil... si arreglan los fallos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/propuesta-realidad-virtual-china-pasa-anadir-olores-simulacion-1149673'>La propuesta de Realidad Virtual china pasa por añadir olores a la simulación</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/propuesta-realidad-virtual-china-pasa-anadir-olores-simulacion-1149673' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/propuesta-realidad-virtual-china-pasa-anadir-olores-simulacion-2860373.jpg' alt='La propuesta de Realidad Virtual china pasa por añadir olores a la simulación' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/codec-audio-ia-meta-funciona-10-veces-mejor-mp3-1149651'>Así es el códec de audio con IA de Meta que funciona 10 veces mejor que MP3</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/codec-audio-ia-meta-funciona-10-veces-mejor-mp3-1149651' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/mp3-altavoz-musica-2860351.jpg' alt='Así es el códec de audio con IA de Meta que funciona 10 veces mejor que MP3' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/apple-cuerdas-nueva-ley-europea-obligara-cambiar-ios-iphone-siempre-1149623'>Apple contra las cuerdas: la nueva ley Europea le obligará a cambiar iOS en iPhone para siempre</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/apple-cuerdas-nueva-ley-europea-obligara-cambiar-ios-iphone-siempre-1149623' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/nueva-ley-europea-forzaria-apple-cambiar-ios-iphone-siempre-2860291.jpg' alt='Apple contra las cuerdas: la nueva ley Europea le obligará a cambiar iOS en iPhone para siempre' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/samsung-galaxy-s22-precio-derribo-televisor-regalo-pack-definitivo-oferta-ahora-mismo-1148727'>Samsung Galaxy S22 a precio de derribo y televisor de regalo: este es el pack definitivo en oferta ahora mismo</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/samsung-galaxy-s22-precio-derribo-televisor-regalo-pack-definitivo-oferta-ahora-mismo-1148727' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/samsung-galaxy-s22-analisis-opinion-2741209.jpg' alt='Samsung Galaxy S22 a precio de derribo y televisor de regalo: este es el pack definitivo en oferta ahora mismo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/twitter-adelanta-funcion-editar-tuits-paso-llegar-todos-usuarios-1149619'>Twitter adelanta que su función de editar tuits está a un paso de llegar a todos los usuarios</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/twitter-adelanta-funcion-editar-tuits-paso-llegar-todos-usuarios-1149619' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/nueva-funcion-twitter-imagenes-videos-gif-solo-tuit-2835015.jpg' alt='Twitter adelanta que su función de editar tuits está a un paso de llegar a todos los usuarios' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/concepto-xiaomi-convertir-smartphone-camara-fotos-profesional-1149601'>El concepto de Xiaomi para convertir tu smartphone en un cámara de fotos profesional</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/concepto-xiaomi-convertir-smartphone-camara-fotos-profesional-1149601' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/xiaomi-12s-ultra-2860213.jpg' alt='El concepto de Xiaomi para convertir tu smartphone en un cámara de fotos profesional' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/life/cuando-es-11-11-aliexpress-origen-descuentos-ofertas-1143967'>Cuándo es el 11.11 de AliExpress: origen de estos descuentos y ofertas del gigante chino</a></h4>
-    <a href='https://computerhoy.com/reportajes/life/cuando-es-11-11-aliexpress-origen-descuentos-ofertas-1143967' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/ilustracion-elementos-tienda-carrito-compra-bolsa-compra-regalos-2850263.jpg' alt='Cuándo es el 11.11 de AliExpress: origen de estos descuentos y ofertas del gigante chino' />
     </a>
 </div>
 
