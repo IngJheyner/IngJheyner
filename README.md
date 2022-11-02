@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/apple-cuerdas-nueva-ley-europea-obligara-cambiar-ios-iphone-siempre-1149623'>Apple contra las cuerdas: la nueva ley Europea le obligará a cambiar iOS en iPhone para siempre</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/apple-cuerdas-nueva-ley-europea-obligara-cambiar-ios-iphone-siempre-1149623' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/nueva-ley-europea-forzaria-apple-cambiar-ios-iphone-siempre-2860291.jpg' alt='Apple contra las cuerdas: la nueva ley Europea le obligará a cambiar iOS en iPhone para siempre' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/samsung-galaxy-s22-precio-derribo-televisor-regalo-pack-definitivo-oferta-ahora-mismo-1148727'>Samsung Galaxy S22 a precio de derribo y televisor de regalo: este es el pack definitivo en oferta ahora mismo</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/samsung-galaxy-s22-precio-derribo-televisor-regalo-pack-definitivo-oferta-ahora-mismo-1148727' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/samsung-galaxy-s22-analisis-opinion-2741209.jpg' alt='Samsung Galaxy S22 a precio de derribo y televisor de regalo: este es el pack definitivo en oferta ahora mismo' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/life/cuando-es-11-11-aliexpress-origen-descuentos-ofertas-1143967'>Cuándo es el 11.11 de AliExpress: origen de estos descuentos y ofertas del gigante chino</a></h4>
     <a href='https://computerhoy.com/reportajes/life/cuando-es-11-11-aliexpress-origen-descuentos-ofertas-1143967' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/ilustracion-elementos-tienda-carrito-compra-bolsa-compra-regalos-2850263.jpg' alt='Cuándo es el 11.11 de AliExpress: origen de estos descuentos y ofertas del gigante chino' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/17-noticias-tecnologia-comenzar-manana-informado-ultimo-1149577'>17 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/17-noticias-tecnologia-comenzar-manana-informado-ultimo-1149577' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/17-noticias-tecnologia-comenzar-manana-informado-ultimo-2860101.jpg' alt='17 noticias de tecnología para comenzar la mañana informado de lo último' />
     </a>
 </div>
 
