@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/cinco-caracteristicas-no-debe-tener-proximo-coche-1149795'>Las cinco características que no debe tener tu próximo coche</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/cinco-caracteristicas-no-debe-tener-proximo-coche-1149795' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/pantalla-tactil-coche-2790267.jpg' alt='Las cinco características que no debe tener tu próximo coche' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-guardar-web-formato-pdf-windows-mac-1145745'>Cómo guardar una web en formato PDF en Windows y Mac</a></h4>
+    <a href='https://computerhoy.com/tutoriales/tecnologia/como-guardar-web-formato-pdf-windows-mac-1145745' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/03/pdf_0.jpg' alt='Cómo guardar una web en formato PDF en Windows y Mac' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/nuevo-avance-baterias-iones-litio-genera-25-energia-extra-coches-electricos-1149771'>Un nuevo avance en las baterías de iones de litio genera hasta un 25% de energía extra en los coches eléctricos</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/nuevo-avance-baterias-iones-litio-genera-25-energia-extra-coches-electricos-1149771' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/nuevo-avance-baterias-iones-litio-genera-25-energia-extra-coches-electricos-2860611.jpg' alt='Un nuevo avance en las baterías de iones de litio genera hasta un 25% de energía extra en los coches eléctricos' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/mapa-mejores-paises-mundo-mudarse-espana-top-3-1149745'>Este es el mapa con los mejores países del mundo para mudarse: España en el top 3</a></h4>
     <a href='https://computerhoy.com/noticias/life/mapa-mejores-paises-mundo-mudarse-espana-top-3-1149745' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/mapa-mejores-paises-mundo-mudarse-espana-top-3-2860495.jpg' alt='Este es el mapa con los mejores países del mundo para mudarse: España en el top 3' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/optimiza-bill-gates-tiempo-tecnica-cuatro-cubos-1149733'>Así optimiza Bill Gates su tiempo: la técnica de los cuatro cubos</a></h4>
-    <a href='https://computerhoy.com/noticias/life/optimiza-bill-gates-tiempo-tecnica-cuatro-cubos-1149733' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/09/3-consejos-bill-gates-aprovechar-lectura-escoger-mejor-libros-2071961.jpg' alt='Así optimiza Bill Gates su tiempo: la técnica de los cuatro cubos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/google-cerrara-2023-street-view-aunque-podras-seguir-viendo-calles-todo-mundo-maps-1149701'>Google cerrará en 2023 la app de Street View, aunque no te preocupes, se conserva la función en Maps</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/google-cerrara-2023-street-view-aunque-podras-seguir-viendo-calles-todo-mundo-maps-1149701' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/street-view-2714205.jpg' alt='Google cerrará en 2023 la app de Street View, aunque no te preocupes, se conserva la función en Maps' />
     </a>
 </div>
 
