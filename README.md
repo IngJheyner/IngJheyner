@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/huawei-pocket-s-oficial-movil-plegable-caracteristicas-precio-fecha-lanzamiento-1149945'>Huawei Pocket S ya es oficial, el móvil plegable más barato de Huawei</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/huawei-pocket-s-oficial-movil-plegable-caracteristicas-precio-fecha-lanzamiento-1149945' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/huawei-pocket-s-ya-oficial-movil-plegable-barato-huawei-2861213.jpg' alt='Huawei Pocket S ya es oficial, el móvil plegable más barato de Huawei' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/listas/tecnologia/ponte-forma-estas-7-aplicaciones-moviles-android-1143023'>Ponte en forma con estas 7 aplicaciones para móviles Android</a></h4>
+    <a href='https://computerhoy.com/listas/tecnologia/ponte-forma-estas-7-aplicaciones-moviles-android-1143023' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/ponte-forma-estas-7-aplicaciones-moviles-android-2857451.jpg' alt='Ponte en forma con estas 7 aplicaciones para móviles Android' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-borrar-archivos-temporales-windows-11-hacer-espacio-1147609'>Cómo borrar archivos temporales en Windows 11 y hacer más espacio</a></h4>
     <a href='https://computerhoy.com/tutoriales/tecnologia/como-borrar-archivos-temporales-windows-11-hacer-espacio-1147609' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/windows-11-ordenador-portatil-2821013.jpg' alt='Cómo borrar archivos temporales en Windows 11 y hacer más espacio' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/netflix-basico-anuncios-series-no-estaran-the-crown-cobra-kai-1149893'>Netflix Básico con anuncios se estrena mañana y 5 grandes estudios con series en el top 10 aún no han firmado</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/netflix-basico-anuncios-series-no-estaran-the-crown-cobra-kai-1149893' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/netflix-basico-anuncios-estrena-manana-menos-5-grandes-estudios-series-top-10-no-estaran-2860951.jpg' alt='Netflix Básico con anuncios se estrena mañana y 5 grandes estudios con series en el top 10 aún no han firmado' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/listas/tecnologia/7-mejores-aplicaciones-editar-fotografias-moviles-android-1143019'>Las 7 mejores aplicaciones para editar fotografías en móviles Android</a></h4>
-    <a href='https://computerhoy.com/listas/tecnologia/7-mejores-aplicaciones-editar-fotografias-moviles-android-1143019' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/7-mejores-aplicaciones-editar-fotografias-moviles-android-2857421.jpg' alt='Las 7 mejores aplicaciones para editar fotografías en móviles Android' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/gaming/precio-fecha-lanzamiento-gafas-realidad-virtual-playstation-5-1149841'>Precio y fecha de lanzamiento de las gafas de Realidad Virtual para PlayStation 5</a></h4>
-    <a href='https://computerhoy.com/noticias/gaming/precio-fecha-lanzamiento-gafas-realidad-virtual-playstation-5-1149841' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/ps-vr2-2860803.jpg' alt='Precio y fecha de lanzamiento de las gafas de Realidad Virtual para PlayStation 5' />
     </a>
 </div>
 
