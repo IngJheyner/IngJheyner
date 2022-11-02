@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/17-noticias-tecnologia-comenzar-manana-informado-ultimo-1149577'>17 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/17-noticias-tecnologia-comenzar-manana-informado-ultimo-1149577' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/17-noticias-tecnologia-comenzar-manana-informado-ultimo-2860101.jpg' alt='17 noticias de tecnología para comenzar la mañana informado de lo último' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/life/como-aprovechar-ofertas-black-friday-1148765'>Qué necesitas para aprovechar las ofertas del Black Friday al máximo</a></h4>
+    <a href='https://computerhoy.com/reportajes/life/como-aprovechar-ofertas-black-friday-1148765' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/mujer-sentada-suelo-realizando-compra-tarjeta-credito-durante-black-friday-2858799.jpg' alt='Qué necesitas para aprovechar las ofertas del Black Friday al máximo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/estos-juguetes-mcdonalds-venden-actualmente-ebay-20000-dolares-1149299'>Estos juguetes de McDonald's se venden actualmente en eBay por hasta 20.000 dólares</a></h4>
     <a href='https://computerhoy.com/noticias/life/estos-juguetes-mcdonalds-venden-actualmente-ebay-20000-dolares-1149299' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/estos-juguetes-mcdonalds-venden-actualmente-ebay-20000-dolares-2859767.jpg' alt='Estos juguetes de McDonald's se venden actualmente en eBay por hasta 20.000 dólares' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/motor/dgt-cambia-sistema-notificacion-multas-afecta-conjunto-conductores-1149337'>La DGT cambia el sistema de notificación de multas y así afecta a este conjunto de conductores</a></h4>
     <a href='https://computerhoy.com/noticias/motor/dgt-cambia-sistema-notificacion-multas-afecta-conjunto-conductores-1149337' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/multa-coche-2859855.jpg' alt='La DGT cambia el sistema de notificación de multas y así afecta a este conjunto de conductores' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/raton-pliega-como-pieza-origami-queda-totalmente-plano-1149329'>Este ratón se pliega como una pieza de origami y queda totalmente plano</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/raton-pliega-como-pieza-origami-queda-totalmente-plano-1149329' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/raton-pliega-como-pieza-origami-queda-totalmente-plano-2859849.jpg' alt='Este ratón se pliega como una pieza de origami y queda totalmente plano' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/mejores-soluciones-evitar-gasto-inutil-bateria-windows-11-1144007'>Las mejores soluciones para evitar el gasto inútil de batería en Windows 11</a></h4>
-    <a href='https://computerhoy.com/tutoriales/tecnologia/mejores-soluciones-evitar-gasto-inutil-bateria-windows-11-1144007' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/windows-11-2689905.jpg' alt='Las mejores soluciones para evitar el gasto inútil de batería en Windows 11' />
     </a>
 </div>
 
