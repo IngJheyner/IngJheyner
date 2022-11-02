@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/optimiza-bill-gates-tiempo-tecnica-cuatro-cubos-1149733'>Así optimiza Bill Gates su tiempo: la técnica de los cuatro cubos</a></h4>
+    <a href='https://computerhoy.com/noticias/life/optimiza-bill-gates-tiempo-tecnica-cuatro-cubos-1149733' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/09/3-consejos-bill-gates-aprovechar-lectura-escoger-mejor-libros-2071961.jpg' alt='Así optimiza Bill Gates su tiempo: la técnica de los cuatro cubos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/google-cerrara-2023-street-view-aunque-podras-seguir-viendo-calles-todo-mundo-maps-1149701'>Google cerrará en 2023 la app de Street View, aunque no te preocupes, se conserva la función en Maps</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/google-cerrara-2023-street-view-aunque-podras-seguir-viendo-calles-todo-mundo-maps-1149701' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/street-view-2714205.jpg' alt='Google cerrará en 2023 la app de Street View, aunque no te preocupes, se conserva la función en Maps' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/dispositivo-google-televisor-pide-gritos-cuesta-solo-33-euros-1149587'>Este dispositivo de Google es lo que tu televisor pide a gritos, y cuesta solo 33 euros</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/dispositivo-google-televisor-pide-gritos-cuesta-solo-33-euros-1149587' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/chromecast-google-tv-hd-version-economica-reproductor-inteligente-google-2821565.jpg' alt='Este dispositivo de Google es lo que tu televisor pide a gritos, y cuesta solo 33 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/llegan-avatares-whatsapp-usarlos-sera-muy-facil-arreglan-fallos-1149689'>Llegan los avatares en WhatsApp y usarlos será muy fácil... si arreglan los fallos</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/llegan-avatares-whatsapp-usarlos-sera-muy-facil-arreglan-fallos-1149689' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/meta-avatars-store-2734761.jpg' alt='Llegan los avatares en WhatsApp y usarlos será muy fácil... si arreglan los fallos' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/propuesta-realidad-virtual-china-pasa-anadir-olores-simulacion-1149673'>La propuesta de Realidad Virtual china pasa por añadir olores a la simulación</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/propuesta-realidad-virtual-china-pasa-anadir-olores-simulacion-1149673' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/propuesta-realidad-virtual-china-pasa-anadir-olores-simulacion-2860373.jpg' alt='La propuesta de Realidad Virtual china pasa por añadir olores a la simulación' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/codec-audio-ia-meta-funciona-10-veces-mejor-mp3-1149651'>Así es el códec de audio con IA de Meta que funciona 10 veces mejor que MP3</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/codec-audio-ia-meta-funciona-10-veces-mejor-mp3-1149651' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/mp3-altavoz-musica-2860351.jpg' alt='Así es el códec de audio con IA de Meta que funciona 10 veces mejor que MP3' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/apple-cuerdas-nueva-ley-europea-obligara-cambiar-ios-iphone-siempre-1149623'>Apple contra las cuerdas: la nueva ley Europea le obligará a cambiar iOS en iPhone para siempre</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/apple-cuerdas-nueva-ley-europea-obligara-cambiar-ios-iphone-siempre-1149623' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/nueva-ley-europea-forzaria-apple-cambiar-ios-iphone-siempre-2860291.jpg' alt='Apple contra las cuerdas: la nueva ley Europea le obligará a cambiar iOS en iPhone para siempre' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/samsung-galaxy-s22-precio-derribo-televisor-regalo-pack-definitivo-oferta-ahora-mismo-1148727'>Samsung Galaxy S22 a precio de derribo y televisor de regalo: este es el pack definitivo en oferta ahora mismo</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/samsung-galaxy-s22-precio-derribo-televisor-regalo-pack-definitivo-oferta-ahora-mismo-1148727' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/samsung-galaxy-s22-analisis-opinion-2741209.jpg' alt='Samsung Galaxy S22 a precio de derribo y televisor de regalo: este es el pack definitivo en oferta ahora mismo' />
     </a>
 </div>
 
