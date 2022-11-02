@@ -50,9 +50,25 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/netflix-basico-anuncios-series-no-estaran-the-crown-cobra-kai-1149893'>Netflix Básico con anuncios se estrena mañana y al menos 5 grandes estudios con series en el top 10 aún no han firmado</a></h4>
+    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-borrar-archivos-temporales-windows-11-hacer-espacio-1147609'>Cómo borrar archivos temporales en Windows 11 y hacer más espacio</a></h4>
+    <a href='https://computerhoy.com/tutoriales/tecnologia/como-borrar-archivos-temporales-windows-11-hacer-espacio-1147609' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/windows-11-ordenador-portatil-2821013.jpg' alt='Cómo borrar archivos temporales en Windows 11 y hacer más espacio' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-tablets-para-leer-1054531'>Mejores tablets para leer que puedes comprar ahora mismo</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-tablets-para-leer-1054531' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/ipad-mini-6a-generacion-2021-analisis-opinion-2501975.jpg' alt='Mejores tablets para leer que puedes comprar ahora mismo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/netflix-basico-anuncios-series-no-estaran-the-crown-cobra-kai-1149893'>Netflix Básico con anuncios se estrena mañana y 5 grandes estudios con series en el top 10 aún no han firmado</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/netflix-basico-anuncios-series-no-estaran-the-crown-cobra-kai-1149893' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/netflix-basico-anuncios-estrena-manana-menos-5-grandes-estudios-series-top-10-no-estaran-2860951.jpg' alt='Netflix Básico con anuncios se estrena mañana y al menos 5 grandes estudios con series en el top 10 aún no han firmado' />
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/netflix-basico-anuncios-estrena-manana-menos-5-grandes-estudios-series-top-10-no-estaran-2860951.jpg' alt='Netflix Básico con anuncios se estrena mañana y 5 grandes estudios con series en el top 10 aún no han firmado' />
     </a>
 </div>
 
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/gaming/precio-fecha-lanzamiento-gafas-realidad-virtual-playstation-5-1149841'>Precio y fecha de lanzamiento de las gafas de Realidad Virtual para PlayStation 5</a></h4>
     <a href='https://computerhoy.com/noticias/gaming/precio-fecha-lanzamiento-gafas-realidad-virtual-playstation-5-1149841' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/ps-vr2-2860803.jpg' alt='Precio y fecha de lanzamiento de las gafas de Realidad Virtual para PlayStation 5' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/youtube-primetime-channels-1149859'>La apuesta de YouTube para hacer frente a Netflix, HBO y Prime Video</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/youtube-primetime-channels-1149859' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/apuesta-youtube-hacer-frente-netflix-hbo-prime-video-2860847.jpg' alt='La apuesta de YouTube para hacer frente a Netflix, HBO y Prime Video' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/directo-mejores-ofertas-black-friday-1144767'>En directo: Las mejores ofertas de Black Friday</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/directo-mejores-ofertas-black-friday-1144767' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/portada-directo-black-friday-2851279.jpg' alt='En directo: Las mejores ofertas de Black Friday' />
     </a>
 </div>
 
