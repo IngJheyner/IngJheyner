@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/gaming/precio-fecha-lanzamiento-gafas-realidad-virtual-playstation-5-1149841'>Precio y fecha de lanzamiento de las gafas de Realidad Virtual para PlayStation 5</a></h4>
+    <a href='https://computerhoy.com/noticias/gaming/precio-fecha-lanzamiento-gafas-realidad-virtual-playstation-5-1149841' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/ps-vr2-2860803.jpg' alt='Precio y fecha de lanzamiento de las gafas de Realidad Virtual para PlayStation 5' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/youtube-primetime-channels-1149859'>La apuesta de YouTube para hacer frente a Netflix, HBO y Prime Video</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/youtube-primetime-channels-1149859' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/apuesta-youtube-hacer-frente-netflix-hbo-prime-video-2860847.jpg' alt='La apuesta de YouTube para hacer frente a Netflix, HBO y Prime Video' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/directo-mejores-ofertas-black-friday-1144767'>En directo: Las mejores ofertas de Black Friday</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/directo-mejores-ofertas-black-friday-1144767' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/portada-directo-black-friday-2851279.jpg' alt='En directo: Las mejores ofertas de Black Friday' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/motor/cinco-caracteristicas-no-debe-tener-proximo-coche-1149795'>Las cinco características que no debe tener tu próximo coche</a></h4>
     <a href='https://computerhoy.com/noticias/motor/cinco-caracteristicas-no-debe-tener-proximo-coche-1149795' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/pantalla-tactil-coche-2790267.jpg' alt='Las cinco características que no debe tener tu próximo coche' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-guardar-web-formato-pdf-windows-mac-1145745'>Cómo guardar una web en formato PDF en Windows y Mac</a></h4>
     <a href='https://computerhoy.com/tutoriales/tecnologia/como-guardar-web-formato-pdf-windows-mac-1145745' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/03/pdf_0.jpg' alt='Cómo guardar una web en formato PDF en Windows y Mac' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/nuevo-avance-baterias-iones-litio-genera-25-energia-extra-coches-electricos-1149771'>Un nuevo avance en las baterías de iones de litio genera hasta un 25% de energía extra en los coches eléctricos</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/nuevo-avance-baterias-iones-litio-genera-25-energia-extra-coches-electricos-1149771' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/nuevo-avance-baterias-iones-litio-genera-25-energia-extra-coches-electricos-2860611.jpg' alt='Un nuevo avance en las baterías de iones de litio genera hasta un 25% de energía extra en los coches eléctricos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/tumblr-permitira-imagenes-desnudos-artisticos-plataforma-1149763'>Tumblr permitirá imágenes de desnudos artísticos en su plataforma</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/tumblr-permitira-imagenes-desnudos-artisticos-plataforma-1149763' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/tumblr-2860593.jpg' alt='Tumblr permitirá imágenes de desnudos artísticos en su plataforma' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/mapa-mejores-paises-mundo-mudarse-espana-top-3-1149745'>Este es el mapa con los mejores países del mundo para mudarse: España en el top 3</a></h4>
-    <a href='https://computerhoy.com/noticias/life/mapa-mejores-paises-mundo-mudarse-espana-top-3-1149745' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/mapa-mejores-paises-mundo-mudarse-espana-top-3-2860495.jpg' alt='Este es el mapa con los mejores países del mundo para mudarse: España en el top 3' />
     </a>
 </div>
 
