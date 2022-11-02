@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/life/cuando-es-11-11-aliexpress-origen-descuentos-ofertas-1143967'>Cuándo es el 11.11 de AliExpress: origen de estos descuentos y ofertas del gigante chino</a></h4>
+    <a href='https://computerhoy.com/reportajes/life/cuando-es-11-11-aliexpress-origen-descuentos-ofertas-1143967' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/ilustracion-elementos-tienda-carrito-compra-bolsa-compra-regalos-2850263.jpg' alt='Cuándo es el 11.11 de AliExpress: origen de estos descuentos y ofertas del gigante chino' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/17-noticias-tecnologia-comenzar-manana-informado-ultimo-1149577'>17 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/17-noticias-tecnologia-comenzar-manana-informado-ultimo-1149577' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/17-noticias-tecnologia-comenzar-manana-informado-ultimo-2860101.jpg' alt='17 noticias de tecnología para comenzar la mañana informado de lo último' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/debes-saber-algunas-leches-compras-supermercado-csic-1149339'>Esto es lo que debes saber sobre algunas leches que compras en el supermercado, según el CSIC</a></h4>
     <a href='https://computerhoy.com/noticias/life/debes-saber-algunas-leches-compras-supermercado-csic-1149339' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/leche-supermercado-2648195.jpg' alt='Esto es lo que debes saber sobre algunas leches que compras en el supermercado, según el CSIC' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/dgt-cambia-sistema-notificacion-multas-afecta-conjunto-conductores-1149337'>La DGT cambia el sistema de notificación de multas y así afecta a este conjunto de conductores</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/dgt-cambia-sistema-notificacion-multas-afecta-conjunto-conductores-1149337' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/multa-coche-2859855.jpg' alt='La DGT cambia el sistema de notificación de multas y así afecta a este conjunto de conductores' />
     </a>
 </div>
 
