@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/estas-son-opciones-seguridad-privacidad-debes-activar-ahora-mismo-cuenta-whatsapp-1149957'>Estas son las opciones de seguridad y privacidad que debes activar ahora mismo en tu cuenta de WhatsApp</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/estas-son-opciones-seguridad-privacidad-debes-activar-ahora-mismo-cuenta-whatsapp-1149957' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/privacidad-whatsapp-2747425.jpg' alt='Estas son las opciones de seguridad y privacidad que debes activar ahora mismo en tu cuenta de WhatsApp' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/mejor-aceite-oliva-2022-tienes-lidl-poco-4-euros-1149953'>Este es el mejor aceite de oliva de 2022 y lo tienes en Lidl a poco más de 4 euros</a></h4>
+    <a href='https://computerhoy.com/noticias/life/mejor-aceite-oliva-2022-tienes-lidl-poco-4-euros-1149953' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/aceite-oliva-2861229.jpg' alt='Este es el mejor aceite de oliva de 2022 y lo tienes en Lidl a poco más de 4 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/huawei-pocket-s-oficial-movil-plegable-caracteristicas-precio-fecha-lanzamiento-1149945'>Huawei Pocket S ya es oficial, el móvil plegable más barato de Huawei</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/huawei-pocket-s-oficial-movil-plegable-caracteristicas-precio-fecha-lanzamiento-1149945' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/huawei-pocket-s-ya-oficial-movil-plegable-barato-huawei-2861213.jpg' alt='Huawei Pocket S ya es oficial, el móvil plegable más barato de Huawei' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-borrar-archivos-temporales-windows-11-hacer-espacio-1147609'>Cómo borrar archivos temporales en Windows 11 y hacer más espacio</a></h4>
     <a href='https://computerhoy.com/tutoriales/tecnologia/como-borrar-archivos-temporales-windows-11-hacer-espacio-1147609' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/windows-11-ordenador-portatil-2821013.jpg' alt='Cómo borrar archivos temporales en Windows 11 y hacer más espacio' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-tablets-para-leer-1054531'>Mejores tablets para leer que puedes comprar ahora mismo</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-tablets-para-leer-1054531' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/ipad-mini-6a-generacion-2021-analisis-opinion-2501975.jpg' alt='Mejores tablets para leer que puedes comprar ahora mismo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/netflix-basico-anuncios-series-no-estaran-the-crown-cobra-kai-1149893'>Netflix Básico con anuncios se estrena mañana y 5 grandes estudios con series en el top 10 aún no han firmado</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/netflix-basico-anuncios-series-no-estaran-the-crown-cobra-kai-1149893' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/netflix-basico-anuncios-estrena-manana-menos-5-grandes-estudios-series-top-10-no-estaran-2860951.jpg' alt='Netflix Básico con anuncios se estrena mañana y 5 grandes estudios con series en el top 10 aún no han firmado' />
     </a>
 </div>
 
