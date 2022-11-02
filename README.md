@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/televisor-samsung-4k-75-pulgadas-hdr-descuento-1149963'>Con el televisor Samsung 4K de 75 pulgadas y HDR verás el Mundial de Fútbol y Netflix como si estuvieses dentro, tiene un 35% de descuento</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/televisor-samsung-4k-75-pulgadas-hdr-descuento-1149963' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/televisor-samsung-4k-2852461.jpg' alt='Con el televisor Samsung 4K de 75 pulgadas y HDR verás el Mundial de Fútbol y Netflix como si estuvieses dentro, tiene un 35% de descuento' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/estas-son-opciones-seguridad-privacidad-debes-activar-ahora-mismo-cuenta-whatsapp-1149957'>Estas son las opciones de seguridad y privacidad que debes activar ahora mismo en tu cuenta de WhatsApp</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/estas-son-opciones-seguridad-privacidad-debes-activar-ahora-mismo-cuenta-whatsapp-1149957' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/privacidad-whatsapp-2747425.jpg' alt='Estas son las opciones de seguridad y privacidad que debes activar ahora mismo en tu cuenta de WhatsApp' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/listas/tecnologia/ponte-forma-estas-7-aplicaciones-moviles-android-1143023'>Ponte en forma con estas 7 aplicaciones para móviles Android</a></h4>
     <a href='https://computerhoy.com/listas/tecnologia/ponte-forma-estas-7-aplicaciones-moviles-android-1143023' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/ponte-forma-estas-7-aplicaciones-moviles-android-2857451.jpg' alt='Ponte en forma con estas 7 aplicaciones para móviles Android' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-borrar-archivos-temporales-windows-11-hacer-espacio-1147609'>Cómo borrar archivos temporales en Windows 11 y hacer más espacio</a></h4>
-    <a href='https://computerhoy.com/tutoriales/tecnologia/como-borrar-archivos-temporales-windows-11-hacer-espacio-1147609' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/windows-11-ordenador-portatil-2821013.jpg' alt='Cómo borrar archivos temporales en Windows 11 y hacer más espacio' />
     </a>
 </div>
 
