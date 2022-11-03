@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/23-noticias-tecnologia-comenzar-manana-informado-ultimo-1150187'>23 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/23-noticias-tecnologia-comenzar-manana-informado-ultimo-1150187' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/23-noticias-tecnologia-comenzar-manana-informado-ultimo-2861487.jpg' alt='23 noticias de tecnología para comenzar la mañana informado de lo último' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/dia-como-hoy-hace-13-anos-lanzo-twitter-espanol-1149923'>Un día como hoy, hace 13 años, se lanzó Twitter en español</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/dia-como-hoy-hace-13-anos-lanzo-twitter-espanol-1149923' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/aniversario-twitter-espanol-2861273.jpg' alt='Un día como hoy, hace 13 años, se lanzó Twitter en español' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/cupon-amazon-15-euros-black-friday-puedes-conseguir-minutos-1149675'>Cupón de Amazon de 15 euros para el Black Friday: así lo puedes conseguir en minutos</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/cupon-amazon-15-euros-black-friday-puedes-conseguir-minutos-1149675' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/amazon-photos-2860403.jpg' alt='Cupón de Amazon de 15 euros para el Black Friday: así lo puedes conseguir en minutos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/stardust-space-cenizas-personas-fallecidas-espacio-cohetes-spacex-1150181'>Stardust Space, la empresa española que enviará las cenizas de personas fallecidas al espacio, en cohetes de SpaceX</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/stardust-space-cenizas-personas-fallecidas-espacio-cohetes-spacex-1150181' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/stardust-space-empresa-espanola-enviara-cenizas-personas-fallecidas-espacio-cohetes-spacex-2861485.jpg' alt='Stardust Space, la empresa española que enviará las cenizas de personas fallecidas al espacio, en cohetes de SpaceX' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/empleados-twitter-durmiendo-oficina-exigencias-elon-musk-1149971'>Los empleados de Twitter están durmiendo en la oficina para cumplir las exigencias de Elon Musk</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/empleados-twitter-durmiendo-oficina-exigencias-elon-musk-1149971' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/empleados-twitter-estan-durmiendo-oficina-cumplir-exigencias-elon-musk-2861275.jpg' alt='Los empleados de Twitter están durmiendo en la oficina para cumplir las exigencias de Elon Musk' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/televisor-samsung-4k-75-pulgadas-hdr-descuento-1149963'>Con el televisor Samsung 4K de 75 pulgadas y HDR verás el Mundial de Fútbol como si estuvieses en el campo, tiene un 35% de descuento</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/televisor-samsung-4k-75-pulgadas-hdr-descuento-1149963' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/televisor-samsung-4k-2852461.jpg' alt='Con el televisor Samsung 4K de 75 pulgadas y HDR verás el Mundial de Fútbol como si estuvieses en el campo, tiene un 35% de descuento' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/estas-son-opciones-seguridad-privacidad-debes-activar-ahora-mismo-cuenta-whatsapp-1149957'>Estas son las opciones de seguridad y privacidad que debes activar ahora mismo en tu cuenta de WhatsApp</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/estas-son-opciones-seguridad-privacidad-debes-activar-ahora-mismo-cuenta-whatsapp-1149957' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/privacidad-whatsapp-2747425.jpg' alt='Estas son las opciones de seguridad y privacidad que debes activar ahora mismo en tu cuenta de WhatsApp' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/mejor-aceite-oliva-2022-tienes-lidl-poco-4-euros-1149953'>Este es el mejor aceite de oliva de 2022 y lo tienes en Lidl a poco más de 4 euros</a></h4>
-    <a href='https://computerhoy.com/noticias/life/mejor-aceite-oliva-2022-tienes-lidl-poco-4-euros-1149953' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/aceite-oliva-2861229.jpg' alt='Este es el mejor aceite de oliva de 2022 y lo tienes en Lidl a poco más de 4 euros' />
     </a>
 </div>
 
