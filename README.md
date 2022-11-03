@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/stardust-space-cenizas-personas-fallecidas-espacio-cohetes-spacex-1150181'>Stardust Space, la empresa española que enviará las cenizas de personas fallecidas al espacio, en cohetes de SpaceX</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/stardust-space-cenizas-personas-fallecidas-espacio-cohetes-spacex-1150181' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/stardust-space-empresa-espanola-enviara-cenizas-personas-fallecidas-espacio-cohetes-spacex-2861485.jpg' alt='Stardust Space, la empresa española que enviará las cenizas de personas fallecidas al espacio, en cohetes de SpaceX' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/empleados-twitter-durmiendo-oficina-exigencias-elon-musk-1149971'>Los empleados de Twitter están durmiendo en la oficina para cumplir las exigencias de Elon Musk</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/empleados-twitter-durmiendo-oficina-exigencias-elon-musk-1149971' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/empleados-twitter-estan-durmiendo-oficina-cumplir-exigencias-elon-musk-2861275.jpg' alt='Los empleados de Twitter están durmiendo en la oficina para cumplir las exigencias de Elon Musk' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/mejor-aceite-oliva-2022-tienes-lidl-poco-4-euros-1149953'>Este es el mejor aceite de oliva de 2022 y lo tienes en Lidl a poco más de 4 euros</a></h4>
     <a href='https://computerhoy.com/noticias/life/mejor-aceite-oliva-2022-tienes-lidl-poco-4-euros-1149953' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/aceite-oliva-2861229.jpg' alt='Este es el mejor aceite de oliva de 2022 y lo tienes en Lidl a poco más de 4 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/huawei-pocket-s-oficial-movil-plegable-caracteristicas-precio-fecha-lanzamiento-1149945'>Huawei Pocket S ya es oficial, el móvil plegable más barato de Huawei</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/huawei-pocket-s-oficial-movil-plegable-caracteristicas-precio-fecha-lanzamiento-1149945' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/huawei-pocket-s-ya-oficial-movil-plegable-barato-huawei-2861213.jpg' alt='Huawei Pocket S ya es oficial, el móvil plegable más barato de Huawei' />
     </a>
 </div>
 
