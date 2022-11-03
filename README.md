@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/empleados-twitter-durmiendo-oficina-exigencias-elon-musk-1149971'>Los empleados de Twitter están durmiendo en la oficina para cumplir las exigencias de Elon Musk</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/empleados-twitter-durmiendo-oficina-exigencias-elon-musk-1149971' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/empleados-twitter-estan-durmiendo-oficina-cumplir-exigencias-elon-musk-2861275.jpg' alt='Los empleados de Twitter están durmiendo en la oficina para cumplir las exigencias de Elon Musk' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/televisor-samsung-4k-75-pulgadas-hdr-descuento-1149963'>Con el televisor Samsung 4K de 75 pulgadas y HDR verás el Mundial de Fútbol y Netflix como si estuvieses dentro, tiene un 35% de descuento</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/televisor-samsung-4k-75-pulgadas-hdr-descuento-1149963' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/televisor-samsung-4k-2852461.jpg' alt='Con el televisor Samsung 4K de 75 pulgadas y HDR verás el Mundial de Fútbol y Netflix como si estuvieses dentro, tiene un 35% de descuento' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/huawei-pocket-s-oficial-movil-plegable-caracteristicas-precio-fecha-lanzamiento-1149945'>Huawei Pocket S ya es oficial, el móvil plegable más barato de Huawei</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/huawei-pocket-s-oficial-movil-plegable-caracteristicas-precio-fecha-lanzamiento-1149945' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/huawei-pocket-s-ya-oficial-movil-plegable-barato-huawei-2861213.jpg' alt='Huawei Pocket S ya es oficial, el móvil plegable más barato de Huawei' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/listas/tecnologia/ponte-forma-estas-7-aplicaciones-moviles-android-1143023'>Ponte en forma con estas 7 aplicaciones para móviles Android</a></h4>
-    <a href='https://computerhoy.com/listas/tecnologia/ponte-forma-estas-7-aplicaciones-moviles-android-1143023' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/ponte-forma-estas-7-aplicaciones-moviles-android-2857451.jpg' alt='Ponte en forma con estas 7 aplicaciones para móviles Android' />
     </a>
 </div>
 
