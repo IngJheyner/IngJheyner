@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/puedes-activar-funciones-ocultas-windows-11-descubrir-nuevas-caracteristicas-1150457'>Así puedes activar funciones ocultas de Windows 11 y descubrir nuevas características</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/puedes-activar-funciones-ocultas-windows-11-descubrir-nuevas-caracteristicas-1150457' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/puedes-activar-funciones-ocultas-windows-11-descubrir-nuevas-caracteristicas-2862129.jpg' alt='Así puedes activar funciones ocultas de Windows 11 y descubrir nuevas características' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/te-planteas-minar-criptomonedas-smartphone-estos-motivos-te-quitaran-idea-1150397'>¿Te planteas minar criptomonedas con tu smartphone? estos motivos te quitarán la idea</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/te-planteas-minar-criptomonedas-smartphone-estos-motivos-te-quitaran-idea-1150397' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/te-planteas-minar-criptomonedas-smartphone-estos-motivos-te-quitaran-idea-2861985.jpg' alt='¿Te planteas minar criptomonedas con tu smartphone? estos motivos te quitarán la idea' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/ilusion-optica-muestra-vemos-mal-colores-porque-cerebro-nos-engana-1150367'>Esta ilusión óptica muestra que vemos mal los colores porque nuestro cerebro nos engaña </a></h4>
     <a href='https://computerhoy.com/noticias/life/ilusion-optica-muestra-vemos-mal-colores-porque-cerebro-nos-engana-1150367' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/color-cuadrado-ilusion-optica-muestra-vemos-mal-colores-2861945.jpg' alt='Esta ilusión óptica muestra que vemos mal los colores porque nuestro cerebro nos engaña ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/apple-days-mediamarkt-ofertas-adelantan-black-friday-1150331'>Apple Days en MediaMarkt: Estas ofertas se adelantan al Black Friday</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/apple-days-mediamarkt-ofertas-adelantan-black-friday-1150331' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/apple-iphone-14-plus-analisis-opinion-2857685.jpg' alt='Apple Days en MediaMarkt: Estas ofertas se adelantan al Black Friday' />
     </a>
 </div>
 
