@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/ilusion-optica-muestra-vemos-mal-colores-porque-cerebro-nos-engana-1150367'>Esta ilusión óptica muestra que vemos mal los colores porque nuestro cerebro nos engaña </a></h4>
+    <a href='https://computerhoy.com/noticias/life/ilusion-optica-muestra-vemos-mal-colores-porque-cerebro-nos-engana-1150367' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/color-cuadrado-ilusion-optica-muestra-vemos-mal-colores-2861945.jpg' alt='Esta ilusión óptica muestra que vemos mal los colores porque nuestro cerebro nos engaña ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/apple-days-mediamarkt-ofertas-adelantan-black-friday-1150331'>Apple Days en MediaMarkt: Estas ofertas se adelantan al Black Friday</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/apple-days-mediamarkt-ofertas-adelantan-black-friday-1150331' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/apple-iphone-14-plus-analisis-opinion-2857685.jpg' alt='Apple Days en MediaMarkt: Estas ofertas se adelantan al Black Friday' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/puedes-obtener-verificacion-twitter-antes-elon-musk-active-plan-suscripcion-1150317'>Así puedes obtener la verificación de Twitter antes de que Elon Musk active su plan de suscripción</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/puedes-obtener-verificacion-twitter-antes-elon-musk-active-plan-suscripcion-1150317' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/puedes-obtener-verificacion-twitter-antes-elon-musk-ponga-marcha-plan-suscripcion-2861843.jpg' alt='Así puedes obtener la verificación de Twitter antes de que Elon Musk active su plan de suscripción' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/netflix-confirma-habra-segunda-temporada-mejores-series-2022-1150305'>Netflix confirma que habrá segunda temporada de una de sus mejores series de 2022</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/netflix-confirma-habra-segunda-temporada-mejores-series-2022-1150305' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/sandman-2777855.jpg' alt='Netflix confirma que habrá segunda temporada de una de sus mejores series de 2022' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/elon-musk-tiene-claro-siembra-panico-mitad-plantilla-twitter-sobra-1150295'>Elon Musk lo tiene claro y siembra el pánico: la mitad de la plantilla de Twitter sobra</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/elon-musk-tiene-claro-siembra-panico-mitad-plantilla-twitter-sobra-1150295' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/elon-musk-explica-porque-comprar-twitter-quiere-crear-aplicacion-todo-2833707.jpg' alt='Elon Musk lo tiene claro y siembra el pánico: la mitad de la plantilla de Twitter sobra' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/instagram-quiere-crees-vendas-nfts-app-1150281'>Instagram quiere que crees y vendas tus NFTs desde su app</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/instagram-quiere-crees-vendas-nfts-app-1150281' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/instagram-nfts-2861697.jpg' alt='Instagram quiere que crees y vendas tus NFTs desde su app' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/google-lanza-ai-test-kitchen-permitirte-criticar-entrenar-habilidades-lamda-1150249'>Google lanza AI Test Kitchen para permitirte criticar y entrenar las habilidades de LaMDA</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/google-lanza-ai-test-kitchen-permitirte-criticar-entrenar-habilidades-lamda-1150249' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/google-lanza-ai-test-kitchen-permitirte-criticar-entrenar-habilidades-lamda-2861741.jpg' alt='Google lanza AI Test Kitchen para permitirte criticar y entrenar las habilidades de LaMDA' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/laptops-week-amazon-5-portatiles-oferta-400eu-descuento-1149607'>Laptops Week en Amazon: 5 portátiles en oferta con hasta 400€ de descuento</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/laptops-week-amazon-5-portatiles-oferta-400eu-descuento-1149607' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/galeria-review-hp-victus-16-2544989.jpg' alt='Laptops Week en Amazon: 5 portátiles en oferta con hasta 400€ de descuento' />
     </a>
 </div>
 
