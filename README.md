@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/app-black-mirror-graba-todo-haces-dices-ves-mac-te-permite-rebobinar-verlo-nuevo-1150221'>La app Black Mirror que graba todo lo que haces, dices y ves en tu Mac y te permite rebobinar para verlo de nuevo</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/app-black-mirror-graba-todo-haces-dices-ves-mac-te-permite-rebobinar-verlo-nuevo-1150221' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/aplicacion-black-mirror-graba-todo-haces-dices-ves-ordenador-te-permite-rebobinar-volver-verlo-2861575.jpg' alt='La app Black Mirror que graba todo lo que haces, dices y ves en tu Mac y te permite rebobinar para verlo de nuevo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/mayor-actualizacion-anos-son-comunidades-llegan-whatsapp-1150217'>La mayor actualización en años: así son las Comunidades que llegan a WhatsApp</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/mayor-actualizacion-anos-son-comunidades-llegan-whatsapp-1150217' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/whatsapp-2792525.jpg' alt='La mayor actualización en años: así son las Comunidades que llegan a WhatsApp' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/directo-mejores-ofertas-black-friday-1144767'>En directo: Las mejores ofertas de Black Friday</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/directo-mejores-ofertas-black-friday-1144767' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/portada-directo-black-friday-2851279.jpg' alt='En directo: Las mejores ofertas de Black Friday' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/7-consejos-vencer-soledad-cansancio-cuando-teletrabaja-1149837'>7 consejos para vencer la soledad y el cansancio cuando se teletrabaja</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/7-consejos-vencer-soledad-cansancio-cuando-teletrabaja-1149837' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/teletrabajo-bien-distribuido-2584823.jpg' alt='7 consejos para vencer la soledad y el cansancio cuando se teletrabaja' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/23-noticias-tecnologia-comenzar-manana-informado-ultimo-1150187'>23 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/23-noticias-tecnologia-comenzar-manana-informado-ultimo-1150187' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/23-noticias-tecnologia-comenzar-manana-informado-ultimo-2861487.jpg' alt='23 noticias de tecnología para comenzar la mañana informado de lo último' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/dia-como-hoy-hace-13-anos-lanzo-twitter-espanol-1149923'>Un día como hoy, hace 13 años, se lanzó Twitter en español</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/dia-como-hoy-hace-13-anos-lanzo-twitter-espanol-1149923' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/aniversario-twitter-espanol-2861273.jpg' alt='Un día como hoy, hace 13 años, se lanzó Twitter en español' />
     </a>
 </div>
 
