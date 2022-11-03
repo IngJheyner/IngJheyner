@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/huawei-une-moda-relojes-modulares-watch-gt-cyber-puedes-cambiar-correa-carcasa-1150415'>Huawei se une a la moda de los relojes modulares con el Watch GT Cyber, puedes cambiar la correa y su carcasa</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/huawei-une-moda-relojes-modulares-watch-gt-cyber-puedes-cambiar-correa-carcasa-1150415' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/huawei-gt-cyber-2861981.jpg' alt='Huawei se une a la moda de los relojes modulares con el Watch GT Cyber, puedes cambiar la correa y su carcasa' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/apple-tiene-problemas-ultimo-brote-covid-china-ha-sido-fabricas-iphone-no-unica-1150393'>Apple tiene problemas: el último brote de COVID en China ha sido en una de sus fábricas de iPhone y no es la única</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/apple-tiene-problemas-ultimo-brote-covid-china-ha-sido-fabricas-iphone-no-unica-1150393' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/02/foxconn-1862893.jpg' alt='Apple tiene problemas: el último brote de COVID en China ha sido en una de sus fábricas de iPhone y no es la única' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/ilusion-optica-muestra-vemos-mal-colores-porque-cerebro-nos-engana-1150367'>Esta ilusión óptica muestra que vemos mal los colores porque nuestro cerebro nos engaña </a></h4>
     <a href='https://computerhoy.com/noticias/life/ilusion-optica-muestra-vemos-mal-colores-porque-cerebro-nos-engana-1150367' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/color-cuadrado-ilusion-optica-muestra-vemos-mal-colores-2861945.jpg' alt='Esta ilusión óptica muestra que vemos mal los colores porque nuestro cerebro nos engaña ' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/puedes-obtener-verificacion-twitter-antes-elon-musk-active-plan-suscripcion-1150317'>Así puedes obtener la verificación de Twitter antes de que Elon Musk active su plan de suscripción</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/puedes-obtener-verificacion-twitter-antes-elon-musk-active-plan-suscripcion-1150317' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/puedes-obtener-verificacion-twitter-antes-elon-musk-ponga-marcha-plan-suscripcion-2861843.jpg' alt='Así puedes obtener la verificación de Twitter antes de que Elon Musk active su plan de suscripción' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/netflix-confirma-habra-segunda-temporada-mejores-series-2022-1150305'>Netflix confirma que habrá segunda temporada de una de sus mejores series de 2022</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/netflix-confirma-habra-segunda-temporada-mejores-series-2022-1150305' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/sandman-2777855.jpg' alt='Netflix confirma que habrá segunda temporada de una de sus mejores series de 2022' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/elon-musk-tiene-claro-siembra-panico-mitad-plantilla-twitter-sobra-1150295'>Elon Musk lo tiene claro y siembra el pánico: la mitad de la plantilla de Twitter sobra</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/elon-musk-tiene-claro-siembra-panico-mitad-plantilla-twitter-sobra-1150295' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/elon-musk-explica-porque-comprar-twitter-quiere-crear-aplicacion-todo-2833707.jpg' alt='Elon Musk lo tiene claro y siembra el pánico: la mitad de la plantilla de Twitter sobra' />
     </a>
 </div>
 
