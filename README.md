@@ -50,9 +50,17 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/huawei-une-moda-relojes-modulares-watch-gt-cyber-puedes-cambiar-correa-carcasa-1150415'>Huawei se une a la moda de los relojes modulares con el Watch GT Cyber, puedes cambiar la correa y su carcasa</a></h4>
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/te-planteas-minar-criptomonedas-smartphone-estos-motivos-te-quitaran-idea-1150397'>¿Te planteas minar criptomonedas con tu smartphone? estos motivos te quitarán la idea</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/te-planteas-minar-criptomonedas-smartphone-estos-motivos-te-quitaran-idea-1150397' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/te-planteas-minar-criptomonedas-smartphone-estos-motivos-te-quitaran-idea-2861985.jpg' alt='¿Te planteas minar criptomonedas con tu smartphone? estos motivos te quitarán la idea' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/huawei-une-moda-relojes-modulares-watch-gt-cyber-puedes-cambiar-correa-carcasa-1150415'>Huawei lanza un smartwatch modular: el Watch GT Cyber puede cambiar de correa y carcasa</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/huawei-une-moda-relojes-modulares-watch-gt-cyber-puedes-cambiar-correa-carcasa-1150415' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/huawei-gt-cyber-2861981.jpg' alt='Huawei se une a la moda de los relojes modulares con el Watch GT Cyber, puedes cambiar la correa y su carcasa' />
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/huawei-gt-cyber-2861981.jpg' alt='Huawei lanza un smartwatch modular: el Watch GT Cyber puede cambiar de correa y carcasa' />
     </a>
 </div>
 
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/apple-days-mediamarkt-ofertas-adelantan-black-friday-1150331'>Apple Days en MediaMarkt: Estas ofertas se adelantan al Black Friday</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/apple-days-mediamarkt-ofertas-adelantan-black-friday-1150331' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/apple-iphone-14-plus-analisis-opinion-2857685.jpg' alt='Apple Days en MediaMarkt: Estas ofertas se adelantan al Black Friday' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/puedes-obtener-verificacion-twitter-antes-elon-musk-active-plan-suscripcion-1150317'>Así puedes obtener la verificación de Twitter antes de que Elon Musk active su plan de suscripción</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/puedes-obtener-verificacion-twitter-antes-elon-musk-active-plan-suscripcion-1150317' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/puedes-obtener-verificacion-twitter-antes-elon-musk-ponga-marcha-plan-suscripcion-2861843.jpg' alt='Así puedes obtener la verificación de Twitter antes de que Elon Musk active su plan de suscripción' />
     </a>
 </div>
 
