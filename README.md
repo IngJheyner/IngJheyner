@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/matter-ya-oficial-te-afectara-nuevo-estandar-amazon-apple-google-cambia-dispositivos-inteligentes-siempre-1150513'>Matter ya es oficial: así te afectará el nuevo estándar de Amazon, Apple y Google que cambia los dispositivos inteligentes para siempre</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/matter-ya-oficial-te-afectara-nuevo-estandar-amazon-apple-google-cambia-dispositivos-inteligentes-siempre-1150513' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/matter-ya-oficial-te-afectara-nuevo-estandar-amazon-apple-google-cambia-dispositivos-inteligentes-siempre-2862275.jpg' alt='Matter ya es oficial: así te afectará el nuevo estándar de Amazon, Apple y Google que cambia los dispositivos inteligentes para siempre' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/freidora-aceite-xiaomi-arrasa-previa-1111-precio-irrepetible-1149705'>La freidora sin aceite de Xiaomi arrasa en la previa del 11.11 con un precio irrepetible</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/freidora-aceite-xiaomi-arrasa-previa-1111-precio-irrepetible-1149705' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/xiaomi-mi-smart-air-fryer-2411675.jpg' alt='La freidora sin aceite de Xiaomi arrasa en la previa del 11.11 con un precio irrepetible' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/analisis-review-god-war-ragnarok-ps5-ps4-pro-1150453'>Análisis técnico de God of War Ragnarok en PS5 y PS4 Pro</a></h4>
     <a href='https://computerhoy.com/reportajes/analisis-review-god-war-ragnarok-ps5-ps4-pro-1150453' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/analisis-god-war-ragnarok-2862115.jpg' alt='Análisis técnico de God of War Ragnarok en PS5 y PS4 Pro' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/puedes-activar-funciones-ocultas-windows-11-descubrir-nuevas-caracteristicas-1150457'>Así puedes activar funciones ocultas de Windows 11 y descubrir nuevas características</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/puedes-activar-funciones-ocultas-windows-11-descubrir-nuevas-caracteristicas-1150457' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/puedes-activar-funciones-ocultas-windows-11-descubrir-nuevas-caracteristicas-2862129.jpg' alt='Así puedes activar funciones ocultas de Windows 11 y descubrir nuevas características' />
     </a>
 </div>
 
