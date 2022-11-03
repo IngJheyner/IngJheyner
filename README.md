@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/analisis-review-god-war-ragnarok-ps5-ps4-pro-1150453'>Análisis técnico de God of War Ragnarok en PS5 y PS4 Pro</a></h4>
+    <a href='https://computerhoy.com/reportajes/analisis-review-god-war-ragnarok-ps5-ps4-pro-1150453' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/analisis-god-war-ragnarok-2862115.jpg' alt='Análisis técnico de God of War Ragnarok en PS5 y PS4 Pro' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/puedes-activar-funciones-ocultas-windows-11-descubrir-nuevas-caracteristicas-1150457'>Así puedes activar funciones ocultas de Windows 11 y descubrir nuevas características</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/puedes-activar-funciones-ocultas-windows-11-descubrir-nuevas-caracteristicas-1150457' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/puedes-activar-funciones-ocultas-windows-11-descubrir-nuevas-caracteristicas-2862129.jpg' alt='Así puedes activar funciones ocultas de Windows 11 y descubrir nuevas características' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/apple-tiene-problemas-ultimo-brote-covid-china-ha-sido-fabricas-iphone-no-unica-1150393'>Apple tiene problemas: el último brote de COVID en China ha sido en una de sus fábricas de iPhone y no es la única</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/apple-tiene-problemas-ultimo-brote-covid-china-ha-sido-fabricas-iphone-no-unica-1150393' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/02/foxconn-1862893.jpg' alt='Apple tiene problemas: el último brote de COVID en China ha sido en una de sus fábricas de iPhone y no es la única' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/ilusion-optica-muestra-vemos-mal-colores-porque-cerebro-nos-engana-1150367'>Esta ilusión óptica muestra que vemos mal los colores porque nuestro cerebro nos engaña </a></h4>
-    <a href='https://computerhoy.com/noticias/life/ilusion-optica-muestra-vemos-mal-colores-porque-cerebro-nos-engana-1150367' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/color-cuadrado-ilusion-optica-muestra-vemos-mal-colores-2861945.jpg' alt='Esta ilusión óptica muestra que vemos mal los colores porque nuestro cerebro nos engaña ' />
     </a>
 </div>
 
