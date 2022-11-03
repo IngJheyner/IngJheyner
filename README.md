@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-descargar-videos-youtube-292203'>Cómo descargar un vídeo de YouTube en tu PC (2022)</a></h4>
+    <a href='https://computerhoy.com/tutoriales/tecnologia/como-descargar-videos-youtube-292203' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/youtube-2612035.jpg' alt='Cómo descargar un vídeo de YouTube en tu PC (2022)' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/futuro-whatsapp-juego-debido-ley-mercados-digitales-1150475'>El futuro de WhatsApp está en juego debido a la Ley de Mercados Digitales</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/futuro-whatsapp-juego-debido-ley-mercados-digitales-1150475' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/futuro-whatsapp-juego-debido-ley-mercados-digitales-2862161.jpg' alt='El futuro de WhatsApp está en juego debido a la Ley de Mercados Digitales' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/analisis-review-god-war-ragnarok-ps5-ps4-pro-1150453'>Análisis técnico de God of War Ragnarok en PS5 y PS4 Pro</a></h4>
     <a href='https://computerhoy.com/reportajes/analisis-review-god-war-ragnarok-ps5-ps4-pro-1150453' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/analisis-god-war-ragnarok-2862115.jpg' alt='Análisis técnico de God of War Ragnarok en PS5 y PS4 Pro' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/te-planteas-minar-criptomonedas-smartphone-estos-motivos-te-quitaran-idea-1150397'>¿Te planteas minar criptomonedas con tu smartphone? estos motivos te quitarán la idea</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/te-planteas-minar-criptomonedas-smartphone-estos-motivos-te-quitaran-idea-1150397' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/te-planteas-minar-criptomonedas-smartphone-estos-motivos-te-quitaran-idea-2861985.jpg' alt='¿Te planteas minar criptomonedas con tu smartphone? estos motivos te quitarán la idea' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/huawei-une-moda-relojes-modulares-watch-gt-cyber-puedes-cambiar-correa-carcasa-1150415'>Huawei lanza un smartwatch modular: el Watch GT Cyber puede cambiar de correa y carcasa</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/huawei-une-moda-relojes-modulares-watch-gt-cyber-puedes-cambiar-correa-carcasa-1150415' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/huawei-gt-cyber-2861981.jpg' alt='Huawei lanza un smartwatch modular: el Watch GT Cyber puede cambiar de correa y carcasa' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/apple-tiene-problemas-ultimo-brote-covid-china-ha-sido-fabricas-iphone-no-unica-1150393'>Apple tiene problemas: el último brote de COVID en China ha sido en una de sus fábricas de iPhone y no es la única</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/apple-tiene-problemas-ultimo-brote-covid-china-ha-sido-fabricas-iphone-no-unica-1150393' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/02/foxconn-1862893.jpg' alt='Apple tiene problemas: el último brote de COVID en China ha sido en una de sus fábricas de iPhone y no es la única' />
     </a>
 </div>
 
