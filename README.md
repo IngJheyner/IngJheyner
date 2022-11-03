@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/guia-compra-1111-trucos-consejos-aliexpress-962207'>Guía de compra del 11.11: trucos y consejos para comprar más barato en AliExpress</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/guia-compra-1111-trucos-consejos-aliexpress-962207' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/carrito-compra-ofertas-1111-2844513.jpg' alt='Guía de compra del 11.11: trucos y consejos para comprar más barato en AliExpress' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/7-consejos-vencer-soledad-cansancio-cuando-teletrabaja-1149837'>7 consejos para vencer la soledad y el cansancio cuando se teletrabaja</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/7-consejos-vencer-soledad-cansancio-cuando-teletrabaja-1149837' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/teletrabajo-bien-distribuido-2584823.jpg' alt='7 consejos para vencer la soledad y el cansancio cuando se teletrabaja' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/23-noticias-tecnologia-comenzar-manana-informado-ultimo-1150187'>23 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/23-noticias-tecnologia-comenzar-manana-informado-ultimo-1150187' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/23-noticias-tecnologia-comenzar-manana-informado-ultimo-2861487.jpg' alt='23 noticias de tecnología para comenzar la mañana informado de lo último' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/cupon-amazon-15-euros-black-friday-puedes-conseguir-minutos-1149675'>Cupón de Amazon de 15 euros para el Black Friday: así lo puedes conseguir en minutos</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/cupon-amazon-15-euros-black-friday-puedes-conseguir-minutos-1149675' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/amazon-photos-2860403.jpg' alt='Cupón de Amazon de 15 euros para el Black Friday: así lo puedes conseguir en minutos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/stardust-space-cenizas-personas-fallecidas-espacio-cohetes-spacex-1150181'>Stardust Space, la empresa española que enviará las cenizas de personas fallecidas al espacio, en cohetes de SpaceX</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/stardust-space-cenizas-personas-fallecidas-espacio-cohetes-spacex-1150181' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/stardust-space-empresa-espanola-enviara-cenizas-personas-fallecidas-espacio-cohetes-spacex-2861485.jpg' alt='Stardust Space, la empresa española que enviará las cenizas de personas fallecidas al espacio, en cohetes de SpaceX' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/empleados-twitter-durmiendo-oficina-exigencias-elon-musk-1149971'>Los empleados de Twitter están durmiendo en la oficina para cumplir las exigencias de Elon Musk</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/empleados-twitter-durmiendo-oficina-exigencias-elon-musk-1149971' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/empleados-twitter-estan-durmiendo-oficina-cumplir-exigencias-elon-musk-2861275.jpg' alt='Los empleados de Twitter están durmiendo en la oficina para cumplir las exigencias de Elon Musk' />
     </a>
 </div>
 
