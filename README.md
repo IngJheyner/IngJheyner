@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/netflix-confirma-habra-segunda-temporada-mejores-series-2022-1150305'>Netflix confirma que habrá segunda temporada de una de sus mejores series de 2022</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/netflix-confirma-habra-segunda-temporada-mejores-series-2022-1150305' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/sandman-2777855.jpg' alt='Netflix confirma que habrá segunda temporada de una de sus mejores series de 2022' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/elon-musk-tiene-claro-siembra-panico-mitad-plantilla-twitter-sobra-1150295'>Elon Musk lo tiene claro y siembra el pánico: la mitad de la plantilla de Twitter sobra</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/elon-musk-tiene-claro-siembra-panico-mitad-plantilla-twitter-sobra-1150295' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/elon-musk-explica-porque-comprar-twitter-quiere-crear-aplicacion-todo-2833707.jpg' alt='Elon Musk lo tiene claro y siembra el pánico: la mitad de la plantilla de Twitter sobra' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/instagram-quiere-crees-vendas-nfts-app-1150281'>Instagram quiere que crees y vendas tus NFTs desde su app</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/instagram-quiere-crees-vendas-nfts-app-1150281' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/instagram-nfts-2861697.jpg' alt='Instagram quiere que crees y vendas tus NFTs desde su app' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/google-lanza-ai-test-kitchen-permitirte-criticar-entrenar-habilidades-lamda-1150249'>Google lanza AI Test Kitchen para permitirte criticar y entrenar las habilidades de LaMDA</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/google-lanza-ai-test-kitchen-permitirte-criticar-entrenar-habilidades-lamda-1150249' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/google-lanza-ai-test-kitchen-permitirte-criticar-entrenar-habilidades-lamda-2861741.jpg' alt='Google lanza AI Test Kitchen para permitirte criticar y entrenar las habilidades de LaMDA' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/laptops-week-amazon-5-portatiles-oferta-400eu-descuento-1149607'>Laptops Week en Amazon: 5 portátiles en oferta con hasta 400€ de descuento</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/laptops-week-amazon-5-portatiles-oferta-400eu-descuento-1149607' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/galeria-review-hp-victus-16-2544989.jpg' alt='Laptops Week en Amazon: 5 portátiles en oferta con hasta 400€ de descuento' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/mejor-aplicacion-seguir-paquetes-gmail-justo-tiempo-black-friday-navidades-1150239'>Gmail se mete de lleno en el seguimiento de paquetes, justo a tiempo para Black Friday y Navidades</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/mejor-aplicacion-seguir-paquetes-gmail-justo-tiempo-black-friday-navidades-1150239' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/repartidor-paquetes-domicilio-2315955.jpg' alt='Gmail se mete de lleno en el seguimiento de paquetes, justo a tiempo para Black Friday y Navidades' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/app-black-mirror-graba-todo-haces-dices-ves-mac-te-permite-rebobinar-verlo-nuevo-1150221'>La app Black Mirror que graba todo lo que haces, dices y ves en tu Mac y te permite rebobinar para verlo de nuevo</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/app-black-mirror-graba-todo-haces-dices-ves-mac-te-permite-rebobinar-verlo-nuevo-1150221' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/aplicacion-black-mirror-graba-todo-haces-dices-ves-ordenador-te-permite-rebobinar-volver-verlo-2861575.jpg' alt='La app Black Mirror que graba todo lo que haces, dices y ves en tu Mac y te permite rebobinar para verlo de nuevo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/mayor-actualizacion-anos-son-comunidades-llegan-whatsapp-1150217'>La mayor actualización en años: así son las Comunidades que llegan a WhatsApp</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/mayor-actualizacion-anos-son-comunidades-llegan-whatsapp-1150217' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/whatsapp-2792525.jpg' alt='La mayor actualización en años: así son las Comunidades que llegan a WhatsApp' />
     </a>
 </div>
 
