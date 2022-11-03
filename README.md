@@ -58,9 +58,9 @@
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/televisor-samsung-4k-75-pulgadas-hdr-descuento-1149963'>Con el televisor Samsung 4K de 75 pulgadas y HDR verás el Mundial de Fútbol y Netflix como si estuvieses dentro, tiene un 35% de descuento</a></h4>
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/televisor-samsung-4k-75-pulgadas-hdr-descuento-1149963'>Con el televisor Samsung 4K de 75 pulgadas y HDR verás el Mundial de Fútbol como si estuvieses en el campo, tiene un 35% de descuento</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/televisor-samsung-4k-75-pulgadas-hdr-descuento-1149963' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/televisor-samsung-4k-2852461.jpg' alt='Con el televisor Samsung 4K de 75 pulgadas y HDR verás el Mundial de Fútbol y Netflix como si estuvieses dentro, tiene un 35% de descuento' />
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/televisor-samsung-4k-2852461.jpg' alt='Con el televisor Samsung 4K de 75 pulgadas y HDR verás el Mundial de Fútbol como si estuvieses en el campo, tiene un 35% de descuento' />
     </a>
 </div>
 
