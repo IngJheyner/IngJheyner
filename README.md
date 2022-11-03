@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/movil-plegable-samsung-galaxy-z-flip-4-descuento-solo-659-euros-1150581'>¿Tu primer móvil plegable? Samsung Galaxy Z Flip 4 con un 40% de descuento, ¡solo 659 euros!</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/movil-plegable-samsung-galaxy-z-flip-4-descuento-solo-659-euros-1150581' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/samsung-galaxy-z-flip-4-analisis-opinion-2802979.jpg' alt='¿Tu primer móvil plegable? Samsung Galaxy Z Flip 4 con un 40% de descuento, ¡solo 659 euros!' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/ultimo-movimiento-google-obligar-usuarios-utilizar-version-concreta-android-auto-1150499'>El último movimiento de Google es obligar a los usuarios a utilizar una versión concreta de Android Auto</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/ultimo-movimiento-google-obligar-usuarios-utilizar-version-concreta-android-auto-1150499' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/android-auto-2627735.jpg' alt='El último movimiento de Google es obligar a los usuarios a utilizar una versión concreta de Android Auto' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/motor/estos-son-70-nuevos-radares-ultima-generacion-acaba-comprar-dgt-son-practicamente-invisibles-1150565'>Estos son los 70 nuevos radares de última generación que acaba de comprar la DGT y son prácticamente invisibles</a></h4>
     <a href='https://computerhoy.com/noticias/motor/estos-son-70-nuevos-radares-ultima-generacion-acaba-comprar-dgt-son-practicamente-invisibles-1150565' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/radar-velolaser-2862317.jpg' alt='Estos son los 70 nuevos radares de última generación que acaba de comprar la DGT y son prácticamente invisibles' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/facua-iberdrola-ocultar-informacion-acerca-tarifas-reguladas-luz-gas-1150503'>Facua contra Iberdrola por ocultar información acerca de tarifas reguladas de luz y gas</a></h4>
     <a href='https://computerhoy.com/noticias/life/facua-iberdrola-ocultar-informacion-acerca-tarifas-reguladas-luz-gas-1150503' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/10/sede-iberdrola-madrid.jpg' alt='Facua contra Iberdrola por ocultar información acerca de tarifas reguladas de luz y gas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/alertan-caida-inminente-descontrolada-cohete-chino-proximas-horas-1150559'>Alertan de la caída inminente y descontrolada de un cohete chino en las próximas horas</a></h4>
-    <a href='https://computerhoy.com/noticias/life/alertan-caida-inminente-descontrolada-cohete-chino-proximas-horas-1150559' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/cohete-2862309.jpg' alt='Alertan de la caída inminente y descontrolada de un cohete chino en las próximas horas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/matter-ya-oficial-te-afectara-nuevo-estandar-amazon-apple-google-cambia-dispositivos-inteligentes-siempre-1150513'>Matter ya es oficial: así te afectará el nuevo estándar de Amazon, Apple y Google que cambia los dispositivos inteligentes para siempre</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/matter-ya-oficial-te-afectara-nuevo-estandar-amazon-apple-google-cambia-dispositivos-inteligentes-siempre-1150513' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/matter-ya-oficial-te-afectara-nuevo-estandar-amazon-apple-google-cambia-dispositivos-inteligentes-siempre-2862275.jpg' alt='Matter ya es oficial: así te afectará el nuevo estándar de Amazon, Apple y Google que cambia los dispositivos inteligentes para siempre' />
     </a>
 </div>
 
