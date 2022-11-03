@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/google-lanza-ai-test-kitchen-permitirte-criticar-entrenar-habilidades-lamda-1150249'>Google lanza AI Test Kitchen para permitirte criticar y entrenar las habilidades de LaMDA</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/google-lanza-ai-test-kitchen-permitirte-criticar-entrenar-habilidades-lamda-1150249' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/google-lanza-ai-test-kitchen-permitirte-criticar-entrenar-habilidades-lamda-2861741.jpg' alt='Google lanza AI Test Kitchen para permitirte criticar y entrenar las habilidades de LaMDA' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/laptops-week-amazon-5-portatiles-oferta-400eu-descuento-1149607'>Laptops Week en Amazon: 5 portátiles en oferta con hasta 400€ de descuento</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/laptops-week-amazon-5-portatiles-oferta-400eu-descuento-1149607' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/galeria-review-hp-victus-16-2544989.jpg' alt='Laptops Week en Amazon: 5 portátiles en oferta con hasta 400€ de descuento' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/mejor-aplicacion-seguir-paquetes-gmail-justo-tiempo-black-friday-navidades-1150239'>Gmail se mete de lleno en el seguimiento de paquetes, justo a tiempo para Black Friday y Navidades</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/mejor-aplicacion-seguir-paquetes-gmail-justo-tiempo-black-friday-navidades-1150239' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/repartidor-paquetes-domicilio-2315955.jpg' alt='Gmail se mete de lleno en el seguimiento de paquetes, justo a tiempo para Black Friday y Navidades' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/app-black-mirror-graba-todo-haces-dices-ves-mac-te-permite-rebobinar-verlo-nuevo-1150221'>La app Black Mirror que graba todo lo que haces, dices y ves en tu Mac y te permite rebobinar para verlo de nuevo</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/app-black-mirror-graba-todo-haces-dices-ves-mac-te-permite-rebobinar-verlo-nuevo-1150221' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/aplicacion-black-mirror-graba-todo-haces-dices-ves-ordenador-te-permite-rebobinar-volver-verlo-2861575.jpg' alt='La app Black Mirror que graba todo lo que haces, dices y ves en tu Mac y te permite rebobinar para verlo de nuevo' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/mayor-actualizacion-anos-son-comunidades-llegan-whatsapp-1150217'>La mayor actualización en años: así son las Comunidades que llegan a WhatsApp</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/mayor-actualizacion-anos-son-comunidades-llegan-whatsapp-1150217' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/whatsapp-2792525.jpg' alt='La mayor actualización en años: así son las Comunidades que llegan a WhatsApp' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/directo-mejores-ofertas-black-friday-1144767'>En directo: Las mejores ofertas de Black Friday</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/directo-mejores-ofertas-black-friday-1144767' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/portada-directo-black-friday-2851279.jpg' alt='En directo: Las mejores ofertas de Black Friday' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/guia-compra-1111-trucos-consejos-aliexpress-962207'>Guía de compra del 11.11: trucos y consejos para comprar más barato en AliExpress</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/guia-compra-1111-trucos-consejos-aliexpress-962207' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/carrito-compra-ofertas-1111-2844513.jpg' alt='Guía de compra del 11.11: trucos y consejos para comprar más barato en AliExpress' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/7-consejos-vencer-soledad-cansancio-cuando-teletrabaja-1149837'>7 consejos para vencer la soledad y el cansancio cuando se teletrabaja</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/7-consejos-vencer-soledad-cansancio-cuando-teletrabaja-1149837' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/teletrabajo-bien-distribuido-2584823.jpg' alt='7 consejos para vencer la soledad y el cansancio cuando se teletrabaja' />
     </a>
 </div>
 
