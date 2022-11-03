@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/directo-mejores-ofertas-black-friday-1144767'>En directo: Las mejores ofertas de Black Friday</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/directo-mejores-ofertas-black-friday-1144767' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/portada-directo-black-friday-2851279.jpg' alt='En directo: Las mejores ofertas de Black Friday' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/guia-compra-1111-trucos-consejos-aliexpress-962207'>Guía de compra del 11.11: trucos y consejos para comprar más barato en AliExpress</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/guia-compra-1111-trucos-consejos-aliexpress-962207' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/carrito-compra-ofertas-1111-2844513.jpg' alt='Guía de compra del 11.11: trucos y consejos para comprar más barato en AliExpress' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/dia-como-hoy-hace-13-anos-lanzo-twitter-espanol-1149923'>Un día como hoy, hace 13 años, se lanzó Twitter en español</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/dia-como-hoy-hace-13-anos-lanzo-twitter-espanol-1149923' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/aniversario-twitter-espanol-2861273.jpg' alt='Un día como hoy, hace 13 años, se lanzó Twitter en español' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/cupon-amazon-15-euros-black-friday-puedes-conseguir-minutos-1149675'>Cupón de Amazon de 15 euros para el Black Friday: así lo puedes conseguir en minutos</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/cupon-amazon-15-euros-black-friday-puedes-conseguir-minutos-1149675' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/amazon-photos-2860403.jpg' alt='Cupón de Amazon de 15 euros para el Black Friday: así lo puedes conseguir en minutos' />
     </a>
 </div>
 
