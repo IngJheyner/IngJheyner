@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/portatil-ultrafino-huawei-matebook-d14-intel-core-i7-windows-11-solo-649eu-1151185'>El portátil ultrafino Huawei Matebook D14 con Intel Core i7 y Windows 11, desde solo 649€</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/portatil-ultrafino-huawei-matebook-d14-intel-core-i7-windows-11-solo-649eu-1151185' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/portatil-ultrafino-huawei-matebook-d14-i7-solo-649eu-2863795.jpg' alt='El portátil ultrafino Huawei Matebook D14 con Intel Core i7 y Windows 11, desde solo 649€' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/lionsgate-plus-starzplay-cierra-en-espana-1151173'>Lionsgate+, antes Starzplay, abandona España un mes después de cambiar de nombre</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/lionsgate-plus-starzplay-cierra-en-espana-1151173' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/liongate-antes-starzplay-abandona-espana-mes-despues-cambiar-nombre-2863735.jpg' alt='Lionsgate+, antes Starzplay, abandona España un mes después de cambiar de nombre' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/life/tiendas-tendran-mejores-ofertas-black-friday-1148051'>Qué tiendas tendrán las mejores ofertas en el Black Friday</a></h4>
     <a href='https://computerhoy.com/reportajes/life/tiendas-tendran-mejores-ofertas-black-friday-1148051' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/maniquies-vestidos-tienda-ropa-ofertas-2857351.jpg' alt='Qué tiendas tendrán las mejores ofertas en el Black Friday' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/ofertas-black-friday-cecotec-1149769'>El Black Friday arranca su mes en Cecotec: estas son las mejores ofertas</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/ofertas-black-friday-cecotec-1149769' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/cecotec-mambo-touch-jarra-habana-2860747.jpg' alt='El Black Friday arranca su mes en Cecotec: estas son las mejores ofertas' />
     </a>
 </div>
 
