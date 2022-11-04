@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/mejores-alternativas-twitter-caso-cambios-elon-musk-no-te-gusten-1150593'>Las mejores alternativas a Twitter en caso de que los cambios de Elon Musk no te gusten</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/mejores-alternativas-twitter-caso-cambios-elon-musk-no-te-gusten-1150593' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/elon-musk-logo-twitter-2856029.jpg' alt='Las mejores alternativas a Twitter en caso de que los cambios de Elon Musk no te gusten' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/amd-tarjetas-graficas-rdna3-chiplet-radeon-rx-7900-xtx-7900-xt-1150599'>Las primeras tarjetas gráficas del mundo con chiplets, AMD Radeon RX 7900 XTX y 7900 XT, para competir con NVIDIA a menor precio</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/amd-tarjetas-graficas-rdna3-chiplet-radeon-rx-7900-xtx-7900-xt-1150599' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/amd-presenta-primeras-tarjetas-graficas-mundo-chiplets-radeon-rx-7900-xtx-7900-xt-competir-nvidia-menor-precio-2862407.jpg' alt='Las primeras tarjetas gráficas del mundo con chiplets, AMD Radeon RX 7900 XTX y 7900 XT, para competir con NVIDIA a menor precio' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/movil-plegable-samsung-galaxy-z-flip-4-descuento-solo-659-euros-1150581'>¿Tu primer móvil plegable? Samsung Galaxy Z Flip 4 con un 40% de descuento, ¡solo 659 euros!</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/movil-plegable-samsung-galaxy-z-flip-4-descuento-solo-659-euros-1150581' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/samsung-galaxy-z-flip-4-analisis-opinion-2802979.jpg' alt='¿Tu primer móvil plegable? Samsung Galaxy Z Flip 4 con un 40% de descuento, ¡solo 659 euros!' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/motor/estos-son-70-nuevos-radares-ultima-generacion-acaba-comprar-dgt-son-practicamente-invisibles-1150565'>Estos son los 70 nuevos radares de última generación que acaba de comprar la DGT y son prácticamente invisibles</a></h4>
     <a href='https://computerhoy.com/noticias/motor/estos-son-70-nuevos-radares-ultima-generacion-acaba-comprar-dgt-son-practicamente-invisibles-1150565' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/radar-velolaser-2862317.jpg' alt='Estos son los 70 nuevos radares de última generación que acaba de comprar la DGT y son prácticamente invisibles' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/plan-anuncios-netflix-no-funciona-apple-tv-1150575'>Más problemas para el plan con anuncios de Netflix: no funciona en algunos dispositivos</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/plan-anuncios-netflix-no-funciona-apple-tv-1150575' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/problemas-plan-anuncios-netflix-no-funciona-algunos-dispositivos-2862345.jpg' alt='Más problemas para el plan con anuncios de Netflix: no funciona en algunos dispositivos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/facua-iberdrola-ocultar-informacion-acerca-tarifas-reguladas-luz-gas-1150503'>Facua contra Iberdrola por ocultar información acerca de tarifas reguladas de luz y gas</a></h4>
-    <a href='https://computerhoy.com/noticias/life/facua-iberdrola-ocultar-informacion-acerca-tarifas-reguladas-luz-gas-1150503' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/10/sede-iberdrola-madrid.jpg' alt='Facua contra Iberdrola por ocultar información acerca de tarifas reguladas de luz y gas' />
     </a>
 </div>
 
