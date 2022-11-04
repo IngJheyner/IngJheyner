@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/nuevas-opciones-mensajes-autodestruyen-whatsapp-1150935'>Las nuevas opciones para mensajes que se autodestruyen en WhatsApp</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/nuevas-opciones-mensajes-autodestruyen-whatsapp-1150935' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/whatsapp-2862993.jpg' alt='Las nuevas opciones para mensajes que se autodestruyen en WhatsApp' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/puedes-cambiar-plan-netflix-borrar-cuenta-no-quieres-seguir-servicio-streaming-1150899'>Así puedes cambiar tu plan de Netflix o borrar tu cuenta si no quieres seguir con el servicio de streaming</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/puedes-cambiar-plan-netflix-borrar-cuenta-no-quieres-seguir-servicio-streaming-1150899' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/como-cambiar-plan-netflix-borrar-cuenta-subidas-precio-2862941.jpg' alt='Así puedes cambiar tu plan de Netflix o borrar tu cuenta si no quieres seguir con el servicio de streaming' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/directo-mejores-ofertas-black-friday-1144767'>En directo: Las mejores ofertas de Black Friday</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/directo-mejores-ofertas-black-friday-1144767' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/portada-directo-black-friday-2851279.jpg' alt='En directo: Las mejores ofertas de Black Friday' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/puedes-desactivar-cuenta-twitter-millon-usuarios-ha-hecho-llegada-elon-musk-1150883'>Así puedes desactivar tu cuenta de Twitter, más de un millón de usuarios lo ha hecho tras la llegada de Elon Musk</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/puedes-desactivar-cuenta-twitter-millon-usuarios-ha-hecho-llegada-elon-musk-1150883' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/twitter-2862755.jpg' alt='Así puedes desactivar tu cuenta de Twitter, más de un millón de usuarios lo ha hecho tras la llegada de Elon Musk' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/netflix-bloquea-siguientes-peliculas-series-plan-basico-anuncios-motivos-licencia-1150869'>Netflix bloquea las siguientes películas y series en su plan Básico con Anuncios por motivos de licencia</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/netflix-bloquea-siguientes-peliculas-series-plan-basico-anuncios-motivos-licencia-1150869' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/netflix-2810051.jpg' alt='Netflix bloquea las siguientes películas y series en su plan Básico con Anuncios por motivos de licencia' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-baratos-xiaomi-991847'>Estos son los mejores móviles baratos de Xiaomi en 2022</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-baratos-xiaomi-991847' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/galeria-review-xiaomi-11-lite-new-edition-2524247.jpg' alt='Estos son los mejores móviles baratos de Xiaomi en 2022' />
     </a>
 </div>
 
