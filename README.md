@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/wuanap-pro-collar-salvavidas-inteligente-disenado-espana-video-1150835'>Wuanap Pro, el collar salvavidas inteligente diseñado en España (vídeo)</a></h4>
+    <a href='https://computerhoy.com/noticias/life/wuanap-pro-collar-salvavidas-inteligente-disenado-espana-video-1150835' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/verticalimage1667524445830-2862677.jpg' alt='Wuanap Pro, el collar salvavidas inteligente diseñado en España (vídeo)' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/mejores-alternativas-twitter-caso-cambios-elon-musk-no-te-gusten-1150593'>Las mejores alternativas a Twitter en caso de que los cambios de Elon Musk no te gusten</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/mejores-alternativas-twitter-caso-cambios-elon-musk-no-te-gusten-1150593' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/elon-musk-logo-twitter-2856029.jpg' alt='Las mejores alternativas a Twitter en caso de que los cambios de Elon Musk no te gusten' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/ultimo-movimiento-google-obligar-usuarios-utilizar-version-concreta-android-auto-1150499'>El último movimiento de Google es obligar a los usuarios a utilizar una versión concreta de Android Auto</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/ultimo-movimiento-google-obligar-usuarios-utilizar-version-concreta-android-auto-1150499' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/android-auto-2627735.jpg' alt='El último movimiento de Google es obligar a los usuarios a utilizar una versión concreta de Android Auto' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/estos-son-70-nuevos-radares-ultima-generacion-acaba-comprar-dgt-son-practicamente-invisibles-1150565'>Estos son los 70 nuevos radares de última generación que acaba de comprar la DGT y son prácticamente invisibles</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/estos-son-70-nuevos-radares-ultima-generacion-acaba-comprar-dgt-son-practicamente-invisibles-1150565' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/radar-velolaser-2862317.jpg' alt='Estos son los 70 nuevos radares de última generación que acaba de comprar la DGT y son prácticamente invisibles' />
     </a>
 </div>
 
