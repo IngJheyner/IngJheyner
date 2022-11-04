@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/ganga-deportiva-runners-reloj-inteligente-huawei-109-euros-compra-segura-1145037'>Ganga deportiva para runners: este reloj inteligente de Huawei por 109 euros es una compra segura</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/ganga-deportiva-runners-reloj-inteligente-huawei-109-euros-compra-segura-1145037' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/huawei-watch-gt-2-2851671.jpg' alt='Ganga deportiva para runners: este reloj inteligente de Huawei por 109 euros es una compra segura' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/cohete-chino-control-chocara-tierra-mucho-cerca-espana-crees-1150977'>Un cohete chino sin control chocará contra la Tierra mucho más cerca de España de lo que crees</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/cohete-chino-control-chocara-tierra-mucho-cerca-espana-crees-1150977' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/cohete-chino-2863085.jpg' alt='Un cohete chino sin control chocará contra la Tierra mucho más cerca de España de lo que crees' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/oppo-find-x6-pro-une-club-sensores-top-camara-1-pulgada-1150975'>Oppo Find X6 Pro se une al club de los sensores más top de cámara de 1 pulgada</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/oppo-find-x6-pro-une-club-sensores-top-camara-1-pulgada-1150975' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/oppo-find-x6-pro-une-club-sensores-top-camara-1-pulgada-2863075.jpg' alt='Oppo Find X6 Pro se une al club de los sensores más top de cámara de 1 pulgada' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/nuevas-opciones-mensajes-autodestruyen-whatsapp-1150935'>Las nuevas opciones para mensajes que se autodestruyen en WhatsApp</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/nuevas-opciones-mensajes-autodestruyen-whatsapp-1150935' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/whatsapp-2862993.jpg' alt='Las nuevas opciones para mensajes que se autodestruyen en WhatsApp' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/puedes-cambiar-plan-netflix-borrar-cuenta-no-quieres-seguir-servicio-streaming-1150899'>Así puedes cambiar tu plan de Netflix o borrar tu cuenta si no quieres seguir con el servicio de streaming</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/puedes-cambiar-plan-netflix-borrar-cuenta-no-quieres-seguir-servicio-streaming-1150899' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/como-cambiar-plan-netflix-borrar-cuenta-subidas-precio-2862941.jpg' alt='Así puedes cambiar tu plan de Netflix o borrar tu cuenta si no quieres seguir con el servicio de streaming' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/directo-mejores-ofertas-black-friday-1144767'>En directo: Las mejores ofertas de Black Friday</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/directo-mejores-ofertas-black-friday-1144767' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/portada-directo-black-friday-2851279.jpg' alt='En directo: Las mejores ofertas de Black Friday' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/liquidacion-televisores-rebajas-500eu-modelos-oled-qled-tienda-espanola-1149891'>Liquidación en televisores: rebajas de hasta 500€ en modelos OLED y QLED en esta tienda española</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/liquidacion-televisores-rebajas-500eu-modelos-oled-qled-tienda-espanola-1149891' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/lg-oled-2546063.jpg' alt='Liquidación en televisores: rebajas de hasta 500€ en modelos OLED y QLED en esta tienda española' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/puedes-desactivar-cuenta-twitter-millon-usuarios-ha-hecho-llegada-elon-musk-1150883'>Así puedes desactivar tu cuenta de Twitter, más de un millón de usuarios lo ha hecho tras la llegada de Elon Musk</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/puedes-desactivar-cuenta-twitter-millon-usuarios-ha-hecho-llegada-elon-musk-1150883' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/twitter-2862755.jpg' alt='Así puedes desactivar tu cuenta de Twitter, más de un millón de usuarios lo ha hecho tras la llegada de Elon Musk' />
     </a>
 </div>
 
