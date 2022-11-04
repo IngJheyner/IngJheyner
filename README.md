@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/senales-debes-limpiar-lavavajillas-urgencia-experto-reparaciones-1150839'>Tres señales de que debes limpiar tu lavavajillas con urgencia, según un experto en reparaciones</a></h4>
+    <a href='https://computerhoy.com/noticias/life/senales-debes-limpiar-lavavajillas-urgencia-experto-reparaciones-1150839' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/tres-senales-debes-limpiar-lavavajillas-urgencia-experto-reparaciones-2862693.jpg' alt='Tres señales de que debes limpiar tu lavavajillas con urgencia, según un experto en reparaciones' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/wuanap-pro-collar-salvavidas-inteligente-disenado-espana-video-1150835'>Wuanap Pro, el collar salvavidas inteligente diseñado en España (vídeo)</a></h4>
     <a href='https://computerhoy.com/noticias/life/wuanap-pro-collar-salvavidas-inteligente-disenado-espana-video-1150835' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/verticalimage1667524445830-2862677.jpg' alt='Wuanap Pro, el collar salvavidas inteligente diseñado en España (vídeo)' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/movil-plegable-samsung-galaxy-z-flip-4-descuento-solo-659-euros-1150581'>¿Tu primer móvil plegable? Samsung Galaxy Z Flip 4 con un 40% de descuento, ¡solo 659 euros!</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/movil-plegable-samsung-galaxy-z-flip-4-descuento-solo-659-euros-1150581' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/samsung-galaxy-z-flip-4-analisis-opinion-2802979.jpg' alt='¿Tu primer móvil plegable? Samsung Galaxy Z Flip 4 con un 40% de descuento, ¡solo 659 euros!' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/ultimo-movimiento-google-obligar-usuarios-utilizar-version-concreta-android-auto-1150499'>El último movimiento de Google es obligar a los usuarios a utilizar una versión concreta de Android Auto</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/ultimo-movimiento-google-obligar-usuarios-utilizar-version-concreta-android-auto-1150499' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/android-auto-2627735.jpg' alt='El último movimiento de Google es obligar a los usuarios a utilizar una versión concreta de Android Auto' />
     </a>
 </div>
 
