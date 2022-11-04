@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/netflix-bloquea-siguientes-peliculas-series-plan-basico-anuncios-motivos-licencia-1150869'>Netflix bloquea las siguientes películas y series en su plan Básico con Anuncios por motivos de licencia</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/netflix-bloquea-siguientes-peliculas-series-plan-basico-anuncios-motivos-licencia-1150869' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/netflix-2810051.jpg' alt='Netflix bloquea las siguientes películas y series en su plan Básico con Anuncios por motivos de licencia' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-baratos-xiaomi-991847'>Estos son los mejores móviles baratos de Xiaomi en 2022</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-baratos-xiaomi-991847' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/galeria-review-xiaomi-11-lite-new-edition-2524247.jpg' alt='Estos son los mejores móviles baratos de Xiaomi en 2022' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/evita-estos-trucos-smartwatch-te-alergia-muneca-1150427'>Evita con estos trucos que tu smartwatch te dé alergia en la muñeca</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/evita-estos-trucos-smartwatch-te-alergia-muneca-1150427' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/11/mejores-smartwatch-chinos-baratos-2018_1.jpg' alt='Evita con estos trucos que tu smartwatch te dé alergia en la muñeca' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/internet-empena-decirte-tipo-gato-ti-1150535'>Internet se empeña en decirte qué tipo de gato es para ti</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/internet-empena-decirte-tipo-gato-ti-1150535' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/10/descubren-forma-comunicarse-gatos-guinando-cierta-forma-ojos-funciona-2101989.jpg' alt='Internet se empeña en decirte qué tipo de gato es para ti' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/tiendas-ofertas-especiales-11-11-1142045'>Ofertas del 11.11: qué tiendas tendrán ofertas especiales en este día</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/tiendas-ofertas-especiales-11-11-1142045' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/compras-internet-2846437.jpg' alt='Ofertas del 11.11: qué tiendas tendrán ofertas especiales en este día' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/senales-debes-limpiar-lavavajillas-urgencia-experto-reparaciones-1150839'>Tres señales de que debes limpiar tu lavavajillas con urgencia, según un experto en reparaciones</a></h4>
-    <a href='https://computerhoy.com/noticias/life/senales-debes-limpiar-lavavajillas-urgencia-experto-reparaciones-1150839' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/tres-senales-debes-limpiar-lavavajillas-urgencia-experto-reparaciones-2862693.jpg' alt='Tres señales de que debes limpiar tu lavavajillas con urgencia, según un experto en reparaciones' />
     </a>
 </div>
 
