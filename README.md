@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/ventas-smartphones-caeran-10-cara-navidad-2022-1151009'>Las ventas de smartphones caerán en más de un 10% de cara a Navidad de 2022</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/ventas-smartphones-caeran-10-cara-navidad-2022-1151009' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/ventas-smartphones-caeran-10-cara-navidad-2022-2863165.jpg' alt='Las ventas de smartphones caerán en más de un 10% de cara a Navidad de 2022' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/ganga-deportiva-runners-reloj-inteligente-huawei-109-euros-compra-segura-1145037'>Ganga deportiva para runners: este reloj inteligente de Huawei por 109 euros es una compra segura</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/ganga-deportiva-runners-reloj-inteligente-huawei-109-euros-compra-segura-1145037' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/huawei-watch-gt-2-2851671.jpg' alt='Ganga deportiva para runners: este reloj inteligente de Huawei por 109 euros es una compra segura' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/nuevas-opciones-mensajes-autodestruyen-whatsapp-1150935'>Las nuevas opciones para mensajes que se autodestruyen en WhatsApp</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/nuevas-opciones-mensajes-autodestruyen-whatsapp-1150935' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/whatsapp-2862993.jpg' alt='Las nuevas opciones para mensajes que se autodestruyen en WhatsApp' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/puedes-cambiar-plan-netflix-borrar-cuenta-no-quieres-seguir-servicio-streaming-1150899'>Así puedes cambiar tu plan de Netflix o borrar tu cuenta si no quieres seguir con el servicio de streaming</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/puedes-cambiar-plan-netflix-borrar-cuenta-no-quieres-seguir-servicio-streaming-1150899' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/como-cambiar-plan-netflix-borrar-cuenta-subidas-precio-2862941.jpg' alt='Así puedes cambiar tu plan de Netflix o borrar tu cuenta si no quieres seguir con el servicio de streaming' />
     </a>
 </div>
 
