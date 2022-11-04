@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/28-noticias-tecnologia-comenzar-manana-informado-ultimo-1150841'>28 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/28-noticias-tecnologia-comenzar-manana-informado-ultimo-1150841' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/28-noticias-tecnologia-comenzar-manana-informado-ultimo-2862695.jpg' alt='28 noticias de tecnología para comenzar la mañana informado de lo último' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/internet-empena-decirte-tipo-gato-ti-1150535'>Internet se empeña en decirte qué tipo de gato es para ti</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/internet-empena-decirte-tipo-gato-ti-1150535' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/10/descubren-forma-comunicarse-gatos-guinando-cierta-forma-ojos-funciona-2101989.jpg' alt='Internet se empeña en decirte qué tipo de gato es para ti' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/tiendas-ofertas-especiales-11-11-1142045'>Ofertas del 11.11: qué tiendas tendrán ofertas especiales en este día</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/tiendas-ofertas-especiales-11-11-1142045' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/compras-internet-2846437.jpg' alt='Ofertas del 11.11: qué tiendas tendrán ofertas especiales en este día' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/senales-debes-limpiar-lavavajillas-urgencia-experto-reparaciones-1150839'>Tres señales de que debes limpiar tu lavavajillas con urgencia, según un experto en reparaciones</a></h4>
     <a href='https://computerhoy.com/noticias/life/senales-debes-limpiar-lavavajillas-urgencia-experto-reparaciones-1150839' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/tres-senales-debes-limpiar-lavavajillas-urgencia-experto-reparaciones-2862693.jpg' alt='Tres señales de que debes limpiar tu lavavajillas con urgencia, según un experto en reparaciones' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/wuanap-pro-collar-salvavidas-inteligente-disenado-espana-video-1150835'>Wuanap Pro, el collar salvavidas inteligente diseñado en España (vídeo)</a></h4>
     <a href='https://computerhoy.com/noticias/life/wuanap-pro-collar-salvavidas-inteligente-disenado-espana-video-1150835' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/verticalimage1667524445830-2862677.jpg' alt='Wuanap Pro, el collar salvavidas inteligente diseñado en España (vídeo)' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/mejores-alternativas-twitter-caso-cambios-elon-musk-no-te-gusten-1150593'>Las mejores alternativas a Twitter en caso de que los cambios de Elon Musk no te gusten</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/mejores-alternativas-twitter-caso-cambios-elon-musk-no-te-gusten-1150593' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/elon-musk-logo-twitter-2856029.jpg' alt='Las mejores alternativas a Twitter en caso de que los cambios de Elon Musk no te gusten' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/amd-tarjetas-graficas-rdna3-chiplet-radeon-rx-7900-xtx-7900-xt-1150599'>Las primeras tarjetas gráficas del mundo con chiplets, AMD Radeon RX 7900 XTX y 7900 XT, para competir con NVIDIA a menor precio</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/amd-tarjetas-graficas-rdna3-chiplet-radeon-rx-7900-xtx-7900-xt-1150599' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/amd-presenta-primeras-tarjetas-graficas-mundo-chiplets-radeon-rx-7900-xtx-7900-xt-competir-nvidia-menor-precio-2862407.jpg' alt='Las primeras tarjetas gráficas del mundo con chiplets, AMD Radeon RX 7900 XTX y 7900 XT, para competir con NVIDIA a menor precio' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/movil-plegable-samsung-galaxy-z-flip-4-descuento-solo-659-euros-1150581'>¿Tu primer móvil plegable? Samsung Galaxy Z Flip 4 con un 40% de descuento, ¡solo 659 euros!</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/movil-plegable-samsung-galaxy-z-flip-4-descuento-solo-659-euros-1150581' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/samsung-galaxy-z-flip-4-analisis-opinion-2802979.jpg' alt='¿Tu primer móvil plegable? Samsung Galaxy Z Flip 4 con un 40% de descuento, ¡solo 659 euros!' />
     </a>
 </div>
 
