@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/life/tiendas-tendran-mejores-ofertas-black-friday-1148051'>Qué tiendas tendrán las mejores ofertas en el Black Friday</a></h4>
+    <a href='https://computerhoy.com/reportajes/life/tiendas-tendran-mejores-ofertas-black-friday-1148051' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/maniquies-vestidos-tienda-ropa-ofertas-2857351.jpg' alt='Qué tiendas tendrán las mejores ofertas en el Black Friday' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/ofertas-black-friday-cecotec-1149769'>El Black Friday arranca su mes en Cecotec: estas son las mejores ofertas</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/ofertas-black-friday-cecotec-1149769' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/cecotec-mambo-touch-jarra-habana-2860747.jpg' alt='El Black Friday arranca su mes en Cecotec: estas son las mejores ofertas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/10-mejores-emuladores-android-pc-952245'>Los 12 mejores emuladores Android para PC</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/10-mejores-emuladores-android-pc-952245' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/10-mejores-emuladores-android-pc-2509153.jpg' alt='Los 12 mejores emuladores Android para PC' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/series-ver-fin-semana-netflix-hbo-max-disney-criminales-videoclub-hospital-1151095'>Qué series ver este fin de semana en Netflix, HBO Max y Disney+: unos criminales, un videoclub y un hospital</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/series-ver-fin-semana-netflix-hbo-max-disney-criminales-videoclub-hospital-1151095' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/series-ver-fin-semana-3-4-5-noviembre-2022-2863581.jpg' alt='Qué series ver este fin de semana en Netflix, HBO Max y Disney+: unos criminales, un videoclub y un hospital' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/aprende-usar-medidor-sueno-smartwatch-estos-sencillos-trucos-1151109'>Aprende a usar el medidor del sueño de tu smartwatch con estos sencillos trucos</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/aprende-usar-medidor-sueno-smartwatch-estos-sencillos-trucos-1151109' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/apple-watch-series-8-analisis-opinion-2841947.jpg' alt='Aprende a usar el medidor del sueño de tu smartwatch con estos sencillos trucos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/peliculas-ver-fin-semana-netflix-movistar-plus-disney-enola-holmes-2-francotirador-vengativo-presencias-demoniacas-1151047'>Qué películas ver este fin de semana en Netflix, Movistar Plus+ y Disney+: Enola Holmes 2, un francotirador vengativo y presencias demoníacas</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/peliculas-ver-fin-semana-netflix-movistar-plus-disney-enola-holmes-2-francotirador-vengativo-presencias-demoniacas-1151047' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/peliculas-ver-fin-semana-netflix-movistar-plus-disney-enola-holmes-2-francotirador-vengativo-presencias-demoniacas-2863335.jpg' alt='Qué películas ver este fin de semana en Netflix, Movistar Plus+ y Disney+: Enola Holmes 2, un francotirador vengativo y presencias demoníacas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/no-busques-android-barato-original-hemos-probado-precio-xiaomi-1149845'>No busques más: este es el Android barato más original que hemos probado, y a precio de Xiaomi</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/no-busques-android-barato-original-hemos-probado-precio-xiaomi-1149845' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/analisis-pixel-6a-2765529.jpg' alt='No busques más: este es el Android barato más original que hemos probado, y a precio de Xiaomi' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/acer-swift-3-oled-review-opinion-1147059'>Acer Swift 3 OLED, análisis y opinión</a></h4>
-    <a href='https://computerhoy.com/analisis/acer-swift-3-oled-review-opinion-1147059' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/acer-swift-3-oled-2855485.jpg' alt='Acer Swift 3 OLED, análisis y opinión' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/son-drones-acuaticos-ha-usado-ucrania-golpear-flota-rusa-1151045'>Así son los drones acuáticos que ha usado Ucrania para golpear la flota rusa</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/son-drones-acuaticos-ha-usado-ucrania-golpear-flota-rusa-1151045' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/flota-barcos-rusa-2863373.jpg' alt='Así son los drones acuáticos que ha usado Ucrania para golpear la flota rusa' />
     </a>
 </div>
 
