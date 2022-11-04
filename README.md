@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/peliculas-ver-fin-semana-netflix-movistar-plus-disney-enola-holmes-2-francotirador-vengativo-presencias-demoniacas-1151047'>Qué películas ver este fin de semana en Netflix, Movistar Plus+ y Disney+: Enola Holmes 2, un francotirador vengativo y presencias demoníacas</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/peliculas-ver-fin-semana-netflix-movistar-plus-disney-enola-holmes-2-francotirador-vengativo-presencias-demoniacas-1151047' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/peliculas-ver-fin-semana-netflix-movistar-plus-disney-enola-holmes-2-francotirador-vengativo-presencias-demoniacas-2863335.jpg' alt='Qué películas ver este fin de semana en Netflix, Movistar Plus+ y Disney+: Enola Holmes 2, un francotirador vengativo y presencias demoníacas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/no-busques-android-barato-original-hemos-probado-precio-xiaomi-1149845'>No busques más: este es el Android barato más original que hemos probado, y a precio de Xiaomi</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/no-busques-android-barato-original-hemos-probado-precio-xiaomi-1149845' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/analisis-pixel-6a-2765529.jpg' alt='No busques más: este es el Android barato más original que hemos probado, y a precio de Xiaomi' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/ventas-smartphones-caeran-10-cara-navidad-2022-1151009'>Las ventas de smartphones caerán en más de un 10% de cara a Navidad de 2022</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/ventas-smartphones-caeran-10-cara-navidad-2022-1151009' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/ventas-smartphones-caeran-10-cara-navidad-2022-2863165.jpg' alt='Las ventas de smartphones caerán en más de un 10% de cara a Navidad de 2022' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/ganga-deportiva-runners-reloj-inteligente-huawei-109-euros-compra-segura-1145037'>Ganga deportiva para runners: este reloj inteligente de Huawei por 109 euros es una compra segura</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/ganga-deportiva-runners-reloj-inteligente-huawei-109-euros-compra-segura-1145037' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/huawei-watch-gt-2-2851671.jpg' alt='Ganga deportiva para runners: este reloj inteligente de Huawei por 109 euros es una compra segura' />
     </a>
 </div>
 
