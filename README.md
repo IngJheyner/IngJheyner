@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/no-busques-android-barato-original-hemos-probado-precio-xiaomi-1149845'>No busques más: este es el Android barato más original que hemos probado, y a precio de Xiaomi</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/no-busques-android-barato-original-hemos-probado-precio-xiaomi-1149845' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/analisis-pixel-6a-2765529.jpg' alt='No busques más: este es el Android barato más original que hemos probado, y a precio de Xiaomi' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/analisis/acer-swift-3-oled-review-opinion-1147059'>Acer Swift 3 OLED, análisis y opinión</a></h4>
+    <a href='https://computerhoy.com/analisis/acer-swift-3-oled-review-opinion-1147059' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/acer-swift-3-oled-2855485.jpg' alt='Acer Swift 3 OLED, análisis y opinión' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/son-drones-acuaticos-ha-usado-ucrania-golpear-flota-rusa-1151045'>Así son los drones acuáticos que ha usado Ucrania para golpear la flota rusa</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/son-drones-acuaticos-ha-usado-ucrania-golpear-flota-rusa-1151045' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/flota-barcos-rusa-2863373.jpg' alt='Así son los drones acuáticos que ha usado Ucrania para golpear la flota rusa' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/ventas-smartphones-caeran-10-cara-navidad-2022-1151009'>Las ventas de smartphones caerán en más de un 10% de cara a Navidad de 2022</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/ventas-smartphones-caeran-10-cara-navidad-2022-1151009' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/ventas-smartphones-caeran-10-cara-navidad-2022-2863165.jpg' alt='Las ventas de smartphones caerán en más de un 10% de cara a Navidad de 2022' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/ganga-deportiva-runners-reloj-inteligente-huawei-109-euros-compra-segura-1145037'>Ganga deportiva para runners: este reloj inteligente de Huawei por 109 euros es una compra segura</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/ganga-deportiva-runners-reloj-inteligente-huawei-109-euros-compra-segura-1145037' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/huawei-watch-gt-2-2851671.jpg' alt='Ganga deportiva para runners: este reloj inteligente de Huawei por 109 euros es una compra segura' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/cohete-chino-control-chocara-tierra-mucho-cerca-espana-crees-1150977'>Un cohete chino sin control chocará contra la Tierra mucho más cerca de España de lo que crees</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/cohete-chino-control-chocara-tierra-mucho-cerca-espana-crees-1150977' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/cohete-chino-2863085.jpg' alt='Un cohete chino sin control chocará contra la Tierra mucho más cerca de España de lo que crees' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/oppo-find-x6-pro-une-club-sensores-top-camara-1-pulgada-1150975'>Oppo Find X6 Pro se une al club de los sensores más top de cámara de 1 pulgada</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/oppo-find-x6-pro-une-club-sensores-top-camara-1-pulgada-1150975' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/oppo-find-x6-pro-une-club-sensores-top-camara-1-pulgada-2863075.jpg' alt='Oppo Find X6 Pro se une al club de los sensores más top de cámara de 1 pulgada' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/nuevas-opciones-mensajes-autodestruyen-whatsapp-1150935'>Las nuevas opciones para mensajes que se autodestruyen en WhatsApp</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/nuevas-opciones-mensajes-autodestruyen-whatsapp-1150935' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/whatsapp-2862993.jpg' alt='Las nuevas opciones para mensajes que se autodestruyen en WhatsApp' />
     </a>
 </div>
 
