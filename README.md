@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/aprende-usar-medidor-sueno-smartwatch-estos-sencillos-trucos-1151109'>Aprende a usar el medidor del sueño de tu smartwatch con estos sencillos trucos</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/aprende-usar-medidor-sueno-smartwatch-estos-sencillos-trucos-1151109' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/apple-watch-series-8-analisis-opinion-2841947.jpg' alt='Aprende a usar el medidor del sueño de tu smartwatch con estos sencillos trucos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/peliculas-ver-fin-semana-netflix-movistar-plus-disney-enola-holmes-2-francotirador-vengativo-presencias-demoniacas-1151047'>Qué películas ver este fin de semana en Netflix, Movistar Plus+ y Disney+: Enola Holmes 2, un francotirador vengativo y presencias demoníacas</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/peliculas-ver-fin-semana-netflix-movistar-plus-disney-enola-holmes-2-francotirador-vengativo-presencias-demoniacas-1151047' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/peliculas-ver-fin-semana-netflix-movistar-plus-disney-enola-holmes-2-francotirador-vengativo-presencias-demoniacas-2863335.jpg' alt='Qué películas ver este fin de semana en Netflix, Movistar Plus+ y Disney+: Enola Holmes 2, un francotirador vengativo y presencias demoníacas' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/son-drones-acuaticos-ha-usado-ucrania-golpear-flota-rusa-1151045'>Así son los drones acuáticos que ha usado Ucrania para golpear la flota rusa</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/son-drones-acuaticos-ha-usado-ucrania-golpear-flota-rusa-1151045' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/flota-barcos-rusa-2863373.jpg' alt='Así son los drones acuáticos que ha usado Ucrania para golpear la flota rusa' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/ventas-smartphones-caeran-10-cara-navidad-2022-1151009'>Las ventas de smartphones caerán en más de un 10% de cara a Navidad de 2022</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/ventas-smartphones-caeran-10-cara-navidad-2022-1151009' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/ventas-smartphones-caeran-10-cara-navidad-2022-2863165.jpg' alt='Las ventas de smartphones caerán en más de un 10% de cara a Navidad de 2022' />
     </a>
 </div>
 
