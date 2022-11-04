@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/evita-estos-trucos-smartwatch-te-alergia-muneca-1150427'>Evita con estos trucos que tu smartwatch te dé alergia en la muñeca</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/evita-estos-trucos-smartwatch-te-alergia-muneca-1150427' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/11/mejores-smartwatch-chinos-baratos-2018_1.jpg' alt='Evita con estos trucos que tu smartwatch te dé alergia en la muñeca' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/28-noticias-tecnologia-comenzar-manana-informado-ultimo-1150841'>28 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/28-noticias-tecnologia-comenzar-manana-informado-ultimo-1150841' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/28-noticias-tecnologia-comenzar-manana-informado-ultimo-2862695.jpg' alt='28 noticias de tecnología para comenzar la mañana informado de lo último' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/senales-debes-limpiar-lavavajillas-urgencia-experto-reparaciones-1150839'>Tres señales de que debes limpiar tu lavavajillas con urgencia, según un experto en reparaciones</a></h4>
     <a href='https://computerhoy.com/noticias/life/senales-debes-limpiar-lavavajillas-urgencia-experto-reparaciones-1150839' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/tres-senales-debes-limpiar-lavavajillas-urgencia-experto-reparaciones-2862693.jpg' alt='Tres señales de que debes limpiar tu lavavajillas con urgencia, según un experto en reparaciones' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/wuanap-pro-collar-salvavidas-inteligente-disenado-espana-video-1150835'>Wuanap Pro, el collar salvavidas inteligente diseñado en España (vídeo)</a></h4>
-    <a href='https://computerhoy.com/noticias/life/wuanap-pro-collar-salvavidas-inteligente-disenado-espana-video-1150835' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/verticalimage1667524445830-2862677.jpg' alt='Wuanap Pro, el collar salvavidas inteligente diseñado en España (vídeo)' />
     </a>
 </div>
 
