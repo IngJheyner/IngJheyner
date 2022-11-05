@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/starlink-introducira-limite-datos-partir-diciembre-funciona-1151411'>Starlink introducirá “un límite de datos” a partir de diciembre: así funciona</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/starlink-introducira-limite-datos-partir-diciembre-funciona-1151411' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/starlink-2864051.jpg' alt='Starlink introducirá “un límite de datos” a partir de diciembre: así funciona' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/analisis/samsung-galaxy-book2-pro-review-opinion-1151183'>Samsung Galaxy Book2 Pro, análisis y opinión</a></h4>
+    <a href='https://computerhoy.com/analisis/samsung-galaxy-book2-pro-review-opinion-1151183' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/samsung-galaxy-book2-pro-analisis-opinion-2863787.jpg' alt='Samsung Galaxy Book2 Pro, análisis y opinión' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/microsoft-planea-lanzar-ordenadores-economicos-windows-respaldados-anuncios-suscripciones-1151403'>Microsoft planea lanzar ordenadores económicos con Windows respaldados por anuncios y suscripciones</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/microsoft-planea-lanzar-ordenadores-economicos-windows-respaldados-anuncios-suscripciones-1151403' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/windows-11-2864029.jpg' alt='Microsoft planea lanzar ordenadores económicos con Windows respaldados por anuncios y suscripciones' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-crear-mapa-calor-excel-1149817'>Cómo crear un mapa de calor en Excel</a></h4>
     <a href='https://computerhoy.com/tutoriales/tecnologia/como-crear-mapa-calor-excel-1149817' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/portada-microsoft-excel-2801475.jpg' alt='Cómo crear un mapa de calor en Excel' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/primera-tienda-fisica-google-espana-casa-inteligente-1151375'>La primera tienda física de Google en España es una casa inteligente</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/primera-tienda-fisica-google-espana-casa-inteligente-1151375' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/google-casa-inteligente-2862071.jpg' alt='La primera tienda física de Google en España es una casa inteligente' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/asus-rog-phone-6-pro-review-opinion-1149609'>Asus ROG Phone 6 Pro, análisis y opinión</a></h4>
-    <a href='https://computerhoy.com/analisis/asus-rog-phone-6-pro-review-opinion-1149609' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/review-asus-rog-phone-6-pro-2863529.jpg' alt='Asus ROG Phone 6 Pro, análisis y opinión' />
     </a>
 </div>
 
