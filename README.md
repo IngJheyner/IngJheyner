@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/deshumidificador-me-compro-guia-consejos-adquirir-mejor-opcion-1144379'>¿Qué deshumidificador me compro? Guía y consejos para adquirir la mejor opción</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/deshumidificador-me-compro-guia-consejos-adquirir-mejor-opcion-1144379' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/deshumidificador-2850683.jpg' alt='¿Qué deshumidificador me compro? Guía y consejos para adquirir la mejor opción' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/whatsapp-tablets-aparece-ultima-beta-android-1151441'>"WhatsApp para tablets" aparece en la última beta para Android</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/whatsapp-tablets-aparece-ultima-beta-android-1151441' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/whatsapp-tablets-2864099.jpg' alt='"WhatsApp para tablets" aparece en la última beta para Android' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/vas-tener-pagar-hbo-max-cuando-fusione-discovery-2023-1151439'>Vas a tener que pagar más por HBO Max cuando se fusione con Discovery+ en 2023</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/vas-tener-pagar-hbo-max-cuando-fusione-discovery-2023-1151439' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/hbo-max-2512227.jpg' alt='Vas a tener que pagar más por HBO Max cuando se fusione con Discovery+ en 2023' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/avance-permite-enviar-mensajes-ipad-usando-solo-mente-1151423'>Este avance permite enviar mensajes con un iPad usando solo la mente</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/avance-permite-enviar-mensajes-ipad-usando-solo-mente-1151423' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/controlar-movil-mente-2864075.jpg' alt='Este avance permite enviar mensajes con un iPad usando solo la mente' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/entretenimiento/peliculas-series-agujeros-negros-estan-llenas-ideas-1149907'>7 películas y series sobre agujeros negros que están llenas de ideas</a></h4>
-    <a href='https://computerhoy.com/reportajes/entretenimiento/peliculas-series-agujeros-negros-estan-llenas-ideas-1149907' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/doctor-strange-multiverso-locura-2685811.jpg' alt='7 películas y series sobre agujeros negros que están llenas de ideas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/starlink-introducira-limite-datos-partir-diciembre-funciona-1151411'>Starlink introducirá “un límite de datos” a partir de diciembre: así funciona</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/starlink-introducira-limite-datos-partir-diciembre-funciona-1151411' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/starlink-2864051.jpg' alt='Starlink introducirá “un límite de datos” a partir de diciembre: así funciona' />
     </a>
 </div>
 
