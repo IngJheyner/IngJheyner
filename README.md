@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/vas-tener-pagar-hbo-max-cuando-fusione-discovery-2023-1151439'>Vas a tener que pagar más por HBO Max cuando se fusione con Discovery+ en 2023</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/vas-tener-pagar-hbo-max-cuando-fusione-discovery-2023-1151439' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/hbo-max-2512227.jpg' alt='Vas a tener que pagar más por HBO Max cuando se fusione con Discovery+ en 2023' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/puedes-descargar-maquinas-virtuales-oficiales-gratis-basadas-windows-11-1151431'>Así puedes descargar máquinas virtuales oficiales y gratis basadas en Windows 11</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/puedes-descargar-maquinas-virtuales-oficiales-gratis-basadas-windows-11-1151431' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/windows-11-2864091.jpg' alt='Así puedes descargar máquinas virtuales oficiales y gratis basadas en Windows 11' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/starlink-introducira-limite-datos-partir-diciembre-funciona-1151411'>Starlink introducirá “un límite de datos” a partir de diciembre: así funciona</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/starlink-introducira-limite-datos-partir-diciembre-funciona-1151411' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/starlink-2864051.jpg' alt='Starlink introducirá “un límite de datos” a partir de diciembre: así funciona' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/samsung-galaxy-book2-pro-review-opinion-1151183'>Samsung Galaxy Book2 Pro, análisis y opinión</a></h4>
-    <a href='https://computerhoy.com/analisis/samsung-galaxy-book2-pro-review-opinion-1151183' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/samsung-galaxy-book2-pro-analisis-opinion-2863787.jpg' alt='Samsung Galaxy Book2 Pro, análisis y opinión' />
     </a>
 </div>
 
