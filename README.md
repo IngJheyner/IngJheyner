@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/quien-mani-thawani-esconde-detras-polemico-guru-emprendedor-criptomonedas-1148017'>Quién es Mani Thawani y qué se esconde detrás de este polémico gurú y emprendedor de las criptomonedas </a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/quien-mani-thawani-esconde-detras-polemico-guru-emprendedor-criptomonedas-1148017' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/quien-mani-thawani-esconde-detras-polemico-guru-emprendedor-criptomonedas-2859277.jpg' alt='Quién es Mani Thawani y qué se esconde detrás de este polémico gurú y emprendedor de las criptomonedas ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-crear-mapa-calor-excel-1149817'>Cómo crear un mapa de calor en Excel</a></h4>
+    <a href='https://computerhoy.com/tutoriales/tecnologia/como-crear-mapa-calor-excel-1149817' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/portada-microsoft-excel-2801475.jpg' alt='Cómo crear un mapa de calor en Excel' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/primera-tienda-fisica-google-espana-casa-inteligente-1151375'>La primera tienda física de Google en España es una casa inteligente</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/primera-tienda-fisica-google-espana-casa-inteligente-1151375' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/google-casa-inteligente-2862071.jpg' alt='La primera tienda física de Google en España es una casa inteligente' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/movil-solo-necesita-12-mpx-buen-cerebro-1148735'>Tu móvil solo necesita 12 Mpx y un buen cerebro</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/movil-solo-necesita-12-mpx-buen-cerebro-1148735' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/xiaomi-12t-xiaomi-12t-pro-2829151.jpg' alt='Tu móvil solo necesita 12 Mpx y un buen cerebro' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/7-moviles-xiaomi-precio-saldo-quizas-no-seran-baratos-black-friday-1150909'>7 móviles Xiaomi a precio de saldo que quizás no serán más baratos en el Black Friday</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/7-moviles-xiaomi-precio-saldo-quizas-no-seran-baratos-black-friday-1150909' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/galeria-review-xiaomi-12-2695467.jpg' alt='7 móviles Xiaomi a precio de saldo que quizás no serán más baratos en el Black Friday' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/modifican-iphone-pasar-2-horas-cargar-9-minutos-carga-rapida-1150985'>Modifican un iPhone para pasar de 2 horas a cargar en 9 minutos</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/modifican-iphone-pasar-2-horas-cargar-9-minutos-carga-rapida-1150985' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/modifican-iphone-pasar-2-horas-cargar-9-minutos-2863037.jpg' alt='Modifican un iPhone para pasar de 2 horas a cargar en 9 minutos' />
     </a>
 </div>
 
