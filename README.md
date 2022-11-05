@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/puedes-descargar-maquinas-virtuales-oficiales-gratis-basadas-windows-11-1151431'>Así puedes descargar máquinas virtuales oficiales y gratis basadas en Windows 11</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/puedes-descargar-maquinas-virtuales-oficiales-gratis-basadas-windows-11-1151431' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/windows-11-2864091.jpg' alt='Así puedes descargar máquinas virtuales oficiales y gratis basadas en Windows 11' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/avance-permite-enviar-mensajes-ipad-usando-solo-mente-1151423'>Este avance permite enviar mensajes con un iPad usando solo la mente</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/avance-permite-enviar-mensajes-ipad-usando-solo-mente-1151423' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/controlar-movil-mente-2864075.jpg' alt='Este avance permite enviar mensajes con un iPad usando solo la mente' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/analisis/samsung-galaxy-book2-pro-review-opinion-1151183'>Samsung Galaxy Book2 Pro, análisis y opinión</a></h4>
     <a href='https://computerhoy.com/analisis/samsung-galaxy-book2-pro-review-opinion-1151183' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/samsung-galaxy-book2-pro-analisis-opinion-2863787.jpg' alt='Samsung Galaxy Book2 Pro, análisis y opinión' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/microsoft-planea-lanzar-ordenadores-economicos-windows-respaldados-anuncios-suscripciones-1151403'>Microsoft planea lanzar ordenadores económicos con Windows respaldados por anuncios y suscripciones</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/microsoft-planea-lanzar-ordenadores-economicos-windows-respaldados-anuncios-suscripciones-1151403' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/windows-11-2864029.jpg' alt='Microsoft planea lanzar ordenadores económicos con Windows respaldados por anuncios y suscripciones' />
     </a>
 </div>
 
