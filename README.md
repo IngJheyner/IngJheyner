@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/microsoft-planea-lanzar-ordenadores-economicos-windows-respaldados-anuncios-suscripciones-1151403'>Microsoft planea lanzar ordenadores económicos con Windows respaldados por anuncios y suscripciones</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/microsoft-planea-lanzar-ordenadores-economicos-windows-respaldados-anuncios-suscripciones-1151403' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/windows-11-2864029.jpg' alt='Microsoft planea lanzar ordenadores económicos con Windows respaldados por anuncios y suscripciones' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/quien-mani-thawani-esconde-detras-polemico-guru-emprendedor-criptomonedas-1148017'>Quién es Mani Thawani y qué se esconde detrás de este polémico gurú y emprendedor de las criptomonedas </a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/quien-mani-thawani-esconde-detras-polemico-guru-emprendedor-criptomonedas-1148017' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/quien-mani-thawani-esconde-detras-polemico-guru-emprendedor-criptomonedas-2859277.jpg' alt='Quién es Mani Thawani y qué se esconde detrás de este polémico gurú y emprendedor de las criptomonedas ' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/analisis/asus-rog-phone-6-pro-review-opinion-1149609'>Asus ROG Phone 6 Pro, análisis y opinión</a></h4>
     <a href='https://computerhoy.com/analisis/asus-rog-phone-6-pro-review-opinion-1149609' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/review-asus-rog-phone-6-pro-2863529.jpg' alt='Asus ROG Phone 6 Pro, análisis y opinión' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/movil-solo-necesita-12-mpx-buen-cerebro-1148735'>Tu móvil solo necesita 12 Mpx y un buen cerebro</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/movil-solo-necesita-12-mpx-buen-cerebro-1148735' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/xiaomi-12t-xiaomi-12t-pro-2829151.jpg' alt='Tu móvil solo necesita 12 Mpx y un buen cerebro' />
     </a>
 </div>
 
