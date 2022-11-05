@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/elon-musk-quiere-puedas-enviar-mensajes-directos-celebridades-twitter-cambio-precio-1151443'>Elon Musk quiere que puedas enviar mensajes directos a las celebridades en Twitter, a cambio de un precio</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/elon-musk-quiere-puedas-enviar-mensajes-directos-celebridades-twitter-cambio-precio-1151443' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/twitter-2864101.jpg' alt='Elon Musk quiere que puedas enviar mensajes directos a las celebridades en Twitter, a cambio de un precio' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/samsung-galaxy-a12-pros-contras-1118517'>Samsung Galaxy A12: ¿merece la pena? Pros y contras del móvil barato de Samsung</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/samsung-galaxy-a12-pros-contras-1118517' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/samsung-galaxy-a12-2802109.jpg' alt='Samsung Galaxy A12: ¿merece la pena? Pros y contras del móvil barato de Samsung' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/deshumidificador-me-compro-guia-consejos-adquirir-mejor-opcion-1144379'>¿Qué deshumidificador me compro? Guía y consejos para adquirir la mejor opción</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/deshumidificador-me-compro-guia-consejos-adquirir-mejor-opcion-1144379' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/deshumidificador-2850683.jpg' alt='¿Qué deshumidificador me compro? Guía y consejos para adquirir la mejor opción' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/vas-tener-pagar-hbo-max-cuando-fusione-discovery-2023-1151439'>Vas a tener que pagar más por HBO Max cuando se fusione con Discovery+ en 2023</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/vas-tener-pagar-hbo-max-cuando-fusione-discovery-2023-1151439' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/hbo-max-2512227.jpg' alt='Vas a tener que pagar más por HBO Max cuando se fusione con Discovery+ en 2023' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/puedes-descargar-maquinas-virtuales-oficiales-gratis-basadas-windows-11-1151431'>Así puedes descargar máquinas virtuales oficiales y gratis basadas en Windows 11</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/puedes-descargar-maquinas-virtuales-oficiales-gratis-basadas-windows-11-1151431' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/windows-11-2864091.jpg' alt='Así puedes descargar máquinas virtuales oficiales y gratis basadas en Windows 11' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/avance-permite-enviar-mensajes-ipad-usando-solo-mente-1151423'>Este avance permite enviar mensajes con un iPad usando solo la mente</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/avance-permite-enviar-mensajes-ipad-usando-solo-mente-1151423' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/controlar-movil-mente-2864075.jpg' alt='Este avance permite enviar mensajes con un iPad usando solo la mente' />
     </a>
 </div>
 
