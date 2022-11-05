@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/crucigrama-mejor-sudoku-wordle-entrenar-memoria-1151365'>Estudio descubre que un clásico pasatiempo es mejor que los Sudoku o Wordle para entrenar la memoria</a></h4>
+    <a href='https://computerhoy.com/noticias/life/crucigrama-mejor-sudoku-wordle-entrenar-memoria-1151365' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/estudio-descubre-clasico-pasatiempo-mejor-sudokus-wordle-entrenar-memoria-2863975.jpg' alt='Estudio descubre que un clásico pasatiempo es mejor que los Sudoku o Wordle para entrenar la memoria' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/motor/tesla-desarrolladores-videojuegos-coches-tesla-1151363'>Tesla pidió a desarrolladores llevar sus juegos a la pantalla de sus coches sin pagarles dinero, porque es "buena exposición" para ellos</a></h4>
     <a href='https://computerhoy.com/noticias/motor/tesla-desarrolladores-videojuegos-coches-tesla-1151363' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/ya-puedes-tener-android-auto-carplay-coche-tesla-gracias-hack-2849791.jpg' alt='Tesla pidió a desarrolladores llevar sus juegos a la pantalla de sus coches sin pagarles dinero, porque es "buena exposición" para ellos' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/lionsgate-plus-starzplay-cierra-en-espana-1151173'>Lionsgate+, antes Starzplay, abandona España un mes después de cambiar de nombre</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/lionsgate-plus-starzplay-cierra-en-espana-1151173' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/liongate-antes-starzplay-abandona-espana-mes-despues-cambiar-nombre-2863735.jpg' alt='Lionsgate+, antes Starzplay, abandona España un mes después de cambiar de nombre' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/estos-son-todos-dispositivos-no-compatibles-nuevo-plan-suscripcion-publicidad-netflix-comprueba-1151171'>Estos son todos los dispositivos no compatibles con el nuevo plan de suscripción con publicidad de Netflix: comprueba si está el tuyo</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/estos-son-todos-dispositivos-no-compatibles-nuevo-plan-suscripcion-publicidad-netflix-comprueba-1151171' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/netflix-2863731.jpg' alt='Estos son todos los dispositivos no compatibles con el nuevo plan de suscripción con publicidad de Netflix: comprueba si está el tuyo' />
     </a>
 </div>
 
