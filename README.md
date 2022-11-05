@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/primera-tienda-fisica-google-espana-casa-inteligente-1151375'>La primera tienda física de Google en España es una casa inteligente</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/primera-tienda-fisica-google-espana-casa-inteligente-1151375' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/google-casa-inteligente-2862071.jpg' alt='La primera tienda física de Google en España es una casa inteligente' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/analisis/asus-rog-phone-6-pro-review-opinion-1149609'>Asus ROG Phone 6 Pro, análisis y opinión</a></h4>
+    <a href='https://computerhoy.com/analisis/asus-rog-phone-6-pro-review-opinion-1149609' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/review-asus-rog-phone-6-pro-2863529.jpg' alt='Asus ROG Phone 6 Pro, análisis y opinión' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/movil-solo-necesita-12-mpx-buen-cerebro-1148735'>Tu móvil solo necesita 12 Mpx y un buen cerebro</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/movil-solo-necesita-12-mpx-buen-cerebro-1148735' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/xiaomi-12t-xiaomi-12t-pro-2829151.jpg' alt='Tu móvil solo necesita 12 Mpx y un buen cerebro' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/modifican-iphone-pasar-2-horas-cargar-9-minutos-carga-rapida-1150985'>Modifican un iPhone para pasar de 2 horas a cargar en 9 minutos</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/modifican-iphone-pasar-2-horas-cargar-9-minutos-carga-rapida-1150985' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/modifican-iphone-pasar-2-horas-cargar-9-minutos-2863037.jpg' alt='Modifican un iPhone para pasar de 2 horas a cargar en 9 minutos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/donde-comprar-nintendo-switch-oled-espana-mejor-precio-915083'>Dónde comprar la Nintendo Switch OLED en España al mejor precio</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/donde-comprar-nintendo-switch-oled-espana-mejor-precio-915083' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/analisis-nintendo-switch-oled-2508425.jpg' alt='Dónde comprar la Nintendo Switch OLED en España al mejor precio' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/crucigrama-mejor-sudoku-wordle-entrenar-memoria-1151365'>Estudio descubre que un clásico pasatiempo es mejor que los Sudoku o Wordle para ejercitar la memoria</a></h4>
-    <a href='https://computerhoy.com/noticias/life/crucigrama-mejor-sudoku-wordle-entrenar-memoria-1151365' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/estudio-descubre-clasico-pasatiempo-mejor-sudokus-wordle-entrenar-memoria-2863975.jpg' alt='Estudio descubre que un clásico pasatiempo es mejor que los Sudoku o Wordle para ejercitar la memoria' />
     </a>
 </div>
 
