@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/avance-permite-enviar-mensajes-ipad-usando-solo-mente-1151423'>Este avance permite enviar mensajes con un iPad usando solo la mente</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/avance-permite-enviar-mensajes-ipad-usando-solo-mente-1151423' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/controlar-movil-mente-2864075.jpg' alt='Este avance permite enviar mensajes con un iPad usando solo la mente' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/entretenimiento/peliculas-series-agujeros-negros-estan-llenas-ideas-1149907'>7 películas y series sobre agujeros negros que están llenas de ideas</a></h4>
+    <a href='https://computerhoy.com/reportajes/entretenimiento/peliculas-series-agujeros-negros-estan-llenas-ideas-1149907' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/doctor-strange-multiverso-locura-2685811.jpg' alt='7 películas y series sobre agujeros negros que están llenas de ideas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/starlink-introducira-limite-datos-partir-diciembre-funciona-1151411'>Starlink introducirá “un límite de datos” a partir de diciembre: así funciona</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/starlink-introducira-limite-datos-partir-diciembre-funciona-1151411' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/starlink-2864051.jpg' alt='Starlink introducirá “un límite de datos” a partir de diciembre: así funciona' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/microsoft-planea-lanzar-ordenadores-economicos-windows-respaldados-anuncios-suscripciones-1151403'>Microsoft planea lanzar ordenadores económicos con Windows respaldados por anuncios y suscripciones</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/microsoft-planea-lanzar-ordenadores-economicos-windows-respaldados-anuncios-suscripciones-1151403' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/windows-11-2864029.jpg' alt='Microsoft planea lanzar ordenadores económicos con Windows respaldados por anuncios y suscripciones' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/quien-mani-thawani-esconde-detras-polemico-guru-emprendedor-criptomonedas-1148017'>Quién es Mani Thawani y qué se esconde detrás de este polémico gurú y emprendedor de las criptomonedas </a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/quien-mani-thawani-esconde-detras-polemico-guru-emprendedor-criptomonedas-1148017' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/quien-mani-thawani-esconde-detras-polemico-guru-emprendedor-criptomonedas-2859277.jpg' alt='Quién es Mani Thawani y qué se esconde detrás de este polémico gurú y emprendedor de las criptomonedas ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-crear-mapa-calor-excel-1149817'>Cómo crear un mapa de calor en Excel</a></h4>
-    <a href='https://computerhoy.com/tutoriales/tecnologia/como-crear-mapa-calor-excel-1149817' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/portada-microsoft-excel-2801475.jpg' alt='Cómo crear un mapa de calor en Excel' />
     </a>
 </div>
 
