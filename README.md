@@ -50,9 +50,17 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/crucigrama-mejor-sudoku-wordle-entrenar-memoria-1151365'>Estudio descubre que un clásico pasatiempo es mejor que los Sudoku o Wordle para entrenar la memoria</a></h4>
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/donde-comprar-nintendo-switch-oled-espana-mejor-precio-915083'>Dónde comprar la Nintendo Switch OLED en España al mejor precio</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/donde-comprar-nintendo-switch-oled-espana-mejor-precio-915083' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/analisis-nintendo-switch-oled-2508425.jpg' alt='Dónde comprar la Nintendo Switch OLED en España al mejor precio' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/crucigrama-mejor-sudoku-wordle-entrenar-memoria-1151365'>Estudio descubre que un clásico pasatiempo es mejor que los Sudoku o Wordle para ejercitar la memoria</a></h4>
     <a href='https://computerhoy.com/noticias/life/crucigrama-mejor-sudoku-wordle-entrenar-memoria-1151365' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/estudio-descubre-clasico-pasatiempo-mejor-sudokus-wordle-entrenar-memoria-2863975.jpg' alt='Estudio descubre que un clásico pasatiempo es mejor que los Sudoku o Wordle para entrenar la memoria' />
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/estudio-descubre-clasico-pasatiempo-mejor-sudokus-wordle-entrenar-memoria-2863975.jpg' alt='Estudio descubre que un clásico pasatiempo es mejor que los Sudoku o Wordle para ejercitar la memoria' />
     </a>
 </div>
 
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/portatil-ultrafino-huawei-matebook-d14-intel-core-i7-windows-11-solo-649eu-1151185'>El portátil ultrafino Huawei Matebook D14 con Intel Core i7 y Windows 11, desde solo 649€</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/portatil-ultrafino-huawei-matebook-d14-intel-core-i7-windows-11-solo-649eu-1151185' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/portatil-ultrafino-huawei-matebook-d14-i7-solo-649eu-2863795.jpg' alt='El portátil ultrafino Huawei Matebook D14 con Intel Core i7 y Windows 11, desde solo 649€' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/lionsgate-plus-starzplay-cierra-en-espana-1151173'>Lionsgate+, antes Starzplay, abandona España un mes después de cambiar de nombre</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/lionsgate-plus-starzplay-cierra-en-espana-1151173' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/liongate-antes-starzplay-abandona-espana-mes-despues-cambiar-nombre-2863735.jpg' alt='Lionsgate+, antes Starzplay, abandona España un mes después de cambiar de nombre' />
     </a>
 </div>
 
