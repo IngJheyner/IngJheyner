@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/todas-novedades-android-auto-85-como-descargar-beta-forma-segura-1151461'>Todas las novedades de Android Auto 8.5 y cómo descargar la beta de forma segura</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/todas-novedades-android-auto-85-como-descargar-beta-forma-segura-1151461' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/android-auto-2627735.jpg' alt='Todas las novedades de Android Auto 8.5 y cómo descargar la beta de forma segura' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/elon-musk-quiere-puedas-enviar-mensajes-directos-celebridades-twitter-cambio-precio-1151443'>Elon Musk quiere que puedas enviar mensajes directos a las celebridades en Twitter, a cambio de un precio</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/elon-musk-quiere-puedas-enviar-mensajes-directos-celebridades-twitter-cambio-precio-1151443' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/twitter-2864101.jpg' alt='Elon Musk quiere que puedas enviar mensajes directos a las celebridades en Twitter, a cambio de un precio' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/whatsapp-tablets-aparece-ultima-beta-android-1151441'>"WhatsApp para tablets" aparece en la última beta para Android</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/whatsapp-tablets-aparece-ultima-beta-android-1151441' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/whatsapp-tablets-2864099.jpg' alt='"WhatsApp para tablets" aparece en la última beta para Android' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/vas-tener-pagar-hbo-max-cuando-fusione-discovery-2023-1151439'>Vas a tener que pagar más por HBO Max cuando se fusione con Discovery+ en 2023</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/vas-tener-pagar-hbo-max-cuando-fusione-discovery-2023-1151439' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/hbo-max-2512227.jpg' alt='Vas a tener que pagar más por HBO Max cuando se fusione con Discovery+ en 2023' />
     </a>
 </div>
 
