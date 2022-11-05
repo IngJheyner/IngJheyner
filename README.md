@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/movil-solo-necesita-12-mpx-buen-cerebro-1148735'>Tu móvil solo necesita 12 Mpx y un buen cerebro</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/movil-solo-necesita-12-mpx-buen-cerebro-1148735' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/xiaomi-12t-xiaomi-12t-pro-2829151.jpg' alt='Tu móvil solo necesita 12 Mpx y un buen cerebro' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/7-moviles-xiaomi-precio-saldo-quizas-no-seran-baratos-black-friday-1150909'>7 móviles Xiaomi a precio de saldo que quizás no serán más baratos en el Black Friday</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/7-moviles-xiaomi-precio-saldo-quizas-no-seran-baratos-black-friday-1150909' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/galeria-review-xiaomi-12-2695467.jpg' alt='7 móviles Xiaomi a precio de saldo que quizás no serán más baratos en el Black Friday' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/modifican-iphone-pasar-2-horas-cargar-9-minutos-carga-rapida-1150985'>Modifican un iPhone para pasar de 2 horas a cargar en 9 minutos</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/modifican-iphone-pasar-2-horas-cargar-9-minutos-carga-rapida-1150985' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/modifican-iphone-pasar-2-horas-cargar-9-minutos-2863037.jpg' alt='Modifican un iPhone para pasar de 2 horas a cargar en 9 minutos' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/crucigrama-mejor-sudoku-wordle-entrenar-memoria-1151365'>Estudio descubre que un clásico pasatiempo es mejor que los Sudoku o Wordle para ejercitar la memoria</a></h4>
     <a href='https://computerhoy.com/noticias/life/crucigrama-mejor-sudoku-wordle-entrenar-memoria-1151365' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/estudio-descubre-clasico-pasatiempo-mejor-sudokus-wordle-entrenar-memoria-2863975.jpg' alt='Estudio descubre que un clásico pasatiempo es mejor que los Sudoku o Wordle para ejercitar la memoria' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/tesla-desarrolladores-videojuegos-coches-tesla-1151363'>Tesla pidió a desarrolladores llevar sus juegos a la pantalla de sus coches sin pagarles dinero, porque es "buena exposición" para ellos</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/tesla-desarrolladores-videojuegos-coches-tesla-1151363' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/ya-puedes-tener-android-auto-carplay-coche-tesla-gracias-hack-2849791.jpg' alt='Tesla pidió a desarrolladores llevar sus juegos a la pantalla de sus coches sin pagarles dinero, porque es "buena exposición" para ellos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/hbo-cancela-westworld-1151189'>Nadie es intocable: HBO cancela Westworld</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/hbo-cancela-westworld-1151189' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/westworld-2624285.jpg' alt='Nadie es intocable: HBO cancela Westworld' />
     </a>
 </div>
 
