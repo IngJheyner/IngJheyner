@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/hbo-cancela-westworld-1151189'>Nadie es intocable: HBO cancela Westworld</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/hbo-cancela-westworld-1151189' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/westworld-2624285.jpg' alt='Nadie es intocable: HBO cancela Westworld' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/portatil-ultrafino-huawei-matebook-d14-intel-core-i7-windows-11-solo-649eu-1151185'>El portátil ultrafino Huawei Matebook D14 con Intel Core i7 y Windows 11, desde solo 649€</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/portatil-ultrafino-huawei-matebook-d14-intel-core-i7-windows-11-solo-649eu-1151185' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/portatil-ultrafino-huawei-matebook-d14-i7-solo-649eu-2863795.jpg' alt='El portátil ultrafino Huawei Matebook D14 con Intel Core i7 y Windows 11, desde solo 649€' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/como-despidiendo-twitter-mitad-empleados-correo-electronico-1151167'>Así es cómo está despidiendo Twitter a la mitad de sus empleados: con un correo electrónico</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/como-despidiendo-twitter-mitad-empleados-correo-electronico-1151167' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/twitter-elon-musk-2863723.jpg' alt='Así es cómo está despidiendo Twitter a la mitad de sus empleados: con un correo electrónico' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/life/tiendas-tendran-mejores-ofertas-black-friday-1148051'>Qué tiendas tendrán las mejores ofertas en el Black Friday</a></h4>
-    <a href='https://computerhoy.com/reportajes/life/tiendas-tendran-mejores-ofertas-black-friday-1148051' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/maniquies-vestidos-tienda-ropa-ofertas-2857351.jpg' alt='Qué tiendas tendrán las mejores ofertas en el Black Friday' />
     </a>
 </div>
 
