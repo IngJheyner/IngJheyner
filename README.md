@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/tesla-desarrolladores-videojuegos-coches-tesla-1151363'>Tesla pidió a desarrolladores llevar sus juegos a la pantalla de sus coches sin pagarles dinero, porque es "buena exposición" para ellos</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/tesla-desarrolladores-videojuegos-coches-tesla-1151363' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/ya-puedes-tener-android-auto-carplay-coche-tesla-gracias-hack-2849791.jpg' alt='Tesla pidió a desarrolladores llevar sus juegos a la pantalla de sus coches sin pagarles dinero, porque es "buena exposición" para ellos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/hbo-cancela-westworld-1151189'>Nadie es intocable: HBO cancela Westworld</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/hbo-cancela-westworld-1151189' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/westworld-2624285.jpg' alt='Nadie es intocable: HBO cancela Westworld' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/estos-son-todos-dispositivos-no-compatibles-nuevo-plan-suscripcion-publicidad-netflix-comprueba-1151171'>Estos son todos los dispositivos no compatibles con el nuevo plan de suscripción con publicidad de Netflix: comprueba si está el tuyo</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/estos-son-todos-dispositivos-no-compatibles-nuevo-plan-suscripcion-publicidad-netflix-comprueba-1151171' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/netflix-2863731.jpg' alt='Estos son todos los dispositivos no compatibles con el nuevo plan de suscripción con publicidad de Netflix: comprueba si está el tuyo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/como-despidiendo-twitter-mitad-empleados-correo-electronico-1151167'>Así es cómo está despidiendo Twitter a la mitad de sus empleados: con un correo electrónico</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/como-despidiendo-twitter-mitad-empleados-correo-electronico-1151167' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/twitter-elon-musk-2863723.jpg' alt='Así es cómo está despidiendo Twitter a la mitad de sus empleados: con un correo electrónico' />
     </a>
 </div>
 
