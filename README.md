@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/entretenimiento/peliculas-protagonizadas-gamers-donde-ve-mundo-videojuego-aunque-no-siempre-forma-fiel-1150549'>7 películas protagonizadas por gamers o donde se ve el mundo del videojuego, aunque no siempre de forma fiel</a></h4>
+    <a href='https://computerhoy.com/reportajes/entretenimiento/peliculas-protagonizadas-gamers-donde-ve-mundo-videojuego-aunque-no-siempre-forma-fiel-1150549' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/ready-player-one-2862279.jpg' alt='7 películas protagonizadas por gamers o donde se ve el mundo del videojuego, aunque no siempre de forma fiel' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/piratas-informaticos-hackean-radiotelescopios-avanzados-mundo-1151729'>Piratas informáticos hackean uno de los radiotelescopios más avanzados del mundo</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/piratas-informaticos-hackean-radiotelescopios-avanzados-mundo-1151729' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/atacama-large-millimeter-array-alma-2864499.jpg' alt='Piratas informáticos hackean uno de los radiotelescopios más avanzados del mundo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/analisis/philips-oled-807-65-analisis-opinion-1149799'>Philips OLED 807 de 65”, análisis y opinión</a></h4>
     <a href='https://computerhoy.com/analisis/philips-oled-807-65-analisis-opinion-1149799' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/philips-oled-807-analisis-opinion-2861131.jpg' alt='Philips OLED 807 de 65”, análisis y opinión' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/sede-electronica-dgt-todos-tramites-puedes-hacer-online-salir-casa-1149677'>Sede electrónica de la DGT: todos los trámites que puedes hacer online sin salir de casa</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/sede-electronica-dgt-todos-tramites-puedes-hacer-online-salir-casa-1149677' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/dgt-ordenador-2860315.jpg' alt='Sede electrónica de la DGT: todos los trámites que puedes hacer online sin salir de casa' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/alert-sistema-emergencia-estan-probando-espana-1145287'>¿Qué es ES-Alert, el sistema de emergencia que se están probando en España?</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/alert-sistema-emergencia-estan-probando-espana-1145287' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/verticalimage1667578916816-2863639.jpg' alt='¿Qué es ES-Alert, el sistema de emergencia que se están probando en España?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/donde-comprar-playstation-5-black-friday-970049'>Dónde comprar una PlayStation 5 en el Black Friday</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/donde-comprar-playstation-5-black-friday-970049' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/mando-dual-shock-playstation-5-2862065.jpg' alt='Dónde comprar una PlayStation 5 en el Black Friday' />
     </a>
 </div>
 
