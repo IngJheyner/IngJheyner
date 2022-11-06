@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/fracaso-windows-11-solo-instalado-1-cada-6-pcs-1151799'>El fracaso de Windows 11: solo está instalado en 1 de cada 6 PCs</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/fracaso-windows-11-solo-instalado-1-cada-6-pcs-1151799' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/actualizacion-windows-11-22h2-estaba-incompleta-hoy-llegan-mejoras-prometidas-2847115.jpg' alt='El fracaso de Windows 11: solo está instalado en 1 de cada 6 PCs' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/amd-radeon-rx-7900-no-pueden-competir-rtx-4090-1151795'>AMD reconoce que sus nuevas tarjetas gráficas no pueden competir con la RTX 4090 </a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/amd-radeon-rx-7900-no-pueden-competir-rtx-4090-1151795' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/amd-presenta-primeras-tarjetas-graficas-mundo-chiplets-radeon-rx-7900-xtx-7900-xt-competir-nvidia-menor-precio-2862407.jpg' alt='AMD reconoce que sus nuevas tarjetas gráficas no pueden competir con la RTX 4090 ' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/mantas-termicas-electricas-todo-necesitas-saber-comprarte-mejor-1148013'>Mantas térmicas eléctricas: todo lo que necesitas saber para comprarte la mejor</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/mantas-termicas-electricas-todo-necesitas-saber-comprarte-mejor-1148013' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/manta-termica-electrica-2857279.jpg' alt='Mantas térmicas eléctricas: todo lo que necesitas saber para comprarte la mejor' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/apple-adios-asistente-%20oye-siri-solo-siri-1151779'>Si odias decir "Oye Siri", pronto podrás dejar de hacerlo para hablar con el asistente de Apple </a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/apple-adios-asistente-%20oye-siri-solo-siri-1151779' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/odias-decir-oye-siri-pronto-podras-dejar-hacerlo-hablar-asistente-apple-2864629.jpg' alt='Si odias decir "Oye Siri", pronto podrás dejar de hacerlo para hablar con el asistente de Apple ' />
     </a>
 </div>
 
