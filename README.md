@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/amd-radeon-rx-7900-no-pueden-competir-rtx-4090-1151795'>AMD reconoce que sus nuevas tarjetas gráficas no pueden competir con la RTX 4090 </a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/amd-radeon-rx-7900-no-pueden-competir-rtx-4090-1151795' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/amd-presenta-primeras-tarjetas-graficas-mundo-chiplets-radeon-rx-7900-xtx-7900-xt-competir-nvidia-menor-precio-2862407.jpg' alt='AMD reconoce que sus nuevas tarjetas gráficas no pueden competir con la RTX 4090 ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/jack-dorsey-fundador-twitter-despidos-culpa-1151787'>Jack Dorsey, el fundador de Twitter, sobre los despidos de Elon Musk: "la culpa es mía"</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/jack-dorsey-fundador-twitter-despidos-culpa-1151787' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/jack-dorsey-fundador-block-2732065.jpg' alt='Jack Dorsey, el fundador de Twitter, sobre los despidos de Elon Musk: "la culpa es mía"' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/apple-adios-asistente-%20oye-siri-solo-siri-1151779'>Si odias decir "Oye Siri", pronto podrás dejar de hacerlo para hablar con el asistente de Apple </a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/apple-adios-asistente-%20oye-siri-solo-siri-1151779' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/odias-decir-oye-siri-pronto-podras-dejar-hacerlo-hablar-asistente-apple-2864629.jpg' alt='Si odias decir "Oye Siri", pronto podrás dejar de hacerlo para hablar con el asistente de Apple ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/nanobag-6-bolsa-reutilizable-ultrafina-video-1151767'>Nanobag 6.0, la bolsa reutilizable que casi desaparece en tu bolsillo (vídeo)</a></h4>
-    <a href='https://computerhoy.com/noticias/life/nanobag-6-bolsa-reutilizable-ultrafina-video-1151767' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/verticalimage1667745679039-2864611.jpg' alt='Nanobag 6.0, la bolsa reutilizable que casi desaparece en tu bolsillo (vídeo)' />
     </a>
 </div>
 
