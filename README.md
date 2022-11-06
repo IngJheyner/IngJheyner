@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mantas-termicas-electricas-todo-necesitas-saber-comprarte-mejor-1148013'>Mantas térmicas eléctricas: todo lo que necesitas saber para comprarte la mejor</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mantas-termicas-electricas-todo-necesitas-saber-comprarte-mejor-1148013' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/manta-termica-electrica-2857279.jpg' alt='Mantas térmicas eléctricas: todo lo que necesitas saber para comprarte la mejor' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/apple-adios-asistente-%20oye-siri-solo-siri-1151779'>Si odias decir "Oye Siri", pronto podrás dejar de hacerlo para hablar con el asistente de Apple </a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/apple-adios-asistente-%20oye-siri-solo-siri-1151779' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/odias-decir-oye-siri-pronto-podras-dejar-hacerlo-hablar-asistente-apple-2864629.jpg' alt='Si odias decir "Oye Siri", pronto podrás dejar de hacerlo para hablar con el asistente de Apple ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/nanobag-6-bolsa-reutilizable-ultrafina-video-1151767'>Nanobag 6.0, la bolsa reutilizable que casi desaparece en tu bolsillo (vídeo)</a></h4>
     <a href='https://computerhoy.com/noticias/life/nanobag-6-bolsa-reutilizable-ultrafina-video-1151767' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/verticalimage1667745679039-2864611.jpg' alt='Nanobag 6.0, la bolsa reutilizable que casi desaparece en tu bolsillo (vídeo)' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/motor/crean-coche-volador-despegue-aterrizaje-vertical-totalmente-electrico-1151739'>Crean un coche volador de despegue y aterrizaje vertical y es totalmente eléctrico</a></h4>
     <a href='https://computerhoy.com/noticias/motor/crean-coche-volador-despegue-aterrizaje-vertical-totalmente-electrico-1151739' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/xpeng-x3-2864513.jpg' alt='Crean un coche volador de despegue y aterrizaje vertical y es totalmente eléctrico' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/beber-cafe-primera-hora-manana-no-nada-bueno-salud-nutricionista-1151733'>Beber café a primera hora de la mañana no es nada bueno para tu salud, según esta nutricionista</a></h4>
-    <a href='https://computerhoy.com/noticias/life/beber-cafe-primera-hora-manana-no-nada-bueno-salud-nutricionista-1151733' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/tomar-cafe-2864503.jpg' alt='Beber café a primera hora de la mañana no es nada bueno para tu salud, según esta nutricionista' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/entretenimiento/peliculas-protagonizadas-gamers-donde-ve-mundo-videojuego-aunque-no-siempre-forma-fiel-1150549'>7 películas protagonizadas por gamers o donde se ve el mundo del videojuego, aunque no siempre de forma fiel</a></h4>
-    <a href='https://computerhoy.com/reportajes/entretenimiento/peliculas-protagonizadas-gamers-donde-ve-mundo-videojuego-aunque-no-siempre-forma-fiel-1150549' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/ready-player-one-2862279.jpg' alt='7 películas protagonizadas por gamers o donde se ve el mundo del videojuego, aunque no siempre de forma fiel' />
     </a>
 </div>
 
