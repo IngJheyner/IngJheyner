@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/donde-comprar-playstation-5-black-friday-970049'>Dónde comprar una PlayStation 5 en el Black Friday</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/donde-comprar-playstation-5-black-friday-970049' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/mando-dual-shock-playstation-5-2862065.jpg' alt='Dónde comprar una PlayStation 5 en el Black Friday' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/analisis/lenovo-yoga-slim-7-carbon-review-opinion-1150265'>Lenovo Yoga Slim 7 Carbon, análisis y opinión</a></h4>
+    <a href='https://computerhoy.com/analisis/lenovo-yoga-slim-7-carbon-review-opinion-1150265' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/review-lenovo-yoga-slim-7-carbon-2863313.jpg' alt='Lenovo Yoga Slim 7 Carbon, análisis y opinión' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/alexa-cumple-cuatro-anos-espana-no-te-creeras-veces-hemos-usado-2022-1151087'>Alexa cumple cuatro años en España y no te creerás las veces que la hemos usado este 2022</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/alexa-cumple-cuatro-anos-espana-no-te-creeras-veces-hemos-usado-2022-1151087' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/alexa-2863455.jpg' alt='Alexa cumple cuatro años en España y no te creerás las veces que la hemos usado este 2022' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/cientos-drones-surcan-cielo-nueva-york-promocionar-candy-crush-1151453'>Cientos de drones surcan el cielo de Nueva York para promocionar Candy Crush</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/cientos-drones-surcan-cielo-nueva-york-promocionar-candy-crush-1151453' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/cientos-drones-surcan-cielo-nueva-york-promocionar-candy-crush-2864207.jpg' alt='Cientos de drones surcan el cielo de Nueva York para promocionar Candy Crush' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/gatas-comic-creado-inteligencia-artificial-1151037'>Este cómic ambientado en el Madrid de 2614 ha sido creado por una inteligencia artificial, y puedes leerlo gratis</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/gatas-comic-creado-inteligencia-artificial-1151037' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/gatas-primer-comic-creado-inteligencia-artificial-espana-2863227.jpg' alt='Este cómic ambientado en el Madrid de 2614 ha sido creado por una inteligencia artificial, y puedes leerlo gratis' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/no-hace-falta-te-duches-todos-dias-expertos-higiene-1151457'>No hace falta que te duches todos los días, según expertos en higiene</a></h4>
-    <a href='https://computerhoy.com/noticias/life/no-hace-falta-te-duches-todos-dias-expertos-higiene-1151457' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/ducha-2864213.jpg' alt='No hace falta que te duches todos los días, según expertos en higiene' />
     </a>
 </div>
 
