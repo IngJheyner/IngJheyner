@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/gatas-comic-creado-inteligencia-artificial-1151037'>Este cómic ambientado en el Madrid de 2614 ha sido creado por una inteligencia artificial, y puedes leerlo gratis</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/gatas-comic-creado-inteligencia-artificial-1151037' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/gatas-primer-comic-creado-inteligencia-artificial-espana-2863227.jpg' alt='Este cómic ambientado en el Madrid de 2614 ha sido creado por una inteligencia artificial, y puedes leerlo gratis' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/no-hace-falta-te-duches-todos-dias-expertos-higiene-1151457'>No hace falta que te duches todos los días, según expertos en higiene</a></h4>
     <a href='https://computerhoy.com/noticias/life/no-hace-falta-te-duches-todos-dias-expertos-higiene-1151457' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/ducha-2864213.jpg' alt='No hace falta que te duches todos los días, según expertos en higiene' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/todas-novedades-android-auto-85-como-descargar-beta-forma-segura-1151461'>Todas las novedades de Android Auto 8.5 y cómo descargar la beta de forma segura</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/todas-novedades-android-auto-85-como-descargar-beta-forma-segura-1151461' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/android-auto-2627735.jpg' alt='Todas las novedades de Android Auto 8.5 y cómo descargar la beta de forma segura' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/elon-musk-quiere-puedas-enviar-mensajes-directos-celebridades-twitter-cambio-precio-1151443'>Elon Musk quiere que puedas enviar mensajes directos a las celebridades en Twitter, a cambio de un precio</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/elon-musk-quiere-puedas-enviar-mensajes-directos-celebridades-twitter-cambio-precio-1151443' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/twitter-2864101.jpg' alt='Elon Musk quiere que puedas enviar mensajes directos a las celebridades en Twitter, a cambio de un precio' />
     </a>
 </div>
 
