@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-auriculares-inalambricos-baratos-menos-20-euros-950501'>5 auriculares inalámbricos de menos de 20€ que son perfectos si quieres unos baratos</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-auriculares-inalambricos-baratos-menos-20-euros-950501' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/hombre-auriculares-inalambricos-tws-oreja-2505851.jpg' alt='5 auriculares inalámbricos de menos de 20€ que son perfectos si quieres unos baratos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/mantas-termicas-electricas-todo-necesitas-saber-comprarte-mejor-1148013'>Mantas térmicas eléctricas: todo lo que necesitas saber para comprarte la mejor</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/mantas-termicas-electricas-todo-necesitas-saber-comprarte-mejor-1148013' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/manta-termica-electrica-2857279.jpg' alt='Mantas térmicas eléctricas: todo lo que necesitas saber para comprarte la mejor' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/iberia-alerta-estafas-nombre-compania-whatsapp-recomiendan-evitarlas-1151755'>Iberia alerta de estafas en nombre de su compañía en WhatsApp y así recomiendan evitarlas</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/iberia-alerta-estafas-nombre-compania-whatsapp-recomiendan-evitarlas-1151755' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/iberia-whatsapp-2864575.jpg' alt='Iberia alerta de estafas en nombre de su compañía en WhatsApp y así recomiendan evitarlas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/crean-coche-volador-despegue-aterrizaje-vertical-totalmente-electrico-1151739'>Crean un coche volador de despegue y aterrizaje vertical y es totalmente eléctrico</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/crean-coche-volador-despegue-aterrizaje-vertical-totalmente-electrico-1151739' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/xpeng-x3-2864513.jpg' alt='Crean un coche volador de despegue y aterrizaje vertical y es totalmente eléctrico' />
     </a>
 </div>
 
