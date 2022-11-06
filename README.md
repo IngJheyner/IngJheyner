@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/falcon-9-spacex-mision-starlink-foto-videos-1148401'>Así se ve un cohete de SpaceX alcanzar el Espacio desde la Tierra: es impresionante</a></h4>
+    <a href='https://computerhoy.com/noticias/life/falcon-9-spacex-mision-starlink-foto-videos-1148401' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/ve-cohete-spacex-alcanzar-espacio-tierra-impresionante-2857961.jpg' alt='Así se ve un cohete de SpaceX alcanzar el Espacio desde la Tierra: es impresionante' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/todas-novedades-android-auto-85-como-descargar-beta-forma-segura-1151461'>Todas las novedades de Android Auto 8.5 y cómo descargar la beta de forma segura</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/todas-novedades-android-auto-85-como-descargar-beta-forma-segura-1151461' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/android-auto-2627735.jpg' alt='Todas las novedades de Android Auto 8.5 y cómo descargar la beta de forma segura' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/deshumidificador-me-compro-guia-consejos-adquirir-mejor-opcion-1144379'>¿Qué deshumidificador me compro? Guía y consejos para adquirir la mejor opción</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/deshumidificador-me-compro-guia-consejos-adquirir-mejor-opcion-1144379' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/deshumidificador-2850683.jpg' alt='¿Qué deshumidificador me compro? Guía y consejos para adquirir la mejor opción' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/whatsapp-tablets-aparece-ultima-beta-android-1151441'>"WhatsApp para tablets" aparece en la última beta para Android</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/whatsapp-tablets-aparece-ultima-beta-android-1151441' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/whatsapp-tablets-2864099.jpg' alt='"WhatsApp para tablets" aparece en la última beta para Android' />
     </a>
 </div>
 
