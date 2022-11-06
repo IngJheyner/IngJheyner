@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/beber-cafe-primera-hora-manana-no-nada-bueno-salud-nutricionista-1151733'>Beber café a primera hora de la mañana no es nada bueno para tu salud, según esta nutricionista</a></h4>
+    <a href='https://computerhoy.com/noticias/life/beber-cafe-primera-hora-manana-no-nada-bueno-salud-nutricionista-1151733' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/tomar-cafe-2864503.jpg' alt='Beber café a primera hora de la mañana no es nada bueno para tu salud, según esta nutricionista' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/entretenimiento/peliculas-protagonizadas-gamers-donde-ve-mundo-videojuego-aunque-no-siempre-forma-fiel-1150549'>7 películas protagonizadas por gamers o donde se ve el mundo del videojuego, aunque no siempre de forma fiel</a></h4>
     <a href='https://computerhoy.com/reportajes/entretenimiento/peliculas-protagonizadas-gamers-donde-ve-mundo-videojuego-aunque-no-siempre-forma-fiel-1150549' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/ready-player-one-2862279.jpg' alt='7 películas protagonizadas por gamers o donde se ve el mundo del videojuego, aunque no siempre de forma fiel' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/estas-son-novedades-precio-nuevo-twitter-blue-aunque-aun-no-vas-poder-probar-1151725'>Estas son las novedades y el precio del nuevo Twitter Blue, aunque aún no lo vas a poder probar</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/estas-son-novedades-precio-nuevo-twitter-blue-aunque-aun-no-vas-poder-probar-1151725' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/twitter-2864497.jpg' alt='Estas son las novedades y el precio del nuevo Twitter Blue, aunque aún no lo vas a poder probar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/sede-electronica-dgt-todos-tramites-puedes-hacer-online-salir-casa-1149677'>Sede electrónica de la DGT: todos los trámites que puedes hacer online sin salir de casa</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/sede-electronica-dgt-todos-tramites-puedes-hacer-online-salir-casa-1149677' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/dgt-ordenador-2860315.jpg' alt='Sede electrónica de la DGT: todos los trámites que puedes hacer online sin salir de casa' />
     </a>
 </div>
 
