@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/no-hace-falta-te-duches-todos-dias-expertos-higiene-1151457'>No hace falta que te duches todos los días, según expertos en higiene</a></h4>
+    <a href='https://computerhoy.com/noticias/life/no-hace-falta-te-duches-todos-dias-expertos-higiene-1151457' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/ducha-2864213.jpg' alt='No hace falta que te duches todos los días, según expertos en higiene' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-personalizar-pantalla-bloqueo-ios-16-1150447'>Cómo personalizar la pantalla de bloqueo en iOS 16</a></h4>
+    <a href='https://computerhoy.com/tutoriales/tecnologia/como-personalizar-pantalla-bloqueo-ios-16-1150447' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/personalizar-pantalla-bloqueo-ios-16-2862061.jpg' alt='Cómo personalizar la pantalla de bloqueo en iOS 16' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/falcon-9-spacex-mision-starlink-foto-videos-1148401'>Así se ve un cohete de SpaceX alcanzar el Espacio desde la Tierra: es impresionante</a></h4>
     <a href='https://computerhoy.com/noticias/life/falcon-9-spacex-mision-starlink-foto-videos-1148401' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/ve-cohete-spacex-alcanzar-espacio-tierra-impresionante-2857961.jpg' alt='Así se ve un cohete de SpaceX alcanzar el Espacio desde la Tierra: es impresionante' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/elon-musk-quiere-puedas-enviar-mensajes-directos-celebridades-twitter-cambio-precio-1151443'>Elon Musk quiere que puedas enviar mensajes directos a las celebridades en Twitter, a cambio de un precio</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/elon-musk-quiere-puedas-enviar-mensajes-directos-celebridades-twitter-cambio-precio-1151443' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/twitter-2864101.jpg' alt='Elon Musk quiere que puedas enviar mensajes directos a las celebridades en Twitter, a cambio de un precio' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/samsung-galaxy-a12-pros-contras-1118517'>Samsung Galaxy A12: ¿merece la pena? Pros y contras del móvil barato de Samsung</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/samsung-galaxy-a12-pros-contras-1118517' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/samsung-galaxy-a12-2802109.jpg' alt='Samsung Galaxy A12: ¿merece la pena? Pros y contras del móvil barato de Samsung' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/deshumidificador-me-compro-guia-consejos-adquirir-mejor-opcion-1144379'>¿Qué deshumidificador me compro? Guía y consejos para adquirir la mejor opción</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/deshumidificador-me-compro-guia-consejos-adquirir-mejor-opcion-1144379' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/deshumidificador-2850683.jpg' alt='¿Qué deshumidificador me compro? Guía y consejos para adquirir la mejor opción' />
     </a>
 </div>
 
