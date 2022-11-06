@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/alexa-cumple-cuatro-anos-espana-no-te-creeras-veces-hemos-usado-2022-1151087'>Alexa cumple cuatro años en España y no te creerás las veces que la hemos usado este 2022</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/alexa-cumple-cuatro-anos-espana-no-te-creeras-veces-hemos-usado-2022-1151087' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/alexa-2863455.jpg' alt='Alexa cumple cuatro años en España y no te creerás las veces que la hemos usado este 2022' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-cartuchos-epson-xp-2100-1146207'>Impresora Epson XP 2100: estos son los mejores cartuchos de tinta que puedes comprar</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-cartuchos-epson-xp-2100-1146207' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/impresora-epson-xp-2100-2853663.jpg' alt='Impresora Epson XP 2100: estos son los mejores cartuchos de tinta que puedes comprar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/cientos-drones-surcan-cielo-nueva-york-promocionar-candy-crush-1151453'>Cientos de drones surcan el cielo de Nueva York para promocionar Candy Crush</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/cientos-drones-surcan-cielo-nueva-york-promocionar-candy-crush-1151453' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/cientos-drones-surcan-cielo-nueva-york-promocionar-candy-crush-2864207.jpg' alt='Cientos de drones surcan el cielo de Nueva York para promocionar Candy Crush' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/gatas-comic-creado-inteligencia-artificial-1151037'>Este cómic ambientado en el Madrid de 2614 ha sido creado por una inteligencia artificial, y puedes leerlo gratis</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/gatas-comic-creado-inteligencia-artificial-1151037' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/gatas-primer-comic-creado-inteligencia-artificial-espana-2863227.jpg' alt='Este cómic ambientado en el Madrid de 2614 ha sido creado por una inteligencia artificial, y puedes leerlo gratis' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/no-hace-falta-te-duches-todos-dias-expertos-higiene-1151457'>No hace falta que te duches todos los días, según expertos en higiene</a></h4>
     <a href='https://computerhoy.com/noticias/life/no-hace-falta-te-duches-todos-dias-expertos-higiene-1151457' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/ducha-2864213.jpg' alt='No hace falta que te duches todos los días, según expertos en higiene' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-personalizar-pantalla-bloqueo-ios-16-1150447'>Cómo personalizar la pantalla de bloqueo en iOS 16</a></h4>
-    <a href='https://computerhoy.com/tutoriales/tecnologia/como-personalizar-pantalla-bloqueo-ios-16-1150447' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/personalizar-pantalla-bloqueo-ios-16-2862061.jpg' alt='Cómo personalizar la pantalla de bloqueo en iOS 16' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/falcon-9-spacex-mision-starlink-foto-videos-1148401'>Así se ve un cohete de SpaceX alcanzar el Espacio desde la Tierra: es impresionante</a></h4>
-    <a href='https://computerhoy.com/noticias/life/falcon-9-spacex-mision-starlink-foto-videos-1148401' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/ve-cohete-spacex-alcanzar-espacio-tierra-impresionante-2857961.jpg' alt='Así se ve un cohete de SpaceX alcanzar el Espacio desde la Tierra: es impresionante' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/todas-novedades-android-auto-85-como-descargar-beta-forma-segura-1151461'>Todas las novedades de Android Auto 8.5 y cómo descargar la beta de forma segura</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/todas-novedades-android-auto-85-como-descargar-beta-forma-segura-1151461' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/android-auto-2627735.jpg' alt='Todas las novedades de Android Auto 8.5 y cómo descargar la beta de forma segura' />
     </a>
 </div>
 
