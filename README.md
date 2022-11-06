@@ -58,9 +58,9 @@
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/jack-dorsey-fundador-twitter-despidos-culpa-1151787'>Jack Dorsey, el fundador de Twitter, sobre los despidos de Elon Musk: "la culpa es mía"</a></h4>
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/jack-dorsey-fundador-twitter-despidos-culpa-1151787'>Jack Dorsey, el fundador de Twitter, sobre los despidos de Elon Musk: "La culpa es mía"</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/jack-dorsey-fundador-twitter-despidos-culpa-1151787' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/jack-dorsey-fundador-block-2732065.jpg' alt='Jack Dorsey, el fundador de Twitter, sobre los despidos de Elon Musk: "la culpa es mía"' />
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/jack-dorsey-fundador-block-2732065.jpg' alt='Jack Dorsey, el fundador de Twitter, sobre los despidos de Elon Musk: "La culpa es mía"' />
     </a>
 </div>
 
