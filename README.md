@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/analisis/philips-oled-807-65-analisis-opinion-1149799'>Philips OLED 807 de 65”, análisis y opinión</a></h4>
+    <a href='https://computerhoy.com/analisis/philips-oled-807-65-analisis-opinion-1149799' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/philips-oled-807-analisis-opinion-2861131.jpg' alt='Philips OLED 807 de 65”, análisis y opinión' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/estas-son-novedades-precio-nuevo-twitter-blue-aunque-aun-no-vas-poder-probar-1151725'>Estas son las novedades y el precio del nuevo Twitter Blue, aunque aún no lo vas a poder probar</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/estas-son-novedades-precio-nuevo-twitter-blue-aunque-aun-no-vas-poder-probar-1151725' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/twitter-2864497.jpg' alt='Estas son las novedades y el precio del nuevo Twitter Blue, aunque aún no lo vas a poder probar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/sede-electronica-dgt-todos-tramites-puedes-hacer-online-salir-casa-1149677'>Sede electrónica de la DGT: todos los trámites que puedes hacer online sin salir de casa</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/sede-electronica-dgt-todos-tramites-puedes-hacer-online-salir-casa-1149677' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/dgt-ordenador-2860315.jpg' alt='Sede electrónica de la DGT: todos los trámites que puedes hacer online sin salir de casa' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/alert-sistema-emergencia-estan-probando-espana-1145287'>¿Qué es ES-Alert, el sistema de emergencia que se están probando en España?</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/alert-sistema-emergencia-estan-probando-espana-1145287' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/verticalimage1667578916816-2863639.jpg' alt='¿Qué es ES-Alert, el sistema de emergencia que se están probando en España?' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/donde-comprar-playstation-5-black-friday-970049'>Dónde comprar una PlayStation 5 en el Black Friday</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/donde-comprar-playstation-5-black-friday-970049' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/mando-dual-shock-playstation-5-2862065.jpg' alt='Dónde comprar una PlayStation 5 en el Black Friday' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/lenovo-yoga-slim-7-carbon-review-opinion-1150265'>Lenovo Yoga Slim 7 Carbon, análisis y opinión</a></h4>
-    <a href='https://computerhoy.com/analisis/lenovo-yoga-slim-7-carbon-review-opinion-1150265' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/review-lenovo-yoga-slim-7-carbon-2863313.jpg' alt='Lenovo Yoga Slim 7 Carbon, análisis y opinión' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/alexa-cumple-cuatro-anos-espana-no-te-creeras-veces-hemos-usado-2022-1151087'>Alexa cumple cuatro años en España y no te creerás las veces que la hemos usado este 2022</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/alexa-cumple-cuatro-anos-espana-no-te-creeras-veces-hemos-usado-2022-1151087' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/alexa-2863455.jpg' alt='Alexa cumple cuatro años en España y no te creerás las veces que la hemos usado este 2022' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-cartuchos-epson-xp-2100-1146207'>Impresora Epson XP 2100: estos son los mejores cartuchos de tinta que puedes comprar</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-cartuchos-epson-xp-2100-1146207' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/impresora-epson-xp-2100-2853663.jpg' alt='Impresora Epson XP 2100: estos son los mejores cartuchos de tinta que puedes comprar' />
     </a>
 </div>
 
