@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/crean-coche-volador-despegue-aterrizaje-vertical-totalmente-electrico-1151739'>Crean un coche volador de despegue y aterrizaje vertical y es totalmente eléctrico</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/crean-coche-volador-despegue-aterrizaje-vertical-totalmente-electrico-1151739' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/xpeng-x3-2864513.jpg' alt='Crean un coche volador de despegue y aterrizaje vertical y es totalmente eléctrico' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/beber-cafe-primera-hora-manana-no-nada-bueno-salud-nutricionista-1151733'>Beber café a primera hora de la mañana no es nada bueno para tu salud, según esta nutricionista</a></h4>
     <a href='https://computerhoy.com/noticias/life/beber-cafe-primera-hora-manana-no-nada-bueno-salud-nutricionista-1151733' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/tomar-cafe-2864503.jpg' alt='Beber café a primera hora de la mañana no es nada bueno para tu salud, según esta nutricionista' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/analisis/philips-oled-807-65-analisis-opinion-1149799'>Philips OLED 807 de 65”, análisis y opinión</a></h4>
     <a href='https://computerhoy.com/analisis/philips-oled-807-65-analisis-opinion-1149799' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/philips-oled-807-analisis-opinion-2861131.jpg' alt='Philips OLED 807 de 65”, análisis y opinión' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/estas-son-novedades-precio-nuevo-twitter-blue-aunque-aun-no-vas-poder-probar-1151725'>Estas son las novedades y el precio del nuevo Twitter Blue, aunque aún no lo vas a poder probar</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/estas-son-novedades-precio-nuevo-twitter-blue-aunque-aun-no-vas-poder-probar-1151725' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/twitter-2864497.jpg' alt='Estas son las novedades y el precio del nuevo Twitter Blue, aunque aún no lo vas a poder probar' />
     </a>
 </div>
 
