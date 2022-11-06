@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/nanobag-6-bolsa-reutilizable-ultrafina-video-1151767'>Nanobag 6.0, la bolsa reutilizable que casi desaparece en tu bolsillo (vídeo)</a></h4>
+    <a href='https://computerhoy.com/noticias/life/nanobag-6-bolsa-reutilizable-ultrafina-video-1151767' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/verticalimage1667745679039-2864611.jpg' alt='Nanobag 6.0, la bolsa reutilizable que casi desaparece en tu bolsillo (vídeo)' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/iberia-alerta-estafas-nombre-compania-whatsapp-recomiendan-evitarlas-1151755'>Iberia alerta de estafas en nombre de su compañía en WhatsApp y así recomiendan evitarlas</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/iberia-alerta-estafas-nombre-compania-whatsapp-recomiendan-evitarlas-1151755' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/iberia-whatsapp-2864575.jpg' alt='Iberia alerta de estafas en nombre de su compañía en WhatsApp y así recomiendan evitarlas' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/entretenimiento/peliculas-protagonizadas-gamers-donde-ve-mundo-videojuego-aunque-no-siempre-forma-fiel-1150549'>7 películas protagonizadas por gamers o donde se ve el mundo del videojuego, aunque no siempre de forma fiel</a></h4>
     <a href='https://computerhoy.com/reportajes/entretenimiento/peliculas-protagonizadas-gamers-donde-ve-mundo-videojuego-aunque-no-siempre-forma-fiel-1150549' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/ready-player-one-2862279.jpg' alt='7 películas protagonizadas por gamers o donde se ve el mundo del videojuego, aunque no siempre de forma fiel' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/piratas-informaticos-hackean-radiotelescopios-avanzados-mundo-1151729'>Piratas informáticos hackean uno de los radiotelescopios más avanzados del mundo</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/piratas-informaticos-hackean-radiotelescopios-avanzados-mundo-1151729' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/atacama-large-millimeter-array-alma-2864499.jpg' alt='Piratas informáticos hackean uno de los radiotelescopios más avanzados del mundo' />
     </a>
 </div>
 
