@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/jack-dorsey-fundador-twitter-despidos-culpa-1151787'>Jack Dorsey, el fundador de Twitter, sobre los despidos de Elon Musk: "la culpa es mía"</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/jack-dorsey-fundador-twitter-despidos-culpa-1151787' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/jack-dorsey-fundador-block-2732065.jpg' alt='Jack Dorsey, el fundador de Twitter, sobre los despidos de Elon Musk: "la culpa es mía"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-auriculares-inalambricos-baratos-menos-20-euros-950501'>5 auriculares inalámbricos de menos de 20€ que son perfectos si quieres unos baratos</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/mejores-auriculares-inalambricos-baratos-menos-20-euros-950501' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/hombre-auriculares-inalambricos-tws-oreja-2505851.jpg' alt='5 auriculares inalámbricos de menos de 20€ que son perfectos si quieres unos baratos' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/nanobag-6-bolsa-reutilizable-ultrafina-video-1151767'>Nanobag 6.0, la bolsa reutilizable que casi desaparece en tu bolsillo (vídeo)</a></h4>
     <a href='https://computerhoy.com/noticias/life/nanobag-6-bolsa-reutilizable-ultrafina-video-1151767' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/verticalimage1667745679039-2864611.jpg' alt='Nanobag 6.0, la bolsa reutilizable que casi desaparece en tu bolsillo (vídeo)' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/iberia-alerta-estafas-nombre-compania-whatsapp-recomiendan-evitarlas-1151755'>Iberia alerta de estafas en nombre de su compañía en WhatsApp y así recomiendan evitarlas</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/iberia-alerta-estafas-nombre-compania-whatsapp-recomiendan-evitarlas-1151755' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/iberia-whatsapp-2864575.jpg' alt='Iberia alerta de estafas en nombre de su compañía en WhatsApp y así recomiendan evitarlas' />
     </a>
 </div>
 
