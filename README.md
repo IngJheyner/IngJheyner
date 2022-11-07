@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/vemos-primera-vez-xiaomi-13-13-pro-camara-frontal-perforada-triple-camara-trasera-1152135'>Vemos por primera vez el Xiaomi 13 y 13 Pro: cámara frontal perforada y triple cámara trasera</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/vemos-primera-vez-xiaomi-13-13-pro-camara-frontal-perforada-triple-camara-trasera-1152135' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/xiaomi-13-2865257.jpg' alt='Vemos por primera vez el Xiaomi 13 y 13 Pro: cámara frontal perforada y triple cámara trasera' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/barrio-rico-barcelona-ha-convertido-pobre-ciudad-culpa-millonario-1152099'>Este barrio rico de Barcelona se ha convertido en el más pobre de la ciudad por culpa de un millonario</a></h4>
     <a href='https://computerhoy.com/noticias/life/barrio-rico-barcelona-ha-convertido-pobre-ciudad-culpa-millonario-1152099' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/barrio-rico-barcelona-ha-convertido-pobre-ciudad-culpa-millonario-2865135.jpg' alt='Este barrio rico de Barcelona se ha convertido en el más pobre de la ciudad por culpa de un millonario' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/metodo-ahorrar-calefaccion-calentar-30-centimos-podria-salirnos-realmente-caro-1152067'>Este método para ahorrar calefacción y calentar por 30 céntimos podría salirnos realmente caro</a></h4>
     <a href='https://computerhoy.com/noticias/life/metodo-ahorrar-calefaccion-calentar-30-centimos-podria-salirnos-realmente-caro-1152067' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/ahorrar-calefaccion-calentar-30-centimos-2865029.jpg' alt='Este método para ahorrar calefacción y calentar por 30 céntimos podría salirnos realmente caro' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/ya-oficial-disney-sube-precios-plan-publicidad-llegara-proximo-mes-1152063'>Ya es oficial: Disney+ sube los precios y su plan con publicidad llegará el próximo mes</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/ya-oficial-disney-sube-precios-plan-publicidad-llegara-proximo-mes-1152063' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/ex-ceo-disney-vaticina-plataformas-streaming-desapareceran-son-malas-noticias-fans-dragones-2807853.jpg' alt='Ya es oficial: Disney+ sube los precios y su plan con publicidad llegará el próximo mes' />
     </a>
 </div>
 
