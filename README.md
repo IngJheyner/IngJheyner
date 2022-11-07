@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/productos-xiaomi-merecen-pena-comprar-11-11-aliexpress-1151791'>Estos son los productos de Xiaomi que merecen la pena comprar en el 11.11 de AliExpress</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/productos-xiaomi-merecen-pena-comprar-11-11-aliexpress-1151791' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/tienda-fisica-xiaomi-hangzhou-china-2864643.jpg' alt='Estos son los productos de Xiaomi que merecen la pena comprar en el 11.11 de AliExpress' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/10-momentos-surrealistas-elon-musk-twitter-durante-primera-semana-1151075'>Los 10 momentos más surrealistas de Elon Musk en Twitter durante su primera semana</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/10-momentos-surrealistas-elon-musk-twitter-durante-primera-semana-1151075' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/10-momentos-surrealistas-elon-musk-twitter-durante-primera-semana-como-dueno-2863533.jpg' alt='Los 10 momentos más surrealistas de Elon Musk en Twitter durante su primera semana' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/fracaso-windows-11-solo-instalado-1-cada-6-pcs-1151799'>El fracaso de Windows 11: solo está instalado en 1 de cada 6 PCs</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/fracaso-windows-11-solo-instalado-1-cada-6-pcs-1151799' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/actualizacion-windows-11-22h2-estaba-incompleta-hoy-llegan-mejoras-prometidas-2847115.jpg' alt='El fracaso de Windows 11: solo está instalado en 1 de cada 6 PCs' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/amd-radeon-rx-7900-no-pueden-competir-rtx-4090-1151795'>AMD reconoce que sus nuevas tarjetas gráficas no pueden competir con la RTX 4090 </a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/amd-radeon-rx-7900-no-pueden-competir-rtx-4090-1151795' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/amd-presenta-primeras-tarjetas-graficas-mundo-chiplets-radeon-rx-7900-xtx-7900-xt-competir-nvidia-menor-precio-2862407.jpg' alt='AMD reconoce que sus nuevas tarjetas gráficas no pueden competir con la RTX 4090 ' />
     </a>
 </div>
 
