@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/vacuna-cancer-mama-ya-realidad-1152213'>La vacuna contra el cáncer de mama ya es una realidad</a></h4>
+    <a href='https://computerhoy.com/noticias/life/vacuna-cancer-mama-ya-realidad-1152213' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/cancer-mama-2449159.jpg' alt='La vacuna contra el cáncer de mama ya es una realidad' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/estos-6-trucos-psicologicos-te-ayudaran-ser-productivo-dia-dia-1152203'>Estos 6 trucos psicológicos te ayudarán a ser más productivo en tu día a día</a></h4>
+    <a href='https://computerhoy.com/noticias/life/estos-6-trucos-psicologicos-te-ayudaran-ser-productivo-dia-dia-1152203' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/estos-6-trucos-psicologicos-te-ayudaran-ser-productivo-dia-dia-2865431.jpg' alt='Estos 6 trucos psicológicos te ayudarán a ser más productivo en tu día a día' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/metaverso-mark-zuckerberg-culpable-mayor-despido-historia-facebook-1152169'>El metaverso de Mark Zuckerberg culpable del mayor despido de la historia de Facebook</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/metaverso-mark-zuckerberg-culpable-mayor-despido-historia-facebook-1152169' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/mark-zuckerberg-facebook-2865339.jpg' alt='El metaverso de Mark Zuckerberg culpable del mayor despido de la historia de Facebook' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/listas/tecnologia/7-aplicaciones-iphone-seras-productivo-1152191'>Las 7 aplicaciones para iPhone con las que serás más productivo</a></h4>
     <a href='https://computerhoy.com/listas/tecnologia/7-aplicaciones-iphone-seras-productivo-1152191' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/7-aplicaciones-iphone-seras-productivo-2865401.jpg' alt='Las 7 aplicaciones para iPhone con las que serás más productivo' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/vemos-primera-vez-xiaomi-13-13-pro-camara-frontal-perforada-triple-camara-trasera-1152135'>Vemos por primera vez el Xiaomi 13 y 13 Pro: cámara frontal perforada y triple cámara trasera</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/vemos-primera-vez-xiaomi-13-13-pro-camara-frontal-perforada-triple-camara-trasera-1152135' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/xiaomi-13-2865257.jpg' alt='Vemos por primera vez el Xiaomi 13 y 13 Pro: cámara frontal perforada y triple cámara trasera' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/barrio-rico-barcelona-ha-convertido-pobre-ciudad-culpa-millonario-1152099'>Este barrio rico de Barcelona se ha convertido en el más pobre de la ciudad por culpa de un millonario</a></h4>
-    <a href='https://computerhoy.com/noticias/life/barrio-rico-barcelona-ha-convertido-pobre-ciudad-culpa-millonario-1152099' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/barrio-rico-barcelona-ha-convertido-pobre-ciudad-culpa-millonario-2865135.jpg' alt='Este barrio rico de Barcelona se ha convertido en el más pobre de la ciudad por culpa de un millonario' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/como-cargar-rapido-movil-android-antiguo-sistema-carga-rapida-1152069'>Cómo cargar más rápido un móvil Android antiguo sin sistema de carga rápida</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/como-cargar-rapido-movil-android-antiguo-sistema-carga-rapida-1152069' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/xiaomi-12t-pro-carga-120w-2833727.jpg' alt='Cómo cargar más rápido un móvil Android antiguo sin sistema de carga rápida' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/televisor-perfecto-mundial-75-panel-qled-practicamente-mitad-precio-1150955'>Este es el televisor perfecto para el Mundial: de 75", con panel QLED y prácticamente a mitad de precio</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/televisor-perfecto-mundial-75-panel-qled-practicamente-mitad-precio-1150955' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/samsung-qe75q70b-2862933.jpg' alt='Este es el televisor perfecto para el Mundial: de 75", con panel QLED y prácticamente a mitad de precio' />
     </a>
 </div>
 
