@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/eclipse-total-lunar-8-noviembre-luna-sangre-nasa-video-1152333'>Eclipse total lunar del 8 de noviembre: por qué la Luna se pondrá roja, según la NASA (vídeo)</a></h4>
+    <a href='https://computerhoy.com/noticias/life/eclipse-total-lunar-8-noviembre-luna-sangre-nasa-video-1152333' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/verticalimage1667857102047-2865717.jpg' alt='Eclipse total lunar del 8 de noviembre: por qué la Luna se pondrá roja, según la NASA (vídeo)' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/motor/dgt-avisa-error-circulacion-cometen-muchos-conductores-lia-twitter-1152319'>La DGT avisa de un error de circulación que cometen muchos conductores, y se lía en Twitter</a></h4>
     <a href='https://computerhoy.com/noticias/motor/dgt-avisa-error-circulacion-cometen-muchos-conductores-lia-twitter-1152319' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/autovias-2865661.jpg' alt='La DGT avisa de un error de circulación que cometen muchos conductores, y se lía en Twitter' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/freidora-aire-cecotec-accesorios-oferta-1152275'>Freidora de aire de Cecotec con accesorios, cocina para varias personas y baja a solo 79 euros</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/freidora-aire-cecotec-accesorios-oferta-1152275' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/freidora-aire-cecotec-podras-cocinar-varias-personas-baja-solo-79-euros-2865567.jpg' alt='Freidora de aire de Cecotec con accesorios, cocina para varias personas y baja a solo 79 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/huawei-11-11-mejores-ofertas-1152195'>Huawei estrena el 11 del 11 en España: estas son sus rebajas en ordenadores, auriculares y más</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/huawei-11-11-mejores-ofertas-1152195' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/huawei-watch-gt-3-2865383.jpg' alt='Huawei estrena el 11 del 11 en España: estas son sus rebajas en ordenadores, auriculares y más' />
     </a>
 </div>
 
