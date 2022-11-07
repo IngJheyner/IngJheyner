@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/televisor-perfecto-mundial-75-panel-qled-practicamente-mitad-precio-1150955'>Este es el televisor perfecto para el Mundial: de 75", con panel QLED y prácticamente a mitad de precio</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/televisor-perfecto-mundial-75-panel-qled-practicamente-mitad-precio-1150955' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/samsung-qe75q70b-2862933.jpg' alt='Este es el televisor perfecto para el Mundial: de 75", con panel QLED y prácticamente a mitad de precio' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/metodo-ahorrar-calefaccion-calentar-30-centimos-podria-salirnos-realmente-caro-1152067'>Este método para ahorrar calefacción y calentar por 30 céntimos podría salirnos realmente caro</a></h4>
+    <a href='https://computerhoy.com/noticias/life/metodo-ahorrar-calefaccion-calentar-30-centimos-podria-salirnos-realmente-caro-1152067' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/ahorrar-calefaccion-calentar-30-centimos-2865029.jpg' alt='Este método para ahorrar calefacción y calentar por 30 céntimos podría salirnos realmente caro' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/ya-oficial-disney-sube-precios-plan-publicidad-llegara-proximo-mes-1152063'>Ya es oficial: Disney+ sube los precios y su plan con publicidad llegará el próximo mes</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/ya-oficial-disney-sube-precios-plan-publicidad-llegara-proximo-mes-1152063' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/ex-ceo-disney-vaticina-plataformas-streaming-desapareceran-son-malas-noticias-fans-dragones-2807853.jpg' alt='Ya es oficial: Disney+ sube los precios y su plan con publicidad llegará el próximo mes' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/oppo-find-n2-llegara-antes-esperado-procesador-qualcomm-pantalla-amoled-plegable-1152007'>El Oppo Find N2 llegará antes de lo esperado: procesador Qualcomm y pantalla AMOLED plegable</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/oppo-find-n2-llegara-antes-esperado-procesador-qualcomm-pantalla-amoled-plegable-1152007' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/analisis-oppo-find-n-2588249.jpg' alt='El Oppo Find N2 llegará antes de lo esperado: procesador Qualcomm y pantalla AMOLED plegable' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/directo-mejores-ofertas-black-friday-1144767'>En directo: Las mejores ofertas de Black Friday</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/directo-mejores-ofertas-black-friday-1144767' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/portada-directo-black-friday-2851279.jpg' alt='En directo: Las mejores ofertas de Black Friday' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/apple-anuncia-grandes-retrasos-entrega-iphone-14-pro-pro-max-debido-bloqueo-covid-china-1152011'>Apple anuncia grandes retrasos en la entrega de los iPhone 14 Pro y Pro Max debido al bloqueo  COVID en China</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/apple-anuncia-grandes-retrasos-entrega-iphone-14-pro-pro-max-debido-bloqueo-covid-china-1152011' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/compra-online-2613331.jpg' alt='Apple anuncia grandes retrasos en la entrega de los iPhone 14 Pro y Pro Max debido al bloqueo  COVID en China' />
     </a>
 </div>
 
