@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/listas/tecnologia/7-aplicaciones-iphone-seras-productivo-1152191'>Las 7 aplicaciones para iPhone con las que serás más productivo</a></h4>
+    <a href='https://computerhoy.com/listas/tecnologia/7-aplicaciones-iphone-seras-productivo-1152191' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/7-aplicaciones-iphone-seras-productivo-2865401.jpg' alt='Las 7 aplicaciones para iPhone con las que serás más productivo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/vemos-primera-vez-xiaomi-13-13-pro-camara-frontal-perforada-triple-camara-trasera-1152135'>Vemos por primera vez el Xiaomi 13 y 13 Pro: cámara frontal perforada y triple cámara trasera</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/vemos-primera-vez-xiaomi-13-13-pro-camara-frontal-perforada-triple-camara-trasera-1152135' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/xiaomi-13-2865257.jpg' alt='Vemos por primera vez el Xiaomi 13 y 13 Pro: cámara frontal perforada y triple cámara trasera' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/televisor-perfecto-mundial-75-panel-qled-practicamente-mitad-precio-1150955'>Este es el televisor perfecto para el Mundial: de 75", con panel QLED y prácticamente a mitad de precio</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/televisor-perfecto-mundial-75-panel-qled-practicamente-mitad-precio-1150955' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/samsung-qe75q70b-2862933.jpg' alt='Este es el televisor perfecto para el Mundial: de 75", con panel QLED y prácticamente a mitad de precio' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/metodo-ahorrar-calefaccion-calentar-30-centimos-podria-salirnos-realmente-caro-1152067'>Este método para ahorrar calefacción y calentar por 30 céntimos podría salirnos realmente caro</a></h4>
-    <a href='https://computerhoy.com/noticias/life/metodo-ahorrar-calefaccion-calentar-30-centimos-podria-salirnos-realmente-caro-1152067' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/ahorrar-calefaccion-calentar-30-centimos-2865029.jpg' alt='Este método para ahorrar calefacción y calentar por 30 céntimos podría salirnos realmente caro' />
     </a>
 </div>
 
