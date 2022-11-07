@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/huawei-11-11-mejores-ofertas-1152195'>Huawei estrena el 11 del 11 en España: estas son sus rebajas en ordenadores, auriculares y más</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/huawei-11-11-mejores-ofertas-1152195' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/huawei-watch-gt-3-2865383.jpg' alt='Huawei estrena el 11 del 11 en España: estas son sus rebajas en ordenadores, auriculares y más' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/plan-barato-amazon-prime-video-acaba-estrenar-suerte-no-vas-poder-contratarlo-1152243'>El plan barato de Amazon Prime video se acaba de estrenar y, por suerte, no vas a poder contratarlo</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/plan-barato-amazon-prime-video-acaba-estrenar-suerte-no-vas-poder-contratarlo-1152243' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/logotipo-amazon-prime-video-2427945.jpg' alt='El plan barato de Amazon Prime video se acaba de estrenar y, por suerte, no vas a poder contratarlo' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/estos-6-trucos-psicologicos-te-ayudaran-ser-productivo-dia-dia-1152203'>Estos 6 trucos psicológicos te ayudarán a ser más productivo en tu día a día</a></h4>
     <a href='https://computerhoy.com/noticias/life/estos-6-trucos-psicologicos-te-ayudaran-ser-productivo-dia-dia-1152203' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/estos-6-trucos-psicologicos-te-ayudaran-ser-productivo-dia-dia-2865431.jpg' alt='Estos 6 trucos psicológicos te ayudarán a ser más productivo en tu día a día' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/metaverso-mark-zuckerberg-culpable-mayor-despido-historia-facebook-1152169'>El metaverso de Mark Zuckerberg culpable del mayor despido de la historia de Facebook</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/metaverso-mark-zuckerberg-culpable-mayor-despido-historia-facebook-1152169' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/mark-zuckerberg-facebook-2865339.jpg' alt='El metaverso de Mark Zuckerberg culpable del mayor despido de la historia de Facebook' />
     </a>
 </div>
 
