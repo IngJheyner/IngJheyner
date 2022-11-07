@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/ya-oficial-disney-sube-precios-plan-publicidad-llegara-proximo-mes-1152063'>Ya es oficial: Disney+ sube los precios y su plan con publicidad llegará el próximo mes</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/ya-oficial-disney-sube-precios-plan-publicidad-llegara-proximo-mes-1152063' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/ex-ceo-disney-vaticina-plataformas-streaming-desapareceran-son-malas-noticias-fans-dragones-2807853.jpg' alt='Ya es oficial: Disney+ sube los precios y su plan con publicidad llegará el próximo mes' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/europa-calienta-doble-rapido-cualquier-otro-continente-ultimos-30-anos-informe-1152037'>Europa se calienta el doble de rápido que el resto de continentes desde los últimos 30 años según un informe</a></h4>
+    <a href='https://computerhoy.com/noticias/life/europa-calienta-doble-rapido-cualquier-otro-continente-ultimos-30-anos-informe-1152037' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/europa-calienta-doble-cualquier-otra-parte-mundo-ultimos-30-anos-informe-2864939.jpg' alt='Europa se calienta el doble de rápido que el resto de continentes desde los últimos 30 años según un informe' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/oppo-find-n2-llegara-antes-esperado-procesador-qualcomm-pantalla-amoled-plegable-1152007'>El Oppo Find N2 llegará antes de lo esperado: procesador Qualcomm y pantalla AMOLED plegable</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/oppo-find-n2-llegara-antes-esperado-procesador-qualcomm-pantalla-amoled-plegable-1152007' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/analisis-oppo-find-n-2588249.jpg' alt='El Oppo Find N2 llegará antes de lo esperado: procesador Qualcomm y pantalla AMOLED plegable' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/apple-anuncia-grandes-retrasos-entrega-iphone-14-pro-pro-max-debido-bloqueo-covid-china-1152011'>Apple anuncia grandes retrasos en la entrega de los iPhone 14 Pro y Pro Max debido al bloqueo  COVID en China</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/apple-anuncia-grandes-retrasos-entrega-iphone-14-pro-pro-max-debido-bloqueo-covid-china-1152011' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/compra-online-2613331.jpg' alt='Apple anuncia grandes retrasos en la entrega de los iPhone 14 Pro y Pro Max debido al bloqueo  COVID en China' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/productos-xiaomi-merecen-pena-comprar-11-11-aliexpress-1151791'>Estos son los productos de Xiaomi que merecen la pena comprar en el 11.11 de AliExpress</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/productos-xiaomi-merecen-pena-comprar-11-11-aliexpress-1151791' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/tienda-fisica-xiaomi-hangzhou-china-2864643.jpg' alt='Estos son los productos de Xiaomi que merecen la pena comprar en el 11.11 de AliExpress' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/10-momentos-surrealistas-elon-musk-twitter-durante-primera-semana-1151075'>Los 10 momentos más surrealistas de Elon Musk en Twitter durante su primera semana</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/10-momentos-surrealistas-elon-musk-twitter-durante-primera-semana-1151075' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/10-momentos-surrealistas-elon-musk-twitter-durante-primera-semana-como-dueno-2863533.jpg' alt='Los 10 momentos más surrealistas de Elon Musk en Twitter durante su primera semana' />
     </a>
 </div>
 
