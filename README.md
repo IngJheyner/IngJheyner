@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/dgt-avisa-error-circulacion-cometen-muchos-conductores-lia-twitter-1152319'>La DGT avisa de un error de circulación que cometen muchos conductores, y se lía en Twitter</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/dgt-avisa-error-circulacion-cometen-muchos-conductores-lia-twitter-1152319' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/autovias-2865661.jpg' alt='La DGT avisa de un error de circulación que cometen muchos conductores, y se lía en Twitter' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/estas-4-aplicaciones-malware-han-colado-google-play-store-debes-eliminarlas-ya-mismo-1152313'>Estas 4 aplicaciones con malware se han colado en Google Play Store y debes eliminarlas ya mismo</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/estas-4-aplicaciones-malware-han-colado-google-play-store-debes-eliminarlas-ya-mismo-1152313' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/malware-android-2865655.jpg' alt='Estas 4 aplicaciones con malware se han colado en Google Play Store y debes eliminarlas ya mismo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/dos-meses-gratis-apple-tv-como-conseguirlo-1152317'>Así puedes conseguir 2 meses gratis de Apple TV+ ahora mismo</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/dos-meses-gratis-apple-tv-como-conseguirlo-1152317' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/apple-tv-apple-music-apple-one-acaban-subir-precio-espana-2852457.jpg' alt='Así puedes conseguir 2 meses gratis de Apple TV+ ahora mismo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/freidora-aire-cecotec-accesorios-oferta-1152275'>Freidora de aire de Cecotec con accesorios, cocina para varias personas y baja a solo 79 euros</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/freidora-aire-cecotec-accesorios-oferta-1152275' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/freidora-aire-cecotec-podras-cocinar-varias-personas-baja-solo-79-euros-2865567.jpg' alt='Freidora de aire de Cecotec con accesorios, cocina para varias personas y baja a solo 79 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/huawei-11-11-mejores-ofertas-1152195'>Huawei estrena el 11 del 11 en España: estas son sus rebajas en ordenadores, auriculares y más</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/huawei-11-11-mejores-ofertas-1152195' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/huawei-watch-gt-3-2865383.jpg' alt='Huawei estrena el 11 del 11 en España: estas son sus rebajas en ordenadores, auriculares y más' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/plan-barato-amazon-prime-video-acaba-estrenar-suerte-no-vas-poder-contratarlo-1152243'>El plan barato de Amazon Prime video se acaba de estrenar y, por suerte, no vas a poder contratarlo</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/plan-barato-amazon-prime-video-acaba-estrenar-suerte-no-vas-poder-contratarlo-1152243' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/logotipo-amazon-prime-video-2427945.jpg' alt='El plan barato de Amazon Prime video se acaba de estrenar y, por suerte, no vas a poder contratarlo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/puede-criticas-elon-musk-no-sean-infundadas-estos-son-hechos-cuestionables-dueno-twitter-1152209'>Puede que las críticas hacia Elon Musk no sean infundadas: estos son los hechos cuestionables del dueño de Twitter</a></h4>
-    <a href='https://computerhoy.com/noticias/life/puede-criticas-elon-musk-no-sean-infundadas-estos-son-hechos-cuestionables-dueno-twitter-1152209' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/elon-musk-2666609.jpg' alt='Puede que las críticas hacia Elon Musk no sean infundadas: estos son los hechos cuestionables del dueño de Twitter' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/vacuna-cancer-mama-ya-realidad-1152213'>La vacuna contra el cáncer de mama ya es una realidad</a></h4>
-    <a href='https://computerhoy.com/noticias/life/vacuna-cancer-mama-ya-realidad-1152213' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/cancer-mama-2449159.jpg' alt='La vacuna contra el cáncer de mama ya es una realidad' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/estos-6-trucos-psicologicos-te-ayudaran-ser-productivo-dia-dia-1152203'>Estos 6 trucos psicológicos te ayudarán a ser más productivo en tu día a día</a></h4>
-    <a href='https://computerhoy.com/noticias/life/estos-6-trucos-psicologicos-te-ayudaran-ser-productivo-dia-dia-1152203' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/estos-6-trucos-psicologicos-te-ayudaran-ser-productivo-dia-dia-2865431.jpg' alt='Estos 6 trucos psicológicos te ayudarán a ser más productivo en tu día a día' />
     </a>
 </div>
 
