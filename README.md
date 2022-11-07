@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/plan-barato-amazon-prime-video-acaba-estrenar-suerte-no-vas-poder-contratarlo-1152243'>El plan barato de Amazon Prime video se acaba de estrenar y, por suerte, no vas a poder contratarlo</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/plan-barato-amazon-prime-video-acaba-estrenar-suerte-no-vas-poder-contratarlo-1152243' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/logotipo-amazon-prime-video-2427945.jpg' alt='El plan barato de Amazon Prime video se acaba de estrenar y, por suerte, no vas a poder contratarlo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/puede-criticas-elon-musk-no-sean-infundadas-estos-son-hechos-cuestionables-dueno-twitter-1152209'>Puede que las críticas hacia Elon Musk no sean infundadas: estos son los hechos cuestionables del dueño de Twitter</a></h4>
+    <a href='https://computerhoy.com/noticias/life/puede-criticas-elon-musk-no-sean-infundadas-estos-son-hechos-cuestionables-dueno-twitter-1152209' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/elon-musk-2666609.jpg' alt='Puede que las críticas hacia Elon Musk no sean infundadas: estos son los hechos cuestionables del dueño de Twitter' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/vacuna-cancer-mama-ya-realidad-1152213'>La vacuna contra el cáncer de mama ya es una realidad</a></h4>
     <a href='https://computerhoy.com/noticias/life/vacuna-cancer-mama-ya-realidad-1152213' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/cancer-mama-2449159.jpg' alt='La vacuna contra el cáncer de mama ya es una realidad' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/metaverso-mark-zuckerberg-culpable-mayor-despido-historia-facebook-1152169'>El metaverso de Mark Zuckerberg culpable del mayor despido de la historia de Facebook</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/metaverso-mark-zuckerberg-culpable-mayor-despido-historia-facebook-1152169' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/mark-zuckerberg-facebook-2865339.jpg' alt='El metaverso de Mark Zuckerberg culpable del mayor despido de la historia de Facebook' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/listas/tecnologia/7-aplicaciones-iphone-seras-productivo-1152191'>Las 7 aplicaciones para iPhone con las que serás más productivo</a></h4>
-    <a href='https://computerhoy.com/listas/tecnologia/7-aplicaciones-iphone-seras-productivo-1152191' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/7-aplicaciones-iphone-seras-productivo-2865401.jpg' alt='Las 7 aplicaciones para iPhone con las que serás más productivo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/vemos-primera-vez-xiaomi-13-13-pro-camara-frontal-perforada-triple-camara-trasera-1152135'>Vemos por primera vez el Xiaomi 13 y 13 Pro: cámara frontal perforada y triple cámara trasera</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/vemos-primera-vez-xiaomi-13-13-pro-camara-frontal-perforada-triple-camara-trasera-1152135' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/xiaomi-13-2865257.jpg' alt='Vemos por primera vez el Xiaomi 13 y 13 Pro: cámara frontal perforada y triple cámara trasera' />
     </a>
 </div>
 
