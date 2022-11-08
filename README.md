@@ -50,9 +50,17 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/tim-berners-lee-web3-blockchain-futuro-internet-solid-1152337'>Tim Berners-Lee, el creador de la WWW, carga contra la Web3 y la blockchain y dice que el futuro de Internet se llama Solid</a></h4>
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/tim-berners-lee-web3-blockchain-futuro-internet-solid-1152337'>Tim Berners-Lee, el creador de las páginas web, carga contra la Web3 y la blockchain y dice que el futuro de Internet se llama Solid</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/tim-berners-lee-web3-blockchain-futuro-internet-solid-1152337' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/09/tim-berners-lee-creador-paginas-web-lanza-solid-nueva-internet-espias.jpg' alt='Tim Berners-Lee, el creador de la WWW, carga contra la Web3 y la blockchain y dice que el futuro de Internet se llama Solid' />
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/09/tim-berners-lee-creador-paginas-web-lanza-solid-nueva-internet-espias.jpg' alt='Tim Berners-Lee, el creador de las páginas web, carga contra la Web3 y la blockchain y dice que el futuro de Internet se llama Solid' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/comunidades-whatsapp-punto-mira-telegram-estas-son-novedades-llegan-aplicacion-mensajeria-1152271'>Las Comunidades de WhatsApp en el punto de mira de Telegram: estas son las novedades que llegan a la aplicación de mensajería</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/comunidades-whatsapp-punto-mira-telegram-estas-son-novedades-llegan-aplicacion-mensajeria-1152271' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/comunidades-whatsapp-punto-mira-telegram-estas-son-novedades-llegan-aplicacion-mensajeria-2865727.jpg' alt='Las Comunidades de WhatsApp en el punto de mira de Telegram: estas son las novedades que llegan a la aplicación de mensajería' />
     </a>
 </div>
 
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/estas-4-aplicaciones-malware-han-colado-google-play-store-debes-eliminarlas-ya-mismo-1152313'>Estas 4 aplicaciones con malware se han colado en Google Play Store y debes eliminarlas ya mismo</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/estas-4-aplicaciones-malware-han-colado-google-play-store-debes-eliminarlas-ya-mismo-1152313' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/malware-android-2865655.jpg' alt='Estas 4 aplicaciones con malware se han colado en Google Play Store y debes eliminarlas ya mismo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/dos-meses-gratis-apple-tv-como-conseguirlo-1152317'>Así puedes conseguir 2 meses gratis de Apple TV+ ahora mismo</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/dos-meses-gratis-apple-tv-como-conseguirlo-1152317' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/apple-tv-apple-music-apple-one-acaban-subir-precio-espana-2852457.jpg' alt='Así puedes conseguir 2 meses gratis de Apple TV+ ahora mismo' />
     </a>
 </div>
 
