@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/mapa-mejores-paises-mundo-mudarse-espana-top-3-1149745'>Este es el mapa con los mejores países del mundo para mudarse: España en el top 3</a></h4>
+    <a href='https://computerhoy.com/noticias/life/mapa-mejores-paises-mundo-mudarse-espana-top-3-1149745' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/mapa-mejores-paises-mundo-mudarse-espana-top-3-2860495.jpg' alt='Este es el mapa con los mejores países del mundo para mudarse: España en el top 3' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/como-liberar-espacio-rapidamente-ordenador-mac-1152825'>Cómo liberar espacio rápidamente en un ordenador Mac</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/como-liberar-espacio-rapidamente-ordenador-mac-1152825' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/analisis-macbook-air-m2-2779349.jpg' alt='Cómo liberar espacio rápidamente en un ordenador Mac' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/android-auto-como-funciona-coches-compatibles-mejores-apps-1132491'>Android Auto: qué es, cómo funciona, coches compatibles y mejores apps</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/android-auto-como-funciona-coches-compatibles-mejores-apps-1132491' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/android-auto-2828149.jpg' alt='Android Auto: qué es, cómo funciona, coches compatibles y mejores apps' />
@@ -60,7 +76,7 @@
 <div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/mediatek-dimensity-9200-chip-gama-movil-top-pone-altura-snapdragon-8-gen-2-anade-raytracing-1152793'>MediaTek Dimensity 9200, el chip para la gama móvil top que se pone a la altura de Snapdragon 8 Gen 2 y añade raytracing</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/mediatek-dimensity-9200-chip-gama-movil-top-pone-altura-snapdragon-8-gen-2-anade-raytracing-1152793' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/mediatek-dimensity-9200-2866165.jpg' alt='MediaTek Dimensity 9200, el chip para la gama móvil top que se pone a la altura de Snapdragon 8 Gen 2 y añade raytracing' />
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/mediatek-dimensity-9200-2866391.jpg' alt='MediaTek Dimensity 9200, el chip para la gama móvil top que se pone a la altura de Snapdragon 8 Gen 2 y añade raytracing' />
     </a>
 </div>
 
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/movil-potente-samsung-supera-mucho-iphone-14-casi-300-euros-descuento-1152245'>El móvil más potente de Samsung supera por mucho al iPhone 14 con casi 300 euros de descuento</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/movil-potente-samsung-supera-mucho-iphone-14-casi-300-euros-descuento-1152245' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/samsung-galaxy-s22-ultra-2610935.jpg' alt='El móvil más potente de Samsung supera por mucho al iPhone 14 con casi 300 euros de descuento' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/paso-a-paso/moviles/como-desactivar-buzon-voz-movistar-vodafone-orange-resto-companias-44296'>Cómo desactivar el buzón de voz en Movistar, Vodafone, Orange y resto de compañías</a></h4>
-    <a href='https://computerhoy.com/paso-a-paso/moviles/como-desactivar-buzon-voz-movistar-vodafone-orange-resto-companias-44296' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/09/usar-movil.jpg' alt='Cómo desactivar el buzón de voz en Movistar, Vodafone, Orange y resto de compañías' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/renault-ya-trabajando-google-qualcomm-denominan-como-vehiculo-manana-1152779'>Renault ya está trabajando con Google y Qualcomm en lo que denominan como "el vehículo del mañana"</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/renault-ya-trabajando-google-qualcomm-denominan-como-vehiculo-manana-1152779' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/renault-ya-trabajando-google-qualcomm-denominan-como-coche-futuro-2866201.jpg' alt='Renault ya está trabajando con Google y Qualcomm en lo que denominan como "el vehículo del mañana"' />
     </a>
 </div>
 
