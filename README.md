@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/elon-musk-no-diferencia-tanto-steve-jobs-menos-hora-despedir-empleados-1152771'>Elon Musk no se diferencia tanto de Steve Jobs, al menos a la hora de despedir empleados</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/elon-musk-no-diferencia-tanto-steve-jobs-menos-hora-despedir-empleados-1152771' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/elon-musk-steve-jobs-2866085.jpg' alt='Elon Musk no se diferencia tanto de Steve Jobs, al menos a la hora de despedir empleados' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/nueva-tecnologia-espanola-carga-rapida-ya-funcionando-autobuses-londres-1152743'>Esta nueva tecnología española de carga rápida ya está funcionando en los autobuses de Londres</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/nueva-tecnologia-espanola-carga-rapida-ya-funcionando-autobuses-londres-1152743' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/tecnologia-espanola-electrificando-autobuses-londres-2866039.jpg' alt='Esta nueva tecnología española de carga rápida ya está funcionando en los autobuses de Londres' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/lg-ha-desarrollado-primera-pantalla-estirable-alta-resolucion-mundo-1152595'>LG ha desarrollado la primera pantalla estirable de alta resolución del mundo</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/lg-ha-desarrollado-primera-pantalla-estirable-alta-resolucion-mundo-1152595' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/lg-ha-desarrollado-pantalla-estira-20-2865897.jpg' alt='LG ha desarrollado la primera pantalla estirable de alta resolución del mundo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/ahora-momento-paso-windows-arm-gracias-potente-rival-m1-propone-qualcomm-1152583'>Ahora sí es el momento del paso de Windows a ARM gracias al potente rival del M1 que propone Qualcomm</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/ahora-momento-paso-windows-arm-gracias-potente-rival-m1-propone-qualcomm-1152583' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/qualcomm-stand-mwc-2633891.jpg' alt='Ahora sí es el momento del paso de Windows a ARM gracias al potente rival del M1 que propone Qualcomm' />
     </a>
 </div>
 
