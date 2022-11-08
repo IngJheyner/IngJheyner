@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/22-noticias-tecnologia-comenzar-manana-informado-ultimo-1152557'>22 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/22-noticias-tecnologia-comenzar-manana-informado-ultimo-1152557' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/22-noticias-tecnologia-comenzar-manana-informado-ultimo-2865851.jpg' alt='22 noticias de tecnología para comenzar la mañana informado de lo último' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/listas/tecnologia/ofertas-xiaomi-black-friday-1152039'>Comienzan las ofertas de Xiaomi del Black Friday: estas son sus mejores chollos</a></h4>
+    <a href='https://computerhoy.com/listas/tecnologia/ofertas-xiaomi-black-friday-1152039' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/logo-xiaomi-fondo-oscuro-2865259.jpg' alt='Comienzan las ofertas de Xiaomi del Black Friday: estas son sus mejores chollos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/consiguen-cultivar-cabello-laboratorio-revolucionar-tratamientos-calvicie-canas-1152553'>Consiguen cultivar cabello en laboratorio: podría revolucionar los tratamientos para la calvicie y las canas</a></h4>
     <a href='https://computerhoy.com/noticias/life/consiguen-cultivar-cabello-laboratorio-revolucionar-tratamientos-calvicie-canas-1152553' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/consiguen-cultivar-foliculos-pilosos-laboratorio-podria-revolucionar-tratamientos-calvicie-canas-2865849.jpg' alt='Consiguen cultivar cabello en laboratorio: podría revolucionar los tratamientos para la calvicie y las canas' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/comunidades-whatsapp-punto-mira-telegram-estas-son-novedades-llegan-aplicacion-mensajeria-1152271'>Las Comunidades de WhatsApp en el punto de mira de Telegram: estas son las novedades que llegan a la aplicación de mensajería</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/comunidades-whatsapp-punto-mira-telegram-estas-son-novedades-llegan-aplicacion-mensajeria-1152271' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/comunidades-whatsapp-punto-mira-telegram-estas-son-novedades-llegan-aplicacion-mensajeria-2865727.jpg' alt='Las Comunidades de WhatsApp en el punto de mira de Telegram: estas son las novedades que llegan a la aplicación de mensajería' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/eclipse-total-lunar-8-noviembre-luna-sangre-nasa-video-1152333'>Eclipse total lunar del 8 de noviembre: por qué la Luna se pondrá roja, según la NASA (vídeo)</a></h4>
-    <a href='https://computerhoy.com/noticias/life/eclipse-total-lunar-8-noviembre-luna-sangre-nasa-video-1152333' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/verticalimage1667857102047-2865717.jpg' alt='Eclipse total lunar del 8 de noviembre: por qué la Luna se pondrá roja, según la NASA (vídeo)' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/dgt-avisa-error-circulacion-cometen-muchos-conductores-lia-twitter-1152319'>La DGT avisa de un error de circulación que cometen muchos conductores, y se lía en Twitter</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/dgt-avisa-error-circulacion-cometen-muchos-conductores-lia-twitter-1152319' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/autovias-2865661.jpg' alt='La DGT avisa de un error de circulación que cometen muchos conductores, y se lía en Twitter' />
     </a>
 </div>
 
