@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/alguien-adelanta-apple-crea-primer-iphone-plegable-totalmente-funcional-1152999'>Alguien se adelanta a Apple y crea el primer iPhone plegable y totalmente funcional</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/alguien-adelanta-apple-crea-primer-iphone-plegable-totalmente-funcional-1152999' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/iphone-v-prototipo-2866661.jpg' alt='Alguien se adelanta a Apple y crea el primer iPhone plegable y totalmente funcional' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/multa-descomunal-ups-dejar-paquete-vecino-consentimiento-destinatario-1152953'>Multa descomunal a UPS por dejar un paquete a un vecino sin el consentimiento del destinatario</a></h4>
+    <a href='https://computerhoy.com/noticias/life/multa-descomunal-ups-dejar-paquete-vecino-consentimiento-destinatario-1152953' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/hombre-varios-paquetes-llama-puerta-2237865.jpg' alt='Multa descomunal a UPS por dejar un paquete a un vecino sin el consentimiento del destinatario' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/estos-son-unicos-coches-pueden-llevar-matricula-opaca-2022-1152993'>Estos son los únicos coches que pueden llevar una matrícula opaca a 2022</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/estos-son-unicos-coches-pueden-llevar-matricula-opaca-2022-1152993' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/matricula-opaca-2866647.jpg' alt='Estos son los únicos coches que pueden llevar una matrícula opaca a 2022' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/vuelven-lidl-deseadas-persianas-termicas-te-ayudan-ahorrar-calefaccion-1152923'>Vuelven a Lidl las deseadas persianas térmicas que te ayudan a ahorrar en calefacción</a></h4>
     <a href='https://computerhoy.com/noticias/life/vuelven-lidl-deseadas-persianas-termicas-te-ayudan-ahorrar-calefaccion-1152923' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/07/persiana.jpg' alt='Vuelven a Lidl las deseadas persianas térmicas que te ayudan a ahorrar en calefacción' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/gaming/silla-gaming-mcdonalds-existe-mantiene-caliente-comida-mientras-juegas-1152869'>La silla gaming de McDonalds existe y mantiene caliente tu comida mientras juegas</a></h4>
     <a href='https://computerhoy.com/noticias/gaming/silla-gaming-mcdonalds-existe-mantiene-caliente-comida-mientras-juegas-1152869' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/mcdonalds-mccrispy-ultimate-gaming-chair-2866507.jpg' alt='La silla gaming de McDonalds existe y mantiene caliente tu comida mientras juegas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/estas-4-aplicaciones-gratuitas-te-ayudaran-eliminar-objetos-no-deseados-fotos-1152819'>Estas 4 aplicaciones gratuitas te ayudarán a eliminar objetos no deseados de tus fotos</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/estas-4-aplicaciones-gratuitas-te-ayudaran-eliminar-objetos-no-deseados-fotos-1152819' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/estas-4-aplicaciones-gratuitas-te-ayudaran-eliminar-objetos-no-deseados-fotos-2866383.jpg' alt='Estas 4 aplicaciones gratuitas te ayudarán a eliminar objetos no deseados de tus fotos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/mapa-mejores-paises-mundo-mudarse-espana-top-3-1149745'>Este es el mapa con los mejores países del mundo para mudarse: España en el top 3</a></h4>
-    <a href='https://computerhoy.com/noticias/life/mapa-mejores-paises-mundo-mudarse-espana-top-3-1149745' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/mapa-mejores-paises-mundo-mudarse-espana-top-3-2860495.jpg' alt='Este es el mapa con los mejores países del mundo para mudarse: España en el top 3' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/como-liberar-espacio-rapidamente-ordenador-mac-1152825'>Cómo liberar espacio rápidamente en un ordenador Mac</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/como-liberar-espacio-rapidamente-ordenador-mac-1152825' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/analisis-macbook-air-m2-2779349.jpg' alt='Cómo liberar espacio rápidamente en un ordenador Mac' />
     </a>
 </div>
 
