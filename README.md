@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/estas-4-aplicaciones-gratuitas-te-ayudaran-eliminar-objetos-no-deseados-fotos-1152819'>Estas 4 aplicaciones gratuitas te ayudarán a eliminar objetos no deseados de tus fotos</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/estas-4-aplicaciones-gratuitas-te-ayudaran-eliminar-objetos-no-deseados-fotos-1152819' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/estas-4-aplicaciones-gratuitas-te-ayudaran-eliminar-objetos-no-deseados-fotos-2866383.jpg' alt='Estas 4 aplicaciones gratuitas te ayudarán a eliminar objetos no deseados de tus fotos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/mapa-mejores-paises-mundo-mudarse-espana-top-3-1149745'>Este es el mapa con los mejores países del mundo para mudarse: España en el top 3</a></h4>
     <a href='https://computerhoy.com/noticias/life/mapa-mejores-paises-mundo-mudarse-espana-top-3-1149745' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/mapa-mejores-paises-mundo-mudarse-espana-top-3-2860495.jpg' alt='Este es el mapa con los mejores países del mundo para mudarse: España en el top 3' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/mediatek-dimensity-9200-chip-gama-movil-top-pone-altura-snapdragon-8-gen-2-anade-raytracing-1152793'>MediaTek Dimensity 9200, el chip para la gama móvil top que se pone a la altura de Snapdragon 8 Gen 2 y añade raytracing</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/mediatek-dimensity-9200-chip-gama-movil-top-pone-altura-snapdragon-8-gen-2-anade-raytracing-1152793' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/mediatek-dimensity-9200-2866391.jpg' alt='MediaTek Dimensity 9200, el chip para la gama móvil top que se pone a la altura de Snapdragon 8 Gen 2 y añade raytracing' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/movil-potente-samsung-supera-mucho-iphone-14-casi-300-euros-descuento-1152245'>El móvil más potente de Samsung supera por mucho al iPhone 14 con casi 300 euros de descuento</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/movil-potente-samsung-supera-mucho-iphone-14-casi-300-euros-descuento-1152245' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/samsung-galaxy-s22-ultra-2610935.jpg' alt='El móvil más potente de Samsung supera por mucho al iPhone 14 con casi 300 euros de descuento' />
     </a>
 </div>
 
