@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/dispositivo-xiaomi-barato-nuevo-televisor-1111-aun-1151003'>Este dispositivo Xiaomi es más barato que un nuevo televisor y en el 11.11 aún más</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/dispositivo-xiaomi-barato-nuevo-televisor-1111-aun-1151003' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/xiaomi-mi-box-s-2863083.jpg' alt='Este dispositivo Xiaomi es más barato que un nuevo televisor y en el 11.11 aún más' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/lg-ha-desarrollado-primera-pantalla-estirable-alta-resolucion-mundo-1152595'>LG ha desarrollado la primera pantalla estirable de alta resolución del mundo</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/lg-ha-desarrollado-primera-pantalla-estirable-alta-resolucion-mundo-1152595' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/lg-ha-desarrollado-pantalla-estira-20-2865897.jpg' alt='LG ha desarrollado la primera pantalla estirable de alta resolución del mundo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/ahora-momento-paso-windows-arm-gracias-potente-rival-m1-propone-qualcomm-1152583'>Ahora sí es el momento del paso de Windows a ARM gracias al potente rival del M1 que propone Qualcomm</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/ahora-momento-paso-windows-arm-gracias-potente-rival-m1-propone-qualcomm-1152583' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/qualcomm-stand-mwc-2633891.jpg' alt='Ahora sí es el momento del paso de Windows a ARM gracias al potente rival del M1 que propone Qualcomm' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/netflix-renueva-dos-temporadas-mejor-estreno-2022-dos-nuevos-asesinos-1152581'>Netflix renueva por dos temporadas su mejor estreno de 2022 con dos nuevos asesinos</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/netflix-renueva-dos-temporadas-mejor-estreno-2022-dos-nuevos-asesinos-1152581' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/netflix-renueva-dos-temporadas-mejor-estreno-2022-dos-nuevos-asesinos-2865881.jpg' alt='Netflix renueva por dos temporadas su mejor estreno de 2022 con dos nuevos asesinos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/directo-mejores-ofertas-black-friday-1144767'>En directo: Las mejores ofertas de Black Friday</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/directo-mejores-ofertas-black-friday-1144767' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/portada-directo-black-friday-2851279.jpg' alt='En directo: Las mejores ofertas de Black Friday' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/6-mejores-consejos-no-te-duela-cuello-mientras-usas-portatil-1152227'>Los 6 mejores consejos para que no te duela el cuello mientras usas el portátil</a></h4>
-    <a href='https://computerhoy.com/noticias/life/6-mejores-consejos-no-te-duela-cuello-mientras-usas-portatil-1152227' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/escritorio-casa-portatil-2565497.jpg' alt='Los 6 mejores consejos para que no te duela el cuello mientras usas el portátil' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/cupones-11-11-aliexpress-como-funcionan-como-conseguirlos-1141639'>Cupones del 11.11 en AliExpress: cómo funcionan y cómo conseguirlos</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/cupones-11-11-aliexpress-como-funcionan-como-conseguirlos-1141639' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/portada-compras-2845833.jpg' alt='Cupones del 11.11 en AliExpress: cómo funcionan y cómo conseguirlos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/estos-5-mitos-seguridad-smartphones-android-ios-todos-creemos-son-realidad-mentira-1152139'>Estos 5 mitos sobre seguridad en smartphones Android e iOS que todos creemos son en realidad mentira</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/estos-5-mitos-seguridad-smartphones-android-ios-todos-creemos-son-realidad-mentira-1152139' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/5-mitos-seguridad-smartphones-android-ios-todos-creemos-son-realidad-mentira-2865279.jpg' alt='Estos 5 mitos sobre seguridad en smartphones Android e iOS que todos creemos son en realidad mentira' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/22-noticias-tecnologia-comenzar-manana-informado-ultimo-1152557'>22 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/22-noticias-tecnologia-comenzar-manana-informado-ultimo-1152557' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/22-noticias-tecnologia-comenzar-manana-informado-ultimo-2865851.jpg' alt='22 noticias de tecnología para comenzar la mañana informado de lo último' />
     </a>
 </div>
 
