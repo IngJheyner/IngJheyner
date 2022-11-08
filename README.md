@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/consiguen-cultivar-cabello-laboratorio-revolucionar-tratamientos-calvicie-canas-1152553'>Consiguen cultivar cabello en laboratorio: podría revolucionar los tratamientos para la calvicie y las canas</a></h4>
+    <a href='https://computerhoy.com/noticias/life/consiguen-cultivar-cabello-laboratorio-revolucionar-tratamientos-calvicie-canas-1152553' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/consiguen-cultivar-foliculos-pilosos-laboratorio-podria-revolucionar-tratamientos-calvicie-canas-2865849.jpg' alt='Consiguen cultivar cabello en laboratorio: podría revolucionar los tratamientos para la calvicie y las canas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/tim-berners-lee-web3-blockchain-futuro-internet-solid-1152337'>Tim Berners-Lee, el creador de las páginas web, carga contra la Web3 y la blockchain y dice que el futuro de Internet se llama Solid</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/tim-berners-lee-web3-blockchain-futuro-internet-solid-1152337' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/09/tim-berners-lee-creador-paginas-web-lanza-solid-nueva-internet-espias.jpg' alt='Tim Berners-Lee, el creador de las páginas web, carga contra la Web3 y la blockchain y dice que el futuro de Internet se llama Solid' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/motor/dgt-avisa-error-circulacion-cometen-muchos-conductores-lia-twitter-1152319'>La DGT avisa de un error de circulación que cometen muchos conductores, y se lía en Twitter</a></h4>
     <a href='https://computerhoy.com/noticias/motor/dgt-avisa-error-circulacion-cometen-muchos-conductores-lia-twitter-1152319' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/autovias-2865661.jpg' alt='La DGT avisa de un error de circulación que cometen muchos conductores, y se lía en Twitter' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/estas-4-aplicaciones-malware-han-colado-google-play-store-debes-eliminarlas-ya-mismo-1152313'>Estas 4 aplicaciones con malware se han colado en Google Play Store y debes eliminarlas ya mismo</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/estas-4-aplicaciones-malware-han-colado-google-play-store-debes-eliminarlas-ya-mismo-1152313' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/malware-android-2865655.jpg' alt='Estas 4 aplicaciones con malware se han colado en Google Play Store y debes eliminarlas ya mismo' />
     </a>
 </div>
 
