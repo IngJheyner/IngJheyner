@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/elon-musk-no-diferencia-tanto-steve-jobs-menos-hora-despedir-empleados-1152771'>Elon Musk no se diferencia tanto de Steve Jobs, al menos a la hora de despedir empleados</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/elon-musk-no-diferencia-tanto-steve-jobs-menos-hora-despedir-empleados-1152771' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/elon-musk-steve-jobs-2866085.jpg' alt='Elon Musk no se diferencia tanto de Steve Jobs, al menos a la hora de despedir empleados' />
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/android-auto-como-funciona-coches-compatibles-mejores-apps-1132491'>Android Auto: qué es, cómo funciona, coches compatibles y mejores apps</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/android-auto-como-funciona-coches-compatibles-mejores-apps-1132491' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/android-auto-2828149.jpg' alt='Android Auto: qué es, cómo funciona, coches compatibles y mejores apps' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/nueva-tecnologia-espanola-carga-rapida-ya-funcionando-autobuses-londres-1152743'>Esta nueva tecnología española de carga rápida ya está funcionando en los autobuses de Londres</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/nueva-tecnologia-espanola-carga-rapida-ya-funcionando-autobuses-londres-1152743' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/tecnologia-espanola-electrificando-autobuses-londres-2866039.jpg' alt='Esta nueva tecnología española de carga rápida ya está funcionando en los autobuses de Londres' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/mediatek-dimensity-9200-chip-gama-movil-top-pone-altura-snapdragon-8-gen-2-anade-raytracing-1152793'>MediaTek Dimensity 9200, el chip para la gama móvil top que se pone a la altura de Snapdragon 8 Gen 2 y añade raytracing</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/mediatek-dimensity-9200-chip-gama-movil-top-pone-altura-snapdragon-8-gen-2-anade-raytracing-1152793' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/mediatek-dimensity-9200-2866165.jpg' alt='MediaTek Dimensity 9200, el chip para la gama móvil top que se pone a la altura de Snapdragon 8 Gen 2 y añade raytracing' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/mapa-muestra-como-seria-poblacion-espana-nadie-moviera-provincia-nacimiento-1152609'>El mapa que muestra cómo sería la población de España si nadie se moviera de su provincia de nacimiento</a></h4>
-    <a href='https://computerhoy.com/noticias/life/mapa-muestra-como-seria-poblacion-espana-nadie-moviera-provincia-nacimiento-1152609' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/mapa-espana-2609317.jpg' alt='El mapa que muestra cómo sería la población de España si nadie se moviera de su provincia de nacimiento' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/movil-potente-samsung-supera-mucho-iphone-14-casi-300-euros-descuento-1152245'>El móvil más potente de Samsung supera por mucho al iPhone 14 con casi 300 euros de descuento</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/movil-potente-samsung-supera-mucho-iphone-14-casi-300-euros-descuento-1152245' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/samsung-galaxy-s22-ultra-2610935.jpg' alt='El móvil más potente de Samsung supera por mucho al iPhone 14 con casi 300 euros de descuento' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/dispositivo-xiaomi-barato-nuevo-televisor-1111-aun-1151003'>Este dispositivo Xiaomi es más barato que un nuevo televisor y en el 11.11 aún más</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/dispositivo-xiaomi-barato-nuevo-televisor-1111-aun-1151003' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/xiaomi-mi-box-s-2863083.jpg' alt='Este dispositivo Xiaomi es más barato que un nuevo televisor y en el 11.11 aún más' />
+    <h4><a href='https://computerhoy.com/paso-a-paso/moviles/como-desactivar-buzon-voz-movistar-vodafone-orange-resto-companias-44296'>Cómo desactivar el buzón de voz en Movistar, Vodafone, Orange y resto de compañías</a></h4>
+    <a href='https://computerhoy.com/paso-a-paso/moviles/como-desactivar-buzon-voz-movistar-vodafone-orange-resto-companias-44296' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/09/usar-movil.jpg' alt='Cómo desactivar el buzón de voz en Movistar, Vodafone, Orange y resto de compañías' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/lg-ha-desarrollado-primera-pantalla-estirable-alta-resolucion-mundo-1152595'>LG ha desarrollado la primera pantalla estirable de alta resolución del mundo</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/lg-ha-desarrollado-primera-pantalla-estirable-alta-resolucion-mundo-1152595' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/lg-ha-desarrollado-pantalla-estira-20-2865897.jpg' alt='LG ha desarrollado la primera pantalla estirable de alta resolución del mundo' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/renault-ya-trabajando-google-qualcomm-denominan-como-vehiculo-manana-1152779'>Renault ya está trabajando con Google y Qualcomm en lo que denominan como "el vehículo del mañana"</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/renault-ya-trabajando-google-qualcomm-denominan-como-vehiculo-manana-1152779' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/renault-ya-trabajando-google-qualcomm-denominan-como-coche-futuro-2866201.jpg' alt='Renault ya está trabajando con Google y Qualcomm en lo que denominan como "el vehículo del mañana"' />
     </a>
 </div>
 
