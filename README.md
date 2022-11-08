@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/estos-5-mitos-seguridad-smartphones-android-ios-todos-creemos-son-realidad-mentira-1152139'>Estos 5 mitos sobre seguridad en smartphones Android e iOS que todos creemos son en realidad mentira</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/estos-5-mitos-seguridad-smartphones-android-ios-todos-creemos-son-realidad-mentira-1152139' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/5-mitos-seguridad-smartphones-android-ios-todos-creemos-son-realidad-mentira-2865279.jpg' alt='Estos 5 mitos sobre seguridad en smartphones Android e iOS que todos creemos son en realidad mentira' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/22-noticias-tecnologia-comenzar-manana-informado-ultimo-1152557'>22 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/22-noticias-tecnologia-comenzar-manana-informado-ultimo-1152557' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/22-noticias-tecnologia-comenzar-manana-informado-ultimo-2865851.jpg' alt='22 noticias de tecnología para comenzar la mañana informado de lo último' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/tim-berners-lee-web3-blockchain-futuro-internet-solid-1152337'>Tim Berners-Lee, el creador de las páginas web, carga contra la Web3 y la blockchain y dice que el futuro de Internet se llama Solid</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/tim-berners-lee-web3-blockchain-futuro-internet-solid-1152337' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/09/tim-berners-lee-creador-paginas-web-lanza-solid-nueva-internet-espias.jpg' alt='Tim Berners-Lee, el creador de las páginas web, carga contra la Web3 y la blockchain y dice que el futuro de Internet se llama Solid' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/comunidades-whatsapp-punto-mira-telegram-estas-son-novedades-llegan-aplicacion-mensajeria-1152271'>Las Comunidades de WhatsApp en el punto de mira de Telegram: estas son las novedades que llegan a la aplicación de mensajería</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/comunidades-whatsapp-punto-mira-telegram-estas-son-novedades-llegan-aplicacion-mensajeria-1152271' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/comunidades-whatsapp-punto-mira-telegram-estas-son-novedades-llegan-aplicacion-mensajeria-2865727.jpg' alt='Las Comunidades de WhatsApp en el punto de mira de Telegram: estas son las novedades que llegan a la aplicación de mensajería' />
     </a>
 </div>
 
