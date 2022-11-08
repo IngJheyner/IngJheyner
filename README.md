@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/nueva-tecnologia-espanola-carga-rapida-ya-funcionando-autobuses-londres-1152743'>Esta nueva tecnología española de carga rápida ya está funcionando en los autobuses de Londres</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/nueva-tecnologia-espanola-carga-rapida-ya-funcionando-autobuses-londres-1152743' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/tecnologia-espanola-electrificando-autobuses-londres-2866039.jpg' alt='Esta nueva tecnología española de carga rápida ya está funcionando en los autobuses de Londres' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/mapa-muestra-como-seria-poblacion-espana-nadie-moviera-provincia-nacimiento-1152609'>El mapa que muestra cómo sería la población de España si nadie se moviera de su provincia de nacimiento</a></h4>
+    <a href='https://computerhoy.com/noticias/life/mapa-muestra-como-seria-poblacion-espana-nadie-moviera-provincia-nacimiento-1152609' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/mapa-espana-2609317.jpg' alt='El mapa que muestra cómo sería la población de España si nadie se moviera de su provincia de nacimiento' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/dispositivo-xiaomi-barato-nuevo-televisor-1111-aun-1151003'>Este dispositivo Xiaomi es más barato que un nuevo televisor y en el 11.11 aún más</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/dispositivo-xiaomi-barato-nuevo-televisor-1111-aun-1151003' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/xiaomi-mi-box-s-2863083.jpg' alt='Este dispositivo Xiaomi es más barato que un nuevo televisor y en el 11.11 aún más' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/ahora-momento-paso-windows-arm-gracias-potente-rival-m1-propone-qualcomm-1152583'>Ahora sí es el momento del paso de Windows a ARM gracias al potente rival del M1 que propone Qualcomm</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/ahora-momento-paso-windows-arm-gracias-potente-rival-m1-propone-qualcomm-1152583' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/qualcomm-stand-mwc-2633891.jpg' alt='Ahora sí es el momento del paso de Windows a ARM gracias al potente rival del M1 que propone Qualcomm' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/netflix-renueva-dos-temporadas-mejor-estreno-2022-dos-nuevos-asesinos-1152581'>Netflix renueva por dos temporadas su mejor estreno de 2022 con dos nuevos asesinos</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/netflix-renueva-dos-temporadas-mejor-estreno-2022-dos-nuevos-asesinos-1152581' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/netflix-renueva-dos-temporadas-mejor-estreno-2022-dos-nuevos-asesinos-2865881.jpg' alt='Netflix renueva por dos temporadas su mejor estreno de 2022 con dos nuevos asesinos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/directo-mejores-ofertas-black-friday-1144767'>En directo: Las mejores ofertas de Black Friday</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/directo-mejores-ofertas-black-friday-1144767' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/portada-directo-black-friday-2851279.jpg' alt='En directo: Las mejores ofertas de Black Friday' />
     </a>
 </div>
 
