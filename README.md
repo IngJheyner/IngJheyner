@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/vuelven-lidl-deseadas-persianas-termicas-te-ayudan-ahorrar-calefaccion-1152923'>Vuelven a Lidl las deseadas persianas térmicas que te ayudan a ahorrar en calefacción</a></h4>
+    <a href='https://computerhoy.com/noticias/life/vuelven-lidl-deseadas-persianas-termicas-te-ayudan-ahorrar-calefaccion-1152923' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/07/persiana.jpg' alt='Vuelven a Lidl las deseadas persianas térmicas que te ayudan a ahorrar en calefacción' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/gaming/silla-gaming-mcdonalds-existe-mantiene-caliente-comida-mientras-juegas-1152869'>La silla gaming de McDonalds existe y mantiene caliente tu comida mientras juegas</a></h4>
     <a href='https://computerhoy.com/noticias/gaming/silla-gaming-mcdonalds-existe-mantiene-caliente-comida-mientras-juegas-1152869' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/mcdonalds-mccrispy-ultimate-gaming-chair-2866507.jpg' alt='La silla gaming de McDonalds existe y mantiene caliente tu comida mientras juegas' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/como-liberar-espacio-rapidamente-ordenador-mac-1152825'>Cómo liberar espacio rápidamente en un ordenador Mac</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/como-liberar-espacio-rapidamente-ordenador-mac-1152825' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/analisis-macbook-air-m2-2779349.jpg' alt='Cómo liberar espacio rápidamente en un ordenador Mac' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/android-auto-como-funciona-coches-compatibles-mejores-apps-1132491'>Android Auto: qué es, cómo funciona, coches compatibles y mejores apps</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/android-auto-como-funciona-coches-compatibles-mejores-apps-1132491' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/android-auto-2828149.jpg' alt='Android Auto: qué es, cómo funciona, coches compatibles y mejores apps' />
     </a>
 </div>
 
