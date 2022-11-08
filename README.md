@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/tim-berners-lee-web3-blockchain-futuro-internet-solid-1152337'>Tim Berners-Lee, el creador de la WWW, carga contra la Web3 y la blockchain y dice que el futuro de Internet se llama Solid</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/tim-berners-lee-web3-blockchain-futuro-internet-solid-1152337' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/09/tim-berners-lee-creador-paginas-web-lanza-solid-nueva-internet-espias.jpg' alt='Tim Berners-Lee, el creador de la WWW, carga contra la Web3 y la blockchain y dice que el futuro de Internet se llama Solid' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/eclipse-total-lunar-8-noviembre-luna-sangre-nasa-video-1152333'>Eclipse total lunar del 8 de noviembre: por qué la Luna se pondrá roja, según la NASA (vídeo)</a></h4>
     <a href='https://computerhoy.com/noticias/life/eclipse-total-lunar-8-noviembre-luna-sangre-nasa-video-1152333' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/verticalimage1667857102047-2865717.jpg' alt='Eclipse total lunar del 8 de noviembre: por qué la Luna se pondrá roja, según la NASA (vídeo)' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/dos-meses-gratis-apple-tv-como-conseguirlo-1152317'>Así puedes conseguir 2 meses gratis de Apple TV+ ahora mismo</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/dos-meses-gratis-apple-tv-como-conseguirlo-1152317' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/apple-tv-apple-music-apple-one-acaban-subir-precio-espana-2852457.jpg' alt='Así puedes conseguir 2 meses gratis de Apple TV+ ahora mismo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/freidora-aire-cecotec-accesorios-oferta-1152275'>Freidora de aire de Cecotec con accesorios, cocina para varias personas y baja a solo 79 euros</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/freidora-aire-cecotec-accesorios-oferta-1152275' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/freidora-aire-cecotec-podras-cocinar-varias-personas-baja-solo-79-euros-2865567.jpg' alt='Freidora de aire de Cecotec con accesorios, cocina para varias personas y baja a solo 79 euros' />
     </a>
 </div>
 
