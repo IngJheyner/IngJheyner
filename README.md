@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/gaming/silla-gaming-mcdonalds-existe-mantiene-caliente-comida-mientras-juegas-1152869'>La silla gaming de McDonalds existe y mantiene caliente tu comida mientras juegas</a></h4>
+    <a href='https://computerhoy.com/noticias/gaming/silla-gaming-mcdonalds-existe-mantiene-caliente-comida-mientras-juegas-1152869' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/mcdonalds-mccrispy-ultimate-gaming-chair-2866507.jpg' alt='La silla gaming de McDonalds existe y mantiene caliente tu comida mientras juegas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/estas-4-aplicaciones-gratuitas-te-ayudaran-eliminar-objetos-no-deseados-fotos-1152819'>Estas 4 aplicaciones gratuitas te ayudarán a eliminar objetos no deseados de tus fotos</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/estas-4-aplicaciones-gratuitas-te-ayudaran-eliminar-objetos-no-deseados-fotos-1152819' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/estas-4-aplicaciones-gratuitas-te-ayudaran-eliminar-objetos-no-deseados-fotos-2866383.jpg' alt='Estas 4 aplicaciones gratuitas te ayudarán a eliminar objetos no deseados de tus fotos' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/android-auto-como-funciona-coches-compatibles-mejores-apps-1132491'>Android Auto: qué es, cómo funciona, coches compatibles y mejores apps</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/android-auto-como-funciona-coches-compatibles-mejores-apps-1132491' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/android-auto-2828149.jpg' alt='Android Auto: qué es, cómo funciona, coches compatibles y mejores apps' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/mediatek-dimensity-9200-chip-gama-movil-top-pone-altura-snapdragon-8-gen-2-anade-raytracing-1152793'>MediaTek Dimensity 9200, el chip para la gama móvil top que se pone a la altura de Snapdragon 8 Gen 2 y añade raytracing</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/mediatek-dimensity-9200-chip-gama-movil-top-pone-altura-snapdragon-8-gen-2-anade-raytracing-1152793' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/mediatek-dimensity-9200-2866391.jpg' alt='MediaTek Dimensity 9200, el chip para la gama móvil top que se pone a la altura de Snapdragon 8 Gen 2 y añade raytracing' />
     </a>
 </div>
 
