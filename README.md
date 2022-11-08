@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/sangre-artificial-ya-realidad-han-realizado-primeras-transfusiones-exitosas-1152935'>La sangre artificial ya es una realidad y se han realizado las primeras transfusiones exitosas</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/sangre-artificial-ya-realidad-han-realizado-primeras-transfusiones-exitosas-1152935' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/08/sangre-dorada-solo-tienen-40-personas-mundo.jpg' alt='La sangre artificial ya es una realidad y se han realizado las primeras transfusiones exitosas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/oppo-pad-air-tablet-oferta-1152973'>Oppo Pad Air, una tablet ideal para el contenido multimedia y redes sociales, baja a solo 265 euros</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/oppo-pad-air-tablet-oferta-1152973' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/oppo-pad-air-analisis-opinion-2826331.jpg' alt='Oppo Pad Air, una tablet ideal para el contenido multimedia y redes sociales, baja a solo 265 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/videollamadas-pantalla-cine-zoom-amc-1153013'>Zoom en pantalla grande, muy grande: así es el negocio que quiere desarrollar junto a AMC</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/videollamadas-pantalla-cine-zoom-amc-1153013' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/12/cines-mueren-cadena-amc-queda-dinero-enero-algunos-directores-acusan-warner-hbo-max-2165531.jpg' alt='Zoom en pantalla grande, muy grande: así es el negocio que quiere desarrollar junto a AMC' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/alguien-adelanta-apple-crea-primer-iphone-plegable-totalmente-funcional-1152999'>Alguien se adelanta a Apple y crea el primer iPhone plegable y totalmente funcional</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/alguien-adelanta-apple-crea-primer-iphone-plegable-totalmente-funcional-1152999' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/iphone-v-prototipo-2866661.jpg' alt='Alguien se adelanta a Apple y crea el primer iPhone plegable y totalmente funcional' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/multa-descomunal-ups-dejar-paquete-vecino-consentimiento-destinatario-1152953'>Multa descomunal a UPS por dejar un paquete a un vecino sin el consentimiento del destinatario</a></h4>
     <a href='https://computerhoy.com/noticias/life/multa-descomunal-ups-dejar-paquete-vecino-consentimiento-destinatario-1152953' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/hombre-varios-paquetes-llama-puerta-2237865.jpg' alt='Multa descomunal a UPS por dejar un paquete a un vecino sin el consentimiento del destinatario' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/estos-son-unicos-coches-pueden-llevar-matricula-opaca-2022-1152993'>Estos son los únicos coches que pueden llevar una matrícula opaca a 2022</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/estos-son-unicos-coches-pueden-llevar-matricula-opaca-2022-1152993' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/matricula-opaca-2866647.jpg' alt='Estos son los únicos coches que pueden llevar una matrícula opaca a 2022' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/vuelven-lidl-deseadas-persianas-termicas-te-ayudan-ahorrar-calefaccion-1152923'>Vuelven a Lidl las deseadas persianas térmicas que te ayudan a ahorrar en calefacción</a></h4>
-    <a href='https://computerhoy.com/noticias/life/vuelven-lidl-deseadas-persianas-termicas-te-ayudan-ahorrar-calefaccion-1152923' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/07/persiana.jpg' alt='Vuelven a Lidl las deseadas persianas térmicas que te ayudan a ahorrar en calefacción' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/gaming/silla-gaming-mcdonalds-existe-mantiene-caliente-comida-mientras-juegas-1152869'>La silla gaming de McDonalds existe y mantiene caliente tu comida mientras juegas</a></h4>
-    <a href='https://computerhoy.com/noticias/gaming/silla-gaming-mcdonalds-existe-mantiene-caliente-comida-mientras-juegas-1152869' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/mcdonalds-mccrispy-ultimate-gaming-chair-2866507.jpg' alt='La silla gaming de McDonalds existe y mantiene caliente tu comida mientras juegas' />
     </a>
 </div>
 
