@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/directo-mejores-ofertas-black-friday-1144767'>En directo: Las mejores ofertas de Black Friday</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/directo-mejores-ofertas-black-friday-1144767' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/portada-directo-black-friday-2851279.jpg' alt='En directo: Las mejores ofertas de Black Friday' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/6-mejores-consejos-no-te-duela-cuello-mientras-usas-portatil-1152227'>Los 6 mejores consejos para que no te duela el cuello mientras usas el portátil</a></h4>
+    <a href='https://computerhoy.com/noticias/life/6-mejores-consejos-no-te-duela-cuello-mientras-usas-portatil-1152227' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/escritorio-casa-portatil-2565497.jpg' alt='Los 6 mejores consejos para que no te duela el cuello mientras usas el portátil' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/cupones-11-11-aliexpress-como-funcionan-como-conseguirlos-1141639'>Cupones del 11.11 en AliExpress: cómo funcionan y cómo conseguirlos</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/cupones-11-11-aliexpress-como-funcionan-como-conseguirlos-1141639' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/portada-compras-2845833.jpg' alt='Cupones del 11.11 en AliExpress: cómo funcionan y cómo conseguirlos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/estos-5-mitos-seguridad-smartphones-android-ios-todos-creemos-son-realidad-mentira-1152139'>Estos 5 mitos sobre seguridad en smartphones Android e iOS que todos creemos son en realidad mentira</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/estos-5-mitos-seguridad-smartphones-android-ios-todos-creemos-son-realidad-mentira-1152139' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/5-mitos-seguridad-smartphones-android-ios-todos-creemos-son-realidad-mentira-2865279.jpg' alt='Estos 5 mitos sobre seguridad en smartphones Android e iOS que todos creemos son en realidad mentira' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/22-noticias-tecnologia-comenzar-manana-informado-ultimo-1152557'>22 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/22-noticias-tecnologia-comenzar-manana-informado-ultimo-1152557' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/22-noticias-tecnologia-comenzar-manana-informado-ultimo-2865851.jpg' alt='22 noticias de tecnología para comenzar la mañana informado de lo último' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/listas/tecnologia/ofertas-xiaomi-black-friday-1152039'>Comienzan las ofertas de Xiaomi del Black Friday: estas son sus mejores chollos</a></h4>
-    <a href='https://computerhoy.com/listas/tecnologia/ofertas-xiaomi-black-friday-1152039' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/logo-xiaomi-fondo-oscuro-2865259.jpg' alt='Comienzan las ofertas de Xiaomi del Black Friday: estas son sus mejores chollos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/consiguen-cultivar-cabello-laboratorio-revolucionar-tratamientos-calvicie-canas-1152553'>Consiguen cultivar cabello en laboratorio: podría revolucionar los tratamientos para la calvicie y las canas</a></h4>
-    <a href='https://computerhoy.com/noticias/life/consiguen-cultivar-cabello-laboratorio-revolucionar-tratamientos-calvicie-canas-1152553' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/consiguen-cultivar-foliculos-pilosos-laboratorio-podria-revolucionar-tratamientos-calvicie-canas-2865849.jpg' alt='Consiguen cultivar cabello en laboratorio: podría revolucionar los tratamientos para la calvicie y las canas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/tim-berners-lee-web3-blockchain-futuro-internet-solid-1152337'>Tim Berners-Lee, el creador de las páginas web, carga contra la Web3 y la blockchain y dice que el futuro de Internet se llama Solid</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/tim-berners-lee-web3-blockchain-futuro-internet-solid-1152337' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/09/tim-berners-lee-creador-paginas-web-lanza-solid-nueva-internet-espias.jpg' alt='Tim Berners-Lee, el creador de las páginas web, carga contra la Web3 y la blockchain y dice que el futuro de Internet se llama Solid' />
     </a>
 </div>
 
