@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/realme-10-nuevo-gama-media-2023-bateria-5000-mah-procesador-helio-g99-1153401'>Así es el realme 10, el nuevo gama media de 2023: batería de 5.000 mAh y procesador Helio G99</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/realme-10-nuevo-gama-media-2023-bateria-5000-mah-procesador-helio-g99-1153401' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/realme-10-2867383.jpg' alt='Así es el realme 10, el nuevo gama media de 2023: batería de 5.000 mAh y procesador Helio G99' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/listas/gaming/7-nuevos-juegos-moviles-android-tienes-descargar-ya-mismo-1153383'>Los 7 nuevos juegos para móviles Android que tienes que descargar ya mismo</a></h4>
     <a href='https://computerhoy.com/listas/gaming/7-nuevos-juegos-moviles-android-tienes-descargar-ya-mismo-1153383' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/7-nuevos-juegos-moviles-android-tienes-descargar-ya-mismo-2867283.jpg' alt='Los 7 nuevos juegos para móviles Android que tienes que descargar ya mismo' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/limitaciones-europeas-tvs-4k-8k-como-te-afectara-ano-viene-1153343'>Las limitaciones europeas para las TVs 4K y 8K, ¿cómo te afectará el año que viene?</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/limitaciones-europeas-tvs-4k-8k-como-te-afectara-ano-viene-1153343' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/8k-prohibido-europa-2867177.jpg' alt='Las limitaciones europeas para las TVs 4K y 8K, ¿cómo te afectará el año que viene?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/truco-sueno-utilizaban-einstein-edison-dali-impulsar-pensamiento-creativo-1153335'>El truco del sueño que utilizaban Einstein, Edison y Dalí para impulsar el pensamiento creativo</a></h4>
-    <a href='https://computerhoy.com/noticias/life/truco-sueno-utilizaban-einstein-edison-dali-impulsar-pensamiento-creativo-1153335' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/sueno-creativo-2867163.jpg' alt='El truco del sueño que utilizaban Einstein, Edison y Dalí para impulsar el pensamiento creativo' />
     </a>
 </div>
 
