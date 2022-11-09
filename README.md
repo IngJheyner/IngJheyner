@@ -50,9 +50,25 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/mapa-espana-puedes-buscar-comprobar-donde-hay-gente-apellido-1153309'>El mapa de España en el que puedes buscar y comprobar dónde hay más gente con tu apellido</a></h4>
+    <a href='https://computerhoy.com/noticias/life/mapa-espana-puedes-buscar-comprobar-donde-hay-gente-apellido-1153309' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/mapa-espana-2867147.jpg' alt='El mapa de España en el que puedes buscar y comprobar dónde hay más gente con tu apellido' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-televisores-4k-puedes-comprar-presupuesto-1057601'>Mejores televisores 4K que puedes comprar en 2022 según tu presupuesto</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-televisores-4k-puedes-comprar-presupuesto-1057601' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/salon-smart-tv-reproduciendo-musica-2866553.jpg' alt='Mejores televisores 4K que puedes comprar en 2022 según tu presupuesto' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/motor/son-nuevas-modernizadas-senales-trafico-veremos-ciudades-carreteras-1153279'>Así son las nuevas y modernizadas señales de tráfico que veremos en ciudades y carreteras</a></h4>
     <a href='https://computerhoy.com/noticias/motor/son-nuevas-modernizadas-senales-trafico-veremos-ciudades-carreteras-1153279' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/senal-prohibido-adelantar-2397271.jpg' alt='Así son las nuevas y modernizadas señales de tráfico que veremos en ciudades y carreteras' />
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/nuevas-senales-trafico-2867141.jpg' alt='Así son las nuevas y modernizadas señales de tráfico que veremos en ciudades y carreteras' />
     </a>
 </div>
 
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/whatsapp-trae-novedades-caracteristicas-util-enviar-mensajes-mismo-1153261'>WhatsApp trae novedades en su características más útil: enviar mensajes a uno mismo</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/whatsapp-trae-novedades-caracteristicas-util-enviar-mensajes-mismo-1153261' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/whatsapp-2525977.jpg' alt='WhatsApp trae novedades en su características más útil: enviar mensajes a uno mismo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/listas/tecnologia/ofertas-moviles-11-11-cupones-mejores-descuentos-telefonos-xiaomi-realme-1152623'>Ofertas móviles 11 del 11: cupones y mejores descuentos en teléfonos Xiaomi, realme y más</a></h4>
-    <a href='https://computerhoy.com/listas/tecnologia/ofertas-moviles-11-11-cupones-mejores-descuentos-telefonos-xiaomi-realme-1152623' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/aliexpress-2865923.jpg' alt='Ofertas móviles 11 del 11: cupones y mejores descuentos en teléfonos Xiaomi, realme y más' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/instagram-fin-te-dejara-programar-publicaciones-estos-son-cambios-llegan-1153237'>Instagram por fin te dejará programar tus publicaciones: estos son los cambios que llegan</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/instagram-fin-te-dejara-programar-publicaciones-estos-son-cambios-llegan-1153237' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/instagram-2866967.jpg' alt='Instagram por fin te dejará programar tus publicaciones: estos son los cambios que llegan' />
     </a>
 </div>
 
