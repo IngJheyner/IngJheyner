@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/presente-futuro-computacion-cuantica-1152893'>El presente y futuro de la computación cuántica</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/presente-futuro-computacion-cuantica-1152893' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/ibm-osprey-2866487.jpg' alt='El presente y futuro de la computación cuántica' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/oficial-mark-zuckerberg-despide-11000-empleados-facebook-solo-principio-1153355'>Es oficial: Mark Zuckerberg despide a 11.000 empleados de Facebook y es solo el principio</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/oficial-mark-zuckerberg-despide-11000-empleados-facebook-solo-principio-1153355' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/mark-zuckerberg-2867171.jpg' alt='Es oficial: Mark Zuckerberg despide a 11.000 empleados de Facebook y es solo el principio' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/mapa-espana-puedes-buscar-comprobar-donde-hay-gente-apellido-1153309'>El mapa de España en el que puedes buscar y comprobar dónde hay más gente con tu apellido</a></h4>
     <a href='https://computerhoy.com/noticias/life/mapa-espana-puedes-buscar-comprobar-donde-hay-gente-apellido-1153309' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/mapa-espana-2867147.jpg' alt='El mapa de España en el que puedes buscar y comprobar dónde hay más gente con tu apellido' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-televisores-4k-puedes-comprar-presupuesto-1057601'>Mejores televisores 4K que puedes comprar en 2022 según tu presupuesto</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-televisores-4k-puedes-comprar-presupuesto-1057601' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/salon-smart-tv-reproduciendo-musica-2866553.jpg' alt='Mejores televisores 4K que puedes comprar en 2022 según tu presupuesto' />
     </a>
 </div>
 
