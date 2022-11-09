@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/aranazos-sartenes-teflon-liberan-miles-microplasticos-1153207'>Mucho cuidado con los arañazos en las sartenes de teflón, liberan miles de microplásticos</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/aranazos-sartenes-teflon-liberan-miles-microplasticos-1153207' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/mucho-cuidado-aranazos-sartenes-teflon-liberan-miles-microparticulas-plastico-2866907.jpg' alt='Mucho cuidado con los arañazos en las sartenes de teflón, liberan miles de microplásticos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/silentwakeup-despertador-silencioso-video-1153031'>SilentWakeUp, el despertador silencioso (vídeo)</a></h4>
     <a href='https://computerhoy.com/noticias/life/silentwakeup-despertador-silencioso-video-1153031' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/verticalimage1667948590666-2866745.jpg' alt='SilentWakeUp, el despertador silencioso (vídeo)' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/oppo-pad-air-tablet-oferta-1152973'>Oppo Pad Air, una tablet ideal para el contenido multimedia y redes sociales, baja a solo 265 euros</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/oppo-pad-air-tablet-oferta-1152973' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/oppo-pad-air-analisis-opinion-2826331.jpg' alt='Oppo Pad Air, una tablet ideal para el contenido multimedia y redes sociales, baja a solo 265 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/videollamadas-pantalla-cine-zoom-amc-1153013'>Zoom en pantalla grande, muy grande: así es el negocio que quiere desarrollar junto a AMC</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/videollamadas-pantalla-cine-zoom-amc-1153013' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/12/cines-mueren-cadena-amc-queda-dinero-enero-algunos-directores-acusan-warner-hbo-max-2165531.jpg' alt='Zoom en pantalla grande, muy grande: así es el negocio que quiere desarrollar junto a AMC' />
     </a>
 </div>
 
