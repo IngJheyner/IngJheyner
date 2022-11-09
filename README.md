@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/son-nuevas-modernizadas-senales-trafico-veremos-ciudades-carreteras-1153279'>Así son las nuevas y modernizadas señales de tráfico que veremos en ciudades y carreteras</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/son-nuevas-modernizadas-senales-trafico-veremos-ciudades-carreteras-1153279' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/senal-prohibido-adelantar-2397271.jpg' alt='Así son las nuevas y modernizadas señales de tráfico que veremos en ciudades y carreteras' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/5-errores-cometemos-mensajes-audio-whatsapp-1153281'>5 errores que cometemos cuando enviamos audio por WhatsApp</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/5-errores-cometemos-mensajes-audio-whatsapp-1153281' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/5-errores-cometemos-cuando-enviamos-audio-whatsapp-2867027.jpg' alt='5 errores que cometemos cuando enviamos audio por WhatsApp' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/whatsapp-trae-novedades-caracteristicas-util-enviar-mensajes-mismo-1153261'>WhatsApp trae novedades en su características más útil: enviar mensajes a uno mismo</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/whatsapp-trae-novedades-caracteristicas-util-enviar-mensajes-mismo-1153261' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/whatsapp-2525977.jpg' alt='WhatsApp trae novedades en su características más útil: enviar mensajes a uno mismo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/listas/tecnologia/ofertas-moviles-11-11-cupones-mejores-descuentos-telefonos-xiaomi-realme-1152623'>Ofertas móviles 11 del 11: cupones y mejores descuentos en teléfonos Xiaomi, realme y más</a></h4>
     <a href='https://computerhoy.com/listas/tecnologia/ofertas-moviles-11-11-cupones-mejores-descuentos-telefonos-xiaomi-realme-1152623' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/aliexpress-2865923.jpg' alt='Ofertas móviles 11 del 11: cupones y mejores descuentos en teléfonos Xiaomi, realme y más' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/instagram-fin-te-dejara-programar-publicaciones-estos-son-cambios-llegan-1153237'>Instagram por fin te dejará programar tus publicaciones: estos son los cambios que llegan</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/instagram-fin-te-dejara-programar-publicaciones-estos-son-cambios-llegan-1153237' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/instagram-2866967.jpg' alt='Instagram por fin te dejará programar tus publicaciones: estos son los cambios que llegan' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-crear-propio-avatar-tiktok-sorprender-seguidores-1148797'>Cómo crear tu propio Avatar en TikTok y sorprender a tus seguidores</a></h4>
-    <a href='https://computerhoy.com/tutoriales/tecnologia/como-crear-propio-avatar-tiktok-sorprender-seguidores-1148797' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/avatares-tiktok-2858927.jpg' alt='Cómo crear tu propio Avatar en TikTok y sorprender a tus seguidores' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/consejos-buenas-practicas-evitar-te-roben-cuentas-1152911'>Consejos y buenas prácticas para evitar que te roben tus cuentas</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/consejos-buenas-practicas-evitar-te-roben-cuentas-1152911' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/contrasenas-2866515.jpg' alt='Consejos y buenas prácticas para evitar que te roben tus cuentas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/directo-mejores-ofertas-black-friday-1144767'>En directo: Las mejores ofertas de Black Friday</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/directo-mejores-ofertas-black-friday-1144767' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/portada-directo-black-friday-2851279.jpg' alt='En directo: Las mejores ofertas de Black Friday' />
     </a>
 </div>
 
