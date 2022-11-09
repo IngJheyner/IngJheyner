@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/26-noticias-tecnologia-comenzar-manana-informado-ultimo-1153213'>26 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/26-noticias-tecnologia-comenzar-manana-informado-ultimo-1153213' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/26-noticias-tecnologia-comenzar-manana-informado-ultimo-2866911.jpg' alt='26 noticias de tecnología para comenzar la mañana informado de lo último' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/cuando-empieza-black-friday-pccomponentes-1152223'>Cuándo empieza el Black Friday en PcComponentes</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/cuando-empieza-black-friday-pccomponentes-1152223' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/pccomponentes-2865443.jpg' alt='Cuándo empieza el Black Friday en PcComponentes' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/4-errores-no-debes-cometer-ofreces-casa-airbnb-1153209'>4 errores que no debes cometer si ofreces tu casa en Airbnb</a></h4>
     <a href='https://computerhoy.com/noticias/life/4-errores-no-debes-cometer-ofreces-casa-airbnb-1153209' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/4-errores-no-debes-cometer-ofreces-casa-airbnb-2866909.jpg' alt='4 errores que no debes cometer si ofreces tu casa en Airbnb' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/silentwakeup-despertador-silencioso-video-1153031'>SilentWakeUp, el despertador silencioso (vídeo)</a></h4>
     <a href='https://computerhoy.com/noticias/life/silentwakeup-despertador-silencioso-video-1153031' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/verticalimage1667948590666-2866745.jpg' alt='SilentWakeUp, el despertador silencioso (vídeo)' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/instagram-verificar-edad-videoselfie-dni-1153029'>Instagram comienza a verificar la edad en España a través de vídeo o escaneo del DNI</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/instagram-verificar-edad-videoselfie-dni-1153029' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/instagram-comienza-verificar-edad-espana-traves-video-escaneo-dni-2866731.jpg' alt='Instagram comienza a verificar la edad en España a través de vídeo o escaneo del DNI' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/sangre-artificial-ya-realidad-han-realizado-primeras-transfusiones-exitosas-1152935'>La sangre artificial ya es una realidad y se han realizado las primeras transfusiones exitosas</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/sangre-artificial-ya-realidad-han-realizado-primeras-transfusiones-exitosas-1152935' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/08/sangre-dorada-solo-tienen-40-personas-mundo.jpg' alt='La sangre artificial ya es una realidad y se han realizado las primeras transfusiones exitosas' />
     </a>
 </div>
 
