@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/listas/gaming/7-nuevos-juegos-moviles-android-tienes-descargar-ya-mismo-1153383'>Los 7 nuevos juegos para móviles Android que tienes que descargar ya mismo</a></h4>
+    <a href='https://computerhoy.com/listas/gaming/7-nuevos-juegos-moviles-android-tienes-descargar-ya-mismo-1153383' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/7-nuevos-juegos-moviles-android-tienes-descargar-ya-mismo-2867283.jpg' alt='Los 7 nuevos juegos para móviles Android que tienes que descargar ya mismo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/presente-futuro-computacion-cuantica-1152893'>El presente y futuro de la computación cuántica</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/presente-futuro-computacion-cuantica-1152893' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/ibm-osprey-2866487.jpg' alt='El presente y futuro de la computación cuántica' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/truco-sueno-utilizaban-einstein-edison-dali-impulsar-pensamiento-creativo-1153335'>El truco del sueño que utilizaban Einstein, Edison y Dalí para impulsar el pensamiento creativo</a></h4>
     <a href='https://computerhoy.com/noticias/life/truco-sueno-utilizaban-einstein-edison-dali-impulsar-pensamiento-creativo-1153335' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/sueno-creativo-2867163.jpg' alt='El truco del sueño que utilizaban Einstein, Edison y Dalí para impulsar el pensamiento creativo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/mapa-espana-puedes-buscar-comprobar-donde-hay-gente-apellido-1153309'>El mapa de España en el que puedes buscar y comprobar dónde hay más gente con tu apellido</a></h4>
-    <a href='https://computerhoy.com/noticias/life/mapa-espana-puedes-buscar-comprobar-donde-hay-gente-apellido-1153309' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/mapa-espana-2867147.jpg' alt='El mapa de España en el que puedes buscar y comprobar dónde hay más gente con tu apellido' />
     </a>
 </div>
 
