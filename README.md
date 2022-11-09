@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/guerra-plataformas-streaming-2022-netflix-hbo-max-disney-corona-1153429'>Así está la guerra de las plataformas de streaming en 2022: Netflix, HBO Max y Disney+ a por la corona</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/guerra-plataformas-streaming-2022-netflix-hbo-max-disney-corona-1153429' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/plataforma-streaming-2867397.jpg' alt='Así está la guerra de las plataformas de streaming en 2022: Netflix, HBO Max y Disney+ a por la corona' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/listas/tecnologia/mejores-sillas-escritorio-baratas-625673'>Las mejores sillas de escritorio baratas que puedes comprar en 2022 en Amazon, IKEA, PcComponentes y más</a></h4>
     <a href='https://computerhoy.com/listas/tecnologia/mejores-sillas-escritorio-baratas-625673' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/silla-escritorio-2866991.jpg' alt='Las mejores sillas de escritorio baratas que puedes comprar en 2022 en Amazon, IKEA, PcComponentes y más' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/presente-futuro-computacion-cuantica-1152893'>El presente y futuro de la computación cuántica</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/presente-futuro-computacion-cuantica-1152893' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/ibm-osprey-2866487.jpg' alt='El presente y futuro de la computación cuántica' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/oficial-mark-zuckerberg-despide-11000-empleados-facebook-solo-principio-1153355'>Es oficial: Mark Zuckerberg despide a 11.000 empleados de Facebook y es solo el principio</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/oficial-mark-zuckerberg-despide-11000-empleados-facebook-solo-principio-1153355' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/mark-zuckerberg-2867171.jpg' alt='Es oficial: Mark Zuckerberg despide a 11.000 empleados de Facebook y es solo el principio' />
     </a>
 </div>
 
