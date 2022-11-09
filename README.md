@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/listas/tecnologia/mejores-sillas-escritorio-baratas-625673'>Las mejores sillas de escritorio baratas que puedes comprar en 2022 en Amazon, IKEA, PcComponentes y más</a></h4>
+    <a href='https://computerhoy.com/listas/tecnologia/mejores-sillas-escritorio-baratas-625673' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/silla-escritorio-2866991.jpg' alt='Las mejores sillas de escritorio baratas que puedes comprar en 2022 en Amazon, IKEA, PcComponentes y más' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/realme-10-nuevo-gama-media-2023-bateria-5000-mah-procesador-helio-g99-1153401'>Así es el realme 10, el nuevo gama media de 2023: batería de 5.000 mAh y procesador Helio G99</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/realme-10-nuevo-gama-media-2023-bateria-5000-mah-procesador-helio-g99-1153401' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/realme-10-2867383.jpg' alt='Así es el realme 10, el nuevo gama media de 2023: batería de 5.000 mAh y procesador Helio G99' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/oficial-mark-zuckerberg-despide-11000-empleados-facebook-solo-principio-1153355'>Es oficial: Mark Zuckerberg despide a 11.000 empleados de Facebook y es solo el principio</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/oficial-mark-zuckerberg-despide-11000-empleados-facebook-solo-principio-1153355' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/mark-zuckerberg-2867171.jpg' alt='Es oficial: Mark Zuckerberg despide a 11.000 empleados de Facebook y es solo el principio' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/limitaciones-europeas-tvs-4k-8k-como-te-afectara-ano-viene-1153343'>Las limitaciones europeas para las TVs 4K y 8K, ¿cómo te afectará el año que viene?</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/limitaciones-europeas-tvs-4k-8k-como-te-afectara-ano-viene-1153343' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/8k-prohibido-europa-2867177.jpg' alt='Las limitaciones europeas para las TVs 4K y 8K, ¿cómo te afectará el año que viene?' />
     </a>
 </div>
 
