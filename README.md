@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-crear-propio-avatar-tiktok-sorprender-seguidores-1148797'>Cómo crear tu propio Avatar en TikTok y sorprender a tus seguidores</a></h4>
+    <a href='https://computerhoy.com/tutoriales/tecnologia/como-crear-propio-avatar-tiktok-sorprender-seguidores-1148797' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/avatares-tiktok-2858927.jpg' alt='Cómo crear tu propio Avatar en TikTok y sorprender a tus seguidores' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/consejos-buenas-practicas-evitar-te-roben-cuentas-1152911'>Consejos y buenas prácticas para evitar que te roben tus cuentas</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/consejos-buenas-practicas-evitar-te-roben-cuentas-1152911' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/contrasenas-2866515.jpg' alt='Consejos y buenas prácticas para evitar que te roben tus cuentas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/directo-mejores-ofertas-black-friday-1144767'>En directo: Las mejores ofertas de Black Friday</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/directo-mejores-ofertas-black-friday-1144767' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/portada-directo-black-friday-2851279.jpg' alt='En directo: Las mejores ofertas de Black Friday' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/guia-compra-1111-trucos-consejos-aliexpress-962207'>Guía de compra del 11.11: trucos y consejos para comprar más barato en AliExpress</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/guia-compra-1111-trucos-consejos-aliexpress-962207' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/carrito-compra-ofertas-1111-2844513.jpg' alt='Guía de compra del 11.11: trucos y consejos para comprar más barato en AliExpress' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/estos-5-telefonos-minimalistas-te-ayudaran-escapar-tecnologia-retroceder-tiempo-1152867'>Estos 5 teléfonos minimalistas te ayudarán a escapar de la tecnología y retroceder en el tiempo</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/estos-5-telefonos-minimalistas-te-ayudaran-escapar-tecnologia-retroceder-tiempo-1152867' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/estos-5-telefonos-minimalistas-te-ayudaran-escapar-tecnologia-retroceder-tiempo-2866465.jpg' alt='Estos 5 teléfonos minimalistas te ayudarán a escapar de la tecnología y retroceder en el tiempo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/26-noticias-tecnologia-comenzar-manana-informado-ultimo-1153213'>26 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/26-noticias-tecnologia-comenzar-manana-informado-ultimo-1153213' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/26-noticias-tecnologia-comenzar-manana-informado-ultimo-2866911.jpg' alt='26 noticias de tecnología para comenzar la mañana informado de lo último' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/cuando-empieza-black-friday-pccomponentes-1152223'>Cuándo empieza el Black Friday en PcComponentes</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/cuando-empieza-black-friday-pccomponentes-1152223' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/pccomponentes-2865443.jpg' alt='Cuándo empieza el Black Friday en PcComponentes' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/4-errores-no-debes-cometer-ofreces-casa-airbnb-1153209'>4 errores que no debes cometer si ofreces tu casa en Airbnb</a></h4>
-    <a href='https://computerhoy.com/noticias/life/4-errores-no-debes-cometer-ofreces-casa-airbnb-1153209' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/4-errores-no-debes-cometer-ofreces-casa-airbnb-2866909.jpg' alt='4 errores que no debes cometer si ofreces tu casa en Airbnb' />
     </a>
 </div>
 
