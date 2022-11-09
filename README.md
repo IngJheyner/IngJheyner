@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/silentwakeup-despertador-silencioso-video-1153031'>SilentWakeUp, el despertador silencioso (vídeo)</a></h4>
+    <a href='https://computerhoy.com/noticias/life/silentwakeup-despertador-silencioso-video-1153031' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/verticalimage1667948590666-2866745.jpg' alt='SilentWakeUp, el despertador silencioso (vídeo)' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/instagram-verificar-edad-videoselfie-dni-1153029'>Instagram comienza a verificar la edad en España a través de vídeo o escaneo del DNI</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/instagram-verificar-edad-videoselfie-dni-1153029' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/instagram-comienza-verificar-edad-espana-traves-video-escaneo-dni-2866731.jpg' alt='Instagram comienza a verificar la edad en España a través de vídeo o escaneo del DNI' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/videollamadas-pantalla-cine-zoom-amc-1153013'>Zoom en pantalla grande, muy grande: así es el negocio que quiere desarrollar junto a AMC</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/videollamadas-pantalla-cine-zoom-amc-1153013' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/12/cines-mueren-cadena-amc-queda-dinero-enero-algunos-directores-acusan-warner-hbo-max-2165531.jpg' alt='Zoom en pantalla grande, muy grande: así es el negocio que quiere desarrollar junto a AMC' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/alguien-adelanta-apple-crea-primer-iphone-plegable-totalmente-funcional-1152999'>Alguien se adelanta a Apple y crea el primer iPhone plegable y totalmente funcional</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/alguien-adelanta-apple-crea-primer-iphone-plegable-totalmente-funcional-1152999' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/iphone-v-prototipo-2866661.jpg' alt='Alguien se adelanta a Apple y crea el primer iPhone plegable y totalmente funcional' />
     </a>
 </div>
 
