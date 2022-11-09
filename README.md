@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/elon-musk-no-salen-cuentas-compra-twitter-toca-vender-acciones-principal-empresa-1153439'>A Elon Musk no le salen las cuentas de la compra de Twitter y le toca vender acciones de su principal empresa</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/elon-musk-no-salen-cuentas-compra-twitter-toca-vender-acciones-principal-empresa-1153439' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/elon-musk-2867409.jpg' alt='A Elon Musk no le salen las cuentas de la compra de Twitter y le toca vender acciones de su principal empresa' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/aplicaciones-apple-iphone-recopilan-mucha-informacion-ti-estudio-1153477'>Las aplicaciones de Apple en tu iPhone recopilan mucha información sobre ti, según este estudio</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/aplicaciones-apple-iphone-recopilan-mucha-informacion-ti-estudio-1153477' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/apps-iphone-2867551.jpg' alt='Las aplicaciones de Apple en tu iPhone recopilan mucha información sobre ti, según este estudio' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/alarmas-iphone-debes-elegir-despertarte-bien-cada-manana-1153471'>Las alarmas del iPhone que debes elegir para despertarte bien cada mañana</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/alarmas-iphone-debes-elegir-despertarte-bien-cada-manana-1153471' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/alarma-smartphone-2867521.jpg' alt='Las alarmas del iPhone que debes elegir para despertarte bien cada mañana' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/traducir-documento-pdf-467707'>Cómo traducir cualquier documento PDF al instante</a></h4>
+    <a href='https://computerhoy.com/tutoriales/tecnologia/traducir-documento-pdf-467707' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/traductor-idiomas-pdf-2438051.jpg' alt='Cómo traducir cualquier documento PDF al instante' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/guerra-plataformas-streaming-2022-netflix-hbo-max-disney-corona-1153429'>Así está la guerra de las plataformas de streaming en 2022: Netflix, HBO Max y Disney+ a por la corona</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/guerra-plataformas-streaming-2022-netflix-hbo-max-disney-corona-1153429' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/plataforma-streaming-2867397.jpg' alt='Así está la guerra de las plataformas de streaming en 2022: Netflix, HBO Max y Disney+ a por la corona' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/listas/tecnologia/mejores-sillas-escritorio-baratas-625673'>Las mejores sillas de escritorio baratas que puedes comprar en 2022 en Amazon, IKEA, PcComponentes y más</a></h4>
-    <a href='https://computerhoy.com/listas/tecnologia/mejores-sillas-escritorio-baratas-625673' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/silla-escritorio-2866991.jpg' alt='Las mejores sillas de escritorio baratas que puedes comprar en 2022 en Amazon, IKEA, PcComponentes y más' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/realme-10-nuevo-gama-media-2023-bateria-5000-mah-procesador-helio-g99-1153401'>Así es el realme 10, el nuevo gama media de 2023: batería de 5.000 mAh y procesador Helio G99</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/realme-10-nuevo-gama-media-2023-bateria-5000-mah-procesador-helio-g99-1153401' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/realme-10-2867383.jpg' alt='Así es el realme 10, el nuevo gama media de 2023: batería de 5.000 mAh y procesador Helio G99' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/listas/gaming/7-nuevos-juegos-moviles-android-tienes-descargar-ya-mismo-1153383'>Los 7 nuevos juegos para móviles Android que tienes que descargar ya mismo</a></h4>
-    <a href='https://computerhoy.com/listas/gaming/7-nuevos-juegos-moviles-android-tienes-descargar-ya-mismo-1153383' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/7-nuevos-juegos-moviles-android-tienes-descargar-ya-mismo-2867283.jpg' alt='Los 7 nuevos juegos para móviles Android que tienes que descargar ya mismo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/presente-futuro-computacion-cuantica-1152893'>El presente y futuro de la computación cuántica</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/presente-futuro-computacion-cuantica-1152893' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/ibm-osprey-2866487.jpg' alt='El presente y futuro de la computación cuántica' />
     </a>
 </div>
 
