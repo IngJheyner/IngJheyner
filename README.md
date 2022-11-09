@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/4-errores-no-debes-cometer-ofreces-casa-airbnb-1153209'>4 errores que no debes cometer si ofreces tu casa en Airbnb</a></h4>
+    <a href='https://computerhoy.com/noticias/life/4-errores-no-debes-cometer-ofreces-casa-airbnb-1153209' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/4-errores-no-debes-cometer-ofreces-casa-airbnb-2866909.jpg' alt='4 errores que no debes cometer si ofreces tu casa en Airbnb' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/motor/aranazos-sartenes-teflon-liberan-miles-microplasticos-1153207'>Mucho cuidado con los arañazos en las sartenes de teflón, liberan miles de microplásticos</a></h4>
     <a href='https://computerhoy.com/noticias/motor/aranazos-sartenes-teflon-liberan-miles-microplasticos-1153207' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/mucho-cuidado-aranazos-sartenes-teflon-liberan-miles-microparticulas-plastico-2866907.jpg' alt='Mucho cuidado con los arañazos en las sartenes de teflón, liberan miles de microplásticos' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/sangre-artificial-ya-realidad-han-realizado-primeras-transfusiones-exitosas-1152935'>La sangre artificial ya es una realidad y se han realizado las primeras transfusiones exitosas</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/sangre-artificial-ya-realidad-han-realizado-primeras-transfusiones-exitosas-1152935' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/08/sangre-dorada-solo-tienen-40-personas-mundo.jpg' alt='La sangre artificial ya es una realidad y se han realizado las primeras transfusiones exitosas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/oppo-pad-air-tablet-oferta-1152973'>Oppo Pad Air, una tablet ideal para el contenido multimedia y redes sociales, baja a solo 265 euros</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/oppo-pad-air-tablet-oferta-1152973' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/oppo-pad-air-analisis-opinion-2826331.jpg' alt='Oppo Pad Air, una tablet ideal para el contenido multimedia y redes sociales, baja a solo 265 euros' />
     </a>
 </div>
 
