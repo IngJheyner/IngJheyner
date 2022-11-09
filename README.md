@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/listas/tecnologia/ofertas-moviles-11-11-cupones-mejores-descuentos-telefonos-xiaomi-realme-1152623'>Ofertas móviles 11 del 11: cupones y mejores descuentos en teléfonos Xiaomi, realme y más</a></h4>
+    <a href='https://computerhoy.com/listas/tecnologia/ofertas-moviles-11-11-cupones-mejores-descuentos-telefonos-xiaomi-realme-1152623' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/aliexpress-2865923.jpg' alt='Ofertas móviles 11 del 11: cupones y mejores descuentos en teléfonos Xiaomi, realme y más' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/instagram-fin-te-dejara-programar-publicaciones-estos-son-cambios-llegan-1153237'>Instagram por fin te dejará programar tus publicaciones: estos son los cambios que llegan</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/instagram-fin-te-dejara-programar-publicaciones-estos-son-cambios-llegan-1153237' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/instagram-2866967.jpg' alt='Instagram por fin te dejará programar tus publicaciones: estos son los cambios que llegan' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/directo-mejores-ofertas-black-friday-1144767'>En directo: Las mejores ofertas de Black Friday</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/directo-mejores-ofertas-black-friday-1144767' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/portada-directo-black-friday-2851279.jpg' alt='En directo: Las mejores ofertas de Black Friday' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/guia-compra-1111-trucos-consejos-aliexpress-962207'>Guía de compra del 11.11: trucos y consejos para comprar más barato en AliExpress</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/guia-compra-1111-trucos-consejos-aliexpress-962207' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/carrito-compra-ofertas-1111-2844513.jpg' alt='Guía de compra del 11.11: trucos y consejos para comprar más barato en AliExpress' />
     </a>
 </div>
 
