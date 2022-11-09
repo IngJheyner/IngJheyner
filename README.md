@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/radiocasete-vintage-japon-suben-precios-1153489'>¿Tienes un radiocasete viejo olvidado en el trastero? En Japón están pagando cinco veces más por ellos</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/radiocasete-vintage-japon-suben-precios-1153489' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/tienes-radiocasete-viejo-olvidado-trastero-japon-estan-pagando-cinco-veces-ellos-2867671.jpg' alt='¿Tienes un radiocasete viejo olvidado en el trastero? En Japón están pagando cinco veces más por ellos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/mejores-robots-cocina-oferta-amazon-precio-irresistible-1153455'>Uno de los mejores robots de cocina está en oferta en Amazon a un precio irresistible</a></h4>
     <a href='https://computerhoy.com/noticias/life/mejores-robots-cocina-oferta-amazon-precio-irresistible-1153455' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/robot-cocina-2867433.jpg' alt='Uno de los mejores robots de cocina está en oferta en Amazon a un precio irresistible' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/alarmas-iphone-debes-elegir-despertarte-bien-cada-manana-1153471'>Las alarmas del iPhone que debes elegir para despertarte bien cada mañana</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/alarmas-iphone-debes-elegir-despertarte-bien-cada-manana-1153471' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/alarma-smartphone-2867521.jpg' alt='Las alarmas del iPhone que debes elegir para despertarte bien cada mañana' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/traducir-documento-pdf-467707'>Cómo traducir cualquier documento PDF al instante</a></h4>
-    <a href='https://computerhoy.com/tutoriales/tecnologia/traducir-documento-pdf-467707' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/traductor-idiomas-pdf-2438051.jpg' alt='Cómo traducir cualquier documento PDF al instante' />
     </a>
 </div>
 
