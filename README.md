@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/instagram-fin-te-dejara-programar-publicaciones-estos-son-cambios-llegan-1153237'>Instagram por fin te dejará programar tus publicaciones: estos son los cambios que llegan</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/instagram-fin-te-dejara-programar-publicaciones-estos-son-cambios-llegan-1153237' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/instagram-2866967.jpg' alt='Instagram por fin te dejará programar tus publicaciones: estos son los cambios que llegan' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-crear-propio-avatar-tiktok-sorprender-seguidores-1148797'>Cómo crear tu propio Avatar en TikTok y sorprender a tus seguidores</a></h4>
     <a href='https://computerhoy.com/tutoriales/tecnologia/como-crear-propio-avatar-tiktok-sorprender-seguidores-1148797' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/avatares-tiktok-2858927.jpg' alt='Cómo crear tu propio Avatar en TikTok y sorprender a tus seguidores' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/guia-compra-1111-trucos-consejos-aliexpress-962207'>Guía de compra del 11.11: trucos y consejos para comprar más barato en AliExpress</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/guia-compra-1111-trucos-consejos-aliexpress-962207' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/carrito-compra-ofertas-1111-2844513.jpg' alt='Guía de compra del 11.11: trucos y consejos para comprar más barato en AliExpress' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/estos-5-telefonos-minimalistas-te-ayudaran-escapar-tecnologia-retroceder-tiempo-1152867'>Estos 5 teléfonos minimalistas te ayudarán a escapar de la tecnología y retroceder en el tiempo</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/estos-5-telefonos-minimalistas-te-ayudaran-escapar-tecnologia-retroceder-tiempo-1152867' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/estos-5-telefonos-minimalistas-te-ayudaran-escapar-tecnologia-retroceder-tiempo-2866465.jpg' alt='Estos 5 teléfonos minimalistas te ayudarán a escapar de la tecnología y retroceder en el tiempo' />
     </a>
 </div>
 
