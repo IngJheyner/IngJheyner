@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/conduces-te-interesa-significan-nuevas-senales-dgt-llegaran-carreteras-2023-1153837'>Si conduces te interesa: qué significan las nuevas señales de la DGT que llegarán a las carreteras en 2023</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/conduces-te-interesa-significan-nuevas-senales-dgt-llegaran-carreteras-2023-1153837' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/nuevas-senales-traficos-2868425.jpg' alt='Si conduces te interesa: qué significan las nuevas señales de la DGT que llegarán a las carreteras en 2023' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/google-maps-lugares-contaminadores-espana-resto-mundo-1153841'>El Google Maps de lugares más contaminadores de España y resto del mundo</a></h4>
+    <a href='https://computerhoy.com/noticias/life/google-maps-lugares-contaminadores-espana-resto-mundo-1153841' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/google-maps-lugares-contaminadores-espana-resto-mundo-2868289.jpg' alt='El Google Maps de lugares más contaminadores de España y resto del mundo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/televisor-8k-samsung-600eu-descuento-chollo-merece-pena-ver-mundial-1152757'>Un televisor 8K de Samsung con 600€ de descuento: este chollo sí que merece la pena para ver el Mundial</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/televisor-8k-samsung-600eu-descuento-chollo-merece-pena-ver-mundial-1152757' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/neoqled-samsung-qe55qn750a-8k-2866075.jpg' alt='Un televisor 8K de Samsung con 600€ de descuento: este chollo sí que merece la pena para ver el Mundial' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/como-organizar-frigorifico-alimentos-conserven-tiempo-economia-te-agradezca-1153787'>Cómo organizar el frigorífico para que los alimentos se conserven más tiempo y tu economía te lo agradezca</a></h4>
     <a href='https://computerhoy.com/noticias/life/como-organizar-frigorifico-alimentos-conserven-tiempo-economia-te-agradezca-1153787' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/como-colocar-correctamente-cualquier-alimento-frigorifico-no-estropee-2868195.jpg' alt='Cómo organizar el frigorífico para que los alimentos se conserven más tiempo y tu economía te lo agradezca' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/huawei-mate-50-pro-llega-espana-novedosa-camara-servicios-inteligentes-1147551'>Huawei Mate 50 Pro llega a España con su novedosa cámara y servicios inteligentes</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/huawei-mate-50-pro-llega-espana-novedosa-camara-servicios-inteligentes-1147551' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/huawei-mate-50-pro-llega-espana-2856301.jpg' alt='Huawei Mate 50 Pro llega a España con su novedosa cámara y servicios inteligentes' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/elon-musk-quiere-convertir-twitter-sistema-pago-tipo-bizum-volviendo-origenes-paypal-1153757'>Elon Musk quiere convertir Twitter en un sistema de pago tipo Bizum, ¿volviendo a sus orígenes de PayPal?</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/elon-musk-quiere-convertir-twitter-sistema-pago-tipo-bizum-volviendo-origenes-paypal-1153757' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/elon-musk-2868027.jpg' alt='Elon Musk quiere convertir Twitter en un sistema de pago tipo Bizum, ¿volviendo a sus orígenes de PayPal?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/whatsapp-nos-escucha-anade-silencio-automatico-grupos-256-personas-1153749'>WhatsApp nos escucha y añade el silencio automático en los grupos de más de 256 personas</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/whatsapp-nos-escucha-anade-silencio-automatico-grupos-256-personas-1153749' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/whatsapp-nos-escucha-anade-silencio-automatico-grupos-256-personas-2868065.jpg' alt='WhatsApp nos escucha y añade el silencio automático en los grupos de más de 256 personas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/quieres-tener-perro-espana-tendras-hacer-cursillo-tener-seguro-ley-1153727'>Si quieres tener un perro en España tendrás que hacer un cursillo y tener seguro por Ley</a></h4>
-    <a href='https://computerhoy.com/noticias/life/quieres-tener-perro-espana-tendras-hacer-cursillo-tener-seguro-ley-1153727' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/localizador-gps-perros-tractive-2452809.jpg' alt='Si quieres tener un perro en España tendrás que hacer un cursillo y tener seguro por Ley' />
     </a>
 </div>
 
