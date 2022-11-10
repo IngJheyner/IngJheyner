@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/netflix-ya-ha-estrenado-espana-plan-barato-anuncios-te-compensa-cambiarte-1154035'>Netflix ya ha estrenado en España el plan barato con anuncios, ¿te compensa cambiarte?</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/netflix-ya-ha-estrenado-espana-plan-barato-anuncios-te-compensa-cambiarte-1154035' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/netflix-2810051.jpg' alt='Netflix ya ha estrenado en España el plan barato con anuncios, ¿te compensa cambiarte?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/apple-retirara-mejores-caracteristicas-airdrop-te-afectara-cambio-1154045'>Apple retirará una de las mejores características de AirDrop: así te afectará el cambio</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/apple-retirara-mejores-caracteristicas-airdrop-te-afectara-cambio-1154045' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/12/airdrop.jpg' alt='Apple retirará una de las mejores características de AirDrop: así te afectará el cambio' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/huawei-watch-gt-3-oficial-podras-responder-llamadas-muneca-1154009'>El Huawei Watch GT 3 SE es oficial y con el podrás responder llamadas desde la muñeca</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/huawei-watch-gt-3-oficial-podras-responder-llamadas-muneca-1154009' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/huawei-watch-gt-3-oficial-podras-responder-llamadas-muneca-2868695.jpg' alt='El Huawei Watch GT 3 SE es oficial y con el podrás responder llamadas desde la muñeca' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/tdt-como-funciona-canales-programacion-mejores-apps-ver-tdt-gratis-internet-1147487'>Qué es la TDT y cómo funciona: canales, programación y las mejores apps para ver la TDT gratis por Internet</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/tdt-como-funciona-canales-programacion-mejores-apps-ver-tdt-gratis-internet-1147487' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/tdt-2856157.jpg' alt='Qué es la TDT y cómo funciona: canales, programación y las mejores apps para ver la TDT gratis por Internet' />
     </a>
 </div>
 
