@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/gaming/nvidia-rtx-4080-bestia-gaming-cerca-rtx-4090-mejor-rtx-3090-ti-benchmarks-1153939'>La NVIDIA RTX 4080 es una bestia en gaming: cerca de la RTX 4090 y mejor que la RTX 3090 Ti, según benchmarks</a></h4>
+    <a href='https://computerhoy.com/noticias/gaming/nvidia-rtx-4080-bestia-gaming-cerca-rtx-4090-mejor-rtx-3090-ti-benchmarks-1153939' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/rtx-4080-nvidia-2819209.jpg' alt='La NVIDIA RTX 4080 es una bestia en gaming: cerca de la RTX 4090 y mejor que la RTX 3090 Ti, según benchmarks' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/actualizacion-windows-11-ser-mejor-sistema-operativo-gaming-tiene-gran-problema-1153935'>La actualización de Windows 11 para ser el mejor sistema operativo para gaming tiene un gran problema</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/actualizacion-windows-11-ser-mejor-sistema-operativo-gaming-tiene-gran-problema-1153935' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/actualizacion-windows-11-ser-mejor-sistema-operativo-gaming-tiene-gran-problema-2868511.jpg' alt='La actualización de Windows 11 para ser el mejor sistema operativo para gaming tiene un gran problema' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/google-maps-lugares-contaminadores-espana-resto-mundo-1153841'>El Google Maps de lugares más contaminadores de España y resto del mundo</a></h4>
     <a href='https://computerhoy.com/noticias/life/google-maps-lugares-contaminadores-espana-resto-mundo-1153841' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/google-maps-lugares-contaminadores-espana-resto-mundo-2868289.jpg' alt='El Google Maps de lugares más contaminadores de España y resto del mundo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/televisor-8k-samsung-600eu-descuento-chollo-merece-pena-ver-mundial-1152757'>Un televisor 8K de Samsung con 600€ de descuento: este chollo sí que merece la pena para ver el Mundial</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/televisor-8k-samsung-600eu-descuento-chollo-merece-pena-ver-mundial-1152757' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/neoqled-samsung-qe55qn750a-8k-2866075.jpg' alt='Un televisor 8K de Samsung con 600€ de descuento: este chollo sí que merece la pena para ver el Mundial' />
     </a>
 </div>
 
