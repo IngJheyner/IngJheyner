@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/ya-quiosco-numero-629-computer-hoy-1149937'>¡Ya está en tu quiosco el número 629 de Computer Hoy!</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/ya-quiosco-numero-629-computer-hoy-1149937' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/computer-hoy-629-2861991.jpg' alt='¡Ya está en tu quiosco el número 629 de Computer Hoy!' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/tiendas-ofertas-especiales-11-11-1142045'>Ofertas del 11.11: qué tiendas tendrán ofertas especiales en este día</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/tiendas-ofertas-especiales-11-11-1142045' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/compras-internet-2846437.jpg' alt='Ofertas del 11.11: qué tiendas tendrán ofertas especiales en este día' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/errores-no-debes-cometer-comprar-kit-convertir-bicicleta-electrica-1151703'>Errores que no debes cometer al comprar un kit para convertir tu bicicleta eléctrica</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/errores-no-debes-cometer-comprar-kit-convertir-bicicleta-electrica-1151703' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/kit-bicicleta-electrica-2864467.jpg' alt='Errores que no debes cometer al comprar un kit para convertir tu bicicleta eléctrica' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/21-noticias-tecnologia-comenzar-manana-informado-ultimo-1153699'>21 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/21-noticias-tecnologia-comenzar-manana-informado-ultimo-1153699' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/20-noticias-tecnologia-comenzar-manana-informado-ultimo-2867887.jpg' alt='21 noticias de tecnología para comenzar la mañana informado de lo último' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/listas/life/cuando-empiezan-ofertas-black-friday-mediamarkt-1153257'>Cuándo empiezan las ofertas del Black Friday en MediaMarkt</a></h4>
     <a href='https://computerhoy.com/listas/life/cuando-empiezan-ofertas-black-friday-mediamarkt-1153257' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/frontal-tienda-mediamarkt-sabadell-2867019.jpg' alt='Cuándo empiezan las ofertas del Black Friday en MediaMarkt' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/radiocasete-vintage-japon-suben-precios-1153489'>¿Tienes un radiocasete viejo olvidado en el trastero? En Japón están pagando cinco veces más por ellos</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/radiocasete-vintage-japon-suben-precios-1153489' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/tienes-radiocasete-viejo-olvidado-trastero-japon-estan-pagando-cinco-veces-ellos-2867671.jpg' alt='¿Tienes un radiocasete viejo olvidado en el trastero? En Japón están pagando cinco veces más por ellos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/mejores-robots-cocina-oferta-amazon-precio-irresistible-1153455'>Uno de los mejores robots de cocina está en oferta en Amazon a un precio irresistible</a></h4>
-    <a href='https://computerhoy.com/noticias/life/mejores-robots-cocina-oferta-amazon-precio-irresistible-1153455' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/robot-cocina-2867433.jpg' alt='Uno de los mejores robots de cocina está en oferta en Amazon a un precio irresistible' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/elon-musk-no-salen-cuentas-compra-twitter-toca-vender-acciones-principal-empresa-1153439'>A Elon Musk no le salen las cuentas de la compra de Twitter y le toca vender acciones de su principal empresa</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/elon-musk-no-salen-cuentas-compra-twitter-toca-vender-acciones-principal-empresa-1153439' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/elon-musk-2867409.jpg' alt='A Elon Musk no le salen las cuentas de la compra de Twitter y le toca vender acciones de su principal empresa' />
     </a>
 </div>
 
