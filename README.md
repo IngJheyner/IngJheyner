@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/twitter-da-marcha-atras-verificacion-pago-caos-provocado-trolls-1153905'>Twitter da marcha atrás a la verificación bajo pago tras el caos provocado por los trolls</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/twitter-da-marcha-atras-verificacion-pago-caos-provocado-trolls-1153905' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/twitter-2676209.jpg' alt='Twitter da marcha atrás a la verificación bajo pago tras el caos provocado por los trolls' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/motor/conduces-te-interesa-significan-nuevas-senales-dgt-llegaran-carreteras-2023-1153837'>Si conduces te interesa: qué significan las nuevas señales de la DGT que llegarán a las carreteras en 2023</a></h4>
     <a href='https://computerhoy.com/noticias/motor/conduces-te-interesa-significan-nuevas-senales-dgt-llegaran-carreteras-2023-1153837' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/nuevas-senales-traficos-2868425.jpg' alt='Si conduces te interesa: qué significan las nuevas señales de la DGT que llegarán a las carreteras en 2023' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/como-organizar-frigorifico-alimentos-conserven-tiempo-economia-te-agradezca-1153787'>Cómo organizar el frigorífico para que los alimentos se conserven más tiempo y tu economía te lo agradezca</a></h4>
     <a href='https://computerhoy.com/noticias/life/como-organizar-frigorifico-alimentos-conserven-tiempo-economia-te-agradezca-1153787' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/como-colocar-correctamente-cualquier-alimento-frigorifico-no-estropee-2868195.jpg' alt='Cómo organizar el frigorífico para que los alimentos se conserven más tiempo y tu economía te lo agradezca' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/huawei-mate-50-pro-llega-espana-novedosa-camara-servicios-inteligentes-1147551'>Huawei Mate 50 Pro llega a España con su novedosa cámara y servicios inteligentes</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/huawei-mate-50-pro-llega-espana-novedosa-camara-servicios-inteligentes-1147551' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/huawei-mate-50-pro-llega-espana-2856301.jpg' alt='Huawei Mate 50 Pro llega a España con su novedosa cámara y servicios inteligentes' />
     </a>
 </div>
 
