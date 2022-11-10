@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/elon-musk-quiere-convertir-twitter-sistema-pago-tipo-bizum-volviendo-origenes-paypal-1153757'>Elon Musk quiere convertir Twitter en un sistema de pago tipo Bizum, ¿volviendo a sus orígenes de PayPal?</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/elon-musk-quiere-convertir-twitter-sistema-pago-tipo-bizum-volviendo-origenes-paypal-1153757' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/elon-musk-2868027.jpg' alt='Elon Musk quiere convertir Twitter en un sistema de pago tipo Bizum, ¿volviendo a sus orígenes de PayPal?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/whatsapp-nos-escucha-anade-silencio-automatico-grupos-256-personas-1153749'>WhatsApp nos escucha y añade el silencio automático en los grupos de más de 256 personas</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/whatsapp-nos-escucha-anade-silencio-automatico-grupos-256-personas-1153749' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/whatsapp-nos-escucha-anade-silencio-automatico-grupos-256-personas-2868065.jpg' alt='WhatsApp nos escucha y añade el silencio automático en los grupos de más de 256 personas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/quieres-tener-perro-espana-tendras-hacer-cursillo-tener-seguro-ley-1153727'>Si quieres tener un perro en España tendrás que hacer un cursillo y tener seguro por Ley</a></h4>
     <a href='https://computerhoy.com/noticias/life/quieres-tener-perro-espana-tendras-hacer-cursillo-tener-seguro-ley-1153727' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/localizador-gps-perros-tractive-2452809.jpg' alt='Si quieres tener un perro en España tendrás que hacer un cursillo y tener seguro por Ley' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/ya-quiosco-numero-629-computer-hoy-1149937'>¡Ya está en tu quiosco el número 629 de Computer Hoy!</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/ya-quiosco-numero-629-computer-hoy-1149937' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/computer-hoy-629-2861991.jpg' alt='¡Ya está en tu quiosco el número 629 de Computer Hoy!' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/tiendas-ofertas-especiales-11-11-1142045'>Ofertas del 11.11: qué tiendas tendrán ofertas especiales en este día</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/tiendas-ofertas-especiales-11-11-1142045' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/compras-internet-2846437.jpg' alt='Ofertas del 11.11: qué tiendas tendrán ofertas especiales en este día' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/errores-no-debes-cometer-comprar-kit-convertir-bicicleta-electrica-1151703'>Errores que no debes cometer al comprar un kit para convertir tu bicicleta eléctrica</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/errores-no-debes-cometer-comprar-kit-convertir-bicicleta-electrica-1151703' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/kit-bicicleta-electrica-2864467.jpg' alt='Errores que no debes cometer al comprar un kit para convertir tu bicicleta eléctrica' />
     </a>
 </div>
 
