@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/anulan-todas-multas-radar-dgt-razon-1154091'>Se anulan todas las multas de este radar de la DGT, y esta es la razón</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/anulan-todas-multas-radar-dgt-razon-1154091' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/radar-dgt-2868839.jpg' alt='Se anulan todas las multas de este radar de la DGT, y esta es la razón' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/vive-mundial-futbol-coche-nuevo-modo-conduccion-waze-1154081'>Vive el Mundial de fútbol en tu coche con el nuevo modo de conducción de Waze</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/vive-mundial-futbol-coche-nuevo-modo-conduccion-waze-1154081' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/vive-mundial-futbol-coche-nuevo-modo-conduccion-waze-2868831.jpg' alt='Vive el Mundial de fútbol en tu coche con el nuevo modo de conducción de Waze' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/quema-obra-frida-kahlo-vender-copias-como-nft-sale-muy-mal-jugada-1154087'>Quema una obra de Frida Kahlo para vender sus copias como NFT, y le sale muy mal la jugada</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/quema-obra-frida-kahlo-vender-copias-como-nft-sale-muy-mal-jugada-1154087' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/quema-dibujo-gran-valor-poder-vender-copias-como-nft-jugada-sale-muy-mal-2868837.jpg' alt='Quema una obra de Frida Kahlo para vender sus copias como NFT, y le sale muy mal la jugada' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/interruptores-nueva-serie-apple-tv-plus-ciencia-ficcion-black-mirror-1154085'>Interruptores, la nueva serie de Apple TV+ propone un Black Mirror enfocado a los jóvenes</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/interruptores-nueva-serie-apple-tv-plus-ciencia-ficcion-black-mirror-1154085' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/verticalimage1668107508660-2868835.jpg' alt='Interruptores, la nueva serie de Apple TV+ propone un Black Mirror enfocado a los jóvenes' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/netflix-ya-ha-estrenado-espana-plan-barato-anuncios-te-compensa-cambiarte-1154035'>Netflix ya ha estrenado en España el plan barato con anuncios, ¿te compensa cambiarte?</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/netflix-ya-ha-estrenado-espana-plan-barato-anuncios-te-compensa-cambiarte-1154035' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/netflix-2810051.jpg' alt='Netflix ya ha estrenado en España el plan barato con anuncios, ¿te compensa cambiarte?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/apple-retirara-mejores-caracteristicas-airdrop-te-afectara-cambio-1154045'>Apple retirará una de las mejores características de AirDrop: así te afectará el cambio</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/apple-retirara-mejores-caracteristicas-airdrop-te-afectara-cambio-1154045' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/12/airdrop.jpg' alt='Apple retirará una de las mejores características de AirDrop: así te afectará el cambio' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/productos-xiaomi-merecen-pena-comprar-11-11-aliexpress-1151791'>Estos son los productos de Xiaomi que merece la pena comprar en el 11.11 de AliExpress</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/productos-xiaomi-merecen-pena-comprar-11-11-aliexpress-1151791' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/tienda-fisica-xiaomi-hangzhou-china-2864643.jpg' alt='Estos son los productos de Xiaomi que merece la pena comprar en el 11.11 de AliExpress' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/paso-a-paso/internet/como-descargar-videos-online-programas-cualquier-navegador-77243'>Cómo descargar vídeos de Internet sin instalar programas y desde cualquier navegador web</a></h4>
-    <a href='https://computerhoy.com/paso-a-paso/internet/como-descargar-videos-online-programas-cualquier-navegador-77243' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/teclado-descarga-2422169.jpg' alt='Cómo descargar vídeos de Internet sin instalar programas y desde cualquier navegador web' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/huawei-watch-gt-3-oficial-podras-responder-llamadas-muneca-1154009'>El Huawei Watch GT 3 SE es oficial y con el podrás responder llamadas desde la muñeca</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/huawei-watch-gt-3-oficial-podras-responder-llamadas-muneca-1154009' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/huawei-watch-gt-3-oficial-podras-responder-llamadas-muneca-2868695.jpg' alt='El Huawei Watch GT 3 SE es oficial y con el podrás responder llamadas desde la muñeca' />
     </a>
 </div>
 
