@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/apple-retirara-mejores-caracteristicas-airdrop-te-afectara-cambio-1154045'>Apple retirará una de las mejores características de AirDrop: así te afectará el cambio</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/apple-retirara-mejores-caracteristicas-airdrop-te-afectara-cambio-1154045' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/12/airdrop.jpg' alt='Apple retirará una de las mejores características de AirDrop: así te afectará el cambio' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/productos-xiaomi-merecen-pena-comprar-11-11-aliexpress-1151791'>Estos son los productos de Xiaomi que merece la pena comprar en el 11.11 de AliExpress</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/productos-xiaomi-merecen-pena-comprar-11-11-aliexpress-1151791' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/tienda-fisica-xiaomi-hangzhou-china-2864643.jpg' alt='Estos son los productos de Xiaomi que merece la pena comprar en el 11.11 de AliExpress' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/paso-a-paso/internet/como-descargar-videos-online-programas-cualquier-navegador-77243'>Cómo descargar vídeos de Internet sin instalar programas y desde cualquier navegador web</a></h4>
     <a href='https://computerhoy.com/paso-a-paso/internet/como-descargar-videos-online-programas-cualquier-navegador-77243' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/teclado-descarga-2422169.jpg' alt='Cómo descargar vídeos de Internet sin instalar programas y desde cualquier navegador web' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/tdt-como-funciona-canales-programacion-mejores-apps-ver-tdt-gratis-internet-1147487'>Qué es la TDT y cómo funciona: canales, programación y las mejores apps para ver la TDT gratis por Internet</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/tdt-como-funciona-canales-programacion-mejores-apps-ver-tdt-gratis-internet-1147487' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/tdt-2856157.jpg' alt='Qué es la TDT y cómo funciona: canales, programación y las mejores apps para ver la TDT gratis por Internet' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/gaming/nvidia-rtx-4080-bestia-gaming-cerca-rtx-4090-mejor-rtx-3090-ti-benchmarks-1153939'>La NVIDIA RTX 4080 es una bestia en gaming: cerca de la RTX 4090 y mejor que la RTX 3090 Ti, según benchmarks</a></h4>
-    <a href='https://computerhoy.com/noticias/gaming/nvidia-rtx-4080-bestia-gaming-cerca-rtx-4090-mejor-rtx-3090-ti-benchmarks-1153939' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/rtx-4080-nvidia-2819209.jpg' alt='La NVIDIA RTX 4080 es una bestia en gaming: cerca de la RTX 4090 y mejor que la RTX 3090 Ti, según benchmarks' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/actualizacion-windows-11-ser-mejor-sistema-operativo-gaming-tiene-gran-problema-1153935'>La actualización de Windows 11 para ser el mejor sistema operativo para gaming tiene un gran problema</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/actualizacion-windows-11-ser-mejor-sistema-operativo-gaming-tiene-gran-problema-1153935' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/actualizacion-windows-11-ser-mejor-sistema-operativo-gaming-tiene-gran-problema-2868511.jpg' alt='La actualización de Windows 11 para ser el mejor sistema operativo para gaming tiene un gran problema' />
     </a>
 </div>
 
