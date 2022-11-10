@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/como-organizar-frigorifico-alimentos-conserven-tiempo-economia-te-agradezca-1153787'>Cómo organizar el frigorífico para que los alimentos se conserven más tiempo y tu economía te lo agradezca</a></h4>
+    <a href='https://computerhoy.com/noticias/life/como-organizar-frigorifico-alimentos-conserven-tiempo-economia-te-agradezca-1153787' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/como-colocar-correctamente-cualquier-alimento-frigorifico-no-estropee-2868195.jpg' alt='Cómo organizar el frigorífico para que los alimentos se conserven más tiempo y tu economía te lo agradezca' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/huawei-mate-50-pro-llega-espana-novedosa-camara-servicios-inteligentes-1147551'>Huawei Mate 50 Pro llega a España con su novedosa cámara y servicios inteligentes</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/huawei-mate-50-pro-llega-espana-novedosa-camara-servicios-inteligentes-1147551' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/huawei-mate-50-pro-llega-espana-2856301.jpg' alt='Huawei Mate 50 Pro llega a España con su novedosa cámara y servicios inteligentes' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/elon-musk-quiere-convertir-twitter-sistema-pago-tipo-bizum-volviendo-origenes-paypal-1153757'>Elon Musk quiere convertir Twitter en un sistema de pago tipo Bizum, ¿volviendo a sus orígenes de PayPal?</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/elon-musk-quiere-convertir-twitter-sistema-pago-tipo-bizum-volviendo-origenes-paypal-1153757' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/elon-musk-2868027.jpg' alt='Elon Musk quiere convertir Twitter en un sistema de pago tipo Bizum, ¿volviendo a sus orígenes de PayPal?' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/quieres-tener-perro-espana-tendras-hacer-cursillo-tener-seguro-ley-1153727'>Si quieres tener un perro en España tendrás que hacer un cursillo y tener seguro por Ley</a></h4>
     <a href='https://computerhoy.com/noticias/life/quieres-tener-perro-espana-tendras-hacer-cursillo-tener-seguro-ley-1153727' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/localizador-gps-perros-tractive-2452809.jpg' alt='Si quieres tener un perro en España tendrás que hacer un cursillo y tener seguro por Ley' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/tienes-iphone-ya-puedes-acceder-fotos-icloud-pc-windows-11-1153729'>Si tienes un iPhone ya puedes acceder a tus fotos de iCloud en un PC con Windows 11</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/tienes-iphone-ya-puedes-acceder-fotos-icloud-pc-windows-11-1153729' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/usuarios-iphone-ya-pueden-acceder-fotos-icloud-pc-windows-2867907.jpg' alt='Si tienes un iPhone ya puedes acceder a tus fotos de iCloud en un PC con Windows 11' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/ya-quiosco-numero-629-computer-hoy-1149937'>¡Ya está en tu quiosco el número 629 de Computer Hoy!</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/ya-quiosco-numero-629-computer-hoy-1149937' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/computer-hoy-629-2861991.jpg' alt='¡Ya está en tu quiosco el número 629 de Computer Hoy!' />
     </a>
 </div>
 
