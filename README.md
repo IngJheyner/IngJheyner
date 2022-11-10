@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/paso-a-paso/internet/como-descargar-videos-online-programas-cualquier-navegador-77243'>Cómo descargar vídeos de Internet sin instalar programas y desde cualquier navegador web</a></h4>
+    <a href='https://computerhoy.com/paso-a-paso/internet/como-descargar-videos-online-programas-cualquier-navegador-77243' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/teclado-descarga-2422169.jpg' alt='Cómo descargar vídeos de Internet sin instalar programas y desde cualquier navegador web' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/huawei-watch-gt-3-oficial-podras-responder-llamadas-muneca-1154009'>El Huawei Watch GT 3 SE es oficial y con el podrás responder llamadas desde la muñeca</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/huawei-watch-gt-3-oficial-podras-responder-llamadas-muneca-1154009' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/huawei-watch-gt-3-oficial-podras-responder-llamadas-muneca-2868695.jpg' alt='El Huawei Watch GT 3 SE es oficial y con el podrás responder llamadas desde la muñeca' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/tdt-como-funciona-canales-programacion-mejores-apps-ver-tdt-gratis-internet-1147487'>Qué es la TDT y cómo funciona: canales, programación y las mejores apps para ver la TDT gratis por Internet</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/tdt-como-funciona-canales-programacion-mejores-apps-ver-tdt-gratis-internet-1147487' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/tdt-2856157.jpg' alt='Qué es la TDT y cómo funciona: canales, programación y las mejores apps para ver la TDT gratis por Internet' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/actualizacion-windows-11-ser-mejor-sistema-operativo-gaming-tiene-gran-problema-1153935'>La actualización de Windows 11 para ser el mejor sistema operativo para gaming tiene un gran problema</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/actualizacion-windows-11-ser-mejor-sistema-operativo-gaming-tiene-gran-problema-1153935' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/actualizacion-windows-11-ser-mejor-sistema-operativo-gaming-tiene-gran-problema-2868511.jpg' alt='La actualización de Windows 11 para ser el mejor sistema operativo para gaming tiene un gran problema' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/twitter-da-marcha-atras-verificacion-pago-caos-provocado-trolls-1153905'>Twitter da marcha atrás a la verificación bajo pago tras el caos provocado por los trolls</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/twitter-da-marcha-atras-verificacion-pago-caos-provocado-trolls-1153905' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/twitter-2676209.jpg' alt='Twitter da marcha atrás a la verificación bajo pago tras el caos provocado por los trolls' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/conduces-te-interesa-significan-nuevas-senales-dgt-llegaran-carreteras-2023-1153837'>Si conduces te interesa: qué significan las nuevas señales de la DGT que llegarán a las carreteras en 2023</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/conduces-te-interesa-significan-nuevas-senales-dgt-llegaran-carreteras-2023-1153837' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/nuevas-senales-traficos-2868425.jpg' alt='Si conduces te interesa: qué significan las nuevas señales de la DGT que llegarán a las carreteras en 2023' />
     </a>
 </div>
 
