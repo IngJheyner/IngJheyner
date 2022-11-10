@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/quieres-tener-perro-espana-tendras-hacer-cursillo-tener-seguro-ley-1153727'>Si quieres tener un perro en España tendrás que hacer un cursillo y tener seguro por Ley</a></h4>
+    <a href='https://computerhoy.com/noticias/life/quieres-tener-perro-espana-tendras-hacer-cursillo-tener-seguro-ley-1153727' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/localizador-gps-perros-tractive-2452809.jpg' alt='Si quieres tener un perro en España tendrás que hacer un cursillo y tener seguro por Ley' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/tienes-iphone-ya-puedes-acceder-fotos-icloud-pc-windows-11-1153729'>Si tienes un iPhone ya puedes acceder a tus fotos de iCloud en un PC con Windows 11</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/tienes-iphone-ya-puedes-acceder-fotos-icloud-pc-windows-11-1153729' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/usuarios-iphone-ya-pueden-acceder-fotos-icloud-pc-windows-2867907.jpg' alt='Si tienes un iPhone ya puedes acceder a tus fotos de iCloud en un PC con Windows 11' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/ya-quiosco-numero-629-computer-hoy-1149937'>¡Ya está en tu quiosco el número 629 de Computer Hoy!</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/ya-quiosco-numero-629-computer-hoy-1149937' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/computer-hoy-629-2861991.jpg' alt='¡Ya está en tu quiosco el número 629 de Computer Hoy!' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/errores-no-debes-cometer-comprar-kit-convertir-bicicleta-electrica-1151703'>Errores que no debes cometer al comprar un kit para convertir tu bicicleta eléctrica</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/errores-no-debes-cometer-comprar-kit-convertir-bicicleta-electrica-1151703' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/kit-bicicleta-electrica-2864467.jpg' alt='Errores que no debes cometer al comprar un kit para convertir tu bicicleta eléctrica' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/21-noticias-tecnologia-comenzar-manana-informado-ultimo-1153699'>21 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/21-noticias-tecnologia-comenzar-manana-informado-ultimo-1153699' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/20-noticias-tecnologia-comenzar-manana-informado-ultimo-2867887.jpg' alt='21 noticias de tecnología para comenzar la mañana informado de lo último' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/listas/life/cuando-empiezan-ofertas-black-friday-mediamarkt-1153257'>Cuándo empiezan las ofertas del Black Friday en MediaMarkt</a></h4>
-    <a href='https://computerhoy.com/listas/life/cuando-empiezan-ofertas-black-friday-mediamarkt-1153257' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/frontal-tienda-mediamarkt-sabadell-2867019.jpg' alt='Cuándo empiezan las ofertas del Black Friday en MediaMarkt' />
     </a>
 </div>
 
