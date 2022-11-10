@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/21-noticias-tecnologia-comenzar-manana-informado-ultimo-1153699'>21 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/21-noticias-tecnologia-comenzar-manana-informado-ultimo-1153699' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/20-noticias-tecnologia-comenzar-manana-informado-ultimo-2867887.jpg' alt='21 noticias de tecnología para comenzar la mañana informado de lo último' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/listas/life/cuando-empiezan-ofertas-black-friday-mediamarkt-1153257'>Cuándo empiezan las ofertas del Black Friday en MediaMarkt</a></h4>
+    <a href='https://computerhoy.com/listas/life/cuando-empiezan-ofertas-black-friday-mediamarkt-1153257' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/frontal-tienda-mediamarkt-sabadell-2867019.jpg' alt='Cuándo empiezan las ofertas del Black Friday en MediaMarkt' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/radiocasete-vintage-japon-suben-precios-1153489'>¿Tienes un radiocasete viejo olvidado en el trastero? En Japón están pagando cinco veces más por ellos</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/radiocasete-vintage-japon-suben-precios-1153489' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/tienes-radiocasete-viejo-olvidado-trastero-japon-estan-pagando-cinco-veces-ellos-2867671.jpg' alt='¿Tienes un radiocasete viejo olvidado en el trastero? En Japón están pagando cinco veces más por ellos' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/elon-musk-no-salen-cuentas-compra-twitter-toca-vender-acciones-principal-empresa-1153439'>A Elon Musk no le salen las cuentas de la compra de Twitter y le toca vender acciones de su principal empresa</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/elon-musk-no-salen-cuentas-compra-twitter-toca-vender-acciones-principal-empresa-1153439' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/elon-musk-2867409.jpg' alt='A Elon Musk no le salen las cuentas de la compra de Twitter y le toca vender acciones de su principal empresa' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/aplicaciones-apple-iphone-recopilan-mucha-informacion-ti-estudio-1153477'>Las aplicaciones de Apple en tu iPhone recopilan mucha información sobre ti, según este estudio</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/aplicaciones-apple-iphone-recopilan-mucha-informacion-ti-estudio-1153477' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/apps-iphone-2867551.jpg' alt='Las aplicaciones de Apple en tu iPhone recopilan mucha información sobre ti, según este estudio' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/alarmas-iphone-debes-elegir-despertarte-bien-cada-manana-1153471'>Las alarmas del iPhone que debes elegir para despertarte bien cada mañana</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/alarmas-iphone-debes-elegir-despertarte-bien-cada-manana-1153471' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/alarma-smartphone-2867521.jpg' alt='Las alarmas del iPhone que debes elegir para despertarte bien cada mañana' />
     </a>
 </div>
 
