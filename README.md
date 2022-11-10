@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/tdt-como-funciona-canales-programacion-mejores-apps-ver-tdt-gratis-internet-1147487'>Qué es la TDT y cómo funciona: canales, programación y las mejores apps para ver la TDT gratis por Internet</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/tdt-como-funciona-canales-programacion-mejores-apps-ver-tdt-gratis-internet-1147487' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/tdt-2856157.jpg' alt='Qué es la TDT y cómo funciona: canales, programación y las mejores apps para ver la TDT gratis por Internet' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/gaming/nvidia-rtx-4080-bestia-gaming-cerca-rtx-4090-mejor-rtx-3090-ti-benchmarks-1153939'>La NVIDIA RTX 4080 es una bestia en gaming: cerca de la RTX 4090 y mejor que la RTX 3090 Ti, según benchmarks</a></h4>
     <a href='https://computerhoy.com/noticias/gaming/nvidia-rtx-4080-bestia-gaming-cerca-rtx-4090-mejor-rtx-3090-ti-benchmarks-1153939' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/rtx-4080-nvidia-2819209.jpg' alt='La NVIDIA RTX 4080 es una bestia en gaming: cerca de la RTX 4090 y mejor que la RTX 3090 Ti, según benchmarks' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/motor/conduces-te-interesa-significan-nuevas-senales-dgt-llegaran-carreteras-2023-1153837'>Si conduces te interesa: qué significan las nuevas señales de la DGT que llegarán a las carreteras en 2023</a></h4>
     <a href='https://computerhoy.com/noticias/motor/conduces-te-interesa-significan-nuevas-senales-dgt-llegaran-carreteras-2023-1153837' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/nuevas-senales-traficos-2868425.jpg' alt='Si conduces te interesa: qué significan las nuevas señales de la DGT que llegarán a las carreteras en 2023' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/google-maps-lugares-contaminadores-espana-resto-mundo-1153841'>El Google Maps de lugares más contaminadores de España y resto del mundo</a></h4>
-    <a href='https://computerhoy.com/noticias/life/google-maps-lugares-contaminadores-espana-resto-mundo-1153841' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/google-maps-lugares-contaminadores-espana-resto-mundo-2868289.jpg' alt='El Google Maps de lugares más contaminadores de España y resto del mundo' />
     </a>
 </div>
 
