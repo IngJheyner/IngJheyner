@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/volkswagen-silla-oficina-motorizada-video-1154337'>Volkswagen presenta una silla de oficina motorizada con luces y bocina, que se conduce con los pies (vídeo)</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/volkswagen-silla-oficina-motorizada-video-1154337' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/verticalimage1668129627990-2869113.jpg' alt='Volkswagen presenta una silla de oficina motorizada con luces y bocina, que se conduce con los pies (vídeo)' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/ordenador-lgp-30-sotano-abuelo-1956-teoria-caos-1154107'>Descubre en el sótano de su abuelo un rarísimo ordenador de 1956 que dio lugar a la teoría del caos</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/ordenador-lgp-30-sotano-abuelo-1956-teoria-caos-1154107' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/descubre-sotano-abuelos-rarisimo-ordenador-1956-dio-lugar-teoria-caos-2868877.jpg' alt='Descubre en el sótano de su abuelo un rarísimo ordenador de 1956 que dio lugar a la teoría del caos' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/motor/anulan-todas-multas-radar-dgt-razon-1154091'>Se anulan todas las multas de este radar de la DGT, y esta es la razón</a></h4>
     <a href='https://computerhoy.com/noticias/motor/anulan-todas-multas-radar-dgt-razon-1154091' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/radar-dgt-2868839.jpg' alt='Se anulan todas las multas de este radar de la DGT, y esta es la razón' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/vive-mundial-futbol-coche-nuevo-modo-conduccion-waze-1154081'>Vive el Mundial de fútbol en tu coche con el nuevo modo de conducción de Waze</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/vive-mundial-futbol-coche-nuevo-modo-conduccion-waze-1154081' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/vive-mundial-futbol-coche-nuevo-modo-conduccion-waze-2868831.jpg' alt='Vive el Mundial de fútbol en tu coche con el nuevo modo de conducción de Waze' />
     </a>
 </div>
 
