@@ -50,9 +50,17 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/ganas-orinar-ejercicios-kegel-1154339'>Por qué no deberías ir al baño "por si acaso", antes de salir de casa</a></h4>
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/guia-compra-1111-trucos-consejos-aliexpress-962207'>Guía de compra del 11.11: trucos y consejos para comprar más barato en AliExpress</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/guia-compra-1111-trucos-consejos-aliexpress-962207' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/carrito-compra-ofertas-1111-2844513.jpg' alt='Guía de compra del 11.11: trucos y consejos para comprar más barato en AliExpress' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/ganas-orinar-ejercicios-kegel-1154339'>Por qué no deberías ir al baño "por si acaso" antes de salir de casa, según un prestigioso urólogo</a></h4>
     <a href='https://computerhoy.com/noticias/life/ganas-orinar-ejercicios-kegel-1154339' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/no-deberias-ir-bano-acaso-antes-salir-casa-2869115.jpg' alt='Por qué no deberías ir al baño "por si acaso", antes de salir de casa' />
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/no-deberias-ir-bano-acaso-antes-salir-casa-2869115.jpg' alt='Por qué no deberías ir al baño "por si acaso" antes de salir de casa, según un prestigioso urólogo' />
     </a>
 </div>
 
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/extension-te-muestra-quien-ha-pagado-verificado-twitter-1154043'>Esta extensión te muestra quién ha pagado por el verificado de Twitter</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/extension-te-muestra-quien-ha-pagado-verificado-twitter-1154043' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/twitter-2747695.jpg' alt='Esta extensión te muestra quién ha pagado por el verificado de Twitter' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/portatil-huawei-matebook-14-regalo-router-wifi-mesh-3-oferta-1154093'>El portátil Huawei MateBook 14 con procesador de AMD y un router Wifi en malla de regalo, por 579€</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/portatil-huawei-matebook-14-regalo-router-wifi-mesh-3-oferta-1154093' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/portatil-huawei-matebook-14-procesador-amd-router-wifi-malla-regalo-579eu-2868841.jpg' alt='El portátil Huawei MateBook 14 con procesador de AMD y un router Wifi en malla de regalo, por 579€' />
     </a>
 </div>
 
