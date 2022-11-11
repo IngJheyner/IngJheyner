@@ -50,17 +50,17 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/listas/tecnologia/reduce-factura-luz-estas-bombillas-enchufes-wifi-otros-dispositivos-inteligentes-11-11-1153851'>Reduce la factura de la luz con estas bombillas, enchufes WiFi y otros dispositivos inteligentes por el 11 del 11</a></h4>
-    <a href='https://computerhoy.com/listas/tecnologia/reduce-factura-luz-estas-bombillas-enchufes-wifi-otros-dispositivos-inteligentes-11-11-1153851' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/reduce-factura-luz-estas-bombillas-enchufes-wifi-otros-dispositivos-inteligentes-11-11-2868271.jpg' alt='Reduce la factura de la luz con estas bombillas, enchufes WiFi y otros dispositivos inteligentes por el 11 del 11' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/son-nuevas-generaciones-raspberry-pi-1154529'>Así son las nuevas generaciones de RaspBerry Pi</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/son-nuevas-generaciones-raspberry-pi-1154529' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/raspberry-pi-4-2531287.jpg' alt='Así son las nuevas generaciones de RaspBerry Pi' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/zona-gaming/new-3ds-xl-samus-edition-inspirada-metroid-samus-returns-66251'>New 3DS XL inspirada en Metroid: Samus Returns</a></h4>
-    <a href='https://computerhoy.com/noticias/zona-gaming/new-3ds-xl-samus-edition-inspirada-metroid-samus-returns-66251' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2017/08/253161-new-3ds-xl-samus-edition-inspirada-metroid-samus-returns.jpg' alt='New 3DS XL inspirada en Metroid: Samus Returns' />
+    <h4><a href='https://computerhoy.com/listas/tecnologia/reduce-factura-luz-estas-bombillas-enchufes-wifi-otros-dispositivos-inteligentes-11-11-1153851'>Reduce la factura de la luz con estas bombillas, enchufes WiFi y otros dispositivos inteligentes por el 11 del 11</a></h4>
+    <a href='https://computerhoy.com/listas/tecnologia/reduce-factura-luz-estas-bombillas-enchufes-wifi-otros-dispositivos-inteligentes-11-11-1153851' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/reduce-factura-luz-estas-bombillas-enchufes-wifi-otros-dispositivos-inteligentes-11-11-2868271.jpg' alt='Reduce la factura de la luz con estas bombillas, enchufes WiFi y otros dispositivos inteligentes por el 11 del 11' />
     </a>
 </div>
 
