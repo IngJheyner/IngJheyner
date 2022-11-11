@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/generador-solar-200-w-mitad-precio-chollo-descuento-1154661'>Este generador solar y batería portáil de 200 W baja a mitad de precio con nuestro cupón exclusivo... ¡solo 159 euros!</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/generador-solar-200-w-mitad-precio-chollo-descuento-1154661' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/generador-solar-200-w-baja-mitad-precio-cupon-exclusivo-solo-159-euros-2869947.jpg' alt='Este generador solar y batería portáil de 200 W baja a mitad de precio con nuestro cupón exclusivo... ¡solo 159 euros!' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/edad-maxima-ser-humano-podra-vivir-cientificos-1154655'>Esta es la edad máxima que un ser humano podrá vivir, según científicos</a></h4>
     <a href='https://computerhoy.com/noticias/life/edad-maxima-ser-humano-podra-vivir-cientificos-1154655' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/vejez-2869941.jpg' alt='Esta es la edad máxima que un ser humano podrá vivir, según científicos' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/ropa-interior-xiaomi-ultimo-marca-tecnologica-china-1154623'>Ropa interior Xiaomi, lo último de la marca tecnológica China</a></h4>
     <a href='https://computerhoy.com/noticias/life/ropa-interior-xiaomi-ultimo-marca-tecnologica-china-1154623' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/ropa-interior-xiaomi-ultimo-marca-tecnologica-china-2869893.jpg' alt='Ropa interior Xiaomi, lo último de la marca tecnológica China' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/listas/tecnologia/auriculares-menos-20-euros-11-11-1154443'>Auriculares por menos de 20 euros: el 11.11 deja gangas increíbles</a></h4>
-    <a href='https://computerhoy.com/listas/tecnologia/auriculares-menos-20-euros-11-11-1154443' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/huawei-freebuds-pro-2-analisis-opinion-2754911.jpg' alt='Auriculares por menos de 20 euros: el 11.11 deja gangas increíbles' />
     </a>
 </div>
 
