@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/ojo-ofertas-1111-black-friday-hay-subidas-precio-encubiertas-ocu-1154573'>Ojo con las “ofertas” del 11.11 y Black Friday, hay subidas de precio encubiertas según la OCU</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/ojo-ofertas-1111-black-friday-hay-subidas-precio-encubiertas-ocu-1154573' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/11-11-2869763.jpg' alt='Ojo con las “ofertas” del 11.11 y Black Friday, hay subidas de precio encubiertas según la OCU' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/8-maneras-ejecutar-aplicaciones-android-windows-1153411'>8 maneras de ejecutar aplicaciones Android en Windows</a></h4>
+    <a href='https://computerhoy.com/tutoriales/tecnologia/8-maneras-ejecutar-aplicaciones-android-windows-1153411' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/android-windows-11-2867333.jpg' alt='8 maneras de ejecutar aplicaciones Android en Windows' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/son-nuevas-generaciones-raspberry-pi-1154529'>Así son las nuevas generaciones de RaspBerry Pi</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/son-nuevas-generaciones-raspberry-pi-1154529' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/raspberry-pi-4-2531287.jpg' alt='Así son las nuevas generaciones de RaspBerry Pi' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/limite-maximo-transmision-datos-cable-fibra-llega-casa-ocupa-todo-internet-segundo-1154461'>El límite máximo de transmisión de datos por cable de fibra que llega a tu casa es más de lo que ocupa todo Internet por segundo</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/limite-maximo-transmision-datos-cable-fibra-llega-casa-ocupa-todo-internet-segundo-1154461' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/limite-maximo-transmision-datos-cable-fibra-llega-casa-ocupa-todo-internet-segundo-2869669.jpg' alt='El límite máximo de transmisión de datos por cable de fibra que llega a tu casa es más de lo que ocupa todo Internet por segundo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/nuevo-plegable-honor-quiere-ser-fino-ligero-mercado-sabemos-1154505'>El nuevo plegable de Honor quiere ser el más fino y ligero del mercado: esto es lo que sabemos</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/nuevo-plegable-honor-quiere-ser-fino-ligero-mercado-sabemos-1154505' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/honor-magic-vs-2869631.jpg' alt='El nuevo plegable de Honor quiere ser el más fino y ligero del mercado: esto es lo que sabemos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/ciencia-corrobora-usar-insultos-bueno-cuales-usan-provincia-espanola-1154477'>La ciencia corrobora que usar insultos es bueno, cuáles se usan más según qué provincia española</a></h4>
-    <a href='https://computerhoy.com/noticias/life/ciencia-corrobora-usar-insultos-bueno-cuales-usan-provincia-espanola-1154477' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/insultar-palabrotas-2869617.jpg' alt='La ciencia corrobora que usar insultos es bueno, cuáles se usan más según qué provincia española' />
     </a>
 </div>
 
