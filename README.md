@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/estos-mapas-muestran-ciudades-espanolas-corren-peligro-desaparecer-agua-sigue-subiendo-nivel-mar-1154403'>Estos mapas muestran qué ciudades españolas corren peligro de desaparecer bajo el agua si sigue subiendo el nivel del mar</a></h4>
+    <a href='https://computerhoy.com/noticias/life/estos-mapas-muestran-ciudades-espanolas-corren-peligro-desaparecer-agua-sigue-subiendo-nivel-mar-1154403' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/mapa-deja-claro-ciudades-espanolas-seran-primeras-desaparecer-agua-sigue-subiendo-nivel-mar-2869363.jpg' alt='Estos mapas muestran qué ciudades españolas corren peligro de desaparecer bajo el agua si sigue subiendo el nivel del mar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/tv-raspberry-pi-perfecta-seguir-partidos-mundial-bolsillo-tiene-2-horas-autonomia-1154389'>La TV Raspberry Pi perfecta para seguir los partidos del mundial, cabe en tu bolsillo y tiene 2 horas de autonomía</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/tv-raspberry-pi-perfecta-seguir-partidos-mundial-bolsillo-tiene-2-horas-autonomia-1154389' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/tv-raspberry-pi-2869281.jpg' alt='La TV Raspberry Pi perfecta para seguir los partidos del mundial, cabe en tu bolsillo y tiene 2 horas de autonomía' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/listas/tecnologia/freidoras-aceite-baratas-11-11-1153973'>5 freidoras sin aceite baratas del 11.11: las mejores ofertas del Día del Soltero de Xiaomi, Aigostar, Bear y más</a></h4>
+    <a href='https://computerhoy.com/listas/tecnologia/freidoras-aceite-baratas-11-11-1153973' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/freidora-aceite-xxl-cosori-dualblaze-2810865.jpg' alt='5 freidoras sin aceite baratas del 11.11: las mejores ofertas del Día del Soltero de Xiaomi, Aigostar, Bear y más' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/amazon-ya-tiene-nuevo-dron-reparto-oficina-mayor-autonomia-seguridad-capacidades-vuelo-mejoradas-1154381'>Amazon ya tiene nuevo dron de reparto en la oficina: mayor autonomía, seguridad y capacidades de vuelo mejoradas  </a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/amazon-ya-tiene-nuevo-dron-reparto-oficina-mayor-autonomia-seguridad-capacidades-vuelo-mejoradas-1154381' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/ultimo-dron-reparto-amazon-2869207.jpg' alt='Amazon ya tiene nuevo dron de reparto en la oficina: mayor autonomía, seguridad y capacidades de vuelo mejoradas  ' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/listas/tecnologia/chollos-autenticos-11-11-menos-20-euros-triunfar-aliexpress-1154357'>Chollos auténticos del 11 del 11 por menos de 20 euros para triunfar en AliExpress</a></h4>
     <a href='https://computerhoy.com/listas/tecnologia/chollos-autenticos-11-11-menos-20-euros-triunfar-aliexpress-1154357' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/1111-aliexpress-2864229.jpg' alt='Chollos auténticos del 11 del 11 por menos de 20 euros para triunfar en AliExpress' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/red-social-banco-planes-elon-musk-twitter-1154371'>De red social a banco, los planes de Elon Musk para Twitter</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/red-social-banco-planes-elon-musk-twitter-1154371' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/elon-musk-dentro-simbolo-twitter-2860269.jpg' alt='De red social a banco, los planes de Elon Musk para Twitter' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/patrocinado/tecnologia/como-estadio-futbol-salon-casa-1146867'>Cómo cabe un estadio de fútbol en el salón de tu casa</a></h4>
-    <a href='https://computerhoy.com/patrocinado/tecnologia/como-estadio-futbol-salon-casa-1146867' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/lg-tv-oled-2854943.jpg' alt='Cómo cabe un estadio de fútbol en el salón de tu casa' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/puedes-usar-controlar-smartphone-android-pc-windows-1154011'>Así puedes usar y controlar tu smartphone Android desde tu PC con Windows</a></h4>
-    <a href='https://computerhoy.com/tutoriales/tecnologia/puedes-usar-controlar-smartphone-android-pc-windows-1154011' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/android-windows-2868645.jpg' alt='Así puedes usar y controlar tu smartphone Android desde tu PC con Windows' />
     </a>
 </div>
 
