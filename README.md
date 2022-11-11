@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/edad-maxima-ser-humano-podra-vivir-cientificos-1154655'>Esta es la edad máxima que un ser humano podrá vivir, según científicos</a></h4>
+    <a href='https://computerhoy.com/noticias/life/edad-maxima-ser-humano-podra-vivir-cientificos-1154655' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/vejez-2869941.jpg' alt='Esta es la edad máxima que un ser humano podrá vivir, según científicos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/precuela-the-witcher-origen-sangre-fecha-estreno-netflix-1154653'>La precuela de The Witcher se estrena en Navidad, para intentar que olvidemos la polémica con Henry Cavill</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/precuela-the-witcher-origen-sangre-fecha-estreno-netflix-1154653' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/verticalimage1668193556327-2869939.jpg' alt='La precuela de The Witcher se estrena en Navidad, para intentar que olvidemos la polémica con Henry Cavill' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/exchange-criptomonedas-ftx-declara-bancarrota-creador-pierde-94-fortuna-unas-horas-1154651'>El exchange de criptomonedas FTX se declara en bancarrota y su creador pierde el 94 % de su fortuna en unas horas</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/exchange-criptomonedas-ftx-declara-bancarrota-creador-pierde-94-fortuna-unas-horas-1154651' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/sam-bankman-fried-2869933.jpg' alt='El exchange de criptomonedas FTX se declara en bancarrota y su creador pierde el 94 % de su fortuna en unas horas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/ropa-interior-xiaomi-ultimo-marca-tecnologica-china-1154623'>Ropa interior Xiaomi, lo último de la marca tecnológica China</a></h4>
     <a href='https://computerhoy.com/noticias/life/ropa-interior-xiaomi-ultimo-marca-tecnologica-china-1154623' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/ropa-interior-xiaomi-ultimo-marca-tecnologica-china-2869893.jpg' alt='Ropa interior Xiaomi, lo último de la marca tecnológica China' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/listas/tecnologia/auriculares-menos-20-euros-11-11-1154443'>Auriculares por menos de 20 euros: el 11.11 deja gangas increíbles</a></h4>
     <a href='https://computerhoy.com/listas/tecnologia/auriculares-menos-20-euros-11-11-1154443' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/huawei-freebuds-pro-2-analisis-opinion-2754911.jpg' alt='Auriculares por menos de 20 euros: el 11.11 deja gangas increíbles' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/entretenimiento/que-es-como-funciona-tokyvideo-1049065'>Qué es y cómo funciona Tokyvideo: el YouTube español con series y películas</a></h4>
-    <a href='https://computerhoy.com/reportajes/entretenimiento/que-es-como-funciona-tokyvideo-1049065' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/como-funciona-tokyvideo-youtube-espanol-series-peliculas-2681749.jpg' alt='Qué es y cómo funciona Tokyvideo: el YouTube español con series y películas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/alerta-nuevo-timo-sms-podran-robarte-dinero-utilizando-bizum-1154591'>Alerta: así es el nuevo timo por SMS con el que podrán robarte dinero utilizando Bizum</a></h4>
-    <a href='https://computerhoy.com/noticias/life/alerta-nuevo-timo-sms-podran-robarte-dinero-utilizando-bizum-1154591' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/3-estafas-bizum-realizan-ciberdelincuentes-como-evitarlas-2505615.jpg' alt='Alerta: así es el nuevo timo por SMS con el que podrán robarte dinero utilizando Bizum' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/series-ver-fin-semana-netflix-hbo-max-apple-tv-fin-mundo-amor-futuro-misterioso-1154607'>Qué series ver este fin de semana en Netflix, HBO Max y Apple TV+: un fin del mundo, una de amor y un futuro misterioso</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/series-ver-fin-semana-netflix-hbo-max-apple-tv-fin-mundo-amor-futuro-misterioso-1154607' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/series-fin-semana-11-noviembre-2022-2869831.jpg' alt='Qué series ver este fin de semana en Netflix, HBO Max y Apple TV+: un fin del mundo, una de amor y un futuro misterioso' />
     </a>
 </div>
 
