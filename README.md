@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/7-senales-comportamiento-redes-sociales-no-saludable-1153893'>7 señales de que tu comportamiento con las redes sociales no es saludable</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/7-senales-comportamiento-redes-sociales-no-saludable-1153893' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/7-senales-comportamiento-redes-sociales-no-saludable-2868471.jpg' alt='7 señales de que tu comportamiento con las redes sociales no es saludable' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/27-noticias-tecnologia-comenzar-manana-informado-ultimo-1154341'>27 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/27-noticias-tecnologia-comenzar-manana-informado-ultimo-1154341' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/27-noticias-tecnologia-comenzar-manana-informado-ultimo-2869117.jpg' alt='27 noticias de tecnología para comenzar la mañana informado de lo último' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/listas/tecnologia/mejores-descuentos-xiaomi-11-11-aliexpress-otras-tiendas-1153989'>Mejores descuentos Xiaomi en el 11 del  11 de AliExpress y otras tiendas</a></h4>
+    <a href='https://computerhoy.com/listas/tecnologia/mejores-descuentos-xiaomi-11-11-aliexpress-otras-tiendas-1153989' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/ecosistema-xiaomi-2320727.jpg' alt='Mejores descuentos Xiaomi en el 11 del  11 de AliExpress y otras tiendas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/guia-compra-1111-trucos-consejos-aliexpress-962207'>Guía de compra del 11.11: trucos y consejos para comprar más barato en AliExpress</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/guia-compra-1111-trucos-consejos-aliexpress-962207' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/carrito-compra-ofertas-1111-2844513.jpg' alt='Guía de compra del 11.11: trucos y consejos para comprar más barato en AliExpress' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/ganas-orinar-ejercicios-kegel-1154339'>Por qué no deberías ir al baño "por si acaso" antes de salir de casa, según un prestigioso urólogo</a></h4>
     <a href='https://computerhoy.com/noticias/life/ganas-orinar-ejercicios-kegel-1154339' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/no-deberias-ir-bano-acaso-antes-salir-casa-2869115.jpg' alt='Por qué no deberías ir al baño "por si acaso" antes de salir de casa, según un prestigioso urólogo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/volkswagen-silla-oficina-motorizada-video-1154337'>Volkswagen presenta una silla de oficina motorizada con luces y bocina, que se conduce con los pies (vídeo)</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/volkswagen-silla-oficina-motorizada-video-1154337' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/verticalimage1668129627990-2869113.jpg' alt='Volkswagen presenta una silla de oficina motorizada con luces y bocina, que se conduce con los pies (vídeo)' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/ordenador-lgp-30-sotano-abuelo-1956-teoria-caos-1154107'>Descubre en el sótano de su abuelo un rarísimo ordenador de 1956 que dio lugar a la teoría del caos</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/ordenador-lgp-30-sotano-abuelo-1956-teoria-caos-1154107' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/descubre-sotano-abuelos-rarisimo-ordenador-1956-dio-lugar-teoria-caos-2868877.jpg' alt='Descubre en el sótano de su abuelo un rarísimo ordenador de 1956 que dio lugar a la teoría del caos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/extension-te-muestra-quien-ha-pagado-verificado-twitter-1154043'>Esta extensión te muestra quién ha pagado por el verificado de Twitter</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/extension-te-muestra-quien-ha-pagado-verificado-twitter-1154043' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/twitter-2747695.jpg' alt='Esta extensión te muestra quién ha pagado por el verificado de Twitter' />
     </a>
 </div>
 
