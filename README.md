@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/ordenador-lgp-30-sotano-abuelo-1956-teoria-caos-1154107'>Descubre en el sótano de su abuelo un rarísimo ordenador de 1956 que dio lugar a la teoría del caos</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/ordenador-lgp-30-sotano-abuelo-1956-teoria-caos-1154107' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/descubre-sotano-abuelos-rarisimo-ordenador-1956-dio-lugar-teoria-caos-2868877.jpg' alt='Descubre en el sótano de su abuelo un rarísimo ordenador de 1956 que dio lugar a la teoría del caos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/extension-te-muestra-quien-ha-pagado-verificado-twitter-1154043'>Esta extensión te muestra quién ha pagado por el verificado de Twitter</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/extension-te-muestra-quien-ha-pagado-verificado-twitter-1154043' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/twitter-2747695.jpg' alt='Esta extensión te muestra quién ha pagado por el verificado de Twitter' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/vive-mundial-futbol-coche-nuevo-modo-conduccion-waze-1154081'>Vive el Mundial de fútbol en tu coche con el nuevo modo de conducción de Waze</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/vive-mundial-futbol-coche-nuevo-modo-conduccion-waze-1154081' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/vive-mundial-futbol-coche-nuevo-modo-conduccion-waze-2868831.jpg' alt='Vive el Mundial de fútbol en tu coche con el nuevo modo de conducción de Waze' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/quema-obra-frida-kahlo-vender-copias-como-nft-sale-muy-mal-jugada-1154087'>Quema una obra de Frida Kahlo para vender sus copias como NFT, y le sale muy mal la jugada</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/quema-obra-frida-kahlo-vender-copias-como-nft-sale-muy-mal-jugada-1154087' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/quema-dibujo-gran-valor-poder-vender-copias-como-nft-jugada-sale-muy-mal-2868837.jpg' alt='Quema una obra de Frida Kahlo para vender sus copias como NFT, y le sale muy mal la jugada' />
     </a>
 </div>
 
