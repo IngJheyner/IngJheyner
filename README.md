@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/red-social-banco-planes-elon-musk-twitter-1154371'>De red social a banco, los planes de Elon Musk para Twitter</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/red-social-banco-planes-elon-musk-twitter-1154371' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/elon-musk-dentro-simbolo-twitter-2860269.jpg' alt='De red social a banco, los planes de Elon Musk para Twitter' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/patrocinado/tecnologia/como-estadio-futbol-salon-casa-1146867'>Cómo cabe un estadio de fútbol en el salón de tu casa</a></h4>
+    <a href='https://computerhoy.com/patrocinado/tecnologia/como-estadio-futbol-salon-casa-1146867' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/lg-tv-oled-2854943.jpg' alt='Cómo cabe un estadio de fútbol en el salón de tu casa' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/puedes-usar-controlar-smartphone-android-pc-windows-1154011'>Así puedes usar y controlar tu smartphone Android desde tu PC con Windows</a></h4>
+    <a href='https://computerhoy.com/tutoriales/tecnologia/puedes-usar-controlar-smartphone-android-pc-windows-1154011' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/android-windows-2868645.jpg' alt='Así puedes usar y controlar tu smartphone Android desde tu PC con Windows' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/listas/tecnologia/ofertas-moviles-11-11-cupones-mejores-descuentos-telefonos-xiaomi-realme-1152623'>Ofertas móviles 11 del 11: cupones y mejores descuentos en teléfonos Xiaomi, realme y más</a></h4>
+    <a href='https://computerhoy.com/listas/tecnologia/ofertas-moviles-11-11-cupones-mejores-descuentos-telefonos-xiaomi-realme-1152623' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/aliexpress-2865923.jpg' alt='Ofertas móviles 11 del 11: cupones y mejores descuentos en teléfonos Xiaomi, realme y más' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/7-senales-comportamiento-redes-sociales-no-saludable-1153893'>7 señales de que tu comportamiento con las redes sociales no es saludable</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/7-senales-comportamiento-redes-sociales-no-saludable-1153893' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/7-senales-comportamiento-redes-sociales-no-saludable-2868471.jpg' alt='7 señales de que tu comportamiento con las redes sociales no es saludable' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/27-noticias-tecnologia-comenzar-manana-informado-ultimo-1154341'>27 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/27-noticias-tecnologia-comenzar-manana-informado-ultimo-1154341' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/27-noticias-tecnologia-comenzar-manana-informado-ultimo-2869117.jpg' alt='27 noticias de tecnología para comenzar la mañana informado de lo último' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/listas/tecnologia/mejores-descuentos-xiaomi-11-11-aliexpress-otras-tiendas-1153989'>Mejores descuentos Xiaomi en el 11 del  11 de AliExpress y otras tiendas</a></h4>
-    <a href='https://computerhoy.com/listas/tecnologia/mejores-descuentos-xiaomi-11-11-aliexpress-otras-tiendas-1153989' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/ecosistema-xiaomi-2320727.jpg' alt='Mejores descuentos Xiaomi en el 11 del  11 de AliExpress y otras tiendas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/guia-compra-1111-trucos-consejos-aliexpress-962207'>Guía de compra del 11.11: trucos y consejos para comprar más barato en AliExpress</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/guia-compra-1111-trucos-consejos-aliexpress-962207' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/carrito-compra-ofertas-1111-2844513.jpg' alt='Guía de compra del 11.11: trucos y consejos para comprar más barato en AliExpress' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/ganas-orinar-ejercicios-kegel-1154339'>Por qué no deberías ir al baño "por si acaso" antes de salir de casa, según un prestigioso urólogo</a></h4>
-    <a href='https://computerhoy.com/noticias/life/ganas-orinar-ejercicios-kegel-1154339' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/no-deberias-ir-bano-acaso-antes-salir-casa-2869115.jpg' alt='Por qué no deberías ir al baño "por si acaso" antes de salir de casa, según un prestigioso urólogo' />
     </a>
 </div>
 
