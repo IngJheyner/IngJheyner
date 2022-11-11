@@ -50,9 +50,17 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/stock-playstation-5-11-11-oferta-1154487'>El día de los Solteros consigue un milagro: Vuelve el stock de PlayStation 5 por el 11.11</a></h4>
+    <h4><a href='https://computerhoy.com/noticias/life/ciencia-corrobora-usar-insultos-bueno-cuales-usan-provincia-espanola-1154477'>La ciencia corrobora que usar insultos es bueno, cuáles se usan más según qué provincia española</a></h4>
+    <a href='https://computerhoy.com/noticias/life/ciencia-corrobora-usar-insultos-bueno-cuales-usan-provincia-espanola-1154477' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/insultar-palabrotas-2869617.jpg' alt='La ciencia corrobora que usar insultos es bueno, cuáles se usan más según qué provincia española' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/stock-playstation-5-11-11-oferta-1154487'>El día de los solteros consigue un milagro: Vuelve el stock de PlayStation 5 por el 11.11</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/stock-playstation-5-11-11-oferta-1154487' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/pack-playstation-5-2869545.jpg' alt='El día de los Solteros consigue un milagro: Vuelve el stock de PlayStation 5 por el 11.11' />
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/pack-playstation-5-2869545.jpg' alt='El día de los solteros consigue un milagro: Vuelve el stock de PlayStation 5 por el 11.11' />
     </a>
 </div>
 
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/estos-mapas-muestran-ciudades-espanolas-corren-peligro-desaparecer-agua-sigue-subiendo-nivel-mar-1154403'>Estos mapas muestran qué ciudades españolas corren peligro de desaparecer bajo el agua si sigue subiendo el nivel del mar</a></h4>
     <a href='https://computerhoy.com/noticias/life/estos-mapas-muestran-ciudades-espanolas-corren-peligro-desaparecer-agua-sigue-subiendo-nivel-mar-1154403' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/mapa-deja-claro-ciudades-espanolas-seran-primeras-desaparecer-agua-sigue-subiendo-nivel-mar-2869363.jpg' alt='Estos mapas muestran qué ciudades españolas corren peligro de desaparecer bajo el agua si sigue subiendo el nivel del mar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/tv-raspberry-pi-perfecta-seguir-partidos-mundial-bolsillo-tiene-2-horas-autonomia-1154389'>La TV Raspberry Pi perfecta para seguir los partidos del mundial, cabe en tu bolsillo y tiene 2 horas de autonomía</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/tv-raspberry-pi-perfecta-seguir-partidos-mundial-bolsillo-tiene-2-horas-autonomia-1154389' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/tv-raspberry-pi-2869281.jpg' alt='La TV Raspberry Pi perfecta para seguir los partidos del mundial, cabe en tu bolsillo y tiene 2 horas de autonomía' />
     </a>
 </div>
 
