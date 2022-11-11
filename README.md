@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/ropa-interior-xiaomi-ultimo-marca-tecnologica-china-1154623'>Ropa interior Xiaomi, lo último de la marca tecnológica China</a></h4>
+    <a href='https://computerhoy.com/noticias/life/ropa-interior-xiaomi-ultimo-marca-tecnologica-china-1154623' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/ropa-interior-xiaomi-ultimo-marca-tecnologica-china-2869893.jpg' alt='Ropa interior Xiaomi, lo último de la marca tecnológica China' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/listas/tecnologia/auriculares-menos-20-euros-11-11-1154443'>Auriculares por menos de 20 euros: el 11.11 deja gangas increíbles</a></h4>
     <a href='https://computerhoy.com/listas/tecnologia/auriculares-menos-20-euros-11-11-1154443' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/huawei-freebuds-pro-2-analisis-opinion-2754911.jpg' alt='Auriculares por menos de 20 euros: el 11.11 deja gangas increíbles' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/series-ver-fin-semana-netflix-hbo-max-apple-tv-fin-mundo-amor-futuro-misterioso-1154607'>Qué series ver este fin de semana en Netflix, HBO Max y Apple TV+: un fin del mundo, una de amor y un futuro misterioso</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/series-ver-fin-semana-netflix-hbo-max-apple-tv-fin-mundo-amor-futuro-misterioso-1154607' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/series-fin-semana-11-noviembre-2022-2869831.jpg' alt='Qué series ver este fin de semana en Netflix, HBO Max y Apple TV+: un fin del mundo, una de amor y un futuro misterioso' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/peliculas-ver-fin-semana-movistarplus-netflix-disney-mary-poppins-alcarras-navidena-1154475'>Qué películas ver este fin de semana en MovistarPlus+, Netflix y Disney+: Mary Poppins, Alcarrás y una navideña</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/peliculas-ver-fin-semana-movistarplus-netflix-disney-mary-poppins-alcarras-navidena-1154475' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/peliculas-ver-fin-semana-movistarplus-netflix-disney-mary-poppins-alcarras-navidena-2869599.jpg' alt='Qué películas ver este fin de semana en MovistarPlus+, Netflix y Disney+: Mary Poppins, Alcarrás y una navideña' />
     </a>
 </div>
 
