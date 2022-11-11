@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/ganas-orinar-ejercicios-kegel-1154339'>Por qué no deberías ir al baño "por si acaso", antes de salir de casa</a></h4>
+    <a href='https://computerhoy.com/noticias/life/ganas-orinar-ejercicios-kegel-1154339' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/no-deberias-ir-bano-acaso-antes-salir-casa-2869115.jpg' alt='Por qué no deberías ir al baño "por si acaso", antes de salir de casa' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/volkswagen-silla-oficina-motorizada-video-1154337'>Volkswagen presenta una silla de oficina motorizada con luces y bocina, que se conduce con los pies (vídeo)</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/volkswagen-silla-oficina-motorizada-video-1154337' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/verticalimage1668129627990-2869113.jpg' alt='Volkswagen presenta una silla de oficina motorizada con luces y bocina, que se conduce con los pies (vídeo)' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/portatil-huawei-matebook-14-regalo-router-wifi-mesh-3-oferta-1154093'>El portátil Huawei MateBook 14 con procesador de AMD y un router Wifi en malla de regalo, por 579€</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/portatil-huawei-matebook-14-regalo-router-wifi-mesh-3-oferta-1154093' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/portatil-huawei-matebook-14-procesador-amd-router-wifi-malla-regalo-579eu-2868841.jpg' alt='El portátil Huawei MateBook 14 con procesador de AMD y un router Wifi en malla de regalo, por 579€' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/anulan-todas-multas-radar-dgt-razon-1154091'>Se anulan todas las multas de este radar de la DGT, y esta es la razón</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/anulan-todas-multas-radar-dgt-razon-1154091' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/radar-dgt-2868839.jpg' alt='Se anulan todas las multas de este radar de la DGT, y esta es la razón' />
     </a>
 </div>
 
