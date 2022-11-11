@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/listas/tecnologia/reduce-factura-luz-estas-bombillas-enchufes-wifi-otros-dispositivos-inteligentes-11-11-1153851'>Reduce la factura de la luz con estas bombillas, enchufes WiFi y otros dispositivos inteligentes por el 11 del 11</a></h4>
+    <a href='https://computerhoy.com/listas/tecnologia/reduce-factura-luz-estas-bombillas-enchufes-wifi-otros-dispositivos-inteligentes-11-11-1153851' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/reduce-factura-luz-estas-bombillas-enchufes-wifi-otros-dispositivos-inteligentes-11-11-2868271.jpg' alt='Reduce la factura de la luz con estas bombillas, enchufes WiFi y otros dispositivos inteligentes por el 11 del 11' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/zona-gaming/new-3ds-xl-samus-edition-inspirada-metroid-samus-returns-66251'>New 3DS XL inspirada en Metroid: Samus Returns</a></h4>
+    <a href='https://computerhoy.com/noticias/zona-gaming/new-3ds-xl-samus-edition-inspirada-metroid-samus-returns-66251' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2017/08/253161-new-3ds-xl-samus-edition-inspirada-metroid-samus-returns.jpg' alt='New 3DS XL inspirada en Metroid: Samus Returns' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/limite-maximo-transmision-datos-cable-fibra-llega-casa-ocupa-todo-internet-segundo-1154461'>El límite máximo de transmisión de datos por cable de fibra que llega a tu casa es más de lo que ocupa todo Internet por segundo</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/limite-maximo-transmision-datos-cable-fibra-llega-casa-ocupa-todo-internet-segundo-1154461' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/limite-maximo-transmision-datos-cable-fibra-llega-casa-ocupa-todo-internet-segundo-2869669.jpg' alt='El límite máximo de transmisión de datos por cable de fibra que llega a tu casa es más de lo que ocupa todo Internet por segundo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/nuevo-plegable-honor-quiere-ser-fino-ligero-mercado-sabemos-1154505'>El nuevo plegable de Honor quiere ser el más fino y ligero del mercado: esto es lo que sabemos</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/nuevo-plegable-honor-quiere-ser-fino-ligero-mercado-sabemos-1154505' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/honor-magic-vs-2869631.jpg' alt='El nuevo plegable de Honor quiere ser el más fino y ligero del mercado: esto es lo que sabemos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/ciencia-corrobora-usar-insultos-bueno-cuales-usan-provincia-espanola-1154477'>La ciencia corrobora que usar insultos es bueno, cuáles se usan más según qué provincia española</a></h4>
     <a href='https://computerhoy.com/noticias/life/ciencia-corrobora-usar-insultos-bueno-cuales-usan-provincia-espanola-1154477' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/insultar-palabrotas-2869617.jpg' alt='La ciencia corrobora que usar insultos es bueno, cuáles se usan más según qué provincia española' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/stock-playstation-5-11-11-oferta-1154487'>El día de los solteros consigue un milagro: Vuelve el stock de PlayStation 5 por el 11.11</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/stock-playstation-5-11-11-oferta-1154487' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/pack-playstation-5-2869545.jpg' alt='El día de los solteros consigue un milagro: Vuelve el stock de PlayStation 5 por el 11.11' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/wifi-afc-tecnologia-quiere-ordenar-coordinar-canales-inalambricos-vecinos-mejorar-rendimiento-1154431'>WiFi AFC, la tecnología que quiere ordenar y coordinar los canales inalámbricos entre vecinos para mejorar el rendimiento</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/wifi-afc-tecnologia-quiere-ordenar-coordinar-canales-inalambricos-vecinos-mejorar-rendimiento-1154431' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/08/qualcomm-networking-pro-series-chips-wifi-6-dar-cobertura-estadios-edificios-conexiones-masivas.jpg' alt='WiFi AFC, la tecnología que quiere ordenar y coordinar los canales inalámbricos entre vecinos para mejorar el rendimiento' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/hacienda-otras-instituciones-publicas-son-hackeadas-roban-datos-500000-contribuyentes-1154441'>Hacienda y otras instituciones públicas son hackeadas y roban los datos de 500.000 contribuyentes</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/hacienda-otras-instituciones-publicas-son-hackeadas-roban-datos-500000-contribuyentes-1154441' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/hacienda-hackeada-roban-datos-personales-fiscales-500000-contribuyentes-2869385.jpg' alt='Hacienda y otras instituciones públicas son hackeadas y roban los datos de 500.000 contribuyentes' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/estos-mapas-muestran-ciudades-espanolas-corren-peligro-desaparecer-agua-sigue-subiendo-nivel-mar-1154403'>Estos mapas muestran qué ciudades españolas corren peligro de desaparecer bajo el agua si sigue subiendo el nivel del mar</a></h4>
-    <a href='https://computerhoy.com/noticias/life/estos-mapas-muestran-ciudades-espanolas-corren-peligro-desaparecer-agua-sigue-subiendo-nivel-mar-1154403' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/mapa-deja-claro-ciudades-espanolas-seran-primeras-desaparecer-agua-sigue-subiendo-nivel-mar-2869363.jpg' alt='Estos mapas muestran qué ciudades españolas corren peligro de desaparecer bajo el agua si sigue subiendo el nivel del mar' />
     </a>
 </div>
 
