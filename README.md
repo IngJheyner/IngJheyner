@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/alerta-nuevo-timo-sms-podran-robarte-dinero-utilizando-bizum-1154591'>Alerta: así es el nuevo timo por SMS con el que podrán robarte dinero utilizando Bizum</a></h4>
+    <a href='https://computerhoy.com/noticias/life/alerta-nuevo-timo-sms-podran-robarte-dinero-utilizando-bizum-1154591' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/3-estafas-bizum-realizan-ciberdelincuentes-como-evitarlas-2505615.jpg' alt='Alerta: así es el nuevo timo por SMS con el que podrán robarte dinero utilizando Bizum' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/series-ver-fin-semana-netflix-hbo-max-apple-tv-fin-mundo-amor-futuro-misterioso-1154607'>Qué series ver este fin de semana en Netflix, HBO Max y Apple TV+: un fin del mundo, una de amor y un futuro misterioso</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/series-ver-fin-semana-netflix-hbo-max-apple-tv-fin-mundo-amor-futuro-misterioso-1154607' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/series-fin-semana-11-noviembre-2022-2869831.jpg' alt='Qué series ver este fin de semana en Netflix, HBO Max y Apple TV+: un fin del mundo, una de amor y un futuro misterioso' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/peliculas-ver-fin-semana-movistarplus-netflix-disney-mary-poppins-alcarras-navidena-1154475'>Qué películas ver este fin de semana en MovistarPlus+, Netflix y Disney+: Mary Poppins, Alcarrás y una navideña</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/peliculas-ver-fin-semana-movistarplus-netflix-disney-mary-poppins-alcarras-navidena-1154475' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/peliculas-ver-fin-semana-movistarplus-netflix-disney-mary-poppins-alcarras-navidena-2869599.jpg' alt='Qué películas ver este fin de semana en MovistarPlus+, Netflix y Disney+: Mary Poppins, Alcarrás y una navideña' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/ojo-ofertas-1111-black-friday-hay-subidas-precio-encubiertas-ocu-1154573'>Ojo con las “ofertas” del 11.11 y Black Friday, hay subidas de precio encubiertas según la OCU</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/ojo-ofertas-1111-black-friday-hay-subidas-precio-encubiertas-ocu-1154573' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/11-11-2869763.jpg' alt='Ojo con las “ofertas” del 11.11 y Black Friday, hay subidas de precio encubiertas según la OCU' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/tutoriales/tecnologia/8-maneras-ejecutar-aplicaciones-android-windows-1153411'>8 maneras de ejecutar aplicaciones Android en Windows</a></h4>
     <a href='https://computerhoy.com/tutoriales/tecnologia/8-maneras-ejecutar-aplicaciones-android-windows-1153411' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/android-windows-11-2867333.jpg' alt='8 maneras de ejecutar aplicaciones Android en Windows' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/son-nuevas-generaciones-raspberry-pi-1154529'>Así son las nuevas generaciones de RaspBerry Pi</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/son-nuevas-generaciones-raspberry-pi-1154529' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/raspberry-pi-4-2531287.jpg' alt='Así son las nuevas generaciones de RaspBerry Pi' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/listas/tecnologia/reduce-factura-luz-estas-bombillas-enchufes-wifi-otros-dispositivos-inteligentes-11-11-1153851'>Reduce la factura de la luz con estas bombillas, enchufes WiFi y otros dispositivos inteligentes por el 11 del 11</a></h4>
-    <a href='https://computerhoy.com/listas/tecnologia/reduce-factura-luz-estas-bombillas-enchufes-wifi-otros-dispositivos-inteligentes-11-11-1153851' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/reduce-factura-luz-estas-bombillas-enchufes-wifi-otros-dispositivos-inteligentes-11-11-2868271.jpg' alt='Reduce la factura de la luz con estas bombillas, enchufes WiFi y otros dispositivos inteligentes por el 11 del 11' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/limite-maximo-transmision-datos-cable-fibra-llega-casa-ocupa-todo-internet-segundo-1154461'>El límite máximo de transmisión de datos por cable de fibra que llega a tu casa es más de lo que ocupa todo Internet por segundo</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/limite-maximo-transmision-datos-cable-fibra-llega-casa-ocupa-todo-internet-segundo-1154461' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/limite-maximo-transmision-datos-cable-fibra-llega-casa-ocupa-todo-internet-segundo-2869669.jpg' alt='El límite máximo de transmisión de datos por cable de fibra que llega a tu casa es más de lo que ocupa todo Internet por segundo' />
     </a>
 </div>
 
