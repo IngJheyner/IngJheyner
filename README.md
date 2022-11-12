@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/mediatek-gana-carrera-realidad-virtual-nuevo-procesador-impulsara-playstation-vr2-1154961'>MediaTek gana la carrera en la realidad virtual: su nuevo procesador impulsará a PlayStation VR2</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/mediatek-gana-carrera-realidad-virtual-nuevo-procesador-impulsara-playstation-vr2-1154961' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/playstation-vr2-2870301.jpg' alt='MediaTek gana la carrera en la realidad virtual: su nuevo procesador impulsará a PlayStation VR2' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/disney-no-escapa-crisis-streaming-podrian-recortar-puestos-trabajo-afectando-servicios-transmision-1154955'>Disney no escapa a la crisis del streaming: podrían recortar puestos de trabajo afectando a sus servicios de transmisión</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/disney-no-escapa-crisis-streaming-podrian-recortar-puestos-trabajo-afectando-servicios-transmision-1154955' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/12/disney-plus-2165971.jpg' alt='Disney no escapa a la crisis del streaming: podrían recortar puestos de trabajo afectando a sus servicios de transmisión' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/entretenimiento/documentales-cantantes-muestran-completo-grandes-estrellas-1153005'>7 documentales sobre cantantes que muestran por completo cómo son algunas grandes estrellas</a></h4>
     <a href='https://computerhoy.com/reportajes/entretenimiento/documentales-cantantes-muestran-completo-grandes-estrellas-1153005' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/7-documentales-cantantes-muestran-completo-grandes-estrellas-2866669.jpg' alt='7 documentales sobre cantantes que muestran por completo cómo son algunas grandes estrellas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/google-empieza-desplegar-nuevo-rediseno-androd-auto-pero-solo-estos-usuarios-1154935'>Google empieza a desplegar el nuevo rediseño de Androd Auto, pero solo para estos usuarios</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/google-empieza-desplegar-nuevo-rediseno-androd-auto-pero-solo-estos-usuarios-1154935' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/android-auto-coolwalk-2870275.jpg' alt='Google empieza a desplegar el nuevo rediseño de Androd Auto, pero solo para estos usuarios' />
     </a>
 </div>
 
