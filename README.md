@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/gaming/jugar-consola-pantalla-cine-cinesa-1154667'>Ya puedes jugar al CoD o al FIFA con tu consola conectada a una pantalla de cine de 400 pulgadas</a></h4>
+    <a href='https://computerhoy.com/noticias/gaming/jugar-consola-pantalla-cine-cinesa-1154667' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/ya-puedes-jugar-cod-fifa-consola-conectada-pantalla-cine-300-pulgadas-2869957.jpg' alt='Ya puedes jugar al CoD o al FIFA con tu consola conectada a una pantalla de cine de 400 pulgadas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/dron-wipeep-ver-traves-paredes-ladrones-senales-wifi-1151973'>Este dron puede ver a través de las paredes para decirle a los ladrones dónde está la Smart TV o los ordenadores</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/dron-wipeep-ver-traves-paredes-ladrones-senales-wifi-1151973' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/dron-puede-ver-traves-paredes-decirle-ladrones-donde-smart-tv-ordenadores-2864835.jpg' alt='Este dron puede ver a través de las paredes para decirle a los ladrones dónde está la Smart TV o los ordenadores' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/edad-maxima-ser-humano-podra-vivir-cientificos-1154655'>Esta es la edad máxima que un ser humano podrá vivir, según científicos</a></h4>
     <a href='https://computerhoy.com/noticias/life/edad-maxima-ser-humano-podra-vivir-cientificos-1154655' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/vejez-2869941.jpg' alt='Esta es la edad máxima que un ser humano podrá vivir, según científicos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/precuela-the-witcher-origen-sangre-fecha-estreno-netflix-1154653'>La precuela de The Witcher se estrena en Navidad, para intentar que olvidemos la polémica con Henry Cavill</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/precuela-the-witcher-origen-sangre-fecha-estreno-netflix-1154653' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/verticalimage1668193556327-2869939.jpg' alt='La precuela de The Witcher se estrena en Navidad, para intentar que olvidemos la polémica con Henry Cavill' />
     </a>
 </div>
 
