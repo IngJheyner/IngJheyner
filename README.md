@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/crean-pulsera-capaz-rastrear-postura-todo-cuerpo-3d-usando-solo-camara-1155143'>Crean una pulsera capaz de rastrear la postura de todo el cuerpo en 3D, y usando solo una cámara</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/crean-pulsera-capaz-rastrear-postura-todo-cuerpo-3d-usando-solo-camara-1155143' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/bodytrak-2870469.jpg' alt='Crean una pulsera capaz de rastrear la postura de todo el cuerpo en 3D, y usando solo una cámara' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-trucos-consejos-ahorrar-black-friday-970097'>Mejores trucos y consejos para ahorrar en el Black Friday</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/mejores-trucos-consejos-ahorrar-black-friday-970097' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/black-friday-2870195.jpg' alt='Mejores trucos y consejos para ahorrar en el Black Friday' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/mediatek-gana-carrera-realidad-virtual-nuevo-procesador-impulsara-playstation-vr2-1154961'>MediaTek gana la carrera en la realidad virtual: su nuevo procesador impulsará a PlayStation VR2</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/mediatek-gana-carrera-realidad-virtual-nuevo-procesador-impulsara-playstation-vr2-1154961' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/playstation-vr2-2870301.jpg' alt='MediaTek gana la carrera en la realidad virtual: su nuevo procesador impulsará a PlayStation VR2' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/disney-no-escapa-crisis-streaming-podrian-recortar-puestos-trabajo-afectando-servicios-transmision-1154955'>Disney no escapa a la crisis del streaming: podrían recortar puestos de trabajo afectando a sus servicios de transmisión</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/disney-no-escapa-crisis-streaming-podrian-recortar-puestos-trabajo-afectando-servicios-transmision-1154955' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/12/disney-plus-2165971.jpg' alt='Disney no escapa a la crisis del streaming: podrían recortar puestos de trabajo afectando a sus servicios de transmisión' />
     </a>
 </div>
 
