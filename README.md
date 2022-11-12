@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/cuando-empiezan-ofertas-black-friday-aliexpress-1154663'>Cuando empiezan las ofertas del Black Friday en AliExpress</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/cuando-empiezan-ofertas-black-friday-aliexpress-1154663' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/black-friday-2869953.jpg' alt='Cuando empiezan las ofertas del Black Friday en AliExpress' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/no-puedo-vivir-google-eso-problema-1152855'>No puedo vivir sin Google, y eso es un problema</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/no-puedo-vivir-google-eso-problema-1152855' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/apps-google-iphone-14-pro-max-2866431.jpg' alt='No puedo vivir sin Google, y eso es un problema' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/motor/ferrari-499p-24-horas-le-mans-hypercar-mundial-resistencia-1153499'>50 años después, Ferrari retorna a las 24 Horas de Le Mans con su espectacular hypercar Ferrari 499P</a></h4>
     <a href='https://computerhoy.com/noticias/motor/ferrari-499p-24-horas-le-mans-hypercar-mundial-resistencia-1153499' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/ferrari-499p-mans-2857471.jpg' alt='50 años después, Ferrari retorna a las 24 Horas de Le Mans con su espectacular hypercar Ferrari 499P' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/gaming/jugar-consola-pantalla-cine-cinesa-1154667'>Ya puedes jugar al CoD o al FIFA con tu consola conectada a una pantalla de cine de 400 pulgadas</a></h4>
     <a href='https://computerhoy.com/noticias/gaming/jugar-consola-pantalla-cine-cinesa-1154667' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/ya-puedes-jugar-cod-fifa-consola-conectada-pantalla-cine-300-pulgadas-2869957.jpg' alt='Ya puedes jugar al CoD o al FIFA con tu consola conectada a una pantalla de cine de 400 pulgadas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/dron-wipeep-ver-traves-paredes-ladrones-senales-wifi-1151973'>Este dron puede ver a través de las paredes para decirle a los ladrones dónde está la Smart TV o los ordenadores</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/dron-wipeep-ver-traves-paredes-ladrones-senales-wifi-1151973' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/dron-puede-ver-traves-paredes-decirle-ladrones-donde-smart-tv-ordenadores-2864835.jpg' alt='Este dron puede ver a través de las paredes para decirle a los ladrones dónde está la Smart TV o los ordenadores' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/apple-elimina-540000-apps-abandonadas-app-store-1154665'>Apple elimina otras 540.000 apps "abandonadas"  de la App Store, y sus creadores se quejan: terminadas no es abandono</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/apple-elimina-540000-apps-abandonadas-app-store-1154665' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/app-store-2818455.jpg' alt='Apple elimina otras 540.000 apps "abandonadas"  de la App Store, y sus creadores se quejan: terminadas no es abandono' />
     </a>
 </div>
 
