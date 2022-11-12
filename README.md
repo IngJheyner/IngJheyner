@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/disney-no-escapa-crisis-streaming-podrian-recortar-puestos-trabajo-afectando-servicios-transmision-1154955'>Disney no escapa a la crisis del streaming: podrían recortar puestos de trabajo afectando a sus servicios de transmisión</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/disney-no-escapa-crisis-streaming-podrian-recortar-puestos-trabajo-afectando-servicios-transmision-1154955' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/12/disney-plus-2165971.jpg' alt='Disney no escapa a la crisis del streaming: podrían recortar puestos de trabajo afectando a sus servicios de transmisión' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/nueva-imagen-hubble-dos-galaxias-atrayendose-vas-querer-poner-fondo-escritorio-1154947'>La nueva imagen del Hubble de dos galaxias atrayéndose entre sí y que vas a querer poner de fondo de escritorio</a></h4>
     <a href='https://computerhoy.com/noticias/life/nueva-imagen-hubble-dos-galaxias-atrayendose-vas-querer-poner-fondo-escritorio-1154947' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/arp-248-2870285.jpg' alt='La nueva imagen del Hubble de dos galaxias atrayéndose entre sí y que vas a querer poner de fondo de escritorio' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/google-empieza-desplegar-nuevo-rediseno-androd-auto-pero-solo-estos-usuarios-1154935'>Google empieza a desplegar el nuevo rediseño de Androd Auto, pero solo para estos usuarios</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/google-empieza-desplegar-nuevo-rediseno-androd-auto-pero-solo-estos-usuarios-1154935' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/android-auto-coolwalk-2870275.jpg' alt='Google empieza a desplegar el nuevo rediseño de Androd Auto, pero solo para estos usuarios' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/microsoft-planea-dos-grandes-actualizaciones-windows-11-mientras-aparece-horizonte-windows-12-2024-1154923'>Microsoft planea dos grandes actualizaciones más para Windows 11 mientras aparece en el horizonte Windows 12 para 2024</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/microsoft-planea-dos-grandes-actualizaciones-windows-11-mientras-aparece-horizonte-windows-12-2024-1154923' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/windows-11-2870243.jpg' alt='Microsoft planea dos grandes actualizaciones más para Windows 11 mientras aparece en el horizonte Windows 12 para 2024' />
     </a>
 </div>
 
