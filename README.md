@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-trucos-consejos-ahorrar-black-friday-970097'>Mejores trucos y consejos para ahorrar en el Black Friday</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-trucos-consejos-ahorrar-black-friday-970097' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/black-friday-2870195.jpg' alt='Mejores trucos y consejos para ahorrar en el Black Friday' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/sandalias-cuero-steve-jobs-tiro-basura-subastan-miles-dolares-1154963'>La sandalias de cuero que Steve Jobs tiró a la basura se subastan por miles de dólares</a></h4>
+    <a href='https://computerhoy.com/noticias/life/sandalias-cuero-steve-jobs-tiro-basura-subastan-miles-dolares-1154963' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/03/steve-jobs-2280383.jpg' alt='La sandalias de cuero que Steve Jobs tiró a la basura se subastan por miles de dólares' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/guia-compra/teclado-tablet-1148385'>Todo lo que tienes que saber para comprar el mejor teclado para tu tablet</a></h4>
+    <a href='https://computerhoy.com/guia-compra/teclado-tablet-1148385' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/teclado-tablet-2857907.jpg' alt='Todo lo que tienes que saber para comprar el mejor teclado para tu tablet' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/mediatek-gana-carrera-realidad-virtual-nuevo-procesador-impulsara-playstation-vr2-1154961'>MediaTek gana la carrera en la realidad virtual: su nuevo procesador impulsará a PlayStation VR2</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/mediatek-gana-carrera-realidad-virtual-nuevo-procesador-impulsara-playstation-vr2-1154961' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/playstation-vr2-2870301.jpg' alt='MediaTek gana la carrera en la realidad virtual: su nuevo procesador impulsará a PlayStation VR2' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/disney-no-escapa-crisis-streaming-podrian-recortar-puestos-trabajo-afectando-servicios-transmision-1154955'>Disney no escapa a la crisis del streaming: podrían recortar puestos de trabajo afectando a sus servicios de transmisión</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/disney-no-escapa-crisis-streaming-podrian-recortar-puestos-trabajo-afectando-servicios-transmision-1154955' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/12/disney-plus-2165971.jpg' alt='Disney no escapa a la crisis del streaming: podrían recortar puestos de trabajo afectando a sus servicios de transmisión' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/nueva-imagen-hubble-dos-galaxias-atrayendose-vas-querer-poner-fondo-escritorio-1154947'>La nueva imagen del Hubble de dos galaxias atrayéndose entre sí y que vas a querer poner de fondo de escritorio</a></h4>
-    <a href='https://computerhoy.com/noticias/life/nueva-imagen-hubble-dos-galaxias-atrayendose-vas-querer-poner-fondo-escritorio-1154947' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/arp-248-2870285.jpg' alt='La nueva imagen del Hubble de dos galaxias atrayéndose entre sí y que vas a querer poner de fondo de escritorio' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/corto-animacion-baby-yoda-acaba-estrenar-disney-colaboracion-lucasfilm-studio-ghibli-1154941'>Este es el corto de animación de Baby Yoda que se acaba de estrenar en Disney+: colaboración entre Lucasfilm y Studio Ghibli</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/corto-animacion-baby-yoda-acaba-estrenar-disney-colaboracion-lucasfilm-studio-ghibli-1154941' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/zen-grogy-and-dust-bunnies-2870277.jpg' alt='Este es el corto de animación de Baby Yoda que se acaba de estrenar en Disney+: colaboración entre Lucasfilm y Studio Ghibli' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/entretenimiento/documentales-cantantes-muestran-completo-grandes-estrellas-1153005'>7 documentales sobre cantantes que muestran por completo cómo son algunas grandes estrellas</a></h4>
-    <a href='https://computerhoy.com/reportajes/entretenimiento/documentales-cantantes-muestran-completo-grandes-estrellas-1153005' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/7-documentales-cantantes-muestran-completo-grandes-estrellas-2866669.jpg' alt='7 documentales sobre cantantes que muestran por completo cómo son algunas grandes estrellas' />
     </a>
 </div>
 
