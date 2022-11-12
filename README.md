@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/corto-animacion-baby-yoda-acaba-estrenar-disney-colaboracion-lucasfilm-studio-ghibli-1154941'>Este es el corto de animación de Baby Yoda que se acaba de estrenar en Disney+: colaboración entre Lucasfilm y Studio Ghibli</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/corto-animacion-baby-yoda-acaba-estrenar-disney-colaboracion-lucasfilm-studio-ghibli-1154941' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/zen-grogy-and-dust-bunnies-2870277.jpg' alt='Este es el corto de animación de Baby Yoda que se acaba de estrenar en Disney+: colaboración entre Lucasfilm y Studio Ghibli' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/entretenimiento/documentales-cantantes-muestran-completo-grandes-estrellas-1153005'>7 documentales sobre cantantes que muestran por completo cómo son algunas grandes estrellas</a></h4>
+    <a href='https://computerhoy.com/reportajes/entretenimiento/documentales-cantantes-muestran-completo-grandes-estrellas-1153005' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/7-documentales-cantantes-muestran-completo-grandes-estrellas-2866669.jpg' alt='7 documentales sobre cantantes que muestran por completo cómo son algunas grandes estrellas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/google-empieza-desplegar-nuevo-rediseno-androd-auto-pero-solo-estos-usuarios-1154935'>Google empieza a desplegar el nuevo rediseño de Androd Auto, pero solo para estos usuarios</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/google-empieza-desplegar-nuevo-rediseno-androd-auto-pero-solo-estos-usuarios-1154935' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/android-auto-coolwalk-2870275.jpg' alt='Google empieza a desplegar el nuevo rediseño de Androd Auto, pero solo para estos usuarios' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/quien-ganara-mundial-2022-qatar-inteligencia-artificial-1153735'>¿Quién ganará el Mundial 2022 de Qatar según la Inteligencia Artificial?</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/quien-ganara-mundial-2022-qatar-inteligencia-artificial-1153735' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/fifa-23-qatar-2022-2868411.jpg' alt='¿Quién ganará el Mundial 2022 de Qatar según la Inteligencia Artificial?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/puede-desinstalar-windows-edge-windows-11-caso-recomendable-hacerlo-1152173'>Así se puede desinstalar Windows Edge de Windows 11 y en qué caso es recomendable hacerlo</a></h4>
-    <a href='https://computerhoy.com/tutoriales/tecnologia/puede-desinstalar-windows-edge-windows-11-caso-recomendable-hacerlo-1152173' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/eliminar-microsoft-edge-2865345.jpg' alt='Así se puede desinstalar Windows Edge de Windows 11 y en qué caso es recomendable hacerlo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/binance-vs-ftx-mercado-criptomonedas-cae-picado-espera-peor-1154563'>Binance vs FTX: el mercado de las criptomonedas cae en picado y se espera lo peor</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/binance-vs-ftx-mercado-criptomonedas-cae-picado-espera-peor-1154563' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/ocurriendo-ftx-binance-mercado-criptomonedas-2869741.jpg' alt='Binance vs FTX: el mercado de las criptomonedas cae en picado y se espera lo peor' />
     </a>
 </div>
 
