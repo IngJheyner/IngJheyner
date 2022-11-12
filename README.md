@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/dron-wipeep-ver-traves-paredes-ladrones-senales-wifi-1151973'>Este dron puede ver a través de las paredes para decirle a los ladrones dónde está la Smart TV o los ordenadores</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/dron-wipeep-ver-traves-paredes-ladrones-senales-wifi-1151973' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/dron-puede-ver-traves-paredes-decirle-ladrones-donde-smart-tv-ordenadores-2864835.jpg' alt='Este dron puede ver a través de las paredes para decirle a los ladrones dónde está la Smart TV o los ordenadores' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/apple-elimina-540000-apps-abandonadas-app-store-1154665'>Apple elimina otras 540.000 apps "abandonadas"  de la App Store, y sus creadores se quejan: terminadas no es abandono</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/apple-elimina-540000-apps-abandonadas-app-store-1154665' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/app-store-2818455.jpg' alt='Apple elimina otras 540.000 apps "abandonadas"  de la App Store, y sus creadores se quejan: terminadas no es abandono' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/generador-solar-200-w-mitad-precio-chollo-descuento-1154661'>Este generador solar y batería portáil de 200 W baja a mitad de precio con nuestro cupón exclusivo... ¡solo 159 euros!</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/generador-solar-200-w-mitad-precio-chollo-descuento-1154661' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/generador-solar-200-w-baja-mitad-precio-cupon-exclusivo-solo-159-euros-2869947.jpg' alt='Este generador solar y batería portáil de 200 W baja a mitad de precio con nuestro cupón exclusivo... ¡solo 159 euros!' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/precuela-the-witcher-origen-sangre-fecha-estreno-netflix-1154653'>La precuela de The Witcher se estrena en Navidad, para intentar que olvidemos la polémica con Henry Cavill</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/precuela-the-witcher-origen-sangre-fecha-estreno-netflix-1154653' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/verticalimage1668193556327-2869939.jpg' alt='La precuela de The Witcher se estrena en Navidad, para intentar que olvidemos la polémica con Henry Cavill' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/exchange-criptomonedas-ftx-declara-bancarrota-creador-pierde-94-fortuna-unas-horas-1154651'>El exchange de criptomonedas FTX se declara en bancarrota y su creador pierde el 94 % de su fortuna en unas horas</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/exchange-criptomonedas-ftx-declara-bancarrota-creador-pierde-94-fortuna-unas-horas-1154651' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/sam-bankman-fried-2869933.jpg' alt='El exchange de criptomonedas FTX se declara en bancarrota y su creador pierde el 94 % de su fortuna en unas horas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/ropa-interior-xiaomi-ultimo-marca-tecnologica-china-1154623'>Ropa interior Xiaomi, lo último de la marca tecnológica China</a></h4>
-    <a href='https://computerhoy.com/noticias/life/ropa-interior-xiaomi-ultimo-marca-tecnologica-china-1154623' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/ropa-interior-xiaomi-ultimo-marca-tecnologica-china-2869893.jpg' alt='Ropa interior Xiaomi, lo último de la marca tecnológica China' />
     </a>
 </div>
 
