@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/nueva-imagen-hubble-dos-galaxias-atrayendose-vas-querer-poner-fondo-escritorio-1154947'>La nueva imagen del Hubble de dos galaxias atrayéndose entre sí y que vas a querer poner de fondo de escritorio</a></h4>
+    <a href='https://computerhoy.com/noticias/life/nueva-imagen-hubble-dos-galaxias-atrayendose-vas-querer-poner-fondo-escritorio-1154947' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/arp-248-2870285.jpg' alt='La nueva imagen del Hubble de dos galaxias atrayéndose entre sí y que vas a querer poner de fondo de escritorio' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/corto-animacion-baby-yoda-acaba-estrenar-disney-colaboracion-lucasfilm-studio-ghibli-1154941'>Este es el corto de animación de Baby Yoda que se acaba de estrenar en Disney+: colaboración entre Lucasfilm y Studio Ghibli</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/corto-animacion-baby-yoda-acaba-estrenar-disney-colaboracion-lucasfilm-studio-ghibli-1154941' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/zen-grogy-and-dust-bunnies-2870277.jpg' alt='Este es el corto de animación de Baby Yoda que se acaba de estrenar en Disney+: colaboración entre Lucasfilm y Studio Ghibli' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/microsoft-planea-dos-grandes-actualizaciones-windows-11-mientras-aparece-horizonte-windows-12-2024-1154923'>Microsoft planea dos grandes actualizaciones más para Windows 11 mientras aparece en el horizonte Windows 12 para 2024</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/microsoft-planea-dos-grandes-actualizaciones-windows-11-mientras-aparece-horizonte-windows-12-2024-1154923' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/windows-11-2870243.jpg' alt='Microsoft planea dos grandes actualizaciones más para Windows 11 mientras aparece en el horizonte Windows 12 para 2024' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/quien-ganara-mundial-2022-qatar-inteligencia-artificial-1153735'>¿Quién ganará el Mundial 2022 de Qatar según la Inteligencia Artificial?</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/quien-ganara-mundial-2022-qatar-inteligencia-artificial-1153735' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/fifa-23-qatar-2022-2868411.jpg' alt='¿Quién ganará el Mundial 2022 de Qatar según la Inteligencia Artificial?' />
     </a>
 </div>
 
