@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/google-empieza-desplegar-nuevo-rediseno-androd-auto-pero-solo-estos-usuarios-1154935'>Google empieza a desplegar el nuevo rediseño de Androd Auto, pero solo para estos usuarios</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/google-empieza-desplegar-nuevo-rediseno-androd-auto-pero-solo-estos-usuarios-1154935' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/android-auto-coolwalk-2870275.jpg' alt='Google empieza a desplegar el nuevo rediseño de Androd Auto, pero solo para estos usuarios' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/microsoft-planea-dos-grandes-actualizaciones-windows-11-mientras-aparece-horizonte-windows-12-2024-1154923'>Microsoft planea dos grandes actualizaciones más para Windows 11 mientras aparece en el horizonte Windows 12 para 2024</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/microsoft-planea-dos-grandes-actualizaciones-windows-11-mientras-aparece-horizonte-windows-12-2024-1154923' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/windows-11-2870243.jpg' alt='Microsoft planea dos grandes actualizaciones más para Windows 11 mientras aparece en el horizonte Windows 12 para 2024' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/quien-ganara-mundial-2022-qatar-inteligencia-artificial-1153735'>¿Quién ganará el Mundial 2022 de Qatar según la Inteligencia Artificial?</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/quien-ganara-mundial-2022-qatar-inteligencia-artificial-1153735' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/fifa-23-qatar-2022-2868411.jpg' alt='¿Quién ganará el Mundial 2022 de Qatar según la Inteligencia Artificial?' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/binance-vs-ftx-mercado-criptomonedas-cae-picado-espera-peor-1154563'>Binance vs FTX: el mercado de las criptomonedas cae en picado y se espera lo peor</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/binance-vs-ftx-mercado-criptomonedas-cae-picado-espera-peor-1154563' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/ocurriendo-ftx-binance-mercado-criptomonedas-2869741.jpg' alt='Binance vs FTX: el mercado de las criptomonedas cae en picado y se espera lo peor' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/lg-tone-free-fit-review-test-1151793'>Análisis de los LG Tone Free Fit, unos auriculares que matan las bacterias</a></h4>
-    <a href='https://computerhoy.com/analisis/lg-tone-free-fit-review-test-1151793' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/lg-tone-free-fit-2864637.jpg' alt='Análisis de los LG Tone Free Fit, unos auriculares que matan las bacterias' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/cuando-empiezan-ofertas-black-friday-aliexpress-1154663'>Cuando empiezan las ofertas del Black Friday en AliExpress</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/cuando-empiezan-ofertas-black-friday-aliexpress-1154663' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/black-friday-2869953.jpg' alt='Cuando empiezan las ofertas del Black Friday en AliExpress' />
     </a>
 </div>
 
