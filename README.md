@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/ferrari-499p-24-horas-le-mans-hypercar-mundial-resistencia-1153499'>50 años después, Ferrari retorna a las 24 Horas de Le Mans con su espectacular hypercar Ferrari 499P</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/ferrari-499p-24-horas-le-mans-hypercar-mundial-resistencia-1153499' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/ferrari-499p-mans-2857471.jpg' alt='50 años después, Ferrari retorna a las 24 Horas de Le Mans con su espectacular hypercar Ferrari 499P' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-televisores-4k-55-pulgadas-1059299'>Mejores televisores 4K de 55 pulgadas que puedes comprar en 2022</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-televisores-4k-55-pulgadas-1059299' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/philips-48oled806-2786721.jpg' alt='Mejores televisores 4K de 55 pulgadas que puedes comprar en 2022' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/gaming/jugar-consola-pantalla-cine-cinesa-1154667'>Ya puedes jugar al CoD o al FIFA con tu consola conectada a una pantalla de cine de 400 pulgadas</a></h4>
     <a href='https://computerhoy.com/noticias/gaming/jugar-consola-pantalla-cine-cinesa-1154667' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/ya-puedes-jugar-cod-fifa-consola-conectada-pantalla-cine-300-pulgadas-2869957.jpg' alt='Ya puedes jugar al CoD o al FIFA con tu consola conectada a una pantalla de cine de 400 pulgadas' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/apple-elimina-540000-apps-abandonadas-app-store-1154665'>Apple elimina otras 540.000 apps "abandonadas"  de la App Store, y sus creadores se quejan: terminadas no es abandono</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/apple-elimina-540000-apps-abandonadas-app-store-1154665' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/app-store-2818455.jpg' alt='Apple elimina otras 540.000 apps "abandonadas"  de la App Store, y sus creadores se quejan: terminadas no es abandono' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/generador-solar-200-w-mitad-precio-chollo-descuento-1154661'>Este generador solar y batería portáil de 200 W baja a mitad de precio con nuestro cupón exclusivo... ¡solo 159 euros!</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/generador-solar-200-w-mitad-precio-chollo-descuento-1154661' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/generador-solar-200-w-baja-mitad-precio-cupon-exclusivo-solo-159-euros-2869947.jpg' alt='Este generador solar y batería portáil de 200 W baja a mitad de precio con nuestro cupón exclusivo... ¡solo 159 euros!' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/edad-maxima-ser-humano-podra-vivir-cientificos-1154655'>Esta es la edad máxima que un ser humano podrá vivir, según científicos</a></h4>
-    <a href='https://computerhoy.com/noticias/life/edad-maxima-ser-humano-podra-vivir-cientificos-1154655' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/vejez-2869941.jpg' alt='Esta es la edad máxima que un ser humano podrá vivir, según científicos' />
     </a>
 </div>
 
