@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/quien-ganara-mundial-2022-qatar-inteligencia-artificial-1153735'>¿Quién ganará el Mundial 2022 de Qatar según la Inteligencia Artificial?</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/quien-ganara-mundial-2022-qatar-inteligencia-artificial-1153735' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/fifa-23-qatar-2022-2868411.jpg' alt='¿Quién ganará el Mundial 2022 de Qatar según la Inteligencia Artificial?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/puede-desinstalar-windows-edge-windows-11-caso-recomendable-hacerlo-1152173'>Así se puede desinstalar Windows Edge de Windows 11 y en qué caso es recomendable hacerlo</a></h4>
+    <a href='https://computerhoy.com/tutoriales/tecnologia/puede-desinstalar-windows-edge-windows-11-caso-recomendable-hacerlo-1152173' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/eliminar-microsoft-edge-2865345.jpg' alt='Así se puede desinstalar Windows Edge de Windows 11 y en qué caso es recomendable hacerlo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/binance-vs-ftx-mercado-criptomonedas-cae-picado-espera-peor-1154563'>Binance vs FTX: el mercado de las criptomonedas cae en picado y se espera lo peor</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/binance-vs-ftx-mercado-criptomonedas-cae-picado-espera-peor-1154563' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/ocurriendo-ftx-binance-mercado-criptomonedas-2869741.jpg' alt='Binance vs FTX: el mercado de las criptomonedas cae en picado y se espera lo peor' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/cuando-empiezan-ofertas-black-friday-aliexpress-1154663'>Cuando empiezan las ofertas del Black Friday en AliExpress</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/cuando-empiezan-ofertas-black-friday-aliexpress-1154663' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/black-friday-2869953.jpg' alt='Cuando empiezan las ofertas del Black Friday en AliExpress' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/no-puedo-vivir-google-eso-problema-1152855'>No puedo vivir sin Google, y eso es un problema</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/no-puedo-vivir-google-eso-problema-1152855' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/apps-google-iphone-14-pro-max-2866431.jpg' alt='No puedo vivir sin Google, y eso es un problema' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/ferrari-499p-24-horas-le-mans-hypercar-mundial-resistencia-1153499'>50 años después, Ferrari retorna a las 24 Horas de Le Mans con su espectacular hypercar Ferrari 499P</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/ferrari-499p-24-horas-le-mans-hypercar-mundial-resistencia-1153499' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/ferrari-499p-mans-2857471.jpg' alt='50 años después, Ferrari retorna a las 24 Horas de Le Mans con su espectacular hypercar Ferrari 499P' />
     </a>
 </div>
 
