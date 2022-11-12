@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/analisis/lg-tone-free-fit-review-test-1151793'>Análisis de los LG Tone Free Fit, unos auriculares que matan las bacterias</a></h4>
+    <a href='https://computerhoy.com/analisis/lg-tone-free-fit-review-test-1151793' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/lg-tone-free-fit-2864637.jpg' alt='Análisis de los LG Tone Free Fit, unos auriculares que matan las bacterias' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/cuando-empiezan-ofertas-black-friday-aliexpress-1154663'>Cuando empiezan las ofertas del Black Friday en AliExpress</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/cuando-empiezan-ofertas-black-friday-aliexpress-1154663' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/black-friday-2869953.jpg' alt='Cuando empiezan las ofertas del Black Friday en AliExpress' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-televisores-4k-55-pulgadas-1059299'>Mejores televisores 4K de 55 pulgadas que puedes comprar en 2022</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/mejores-televisores-4k-55-pulgadas-1059299' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/philips-48oled806-2786721.jpg' alt='Mejores televisores 4K de 55 pulgadas que puedes comprar en 2022' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/gaming/jugar-consola-pantalla-cine-cinesa-1154667'>Ya puedes jugar al CoD o al FIFA con tu consola conectada a una pantalla de cine de 400 pulgadas</a></h4>
-    <a href='https://computerhoy.com/noticias/gaming/jugar-consola-pantalla-cine-cinesa-1154667' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/ya-puedes-jugar-cod-fifa-consola-conectada-pantalla-cine-300-pulgadas-2869957.jpg' alt='Ya puedes jugar al CoD o al FIFA con tu consola conectada a una pantalla de cine de 400 pulgadas' />
     </a>
 </div>
 
