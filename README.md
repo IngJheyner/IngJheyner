@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/binance-vs-ftx-mercado-criptomonedas-cae-picado-espera-peor-1154563'>Binance vs FTX: el mercado de las criptomonedas cae en picado y se espera lo peor</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/binance-vs-ftx-mercado-criptomonedas-cae-picado-espera-peor-1154563' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/ocurriendo-ftx-binance-mercado-criptomonedas-2869741.jpg' alt='Binance vs FTX: el mercado de las criptomonedas cae en picado y se espera lo peor' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/analisis/lg-tone-free-fit-review-test-1151793'>Análisis de los LG Tone Free Fit, unos auriculares que matan las bacterias</a></h4>
     <a href='https://computerhoy.com/analisis/lg-tone-free-fit-review-test-1151793' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/lg-tone-free-fit-2864637.jpg' alt='Análisis de los LG Tone Free Fit, unos auriculares que matan las bacterias' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/motor/ferrari-499p-24-horas-le-mans-hypercar-mundial-resistencia-1153499'>50 años después, Ferrari retorna a las 24 Horas de Le Mans con su espectacular hypercar Ferrari 499P</a></h4>
     <a href='https://computerhoy.com/noticias/motor/ferrari-499p-24-horas-le-mans-hypercar-mundial-resistencia-1153499' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/ferrari-499p-mans-2857471.jpg' alt='50 años después, Ferrari retorna a las 24 Horas de Le Mans con su espectacular hypercar Ferrari 499P' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-televisores-4k-55-pulgadas-1059299'>Mejores televisores 4K de 55 pulgadas que puedes comprar en 2022</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-televisores-4k-55-pulgadas-1059299' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/philips-48oled806-2786721.jpg' alt='Mejores televisores 4K de 55 pulgadas que puedes comprar en 2022' />
     </a>
 </div>
 
