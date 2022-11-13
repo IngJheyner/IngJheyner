@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/microsoft-detiene-distribucion-windows-11-22h2-problemas-rendimiento-1155391'>Microsoft detiene por completo la distribución de Windows 11 22H2 en los PC gaming, por los problemas de rendimiento</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/microsoft-detiene-distribucion-windows-11-22h2-problemas-rendimiento-1155391' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/microsoft-detiene-completo-distribucion-windows-11-22h2-problemas-rendimiento-2871017.jpg' alt='Microsoft detiene por completo la distribución de Windows 11 22H2 en los PC gaming, por los problemas de rendimiento' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/gaming/tarjeta-grafica-china-moore-treads-mtt-s80-pcie-50-rtx-3060-ti-1155381'>Cuidado NVIDIA, la tarjeta gráfica china MTT S80 con PCIe 5.0 sale al mercado y es tan potente como una RTX 3060 Ti </a></h4>
     <a href='https://computerhoy.com/noticias/gaming/tarjeta-grafica-china-moore-treads-mtt-s80-pcie-50-rtx-3060-ti-1155381' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/cuidado-nvidia-tarjeta-grafica-china-mtt-s80-pcie-50-sale-mercado-tan-potente-como-rtx-3060-ti-2870991.jpg' alt='Cuidado NVIDIA, la tarjeta gráfica china MTT S80 con PCIe 5.0 sale al mercado y es tan potente como una RTX 3060 Ti ' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/videojuegos-perros-nueva-forma-entretenimiento-peludos-1151139'>Videojuegos para perros: así es la nueva forma de entretenimiento para los más peludos</a></h4>
     <a href='https://computerhoy.com/noticias/life/videojuegos-perros-nueva-forma-entretenimiento-peludos-1151139' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/videojuegos-perros-nueva-forma-entretenimiento-peludos-2863709.jpg' alt='Videojuegos para perros: así es la nueva forma de entretenimiento para los más peludos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/mirrosky-telescopio-automatico-inteligente-5g-video-1155357'>Mirrosky, el telescopio doméstico inteligente con 5G que encuentra las estrellas y planetas por su cuenta (vídeo)</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/mirrosky-telescopio-automatico-inteligente-5g-video-1155357' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/verticalimage1668351207003-2870953.jpg' alt='Mirrosky, el telescopio doméstico inteligente con 5G que encuentra las estrellas y planetas por su cuenta (vídeo)' />
     </a>
 </div>
 
