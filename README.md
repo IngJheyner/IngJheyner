@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/apple-demandada-supuestamente-enganar-usuarios-configuracion-privacidad-aplicaciones-1155325'>Apple es demandada por supuestamente engañar a los usuarios con la configuración de privacidad en sus aplicaciones</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/apple-demandada-supuestamente-enganar-usuarios-configuracion-privacidad-aplicaciones-1155325' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/demandan-apple-supuestamente-rastrear-usuarios-no-tener-cuenta-configuraciones-privacidad-2870853.jpg' alt='Apple es demandada por supuestamente engañar a los usuarios con la configuración de privacidad en sus aplicaciones' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/nueva-lavadora-xiaomi-pesa-inteligentemente-prendas-ajusta-cantidad-agua-1155311'>Esta nueva lavadora de Xiaomi pesa inteligentemente las prendas y ajusta la cantidad de agua</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/nueva-lavadora-xiaomi-pesa-inteligentemente-prendas-ajusta-cantidad-agua-1155311' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/mijia-pulsator-2870799.jpg' alt='Esta nueva lavadora de Xiaomi pesa inteligentemente las prendas y ajusta la cantidad de agua' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/gcam-ventajas-presenta-camara-google-pixel-1144409'>¿Qué es GCam y qué ventajas presenta esta cámara para los Google Pixel?</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/gcam-ventajas-presenta-camara-google-pixel-1144409' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/gcam-ventajas-presenta-camara-google-2850751.jpg' alt='¿Qué es GCam y qué ventajas presenta esta cámara para los Google Pixel?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/han-conseguido-recrear-famosa-escena-regreso-futuro-coche-lego-mucha-imaginacion-1155301'>Así han conseguido recrear esta famosa escena de Regreso al Futuro con un coche de LEGO y mucha imaginación</a></h4>
-    <a href='https://computerhoy.com/noticias/life/han-conseguido-recrear-famosa-escena-regreso-futuro-coche-lego-mucha-imaginacion-1155301' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/han-conseguido-recrear-famosa-escena-regreso-futuro-coche-lego-mucha-imaginacion-2870715.jpg' alt='Así han conseguido recrear esta famosa escena de Regreso al Futuro con un coche de LEGO y mucha imaginación' />
     </a>
 </div>
 
