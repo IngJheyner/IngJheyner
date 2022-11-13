@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/gaming/tarjeta-grafica-china-moore-treads-mtt-s80-pcie-50-rtx-3060-ti-1155381'>Cuidado NVIDIA, la tarjeta gráfica china MTT S80 con PCIe 5.0 sale al mercado y es tan potente como una RTX 3060 Ti </a></h4>
+    <a href='https://computerhoy.com/noticias/gaming/tarjeta-grafica-china-moore-treads-mtt-s80-pcie-50-rtx-3060-ti-1155381' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/cuidado-nvidia-tarjeta-grafica-china-mtt-s80-pcie-50-sale-mercado-tan-potente-como-rtx-3060-ti-2870991.jpg' alt='Cuidado NVIDIA, la tarjeta gráfica china MTT S80 con PCIe 5.0 sale al mercado y es tan potente como una RTX 3060 Ti ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/despidos-meta-abandona-dispositivos-portal-reloj-inteligente-1155375'>Primeras consecuencias de los despidos de Meta: abandona sus dispositivos Portal y su reloj inteligente</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/despidos-meta-abandona-dispositivos-portal-reloj-inteligente-1155375' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/galeria-review-facebook-portal-2569847.jpg' alt='Primeras consecuencias de los despidos de Meta: abandona sus dispositivos Portal y su reloj inteligente' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/mirrosky-telescopio-automatico-inteligente-5g-video-1155357'>Mirrosky, el telescopio doméstico inteligente con 5G que encuentra las estrellas y planetas por su cuenta (vídeo)</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/mirrosky-telescopio-automatico-inteligente-5g-video-1155357' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/verticalimage1668351207003-2870953.jpg' alt='Mirrosky, el telescopio doméstico inteligente con 5G que encuentra las estrellas y planetas por su cuenta (vídeo)' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/apple-demandada-supuestamente-enganar-usuarios-configuracion-privacidad-aplicaciones-1155325'>Apple es demandada por supuestamente engañar a los usuarios con la configuración de privacidad en sus aplicaciones</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/apple-demandada-supuestamente-enganar-usuarios-configuracion-privacidad-aplicaciones-1155325' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/demandan-apple-supuestamente-rastrear-usuarios-no-tener-cuenta-configuraciones-privacidad-2870853.jpg' alt='Apple es demandada por supuestamente engañar a los usuarios con la configuración de privacidad en sus aplicaciones' />
     </a>
 </div>
 
