@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/guia-compra/gafas-vr-1151751'>Todo lo que debes saber antes de comprar unas gafas VR</a></h4>
+    <a href='https://computerhoy.com/guia-compra/gafas-vr-1151751' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/chica-unas-gafas-vr-2741919.jpg' alt='Todo lo que debes saber antes de comprar unas gafas VR' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/policia-nacional-avisa-bulo-difundiendo-whatsapp-debes-reaccionar-1155291'>La Policía Nacional avisa de un bulo que se está difundiendo en WhatsApp y así debes reaccionar</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/policia-nacional-avisa-bulo-difundiendo-whatsapp-debes-reaccionar-1155291' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/whatsapp-2870685.jpg' alt='La Policía Nacional avisa de un bulo que se está difundiendo en WhatsApp y así debes reaccionar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-instalar-kodi-smarttv-1153815'>Cómo instalar Kodi en una SmartTV</a></h4>
+    <a href='https://computerhoy.com/tutoriales/tecnologia/como-instalar-kodi-smarttv-1153815' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/kodi-2869529.jpg' alt='Cómo instalar Kodi en una SmartTV' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/life/analisis-dyson-v15-detect-absolute-aspiradora-cables-laser-ver-polvo-1150897'>Análisis Dyson V15 Detect Absolute: la aspiradora sin cables con láser para ver el polvo </a></h4>
     <a href='https://computerhoy.com/reportajes/life/analisis-dyson-v15-detect-absolute-aspiradora-cables-laser-ver-polvo-1150897' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/analisis-aspiradora-mano-cables-dyson-v15-detect-absolute-2865307.jpg' alt='Análisis Dyson V15 Detect Absolute: la aspiradora sin cables con láser para ver el polvo ' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/cuando-empieza-black-friday-el-corte-ingles-1154933'>Cuando es el Black Friday en El Corte Inglés</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/cuando-empieza-black-friday-el-corte-ingles-1154933' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/corte-ingles-2870269.jpg' alt='Cuando es el Black Friday en El Corte Inglés' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-copiar-pegar-elementos-fotografia-ios-16-iphone-1151761'>Cómo copiar y pegar elementos de una fotografía en iOS 16 con tu iPhone</a></h4>
-    <a href='https://computerhoy.com/tutoriales/tecnologia/como-copiar-pegar-elementos-fotografia-ios-16-iphone-1151761' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/objetos-fotografias-ios-16-2864599.jpg' alt='Cómo copiar y pegar elementos de una fotografía en iOS 16 con tu iPhone' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/inventan-robot-fabricado-globos-helio-capaz-caminar-agua-1155131'>Inventan un robot fabricado con globos de helio y capaz de caminar sobre el agua</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/inventan-robot-fabricado-globos-helio-capaz-caminar-agua-1155131' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/ballu-2870467.jpg' alt='Inventan un robot fabricado con globos de helio y capaz de caminar sobre el agua' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/oficial-dinero-da-felicidad-estudio-1155153'>Es oficial: el dinero sí da la felicidad, según este estudio</a></h4>
-    <a href='https://computerhoy.com/noticias/life/oficial-dinero-da-felicidad-estudio-1155153' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/hombre-rico-2870479.jpg' alt='Es oficial: el dinero sí da la felicidad, según este estudio' />
     </a>
 </div>
 
