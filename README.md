@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/nueva-lavadora-xiaomi-pesa-inteligentemente-prendas-ajusta-cantidad-agua-1155311'>Esta nueva lavadora de Xiaomi pesa inteligentemente las prendas y ajusta la cantidad de agua</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/nueva-lavadora-xiaomi-pesa-inteligentemente-prendas-ajusta-cantidad-agua-1155311' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/mijia-pulsator-2870799.jpg' alt='Esta nueva lavadora de Xiaomi pesa inteligentemente las prendas y ajusta la cantidad de agua' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/entretenimiento/peliculas-exorcistas-posesiones-te-haran-taparte-ojos-1152979'>7 películas con exorcistas y posesiones que te harán taparte los ojos</a></h4>
+    <a href='https://computerhoy.com/reportajes/entretenimiento/peliculas-exorcistas-posesiones-te-haran-taparte-ojos-1152979' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/expediente-warren-2866623.jpg' alt='7 películas con exorcistas y posesiones que te harán taparte los ojos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/curioso-molesto-fallo-android-auto-llama-error-jardineros-medicos-esteticistas-1155307'>El curioso y molesto fallo de Android Auto que llama por error a jardineros, médicos y esteticistas</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/curioso-molesto-fallo-android-auto-llama-error-jardineros-medicos-esteticistas-1155307' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/android-auto-2700725.jpg' alt='El curioso y molesto fallo de Android Auto que llama por error a jardineros, médicos y esteticistas' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/han-conseguido-recrear-famosa-escena-regreso-futuro-coche-lego-mucha-imaginacion-1155301'>Así han conseguido recrear esta famosa escena de Regreso al Futuro con un coche de LEGO y mucha imaginación</a></h4>
     <a href='https://computerhoy.com/noticias/life/han-conseguido-recrear-famosa-escena-regreso-futuro-coche-lego-mucha-imaginacion-1155301' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/han-conseguido-recrear-famosa-escena-regreso-futuro-coche-lego-mucha-imaginacion-2870715.jpg' alt='Así han conseguido recrear esta famosa escena de Regreso al Futuro con un coche de LEGO y mucha imaginación' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/guia-compra/gafas-vr-1151751'>Todo lo que debes saber antes de comprar unas gafas VR</a></h4>
-    <a href='https://computerhoy.com/guia-compra/gafas-vr-1151751' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/chica-unas-gafas-vr-2741919.jpg' alt='Todo lo que debes saber antes de comprar unas gafas VR' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/policia-nacional-avisa-bulo-difundiendo-whatsapp-debes-reaccionar-1155291'>La Policía Nacional avisa de un bulo que se está difundiendo en WhatsApp y así debes reaccionar</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/policia-nacional-avisa-bulo-difundiendo-whatsapp-debes-reaccionar-1155291' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/whatsapp-2870685.jpg' alt='La Policía Nacional avisa de un bulo que se está difundiendo en WhatsApp y así debes reaccionar' />
     </a>
 </div>
 
