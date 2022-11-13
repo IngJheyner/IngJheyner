@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/como-usar-twitter-sin-iniciar-sesion-1155359'>¿Cansado de los sinsentidos de Elon Musk? Así puedes usar Twitter sin iniciar sesión</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/como-usar-twitter-sin-iniciar-sesion-1155359' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/twitter-rinde-elon-musk-acepta-revelarle-mayor-secreto-2725807.jpg' alt='¿Cansado de los sinsentidos de Elon Musk? Así puedes usar Twitter sin iniciar sesión' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/videojuegos-perros-nueva-forma-entretenimiento-peludos-1151139'>Videojuegos para perros: así es la nueva forma de entretenimiento para los más peludos</a></h4>
     <a href='https://computerhoy.com/noticias/life/videojuegos-perros-nueva-forma-entretenimiento-peludos-1151139' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/videojuegos-perros-nueva-forma-entretenimiento-peludos-2863709.jpg' alt='Videojuegos para perros: así es la nueva forma de entretenimiento para los más peludos' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/nueva-lavadora-xiaomi-pesa-inteligentemente-prendas-ajusta-cantidad-agua-1155311'>Esta nueva lavadora de Xiaomi pesa inteligentemente las prendas y ajusta la cantidad de agua</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/nueva-lavadora-xiaomi-pesa-inteligentemente-prendas-ajusta-cantidad-agua-1155311' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/mijia-pulsator-2870799.jpg' alt='Esta nueva lavadora de Xiaomi pesa inteligentemente las prendas y ajusta la cantidad de agua' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/entretenimiento/peliculas-exorcistas-posesiones-te-haran-taparte-ojos-1152979'>7 películas con exorcistas y posesiones que te harán taparte los ojos</a></h4>
-    <a href='https://computerhoy.com/reportajes/entretenimiento/peliculas-exorcistas-posesiones-te-haran-taparte-ojos-1152979' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/expediente-warren-2866623.jpg' alt='7 películas con exorcistas y posesiones que te harán taparte los ojos' />
     </a>
 </div>
 
