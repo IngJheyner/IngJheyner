@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/cuando-empieza-black-friday-el-corte-ingles-1154933'>Cuando es el Black Friday en El Corte Inglés</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/cuando-empieza-black-friday-el-corte-ingles-1154933' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/corte-ingles-2870269.jpg' alt='Cuando es el Black Friday en El Corte Inglés' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-copiar-pegar-elementos-fotografia-ios-16-iphone-1151761'>Cómo copiar y pegar elementos de una fotografía en iOS 16 con tu iPhone</a></h4>
+    <a href='https://computerhoy.com/tutoriales/tecnologia/como-copiar-pegar-elementos-fotografia-ios-16-iphone-1151761' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/objetos-fotografias-ios-16-2864599.jpg' alt='Cómo copiar y pegar elementos de una fotografía en iOS 16 con tu iPhone' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/inventan-robot-fabricado-globos-helio-capaz-caminar-agua-1155131'>Inventan un robot fabricado con globos de helio y capaz de caminar sobre el agua</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/inventan-robot-fabricado-globos-helio-capaz-caminar-agua-1155131' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/ballu-2870467.jpg' alt='Inventan un robot fabricado con globos de helio y capaz de caminar sobre el agua' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/oficial-dinero-da-felicidad-estudio-1155153'>Es oficial: el dinero sí da la felicidad, según este estudio</a></h4>
     <a href='https://computerhoy.com/noticias/life/oficial-dinero-da-felicidad-estudio-1155153' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/hombre-rico-2870479.jpg' alt='Es oficial: el dinero sí da la felicidad, según este estudio' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/listas/tecnologia/mejores-televisores-oled-ver-mundial-2022-1154907'>Mejores televisores OLED para ver el Mundial 2022: LG y más marcas</a></h4>
     <a href='https://computerhoy.com/listas/tecnologia/mejores-televisores-oled-ver-mundial-2022-1154907' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/sony-bravia-xr-a90j-2288627.jpg' alt='Mejores televisores OLED para ver el Mundial 2022: LG y más marcas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/tres-nortes-cardinales-convergen-mismo-punto-reino-unido-1154637'>Por primera vez en siglos, los tres Nortes que existen convergen en un mismo punto en el Reino Unido</a></h4>
-    <a href='https://computerhoy.com/noticias/life/tres-nortes-cardinales-convergen-mismo-punto-reino-unido-1154637' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/durante-pocos-anos-tres-nortes-existen-ya-convergen-mismo-punto-2869863.jpg' alt='Por primera vez en siglos, los tres Nortes que existen convergen en un mismo punto en el Reino Unido' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/crean-pulsera-capaz-rastrear-postura-todo-cuerpo-3d-usando-solo-camara-1155143'>Crean una pulsera capaz de rastrear la postura de todo el cuerpo en 3D, y usando solo una cámara</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/crean-pulsera-capaz-rastrear-postura-todo-cuerpo-3d-usando-solo-camara-1155143' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/bodytrak-2870469.jpg' alt='Crean una pulsera capaz de rastrear la postura de todo el cuerpo en 3D, y usando solo una cámara' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-trucos-consejos-ahorrar-black-friday-970097'>Mejores trucos y consejos para ahorrar en el Black Friday</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-trucos-consejos-ahorrar-black-friday-970097' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/black-friday-2870195.jpg' alt='Mejores trucos y consejos para ahorrar en el Black Friday' />
     </a>
 </div>
 
