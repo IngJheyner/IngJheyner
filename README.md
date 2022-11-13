@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/oficial-dinero-da-felicidad-estudio-1155153'>Es oficial: el dinero sí da la felicidad, según este estudio</a></h4>
+    <a href='https://computerhoy.com/noticias/life/oficial-dinero-da-felicidad-estudio-1155153' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/hombre-rico-2870479.jpg' alt='Es oficial: el dinero sí da la felicidad, según este estudio' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/listas/tecnologia/mejores-televisores-oled-ver-mundial-2022-1154907'>Mejores televisores OLED para ver el Mundial 2022: LG y más marcas</a></h4>
+    <a href='https://computerhoy.com/listas/tecnologia/mejores-televisores-oled-ver-mundial-2022-1154907' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/sony-bravia-xr-a90j-2288627.jpg' alt='Mejores televisores OLED para ver el Mundial 2022: LG y más marcas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/tres-nortes-cardinales-convergen-mismo-punto-reino-unido-1154637'>Por primera vez en siglos, los tres Nortes que existen convergen en un mismo punto en el Reino Unido</a></h4>
     <a href='https://computerhoy.com/noticias/life/tres-nortes-cardinales-convergen-mismo-punto-reino-unido-1154637' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/durante-pocos-anos-tres-nortes-existen-ya-convergen-mismo-punto-2869863.jpg' alt='Por primera vez en siglos, los tres Nortes que existen convergen en un mismo punto en el Reino Unido' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-trucos-consejos-ahorrar-black-friday-970097'>Mejores trucos y consejos para ahorrar en el Black Friday</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/mejores-trucos-consejos-ahorrar-black-friday-970097' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/black-friday-2870195.jpg' alt='Mejores trucos y consejos para ahorrar en el Black Friday' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/sandalias-cuero-steve-jobs-tiro-basura-subastan-miles-dolares-1154963'>La sandalias de cuero que Steve Jobs tiró a la basura se subastan por miles de dólares</a></h4>
-    <a href='https://computerhoy.com/noticias/life/sandalias-cuero-steve-jobs-tiro-basura-subastan-miles-dolares-1154963' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/03/steve-jobs-2280383.jpg' alt='La sandalias de cuero que Steve Jobs tiró a la basura se subastan por miles de dólares' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/guia-compra/teclado-tablet-1148385'>Todo lo que tienes que saber para comprar el mejor teclado para tu tablet</a></h4>
-    <a href='https://computerhoy.com/guia-compra/teclado-tablet-1148385' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/teclado-tablet-2857907.jpg' alt='Todo lo que tienes que saber para comprar el mejor teclado para tu tablet' />
     </a>
 </div>
 
