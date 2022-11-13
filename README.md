@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/life/analisis-dyson-v15-detect-absolute-aspiradora-cables-laser-ver-polvo-1150897'>Análisis Dyson V15 Detect Absolute: la aspiradora sin cables con láser para ver el polvo </a></h4>
+    <a href='https://computerhoy.com/reportajes/life/analisis-dyson-v15-detect-absolute-aspiradora-cables-laser-ver-polvo-1150897' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/analisis-aspiradora-mano-cables-dyson-v15-detect-absolute-2865307.jpg' alt='Análisis Dyson V15 Detect Absolute: la aspiradora sin cables con láser para ver el polvo ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/cuando-empieza-black-friday-el-corte-ingles-1154933'>Cuando es el Black Friday en El Corte Inglés</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/cuando-empieza-black-friday-el-corte-ingles-1154933' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/corte-ingles-2870269.jpg' alt='Cuando es el Black Friday en El Corte Inglés' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/oficial-dinero-da-felicidad-estudio-1155153'>Es oficial: el dinero sí da la felicidad, según este estudio</a></h4>
     <a href='https://computerhoy.com/noticias/life/oficial-dinero-da-felicidad-estudio-1155153' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/hombre-rico-2870479.jpg' alt='Es oficial: el dinero sí da la felicidad, según este estudio' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/listas/tecnologia/mejores-televisores-oled-ver-mundial-2022-1154907'>Mejores televisores OLED para ver el Mundial 2022: LG y más marcas</a></h4>
-    <a href='https://computerhoy.com/listas/tecnologia/mejores-televisores-oled-ver-mundial-2022-1154907' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/sony-bravia-xr-a90j-2288627.jpg' alt='Mejores televisores OLED para ver el Mundial 2022: LG y más marcas' />
     </a>
 </div>
 
