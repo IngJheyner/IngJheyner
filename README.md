@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/tres-nortes-cardinales-convergen-mismo-punto-reino-unido-1154637'>Por primera vez en siglos, los tres Nortes que existen convergen en un mismo punto en el Reino Unido</a></h4>
+    <a href='https://computerhoy.com/noticias/life/tres-nortes-cardinales-convergen-mismo-punto-reino-unido-1154637' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/durante-pocos-anos-tres-nortes-existen-ya-convergen-mismo-punto-2869863.jpg' alt='Por primera vez en siglos, los tres Nortes que existen convergen en un mismo punto en el Reino Unido' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/crean-pulsera-capaz-rastrear-postura-todo-cuerpo-3d-usando-solo-camara-1155143'>Crean una pulsera capaz de rastrear la postura de todo el cuerpo en 3D, y usando solo una cámara</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/crean-pulsera-capaz-rastrear-postura-todo-cuerpo-3d-usando-solo-camara-1155143' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/bodytrak-2870469.jpg' alt='Crean una pulsera capaz de rastrear la postura de todo el cuerpo en 3D, y usando solo una cámara' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/guia-compra/teclado-tablet-1148385'>Todo lo que tienes que saber para comprar el mejor teclado para tu tablet</a></h4>
     <a href='https://computerhoy.com/guia-compra/teclado-tablet-1148385' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/teclado-tablet-2857907.jpg' alt='Todo lo que tienes que saber para comprar el mejor teclado para tu tablet' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/mediatek-gana-carrera-realidad-virtual-nuevo-procesador-impulsara-playstation-vr2-1154961'>MediaTek gana la carrera en la realidad virtual: su nuevo procesador impulsará a PlayStation VR2</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/mediatek-gana-carrera-realidad-virtual-nuevo-procesador-impulsara-playstation-vr2-1154961' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/playstation-vr2-2870301.jpg' alt='MediaTek gana la carrera en la realidad virtual: su nuevo procesador impulsará a PlayStation VR2' />
     </a>
 </div>
 
