@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/despidos-meta-abandona-dispositivos-portal-reloj-inteligente-1155375'>Primeras consecuencias de los despidos de Meta: abandona sus dispositivos Portal y su reloj inteligente</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/despidos-meta-abandona-dispositivos-portal-reloj-inteligente-1155375' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/galeria-review-facebook-portal-2569847.jpg' alt='Primeras consecuencias de los despidos de Meta: abandona sus dispositivos Portal y su reloj inteligente' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/como-usar-twitter-sin-iniciar-sesion-1155359'>¿Cansado de los sinsentidos de Elon Musk? Así puedes usar Twitter sin iniciar sesión</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/como-usar-twitter-sin-iniciar-sesion-1155359' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/twitter-rinde-elon-musk-acepta-revelarle-mayor-secreto-2725807.jpg' alt='¿Cansado de los sinsentidos de Elon Musk? Así puedes usar Twitter sin iniciar sesión' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/apple-demandada-supuestamente-enganar-usuarios-configuracion-privacidad-aplicaciones-1155325'>Apple es demandada por supuestamente engañar a los usuarios con la configuración de privacidad en sus aplicaciones</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/apple-demandada-supuestamente-enganar-usuarios-configuracion-privacidad-aplicaciones-1155325' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/demandan-apple-supuestamente-rastrear-usuarios-no-tener-cuenta-configuraciones-privacidad-2870853.jpg' alt='Apple es demandada por supuestamente engañar a los usuarios con la configuración de privacidad en sus aplicaciones' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/nueva-lavadora-xiaomi-pesa-inteligentemente-prendas-ajusta-cantidad-agua-1155311'>Esta nueva lavadora de Xiaomi pesa inteligentemente las prendas y ajusta la cantidad de agua</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/nueva-lavadora-xiaomi-pesa-inteligentemente-prendas-ajusta-cantidad-agua-1155311' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/mijia-pulsator-2870799.jpg' alt='Esta nueva lavadora de Xiaomi pesa inteligentemente las prendas y ajusta la cantidad de agua' />
     </a>
 </div>
 
