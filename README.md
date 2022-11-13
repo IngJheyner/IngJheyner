@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/videojuegos-perros-nueva-forma-entretenimiento-peludos-1151139'>Videojuegos para perros: así es la nueva forma de entretenimiento para los más peludos</a></h4>
+    <a href='https://computerhoy.com/noticias/life/videojuegos-perros-nueva-forma-entretenimiento-peludos-1151139' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/videojuegos-perros-nueva-forma-entretenimiento-peludos-2863709.jpg' alt='Videojuegos para perros: así es la nueva forma de entretenimiento para los más peludos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/mirrosky-telescopio-automatico-inteligente-5g-video-1155357'>Mirrosky, el telescopio doméstico inteligente con 5G que encuentra las estrellas y planetas por su cuenta (vídeo)</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/mirrosky-telescopio-automatico-inteligente-5g-video-1155357' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/verticalimage1668351207003-2870953.jpg' alt='Mirrosky, el telescopio doméstico inteligente con 5G que encuentra las estrellas y planetas por su cuenta (vídeo)' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/apple-demandada-supuestamente-enganar-usuarios-configuracion-privacidad-aplicaciones-1155325'>Apple es demandada por supuestamente engañar a los usuarios con la configuración de privacidad en sus aplicaciones</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/apple-demandada-supuestamente-enganar-usuarios-configuracion-privacidad-aplicaciones-1155325' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/demandan-apple-supuestamente-rastrear-usuarios-no-tener-cuenta-configuraciones-privacidad-2870853.jpg' alt='Apple es demandada por supuestamente engañar a los usuarios con la configuración de privacidad en sus aplicaciones' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/entretenimiento/peliculas-exorcistas-posesiones-te-haran-taparte-ojos-1152979'>7 películas con exorcistas y posesiones que te harán taparte los ojos</a></h4>
     <a href='https://computerhoy.com/reportajes/entretenimiento/peliculas-exorcistas-posesiones-te-haran-taparte-ojos-1152979' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/expediente-warren-2866623.jpg' alt='7 películas con exorcistas y posesiones que te harán taparte los ojos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/curioso-molesto-fallo-android-auto-llama-error-jardineros-medicos-esteticistas-1155307'>El curioso y molesto fallo de Android Auto que llama por error a jardineros, médicos y esteticistas</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/curioso-molesto-fallo-android-auto-llama-error-jardineros-medicos-esteticistas-1155307' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/android-auto-2700725.jpg' alt='El curioso y molesto fallo de Android Auto que llama por error a jardineros, médicos y esteticistas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/gcam-ventajas-presenta-camara-google-pixel-1144409'>¿Qué es GCam y qué ventajas presenta esta cámara para los Google Pixel?</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/gcam-ventajas-presenta-camara-google-pixel-1144409' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/gcam-ventajas-presenta-camara-google-2850751.jpg' alt='¿Qué es GCam y qué ventajas presenta esta cámara para los Google Pixel?' />
     </a>
 </div>
 
