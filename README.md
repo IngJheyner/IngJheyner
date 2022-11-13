@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/curioso-molesto-fallo-android-auto-llama-error-jardineros-medicos-esteticistas-1155307'>El curioso y molesto fallo de Android Auto que llama por error a jardineros, médicos y esteticistas</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/curioso-molesto-fallo-android-auto-llama-error-jardineros-medicos-esteticistas-1155307' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/android-auto-2700725.jpg' alt='El curioso y molesto fallo de Android Auto que llama por error a jardineros, médicos y esteticistas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/gcam-ventajas-presenta-camara-google-pixel-1144409'>¿Qué es GCam y qué ventajas presenta esta cámara para los Google Pixel?</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/gcam-ventajas-presenta-camara-google-pixel-1144409' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/gcam-ventajas-presenta-camara-google-2850751.jpg' alt='¿Qué es GCam y qué ventajas presenta esta cámara para los Google Pixel?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/han-conseguido-recrear-famosa-escena-regreso-futuro-coche-lego-mucha-imaginacion-1155301'>Así han conseguido recrear esta famosa escena de Regreso al Futuro con un coche de LEGO y mucha imaginación</a></h4>
+    <a href='https://computerhoy.com/noticias/life/han-conseguido-recrear-famosa-escena-regreso-futuro-coche-lego-mucha-imaginacion-1155301' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/han-conseguido-recrear-famosa-escena-regreso-futuro-coche-lego-mucha-imaginacion-2870715.jpg' alt='Así han conseguido recrear esta famosa escena de Regreso al Futuro con un coche de LEGO y mucha imaginación' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/guia-compra/gafas-vr-1151751'>Todo lo que debes saber antes de comprar unas gafas VR</a></h4>
     <a href='https://computerhoy.com/guia-compra/gafas-vr-1151751' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/chica-unas-gafas-vr-2741919.jpg' alt='Todo lo que debes saber antes de comprar unas gafas VR' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/policia-nacional-avisa-bulo-difundiendo-whatsapp-debes-reaccionar-1155291'>La Policía Nacional avisa de un bulo que se está difundiendo en WhatsApp y así debes reaccionar</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/policia-nacional-avisa-bulo-difundiendo-whatsapp-debes-reaccionar-1155291' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/whatsapp-2870685.jpg' alt='La Policía Nacional avisa de un bulo que se está difundiendo en WhatsApp y así debes reaccionar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-instalar-kodi-smarttv-1153815'>Cómo instalar Kodi en una SmartTV</a></h4>
-    <a href='https://computerhoy.com/tutoriales/tecnologia/como-instalar-kodi-smarttv-1153815' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/kodi-2869529.jpg' alt='Cómo instalar Kodi en una SmartTV' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/life/analisis-dyson-v15-detect-absolute-aspiradora-cables-laser-ver-polvo-1150897'>Análisis Dyson V15 Detect Absolute: la aspiradora sin cables con láser para ver el polvo </a></h4>
-    <a href='https://computerhoy.com/reportajes/life/analisis-dyson-v15-detect-absolute-aspiradora-cables-laser-ver-polvo-1150897' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/analisis-aspiradora-mano-cables-dyson-v15-detect-absolute-2865307.jpg' alt='Análisis Dyson V15 Detect Absolute: la aspiradora sin cables con láser para ver el polvo ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/cuando-empieza-black-friday-el-corte-ingles-1154933'>Cuando es el Black Friday en El Corte Inglés</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/cuando-empieza-black-friday-el-corte-ingles-1154933' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/corte-ingles-2870269.jpg' alt='Cuando es el Black Friday en El Corte Inglés' />
     </a>
 </div>
 
