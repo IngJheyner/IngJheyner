@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/dedos-roboticos-interactuar-insectos-diminutos-1155393'>Estos dedos robóticos permiten interactuar con insectos diminutos sin dañarlos</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/dedos-roboticos-interactuar-insectos-diminutos-1155393' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/estos-dedos-roboticos-permiten-interactuar-insectos-diminutos-danarlos-2871023.jpg' alt='Estos dedos robóticos permiten interactuar con insectos diminutos sin dañarlos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/microsoft-detiene-distribucion-windows-11-22h2-problemas-rendimiento-1155391'>Microsoft detiene por completo la distribución de Windows 11 22H2 en los PC gaming, por los problemas de rendimiento</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/microsoft-detiene-distribucion-windows-11-22h2-problemas-rendimiento-1155391' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/microsoft-detiene-completo-distribucion-windows-11-22h2-problemas-rendimiento-2871017.jpg' alt='Microsoft detiene por completo la distribución de Windows 11 22H2 en los PC gaming, por los problemas de rendimiento' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/como-usar-twitter-sin-iniciar-sesion-1155359'>¿Cansado de los sinsentidos de Elon Musk? Así puedes usar Twitter sin iniciar sesión</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/como-usar-twitter-sin-iniciar-sesion-1155359' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/twitter-rinde-elon-musk-acepta-revelarle-mayor-secreto-2725807.jpg' alt='¿Cansado de los sinsentidos de Elon Musk? Así puedes usar Twitter sin iniciar sesión' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/videojuegos-perros-nueva-forma-entretenimiento-peludos-1151139'>Videojuegos para perros: así es la nueva forma de entretenimiento para los más peludos</a></h4>
-    <a href='https://computerhoy.com/noticias/life/videojuegos-perros-nueva-forma-entretenimiento-peludos-1151139' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/videojuegos-perros-nueva-forma-entretenimiento-peludos-2863709.jpg' alt='Videojuegos para perros: así es la nueva forma de entretenimiento para los más peludos' />
     </a>
 </div>
 
