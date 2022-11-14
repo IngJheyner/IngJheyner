@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/mapa-50-pueblos-bonitos-espana-cada-provincia-1155725'>El mapa de los 50 pueblos más bonitos de España, uno por cada provincia</a></h4>
+    <a href='https://computerhoy.com/noticias/life/mapa-50-pueblos-bonitos-espana-cada-provincia-1155725' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/11/pueblo.jpg' alt='El mapa de los 50 pueblos más bonitos de España, uno por cada provincia' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/inscripcion-modo-conjuro-hace-3700-anos-ya-hablaba-molesto-bicho-muy-actual-1155735'>Una inscripción a modo de conjuro de hace 3.700 años ya hablaba sobre un molesto bicho muy actual</a></h4>
     <a href='https://computerhoy.com/noticias/life/inscripcion-modo-conjuro-hace-3700-anos-ya-hablaba-molesto-bicho-muy-actual-1155735' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/primera-prueba-escrita-ser-humano-habla-bicho-nos-atormentaba-2871669.jpg' alt='Una inscripción a modo de conjuro de hace 3.700 años ya hablaba sobre un molesto bicho muy actual' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/listas/tecnologia/mejores-televisores-4k-samsung-1155373'>Mejores televisores 4K Samsung que puedes comprar ahora mismo</a></h4>
     <a href='https://computerhoy.com/listas/tecnologia/mejores-televisores-4k-samsung-1155373' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/smart-tv-samsung-salon-2871481.jpg' alt='Mejores televisores 4K Samsung que puedes comprar ahora mismo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/fin-podras-usar-whatsapp-varios-dispositivos-vez-modo-companion-1155657'>Por fin podrás usar WhatsApp en varios dispositivos a la vez con el modo Companion</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/fin-podras-usar-whatsapp-varios-dispositivos-vez-modo-companion-1155657' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/modo-companion-whatsapp-2871449.jpg' alt='Por fin podrás usar WhatsApp en varios dispositivos a la vez con el modo Companion' />
     </a>
 </div>
 
