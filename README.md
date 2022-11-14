@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/listas/tecnologia/amazon-adelanta-black-friday-packs-alexa-domotica-1155743'>Amazon se adelanta al Black Friday: controla el consumo eléctrico con estos packs de altavoces Echo y accesorios de domótica</a></h4>
+    <a href='https://computerhoy.com/listas/tecnologia/amazon-adelanta-black-friday-packs-alexa-domotica-1155743' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/altavoz-alexa-salon-2871723.jpg' alt='Amazon se adelanta al Black Friday: controla el consumo eléctrico con estos packs de altavoces Echo y accesorios de domótica' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/elimina-estas-aplicaciones-movil-android-interior-esconde-spyware-badbazaar-1155853'>Elimina estas aplicaciones de tu móvil Android: en su interior se esconde el spyware BadBazaar</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/elimina-estas-aplicaciones-movil-android-interior-esconde-spyware-badbazaar-1155853' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/malware-android-2635219.jpg' alt='Elimina estas aplicaciones de tu móvil Android: en su interior se esconde el spyware BadBazaar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/listas/tecnologia/formas-enviar-archivos-grandes-correo-electronico-2021-892443'>Cómo enviar archivos grandes por correo electrónico y no morir en el intento</a></h4>
+    <a href='https://computerhoy.com/listas/tecnologia/formas-enviar-archivos-grandes-correo-electronico-2021-892443' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/03/correo-electronico.jpg' alt='Cómo enviar archivos grandes por correo electrónico y no morir en el intento' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/compania-realme-anuncia-lanzamiento-espana-programa-care-smartphones-ofrece-1155861'>La compañía realme anuncia el lanzamiento en España de su programa Care+ para smartphones: esto es lo que ofrece</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/compania-realme-anuncia-lanzamiento-espana-programa-care-smartphones-ofrece-1155861' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/realme-care-2872007.jpg' alt='La compañía realme anuncia el lanzamiento en España de su programa Care+ para smartphones: esto es lo que ofrece' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/jeff-bezos-decide-donar-fortuna-otro-une-club-millonarios-lidera-bill-gates-1155825'>Jeff Bezos decide donar su fortuna: otro que se une al club de millonarios que lidera Bill Gates</a></h4>
     <a href='https://computerhoy.com/noticias/life/jeff-bezos-decide-donar-fortuna-otro-une-club-millonarios-lidera-bill-gates-1155825' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/bill-gates-jeff-bezos-2871967.jpg' alt='Jeff Bezos decide donar su fortuna: otro que se une al club de millonarios que lidera Bill Gates' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/elon-musk-intenta-ocultar-huida-anunciantes-twitter-pagandose-mismo-1155765'>Elon Musk intenta ocultar la huida de anunciantes de Twitter... pagándose a sí mismo</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/elon-musk-intenta-ocultar-huida-anunciantes-twitter-pagandose-mismo-1155765' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/elon-musk-2868027.jpg' alt='Elon Musk intenta ocultar la huida de anunciantes de Twitter... pagándose a sí mismo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/binance-no-dejara-caer-sector-criptomonedas-bancarrota-ftx-fondo-recuperacion-1155753'>Binance no dejará caer el sector de las criptomonedas tras la bancarrota de FTX con este fondo de recuperación</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/binance-no-dejara-caer-sector-criptomonedas-bancarrota-ftx-fondo-recuperacion-1155753' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/binance-quiere-salvar-sector-criptomonedas-bancarrota-ftx-proyecto-2871683.jpg' alt='Binance no dejará caer el sector de las criptomonedas tras la bancarrota de FTX con este fondo de recuperación' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/mapa-50-pueblos-bonitos-espana-cada-provincia-1155725'>El mapa de los 50 pueblos más bonitos de España, uno por cada provincia</a></h4>
-    <a href='https://computerhoy.com/noticias/life/mapa-50-pueblos-bonitos-espana-cada-provincia-1155725' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/11/pueblo.jpg' alt='El mapa de los 50 pueblos más bonitos de España, uno por cada provincia' />
     </a>
 </div>
 
