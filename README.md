@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/elon-musk-intenta-ocultar-huida-anunciantes-twitter-pagandose-mismo-1155765'>Elon Musk intenta ocultar la huida de anunciantes de Twitter... pagándose a sí mismo</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/elon-musk-intenta-ocultar-huida-anunciantes-twitter-pagandose-mismo-1155765' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/elon-musk-2868027.jpg' alt='Elon Musk intenta ocultar la huida de anunciantes de Twitter... pagándose a sí mismo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/binance-no-dejara-caer-sector-criptomonedas-bancarrota-ftx-fondo-recuperacion-1155753'>Binance no dejará caer el sector de las criptomonedas tras la bancarrota de FTX con este fondo de recuperación</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/binance-no-dejara-caer-sector-criptomonedas-bancarrota-ftx-fondo-recuperacion-1155753' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/binance-quiere-salvar-sector-criptomonedas-bancarrota-ftx-proyecto-2871683.jpg' alt='Binance no dejará caer el sector de las criptomonedas tras la bancarrota de FTX con este fondo de recuperación' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/mapa-50-pueblos-bonitos-espana-cada-provincia-1155725'>El mapa de los 50 pueblos más bonitos de España, uno por cada provincia</a></h4>
     <a href='https://computerhoy.com/noticias/life/mapa-50-pueblos-bonitos-espana-cada-provincia-1155725' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/11/pueblo.jpg' alt='El mapa de los 50 pueblos más bonitos de España, uno por cada provincia' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/estas-son-algunas-alternativas-seguir-viendo-tdt-online-gratis-cierre-tdtchannels-1155697'>Estas son algunas alternativas para seguir viendo la TDT online gratis tras el cierre de TDTChannels</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/estas-son-algunas-alternativas-seguir-viendo-tdt-online-gratis-cierre-tdtchannels-1155697' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/tdtchannels-deja-funcionar-alternativas-poder-seguir-viendo-tdt-online-gratis-2871509.jpg' alt='Estas son algunas alternativas para seguir viendo la TDT online gratis tras el cierre de TDTChannels' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/ibai-pique-quieren-desbancar-futbol-tradicional-kings-league-1155607'>Ibai y Piqué quieren desbancar al fútbol tradicional con su Kings League</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/ibai-pique-quieren-desbancar-futbol-tradicional-kings-league-1155607' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/liga-reyes-2871599.jpg' alt='Ibai y Piqué quieren desbancar al fútbol tradicional con su Kings League' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/listas/tecnologia/mejores-televisores-4k-samsung-1155373'>Mejores televisores 4K Samsung que puedes comprar ahora mismo</a></h4>
-    <a href='https://computerhoy.com/listas/tecnologia/mejores-televisores-4k-samsung-1155373' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/smart-tv-samsung-salon-2871481.jpg' alt='Mejores televisores 4K Samsung que puedes comprar ahora mismo' />
     </a>
 </div>
 
