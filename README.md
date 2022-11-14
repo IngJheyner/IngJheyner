@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/muere-aura-lince-iberico-mas-longevo-1154471'>Muere Aura, la lince que ha salvado la especie: 917 de los 1.365 linces ibéricos que existen, llevan sus genes</a></h4>
+    <a href='https://computerhoy.com/noticias/life/muere-aura-lince-iberico-mas-longevo-1154471' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/muere-aura-lince-ha-salvado-especie-917-1365-linces-ibericos-existen-llevan-genes-2869513.jpg' alt='Muere Aura, la lince que ha salvado la especie: 917 de los 1.365 linces ibéricos que existen, llevan sus genes' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/36-noticias-tecnologia-comenzar-manana-informado-ultimo-1155577'>36 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/36-noticias-tecnologia-comenzar-manana-informado-ultimo-1155577' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/36-noticias-tecnologia-comenzar-manana-informado-ultimo-2871205.jpg' alt='36 noticias de tecnología para comenzar la mañana informado de lo último' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/listas/tecnologia/compras-imprescindibles-ver-mundial-2022-casa-1155363'>5 compras imprescindibles para ver el Mundial 2022 en casa</a></h4>
+    <a href='https://computerhoy.com/listas/tecnologia/compras-imprescindibles-ver-mundial-2022-casa-1155363' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/salon-sistema-sonido-envolvente-51-mientras-emite-partido-futbol-2870975.jpg' alt='5 compras imprescindibles para ver el Mundial 2022 en casa' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/dedos-roboticos-interactuar-insectos-diminutos-1155393'>Estos dedos robóticos permiten interactuar con insectos diminutos sin dañarlos</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/dedos-roboticos-interactuar-insectos-diminutos-1155393' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/estos-dedos-roboticos-permiten-interactuar-insectos-diminutos-danarlos-2871023.jpg' alt='Estos dedos robóticos permiten interactuar con insectos diminutos sin dañarlos' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/microsoft-detiene-distribucion-windows-11-22h2-problemas-rendimiento-1155391'>Microsoft detiene por completo la distribución de Windows 11 22H2 en los PC gaming, por los problemas de rendimiento</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/microsoft-detiene-distribucion-windows-11-22h2-problemas-rendimiento-1155391' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/microsoft-detiene-completo-distribucion-windows-11-22h2-problemas-rendimiento-2871017.jpg' alt='Microsoft detiene por completo la distribución de Windows 11 22H2 en los PC gaming, por los problemas de rendimiento' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/gaming/tarjeta-grafica-china-moore-treads-mtt-s80-pcie-50-rtx-3060-ti-1155381'>Cuidado NVIDIA, la tarjeta gráfica china MTT S80 con PCIe 5.0 sale al mercado y es tan potente como una RTX 3060 Ti </a></h4>
-    <a href='https://computerhoy.com/noticias/gaming/tarjeta-grafica-china-moore-treads-mtt-s80-pcie-50-rtx-3060-ti-1155381' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/cuidado-nvidia-tarjeta-grafica-china-mtt-s80-pcie-50-sale-mercado-tan-potente-como-rtx-3060-ti-2870991.jpg' alt='Cuidado NVIDIA, la tarjeta gráfica china MTT S80 con PCIe 5.0 sale al mercado y es tan potente como una RTX 3060 Ti ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/despidos-meta-abandona-dispositivos-portal-reloj-inteligente-1155375'>Primeras consecuencias de los despidos de Meta: abandona sus dispositivos Portal y su reloj inteligente</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/despidos-meta-abandona-dispositivos-portal-reloj-inteligente-1155375' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/galeria-review-facebook-portal-2569847.jpg' alt='Primeras consecuencias de los despidos de Meta: abandona sus dispositivos Portal y su reloj inteligente' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/como-usar-twitter-sin-iniciar-sesion-1155359'>¿Cansado de los sinsentidos de Elon Musk? Así puedes usar Twitter sin iniciar sesión</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/como-usar-twitter-sin-iniciar-sesion-1155359' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/twitter-rinde-elon-musk-acepta-revelarle-mayor-secreto-2725807.jpg' alt='¿Cansado de los sinsentidos de Elon Musk? Así puedes usar Twitter sin iniciar sesión' />
     </a>
 </div>
 
