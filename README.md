@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/fin-podras-usar-whatsapp-varios-dispositivos-vez-modo-companion-1155657'>Por fin podrás usar WhatsApp en varios dispositivos a la vez con el modo Companion</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/fin-podras-usar-whatsapp-varios-dispositivos-vez-modo-companion-1155657' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/modo-companion-whatsapp-2871449.jpg' alt='Por fin podrás usar WhatsApp en varios dispositivos a la vez con el modo Companion' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/estos-son-algunos-gastos-ocultos-coche-electrico-cuidado-porque-te-podria-salir-caro-1155631'>Estos son algunos gastos ocultos del coche eléctrico, cuidado porque te podría salir caro</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/estos-son-algunos-gastos-ocultos-coche-electrico-cuidado-porque-te-podria-salir-caro-1155631' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/estos-son-algunos-gastos-ocultos-coche-electrico-cuidado-porque-te-podria-salir-caro-2871439.jpg' alt='Estos son algunos gastos ocultos del coche eléctrico, cuidado porque te podría salir caro' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/tienes-hacer-antes-vender-movil-android-salvaguardar-privacidad-1155623'>Esto es lo que tienes que hacer antes de vender tu móvil Android para salvaguardar tu privacidad</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/tienes-hacer-antes-vender-movil-android-salvaguardar-privacidad-1155623' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/04/analisis-samsung-galaxy-s20-1931793.jpg' alt='Esto es lo que tienes que hacer antes de vender tu móvil Android para salvaguardar tu privacidad' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/5-mejores-trucos-tener-espacio-libre-cuenta-gmail-1152907'>Los 5 mejores trucos para tener más espacio libre en tu cuenta de Gmail</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/5-mejores-trucos-tener-espacio-libre-cuenta-gmail-1152907' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/gmail-2866501.jpg' alt='Los 5 mejores trucos para tener más espacio libre en tu cuenta de Gmail' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-televisores-qled-puedes-comprar-1021085'>Mejores televisores QLED que puedes comprar en 2022</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-televisores-qled-puedes-comprar-1021085' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/xiaomi-mi-tv-q1-75-2517459.jpg' alt='Mejores televisores QLED que puedes comprar en 2022' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/muere-aura-lince-iberico-mas-longevo-1154471'>Muere Aura, la lince que ha salvado la especie: 917 de los 1.365 linces ibéricos que existen, llevan sus genes</a></h4>
-    <a href='https://computerhoy.com/noticias/life/muere-aura-lince-iberico-mas-longevo-1154471' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/muere-aura-lince-ha-salvado-especie-917-1365-linces-ibericos-existen-llevan-genes-2869513.jpg' alt='Muere Aura, la lince que ha salvado la especie: 917 de los 1.365 linces ibéricos que existen, llevan sus genes' />
     </a>
 </div>
 
