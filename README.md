@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/blockbuster-serie-comedia-netflix-fracaso-audiencia-1155919'>Netflix pincha con una serie que tenía todo para convencer a los suscriptores: Blockbuster</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/blockbuster-serie-comedia-netflix-fracaso-audiencia-1155919' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/verticalimage1668456272628-2872111.jpg' alt='Netflix pincha con una serie que tenía todo para convencer a los suscriptores: Blockbuster' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/nave-secreta-fuerza-espacial-estados-unidos-regresa-estar-25-anos-orbita-misterio-mision-verdadera-1155915'>Esta nave secreta de la Fuerza Espacial de Estados Unidos regresa tras estar 2,5 años en órbita, y es un misterio su misión verdadera</a></h4>
     <a href='https://computerhoy.com/noticias/life/nave-secreta-fuerza-espacial-estados-unidos-regresa-estar-25-anos-orbita-misterio-mision-verdadera-1155915' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/x-37b-2872109.jpg' alt='Esta nave secreta de la Fuerza Espacial de Estados Unidos regresa tras estar 2,5 años en órbita, y es un misterio su misión verdadera' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/listas/tecnologia/amazon-adelanta-black-friday-packs-alexa-domotica-1155743'>Amazon se adelanta al Black Friday: controla el consumo eléctrico con estos packs de altavoces Echo y accesorios de domótica</a></h4>
     <a href='https://computerhoy.com/listas/tecnologia/amazon-adelanta-black-friday-packs-alexa-domotica-1155743' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/altavoz-alexa-salon-2871723.jpg' alt='Amazon se adelanta al Black Friday: controla el consumo eléctrico con estos packs de altavoces Echo y accesorios de domótica' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/elimina-estas-aplicaciones-movil-android-interior-esconde-spyware-badbazaar-1155853'>Elimina estas aplicaciones de tu móvil Android: en su interior se esconde el spyware BadBazaar</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/elimina-estas-aplicaciones-movil-android-interior-esconde-spyware-badbazaar-1155853' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/malware-android-2635219.jpg' alt='Elimina estas aplicaciones de tu móvil Android: en su interior se esconde el spyware BadBazaar' />
     </a>
 </div>
 
