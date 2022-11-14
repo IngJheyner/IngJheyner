@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/5-mejores-trucos-tener-espacio-libre-cuenta-gmail-1152907'>Los 5 mejores trucos para tener más espacio libre en tu cuenta de Gmail</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/5-mejores-trucos-tener-espacio-libre-cuenta-gmail-1152907' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/gmail-2866501.jpg' alt='Los 5 mejores trucos para tener más espacio libre en tu cuenta de Gmail' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-televisores-qled-puedes-comprar-1021085'>Mejores televisores QLED que puedes comprar en 2022</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-televisores-qled-puedes-comprar-1021085' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/xiaomi-mi-tv-q1-75-2517459.jpg' alt='Mejores televisores QLED que puedes comprar en 2022' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/muere-aura-lince-iberico-mas-longevo-1154471'>Muere Aura, la lince que ha salvado la especie: 917 de los 1.365 linces ibéricos que existen, llevan sus genes</a></h4>
     <a href='https://computerhoy.com/noticias/life/muere-aura-lince-iberico-mas-longevo-1154471' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/muere-aura-lince-ha-salvado-especie-917-1365-linces-ibericos-existen-llevan-genes-2869513.jpg' alt='Muere Aura, la lince que ha salvado la especie: 917 de los 1.365 linces ibéricos que existen, llevan sus genes' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/listas/tecnologia/compras-imprescindibles-ver-mundial-2022-casa-1155363'>5 compras imprescindibles para ver el Mundial 2022 en casa</a></h4>
     <a href='https://computerhoy.com/listas/tecnologia/compras-imprescindibles-ver-mundial-2022-casa-1155363' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/salon-sistema-sonido-envolvente-51-mientras-emite-partido-futbol-2870975.jpg' alt='5 compras imprescindibles para ver el Mundial 2022 en casa' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/dedos-roboticos-interactuar-insectos-diminutos-1155393'>Estos dedos robóticos permiten interactuar con insectos diminutos sin dañarlos</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/dedos-roboticos-interactuar-insectos-diminutos-1155393' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/estos-dedos-roboticos-permiten-interactuar-insectos-diminutos-danarlos-2871023.jpg' alt='Estos dedos robóticos permiten interactuar con insectos diminutos sin dañarlos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/microsoft-detiene-distribucion-windows-11-22h2-problemas-rendimiento-1155391'>Microsoft detiene por completo la distribución de Windows 11 22H2 en los PC gaming, por los problemas de rendimiento</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/microsoft-detiene-distribucion-windows-11-22h2-problemas-rendimiento-1155391' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/microsoft-detiene-completo-distribucion-windows-11-22h2-problemas-rendimiento-2871017.jpg' alt='Microsoft detiene por completo la distribución de Windows 11 22H2 en los PC gaming, por los problemas de rendimiento' />
     </a>
 </div>
 
