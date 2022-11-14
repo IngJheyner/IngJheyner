@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/inscripcion-modo-conjuro-hace-3700-anos-ya-hablaba-molesto-bicho-muy-actual-1155735'>Una inscripción a modo de conjuro de hace 3.700 años ya hablaba sobre un molesto bicho muy actual</a></h4>
+    <a href='https://computerhoy.com/noticias/life/inscripcion-modo-conjuro-hace-3700-anos-ya-hablaba-molesto-bicho-muy-actual-1155735' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/primera-prueba-escrita-ser-humano-habla-bicho-nos-atormentaba-2871669.jpg' alt='Una inscripción a modo de conjuro de hace 3.700 años ya hablaba sobre un molesto bicho muy actual' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/estas-son-algunas-alternativas-seguir-viendo-tdt-online-gratis-cierre-tdtchannels-1155697'>Estas son algunas alternativas para seguir viendo la TDT online gratis tras el cierre de TDTChannels</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/estas-son-algunas-alternativas-seguir-viendo-tdt-online-gratis-cierre-tdtchannels-1155697' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/tdtchannels-deja-funcionar-alternativas-poder-seguir-viendo-tdt-online-gratis-2871509.jpg' alt='Estas son algunas alternativas para seguir viendo la TDT online gratis tras el cierre de TDTChannels' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/ibai-pique-quieren-desbancar-futbol-tradicional-kings-league-1155607'>Ibai y Piqué quieren desbancar al fútbol tradicional con su Kings League</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/ibai-pique-quieren-desbancar-futbol-tradicional-kings-league-1155607' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/liga-reyes-2871599.jpg' alt='Ibai y Piqué quieren desbancar al fútbol tradicional con su Kings League' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/listas/tecnologia/mejores-televisores-4k-samsung-1155373'>Mejores televisores 4K Samsung que puedes comprar ahora mismo</a></h4>
+    <a href='https://computerhoy.com/listas/tecnologia/mejores-televisores-4k-samsung-1155373' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/smart-tv-samsung-salon-2871481.jpg' alt='Mejores televisores 4K Samsung que puedes comprar ahora mismo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/fin-podras-usar-whatsapp-varios-dispositivos-vez-modo-companion-1155657'>Por fin podrás usar WhatsApp en varios dispositivos a la vez con el modo Companion</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/fin-podras-usar-whatsapp-varios-dispositivos-vez-modo-companion-1155657' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/modo-companion-whatsapp-2871449.jpg' alt='Por fin podrás usar WhatsApp en varios dispositivos a la vez con el modo Companion' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/estos-son-algunos-gastos-ocultos-coche-electrico-cuidado-porque-te-podria-salir-caro-1155631'>Estos son algunos gastos ocultos del coche eléctrico, cuidado porque te podría salir caro</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/estos-son-algunos-gastos-ocultos-coche-electrico-cuidado-porque-te-podria-salir-caro-1155631' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/estos-son-algunos-gastos-ocultos-coche-electrico-cuidado-porque-te-podria-salir-caro-2871439.jpg' alt='Estos son algunos gastos ocultos del coche eléctrico, cuidado porque te podría salir caro' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/tienes-hacer-antes-vender-movil-android-salvaguardar-privacidad-1155623'>Esto es lo que tienes que hacer antes de vender tu móvil Android para salvaguardar tu privacidad</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/tienes-hacer-antes-vender-movil-android-salvaguardar-privacidad-1155623' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/04/analisis-samsung-galaxy-s20-1931793.jpg' alt='Esto es lo que tienes que hacer antes de vender tu móvil Android para salvaguardar tu privacidad' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/como-tiburones-camara-ayudan-descubrir-secretos-oceano-1155615'>Así es como los tiburones y una cámara ayudan a descubrir los secretos del océano</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/como-tiburones-camara-ayudan-descubrir-secretos-oceano-1155615' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/cientificos-mapean-mar-puro-estilo-street-view-ayuda-tiburon-2871237.jpg' alt='Así es como los tiburones y una cámara ayudan a descubrir los secretos del océano' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/5-mejores-trucos-tener-espacio-libre-cuenta-gmail-1152907'>Los 5 mejores trucos para tener más espacio libre en tu cuenta de Gmail</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/5-mejores-trucos-tener-espacio-libre-cuenta-gmail-1152907' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/gmail-2866501.jpg' alt='Los 5 mejores trucos para tener más espacio libre en tu cuenta de Gmail' />
     </a>
 </div>
 
