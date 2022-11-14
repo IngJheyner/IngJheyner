@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/chromecast-con-google-tv-descuento-black-friday-1155929'>El Black Friday se adelanta para Google: Amazon ha rebajado este Chromecast a 30€, el principal competidor de Fire TV Stick</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/chromecast-con-google-tv-descuento-black-friday-1155929' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/chromecast-google-tv-hd-version-economica-reproductor-inteligente-google-2821565.jpg' alt='El Black Friday se adelanta para Google: Amazon ha rebajado este Chromecast a 30€, el principal competidor de Fire TV Stick' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/blockbuster-serie-comedia-netflix-fracaso-audiencia-1155919'>Netflix pincha con una serie que tenía todo para convencer a los suscriptores: Blockbuster</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/blockbuster-serie-comedia-netflix-fracaso-audiencia-1155919' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/verticalimage1668456272628-2872111.jpg' alt='Netflix pincha con una serie que tenía todo para convencer a los suscriptores: Blockbuster' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/alexa-podra-hacerte-cubatas-gracias-invento-youtuber-1155885'>Alexa podrá hacerte cubatas gracias al invento de este youtuber</a></h4>
     <a href='https://computerhoy.com/noticias/life/alexa-podra-hacerte-cubatas-gracias-invento-youtuber-1155885' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/alexa-podra-hacerte-cubatas-gracias-invento-youtuber-2872103.jpg' alt='Alexa podrá hacerte cubatas gracias al invento de este youtuber' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/listas/tecnologia/amazon-adelanta-black-friday-packs-alexa-domotica-1155743'>Amazon se adelanta al Black Friday: controla el consumo eléctrico con estos packs de altavoces Echo y accesorios de domótica</a></h4>
-    <a href='https://computerhoy.com/listas/tecnologia/amazon-adelanta-black-friday-packs-alexa-domotica-1155743' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/altavoz-alexa-salon-2871723.jpg' alt='Amazon se adelanta al Black Friday: controla el consumo eléctrico con estos packs de altavoces Echo y accesorios de domótica' />
     </a>
 </div>
 
