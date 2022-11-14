@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/nave-secreta-fuerza-espacial-estados-unidos-regresa-estar-25-anos-orbita-misterio-mision-verdadera-1155915'>Esta nave secreta de la Fuerza Espacial de Estados Unidos regresa tras estar 2,5 años en órbita, y es un misterio su misión verdadera</a></h4>
+    <a href='https://computerhoy.com/noticias/life/nave-secreta-fuerza-espacial-estados-unidos-regresa-estar-25-anos-orbita-misterio-mision-verdadera-1155915' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/x-37b-2872109.jpg' alt='Esta nave secreta de la Fuerza Espacial de Estados Unidos regresa tras estar 2,5 años en órbita, y es un misterio su misión verdadera' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/nuevas-gafas-vr-apple-entrarian-produccion-2023-precio-astronomico-1155913'>Las nuevas gafas VR de Apple entrarían a producción en 2023 a un precio astronómico</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/nuevas-gafas-vr-apple-entrarian-produccion-2023-precio-astronomico-1155913' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/concepto-realidad-virtual-2872105.jpg' alt='Las nuevas gafas VR de Apple entrarían a producción en 2023 a un precio astronómico' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/alexa-podra-hacerte-cubatas-gracias-invento-youtuber-1155885'>Alexa podrá hacerte cubatas gracias al invento de este youtuber</a></h4>
+    <a href='https://computerhoy.com/noticias/life/alexa-podra-hacerte-cubatas-gracias-invento-youtuber-1155885' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/alexa-podra-hacerte-cubatas-gracias-invento-youtuber-2872103.jpg' alt='Alexa podrá hacerte cubatas gracias al invento de este youtuber' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/listas/tecnologia/amazon-adelanta-black-friday-packs-alexa-domotica-1155743'>Amazon se adelanta al Black Friday: controla el consumo eléctrico con estos packs de altavoces Echo y accesorios de domótica</a></h4>
     <a href='https://computerhoy.com/listas/tecnologia/amazon-adelanta-black-friday-packs-alexa-domotica-1155743' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/altavoz-alexa-salon-2871723.jpg' alt='Amazon se adelanta al Black Friday: controla el consumo eléctrico con estos packs de altavoces Echo y accesorios de domótica' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/elimina-estas-aplicaciones-movil-android-interior-esconde-spyware-badbazaar-1155853'>Elimina estas aplicaciones de tu móvil Android: en su interior se esconde el spyware BadBazaar</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/elimina-estas-aplicaciones-movil-android-interior-esconde-spyware-badbazaar-1155853' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/malware-android-2635219.jpg' alt='Elimina estas aplicaciones de tu móvil Android: en su interior se esconde el spyware BadBazaar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/listas/tecnologia/formas-enviar-archivos-grandes-correo-electronico-2021-892443'>Cómo enviar archivos grandes por correo electrónico y no morir en el intento</a></h4>
-    <a href='https://computerhoy.com/listas/tecnologia/formas-enviar-archivos-grandes-correo-electronico-2021-892443' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/03/correo-electronico.jpg' alt='Cómo enviar archivos grandes por correo electrónico y no morir en el intento' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/compania-realme-anuncia-lanzamiento-espana-programa-care-smartphones-ofrece-1155861'>La compañía realme anuncia el lanzamiento en España de su programa Care+ para smartphones</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/compania-realme-anuncia-lanzamiento-espana-programa-care-smartphones-ofrece-1155861' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/realme-care-2872007.jpg' alt='La compañía realme anuncia el lanzamiento en España de su programa Care+ para smartphones' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/jeff-bezos-decide-donar-fortuna-otro-une-club-millonarios-lidera-bill-gates-1155825'>Jeff Bezos decide donar su fortuna: otro que se une al club de millonarios que lidera Bill Gates</a></h4>
-    <a href='https://computerhoy.com/noticias/life/jeff-bezos-decide-donar-fortuna-otro-une-club-millonarios-lidera-bill-gates-1155825' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/bill-gates-jeff-bezos-2871967.jpg' alt='Jeff Bezos decide donar su fortuna: otro que se une al club de millonarios que lidera Bill Gates' />
     </a>
 </div>
 
