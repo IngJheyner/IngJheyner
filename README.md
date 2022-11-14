@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/compania-realme-anuncia-lanzamiento-espana-programa-care-smartphones-ofrece-1155861'>La compañía realme anuncia el lanzamiento en España de su programa Care+ para smartphones: esto es lo que ofrece</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/compania-realme-anuncia-lanzamiento-espana-programa-care-smartphones-ofrece-1155861' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/realme-care-2872007.jpg' alt='La compañía realme anuncia el lanzamiento en España de su programa Care+ para smartphones: esto es lo que ofrece' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/jeff-bezos-decide-donar-fortuna-otro-une-club-millonarios-lidera-bill-gates-1155825'>Jeff Bezos decide donar su fortuna: otro que se une al club de millonarios que lidera Bill Gates</a></h4>
+    <a href='https://computerhoy.com/noticias/life/jeff-bezos-decide-donar-fortuna-otro-une-club-millonarios-lidera-bill-gates-1155825' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/bill-gates-jeff-bezos-2871967.jpg' alt='Jeff Bezos decide donar su fortuna: otro que se une al club de millonarios que lidera Bill Gates' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/elon-musk-intenta-ocultar-huida-anunciantes-twitter-pagandose-mismo-1155765'>Elon Musk intenta ocultar la huida de anunciantes de Twitter... pagándose a sí mismo</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/elon-musk-intenta-ocultar-huida-anunciantes-twitter-pagandose-mismo-1155765' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/elon-musk-2868027.jpg' alt='Elon Musk intenta ocultar la huida de anunciantes de Twitter... pagándose a sí mismo' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/mapa-50-pueblos-bonitos-espana-cada-provincia-1155725'>El mapa de los 50 pueblos más bonitos de España, uno por cada provincia</a></h4>
     <a href='https://computerhoy.com/noticias/life/mapa-50-pueblos-bonitos-espana-cada-provincia-1155725' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/11/pueblo.jpg' alt='El mapa de los 50 pueblos más bonitos de España, uno por cada provincia' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/inscripcion-modo-conjuro-hace-3700-anos-ya-hablaba-molesto-bicho-muy-actual-1155735'>Una inscripción a modo de conjuro de hace 3.700 años ya hablaba sobre un molesto bicho muy actual</a></h4>
-    <a href='https://computerhoy.com/noticias/life/inscripcion-modo-conjuro-hace-3700-anos-ya-hablaba-molesto-bicho-muy-actual-1155735' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/primera-prueba-escrita-ser-humano-habla-bicho-nos-atormentaba-2871669.jpg' alt='Una inscripción a modo de conjuro de hace 3.700 años ya hablaba sobre un molesto bicho muy actual' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/estas-son-algunas-alternativas-seguir-viendo-tdt-online-gratis-cierre-tdtchannels-1155697'>Estas son algunas alternativas para seguir viendo la TDT online gratis tras el cierre de TDTChannels</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/estas-son-algunas-alternativas-seguir-viendo-tdt-online-gratis-cierre-tdtchannels-1155697' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/tdtchannels-deja-funcionar-alternativas-poder-seguir-viendo-tdt-online-gratis-2871509.jpg' alt='Estas son algunas alternativas para seguir viendo la TDT online gratis tras el cierre de TDTChannels' />
     </a>
 </div>
 
