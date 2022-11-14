@@ -74,9 +74,9 @@
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/compania-realme-anuncia-lanzamiento-espana-programa-care-smartphones-ofrece-1155861'>La compañía realme anuncia el lanzamiento en España de su programa Care+ para smartphones: esto es lo que ofrece</a></h4>
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/compania-realme-anuncia-lanzamiento-espana-programa-care-smartphones-ofrece-1155861'>La compañía realme anuncia el lanzamiento en España de su programa Care+ para smartphones</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/compania-realme-anuncia-lanzamiento-espana-programa-care-smartphones-ofrece-1155861' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/realme-care-2872007.jpg' alt='La compañía realme anuncia el lanzamiento en España de su programa Care+ para smartphones: esto es lo que ofrece' />
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/realme-care-2872007.jpg' alt='La compañía realme anuncia el lanzamiento en España de su programa Care+ para smartphones' />
     </a>
 </div>
 
