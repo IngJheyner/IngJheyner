@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/engano-steve-jobs-mundo-tactica-falso-iphone-1156229'>Así engañó Steve Jobs al mundo con la táctica del falso iPhone</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/engano-steve-jobs-mundo-tactica-falso-iphone-1156229' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/09/steve-jobs-primer-iphone.jpg' alt='Así engañó Steve Jobs al mundo con la táctica del falso iPhone' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/calderas-microondas-plantean-como-futuro-calefaccion-sustitucion-gas-natural-1156227'>Las calderas por microondas se plantean como el futuro de la calefacción en sustitución del gas natural</a></h4>
+    <a href='https://computerhoy.com/noticias/life/calderas-microondas-plantean-como-futuro-calefaccion-sustitucion-gas-natural-1156227' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/calderas-microondas-plantean-como-futuro-calefaccion-domestica-gas-natural-2872773.jpg' alt='Las calderas por microondas se plantean como el futuro de la calefacción en sustitución del gas natural' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/guardia-civil-alerta-nuevo-timo-monedas-dos-euros-realidad-valen-pocos-centimos-1156193'>La Guardia Civil alerta de un nuevo timo: monedas de dos euros que en realidad valen unos pocos céntimos</a></h4>
+    <a href='https://computerhoy.com/noticias/life/guardia-civil-alerta-nuevo-timo-monedas-dos-euros-realidad-valen-pocos-centimos-1156193' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/monedas-2-euros-2778905.jpg' alt='La Guardia Civil alerta de un nuevo timo: monedas de dos euros que en realidad valen unos pocos céntimos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/analisis/review-test-nvidia-rtx-4080-dlss3-1156123'>Análisis de la Nvidia RTX 4080, una mezcla de potencia bruta y magia negra con el DLSS3</a></h4>
     <a href='https://computerhoy.com/analisis/review-test-nvidia-rtx-4080-dlss3-1156123' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/review-rtx-4080-2872563.jpg' alt='Análisis de la Nvidia RTX 4080, una mezcla de potencia bruta y magia negra con el DLSS3' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/quieren-unir-corea-japon-enorme-tunel-200-km-macroproyecto-1156141'>Quieren unir Corea y Japón con un enorme túnel de más de 200 km: así es el macroproyecto</a></h4>
     <a href='https://computerhoy.com/noticias/life/quieren-unir-corea-japon-enorme-tunel-200-km-macroproyecto-1156141' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/08/tunel-submarino-2016081.jpg' alt='Quieren unir Corea y Japón con un enorme túnel de más de 200 km: así es el macroproyecto' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/planeta-acaba-alcanzar-8000-millones-habitantes-informa-naciones-unidas-1156103'>El planeta acaba de alcanzar los 8.000 millones de habitantes según informa Naciones Unidas</a></h4>
-    <a href='https://computerhoy.com/noticias/life/planeta-acaba-alcanzar-8000-millones-habitantes-informa-naciones-unidas-1156103' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/ya-somos-8000-millones-reparte-tierra-funcion-poblacion-cada-pais-2872413.jpg' alt='El planeta acaba de alcanzar los 8.000 millones de habitantes según informa Naciones Unidas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/artemis-1-pone-rumbo-luna-dia-hora-como-seguir-lanzamiento-directo-espana-1156115'>El Artemis 1 pone rumbo a la luna: día, hora y cómo seguir el lanzamiento en directo desde España</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/artemis-1-pone-rumbo-luna-dia-hora-como-seguir-lanzamiento-directo-espana-1156115' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/nasa-vuelve-retrasar-lanzamiento-artemis-i-ocasion-no-debe-fallo-tecnico-2823435.jpg' alt='El Artemis 1 pone rumbo a la luna: día, hora y cómo seguir el lanzamiento en directo desde España' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/embajadores-moviles-android-ya-podran-tuitear-miedo-iphone-gracias-elon-musk-1156069'>Los embajadores de móviles Android ya podrán tuitear sin miedo desde sus iPhone gracias a Elon Musk</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/embajadores-moviles-android-ya-podran-tuitear-miedo-iphone-gracias-elon-musk-1156069' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/elon-musk-tesla-twitter-spacex-2829325.jpg' alt='Los embajadores de móviles Android ya podrán tuitear sin miedo desde sus iPhone gracias a Elon Musk' />
     </a>
 </div>
 
