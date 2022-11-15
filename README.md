@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/compiten-nuevos-hdd-seagate-actuales-ssd-18tb-capacidad-554-mbps-1156003'>Así compiten los nuevos HDD de Seagate con los actuales SSD: hasta 18TB de capacidad y 554 MBps</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/compiten-nuevos-hdd-seagate-actuales-ssd-18tb-capacidad-554-mbps-1156003' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/seagate-2872249.jpg' alt='Así compiten los nuevos HDD de Seagate con los actuales SSD: hasta 18TB de capacidad y 554 MBps' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/pais-cansa-iptv-pirata-endurece-lucha-dispositivos-acceso-1156075'>Este país se cansa del IPTV pirata y endurece su lucha contra los dispositivos con acceso</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/pais-cansa-iptv-pirata-endurece-lucha-dispositivos-acceso-1156075' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/primer-pais-sancionar-posesion-dispositivos-acceso-canales-iptv-2872393.jpg' alt='Este país se cansa del IPTV pirata y endurece su lucha contra los dispositivos con acceso' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/novedades-whatsapp-llegan-buscador-encuestas-1156023'>Las novedades de WhatsApp llegan al buscador y a las encuestas</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/novedades-whatsapp-llegan-buscador-encuestas-1156023' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/whatsapp-2866195.jpg' alt='Las novedades de WhatsApp llegan al buscador y a las encuestas' />
+    <h4><a href='https://computerhoy.com/listas/entretenimiento/mejores-barras-sonido-escuchar-como-nunca-mundial-2022-1155925'>Mejores barras de sonido para escuchar como nunca el Mundial 2022</a></h4>
+    <a href='https://computerhoy.com/listas/entretenimiento/mejores-barras-sonido-escuchar-como-nunca-mundial-2022-1155925' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/mejores-barras-sonido-escuchar-como-nunca-mundial-2022-2872121.jpg' alt='Mejores barras de sonido para escuchar como nunca el Mundial 2022' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/nuevo-smartwatch-motorola-llamara-moto-watch-70-llegara-wear-os-1156001'>El nuevo smartwatch de Motorola se llamará Moto Watch 70 y llegará sin Wear OS</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/nuevo-smartwatch-motorola-llamara-moto-watch-70-llegara-wear-os-1156001' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/moto-watch-70-2872227.jpg' alt='El nuevo smartwatch de Motorola se llamará Moto Watch 70 y llegará sin Wear OS' />
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/6-ajustes-tips-netflix-seguro-no-conocias-son-muy-utiles-1155767'>6 ajustes y tips de Netflix que seguro no conocías y que son muy útiles</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/6-ajustes-tips-netflix-seguro-no-conocias-son-muy-utiles-1155767' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/6-ajustes-tips-netflix-seguro-no-conocias-son-muy-utiles-2871827.jpg' alt='6 ajustes y tips de Netflix que seguro no conocías y que son muy útiles' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/nike-adentra-web3-nueva-plataforma-comprar-ropa-virtual-1155987'>Nike se adentra en la Web3 con su nueva plataforma para comprar ropa virtual </a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/nike-adentra-web3-nueva-plataforma-comprar-ropa-virtual-1155987' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/nike-lanza-propia-plataforma-web3-donde-podras-comprar-ropa-metaverso-2872209.jpg' alt='Nike se adentra en la Web3 con su nueva plataforma para comprar ropa virtual ' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/estas-son-marcas-electrodomesticos-fiables-ocu-1156037'>Estas son las marcas de electrodomésticos más fiables, según la OCU</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/estas-son-marcas-electrodomesticos-fiables-ocu-1156037' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/estas-son-marcas-electrodomesticos-fiables-ocu-2872363.jpg' alt='Estas son las marcas de electrodomésticos más fiables, según la OCU' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/donde-comprar-playstation-5-black-friday-970049'>Dónde comprar una PlayStation 5 en el Black Friday</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/donde-comprar-playstation-5-black-friday-970049' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/playstation-5-2392925.jpg' alt='Dónde comprar una PlayStation 5 en el Black Friday' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/google-llega-justo-tiempo-black-friday-podra-vender-youtube-shorts-1156041'>Google llega justo a tiempo de Black Friday, podrá vender desde YouTube Shorts</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/google-llega-justo-tiempo-black-friday-podra-vender-youtube-shorts-1156041' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/youtube-shorts-2872347.jpg' alt='Google llega justo a tiempo de Black Friday, podrá vender desde YouTube Shorts' />
     </a>
 </div>
 
