@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/nuevo-smartwatch-motorola-llamara-moto-watch-70-llegara-wear-os-1156001'>El nuevo smartwatch de Motorola se llamará Moto Watch 70 y llegará sin Wear OS</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/nuevo-smartwatch-motorola-llamara-moto-watch-70-llegara-wear-os-1156001' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/moto-watch-70-2872227.jpg' alt='El nuevo smartwatch de Motorola se llamará Moto Watch 70 y llegará sin Wear OS' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/nike-adentra-web3-nueva-plataforma-comprar-ropa-virtual-1155987'>Nike se adentra en la Web3 con su nueva plataforma para comprar ropa virtual </a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/nike-adentra-web3-nueva-plataforma-comprar-ropa-virtual-1155987' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/nike-lanza-propia-plataforma-web3-donde-podras-comprar-ropa-metaverso-2872209.jpg' alt='Nike se adentra en la Web3 con su nueva plataforma para comprar ropa virtual ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/donde-comprar-playstation-5-black-friday-970049'>Dónde comprar una PlayStation 5 en el Black Friday</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/donde-comprar-playstation-5-black-friday-970049' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/playstation-5-2392925.jpg' alt='Dónde comprar una PlayStation 5 en el Black Friday' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/24-noticias-tecnologia-comenzar-manana-informado-ultimo-1155953'>24 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/24-noticias-tecnologia-comenzar-manana-informado-ultimo-1155953' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/24-noticias-tecnologia-comenzar-manana-informado-ultimo-2872153.jpg' alt='24 noticias de tecnología para comenzar la mañana informado de lo último' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/listas/tecnologia/mejores-proyectores-ver-mundial-2022-casa-1155639'>Mejores proyectores para ver el Mundial 2022 en casa</a></h4>
-    <a href='https://computerhoy.com/listas/tecnologia/mejores-proyectores-ver-mundial-2022-casa-1155639' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/asus-zenbeam-s2-2871287.jpg' alt='Mejores proyectores para ver el Mundial 2022 en casa' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/como-asar-castanas-freidora-aire-1155947'>Cómo asar castañas en la freidora de aire</a></h4>
-    <a href='https://computerhoy.com/noticias/life/como-asar-castanas-freidora-aire-1155947' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/como-asar-castanas-freidora-aire-2872147.jpg' alt='Cómo asar castañas en la freidora de aire' />
     </a>
 </div>
 
