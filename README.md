@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/listas/tecnologia/temporizadores-enchufes-inteligentes-ahorrar-electricidad-1156169'>Temporizadores y enchufes inteligentes para ahorrar hasta un 30% en electricidad</a></h4>
+    <a href='https://computerhoy.com/listas/tecnologia/temporizadores-enchufes-inteligentes-ahorrar-electricidad-1156169' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/ahorrar-energia-calefaccion-factura-electrica-2872623.jpg' alt='Temporizadores y enchufes inteligentes para ahorrar hasta un 30% en electricidad' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/pixel-fold-filtra-todo-detalle-sera-primer-plegable-google-1156249'>El Pixel Fold se filtra con todo detalle: así será el primer plegable de Google</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/pixel-fold-filtra-todo-detalle-sera-primer-plegable-google-1156249' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/pixel-fold-filtra-todo-detalle-sera-primer-plegable-google-2872833.jpg' alt='El Pixel Fold se filtra con todo detalle: así será el primer plegable de Google' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/google-traductor-guia-definitiva-usar-traductor-352413'>Google Traductor: guía completa y trucos del mejor traductor online</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/google-traductor-guia-definitiva-usar-traductor-352413' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/traductor-google-2516835.jpg' alt='Google Traductor: guía completa y trucos del mejor traductor online' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/truco-premio-nobel-fisica-cocer-pasta-gastar-casi-energia-1120111'>El truco de un Premio Nobel en física para cocer la pasta sin gastar casi energía</a></h4>
     <a href='https://computerhoy.com/noticias/life/truco-premio-nobel-fisica-cocer-pasta-gastar-casi-energia-1120111' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/cocinar-pasta-seca-2583133.jpg' alt='El truco de un Premio Nobel en física para cocer la pasta sin gastar casi energía' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/listas/life/ponte-forma-solo-7-minutos-estas-aplicaciones-moviles-android-iphone-1153495'>Ponte en forma en solo 7 minutos con estas aplicaciones para móviles Android e iPhone</a></h4>
-    <a href='https://computerhoy.com/listas/life/ponte-forma-solo-7-minutos-estas-aplicaciones-moviles-android-iphone-1153495' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/ponte-forma-solo-7-minutos-estas-aplicaciones-moviles-android-iphone-2872697.jpg' alt='Ponte en forma en solo 7 minutos con estas aplicaciones para móviles Android e iPhone' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/engano-steve-jobs-mundo-tactica-falso-iphone-1156229'>Así engañó Steve Jobs al mundo con la táctica del falso iPhone</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/engano-steve-jobs-mundo-tactica-falso-iphone-1156229' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/09/steve-jobs-primer-iphone.jpg' alt='Así engañó Steve Jobs al mundo con la táctica del falso iPhone' />
     </a>
 </div>
 
