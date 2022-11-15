@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/policia-nacional-va-usar-inteligencia-artificial-conoce-cara-1156247'>La Policía Nacional va a usar una inteligencia artificial que conoce tu cara</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/policia-nacional-va-usar-inteligencia-artificial-conoce-cara-1156247' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/07/reconocimiento-facial-1986077.jpg' alt='La Policía Nacional va a usar una inteligencia artificial que conoce tu cara' />
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/los-fraguel-apple-tv-especial-navidad-1156321'>Vuelven Los Fraguel a Apple TV+ en un especial de Navidad para disfrutar en familia</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/los-fraguel-apple-tv-especial-navidad-1156321' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/verticalimage1668544372520-2872949.jpg' alt='Vuelven Los Fraguel a Apple TV+ en un especial de Navidad para disfrutar en familia' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/diferencias-clave-coche-hidrogeno-coche-gasolina-1156293'>Las tres diferencias clave en el funcionamiento de un coche de hidrógeno y uno de gasolina</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/diferencias-clave-coche-hidrogeno-coche-gasolina-1156293' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/hyundai-nexo-coche-hidrogeno-ya-vende-hyundai-espana-2860529.jpg' alt='Las tres diferencias clave en el funcionamiento de un coche de hidrógeno y uno de gasolina' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/aplicacion-parece-inofensiva-integra-troyano-te-robara-datos-bancarios-eliminala-ahora-mismo-1156287'>Esta aplicación que parece inofensiva integra un troyano que te robará tus datos bancarios: elimínala ahora mismo</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/aplicacion-parece-inofensiva-integra-troyano-te-robara-datos-bancarios-eliminala-ahora-mismo-1156287' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/malware-android-2490673.jpg' alt='Esta aplicación que parece inofensiva integra un troyano que te robará tus datos bancarios: elimínala ahora mismo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/listas/tecnologia/temporizadores-enchufes-inteligentes-ahorrar-electricidad-1156169'>Temporizadores y enchufes inteligentes para ahorrar hasta un 30% en electricidad</a></h4>
-    <a href='https://computerhoy.com/listas/tecnologia/temporizadores-enchufes-inteligentes-ahorrar-electricidad-1156169' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/ahorrar-energia-calefaccion-factura-electrica-2872623.jpg' alt='Temporizadores y enchufes inteligentes para ahorrar hasta un 30% en electricidad' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/google-enfrenta-multa-millonaria-haber-recopilado-informacion-ubicacion-permiso-1156261'>Google se enfrenta a una multa millonaria por haber recopilado la información de tu ubicación sin tu permiso</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/google-enfrenta-multa-millonaria-haber-recopilado-informacion-ubicacion-permiso-1156261' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/logo-google-2814219.jpg' alt='Google se enfrenta a una multa millonaria por haber recopilado la información de tu ubicación sin tu permiso' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/pixel-fold-filtra-todo-detalle-sera-primer-plegable-google-1156249'>El Pixel Fold se filtra con todo detalle: así será el primer plegable de Google</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/pixel-fold-filtra-todo-detalle-sera-primer-plegable-google-1156249' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/pixel-fold-filtra-todo-detalle-sera-primer-plegable-google-2872833.jpg' alt='El Pixel Fold se filtra con todo detalle: así será el primer plegable de Google' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/adios-windows-81-microsoft-quiere-te-compres-nuevo-ordenador-tener-windows-11-1156319'>Adiós a Windows 8.1: Microsoft quiere que te compres un nuevo ordenador para tener Windows 11</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/adios-windows-81-microsoft-quiere-te-compres-nuevo-ordenador-tener-windows-11-1156319' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/windows-2872935.jpg' alt='Adiós a Windows 8.1: Microsoft quiere que te compres un nuevo ordenador para tener Windows 11' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/google-traductor-guia-definitiva-usar-traductor-352413'>Google Traductor: guía completa y trucos del mejor traductor online</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/google-traductor-guia-definitiva-usar-traductor-352413' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/traductor-google-2516835.jpg' alt='Google Traductor: guía completa y trucos del mejor traductor online' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/todo-legado-puede-perderse-twitter-quiebra-expertos-1156317'>Este es todo el legado que puede perderse si Twitter quiebra, según expertos</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/todo-legado-puede-perderse-twitter-quiebra-expertos-1156317' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/legado-twitter-2872933.jpg' alt='Este es todo el legado que puede perderse si Twitter quiebra, según expertos' />
     </a>
 </div>
 
