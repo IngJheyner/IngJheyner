@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/quieren-unir-corea-japon-enorme-tunel-200-km-macroproyecto-1156141'>Quieren unir Corea y Japón con un enorme túnel de más de 200 km: así es el macroproyecto</a></h4>
+    <a href='https://computerhoy.com/noticias/life/quieren-unir-corea-japon-enorme-tunel-200-km-macroproyecto-1156141' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/08/tunel-submarino-2016081.jpg' alt='Quieren unir Corea y Japón con un enorme túnel de más de 200 km: así es el macroproyecto' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/planeta-acaba-alcanzar-8000-millones-habitantes-informa-naciones-unidas-1156103'>El planeta acaba de alcanzar los 8.000 millones de habitantes según informa Naciones Unidas</a></h4>
     <a href='https://computerhoy.com/noticias/life/planeta-acaba-alcanzar-8000-millones-habitantes-informa-naciones-unidas-1156103' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/ya-somos-8000-millones-reparte-tierra-funcion-poblacion-cada-pais-2872413.jpg' alt='El planeta acaba de alcanzar los 8.000 millones de habitantes según informa Naciones Unidas' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/pais-cansa-iptv-pirata-endurece-lucha-dispositivos-acceso-1156075'>Este país se cansa del IPTV pirata y endurece su lucha contra los dispositivos con acceso</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/pais-cansa-iptv-pirata-endurece-lucha-dispositivos-acceso-1156075' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/primer-pais-sancionar-posesion-dispositivos-acceso-canales-iptv-2872393.jpg' alt='Este país se cansa del IPTV pirata y endurece su lucha contra los dispositivos con acceso' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/listas/entretenimiento/mejores-barras-sonido-escuchar-como-nunca-mundial-2022-1155925'>Mejores barras de sonido para escuchar como nunca el Mundial 2022</a></h4>
-    <a href='https://computerhoy.com/listas/entretenimiento/mejores-barras-sonido-escuchar-como-nunca-mundial-2022-1155925' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/mejores-barras-sonido-escuchar-como-nunca-mundial-2022-2872121.jpg' alt='Mejores barras de sonido para escuchar como nunca el Mundial 2022' />
     </a>
 </div>
 
