@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/policia-nacional-va-usar-inteligencia-artificial-conoce-cara-1156247'>La Policía Nacional va a usar una inteligencia artificial que conoce tu cara</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/policia-nacional-va-usar-inteligencia-artificial-conoce-cara-1156247' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/07/reconocimiento-facial-1986077.jpg' alt='La Policía Nacional va a usar una inteligencia artificial que conoce tu cara' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/motor/diferencias-clave-coche-hidrogeno-coche-gasolina-1156293'>Las tres diferencias clave en el funcionamiento de un coche de hidrógeno y uno de gasolina</a></h4>
     <a href='https://computerhoy.com/noticias/motor/diferencias-clave-coche-hidrogeno-coche-gasolina-1156293' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/hyundai-nexo-coche-hidrogeno-ya-vende-hyundai-espana-2860529.jpg' alt='Las tres diferencias clave en el funcionamiento de un coche de hidrógeno y uno de gasolina' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/google-traductor-guia-definitiva-usar-traductor-352413'>Google Traductor: guía completa y trucos del mejor traductor online</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/google-traductor-guia-definitiva-usar-traductor-352413' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/traductor-google-2516835.jpg' alt='Google Traductor: guía completa y trucos del mejor traductor online' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/apple-te-deja-practicar-mensajes-emergencia-satelite-iphone-14-funciona-1156233'>Apple te deja practicar con los mensajes de emergencia vía satélite del iPhone 14: así funciona</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/apple-te-deja-practicar-mensajes-emergencia-satelite-iphone-14-funciona-1156233' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/satelite-2806857.jpg' alt='Apple te deja practicar con los mensajes de emergencia vía satélite del iPhone 14: así funciona' />
     </a>
 </div>
 
