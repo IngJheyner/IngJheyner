@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/google-traductor-guia-definitiva-usar-traductor-352413'>Google Traductor: guía completa y trucos del mejor traductor online</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/google-traductor-guia-definitiva-usar-traductor-352413' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/traductor-google-2516835.jpg' alt='Google Traductor: guía completa y trucos del mejor traductor online' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/apple-te-deja-practicar-mensajes-emergencia-satelite-iphone-14-funciona-1156233'>Apple te deja practicar con los mensajes de emergencia vía satélite del iPhone 14: así funciona</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/apple-te-deja-practicar-mensajes-emergencia-satelite-iphone-14-funciona-1156233' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/satelite-2806857.jpg' alt='Apple te deja practicar con los mensajes de emergencia vía satélite del iPhone 14: así funciona' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/truco-premio-nobel-fisica-cocer-pasta-gastar-casi-energia-1120111'>El truco de un Premio Nobel en física para cocer la pasta sin gastar casi energía</a></h4>
+    <a href='https://computerhoy.com/noticias/life/truco-premio-nobel-fisica-cocer-pasta-gastar-casi-energia-1120111' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/cocinar-pasta-seca-2583133.jpg' alt='El truco de un Premio Nobel en física para cocer la pasta sin gastar casi energía' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/listas/life/ponte-forma-solo-7-minutos-estas-aplicaciones-moviles-android-iphone-1153495'>Ponte en forma en solo 7 minutos con estas aplicaciones para móviles Android e iPhone</a></h4>
+    <a href='https://computerhoy.com/listas/life/ponte-forma-solo-7-minutos-estas-aplicaciones-moviles-android-iphone-1153495' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/ponte-forma-solo-7-minutos-estas-aplicaciones-moviles-android-iphone-2872697.jpg' alt='Ponte en forma en solo 7 minutos con estas aplicaciones para móviles Android e iPhone' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/engano-steve-jobs-mundo-tactica-falso-iphone-1156229'>Así engañó Steve Jobs al mundo con la táctica del falso iPhone</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/engano-steve-jobs-mundo-tactica-falso-iphone-1156229' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/09/steve-jobs-primer-iphone.jpg' alt='Así engañó Steve Jobs al mundo con la táctica del falso iPhone' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/calderas-microondas-plantean-como-futuro-calefaccion-sustitucion-gas-natural-1156227'>Las calderas por microondas se plantean como el futuro de la calefacción en sustitución del gas natural</a></h4>
-    <a href='https://computerhoy.com/noticias/life/calderas-microondas-plantean-como-futuro-calefaccion-sustitucion-gas-natural-1156227' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/calderas-microondas-plantean-como-futuro-calefaccion-domestica-gas-natural-2872773.jpg' alt='Las calderas por microondas se plantean como el futuro de la calefacción en sustitución del gas natural' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/guardia-civil-alerta-nuevo-timo-monedas-dos-euros-realidad-valen-pocos-centimos-1156193'>La Guardia Civil alerta de un nuevo timo: monedas de dos euros que en realidad valen unos pocos céntimos</a></h4>
-    <a href='https://computerhoy.com/noticias/life/guardia-civil-alerta-nuevo-timo-monedas-dos-euros-realidad-valen-pocos-centimos-1156193' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/monedas-2-euros-2778905.jpg' alt='La Guardia Civil alerta de un nuevo timo: monedas de dos euros que en realidad valen unos pocos céntimos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/review-test-nvidia-rtx-4080-dlss3-1156123'>Análisis de la Nvidia RTX 4080, una mezcla de potencia bruta y magia negra con el DLSS3</a></h4>
-    <a href='https://computerhoy.com/analisis/review-test-nvidia-rtx-4080-dlss3-1156123' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/review-rtx-4080-2872563.jpg' alt='Análisis de la Nvidia RTX 4080, una mezcla de potencia bruta y magia negra con el DLSS3' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/quieren-unir-corea-japon-enorme-tunel-200-km-macroproyecto-1156141'>Quieren unir Corea y Japón con un enorme túnel de más de 200 km: así es el macroproyecto</a></h4>
-    <a href='https://computerhoy.com/noticias/life/quieren-unir-corea-japon-enorme-tunel-200-km-macroproyecto-1156141' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/08/tunel-submarino-2016081.jpg' alt='Quieren unir Corea y Japón con un enorme túnel de más de 200 km: así es el macroproyecto' />
     </a>
 </div>
 
