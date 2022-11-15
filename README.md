@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/planeta-acaba-alcanzar-8000-millones-habitantes-informa-naciones-unidas-1156103'>El planeta acaba de alcanzar los 8.000 millones de habitantes según informa Naciones Unidas</a></h4>
+    <a href='https://computerhoy.com/noticias/life/planeta-acaba-alcanzar-8000-millones-habitantes-informa-naciones-unidas-1156103' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/ya-somos-8000-millones-reparte-tierra-funcion-poblacion-cada-pais-2872413.jpg' alt='El planeta acaba de alcanzar los 8.000 millones de habitantes según informa Naciones Unidas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/artemis-1-pone-rumbo-luna-dia-hora-como-seguir-lanzamiento-directo-espana-1156115'>El Artemis 1 pone rumbo a la luna: día, hora y cómo seguir el lanzamiento en directo desde España</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/artemis-1-pone-rumbo-luna-dia-hora-como-seguir-lanzamiento-directo-espana-1156115' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/nasa-vuelve-retrasar-lanzamiento-artemis-i-ocasion-no-debe-fallo-tecnico-2823435.jpg' alt='El Artemis 1 pone rumbo a la luna: día, hora y cómo seguir el lanzamiento en directo desde España' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/embajadores-moviles-android-ya-podran-tuitear-miedo-iphone-gracias-elon-musk-1156069'>Los embajadores de móviles Android ya podrán tuitear sin miedo desde sus iPhone gracias a Elon Musk</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/embajadores-moviles-android-ya-podran-tuitear-miedo-iphone-gracias-elon-musk-1156069' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/elon-musk-tesla-twitter-spacex-2829325.jpg' alt='Los embajadores de móviles Android ya podrán tuitear sin miedo desde sus iPhone gracias a Elon Musk' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/listas/entretenimiento/mejores-barras-sonido-escuchar-como-nunca-mundial-2022-1155925'>Mejores barras de sonido para escuchar como nunca el Mundial 2022</a></h4>
     <a href='https://computerhoy.com/listas/entretenimiento/mejores-barras-sonido-escuchar-como-nunca-mundial-2022-1155925' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/mejores-barras-sonido-escuchar-como-nunca-mundial-2022-2872121.jpg' alt='Mejores barras de sonido para escuchar como nunca el Mundial 2022' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/6-ajustes-tips-netflix-seguro-no-conocias-son-muy-utiles-1155767'>6 ajustes y tips de Netflix que seguro no conocías y que son muy útiles</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/6-ajustes-tips-netflix-seguro-no-conocias-son-muy-utiles-1155767' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/6-ajustes-tips-netflix-seguro-no-conocias-son-muy-utiles-2871827.jpg' alt='6 ajustes y tips de Netflix que seguro no conocías y que son muy útiles' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/estas-son-marcas-electrodomesticos-fiables-ocu-1156037'>Estas son las marcas de electrodomésticos más fiables, según la OCU</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/estas-son-marcas-electrodomesticos-fiables-ocu-1156037' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/estas-son-marcas-electrodomesticos-fiables-ocu-2872363.jpg' alt='Estas son las marcas de electrodomésticos más fiables, según la OCU' />
     </a>
 </div>
 
