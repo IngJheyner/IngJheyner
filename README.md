@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/donde-comprar-playstation-5-black-friday-970049'>Dónde comprar una PlayStation 5 en el Black Friday</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/donde-comprar-playstation-5-black-friday-970049' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/playstation-5-2392925.jpg' alt='Dónde comprar una PlayStation 5 en el Black Friday' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/como-consigue-autentificacion-doble-factor-sea-segura-verdad-1155801'>Así es como se consigue que la autentificación de doble factor sea segura de verdad</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/como-consigue-autentificacion-doble-factor-sea-segura-verdad-1155801' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/autentificacion-doble-factor-2871943.jpg' alt='Así es como se consigue que la autentificación de doble factor sea segura de verdad' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/como-asar-castanas-freidora-aire-1155947'>Cómo asar castañas en la freidora de aire</a></h4>
     <a href='https://computerhoy.com/noticias/life/como-asar-castanas-freidora-aire-1155947' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/como-asar-castanas-freidora-aire-2872147.jpg' alt='Cómo asar castañas en la freidora de aire' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/velo-luggage-maleta-cambia-tamano-video-1155945'>Esta maleta cambia de tamaño según la cantidad de equipaje que lleves (vídeo)</a></h4>
-    <a href='https://computerhoy.com/noticias/life/velo-luggage-maleta-cambia-tamano-video-1155945' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/verticalimage1668473554184-2872143.jpg' alt='Esta maleta cambia de tamaño según la cantidad de equipaje que lleves (vídeo)' />
     </a>
 </div>
 
