@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/diferencias-clave-coche-hidrogeno-coche-gasolina-1156293'>Las tres diferencias clave en el funcionamiento de un coche de hidrógeno y uno de gasolina</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/diferencias-clave-coche-hidrogeno-coche-gasolina-1156293' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/hyundai-nexo-coche-hidrogeno-ya-vende-hyundai-espana-2860529.jpg' alt='Las tres diferencias clave en el funcionamiento de un coche de hidrógeno y uno de gasolina' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/listas/tecnologia/temporizadores-enchufes-inteligentes-ahorrar-electricidad-1156169'>Temporizadores y enchufes inteligentes para ahorrar hasta un 30% en electricidad</a></h4>
     <a href='https://computerhoy.com/listas/tecnologia/temporizadores-enchufes-inteligentes-ahorrar-electricidad-1156169' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/ahorrar-energia-calefaccion-factura-electrica-2872623.jpg' alt='Temporizadores y enchufes inteligentes para ahorrar hasta un 30% en electricidad' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/apple-te-deja-practicar-mensajes-emergencia-satelite-iphone-14-funciona-1156233'>Apple te deja practicar con los mensajes de emergencia vía satélite del iPhone 14: así funciona</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/apple-te-deja-practicar-mensajes-emergencia-satelite-iphone-14-funciona-1156233' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/satelite-2806857.jpg' alt='Apple te deja practicar con los mensajes de emergencia vía satélite del iPhone 14: así funciona' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/truco-premio-nobel-fisica-cocer-pasta-gastar-casi-energia-1120111'>El truco de un Premio Nobel en física para cocer la pasta sin gastar casi energía</a></h4>
-    <a href='https://computerhoy.com/noticias/life/truco-premio-nobel-fisica-cocer-pasta-gastar-casi-energia-1120111' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/cocinar-pasta-seca-2583133.jpg' alt='El truco de un Premio Nobel en física para cocer la pasta sin gastar casi energía' />
     </a>
 </div>
 
