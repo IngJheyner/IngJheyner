@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/compiten-nuevos-hdd-seagate-actuales-ssd-18tb-capacidad-554-mbps-1156003'>Así compiten los nuevos HDD de Seagate con los actuales SSD: hasta 18TB de capacidad y 554 MBps</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/compiten-nuevos-hdd-seagate-actuales-ssd-18tb-capacidad-554-mbps-1156003' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/seagate-2872249.jpg' alt='Así compiten los nuevos HDD de Seagate con los actuales SSD: hasta 18TB de capacidad y 554 MBps' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/novedades-whatsapp-llegan-buscador-encuestas-1156023'>Las novedades de WhatsApp llegan al buscador y a las encuestas</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/novedades-whatsapp-llegan-buscador-encuestas-1156023' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/whatsapp-2866195.jpg' alt='Las novedades de WhatsApp llegan al buscador y a las encuestas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/nuevo-smartwatch-motorola-llamara-moto-watch-70-llegara-wear-os-1156001'>El nuevo smartwatch de Motorola se llamará Moto Watch 70 y llegará sin Wear OS</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/nuevo-smartwatch-motorola-llamara-moto-watch-70-llegara-wear-os-1156001' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/moto-watch-70-2872227.jpg' alt='El nuevo smartwatch de Motorola se llamará Moto Watch 70 y llegará sin Wear OS' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/donde-comprar-playstation-5-black-friday-970049'>Dónde comprar una PlayStation 5 en el Black Friday</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/donde-comprar-playstation-5-black-friday-970049' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/playstation-5-2392925.jpg' alt='Dónde comprar una PlayStation 5 en el Black Friday' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/como-consigue-autentificacion-doble-factor-sea-segura-verdad-1155801'>Así es como se consigue que la autentificación de doble factor sea segura de verdad</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/como-consigue-autentificacion-doble-factor-sea-segura-verdad-1155801' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/autentificacion-doble-factor-2871943.jpg' alt='Así es como se consigue que la autentificación de doble factor sea segura de verdad' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/24-noticias-tecnologia-comenzar-manana-informado-ultimo-1155953'>24 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/24-noticias-tecnologia-comenzar-manana-informado-ultimo-1155953' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/24-noticias-tecnologia-comenzar-manana-informado-ultimo-2872153.jpg' alt='24 noticias de tecnología para comenzar la mañana informado de lo último' />
     </a>
 </div>
 
