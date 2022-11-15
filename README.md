@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/embajadores-moviles-android-ya-podran-tuitear-miedo-iphone-gracias-elon-musk-1156069'>Los embajadores de móviles Android ya podrán tuitear sin miedo desde sus iPhone gracias a Elon Musk</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/embajadores-moviles-android-ya-podran-tuitear-miedo-iphone-gracias-elon-musk-1156069' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/elon-musk-tesla-twitter-spacex-2829325.jpg' alt='Los embajadores de móviles Android ya podrán tuitear sin miedo desde sus iPhone gracias a Elon Musk' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/pais-cansa-iptv-pirata-endurece-lucha-dispositivos-acceso-1156075'>Este país se cansa del IPTV pirata y endurece su lucha contra los dispositivos con acceso</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/pais-cansa-iptv-pirata-endurece-lucha-dispositivos-acceso-1156075' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/primer-pais-sancionar-posesion-dispositivos-acceso-canales-iptv-2872393.jpg' alt='Este país se cansa del IPTV pirata y endurece su lucha contra los dispositivos con acceso' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/estas-son-marcas-electrodomesticos-fiables-ocu-1156037'>Estas son las marcas de electrodomésticos más fiables, según la OCU</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/estas-son-marcas-electrodomesticos-fiables-ocu-1156037' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/estas-son-marcas-electrodomesticos-fiables-ocu-2872363.jpg' alt='Estas son las marcas de electrodomésticos más fiables, según la OCU' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/google-llega-justo-tiempo-black-friday-podra-vender-youtube-shorts-1156041'>Google llega justo a tiempo de Black Friday, podrá vender desde YouTube Shorts</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/google-llega-justo-tiempo-black-friday-podra-vender-youtube-shorts-1156041' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/youtube-shorts-2872347.jpg' alt='Google llega justo a tiempo de Black Friday, podrá vender desde YouTube Shorts' />
     </a>
 </div>
 
