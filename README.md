@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/como-consigue-autentificacion-doble-factor-sea-segura-verdad-1155801'>Así es como se consigue que la autentificación de doble factor sea segura de verdad</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/como-consigue-autentificacion-doble-factor-sea-segura-verdad-1155801' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/autentificacion-doble-factor-2871943.jpg' alt='Así es como se consigue que la autentificación de doble factor sea segura de verdad' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/24-noticias-tecnologia-comenzar-manana-informado-ultimo-1155953'>24 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/24-noticias-tecnologia-comenzar-manana-informado-ultimo-1155953' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/24-noticias-tecnologia-comenzar-manana-informado-ultimo-2872153.jpg' alt='24 noticias de tecnología para comenzar la mañana informado de lo último' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/listas/tecnologia/mejores-proyectores-ver-mundial-2022-casa-1155639'>Mejores proyectores para ver el Mundial 2022 en casa</a></h4>
+    <a href='https://computerhoy.com/listas/tecnologia/mejores-proyectores-ver-mundial-2022-casa-1155639' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/asus-zenbeam-s2-2871287.jpg' alt='Mejores proyectores para ver el Mundial 2022 en casa' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/como-asar-castanas-freidora-aire-1155947'>Cómo asar castañas en la freidora de aire</a></h4>
     <a href='https://computerhoy.com/noticias/life/como-asar-castanas-freidora-aire-1155947' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/como-asar-castanas-freidora-aire-2872147.jpg' alt='Cómo asar castañas en la freidora de aire' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/velo-luggage-maleta-cambia-tamano-video-1155945'>Esta maleta cambia de tamaño según la cantidad de equipaje que lleves (vídeo)</a></h4>
     <a href='https://computerhoy.com/noticias/life/velo-luggage-maleta-cambia-tamano-video-1155945' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/verticalimage1668473554184-2872143.jpg' alt='Esta maleta cambia de tamaño según la cantidad de equipaje que lleves (vídeo)' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/gemelo-digital-tierra-eo-dt-nvidia-lockheed-martin-earth-2-cambio-climatico-1155941'>NVIDIA y Lockheed Martin presentan EO-DT, un gemelo digital de la Tierra que puede salvar a la humanidad</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/gemelo-digital-tierra-eo-dt-nvidia-lockheed-martin-earth-2-cambio-climatico-1155941' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/nvidia-lockheed-martin-estan-punto-presentar-earth-2-gemelo-digital-tierra-puede-salvar-humanidad-2872137.jpg' alt='NVIDIA y Lockheed Martin presentan EO-DT, un gemelo digital de la Tierra que puede salvar a la humanidad' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/chromecast-con-google-tv-descuento-black-friday-1155929'>El Black Friday se adelanta para Google: Amazon ha rebajado este Chromecast a 30€, el principal competidor de Fire TV Stick</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/chromecast-con-google-tv-descuento-black-friday-1155929' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/chromecast-google-tv-hd-version-economica-reproductor-inteligente-google-2821565.jpg' alt='El Black Friday se adelanta para Google: Amazon ha rebajado este Chromecast a 30€, el principal competidor de Fire TV Stick' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/blockbuster-serie-comedia-netflix-fracaso-audiencia-1155919'>Netflix pincha con una serie que tenía todo para convencer a los suscriptores: Blockbuster</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/blockbuster-serie-comedia-netflix-fracaso-audiencia-1155919' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/verticalimage1668456272628-2872111.jpg' alt='Netflix pincha con una serie que tenía todo para convencer a los suscriptores: Blockbuster' />
     </a>
 </div>
 
