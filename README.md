@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/xiaomi-mi-smart-air-fryer-freidora-aire-descuento-1156335'>Xiaomi Mi Smart Air Fryer, la freidora de aire estrella de Xiaomi, baja un 30% y solo cuesta 69,99 euros</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/xiaomi-mi-smart-air-fryer-freidora-aire-descuento-1156335' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/xiaomi-mi-smart-air-fryer-35l-2418907.jpg' alt='Xiaomi Mi Smart Air Fryer, la freidora de aire estrella de Xiaomi, baja un 30% y solo cuesta 69,99 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/los-fraguel-apple-tv-especial-navidad-1156321'>Vuelven Los Fraguel a Apple TV+ en un especial de Navidad para disfrutar en familia</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/los-fraguel-apple-tv-especial-navidad-1156321' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/verticalimage1668544372520-2872949.jpg' alt='Vuelven Los Fraguel a Apple TV+ en un especial de Navidad para disfrutar en familia' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/adios-windows-81-microsoft-quiere-te-compres-nuevo-ordenador-tener-windows-11-1156319'>Adiós a Windows 8.1: Microsoft quiere que te compres un nuevo ordenador para tener Windows 11</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/adios-windows-81-microsoft-quiere-te-compres-nuevo-ordenador-tener-windows-11-1156319' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/windows-2872935.jpg' alt='Adiós a Windows 8.1: Microsoft quiere que te compres un nuevo ordenador para tener Windows 11' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/todo-legado-puede-perderse-twitter-quiebra-expertos-1156317'>Este es todo el legado que puede perderse si Twitter quiebra, según expertos</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/todo-legado-puede-perderse-twitter-quiebra-expertos-1156317' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/legado-twitter-2872933.jpg' alt='Este es todo el legado que puede perderse si Twitter quiebra, según expertos' />
     </a>
 </div>
 
