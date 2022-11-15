@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/como-asar-castanas-freidora-aire-1155947'>Cómo asar castañas en la freidora de aire</a></h4>
+    <a href='https://computerhoy.com/noticias/life/como-asar-castanas-freidora-aire-1155947' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/como-asar-castanas-freidora-aire-2872147.jpg' alt='Cómo asar castañas en la freidora de aire' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/velo-luggage-maleta-cambia-tamano-video-1155945'>Esta maleta cambia de tamaño según la cantidad de equipaje que lleves (vídeo)</a></h4>
+    <a href='https://computerhoy.com/noticias/life/velo-luggage-maleta-cambia-tamano-video-1155945' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/verticalimage1668473554184-2872143.jpg' alt='Esta maleta cambia de tamaño según la cantidad de equipaje que lleves (vídeo)' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/gemelo-digital-tierra-eo-dt-nvidia-lockheed-martin-earth-2-cambio-climatico-1155941'>NVIDIA y Lockheed Martin presentan EO-DT, un gemelo digital de la Tierra que puede salvar a la humanidad</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/gemelo-digital-tierra-eo-dt-nvidia-lockheed-martin-earth-2-cambio-climatico-1155941' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/nvidia-lockheed-martin-estan-punto-presentar-earth-2-gemelo-digital-tierra-puede-salvar-humanidad-2872137.jpg' alt='NVIDIA y Lockheed Martin presentan EO-DT, un gemelo digital de la Tierra que puede salvar a la humanidad' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/blockbuster-serie-comedia-netflix-fracaso-audiencia-1155919'>Netflix pincha con una serie que tenía todo para convencer a los suscriptores: Blockbuster</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/blockbuster-serie-comedia-netflix-fracaso-audiencia-1155919' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/verticalimage1668456272628-2872111.jpg' alt='Netflix pincha con una serie que tenía todo para convencer a los suscriptores: Blockbuster' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/nave-secreta-fuerza-espacial-estados-unidos-regresa-estar-25-anos-orbita-misterio-mision-verdadera-1155915'>Esta nave secreta de la Fuerza Espacial de Estados Unidos regresa tras estar 2,5 años en órbita, y es un misterio su misión verdadera</a></h4>
-    <a href='https://computerhoy.com/noticias/life/nave-secreta-fuerza-espacial-estados-unidos-regresa-estar-25-anos-orbita-misterio-mision-verdadera-1155915' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/x-37b-2872109.jpg' alt='Esta nave secreta de la Fuerza Espacial de Estados Unidos regresa tras estar 2,5 años en órbita, y es un misterio su misión verdadera' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/nuevas-gafas-vr-apple-entrarian-produccion-2023-precio-astronomico-1155913'>Las nuevas gafas VR de Apple entrarían a producción en 2023 a un precio astronómico</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/nuevas-gafas-vr-apple-entrarian-produccion-2023-precio-astronomico-1155913' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/concepto-realidad-virtual-2872105.jpg' alt='Las nuevas gafas VR de Apple entrarían a producción en 2023 a un precio astronómico' />
     </a>
 </div>
 
