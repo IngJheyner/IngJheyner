@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/jersey-feo-navidad-microsoft-clippy-2022-1156727'>El jersey feo navideño de Microsoft está de vuelta, y te va a provocar pesadillas con Clippy</a></h4>
+    <a href='https://computerhoy.com/noticias/life/jersey-feo-navidad-microsoft-clippy-2022-1156727' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/horrible-jersey-navideno-microsoft-vuelta-te-va-provocar-pesadillas-2873893.jpg' alt='El jersey feo navideño de Microsoft está de vuelta, y te va a provocar pesadillas con Clippy' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/samsung-smart-monitor-m7-oferta-1156719'>Samsung acelera con sus ofertas de Black Friday: 30% de descuento en su monitor y Smart TV de 32 pulgadas</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/samsung-smart-monitor-m7-oferta-1156719' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/samsung-acelera-ofertas-black-friday-30-descuento-monitor-smart-tv-32-pulgadas-2873873.jpg' alt='Samsung acelera con sus ofertas de Black Friday: 30% de descuento en su monitor y Smart TV de 32 pulgadas' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/ojo-usas-poco-cuenta-paypal-va-cobrar-comision-cuentas-inactivas-1156671'>Ojo si usas poco tu cuenta de PayPal: va a cobrar comisión a las cuentas inactivas</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/ojo-usas-poco-cuenta-paypal-va-cobrar-comision-cuentas-inactivas-1156671' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/paypal-2792085.jpg' alt='Ojo si usas poco tu cuenta de PayPal: va a cobrar comisión a las cuentas inactivas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/teoria-explica-podriamos-estar-solos-universo-1156695'>Esta teoría explica por qué podríamos estar solos en el universo</a></h4>
-    <a href='https://computerhoy.com/noticias/life/teoria-explica-podriamos-estar-solos-universo-1156695' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/planeta-tierra-2873795.jpg' alt='Esta teoría explica por qué podríamos estar solos en el universo' />
     </a>
 </div>
 
