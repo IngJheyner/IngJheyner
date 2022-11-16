@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/onlyfans-como-funciona-red-social-adultos-polemica-809761'>Qué es OnlyFans, cómo funciona y cómo ganar dinero en la red social más polémica</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/onlyfans-como-funciona-red-social-adultos-polemica-809761' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/onlyfans-2556899.jpg' alt='Qué es OnlyFans, cómo funciona y cómo ganar dinero en la red social más polémica' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/airpods-apple-demuestran-ser-tan-efectivos-como-audifonos-cuestan-miles-euros-1156591'>Los AirPods de Apple demuestran ser tan efectivos como audífonos que cuestan miles de euros</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/airpods-apple-demuestran-ser-tan-efectivos-como-audifonos-cuestan-miles-euros-1156591' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/apple-airpods-pro-2-analisis-opinion-2844267.jpg' alt='Los AirPods de Apple demuestran ser tan efectivos como audífonos que cuestan miles de euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/motor/hidrogeno-podria-convertirse-salvacion-coches-diesel-gasolina-actuales-1156601'>El hidrógeno podría convertirse en la salvación para los coches de diésel y gasolina actuales</a></h4>
     <a href='https://computerhoy.com/noticias/motor/hidrogeno-podria-convertirse-salvacion-coches-diesel-gasolina-actuales-1156601' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/autonomia-media-coche-hidrogeno-cuesta-llenar-deposito-2871905.jpg' alt='El hidrógeno podría convertirse en la salvación para los coches de diésel y gasolina actuales' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/whatsapp-ya-permite-envio-mensajes-mismo-como-bloc-notas-1156543'>WhatsApp ya permite el envío de mensajes a uno mismo como un bloc de notas</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/whatsapp-ya-permite-envio-mensajes-mismo-como-bloc-notas-1156543' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/nueva-funcion-whatsapp-enviarte-mensajes-ti-mismo-como-bloc-notas-2873477.jpg' alt='WhatsApp ya permite el envío de mensajes a uno mismo como un bloc de notas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/apple-quiere-mejorar-fallos-pantalla-always-display-nuevos-iphone-14-pro-pro-max-1156517'>Apple quiere mejorar los fallos de la pantalla Always On Display en los nuevos iPhone 14 Pro y Pro Max </a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/apple-quiere-mejorar-fallos-pantalla-always-display-nuevos-iphone-14-pro-pro-max-1156517' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/apple-mejorara-grandes-fallos-pantalla-always-display-nuevos-iphone-14-pro-pro-max-2873397.jpg' alt='Apple quiere mejorar los fallos de la pantalla Always On Display en los nuevos iPhone 14 Pro y Pro Max ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/albert-einstein-steve-jobs-compartian-handicap-superarlo-ayudo-desarrollar-todo-potencial-1156499'>Albert Einstein y Steve Jobs compartían un hándicap y superarlo les ayudó a desarrollar todo su potencial</a></h4>
-    <a href='https://computerhoy.com/noticias/life/albert-einstein-steve-jobs-compartian-handicap-superarlo-ayudo-desarrollar-todo-potencial-1156499' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/steve-jobs-albert-einstein-2873385.jpg' alt='Albert Einstein y Steve Jobs compartían un hándicap y superarlo les ayudó a desarrollar todo su potencial' />
     </a>
 </div>
 
