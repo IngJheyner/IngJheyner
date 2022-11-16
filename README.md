@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/queda-snapdragon-8-gen-2-frente-competencia-directa-top-1156385'>El nuevo Snapdragon 8 Gen 2 cara a cara frente a su competencia directa top </a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/queda-snapdragon-8-gen-2-frente-competencia-directa-top-1156385' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/queda-snapdragon-8-gen-2-frente-competencia-directa-top-2873131.jpg' alt='El nuevo Snapdragon 8 Gen 2 cara a cara frente a su competencia directa top ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-reproductores-streaming-tv-vacaciones-880673'>5 reproductores de streaming que puedes usar en cualquier TV en tus vacaciones</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-reproductores-streaming-tv-vacaciones-880673' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/chromecast-google-tv-2366821.jpg' alt='5 reproductores de streaming que puedes usar en cualquier TV en tus vacaciones' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/tatuajes-inteligentes-nueva-tendencia-wearable-puro-estilo-cyberpunk-1156369'>Tatuajes inteligentes, la nueva tendencia wearable al más puro estilo Cyberpunk</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/tatuajes-inteligentes-nueva-tendencia-wearable-puro-estilo-cyberpunk-1156369' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/tatuaje-interactivo-2873057.jpg' alt='Tatuajes inteligentes, la nueva tendencia wearable al más puro estilo Cyberpunk' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/cuando-celebra-black-friday-movistar-1156209'>Movistar es de las primeras en adelantarse al Black Friday: descuentos para clientes</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/cuando-celebra-black-friday-movistar-1156209' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/entrada-tienda-movistar-2872809.jpg' alt='Movistar es de las primeras en adelantarse al Black Friday: descuentos para clientes' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/tecnologia-detras-partidos-qatar-2022-mundial-futbol-avanzado-historia-1153733'>La tecnología detrás de los partidos de Qatar 2022: el Mundial de fútbol más avanzado de la historia</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/tecnologia-detras-partidos-qatar-2022-mundial-futbol-avanzado-historia-1153733' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/tecnologia-mundial-qatar-2022-2868311.jpg' alt='La tecnología detrás de los partidos de Qatar 2022: el Mundial de fútbol más avanzado de la historia' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/31-noticias-tecnologia-comenzar-manana-informado-ultimo-1156349'>31 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/31-noticias-tecnologia-comenzar-manana-informado-ultimo-1156349' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/29-noticias-tecnologia-comenzar-manana-informado-ultimo-2873013.jpg' alt='31 noticias de tecnología para comenzar la mañana informado de lo último' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/guia-compra/portatil-huawei'>Comprar un portátil Huawei: guía para elegir el mejor modelo</a></h4>
-    <a href='https://computerhoy.com/guia-compra/portatil-huawei' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/huawei-matebook-x-pro-2022-analisis-opinion-2851031.jpg' alt='Comprar un portátil Huawei: guía para elegir el mejor modelo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/halfgrid-transporte-autonomo-urbano-cabinas-suspendidas-cable-video-1156345'>El nuevo transporte autónomo urbano: pods individuales suspendidos por cable (vídeo)</a></h4>
-    <a href='https://computerhoy.com/noticias/life/halfgrid-transporte-autonomo-urbano-cabinas-suspendidas-cable-video-1156345' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/verticalimage1668570248739-2873009.jpg' alt='El nuevo transporte autónomo urbano: pods individuales suspendidos por cable (vídeo)' />
     </a>
 </div>
 
