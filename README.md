@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/apple-quiere-mejorar-fallos-pantalla-always-display-nuevos-iphone-14-pro-pro-max-1156517'>Apple quiere mejorar los fallos de la pantalla Always On Display en los nuevos iPhone 14 Pro y Pro Max </a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/apple-quiere-mejorar-fallos-pantalla-always-display-nuevos-iphone-14-pro-pro-max-1156517' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/apple-mejorara-grandes-fallos-pantalla-always-display-nuevos-iphone-14-pro-pro-max-2873397.jpg' alt='Apple quiere mejorar los fallos de la pantalla Always On Display en los nuevos iPhone 14 Pro y Pro Max ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/albert-einstein-steve-jobs-compartian-handicap-superarlo-ayudo-desarrollar-todo-potencial-1156499'>Albert Einstein y Steve Jobs compartían un hándicap y superarlo les ayudó a desarrollar todo su potencial</a></h4>
+    <a href='https://computerhoy.com/noticias/life/albert-einstein-steve-jobs-compartian-handicap-superarlo-ayudo-desarrollar-todo-potencial-1156499' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/steve-jobs-albert-einstein-2873385.jpg' alt='Albert Einstein y Steve Jobs compartían un hándicap y superarlo les ayudó a desarrollar todo su potencial' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/mision-artemis-i-nasa-ha-comenzado-objetivos-misiones-futuras-vuelta-luna-1156483'>La misión Artemis I de la NASA ha comenzado: objetivos, misiones futuras y más sobre la vuelta a la Luna</a></h4>
     <a href='https://computerhoy.com/noticias/life/mision-artemis-i-nasa-ha-comenzado-objetivos-misiones-futuras-vuelta-luna-1156483' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/mision-artemis-i-nasa-ha-comenzado-objetivos-misiones-futuras-vuelta-luna-2873341.jpg' alt='La misión Artemis I de la NASA ha comenzado: objetivos, misiones futuras y más sobre la vuelta a la Luna' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/listas/tecnologia/todos-dispositivos-amazon-han-rebajado-antes-black-friday-1156329'>Todos los dispositivos de Amazon que han rebajado antes del Black Friday</a></h4>
     <a href='https://computerhoy.com/listas/tecnologia/todos-dispositivos-amazon-han-rebajado-antes-black-friday-1156329' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/todos-dispositivos-amazon-han-rebajado-antes-black-friday-2872967.jpg' alt='Todos los dispositivos de Amazon que han rebajado antes del Black Friday' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/noches-zonas-como-europa-cada-vez-son-brillantes-mapa-contaminacion-luminica-1156441'>Las noches en zonas como Europa cada vez son más brillantes según este mapa sobre contaminación lumínica</a></h4>
-    <a href='https://computerhoy.com/noticias/life/noches-zonas-como-europa-cada-vez-son-brillantes-mapa-contaminacion-luminica-1156441' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/mapa-contaminacion-luminica-europa-peores-lugares-ver-estrellas-2873201.jpg' alt='Las noches en zonas como Europa cada vez son más brillantes según este mapa sobre contaminación lumínica' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/whatsapp-actualizara-camara-aplicacion-muchos-anos-quejas-1156459'>WhatsApp actualizará la cámara de la aplicación tras muchos años de quejas</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/whatsapp-actualizara-camara-aplicacion-muchos-anos-quejas-1156459' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/whatsapp-2812871.jpg' alt='WhatsApp actualizará la cámara de la aplicación tras muchos años de quejas' />
     </a>
 </div>
 
