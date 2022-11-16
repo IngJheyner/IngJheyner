@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-reproductores-streaming-tv-vacaciones-880673'>5 reproductores de streaming que puedes usar en cualquier TV en tus vacaciones</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-reproductores-streaming-tv-vacaciones-880673' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/chromecast-google-tv-2366821.jpg' alt='5 reproductores de streaming que puedes usar en cualquier TV en tus vacaciones' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/onlyfans-como-funciona-red-social-adultos-polemica-809761'>Qué es OnlyFans, cómo funciona y cómo ganar dinero en la red social más polémica</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/onlyfans-como-funciona-red-social-adultos-polemica-809761' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/onlyfans-2556899.jpg' alt='Qué es OnlyFans, cómo funciona y cómo ganar dinero en la red social más polémica' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/gaming/youtube-tiene-nuevo-rey-adios-pewdiepie-hola-mrbeast-puesto-estan-primeros-espanoles-1156589'>YouTube tiene nuevo rey: adiós PewDiePie, hola MrBeast, ¿en qué puesto están los primeros españoles?</a></h4>
     <a href='https://computerhoy.com/noticias/gaming/youtube-tiene-nuevo-rey-adios-pewdiepie-hola-mrbeast-puesto-estan-primeros-espanoles-1156589' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/youtube-2873521.jpg' alt='YouTube tiene nuevo rey: adiós PewDiePie, hola MrBeast, ¿en qué puesto están los primeros españoles?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/whatsapp-ya-permite-envio-mensajes-mismo-como-bloc-notas-1156543'>WhatsApp ya permite el envío de mensajes a uno mismo como un bloc de notas</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/whatsapp-ya-permite-envio-mensajes-mismo-como-bloc-notas-1156543' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/nueva-funcion-whatsapp-enviarte-mensajes-ti-mismo-como-bloc-notas-2873477.jpg' alt='WhatsApp ya permite el envío de mensajes a uno mismo como un bloc de notas' />
     </a>
 </div>
 
