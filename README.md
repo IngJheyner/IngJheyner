@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/noches-zonas-como-europa-cada-vez-son-brillantes-mapa-contaminacion-luminica-1156441'>Las noches en zonas como Europa cada vez son más brillantes según este mapa sobre contaminación lumínica</a></h4>
+    <a href='https://computerhoy.com/noticias/life/noches-zonas-como-europa-cada-vez-son-brillantes-mapa-contaminacion-luminica-1156441' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/mapa-contaminacion-luminica-europa-peores-lugares-ver-estrellas-2873201.jpg' alt='Las noches en zonas como Europa cada vez son más brillantes según este mapa sobre contaminación lumínica' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/whatsapp-actualizara-camara-aplicacion-muchos-anos-quejas-1156459'>WhatsApp actualizará la cámara de la aplicación tras muchos años de quejas</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/whatsapp-actualizara-camara-aplicacion-muchos-anos-quejas-1156459' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/whatsapp-2812871.jpg' alt='WhatsApp actualizará la cámara de la aplicación tras muchos años de quejas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/confirma-existencia-agujeros-gusano-podriamos-usar-viajar-espacio-1156381'>Se confirma la existencia de los agujeros de gusano que podríamos usar para viajar por el espacio</a></h4>
     <a href='https://computerhoy.com/noticias/life/confirma-existencia-agujeros-gusano-podriamos-usar-viajar-espacio-1156381' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/agujeros-gusano-existen-cientificos-ya-saben-como-encontrarlos-viajar-espacio-2873179.jpg' alt='Se confirma la existencia de los agujeros de gusano que podríamos usar para viajar por el espacio' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/queda-snapdragon-8-gen-2-frente-competencia-directa-top-1156385'>El nuevo Snapdragon 8 Gen 2 cara a cara frente a su competencia directa top </a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/queda-snapdragon-8-gen-2-frente-competencia-directa-top-1156385' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/queda-snapdragon-8-gen-2-frente-competencia-directa-top-2873131.jpg' alt='El nuevo Snapdragon 8 Gen 2 cara a cara frente a su competencia directa top ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-reproductores-streaming-tv-vacaciones-880673'>5 reproductores de streaming que puedes usar en cualquier TV en tus vacaciones</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-reproductores-streaming-tv-vacaciones-880673' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/chromecast-google-tv-2366821.jpg' alt='5 reproductores de streaming que puedes usar en cualquier TV en tus vacaciones' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/tatuajes-inteligentes-nueva-tendencia-wearable-puro-estilo-cyberpunk-1156369'>Tatuajes inteligentes, la nueva tendencia wearable al más puro estilo Cyberpunk</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/tatuajes-inteligentes-nueva-tendencia-wearable-puro-estilo-cyberpunk-1156369' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/tatuaje-interactivo-2873057.jpg' alt='Tatuajes inteligentes, la nueva tendencia wearable al más puro estilo Cyberpunk' />
     </a>
 </div>
 
