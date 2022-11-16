@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/samsung-smart-monitor-m7-oferta-1156719'>Samsung acelera con sus ofertas de Black Friday: 30% de descuento en su monitor y Smart TV de 32 pulgadas</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/samsung-smart-monitor-m7-oferta-1156719' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/samsung-acelera-ofertas-black-friday-30-descuento-monitor-smart-tv-32-pulgadas-2873873.jpg' alt='Samsung acelera con sus ofertas de Black Friday: 30% de descuento en su monitor y Smart TV de 32 pulgadas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/ruido-ciudad-cambiando-siempre-pajaros-1156673'>El ruido de la ciudad está cambiando para siempre a los pájaros</a></h4>
     <a href='https://computerhoy.com/noticias/life/ruido-ciudad-cambiando-siempre-pajaros-1156673' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/declive-pajaros-2826683.jpg' alt='El ruido de la ciudad está cambiando para siempre a los pájaros' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/teoria-explica-podriamos-estar-solos-universo-1156695'>Esta teoría explica por qué podríamos estar solos en el universo</a></h4>
     <a href='https://computerhoy.com/noticias/life/teoria-explica-podriamos-estar-solos-universo-1156695' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/planeta-tierra-2873795.jpg' alt='Esta teoría explica por qué podríamos estar solos en el universo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/mercado-criptomonedas-cerca-cobrarse-otra-victima-blockfi-podria-declararse-bancarrota-1156689'>El mercado de las criptomonedas cerca de cobrarse otra víctima: BlockFi podría declararse en bancarrota</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/mercado-criptomonedas-cerca-cobrarse-otra-victima-blockfi-podria-declararse-bancarrota-1156689' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/crisis-criptomonedas-2873775.jpg' alt='El mercado de las criptomonedas cerca de cobrarse otra víctima: BlockFi podría declararse en bancarrota' />
     </a>
 </div>
 
