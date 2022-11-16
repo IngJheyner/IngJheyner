@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/amazon-despidos-10000-empleos-1156343'>Amazon también quiere competir con Facebook en despidos: echa a 10.000 trabajadores</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/amazon-despidos-10000-empleos-1156343' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/almacenes-amazon-2436533.jpg' alt='Amazon también quiere competir con Facebook en despidos: echa a 10.000 trabajadores' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/netflix-estrena-funcion-expulsar-cualquier-dispositivo-cuenta-forma-remota-1156341'>Netflix estrena una función para expulsar a cualquier dispositivo de tu cuenta, de forma remota</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/netflix-estrena-funcion-expulsar-cualquier-dispositivo-cuenta-forma-remota-1156341' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/netflix-estrena-funcion-expulsar-cualquier-dispositivo-cuenta-forma-remota-2873005.jpg' alt='Netflix estrena una función para expulsar a cualquier dispositivo de tu cuenta, de forma remota' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/xiaomi-mi-smart-air-fryer-freidora-aire-descuento-1156335'>Xiaomi Mi Smart Air Fryer, la freidora de aire estrella de Xiaomi, baja un 30% y solo cuesta 69,99 euros</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/xiaomi-mi-smart-air-fryer-freidora-aire-descuento-1156335' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/xiaomi-mi-smart-air-fryer-35l-2418907.jpg' alt='Xiaomi Mi Smart Air Fryer, la freidora de aire estrella de Xiaomi, baja un 30% y solo cuesta 69,99 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/los-fraguel-apple-tv-especial-navidad-1156321'>Vuelven Los Fraguel a Apple TV+ en un especial de Navidad para disfrutar en familia</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/los-fraguel-apple-tv-especial-navidad-1156321' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/verticalimage1668544372520-2872949.jpg' alt='Vuelven Los Fraguel a Apple TV+ en un especial de Navidad para disfrutar en familia' />
     </a>
 </div>
 
