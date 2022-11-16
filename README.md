@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/confirma-existencia-agujeros-gusano-podriamos-usar-viajar-espacio-1156381'>Se confirma la existencia de los agujeros de gusano que podríamos usar para viajar por el espacio</a></h4>
+    <a href='https://computerhoy.com/noticias/life/confirma-existencia-agujeros-gusano-podriamos-usar-viajar-espacio-1156381' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/agujeros-gusano-existen-cientificos-ya-saben-como-encontrarlos-viajar-espacio-2873179.jpg' alt='Se confirma la existencia de los agujeros de gusano que podríamos usar para viajar por el espacio' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/412-km-h-nuevo-record-velocidad-maxima-coche-electrico-fabricado-serie-no-no-tesla-1156393'>412 km/h es el nuevo récord de velocidad máxima en coche eléctrico fabricado en serie y no, no es un Tesla</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/412-km-h-nuevo-record-velocidad-maxima-coche-electrico-fabricado-serie-no-no-tesla-1156393' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/rimac-nevera-2873175.jpg' alt='412 km/h es el nuevo récord de velocidad máxima en coche eléctrico fabricado en serie y no, no es un Tesla' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/queda-snapdragon-8-gen-2-frente-competencia-directa-top-1156385'>El nuevo Snapdragon 8 Gen 2 cara a cara frente a su competencia directa top </a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/queda-snapdragon-8-gen-2-frente-competencia-directa-top-1156385' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/queda-snapdragon-8-gen-2-frente-competencia-directa-top-2873131.jpg' alt='El nuevo Snapdragon 8 Gen 2 cara a cara frente a su competencia directa top ' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/tatuajes-inteligentes-nueva-tendencia-wearable-puro-estilo-cyberpunk-1156369'>Tatuajes inteligentes, la nueva tendencia wearable al más puro estilo Cyberpunk</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/tatuajes-inteligentes-nueva-tendencia-wearable-puro-estilo-cyberpunk-1156369' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/tatuaje-interactivo-2873057.jpg' alt='Tatuajes inteligentes, la nueva tendencia wearable al más puro estilo Cyberpunk' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/cuando-celebra-black-friday-movistar-1156209'>Movistar es de las primeras en adelantarse al Black Friday: descuentos para clientes</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/cuando-celebra-black-friday-movistar-1156209' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/entrada-tienda-movistar-2872809.jpg' alt='Movistar es de las primeras en adelantarse al Black Friday: descuentos para clientes' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/tecnologia-detras-partidos-qatar-2022-mundial-futbol-avanzado-historia-1153733'>La tecnología detrás de los partidos de Qatar 2022: el Mundial de fútbol más avanzado de la historia</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/tecnologia-detras-partidos-qatar-2022-mundial-futbol-avanzado-historia-1153733' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/tecnologia-mundial-qatar-2022-2868311.jpg' alt='La tecnología detrás de los partidos de Qatar 2022: el Mundial de fútbol más avanzado de la historia' />
     </a>
 </div>
 
