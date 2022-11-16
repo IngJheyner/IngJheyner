@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/mision-artemis-i-nasa-ha-comenzado-objetivos-misiones-futuras-vuelta-luna-1156483'>La misión Artemis I de la NASA ha comenzado: objetivos, misiones futuras y más sobre la vuelta a la Luna</a></h4>
+    <a href='https://computerhoy.com/noticias/life/mision-artemis-i-nasa-ha-comenzado-objetivos-misiones-futuras-vuelta-luna-1156483' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/mision-artemis-i-nasa-ha-comenzado-objetivos-misiones-futuras-vuelta-luna-2873341.jpg' alt='La misión Artemis I de la NASA ha comenzado: objetivos, misiones futuras y más sobre la vuelta a la Luna' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/matematico-resolvio-enigma-numeros-primos-afirma-haber-resuelto-otra-celebre-hipotesis-1156463'>El matemático que resolvió el enigma de los números primos afirma haber resuelto otra célebre hipótesis</a></h4>
+    <a href='https://computerhoy.com/noticias/life/matematico-resolvio-enigma-numeros-primos-afirma-haber-resuelto-otra-celebre-hipotesis-1156463' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/matematicas-formulas-pizarras-2299705.jpg' alt='El matemático que resolvió el enigma de los números primos afirma haber resuelto otra célebre hipótesis' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/listas/tecnologia/todos-dispositivos-amazon-han-rebajado-antes-black-friday-1156329'>Todos los dispositivos de Amazon que han rebajado antes del Black Friday</a></h4>
+    <a href='https://computerhoy.com/listas/tecnologia/todos-dispositivos-amazon-han-rebajado-antes-black-friday-1156329' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/todos-dispositivos-amazon-han-rebajado-antes-black-friday-2872967.jpg' alt='Todos los dispositivos de Amazon que han rebajado antes del Black Friday' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/noches-zonas-como-europa-cada-vez-son-brillantes-mapa-contaminacion-luminica-1156441'>Las noches en zonas como Europa cada vez son más brillantes según este mapa sobre contaminación lumínica</a></h4>
     <a href='https://computerhoy.com/noticias/life/noches-zonas-como-europa-cada-vez-son-brillantes-mapa-contaminacion-luminica-1156441' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/mapa-contaminacion-luminica-europa-peores-lugares-ver-estrellas-2873201.jpg' alt='Las noches en zonas como Europa cada vez son más brillantes según este mapa sobre contaminación lumínica' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/whatsapp-actualizara-camara-aplicacion-muchos-anos-quejas-1156459'>WhatsApp actualizará la cámara de la aplicación tras muchos años de quejas</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/whatsapp-actualizara-camara-aplicacion-muchos-anos-quejas-1156459' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/whatsapp-2812871.jpg' alt='WhatsApp actualizará la cámara de la aplicación tras muchos años de quejas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/confirma-existencia-agujeros-gusano-podriamos-usar-viajar-espacio-1156381'>Se confirma la existencia de los agujeros de gusano que podríamos usar para viajar por el espacio</a></h4>
-    <a href='https://computerhoy.com/noticias/life/confirma-existencia-agujeros-gusano-podriamos-usar-viajar-espacio-1156381' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/agujeros-gusano-existen-cientificos-ya-saben-como-encontrarlos-viajar-espacio-2873179.jpg' alt='Se confirma la existencia de los agujeros de gusano que podríamos usar para viajar por el espacio' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/412-km-h-nuevo-record-velocidad-maxima-coche-electrico-fabricado-serie-no-no-tesla-1156393'>412 km/h es el nuevo récord de velocidad máxima en coche eléctrico fabricado en serie y no, no es un Tesla</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/412-km-h-nuevo-record-velocidad-maxima-coche-electrico-fabricado-serie-no-no-tesla-1156393' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/rimac-nevera-2873175.jpg' alt='412 km/h es el nuevo récord de velocidad máxima en coche eléctrico fabricado en serie y no, no es un Tesla' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/queda-snapdragon-8-gen-2-frente-competencia-directa-top-1156385'>El nuevo Snapdragon 8 Gen 2 cara a cara frente a su competencia directa top </a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/queda-snapdragon-8-gen-2-frente-competencia-directa-top-1156385' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/queda-snapdragon-8-gen-2-frente-competencia-directa-top-2873131.jpg' alt='El nuevo Snapdragon 8 Gen 2 cara a cara frente a su competencia directa top ' />
     </a>
 </div>
 
