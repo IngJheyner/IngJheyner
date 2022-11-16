@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/guia-compra/portatil-huawei'>Comprar un portátil Huawei: guía para elegir el mejor modelo</a></h4>
+    <a href='https://computerhoy.com/guia-compra/portatil-huawei' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/huawei-matebook-x-pro-2022-analisis-opinion-2851031.jpg' alt='Comprar un portátil Huawei: guía para elegir el mejor modelo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/halfgrid-transporte-autonomo-urbano-cabinas-suspendidas-cable-video-1156345'>El nuevo transporte autónomo urbano: cabinas suspendidas por cable (vídeo)</a></h4>
     <a href='https://computerhoy.com/noticias/life/halfgrid-transporte-autonomo-urbano-cabinas-suspendidas-cable-video-1156345' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/verticalimage1668570248739-2873009.jpg' alt='El nuevo transporte autónomo urbano: cabinas suspendidas por cable (vídeo)' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/qualcomm-snapdragon-8-gen-2-llega-ray-tracing-audio-espacial-wifi-7-moviles-2023-1154659'>Qualcomm Snapdragon 8 Gen 2 llega con Ray Tracing, audio espacial y WiFi 7 para los móviles de 2023</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/qualcomm-snapdragon-8-gen-2-llega-ray-tracing-audio-espacial-wifi-7-moviles-2023-1154659' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/qualcomm-snapdragon-8-gen-2-2870869.jpg' alt='Qualcomm Snapdragon 8 Gen 2 llega con Ray Tracing, audio espacial y WiFi 7 para los móviles de 2023' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/corregir-elon-musk-ha-costado-trabajo-desarrollador-aunque-tenia-razon-1156305'>Corregir a Elon Musk le ha costado su trabajo a este desarrollador... aunque tenía razón</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/corregir-elon-musk-ha-costado-trabajo-desarrollador-aunque-tenia-razon-1156305' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/elon-musk-2658491.jpg' alt='Corregir a Elon Musk le ha costado su trabajo a este desarrollador... aunque tenía razón' />
     </a>
 </div>
 
