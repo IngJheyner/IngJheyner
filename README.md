@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/hidrogeno-podria-convertirse-salvacion-coches-diesel-gasolina-actuales-1156601'>El hidrógeno podría convertirse en la salvación para los coches de diésel y gasolina actuales</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/hidrogeno-podria-convertirse-salvacion-coches-diesel-gasolina-actuales-1156601' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/autonomia-media-coche-hidrogeno-cuesta-llenar-deposito-2871905.jpg' alt='El hidrógeno podría convertirse en la salvación para los coches de diésel y gasolina actuales' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/gaming/youtube-tiene-nuevo-rey-adios-pewdiepie-hola-mrbeast-puesto-estan-primeros-espanoles-1156589'>YouTube tiene nuevo rey: adiós PewDiePie, hola MrBeast, ¿en qué puesto están los primeros españoles?</a></h4>
+    <a href='https://computerhoy.com/noticias/gaming/youtube-tiene-nuevo-rey-adios-pewdiepie-hola-mrbeast-puesto-estan-primeros-espanoles-1156589' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/youtube-2873521.jpg' alt='YouTube tiene nuevo rey: adiós PewDiePie, hola MrBeast, ¿en qué puesto están los primeros españoles?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/whatsapp-ya-permite-envio-mensajes-mismo-como-bloc-notas-1156543'>WhatsApp ya permite el envío de mensajes a uno mismo como un bloc de notas</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/whatsapp-ya-permite-envio-mensajes-mismo-como-bloc-notas-1156543' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/nueva-funcion-whatsapp-enviarte-mensajes-ti-mismo-como-bloc-notas-2873477.jpg' alt='WhatsApp ya permite el envío de mensajes a uno mismo como un bloc de notas' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/albert-einstein-steve-jobs-compartian-handicap-superarlo-ayudo-desarrollar-todo-potencial-1156499'>Albert Einstein y Steve Jobs compartían un hándicap y superarlo les ayudó a desarrollar todo su potencial</a></h4>
     <a href='https://computerhoy.com/noticias/life/albert-einstein-steve-jobs-compartian-handicap-superarlo-ayudo-desarrollar-todo-potencial-1156499' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/steve-jobs-albert-einstein-2873385.jpg' alt='Albert Einstein y Steve Jobs compartían un hándicap y superarlo les ayudó a desarrollar todo su potencial' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/mision-artemis-i-nasa-ha-comenzado-objetivos-misiones-futuras-vuelta-luna-1156483'>La misión Artemis I de la NASA ha comenzado: objetivos, misiones futuras y más sobre la vuelta a la Luna</a></h4>
-    <a href='https://computerhoy.com/noticias/life/mision-artemis-i-nasa-ha-comenzado-objetivos-misiones-futuras-vuelta-luna-1156483' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/mision-artemis-i-nasa-ha-comenzado-objetivos-misiones-futuras-vuelta-luna-2873341.jpg' alt='La misión Artemis I de la NASA ha comenzado: objetivos, misiones futuras y más sobre la vuelta a la Luna' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/matematico-resolvio-enigma-numeros-primos-afirma-haber-resuelto-otra-celebre-hipotesis-1156463'>El matemático que resolvió el enigma de los números primos afirma haber resuelto otra célebre hipótesis</a></h4>
-    <a href='https://computerhoy.com/noticias/life/matematico-resolvio-enigma-numeros-primos-afirma-haber-resuelto-otra-celebre-hipotesis-1156463' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/matematicas-formulas-pizarras-2299705.jpg' alt='El matemático que resolvió el enigma de los números primos afirma haber resuelto otra célebre hipótesis' />
     </a>
 </div>
 
