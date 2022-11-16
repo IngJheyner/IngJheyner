@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/cuando-estrena-black-panther-wakanda-forever-disney-plus-1156713'>¿Cuándo se estrena Black Panther: Wakanda Forever en Disney+?</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/cuando-estrena-black-panther-wakanda-forever-disney-plus-1156713' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/verticalimage1668623773752-2873853.jpg' alt='¿Cuándo se estrena Black Panther: Wakanda Forever en Disney+?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/ojo-usas-poco-cuenta-paypal-va-cobrar-comision-cuentas-inactivas-1156671'>Ojo si usas poco tu cuenta de PayPal: va a cobrar comisión a las cuentas inactivas</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/ojo-usas-poco-cuenta-paypal-va-cobrar-comision-cuentas-inactivas-1156671' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/paypal-2792085.jpg' alt='Ojo si usas poco tu cuenta de PayPal: va a cobrar comisión a las cuentas inactivas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/teoria-explica-podriamos-estar-solos-universo-1156695'>Esta teoría explica por qué podríamos estar solos en el universo</a></h4>
+    <a href='https://computerhoy.com/noticias/life/teoria-explica-podriamos-estar-solos-universo-1156695' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/planeta-tierra-2873795.jpg' alt='Esta teoría explica por qué podríamos estar solos en el universo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/mercado-criptomonedas-cerca-cobrarse-otra-victima-blockfi-podria-declararse-bancarrota-1156689'>El mercado de las criptomonedas cerca de cobrarse otra víctima: BlockFi podría declararse en bancarrota</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/mercado-criptomonedas-cerca-cobrarse-otra-victima-blockfi-podria-declararse-bancarrota-1156689' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/crisis-criptomonedas-2873775.jpg' alt='El mercado de las criptomonedas cerca de cobrarse otra víctima: BlockFi podría declararse en bancarrota' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-reproductores-streaming-tv-vacaciones-880673'>5 reproductores de streaming que puedes usar en cualquier TV en tus vacaciones</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/mejores-reproductores-streaming-tv-vacaciones-880673' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/chromecast-google-tv-2366821.jpg' alt='5 reproductores de streaming que puedes usar en cualquier TV en tus vacaciones' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/onlyfans-como-funciona-red-social-adultos-polemica-809761'>Qué es OnlyFans, cómo funciona y cómo ganar dinero en la red social más polémica</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/onlyfans-como-funciona-red-social-adultos-polemica-809761' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/onlyfans-2556899.jpg' alt='Qué es OnlyFans, cómo funciona y cómo ganar dinero en la red social más polémica' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/airpods-apple-demuestran-ser-tan-efectivos-como-audifonos-cuestan-miles-euros-1156591'>Los AirPods de Apple demuestran ser tan efectivos como audífonos que cuestan miles de euros</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/airpods-apple-demuestran-ser-tan-efectivos-como-audifonos-cuestan-miles-euros-1156591' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/apple-airpods-pro-2-analisis-opinion-2844267.jpg' alt='Los AirPods de Apple demuestran ser tan efectivos como audífonos que cuestan miles de euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/hidrogeno-podria-convertirse-salvacion-coches-diesel-gasolina-actuales-1156601'>El hidrógeno podría convertirse en la salvación para los coches de diésel y gasolina actuales</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/hidrogeno-podria-convertirse-salvacion-coches-diesel-gasolina-actuales-1156601' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/autonomia-media-coche-hidrogeno-cuesta-llenar-deposito-2871905.jpg' alt='El hidrógeno podría convertirse en la salvación para los coches de diésel y gasolina actuales' />
     </a>
 </div>
 
