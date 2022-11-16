@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/cuando-celebra-black-friday-movistar-1156209'>Movistar es de las primeras en adelantarse al Black Friday: descuentos para clientes</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/cuando-celebra-black-friday-movistar-1156209' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/entrada-tienda-movistar-2872809.jpg' alt='Movistar es de las primeras en adelantarse al Black Friday: descuentos para clientes' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/tecnologia-detras-partidos-qatar-2022-mundial-futbol-avanzado-historia-1153733'>La tecnología detrás de los partidos de Qatar 2022: el Mundial de fútbol más avanzado de la historia</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/tecnologia-detras-partidos-qatar-2022-mundial-futbol-avanzado-historia-1153733' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/tecnologia-mundial-qatar-2022-2868311.jpg' alt='La tecnología detrás de los partidos de Qatar 2022: el Mundial de fútbol más avanzado de la historia' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/31-noticias-tecnologia-comenzar-manana-informado-ultimo-1156349'>31 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/31-noticias-tecnologia-comenzar-manana-informado-ultimo-1156349' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/29-noticias-tecnologia-comenzar-manana-informado-ultimo-2873013.jpg' alt='31 noticias de tecnología para comenzar la mañana informado de lo último' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/halfgrid-transporte-autonomo-urbano-cabinas-suspendidas-cable-video-1156345'>El nuevo transporte autónomo urbano: pods individuales suspendidos por cable (vídeo)</a></h4>
     <a href='https://computerhoy.com/noticias/life/halfgrid-transporte-autonomo-urbano-cabinas-suspendidas-cable-video-1156345' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/verticalimage1668570248739-2873009.jpg' alt='El nuevo transporte autónomo urbano: pods individuales suspendidos por cable (vídeo)' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/amazon-despidos-10000-empleos-1156343'>Amazon también quiere competir con Facebook en despidos: echa a 10.000 trabajadores</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/amazon-despidos-10000-empleos-1156343' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/almacenes-amazon-2436533.jpg' alt='Amazon también quiere competir con Facebook en despidos: echa a 10.000 trabajadores' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/netflix-estrena-funcion-expulsar-cualquier-dispositivo-cuenta-forma-remota-1156341'>Netflix estrena una función para expulsar a cualquier dispositivo de tu cuenta, de forma remota</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/netflix-estrena-funcion-expulsar-cualquier-dispositivo-cuenta-forma-remota-1156341' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/netflix-estrena-funcion-expulsar-cualquier-dispositivo-cuenta-forma-remota-2873005.jpg' alt='Netflix estrena una función para expulsar a cualquier dispositivo de tu cuenta, de forma remota' />
     </a>
 </div>
 
