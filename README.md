@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/netflix-estrena-funcion-expulsar-cualquier-dispositivo-cuenta-forma-remota-1156341'>Netflix estrena una función para expulsar a cualquier dispositivo de tu cuenta, de forma remota</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/netflix-estrena-funcion-expulsar-cualquier-dispositivo-cuenta-forma-remota-1156341' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/netflix-estrena-funcion-expulsar-cualquier-dispositivo-cuenta-forma-remota-2873005.jpg' alt='Netflix estrena una función para expulsar a cualquier dispositivo de tu cuenta, de forma remota' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/qualcomm-snapdragon-8-gen-2-llega-ray-tracing-audio-espacial-wifi-7-moviles-2023-1154659'>Qualcomm Snapdragon 8 Gen 2 llega con Ray Tracing, audio espacial y WiFi 7 para los móviles de 2023</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/qualcomm-snapdragon-8-gen-2-llega-ray-tracing-audio-espacial-wifi-7-moviles-2023-1154659' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/qualcomm-snapdragon-8-gen-2-2870869.jpg' alt='Qualcomm Snapdragon 8 Gen 2 llega con Ray Tracing, audio espacial y WiFi 7 para los móviles de 2023' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/corregir-elon-musk-ha-costado-trabajo-desarrollador-aunque-tenia-razon-1156305'>Corregir a Elon Musk le ha costado su trabajo a este desarrollador... aunque tenía razón</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/corregir-elon-musk-ha-costado-trabajo-desarrollador-aunque-tenia-razon-1156305' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/elon-musk-2658491.jpg' alt='Corregir a Elon Musk le ha costado su trabajo a este desarrollador... aunque tenía razón' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/xiaomi-mi-smart-air-fryer-freidora-aire-descuento-1156335'>Xiaomi Mi Smart Air Fryer, la freidora de aire estrella de Xiaomi, baja un 30% y solo cuesta 69,99 euros</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/xiaomi-mi-smart-air-fryer-freidora-aire-descuento-1156335' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/xiaomi-mi-smart-air-fryer-35l-2418907.jpg' alt='Xiaomi Mi Smart Air Fryer, la freidora de aire estrella de Xiaomi, baja un 30% y solo cuesta 69,99 euros' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/los-fraguel-apple-tv-especial-navidad-1156321'>Vuelven Los Fraguel a Apple TV+ en un especial de Navidad para disfrutar en familia</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/los-fraguel-apple-tv-especial-navidad-1156321' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/verticalimage1668544372520-2872949.jpg' alt='Vuelven Los Fraguel a Apple TV+ en un especial de Navidad para disfrutar en familia' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/aplicacion-parece-inofensiva-integra-troyano-te-robara-datos-bancarios-eliminala-ahora-mismo-1156287'>Esta aplicación que parece inofensiva integra un troyano que te robará tus datos bancarios: elimínala ahora mismo</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/aplicacion-parece-inofensiva-integra-troyano-te-robara-datos-bancarios-eliminala-ahora-mismo-1156287' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/malware-android-2490673.jpg' alt='Esta aplicación que parece inofensiva integra un troyano que te robará tus datos bancarios: elimínala ahora mismo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/google-enfrenta-multa-millonaria-haber-recopilado-informacion-ubicacion-permiso-1156261'>Google se enfrenta a una multa millonaria por haber recopilado la información de tu ubicación sin tu permiso</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/google-enfrenta-multa-millonaria-haber-recopilado-informacion-ubicacion-permiso-1156261' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/logo-google-2814219.jpg' alt='Google se enfrenta a una multa millonaria por haber recopilado la información de tu ubicación sin tu permiso' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/adios-windows-81-microsoft-quiere-te-compres-nuevo-ordenador-tener-windows-11-1156319'>Adiós a Windows 8.1: Microsoft quiere que te compres un nuevo ordenador para tener Windows 11</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/adios-windows-81-microsoft-quiere-te-compres-nuevo-ordenador-tener-windows-11-1156319' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/windows-2872935.jpg' alt='Adiós a Windows 8.1: Microsoft quiere que te compres un nuevo ordenador para tener Windows 11' />
     </a>
 </div>
 
