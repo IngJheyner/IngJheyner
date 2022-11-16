@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/halfgrid-transporte-autonomo-urbano-cabinas-suspendidas-cable-video-1156345'>El nuevo transporte autónomo urbano: cabinas suspendidas por cable (vídeo)</a></h4>
+    <a href='https://computerhoy.com/noticias/life/halfgrid-transporte-autonomo-urbano-cabinas-suspendidas-cable-video-1156345' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/verticalimage1668570248739-2873009.jpg' alt='El nuevo transporte autónomo urbano: cabinas suspendidas por cable (vídeo)' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/amazon-despidos-10000-empleos-1156343'>Amazon también quiere competir con Facebook en despidos: echa a 10.000 trabajadores</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/amazon-despidos-10000-empleos-1156343' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/almacenes-amazon-2436533.jpg' alt='Amazon también quiere competir con Facebook en despidos: echa a 10.000 trabajadores' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/corregir-elon-musk-ha-costado-trabajo-desarrollador-aunque-tenia-razon-1156305'>Corregir a Elon Musk le ha costado su trabajo a este desarrollador... aunque tenía razón</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/corregir-elon-musk-ha-costado-trabajo-desarrollador-aunque-tenia-razon-1156305' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/elon-musk-2658491.jpg' alt='Corregir a Elon Musk le ha costado su trabajo a este desarrollador... aunque tenía razón' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/xiaomi-mi-smart-air-fryer-freidora-aire-descuento-1156335'>Xiaomi Mi Smart Air Fryer, la freidora de aire estrella de Xiaomi, baja un 30% y solo cuesta 69,99 euros</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/xiaomi-mi-smart-air-fryer-freidora-aire-descuento-1156335' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/xiaomi-mi-smart-air-fryer-35l-2418907.jpg' alt='Xiaomi Mi Smart Air Fryer, la freidora de aire estrella de Xiaomi, baja un 30% y solo cuesta 69,99 euros' />
     </a>
 </div>
 
