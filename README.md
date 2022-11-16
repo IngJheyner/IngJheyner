@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/ruido-ciudad-cambiando-siempre-pajaros-1156673'>El ruido de la ciudad está cambiando para siempre a los pájaros</a></h4>
+    <a href='https://computerhoy.com/noticias/life/ruido-ciudad-cambiando-siempre-pajaros-1156673' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/declive-pajaros-2826683.jpg' alt='El ruido de la ciudad está cambiando para siempre a los pájaros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/cuando-estrena-black-panther-wakanda-forever-disney-plus-1156713'>¿Cuándo se estrena Black Panther: Wakanda Forever en Disney+?</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/cuando-estrena-black-panther-wakanda-forever-disney-plus-1156713' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/verticalimage1668623773752-2873853.jpg' alt='¿Cuándo se estrena Black Panther: Wakanda Forever en Disney+?' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/mercado-criptomonedas-cerca-cobrarse-otra-victima-blockfi-podria-declararse-bancarrota-1156689'>El mercado de las criptomonedas cerca de cobrarse otra víctima: BlockFi podría declararse en bancarrota</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/mercado-criptomonedas-cerca-cobrarse-otra-victima-blockfi-podria-declararse-bancarrota-1156689' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/crisis-criptomonedas-2873775.jpg' alt='El mercado de las criptomonedas cerca de cobrarse otra víctima: BlockFi podría declararse en bancarrota' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-reproductores-streaming-tv-vacaciones-880673'>5 reproductores de streaming que puedes usar en cualquier TV en tus vacaciones</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-reproductores-streaming-tv-vacaciones-880673' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/chromecast-google-tv-2366821.jpg' alt='5 reproductores de streaming que puedes usar en cualquier TV en tus vacaciones' />
     </a>
 </div>
 
