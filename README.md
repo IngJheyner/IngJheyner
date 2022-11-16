@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/whatsapp-ya-permite-envio-mensajes-mismo-como-bloc-notas-1156543'>WhatsApp ya permite el envío de mensajes a uno mismo como un bloc de notas</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/whatsapp-ya-permite-envio-mensajes-mismo-como-bloc-notas-1156543' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/nueva-funcion-whatsapp-enviarte-mensajes-ti-mismo-como-bloc-notas-2873477.jpg' alt='WhatsApp ya permite el envío de mensajes a uno mismo como un bloc de notas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/apple-quiere-mejorar-fallos-pantalla-always-display-nuevos-iphone-14-pro-pro-max-1156517'>Apple quiere mejorar los fallos de la pantalla Always On Display en los nuevos iPhone 14 Pro y Pro Max </a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/apple-quiere-mejorar-fallos-pantalla-always-display-nuevos-iphone-14-pro-pro-max-1156517' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/apple-mejorara-grandes-fallos-pantalla-always-display-nuevos-iphone-14-pro-pro-max-2873397.jpg' alt='Apple quiere mejorar los fallos de la pantalla Always On Display en los nuevos iPhone 14 Pro y Pro Max ' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/matematico-resolvio-enigma-numeros-primos-afirma-haber-resuelto-otra-celebre-hipotesis-1156463'>El matemático que resolvió el enigma de los números primos afirma haber resuelto otra célebre hipótesis</a></h4>
     <a href='https://computerhoy.com/noticias/life/matematico-resolvio-enigma-numeros-primos-afirma-haber-resuelto-otra-celebre-hipotesis-1156463' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/matematicas-formulas-pizarras-2299705.jpg' alt='El matemático que resolvió el enigma de los números primos afirma haber resuelto otra célebre hipótesis' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/listas/tecnologia/todos-dispositivos-amazon-han-rebajado-antes-black-friday-1156329'>Todos los dispositivos de Amazon que han rebajado antes del Black Friday</a></h4>
-    <a href='https://computerhoy.com/listas/tecnologia/todos-dispositivos-amazon-han-rebajado-antes-black-friday-1156329' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/todos-dispositivos-amazon-han-rebajado-antes-black-friday-2872967.jpg' alt='Todos los dispositivos de Amazon que han rebajado antes del Black Friday' />
     </a>
 </div>
 
