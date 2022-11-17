@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/nueva-estafa-whatsapp-quiere-hacerse-todos-datos-1157089'>Esta es la nueva estafa de WhatsApp que quiere hacerse con todos tus datos</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/nueva-estafa-whatsapp-quiere-hacerse-todos-datos-1157089' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/nueva-estafa-whatsapp-quiere-hacerse-todos-datos-2874877.jpg' alt='Esta es la nueva estafa de WhatsApp que quiere hacerse con todos tus datos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/serie-1899-netflix-dark-estreno-1157097'>¿Repetirá 1899 el éxito de Dark? La nueva serie de Netflix cumple con todo lo que se esperaba</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/serie-1899-netflix-dark-estreno-1157097' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/verticalimage1668714197825-2874871.jpg' alt='¿Repetirá 1899 el éxito de Dark? La nueva serie de Netflix cumple con todo lo que se esperaba' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/reglas-elon-musk-seas-productivo-trabajo-1157083'>Las reglas de Elon Musk para que seas más productivo en tu trabajo</a></h4>
     <a href='https://computerhoy.com/noticias/life/reglas-elon-musk-seas-productivo-trabajo-1157083' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/elon-musk-2666609.jpg' alt='Las reglas de Elon Musk para que seas más productivo en tu trabajo' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/android-auto-85-ya-disponible-puedes-descargarlo-ahora-mismo-tener-esperar-1157001'>Android Auto 8.5 ya está disponible y así puedes descargarlo ahora mismo sin tener que esperar</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/android-auto-85-ya-disponible-puedes-descargarlo-ahora-mismo-tener-esperar-1157001' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/android-auto-2602277.jpg' alt='Android Auto 8.5 ya está disponible y así puedes descargarlo ahora mismo sin tener que esperar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/ofertas-black-friday-cecotec-1149769'>El Black Friday arranca su mes en Cecotec: estas son las mejores ofertas</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/ofertas-black-friday-cecotec-1149769' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/cecotec-mambo-touch-jarra-habana-2860747.jpg' alt='El Black Friday arranca su mes en Cecotec: estas son las mejores ofertas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/listas/tecnologia/10-formas-descargar-cualquier-video-internet-429785'>Todas las opciones posibles para descargar cualquier vídeo de Internet</a></h4>
-    <a href='https://computerhoy.com/listas/tecnologia/10-formas-descargar-cualquier-video-internet-429785' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/descargar-video-internet-2873719.jpg' alt='Todas las opciones posibles para descargar cualquier vídeo de Internet' />
     </a>
 </div>
 
