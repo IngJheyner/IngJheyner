@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/qualcomm-apuesta-metaverso-crea-nueva-linea-procesadores-exclusiva-realidad-aumentada-1155345'>Qualcomm apuesta por el metaverso y crea una nueva línea de procesadores exclusiva para Realidad Aumentada</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/qualcomm-apuesta-metaverso-crea-nueva-linea-procesadores-exclusiva-realidad-aumentada-1155345' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/procesador-qualcomm-snapdragon-ar2-gen-1-2870925.jpg' alt='Qualcomm apuesta por el metaverso y crea una nueva línea de procesadores exclusiva para Realidad Aumentada' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/jersey-feo-navidad-microsoft-clippy-2022-1156727'>El jersey feo navideño de Microsoft está de vuelta, y te va a provocar pesadillas con Clippy</a></h4>
     <a href='https://computerhoy.com/noticias/life/jersey-feo-navidad-microsoft-clippy-2022-1156727' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/horrible-jersey-navideno-microsoft-vuelta-te-va-provocar-pesadillas-2873893.jpg' alt='El jersey feo navideño de Microsoft está de vuelta, y te va a provocar pesadillas con Clippy' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/cuando-estrena-black-panther-wakanda-forever-disney-plus-1156713'>¿Cuándo se estrena Black Panther: Wakanda Forever en Disney+?</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/cuando-estrena-black-panther-wakanda-forever-disney-plus-1156713' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/verticalimage1668623773752-2873853.jpg' alt='¿Cuándo se estrena Black Panther: Wakanda Forever en Disney+?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/ojo-usas-poco-cuenta-paypal-va-cobrar-comision-cuentas-inactivas-1156671'>Ojo si usas poco tu cuenta de PayPal: va a cobrar comisión a las cuentas inactivas</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/ojo-usas-poco-cuenta-paypal-va-cobrar-comision-cuentas-inactivas-1156671' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/paypal-2792085.jpg' alt='Ojo si usas poco tu cuenta de PayPal: va a cobrar comisión a las cuentas inactivas' />
     </a>
 </div>
 
