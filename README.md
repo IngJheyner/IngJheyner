@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/apple-planea-incorporar-diferentes-usb-c-iphone-15-15-pro-1156813'>Apple planea incorporar diferentes USB-C a su iPhone 15 y 15 Pro</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/apple-planea-incorporar-diferentes-usb-c-iphone-15-15-pro-1156813' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/iphone-14-puerto-usb-c-2874159.jpg' alt='Apple planea incorporar diferentes USB-C a su iPhone 15 y 15 Pro' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/luce-nuevo-robotaxi-autonomo-google-circula-volante-1156803'>Así luce el nuevo robotaxi autónomo de Google que circula sin volante</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/luce-nuevo-robotaxi-autonomo-google-circula-volante-1156803' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/futuro-coches-autonomos-google-vehiculos-volante-2874147.jpg' alt='Así luce el nuevo robotaxi autónomo de Google que circula sin volante' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/creas-no-google-asegura-no-ha-aumentado-numero-anuncios-buscador-1156761'>Lo creas o no, Google asegura que no ha aumentado el número de anuncios en su buscador</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/creas-no-google-asegura-no-ha-aumentado-numero-anuncios-buscador-1156761' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/google-chrome-2656983.jpg' alt='Lo creas o no, Google asegura que no ha aumentado el número de anuncios en su buscador' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/desafio-visual-imagen-10-animales-ocultos-1156733'>Desafío rápido: en esta imagen hay 10 animales ocultos y solo el 10% de las personas los encuentran</a></h4>
-    <a href='https://computerhoy.com/noticias/life/desafio-visual-imagen-10-animales-ocultos-1156733' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/desafio-rapido-imagen-hay-10-animales-ocultos-solo-10-personas-encuentran-2873945.jpg' alt='Desafío rápido: en esta imagen hay 10 animales ocultos y solo el 10% de las personas los encuentran' />
     </a>
 </div>
 
