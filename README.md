@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/listas/life/calefactores-bano-bajo-consumo-oferta-1156333'>Empieza el frío de verdad: prepárate con estos calefactores de baño en oferta</a></h4>
+    <a href='https://computerhoy.com/listas/life/calefactores-bano-bajo-consumo-oferta-1156333' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/empieza-frio-verdad-estos-calefactores-bano-son-consumo-oferta-2872995.jpg' alt='Empieza el frío de verdad: prepárate con estos calefactores de baño en oferta' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/gaming/unreal-engine-51-mejoras-motor-3d-hacen-aun-fotorrealista-1156531'>Unreal Engine 5.1: las mejoras del motor 3D que lo hacen aún más fotorrealista</a></h4>
+    <a href='https://computerhoy.com/noticias/gaming/unreal-engine-51-mejoras-motor-3d-hacen-aun-fotorrealista-1156531' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/unreal-engine-51-2873471.jpg' alt='Unreal Engine 5.1: las mejoras del motor 3D que lo hacen aún más fotorrealista' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/24-noticias-tecnologia-comenzar-manana-informado-ultimo-1156743'>24 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/24-noticias-tecnologia-comenzar-manana-informado-ultimo-1156743' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/24-noticias-tecnologia-comenzar-manana-informado-ultimo-2873961.jpg' alt='24 noticias de tecnología para comenzar la mañana informado de lo último' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/motor/espana-cola-europa-estaciones-carga-coches-electricos-ocu-1156527'>España a la cola de Europa en estaciones de carga de coches eléctricos según la OCU</a></h4>
     <a href='https://computerhoy.com/noticias/motor/espana-cola-europa-estaciones-carga-coches-electricos-ocu-1156527' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/espana-coche-electrico-pero-cargadores-cola-europa-ocu-2873635.jpg' alt='España a la cola de Europa en estaciones de carga de coches eléctricos según la OCU' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/listas/tecnologia/auriculares-inalambricos-ver-mundial-futbol-1156577'>5 auriculares inalámbricos para ver los partidos del Mundial 2022 sin molestar a nadie</a></h4>
     <a href='https://computerhoy.com/listas/tecnologia/auriculares-inalambricos-ver-mundial-futbol-1156577' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/sony-rf-mdr-rf895rk-2873535.jpg' alt='5 auriculares inalámbricos para ver los partidos del Mundial 2022 sin molestar a nadie' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/serpiente-solar-superficie-sol-video-1156731'>Captan una serpiente solar deslizándose por la superficie del Sol, y es espectacular (vídeo)</a></h4>
-    <a href='https://computerhoy.com/noticias/life/serpiente-solar-superficie-sol-video-1156731' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/captan-serpiente-solar-deslizandose-superficie-sol-espectacular-2873939.jpg' alt='Captan una serpiente solar deslizándose por la superficie del Sol, y es espectacular (vídeo)' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/qualcomm-apuesta-metaverso-crea-nueva-linea-procesadores-exclusiva-realidad-aumentada-1155345'>Qualcomm apuesta por el metaverso y crea una nueva línea de procesadores exclusiva para Realidad Aumentada</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/qualcomm-apuesta-metaverso-crea-nueva-linea-procesadores-exclusiva-realidad-aumentada-1155345' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/procesador-qualcomm-snapdragon-ar2-gen-1-2870925.jpg' alt='Qualcomm apuesta por el metaverso y crea una nueva línea de procesadores exclusiva para Realidad Aumentada' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/jersey-feo-navidad-microsoft-clippy-2022-1156727'>El jersey feo navideño de Microsoft está de vuelta, y te va a provocar pesadillas con Clippy</a></h4>
-    <a href='https://computerhoy.com/noticias/life/jersey-feo-navidad-microsoft-clippy-2022-1156727' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/horrible-jersey-navideno-microsoft-vuelta-te-va-provocar-pesadillas-2873893.jpg' alt='El jersey feo navideño de Microsoft está de vuelta, y te va a provocar pesadillas con Clippy' />
     </a>
 </div>
 
