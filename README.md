@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/luce-nuevo-robotaxi-autonomo-google-circula-volante-1156803'>Así luce el nuevo robotaxi autónomo de Google que circula sin volante</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/luce-nuevo-robotaxi-autonomo-google-circula-volante-1156803' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/futuro-coches-autonomos-google-vehiculos-volante-2874147.jpg' alt='Así luce el nuevo robotaxi autónomo de Google que circula sin volante' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/primeros-moviles-snapdragon-8-gen-2-veran-luz-ano-1156795'>Los primeros móviles con Snapdragon 8 Gen 2 que verán la luz este año</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/primeros-moviles-snapdragon-8-gen-2-veran-luz-ano-1156795' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/snapdragon-8-gen-2-2874141.jpg' alt='Los primeros móviles con Snapdragon 8 Gen 2 que verán la luz este año' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/candy-crush-10-anos-despues-sigue-siendo-rey-juegos-aunque-tiene-todo-1156775'>Candy Crush, 10 años después, sigue siendo el rey de los juegos aunque lo tiene todo en contra</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/candy-crush-10-anos-despues-sigue-siendo-rey-juegos-aunque-tiene-todo-1156775' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/candy-crush-10-anos-despues-sigue-siendo-rey-juegos-aunque-tiene-todo-2874115.jpg' alt='Candy Crush, 10 años después, sigue siendo el rey de los juegos aunque lo tiene todo en contra' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/creas-no-google-asegura-no-ha-aumentado-numero-anuncios-buscador-1156761'>Lo creas o no, Google asegura que no ha aumentado el número de anuncios en su buscador</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/creas-no-google-asegura-no-ha-aumentado-numero-anuncios-buscador-1156761' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/google-chrome-2656983.jpg' alt='Lo creas o no, Google asegura que no ha aumentado el número de anuncios en su buscador' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/desafio-visual-imagen-10-animales-ocultos-1156733'>Desafío rápido: en esta imagen hay 10 animales ocultos y solo el 10% de las personas los encuentran</a></h4>
     <a href='https://computerhoy.com/noticias/life/desafio-visual-imagen-10-animales-ocultos-1156733' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/desafio-rapido-imagen-hay-10-animales-ocultos-solo-10-personas-encuentran-2873945.jpg' alt='Desafío rápido: en esta imagen hay 10 animales ocultos y solo el 10% de las personas los encuentran' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/listas/life/calefactores-bano-bajo-consumo-oferta-1156333'>Empieza el frío de verdad: prepárate con estos calefactores de baño en oferta</a></h4>
-    <a href='https://computerhoy.com/listas/life/calefactores-bano-bajo-consumo-oferta-1156333' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/empieza-frio-verdad-estos-calefactores-bano-son-consumo-oferta-2872995.jpg' alt='Empieza el frío de verdad: prepárate con estos calefactores de baño en oferta' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/gaming/unreal-engine-51-mejoras-motor-3d-hacen-aun-fotorrealista-1156531'>Unreal Engine 5.1: las mejoras del motor 3D que lo hacen aún más fotorrealista</a></h4>
-    <a href='https://computerhoy.com/noticias/gaming/unreal-engine-51-mejoras-motor-3d-hacen-aun-fotorrealista-1156531' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/unreal-engine-51-2873471.jpg' alt='Unreal Engine 5.1: las mejoras del motor 3D que lo hacen aún más fotorrealista' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/24-noticias-tecnologia-comenzar-manana-informado-ultimo-1156743'>24 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/24-noticias-tecnologia-comenzar-manana-informado-ultimo-1156743' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/24-noticias-tecnologia-comenzar-manana-informado-ultimo-2873961.jpg' alt='24 noticias de tecnología para comenzar la mañana informado de lo último' />
     </a>
 </div>
 
