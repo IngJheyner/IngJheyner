@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/reglas-elon-musk-seas-productivo-trabajo-1157083'>Las reglas de Elon Musk para que seas más productivo en tu trabajo</a></h4>
+    <a href='https://computerhoy.com/noticias/life/reglas-elon-musk-seas-productivo-trabajo-1157083' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/elon-musk-2666609.jpg' alt='Las reglas de Elon Musk para que seas más productivo en tu trabajo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/razon-ves-luces-destellos-colores-cuando-cierras-ojos-1157079'>Esta es la razón por la que ves luces y destellos de colores cuando cierras los ojos</a></h4>
+    <a href='https://computerhoy.com/noticias/life/razon-ves-luces-destellos-colores-cuando-cierras-ojos-1157079' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/hombre-cerrando-ojos-2874853.jpg' alt='Esta es la razón por la que ves luces y destellos de colores cuando cierras los ojos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/android-auto-85-ya-disponible-puedes-descargarlo-ahora-mismo-tener-esperar-1157001'>Android Auto 8.5 ya está disponible y así puedes descargarlo ahora mismo sin tener que esperar</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/android-auto-85-ya-disponible-puedes-descargarlo-ahora-mismo-tener-esperar-1157001' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/android-auto-2602277.jpg' alt='Android Auto 8.5 ya está disponible y así puedes descargarlo ahora mismo sin tener que esperar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/ofertas-black-friday-cecotec-1149769'>El Black Friday arranca su mes en Cecotec: estas son las mejores ofertas</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/ofertas-black-friday-cecotec-1149769' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/cecotec-mambo-touch-jarra-habana-2860747.jpg' alt='El Black Friday arranca su mes en Cecotec: estas son las mejores ofertas' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/listas/tecnologia/10-formas-descargar-cualquier-video-internet-429785'>Todas las opciones posibles para descargar cualquier vídeo de Internet</a></h4>
     <a href='https://computerhoy.com/listas/tecnologia/10-formas-descargar-cualquier-video-internet-429785' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/descargar-video-internet-2873719.jpg' alt='Todas las opciones posibles para descargar cualquier vídeo de Internet' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/ajustes-iphone-xr-iphone-11-iphone-antiguo-mejore-bateria-funcione-rapido-1156999'>Ajustes para que tu iPhone XR, iPhone 11 o iPhone antiguo mejore la batería y funcione más rápido</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/ajustes-iphone-xr-iphone-11-iphone-antiguo-mejore-bateria-funcione-rapido-1156999' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/iphone-xr-2419701.jpg' alt='Ajustes para que tu iPhone XR, iPhone 11 o iPhone antiguo mejore la batería y funcione más rápido' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/nino-pico-cuando-alcanzaremos-supondra-ser-humano-llegada-1156987'>Qué es el “niño pico”, cuándo lo alcanzaremos y qué supondrá para el ser humano su llegada</a></h4>
-    <a href='https://computerhoy.com/noticias/life/nino-pico-cuando-alcanzaremos-supondra-ser-humano-llegada-1156987' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/ninos-cogidos-mano-charco-2831171.jpg' alt='Qué es el “niño pico”, cuándo lo alcanzaremos y qué supondrá para el ser humano su llegada' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/creadores-pokemon-go-nos-muestran-poder-realidad-aumentada-impresionante-video-1156961'>Los creadores de Pokémon Go nos muestran el poder de la realidad aumentada en un impresionante vídeo</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/creadores-pokemon-go-nos-muestran-poder-realidad-aumentada-impresionante-video-1156961' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/realidad-aumentada-niantic-2874455.jpg' alt='Los creadores de Pokémon Go nos muestran el poder de la realidad aumentada en un impresionante vídeo' />
     </a>
 </div>
 
