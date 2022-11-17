@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/creas-no-google-asegura-no-ha-aumentado-numero-anuncios-buscador-1156761'>Lo creas o no, Google asegura que no ha aumentado el número de anuncios en su buscador</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/creas-no-google-asegura-no-ha-aumentado-numero-anuncios-buscador-1156761' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/google-chrome-2656983.jpg' alt='Lo creas o no, Google asegura que no ha aumentado el número de anuncios en su buscador' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/desafio-visual-imagen-10-animales-ocultos-1156733'>Desafío rápido: en esta imagen hay 10 animales ocultos y solo el 10% de las personas los encuentran</a></h4>
+    <a href='https://computerhoy.com/noticias/life/desafio-visual-imagen-10-animales-ocultos-1156733' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/desafio-rapido-imagen-hay-10-animales-ocultos-solo-10-personas-encuentran-2873945.jpg' alt='Desafío rápido: en esta imagen hay 10 animales ocultos y solo el 10% de las personas los encuentran' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/listas/life/calefactores-bano-bajo-consumo-oferta-1156333'>Empieza el frío de verdad: prepárate con estos calefactores de baño en oferta</a></h4>
     <a href='https://computerhoy.com/listas/life/calefactores-bano-bajo-consumo-oferta-1156333' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/empieza-frio-verdad-estos-calefactores-bano-son-consumo-oferta-2872995.jpg' alt='Empieza el frío de verdad: prepárate con estos calefactores de baño en oferta' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/24-noticias-tecnologia-comenzar-manana-informado-ultimo-1156743'>24 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/24-noticias-tecnologia-comenzar-manana-informado-ultimo-1156743' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/24-noticias-tecnologia-comenzar-manana-informado-ultimo-2873961.jpg' alt='24 noticias de tecnología para comenzar la mañana informado de lo último' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/espana-cola-europa-estaciones-carga-coches-electricos-ocu-1156527'>España a la cola de Europa en estaciones de carga de coches eléctricos según la OCU</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/espana-cola-europa-estaciones-carga-coches-electricos-ocu-1156527' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/espana-coche-electrico-pero-cargadores-cola-europa-ocu-2873635.jpg' alt='España a la cola de Europa en estaciones de carga de coches eléctricos según la OCU' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/listas/tecnologia/auriculares-inalambricos-ver-mundial-futbol-1156577'>5 auriculares inalámbricos para ver los partidos del Mundial 2022 sin molestar a nadie</a></h4>
-    <a href='https://computerhoy.com/listas/tecnologia/auriculares-inalambricos-ver-mundial-futbol-1156577' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/sony-rf-mdr-rf895rk-2873535.jpg' alt='5 auriculares inalámbricos para ver los partidos del Mundial 2022 sin molestar a nadie' />
     </a>
 </div>
 
