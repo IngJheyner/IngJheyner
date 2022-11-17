@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/auriculares-huawei-freebuds-pro-2-cancelacion-ruido-sonido-hd-pulsera-huawei-band-7-regalo-1157103'>Los auriculares Huawei Freebuds Pro 2 con cancelación de ruido y sonido HD tienen descuento, y una pulsera Huawei Band 7 de regalo</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/auriculares-huawei-freebuds-pro-2-cancelacion-ruido-sonido-hd-pulsera-huawei-band-7-regalo-1157103' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/auriculares-huawei-freebuds-pro-2-cancelacion-ruido-sonido-hd-tienen-descuento-pulsera-huawei-band-7-regalo-2874909.jpg' alt='Los auriculares Huawei Freebuds Pro 2 con cancelación de ruido y sonido HD tienen descuento, y una pulsera Huawei Band 7 de regalo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/nueva-estafa-whatsapp-quiere-hacerse-todos-datos-1157089'>Esta es la nueva estafa de WhatsApp que quiere hacerse con todos tus datos</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/nueva-estafa-whatsapp-quiere-hacerse-todos-datos-1157089' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/nueva-estafa-whatsapp-quiere-hacerse-todos-datos-2874877.jpg' alt='Esta es la nueva estafa de WhatsApp que quiere hacerse con todos tus datos' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/razon-ves-luces-destellos-colores-cuando-cierras-ojos-1157079'>Esta es la razón por la que ves luces y destellos de colores cuando cierras los ojos</a></h4>
     <a href='https://computerhoy.com/noticias/life/razon-ves-luces-destellos-colores-cuando-cierras-ojos-1157079' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/hombre-cerrando-ojos-2874853.jpg' alt='Esta es la razón por la que ves luces y destellos de colores cuando cierras los ojos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/android-auto-85-ya-disponible-puedes-descargarlo-ahora-mismo-tener-esperar-1157001'>Android Auto 8.5 ya está disponible y así puedes descargarlo ahora mismo sin tener que esperar</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/android-auto-85-ya-disponible-puedes-descargarlo-ahora-mismo-tener-esperar-1157001' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/android-auto-2602277.jpg' alt='Android Auto 8.5 ya está disponible y así puedes descargarlo ahora mismo sin tener que esperar' />
     </a>
 </div>
 
