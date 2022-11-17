@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/como-limpiar-bien-teclado-evitar-bacterias-virus-1156935'>Cómo limpiar bien tu teclado para evitar bacterias y virus</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/como-limpiar-bien-teclado-evitar-bacterias-virus-1156935' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/teclado-cherry-2794755.jpg' alt='Cómo limpiar bien tu teclado para evitar bacterias y virus' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/desafio-visual-imagen-10-animales-ocultos-1156733'>Desafío rápido: en esta imagen hay 10 animales ocultos y solo el 10% de las personas los encuentran</a></h4>
     <a href='https://computerhoy.com/noticias/life/desafio-visual-imagen-10-animales-ocultos-1156733' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/encuentra-animales-2874357.jpg' alt='Desafío rápido: en esta imagen hay 10 animales ocultos y solo el 10% de las personas los encuentran' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/listas/tecnologia/iphone-14-pro-stock-regalo-navidad-1156559'>Los iPhone 14 Pro ya no llegarán para navidad, pero hemos encontrado stock en estas tiendas</a></h4>
     <a href='https://computerhoy.com/listas/tecnologia/iphone-14-pro-stock-regalo-navidad-1156559' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/analisis-iphone-14-pro-2821729.jpg' alt='Los iPhone 14 Pro ya no llegarán para navidad, pero hemos encontrado stock en estas tiendas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/robots-aspiradores-baratos-menos-200-euros-estos-son-mejores-840045'>Robots aspiradores baratos de menos de 200 euros: estos son los mejores</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/robots-aspiradores-baratos-menos-200-euros-estos-son-mejores-840045' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/03/cecotec-conga-4690-ultra-2284937.jpg' alt='Robots aspiradores baratos de menos de 200 euros: estos son los mejores' />
     </a>
 </div>
 
