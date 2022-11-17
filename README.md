@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/desafio-visual-imagen-10-animales-ocultos-1156733'>Desafío rápido: en esta imagen hay 10 animales ocultos y solo el 10% de las personas los encuentran</a></h4>
+    <a href='https://computerhoy.com/noticias/life/desafio-visual-imagen-10-animales-ocultos-1156733' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/encuentra-animales-2874357.jpg' alt='Desafío rápido: en esta imagen hay 10 animales ocultos y solo el 10% de las personas los encuentran' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/nasa-comparte-primera-imagen-tierra-despegue-mision-artemisa-1-1156877'>La NASA comparte la primera imagen de la Tierra tras el despegue de la misión Artemisa 1</a></h4>
     <a href='https://computerhoy.com/noticias/life/nasa-comparte-primera-imagen-tierra-despegue-mision-artemisa-1-1156877' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/artemisa-1-nasa-comparte-primera-imagen-tierra-alucinante-2874265.jpg' alt='La NASA comparte la primera imagen de la Tierra tras el despegue de la misión Artemisa 1' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/robots-aspiradores-baratos-menos-200-euros-estos-son-mejores-840045'>Robots aspiradores baratos de menos de 200 euros: estos son los mejores</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/robots-aspiradores-baratos-menos-200-euros-estos-son-mejores-840045' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/03/cecotec-conga-4690-ultra-2284937.jpg' alt='Robots aspiradores baratos de menos de 200 euros: estos son los mejores' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/elon-musk-busca-nuevo-lider-twitter-centrarse-tesla-1156853'>Elon Musk en busca de un nuevo líder para Twitter y así centrarse en Tesla</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/elon-musk-busca-nuevo-lider-twitter-centrarse-tesla-1156853' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/elon-musk-2867409.jpg' alt='Elon Musk en busca de un nuevo líder para Twitter y así centrarse en Tesla' />
     </a>
 </div>
 
