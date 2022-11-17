@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/apple-planea-incorporar-diferentes-usb-c-iphone-15-15-pro-1156813'>Apple planea incorporar diferentes USB-C a su iPhone 15 y 15 Pro</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/apple-planea-incorporar-diferentes-usb-c-iphone-15-15-pro-1156813' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/iphone-14-puerto-usb-c-2874159.jpg' alt='Apple planea incorporar diferentes USB-C a su iPhone 15 y 15 Pro' />
+    <h4><a href='https://computerhoy.com/noticias/life/nasa-comparte-primera-imagen-tierra-despegue-mision-artemisa-1-1156877'>La NASA comparte la primera imagen de la Tierra tras el despegue de la misión Artemisa 1</a></h4>
+    <a href='https://computerhoy.com/noticias/life/nasa-comparte-primera-imagen-tierra-despegue-mision-artemisa-1-1156877' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/artemisa-1-nasa-comparte-primera-imagen-tierra-alucinante-2874265.jpg' alt='La NASA comparte la primera imagen de la Tierra tras el despegue de la misión Artemisa 1' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/luce-nuevo-robotaxi-autonomo-google-circula-volante-1156803'>Así luce el nuevo robotaxi autónomo de Google que circula sin volante</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/luce-nuevo-robotaxi-autonomo-google-circula-volante-1156803' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/futuro-coches-autonomos-google-vehiculos-volante-2874147.jpg' alt='Así luce el nuevo robotaxi autónomo de Google que circula sin volante' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/supergps-mejora-navegacion-urbana-utilizando-torres-telefonia-lugar-satelites-1156865'>Este "SuperGPS" mejora la navegación urbana utilizando torres de telefonía en lugar de satélites</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/supergps-mejora-navegacion-urbana-utilizando-torres-telefonia-lugar-satelites-1156865' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/super-gps-mejora-navegacion-urbana-utilizando-torres-telefonia-lugar-satelites-2874253.jpg' alt='Este "SuperGPS" mejora la navegación urbana utilizando torres de telefonía en lugar de satélites' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/primeros-moviles-snapdragon-8-gen-2-veran-luz-ano-1156795'>Los primeros móviles con Snapdragon 8 Gen 2 que verán la luz este año</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/primeros-moviles-snapdragon-8-gen-2-veran-luz-ano-1156795' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/snapdragon-8-gen-2-2874141.jpg' alt='Los primeros móviles con Snapdragon 8 Gen 2 que verán la luz este año' />
+    <h4><a href='https://computerhoy.com/listas/tecnologia/iphone-14-pro-stock-regalo-navidad-1156559'>Los iPhone 14 Pro ya no llegarán para navidad, pero hemos encontrado stock en estas tiendas</a></h4>
+    <a href='https://computerhoy.com/listas/tecnologia/iphone-14-pro-stock-regalo-navidad-1156559' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/analisis-iphone-14-pro-2821729.jpg' alt='Los iPhone 14 Pro ya no llegarán para navidad, pero hemos encontrado stock en estas tiendas' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/candy-crush-10-anos-despues-sigue-siendo-rey-juegos-aunque-tiene-todo-1156775'>Candy Crush, 10 años después, sigue siendo el rey de los juegos aunque lo tiene todo en contra</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/candy-crush-10-anos-despues-sigue-siendo-rey-juegos-aunque-tiene-todo-1156775' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/candy-crush-10-anos-despues-sigue-siendo-rey-juegos-aunque-tiene-todo-2874115.jpg' alt='Candy Crush, 10 años después, sigue siendo el rey de los juegos aunque lo tiene todo en contra' />
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/robots-aspiradores-baratos-menos-200-euros-estos-son-mejores-840045'>Robots aspiradores baratos de menos de 200 euros: estos son los mejores</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/robots-aspiradores-baratos-menos-200-euros-estos-son-mejores-840045' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/03/cecotec-conga-4690-ultra-2284937.jpg' alt='Robots aspiradores baratos de menos de 200 euros: estos son los mejores' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/creas-no-google-asegura-no-ha-aumentado-numero-anuncios-buscador-1156761'>Lo creas o no, Google asegura que no ha aumentado el número de anuncios en su buscador</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/creas-no-google-asegura-no-ha-aumentado-numero-anuncios-buscador-1156761' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/google-chrome-2656983.jpg' alt='Lo creas o no, Google asegura que no ha aumentado el número de anuncios en su buscador' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/elon-musk-busca-nuevo-lider-twitter-centrarse-tesla-1156853'>Elon Musk en busca de un nuevo líder para Twitter y así centrarse en Tesla</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/elon-musk-busca-nuevo-lider-twitter-centrarse-tesla-1156853' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/elon-musk-2867409.jpg' alt='Elon Musk en busca de un nuevo líder para Twitter y así centrarse en Tesla' />
     </a>
 </div>
 
