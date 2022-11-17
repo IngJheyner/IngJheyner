@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/nino-pico-cuando-alcanzaremos-supondra-ser-humano-llegada-1156987'>Qué es el “niño pico”, cuándo lo alcanzaremos y qué supondrá para el ser humano su llegada</a></h4>
+    <a href='https://computerhoy.com/noticias/life/nino-pico-cuando-alcanzaremos-supondra-ser-humano-llegada-1156987' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/ninos-cogidos-mano-charco-2831171.jpg' alt='Qué es el “niño pico”, cuándo lo alcanzaremos y qué supondrá para el ser humano su llegada' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/creadores-pokemon-go-nos-muestran-poder-realidad-aumentada-impresionante-video-1156961'>Los creadores de Pokémon Go nos muestran el poder de la realidad aumentada en un impresionante vídeo</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/creadores-pokemon-go-nos-muestran-poder-realidad-aumentada-impresionante-video-1156961' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/realidad-aumentada-niantic-2874455.jpg' alt='Los creadores de Pokémon Go nos muestran el poder de la realidad aumentada en un impresionante vídeo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/como-limpiar-bien-teclado-evitar-bacterias-virus-1156935'>Cómo limpiar bien tu teclado para evitar bacterias y virus</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/como-limpiar-bien-teclado-evitar-bacterias-virus-1156935' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/teclado-cherry-2794755.jpg' alt='Cómo limpiar bien tu teclado para evitar bacterias y virus' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/nasa-comparte-primera-imagen-tierra-despegue-mision-artemisa-1-1156877'>La NASA comparte la primera imagen de la Tierra tras el despegue de la misión Artemisa 1</a></h4>
     <a href='https://computerhoy.com/noticias/life/nasa-comparte-primera-imagen-tierra-despegue-mision-artemisa-1-1156877' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/artemisa-1-nasa-comparte-primera-imagen-tierra-alucinante-2874265.jpg' alt='La NASA comparte la primera imagen de la Tierra tras el despegue de la misión Artemisa 1' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/supergps-mejora-navegacion-urbana-utilizando-torres-telefonia-lugar-satelites-1156865'>Este "SuperGPS" mejora la navegación urbana utilizando torres de telefonía en lugar de satélites</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/supergps-mejora-navegacion-urbana-utilizando-torres-telefonia-lugar-satelites-1156865' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/super-gps-mejora-navegacion-urbana-utilizando-torres-telefonia-lugar-satelites-2874253.jpg' alt='Este "SuperGPS" mejora la navegación urbana utilizando torres de telefonía en lugar de satélites' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/listas/tecnologia/iphone-14-pro-stock-regalo-navidad-1156559'>Los iPhone 14 Pro ya no llegarán para navidad, pero hemos encontrado stock en estas tiendas</a></h4>
-    <a href='https://computerhoy.com/listas/tecnologia/iphone-14-pro-stock-regalo-navidad-1156559' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/analisis-iphone-14-pro-2821729.jpg' alt='Los iPhone 14 Pro ya no llegarán para navidad, pero hemos encontrado stock en estas tiendas' />
     </a>
 </div>
 
