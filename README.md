@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/serpiente-solar-superficie-sol-video-1156731'>Captan una serpiente solar deslizándose por la superficie del Sol, y es espectacular (vídeo)</a></h4>
+    <a href='https://computerhoy.com/noticias/life/serpiente-solar-superficie-sol-video-1156731' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/captan-serpiente-solar-deslizandose-superficie-sol-espectacular-2873939.jpg' alt='Captan una serpiente solar deslizándose por la superficie del Sol, y es espectacular (vídeo)' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/qualcomm-apuesta-metaverso-crea-nueva-linea-procesadores-exclusiva-realidad-aumentada-1155345'>Qualcomm apuesta por el metaverso y crea una nueva línea de procesadores exclusiva para Realidad Aumentada</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/qualcomm-apuesta-metaverso-crea-nueva-linea-procesadores-exclusiva-realidad-aumentada-1155345' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/procesador-qualcomm-snapdragon-ar2-gen-1-2870925.jpg' alt='Qualcomm apuesta por el metaverso y crea una nueva línea de procesadores exclusiva para Realidad Aumentada' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/ruido-ciudad-cambiando-siempre-pajaros-1156673'>El ruido de la ciudad está cambiando para siempre a los pájaros</a></h4>
     <a href='https://computerhoy.com/noticias/life/ruido-ciudad-cambiando-siempre-pajaros-1156673' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/declive-pajaros-2826683.jpg' alt='El ruido de la ciudad está cambiando para siempre a los pájaros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/cuando-estrena-black-panther-wakanda-forever-disney-plus-1156713'>¿Cuándo se estrena Black Panther: Wakanda Forever en Disney+?</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/cuando-estrena-black-panther-wakanda-forever-disney-plus-1156713' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/verticalimage1668623773752-2873853.jpg' alt='¿Cuándo se estrena Black Panther: Wakanda Forever en Disney+?' />
     </a>
 </div>
 
