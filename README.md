@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/ofertas-black-friday-cecotec-1149769'>El Black Friday arranca su mes en Cecotec: estas son las mejores ofertas</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/ofertas-black-friday-cecotec-1149769' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/cecotec-mambo-touch-jarra-habana-2860747.jpg' alt='El Black Friday arranca su mes en Cecotec: estas son las mejores ofertas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/listas/tecnologia/10-formas-descargar-cualquier-video-internet-429785'>Todas las opciones posibles para descargar cualquier vídeo de Internet</a></h4>
     <a href='https://computerhoy.com/listas/tecnologia/10-formas-descargar-cualquier-video-internet-429785' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/descargar-video-internet-2873719.jpg' alt='Todas las opciones posibles para descargar cualquier vídeo de Internet' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/creadores-pokemon-go-nos-muestran-poder-realidad-aumentada-impresionante-video-1156961'>Los creadores de Pokémon Go nos muestran el poder de la realidad aumentada en un impresionante vídeo</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/creadores-pokemon-go-nos-muestran-poder-realidad-aumentada-impresionante-video-1156961' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/realidad-aumentada-niantic-2874455.jpg' alt='Los creadores de Pokémon Go nos muestran el poder de la realidad aumentada en un impresionante vídeo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/como-limpiar-bien-teclado-evitar-bacterias-virus-1156935'>Cómo limpiar bien tu teclado para evitar bacterias y virus</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/como-limpiar-bien-teclado-evitar-bacterias-virus-1156935' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/teclado-cherry-2794755.jpg' alt='Cómo limpiar bien tu teclado para evitar bacterias y virus' />
     </a>
 </div>
 
