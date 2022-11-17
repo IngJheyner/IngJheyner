@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/espana-cola-europa-estaciones-carga-coches-electricos-ocu-1156527'>España a la cola de Europa en estaciones de carga de coches eléctricos según la OCU</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/espana-cola-europa-estaciones-carga-coches-electricos-ocu-1156527' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/espana-coche-electrico-pero-cargadores-cola-europa-ocu-2873635.jpg' alt='España a la cola de Europa en estaciones de carga de coches eléctricos según la OCU' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/listas/tecnologia/auriculares-inalambricos-ver-mundial-futbol-1156577'>5 auriculares inalámbricos para ver los partidos del Mundial 2022 sin molestar a nadie</a></h4>
+    <a href='https://computerhoy.com/listas/tecnologia/auriculares-inalambricos-ver-mundial-futbol-1156577' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/sony-rf-mdr-rf895rk-2873535.jpg' alt='5 auriculares inalámbricos para ver los partidos del Mundial 2022 sin molestar a nadie' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/serpiente-solar-superficie-sol-video-1156731'>Captan una serpiente solar deslizándose por la superficie del Sol, y es espectacular (vídeo)</a></h4>
     <a href='https://computerhoy.com/noticias/life/serpiente-solar-superficie-sol-video-1156731' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/captan-serpiente-solar-deslizandose-superficie-sol-espectacular-2873939.jpg' alt='Captan una serpiente solar deslizándose por la superficie del Sol, y es espectacular (vídeo)' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/jersey-feo-navidad-microsoft-clippy-2022-1156727'>El jersey feo navideño de Microsoft está de vuelta, y te va a provocar pesadillas con Clippy</a></h4>
     <a href='https://computerhoy.com/noticias/life/jersey-feo-navidad-microsoft-clippy-2022-1156727' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/horrible-jersey-navideno-microsoft-vuelta-te-va-provocar-pesadillas-2873893.jpg' alt='El jersey feo navideño de Microsoft está de vuelta, y te va a provocar pesadillas con Clippy' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/samsung-smart-monitor-m7-oferta-1156719'>Samsung acelera con sus ofertas de Black Friday: 30% de descuento en su monitor y Smart TV de 32 pulgadas</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/samsung-smart-monitor-m7-oferta-1156719' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/samsung-acelera-ofertas-black-friday-30-descuento-monitor-smart-tv-32-pulgadas-2873873.jpg' alt='Samsung acelera con sus ofertas de Black Friday: 30% de descuento en su monitor y Smart TV de 32 pulgadas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/ruido-ciudad-cambiando-siempre-pajaros-1156673'>El ruido de la ciudad está cambiando para siempre a los pájaros</a></h4>
-    <a href='https://computerhoy.com/noticias/life/ruido-ciudad-cambiando-siempre-pajaros-1156673' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/declive-pajaros-2826683.jpg' alt='El ruido de la ciudad está cambiando para siempre a los pájaros' />
     </a>
 </div>
 
