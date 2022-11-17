@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/listas/tecnologia/10-formas-descargar-cualquier-video-internet-429785'>Todas las opciones posibles para descargar cualquier vídeo de Internet</a></h4>
+    <a href='https://computerhoy.com/listas/tecnologia/10-formas-descargar-cualquier-video-internet-429785' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/descargar-video-internet-2873719.jpg' alt='Todas las opciones posibles para descargar cualquier vídeo de Internet' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/ajustes-iphone-xr-iphone-11-iphone-antiguo-mejore-bateria-funcione-rapido-1156999'>Ajustes para que tu iPhone XR, iPhone 11 o iPhone antiguo mejore la batería y funcione más rápido</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/ajustes-iphone-xr-iphone-11-iphone-antiguo-mejore-bateria-funcione-rapido-1156999' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/iphone-xr-2419701.jpg' alt='Ajustes para que tu iPhone XR, iPhone 11 o iPhone antiguo mejore la batería y funcione más rápido' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/nino-pico-cuando-alcanzaremos-supondra-ser-humano-llegada-1156987'>Qué es el “niño pico”, cuándo lo alcanzaremos y qué supondrá para el ser humano su llegada</a></h4>
     <a href='https://computerhoy.com/noticias/life/nino-pico-cuando-alcanzaremos-supondra-ser-humano-llegada-1156987' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/ninos-cogidos-mano-charco-2831171.jpg' alt='Qué es el “niño pico”, cuándo lo alcanzaremos y qué supondrá para el ser humano su llegada' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/como-limpiar-bien-teclado-evitar-bacterias-virus-1156935'>Cómo limpiar bien tu teclado para evitar bacterias y virus</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/como-limpiar-bien-teclado-evitar-bacterias-virus-1156935' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/teclado-cherry-2794755.jpg' alt='Cómo limpiar bien tu teclado para evitar bacterias y virus' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/desafio-visual-imagen-10-animales-ocultos-1156733'>Desafío rápido: en esta imagen hay 10 animales ocultos y solo el 10% de las personas los encuentran</a></h4>
-    <a href='https://computerhoy.com/noticias/life/desafio-visual-imagen-10-animales-ocultos-1156733' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/encuentra-animales-2874357.jpg' alt='Desafío rápido: en esta imagen hay 10 animales ocultos y solo el 10% de las personas los encuentran' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/nasa-comparte-primera-imagen-tierra-despegue-mision-artemisa-1-1156877'>La NASA comparte la primera imagen de la Tierra tras el despegue de la misión Artemisa 1</a></h4>
-    <a href='https://computerhoy.com/noticias/life/nasa-comparte-primera-imagen-tierra-despegue-mision-artemisa-1-1156877' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/artemisa-1-nasa-comparte-primera-imagen-tierra-alucinante-2874265.jpg' alt='La NASA comparte la primera imagen de la Tierra tras el despegue de la misión Artemisa 1' />
     </a>
 </div>
 
