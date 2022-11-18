@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/no-actualices-google-maps-utilizas-android-auto-forma-1157431'>No actualices Google Maps si utilizas Android Auto de esta forma</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/no-actualices-google-maps-utilizas-android-auto-forma-1157431' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/android-auto-2575823.jpg' alt='No actualices Google Maps si utilizas Android Auto de esta forma' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/listas/tecnologia/ofertas-black-friday-apple-amazon-1157417'>Ofertas de Black Friday en Apple: estos iPhone, Apple Watch, iPad y más están rebajados</a></h4>
+    <a href='https://computerhoy.com/listas/tecnologia/ofertas-black-friday-apple-amazon-1157417' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/galeria-review-iphone-13-pro-2487647.jpg' alt='Ofertas de Black Friday en Apple: estos iPhone, Apple Watch, iPad y más están rebajados' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/estos-son-datos-gastaras-tarifa-movil-ves-todos-partidos-futbol-mundial-2022-1157373'>Estos son los datos que gastarás de tu tarifa móvil si ves todos los partidos de fútbol del Mundial 2022</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/estos-son-datos-gastaras-tarifa-movil-ves-todos-partidos-futbol-mundial-2022-1157373' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/partido-futbol-espana-2874493.jpg' alt='Estos son los datos que gastarás de tu tarifa móvil si ves todos los partidos de fútbol del Mundial 2022' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/series-ver-fin-semana-netflix-disney-prime-video-mentiras-barco-vecinos-1157301'>Qué series ver este fin de semana en Netflix, Disney+ y Prime Video: mentiras, un barco y unos vecinos</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/series-ver-fin-semana-netflix-disney-prime-video-mentiras-barco-vecinos-1157301' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/portada-series-18-noviembre-2022-2875431.jpg' alt='Qué series ver este fin de semana en Netflix, Disney+ y Prime Video: mentiras, un barco y unos vecinos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/windows-10-novedades-actualizaciones-seguridad-trucos-consejos-1155681'>Windows 10 en 2022: novedades, actualizaciones, seguridad, trucos y consejos</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/windows-10-novedades-actualizaciones-seguridad-trucos-consejos-1155681' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/windows-10-2875705.jpg' alt='Windows 10 en 2022: novedades, actualizaciones, seguridad, trucos y consejos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/peliculas-ver-fin-semana-movistarplus-netflix-disney-encantada-2-ambulance-documental-protesta-1156829'>Qué películas ver este fin de semana en MovistarPlus+, Netflix y Disney+: Encantada 2, Ambulance y un documental protesta</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/peliculas-ver-fin-semana-movistarplus-netflix-disney-encantada-2-ambulance-documental-protesta-1156829' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/peliculas-ver-fin-semana-movistarplus-netflix-disney-encantada-2-ambulance-documental-protesta-2874293.jpg' alt='Qué películas ver este fin de semana en MovistarPlus+, Netflix y Disney+: Encantada 2, Ambulance y un documental protesta' />
     </a>
 </div>
 
