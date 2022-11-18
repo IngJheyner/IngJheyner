@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/ilusion-optica-imagen-esconde-secreto-espeluznante-1157121'>Desafío rápido: esta inocente imagen esconde un secreto espeluznante ¿eres capaz de verlo?</a></h4>
+    <a href='https://computerhoy.com/noticias/life/ilusion-optica-imagen-esconde-secreto-espeluznante-1157121' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/desafio-rapido-inocente-imagen-esconde-secreto-espeluznante-eres-capaz-verlo-2874957.jpg' alt='Desafío rápido: esta inocente imagen esconde un secreto espeluznante ¿eres capaz de verlo?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/cuales-son-peores-caracteristicas-windows-11-1156639'>¿Cuáles son las peores características de Windows 11?</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/cuales-son-peores-caracteristicas-windows-11-1156639' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/windows-11-2873633.jpg' alt='¿Cuáles son las peores características de Windows 11?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/listas/life/aspiradora-dyson-ofertas-black-fridau-1157105'>Si buscabas una aspiradora de Dyson estas ofertas de Black Friday son irrepetibles</a></h4>
+    <a href='https://computerhoy.com/listas/life/aspiradora-dyson-ofertas-black-fridau-1157105' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/buscabas-aspiradora-dyson-estas-ofertas-black-friday-son-irrepetibles-2874921.jpg' alt='Si buscabas una aspiradora de Dyson estas ofertas de Black Friday son irrepetibles' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/estas-funciones-ocultas-mejoraran-experiencia-google-chrome-1156925'>Estas funciones ocultas mejorarán tu experiencia en Google Chrome</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/estas-funciones-ocultas-mejoraran-experiencia-google-chrome-1156925' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/estas-funciones-ocultas-mejoraran-experiencia-chrome-2874389.jpg' alt='Estas funciones ocultas mejorarán tu experiencia en Google Chrome' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/23-noticias-tecnologia-comenzar-manana-informado-ultimo-1157113'>23 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/23-noticias-tecnologia-comenzar-manana-informado-ultimo-1157113' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/noticias-tecnologicas-2874945.jpg' alt='23 noticias de tecnología para comenzar la mañana informado de lo último' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/silla-de-ruedas-uni-one-honda-video-1157111'>Honda presenta una silla de ruedas futurista que ya quisiera el profesor X de los X-men (vídeo)</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/silla-de-ruedas-uni-one-honda-video-1157111' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/verticalimage1668643464429-2874937.jpg' alt='Honda presenta una silla de ruedas futurista que ya quisiera el profesor X de los X-men (vídeo)' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/google-maps-estrena-realidad-aumentada-1157109'>Google Maps estrena la realidad aumentada en algunas ciudades</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/google-maps-estrena-realidad-aumentada-1157109' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/google-maps-estrena-realidad-aumentada-algunas-ciudades-2874931.jpg' alt='Google Maps estrena la realidad aumentada en algunas ciudades' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/listas/tecnologia/mejores-ofertas-inicio-semana-black-friday-amazon-1156845'>Estas son las mejores ofertas para empezar la semana del Black Friday en Amazon</a></h4>
-    <a href='https://computerhoy.com/listas/tecnologia/mejores-ofertas-inicio-semana-black-friday-amazon-1156845' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/portada-black-friday-2874385.jpg' alt='Estas son las mejores ofertas para empezar la semana del Black Friday en Amazon' />
     </a>
 </div>
 
