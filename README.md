@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/estos-son-datos-gastaras-tarifa-movil-ves-todos-partidos-futbol-mundial-2022-1157373'>Estos son los datos que gastarás de tu tarifa móvil si ves todos los partidos de fútbol del Mundial 2022</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/estos-son-datos-gastaras-tarifa-movil-ves-todos-partidos-futbol-mundial-2022-1157373' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/partido-futbol-espana-2874493.jpg' alt='Estos son los datos que gastarás de tu tarifa móvil si ves todos los partidos de fútbol del Mundial 2022' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/sera-fotografia-video-moviles-monten-qualcomm-snapdragon-8-gen-2-1157099'>Así será la fotografía y el vídeo en los móviles que monten Qualcomm Snapdragon 8 Gen 2</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/sera-fotografia-video-moviles-monten-qualcomm-snapdragon-8-gen-2-1157099' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/fotografia-snapdragon-8-gen-2-2874903.jpg' alt='Así será la fotografía y el vídeo en los móviles que monten Qualcomm Snapdragon 8 Gen 2' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/series-ver-fin-semana-netflix-disney-prime-video-mentiras-barco-vecinos-1157301'>Qué series ver este fin de semana en Netflix, Disney+ y Prime Video: mentiras, un barco y unos vecinos</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/series-ver-fin-semana-netflix-disney-prime-video-mentiras-barco-vecinos-1157301' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/portada-series-18-noviembre-2022-2875431.jpg' alt='Qué series ver este fin de semana en Netflix, Disney+ y Prime Video: mentiras, un barco y unos vecinos' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/peliculas-ver-fin-semana-movistarplus-netflix-disney-encantada-2-ambulance-documental-protesta-1156829'>Qué películas ver este fin de semana en MovistarPlus+, Netflix y Disney+: Encantada 2, Ambulance y un documental protesta</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/peliculas-ver-fin-semana-movistarplus-netflix-disney-encantada-2-ambulance-documental-protesta-1156829' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/peliculas-ver-fin-semana-movistarplus-netflix-disney-encantada-2-ambulance-documental-protesta-2874293.jpg' alt='Qué películas ver este fin de semana en MovistarPlus+, Netflix y Disney+: Encantada 2, Ambulance y un documental protesta' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/acaban-descubrir-tortuga-grande-coche-espanola-1157337'>Acaban de descubrir una tortuga más grande que un coche y es española</a></h4>
-    <a href='https://computerhoy.com/noticias/life/acaban-descubrir-tortuga-grande-coche-espanola-1157337' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/tortuga-2875461.jpg' alt='Acaban de descubrir una tortuga más grande que un coche y es española' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/5-usos-frikis-puedes-dar-movil-antiguo-lugar-dejarlo-cajon-1156931'>5 usos frikis que puedes dar a tu móvil antiguo en lugar de dejarlo en el cajón</a></h4>
-    <a href='https://computerhoy.com/tutoriales/tecnologia/5-usos-frikis-puedes-dar-movil-antiguo-lugar-dejarlo-cajon-1156931' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/movil-2874355.jpg' alt='5 usos frikis que puedes dar a tu móvil antiguo en lugar de dejarlo en el cajón' />
     </a>
 </div>
 
