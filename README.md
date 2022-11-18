@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/nuevas-unidades-peso-longitud-ronna-quetta-ronto-quecto-1157449'>La Tierra pesa 6 ronnagramos y un electrón, 1 rontogramo: se aprueban cuatro nuevas unidades de peso y longitud</a></h4>
+    <a href='https://computerhoy.com/noticias/life/nuevas-unidades-peso-longitud-ronna-quetta-ronto-quecto-1157449' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/01/quiza-tengamos-retrasar-reloj-segundo-2021-porque-tierra-girando-rapido-nunca-2192329.jpg' alt='La Tierra pesa 6 ronnagramos y un electrón, 1 rontogramo: se aprueban cuatro nuevas unidades de peso y longitud' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/google-pixel-6a-oferta-black-friday-1157445'>El Google Pixel con cámara de gama alta super rebajado por Black Friday</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/google-pixel-6a-oferta-black-friday-1157445' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/analisis-pixel-6a-2765519.jpg' alt='El Google Pixel con cámara de gama alta super rebajado por Black Friday' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/cae-red-pirata-canales-iptv-espana-500000-usuarios-1157433'>Cae una red pirata de canales IPTV en España con más de 500.000 usuarios</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/cae-red-pirata-canales-iptv-espana-500000-usuarios-1157433' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/iptv-2875845.jpg' alt='Cae una red pirata de canales IPTV en España con más de 500.000 usuarios' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/no-actualices-google-maps-utilizas-android-auto-forma-1157431'>No actualices Google Maps si utilizas Android Auto de esta forma</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/no-actualices-google-maps-utilizas-android-auto-forma-1157431' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/android-auto-2575823.jpg' alt='No actualices Google Maps si utilizas Android Auto de esta forma' />
     </a>
 </div>
 
