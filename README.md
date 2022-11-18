@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/listas/tecnologia/todos-dispositivos-amazon-han-rebajado-antes-black-friday-1156329'>Todos los dispositivos de Amazon que han rebajado antes del Black Friday</a></h4>
+    <a href='https://computerhoy.com/listas/tecnologia/todos-dispositivos-amazon-han-rebajado-antes-black-friday-1156329' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/amazon-echo-dot-reloj-2765665.jpg' alt='Todos los dispositivos de Amazon que han rebajado antes del Black Friday' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/gaming/nueva-consola-portatil-razer-edge-5g-viene-pisando-fuerte-desbancar-steam-deck-valve-1157197'>Hemos probado la nueva Razer Edge 5G, competencia de la Steam Deck de Valve</a></h4>
+    <a href='https://computerhoy.com/noticias/gaming/nueva-consola-portatil-razer-edge-5g-viene-pisando-fuerte-desbancar-steam-deck-valve-1157197' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/razer-edge-5g-2875245.jpg' alt='Hemos probado la nueva Razer Edge 5G, competencia de la Steam Deck de Valve' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/windows-11-traera-vuelta-dos-funciones-barra-tareas-seguro-echabas-menos-1157243'>Windows 11 traerá de vuelta dos funciones a la barra de tareas que seguro echabas de menos</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/windows-11-traera-vuelta-dos-funciones-barra-tareas-seguro-echabas-menos-1157243' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/windows-11-2798545.jpg' alt='Windows 11 traerá de vuelta dos funciones a la barra de tareas que seguro echabas de menos' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/entretenimiento/como-donde-ver-todo-mundial-2022-espana-online-iptv-tdt-gratis-canales-pago-1155597'>Cómo y dónde ver todo el Mundial 2022 en España: online, IPTV, TDT gratis y canales de pago</a></h4>
     <a href='https://computerhoy.com/reportajes/entretenimiento/como-donde-ver-todo-mundial-2022-espana-online-iptv-tdt-gratis-canales-pago-1155597' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/fifa-world-cup-2022-2871301.jpg' alt='Cómo y dónde ver todo el Mundial 2022 en España: online, IPTV, TDT gratis y canales de pago' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/sera-proxima-mision-marte-nasa-video-impresionante-1157165'>Así será la próxima misión a Marte según la NASA: el vídeo es impresionante</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/sera-proxima-mision-marte-nasa-video-impresionante-1157165' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/mision-nasa-ir-marte-2875071.jpg' alt='Así será la próxima misión a Marte según la NASA: el vídeo es impresionante' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/ultimatum-elon-musk-sale-caro-ahora-son-empleados-abandonan-twitter-estampida-1157153'>El ultimátum de Elon Musk le sale caro: ahora son los empleados los que abandonan Twitter en estampida</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/ultimatum-elon-musk-sale-caro-ahora-son-empleados-abandonan-twitter-estampida-1157153' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/elon-musk-2864955.jpg' alt='El ultimátum de Elon Musk le sale caro: ahora son los empleados los que abandonan Twitter en estampida' />
     </a>
 </div>
 
