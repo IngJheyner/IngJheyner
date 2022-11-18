@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/entretenimiento/como-donde-ver-todo-mundial-2022-espana-online-iptv-tdt-gratis-canales-pago-1155597'>Cómo y dónde ver todo el Mundial 2022 en España: online, IPTV, TDT gratis y canales de pago</a></h4>
+    <a href='https://computerhoy.com/reportajes/entretenimiento/como-donde-ver-todo-mundial-2022-espana-online-iptv-tdt-gratis-canales-pago-1155597' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/fifa-world-cup-2022-2871301.jpg' alt='Cómo y dónde ver todo el Mundial 2022 en España: online, IPTV, TDT gratis y canales de pago' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/sera-proxima-mision-marte-nasa-video-impresionante-1157165'>Así será la próxima misión a Marte según la NASA: el vídeo es impresionante</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/sera-proxima-mision-marte-nasa-video-impresionante-1157165' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/mision-nasa-ir-marte-2875071.jpg' alt='Así será la próxima misión a Marte según la NASA: el vídeo es impresionante' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/ultimatum-elon-musk-sale-caro-ahora-son-empleados-abandonan-twitter-estampida-1157153'>El ultimatum de Elon Musk le sale caro: ahora son los empleados los que abandonan Twitter en estampida</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/ultimatum-elon-musk-sale-caro-ahora-son-empleados-abandonan-twitter-estampida-1157153' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/elon-musk-2864955.jpg' alt='El ultimatum de Elon Musk le sale caro: ahora son los empleados los que abandonan Twitter en estampida' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/ilusion-optica-imagen-esconde-secreto-espeluznante-1157121'>Desafío rápido: esta inocente imagen esconde un secreto espeluznante ¿eres capaz de verlo?</a></h4>
     <a href='https://computerhoy.com/noticias/life/ilusion-optica-imagen-esconde-secreto-espeluznante-1157121' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/desafio-rapido-inocente-imagen-esconde-secreto-espeluznante-eres-capaz-verlo-2874957.jpg' alt='Desafío rápido: esta inocente imagen esconde un secreto espeluznante ¿eres capaz de verlo?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/cuales-son-peores-caracteristicas-windows-11-1156639'>¿Cuáles son las peores características de Windows 11?</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/cuales-son-peores-caracteristicas-windows-11-1156639' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/windows-11-2873633.jpg' alt='¿Cuáles son las peores características de Windows 11?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/listas/life/aspiradora-dyson-ofertas-black-fridau-1157105'>Si buscabas una aspiradora de Dyson estas ofertas de Black Friday son irrepetibles</a></h4>
-    <a href='https://computerhoy.com/listas/life/aspiradora-dyson-ofertas-black-fridau-1157105' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/buscabas-aspiradora-dyson-estas-ofertas-black-friday-son-irrepetibles-2874921.jpg' alt='Si buscabas una aspiradora de Dyson estas ofertas de Black Friday son irrepetibles' />
     </a>
 </div>
 
