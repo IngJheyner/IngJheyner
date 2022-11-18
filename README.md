@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/23-noticias-tecnologia-comenzar-manana-informado-ultimo-1157113'>23 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/23-noticias-tecnologia-comenzar-manana-informado-ultimo-1157113' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/noticias-tecnologicas-2874945.jpg' alt='23 noticias de tecnología para comenzar la mañana informado de lo último' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/silla-de-ruedas-uni-one-honda-video-1157111'>Honda presenta una silla de ruedas futurista que ya quisiera el profesor X de los X-men (vídeo)</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/silla-de-ruedas-uni-one-honda-video-1157111' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/verticalimage1668643464429-2874937.jpg' alt='Honda presenta una silla de ruedas futurista que ya quisiera el profesor X de los X-men (vídeo)' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/auriculares-huawei-freebuds-pro-2-cancelacion-ruido-sonido-hd-pulsera-huawei-band-7-regalo-1157103'>Los auriculares Huawei Freebuds Pro 2 con cancelación de ruido y sonido HD tienen descuento, y una pulsera Huawei Band 7 de regalo</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/auriculares-huawei-freebuds-pro-2-cancelacion-ruido-sonido-hd-pulsera-huawei-band-7-regalo-1157103' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/auriculares-huawei-freebuds-pro-2-cancelacion-ruido-sonido-hd-tienen-descuento-pulsera-huawei-band-7-regalo-2874909.jpg' alt='Los auriculares Huawei Freebuds Pro 2 con cancelación de ruido y sonido HD tienen descuento, y una pulsera Huawei Band 7 de regalo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/nueva-estafa-whatsapp-quiere-hacerse-todos-datos-1157089'>Esta es la nueva estafa de WhatsApp que quiere hacerse con todos tus datos</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/nueva-estafa-whatsapp-quiere-hacerse-todos-datos-1157089' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/nueva-estafa-whatsapp-quiere-hacerse-todos-datos-2874877.jpg' alt='Esta es la nueva estafa de WhatsApp que quiere hacerse con todos tus datos' />
     </a>
 </div>
 
