@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/silla-de-ruedas-uni-one-honda-video-1157111'>Honda presenta una silla de ruedas futurista que ya quisiera el profesor X de los X-men (vídeo)</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/silla-de-ruedas-uni-one-honda-video-1157111' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/verticalimage1668643464429-2874937.jpg' alt='Honda presenta una silla de ruedas futurista que ya quisiera el profesor X de los X-men (vídeo)' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/google-maps-estrena-realidad-aumentada-1157109'>Google Maps estrena la realidad aumentada en algunas ciudades</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/google-maps-estrena-realidad-aumentada-1157109' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/google-maps-estrena-realidad-aumentada-algunas-ciudades-2874931.jpg' alt='Google Maps estrena la realidad aumentada en algunas ciudades' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/nueva-estafa-whatsapp-quiere-hacerse-todos-datos-1157089'>Esta es la nueva estafa de WhatsApp que quiere hacerse con todos tus datos</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/nueva-estafa-whatsapp-quiere-hacerse-todos-datos-1157089' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/nueva-estafa-whatsapp-quiere-hacerse-todos-datos-2874877.jpg' alt='Esta es la nueva estafa de WhatsApp que quiere hacerse con todos tus datos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/serie-1899-netflix-dark-estreno-1157097'>¿Repetirá 1899 el éxito de Dark? La nueva serie de Netflix cumple con todo lo que se esperaba</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/serie-1899-netflix-dark-estreno-1157097' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/verticalimage1668714197825-2874871.jpg' alt='¿Repetirá 1899 el éxito de Dark? La nueva serie de Netflix cumple con todo lo que se esperaba' />
     </a>
 </div>
 
