@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/windows-11-traera-vuelta-dos-funciones-barra-tareas-seguro-echabas-menos-1157243'>Windows 11 traerá de vuelta dos funciones a la barra de tareas que seguro echabas de menos</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/windows-11-traera-vuelta-dos-funciones-barra-tareas-seguro-echabas-menos-1157243' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/windows-11-2798545.jpg' alt='Windows 11 traerá de vuelta dos funciones a la barra de tareas que seguro echabas de menos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/no-podemos-viajar-rapido-velocidad-luz-1157217'>¿Por qué no podemos viajar más rápido que la velocidad de la luz?</a></h4>
+    <a href='https://computerhoy.com/noticias/life/no-podemos-viajar-rapido-velocidad-luz-1157217' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/velocidad-luz-2446533.jpg' alt='¿Por qué no podemos viajar más rápido que la velocidad de la luz?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/entretenimiento/como-donde-ver-todo-mundial-2022-espana-online-iptv-tdt-gratis-canales-pago-1155597'>Cómo y dónde ver todo el Mundial 2022 en España: online, IPTV, TDT gratis y canales de pago</a></h4>
     <a href='https://computerhoy.com/reportajes/entretenimiento/como-donde-ver-todo-mundial-2022-espana-online-iptv-tdt-gratis-canales-pago-1155597' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/fifa-world-cup-2022-2871301.jpg' alt='Cómo y dónde ver todo el Mundial 2022 en España: online, IPTV, TDT gratis y canales de pago' />
@@ -66,25 +82,9 @@
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/ultimatum-elon-musk-sale-caro-ahora-son-empleados-abandonan-twitter-estampida-1157153'>El ultimatum de Elon Musk le sale caro: ahora son los empleados los que abandonan Twitter en estampida</a></h4>
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/ultimatum-elon-musk-sale-caro-ahora-son-empleados-abandonan-twitter-estampida-1157153'>El ultimátum de Elon Musk le sale caro: ahora son los empleados los que abandonan Twitter en estampida</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/ultimatum-elon-musk-sale-caro-ahora-son-empleados-abandonan-twitter-estampida-1157153' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/elon-musk-2864955.jpg' alt='El ultimatum de Elon Musk le sale caro: ahora son los empleados los que abandonan Twitter en estampida' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/mapa-interactivo-200000-galaxias-todo-universo-observable-1157137'>Mapa interactivo de las más de 200.000 galaxias de todo el universo observable</a></h4>
-    <a href='https://computerhoy.com/noticias/life/mapa-interactivo-200000-galaxias-todo-universo-observable-1157137' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/mapa-universo-2875017.jpg' alt='Mapa interactivo de las más de 200.000 galaxias de todo el universo observable' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/ilusion-optica-imagen-esconde-secreto-espeluznante-1157121'>Desafío rápido: esta inocente imagen esconde un secreto espeluznante ¿eres capaz de verlo?</a></h4>
-    <a href='https://computerhoy.com/noticias/life/ilusion-optica-imagen-esconde-secreto-espeluznante-1157121' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/desafio-rapido-inocente-imagen-esconde-secreto-espeluznante-eres-capaz-verlo-2874957.jpg' alt='Desafío rápido: esta inocente imagen esconde un secreto espeluznante ¿eres capaz de verlo?' />
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/elon-musk-2864955.jpg' alt='El ultimátum de Elon Musk le sale caro: ahora son los empleados los que abandonan Twitter en estampida' />
     </a>
 </div>
 
