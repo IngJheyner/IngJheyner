@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/acaban-descubrir-tortuga-grande-coche-espanola-1157337'>Acaban de descubrir una tortuga más grande que un coche y es española</a></h4>
+    <a href='https://computerhoy.com/noticias/life/acaban-descubrir-tortuga-grande-coche-espanola-1157337' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/tortuga-2875461.jpg' alt='Acaban de descubrir una tortuga más grande que un coche y es española' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tutoriales/tecnologia/5-usos-frikis-puedes-dar-movil-antiguo-lugar-dejarlo-cajon-1156931'>5 usos frikis que puedes dar a tu móvil antiguo en lugar de dejarlo en el cajón</a></h4>
     <a href='https://computerhoy.com/tutoriales/tecnologia/5-usos-frikis-puedes-dar-movil-antiguo-lugar-dejarlo-cajon-1156931' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/movil-2874355.jpg' alt='5 usos frikis que puedes dar a tu móvil antiguo en lugar de dejarlo en el cajón' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/windows-11-traera-vuelta-dos-funciones-barra-tareas-seguro-echabas-menos-1157243'>Windows 11 traerá de vuelta dos funciones a la barra de tareas que seguro echabas de menos</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/windows-11-traera-vuelta-dos-funciones-barra-tareas-seguro-echabas-menos-1157243' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/windows-11-2798545.jpg' alt='Windows 11 traerá de vuelta dos funciones a la barra de tareas que seguro echabas de menos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/no-podemos-viajar-rapido-velocidad-luz-1157217'>¿Por qué no podemos viajar más rápido que la velocidad de la luz?</a></h4>
-    <a href='https://computerhoy.com/noticias/life/no-podemos-viajar-rapido-velocidad-luz-1157217' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/velocidad-luz-2446533.jpg' alt='¿Por qué no podemos viajar más rápido que la velocidad de la luz?' />
     </a>
 </div>
 
