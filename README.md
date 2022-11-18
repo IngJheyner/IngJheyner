@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/ultimatum-elon-musk-sale-caro-ahora-son-empleados-abandonan-twitter-estampida-1157153'>El ultimatum de Elon Musk le sale caro: ahora son los empleados los que abandonan Twitter en estampida</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/ultimatum-elon-musk-sale-caro-ahora-son-empleados-abandonan-twitter-estampida-1157153' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/elon-musk-2864955.jpg' alt='El ultimatum de Elon Musk le sale caro: ahora son los empleados los que abandonan Twitter en estampida' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/mapa-interactivo-200000-galaxias-todo-universo-observable-1157137'>Mapa interactivo de las más de 200.000 galaxias de todo el universo observable</a></h4>
+    <a href='https://computerhoy.com/noticias/life/mapa-interactivo-200000-galaxias-todo-universo-observable-1157137' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/mapa-universo-2875017.jpg' alt='Mapa interactivo de las más de 200.000 galaxias de todo el universo observable' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/ilusion-optica-imagen-esconde-secreto-espeluznante-1157121'>Desafío rápido: esta inocente imagen esconde un secreto espeluznante ¿eres capaz de verlo?</a></h4>
     <a href='https://computerhoy.com/noticias/life/ilusion-optica-imagen-esconde-secreto-espeluznante-1157121' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/desafio-rapido-inocente-imagen-esconde-secreto-espeluznante-eres-capaz-verlo-2874957.jpg' alt='Desafío rápido: esta inocente imagen esconde un secreto espeluznante ¿eres capaz de verlo?' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/listas/life/aspiradora-dyson-ofertas-black-fridau-1157105'>Si buscabas una aspiradora de Dyson estas ofertas de Black Friday son irrepetibles</a></h4>
     <a href='https://computerhoy.com/listas/life/aspiradora-dyson-ofertas-black-fridau-1157105' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/buscabas-aspiradora-dyson-estas-ofertas-black-friday-son-irrepetibles-2874921.jpg' alt='Si buscabas una aspiradora de Dyson estas ofertas de Black Friday son irrepetibles' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/estas-funciones-ocultas-mejoraran-experiencia-google-chrome-1156925'>Estas funciones ocultas mejorarán tu experiencia en Google Chrome</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/estas-funciones-ocultas-mejoraran-experiencia-google-chrome-1156925' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/estas-funciones-ocultas-mejoraran-experiencia-chrome-2874389.jpg' alt='Estas funciones ocultas mejorarán tu experiencia en Google Chrome' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/23-noticias-tecnologia-comenzar-manana-informado-ultimo-1157113'>23 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/23-noticias-tecnologia-comenzar-manana-informado-ultimo-1157113' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/noticias-tecnologicas-2874945.jpg' alt='23 noticias de tecnología para comenzar la mañana informado de lo último' />
     </a>
 </div>
 
