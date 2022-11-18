@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/google-maps-estrena-realidad-aumentada-1157109'>Google Maps estrena la realidad aumentada en algunas ciudades</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/google-maps-estrena-realidad-aumentada-1157109' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/google-maps-estrena-realidad-aumentada-algunas-ciudades-2874931.jpg' alt='Google Maps estrena la realidad aumentada en algunas ciudades' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/listas/tecnologia/mejores-ofertas-inicio-semana-black-friday-amazon-1156845'>Estas son las mejores ofertas para empezar la semana del Black Friday en Amazon</a></h4>
+    <a href='https://computerhoy.com/listas/tecnologia/mejores-ofertas-inicio-semana-black-friday-amazon-1156845' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/portada-black-friday-2874385.jpg' alt='Estas son las mejores ofertas para empezar la semana del Black Friday en Amazon' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/auriculares-huawei-freebuds-pro-2-cancelacion-ruido-sonido-hd-pulsera-huawei-band-7-regalo-1157103'>Los auriculares Huawei Freebuds Pro 2 con cancelación de ruido y sonido HD tienen descuento, y una pulsera Huawei Band 7 de regalo</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/auriculares-huawei-freebuds-pro-2-cancelacion-ruido-sonido-hd-pulsera-huawei-band-7-regalo-1157103' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/auriculares-huawei-freebuds-pro-2-cancelacion-ruido-sonido-hd-tienen-descuento-pulsera-huawei-band-7-regalo-2874909.jpg' alt='Los auriculares Huawei Freebuds Pro 2 con cancelación de ruido y sonido HD tienen descuento, y una pulsera Huawei Band 7 de regalo' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/serie-1899-netflix-dark-estreno-1157097'>¿Repetirá 1899 el éxito de Dark? La nueva serie de Netflix cumple con todo lo que se esperaba</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/serie-1899-netflix-dark-estreno-1157097' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/verticalimage1668714197825-2874871.jpg' alt='¿Repetirá 1899 el éxito de Dark? La nueva serie de Netflix cumple con todo lo que se esperaba' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/reglas-elon-musk-seas-productivo-trabajo-1157083'>Las reglas de Elon Musk para que seas más productivo en tu trabajo</a></h4>
-    <a href='https://computerhoy.com/noticias/life/reglas-elon-musk-seas-productivo-trabajo-1157083' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/elon-musk-2666609.jpg' alt='Las reglas de Elon Musk para que seas más productivo en tu trabajo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/razon-ves-luces-destellos-colores-cuando-cierras-ojos-1157079'>Esta es la razón por la que ves luces y destellos de colores cuando cierras los ojos</a></h4>
-    <a href='https://computerhoy.com/noticias/life/razon-ves-luces-destellos-colores-cuando-cierras-ojos-1157079' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/hombre-cerrando-ojos-2874853.jpg' alt='Esta es la razón por la que ves luces y destellos de colores cuando cierras los ojos' />
     </a>
 </div>
 
