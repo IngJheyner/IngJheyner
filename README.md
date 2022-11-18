@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/5-usos-frikis-puedes-dar-movil-antiguo-lugar-dejarlo-cajon-1156931'>5 usos frikis que puedes dar a tu móvil antiguo en lugar de dejarlo en el cajón</a></h4>
+    <a href='https://computerhoy.com/tutoriales/tecnologia/5-usos-frikis-puedes-dar-movil-antiguo-lugar-dejarlo-cajon-1156931' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/movil-2874355.jpg' alt='5 usos frikis que puedes dar a tu móvil antiguo en lugar de dejarlo en el cajón' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/listas/tecnologia/todos-dispositivos-amazon-han-rebajado-antes-black-friday-1156329'>Todos los dispositivos de Amazon que han rebajado antes del Black Friday</a></h4>
     <a href='https://computerhoy.com/listas/tecnologia/todos-dispositivos-amazon-han-rebajado-antes-black-friday-1156329' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/amazon-echo-dot-reloj-2765665.jpg' alt='Todos los dispositivos de Amazon que han rebajado antes del Black Friday' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/no-podemos-viajar-rapido-velocidad-luz-1157217'>¿Por qué no podemos viajar más rápido que la velocidad de la luz?</a></h4>
     <a href='https://computerhoy.com/noticias/life/no-podemos-viajar-rapido-velocidad-luz-1157217' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/velocidad-luz-2446533.jpg' alt='¿Por qué no podemos viajar más rápido que la velocidad de la luz?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/entretenimiento/como-donde-ver-todo-mundial-2022-espana-online-iptv-tdt-gratis-canales-pago-1155597'>Cómo y dónde ver todo el Mundial 2022 en España: online, IPTV, TDT gratis y canales de pago</a></h4>
-    <a href='https://computerhoy.com/reportajes/entretenimiento/como-donde-ver-todo-mundial-2022-espana-online-iptv-tdt-gratis-canales-pago-1155597' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/fifa-world-cup-2022-2871301.jpg' alt='Cómo y dónde ver todo el Mundial 2022 en España: online, IPTV, TDT gratis y canales de pago' />
     </a>
 </div>
 
