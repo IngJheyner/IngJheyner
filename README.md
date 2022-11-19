@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/emoji-secreto-whatsapp-no-saben-ni-amigos-1157513'>Este es el emoji secreto de WhatsApp que no saben ni tus amigos</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/emoji-secreto-whatsapp-no-saben-ni-amigos-1157513' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/whatsapp-2875967.jpg' alt='Este es el emoji secreto de WhatsApp que no saben ni tus amigos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/entretenimiento/series-guion-tan-complicado-casi-hace-falta-tomar-nota-trama-1155889'>8 series con un guión tan complicado que casi hace falta tomar nota de la trama</a></h4>
     <a href='https://computerhoy.com/reportajes/entretenimiento/series-guion-tan-complicado-casi-hace-falta-tomar-nota-trama-1155889' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/05/westworld-3-1934155.jpg' alt='8 series con un guión tan complicado que casi hace falta tomar nota de la trama' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/g-sync-como-funciona-tecnologia-nvidia-1143555'>¿Qué es G-SYNC y cómo funciona esta tecnología de NVIDIA?</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/g-sync-como-funciona-tecnologia-nvidia-1143555' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/verticalimage1668792066723-2875815.jpg' alt='¿Qué es G-SYNC y cómo funciona esta tecnología de NVIDIA?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/robots-aspiradores-baratos-menos-200-euros-estos-son-mejores-840045'>Robots aspiradores baratos de menos de 200 euros: estos son los mejores</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/robots-aspiradores-baratos-menos-200-euros-estos-son-mejores-840045' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/03/cecotec-conga-4690-ultra-2284937.jpg' alt='Robots aspiradores baratos de menos de 200 euros: estos son los mejores' />
     </a>
 </div>
 
