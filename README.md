@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/mira-ilusion-optica-cuantos-ojos-distintos-colores-ves-1157491'>Mira esta ilusión óptica: ¿cuántos ojos de distintos colores ves?</a></h4>
+    <a href='https://computerhoy.com/noticias/life/mira-ilusion-optica-cuantos-ojos-distintos-colores-ves-1157491' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/ilusion-munker-white-2875929.jpg' alt='Mira esta ilusión óptica: ¿cuántos ojos de distintos colores ves?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/g-sync-como-funciona-tecnologia-nvidia-1143555'>¿Qué es G-SYNC y cómo funciona esta tecnología de NVIDIA?</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/g-sync-como-funciona-tecnologia-nvidia-1143555' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/verticalimage1668792066723-2875815.jpg' alt='¿Qué es G-SYNC y cómo funciona esta tecnología de NVIDIA?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/robots-aspiradores-baratos-menos-200-euros-estos-son-mejores-840045'>Robots aspiradores baratos de menos de 200 euros: estos son los mejores</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/robots-aspiradores-baratos-menos-200-euros-estos-son-mejores-840045' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/03/cecotec-conga-4690-ultra-2284937.jpg' alt='Robots aspiradores baratos de menos de 200 euros: estos son los mejores' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/android-vs-iphone-eterno-debate-cual-mejor-resuelto-1156691'>Android vs. iPhone: el eterno debate de cuál es mejor, resuelto</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/android-vs-iphone-eterno-debate-cual-mejor-resuelto-1156691' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/android-vs-iphone-eterno-debate-cual-mejor-resuelto-2873855.jpg' alt='Android vs. iPhone: el eterno debate de cuál es mejor, resuelto' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/guia-compra/mando-universal-1112177'>Todo lo que debes saber antes de comprar un mando universal</a></h4>
     <a href='https://computerhoy.com/guia-compra/mando-universal-1112177' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/mando-distancia-universal-2790593.jpg' alt='Todo lo que debes saber antes de comprar un mando universal' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/review-ipad-pro-129-2022-m2-1157177'>Análisis del iPad Pro 12,9" de 2022, una bestia con corazón M2 encorsetado por el software</a></h4>
-    <a href='https://computerhoy.com/analisis/review-ipad-pro-129-2022-m2-1157177' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/analisis-ipad-pro-m2-2022-2875589.jpg' alt='Análisis del iPad Pro 12,9" de 2022, una bestia con corazón M2 encorsetado por el software' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/desafio-visual-agujeros-camiseta-acertijo-1157461'>Desafío rápido: solo si tienes un cociente intelectual alto lograrás resolver el acertijo de esta imagen</a></h4>
-    <a href='https://computerhoy.com/noticias/life/desafio-visual-agujeros-camiseta-acertijo-1157461' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/desafio-rapido-solo-tienes-cociente-intelectual-alto-lograras-resolver-acertijo-imagen-2875895.jpg' alt='Desafío rápido: solo si tienes un cociente intelectual alto lograrás resolver el acertijo de esta imagen' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/listas/tecnologia/mejores-ofertas-inicio-semana-black-friday-amazon-1156845'>Estas son las mejores ofertas para empezar la semana del Black Friday en Amazon</a></h4>
-    <a href='https://computerhoy.com/listas/tecnologia/mejores-ofertas-inicio-semana-black-friday-amazon-1156845' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/portada-black-friday-2874385.jpg' alt='Estas son las mejores ofertas para empezar la semana del Black Friday en Amazon' />
     </a>
 </div>
 
