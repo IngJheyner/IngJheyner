@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/ahora-puedes-pedirle-asistente-google-busque-reproduzca-podcast-episodio-invitado-1157589'>Ahora puedes pedirle al asistente de Google que busque y reproduzca podcast por episodio o invitado</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/ahora-puedes-pedirle-asistente-google-busque-reproduzca-podcast-episodio-invitado-1157589' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/google-assistant-2311421.jpg' alt='Ahora puedes pedirle al asistente de Google que busque y reproduzca podcast por episodio o invitado' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-personalizar-iconos-aplicaciones-windows-11-1125123'>Cómo personalizar los iconos de las aplicaciones en Windows 11</a></h4>
     <a href='https://computerhoy.com/tutoriales/tecnologia/como-personalizar-iconos-aplicaciones-windows-11-1125123' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/iconos-2814273.jpg' alt='Cómo personalizar los iconos de las aplicaciones en Windows 11' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/cientificos-descubren-cura-resaca-no-cafe-1157541'>Científicos descubren la cura para la resaca, y no es el café</a></h4>
     <a href='https://computerhoy.com/noticias/life/cientificos-descubren-cura-resaca-no-cafe-1157541' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/resaca-2876003.jpg' alt='Científicos descubren la cura para la resaca, y no es el café' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/razon-no-te-esperas-harrison-ford-regresa-indiana-jones-5-1157537'>La razón que no te esperas por la que Harrison Ford regresa en Indiana Jones 5</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/razon-no-te-esperas-harrison-ford-regresa-indiana-jones-5-1157537' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/indiana-jones-5-2023-2875965.jpg' alt='La razón que no te esperas por la que Harrison Ford regresa en Indiana Jones 5' />
     </a>
 </div>
 
