@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/pup-stack-ancla-perros-video-1157459'>Pup Stack, el ancla para perros (vídeo)</a></h4>
+    <a href='https://computerhoy.com/noticias/life/pup-stack-ancla-perros-video-1157459' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/verticalimage1668829982927-2875887.jpg' alt='Pup Stack, el ancla para perros (vídeo)' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/ifixit-trucos-no-te-explote-bateria-movil-cuando-manipulas-1157457'>iFixit revela los trucos para que no te explote la batería del móvil cuando la manipulas</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/ifixit-trucos-no-te-explote-bateria-movil-cuando-manipulas-1157457' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/ifixit-revela-trucos-no-te-explote-bateria-movil-cuando-manipulas-2875883.jpg' alt='iFixit revela los trucos para que no te explote la batería del móvil cuando la manipulas' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/google-pixel-6a-oferta-black-friday-1157445'>El Google Pixel con cámara de gama alta super rebajado por Black Friday</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/google-pixel-6a-oferta-black-friday-1157445' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/analisis-pixel-6a-2765519.jpg' alt='El Google Pixel con cámara de gama alta super rebajado por Black Friday' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/formula-ano-viene-tendra-paradas-llenar-baterias-seran-recargas-rapidas-30-segundos-1157421'>La Fórmula E del año que viene tendrá paradas para llenar sus baterías: así serán las recargas rápidas de 30 segundos</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/formula-ano-viene-tendra-paradas-llenar-baterias-seran-recargas-rapidas-30-segundos-1157421' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/05/daniel-abt-formula-1952451.jpg' alt='La Fórmula E del año que viene tendrá paradas para llenar sus baterías: así serán las recargas rápidas de 30 segundos' />
     </a>
 </div>
 
