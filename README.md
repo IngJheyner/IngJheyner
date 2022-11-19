@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/listas/tecnologia/mejores-ofertas-inicio-semana-black-friday-amazon-1156845'>Estas son las mejores ofertas para empezar la semana del Black Friday en Amazon</a></h4>
+    <a href='https://computerhoy.com/listas/tecnologia/mejores-ofertas-inicio-semana-black-friday-amazon-1156845' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/portada-black-friday-2874385.jpg' alt='Estas son las mejores ofertas para empezar la semana del Black Friday en Amazon' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/cancelacion-ruido-no-cancelacion-esa-cuestion-1156195'>Cancelación de ruido o no cancelación, esa es la cuestión</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/cancelacion-ruido-no-cancelacion-esa-cuestion-1156195' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/cancelacion-ruido-2872699.jpg' alt='Cancelación de ruido o no cancelación, esa es la cuestión' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/pup-stack-ancla-perros-video-1157459'>Pup Stack, el ancla para perros (vídeo)</a></h4>
     <a href='https://computerhoy.com/noticias/life/pup-stack-ancla-perros-video-1157459' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/verticalimage1668829982927-2875887.jpg' alt='Pup Stack, el ancla para perros (vídeo)' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/espectro-brocken-video-aterrador-1157211'>Graba en vídeo un Espectro de Brocken cuando caminaba solo entre la niebla, y es aterrador</a></h4>
     <a href='https://computerhoy.com/noticias/life/espectro-brocken-video-aterrador-1157211' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/graba-video-espectro-brocken-cuando-caminaba-solo-niebla-espeluznante-2875113.jpg' alt='Graba en vídeo un Espectro de Brocken cuando caminaba solo entre la niebla, y es aterrador' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/nuevas-unidades-peso-longitud-ronna-quetta-ronto-quecto-1157449'>La Tierra pesa 6 ronnagramos y un electrón, 1 rontogramo: se aprueban cuatro nuevas unidades de peso y longitud</a></h4>
-    <a href='https://computerhoy.com/noticias/life/nuevas-unidades-peso-longitud-ronna-quetta-ronto-quecto-1157449' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/01/quiza-tengamos-retrasar-reloj-segundo-2021-porque-tierra-girando-rapido-nunca-2192329.jpg' alt='La Tierra pesa 6 ronnagramos y un electrón, 1 rontogramo: se aprueban cuatro nuevas unidades de peso y longitud' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/google-pixel-6a-oferta-black-friday-1157445'>El Google Pixel con cámara de gama alta super rebajado por Black Friday</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/google-pixel-6a-oferta-black-friday-1157445' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/analisis-pixel-6a-2765519.jpg' alt='El Google Pixel con cámara de gama alta super rebajado por Black Friday' />
     </a>
 </div>
 
