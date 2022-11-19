@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/cientificos-descubren-cura-resaca-no-cafe-1157541'>Científicos descubren la cura para la resaca, y no es el café</a></h4>
+    <a href='https://computerhoy.com/noticias/life/cientificos-descubren-cura-resaca-no-cafe-1157541' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/resaca-2876003.jpg' alt='Científicos descubren la cura para la resaca, y no es el café' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/razon-no-te-esperas-harrison-ford-regresa-indiana-jones-5-1157537'>La razón que no te esperas por la que Harrison Ford regresa en Indiana Jones 5</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/razon-no-te-esperas-harrison-ford-regresa-indiana-jones-5-1157537' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/indiana-jones-5-2023-2875965.jpg' alt='La razón que no te esperas por la que Harrison Ford regresa en Indiana Jones 5' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/entretenimiento/series-guion-tan-complicado-casi-hace-falta-tomar-nota-trama-1155889'>8 series con un guión tan complicado que casi hace falta tomar nota de la trama</a></h4>
     <a href='https://computerhoy.com/reportajes/entretenimiento/series-guion-tan-complicado-casi-hace-falta-tomar-nota-trama-1155889' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/05/westworld-3-1934155.jpg' alt='8 series con un guión tan complicado que casi hace falta tomar nota de la trama' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/life/freidoras-aire-aceite-compuestos-cancerigenos-debes-tener-cuenta-1157507'>Las freidoras de aire sin aceite y los compuestos cancerígenos, lo que debes tener en cuenta</a></h4>
-    <a href='https://computerhoy.com/reportajes/life/freidoras-aire-aceite-compuestos-cancerigenos-debes-tener-cuenta-1157507' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/freidora-aire-aceite-2875957.jpg' alt='Las freidoras de aire sin aceite y los compuestos cancerígenos, lo que debes tener en cuenta' />
     </a>
 </div>
 
