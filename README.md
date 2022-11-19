@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/ifixit-trucos-no-te-explote-bateria-movil-cuando-manipulas-1157457'>iFixit revela los trucos para que no te explote la batería del móvil cuando la manipulas</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/ifixit-trucos-no-te-explote-bateria-movil-cuando-manipulas-1157457' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/ifixit-revela-trucos-no-te-explote-bateria-movil-cuando-manipulas-2875883.jpg' alt='iFixit revela los trucos para que no te explote la batería del móvil cuando la manipulas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/espectro-brocken-video-aterrador-1157211'>Graba en vídeo un Espectro de Brocken cuando caminaba solo entre la niebla, y es aterrador</a></h4>
     <a href='https://computerhoy.com/noticias/life/espectro-brocken-video-aterrador-1157211' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/graba-video-espectro-brocken-cuando-caminaba-solo-niebla-espeluznante-2875113.jpg' alt='Graba en vídeo un Espectro de Brocken cuando caminaba solo entre la niebla, y es aterrador' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/motor/formula-ano-viene-tendra-paradas-llenar-baterias-seran-recargas-rapidas-30-segundos-1157421'>La Fórmula E del año que viene tendrá paradas para llenar sus baterías: así serán las recargas rápidas de 30 segundos</a></h4>
     <a href='https://computerhoy.com/noticias/motor/formula-ano-viene-tendra-paradas-llenar-baterias-seran-recargas-rapidas-30-segundos-1157421' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/05/daniel-abt-formula-1952451.jpg' alt='La Fórmula E del año que viene tendrá paradas para llenar sus baterías: así serán las recargas rápidas de 30 segundos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/la-que-se-avecina-temporada-13-estreno-prime-video-telecinco-1157435'>La fórmula que no se acaba: La que se avecina estrena nueva temporada, en Prime Video y también en abierto</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/la-que-se-avecina-temporada-13-estreno-prime-video-telecinco-1157435' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/verticalimage1668796641021-2875847.jpg' alt='La fórmula que no se acaba: La que se avecina estrena nueva temporada, en Prime Video y también en abierto' />
     </a>
 </div>
 
