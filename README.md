@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/entretenimiento/series-guion-tan-complicado-casi-hace-falta-tomar-nota-trama-1155889'>8 series con un guión tan complicado que casi hace falta tomar nota de la trama</a></h4>
+    <a href='https://computerhoy.com/reportajes/entretenimiento/series-guion-tan-complicado-casi-hace-falta-tomar-nota-trama-1155889' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/05/westworld-3-1934155.jpg' alt='8 series con un guión tan complicado que casi hace falta tomar nota de la trama' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/life/freidoras-aire-aceite-compuestos-cancerigenos-debes-tener-cuenta-1157507'>Las freidoras de aire sin aceite y los compuestos cancerígenos, lo que debes tener en cuenta</a></h4>
+    <a href='https://computerhoy.com/reportajes/life/freidoras-aire-aceite-compuestos-cancerigenos-debes-tener-cuenta-1157507' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/freidora-aire-aceite-2875957.jpg' alt='Las freidoras de aire sin aceite y los compuestos cancerígenos, lo que debes tener en cuenta' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/mira-ilusion-optica-cuantos-ojos-distintos-colores-ves-1157491'>Mira esta ilusión óptica: ¿cuántos ojos de distintos colores ves?</a></h4>
     <a href='https://computerhoy.com/noticias/life/mira-ilusion-optica-cuantos-ojos-distintos-colores-ves-1157491' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/ilusion-munker-white-2875929.jpg' alt='Mira esta ilusión óptica: ¿cuántos ojos de distintos colores ves?' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/robots-aspiradores-baratos-menos-200-euros-estos-son-mejores-840045'>Robots aspiradores baratos de menos de 200 euros: estos son los mejores</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/robots-aspiradores-baratos-menos-200-euros-estos-son-mejores-840045' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/03/cecotec-conga-4690-ultra-2284937.jpg' alt='Robots aspiradores baratos de menos de 200 euros: estos son los mejores' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/android-vs-iphone-eterno-debate-cual-mejor-resuelto-1156691'>Android vs. iPhone: el eterno debate de cuál es mejor, resuelto</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/android-vs-iphone-eterno-debate-cual-mejor-resuelto-1156691' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/android-vs-iphone-eterno-debate-cual-mejor-resuelto-2873855.jpg' alt='Android vs. iPhone: el eterno debate de cuál es mejor, resuelto' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/guia-compra/mando-universal-1112177'>Todo lo que debes saber antes de comprar un mando universal</a></h4>
-    <a href='https://computerhoy.com/guia-compra/mando-universal-1112177' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/mando-distancia-universal-2790593.jpg' alt='Todo lo que debes saber antes de comprar un mando universal' />
     </a>
 </div>
 
