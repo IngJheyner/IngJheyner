@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/razon-no-te-esperas-harrison-ford-regresa-indiana-jones-5-1157537'>La razón que no te esperas por la que Harrison Ford regresa en Indiana Jones 5</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/razon-no-te-esperas-harrison-ford-regresa-indiana-jones-5-1157537' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/indiana-jones-5-2023-2875965.jpg' alt='La razón que no te esperas por la que Harrison Ford regresa en Indiana Jones 5' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/samsung-cree-puede-llevar-android-14-telefonos-rapido-android-13-1157533'>Samsung cree que puede llevar Android 14 a sus teléfonos más rápido que Android 13</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/samsung-cree-puede-llevar-android-14-telefonos-rapido-android-13-1157533' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/android-2876001.jpg' alt='Samsung cree que puede llevar Android 14 a sus teléfonos más rápido que Android 13' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/life/freidoras-aire-aceite-compuestos-cancerigenos-debes-tener-cuenta-1157507'>Las freidoras de aire sin aceite y los compuestos cancerígenos, lo que debes tener en cuenta</a></h4>
     <a href='https://computerhoy.com/reportajes/life/freidoras-aire-aceite-compuestos-cancerigenos-debes-tener-cuenta-1157507' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/freidora-aire-aceite-2875957.jpg' alt='Las freidoras de aire sin aceite y los compuestos cancerígenos, lo que debes tener en cuenta' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/mira-ilusion-optica-cuantos-ojos-distintos-colores-ves-1157491'>Mira esta ilusión óptica: ¿cuántos ojos de distintos colores ves?</a></h4>
-    <a href='https://computerhoy.com/noticias/life/mira-ilusion-optica-cuantos-ojos-distintos-colores-ves-1157491' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/ilusion-munker-white-2875929.jpg' alt='Mira esta ilusión óptica: ¿cuántos ojos de distintos colores ves?' />
     </a>
 </div>
 
