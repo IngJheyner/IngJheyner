@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/analisis/review-ipad-pro-129-2022-m2-1157177'>Análisis del iPad Pro 12,9" de 2022, una bestia con corazón M2 encorsetado por el software</a></h4>
+    <a href='https://computerhoy.com/analisis/review-ipad-pro-129-2022-m2-1157177' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/analisis-ipad-pro-m2-2022-2875589.jpg' alt='Análisis del iPad Pro 12,9" de 2022, una bestia con corazón M2 encorsetado por el software' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/desafio-visual-agujeros-camiseta-acertijo-1157461'>Desafío rápido: solo si tienes un cociente intelectual alto lograrás resolver el acertijo de esta imagen</a></h4>
+    <a href='https://computerhoy.com/noticias/life/desafio-visual-agujeros-camiseta-acertijo-1157461' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/desafio-rapido-solo-tienes-cociente-intelectual-alto-lograras-resolver-acertijo-imagen-2875895.jpg' alt='Desafío rápido: solo si tienes un cociente intelectual alto lograrás resolver el acertijo de esta imagen' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/listas/tecnologia/mejores-ofertas-inicio-semana-black-friday-amazon-1156845'>Estas son las mejores ofertas para empezar la semana del Black Friday en Amazon</a></h4>
     <a href='https://computerhoy.com/listas/tecnologia/mejores-ofertas-inicio-semana-black-friday-amazon-1156845' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/portada-black-friday-2874385.jpg' alt='Estas son las mejores ofertas para empezar la semana del Black Friday en Amazon' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/pup-stack-ancla-perros-video-1157459'>Pup Stack, el ancla para perros (vídeo)</a></h4>
     <a href='https://computerhoy.com/noticias/life/pup-stack-ancla-perros-video-1157459' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/verticalimage1668829982927-2875887.jpg' alt='Pup Stack, el ancla para perros (vídeo)' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/ifixit-trucos-no-te-explote-bateria-movil-cuando-manipulas-1157457'>iFixit revela los trucos para que no te explote la batería del móvil cuando la manipulas</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/ifixit-trucos-no-te-explote-bateria-movil-cuando-manipulas-1157457' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/ifixit-revela-trucos-no-te-explote-bateria-movil-cuando-manipulas-2875883.jpg' alt='iFixit revela los trucos para que no te explote la batería del móvil cuando la manipulas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/espectro-brocken-video-aterrador-1157211'>Graba en vídeo un Espectro de Brocken cuando caminaba solo entre la niebla, y es aterrador</a></h4>
-    <a href='https://computerhoy.com/noticias/life/espectro-brocken-video-aterrador-1157211' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/graba-video-espectro-brocken-cuando-caminaba-solo-niebla-espeluznante-2875113.jpg' alt='Graba en vídeo un Espectro de Brocken cuando caminaba solo entre la niebla, y es aterrador' />
     </a>
 </div>
 
