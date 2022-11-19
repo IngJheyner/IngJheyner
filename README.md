@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-personalizar-iconos-aplicaciones-windows-11-1125123'>Cómo personalizar los iconos de las aplicaciones en Windows 11</a></h4>
+    <a href='https://computerhoy.com/tutoriales/tecnologia/como-personalizar-iconos-aplicaciones-windows-11-1125123' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/iconos-2814273.jpg' alt='Cómo personalizar los iconos de las aplicaciones en Windows 11' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/error-android-auto-desesperando-usuarios-telefono-samsung-1157543'>El error de Android Auto que está desesperando a los usuarios con un teléfono Samsung</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/error-android-auto-desesperando-usuarios-telefono-samsung-1157543' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/android-auto-coolwalk-2870275.jpg' alt='El error de Android Auto que está desesperando a los usuarios con un teléfono Samsung' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/listas/tecnologia/nuevos-televisores-fire-tv-amazon-estan-minimo-historico-estas-ofertas-black-friday-1157451'>Los nuevos televisores con Fire TV de Amazon están a su mínimo histórico en estas ofertas de Black Friday</a></h4>
+    <a href='https://computerhoy.com/listas/tecnologia/nuevos-televisores-fire-tv-amazon-estan-minimo-historico-estas-ofertas-black-friday-1157451' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/nuevos-televisores-fire-tv-amazon-estan-minimo-historico-black-friday-2875869.jpg' alt='Los nuevos televisores con Fire TV de Amazon están a su mínimo histórico en estas ofertas de Black Friday' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/cientificos-descubren-cura-resaca-no-cafe-1157541'>Científicos descubren la cura para la resaca, y no es el café</a></h4>
     <a href='https://computerhoy.com/noticias/life/cientificos-descubren-cura-resaca-no-cafe-1157541' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/resaca-2876003.jpg' alt='Científicos descubren la cura para la resaca, y no es el café' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/razon-no-te-esperas-harrison-ford-regresa-indiana-jones-5-1157537'>La razón que no te esperas por la que Harrison Ford regresa en Indiana Jones 5</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/razon-no-te-esperas-harrison-ford-regresa-indiana-jones-5-1157537' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/indiana-jones-5-2023-2875965.jpg' alt='La razón que no te esperas por la que Harrison Ford regresa en Indiana Jones 5' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/samsung-cree-puede-llevar-android-14-telefonos-rapido-android-13-1157533'>Samsung cree que puede llevar Android 14 a sus teléfonos más rápido que Android 13</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/samsung-cree-puede-llevar-android-14-telefonos-rapido-android-13-1157533' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/android-2876001.jpg' alt='Samsung cree que puede llevar Android 14 a sus teléfonos más rápido que Android 13' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/emoji-secreto-whatsapp-no-saben-ni-amigos-1157513'>Este es el emoji secreto de WhatsApp que no saben ni tus amigos</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/emoji-secreto-whatsapp-no-saben-ni-amigos-1157513' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/whatsapp-2875967.jpg' alt='Este es el emoji secreto de WhatsApp que no saben ni tus amigos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/entretenimiento/series-guion-tan-complicado-casi-hace-falta-tomar-nota-trama-1155889'>8 series con un guión tan complicado que casi hace falta tomar nota de la trama</a></h4>
-    <a href='https://computerhoy.com/reportajes/entretenimiento/series-guion-tan-complicado-casi-hace-falta-tomar-nota-trama-1155889' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/05/westworld-3-1934155.jpg' alt='8 series con un guión tan complicado que casi hace falta tomar nota de la trama' />
     </a>
 </div>
 
