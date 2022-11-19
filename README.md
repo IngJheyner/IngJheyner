@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/android-vs-iphone-eterno-debate-cual-mejor-resuelto-1156691'>Android vs. iPhone: el eterno debate de cuál es mejor, resuelto</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/android-vs-iphone-eterno-debate-cual-mejor-resuelto-1156691' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/android-vs-iphone-eterno-debate-cual-mejor-resuelto-2873855.jpg' alt='Android vs. iPhone: el eterno debate de cuál es mejor, resuelto' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/guia-compra/mando-universal-1112177'>Todo lo que debes saber antes de comprar un mando universal</a></h4>
+    <a href='https://computerhoy.com/guia-compra/mando-universal-1112177' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/mando-distancia-universal-2790593.jpg' alt='Todo lo que debes saber antes de comprar un mando universal' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/analisis/review-ipad-pro-129-2022-m2-1157177'>Análisis del iPad Pro 12,9" de 2022, una bestia con corazón M2 encorsetado por el software</a></h4>
     <a href='https://computerhoy.com/analisis/review-ipad-pro-129-2022-m2-1157177' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/analisis-ipad-pro-m2-2022-2875589.jpg' alt='Análisis del iPad Pro 12,9" de 2022, una bestia con corazón M2 encorsetado por el software' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/listas/tecnologia/mejores-ofertas-inicio-semana-black-friday-amazon-1156845'>Estas son las mejores ofertas para empezar la semana del Black Friday en Amazon</a></h4>
     <a href='https://computerhoy.com/listas/tecnologia/mejores-ofertas-inicio-semana-black-friday-amazon-1156845' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/portada-black-friday-2874385.jpg' alt='Estas son las mejores ofertas para empezar la semana del Black Friday en Amazon' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/cancelacion-ruido-no-cancelacion-esa-cuestion-1156195'>Cancelación de ruido o no cancelación, esa es la cuestión</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/cancelacion-ruido-no-cancelacion-esa-cuestion-1156195' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/cancelacion-ruido-2872699.jpg' alt='Cancelación de ruido o no cancelación, esa es la cuestión' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/pup-stack-ancla-perros-video-1157459'>Pup Stack, el ancla para perros (vídeo)</a></h4>
-    <a href='https://computerhoy.com/noticias/life/pup-stack-ancla-perros-video-1157459' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/verticalimage1668829982927-2875887.jpg' alt='Pup Stack, el ancla para perros (vídeo)' />
     </a>
 </div>
 
