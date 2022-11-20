@@ -58,9 +58,9 @@
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/elon-musk-restaura-cuenta-twitter-donand-trump-1157733'>Elon Musk restaura la cuenta de Twitter de Donald Trump porque "lo pide la gente", y el ex-presidente dice que no quiere volver</a></h4>
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/elon-musk-restaura-cuenta-twitter-donand-trump-1157733'>Elon Musk restaura la cuenta de Twitter de Donald Trump porque "lo pide la gente", y el expresidente dice que no quiere volver</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/elon-musk-restaura-cuenta-twitter-donand-trump-1157733' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/elon-musk-restaura-cuenta-twitter-donand-trump-porque-pide-gente-ex-presidente-dice-no-quiere-volver-2876445.jpg' alt='Elon Musk restaura la cuenta de Twitter de Donald Trump porque "lo pide la gente", y el ex-presidente dice que no quiere volver' />
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/elon-musk-restaura-cuenta-twitter-donand-trump-porque-pide-gente-ex-presidente-dice-no-quiere-volver-2876445.jpg' alt='Elon Musk restaura la cuenta de Twitter de Donald Trump porque "lo pide la gente", y el expresidente dice que no quiere volver' />
     </a>
 </div>
 
