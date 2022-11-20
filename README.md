@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/video-paloma-faisan-cuello-negro-extinta-hace-140-anos-1157737'>Graban en vídeo una paloma faisán que se creía extinta desde hace 140 años, en una isla remota</a></h4>
+    <a href='https://computerhoy.com/noticias/life/video-paloma-faisan-cuello-negro-extinta-hace-140-anos-1157737' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/graban-video-paloma-faisan-creia-extinta-hace-140-anos-isla-remota-2876451.jpg' alt='Graban en vídeo una paloma faisán que se creía extinta desde hace 140 años, en una isla remota' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/justin-bieber-pago-12-millones-dolares-nft-mono-aburrido-hoy-vale-69000-dolares-1157735'>Justin Bieber pagó 1,2 millones de dólares por un NFT del Mono Aburrido que hoy vale 69.000 dólares</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/justin-bieber-pago-12-millones-dolares-nft-mono-aburrido-hoy-vale-69000-dolares-1157735' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/justin-bieber-pago-12-millones-dolares-nft-mono-aburrido-hoy-vale-69000-dolares-2876449.jpg' alt='Justin Bieber pagó 1,2 millones de dólares por un NFT del Mono Aburrido que hoy vale 69.000 dólares' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/epic-google-pago-400-millones-dolares-activision-riot-tiendas-apps-1157715'>Según Epic, Google pagó más de 400 millones de dólares para que Activision, Riot y otras compañías no creasen sus propias tiendas de apps</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/epic-google-pago-400-millones-dolares-activision-riot-tiendas-apps-1157715' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/epic-google-pago-400-millones-dolares-activision-riot-otras-companias-no-creasen-propias-tiendas-apps-2876299.jpg' alt='Según Epic, Google pagó más de 400 millones de dólares para que Activision, Riot y otras compañías no creasen sus propias tiendas de apps' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-desinstalar-facilmente-drivers-windows-11-1139729'>Cómo desinstalar fácilmente drivers en Windows 11</a></h4>
-    <a href='https://computerhoy.com/tutoriales/tecnologia/como-desinstalar-facilmente-drivers-windows-11-1139729' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/drivers-windows-11-2842217.jpg' alt='Cómo desinstalar fácilmente drivers en Windows 11' />
     </a>
 </div>
 
