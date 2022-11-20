@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/12-trucos-sacar-todo-partido-dynamic-island-iphone-14-pro-1156491'>Los 12 trucos para sacar todo el partido a Dynamic Island en iPhone 14 Pro</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/12-trucos-sacar-todo-partido-dynamic-island-iphone-14-pro-1156491' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/analisis-iphone-14-pro-2821751.jpg' alt='Los 12 trucos para sacar todo el partido a Dynamic Island en iPhone 14 Pro' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/ve-luna-artemis-1-orion-impresionante-video-1157637'>Así se ve la Luna desde la Artemis 1 Orion en un impresionante vídeo</a></h4>
+    <a href='https://computerhoy.com/noticias/life/ve-luna-artemis-1-orion-impresionante-video-1157637' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/orion-artemis-i-2876167.jpg' alt='Así se ve la Luna desde la Artemis 1 Orion en un impresionante vídeo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/guia-compra/estaciones-energia-portatiles-1148361'>Estaciones de energía portátiles: todo lo que necesitas saber</a></h4>
     <a href='https://computerhoy.com/guia-compra/estaciones-energia-portatiles-1148361' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/ecoflow-river-2673883.jpg' alt='Estaciones de energía portátiles: todo lo que necesitas saber' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/desafio-visual-encontrar-serpiente-oculta-imagen-1157467'>Desafío rápido: tendrás que tener vista de águila para encontrar la serpiente oculta en esta imagen</a></h4>
     <a href='https://computerhoy.com/noticias/life/desafio-visual-encontrar-serpiente-oculta-imagen-1157467' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/desafio-rapido-tendras-tener-vista-aguila-encontrar-serpiente-oculta-imagen-2875915.jpg' alt='Desafío rápido: tendrás que tener vista de águila para encontrar la serpiente oculta en esta imagen' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/listas/tecnologia/mejores-ofertas-descuentos-menos-50-euros-black-friday-1157575'>Mejores ofertas y descuentos por menos de 50 euros antes del Black Friday</a></h4>
-    <a href='https://computerhoy.com/listas/tecnologia/mejores-ofertas-descuentos-menos-50-euros-black-friday-1157575' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/black-friday-2876105.jpg' alt='Mejores ofertas y descuentos por menos de 50 euros antes del Black Friday' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/restablecer-windows-restauracion-sistema-windows-diferencian-1155787'>Restablecer Windows y Restauración del sistema Windows: en qué se diferencian</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/restablecer-windows-restauracion-sistema-windows-diferencian-1155787' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/ordenador-windows-2871837.jpg' alt='Restablecer Windows y Restauración del sistema Windows: en qué se diferencian' />
     </a>
 </div>
 
