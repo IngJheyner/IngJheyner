@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/desafio-visual-encontrar-serpiente-oculta-imagen-1157467'>Desafío rápido: tendrás que tener vista de águila para encontrar la serpiente oculta en esta imagen</a></h4>
+    <a href='https://computerhoy.com/noticias/life/desafio-visual-encontrar-serpiente-oculta-imagen-1157467' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/desafio-rapido-tendras-tener-vista-aguila-encontrar-serpiente-oculta-imagen-2875915.jpg' alt='Desafío rápido: tendrás que tener vista de águila para encontrar la serpiente oculta en esta imagen' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/listas/tecnologia/mejores-ofertas-descuentos-menos-50-euros-black-friday-1157575'>Mejores ofertas y descuentos por menos de 50 euros antes del Black Friday</a></h4>
+    <a href='https://computerhoy.com/listas/tecnologia/mejores-ofertas-descuentos-menos-50-euros-black-friday-1157575' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/black-friday-2876105.jpg' alt='Mejores ofertas y descuentos por menos de 50 euros antes del Black Friday' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/restablecer-windows-restauracion-sistema-windows-diferencian-1155787'>Restablecer Windows y Restauración del sistema Windows: en qué se diferencian</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/restablecer-windows-restauracion-sistema-windows-diferencian-1155787' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/ordenador-windows-2871837.jpg' alt='Restablecer Windows y Restauración del sistema Windows: en qué se diferencian' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/sparrow-brazo-robotico-ultima-generacion-identifica-objetos-almacenes-amazon-1157577'>Sparrow: un brazo robótico de última generación que identifica objetos en los almacenes de Amazon</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/sparrow-brazo-robotico-ultima-generacion-identifica-objetos-almacenes-amazon-1157577' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/amazon-sparrow-2876083.jpg' alt='Sparrow: un brazo robótico de última generación que identifica objetos en los almacenes de Amazon' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/razon-te-despiertas-justo-antes-suene-despertador-ciencia-1157581'>Esta es la razón por la que te despiertas justo antes de que suene el despertador, según la ciencia</a></h4>
     <a href='https://computerhoy.com/noticias/life/razon-te-despiertas-justo-antes-suene-despertador-ciencia-1157581' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/despertador-2876087.jpg' alt='Esta es la razón por la que te despiertas justo antes de que suene el despertador, según la ciencia' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/donde-comprar-iphone-14-rebajado-black-friday-precio-tiendas-hay-descuentos-1146293'>Dónde comprar el iPhone 14 rebajado este Black Friday: precio y tiendas en las que hay descuentos</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/donde-comprar-iphone-14-rebajado-black-friday-precio-tiendas-hay-descuentos-1146293' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/apple-iphone-14-plus-analisis-opinion-2857685.jpg' alt='Dónde comprar el iPhone 14 rebajado este Black Friday: precio y tiendas en las que hay descuentos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/ahora-puedes-pedirle-asistente-google-busque-reproduzca-podcast-episodio-invitado-1157589'>Ahora puedes pedirle al asistente de Google que busque y reproduzca podcast por episodio o invitado</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/ahora-puedes-pedirle-asistente-google-busque-reproduzca-podcast-episodio-invitado-1157589' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/google-assistant-2311421.jpg' alt='Ahora puedes pedirle al asistente de Google que busque y reproduzca podcast por episodio o invitado' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-personalizar-iconos-aplicaciones-windows-11-1125123'>Cómo personalizar los iconos de las aplicaciones en Windows 11</a></h4>
-    <a href='https://computerhoy.com/tutoriales/tecnologia/como-personalizar-iconos-aplicaciones-windows-11-1125123' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/iconos-2814273.jpg' alt='Cómo personalizar los iconos de las aplicaciones en Windows 11' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/error-android-auto-desesperando-usuarios-telefono-samsung-1157543'>El error de Android Auto que está desesperando a los usuarios con un teléfono Samsung</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/error-android-auto-desesperando-usuarios-telefono-samsung-1157543' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/android-auto-coolwalk-2870275.jpg' alt='El error de Android Auto que está desesperando a los usuarios con un teléfono Samsung' />
     </a>
 </div>
 
