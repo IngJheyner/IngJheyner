@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/estas-son-posibilidades-tiene-espana-ganar-copa-mundo-catar-2022-inteligencia-artificial-1157655'>Estas son las posibilidades que tiene España de ganar la Copa del Mundo de Catar 2022, según la inteligencia artificial</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/estas-son-posibilidades-tiene-espana-ganar-copa-mundo-catar-2022-inteligencia-artificial-1157655' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/fase-caeria-espana-copa-mundo-catar-2022-inteligencia-artificial-2876217.jpg' alt='Estas son las posibilidades que tiene España de ganar la Copa del Mundo de Catar 2022, según la inteligencia artificial' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/intentalo-acertijo-solo-3-personas-han-resuelto-1157647'>Inténtalo con este acertijo que solo un 3% de las personas han resuelto</a></h4>
+    <a href='https://computerhoy.com/noticias/life/intentalo-acertijo-solo-3-personas-han-resuelto-1157647' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/desafio-visual-copos-nieve-2876201.jpg' alt='Inténtalo con este acertijo que solo un 3% de las personas han resuelto' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/entretenimiento/sagas-cinematograficas-seguramente-han-marcado-infancia-puede-padres-1156265'>7 sagas cinematográficas que seguramente han marcado tu infancia, y puede que la de tus padres</a></h4>
+    <a href='https://computerhoy.com/reportajes/entretenimiento/sagas-cinematograficas-seguramente-han-marcado-infancia-puede-padres-1156265' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/jurassic-park-2872857.jpg' alt='7 sagas cinematográficas que seguramente han marcado tu infancia, y puede que la de tus padres' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-escuchar-audio-whatsapp-antes-enviarlo-1157643'>Cómo escuchar un audio de WhatsApp antes de enviarlo</a></h4>
     <a href='https://computerhoy.com/tutoriales/tecnologia/como-escuchar-audio-whatsapp-antes-enviarlo-1157643' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/audio-whatsapp-2876197.jpg' alt='Cómo escuchar un audio de WhatsApp antes de enviarlo' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/12-trucos-sacar-todo-partido-dynamic-island-iphone-14-pro-1156491'>Los 12 trucos para sacar todo el partido a Dynamic Island en iPhone 14 Pro</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/12-trucos-sacar-todo-partido-dynamic-island-iphone-14-pro-1156491' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/analisis-iphone-14-pro-2821751.jpg' alt='Los 12 trucos para sacar todo el partido a Dynamic Island en iPhone 14 Pro' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/ve-luna-artemis-1-orion-impresionante-video-1157637'>Así se ve la Luna desde la Artemis 1 Orion en un impresionante vídeo</a></h4>
-    <a href='https://computerhoy.com/noticias/life/ve-luna-artemis-1-orion-impresionante-video-1157637' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/orion-artemis-i-2876167.jpg' alt='Así se ve la Luna desde la Artemis 1 Orion en un impresionante vídeo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/guia-compra/estaciones-energia-portatiles-1148361'>Estaciones de energía portátiles: todo lo que necesitas saber</a></h4>
-    <a href='https://computerhoy.com/guia-compra/estaciones-energia-portatiles-1148361' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/ecoflow-river-2673883.jpg' alt='Estaciones de energía portátiles: todo lo que necesitas saber' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/puedes-crear-propio-fondo-pantallas-animado-android-iphone-1157339'>Así puedes crear tu propio fondo de pantallas animado en Android y iPhone</a></h4>
-    <a href='https://computerhoy.com/tutoriales/tecnologia/puedes-crear-propio-fondo-pantallas-animado-android-iphone-1157339' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/fondos-pantalla-animados-android-iphone-2875509.jpg' alt='Así puedes crear tu propio fondo de pantallas animado en Android y iPhone' />
     </a>
 </div>
 
