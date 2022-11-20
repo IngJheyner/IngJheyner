@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-desinstalar-facilmente-drivers-windows-11-1139729'>Cómo desinstalar fácilmente drivers en Windows 11</a></h4>
+    <a href='https://computerhoy.com/tutoriales/tecnologia/como-desinstalar-facilmente-drivers-windows-11-1139729' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/drivers-windows-11-2842217.jpg' alt='Cómo desinstalar fácilmente drivers en Windows 11' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/estas-cosas-son-no-debes-comprar-black-friday-jeff-bezos-vende-amazon-1157665'>Estas cosas son las que no debes comprar en el Black Friday según Jeff Bezos, y los vende Amazon</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/estas-cosas-son-no-debes-comprar-black-friday-jeff-bezos-vende-amazon-1157665' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/jeff-bezos-2876245.jpg' alt='Estas cosas son las que no debes comprar en el Black Friday según Jeff Bezos, y los vende Amazon' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/entretenimiento/sagas-cinematograficas-seguramente-han-marcado-infancia-puede-padres-1156265'>7 sagas cinematográficas que seguramente han marcado tu infancia, y puede que la de tus padres</a></h4>
     <a href='https://computerhoy.com/reportajes/entretenimiento/sagas-cinematograficas-seguramente-han-marcado-infancia-puede-padres-1156265' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/jurassic-park-2872857.jpg' alt='7 sagas cinematográficas que seguramente han marcado tu infancia, y puede que la de tus padres' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-escuchar-audio-whatsapp-antes-enviarlo-1157643'>Cómo escuchar un audio de WhatsApp antes de enviarlo</a></h4>
-    <a href='https://computerhoy.com/tutoriales/tecnologia/como-escuchar-audio-whatsapp-antes-enviarlo-1157643' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/audio-whatsapp-2876197.jpg' alt='Cómo escuchar un audio de WhatsApp antes de enviarlo' />
     </a>
 </div>
 
