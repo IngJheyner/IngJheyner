@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/razon-te-despiertas-justo-antes-suene-despertador-ciencia-1157581'>Esta es la razón por la que te despiertas justo antes de que suene el despertador, según la ciencia</a></h4>
+    <a href='https://computerhoy.com/noticias/life/razon-te-despiertas-justo-antes-suene-despertador-ciencia-1157581' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/despertador-2876087.jpg' alt='Esta es la razón por la que te despiertas justo antes de que suene el despertador, según la ciencia' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/donde-comprar-iphone-14-rebajado-black-friday-precio-tiendas-hay-descuentos-1146293'>Dónde comprar el iPhone 14 rebajado este Black Friday: precio y tiendas en las que hay descuentos</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/donde-comprar-iphone-14-rebajado-black-friday-precio-tiendas-hay-descuentos-1146293' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/apple-iphone-14-plus-analisis-opinion-2857685.jpg' alt='Dónde comprar el iPhone 14 rebajado este Black Friday: precio y tiendas en las que hay descuentos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/ahora-puedes-pedirle-asistente-google-busque-reproduzca-podcast-episodio-invitado-1157589'>Ahora puedes pedirle al asistente de Google que busque y reproduzca podcast por episodio o invitado</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/ahora-puedes-pedirle-asistente-google-busque-reproduzca-podcast-episodio-invitado-1157589' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/google-assistant-2311421.jpg' alt='Ahora puedes pedirle al asistente de Google que busque y reproduzca podcast por episodio o invitado' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/error-android-auto-desesperando-usuarios-telefono-samsung-1157543'>El error de Android Auto que está desesperando a los usuarios con un teléfono Samsung</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/error-android-auto-desesperando-usuarios-telefono-samsung-1157543' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/android-auto-coolwalk-2870275.jpg' alt='El error de Android Auto que está desesperando a los usuarios con un teléfono Samsung' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/listas/tecnologia/nuevos-televisores-fire-tv-amazon-estan-minimo-historico-estas-ofertas-black-friday-1157451'>Los nuevos televisores con Fire TV de Amazon están a su mínimo histórico en estas ofertas de Black Friday</a></h4>
-    <a href='https://computerhoy.com/listas/tecnologia/nuevos-televisores-fire-tv-amazon-estan-minimo-historico-estas-ofertas-black-friday-1157451' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/nuevos-televisores-fire-tv-amazon-estan-minimo-historico-black-friday-2875869.jpg' alt='Los nuevos televisores con Fire TV de Amazon están a su mínimo histórico en estas ofertas de Black Friday' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/cientificos-descubren-cura-resaca-no-cafe-1157541'>Científicos descubren la cura para la resaca, y no es el café</a></h4>
-    <a href='https://computerhoy.com/noticias/life/cientificos-descubren-cura-resaca-no-cafe-1157541' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/resaca-2876003.jpg' alt='Científicos descubren la cura para la resaca, y no es el café' />
     </a>
 </div>
 
