@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/elon-musk-restaura-cuenta-twitter-donand-trump-1157733'>Elon Musk restaura la cuenta de Twitter de Donald Trump porque "lo pide la gente", y el ex-presidente dice que no quiere volver</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/elon-musk-restaura-cuenta-twitter-donand-trump-1157733' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/elon-musk-restaura-cuenta-twitter-donand-trump-porque-pide-gente-ex-presidente-dice-no-quiere-volver-2876445.jpg' alt='Elon Musk restaura la cuenta de Twitter de Donald Trump porque "lo pide la gente", y el ex-presidente dice que no quiere volver' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/listas/tecnologia/altavoces-wifi-sonos-ofertas-black-friday-1157721'>Altavoces WiFi de Sonos: ofertas de Black Friday disponibles</a></h4>
     <a href='https://computerhoy.com/listas/tecnologia/altavoces-wifi-sonos-ofertas-black-friday-1157721' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/sonos-arc-2876309.jpg' alt='Altavoces WiFi de Sonos: ofertas de Black Friday disponibles' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/estas-cosas-son-no-debes-comprar-black-friday-jeff-bezos-vende-amazon-1157665'>Estas cosas son las que no debes comprar en el Black Friday según Jeff Bezos, y los vende Amazon</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/estas-cosas-son-no-debes-comprar-black-friday-jeff-bezos-vende-amazon-1157665' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/jeff-bezos-2876245.jpg' alt='Estas cosas son las que no debes comprar en el Black Friday según Jeff Bezos, y los vende Amazon' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/estas-son-posibilidades-tiene-espana-ganar-copa-mundo-catar-2022-inteligencia-artificial-1157655'>Estas son las posibilidades que tiene España de ganar la Copa del Mundo de Catar 2022, según la inteligencia artificial</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/estas-son-posibilidades-tiene-espana-ganar-copa-mundo-catar-2022-inteligencia-artificial-1157655' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/fase-caeria-espana-copa-mundo-catar-2022-inteligencia-artificial-2876217.jpg' alt='Estas son las posibilidades que tiene España de ganar la Copa del Mundo de Catar 2022, según la inteligencia artificial' />
     </a>
 </div>
 
