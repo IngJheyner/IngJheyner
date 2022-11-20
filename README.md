@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/estas-cosas-son-no-debes-comprar-black-friday-jeff-bezos-vende-amazon-1157665'>Estas cosas son las que no debes comprar en el Black Friday según Jeff Bezos, y los vende Amazon</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/estas-cosas-son-no-debes-comprar-black-friday-jeff-bezos-vende-amazon-1157665' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/jeff-bezos-2876245.jpg' alt='Estas cosas son las que no debes comprar en el Black Friday según Jeff Bezos, y los vende Amazon' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/estas-son-posibilidades-tiene-espana-ganar-copa-mundo-catar-2022-inteligencia-artificial-1157655'>Estas son las posibilidades que tiene España de ganar la Copa del Mundo de Catar 2022, según la inteligencia artificial</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/estas-son-posibilidades-tiene-espana-ganar-copa-mundo-catar-2022-inteligencia-artificial-1157655' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/fase-caeria-espana-copa-mundo-catar-2022-inteligencia-artificial-2876217.jpg' alt='Estas son las posibilidades que tiene España de ganar la Copa del Mundo de Catar 2022, según la inteligencia artificial' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-escuchar-audio-whatsapp-antes-enviarlo-1157643'>Cómo escuchar un audio de WhatsApp antes de enviarlo</a></h4>
     <a href='https://computerhoy.com/tutoriales/tecnologia/como-escuchar-audio-whatsapp-antes-enviarlo-1157643' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/audio-whatsapp-2876197.jpg' alt='Cómo escuchar un audio de WhatsApp antes de enviarlo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/12-trucos-sacar-todo-partido-dynamic-island-iphone-14-pro-1156491'>Los 12 trucos para sacar todo el partido a Dynamic Island en iPhone 14 Pro</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/12-trucos-sacar-todo-partido-dynamic-island-iphone-14-pro-1156491' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/analisis-iphone-14-pro-2821751.jpg' alt='Los 12 trucos para sacar todo el partido a Dynamic Island en iPhone 14 Pro' />
     </a>
 </div>
 
