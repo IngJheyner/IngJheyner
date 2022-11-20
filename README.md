@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/epic-google-pago-400-millones-dolares-activision-riot-tiendas-apps-1157715'>Según Epic, Google pagó más de 400 millones de dólares para que Activision, Riot y otras compañías no creasen sus propias tiendas de apps</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/epic-google-pago-400-millones-dolares-activision-riot-tiendas-apps-1157715' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/epic-google-pago-400-millones-dolares-activision-riot-otras-companias-no-creasen-propias-tiendas-apps-2876299.jpg' alt='Según Epic, Google pagó más de 400 millones de dólares para que Activision, Riot y otras compañías no creasen sus propias tiendas de apps' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-desinstalar-facilmente-drivers-windows-11-1139729'>Cómo desinstalar fácilmente drivers en Windows 11</a></h4>
     <a href='https://computerhoy.com/tutoriales/tecnologia/como-desinstalar-facilmente-drivers-windows-11-1139729' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/drivers-windows-11-2842217.jpg' alt='Cómo desinstalar fácilmente drivers en Windows 11' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/intentalo-acertijo-solo-3-personas-han-resuelto-1157647'>Inténtalo con este acertijo que solo un 3% de las personas han resuelto</a></h4>
     <a href='https://computerhoy.com/noticias/life/intentalo-acertijo-solo-3-personas-han-resuelto-1157647' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/desafio-visual-copos-nieve-2876201.jpg' alt='Inténtalo con este acertijo que solo un 3% de las personas han resuelto' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/entretenimiento/sagas-cinematograficas-seguramente-han-marcado-infancia-puede-padres-1156265'>7 sagas cinematográficas que seguramente han marcado tu infancia, y puede que la de tus padres</a></h4>
-    <a href='https://computerhoy.com/reportajes/entretenimiento/sagas-cinematograficas-seguramente-han-marcado-infancia-puede-padres-1156265' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/jurassic-park-2872857.jpg' alt='7 sagas cinematográficas que seguramente han marcado tu infancia, y puede que la de tus padres' />
     </a>
 </div>
 
