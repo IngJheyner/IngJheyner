@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/listas/tecnologia/altavoces-wifi-sonos-ofertas-black-friday-1157721'>Altavoces WiFi de Sonos: ofertas de Black Friday disponibles</a></h4>
+    <a href='https://computerhoy.com/listas/tecnologia/altavoces-wifi-sonos-ofertas-black-friday-1157721' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/sonos-arc-2876309.jpg' alt='Altavoces WiFi de Sonos: ofertas de Black Friday disponibles' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/epic-google-pago-400-millones-dolares-activision-riot-tiendas-apps-1157715'>Según Epic, Google pagó más de 400 millones de dólares para que Activision, Riot y otras compañías no creasen sus propias tiendas de apps</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/epic-google-pago-400-millones-dolares-activision-riot-tiendas-apps-1157715' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/epic-google-pago-400-millones-dolares-activision-riot-otras-companias-no-creasen-propias-tiendas-apps-2876299.jpg' alt='Según Epic, Google pagó más de 400 millones de dólares para que Activision, Riot y otras compañías no creasen sus propias tiendas de apps' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/estas-son-posibilidades-tiene-espana-ganar-copa-mundo-catar-2022-inteligencia-artificial-1157655'>Estas son las posibilidades que tiene España de ganar la Copa del Mundo de Catar 2022, según la inteligencia artificial</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/estas-son-posibilidades-tiene-espana-ganar-copa-mundo-catar-2022-inteligencia-artificial-1157655' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/fase-caeria-espana-copa-mundo-catar-2022-inteligencia-artificial-2876217.jpg' alt='Estas son las posibilidades que tiene España de ganar la Copa del Mundo de Catar 2022, según la inteligencia artificial' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/intentalo-acertijo-solo-3-personas-han-resuelto-1157647'>Inténtalo con este acertijo que solo un 3% de las personas han resuelto</a></h4>
-    <a href='https://computerhoy.com/noticias/life/intentalo-acertijo-solo-3-personas-han-resuelto-1157647' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/desafio-visual-copos-nieve-2876201.jpg' alt='Inténtalo con este acertijo que solo un 3% de las personas han resuelto' />
     </a>
 </div>
 
