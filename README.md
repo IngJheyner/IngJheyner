@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/puedes-crear-propio-fondo-pantallas-animado-android-iphone-1157339'>Así puedes crear tu propio fondo de pantallas animado en Android y iPhone</a></h4>
+    <a href='https://computerhoy.com/tutoriales/tecnologia/puedes-crear-propio-fondo-pantallas-animado-android-iphone-1157339' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/fondos-pantalla-animados-android-iphone-2875509.jpg' alt='Así puedes crear tu propio fondo de pantallas animado en Android y iPhone' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/desafio-visual-encontrar-serpiente-oculta-imagen-1157467'>Desafío rápido: tendrás que tener vista de águila para encontrar la serpiente oculta en esta imagen</a></h4>
     <a href='https://computerhoy.com/noticias/life/desafio-visual-encontrar-serpiente-oculta-imagen-1157467' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/desafio-rapido-tendras-tener-vista-aguila-encontrar-serpiente-oculta-imagen-2875915.jpg' alt='Desafío rápido: tendrás que tener vista de águila para encontrar la serpiente oculta en esta imagen' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/sparrow-brazo-robotico-ultima-generacion-identifica-objetos-almacenes-amazon-1157577'>Sparrow: un brazo robótico de última generación que identifica objetos en los almacenes de Amazon</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/sparrow-brazo-robotico-ultima-generacion-identifica-objetos-almacenes-amazon-1157577' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/amazon-sparrow-2876083.jpg' alt='Sparrow: un brazo robótico de última generación que identifica objetos en los almacenes de Amazon' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/razon-te-despiertas-justo-antes-suene-despertador-ciencia-1157581'>Esta es la razón por la que te despiertas justo antes de que suene el despertador, según la ciencia</a></h4>
-    <a href='https://computerhoy.com/noticias/life/razon-te-despiertas-justo-antes-suene-despertador-ciencia-1157581' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/despertador-2876087.jpg' alt='Esta es la razón por la que te despiertas justo antes de que suene el despertador, según la ciencia' />
     </a>
 </div>
 
