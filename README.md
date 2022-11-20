@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/justin-bieber-pago-12-millones-dolares-nft-mono-aburrido-hoy-vale-69000-dolares-1157735'>Justin Bieber pagó 1,2 millones de dólares por un NFT del Mono Aburrido que hoy vale 69.000 dólares</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/justin-bieber-pago-12-millones-dolares-nft-mono-aburrido-hoy-vale-69000-dolares-1157735' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/justin-bieber-pago-12-millones-dolares-nft-mono-aburrido-hoy-vale-69000-dolares-2876449.jpg' alt='Justin Bieber pagó 1,2 millones de dólares por un NFT del Mono Aburrido que hoy vale 69.000 dólares' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/elon-musk-restaura-cuenta-twitter-donand-trump-1157733'>Elon Musk restaura la cuenta de Twitter de Donald Trump porque "lo pide la gente", y el ex-presidente dice que no quiere volver</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/elon-musk-restaura-cuenta-twitter-donand-trump-1157733' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/elon-musk-restaura-cuenta-twitter-donand-trump-porque-pide-gente-ex-presidente-dice-no-quiere-volver-2876445.jpg' alt='Elon Musk restaura la cuenta de Twitter de Donald Trump porque "lo pide la gente", y el ex-presidente dice que no quiere volver' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-desinstalar-facilmente-drivers-windows-11-1139729'>Cómo desinstalar fácilmente drivers en Windows 11</a></h4>
     <a href='https://computerhoy.com/tutoriales/tecnologia/como-desinstalar-facilmente-drivers-windows-11-1139729' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/drivers-windows-11-2842217.jpg' alt='Cómo desinstalar fácilmente drivers en Windows 11' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/estas-cosas-son-no-debes-comprar-black-friday-jeff-bezos-vende-amazon-1157665'>Estas cosas son las que no debes comprar en el Black Friday según Jeff Bezos, y los vende Amazon</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/estas-cosas-son-no-debes-comprar-black-friday-jeff-bezos-vende-amazon-1157665' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/jeff-bezos-2876245.jpg' alt='Estas cosas son las que no debes comprar en el Black Friday según Jeff Bezos, y los vende Amazon' />
     </a>
 </div>
 
