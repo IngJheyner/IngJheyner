@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/twitter-usuarios-comparten-series-peliculas-1158133'>La seguridad de Twitter es un caos: los usuarios aprovechan para compartir series y películas</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/twitter-usuarios-comparten-series-peliculas-1158133' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/fast-furious-9-2340967.jpg' alt='La seguridad de Twitter es un caos: los usuarios aprovechan para compartir series y películas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/te-pueden-acabar-estafando-bizum-estan-cayendo-muchos-amigos-1158115'>Así te pueden acabar estafando en Bizum, y están cayendo muchos de tus amigos</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/te-pueden-acabar-estafando-bizum-estan-cayendo-muchos-amigos-1158115' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/como-recuperar-dinero-cuando-has-enviado-bizum-equivocado-2692583.jpg' alt='Así te pueden acabar estafando en Bizum, y están cayendo muchos de tus amigos' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/faltaba-facebook-nueva-inteligencia-artificial-racista-difunde-fake-news-1158043'>Lo que le faltaba a Facebook: su nueva inteligencia artificial es racista y difunde Fake News</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/faltaba-facebook-nueva-inteligencia-artificial-racista-difunde-fake-news-1158043' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/meta-facebook-2877199.jpg' alt='Lo que le faltaba a Facebook: su nueva inteligencia artificial es racista y difunde Fake News' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/evita-problemas-hacienda-limite-dinero-puede-enviar-bizum-espana-1158045'>Evita problemas con Hacienda: este es el límite de dinero que se puede enviar por Bizum en España</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/evita-problemas-hacienda-limite-dinero-puede-enviar-bizum-espana-1158045' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/estas-son-3-estafas-comunes-bizum-banco-espana-2505953.jpg' alt='Evita problemas con Hacienda: este es el límite de dinero que se puede enviar por Bizum en España' />
     </a>
 </div>
 
