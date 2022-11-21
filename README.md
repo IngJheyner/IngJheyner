@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/usa-google-maps-como-recomendador-gastronomico-encuentra-buenos-restaurantes-1157803'>Usa Google Maps como recomendador gastronómico y encuentra buenos restaurantes</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/usa-google-maps-como-recomendador-gastronomico-encuentra-buenos-restaurantes-1157803' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/cocineros-cocina-restaurante-2789511.jpg' alt='Usa Google Maps como recomendador gastronómico y encuentra buenos restaurantes' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/dron-combate-impulsado-ia-puede-evaluar-edificios-humanos-realizar-ataques-suicidas-1157823'>Este dron de combate impulsado por IA evalúa edificios y humanos y realiza ataques suicidas </a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/dron-combate-impulsado-ia-puede-evaluar-edificios-humanos-realizar-ataques-suicidas-1157823' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/ia-utiliza-drones-militares-modo-suicida-tal-como-japoneses-usaban-aviones-zero-2876543.jpg' alt='Este dron de combate impulsado por IA evalúa edificios y humanos y realiza ataques suicidas ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/odia-gente-windows-11-1157783'>Esto es lo que más odia la gente de Windows 11</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/odia-gente-windows-11-1157783' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/odia-gente-windows-11-2876523.jpg' alt='Esto es lo que más odia la gente de Windows 11' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/masaje-cejas-30-segundos-necesitas-usar-mucho-ordenador-ciencia-1157771'>Así es el masaje de cejas de 30 segundos que necesitas tras usar mucho el ordenador, según la ciencia</a></h4>
     <a href='https://computerhoy.com/noticias/life/masaje-cejas-30-segundos-necesitas-usar-mucho-ordenador-ciencia-1157771' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/cejas-2876501.jpg' alt='Así es el masaje de cejas de 30 segundos que necesitas tras usar mucho el ordenador, según la ciencia' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/desafio-rapido-encuentra-hombre-oculto-imagen-menos-10-segundos-1157739'>Desafío rápido: encuentra un hombre oculto en esta imagen en menos de 10 segundos</a></h4>
     <a href='https://computerhoy.com/noticias/life/desafio-rapido-encuentra-hombre-oculto-imagen-menos-10-segundos-1157739' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/desafio-rapido-encuentra-hombre-oculto-imagen-menos-10-segundos-2876457.jpg' alt='Desafío rápido: encuentra un hombre oculto en esta imagen en menos de 10 segundos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-trucos-consejos-ahorrar-black-friday-970097'>Mejores trucos y consejos para ahorrar en el Black Friday</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-trucos-consejos-ahorrar-black-friday-970097' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/black-friday-2870195.jpg' alt='Mejores trucos y consejos para ahorrar en el Black Friday' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/estas-aplicaciones-gratuitas-mantendran-cualquiera-dispositivos-datos-seguros-1157517'>Estas aplicaciones gratuitas mantendrán cualquiera de tus dispositivos y tus datos seguros</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/estas-aplicaciones-gratuitas-mantendran-cualquiera-dispositivos-datos-seguros-1157517' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/6-aplicaciones-gratuitas-mantendran-cualquiera-dispositivos-datos-seguros-2876223.jpg' alt='Estas aplicaciones gratuitas mantendrán cualquiera de tus dispositivos y tus datos seguros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/35-noticias-tecnologia-comenzar-manana-informado-ultimo-1157743'>35 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/35-noticias-tecnologia-comenzar-manana-informado-ultimo-1157743' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/35-noticias-tecnologia-comenzar-manana-informado-ultimo-2876463.jpg' alt='35 noticias de tecnología para comenzar la mañana informado de lo último' />
     </a>
 </div>
 
