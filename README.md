@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/masaje-cejas-30-segundos-necesitas-usar-mucho-ordenador-ciencia-1157771'>Así es el masaje de cejas de 30 segundos que necesitas tras usar mucho el ordenador, según la ciencia</a></h4>
+    <a href='https://computerhoy.com/noticias/life/masaje-cejas-30-segundos-necesitas-usar-mucho-ordenador-ciencia-1157771' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/cejas-2876501.jpg' alt='Así es el masaje de cejas de 30 segundos que necesitas tras usar mucho el ordenador, según la ciencia' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/desafio-rapido-encuentra-hombre-oculto-imagen-menos-10-segundos-1157739'>Desafío rápido: encuentra un hombre oculto en esta imagen en menos de 10 segundos</a></h4>
     <a href='https://computerhoy.com/noticias/life/desafio-rapido-encuentra-hombre-oculto-imagen-menos-10-segundos-1157739' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/desafio-rapido-encuentra-hombre-oculto-imagen-menos-10-segundos-2876457.jpg' alt='Desafío rápido: encuentra un hombre oculto en esta imagen en menos de 10 segundos' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/35-noticias-tecnologia-comenzar-manana-informado-ultimo-1157743'>35 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/35-noticias-tecnologia-comenzar-manana-informado-ultimo-1157743' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/35-noticias-tecnologia-comenzar-manana-informado-ultimo-2876463.jpg' alt='35 noticias de tecnología para comenzar la mañana informado de lo último' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/video-paloma-faisan-cuello-negro-extinta-hace-140-anos-1157737'>Graban en vídeo una paloma faisán que se creía extinta desde hace 140 años, en una isla remota</a></h4>
-    <a href='https://computerhoy.com/noticias/life/video-paloma-faisan-cuello-negro-extinta-hace-140-anos-1157737' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/graban-video-paloma-faisan-creia-extinta-hace-140-anos-isla-remota-2876451.jpg' alt='Graban en vídeo una paloma faisán que se creía extinta desde hace 140 años, en una isla remota' />
     </a>
 </div>
 
