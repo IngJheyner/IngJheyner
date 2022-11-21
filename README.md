@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/estas-aplicaciones-gratuitas-mantendran-cualquiera-dispositivos-datos-seguros-1157517'>Estas aplicaciones gratuitas mantendrán cualquiera de tus dispositivos y tus datos seguros</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/estas-aplicaciones-gratuitas-mantendran-cualquiera-dispositivos-datos-seguros-1157517' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/6-aplicaciones-gratuitas-mantendran-cualquiera-dispositivos-datos-seguros-2876223.jpg' alt='Estas aplicaciones gratuitas mantendrán cualquiera de tus dispositivos y tus datos seguros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/35-noticias-tecnologia-comenzar-manana-informado-ultimo-1157743'>35 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/35-noticias-tecnologia-comenzar-manana-informado-ultimo-1157743' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/35-noticias-tecnologia-comenzar-manana-informado-ultimo-2876463.jpg' alt='35 noticias de tecnología para comenzar la mañana informado de lo último' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/video-paloma-faisan-cuello-negro-extinta-hace-140-anos-1157737'>Graban en vídeo una paloma faisán que se creía extinta desde hace 140 años, en una isla remota</a></h4>
     <a href='https://computerhoy.com/noticias/life/video-paloma-faisan-cuello-negro-extinta-hace-140-anos-1157737' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/graban-video-paloma-faisan-creia-extinta-hace-140-anos-isla-remota-2876451.jpg' alt='Graban en vídeo una paloma faisán que se creía extinta desde hace 140 años, en una isla remota' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/elon-musk-restaura-cuenta-twitter-donand-trump-1157733'>Elon Musk restaura la cuenta de Twitter de Donald Trump porque "lo pide la gente", y el expresidente dice que no quiere volver</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/elon-musk-restaura-cuenta-twitter-donand-trump-1157733' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/elon-musk-restaura-cuenta-twitter-donand-trump-porque-pide-gente-ex-presidente-dice-no-quiere-volver-2876445.jpg' alt='Elon Musk restaura la cuenta de Twitter de Donald Trump porque "lo pide la gente", y el expresidente dice que no quiere volver' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/listas/tecnologia/altavoces-wifi-sonos-ofertas-black-friday-1157721'>Altavoces WiFi de Sonos: ofertas de Black Friday disponibles</a></h4>
-    <a href='https://computerhoy.com/listas/tecnologia/altavoces-wifi-sonos-ofertas-black-friday-1157721' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/sonos-arc-2876309.jpg' alt='Altavoces WiFi de Sonos: ofertas de Black Friday disponibles' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/epic-google-pago-400-millones-dolares-activision-riot-tiendas-apps-1157715'>Según Epic, Google pagó más de 400 millones de dólares para que Activision, Riot y otras compañías no creasen sus propias tiendas de apps</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/epic-google-pago-400-millones-dolares-activision-riot-tiendas-apps-1157715' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/epic-google-pago-400-millones-dolares-activision-riot-otras-companias-no-creasen-propias-tiendas-apps-2876299.jpg' alt='Según Epic, Google pagó más de 400 millones de dólares para que Activision, Riot y otras compañías no creasen sus propias tiendas de apps' />
     </a>
 </div>
 
