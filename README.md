@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/analisis-comedero-fuente-inteligentes-xiaomi-1157895'>Análisis del comedero y fuente inteligentes de Xiaomi</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/analisis-comedero-fuente-inteligentes-xiaomi-1157895' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/analisis-xiaomi-smart-pet-2877077.jpg' alt='Análisis del comedero y fuente inteligentes de Xiaomi' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/funcionan-altavoces-invisibles-lg-forma-panel-coche-1157957'>Así funcionan los altavoces "invisibles" de LG con forma de panel para tu coche</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/funcionan-altavoces-invisibles-lg-forma-panel-coche-1157957' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/funcionan-altavoces-invisibles-lg-display-forma-panel-coche-2876911.jpg' alt='Así funcionan los altavoces "invisibles" de LG con forma de panel para tu coche' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/usuarios-iptv-ilegal-estan-recibiendo-multas-correo-primera-vez-europa-1157939'>Usuarios de IPTV ilegal están recibiendo multas por correo por primera vez en Europa</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/usuarios-iptv-ilegal-estan-recibiendo-multas-correo-primera-vez-europa-1157939' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/iptv-2876899.jpg' alt='Usuarios de IPTV ilegal están recibiendo multas por correo por primera vez en Europa' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/no-oro-todo-reluce-coches-hidrogeno-esconden-handicaps-no-estan-teniendo-cuenta-1157929'>No es oro todo lo que reluce: los coches de hidrógeno esconden hándicaps que no se están teniendo en cuenta</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/no-oro-todo-reluce-coches-hidrogeno-esconden-handicaps-no-estan-teniendo-cuenta-1157929' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/efecto-negativo-coches-hidrogeno-nadie-teniendo-cuenta-2876783.jpg' alt='No es oro todo lo que reluce: los coches de hidrógeno esconden hándicaps que no se están teniendo en cuenta' />
     </a>
 </div>
 
