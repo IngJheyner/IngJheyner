@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/faltaba-facebook-nueva-inteligencia-artificial-racista-difunde-fake-news-1158043'>Lo que le faltaba a Facebook: su nueva inteligencia artificial es racista y difunde Fake News</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/faltaba-facebook-nueva-inteligencia-artificial-racista-difunde-fake-news-1158043' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/meta-facebook-2877199.jpg' alt='Lo que le faltaba a Facebook: su nueva inteligencia artificial es racista y difunde Fake News' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/evita-problemas-hacienda-limite-dinero-puede-enviar-bizum-espana-1158045'>Evita problemas con Hacienda: este es el límite de dinero que se puede enviar por Bizum en España</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/evita-problemas-hacienda-limite-dinero-puede-enviar-bizum-espana-1158045' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/estas-son-3-estafas-comunes-bizum-banco-espana-2505953.jpg' alt='Evita problemas con Hacienda: este es el límite de dinero que se puede enviar por Bizum en España' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/analisis-xiaomi-smart-pet-food-feeder-pet-fountain-review-1157895'>Análisis del comedero y fuente inteligentes de Xiaomi</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/analisis-xiaomi-smart-pet-food-feeder-pet-fountain-review-1157895' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/analisis-xiaomi-smart-pet-2877077.jpg' alt='Análisis del comedero y fuente inteligentes de Xiaomi' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/5-tendencias-tecnologicas-explotaran-2023-1157937'>Las 5 tendencias tecnológicas que explotarán en 2023</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/5-tendencias-tecnologicas-explotaran-2023-1157937' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/tecnologia-nuevas-tendencias-2876787.jpg' alt='Las 5 tendencias tecnológicas que explotarán en 2023' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/mini-cup-minijuego-mundial-futbol-google-puedes-jugar-movil-1157947'>Mini Cup, el minijuego del Mundial de Fútbol de Google que puedes jugar desde tu móvil</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/mini-cup-minijuego-mundial-futbol-google-puedes-jugar-movil-1157947' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/mini-cup-minijuego-mundial-futbol-google-puedes-jugar-movil-2876845.jpg' alt='Mini Cup, el minijuego del Mundial de Fútbol de Google que puedes jugar desde tu móvil' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/usuarios-iptv-ilegal-estan-recibiendo-multas-correo-primera-vez-europa-1157939'>Usuarios de IPTV ilegal están recibiendo multas por correo por primera vez en Europa</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/usuarios-iptv-ilegal-estan-recibiendo-multas-correo-primera-vez-europa-1157939' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/iptv-2876899.jpg' alt='Usuarios de IPTV ilegal están recibiendo multas por correo por primera vez en Europa' />
     </a>
 </div>
 
