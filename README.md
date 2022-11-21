@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/te-pueden-acabar-estafando-bizum-estan-cayendo-muchos-amigos-1158115'>Así te pueden acabar estafando en Bizum, y están cayendo muchos de tus amigos</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/te-pueden-acabar-estafando-bizum-estan-cayendo-muchos-amigos-1158115' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/como-recuperar-dinero-cuando-has-enviado-bizum-equivocado-2692583.jpg' alt='Así te pueden acabar estafando en Bizum, y están cayendo muchos de tus amigos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/steve-jobs-tenia-problema-otros-no-podian-soportar-eso-fue-relegado-turno-noche-primeros-empleos-1158111'>Steve Jobs tenía un problema que otros no podían soportar y por eso fue relegado al turno de noche en uno de sus primeros empleos</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/steve-jobs-tenia-problema-otros-no-podian-soportar-eso-fue-relegado-turno-noche-primeros-empleos-1158111' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/steve-jobs-allan-alcorn-2877285.jpg' alt='Steve Jobs tenía un problema que otros no podían soportar y por eso fue relegado al turno de noche en uno de sus primeros empleos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/listas/gaming/consolas-ofertas-black-friday-regalos-navidad-1157841'>Hay stock de estas consolas, están en oferta por Black Friday y las puedes para regalar en Navidad</a></h4>
     <a href='https://computerhoy.com/listas/gaming/consolas-ofertas-black-friday-regalos-navidad-1157841' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/mandos-xbox-series-x-sony-playstation-5-2876993.jpg' alt='Hay stock de estas consolas, están en oferta por Black Friday y las puedes para regalar en Navidad' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/evita-problemas-hacienda-limite-dinero-puede-enviar-bizum-espana-1158045'>Evita problemas con Hacienda: este es el límite de dinero que se puede enviar por Bizum en España</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/evita-problemas-hacienda-limite-dinero-puede-enviar-bizum-espana-1158045' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/estas-son-3-estafas-comunes-bizum-banco-espana-2505953.jpg' alt='Evita problemas con Hacienda: este es el límite de dinero que se puede enviar por Bizum en España' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/analisis-xiaomi-smart-pet-food-feeder-pet-fountain-review-1157895'>Análisis del comedero y fuente inteligentes de Xiaomi</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/analisis-xiaomi-smart-pet-food-feeder-pet-fountain-review-1157895' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/analisis-xiaomi-smart-pet-2877077.jpg' alt='Análisis del comedero y fuente inteligentes de Xiaomi' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/funcionan-altavoces-invisibles-lg-forma-panel-coche-1157957'>Así funcionan los altavoces "invisibles" de LG con forma de panel para tu coche</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/funcionan-altavoces-invisibles-lg-forma-panel-coche-1157957' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/funcionan-altavoces-invisibles-lg-display-forma-panel-coche-2876911.jpg' alt='Así funcionan los altavoces "invisibles" de LG con forma de panel para tu coche' />
     </a>
 </div>
 
