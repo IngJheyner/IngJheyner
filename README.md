@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/movistar-no-te-va-subir-20eu-tarifa-nueva-estafa-quiere-robar-datos-1158047'>Movistar no te va a subir 20€ en tu tarifa: así es la nueva estafa que quiere robar tus datos</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/movistar-no-te-va-subir-20eu-tarifa-nueva-estafa-quiere-robar-datos-1158047' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/entrada-tienda-movistar-2872809.jpg' alt='Movistar no te va a subir 20€ en tu tarifa: así es la nueva estafa que quiere robar tus datos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/samsung-galaxy-s22-oferta-black-friday-1158143'>Llévate el buque insignia de Samsung, el Galaxy S22, ahora que cae por debajo de los 650 euros</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/samsung-galaxy-s22-oferta-black-friday-1158143' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/samsung-galaxy-s22-analisis-opinion-2741199.jpg' alt='Llévate el buque insignia de Samsung, el Galaxy S22, ahora que cae por debajo de los 650 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/listas/gaming/consolas-ofertas-black-friday-regalos-navidad-1157841'>Hay stock de estas consolas, están en oferta por Black Friday y las puedes regalar en Navidad</a></h4>
+    <a href='https://computerhoy.com/listas/gaming/consolas-ofertas-black-friday-regalos-navidad-1157841' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/mandos-xbox-series-x-sony-playstation-5-2876993.jpg' alt='Hay stock de estas consolas, están en oferta por Black Friday y las puedes regalar en Navidad' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/twitter-usuarios-comparten-series-peliculas-1158133'>La seguridad de Twitter es un caos: los usuarios aprovechan para compartir series y películas</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/twitter-usuarios-comparten-series-peliculas-1158133' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/fast-furious-9-2340967.jpg' alt='La seguridad de Twitter es un caos: los usuarios aprovechan para compartir series y películas' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/te-pueden-acabar-estafando-bizum-estan-cayendo-muchos-amigos-1158115'>Así te pueden acabar estafando en Bizum, y están cayendo muchos de tus amigos</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/te-pueden-acabar-estafando-bizum-estan-cayendo-muchos-amigos-1158115' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/como-recuperar-dinero-cuando-has-enviado-bizum-equivocado-2692583.jpg' alt='Así te pueden acabar estafando en Bizum, y están cayendo muchos de tus amigos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/steve-jobs-tenia-problema-otros-no-podian-soportar-eso-fue-relegado-turno-noche-primeros-empleos-1158111'>Steve Jobs tenía un problema que otros no podían soportar y por eso fue relegado al turno de noche en uno de sus primeros empleos</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/steve-jobs-tenia-problema-otros-no-podian-soportar-eso-fue-relegado-turno-noche-primeros-empleos-1158111' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/steve-jobs-allan-alcorn-2877285.jpg' alt='Steve Jobs tenía un problema que otros no podían soportar y por eso fue relegado al turno de noche en uno de sus primeros empleos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/listas/gaming/consolas-ofertas-black-friday-regalos-navidad-1157841'>Hay stock de estas consolas, están en oferta por Black Friday y las puedes para regalar en Navidad</a></h4>
-    <a href='https://computerhoy.com/listas/gaming/consolas-ofertas-black-friday-regalos-navidad-1157841' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/mandos-xbox-series-x-sony-playstation-5-2876993.jpg' alt='Hay stock de estas consolas, están en oferta por Black Friday y las puedes para regalar en Navidad' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/faltaba-facebook-nueva-inteligencia-artificial-racista-difunde-fake-news-1158043'>Lo que le faltaba a Facebook: su nueva inteligencia artificial es racista y difunde Fake News</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/faltaba-facebook-nueva-inteligencia-artificial-racista-difunde-fake-news-1158043' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/meta-facebook-2877199.jpg' alt='Lo que le faltaba a Facebook: su nueva inteligencia artificial es racista y difunde Fake News' />
     </a>
 </div>
 
