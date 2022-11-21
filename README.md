@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/listas/tecnologia/black-friday-corte-ingles-estas-son-rebajas-top-electronica-1157851'>Black Friday en El Corte Inglés: estas son las rebajas top en electrónica</a></h4>
+    <a href='https://computerhoy.com/listas/tecnologia/black-friday-corte-ingles-estas-son-rebajas-top-electronica-1157851' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/11/black-friday-2146431.jpg' alt='Black Friday en El Corte Inglés: estas son las rebajas top en electrónica' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/estudio-demuestra-efectos-exposicion-temprana-segundo-idioma-1157855'>Un estudio demuestra los efectos de la exposición temprana a un segundo idioma</a></h4>
+    <a href='https://computerhoy.com/noticias/life/estudio-demuestra-efectos-exposicion-temprana-segundo-idioma-1157855' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/musica-bebes-2335505.jpg' alt='Un estudio demuestra los efectos de la exposición temprana a un segundo idioma' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/ibai-vuelve-youtube-dejara-streamear-twitch-estos-motivos-1157861'>Ibai se vuelve a YouTube y dejará de streamear en Twitch por estos motivos</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/ibai-vuelve-youtube-dejara-streamear-twitch-estos-motivos-1157861' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/ibai-vuelve-youtube-dejara-streamear-twitch-estos-motivos-2876639.jpg' alt='Ibai se vuelve a YouTube y dejará de streamear en Twitch por estos motivos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/usa-google-maps-como-recomendador-gastronomico-encuentra-buenos-restaurantes-1157803'>Usa Google Maps como recomendador gastronómico y encuentra buenos restaurantes</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/usa-google-maps-como-recomendador-gastronomico-encuentra-buenos-restaurantes-1157803' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/cocineros-cocina-restaurante-2789511.jpg' alt='Usa Google Maps como recomendador gastronómico y encuentra buenos restaurantes' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/dron-combate-impulsado-ia-puede-evaluar-edificios-humanos-realizar-ataques-suicidas-1157823'>Este dron de combate impulsado por IA evalúa edificios y humanos y realiza ataques suicidas </a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/dron-combate-impulsado-ia-puede-evaluar-edificios-humanos-realizar-ataques-suicidas-1157823' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/ia-utiliza-drones-militares-modo-suicida-tal-como-japoneses-usaban-aviones-zero-2876543.jpg' alt='Este dron de combate impulsado por IA evalúa edificios y humanos y realiza ataques suicidas ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/odia-gente-windows-11-1157783'>Esto es lo que más odia la gente de Windows 11</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/odia-gente-windows-11-1157783' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/odia-gente-windows-11-2876523.jpg' alt='Esto es lo que más odia la gente de Windows 11' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/masaje-cejas-30-segundos-necesitas-usar-mucho-ordenador-ciencia-1157771'>Así es el masaje de cejas de 30 segundos que necesitas tras usar mucho el ordenador, según la ciencia</a></h4>
-    <a href='https://computerhoy.com/noticias/life/masaje-cejas-30-segundos-necesitas-usar-mucho-ordenador-ciencia-1157771' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/cejas-2876501.jpg' alt='Así es el masaje de cejas de 30 segundos que necesitas tras usar mucho el ordenador, según la ciencia' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/desafio-rapido-encuentra-hombre-oculto-imagen-menos-10-segundos-1157739'>Desafío rápido: encuentra un hombre oculto en esta imagen en menos de 10 segundos</a></h4>
-    <a href='https://computerhoy.com/noticias/life/desafio-rapido-encuentra-hombre-oculto-imagen-menos-10-segundos-1157739' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/desafio-rapido-encuentra-hombre-oculto-imagen-menos-10-segundos-2876457.jpg' alt='Desafío rápido: encuentra un hombre oculto en esta imagen en menos de 10 segundos' />
     </a>
 </div>
 
