@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/listas/gaming/consolas-ofertas-black-friday-regalos-navidad-1157841'>Hay stock de estas consolas, están en oferta por Black Friday y las puedes para regalar en Navidad</a></h4>
+    <a href='https://computerhoy.com/listas/gaming/consolas-ofertas-black-friday-regalos-navidad-1157841' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/mandos-xbox-series-x-sony-playstation-5-2876993.jpg' alt='Hay stock de estas consolas, están en oferta por Black Friday y las puedes para regalar en Navidad' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/faltaba-facebook-nueva-inteligencia-artificial-racista-difunde-fake-news-1158043'>Lo que le faltaba a Facebook: su nueva inteligencia artificial es racista y difunde Fake News</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/faltaba-facebook-nueva-inteligencia-artificial-racista-difunde-fake-news-1158043' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/meta-facebook-2877199.jpg' alt='Lo que le faltaba a Facebook: su nueva inteligencia artificial es racista y difunde Fake News' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/funcionan-altavoces-invisibles-lg-forma-panel-coche-1157957'>Así funcionan los altavoces "invisibles" de LG con forma de panel para tu coche</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/funcionan-altavoces-invisibles-lg-forma-panel-coche-1157957' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/funcionan-altavoces-invisibles-lg-display-forma-panel-coche-2876911.jpg' alt='Así funcionan los altavoces "invisibles" de LG con forma de panel para tu coche' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/5-tendencias-tecnologicas-explotaran-2023-1157937'>Las 5 tendencias tecnológicas que explotarán en 2023</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/5-tendencias-tecnologicas-explotaran-2023-1157937' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/tecnologia-nuevas-tendencias-2876787.jpg' alt='Las 5 tendencias tecnológicas que explotarán en 2023' />
     </a>
 </div>
 
