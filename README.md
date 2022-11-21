@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/funcionan-altavoces-invisibles-lg-forma-panel-coche-1157957'>Así funcionan los altavoces "invisibles" de LG con forma de panel para tu coche</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/funcionan-altavoces-invisibles-lg-forma-panel-coche-1157957' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/funcionan-altavoces-invisibles-lg-display-forma-panel-coche-2876911.jpg' alt='Así funcionan los altavoces "invisibles" de LG con forma de panel para tu coche' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/5-tendencias-tecnologicas-explotaran-2023-1157937'>Las 5 tendencias tecnológicas que explotarán en 2023</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/5-tendencias-tecnologicas-explotaran-2023-1157937' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/tecnologia-nuevas-tendencias-2876787.jpg' alt='Las 5 tendencias tecnológicas que explotarán en 2023' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/mini-cup-minijuego-mundial-futbol-google-puedes-jugar-movil-1157947'>Mini Cup, el minijuego del Mundial de Fútbol de Google que puedes jugar desde tu móvil</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/mini-cup-minijuego-mundial-futbol-google-puedes-jugar-movil-1157947' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/mini-cup-minijuego-mundial-futbol-google-puedes-jugar-movil-2876845.jpg' alt='Mini Cup, el minijuego del Mundial de Fútbol de Google que puedes jugar desde tu móvil' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/no-oro-todo-reluce-coches-hidrogeno-esconden-handicaps-no-estan-teniendo-cuenta-1157929'>No es oro todo lo que reluce: los coches de hidrógeno esconden hándicaps que no se están teniendo en cuenta</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/no-oro-todo-reluce-coches-hidrogeno-esconden-handicaps-no-estan-teniendo-cuenta-1157929' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/efecto-negativo-coches-hidrogeno-nadie-teniendo-cuenta-2876783.jpg' alt='No es oro todo lo que reluce: los coches de hidrógeno esconden hándicaps que no se están teniendo en cuenta' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/listas/tecnologia/black-friday-corte-ingles-estas-son-rebajas-top-electronica-1157851'>Black Friday en El Corte Inglés: estas son las rebajas top en electrónica</a></h4>
-    <a href='https://computerhoy.com/listas/tecnologia/black-friday-corte-ingles-estas-son-rebajas-top-electronica-1157851' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/11/black-friday-2146431.jpg' alt='Black Friday en El Corte Inglés: estas son las rebajas top en electrónica' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/estudio-demuestra-efectos-exposicion-temprana-segundo-idioma-1157855'>Un estudio demuestra los efectos de la exposición temprana a un segundo idioma</a></h4>
-    <a href='https://computerhoy.com/noticias/life/estudio-demuestra-efectos-exposicion-temprana-segundo-idioma-1157855' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/musica-bebes-2335505.jpg' alt='Un estudio demuestra los efectos de la exposición temprana a un segundo idioma' />
     </a>
 </div>
 
