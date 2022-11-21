@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/desafio-rapido-encuentra-hombre-oculto-imagen-menos-10-segundos-1157739'>Desafío rápido: encuentra un hombre oculto en esta imagen en menos de 10 segundos</a></h4>
+    <a href='https://computerhoy.com/noticias/life/desafio-rapido-encuentra-hombre-oculto-imagen-menos-10-segundos-1157739' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/desafio-rapido-encuentra-hombre-oculto-imagen-menos-10-segundos-2876457.jpg' alt='Desafío rápido: encuentra un hombre oculto en esta imagen en menos de 10 segundos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-trucos-consejos-ahorrar-black-friday-970097'>Mejores trucos y consejos para ahorrar en el Black Friday</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-trucos-consejos-ahorrar-black-friday-970097' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/black-friday-2870195.jpg' alt='Mejores trucos y consejos para ahorrar en el Black Friday' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/estas-aplicaciones-gratuitas-mantendran-cualquiera-dispositivos-datos-seguros-1157517'>Estas aplicaciones gratuitas mantendrán cualquiera de tus dispositivos y tus datos seguros</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/estas-aplicaciones-gratuitas-mantendran-cualquiera-dispositivos-datos-seguros-1157517' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/6-aplicaciones-gratuitas-mantendran-cualquiera-dispositivos-datos-seguros-2876223.jpg' alt='Estas aplicaciones gratuitas mantendrán cualquiera de tus dispositivos y tus datos seguros' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/video-paloma-faisan-cuello-negro-extinta-hace-140-anos-1157737'>Graban en vídeo una paloma faisán que se creía extinta desde hace 140 años, en una isla remota</a></h4>
     <a href='https://computerhoy.com/noticias/life/video-paloma-faisan-cuello-negro-extinta-hace-140-anos-1157737' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/graban-video-paloma-faisan-creia-extinta-hace-140-anos-isla-remota-2876451.jpg' alt='Graban en vídeo una paloma faisán que se creía extinta desde hace 140 años, en una isla remota' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/justin-bieber-pago-12-millones-dolares-nft-mono-aburrido-hoy-vale-69000-dolares-1157735'>Justin Bieber pagó 1,2 millones de dólares por un NFT del Mono Aburrido que hoy vale 69.000 dólares</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/justin-bieber-pago-12-millones-dolares-nft-mono-aburrido-hoy-vale-69000-dolares-1157735' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/justin-bieber-pago-12-millones-dolares-nft-mono-aburrido-hoy-vale-69000-dolares-2876449.jpg' alt='Justin Bieber pagó 1,2 millones de dólares por un NFT del Mono Aburrido que hoy vale 69.000 dólares' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/elon-musk-restaura-cuenta-twitter-donand-trump-1157733'>Elon Musk restaura la cuenta de Twitter de Donald Trump porque "lo pide la gente", y el expresidente dice que no quiere volver</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/elon-musk-restaura-cuenta-twitter-donand-trump-1157733' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/elon-musk-restaura-cuenta-twitter-donand-trump-porque-pide-gente-ex-presidente-dice-no-quiere-volver-2876445.jpg' alt='Elon Musk restaura la cuenta de Twitter de Donald Trump porque "lo pide la gente", y el expresidente dice que no quiere volver' />
     </a>
 </div>
 
