@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/realidad-coche-hidrogeno-cuanto-cuesta-llenar-deposito-cual-autonomia-media-1158659'>La realidad de coche de hidrógeno: cuánto cuesta llenar un depósito y cuál es la autonomía media</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/realidad-coche-hidrogeno-cuanto-cuesta-llenar-deposito-cual-autonomia-media-1158659' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/historia-hidrogeno-como-solucion-coche-diesel-2875387.jpg' alt='La realidad de coche de hidrógeno: cuánto cuesta llenar un depósito y cuál es la autonomía media' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/motor/tecnologia-record-recarga-coche-electrico-menos-tiempo-reposta-gasolina-72-segundos-1158617'>Tecnología récord: recarga el coche eléctrico en menos tiempo que reposta uno de gasolina, 72 segundos</a></h4>
     <a href='https://computerhoy.com/noticias/motor/tecnologia-record-recarga-coche-electrico-menos-tiempo-reposta-gasolina-72-segundos-1158617' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/coche-electrico-2878539.jpg' alt='Tecnología récord: recarga el coche eléctrico en menos tiempo que reposta uno de gasolina, 72 segundos' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/mapa-muestra-palabra-buscada-wikipedia-todos-paises-mundo-1158563'>El mapa que muestra la palabra más buscada en Wikipedia en todos los países del mundo</a></h4>
     <a href='https://computerhoy.com/noticias/life/mapa-muestra-palabra-buscada-wikipedia-todos-paises-mundo-1158563' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/mapa-mundo-2878481.jpg' alt='El mapa que muestra la palabra más buscada en Wikipedia en todos los países del mundo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/microsoft-office-365-google-workspace-ya-no-son-bienvenidos-escuelas-francia-1158579'>Microsoft Office 365 y Google Workspace ya no son bienvenidos en las escuelas de Francia</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/microsoft-office-365-google-workspace-ya-no-son-bienvenidos-escuelas-francia-1158579' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/microsoft-office-365-google-workspace-ya-no-son-bienvenidos-escuelas-francia-2878511.jpg' alt='Microsoft Office 365 y Google Workspace ya no son bienvenidos en las escuelas de Francia' />
     </a>
 </div>
 
