@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/porter-primer-perro-conducir-coche-video-1158161'>Porter, el primer perro en conducir un coche (vídeo)</a></h4>
+    <a href='https://computerhoy.com/noticias/life/porter-primer-perro-conducir-coche-video-1158161' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/verticalimage1669078554123-2877435.jpg' alt='Porter, el primer perro en conducir un coche (vídeo)' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/fin-alexa-asistente-google-perdidas-amazon-google-1158159'>¿El fin de Alexa y el Asistente de Google? Generan grandes pérdidas, y ya han comenzado los despidos y recortes de presupuesto</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/fin-alexa-asistente-google-perdidas-amazon-google-1158159' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/amazon-alexa-2694817.jpg' alt='¿El fin de Alexa y el Asistente de Google? Generan grandes pérdidas, y ya han comenzado los despidos y recortes de presupuesto' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/listas/gaming/consolas-ofertas-black-friday-regalos-navidad-1157841'>Hay stock de estas consolas, están en oferta por Black Friday y las puedes regalar en Navidad</a></h4>
     <a href='https://computerhoy.com/listas/gaming/consolas-ofertas-black-friday-regalos-navidad-1157841' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/mandos-xbox-series-x-sony-playstation-5-2876993.jpg' alt='Hay stock de estas consolas, están en oferta por Black Friday y las puedes regalar en Navidad' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/twitter-usuarios-comparten-series-peliculas-1158133'>La seguridad de Twitter es un caos: los usuarios aprovechan para compartir series y películas</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/twitter-usuarios-comparten-series-peliculas-1158133' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/fast-furious-9-2340967.jpg' alt='La seguridad de Twitter es un caos: los usuarios aprovechan para compartir series y películas' />
     </a>
 </div>
 
