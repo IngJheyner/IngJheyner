@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/desafio-rapido-ilusion-optica-numero-oculto-1158201'>Desafío rápido: solo unos pocos elegidos pueden ver el número oculto en esta imagen</a></h4>
+    <a href='https://computerhoy.com/noticias/life/desafio-rapido-ilusion-optica-numero-oculto-1158201' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/desafio-rapido-solo-pocos-elegidos-pueden-ver-numero-oculto-imagen-2877483.jpg' alt='Desafío rápido: solo unos pocos elegidos pueden ver el número oculto en esta imagen' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/reacondicionados-black-friday-ofertas-segunda-mano-1147433'>Reacondicionados en el Black Friday: ofertas y todo lo que debes saber para ahorrar en productos de segunda mano</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/reacondicionados-black-friday-ofertas-segunda-mano-1147433' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/cajas-amazon-2877361.jpg' alt='Reacondicionados en el Black Friday: ofertas y todo lo que debes saber para ahorrar en productos de segunda mano' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/23-noticias-tecnologia-comenzar-manana-informado-ultimo-1158169'>23 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/23-noticias-tecnologia-comenzar-manana-informado-ultimo-1158169' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/23-noticias-tecnologia-comenzar-manana-informado-ultimo-2877443.jpg' alt='23 noticias de tecnología para comenzar la mañana informado de lo último' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/life/cuando-es-black-friday-2022-fecha-inicio-ofertas-1145153'>Cuándo es el Black Friday 2022: esta es la fecha de inicio de las ofertas</a></h4>
-    <a href='https://computerhoy.com/reportajes/life/cuando-es-black-friday-2022-fecha-inicio-ofertas-1145153' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/portada-black-friday-2852169.jpg' alt='Cuándo es el Black Friday 2022: esta es la fecha de inicio de las ofertas' />
     </a>
 </div>
 
