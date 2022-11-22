@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/solo-estas-pocas-tiendas-merece-pena-comprar-black-friday-2022-ocu-1158823'>Solo en estas pocas tiendas merece la pena comprar en el Black Friday 2022, según la OCU</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/solo-estas-pocas-tiendas-merece-pena-comprar-black-friday-2022-ocu-1158823' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/black-friday-2879543.jpg' alt='Solo en estas pocas tiendas merece la pena comprar en el Black Friday 2022, según la OCU' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/estas-son-algunas-excentricidades-ha-hecho-bill-gates-ultima-decada-quiere-sepas-1158815'>Estas son algunas de las excentricidades que ha hecho Bill Gates en la última década y que quiere que sepas</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/estas-son-algunas-excentricidades-ha-hecho-bill-gates-ultima-decada-quiere-sepas-1158815' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/bill-gates-2879517.jpg' alt='Estas son algunas de las excentricidades que ha hecho Bill Gates en la última década y que quiere que sepas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/suscripciones-pago-activar-mejoras-coches-electricos-propone-mercedes-benz-1158777'>Suscripciones de pago para activar mejoras en los coches eléctricos: esto es lo que propone Mercedes-Benz</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/suscripciones-pago-activar-mejoras-coches-electricos-propone-mercedes-benz-1158777' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/mercedes-benz-quiere-pagues-suscripcion-quieres-potencia-coche-2879471.jpg' alt='Suscripciones de pago para activar mejoras en los coches eléctricos: esto es lo que propone Mercedes-Benz' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/a17-bionic-podria-hacer-iphone-15-sea-convierta-iphone-caro-historia-1158747'>A17 Bionic podría hacer que el iPhone 15 sea convierta en el iPhone más caro de la historia</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/a17-bionic-podria-hacer-iphone-15-sea-convierta-iphone-caro-historia-1158747' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/apple-iphone-14-plus-analisis-opinion-2857677.jpg' alt='A17 Bionic podría hacer que el iPhone 15 sea convierta en el iPhone más caro de la historia' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/6-estafas-comunes-ahora-llega-black-friday-cyber-monday-1158737'>Las 6 estafas más comunes ahora que llega el Black Friday y Cyber Monday</a></h4>
     <a href='https://computerhoy.com/noticias/life/6-estafas-comunes-ahora-llega-black-friday-cyber-monday-1158737' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/6-estafas-comunes-ahora-llega-black-friday-cyber-monday-2879165.jpg' alt='Las 6 estafas más comunes ahora que llega el Black Friday y Cyber Monday' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/familia-vivo-x90-relacion-zeiss-soc-potente-mediatek-1158647'>Así es la familia Vivo X90, su relación con Zeiss y el SoC más potente de MediaTek</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/familia-vivo-x90-relacion-zeiss-soc-potente-mediatek-1158647' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/vivo-x90-2878829.jpg' alt='Así es la familia Vivo X90, su relación con Zeiss y el SoC más potente de MediaTek' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/realidad-coche-hidrogeno-cuanto-cuesta-llenar-deposito-cual-autonomia-media-1158659'>La realidad de coche de hidrógeno: cuánto cuesta llenar un depósito y cuál es la autonomía media</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/realidad-coche-hidrogeno-cuanto-cuesta-llenar-deposito-cual-autonomia-media-1158659' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/historia-hidrogeno-como-solucion-coche-diesel-2875387.jpg' alt='La realidad de coche de hidrógeno: cuánto cuesta llenar un depósito y cuál es la autonomía media' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/tecnologia-record-recarga-coche-electrico-menos-tiempo-reposta-gasolina-72-segundos-1158617'>Tecnología récord: recarga el coche eléctrico en menos tiempo que reposta uno de gasolina, 72 segundos</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/tecnologia-record-recarga-coche-electrico-menos-tiempo-reposta-gasolina-72-segundos-1158617' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/coche-electrico-2878539.jpg' alt='Tecnología récord: recarga el coche eléctrico en menos tiempo que reposta uno de gasolina, 72 segundos' />
     </a>
 </div>
 
