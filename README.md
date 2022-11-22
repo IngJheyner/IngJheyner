@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/elon-musk-quiere-twitter-parezca-signal-incluira-cifrado-mds-1158557'>Elon Musk quiere que Twitter se parezca más a Signal e incluirá el cifrado en los MDs</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/elon-musk-quiere-twitter-parezca-signal-incluira-cifrado-mds-1158557' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/elon-musk-quiere-twitter-parezca-signal-incluira-cifrado-mds-2878451.jpg' alt='Elon Musk quiere que Twitter se parezca más a Signal e incluirá el cifrado en los MDs' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/5-libros-bill-gates-te-recomienda-leer-estas-navidades-favoritos-siempre-1158215'>Los 5 libros que Bill Gates te recomienda leer estas navidades, sus favoritos de siempre</a></h4>
+    <a href='https://computerhoy.com/noticias/life/5-libros-bill-gates-te-recomienda-leer-estas-navidades-favoritos-siempre-1158215' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/bill-gates-2877913.jpg' alt='Los 5 libros que Bill Gates te recomienda leer estas navidades, sus favoritos de siempre' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/europa-adelanta-estados-unidos-japon-superordenadores-leonardo-1158197'>Europa adelanta a Estados Unidos y Japón en superordenadores: así es Leonardo</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/europa-adelanta-estados-unidos-japon-superordenadores-leonardo-1158197' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/superordenador-2379757.jpg' alt='Europa adelanta a Estados Unidos y Japón en superordenadores: así es Leonardo' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/desafio-rapido-ilusion-optica-numero-oculto-1158201'>Desafío rápido: solo unos pocos elegidos pueden ver el número oculto en esta imagen</a></h4>
     <a href='https://computerhoy.com/noticias/life/desafio-rapido-ilusion-optica-numero-oculto-1158201' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/desafio-rapido-solo-pocos-elegidos-pueden-ver-numero-oculto-imagen-2877483.jpg' alt='Desafío rápido: solo unos pocos elegidos pueden ver el número oculto en esta imagen' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/reacondicionados-black-friday-ofertas-segunda-mano-1147433'>Reacondicionados en el Black Friday: ofertas y todo lo que debes saber para ahorrar en productos de segunda mano</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/reacondicionados-black-friday-ofertas-segunda-mano-1147433' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/cajas-amazon-2877361.jpg' alt='Reacondicionados en el Black Friday: ofertas y todo lo que debes saber para ahorrar en productos de segunda mano' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/ha-entrado-inteligencia-artificial-mundo-porno-1158019'>Así ha entrado la inteligencia artificial en el mundo del porno</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/ha-entrado-inteligencia-artificial-mundo-porno-1158019' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/videos-porno-internet-2416361.jpg' alt='Así ha entrado la inteligencia artificial en el mundo del porno' />
     </a>
 </div>
 
