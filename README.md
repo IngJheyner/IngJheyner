@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/europa-adelanta-estados-unidos-japon-superordenadores-leonardo-1158197'>Europa adelanta a Estados Unidos y Japón en superordenadores: así es Leonardo</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/europa-adelanta-estados-unidos-japon-superordenadores-leonardo-1158197' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/superordenador-2379757.jpg' alt='Europa adelanta a Estados Unidos y Japón en superordenadores: así es Leonardo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/avatar-2-luce-antes-estreno-nuevo-espectacular-trailer-1158203'>Avatar 2 se luce antes de su estreno con un nuevo y espectacular tráiler </a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/avatar-2-luce-antes-estreno-nuevo-espectacular-trailer-1158203' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/avatar-sentido-agua-2864221.jpg' alt='Avatar 2 se luce antes de su estreno con un nuevo y espectacular tráiler ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/desafio-rapido-ilusion-optica-numero-oculto-1158201'>Desafío rápido: solo unos pocos elegidos pueden ver el número oculto en esta imagen</a></h4>
     <a href='https://computerhoy.com/noticias/life/desafio-rapido-ilusion-optica-numero-oculto-1158201' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/desafio-rapido-solo-pocos-elegidos-pueden-ver-numero-oculto-imagen-2877483.jpg' alt='Desafío rápido: solo unos pocos elegidos pueden ver el número oculto en esta imagen' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/ha-entrado-inteligencia-artificial-mundo-porno-1158019'>Así ha entrado la inteligencia artificial en el mundo del porno</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/ha-entrado-inteligencia-artificial-mundo-porno-1158019' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/videos-porno-internet-2416361.jpg' alt='Así ha entrado la inteligencia artificial en el mundo del porno' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/como-saber-webcam-ha-sido-hackeada-hacer-evitarlo-1158041'>Cómo saber si tu webcam ha sido hackeada y qué hacer para evitarlo</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/como-saber-webcam-ha-sido-hackeada-hacer-evitarlo-1158041' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/como-saber-webcam-ha-sido-hackeada-hacer-evitarlo-2877153.jpg' alt='Cómo saber si tu webcam ha sido hackeada y qué hacer para evitarlo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/23-noticias-tecnologia-comenzar-manana-informado-ultimo-1158169'>23 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/23-noticias-tecnologia-comenzar-manana-informado-ultimo-1158169' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/23-noticias-tecnologia-comenzar-manana-informado-ultimo-2877443.jpg' alt='23 noticias de tecnología para comenzar la mañana informado de lo último' />
     </a>
 </div>
 
