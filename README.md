@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/decathlon-elops-500-ebike-oferta-1158101'>Decathlon Elops 500: ya puedes comprar su bicicleta eléctrica más avanzada</a></h4>
+    <a href='https://computerhoy.com/noticias/life/decathlon-elops-500-ebike-oferta-1158101' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/decathlon-elops-500-2878517.jpg' alt='Decathlon Elops 500: ya puedes comprar su bicicleta eléctrica más avanzada' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/mapa-muestra-palabra-buscada-wikipedia-todos-paises-mundo-1158563'>El mapa que muestra la palabra más buscada en Wikipedia en todos los países del mundo</a></h4>
+    <a href='https://computerhoy.com/noticias/life/mapa-muestra-palabra-buscada-wikipedia-todos-paises-mundo-1158563' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/mapa-mundo-2878481.jpg' alt='El mapa que muestra la palabra más buscada en Wikipedia en todos los países del mundo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/microsoft-office-365-google-workspace-ya-no-son-bienvenidos-escuelas-francia-1158579'>Microsoft Office 365 y Google Workspace ya no son bienvenidos en las escuelas de Francia</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/microsoft-office-365-google-workspace-ya-no-son-bienvenidos-escuelas-francia-1158579' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/microsoft-office-365-google-workspace-ya-no-son-bienvenidos-escuelas-francia-2878511.jpg' alt='Microsoft Office 365 y Google Workspace ya no son bienvenidos en las escuelas de Francia' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/elon-musk-quiere-twitter-parezca-signal-incluira-cifrado-mds-1158557'>Elon Musk quiere que Twitter se parezca más a Signal e incluirá el cifrado en los MDs</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/elon-musk-quiere-twitter-parezca-signal-incluira-cifrado-mds-1158557' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/elon-musk-quiere-twitter-parezca-signal-incluira-cifrado-mds-2878451.jpg' alt='Elon Musk quiere que Twitter se parezca más a Signal e incluirá el cifrado en los MDs' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/5-libros-bill-gates-te-recomienda-leer-estas-navidades-favoritos-siempre-1158215'>Los 5 libros que Bill Gates te recomienda leer estas navidades, sus favoritos de siempre</a></h4>
     <a href='https://computerhoy.com/noticias/life/5-libros-bill-gates-te-recomienda-leer-estas-navidades-favoritos-siempre-1158215' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/bill-gates-2877913.jpg' alt='Los 5 libros que Bill Gates te recomienda leer estas navidades, sus favoritos de siempre' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/europa-adelanta-estados-unidos-japon-superordenadores-leonardo-1158197'>Europa adelanta a Estados Unidos y Japón en superordenadores: así es Leonardo</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/europa-adelanta-estados-unidos-japon-superordenadores-leonardo-1158197' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/superordenador-2379757.jpg' alt='Europa adelanta a Estados Unidos y Japón en superordenadores: así es Leonardo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/avatar-2-luce-antes-estreno-nuevo-espectacular-trailer-1158203'>Avatar 2 se luce antes de su estreno con un nuevo y espectacular tráiler </a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/avatar-2-luce-antes-estreno-nuevo-espectacular-trailer-1158203' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/avatar-sentido-agua-2864221.jpg' alt='Avatar 2 se luce antes de su estreno con un nuevo y espectacular tráiler ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/desafio-rapido-ilusion-optica-numero-oculto-1158201'>Desafío rápido: solo unos pocos elegidos pueden ver el número oculto en esta imagen</a></h4>
-    <a href='https://computerhoy.com/noticias/life/desafio-rapido-ilusion-optica-numero-oculto-1158201' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/desafio-rapido-solo-pocos-elegidos-pueden-ver-numero-oculto-imagen-2877483.jpg' alt='Desafío rápido: solo unos pocos elegidos pueden ver el número oculto en esta imagen' />
     </a>
 </div>
 
