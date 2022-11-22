@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/tecnologia-record-recarga-coche-electrico-menos-tiempo-reposta-gasolina-72-segundos-1158617'>Tecnología récord: recarga el coche eléctrico en menos tiempo que reposta uno de gasolina, 72 segundos</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/tecnologia-record-recarga-coche-electrico-menos-tiempo-reposta-gasolina-72-segundos-1158617' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/coche-electrico-2878539.jpg' alt='Tecnología récord: recarga el coche eléctrico en menos tiempo que reposta uno de gasolina, 72 segundos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/desarrolladores-apple-afirman-analiticas-app-store-no-son-anonimas-1158605'>Los desarrolladores de Apple afirman que las analíticas de la App Store no son anónimas</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/desarrolladores-apple-afirman-analiticas-app-store-no-son-anonimas-1158605' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/desarrolladores-apple-afirman-analiticas-app-store-no-son-anonimas-2878585.jpg' alt='Los desarrolladores de Apple afirman que las analíticas de la App Store no son anónimas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/decathlon-elops-500-ebike-oferta-1158101'>Decathlon Elops 500: ya puedes comprar su bicicleta eléctrica más avanzada</a></h4>
     <a href='https://computerhoy.com/noticias/life/decathlon-elops-500-ebike-oferta-1158101' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/decathlon-elops-500-2878517.jpg' alt='Decathlon Elops 500: ya puedes comprar su bicicleta eléctrica más avanzada' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/microsoft-office-365-google-workspace-ya-no-son-bienvenidos-escuelas-francia-1158579'>Microsoft Office 365 y Google Workspace ya no son bienvenidos en las escuelas de Francia</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/microsoft-office-365-google-workspace-ya-no-son-bienvenidos-escuelas-francia-1158579' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/microsoft-office-365-google-workspace-ya-no-son-bienvenidos-escuelas-francia-2878511.jpg' alt='Microsoft Office 365 y Google Workspace ya no son bienvenidos en las escuelas de Francia' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/elon-musk-quiere-twitter-parezca-signal-incluira-cifrado-mds-1158557'>Elon Musk quiere que Twitter se parezca más a Signal e incluirá el cifrado en los MDs</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/elon-musk-quiere-twitter-parezca-signal-incluira-cifrado-mds-1158557' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/elon-musk-quiere-twitter-parezca-signal-incluira-cifrado-mds-2878451.jpg' alt='Elon Musk quiere que Twitter se parezca más a Signal e incluirá el cifrado en los MDs' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/5-libros-bill-gates-te-recomienda-leer-estas-navidades-favoritos-siempre-1158215'>Los 5 libros que Bill Gates te recomienda leer estas navidades, sus favoritos de siempre</a></h4>
-    <a href='https://computerhoy.com/noticias/life/5-libros-bill-gates-te-recomienda-leer-estas-navidades-favoritos-siempre-1158215' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/bill-gates-2877913.jpg' alt='Los 5 libros que Bill Gates te recomienda leer estas navidades, sus favoritos de siempre' />
     </a>
 </div>
 
