@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/a17-bionic-podria-hacer-iphone-15-sea-convierta-iphone-caro-historia-1158747'>A17 Bionic podría hacer que el iPhone 15 sea convierta en el iPhone más caro de la historia</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/a17-bionic-podria-hacer-iphone-15-sea-convierta-iphone-caro-historia-1158747' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/apple-iphone-14-plus-analisis-opinion-2857677.jpg' alt='A17 Bionic podría hacer que el iPhone 15 sea convierta en el iPhone más caro de la historia' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/6-estafas-comunes-ahora-llega-black-friday-cyber-monday-1158737'>Las 6 estafas más comunes ahora que llega el Black Friday y Cyber Monday</a></h4>
     <a href='https://computerhoy.com/noticias/life/6-estafas-comunes-ahora-llega-black-friday-cyber-monday-1158737' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/6-estafas-comunes-ahora-llega-black-friday-cyber-monday-2879165.jpg' alt='Las 6 estafas más comunes ahora que llega el Black Friday y Cyber Monday' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/motor/tecnologia-record-recarga-coche-electrico-menos-tiempo-reposta-gasolina-72-segundos-1158617'>Tecnología récord: recarga el coche eléctrico en menos tiempo que reposta uno de gasolina, 72 segundos</a></h4>
     <a href='https://computerhoy.com/noticias/motor/tecnologia-record-recarga-coche-electrico-menos-tiempo-reposta-gasolina-72-segundos-1158617' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/coche-electrico-2878539.jpg' alt='Tecnología récord: recarga el coche eléctrico en menos tiempo que reposta uno de gasolina, 72 segundos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/desarrolladores-apple-afirman-analiticas-app-store-no-son-anonimas-1158605'>Los desarrolladores de Apple afirman que las analíticas de la App Store no son anónimas</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/desarrolladores-apple-afirman-analiticas-app-store-no-son-anonimas-1158605' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/desarrolladores-apple-afirman-analiticas-app-store-no-son-anonimas-2878585.jpg' alt='Los desarrolladores de Apple afirman que las analíticas de la App Store no son anónimas' />
     </a>
 </div>
 
