@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/estrenos-cine-movistar-plus-diciembre-1158829'>Los estrenos de cine de Movistar Plus+ en diciembre: Nicolas Cage en su máxima expresión, versión extendida de Spider-man, y más</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/estrenos-cine-movistar-plus-diciembre-1158829' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/estrenos-cine-movistar-plus-diciembre-nicolas-cage-maxima-expresion-version-extendida-spider-man-2879597.jpg' alt='Los estrenos de cine de Movistar Plus+ en diciembre: Nicolas Cage en su máxima expresión, versión extendida de Spider-man, y más' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/portatil-honor-magicbook-16-descuento-350-euros-raton-regalo-1158783'>El portátil Honor MagicBook 16 tiene un descuento de 350 euros, y con ratón de regalo</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/portatil-honor-magicbook-16-descuento-350-euros-raton-regalo-1158783' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/portatil-honor-magicbook-16-tiene-descuento-350-euros-raton-regalo-2879361.jpg' alt='El portátil Honor MagicBook 16 tiene un descuento de 350 euros, y con ratón de regalo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/solo-estas-pocas-tiendas-merece-pena-comprar-black-friday-2022-ocu-1158823'>Solo en estas pocas tiendas merece la pena comprar en el Black Friday 2022, según la OCU</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/solo-estas-pocas-tiendas-merece-pena-comprar-black-friday-2022-ocu-1158823' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/black-friday-2879543.jpg' alt='Solo en estas pocas tiendas merece la pena comprar en el Black Friday 2022, según la OCU' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/suscripciones-pago-activar-mejoras-coches-electricos-propone-mercedes-benz-1158777'>Suscripciones de pago para activar mejoras en los coches eléctricos: esto es lo que propone Mercedes-Benz</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/suscripciones-pago-activar-mejoras-coches-electricos-propone-mercedes-benz-1158777' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/mercedes-benz-quiere-pagues-suscripcion-quieres-potencia-coche-2879471.jpg' alt='Suscripciones de pago para activar mejoras en los coches eléctricos: esto es lo que propone Mercedes-Benz' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/a17-bionic-podria-hacer-iphone-15-sea-convierta-iphone-caro-historia-1158747'>A17 Bionic podría hacer que el iPhone 15 sea convierta en el iPhone más caro de la historia</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/a17-bionic-podria-hacer-iphone-15-sea-convierta-iphone-caro-historia-1158747' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/apple-iphone-14-plus-analisis-opinion-2857677.jpg' alt='A17 Bionic podría hacer que el iPhone 15 sea convierta en el iPhone más caro de la historia' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/6-estafas-comunes-ahora-llega-black-friday-cyber-monday-1158737'>Las 6 estafas más comunes ahora que llega el Black Friday y Cyber Monday</a></h4>
-    <a href='https://computerhoy.com/noticias/life/6-estafas-comunes-ahora-llega-black-friday-cyber-monday-1158737' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/6-estafas-comunes-ahora-llega-black-friday-cyber-monday-2879165.jpg' alt='Las 6 estafas más comunes ahora que llega el Black Friday y Cyber Monday' />
     </a>
 </div>
 
