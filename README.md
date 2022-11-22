@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/fin-alexa-asistente-google-perdidas-amazon-google-1158159'>¿El fin de Alexa y el Asistente de Google? Generan grandes pérdidas, y ya han comenzado los despidos y recortes de presupuesto</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/fin-alexa-asistente-google-perdidas-amazon-google-1158159' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/amazon-alexa-2694817.jpg' alt='¿El fin de Alexa y el Asistente de Google? Generan grandes pérdidas, y ya han comenzado los despidos y recortes de presupuesto' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/movistar-no-te-va-subir-20eu-tarifa-nueva-estafa-quiere-robar-datos-1158047'>Movistar no te va a subir 20€ en tu tarifa: así es la nueva estafa que quiere robar tus datos</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/movistar-no-te-va-subir-20eu-tarifa-nueva-estafa-quiere-robar-datos-1158047' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/entrada-tienda-movistar-2872809.jpg' alt='Movistar no te va a subir 20€ en tu tarifa: así es la nueva estafa que quiere robar tus datos' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/twitter-usuarios-comparten-series-peliculas-1158133'>La seguridad de Twitter es un caos: los usuarios aprovechan para compartir series y películas</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/twitter-usuarios-comparten-series-peliculas-1158133' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/fast-furious-9-2340967.jpg' alt='La seguridad de Twitter es un caos: los usuarios aprovechan para compartir series y películas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/te-pueden-acabar-estafando-bizum-estan-cayendo-muchos-amigos-1158115'>Así te pueden acabar estafando en Bizum, y están cayendo muchos de tus amigos</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/te-pueden-acabar-estafando-bizum-estan-cayendo-muchos-amigos-1158115' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/como-recuperar-dinero-cuando-has-enviado-bizum-equivocado-2692583.jpg' alt='Así te pueden acabar estafando en Bizum, y están cayendo muchos de tus amigos' />
     </a>
 </div>
 
