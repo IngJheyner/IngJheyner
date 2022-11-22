@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/23-noticias-tecnologia-comenzar-manana-informado-ultimo-1158169'>23 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/23-noticias-tecnologia-comenzar-manana-informado-ultimo-1158169' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/23-noticias-tecnologia-comenzar-manana-informado-ultimo-2877443.jpg' alt='23 noticias de tecnología para comenzar la mañana informado de lo último' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/life/cuando-es-black-friday-2022-fecha-inicio-ofertas-1145153'>Cuándo es el Black Friday 2022: esta es la fecha de inicio de las ofertas</a></h4>
+    <a href='https://computerhoy.com/reportajes/life/cuando-es-black-friday-2022-fecha-inicio-ofertas-1145153' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/portada-black-friday-2852169.jpg' alt='Cuándo es el Black Friday 2022: esta es la fecha de inicio de las ofertas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/botella-con-mensaje-antigua-1158163'>Un fontanero encuentra una de las botellas con mensaje más antiguas que se conocen</a></h4>
+    <a href='https://computerhoy.com/noticias/life/botella-con-mensaje-antigua-1158163' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/botella-mensaje-2877441.jpg' alt='Un fontanero encuentra una de las botellas con mensaje más antiguas que se conocen' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/porter-primer-perro-conducir-coche-video-1158161'>Porter, el primer perro en conducir un coche (vídeo)</a></h4>
     <a href='https://computerhoy.com/noticias/life/porter-primer-perro-conducir-coche-video-1158161' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/verticalimage1669078554123-2877435.jpg' alt='Porter, el primer perro en conducir un coche (vídeo)' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/fin-alexa-asistente-google-perdidas-amazon-google-1158159'>¿El fin de Alexa y el Asistente de Google? Generan grandes pérdidas, y ya han comenzado los despidos y recortes de presupuesto</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/fin-alexa-asistente-google-perdidas-amazon-google-1158159' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/amazon-alexa-2694817.jpg' alt='¿El fin de Alexa y el Asistente de Google? Generan grandes pérdidas, y ya han comenzado los despidos y recortes de presupuesto' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/movistar-no-te-va-subir-20eu-tarifa-nueva-estafa-quiere-robar-datos-1158047'>Movistar no te va a subir 20€ en tu tarifa: así es la nueva estafa que quiere robar tus datos</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/movistar-no-te-va-subir-20eu-tarifa-nueva-estafa-quiere-robar-datos-1158047' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/entrada-tienda-movistar-2872809.jpg' alt='Movistar no te va a subir 20€ en tu tarifa: así es la nueva estafa que quiere robar tus datos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/samsung-galaxy-s22-oferta-black-friday-1158143'>Llévate el buque insignia de Samsung, el Galaxy S22, ahora que cae por debajo de los 650 euros</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/samsung-galaxy-s22-oferta-black-friday-1158143' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/samsung-galaxy-s22-analisis-opinion-2741199.jpg' alt='Llévate el buque insignia de Samsung, el Galaxy S22, ahora que cae por debajo de los 650 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/listas/gaming/consolas-ofertas-black-friday-regalos-navidad-1157841'>Hay stock de estas consolas, están en oferta por Black Friday y las puedes regalar en Navidad</a></h4>
-    <a href='https://computerhoy.com/listas/gaming/consolas-ofertas-black-friday-regalos-navidad-1157841' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/mandos-xbox-series-x-sony-playstation-5-2876993.jpg' alt='Hay stock de estas consolas, están en oferta por Black Friday y las puedes regalar en Navidad' />
     </a>
 </div>
 
