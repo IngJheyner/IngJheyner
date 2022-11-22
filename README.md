@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/george-hotz-primer-hacker-iphone-ps3-entra-trabajar-gratis-twitter-ya-sabemos-va-encargar-1158835'>George Hotz, el primer hacker del iPhone y la PS3, entra a trabajar gratis en Twitter, y ya sabemos de qué se va a encargar</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/george-hotz-primer-hacker-iphone-ps3-entra-trabajar-gratis-twitter-ya-sabemos-va-encargar-1158835' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/elon-musk-contrata-george-hotz-geohot-hacker-iphone-ps3-arregle-twitter-12-dias-2879611.jpg' alt='George Hotz, el primer hacker del iPhone y la PS3, entra a trabajar gratis en Twitter, y ya sabemos de qué se va a encargar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/estrenos-cine-movistar-plus-diciembre-1158829'>Los estrenos de cine de Movistar Plus+ en diciembre: Nicolas Cage en su máxima expresión, versión extendida de Spider-man, y más</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/estrenos-cine-movistar-plus-diciembre-1158829' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/estrenos-cine-movistar-plus-diciembre-nicolas-cage-maxima-expresion-version-extendida-spider-man-2879597.jpg' alt='Los estrenos de cine de Movistar Plus+ en diciembre: Nicolas Cage en su máxima expresión, versión extendida de Spider-man, y más' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/estas-son-algunas-excentricidades-ha-hecho-bill-gates-ultima-decada-quiere-sepas-1158815'>Estas son algunas de las excentricidades que ha hecho Bill Gates en la última década y que quiere que sepas</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/estas-son-algunas-excentricidades-ha-hecho-bill-gates-ultima-decada-quiere-sepas-1158815' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/bill-gates-2879517.jpg' alt='Estas son algunas de las excentricidades que ha hecho Bill Gates en la última década y que quiere que sepas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/suscripciones-pago-activar-mejoras-coches-electricos-propone-mercedes-benz-1158777'>Suscripciones de pago para activar mejoras en los coches eléctricos: esto es lo que propone Mercedes-Benz</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/suscripciones-pago-activar-mejoras-coches-electricos-propone-mercedes-benz-1158777' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/mercedes-benz-quiere-pagues-suscripcion-quieres-potencia-coche-2879471.jpg' alt='Suscripciones de pago para activar mejoras en los coches eléctricos: esto es lo que propone Mercedes-Benz' />
     </a>
 </div>
 
