@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/6-estafas-comunes-ahora-llega-black-friday-cyber-monday-1158737'>Las 6 estafas más comunes ahora que llega el Black Friday y Cyber Monday</a></h4>
+    <a href='https://computerhoy.com/noticias/life/6-estafas-comunes-ahora-llega-black-friday-cyber-monday-1158737' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/6-estafas-comunes-ahora-llega-black-friday-cyber-monday-2879165.jpg' alt='Las 6 estafas más comunes ahora que llega el Black Friday y Cyber Monday' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/familia-vivo-x90-relacion-zeiss-soc-potente-mediatek-1158647'>Así es la familia Vivo X90, su relación con Zeiss y el SoC más potente de MediaTek</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/familia-vivo-x90-relacion-zeiss-soc-potente-mediatek-1158647' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/vivo-x90-2878829.jpg' alt='Así es la familia Vivo X90, su relación con Zeiss y el SoC más potente de MediaTek' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/motor/realidad-coche-hidrogeno-cuanto-cuesta-llenar-deposito-cual-autonomia-media-1158659'>La realidad de coche de hidrógeno: cuánto cuesta llenar un depósito y cuál es la autonomía media</a></h4>
     <a href='https://computerhoy.com/noticias/motor/realidad-coche-hidrogeno-cuanto-cuesta-llenar-deposito-cual-autonomia-media-1158659' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/historia-hidrogeno-como-solucion-coche-diesel-2875387.jpg' alt='La realidad de coche de hidrógeno: cuánto cuesta llenar un depósito y cuál es la autonomía media' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/desarrolladores-apple-afirman-analiticas-app-store-no-son-anonimas-1158605'>Los desarrolladores de Apple afirman que las analíticas de la App Store no son anónimas</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/desarrolladores-apple-afirman-analiticas-app-store-no-son-anonimas-1158605' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/desarrolladores-apple-afirman-analiticas-app-store-no-son-anonimas-2878585.jpg' alt='Los desarrolladores de Apple afirman que las analíticas de la App Store no son anónimas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/decathlon-elops-500-ebike-oferta-1158101'>Decathlon Elops 500: ya puedes comprar su bicicleta eléctrica más avanzada</a></h4>
-    <a href='https://computerhoy.com/noticias/life/decathlon-elops-500-ebike-oferta-1158101' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/decathlon-elops-500-2878517.jpg' alt='Decathlon Elops 500: ya puedes comprar su bicicleta eléctrica más avanzada' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/mapa-muestra-palabra-buscada-wikipedia-todos-paises-mundo-1158563'>El mapa que muestra la palabra más buscada en Wikipedia en todos los países del mundo</a></h4>
-    <a href='https://computerhoy.com/noticias/life/mapa-muestra-palabra-buscada-wikipedia-todos-paises-mundo-1158563' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/mapa-mundo-2878481.jpg' alt='El mapa que muestra la palabra más buscada en Wikipedia en todos los países del mundo' />
     </a>
 </div>
 
