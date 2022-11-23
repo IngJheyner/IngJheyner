@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/apple-sigue-acumulando-problemas-china-podria-afectarnos-todos-1159205'>Apple sigue acumulando problemas en China y podría afectarnos a todos</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/apple-sigue-acumulando-problemas-china-podria-afectarnos-todos-1159205' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/apple-sigue-acumulando-problemas-china-podria-afectarnos-todos-2880327.jpg' alt='Apple sigue acumulando problemas en China y podría afectarnos a todos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/enorme-beneficio-usar-freidora-aire-nadie-habla-1159235'>El enorme beneficio de usar una freidora de aire del que nadie habla</a></h4>
     <a href='https://computerhoy.com/noticias/life/enorme-beneficio-usar-freidora-aire-nadie-habla-1159235' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/freidora-aire-toda-familia-philips-tamano-xl-mejores-ofertas-semana-2780243.jpg' alt='El enorme beneficio de usar una freidora de aire del que nadie habla' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/grave-error-seguridad-muchos-estan-cometiendo-cerrar-cuenta-twitter-1159135'>El grave error de seguridad que muchos están cometiendo al cerrar su cuenta de Twitter </a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/grave-error-seguridad-muchos-estan-cometiendo-cerrar-cuenta-twitter-1159135' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/grave-error-seguridad-muchos-estan-cometiendo-abandonar-twitter-elon-musk-2880051.jpg' alt='El grave error de seguridad que muchos están cometiendo al cerrar su cuenta de Twitter ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/red-wifi-funciona-lenta-culpa-estos-dispositivos-1159127'>Tu red WiFi funciona más lenta por culpa de estos dispositivos</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/red-wifi-funciona-lenta-culpa-estos-dispositivos-1159127' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/router-wifi-2798907.jpg' alt='Tu red WiFi funciona más lenta por culpa de estos dispositivos' />
     </a>
 </div>
 
