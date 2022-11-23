@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/grave-error-seguridad-muchos-estan-cometiendo-cerrar-cuenta-twitter-1159135'>El grave error de seguridad que muchos están cometiendo al cerrar su cuenta de Twitter </a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/grave-error-seguridad-muchos-estan-cometiendo-cerrar-cuenta-twitter-1159135' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/grave-error-seguridad-muchos-estan-cometiendo-abandonar-twitter-elon-musk-2880051.jpg' alt='El grave error de seguridad que muchos están cometiendo al cerrar su cuenta de Twitter ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/red-wifi-funciona-lenta-culpa-estos-dispositivos-1159127'>Tu red WiFi funciona más lenta por culpa de estos dispositivos</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/red-wifi-funciona-lenta-culpa-estos-dispositivos-1159127' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/router-wifi-2798907.jpg' alt='Tu red WiFi funciona más lenta por culpa de estos dispositivos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/puedes-invertir-tiempo-publicidad-netflix-youtube-otros-servicios-streaming-1159105'>En qué puedes invertir el tiempo de publicidad de Netflix, YouTube y otros servicios de streaming</a></h4>
     <a href='https://computerhoy.com/noticias/life/puedes-invertir-tiempo-publicidad-netflix-youtube-otros-servicios-streaming-1159105' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/puedes-invertir-tiempo-publicidad-netflix-youtube-resto-servicios-streaming-2879949.jpg' alt='En qué puedes invertir el tiempo de publicidad de Netflix, YouTube y otros servicios de streaming' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/analisis/review-test-huawei-mate-50-pro-1152763'>Análisis del Huawei Mate 50 Pro, el asalto al trono de la gama TOP</a></h4>
     <a href='https://computerhoy.com/analisis/review-test-huawei-mate-50-pro-1152763' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/review-huawei-mate-50-pro-2866341.jpg' alt='Análisis del Huawei Mate 50 Pro, el asalto al trono de la gama TOP' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/desafio-visual-que-pasa-imagen-1159069'>Desafío rápido: solo el 1% de las personas es capaz de descubrir qué pasa en esta imagen</a></h4>
-    <a href='https://computerhoy.com/noticias/life/desafio-visual-que-pasa-imagen-1159069' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/desafio-rapido-solo-1-personas-capaz-descubrir-pasa-imagen-2879835.jpg' alt='Desafío rápido: solo el 1% de las personas es capaz de descubrir qué pasa en esta imagen' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/diferencias-thunderbolt-usb-c-mismo-conector-distinta-tecnologia-1158751'>Diferencias entre el Thunderbolt y el USB-C: mismo conector, distinta tecnología</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/diferencias-thunderbolt-usb-c-mismo-conector-distinta-tecnologia-1158751' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/thunderbolt-usb-c-2879191.jpg' alt='Diferencias entre el Thunderbolt y el USB-C: mismo conector, distinta tecnología' />
     </a>
 </div>
 
