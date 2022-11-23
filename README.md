@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/enorme-beneficio-usar-freidora-aire-nadie-habla-1159235'>El enorme beneficio de usar una freidora de aire del que nadie habla</a></h4>
+    <a href='https://computerhoy.com/noticias/life/enorme-beneficio-usar-freidora-aire-nadie-habla-1159235' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/freidora-aire-toda-familia-philips-tamano-xl-mejores-ofertas-semana-2780243.jpg' alt='El enorme beneficio de usar una freidora de aire del que nadie habla' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/fortuna-elon-musk-esfuma-twitter-tesla-son-agujero-perdidas-millonarias-1159169'>La fortuna de Elon Musk se esfuma: Twitter y Tesla son un agujero de pérdidas millonarias</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/fortuna-elon-musk-esfuma-twitter-tesla-son-agujero-perdidas-millonarias-1159169' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/fortuna-elon-musk-esfuma-twitter-tesla-son-agujero-perdidas-millonarias-2880111.jpg' alt='La fortuna de Elon Musk se esfuma: Twitter y Tesla son un agujero de pérdidas millonarias' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/bitcoin-punto-colapso-perderse-50-direcciones-1159157'>El bitcoin a punto del colapso tras perderse más del 50 % de sus direcciones</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/bitcoin-punto-colapso-perderse-50-direcciones-1159157' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/bitcoin-caida-numeros-bolsa-2747031.jpg' alt='El bitcoin a punto del colapso tras perderse más del 50 % de sus direcciones' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/grave-error-seguridad-muchos-estan-cometiendo-cerrar-cuenta-twitter-1159135'>El grave error de seguridad que muchos están cometiendo al cerrar su cuenta de Twitter </a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/grave-error-seguridad-muchos-estan-cometiendo-cerrar-cuenta-twitter-1159135' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/grave-error-seguridad-muchos-estan-cometiendo-abandonar-twitter-elon-musk-2880051.jpg' alt='El grave error de seguridad que muchos están cometiendo al cerrar su cuenta de Twitter ' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/red-wifi-funciona-lenta-culpa-estos-dispositivos-1159127'>Tu red WiFi funciona más lenta por culpa de estos dispositivos</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/red-wifi-funciona-lenta-culpa-estos-dispositivos-1159127' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/router-wifi-2798907.jpg' alt='Tu red WiFi funciona más lenta por culpa de estos dispositivos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/puedes-invertir-tiempo-publicidad-netflix-youtube-otros-servicios-streaming-1159105'>En qué puedes invertir el tiempo de publicidad de Netflix, YouTube y otros servicios de streaming</a></h4>
-    <a href='https://computerhoy.com/noticias/life/puedes-invertir-tiempo-publicidad-netflix-youtube-otros-servicios-streaming-1159105' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/puedes-invertir-tiempo-publicidad-netflix-youtube-resto-servicios-streaming-2879949.jpg' alt='En qué puedes invertir el tiempo de publicidad de Netflix, YouTube y otros servicios de streaming' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/necesitas-potencia-cpu-intel-te-dara-pagas-procesadores-micropagos-1159095'>Si necesitas más potencia de CPU Intel te la dará si pagas: procesadores con micropagos</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/necesitas-potencia-cpu-intel-te-dara-pagas-procesadores-micropagos-1159095' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/intel-core-13a-generacion-ya-estan-aqui-arquitectura-raptor-lake-prometen-41-rendimiento-2826177.jpg' alt='Si necesitas más potencia de CPU Intel te la dará si pagas: procesadores con micropagos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/review-test-huawei-mate-50-pro-1152763'>Análisis del Huawei Mate 50 Pro, el asalto al trono de la gama TOP</a></h4>
-    <a href='https://computerhoy.com/analisis/review-test-huawei-mate-50-pro-1152763' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/review-huawei-mate-50-pro-2866341.jpg' alt='Análisis del Huawei Mate 50 Pro, el asalto al trono de la gama TOP' />
     </a>
 </div>
 
