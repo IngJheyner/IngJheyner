@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/listas/tecnologia/mejores-aplicaciones-moviles-iphone-android-convertir-fotografias-pinturas-1153493'>Las mejores aplicaciones para móviles iPhone y Android con las que convertir tus fotografías en pinturas</a></h4>
+    <a href='https://computerhoy.com/listas/tecnologia/mejores-aplicaciones-moviles-iphone-android-convertir-fotografias-pinturas-1153493' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/mejores-aplicaciones-moviles-iphone-android-convertir-fotografias-pinturas-2876977.jpg' alt='Las mejores aplicaciones para móviles iPhone y Android con las que convertir tus fotografías en pinturas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/kaleidoscope-serie-netflix-1159431'>Kaleidoscope, la nueva serie que cambia según el orden en el que veas los capítulos</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/kaleidoscope-serie-netflix-1159431' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/kaleidoscope-nueva-serie-cambia-orden-veas-capitulos-2880689.jpg' alt='Kaleidoscope, la nueva serie que cambia según el orden en el que veas los capítulos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/mejores-remedios-evitar-cristales-coche-empanen-1159429'>Los mejores remedios para evitar que los cristales de tu coche se empañen</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/mejores-remedios-evitar-cristales-coche-empanen-1159429' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/cristal-coche-2880735.jpg' alt='Los mejores remedios para evitar que los cristales de tu coche se empañen' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/inmensa-mayoria-ofertas-black-friday-son-caras-hace-meses-ocu-1159425'>La inmensa mayoría de las ofertas del Black Friday son más caras que hace unos meses, según la OCU</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/inmensa-mayoria-ofertas-black-friday-son-caras-hace-meses-ocu-1159425' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/black-friday-2880729.jpg' alt='La inmensa mayoría de las ofertas del Black Friday son más caras que hace unos meses, según la OCU' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/primera-vez-prohiben-estados-unidos-minado-criptomonedas-1159363'>Por primera vez prohíben en Estados Unidos el minado de criptomonedas</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/primera-vez-prohiben-estados-unidos-minado-criptomonedas-1159363' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/kosovo-tambien-prohibe-minado-criptomonedas-bitcoin-acelera-caida-2588355.jpg' alt='Por primera vez prohíben en Estados Unidos el minado de criptomonedas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/tiktok-como-funciona-trucos-como-ganar-dinero-videos-1159087'>TikTok: qué es, cómo funciona, trucos y cómo ganar dinero con tus vídeos</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/tiktok-como-funciona-trucos-como-ganar-dinero-videos-1159087' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/tiktok-2874231.jpg' alt='TikTok: qué es, cómo funciona, trucos y cómo ganar dinero con tus vídeos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/elimina-estas-aplicaciones-movil-estan-infectadas-virus-te-vaciaran-cuenta-banco-1159337'>Elimina estas aplicaciones de tu móvil: están infectadas con virus que te vaciarán la cuenta del banco</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/elimina-estas-aplicaciones-movil-estan-infectadas-virus-te-vaciaran-cuenta-banco-1159337' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/malware-movil-2670683.jpg' alt='Elimina estas aplicaciones de tu móvil: están infectadas con virus que te vaciarán la cuenta del banco' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/listas/tecnologia/samsung-galaxy-s22-ultraoferta-black-friday-1158721'>Amazon y Samsung rebajan estos Galaxy S22 únicamente durante Black Friday: precios mínimos históricos</a></h4>
-    <a href='https://computerhoy.com/listas/tecnologia/samsung-galaxy-s22-ultraoferta-black-friday-1158721' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/galaxy-s22-opinion-2611121.jpg' alt='Amazon y Samsung rebajan estos Galaxy S22 únicamente durante Black Friday: precios mínimos históricos' />
     </a>
 </div>
 
