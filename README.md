@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/sonda-japonesa-omotenashi-fallo-aterrizar-luna-mision-artemis-i-1159067'>Se pierde el contacto con la sonda japonesa que iba a aterrizar en la Luna con la misión Artemis I</a></h4>
+    <a href='https://computerhoy.com/noticias/life/sonda-japonesa-omotenashi-fallo-aterrizar-luna-mision-artemis-i-1159067' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/estrella-sonda-japonesa-iba-aterrizar-luna-mision-artemis-i-2879617.jpg' alt='Se pierde el contacto con la sonda japonesa que iba a aterrizar en la Luna con la misión Artemis I' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/george-hotz-primer-hacker-iphone-ps3-entra-trabajar-gratis-twitter-ya-sabemos-va-encargar-1158835'>George Hotz, el primer hacker del iPhone y la PS3, entra a trabajar gratis en Twitter, y ya sabemos de qué se va a encargar</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/george-hotz-primer-hacker-iphone-ps3-entra-trabajar-gratis-twitter-ya-sabemos-va-encargar-1158835' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/elon-musk-contrata-george-hotz-geohot-hacker-iphone-ps3-arregle-twitter-12-dias-2879611.jpg' alt='George Hotz, el primer hacker del iPhone y la PS3, entra a trabajar gratis en Twitter, y ya sabemos de qué se va a encargar' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/solo-estas-pocas-tiendas-merece-pena-comprar-black-friday-2022-ocu-1158823'>Solo en estas pocas tiendas merece la pena comprar en el Black Friday 2022, según la OCU</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/solo-estas-pocas-tiendas-merece-pena-comprar-black-friday-2022-ocu-1158823' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/black-friday-2879543.jpg' alt='Solo en estas pocas tiendas merece la pena comprar en el Black Friday 2022, según la OCU' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/estas-son-algunas-excentricidades-ha-hecho-bill-gates-ultima-decada-quiere-sepas-1158815'>Estas son algunas de las excentricidades que ha hecho Bill Gates en la última década y que quiere que sepas</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/estas-son-algunas-excentricidades-ha-hecho-bill-gates-ultima-decada-quiere-sepas-1158815' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/bill-gates-2879517.jpg' alt='Estas son algunas de las excentricidades que ha hecho Bill Gates en la última década y que quiere que sepas' />
     </a>
 </div>
 
