@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/honor-presenta-magic-vs-nuevo-smartphone-plegable-aterrizara-europa-2023-1159261'>Honor presenta Magic Vs, su nuevo smartphone plegable que aterrizará en Europa en 2023</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/honor-presenta-magic-vs-nuevo-smartphone-plegable-aterrizara-europa-2023-1159261' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/honor-presenta-nuevo-smartphone-plegable-magic-vs-aterrizara-europa-proximamente-2880323.jpg' alt='Honor presenta Magic Vs, su nuevo smartphone plegable que aterrizará en Europa en 2023' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/lild-puede-volver-vender-thermomix-barata-espana-1159253'>¿Por qué Lild puede volver a vender su Thermomix barata en España?</a></h4>
+    <a href='https://computerhoy.com/noticias/life/lild-puede-volver-vender-thermomix-barata-espana-1159253' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/monsieur-cuisine-smart-2880313.jpg' alt='¿Por qué Lild puede volver a vender su Thermomix barata en España?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/apple-sigue-acumulando-problemas-china-podria-afectarnos-todos-1159205'>Apple sigue acumulando problemas en China y podría afectarnos a todos</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/apple-sigue-acumulando-problemas-china-podria-afectarnos-todos-1159205' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/apple-sigue-acumulando-problemas-china-podria-afectarnos-todos-2880327.jpg' alt='Apple sigue acumulando problemas en China y podría afectarnos a todos' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/fortuna-elon-musk-esfuma-twitter-tesla-son-agujero-perdidas-millonarias-1159169'>La fortuna de Elon Musk se esfuma: Twitter y Tesla son un agujero de pérdidas millonarias</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/fortuna-elon-musk-esfuma-twitter-tesla-son-agujero-perdidas-millonarias-1159169' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/fortuna-elon-musk-esfuma-twitter-tesla-son-agujero-perdidas-millonarias-2880111.jpg' alt='La fortuna de Elon Musk se esfuma: Twitter y Tesla son un agujero de pérdidas millonarias' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/bitcoin-punto-colapso-perderse-50-direcciones-1159157'>El bitcoin a punto del colapso tras perderse más del 50 % de sus direcciones</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/bitcoin-punto-colapso-perderse-50-direcciones-1159157' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/bitcoin-caida-numeros-bolsa-2747031.jpg' alt='El bitcoin a punto del colapso tras perderse más del 50 % de sus direcciones' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/grave-error-seguridad-muchos-estan-cometiendo-cerrar-cuenta-twitter-1159135'>El grave error de seguridad que muchos están cometiendo al cerrar su cuenta de Twitter </a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/grave-error-seguridad-muchos-estan-cometiendo-cerrar-cuenta-twitter-1159135' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/grave-error-seguridad-muchos-estan-cometiendo-abandonar-twitter-elon-musk-2880051.jpg' alt='El grave error de seguridad que muchos están cometiendo al cerrar su cuenta de Twitter ' />
     </a>
 </div>
 
