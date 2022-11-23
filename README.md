@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/juegos-moviles-fueron-primer-paso-netflix-dara-salto-otras-plataformas-juego-aaa-1159343'>Los juegos para móviles fueron el primer paso: Netflix dará el salto a otras plataformas con un juego AAA</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/juegos-moviles-fueron-primer-paso-netflix-dara-salto-otras-plataformas-juego-aaa-1159343' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/netflix-juegos-2770293.jpg' alt='Los juegos para móviles fueron el primer paso: Netflix dará el salto a otras plataformas con un juego AAA' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/gillbert-pez-robot-filtra-microplasticos-agua-video-1159345'>Gillbert, el pez robot que filtra los microplásticos del agua usando sus agallas (vídeo)</a></h4>
     <a href='https://computerhoy.com/noticias/life/gillbert-pez-robot-filtra-microplasticos-agua-video-1159345' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/verticalimage1669213744955-2880485.jpg' alt='Gillbert, el pez robot que filtra los microplásticos del agua usando sus agallas (vídeo)' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/nuevos-honor-80-honor-80-pro-vienen-pisando-fuerte-160-mpx-camara-principal-pantalla-oled-curva-1159279'>Así son los nuevos smartphones Honor 80 y Honor 80 Pro con 160 Mpx de cámara principal y pantalla OLED curva</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/nuevos-honor-80-honor-80-pro-vienen-pisando-fuerte-160-mpx-camara-principal-pantalla-oled-curva-1159279' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/nuevos-honor-80-honor-80-pro-vienen-pisando-fuerte-160-mpx-camara-principal-pantalla-oled-curva-2880413.jpg' alt='Así son los nuevos smartphones Honor 80 y Honor 80 Pro con 160 Mpx de cámara principal y pantalla OLED curva' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/honor-presenta-magic-vs-nuevo-smartphone-plegable-aterrizara-europa-2023-1159261'>Honor presenta Magic Vs, su nuevo smartphone plegable que aterrizará en Europa en 2023</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/honor-presenta-magic-vs-nuevo-smartphone-plegable-aterrizara-europa-2023-1159261' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/honor-presenta-nuevo-smartphone-plegable-magic-vs-aterrizara-europa-proximamente-2880323.jpg' alt='Honor presenta Magic Vs, su nuevo smartphone plegable que aterrizará en Europa en 2023' />
     </a>
 </div>
 
