@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/cuando-juega-espana-mundial-qatar-2022-dias-horarios-donde-ver-partidos-seleccion-1158707'>Cuándo juega España en el Mundial de Qatar 2022: días, horarios y dónde ver los partidos de la selección</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/cuando-juega-espana-mundial-qatar-2022-dias-horarios-donde-ver-partidos-seleccion-1158707' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/seleccion-espana-mundial-2022-qatar-2880063.jpg' alt='Cuándo juega España en el Mundial de Qatar 2022: días, horarios y dónde ver los partidos de la selección' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/nuevos-honor-80-honor-80-pro-vienen-pisando-fuerte-160-mpx-camara-principal-pantalla-oled-curva-1159279'>Así son los nuevos smartphones Honor 80 y Honor 80 Pro con 160 Mpx de cámara principal y pantalla OLED curva</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/nuevos-honor-80-honor-80-pro-vienen-pisando-fuerte-160-mpx-camara-principal-pantalla-oled-curva-1159279' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/nuevos-honor-80-honor-80-pro-vienen-pisando-fuerte-160-mpx-camara-principal-pantalla-oled-curva-2880413.jpg' alt='Así son los nuevos smartphones Honor 80 y Honor 80 Pro con 160 Mpx de cámara principal y pantalla OLED curva' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/honor-presenta-magic-vs-nuevo-smartphone-plegable-aterrizara-europa-2023-1159261'>Honor presenta Magic Vs, su nuevo smartphone plegable que aterrizará en Europa en 2023</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/honor-presenta-magic-vs-nuevo-smartphone-plegable-aterrizara-europa-2023-1159261' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/honor-presenta-nuevo-smartphone-plegable-magic-vs-aterrizara-europa-proximamente-2880323.jpg' alt='Honor presenta Magic Vs, su nuevo smartphone plegable que aterrizará en Europa en 2023' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/apple-sigue-acumulando-problemas-china-podria-afectarnos-todos-1159205'>Apple sigue acumulando problemas en China y podría afectarnos a todos</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/apple-sigue-acumulando-problemas-china-podria-afectarnos-todos-1159205' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/apple-sigue-acumulando-problemas-china-podria-afectarnos-todos-2880327.jpg' alt='Apple sigue acumulando problemas en China y podría afectarnos a todos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/enorme-beneficio-usar-freidora-aire-nadie-habla-1159235'>El enorme beneficio de usar una freidora de aire del que nadie habla</a></h4>
-    <a href='https://computerhoy.com/noticias/life/enorme-beneficio-usar-freidora-aire-nadie-habla-1159235' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/freidora-aire-toda-familia-philips-tamano-xl-mejores-ofertas-semana-2780243.jpg' alt='El enorme beneficio de usar una freidora de aire del que nadie habla' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/fortuna-elon-musk-esfuma-twitter-tesla-son-agujero-perdidas-millonarias-1159169'>La fortuna de Elon Musk se esfuma: Twitter y Tesla son un agujero de pérdidas millonarias</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/fortuna-elon-musk-esfuma-twitter-tesla-son-agujero-perdidas-millonarias-1159169' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/fortuna-elon-musk-esfuma-twitter-tesla-son-agujero-perdidas-millonarias-2880111.jpg' alt='La fortuna de Elon Musk se esfuma: Twitter y Tesla son un agujero de pérdidas millonarias' />
     </a>
 </div>
 
