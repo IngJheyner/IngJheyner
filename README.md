@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/23-noticias-tecnologia-comenzar-manana-informado-ultimo-1159071'>23 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/23-noticias-tecnologia-comenzar-manana-informado-ultimo-1159071' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/23-noticias-tecnologia-comenzar-manana-informado-ultimo-2879839.jpg' alt='23 noticias de tecnología para comenzar la mañana informado de lo último' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/life/cupones-regalo-black-friday-amazon-aliexpress-1148413'>Cupones Black Friday 2022: Amazon, AliExpress y otras tiendas con cheques regalo</a></h4>
+    <a href='https://computerhoy.com/reportajes/life/cupones-regalo-black-friday-amazon-aliexpress-1148413' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/mujer-cupon-descuento-mano-2857997.jpg' alt='Cupones Black Friday 2022: Amazon, AliExpress y otras tiendas con cheques regalo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/sonda-japonesa-omotenashi-fallo-aterrizar-luna-mision-artemis-i-1159067'>Se pierde el contacto con la sonda japonesa que iba a aterrizar en la Luna con la misión Artemis I</a></h4>
     <a href='https://computerhoy.com/noticias/life/sonda-japonesa-omotenashi-fallo-aterrizar-luna-mision-artemis-i-1159067' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/estrella-sonda-japonesa-iba-aterrizar-luna-mision-artemis-i-2879617.jpg' alt='Se pierde el contacto con la sonda japonesa que iba a aterrizar en la Luna con la misión Artemis I' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/estrenos-cine-movistar-plus-diciembre-1158829'>Los estrenos de cine de Movistar Plus+ en diciembre: Nicolas Cage en su máxima expresión, versión extendida de Spider-man, y más</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/estrenos-cine-movistar-plus-diciembre-1158829' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/estrenos-cine-movistar-plus-diciembre-nicolas-cage-maxima-expresion-version-extendida-spider-man-2879597.jpg' alt='Los estrenos de cine de Movistar Plus+ en diciembre: Nicolas Cage en su máxima expresión, versión extendida de Spider-man, y más' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/portatil-honor-magicbook-16-descuento-350-euros-raton-regalo-1158783'>El portátil Honor MagicBook 16 tiene un descuento de 350 euros, y con ratón de regalo</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/portatil-honor-magicbook-16-descuento-350-euros-raton-regalo-1158783' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/portatil-honor-magicbook-16-tiene-descuento-350-euros-raton-regalo-2879361.jpg' alt='El portátil Honor MagicBook 16 tiene un descuento de 350 euros, y con ratón de regalo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/solo-estas-pocas-tiendas-merece-pena-comprar-black-friday-2022-ocu-1158823'>Solo en estas pocas tiendas merece la pena comprar en el Black Friday 2022, según la OCU</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/solo-estas-pocas-tiendas-merece-pena-comprar-black-friday-2022-ocu-1158823' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/black-friday-2879543.jpg' alt='Solo en estas pocas tiendas merece la pena comprar en el Black Friday 2022, según la OCU' />
     </a>
 </div>
 
