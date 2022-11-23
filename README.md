@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/primera-vez-prohiben-estados-unidos-minado-criptomonedas-1159363'>Por primera vez prohíben en Estados Unidos el minado de criptomonedas</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/primera-vez-prohiben-estados-unidos-minado-criptomonedas-1159363' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/kosovo-tambien-prohibe-minado-criptomonedas-bitcoin-acelera-caida-2588355.jpg' alt='Por primera vez prohíben en Estados Unidos el minado de criptomonedas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/tiktok-como-funciona-trucos-como-ganar-dinero-videos-1159087'>TikTok: qué es, cómo funciona, trucos y cómo ganar dinero con tus vídeos</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/tiktok-como-funciona-trucos-como-ganar-dinero-videos-1159087' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/tiktok-2874231.jpg' alt='TikTok: qué es, cómo funciona, trucos y cómo ganar dinero con tus vídeos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/elimina-estas-aplicaciones-movil-estan-infectadas-virus-te-vaciaran-cuenta-banco-1159337'>Elimina estas aplicaciones de tu móvil: están infectadas con virus que te vaciarán la cuenta del banco</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/elimina-estas-aplicaciones-movil-estan-infectadas-virus-te-vaciaran-cuenta-banco-1159337' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/malware-movil-2670683.jpg' alt='Elimina estas aplicaciones de tu móvil: están infectadas con virus que te vaciarán la cuenta del banco' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/listas/tecnologia/iphone-13-oferta-durante-black-friday-1159149'>iPhone 13 en oferta durante Black Friday: los modelos más baratos</a></h4>
     <a href='https://computerhoy.com/listas/tecnologia/iphone-13-oferta-durante-black-friday-1159149' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/analisis-iphone-13-2492387.jpg' alt='iPhone 13 en oferta durante Black Friday: los modelos más baratos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/juegos-moviles-fueron-primer-paso-netflix-dara-salto-otras-plataformas-juego-aaa-1159343'>Los juegos para móviles fueron el primer paso: Netflix dará el salto a otras plataformas con un juego AAA</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/juegos-moviles-fueron-primer-paso-netflix-dara-salto-otras-plataformas-juego-aaa-1159343' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/netflix-juegos-2770293.jpg' alt='Los juegos para móviles fueron el primer paso: Netflix dará el salto a otras plataformas con un juego AAA' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/gillbert-pez-robot-filtra-microplasticos-agua-video-1159345'>Gillbert, el pez robot que filtra los microplásticos del agua usando sus agallas (vídeo)</a></h4>
-    <a href='https://computerhoy.com/noticias/life/gillbert-pez-robot-filtra-microplasticos-agua-video-1159345' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/verticalimage1669213744955-2880485.jpg' alt='Gillbert, el pez robot que filtra los microplásticos del agua usando sus agallas (vídeo)' />
     </a>
 </div>
 
