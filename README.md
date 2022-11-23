@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/elimina-estas-aplicaciones-movil-estan-infectadas-virus-te-vaciaran-cuenta-banco-1159337'>Elimina estas aplicaciones de tu móvil: están infectadas con virus que te vaciarán la cuenta del banco</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/elimina-estas-aplicaciones-movil-estan-infectadas-virus-te-vaciaran-cuenta-banco-1159337' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/malware-movil-2670683.jpg' alt='Elimina estas aplicaciones de tu móvil: están infectadas con virus que te vaciarán la cuenta del banco' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/listas/tecnologia/samsung-galaxy-s22-ultraoferta-black-friday-1158721'>Amazon y Samsung rebajan estos Galaxy S22 únicamente durante Black Friday: precios mínimos históricos</a></h4>
+    <a href='https://computerhoy.com/listas/tecnologia/samsung-galaxy-s22-ultraoferta-black-friday-1158721' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/galaxy-s22-opinion-2611121.jpg' alt='Amazon y Samsung rebajan estos Galaxy S22 únicamente durante Black Friday: precios mínimos históricos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/listas/tecnologia/iphone-13-oferta-durante-black-friday-1159149'>iPhone 13 en oferta durante Black Friday: los modelos más baratos</a></h4>
+    <a href='https://computerhoy.com/listas/tecnologia/iphone-13-oferta-durante-black-friday-1159149' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/analisis-iphone-13-2492387.jpg' alt='iPhone 13 en oferta durante Black Friday: los modelos más baratos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/juegos-moviles-fueron-primer-paso-netflix-dara-salto-otras-plataformas-juego-aaa-1159343'>Los juegos para móviles fueron el primer paso: Netflix dará el salto a otras plataformas con un juego AAA</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/juegos-moviles-fueron-primer-paso-netflix-dara-salto-otras-plataformas-juego-aaa-1159343' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/netflix-juegos-2770293.jpg' alt='Los juegos para móviles fueron el primer paso: Netflix dará el salto a otras plataformas con un juego AAA' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/gillbert-pez-robot-filtra-microplasticos-agua-video-1159345'>Gillbert, el pez robot que filtra los microplásticos del agua usando sus agallas (vídeo)</a></h4>
     <a href='https://computerhoy.com/noticias/life/gillbert-pez-robot-filtra-microplasticos-agua-video-1159345' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/verticalimage1669213744955-2880485.jpg' alt='Gillbert, el pez robot que filtra los microplásticos del agua usando sus agallas (vídeo)' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/vodafone-lanza-plan-llamado-hogar-5g-pretende-dar-banda-ancha-ultrarrapida-hogares-empresas-1159319'>Vodafone lanza un plan llamado Hogar 5G que pretende dar banda ancha ultrarrápida a hogares y empresas</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/vodafone-lanza-plan-llamado-hogar-5g-pretende-dar-banda-ancha-ultrarrapida-hogares-empresas-1159319' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/router-5g-vodafone-2880501.jpg' alt='Vodafone lanza un plan llamado Hogar 5G que pretende dar banda ancha ultrarrápida a hogares y empresas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/cuando-juega-espana-mundial-qatar-2022-dias-horarios-donde-ver-partidos-seleccion-1158707'>Cuándo juega España en el Mundial de Qatar 2022: días, horarios y dónde ver los partidos de la selección</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/cuando-juega-espana-mundial-qatar-2022-dias-horarios-donde-ver-partidos-seleccion-1158707' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/seleccion-espana-mundial-2022-qatar-2880063.jpg' alt='Cuándo juega España en el Mundial de Qatar 2022: días, horarios y dónde ver los partidos de la selección' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/nuevos-honor-80-honor-80-pro-vienen-pisando-fuerte-160-mpx-camara-principal-pantalla-oled-curva-1159279'>Así son los nuevos smartphones Honor 80 y Honor 80 Pro con 160 Mpx de cámara principal y pantalla OLED curva</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/nuevos-honor-80-honor-80-pro-vienen-pisando-fuerte-160-mpx-camara-principal-pantalla-oled-curva-1159279' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/nuevos-honor-80-honor-80-pro-vienen-pisando-fuerte-160-mpx-camara-principal-pantalla-oled-curva-2880413.jpg' alt='Así son los nuevos smartphones Honor 80 y Honor 80 Pro con 160 Mpx de cámara principal y pantalla OLED curva' />
     </a>
 </div>
 
