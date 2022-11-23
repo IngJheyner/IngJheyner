@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/gillbert-pez-robot-filtra-microplasticos-agua-video-1159345'>Gillbert, el pez robot que filtra los microplásticos del agua usando sus agallas (vídeo)</a></h4>
+    <a href='https://computerhoy.com/noticias/life/gillbert-pez-robot-filtra-microplasticos-agua-video-1159345' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/verticalimage1669213744955-2880485.jpg' alt='Gillbert, el pez robot que filtra los microplásticos del agua usando sus agallas (vídeo)' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/vodafone-lanza-plan-llamado-hogar-5g-pretende-dar-banda-ancha-ultrarrapida-hogares-empresas-1159319'>Vodafone lanza un plan llamado Hogar 5G que pretende dar banda ancha ultrarrápida a hogares y empresas</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/vodafone-lanza-plan-llamado-hogar-5g-pretende-dar-banda-ancha-ultrarrapida-hogares-empresas-1159319' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/router-5g-vodafone-2880501.jpg' alt='Vodafone lanza un plan llamado Hogar 5G que pretende dar banda ancha ultrarrápida a hogares y empresas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/cuando-juega-espana-mundial-qatar-2022-dias-horarios-donde-ver-partidos-seleccion-1158707'>Cuándo juega España en el Mundial de Qatar 2022: días, horarios y dónde ver los partidos de la selección</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/cuando-juega-espana-mundial-qatar-2022-dias-horarios-donde-ver-partidos-seleccion-1158707' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/seleccion-espana-mundial-2022-qatar-2880063.jpg' alt='Cuándo juega España en el Mundial de Qatar 2022: días, horarios y dónde ver los partidos de la selección' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/honor-presenta-magic-vs-nuevo-smartphone-plegable-aterrizara-europa-2023-1159261'>Honor presenta Magic Vs, su nuevo smartphone plegable que aterrizará en Europa en 2023</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/honor-presenta-magic-vs-nuevo-smartphone-plegable-aterrizara-europa-2023-1159261' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/honor-presenta-nuevo-smartphone-plegable-magic-vs-aterrizara-europa-proximamente-2880323.jpg' alt='Honor presenta Magic Vs, su nuevo smartphone plegable que aterrizará en Europa en 2023' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/lild-puede-volver-vender-thermomix-barata-espana-1159253'>¿Por qué Lild puede volver a vender su Thermomix barata en España?</a></h4>
-    <a href='https://computerhoy.com/noticias/life/lild-puede-volver-vender-thermomix-barata-espana-1159253' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/monsieur-cuisine-smart-2880313.jpg' alt='¿Por qué Lild puede volver a vender su Thermomix barata en España?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/apple-sigue-acumulando-problemas-china-podria-afectarnos-todos-1159205'>Apple sigue acumulando problemas en China y podría afectarnos a todos</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/apple-sigue-acumulando-problemas-china-podria-afectarnos-todos-1159205' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/apple-sigue-acumulando-problemas-china-podria-afectarnos-todos-2880327.jpg' alt='Apple sigue acumulando problemas en China y podría afectarnos a todos' />
     </a>
 </div>
 
