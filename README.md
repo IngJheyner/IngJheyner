@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/evita-adiccion-movil-alguna-siguientes-soluciones-1158629'>Evita la adicción al móvil con alguna de las siguientes soluciones</a></h4>
+    <a href='https://computerhoy.com/noticias/life/evita-adiccion-movil-alguna-siguientes-soluciones-1158629' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/opciones-tienes-evitar-cierta-medida-adiccion-movil-2878859.jpg' alt='Evita la adicción al móvil con alguna de las siguientes soluciones' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/23-noticias-tecnologia-comenzar-manana-informado-ultimo-1159071'>23 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/23-noticias-tecnologia-comenzar-manana-informado-ultimo-1159071' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/23-noticias-tecnologia-comenzar-manana-informado-ultimo-2879839.jpg' alt='23 noticias de tecnología para comenzar la mañana informado de lo último' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/george-hotz-primer-hacker-iphone-ps3-entra-trabajar-gratis-twitter-ya-sabemos-va-encargar-1158835'>George Hotz, el primer hacker del iPhone y la PS3, entra a trabajar gratis en Twitter, y ya sabemos de qué se va a encargar</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/george-hotz-primer-hacker-iphone-ps3-entra-trabajar-gratis-twitter-ya-sabemos-va-encargar-1158835' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/elon-musk-contrata-george-hotz-geohot-hacker-iphone-ps3-arregle-twitter-12-dias-2879611.jpg' alt='George Hotz, el primer hacker del iPhone y la PS3, entra a trabajar gratis en Twitter, y ya sabemos de qué se va a encargar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/estrenos-cine-movistar-plus-diciembre-1158829'>Los estrenos de cine de Movistar Plus+ en diciembre: Nicolas Cage en su máxima expresión, versión extendida de Spider-man, y más</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/estrenos-cine-movistar-plus-diciembre-1158829' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/estrenos-cine-movistar-plus-diciembre-nicolas-cage-maxima-expresion-version-extendida-spider-man-2879597.jpg' alt='Los estrenos de cine de Movistar Plus+ en diciembre: Nicolas Cage en su máxima expresión, versión extendida de Spider-man, y más' />
     </a>
 </div>
 
