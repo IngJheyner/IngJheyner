@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/inmensa-mayoria-ofertas-black-friday-son-caras-hace-meses-ocu-1159425'>La inmensa mayoría de las ofertas del Black Friday son más caras que hace unos meses, según la OCU</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/inmensa-mayoria-ofertas-black-friday-son-caras-hace-meses-ocu-1159425' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/black-friday-2880729.jpg' alt='La inmensa mayoría de las ofertas del Black Friday son más caras que hace unos meses, según la OCU' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/primera-vez-prohiben-estados-unidos-minado-criptomonedas-1159363'>Por primera vez prohíben en Estados Unidos el minado de criptomonedas</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/primera-vez-prohiben-estados-unidos-minado-criptomonedas-1159363' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/kosovo-tambien-prohibe-minado-criptomonedas-bitcoin-acelera-caida-2588355.jpg' alt='Por primera vez prohíben en Estados Unidos el minado de criptomonedas' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/listas/tecnologia/samsung-galaxy-s22-ultraoferta-black-friday-1158721'>Amazon y Samsung rebajan estos Galaxy S22 únicamente durante Black Friday: precios mínimos históricos</a></h4>
     <a href='https://computerhoy.com/listas/tecnologia/samsung-galaxy-s22-ultraoferta-black-friday-1158721' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/galaxy-s22-opinion-2611121.jpg' alt='Amazon y Samsung rebajan estos Galaxy S22 únicamente durante Black Friday: precios mínimos históricos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/listas/tecnologia/iphone-13-oferta-durante-black-friday-1159149'>iPhone 13 en oferta durante Black Friday: los modelos más baratos</a></h4>
-    <a href='https://computerhoy.com/listas/tecnologia/iphone-13-oferta-durante-black-friday-1159149' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/analisis-iphone-13-2492387.jpg' alt='iPhone 13 en oferta durante Black Friday: los modelos más baratos' />
     </a>
 </div>
 
