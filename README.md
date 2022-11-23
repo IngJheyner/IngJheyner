@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/portatil-macbook-air-apple-m1-descuento-200-euros-1159447'>Descuento de más de 200 euros en el portátil MacBook Air con Apple M1</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/portatil-macbook-air-apple-m1-descuento-200-euros-1159447' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/11/macbook-air-2020-m1-2131857.jpg' alt='Descuento de más de 200 euros en el portátil MacBook Air con Apple M1' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/listas/tecnologia/mejores-aplicaciones-moviles-iphone-android-convertir-fotografias-pinturas-1153493'>Las mejores aplicaciones para móviles iPhone y Android con las que convertir tus fotografías en pinturas</a></h4>
     <a href='https://computerhoy.com/listas/tecnologia/mejores-aplicaciones-moviles-iphone-android-convertir-fotografias-pinturas-1153493' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/mejores-aplicaciones-moviles-iphone-android-convertir-fotografias-pinturas-2876977.jpg' alt='Las mejores aplicaciones para móviles iPhone y Android con las que convertir tus fotografías en pinturas' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/inmensa-mayoria-ofertas-black-friday-son-caras-hace-meses-ocu-1159425'>La inmensa mayoría de las ofertas del Black Friday son más caras que hace unos meses, según la OCU</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/inmensa-mayoria-ofertas-black-friday-son-caras-hace-meses-ocu-1159425' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/black-friday-2880729.jpg' alt='La inmensa mayoría de las ofertas del Black Friday son más caras que hace unos meses, según la OCU' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/primera-vez-prohiben-estados-unidos-minado-criptomonedas-1159363'>Por primera vez prohíben en Estados Unidos el minado de criptomonedas</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/primera-vez-prohiben-estados-unidos-minado-criptomonedas-1159363' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/kosovo-tambien-prohibe-minado-criptomonedas-bitcoin-acelera-caida-2588355.jpg' alt='Por primera vez prohíben en Estados Unidos el minado de criptomonedas' />
     </a>
 </div>
 
