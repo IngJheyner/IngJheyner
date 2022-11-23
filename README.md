@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/desafio-visual-que-pasa-imagen-1159069'>Desafío rápido: solo el 1% de las personas es capaz de descubrir qué pasa en esta imagen</a></h4>
+    <a href='https://computerhoy.com/noticias/life/desafio-visual-que-pasa-imagen-1159069' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/desafio-rapido-solo-1-personas-capaz-descubrir-pasa-imagen-2879835.jpg' alt='Desafío rápido: solo el 1% de las personas es capaz de descubrir qué pasa en esta imagen' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/diferencias-thunderbolt-usb-c-mismo-conector-distinta-tecnologia-1158751'>Diferencias entre el Thunderbolt y el USB-C: mismo conector, distinta tecnología</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/diferencias-thunderbolt-usb-c-mismo-conector-distinta-tecnologia-1158751' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/thunderbolt-usb-c-2879191.jpg' alt='Diferencias entre el Thunderbolt y el USB-C: mismo conector, distinta tecnología' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/listas/tecnologia/samsung-galaxy-s22-ultraoferta-black-friday-1158721'>Amazon y Samsung rebajan estos Galaxy S22 únicamente durante Black Friday: precios mínimos históricos</a></h4>
+    <a href='https://computerhoy.com/listas/tecnologia/samsung-galaxy-s22-ultraoferta-black-friday-1158721' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/galaxy-s22-opinion-2611121.jpg' alt='Amazon y Samsung rebajan estos Galaxy S22 únicamente durante Black Friday: precios mínimos históricos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/evita-adiccion-movil-alguna-siguientes-soluciones-1158629'>Evita la adicción al móvil con alguna de las siguientes soluciones</a></h4>
     <a href='https://computerhoy.com/noticias/life/evita-adiccion-movil-alguna-siguientes-soluciones-1158629' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/opciones-tienes-evitar-cierta-medida-adiccion-movil-2878859.jpg' alt='Evita la adicción al móvil con alguna de las siguientes soluciones' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/23-noticias-tecnologia-comenzar-manana-informado-ultimo-1159071'>23 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/23-noticias-tecnologia-comenzar-manana-informado-ultimo-1159071' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/23-noticias-tecnologia-comenzar-manana-informado-ultimo-2879839.jpg' alt='23 noticias de tecnología para comenzar la mañana informado de lo último' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/life/cupones-regalo-black-friday-amazon-aliexpress-1148413'>Cupones Black Friday 2022: Amazon, AliExpress y otras tiendas con cheques regalo</a></h4>
-    <a href='https://computerhoy.com/reportajes/life/cupones-regalo-black-friday-amazon-aliexpress-1148413' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/mujer-cupon-descuento-mano-2857997.jpg' alt='Cupones Black Friday 2022: Amazon, AliExpress y otras tiendas con cheques regalo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/sonda-japonesa-omotenashi-fallo-aterrizar-luna-mision-artemis-i-1159067'>Se pierde el contacto con la sonda japonesa que iba a aterrizar en la Luna con la misión Artemis I</a></h4>
-    <a href='https://computerhoy.com/noticias/life/sonda-japonesa-omotenashi-fallo-aterrizar-luna-mision-artemis-i-1159067' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/estrella-sonda-japonesa-iba-aterrizar-luna-mision-artemis-i-2879617.jpg' alt='Se pierde el contacto con la sonda japonesa que iba a aterrizar en la Luna con la misión Artemis I' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/george-hotz-primer-hacker-iphone-ps3-entra-trabajar-gratis-twitter-ya-sabemos-va-encargar-1158835'>George Hotz, el primer hacker del iPhone y la PS3, entra a trabajar gratis en Twitter, y ya sabemos de qué se va a encargar</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/george-hotz-primer-hacker-iphone-ps3-entra-trabajar-gratis-twitter-ya-sabemos-va-encargar-1158835' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/elon-musk-contrata-george-hotz-geohot-hacker-iphone-ps3-arregle-twitter-12-dias-2879611.jpg' alt='George Hotz, el primer hacker del iPhone y la PS3, entra a trabajar gratis en Twitter, y ya sabemos de qué se va a encargar' />
     </a>
 </div>
 
