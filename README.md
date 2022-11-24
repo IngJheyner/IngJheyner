@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/acude-urgencias-porque-no-tenia-pulso-recetan-visita-servicio-tecnico-1159967'>Acude a urgencias porque “no tenía pulso” y le recetan una visita al servicio técnico</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/acude-urgencias-porque-no-tenia-pulso-recetan-visita-servicio-tecnico-1159967' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/persona-vistiendo-reloj-inteligente-muneca-2808277.jpg' alt='Acude a urgencias porque “no tenía pulso” y le recetan una visita al servicio técnico' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/listas/moviles/mejores-aplicaciones-llevar-diario-tengas-escribir-1147543'>Las mejores aplicaciones para llevar un diario sin que tengas que escribir</a></h4>
     <a href='https://computerhoy.com/listas/moviles/mejores-aplicaciones-llevar-diario-tengas-escribir-1147543' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/mejores-aplicaciones-llevar-diario-tengas-escribir-2881607.jpg' alt='Las mejores aplicaciones para llevar un diario sin que tengas que escribir' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/podrias-sobrevivir-lugar-silencioso-tierra-record-45-minutos-1159845'>¿Podrías sobrevivir en el lugar más silencioso de la Tierra? El récord está en 45 minutos</a></h4>
     <a href='https://computerhoy.com/noticias/life/podrias-sobrevivir-lugar-silencioso-tierra-record-45-minutos-1159845' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/podrias-sobrevivir-lugar-silencioso-tierra-record-45-minutos-2881363.jpg' alt='¿Podrías sobrevivir en el lugar más silencioso de la Tierra? El récord está en 45 minutos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/tipos-hidrogeno-existen-coche-como-podra-generar-gratis-casa-hidrogeno-verde-1159811'>Los tipos de hidrógeno que existen para coche y cómo se podrá generar gratis en casa hidrógeno verde</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/tipos-hidrogeno-existen-coche-como-podra-generar-gratis-casa-hidrogeno-verde-1159811' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/hidrogeno-verde-2881251.jpg' alt='Los tipos de hidrógeno que existen para coche y cómo se podrá generar gratis en casa hidrógeno verde' />
     </a>
 </div>
 
