@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/pablo-alvarez-sara-garcia-astronautas-espanoles-agencia-espacial-europea-esa-1159455'>Pablo Álvarez y Sara García, los dos nuevos astronautas españoles de la ESA que podrían viajar a la Luna y Marte</a></h4>
+    <a href='https://computerhoy.com/noticias/life/pablo-alvarez-sara-garcia-astronautas-espanoles-agencia-espacial-europea-esa-1159455' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/pablo-alvarez-sara-garcia-dos-nuevos-astronautas-espanoles-esa-podrian-viajar-luna-marte-2880767.jpg' alt='Pablo Álvarez y Sara García, los dos nuevos astronautas españoles de la ESA que podrían viajar a la Luna y Marte' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/portatil-macbook-air-apple-m1-descuento-200-euros-1159447'>Descuento de más de 200 euros en el portátil MacBook Air con Apple M1</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/portatil-macbook-air-apple-m1-descuento-200-euros-1159447' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/11/macbook-air-2020-m1-2131857.jpg' alt='Descuento de más de 200 euros en el portátil MacBook Air con Apple M1' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/motor/mejores-remedios-evitar-cristales-coche-empanen-1159429'>Los mejores remedios para evitar que los cristales de tu coche se empañen</a></h4>
     <a href='https://computerhoy.com/noticias/motor/mejores-remedios-evitar-cristales-coche-empanen-1159429' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/cristal-coche-2880735.jpg' alt='Los mejores remedios para evitar que los cristales de tu coche se empañen' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/inmensa-mayoria-ofertas-black-friday-son-caras-hace-meses-ocu-1159425'>La inmensa mayoría de las ofertas del Black Friday son más caras que hace unos meses, según la OCU</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/inmensa-mayoria-ofertas-black-friday-son-caras-hace-meses-ocu-1159425' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/black-friday-2880729.jpg' alt='La inmensa mayoría de las ofertas del Black Friday son más caras que hace unos meses, según la OCU' />
     </a>
 </div>
 
