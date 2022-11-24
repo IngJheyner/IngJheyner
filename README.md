@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/gaming/mejor-avanzada-gpu-china-pcie-50-rinde-como-nvidia-2016-1159897'>La mejor y más avanzada GPU china con PCIe 5.0 rinde como una NVIDIA de 2016</a></h4>
+    <a href='https://computerhoy.com/noticias/gaming/mejor-avanzada-gpu-china-pcie-50-rinde-como-nvidia-2016-1159897' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/tarjeta-grafica-china-2881557.jpg' alt='La mejor y más avanzada GPU china con PCIe 5.0 rinde como una NVIDIA de 2016' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/como-descubrir-numero-verguenza-whatsapp-1159875'>Cómo descubrir tu “número de la vergüenza” en WhatsApp</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/como-descubrir-numero-verguenza-whatsapp-1159875' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/whatsapp-2866195.jpg' alt='Cómo descubrir tu “número de la vergüenza” en WhatsApp' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/evita-conectarte-cualquier-estos-paises-cuando-uses-vpn-no-quieres-tener-problemas-1159831'>Evita conectarte a cualquiera de estos países cuando uses una VPN si no quieres tener problemas</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/evita-conectarte-cualquier-estos-paises-cuando-uses-vpn-no-quieres-tener-problemas-1159831' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/evita-conectarte-cualquier-estos-paises-cuando-uses-vpn-no-quieres-tener-problemas-2881283.jpg' alt='Evita conectarte a cualquiera de estos países cuando uses una VPN si no quieres tener problemas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/microsoft-lleva-windows-10-funciones-potentes-windows-11-1159757'>Microsoft lleva a Windows 10 una de las funciones más potentes de Windows 11</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/microsoft-lleva-windows-10-funciones-potentes-windows-11-1159757' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/windows-11-2822283.jpg' alt='Microsoft lleva a Windows 10 una de las funciones más potentes de Windows 11' />
     </a>
 </div>
 
