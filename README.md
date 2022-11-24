@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/27-noticias-tecnologia-comenzar-manana-informado-ultimo-1159701'>27 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/27-noticias-tecnologia-comenzar-manana-informado-ultimo-1159701' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/27-noticias-tecnologia-comenzar-manana-informado-ultimo-2881031.jpg' alt='27 noticias de tecnología para comenzar la mañana informado de lo último' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/listas/tecnologia/ofertas-xiaomi-black-friday-mejores-rebajas-1159369'>Ofertas Xiaomi en Black Friday: estas son las mejores rebajas</a></h4>
+    <a href='https://computerhoy.com/listas/tecnologia/ofertas-xiaomi-black-friday-mejores-rebajas-1159369' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/tienda-fisica-xiaomi-hangzhou-china-2864643.jpg' alt='Ofertas Xiaomi en Black Friday: estas son las mejores rebajas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/pablo-alvarez-sara-garcia-astronautas-espanoles-agencia-espacial-europea-esa-1159455'>Pablo Álvarez y Sara García, los dos nuevos astronautas españoles de la ESA que podrían viajar a la Luna y Marte</a></h4>
     <a href='https://computerhoy.com/noticias/life/pablo-alvarez-sara-garcia-astronautas-espanoles-agencia-espacial-europea-esa-1159455' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/pablo-alvarez-sara-garcia-dos-nuevos-astronautas-espanoles-esa-podrian-viajar-luna-marte-2880767.jpg' alt='Pablo Álvarez y Sara García, los dos nuevos astronautas españoles de la ESA que podrían viajar a la Luna y Marte' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/listas/tecnologia/mejores-aplicaciones-moviles-iphone-android-convertir-fotografias-pinturas-1153493'>Las mejores aplicaciones para móviles iPhone y Android con las que convertir tus fotografías en pinturas</a></h4>
     <a href='https://computerhoy.com/listas/tecnologia/mejores-aplicaciones-moviles-iphone-android-convertir-fotografias-pinturas-1153493' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/mejores-aplicaciones-moviles-iphone-android-convertir-fotografias-pinturas-2876977.jpg' alt='Las mejores aplicaciones para móviles iPhone y Android con las que convertir tus fotografías en pinturas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/kaleidoscope-serie-netflix-1159431'>Kaleidoscope, la nueva serie que cambia según el orden en el que veas los capítulos</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/kaleidoscope-serie-netflix-1159431' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/kaleidoscope-nueva-serie-cambia-orden-veas-capitulos-2880689.jpg' alt='Kaleidoscope, la nueva serie que cambia según el orden en el que veas los capítulos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/mejores-remedios-evitar-cristales-coche-empanen-1159429'>Los mejores remedios para evitar que los cristales de tu coche se empañen</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/mejores-remedios-evitar-cristales-coche-empanen-1159429' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/cristal-coche-2880735.jpg' alt='Los mejores remedios para evitar que los cristales de tu coche se empañen' />
     </a>
 </div>
 
