@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/microsoft-lleva-windows-10-funciones-potentes-windows-11-1159757'>Microsoft lleva a Windows 10 una de las funciones más potentes de Windows 11</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/microsoft-lleva-windows-10-funciones-potentes-windows-11-1159757' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/windows-11-2822283.jpg' alt='Microsoft lleva a Windows 10 una de las funciones más potentes de Windows 11' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/china-afirma-haber-resuelto-adiccion-jovenes-videojuegos-1159765'>China afirma haber "resuelto" la adicción de sus  jóvenes a los videojuegos</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/china-afirma-haber-resuelto-adiccion-jovenes-videojuegos-1159765' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/china-afirma-haber-resuelto-adiccion-jovenes-videojuegos-2881147.jpg' alt='China afirma haber "resuelto" la adicción de sus  jóvenes a los videojuegos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/llega-stable-diffusion-v2-soporte-generacion-ia-imagenes-mayor-resolucion-reescalado-mucho-1159729'>Llega Stable Diffusion v2 con soporte de generación IA de imágenes en mayor resolución, reescalado y mucho más</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/llega-stable-diffusion-v2-soporte-generacion-ia-imagenes-mayor-resolucion-reescalado-mucho-1159729' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/stable-difussion-v2-2881081.jpg' alt='Llega Stable Diffusion v2 con soporte de generación IA de imágenes en mayor resolución, reescalado y mucho más' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/ya-quiosco-numero-630-computer-hoy-1156659'>¡Ya está en tu quiosco el número 630 de Computer Hoy!</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/ya-quiosco-numero-630-computer-hoy-1156659' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/computer-hoy-630-2875075.jpg' alt='¡Ya está en tu quiosco el número 630 de Computer Hoy!' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/desafio-visual-encuentra-8-objetos-escondidos-menos-20-segundos-1159699'>Desafío rápido: encuentra las 8 objetos escondidos en menos de 20 segundos y demuestra tu vista de halcón</a></h4>
-    <a href='https://computerhoy.com/noticias/life/desafio-visual-encuentra-8-objetos-escondidos-menos-20-segundos-1159699' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/desafio-rapido-encuentra-8-objetos-escondidos-menos-20-segundos-demuestra-vista-halcon-2880771.jpg' alt='Desafío rápido: encuentra las 8 objetos escondidos en menos de 20 segundos y demuestra tu vista de halcón' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/james-webb-capaz-investigar-atmosferas-planetas-700-anos-luz-distancia-1159351'>James Webb es capaz de investigar atmósferas de planetas a 700 años luz de distancia</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/james-webb-capaz-investigar-atmosferas-planetas-700-anos-luz-distancia-1159351' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/imagenes-telescopio-james-webb-2812089.jpg' alt='James Webb es capaz de investigar atmósferas de planetas a 700 años luz de distancia' />
     </a>
 </div>
 
