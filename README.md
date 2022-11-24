@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/atento-falsificaciones-black-friday-barato-te-podria-salir-muy-caro-1160067'>Atento a las falsificaciones en el Black Friday: lo barato te podría salir muy caro</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/atento-falsificaciones-black-friday-barato-te-podria-salir-muy-caro-1160067' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/black-friday-2881905.jpg' alt='Atento a las falsificaciones en el Black Friday: lo barato te podría salir muy caro' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/estas-son-dificultades-va-encontrar-ser-humano-volver-pisar-luna-1160063'>Estas son las dificultades que se va a encontrar el ser humano para volver a pisar la Luna</a></h4>
+    <a href='https://computerhoy.com/noticias/life/estas-son-dificultades-va-encontrar-ser-humano-volver-pisar-luna-1160063' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/luna-2881895.jpg' alt='Estas son las dificultades que se va a encontrar el ser humano para volver a pisar la Luna' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/carino-no-reconozco-ninos-aplicacion-icloud-windows-filtra-fotos-otras-cuentas-1159969'>Cariño, no reconozco a los niños: la aplicación de iCloud en Windows filtra fotos de otras cuentas</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/carino-no-reconozco-ninos-aplicacion-icloud-windows-filtra-fotos-otras-cuentas-1159969' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/05/icloud.jpg' alt='Cariño, no reconozco a los niños: la aplicación de iCloud en Windows filtra fotos de otras cuentas' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/acude-urgencias-porque-no-tenia-pulso-recetan-visita-servicio-tecnico-1159967'>Acude a urgencias porque “no tenía pulso” y le recetan una visita al servicio técnico</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/acude-urgencias-porque-no-tenia-pulso-recetan-visita-servicio-tecnico-1159967' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/persona-vistiendo-reloj-inteligente-muneca-2808277.jpg' alt='Acude a urgencias porque “no tenía pulso” y le recetan una visita al servicio técnico' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/listas/moviles/mejores-aplicaciones-llevar-diario-tengas-escribir-1147543'>Las mejores aplicaciones para llevar un diario sin que tengas que escribir</a></h4>
-    <a href='https://computerhoy.com/listas/moviles/mejores-aplicaciones-llevar-diario-tengas-escribir-1147543' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/mejores-aplicaciones-llevar-diario-tengas-escribir-2881607.jpg' alt='Las mejores aplicaciones para llevar un diario sin que tengas que escribir' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/gaming/mejor-avanzada-gpu-china-pcie-50-rinde-como-nvidia-2016-1159897'>La mejor y más avanzada GPU china con PCIe 5.0 rinde como una NVIDIA de 2016</a></h4>
-    <a href='https://computerhoy.com/noticias/gaming/mejor-avanzada-gpu-china-pcie-50-rinde-como-nvidia-2016-1159897' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/tarjeta-grafica-china-2881557.jpg' alt='La mejor y más avanzada GPU china con PCIe 5.0 rinde como una NVIDIA de 2016' />
     </a>
 </div>
 
