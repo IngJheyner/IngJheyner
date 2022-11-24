@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/life/manipulacion-black-friday-compras-compulsivas-oniomania-adiccion-compras-1160085'>Así nos manipulan en el Black Friday para comprar lo que no necesitamos</a></h4>
+    <a href='https://computerhoy.com/reportajes/life/manipulacion-black-friday-compras-compulsivas-oniomania-adiccion-compras-1160085' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/nos-manipulan-black-friday-comprar-no-necesitamos-2881911.jpg' alt='Así nos manipulan en el Black Friday para comprar lo que no necesitamos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/atento-falsificaciones-black-friday-barato-te-podria-salir-muy-caro-1160067'>Atento a las falsificaciones en el Black Friday: lo barato te podría salir muy caro</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/atento-falsificaciones-black-friday-barato-te-podria-salir-muy-caro-1160067' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/black-friday-2881905.jpg' alt='Atento a las falsificaciones en el Black Friday: lo barato te podría salir muy caro' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/bye-bye-bird-pajaro-raspberry-pi-lagrima-abandona-twitter-video-1160021'>Bye-bye Bird, el pájaro azul con Raspberry Pi que suelta una lágrima cada vez que alguien se borra de Twitter (vídeo)</a></h4>
     <a href='https://computerhoy.com/noticias/life/bye-bye-bird-pajaro-raspberry-pi-lagrima-abandona-twitter-video-1160021' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/bye-bye-bird-pajaro-raspberry-pi-suelta-lagrima-cada-vez-alguien-borra-twitter-2881713.jpg' alt='Bye-bye Bird, el pájaro azul con Raspberry Pi que suelta una lágrima cada vez que alguien se borra de Twitter (vídeo)' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/acude-urgencias-porque-no-tenia-pulso-recetan-visita-servicio-tecnico-1159967'>Acude a urgencias porque “no tenía pulso” y le recetan una visita al servicio técnico</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/acude-urgencias-porque-no-tenia-pulso-recetan-visita-servicio-tecnico-1159967' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/persona-vistiendo-reloj-inteligente-muneca-2808277.jpg' alt='Acude a urgencias porque “no tenía pulso” y le recetan una visita al servicio técnico' />
     </a>
 </div>
 
