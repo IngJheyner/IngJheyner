@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/desafio-visual-encuentra-8-objetos-escondidos-menos-20-segundos-1159699'>Desafío rápido: encuentra las 8 objetos escondidos en menos de 20 segundos y demuestra tu vista de halcón</a></h4>
+    <a href='https://computerhoy.com/noticias/life/desafio-visual-encuentra-8-objetos-escondidos-menos-20-segundos-1159699' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/desafio-rapido-encuentra-8-objetos-escondidos-menos-20-segundos-demuestra-vista-halcon-2880771.jpg' alt='Desafío rápido: encuentra las 8 objetos escondidos en menos de 20 segundos y demuestra tu vista de halcón' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/james-webb-capaz-investigar-atmosferas-planetas-700-anos-luz-distancia-1159351'>James Webb es capaz de investigar atmósferas de planetas a 700 años luz de distancia</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/james-webb-capaz-investigar-atmosferas-planetas-700-anos-luz-distancia-1159351' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/imagenes-telescopio-james-webb-2812089.jpg' alt='James Webb es capaz de investigar atmósferas de planetas a 700 años luz de distancia' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/listas/tecnologia/ofertas-samsung-black-friday-mejores-chollos-1159401'>Ofertas Samsung en Black Friday: estos son los mejores chollos</a></h4>
     <a href='https://computerhoy.com/listas/tecnologia/ofertas-samsung-black-friday-mejores-chollos-1159401' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/analisis-samsung-galaxy-fold-4-2791557.jpg' alt='Ofertas Samsung en Black Friday: estos son los mejores chollos' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/27-noticias-tecnologia-comenzar-manana-informado-ultimo-1159701'>27 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/27-noticias-tecnologia-comenzar-manana-informado-ultimo-1159701' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/27-noticias-tecnologia-comenzar-manana-informado-ultimo-2881031.jpg' alt='27 noticias de tecnología para comenzar la mañana informado de lo último' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/listas/tecnologia/ofertas-xiaomi-black-friday-mejores-rebajas-1159369'>Ofertas Xiaomi en Black Friday: estas son las mejores rebajas</a></h4>
-    <a href='https://computerhoy.com/listas/tecnologia/ofertas-xiaomi-black-friday-mejores-rebajas-1159369' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/tienda-fisica-xiaomi-hangzhou-china-2864643.jpg' alt='Ofertas Xiaomi en Black Friday: estas son las mejores rebajas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/pablo-alvarez-sara-garcia-astronautas-espanoles-agencia-espacial-europea-esa-1159455'>Pablo Álvarez y Sara García, los dos nuevos astronautas españoles de la ESA que podrían viajar a la Luna y Marte</a></h4>
-    <a href='https://computerhoy.com/noticias/life/pablo-alvarez-sara-garcia-astronautas-espanoles-agencia-espacial-europea-esa-1159455' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/pablo-alvarez-sara-garcia-dos-nuevos-astronautas-espanoles-esa-podrian-viajar-luna-marte-2880767.jpg' alt='Pablo Álvarez y Sara García, los dos nuevos astronautas españoles de la ESA que podrían viajar a la Luna y Marte' />
     </a>
 </div>
 
