@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/listas/moviles/mejores-aplicaciones-llevar-diario-tengas-escribir-1147543'>Las mejores aplicaciones para llevar un diario sin que tengas que escribir</a></h4>
+    <a href='https://computerhoy.com/listas/moviles/mejores-aplicaciones-llevar-diario-tengas-escribir-1147543' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/mejores-aplicaciones-llevar-diario-tengas-escribir-2881607.jpg' alt='Las mejores aplicaciones para llevar un diario sin que tengas que escribir' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/gaming/mejor-avanzada-gpu-china-pcie-50-rinde-como-nvidia-2016-1159897'>La mejor y más avanzada GPU china con PCIe 5.0 rinde como una NVIDIA de 2016</a></h4>
     <a href='https://computerhoy.com/noticias/gaming/mejor-avanzada-gpu-china-pcie-50-rinde-como-nvidia-2016-1159897' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/tarjeta-grafica-china-2881557.jpg' alt='La mejor y más avanzada GPU china con PCIe 5.0 rinde como una NVIDIA de 2016' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/motor/tipos-hidrogeno-existen-coche-como-podra-generar-gratis-casa-hidrogeno-verde-1159811'>Los tipos de hidrógeno que existen para coche y cómo se podrá generar gratis en casa hidrógeno verde</a></h4>
     <a href='https://computerhoy.com/noticias/motor/tipos-hidrogeno-existen-coche-como-podra-generar-gratis-casa-hidrogeno-verde-1159811' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/hidrogeno-verde-2881251.jpg' alt='Los tipos de hidrógeno que existen para coche y cómo se podrá generar gratis en casa hidrógeno verde' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/evita-conectarte-cualquier-estos-paises-cuando-uses-vpn-no-quieres-tener-problemas-1159831'>Evita conectarte a cualquiera de estos países cuando uses una VPN si no quieres tener problemas</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/evita-conectarte-cualquier-estos-paises-cuando-uses-vpn-no-quieres-tener-problemas-1159831' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/evita-conectarte-cualquier-estos-paises-cuando-uses-vpn-no-quieres-tener-problemas-2881283.jpg' alt='Evita conectarte a cualquiera de estos países cuando uses una VPN si no quieres tener problemas' />
     </a>
 </div>
 
