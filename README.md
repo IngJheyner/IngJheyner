@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/carino-no-reconozco-ninos-aplicacion-icloud-windows-filtra-fotos-otras-cuentas-1159969'>Cariño, no reconozco a los niños: la aplicación de iCloud en Windows filtra fotos de otras cuentas</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/carino-no-reconozco-ninos-aplicacion-icloud-windows-filtra-fotos-otras-cuentas-1159969' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/05/icloud.jpg' alt='Cariño, no reconozco a los niños: la aplicación de iCloud en Windows filtra fotos de otras cuentas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/bye-bye-bird-pajaro-raspberry-pi-lagrima-abandona-twitter-video-1160021'>Bye-bye Bird, el pájaro azul con Raspberry Pi que suelta una lágrima cada vez que alguien se borra de Twitter (vídeo)</a></h4>
+    <a href='https://computerhoy.com/noticias/life/bye-bye-bird-pajaro-raspberry-pi-lagrima-abandona-twitter-video-1160021' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/bye-bye-bird-pajaro-raspberry-pi-suelta-lagrima-cada-vez-alguien-borra-twitter-2881713.jpg' alt='Bye-bye Bird, el pájaro azul con Raspberry Pi que suelta una lágrima cada vez que alguien se borra de Twitter (vídeo)' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/acude-urgencias-porque-no-tenia-pulso-recetan-visita-servicio-tecnico-1159967'>Acude a urgencias porque “no tenía pulso” y le recetan una visita al servicio técnico</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/acude-urgencias-porque-no-tenia-pulso-recetan-visita-servicio-tecnico-1159967' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/persona-vistiendo-reloj-inteligente-muneca-2808277.jpg' alt='Acude a urgencias porque “no tenía pulso” y le recetan una visita al servicio técnico' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/gaming/mejor-avanzada-gpu-china-pcie-50-rinde-como-nvidia-2016-1159897'>La mejor y más avanzada GPU china con PCIe 5.0 rinde como una NVIDIA de 2016</a></h4>
     <a href='https://computerhoy.com/noticias/gaming/mejor-avanzada-gpu-china-pcie-50-rinde-como-nvidia-2016-1159897' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/tarjeta-grafica-china-2881557.jpg' alt='La mejor y más avanzada GPU china con PCIe 5.0 rinde como una NVIDIA de 2016' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/como-descubrir-numero-verguenza-whatsapp-1159875'>Cómo descubrir tu “número de la vergüenza” en WhatsApp</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/como-descubrir-numero-verguenza-whatsapp-1159875' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/whatsapp-2866195.jpg' alt='Cómo descubrir tu “número de la vergüenza” en WhatsApp' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/podrias-sobrevivir-lugar-silencioso-tierra-record-45-minutos-1159845'>¿Podrías sobrevivir en el lugar más silencioso de la Tierra? El récord está en 45 minutos</a></h4>
-    <a href='https://computerhoy.com/noticias/life/podrias-sobrevivir-lugar-silencioso-tierra-record-45-minutos-1159845' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/podrias-sobrevivir-lugar-silencioso-tierra-record-45-minutos-2881363.jpg' alt='¿Podrías sobrevivir en el lugar más silencioso de la Tierra? El récord está en 45 minutos' />
     </a>
 </div>
 
