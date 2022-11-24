@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/tipos-hidrogeno-existen-coche-como-podra-generar-gratis-casa-hidrogeno-verde-1159811'>Los tipos de hidrógeno que existen para coche y cómo se podrá generar gratis en casa hidrógeno verde</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/tipos-hidrogeno-existen-coche-como-podra-generar-gratis-casa-hidrogeno-verde-1159811' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/hidrogeno-verde-2881251.jpg' alt='Los tipos de hidrógeno que existen para coche y cómo se podrá generar gratis en casa hidrógeno verde' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/evita-conectarte-cualquier-estos-paises-cuando-uses-vpn-no-quieres-tener-problemas-1159831'>Evita conectarte a cualquiera de estos países cuando uses una VPN si no quieres tener problemas</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/evita-conectarte-cualquier-estos-paises-cuando-uses-vpn-no-quieres-tener-problemas-1159831' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/evita-conectarte-cualquier-estos-paises-cuando-uses-vpn-no-quieres-tener-problemas-2881283.jpg' alt='Evita conectarte a cualquiera de estos países cuando uses una VPN si no quieres tener problemas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/microsoft-lleva-windows-10-funciones-potentes-windows-11-1159757'>Microsoft lleva a Windows 10 una de las funciones más potentes de Windows 11</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/microsoft-lleva-windows-10-funciones-potentes-windows-11-1159757' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/windows-11-2822283.jpg' alt='Microsoft lleva a Windows 10 una de las funciones más potentes de Windows 11' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/llega-stable-diffusion-v2-soporte-generacion-ia-imagenes-mayor-resolucion-reescalado-mucho-1159729'>Llega Stable Diffusion v2 con soporte de generación IA de imágenes en mayor resolución, reescalado y mucho más</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/llega-stable-diffusion-v2-soporte-generacion-ia-imagenes-mayor-resolucion-reescalado-mucho-1159729' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/stable-difussion-v2-2881081.jpg' alt='Llega Stable Diffusion v2 con soporte de generación IA de imágenes en mayor resolución, reescalado y mucho más' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/microsoft-alerta-hackeos-dispositivos-iot-atacar-empresas-sector-energetico-1159735'>Microsoft alerta de hackeos a dispositivos IoT para atacar empresas del sector energético</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/microsoft-alerta-hackeos-dispositivos-iot-atacar-empresas-sector-energetico-1159735' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/microsoft-alerta-hackeos-dispositivos-iot-atacar-empresas-sector-energetico-2881087.jpg' alt='Microsoft alerta de hackeos a dispositivos IoT para atacar empresas del sector energético' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/ya-quiosco-numero-630-computer-hoy-1156659'>¡Ya está en tu quiosco el número 630 de Computer Hoy!</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/ya-quiosco-numero-630-computer-hoy-1156659' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/computer-hoy-630-2875075.jpg' alt='¡Ya está en tu quiosco el número 630 de Computer Hoy!' />
     </a>
 </div>
 
