@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/listas/tecnologia/ofertas-samsung-black-friday-mejores-chollos-1159401'>Ofertas Samsung en Black Friday: estos son los mejores chollos</a></h4>
+    <a href='https://computerhoy.com/listas/tecnologia/ofertas-samsung-black-friday-mejores-chollos-1159401' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/analisis-samsung-galaxy-fold-4-2791557.jpg' alt='Ofertas Samsung en Black Friday: estos son los mejores chollos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/mejores-webs-online-practicar-yoga-casa-gratis-1159391'>Las mejores webs online para practicar yoga en casa gratis</a></h4>
+    <a href='https://computerhoy.com/noticias/life/mejores-webs-online-practicar-yoga-casa-gratis-1159391' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/yoga-pareja-2763895.jpg' alt='Las mejores webs online para practicar yoga en casa gratis' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/27-noticias-tecnologia-comenzar-manana-informado-ultimo-1159701'>27 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/27-noticias-tecnologia-comenzar-manana-informado-ultimo-1159701' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/27-noticias-tecnologia-comenzar-manana-informado-ultimo-2881031.jpg' alt='27 noticias de tecnología para comenzar la mañana informado de lo último' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/pablo-alvarez-sara-garcia-astronautas-espanoles-agencia-espacial-europea-esa-1159455'>Pablo Álvarez y Sara García, los dos nuevos astronautas españoles de la ESA que podrían viajar a la Luna y Marte</a></h4>
     <a href='https://computerhoy.com/noticias/life/pablo-alvarez-sara-garcia-astronautas-espanoles-agencia-espacial-europea-esa-1159455' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/pablo-alvarez-sara-garcia-dos-nuevos-astronautas-espanoles-esa-podrian-viajar-luna-marte-2880767.jpg' alt='Pablo Álvarez y Sara García, los dos nuevos astronautas españoles de la ESA que podrían viajar a la Luna y Marte' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/portatil-macbook-air-apple-m1-descuento-200-euros-1159447'>Descuento de más de 200 euros en el portátil MacBook Air con Apple M1</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/portatil-macbook-air-apple-m1-descuento-200-euros-1159447' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/11/macbook-air-2020-m1-2131857.jpg' alt='Descuento de más de 200 euros en el portátil MacBook Air con Apple M1' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/listas/tecnologia/mejores-aplicaciones-moviles-iphone-android-convertir-fotografias-pinturas-1153493'>Las mejores aplicaciones para móviles iPhone y Android con las que convertir tus fotografías en pinturas</a></h4>
-    <a href='https://computerhoy.com/listas/tecnologia/mejores-aplicaciones-moviles-iphone-android-convertir-fotografias-pinturas-1153493' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/mejores-aplicaciones-moviles-iphone-android-convertir-fotografias-pinturas-2876977.jpg' alt='Las mejores aplicaciones para móviles iPhone y Android con las que convertir tus fotografías en pinturas' />
     </a>
 </div>
 
