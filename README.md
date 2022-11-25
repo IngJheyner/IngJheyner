@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/tinder-quiere-acabar-citas-toxicas-estos-son-mandamientos-1160567'>Tinder quiere acabar con las citas tóxicas y estos son sus mandamientos</a></h4>
+    <a href='https://computerhoy.com/noticias/life/tinder-quiere-acabar-citas-toxicas-estos-son-mandamientos-1160567' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/tinder-2680959.jpg' alt='Tinder quiere acabar con las citas tóxicas y estos son sus mandamientos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/razon-no-deberias-comprarte-ordenador-estas-navidades-1160609'>Esta es la razón por la que no deberías comprarte un ordenador en estas navidades</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/razon-no-deberias-comprarte-ordenador-estas-navidades-1160609' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/ordenadores-portatiles-2883089.jpg' alt='Esta es la razón por la que no deberías comprarte un ordenador en estas navidades' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/series-ver-fin-semana-netflix-disney-prime-video-miercoles-asesinatos-amor-juvenil-1160509'>Qué series ver este fin de semana en Netflix, Disney+ y Prime Video: miércoles, asesinatos y el amor juvenil</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/series-ver-fin-semana-netflix-disney-prime-video-miercoles-asesinatos-amor-juvenil-1160509' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/series-fin-semana-noviembre-2022-2882813.jpg' alt='Qué series ver este fin de semana en Netflix, Disney+ y Prime Video: miércoles, asesinatos y el amor juvenil' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/peliculas-ver-fin-semana-prime-video-netflix-movistarplus-vikingos-thriller-psicologico-liam-nesson-salsa-1160337'>Qué películas ver este fin de semana en Prime Video, Netflix y MovistarPlus+: vikingos, un thriller psicológico y Liam Nesson en su salsa </a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/peliculas-ver-fin-semana-prime-video-netflix-movistarplus-vikingos-thriller-psicologico-liam-nesson-salsa-1160337' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/peliculas-ver-fin-semana-prime-video-netflix-movistarplus-vikingos-thriller-psicologico-liam-nesson-salsa-2882541.jpg' alt='Qué películas ver este fin de semana en Prime Video, Netflix y MovistarPlus+: vikingos, un thriller psicológico y Liam Nesson en su salsa ' />
     </a>
 </div>
 
