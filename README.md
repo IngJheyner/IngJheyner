@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/patinete-electrico-xiaomi-mi-electric-scooter-3-descuento-100-euros-1160623'>Los patinetes eléctricos son para todo el año: el Mi Electric Scooter 3 de Xiaomi baja de precio 100 euros</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/patinete-electrico-xiaomi-mi-electric-scooter-3-descuento-100-euros-1160623' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/patinetes-son-todo-ano-mi-electric-scooter-3-xiaomi-baja-399-euros-2883117.jpg' alt='Los patinetes eléctricos son para todo el año: el Mi Electric Scooter 3 de Xiaomi baja de precio 100 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/tinder-quiere-acabar-citas-toxicas-estos-son-mandamientos-1160567'>Tinder quiere acabar con las citas tóxicas y estos son sus mandamientos</a></h4>
     <a href='https://computerhoy.com/noticias/life/tinder-quiere-acabar-citas-toxicas-estos-son-mandamientos-1160567' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/tinder-2680959.jpg' alt='Tinder quiere acabar con las citas tóxicas y estos son sus mandamientos' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/truco-bolsa-amarilla-manipulacion-ikea-compres-1160551'>El truco de la bolsa amarilla y la manipulación de IKEA para que compres más</a></h4>
     <a href='https://computerhoy.com/noticias/life/truco-bolsa-amarilla-manipulacion-ikea-compres-1160551' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/truco-bolsa-amarilla-manipulacion-ikea-compres-2883025.jpg' alt='El truco de la bolsa amarilla y la manipulación de IKEA para que compres más' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/series-ver-fin-semana-netflix-disney-prime-video-miercoles-asesinatos-amor-juvenil-1160509'>Qué series ver este fin de semana en Netflix, Disney+ y Prime Video: miércoles, asesinatos y el amor juvenil</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/series-ver-fin-semana-netflix-disney-prime-video-miercoles-asesinatos-amor-juvenil-1160509' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/series-fin-semana-noviembre-2022-2882813.jpg' alt='Qué series ver este fin de semana en Netflix, Disney+ y Prime Video: miércoles, asesinatos y el amor juvenil' />
     </a>
 </div>
 
