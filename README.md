@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/estos-6-problemas-android-son-realmente-molestos-os-ensenamos-resolverlos-1159887'>Estos 6 problemas de Android son realmente molestos y os enseñamos a resolverlos</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/estos-6-problemas-android-son-realmente-molestos-os-ensenamos-resolverlos-1159887' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/estos-6-problemas-android-son-realmente-molestos-os-ensenamos-resolverlos-2882221.jpg' alt='Estos 6 problemas de Android son realmente molestos y os enseñamos a resolverlos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/ultima-fuga-whatsapp-puede-haber-filtrado-datos-personales-casi-500-millones-usuarios-1160443'>La última fuga de WhatsApp puede haber filtrado tus datos personales: casi 500 millones de usuarios</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/ultima-fuga-whatsapp-puede-haber-filtrado-datos-personales-casi-500-millones-usuarios-1160443' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/whatsapp-2803159.jpg' alt='La última fuga de WhatsApp puede haber filtrado tus datos personales: casi 500 millones de usuarios' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/arma-estados-unidos-hundir-submarinos-rusos-torpedos-alas-lanzados-aviones-1160399'>El arma de Estados Unidos para hundir submarinos rusos: torpedos con alas lanzados desde aviones</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/arma-estados-unidos-hundir-submarinos-rusos-torpedos-alas-lanzados-aviones-1160399' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/avion-militar-poseidon-p-8-2882361.jpg' alt='El arma de Estados Unidos para hundir submarinos rusos: torpedos con alas lanzados desde aviones' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/puedes-enviar-mensaje-ipad-artemis-i-mientras-viaja-luna-1160395'>Así puedes enviar tu mensaje al iPad de la Artemis I mientras viaja a la Luna</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/puedes-enviar-mensaje-ipad-artemis-i-mientras-viaja-luna-1160395' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/puedes-enviar-propio-mensaje-ipad-artemis-i-mientras-viaja-luna-2882353.jpg' alt='Así puedes enviar tu mensaje al iPad de la Artemis I mientras viaja a la Luna' />
     </a>
 </div>
 
