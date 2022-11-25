@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/estos-matematicos-pasan-24-horas-resolviendo-operacion-11-1160605'>Estos matemáticos pasan 24 horas resolviendo la operación 1+1</a></h4>
+    <a href='https://computerhoy.com/noticias/life/estos-matematicos-pasan-24-horas-resolviendo-operacion-11-1160605' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/pasan-24-horas-seguidas-resolviendo-operacion-matematica-11-2883085.jpg' alt='Estos matemáticos pasan 24 horas resolviendo la operación 1+1' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/truco-bolsa-amarilla-manipulacion-ikea-compres-1160551'>El truco de la bolsa amarilla y la manipulación de IKEA para que compres más</a></h4>
     <a href='https://computerhoy.com/noticias/life/truco-bolsa-amarilla-manipulacion-ikea-compres-1160551' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/truco-bolsa-amarilla-manipulacion-ikea-compres-2883025.jpg' alt='El truco de la bolsa amarilla y la manipulación de IKEA para que compres más' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/listas/life/mejores-robots-aspiradores-black-friday-2022-modelos-precios-oferta-1160531'>Los mejores robots aspiradores de Black Friday 2022: modelos y precios en oferta</a></h4>
     <a href='https://computerhoy.com/listas/life/mejores-robots-aspiradores-black-friday-2022-modelos-precios-oferta-1160531' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/portada-robots-aspiradores-black-friday-2882971.jpg' alt='Los mejores robots aspiradores de Black Friday 2022: modelos y precios en oferta' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/estos-6-problemas-android-son-realmente-molestos-os-ensenamos-resolverlos-1159887'>Estos 6 problemas de Android son realmente molestos y os enseñamos a resolverlos</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/estos-6-problemas-android-son-realmente-molestos-os-ensenamos-resolverlos-1159887' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/estos-6-problemas-android-son-realmente-molestos-os-ensenamos-resolverlos-2882221.jpg' alt='Estos 6 problemas de Android son realmente molestos y os enseñamos a resolverlos' />
     </a>
 </div>
 
