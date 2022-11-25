@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/podcast'>¿Conoces el Podcast ComputerHoy? Te contamos todo lo que debes saber</a></h4>
+    <a href='https://computerhoy.com/podcast' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/podcast-computerhoycom-2879857.jpg' alt='¿Conoces el Podcast ComputerHoy? Te contamos todo lo que debes saber' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/ni-centimo-google-apple-crea-propia-nube-internet-disco-duro-conectado-8-tb-1029591'>Ni un céntimo a Google o Apple: Crea tu propia nube en internet con este disco duro conectado de 8 TB</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/ni-centimo-google-apple-crea-propia-nube-internet-disco-duro-conectado-8-tb-1029591' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/wd-my-cloud-ex2-2786865.jpg' alt='Ni un céntimo a Google o Apple: Crea tu propia nube en internet con este disco duro conectado de 8 TB' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/autoestereograma-camello-oculto-1160305'>Desafío rápido: solo los "cerebros 3D" podrás ver el camello oculto en este autoestereograma</a></h4>
+    <a href='https://computerhoy.com/noticias/life/autoestereograma-camello-oculto-1160305' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/desafio-rapido-solo-cerebros-3d-podras-ver-camello-oculto-imagen-2882199.jpg' alt='Desafío rápido: solo los "cerebros 3D" podrás ver el camello oculto en este autoestereograma' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/listas/tecnologia/mejores-ofertas-black-friday-1159915'>No busques más: estas son las 10 mejores ofertas locas del Black Friday 2022</a></h4>
+    <a href='https://computerhoy.com/listas/tecnologia/mejores-ofertas-black-friday-1159915' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/mejores-ofertas-black-friday-2881739.jpg' alt='No busques más: estas son las 10 mejores ofertas locas del Black Friday 2022' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-portatiles-estudiantes-universidad-920195'>Estos portátiles son los mejores que puedes comprar para la universidad</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/mejores-portatiles-estudiantes-universidad-920195' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/estudiante-usando-portatil-rodeada-libros-cama-2448737.jpg' alt='Estos portátiles son los mejores que puedes comprar para la universidad' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/listas/tecnologia/aliexpress-vs-amazon-black-friday-ofertas-tienda-china-son-baratas-1159295'>AliExpress vs Amazon en el Black Friday: ofertas de la tienda china que son más baratas</a></h4>
-    <a href='https://computerhoy.com/listas/tecnologia/aliexpress-vs-amazon-black-friday-ofertas-tienda-china-son-baratas-1159295' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/aliexpress-vs-amazon-black-friday-ofertas-tienda-china-son-baratas-2880369.jpg' alt='AliExpress vs Amazon en el Black Friday: ofertas de la tienda china que son más baratas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/21-noticias-tecnologia-comenzar-manana-informado-ultimo-1160307'>21 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/21-noticias-tecnologia-comenzar-manana-informado-ultimo-1160307' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/21-noticias-tecnologia-comenzar-manana-informado-ultimo-2882203.jpg' alt='21 noticias de tecnología para comenzar la mañana informado de lo último' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/listas/tecnologia/top-chollos-black-friday-1160051'>Chollos de Black Friday que cuestan menos de 20€ y no puedes dejar pasar</a></h4>
-    <a href='https://computerhoy.com/listas/tecnologia/top-chollos-black-friday-1160051' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/top-chollos-black-friday-2881903.jpg' alt='Chollos de Black Friday que cuestan menos de 20€ y no puedes dejar pasar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/bebes-30-anos-embriones-congelados-1160303'>Los bebés más "viejos" de la historia nacieron hace unos días, pero ya tienen más de 30 años</a></h4>
-    <a href='https://computerhoy.com/noticias/life/bebes-30-anos-embriones-congelados-1160303' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/nacen-bebes-ancianos-historia-tienen-30-anos-2881983.jpg' alt='Los bebés más "viejos" de la historia nacieron hace unos días, pero ya tienen más de 30 años' />
     </a>
 </div>
 
