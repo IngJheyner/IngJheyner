@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/robot-limpieza-cecotec-tecnologia-laser-solo-cuesta-179-euros-1160091'>Este robot de limpieza Cecotec mapea la casa con tecnología láser, y solo cuesta 179 euros</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/robot-limpieza-cecotec-tecnologia-laser-solo-cuesta-179-euros-1160091' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/robot-limpieza-cecotec-conga-eternal-laser-x-trem-mitad-precio-solo-179-euros-2881981.jpg' alt='Este robot de limpieza Cecotec mapea la casa con tecnología láser, y solo cuesta 179 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/listas/tecnologia/mejores-ofertas-black-friday-1159915'>No busques más: estas son las 10 mejores ofertas locas del Black Friday 2022</a></h4>
+    <a href='https://computerhoy.com/listas/tecnologia/mejores-ofertas-black-friday-1159915' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/mejores-ofertas-black-friday-2881739.jpg' alt='No busques más: estas son las 10 mejores ofertas locas del Black Friday 2022' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/donde-comprar-playstation-5-black-friday-970049'>Dónde comprar una PlayStation 5 en el Black Friday</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/donde-comprar-playstation-5-black-friday-970049' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/playstation-5-2392925.jpg' alt='Dónde comprar una PlayStation 5 en el Black Friday' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/life/manipulacion-black-friday-compras-compulsivas-oniomania-adiccion-compras-1160085'>Así nos manipulan en el Black Friday para comprar lo que no necesitamos</a></h4>
     <a href='https://computerhoy.com/reportajes/life/manipulacion-black-friday-compras-compulsivas-oniomania-adiccion-compras-1160085' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/nos-manipulan-black-friday-comprar-no-necesitamos-2881911.jpg' alt='Así nos manipulan en el Black Friday para comprar lo que no necesitamos' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/atento-falsificaciones-black-friday-barato-te-podria-salir-muy-caro-1160067'>Atento a las falsificaciones en el Black Friday: lo barato te podría salir muy caro</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/atento-falsificaciones-black-friday-barato-te-podria-salir-muy-caro-1160067' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/black-friday-2881905.jpg' alt='Atento a las falsificaciones en el Black Friday: lo barato te podría salir muy caro' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/estas-son-dificultades-va-encontrar-ser-humano-volver-pisar-luna-1160063'>Estas son las dificultades que se va a encontrar el ser humano para volver a pisar la Luna</a></h4>
-    <a href='https://computerhoy.com/noticias/life/estas-son-dificultades-va-encontrar-ser-humano-volver-pisar-luna-1160063' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/luna-2881895.jpg' alt='Estas son las dificultades que se va a encontrar el ser humano para volver a pisar la Luna' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/carino-no-reconozco-ninos-aplicacion-icloud-windows-filtra-fotos-otras-cuentas-1159969'>Cariño, no reconozco a los niños: la aplicación de iCloud en Windows filtra fotos de otras cuentas</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/carino-no-reconozco-ninos-aplicacion-icloud-windows-filtra-fotos-otras-cuentas-1159969' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/05/icloud.jpg' alt='Cariño, no reconozco a los niños: la aplicación de iCloud en Windows filtra fotos de otras cuentas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/bye-bye-bird-pajaro-raspberry-pi-lagrima-abandona-twitter-video-1160021'>Bye-bye Bird, el pájaro azul con Raspberry Pi que suelta una lágrima cada vez que alguien se borra de Twitter (vídeo)</a></h4>
-    <a href='https://computerhoy.com/noticias/life/bye-bye-bird-pajaro-raspberry-pi-lagrima-abandona-twitter-video-1160021' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/bye-bye-bird-pajaro-raspberry-pi-suelta-lagrima-cada-vez-alguien-borra-twitter-2881713.jpg' alt='Bye-bye Bird, el pájaro azul con Raspberry Pi que suelta una lágrima cada vez que alguien se borra de Twitter (vídeo)' />
     </a>
 </div>
 
