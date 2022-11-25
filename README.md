@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/ultima-fuga-whatsapp-puede-haber-filtrado-datos-personales-casi-500-millones-usuarios-1160443'>La última fuga de WhatsApp puede haber filtrado tus datos personales: casi 500 millones de usuarios</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/ultima-fuga-whatsapp-puede-haber-filtrado-datos-personales-casi-500-millones-usuarios-1160443' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/whatsapp-2803159.jpg' alt='La última fuga de WhatsApp puede haber filtrado tus datos personales: casi 500 millones de usuarios' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/calculadora-te-dice-numero-ideal-adornos-deberias-poner-arbol-navidad-1160453'>Esta calculadora te dice el número ideal de adornos que deberías poner en tu árbol de Navidad</a></h4>
+    <a href='https://computerhoy.com/noticias/life/calculadora-te-dice-numero-ideal-adornos-deberias-poner-arbol-navidad-1160453' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/calculadora-te-dice-numero-ideal-adornos-debes-poner-arbol-navidad-2882549.jpg' alt='Esta calculadora te dice el número ideal de adornos que deberías poner en tu árbol de Navidad' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/listas/life/son-mejores-freidoras-aceite-puedes-encontrar-black-friday-2022-1159357'>Esta son las mejores freidoras sin aceite que puedes encontrar en Black Friday 2022</a></h4>
     <a href='https://computerhoy.com/listas/life/son-mejores-freidoras-aceite-puedes-encontrar-black-friday-2022-1159357' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/cecotec-cecofry-experience-window-6000-2838399.jpg' alt='Esta son las mejores freidoras sin aceite que puedes encontrar en Black Friday 2022' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/puedes-enviar-mensaje-ipad-artemis-i-mientras-viaja-luna-1160395'>Así puedes enviar tu mensaje al iPad de la Artemis I mientras viaja a la Luna</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/puedes-enviar-mensaje-ipad-artemis-i-mientras-viaja-luna-1160395' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/puedes-enviar-propio-mensaje-ipad-artemis-i-mientras-viaja-luna-2882353.jpg' alt='Así puedes enviar tu mensaje al iPad de la Artemis I mientras viaja a la Luna' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/smart-business-meeting-casas-inteligentes-mercado-podria-crecer-30-2025-conectividad-eficiencia-seguridad-jugaran-papel-clave-1159731'>Así será la casa del futuro: los expertos apuntan a la ciberseguridad, la conectividad y la eficiencia energética</a></h4>
-    <a href='https://computerhoy.com/noticias/life/smart-business-meeting-casas-inteligentes-mercado-podria-crecer-30-2025-conectividad-eficiencia-seguridad-jugaran-papel-clave-1159731' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/verticalimage1669026804563-2876671.jpg' alt='Así será la casa del futuro: los expertos apuntan a la ciberseguridad, la conectividad y la eficiencia energética' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/listas/gaming/consolas-ofertas-black-friday-regalos-navidad-1157841'>Hay stock de estas consolas, están en oferta por Black Friday y las puedes regalar en Navidad</a></h4>
-    <a href='https://computerhoy.com/listas/gaming/consolas-ofertas-black-friday-regalos-navidad-1157841' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/mandos-xbox-series-x-sony-playstation-5-2876993.jpg' alt='Hay stock de estas consolas, están en oferta por Black Friday y las puedes regalar en Navidad' />
     </a>
 </div>
 
