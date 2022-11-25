@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/21-noticias-tecnologia-comenzar-manana-informado-ultimo-1160307'>21 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/21-noticias-tecnologia-comenzar-manana-informado-ultimo-1160307' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/21-noticias-tecnologia-comenzar-manana-informado-ultimo-2882203.jpg' alt='21 noticias de tecnología para comenzar la mañana informado de lo último' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/listas/tecnologia/top-chollos-black-friday-1160051'>Chollos de Black Friday que cuestan menos de 20€ y no puedes dejar pasar</a></h4>
     <a href='https://computerhoy.com/listas/tecnologia/top-chollos-black-friday-1160051' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/top-chollos-black-friday-2881903.jpg' alt='Chollos de Black Friday que cuestan menos de 20€ y no puedes dejar pasar' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/listas/tecnologia/mejores-ofertas-black-friday-1159915'>No busques más: estas son las 10 mejores ofertas locas del Black Friday 2022</a></h4>
     <a href='https://computerhoy.com/listas/tecnologia/mejores-ofertas-black-friday-1159915' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/mejores-ofertas-black-friday-2881739.jpg' alt='No busques más: estas son las 10 mejores ofertas locas del Black Friday 2022' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/donde-comprar-playstation-5-black-friday-970049'>Dónde comprar una PlayStation 5 en el Black Friday</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/donde-comprar-playstation-5-black-friday-970049' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/playstation-5-2392925.jpg' alt='Dónde comprar una PlayStation 5 en el Black Friday' />
     </a>
 </div>
 
