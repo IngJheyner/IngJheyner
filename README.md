@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/listas/tecnologia/chollos-apple-black-friday-macbook-air-iphone-ipad-airpods-1160325'>Chollos Apple en el Black Friday: MacBook Air, iPhone, iPad y más productos con descuento</a></h4>
+    <a href='https://computerhoy.com/listas/tecnologia/chollos-apple-black-friday-macbook-air-iphone-ipad-airpods-1160325' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/portada-chollos-apple-black-friday-2882249.jpg' alt='Chollos Apple en el Black Friday: MacBook Air, iPhone, iPad y más productos con descuento' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/coche-electrico-futuro-funciona-agua-salada-tiene-autonomia-casi-1000-km-1160339'>El coche eléctrico del futuro funciona con agua salada y tiene una autonomía de casi 1.000 km</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/coche-electrico-futuro-funciona-agua-salada-tiene-autonomia-casi-1000-km-1160339' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/coche-electrico-2882239.jpg' alt='El coche eléctrico del futuro funciona con agua salada y tiene una autonomía de casi 1.000 km' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/elon-musk-finalmente-permitira-algunas-cuentas-twitter-suspendidas-vuelvan-campo-batalla-1160353'>Elon Musk finalmente permitirá que algunas cuentas de Twitter suspendidas vuelvan al campo de batalla</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/elon-musk-finalmente-permitira-algunas-cuentas-twitter-suspendidas-vuelvan-campo-batalla-1160353' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/elon-musk-2868027.jpg' alt='Elon Musk finalmente permitirá que algunas cuentas de Twitter suspendidas vuelvan al campo de batalla' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/podcast'>¿Conoces el Podcast ComputerHoy? Te contamos todo lo que debes saber</a></h4>
     <a href='https://computerhoy.com/podcast' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/podcast-computerhoycom-2879857.jpg' alt='¿Conoces el Podcast ComputerHoy? Te contamos todo lo que debes saber' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/ni-centimo-google-apple-crea-propia-nube-internet-disco-duro-conectado-8-tb-1029591'>Ni un céntimo a Google o Apple: Crea tu propia nube en internet con este disco duro conectado de 8 TB</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/ni-centimo-google-apple-crea-propia-nube-internet-disco-duro-conectado-8-tb-1029591' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/wd-my-cloud-ex2-2786865.jpg' alt='Ni un céntimo a Google o Apple: Crea tu propia nube en internet con este disco duro conectado de 8 TB' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/autoestereograma-camello-oculto-1160305'>Desafío rápido: solo los "cerebros 3D" podrás ver el camello oculto en este autoestereograma</a></h4>
-    <a href='https://computerhoy.com/noticias/life/autoestereograma-camello-oculto-1160305' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/desafio-rapido-solo-cerebros-3d-podras-ver-camello-oculto-imagen-2882199.jpg' alt='Desafío rápido: solo los "cerebros 3D" podrás ver el camello oculto en este autoestereograma' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/listas/tecnologia/mejores-ofertas-black-friday-1159915'>No busques más: estas son las 10 mejores ofertas locas del Black Friday 2022</a></h4>
-    <a href='https://computerhoy.com/listas/tecnologia/mejores-ofertas-black-friday-1159915' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/mejores-ofertas-black-friday-2881739.jpg' alt='No busques más: estas son las 10 mejores ofertas locas del Black Friday 2022' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-portatiles-estudiantes-universidad-920195'>Estos portátiles son los mejores que puedes comprar para la universidad</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-portatiles-estudiantes-universidad-920195' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/estudiante-usando-portatil-rodeada-libros-cama-2448737.jpg' alt='Estos portátiles son los mejores que puedes comprar para la universidad' />
     </a>
 </div>
 
