@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/listas/life/mejores-robots-aspiradores-black-friday-2022-modelos-precios-oferta-1160531'>Los mejores robots aspiradores de Black Friday 2022: modelos y precios en oferta</a></h4>
+    <a href='https://computerhoy.com/listas/life/mejores-robots-aspiradores-black-friday-2022-modelos-precios-oferta-1160531' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/portada-robots-aspiradores-black-friday-2882971.jpg' alt='Los mejores robots aspiradores de Black Friday 2022: modelos y precios en oferta' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/estos-6-problemas-android-son-realmente-molestos-os-ensenamos-resolverlos-1159887'>Estos 6 problemas de Android son realmente molestos y os enseñamos a resolverlos</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/estos-6-problemas-android-son-realmente-molestos-os-ensenamos-resolverlos-1159887' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/estos-6-problemas-android-son-realmente-molestos-os-ensenamos-resolverlos-2882221.jpg' alt='Estos 6 problemas de Android son realmente molestos y os enseñamos a resolverlos' />
@@ -76,15 +84,7 @@
 <div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/listas/life/son-mejores-freidoras-aceite-puedes-encontrar-black-friday-2022-1159357'>Esta son las mejores freidoras sin aceite que puedes encontrar en Black Friday 2022</a></h4>
     <a href='https://computerhoy.com/listas/life/son-mejores-freidoras-aceite-puedes-encontrar-black-friday-2022-1159357' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/cecotec-cecofry-experience-window-6000-2838399.jpg' alt='Esta son las mejores freidoras sin aceite que puedes encontrar en Black Friday 2022' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/arma-estados-unidos-hundir-submarinos-rusos-torpedos-alas-lanzados-aviones-1160399'>El arma de Estados Unidos para hundir submarinos rusos: torpedos con alas lanzados desde aviones</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/arma-estados-unidos-hundir-submarinos-rusos-torpedos-alas-lanzados-aviones-1160399' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/avion-militar-poseidon-p-8-2882361.jpg' alt='El arma de Estados Unidos para hundir submarinos rusos: torpedos con alas lanzados desde aviones' />
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/portada-freidoras-aceite-black-friday-2882975.jpg' alt='Esta son las mejores freidoras sin aceite que puedes encontrar en Black Friday 2022' />
     </a>
 </div>
 
