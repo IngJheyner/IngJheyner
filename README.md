@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/twitter-aprueba-marcas-verificacion-oro-gris-1160627'>Twitter aprueba las marcas de verificación oro y gris, ¿para qué sirven? </a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/twitter-aprueba-marcas-verificacion-oro-gris-1160627' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/twitter-aprueba-marcas-verificacion-oro-gris-sirven-2883161.jpg' alt='Twitter aprueba las marcas de verificación oro y gris, ¿para qué sirven? ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/motor/patinete-electrico-xiaomi-mi-electric-scooter-3-descuento-100-euros-1160623'>Los patinetes eléctricos son para todo el año: el Mi Electric Scooter 3 de Xiaomi baja de precio 100 euros</a></h4>
     <a href='https://computerhoy.com/noticias/motor/patinete-electrico-xiaomi-mi-electric-scooter-3-descuento-100-euros-1160623' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/patinetes-son-todo-ano-mi-electric-scooter-3-xiaomi-baja-399-euros-2883117.jpg' alt='Los patinetes eléctricos son para todo el año: el Mi Electric Scooter 3 de Xiaomi baja de precio 100 euros' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/estos-matematicos-pasan-24-horas-resolviendo-operacion-11-1160605'>Estos matemáticos pasan 24 horas resolviendo la operación 1+1</a></h4>
     <a href='https://computerhoy.com/noticias/life/estos-matematicos-pasan-24-horas-resolviendo-operacion-11-1160605' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/pasan-24-horas-seguidas-resolviendo-operacion-matematica-11-2883085.jpg' alt='Estos matemáticos pasan 24 horas resolviendo la operación 1+1' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/truco-bolsa-amarilla-manipulacion-ikea-compres-1160551'>El truco de la bolsa amarilla y la manipulación de IKEA para que compres más</a></h4>
-    <a href='https://computerhoy.com/noticias/life/truco-bolsa-amarilla-manipulacion-ikea-compres-1160551' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/truco-bolsa-amarilla-manipulacion-ikea-compres-2883025.jpg' alt='El truco de la bolsa amarilla y la manipulación de IKEA para que compres más' />
     </a>
 </div>
 
