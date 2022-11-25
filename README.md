@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/razon-no-deberias-comprarte-ordenador-estas-navidades-1160609'>Esta es la razón por la que no deberías comprarte un ordenador en estas navidades</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/razon-no-deberias-comprarte-ordenador-estas-navidades-1160609' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/ordenadores-portatiles-2883089.jpg' alt='Esta es la razón por la que no deberías comprarte un ordenador en estas navidades' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/estos-matematicos-pasan-24-horas-resolviendo-operacion-11-1160605'>Estos matemáticos pasan 24 horas resolviendo la operación 1+1</a></h4>
     <a href='https://computerhoy.com/noticias/life/estos-matematicos-pasan-24-horas-resolviendo-operacion-11-1160605' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/pasan-24-horas-seguidas-resolviendo-operacion-matematica-11-2883085.jpg' alt='Estos matemáticos pasan 24 horas resolviendo la operación 1+1' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/peliculas-ver-fin-semana-prime-video-netflix-movistarplus-vikingos-thriller-psicologico-liam-nesson-salsa-1160337'>Qué películas ver este fin de semana en Prime Video, Netflix y MovistarPlus+: vikingos, un thriller psicológico y Liam Nesson en su salsa </a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/peliculas-ver-fin-semana-prime-video-netflix-movistarplus-vikingos-thriller-psicologico-liam-nesson-salsa-1160337' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/peliculas-ver-fin-semana-prime-video-netflix-movistarplus-vikingos-thriller-psicologico-liam-nesson-salsa-2882541.jpg' alt='Qué películas ver este fin de semana en Prime Video, Netflix y MovistarPlus+: vikingos, un thriller psicológico y Liam Nesson en su salsa ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/listas/life/mejores-robots-aspiradores-black-friday-2022-modelos-precios-oferta-1160531'>Los mejores robots aspiradores de Black Friday 2022: modelos y precios en oferta</a></h4>
-    <a href='https://computerhoy.com/listas/life/mejores-robots-aspiradores-black-friday-2022-modelos-precios-oferta-1160531' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/portada-robots-aspiradores-black-friday-2882971.jpg' alt='Los mejores robots aspiradores de Black Friday 2022: modelos y precios en oferta' />
     </a>
 </div>
 
