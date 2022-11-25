@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-portatiles-estudiantes-universidad-920195'>Estos portátiles son los mejores que puedes comprar para la universidad</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-portatiles-estudiantes-universidad-920195' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/estudiante-usando-portatil-rodeada-libros-cama-2448737.jpg' alt='Estos portátiles son los mejores que puedes comprar para la universidad' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/listas/tecnologia/aliexpress-vs-amazon-black-friday-ofertas-tienda-china-son-baratas-1159295'>AliExpress vs Amazon en el Black Friday: ofertas de la tienda china que son más baratas</a></h4>
+    <a href='https://computerhoy.com/listas/tecnologia/aliexpress-vs-amazon-black-friday-ofertas-tienda-china-son-baratas-1159295' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/aliexpress-vs-amazon-black-friday-ofertas-tienda-china-son-baratas-2880369.jpg' alt='AliExpress vs Amazon en el Black Friday: ofertas de la tienda china que son más baratas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/21-noticias-tecnologia-comenzar-manana-informado-ultimo-1160307'>21 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/21-noticias-tecnologia-comenzar-manana-informado-ultimo-1160307' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/21-noticias-tecnologia-comenzar-manana-informado-ultimo-2882203.jpg' alt='21 noticias de tecnología para comenzar la mañana informado de lo último' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/bebes-30-anos-embriones-congelados-1160303'>Los bebés más "viejos" de la historia nacieron hace unos días, pero ya tienen más de 30 años</a></h4>
     <a href='https://computerhoy.com/noticias/life/bebes-30-anos-embriones-congelados-1160303' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/nacen-bebes-ancianos-historia-tienen-30-anos-2881983.jpg' alt='Los bebés más "viejos" de la historia nacieron hace unos días, pero ya tienen más de 30 años' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/robot-limpieza-cecotec-tecnologia-laser-solo-cuesta-179-euros-1160091'>Este robot de limpieza Cecotec mapea la casa con tecnología láser, y solo cuesta 179 euros</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/robot-limpieza-cecotec-tecnologia-laser-solo-cuesta-179-euros-1160091' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/robot-limpieza-cecotec-conga-eternal-laser-x-trem-mitad-precio-solo-179-euros-2881981.jpg' alt='Este robot de limpieza Cecotec mapea la casa con tecnología láser, y solo cuesta 179 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/listas/tecnologia/mejores-ofertas-black-friday-1159915'>No busques más: estas son las 10 mejores ofertas locas del Black Friday 2022</a></h4>
-    <a href='https://computerhoy.com/listas/tecnologia/mejores-ofertas-black-friday-1159915' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/mejores-ofertas-black-friday-2881739.jpg' alt='No busques más: estas son las 10 mejores ofertas locas del Black Friday 2022' />
     </a>
 </div>
 
