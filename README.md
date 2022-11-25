@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/listas/tecnologia/top-chollos-black-friday-1160051'>Chollos de Black Friday que cuestan menos de 20€ y no puedes dejar pasar</a></h4>
+    <a href='https://computerhoy.com/listas/tecnologia/top-chollos-black-friday-1160051' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/top-chollos-black-friday-2881903.jpg' alt='Chollos de Black Friday que cuestan menos de 20€ y no puedes dejar pasar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/bebes-30-anos-embriones-congelados-1160303'>Los bebés más "viejos" de la historia nacieron hace unos días, pero ya tienen más de 30 años</a></h4>
     <a href='https://computerhoy.com/noticias/life/bebes-30-anos-embriones-congelados-1160303' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/nacen-bebes-ancianos-historia-tienen-30-anos-2881983.jpg' alt='Los bebés más "viejos" de la historia nacieron hace unos días, pero ya tienen más de 30 años' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/donde-comprar-playstation-5-black-friday-970049'>Dónde comprar una PlayStation 5 en el Black Friday</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/donde-comprar-playstation-5-black-friday-970049' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/playstation-5-2392925.jpg' alt='Dónde comprar una PlayStation 5 en el Black Friday' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/life/manipulacion-black-friday-compras-compulsivas-oniomania-adiccion-compras-1160085'>Así nos manipulan en el Black Friday para comprar lo que no necesitamos</a></h4>
-    <a href='https://computerhoy.com/reportajes/life/manipulacion-black-friday-compras-compulsivas-oniomania-adiccion-compras-1160085' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/nos-manipulan-black-friday-comprar-no-necesitamos-2881911.jpg' alt='Así nos manipulan en el Black Friday para comprar lo que no necesitamos' />
     </a>
 </div>
 
