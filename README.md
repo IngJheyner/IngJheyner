@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-auriculares-cancelacion-ruido-oficina-921819'>Los 5 mejores auriculares con cancelación de ruido para volver a la oficina</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-auriculares-cancelacion-ruido-oficina-921819' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/mejores-auriculares-cancelacion-ruido-2883137.jpg' alt='Los 5 mejores auriculares con cancelación de ruido para volver a la oficina' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/artemis-i-fotos-superficie-luna-1160829'>La nave Orion de la misión Artemis I envía las primeras imágenes de la superficie de la Luna</a></h4>
     <a href='https://computerhoy.com/noticias/life/artemis-i-fotos-superficie-luna-1160829' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/nave-orion-mision-artemis-i-envia-primeras-imagenes-superficie-luna-2883363.jpg' alt='La nave Orion de la misión Artemis I envía las primeras imágenes de la superficie de la Luna' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/motor/patinete-electrico-xiaomi-mi-electric-scooter-3-descuento-100-euros-1160623'>Los patinetes eléctricos son para todo el año: el Mi Electric Scooter 3 de Xiaomi baja de precio 100 euros</a></h4>
     <a href='https://computerhoy.com/noticias/motor/patinete-electrico-xiaomi-mi-electric-scooter-3-descuento-100-euros-1160623' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/patinetes-son-todo-ano-mi-electric-scooter-3-xiaomi-baja-399-euros-2883117.jpg' alt='Los patinetes eléctricos son para todo el año: el Mi Electric Scooter 3 de Xiaomi baja de precio 100 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/tinder-quiere-acabar-citas-toxicas-estos-son-mandamientos-1160567'>Tinder quiere acabar con las citas tóxicas y estos son sus mandamientos</a></h4>
-    <a href='https://computerhoy.com/noticias/life/tinder-quiere-acabar-citas-toxicas-estos-son-mandamientos-1160567' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/tinder-2680959.jpg' alt='Tinder quiere acabar con las citas tóxicas y estos son sus mandamientos' />
     </a>
 </div>
 
