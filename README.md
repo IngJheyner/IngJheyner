@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/life/tarifa-tur-gas-natural-consiste-nueva-tur-4-1151789'>¿Qué es la tarifa TUR del gas natural y en qué consiste la nueva TUR 4?</a></h4>
+    <a href='https://computerhoy.com/reportajes/life/tarifa-tur-gas-natural-consiste-nueva-tur-4-1151789' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/verticalimage1669395064637-2883029.jpg' alt='¿Qué es la tarifa TUR del gas natural y en qué consiste la nueva TUR 4?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/gaming/kat-vr-walk-c-2-plus-cinta-correr-realidad-virtual-video-1160845'>La cinta de correr para realidad virtual que se transforma en silla (vídeo)</a></h4>
+    <a href='https://computerhoy.com/noticias/gaming/kat-vr-walk-c-2-plus-cinta-correr-realidad-virtual-video-1160845' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/verticalimage1669445541401-2883381.jpg' alt='La cinta de correr para realidad virtual que se transforma en silla (vídeo)' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/analisis/review-motorola-edge-30-fusion-1158705'>Análisis del Motorola Edge 30 Fusion, una lección de la nueva Motorola</a></h4>
+    <a href='https://computerhoy.com/analisis/review-motorola-edge-30-fusion-1158705' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/analisis-motorola-edge-30-fusion-2882803.jpg' alt='Análisis del Motorola Edge 30 Fusion, una lección de la nueva Motorola' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/ilusion-optica-dos-caras-escondidas-1160837'>Desafío rápido: solo el 1% de quienes lo intentan pueden ver las dos caras escondidas</a></h4>
+    <a href='https://computerhoy.com/noticias/life/ilusion-optica-dos-caras-escondidas-1160837' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/desafio-rapido-solo-1-quienes-intentan-pueden-ver-dos-caras-escondidas-2883383.jpg' alt='Desafío rápido: solo el 1% de quienes lo intentan pueden ver las dos caras escondidas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-auriculares-cancelacion-ruido-oficina-921819'>Los 5 mejores auriculares con cancelación de ruido para volver a la oficina</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/mejores-auriculares-cancelacion-ruido-oficina-921819' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/mejores-auriculares-cancelacion-ruido-2883137.jpg' alt='Los 5 mejores auriculares con cancelación de ruido para volver a la oficina' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/artemis-i-fotos-superficie-luna-1160829'>La nave Orion de la misión Artemis I envía las primeras imágenes de la superficie de la Luna</a></h4>
-    <a href='https://computerhoy.com/noticias/life/artemis-i-fotos-superficie-luna-1160829' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/nave-orion-mision-artemis-i-envia-primeras-imagenes-superficie-luna-2883363.jpg' alt='La nave Orion de la misión Artemis I envía las primeras imágenes de la superficie de la Luna' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/record-mundial-tasa-alcohol-sangre-control-alcoholemia-1160629'>Conductor argentino bate el récord mundial de tasa de alcohol en sangre en un control de alcoholemia</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/record-mundial-tasa-alcohol-sangre-control-alcoholemia-1160629' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/conductor-argentino-bate-record-mundial-tasa-alcohol-control-alcoholemia-2883163.jpg' alt='Conductor argentino bate el récord mundial de tasa de alcohol en sangre en un control de alcoholemia' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/twitter-aprueba-marcas-verificacion-oro-gris-1160627'>Twitter aprueba las marcas de verificación oro y gris, ¿para qué sirven? </a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/twitter-aprueba-marcas-verificacion-oro-gris-1160627' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/twitter-aprueba-marcas-verificacion-oro-gris-sirven-2883161.jpg' alt='Twitter aprueba las marcas de verificación oro y gris, ¿para qué sirven? ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/patinete-electrico-xiaomi-mi-electric-scooter-3-descuento-100-euros-1160623'>Los patinetes eléctricos son para todo el año: el Mi Electric Scooter 3 de Xiaomi baja de precio 100 euros</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/patinete-electrico-xiaomi-mi-electric-scooter-3-descuento-100-euros-1160623' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/patinetes-son-todo-ano-mi-electric-scooter-3-xiaomi-baja-399-euros-2883117.jpg' alt='Los patinetes eléctricos son para todo el año: el Mi Electric Scooter 3 de Xiaomi baja de precio 100 euros' />
     </a>
 </div>
 
