@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/todas-razones-nunca-debes-utilizar-redes-ilegales-canales-iptv-1160879'>Todas las razones por las que nunca debes utilizar redes ilegales de canales IPTV</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/todas-razones-nunca-debes-utilizar-redes-ilegales-canales-iptv-1160879' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/iptv-2875845.jpg' alt='Todas las razones por las que nunca debes utilizar redes ilegales de canales IPTV' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/streaming/8-muertes-superheroes-espectaculares-han-visto-peliculas-1158817'>Las 8 muertes de superhéroes más espectaculares que se han visto en películas</a></h4>
     <a href='https://computerhoy.com/reportajes/streaming/8-muertes-superheroes-espectaculares-han-visto-peliculas-1158817' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/8-muertes-superheroes-espectaculares-han-visto-peliculas-2879577.jpg' alt='Las 8 muertes de superhéroes más espectaculares que se han visto en películas' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/como-ver-mundial-qatar-2022-android-tv-kodi-iptv-aplicaciones-1160069'>Cómo ver el Mundial de Qatar 2022 en un Android TV con Kodi, IPTV y aplicaciones</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/como-ver-mundial-qatar-2022-android-tv-kodi-iptv-aplicaciones-1160069' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/mundial-qatar-2022-android-tv-2881909.jpg' alt='Cómo ver el Mundial de Qatar 2022 en un Android TV con Kodi, IPTV y aplicaciones' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/listas/life/aspiradora-dyson-ofertas-black-fridau-1157105'>Si buscabas una aspiradora de Dyson estas ofertas de Black Friday son irrepetibles</a></h4>
-    <a href='https://computerhoy.com/listas/life/aspiradora-dyson-ofertas-black-fridau-1157105' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/ofertas-dyson-black-friday-2883401.jpg' alt='Si buscabas una aspiradora de Dyson estas ofertas de Black Friday son irrepetibles' />
     </a>
 </div>
 
