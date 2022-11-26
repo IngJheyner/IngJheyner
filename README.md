@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/record-mundial-tasa-alcohol-sangre-control-alcoholemia-1160629'>Conductor argentino bate el récord mundial de tasa de alcohol en sangre en un control de alcoholemia</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/record-mundial-tasa-alcohol-sangre-control-alcoholemia-1160629' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/conductor-argentino-bate-record-mundial-tasa-alcohol-control-alcoholemia-2883163.jpg' alt='Conductor argentino bate el récord mundial de tasa de alcohol en sangre en un control de alcoholemia' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/twitter-aprueba-marcas-verificacion-oro-gris-1160627'>Twitter aprueba las marcas de verificación oro y gris, ¿para qué sirven? </a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/twitter-aprueba-marcas-verificacion-oro-gris-1160627' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/twitter-aprueba-marcas-verificacion-oro-gris-sirven-2883161.jpg' alt='Twitter aprueba las marcas de verificación oro y gris, ¿para qué sirven? ' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/razon-no-deberias-comprarte-ordenador-estas-navidades-1160609'>Esta es la razón por la que no deberías comprarte un ordenador en estas navidades</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/razon-no-deberias-comprarte-ordenador-estas-navidades-1160609' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/ordenadores-portatiles-2883089.jpg' alt='Esta es la razón por la que no deberías comprarte un ordenador en estas navidades' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/estos-matematicos-pasan-24-horas-resolviendo-operacion-11-1160605'>Estos matemáticos pasan 24 horas resolviendo la operación 1+1</a></h4>
-    <a href='https://computerhoy.com/noticias/life/estos-matematicos-pasan-24-horas-resolviendo-operacion-11-1160605' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/pasan-24-horas-seguidas-resolviendo-operacion-matematica-11-2883085.jpg' alt='Estos matemáticos pasan 24 horas resolviendo la operación 1+1' />
     </a>
 </div>
 
