@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/moviles/mundial-guerra-procesadores-qualcomm-mediatek-2023-1159101'>Para mundial, la guerra de procesadores entre Qualcomm y MediaTek en 2023</a></h4>
+    <a href='https://computerhoy.com/reportajes/moviles/mundial-guerra-procesadores-qualcomm-mediatek-2023-1159101' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/qualcomm-snapdragon-8-gen-2-2870869.jpg' alt='Para mundial, la guerra de procesadores entre Qualcomm y MediaTek en 2023' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/life/tarifa-tur-gas-natural-consiste-nueva-tur-4-1151789'>¿Qué es la tarifa TUR del gas natural y en qué consiste la nueva TUR 4?</a></h4>
     <a href='https://computerhoy.com/reportajes/life/tarifa-tur-gas-natural-consiste-nueva-tur-4-1151789' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/verticalimage1669395064637-2883029.jpg' alt='¿Qué es la tarifa TUR del gas natural y en qué consiste la nueva TUR 4?' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/ilusion-optica-dos-caras-escondidas-1160837'>Desafío rápido: solo el 1% de quienes lo intentan pueden ver las dos caras escondidas</a></h4>
     <a href='https://computerhoy.com/noticias/life/ilusion-optica-dos-caras-escondidas-1160837' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/desafio-rapido-solo-1-quienes-intentan-pueden-ver-dos-caras-escondidas-2883383.jpg' alt='Desafío rápido: solo el 1% de quienes lo intentan pueden ver las dos caras escondidas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-auriculares-cancelacion-ruido-oficina-921819'>Los 5 mejores auriculares con cancelación de ruido para volver a la oficina</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-auriculares-cancelacion-ruido-oficina-921819' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/mejores-auriculares-cancelacion-ruido-2883137.jpg' alt='Los 5 mejores auriculares con cancelación de ruido para volver a la oficina' />
     </a>
 </div>
 
