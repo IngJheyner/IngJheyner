@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/record-nave-espacial-orion-nasa-ha-conseguido-romper-apolo-13-1160929'>El récord que la nave espacial Orion de la NASA ha conseguido romper del Apolo 13</a></h4>
+    <a href='https://computerhoy.com/noticias/life/record-nave-espacial-orion-nasa-ha-conseguido-romper-apolo-13-1160929' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/artemis-i-orion-2883509.jpg' alt='El récord que la nave espacial Orion de la NASA ha conseguido romper del Apolo 13' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/incluye-ultima-actualizacion-android-auto-google-no-te-dice-1160917'>Esto es lo que incluye la última actualización de Android Auto y que Google no te dice</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/incluye-ultima-actualizacion-android-auto-google-no-te-dice-1160917' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/android-auto-coolwalk-2870275.jpg' alt='Esto es lo que incluye la última actualización de Android Auto y que Google no te dice' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/industria/estados-unidos-prohibe-importacion-venta-productos-huawei-zte-razones-seguridad-1160899'>Estados Unidos prohíbe la importación y venta de productos de Huawei y ZTE por razones de seguridad</a></h4>
     <a href='https://computerhoy.com/noticias/industria/estados-unidos-prohibe-importacion-venta-productos-huawei-zte-razones-seguridad-1160899' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/huawei-2883487.jpg' alt='Estados Unidos prohíbe la importación y venta de productos de Huawei y ZTE por razones de seguridad' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/llegan-tarjetas-contacto-whatsapp-windows-funcionan-1160893'>Llegan las tarjetas de contacto a WhatsApp en Windows, y así funcionan</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/llegan-tarjetas-contacto-whatsapp-windows-funcionan-1160893' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/whatsapp-2870685.jpg' alt='Llegan las tarjetas de contacto a WhatsApp en Windows, y así funcionan' />
     </a>
 </div>
 
