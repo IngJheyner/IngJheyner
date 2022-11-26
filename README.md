@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/adios-modo-avion-union-europea-permitira-uso-5g-moviles-bordo-aviones-1160889'>Adiós al modo avión: la Unión Europea permitirá el uso de 5G en móviles a bordo de los aviones</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/adios-modo-avion-union-europea-permitira-uso-5g-moviles-bordo-aviones-1160889' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/hombre-usando-telefono-avion-2883473.jpg' alt='Adiós al modo avión: la Unión Europea permitirá el uso de 5G en móviles a bordo de los aviones' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/puedes-ver-gratis-partidos-mundial-qatar-2022-resolucion-4k-salon-1160597'>Así puedes ver gratis los partidos del Mundial de Qatar 2022 en resolución 4K desde tu salón</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/puedes-ver-gratis-partidos-mundial-qatar-2022-resolucion-4k-salon-1160597' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/televisor-futbol-tv-4k-2775915.jpg' alt='Así puedes ver gratis los partidos del Mundial de Qatar 2022 en resolución 4K desde tu salón' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/todas-razones-nunca-debes-utilizar-redes-ilegales-canales-iptv-1160879'>Todas las razones por las que nunca debes utilizar redes ilegales de canales IPTV</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/todas-razones-nunca-debes-utilizar-redes-ilegales-canales-iptv-1160879' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/iptv-2875845.jpg' alt='Todas las razones por las que nunca debes utilizar redes ilegales de canales IPTV' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/elon-musk-idea-lanzar-movil-propio-google-apple-hacen-twitter-1160873'>Elon Musk y su idea de lanzar un móvil propio si Google y Apple hacen esto a Twitter</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/elon-musk-idea-lanzar-movil-propio-google-apple-hacen-twitter-1160873' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/elon-musk-2698399.jpg' alt='Elon Musk y su idea de lanzar un móvil propio si Google y Apple hacen esto a Twitter' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/listas/tecnologia/5-mejores-radiadores-consumo-ahorrar-factura-luz-pasar-frio-532461'>Los 5 mejores radiadores de bajo consumo para ahorrar en la factura de la luz sin pasar frío</a></h4>
-    <a href='https://computerhoy.com/listas/tecnologia/5-mejores-radiadores-consumo-ahorrar-factura-luz-pasar-frio-532461' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/perro-envuelto-manta-frio-2883425.jpg' alt='Los 5 mejores radiadores de bajo consumo para ahorrar en la factura de la luz sin pasar frío' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/como-ver-mundial-qatar-2022-android-tv-kodi-iptv-aplicaciones-1160069'>Cómo ver el Mundial de Qatar 2022 en un Android TV con Kodi, IPTV y aplicaciones</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/como-ver-mundial-qatar-2022-android-tv-kodi-iptv-aplicaciones-1160069' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/mundial-qatar-2022-android-tv-2881909.jpg' alt='Cómo ver el Mundial de Qatar 2022 en un Android TV con Kodi, IPTV y aplicaciones' />
     </a>
 </div>
 
