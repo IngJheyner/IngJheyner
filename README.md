@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/como-ver-mundial-qatar-2022-android-tv-kodi-iptv-aplicaciones-1160069'>Cómo ver el Mundial de Qatar 2022 en un Android TV con Kodi, IPTV y aplicaciones</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/como-ver-mundial-qatar-2022-android-tv-kodi-iptv-aplicaciones-1160069' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/mundial-qatar-2022-android-tv-2881909.jpg' alt='Cómo ver el Mundial de Qatar 2022 en un Android TV con Kodi, IPTV y aplicaciones' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/listas/life/aspiradora-dyson-ofertas-black-fridau-1157105'>Si buscabas una aspiradora de Dyson estas ofertas de Black Friday son irrepetibles</a></h4>
+    <a href='https://computerhoy.com/listas/life/aspiradora-dyson-ofertas-black-fridau-1157105' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/ofertas-dyson-black-friday-2883401.jpg' alt='Si buscabas una aspiradora de Dyson estas ofertas de Black Friday son irrepetibles' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/moviles/mundial-guerra-procesadores-qualcomm-mediatek-2023-1159101'>Para mundial, la guerra de procesadores entre Qualcomm y MediaTek en 2023</a></h4>
     <a href='https://computerhoy.com/reportajes/moviles/mundial-guerra-procesadores-qualcomm-mediatek-2023-1159101' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/qualcomm-snapdragon-8-gen-2-2870869.jpg' alt='Para mundial, la guerra de procesadores entre Qualcomm y MediaTek en 2023' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/gaming/kat-vr-walk-c-2-plus-cinta-correr-realidad-virtual-video-1160845'>La cinta de correr para realidad virtual que se transforma en silla (vídeo)</a></h4>
     <a href='https://computerhoy.com/noticias/gaming/kat-vr-walk-c-2-plus-cinta-correr-realidad-virtual-video-1160845' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/verticalimage1669445541401-2883381.jpg' alt='La cinta de correr para realidad virtual que se transforma en silla (vídeo)' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/review-motorola-edge-30-fusion-1158705'>Análisis del Motorola Edge 30 Fusion, una lección de la nueva Motorola</a></h4>
-    <a href='https://computerhoy.com/analisis/review-motorola-edge-30-fusion-1158705' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/analisis-motorola-edge-30-fusion-2882803.jpg' alt='Análisis del Motorola Edge 30 Fusion, una lección de la nueva Motorola' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/ilusion-optica-dos-caras-escondidas-1160837'>Desafío rápido: solo el 1% de quienes lo intentan pueden ver las dos caras escondidas</a></h4>
-    <a href='https://computerhoy.com/noticias/life/ilusion-optica-dos-caras-escondidas-1160837' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/desafio-rapido-solo-1-quienes-intentan-pueden-ver-dos-caras-escondidas-2883383.jpg' alt='Desafío rápido: solo el 1% de quienes lo intentan pueden ver las dos caras escondidas' />
     </a>
 </div>
 
