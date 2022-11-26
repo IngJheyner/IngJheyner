@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/incluye-ultima-actualizacion-android-auto-google-no-te-dice-1160917'>Esto es lo que incluye la última actualización de Android Auto y que Google no te dice</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/incluye-ultima-actualizacion-android-auto-google-no-te-dice-1160917' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/android-auto-coolwalk-2870275.jpg' alt='Esto es lo que incluye la última actualización de Android Auto y que Google no te dice' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/apple/7-hacks-trabajar-casa-iphone-1158655'>7 hacks para trabajar desde casa con el iPhone</a></h4>
     <a href='https://computerhoy.com/reportajes/apple/7-hacks-trabajar-casa-iphone-1158655' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/iphone-ordenador-2878629.jpg' alt='7 hacks para trabajar desde casa con el iPhone' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/llegan-tarjetas-contacto-whatsapp-windows-funcionan-1160893'>Llegan las tarjetas de contacto a WhatsApp en Windows, y así funcionan</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/llegan-tarjetas-contacto-whatsapp-windows-funcionan-1160893' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/whatsapp-2870685.jpg' alt='Llegan las tarjetas de contacto a WhatsApp en Windows, y así funcionan' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/adios-modo-avion-union-europea-permitira-uso-5g-moviles-bordo-aviones-1160889'>Adiós al modo avión: la Unión Europea permitirá el uso de 5G en móviles a bordo de los aviones</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/adios-modo-avion-union-europea-permitira-uso-5g-moviles-bordo-aviones-1160889' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/hombre-usando-telefono-avion-2883473.jpg' alt='Adiós al modo avión: la Unión Europea permitirá el uso de 5G en móviles a bordo de los aviones' />
     </a>
 </div>
 
