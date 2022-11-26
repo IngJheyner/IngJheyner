@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/donde-va-parar-cafeina-extrae-cafe-descafeinado-1160407'>¿A dónde va a parar la cafeína que se extrae del café descafeinado?</a></h4>
+    <a href='https://computerhoy.com/noticias/life/donde-va-parar-cafeina-extrae-cafe-descafeinado-1160407' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/hace-cafeina-extrae-cafe-descafeinado-2882281.jpg' alt='¿A dónde va a parar la cafeína que se extrae del café descafeinado?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/record-nave-espacial-orion-nasa-ha-conseguido-romper-apolo-13-1160929'>El récord que la nave espacial Orion de la NASA ha conseguido romper del Apolo 13</a></h4>
     <a href='https://computerhoy.com/noticias/life/record-nave-espacial-orion-nasa-ha-conseguido-romper-apolo-13-1160929' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/artemis-i-orion-2883509.jpg' alt='El récord que la nave espacial Orion de la NASA ha conseguido romper del Apolo 13' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/cientificos-desvelan-cantidad-perfecta-debes-beber-agua-cada-dia-1160901'>Científicos desvelan la cantidad perfecta que debes beber de agua cada día</a></h4>
     <a href='https://computerhoy.com/noticias/life/cientificos-desvelan-cantidad-perfecta-debes-beber-agua-cada-dia-1160901' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/mujer-bebiendo-agua-2883489.jpg' alt='Científicos desvelan la cantidad perfecta que debes beber de agua cada día' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/industria/estados-unidos-prohibe-importacion-venta-productos-huawei-zte-razones-seguridad-1160899'>Estados Unidos prohíbe la importación y venta de productos de Huawei y ZTE por razones de seguridad</a></h4>
-    <a href='https://computerhoy.com/noticias/industria/estados-unidos-prohibe-importacion-venta-productos-huawei-zte-razones-seguridad-1160899' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/huawei-2883487.jpg' alt='Estados Unidos prohíbe la importación y venta de productos de Huawei y ZTE por razones de seguridad' />
     </a>
 </div>
 
