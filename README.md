@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/streaming/8-muertes-superheroes-espectaculares-han-visto-peliculas-1158817'>Las 8 muertes de superhéroes más espectaculares que se han visto en películas</a></h4>
+    <a href='https://computerhoy.com/reportajes/streaming/8-muertes-superheroes-espectaculares-han-visto-peliculas-1158817' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/8-muertes-superheroes-espectaculares-han-visto-peliculas-2879577.jpg' alt='Las 8 muertes de superhéroes más espectaculares que se han visto en películas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/elon-musk-idea-lanzar-movil-propio-google-apple-hacen-twitter-1160873'>Elon Musk y su idea de lanzar un móvil propio si Google y Apple hacen esto a Twitter</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/elon-musk-idea-lanzar-movil-propio-google-apple-hacen-twitter-1160873' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/elon-musk-2698399.jpg' alt='Elon Musk y su idea de lanzar un móvil propio si Google y Apple hacen esto a Twitter' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/listas/tecnologia/5-mejores-radiadores-consumo-ahorrar-factura-luz-pasar-frio-532461'>Los 5 mejores radiadores de bajo consumo para ahorrar en la factura de la luz sin pasar frío</a></h4>
+    <a href='https://computerhoy.com/listas/tecnologia/5-mejores-radiadores-consumo-ahorrar-factura-luz-pasar-frio-532461' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/perro-envuelto-manta-frio-2883425.jpg' alt='Los 5 mejores radiadores de bajo consumo para ahorrar en la factura de la luz sin pasar frío' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/como-ver-mundial-qatar-2022-android-tv-kodi-iptv-aplicaciones-1160069'>Cómo ver el Mundial de Qatar 2022 en un Android TV con Kodi, IPTV y aplicaciones</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/como-ver-mundial-qatar-2022-android-tv-kodi-iptv-aplicaciones-1160069' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/mundial-qatar-2022-android-tv-2881909.jpg' alt='Cómo ver el Mundial de Qatar 2022 en un Android TV con Kodi, IPTV y aplicaciones' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/listas/life/aspiradora-dyson-ofertas-black-fridau-1157105'>Si buscabas una aspiradora de Dyson estas ofertas de Black Friday son irrepetibles</a></h4>
     <a href='https://computerhoy.com/listas/life/aspiradora-dyson-ofertas-black-fridau-1157105' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/ofertas-dyson-black-friday-2883401.jpg' alt='Si buscabas una aspiradora de Dyson estas ofertas de Black Friday son irrepetibles' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/moviles/mundial-guerra-procesadores-qualcomm-mediatek-2023-1159101'>Para mundial, la guerra de procesadores entre Qualcomm y MediaTek en 2023</a></h4>
-    <a href='https://computerhoy.com/reportajes/moviles/mundial-guerra-procesadores-qualcomm-mediatek-2023-1159101' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/qualcomm-snapdragon-8-gen-2-2870869.jpg' alt='Para mundial, la guerra de procesadores entre Qualcomm y MediaTek en 2023' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/life/tarifa-tur-gas-natural-consiste-nueva-tur-4-1151789'>¿Qué es la tarifa TUR del gas natural y en qué consiste la nueva TUR 4?</a></h4>
-    <a href='https://computerhoy.com/reportajes/life/tarifa-tur-gas-natural-consiste-nueva-tur-4-1151789' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/verticalimage1669395064637-2883029.jpg' alt='¿Qué es la tarifa TUR del gas natural y en qué consiste la nueva TUR 4?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/gaming/kat-vr-walk-c-2-plus-cinta-correr-realidad-virtual-video-1160845'>La cinta de correr para realidad virtual que se transforma en silla (vídeo)</a></h4>
-    <a href='https://computerhoy.com/noticias/gaming/kat-vr-walk-c-2-plus-cinta-correr-realidad-virtual-video-1160845' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/verticalimage1669445541401-2883381.jpg' alt='La cinta de correr para realidad virtual que se transforma en silla (vídeo)' />
     </a>
 </div>
 
