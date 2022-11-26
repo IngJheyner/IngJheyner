@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/industria/estados-unidos-prohibe-importacion-venta-productos-huawei-zte-razones-seguridad-1160899'>Estados Unidos prohíbe la importación y venta de productos de Huawei y ZTE por razones de seguridad</a></h4>
+    <a href='https://computerhoy.com/noticias/industria/estados-unidos-prohibe-importacion-venta-productos-huawei-zte-razones-seguridad-1160899' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/huawei-2883487.jpg' alt='Estados Unidos prohíbe la importación y venta de productos de Huawei y ZTE por razones de seguridad' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/llegan-tarjetas-contacto-whatsapp-windows-funcionan-1160893'>Llegan las tarjetas de contacto a WhatsApp en Windows, y así funcionan</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/llegan-tarjetas-contacto-whatsapp-windows-funcionan-1160893' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/whatsapp-2870685.jpg' alt='Llegan las tarjetas de contacto a WhatsApp en Windows, y así funcionan' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/todas-razones-nunca-debes-utilizar-redes-ilegales-canales-iptv-1160879'>Todas las razones por las que nunca debes utilizar redes ilegales de canales IPTV</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/todas-razones-nunca-debes-utilizar-redes-ilegales-canales-iptv-1160879' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/iptv-2875845.jpg' alt='Todas las razones por las que nunca debes utilizar redes ilegales de canales IPTV' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/streaming/8-muertes-superheroes-espectaculares-han-visto-peliculas-1158817'>Las 8 muertes de superhéroes más espectaculares que se han visto en películas</a></h4>
-    <a href='https://computerhoy.com/reportajes/streaming/8-muertes-superheroes-espectaculares-han-visto-peliculas-1158817' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/8-muertes-superheroes-espectaculares-han-visto-peliculas-2879577.jpg' alt='Las 8 muertes de superhéroes más espectaculares que se han visto en películas' />
     </a>
 </div>
 
