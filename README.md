@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/apple/7-hacks-trabajar-casa-iphone-1158655'>7 hacks para trabajar desde casa con el iPhone</a></h4>
+    <a href='https://computerhoy.com/reportajes/apple/7-hacks-trabajar-casa-iphone-1158655' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/iphone-ordenador-2878629.jpg' alt='7 hacks para trabajar desde casa con el iPhone' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/cientificos-desvelan-cantidad-perfecta-debes-beber-agua-cada-dia-1160901'>Científicos desvelan la cantidad perfecta que debes beber de agua cada día</a></h4>
+    <a href='https://computerhoy.com/noticias/life/cientificos-desvelan-cantidad-perfecta-debes-beber-agua-cada-dia-1160901' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/mujer-bebiendo-agua-2883489.jpg' alt='Científicos desvelan la cantidad perfecta que debes beber de agua cada día' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/industria/estados-unidos-prohibe-importacion-venta-productos-huawei-zte-razones-seguridad-1160899'>Estados Unidos prohíbe la importación y venta de productos de Huawei y ZTE por razones de seguridad</a></h4>
     <a href='https://computerhoy.com/noticias/industria/estados-unidos-prohibe-importacion-venta-productos-huawei-zte-razones-seguridad-1160899' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/huawei-2883487.jpg' alt='Estados Unidos prohíbe la importación y venta de productos de Huawei y ZTE por razones de seguridad' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/adios-modo-avion-union-europea-permitira-uso-5g-moviles-bordo-aviones-1160889'>Adiós al modo avión: la Unión Europea permitirá el uso de 5G en móviles a bordo de los aviones</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/adios-modo-avion-union-europea-permitira-uso-5g-moviles-bordo-aviones-1160889' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/hombre-usando-telefono-avion-2883473.jpg' alt='Adiós al modo avión: la Unión Europea permitirá el uso de 5G en móviles a bordo de los aviones' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/puedes-ver-gratis-partidos-mundial-qatar-2022-resolucion-4k-salon-1160597'>Así puedes ver gratis los partidos del Mundial de Qatar 2022 en resolución 4K desde tu salón</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/puedes-ver-gratis-partidos-mundial-qatar-2022-resolucion-4k-salon-1160597' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/televisor-futbol-tv-4k-2775915.jpg' alt='Así puedes ver gratis los partidos del Mundial de Qatar 2022 en resolución 4K desde tu salón' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/todas-razones-nunca-debes-utilizar-redes-ilegales-canales-iptv-1160879'>Todas las razones por las que nunca debes utilizar redes ilegales de canales IPTV</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/todas-razones-nunca-debes-utilizar-redes-ilegales-canales-iptv-1160879' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/iptv-2875845.jpg' alt='Todas las razones por las que nunca debes utilizar redes ilegales de canales IPTV' />
     </a>
 </div>
 
