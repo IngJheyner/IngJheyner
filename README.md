@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/llegan-tarjetas-contacto-whatsapp-windows-funcionan-1160893'>Llegan las tarjetas de contacto a WhatsApp en Windows, y así funcionan</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/llegan-tarjetas-contacto-whatsapp-windows-funcionan-1160893' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/whatsapp-2870685.jpg' alt='Llegan las tarjetas de contacto a WhatsApp en Windows, y así funcionan' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/adios-modo-avion-union-europea-permitira-uso-5g-moviles-bordo-aviones-1160889'>Adiós al modo avión: la Unión Europea permitirá el uso de 5G en móviles a bordo de los aviones</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/adios-modo-avion-union-europea-permitira-uso-5g-moviles-bordo-aviones-1160889' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/hombre-usando-telefono-avion-2883473.jpg' alt='Adiós al modo avión: la Unión Europea permitirá el uso de 5G en móviles a bordo de los aviones' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/streaming/8-muertes-superheroes-espectaculares-han-visto-peliculas-1158817'>Las 8 muertes de superhéroes más espectaculares que se han visto en películas</a></h4>
     <a href='https://computerhoy.com/reportajes/streaming/8-muertes-superheroes-espectaculares-han-visto-peliculas-1158817' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/8-muertes-superheroes-espectaculares-han-visto-peliculas-2879577.jpg' alt='Las 8 muertes de superhéroes más espectaculares que se han visto en películas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/elon-musk-idea-lanzar-movil-propio-google-apple-hacen-twitter-1160873'>Elon Musk y su idea de lanzar un móvil propio si Google y Apple hacen esto a Twitter</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/elon-musk-idea-lanzar-movil-propio-google-apple-hacen-twitter-1160873' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/elon-musk-2698399.jpg' alt='Elon Musk y su idea de lanzar un móvil propio si Google y Apple hacen esto a Twitter' />
     </a>
 </div>
 
