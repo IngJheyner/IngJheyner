@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/analisis/review-sony-bravia-xr-a80k-1160933'>Análisis del Sony Bravia XR A80K de 55”: el OLED más equilibrado de Sony se renueva con matices</a></h4>
+    <a href='https://computerhoy.com/analisis/review-sony-bravia-xr-a80k-1160933' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/sony-bravia-xr-a80k-analisis-opinion-2883519.jpg' alt='Análisis del Sony Bravia XR A80K de 55”: el OLED más equilibrado de Sony se renueva con matices' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/ilusion-optica-tercer-animal-oculto-1161125'>Desafío rápido: solo el 1% de las personas puede encontrar el tercer animal oculto</a></h4>
+    <a href='https://computerhoy.com/noticias/life/ilusion-optica-tercer-animal-oculto-1161125' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/desafio-rapido-solo-1-personas-puede-encontrar-tercer-animal-oculto-2883849.jpg' alt='Desafío rápido: solo el 1% de las personas puede encontrar el tercer animal oculto' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/intel-fakecatcher-detectar-deepfakes-flujo-sangre-1157419'>Intel descubre un original método para detectar el 96% de los deepfakes</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/intel-fakecatcher-detectar-deepfakes-flujo-sangre-1157419' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/intel-descubre-metodo-detectar-96-deepfakes-tiene-ver-sangre-2875837.jpg' alt='Intel descubre un original método para detectar el 96% de los deepfakes' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/cientificos-ya-trabajan-robots-inspirados-perros-hacerte-compania-1160919'>Científicos ya trabajan en robots inspirados en perros para hacerte compañía</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/cientificos-ya-trabajan-robots-inspirados-perros-hacerte-compania-1160919' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/perro-robot-2883505.jpg' alt='Científicos ya trabajan en robots inspirados en perros para hacerte compañía' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/estos-animales-africa-estan-cerca-extinguirse-ellos-guepardo-1160923'>Estos animales de África están cerca de extinguirse, y uno de ellos es el guepardo</a></h4>
     <a href='https://computerhoy.com/noticias/life/estos-animales-africa-estan-cerca-extinguirse-ellos-guepardo-1160923' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/guepardo-2883507.jpg' alt='Estos animales de África están cerca de extinguirse, y uno de ellos es el guepardo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/todo-necesitas-montar-sistema-ambilight-811941'>Luz y color tras tu televisor: esto es todo lo que necesitas para montar un sistema Ambilight</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/todo-necesitas-montar-sistema-ambilight-811941' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/philips-ambilight-2234009.jpg' alt='Luz y color tras tu televisor: esto es todo lo que necesitas para montar un sistema Ambilight' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/estudiante-15-anos-broma-wikipedia-alan-macmasters-inventor-tostadora-electrica-1160591'>Estudiante de 15 años destapa una broma en la Wikipedia que ha durado 10 años: Alan MacMasters no inventó la tostadora eléctrica</a></h4>
-    <a href='https://computerhoy.com/noticias/life/estudiante-15-anos-broma-wikipedia-alan-macmasters-inventor-tostadora-electrica-1160591' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/estudiante-15-anos-destapa-broma-wikipedia-ha-durado-15-anos-alan-macmasters-no-invento-tostadora-electrica-2883037.jpg' alt='Estudiante de 15 años destapa una broma en la Wikipedia que ha durado 10 años: Alan MacMasters no inventó la tostadora eléctrica' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/donde-va-parar-cafeina-extrae-cafe-descafeinado-1160407'>¿A dónde va a parar la cafeína que se extrae del café descafeinado?</a></h4>
-    <a href='https://computerhoy.com/noticias/life/donde-va-parar-cafeina-extrae-cafe-descafeinado-1160407' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/hace-cafeina-extrae-cafe-descafeinado-2882281.jpg' alt='¿A dónde va a parar la cafeína que se extrae del café descafeinado?' />
     </a>
 </div>
 
