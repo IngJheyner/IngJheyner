@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/carta-codificada-emperador-carlos-v-descifrada-1161263'>Descrifrada una carta codificada del emperador Carlos V, cuyo contenido ha sido un secreto durante 500 años</a></h4>
+    <a href='https://computerhoy.com/noticias/life/carta-codificada-emperador-carlos-v-descifrada-1161263' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/descrifrado-carta-codificada-carlos-v-cuyo-contenido-ha-sido-secreto-durante-500-anos-2884151.jpg' alt='Descrifrada una carta codificada del emperador Carlos V, cuyo contenido ha sido un secreto durante 500 años' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/elon-musk-twitter-record-nuevos-usuarios-minutos-uso-1161261'>Elon Musk asegura que Twitter está batiendo récords de nuevos usuarios y minutos de uso</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/elon-musk-twitter-record-nuevos-usuarios-minutos-uso-1161261' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/ElonMusk_166557134776467.jpg' alt='Elon Musk asegura que Twitter está batiendo récords de nuevos usuarios y minutos de uso' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/mejores-gadgets-mantener-llama-amor-pareja-1160523'>Los mejores gadgets para mantener la llama del amor con tu pareja</a></h4>
     <a href='https://computerhoy.com/noticias/life/mejores-gadgets-mantener-llama-amor-pareja-1160523' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/10/pareja-durmiendo-2117299.jpg' alt='Los mejores gadgets para mantener la llama del amor con tu pareja' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/empresas-chinas-vender-tarjetas-graficas-mineria-criptos-como-nuevas-1161243'>El truco de algunas marcas chinas para vender tarjetas gráficas explotadas en la minería de criptos, como si fuesen nuevas</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/empresas-chinas-vender-tarjetas-graficas-mineria-criptos-como-nuevas-1161243' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/vietnam-ya-venden-tarjetas-graficas-peso-puestos-callejeros-2858023.jpg' alt='El truco de algunas marcas chinas para vender tarjetas gráficas explotadas en la minería de criptos, como si fuesen nuevas' />
     </a>
 </div>
 
