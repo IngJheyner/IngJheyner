@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/windows/6-maneras-arreglar-ordenador-windows-atascado-modo-suspension-hibernacion-1149221'>6 maneras de arreglar un ordenador Windows atascado en modo suspensión o hibernación</a></h4>
+    <a href='https://computerhoy.com/tutoriales/windows/6-maneras-arreglar-ordenador-windows-atascado-modo-suspension-hibernacion-1149221' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/ordenador-hibernacion-2859609.jpg' alt='6 maneras de arreglar un ordenador Windows atascado en modo suspensión o hibernación' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/guia-compra/cafetera-inteligente-1148043'>Guía y consejos para comprar una cafetera inteligente</a></h4>
+    <a href='https://computerhoy.com/guia-compra/cafetera-inteligente-1148043' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/cafetera-inteligente-2857341.jpg' alt='Guía y consejos para comprar una cafetera inteligente' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/bitcoin-cotizara-millon-dolares-2030-cathie-wood-inversora-estrella-wall-street-1161123'>El bitcoin cotizará a un millón de dólares en 2030 según Cathie Wood, la inversora estrella de Wall Street</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/bitcoin-cotizara-millon-dolares-2030-cathie-wood-inversora-estrella-wall-street-1161123' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/bitcoin-cotizara-millon-dolares-2030-cathie-wood-inversora-estrella-wall-street-2883665.jpg' alt='El bitcoin cotizará a un millón de dólares en 2030 según Cathie Wood, la inversora estrella de Wall Street' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/ilusion-optica-tercer-animal-oculto-1161125'>Desafío rápido: solo el 1% de las personas puede encontrar el tercer animal oculto</a></h4>
     <a href='https://computerhoy.com/noticias/life/ilusion-optica-tercer-animal-oculto-1161125' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/desafio-rapido-solo-1-personas-puede-encontrar-tercer-animal-oculto-2883849.jpg' alt='Desafío rápido: solo el 1% de las personas puede encontrar el tercer animal oculto' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/intel-fakecatcher-detectar-deepfakes-flujo-sangre-1157419'>Intel descubre un original método para detectar el 96% de los deepfakes</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/intel-fakecatcher-detectar-deepfakes-flujo-sangre-1157419' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/intel-descubre-metodo-detectar-96-deepfakes-tiene-ver-sangre-2875837.jpg' alt='Intel descubre un original método para detectar el 96% de los deepfakes' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/cientificos-ya-trabajan-robots-inspirados-perros-hacerte-compania-1160919'>Científicos ya trabajan en robots inspirados en perros para hacerte compañía</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/cientificos-ya-trabajan-robots-inspirados-perros-hacerte-compania-1160919' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/perro-robot-2883505.jpg' alt='Científicos ya trabajan en robots inspirados en perros para hacerte compañía' />
     </a>
 </div>
 
