@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/estudiante-15-anos-broma-wikipedia-alan-macmasters-inventor-tostadora-electrica-1160591'>Estudiante de 15 años destapa una broma en la Wikipedia que ha durado 10 años: Alan MacMasters no inventó la tostadora eléctrica</a></h4>
+    <a href='https://computerhoy.com/noticias/life/estudiante-15-anos-broma-wikipedia-alan-macmasters-inventor-tostadora-electrica-1160591' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/estudiante-15-anos-destapa-broma-wikipedia-ha-durado-15-anos-alan-macmasters-no-invento-tostadora-electrica-2883037.jpg' alt='Estudiante de 15 años destapa una broma en la Wikipedia que ha durado 10 años: Alan MacMasters no inventó la tostadora eléctrica' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/donde-va-parar-cafeina-extrae-cafe-descafeinado-1160407'>¿A dónde va a parar la cafeína que se extrae del café descafeinado?</a></h4>
     <a href='https://computerhoy.com/noticias/life/donde-va-parar-cafeina-extrae-cafe-descafeinado-1160407' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/hace-cafeina-extrae-cafe-descafeinado-2882281.jpg' alt='¿A dónde va a parar la cafeína que se extrae del café descafeinado?' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/apple/7-hacks-trabajar-casa-iphone-1158655'>7 hacks para trabajar desde casa con el iPhone</a></h4>
     <a href='https://computerhoy.com/reportajes/apple/7-hacks-trabajar-casa-iphone-1158655' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/iphone-ordenador-2878629.jpg' alt='7 hacks para trabajar desde casa con el iPhone' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/cientificos-desvelan-cantidad-perfecta-debes-beber-agua-cada-dia-1160901'>Científicos desvelan la cantidad perfecta que debes beber de agua cada día</a></h4>
-    <a href='https://computerhoy.com/noticias/life/cientificos-desvelan-cantidad-perfecta-debes-beber-agua-cada-dia-1160901' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/mujer-bebiendo-agua-2883489.jpg' alt='Científicos desvelan la cantidad perfecta que debes beber de agua cada día' />
     </a>
 </div>
 
