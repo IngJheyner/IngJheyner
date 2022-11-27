@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/grainery-nueva-aplicacion-inspirada-instagram-fotografos-profesionales-1161175'>Grainery: una nueva aplicación inspirada en Instagram para fotógrafos profesionales</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/grainery-nueva-aplicacion-inspirada-instagram-fotografos-profesionales-1161175' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/grainery-2883929.jpg' alt='Grainery: una nueva aplicación inspirada en Instagram para fotógrafos profesionales' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tutoriales/windows/6-maneras-arreglar-ordenador-windows-atascado-modo-suspension-hibernacion-1149221'>6 maneras de arreglar un ordenador Windows atascado en modo suspensión o hibernación</a></h4>
     <a href='https://computerhoy.com/tutoriales/windows/6-maneras-arreglar-ordenador-windows-atascado-modo-suspension-hibernacion-1149221' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/ordenador-hibernacion-2859609.jpg' alt='6 maneras de arreglar un ordenador Windows atascado en modo suspensión o hibernación' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/analisis/review-sony-bravia-xr-a80k-1160933'>Análisis del Sony Bravia XR A80K de 55”: el OLED más equilibrado de Sony se renueva con matices</a></h4>
     <a href='https://computerhoy.com/analisis/review-sony-bravia-xr-a80k-1160933' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/sony-bravia-xr-a80k-analisis-opinion-2883519.jpg' alt='Análisis del Sony Bravia XR A80K de 55”: el OLED más equilibrado de Sony se renueva con matices' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/ilusion-optica-tercer-animal-oculto-1161125'>Desafío rápido: solo el 1% de las personas puede encontrar el tercer animal oculto</a></h4>
-    <a href='https://computerhoy.com/noticias/life/ilusion-optica-tercer-animal-oculto-1161125' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/desafio-rapido-solo-1-personas-puede-encontrar-tercer-animal-oculto-2883849.jpg' alt='Desafío rápido: solo el 1% de las personas puede encontrar el tercer animal oculto' />
     </a>
 </div>
 
