@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/cientificos-ya-trabajan-robots-inspirados-perros-hacerte-compania-1160919'>Científicos ya trabajan en robots inspirados en perros para hacerte compañía</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/cientificos-ya-trabajan-robots-inspirados-perros-hacerte-compania-1160919' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/perro-robot-2883505.jpg' alt='Científicos ya trabajan en robots inspirados en perros para hacerte compañía' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/estos-animales-africa-estan-cerca-extinguirse-ellos-guepardo-1160923'>Estos animales de África están cerca de extinguirse, y uno de ellos es el guepardo</a></h4>
     <a href='https://computerhoy.com/noticias/life/estos-animales-africa-estan-cerca-extinguirse-ellos-guepardo-1160923' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/guepardo-2883507.jpg' alt='Estos animales de África están cerca de extinguirse, y uno de ellos es el guepardo' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/donde-va-parar-cafeina-extrae-cafe-descafeinado-1160407'>¿A dónde va a parar la cafeína que se extrae del café descafeinado?</a></h4>
     <a href='https://computerhoy.com/noticias/life/donde-va-parar-cafeina-extrae-cafe-descafeinado-1160407' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/hace-cafeina-extrae-cafe-descafeinado-2882281.jpg' alt='¿A dónde va a parar la cafeína que se extrae del café descafeinado?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/record-nave-espacial-orion-nasa-ha-conseguido-romper-apolo-13-1160929'>El récord que la nave espacial Orion de la NASA ha conseguido romper del Apolo 13</a></h4>
-    <a href='https://computerhoy.com/noticias/life/record-nave-espacial-orion-nasa-ha-conseguido-romper-apolo-13-1160929' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/artemis-i-orion-2883509.jpg' alt='El récord que la nave espacial Orion de la NASA ha conseguido romper del Apolo 13' />
     </a>
 </div>
 
