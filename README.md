@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/debes-desactivar-opcion-dfs-router-no-llevarte-cuantiosa-multa-1161191'>Debes desactivar esta opción DFS de tu router para no llevarte una cuantiosa multa</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/debes-desactivar-opcion-dfs-router-no-llevarte-cuantiosa-multa-1161191' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/wifi-2839837.jpg' alt='Debes desactivar esta opción DFS de tu router para no llevarte una cuantiosa multa' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/respuesta-steve-jobs-dio-fan-cuando-pidio-autografo-1161187'>La respuesta que Steve Jobs dio a un fan cuando le pidió un autógrafo</a></h4>
     <a href='https://computerhoy.com/noticias/life/respuesta-steve-jobs-dio-fan-cuando-pidio-autografo-1161187' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/03/steve-jobs-2280383.jpg' alt='La respuesta que Steve Jobs dio a un fan cuando le pidió un autógrafo' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-crear-encuestas-whatsapp-usos-divertidos-1159881'>Cómo crear encuestas desde WhatsApp y usos divertidos</a></h4>
     <a href='https://computerhoy.com/tutoriales/tecnologia/como-crear-encuestas-whatsapp-usos-divertidos-1159881' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/encuestas-whatsapp-2881241.jpg' alt='Cómo crear encuestas desde WhatsApp y usos divertidos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/grainery-nueva-aplicacion-inspirada-instagram-fotografos-profesionales-1161175'>Grainery: una nueva aplicación inspirada en Instagram para fotógrafos profesionales</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/grainery-nueva-aplicacion-inspirada-instagram-fotografos-profesionales-1161175' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/grainery-2883929.jpg' alt='Grainery: una nueva aplicación inspirada en Instagram para fotógrafos profesionales' />
     </a>
 </div>
 
