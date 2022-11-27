@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/bitcoin-cotizara-millon-dolares-2030-cathie-wood-inversora-estrella-wall-street-1161123'>El bitcoin cotizará a un millón de dólares en 2030 según Cathie Wood, la inversora estrella de Wall Street</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/bitcoin-cotizara-millon-dolares-2030-cathie-wood-inversora-estrella-wall-street-1161123' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/bitcoin-cotizara-millon-dolares-2030-cathie-wood-inversora-estrella-wall-street-2883665.jpg' alt='El bitcoin cotizará a un millón de dólares en 2030 según Cathie Wood, la inversora estrella de Wall Street' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/analisis/review-sony-bravia-xr-a80k-1160933'>Análisis del Sony Bravia XR A80K de 55”: el OLED más equilibrado de Sony se renueva con matices</a></h4>
     <a href='https://computerhoy.com/analisis/review-sony-bravia-xr-a80k-1160933' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/sony-bravia-xr-a80k-analisis-opinion-2883519.jpg' alt='Análisis del Sony Bravia XR A80K de 55”: el OLED más equilibrado de Sony se renueva con matices' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/cientificos-ya-trabajan-robots-inspirados-perros-hacerte-compania-1160919'>Científicos ya trabajan en robots inspirados en perros para hacerte compañía</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/cientificos-ya-trabajan-robots-inspirados-perros-hacerte-compania-1160919' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/perro-robot-2883505.jpg' alt='Científicos ya trabajan en robots inspirados en perros para hacerte compañía' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/estos-animales-africa-estan-cerca-extinguirse-ellos-guepardo-1160923'>Estos animales de África están cerca de extinguirse, y uno de ellos es el guepardo</a></h4>
-    <a href='https://computerhoy.com/noticias/life/estos-animales-africa-estan-cerca-extinguirse-ellos-guepardo-1160923' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/guepardo-2883507.jpg' alt='Estos animales de África están cerca de extinguirse, y uno de ellos es el guepardo' />
     </a>
 </div>
 
