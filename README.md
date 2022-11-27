@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-snapdragon-8-gen-1-1061521'>Estos son los mejores móviles con Snapdragon 8 Gen 1, el procesador más potente de Qualcomm</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-snapdragon-8-gen-1-1061521' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/oneplus-10-pro-analisis-opinion-2680703.jpg' alt='Estos son los mejores móviles con Snapdragon 8 Gen 1, el procesador más potente de Qualcomm' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/mejores-gadgets-mantener-llama-amor-pareja-1160523'>Los mejores gadgets para mantener la llama del amor con tu pareja</a></h4>
+    <a href='https://computerhoy.com/noticias/life/mejores-gadgets-mantener-llama-amor-pareja-1160523' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/10/pareja-durmiendo-2117299.jpg' alt='Los mejores gadgets para mantener la llama del amor con tu pareja' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/empresas-chinas-vender-tarjetas-graficas-mineria-criptos-como-nuevas-1161243'>El truco de algunas marcas chinas para vender tarjetas gráficas explotadas en la minería de criptos, como si fuesen nuevas</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/empresas-chinas-vender-tarjetas-graficas-mineria-criptos-como-nuevas-1161243' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/vietnam-ya-venden-tarjetas-graficas-peso-puestos-callejeros-2858023.jpg' alt='El truco de algunas marcas chinas para vender tarjetas gráficas explotadas en la minería de criptos, como si fuesen nuevas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/xiaomi-inventa-bufanda-definitiva-calienta-forma-automatica-temperatura-exterior-1161193'>Xiaomi inventa la bufanda definitiva: se calienta de forma automática según la temperatura exterior</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/xiaomi-inventa-bufanda-definitiva-calienta-forma-automatica-temperatura-exterior-1161193' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/xiaomi-inventa-bufanda-definitiva-calienta-forma-automatica-temperatura-exterior-2883987.jpg' alt='Xiaomi inventa la bufanda definitiva: se calienta de forma automática según la temperatura exterior' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/debes-desactivar-opcion-dfs-router-no-llevarte-cuantiosa-multa-1161191'>Debes desactivar esta opción DFS de tu router para no llevarte una cuantiosa multa</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/debes-desactivar-opcion-dfs-router-no-llevarte-cuantiosa-multa-1161191' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/wifi-2839837.jpg' alt='Debes desactivar esta opción DFS de tu router para no llevarte una cuantiosa multa' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/respuesta-steve-jobs-dio-fan-cuando-pidio-autografo-1161187'>La respuesta que Steve Jobs dio a un fan cuando le pidió un autógrafo</a></h4>
-    <a href='https://computerhoy.com/noticias/life/respuesta-steve-jobs-dio-fan-cuando-pidio-autografo-1161187' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/03/steve-jobs-2280383.jpg' alt='La respuesta que Steve Jobs dio a un fan cuando le pidió un autógrafo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/streaming/quien-asesino-6-peliculas-detectives-todos-sospechosos-mismo-lugar-1158073'>¿Quién es el asesino? 6 películas de detectives con todos los sospechosos en un mismo lugar</a></h4>
-    <a href='https://computerhoy.com/reportajes/streaming/quien-asesino-6-peliculas-detectives-todos-sospechosos-mismo-lugar-1158073' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/punales-espalda-2877269.jpg' alt='¿Quién es el asesino? 6 películas de detectives con todos los sospechosos en un mismo lugar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/captura-espectacular-momento-dos-galaxias-fusionan-creando-anillo-galactico-1161181'>Se captura el espectacular momento en el que dos galaxias se fusionan creando un anillo galáctico</a></h4>
-    <a href='https://computerhoy.com/noticias/life/captura-espectacular-momento-dos-galaxias-fusionan-creando-anillo-galactico-1161181' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/captura-espectacular-momento-dos-galaxias-fusionan-creando-anillo-galactico-2883947.jpg' alt='Se captura el espectacular momento en el que dos galaxias se fusionan creando un anillo galáctico' />
     </a>
 </div>
 
