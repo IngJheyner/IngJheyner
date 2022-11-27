@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/xiaomi-inventa-bufanda-definitiva-calienta-forma-automatica-temperatura-exterior-1161193'>Xiaomi inventa la bufanda definitiva: se calienta de forma automática según la temperatura exterior</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/xiaomi-inventa-bufanda-definitiva-calienta-forma-automatica-temperatura-exterior-1161193' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/xiaomi-inventa-bufanda-definitiva-calienta-forma-automatica-temperatura-exterior-2883987.jpg' alt='Xiaomi inventa la bufanda definitiva: se calienta de forma automática según la temperatura exterior' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/debes-desactivar-opcion-dfs-router-no-llevarte-cuantiosa-multa-1161191'>Debes desactivar esta opción DFS de tu router para no llevarte una cuantiosa multa</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/debes-desactivar-opcion-dfs-router-no-llevarte-cuantiosa-multa-1161191' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/wifi-2839837.jpg' alt='Debes desactivar esta opción DFS de tu router para no llevarte una cuantiosa multa' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/captura-espectacular-momento-dos-galaxias-fusionan-creando-anillo-galactico-1161181'>Se captura el espectacular momento en el que dos galaxias se fusionan creando un anillo galáctico</a></h4>
     <a href='https://computerhoy.com/noticias/life/captura-espectacular-momento-dos-galaxias-fusionan-creando-anillo-galactico-1161181' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/captura-espectacular-momento-dos-galaxias-fusionan-creando-anillo-galactico-2883947.jpg' alt='Se captura el espectacular momento en el que dos galaxias se fusionan creando un anillo galáctico' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-crear-encuestas-whatsapp-usos-divertidos-1159881'>Cómo crear encuestas desde WhatsApp y usos divertidos</a></h4>
-    <a href='https://computerhoy.com/tutoriales/tecnologia/como-crear-encuestas-whatsapp-usos-divertidos-1159881' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/encuestas-whatsapp-2881241.jpg' alt='Cómo crear encuestas desde WhatsApp y usos divertidos' />
     </a>
 </div>
 
