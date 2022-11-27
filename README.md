@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/gaming/ya-no-hay-nada-sagrado-icono-playstation-podria-salir-tambien-pc-1161251'>Ya no hay nada sagrado: un icono de PlayStation podría salir también en PC</a></h4>
+    <a href='https://computerhoy.com/noticias/gaming/ya-no-hay-nada-sagrado-icono-playstation-podria-salir-tambien-pc-1161251' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/gran-turismo-7-2655803.jpg' alt='Ya no hay nada sagrado: un icono de PlayStation podría salir también en PC' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-snapdragon-8-gen-1-1061521'>Estos son los mejores móviles con Snapdragon 8 Gen 1, el procesador más potente de Qualcomm</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-snapdragon-8-gen-1-1061521' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/oneplus-10-pro-analisis-opinion-2680703.jpg' alt='Estos son los mejores móviles con Snapdragon 8 Gen 1, el procesador más potente de Qualcomm' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/xiaomi-inventa-bufanda-definitiva-calienta-forma-automatica-temperatura-exterior-1161193'>Xiaomi inventa la bufanda definitiva: se calienta de forma automática según la temperatura exterior</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/xiaomi-inventa-bufanda-definitiva-calienta-forma-automatica-temperatura-exterior-1161193' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/xiaomi-inventa-bufanda-definitiva-calienta-forma-automatica-temperatura-exterior-2883987.jpg' alt='Xiaomi inventa la bufanda definitiva: se calienta de forma automática según la temperatura exterior' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/debes-desactivar-opcion-dfs-router-no-llevarte-cuantiosa-multa-1161191'>Debes desactivar esta opción DFS de tu router para no llevarte una cuantiosa multa</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/debes-desactivar-opcion-dfs-router-no-llevarte-cuantiosa-multa-1161191' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/wifi-2839837.jpg' alt='Debes desactivar esta opción DFS de tu router para no llevarte una cuantiosa multa' />
     </a>
 </div>
 
