@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/calzadas-romanas-lugares-prosperos-europa-1160615'>2.000 años después las calzadas romanas siguen conduciendo a los lugares más prósperos de Europa</a></h4>
+    <a href='https://computerhoy.com/noticias/life/calzadas-romanas-lugares-prosperos-europa-1160615' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/2000-anos-despues-calzadas-romanas-siguen-conduciendo-lugares-prosperos-europa-2883109.jpg' alt='2.000 años después las calzadas romanas siguen conduciendo a los lugares más prósperos de Europa' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/carta-codificada-emperador-carlos-v-descifrada-1161263'>Descrifrada una carta codificada del emperador Carlos V, cuyo contenido ha sido un secreto durante 500 años</a></h4>
     <a href='https://computerhoy.com/noticias/life/carta-codificada-emperador-carlos-v-descifrada-1161263' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/descrifrado-carta-codificada-carlos-v-cuyo-contenido-ha-sido-secreto-durante-500-anos-2884151.jpg' alt='Descrifrada una carta codificada del emperador Carlos V, cuyo contenido ha sido un secreto durante 500 años' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-snapdragon-8-gen-1-1061521'>Estos son los mejores móviles con Snapdragon 8 Gen 1, el procesador más potente de Qualcomm</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-snapdragon-8-gen-1-1061521' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/oneplus-10-pro-analisis-opinion-2680703.jpg' alt='Estos son los mejores móviles con Snapdragon 8 Gen 1, el procesador más potente de Qualcomm' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/mejores-gadgets-mantener-llama-amor-pareja-1160523'>Los mejores gadgets para mantener la llama del amor con tu pareja</a></h4>
-    <a href='https://computerhoy.com/noticias/life/mejores-gadgets-mantener-llama-amor-pareja-1160523' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/10/pareja-durmiendo-2117299.jpg' alt='Los mejores gadgets para mantener la llama del amor con tu pareja' />
     </a>
 </div>
 
