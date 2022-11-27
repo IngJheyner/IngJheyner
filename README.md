@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/streaming/quien-asesino-6-peliculas-detectives-todos-sospechosos-mismo-lugar-1158073'>¿Quién es el asesino? 6 películas de detectives con todos los sospechosos en un mismo lugar</a></h4>
+    <a href='https://computerhoy.com/reportajes/streaming/quien-asesino-6-peliculas-detectives-todos-sospechosos-mismo-lugar-1158073' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/punales-espalda-2877269.jpg' alt='¿Quién es el asesino? 6 películas de detectives con todos los sospechosos en un mismo lugar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/captura-espectacular-momento-dos-galaxias-fusionan-creando-anillo-galactico-1161181'>Se captura el espectacular momento en el que dos galaxias se fusionan creando un anillo galáctico</a></h4>
+    <a href='https://computerhoy.com/noticias/life/captura-espectacular-momento-dos-galaxias-fusionan-creando-anillo-galactico-1161181' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/captura-espectacular-momento-dos-galaxias-fusionan-creando-anillo-galactico-2883947.jpg' alt='Se captura el espectacular momento en el que dos galaxias se fusionan creando un anillo galáctico' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-crear-encuestas-whatsapp-usos-divertidos-1159881'>Cómo crear encuestas desde WhatsApp y usos divertidos</a></h4>
+    <a href='https://computerhoy.com/tutoriales/tecnologia/como-crear-encuestas-whatsapp-usos-divertidos-1159881' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/encuestas-whatsapp-2881241.jpg' alt='Cómo crear encuestas desde WhatsApp y usos divertidos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/grainery-nueva-aplicacion-inspirada-instagram-fotografos-profesionales-1161175'>Grainery: una nueva aplicación inspirada en Instagram para fotógrafos profesionales</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/grainery-nueva-aplicacion-inspirada-instagram-fotografos-profesionales-1161175' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/grainery-2883929.jpg' alt='Grainery: una nueva aplicación inspirada en Instagram para fotógrafos profesionales' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/tutoriales/windows/6-maneras-arreglar-ordenador-windows-atascado-modo-suspension-hibernacion-1149221'>6 maneras de arreglar un ordenador Windows atascado en modo suspensión o hibernación</a></h4>
     <a href='https://computerhoy.com/tutoriales/windows/6-maneras-arreglar-ordenador-windows-atascado-modo-suspension-hibernacion-1149221' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/ordenador-hibernacion-2859609.jpg' alt='6 maneras de arreglar un ordenador Windows atascado en modo suspensión o hibernación' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/guia-compra/cafetera-inteligente-1148043'>Guía y consejos para comprar una cafetera inteligente</a></h4>
-    <a href='https://computerhoy.com/guia-compra/cafetera-inteligente-1148043' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/cafetera-inteligente-2857341.jpg' alt='Guía y consejos para comprar una cafetera inteligente' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/bitcoin-cotizara-millon-dolares-2030-cathie-wood-inversora-estrella-wall-street-1161123'>El bitcoin cotizará a un millón de dólares en 2030 según Cathie Wood, la inversora estrella de Wall Street</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/bitcoin-cotizara-millon-dolares-2030-cathie-wood-inversora-estrella-wall-street-1161123' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/bitcoin-cotizara-millon-dolares-2030-cathie-wood-inversora-estrella-wall-street-2883665.jpg' alt='El bitcoin cotizará a un millón de dólares en 2030 según Cathie Wood, la inversora estrella de Wall Street' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/review-sony-bravia-xr-a80k-1160933'>Análisis del Sony Bravia XR A80K de 55”: el OLED más equilibrado de Sony se renueva con matices</a></h4>
-    <a href='https://computerhoy.com/analisis/review-sony-bravia-xr-a80k-1160933' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/sony-bravia-xr-a80k-analisis-opinion-2883519.jpg' alt='Análisis del Sony Bravia XR A80K de 55”: el OLED más equilibrado de Sony se renueva con matices' />
     </a>
 </div>
 
