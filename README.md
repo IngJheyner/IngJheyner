@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/elon-musk-twitter-record-nuevos-usuarios-minutos-uso-1161261'>Elon Musk asegura que Twitter está batiendo récords de nuevos usuarios y minutos de uso</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/elon-musk-twitter-record-nuevos-usuarios-minutos-uso-1161261' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/ElonMusk_166557134776467.jpg' alt='Elon Musk asegura que Twitter está batiendo récords de nuevos usuarios y minutos de uso' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/gaming/ya-no-hay-nada-sagrado-icono-playstation-podria-salir-tambien-pc-1161251'>Ya no hay nada sagrado: un icono de PlayStation podría salir también en PC</a></h4>
     <a href='https://computerhoy.com/noticias/gaming/ya-no-hay-nada-sagrado-icono-playstation-podria-salir-tambien-pc-1161251' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/gran-turismo-7-2655803.jpg' alt='Ya no hay nada sagrado: un icono de PlayStation podría salir también en PC' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/empresas-chinas-vender-tarjetas-graficas-mineria-criptos-como-nuevas-1161243'>El truco de algunas marcas chinas para vender tarjetas gráficas explotadas en la minería de criptos, como si fuesen nuevas</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/empresas-chinas-vender-tarjetas-graficas-mineria-criptos-como-nuevas-1161243' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/vietnam-ya-venden-tarjetas-graficas-peso-puestos-callejeros-2858023.jpg' alt='El truco de algunas marcas chinas para vender tarjetas gráficas explotadas en la minería de criptos, como si fuesen nuevas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/xiaomi-inventa-bufanda-definitiva-calienta-forma-automatica-temperatura-exterior-1161193'>Xiaomi inventa la bufanda definitiva: se calienta de forma automática según la temperatura exterior</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/xiaomi-inventa-bufanda-definitiva-calienta-forma-automatica-temperatura-exterior-1161193' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/xiaomi-inventa-bufanda-definitiva-calienta-forma-automatica-temperatura-exterior-2883987.jpg' alt='Xiaomi inventa la bufanda definitiva: se calienta de forma automática según la temperatura exterior' />
     </a>
 </div>
 
