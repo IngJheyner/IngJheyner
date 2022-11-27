@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/estos-animales-africa-estan-cerca-extinguirse-ellos-guepardo-1160923'>Estos animales de África están cerca de extinguirse, y uno de ellos es el guepardo</a></h4>
+    <a href='https://computerhoy.com/noticias/life/estos-animales-africa-estan-cerca-extinguirse-ellos-guepardo-1160923' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/guepardo-2883507.jpg' alt='Estos animales de África están cerca de extinguirse, y uno de ellos es el guepardo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/todo-necesitas-montar-sistema-ambilight-811941'>Luz y color tras tu televisor: esto es todo lo que necesitas para montar un sistema Ambilight</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/todo-necesitas-montar-sistema-ambilight-811941' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/philips-ambilight-2234009.jpg' alt='Luz y color tras tu televisor: esto es todo lo que necesitas para montar un sistema Ambilight' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/estudiante-15-anos-broma-wikipedia-alan-macmasters-inventor-tostadora-electrica-1160591'>Estudiante de 15 años destapa una broma en la Wikipedia que ha durado 10 años: Alan MacMasters no inventó la tostadora eléctrica</a></h4>
     <a href='https://computerhoy.com/noticias/life/estudiante-15-anos-broma-wikipedia-alan-macmasters-inventor-tostadora-electrica-1160591' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/estudiante-15-anos-destapa-broma-wikipedia-ha-durado-15-anos-alan-macmasters-no-invento-tostadora-electrica-2883037.jpg' alt='Estudiante de 15 años destapa una broma en la Wikipedia que ha durado 10 años: Alan MacMasters no inventó la tostadora eléctrica' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/record-nave-espacial-orion-nasa-ha-conseguido-romper-apolo-13-1160929'>El récord que la nave espacial Orion de la NASA ha conseguido romper del Apolo 13</a></h4>
     <a href='https://computerhoy.com/noticias/life/record-nave-espacial-orion-nasa-ha-conseguido-romper-apolo-13-1160929' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/artemis-i-orion-2883509.jpg' alt='El récord que la nave espacial Orion de la NASA ha conseguido romper del Apolo 13' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/incluye-ultima-actualizacion-android-auto-google-no-te-dice-1160917'>Esto es lo que incluye la última actualización de Android Auto y que Google no te dice</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/incluye-ultima-actualizacion-android-auto-google-no-te-dice-1160917' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/android-auto-coolwalk-2870275.jpg' alt='Esto es lo que incluye la última actualización de Android Auto y que Google no te dice' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/apple/7-hacks-trabajar-casa-iphone-1158655'>7 hacks para trabajar desde casa con el iPhone</a></h4>
-    <a href='https://computerhoy.com/reportajes/apple/7-hacks-trabajar-casa-iphone-1158655' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/iphone-ordenador-2878629.jpg' alt='7 hacks para trabajar desde casa con el iPhone' />
     </a>
 </div>
 
