@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/respuesta-steve-jobs-dio-fan-cuando-pidio-autografo-1161187'>La respuesta que Steve Jobs dio a un fan cuando le pidió un autógrafo</a></h4>
+    <a href='https://computerhoy.com/noticias/life/respuesta-steve-jobs-dio-fan-cuando-pidio-autografo-1161187' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/03/steve-jobs-2280383.jpg' alt='La respuesta que Steve Jobs dio a un fan cuando le pidió un autógrafo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/streaming/quien-asesino-6-peliculas-detectives-todos-sospechosos-mismo-lugar-1158073'>¿Quién es el asesino? 6 películas de detectives con todos los sospechosos en un mismo lugar</a></h4>
     <a href='https://computerhoy.com/reportajes/streaming/quien-asesino-6-peliculas-detectives-todos-sospechosos-mismo-lugar-1158073' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/punales-espalda-2877269.jpg' alt='¿Quién es el asesino? 6 películas de detectives con todos los sospechosos en un mismo lugar' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/grainery-nueva-aplicacion-inspirada-instagram-fotografos-profesionales-1161175'>Grainery: una nueva aplicación inspirada en Instagram para fotógrafos profesionales</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/grainery-nueva-aplicacion-inspirada-instagram-fotografos-profesionales-1161175' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/grainery-2883929.jpg' alt='Grainery: una nueva aplicación inspirada en Instagram para fotógrafos profesionales' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/windows/6-maneras-arreglar-ordenador-windows-atascado-modo-suspension-hibernacion-1149221'>6 maneras de arreglar un ordenador Windows atascado en modo suspensión o hibernación</a></h4>
-    <a href='https://computerhoy.com/tutoriales/windows/6-maneras-arreglar-ordenador-windows-atascado-modo-suspension-hibernacion-1149221' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/ordenador-hibernacion-2859609.jpg' alt='6 maneras de arreglar un ordenador Windows atascado en modo suspensión o hibernación' />
     </a>
 </div>
 
