@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/kodi-principiantes-expertos-instalacion-mejores-addons-canales-iptv-1160059'>Kodi para principiantes y expertos: instalación, mejores addons y canales IPTV</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/kodi-principiantes-expertos-instalacion-mejores-addons-canales-iptv-1160059' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/kodi-2881805.jpg' alt='Kodi para principiantes y expertos: instalación, mejores addons y canales IPTV' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/guia-compra/arbol-navidad-1154945'>Cómo elegir el mejor árbol de Navidad</a></h4>
     <a href='https://computerhoy.com/guia-compra/arbol-navidad-1154945' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/arbol-navidad-2870281.jpg' alt='Cómo elegir el mejor árbol de Navidad' />
@@ -58,9 +66,9 @@
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/37-noticias-tecnologia-comenzar-manana-informado-ultimo-1161445'>37 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/37-noticias-tecnologia-comenzar-manana-informado-ultimo-1161445'>38 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/37-noticias-tecnologia-comenzar-manana-informado-ultimo-1161445' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/noticias-tecnologias-2884347.jpg' alt='37 noticias de tecnología para comenzar la mañana informado de lo último' />
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/noticias-tecnologias-2884347.jpg' alt='38 noticias de tecnología para comenzar la mañana informado de lo último' />
     </a>
 </div>
 
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/valla-anti-inundaciones-riadas-video-1161435'>La valla anti inundaciones y riadas que puede salvar tu casa del desastre (vídeo)</a></h4>
     <a href='https://computerhoy.com/noticias/life/valla-anti-inundaciones-riadas-video-1161435' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/verticalimage1669589517328-2884157.jpg' alt='La valla anti inundaciones y riadas que puede salvar tu casa del desastre (vídeo)' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/calzadas-romanas-lugares-prosperos-europa-1160615'>2.000 años después las calzadas romanas siguen conduciendo a los lugares más prósperos de Europa</a></h4>
-    <a href='https://computerhoy.com/noticias/life/calzadas-romanas-lugares-prosperos-europa-1160615' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/2000-anos-despues-calzadas-romanas-siguen-conduciendo-lugares-prosperos-europa-2883109.jpg' alt='2.000 años después las calzadas romanas siguen conduciendo a los lugares más prósperos de Europa' />
     </a>
 </div>
 
