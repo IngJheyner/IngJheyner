@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/37-noticias-tecnologia-comenzar-manana-informado-ultimo-1161445'>37 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/37-noticias-tecnologia-comenzar-manana-informado-ultimo-1161445' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/noticias-tecnologias-2884347.jpg' alt='37 noticias de tecnología para comenzar la mañana informado de lo último' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/listas/tecnologia/cyber-monday-mejores-ofertas-ultima-hora-1161255'>Cyber Monday 2022: esta es tu última oportunidad para conseguir estos chollos</a></h4>
+    <a href='https://computerhoy.com/listas/tecnologia/cyber-monday-mejores-ofertas-ultima-hora-1161255' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/portada-ofertas-cyber-monday-2884145.jpg' alt='Cyber Monday 2022: esta es tu última oportunidad para conseguir estos chollos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/valla-anti-inundaciones-riadas-video-1161435'>La valla anti inundaciones y riadas que puede salvar tu casa del desastre (vídeo)</a></h4>
     <a href='https://computerhoy.com/noticias/life/valla-anti-inundaciones-riadas-video-1161435' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/verticalimage1669589517328-2884157.jpg' alt='La valla anti inundaciones y riadas que puede salvar tu casa del desastre (vídeo)' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/carta-codificada-emperador-carlos-v-descifrada-1161263'>Descrifrada una carta codificada del emperador Carlos V, cuyo contenido ha sido un secreto durante 500 años</a></h4>
     <a href='https://computerhoy.com/noticias/life/carta-codificada-emperador-carlos-v-descifrada-1161263' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/descrifrado-carta-codificada-carlos-v-cuyo-contenido-ha-sido-secreto-durante-500-anos-2884151.jpg' alt='Descrifrada una carta codificada del emperador Carlos V, cuyo contenido ha sido un secreto durante 500 años' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/elon-musk-twitter-record-nuevos-usuarios-minutos-uso-1161261'>Elon Musk asegura que Twitter está batiendo récords de nuevos usuarios y minutos de uso</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/elon-musk-twitter-record-nuevos-usuarios-minutos-uso-1161261' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/ElonMusk_166557134776467.jpg' alt='Elon Musk asegura que Twitter está batiendo récords de nuevos usuarios y minutos de uso' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/gaming/ya-no-hay-nada-sagrado-icono-playstation-podria-salir-tambien-pc-1161251'>Ya no hay nada sagrado: un icono de PlayStation podría salir también en PC</a></h4>
-    <a href='https://computerhoy.com/noticias/gaming/ya-no-hay-nada-sagrado-icono-playstation-podria-salir-tambien-pc-1161251' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/gran-turismo-7-2655803.jpg' alt='Ya no hay nada sagrado: un icono de PlayStation podría salir también en PC' />
     </a>
 </div>
 
