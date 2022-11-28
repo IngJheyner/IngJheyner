@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/averigua-web-numero-whatsapp-correo-electronico-ha-sido-filtrado-hackers-1161551'>Averigua con esta web si tu número de WhatsApp o correo electrónico ha sido filtrado por los hackers</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/averigua-web-numero-whatsapp-correo-electronico-ha-sido-filtrado-hackers-1161551' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/como-saber-numero-whatsapp-ha-sido-filtrado-hackers-2884633.jpg' alt='Averigua con esta web si tu número de WhatsApp o correo electrónico ha sido filtrado por los hackers' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/ya-tenemos-fecha-salida-nuevos-xiaomi-13-todo-sabemos-ahora-1161529'>Ya tenemos fecha de salida de los nuevos Xiaomi 13: esto es todo lo que sabemos por ahora</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/ya-tenemos-fecha-salida-nuevos-xiaomi-13-todo-sabemos-ahora-1161529' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/ya-tenemos-fecha-salida-serie-13-xiaomi-todo-sabemos-ahora-2884545.jpg' alt='Ya tenemos fecha de salida de los nuevos Xiaomi 13: esto es todo lo que sabemos por ahora' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/listas/tecnologia/ultimos-chollos-20-euros-black-friday-cyber-monday-1161463'>Últimos chollos por 20€ o menos del Black Friday y Cyber Monday</a></h4>
     <a href='https://computerhoy.com/listas/tecnologia/ultimos-chollos-20-euros-black-friday-cyber-monday-1161463' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/chollos-cyber-monday-2884401.jpg' alt='Últimos chollos por 20€ o menos del Black Friday y Cyber Monday' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/puedes-jugar-videojuego-programo-elon-musk-12-anos-1161469'>Así es, y puedes jugar, el videojuego que programó Elon Musk con 12 años</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/puedes-jugar-videojuego-programo-elon-musk-12-anos-1161469' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/elon-musk-twitter-2731787.jpg' alt='Así es, y puedes jugar, el videojuego que programó Elon Musk con 12 años' />
     </a>
 </div>
 
