@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/listas/tecnologia/ultimos-chollos-20-euros-black-friday-cyber-monday-1161463'>Últimos chollos por 20€ o menos del Black Friday y Cyber Monday</a></h4>
+    <a href='https://computerhoy.com/listas/tecnologia/ultimos-chollos-20-euros-black-friday-cyber-monday-1161463' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/chollos-cyber-monday-2884401.jpg' alt='Últimos chollos por 20€ o menos del Black Friday y Cyber Monday' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/puedes-jugar-videojuego-programo-elon-musk-12-anos-1161469'>Así es, y puedes jugar, el videojuego que programó Elon Musk con 12 años</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/puedes-jugar-videojuego-programo-elon-musk-12-anos-1161469' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/elon-musk-twitter-2731787.jpg' alt='Así es, y puedes jugar, el videojuego que programó Elon Musk con 12 años' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/desafio-rapido-autoestereograma--numero-escondido-1161437'>Desafío rápido: esta imagen esconde un número y tienes 10 segundos para encontrarlo</a></h4>
+    <a href='https://computerhoy.com/noticias/life/desafio-rapido-autoestereograma--numero-escondido-1161437' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/desafio-rapido-imagen-esconde-numero-tienes-10-segundos-encontrarlo-2884329.jpg' alt='Desafío rápido: esta imagen esconde un número y tienes 10 segundos para encontrarlo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/kodi-principiantes-expertos-instalacion-mejores-addons-canales-iptv-1160059'>Kodi para principiantes y expertos: instalación, mejores addons y canales IPTV</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/kodi-principiantes-expertos-instalacion-mejores-addons-canales-iptv-1160059' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/kodi-2881805.jpg' alt='Kodi para principiantes y expertos: instalación, mejores addons y canales IPTV' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/guia-compra/arbol-navidad-1154945'>Cómo elegir el mejor árbol de Navidad</a></h4>
     <a href='https://computerhoy.com/guia-compra/arbol-navidad-1154945' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/arbol-navidad-2870281.jpg' alt='Cómo elegir el mejor árbol de Navidad' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/37-noticias-tecnologia-comenzar-manana-informado-ultimo-1161445'>38 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/37-noticias-tecnologia-comenzar-manana-informado-ultimo-1161445' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/noticias-tecnologias-2884347.jpg' alt='38 noticias de tecnología para comenzar la mañana informado de lo último' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/listas/tecnologia/cyber-monday-mejores-ofertas-ultima-hora-1161255'>Cyber Monday 2022: esta es tu última oportunidad para conseguir estos chollos</a></h4>
-    <a href='https://computerhoy.com/listas/tecnologia/cyber-monday-mejores-ofertas-ultima-hora-1161255' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/portada-ofertas-cyber-monday-2884145.jpg' alt='Cyber Monday 2022: esta es tu última oportunidad para conseguir estos chollos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/valla-anti-inundaciones-riadas-video-1161435'>La valla anti inundaciones y riadas que puede salvar tu casa del desastre (vídeo)</a></h4>
-    <a href='https://computerhoy.com/noticias/life/valla-anti-inundaciones-riadas-video-1161435' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/verticalimage1669589517328-2884157.jpg' alt='La valla anti inundaciones y riadas que puede salvar tu casa del desastre (vídeo)' />
     </a>
 </div>
 
