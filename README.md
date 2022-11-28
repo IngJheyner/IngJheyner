@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/ya-tenemos-fecha-salida-nuevos-xiaomi-13-todo-sabemos-ahora-1161529'>Ya tenemos fecha de salida de los nuevos Xiaomi 13: esto es todo lo que sabemos por ahora</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/ya-tenemos-fecha-salida-nuevos-xiaomi-13-todo-sabemos-ahora-1161529' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/ya-tenemos-fecha-salida-serie-13-xiaomi-todo-sabemos-ahora-2884545.jpg' alt='Ya tenemos fecha de salida de los nuevos Xiaomi 13: esto es todo lo que sabemos por ahora' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/canciones-escuchadas-spotify-1000-millones-reproducciones-1161487'>Las canciones más escuchadas en Spotify, más de 1.000 millones de reproducciones</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/canciones-escuchadas-spotify-1000-millones-reproducciones-1161487' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/spotify-2884453.jpg' alt='Las canciones más escuchadas en Spotify, más de 1.000 millones de reproducciones' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/12-coches-baratos-produccion-serie-historia-1161471'>Los 12 coches más baratos de producción en serie de la historia</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/12-coches-baratos-produccion-serie-historia-1161471' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/12-coches-baratos-produccion-serie-historia-2884449.jpg' alt='Los 12 coches más baratos de producción en serie de la historia' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/listas/tecnologia/ultimos-chollos-20-euros-black-friday-cyber-monday-1161463'>Últimos chollos por 20€ o menos del Black Friday y Cyber Monday</a></h4>
     <a href='https://computerhoy.com/listas/tecnologia/ultimos-chollos-20-euros-black-friday-cyber-monday-1161463' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/chollos-cyber-monday-2884401.jpg' alt='Últimos chollos por 20€ o menos del Black Friday y Cyber Monday' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/puedes-jugar-videojuego-programo-elon-musk-12-anos-1161469'>Así es, y puedes jugar, el videojuego que programó Elon Musk con 12 años</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/puedes-jugar-videojuego-programo-elon-musk-12-anos-1161469' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/elon-musk-twitter-2731787.jpg' alt='Así es, y puedes jugar, el videojuego que programó Elon Musk con 12 años' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/desafio-rapido-autoestereograma--numero-escondido-1161437'>Desafío rápido: esta imagen esconde un número y tienes 10 segundos para encontrarlo</a></h4>
-    <a href='https://computerhoy.com/noticias/life/desafio-rapido-autoestereograma--numero-escondido-1161437' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/desafio-rapido-imagen-esconde-numero-tienes-10-segundos-encontrarlo-2884329.jpg' alt='Desafío rápido: esta imagen esconde un número y tienes 10 segundos para encontrarlo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/kodi-principiantes-expertos-instalacion-mejores-addons-canales-iptv-1160059'>Kodi para principiantes y expertos: instalación, mejores addons y canales IPTV</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/kodi-principiantes-expertos-instalacion-mejores-addons-canales-iptv-1160059' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/kodi-2881805.jpg' alt='Kodi para principiantes y expertos: instalación, mejores addons y canales IPTV' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/guia-compra/arbol-navidad-1154945'>Cómo elegir el mejor árbol de Navidad</a></h4>
-    <a href='https://computerhoy.com/guia-compra/arbol-navidad-1154945' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/arbol-navidad-2870281.jpg' alt='Cómo elegir el mejor árbol de Navidad' />
     </a>
 </div>
 
