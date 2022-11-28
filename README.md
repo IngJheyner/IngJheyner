@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/glosario-diccionario-jerga-debes-conocer-iniciarte-streaming-1161543'>El glosario, diccionario y jerga que debes conocer para iniciarte en el streaming</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/glosario-diccionario-jerga-debes-conocer-iniciarte-streaming-1161543' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/12/silla-gaming-2166639.jpg' alt='El glosario, diccionario y jerga que debes conocer para iniciarte en el streaming' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/averigua-web-numero-whatsapp-correo-electronico-ha-sido-filtrado-hackers-1161551'>Averigua con esta web si tu número de WhatsApp o correo electrónico ha sido filtrado por los hackers</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/averigua-web-numero-whatsapp-correo-electronico-ha-sido-filtrado-hackers-1161551' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/como-saber-numero-whatsapp-ha-sido-filtrado-hackers-2884633.jpg' alt='Averigua con esta web si tu número de WhatsApp o correo electrónico ha sido filtrado por los hackers' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/motor/12-coches-baratos-produccion-serie-historia-1161471'>Los 12 coches más baratos de producción en serie de la historia</a></h4>
     <a href='https://computerhoy.com/noticias/motor/12-coches-baratos-produccion-serie-historia-1161471' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/12-coches-baratos-produccion-serie-historia-2884449.jpg' alt='Los 12 coches más baratos de producción en serie de la historia' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/listas/tecnologia/ultimos-chollos-20-euros-black-friday-cyber-monday-1161463'>Últimos chollos por 20€ o menos del Black Friday y Cyber Monday</a></h4>
-    <a href='https://computerhoy.com/listas/tecnologia/ultimos-chollos-20-euros-black-friday-cyber-monday-1161463' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/chollos-cyber-monday-2884401.jpg' alt='Últimos chollos por 20€ o menos del Black Friday y Cyber Monday' />
     </a>
 </div>
 
