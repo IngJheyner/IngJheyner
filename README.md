@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/metodo-deep-work-bill-gates-te-hara-triunfar-trabajo-estudios-1161779'>El método Deep Work de Bill Gates que te hará triunfar en tu trabajo o en los estudios</a></h4>
+    <a href='https://computerhoy.com/life/metodo-deep-work-bill-gates-te-hara-triunfar-trabajo-estudios-1161779' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/bill-gates-2829387.jpg' alt='El método Deep Work de Bill Gates que te hará triunfar en tu trabajo o en los estudios' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/metodos-mejorar-eficiencia-radiador-pagar-menos-factura-expertos-1161777'>Métodos para mejorar la eficiencia de tu radiador y pagar menos factura, según los expertos</a></h4>
+    <a href='https://computerhoy.com/life/metodos-mejorar-eficiencia-radiador-pagar-menos-factura-expertos-1161777' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/radiador-ahorro-2885575.jpg' alt='Métodos para mejorar la eficiencia de tu radiador y pagar menos factura, según los expertos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/3-series-alternativas-a-1899-1161775'>3 series como 1899 por si te has quedado con ganas de resolver más misterios</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/3-series-alternativas-a-1899-1161775' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/3-series-como-1899-te-has-quedado-ganas-resolver-misterios-2885489.jpg' alt='3 series como 1899 por si te has quedado con ganas de resolver más misterios' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/distribuye-poblacion-largo-mundo-solo-ocupamos-pequena-porcion-terreno-1161695'>Así se distribuye la población a lo largo del mundo: solo ocupamos una pequeña porción de terreno</a></h4>
+    <a href='https://computerhoy.com/life/distribuye-poblacion-largo-mundo-solo-ocupamos-pequena-porcion-terreno-1161695' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/mapa-muestra-densidad-poblacion-mundo-columnas-muchas-zonas-desaparecen-2885563.jpg' alt='Así se distribuye la población a lo largo del mundo: solo ocupamos una pequeña porción de terreno' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/mejores-relojes-inteligentes-fitbit-1155833'>Relojes inteligentes Fitbit: estos son los mejores que puedes comprar</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/mejores-relojes-inteligentes-fitbit-1155833' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/fitbit-sense-2-2885427.jpg' alt='Relojes inteligentes Fitbit: estos son los mejores que puedes comprar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/llegan-luces-automaticas-cuando-entras-sales-habitacion-sensor-movimiento-1161709'>Llegan las luces automáticas cuando entras o sales de una habitación, sin sensor de movimiento</a></h4>
-    <a href='https://computerhoy.com/tecnologia/llegan-luces-automaticas-cuando-entras-sales-habitacion-sensor-movimiento-1161709' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/luces-inteligentes-wiz-2885423.jpg' alt='Llegan las luces automáticas cuando entras o sales de una habitación, sin sensor de movimiento' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/lg-da-solucion-ahorrar-espacio-cubiculos-oficina-1161697'>LG da con la solución para ahorrar espacio en los cubículos de oficina</a></h4>
-    <a href='https://computerhoy.com/tecnologia/lg-da-solucion-ahorrar-espacio-cubiculos-oficina-1161697' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/monitor-lg-2885333.jpg' alt='LG da con la solución para ahorrar espacio en los cubículos de oficina' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/life/como-apuntarse-paro-2021-sellar-tarjeta-paro-online-sepe-804545'>Cómo apuntarse al paro en 2023 y sellar la tarjeta del paro online en el SEPE</a></h4>
-    <a href='https://computerhoy.com/reportajes/life/como-apuntarse-paro-2021-sellar-tarjeta-paro-online-sepe-804545' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/03/web-sepe-2261557.jpg' alt='Cómo apuntarse al paro en 2023 y sellar la tarjeta del paro online en el SEPE' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/panasonic-presenta-solucion-5-1-belleza-masculina-ahorra-dinero-espacio-tiempo-1161621'>Panasonic presenta la solución 5 en 1 para belleza masculina que ahorra dinero, espacio y tiempo</a></h4>
-    <a href='https://computerhoy.com/tecnologia/panasonic-presenta-solucion-5-1-belleza-masculina-ahorra-dinero-espacio-tiempo-1161621' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/solucion-5-1-salud-belleza-masculina-ahorra-dinero-espacio-tiempo-2884731.jpg' alt='Panasonic presenta la solución 5 en 1 para belleza masculina que ahorra dinero, espacio y tiempo' />
     </a>
 </div>
 
