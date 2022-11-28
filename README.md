@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/lg-da-solucion-ahorrar-espacio-cubiculos-oficina-1161697'>LG da con la solución para ahorrar espacio en los cubículos de oficina</a></h4>
+    <a href='https://computerhoy.com/tecnologia/lg-da-solucion-ahorrar-espacio-cubiculos-oficina-1161697' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/monitor-lg-2885333.jpg' alt='LG da con la solución para ahorrar espacio en los cubículos de oficina' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/life/como-apuntarse-paro-2021-sellar-tarjeta-paro-online-sepe-804545'>Cómo apuntarse al paro en 2023 y sellar la tarjeta del paro online en el SEPE</a></h4>
+    <a href='https://computerhoy.com/reportajes/life/como-apuntarse-paro-2021-sellar-tarjeta-paro-online-sepe-804545' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/03/web-sepe-2261557.jpg' alt='Cómo apuntarse al paro en 2023 y sellar la tarjeta del paro online en el SEPE' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/panasonic-presenta-solucion-5-1-belleza-masculina-ahorra-dinero-espacio-tiempo-1161621'>Panasonic presenta la solución 5 en 1 para belleza masculina que ahorra dinero, espacio y tiempo</a></h4>
     <a href='https://computerhoy.com/tecnologia/panasonic-presenta-solucion-5-1-belleza-masculina-ahorra-dinero-espacio-tiempo-1161621' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/solucion-5-1-salud-belleza-masculina-ahorra-dinero-espacio-tiempo-2884731.jpg' alt='Panasonic presenta la solución 5 en 1 para belleza masculina que ahorra dinero, espacio y tiempo' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/como-seria-festival-musica-perfecto-escuchas-spotify-1161581'>Cómo sería tu festival de música perfecto según lo que escuchas en Spotify</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/como-seria-festival-musica-perfecto-escuchas-spotify-1161581' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/8-gadgets-tecnologicos-mejoraran-experiencia-proximo-festival-2739651.jpg' alt='Cómo sería tu festival de música perfecto según lo que escuchas en Spotify' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/malas-noticias-nuevo-twitter-elon-musk-54-millones-datos-robados-usuarios-circulan-foro-hackers-1161605'>Malas noticias para el nuevo Twitter de Elon Musk: 5,4 millones de datos robados de usuarios circulan por un foro de hackers </a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/malas-noticias-nuevo-twitter-elon-musk-54-millones-datos-robados-usuarios-circulan-foro-hackers-1161605' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/malas-noticias-nuevo-twitter-elon-musk-54-millones-datos-robados-usuarios-circulan-foro-hackers-2884709.jpg' alt='Malas noticias para el nuevo Twitter de Elon Musk: 5,4 millones de datos robados de usuarios circulan por un foro de hackers ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/glosario-diccionario-jerga-debes-conocer-iniciarte-streaming-1161543'>El glosario, diccionario y jerga que debes conocer para iniciarte en el streaming</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/glosario-diccionario-jerga-debes-conocer-iniciarte-streaming-1161543' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/12/silla-gaming-2166639.jpg' alt='El glosario, diccionario y jerga que debes conocer para iniciarte en el streaming' />
     </a>
 </div>
 
