@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/blockfi-bancarrota-ftx-1161811'>FTX y el efecto dominó: la plataforma de criptomonedas BlockFi también se declara en bancarrota</a></h4>
+    <a href='https://computerhoy.com/tecnologia/blockfi-bancarrota-ftx-1161811' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/ftx-efecto-domino-plataforma-criptomonedas-blockfi-tambien-declara-bancarrota-2885651.jpg' alt='FTX y el efecto dominó: la plataforma de criptomonedas BlockFi también se declara en bancarrota' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/televisor-samsung-4k-qled-q70b-55-pulgadas-mitad-precio-solo-599-euros-1161797'>El televisor Samsung 4K QLED Q70B de 55 pulgadas a mitad de precio, solo 599 euros</a></h4>
     <a href='https://computerhoy.com/tecnologia/televisor-samsung-4k-qled-q70b-55-pulgadas-mitad-precio-solo-599-euros-1161797' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/televisor-samsung-qled-q70b-55-pulgadas-mitad-precio-solo-599-euros-2885627.jpg' alt='El televisor Samsung 4K QLED Q70B de 55 pulgadas a mitad de precio, solo 599 euros' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/entretenimiento/3-series-alternativas-a-1899-1161775'>3 series como 1899 por si te has quedado con ganas de resolver más misterios</a></h4>
     <a href='https://computerhoy.com/entretenimiento/3-series-alternativas-a-1899-1161775' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/3-series-como-1899-te-has-quedado-ganas-resolver-misterios-2885489.jpg' alt='3 series como 1899 por si te has quedado con ganas de resolver más misterios' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/distribuye-poblacion-largo-mundo-solo-ocupamos-pequena-porcion-terreno-1161695'>Así se distribuye la población a lo largo del mundo: solo ocupamos una pequeña porción de terreno</a></h4>
-    <a href='https://computerhoy.com/life/distribuye-poblacion-largo-mundo-solo-ocupamos-pequena-porcion-terreno-1161695' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/mapa-muestra-densidad-poblacion-mundo-columnas-muchas-zonas-desaparecen-2885563.jpg' alt='Así se distribuye la población a lo largo del mundo: solo ocupamos una pequeña porción de terreno' />
     </a>
 </div>
 
