@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/guia-compra/arbol-navidad-1154945'>Cómo elegir el mejor árbol de Navidad</a></h4>
+    <a href='https://computerhoy.com/guia-compra/arbol-navidad-1154945' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/arbol-navidad-2870281.jpg' alt='Cómo elegir el mejor árbol de Navidad' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/37-noticias-tecnologia-comenzar-manana-informado-ultimo-1161445'>37 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/37-noticias-tecnologia-comenzar-manana-informado-ultimo-1161445' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/noticias-tecnologias-2884347.jpg' alt='37 noticias de tecnología para comenzar la mañana informado de lo último' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/calzadas-romanas-lugares-prosperos-europa-1160615'>2.000 años después las calzadas romanas siguen conduciendo a los lugares más prósperos de Europa</a></h4>
     <a href='https://computerhoy.com/noticias/life/calzadas-romanas-lugares-prosperos-europa-1160615' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/2000-anos-despues-calzadas-romanas-siguen-conduciendo-lugares-prosperos-europa-2883109.jpg' alt='2.000 años después las calzadas romanas siguen conduciendo a los lugares más prósperos de Europa' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/carta-codificada-emperador-carlos-v-descifrada-1161263'>Descrifrada una carta codificada del emperador Carlos V, cuyo contenido ha sido un secreto durante 500 años</a></h4>
-    <a href='https://computerhoy.com/noticias/life/carta-codificada-emperador-carlos-v-descifrada-1161263' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/descrifrado-carta-codificada-carlos-v-cuyo-contenido-ha-sido-secreto-durante-500-anos-2884151.jpg' alt='Descrifrada una carta codificada del emperador Carlos V, cuyo contenido ha sido un secreto durante 500 años' />
     </a>
 </div>
 
