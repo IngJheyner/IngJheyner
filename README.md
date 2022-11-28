@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/televisor-samsung-4k-qled-q70b-55-pulgadas-mitad-precio-solo-599-euros-1161797'>El televisor Samsung 4K QLED Q70B de 55 pulgadas a mitad de precio, solo 599 euros</a></h4>
+    <a href='https://computerhoy.com/tecnologia/televisor-samsung-4k-qled-q70b-55-pulgadas-mitad-precio-solo-599-euros-1161797' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/televisor-samsung-qled-q70b-55-pulgadas-mitad-precio-solo-599-euros-2885627.jpg' alt='El televisor Samsung 4K QLED Q70B de 55 pulgadas a mitad de precio, solo 599 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/metodo-deep-work-bill-gates-te-hara-triunfar-trabajo-estudios-1161779'>El método Deep Work de Bill Gates que te hará triunfar en tu trabajo o en los estudios</a></h4>
     <a href='https://computerhoy.com/life/metodo-deep-work-bill-gates-te-hara-triunfar-trabajo-estudios-1161779' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/bill-gates-2829387.jpg' alt='El método Deep Work de Bill Gates que te hará triunfar en tu trabajo o en los estudios' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/life/distribuye-poblacion-largo-mundo-solo-ocupamos-pequena-porcion-terreno-1161695'>Así se distribuye la población a lo largo del mundo: solo ocupamos una pequeña porción de terreno</a></h4>
     <a href='https://computerhoy.com/life/distribuye-poblacion-largo-mundo-solo-ocupamos-pequena-porcion-terreno-1161695' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/mapa-muestra-densidad-poblacion-mundo-columnas-muchas-zonas-desaparecen-2885563.jpg' alt='Así se distribuye la población a lo largo del mundo: solo ocupamos una pequeña porción de terreno' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/mejores-relojes-inteligentes-fitbit-1155833'>Relojes inteligentes Fitbit: estos son los mejores que puedes comprar</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/mejores-relojes-inteligentes-fitbit-1155833' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/fitbit-sense-2-2885427.jpg' alt='Relojes inteligentes Fitbit: estos son los mejores que puedes comprar' />
     </a>
 </div>
 
