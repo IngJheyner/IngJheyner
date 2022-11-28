@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/mejores-relojes-inteligentes-fitbit-1155833'>Relojes inteligentes Fitbit: estos son los mejores que puedes comprar</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/mejores-relojes-inteligentes-fitbit-1155833' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/fitbit-sense-2-2885427.jpg' alt='Relojes inteligentes Fitbit: estos son los mejores que puedes comprar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/llegan-luces-automaticas-cuando-entras-sales-habitacion-sensor-movimiento-1161709'>Llegan las luces automáticas cuando entras o sales de una habitación, sin sensor de movimiento</a></h4>
+    <a href='https://computerhoy.com/tecnologia/llegan-luces-automaticas-cuando-entras-sales-habitacion-sensor-movimiento-1161709' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/luces-inteligentes-wiz-2885423.jpg' alt='Llegan las luces automáticas cuando entras o sales de una habitación, sin sensor de movimiento' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/lg-da-solucion-ahorrar-espacio-cubiculos-oficina-1161697'>LG da con la solución para ahorrar espacio en los cubículos de oficina</a></h4>
     <a href='https://computerhoy.com/tecnologia/lg-da-solucion-ahorrar-espacio-cubiculos-oficina-1161697' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/monitor-lg-2885333.jpg' alt='LG da con la solución para ahorrar espacio en los cubículos de oficina' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/panasonic-presenta-solucion-5-1-belleza-masculina-ahorra-dinero-espacio-tiempo-1161621'>Panasonic presenta la solución 5 en 1 para belleza masculina que ahorra dinero, espacio y tiempo</a></h4>
     <a href='https://computerhoy.com/tecnologia/panasonic-presenta-solucion-5-1-belleza-masculina-ahorra-dinero-espacio-tiempo-1161621' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/solucion-5-1-salud-belleza-masculina-ahorra-dinero-espacio-tiempo-2884731.jpg' alt='Panasonic presenta la solución 5 en 1 para belleza masculina que ahorra dinero, espacio y tiempo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/llega-fin-impresoras-laser-incompatibles-sostenibilidad-medio-ambiente-epson-1161623'>Llega el fin de las impresoras láser: incompatibles con la sostenibilidad y medio ambiente según Epson</a></h4>
-    <a href='https://computerhoy.com/tecnologia/llega-fin-impresoras-laser-incompatibles-sostenibilidad-medio-ambiente-epson-1161623' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/epson-laser-2885183.jpg' alt='Llega el fin de las impresoras láser: incompatibles con la sostenibilidad y medio ambiente según Epson' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/como-seria-festival-musica-perfecto-escuchas-spotify-1161581'>Cómo sería tu festival de música perfecto según lo que escuchas en Spotify</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/como-seria-festival-musica-perfecto-escuchas-spotify-1161581' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/8-gadgets-tecnologicos-mejoraran-experiencia-proximo-festival-2739651.jpg' alt='Cómo sería tu festival de música perfecto según lo que escuchas en Spotify' />
     </a>
 </div>
 
