@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/como-seria-festival-musica-perfecto-escuchas-spotify-1161581'>Cómo sería tu festival de música perfecto según lo que escuchas en Spotify</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/como-seria-festival-musica-perfecto-escuchas-spotify-1161581' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/8-gadgets-tecnologicos-mejoraran-experiencia-proximo-festival-2739651.jpg' alt='Cómo sería tu festival de música perfecto según lo que escuchas en Spotify' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/malas-noticias-nuevo-twitter-elon-musk-54-millones-datos-robados-usuarios-circulan-foro-hackers-1161605'>Malas noticias para el nuevo Twitter de Elon Musk: 5,4 millones de datos robados de usuarios circulan por un foro de hackers </a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/malas-noticias-nuevo-twitter-elon-musk-54-millones-datos-robados-usuarios-circulan-foro-hackers-1161605' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/malas-noticias-nuevo-twitter-elon-musk-54-millones-datos-robados-usuarios-circulan-foro-hackers-2884709.jpg' alt='Malas noticias para el nuevo Twitter de Elon Musk: 5,4 millones de datos robados de usuarios circulan por un foro de hackers ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/glosario-diccionario-jerga-debes-conocer-iniciarte-streaming-1161543'>El glosario, diccionario y jerga que debes conocer para iniciarte en el streaming</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/glosario-diccionario-jerga-debes-conocer-iniciarte-streaming-1161543' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/12/silla-gaming-2166639.jpg' alt='El glosario, diccionario y jerga que debes conocer para iniciarte en el streaming' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/ya-tenemos-fecha-salida-nuevos-xiaomi-13-todo-sabemos-ahora-1161529'>Ya tenemos fecha de salida de los nuevos Xiaomi 13: esto es todo lo que sabemos por ahora</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/ya-tenemos-fecha-salida-nuevos-xiaomi-13-todo-sabemos-ahora-1161529' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/ya-tenemos-fecha-salida-serie-13-xiaomi-todo-sabemos-ahora-2884545.jpg' alt='Ya tenemos fecha de salida de los nuevos Xiaomi 13: esto es todo lo que sabemos por ahora' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/canciones-escuchadas-spotify-1000-millones-reproducciones-1161487'>Las canciones más escuchadas en Spotify, más de 1.000 millones de reproducciones</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/canciones-escuchadas-spotify-1000-millones-reproducciones-1161487' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/spotify-2884453.jpg' alt='Las canciones más escuchadas en Spotify, más de 1.000 millones de reproducciones' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/12-coches-baratos-produccion-serie-historia-1161471'>Los 12 coches más baratos de producción en serie de la historia</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/12-coches-baratos-produccion-serie-historia-1161471' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/12-coches-baratos-produccion-serie-historia-2884449.jpg' alt='Los 12 coches más baratos de producción en serie de la historia' />
     </a>
 </div>
 
