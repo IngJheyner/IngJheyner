@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/panasonic-presenta-solucion-5-1-belleza-masculina-ahorra-dinero-espacio-tiempo-1161621'>Panasonic presenta la solución 5 en 1 para belleza masculina que ahorra dinero, espacio y tiempo</a></h4>
+    <a href='https://computerhoy.com/tecnologia/panasonic-presenta-solucion-5-1-belleza-masculina-ahorra-dinero-espacio-tiempo-1161621' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/solucion-5-1-salud-belleza-masculina-ahorra-dinero-espacio-tiempo-2884731.jpg' alt='Panasonic presenta la solución 5 en 1 para belleza masculina que ahorra dinero, espacio y tiempo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/llega-fin-impresoras-laser-incompatibles-sostenibilidad-medio-ambiente-epson-1161623'>Llega el fin de las impresoras láser: incompatibles con la sostenibilidad y medio ambiente según Epson</a></h4>
+    <a href='https://computerhoy.com/tecnologia/llega-fin-impresoras-laser-incompatibles-sostenibilidad-medio-ambiente-epson-1161623' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/epson-laser-2885183.jpg' alt='Llega el fin de las impresoras láser: incompatibles con la sostenibilidad y medio ambiente según Epson' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/como-seria-festival-musica-perfecto-escuchas-spotify-1161581'>Cómo sería tu festival de música perfecto según lo que escuchas en Spotify</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/como-seria-festival-musica-perfecto-escuchas-spotify-1161581' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/8-gadgets-tecnologicos-mejoraran-experiencia-proximo-festival-2739651.jpg' alt='Cómo sería tu festival de música perfecto según lo que escuchas en Spotify' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/glosario-diccionario-jerga-debes-conocer-iniciarte-streaming-1161543'>El glosario, diccionario y jerga que debes conocer para iniciarte en el streaming</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/glosario-diccionario-jerga-debes-conocer-iniciarte-streaming-1161543' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/12/silla-gaming-2166639.jpg' alt='El glosario, diccionario y jerga que debes conocer para iniciarte en el streaming' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/averigua-web-numero-whatsapp-correo-electronico-ha-sido-filtrado-hackers-1161551'>Averigua con esta web si tu número de WhatsApp o correo electrónico ha sido filtrado por los hackers</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/averigua-web-numero-whatsapp-correo-electronico-ha-sido-filtrado-hackers-1161551' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/como-saber-numero-whatsapp-ha-sido-filtrado-hackers-2884633.jpg' alt='Averigua con esta web si tu número de WhatsApp o correo electrónico ha sido filtrado por los hackers' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/ya-tenemos-fecha-salida-nuevos-xiaomi-13-todo-sabemos-ahora-1161529'>Ya tenemos fecha de salida de los nuevos Xiaomi 13: esto es todo lo que sabemos por ahora</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/ya-tenemos-fecha-salida-nuevos-xiaomi-13-todo-sabemos-ahora-1161529' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/ya-tenemos-fecha-salida-serie-13-xiaomi-todo-sabemos-ahora-2884545.jpg' alt='Ya tenemos fecha de salida de los nuevos Xiaomi 13: esto es todo lo que sabemos por ahora' />
     </a>
 </div>
 
