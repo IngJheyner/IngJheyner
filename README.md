@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/valla-anti-inundaciones-riadas-video-1161435'>La valla anti inundaciones y riadas que puede salvar tu casa del desastre (vídeo)</a></h4>
+    <a href='https://computerhoy.com/noticias/life/valla-anti-inundaciones-riadas-video-1161435' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/verticalimage1669589517328-2884157.jpg' alt='La valla anti inundaciones y riadas que puede salvar tu casa del desastre (vídeo)' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/calzadas-romanas-lugares-prosperos-europa-1160615'>2.000 años después las calzadas romanas siguen conduciendo a los lugares más prósperos de Europa</a></h4>
     <a href='https://computerhoy.com/noticias/life/calzadas-romanas-lugares-prosperos-europa-1160615' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/2000-anos-despues-calzadas-romanas-siguen-conduciendo-lugares-prosperos-europa-2883109.jpg' alt='2.000 años después las calzadas romanas siguen conduciendo a los lugares más prósperos de Europa' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/gaming/ya-no-hay-nada-sagrado-icono-playstation-podria-salir-tambien-pc-1161251'>Ya no hay nada sagrado: un icono de PlayStation podría salir también en PC</a></h4>
     <a href='https://computerhoy.com/noticias/gaming/ya-no-hay-nada-sagrado-icono-playstation-podria-salir-tambien-pc-1161251' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/gran-turismo-7-2655803.jpg' alt='Ya no hay nada sagrado: un icono de PlayStation podría salir también en PC' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-snapdragon-8-gen-1-1061521'>Estos son los mejores móviles con Snapdragon 8 Gen 1, el procesador más potente de Qualcomm</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-snapdragon-8-gen-1-1061521' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/oneplus-10-pro-analisis-opinion-2680703.jpg' alt='Estos son los mejores móviles con Snapdragon 8 Gen 1, el procesador más potente de Qualcomm' />
     </a>
 </div>
 
