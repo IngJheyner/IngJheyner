@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/22-noticias-tecnologia-comenzar-manana-informado-ultimo-1162029'>22 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
+    <a href='https://computerhoy.com/tecnologia/22-noticias-tecnologia-comenzar-manana-informado-ultimo-1162029' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/22-noticias-tecnologia-comenzar-manana-informado-ultimo-2885877.jpg' alt='22 noticias de tecnología para comenzar la mañana informado de lo último' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/mejores-ofertas-semana-cyber-monday-mediamarkt-1161733'>El Cyber Monday se expande una semana en Media Markt: Mejores ofertas en móviles, PC, tablets y más</a></h4>
     <a href='https://computerhoy.com/tecnologia/mejores-ofertas-semana-cyber-monday-mediamarkt-1161733' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/portada-cyber-monday-2885507.jpg' alt='El Cyber Monday se expande una semana en Media Markt: Mejores ofertas en móviles, PC, tablets y más' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/life/metodo-deep-work-bill-gates-te-hara-triunfar-trabajo-estudios-1161779'>El método Deep Work de Bill Gates que te hará triunfar en tu trabajo o en los estudios</a></h4>
     <a href='https://computerhoy.com/life/metodo-deep-work-bill-gates-te-hara-triunfar-trabajo-estudios-1161779' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/bill-gates-2829387.jpg' alt='El método Deep Work de Bill Gates que te hará triunfar en tu trabajo o en los estudios' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/metodos-mejorar-eficiencia-radiador-pagar-menos-factura-expertos-1161777'>Métodos para mejorar la eficiencia de tu radiador y pagar menos factura, según los expertos</a></h4>
-    <a href='https://computerhoy.com/life/metodos-mejorar-eficiencia-radiador-pagar-menos-factura-expertos-1161777' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/radiador-ahorro-2885575.jpg' alt='Métodos para mejorar la eficiencia de tu radiador y pagar menos factura, según los expertos' />
     </a>
 </div>
 
