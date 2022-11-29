@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/algocracia-podria-inteligencia-artificial-sustituir-politicos-1162137'>Algocracia: ¿podría la Inteligencia Artificial sustituir a los políticos?</a></h4>
+    <a href='https://computerhoy.com/life/algocracia-podria-inteligencia-artificial-sustituir-politicos-1162137' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/parlamento-europeo-2670259.jpg' alt='Algocracia: ¿podría la Inteligencia Artificial sustituir a los políticos?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/funcion-desconocida-bizum-podria-ahorrarte-muchos-problemas-1162133'>Esta función desconocida de Bizum podría ahorrarte muchos problemas</a></h4>
+    <a href='https://computerhoy.com/life/funcion-desconocida-bizum-podria-ahorrarte-muchos-problemas-1162133' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/bizum-2833649.jpg' alt='Esta función desconocida de Bizum podría ahorrarte muchos problemas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/memoria-grafica-gpus-next-gen-ha-llegado-gddr6w-doble-ancho-banda-capacidad-1162101'>La memoria gráfica de las GPUs next gen ha llegado, GDDR6W, doble de ancho de banda y capacidad</a></h4>
     <a href='https://computerhoy.com/tecnologia/memoria-grafica-gpus-next-gen-ha-llegado-gddr6w-doble-ancho-banda-capacidad-1162101' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/nueva-memoria-gddr6w-2886073.jpg' alt='La memoria gráfica de las GPUs next gen ha llegado, GDDR6W, doble de ancho de banda y capacidad' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/estas-son-mejores-apps-moviles-ano-apple-1162067'>Estás son las mejores apps móviles del año según Apple</a></h4>
     <a href='https://computerhoy.com/tecnologia/estas-son-mejores-apps-moviles-ano-apple-1162067' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/estas-son-mejores-apps-moviles-ano-apple-2885911.jpg' alt='Estás son las mejores apps móviles del año según Apple' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/desafio-rapido-imagen-esconde-dos-animales-pero-solo-ingeniosos-ven-1162047'>Desafío rápido: esta imagen esconde dos animales pero solo los más ingeniosos los ven</a></h4>
-    <a href='https://computerhoy.com/life/desafio-rapido-imagen-esconde-dos-animales-pero-solo-ingeniosos-ven-1162047' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/desafio-rapido-imagen-esconde-dos-animales-pero-solo-ingeniosos-ven-2885889.jpg' alt='Desafío rápido: esta imagen esconde dos animales pero solo los más ingeniosos los ven' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/google-tables-como-funciona-quien-puede-utilizarlo-1161643'>Qué es Google Tables, cómo funciona y quién puede utilizarlo</a></h4>
-    <a href='https://computerhoy.com/tecnologia/google-tables-como-funciona-quien-puede-utilizarlo-1161643' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/google-tables-como-funciona-quien-puede-utilizarlo-2885535.jpg' alt='Qué es Google Tables, cómo funciona y quién puede utilizarlo' />
     </a>
 </div>
 
