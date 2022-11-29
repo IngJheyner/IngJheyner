@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/gaming/playstation-entra-lleno-metaverso-nuevo-invento-1162316'>PlayStation entra de lleno en el metaverso con su nuevo invento</a></h4>
-    <a href='https://computerhoy.com/gaming/playstation-entra-lleno-metaverso-nuevo-invento-1162316' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/playstation-invento-mocopi-2886948.jpg' alt='PlayStation entra de lleno en el metaverso con su nuevo invento' />
+    <h4><a href='https://computerhoy.com/entretenimiento/bob-iger-vuelve-ceo-disney-1162400'>Bob Iger vuelve a ser CEO de Disney y eso puede cambiar por completo el futuro de la compañía</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/bob-iger-vuelve-ceo-disney-1162400' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/ex-ceo-disney-vaticina-plataformas-streaming-desapareceran-son-malas-noticias-fans-dragones-2807853.jpg' alt='Bob Iger vuelve a ser CEO de Disney y eso puede cambiar por completo el futuro de la compañía' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/mapa-te-dice-cual-mejor-operador-movil-ti-calle-donde-vivas-1161783'>Este mapa te dice cuál es el mejor operador móvil para ti según la calle donde vivas</a></h4>
-    <a href='https://computerhoy.com/tecnologia/mapa-te-dice-cual-mejor-operador-movil-ti-calle-donde-vivas-1161783' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/hombre-trata-captar-senal-red-movil-2621495.jpg' alt='Este mapa te dice cuál es el mejor operador móvil para ti según la calle donde vivas' />
+    <h4><a href='https://computerhoy.com/tecnologia/movistar-sube-precios-quedara-tarifa-aplicar-nuevos-precios-1162354'>Movistar sube precios: así quedará tu tarifa tras aplicar los nuevos precios</a></h4>
+    <a href='https://computerhoy.com/tecnologia/movistar-sube-precios-quedara-tarifa-aplicar-nuevos-precios-1162354' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/entrada-tienda-movistar-2872809.jpg' alt='Movistar sube precios: así quedará tu tarifa tras aplicar los nuevos precios' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/5-mejores-trucos-moviles-android-propia-google-1162276'>Los 5 mejores trucos para móviles Android según la propia Google</a></h4>
-    <a href='https://computerhoy.com/tecnologia/5-mejores-trucos-moviles-android-propia-google-1162276' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/android-2876001.jpg' alt='Los 5 mejores trucos para móviles Android según la propia Google' />
+    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/google-flights-trucos-vuelos-baratos'>Qué es y cómo funciona Google Flights, el buscador de vuelos baratos de Google</a></h4>
+    <a href='https://computerhoy.com/tutoriales/tecnologia/google-flights-trucos-vuelos-baratos' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/google-flights-2645197.jpg' alt='Qué es y cómo funciona Google Flights, el buscador de vuelos baratos de Google' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/cinco-consejos-comprar-freidora-aire-barata-no-arrepentirte-1161781'>Cinco consejos para comprar una freidora de aire barata y no arrepentirte</a></h4>
-    <a href='https://computerhoy.com/tecnologia/cinco-consejos-comprar-freidora-aire-barata-no-arrepentirte-1161781' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/freidora-aire-aceite-2875957.jpg' alt='Cinco consejos para comprar una freidora de aire barata y no arrepentirte' />
+    <h4><a href='https://computerhoy.com/tecnologia/piratas-informaticos-aprovechan-reto-viral-tiktok-enganar-miles-usuarios-1162382'>Piratas informáticos aprovechan un reto viral de TikTok para engañar a miles de usuarios</a></h4>
+    <a href='https://computerhoy.com/tecnologia/piratas-informaticos-aprovechan-reto-viral-tiktok-enganar-miles-usuarios-1162382' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/piratas-informaticos-aprovechan-reto-viral-tiktok-enganar-millones-usuarios-2887098.jpg' alt='Piratas informáticos aprovechan un reto viral de TikTok para engañar a miles de usuarios' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/review-razer-stream-controller-arma-definitiva-editar-video-foto-1162150'>Análisis del Razer Stream Controller, el arma definitiva editar vídeo y foto</a></h4>
-    <a href='https://computerhoy.com/analisis/review-razer-stream-controller-arma-definitiva-editar-video-foto-1162150' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/analisis-razer-stream-controller-2884789.jpg' alt='Análisis del Razer Stream Controller, el arma definitiva editar vídeo y foto' />
+    <h4><a href='https://computerhoy.com/tecnologia/elon-musk-levanta-armas-apple-estas-razones-1162364'>Elon Musk se levanta en armas contra Apple por estas razones</a></h4>
+    <a href='https://computerhoy.com/tecnologia/elon-musk-levanta-armas-apple-estas-razones-1162364' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/elon-musk-twitter-2671041.jpg' alt='Elon Musk se levanta en armas contra Apple por estas razones' />
     </a>
 </div>
 
