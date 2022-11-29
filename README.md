@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/cinco-consejos-comprar-freidora-aire-barata-no-arrepentirte-1161781'>Cinco consejos para comprar una freidora de aire barata y no arrepentirte</a></h4>
+    <a href='https://computerhoy.com/tecnologia/cinco-consejos-comprar-freidora-aire-barata-no-arrepentirte-1161781' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/freidora-aire-aceite-2875957.jpg' alt='Cinco consejos para comprar una freidora de aire barata y no arrepentirte' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/analisis/review-razer-stream-controller-arma-definitiva-editar-video-foto-1162150'>Análisis del Razer Stream Controller, el arma definitiva editar vídeo y foto</a></h4>
     <a href='https://computerhoy.com/analisis/review-razer-stream-controller-arma-definitiva-editar-video-foto-1162150' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/analisis-razer-stream-controller-2884789.jpg' alt='Análisis del Razer Stream Controller, el arma definitiva editar vídeo y foto' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/motor/europa-dice-no-suscripciones-tener-potencia-coche-electrico-1162200'>Europa dice no a las suscripciones para tener más potencia en el coche eléctrico</a></h4>
     <a href='https://computerhoy.com/motor/europa-dice-no-suscripciones-tener-potencia-coche-electrico-1162200' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/mercedes-amg-eqs-53-4matic-2462073.jpg' alt='Europa dice no a las suscripciones para tener más potencia en el coche eléctrico' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/portatiles-oferta-durante-cyber-week-pccomponentes-1162053'>5 portátiles en oferta durante la Cyber Week de PcComponentes</a></h4>
-    <a href='https://computerhoy.com/tecnologia/portatiles-oferta-durante-cyber-week-pccomponentes-1162053' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/galeria-review-chromebook-spin-513-2462373.jpg' alt='5 portátiles en oferta durante la Cyber Week de PcComponentes' />
     </a>
 </div>
 
