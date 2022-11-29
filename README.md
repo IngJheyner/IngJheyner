@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/motor/europa-dice-no-suscripciones-tener-potencia-coche-electrico-1162200'>Europa dice no a las suscripciones para tener más potencia en el coche eléctrico</a></h4>
+    <a href='https://computerhoy.com/motor/europa-dice-no-suscripciones-tener-potencia-coche-electrico-1162200' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/mercedes-amg-eqs-53-4matic-2462073.jpg' alt='Europa dice no a las suscripciones para tener más potencia en el coche eléctrico' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/portatiles-oferta-durante-cyber-week-pccomponentes-1162053'>5 portátiles en oferta durante la Cyber Week de PcComponentes</a></h4>
     <a href='https://computerhoy.com/tecnologia/portatiles-oferta-durante-cyber-week-pccomponentes-1162053' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/galeria-review-chromebook-spin-513-2462373.jpg' alt='5 portátiles en oferta durante la Cyber Week de PcComponentes' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/memoria-grafica-gpus-next-gen-ha-llegado-gddr6w-doble-ancho-banda-capacidad-1162101'>La memoria gráfica de las GPUs next gen ha llegado, GDDR6W, doble de ancho de banda y capacidad</a></h4>
     <a href='https://computerhoy.com/tecnologia/memoria-grafica-gpus-next-gen-ha-llegado-gddr6w-doble-ancho-banda-capacidad-1162101' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/nueva-memoria-gddr6w-2886073.jpg' alt='La memoria gráfica de las GPUs next gen ha llegado, GDDR6W, doble de ancho de banda y capacidad' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/google-tiene-ia-detecta-cancer-mama-tan-efectiva-ha-sido-licenciada-hospitales-1162059'>Google tiene una IA que detecta el cáncer de mama tan efectiva que ha sido licenciada a hospitales</a></h4>
-    <a href='https://computerhoy.com/tecnologia/google-tiene-ia-detecta-cancer-mama-tan-efectiva-ha-sido-licenciada-hospitales-1162059' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/cancer-mama-mamografia-medico-2740331.jpg' alt='Google tiene una IA que detecta el cáncer de mama tan efectiva que ha sido licenciada a hospitales' />
     </a>
 </div>
 
