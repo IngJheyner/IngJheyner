@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/memoria-grafica-gpus-next-gen-ha-llegado-gddr6w-doble-ancho-banda-capacidad-1162101'>La memoria gráfica de las GPUs next gen ha llegado, GDDR6W, doble de ancho de banda y capacidad</a></h4>
+    <a href='https://computerhoy.com/tecnologia/memoria-grafica-gpus-next-gen-ha-llegado-gddr6w-doble-ancho-banda-capacidad-1162101' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/nueva-memoria-gddr6w-2886073.jpg' alt='La memoria gráfica de las GPUs next gen ha llegado, GDDR6W, doble de ancho de banda y capacidad' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/google-tiene-ia-detecta-cancer-mama-tan-efectiva-ha-sido-licenciada-hospitales-1162059'>Google tiene una IA que detecta el cáncer de mama tan efectiva que ha sido licenciada a hospitales</a></h4>
     <a href='https://computerhoy.com/tecnologia/google-tiene-ia-detecta-cancer-mama-tan-efectiva-ha-sido-licenciada-hospitales-1162059' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/cancer-mama-mamografia-medico-2740331.jpg' alt='Google tiene una IA que detecta el cáncer de mama tan efectiva que ha sido licenciada a hospitales' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/google-tables-como-funciona-quien-puede-utilizarlo-1161643'>Qué es Google Tables, cómo funciona y quién puede utilizarlo</a></h4>
     <a href='https://computerhoy.com/tecnologia/google-tables-como-funciona-quien-puede-utilizarlo-1161643' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/google-tables-como-funciona-quien-puede-utilizarlo-2885535.jpg' alt='Qué es Google Tables, cómo funciona y quién puede utilizarlo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/mejor-jugador-historia-minecraft-bot-creado-inteligencia-artificial-1161677'>El mejor jugador de la historia de Minecraft es un bot creado con Inteligencia Artificial</a></h4>
-    <a href='https://computerhoy.com/tecnologia/mejor-jugador-historia-minecraft-bot-creado-inteligencia-artificial-1161677' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/03/biblioteca-censura-minecraft-1892627.jpg' alt='El mejor jugador de la historia de Minecraft es un bot creado con Inteligencia Artificial' />
     </a>
 </div>
 
