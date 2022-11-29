@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/google-tiene-ia-detecta-cancer-mama-tan-efectiva-ha-sido-licenciada-hospitales-1162059'>Google tiene una IA que detecta el cáncer de mama tan efectiva que ha sido licenciada a hospitales</a></h4>
+    <a href='https://computerhoy.com/tecnologia/google-tiene-ia-detecta-cancer-mama-tan-efectiva-ha-sido-licenciada-hospitales-1162059' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/cancer-mama-mamografia-medico-2740331.jpg' alt='Google tiene una IA que detecta el cáncer de mama tan efectiva que ha sido licenciada a hospitales' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/estas-son-mejores-apps-moviles-ano-apple-1162067'>Estás son las mejores apps móviles del año según Apple</a></h4>
+    <a href='https://computerhoy.com/tecnologia/estas-son-mejores-apps-moviles-ano-apple-1162067' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/estas-son-mejores-apps-moviles-ano-apple-2885911.jpg' alt='Estás son las mejores apps móviles del año según Apple' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/desafio-rapido-imagen-esconde-dos-animales-pero-solo-ingeniosos-ven-1162047'>Desafío rápido: esta imagen esconde dos animales pero solo los más ingeniosos los ven</a></h4>
     <a href='https://computerhoy.com/life/desafio-rapido-imagen-esconde-dos-animales-pero-solo-ingeniosos-ven-1162047' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/desafio-rapido-imagen-esconde-dos-animales-pero-solo-ingeniosos-ven-2885889.jpg' alt='Desafío rápido: esta imagen esconde dos animales pero solo los más ingeniosos los ven' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/mejor-jugador-historia-minecraft-bot-creado-inteligencia-artificial-1161677'>El mejor jugador de la historia de Minecraft es un bot creado con Inteligencia Artificial</a></h4>
     <a href='https://computerhoy.com/tecnologia/mejor-jugador-historia-minecraft-bot-creado-inteligencia-artificial-1161677' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/03/biblioteca-censura-minecraft-1892627.jpg' alt='El mejor jugador de la historia de Minecraft es un bot creado con Inteligencia Artificial' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/mejores-reproductores-instalar-kodi-1162035'>Estos son los mejores reproductores de streaming donde puedes instalar Kodi</a></h4>
-    <a href='https://computerhoy.com/tecnologia/mejores-reproductores-instalar-kodi-1162035' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/mando-distancia-fire-tv-stick-apuntando-tv-2885879.jpg' alt='Estos son los mejores reproductores de streaming donde puedes instalar Kodi' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/22-noticias-tecnologia-comenzar-manana-informado-ultimo-1162029'>22 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
-    <a href='https://computerhoy.com/tecnologia/22-noticias-tecnologia-comenzar-manana-informado-ultimo-1162029' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/22-noticias-tecnologia-comenzar-manana-informado-ultimo-2885877.jpg' alt='22 noticias de tecnología para comenzar la mañana informado de lo último' />
     </a>
 </div>
 
