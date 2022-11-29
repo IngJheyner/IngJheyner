@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/analisis/review-razer-stream-controller-arma-definitiva-editar-video-foto-1162150'>Análisis del Razer Stream Controller, el arma definitiva editar vídeo y foto</a></h4>
+    <a href='https://computerhoy.com/analisis/review-razer-stream-controller-arma-definitiva-editar-video-foto-1162150' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/analisis-razer-stream-controller-2884789.jpg' alt='Análisis del Razer Stream Controller, el arma definitiva editar vídeo y foto' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/quien-fue-steve-jobs-apple-inventos-sonados-polemicas-mejores-frases-1159775'>¿Quién fue Steve Jobs?: Apple, inventos más sonados, polémicas y sus mejores frases</a></h4>
+    <a href='https://computerhoy.com/tecnologia/quien-fue-steve-jobs-apple-inventos-sonados-polemicas-mejores-frases-1159775' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/steve-jobs-2881055.jpg' alt='¿Quién fue Steve Jobs?: Apple, inventos más sonados, polémicas y sus mejores frases' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/nave-orion-nasa-ha-roto-record-espacial-52-anos-1162226'>La nave Orión de la NASA ha roto un récord espacial con más de 52 años</a></h4>
+    <a href='https://computerhoy.com/life/nave-orion-nasa-ha-roto-record-espacial-52-anos-1162226' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/nave-orion-nasa-2886654.jpg' alt='La nave Orión de la NASA ha roto un récord espacial con más de 52 años' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/motor/europa-dice-no-suscripciones-tener-potencia-coche-electrico-1162200'>Europa dice no a las suscripciones para tener más potencia en el coche eléctrico</a></h4>
     <a href='https://computerhoy.com/motor/europa-dice-no-suscripciones-tener-potencia-coche-electrico-1162200' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/mercedes-amg-eqs-53-4matic-2462073.jpg' alt='Europa dice no a las suscripciones para tener más potencia en el coche eléctrico' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/portatiles-oferta-durante-cyber-week-pccomponentes-1162053'>5 portátiles en oferta durante la Cyber Week de PcComponentes</a></h4>
     <a href='https://computerhoy.com/tecnologia/portatiles-oferta-durante-cyber-week-pccomponentes-1162053' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/galeria-review-chromebook-spin-513-2462373.jpg' alt='5 portátiles en oferta durante la Cyber Week de PcComponentes' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/algocracia-podria-inteligencia-artificial-sustituir-politicos-1162137'>Algocracia: ¿podría la Inteligencia Artificial sustituir a los políticos?</a></h4>
-    <a href='https://computerhoy.com/life/algocracia-podria-inteligencia-artificial-sustituir-politicos-1162137' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/parlamento-europeo-2670259.jpg' alt='Algocracia: ¿podría la Inteligencia Artificial sustituir a los políticos?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/funcion-desconocida-bizum-podria-ahorrarte-muchos-problemas-1162133'>Esta función desconocida de Bizum podría ahorrarte muchos problemas</a></h4>
-    <a href='https://computerhoy.com/life/funcion-desconocida-bizum-podria-ahorrarte-muchos-problemas-1162133' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/bizum-2833649.jpg' alt='Esta función desconocida de Bizum podría ahorrarte muchos problemas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/memoria-grafica-gpus-next-gen-ha-llegado-gddr6w-doble-ancho-banda-capacidad-1162101'>La memoria gráfica de las GPUs next gen ha llegado, GDDR6W, doble de ancho de banda y capacidad</a></h4>
-    <a href='https://computerhoy.com/tecnologia/memoria-grafica-gpus-next-gen-ha-llegado-gddr6w-doble-ancho-banda-capacidad-1162101' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/nueva-memoria-gddr6w-2886073.jpg' alt='La memoria gráfica de las GPUs next gen ha llegado, GDDR6W, doble de ancho de banda y capacidad' />
     </a>
 </div>
 
