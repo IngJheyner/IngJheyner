@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/desafio-rapido-imagen-esconde-dos-animales-pero-solo-ingeniosos-ven-1162047'>Desafío rápido: esta imagen esconde dos animales pero solo los más ingeniosos los ven</a></h4>
+    <a href='https://computerhoy.com/life/desafio-rapido-imagen-esconde-dos-animales-pero-solo-ingeniosos-ven-1162047' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/desafio-rapido-imagen-esconde-dos-animales-pero-solo-ingeniosos-ven-2885889.jpg' alt='Desafío rápido: esta imagen esconde dos animales pero solo los más ingeniosos los ven' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/google-tables-como-funciona-quien-puede-utilizarlo-1161643'>Qué es Google Tables, cómo funciona y quién puede utilizarlo</a></h4>
+    <a href='https://computerhoy.com/tecnologia/google-tables-como-funciona-quien-puede-utilizarlo-1161643' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/google-tables-como-funciona-quien-puede-utilizarlo-2885535.jpg' alt='Qué es Google Tables, cómo funciona y quién puede utilizarlo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/mejor-jugador-historia-minecraft-bot-creado-inteligencia-artificial-1161677'>El mejor jugador de la historia de Minecraft es un bot creado con Inteligencia Artificial</a></h4>
+    <a href='https://computerhoy.com/tecnologia/mejor-jugador-historia-minecraft-bot-creado-inteligencia-artificial-1161677' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/03/biblioteca-censura-minecraft-1892627.jpg' alt='El mejor jugador de la historia de Minecraft es un bot creado con Inteligencia Artificial' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/mejores-reproductores-instalar-kodi-1162035'>Estos son los mejores reproductores de streaming donde puedes instalar Kodi</a></h4>
+    <a href='https://computerhoy.com/tecnologia/mejores-reproductores-instalar-kodi-1162035' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/mando-distancia-fire-tv-stick-apuntando-tv-2885879.jpg' alt='Estos son los mejores reproductores de streaming donde puedes instalar Kodi' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/22-noticias-tecnologia-comenzar-manana-informado-ultimo-1162029'>22 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
     <a href='https://computerhoy.com/tecnologia/22-noticias-tecnologia-comenzar-manana-informado-ultimo-1162029' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/22-noticias-tecnologia-comenzar-manana-informado-ultimo-2885877.jpg' alt='22 noticias de tecnología para comenzar la mañana informado de lo último' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/mejores-ofertas-semana-cyber-monday-mediamarkt-1161733'>El Cyber Monday se expande una semana en Media Markt: Mejores ofertas en móviles, PC, tablets y más</a></h4>
-    <a href='https://computerhoy.com/tecnologia/mejores-ofertas-semana-cyber-monday-mediamarkt-1161733' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/portada-cyber-monday-2885507.jpg' alt='El Cyber Monday se expande una semana en Media Markt: Mejores ofertas en móviles, PC, tablets y más' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/blockfi-bancarrota-ftx-1161811'>FTX y el efecto dominó: la plataforma de criptomonedas BlockFi también se declara en bancarrota</a></h4>
-    <a href='https://computerhoy.com/tecnologia/blockfi-bancarrota-ftx-1161811' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/ftx-efecto-domino-plataforma-criptomonedas-blockfi-tambien-declara-bancarrota-2885651.jpg' alt='FTX y el efecto dominó: la plataforma de criptomonedas BlockFi también se declara en bancarrota' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/televisor-samsung-4k-qled-q70b-55-pulgadas-mitad-precio-solo-599-euros-1161797'>El televisor Samsung 4K QLED Q70B de 55 pulgadas a mitad de precio, solo 599 euros</a></h4>
-    <a href='https://computerhoy.com/tecnologia/televisor-samsung-4k-qled-q70b-55-pulgadas-mitad-precio-solo-599-euros-1161797' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/televisor-samsung-qled-q70b-55-pulgadas-mitad-precio-solo-599-euros-2885627.jpg' alt='El televisor Samsung 4K QLED Q70B de 55 pulgadas a mitad de precio, solo 599 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/metodo-deep-work-bill-gates-te-hara-triunfar-trabajo-estudios-1161779'>El método Deep Work de Bill Gates que te hará triunfar en tu trabajo o en los estudios</a></h4>
-    <a href='https://computerhoy.com/life/metodo-deep-work-bill-gates-te-hara-triunfar-trabajo-estudios-1161779' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/bill-gates-2829387.jpg' alt='El método Deep Work de Bill Gates que te hará triunfar en tu trabajo o en los estudios' />
     </a>
 </div>
 
