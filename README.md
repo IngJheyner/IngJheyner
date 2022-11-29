@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/mapa-youtubers-mas-ricos-cada-pais-1162410'>El mapa de los YouTubers más ricos de cada país</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/mapa-youtubers-mas-ricos-cada-pais-1162410' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/mapa-youtubers-ricos-cada-pais-2887158.jpg' alt='El mapa de los YouTubers más ricos de cada país' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/entretenimiento/bob-iger-vuelve-ceo-disney-1162400'>Bob Iger vuelve a ser CEO de Disney y eso puede cambiar por completo el futuro de la compañía</a></h4>
     <a href='https://computerhoy.com/entretenimiento/bob-iger-vuelve-ceo-disney-1162400' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/ex-ceo-disney-vaticina-plataformas-streaming-desapareceran-son-malas-noticias-fans-dragones-2807853.jpg' alt='Bob Iger vuelve a ser CEO de Disney y eso puede cambiar por completo el futuro de la compañía' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/piratas-informaticos-aprovechan-reto-viral-tiktok-enganar-miles-usuarios-1162382'>Piratas informáticos aprovechan un reto viral de TikTok para engañar a miles de usuarios</a></h4>
     <a href='https://computerhoy.com/tecnologia/piratas-informaticos-aprovechan-reto-viral-tiktok-enganar-miles-usuarios-1162382' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/piratas-informaticos-aprovechan-reto-viral-tiktok-enganar-millones-usuarios-2887098.jpg' alt='Piratas informáticos aprovechan un reto viral de TikTok para engañar a miles de usuarios' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/elon-musk-levanta-armas-apple-estas-razones-1162364'>Elon Musk se levanta en armas contra Apple por estas razones</a></h4>
-    <a href='https://computerhoy.com/tecnologia/elon-musk-levanta-armas-apple-estas-razones-1162364' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/elon-musk-twitter-2671041.jpg' alt='Elon Musk se levanta en armas contra Apple por estas razones' />
     </a>
 </div>
 
