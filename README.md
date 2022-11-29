@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/mejores-ofertas-semana-cyber-monday-mediamarkt-1161733'>El Cyber Monday se expande una semana en Media Markt: Mejores ofertas en móviles, PC, tablets y más</a></h4>
+    <a href='https://computerhoy.com/tecnologia/mejores-ofertas-semana-cyber-monday-mediamarkt-1161733' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/portada-cyber-monday-2885507.jpg' alt='El Cyber Monday se expande una semana en Media Markt: Mejores ofertas en móviles, PC, tablets y más' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/blockfi-bancarrota-ftx-1161811'>FTX y el efecto dominó: la plataforma de criptomonedas BlockFi también se declara en bancarrota</a></h4>
     <a href='https://computerhoy.com/tecnologia/blockfi-bancarrota-ftx-1161811' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/ftx-efecto-domino-plataforma-criptomonedas-blockfi-tambien-declara-bancarrota-2885651.jpg' alt='FTX y el efecto dominó: la plataforma de criptomonedas BlockFi también se declara en bancarrota' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/life/metodos-mejorar-eficiencia-radiador-pagar-menos-factura-expertos-1161777'>Métodos para mejorar la eficiencia de tu radiador y pagar menos factura, según los expertos</a></h4>
     <a href='https://computerhoy.com/life/metodos-mejorar-eficiencia-radiador-pagar-menos-factura-expertos-1161777' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/radiador-ahorro-2885575.jpg' alt='Métodos para mejorar la eficiencia de tu radiador y pagar menos factura, según los expertos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/3-series-alternativas-a-1899-1161775'>3 series como 1899 por si te has quedado con ganas de resolver más misterios</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/3-series-alternativas-a-1899-1161775' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/3-series-como-1899-te-has-quedado-ganas-resolver-misterios-2885489.jpg' alt='3 series como 1899 por si te has quedado con ganas de resolver más misterios' />
     </a>
 </div>
 
