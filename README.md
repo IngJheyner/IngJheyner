@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/consejos-estas-fiestas-gato-no-destroce-arbol-navidad-1161629'>Consejos para que estas fiestas tu gato no destroce el árbol de Navidad</a></h4>
+    <a href='https://computerhoy.com/life/consejos-estas-fiestas-gato-no-destroce-arbol-navidad-1161629' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/consejos-estas-fiestas-gato-no-destroce-arbol-navidad-2883437.jpg' alt='Consejos para que estas fiestas tu gato no destroce el árbol de Navidad' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/26-noticias-tecnologia-comenzar-manana-informado-ultimo-1162642'>26 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
     <a href='https://computerhoy.com/tecnologia/26-noticias-tecnologia-comenzar-manana-informado-ultimo-1162642' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/26-noticias-tecnologia-comenzar-manana-informado-ultimo-2887406.jpg' alt='26 noticias de tecnología para comenzar la mañana informado de lo último' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/motor/mitica-marca-lancia-renace-fabricar-unicamente-coches-electricos-1162398'>La mítica marca Lancia renace para fabricar únicamente coches eléctricos</a></h4>
     <a href='https://computerhoy.com/motor/mitica-marca-lancia-renace-fabricar-unicamente-coches-electricos-1162398' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/mitica-marca-lancia-renace-fabricar-unicamente-coches-electricos-2887194.jpg' alt='La mítica marca Lancia renace para fabricar únicamente coches eléctricos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/iphone-14-oferta-en-stock-llega-antes-navidad-1162420'>iPhone 14 por 979€ y llega antes de Navidad</a></h4>
-    <a href='https://computerhoy.com/tecnologia/iphone-14-oferta-en-stock-llega-antes-navidad-1162420' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/analisis-iphone-14-2821545.jpg' alt='iPhone 14 por 979€ y llega antes de Navidad' />
     </a>
 </div>
 
