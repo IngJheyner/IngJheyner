@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/iphone-14-oferta-en-stock-llega-antes-navidad-1162420'>iPhone 14 por 979€ y llega antes de Navidad</a></h4>
+    <a href='https://computerhoy.com/tecnologia/iphone-14-oferta-en-stock-llega-antes-navidad-1162420' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/analisis-iphone-14-2821545.jpg' alt='iPhone 14 por 979€ y llega antes de Navidad' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/entretenimiento/mapa-youtubers-mas-ricos-cada-pais-1162410'>El mapa de los YouTubers más ricos de cada país</a></h4>
     <a href='https://computerhoy.com/entretenimiento/mapa-youtubers-mas-ricos-cada-pais-1162410' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/mapa-youtubers-ricos-cada-pais-2887158.jpg' alt='El mapa de los YouTubers más ricos de cada país' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tutoriales/tecnologia/google-flights-trucos-vuelos-baratos'>Qué es y cómo funciona Google Flights, el buscador de vuelos baratos de Google</a></h4>
     <a href='https://computerhoy.com/tutoriales/tecnologia/google-flights-trucos-vuelos-baratos' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/google-flights-2645197.jpg' alt='Qué es y cómo funciona Google Flights, el buscador de vuelos baratos de Google' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/piratas-informaticos-aprovechan-reto-viral-tiktok-enganar-miles-usuarios-1162382'>Piratas informáticos aprovechan un reto viral de TikTok para engañar a miles de usuarios</a></h4>
-    <a href='https://computerhoy.com/tecnologia/piratas-informaticos-aprovechan-reto-viral-tiktok-enganar-miles-usuarios-1162382' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/piratas-informaticos-aprovechan-reto-viral-tiktok-enganar-millones-usuarios-2887098.jpg' alt='Piratas informáticos aprovechan un reto viral de TikTok para engañar a miles de usuarios' />
     </a>
 </div>
 
