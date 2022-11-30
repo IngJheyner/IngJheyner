@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/maleta-lleva-ropa-tambien-ti-modo-minimoto-ultimo-kickstarter-1162720'>La maleta que lleva tu ropa y también a ti a modo de minimoto, lo último en Kickstarter</a></h4>
+    <a href='https://computerhoy.com/life/maleta-lleva-ropa-tambien-ti-modo-minimoto-ultimo-kickstarter-1162720' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/maleta-moto-2887670.jpg' alt='La maleta que lleva tu ropa y también a ti a modo de minimoto, lo último en Kickstarter' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/puedes-comprobar-cobertura-real-movil-android-iphone-sencillos-pasos-1162688'>Así puedes comprobar la cobertura real de tu móvil Android o iPhone con unos sencillos pasos</a></h4>
     <a href='https://computerhoy.com/tecnologia/puedes-comprobar-cobertura-real-movil-android-iphone-sencillos-pasos-1162688' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/como-comprobar-cobertura-real-movil-android-iphone-rapidamente-2887536.jpg' alt='Así puedes comprobar la cobertura real de tu móvil Android o iPhone con unos sencillos pasos' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/motor/paso-vuelos-limpios-rolls-royce-prueba-motor-avion-funciona-hidrogeno-1162662'>Un paso más hacia los vuelos limpios: Rolls-Royce prueba un motor de avión que funciona con hidrógeno</a></h4>
     <a href='https://computerhoy.com/motor/paso-vuelos-limpios-rolls-royce-prueba-motor-avion-funciona-hidrogeno-1162662' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/hidrogeno-no-solo-vale-coches-tambien-llega-aviones-primer-motor-rolls-royce-2887452.jpg' alt='Un paso más hacia los vuelos limpios: Rolls-Royce prueba un motor de avión que funciona con hidrógeno' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/desafio-rapido-solo-01-puede-ver-todos-numeros-imagen-1162680'>Desafío rápido: solo el 0,1% puede ver todos los números de esta imagen</a></h4>
-    <a href='https://computerhoy.com/life/desafio-rapido-solo-01-puede-ver-todos-numeros-imagen-1162680' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/desafio-rapido-solo-01-puede-ver-todos-numeros-imagen-2887418.jpg' alt='Desafío rápido: solo el 0,1% puede ver todos los números de esta imagen' />
     </a>
 </div>
 
