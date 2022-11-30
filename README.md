@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/pisos-20000-euros-nueva-web-hacienda-dedicada-subasta-inmuebles-1162764'>Pisos por 20.000 euros: así es la nueva web de Hacienda dedicada a la subasta de inmuebles</a></h4>
+    <a href='https://computerhoy.com/life/pisos-20000-euros-nueva-web-hacienda-dedicada-subasta-inmuebles-1162764' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/pisos-20000-euros-nueva-web-hacienda-dedicada-subasta-inmuebles-2887860.jpg' alt='Pisos por 20.000 euros: así es la nueva web de Hacienda dedicada a la subasta de inmuebles' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/enchufe-inteligente-amazon-smart-plug-chollo-oferta-1162744'>Amazon lanza su chollo tras el Black Friday: este enchufe inteligente cuesta menos de 7€</a></h4>
+    <a href='https://computerhoy.com/tecnologia/enchufe-inteligente-amazon-smart-plug-chollo-oferta-1162744' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/amazon-smart-plug-2887656.jpg' alt='Amazon lanza su chollo tras el Black Friday: este enchufe inteligente cuesta menos de 7€' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/maleta-lleva-ropa-tambien-ti-modo-minimoto-ultimo-kickstarter-1162720'>La maleta que lleva tu ropa y también a ti a modo de minimoto, lo último en Kickstarter</a></h4>
     <a href='https://computerhoy.com/life/maleta-lleva-ropa-tambien-ti-modo-minimoto-ultimo-kickstarter-1162720' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/maleta-moto-2887670.jpg' alt='La maleta que lleva tu ropa y también a ti a modo de minimoto, lo último en Kickstarter' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/openai-ya-inteligencia-artificial-capaz-escribir-poemas-rimas-1162692'>OpenAI ya es una Inteligencia Artificial capaz de escribir poemas y rimas</a></h4>
     <a href='https://computerhoy.com/tecnologia/openai-ya-inteligencia-artificial-capaz-escribir-poemas-rimas-1162692' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/open-ai-2887488.jpg' alt='OpenAI ya es una Inteligencia Artificial capaz de escribir poemas y rimas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/nueva-serie-netflix-ha-destrozado-record-tenia-stranger-things-2022-1162684'>Una nueva serie de Netflix ha destrozado el récord que tenía Stranger Things este 2022</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/nueva-serie-netflix-ha-destrozado-record-tenia-stranger-things-2022-1162684' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/wednesday-miercoles-2787373.jpg' alt='Una nueva serie de Netflix ha destrozado el récord que tenía Stranger Things este 2022' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/paso-vuelos-limpios-rolls-royce-prueba-motor-avion-funciona-hidrogeno-1162662'>Un paso más hacia los vuelos limpios: Rolls-Royce prueba un motor de avión que funciona con hidrógeno</a></h4>
-    <a href='https://computerhoy.com/motor/paso-vuelos-limpios-rolls-royce-prueba-motor-avion-funciona-hidrogeno-1162662' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/hidrogeno-no-solo-vale-coches-tambien-llega-aviones-primer-motor-rolls-royce-2887452.jpg' alt='Un paso más hacia los vuelos limpios: Rolls-Royce prueba un motor de avión que funciona con hidrógeno' />
     </a>
 </div>
 
