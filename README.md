@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/motor/mitica-marca-lancia-renace-fabricar-unicamente-coches-electricos-1162398'>La mítica marca Lancia renace para fabricar únicamente coches eléctricos</a></h4>
+    <a href='https://computerhoy.com/motor/mitica-marca-lancia-renace-fabricar-unicamente-coches-electricos-1162398' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/mitica-marca-lancia-renace-fabricar-unicamente-coches-electricos-2887194.jpg' alt='La mítica marca Lancia renace para fabricar únicamente coches eléctricos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/iphone-14-oferta-en-stock-llega-antes-navidad-1162420'>iPhone 14 por 979€ y llega antes de Navidad</a></h4>
     <a href='https://computerhoy.com/tecnologia/iphone-14-oferta-en-stock-llega-antes-navidad-1162420' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/analisis-iphone-14-2821545.jpg' alt='iPhone 14 por 979€ y llega antes de Navidad' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/movistar-sube-precios-quedara-tarifa-aplicar-nuevos-precios-1162354'>Movistar sube precios: así quedará tu tarifa tras aplicar los nuevos precios</a></h4>
     <a href='https://computerhoy.com/tecnologia/movistar-sube-precios-quedara-tarifa-aplicar-nuevos-precios-1162354' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/entrada-tienda-movistar-2872809.jpg' alt='Movistar sube precios: así quedará tu tarifa tras aplicar los nuevos precios' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/google-flights-trucos-vuelos-baratos'>Qué es y cómo funciona Google Flights, el buscador de vuelos baratos de Google</a></h4>
-    <a href='https://computerhoy.com/tutoriales/tecnologia/google-flights-trucos-vuelos-baratos' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/google-flights-2645197.jpg' alt='Qué es y cómo funciona Google Flights, el buscador de vuelos baratos de Google' />
     </a>
 </div>
 
