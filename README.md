@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/desafio-rapido-solo-01-puede-ver-todos-numeros-imagen-1162680'>Desafío rápido: solo el 0,1% puede ver todos los números de esta imagen</a></h4>
+    <a href='https://computerhoy.com/life/desafio-rapido-solo-01-puede-ver-todos-numeros-imagen-1162680' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/desafio-rapido-solo-01-puede-ver-todos-numeros-imagen-2887418.jpg' alt='Desafío rápido: solo el 0,1% puede ver todos los números de esta imagen' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/iphone-low-cost-300-euros-menos-oferta-1162360'>Este iPhone low cost cae hasta 300€ en la semana del Cyber Monday</a></h4>
+    <a href='https://computerhoy.com/tecnologia/iphone-low-cost-300-euros-menos-oferta-1162360' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/iphone-11-2887024.jpg' alt='Este iPhone low cost cae hasta 300€ en la semana del Cyber Monday' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/puedes-comprobar-salud-bateria-portatil-windows-1162337'>Así puedes comprobar la salud de la batería de tu portátil Windows</a></h4>
+    <a href='https://computerhoy.com/tutoriales/puedes-comprobar-salud-bateria-portatil-windows-1162337' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/03/trucos-bateria-portatil-2266135.jpg' alt='Así puedes comprobar la salud de la batería de tu portátil Windows' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/consejos-estas-fiestas-gato-no-destroce-arbol-navidad-1161629'>Consejos para que estas fiestas tu gato no destroce el árbol de Navidad</a></h4>
     <a href='https://computerhoy.com/life/consejos-estas-fiestas-gato-no-destroce-arbol-navidad-1161629' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/consejos-estas-fiestas-gato-no-destroce-arbol-navidad-2883437.jpg' alt='Consejos para que estas fiestas tu gato no destroce el árbol de Navidad' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/26-noticias-tecnologia-comenzar-manana-informado-ultimo-1162642'>26 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
     <a href='https://computerhoy.com/tecnologia/26-noticias-tecnologia-comenzar-manana-informado-ultimo-1162642' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/26-noticias-tecnologia-comenzar-manana-informado-ultimo-2887406.jpg' alt='26 noticias de tecnología para comenzar la mañana informado de lo último' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/listas/tecnologia/freidoras-sin-aceite-cual-comprar-509813'>Las mejores freidoras sin aceite que puedes comprar en 2022</a></h4>
-    <a href='https://computerhoy.com/listas/tecnologia/freidoras-sin-aceite-cual-comprar-509813' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/xiaomi-mi-smart-air-fryer-2411673.jpg' alt='Las mejores freidoras sin aceite que puedes comprar en 2022' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/estacion-espacial-internacional-volar-ras-suelo-27600-km-h-video-1162636'>Así veríamos la Estación Espacial Internacional si volase a ras del suelo, a 27.600 Km/h (vídeo)</a></h4>
-    <a href='https://computerhoy.com/life/estacion-espacial-internacional-volar-ras-suelo-27600-km-h-video-1162636' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/veriamos-estacion-espacial-internacional-volase-ras-suelo-27000-km-h-video-2887402.jpg' alt='Así veríamos la Estación Espacial Internacional si volase a ras del suelo, a 27.600 Km/h (vídeo)' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/mitica-marca-lancia-renace-fabricar-unicamente-coches-electricos-1162398'>La mítica marca Lancia renace para fabricar únicamente coches eléctricos</a></h4>
-    <a href='https://computerhoy.com/motor/mitica-marca-lancia-renace-fabricar-unicamente-coches-electricos-1162398' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/mitica-marca-lancia-renace-fabricar-unicamente-coches-electricos-2887194.jpg' alt='La mítica marca Lancia renace para fabricar únicamente coches eléctricos' />
     </a>
 </div>
 
