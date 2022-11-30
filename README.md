@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/26-noticias-tecnologia-comenzar-manana-informado-ultimo-1162642'>26 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
+    <a href='https://computerhoy.com/tecnologia/26-noticias-tecnologia-comenzar-manana-informado-ultimo-1162642' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/26-noticias-tecnologia-comenzar-manana-informado-ultimo-2887406.jpg' alt='26 noticias de tecnología para comenzar la mañana informado de lo último' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/listas/tecnologia/freidoras-sin-aceite-cual-comprar-509813'>Las mejores freidoras sin aceite que puedes comprar en 2022</a></h4>
+    <a href='https://computerhoy.com/listas/tecnologia/freidoras-sin-aceite-cual-comprar-509813' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/xiaomi-mi-smart-air-fryer-2411673.jpg' alt='Las mejores freidoras sin aceite que puedes comprar en 2022' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/estacion-espacial-internacional-volar-ras-suelo-27600-km-h-video-1162636'>Así veríamos la Estación Espacial Internacional si volase a ras del suelo, a 27.600 Km/h (vídeo)</a></h4>
     <a href='https://computerhoy.com/life/estacion-espacial-internacional-volar-ras-suelo-27600-km-h-video-1162636' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/veriamos-estacion-espacial-internacional-volase-ras-suelo-27000-km-h-video-2887402.jpg' alt='Así veríamos la Estación Espacial Internacional si volase a ras del suelo, a 27.600 Km/h (vídeo)' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/iphone-14-oferta-en-stock-llega-antes-navidad-1162420'>iPhone 14 por 979€ y llega antes de Navidad</a></h4>
     <a href='https://computerhoy.com/tecnologia/iphone-14-oferta-en-stock-llega-antes-navidad-1162420' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/analisis-iphone-14-2821545.jpg' alt='iPhone 14 por 979€ y llega antes de Navidad' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/mapa-youtubers-mas-ricos-cada-pais-1162410'>El mapa de los YouTubers más ricos de cada país</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/mapa-youtubers-mas-ricos-cada-pais-1162410' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/mapa-youtubers-ricos-cada-pais-2887158.jpg' alt='El mapa de los YouTubers más ricos de cada país' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/bob-iger-vuelve-ceo-disney-1162400'>Bob Iger vuelve a ser CEO de Disney y eso puede cambiar por completo el futuro de la compañía</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/bob-iger-vuelve-ceo-disney-1162400' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/ex-ceo-disney-vaticina-plataformas-streaming-desapareceran-son-malas-noticias-fans-dragones-2807853.jpg' alt='Bob Iger vuelve a ser CEO de Disney y eso puede cambiar por completo el futuro de la compañía' />
     </a>
 </div>
 
