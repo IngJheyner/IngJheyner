@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/puedes-comprobar-cobertura-real-movil-android-iphone-sencillos-pasos-1162688'>Así puedes comprobar la cobertura real de tu móvil Android o iPhone con unos sencillos pasos</a></h4>
+    <a href='https://computerhoy.com/tecnologia/puedes-comprobar-cobertura-real-movil-android-iphone-sencillos-pasos-1162688' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/como-comprobar-cobertura-real-movil-android-iphone-rapidamente-2887536.jpg' alt='Así puedes comprobar la cobertura real de tu móvil Android o iPhone con unos sencillos pasos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/openai-ya-inteligencia-artificial-capaz-escribir-poemas-rimas-1162692'>OpenAI ya es una Inteligencia Artificial capaz de escribir poemas y rimas</a></h4>
+    <a href='https://computerhoy.com/tecnologia/openai-ya-inteligencia-artificial-capaz-escribir-poemas-rimas-1162692' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/open-ai-2887488.jpg' alt='OpenAI ya es una Inteligencia Artificial capaz de escribir poemas y rimas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/entretenimiento/nueva-serie-netflix-ha-destrozado-record-tenia-stranger-things-2022-1162684'>Una nueva serie de Netflix ha destrozado el récord que tenía Stranger Things este 2022</a></h4>
     <a href='https://computerhoy.com/entretenimiento/nueva-serie-netflix-ha-destrozado-record-tenia-stranger-things-2022-1162684' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/wednesday-miercoles-2787373.jpg' alt='Una nueva serie de Netflix ha destrozado el récord que tenía Stranger Things este 2022' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/life/desafio-rapido-solo-01-puede-ver-todos-numeros-imagen-1162680'>Desafío rápido: solo el 0,1% puede ver todos los números de esta imagen</a></h4>
     <a href='https://computerhoy.com/life/desafio-rapido-solo-01-puede-ver-todos-numeros-imagen-1162680' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/desafio-rapido-solo-01-puede-ver-todos-numeros-imagen-2887418.jpg' alt='Desafío rápido: solo el 0,1% puede ver todos los números de esta imagen' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/iphone-low-cost-300-euros-menos-oferta-1162360'>Este iPhone low cost cae hasta 300€ en la semana del Cyber Monday</a></h4>
-    <a href='https://computerhoy.com/tecnologia/iphone-low-cost-300-euros-menos-oferta-1162360' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/iphone-11-2887024.jpg' alt='Este iPhone low cost cae hasta 300€ en la semana del Cyber Monday' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/puedes-comprobar-salud-bateria-portatil-windows-1162337'>Así puedes comprobar la salud de la batería de tu portátil Windows</a></h4>
-    <a href='https://computerhoy.com/tutoriales/puedes-comprobar-salud-bateria-portatil-windows-1162337' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/03/trucos-bateria-portatil-2266135.jpg' alt='Así puedes comprobar la salud de la batería de tu portátil Windows' />
     </a>
 </div>
 
