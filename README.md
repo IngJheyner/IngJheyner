@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/nueva-serie-netflix-ha-destrozado-record-tenia-stranger-things-2022-1162684'>Una nueva serie de Netflix ha destrozado el récord que tenía Stranger Things este 2022</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/nueva-serie-netflix-ha-destrozado-record-tenia-stranger-things-2022-1162684' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/wednesday-miercoles-2787373.jpg' alt='Una nueva serie de Netflix ha destrozado el récord que tenía Stranger Things este 2022' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/motor/paso-vuelos-limpios-rolls-royce-prueba-motor-avion-funciona-hidrogeno-1162662'>Un paso más hacia los vuelos limpios: Rolls-Royce prueba un motor de avión que funciona con hidrógeno</a></h4>
+    <a href='https://computerhoy.com/motor/paso-vuelos-limpios-rolls-royce-prueba-motor-avion-funciona-hidrogeno-1162662' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/hidrogeno-no-solo-vale-coches-tambien-llega-aviones-primer-motor-rolls-royce-2887452.jpg' alt='Un paso más hacia los vuelos limpios: Rolls-Royce prueba un motor de avión que funciona con hidrógeno' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/desafio-rapido-solo-01-puede-ver-todos-numeros-imagen-1162680'>Desafío rápido: solo el 0,1% puede ver todos los números de esta imagen</a></h4>
     <a href='https://computerhoy.com/life/desafio-rapido-solo-01-puede-ver-todos-numeros-imagen-1162680' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/desafio-rapido-solo-01-puede-ver-todos-numeros-imagen-2887418.jpg' alt='Desafío rápido: solo el 0,1% puede ver todos los números de esta imagen' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tutoriales/puedes-comprobar-salud-bateria-portatil-windows-1162337'>Así puedes comprobar la salud de la batería de tu portátil Windows</a></h4>
     <a href='https://computerhoy.com/tutoriales/puedes-comprobar-salud-bateria-portatil-windows-1162337' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/03/trucos-bateria-portatil-2266135.jpg' alt='Así puedes comprobar la salud de la batería de tu portátil Windows' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/consejos-estas-fiestas-gato-no-destroce-arbol-navidad-1161629'>Consejos para que estas fiestas tu gato no destroce el árbol de Navidad</a></h4>
-    <a href='https://computerhoy.com/life/consejos-estas-fiestas-gato-no-destroce-arbol-navidad-1161629' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/consejos-estas-fiestas-gato-no-destroce-arbol-navidad-2883437.jpg' alt='Consejos para que estas fiestas tu gato no destroce el árbol de Navidad' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/26-noticias-tecnologia-comenzar-manana-informado-ultimo-1162642'>26 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
-    <a href='https://computerhoy.com/tecnologia/26-noticias-tecnologia-comenzar-manana-informado-ultimo-1162642' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/26-noticias-tecnologia-comenzar-manana-informado-ultimo-2887406.jpg' alt='26 noticias de tecnología para comenzar la mañana informado de lo último' />
     </a>
 </div>
 
