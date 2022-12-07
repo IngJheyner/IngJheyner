@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/influencio-steve-jobs-creacion-logo-apple-1166270'>Así influenció Steve Jobs en la creación del logo de Apple</a></h4>
+    <a href='https://computerhoy.com/apple/influencio-steve-jobs-creacion-logo-apple-1166270' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/apple-steve-jobs-2894582.jpg' alt='Así influenció Steve Jobs en la creación del logo de Apple' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/aplicaciones/fin-llegan-whatsapp-avatares-estilo-facebook-1166220'>Por fin llegan a WhatsApp los avatares al estilo Facebook</a></h4>
     <a href='https://computerhoy.com/aplicaciones/fin-llegan-whatsapp-avatares-estilo-facebook-1166220' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/avatar-whatsapp-2894468.jpg' alt='Por fin llegan a WhatsApp los avatares al estilo Facebook' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/ciencia/diferencia-ingeniero-datos-cientifico-datos-1166174'>En qué se diferencia un ingeniero de datos y un científico de datos</a></h4>
     <a href='https://computerhoy.com/ciencia/diferencia-ingeniero-datos-cientifico-datos-1166174' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/10/programadores-ingenieros-companeros-trabajo-2118897.jpg' alt='En qué se diferencia un ingeniero de datos y un científico de datos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/primera-imagen-smartthings-station-samsung-cargas-inalambricas-inteligentes-movil-1166166'>Primera imagen de la SmartThings Station de Samsung para cargas inalámbricas e inteligentes del móvil</a></h4>
-    <a href='https://computerhoy.com/tecnologia/primera-imagen-smartthings-station-samsung-cargas-inalambricas-inteligentes-movil-1166166' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/primera-imagen-smartthings-station-samsung-cargas-inalambricas-inteligentes-movil-2894428.jpg' alt='Primera imagen de la SmartThings Station de Samsung para cargas inalámbricas e inteligentes del móvil' />
     </a>
 </div>
 
