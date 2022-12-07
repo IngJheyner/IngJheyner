@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/pisos-20000-euros-nueva-web-hacienda-dedicada-subasta-inmuebles-1162764'>Pisos por 20.000 euros: así es la nueva web de Hacienda dedicada a la subasta de inmuebles</a></h4>
-    <a href='https://computerhoy.com/life/pisos-20000-euros-nueva-web-hacienda-dedicada-subasta-inmuebles-1162764' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/pisos-20000-euros-nueva-web-hacienda-dedicada-subasta-inmuebles-2887860.jpg' alt='Pisos por 20.000 euros: así es la nueva web de Hacienda dedicada a la subasta de inmuebles' />
+    <h4><a href='https://computerhoy.com/life/desafio-rapido-test-personalidad-animal-1166150'>Desafío rápido: el animal que veas revelará un rasgo importante de tu personalidad</a></h4>
+    <a href='https://computerhoy.com/life/desafio-rapido-test-personalidad-animal-1166150' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/desafio-rapido-animal-veas-revelara-rasgo-importante-personalidad-2894292.jpg' alt='Desafío rápido: el animal que veas revelará un rasgo importante de tu personalidad' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/enchufe-inteligente-amazon-smart-plug-chollo-oferta-1162744'>Amazon lanza su chollo tras el Black Friday: este enchufe inteligente cuesta menos de 7€</a></h4>
-    <a href='https://computerhoy.com/tecnologia/enchufe-inteligente-amazon-smart-plug-chollo-oferta-1162744' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/amazon-smart-plug-2887656.jpg' alt='Amazon lanza su chollo tras el Black Friday: este enchufe inteligente cuesta menos de 7€' />
+    <h4><a href='https://computerhoy.com/google/estas-han-sido-tendencias-busqueda-espanoles-google-2022-1165852'>Estas han sido las tendencias de búsqueda de los españoles en Google este 2022</a></h4>
+    <a href='https://computerhoy.com/google/estas-han-sido-tendencias-busqueda-espanoles-google-2022-1165852' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/estas-han-sido-tendencias-busqueda-google-espana-2022-2894288.jpg' alt='Estas han sido las tendencias de búsqueda de los españoles en Google este 2022' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/maleta-lleva-ropa-tambien-ti-modo-minimoto-ultimo-kickstarter-1162720'>La maleta que lleva tu ropa y también a ti a modo de minimoto, lo último en Kickstarter</a></h4>
-    <a href='https://computerhoy.com/life/maleta-lleva-ropa-tambien-ti-modo-minimoto-ultimo-kickstarter-1162720' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/maleta-moto-2887670.jpg' alt='La maleta que lleva tu ropa y también a ti a modo de minimoto, lo último en Kickstarter' />
+    <h4><a href='https://computerhoy.com/pc/portatil-ultraligero-asus-vivobook-15-oled-oferta-300-euros-descuento-1165744'>Ultraligero y con la mejor pantalla OLED: este portátil ASUS VivoBook 15 OLED es un chollo con 300€ de descuento</a></h4>
+    <a href='https://computerhoy.com/pc/portatil-ultraligero-asus-vivobook-15-oled-oferta-300-euros-descuento-1165744' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/asus-vivobook-15-oled-2893776.jpg' alt='Ultraligero y con la mejor pantalla OLED: este portátil ASUS VivoBook 15 OLED es un chollo con 300€ de descuento' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/puedes-comprobar-cobertura-real-movil-android-iphone-sencillos-pasos-1162688'>Así puedes comprobar la cobertura real de tu móvil Android o iPhone con unos sencillos pasos</a></h4>
-    <a href='https://computerhoy.com/tecnologia/puedes-comprobar-cobertura-real-movil-android-iphone-sencillos-pasos-1162688' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/como-comprobar-cobertura-real-movil-android-iphone-rapidamente-2887536.jpg' alt='Así puedes comprobar la cobertura real de tu móvil Android o iPhone con unos sencillos pasos' />
+    <h4><a href='https://computerhoy.com/tecnologia/21-noticias-tecnologia-comenzar-manana-informado-ultimo-1166102'>21 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
+    <a href='https://computerhoy.com/tecnologia/21-noticias-tecnologia-comenzar-manana-informado-ultimo-1166102' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/21-noticias-tecnologia-comenzar-manana-informado-ultimo-2894268.jpg' alt='21 noticias de tecnología para comenzar la mañana informado de lo último' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/openai-ya-inteligencia-artificial-capaz-escribir-poemas-rimas-1162692'>OpenAI ya es una Inteligencia Artificial capaz de escribir poemas y rimas</a></h4>
-    <a href='https://computerhoy.com/tecnologia/openai-ya-inteligencia-artificial-capaz-escribir-poemas-rimas-1162692' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/open-ai-2887488.jpg' alt='OpenAI ya es una Inteligencia Artificial capaz de escribir poemas y rimas' />
+    <h4><a href='https://computerhoy.com/gaming/navidad-2022-regalos-ideales-gamers-1165828'>Navidad 2022: regalos ideales para gamers</a></h4>
+    <a href='https://computerhoy.com/gaming/navidad-2022-regalos-ideales-gamers-1165828' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/ilustracion-mano-sujetando-mando-consola-2893992.jpg' alt='Navidad 2022: regalos ideales para gamers' />
     </a>
 </div>
 
