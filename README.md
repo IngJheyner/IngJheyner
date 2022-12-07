@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/espacio/spacex-amplia-negocio-starshield-servicio-parecido-starlink-gobiernos-seguridad-nacional-1166386'>SpaceX amplía el negocio con Starshield, un servicio parecido a Starlink para los gobiernos y la seguridad nacional</a></h4>
+    <a href='https://computerhoy.com/espacio/spacex-amplia-negocio-starshield-servicio-parecido-starlink-gobiernos-seguridad-nacional-1166386' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/spacex-amplia-negocio-starshield-servicio-parecido-starlink-gobiernos-seguridad-nacional-2894934.jpg' alt='SpaceX amplía el negocio con Starshield, un servicio parecido a Starlink para los gobiernos y la seguridad nacional' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/gaming/intel-duplica-rendimiento-videojuegos-antiguos-nuevos-drivers-somos-betatesters-1166358'>Intel duplica el rendimiento en videojuegos antiguos con unos nuevos drivers, ¿somos betatesters?</a></h4>
+    <a href='https://computerhoy.com/gaming/intel-duplica-rendimiento-videojuegos-antiguos-nuevos-drivers-somos-betatesters-1166358' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/tarjetas-graficas-intel-arc-parece-retrasan-nuevo-julio-agosto-motivo-2696141.jpg' alt='Intel duplica el rendimiento en videojuegos antiguos con unos nuevos drivers, ¿somos betatesters?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apple/apple-car-no-llegara-2026-no-cumplira-gran-promesa-autonoma-1166340'>El Apple Car no llegará hasta 2026 y no cumplirá con su gran promesa autónoma</a></h4>
     <a href='https://computerhoy.com/apple/apple-car-no-llegara-2026-no-cumplira-gran-promesa-autonoma-1166340' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/apple-car-2712511.jpg' alt='El Apple Car no llegará hasta 2026 y no cumplirá con su gran promesa autónoma' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/apple/influencio-steve-jobs-creacion-logo-apple-1166270'>Así influenció Steve Jobs en la creación del logo de Apple</a></h4>
     <a href='https://computerhoy.com/apple/influencio-steve-jobs-creacion-logo-apple-1166270' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/apple-steve-jobs-2894582.jpg' alt='Así influenció Steve Jobs en la creación del logo de Apple' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/aplicaciones/fin-llegan-whatsapp-avatares-estilo-facebook-1166220'>Por fin llegan a WhatsApp los avatares al estilo Facebook</a></h4>
-    <a href='https://computerhoy.com/aplicaciones/fin-llegan-whatsapp-avatares-estilo-facebook-1166220' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/avatar-whatsapp-2894468.jpg' alt='Por fin llegan a WhatsApp los avatares al estilo Facebook' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/google-pixel-7-pixel-buds-a-oferta-1166200'>Google Pixel 7, uno de los mejores Android del año ahora trae de regalo estos auriculares inteligentes con casi 100€ de descuento</a></h4>
-    <a href='https://computerhoy.com/moviles/google-pixel-7-pixel-buds-a-oferta-1166200' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/google-pixel-7-google-pixel-buds-2894432.jpg' alt='Google Pixel 7, uno de los mejores Android del año ahora trae de regalo estos auriculares inteligentes con casi 100€ de descuento' />
     </a>
 </div>
 
