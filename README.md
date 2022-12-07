@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/motor/taxis-autonomos-uber-ya-recorren-calles-vegas-1166306'>Taxis autónomos de Uber ya recorren las calles de las Vegas</a></h4>
+    <a href='https://computerhoy.com/motor/taxis-autonomos-uber-ya-recorren-calles-vegas-1166306' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/taxis-autonomos-uber-ya-recorren-calles-vegas-2894664.jpg' alt='Taxis autónomos de Uber ya recorren las calles de las Vegas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apple/influencio-steve-jobs-creacion-logo-apple-1166270'>Así influenció Steve Jobs en la creación del logo de Apple</a></h4>
     <a href='https://computerhoy.com/apple/influencio-steve-jobs-creacion-logo-apple-1166270' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/apple-steve-jobs-2894582.jpg' alt='Así influenció Steve Jobs en la creación del logo de Apple' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/internet/sucederia-impacta-meteorito-ciudad-web-puedes-simularlo-liberar-tension-1166204'>¿Qué sucedería si impacta un meteorito en tu ciudad? Con esta web puedes simularlo y liberar tensión</a></h4>
     <a href='https://computerhoy.com/internet/sucederia-impacta-meteorito-ciudad-web-puedes-simularlo-liberar-tension-1166204' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/sucederia-impacta-meteorito-ciudad-web-puedes-simularlo-2894434.jpg' alt='¿Qué sucedería si impacta un meteorito en tu ciudad? Con esta web puedes simularlo y liberar tensión' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/diferencia-ingeniero-datos-cientifico-datos-1166174'>En qué se diferencia un ingeniero de datos y un científico de datos</a></h4>
-    <a href='https://computerhoy.com/ciencia/diferencia-ingeniero-datos-cientifico-datos-1166174' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/10/programadores-ingenieros-companeros-trabajo-2118897.jpg' alt='En qué se diferencia un ingeniero de datos y un científico de datos' />
     </a>
 </div>
 
