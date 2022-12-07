@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/streaming/adelantate-navidad-estas-11-peliculas-netflix-hbo-max-disney-filmin-1166368'>Adelántate a la Navidad con estas 11 películas en Netflix, HBO Max, Disney+ y Filmin</a></h4>
+    <a href='https://computerhoy.com/streaming/adelantate-navidad-estas-11-peliculas-netflix-hbo-max-disney-filmin-1166368' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/12/leyenda-klaus-2163705.jpg' alt='Adelántate a la Navidad con estas 11 películas en Netflix, HBO Max, Disney+ y Filmin' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/hogar/purificadores-aire-invierno-mejores-modelos-1166216'>Purificadores de aire en invierno: por qué utilizarlos más que nunca y mejores modelos</a></h4>
+    <a href='https://computerhoy.com/hogar/purificadores-aire-invierno-mejores-modelos-1166216' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/purificador-aire-xiaomi-smart-air-purifier-4-lite-2894624.jpg' alt='Purificadores de aire en invierno: por qué utilizarlos más que nunca y mejores modelos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/espacio/spacex-amplia-negocio-starshield-servicio-parecido-starlink-gobiernos-seguridad-nacional-1166386'>SpaceX amplía el negocio con Starshield, un servicio parecido a Starlink para los gobiernos y la seguridad nacional</a></h4>
     <a href='https://computerhoy.com/espacio/spacex-amplia-negocio-starshield-servicio-parecido-starlink-gobiernos-seguridad-nacional-1166386' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/spacex-amplia-negocio-starshield-servicio-parecido-starlink-gobiernos-seguridad-nacional-2894934.jpg' alt='SpaceX amplía el negocio con Starshield, un servicio parecido a Starlink para los gobiernos y la seguridad nacional' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/apple/apple-car-no-llegara-2026-no-cumplira-gran-promesa-autonoma-1166340'>El Apple Car no llegará hasta 2026 y no cumplirá con su gran promesa autónoma</a></h4>
     <a href='https://computerhoy.com/apple/apple-car-no-llegara-2026-no-cumplira-gran-promesa-autonoma-1166340' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/apple-car-2712511.jpg' alt='El Apple Car no llegará hasta 2026 y no cumplirá con su gran promesa autónoma' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/taxis-autonomos-uber-ya-recorren-calles-vegas-1166306'>Taxis autónomos de Uber ya recorren las calles de las Vegas</a></h4>
-    <a href='https://computerhoy.com/motor/taxis-autonomos-uber-ya-recorren-calles-vegas-1166306' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/taxis-autonomos-uber-ya-recorren-calles-vegas-2894664.jpg' alt='Taxis autónomos de Uber ya recorren las calles de las Vegas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/influencio-steve-jobs-creacion-logo-apple-1166270'>Así influenció Steve Jobs en la creación del logo de Apple</a></h4>
-    <a href='https://computerhoy.com/apple/influencio-steve-jobs-creacion-logo-apple-1166270' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/apple-steve-jobs-2894582.jpg' alt='Así influenció Steve Jobs en la creación del logo de Apple' />
     </a>
 </div>
 
