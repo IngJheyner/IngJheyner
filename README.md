@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/streaming/netflix-emitir-deporte-futbol-1166462'>Netflix descarta emitir un contenido que ya ofrecen Prime Video y Apple TV+, porque 'no da dinero'</a></h4>
+    <a href='https://computerhoy.com/streaming/netflix-emitir-deporte-futbol-1166462' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/champions-netflix-liga-disney-apple-tv-marca-camino-retransmitiendo-partidos-beisbol-directo-2671113.jpg' alt='Netflix descarta emitir un contenido que ya ofrecen Prime Video y Apple TV+, porque 'no da dinero'' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/dinero-vas-gastarte-regalos-estas-navidades-ocu-1166450'>Este es el dinero que vas a gastarte en regalos estas Navidades según la OCU</a></h4>
     <a href='https://computerhoy.com/life/dinero-vas-gastarte-regalos-estas-navidades-ocu-1166450' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/ir-compras-2895142.jpg' alt='Este es el dinero que vas a gastarte en regalos estas Navidades según la OCU' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/streaming/adelantate-navidad-estas-11-peliculas-netflix-hbo-max-disney-filmin-1166368'>Adelántate a la Navidad con estas 11 películas en Netflix, HBO Max, Disney+ y Filmin</a></h4>
     <a href='https://computerhoy.com/streaming/adelantate-navidad-estas-11-peliculas-netflix-hbo-max-disney-filmin-1166368' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/12/leyenda-klaus-2163705.jpg' alt='Adelántate a la Navidad con estas 11 películas en Netflix, HBO Max, Disney+ y Filmin' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/hogar/purificadores-aire-invierno-mejores-modelos-1166216'>Purificadores de aire en invierno: por qué utilizarlos más que nunca y mejores modelos</a></h4>
-    <a href='https://computerhoy.com/hogar/purificadores-aire-invierno-mejores-modelos-1166216' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/purificador-aire-xiaomi-smart-air-purifier-4-lite-2894624.jpg' alt='Purificadores de aire en invierno: por qué utilizarlos más que nunca y mejores modelos' />
     </a>
 </div>
 
