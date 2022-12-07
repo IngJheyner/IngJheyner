@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/internet/sucederia-impacta-meteorito-ciudad-web-puedes-simularlo-liberar-tension-1166204'>¿Qué sucedería si impacta un meteorito en tu ciudad? Con esta web puedes simularlo y liberar tensión</a></h4>
+    <a href='https://computerhoy.com/internet/sucederia-impacta-meteorito-ciudad-web-puedes-simularlo-liberar-tension-1166204' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/sucederia-impacta-meteorito-ciudad-web-puedes-simularlo-2894434.jpg' alt='¿Qué sucedería si impacta un meteorito en tu ciudad? Con esta web puedes simularlo y liberar tensión' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/diferencia-ingeniero-datos-cientifico-datos-1166174'>En qué se diferencia un ingeniero de datos y un científico de datos</a></h4>
+    <a href='https://computerhoy.com/ciencia/diferencia-ingeniero-datos-cientifico-datos-1166174' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/10/programadores-ingenieros-companeros-trabajo-2118897.jpg' alt='En qué se diferencia un ingeniero de datos y un científico de datos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/primera-imagen-smartthings-station-samsung-cargas-inalambricas-inteligentes-movil-1166166'>Primera imagen de la SmartThings Station de Samsung para cargas inalámbricas e inteligentes del móvil</a></h4>
     <a href='https://computerhoy.com/tecnologia/primera-imagen-smartthings-station-samsung-cargas-inalambricas-inteligentes-movil-1166166' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/primera-imagen-smartthings-station-samsung-cargas-inalambricas-inteligentes-movil-2894428.jpg' alt='Primera imagen de la SmartThings Station de Samsung para cargas inalámbricas e inteligentes del móvil' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/apple/apple-ya-permite-desarrolladores-cobrar-10000-dolares-aplicacion-app-store-1166156'>Apple ya permite a los desarrolladores cobrar hasta 10.000 dólares por una aplicación en la App Store</a></h4>
     <a href='https://computerhoy.com/apple/apple-ya-permite-desarrolladores-cobrar-10000-dolares-aplicacion-app-store-1166156' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/apple-anuncia-cambios-app-store-incluyen-precios-aplicaciones-10000-dolares-2894392.jpg' alt='Apple ya permite a los desarrolladores cobrar hasta 10.000 dólares por una aplicación en la App Store' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/mejores-doodles-historia-google-1166140'>Los mejores Doodles de la historia de Google</a></h4>
-    <a href='https://computerhoy.com/google/mejores-doodles-historia-google-1166140' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/doodle-google-2894310.jpg' alt='Los mejores Doodles de la historia de Google' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/desafio-rapido-test-personalidad-animal-1166150'>Desafío rápido: el animal que veas revelará un rasgo importante de tu personalidad</a></h4>
-    <a href='https://computerhoy.com/life/desafio-rapido-test-personalidad-animal-1166150' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/desafio-rapido-animal-veas-revelara-rasgo-importante-personalidad-2894292.jpg' alt='Desafío rápido: el animal que veas revelará un rasgo importante de tu personalidad' />
     </a>
 </div>
 
