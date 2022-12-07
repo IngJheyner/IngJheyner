@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/dinero-vas-gastarte-regalos-estas-navidades-ocu-1166450'>Este es el dinero que vas a gastarte en regalos estas Navidades según la OCU</a></h4>
+    <a href='https://computerhoy.com/life/dinero-vas-gastarte-regalos-estas-navidades-ocu-1166450' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/ir-compras-2895142.jpg' alt='Este es el dinero que vas a gastarte en regalos estas Navidades según la OCU' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/motor/dgt-planea-colocar-mayor-numero-radares-tramo-carreteras-secundarias-1166444'>La DGT planea colocar un mayor número de radares de tramo en las carreteras secundarias</a></h4>
+    <a href='https://computerhoy.com/motor/dgt-planea-colocar-mayor-numero-radares-tramo-carreteras-secundarias-1166444' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/radar-dgt-2868839.jpg' alt='La DGT planea colocar un mayor número de radares de tramo en las carreteras secundarias' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/moviles/aceptarias-dinero-espien-movil-amazon-ya-paga-ello-1166426'>¿Aceptarías dinero para que espíen tu móvil? Amazon ya paga por ello</a></h4>
+    <a href='https://computerhoy.com/moviles/aceptarias-dinero-espien-movil-amazon-ya-paga-ello-1166426' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/smartphone-2893690.jpg' alt='¿Aceptarías dinero para que espíen tu móvil? Amazon ya paga por ello' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/streaming/adelantate-navidad-estas-11-peliculas-netflix-hbo-max-disney-filmin-1166368'>Adelántate a la Navidad con estas 11 películas en Netflix, HBO Max, Disney+ y Filmin</a></h4>
     <a href='https://computerhoy.com/streaming/adelantate-navidad-estas-11-peliculas-netflix-hbo-max-disney-filmin-1166368' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/12/leyenda-klaus-2163705.jpg' alt='Adelántate a la Navidad con estas 11 películas en Netflix, HBO Max, Disney+ y Filmin' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/hogar/purificadores-aire-invierno-mejores-modelos-1166216'>Purificadores de aire en invierno: por qué utilizarlos más que nunca y mejores modelos</a></h4>
     <a href='https://computerhoy.com/hogar/purificadores-aire-invierno-mejores-modelos-1166216' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/purificador-aire-xiaomi-smart-air-purifier-4-lite-2894624.jpg' alt='Purificadores de aire en invierno: por qué utilizarlos más que nunca y mejores modelos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/spacex-amplia-negocio-starshield-servicio-parecido-starlink-gobiernos-seguridad-nacional-1166386'>SpaceX amplía el negocio con Starshield, un servicio parecido a Starlink para los gobiernos y la seguridad nacional</a></h4>
-    <a href='https://computerhoy.com/espacio/spacex-amplia-negocio-starshield-servicio-parecido-starlink-gobiernos-seguridad-nacional-1166386' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/spacex-amplia-negocio-starshield-servicio-parecido-starlink-gobiernos-seguridad-nacional-2894934.jpg' alt='SpaceX amplía el negocio con Starshield, un servicio parecido a Starlink para los gobiernos y la seguridad nacional' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/gaming/intel-duplica-rendimiento-videojuegos-antiguos-nuevos-drivers-somos-betatesters-1166358'>Intel duplica el rendimiento en videojuegos antiguos con unos nuevos drivers, ¿somos betatesters?</a></h4>
-    <a href='https://computerhoy.com/gaming/intel-duplica-rendimiento-videojuegos-antiguos-nuevos-drivers-somos-betatesters-1166358' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/tarjetas-graficas-intel-arc-parece-retrasan-nuevo-julio-agosto-motivo-2696141.jpg' alt='Intel duplica el rendimiento en videojuegos antiguos con unos nuevos drivers, ¿somos betatesters?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/apple-car-no-llegara-2026-no-cumplira-gran-promesa-autonoma-1166340'>El Apple Car no llegará hasta 2026 y no cumplirá con su gran promesa autónoma</a></h4>
-    <a href='https://computerhoy.com/apple/apple-car-no-llegara-2026-no-cumplira-gran-promesa-autonoma-1166340' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/apple-car-2712511.jpg' alt='El Apple Car no llegará hasta 2026 y no cumplirá con su gran promesa autónoma' />
     </a>
 </div>
 
