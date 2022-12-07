@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/hogar/radiador-bajo-consumo-cecotec-wifi-solo-95-euros-1166474'>Este radiador de bajo consumo de Cecotec programable desde el móvil baja aún más de precio, a solo 95 euros</a></h4>
+    <a href='https://computerhoy.com/hogar/radiador-bajo-consumo-cecotec-wifi-solo-95-euros-1166474' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/radiador-consumo-cecotec-baja-aun-precio-solo-95-euros-2895150.jpg' alt='Este radiador de bajo consumo de Cecotec programable desde el móvil baja aún más de precio, a solo 95 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/streaming/netflix-emitir-deporte-futbol-1166462'>Netflix descarta emitir un contenido que ya ofrecen Prime Video y Apple TV+, porque 'no da dinero'</a></h4>
     <a href='https://computerhoy.com/streaming/netflix-emitir-deporte-futbol-1166462' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/champions-netflix-liga-disney-apple-tv-marca-camino-retransmitiendo-partidos-beisbol-directo-2671113.jpg' alt='Netflix descarta emitir un contenido que ya ofrecen Prime Video y Apple TV+, porque 'no da dinero'' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/moviles/aceptarias-dinero-espien-movil-amazon-ya-paga-ello-1166426'>¿Aceptarías dinero para que espíen tu móvil? Amazon ya paga por ello</a></h4>
     <a href='https://computerhoy.com/moviles/aceptarias-dinero-espien-movil-amazon-ya-paga-ello-1166426' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/smartphone-2893690.jpg' alt='¿Aceptarías dinero para que espíen tu móvil? Amazon ya paga por ello' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/streaming/adelantate-navidad-estas-11-peliculas-netflix-hbo-max-disney-filmin-1166368'>Adelántate a la Navidad con estas 11 películas en Netflix, HBO Max, Disney+ y Filmin</a></h4>
-    <a href='https://computerhoy.com/streaming/adelantate-navidad-estas-11-peliculas-netflix-hbo-max-disney-filmin-1166368' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/12/leyenda-klaus-2163705.jpg' alt='Adelántate a la Navidad con estas 11 películas en Netflix, HBO Max, Disney+ y Filmin' />
     </a>
 </div>
 
