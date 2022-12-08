@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/gaming/agencia-antimonopolio-detiene-compra-activision-microsoft-1166934'>La agencia antimonopolio de Estados Unidos detiene la compra de Activision por parte de Microsoft</a></h4>
+    <a href='https://computerhoy.com/gaming/agencia-antimonopolio-detiene-compra-activision-microsoft-1166934' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/microsoft-activision-2589223.jpg' alt='La agencia antimonopolio de Estados Unidos detiene la compra de Activision por parte de Microsoft' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/gaming/mando-hori-split-pad-compact-nintendo-switch-oferta-1166920'>Si tienes una Nintendo Switch necesitas este mando Hori Split Pad Compact para jugar mejor</a></h4>
     <a href='https://computerhoy.com/gaming/mando-hori-split-pad-compact-nintendo-switch-oferta-1166920' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/tienes-nintendo-switch-necesitas-mando-hori-split-pad-compact-jugar-mejor-2895830.jpg' alt='Si tienes una Nintendo Switch necesitas este mando Hori Split Pad Compact para jugar mejor' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/pc/tarjeta-nvidia-rtx-4070-ti-es-rtx-4080-12-gb-nuevo-nombre-1166906'>Se confirma que la tarjeta RTX 4070 Ti es la RTX 4080 de 12 GB con un nuevo nombre</a></h4>
     <a href='https://computerhoy.com/pc/tarjeta-nvidia-rtx-4070-ti-es-rtx-4080-12-gb-nuevo-nombre-1166906' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/confirma-tarjeta-rtx-4070-ti-rtx-4080-12-gb-nuevo-nombre-2895792.jpg' alt='Se confirma que la tarjeta RTX 4070 Ti es la RTX 4080 de 12 GB con un nuevo nombre' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/hogar/tiras-led-adornar-arbol-navidad-controlan-alexa-1166468'>Estas tiras LED son perfectas para adornar tu árbol de Navidad y se controlan con Alexa</a></h4>
-    <a href='https://computerhoy.com/hogar/tiras-led-adornar-arbol-navidad-controlan-alexa-1166468' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/arbol-navidad-adornado-luces-2895174.jpg' alt='Estas tiras LED son perfectas para adornar tu árbol de Navidad y se controlan con Alexa' />
     </a>
 </div>
 
