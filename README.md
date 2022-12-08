@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/abuela-15-anos-rezando-figura-santo-mayor-villano-star-wars-1166482'>Una abuela llevaba 15 años rezándole a la figura de un santo... que resultó ser el mayor villano de Star Wars</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/abuela-15-anos-rezando-figura-santo-mayor-villano-star-wars-1166482' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/abuela-llevaba-15-anos-rezandole-figura-santo-resulto-ser-mayor-villano-star-wars-2895210.jpg' alt='Una abuela llevaba 15 años rezándole a la figura de un santo... que resultó ser el mayor villano de Star Wars' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciencia/50-anos-primera-fotografia-completa-tierra-ultimo-viaje-luna-1166480'>Se cumplen 50 años de la primera fotografía completa de la Tierra, y el último viaje a la Luna</a></h4>
     <a href='https://computerhoy.com/ciencia/50-anos-primera-fotografia-completa-tierra-ultimo-viaje-luna-1166480' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/hoy-cumplen-50-anos-primera-fotografia-completa-tierra-ultimo-viaje-luna-2895182.jpg' alt='Se cumplen 50 años de la primera fotografía completa de la Tierra, y el último viaje a la Luna' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/life/dinero-vas-gastarte-regalos-estas-navidades-ocu-1166450'>Este es el dinero que vas a gastarte en regalos estas Navidades según la OCU</a></h4>
     <a href='https://computerhoy.com/life/dinero-vas-gastarte-regalos-estas-navidades-ocu-1166450' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/ir-compras-2895142.jpg' alt='Este es el dinero que vas a gastarte en regalos estas Navidades según la OCU' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/dgt-planea-colocar-mayor-numero-radares-tramo-carreteras-secundarias-1166444'>La DGT planea colocar un mayor número de radares de tramo en las carreteras secundarias</a></h4>
-    <a href='https://computerhoy.com/motor/dgt-planea-colocar-mayor-numero-radares-tramo-carreteras-secundarias-1166444' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/radar-dgt-2868839.jpg' alt='La DGT planea colocar un mayor número de radares de tramo en las carreteras secundarias' />
     </a>
 </div>
 
