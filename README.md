@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/gaming/mando-hori-split-pad-compact-nintendo-switch-oferta-1166920'>Si tienes una Nintendo Switch necesitas este mando Hori Split Pad Compact para jugar mejor</a></h4>
+    <a href='https://computerhoy.com/gaming/mando-hori-split-pad-compact-nintendo-switch-oferta-1166920' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/tienes-nintendo-switch-necesitas-mando-hori-split-pad-compact-jugar-mejor-2895830.jpg' alt='Si tienes una Nintendo Switch necesitas este mando Hori Split Pad Compact para jugar mejor' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/expertos-avisan-no-debes-hacer-truco-quitar-escarcha-parabrisas-1166912'>Expertos avisan de que no debes hacer este truco para quitar la escarcha del parabrisas</a></h4>
     <a href='https://computerhoy.com/life/expertos-avisan-no-debes-hacer-truco-quitar-escarcha-parabrisas-1166912' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/escarcha-parabrisas-2895822.jpg' alt='Expertos avisan de que no debes hacer este truco para quitar la escarcha del parabrisas' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/hogar/tiras-led-adornar-arbol-navidad-controlan-alexa-1166468'>Estas tiras LED son perfectas para adornar tu árbol de Navidad y se controlan con Alexa</a></h4>
     <a href='https://computerhoy.com/hogar/tiras-led-adornar-arbol-navidad-controlan-alexa-1166468' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/arbol-navidad-adornado-luces-2895174.jpg' alt='Estas tiras LED son perfectas para adornar tu árbol de Navidad y se controlan con Alexa' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/gaming/adorno-arbol-navidad-jugar-doom-video-1166890'>Así puedes construir este adorno para colgar en el árbol de Navidad... y jugar a Doom (vídeo)</a></h4>
-    <a href='https://computerhoy.com/gaming/adorno-arbol-navidad-jugar-doom-video-1166890' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/puedes-construir-adorno-colgar-arbol-navidad-jugar-doom-2895750.jpg' alt='Así puedes construir este adorno para colgar en el árbol de Navidad... y jugar a Doom (vídeo)' />
     </a>
 </div>
 
