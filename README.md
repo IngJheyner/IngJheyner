@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/50-anos-primera-fotografia-completa-tierra-ultimo-viaje-luna-1166480'>Se cumplen 50 años de la primera fotografía completa de la Tierra, y el último viaje a la Luna</a></h4>
+    <a href='https://computerhoy.com/ciencia/50-anos-primera-fotografia-completa-tierra-ultimo-viaje-luna-1166480' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/hoy-cumplen-50-anos-primera-fotografia-completa-tierra-ultimo-viaje-luna-2895182.jpg' alt='Se cumplen 50 años de la primera fotografía completa de la Tierra, y el último viaje a la Luna' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/hogar/radiador-bajo-consumo-cecotec-wifi-solo-95-euros-1166474'>Este radiador de bajo consumo de Cecotec programable desde el móvil baja aún más de precio, a solo 95 euros</a></h4>
     <a href='https://computerhoy.com/hogar/radiador-bajo-consumo-cecotec-wifi-solo-95-euros-1166474' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/radiador-consumo-cecotec-baja-aun-precio-solo-95-euros-2895150.jpg' alt='Este radiador de bajo consumo de Cecotec programable desde el móvil baja aún más de precio, a solo 95 euros' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/motor/dgt-planea-colocar-mayor-numero-radares-tramo-carreteras-secundarias-1166444'>La DGT planea colocar un mayor número de radares de tramo en las carreteras secundarias</a></h4>
     <a href='https://computerhoy.com/motor/dgt-planea-colocar-mayor-numero-radares-tramo-carreteras-secundarias-1166444' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/radar-dgt-2868839.jpg' alt='La DGT planea colocar un mayor número de radares de tramo en las carreteras secundarias' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/aceptarias-dinero-espien-movil-amazon-ya-paga-ello-1166426'>¿Aceptarías dinero para que espíen tu móvil? Amazon ya paga por ello</a></h4>
-    <a href='https://computerhoy.com/moviles/aceptarias-dinero-espien-movil-amazon-ya-paga-ello-1166426' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/smartphone-2893690.jpg' alt='¿Aceptarías dinero para que espíen tu móvil? Amazon ya paga por ello' />
     </a>
 </div>
 
