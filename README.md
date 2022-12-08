@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/22-noticias-tecnologia-comenzar-manana-informado-ultimo-1166712'>22 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
+    <a href='https://computerhoy.com/tecnologia/22-noticias-tecnologia-comenzar-manana-informado-ultimo-1166712' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/22-noticias-tecnologia-comenzar-manana-informado-ultimo-2895438.jpg' alt='22 noticias de tecnología para comenzar la mañana informado de lo último' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/regalos-navidad-fans-xiaomi-1166348'>Navidad 2022: regalos indispensables para fans de Xiaomi</a></h4>
+    <a href='https://computerhoy.com/tecnologia/regalos-navidad-fans-xiaomi-1166348' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/xiaomi-store-2894932.jpg' alt='Navidad 2022: regalos indispensables para fans de Xiaomi' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/entretenimiento/abuela-15-anos-rezando-figura-santo-mayor-villano-star-wars-1166482'>Una abuela llevaba 15 años rezándole a la figura de un santo... que resultó ser el mayor villano de Star Wars</a></h4>
     <a href='https://computerhoy.com/entretenimiento/abuela-15-anos-rezando-figura-santo-mayor-villano-star-wars-1166482' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/abuela-llevaba-15-anos-rezandole-figura-santo-resulto-ser-mayor-villano-star-wars-2895210.jpg' alt='Una abuela llevaba 15 años rezándole a la figura de un santo... que resultó ser el mayor villano de Star Wars' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/hogar/radiador-bajo-consumo-cecotec-wifi-solo-95-euros-1166474'>Este radiador de bajo consumo de Cecotec programable desde el móvil baja aún más de precio, a solo 95 euros</a></h4>
     <a href='https://computerhoy.com/hogar/radiador-bajo-consumo-cecotec-wifi-solo-95-euros-1166474' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/radiador-consumo-cecotec-baja-aun-precio-solo-95-euros-2895150.jpg' alt='Este radiador de bajo consumo de Cecotec programable desde el móvil baja aún más de precio, a solo 95 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/streaming/netflix-emitir-deporte-futbol-1166462'>Netflix descarta emitir un contenido que ya ofrecen Prime Video y Apple TV+, porque 'no da dinero'</a></h4>
-    <a href='https://computerhoy.com/streaming/netflix-emitir-deporte-futbol-1166462' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/champions-netflix-liga-disney-apple-tv-marca-camino-retransmitiendo-partidos-beisbol-directo-2671113.jpg' alt='Netflix descarta emitir un contenido que ya ofrecen Prime Video y Apple TV+, porque 'no da dinero'' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/dinero-vas-gastarte-regalos-estas-navidades-ocu-1166450'>Este es el dinero que vas a gastarte en regalos estas Navidades según la OCU</a></h4>
-    <a href='https://computerhoy.com/life/dinero-vas-gastarte-regalos-estas-navidades-ocu-1166450' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/ir-compras-2895142.jpg' alt='Este es el dinero que vas a gastarte en regalos estas Navidades según la OCU' />
     </a>
 </div>
 
