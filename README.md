@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/hogar/tiras-led-adornar-arbol-navidad-controlan-alexa-1166468'>Estas tiras LED son perfectas para adornar tu árbol de Navidad y se controlan con Alexa</a></h4>
+    <a href='https://computerhoy.com/hogar/tiras-led-adornar-arbol-navidad-controlan-alexa-1166468' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/arbol-navidad-adornado-luces-2895174.jpg' alt='Estas tiras LED son perfectas para adornar tu árbol de Navidad y se controlan con Alexa' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/gaming/adorno-arbol-navidad-jugar-doom-video-1166890'>Así puedes construir este adorno para colgar en el árbol de Navidad... y jugar a Doom (vídeo)</a></h4>
+    <a href='https://computerhoy.com/gaming/adorno-arbol-navidad-jugar-doom-video-1166890' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/puedes-construir-adorno-colgar-arbol-navidad-jugar-doom-2895750.jpg' alt='Así puedes construir este adorno para colgar en el árbol de Navidad... y jugar a Doom (vídeo)' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/legislacion/dia-moviles-cargador-usb-tipo-c-union-europea-incluido-iphone-1166866'>Ya sabemos el día en el que todos los móviles tendrán que usar cargador USB Tipo C en Europa, incluido el iPhone</a></h4>
     <a href='https://computerhoy.com/legislacion/dia-moviles-cargador-usb-tipo-c-union-europea-incluido-iphone-1166866' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/ya-sabemos-dia-todos-moviles-tendran-usar-cargador-usb-tipo-c-europa-incluido-iphone-2895720.jpg' alt='Ya sabemos el día en el que todos los móviles tendrán que usar cargador USB Tipo C en Europa, incluido el iPhone' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/moviles/son-nuevos-realme-10-pro-10-pro-camara-108-mpx-procesador-5g-pantalla-120-hz-1166724'>Así son los nuevos realme 10 Pro y 10 Pro+: cámara de 108 Mpx, procesador 5G y pantalla 120 Hz</a></h4>
     <a href='https://computerhoy.com/moviles/son-nuevos-realme-10-pro-10-pro-camara-108-mpx-procesador-5g-pantalla-120-hz-1166724' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/realme-9-pro-analisis-opinion-2618113.jpg' alt='Así son los nuevos realme 10 Pro y 10 Pro+: cámara de 108 Mpx, procesador 5G y pantalla 120 Hz' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/streaming/disney-plus-plan-anuncios-estrena-hoy-subida-precios-1166860'>Disney+ con anuncios se estrena hoy, con subida de precios incluida</a></h4>
-    <a href='https://computerhoy.com/streaming/disney-plus-plan-anuncios-estrena-hoy-subida-precios-1166860' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/disney-2634511.jpg' alt='Disney+ con anuncios se estrena hoy, con subida de precios incluida' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/audio-hi-fi/dyson-zone-auriculares-cancelacion-ruido-purificador-aire-1166844'>Dyson Zone, los auriculares con purificador de aire que parecen sacados de una película cyberpunk</a></h4>
-    <a href='https://computerhoy.com/audio-hi-fi/dyson-zone-auriculares-cancelacion-ruido-purificador-aire-1166844' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/dyson-zone-auriculares-purificador-aire-parecen-sacados-pelicula-cyberpunk-2895638.jpg' alt='Dyson Zone, los auriculares con purificador de aire que parecen sacados de una película cyberpunk' />
     </a>
 </div>
 
