@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/audio-hi-fi/dyson-zone-auriculares-cancelacion-ruido-purificador-aire-1166844'>Dyson Zone, los auriculares con purificador de aire que parecen sacados de una película cyberpunk</a></h4>
+    <a href='https://computerhoy.com/audio-hi-fi/dyson-zone-auriculares-cancelacion-ruido-purificador-aire-1166844' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/dyson-zone-auriculares-purificador-aire-parecen-sacados-pelicula-cyberpunk-2895638.jpg' alt='Dyson Zone, los auriculares con purificador de aire que parecen sacados de una película cyberpunk' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tutoriales/como-cambiar-aplicacion-email-defecto-windows-11-1106655'>Cómo cambiar la aplicación de email por defecto en Windows 11</a></h4>
     <a href='https://computerhoy.com/tutoriales/como-cambiar-aplicacion-email-defecto-windows-11-1106655' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/09/cual-es-mejor-saludo-email-profesional.jpg' alt='Cómo cambiar la aplicación de email por defecto en Windows 11' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/estos-han-sido-ataques-dia-cero-peligrosos-2022-1161249'>Estos han sido los ataques de día cero más peligrosos de 2022</a></h4>
     <a href='https://computerhoy.com/tecnologia/estos-han-sido-ataques-dia-cero-peligrosos-2022-1161249' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/estos-han-sido-ataques-dia-cero-peligrosos-2022-2884147.jpg' alt='Estos han sido los ataques de día cero más peligrosos de 2022' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/ya-quiosco-numero-631-computer-hoy-1163058'>¡Ya está en tu quiosco el número 631 de Computer Hoy!</a></h4>
-    <a href='https://computerhoy.com/tecnologia/ya-quiosco-numero-631-computer-hoy-1163058' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/computer-hoy-631-2889556.jpg' alt='¡Ya está en tu quiosco el número 631 de Computer Hoy!' />
     </a>
 </div>
 
