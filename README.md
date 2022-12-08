@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/como-compartir-correctamente-decimo-loteria-navidad-2022-whatsapp-1162192'>Cómo compartir correctamente un décimo de Lotería de Navidad 2022 por WhatsApp</a></h4>
+    <a href='https://computerhoy.com/tecnologia/como-compartir-correctamente-decimo-loteria-navidad-2022-whatsapp-1162192' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/loteria-navidad-2886476.jpg' alt='Cómo compartir correctamente un décimo de Lotería de Navidad 2022 por WhatsApp' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/moviles/son-nuevos-realme-10-pro-10-pro-camara-108-mpx-procesador-5g-pantalla-120-hz-1166724'>Así son los nuevos realme 10 Pro y 10 Pro+: cámara de 108 Mpx, procesador 5G y pantalla 120 Hz</a></h4>
+    <a href='https://computerhoy.com/moviles/son-nuevos-realme-10-pro-10-pro-camara-108-mpx-procesador-5g-pantalla-120-hz-1166724' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/realme-9-pro-analisis-opinion-2618113.jpg' alt='Así son los nuevos realme 10 Pro y 10 Pro+: cámara de 108 Mpx, procesador 5G y pantalla 120 Hz' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/streaming/disney-plus-plan-anuncios-estrena-hoy-subida-precios-1166860'>Disney+ con anuncios se estrena hoy, con subida de precios incluida</a></h4>
+    <a href='https://computerhoy.com/streaming/disney-plus-plan-anuncios-estrena-hoy-subida-precios-1166860' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/disney-2634511.jpg' alt='Disney+ con anuncios se estrena hoy, con subida de precios incluida' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/audio-hi-fi/dyson-zone-auriculares-cancelacion-ruido-purificador-aire-1166844'>Dyson Zone, los auriculares con purificador de aire que parecen sacados de una película cyberpunk</a></h4>
     <a href='https://computerhoy.com/audio-hi-fi/dyson-zone-auriculares-cancelacion-ruido-purificador-aire-1166844' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/dyson-zone-auriculares-purificador-aire-parecen-sacados-pelicula-cyberpunk-2895638.jpg' alt='Dyson Zone, los auriculares con purificador de aire que parecen sacados de una película cyberpunk' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/tutoriales/como-cambiar-aplicacion-email-defecto-windows-11-1106655'>Cómo cambiar la aplicación de email por defecto en Windows 11</a></h4>
     <a href='https://computerhoy.com/tutoriales/como-cambiar-aplicacion-email-defecto-windows-11-1106655' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/09/cual-es-mejor-saludo-email-profesional.jpg' alt='Cómo cambiar la aplicación de email por defecto en Windows 11' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/fotos-oficiales-xiaomi-13-xiaomi-13-pro-presentacion-11-diciembre-1166814'>Primeras fotos oficiales del Xiaomi 13, Xiaomi 13 Pro, y todo lo que se presentará el 11 de diciembre</a></h4>
-    <a href='https://computerhoy.com/moviles/fotos-oficiales-xiaomi-13-xiaomi-13-pro-presentacion-11-diciembre-1166814' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/primeras-fotos-oficiales-xiaomi-13-xiaomi-13-pro-todo-presentara-11-diciembre-2895604.jpg' alt='Primeras fotos oficiales del Xiaomi 13, Xiaomi 13 Pro, y todo lo que se presentará el 11 de diciembre' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/redes-sociales/elon-musk-comision-apple-usuarios-twitter-blue-sede-twitter-hotel-empleados-1166772'>Elon Musk cobrará la comisión de Apple a los usuarios, mientras convierte la sede de Twitter en un hotel para empleados</a></h4>
-    <a href='https://computerhoy.com/redes-sociales/elon-musk-comision-apple-usuarios-twitter-blue-sede-twitter-hotel-empleados-1166772' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/elon-musk-convierte-sede-twitter-hotel-empleados-cobrara-comision-apple-usuarios-2895592.jpg' alt='Elon Musk cobrará la comisión de Apple a los usuarios, mientras convierte la sede de Twitter en un hotel para empleados' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/estos-han-sido-ataques-dia-cero-peligrosos-2022-1161249'>Estos han sido los ataques de día cero más peligrosos de 2022</a></h4>
-    <a href='https://computerhoy.com/tecnologia/estos-han-sido-ataques-dia-cero-peligrosos-2022-1161249' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/estos-han-sido-ataques-dia-cero-peligrosos-2022-2884147.jpg' alt='Estos han sido los ataques de día cero más peligrosos de 2022' />
     </a>
 </div>
 
