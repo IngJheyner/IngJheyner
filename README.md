@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/legislacion/dia-moviles-cargador-usb-tipo-c-union-europea-incluido-iphone-1166866'>Ya sabemos el día en el que todos los móviles tendrán que usar cargador USB Tipo C en Europa, incluido el iPhone</a></h4>
+    <a href='https://computerhoy.com/legislacion/dia-moviles-cargador-usb-tipo-c-union-europea-incluido-iphone-1166866' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/ya-sabemos-dia-todos-moviles-tendran-usar-cargador-usb-tipo-c-europa-incluido-iphone-2895720.jpg' alt='Ya sabemos el día en el que todos los móviles tendrán que usar cargador USB Tipo C en Europa, incluido el iPhone' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/como-compartir-correctamente-decimo-loteria-navidad-2022-whatsapp-1162192'>Cómo compartir correctamente un décimo de Lotería de Navidad 2022 por WhatsApp</a></h4>
     <a href='https://computerhoy.com/tecnologia/como-compartir-correctamente-decimo-loteria-navidad-2022-whatsapp-1162192' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/loteria-navidad-2886476.jpg' alt='Cómo compartir correctamente un décimo de Lotería de Navidad 2022 por WhatsApp' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/audio-hi-fi/dyson-zone-auriculares-cancelacion-ruido-purificador-aire-1166844'>Dyson Zone, los auriculares con purificador de aire que parecen sacados de una película cyberpunk</a></h4>
     <a href='https://computerhoy.com/audio-hi-fi/dyson-zone-auriculares-cancelacion-ruido-purificador-aire-1166844' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/dyson-zone-auriculares-purificador-aire-parecen-sacados-pelicula-cyberpunk-2895638.jpg' alt='Dyson Zone, los auriculares con purificador de aire que parecen sacados de una película cyberpunk' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-cambiar-aplicacion-email-defecto-windows-11-1106655'>Cómo cambiar la aplicación de email por defecto en Windows 11</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-cambiar-aplicacion-email-defecto-windows-11-1106655' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/09/cual-es-mejor-saludo-email-profesional.jpg' alt='Cómo cambiar la aplicación de email por defecto en Windows 11' />
     </a>
 </div>
 
