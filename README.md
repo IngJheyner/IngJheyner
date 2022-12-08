@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/ya-quiosco-numero-631-computer-hoy-1163058'>¡Ya está en tu quiosco el número 631 de Computer Hoy!</a></h4>
+    <a href='https://computerhoy.com/tecnologia/ya-quiosco-numero-631-computer-hoy-1163058' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/computer-hoy-631-2889556.jpg' alt='¡Ya está en tu quiosco el número 631 de Computer Hoy!' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/puzzle-matematico-descifra-contrasena-abre-caja-fuerte-1166710'>Desafío rápido: descifra la contraseña y abre la caja fuerte</a></h4>
+    <a href='https://computerhoy.com/life/puzzle-matematico-descifra-contrasena-abre-caja-fuerte-1166710' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/desafio-rapido-descifra-contrasena-abre-caja-fuerte-2895434.jpg' alt='Desafío rápido: descifra la contraseña y abre la caja fuerte' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/analisis/review-redmi-buds-4-tws-diseno-llamativo-anc-1161259'>Análisis de los Redmi Buds 4, unos TWS de diseño llamativo y con ANC</a></h4>
+    <a href='https://computerhoy.com/analisis/review-redmi-buds-4-tws-diseno-llamativo-anc-1161259' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/redmi-buds-4-2890362.jpg' alt='Análisis de los Redmi Buds 4, unos TWS de diseño llamativo y con ANC' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/twitch-vs-youtube-plataforma-tiene-mayor-potencial-cara-estos-anos-1161763'>Twitch vs. Youtube: ¿qué plataforma tiene mayor potencial de cara a estos años?</a></h4>
     <a href='https://computerhoy.com/tecnologia/twitch-vs-youtube-plataforma-tiene-mayor-potencial-cara-estos-anos-1161763' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/twitch-vs-youtube-plataforma-streaming-vencera-2886003.jpg' alt='Twitch vs. Youtube: ¿qué plataforma tiene mayor potencial de cara a estos años?' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/22-noticias-tecnologia-comenzar-manana-informado-ultimo-1166712'>22 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
     <a href='https://computerhoy.com/tecnologia/22-noticias-tecnologia-comenzar-manana-informado-ultimo-1166712' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/22-noticias-tecnologia-comenzar-manana-informado-ultimo-2895438.jpg' alt='22 noticias de tecnología para comenzar la mañana informado de lo último' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/regalos-navidad-fans-xiaomi-1166348'>Navidad 2022: regalos indispensables para fans de Xiaomi</a></h4>
-    <a href='https://computerhoy.com/tecnologia/regalos-navidad-fans-xiaomi-1166348' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/xiaomi-store-2894932.jpg' alt='Navidad 2022: regalos indispensables para fans de Xiaomi' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/abuela-15-anos-rezando-figura-santo-mayor-villano-star-wars-1166482'>Una abuela llevaba 15 años rezándole a la figura de un santo... que resultó ser el mayor villano de Star Wars</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/abuela-15-anos-rezando-figura-santo-mayor-villano-star-wars-1166482' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/abuela-llevaba-15-anos-rezandole-figura-santo-resulto-ser-mayor-villano-star-wars-2895210.jpg' alt='Una abuela llevaba 15 años rezándole a la figura de un santo... que resultó ser el mayor villano de Star Wars' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/50-anos-primera-fotografia-completa-tierra-ultimo-viaje-luna-1166480'>Se cumplen 50 años de la primera fotografía completa de la Tierra, y el último viaje a la Luna</a></h4>
-    <a href='https://computerhoy.com/ciencia/50-anos-primera-fotografia-completa-tierra-ultimo-viaje-luna-1166480' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/hoy-cumplen-50-anos-primera-fotografia-completa-tierra-ultimo-viaje-luna-2895182.jpg' alt='Se cumplen 50 años de la primera fotografía completa de la Tierra, y el último viaje a la Luna' />
     </a>
 </div>
 
