@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/twitch-vs-youtube-plataforma-tiene-mayor-potencial-cara-estos-anos-1161763'>Twitch vs. Youtube: ¿qué plataforma tiene mayor potencial de cara a estos años?</a></h4>
+    <a href='https://computerhoy.com/tecnologia/twitch-vs-youtube-plataforma-tiene-mayor-potencial-cara-estos-anos-1161763' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/twitch-vs-youtube-plataforma-streaming-vencera-2886003.jpg' alt='Twitch vs. Youtube: ¿qué plataforma tiene mayor potencial de cara a estos años?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/22-noticias-tecnologia-comenzar-manana-informado-ultimo-1166712'>22 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
     <a href='https://computerhoy.com/tecnologia/22-noticias-tecnologia-comenzar-manana-informado-ultimo-1166712' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/22-noticias-tecnologia-comenzar-manana-informado-ultimo-2895438.jpg' alt='22 noticias de tecnología para comenzar la mañana informado de lo último' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/ciencia/50-anos-primera-fotografia-completa-tierra-ultimo-viaje-luna-1166480'>Se cumplen 50 años de la primera fotografía completa de la Tierra, y el último viaje a la Luna</a></h4>
     <a href='https://computerhoy.com/ciencia/50-anos-primera-fotografia-completa-tierra-ultimo-viaje-luna-1166480' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/hoy-cumplen-50-anos-primera-fotografia-completa-tierra-ultimo-viaje-luna-2895182.jpg' alt='Se cumplen 50 años de la primera fotografía completa de la Tierra, y el último viaje a la Luna' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/hogar/radiador-bajo-consumo-cecotec-wifi-solo-95-euros-1166474'>Este radiador de bajo consumo de Cecotec programable desde el móvil baja aún más de precio, a solo 95 euros</a></h4>
-    <a href='https://computerhoy.com/hogar/radiador-bajo-consumo-cecotec-wifi-solo-95-euros-1166474' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/radiador-consumo-cecotec-baja-aun-precio-solo-95-euros-2895150.jpg' alt='Este radiador de bajo consumo de Cecotec programable desde el móvil baja aún más de precio, a solo 95 euros' />
     </a>
 </div>
 
