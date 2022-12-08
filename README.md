@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/expertos-avisan-no-debes-hacer-truco-quitar-escarcha-parabrisas-1166912'>Expertos avisan de que no debes hacer este truco para quitar la escarcha del parabrisas</a></h4>
+    <a href='https://computerhoy.com/life/expertos-avisan-no-debes-hacer-truco-quitar-escarcha-parabrisas-1166912' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/escarcha-parabrisas-2895822.jpg' alt='Expertos avisan de que no debes hacer este truco para quitar la escarcha del parabrisas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/expertos-desvelan-mejores-formas-mantener-hogar-caliente-invierno-1166908'>Expertos desvelan las mejores formas de mantener nuestro hogar caliente este invierno</a></h4>
+    <a href='https://computerhoy.com/life/expertos-desvelan-mejores-formas-mantener-hogar-caliente-invierno-1166908' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/mujer-pasa-frio-casa-2895814.jpg' alt='Expertos desvelan las mejores formas de mantener nuestro hogar caliente este invierno' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/pc/tarjeta-nvidia-rtx-4070-ti-es-rtx-4080-12-gb-nuevo-nombre-1166906'>Se confirma que la tarjeta RTX 4070 Ti es la RTX 4080 de 12 GB con un nuevo nombre</a></h4>
+    <a href='https://computerhoy.com/pc/tarjeta-nvidia-rtx-4070-ti-es-rtx-4080-12-gb-nuevo-nombre-1166906' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/confirma-tarjeta-rtx-4070-ti-rtx-4080-12-gb-nuevo-nombre-2895792.jpg' alt='Se confirma que la tarjeta RTX 4070 Ti es la RTX 4080 de 12 GB con un nuevo nombre' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/hogar/tiras-led-adornar-arbol-navidad-controlan-alexa-1166468'>Estas tiras LED son perfectas para adornar tu árbol de Navidad y se controlan con Alexa</a></h4>
     <a href='https://computerhoy.com/hogar/tiras-led-adornar-arbol-navidad-controlan-alexa-1166468' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/arbol-navidad-adornado-luces-2895174.jpg' alt='Estas tiras LED son perfectas para adornar tu árbol de Navidad y se controlan con Alexa' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/gaming/adorno-arbol-navidad-jugar-doom-video-1166890'>Así puedes construir este adorno para colgar en el árbol de Navidad... y jugar a Doom (vídeo)</a></h4>
     <a href='https://computerhoy.com/gaming/adorno-arbol-navidad-jugar-doom-video-1166890' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/puedes-construir-adorno-colgar-arbol-navidad-jugar-doom-2895750.jpg' alt='Así puedes construir este adorno para colgar en el árbol de Navidad... y jugar a Doom (vídeo)' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/legislacion/dia-moviles-cargador-usb-tipo-c-union-europea-incluido-iphone-1166866'>Ya sabemos el día en el que todos los móviles tendrán que usar cargador USB Tipo C en Europa, incluido el iPhone</a></h4>
-    <a href='https://computerhoy.com/legislacion/dia-moviles-cargador-usb-tipo-c-union-europea-incluido-iphone-1166866' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/ya-sabemos-dia-todos-moviles-tendran-usar-cargador-usb-tipo-c-europa-incluido-iphone-2895720.jpg' alt='Ya sabemos el día en el que todos los móviles tendrán que usar cargador USB Tipo C en Europa, incluido el iPhone' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/como-compartir-correctamente-decimo-loteria-navidad-2022-whatsapp-1162192'>Cómo compartir correctamente un décimo de Lotería de Navidad 2022 por WhatsApp</a></h4>
-    <a href='https://computerhoy.com/tecnologia/como-compartir-correctamente-decimo-loteria-navidad-2022-whatsapp-1162192' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/loteria-navidad-2886476.jpg' alt='Cómo compartir correctamente un décimo de Lotería de Navidad 2022 por WhatsApp' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/son-nuevos-realme-10-pro-10-pro-camara-108-mpx-procesador-5g-pantalla-120-hz-1166724'>Así son los nuevos realme 10 Pro y 10 Pro+: cámara de 108 Mpx, procesador 5G y pantalla 120 Hz</a></h4>
-    <a href='https://computerhoy.com/moviles/son-nuevos-realme-10-pro-10-pro-camara-108-mpx-procesador-5g-pantalla-120-hz-1166724' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/realme-9-pro-analisis-opinion-2618113.jpg' alt='Así son los nuevos realme 10 Pro y 10 Pro+: cámara de 108 Mpx, procesador 5G y pantalla 120 Hz' />
     </a>
 </div>
 
