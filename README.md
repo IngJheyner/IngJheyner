@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/aplicaciones/mensajes-solo-uso-novedad-tiene-preparada-whatsapp-1167634'>Mensajes de un solo uso: así es la novedad que tiene preparada WhatsApp</a></h4>
+    <a href='https://computerhoy.com/aplicaciones/mensajes-solo-uso-novedad-tiene-preparada-whatsapp-1167634' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/whatsapp-2866195.jpg' alt='Mensajes de un solo uso: así es la novedad que tiene preparada WhatsApp' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/streaming/machos-alfa-nueva-serie-creadores-la-que-se-avecina-trailer-fecha-estreno-netflix-1167640'>Machos alfa, la nueva serie de los creadores de La que se avecina y Aquí no hay quien viva, tráiler y fecha de estreno</a></h4>
+    <a href='https://computerhoy.com/streaming/machos-alfa-nueva-serie-creadores-la-que-se-avecina-trailer-fecha-estreno-netflix-1167640' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/verticalimage1670617009116-2897374.jpg' alt='Machos alfa, la nueva serie de los creadores de La que se avecina y Aquí no hay quien viva, tráiler y fecha de estreno' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/criptos/shiba-inu-sufre-movimiento-precedentes-apunta-agitado-final-ano-1167606'>Shiba Inu sufre un movimiento sin precedentes y apunta a un agitado final de año</a></h4>
+    <a href='https://computerhoy.com/criptos/shiba-inu-sufre-movimiento-precedentes-apunta-agitado-final-ano-1167606' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/shiba-inu-suma-metaverso-pondra-venta-100000-terrenos-2662803.jpg' alt='Shiba Inu sufre un movimiento sin precedentes y apunta a un agitado final de año' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/windows/microsoft-pone-disposicion-nuevas-maquinas-virtuales-pruebes-entorno-windows-11-1167628'>Microsoft pone a disposición nuevas máquinas virtuales para que pruebes el entorno de Windows 11</a></h4>
     <a href='https://computerhoy.com/windows/microsoft-pone-disposicion-nuevas-maquinas-virtuales-pruebes-entorno-windows-11-1167628' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/ordenador-windows-2897366.jpg' alt='Microsoft pone a disposición nuevas máquinas virtuales para que pruebes el entorno de Windows 11' />
@@ -61,32 +85,6 @@
     <h4><a href='https://computerhoy.com/pc/podras-liberar-ram-nuevos-modos-ahorro-memoria-energia-chrome-1167620'>Así podrás liberar RAM con los nuevos modos de ahorro de memoria y energía de Chrome</a></h4>
     <a href='https://computerhoy.com/pc/podras-liberar-ram-nuevos-modos-ahorro-memoria-energia-chrome-1167620' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/google-chrome-2897360.jpg' alt='Así podrás liberar RAM con los nuevos modos de ahorro de memoria y energía de Chrome' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/puede-realmente-inteligencia-artificial-viral-chatgpt-reemplazar-humanos-1167564'>¿Puede realmente la inteligencia artificial viral de ChatGPT reemplazar a los humanos?</a></h4>
-    <a href='https://computerhoy.com/internet/puede-realmente-inteligencia-artificial-viral-chatgpt-reemplazar-humanos-1167564' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/inteligencia-artificial-2707953.jpg' alt='¿Puede realmente la inteligencia artificial viral de ChatGPT reemplazar a los humanos?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/mejores/radiadores-bajo-consumo-puedes-controlar-movil-1167382'>Mejores radiadores de bajo consumo que puedes controlar desde el móvil</a></h4>
-    <a href='https://computerhoy.com/mejores/radiadores-bajo-consumo-puedes-controlar-movil-1167382' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/radiador-electrico-consumo-princess-2896762.jpg' alt='Mejores radiadores de bajo consumo que puedes controlar desde el móvil' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/life/guia-consejos-comprar-monitor-presion-arterial-tensiometro-digital-domestico-1094859'>Guía y consejos para comprar un monitor de presión arterial o tensiómetro digital doméstico
-</a></h4>
-    <a href='https://computerhoy.com/reportajes/life/guia-consejos-comprar-monitor-presion-arterial-tensiometro-digital-domestico-1094859' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/tensiometro-2761141.jpg' alt='Guía y consejos para comprar un monitor de presión arterial o tensiómetro digital doméstico
-' />
     </a>
 </div>
 
