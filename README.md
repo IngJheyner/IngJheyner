@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/pc/portatil-huawei-matebook-14-ryzen-5-router-wifi-6-gratis-320-euros-descuento-solo-579-euros-1167642'>Huawei MateBook 14 con Ryzen 5, router WiFi 6 gratis y 320 euros de descuento, solo 579 euros</a></h4>
+    <a href='https://computerhoy.com/pc/portatil-huawei-matebook-14-ryzen-5-router-wifi-6-gratis-320-euros-descuento-solo-579-euros-1167642' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/huawei-matebook-14-ryzen-5-320-euros-descuento-queda-precio-chollo-solo-579-euros-2897384.jpg' alt='Huawei MateBook 14 con Ryzen 5, router WiFi 6 gratis y 320 euros de descuento, solo 579 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/futuro-tdt-cada-vez-negro-bbc-solo-emitira-streaming-1167636'>El futuro de la TDT, cada vez más negro: la BBC solo emitirá en streaming</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/futuro-tdt-cada-vez-negro-bbc-solo-emitira-streaming-1167636' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/mando-distancia-fire-tv-stick-apuntando-tv-2885879.jpg' alt='El futuro de la TDT, cada vez más negro: la BBC solo emitirá en streaming' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/aplicaciones/mensajes-solo-uso-novedad-tiene-preparada-whatsapp-1167634'>Mensajes de un solo uso: así es la novedad que tiene preparada WhatsApp</a></h4>
     <a href='https://computerhoy.com/aplicaciones/mensajes-solo-uso-novedad-tiene-preparada-whatsapp-1167634' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/whatsapp-2866195.jpg' alt='Mensajes de un solo uso: así es la novedad que tiene preparada WhatsApp' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/criptos/shiba-inu-sufre-movimiento-precedentes-apunta-agitado-final-ano-1167606'>Shiba Inu sufre un movimiento sin precedentes y apunta a un agitado final de año</a></h4>
     <a href='https://computerhoy.com/criptos/shiba-inu-sufre-movimiento-precedentes-apunta-agitado-final-ano-1167606' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/shiba-inu-suma-metaverso-pondra-venta-100000-terrenos-2662803.jpg' alt='Shiba Inu sufre un movimiento sin precedentes y apunta a un agitado final de año' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/microsoft-pone-disposicion-nuevas-maquinas-virtuales-pruebes-entorno-windows-11-1167628'>Microsoft pone a disposición nuevas máquinas virtuales para que pruebes el entorno de Windows 11</a></h4>
-    <a href='https://computerhoy.com/windows/microsoft-pone-disposicion-nuevas-maquinas-virtuales-pruebes-entorno-windows-11-1167628' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/ordenador-windows-2897366.jpg' alt='Microsoft pone a disposición nuevas máquinas virtuales para que pruebes el entorno de Windows 11' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/podras-liberar-ram-nuevos-modos-ahorro-memoria-energia-chrome-1167620'>Así podrás liberar RAM con los nuevos modos de ahorro de memoria y energía de Chrome</a></h4>
-    <a href='https://computerhoy.com/pc/podras-liberar-ram-nuevos-modos-ahorro-memoria-energia-chrome-1167620' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/google-chrome-2897360.jpg' alt='Así podrás liberar RAM con los nuevos modos de ahorro de memoria y energía de Chrome' />
     </a>
 </div>
 
