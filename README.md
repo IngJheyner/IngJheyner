@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/windows/microsoft-pone-disposicion-nuevas-maquinas-virtuales-pruebes-entorno-windows-11-1167628'>Microsoft pone a disposición nuevas máquinas virtuales para que pruebes el entorno de Windows 11</a></h4>
+    <a href='https://computerhoy.com/windows/microsoft-pone-disposicion-nuevas-maquinas-virtuales-pruebes-entorno-windows-11-1167628' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/ordenador-windows-2897366.jpg' alt='Microsoft pone a disposición nuevas máquinas virtuales para que pruebes el entorno de Windows 11' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/pc/podras-liberar-ram-nuevos-modos-ahorro-memoria-energia-chrome-1167620'>Así podrás liberar RAM con los nuevos modos de ahorro de memoria y energía de Chrome</a></h4>
+    <a href='https://computerhoy.com/pc/podras-liberar-ram-nuevos-modos-ahorro-memoria-energia-chrome-1167620' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/google-chrome-2897360.jpg' alt='Así podrás liberar RAM con los nuevos modos de ahorro de memoria y energía de Chrome' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/internet/puede-realmente-inteligencia-artificial-viral-chatgpt-reemplazar-humanos-1167564'>¿Puede realmente la inteligencia artificial viral de ChatGPT reemplazar a los humanos?</a></h4>
     <a href='https://computerhoy.com/internet/puede-realmente-inteligencia-artificial-viral-chatgpt-reemplazar-humanos-1167564' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/inteligencia-artificial-2707953.jpg' alt='¿Puede realmente la inteligencia artificial viral de ChatGPT reemplazar a los humanos?' />
@@ -71,22 +87,6 @@
     <a href='https://computerhoy.com/reportajes/life/guia-consejos-comprar-monitor-presion-arterial-tensiometro-digital-domestico-1094859' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/tensiometro-2761141.jpg' alt='Guía y consejos para comprar un monitor de presión arterial o tensiómetro digital doméstico
 ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/series-ver-fin-semana-netflix-disney-lionsgate-heroes-mafiosos-rebelion-1167560'>Qué series ver este fin de semana en Netflix, Disney+ y Lionsgate+: héroes, mafiosos y una rebelión</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/series-ver-fin-semana-netflix-disney-lionsgate-heroes-mafiosos-rebelion-1167560' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/series-fin-semana-diciembre-2022-2897240.jpg' alt='Qué series ver este fin de semana en Netflix, Disney+ y Lionsgate+: héroes, mafiosos y una rebelión' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/peliculas-ver-fin-semana-netflix-movistarplus-prime-video-pinocchio-spider-man-noche-museo-1167206'>Qué películas ver este fin de semana en Netflix, MovistarPlus+ y Prime Video: Pinocchio, Spider-Man y Noche en el Museo </a></h4>
-    <a href='https://computerhoy.com/entretenimiento/peliculas-ver-fin-semana-netflix-movistarplus-prime-video-pinocchio-spider-man-noche-museo-1167206' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/peliculas-ver-fin-semana-netflix-movistarplus-prime-video-pinocchio-spider-man-noche-museo-2896436.jpg' alt='Qué películas ver este fin de semana en Netflix, MovistarPlus+ y Prime Video: Pinocchio, Spider-Man y Noche en el Museo ' />
     </a>
 </div>
 
