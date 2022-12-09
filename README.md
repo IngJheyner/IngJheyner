@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/smartwatches/ano-viene-quieres-ponerte-forma-corriendo-reloj-huawei-tiene-mejor-gps-60eu-descuento-1166886'>Si el año que viene quieres ponerte en forma corriendo, este reloj de Huawei tiene el mejor GPS con 60€ de descuento</a></h4>
+    <a href='https://computerhoy.com/smartwatches/ano-viene-quieres-ponerte-forma-corriendo-reloj-huawei-tiene-mejor-gps-60eu-descuento-1166886' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/huawei-watch-gt3-2895566.jpg' alt='Si el año que viene quieres ponerte en forma corriendo, este reloj de Huawei tiene el mejor GPS con 60€ de descuento' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/legislacion/comision-europea-forzara-uber-airbnb-pagar-iva-acabar-ventaja-taxis-hoteles-1167318'>La Comisión Europea forzará a Uber y AirBnb a pagar el IVA y acabar con la ventaja sobre taxis y hoteles</a></h4>
+    <a href='https://computerhoy.com/legislacion/comision-europea-forzara-uber-airbnb-pagar-iva-acabar-ventaja-taxis-hoteles-1167318' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/comision-europea-forzara-uber-airbnb-pagar-iva-acabar-ventaja-taxis-hoteles-2896634.jpg' alt='La Comisión Europea forzará a Uber y AirBnb a pagar el IVA y acabar con la ventaja sobre taxis y hoteles' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/amazon/amazon-suma-tendencia-tiktok-nuevos-feeds-productos-1167338'>Amazon se suma a la tendencia TikTok con sus nuevos feeds de productos</a></h4>
     <a href='https://computerhoy.com/amazon/amazon-suma-tendencia-tiktok-nuevos-feeds-productos-1167338' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/amazon-nueva-aplicacion-2896534.jpg' alt='Amazon se suma a la tendencia TikTok con sus nuevos feeds de productos' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/pc/microsoft-surface-laptop-4-precio-minimo-1167198'>El portátil ultraligero y elegante Microsoft Surface Laptop 4 ha bajado 400€ por primera vez y ya es su precio mínimo</a></h4>
     <a href='https://computerhoy.com/pc/microsoft-surface-laptop-4-precio-minimo-1167198' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/microsoft-surface-laptop-4-2896400.jpg' alt='El portátil ultraligero y elegante Microsoft Surface Laptop 4 ha bajado 400€ por primera vez y ya es su precio mínimo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/gaming/oscar-videojuegos-ya-tiene-ganadores-eldeng-ring-gana-goty-1167214'>Los Oscar de los videojuegos ya tiene a sus ganadores: Elden Ring gana el GOTY</a></h4>
-    <a href='https://computerhoy.com/gaming/oscar-videojuegos-ya-tiene-ganadores-eldeng-ring-gana-goty-1167214' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/game-awards-2022-2896326.jpg' alt='Los Oscar de los videojuegos ya tiene a sus ganadores: Elden Ring gana el GOTY' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/energia/estas-mejoradas-baterias-sodio-convierten-potentes-superan-cuatro-iones-litio-1167210'>Estas mejoradas baterías de sodio se convierten en las más potentes y superan por cuatro a las de iones de litio</a></h4>
-    <a href='https://computerhoy.com/energia/estas-mejoradas-baterias-sodio-convierten-potentes-superan-cuatro-iones-litio-1167210' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/coches-electricos-1500-km-autonomia-estas-nuevas-baterias-sodio-2896350.jpg' alt='Estas mejoradas baterías de sodio se convierten en las más potentes y superan por cuatro a las de iones de litio' />
     </a>
 </div>
 
