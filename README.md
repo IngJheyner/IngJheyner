@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/redes-sociales/texas-prohibir-redes-sociales-menores-18-anos-1167646'>En Estados Unidos quieren prohibir las redes sociales a los menores de 18 años</a></h4>
+    <a href='https://computerhoy.com/redes-sociales/texas-prohibir-redes-sociales-menores-18-anos-1167646' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/estados-unidos-quieren-prohibir-redes-sociales-menores-18-anos-2897390.jpg' alt='En Estados Unidos quieren prohibir las redes sociales a los menores de 18 años' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/pc/portatil-huawei-matebook-14-ryzen-5-router-wifi-6-gratis-320-euros-descuento-solo-579-euros-1167642'>Huawei MateBook 14 con Ryzen 5, router WiFi 6 gratis y 320 euros de descuento, solo 579 euros</a></h4>
     <a href='https://computerhoy.com/pc/portatil-huawei-matebook-14-ryzen-5-router-wifi-6-gratis-320-euros-descuento-solo-579-euros-1167642' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/huawei-matebook-14-ryzen-5-320-euros-descuento-queda-precio-chollo-solo-579-euros-2897384.jpg' alt='Huawei MateBook 14 con Ryzen 5, router WiFi 6 gratis y 320 euros de descuento, solo 579 euros' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/streaming/machos-alfa-nueva-serie-creadores-la-que-se-avecina-trailer-fecha-estreno-netflix-1167640'>Machos alfa, la nueva serie de los creadores de La que se avecina y Aquí no hay quien viva, tráiler y fecha de estreno</a></h4>
     <a href='https://computerhoy.com/streaming/machos-alfa-nueva-serie-creadores-la-que-se-avecina-trailer-fecha-estreno-netflix-1167640' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/verticalimage1670617009116-2897374.jpg' alt='Machos alfa, la nueva serie de los creadores de La que se avecina y Aquí no hay quien viva, tráiler y fecha de estreno' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/criptos/shiba-inu-sufre-movimiento-precedentes-apunta-agitado-final-ano-1167606'>Shiba Inu sufre un movimiento sin precedentes y apunta a un agitado final de año</a></h4>
-    <a href='https://computerhoy.com/criptos/shiba-inu-sufre-movimiento-precedentes-apunta-agitado-final-ano-1167606' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/shiba-inu-suma-metaverso-pondra-venta-100000-terrenos-2662803.jpg' alt='Shiba Inu sufre un movimiento sin precedentes y apunta a un agitado final de año' />
     </a>
 </div>
 
