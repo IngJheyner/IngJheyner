@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/mejores-auriculares-inalambricos-baratos-cancelacion-ruido-1104803'>Estos son los auriculares con cancelación de ruido más baratos</a></h4>
+    <a href='https://computerhoy.com/reportajes/mejores-auriculares-inalambricos-baratos-cancelacion-ruido-1104803' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/03/review-huawei-freebuds-4i-2266791.jpg' alt='Estos son los auriculares con cancelación de ruido más baratos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/19-noticias-tecnologia-comenzar-manana-informado-ultimo-1167178'>19 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
     <a href='https://computerhoy.com/tecnologia/19-noticias-tecnologia-comenzar-manana-informado-ultimo-1167178' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/19-noticias-tecnologia-comenzar-manana-informado-ultimo-2896274.jpg' alt='19 noticias de tecnología para comenzar la mañana informado de lo último' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/life/expertos-avisan-no-debes-hacer-truco-quitar-escarcha-parabrisas-1166912'>Expertos avisan de que no debes hacer este truco para quitar la escarcha del parabrisas</a></h4>
     <a href='https://computerhoy.com/life/expertos-avisan-no-debes-hacer-truco-quitar-escarcha-parabrisas-1166912' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/escarcha-parabrisas-2895822.jpg' alt='Expertos avisan de que no debes hacer este truco para quitar la escarcha del parabrisas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/expertos-desvelan-mejores-formas-mantener-hogar-caliente-invierno-1166908'>Expertos desvelan las mejores formas de mantener nuestro hogar caliente este invierno</a></h4>
-    <a href='https://computerhoy.com/life/expertos-desvelan-mejores-formas-mantener-hogar-caliente-invierno-1166908' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/mujer-pasa-frio-casa-2895814.jpg' alt='Expertos desvelan las mejores formas de mantener nuestro hogar caliente este invierno' />
     </a>
 </div>
 
