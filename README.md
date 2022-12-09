@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/gaming/son-gpus-rtx-4070-ti-rtx-4070-economicas-nueva-generacion-1167362'>Así son las GPUs RTX 4070 Ti y RTX 4070, las más económicas de la nueva generación</a></h4>
+    <a href='https://computerhoy.com/gaming/son-gpus-rtx-4070-ti-rtx-4070-economicas-nueva-generacion-1167362' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/review-rtx-4080-2872557.jpg' alt='Así son las GPUs RTX 4070 Ti y RTX 4070, las más económicas de la nueva generación' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/smartwatches/ano-viene-quieres-ponerte-forma-corriendo-reloj-huawei-tiene-mejor-gps-60eu-descuento-1166886'>Si el año que viene quieres ponerte en forma corriendo, este reloj de Huawei tiene el mejor GPS con 60€ de descuento</a></h4>
     <a href='https://computerhoy.com/smartwatches/ano-viene-quieres-ponerte-forma-corriendo-reloj-huawei-tiene-mejor-gps-60eu-descuento-1166886' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/huawei-watch-gt3-2895566.jpg' alt='Si el año que viene quieres ponerte en forma corriendo, este reloj de Huawei tiene el mejor GPS con 60€ de descuento' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/software/alphacode-nueva-ia-google-consigue-alcanzar-humanos-aprende-programar-1167238'>AlphaCode, la nueva IA de Google, consigue alcanzar a los humanos y aprende a programar </a></h4>
     <a href='https://computerhoy.com/software/alphacode-nueva-ia-google-consigue-alcanzar-humanos-aprende-programar-1167238' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/alphacode-nueva-ia-google-consigue-alcanzar-humanos-aprende-programar-2896410.jpg' alt='AlphaCode, la nueva IA de Google, consigue alcanzar a los humanos y aprende a programar ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/microsoft-surface-laptop-4-precio-minimo-1167198'>El portátil ultraligero y elegante Microsoft Surface Laptop 4 ha bajado 400€ por primera vez y ya es su precio mínimo</a></h4>
-    <a href='https://computerhoy.com/pc/microsoft-surface-laptop-4-precio-minimo-1167198' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/microsoft-surface-laptop-4-2896400.jpg' alt='El portátil ultraligero y elegante Microsoft Surface Laptop 4 ha bajado 400€ por primera vez y ya es su precio mínimo' />
     </a>
 </div>
 
