@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/amazon/amazon-suma-tendencia-tiktok-nuevos-feeds-productos-1167338'>Amazon se suma a la tendencia TikTok con sus nuevos feeds de productos</a></h4>
+    <a href='https://computerhoy.com/amazon/amazon-suma-tendencia-tiktok-nuevos-feeds-productos-1167338' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/amazon-nueva-aplicacion-2896534.jpg' alt='Amazon se suma a la tendencia TikTok con sus nuevos feeds de productos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/software/alphacode-nueva-ia-google-consigue-alcanzar-humanos-aprende-programar-1167238'>AlphaCode, la nueva IA de Google, consigue alcanzar a los humanos y aprende a programar </a></h4>
     <a href='https://computerhoy.com/software/alphacode-nueva-ia-google-consigue-alcanzar-humanos-aprende-programar-1167238' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/alphacode-nueva-ia-google-consigue-alcanzar-humanos-aprende-programar-2896410.jpg' alt='AlphaCode, la nueva IA de Google, consigue alcanzar a los humanos y aprende a programar ' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/energia/estas-mejoradas-baterias-sodio-convierten-potentes-superan-cuatro-iones-litio-1167210'>Estas mejoradas baterías de sodio se convierten en las más potentes y superan por cuatro a las de iones de litio</a></h4>
     <a href='https://computerhoy.com/energia/estas-mejoradas-baterias-sodio-convierten-potentes-superan-cuatro-iones-litio-1167210' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/coches-electricos-1500-km-autonomia-estas-nuevas-baterias-sodio-2896350.jpg' alt='Estas mejoradas baterías de sodio se convierten en las más potentes y superan por cuatro a las de iones de litio' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/desafio-visual-cuantos-cuadrados-eres-capaz-ver-imagen-1167170'>Desafío rápido: ¿cuántos cuadrados eres capaz de ver en la imagen?</a></h4>
-    <a href='https://computerhoy.com/life/desafio-visual-cuantos-cuadrados-eres-capaz-ver-imagen-1167170' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/desafio-rapido-cuantos-cuadrados-eres-capaz-ver-imagen-2895916.jpg' alt='Desafío rápido: ¿cuántos cuadrados eres capaz de ver en la imagen?' />
     </a>
 </div>
 
