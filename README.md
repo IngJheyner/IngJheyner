@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/software/alphacode-nueva-ia-google-consigue-alcanzar-humanos-aprende-programar-1167238'>AlphaCode, la nueva IA de Google, consigue alcanzar a los humanos y aprende a programar </a></h4>
+    <a href='https://computerhoy.com/software/alphacode-nueva-ia-google-consigue-alcanzar-humanos-aprende-programar-1167238' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/alphacode-nueva-ia-google-consigue-alcanzar-humanos-aprende-programar-2896410.jpg' alt='AlphaCode, la nueva IA de Google, consigue alcanzar a los humanos y aprende a programar ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/pc/microsoft-surface-laptop-4-precio-minimo-1167198'>El portátil ultraligero y elegante Microsoft Surface Laptop 4 ha bajado 400€ por primera vez y ya es su precio mínimo</a></h4>
+    <a href='https://computerhoy.com/pc/microsoft-surface-laptop-4-precio-minimo-1167198' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/microsoft-surface-laptop-4-2896400.jpg' alt='El portátil ultraligero y elegante Microsoft Surface Laptop 4 ha bajado 400€ por primera vez y ya es su precio mínimo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/gaming/oscar-videojuegos-ya-tiene-ganadores-eldeng-ring-gana-goty-1167214'>Los Oscar de los videojuegos ya tiene a sus ganadores: Elden Ring gana el GOTY</a></h4>
     <a href='https://computerhoy.com/gaming/oscar-videojuegos-ya-tiene-ganadores-eldeng-ring-gana-goty-1167214' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/game-awards-2022-2896326.jpg' alt='Los Oscar de los videojuegos ya tiene a sus ganadores: Elden Ring gana el GOTY' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/life/desafio-visual-cuantos-cuadrados-eres-capaz-ver-imagen-1167170'>Desafío rápido: ¿cuántos cuadrados eres capaz de ver en la imagen?</a></h4>
     <a href='https://computerhoy.com/life/desafio-visual-cuantos-cuadrados-eres-capaz-ver-imagen-1167170' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/desafio-rapido-cuantos-cuadrados-eres-capaz-ver-imagen-2895916.jpg' alt='Desafío rápido: ¿cuántos cuadrados eres capaz de ver en la imagen?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/mejores-auriculares-inalambricos-baratos-cancelacion-ruido-1104803'>Estos son los auriculares con cancelación de ruido más baratos</a></h4>
-    <a href='https://computerhoy.com/reportajes/mejores-auriculares-inalambricos-baratos-cancelacion-ruido-1104803' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/03/review-huawei-freebuds-4i-2266791.jpg' alt='Estos son los auriculares con cancelación de ruido más baratos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/19-noticias-tecnologia-comenzar-manana-informado-ultimo-1167178'>19 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
-    <a href='https://computerhoy.com/tecnologia/19-noticias-tecnologia-comenzar-manana-informado-ultimo-1167178' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/19-noticias-tecnologia-comenzar-manana-informado-ultimo-2896274.jpg' alt='19 noticias de tecnología para comenzar la mañana informado de lo último' />
     </a>
 </div>
 
