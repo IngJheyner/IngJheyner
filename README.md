@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/peliculas-ver-fin-semana-netflix-movistarplus-prime-video-pinocchio-spider-man-noche-museo-1167206'>Qué películas ver este fin de semana en Netflix, MovistarPlus+ y Prime Video: Pinocchio, Spider-Man y Noche en el Museo </a></h4>
+    <a href='https://computerhoy.com/entretenimiento/peliculas-ver-fin-semana-netflix-movistarplus-prime-video-pinocchio-spider-man-noche-museo-1167206' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/peliculas-ver-fin-semana-netflix-movistarplus-prime-video-pinocchio-spider-man-noche-museo-2896436.jpg' alt='Qué películas ver este fin de semana en Netflix, MovistarPlus+ y Prime Video: Pinocchio, Spider-Man y Noche en el Museo ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/10-estafas-instagram-debes-conocer-evitar-1167478'>Las 10 estafas de Instagram de que debes conocer y evitar</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/10-estafas-instagram-debes-conocer-evitar-1167478' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/instagram-seguridad-2897084.jpg' alt='Las 10 estafas de Instagram de que debes conocer y evitar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/amazon/espana-clic-nueva-propuesta-amazon-apoyar-pymes-nacionales-1167492'>España a un clic: la nueva propuesta de Amazon para apoyar a las pymes nacionales</a></h4>
     <a href='https://computerhoy.com/amazon/espana-clic-nueva-propuesta-amazon-apoyar-pymes-nacionales-1167492' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/espana-clic-amazon-2896954.jpg' alt='España a un clic: la nueva propuesta de Amazon para apoyar a las pymes nacionales' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/gaming/son-gpus-rtx-4070-ti-rtx-4070-economicas-nueva-generacion-1167362'>Así son las GPUs RTX 4070 Ti y RTX 4070, las más económicas de la nueva generación</a></h4>
     <a href='https://computerhoy.com/gaming/son-gpus-rtx-4070-ti-rtx-4070-economicas-nueva-generacion-1167362' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/review-rtx-4080-2872557.jpg' alt='Así son las GPUs RTX 4070 Ti y RTX 4070, las más económicas de la nueva generación' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/smartwatches/ano-viene-quieres-ponerte-forma-corriendo-reloj-huawei-tiene-mejor-gps-60eu-descuento-1166886'>Si el año que viene quieres ponerte en forma corriendo, este reloj de Huawei tiene el mejor GPS con 60€ de descuento</a></h4>
-    <a href='https://computerhoy.com/smartwatches/ano-viene-quieres-ponerte-forma-corriendo-reloj-huawei-tiene-mejor-gps-60eu-descuento-1166886' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/huawei-watch-gt3-2895566.jpg' alt='Si el año que viene quieres ponerte en forma corriendo, este reloj de Huawei tiene el mejor GPS con 60€ de descuento' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/legislacion/comision-europea-forzara-uber-airbnb-pagar-iva-acabar-ventaja-taxis-hoteles-1167318'>La Comisión Europea forzará a Uber y AirBnb a pagar el IVA y acabar con la ventaja sobre taxis y hoteles</a></h4>
-    <a href='https://computerhoy.com/legislacion/comision-europea-forzara-uber-airbnb-pagar-iva-acabar-ventaja-taxis-hoteles-1167318' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/comision-europea-forzara-uber-airbnb-pagar-iva-acabar-ventaja-taxis-hoteles-2896634.jpg' alt='La Comisión Europea forzará a Uber y AirBnb a pagar el IVA y acabar con la ventaja sobre taxis y hoteles' />
     </a>
 </div>
 
