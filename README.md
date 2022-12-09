@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/19-noticias-tecnologia-comenzar-manana-informado-ultimo-1167178'>19 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
+    <a href='https://computerhoy.com/tecnologia/19-noticias-tecnologia-comenzar-manana-informado-ultimo-1167178' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/19-noticias-tecnologia-comenzar-manana-informado-ultimo-2896274.jpg' alt='19 noticias de tecnología para comenzar la mañana informado de lo último' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/gaming/agencia-antimonopolio-detiene-compra-activision-microsoft-1166934'>La agencia antimonopolio de Estados Unidos detiene la compra de Activision por parte de Microsoft</a></h4>
     <a href='https://computerhoy.com/gaming/agencia-antimonopolio-detiene-compra-activision-microsoft-1166934' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/microsoft-activision-2589223.jpg' alt='La agencia antimonopolio de Estados Unidos detiene la compra de Activision por parte de Microsoft' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/life/expertos-desvelan-mejores-formas-mantener-hogar-caliente-invierno-1166908'>Expertos desvelan las mejores formas de mantener nuestro hogar caliente este invierno</a></h4>
     <a href='https://computerhoy.com/life/expertos-desvelan-mejores-formas-mantener-hogar-caliente-invierno-1166908' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/mujer-pasa-frio-casa-2895814.jpg' alt='Expertos desvelan las mejores formas de mantener nuestro hogar caliente este invierno' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/tarjeta-nvidia-rtx-4070-ti-es-rtx-4080-12-gb-nuevo-nombre-1166906'>Se confirma que la tarjeta RTX 4070 Ti es la RTX 4080 de 12 GB con un nuevo nombre</a></h4>
-    <a href='https://computerhoy.com/pc/tarjeta-nvidia-rtx-4070-ti-es-rtx-4080-12-gb-nuevo-nombre-1166906' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/confirma-tarjeta-rtx-4070-ti-rtx-4080-12-gb-nuevo-nombre-2895792.jpg' alt='Se confirma que la tarjeta RTX 4070 Ti es la RTX 4080 de 12 GB con un nuevo nombre' />
     </a>
 </div>
 
