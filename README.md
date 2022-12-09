@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/amazon/espana-clic-nueva-propuesta-amazon-apoyar-pymes-nacionales-1167492'>España a un clic: la nueva propuesta de Amazon para apoyar a las pymes nacionales</a></h4>
+    <a href='https://computerhoy.com/amazon/espana-clic-nueva-propuesta-amazon-apoyar-pymes-nacionales-1167492' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/espana-clic-amazon-2896954.jpg' alt='España a un clic: la nueva propuesta de Amazon para apoyar a las pymes nacionales' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/facebook-2023-crear-recuperar-eliminar-cuenta-descargar-videos-todo-debes-saber-1164822'>Facebook en 2023: crear, recuperar o eliminar una cuenta, descargar vídeos y todo lo que debes saber</a></h4>
+    <a href='https://computerhoy.com/tecnologia/facebook-2023-crear-recuperar-eliminar-cuenta-descargar-videos-todo-debes-saber-1164822' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/facebook-2896836.jpg' alt='Facebook en 2023: crear, recuperar o eliminar una cuenta, descargar vídeos y todo lo que debes saber' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/gaming/son-gpus-rtx-4070-ti-rtx-4070-economicas-nueva-generacion-1167362'>Así son las GPUs RTX 4070 Ti y RTX 4070, las más económicas de la nueva generación</a></h4>
     <a href='https://computerhoy.com/gaming/son-gpus-rtx-4070-ti-rtx-4070-economicas-nueva-generacion-1167362' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/review-rtx-4080-2872557.jpg' alt='Así son las GPUs RTX 4070 Ti y RTX 4070, las más económicas de la nueva generación' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/legislacion/comision-europea-forzara-uber-airbnb-pagar-iva-acabar-ventaja-taxis-hoteles-1167318'>La Comisión Europea forzará a Uber y AirBnb a pagar el IVA y acabar con la ventaja sobre taxis y hoteles</a></h4>
     <a href='https://computerhoy.com/legislacion/comision-europea-forzara-uber-airbnb-pagar-iva-acabar-ventaja-taxis-hoteles-1167318' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/comision-europea-forzara-uber-airbnb-pagar-iva-acabar-ventaja-taxis-hoteles-2896634.jpg' alt='La Comisión Europea forzará a Uber y AirBnb a pagar el IVA y acabar con la ventaja sobre taxis y hoteles' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/amazon/amazon-suma-tendencia-tiktok-nuevos-feeds-productos-1167338'>Amazon se suma a la tendencia TikTok con sus nuevos feeds de productos</a></h4>
-    <a href='https://computerhoy.com/amazon/amazon-suma-tendencia-tiktok-nuevos-feeds-productos-1167338' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/amazon-nueva-aplicacion-2896534.jpg' alt='Amazon se suma a la tendencia TikTok con sus nuevos feeds de productos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/software/alphacode-nueva-ia-google-consigue-alcanzar-humanos-aprende-programar-1167238'>AlphaCode, la nueva IA de Google, consigue alcanzar a los humanos y aprende a programar </a></h4>
-    <a href='https://computerhoy.com/software/alphacode-nueva-ia-google-consigue-alcanzar-humanos-aprende-programar-1167238' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/alphacode-nueva-ia-google-consigue-alcanzar-humanos-aprende-programar-2896410.jpg' alt='AlphaCode, la nueva IA de Google, consigue alcanzar a los humanos y aprende a programar ' />
     </a>
 </div>
 
