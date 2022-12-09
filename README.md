@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/gaming/oscar-videojuegos-ya-tiene-ganadores-eldeng-ring-gana-goty-1167214'>Los Oscar de los videojuegos ya tiene a sus ganadores: Elden Ring gana el GOTY</a></h4>
+    <a href='https://computerhoy.com/gaming/oscar-videojuegos-ya-tiene-ganadores-eldeng-ring-gana-goty-1167214' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/game-awards-2022-2896326.jpg' alt='Los Oscar de los videojuegos ya tiene a sus ganadores: Elden Ring gana el GOTY' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/energia/estas-mejoradas-baterias-sodio-convierten-potentes-superan-cuatro-iones-litio-1167210'>Estas mejoradas baterías de sodio se convierten en las más potentes y superan por cuatro a las de iones de litio</a></h4>
+    <a href='https://computerhoy.com/energia/estas-mejoradas-baterias-sodio-convierten-potentes-superan-cuatro-iones-litio-1167210' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/coches-electricos-1500-km-autonomia-estas-nuevas-baterias-sodio-2896350.jpg' alt='Estas mejoradas baterías de sodio se convierten en las más potentes y superan por cuatro a las de iones de litio' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/desafio-visual-cuantos-cuadrados-eres-capaz-ver-imagen-1167170'>Desafío rápido: ¿cuántos cuadrados eres capaz de ver en la imagen?</a></h4>
+    <a href='https://computerhoy.com/life/desafio-visual-cuantos-cuadrados-eres-capaz-ver-imagen-1167170' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/desafio-rapido-cuantos-cuadrados-eres-capaz-ver-imagen-2895916.jpg' alt='Desafío rápido: ¿cuántos cuadrados eres capaz de ver en la imagen?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/mejores-auriculares-inalambricos-baratos-cancelacion-ruido-1104803'>Estos son los auriculares con cancelación de ruido más baratos</a></h4>
     <a href='https://computerhoy.com/reportajes/mejores-auriculares-inalambricos-baratos-cancelacion-ruido-1104803' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/03/review-huawei-freebuds-4i-2266791.jpg' alt='Estos son los auriculares con cancelación de ruido más baratos' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/19-noticias-tecnologia-comenzar-manana-informado-ultimo-1167178'>19 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
     <a href='https://computerhoy.com/tecnologia/19-noticias-tecnologia-comenzar-manana-informado-ultimo-1167178' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/19-noticias-tecnologia-comenzar-manana-informado-ultimo-2896274.jpg' alt='19 noticias de tecnología para comenzar la mañana informado de lo último' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/gaming/agencia-antimonopolio-detiene-compra-activision-microsoft-1166934'>La agencia antimonopolio de Estados Unidos detiene la compra de Activision por parte de Microsoft</a></h4>
-    <a href='https://computerhoy.com/gaming/agencia-antimonopolio-detiene-compra-activision-microsoft-1166934' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/microsoft-activision-2589223.jpg' alt='La agencia antimonopolio de Estados Unidos detiene la compra de Activision por parte de Microsoft' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/gaming/mando-hori-split-pad-compact-nintendo-switch-oferta-1166920'>Si tienes una Nintendo Switch necesitas este mando Hori Split Pad Compact para jugar mejor</a></h4>
-    <a href='https://computerhoy.com/gaming/mando-hori-split-pad-compact-nintendo-switch-oferta-1166920' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/tienes-nintendo-switch-necesitas-mando-hori-split-pad-compact-jugar-mejor-2895830.jpg' alt='Si tienes una Nintendo Switch necesitas este mando Hori Split Pad Compact para jugar mejor' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/expertos-avisan-no-debes-hacer-truco-quitar-escarcha-parabrisas-1166912'>Expertos avisan de que no debes hacer este truco para quitar la escarcha del parabrisas</a></h4>
-    <a href='https://computerhoy.com/life/expertos-avisan-no-debes-hacer-truco-quitar-escarcha-parabrisas-1166912' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/escarcha-parabrisas-2895822.jpg' alt='Expertos avisan de que no debes hacer este truco para quitar la escarcha del parabrisas' />
     </a>
 </div>
 
