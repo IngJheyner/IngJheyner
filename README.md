@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/motor/cazan-motorista-sin-carnet-seguro-itv-casco-positivo-alcohol-1167918'>Repóker de ases: cazan a un conductor de moto sin carnet, sin seguro, sin ITV, sin casco, y positivo en alcohol</a></h4>
+    <a href='https://computerhoy.com/motor/cazan-motorista-sin-carnet-seguro-itv-casco-positivo-alcohol-1167918' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/repoker-ases-cazan-conductor-moto-carnet-seguro-itv-casco-positivo-alcohol-2897684.jpg' alt='Repóker de ases: cazan a un conductor de moto sin carnet, sin seguro, sin ITV, sin casco, y positivo en alcohol' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/estas-son-tres-novedades-tendra-sorteo-loteria-navidad-2022-1164014'>Estas son las tres novedades que tendrá el sorteo de la Lotería de Navidad 2022</a></h4>
     <a href='https://computerhoy.com/life/estas-son-tres-novedades-tendra-sorteo-loteria-navidad-2022-1164014' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/estas-son-tres-novedades-tendra-sorteo-loteria-navidad-2022-2890392.jpg' alt='Estas son las tres novedades que tendrá el sorteo de la Lotería de Navidad 2022' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/analisis/logi-dock-videollamadas-mejor-conectividad-pc-portatil-1166766'>Logi Dock, videollamadas y mejor conectividad para tu PC y portátil</a></h4>
     <a href='https://computerhoy.com/analisis/logi-dock-videollamadas-mejor-conectividad-pc-portatil-1166766' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/logi-dock-analisis-opinion-2895184.jpg' alt='Logi Dock, videollamadas y mejor conectividad para tu PC y portátil' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/reto-matematico-descifra-codigo-color-escondido-1167882'>Desafío rápido: descifra el código de color escondido lo antes posible</a></h4>
-    <a href='https://computerhoy.com/life/reto-matematico-descifra-codigo-color-escondido-1167882' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/desafio-rapido-descifra-codigo-color-escondido-antes-posible-2897630.jpg' alt='Desafío rápido: descifra el código de color escondido lo antes posible' />
     </a>
 </div>
 
