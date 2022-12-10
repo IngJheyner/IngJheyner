@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/google/google-ensena-ia-jugar-stratego-convierte-mejores-jugadores-mundo-1167954'>Google enseña a su IA a jugar a Stratego y se convierte en uno de los mejores jugadores del mundo</a></h4>
+    <a href='https://computerhoy.com/google/google-ensena-ia-jugar-stratego-convierte-mejores-jugadores-mundo-1167954' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/stratego-deepmind-2897776.jpg' alt='Google enseña a su IA a jugar a Stratego y se convierte en uno de los mejores jugadores del mundo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/moviles/te-podria-costar-hacerte-proximo-iphone-15-mucho-dinero-1167946'>Esto es lo que te podría costar hacerte con el próximo iPhone 15, y es mucho dinero</a></h4>
+    <a href='https://computerhoy.com/moviles/te-podria-costar-hacerte-proximo-iphone-15-mucho-dinero-1167946' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/apple-iphone-14-plus-analisis-opinion-2857683.jpg' alt='Esto es lo que te podría costar hacerte con el próximo iPhone 15, y es mucho dinero' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/entretenimiento/7-series-espanolas-ha-hecho-remake-extranjero-1166778'>7 series españolas de las que se ha hecho un remake en el extranjero</a></h4>
     <a href='https://computerhoy.com/entretenimiento/7-series-espanolas-ha-hecho-remake-extranjero-1166778' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/7-series-espanolas-ha-hecho-remake-extranjero-2895798.jpg' alt='7 series españolas de las que se ha hecho un remake en el extranjero' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/redes-sociales/twitter-podria-eliminarte-esa-cuenta-hace-anos-no-utilizas-1167926'>Twitter podría eliminarte esa cuenta que hace años que no utilizas</a></h4>
     <a href='https://computerhoy.com/redes-sociales/twitter-podria-eliminarte-esa-cuenta-hace-anos-no-utilizas-1167926' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/twitter-2897710.jpg' alt='Twitter podría eliminarte esa cuenta que hace años que no utilizas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/cazan-motorista-sin-carnet-seguro-itv-casco-positivo-alcohol-1167918'>Repóker de ases: cazan a un conductor de moto sin carnet, sin seguro, sin ITV, sin casco, y positivo en alcohol</a></h4>
-    <a href='https://computerhoy.com/motor/cazan-motorista-sin-carnet-seguro-itv-casco-positivo-alcohol-1167918' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/repoker-ases-cazan-conductor-moto-carnet-seguro-itv-casco-positivo-alcohol-2897684.jpg' alt='Repóker de ases: cazan a un conductor de moto sin carnet, sin seguro, sin ITV, sin casco, y positivo en alcohol' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/estas-son-tres-novedades-tendra-sorteo-loteria-navidad-2022-1164014'>Estas son las tres novedades que tendrá el sorteo de la Lotería de Navidad 2022</a></h4>
-    <a href='https://computerhoy.com/life/estas-son-tres-novedades-tendra-sorteo-loteria-navidad-2022-1164014' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/estas-son-tres-novedades-tendra-sorteo-loteria-navidad-2022-2890392.jpg' alt='Estas son las tres novedades que tendrá el sorteo de la Lotería de Navidad 2022' />
     </a>
 </div>
 
