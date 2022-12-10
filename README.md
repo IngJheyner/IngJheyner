@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/aplicaciones/fallo-android-auto-google-maps-enviando-muchos-conductores-medio-nada-1167964'>El fallo de Android Auto con Google Maps que está enviando a muchos conductores al medio de la nada</a></h4>
+    <a href='https://computerhoy.com/aplicaciones/fallo-android-auto-google-maps-enviando-muchos-conductores-medio-nada-1167964' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/android-auto-coolwalk-2870275.jpg' alt='El fallo de Android Auto con Google Maps que está enviando a muchos conductores al medio de la nada' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apple/apple-podria-estar-trabajando-dos-plataformas-nuevas-gafas-realidad-mixta-1167962'>Apple podría estar trabajando en dos plataformas para sus nuevas gafas de realidad mixta</a></h4>
     <a href='https://computerhoy.com/apple/apple-podria-estar-trabajando-dos-plataformas-nuevas-gafas-realidad-mixta-1167962' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/concepto-realidad-virtual-2872105.jpg' alt='Apple podría estar trabajando en dos plataformas para sus nuevas gafas de realidad mixta' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/entretenimiento/7-series-espanolas-ha-hecho-remake-extranjero-1166778'>7 series españolas de las que se ha hecho un remake en el extranjero</a></h4>
     <a href='https://computerhoy.com/entretenimiento/7-series-espanolas-ha-hecho-remake-extranjero-1166778' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/7-series-espanolas-ha-hecho-remake-extranjero-2895798.jpg' alt='7 series españolas de las que se ha hecho un remake en el extranjero' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/cancion-relajante-jamas-creada-no-deberias-escucharla-conduces-1167932'>Esta es la canción más relajante jamás creada y no deberías escucharla si conduces</a></h4>
-    <a href='https://computerhoy.com/life/cancion-relajante-jamas-creada-no-deberias-escucharla-conduces-1167932' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/escuchar-musica-mientras-conduce-2897734.jpg' alt='Esta es la canción más relajante jamás creada y no deberías escucharla si conduces' />
     </a>
 </div>
 
