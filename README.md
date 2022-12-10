@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/7-series-espanolas-ha-hecho-remake-extranjero-1166778'>7 series españolas de las que se ha hecho un remake en el extranjero</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/7-series-espanolas-ha-hecho-remake-extranjero-1166778' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/7-series-espanolas-ha-hecho-remake-extranjero-2895798.jpg' alt='7 series españolas de las que se ha hecho un remake en el extranjero' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/cancion-relajante-jamas-creada-no-deberias-escucharla-conduces-1167932'>Esta es la canción más relajante jamás creada y no deberías escucharla si conduces</a></h4>
     <a href='https://computerhoy.com/life/cancion-relajante-jamas-creada-no-deberias-escucharla-conduces-1167932' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/escuchar-musica-mientras-conduce-2897734.jpg' alt='Esta es la canción más relajante jamás creada y no deberías escucharla si conduces' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/life/estas-son-tres-novedades-tendra-sorteo-loteria-navidad-2022-1164014'>Estas son las tres novedades que tendrá el sorteo de la Lotería de Navidad 2022</a></h4>
     <a href='https://computerhoy.com/life/estas-son-tres-novedades-tendra-sorteo-loteria-navidad-2022-1164014' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/estas-son-tres-novedades-tendra-sorteo-loteria-navidad-2022-2890392.jpg' alt='Estas son las tres novedades que tendrá el sorteo de la Lotería de Navidad 2022' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/samsung-galaxy-book2-mejor-alternativa-macbook-150-euros-menos-1167878'>Samsung Galaxy Book2: la mejor alternativa al MacBook por 150 euros menos</a></h4>
-    <a href='https://computerhoy.com/tecnologia/samsung-galaxy-book2-mejor-alternativa-macbook-150-euros-menos-1167878' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/samsung-galaxy-book2-2897626.jpg' alt='Samsung Galaxy Book2: la mejor alternativa al MacBook por 150 euros menos' />
     </a>
 </div>
 
