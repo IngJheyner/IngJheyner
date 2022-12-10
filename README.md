@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/fabrican-robots-arana-japon-arreglar-sistema-alcantarillado-1167992'>Fabrican robots araña en Japón para arreglar el sistema de alcantarillado</a></h4>
+    <a href='https://computerhoy.com/ciencia/fabrican-robots-arana-japon-arreglar-sistema-alcantarillado-1167992' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/fabrican-robots-arana-japon-arreglar-sistema-alcantarillado-2897886.jpg' alt='Fabrican robots araña en Japón para arreglar el sistema de alcantarillado' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciencia/sony-preparada-crear-robots-humanoides-falta-razon-1167966'>Sony preparada para crear robots humanoides a falta de una razón</a></h4>
     <a href='https://computerhoy.com/ciencia/sony-preparada-crear-robots-humanoides-falta-razon-1167966' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/robots-humanoides-2897792.jpg' alt='Sony preparada para crear robots humanoides a falta de una razón' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/aplicaciones/fallo-android-auto-google-maps-enviando-muchos-conductores-medio-nada-1167964'>El fallo de Android Auto con Google Maps que está enviando a muchos conductores al medio de la nada</a></h4>
     <a href='https://computerhoy.com/aplicaciones/fallo-android-auto-google-maps-enviando-muchos-conductores-medio-nada-1167964' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/android-auto-coolwalk-2870275.jpg' alt='El fallo de Android Auto con Google Maps que está enviando a muchos conductores al medio de la nada' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/apple-podria-estar-trabajando-dos-plataformas-nuevas-gafas-realidad-mixta-1167962'>Apple podría estar trabajando en dos plataformas para sus nuevas gafas de realidad mixta</a></h4>
-    <a href='https://computerhoy.com/apple/apple-podria-estar-trabajando-dos-plataformas-nuevas-gafas-realidad-mixta-1167962' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/concepto-realidad-virtual-2872105.jpg' alt='Apple podría estar trabajando en dos plataformas para sus nuevas gafas de realidad mixta' />
     </a>
 </div>
 
