@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/cancion-relajante-jamas-creada-no-deberias-escucharla-conduces-1167932'>Esta es la canción más relajante jamás creada y no deberías escucharla si conduces</a></h4>
+    <a href='https://computerhoy.com/life/cancion-relajante-jamas-creada-no-deberias-escucharla-conduces-1167932' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/escuchar-musica-mientras-conduce-2897734.jpg' alt='Esta es la canción más relajante jamás creada y no deberías escucharla si conduces' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/redes-sociales/twitter-podria-eliminarte-esa-cuenta-hace-anos-no-utilizas-1167926'>Twitter podría eliminarte esa cuenta que hace años que no utilizas</a></h4>
+    <a href='https://computerhoy.com/redes-sociales/twitter-podria-eliminarte-esa-cuenta-hace-anos-no-utilizas-1167926' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/twitter-2897710.jpg' alt='Twitter podría eliminarte esa cuenta que hace años que no utilizas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/motor/cazan-motorista-sin-carnet-seguro-itv-casco-positivo-alcohol-1167918'>Repóker de ases: cazan a un conductor de moto sin carnet, sin seguro, sin ITV, sin casco, y positivo en alcohol</a></h4>
     <a href='https://computerhoy.com/motor/cazan-motorista-sin-carnet-seguro-itv-casco-positivo-alcohol-1167918' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/repoker-ases-cazan-conductor-moto-carnet-seguro-itv-casco-positivo-alcohol-2897684.jpg' alt='Repóker de ases: cazan a un conductor de moto sin carnet, sin seguro, sin ITV, sin casco, y positivo en alcohol' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/samsung-galaxy-book2-mejor-alternativa-macbook-150-euros-menos-1167878'>Samsung Galaxy Book2: la mejor alternativa al MacBook por 150 euros menos</a></h4>
     <a href='https://computerhoy.com/tecnologia/samsung-galaxy-book2-mejor-alternativa-macbook-150-euros-menos-1167878' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/samsung-galaxy-book2-2897626.jpg' alt='Samsung Galaxy Book2: la mejor alternativa al MacBook por 150 euros menos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/11-aplicaciones-usabamos-todos-windows-hoy-dia-no-1165286'>Las 11 aplicaciones que usábamos todos en Windows y hoy día no</a></h4>
-    <a href='https://computerhoy.com/tecnologia/11-aplicaciones-usabamos-todos-windows-hoy-dia-no-1165286' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/disco-flexible-desparecido-2892972.jpg' alt='Las 11 aplicaciones que usábamos todos en Windows y hoy día no' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/logi-dock-videollamadas-mejor-conectividad-pc-portatil-1166766'>Logi Dock, videollamadas y mejor conectividad para tu PC y portátil</a></h4>
-    <a href='https://computerhoy.com/analisis/logi-dock-videollamadas-mejor-conectividad-pc-portatil-1166766' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/logi-dock-analisis-opinion-2895184.jpg' alt='Logi Dock, videollamadas y mejor conectividad para tu PC y portátil' />
     </a>
 </div>
 
