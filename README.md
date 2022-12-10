@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/nuevo-truco-bacterias-evitar-antibioticos-1167312'>Descubren un nuevo truco de las bacterias para evitar los antibióticos, y da bastante miedo</a></h4>
+    <a href='https://computerhoy.com/ciencia/nuevo-truco-bacterias-evitar-antibioticos-1167312' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/descubren-nuevo-truco-bacterias-evitar-antibioticos-da-bastante-miedo-2896352.jpg' alt='Descubren un nuevo truco de las bacterias para evitar los antibióticos, y da bastante miedo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciencia/fabrican-robots-arana-japon-arreglar-sistema-alcantarillado-1167992'>Fabrican robots araña en Japón para arreglar el sistema de alcantarillado</a></h4>
     <a href='https://computerhoy.com/ciencia/fabrican-robots-arana-japon-arreglar-sistema-alcantarillado-1167992' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/fabrican-robots-arana-japon-arreglar-sistema-alcantarillado-2897886.jpg' alt='Fabrican robots araña en Japón para arreglar el sistema de alcantarillado' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/9-trucos-bateria-iphone-ios-16-dure-1166332'>9 trucos para que la batería de un iPhone con iOS 16 dure más</a></h4>
     <a href='https://computerhoy.com/tecnologia/9-trucos-bateria-iphone-ios-16-dure-1166332' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/bateria-baja-iphone-14-2894654.jpg' alt='9 trucos para que la batería de un iPhone con iOS 16 dure más' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/aplicaciones/fallo-android-auto-google-maps-enviando-muchos-conductores-medio-nada-1167964'>El fallo de Android Auto con Google Maps que está enviando a muchos conductores al medio de la nada</a></h4>
-    <a href='https://computerhoy.com/aplicaciones/fallo-android-auto-google-maps-enviando-muchos-conductores-medio-nada-1167964' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/android-auto-coolwalk-2870275.jpg' alt='El fallo de Android Auto con Google Maps que está enviando a muchos conductores al medio de la nada' />
     </a>
 </div>
 
