@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/estas-son-tres-novedades-tendra-sorteo-loteria-navidad-2022-1164014'>Estas son las tres novedades que tendrá el sorteo de la Lotería de Navidad 2022</a></h4>
+    <a href='https://computerhoy.com/life/estas-son-tres-novedades-tendra-sorteo-loteria-navidad-2022-1164014' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/estas-son-tres-novedades-tendra-sorteo-loteria-navidad-2022-2890392.jpg' alt='Estas son las tres novedades que tendrá el sorteo de la Lotería de Navidad 2022' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/samsung-galaxy-book2-mejor-alternativa-macbook-150-euros-menos-1167878'>Samsung Galaxy Book2: la mejor alternativa al MacBook por 150 euros menos</a></h4>
     <a href='https://computerhoy.com/tecnologia/samsung-galaxy-book2-mejor-alternativa-macbook-150-euros-menos-1167878' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/samsung-galaxy-book2-2897626.jpg' alt='Samsung Galaxy Book2: la mejor alternativa al MacBook por 150 euros menos' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/life/reto-matematico-descifra-codigo-color-escondido-1167882'>Desafío rápido: descifra el código de color escondido lo antes posible</a></h4>
     <a href='https://computerhoy.com/life/reto-matematico-descifra-codigo-color-escondido-1167882' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/desafio-rapido-descifra-codigo-color-escondido-antes-posible-2897630.jpg' alt='Desafío rápido: descifra el código de color escondido lo antes posible' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tv-video/oled-oled-oled-estan-evolucionando-pantallas-oled-televisores-1165142'>OLED, OLED y… más OLED, así están evolucionando las pantallas OLED de los televisores</a></h4>
-    <a href='https://computerhoy.com/tv-video/oled-oled-oled-estan-evolucionando-pantallas-oled-televisores-1165142' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/philips-oled-807-analisis-opinion-2861111.jpg' alt='OLED, OLED y… más OLED, así están evolucionando las pantallas OLED de los televisores' />
     </a>
 </div>
 
