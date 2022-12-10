@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/robot-conserje-kawasaki-video-1167876'>Este robot conserje de Kawasaki abre puertas y te lleva el desayuno a la cama del hotel (vídeo)</a></h4>
+    <a href='https://computerhoy.com/tecnologia/robot-conserje-kawasaki-video-1167876' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/verticalimage1670641260030-2897622.jpg' alt='Este robot conserje de Kawasaki abre puertas y te lleva el desayuno a la cama del hotel (vídeo)' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/cuantos-caballos-fuerza-puede-generar-caballo-1165246'>¿Cuantos caballos de fuerza puede generar un caballo? No, no es uno...</a></h4>
+    <a href='https://computerhoy.com/ciencia/cuantos-caballos-fuerza-puede-generar-caballo-1165246' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/cuantos-caballos-potencia-puede-genera-caballo-no-no-2892830.jpg' alt='¿Cuantos caballos de fuerza puede generar un caballo? No, no es uno...' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/navidad-ideas-regalar-ninos-1167542'>Navidad 2022: 10 ideas para regalar a niños y niñas</a></h4>
     <a href='https://computerhoy.com/tecnologia/navidad-ideas-regalar-ninos-1167542' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/cajas-regalos-navidenos-2897280.jpg' alt='Navidad 2022: 10 ideas para regalar a niños y niñas' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/redes-sociales/texas-prohibir-redes-sociales-menores-18-anos-1167646'>En Estados Unidos quieren prohibir las redes sociales a los menores de 18 años</a></h4>
     <a href='https://computerhoy.com/redes-sociales/texas-prohibir-redes-sociales-menores-18-anos-1167646' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/estados-unidos-quieren-prohibir-redes-sociales-menores-18-anos-2897390.jpg' alt='En Estados Unidos quieren prohibir las redes sociales a los menores de 18 años' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/portatil-huawei-matebook-14-ryzen-5-router-wifi-6-gratis-320-euros-descuento-solo-579-euros-1167642'>Huawei MateBook 14 con Ryzen 5, router WiFi 6 gratis y 320 euros de descuento, solo 579 euros</a></h4>
-    <a href='https://computerhoy.com/pc/portatil-huawei-matebook-14-ryzen-5-router-wifi-6-gratis-320-euros-descuento-solo-579-euros-1167642' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/huawei-matebook-14-ryzen-5-320-euros-descuento-queda-precio-chollo-solo-579-euros-2897384.jpg' alt='Huawei MateBook 14 con Ryzen 5, router WiFi 6 gratis y 320 euros de descuento, solo 579 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/futuro-tdt-cada-vez-negro-bbc-solo-emitira-streaming-1167636'>El futuro de la TDT, cada vez más negro: la BBC solo emitirá en streaming</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/futuro-tdt-cada-vez-negro-bbc-solo-emitira-streaming-1167636' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/mando-distancia-fire-tv-stick-apuntando-tv-2885879.jpg' alt='El futuro de la TDT, cada vez más negro: la BBC solo emitirá en streaming' />
     </a>
 </div>
 
