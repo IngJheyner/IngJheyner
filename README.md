@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/analisis/logi-dock-videollamadas-mejor-conectividad-pc-portatil-1166766'>Logi Dock, videollamadas y mejor conectividad para tu PC y portátil</a></h4>
+    <a href='https://computerhoy.com/analisis/logi-dock-videollamadas-mejor-conectividad-pc-portatil-1166766' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/logi-dock-analisis-opinion-2895184.jpg' alt='Logi Dock, videollamadas y mejor conectividad para tu PC y portátil' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/reto-matematico-descifra-codigo-color-escondido-1167882'>Desafío rápido: descifra el código de color escondido lo antes posible</a></h4>
+    <a href='https://computerhoy.com/life/reto-matematico-descifra-codigo-color-escondido-1167882' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/desafio-rapido-descifra-codigo-color-escondido-antes-posible-2897630.jpg' alt='Desafío rápido: descifra el código de color escondido lo antes posible' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tv-video/oled-oled-oled-estan-evolucionando-pantallas-oled-televisores-1165142'>OLED, OLED y… más OLED, así están evolucionando las pantallas OLED de los televisores</a></h4>
+    <a href='https://computerhoy.com/tv-video/oled-oled-oled-estan-evolucionando-pantallas-oled-televisores-1165142' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/philips-oled-807-analisis-opinion-2861111.jpg' alt='OLED, OLED y… más OLED, así están evolucionando las pantallas OLED de los televisores' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/robot-conserje-kawasaki-video-1167876'>Este robot conserje de Kawasaki abre puertas y te lleva el desayuno a la cama del hotel (vídeo)</a></h4>
     <a href='https://computerhoy.com/tecnologia/robot-conserje-kawasaki-video-1167876' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/verticalimage1670641260030-2897622.jpg' alt='Este robot conserje de Kawasaki abre puertas y te lleva el desayuno a la cama del hotel (vídeo)' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/ciencia/cuantos-caballos-fuerza-puede-generar-caballo-1165246'>¿Cuantos caballos de fuerza puede generar un caballo? No, no es uno...</a></h4>
     <a href='https://computerhoy.com/ciencia/cuantos-caballos-fuerza-puede-generar-caballo-1165246' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/cuantos-caballos-potencia-puede-genera-caballo-no-no-2892830.jpg' alt='¿Cuantos caballos de fuerza puede generar un caballo? No, no es uno...' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/navidad-ideas-regalar-ninos-1167542'>Navidad 2022: 10 ideas para regalar a niños y niñas</a></h4>
-    <a href='https://computerhoy.com/tecnologia/navidad-ideas-regalar-ninos-1167542' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/cajas-regalos-navidenos-2897280.jpg' alt='Navidad 2022: 10 ideas para regalar a niños y niñas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/multimillonario-japones-yusaku-maezawa-vuelta-luna-spacex-elige-8-acompanantes-1167648'>El multimillonario japonés que dará una vuelta a la Luna en 2023 con SpaceX, elige a sus 8 acompañantes</a></h4>
-    <a href='https://computerhoy.com/espacio/multimillonario-japones-yusaku-maezawa-vuelta-luna-spacex-elige-8-acompanantes-1167648' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/multimillonario-japones-dara-vuelta-luna-spacex-elige-8-acompanantes-2897396.jpg' alt='El multimillonario japonés que dará una vuelta a la Luna en 2023 con SpaceX, elige a sus 8 acompañantes' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/redes-sociales/texas-prohibir-redes-sociales-menores-18-anos-1167646'>En Estados Unidos quieren prohibir las redes sociales a los menores de 18 años</a></h4>
-    <a href='https://computerhoy.com/redes-sociales/texas-prohibir-redes-sociales-menores-18-anos-1167646' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/estados-unidos-quieren-prohibir-redes-sociales-menores-18-anos-2897390.jpg' alt='En Estados Unidos quieren prohibir las redes sociales a los menores de 18 años' />
     </a>
 </div>
 
