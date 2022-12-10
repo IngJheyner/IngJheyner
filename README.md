@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/apple-podria-estar-trabajando-dos-plataformas-nuevas-gafas-realidad-mixta-1167962'>Apple podría estar trabajando en dos plataformas para sus nuevas gafas de realidad mixta</a></h4>
+    <a href='https://computerhoy.com/apple/apple-podria-estar-trabajando-dos-plataformas-nuevas-gafas-realidad-mixta-1167962' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/concepto-realidad-virtual-2872105.jpg' alt='Apple podría estar trabajando en dos plataformas para sus nuevas gafas de realidad mixta' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/google/google-ensena-ia-jugar-stratego-convierte-mejores-jugadores-mundo-1167954'>Google enseña a su IA a jugar a Stratego y se convierte en uno de los mejores jugadores del mundo</a></h4>
     <a href='https://computerhoy.com/google/google-ensena-ia-jugar-stratego-convierte-mejores-jugadores-mundo-1167954' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/stratego-deepmind-2897776.jpg' alt='Google enseña a su IA a jugar a Stratego y se convierte en uno de los mejores jugadores del mundo' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/life/cancion-relajante-jamas-creada-no-deberias-escucharla-conduces-1167932'>Esta es la canción más relajante jamás creada y no deberías escucharla si conduces</a></h4>
     <a href='https://computerhoy.com/life/cancion-relajante-jamas-creada-no-deberias-escucharla-conduces-1167932' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/escuchar-musica-mientras-conduce-2897734.jpg' alt='Esta es la canción más relajante jamás creada y no deberías escucharla si conduces' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/redes-sociales/twitter-podria-eliminarte-esa-cuenta-hace-anos-no-utilizas-1167926'>Twitter podría eliminarte esa cuenta que hace años que no utilizas</a></h4>
-    <a href='https://computerhoy.com/redes-sociales/twitter-podria-eliminarte-esa-cuenta-hace-anos-no-utilizas-1167926' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/twitter-2897710.jpg' alt='Twitter podría eliminarte esa cuenta que hace años que no utilizas' />
     </a>
 </div>
 
