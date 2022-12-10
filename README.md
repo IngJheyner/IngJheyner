@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/samsung-galaxy-book2-mejor-alternativa-macbook-150-euros-menos-1167878'>Samsung Galaxy Book2: la mejor alternativa al MacBook por 150 euros menos</a></h4>
+    <a href='https://computerhoy.com/tecnologia/samsung-galaxy-book2-mejor-alternativa-macbook-150-euros-menos-1167878' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/samsung-galaxy-book2-2897626.jpg' alt='Samsung Galaxy Book2: la mejor alternativa al MacBook por 150 euros menos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/11-aplicaciones-usabamos-todos-windows-hoy-dia-no-1165286'>Las 11 aplicaciones que usábamos todos en Windows y hoy día no</a></h4>
+    <a href='https://computerhoy.com/tecnologia/11-aplicaciones-usabamos-todos-windows-hoy-dia-no-1165286' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/disco-flexible-desparecido-2892972.jpg' alt='Las 11 aplicaciones que usábamos todos en Windows y hoy día no' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/analisis/logi-dock-videollamadas-mejor-conectividad-pc-portatil-1166766'>Logi Dock, videollamadas y mejor conectividad para tu PC y portátil</a></h4>
     <a href='https://computerhoy.com/analisis/logi-dock-videollamadas-mejor-conectividad-pc-portatil-1166766' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/logi-dock-analisis-opinion-2895184.jpg' alt='Logi Dock, videollamadas y mejor conectividad para tu PC y portátil' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tv-video/oled-oled-oled-estan-evolucionando-pantallas-oled-televisores-1165142'>OLED, OLED y… más OLED, así están evolucionando las pantallas OLED de los televisores</a></h4>
     <a href='https://computerhoy.com/tv-video/oled-oled-oled-estan-evolucionando-pantallas-oled-televisores-1165142' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/philips-oled-807-analisis-opinion-2861111.jpg' alt='OLED, OLED y… más OLED, así están evolucionando las pantallas OLED de los televisores' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/robot-conserje-kawasaki-video-1167876'>Este robot conserje de Kawasaki abre puertas y te lleva el desayuno a la cama del hotel (vídeo)</a></h4>
-    <a href='https://computerhoy.com/tecnologia/robot-conserje-kawasaki-video-1167876' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/verticalimage1670641260030-2897622.jpg' alt='Este robot conserje de Kawasaki abre puertas y te lleva el desayuno a la cama del hotel (vídeo)' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/cuantos-caballos-fuerza-puede-generar-caballo-1165246'>¿Cuantos caballos de fuerza puede generar un caballo? No, no es uno...</a></h4>
-    <a href='https://computerhoy.com/ciencia/cuantos-caballos-fuerza-puede-generar-caballo-1165246' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/cuantos-caballos-potencia-puede-genera-caballo-no-no-2892830.jpg' alt='¿Cuantos caballos de fuerza puede generar un caballo? No, no es uno...' />
     </a>
 </div>
 
