@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/espacio/multimillonario-japones-yusaku-maezawa-vuelta-luna-spacex-elige-8-acompanantes-1167648'>El multimillonario japonés que dará una vuelta a la Luna en 2023 con SpaceX, elige a sus 8 acompañantes</a></h4>
+    <a href='https://computerhoy.com/espacio/multimillonario-japones-yusaku-maezawa-vuelta-luna-spacex-elige-8-acompanantes-1167648' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/multimillonario-japones-dara-vuelta-luna-spacex-elige-8-acompanantes-2897396.jpg' alt='El multimillonario japonés que dará una vuelta a la Luna en 2023 con SpaceX, elige a sus 8 acompañantes' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/redes-sociales/texas-prohibir-redes-sociales-menores-18-anos-1167646'>En Estados Unidos quieren prohibir las redes sociales a los menores de 18 años</a></h4>
     <a href='https://computerhoy.com/redes-sociales/texas-prohibir-redes-sociales-menores-18-anos-1167646' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/estados-unidos-quieren-prohibir-redes-sociales-menores-18-anos-2897390.jpg' alt='En Estados Unidos quieren prohibir las redes sociales a los menores de 18 años' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/aplicaciones/mensajes-solo-uso-novedad-tiene-preparada-whatsapp-1167634'>Mensajes de un solo uso: así es la novedad que tiene preparada WhatsApp</a></h4>
     <a href='https://computerhoy.com/aplicaciones/mensajes-solo-uso-novedad-tiene-preparada-whatsapp-1167634' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/whatsapp-2866195.jpg' alt='Mensajes de un solo uso: así es la novedad que tiene preparada WhatsApp' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/streaming/machos-alfa-nueva-serie-creadores-la-que-se-avecina-trailer-fecha-estreno-netflix-1167640'>Machos alfa, la nueva serie de los creadores de La que se avecina y Aquí no hay quien viva, tráiler y fecha de estreno</a></h4>
-    <a href='https://computerhoy.com/streaming/machos-alfa-nueva-serie-creadores-la-que-se-avecina-trailer-fecha-estreno-netflix-1167640' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/verticalimage1670617009116-2897374.jpg' alt='Machos alfa, la nueva serie de los creadores de La que se avecina y Aquí no hay quien viva, tráiler y fecha de estreno' />
     </a>
 </div>
 
