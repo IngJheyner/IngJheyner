@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/navidad-ideas-regalar-ninos-1167542'>Navidad 2022: 10 ideas para regalar a niños y niñas</a></h4>
+    <a href='https://computerhoy.com/tecnologia/navidad-ideas-regalar-ninos-1167542' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/cajas-regalos-navidenos-2897280.jpg' alt='Navidad 2022: 10 ideas para regalar a niños y niñas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/espacio/multimillonario-japones-yusaku-maezawa-vuelta-luna-spacex-elige-8-acompanantes-1167648'>El multimillonario japonés que dará una vuelta a la Luna en 2023 con SpaceX, elige a sus 8 acompañantes</a></h4>
     <a href='https://computerhoy.com/espacio/multimillonario-japones-yusaku-maezawa-vuelta-luna-spacex-elige-8-acompanantes-1167648' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/multimillonario-japones-dara-vuelta-luna-spacex-elige-8-acompanantes-2897396.jpg' alt='El multimillonario japonés que dará una vuelta a la Luna en 2023 con SpaceX, elige a sus 8 acompañantes' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/entretenimiento/futuro-tdt-cada-vez-negro-bbc-solo-emitira-streaming-1167636'>El futuro de la TDT, cada vez más negro: la BBC solo emitirá en streaming</a></h4>
     <a href='https://computerhoy.com/entretenimiento/futuro-tdt-cada-vez-negro-bbc-solo-emitira-streaming-1167636' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/mando-distancia-fire-tv-stick-apuntando-tv-2885879.jpg' alt='El futuro de la TDT, cada vez más negro: la BBC solo emitirá en streaming' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/aplicaciones/mensajes-solo-uso-novedad-tiene-preparada-whatsapp-1167634'>Mensajes de un solo uso: así es la novedad que tiene preparada WhatsApp</a></h4>
-    <a href='https://computerhoy.com/aplicaciones/mensajes-solo-uso-novedad-tiene-preparada-whatsapp-1167634' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/whatsapp-2866195.jpg' alt='Mensajes de un solo uso: así es la novedad que tiene preparada WhatsApp' />
     </a>
 </div>
 
