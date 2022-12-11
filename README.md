@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/espacio/capsula-orion-ameriza-exito-oceano-pacifico-mision-artemis-i-1168306'>La cápsula Orion ameriza con éxito en el Océano Pacífico, la misión Artemis I cumple sus objetivos</a></h4>
+    <a href='https://computerhoy.com/espacio/capsula-orion-ameriza-exito-oceano-pacifico-mision-artemis-i-1168306' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/capsula-orion-ameriza-exito-oceano-pacifico-mision-artemis-i-cumple-objetivos-2898374.jpg' alt='La cápsula Orion ameriza con éxito en el Océano Pacífico, la misión Artemis I cumple sus objetivos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/motor/lexus-cambio-marchas-manual-coches-electricos-video-1168300'>Lexus muestra en vídeo un cambio de marchas manual para los coches eléctricos, incluso puede calarlos</a></h4>
     <a href='https://computerhoy.com/motor/lexus-cambio-marchas-manual-coches-electricos-video-1168300' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/lexus-desarrollando-cambio-marchas-manual-coches-electricos-porque-atractivo-conducir-2898342.jpg' alt='Lexus muestra en vídeo un cambio de marchas manual para los coches eléctricos, incluso puede calarlos' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/android/usuarios-alertan-android-auto-deja-funcionar-estos-dispositivos-despues-actualizacion-1168260'>Usuarios alertan de que Android Auto deja de funcionar en estos dispositivos después de una actualización</a></h4>
     <a href='https://computerhoy.com/android/usuarios-alertan-android-auto-deja-funcionar-estos-dispositivos-despues-actualizacion-1168260' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/android-auto-2700725.jpg' alt='Usuarios alertan de que Android Auto deja de funcionar en estos dispositivos después de una actualización' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/industria/huawei-oppo-firman-acuerdo-global-licencias-cruzadas-patentes-supondria-futuro-mercado-1168256'>Huawei y OPPO firman un acuerdo global de licencias cruzadas de patentes, y esto supondría para el futuro del mercado</a></h4>
-    <a href='https://computerhoy.com/industria/huawei-oppo-firman-acuerdo-global-licencias-cruzadas-patentes-supondria-futuro-mercado-1168256' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/huawei-oppo-2898216.jpg' alt='Huawei y OPPO firman un acuerdo global de licencias cruzadas de patentes, y esto supondría para el futuro del mercado' />
     </a>
 </div>
 
