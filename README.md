@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/nuevos-robots-repartidores-comida-no-pueden-llegar-destinos-porque-no-saben-cruzar-semaforos-rojo-1167996'>Los nuevos robots repartidores de comida que no pueden llegar a sus destinos porque no saben cruzar semáforos en rojo</a></h4>
+    <a href='https://computerhoy.com/ciencia/nuevos-robots-repartidores-comida-no-pueden-llegar-destinos-porque-no-saben-cruzar-semaforos-rojo-1167996' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/nuevos-robots-repartidores-comida-tienen-problema-intentar-cruzar-semaforos-2897894.jpg' alt='Los nuevos robots repartidores de comida que no pueden llegar a sus destinos porque no saben cruzar semáforos en rojo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/hora-regresa-nave-espacial-orion-nasa-tierra-como-seguirlo-directo-1167986'>A qué hora regresa la nave espacial Orion de la NASA a la Tierra y cómo seguirlo en directo</a></h4>
+    <a href='https://computerhoy.com/life/hora-regresa-nave-espacial-orion-nasa-tierra-como-seguirlo-directo-1167986' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/artemis-i-2897834.jpg' alt='A qué hora regresa la nave espacial Orion de la NASA a la Tierra y cómo seguirlo en directo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/audio-hi-fi/amazon-echo-dot-show-ofertas-amazon-vs-mediamarkt-1168006'>MediaMarkt planta cara a Amazon: todos los altavoces Echo están más baratos</a></h4>
     <a href='https://computerhoy.com/audio-hi-fi/amazon-echo-dot-show-ofertas-amazon-vs-mediamarkt-1168006' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/varios-altavoces-amazon-echo-2897904.jpg' alt='MediaMarkt planta cara a Amazon: todos los altavoces Echo están más baratos' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/ciencia/fabrican-robots-arana-japon-arreglar-sistema-alcantarillado-1167992'>Fabrican robots araña en Japón para arreglar el sistema de alcantarillado</a></h4>
     <a href='https://computerhoy.com/ciencia/fabrican-robots-arana-japon-arreglar-sistema-alcantarillado-1167992' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/fabrican-robots-arana-japon-arreglar-sistema-alcantarillado-2897886.jpg' alt='Fabrican robots araña en Japón para arreglar el sistema de alcantarillado' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/sony-preparada-crear-robots-humanoides-falta-razon-1167966'>Sony preparada para crear robots humanoides a falta de una razón</a></h4>
-    <a href='https://computerhoy.com/ciencia/sony-preparada-crear-robots-humanoides-falta-razon-1167966' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/robots-humanoides-2897792.jpg' alt='Sony preparada para crear robots humanoides a falta de una razón' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/mejores/escritorios-elevables-baratos-1167934'>Mejores escritorios elevables baratos: modelos que merecen la pena</a></h4>
-    <a href='https://computerhoy.com/mejores/escritorios-elevables-baratos-1167934' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/escritorio-elevable-elementos-encima-mesa-2897760.jpg' alt='Mejores escritorios elevables baratos: modelos que merecen la pena' />
     </a>
 </div>
 
