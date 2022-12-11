@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/analisis/xiaomi-redmi-pad-review-opinion-1157653'>Análisis y opinión de la Redmi Pad, una tablet muy interesante para el día a día</a></h4>
+    <a href='https://computerhoy.com/analisis/xiaomi-redmi-pad-review-opinion-1157653' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/redmi-pad-2883447.jpg' alt='Análisis y opinión de la Redmi Pad, una tablet muy interesante para el día a día' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/acertijo-matematico-descubre-valores-solo-tres-operaciones-1168198'>Desafío rápido: descubre los valores de A y B con solo tres operaciones</a></h4>
     <a href='https://computerhoy.com/life/acertijo-matematico-descubre-valores-solo-tres-operaciones-1168198' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/desafio-rapido-descubre-valores-b-solo-tres-operaciones-2898116.jpg' alt='Desafío rápido: descubre los valores de A y B con solo tres operaciones' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/audio-hi-fi/amazon-echo-dot-show-ofertas-amazon-vs-mediamarkt-1168006'>MediaMarkt planta cara a Amazon: todos los altavoces Echo están más baratos</a></h4>
     <a href='https://computerhoy.com/audio-hi-fi/amazon-echo-dot-show-ofertas-amazon-vs-mediamarkt-1168006' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/varios-altavoces-amazon-echo-2897904.jpg' alt='MediaMarkt planta cara a Amazon: todos los altavoces Echo están más baratos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/nuevo-truco-bacterias-evitar-antibioticos-1167312'>Descubren un nuevo truco de las bacterias para evitar los antibióticos, y da bastante miedo</a></h4>
-    <a href='https://computerhoy.com/ciencia/nuevo-truco-bacterias-evitar-antibioticos-1167312' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/descubren-nuevo-truco-bacterias-evitar-antibioticos-da-bastante-miedo-2896352.jpg' alt='Descubren un nuevo truco de las bacterias para evitar los antibióticos, y da bastante miedo' />
     </a>
 </div>
 
