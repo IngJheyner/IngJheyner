@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/audio-hi-fi/amazon-echo-dot-show-ofertas-amazon-vs-mediamarkt-1168006'>MediaMarkt planta cara a Amazon: todos los altavoces Echo están más baratos</a></h4>
+    <a href='https://computerhoy.com/audio-hi-fi/amazon-echo-dot-show-ofertas-amazon-vs-mediamarkt-1168006' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/varios-altavoces-amazon-echo-2897904.jpg' alt='MediaMarkt planta cara a Amazon: todos los altavoces Echo están más baratos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciencia/nuevo-truco-bacterias-evitar-antibioticos-1167312'>Descubren un nuevo truco de las bacterias para evitar los antibióticos, y da bastante miedo</a></h4>
     <a href='https://computerhoy.com/ciencia/nuevo-truco-bacterias-evitar-antibioticos-1167312' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/descubren-nuevo-truco-bacterias-evitar-antibioticos-da-bastante-miedo-2896352.jpg' alt='Descubren un nuevo truco de las bacterias para evitar los antibióticos, y da bastante miedo' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/mejores/escritorios-elevables-baratos-1167934'>Mejores escritorios elevables baratos: modelos que merecen la pena</a></h4>
     <a href='https://computerhoy.com/mejores/escritorios-elevables-baratos-1167934' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/escritorio-elevable-elementos-encima-mesa-2897760.jpg' alt='Mejores escritorios elevables baratos: modelos que merecen la pena' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/9-trucos-bateria-iphone-ios-16-dure-1166332'>9 trucos para que la batería de un iPhone con iOS 16 dure más</a></h4>
-    <a href='https://computerhoy.com/tecnologia/9-trucos-bateria-iphone-ios-16-dure-1166332' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/bateria-baja-iphone-14-2894654.jpg' alt='9 trucos para que la batería de un iPhone con iOS 16 dure más' />
     </a>
 </div>
 
