@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/debes-hacer-acabas-borrar-virus-windows-1166290'>Esto es lo debes hacer si acabas de borrar un virus de Windows</a></h4>
+    <a href='https://computerhoy.com/tutoriales/debes-hacer-acabas-borrar-virus-windows-1166290' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/virus-ordenador-2894472.jpg' alt='Esto es lo debes hacer si acabas de borrar un virus de Windows' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/ingenieria-social-consisten-estos-ataques-1152941'>¿Qué es la Ingeniería Social y en qué consisten estos ataques?</a></h4>
+    <a href='https://computerhoy.com/tecnologia/ingenieria-social-consisten-estos-ataques-1152941' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/verticalimage1670577644633-2896420.jpg' alt='¿Qué es la Ingeniería Social y en qué consisten estos ataques?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/analisis/xiaomi-redmi-pad-review-opinion-1157653'>Análisis y opinión de la Redmi Pad, una tablet muy interesante para el día a día</a></h4>
     <a href='https://computerhoy.com/analisis/xiaomi-redmi-pad-review-opinion-1157653' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/redmi-pad-2883447.jpg' alt='Análisis y opinión de la Redmi Pad, una tablet muy interesante para el día a día' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/ciencia/nuevos-robots-repartidores-comida-no-pueden-llegar-destinos-porque-no-saben-cruzar-semaforos-rojo-1167996'>Los nuevos robots repartidores de comida que no pueden llegar a sus destinos porque no saben cruzar semáforos en rojo</a></h4>
     <a href='https://computerhoy.com/ciencia/nuevos-robots-repartidores-comida-no-pueden-llegar-destinos-porque-no-saben-cruzar-semaforos-rojo-1167996' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/nuevos-robots-repartidores-comida-tienen-problema-intentar-cruzar-semaforos-2897894.jpg' alt='Los nuevos robots repartidores de comida que no pueden llegar a sus destinos porque no saben cruzar semáforos en rojo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/hora-regresa-nave-espacial-orion-nasa-tierra-como-seguirlo-directo-1167986'>A qué hora regresa la nave espacial Orion de la NASA a la Tierra y cómo seguirlo en directo</a></h4>
-    <a href='https://computerhoy.com/life/hora-regresa-nave-espacial-orion-nasa-tierra-como-seguirlo-directo-1167986' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/artemis-i-2897834.jpg' alt='A qué hora regresa la nave espacial Orion de la NASA a la Tierra y cómo seguirlo en directo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/audio-hi-fi/amazon-echo-dot-show-ofertas-amazon-vs-mediamarkt-1168006'>MediaMarkt planta cara a Amazon: todos los altavoces Echo están más baratos</a></h4>
-    <a href='https://computerhoy.com/audio-hi-fi/amazon-echo-dot-show-ofertas-amazon-vs-mediamarkt-1168006' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/varios-altavoces-amazon-echo-2897904.jpg' alt='MediaMarkt planta cara a Amazon: todos los altavoces Echo están más baratos' />
     </a>
 </div>
 
