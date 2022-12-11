@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/internet/passkey-chrome-fin-contrasenas-phishing-1168292'>Las Passkey ya disponibles en Chrome, el fin de las contraseñas y el phishing está aquí</a></h4>
+    <a href='https://computerhoy.com/internet/passkey-chrome-fin-contrasenas-phishing-1168292' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/passkeys-ya-disponibles-chrome-fin-contrasenas-aqui-2898332.jpg' alt='Las Passkey ya disponibles en Chrome, el fin de las contraseñas y el phishing está aquí' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/guia-compra/hub-usb-1112209'>Todo lo que debes saber antes de comprar un hub USB</a></h4>
+    <a href='https://computerhoy.com/guia-compra/hub-usb-1112209' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/hub-usb-c-ugreen-2450489.jpg' alt='Todo lo que debes saber antes de comprar un hub USB' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/android/usuarios-alertan-android-auto-deja-funcionar-estos-dispositivos-despues-actualizacion-1168260'>Usuarios alertan de que Android Auto deja de funcionar en estos dispositivos después de una actualización</a></h4>
     <a href='https://computerhoy.com/android/usuarios-alertan-android-auto-deja-funcionar-estos-dispositivos-despues-actualizacion-1168260' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/android-auto-2700725.jpg' alt='Usuarios alertan de que Android Auto deja de funcionar en estos dispositivos después de una actualización' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/alimentacion/tecnicas-utiliza-mercadona-compres-mucho-1168252'>Técnicas que utiliza Mercadona para que compres mucho más</a></h4>
     <a href='https://computerhoy.com/alimentacion/tecnicas-utiliza-mercadona-compres-mucho-1168252' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/mercadona-2828789.jpg' alt='Técnicas que utiliza Mercadona para que compres mucho más' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/7-peliculas-seguramente-has-visto-dos-incluso-cinco-veces-1166414'>7 películas que seguramente has visto una, dos o incluso cinco veces</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/7-peliculas-seguramente-has-visto-dos-incluso-cinco-veces-1166414' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/gladiator-2895036.jpg' alt='7 películas que seguramente has visto una, dos o incluso cinco veces' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/nueva-tecnica-permitira-coche-hidrogeno-competir-electrico-1168242'>La nueva técnica que permitirá al coche de hidrógeno competir con el eléctrico</a></h4>
-    <a href='https://computerhoy.com/motor/nueva-tecnica-permitira-coche-hidrogeno-competir-electrico-1168242' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/coche-electrico-estacion-carga-2538519.jpg' alt='La nueva técnica que permitirá al coche de hidrógeno competir con el eléctrico' />
     </a>
 </div>
 
