@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/android/usuarios-alertan-android-auto-deja-funcionar-estos-dispositivos-despues-actualizacion-1168260'>Usuarios alertan de que Android Auto deja de funcionar en estos dispositivos después de una actualización</a></h4>
+    <a href='https://computerhoy.com/android/usuarios-alertan-android-auto-deja-funcionar-estos-dispositivos-despues-actualizacion-1168260' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/android-auto-2700725.jpg' alt='Usuarios alertan de que Android Auto deja de funcionar en estos dispositivos después de una actualización' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/industria/huawei-oppo-firman-acuerdo-global-licencias-cruzadas-patentes-supondria-futuro-mercado-1168256'>Huawei y OPPO firman un acuerdo global de licencias cruzadas de patentes, y esto supondría para el futuro del mercado</a></h4>
     <a href='https://computerhoy.com/industria/huawei-oppo-firman-acuerdo-global-licencias-cruzadas-patentes-supondria-futuro-mercado-1168256' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/huawei-oppo-2898216.jpg' alt='Huawei y OPPO firman un acuerdo global de licencias cruzadas de patentes, y esto supondría para el futuro del mercado' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/motor/nueva-tecnica-permitira-coche-hidrogeno-competir-electrico-1168242'>La nueva técnica que permitirá al coche de hidrógeno competir con el eléctrico</a></h4>
     <a href='https://computerhoy.com/motor/nueva-tecnica-permitira-coche-hidrogeno-competir-electrico-1168242' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/coche-electrico-estacion-carga-2538519.jpg' alt='La nueva técnica que permitirá al coche de hidrógeno competir con el eléctrico' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/apple-ipad-10a-generacion-precio-ipad-basico-ya-no-hace-opcion-recomendable-1167468'>Apple iPad 10ª generación, el precio del iPad básico ya no lo hace la opción más recomendable</a></h4>
-    <a href='https://computerhoy.com/analisis/apple-ipad-10a-generacion-precio-ipad-basico-ya-no-hace-opcion-recomendable-1167468' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/ipad-10a-generacion-analisis-opinion-2897828.jpg' alt='Apple iPad 10ª generación, el precio del iPad básico ya no lo hace la opción más recomendable' />
     </a>
 </div>
 
