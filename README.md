@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/7-peliculas-seguramente-has-visto-dos-incluso-cinco-veces-1166414'>7 películas que seguramente has visto una, dos o incluso cinco veces</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/7-peliculas-seguramente-has-visto-dos-incluso-cinco-veces-1166414' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/gladiator-2895036.jpg' alt='7 películas que seguramente has visto una, dos o incluso cinco veces' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/motor/nueva-tecnica-permitira-coche-hidrogeno-competir-electrico-1168242'>La nueva técnica que permitirá al coche de hidrógeno competir con el eléctrico</a></h4>
+    <a href='https://computerhoy.com/motor/nueva-tecnica-permitira-coche-hidrogeno-competir-electrico-1168242' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/coche-electrico-estacion-carga-2538519.jpg' alt='La nueva técnica que permitirá al coche de hidrógeno competir con el eléctrico' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/analisis/apple-ipad-10a-generacion-precio-ipad-basico-ya-no-hace-opcion-recomendable-1167468'>Apple iPad 10ª generación, el precio del iPad básico ya no lo hace la opción más recomendable</a></h4>
+    <a href='https://computerhoy.com/analisis/apple-ipad-10a-generacion-precio-ipad-basico-ya-no-hace-opcion-recomendable-1167468' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/ipad-10a-generacion-analisis-opinion-2897828.jpg' alt='Apple iPad 10ª generación, el precio del iPad básico ya no lo hace la opción más recomendable' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/aplicaciones/nuevas-funcionalidades-whatsapp-probable-hayas-pasado-alto-1168234'>Las nuevas funcionalidades de WhatsApp que es probable que hayas pasado por alto</a></h4>
+    <a href='https://computerhoy.com/aplicaciones/nuevas-funcionalidades-whatsapp-probable-hayas-pasado-alto-1168234' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/whatsapp-2898188.jpg' alt='Las nuevas funcionalidades de WhatsApp que es probable que hayas pasado por alto' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tutoriales/debes-hacer-acabas-borrar-virus-windows-1166290'>Esto es lo debes hacer si acabas de borrar un virus de Windows</a></h4>
     <a href='https://computerhoy.com/tutoriales/debes-hacer-acabas-borrar-virus-windows-1166290' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/virus-ordenador-2894472.jpg' alt='Esto es lo debes hacer si acabas de borrar un virus de Windows' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/ingenieria-social-consisten-estos-ataques-1152941'>¿Qué es la Ingeniería Social y en qué consisten estos ataques?</a></h4>
-    <a href='https://computerhoy.com/tecnologia/ingenieria-social-consisten-estos-ataques-1152941' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/verticalimage1670577644633-2896420.jpg' alt='¿Qué es la Ingeniería Social y en qué consisten estos ataques?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/xiaomi-redmi-pad-review-opinion-1157653'>Análisis y opinión de la Redmi Pad, una tablet muy interesante para el día a día</a></h4>
-    <a href='https://computerhoy.com/analisis/xiaomi-redmi-pad-review-opinion-1157653' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/redmi-pad-2883447.jpg' alt='Análisis y opinión de la Redmi Pad, una tablet muy interesante para el día a día' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/acertijo-matematico-descubre-valores-solo-tres-operaciones-1168198'>Desafío rápido: descubre los valores de A y B con solo tres operaciones</a></h4>
-    <a href='https://computerhoy.com/life/acertijo-matematico-descubre-valores-solo-tres-operaciones-1168198' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/desafio-rapido-descubre-valores-b-solo-tres-operaciones-2898116.jpg' alt='Desafío rápido: descubre los valores de A y B con solo tres operaciones' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/nuevos-robots-repartidores-comida-no-pueden-llegar-destinos-porque-no-saben-cruzar-semaforos-rojo-1167996'>Los nuevos robots repartidores de comida que no pueden llegar a sus destinos porque no saben cruzar semáforos en rojo</a></h4>
-    <a href='https://computerhoy.com/ciencia/nuevos-robots-repartidores-comida-no-pueden-llegar-destinos-porque-no-saben-cruzar-semaforos-rojo-1167996' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/nuevos-robots-repartidores-comida-tienen-problema-intentar-cruzar-semaforos-2897894.jpg' alt='Los nuevos robots repartidores de comida que no pueden llegar a sus destinos porque no saben cruzar semáforos en rojo' />
     </a>
 </div>
 
