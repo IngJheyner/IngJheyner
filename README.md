@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/carteles-metro-tokio-solo-estudiantes-examenes-1168314'>Aparecen en el metro de Tokio unos misteriosos carteles que solo los estudiantes con exámenes son capaces de leer</a></h4>
+    <a href='https://computerhoy.com/life/carteles-metro-tokio-solo-estudiantes-examenes-1168314' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/aparecen-metro-tokio-carteles-solo-estudiantes-examenes-son-capaces-leer-2898392.jpg' alt='Aparecen en el metro de Tokio unos misteriosos carteles que solo los estudiantes con exámenes son capaces de leer' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/espacio/capsula-orion-ameriza-exito-oceano-pacifico-mision-artemis-i-1168306'>La cápsula Orion ameriza con éxito en el Océano Pacífico, la misión Artemis I cumple sus objetivos</a></h4>
     <a href='https://computerhoy.com/espacio/capsula-orion-ameriza-exito-oceano-pacifico-mision-artemis-i-1168306' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/capsula-orion-ameriza-exito-oceano-pacifico-mision-artemis-i-cumple-objetivos-2898374.jpg' alt='La cápsula Orion ameriza con éxito en el Océano Pacífico, la misión Artemis I cumple sus objetivos' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/guia-compra/hub-usb-1112209'>Todo lo que debes saber antes de comprar un hub USB</a></h4>
     <a href='https://computerhoy.com/guia-compra/hub-usb-1112209' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/hub-usb-c-ugreen-2450489.jpg' alt='Todo lo que debes saber antes de comprar un hub USB' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/android/usuarios-alertan-android-auto-deja-funcionar-estos-dispositivos-despues-actualizacion-1168260'>Usuarios alertan de que Android Auto deja de funcionar en estos dispositivos después de una actualización</a></h4>
-    <a href='https://computerhoy.com/android/usuarios-alertan-android-auto-deja-funcionar-estos-dispositivos-despues-actualizacion-1168260' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/android-auto-2700725.jpg' alt='Usuarios alertan de que Android Auto deja de funcionar en estos dispositivos después de una actualización' />
     </a>
 </div>
 
