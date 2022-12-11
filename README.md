@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/industria/huawei-oppo-firman-acuerdo-global-licencias-cruzadas-patentes-supondria-futuro-mercado-1168256'>Huawei y OPPO firman un acuerdo global de licencias cruzadas de patentes, y esto supondría para el futuro del mercado</a></h4>
+    <a href='https://computerhoy.com/industria/huawei-oppo-firman-acuerdo-global-licencias-cruzadas-patentes-supondria-futuro-mercado-1168256' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/huawei-oppo-2898216.jpg' alt='Huawei y OPPO firman un acuerdo global de licencias cruzadas de patentes, y esto supondría para el futuro del mercado' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/alimentacion/tecnicas-utiliza-mercadona-compres-mucho-1168252'>Técnicas que utiliza Mercadona para que compres mucho más</a></h4>
     <a href='https://computerhoy.com/alimentacion/tecnicas-utiliza-mercadona-compres-mucho-1168252' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/mercadona-2828789.jpg' alt='Técnicas que utiliza Mercadona para que compres mucho más' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/analisis/apple-ipad-10a-generacion-precio-ipad-basico-ya-no-hace-opcion-recomendable-1167468'>Apple iPad 10ª generación, el precio del iPad básico ya no lo hace la opción más recomendable</a></h4>
     <a href='https://computerhoy.com/analisis/apple-ipad-10a-generacion-precio-ipad-basico-ya-no-hace-opcion-recomendable-1167468' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/ipad-10a-generacion-analisis-opinion-2897828.jpg' alt='Apple iPad 10ª generación, el precio del iPad básico ya no lo hace la opción más recomendable' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/aplicaciones/nuevas-funcionalidades-whatsapp-probable-hayas-pasado-alto-1168234'>Las nuevas funcionalidades de WhatsApp que es probable que hayas pasado por alto</a></h4>
-    <a href='https://computerhoy.com/aplicaciones/nuevas-funcionalidades-whatsapp-probable-hayas-pasado-alto-1168234' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/whatsapp-2898188.jpg' alt='Las nuevas funcionalidades de WhatsApp que es probable que hayas pasado por alto' />
     </a>
 </div>
 
