@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/motor/lexus-cambio-marchas-manual-coches-electricos-video-1168300'>Lexus muestra en vídeo un cambio de marchas manual para los coches eléctricos, incluso puede calarlos</a></h4>
+    <a href='https://computerhoy.com/motor/lexus-cambio-marchas-manual-coches-electricos-video-1168300' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/lexus-desarrollando-cambio-marchas-manual-coches-electricos-porque-atractivo-conducir-2898342.jpg' alt='Lexus muestra en vídeo un cambio de marchas manual para los coches eléctricos, incluso puede calarlos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/internet/passkey-chrome-fin-contrasenas-phishing-1168292'>Las Passkey ya disponibles en Chrome, el fin de las contraseñas y el phishing está aquí</a></h4>
     <a href='https://computerhoy.com/internet/passkey-chrome-fin-contrasenas-phishing-1168292' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/passkeys-ya-disponibles-chrome-fin-contrasenas-aqui-2898332.jpg' alt='Las Passkey ya disponibles en Chrome, el fin de las contraseñas y el phishing está aquí' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/industria/huawei-oppo-firman-acuerdo-global-licencias-cruzadas-patentes-supondria-futuro-mercado-1168256'>Huawei y OPPO firman un acuerdo global de licencias cruzadas de patentes, y esto supondría para el futuro del mercado</a></h4>
     <a href='https://computerhoy.com/industria/huawei-oppo-firman-acuerdo-global-licencias-cruzadas-patentes-supondria-futuro-mercado-1168256' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/huawei-oppo-2898216.jpg' alt='Huawei y OPPO firman un acuerdo global de licencias cruzadas de patentes, y esto supondría para el futuro del mercado' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/alimentacion/tecnicas-utiliza-mercadona-compres-mucho-1168252'>Técnicas que utiliza Mercadona para que compres mucho más</a></h4>
-    <a href='https://computerhoy.com/alimentacion/tecnicas-utiliza-mercadona-compres-mucho-1168252' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/mercadona-2828789.jpg' alt='Técnicas que utiliza Mercadona para que compres mucho más' />
     </a>
 </div>
 
