@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/acertijo-matematico-descubre-valores-solo-tres-operaciones-1168198'>Desafío rápido: descubre los valores de A y B con solo tres operaciones</a></h4>
+    <a href='https://computerhoy.com/life/acertijo-matematico-descubre-valores-solo-tres-operaciones-1168198' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/desafio-rapido-descubre-valores-b-solo-tres-operaciones-2898116.jpg' alt='Desafío rápido: descubre los valores de A y B con solo tres operaciones' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciencia/nuevos-robots-repartidores-comida-no-pueden-llegar-destinos-porque-no-saben-cruzar-semaforos-rojo-1167996'>Los nuevos robots repartidores de comida que no pueden llegar a sus destinos porque no saben cruzar semáforos en rojo</a></h4>
     <a href='https://computerhoy.com/ciencia/nuevos-robots-repartidores-comida-no-pueden-llegar-destinos-porque-no-saben-cruzar-semaforos-rojo-1167996' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/nuevos-robots-repartidores-comida-tienen-problema-intentar-cruzar-semaforos-2897894.jpg' alt='Los nuevos robots repartidores de comida que no pueden llegar a sus destinos porque no saben cruzar semáforos en rojo' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/ciencia/nuevo-truco-bacterias-evitar-antibioticos-1167312'>Descubren un nuevo truco de las bacterias para evitar los antibióticos, y da bastante miedo</a></h4>
     <a href='https://computerhoy.com/ciencia/nuevo-truco-bacterias-evitar-antibioticos-1167312' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/descubren-nuevo-truco-bacterias-evitar-antibioticos-da-bastante-miedo-2896352.jpg' alt='Descubren un nuevo truco de las bacterias para evitar los antibióticos, y da bastante miedo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/fabrican-robots-arana-japon-arreglar-sistema-alcantarillado-1167992'>Fabrican robots araña en Japón para arreglar el sistema de alcantarillado</a></h4>
-    <a href='https://computerhoy.com/ciencia/fabrican-robots-arana-japon-arreglar-sistema-alcantarillado-1167992' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/fabrican-robots-arana-japon-arreglar-sistema-alcantarillado-2897886.jpg' alt='Fabrican robots araña en Japón para arreglar el sistema de alcantarillado' />
     </a>
 </div>
 
