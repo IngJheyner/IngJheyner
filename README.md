@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/alimentacion/tecnicas-utiliza-mercadona-compres-mucho-1168252'>Técnicas que utiliza Mercadona para que compres mucho más</a></h4>
+    <a href='https://computerhoy.com/alimentacion/tecnicas-utiliza-mercadona-compres-mucho-1168252' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/mercadona-2828789.jpg' alt='Técnicas que utiliza Mercadona para que compres mucho más' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/entretenimiento/7-peliculas-seguramente-has-visto-dos-incluso-cinco-veces-1166414'>7 películas que seguramente has visto una, dos o incluso cinco veces</a></h4>
     <a href='https://computerhoy.com/entretenimiento/7-peliculas-seguramente-has-visto-dos-incluso-cinco-veces-1166414' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/gladiator-2895036.jpg' alt='7 películas que seguramente has visto una, dos o incluso cinco veces' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/aplicaciones/nuevas-funcionalidades-whatsapp-probable-hayas-pasado-alto-1168234'>Las nuevas funcionalidades de WhatsApp que es probable que hayas pasado por alto</a></h4>
     <a href='https://computerhoy.com/aplicaciones/nuevas-funcionalidades-whatsapp-probable-hayas-pasado-alto-1168234' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/whatsapp-2898188.jpg' alt='Las nuevas funcionalidades de WhatsApp que es probable que hayas pasado por alto' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/debes-hacer-acabas-borrar-virus-windows-1166290'>Esto es lo debes hacer si acabas de borrar un virus de Windows</a></h4>
-    <a href='https://computerhoy.com/tutoriales/debes-hacer-acabas-borrar-virus-windows-1166290' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/virus-ordenador-2894472.jpg' alt='Esto es lo debes hacer si acabas de borrar un virus de Windows' />
     </a>
 </div>
 
