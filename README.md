@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/desmontamos-6-mitos-alexa-seguro-has-escuchado-1164514'>Desmontamos 6 mitos sobre Alexa que seguro has escuchado</a></h4>
+    <a href='https://computerhoy.com/tecnologia/desmontamos-6-mitos-alexa-seguro-has-escuchado-1164514' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/desmontamos-6-mitos-alexa-seguro-has-escuchado-2891368.jpg' alt='Desmontamos 6 mitos sobre Alexa que seguro has escuchado' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/36-noticias-tecnologia-comenzar-manana-informado-ultimo-1168484'>36 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
     <a href='https://computerhoy.com/tecnologia/36-noticias-tecnologia-comenzar-manana-informado-ultimo-1168484' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/36-noticias-tecnologia-comenzar-manana-informado-ultimo-2898566.jpg' alt='36 noticias de tecnología para comenzar la mañana informado de lo último' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/espacio/capsula-orion-ameriza-exito-oceano-pacifico-mision-artemis-i-1168306'>La cápsula Orion ameriza con éxito en el Océano Pacífico, la misión Artemis I cumple sus objetivos</a></h4>
     <a href='https://computerhoy.com/espacio/capsula-orion-ameriza-exito-oceano-pacifico-mision-artemis-i-1168306' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/capsula-orion-ameriza-exito-oceano-pacifico-mision-artemis-i-cumple-objetivos-2898374.jpg' alt='La cápsula Orion ameriza con éxito en el Océano Pacífico, la misión Artemis I cumple sus objetivos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/lexus-cambio-marchas-manual-coches-electricos-video-1168300'>Lexus muestra en vídeo un cambio de marchas manual para los coches eléctricos, incluso puede calarlos</a></h4>
-    <a href='https://computerhoy.com/motor/lexus-cambio-marchas-manual-coches-electricos-video-1168300' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/lexus-desarrollando-cambio-marchas-manual-coches-electricos-porque-atractivo-conducir-2898342.jpg' alt='Lexus muestra en vídeo un cambio de marchas manual para los coches eléctricos, incluso puede calarlos' />
     </a>
 </div>
 
