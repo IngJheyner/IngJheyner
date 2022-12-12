@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/regalos-navidad-reyes-magos-comprarlos-antes-tiempo-1168536'>Estos regalos para Navidad o Reyes deberías comprarlos antes de que se acaben o no lleguen a tiempo</a></h4>
+    <a href='https://computerhoy.com/tecnologia/regalos-navidad-reyes-magos-comprarlos-antes-tiempo-1168536' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/regalos-navidad-2898638.jpg' alt='Estos regalos para Navidad o Reyes deberías comprarlos antes de que se acaben o no lleguen a tiempo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/desafio-rapido-descubre-numero-oculto-menos-15-segundos-1168272'>Desafío rápido: descubre el número oculto en menos de 15 segundos</a></h4>
+    <a href='https://computerhoy.com/life/desafio-rapido-descubre-numero-oculto-menos-15-segundos-1168272' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/desafio-rapido-descubre-numero-oculto-menos-15-segundos-2898120.jpg' alt='Desafío rápido: descubre el número oculto en menos de 15 segundos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/son-como-usar-filtros-color-windows-11-1166202'>¿Qué son y cómo usar los filtros de color de Windows 11?</a></h4>
+    <a href='https://computerhoy.com/tutoriales/son-como-usar-filtros-color-windows-11-1166202' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/windows-11-2894344.jpg' alt='¿Qué son y cómo usar los filtros de color de Windows 11?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/matematicas-loteria-navidad-2022-probabilidades-hay-te-toque-1162162'>Las matemáticas de la Lotería de Navidad 2022: ¿qué probabilidades hay de que te toque?</a></h4>
+    <a href='https://computerhoy.com/life/matematicas-loteria-navidad-2022-probabilidades-hay-te-toque-1162162' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/matematicas-loteria-navidad-2022-probabilidades-te-toque-2886306.jpg' alt='Las matemáticas de la Lotería de Navidad 2022: ¿qué probabilidades hay de que te toque?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/desmontamos-6-mitos-alexa-seguro-has-escuchado-1164514'>Desmontamos 6 mitos sobre Alexa que seguro has escuchado</a></h4>
     <a href='https://computerhoy.com/tecnologia/desmontamos-6-mitos-alexa-seguro-has-escuchado-1164514' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/desmontamos-6-mitos-alexa-seguro-has-escuchado-2891368.jpg' alt='Desmontamos 6 mitos sobre Alexa que seguro has escuchado' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/36-noticias-tecnologia-comenzar-manana-informado-ultimo-1168484'>36 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
-    <a href='https://computerhoy.com/tecnologia/36-noticias-tecnologia-comenzar-manana-informado-ultimo-1168484' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/36-noticias-tecnologia-comenzar-manana-informado-ultimo-2898566.jpg' alt='36 noticias de tecnología para comenzar la mañana informado de lo último' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/navidad-2022-ideas-reaglos-20-euros-1164842'>Navidad 2022: ideas de regalos tecnológicos perfectos y por menos de 20 euros</a></h4>
-    <a href='https://computerhoy.com/tecnologia/navidad-2022-ideas-reaglos-20-euros-1164842' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/regalos-navidad-2898350.jpg' alt='Navidad 2022: ideas de regalos tecnológicos perfectos y por menos de 20 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/carteles-metro-tokio-solo-estudiantes-examenes-1168314'>Aparecen en el metro de Tokio unos misteriosos carteles que solo los estudiantes con exámenes son capaces de leer</a></h4>
-    <a href='https://computerhoy.com/life/carteles-metro-tokio-solo-estudiantes-examenes-1168314' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/aparecen-metro-tokio-carteles-solo-estudiantes-examenes-son-capaces-leer-2898392.jpg' alt='Aparecen en el metro de Tokio unos misteriosos carteles que solo los estudiantes con exámenes son capaces de leer' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/capsula-orion-ameriza-exito-oceano-pacifico-mision-artemis-i-1168306'>La cápsula Orion ameriza con éxito en el Océano Pacífico, la misión Artemis I cumple sus objetivos</a></h4>
-    <a href='https://computerhoy.com/espacio/capsula-orion-ameriza-exito-oceano-pacifico-mision-artemis-i-1168306' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/capsula-orion-ameriza-exito-oceano-pacifico-mision-artemis-i-cumple-objetivos-2898374.jpg' alt='La cápsula Orion ameriza con éxito en el Océano Pacífico, la misión Artemis I cumple sus objetivos' />
     </a>
 </div>
 
