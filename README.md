@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/documental-enrique-meghan-superan-the-crown-netflix-1168916'>Harry y Meghan le ganan a la corona británica, al menos en Netflix</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/documental-enrique-meghan-superan-the-crown-netflix-1168916' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/harry-meghan-ganan-corona-britanica-menos-netflix-2899464.jpg' alt='Harry y Meghan le ganan a la corona británica, al menos en Netflix' />
+    <h4><a href='https://computerhoy.com/tecnologia/utilizar-ia-detectar-textos-generados-artificialmente-chatgpt-tiene-primer-enemigo-1168920'>Utilizar IA para detectar textos generados artificialmente: ChatGPT tiene su primer enemigo</a></h4>
+    <a href='https://computerhoy.com/tecnologia/utilizar-ia-detectar-textos-generados-artificialmente-chatgpt-tiene-primer-enemigo-1168920' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/inteligencia-artificial-2821411.jpg' alt='Utilizar IA para detectar textos generados artificialmente: ChatGPT tiene su primer enemigo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/jack-ma-fundador-aliexpress-desaparecido-tokio-1168902'>Localizan a Jack Ma, el carismático fundador de AliExpress, después de dos años desaparecido</a></h4>
-    <a href='https://computerhoy.com/life/jack-ma-fundador-aliexpress-desaparecido-tokio-1168902' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/localizan-jack-ma-carismatico-fundador-aliexpress-despues-dos-anos-desaparecido-2899392.jpg' alt='Localizan a Jack Ma, el carismático fundador de AliExpress, después de dos años desaparecido' />
+    <h4><a href='https://computerhoy.com/life/estas-ciudades-vende-loteria-navidad-madrid-barcelona-hay-razon-1168922'>En estas ciudades se vende más Lotería de Navidad que en Madrid y Barcelona, y hay una razón</a></h4>
+    <a href='https://computerhoy.com/life/estas-ciudades-vende-loteria-navidad-madrid-barcelona-hay-razon-1168922' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/loteria-navidad-2899488.jpg' alt='En estas ciudades se vende más Lotería de Navidad que en Madrid y Barcelona, y hay una razón' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/tienes-miedo-te-abandone-pareja-comienza-reducir-uso-movil-1168844'>¿Tienes miedo de que te abandone tu pareja? Comienza a reducir el uso del móvil</a></h4>
-    <a href='https://computerhoy.com/moviles/tienes-miedo-te-abandone-pareja-comienza-reducir-uso-movil-1168844' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/dormir-pareja-2556965.jpg' alt='¿Tienes miedo de que te abandone tu pareja? Comienza a reducir el uso del móvil' />
+    <h4><a href='https://computerhoy.com/tecnologia/xiaomi-pad-5-alternativa-ipad-oferta-cupon-1168662'>Xiaomi Pad 5, la alternativa Android al iPad, cae a solo 279 euros con un cupón</a></h4>
+    <a href='https://computerhoy.com/tecnologia/xiaomi-pad-5-alternativa-ipad-oferta-cupon-1168662' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/galeria-review-xiaomi-pad-5-2531813.jpg' alt='Xiaomi Pad 5, la alternativa Android al iPad, cae a solo 279 euros con un cupón' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/donde-comprar-xbox-series-s-navidad-1168772'>Dónde comprar Xbox Series S en Navidad 2022</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/donde-comprar-xbox-series-s-navidad-1168772' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/xbox-series-s-2899260.jpg' alt='Dónde comprar Xbox Series S en Navidad 2022' />
+    <h4><a href='https://computerhoy.com/redes-sociales/1-ano-carcel-tener-perfil-falso-redes-sociales-hacerse-pasar-otra-persona-1168896'>Hasta 1 año de cárcel por tener un perfil falso en redes sociales y hacerse pasar por otra persona</a></h4>
+    <a href='https://computerhoy.com/redes-sociales/1-ano-carcel-tener-perfil-falso-redes-sociales-hacerse-pasar-otra-persona-1168896' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/salud-mental-joven-triste-redes-sociales-2789587.jpg' alt='Hasta 1 año de cárcel por tener un perfil falso en redes sociales y hacerse pasar por otra persona' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/ciudad-futuro-arabia-saudi-no-era-bulo-estan-construyendo-1168824'>La ciudad del futuro de Arabia Saudí no era un bulo: la están construyendo</a></h4>
-    <a href='https://computerhoy.com/life/ciudad-futuro-arabia-saudi-no-era-bulo-estan-construyendo-1168824' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/line-2899312.jpg' alt='La ciudad del futuro de Arabia Saudí no era un bulo: la están construyendo' />
+    <h4><a href='https://computerhoy.com/ciberseguridad/estafa-te-castiga-actuar-buena-fe-perderas-dinero-1168918'>La estafa que te castiga por actuar de buena fe y en la que perderás tu dinero</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/estafa-te-castiga-actuar-buena-fe-perderas-dinero-1168918' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/estafa-2899484.jpg' alt='La estafa que te castiga por actuar de buena fe y en la que perderás tu dinero' />
     </a>
 </div>
 
