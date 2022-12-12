@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/james-webb-detecta-galaxia-lejanas-jamas-registrada-1168680'>El James Webb detecta la galaxia más lejanas jamás registrada</a></h4>
-    <a href='https://computerhoy.com/espacio/james-webb-detecta-galaxia-lejanas-jamas-registrada-1168680' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/ilustracion-galaxia-espiral-2482093.jpg' alt='El James Webb detecta la galaxia más lejanas jamás registrada' />
+    <h4><a href='https://computerhoy.com/listas/internet/webs-donde-comprar-coches-segunda-mano-ocasion-23433'>Webs donde comprar coches de segunda mano y de ocasión</a></h4>
+    <a href='https://computerhoy.com/listas/internet/webs-donde-comprar-coches-segunda-mano-ocasion-23433' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2015/02/84607-mejores-webs-vender-comprar-coches-segunda-mano.jpg' alt='Webs donde comprar coches de segunda mano y de ocasión' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/aplicaciones/son-como-funcionan-nuevos-mensajes-candado-whatsapp-1168604'>Qué son y cómo funcionan los nuevos mensajes con candado de WhatsApp</a></h4>
-    <a href='https://computerhoy.com/aplicaciones/son-como-funcionan-nuevos-mensajes-candado-whatsapp-1168604' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/son-como-funcionan-nuevos-mensajes-candado-whatsapp-2898696.jpg' alt='Qué son y cómo funcionan los nuevos mensajes con candado de WhatsApp' />
+    <h4><a href='https://computerhoy.com/audio-hi-fi/he-probado-barra-sonido-bo-casi-7000-euros-estas-son-sensaciones-1168608'>He probado una barra de sonido B&O de casi 7.000 euros y estas son mis sensaciones</a></h4>
+    <a href='https://computerhoy.com/audio-hi-fi/he-probado-barra-sonido-bo-casi-7000-euros-estas-son-sensaciones-1168608' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/beosound-theatre-bo-band-olufsen-2898920.jpg' alt='He probado una barra de sonido B&O de casi 7.000 euros y estas son mis sensaciones' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/artemis-ii-siguiente-paso-nasa-aterrizaje-nave-espacial-orion-1168642'>Artemis II: este es el siguiente paso de la NASA tras el aterrizaje de la nave espacial Orión</a></h4>
-    <a href='https://computerhoy.com/espacio/artemis-ii-siguiente-paso-nasa-aterrizaje-nave-espacial-orion-1168642' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/artemis-ii-siguiente-paso-nasa-aterrizaje-nave-espacial-orion-2899038.jpg' alt='Artemis II: este es el siguiente paso de la NASA tras el aterrizaje de la nave espacial Orión' />
+    <h4><a href='https://computerhoy.com/windows/anos-espera-llega-windows-11-funciones-deseadas-1168714'>Tras años de espera llega a Windows 11 una de las funciones más deseadas</a></h4>
+    <a href='https://computerhoy.com/windows/anos-espera-llega-windows-11-funciones-deseadas-1168714' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/recorte-windows-11-2899136.jpg' alt='Tras años de espera llega a Windows 11 una de las funciones más deseadas' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/amazon/como-conseguir-7-euros-gratis-visitar-amazon-1168580'>Cómo conseguir 7 euros gratis en tu próxima compra en Amazon</a></h4>
-    <a href='https://computerhoy.com/amazon/como-conseguir-7-euros-gratis-visitar-amazon-1168580' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/amazon-hub-locker-2898916.jpg' alt='Cómo conseguir 7 euros gratis en tu próxima compra en Amazon' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/diferencian-tecla-enter-return-ordenador-1076667'>En qué se diferencian las teclas Enter y Return de tu ordenador</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/diferencian-tecla-enter-return-ordenador-1076667' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/teclas-enter-return-teclado-apple-2729867.jpg' alt='En qué se diferencian las teclas Enter y Return de tu ordenador' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/madera-genera-electricidad-ultimo-hito-ingenieria-1168636'>La madera que genera electricidad, el último hito de la ingeniería</a></h4>
-    <a href='https://computerhoy.com/ciencia/madera-genera-electricidad-ultimo-hito-ingenieria-1168636' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/madera-mit-2712965.jpg' alt='La madera que genera electricidad, el último hito de la ingeniería' />
+    <h4><a href='https://computerhoy.com/life/correr-coger-bus-otras-actividades-intensas-cortas-reducen-riesgo-muerte-prematura-estudio-1168720'>Correr para coger el bus y otras actividades intensas y cortas reducen el riesgo de muerte prematura según un estudio</a></h4>
+    <a href='https://computerhoy.com/life/correr-coger-bus-otras-actividades-intensas-cortas-reducen-riesgo-muerte-prematura-estudio-1168720' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/correr-coger-bus-otras-actividades-intensas-cortas-reducirian-riesgo-muerte-prematura-estudio-2899100.jpg' alt='Correr para coger el bus y otras actividades intensas y cortas reducen el riesgo de muerte prematura según un estudio' />
     </a>
 </div>
 
