@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/donde-comprar-xbox-series-s-navidad-1168772'>Dónde comprar Xbox Series S en Navidad 2022</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/donde-comprar-xbox-series-s-navidad-1168772' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/xbox-series-s-2899260.jpg' alt='Dónde comprar Xbox Series S en Navidad 2022' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/ciudad-futuro-arabia-saudi-no-era-bulo-estan-construyendo-1168824'>La ciudad del futuro de Arabia Saudí no era un bulo: la están construyendo</a></h4>
+    <a href='https://computerhoy.com/life/ciudad-futuro-arabia-saudi-no-era-bulo-estan-construyendo-1168824' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/line-2899312.jpg' alt='La ciudad del futuro de Arabia Saudí no era un bulo: la están construyendo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/moviles/samsung-cuerdas-seran-nuevos-smartphones-plegables-oppo-1168826'>Samsung contra las cuerdas: así serán los nuevos smartphones plegables de OPPO</a></h4>
     <a href='https://computerhoy.com/moviles/samsung-cuerdas-seran-nuevos-smartphones-plegables-oppo-1168826' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/analisis-oppo-find-n-2588329.jpg' alt='Samsung contra las cuerdas: así serán los nuevos smartphones plegables de OPPO' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/entretenimiento/ver-futbol-gratis-internet-utilizando-iptv-sera-cada-vez-complicado-1168802'>Ver fútbol gratis por internet utilizando IPTV será cada vez más complicado</a></h4>
     <a href='https://computerhoy.com/entretenimiento/ver-futbol-gratis-internet-utilizando-iptv-sera-cada-vez-complicado-1168802' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/camaras-estadio-futbol-2868309.jpg' alt='Ver fútbol gratis por internet utilizando IPTV será cada vez más complicado' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/listas/internet/webs-donde-comprar-coches-segunda-mano-ocasion-23433'>Webs donde comprar coches de segunda mano y de ocasión</a></h4>
-    <a href='https://computerhoy.com/listas/internet/webs-donde-comprar-coches-segunda-mano-ocasion-23433' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2015/02/84607-mejores-webs-vender-comprar-coches-segunda-mano.jpg' alt='Webs donde comprar coches de segunda mano y de ocasión' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/audio-hi-fi/he-probado-barra-sonido-bo-casi-7000-euros-estas-son-sensaciones-1168608'>He probado una barra de sonido B&O de casi 7.000 euros y estas son mis sensaciones</a></h4>
-    <a href='https://computerhoy.com/audio-hi-fi/he-probado-barra-sonido-bo-casi-7000-euros-estas-son-sensaciones-1168608' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/beosound-theatre-bo-band-olufsen-2898920.jpg' alt='He probado una barra de sonido B&O de casi 7.000 euros y estas son mis sensaciones' />
     </a>
 </div>
 
