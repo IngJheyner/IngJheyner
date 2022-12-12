@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/moviles/samsung-cuerdas-seran-nuevos-smartphones-plegables-oppo-1168826'>Samsung contra las cuerdas: así serán los nuevos smartphones plegables de OPPO</a></h4>
+    <a href='https://computerhoy.com/moviles/samsung-cuerdas-seran-nuevos-smartphones-plegables-oppo-1168826' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/analisis-oppo-find-n-2588329.jpg' alt='Samsung contra las cuerdas: así serán los nuevos smartphones plegables de OPPO' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/energia/turbina-gigante-quiere-dar-energia-limpia-36000-familias-ano-1168820'>Esta turbina gigante quiere dar energía limpia a 36.000 familias al año</a></h4>
+    <a href='https://computerhoy.com/energia/turbina-gigante-quiere-dar-energia-limpia-36000-familias-ano-1168820' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/turbina-aire-2899290.jpg' alt='Esta turbina gigante quiere dar energía limpia a 36.000 familias al año' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/ver-futbol-gratis-internet-utilizando-iptv-sera-cada-vez-complicado-1168802'>Ver fútbol gratis por internet utilizando IPTV será cada vez más complicado</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/ver-futbol-gratis-internet-utilizando-iptv-sera-cada-vez-complicado-1168802' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/camaras-estadio-futbol-2868309.jpg' alt='Ver fútbol gratis por internet utilizando IPTV será cada vez más complicado' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/listas/internet/webs-donde-comprar-coches-segunda-mano-ocasion-23433'>Webs donde comprar coches de segunda mano y de ocasión</a></h4>
     <a href='https://computerhoy.com/listas/internet/webs-donde-comprar-coches-segunda-mano-ocasion-23433' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2015/02/84607-mejores-webs-vender-comprar-coches-segunda-mano.jpg' alt='Webs donde comprar coches de segunda mano y de ocasión' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/audio-hi-fi/he-probado-barra-sonido-bo-casi-7000-euros-estas-son-sensaciones-1168608'>He probado una barra de sonido B&O de casi 7.000 euros y estas son mis sensaciones</a></h4>
     <a href='https://computerhoy.com/audio-hi-fi/he-probado-barra-sonido-bo-casi-7000-euros-estas-son-sensaciones-1168608' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/beosound-theatre-bo-band-olufsen-2898920.jpg' alt='He probado una barra de sonido B&O de casi 7.000 euros y estas son mis sensaciones' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/anos-espera-llega-windows-11-funciones-deseadas-1168714'>Tras años de espera llega a Windows 11 una de las funciones más deseadas</a></h4>
-    <a href='https://computerhoy.com/windows/anos-espera-llega-windows-11-funciones-deseadas-1168714' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/recorte-windows-11-2899136.jpg' alt='Tras años de espera llega a Windows 11 una de las funciones más deseadas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/diferencian-tecla-enter-return-ordenador-1076667'>En qué se diferencian las teclas Enter y Return de tu ordenador</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/diferencian-tecla-enter-return-ordenador-1076667' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/teclas-enter-return-teclado-apple-2729867.jpg' alt='En qué se diferencian las teclas Enter y Return de tu ordenador' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/correr-coger-bus-otras-actividades-intensas-cortas-reducen-riesgo-muerte-prematura-estudio-1168720'>Correr para coger el bus y otras actividades intensas y cortas reducen el riesgo de muerte prematura según un estudio</a></h4>
-    <a href='https://computerhoy.com/life/correr-coger-bus-otras-actividades-intensas-cortas-reducen-riesgo-muerte-prematura-estudio-1168720' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/correr-coger-bus-otras-actividades-intensas-cortas-reducirian-riesgo-muerte-prematura-estudio-2899100.jpg' alt='Correr para coger el bus y otras actividades intensas y cortas reducen el riesgo de muerte prematura según un estudio' />
     </a>
 </div>
 
