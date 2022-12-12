@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/jack-ma-fundador-aliexpress-desaparecido-tokio-1168902'>Localizan a Jack Ma, el carismático fundador de AliExpress, después de dos años desaparecido</a></h4>
+    <a href='https://computerhoy.com/life/jack-ma-fundador-aliexpress-desaparecido-tokio-1168902' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/localizan-jack-ma-carismatico-fundador-aliexpress-despues-dos-anos-desaparecido-2899392.jpg' alt='Localizan a Jack Ma, el carismático fundador de AliExpress, después de dos años desaparecido' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/moviles/tienes-miedo-te-abandone-pareja-comienza-reducir-uso-movil-1168844'>¿Tienes miedo de que te abandone tu pareja? Comienza a reducir el uso del móvil</a></h4>
+    <a href='https://computerhoy.com/moviles/tienes-miedo-te-abandone-pareja-comienza-reducir-uso-movil-1168844' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/dormir-pareja-2556965.jpg' alt='¿Tienes miedo de que te abandone tu pareja? Comienza a reducir el uso del móvil' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/entretenimiento/donde-comprar-xbox-series-s-navidad-1168772'>Dónde comprar Xbox Series S en Navidad 2022</a></h4>
     <a href='https://computerhoy.com/entretenimiento/donde-comprar-xbox-series-s-navidad-1168772' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/xbox-series-s-2899260.jpg' alt='Dónde comprar Xbox Series S en Navidad 2022' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/moviles/samsung-cuerdas-seran-nuevos-smartphones-plegables-oppo-1168826'>Samsung contra las cuerdas: así serán los nuevos smartphones plegables de OPPO</a></h4>
     <a href='https://computerhoy.com/moviles/samsung-cuerdas-seran-nuevos-smartphones-plegables-oppo-1168826' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/analisis-oppo-find-n-2588329.jpg' alt='Samsung contra las cuerdas: así serán los nuevos smartphones plegables de OPPO' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/energia/turbina-gigante-quiere-dar-energia-limpia-36000-familias-ano-1168820'>Esta turbina gigante quiere dar energía limpia a 36.000 familias al año</a></h4>
-    <a href='https://computerhoy.com/energia/turbina-gigante-quiere-dar-energia-limpia-36000-familias-ano-1168820' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/turbina-aire-2899290.jpg' alt='Esta turbina gigante quiere dar energía limpia a 36.000 familias al año' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/ver-futbol-gratis-internet-utilizando-iptv-sera-cada-vez-complicado-1168802'>Ver fútbol gratis por internet utilizando IPTV será cada vez más complicado</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/ver-futbol-gratis-internet-utilizando-iptv-sera-cada-vez-complicado-1168802' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/camaras-estadio-futbol-2868309.jpg' alt='Ver fútbol gratis por internet utilizando IPTV será cada vez más complicado' />
     </a>
 </div>
 
