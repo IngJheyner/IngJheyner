@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/industria/adobe-cumple-40-anos-hitos-flash-photoshop-pdf-1168946'>Adobe cumple 40 años con hitos como Flash, Photoshop o PDF... y sus inalcanzables aplicaciones de pago</a></h4>
+    <a href='https://computerhoy.com/industria/adobe-cumple-40-anos-hitos-flash-photoshop-pdf-1168946' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/adobe-cumple-40-anos-hitos-como-flash-pdf-inalcanzables-aplicaciones-pago-2899502.jpg' alt='Adobe cumple 40 años con hitos como Flash, Photoshop o PDF... y sus inalcanzables aplicaciones de pago' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/aplicaciones/estas-aplicaciones-son-culpables-bateria-movil-dure-poco-1168940'>Estas aplicaciones son las culpables de la batería de tu móvil dure poco</a></h4>
     <a href='https://computerhoy.com/aplicaciones/estas-aplicaciones-son-culpables-bateria-movil-dure-poco-1168940' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/xiaomi-12t-pro-carga-120w-2833727.jpg' alt='Estas aplicaciones son las culpables de la batería de tu móvil dure poco' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/xiaomi-pad-5-alternativa-ipad-oferta-cupon-1168662'>Xiaomi Pad 5, la alternativa Android al iPad, cae a solo 279 euros con un cupón</a></h4>
     <a href='https://computerhoy.com/tecnologia/xiaomi-pad-5-alternativa-ipad-oferta-cupon-1168662' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/galeria-review-xiaomi-pad-5-2531813.jpg' alt='Xiaomi Pad 5, la alternativa Android al iPad, cae a solo 279 euros con un cupón' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/redes-sociales/1-ano-carcel-tener-perfil-falso-redes-sociales-hacerse-pasar-otra-persona-1168896'>Hasta 1 año de cárcel por tener un perfil falso en redes sociales y hacerse pasar por otra persona</a></h4>
-    <a href='https://computerhoy.com/redes-sociales/1-ano-carcel-tener-perfil-falso-redes-sociales-hacerse-pasar-otra-persona-1168896' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/salud-mental-joven-triste-redes-sociales-2789587.jpg' alt='Hasta 1 año de cárcel por tener un perfil falso en redes sociales y hacerse pasar por otra persona' />
     </a>
 </div>
 
