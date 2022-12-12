@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/redes-sociales/elon-musk-confirma-aumento-limite-caracteres-twitter-280-4000-1168554'>Elon Musk confirma el aumento del límite de caracteres en Twitter de 280 a 4.000</a></h4>
+    <a href='https://computerhoy.com/redes-sociales/elon-musk-confirma-aumento-limite-caracteres-twitter-280-4000-1168554' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/elon-musk-confirma-aumento-limite-caracteres-twitter-280-4000-2898646.jpg' alt='Elon Musk confirma el aumento del límite de caracteres en Twitter de 280 a 4.000' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/aplicaciones/whatsapp-trabajando-funcion-llevamos-anos-esperando-1168570'>WhatsApp está trabajando en una función que llevamos años esperando</a></h4>
+    <a href='https://computerhoy.com/aplicaciones/whatsapp-trabajando-funcion-llevamos-anos-esperando-1168570' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/whatsapp-2866195.jpg' alt='WhatsApp está trabajando en una función que llevamos años esperando' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/regalos-navidad-reyes-magos-comprarlos-antes-tiempo-1168536'>Estos regalos para Navidad o Reyes deberías comprarlos antes de que se acaben o no lleguen a tiempo</a></h4>
     <a href='https://computerhoy.com/tecnologia/regalos-navidad-reyes-magos-comprarlos-antes-tiempo-1168536' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/regalos-navidad-2898638.jpg' alt='Estos regalos para Navidad o Reyes deberías comprarlos antes de que se acaben o no lleguen a tiempo' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tutoriales/son-como-usar-filtros-color-windows-11-1166202'>¿Qué son y cómo usar los filtros de color de Windows 11?</a></h4>
     <a href='https://computerhoy.com/tutoriales/son-como-usar-filtros-color-windows-11-1166202' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/windows-11-2894344.jpg' alt='¿Qué son y cómo usar los filtros de color de Windows 11?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/matematicas-loteria-navidad-2022-probabilidades-hay-te-toque-1162162'>Las matemáticas de la Lotería de Navidad 2022: ¿qué probabilidades hay de que te toque?</a></h4>
-    <a href='https://computerhoy.com/life/matematicas-loteria-navidad-2022-probabilidades-hay-te-toque-1162162' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/matematicas-loteria-navidad-2022-probabilidades-te-toque-2886306.jpg' alt='Las matemáticas de la Lotería de Navidad 2022: ¿qué probabilidades hay de que te toque?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/desmontamos-6-mitos-alexa-seguro-has-escuchado-1164514'>Desmontamos 6 mitos sobre Alexa que seguro has escuchado</a></h4>
-    <a href='https://computerhoy.com/tecnologia/desmontamos-6-mitos-alexa-seguro-has-escuchado-1164514' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/desmontamos-6-mitos-alexa-seguro-has-escuchado-2891368.jpg' alt='Desmontamos 6 mitos sobre Alexa que seguro has escuchado' />
     </a>
 </div>
 
