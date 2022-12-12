@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/36-noticias-tecnologia-comenzar-manana-informado-ultimo-1168484'>36 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
+    <a href='https://computerhoy.com/tecnologia/36-noticias-tecnologia-comenzar-manana-informado-ultimo-1168484' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/36-noticias-tecnologia-comenzar-manana-informado-ultimo-2898566.jpg' alt='36 noticias de tecnología para comenzar la mañana informado de lo último' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/navidad-2022-ideas-reaglos-20-euros-1164842'>Navidad 2022: ideas de regalos tecnológicos perfectos y por menos de 20 euros</a></h4>
+    <a href='https://computerhoy.com/tecnologia/navidad-2022-ideas-reaglos-20-euros-1164842' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/regalos-navidad-2898350.jpg' alt='Navidad 2022: ideas de regalos tecnológicos perfectos y por menos de 20 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/carteles-metro-tokio-solo-estudiantes-examenes-1168314'>Aparecen en el metro de Tokio unos misteriosos carteles que solo los estudiantes con exámenes son capaces de leer</a></h4>
     <a href='https://computerhoy.com/life/carteles-metro-tokio-solo-estudiantes-examenes-1168314' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/aparecen-metro-tokio-carteles-solo-estudiantes-examenes-son-capaces-leer-2898392.jpg' alt='Aparecen en el metro de Tokio unos misteriosos carteles que solo los estudiantes con exámenes son capaces de leer' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/motor/lexus-cambio-marchas-manual-coches-electricos-video-1168300'>Lexus muestra en vídeo un cambio de marchas manual para los coches eléctricos, incluso puede calarlos</a></h4>
     <a href='https://computerhoy.com/motor/lexus-cambio-marchas-manual-coches-electricos-video-1168300' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/lexus-desarrollando-cambio-marchas-manual-coches-electricos-porque-atractivo-conducir-2898342.jpg' alt='Lexus muestra en vídeo un cambio de marchas manual para los coches eléctricos, incluso puede calarlos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/passkey-chrome-fin-contrasenas-phishing-1168292'>Las Passkey ya disponibles en Chrome, el fin de las contraseñas y el phishing está aquí</a></h4>
-    <a href='https://computerhoy.com/internet/passkey-chrome-fin-contrasenas-phishing-1168292' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/passkeys-ya-disponibles-chrome-fin-contrasenas-aqui-2898332.jpg' alt='Las Passkey ya disponibles en Chrome, el fin de las contraseñas y el phishing está aquí' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/guia-compra/hub-usb-1112209'>Todo lo que debes saber antes de comprar un hub USB</a></h4>
-    <a href='https://computerhoy.com/guia-compra/hub-usb-1112209' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/hub-usb-c-ugreen-2450489.jpg' alt='Todo lo que debes saber antes de comprar un hub USB' />
     </a>
 </div>
 
