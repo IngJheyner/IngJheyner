@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/amazon/como-conseguir-7-euros-gratis-visitar-amazon-1168580'>Cómo conseguir 7 euros gratis en tu próxima compra en Amazon</a></h4>
+    <a href='https://computerhoy.com/amazon/como-conseguir-7-euros-gratis-visitar-amazon-1168580' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/amazon-hub-locker-2898916.jpg' alt='Cómo conseguir 7 euros gratis en tu próxima compra en Amazon' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/madera-genera-electricidad-ultimo-hito-ingenieria-1168636'>La madera que genera electricidad, el último hito de la ingeniería</a></h4>
+    <a href='https://computerhoy.com/ciencia/madera-genera-electricidad-ultimo-hito-ingenieria-1168636' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/madera-mit-2712965.jpg' alt='La madera que genera electricidad, el último hito de la ingeniería' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/moviles/nuevos-xiaomi-13-ya-son-oficiales-china-prometen-mucho-muy-poco-1168572'>Los nuevos Xiaomi 13 ya son oficiales en China y prometen mucho por muy poco</a></h4>
     <a href='https://computerhoy.com/moviles/nuevos-xiaomi-13-ya-son-oficiales-china-prometen-mucho-muy-poco-1168572' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/xiaomi-13-2898678.jpg' alt='Los nuevos Xiaomi 13 ya son oficiales en China y prometen mucho por muy poco' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/aplicaciones/whatsapp-trabajando-funcion-llevamos-anos-esperando-1168570'>WhatsApp está trabajando en una función que llevamos años esperando</a></h4>
     <a href='https://computerhoy.com/aplicaciones/whatsapp-trabajando-funcion-llevamos-anos-esperando-1168570' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/whatsapp-2866195.jpg' alt='WhatsApp está trabajando en una función que llevamos años esperando' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/regalos-navidad-reyes-magos-comprarlos-antes-tiempo-1168536'>Estos regalos para Navidad o Reyes deberías comprarlos antes de que se acaben o no lleguen a tiempo</a></h4>
-    <a href='https://computerhoy.com/tecnologia/regalos-navidad-reyes-magos-comprarlos-antes-tiempo-1168536' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/regalos-navidad-2898638.jpg' alt='Estos regalos para Navidad o Reyes deberías comprarlos antes de que se acaben o no lleguen a tiempo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/desafio-rapido-descubre-numero-oculto-menos-15-segundos-1168272'>Desafío rápido: descubre el número oculto en menos de 15 segundos</a></h4>
-    <a href='https://computerhoy.com/life/desafio-rapido-descubre-numero-oculto-menos-15-segundos-1168272' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/desafio-rapido-descubre-numero-oculto-menos-15-segundos-2898120.jpg' alt='Desafío rápido: descubre el número oculto en menos de 15 segundos' />
     </a>
 </div>
 
