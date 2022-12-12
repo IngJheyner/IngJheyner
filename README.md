@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/aplicaciones/estas-aplicaciones-son-culpables-bateria-movil-dure-poco-1168940'>Estas aplicaciones son las culpables de la batería de tu móvil dure poco</a></h4>
+    <a href='https://computerhoy.com/aplicaciones/estas-aplicaciones-son-culpables-bateria-movil-dure-poco-1168940' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/xiaomi-12t-pro-carga-120w-2833727.jpg' alt='Estas aplicaciones son las culpables de la batería de tu móvil dure poco' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/utilizar-ia-detectar-textos-generados-artificialmente-chatgpt-tiene-primer-enemigo-1168920'>Utilizar IA para detectar textos generados artificialmente: ChatGPT tiene su primer enemigo</a></h4>
     <a href='https://computerhoy.com/tecnologia/utilizar-ia-detectar-textos-generados-artificialmente-chatgpt-tiene-primer-enemigo-1168920' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/inteligencia-artificial-2821411.jpg' alt='Utilizar IA para detectar textos generados artificialmente: ChatGPT tiene su primer enemigo' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/redes-sociales/1-ano-carcel-tener-perfil-falso-redes-sociales-hacerse-pasar-otra-persona-1168896'>Hasta 1 año de cárcel por tener un perfil falso en redes sociales y hacerse pasar por otra persona</a></h4>
     <a href='https://computerhoy.com/redes-sociales/1-ano-carcel-tener-perfil-falso-redes-sociales-hacerse-pasar-otra-persona-1168896' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/salud-mental-joven-triste-redes-sociales-2789587.jpg' alt='Hasta 1 año de cárcel por tener un perfil falso en redes sociales y hacerse pasar por otra persona' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/estafa-te-castiga-actuar-buena-fe-perderas-dinero-1168918'>La estafa que te castiga por actuar de buena fe y en la que perderás tu dinero</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/estafa-te-castiga-actuar-buena-fe-perderas-dinero-1168918' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/estafa-2899484.jpg' alt='La estafa que te castiga por actuar de buena fe y en la que perderás tu dinero' />
     </a>
 </div>
 
