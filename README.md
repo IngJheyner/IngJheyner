@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/moviles/nuevos-xiaomi-13-ya-son-oficiales-china-prometen-mucho-muy-poco-1168572'>Los nuevos Xiaomi 13 ya son oficiales en China y prometen mucho por muy poco</a></h4>
+    <a href='https://computerhoy.com/moviles/nuevos-xiaomi-13-ya-son-oficiales-china-prometen-mucho-muy-poco-1168572' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/xiaomi-13-2898678.jpg' alt='Los nuevos Xiaomi 13 ya son oficiales en China y prometen mucho por muy poco' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/redes-sociales/elon-musk-confirma-aumento-limite-caracteres-twitter-280-4000-1168554'>Elon Musk confirma el aumento del límite de caracteres en Twitter de 280 a 4.000</a></h4>
     <a href='https://computerhoy.com/redes-sociales/elon-musk-confirma-aumento-limite-caracteres-twitter-280-4000-1168554' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/elon-musk-confirma-aumento-limite-caracteres-twitter-280-4000-2898646.jpg' alt='Elon Musk confirma el aumento del límite de caracteres en Twitter de 280 a 4.000' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/life/desafio-rapido-descubre-numero-oculto-menos-15-segundos-1168272'>Desafío rápido: descubre el número oculto en menos de 15 segundos</a></h4>
     <a href='https://computerhoy.com/life/desafio-rapido-descubre-numero-oculto-menos-15-segundos-1168272' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/desafio-rapido-descubre-numero-oculto-menos-15-segundos-2898120.jpg' alt='Desafío rápido: descubre el número oculto en menos de 15 segundos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/son-como-usar-filtros-color-windows-11-1166202'>¿Qué son y cómo usar los filtros de color de Windows 11?</a></h4>
-    <a href='https://computerhoy.com/tutoriales/son-como-usar-filtros-color-windows-11-1166202' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/windows-11-2894344.jpg' alt='¿Qué son y cómo usar los filtros de color de Windows 11?' />
     </a>
 </div>
 
