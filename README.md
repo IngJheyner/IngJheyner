@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/espacio/james-webb-detecta-galaxia-lejanas-jamas-registrada-1168680'>El James Webb detecta la galaxia más lejanas jamás registrada</a></h4>
+    <a href='https://computerhoy.com/espacio/james-webb-detecta-galaxia-lejanas-jamas-registrada-1168680' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/ilustracion-galaxia-espiral-2482093.jpg' alt='El James Webb detecta la galaxia más lejanas jamás registrada' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/aplicaciones/son-como-funcionan-nuevos-mensajes-candado-whatsapp-1168604'>Qué son y cómo funcionan los nuevos mensajes con candado de WhatsApp</a></h4>
+    <a href='https://computerhoy.com/aplicaciones/son-como-funcionan-nuevos-mensajes-candado-whatsapp-1168604' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/son-como-funcionan-nuevos-mensajes-candado-whatsapp-2898696.jpg' alt='Qué son y cómo funcionan los nuevos mensajes con candado de WhatsApp' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/espacio/artemis-ii-siguiente-paso-nasa-aterrizaje-nave-espacial-orion-1168642'>Artemis II: este es el siguiente paso de la NASA tras el aterrizaje de la nave espacial Orión</a></h4>
+    <a href='https://computerhoy.com/espacio/artemis-ii-siguiente-paso-nasa-aterrizaje-nave-espacial-orion-1168642' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/artemis-ii-siguiente-paso-nasa-aterrizaje-nave-espacial-orion-2899038.jpg' alt='Artemis II: este es el siguiente paso de la NASA tras el aterrizaje de la nave espacial Orión' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/amazon/como-conseguir-7-euros-gratis-visitar-amazon-1168580'>Cómo conseguir 7 euros gratis en tu próxima compra en Amazon</a></h4>
     <a href='https://computerhoy.com/amazon/como-conseguir-7-euros-gratis-visitar-amazon-1168580' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/amazon-hub-locker-2898916.jpg' alt='Cómo conseguir 7 euros gratis en tu próxima compra en Amazon' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/ciencia/madera-genera-electricidad-ultimo-hito-ingenieria-1168636'>La madera que genera electricidad, el último hito de la ingeniería</a></h4>
     <a href='https://computerhoy.com/ciencia/madera-genera-electricidad-ultimo-hito-ingenieria-1168636' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/madera-mit-2712965.jpg' alt='La madera que genera electricidad, el último hito de la ingeniería' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/nuevos-xiaomi-13-ya-son-oficiales-china-prometen-mucho-muy-poco-1168572'>Los nuevos Xiaomi 13 ya son oficiales en China y prometen mucho por muy poco</a></h4>
-    <a href='https://computerhoy.com/moviles/nuevos-xiaomi-13-ya-son-oficiales-china-prometen-mucho-muy-poco-1168572' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/xiaomi-13-2898678.jpg' alt='Los nuevos Xiaomi 13 ya son oficiales en China y prometen mucho por muy poco' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/redes-sociales/elon-musk-confirma-aumento-limite-caracteres-twitter-280-4000-1168554'>Elon Musk confirma el aumento del límite de caracteres en Twitter de 280 a 4.000</a></h4>
-    <a href='https://computerhoy.com/redes-sociales/elon-musk-confirma-aumento-limite-caracteres-twitter-280-4000-1168554' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/elon-musk-confirma-aumento-limite-caracteres-twitter-280-4000-2898646.jpg' alt='Elon Musk confirma el aumento del límite de caracteres en Twitter de 280 a 4.000' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/aplicaciones/whatsapp-trabajando-funcion-llevamos-anos-esperando-1168570'>WhatsApp está trabajando en una función que llevamos años esperando</a></h4>
-    <a href='https://computerhoy.com/aplicaciones/whatsapp-trabajando-funcion-llevamos-anos-esperando-1168570' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/whatsapp-2866195.jpg' alt='WhatsApp está trabajando en una función que llevamos años esperando' />
     </a>
 </div>
 
