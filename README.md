@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/documental-enrique-meghan-superan-the-crown-netflix-1168916'>Harry y Meghan le ganan a la corona británica, al menos en Netflix</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/documental-enrique-meghan-superan-the-crown-netflix-1168916' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/harry-meghan-ganan-corona-britanica-menos-netflix-2899464.jpg' alt='Harry y Meghan le ganan a la corona británica, al menos en Netflix' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/jack-ma-fundador-aliexpress-desaparecido-tokio-1168902'>Localizan a Jack Ma, el carismático fundador de AliExpress, después de dos años desaparecido</a></h4>
     <a href='https://computerhoy.com/life/jack-ma-fundador-aliexpress-desaparecido-tokio-1168902' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/localizan-jack-ma-carismatico-fundador-aliexpress-despues-dos-anos-desaparecido-2899392.jpg' alt='Localizan a Jack Ma, el carismático fundador de AliExpress, después de dos años desaparecido' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/life/ciudad-futuro-arabia-saudi-no-era-bulo-estan-construyendo-1168824'>La ciudad del futuro de Arabia Saudí no era un bulo: la están construyendo</a></h4>
     <a href='https://computerhoy.com/life/ciudad-futuro-arabia-saudi-no-era-bulo-estan-construyendo-1168824' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/line-2899312.jpg' alt='La ciudad del futuro de Arabia Saudí no era un bulo: la están construyendo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/samsung-cuerdas-seran-nuevos-smartphones-plegables-oppo-1168826'>Samsung contra las cuerdas: así serán los nuevos smartphones plegables de OPPO</a></h4>
-    <a href='https://computerhoy.com/moviles/samsung-cuerdas-seran-nuevos-smartphones-plegables-oppo-1168826' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/analisis-oppo-find-n-2588329.jpg' alt='Samsung contra las cuerdas: así serán los nuevos smartphones plegables de OPPO' />
     </a>
 </div>
 
