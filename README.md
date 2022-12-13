@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/moviles/samsung-galaxy-s22-precio-black-friday-llega-antes-navidad-1169216'>Samsung Galaxy S22 vuelve a su precio de Black Friday y llega antes de Navidad</a></h4>
+    <a href='https://computerhoy.com/moviles/samsung-galaxy-s22-precio-black-friday-llega-antes-navidad-1169216' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/samsung-galaxy-s22-analisis-opinion-2740963.jpg' alt='Samsung Galaxy S22 vuelve a su precio de Black Friday y llega antes de Navidad' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/criptos/deberiamos-estar-preocupados-futuro-binance-1169250'>¿Deberíamos estar preocupados por el futuro de Binance?</a></h4>
     <a href='https://computerhoy.com/criptos/deberiamos-estar-preocupados-futuro-binance-1169250' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/deberiamos-estar-preocupados-futuro-binance-2899916.jpg' alt='¿Deberíamos estar preocupados por el futuro de Binance?' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/ciencia/terapia-experimental-usa-tecnica-crispr-20-cura-leucemia-agresiva-incurable-adolescente-1169196'>Una terapia experimental que usa la técnica CRISPR 2.0 cura una leucemia agresiva e "incurable" de una adolescente</a></h4>
     <a href='https://computerhoy.com/ciencia/terapia-experimental-usa-tecnica-crispr-20-cura-leucemia-agresiva-incurable-adolescente-1169196' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/terapia-genica-experimental-conocida-como-crispr-20-cura-leucemia-muy-agresiva-incurable-adolescente-2899822.jpg' alt='Una terapia experimental que usa la técnica CRISPR 2.0 cura una leucemia agresiva e "incurable" de una adolescente' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/xiaomi-12-oferta-descuento-335-euros-1169190'>Xiaomi 12, el mejor móvil de Xiaomi ahora tiene más de 335€ de descuento</a></h4>
-    <a href='https://computerhoy.com/moviles/xiaomi-12-oferta-descuento-335-euros-1169190' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/review-xiaomi-12-2695571.jpg' alt='Xiaomi 12, el mejor móvil de Xiaomi ahora tiene más de 335€ de descuento' />
     </a>
 </div>
 
