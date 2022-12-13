@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/que-es-sindrome-persona-rigida-enfermedad-rara-incurable-celine-dion-1168712'>Qué es el Síndrome de la Persona Rígida, una rara e incurable enfermedad que padece la cantante Celine Dion</a></h4>
+    <a href='https://computerhoy.com/life/que-es-sindrome-persona-rigida-enfermedad-rara-incurable-celine-dion-1168712' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/sindrome-persona-rigida-rara-incurable-enfermedad-padece-cantante-celine-dion-2899076.jpg' alt='Qué es el Síndrome de la Persona Rígida, una rara e incurable enfermedad que padece la cantante Celine Dion' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/industria/adobe-cumple-40-anos-hitos-flash-photoshop-pdf-1168946'>Adobe cumple 40 años con hitos como Flash, Photoshop o PDF... y sus inalcanzables aplicaciones de pago</a></h4>
     <a href='https://computerhoy.com/industria/adobe-cumple-40-anos-hitos-flash-photoshop-pdf-1168946' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/adobe-cumple-40-anos-hitos-como-flash-pdf-inalcanzables-aplicaciones-pago-2899502.jpg' alt='Adobe cumple 40 años con hitos como Flash, Photoshop o PDF... y sus inalcanzables aplicaciones de pago' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/life/estas-ciudades-vende-loteria-navidad-madrid-barcelona-hay-razon-1168922'>En estas ciudades se vende más Lotería de Navidad que en Madrid y Barcelona, y hay una razón</a></h4>
     <a href='https://computerhoy.com/life/estas-ciudades-vende-loteria-navidad-madrid-barcelona-hay-razon-1168922' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/loteria-navidad-2899488.jpg' alt='En estas ciudades se vende más Lotería de Navidad que en Madrid y Barcelona, y hay una razón' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/xiaomi-pad-5-alternativa-ipad-oferta-cupon-1168662'>Xiaomi Pad 5, la alternativa Android al iPad, cae a solo 279 euros con un cupón</a></h4>
-    <a href='https://computerhoy.com/tecnologia/xiaomi-pad-5-alternativa-ipad-oferta-cupon-1168662' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/galeria-review-xiaomi-pad-5-2531813.jpg' alt='Xiaomi Pad 5, la alternativa Android al iPad, cae a solo 279 euros con un cupón' />
     </a>
 </div>
 
