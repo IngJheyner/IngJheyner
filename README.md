@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/criptos/top-10-paises-mayor-numero-usuarios-enganchados-criptomonedas-2022-1168710'>Este es el top 10 de países con mayor número de usuarios enganchados a las criptomonedas en 2022</a></h4>
+    <a href='https://computerhoy.com/criptos/top-10-paises-mayor-numero-usuarios-enganchados-criptomonedas-2022-1168710' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/top-10-paises-mayor-numero-usuarios-enganchados-criptomonedas-2022-2899350.jpg' alt='Este es el top 10 de países con mayor número de usuarios enganchados a las criptomonedas en 2022' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/30-noticias-tecnologia-comenzar-manana-informado-ultimo-1169162'>30 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
     <a href='https://computerhoy.com/tecnologia/30-noticias-tecnologia-comenzar-manana-informado-ultimo-1169162' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/30-noticias-tecnologia-comenzar-manana-informado-ultimo-2899756.jpg' alt='30 noticias de tecnología para comenzar la mañana informado de lo último' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/industria/adobe-cumple-40-anos-hitos-flash-photoshop-pdf-1168946'>Adobe cumple 40 años con hitos como Flash, Photoshop o PDF... y sus inalcanzables aplicaciones de pago</a></h4>
     <a href='https://computerhoy.com/industria/adobe-cumple-40-anos-hitos-flash-photoshop-pdf-1168946' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/adobe-cumple-40-anos-hitos-como-flash-pdf-inalcanzables-aplicaciones-pago-2899502.jpg' alt='Adobe cumple 40 años con hitos como Flash, Photoshop o PDF... y sus inalcanzables aplicaciones de pago' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/aplicaciones/estas-aplicaciones-son-culpables-bateria-movil-dure-poco-1168940'>Estas aplicaciones son las culpables de la batería de tu móvil dure poco</a></h4>
-    <a href='https://computerhoy.com/aplicaciones/estas-aplicaciones-son-culpables-bateria-movil-dure-poco-1168940' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/xiaomi-12t-pro-carga-120w-2833727.jpg' alt='Estas aplicaciones son las culpables de la batería de tu móvil dure poco' />
     </a>
 </div>
 
