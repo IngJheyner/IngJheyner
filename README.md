@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/internet/lucid-mode-funcionalidad-opera-mejorar-imagenes-videos-1169438'>Lucid Mode: la funcionalidad de Opera para mejorar imágenes y vídeos</a></h4>
+    <a href='https://computerhoy.com/internet/lucid-mode-funcionalidad-opera-mejorar-imagenes-videos-1169438' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/lucid-mode-funcionalidad-opera-mejorar-imagenes-videos-2900572.jpg' alt='Lucid Mode: la funcionalidad de Opera para mejorar imágenes y vídeos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/oppenheimer-christopher-nolan-explosion-nuclear-sin-efectos-especiales-ordenador-1169504'>Christopher Nolan recrea una explosión nuclear sin efectos especiales por ordenador para su película Oppenheimer</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/oppenheimer-christopher-nolan-explosion-nuclear-sin-efectos-especiales-ordenador-1169504' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/christopher-nolan-ha-recreado-explosion-nuclear-efectos-especiales-ordenador-pelicula-oppenheimer-2900548.jpg' alt='Christopher Nolan recrea una explosión nuclear sin efectos especiales por ordenador para su película Oppenheimer' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/espacio/asteroide-pasara-muy-cerca-tierra-puedes-seguir-trayectoria-comodidad-casa-estas-herramientas-1169496'>Este asteroide pasará muy cerca de la Tierra y puedes seguir su trayectoria desde la comodidad de tu casa con estas herramientas</a></h4>
     <a href='https://computerhoy.com/espacio/asteroide-pasara-muy-cerca-tierra-puedes-seguir-trayectoria-comodidad-casa-estas-herramientas-1169496' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/asteroide-2900550.jpg' alt='Este asteroide pasará muy cerca de la Tierra y puedes seguir su trayectoria desde la comodidad de tu casa con estas herramientas' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/android/red-flags-hora-comprar-movil-barato-deberias-evitar-1169436'>Las red flags a la hora de comprar un móvil barato, qué deberías evitar</a></h4>
     <a href='https://computerhoy.com/android/red-flags-hora-comprar-movil-barato-deberias-evitar-1169436' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/tienda-smartphones-2889700.jpg' alt='Las red flags a la hora de comprar un móvil barato, qué deberías evitar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/estos-portatiles-vienen-linux-preinstalado-son-forma-ahorrarte-bastante-dinero-1169280'>Estos portátiles vienen con Linux preinstalado y son una forma de ahorrarte bastante dinero</a></h4>
-    <a href='https://computerhoy.com/pc/estos-portatiles-vienen-linux-preinstalado-son-forma-ahorrarte-bastante-dinero-1169280' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/portatil-dell-2900404.jpg' alt='Estos portátiles vienen con Linux preinstalado y son una forma de ahorrarte bastante dinero' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/ectolife-vientres-artificiales-video-1169456'>EctoLife: vientres artificiales para tener un hijo sin embarazo ni parto (vídeo)</a></h4>
-    <a href='https://computerhoy.com/ciencia/ectolife-vientres-artificiales-video-1169456' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/verticalimage1670947398286-2900374.jpg' alt='EctoLife: vientres artificiales para tener un hijo sin embarazo ni parto (vídeo)' />
     </a>
 </div>
 
