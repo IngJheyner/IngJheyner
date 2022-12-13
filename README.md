@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/hbo-max-cierra-forzosamente-puertas-westworld-abandonara-plataforma-1169220'>HBO Max cierra forzosamente las puertas de Westworld y abandonará la plataforma</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/hbo-max-cierra-forzosamente-puertas-westworld-abandonara-plataforma-1169220' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/westworld-4-2737657.jpeg' alt='HBO Max cierra forzosamente las puertas de Westworld y abandonará la plataforma' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/moviles/sera-moto-x40-proximo-buque-insignia-motorola-filtrado-video-1169194'>Así será Moto X40, el próximo buque insignia de Motorola filtrado en vídeo</a></h4>
+    <a href='https://computerhoy.com/moviles/sera-moto-x40-proximo-buque-insignia-motorola-filtrado-video-1169194' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/moto-x40-2899846.jpg' alt='Así será Moto X40, el próximo buque insignia de Motorola filtrado en vídeo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciencia/terapia-experimental-usa-tecnica-crispr-20-cura-leucemia-agresiva-incurable-adolescente-1169196'>Una terapia experimental que usa la técnica CRISPR 2.0 cura una leucemia agresiva e "incurable" de una adolescente</a></h4>
     <a href='https://computerhoy.com/ciencia/terapia-experimental-usa-tecnica-crispr-20-cura-leucemia-agresiva-incurable-adolescente-1169196' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/terapia-genica-experimental-conocida-como-crispr-20-cura-leucemia-muy-agresiva-incurable-adolescente-2899822.jpg' alt='Una terapia experimental que usa la técnica CRISPR 2.0 cura una leucemia agresiva e "incurable" de una adolescente' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/apagar-smartphone-soluciona-muchos-problemas-1165718'>Por qué apagar el smartphone soluciona muchos problemas</a></h4>
     <a href='https://computerhoy.com/tecnologia/apagar-smartphone-soluciona-muchos-problemas-1165718' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/smartphone-2893690.jpg' alt='Por qué apagar el smartphone soluciona muchos problemas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/test-personalidad-imagen-revela-eres-racional-impulsivo-1168756'>Desafío rápido: lo que veas es esta imagen revela si eres racional o impulsivo</a></h4>
-    <a href='https://computerhoy.com/life/test-personalidad-imagen-revela-eres-racional-impulsivo-1168756' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/desafio-rapido-veas-imagen-revela-eres-racional-impulsivo-2899090.jpg' alt='Desafío rápido: lo que veas es esta imagen revela si eres racional o impulsivo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/puedes-restaurar-archivo-cuarentena-microsoft-defender-1165760'>Así puedes restaurar un archivo que está en cuarentena en Microsoft Defender</a></h4>
-    <a href='https://computerhoy.com/tutoriales/puedes-restaurar-archivo-cuarentena-microsoft-defender-1165760' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/windows-defender-2893758.jpg' alt='Así puedes restaurar un archivo que está en cuarentena en Microsoft Defender' />
     </a>
 </div>
 
