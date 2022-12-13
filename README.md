@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/puedes-restaurar-archivo-cuarentena-microsoft-defender-1165760'>Así puedes restaurar un archivo que está en cuarentena en Microsoft Defender</a></h4>
+    <a href='https://computerhoy.com/tutoriales/puedes-restaurar-archivo-cuarentena-microsoft-defender-1165760' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/windows-defender-2893758.jpg' alt='Así puedes restaurar un archivo que está en cuarentena en Microsoft Defender' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/criptos/top-10-paises-mayor-numero-usuarios-enganchados-criptomonedas-2022-1168710'>Este es el top 10 de países con mayor número de usuarios enganchados a las criptomonedas en 2022</a></h4>
     <a href='https://computerhoy.com/criptos/top-10-paises-mayor-numero-usuarios-enganchados-criptomonedas-2022-1168710' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/top-10-paises-mayor-numero-usuarios-enganchados-criptomonedas-2022-2899350.jpg' alt='Este es el top 10 de países con mayor número de usuarios enganchados a las criptomonedas en 2022' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/life/que-es-sindrome-persona-rigida-enfermedad-rara-incurable-celine-dion-1168712'>Qué es el Síndrome de la Persona Rígida, una rara e incurable enfermedad que padece la cantante Celine Dion</a></h4>
     <a href='https://computerhoy.com/life/que-es-sindrome-persona-rigida-enfermedad-rara-incurable-celine-dion-1168712' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/sindrome-persona-rigida-rara-incurable-enfermedad-padece-cantante-celine-dion-2899076.jpg' alt='Qué es el Síndrome de la Persona Rígida, una rara e incurable enfermedad que padece la cantante Celine Dion' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/industria/adobe-cumple-40-anos-hitos-flash-photoshop-pdf-1168946'>Adobe cumple 40 años con hitos como Flash, Photoshop o PDF... y sus inalcanzables aplicaciones de pago</a></h4>
-    <a href='https://computerhoy.com/industria/adobe-cumple-40-anos-hitos-flash-photoshop-pdf-1168946' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/adobe-cumple-40-anos-hitos-como-flash-pdf-inalcanzables-aplicaciones-pago-2899502.jpg' alt='Adobe cumple 40 años con hitos como Flash, Photoshop o PDF... y sus inalcanzables aplicaciones de pago' />
     </a>
 </div>
 
