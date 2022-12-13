@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/espacio/asteroide-pasara-muy-cerca-tierra-puedes-seguir-trayectoria-comodidad-casa-estas-herramientas-1169496'>Este asteroide pasará muy cerca de la Tierra y puedes seguir su trayectoria desde la comodidad de tu casa con estas herramientas</a></h4>
+    <a href='https://computerhoy.com/espacio/asteroide-pasara-muy-cerca-tierra-puedes-seguir-trayectoria-comodidad-casa-estas-herramientas-1169496' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/asteroide-2900550.jpg' alt='Este asteroide pasará muy cerca de la Tierra y puedes seguir su trayectoria desde la comodidad de tu casa con estas herramientas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/avance-energia-fusion-podria-ofrecer-energia-limpia-forma-ilimitada-1169484'>Este avance de la energía de fusión podría ofrecer energía limpia de forma ilimitada</a></h4>
+    <a href='https://computerhoy.com/ciencia/avance-energia-fusion-podria-ofrecer-energia-limpia-forma-ilimitada-1169484' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/laboratorio-nacional-lawrence-livermore-2900516.jpg' alt='Este avance de la energía de fusión podría ofrecer energía limpia de forma ilimitada' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/android/red-flags-hora-comprar-movil-barato-deberias-evitar-1169436'>Las red flags a la hora de comprar un móvil barato, qué deberías evitar</a></h4>
     <a href='https://computerhoy.com/android/red-flags-hora-comprar-movil-barato-deberias-evitar-1169436' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/tienda-smartphones-2889700.jpg' alt='Las red flags a la hora de comprar un móvil barato, qué deberías evitar' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/ciencia/ectolife-vientres-artificiales-video-1169456'>EctoLife: vientres artificiales para tener un hijo sin embarazo ni parto (vídeo)</a></h4>
     <a href='https://computerhoy.com/ciencia/ectolife-vientres-artificiales-video-1169456' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/verticalimage1670947398286-2900374.jpg' alt='EctoLife: vientres artificiales para tener un hijo sin embarazo ni parto (vídeo)' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/bloqueadores-anuncios-tienen-dias-contados-google-chrome-1169418'>Los bloqueadores de anuncios tienen los días contados en Google Chrome</a></h4>
-    <a href='https://computerhoy.com/internet/bloqueadores-anuncios-tienen-dias-contados-google-chrome-1169418' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/google-chrome-2845341.jpg' alt='Los bloqueadores de anuncios tienen los días contados en Google Chrome' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/fin-sabemos-camaras-usan-iphone-tim-cook-acaba-confirmarlo-1169332'>Por fin sabemos qué cámaras usan los iPhone: Tim Cook acaba de confirmarlo</a></h4>
-    <a href='https://computerhoy.com/apple/fin-sabemos-camaras-usan-iphone-tim-cook-acaba-confirmarlo-1169332' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/analisis-iphone-14-pro-2821731.jpg' alt='Por fin sabemos qué cámaras usan los iPhone: Tim Cook acaba de confirmarlo' />
     </a>
 </div>
 
