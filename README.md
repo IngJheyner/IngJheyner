@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/android/red-flags-hora-comprar-movil-barato-deberias-evitar-1169436'>Las red flags a la hora de comprar un móvil barato, qué deberías evitar</a></h4>
+    <a href='https://computerhoy.com/android/red-flags-hora-comprar-movil-barato-deberias-evitar-1169436' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/tienda-smartphones-2889700.jpg' alt='Las red flags a la hora de comprar un móvil barato, qué deberías evitar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/pc/estos-portatiles-vienen-linux-preinstalado-son-forma-ahorrarte-bastante-dinero-1169280'>Estos portátiles vienen con Linux preinstalado y son una forma de ahorrarte bastante dinero</a></h4>
+    <a href='https://computerhoy.com/pc/estos-portatiles-vienen-linux-preinstalado-son-forma-ahorrarte-bastante-dinero-1169280' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/portatil-dell-2900404.jpg' alt='Estos portátiles vienen con Linux preinstalado y son una forma de ahorrarte bastante dinero' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/ectolife-vientres-artificiales-video-1169456'>EctoLife: vientres artificiales para tener un hijo sin embarazo ni parto (vídeo)</a></h4>
+    <a href='https://computerhoy.com/ciencia/ectolife-vientres-artificiales-video-1169456' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/verticalimage1670947398286-2900374.jpg' alt='EctoLife: vientres artificiales para tener un hijo sin embarazo ni parto (vídeo)' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/internet/bloqueadores-anuncios-tienen-dias-contados-google-chrome-1169418'>Los bloqueadores de anuncios tienen los días contados en Google Chrome</a></h4>
     <a href='https://computerhoy.com/internet/bloqueadores-anuncios-tienen-dias-contados-google-chrome-1169418' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/google-chrome-2845341.jpg' alt='Los bloqueadores de anuncios tienen los días contados en Google Chrome' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/apple/fin-sabemos-camaras-usan-iphone-tim-cook-acaba-confirmarlo-1169332'>Por fin sabemos qué cámaras usan los iPhone: Tim Cook acaba de confirmarlo</a></h4>
     <a href='https://computerhoy.com/apple/fin-sabemos-camaras-usan-iphone-tim-cook-acaba-confirmarlo-1169332' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/analisis-iphone-14-pro-2821731.jpg' alt='Por fin sabemos qué cámaras usan los iPhone: Tim Cook acaba de confirmarlo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/xiaomi-miui-14-ya-oficial-estas-son-todas-mejoras-novedades-presenta-1169322'>Xiaomi MIUI 14 ya es oficial: estas son todas las mejoras y novedades que presenta</a></h4>
-    <a href='https://computerhoy.com/moviles/xiaomi-miui-14-ya-oficial-estas-son-todas-mejoras-novedades-presenta-1169322' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/xiaomi-miui-14-ya-oficial-estas-son-todas-mejoras-novedades-presenta-2900104.jpg' alt='Xiaomi MIUI 14 ya es oficial: estas son todas las mejoras y novedades que presenta' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/samsung-galaxy-s22-precio-black-friday-llega-antes-navidad-1169216'>Samsung Galaxy S22 vuelve a su precio de Black Friday y llega antes de Navidad</a></h4>
-    <a href='https://computerhoy.com/moviles/samsung-galaxy-s22-precio-black-friday-llega-antes-navidad-1169216' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/samsung-galaxy-s22-analisis-opinion-2740963.jpg' alt='Samsung Galaxy S22 vuelve a su precio de Black Friday y llega antes de Navidad' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/criptos/deberiamos-estar-preocupados-futuro-binance-1169250'>¿Deberíamos estar preocupados por el futuro de Binance?</a></h4>
-    <a href='https://computerhoy.com/criptos/deberiamos-estar-preocupados-futuro-binance-1169250' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/deberiamos-estar-preocupados-futuro-binance-2899916.jpg' alt='¿Deberíamos estar preocupados por el futuro de Binance?' />
     </a>
 </div>
 
