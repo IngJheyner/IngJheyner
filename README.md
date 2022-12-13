@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/30-noticias-tecnologia-comenzar-manana-informado-ultimo-1169162'>30 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
+    <a href='https://computerhoy.com/tecnologia/30-noticias-tecnologia-comenzar-manana-informado-ultimo-1169162' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/30-noticias-tecnologia-comenzar-manana-informado-ultimo-2899756.jpg' alt='30 noticias de tecnología para comenzar la mañana informado de lo último' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/moviles/mejores-moviles-baratos-buenos-200eu-puedes-regalar-navidad-1168800'>Mejores móviles baratos y buenos por 200€ que puedes regalar en Navidad</a></h4>
+    <a href='https://computerhoy.com/moviles/mejores-moviles-baratos-buenos-200eu-puedes-regalar-navidad-1168800' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/xiaomi-11-ultra-2899368.jpg' alt='Mejores móviles baratos y buenos por 200€ que puedes regalar en Navidad' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/que-es-sindrome-persona-rigida-enfermedad-rara-incurable-celine-dion-1168712'>Qué es el Síndrome de la Persona Rígida, una rara e incurable enfermedad que padece la cantante Celine Dion</a></h4>
     <a href='https://computerhoy.com/life/que-es-sindrome-persona-rigida-enfermedad-rara-incurable-celine-dion-1168712' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/sindrome-persona-rigida-rara-incurable-enfermedad-padece-cantante-celine-dion-2899076.jpg' alt='Qué es el Síndrome de la Persona Rígida, una rara e incurable enfermedad que padece la cantante Celine Dion' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/aplicaciones/estas-aplicaciones-son-culpables-bateria-movil-dure-poco-1168940'>Estas aplicaciones son las culpables de la batería de tu móvil dure poco</a></h4>
     <a href='https://computerhoy.com/aplicaciones/estas-aplicaciones-son-culpables-bateria-movil-dure-poco-1168940' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/xiaomi-12t-pro-carga-120w-2833727.jpg' alt='Estas aplicaciones son las culpables de la batería de tu móvil dure poco' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/utilizar-ia-detectar-textos-generados-artificialmente-chatgpt-tiene-primer-enemigo-1168920'>Utilizar IA para detectar textos generados artificialmente: ChatGPT tiene su primer enemigo</a></h4>
-    <a href='https://computerhoy.com/tecnologia/utilizar-ia-detectar-textos-generados-artificialmente-chatgpt-tiene-primer-enemigo-1168920' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/inteligencia-artificial-2821411.jpg' alt='Utilizar IA para detectar textos generados artificialmente: ChatGPT tiene su primer enemigo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/estas-ciudades-vende-loteria-navidad-madrid-barcelona-hay-razon-1168922'>En estas ciudades se vende más Lotería de Navidad que en Madrid y Barcelona, y hay una razón</a></h4>
-    <a href='https://computerhoy.com/life/estas-ciudades-vende-loteria-navidad-madrid-barcelona-hay-razon-1168922' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/loteria-navidad-2899488.jpg' alt='En estas ciudades se vende más Lotería de Navidad que en Madrid y Barcelona, y hay una razón' />
     </a>
 </div>
 
