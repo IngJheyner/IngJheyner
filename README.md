@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/internet/bloqueadores-anuncios-tienen-dias-contados-google-chrome-1169418'>Los bloqueadores de anuncios tienen los días contados en Google Chrome</a></h4>
+    <a href='https://computerhoy.com/internet/bloqueadores-anuncios-tienen-dias-contados-google-chrome-1169418' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/google-chrome-2845341.jpg' alt='Los bloqueadores de anuncios tienen los días contados en Google Chrome' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apple/fin-sabemos-camaras-usan-iphone-tim-cook-acaba-confirmarlo-1169332'>Por fin sabemos qué cámaras usan los iPhone: Tim Cook acaba de confirmarlo</a></h4>
     <a href='https://computerhoy.com/apple/fin-sabemos-camaras-usan-iphone-tim-cook-acaba-confirmarlo-1169332' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/analisis-iphone-14-pro-2821731.jpg' alt='Por fin sabemos qué cámaras usan los iPhone: Tim Cook acaba de confirmarlo' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/criptos/deberiamos-estar-preocupados-futuro-binance-1169250'>¿Deberíamos estar preocupados por el futuro de Binance?</a></h4>
     <a href='https://computerhoy.com/criptos/deberiamos-estar-preocupados-futuro-binance-1169250' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/deberiamos-estar-preocupados-futuro-binance-2899916.jpg' alt='¿Deberíamos estar preocupados por el futuro de Binance?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/hbo-max-cierra-forzosamente-puertas-westworld-abandonara-plataforma-1169220'>HBO Max cierra forzosamente las puertas de Westworld y abandonará la plataforma</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/hbo-max-cierra-forzosamente-puertas-westworld-abandonara-plataforma-1169220' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/westworld-4-2737657.jpeg' alt='HBO Max cierra forzosamente las puertas de Westworld y abandonará la plataforma' />
     </a>
 </div>
 
