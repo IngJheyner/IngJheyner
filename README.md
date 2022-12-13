@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/criptos/deberiamos-estar-preocupados-futuro-binance-1169250'>¿Deberíamos estar preocupados por el futuro de Binance?</a></h4>
+    <a href='https://computerhoy.com/criptos/deberiamos-estar-preocupados-futuro-binance-1169250' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/deberiamos-estar-preocupados-futuro-binance-2899916.jpg' alt='¿Deberíamos estar preocupados por el futuro de Binance?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/entretenimiento/hbo-max-cierra-forzosamente-puertas-westworld-abandonara-plataforma-1169220'>HBO Max cierra forzosamente las puertas de Westworld y abandonará la plataforma</a></h4>
     <a href='https://computerhoy.com/entretenimiento/hbo-max-cierra-forzosamente-puertas-westworld-abandonara-plataforma-1169220' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/westworld-4-2737657.jpeg' alt='HBO Max cierra forzosamente las puertas de Westworld y abandonará la plataforma' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/moviles/xiaomi-12-oferta-descuento-335-euros-1169190'>Xiaomi 12, el mejor móvil de Xiaomi ahora tiene más de 335€ de descuento</a></h4>
     <a href='https://computerhoy.com/moviles/xiaomi-12-oferta-descuento-335-euros-1169190' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/review-xiaomi-12-2695571.jpg' alt='Xiaomi 12, el mejor móvil de Xiaomi ahora tiene más de 335€ de descuento' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/apagar-smartphone-soluciona-muchos-problemas-1165718'>Por qué apagar el smartphone soluciona muchos problemas</a></h4>
-    <a href='https://computerhoy.com/tecnologia/apagar-smartphone-soluciona-muchos-problemas-1165718' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/smartphone-2893690.jpg' alt='Por qué apagar el smartphone soluciona muchos problemas' />
     </a>
 </div>
 
