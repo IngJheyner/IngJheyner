@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/pc/lector-ebook-kobo-clara-2e-rebajado-1169512'>Amazon Kindle no llega antes de Navidad, pero este ebook de Kobo sí y está rebajado</a></h4>
+    <a href='https://computerhoy.com/pc/lector-ebook-kobo-clara-2e-rebajado-1169512' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/amazon-kindle-no-llega-antes-navidad-pero-ebook-kobo-rebajado-2900578.jpg' alt='Amazon Kindle no llega antes de Navidad, pero este ebook de Kobo sí y está rebajado' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/internet/lucid-mode-funcionalidad-opera-mejorar-imagenes-videos-1169438'>Lucid Mode: la funcionalidad de Opera para mejorar imágenes y vídeos</a></h4>
     <a href='https://computerhoy.com/internet/lucid-mode-funcionalidad-opera-mejorar-imagenes-videos-1169438' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/lucid-mode-funcionalidad-opera-mejorar-imagenes-videos-2900572.jpg' alt='Lucid Mode: la funcionalidad de Opera para mejorar imágenes y vídeos' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/ciencia/avance-energia-fusion-podria-ofrecer-energia-limpia-forma-ilimitada-1169484'>Este avance de la energía de fusión podría ofrecer energía limpia de forma ilimitada</a></h4>
     <a href='https://computerhoy.com/ciencia/avance-energia-fusion-podria-ofrecer-energia-limpia-forma-ilimitada-1169484' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/laboratorio-nacional-lawrence-livermore-2900516.jpg' alt='Este avance de la energía de fusión podría ofrecer energía limpia de forma ilimitada' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/android/red-flags-hora-comprar-movil-barato-deberias-evitar-1169436'>Las red flags a la hora de comprar un móvil barato, qué deberías evitar</a></h4>
-    <a href='https://computerhoy.com/android/red-flags-hora-comprar-movil-barato-deberias-evitar-1169436' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/tienda-smartphones-2889700.jpg' alt='Las red flags a la hora de comprar un móvil barato, qué deberías evitar' />
     </a>
 </div>
 
