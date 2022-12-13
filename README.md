@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/terapia-experimental-usa-tecnica-crispr-20-cura-leucemia-agresiva-incurable-adolescente-1169196'>Una terapia experimental que usa la técnica CRISPR 2.0 cura una leucemia agresiva e "incurable" de una adolescente</a></h4>
+    <a href='https://computerhoy.com/ciencia/terapia-experimental-usa-tecnica-crispr-20-cura-leucemia-agresiva-incurable-adolescente-1169196' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/terapia-genica-experimental-conocida-como-crispr-20-cura-leucemia-muy-agresiva-incurable-adolescente-2899822.jpg' alt='Una terapia experimental que usa la técnica CRISPR 2.0 cura una leucemia agresiva e "incurable" de una adolescente' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/moviles/xiaomi-12-oferta-descuento-335-euros-1169190'>Xiaomi 12, el mejor móvil de Xiaomi ahora tiene más de 335€ de descuento</a></h4>
+    <a href='https://computerhoy.com/moviles/xiaomi-12-oferta-descuento-335-euros-1169190' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/review-xiaomi-12-2695571.jpg' alt='Xiaomi 12, el mejor móvil de Xiaomi ahora tiene más de 335€ de descuento' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/apagar-smartphone-soluciona-muchos-problemas-1165718'>Por qué apagar el smartphone soluciona muchos problemas</a></h4>
+    <a href='https://computerhoy.com/tecnologia/apagar-smartphone-soluciona-muchos-problemas-1165718' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/smartphone-2893690.jpg' alt='Por qué apagar el smartphone soluciona muchos problemas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/test-personalidad-imagen-revela-eres-racional-impulsivo-1168756'>Desafío rápido: lo que veas es esta imagen revela si eres racional o impulsivo</a></h4>
+    <a href='https://computerhoy.com/life/test-personalidad-imagen-revela-eres-racional-impulsivo-1168756' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/desafio-rapido-veas-imagen-revela-eres-racional-impulsivo-2899090.jpg' alt='Desafío rápido: lo que veas es esta imagen revela si eres racional o impulsivo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tutoriales/puedes-restaurar-archivo-cuarentena-microsoft-defender-1165760'>Así puedes restaurar un archivo que está en cuarentena en Microsoft Defender</a></h4>
     <a href='https://computerhoy.com/tutoriales/puedes-restaurar-archivo-cuarentena-microsoft-defender-1165760' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/windows-defender-2893758.jpg' alt='Así puedes restaurar un archivo que está en cuarentena en Microsoft Defender' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/criptos/top-10-paises-mayor-numero-usuarios-enganchados-criptomonedas-2022-1168710'>Este es el top 10 de países con mayor número de usuarios enganchados a las criptomonedas en 2022</a></h4>
-    <a href='https://computerhoy.com/criptos/top-10-paises-mayor-numero-usuarios-enganchados-criptomonedas-2022-1168710' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/top-10-paises-mayor-numero-usuarios-enganchados-criptomonedas-2022-2899350.jpg' alt='Este es el top 10 de países con mayor número de usuarios enganchados a las criptomonedas en 2022' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/30-noticias-tecnologia-comenzar-manana-informado-ultimo-1169162'>30 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
-    <a href='https://computerhoy.com/tecnologia/30-noticias-tecnologia-comenzar-manana-informado-ultimo-1169162' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/30-noticias-tecnologia-comenzar-manana-informado-ultimo-2899756.jpg' alt='30 noticias de tecnología para comenzar la mañana informado de lo último' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/mejores-moviles-baratos-buenos-200eu-puedes-regalar-navidad-1168800'>Mejores móviles baratos y buenos por 200€ que puedes regalar en Navidad</a></h4>
-    <a href='https://computerhoy.com/moviles/mejores-moviles-baratos-buenos-200eu-puedes-regalar-navidad-1168800' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/xiaomi-11-ultra-2899368.jpg' alt='Mejores móviles baratos y buenos por 200€ que puedes regalar en Navidad' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/que-es-sindrome-persona-rigida-enfermedad-rara-incurable-celine-dion-1168712'>Qué es el Síndrome de la Persona Rígida, una rara e incurable enfermedad que padece la cantante Celine Dion</a></h4>
-    <a href='https://computerhoy.com/life/que-es-sindrome-persona-rigida-enfermedad-rara-incurable-celine-dion-1168712' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/sindrome-persona-rigida-rara-incurable-enfermedad-padece-cantante-celine-dion-2899076.jpg' alt='Qué es el Síndrome de la Persona Rígida, una rara e incurable enfermedad que padece la cantante Celine Dion' />
     </a>
 </div>
 
