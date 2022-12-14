@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/pc/fabricantes-ven-obligados-bajar-precio-hardware-pc-1169792'>Los fabricantes se ven obligados a bajar de precio el hardware de PC</a></h4>
+    <a href='https://computerhoy.com/pc/fabricantes-ven-obligados-bajar-precio-hardware-pc-1169792' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/ordenadores-portatiles-2883089.jpg' alt='Los fabricantes se ven obligados a bajar de precio el hardware de PC' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/gaming/miles-juegos-steam-ya-estan-disponibles-coches-tesla-elon-musk-1169766'>Miles de juegos de Steam ya están disponibles en los coches Tesla de Elon Musk</a></h4>
+    <a href='https://computerhoy.com/gaming/miles-juegos-steam-ya-estan-disponibles-coches-tesla-elon-musk-1169766' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/miles-juegos-steam-ya-estan-disponibles-coches-tesla-elon-musk-2900870.jpg' alt='Miles de juegos de Steam ya están disponibles en los coches Tesla de Elon Musk' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/llama-gordo-otras-curiosidades-muy-locas-loteria-navidad-1162766'>Por qué se llama el Gordo y otras curiosidades muy locas de la Lotería de Navidad</a></h4>
     <a href='https://computerhoy.com/life/llama-gordo-otras-curiosidades-muy-locas-loteria-navidad-1162766' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/loteria-navidad-2887712.jpg' alt='Por qué se llama el Gordo y otras curiosidades muy locas de la Lotería de Navidad' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/ofertas-navidad-honor-moviles-relojes-portatiles-auriculares-1169466'>Portátiles, móviles y más productos de Honor en oferta por Navidad</a></h4>
     <a href='https://computerhoy.com/tecnologia/ofertas-navidad-honor-moviles-relojes-portatiles-auriculares-1169466' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/ofertas-navidad-honor-2900498.jpg' alt='Portátiles, móviles y más productos de Honor en oferta por Navidad' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/ultimo-boeing-747-sale-factoria-1169730'>El final de una era: el último Boeing 747 sale de la factoría</a></h4>
-    <a href='https://computerhoy.com/motor/ultimo-boeing-747-sale-factoria-1169730' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/final-era-ultimo-boeing-747-sale-factoria-2900822.jpg' alt='El final de una era: el último Boeing 747 sale de la factoría' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/redes-sociales/tiktok-nuevo-modo-video-horizontal-1169524'>TikTok inicia el asalto final a YouTube con los vídeos en horizontal</a></h4>
-    <a href='https://computerhoy.com/redes-sociales/tiktok-nuevo-modo-video-horizontal-1169524' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/tiktok-va-youtube-nuevo-modo-pantalla-horizontal-2900606.jpg' alt='TikTok inicia el asalto final a YouTube con los vídeos en horizontal' />
     </a>
 </div>
 
