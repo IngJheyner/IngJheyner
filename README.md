@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/llama-gordo-otras-curiosidades-muy-locas-loteria-navidad-1162766'>Por qué se llama el Gordo y otras curiosidades muy locas de la Lotería de Navidad</a></h4>
+    <a href='https://computerhoy.com/life/llama-gordo-otras-curiosidades-muy-locas-loteria-navidad-1162766' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/loteria-navidad-2887712.jpg' alt='Por qué se llama el Gordo y otras curiosidades muy locas de la Lotería de Navidad' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/19-noticias-tecnologia-comenzar-manana-informado-ultimo-1169736'>19 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
     <a href='https://computerhoy.com/tecnologia/19-noticias-tecnologia-comenzar-manana-informado-ultimo-1169736' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/19-noticias-tecnologia-comenzar-manana-informado-ultimo-2900834.jpg' alt='19 noticias de tecnología para comenzar la mañana informado de lo último' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/redes-sociales/tiktok-nuevo-modo-video-horizontal-1169524'>TikTok inicia el asalto final a YouTube con los vídeos en horizontal</a></h4>
     <a href='https://computerhoy.com/redes-sociales/tiktok-nuevo-modo-video-horizontal-1169524' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/tiktok-va-youtube-nuevo-modo-pantalla-horizontal-2900606.jpg' alt='TikTok inicia el asalto final a YouTube con los vídeos en horizontal' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/industria/yovanna-blanco-nueva-chief-editorial-officer-axel-springer-espana-1169514'>Yovanna Blanco, nueva Chief Editorial Officer de Axel Springer España y ComputerHoy.com</a></h4>
-    <a href='https://computerhoy.com/industria/yovanna-blanco-nueva-chief-editorial-officer-axel-springer-espana-1169514' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/yovanna-blanco-nueva-chief-editorial-officer-axel-springer-espana-computerhoycom-2900584.jpg' alt='Yovanna Blanco, nueva Chief Editorial Officer de Axel Springer España y ComputerHoy.com' />
     </a>
 </div>
 
