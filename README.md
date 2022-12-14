@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/motor/ultimo-boeing-747-sale-factoria-1169730'>El final de una era: el último Boeing 747 sale de la factoría</a></h4>
+    <a href='https://computerhoy.com/motor/ultimo-boeing-747-sale-factoria-1169730' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/final-era-ultimo-boeing-747-sale-factoria-2900822.jpg' alt='El final de una era: el último Boeing 747 sale de la factoría' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/redes-sociales/tiktok-nuevo-modo-video-horizontal-1169524'>TikTok inicia el asalto final a YouTube con los vídeos en horizontal</a></h4>
     <a href='https://computerhoy.com/redes-sociales/tiktok-nuevo-modo-video-horizontal-1169524' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/tiktok-va-youtube-nuevo-modo-pantalla-horizontal-2900606.jpg' alt='TikTok inicia el asalto final a YouTube con los vídeos en horizontal' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/internet/lucid-mode-funcionalidad-opera-mejorar-imagenes-videos-1169438'>Lucid Mode: la funcionalidad de Opera para mejorar imágenes y vídeos</a></h4>
     <a href='https://computerhoy.com/internet/lucid-mode-funcionalidad-opera-mejorar-imagenes-videos-1169438' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/lucid-mode-funcionalidad-opera-mejorar-imagenes-videos-2900572.jpg' alt='Lucid Mode: la funcionalidad de Opera para mejorar imágenes y vídeos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/oppenheimer-christopher-nolan-explosion-nuclear-sin-efectos-especiales-ordenador-1169504'>Christopher Nolan recrea una explosión nuclear sin efectos especiales por ordenador para su película Oppenheimer</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/oppenheimer-christopher-nolan-explosion-nuclear-sin-efectos-especiales-ordenador-1169504' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/christopher-nolan-ha-recreado-explosion-nuclear-efectos-especiales-ordenador-pelicula-oppenheimer-2900548.jpg' alt='Christopher Nolan recrea una explosión nuclear sin efectos especiales por ordenador para su película Oppenheimer' />
     </a>
 </div>
 
