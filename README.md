@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/19-noticias-tecnologia-comenzar-manana-informado-ultimo-1169736'>19 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
+    <a href='https://computerhoy.com/tecnologia/19-noticias-tecnologia-comenzar-manana-informado-ultimo-1169736' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/19-noticias-tecnologia-comenzar-manana-informado-ultimo-2900834.jpg' alt='19 noticias de tecnología para comenzar la mañana informado de lo último' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/ofertas-navidad-honor-moviles-relojes-portatiles-auriculares-1169466'>Portátiles, móviles y más productos de Honor en oferta por Navidad</a></h4>
+    <a href='https://computerhoy.com/tecnologia/ofertas-navidad-honor-moviles-relojes-portatiles-auriculares-1169466' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/ofertas-navidad-honor-2900498.jpg' alt='Portátiles, móviles y más productos de Honor en oferta por Navidad' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/motor/ultimo-boeing-747-sale-factoria-1169730'>El final de una era: el último Boeing 747 sale de la factoría</a></h4>
     <a href='https://computerhoy.com/motor/ultimo-boeing-747-sale-factoria-1169730' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/final-era-ultimo-boeing-747-sale-factoria-2900822.jpg' alt='El final de una era: el último Boeing 747 sale de la factoría' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/industria/yovanna-blanco-nueva-chief-editorial-officer-axel-springer-espana-1169514'>Yovanna Blanco, nueva Chief Editorial Officer de Axel Springer España y ComputerHoy.com</a></h4>
     <a href='https://computerhoy.com/industria/yovanna-blanco-nueva-chief-editorial-officer-axel-springer-espana-1169514' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/yovanna-blanco-nueva-chief-editorial-officer-axel-springer-espana-computerhoycom-2900584.jpg' alt='Yovanna Blanco, nueva Chief Editorial Officer de Axel Springer España y ComputerHoy.com' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/lector-ebook-kobo-clara-2e-rebajado-1169512'>Amazon Kindle no llega antes de Navidad, pero este ebook de Kobo sí y está rebajado</a></h4>
-    <a href='https://computerhoy.com/pc/lector-ebook-kobo-clara-2e-rebajado-1169512' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/amazon-kindle-no-llega-antes-navidad-pero-ebook-kobo-rebajado-2900578.jpg' alt='Amazon Kindle no llega antes de Navidad, pero este ebook de Kobo sí y está rebajado' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/lucid-mode-funcionalidad-opera-mejorar-imagenes-videos-1169438'>Lucid Mode: la funcionalidad de Opera para mejorar imágenes y vídeos</a></h4>
-    <a href='https://computerhoy.com/internet/lucid-mode-funcionalidad-opera-mejorar-imagenes-videos-1169438' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/lucid-mode-funcionalidad-opera-mejorar-imagenes-videos-2900572.jpg' alt='Lucid Mode: la funcionalidad de Opera para mejorar imágenes y vídeos' />
     </a>
 </div>
 
