@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/razon-no-va-tocarte-premio-gordo-loteria-navidad-1170054'>La razón por la que no va a tocarte el Premio Gordo de la Lotería de Navidad</a></h4>
+    <a href='https://computerhoy.com/life/razon-no-va-tocarte-premio-gordo-loteria-navidad-1170054' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/loteria-navidad-2557563.jpg' alt='La razón por la que no va a tocarte el Premio Gordo de la Lotería de Navidad' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/moviles/xiaomi-recomienda-no-hacer-famoso-truco-arreglar-pantalla-telefonos-1170040'>Xiaomi recomienda no hacer un famoso truco para arreglar la pantalla de sus teléfonos</a></h4>
+    <a href='https://computerhoy.com/moviles/xiaomi-recomienda-no-hacer-famoso-truco-arreglar-pantalla-telefonos-1170040' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/pantalla-rota-movil-2901842.jpg' alt='Xiaomi recomienda no hacer un famoso truco para arreglar la pantalla de sus teléfonos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/espacio/fabrica-espacio-ultima-loca-idea-americana-1169932'>¿Una fábrica en el Espacio? La última loca idea americana</a></h4>
     <a href='https://computerhoy.com/espacio/fabrica-espacio-ultima-loca-idea-americana-1169932' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/fabrica-espacio-2901472.jpg' alt='¿Una fábrica en el Espacio? La última loca idea americana' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/pc/trucos-no-conocias-exprimir-portatil-chromebook-1169872'>Trucos que no conocías para exprimir tu portátil Chromebook</a></h4>
     <a href='https://computerhoy.com/pc/trucos-no-conocias-exprimir-portatil-chromebook-1169872' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/galeria-review-chromebook-spin-513-2462373.jpg' alt='Trucos que no conocías para exprimir tu portátil Chromebook' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/gaming/stock-playstation-5-navidad-1169846'>Fin de los problemas de stock: Ya puedes comprar una PlayStation 5 en estas tiendas</a></h4>
-    <a href='https://computerhoy.com/gaming/stock-playstation-5-navidad-1169846' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/persona-sujetando-mando-daulsense-playstation-5-2669597.jpg' alt='Fin de los problemas de stock: Ya puedes comprar una PlayStation 5 en estas tiendas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/apple-acata-normas-ue-permitira-tiendas-aplicaciones-terceros-iphone-1169860'>Apple acata las normas de la UE: permitirá las tiendas de aplicaciones de terceros en los iPhone</a></h4>
-    <a href='https://computerhoy.com/apple/apple-acata-normas-ue-permitira-tiendas-aplicaciones-terceros-iphone-1169860' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/apple-acata-normas-ue-permitira-tiendas-aplicaciones-terceros-iphone-2901156.jpg' alt='Apple acata las normas de la UE: permitirá las tiendas de aplicaciones de terceros en los iPhone' />
     </a>
 </div>
 
