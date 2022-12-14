@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/estados-unidos-ya-tiene-primer-misil-supersonico-1169842'>Estados Unidos ya tiene su primer misil supersónico</a></h4>
+    <a href='https://computerhoy.com/tecnologia/estados-unidos-ya-tiene-primer-misil-supersonico-1169842' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/avion-militar-estados-unidos-2901108.jpg' alt='Estados Unidos ya tiene su primer misil supersónico' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apple/como-convertir-iphone-karaoke-apple-music-sing-ios-162-1169800'>Cómo convertir tu iPhone en un karaoke con Apple Music Sing en iOS 16.2</a></h4>
     <a href='https://computerhoy.com/apple/como-convertir-iphone-karaoke-apple-music-sing-ios-162-1169800' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/apple-music-sing-2900968.jpg' alt='Cómo convertir tu iPhone en un karaoke con Apple Music Sing en iOS 16.2' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/oppo-presenta-nuevas-air-glass-2-chip-sonido-marisilicon-monitor-salud-familiar-1169728'>Oppo presenta nuevas Air Glass 2, chip de sonido MariSilicon Y y un monitor de salud familiar</a></h4>
     <a href='https://computerhoy.com/tecnologia/oppo-presenta-nuevas-air-glass-2-chip-sonido-marisilicon-monitor-salud-familiar-1169728' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/oppo-stand-mwc-2633939.jpg' alt='Oppo presenta nuevas Air Glass 2, chip de sonido MariSilicon Y y un monitor de salud familiar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/fabricantes-ven-obligados-bajar-precio-hardware-pc-1169792'>Los fabricantes se ven obligados a bajar de precio el hardware de PC</a></h4>
-    <a href='https://computerhoy.com/pc/fabricantes-ven-obligados-bajar-precio-hardware-pc-1169792' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/ordenadores-portatiles-2883089.jpg' alt='Los fabricantes se ven obligados a bajar de precio el hardware de PC' />
     </a>
 </div>
 
