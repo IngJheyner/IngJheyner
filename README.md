@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/redes-sociales/tiktok-nuevo-modo-video-horizontal-1169524'>TikTok inicia el asalto final a YouTube con los vídeos en horizontal</a></h4>
+    <a href='https://computerhoy.com/redes-sociales/tiktok-nuevo-modo-video-horizontal-1169524' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/tiktok-va-youtube-nuevo-modo-pantalla-horizontal-2900606.jpg' alt='TikTok inicia el asalto final a YouTube con los vídeos en horizontal' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/industria/yovanna-blanco-nueva-chief-editorial-officer-axel-springer-espana-1169514'>Yovanna Blanco, nueva Chief Editorial Officer de Axel Springer España y ComputerHoy.com</a></h4>
     <a href='https://computerhoy.com/industria/yovanna-blanco-nueva-chief-editorial-officer-axel-springer-espana-1169514' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/yovanna-blanco-nueva-chief-editorial-officer-axel-springer-espana-computerhoycom-2900584.jpg' alt='Yovanna Blanco, nueva Chief Editorial Officer de Axel Springer España y ComputerHoy.com' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/entretenimiento/oppenheimer-christopher-nolan-explosion-nuclear-sin-efectos-especiales-ordenador-1169504'>Christopher Nolan recrea una explosión nuclear sin efectos especiales por ordenador para su película Oppenheimer</a></h4>
     <a href='https://computerhoy.com/entretenimiento/oppenheimer-christopher-nolan-explosion-nuclear-sin-efectos-especiales-ordenador-1169504' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/christopher-nolan-ha-recreado-explosion-nuclear-efectos-especiales-ordenador-pelicula-oppenheimer-2900548.jpg' alt='Christopher Nolan recrea una explosión nuclear sin efectos especiales por ordenador para su película Oppenheimer' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/asteroide-pasara-muy-cerca-tierra-puedes-seguir-trayectoria-comodidad-casa-estas-herramientas-1169496'>Este asteroide pasará muy cerca de la Tierra y puedes seguir su trayectoria desde la comodidad de tu casa con estas herramientas</a></h4>
-    <a href='https://computerhoy.com/espacio/asteroide-pasara-muy-cerca-tierra-puedes-seguir-trayectoria-comodidad-casa-estas-herramientas-1169496' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/asteroide-2900550.jpg' alt='Este asteroide pasará muy cerca de la Tierra y puedes seguir su trayectoria desde la comodidad de tu casa con estas herramientas' />
     </a>
 </div>
 
