@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/estados-unidos-ya-tiene-primer-misil-supersonico-1169842'>Estados Unidos ya tiene su primer misil supersónico</a></h4>
-    <a href='https://computerhoy.com/tecnologia/estados-unidos-ya-tiene-primer-misil-supersonico-1169842' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/avion-militar-estados-unidos-2901108.jpg' alt='Estados Unidos ya tiene su primer misil supersónico' />
+    <h4><a href='https://computerhoy.com/espacio/fabrica-espacio-ultima-loca-idea-americana-1169932'>¿Una fábrica en el Espacio? La última loca idea americana</a></h4>
+    <a href='https://computerhoy.com/espacio/fabrica-espacio-ultima-loca-idea-americana-1169932' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/fabrica-espacio-2901472.jpg' alt='¿Una fábrica en el Espacio? La última loca idea americana' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/como-convertir-iphone-karaoke-apple-music-sing-ios-162-1169800'>Cómo convertir tu iPhone en un karaoke con Apple Music Sing en iOS 16.2</a></h4>
-    <a href='https://computerhoy.com/apple/como-convertir-iphone-karaoke-apple-music-sing-ios-162-1169800' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/apple-music-sing-2900968.jpg' alt='Cómo convertir tu iPhone en un karaoke con Apple Music Sing en iOS 16.2' />
+    <h4><a href='https://computerhoy.com/motor/lexus-haciendo-imposible-coche-electrico-marchas-1169912'>Lexus está haciendo lo imposible: un coche eléctrico con marchas</a></h4>
+    <a href='https://computerhoy.com/motor/lexus-haciendo-imposible-coche-electrico-marchas-1169912' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/prueba-lexus-nx-450h-2021-2494261.jpg' alt='Lexus está haciendo lo imposible: un coche eléctrico con marchas' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/hogar/descuentos-navidad-aspiradoras-dyson-1169420'>Hasta 150 euros de descuento en estas aspiradoras de Dyson</a></h4>
-    <a href='https://computerhoy.com/hogar/descuentos-navidad-aspiradoras-dyson-1169420' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/dyson-v12-slim-absolute-2842061.jpg' alt='Hasta 150 euros de descuento en estas aspiradoras de Dyson' />
+    <h4><a href='https://computerhoy.com/pc/trucos-no-conocias-exprimir-portatil-chromebook-1169872'>Trucos que no conocías para exprimir tu portátil Chromebook</a></h4>
+    <a href='https://computerhoy.com/pc/trucos-no-conocias-exprimir-portatil-chromebook-1169872' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/galeria-review-chromebook-spin-513-2462373.jpg' alt='Trucos que no conocías para exprimir tu portátil Chromebook' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/motor-milagro-espanol-innengine-ya-venta-consume-tercera-parte-reducir-potencia-1169786'>El motor milagro español INNengine ya a la venta: consume una tercera parte sin reducir potencia</a></h4>
-    <a href='https://computerhoy.com/motor/motor-milagro-espanol-innengine-ya-venta-consume-tercera-parte-reducir-potencia-1169786' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/motor-milagro-espanol-innengine-ya-venta-consume-tercera-parte-reducir-potencia-2900976.jpg' alt='El motor milagro español INNengine ya a la venta: consume una tercera parte sin reducir potencia' />
+    <h4><a href='https://computerhoy.com/gaming/stock-playstation-5-navidad-1169846'>Fin de los problemas de stock: Ya puedes comprar una PlayStation 5 en estas tiendas</a></h4>
+    <a href='https://computerhoy.com/gaming/stock-playstation-5-navidad-1169846' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/persona-sujetando-mando-daulsense-playstation-5-2669597.jpg' alt='Fin de los problemas de stock: Ya puedes comprar una PlayStation 5 en estas tiendas' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/oppo-presenta-nuevas-air-glass-2-chip-sonido-marisilicon-monitor-salud-familiar-1169728'>Oppo presenta nuevas Air Glass 2, chip de sonido MariSilicon Y y un monitor de salud familiar</a></h4>
-    <a href='https://computerhoy.com/tecnologia/oppo-presenta-nuevas-air-glass-2-chip-sonido-marisilicon-monitor-salud-familiar-1169728' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/oppo-stand-mwc-2633939.jpg' alt='Oppo presenta nuevas Air Glass 2, chip de sonido MariSilicon Y y un monitor de salud familiar' />
+    <h4><a href='https://computerhoy.com/apple/apple-acata-normas-ue-permitira-tiendas-aplicaciones-terceros-iphone-1169860'>Apple acata las normas de la UE: permitirá las tiendas de aplicaciones de terceros en los iPhone</a></h4>
+    <a href='https://computerhoy.com/apple/apple-acata-normas-ue-permitira-tiendas-aplicaciones-terceros-iphone-1169860' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/apple-acata-normas-ue-permitira-tiendas-aplicaciones-terceros-iphone-2901156.jpg' alt='Apple acata las normas de la UE: permitirá las tiendas de aplicaciones de terceros en los iPhone' />
     </a>
 </div>
 
