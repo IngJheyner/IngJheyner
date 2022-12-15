@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/deepl-traductor-google-diferencias-trucos-mejor-traductor-online-825113'>¿Google o traductor DeepL? Diferencias, trucos y cuál es el mejor traductor online en 2023</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/deepl-traductor-google-diferencias-trucos-mejor-traductor-online-825113' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/11/deepl.jpg' alt='¿Google o traductor DeepL? Diferencias, trucos y cuál es el mejor traductor online en 2023' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/termostatos-inteligentes-control-gasto-gas-invierno-1170438'>Controla el gasto del gas este invierno con estos termostatos inteligentes</a></h4>
+    <a href='https://computerhoy.com/life/termostatos-inteligentes-control-gasto-gas-invierno-1170438' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/mujer-sentada-cerca-radiador-2902654.jpg' alt='Controla el gasto del gas este invierno con estos termostatos inteligentes' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/premios'>Premios Computer Hoy 2022: Elige los mejores productos del año y gana fantásticos premios</a></h4>
     <a href='https://computerhoy.com/premios' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/premios-computer-hoy-2022-2901084.jpg' alt='Premios Computer Hoy 2022: Elige los mejores productos del año y gana fantásticos premios' />
@@ -58,33 +74,17 @@
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/portatil-todo-mundo-habla-ahora-asequible-macbook-air-procesador-apple-m1-tiene-200-euros-descuento-1169798'>El portátil del que todo el mundo habla, ahora más asequible: el MacBook Air con procesador Apple M1 tiene más de 200 euros de descuento</a></h4>
-    <a href='https://computerhoy.com/apple/portatil-todo-mundo-habla-ahora-asequible-macbook-air-procesador-apple-m1-tiene-200-euros-descuento-1169798' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/macbook-air-2508941.jpg' alt='El portátil del que todo el mundo habla, ahora más asequible: el MacBook Air con procesador Apple M1 tiene más de 200 euros de descuento' />
+    <h4><a href='https://computerhoy.com/energia/china-podria-haber-dado-clave-producir-hidrogeno-verde-sostenible-muy-barato-1170440'>China podría haber dado con la clave para un producir hidrógeno verde, sostenible y muy barato</a></h4>
+    <a href='https://computerhoy.com/energia/china-podria-haber-dado-clave-producir-hidrogeno-verde-sostenible-muy-barato-1170440' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/china-podria-haber-dado-clave-producir-hidrogeno-verde-sostenible-muy-barato-2902456.jpg' alt='China podría haber dado con la clave para un producir hidrógeno verde, sostenible y muy barato' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/oppo-find-n2-find-n2-flip-nuevos-plegables-oppo-rivalizan-galaxy-z-fold-4-galaxy-z-flip-4-1170070'>Oppo Find N2 y Find N2 Flip, los nuevos plegables de Oppo que rivalizan con el Galaxy Z Fold 4 y Galaxy Z Flip 4.</a></h4>
-    <a href='https://computerhoy.com/moviles/oppo-find-n2-find-n2-flip-nuevos-plegables-oppo-rivalizan-galaxy-z-fold-4-galaxy-z-flip-4-1170070' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/oppo-find-n2-find-n2-flip-2901900.jpg' alt='Oppo Find N2 y Find N2 Flip, los nuevos plegables de Oppo que rivalizan con el Galaxy Z Fold 4 y Galaxy Z Flip 4.' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/23-noticias-tecnologia-comenzar-manana-informado-ultimo-1170306'>23 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
-    <a href='https://computerhoy.com/tecnologia/23-noticias-tecnologia-comenzar-manana-informado-ultimo-1170306' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/23-noticias-tecnologia-comenzar-manana-informado-ultimo-2902128.jpg' alt='23 noticias de tecnología para comenzar la mañana informado de lo último' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/smartwatches/huawei-tiene-smartwatch-pulseras-actividad-interesantes-estas-navidades-han-rebajado-practicamente-todos-1170038'>Huawei tiene los smartwatch y pulseras de actividad más interesantes y estas Navidades han rebajado prácticamente todos</a></h4>
-    <a href='https://computerhoy.com/smartwatches/huawei-tiene-smartwatch-pulseras-actividad-interesantes-estas-navidades-han-rebajado-practicamente-todos-1170038' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/huawei-watch-gt-3-2901860.jpg' alt='Huawei tiene los smartwatch y pulseras de actividad más interesantes y estas Navidades han rebajado prácticamente todos' />
+    <h4><a href='https://computerhoy.com/moviles/trucos-hacer-bateria-movil-dure-ocu-1170410'>Trucos para hacer que la batería del móvil dure más, según la OCU</a></h4>
+    <a href='https://computerhoy.com/moviles/trucos-hacer-bateria-movil-dure-ocu-1170410' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/iphone-bateria-2777483.jpg' alt='Trucos para hacer que la batería del móvil dure más, según la OCU' />
     </a>
 </div>
 
