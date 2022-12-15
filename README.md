@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/premios'>Premios Computer Hoy 2022: Elige los mejores productos del año y gana fantásticos premios</a></h4>
+    <a href='https://computerhoy.com/premios' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/premios-computer-hoy-2022-2901084.jpg' alt='Premios Computer Hoy 2022: Elige los mejores productos del año y gana fantásticos premios' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apple/portatil-todo-mundo-habla-ahora-asequible-macbook-air-procesador-apple-m1-tiene-200-euros-descuento-1169798'>El portátil del que todo el mundo habla, ahora más asequible: el MacBook Air con procesador Apple M1 tiene más de 200 euros de descuento</a></h4>
     <a href='https://computerhoy.com/apple/portatil-todo-mundo-habla-ahora-asequible-macbook-air-procesador-apple-m1-tiene-200-euros-descuento-1169798' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/macbook-air-2508941.jpg' alt='El portátil del que todo el mundo habla, ahora más asequible: el MacBook Air con procesador Apple M1 tiene más de 200 euros de descuento' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/smartwatches/huawei-tiene-smartwatch-pulseras-actividad-interesantes-estas-navidades-han-rebajado-practicamente-todos-1170038'>Huawei tiene los smartwatch y pulseras de actividad más interesantes y estas Navidades han rebajado prácticamente todos</a></h4>
     <a href='https://computerhoy.com/smartwatches/huawei-tiene-smartwatch-pulseras-actividad-interesantes-estas-navidades-han-rebajado-practicamente-todos-1170038' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/huawei-watch-gt-3-2901860.jpg' alt='Huawei tiene los smartwatch y pulseras de actividad más interesantes y estas Navidades han rebajado prácticamente todos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/razon-no-va-tocarte-premio-gordo-loteria-navidad-1170054'>La razón por la que no va a tocarte el Premio Gordo de la Lotería de Navidad</a></h4>
-    <a href='https://computerhoy.com/life/razon-no-va-tocarte-premio-gordo-loteria-navidad-1170054' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/loteria-navidad-2557563.jpg' alt='La razón por la que no va a tocarte el Premio Gordo de la Lotería de Navidad' />
     </a>
 </div>
 
