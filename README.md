@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/moviles/oppo-find-n2-find-n2-flip-nuevos-plegables-oppo-rivalizan-galaxy-z-fold-4-galaxy-z-flip-4-1170070'>Oppo Find N2 y Find N2 Flip, los nuevos plegables de Oppo que rivalizan con el Galaxy Z Fold 4 y Galaxy Z Flip 4.</a></h4>
+    <a href='https://computerhoy.com/moviles/oppo-find-n2-find-n2-flip-nuevos-plegables-oppo-rivalizan-galaxy-z-fold-4-galaxy-z-flip-4-1170070' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/oppo-find-n2-find-n2-flip-2901900.jpg' alt='Oppo Find N2 y Find N2 Flip, los nuevos plegables de Oppo que rivalizan con el Galaxy Z Fold 4 y Galaxy Z Flip 4.' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/smartwatches/huawei-tiene-smartwatch-pulseras-actividad-interesantes-estas-navidades-han-rebajado-practicamente-todos-1170038'>Huawei tiene los smartwatch y pulseras de actividad más interesantes y estas Navidades han rebajado prácticamente todos</a></h4>
     <a href='https://computerhoy.com/smartwatches/huawei-tiene-smartwatch-pulseras-actividad-interesantes-estas-navidades-han-rebajado-practicamente-todos-1170038' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/huawei-watch-gt-3-2901860.jpg' alt='Huawei tiene los smartwatch y pulseras de actividad más interesantes y estas Navidades han rebajado prácticamente todos' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/espacio/fabrica-espacio-ultima-loca-idea-americana-1169932'>¿Una fábrica en el Espacio? La última loca idea americana</a></h4>
     <a href='https://computerhoy.com/espacio/fabrica-espacio-ultima-loca-idea-americana-1169932' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/fabrica-espacio-2901472.jpg' alt='¿Una fábrica en el Espacio? La última loca idea americana' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/lexus-haciendo-imposible-coche-electrico-marchas-1169912'>Lexus está haciendo lo imposible: un coche eléctrico con marchas</a></h4>
-    <a href='https://computerhoy.com/motor/lexus-haciendo-imposible-coche-electrico-marchas-1169912' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/prueba-lexus-nx-450h-2021-2494261.jpg' alt='Lexus está haciendo lo imposible: un coche eléctrico con marchas' />
     </a>
 </div>
 
