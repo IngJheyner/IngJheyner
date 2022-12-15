@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/smartwatches/huawei-tiene-smartwatch-pulseras-actividad-interesantes-estas-navidades-han-rebajado-practicamente-todos-1170038'>Huawei tiene los smartwatch y pulseras de actividad más interesantes y estas Navidades han rebajado prácticamente todos</a></h4>
+    <a href='https://computerhoy.com/smartwatches/huawei-tiene-smartwatch-pulseras-actividad-interesantes-estas-navidades-han-rebajado-practicamente-todos-1170038' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/huawei-watch-gt-3-2901860.jpg' alt='Huawei tiene los smartwatch y pulseras de actividad más interesantes y estas Navidades han rebajado prácticamente todos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/razon-no-va-tocarte-premio-gordo-loteria-navidad-1170054'>La razón por la que no va a tocarte el Premio Gordo de la Lotería de Navidad</a></h4>
     <a href='https://computerhoy.com/life/razon-no-va-tocarte-premio-gordo-loteria-navidad-1170054' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/loteria-navidad-2557563.jpg' alt='La razón por la que no va a tocarte el Premio Gordo de la Lotería de Navidad' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/motor/lexus-haciendo-imposible-coche-electrico-marchas-1169912'>Lexus está haciendo lo imposible: un coche eléctrico con marchas</a></h4>
     <a href='https://computerhoy.com/motor/lexus-haciendo-imposible-coche-electrico-marchas-1169912' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/prueba-lexus-nx-450h-2021-2494261.jpg' alt='Lexus está haciendo lo imposible: un coche eléctrico con marchas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/trucos-no-conocias-exprimir-portatil-chromebook-1169872'>Trucos que no conocías para exprimir tu portátil Chromebook</a></h4>
-    <a href='https://computerhoy.com/pc/trucos-no-conocias-exprimir-portatil-chromebook-1169872' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/galeria-review-chromebook-spin-513-2462373.jpg' alt='Trucos que no conocías para exprimir tu portátil Chromebook' />
     </a>
 </div>
 
