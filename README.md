@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/alimentacion/sorprendente-habito-alimentario-ha-cambiado-familias-pandemia-1170646'>El sorprendente hábito alimentario que ha cambiado en las familias tras la pandemia</a></h4>
+    <a href='https://computerhoy.com/alimentacion/sorprendente-habito-alimentario-ha-cambiado-familias-pandemia-1170646' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/carro-supermercado-2764543.jpg' alt='El sorprendente hábito alimentario que ha cambiado en las familias tras la pandemia' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/deepl-traductor-google-diferencias-trucos-mejor-traductor-online-825113'>¿Google o traductor DeepL? Diferencias, trucos y cuál es el mejor traductor online en 2023</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/deepl-traductor-google-diferencias-trucos-mejor-traductor-online-825113' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/11/deepl.jpg' alt='¿Google o traductor DeepL? Diferencias, trucos y cuál es el mejor traductor online en 2023' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/energia/china-podria-haber-dado-clave-producir-hidrogeno-verde-sostenible-muy-barato-1170440'>China podría haber dado con la clave para un producir hidrógeno verde, sostenible y muy barato</a></h4>
     <a href='https://computerhoy.com/energia/china-podria-haber-dado-clave-producir-hidrogeno-verde-sostenible-muy-barato-1170440' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/china-podria-haber-dado-clave-producir-hidrogeno-verde-sostenible-muy-barato-2902456.jpg' alt='China podría haber dado con la clave para un producir hidrógeno verde, sostenible y muy barato' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/trucos-hacer-bateria-movil-dure-ocu-1170410'>Trucos para hacer que la batería del móvil dure más, según la OCU</a></h4>
-    <a href='https://computerhoy.com/moviles/trucos-hacer-bateria-movil-dure-ocu-1170410' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/iphone-bateria-2777483.jpg' alt='Trucos para hacer que la batería del móvil dure más, según la OCU' />
     </a>
 </div>
 
