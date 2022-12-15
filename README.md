@@ -50,9 +50,25 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/portatil-todo-mundo-habla-ahora-asequible-macbook-air-procesador-apple-m1-tiene-200-euros-descuento-1169798'>El portátil del que todo el mundo habla, ahora más asequible: el MacBook Air con procesador Apple M1 tiene más de 200 euros de descuento</a></h4>
+    <a href='https://computerhoy.com/apple/portatil-todo-mundo-habla-ahora-asequible-macbook-air-procesador-apple-m1-tiene-200-euros-descuento-1169798' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/macbook-air-2508941.jpg' alt='El portátil del que todo el mundo habla, ahora más asequible: el MacBook Air con procesador Apple M1 tiene más de 200 euros de descuento' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/moviles/oppo-find-n2-find-n2-flip-nuevos-plegables-oppo-rivalizan-galaxy-z-fold-4-galaxy-z-flip-4-1170070'>Oppo Find N2 y Find N2 Flip, los nuevos plegables de Oppo que rivalizan con el Galaxy Z Fold 4 y Galaxy Z Flip 4.</a></h4>
     <a href='https://computerhoy.com/moviles/oppo-find-n2-find-n2-flip-nuevos-plegables-oppo-rivalizan-galaxy-z-fold-4-galaxy-z-flip-4-1170070' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/oppo-find-n2-find-n2-flip-2901900.jpg' alt='Oppo Find N2 y Find N2 Flip, los nuevos plegables de Oppo que rivalizan con el Galaxy Z Fold 4 y Galaxy Z Flip 4.' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/23-noticias-tecnologia-comenzar-manana-informado-ultimo-1170306'>23 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
+    <a href='https://computerhoy.com/tecnologia/23-noticias-tecnologia-comenzar-manana-informado-ultimo-1170306' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/23-noticias-tecnologia-comenzar-manana-informado-ultimo-2902128.jpg' alt='23 noticias de tecnología para comenzar la mañana informado de lo último' />
     </a>
 </div>
 
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/life/razon-no-va-tocarte-premio-gordo-loteria-navidad-1170054'>La razón por la que no va a tocarte el Premio Gordo de la Lotería de Navidad</a></h4>
     <a href='https://computerhoy.com/life/razon-no-va-tocarte-premio-gordo-loteria-navidad-1170054' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/loteria-navidad-2557563.jpg' alt='La razón por la que no va a tocarte el Premio Gordo de la Lotería de Navidad' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/xiaomi-recomienda-no-hacer-famoso-truco-arreglar-pantalla-telefonos-1170040'>Xiaomi recomienda no hacer un famoso truco para arreglar la pantalla de sus teléfonos</a></h4>
-    <a href='https://computerhoy.com/moviles/xiaomi-recomienda-no-hacer-famoso-truco-arreglar-pantalla-telefonos-1170040' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/pantalla-rota-movil-2901842.jpg' alt='Xiaomi recomienda no hacer un famoso truco para arreglar la pantalla de sus teléfonos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/fabrica-espacio-ultima-loca-idea-americana-1169932'>¿Una fábrica en el Espacio? La última loca idea americana</a></h4>
-    <a href='https://computerhoy.com/espacio/fabrica-espacio-ultima-loca-idea-americana-1169932' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/fabrica-espacio-2901472.jpg' alt='¿Una fábrica en el Espacio? La última loca idea americana' />
     </a>
 </div>
 
