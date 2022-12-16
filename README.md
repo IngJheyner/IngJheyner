@@ -50,9 +50,17 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/vacuna-arnm-moderna-reduce-riesgo-recaida-muerte-cancer-44-1171068'>La vacuna ARNm de Moderna reduce el riesgo de recaída o muerte por cáncer en un 44 %</a></h4>
+    <a href='https://computerhoy.com/ciencia/vacuna-arnm-moderna-reduce-riesgo-recaida-muerte-cancer-44-1171068' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/arn-2903448.jpg?tf=1200x' alt='La vacuna ARNm de Moderna reduce el riesgo de recaída o muerte por cáncer en un 44 %' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/hogar/puedes-hacer-termostato-inteligente-tado-casi-40-descuento-1170970'>Esto es lo que puedes hacer con este termostato inteligente Tado con un casi 40% de descuento</a></h4>
     <a href='https://computerhoy.com/hogar/puedes-hacer-termostato-inteligente-tado-casi-40-descuento-1170970' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/termostato-inteligente-tado-2903342.jpg' alt='Esto es lo que puedes hacer con este termostato inteligente Tado con un casi 40% de descuento' />
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/termostato-inteligente-tado-2903342.jpg?tf=1200x' alt='Esto es lo que puedes hacer con este termostato inteligente Tado con un casi 40% de descuento' />
     </a>
 </div>
 
@@ -60,7 +68,7 @@
 <div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/entretenimiento/siguen-adaptaciones-videojuegos-death-stranding-suma-larga-lista-1170980'>Siguen las adaptaciones de videojuegos: Death Stranding se suma a una larga lista</a></h4>
     <a href='https://computerhoy.com/entretenimiento/siguen-adaptaciones-videojuegos-death-stranding-suma-larga-lista-1170980' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/death-stranding-e3-2016-trailer-presentacion-ps4-54700.jpg' alt='Siguen las adaptaciones de videojuegos: Death Stranding se suma a una larga lista' />
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/death-stranding-e3-2016-trailer-presentacion-ps4-54700.jpg?tf=1200x' alt='Siguen las adaptaciones de videojuegos: Death Stranding se suma a una larga lista' />
     </a>
 </div>
 
@@ -68,7 +76,7 @@
 <div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/estados-unidos-saca-martillo-36-tecnologicas-chinas-entraran-lista-negra-1170966'>Estados Unidos saca el martillo: 36 tecnológicas chinas entrarán a su lista negra</a></h4>
     <a href='https://computerhoy.com/tecnologia/estados-unidos-saca-martillo-36-tecnologicas-chinas-entraran-lista-negra-1170966' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/joe-biden-xi-jinping-2511241.jpg' alt='Estados Unidos saca el martillo: 36 tecnológicas chinas entrarán a su lista negra' />
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/joe-biden-xi-jinping-2511241.jpg?tf=1200x' alt='Estados Unidos saca el martillo: 36 tecnológicas chinas entrarán a su lista negra' />
     </a>
 </div>
 
@@ -76,15 +84,7 @@
 <div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/redes-sociales/instagram-quiere-evitar-hackeo-cuentas-suplantacion-identidad-estas-nuevas-funciones-1170956'>Instagram quiere evitar el hackeo de cuentas y la suplantación de identidad con estas nuevas funciones</a></h4>
     <a href='https://computerhoy.com/redes-sociales/instagram-quiere-evitar-hackeo-cuentas-suplantacion-identidad-estas-nuevas-funciones-1170956' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/instagram-lanza-nuevas-funciones-seguridad-evitar-hackeo-cuentas-suplantacion-identidad-2903250.jpg' alt='Instagram quiere evitar el hackeo de cuentas y la suplantación de identidad con estas nuevas funciones' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/redes-sociales/elon-musk-carga-gran-rival-twitter-banea-cuenta-mastodon-1170928'>Elon Musk se carga a su gran rival en Twitter: banea la cuenta de Mastodon</a></h4>
-    <a href='https://computerhoy.com/redes-sociales/elon-musk-carga-gran-rival-twitter-banea-cuenta-mastodon-1170928' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/elon-musk-2903170.jpg' alt='Elon Musk se carga a su gran rival en Twitter: banea la cuenta de Mastodon' />
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/instagram-lanza-nuevas-funciones-seguridad-evitar-hackeo-cuentas-suplantacion-identidad-2903250.jpg?tf=1200x' alt='Instagram quiere evitar el hackeo de cuentas y la suplantación de identidad con estas nuevas funciones' />
     </a>
 </div>
 
