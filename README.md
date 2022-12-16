@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/administraciones-premios-dan-todos-anos-loteria-navidad-1163422'>Las administraciones que más premios dan todos los años en la Lotería de Navidad</a></h4>
+    <a href='https://computerhoy.com/life/administraciones-premios-dan-todos-anos-loteria-navidad-1163422' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/administraciones-premios-dan-todos-anos-loteria-navidad-2889504.jpg?tf=1200x' alt='Las administraciones que más premios dan todos los años en la Lotería de Navidad' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciencia/vacuna-arnm-moderna-reduce-riesgo-recaida-muerte-cancer-44-1171068'>La vacuna ARNm de Moderna reduce el riesgo de recaída o muerte por cáncer en un 44 %</a></h4>
     <a href='https://computerhoy.com/ciencia/vacuna-arnm-moderna-reduce-riesgo-recaida-muerte-cancer-44-1171068' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/arn-2903448.jpg?tf=1200x' alt='La vacuna ARNm de Moderna reduce el riesgo de recaída o muerte por cáncer en un 44 %' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/estados-unidos-saca-martillo-36-tecnologicas-chinas-entraran-lista-negra-1170966'>Estados Unidos saca el martillo: 36 tecnológicas chinas entrarán a su lista negra</a></h4>
     <a href='https://computerhoy.com/tecnologia/estados-unidos-saca-martillo-36-tecnologicas-chinas-entraran-lista-negra-1170966' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/joe-biden-xi-jinping-2511241.jpg?tf=1200x' alt='Estados Unidos saca el martillo: 36 tecnológicas chinas entrarán a su lista negra' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/redes-sociales/instagram-quiere-evitar-hackeo-cuentas-suplantacion-identidad-estas-nuevas-funciones-1170956'>Instagram quiere evitar el hackeo de cuentas y la suplantación de identidad con estas nuevas funciones</a></h4>
-    <a href='https://computerhoy.com/redes-sociales/instagram-quiere-evitar-hackeo-cuentas-suplantacion-identidad-estas-nuevas-funciones-1170956' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/instagram-lanza-nuevas-funciones-seguridad-evitar-hackeo-cuentas-suplantacion-identidad-2903250.jpg?tf=1200x' alt='Instagram quiere evitar el hackeo de cuentas y la suplantación de identidad con estas nuevas funciones' />
     </a>
 </div>
 
