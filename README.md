@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/gaming/xbox-series-x-en-stock-diferentes-tiendas-1171210'>Xbox Series X es la única consola next-gen que puedes comprar a su PVP, está en stock en diferentes tiendas</a></h4>
+    <a href='https://computerhoy.com/gaming/xbox-series-x-en-stock-diferentes-tiendas-1171210' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/xbox-series-x-unica-consola-next-gen-puedes-comprar-pvp-stock-diferentes-tiendas-2903876.jpg?tf=1200x' alt='Xbox Series X es la única consola next-gen que puedes comprar a su PVP, está en stock en diferentes tiendas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/streaming/black-adam-estreno-hbo-max-1171194'>¿Ganas de más superhéroes? HBO Max ya tiene Black Adam en el catálogo</a></h4>
     <a href='https://computerhoy.com/streaming/black-adam-estreno-hbo-max-1171194' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/verticalimage1671216996129-2903852.jpg?tf=1200x' alt='¿Ganas de más superhéroes? HBO Max ya tiene Black Adam en el catálogo' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/espacio/telescopio-espacial-james-webb-nasa-encuentra-sistema-solar-muy-parecido-1171182'>El telescopio espacial James Webb de la NASA encuentra un sistema solar muy parecido al nuestro</a></h4>
     <a href='https://computerhoy.com/espacio/telescopio-espacial-james-webb-nasa-encuentra-sistema-solar-muy-parecido-1171182' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/sistema-solar-ficticio-2903842.jpg?tf=1200x' alt='El telescopio espacial James Webb de la NASA encuentra un sistema solar muy parecido al nuestro' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/entretenimiento/mejores-paginas-karaoke-online-cantar-294733'>Las mejores páginas de karaoke online para cantar en casa en pleno 2023</a></h4>
-    <a href='https://computerhoy.com/reportajes/entretenimiento/mejores-paginas-karaoke-online-cantar-294733' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/karaoke-2903446.jpg?tf=1200x' alt='Las mejores páginas de karaoke online para cantar en casa en pleno 2023' />
     </a>
 </div>
 
