@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/streaming/black-adam-estreno-hbo-max-1171194'>¿Ganas de más superhéroes? HBO Max ya tiene Black Adam en el catálogo</a></h4>
+    <a href='https://computerhoy.com/streaming/black-adam-estreno-hbo-max-1171194' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/verticalimage1671216996129-2903852.jpg?tf=1200x' alt='¿Ganas de más superhéroes? HBO Max ya tiene Black Adam en el catálogo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/motor/coche-electrico-gasolina-ocu-resuelve-duda-1171184'>¿Coche eléctrico o de gasolina? La OCU resuelve la duda</a></h4>
+    <a href='https://computerhoy.com/motor/coche-electrico-gasolina-ocu-resuelve-duda-1171184' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/coche-electrico-estacion-carga-2538519.jpg?tf=1200x' alt='¿Coche eléctrico o de gasolina? La OCU resuelve la duda' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/internet/ahora-puedes-crear-musica-utilizando-ia-riffusion-1171158'>Ahora puedes crear música utilizando IA: así es Riffusion</a></h4>
     <a href='https://computerhoy.com/internet/ahora-puedes-crear-musica-utilizando-ia-riffusion-1171158' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/ahora-puedes-crear-musica-utilizando-ia-riffusion-2903846.jpg?tf=1200x' alt='Ahora puedes crear música utilizando IA: así es Riffusion' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/entretenimiento/mejores-paginas-karaoke-online-cantar-294733'>Las mejores páginas de karaoke online para cantar en casa en pleno 2023</a></h4>
     <a href='https://computerhoy.com/reportajes/entretenimiento/mejores-paginas-karaoke-online-cantar-294733' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/karaoke-2903446.jpg?tf=1200x' alt='Las mejores páginas de karaoke online para cantar en casa en pleno 2023' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/mejores-ofertas-fin-de-semana-1171126'>Estos son los mejores chollos y descuentos para este fin de semana</a></h4>
-    <a href='https://computerhoy.com/tecnologia/mejores-ofertas-fin-de-semana-1171126' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/dos-mujeres-mirando-movil-compras-2903788.jpg?tf=1200x' alt='Estos son los mejores chollos y descuentos para este fin de semana' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/series-ver-fin-semana-netflix-hbo-max-crunchy-roll-erizo-azul-gigante-anime-1171104'>Qué series ver este fin de semana en Netflix, HBO Max y Crunchy Roll: un erizo azul, un gigante y un anime</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/series-ver-fin-semana-netflix-hbo-max-crunchy-roll-erizo-azul-gigante-anime-1171104' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/series-fin-semana-ver-diciembre-2022-2903698.jpg?tf=1200x' alt='Qué series ver este fin de semana en Netflix, HBO Max y Crunchy Roll: un erizo azul, un gigante y un anime' />
     </a>
 </div>
 
