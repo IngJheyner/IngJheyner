@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/peliculas-ver-fin-semana-netflix-prime-video-movistarplus-lugar-tranquilo-2-terror-viaje-vital-1171058'>Qué películas ver este fin de semana en Netflix, Prime Video y MovistarPlus+: Un lugar tranquilo 2, más terror y un viaje vital</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/peliculas-ver-fin-semana-netflix-prime-video-movistarplus-lugar-tranquilo-2-terror-viaje-vital-1171058' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/peliculas-ver-fin-semana-netflix-prime-video-movistarplus-lugar-tranquilo-2-terror-viaje-vital-2903528.jpg?tf=1200x' alt='Qué películas ver este fin de semana en Netflix, Prime Video y MovistarPlus+: Un lugar tranquilo 2, más terror y un viaje vital' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/vota-premios-computerhoy-2022-finalistas-mejor-equipo-sobremesa-1171046'>Vota en los Premios ComputerHoy 2022: finalistas al mejor equipo sobremesa</a></h4>
     <a href='https://computerhoy.com/tecnologia/vota-premios-computerhoy-2022-finalistas-mejor-equipo-sobremesa-1171046' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/vota-premios-computerhoy-2021-finalistas-mejores-equipos-sobremesa-2564345.jpg?tf=1200x' alt='Vota en los Premios ComputerHoy 2022: finalistas al mejor equipo sobremesa' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/hogar/puedes-hacer-termostato-inteligente-tado-casi-40-descuento-1170970'>Esto es lo que puedes hacer con este termostato inteligente Tado con un casi 40% de descuento</a></h4>
     <a href='https://computerhoy.com/hogar/puedes-hacer-termostato-inteligente-tado-casi-40-descuento-1170970' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/termostato-inteligente-tado-2903342.jpg?tf=1200x' alt='Esto es lo que puedes hacer con este termostato inteligente Tado con un casi 40% de descuento' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/siguen-adaptaciones-videojuegos-death-stranding-suma-larga-lista-1170980'>Siguen las adaptaciones de videojuegos: Death Stranding se suma a una larga lista</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/siguen-adaptaciones-videojuegos-death-stranding-suma-larga-lista-1170980' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/death-stranding-e3-2016-trailer-presentacion-ps4-54700.jpg?tf=1200x' alt='Siguen las adaptaciones de videojuegos: Death Stranding se suma a una larga lista' />
     </a>
 </div>
 
