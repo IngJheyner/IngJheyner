@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/vota-premios-computerhoy-2022-finalistas-mejor-equipo-sobremesa-1171046'>Vota en los Premios ComputerHoy 2022: finalistas al mejor equipo sobremesa</a></h4>
+    <a href='https://computerhoy.com/tecnologia/vota-premios-computerhoy-2022-finalistas-mejor-equipo-sobremesa-1171046' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/vota-premios-computerhoy-2021-finalistas-mejores-equipos-sobremesa-2564345.jpg?tf=1200x' alt='Vota en los Premios ComputerHoy 2022: finalistas al mejor equipo sobremesa' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/administraciones-premios-dan-todos-anos-loteria-navidad-1163422'>Las administraciones que más premios dan todos los años en la Lotería de Navidad</a></h4>
     <a href='https://computerhoy.com/life/administraciones-premios-dan-todos-anos-loteria-navidad-1163422' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/administraciones-premios-dan-todos-anos-loteria-navidad-2889504.jpg?tf=1200x' alt='Las administraciones que más premios dan todos los años en la Lotería de Navidad' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/entretenimiento/siguen-adaptaciones-videojuegos-death-stranding-suma-larga-lista-1170980'>Siguen las adaptaciones de videojuegos: Death Stranding se suma a una larga lista</a></h4>
     <a href='https://computerhoy.com/entretenimiento/siguen-adaptaciones-videojuegos-death-stranding-suma-larga-lista-1170980' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/death-stranding-e3-2016-trailer-presentacion-ps4-54700.jpg?tf=1200x' alt='Siguen las adaptaciones de videojuegos: Death Stranding se suma a una larga lista' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/estados-unidos-saca-martillo-36-tecnologicas-chinas-entraran-lista-negra-1170966'>Estados Unidos saca el martillo: 36 tecnológicas chinas entrarán a su lista negra</a></h4>
-    <a href='https://computerhoy.com/tecnologia/estados-unidos-saca-martillo-36-tecnologicas-chinas-entraran-lista-negra-1170966' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/joe-biden-xi-jinping-2511241.jpg?tf=1200x' alt='Estados Unidos saca el martillo: 36 tecnológicas chinas entrarán a su lista negra' />
     </a>
 </div>
 
