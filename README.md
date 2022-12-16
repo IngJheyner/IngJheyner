@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/23-noticias-tecnologia-comenzar-manana-informado-ultimo-1170898'>23 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
+    <a href='https://computerhoy.com/tecnologia/23-noticias-tecnologia-comenzar-manana-informado-ultimo-1170898' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/23-noticias-tecnologia-comenzar-manana-informado-ultimo-2903086.jpg' alt='23 noticias de tecnología para comenzar la mañana informado de lo último' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/pc/portatiles-baratos-menos-500-euros-carrefour-1170640'>¿Necesitas un nuevo portátil? Hemos encontrado las mejores ofertas en Carrefour por menos de 500€</a></h4>
     <a href='https://computerhoy.com/pc/portatiles-baratos-menos-500-euros-carrefour-1170640' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/mujer-portatil-regazo-2902842.jpg' alt='¿Necesitas un nuevo portátil? Hemos encontrado las mejores ofertas en Carrefour por menos de 500€' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/deepl-traductor-google-diferencias-trucos-mejor-traductor-online-825113'>¿Google o traductor DeepL? Diferencias, trucos y cuál es el mejor traductor online en 2023</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/deepl-traductor-google-diferencias-trucos-mejor-traductor-online-825113' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/11/deepl.jpg' alt='¿Google o traductor DeepL? Diferencias, trucos y cuál es el mejor traductor online en 2023' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/termostatos-inteligentes-control-gasto-gas-invierno-1170438'>Controla el gasto del gas este invierno con estos termostatos inteligentes</a></h4>
-    <a href='https://computerhoy.com/life/termostatos-inteligentes-control-gasto-gas-invierno-1170438' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/mujer-sentada-cerca-radiador-2902654.jpg' alt='Controla el gasto del gas este invierno con estos termostatos inteligentes' />
     </a>
 </div>
 
