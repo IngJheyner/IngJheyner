@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/internet/ahora-puedes-crear-musica-utilizando-ia-riffusion-1171158'>Ahora puedes crear música utilizando IA: así es Riffusion</a></h4>
+    <a href='https://computerhoy.com/internet/ahora-puedes-crear-musica-utilizando-ia-riffusion-1171158' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/ahora-puedes-crear-musica-utilizando-ia-riffusion-2903846.jpg?tf=1200x' alt='Ahora puedes crear música utilizando IA: así es Riffusion' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/espacio/telescopio-espacial-james-webb-nasa-encuentra-sistema-solar-muy-parecido-1171182'>El telescopio espacial James Webb de la NASA encuentra un sistema solar muy parecido al nuestro</a></h4>
+    <a href='https://computerhoy.com/espacio/telescopio-espacial-james-webb-nasa-encuentra-sistema-solar-muy-parecido-1171182' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/sistema-solar-ficticio-2903842.jpg?tf=1200x' alt='El telescopio espacial James Webb de la NASA encuentra un sistema solar muy parecido al nuestro' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/entretenimiento/mejores-paginas-karaoke-online-cantar-294733'>Las mejores páginas de karaoke online para cantar en casa en pleno 2023</a></h4>
     <a href='https://computerhoy.com/reportajes/entretenimiento/mejores-paginas-karaoke-online-cantar-294733' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/karaoke-2903446.jpg?tf=1200x' alt='Las mejores páginas de karaoke online para cantar en casa en pleno 2023' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/entretenimiento/series-ver-fin-semana-netflix-hbo-max-crunchy-roll-erizo-azul-gigante-anime-1171104'>Qué series ver este fin de semana en Netflix, HBO Max y Crunchy Roll: un erizo azul, un gigante y un anime</a></h4>
     <a href='https://computerhoy.com/entretenimiento/series-ver-fin-semana-netflix-hbo-max-crunchy-roll-erizo-azul-gigante-anime-1171104' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/series-fin-semana-ver-diciembre-2022-2903698.jpg?tf=1200x' alt='Qué series ver este fin de semana en Netflix, HBO Max y Crunchy Roll: un erizo azul, un gigante y un anime' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/peliculas-ver-fin-semana-netflix-prime-video-movistarplus-lugar-tranquilo-2-terror-viaje-vital-1171058'>Qué películas ver este fin de semana en Netflix, Prime Video y MovistarPlus+: Un lugar tranquilo 2, más terror y un viaje vital</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/peliculas-ver-fin-semana-netflix-prime-video-movistarplus-lugar-tranquilo-2-terror-viaje-vital-1171058' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/peliculas-ver-fin-semana-netflix-prime-video-movistarplus-lugar-tranquilo-2-terror-viaje-vital-2903528.jpg?tf=1200x' alt='Qué películas ver este fin de semana en Netflix, Prime Video y MovistarPlus+: Un lugar tranquilo 2, más terror y un viaje vital' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/vota-premios-computerhoy-2022-finalistas-mejor-equipo-sobremesa-1171046'>Vota en los Premios ComputerHoy 2022: finalistas al mejor equipo sobremesa</a></h4>
-    <a href='https://computerhoy.com/tecnologia/vota-premios-computerhoy-2022-finalistas-mejor-equipo-sobremesa-1171046' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/vota-premios-computerhoy-2021-finalistas-mejores-equipos-sobremesa-2564345.jpg?tf=1200x' alt='Vota en los Premios ComputerHoy 2022: finalistas al mejor equipo sobremesa' />
     </a>
 </div>
 
