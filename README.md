@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/entretenimiento/mejores-paginas-karaoke-online-cantar-294733'>Las mejores páginas de karaoke online para cantar en casa en pleno 2023</a></h4>
+    <a href='https://computerhoy.com/reportajes/entretenimiento/mejores-paginas-karaoke-online-cantar-294733' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/karaoke-2903446.jpg?tf=1200x' alt='Las mejores páginas de karaoke online para cantar en casa en pleno 2023' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/mejores-ofertas-fin-de-semana-1171126'>Estos son los mejores chollos y descuentos para este fin de semana</a></h4>
+    <a href='https://computerhoy.com/tecnologia/mejores-ofertas-fin-de-semana-1171126' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/dos-mujeres-mirando-movil-compras-2903788.jpg?tf=1200x' alt='Estos son los mejores chollos y descuentos para este fin de semana' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/entretenimiento/series-ver-fin-semana-netflix-hbo-max-crunchy-roll-erizo-azul-gigante-anime-1171104'>Qué series ver este fin de semana en Netflix, HBO Max y Crunchy Roll: un erizo azul, un gigante y un anime</a></h4>
     <a href='https://computerhoy.com/entretenimiento/series-ver-fin-semana-netflix-hbo-max-crunchy-roll-erizo-azul-gigante-anime-1171104' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/series-fin-semana-ver-diciembre-2022-2903698.jpg?tf=1200x' alt='Qué series ver este fin de semana en Netflix, HBO Max y Crunchy Roll: un erizo azul, un gigante y un anime' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/vota-premios-computerhoy-2022-finalistas-mejor-equipo-sobremesa-1171046'>Vota en los Premios ComputerHoy 2022: finalistas al mejor equipo sobremesa</a></h4>
     <a href='https://computerhoy.com/tecnologia/vota-premios-computerhoy-2022-finalistas-mejor-equipo-sobremesa-1171046' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/vota-premios-computerhoy-2021-finalistas-mejores-equipos-sobremesa-2564345.jpg?tf=1200x' alt='Vota en los Premios ComputerHoy 2022: finalistas al mejor equipo sobremesa' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/administraciones-premios-dan-todos-anos-loteria-navidad-1163422'>Las administraciones que más premios dan todos los años en la Lotería de Navidad</a></h4>
-    <a href='https://computerhoy.com/life/administraciones-premios-dan-todos-anos-loteria-navidad-1163422' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/administraciones-premios-dan-todos-anos-loteria-navidad-2889504.jpg?tf=1200x' alt='Las administraciones que más premios dan todos los años en la Lotería de Navidad' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/vacuna-arnm-moderna-reduce-riesgo-recaida-muerte-cancer-44-1171068'>La vacuna ARNm de Moderna reduce el riesgo de recaída o muerte por cáncer en un 44 %</a></h4>
-    <a href='https://computerhoy.com/ciencia/vacuna-arnm-moderna-reduce-riesgo-recaida-muerte-cancer-44-1171068' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/arn-2903448.jpg?tf=1200x' alt='La vacuna ARNm de Moderna reduce el riesgo de recaída o muerte por cáncer en un 44 %' />
     </a>
 </div>
 
