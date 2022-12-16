@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/pc/portatiles-baratos-menos-500-euros-carrefour-1170640'>¿Necesitas un nuevo portátil? Hemos encontrado las mejores ofertas en Carrefour por menos de 500€</a></h4>
+    <a href='https://computerhoy.com/pc/portatiles-baratos-menos-500-euros-carrefour-1170640' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/mujer-portatil-regazo-2902842.jpg' alt='¿Necesitas un nuevo portátil? Hemos encontrado las mejores ofertas en Carrefour por menos de 500€' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/espacio/ingenieros-nasa-tuvieron-utilizar-documentos-hace-40-anos-arreglar-fallo-voyager-1-1170648'>Ingenieros de la NASA tuvieron que utilizar documentos de hace más de 40 años para arreglar este fallo de la Voyager 1</a></h4>
     <a href='https://computerhoy.com/espacio/ingenieros-nasa-tuvieron-utilizar-documentos-hace-40-anos-arreglar-fallo-voyager-1-1170648' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/recreacion-sonda-voyager-2797973.jpg' alt='Ingenieros de la NASA tuvieron que utilizar documentos de hace más de 40 años para arreglar este fallo de la Voyager 1' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/life/termostatos-inteligentes-control-gasto-gas-invierno-1170438'>Controla el gasto del gas este invierno con estos termostatos inteligentes</a></h4>
     <a href='https://computerhoy.com/life/termostatos-inteligentes-control-gasto-gas-invierno-1170438' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/mujer-sentada-cerca-radiador-2902654.jpg' alt='Controla el gasto del gas este invierno con estos termostatos inteligentes' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/premios'>Premios Computer Hoy 2022: Elige los mejores productos del año y gana fantásticos premios</a></h4>
-    <a href='https://computerhoy.com/premios' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/premios-computer-hoy-2022-2901084.jpg' alt='Premios Computer Hoy 2022: Elige los mejores productos del año y gana fantásticos premios' />
     </a>
 </div>
 
