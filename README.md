@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/23-noticias-tecnologia-comenzar-manana-informado-ultimo-1170898'>23 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
-    <a href='https://computerhoy.com/tecnologia/23-noticias-tecnologia-comenzar-manana-informado-ultimo-1170898' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/23-noticias-tecnologia-comenzar-manana-informado-ultimo-2903086.jpg' alt='23 noticias de tecnología para comenzar la mañana informado de lo último' />
+    <h4><a href='https://computerhoy.com/hogar/puedes-hacer-termostato-inteligente-tado-casi-40-descuento-1170970'>Esto es lo que puedes hacer con este termostato inteligente Tado con un casi 40% de descuento</a></h4>
+    <a href='https://computerhoy.com/hogar/puedes-hacer-termostato-inteligente-tado-casi-40-descuento-1170970' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/termostato-inteligente-tado-2903342.jpg' alt='Esto es lo que puedes hacer con este termostato inteligente Tado con un casi 40% de descuento' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/portatiles-baratos-menos-500-euros-carrefour-1170640'>¿Necesitas un nuevo portátil? Hemos encontrado las mejores ofertas en Carrefour por menos de 500€</a></h4>
-    <a href='https://computerhoy.com/pc/portatiles-baratos-menos-500-euros-carrefour-1170640' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/mujer-portatil-regazo-2902842.jpg' alt='¿Necesitas un nuevo portátil? Hemos encontrado las mejores ofertas en Carrefour por menos de 500€' />
+    <h4><a href='https://computerhoy.com/entretenimiento/siguen-adaptaciones-videojuegos-death-stranding-suma-larga-lista-1170980'>Siguen las adaptaciones de videojuegos: Death Stranding se suma a una larga lista</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/siguen-adaptaciones-videojuegos-death-stranding-suma-larga-lista-1170980' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/death-stranding-e3-2016-trailer-presentacion-ps4-54700.jpg' alt='Siguen las adaptaciones de videojuegos: Death Stranding se suma a una larga lista' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/ingenieros-nasa-tuvieron-utilizar-documentos-hace-40-anos-arreglar-fallo-voyager-1-1170648'>Ingenieros de la NASA tuvieron que utilizar documentos de hace más de 40 años para arreglar este fallo de la Voyager 1</a></h4>
-    <a href='https://computerhoy.com/espacio/ingenieros-nasa-tuvieron-utilizar-documentos-hace-40-anos-arreglar-fallo-voyager-1-1170648' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/recreacion-sonda-voyager-2797973.jpg' alt='Ingenieros de la NASA tuvieron que utilizar documentos de hace más de 40 años para arreglar este fallo de la Voyager 1' />
+    <h4><a href='https://computerhoy.com/tecnologia/estados-unidos-saca-martillo-36-tecnologicas-chinas-entraran-lista-negra-1170966'>Estados Unidos saca el martillo: 36 tecnológicas chinas entrarán a su lista negra</a></h4>
+    <a href='https://computerhoy.com/tecnologia/estados-unidos-saca-martillo-36-tecnologicas-chinas-entraran-lista-negra-1170966' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/joe-biden-xi-jinping-2511241.jpg' alt='Estados Unidos saca el martillo: 36 tecnológicas chinas entrarán a su lista negra' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/alimentacion/sorprendente-habito-alimentario-ha-cambiado-familias-pandemia-1170646'>El sorprendente hábito alimentario que ha cambiado en las familias tras la pandemia</a></h4>
-    <a href='https://computerhoy.com/alimentacion/sorprendente-habito-alimentario-ha-cambiado-familias-pandemia-1170646' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/carro-supermercado-2764543.jpg' alt='El sorprendente hábito alimentario que ha cambiado en las familias tras la pandemia' />
+    <h4><a href='https://computerhoy.com/redes-sociales/instagram-quiere-evitar-hackeo-cuentas-suplantacion-identidad-estas-nuevas-funciones-1170956'>Instagram quiere evitar el hackeo de cuentas y la suplantación de identidad con estas nuevas funciones</a></h4>
+    <a href='https://computerhoy.com/redes-sociales/instagram-quiere-evitar-hackeo-cuentas-suplantacion-identidad-estas-nuevas-funciones-1170956' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/instagram-lanza-nuevas-funciones-seguridad-evitar-hackeo-cuentas-suplantacion-identidad-2903250.jpg' alt='Instagram quiere evitar el hackeo de cuentas y la suplantación de identidad con estas nuevas funciones' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/deepl-traductor-google-diferencias-trucos-mejor-traductor-online-825113'>¿Google o traductor DeepL? Diferencias, trucos y cuál es el mejor traductor online en 2023</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/deepl-traductor-google-diferencias-trucos-mejor-traductor-online-825113' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/11/deepl.jpg' alt='¿Google o traductor DeepL? Diferencias, trucos y cuál es el mejor traductor online en 2023' />
+    <h4><a href='https://computerhoy.com/redes-sociales/elon-musk-carga-gran-rival-twitter-banea-cuenta-mastodon-1170928'>Elon Musk se carga a su gran rival en Twitter: banea la cuenta de Mastodon</a></h4>
+    <a href='https://computerhoy.com/redes-sociales/elon-musk-carga-gran-rival-twitter-banea-cuenta-mastodon-1170928' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/elon-musk-2903170.jpg' alt='Elon Musk se carga a su gran rival en Twitter: banea la cuenta de Mastodon' />
     </a>
 </div>
 
