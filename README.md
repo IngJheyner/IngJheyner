@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/series-ver-fin-semana-netflix-hbo-max-crunchy-roll-erizo-azul-gigante-anime-1171104'>Qué series ver este fin de semana en Netflix, HBO Max y Crunchy Roll: un erizo azul, un gigante y un anime</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/series-ver-fin-semana-netflix-hbo-max-crunchy-roll-erizo-azul-gigante-anime-1171104' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/series-fin-semana-ver-diciembre-2022-2903698.jpg?tf=1200x' alt='Qué series ver este fin de semana en Netflix, HBO Max y Crunchy Roll: un erizo azul, un gigante y un anime' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/entretenimiento/peliculas-ver-fin-semana-netflix-prime-video-movistarplus-lugar-tranquilo-2-terror-viaje-vital-1171058'>Qué películas ver este fin de semana en Netflix, Prime Video y MovistarPlus+: Un lugar tranquilo 2, más terror y un viaje vital</a></h4>
     <a href='https://computerhoy.com/entretenimiento/peliculas-ver-fin-semana-netflix-prime-video-movistarplus-lugar-tranquilo-2-terror-viaje-vital-1171058' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/peliculas-ver-fin-semana-netflix-prime-video-movistarplus-lugar-tranquilo-2-terror-viaje-vital-2903528.jpg?tf=1200x' alt='Qué películas ver este fin de semana en Netflix, Prime Video y MovistarPlus+: Un lugar tranquilo 2, más terror y un viaje vital' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/ciencia/vacuna-arnm-moderna-reduce-riesgo-recaida-muerte-cancer-44-1171068'>La vacuna ARNm de Moderna reduce el riesgo de recaída o muerte por cáncer en un 44 %</a></h4>
     <a href='https://computerhoy.com/ciencia/vacuna-arnm-moderna-reduce-riesgo-recaida-muerte-cancer-44-1171068' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/arn-2903448.jpg?tf=1200x' alt='La vacuna ARNm de Moderna reduce el riesgo de recaída o muerte por cáncer en un 44 %' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/hogar/puedes-hacer-termostato-inteligente-tado-casi-40-descuento-1170970'>Esto es lo que puedes hacer con este termostato inteligente Tado con un casi 40% de descuento</a></h4>
-    <a href='https://computerhoy.com/hogar/puedes-hacer-termostato-inteligente-tado-casi-40-descuento-1170970' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/termostato-inteligente-tado-2903342.jpg?tf=1200x' alt='Esto es lo que puedes hacer con este termostato inteligente Tado con un casi 40% de descuento' />
     </a>
 </div>
 
