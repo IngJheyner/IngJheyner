@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/aplicaciones/elon-musk-te-ofrece-oportunidad-invertir-twitter-precio-1171492'>Elon Musk te ofrece la oportunidad de invertir en Twitter a este precio</a></h4>
+    <a href='https://computerhoy.com/aplicaciones/elon-musk-te-ofrece-oportunidad-invertir-twitter-precio-1171492' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/elon-musk-confirma-aumento-limite-caracteres-twitter-280-4000-2898646.jpg?tf=1200x' alt='Elon Musk te ofrece la oportunidad de invertir en Twitter a este precio' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/cuanto-toca-loteria-navidad-2022-cuanto-queda-hacienda-como-evitarlo-1163478'>Cuánto toca en la Lotería de Navidad 2022, cuánto se queda Hacienda y cómo evitarlo</a></h4>
+    <a href='https://computerhoy.com/life/cuanto-toca-loteria-navidad-2022-cuanto-queda-hacienda-como-evitarlo-1163478' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/mejores-apps-loteria-navidad-2888698.jpg?tf=1200x' alt='Cuánto toca en la Lotería de Navidad 2022, cuánto se queda Hacienda y cómo evitarlo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/pc/actualizacion-deshabilitara-siempre-internet-explorer-ordenador-1171486'>Esta actualización deshabilitará para siempre Internet Explorer en tu ordenador</a></h4>
     <a href='https://computerhoy.com/pc/actualizacion-deshabilitara-siempre-internet-explorer-ordenador-1171486' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/internet-explorer-final-soporte-2385521.jpg?tf=1200x' alt='Esta actualización deshabilitará para siempre Internet Explorer en tu ordenador' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/alimentacion/razon-no-deberias-poner-nunca-leche-cafetera-lugar-agua-ocu-1171474'>La razón por la que no deberías poner nunca leche en la cafetera en lugar de agua, según la OCU</a></h4>
     <a href='https://computerhoy.com/alimentacion/razon-no-deberias-poner-nunca-leche-cafetera-lugar-agua-ocu-1171474' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/cafetera-2904208.jpg?tf=1200x' alt='La razón por la que no deberías poner nunca leche en la cafetera en lugar de agua, según la OCU' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/adaptaciones-series-peliculas-novelas-infantiles-clasicas-1169470'>7 adaptaciones a series y películas de novelas infantiles clásicas</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/adaptaciones-series-peliculas-novelas-infantiles-clasicas-1169470' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/matilda-2695181.jpg?tf=1200x' alt='7 adaptaciones a series y películas de novelas infantiles clásicas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/realidad-virtual/john-carmack-creador-doom-responsable-realidad-virtual-meta-anuncia-marcha-1171470'>John Carmack, creador de DOOM y responsable de realidad virtual de Meta, anuncia su marcha</a></h4>
-    <a href='https://computerhoy.com/realidad-virtual/john-carmack-creador-doom-responsable-realidad-virtual-meta-anuncia-marcha-1171470' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/john-carmack-2904204.jpg?tf=1200x' alt='John Carmack, creador de DOOM y responsable de realidad virtual de Meta, anuncia su marcha' />
     </a>
 </div>
 
