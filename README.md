@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tv-video/kodi-como-funciona-software-todo-1164858'>¿Qué es Kodi y cómo funciona este software todo en uno?</a></h4>
+    <a href='https://computerhoy.com/tv-video/kodi-como-funciona-software-todo-1164858' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/kodi-como-funciona-software-todo-2892044.jpg?tf=1200x' alt='¿Qué es Kodi y cómo funciona este software todo en uno?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/analisis/review-lenovo-thinkpad-z16-amd-ryzen-oled-4k-1168726'>Análisis del Lenovo ThinkPad Z16, el clásico se renueva con AMD Ryzen y pantalla OLED 4K</a></h4>
     <a href='https://computerhoy.com/analisis/review-lenovo-thinkpad-z16-amd-ryzen-oled-4k-1168726' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/analisis-lenovo-thinkpad-z16-2899192.jpg?tf=1200x' alt='Análisis del Lenovo ThinkPad Z16, el clásico se renueva con AMD Ryzen y pantalla OLED 4K' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/vota-premios-computerhoy-2022-finalistas-mejor-equipo-portatil-1171424'>Vota en los Premios ComputerHoy 2022: finalistas al mejor equipo portátil</a></h4>
     <a href='https://computerhoy.com/tecnologia/vota-premios-computerhoy-2022-finalistas-mejor-equipo-portatil-1171424' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/vota-premios-computerhoy-2022-finalistas-mejor-equipo-portatil-2903884.jpg?tf=1200x' alt='Vota en los Premios ComputerHoy 2022: finalistas al mejor equipo portátil' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/echara-apple-pulso-union-europea-usb-c-iphone-1169412'>¿Echará Apple un pulso a la Unión Europea con el USB-C del iPhone? </a></h4>
-    <a href='https://computerhoy.com/apple/echara-apple-pulso-union-europea-usb-c-iphone-1169412' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/analisis-apple-battery-magsafe-2455177.jpg?tf=1200x' alt='¿Echará Apple un pulso a la Unión Europea con el USB-C del iPhone? ' />
     </a>
 </div>
 
