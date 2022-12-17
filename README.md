@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/criptos/casi-1000-criptomonedas-muertas-2022-1171214'>En 2022 han muerto casi 1.000 criptomonedas, y no es el récord</a></h4>
+    <a href='https://computerhoy.com/criptos/casi-1000-criptomonedas-muertas-2022-1171214' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/llevamos-2022-ya-han-muerto-1000-criptomonedas-record-absoluto-2903886.jpg?tf=1200x' alt='En 2022 han muerto casi 1.000 criptomonedas, y no es el récord' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/gaming/xbox-series-x-en-stock-diferentes-tiendas-1171210'>Xbox Series X es la única consola next-gen que puedes comprar a su PVP, está en stock en diferentes tiendas</a></h4>
     <a href='https://computerhoy.com/gaming/xbox-series-x-en-stock-diferentes-tiendas-1171210' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/xbox-series-x-unica-consola-next-gen-puedes-comprar-pvp-stock-diferentes-tiendas-2903876.jpg?tf=1200x' alt='Xbox Series X es la única consola next-gen que puedes comprar a su PVP, está en stock en diferentes tiendas' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/internet/ahora-puedes-crear-musica-utilizando-ia-riffusion-1171158'>Ahora puedes crear música utilizando IA: así es Riffusion</a></h4>
     <a href='https://computerhoy.com/internet/ahora-puedes-crear-musica-utilizando-ia-riffusion-1171158' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/ahora-puedes-crear-musica-utilizando-ia-riffusion-2903846.jpg?tf=1200x' alt='Ahora puedes crear música utilizando IA: así es Riffusion' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/telescopio-espacial-james-webb-nasa-encuentra-sistema-solar-muy-parecido-1171182'>El telescopio espacial James Webb de la NASA encuentra un sistema solar muy parecido al nuestro</a></h4>
-    <a href='https://computerhoy.com/espacio/telescopio-espacial-james-webb-nasa-encuentra-sistema-solar-muy-parecido-1171182' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/sistema-solar-ficticio-2903842.jpg?tf=1200x' alt='El telescopio espacial James Webb de la NASA encuentra un sistema solar muy parecido al nuestro' />
     </a>
 </div>
 
