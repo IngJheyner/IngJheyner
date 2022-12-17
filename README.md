@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/vota-premios-computerhoy-2022-finalistas-mejor-equipo-portatil-1171424'>Vota en los Premios ComputerHoy 2022: finalistas al mejor equipo portátil</a></h4>
+    <a href='https://computerhoy.com/tecnologia/vota-premios-computerhoy-2022-finalistas-mejor-equipo-portatil-1171424' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/vota-premios-computerhoy-2022-finalistas-mejor-equipo-portatil-2903884.jpg?tf=1200x' alt='Vota en los Premios ComputerHoy 2022: finalistas al mejor equipo portátil' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/echara-apple-pulso-union-europea-usb-c-iphone-1169412'>¿Echará Apple un pulso a la Unión Europea con el USB-C del iPhone? </a></h4>
+    <a href='https://computerhoy.com/apple/echara-apple-pulso-union-europea-usb-c-iphone-1169412' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/analisis-apple-battery-magsafe-2455177.jpg?tf=1200x' alt='¿Echará Apple un pulso a la Unión Europea con el USB-C del iPhone? ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-enchufes-inteligentes-medidor-consumo-ahorrar-factura-903015'>5 enchufes inteligentes con medidor de consumo que te permiten adelantarte al facturón de luz</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/mejores-enchufes-inteligentes-medidor-consumo-ahorrar-factura-903015' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/enchufe-inteligente-2903796.jpg?tf=1200x' alt='5 enchufes inteligentes con medidor de consumo que te permiten adelantarte al facturón de luz' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/criptos/casi-1000-criptomonedas-muertas-2022-1171214'>En 2022 han muerto casi 1.000 criptomonedas, y no es el récord</a></h4>
     <a href='https://computerhoy.com/criptos/casi-1000-criptomonedas-muertas-2022-1171214' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/llevamos-2022-ya-han-muerto-1000-criptomonedas-record-absoluto-2903886.jpg?tf=1200x' alt='En 2022 han muerto casi 1.000 criptomonedas, y no es el récord' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/gaming/xbox-series-x-en-stock-diferentes-tiendas-1171210'>Xbox Series X es la única consola next-gen que puedes comprar a su PVP, está en stock en diferentes tiendas</a></h4>
-    <a href='https://computerhoy.com/gaming/xbox-series-x-en-stock-diferentes-tiendas-1171210' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/xbox-series-x-unica-consola-next-gen-puedes-comprar-pvp-stock-diferentes-tiendas-2903876.jpg?tf=1200x' alt='Xbox Series X es la única consola next-gen que puedes comprar a su PVP, está en stock en diferentes tiendas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/streaming/black-adam-estreno-hbo-max-1171194'>¿Ganas de más superhéroes? HBO Max ya tiene Black Adam en el catálogo</a></h4>
-    <a href='https://computerhoy.com/streaming/black-adam-estreno-hbo-max-1171194' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/verticalimage1671216996129-2903852.jpg?tf=1200x' alt='¿Ganas de más superhéroes? HBO Max ya tiene Black Adam en el catálogo' />
     </a>
 </div>
 
