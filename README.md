@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/analisis/samsung-galaxy-buds-2-pro-mejores-auriculares-cancelacion-ruido-samsung-1169782'>Samsung Galaxy Buds 2 Pro, los mejores auriculares con cancelación de ruido de Samsung se superan</a></h4>
+    <a href='https://computerhoy.com/analisis/samsung-galaxy-buds-2-pro-mejores-auriculares-cancelacion-ruido-samsung-1169782' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/samsung-galaxy-buds-2-pro-analisis-opinion-2900890.jpg?tf=1200x' alt='Samsung Galaxy Buds 2 Pro, los mejores auriculares con cancelación de ruido de Samsung se superan' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/ni-centimo-google-apple-crea-propia-nube-internet-disco-duro-conectado-8-tb-1029591'>Ni un céntimo a Google o Apple: Crea tu propia nube en internet con este disco duro conectado de 8 TB</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/ni-centimo-google-apple-crea-propia-nube-internet-disco-duro-conectado-8-tb-1029591' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/wd-my-cloud-ex2-ultra-2903812.jpg?tf=1200x' alt='Ni un céntimo a Google o Apple: Crea tu propia nube en internet con este disco duro conectado de 8 TB' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tv-video/kodi-como-funciona-software-todo-1164858'>¿Qué es Kodi y cómo funciona este software todo en uno?</a></h4>
     <a href='https://computerhoy.com/tv-video/kodi-como-funciona-software-todo-1164858' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/kodi-como-funciona-software-todo-2892044.jpg?tf=1200x' alt='¿Qué es Kodi y cómo funciona este software todo en uno?' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/aplicaciones/apps-webs-crear-manualidades-navidad-decorar-hogar-entretener-ninos-1165138'>Apps y webs para crear manualidades de Navidad, decorar tu hogar y entretener a los niños</a></h4>
     <a href='https://computerhoy.com/aplicaciones/apps-webs-crear-manualidades-navidad-decorar-hogar-entretener-ninos-1165138' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/apps-webs-crear-manualidades-navidad-decorar-entretener-ninos-2892870.jpg?tf=1200x' alt='Apps y webs para crear manualidades de Navidad, decorar tu hogar y entretener a los niños' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-compartir-internet-movil-ordenador-cable-usb-olvidarte-red-inalambrica-1169804'>Cómo compartir Internet móvil con tu ordenador con un cable USB y olvidarte de la red inalámbrica</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-compartir-internet-movil-ordenador-cable-usb-olvidarte-red-inalambrica-1169804' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/usb-tipo-c-smartphone-2900836.jpg?tf=1200x' alt='Cómo compartir Internet móvil con tu ordenador con un cable USB y olvidarte de la red inalámbrica' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/vota-premios-computerhoy-2022-finalistas-mejor-equipo-portatil-1171424'>Vota en los Premios ComputerHoy 2022: finalistas al mejor equipo portátil</a></h4>
-    <a href='https://computerhoy.com/tecnologia/vota-premios-computerhoy-2022-finalistas-mejor-equipo-portatil-1171424' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/vota-premios-computerhoy-2022-finalistas-mejor-equipo-portatil-2903884.jpg?tf=1200x' alt='Vota en los Premios ComputerHoy 2022: finalistas al mejor equipo portátil' />
     </a>
 </div>
 
