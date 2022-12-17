@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/pc/actualizacion-deshabilitara-siempre-internet-explorer-ordenador-1171486'>Esta actualización deshabilitará para siempre Internet Explorer en tu ordenador</a></h4>
+    <a href='https://computerhoy.com/pc/actualizacion-deshabilitara-siempre-internet-explorer-ordenador-1171486' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/internet-explorer-final-soporte-2385521.jpg?tf=1200x' alt='Esta actualización deshabilitará para siempre Internet Explorer en tu ordenador' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/entretenimiento/netflix-acaba-blockbuster-segunda-vez-ahora-cancelando-serie-1171482'>Netflix acaba con Blockbuster por segunda vez, ahora cancelando su serie</a></h4>
     <a href='https://computerhoy.com/entretenimiento/netflix-acaba-blockbuster-segunda-vez-ahora-cancelando-serie-1171482' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/blockbuster-serie-netflix-2839731.jpg?tf=1200x' alt='Netflix acaba con Blockbuster por segunda vez, ahora cancelando su serie' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/realidad-virtual/john-carmack-creador-doom-responsable-realidad-virtual-meta-anuncia-marcha-1171470'>John Carmack, creador de DOOM y responsable de realidad virtual de Meta, anuncia su marcha</a></h4>
     <a href='https://computerhoy.com/realidad-virtual/john-carmack-creador-doom-responsable-realidad-virtual-meta-anuncia-marcha-1171470' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/john-carmack-2904204.jpg?tf=1200x' alt='John Carmack, creador de DOOM y responsable de realidad virtual de Meta, anuncia su marcha' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/samsung-galaxy-buds-2-pro-mejores-auriculares-cancelacion-ruido-samsung-1169782'>Samsung Galaxy Buds 2 Pro, los mejores auriculares con cancelación de ruido de Samsung se superan</a></h4>
-    <a href='https://computerhoy.com/analisis/samsung-galaxy-buds-2-pro-mejores-auriculares-cancelacion-ruido-samsung-1169782' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/samsung-galaxy-buds-2-pro-analisis-opinion-2900890.jpg?tf=1200x' alt='Samsung Galaxy Buds 2 Pro, los mejores auriculares con cancelación de ruido de Samsung se superan' />
     </a>
 </div>
 
