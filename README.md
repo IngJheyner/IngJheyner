@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/netflix-acaba-blockbuster-segunda-vez-ahora-cancelando-serie-1171482'>Netflix acaba con Blockbuster por segunda vez, ahora cancelando su serie</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/netflix-acaba-blockbuster-segunda-vez-ahora-cancelando-serie-1171482' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/blockbuster-serie-netflix-2839731.jpg?tf=1200x' alt='Netflix acaba con Blockbuster por segunda vez, ahora cancelando su serie' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/alimentacion/razon-no-deberias-poner-nunca-leche-cafetera-lugar-agua-ocu-1171474'>La razón por la que no deberías poner nunca leche en la cafetera en lugar de agua, según la OCU</a></h4>
     <a href='https://computerhoy.com/alimentacion/razon-no-deberias-poner-nunca-leche-cafetera-lugar-agua-ocu-1171474' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/cafetera-2904208.jpg?tf=1200x' alt='La razón por la que no deberías poner nunca leche en la cafetera en lugar de agua, según la OCU' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/analisis/samsung-galaxy-buds-2-pro-mejores-auriculares-cancelacion-ruido-samsung-1169782'>Samsung Galaxy Buds 2 Pro, los mejores auriculares con cancelación de ruido de Samsung se superan</a></h4>
     <a href='https://computerhoy.com/analisis/samsung-galaxy-buds-2-pro-mejores-auriculares-cancelacion-ruido-samsung-1169782' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/samsung-galaxy-buds-2-pro-analisis-opinion-2900890.jpg?tf=1200x' alt='Samsung Galaxy Buds 2 Pro, los mejores auriculares con cancelación de ruido de Samsung se superan' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/ni-centimo-google-apple-crea-propia-nube-internet-disco-duro-conectado-8-tb-1029591'>Ni un céntimo a Google o Apple: Crea tu propia nube en internet con este disco duro conectado de 8 TB</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/ni-centimo-google-apple-crea-propia-nube-internet-disco-duro-conectado-8-tb-1029591' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/wd-my-cloud-ex2-ultra-2903812.jpg?tf=1200x' alt='Ni un céntimo a Google o Apple: Crea tu propia nube en internet con este disco duro conectado de 8 TB' />
     </a>
 </div>
 
