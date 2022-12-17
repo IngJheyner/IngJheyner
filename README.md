@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/analisis/review-lenovo-thinkpad-z16-amd-ryzen-oled-4k-1168726'>Análisis del Lenovo ThinkPad Z16, el clásico se renueva con AMD Ryzen y pantalla OLED 4K</a></h4>
+    <a href='https://computerhoy.com/analisis/review-lenovo-thinkpad-z16-amd-ryzen-oled-4k-1168726' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/analisis-lenovo-thinkpad-z16-2899192.jpg?tf=1200x' alt='Análisis del Lenovo ThinkPad Z16, el clásico se renueva con AMD Ryzen y pantalla OLED 4K' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/aplicaciones/apps-webs-crear-manualidades-navidad-decorar-hogar-entretener-ninos-1165138'>Apps y webs para crear manualidades de Navidad, decorar tu hogar y entretener a los niños</a></h4>
+    <a href='https://computerhoy.com/aplicaciones/apps-webs-crear-manualidades-navidad-decorar-hogar-entretener-ninos-1165138' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/apps-webs-crear-manualidades-navidad-decorar-entretener-ninos-2892870.jpg?tf=1200x' alt='Apps y webs para crear manualidades de Navidad, decorar tu hogar y entretener a los niños' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-compartir-internet-movil-ordenador-cable-usb-olvidarte-red-inalambrica-1169804'>Cómo compartir Internet móvil con tu ordenador con un cable USB y olvidarte de la red inalámbrica</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-compartir-internet-movil-ordenador-cable-usb-olvidarte-red-inalambrica-1169804' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/usb-tipo-c-smartphone-2900836.jpg?tf=1200x' alt='Cómo compartir Internet móvil con tu ordenador con un cable USB y olvidarte de la red inalámbrica' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/vota-premios-computerhoy-2022-finalistas-mejor-equipo-portatil-1171424'>Vota en los Premios ComputerHoy 2022: finalistas al mejor equipo portátil</a></h4>
     <a href='https://computerhoy.com/tecnologia/vota-premios-computerhoy-2022-finalistas-mejor-equipo-portatil-1171424' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/vota-premios-computerhoy-2022-finalistas-mejor-equipo-portatil-2903884.jpg?tf=1200x' alt='Vota en los Premios ComputerHoy 2022: finalistas al mejor equipo portátil' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/apple/echara-apple-pulso-union-europea-usb-c-iphone-1169412'>¿Echará Apple un pulso a la Unión Europea con el USB-C del iPhone? </a></h4>
     <a href='https://computerhoy.com/apple/echara-apple-pulso-union-europea-usb-c-iphone-1169412' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/analisis-apple-battery-magsafe-2455177.jpg?tf=1200x' alt='¿Echará Apple un pulso a la Unión Europea con el USB-C del iPhone? ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-enchufes-inteligentes-medidor-consumo-ahorrar-factura-903015'>5 enchufes inteligentes con medidor de consumo que te permiten adelantarte al facturón de luz</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-enchufes-inteligentes-medidor-consumo-ahorrar-factura-903015' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/enchufe-inteligente-2903796.jpg?tf=1200x' alt='5 enchufes inteligentes con medidor de consumo que te permiten adelantarte al facturón de luz' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/agencia-espacial-europea-reto-encontrar-asteroide-navidad-1171422'>La Agencia Espacial Europea te reta:  ¿puedes encontrar el Asteroide de la Navidad?</a></h4>
-    <a href='https://computerhoy.com/espacio/agencia-espacial-europea-reto-encontrar-asteroide-navidad-1171422' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/agencia-espacial-europea-te-propone-reto-puedes-encontrar-asteroide-navidad-2903890.jpg?tf=1200x' alt='La Agencia Espacial Europea te reta:  ¿puedes encontrar el Asteroide de la Navidad?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/criptos/casi-1000-criptomonedas-muertas-2022-1171214'>En 2022 han muerto casi 1.000 criptomonedas, y no es el récord</a></h4>
-    <a href='https://computerhoy.com/criptos/casi-1000-criptomonedas-muertas-2022-1171214' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/llevamos-2022-ya-han-muerto-1000-criptomonedas-record-absoluto-2903886.jpg?tf=1200x' alt='En 2022 han muerto casi 1.000 criptomonedas, y no es el récord' />
     </a>
 </div>
 
