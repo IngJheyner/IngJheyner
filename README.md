@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/criptos/startup-paises-bajos-utiliza-mineria-bitcoin-cultivar-tulipanes-1171500'>Una startup de Países Bajos utiliza la minería de Bitcoin para cultivar tulipanes</a></h4>
+    <a href='https://computerhoy.com/criptos/startup-paises-bajos-utiliza-mineria-bitcoin-cultivar-tulipanes-1171500' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/tulipanes-bitcoin-2904270.jpg?tf=1200x' alt='Una startup de Países Bajos utiliza la minería de Bitcoin para cultivar tulipanes' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/27-pulgadas-tamano-perfecto-monitor-tanto-trabajar-como-jugar-1169396'>Por qué 27 pulgadas es el tamaño perfecto de monitor tanto para trabajar como para jugar</a></h4>
     <a href='https://computerhoy.com/tecnologia/27-pulgadas-tamano-perfecto-monitor-tanto-trabajar-como-jugar-1169396' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/monitor-27-pulgadas-2900276.jpg?tf=1200x' alt='Por qué 27 pulgadas es el tamaño perfecto de monitor tanto para trabajar como para jugar' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/life/cuanto-toca-loteria-navidad-2022-cuanto-queda-hacienda-como-evitarlo-1163478'>Cuánto toca en la Lotería de Navidad 2022, cuánto se queda Hacienda y cómo evitarlo</a></h4>
     <a href='https://computerhoy.com/life/cuanto-toca-loteria-navidad-2022-cuanto-queda-hacienda-como-evitarlo-1163478' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/mejores-apps-loteria-navidad-2888698.jpg?tf=1200x' alt='Cuánto toca en la Lotería de Navidad 2022, cuánto se queda Hacienda y cómo evitarlo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/actualizacion-deshabilitara-siempre-internet-explorer-ordenador-1171486'>Esta actualización deshabilitará para siempre Internet Explorer en tu ordenador</a></h4>
-    <a href='https://computerhoy.com/pc/actualizacion-deshabilitara-siempre-internet-explorer-ordenador-1171486' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/internet-explorer-final-soporte-2385521.jpg?tf=1200x' alt='Esta actualización deshabilitará para siempre Internet Explorer en tu ordenador' />
     </a>
 </div>
 
