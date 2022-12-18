@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/peliculas-protagonistas-ganan-loteria-sorteo-importante-1168870'>6 películas en las que los protagonistas ganan la lotería o un sorteo importante</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/peliculas-protagonistas-ganan-loteria-sorteo-importante-1168870' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/villaviciosa-lado-2899404.jpg?tf=1200x' alt='6 películas en las que los protagonistas ganan la lotería o un sorteo importante' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/aplicaciones/whatsapp-lanza-dos-nuevos-paquetes-calcomanias-ya-puedes-descargarlos-1171786'>WhatsApp lanza dos nuevos paquetes de calcomanías y ya puedes descargarlos</a></h4>
+    <a href='https://computerhoy.com/aplicaciones/whatsapp-lanza-dos-nuevos-paquetes-calcomanias-ya-puedes-descargarlos-1171786' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/emojis-2818053.jpg?tf=1200x' alt='WhatsApp lanza dos nuevos paquetes de calcomanías y ya puedes descargarlos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/analisis/motorola-edge-30-ultra-buenas-fotos-hardware-potente-vuelta-marca-camino-correcto-1171494'>Motorola Edge 30 Ultra, buenas fotos y hardware potente para la vuelta de la marca al camino correcto</a></h4>
     <a href='https://computerhoy.com/analisis/motorola-edge-30-ultra-buenas-fotos-hardware-potente-vuelta-marca-camino-correcto-1171494' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/motorola-edge-30-ultra-analisis-opinion-2904218.jpg?tf=1200x' alt='Motorola Edge 30 Ultra, buenas fotos y hardware potente para la vuelta de la marca al camino correcto' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/windows/ultima-actualizacion-windows-provoca-todos-estos-fallos-puedes-arreglarlo-1171780'>La última actualización de Windows provoca todos estos fallos, y así puedes arreglarlo</a></h4>
     <a href='https://computerhoy.com/windows/ultima-actualizacion-windows-provoca-todos-estos-fallos-puedes-arreglarlo-1171780' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/windows-2386769.jpg?tf=1200x' alt='La última actualización de Windows provoca todos estos fallos, y así puedes arreglarlo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/adobe-photoshop-vs-photoshop-express-estas-son-diferencias-1169294'>Adobe Photoshop vs. Photoshop Express: estas son sus diferencias</a></h4>
-    <a href='https://computerhoy.com/tecnologia/adobe-photoshop-vs-photoshop-express-estas-son-diferencias-1169294' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/photoshop-2899860.jpg?tf=1200x' alt='Adobe Photoshop vs. Photoshop Express: estas son sus diferencias' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-puedes-utilizar-chatgpt-tan-sorprendente-1169868'>Cómo puedes utilizar ChatGPT y por qué es tan sorprendente</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-puedes-utilizar-chatgpt-tan-sorprendente-1169868' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/inteligencia-artificial-2901132.jpg?tf=1200x' alt='Cómo puedes utilizar ChatGPT y por qué es tan sorprendente' />
     </a>
 </div>
 
