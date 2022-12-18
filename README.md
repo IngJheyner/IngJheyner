@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/notre-dame-sarcofagos-plomo-abiertos-1171846'>Bajo las ruinas del incendio de Notre-Dame hallaron dos sarcófagos de plomo: esta semana han sido abiertos</a></h4>
+    <a href='https://computerhoy.com/ciencia/notre-dame-sarcofagos-plomo-abiertos-1171846' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/ruinas-incendio-notre-dame-encontraron-dos-sarcofagos-plomo-semana-han-sido-abiertos-2904786.jpg?tf=1200x' alt='Bajo las ruinas del incendio de Notre-Dame hallaron dos sarcófagos de plomo: esta semana han sido abiertos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/analisis/jbl-tour-pro-2-review-opinion-1171528'>JBL Tour Pro 2, ¿cómo de interesante es una pantalla en unos auriculares TWS?</a></h4>
+    <a href='https://computerhoy.com/analisis/jbl-tour-pro-2-review-opinion-1171528' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/jbl-tour-pro-2-2904764.jpg?tf=1200x' alt='JBL Tour Pro 2, ¿cómo de interesante es una pantalla en unos auriculares TWS?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/internet/solucion-problema-cloudflare-movistar-o2-1171838'>Cientos de webs no funcionan si tienes Movistar u O2: así puedes solucionarlo</a></h4>
     <a href='https://computerhoy.com/internet/solucion-problema-cloudflare-movistar-o2-1171838' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/cientos-webs-no-funcionan-tienes-movistar-o2-puedes-solucionarlo-2904762.jpg?tf=1200x' alt='Cientos de webs no funcionan si tienes Movistar u O2: así puedes solucionarlo' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/podrian-chatgpt-alphacode-copilot-llegar-sustituir-humanos-trabajo-1168294'>¿Podrían ChatGPT, AlphaCode o Copilot llegar a sustituir a los humanos en su trabajo?</a></h4>
     <a href='https://computerhoy.com/tecnologia/podrian-chatgpt-alphacode-copilot-llegar-sustituir-humanos-trabajo-1168294' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/podrian-chatgpt-alphacode-copilot-sustituir-humanos-2901618.jpg?tf=1200x' alt='¿Podrían ChatGPT, AlphaCode o Copilot llegar a sustituir a los humanos en su trabajo?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/premios-computerhoy-2022-finalistas-mejor-equipo-convertible-1171822'>Vota en los Premios ComputerHoy 2022: finalistas al mejor equipo convertible</a></h4>
-    <a href='https://computerhoy.com/tecnologia/premios-computerhoy-2022-finalistas-mejor-equipo-convertible-1171822' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/vota-premios-computerhoy-2021-finalistas-mejores-equipos-convertibles-2562911.jpg?tf=1200x' alt='Vota en los Premios ComputerHoy 2022: finalistas al mejor equipo convertible' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/crean-robot-envuelve-regalos-navidenos-mejor-1171800'>Crean un robot que envuelve regalos navideños mejor que tú</a></h4>
-    <a href='https://computerhoy.com/ciencia/crean-robot-envuelve-regalos-navidenos-mejor-1171800' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/robot-envolvera-todos-regalos-estas-navidades-2904702.jpg?tf=1200x' alt='Crean un robot que envuelve regalos navideños mejor que tú' />
     </a>
 </div>
 
