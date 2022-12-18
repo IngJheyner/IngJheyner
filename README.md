@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/adobe-photoshop-vs-photoshop-express-estas-son-diferencias-1169294'>Adobe Photoshop vs. Photoshop Express: estas son sus diferencias</a></h4>
+    <a href='https://computerhoy.com/tecnologia/adobe-photoshop-vs-photoshop-express-estas-son-diferencias-1169294' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/photoshop-2899860.jpg?tf=1200x' alt='Adobe Photoshop vs. Photoshop Express: estas son sus diferencias' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tutoriales/como-puedes-utilizar-chatgpt-tan-sorprendente-1169868'>Cómo puedes utilizar ChatGPT y por qué es tan sorprendente</a></h4>
     <a href='https://computerhoy.com/tutoriales/como-puedes-utilizar-chatgpt-tan-sorprendente-1169868' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/inteligencia-artificial-2901132.jpg?tf=1200x' alt='Cómo puedes utilizar ChatGPT y por qué es tan sorprendente' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tutoriales/herramientas-sacar-mayor-rendimiento-disco-duro-ssd-windows-11-1168764'>Herramientas para sacar mayor rendimiento de nuestro disco duro o SSD en Windows 11</a></h4>
     <a href='https://computerhoy.com/tutoriales/herramientas-sacar-mayor-rendimiento-disco-duro-ssd-windows-11-1168764' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/herramientas-disco-duro-ssd-2899126.jpg?tf=1200x' alt='Herramientas para sacar mayor rendimiento de nuestro disco duro o SSD en Windows 11' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/smartwatches/cientificos-crean-reloj-inteligente-viviente-impulsado-moho-1171512'>Científicos crean un reloj inteligente viviente impulsado por moho</a></h4>
-    <a href='https://computerhoy.com/smartwatches/cientificos-crean-reloj-inteligente-viviente-impulsado-moho-1171512' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/cientificos-crean-reloj-inteligente-viviente-impulsado-moho-2904422.jpg?tf=1200x' alt='Científicos crean un reloj inteligente viviente impulsado por moho' />
     </a>
 </div>
 
