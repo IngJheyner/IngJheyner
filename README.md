@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/premios-computerhoy-2022-finalistas-mejor-equipo-convertible-1171822'>Vota en los Premios ComputerHoy 2022: finalistas al mejor equipo convertible</a></h4>
+    <a href='https://computerhoy.com/tecnologia/premios-computerhoy-2022-finalistas-mejor-equipo-convertible-1171822' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/vota-premios-computerhoy-2021-finalistas-mejores-equipos-convertibles-2562911.jpg?tf=1200x' alt='Vota en los Premios ComputerHoy 2022: finalistas al mejor equipo convertible' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciencia/crean-robot-envuelve-regalos-navidenos-mejor-1171800'>Crean un robot que envuelve regalos navideños mejor que tú</a></h4>
     <a href='https://computerhoy.com/ciencia/crean-robot-envuelve-regalos-navidenos-mejor-1171800' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/robot-envolvera-todos-regalos-estas-navidades-2904702.jpg?tf=1200x' alt='Crean un robot que envuelve regalos navideños mejor que tú' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/entretenimiento/peliculas-protagonistas-ganan-loteria-sorteo-importante-1168870'>6 películas en las que los protagonistas ganan la lotería o un sorteo importante</a></h4>
     <a href='https://computerhoy.com/entretenimiento/peliculas-protagonistas-ganan-loteria-sorteo-importante-1168870' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/villaviciosa-lado-2899404.jpg?tf=1200x' alt='6 películas en las que los protagonistas ganan la lotería o un sorteo importante' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/aplicaciones/whatsapp-lanza-dos-nuevos-paquetes-calcomanias-ya-puedes-descargarlos-1171786'>WhatsApp lanza dos nuevos paquetes de calcomanías y ya puedes descargarlos</a></h4>
-    <a href='https://computerhoy.com/aplicaciones/whatsapp-lanza-dos-nuevos-paquetes-calcomanias-ya-puedes-descargarlos-1171786' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/emojis-2818053.jpg?tf=1200x' alt='WhatsApp lanza dos nuevos paquetes de calcomanías y ya puedes descargarlos' />
     </a>
 </div>
 
