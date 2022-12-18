@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/redes-sociales/twitter-prohibe-promocionar-redes-sociales-facebook-instagram-1171850'>Twitter prohíbe promocionar todas estas redes sociales, incluyendo Facebook e Instagram</a></h4>
+    <a href='https://computerhoy.com/redes-sociales/twitter-prohibe-promocionar-redes-sociales-facebook-instagram-1171850' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/twitter-prohibe-cuentas-promocionen-todas-estas-redes-sociales-incluyendo-facebook-instagram-2904872.jpg?tf=1200x' alt='Twitter prohíbe promocionar todas estas redes sociales, incluyendo Facebook e Instagram' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciencia/notre-dame-sarcofagos-plomo-abiertos-1171846'>Bajo las ruinas del incendio de Notre-Dame hallaron dos misteriosos sarcófagos de plomo: esta semana han sido abiertos</a></h4>
     <a href='https://computerhoy.com/ciencia/notre-dame-sarcofagos-plomo-abiertos-1171846' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/ruinas-incendio-notre-dame-encontraron-dos-sarcofagos-plomo-semana-han-sido-abiertos-2904786.jpg?tf=1200x' alt='Bajo las ruinas del incendio de Notre-Dame hallaron dos misteriosos sarcófagos de plomo: esta semana han sido abiertos' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/gaming/epic-games-store-juego-gratis-rebaja-navidad-1171830'>Epic Games Store está regalando un juego cada día, y el de hoy está muy bien</a></h4>
     <a href='https://computerhoy.com/gaming/epic-games-store-juego-gratis-rebaja-navidad-1171830' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/epic-games-store-regalando-juego-cada-dia-hoy-muy-bien-2904740.jpg?tf=1200x' alt='Epic Games Store está regalando un juego cada día, y el de hoy está muy bien' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/podrian-chatgpt-alphacode-copilot-llegar-sustituir-humanos-trabajo-1168294'>¿Podrían ChatGPT, AlphaCode o Copilot llegar a sustituir a los humanos en su trabajo?</a></h4>
-    <a href='https://computerhoy.com/tecnologia/podrian-chatgpt-alphacode-copilot-llegar-sustituir-humanos-trabajo-1168294' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/podrian-chatgpt-alphacode-copilot-sustituir-humanos-2901618.jpg?tf=1200x' alt='¿Podrían ChatGPT, AlphaCode o Copilot llegar a sustituir a los humanos en su trabajo?' />
     </a>
 </div>
 
