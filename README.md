@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/crean-robot-envuelve-regalos-navidenos-mejor-1171800'>Crean un robot que envuelve regalos navideños mejor que tú</a></h4>
+    <a href='https://computerhoy.com/ciencia/crean-robot-envuelve-regalos-navidenos-mejor-1171800' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/robot-envolvera-todos-regalos-estas-navidades-2904702.jpg?tf=1200x' alt='Crean un robot que envuelve regalos navideños mejor que tú' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/espacio/razon-extraterrestres-aun-no-han-puesto-contacto-tierra-no-somos-suficientemente-inteligentes-1171798'>La razón por la que los extraterrestres aún no se han puesto en contacto con la Tierra: no somos lo suficientemente inteligentes</a></h4>
+    <a href='https://computerhoy.com/espacio/razon-extraterrestres-aun-no-han-puesto-contacto-tierra-no-somos-suficientemente-inteligentes-1171798' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/lactea-2904696.jpg?tf=1200x' alt='La razón por la que los extraterrestres aún no se han puesto en contacto con la Tierra: no somos lo suficientemente inteligentes' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/streaming/plan-publicidad-nuevo-servicio-warner-bros-discovery-traeria-mala-noticia-amantes-series-originales-1171794'>El plan con publicidad del nuevo servicio Warner Bros Discovery traería una mala noticia para los amantes de sus series originales</a></h4>
     <a href='https://computerhoy.com/streaming/plan-publicidad-nuevo-servicio-warner-bros-discovery-traeria-mala-noticia-amantes-series-originales-1171794' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/casa-dragon-1x10-2849637.jpg?tf=1200x' alt='El plan con publicidad del nuevo servicio Warner Bros Discovery traería una mala noticia para los amantes de sus series originales' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/aplicaciones/whatsapp-lanza-dos-nuevos-paquetes-calcomanias-ya-puedes-descargarlos-1171786'>WhatsApp lanza dos nuevos paquetes de calcomanías y ya puedes descargarlos</a></h4>
     <a href='https://computerhoy.com/aplicaciones/whatsapp-lanza-dos-nuevos-paquetes-calcomanias-ya-puedes-descargarlos-1171786' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/emojis-2818053.jpg?tf=1200x' alt='WhatsApp lanza dos nuevos paquetes de calcomanías y ya puedes descargarlos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/motorola-edge-30-ultra-buenas-fotos-hardware-potente-vuelta-marca-camino-correcto-1171494'>Motorola Edge 30 Ultra, buenas fotos y hardware potente para la vuelta de la marca al camino correcto</a></h4>
-    <a href='https://computerhoy.com/analisis/motorola-edge-30-ultra-buenas-fotos-hardware-potente-vuelta-marca-camino-correcto-1171494' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/motorola-edge-30-ultra-analisis-opinion-2904218.jpg?tf=1200x' alt='Motorola Edge 30 Ultra, buenas fotos y hardware potente para la vuelta de la marca al camino correcto' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-crear-personalizar-avatares-whatsapp-1169348'>Cómo crear y personalizar avatares en WhatsApp</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-crear-personalizar-avatares-whatsapp-1169348' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/whatsapp-avatar-2900152.jpg?tf=1200x' alt='Cómo crear y personalizar avatares en WhatsApp' />
     </a>
 </div>
 
