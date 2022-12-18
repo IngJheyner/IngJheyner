@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/smartwatches/cientificos-crean-reloj-inteligente-viviente-impulsado-moho-1171512'>Científicos crean un reloj inteligente viviente impulsado por moho</a></h4>
+    <a href='https://computerhoy.com/smartwatches/cientificos-crean-reloj-inteligente-viviente-impulsado-moho-1171512' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/cientificos-crean-reloj-inteligente-viviente-impulsado-moho-2904422.jpg?tf=1200x' alt='Científicos crean un reloj inteligente viviente impulsado por moho' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/hogar/como-crear-bonito-lazo-navideno-decorar-mesa-navidad-cinta-tenedor-1170986'>Cómo crear un bonito lazo navideño para decorar la mesa de Navidad con una cinta y un tenedor</a></h4>
+    <a href='https://computerhoy.com/hogar/como-crear-bonito-lazo-navideno-decorar-mesa-navidad-cinta-tenedor-1170986' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/como-crear-bonito-lazo-navideno-decorar-mesa-navidad-cinta-tenedor-2903172.jpg?tf=1200x' alt='Cómo crear un bonito lazo navideño para decorar la mesa de Navidad con una cinta y un tenedor' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/mejor-ciudad-mundo-europa-casi-ha-sido-desbancada-madrid-1171510'>La mejor ciudad del mundo está en Europa y casi ha sido desbancada por Madrid</a></h4>
     <a href='https://computerhoy.com/life/mejor-ciudad-mundo-europa-casi-ha-sido-desbancada-madrid-1171510' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/madrid-gran-2904412.jpg?tf=1200x' alt='La mejor ciudad del mundo está en Europa y casi ha sido desbancada por Madrid' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/listas/tecnologia/5-mejores-radiadores-consumo-ahorrar-factura-luz-pasar-frio-532461'>Los 5 mejores radiadores de bajo consumo para ahorrar en la factura de la luz sin pasar frío</a></h4>
     <a href='https://computerhoy.com/listas/tecnologia/5-mejores-radiadores-consumo-ahorrar-factura-luz-pasar-frio-532461' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/radiador-electrico-salon-2904440.jpg?tf=1200x' alt='Los 5 mejores radiadores de bajo consumo para ahorrar en la factura de la luz sin pasar frío' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/legislacion/2023-muchos-surcoreanos-seran-dos-anos-jovenes-1171036'>En 2023 muchos surcoreanos serán uno o dos años más jóvenes</a></h4>
-    <a href='https://computerhoy.com/legislacion/2023-muchos-surcoreanos-seran-dos-anos-jovenes-1171036' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/2023-muchos-coreanos-seran-dos-anos-jovenes-2901632.jpg?tf=1200x' alt='En 2023 muchos surcoreanos serán uno o dos años más jóvenes' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/alguien-ha-pagado-cientos-miles-dolares-apple-1-numerada-mano-steve-jobs-1171518'>Alguien ha pagado cientos de miles de dólares por una Apple-1 numerada a mano por Steve Jobs</a></h4>
-    <a href='https://computerhoy.com/apple/alguien-ha-pagado-cientos-miles-dolares-apple-1-numerada-mano-steve-jobs-1171518' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/apple-1-numerada-mano-steve-jobs-vende-cifra-astronomica-2904428.jpg?tf=1200x' alt='Alguien ha pagado cientos de miles de dólares por una Apple-1 numerada a mano por Steve Jobs' />
     </a>
 </div>
 
