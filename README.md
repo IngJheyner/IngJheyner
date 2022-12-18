@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/podrian-chatgpt-alphacode-copilot-llegar-sustituir-humanos-trabajo-1168294'>¿Podrían ChatGPT, AlphaCode o Copilot llegar a sustituir a los humanos en su trabajo?</a></h4>
+    <a href='https://computerhoy.com/tecnologia/podrian-chatgpt-alphacode-copilot-llegar-sustituir-humanos-trabajo-1168294' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/podrian-chatgpt-alphacode-copilot-sustituir-humanos-2901618.jpg?tf=1200x' alt='¿Podrían ChatGPT, AlphaCode o Copilot llegar a sustituir a los humanos en su trabajo?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/premios-computerhoy-2022-finalistas-mejor-equipo-convertible-1171822'>Vota en los Premios ComputerHoy 2022: finalistas al mejor equipo convertible</a></h4>
     <a href='https://computerhoy.com/tecnologia/premios-computerhoy-2022-finalistas-mejor-equipo-convertible-1171822' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/vota-premios-computerhoy-2021-finalistas-mejores-equipos-convertibles-2562911.jpg?tf=1200x' alt='Vota en los Premios ComputerHoy 2022: finalistas al mejor equipo convertible' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/streaming/plan-publicidad-nuevo-servicio-warner-bros-discovery-traeria-mala-noticia-amantes-series-originales-1171794'>El plan con publicidad del nuevo servicio Warner Bros Discovery traería una mala noticia para los amantes de sus series originales</a></h4>
     <a href='https://computerhoy.com/streaming/plan-publicidad-nuevo-servicio-warner-bros-discovery-traeria-mala-noticia-amantes-series-originales-1171794' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/casa-dragon-1x10-2849637.jpg?tf=1200x' alt='El plan con publicidad del nuevo servicio Warner Bros Discovery traería una mala noticia para los amantes de sus series originales' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/peliculas-protagonistas-ganan-loteria-sorteo-importante-1168870'>6 películas en las que los protagonistas ganan la lotería o un sorteo importante</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/peliculas-protagonistas-ganan-loteria-sorteo-importante-1168870' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/villaviciosa-lado-2899404.jpg?tf=1200x' alt='6 películas en las que los protagonistas ganan la lotería o un sorteo importante' />
     </a>
 </div>
 
