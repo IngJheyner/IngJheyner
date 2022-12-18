@@ -50,9 +50,9 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/notre-dame-sarcofagos-plomo-abiertos-1171846'>Bajo las ruinas del incendio de Notre-Dame hallaron dos sarcófagos de plomo: esta semana han sido abiertos</a></h4>
+    <h4><a href='https://computerhoy.com/ciencia/notre-dame-sarcofagos-plomo-abiertos-1171846'>Bajo las ruinas del incendio de Notre-Dame hallaron dos misteriosos sarcófagos de plomo: esta semana han sido abiertos</a></h4>
     <a href='https://computerhoy.com/ciencia/notre-dame-sarcofagos-plomo-abiertos-1171846' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/ruinas-incendio-notre-dame-encontraron-dos-sarcofagos-plomo-semana-han-sido-abiertos-2904786.jpg?tf=1200x' alt='Bajo las ruinas del incendio de Notre-Dame hallaron dos sarcófagos de plomo: esta semana han sido abiertos' />
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/ruinas-incendio-notre-dame-encontraron-dos-sarcofagos-plomo-semana-han-sido-abiertos-2904786.jpg?tf=1200x' alt='Bajo las ruinas del incendio de Notre-Dame hallaron dos misteriosos sarcófagos de plomo: esta semana han sido abiertos' />
     </a>
 </div>
 
