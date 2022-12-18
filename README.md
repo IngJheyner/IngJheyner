@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/analisis/review-apple-tv-4k-2022-excelente-reproductor-multimedia-podria-ser-consola-1170016'>Análisis del Apple TV 4K 2022, un excelente reproductor multimedia que podría ser una consola</a></h4>
+    <a href='https://computerhoy.com/analisis/review-apple-tv-4k-2022-excelente-reproductor-multimedia-podria-ser-consola-1170016' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/analisis-apple-tv-4k-2022-2903638.jpg?tf=1200x' alt='Análisis del Apple TV 4K 2022, un excelente reproductor multimedia que podría ser una consola' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/aplicaciones/mejores-apps-crear-postales-navidad-1165218'>Las mejores apps para crear postales de Navidad </a></h4>
+    <a href='https://computerhoy.com/aplicaciones/mejores-apps-crear-postales-navidad-1165218' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/postales-navidad-2892950.jpg?tf=1200x' alt='Las mejores apps para crear postales de Navidad ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/herramientas-sacar-mayor-rendimiento-disco-duro-ssd-windows-11-1168764'>Herramientas para sacar mayor rendimiento de nuestro disco duro o SSD en Windows 11</a></h4>
+    <a href='https://computerhoy.com/tutoriales/herramientas-sacar-mayor-rendimiento-disco-duro-ssd-windows-11-1168764' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/herramientas-disco-duro-ssd-2899126.jpg?tf=1200x' alt='Herramientas para sacar mayor rendimiento de nuestro disco duro o SSD en Windows 11' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/smartwatches/cientificos-crean-reloj-inteligente-viviente-impulsado-moho-1171512'>Científicos crean un reloj inteligente viviente impulsado por moho</a></h4>
     <a href='https://computerhoy.com/smartwatches/cientificos-crean-reloj-inteligente-viviente-impulsado-moho-1171512' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/cientificos-crean-reloj-inteligente-viviente-impulsado-moho-2904422.jpg?tf=1200x' alt='Científicos crean un reloj inteligente viviente impulsado por moho' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/hogar/como-crear-bonito-lazo-navideno-decorar-mesa-navidad-cinta-tenedor-1170986'>Cómo crear un bonito lazo navideño para decorar la mesa de Navidad con una cinta y un tenedor</a></h4>
     <a href='https://computerhoy.com/hogar/como-crear-bonito-lazo-navideno-decorar-mesa-navidad-cinta-tenedor-1170986' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/como-crear-bonito-lazo-navideno-decorar-mesa-navidad-cinta-tenedor-2903172.jpg?tf=1200x' alt='Cómo crear un bonito lazo navideño para decorar la mesa de Navidad con una cinta y un tenedor' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/mejor-ciudad-mundo-europa-casi-ha-sido-desbancada-madrid-1171510'>La mejor ciudad del mundo está en Europa y casi ha sido desbancada por Madrid</a></h4>
-    <a href='https://computerhoy.com/life/mejor-ciudad-mundo-europa-casi-ha-sido-desbancada-madrid-1171510' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/madrid-gran-2904412.jpg?tf=1200x' alt='La mejor ciudad del mundo está en Europa y casi ha sido desbancada por Madrid' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/numeros-tocan-loteria-navidad-1167234'>Los números que más tocan en la Lotería de Navidad</a></h4>
-    <a href='https://computerhoy.com/life/numeros-tocan-loteria-navidad-1167234' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/administraciones-premios-dan-todos-anos-loteria-navidad-2889504.jpg?tf=1200x' alt='Los números que más tocan en la Lotería de Navidad' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/listas/tecnologia/5-mejores-radiadores-consumo-ahorrar-factura-luz-pasar-frio-532461'>Los 5 mejores radiadores de bajo consumo para ahorrar en la factura de la luz sin pasar frío</a></h4>
-    <a href='https://computerhoy.com/listas/tecnologia/5-mejores-radiadores-consumo-ahorrar-factura-luz-pasar-frio-532461' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/radiador-electrico-salon-2904440.jpg?tf=1200x' alt='Los 5 mejores radiadores de bajo consumo para ahorrar en la factura de la luz sin pasar frío' />
     </a>
 </div>
 
