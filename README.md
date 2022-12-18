@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/analisis/motorola-edge-30-ultra-buenas-fotos-hardware-potente-vuelta-marca-camino-correcto-1171494'>Motorola Edge 30 Ultra, buenas fotos y hardware potente para la vuelta de la marca al camino correcto</a></h4>
+    <a href='https://computerhoy.com/analisis/motorola-edge-30-ultra-buenas-fotos-hardware-potente-vuelta-marca-camino-correcto-1171494' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/motorola-edge-30-ultra-analisis-opinion-2904218.jpg?tf=1200x' alt='Motorola Edge 30 Ultra, buenas fotos y hardware potente para la vuelta de la marca al camino correcto' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-crear-personalizar-avatares-whatsapp-1169348'>Cómo crear y personalizar avatares en WhatsApp</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-crear-personalizar-avatares-whatsapp-1169348' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/whatsapp-avatar-2900152.jpg?tf=1200x' alt='Cómo crear y personalizar avatares en WhatsApp' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/windows/ultima-actualizacion-windows-provoca-todos-estos-fallos-puedes-arreglarlo-1171780'>La última actualización de Windows provoca todos estos fallos, y así puedes arreglarlo</a></h4>
+    <a href='https://computerhoy.com/windows/ultima-actualizacion-windows-provoca-todos-estos-fallos-puedes-arreglarlo-1171780' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/windows-2386769.jpg?tf=1200x' alt='La última actualización de Windows provoca todos estos fallos, y así puedes arreglarlo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/adobe-photoshop-vs-photoshop-express-estas-son-diferencias-1169294'>Adobe Photoshop vs. Photoshop Express: estas son sus diferencias</a></h4>
     <a href='https://computerhoy.com/tecnologia/adobe-photoshop-vs-photoshop-express-estas-son-diferencias-1169294' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/photoshop-2899860.jpg?tf=1200x' alt='Adobe Photoshop vs. Photoshop Express: estas son sus diferencias' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/tutoriales/como-puedes-utilizar-chatgpt-tan-sorprendente-1169868'>Cómo puedes utilizar ChatGPT y por qué es tan sorprendente</a></h4>
     <a href='https://computerhoy.com/tutoriales/como-puedes-utilizar-chatgpt-tan-sorprendente-1169868' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/inteligencia-artificial-2901132.jpg?tf=1200x' alt='Cómo puedes utilizar ChatGPT y por qué es tan sorprendente' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/review-apple-tv-4k-2022-excelente-reproductor-multimedia-podria-ser-consola-1170016'>Análisis del Apple TV 4K 2022, un excelente reproductor multimedia que podría ser una consola</a></h4>
-    <a href='https://computerhoy.com/analisis/review-apple-tv-4k-2022-excelente-reproductor-multimedia-podria-ser-consola-1170016' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/analisis-apple-tv-4k-2022-2903638.jpg?tf=1200x' alt='Análisis del Apple TV 4K 2022, un excelente reproductor multimedia que podría ser una consola' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/aplicaciones/mejores-apps-crear-postales-navidad-1165218'>Las mejores apps para crear postales de Navidad </a></h4>
-    <a href='https://computerhoy.com/aplicaciones/mejores-apps-crear-postales-navidad-1165218' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/postales-navidad-2892950.jpg?tf=1200x' alt='Las mejores apps para crear postales de Navidad ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/herramientas-sacar-mayor-rendimiento-disco-duro-ssd-windows-11-1168764'>Herramientas para sacar mayor rendimiento de nuestro disco duro o SSD en Windows 11</a></h4>
-    <a href='https://computerhoy.com/tutoriales/herramientas-sacar-mayor-rendimiento-disco-duro-ssd-windows-11-1168764' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/herramientas-disco-duro-ssd-2899126.jpg?tf=1200x' alt='Herramientas para sacar mayor rendimiento de nuestro disco duro o SSD en Windows 11' />
     </a>
 </div>
 
