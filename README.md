@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/internet/solucion-problema-cloudflare-movistar-o2-1171838'>Cientos de webs no funcionan si tienes Movistar u O2: así puedes solucionarlo</a></h4>
+    <a href='https://computerhoy.com/internet/solucion-problema-cloudflare-movistar-o2-1171838' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/cientos-webs-no-funcionan-tienes-movistar-o2-puedes-solucionarlo-2904762.jpg?tf=1200x' alt='Cientos de webs no funcionan si tienes Movistar u O2: así puedes solucionarlo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/gaming/epic-games-store-juego-gratis-rebaja-navidad-1171830'>Epic Games Store está regalando un juego cada día, y el de hoy está muy bien</a></h4>
+    <a href='https://computerhoy.com/gaming/epic-games-store-juego-gratis-rebaja-navidad-1171830' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/epic-games-store-regalando-juego-cada-dia-hoy-muy-bien-2904740.jpg?tf=1200x' alt='Epic Games Store está regalando un juego cada día, y el de hoy está muy bien' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/podrian-chatgpt-alphacode-copilot-llegar-sustituir-humanos-trabajo-1168294'>¿Podrían ChatGPT, AlphaCode o Copilot llegar a sustituir a los humanos en su trabajo?</a></h4>
     <a href='https://computerhoy.com/tecnologia/podrian-chatgpt-alphacode-copilot-llegar-sustituir-humanos-trabajo-1168294' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/podrian-chatgpt-alphacode-copilot-sustituir-humanos-2901618.jpg?tf=1200x' alt='¿Podrían ChatGPT, AlphaCode o Copilot llegar a sustituir a los humanos en su trabajo?' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/ciencia/crean-robot-envuelve-regalos-navidenos-mejor-1171800'>Crean un robot que envuelve regalos navideños mejor que tú</a></h4>
     <a href='https://computerhoy.com/ciencia/crean-robot-envuelve-regalos-navidenos-mejor-1171800' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/robot-envolvera-todos-regalos-estas-navidades-2904702.jpg?tf=1200x' alt='Crean un robot que envuelve regalos navideños mejor que tú' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/razon-extraterrestres-aun-no-han-puesto-contacto-tierra-no-somos-suficientemente-inteligentes-1171798'>La razón por la que los extraterrestres aún no se han puesto en contacto con la Tierra: no somos lo suficientemente inteligentes</a></h4>
-    <a href='https://computerhoy.com/espacio/razon-extraterrestres-aun-no-han-puesto-contacto-tierra-no-somos-suficientemente-inteligentes-1171798' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/lactea-2904696.jpg?tf=1200x' alt='La razón por la que los extraterrestres aún no se han puesto en contacto con la Tierra: no somos lo suficientemente inteligentes' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/streaming/plan-publicidad-nuevo-servicio-warner-bros-discovery-traeria-mala-noticia-amantes-series-originales-1171794'>El plan con publicidad del nuevo servicio Warner Bros Discovery traería una mala noticia para los amantes de sus series originales</a></h4>
-    <a href='https://computerhoy.com/streaming/plan-publicidad-nuevo-servicio-warner-bros-discovery-traeria-mala-noticia-amantes-series-originales-1171794' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/casa-dragon-1x10-2849637.jpg?tf=1200x' alt='El plan con publicidad del nuevo servicio Warner Bros Discovery traería una mala noticia para los amantes de sus series originales' />
     </a>
 </div>
 
