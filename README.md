@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/streaming/plan-publicidad-nuevo-servicio-warner-bros-discovery-traeria-mala-noticia-amantes-series-originales-1171794'>El plan con publicidad del nuevo servicio Warner Bros Discovery traería una mala noticia para los amantes de sus series originales</a></h4>
+    <a href='https://computerhoy.com/streaming/plan-publicidad-nuevo-servicio-warner-bros-discovery-traeria-mala-noticia-amantes-series-originales-1171794' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/casa-dragon-1x10-2849637.jpg?tf=1200x' alt='El plan con publicidad del nuevo servicio Warner Bros Discovery traería una mala noticia para los amantes de sus series originales' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/entretenimiento/peliculas-protagonistas-ganan-loteria-sorteo-importante-1168870'>6 películas en las que los protagonistas ganan la lotería o un sorteo importante</a></h4>
     <a href='https://computerhoy.com/entretenimiento/peliculas-protagonistas-ganan-loteria-sorteo-importante-1168870' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/villaviciosa-lado-2899404.jpg?tf=1200x' alt='6 películas en las que los protagonistas ganan la lotería o un sorteo importante' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tutoriales/como-crear-personalizar-avatares-whatsapp-1169348'>Cómo crear y personalizar avatares en WhatsApp</a></h4>
     <a href='https://computerhoy.com/tutoriales/como-crear-personalizar-avatares-whatsapp-1169348' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/whatsapp-avatar-2900152.jpg?tf=1200x' alt='Cómo crear y personalizar avatares en WhatsApp' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/ultima-actualizacion-windows-provoca-todos-estos-fallos-puedes-arreglarlo-1171780'>La última actualización de Windows provoca todos estos fallos, y así puedes arreglarlo</a></h4>
-    <a href='https://computerhoy.com/windows/ultima-actualizacion-windows-provoca-todos-estos-fallos-puedes-arreglarlo-1171780' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/windows-2386769.jpg?tf=1200x' alt='La última actualización de Windows provoca todos estos fallos, y así puedes arreglarlo' />
     </a>
 </div>
 
