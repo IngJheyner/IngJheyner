@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/mejor-ciudad-mundo-europa-casi-ha-sido-desbancada-madrid-1171510'>La mejor ciudad del mundo está en Europa y casi ha sido desbancada por Madrid</a></h4>
+    <a href='https://computerhoy.com/life/mejor-ciudad-mundo-europa-casi-ha-sido-desbancada-madrid-1171510' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/madrid-gran-2904412.jpg?tf=1200x' alt='La mejor ciudad del mundo está en Europa y casi ha sido desbancada por Madrid' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/numeros-tocan-loteria-navidad-1167234'>Los números que más tocan en la Lotería de Navidad</a></h4>
+    <a href='https://computerhoy.com/life/numeros-tocan-loteria-navidad-1167234' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/administraciones-premios-dan-todos-anos-loteria-navidad-2889504.jpg?tf=1200x' alt='Los números que más tocan en la Lotería de Navidad' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/listas/tecnologia/5-mejores-radiadores-consumo-ahorrar-factura-luz-pasar-frio-532461'>Los 5 mejores radiadores de bajo consumo para ahorrar en la factura de la luz sin pasar frío</a></h4>
+    <a href='https://computerhoy.com/listas/tecnologia/5-mejores-radiadores-consumo-ahorrar-factura-luz-pasar-frio-532461' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/radiador-electrico-salon-2904440.jpg?tf=1200x' alt='Los 5 mejores radiadores de bajo consumo para ahorrar en la factura de la luz sin pasar frío' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/legislacion/2023-muchos-surcoreanos-seran-dos-anos-jovenes-1171036'>En 2023 muchos surcoreanos serán uno o dos años más jóvenes</a></h4>
     <a href='https://computerhoy.com/legislacion/2023-muchos-surcoreanos-seran-dos-anos-jovenes-1171036' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/2023-muchos-coreanos-seran-dos-anos-jovenes-2901632.jpg?tf=1200x' alt='En 2023 muchos surcoreanos serán uno o dos años más jóvenes' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/apple/alguien-ha-pagado-cientos-miles-dolares-apple-1-numerada-mano-steve-jobs-1171518'>Alguien ha pagado cientos de miles de dólares por una Apple-1 numerada a mano por Steve Jobs</a></h4>
     <a href='https://computerhoy.com/apple/alguien-ha-pagado-cientos-miles-dolares-apple-1-numerada-mano-steve-jobs-1171518' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/apple-1-numerada-mano-steve-jobs-vende-cifra-astronomica-2904428.jpg?tf=1200x' alt='Alguien ha pagado cientos de miles de dólares por una Apple-1 numerada a mano por Steve Jobs' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/criptos/startup-paises-bajos-utiliza-mineria-bitcoin-cultivar-tulipanes-1171500'>Una startup de Países Bajos utiliza la minería de Bitcoin para cultivar tulipanes</a></h4>
-    <a href='https://computerhoy.com/criptos/startup-paises-bajos-utiliza-mineria-bitcoin-cultivar-tulipanes-1171500' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/tulipanes-bitcoin-2904270.jpg?tf=1200x' alt='Una startup de Países Bajos utiliza la minería de Bitcoin para cultivar tulipanes' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/27-pulgadas-tamano-perfecto-monitor-tanto-trabajar-como-jugar-1169396'>Por qué 27 pulgadas es el tamaño perfecto de monitor tanto para trabajar como para jugar</a></h4>
-    <a href='https://computerhoy.com/tecnologia/27-pulgadas-tamano-perfecto-monitor-tanto-trabajar-como-jugar-1169396' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/monitor-27-pulgadas-2900276.jpg?tf=1200x' alt='Por qué 27 pulgadas es el tamaño perfecto de monitor tanto para trabajar como para jugar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/fabrican-robot-puede-autocurarse-solo-minuto-despues-detectar-dano-1171496'>Fabrican un robot que puede autocurarse en solo un minuto después de detectar daño</a></h4>
-    <a href='https://computerhoy.com/ciencia/fabrican-robot-puede-autocurarse-solo-minuto-despues-detectar-dano-1171496' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/crean-robot-puede-curarse-mismo-minuto-despues-sufrir-dano-2904266.jpg?tf=1200x' alt='Fabrican un robot que puede autocurarse en solo un minuto después de detectar daño' />
     </a>
 </div>
 
