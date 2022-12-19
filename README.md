@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/patrocinado/regala-tecnologia-navidad-mano-computer-hoy-lg-descubre-primer-live-shopping-1169906'>Regala tecnología esta Navidad de la mano de Computer Hoy y LG. ¡Descubre nuestro primer Live Shopping!</a></h4>
+    <a href='https://computerhoy.com/patrocinado/regala-tecnologia-navidad-mano-computer-hoy-lg-descubre-primer-live-shopping-1169906' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/live-shopping-2902140.jpg?tf=1200x' alt='Regala tecnología esta Navidad de la mano de Computer Hoy y LG. ¡Descubre nuestro primer Live Shopping!' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/google/no-vas-creer-buscado-tiempo-real-durante-25-anos-vida-google-1172192'>No vas a creer lo más buscado en tiempo real durante los 25 años de vida de Google</a></h4>
     <a href='https://computerhoy.com/google/no-vas-creer-buscado-tiempo-real-durante-25-anos-vida-google-1172192' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/google-2654739.jpg?tf=1200x' alt='No vas a creer lo más buscado en tiempo real durante los 25 años de vida de Google' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/android/android-auto-86-ya-disponible-todos-estas-son-novedades-1172122'>Android Auto 8.6 ya está disponible para todos y estas son sus novedades</a></h4>
     <a href='https://computerhoy.com/android/android-auto-86-ya-disponible-todos-estas-son-novedades-1172122' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/android-auto-2700725.jpg?tf=1200x' alt='Android Auto 8.6 ya está disponible para todos y estas son sus novedades' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/mejores-ofertas-dia-sin-iva-mediamarkt-1172076'>Tienes menos de 24 horas para conseguir estas ofertas del Día sin IVA de MediaMarkt</a></h4>
-    <a href='https://computerhoy.com/tecnologia/mejores-ofertas-dia-sin-iva-mediamarkt-1172076' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/portatil-portada-dia-iva-mediamarkt-2905266.jpg?tf=1200x' alt='Tienes menos de 24 horas para conseguir estas ofertas del Día sin IVA de MediaMarkt' />
     </a>
 </div>
 
