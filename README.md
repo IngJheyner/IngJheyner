@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/moviles/xiaomi-11t-pro-movil-premium-solo-388-euros-cupon-descuento-1172354'>Xiaomi 11T Pro, un móvil premium por solo 388 euros usando un cupón</a></h4>
+    <a href='https://computerhoy.com/moviles/xiaomi-11t-pro-movil-premium-solo-388-euros-cupon-descuento-1172354' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/galeria-review-xiaomi-11t-pro-2495815.jpg?tf=1200x' alt='Xiaomi 11T Pro, un móvil premium por solo 388 euros usando un cupón' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/acabo-eliminar-mensaje-error-nueva-funcionalidad-whatsapp-1172314'>Se acabó eliminar un mensaje por error: así es la nueva funcionalidad de WhatsApp</a></h4>
+    <a href='https://computerhoy.com/apps/acabo-eliminar-mensaje-error-nueva-funcionalidad-whatsapp-1172314' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/whatsapp-2870685.jpg?tf=1200x' alt='Se acabó eliminar un mensaje por error: así es la nueva funcionalidad de WhatsApp' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/android/actualizacion-android-auto-debes-evitar-ahora-mismo-1172344'>La actualización de Android Auto que debes evitar ahora mismo</a></h4>
     <a href='https://computerhoy.com/android/actualizacion-android-auto-debes-evitar-ahora-mismo-1172344' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/android-auto-coolwalk-2870273.jpg?tf=1200x' alt='La actualización de Android Auto que debes evitar ahora mismo' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/entretenimiento/juego-tronos-censura-britanica-1172338'>Juego de Tronos choca contra la fuerte censura británica</a></h4>
     <a href='https://computerhoy.com/entretenimiento/juego-tronos-censura-britanica-1172338' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/05/juego-tronos-8x04_20.jpg?tf=1200x' alt='Juego de Tronos choca contra la fuerte censura británica' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/gaming/epic-acepta-pagar-520-millones-dolares-violar-privacidad-menores-fornite-forzar-micropagos-1172296'>Epic acepta pagar 520 millones de dólares por violar la privacidad de los menores en Fornite y forzar los micropagos</a></h4>
-    <a href='https://computerhoy.com/gaming/epic-acepta-pagar-520-millones-dolares-violar-privacidad-menores-fornite-forzar-micropagos-1172296' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/fortnite-epic-games-2895106.jpg?tf=1200x' alt='Epic acepta pagar 520 millones de dólares por violar la privacidad de los menores en Fornite y forzar los micropagos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/vota-premios-computerhoy-2022-finalistas-mejor-smartphone-gama-top-1172130'>Vota en los Premios ComputerHoy 2022: finalistas al mejor smartphone gama top</a></h4>
-    <a href='https://computerhoy.com/tecnologia/vota-premios-computerhoy-2022-finalistas-mejor-smartphone-gama-top-1172130' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/vota-premios-computerhoy-2021-finalistas-mejores-smartphones-gama-alta-2566005.jpg?tf=1200x' alt='Vota en los Premios ComputerHoy 2022: finalistas al mejor smartphone gama top' />
     </a>
 </div>
 
