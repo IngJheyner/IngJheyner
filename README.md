@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/android/oneplus-11-ya-tiene-fecha-lanzamiento-oficial-todo-sabemos-1172246'>El OnePlus 11 ya tiene fecha de lanzamiento oficial: esto es todo lo que sabemos</a></h4>
+    <a href='https://computerhoy.com/android/oneplus-11-ya-tiene-fecha-lanzamiento-oficial-todo-sabemos-1172246' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/filtra-diseno-oneplus-11-pro-dejando-ver-regreso-alert-slider-2811183.jpg?tf=1200x' alt='El OnePlus 11 ya tiene fecha de lanzamiento oficial: esto es todo lo que sabemos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/patrocinado/regala-tecnologia-navidad-mano-computer-hoy-lg-descubre-primer-live-shopping-1169906'>Regala tecnología esta Navidad de la mano de Computer Hoy y LG. ¡Descubre nuestro primer Live Shopping!</a></h4>
     <a href='https://computerhoy.com/patrocinado/regala-tecnologia-navidad-mano-computer-hoy-lg-descubre-primer-live-shopping-1169906' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/live-shopping-2902140.jpg?tf=1200x' alt='Regala tecnología esta Navidad de la mano de Computer Hoy y LG. ¡Descubre nuestro primer Live Shopping!' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/espacio/mision-armagedon-nasa-fue-exito-dart-sustituye-bruce-willis-1172190'>La misión Armagedón de la NASA fue un éxito: DART sustituye a Bruce Willis</a></h4>
     <a href='https://computerhoy.com/espacio/mision-armagedon-nasa-fue-exito-dart-sustituye-bruce-willis-1172190' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/puedes-ver-hoy-como-satelite-dart-nasa-impacta-asteroride-podra-desviarlo-2825109.jpg?tf=1200x' alt='La misión Armagedón de la NASA fue un éxito: DART sustituye a Bruce Willis' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/android/android-auto-86-ya-disponible-todos-estas-son-novedades-1172122'>Android Auto 8.6 ya está disponible para todos y estas son sus novedades</a></h4>
-    <a href='https://computerhoy.com/android/android-auto-86-ya-disponible-todos-estas-son-novedades-1172122' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/android-auto-2700725.jpg?tf=1200x' alt='Android Auto 8.6 ya está disponible para todos y estas son sus novedades' />
     </a>
 </div>
 
