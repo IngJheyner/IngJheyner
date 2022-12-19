@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/36-noticias-tecnologia-comenzar-manana-informado-ultimo-1172028'>36 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
+    <a href='https://computerhoy.com/tecnologia/36-noticias-tecnologia-comenzar-manana-informado-ultimo-1172028' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/36-noticias-tecnologia-comenzar-manana-informado-ultimo-2905050.jpg?tf=1200x' alt='36 noticias de tecnología para comenzar la mañana informado de lo último' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/navidad-2022-ideas-reaglos-20-euros-1164842'>Navidad 2022: ideas de regalos tecnológicos perfectos y por menos de 20 euros</a></h4>
+    <a href='https://computerhoy.com/tecnologia/navidad-2022-ideas-reaglos-20-euros-1164842' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/regalos-navidad-2898350.jpg?tf=1200x' alt='Navidad 2022: ideas de regalos tecnológicos perfectos y por menos de 20 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/redes-sociales/twitter-prohibe-promocionar-redes-sociales-facebook-instagram-1171850'>Twitter prohíbe promocionar todas estas redes sociales, incluyendo Facebook e Instagram</a></h4>
     <a href='https://computerhoy.com/redes-sociales/twitter-prohibe-promocionar-redes-sociales-facebook-instagram-1171850' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/twitter-prohibe-cuentas-promocionen-todas-estas-redes-sociales-incluyendo-facebook-instagram-2904872.jpg?tf=1200x' alt='Twitter prohíbe promocionar todas estas redes sociales, incluyendo Facebook e Instagram' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/analisis/jbl-tour-pro-2-review-opinion-1171528'>JBL Tour Pro 2, ¿cómo de interesante es una pantalla en unos auriculares TWS?</a></h4>
     <a href='https://computerhoy.com/analisis/jbl-tour-pro-2-review-opinion-1171528' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/jbl-tour-pro-2-2904764.jpg?tf=1200x' alt='JBL Tour Pro 2, ¿cómo de interesante es una pantalla en unos auriculares TWS?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/solucion-problema-cloudflare-movistar-o2-1171838'>Cientos de webs no funcionan si tienes Movistar u O2: así puedes solucionarlo</a></h4>
-    <a href='https://computerhoy.com/internet/solucion-problema-cloudflare-movistar-o2-1171838' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/cientos-webs-no-funcionan-tienes-movistar-o2-puedes-solucionarlo-2904762.jpg?tf=1200x' alt='Cientos de webs no funcionan si tienes Movistar u O2: así puedes solucionarlo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/gaming/epic-games-store-juego-gratis-rebaja-navidad-1171830'>Epic Games Store está regalando un juego cada día, y el de hoy está muy bien</a></h4>
-    <a href='https://computerhoy.com/gaming/epic-games-store-juego-gratis-rebaja-navidad-1171830' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/epic-games-store-regalando-juego-cada-dia-hoy-muy-bien-2904740.jpg?tf=1200x' alt='Epic Games Store está regalando un juego cada día, y el de hoy está muy bien' />
     </a>
 </div>
 
