@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/software/estas-son-11-mejores-extensiones-chrome-2022-google-1170502'>Estas son las 11 mejores extensiones para Chrome de 2022 según Google</a></h4>
-    <a href='https://computerhoy.com/software/estas-son-11-mejores-extensiones-chrome-2022-google-1170502' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/estas-son-x-mejores-extensiones-chrome-2022-google-2902808.jpg?tf=1200x' alt='Estas son las 11 mejores extensiones para Chrome de 2022 según Google' />
+    <h4><a href='https://computerhoy.com/patrocinado/taurus-mycook-next-mejor-regalo-estas-navidades-artistas-cocina-1170032'>Taurus Mycook Next: el mejor regalo estas navidades para los artistas de la cocina</a></h4>
+    <a href='https://computerhoy.com/patrocinado/taurus-mycook-next-mejor-regalo-estas-navidades-artistas-cocina-1170032' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/taurus-mycook-next-2902604.jpg?tf=1200x' alt='Taurus Mycook Next: el mejor regalo estas navidades para los artistas de la cocina' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/reconocen-camaras-ia-objetos-personas-1169310'>Así reconocen las cámaras con IA a los objetos y personas</a></h4>
-    <a href='https://computerhoy.com/tecnologia/reconocen-camaras-ia-objetos-personas-1169310' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/reconocen-objetos-personas-camaras-ia-2900236.jpg?tf=1200x' alt='Así reconocen las cámaras con IA a los objetos y personas' />
+    <h4><a href='https://computerhoy.com/patrocinado/cuatro-portatiles-potenciados-nvida-geforce-rtx-serie-30-son-perfectos-trabajar-estudiar-1170446'>Cuatro portátiles potenciados por Nvida GeForce RTX serie 30 que son perfectos para trabajar o estudiar</a></h4>
+    <a href='https://computerhoy.com/patrocinado/cuatro-portatiles-potenciados-nvida-geforce-rtx-serie-30-son-perfectos-trabajar-estudiar-1170446' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/portatiles-nvidia-rtx-30-2903300.jpg?tf=1200x' alt='Cuatro portátiles potenciados por Nvida GeForce RTX serie 30 que son perfectos para trabajar o estudiar' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/36-noticias-tecnologia-comenzar-manana-informado-ultimo-1172028'>36 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
-    <a href='https://computerhoy.com/tecnologia/36-noticias-tecnologia-comenzar-manana-informado-ultimo-1172028' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/36-noticias-tecnologia-comenzar-manana-informado-ultimo-2905050.jpg?tf=1200x' alt='36 noticias de tecnología para comenzar la mañana informado de lo último' />
+    <h4><a href='https://computerhoy.com/aplicaciones/apps-navidad-crear-felicitaciones-originales-diferentes-551199'>10 apps de Navidad para crear felicitaciones originales diferentes a las de todo el mundo</a></h4>
+    <a href='https://computerhoy.com/aplicaciones/apps-navidad-crear-felicitaciones-originales-diferentes-551199' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/10-apps-navidad-crear-felicitaciones-originales-diferentes-todo-mundo-2894578.jpg?tf=1200x' alt='10 apps de Navidad para crear felicitaciones originales diferentes a las de todo el mundo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/navidad-2022-ideas-reaglos-20-euros-1164842'>Navidad 2022: ideas de regalos tecnológicos perfectos y por menos de 20 euros</a></h4>
-    <a href='https://computerhoy.com/tecnologia/navidad-2022-ideas-reaglos-20-euros-1164842' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/regalos-navidad-2898350.jpg?tf=1200x' alt='Navidad 2022: ideas de regalos tecnológicos perfectos y por menos de 20 euros' />
+    <h4><a href='https://computerhoy.com/apple/todas-veces-apple-nos-ha-sorprendido-2022-1170540'>Todas las veces que Apple nos ha sorprendido este 2022</a></h4>
+    <a href='https://computerhoy.com/apple/todas-veces-apple-nos-ha-sorprendido-2022-1170540' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/ilustracion-logo-apple-2800089.jpg?tf=1200x' alt='Todas las veces que Apple nos ha sorprendido este 2022' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/redes-sociales/twitter-prohibe-promocionar-redes-sociales-facebook-instagram-1171850'>Twitter prohíbe promocionar todas estas redes sociales, incluyendo Facebook e Instagram</a></h4>
-    <a href='https://computerhoy.com/redes-sociales/twitter-prohibe-promocionar-redes-sociales-facebook-instagram-1171850' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/twitter-prohibe-cuentas-promocionen-todas-estas-redes-sociales-incluyendo-facebook-instagram-2904872.jpg?tf=1200x' alt='Twitter prohíbe promocionar todas estas redes sociales, incluyendo Facebook e Instagram' />
+    <h4><a href='https://computerhoy.com/life/numeros-menos-tocan-loteria-navidad-1167432'>Los números que menos tocan en la Lotería de Navidad</a></h4>
+    <a href='https://computerhoy.com/life/numeros-menos-tocan-loteria-navidad-1167432' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/loteria-navidad-2886294.jpg?tf=1200x' alt='Los números que menos tocan en la Lotería de Navidad' />
     </a>
 </div>
 
