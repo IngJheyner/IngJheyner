@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/software/estas-son-11-mejores-extensiones-chrome-2022-google-1170502'>Estas son las 11 mejores extensiones para Chrome de 2022 según Google</a></h4>
+    <a href='https://computerhoy.com/software/estas-son-11-mejores-extensiones-chrome-2022-google-1170502' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/estas-son-x-mejores-extensiones-chrome-2022-google-2902808.jpg?tf=1200x' alt='Estas son las 11 mejores extensiones para Chrome de 2022 según Google' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/reconocen-camaras-ia-objetos-personas-1169310'>Así reconocen las cámaras con IA a los objetos y personas</a></h4>
+    <a href='https://computerhoy.com/tecnologia/reconocen-camaras-ia-objetos-personas-1169310' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/reconocen-objetos-personas-camaras-ia-2900236.jpg?tf=1200x' alt='Así reconocen las cámaras con IA a los objetos y personas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/36-noticias-tecnologia-comenzar-manana-informado-ultimo-1172028'>36 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
     <a href='https://computerhoy.com/tecnologia/36-noticias-tecnologia-comenzar-manana-informado-ultimo-1172028' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/36-noticias-tecnologia-comenzar-manana-informado-ultimo-2905050.jpg?tf=1200x' alt='36 noticias de tecnología para comenzar la mañana informado de lo último' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/redes-sociales/twitter-prohibe-promocionar-redes-sociales-facebook-instagram-1171850'>Twitter prohíbe promocionar todas estas redes sociales, incluyendo Facebook e Instagram</a></h4>
     <a href='https://computerhoy.com/redes-sociales/twitter-prohibe-promocionar-redes-sociales-facebook-instagram-1171850' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/twitter-prohibe-cuentas-promocionen-todas-estas-redes-sociales-incluyendo-facebook-instagram-2904872.jpg?tf=1200x' alt='Twitter prohíbe promocionar todas estas redes sociales, incluyendo Facebook e Instagram' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/notre-dame-sarcofagos-plomo-abiertos-1171846'>Bajo las ruinas del incendio de Notre-Dame hallaron dos misteriosos sarcófagos de plomo: esta semana han sido abiertos</a></h4>
-    <a href='https://computerhoy.com/ciencia/notre-dame-sarcofagos-plomo-abiertos-1171846' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/ruinas-incendio-notre-dame-encontraron-dos-sarcofagos-plomo-semana-han-sido-abiertos-2904786.jpg?tf=1200x' alt='Bajo las ruinas del incendio de Notre-Dame hallaron dos misteriosos sarcófagos de plomo: esta semana han sido abiertos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/jbl-tour-pro-2-review-opinion-1171528'>JBL Tour Pro 2, ¿cómo de interesante es una pantalla en unos auriculares TWS?</a></h4>
-    <a href='https://computerhoy.com/analisis/jbl-tour-pro-2-review-opinion-1171528' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/jbl-tour-pro-2-2904764.jpg?tf=1200x' alt='JBL Tour Pro 2, ¿cómo de interesante es una pantalla en unos auriculares TWS?' />
     </a>
 </div>
 
