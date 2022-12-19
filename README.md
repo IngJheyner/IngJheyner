@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/mejores-ofertas-dia-sin-iva-mediamarkt-1172076'>Tienes menos de 24 horas para conseguir estas ofertas del Día sin IVA de MediaMarkt</a></h4>
+    <a href='https://computerhoy.com/tecnologia/mejores-ofertas-dia-sin-iva-mediamarkt-1172076' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/portatil-portada-dia-iva-mediamarkt-2905266.jpg?tf=1200x' alt='Tienes menos de 24 horas para conseguir estas ofertas del Día sin IVA de MediaMarkt' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/google/google-consigue-imposible-entender-letra-medicos-1172112'>Google consigue lo imposible: entender la letra de los médicos</a></h4>
+    <a href='https://computerhoy.com/google/google-consigue-imposible-entender-letra-medicos-1172112' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/06/robot-medico-doctor.jpg?tf=1200x' alt='Google consigue lo imposible: entender la letra de los médicos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/espacio/construir-ciudades-asteroides-cientificos-afirman-podria-ser-viable-1172082'>Construir ciudades en asteroides: los científicos afirman que podría ser viable</a></h4>
+    <a href='https://computerhoy.com/espacio/construir-ciudades-asteroides-cientificos-afirman-podria-ser-viable-1172082' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/construir-ciudades-asteroides-cientificos-afirman-podria-ser-viable-2905234.jpg?tf=1200x' alt='Construir ciudades en asteroides: los científicos afirman que podría ser viable' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/vota-premios-computerhoy-2022-finalistas-mejor-equipo-gaming-1172034'>Vota en los Premios ComputerHoy 2022: finalistas al mejor equipo gaming</a></h4>
+    <a href='https://computerhoy.com/tecnologia/vota-premios-computerhoy-2022-finalistas-mejor-equipo-gaming-1172034' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/01/vota-premios-computerhoy-2020-finalistas-mejor-equipo-gaming-2189101.jpg?tf=1200x' alt='Vota en los Premios ComputerHoy 2022: finalistas al mejor equipo gaming' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/redes-sociales/elon-musk-lia-twitter-encuesta-decir-futuro-como-ceo-1172086'>Elon Musk la lía en Twitter: una encuesta para decidir su futuro como CEO</a></h4>
     <a href='https://computerhoy.com/redes-sociales/elon-musk-lia-twitter-encuesta-decir-futuro-como-ceo-1172086' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/twitter-elon-musk-2863723.jpg?tf=1200x' alt='Elon Musk la lía en Twitter: una encuesta para decidir su futuro como CEO' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/cosa-serie-miercoles-netflix-humana-mano-robotizada-1172060'>Cosa de la serie Miércoles de Netflix, ¿humana o mano robotizada?</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/cosa-serie-miercoles-netflix-humana-mano-robotizada-1172060' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/cosa-serie-miercoles-netflix-humana-mano-robotizada-2905088.jpg?tf=1200x' alt='Cosa de la serie Miércoles de Netflix, ¿humana o mano robotizada?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/patrocinado/taurus-mycook-next-mejor-regalo-estas-navidades-artistas-cocina-1170032'>Taurus Mycook Next: el mejor regalo estas navidades para los artistas de la cocina</a></h4>
-    <a href='https://computerhoy.com/patrocinado/taurus-mycook-next-mejor-regalo-estas-navidades-artistas-cocina-1170032' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/taurus-mycook-next-2902604.jpg?tf=1200x' alt='Taurus Mycook Next: el mejor regalo estas navidades para los artistas de la cocina' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/patrocinado/cuatro-portatiles-potenciados-nvida-geforce-rtx-serie-30-son-perfectos-trabajar-estudiar-1170446'>Cuatro portátiles potenciados por NVIDIA GeForce RTX serie 30 que son perfectos para trabajar o estudiar</a></h4>
-    <a href='https://computerhoy.com/patrocinado/cuatro-portatiles-potenciados-nvida-geforce-rtx-serie-30-son-perfectos-trabajar-estudiar-1170446' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/portatiles-nvidia-rtx-30-2903300.jpg?tf=1200x' alt='Cuatro portátiles potenciados por NVIDIA GeForce RTX serie 30 que son perfectos para trabajar o estudiar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/aplicaciones/apps-navidad-crear-felicitaciones-originales-diferentes-551199'>10 apps de Navidad para crear felicitaciones originales diferentes a las de todo el mundo</a></h4>
-    <a href='https://computerhoy.com/aplicaciones/apps-navidad-crear-felicitaciones-originales-diferentes-551199' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/10-apps-navidad-crear-felicitaciones-originales-diferentes-todo-mundo-2894578.jpg?tf=1200x' alt='10 apps de Navidad para crear felicitaciones originales diferentes a las de todo el mundo' />
     </a>
 </div>
 
