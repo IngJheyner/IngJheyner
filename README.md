@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/vota-premios-computerhoy-2022-finalistas-mejor-smartphone-gama-top-1172130'>Vota en los Premios ComputerHoy 2022: finalistas al mejor smartphone gama top</a></h4>
+    <a href='https://computerhoy.com/tecnologia/vota-premios-computerhoy-2022-finalistas-mejor-smartphone-gama-top-1172130' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/vota-premios-computerhoy-2021-finalistas-mejores-smartphones-gama-alta-2566005.jpg?tf=1200x' alt='Vota en los Premios ComputerHoy 2022: finalistas al mejor smartphone gama top' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/moviles/ofertas-llegan-antes-navidad-1172240'>Móviles en oferta que sí llegarán antes de Navidad</a></h4>
+    <a href='https://computerhoy.com/moviles/ofertas-llegan-antes-navidad-1172240' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/samsung-galaxy-s22-analisis-opinion-2627229.jpg?tf=1200x' alt='Móviles en oferta que sí llegarán antes de Navidad' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/android/puedes-ver-fecha-empezaste-seguir-alguien-instagram-1172268'>Así puedes ver la fecha en la que empezaste a seguir a alguien en Instagram</a></h4>
+    <a href='https://computerhoy.com/android/puedes-ver-fecha-empezaste-seguir-alguien-instagram-1172268' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/estas-dos-sencillas-formas-te-permitiran-stalkear-contenido-instagram-perfil-iniciar-sesion-2892606.jpg?tf=1200x' alt='Así puedes ver la fecha en la que empezaste a seguir a alguien en Instagram' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/android/oneplus-11-ya-tiene-fecha-lanzamiento-oficial-todo-sabemos-1172246'>El OnePlus 11 ya tiene fecha de lanzamiento oficial: esto es todo lo que sabemos</a></h4>
     <a href='https://computerhoy.com/android/oneplus-11-ya-tiene-fecha-lanzamiento-oficial-todo-sabemos-1172246' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/filtra-diseno-oneplus-11-pro-dejando-ver-regreso-alert-slider-2811183.jpg?tf=1200x' alt='El OnePlus 11 ya tiene fecha de lanzamiento oficial: esto es todo lo que sabemos' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/patrocinado/regala-tecnologia-navidad-mano-computer-hoy-lg-descubre-primer-live-shopping-1169906'>Regala tecnología esta Navidad de la mano de Computer Hoy y LG. ¡Descubre nuestro primer Live Shopping!</a></h4>
     <a href='https://computerhoy.com/patrocinado/regala-tecnologia-navidad-mano-computer-hoy-lg-descubre-primer-live-shopping-1169906' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/live-shopping-2902140.jpg?tf=1200x' alt='Regala tecnología esta Navidad de la mano de Computer Hoy y LG. ¡Descubre nuestro primer Live Shopping!' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/no-vas-creer-buscado-tiempo-real-durante-25-anos-vida-google-1172192'>No vas a creer lo más buscado en tiempo real durante los 25 años de vida de Google</a></h4>
-    <a href='https://computerhoy.com/google/no-vas-creer-buscado-tiempo-real-durante-25-anos-vida-google-1172192' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/google-2654739.jpg?tf=1200x' alt='No vas a creer lo más buscado en tiempo real durante los 25 años de vida de Google' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/funciona-nuevo-boton-chrome-comprar-barato-movil-android-1172172'>El nuevo botón de Chrome para hacer un seguimiento de los precios ya está disponible para Android</a></h4>
-    <a href='https://computerhoy.com/google/funciona-nuevo-boton-chrome-comprar-barato-movil-android-1172172' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/funciona-nuevo-boton-chrome-comprar-barato-movil-android-2905532.jpg?tf=1200x' alt='El nuevo botón de Chrome para hacer un seguimiento de los precios ya está disponible para Android' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/mision-armagedon-nasa-fue-exito-dart-sustituye-bruce-willis-1172190'>La misión Armagedón de la NASA fue un éxito: DART sustituye a Bruce Willis</a></h4>
-    <a href='https://computerhoy.com/espacio/mision-armagedon-nasa-fue-exito-dart-sustituye-bruce-willis-1172190' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/puedes-ver-hoy-como-satelite-dart-nasa-impacta-asteroride-podra-desviarlo-2825109.jpg?tf=1200x' alt='La misión Armagedón de la NASA fue un éxito: DART sustituye a Bruce Willis' />
     </a>
 </div>
 
