@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/windows/android-13-en-windows-11-1172368'>Android 13 llega a Windows 11, antes que a muchos móviles</a></h4>
+    <a href='https://computerhoy.com/windows/android-13-en-windows-11-1172368' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/android-13-llega-windows-11-antes-muchos-moviles-2905926.jpg?tf=1200x' alt='Android 13 llega a Windows 11, antes que a muchos móviles' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/moviles/xiaomi-11t-pro-movil-premium-solo-388-euros-cupon-descuento-1172354'>Xiaomi 11T Pro, un móvil premium por solo 388 euros usando un cupón</a></h4>
     <a href='https://computerhoy.com/moviles/xiaomi-11t-pro-movil-premium-solo-388-euros-cupon-descuento-1172354' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/galeria-review-xiaomi-11t-pro-2495815.jpg?tf=1200x' alt='Xiaomi 11T Pro, un móvil premium por solo 388 euros usando un cupón' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/internet/lugar-casa-jamas-debes-situar-router-wifi-1172342'>En este lugar de tu casa jamás debes situar el router WiFi</a></h4>
     <a href='https://computerhoy.com/internet/lugar-casa-jamas-debes-situar-router-wifi-1172342' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/router-2905910.jpg?tf=1200x' alt='En este lugar de tu casa jamás debes situar el router WiFi' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/juego-tronos-censura-britanica-1172338'>Juego de Tronos choca contra la fuerte censura británica</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/juego-tronos-censura-britanica-1172338' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/05/juego-tronos-8x04_20.jpg?tf=1200x' alt='Juego de Tronos choca contra la fuerte censura británica' />
     </a>
 </div>
 
