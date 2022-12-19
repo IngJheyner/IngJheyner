@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/android/android-auto-86-ya-disponible-todos-estas-son-novedades-1172122'>Android Auto 8.6 ya está disponible para todos y estas son sus novedades</a></h4>
+    <a href='https://computerhoy.com/android/android-auto-86-ya-disponible-todos-estas-son-novedades-1172122' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/android-auto-2700725.jpg?tf=1200x' alt='Android Auto 8.6 ya está disponible para todos y estas son sus novedades' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/mejores-ofertas-dia-sin-iva-mediamarkt-1172076'>Tienes menos de 24 horas para conseguir estas ofertas del Día sin IVA de MediaMarkt</a></h4>
     <a href='https://computerhoy.com/tecnologia/mejores-ofertas-dia-sin-iva-mediamarkt-1172076' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/portatil-portada-dia-iva-mediamarkt-2905266.jpg?tf=1200x' alt='Tienes menos de 24 horas para conseguir estas ofertas del Día sin IVA de MediaMarkt' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/vota-premios-computerhoy-2022-finalistas-mejor-equipo-gaming-1172034'>Vota en los Premios ComputerHoy 2022: finalistas al mejor equipo gaming</a></h4>
     <a href='https://computerhoy.com/tecnologia/vota-premios-computerhoy-2022-finalistas-mejor-equipo-gaming-1172034' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/01/vota-premios-computerhoy-2020-finalistas-mejor-equipo-gaming-2189101.jpg?tf=1200x' alt='Vota en los Premios ComputerHoy 2022: finalistas al mejor equipo gaming' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/redes-sociales/elon-musk-lia-twitter-encuesta-decir-futuro-como-ceo-1172086'>Elon Musk la lía en Twitter: una encuesta para decidir su futuro como CEO</a></h4>
-    <a href='https://computerhoy.com/redes-sociales/elon-musk-lia-twitter-encuesta-decir-futuro-como-ceo-1172086' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/twitter-elon-musk-2863723.jpg?tf=1200x' alt='Elon Musk la lía en Twitter: una encuesta para decidir su futuro como CEO' />
     </a>
 </div>
 
