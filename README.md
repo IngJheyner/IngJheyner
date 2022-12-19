@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/redes-sociales/elon-musk-lia-twitter-encuesta-decir-futuro-como-ceo-1172086'>Elon Musk la lía en Twitter: una encuesta para decidir su futuro como CEO</a></h4>
+    <a href='https://computerhoy.com/redes-sociales/elon-musk-lia-twitter-encuesta-decir-futuro-como-ceo-1172086' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/twitter-elon-musk-2863723.jpg?tf=1200x' alt='Elon Musk la lía en Twitter: una encuesta para decidir su futuro como CEO' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/cosa-serie-miercoles-netflix-humana-mano-robotizada-1172060'>Cosa de la serie Miércoles de Netflix, ¿humana o mano robotizada?</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/cosa-serie-miercoles-netflix-humana-mano-robotizada-1172060' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/cosa-serie-miercoles-netflix-humana-mano-robotizada-2905088.jpg?tf=1200x' alt='Cosa de la serie Miércoles de Netflix, ¿humana o mano robotizada?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/patrocinado/taurus-mycook-next-mejor-regalo-estas-navidades-artistas-cocina-1170032'>Taurus Mycook Next: el mejor regalo estas navidades para los artistas de la cocina</a></h4>
     <a href='https://computerhoy.com/patrocinado/taurus-mycook-next-mejor-regalo-estas-navidades-artistas-cocina-1170032' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/taurus-mycook-next-2902604.jpg?tf=1200x' alt='Taurus Mycook Next: el mejor regalo estas navidades para los artistas de la cocina' />
@@ -58,9 +74,9 @@
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/patrocinado/cuatro-portatiles-potenciados-nvida-geforce-rtx-serie-30-son-perfectos-trabajar-estudiar-1170446'>Cuatro portátiles potenciados por Nvida GeForce RTX serie 30 que son perfectos para trabajar o estudiar</a></h4>
+    <h4><a href='https://computerhoy.com/patrocinado/cuatro-portatiles-potenciados-nvida-geforce-rtx-serie-30-son-perfectos-trabajar-estudiar-1170446'>Cuatro portátiles potenciados por NVIDIA GeForce RTX serie 30 que son perfectos para trabajar o estudiar</a></h4>
     <a href='https://computerhoy.com/patrocinado/cuatro-portatiles-potenciados-nvida-geforce-rtx-serie-30-son-perfectos-trabajar-estudiar-1170446' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/portatiles-nvidia-rtx-30-2903300.jpg?tf=1200x' alt='Cuatro portátiles potenciados por Nvida GeForce RTX serie 30 que son perfectos para trabajar o estudiar' />
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/portatiles-nvidia-rtx-30-2903300.jpg?tf=1200x' alt='Cuatro portátiles potenciados por NVIDIA GeForce RTX serie 30 que son perfectos para trabajar o estudiar' />
     </a>
 </div>
 
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/aplicaciones/apps-navidad-crear-felicitaciones-originales-diferentes-551199'>10 apps de Navidad para crear felicitaciones originales diferentes a las de todo el mundo</a></h4>
     <a href='https://computerhoy.com/aplicaciones/apps-navidad-crear-felicitaciones-originales-diferentes-551199' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/10-apps-navidad-crear-felicitaciones-originales-diferentes-todo-mundo-2894578.jpg?tf=1200x' alt='10 apps de Navidad para crear felicitaciones originales diferentes a las de todo el mundo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/todas-veces-apple-nos-ha-sorprendido-2022-1170540'>Todas las veces que Apple nos ha sorprendido este 2022</a></h4>
-    <a href='https://computerhoy.com/apple/todas-veces-apple-nos-ha-sorprendido-2022-1170540' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/ilustracion-logo-apple-2800089.jpg?tf=1200x' alt='Todas las veces que Apple nos ha sorprendido este 2022' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/numeros-menos-tocan-loteria-navidad-1167432'>Los números que menos tocan en la Lotería de Navidad</a></h4>
-    <a href='https://computerhoy.com/life/numeros-menos-tocan-loteria-navidad-1167432' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/loteria-navidad-2886294.jpg?tf=1200x' alt='Los números que menos tocan en la Lotería de Navidad' />
     </a>
 </div>
 
