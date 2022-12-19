@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/google/funciona-nuevo-boton-chrome-comprar-barato-movil-android-1172172'>El nuevo botón de Chrome para hacer un seguimiento de los precios ya está disponible para Android</a></h4>
+    <a href='https://computerhoy.com/google/funciona-nuevo-boton-chrome-comprar-barato-movil-android-1172172' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/funciona-nuevo-boton-chrome-comprar-barato-movil-android-2905532.jpg?tf=1200x' alt='El nuevo botón de Chrome para hacer un seguimiento de los precios ya está disponible para Android' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/espacio/mision-armagedon-nasa-fue-exito-dart-sustituye-bruce-willis-1172190'>La misión Armagedón de la NASA fue un éxito: DART sustituye a Bruce Willis</a></h4>
+    <a href='https://computerhoy.com/espacio/mision-armagedon-nasa-fue-exito-dart-sustituye-bruce-willis-1172190' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/puedes-ver-hoy-como-satelite-dart-nasa-impacta-asteroride-podra-desviarlo-2825109.jpg?tf=1200x' alt='La misión Armagedón de la NASA fue un éxito: DART sustituye a Bruce Willis' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/android/android-auto-86-ya-disponible-todos-estas-son-novedades-1172122'>Android Auto 8.6 ya está disponible para todos y estas son sus novedades</a></h4>
     <a href='https://computerhoy.com/android/android-auto-86-ya-disponible-todos-estas-son-novedades-1172122' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/android-auto-2700725.jpg?tf=1200x' alt='Android Auto 8.6 ya está disponible para todos y estas son sus novedades' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/google/google-consigue-imposible-entender-letra-medicos-1172112'>Google consigue lo imposible: una IA para entender la letra de los médicos</a></h4>
     <a href='https://computerhoy.com/google/google-consigue-imposible-entender-letra-medicos-1172112' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/06/robot-medico-doctor.jpg?tf=1200x' alt='Google consigue lo imposible: una IA para entender la letra de los médicos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/construir-ciudades-asteroides-cientificos-afirman-podria-ser-viable-1172082'>Construir ciudades en asteroides: los científicos afirman que podría ser viable</a></h4>
-    <a href='https://computerhoy.com/espacio/construir-ciudades-asteroides-cientificos-afirman-podria-ser-viable-1172082' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/construir-ciudades-asteroides-cientificos-afirman-podria-ser-viable-2905234.jpg?tf=1200x' alt='Construir ciudades en asteroides: los científicos afirman que podría ser viable' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/vota-premios-computerhoy-2022-finalistas-mejor-equipo-gaming-1172034'>Vota en los Premios ComputerHoy 2022: finalistas al mejor equipo gaming</a></h4>
-    <a href='https://computerhoy.com/tecnologia/vota-premios-computerhoy-2022-finalistas-mejor-equipo-gaming-1172034' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/01/vota-premios-computerhoy-2020-finalistas-mejor-equipo-gaming-2189101.jpg?tf=1200x' alt='Vota en los Premios ComputerHoy 2022: finalistas al mejor equipo gaming' />
     </a>
 </div>
 
