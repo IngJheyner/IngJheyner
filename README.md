@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/android/actualizacion-android-auto-debes-evitar-ahora-mismo-1172344'>La actualización de Android Auto que debes evitar ahora mismo</a></h4>
+    <a href='https://computerhoy.com/android/actualizacion-android-auto-debes-evitar-ahora-mismo-1172344' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/android-auto-coolwalk-2870273.jpg?tf=1200x' alt='La actualización de Android Auto que debes evitar ahora mismo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/internet/lugar-casa-jamas-debes-situar-router-wifi-1172342'>En este lugar de tu casa jamás debes situar el router WiFi</a></h4>
+    <a href='https://computerhoy.com/internet/lugar-casa-jamas-debes-situar-router-wifi-1172342' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/router-2905910.jpg?tf=1200x' alt='En este lugar de tu casa jamás debes situar el router WiFi' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/juego-tronos-censura-britanica-1172338'>Juego de Tronos choca contra la fuerte censura británica</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/juego-tronos-censura-britanica-1172338' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/05/juego-tronos-8x04_20.jpg?tf=1200x' alt='Juego de Tronos choca contra la fuerte censura británica' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/gaming/epic-acepta-pagar-520-millones-dolares-violar-privacidad-menores-fornite-forzar-micropagos-1172296'>Epic acepta pagar 520 millones de dólares por violar la privacidad de los menores en Fornite y forzar los micropagos</a></h4>
     <a href='https://computerhoy.com/gaming/epic-acepta-pagar-520-millones-dolares-violar-privacidad-menores-fornite-forzar-micropagos-1172296' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/fortnite-epic-games-2895106.jpg?tf=1200x' alt='Epic acepta pagar 520 millones de dólares por violar la privacidad de los menores en Fornite y forzar los micropagos' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/vota-premios-computerhoy-2022-finalistas-mejor-smartphone-gama-top-1172130'>Vota en los Premios ComputerHoy 2022: finalistas al mejor smartphone gama top</a></h4>
     <a href='https://computerhoy.com/tecnologia/vota-premios-computerhoy-2022-finalistas-mejor-smartphone-gama-top-1172130' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/vota-premios-computerhoy-2021-finalistas-mejores-smartphones-gama-alta-2566005.jpg?tf=1200x' alt='Vota en los Premios ComputerHoy 2022: finalistas al mejor smartphone gama top' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/ofertas-llegan-antes-navidad-1172240'>Móviles en oferta que sí llegarán antes de Navidad</a></h4>
-    <a href='https://computerhoy.com/moviles/ofertas-llegan-antes-navidad-1172240' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/samsung-galaxy-s22-analisis-opinion-2627229.jpg?tf=1200x' alt='Móviles en oferta que sí llegarán antes de Navidad' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/android/puedes-ver-fecha-empezaste-seguir-alguien-instagram-1172268'>Así puedes ver la fecha en la que empezaste a seguir a alguien en Instagram</a></h4>
-    <a href='https://computerhoy.com/android/puedes-ver-fecha-empezaste-seguir-alguien-instagram-1172268' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/estas-dos-sencillas-formas-te-permitiran-stalkear-contenido-instagram-perfil-iniciar-sesion-2892606.jpg?tf=1200x' alt='Así puedes ver la fecha en la que empezaste a seguir a alguien en Instagram' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/android/oneplus-11-ya-tiene-fecha-lanzamiento-oficial-todo-sabemos-1172246'>El OnePlus 11 ya tiene fecha de lanzamiento oficial: esto es todo lo que sabemos</a></h4>
-    <a href='https://computerhoy.com/android/oneplus-11-ya-tiene-fecha-lanzamiento-oficial-todo-sabemos-1172246' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/filtra-diseno-oneplus-11-pro-dejando-ver-regreso-alert-slider-2811183.jpg?tf=1200x' alt='El OnePlus 11 ya tiene fecha de lanzamiento oficial: esto es todo lo que sabemos' />
     </a>
 </div>
 
