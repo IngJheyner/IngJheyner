@@ -58,9 +58,9 @@
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/google-consigue-imposible-entender-letra-medicos-1172112'>Google consigue lo imposible: entender la letra de los médicos</a></h4>
+    <h4><a href='https://computerhoy.com/google/google-consigue-imposible-entender-letra-medicos-1172112'>Google consigue lo imposible: una IA para entender la letra de los médicos</a></h4>
     <a href='https://computerhoy.com/google/google-consigue-imposible-entender-letra-medicos-1172112' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/06/robot-medico-doctor.jpg?tf=1200x' alt='Google consigue lo imposible: entender la letra de los médicos' />
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/06/robot-medico-doctor.jpg?tf=1200x' alt='Google consigue lo imposible: una IA para entender la letra de los médicos' />
     </a>
 </div>
 
