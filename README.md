@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/google/no-vas-creer-buscado-tiempo-real-durante-25-anos-vida-google-1172192'>No vas a creer lo más buscado en tiempo real durante los 25 años de vida de Google</a></h4>
+    <a href='https://computerhoy.com/google/no-vas-creer-buscado-tiempo-real-durante-25-anos-vida-google-1172192' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/google-2654739.jpg?tf=1200x' alt='No vas a creer lo más buscado en tiempo real durante los 25 años de vida de Google' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/google/funciona-nuevo-boton-chrome-comprar-barato-movil-android-1172172'>El nuevo botón de Chrome para hacer un seguimiento de los precios ya está disponible para Android</a></h4>
     <a href='https://computerhoy.com/google/funciona-nuevo-boton-chrome-comprar-barato-movil-android-1172172' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/funciona-nuevo-boton-chrome-comprar-barato-movil-android-2905532.jpg?tf=1200x' alt='El nuevo botón de Chrome para hacer un seguimiento de los precios ya está disponible para Android' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/mejores-ofertas-dia-sin-iva-mediamarkt-1172076'>Tienes menos de 24 horas para conseguir estas ofertas del Día sin IVA de MediaMarkt</a></h4>
     <a href='https://computerhoy.com/tecnologia/mejores-ofertas-dia-sin-iva-mediamarkt-1172076' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/portatil-portada-dia-iva-mediamarkt-2905266.jpg?tf=1200x' alt='Tienes menos de 24 horas para conseguir estas ofertas del Día sin IVA de MediaMarkt' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/google-consigue-imposible-entender-letra-medicos-1172112'>Google consigue lo imposible: una IA para entender la letra de los médicos</a></h4>
-    <a href='https://computerhoy.com/google/google-consigue-imposible-entender-letra-medicos-1172112' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/06/robot-medico-doctor.jpg?tf=1200x' alt='Google consigue lo imposible: una IA para entender la letra de los médicos' />
     </a>
 </div>
 
