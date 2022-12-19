@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/gaming/epic-acepta-pagar-520-millones-dolares-violar-privacidad-menores-fornite-forzar-micropagos-1172296'>Epic acepta pagar 520 millones de dólares por violar la privacidad de los menores en Fornite y forzar los micropagos</a></h4>
+    <a href='https://computerhoy.com/gaming/epic-acepta-pagar-520-millones-dolares-violar-privacidad-menores-fornite-forzar-micropagos-1172296' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/fortnite-epic-games-2895106.jpg?tf=1200x' alt='Epic acepta pagar 520 millones de dólares por violar la privacidad de los menores en Fornite y forzar los micropagos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/vota-premios-computerhoy-2022-finalistas-mejor-smartphone-gama-top-1172130'>Vota en los Premios ComputerHoy 2022: finalistas al mejor smartphone gama top</a></h4>
     <a href='https://computerhoy.com/tecnologia/vota-premios-computerhoy-2022-finalistas-mejor-smartphone-gama-top-1172130' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/vota-premios-computerhoy-2021-finalistas-mejores-smartphones-gama-alta-2566005.jpg?tf=1200x' alt='Vota en los Premios ComputerHoy 2022: finalistas al mejor smartphone gama top' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/android/oneplus-11-ya-tiene-fecha-lanzamiento-oficial-todo-sabemos-1172246'>El OnePlus 11 ya tiene fecha de lanzamiento oficial: esto es todo lo que sabemos</a></h4>
     <a href='https://computerhoy.com/android/oneplus-11-ya-tiene-fecha-lanzamiento-oficial-todo-sabemos-1172246' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/filtra-diseno-oneplus-11-pro-dejando-ver-regreso-alert-slider-2811183.jpg?tf=1200x' alt='El OnePlus 11 ya tiene fecha de lanzamiento oficial: esto es todo lo que sabemos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/patrocinado/regala-tecnologia-navidad-mano-computer-hoy-lg-descubre-primer-live-shopping-1169906'>Regala tecnología esta Navidad de la mano de Computer Hoy y LG. ¡Descubre nuestro primer Live Shopping!</a></h4>
-    <a href='https://computerhoy.com/patrocinado/regala-tecnologia-navidad-mano-computer-hoy-lg-descubre-primer-live-shopping-1169906' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/live-shopping-2902140.jpg?tf=1200x' alt='Regala tecnología esta Navidad de la mano de Computer Hoy y LG. ¡Descubre nuestro primer Live Shopping!' />
     </a>
 </div>
 
