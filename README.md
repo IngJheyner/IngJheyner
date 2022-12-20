@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/espacio/pasaria-aguja-viaja-velocidad-luz-impacta-jupiter-video-1172554'>¿Qué pasaría si una aguja que viaja a la velocidad de la luz impacta sobre Júpiter? (vídeo)</a></h4>
+    <a href='https://computerhoy.com/espacio/pasaria-aguja-viaja-velocidad-luz-impacta-jupiter-video-1172554' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/pasaria-aguja-viaja-velocidad-luz-impacta-jupiter-2906134.jpg?tf=1200x' alt='¿Qué pasaría si una aguja que viaja a la velocidad de la luz impacta sobre Júpiter? (vídeo)' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/windows/android-13-en-windows-11-1172368'>Android 13 llega a Windows 11, antes que a muchos móviles</a></h4>
     <a href='https://computerhoy.com/windows/android-13-en-windows-11-1172368' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/android-13-llega-windows-11-antes-muchos-moviles-2905926.jpg?tf=1200x' alt='Android 13 llega a Windows 11, antes que a muchos móviles' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/android/actualizacion-android-auto-debes-evitar-ahora-mismo-1172344'>La actualización de Android Auto que debes evitar ahora mismo</a></h4>
     <a href='https://computerhoy.com/android/actualizacion-android-auto-debes-evitar-ahora-mismo-1172344' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/android-auto-coolwalk-2870273.jpg?tf=1200x' alt='La actualización de Android Auto que debes evitar ahora mismo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/lugar-casa-jamas-debes-situar-router-wifi-1172342'>En este lugar de tu casa jamás debes situar el router WiFi</a></h4>
-    <a href='https://computerhoy.com/internet/lugar-casa-jamas-debes-situar-router-wifi-1172342' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/router-2905910.jpg?tf=1200x' alt='En este lugar de tu casa jamás debes situar el router WiFi' />
     </a>
 </div>
 
