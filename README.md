@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/internet/tunel-vpn-dividido-solucion-todos-problemas-seguridad-internet-1172276'>El túnel VPN dividido es la solución a todos tus problemas de seguridad en Internet</a></h4>
+    <a href='https://computerhoy.com/internet/tunel-vpn-dividido-solucion-todos-problemas-seguridad-internet-1172276' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/ordenador-portatil-pantalla-vpn-2801007.jpg?tf=1200x' alt='El túnel VPN dividido es la solución a todos tus problemas de seguridad en Internet' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/mejores-apps-comprobar-decimo-loteria-navidad-2022-tiempo-real-1163100'>Las mejores apps para comprobar tu décimo de Lotería de Navidad 2022 en tiempo real</a></h4>
+    <a href='https://computerhoy.com/apps/mejores-apps-comprobar-decimo-loteria-navidad-2022-tiempo-real-1163100' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/mejores-apps-loteria-navidad-2888698.jpg?tf=1200x' alt='Las mejores apps para comprobar tu décimo de Lotería de Navidad 2022 en tiempo real' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/moviles/estos-20-fondos-pantalla-llevaran-espiritu-navidad-movil-1172186'>Estos 20 fondos de pantalla llevarán el espíritu de la Navidad a tu móvil</a></h4>
     <a href='https://computerhoy.com/moviles/estos-20-fondos-pantalla-llevaran-espiritu-navidad-movil-1172186' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/fondos-pantalla-llevar-espiritu-navidad-movil-2905664.jpg?tf=1200x' alt='Estos 20 fondos de pantalla llevarán el espíritu de la Navidad a tu móvil' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-auriculares-inalambricos-gimnasio-1016431'>Mejores auriculares inalámbricos para el gimnasio que puedes comprar</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/mejores-auriculares-inalambricos-gimnasio-1016431' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/mujer-atandose-zapatillas-ropa-deportiva-gimnasio-auriculares-2905886.jpg?tf=1200x' alt='Mejores auriculares inalámbricos para el gimnasio que puedes comprar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/citroen-carro-romano-dos-caballos-asterix-obelix-reino-milenario-video-1172558'>El nuevo vehículo de Citroën es... un carro romano tirado por dos caballos (vídeo)</a></h4>
-    <a href='https://computerhoy.com/motor/citroen-carro-romano-dos-caballos-asterix-obelix-reino-milenario-video-1172558' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/verticalimage1671508308715-2906140.jpg?tf=1200x' alt='El nuevo vehículo de Citroën es... un carro romano tirado por dos caballos (vídeo)' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/pasaria-aguja-viaja-velocidad-luz-impacta-jupiter-video-1172554'>¿Qué pasaría si una aguja que viaja a la velocidad de la luz impacta sobre Júpiter? (vídeo)</a></h4>
-    <a href='https://computerhoy.com/espacio/pasaria-aguja-viaja-velocidad-luz-impacta-jupiter-video-1172554' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/pasaria-aguja-viaja-velocidad-luz-impacta-jupiter-2906134.jpg?tf=1200x' alt='¿Qué pasaría si una aguja que viaja a la velocidad de la luz impacta sobre Júpiter? (vídeo)' />
     </a>
 </div>
 
