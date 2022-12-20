@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/audio/mejor-alternativa-airpods-pro-2-samsung-189eu-1172690'>La mejor alternativa a los AirPods Pro 2 de Samsung por 189€</a></h4>
+    <a href='https://computerhoy.com/audio/mejor-alternativa-airpods-pro-2-samsung-189eu-1172690' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/samsung-galaxy-buds-2-pro-analisis-opinion-2900928.jpg?tf=1200x' alt='La mejor alternativa a los AirPods Pro 2 de Samsung por 189€' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/redes-sociales/58-millones-likes-foto-mundial-arrasando-instagram-1172742'>58 millones de Likes, esta es la foto del Mundial que está arrasando en Instagram</a></h4>
+    <a href='https://computerhoy.com/redes-sociales/58-millones-likes-foto-mundial-arrasando-instagram-1172742' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/58-millones-likes-foto-mundial-arrasando-instagram-2906674.jpg?tf=1200x' alt='58 millones de Likes, esta es la foto del Mundial que está arrasando en Instagram' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/industria/ue-no-conforma-solo-usb-c-mira-ahora-bateria-movil-portatil-smartwatch-1172716'>La UE no se conforma solo con el USB-C y mira ahora a la batería de tu móvil, portátil y smartwatch</a></h4>
+    <a href='https://computerhoy.com/industria/ue-no-conforma-solo-usb-c-mira-ahora-bateria-movil-portatil-smartwatch-1172716' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/realmente-bateria-apple-watch-ultra-despiece-video-2825859.jpg?tf=1200x' alt='La UE no se conforma solo con el USB-C y mira ahora a la batería de tu móvil, portátil y smartwatch' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/mejor-hora-dia-estudiar-realizar-trabajo-mental-edad-1172696'>Esta es la mejor hora del día para estudiar o realizar trabajo mental según tu edad</a></h4>
     <a href='https://computerhoy.com/life/mejor-hora-dia-estudiar-realizar-trabajo-mental-edad-1172696' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/09/portatil-estudiar-estudiante.jpg?tf=1200x' alt='Esta es la mejor hora del día para estudiar o realizar trabajo mental según tu edad' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/ciberseguridad/vulnerabilidad-critica-windows-no-detectada-ahora-podria-traer-graves-problemas-2023-1172674'>Una vulnerabilidad crítica de Windows no detectada hasta ahora podría traer graves problemas en 2023</a></h4>
     <a href='https://computerhoy.com/ciberseguridad/vulnerabilidad-critica-windows-no-detectada-ahora-podria-traer-graves-problemas-2023-1172674' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/nueva-vulnerabilidad-critica-windows-no-habia-detectado-ahora-podria-traer-graves-problemas-2023-2906440.jpg?tf=1200x' alt='Una vulnerabilidad crítica de Windows no detectada hasta ahora podría traer graves problemas en 2023' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/avatar-2-te-parecio-larga-espera-ver-montaje-avatar-3-1172652'>Si Avatar 2 te pareció larga, espera a ver el montaje de Avatar 3</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/avatar-2-te-parecio-larga-espera-ver-montaje-avatar-3-1172652' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/avatar-sentido-agua-2864221.jpg?tf=1200x' alt='Si Avatar 2 te pareció larga, espera a ver el montaje de Avatar 3' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/redes-sociales/todos-cambios-llegan-twitter-hacen-irreconocible-red-social-1172634'>Todos los cambios que llegan a Twitter y que hacen irreconocible la red social</a></h4>
-    <a href='https://computerhoy.com/redes-sociales/todos-cambios-llegan-twitter-hacen-irreconocible-red-social-1172634' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/twitter-cada-vez-complejo-nuevos-avatares-cuadrados-diferentes-colores-verificacion-2906362.jpg?tf=1200x' alt='Todos los cambios que llegan a Twitter y que hacen irreconocible la red social' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/gaming/como-conseguir-playstation-5-amazon-1172638'>Cómo conseguir una PlayStation 5 en Amazon</a></h4>
-    <a href='https://computerhoy.com/gaming/como-conseguir-playstation-5-amazon-1172638' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/11/ps5-playstation-5-2127033.jpg?tf=1200x' alt='Cómo conseguir una PlayStation 5 en Amazon' />
     </a>
 </div>
 
