@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/energia-eolica-podria-ser-clave-colonizar-marte-1172886'>La energía eólica podría ser la clave para colonizar Marte</a></h4>
+    <a href='https://computerhoy.com/ciencia/energia-eolica-podria-ser-clave-colonizar-marte-1172886' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/marte-martian-2755161.jpg?tf=1200x' alt='La energía eólica podría ser la clave para colonizar Marte' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/industria/que-es-shein-ropa-barata-online-887127'>Qué es Shein y cómo funciona la tienda china de la ropa barata online que amenaza a Zara, Primark o H&M</a></h4>
     <a href='https://computerhoy.com/reportajes/industria/que-es-shein-ropa-barata-online-887127' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/shein-2700201.jpg?tf=1200x' alt='Qué es Shein y cómo funciona la tienda china de la ropa barata online que amenaza a Zara, Primark o H&M' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/hogar/amazon-abre-puerta-matter-17-dispositivos-echo-pronto-soporte-ios-1172820'>Amazon abre la puerta a Matter en 17 dispositivos Echo y pronto con soporte para iOS</a></h4>
     <a href='https://computerhoy.com/hogar/amazon-abre-puerta-matter-17-dispositivos-echo-pronto-soporte-ios-1172820' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/amazon-echo-show-15-2812295.jpg?tf=1200x' alt='Amazon abre la puerta a Matter en 17 dispositivos Echo y pronto con soporte para iOS' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/canales-telegram'>Los canales de Telegram de ComputerHoy donde podrás conseguir los mejores descuentos al instante</a></h4>
-    <a href='https://computerhoy.com/canales-telegram' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/portada-icono-telegram-2901664.jpg?tf=1200x' alt='Los canales de Telegram de ComputerHoy donde podrás conseguir los mejores descuentos al instante' />
     </a>
 </div>
 
