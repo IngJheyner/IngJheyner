@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/android/redmagic-8-pro-presentara-26-diciembre-primeros-moviles-snapdragon-8-gen-2-1172844'>RedMagic 8 Pro se presentará el 26 de diciembre. Uno de los primeros móviles con Snapdragon 8 Gen 2</a></h4>
+    <a href='https://computerhoy.com/android/redmagic-8-pro-presentara-26-diciembre-primeros-moviles-snapdragon-8-gen-2-1172844' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/redmagic-2907160.jpeg?tf=1200x' alt='RedMagic 8 Pro se presentará el 26 de diciembre. Uno de los primeros móviles con Snapdragon 8 Gen 2' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tutoriales/como-poner-contrasena-carpetas-windows-11-programas-1172930'>Cómo poner una contraseña a las carpetas de Windows 11 sin programas</a></h4>
     <a href='https://computerhoy.com/tutoriales/como-poner-contrasena-carpetas-windows-11-programas-1172930' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/carpeta-encriptada-google-guardar-fotos-videos-privados-ya-disponible-moviles-android-2552711.jpg?tf=1200x' alt='Cómo poner una contraseña a las carpetas de Windows 11 sin programas' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/redes-sociales/exodo-mastodon-cada-decision-elon-musk-twitter-1172910'>Éxodo a Mastodon con cada decisión de Elon Musk en Twitter</a></h4>
     <a href='https://computerhoy.com/redes-sociales/exodo-mastodon-cada-decision-elon-musk-twitter-1172910' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/bye-bye-bird-pajaro-raspberry-pi-suelta-lagrima-cada-vez-alguien-borra-twitter-2881713.jpg?tf=1200x' alt='Éxodo a Mastodon con cada decisión de Elon Musk en Twitter' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/legislacion/ahora-te-pensaras-dos-veces-hora-compartir-contrasena-netflix-1172914'>Ahora te lo pensarás dos veces a la hora de compartir tu contraseña de Netflix</a></h4>
-    <a href='https://computerhoy.com/legislacion/ahora-te-pensaras-dos-veces-hora-compartir-contrasena-netflix-1172914' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/netflix-2889718.jpg?tf=1200x' alt='Ahora te lo pensarás dos veces a la hora de compartir tu contraseña de Netflix' />
     </a>
 </div>
 
