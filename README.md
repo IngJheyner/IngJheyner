@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-poner-contrasena-carpetas-windows-11-programas-1172930'>Cómo poner una contraseña a las carpetas de Windows 11 sin programas</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-poner-contrasena-carpetas-windows-11-programas-1172930' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/carpeta-encriptada-google-guardar-fotos-videos-privados-ya-disponible-moviles-android-2552711.jpg?tf=1200x' alt='Cómo poner una contraseña a las carpetas de Windows 11 sin programas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/pc/oppo-pad-air-tablet-todoterreno-oferta-solo-249-euros-1172940'>Oppo Pad Air una tablet todoterreno en oferta por solo 249 euros</a></h4>
+    <a href='https://computerhoy.com/pc/oppo-pad-air-tablet-todoterreno-oferta-solo-249-euros-1172940' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/oppo-pad-air-analisis-opinion-2828823.jpg?tf=1200x' alt='Oppo Pad Air una tablet todoterreno en oferta por solo 249 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/entretenimiento/movistar-plus-series-peliculas-enero-2023-plus-black-phone-jurassic-world-dominion-1172932'>Todas las series y películas que llegan en enero a Movistar Plus+: Black Phone, Jurassic World Dominion, y mucho más</a></h4>
     <a href='https://computerhoy.com/entretenimiento/movistar-plus-series-peliculas-enero-2023-plus-black-phone-jurassic-world-dominion-1172932' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/todas-series-peliculas-llegan-enero-movistar-plus-black-phone-jurassic-world-dominion-mucho-2907164.jpg?tf=1200x' alt='Todas las series y películas que llegan en enero a Movistar Plus+: Black Phone, Jurassic World Dominion, y mucho más' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/legislacion/ahora-te-pensaras-dos-veces-hora-compartir-contrasena-netflix-1172914'>Ahora te lo pensarás dos veces a la hora de compartir tu contraseña de Netflix</a></h4>
     <a href='https://computerhoy.com/legislacion/ahora-te-pensaras-dos-veces-hora-compartir-contrasena-netflix-1172914' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/netflix-2889718.jpg?tf=1200x' alt='Ahora te lo pensarás dos veces a la hora de compartir tu contraseña de Netflix' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/energia-eolica-podria-ser-clave-colonizar-marte-1172886'>La energía eólica podría ser la clave para colonizar Marte</a></h4>
-    <a href='https://computerhoy.com/ciencia/energia-eolica-podria-ser-clave-colonizar-marte-1172886' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/marte-martian-2755161.jpg?tf=1200x' alt='La energía eólica podría ser la clave para colonizar Marte' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/industria/que-es-shein-ropa-barata-online-887127'>Qué es Shein y cómo funciona la tienda china de la ropa barata online que amenaza a Zara, Primark o H&M</a></h4>
-    <a href='https://computerhoy.com/reportajes/industria/que-es-shein-ropa-barata-online-887127' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/shein-2700201.jpg?tf=1200x' alt='Qué es Shein y cómo funciona la tienda china de la ropa barata online que amenaza a Zara, Primark o H&M' />
     </a>
 </div>
 
