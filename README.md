@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-auriculares-inalambricos-gimnasio-1016431'>Mejores auriculares inalámbricos para el gimnasio que puedes comprar</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-auriculares-inalambricos-gimnasio-1016431' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/mujer-atandose-zapatillas-ropa-deportiva-gimnasio-auriculares-2905886.jpg?tf=1200x' alt='Mejores auriculares inalámbricos para el gimnasio que puedes comprar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/motor/citroen-carro-romano-dos-caballos-asterix-obelix-reino-milenario-video-1172558'>El nuevo vehículo de Citroën es... un carro romano tirado por dos caballos (vídeo)</a></h4>
     <a href='https://computerhoy.com/motor/citroen-carro-romano-dos-caballos-asterix-obelix-reino-milenario-video-1172558' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/verticalimage1671508308715-2906140.jpg?tf=1200x' alt='El nuevo vehículo de Citroën es... un carro romano tirado por dos caballos (vídeo)' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/moviles/xiaomi-11t-pro-movil-premium-solo-388-euros-cupon-descuento-1172354'>Xiaomi 11T Pro, un móvil premium por solo 388 euros usando un cupón</a></h4>
     <a href='https://computerhoy.com/moviles/xiaomi-11t-pro-movil-premium-solo-388-euros-cupon-descuento-1172354' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/galeria-review-xiaomi-11t-pro-2495815.jpg?tf=1200x' alt='Xiaomi 11T Pro, un móvil premium por solo 388 euros usando un cupón' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/acabo-eliminar-mensaje-error-nueva-funcionalidad-whatsapp-1172314'>Se acabó eliminar un mensaje por error: así es la nueva funcionalidad de WhatsApp</a></h4>
-    <a href='https://computerhoy.com/apps/acabo-eliminar-mensaje-error-nueva-funcionalidad-whatsapp-1172314' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/whatsapp-2870685.jpg?tf=1200x' alt='Se acabó eliminar un mensaje por error: así es la nueva funcionalidad de WhatsApp' />
     </a>
 </div>
 
