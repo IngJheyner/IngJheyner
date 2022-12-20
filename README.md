@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/motor/citroen-carro-romano-dos-caballos-asterix-obelix-reino-milenario-video-1172558'>El nuevo vehículo de Citroën es... un carro romano tirado por dos caballos (vídeo)</a></h4>
+    <a href='https://computerhoy.com/motor/citroen-carro-romano-dos-caballos-asterix-obelix-reino-milenario-video-1172558' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/verticalimage1671508308715-2906140.jpg?tf=1200x' alt='El nuevo vehículo de Citroën es... un carro romano tirado por dos caballos (vídeo)' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/espacio/pasaria-aguja-viaja-velocidad-luz-impacta-jupiter-video-1172554'>¿Qué pasaría si una aguja que viaja a la velocidad de la luz impacta sobre Júpiter? (vídeo)</a></h4>
     <a href='https://computerhoy.com/espacio/pasaria-aguja-viaja-velocidad-luz-impacta-jupiter-video-1172554' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/pasaria-aguja-viaja-velocidad-luz-impacta-jupiter-2906134.jpg?tf=1200x' alt='¿Qué pasaría si una aguja que viaja a la velocidad de la luz impacta sobre Júpiter? (vídeo)' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/apps/acabo-eliminar-mensaje-error-nueva-funcionalidad-whatsapp-1172314'>Se acabó eliminar un mensaje por error: así es la nueva funcionalidad de WhatsApp</a></h4>
     <a href='https://computerhoy.com/apps/acabo-eliminar-mensaje-error-nueva-funcionalidad-whatsapp-1172314' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/whatsapp-2870685.jpg?tf=1200x' alt='Se acabó eliminar un mensaje por error: así es la nueva funcionalidad de WhatsApp' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/android/actualizacion-android-auto-debes-evitar-ahora-mismo-1172344'>La actualización de Android Auto que debes evitar ahora mismo</a></h4>
-    <a href='https://computerhoy.com/android/actualizacion-android-auto-debes-evitar-ahora-mismo-1172344' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/android-auto-coolwalk-2870273.jpg?tf=1200x' alt='La actualización de Android Auto que debes evitar ahora mismo' />
     </a>
 </div>
 
