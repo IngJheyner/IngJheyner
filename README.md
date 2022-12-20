@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/mejor-hora-dia-estudiar-realizar-trabajo-mental-edad-1172696'>Esta es la mejor hora del día para estudiar o realizar trabajo mental según tu edad</a></h4>
+    <a href='https://computerhoy.com/life/mejor-hora-dia-estudiar-realizar-trabajo-mental-edad-1172696' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/09/portatil-estudiar-estudiante.jpg?tf=1200x' alt='Esta es la mejor hora del día para estudiar o realizar trabajo mental según tu edad' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciberseguridad/vulnerabilidad-critica-windows-no-detectada-ahora-podria-traer-graves-problemas-2023-1172674'>Una vulnerabilidad crítica de Windows no detectada hasta ahora podría traer graves problemas en 2023</a></h4>
     <a href='https://computerhoy.com/ciberseguridad/vulnerabilidad-critica-windows-no-detectada-ahora-podria-traer-graves-problemas-2023-1172674' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/nueva-vulnerabilidad-critica-windows-no-habia-detectado-ahora-podria-traer-graves-problemas-2023-2906440.jpg?tf=1200x' alt='Una vulnerabilidad crítica de Windows no detectada hasta ahora podría traer graves problemas en 2023' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/gaming/como-conseguir-playstation-5-amazon-1172638'>Cómo conseguir una PlayStation 5 en Amazon</a></h4>
     <a href='https://computerhoy.com/gaming/como-conseguir-playstation-5-amazon-1172638' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/11/ps5-playstation-5-2127033.jpg?tf=1200x' alt='Cómo conseguir una PlayStation 5 en Amazon' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/rover-marte-despide-siempre-intenta-no-llorar-mensaje-1172636'>El rover de Marte se despide para siempre: intenta no llorar con su mensaje</a></h4>
-    <a href='https://computerhoy.com/espacio/rover-marte-despide-siempre-intenta-no-llorar-mensaje-1172636' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/rover-insight-2906356.jpg?tf=1200x' alt='El rover de Marte se despide para siempre: intenta no llorar con su mensaje' />
     </a>
 </div>
 
