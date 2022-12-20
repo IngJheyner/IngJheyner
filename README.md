@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/tunel-vpn-dividido-solucion-todos-problemas-seguridad-internet-1172276'>El túnel VPN dividido es la solución a todos tus problemas de seguridad en Internet</a></h4>
-    <a href='https://computerhoy.com/internet/tunel-vpn-dividido-solucion-todos-problemas-seguridad-internet-1172276' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/ordenador-portatil-pantalla-vpn-2801007.jpg?tf=1200x' alt='El túnel VPN dividido es la solución a todos tus problemas de seguridad en Internet' />
+    <h4><a href='https://computerhoy.com/entretenimiento/avatar-2-te-parecio-larga-espera-ver-montaje-avatar-3-1172652'>Si Avatar 2 te pareció larga, espera a ver el montaje de Avatar 3</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/avatar-2-te-parecio-larga-espera-ver-montaje-avatar-3-1172652' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/avatar-sentido-agua-2864221.jpg?tf=1200x' alt='Si Avatar 2 te pareció larga, espera a ver el montaje de Avatar 3' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/mejores-apps-comprobar-decimo-loteria-navidad-2022-tiempo-real-1163100'>Las mejores apps para comprobar tu décimo de Lotería de Navidad 2022 en tiempo real</a></h4>
-    <a href='https://computerhoy.com/apps/mejores-apps-comprobar-decimo-loteria-navidad-2022-tiempo-real-1163100' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/mejores-apps-loteria-navidad-2888698.jpg?tf=1200x' alt='Las mejores apps para comprobar tu décimo de Lotería de Navidad 2022 en tiempo real' />
+    <h4><a href='https://computerhoy.com/redes-sociales/todos-cambios-llegan-twitter-hacen-irreconocible-red-social-1172634'>Todos los cambios que llegan a Twitter y que hacen irreconocible la red social</a></h4>
+    <a href='https://computerhoy.com/redes-sociales/todos-cambios-llegan-twitter-hacen-irreconocible-red-social-1172634' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/twitter-cada-vez-complejo-nuevos-avatares-cuadrados-diferentes-colores-verificacion-2906362.jpg?tf=1200x' alt='Todos los cambios que llegan a Twitter y que hacen irreconocible la red social' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/estos-20-fondos-pantalla-llevaran-espiritu-navidad-movil-1172186'>Estos 20 fondos de pantalla llevarán el espíritu de la Navidad a tu móvil</a></h4>
-    <a href='https://computerhoy.com/moviles/estos-20-fondos-pantalla-llevaran-espiritu-navidad-movil-1172186' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/fondos-pantalla-llevar-espiritu-navidad-movil-2905664.jpg?tf=1200x' alt='Estos 20 fondos de pantalla llevarán el espíritu de la Navidad a tu móvil' />
+    <h4><a href='https://computerhoy.com/gaming/como-conseguir-playstation-5-amazon-1172638'>Cómo conseguir una PlayStation 5 en Amazon</a></h4>
+    <a href='https://computerhoy.com/gaming/como-conseguir-playstation-5-amazon-1172638' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/11/ps5-playstation-5-2127033.jpg?tf=1200x' alt='Cómo conseguir una PlayStation 5 en Amazon' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/25-noticias-tecnologia-comenzar-manana-informado-ultimo-1172568'>26 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
-    <a href='https://computerhoy.com/tecnologia/25-noticias-tecnologia-comenzar-manana-informado-ultimo-1172568' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/25-noticias-tecnologia-comenzar-manana-informado-ultimo-2906176.jpg?tf=1200x' alt='26 noticias de tecnología para comenzar la mañana informado de lo último' />
+    <h4><a href='https://computerhoy.com/espacio/rover-marte-despide-siempre-intenta-no-llorar-mensaje-1172636'>El rover de Marte se despide para siempre: intenta no llorar con su mensaje</a></h4>
+    <a href='https://computerhoy.com/espacio/rover-marte-despide-siempre-intenta-no-llorar-mensaje-1172636' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/rover-insight-2906356.jpg?tf=1200x' alt='El rover de Marte se despide para siempre: intenta no llorar con su mensaje' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-auriculares-inalambricos-gimnasio-1016431'>Mejores auriculares inalámbricos para el gimnasio que puedes comprar</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-auriculares-inalambricos-gimnasio-1016431' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/mujer-atandose-zapatillas-ropa-deportiva-gimnasio-auriculares-2905886.jpg?tf=1200x' alt='Mejores auriculares inalámbricos para el gimnasio que puedes comprar' />
+    <h4><a href='https://computerhoy.com/perifericos/buscando-monitor-teletrabajo-considera-estos-factores-tomar-mejor-decision-1172616'>¿Buscas un monitor para el teletrabajo? Considera estos factores para tomar la mejor decisión</a></h4>
+    <a href='https://computerhoy.com/perifericos/buscando-monitor-teletrabajo-considera-estos-factores-tomar-mejor-decision-1172616' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/analisis-monitor-hp-u28-4k-hdr-2766373.jpg?tf=1200x' alt='¿Buscas un monitor para el teletrabajo? Considera estos factores para tomar la mejor decisión' />
     </a>
 </div>
 
