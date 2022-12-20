@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/industria/que-es-shein-ropa-barata-online-887127'>Qué es Shein y cómo funciona la tienda china de la ropa barata online que amenaza a Zara, Primark o H&M</a></h4>
+    <a href='https://computerhoy.com/reportajes/industria/que-es-shein-ropa-barata-online-887127' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/shein-2700201.jpg?tf=1200x' alt='Qué es Shein y cómo funciona la tienda china de la ropa barata online que amenaza a Zara, Primark o H&M' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/moviles/ofertas-moviles-xiaomi-ebay-descuento-1172726'>Todavía llegas a estas ofertas de móviles Xiaomi en eBay con hasta el 15% de descuento</a></h4>
+    <a href='https://computerhoy.com/moviles/ofertas-moviles-xiaomi-ebay-descuento-1172726' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/poco-x4-pro-analisis-opinion-2663735.jpg?tf=1200x' alt='Todavía llegas a estas ofertas de móviles Xiaomi en eBay con hasta el 15% de descuento' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/google/google-pay-usara-inteligencia-artificial-evitar-fraudes-1172828'>Google Pay usará inteligencia artificial para evitar fraudes</a></h4>
     <a href='https://computerhoy.com/google/google-pay-usara-inteligencia-artificial-evitar-fraudes-1172828' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/google-pay-2906956.jpg?tf=1200x' alt='Google Pay usará inteligencia artificial para evitar fraudes' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/canales-telegram'>Los canales de Telegram de ComputerHoy donde podrás conseguir los mejores descuentos al instante</a></h4>
     <a href='https://computerhoy.com/canales-telegram' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/portada-icono-telegram-2901664.jpg?tf=1200x' alt='Los canales de Telegram de ComputerHoy donde podrás conseguir los mejores descuentos al instante' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/energia/acaba-batir-record-eficiencia-placas-solares-gracias-union-materiales-1172814'>Se acaba de batir el récord de eficiencia en placas solares gracias a esta unión de materiales</a></h4>
-    <a href='https://computerhoy.com/energia/acaba-batir-record-eficiencia-placas-solares-gracias-union-materiales-1172814' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/placo-solar-2906916.jpg?tf=1200x' alt='Se acaba de batir el récord de eficiencia en placas solares gracias a esta unión de materiales' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/patrocinado/mejor-tecnologia-no-pasar-frio-invierno-1162351'>Lo mejor de la tecnología para no pasar frío este invierno</a></h4>
-    <a href='https://computerhoy.com/patrocinado/mejor-tecnologia-no-pasar-frio-invierno-1162351' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/manta-2886938.jpg?tf=1200x' alt='Lo mejor de la tecnología para no pasar frío este invierno' />
     </a>
 </div>
 
