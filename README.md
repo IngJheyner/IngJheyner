@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/google/google-pay-usara-inteligencia-artificial-evitar-fraudes-1172828'>Google Pay usará inteligencia artificial para evitar fraudes</a></h4>
+    <a href='https://computerhoy.com/google/google-pay-usara-inteligencia-artificial-evitar-fraudes-1172828' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/google-pay-2906956.jpg?tf=1200x' alt='Google Pay usará inteligencia artificial para evitar fraudes' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/hogar/amazon-abre-puerta-matter-17-dispositivos-echo-pronto-soporte-ios-1172820'>Amazon abre la puerta a Matter en 17 dispositivos Echo y pronto con soporte para iOS</a></h4>
+    <a href='https://computerhoy.com/hogar/amazon-abre-puerta-matter-17-dispositivos-echo-pronto-soporte-ios-1172820' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/amazon-echo-show-15-2812295.jpg?tf=1200x' alt='Amazon abre la puerta a Matter en 17 dispositivos Echo y pronto con soporte para iOS' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/canales-telegram'>Los canales de Telegram de ComputerHoy donde podrás conseguir los mejores descuentos al instante</a></h4>
+    <a href='https://computerhoy.com/canales-telegram' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/portada-icono-telegram-2901664.jpg?tf=1200x' alt='Los canales de Telegram de ComputerHoy donde podrás conseguir los mejores descuentos al instante' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/energia/acaba-batir-record-eficiencia-placas-solares-gracias-union-materiales-1172814'>Se acaba de batir el récord de eficiencia en placas solares gracias a esta unión de materiales</a></h4>
+    <a href='https://computerhoy.com/energia/acaba-batir-record-eficiencia-placas-solares-gracias-union-materiales-1172814' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/placo-solar-2906916.jpg?tf=1200x' alt='Se acaba de batir el récord de eficiencia en placas solares gracias a esta unión de materiales' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/patrocinado/mejor-tecnologia-no-pasar-frio-invierno-1162351'>Lo mejor de la tecnología para no pasar frío este invierno</a></h4>
     <a href='https://computerhoy.com/patrocinado/mejor-tecnologia-no-pasar-frio-invierno-1162351' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/manta-2886938.jpg?tf=1200x' alt='Lo mejor de la tecnología para no pasar frío este invierno' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/gmail-mejora-seguridad-correos-cifrado-extremo-extremo-1172784'>Gmail mejora la seguridad en tus correos con cifrado de extremo a extremo</a></h4>
-    <a href='https://computerhoy.com/google/gmail-mejora-seguridad-correos-cifrado-extremo-extremo-1172784' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/gmail-2866501.jpg?tf=1200x' alt='Gmail mejora la seguridad en tus correos con cifrado de extremo a extremo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/audio/mejor-alternativa-airpods-pro-2-samsung-189eu-1172690'>La mejor alternativa a los AirPods Pro 2 de Samsung por 189€</a></h4>
-    <a href='https://computerhoy.com/audio/mejor-alternativa-airpods-pro-2-samsung-189eu-1172690' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/samsung-galaxy-buds-2-pro-analisis-opinion-2900928.jpg?tf=1200x' alt='La mejor alternativa a los AirPods Pro 2 de Samsung por 189€' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/redes-sociales/58-millones-likes-foto-mundial-arrasando-instagram-1172742'>58 millones de Likes, esta es la foto del Mundial que está arrasando en Instagram</a></h4>
-    <a href='https://computerhoy.com/redes-sociales/58-millones-likes-foto-mundial-arrasando-instagram-1172742' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/58-millones-likes-foto-mundial-arrasando-instagram-2906674.jpg?tf=1200x' alt='58 millones de Likes, esta es la foto del Mundial que está arrasando en Instagram' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/industria/ue-no-conforma-solo-usb-c-mira-ahora-bateria-movil-portatil-smartwatch-1172716'>La UE no se conforma solo con el USB-C y mira ahora a la batería de tu móvil, portátil y smartwatch</a></h4>
-    <a href='https://computerhoy.com/industria/ue-no-conforma-solo-usb-c-mira-ahora-bateria-movil-portatil-smartwatch-1172716' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/realmente-bateria-apple-watch-ultra-despiece-video-2825859.jpg?tf=1200x' alt='La UE no se conforma solo con el USB-C y mira ahora a la batería de tu móvil, portátil y smartwatch' />
     </a>
 </div>
 
