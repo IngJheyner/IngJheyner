@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/vulnerabilidad-critica-windows-no-detectada-ahora-podria-traer-graves-problemas-2023-1172674'>Una vulnerabilidad crítica de Windows no detectada hasta ahora podría traer graves problemas en 2023</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/vulnerabilidad-critica-windows-no-detectada-ahora-podria-traer-graves-problemas-2023-1172674' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/nueva-vulnerabilidad-critica-windows-no-habia-detectado-ahora-podria-traer-graves-problemas-2023-2906440.jpg?tf=1200x' alt='Una vulnerabilidad crítica de Windows no detectada hasta ahora podría traer graves problemas en 2023' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/entretenimiento/avatar-2-te-parecio-larga-espera-ver-montaje-avatar-3-1172652'>Si Avatar 2 te pareció larga, espera a ver el montaje de Avatar 3</a></h4>
     <a href='https://computerhoy.com/entretenimiento/avatar-2-te-parecio-larga-espera-ver-montaje-avatar-3-1172652' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/avatar-sentido-agua-2864221.jpg?tf=1200x' alt='Si Avatar 2 te pareció larga, espera a ver el montaje de Avatar 3' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/espacio/rover-marte-despide-siempre-intenta-no-llorar-mensaje-1172636'>El rover de Marte se despide para siempre: intenta no llorar con su mensaje</a></h4>
     <a href='https://computerhoy.com/espacio/rover-marte-despide-siempre-intenta-no-llorar-mensaje-1172636' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/rover-insight-2906356.jpg?tf=1200x' alt='El rover de Marte se despide para siempre: intenta no llorar con su mensaje' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/perifericos/buscando-monitor-teletrabajo-considera-estos-factores-tomar-mejor-decision-1172616'>¿Buscas un monitor para el teletrabajo? Considera estos factores para tomar la mejor decisión</a></h4>
-    <a href='https://computerhoy.com/perifericos/buscando-monitor-teletrabajo-considera-estos-factores-tomar-mejor-decision-1172616' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/analisis-monitor-hp-u28-4k-hdr-2766373.jpg?tf=1200x' alt='¿Buscas un monitor para el teletrabajo? Considera estos factores para tomar la mejor decisión' />
     </a>
 </div>
 
