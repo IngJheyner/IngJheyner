@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/legislacion/ahora-te-pensaras-dos-veces-hora-compartir-contrasena-netflix-1172914'>Ahora te lo pensarás dos veces a la hora de compartir tu contraseña de Netflix</a></h4>
+    <a href='https://computerhoy.com/legislacion/ahora-te-pensaras-dos-veces-hora-compartir-contrasena-netflix-1172914' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/netflix-2889718.jpg?tf=1200x' alt='Ahora te lo pensarás dos veces a la hora de compartir tu contraseña de Netflix' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciencia/energia-eolica-podria-ser-clave-colonizar-marte-1172886'>La energía eólica podría ser la clave para colonizar Marte</a></h4>
     <a href='https://computerhoy.com/ciencia/energia-eolica-podria-ser-clave-colonizar-marte-1172886' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/marte-martian-2755161.jpg?tf=1200x' alt='La energía eólica podría ser la clave para colonizar Marte' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/google/google-pay-usara-inteligencia-artificial-evitar-fraudes-1172828'>Google Pay usará inteligencia artificial para evitar fraudes</a></h4>
     <a href='https://computerhoy.com/google/google-pay-usara-inteligencia-artificial-evitar-fraudes-1172828' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/google-pay-2906956.jpg?tf=1200x' alt='Google Pay usará inteligencia artificial para evitar fraudes' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/hogar/amazon-abre-puerta-matter-17-dispositivos-echo-pronto-soporte-ios-1172820'>Amazon abre la puerta a Matter en 17 dispositivos Echo y pronto con soporte para iOS</a></h4>
-    <a href='https://computerhoy.com/hogar/amazon-abre-puerta-matter-17-dispositivos-echo-pronto-soporte-ios-1172820' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/amazon-echo-show-15-2812295.jpg?tf=1200x' alt='Amazon abre la puerta a Matter en 17 dispositivos Echo y pronto con soporte para iOS' />
     </a>
 </div>
 
