@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/moviles/estos-20-fondos-pantalla-llevaran-espiritu-navidad-movil-1172186'>Estos 20 fondos de pantalla llevarán el espíritu de la Navidad a tu móvil</a></h4>
+    <a href='https://computerhoy.com/moviles/estos-20-fondos-pantalla-llevaran-espiritu-navidad-movil-1172186' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/fondos-pantalla-llevar-espiritu-navidad-movil-2905664.jpg?tf=1200x' alt='Estos 20 fondos de pantalla llevarán el espíritu de la Navidad a tu móvil' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/25-noticias-tecnologia-comenzar-manana-informado-ultimo-1172568'>26 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
+    <a href='https://computerhoy.com/tecnologia/25-noticias-tecnologia-comenzar-manana-informado-ultimo-1172568' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/25-noticias-tecnologia-comenzar-manana-informado-ultimo-2906176.jpg?tf=1200x' alt='26 noticias de tecnología para comenzar la mañana informado de lo último' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-auriculares-inalambricos-gimnasio-1016431'>Mejores auriculares inalámbricos para el gimnasio que puedes comprar</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/mejores-auriculares-inalambricos-gimnasio-1016431' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/mujer-atandose-zapatillas-ropa-deportiva-gimnasio-auriculares-2905886.jpg?tf=1200x' alt='Mejores auriculares inalámbricos para el gimnasio que puedes comprar' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/espacio/pasaria-aguja-viaja-velocidad-luz-impacta-jupiter-video-1172554'>¿Qué pasaría si una aguja que viaja a la velocidad de la luz impacta sobre Júpiter? (vídeo)</a></h4>
     <a href='https://computerhoy.com/espacio/pasaria-aguja-viaja-velocidad-luz-impacta-jupiter-video-1172554' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/pasaria-aguja-viaja-velocidad-luz-impacta-jupiter-2906134.jpg?tf=1200x' alt='¿Qué pasaría si una aguja que viaja a la velocidad de la luz impacta sobre Júpiter? (vídeo)' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/android-13-en-windows-11-1172368'>Android 13 llega a Windows 11, antes que a muchos móviles</a></h4>
-    <a href='https://computerhoy.com/windows/android-13-en-windows-11-1172368' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/android-13-llega-windows-11-antes-muchos-moviles-2905926.jpg?tf=1200x' alt='Android 13 llega a Windows 11, antes que a muchos móviles' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/xiaomi-11t-pro-movil-premium-solo-388-euros-cupon-descuento-1172354'>Xiaomi 11T Pro, un móvil premium por solo 388 euros usando un cupón</a></h4>
-    <a href='https://computerhoy.com/moviles/xiaomi-11t-pro-movil-premium-solo-388-euros-cupon-descuento-1172354' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/galeria-review-xiaomi-11t-pro-2495815.jpg?tf=1200x' alt='Xiaomi 11T Pro, un móvil premium por solo 388 euros usando un cupón' />
     </a>
 </div>
 
