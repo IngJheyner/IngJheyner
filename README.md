@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/movistar-plus-series-peliculas-enero-2023-plus-black-phone-jurassic-world-dominion-1172932'>Todas las series y películas que llegan en enero a Movistar Plus+: Black Phone, Jurassic World Dominion, y mucho más</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/movistar-plus-series-peliculas-enero-2023-plus-black-phone-jurassic-world-dominion-1172932' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/todas-series-peliculas-llegan-enero-movistar-plus-black-phone-jurassic-world-dominion-mucho-2907164.jpg?tf=1200x' alt='Todas las series y películas que llegan en enero a Movistar Plus+: Black Phone, Jurassic World Dominion, y mucho más' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/redes-sociales/exodo-mastodon-cada-decision-elon-musk-twitter-1172910'>Éxodo a Mastodon con cada decisión de Elon Musk en Twitter</a></h4>
+    <a href='https://computerhoy.com/redes-sociales/exodo-mastodon-cada-decision-elon-musk-twitter-1172910' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/bye-bye-bird-pajaro-raspberry-pi-suelta-lagrima-cada-vez-alguien-borra-twitter-2881713.jpg?tf=1200x' alt='Éxodo a Mastodon con cada decisión de Elon Musk en Twitter' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/legislacion/ahora-te-pensaras-dos-veces-hora-compartir-contrasena-netflix-1172914'>Ahora te lo pensarás dos veces a la hora de compartir tu contraseña de Netflix</a></h4>
     <a href='https://computerhoy.com/legislacion/ahora-te-pensaras-dos-veces-hora-compartir-contrasena-netflix-1172914' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/netflix-2889718.jpg?tf=1200x' alt='Ahora te lo pensarás dos veces a la hora de compartir tu contraseña de Netflix' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/industria/que-es-shein-ropa-barata-online-887127'>Qué es Shein y cómo funciona la tienda china de la ropa barata online que amenaza a Zara, Primark o H&M</a></h4>
     <a href='https://computerhoy.com/reportajes/industria/que-es-shein-ropa-barata-online-887127' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/shein-2700201.jpg?tf=1200x' alt='Qué es Shein y cómo funciona la tienda china de la ropa barata online que amenaza a Zara, Primark o H&M' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/ofertas-moviles-xiaomi-ebay-descuento-1172726'>Todavía llegas a estas ofertas de móviles Xiaomi en eBay con hasta el 15% de descuento</a></h4>
-    <a href='https://computerhoy.com/moviles/ofertas-moviles-xiaomi-ebay-descuento-1172726' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/poco-x4-pro-analisis-opinion-2663735.jpg?tf=1200x' alt='Todavía llegas a estas ofertas de móviles Xiaomi en eBay con hasta el 15% de descuento' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/google-pay-usara-inteligencia-artificial-evitar-fraudes-1172828'>Google Pay usará inteligencia artificial para evitar fraudes</a></h4>
-    <a href='https://computerhoy.com/google/google-pay-usara-inteligencia-artificial-evitar-fraudes-1172828' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/google-pay-2906956.jpg?tf=1200x' alt='Google Pay usará inteligencia artificial para evitar fraudes' />
     </a>
 </div>
 
