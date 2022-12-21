@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/pc/cuando-saldra-raspberry-pi-5-fecha-lanzamiento-1172950'>¿Cuándo saldrá la Raspberry Pi 5? Raspberry nos da una buena y una mala noticia, y explica sus planes para 2023</a></h4>
+    <a href='https://computerhoy.com/pc/cuando-saldra-raspberry-pi-5-fecha-lanzamiento-1172950' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/raspberry-pi-2226541.jpg?tf=1200x' alt='¿Cuándo saldrá la Raspberry Pi 5? Raspberry nos da una buena y una mala noticia, y explica sus planes para 2023' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/android/redmagic-8-pro-presentara-26-diciembre-primeros-moviles-snapdragon-8-gen-2-1172844'>RedMagic 8 Pro se presentará el 26 de diciembre. Uno de los primeros móviles con Snapdragon 8 Gen 2</a></h4>
     <a href='https://computerhoy.com/android/redmagic-8-pro-presentara-26-diciembre-primeros-moviles-snapdragon-8-gen-2-1172844' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/redmagic-2907160.jpeg?tf=1200x' alt='RedMagic 8 Pro se presentará el 26 de diciembre. Uno de los primeros móviles con Snapdragon 8 Gen 2' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/entretenimiento/movistar-plus-series-peliculas-enero-2023-plus-black-phone-jurassic-world-dominion-1172932'>Todas las series y películas que llegan en enero a Movistar Plus+: Black Phone, Jurassic World Dominion, y mucho más</a></h4>
     <a href='https://computerhoy.com/entretenimiento/movistar-plus-series-peliculas-enero-2023-plus-black-phone-jurassic-world-dominion-1172932' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/todas-series-peliculas-llegan-enero-movistar-plus-black-phone-jurassic-world-dominion-mucho-2907164.jpg?tf=1200x' alt='Todas las series y películas que llegan en enero a Movistar Plus+: Black Phone, Jurassic World Dominion, y mucho más' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/redes-sociales/exodo-mastodon-cada-decision-elon-musk-twitter-1172910'>Éxodo a Mastodon con cada decisión de Elon Musk en Twitter</a></h4>
-    <a href='https://computerhoy.com/redes-sociales/exodo-mastodon-cada-decision-elon-musk-twitter-1172910' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/bye-bye-bird-pajaro-raspberry-pi-suelta-lagrima-cada-vez-alguien-borra-twitter-2881713.jpg?tf=1200x' alt='Éxodo a Mastodon con cada decisión de Elon Musk en Twitter' />
     </a>
 </div>
 
