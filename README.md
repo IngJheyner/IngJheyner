@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/patrocinado/epson-desmonta-serie-mitos-impresion-todos-hemos-oido-alguna-vez-1171448'>Epson desmonta una serie de mitos sobre la impresión que todos hemos oído alguna vez</a></h4>
+    <a href='https://computerhoy.com/patrocinado/epson-desmonta-serie-mitos-impresion-todos-hemos-oido-alguna-vez-1171448' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/usain-bolt-epson-2904130.jpg?tf=1200x' alt='Epson desmonta una serie de mitos sobre la impresión que todos hemos oído alguna vez' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/moviles/estas-son-caracteristicas-encontraras-proximo-smartphone-precio-1167936'>Estas son las características que encontrarás en tu próximo smartphone según su precio</a></h4>
+    <a href='https://computerhoy.com/moviles/estas-son-caracteristicas-encontraras-proximo-smartphone-precio-1167936' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/estas-son-caracteristicas-encontraras-proximo-smartphone-precio-2897752.jpg?tf=1200x' alt='Estas son las características que encontrarás en tu próximo smartphone según su precio' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/25-noticias-tecnologia-comenzar-manana-informado-ultimo-1173166'>25 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
+    <a href='https://computerhoy.com/tecnologia/25-noticias-tecnologia-comenzar-manana-informado-ultimo-1173166' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/25-noticias-tecnologia-comenzar-manana-informado-ultimo-2907464.jpg?tf=1200x' alt='25 noticias de tecnología para comenzar la mañana informado de lo último' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/audio/altavoces-inteligentes-mejores-modelos-ofertas-1172860'>¿Qué altavoz inteligente te merece la pena comprar? Modelos y mejores ofertas</a></h4>
     <a href='https://computerhoy.com/audio/altavoces-inteligentes-mejores-modelos-ofertas-1172860' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/altavoces-inteligentes-bose-smart-speaker-500-2907088.jpg?tf=1200x' alt='¿Qué altavoz inteligente te merece la pena comprar? Modelos y mejores ofertas' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/vota-premios-computerhoy-2022-finalistas-mejor-smartphone-gama-alta-1173162'>Vota en los Premios ComputerHoy 2022: finalistas al mejor smartphone gama alta</a></h4>
     <a href='https://computerhoy.com/tecnologia/vota-premios-computerhoy-2022-finalistas-mejor-smartphone-gama-alta-1173162' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/12/vota-premios-computerhoy-2020-finalistas-mejores-smartphones-gama-alta-2180781.jpg?tf=1200x' alt='Vota en los Premios ComputerHoy 2022: finalistas al mejor smartphone gama alta' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/policia-dinamarca-equipo-gaming-fortnite-minecraft-proteger-menores-1173160'>La policía danesa tiene un equipo gaming que juega a Fortnite y Minecraft para proteger a los menores</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/policia-dinamarca-equipo-gaming-fortnite-minecraft-proteger-menores-1173160' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/policia-danesa-tiene-equipo-gaming-juega-fortnite-minecraft-proteger-menores-2907232.jpg?tf=1200x' alt='La policía danesa tiene un equipo gaming que juega a Fortnite y Minecraft para proteger a los menores' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/cuando-saldra-raspberry-pi-5-fecha-lanzamiento-1172950'>¿Cuándo saldrá la Raspberry Pi 5? Raspberry nos da una buena y una mala noticia, y explica sus planes para 2023</a></h4>
-    <a href='https://computerhoy.com/pc/cuando-saldra-raspberry-pi-5-fecha-lanzamiento-1172950' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/raspberry-pi-2226541.jpg?tf=1200x' alt='¿Cuándo saldrá la Raspberry Pi 5? Raspberry nos da una buena y una mala noticia, y explica sus planes para 2023' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/android/redmagic-8-pro-presentara-26-diciembre-primeros-moviles-snapdragon-8-gen-2-1172844'>RedMagic 8 Pro se presentará el 26 de diciembre. Uno de los primeros móviles con Snapdragon 8 Gen 2</a></h4>
-    <a href='https://computerhoy.com/android/redmagic-8-pro-presentara-26-diciembre-primeros-moviles-snapdragon-8-gen-2-1172844' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/redmagic-2907160.jpeg?tf=1200x' alt='RedMagic 8 Pro se presentará el 26 de diciembre. Uno de los primeros móviles con Snapdragon 8 Gen 2' />
     </a>
 </div>
 
