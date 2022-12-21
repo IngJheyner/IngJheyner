@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/moviles/zte-blade-v40-design-nuevo-smartphone-compania-china-1173386'>ZTE Blade V40 Design, así es el nuevo smartphone de la compañía china</a></h4>
+    <a href='https://computerhoy.com/moviles/zte-blade-v40-design-nuevo-smartphone-compania-china-1173386' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/zte-blade-v40-design-2908034.jpg?tf=1200x' alt='ZTE Blade V40 Design, así es el nuevo smartphone de la compañía china' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/google/ninos-podran-hacer-compras-google-play-gracias-nueva-herramienta-google-1173342'>Los niños podrán hacer "compras" en Google Play gracias a la nueva herramienta de Google</a></h4>
     <a href='https://computerhoy.com/google/ninos-podran-hacer-compras-google-play-gracias-nueva-herramienta-google-1173342' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/ninos-podran-hacer-compras-google-play-gracias-nueva-herramienta-google-2907936.jpg?tf=1200x' alt='Los niños podrán hacer "compras" en Google Play gracias a la nueva herramienta de Google' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/life/truco-te-permitira-conservar-descuento-50-abono-madrid-enero-2023-1173288'>Este truco te permitirá conservar el descuento del 50% en tu abono de Madrid en enero de 2023</a></h4>
     <a href='https://computerhoy.com/life/truco-te-permitira-conservar-descuento-50-abono-madrid-enero-2023-1173288' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/sencillo-truco-te-permitira-conservar-descuento-50-abono-transporte-enero-2023-2907782.jpg?tf=1200x' alt='Este truco te permitirá conservar el descuento del 50% en tu abono de Madrid en enero de 2023' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/gaming/sera-brutal-nvidia-rtx-titan-gpu-potente-mundo-1173272'>Así será la brutal NVIDIA RTX TITAN, la GPU más potente del mundo</a></h4>
-    <a href='https://computerhoy.com/gaming/sera-brutal-nvidia-rtx-titan-gpu-potente-mundo-1173272' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/galeria-review-rtx-4080-2872529.jpg?tf=1200x' alt='Así será la brutal NVIDIA RTX TITAN, la GPU más potente del mundo' />
     </a>
 </div>
 
