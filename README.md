@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-utilizar-movil-android-windows-phone-link-1170388'>Cómo utilizar tu móvil Android desde Windows con Phone Link</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-utilizar-movil-android-windows-phone-link-1170388' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/enlace-movil-windows-android-2902302.jpg?tf=1200x' alt='Cómo utilizar tu móvil Android desde Windows con Phone Link' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/android/xiaomi-no-rinde-tablets-filtradas-especificaciones-xiaomi-pad-6-1173422'>Xiaomi no se rinde con sus tablets: filtradas las especificaciones de la Xiaomi Pad 6</a></h4>
     <a href='https://computerhoy.com/android/xiaomi-no-rinde-tablets-filtradas-especificaciones-xiaomi-pad-6-1173422' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/analisis-xiaomi-pad-5-2531843.jpg?tf=1200x' alt='Xiaomi no se rinde con sus tablets: filtradas las especificaciones de la Xiaomi Pad 6' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/moviles/zte-blade-v40-design-nuevo-smartphone-compania-china-1173386'>ZTE Blade V40 Design, así es el nuevo smartphone de la compañía china</a></h4>
     <a href='https://computerhoy.com/moviles/zte-blade-v40-design-nuevo-smartphone-compania-china-1173386' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/zte-blade-v40-design-2908034.jpg?tf=1200x' alt='ZTE Blade V40 Design, así es el nuevo smartphone de la compañía china' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/ninos-podran-hacer-compras-google-play-gracias-nueva-herramienta-google-1173342'>Los niños podrán hacer "compras" en Google Play gracias a la nueva herramienta de Google</a></h4>
-    <a href='https://computerhoy.com/google/ninos-podran-hacer-compras-google-play-gracias-nueva-herramienta-google-1173342' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/ninos-podran-hacer-compras-google-play-gracias-nueva-herramienta-google-2907936.jpg?tf=1200x' alt='Los niños podrán hacer "compras" en Google Play gracias a la nueva herramienta de Google' />
     </a>
 </div>
 
