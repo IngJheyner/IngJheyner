@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/openai-no-ahora-lanza-point-similar-dall-pero-modelado-3d-1173324'>OpenAI no para y ahora lanza Point-E, similar a DALL-E pero para modelado 3D</a></h4>
+    <a href='https://computerhoy.com/tecnologia/openai-no-ahora-lanza-point-similar-dall-pero-modelado-3d-1173324' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/openai-no-ahora-lanza-point-similar-dall-pero-modelado-3d-2907908.jpg?tf=1200x' alt='OpenAI no para y ahora lanza Point-E, similar a DALL-E pero para modelado 3D' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/redes-sociales/primero-chrome-luego-instagram-ahora-record-historico-whatsapp-gracias-messi-1173308'>Primero Chrome, luego Instagram... y ahora récord histórico en WhatsApp gracias a Messi</a></h4>
+    <a href='https://computerhoy.com/redes-sociales/primero-chrome-luego-instagram-ahora-record-historico-whatsapp-gracias-messi-1173308' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/whatsapp-messi-2907796.jpg?tf=1200x' alt='Primero Chrome, luego Instagram... y ahora récord histórico en WhatsApp gracias a Messi' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/truco-te-permitira-conservar-descuento-50-abono-madrid-enero-2023-1173288'>Este truco te permitirá conservar el descuento del 50% en tu abono de Madrid en enero de 2023</a></h4>
     <a href='https://computerhoy.com/life/truco-te-permitira-conservar-descuento-50-abono-madrid-enero-2023-1173288' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/sencillo-truco-te-permitira-conservar-descuento-50-abono-transporte-enero-2023-2907782.jpg?tf=1200x' alt='Este truco te permitirá conservar el descuento del 50% en tu abono de Madrid en enero de 2023' />
@@ -66,25 +82,9 @@
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/gaming/oferta-nintendo-switch-juego-gratis-1173254'>La oferta definitiva para Reyes magos: Esta Nintendo Switch viene con un juego gratis y cuesta menos de 350€</a></h4>
+    <h4><a href='https://computerhoy.com/gaming/oferta-nintendo-switch-juego-gratis-1173254'>La oferta definitiva para Reyes Magos: Esta Nintendo Switch viene con un juego gratis y cuesta menos de 350€</a></h4>
     <a href='https://computerhoy.com/gaming/oferta-nintendo-switch-juego-gratis-1173254' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/analisis-nintendo-switch-oled-2508425.jpg?tf=1200x' alt='La oferta definitiva para Reyes magos: Esta Nintendo Switch viene con un juego gratis y cuesta menos de 350€' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/apple-podria-posponer-proximo-iphone-barato-minimo-2024-1173244'>Apple podría posponer su próximo iPhone SE, barato, hasta mínimo 2024</a></h4>
-    <a href='https://computerhoy.com/apple/apple-podria-posponer-proximo-iphone-barato-minimo-2024-1173244' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/analisis-iphone-2022-2656605.jpg?tf=1200x' alt='Apple podría posponer su próximo iPhone SE, barato, hasta mínimo 2024' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/netflix-fuera-proxima-adquisicion-microsoft-1173222'>¿Y si Netflix fuera la próxima adquisición de Microsoft? </a></h4>
-    <a href='https://computerhoy.com/tecnologia/netflix-fuera-proxima-adquisicion-microsoft-1173222' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/netflix-fuera-proxima-adquisicion-microsoft-2907736.jpg?tf=1200x' alt='¿Y si Netflix fuera la próxima adquisición de Microsoft? ' />
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/analisis-nintendo-switch-oled-2508425.jpg?tf=1200x' alt='La oferta definitiva para Reyes Magos: Esta Nintendo Switch viene con un juego gratis y cuesta menos de 350€' />
     </a>
 </div>
 
