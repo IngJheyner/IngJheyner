@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/vota-premios-computerhoy-2022-finalistas-mejor-smartphone-gama-alta-1173162'>Vota en los Premios ComputerHoy 2022: finalistas al mejor smartphone gama alta</a></h4>
+    <a href='https://computerhoy.com/tecnologia/vota-premios-computerhoy-2022-finalistas-mejor-smartphone-gama-alta-1173162' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/12/vota-premios-computerhoy-2020-finalistas-mejores-smartphones-gama-alta-2180781.jpg?tf=1200x' alt='Vota en los Premios ComputerHoy 2022: finalistas al mejor smartphone gama alta' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciberseguridad/policia-dinamarca-equipo-gaming-fortnite-minecraft-proteger-menores-1173160'>La policía danesa tiene un equipo gaming que juega a Fortnite y Minecraft para proteger a los menores</a></h4>
     <a href='https://computerhoy.com/ciberseguridad/policia-dinamarca-equipo-gaming-fortnite-minecraft-proteger-menores-1173160' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/policia-danesa-tiene-equipo-gaming-juega-fortnite-minecraft-proteger-menores-2907232.jpg?tf=1200x' alt='La policía danesa tiene un equipo gaming que juega a Fortnite y Minecraft para proteger a los menores' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tutoriales/como-poner-contrasena-carpetas-windows-11-programas-1172930'>Cómo poner una contraseña a las carpetas de Windows 11 sin programas</a></h4>
     <a href='https://computerhoy.com/tutoriales/como-poner-contrasena-carpetas-windows-11-programas-1172930' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/carpeta-encriptada-google-guardar-fotos-videos-privados-ya-disponible-moviles-android-2552711.jpg?tf=1200x' alt='Cómo poner una contraseña a las carpetas de Windows 11 sin programas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/oppo-pad-air-tablet-todoterreno-oferta-solo-249-euros-1172940'>Oppo Pad Air una tablet todoterreno en oferta por solo 249 euros</a></h4>
-    <a href='https://computerhoy.com/pc/oppo-pad-air-tablet-todoterreno-oferta-solo-249-euros-1172940' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/oppo-pad-air-analisis-opinion-2828823.jpg?tf=1200x' alt='Oppo Pad Air una tablet todoterreno en oferta por solo 249 euros' />
     </a>
 </div>
 
