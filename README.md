@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/audio/altavoces-inteligentes-mejores-modelos-ofertas-1172860'>¿Qué altavoz inteligente te merece la pena comprar? Modelos y mejores ofertas</a></h4>
+    <a href='https://computerhoy.com/audio/altavoces-inteligentes-mejores-modelos-ofertas-1172860' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/altavoces-inteligentes-bose-smart-speaker-500-2907088.jpg?tf=1200x' alt='¿Qué altavoz inteligente te merece la pena comprar? Modelos y mejores ofertas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/vota-premios-computerhoy-2022-finalistas-mejor-smartphone-gama-alta-1173162'>Vota en los Premios ComputerHoy 2022: finalistas al mejor smartphone gama alta</a></h4>
     <a href='https://computerhoy.com/tecnologia/vota-premios-computerhoy-2022-finalistas-mejor-smartphone-gama-alta-1173162' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/12/vota-premios-computerhoy-2020-finalistas-mejores-smartphones-gama-alta-2180781.jpg?tf=1200x' alt='Vota en los Premios ComputerHoy 2022: finalistas al mejor smartphone gama alta' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/android/redmagic-8-pro-presentara-26-diciembre-primeros-moviles-snapdragon-8-gen-2-1172844'>RedMagic 8 Pro se presentará el 26 de diciembre. Uno de los primeros móviles con Snapdragon 8 Gen 2</a></h4>
     <a href='https://computerhoy.com/android/redmagic-8-pro-presentara-26-diciembre-primeros-moviles-snapdragon-8-gen-2-1172844' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/redmagic-2907160.jpeg?tf=1200x' alt='RedMagic 8 Pro se presentará el 26 de diciembre. Uno de los primeros móviles con Snapdragon 8 Gen 2' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-poner-contrasena-carpetas-windows-11-programas-1172930'>Cómo poner una contraseña a las carpetas de Windows 11 sin programas</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-poner-contrasena-carpetas-windows-11-programas-1172930' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/carpeta-encriptada-google-guardar-fotos-videos-privados-ya-disponible-moviles-android-2552711.jpg?tf=1200x' alt='Cómo poner una contraseña a las carpetas de Windows 11 sin programas' />
     </a>
 </div>
 
