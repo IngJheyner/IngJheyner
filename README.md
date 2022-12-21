@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/audio/altavoces-baratos-fiesta-navidad-nochevieja-1173334'>Altavoces baratos para tu fiesta de Navidad o Nochevieja</a></h4>
+    <a href='https://computerhoy.com/audio/altavoces-baratos-fiesta-navidad-nochevieja-1173334' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/bola-espejos-fiestas-2907922.jpg?tf=1200x' alt='Altavoces baratos para tu fiesta de Navidad o Nochevieja' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/como-seguir-sorteo-online-directo-loteria-navidad-2022-1166926'>Cómo seguir el sorteo online y en directo de la Lotería de Navidad 2022</a></h4>
     <a href='https://computerhoy.com/life/como-seguir-sorteo-online-directo-loteria-navidad-2022-1166926' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/loteria-navidad-2895872.jpg?tf=1200x' alt='Cómo seguir el sorteo online y en directo de la Lotería de Navidad 2022' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/openai-no-ahora-lanza-point-similar-dall-pero-modelado-3d-1173324'>OpenAI no para y ahora lanza Point-E, similar a DALL-E pero para modelado 3D</a></h4>
     <a href='https://computerhoy.com/tecnologia/openai-no-ahora-lanza-point-similar-dall-pero-modelado-3d-1173324' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/openai-no-ahora-lanza-point-similar-dall-pero-modelado-3d-2907908.jpg?tf=1200x' alt='OpenAI no para y ahora lanza Point-E, similar a DALL-E pero para modelado 3D' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/redes-sociales/primero-chrome-luego-instagram-ahora-record-historico-whatsapp-gracias-messi-1173308'>Primero Chrome, luego Instagram... y ahora récord histórico en WhatsApp gracias a Messi</a></h4>
-    <a href='https://computerhoy.com/redes-sociales/primero-chrome-luego-instagram-ahora-record-historico-whatsapp-gracias-messi-1173308' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/whatsapp-messi-2907796.jpg?tf=1200x' alt='Primero Chrome, luego Instagram... y ahora récord histórico en WhatsApp gracias a Messi' />
     </a>
 </div>
 
