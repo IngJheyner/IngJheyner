@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/apps-recrear-magia-navidad-entusiasmaran-cualquier-nino-1166390'>Apps para recrear la magia de la Navidad que entusiasmarán a cualquier niño</a></h4>
+    <a href='https://computerhoy.com/apps/apps-recrear-magia-navidad-entusiasmaran-cualquier-nino-1166390' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/aplicaciones-ninos-navidad-2894950.jpg?tf=1200x' alt='Apps para recrear la magia de la Navidad que entusiasmarán a cualquier niño' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/redes-sociales/elon-musk-renuncia-como-ceo-twitter-pueblo-ha-hablado-1173196'>Elon Musk renuncia como CEO de Twitter: el pueblo ha hablado</a></h4>
+    <a href='https://computerhoy.com/redes-sociales/elon-musk-renuncia-como-ceo-twitter-pueblo-ha-hablado-1173196' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/elon-musk-2903170.jpg?tf=1200x' alt='Elon Musk renuncia como CEO de Twitter: el pueblo ha hablado' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/karaoke-ios-162-podamos-estar-horas-cantando-1170504'>Así es el karaoke de iOS 16.2, para que podamos estar horas cantando</a></h4>
+    <a href='https://computerhoy.com/tutoriales/karaoke-ios-162-podamos-estar-horas-cantando-1170504' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/ios-162-2902412.jpg?tf=1200x' alt='Así es el karaoke de iOS 16.2, para que podamos estar horas cantando' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/patrocinado/epson-desmonta-serie-mitos-impresion-todos-hemos-oido-alguna-vez-1171448'>Epson desmonta una serie de mitos sobre la impresión que todos hemos oído alguna vez</a></h4>
     <a href='https://computerhoy.com/patrocinado/epson-desmonta-serie-mitos-impresion-todos-hemos-oido-alguna-vez-1171448' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/usain-bolt-epson-2904130.jpg?tf=1200x' alt='Epson desmonta una serie de mitos sobre la impresión que todos hemos oído alguna vez' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/moviles/estas-son-caracteristicas-encontraras-proximo-smartphone-precio-1167936'>Estas son las características que encontrarás en tu próximo smartphone según su precio</a></h4>
     <a href='https://computerhoy.com/moviles/estas-son-caracteristicas-encontraras-proximo-smartphone-precio-1167936' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/estas-son-caracteristicas-encontraras-proximo-smartphone-precio-2897752.jpg?tf=1200x' alt='Estas son las características que encontrarás en tu próximo smartphone según su precio' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/25-noticias-tecnologia-comenzar-manana-informado-ultimo-1173166'>25 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
-    <a href='https://computerhoy.com/tecnologia/25-noticias-tecnologia-comenzar-manana-informado-ultimo-1173166' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/25-noticias-tecnologia-comenzar-manana-informado-ultimo-2907464.jpg?tf=1200x' alt='25 noticias de tecnología para comenzar la mañana informado de lo último' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/audio/altavoces-inteligentes-mejores-modelos-ofertas-1172860'>¿Qué altavoz inteligente te merece la pena comprar? Modelos y mejores ofertas</a></h4>
-    <a href='https://computerhoy.com/audio/altavoces-inteligentes-mejores-modelos-ofertas-1172860' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/altavoces-inteligentes-bose-smart-speaker-500-2907088.jpg?tf=1200x' alt='¿Qué altavoz inteligente te merece la pena comprar? Modelos y mejores ofertas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/vota-premios-computerhoy-2022-finalistas-mejor-smartphone-gama-alta-1173162'>Vota en los Premios ComputerHoy 2022: finalistas al mejor smartphone gama alta</a></h4>
-    <a href='https://computerhoy.com/tecnologia/vota-premios-computerhoy-2022-finalistas-mejor-smartphone-gama-alta-1173162' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/12/vota-premios-computerhoy-2020-finalistas-mejores-smartphones-gama-alta-2180781.jpg?tf=1200x' alt='Vota en los Premios ComputerHoy 2022: finalistas al mejor smartphone gama alta' />
     </a>
 </div>
 
