@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/moviles/iphone-14-plus-180-euros-descuento-oferta-1173494'>Esto es muy poco habitual: un iPhone 14 Plus con 180€ de descuento, ¡aprovecha!</a></h4>
+    <a href='https://computerhoy.com/moviles/iphone-14-plus-180-euros-descuento-oferta-1173494' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/apple-iphone-14-plus-analisis-opinion-2857691.jpg?tf=1200x' alt='Esto es muy poco habitual: un iPhone 14 Plus con 180€ de descuento, ¡aprovecha!' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/streaming/hbo-max-avance-series-2023-1173486'>HBO Max nos muestra un avance de las series que llegarán en 2023</a></h4>
     <a href='https://computerhoy.com/streaming/hbo-max-avance-series-2023-1173486' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/verticalimage1671653086993-2908220.jpg?tf=1200x' alt='HBO Max nos muestra un avance de las series que llegarán en 2023' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tutoriales/como-utilizar-movil-android-windows-phone-link-1170388'>Cómo utilizar tu móvil Android desde Windows con Phone Link</a></h4>
     <a href='https://computerhoy.com/tutoriales/como-utilizar-movil-android-windows-phone-link-1170388' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/enlace-movil-windows-android-2902302.jpg?tf=1200x' alt='Cómo utilizar tu móvil Android desde Windows con Phone Link' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/android/xiaomi-no-rinde-tablets-filtradas-especificaciones-xiaomi-pad-6-1173422'>Xiaomi no se rinde con sus tablets: filtradas las especificaciones de la Xiaomi Pad 6</a></h4>
-    <a href='https://computerhoy.com/android/xiaomi-no-rinde-tablets-filtradas-especificaciones-xiaomi-pad-6-1173422' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/analisis-xiaomi-pad-5-2531843.jpg?tf=1200x' alt='Xiaomi no se rinde con sus tablets: filtradas las especificaciones de la Xiaomi Pad 6' />
     </a>
 </div>
 
