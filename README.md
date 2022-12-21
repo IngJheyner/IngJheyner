@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/streaming/hbo-max-avance-series-2023-1173486'>HBO Max nos muestra un avance de las series que llegarán en 2023</a></h4>
+    <a href='https://computerhoy.com/streaming/hbo-max-avance-series-2023-1173486' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/verticalimage1671653086993-2908220.jpg?tf=1200x' alt='HBO Max nos muestra un avance de las series que llegarán en 2023' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/motor/peligro-neumaticos-desgastados-peligroso-conducir-ebrio-1173484'>El peligro de los neumáticos desgastados: más peligroso que conducir ebrio</a></h4>
+    <a href='https://computerhoy.com/motor/peligro-neumaticos-desgastados-peligroso-conducir-ebrio-1173484' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/neumaticos-2908230.jpg?tf=1200x' alt='El peligro de los neumáticos desgastados: más peligroso que conducir ebrio' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/alimentacion/debes-tener-cuenta-comprar-mejor-freidora-aire-aceite-estas-navidades-ocu-1173482'>Esto debes tener en cuenta para comprar la mejor freidora de aire sin aceite estas Navidades, según la OCU</a></h4>
+    <a href='https://computerhoy.com/alimentacion/debes-tener-cuenta-comprar-mejor-freidora-aire-aceite-estas-navidades-ocu-1173482' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/freidora-aire-aceite-2908226.jpg?tf=1200x' alt='Esto debes tener en cuenta para comprar la mejor freidora de aire sin aceite estas Navidades, según la OCU' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tutoriales/como-utilizar-movil-android-windows-phone-link-1170388'>Cómo utilizar tu móvil Android desde Windows con Phone Link</a></h4>
     <a href='https://computerhoy.com/tutoriales/como-utilizar-movil-android-windows-phone-link-1170388' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/enlace-movil-windows-android-2902302.jpg?tf=1200x' alt='Cómo utilizar tu móvil Android desde Windows con Phone Link' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/android/xiaomi-no-rinde-tablets-filtradas-especificaciones-xiaomi-pad-6-1173422'>Xiaomi no se rinde con sus tablets: filtradas las especificaciones de la Xiaomi Pad 6</a></h4>
     <a href='https://computerhoy.com/android/xiaomi-no-rinde-tablets-filtradas-especificaciones-xiaomi-pad-6-1173422' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/analisis-xiaomi-pad-5-2531843.jpg?tf=1200x' alt='Xiaomi no se rinde con sus tablets: filtradas las especificaciones de la Xiaomi Pad 6' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/audio/altavoces-baratos-fiesta-navidad-nochevieja-1173334'>Altavoces baratos para tu fiesta de Navidad o Nochevieja</a></h4>
-    <a href='https://computerhoy.com/audio/altavoces-baratos-fiesta-navidad-nochevieja-1173334' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/bola-espejos-fiestas-2907922.jpg?tf=1200x' alt='Altavoces baratos para tu fiesta de Navidad o Nochevieja' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/como-seguir-sorteo-online-directo-loteria-navidad-2022-1166926'>Cómo seguir el sorteo online y en directo de la Lotería de Navidad 2022</a></h4>
-    <a href='https://computerhoy.com/life/como-seguir-sorteo-online-directo-loteria-navidad-2022-1166926' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/loteria-navidad-2895872.jpg?tf=1200x' alt='Cómo seguir el sorteo online y en directo de la Lotería de Navidad 2022' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/zte-blade-v40-design-nuevo-smartphone-compania-china-1173386'>ZTE Blade V40 Design, así es el nuevo smartphone de la compañía china</a></h4>
-    <a href='https://computerhoy.com/moviles/zte-blade-v40-design-nuevo-smartphone-compania-china-1173386' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/zte-blade-v40-design-2908034.jpg?tf=1200x' alt='ZTE Blade V40 Design, así es el nuevo smartphone de la compañía china' />
     </a>
 </div>
 
