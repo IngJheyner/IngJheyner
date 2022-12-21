@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/policia-dinamarca-equipo-gaming-fortnite-minecraft-proteger-menores-1173160'>La policía danesa tiene un equipo gaming que juega a Fortnite y Minecraft para proteger a los menores</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/policia-dinamarca-equipo-gaming-fortnite-minecraft-proteger-menores-1173160' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/policia-danesa-tiene-equipo-gaming-juega-fortnite-minecraft-proteger-menores-2907232.jpg?tf=1200x' alt='La policía danesa tiene un equipo gaming que juega a Fortnite y Minecraft para proteger a los menores' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/pc/cuando-saldra-raspberry-pi-5-fecha-lanzamiento-1172950'>¿Cuándo saldrá la Raspberry Pi 5? Raspberry nos da una buena y una mala noticia, y explica sus planes para 2023</a></h4>
     <a href='https://computerhoy.com/pc/cuando-saldra-raspberry-pi-5-fecha-lanzamiento-1172950' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/raspberry-pi-2226541.jpg?tf=1200x' alt='¿Cuándo saldrá la Raspberry Pi 5? Raspberry nos da una buena y una mala noticia, y explica sus planes para 2023' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/pc/oppo-pad-air-tablet-todoterreno-oferta-solo-249-euros-1172940'>Oppo Pad Air una tablet todoterreno en oferta por solo 249 euros</a></h4>
     <a href='https://computerhoy.com/pc/oppo-pad-air-tablet-todoterreno-oferta-solo-249-euros-1172940' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/oppo-pad-air-analisis-opinion-2828823.jpg?tf=1200x' alt='Oppo Pad Air una tablet todoterreno en oferta por solo 249 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/movistar-plus-series-peliculas-enero-2023-plus-black-phone-jurassic-world-dominion-1172932'>Todas las series y películas que llegan en enero a Movistar Plus+: Black Phone, Jurassic World Dominion, y mucho más</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/movistar-plus-series-peliculas-enero-2023-plus-black-phone-jurassic-world-dominion-1172932' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/todas-series-peliculas-llegan-enero-movistar-plus-black-phone-jurassic-world-dominion-mucho-2907164.jpg?tf=1200x' alt='Todas las series y películas que llegan en enero a Movistar Plus+: Black Phone, Jurassic World Dominion, y mucho más' />
     </a>
 </div>
 
