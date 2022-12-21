@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/como-seguir-sorteo-online-directo-loteria-navidad-2022-1166926'>Cómo seguir el sorteo online y en directo de la Lotería de Navidad 2022</a></h4>
+    <a href='https://computerhoy.com/life/como-seguir-sorteo-online-directo-loteria-navidad-2022-1166926' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/loteria-navidad-2895872.jpg?tf=1200x' alt='Cómo seguir el sorteo online y en directo de la Lotería de Navidad 2022' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/moviles/zte-blade-v40-design-nuevo-smartphone-compania-china-1173386'>ZTE Blade V40 Design, así es el nuevo smartphone de la compañía china</a></h4>
     <a href='https://computerhoy.com/moviles/zte-blade-v40-design-nuevo-smartphone-compania-china-1173386' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/zte-blade-v40-design-2908034.jpg?tf=1200x' alt='ZTE Blade V40 Design, así es el nuevo smartphone de la compañía china' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/redes-sociales/primero-chrome-luego-instagram-ahora-record-historico-whatsapp-gracias-messi-1173308'>Primero Chrome, luego Instagram... y ahora récord histórico en WhatsApp gracias a Messi</a></h4>
     <a href='https://computerhoy.com/redes-sociales/primero-chrome-luego-instagram-ahora-record-historico-whatsapp-gracias-messi-1173308' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/whatsapp-messi-2907796.jpg?tf=1200x' alt='Primero Chrome, luego Instagram... y ahora récord histórico en WhatsApp gracias a Messi' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/truco-te-permitira-conservar-descuento-50-abono-madrid-enero-2023-1173288'>Este truco te permitirá conservar el descuento del 50% en tu abono de Madrid en enero de 2023</a></h4>
-    <a href='https://computerhoy.com/life/truco-te-permitira-conservar-descuento-50-abono-madrid-enero-2023-1173288' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/sencillo-truco-te-permitira-conservar-descuento-50-abono-transporte-enero-2023-2907782.jpg?tf=1200x' alt='Este truco te permitirá conservar el descuento del 50% en tu abono de Madrid en enero de 2023' />
     </a>
 </div>
 
