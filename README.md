@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/google/ninos-podran-hacer-compras-google-play-gracias-nueva-herramienta-google-1173342'>Los niños podrán hacer "compras" en Google Play gracias a la nueva herramienta de Google</a></h4>
+    <a href='https://computerhoy.com/google/ninos-podran-hacer-compras-google-play-gracias-nueva-herramienta-google-1173342' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/ninos-podran-hacer-compras-google-play-gracias-nueva-herramienta-google-2907936.jpg?tf=1200x' alt='Los niños podrán hacer "compras" en Google Play gracias a la nueva herramienta de Google' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/openai-no-ahora-lanza-point-similar-dall-pero-modelado-3d-1173324'>OpenAI no para y ahora lanza Point-E, similar a DALL-E pero para modelado 3D</a></h4>
     <a href='https://computerhoy.com/tecnologia/openai-no-ahora-lanza-point-similar-dall-pero-modelado-3d-1173324' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/openai-no-ahora-lanza-point-similar-dall-pero-modelado-3d-2907908.jpg?tf=1200x' alt='OpenAI no para y ahora lanza Point-E, similar a DALL-E pero para modelado 3D' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/gaming/sera-brutal-nvidia-rtx-titan-gpu-potente-mundo-1173272'>Así será la brutal NVIDIA RTX TITAN, la GPU más potente del mundo</a></h4>
     <a href='https://computerhoy.com/gaming/sera-brutal-nvidia-rtx-titan-gpu-potente-mundo-1173272' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/galeria-review-rtx-4080-2872529.jpg?tf=1200x' alt='Así será la brutal NVIDIA RTX TITAN, la GPU más potente del mundo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/gaming/oferta-nintendo-switch-juego-gratis-1173254'>La oferta definitiva para Reyes Magos: Esta Nintendo Switch viene con un juego gratis y cuesta menos de 350€</a></h4>
-    <a href='https://computerhoy.com/gaming/oferta-nintendo-switch-juego-gratis-1173254' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/analisis-nintendo-switch-oled-2508425.jpg?tf=1200x' alt='La oferta definitiva para Reyes Magos: Esta Nintendo Switch viene con un juego gratis y cuesta menos de 350€' />
     </a>
 </div>
 
