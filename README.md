@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/truco-te-permitira-conservar-descuento-50-abono-madrid-enero-2023-1173288'>Este truco te permitirá conservar el descuento del 50% en tu abono de Madrid en enero de 2023</a></h4>
+    <a href='https://computerhoy.com/life/truco-te-permitira-conservar-descuento-50-abono-madrid-enero-2023-1173288' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/sencillo-truco-te-permitira-conservar-descuento-50-abono-transporte-enero-2023-2907782.jpg?tf=1200x' alt='Este truco te permitirá conservar el descuento del 50% en tu abono de Madrid en enero de 2023' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/gaming/sera-brutal-nvidia-rtx-titan-gpu-potente-mundo-1173272'>Así será la brutal NVIDIA RTX TITAN, la GPU más potente del mundo</a></h4>
+    <a href='https://computerhoy.com/gaming/sera-brutal-nvidia-rtx-titan-gpu-potente-mundo-1173272' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/galeria-review-rtx-4080-2872529.jpg?tf=1200x' alt='Así será la brutal NVIDIA RTX TITAN, la GPU más potente del mundo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/gaming/oferta-nintendo-switch-juego-gratis-1173254'>La oferta definitiva para Reyes magos: Esta Nintendo Switch viene con un juego gratis y cuesta menos de 350€</a></h4>
     <a href='https://computerhoy.com/gaming/oferta-nintendo-switch-juego-gratis-1173254' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/analisis-nintendo-switch-oled-2508425.jpg?tf=1200x' alt='La oferta definitiva para Reyes magos: Esta Nintendo Switch viene con un juego gratis y cuesta menos de 350€' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/netflix-fuera-proxima-adquisicion-microsoft-1173222'>¿Y si Netflix fuera la próxima adquisición de Microsoft? </a></h4>
     <a href='https://computerhoy.com/tecnologia/netflix-fuera-proxima-adquisicion-microsoft-1173222' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/netflix-fuera-proxima-adquisicion-microsoft-2907736.jpg?tf=1200x' alt='¿Y si Netflix fuera la próxima adquisición de Microsoft? ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/perifericos/logitech-mx-master-2s-oferta-liquidacion-1170422'>Amazon pone a precio de liquidación este ratón profesional Logitech que todo el mundo ama</a></h4>
-    <a href='https://computerhoy.com/perifericos/logitech-mx-master-2s-oferta-liquidacion-1170422' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/logitech-mx-master-2s-2902374.jpg?tf=1200x' alt='Amazon pone a precio de liquidación este ratón profesional Logitech que todo el mundo ama' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/gaming/futuro-teclados-gamer-alla-rgb-pantalla-teclas-1173214'>El futuro de los teclados gamer, más allá del RGB con una pantalla bajo las teclas</a></h4>
-    <a href='https://computerhoy.com/gaming/futuro-teclados-gamer-alla-rgb-pantalla-teclas-1173214' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/teclado-2907584.jpg?tf=1200x' alt='El futuro de los teclados gamer, más allá del RGB con una pantalla bajo las teclas' />
     </a>
 </div>
 
