@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/gaming/oferta-nintendo-switch-juego-gratis-1173254'>La oferta definitiva para Reyes magos: Esta Nintendo Switch viene con un juego gratis y cuesta menos de 350€</a></h4>
+    <a href='https://computerhoy.com/gaming/oferta-nintendo-switch-juego-gratis-1173254' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/analisis-nintendo-switch-oled-2508425.jpg?tf=1200x' alt='La oferta definitiva para Reyes magos: Esta Nintendo Switch viene con un juego gratis y cuesta menos de 350€' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/apple-podria-posponer-proximo-iphone-barato-minimo-2024-1173244'>Apple podría posponer su próximo iPhone SE, barato, hasta mínimo 2024</a></h4>
+    <a href='https://computerhoy.com/apple/apple-podria-posponer-proximo-iphone-barato-minimo-2024-1173244' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/analisis-iphone-2022-2656605.jpg?tf=1200x' alt='Apple podría posponer su próximo iPhone SE, barato, hasta mínimo 2024' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/netflix-fuera-proxima-adquisicion-microsoft-1173222'>¿Y si Netflix fuera la próxima adquisición de Microsoft? </a></h4>
+    <a href='https://computerhoy.com/tecnologia/netflix-fuera-proxima-adquisicion-microsoft-1173222' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/netflix-fuera-proxima-adquisicion-microsoft-2907736.jpg?tf=1200x' alt='¿Y si Netflix fuera la próxima adquisición de Microsoft? ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/perifericos/logitech-mx-master-2s-oferta-liquidacion-1170422'>Amazon pone a precio de liquidación este ratón profesional Logitech que todo el mundo ama</a></h4>
+    <a href='https://computerhoy.com/perifericos/logitech-mx-master-2s-oferta-liquidacion-1170422' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/logitech-mx-master-2s-2902374.jpg?tf=1200x' alt='Amazon pone a precio de liquidación este ratón profesional Logitech que todo el mundo ama' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/gaming/futuro-teclados-gamer-alla-rgb-pantalla-teclas-1173214'>El futuro de los teclados gamer, más allá del RGB con una pantalla bajo las teclas</a></h4>
     <a href='https://computerhoy.com/gaming/futuro-teclados-gamer-alla-rgb-pantalla-teclas-1173214' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/teclado-2907584.jpg?tf=1200x' alt='El futuro de los teclados gamer, más allá del RGB con una pantalla bajo las teclas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/patrocinado/preparate-dias-express-aliexpress-todos-descuentos-1172890'>Prepárate para los Días Express de AliExpress y todos sus descuentos</a></h4>
-    <a href='https://computerhoy.com/patrocinado/preparate-dias-express-aliexpress-todos-descuentos-1172890' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/aliexpress-2906958.jpg?tf=1200x' alt='Prepárate para los Días Express de AliExpress y todos sus descuentos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/apps-recrear-magia-navidad-entusiasmaran-cualquier-nino-1166390'>Apps para recrear la magia de la Navidad que entusiasmarán a cualquier niño</a></h4>
-    <a href='https://computerhoy.com/apps/apps-recrear-magia-navidad-entusiasmaran-cualquier-nino-1166390' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/aplicaciones-ninos-navidad-2894950.jpg?tf=1200x' alt='Apps para recrear la magia de la Navidad que entusiasmarán a cualquier niño' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/redes-sociales/elon-musk-renuncia-como-ceo-twitter-pueblo-ha-hablado-1173196'>Elon Musk renuncia como CEO de Twitter: el pueblo ha hablado</a></h4>
-    <a href='https://computerhoy.com/redes-sociales/elon-musk-renuncia-como-ceo-twitter-pueblo-ha-hablado-1173196' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/elon-musk-2903170.jpg?tf=1200x' alt='Elon Musk renuncia como CEO de Twitter: el pueblo ha hablado' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/karaoke-ios-162-podamos-estar-horas-cantando-1170504'>Así es el karaoke de iOS 16.2, para que podamos estar horas cantando</a></h4>
-    <a href='https://computerhoy.com/tutoriales/karaoke-ios-162-podamos-estar-horas-cantando-1170504' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/ios-162-2902412.jpg?tf=1200x' alt='Así es el karaoke de iOS 16.2, para que podamos estar horas cantando' />
     </a>
 </div>
 
