@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/smartwatches/arrow-nuevo-smartwatch-camara-giratoria-monitor-hr-220199'>Arrow, el nuevo smartwatch con cámara giratoria y monitor HR</a></h4>
-    <a href='https://computerhoy.com/smartwatches/arrow-nuevo-smartwatch-camara-giratoria-monitor-hr-220199' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2014/07/49111-arrow-smartwatch.jpg?tf=1200x' alt='Arrow, el nuevo smartwatch con cámara giratoria y monitor HR' />
+    <h4><a href='https://computerhoy.com/google/popularidad-chatgpt-provoca-codigo-rojo-google-ya-todos-trabajan-nueva-herramienta-ia-1173840'>La popularidad de ChatGPT provoca un código rojo en Google y ya todos trabajan en una nueva herramienta IA</a></h4>
+    <a href='https://computerhoy.com/google/popularidad-chatgpt-provoca-codigo-rojo-google-ya-todos-trabajan-nueva-herramienta-ia-1173840' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/chatgpt-provoca-codigo-rojo-google-ya-todos-trabajan-nueva-herramienta-ia-2908870.jpg?tf=1200x' alt='La popularidad de ChatGPT provoca un código rojo en Google y ya todos trabajan en una nueva herramienta IA' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/redes-sociales/funciona-blue-business-nuevo-twitter-blue-empresas-anade-nueva-distincion-cuentas-1173820'>Así funciona Blue for Business, el nuevo Twitter Blue para empresas que añade una nueva distinción en las cuentas</a></h4>
-    <a href='https://computerhoy.com/redes-sociales/funciona-blue-business-nuevo-twitter-blue-empresas-anade-nueva-distincion-cuentas-1173820' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/funciona-blue-business-nuevo-twitter-blue-empresas-2908796.jpg?tf=1200x' alt='Así funciona Blue for Business, el nuevo Twitter Blue para empresas que añade una nueva distinción en las cuentas' />
+    <h4><a href='https://computerhoy.com/tecnologia/microsoft-alerta-nuevo-ransomware-android-activa-notificacion-llamadas-733507'>Microsoft alerta sobre un nuevo ransomware en Android que se activa con la notificación de las llamadas</a></h4>
+    <a href='https://computerhoy.com/tecnologia/microsoft-alerta-nuevo-ransomware-android-activa-notificacion-llamadas-733507' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/05/teracube-movil-1938877.jpeg?tf=1200x' alt='Microsoft alerta sobre un nuevo ransomware en Android que se activa con la notificación de las llamadas' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/mejores-juegos-jugar-familia-estas-navidades-1167586'>Los mejores juegos para jugar en familia estas navidades</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/mejores-juegos-jugar-familia-estas-navidades-1167586' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/juegos-mesa-2891928.jpg?tf=1200x' alt='Los mejores juegos para jugar en familia estas navidades' />
+    <h4><a href='https://computerhoy.com/tecnologia/descubren-malware-escondido-uefi-ordenador-tipo-ataque-insolito-muy-dificil-eliminar-733481'>Descubren un malware escondido en la UEFI del ordenador, un tipo de ataque insólito y muy difícil de eliminar</a></h4>
+    <a href='https://computerhoy.com/tecnologia/descubren-malware-escondido-uefi-ordenador-tipo-ataque-insolito-muy-dificil-eliminar-733481' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/09/ordenadores-central-2073507.jpg?tf=1200x' alt='Descubren un malware escondido en la UEFI del ordenador, un tipo de ataque insólito y muy difícil de eliminar' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/life/mejores-productos-imprescindibles-limpiar-coche-925711'>Productos imprescindibles y casi mágicos para limpiar tu coche: estos son los mejores</a></h4>
-    <a href='https://computerhoy.com/reportajes/life/mejores-productos-imprescindibles-limpiar-coche-925711' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/hombre-limpiando-coche-mano-2459787.jpg?tf=1200x' alt='Productos imprescindibles y casi mágicos para limpiar tu coche: estos son los mejores' />
+    <h4><a href='https://computerhoy.com/google/rembrandt-van-rijn-graba-portada-google-doodle-214190'>Rembrandt van Rijn graba la portada de Google con un doodle</a></h4>
+    <a href='https://computerhoy.com/google/rembrandt-van-rijn-graba-portada-google-doodle-214190' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2013/07/15228-rembrandt-doodle.jpg?tf=1200x' alt='Rembrandt van Rijn graba la portada de Google con un doodle' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/samsung-disena-pantalla-led-circular-360o-grande-europa-emocionante-aventura-1173768'>Samsung diseña la pantalla LED circular de 360º más grande de Europa para esta emocionante aventura </a></h4>
-    <a href='https://computerhoy.com/tecnologia/samsung-disena-pantalla-led-circular-360o-grande-europa-emocionante-aventura-1173768' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/samsung-disena-pantalla-led-circular-360o-grande-europa-emocionante-aventura-2908762.jpg?tf=1200x' alt='Samsung diseña la pantalla LED circular de 360º más grande de Europa para esta emocionante aventura ' />
+    <h4><a href='https://computerhoy.com/streaming/netflix-alia-nike-lanzar-entrenamientos-caseros-gratuitos-plataforma-1173814'>Netflix se alía con Nike para lanzar entrenamientos caseros gratuitos en la plataforma</a></h4>
+    <a href='https://computerhoy.com/streaming/netflix-alia-nike-lanzar-entrenamientos-caseros-gratuitos-plataforma-1173814' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/netflix-nike-2908804.jpg?tf=1200x' alt='Netflix se alía con Nike para lanzar entrenamientos caseros gratuitos en la plataforma' />
     </a>
 </div>
 
