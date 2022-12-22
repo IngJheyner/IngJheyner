@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/patrocinado/ya-estan-aqui-ofertones-semanales-aliexpress-descuento-70-1173748'>Ya están aquí los Ofertones Semanales de AliExpress: descuento de hasta el 70%</a></h4>
-    <a href='https://computerhoy.com/patrocinado/ya-estan-aqui-ofertones-semanales-aliexpress-descuento-70-1173748' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/aliexpress-2908550.jpg?tf=1200x' alt='Ya están aquí los Ofertones Semanales de AliExpress: descuento de hasta el 70%' />
+    <h4><a href='https://computerhoy.com/smartwatches/arrow-nuevo-smartwatch-camara-giratoria-monitor-hr-220199'>Arrow, el nuevo smartwatch con cámara giratoria y monitor HR</a></h4>
+    <a href='https://computerhoy.com/smartwatches/arrow-nuevo-smartwatch-camara-giratoria-monitor-hr-220199' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2014/07/49111-arrow-smartwatch.jpg?tf=1200x' alt='Arrow, el nuevo smartwatch con cámara giratoria y monitor HR' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/cuidado-padrino-nuevo-malware-infecta-android-robarte-1173810'>Cuidado con El Padrino: así es nuevo malware que infecta tu Android para robarte</a></h4>
-    <a href='https://computerhoy.com/apps/cuidado-padrino-nuevo-malware-infecta-android-robarte-1173810' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/padrino-android-2908724.jpg?tf=1200x' alt='Cuidado con El Padrino: así es nuevo malware que infecta tu Android para robarte' />
+    <h4><a href='https://computerhoy.com/redes-sociales/funciona-blue-business-nuevo-twitter-blue-empresas-anade-nueva-distincion-cuentas-1173820'>Así funciona Blue for Business, el nuevo Twitter Blue para empresas que añade una nueva distinción en las cuentas</a></h4>
+    <a href='https://computerhoy.com/redes-sociales/funciona-blue-business-nuevo-twitter-blue-empresas-anade-nueva-distincion-cuentas-1173820' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/funciona-blue-business-nuevo-twitter-blue-empresas-2908796.jpg?tf=1200x' alt='Así funciona Blue for Business, el nuevo Twitter Blue para empresas que añade una nueva distinción en las cuentas' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/vota-premios-computerhoy-2022-finalistas-mejor-smartphone-gama-media-1172938'>Vota en los Premios ComputerHoy 2022: finalistas al mejor smartphone gama media</a></h4>
-    <a href='https://computerhoy.com/tecnologia/vota-premios-computerhoy-2022-finalistas-mejor-smartphone-gama-media-1172938' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/vota-premios-computerhoy-2021-finalistas-mejores-smartphones-gama-media-2564067.jpg?tf=1200x' alt='Vota en los Premios ComputerHoy 2022: finalistas al mejor smartphone gama media' />
+    <h4><a href='https://computerhoy.com/entretenimiento/mejores-juegos-jugar-familia-estas-navidades-1167586'>Los mejores juegos para jugar en familia estas navidades</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/mejores-juegos-jugar-familia-estas-navidades-1167586' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/juegos-mesa-2891928.jpg?tf=1200x' alt='Los mejores juegos para jugar en familia estas navidades' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/luce-potente-barco-electrico-solar-disenado-extrabajador-elon-musk-1173738'>Así luce el potente barco eléctrico y solar diseñado por un extrabajador de Elon Musk</a></h4>
-    <a href='https://computerhoy.com/tecnologia/luce-potente-barco-electrico-solar-disenado-extrabajador-elon-musk-1173738' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/tesla-mar-barco-electrico-solar-fundado-extrabajador-elon-musk-2908606.jpg?tf=1200x' alt='Así luce el potente barco eléctrico y solar diseñado por un extrabajador de Elon Musk' />
+    <h4><a href='https://computerhoy.com/reportajes/life/mejores-productos-imprescindibles-limpiar-coche-925711'>Productos imprescindibles y casi mágicos para limpiar tu coche: estos son los mejores</a></h4>
+    <a href='https://computerhoy.com/reportajes/life/mejores-productos-imprescindibles-limpiar-coche-925711' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/hombre-limpiando-coche-mano-2459787.jpg?tf=1200x' alt='Productos imprescindibles y casi mágicos para limpiar tu coche: estos son los mejores' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/matter-ya-activo-todos-dispositivos-android-ello-implica-1173736'>Matter ya está activo en todos los dispositivos Android y lo que ello implica</a></h4>
-    <a href='https://computerhoy.com/google/matter-ya-activo-todos-dispositivos-android-ello-implica-1173736' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/apple-wwdc-2022-matter-2722971.jpg?tf=1200x' alt='Matter ya está activo en todos los dispositivos Android y lo que ello implica' />
+    <h4><a href='https://computerhoy.com/tecnologia/samsung-disena-pantalla-led-circular-360o-grande-europa-emocionante-aventura-1173768'>Samsung diseña la pantalla LED circular de 360º más grande de Europa para esta emocionante aventura </a></h4>
+    <a href='https://computerhoy.com/tecnologia/samsung-disena-pantalla-led-circular-360o-grande-europa-emocionante-aventura-1173768' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/samsung-disena-pantalla-led-circular-360o-grande-europa-emocionante-aventura-2908762.jpg?tf=1200x' alt='Samsung diseña la pantalla LED circular de 360º más grande de Europa para esta emocionante aventura ' />
     </a>
 </div>
 
