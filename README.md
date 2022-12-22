@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/lejano-planeta-ofrece-pista-posible-trafico-final-tierra-1173428'>Un lejano planeta ofrece pista sobre el posible y tráfico final de la Tierra</a></h4>
+    <a href='https://computerhoy.com/ciencia/lejano-planeta-ofrece-pista-posible-trafico-final-tierra-1173428' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/09/marte-2072451.jpg?tf=1200x' alt='Un lejano planeta ofrece pista sobre el posible y tráfico final de la Tierra' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/viajar-en-el-tiempo-inteligencia-artificial-stable-diffusion-1173504'>Utiliza la inteligencia artificial Stable Diffusion para viajar en el tiempo, y el resultado es espectacular</a></h4>
+    <a href='https://computerhoy.com/apps/viajar-en-el-tiempo-inteligencia-artificial-stable-diffusion-1173504' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/utiliza-inteligencia-artificial-stable-diffusion-viajar-tiempo-resultado-espectacular-2908322.jpg?tf=1200x' alt='Utiliza la inteligencia artificial Stable Diffusion para viajar en el tiempo, y el resultado es espectacular' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/moviles/iphone-14-plus-180-euros-descuento-oferta-1173494'>Esto es muy poco habitual: un iPhone 14 Plus con 180€ de descuento, ¡aprovecha!</a></h4>
     <a href='https://computerhoy.com/moviles/iphone-14-plus-180-euros-descuento-oferta-1173494' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/apple-iphone-14-plus-analisis-opinion-2857691.jpg?tf=1200x' alt='Esto es muy poco habitual: un iPhone 14 Plus con 180€ de descuento, ¡aprovecha!' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/motor/peligro-neumaticos-desgastados-peligroso-conducir-ebrio-1173484'>El peligro de los neumáticos desgastados: más peligroso que conducir ebrio</a></h4>
     <a href='https://computerhoy.com/motor/peligro-neumaticos-desgastados-peligroso-conducir-ebrio-1173484' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/neumaticos-2908230.jpg?tf=1200x' alt='El peligro de los neumáticos desgastados: más peligroso que conducir ebrio' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/alimentacion/debes-tener-cuenta-comprar-mejor-freidora-aire-aceite-estas-navidades-ocu-1173482'>Esto debes tener en cuenta para comprar la mejor freidora de aire sin aceite estas Navidades, según la OCU</a></h4>
-    <a href='https://computerhoy.com/alimentacion/debes-tener-cuenta-comprar-mejor-freidora-aire-aceite-estas-navidades-ocu-1173482' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/freidora-aire-aceite-2908226.jpg?tf=1200x' alt='Esto debes tener en cuenta para comprar la mejor freidora de aire sin aceite estas Navidades, según la OCU' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-utilizar-movil-android-windows-phone-link-1170388'>Cómo utilizar tu móvil Android desde Windows con Phone Link</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-utilizar-movil-android-windows-phone-link-1170388' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/enlace-movil-windows-android-2902302.jpg?tf=1200x' alt='Cómo utilizar tu móvil Android desde Windows con Phone Link' />
     </a>
 </div>
 
