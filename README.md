@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/patrocinado/ya-estan-aqui-ofertones-semanales-aliexpress-descuento-70-1173748'>Ya están aquí los Ofertones Semanales de AliExpress: descuento de hasta el 70%</a></h4>
+    <a href='https://computerhoy.com/patrocinado/ya-estan-aqui-ofertones-semanales-aliexpress-descuento-70-1173748' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/aliexpress-2908550.jpg?tf=1200x' alt='Ya están aquí los Ofertones Semanales de AliExpress: descuento de hasta el 70%' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/cuidado-padrino-nuevo-malware-infecta-android-robarte-1173810'>Cuidado con El Padrino: así es nuevo malware que infecta tu Android para robarte</a></h4>
+    <a href='https://computerhoy.com/apps/cuidado-padrino-nuevo-malware-infecta-android-robarte-1173810' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/padrino-android-2908724.jpg?tf=1200x' alt='Cuidado con El Padrino: así es nuevo malware que infecta tu Android para robarte' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/vota-premios-computerhoy-2022-finalistas-mejor-smartphone-gama-media-1172938'>Vota en los Premios ComputerHoy 2022: finalistas al mejor smartphone gama media</a></h4>
     <a href='https://computerhoy.com/tecnologia/vota-premios-computerhoy-2022-finalistas-mejor-smartphone-gama-media-1172938' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/vota-premios-computerhoy-2021-finalistas-mejores-smartphones-gama-media-2564067.jpg?tf=1200x' alt='Vota en los Premios ComputerHoy 2022: finalistas al mejor smartphone gama media' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/google/matter-ya-activo-todos-dispositivos-android-ello-implica-1173736'>Matter ya está activo en todos los dispositivos Android y lo que ello implica</a></h4>
     <a href='https://computerhoy.com/google/matter-ya-activo-todos-dispositivos-android-ello-implica-1173736' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/apple-wwdc-2022-matter-2722971.jpg?tf=1200x' alt='Matter ya está activo en todos los dispositivos Android y lo que ello implica' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/ya-quiosco-numero-632-computer-hoy-1169998'>¡Ya está en tu quiosco el número 632 de Computer Hoy!</a></h4>
-    <a href='https://computerhoy.com/tecnologia/ya-quiosco-numero-632-computer-hoy-1169998' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/computer-hoy-632-2902506.jpg?tf=1200x' alt='¡Ya está en tu quiosco el número 632 de Computer Hoy!' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/5-maneras-faciles-buscar-videos-windows-11-1106537'>Las 5 maneras más fáciles de buscar tus vídeos en Windows 11 </a></h4>
-    <a href='https://computerhoy.com/tutoriales/5-maneras-faciles-buscar-videos-windows-11-1106537' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/descubre-portatil-creatividad-volara-cuando-donde-quieras-2533967.jpg?tf=1200x' alt='Las 5 maneras más fáciles de buscar tus vídeos en Windows 11 ' />
     </a>
 </div>
 
