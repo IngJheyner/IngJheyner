@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/internet/cientificos-advierten-mundo-dirige-crisis-global-almacenamiento-datos-1173952'>Científicos advierten que el mundo se dirige hacia una crisis global de almacenamiento de datos</a></h4>
+    <a href='https://computerhoy.com/internet/cientificos-advierten-mundo-dirige-crisis-global-almacenamiento-datos-1173952' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/todo-conectado-caen-servidores-amazon-fallan-disney-plus-tinder-league-legends-coinbase-alexa-otros-2554321.jpg?tf=1200x' alt='Científicos advierten que el mundo se dirige hacia una crisis global de almacenamiento de datos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apps/mejores-apps-android-ios-dibujos-navidad-colorear-1167988'>Las mejores apps para Android e iOS con dibujos de Navidad para colorear</a></h4>
     <a href='https://computerhoy.com/apps/mejores-apps-android-ios-dibujos-navidad-colorear-1167988' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/mejores-apps-dibujos-navidad-colorear-2897882.jpg?tf=1200x' alt='Las mejores apps para Android e iOS con dibujos de Navidad para colorear' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/motor/estos-son-motivos-coches-electricos-necesitan-neumaticos-especiales-1173908'>Estos son los motivos por los que los coches eléctricos necesitan neumáticos especiales</a></h4>
     <a href='https://computerhoy.com/motor/estos-son-motivos-coches-electricos-necesitan-neumaticos-especiales-1173908' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/neumaticos-2472453.jpg?tf=1200x' alt='Estos son los motivos por los que los coches eléctricos necesitan neumáticos especiales' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/no-piques-vuelve-estafa-coca-cola-whatsapp-ahora-tambien-navidad-1173876'>¡No piques! Vuelve la estafa de Coca-Cola en WhatsApp, ahora también en Navidad</a></h4>
-    <a href='https://computerhoy.com/internet/no-piques-vuelve-estafa-coca-cola-whatsapp-ahora-tambien-navidad-1173876' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/no-piques-vuelve-estafa-coca-cola-whatsapp-ahora-tambien-navidad-2909098.jpg?tf=1200x' alt='¡No piques! Vuelve la estafa de Coca-Cola en WhatsApp, ahora también en Navidad' />
     </a>
 </div>
 
