@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/vota-premios-computerhoy-2022-finalistas-mejor-smartphone-plegable-1173702'>Vota en los Premios ComputerHoy 2022: finalistas al mejor smartphone plegable</a></h4>
+    <a href='https://computerhoy.com/tecnologia/vota-premios-computerhoy-2022-finalistas-mejor-smartphone-plegable-1173702' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/vota-premios-computerhoy-2022-finalistas-mejor-smartphone-plegable-2908196.jpg?tf=1200x' alt='Vota en los Premios ComputerHoy 2022: finalistas al mejor smartphone plegable' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciencia/cuando-deberias-ver-oculista-ves-mal-noche-1173700'>Cuándo deberías acudir a un doctor si ves mal por la noche</a></h4>
     <a href='https://computerhoy.com/ciencia/cuando-deberias-ver-oculista-ves-mal-noche-1173700' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/cuando-deberias-ver-doctor-ves-mal-noche-2908350.jpg?tf=1200x' alt='Cuándo deberías acudir a un doctor si ves mal por la noche' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/moviles/iphone-14-plus-180-euros-descuento-oferta-1173494'>Esto es muy poco habitual: un iPhone 14 Plus con 180€ de descuento, ¡aprovecha!</a></h4>
     <a href='https://computerhoy.com/moviles/iphone-14-plus-180-euros-descuento-oferta-1173494' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/apple-iphone-14-plus-analisis-opinion-2857691.jpg?tf=1200x' alt='Esto es muy poco habitual: un iPhone 14 Plus con 180€ de descuento, ¡aprovecha!' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/streaming/hbo-max-avance-series-2023-1173486'>HBO Max nos muestra un avance de las series que llegarán en 2023</a></h4>
-    <a href='https://computerhoy.com/streaming/hbo-max-avance-series-2023-1173486' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/verticalimage1671653086993-2908220.jpg?tf=1200x' alt='HBO Max nos muestra un avance de las series que llegarán en 2023' />
     </a>
 </div>
 
