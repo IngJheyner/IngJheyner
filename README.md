@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/smartwatches/xiaomi-smart-band-7-oferta-antes-navidad-1174022'>¿Buscas un regalo que no falla a tiempo para Navidad? La Xiaomi Smart Band 7 en oferta en estas tiendas</a></h4>
+    <a href='https://computerhoy.com/smartwatches/xiaomi-smart-band-7-oferta-antes-navidad-1174022' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/xiaomi-smart-band-7-2737345.jpg?tf=1200x' alt='¿Buscas un regalo que no falla a tiempo para Navidad? La Xiaomi Smart Band 7 en oferta en estas tiendas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/solucion-sencilla-problema-molesto-android-auto-1174018'>La solución más sencilla al problema más molesto de Android Auto</a></h4>
+    <a href='https://computerhoy.com/apps/solucion-sencilla-problema-molesto-android-auto-1174018' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/android-auto-2700725.jpg?tf=1200x' alt='La solución más sencilla al problema más molesto de Android Auto' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/streaming/fecha-netflix-podria-empezar-cobrarte-compartes-cuenta-otras-personas-fuera-hogar-1174016'>En esta fecha Netflix podría empezar a cobrarte más si compartes tu cuenta con otras personas fuera del hogar</a></h4>
+    <a href='https://computerhoy.com/streaming/fecha-netflix-podria-empezar-cobrarte-compartes-cuenta-otras-personas-fuera-hogar-1174016' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/netflix-2702229.jpg?tf=1200x' alt='En esta fecha Netflix podría empezar a cobrarte más si compartes tu cuenta con otras personas fuera del hogar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/100-frases-navidad-nochebuena-ano-nuevo-enviar-whatsapp-1167502'>100 frases de Navidad, Nochebuena y Año Nuevo para enviar por WhatsApp</a></h4>
+    <a href='https://computerhoy.com/life/100-frases-navidad-nochebuena-ano-nuevo-enviar-whatsapp-1167502' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/whatsapp-navidad-2897020.jpg?tf=1200x' alt='100 frases de Navidad, Nochebuena y Año Nuevo para enviar por WhatsApp' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/smartwatches/ciertos-modelos-apple-watch-cuentan-caracteristica-muy-poco-conocida-1173946'>Ciertos modelos de Apple Watch cuentan con una característica muy poco conocida</a></h4>
     <a href='https://computerhoy.com/smartwatches/ciertos-modelos-apple-watch-cuentan-caracteristica-muy-poco-conocida-1173946' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/apple-watch-series-8-analisis-opinion-2841929.jpg?tf=1200x' alt='Ciertos modelos de Apple Watch cuentan con una característica muy poco conocida' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/avatar-sentido-agua-bloquea-proyectores-cines-japon-1174014'>La avanzada tecnología de Avatar 2 se ha cargado algunos proyectores en los cines de Japón</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/avatar-sentido-agua-bloquea-proyectores-cines-japon-1174014' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/avatar-2009-2827451.jpg?tf=1200x' alt='La avanzada tecnología de Avatar 2 se ha cargado algunos proyectores en los cines de Japón' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/vota-premios-computerhoy-2022-finalistas-mejor-dispositivo-fitness-deporte-1173784'>Vota en los Premios ComputerHoy 2022: finalistas al mejor dispositivo de fitness y deporte</a></h4>
-    <a href='https://computerhoy.com/tecnologia/vota-premios-computerhoy-2022-finalistas-mejor-dispositivo-fitness-deporte-1173784' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/vota-premios-computerhoy-2021-finalistas-mejores-dispositivos-fitness-deporte-2571033.jpg?tf=1200x' alt='Vota en los Premios ComputerHoy 2022: finalistas al mejor dispositivo de fitness y deporte' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/intel-core-i9-13900k-rompe-record-mundial-overclock-cifra-sorprendente-1174004'>El Intel Core i9- 13900K rompe el récord mundial en overclock con una cifra sorprendente</a></h4>
-    <a href='https://computerhoy.com/pc/intel-core-i9-13900k-rompe-record-mundial-overclock-cifra-sorprendente-1174004' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/intel-core-i9-13900k-rompe-record-mundial-overclock-cifra-sorprendente-2909458.jpg?tf=1200x' alt='El Intel Core i9- 13900K rompe el récord mundial en overclock con una cifra sorprendente' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tv/ue-tiene-punto-mira-mandos-televisores-motivo-1173984'>La UE tiene en el punto de mira los mandos de los televisores y este es el motivo</a></h4>
-    <a href='https://computerhoy.com/tv/ue-tiene-punto-mira-mandos-televisores-motivo-1173984' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/08/smart-tv-mando-televisor.jpg?tf=1200x' alt='La UE tiene en el punto de mira los mandos de los televisores y este es el motivo' />
     </a>
 </div>
 
