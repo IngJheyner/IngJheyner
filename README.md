@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/ya-quiosco-numero-632-computer-hoy-1169998'>¡Ya está en tu quiosco el número 632 de Computer Hoy!</a></h4>
+    <a href='https://computerhoy.com/tecnologia/ya-quiosco-numero-632-computer-hoy-1169998' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/computer-hoy-632-2902506.jpg?tf=1200x' alt='¡Ya está en tu quiosco el número 632 de Computer Hoy!' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/5-maneras-faciles-buscar-videos-windows-11-1106537'>Las 5 maneras más fáciles de buscar tus vídeos en Windows 11 </a></h4>
+    <a href='https://computerhoy.com/tutoriales/5-maneras-faciles-buscar-videos-windows-11-1106537' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/descubre-portatil-creatividad-volara-cuando-donde-quieras-2533967.jpg?tf=1200x' alt='Las 5 maneras más fáciles de buscar tus vídeos en Windows 11 ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/9-cosas-sorprendentes-puedes-hacer-linux-no-windows-mac-1171480'>9 cosas sorprendentes que puedes hacer en Linux y no en Windows o Mac</a></h4>
+    <a href='https://computerhoy.com/tecnologia/9-cosas-sorprendentes-puedes-hacer-linux-no-windows-mac-1171480' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/linux-2904136.jpg?tf=1200x' alt='9 cosas sorprendentes que puedes hacer en Linux y no en Windows o Mac' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/22-noticias-tecnologia-comenzar-manana-informado-ultimo-1173706'>22 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
     <a href='https://computerhoy.com/tecnologia/22-noticias-tecnologia-comenzar-manana-informado-ultimo-1173706' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/22-noticias-tecnologia-comenzar-manana-informado-ultimo-2908546.jpg?tf=1200x' alt='22 noticias de tecnología para comenzar la mañana informado de lo último' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/gaming/stock-playstation-5-navidad-1169846'>Fin de los problemas de stock: Ya puedes comprar una PlayStation 5 en estas tiendas</a></h4>
     <a href='https://computerhoy.com/gaming/stock-playstation-5-navidad-1169846' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/persona-sujetando-mando-daulsense-playstation-5-2669597.jpg?tf=1200x' alt='Fin de los problemas de stock: Ya puedes comprar una PlayStation 5 en estas tiendas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/vota-premios-computerhoy-2022-finalistas-mejor-smartphone-plegable-1173702'>Vota en los Premios ComputerHoy 2022: finalistas al mejor smartphone plegable</a></h4>
-    <a href='https://computerhoy.com/tecnologia/vota-premios-computerhoy-2022-finalistas-mejor-smartphone-plegable-1173702' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/vota-premios-computerhoy-2022-finalistas-mejor-smartphone-plegable-2908196.jpg?tf=1200x' alt='Vota en los Premios ComputerHoy 2022: finalistas al mejor smartphone plegable' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/cuando-deberias-ver-oculista-ves-mal-noche-1173700'>Cuándo deberías acudir a un doctor si ves mal por la noche</a></h4>
-    <a href='https://computerhoy.com/ciencia/cuando-deberias-ver-oculista-ves-mal-noche-1173700' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/cuando-deberias-ver-doctor-ves-mal-noche-2908350.jpg?tf=1200x' alt='Cuándo deberías acudir a un doctor si ves mal por la noche' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/lejano-planeta-ofrece-pista-posible-trafico-final-tierra-1173428'>Un lejano planeta ofrece pista sobre el posible y trágico final de la Tierra</a></h4>
-    <a href='https://computerhoy.com/ciencia/lejano-planeta-ofrece-pista-posible-trafico-final-tierra-1173428' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/09/marte-2072451.jpg?tf=1200x' alt='Un lejano planeta ofrece pista sobre el posible y trágico final de la Tierra' />
     </a>
 </div>
 
