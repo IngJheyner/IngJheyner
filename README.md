@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tv/ue-tiene-punto-mira-mandos-televisores-motivo-1173984'>La UE tiene en el punto de mira los mandos de los televisores y este es el motivo</a></h4>
+    <a href='https://computerhoy.com/tv/ue-tiene-punto-mira-mandos-televisores-motivo-1173984' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/08/smart-tv-mando-televisor.jpg?tf=1200x' alt='La UE tiene en el punto de mira los mandos de los televisores y este es el motivo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-tablets-lapiz-dibujar-escribir-849525'>Las 8 mejores tablets con lápiz para dibujar o escribir</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-tablets-lapiz-dibujar-escribir-849525' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/01/apple-ipad-air-4-2020-analisis-opinion-2207125.jpg?tf=1200x' alt='Las 8 mejores tablets con lápiz para dibujar o escribir' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/internet/cientificos-advierten-mundo-dirige-crisis-global-almacenamiento-datos-1173952'>Científicos advierten que el mundo se dirige hacia una crisis global de almacenamiento de datos</a></h4>
     <a href='https://computerhoy.com/internet/cientificos-advierten-mundo-dirige-crisis-global-almacenamiento-datos-1173952' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/todo-conectado-caen-servidores-amazon-fallan-disney-plus-tinder-league-legends-coinbase-alexa-otros-2554321.jpg?tf=1200x' alt='Científicos advierten que el mundo se dirige hacia una crisis global de almacenamiento de datos' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/7-mejores-reproductores-musica-telefonos-moviles-android-1159947'>Los 7 mejores reproductores de música para teléfonos móviles Android</a></h4>
     <a href='https://computerhoy.com/tecnologia/7-mejores-reproductores-musica-telefonos-moviles-android-1159947' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/7-mejores-reproductores-musica-telefonos-moviles-android-2881627.jpg?tf=1200x' alt='Los 7 mejores reproductores de música para teléfonos móviles Android' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/patrocinado/vuelve-ver-primer-live-shopping-mano-computer-hoy-lg-no-dejes-pasar-oportunidad-aprovechar-descuentos-1173262'>Vuelve a ver el primer Live Shopping de la mano de Computer Hoy y LG: no dejes pasar la oportunidad de aprovechar los descuentos</a></h4>
-    <a href='https://computerhoy.com/patrocinado/vuelve-ver-primer-live-shopping-mano-computer-hoy-lg-no-dejes-pasar-oportunidad-aprovechar-descuentos-1173262' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/live-shopping-2902140.jpg?tf=1200x' alt='Vuelve a ver el primer Live Shopping de la mano de Computer Hoy y LG: no dejes pasar la oportunidad de aprovechar los descuentos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/estos-son-motivos-coches-electricos-necesitan-neumaticos-especiales-1173908'>Estos son los motivos por los que los coches eléctricos necesitan neumáticos especiales</a></h4>
-    <a href='https://computerhoy.com/motor/estos-son-motivos-coches-electricos-necesitan-neumaticos-especiales-1173908' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/neumaticos-2472453.jpg?tf=1200x' alt='Estos son los motivos por los que los coches eléctricos necesitan neumáticos especiales' />
     </a>
 </div>
 
