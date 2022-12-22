@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/boston-dynamics-demuestra-perros-robots-pueden-montar-arbol-navidad-1173858'>Boston Dynamics demuestra que sus perros robots pueden montar un árbol de Navidad</a></h4>
-    <a href='https://computerhoy.com/tecnologia/boston-dynamics-demuestra-perros-robots-pueden-montar-arbol-navidad-1173858' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/boston-dynamic-2908966.jpg?tf=1200x' alt='Boston Dynamics demuestra que sus perros robots pueden montar un árbol de Navidad' />
+    <h4><a href='https://computerhoy.com/apps/mejores-apps-android-ios-dibujos-navidad-colorear-1167988'>Las mejores apps para Android e iOS con dibujos de Navidad para colorear</a></h4>
+    <a href='https://computerhoy.com/apps/mejores-apps-android-ios-dibujos-navidad-colorear-1167988' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/mejores-apps-dibujos-navidad-colorear-2897882.jpg?tf=1200x' alt='Las mejores apps para Android e iOS con dibujos de Navidad para colorear' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/netflix-pasa-tambien-inteligencia-artificial-nueva-impresionante-pelicula-coreana-junge-1173854'>Netflix se pasa también a la Inteligencia Artificial con su nueva película coreana, JUNG_E</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/netflix-pasa-tambien-inteligencia-artificial-nueva-impresionante-pelicula-coreana-junge-1173854' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/netflix-pasa-tambien-inteligencia-artificial-nueva-impresionante-pelicula-surcoreana-2908958.jpg?tf=1200x' alt='Netflix se pasa también a la Inteligencia Artificial con su nueva película coreana, JUNG_E' />
+    <h4><a href='https://computerhoy.com/tecnologia/7-mejores-reproductores-musica-telefonos-moviles-android-1159947'>Los 7 mejores reproductores de música para teléfonos móviles Android</a></h4>
+    <a href='https://computerhoy.com/tecnologia/7-mejores-reproductores-musica-telefonos-moviles-android-1159947' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/7-mejores-reproductores-musica-telefonos-moviles-android-2881627.jpg?tf=1200x' alt='Los 7 mejores reproductores de música para teléfonos móviles Android' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/popularidad-chatgpt-provoca-codigo-rojo-google-ya-todos-trabajan-nueva-herramienta-ia-1173840'>La popularidad de ChatGPT provoca un código rojo en Google y ya todos trabajan en una nueva herramienta IA</a></h4>
-    <a href='https://computerhoy.com/google/popularidad-chatgpt-provoca-codigo-rojo-google-ya-todos-trabajan-nueva-herramienta-ia-1173840' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/chatgpt-provoca-codigo-rojo-google-ya-todos-trabajan-nueva-herramienta-ia-2908870.jpg?tf=1200x' alt='La popularidad de ChatGPT provoca un código rojo en Google y ya todos trabajan en una nueva herramienta IA' />
+    <h4><a href='https://computerhoy.com/patrocinado/vuelve-ver-primer-live-shopping-mano-computer-hoy-lg-no-dejes-pasar-oportunidad-aprovechar-descuentos-1173262'>Vuelve a ver el primer Live Shopping de la mano de Computer Hoy y LG: no dejes pasar la oportunidad de aprovechar los descuentos</a></h4>
+    <a href='https://computerhoy.com/patrocinado/vuelve-ver-primer-live-shopping-mano-computer-hoy-lg-no-dejes-pasar-oportunidad-aprovechar-descuentos-1173262' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/live-shopping-2902140.jpg?tf=1200x' alt='Vuelve a ver el primer Live Shopping de la mano de Computer Hoy y LG: no dejes pasar la oportunidad de aprovechar los descuentos' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/microsoft-alerta-nuevo-ransomware-android-activa-notificacion-llamadas-733507'>Microsoft alerta sobre un nuevo ransomware en Android que se activa con la notificación de las llamadas</a></h4>
-    <a href='https://computerhoy.com/tecnologia/microsoft-alerta-nuevo-ransomware-android-activa-notificacion-llamadas-733507' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/05/teracube-movil-1938877.jpeg?tf=1200x' alt='Microsoft alerta sobre un nuevo ransomware en Android que se activa con la notificación de las llamadas' />
+    <h4><a href='https://computerhoy.com/motor/estos-son-motivos-coches-electricos-necesitan-neumaticos-especiales-1173908'>Estos son los motivos por los que los coches eléctricos necesitan neumáticos especiales</a></h4>
+    <a href='https://computerhoy.com/motor/estos-son-motivos-coches-electricos-necesitan-neumaticos-especiales-1173908' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/neumaticos-2472453.jpg?tf=1200x' alt='Estos son los motivos por los que los coches eléctricos necesitan neumáticos especiales' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/descubren-malware-escondido-uefi-ordenador-tipo-ataque-insolito-muy-dificil-eliminar-733481'>Descubren un malware escondido en la UEFI del ordenador, un tipo de ataque insólito y muy difícil de eliminar</a></h4>
-    <a href='https://computerhoy.com/tecnologia/descubren-malware-escondido-uefi-ordenador-tipo-ataque-insolito-muy-dificil-eliminar-733481' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/09/ordenadores-central-2073507.jpg?tf=1200x' alt='Descubren un malware escondido en la UEFI del ordenador, un tipo de ataque insólito y muy difícil de eliminar' />
+    <h4><a href='https://computerhoy.com/internet/no-piques-vuelve-estafa-coca-cola-whatsapp-ahora-tambien-navidad-1173876'>¡No piques! Vuelve la estafa de Coca-Cola en WhatsApp, ahora también en Navidad</a></h4>
+    <a href='https://computerhoy.com/internet/no-piques-vuelve-estafa-coca-cola-whatsapp-ahora-tambien-navidad-1173876' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/no-piques-vuelve-estafa-coca-cola-whatsapp-ahora-tambien-navidad-2909098.jpg?tf=1200x' alt='¡No piques! Vuelve la estafa de Coca-Cola en WhatsApp, ahora también en Navidad' />
     </a>
 </div>
 
