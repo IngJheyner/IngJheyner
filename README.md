@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/pc/intel-core-i9-13900k-rompe-record-mundial-overclock-cifra-sorprendente-1174004'>El Intel Core i9- 13900K rompe el récord mundial en overclock con una cifra sorprendente</a></h4>
+    <a href='https://computerhoy.com/pc/intel-core-i9-13900k-rompe-record-mundial-overclock-cifra-sorprendente-1174004' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/intel-core-i9-13900k-rompe-record-mundial-overclock-cifra-sorprendente-2909458.jpg?tf=1200x' alt='El Intel Core i9- 13900K rompe el récord mundial en overclock con una cifra sorprendente' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tv/ue-tiene-punto-mira-mandos-televisores-motivo-1173984'>La UE tiene en el punto de mira los mandos de los televisores y este es el motivo</a></h4>
     <a href='https://computerhoy.com/tv/ue-tiene-punto-mira-mandos-televisores-motivo-1173984' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/08/smart-tv-mando-televisor.jpg?tf=1200x' alt='La UE tiene en el punto de mira los mandos de los televisores y este es el motivo' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/apps/mejores-apps-android-ios-dibujos-navidad-colorear-1167988'>Las mejores apps para Android e iOS con dibujos de Navidad para colorear</a></h4>
     <a href='https://computerhoy.com/apps/mejores-apps-android-ios-dibujos-navidad-colorear-1167988' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/mejores-apps-dibujos-navidad-colorear-2897882.jpg?tf=1200x' alt='Las mejores apps para Android e iOS con dibujos de Navidad para colorear' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/7-mejores-reproductores-musica-telefonos-moviles-android-1159947'>Los 7 mejores reproductores de música para teléfonos móviles Android</a></h4>
-    <a href='https://computerhoy.com/tecnologia/7-mejores-reproductores-musica-telefonos-moviles-android-1159947' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/7-mejores-reproductores-musica-telefonos-moviles-android-2881627.jpg?tf=1200x' alt='Los 7 mejores reproductores de música para teléfonos móviles Android' />
     </a>
 </div>
 
