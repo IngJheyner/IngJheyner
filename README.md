@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/vota-premios-computerhoy-2022-finalistas-mejor-smartphone-gama-media-1172938'>Vota en los Premios ComputerHoy 2022: finalistas al mejor smartphone gama media</a></h4>
+    <a href='https://computerhoy.com/tecnologia/vota-premios-computerhoy-2022-finalistas-mejor-smartphone-gama-media-1172938' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/vota-premios-computerhoy-2021-finalistas-mejores-smartphones-gama-media-2564067.jpg?tf=1200x' alt='Vota en los Premios ComputerHoy 2022: finalistas al mejor smartphone gama media' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/luce-potente-barco-electrico-solar-disenado-extrabajador-elon-musk-1173738'>Así luce el potente barco eléctrico y solar diseñado por un extrabajador de Elon Musk</a></h4>
+    <a href='https://computerhoy.com/tecnologia/luce-potente-barco-electrico-solar-disenado-extrabajador-elon-musk-1173738' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/tesla-mar-barco-electrico-solar-fundado-extrabajador-elon-musk-2908606.jpg?tf=1200x' alt='Así luce el potente barco eléctrico y solar diseñado por un extrabajador de Elon Musk' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/google/matter-ya-activo-todos-dispositivos-android-ello-implica-1173736'>Matter ya está activo en todos los dispositivos Android y lo que ello implica</a></h4>
+    <a href='https://computerhoy.com/google/matter-ya-activo-todos-dispositivos-android-ello-implica-1173736' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/apple-wwdc-2022-matter-2722971.jpg?tf=1200x' alt='Matter ya está activo en todos los dispositivos Android y lo que ello implica' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/ya-quiosco-numero-632-computer-hoy-1169998'>¡Ya está en tu quiosco el número 632 de Computer Hoy!</a></h4>
     <a href='https://computerhoy.com/tecnologia/ya-quiosco-numero-632-computer-hoy-1169998' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/computer-hoy-632-2902506.jpg?tf=1200x' alt='¡Ya está en tu quiosco el número 632 de Computer Hoy!' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/tutoriales/5-maneras-faciles-buscar-videos-windows-11-1106537'>Las 5 maneras más fáciles de buscar tus vídeos en Windows 11 </a></h4>
     <a href='https://computerhoy.com/tutoriales/5-maneras-faciles-buscar-videos-windows-11-1106537' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/descubre-portatil-creatividad-volara-cuando-donde-quieras-2533967.jpg?tf=1200x' alt='Las 5 maneras más fáciles de buscar tus vídeos en Windows 11 ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/9-cosas-sorprendentes-puedes-hacer-linux-no-windows-mac-1171480'>9 cosas sorprendentes que puedes hacer en Linux y no en Windows o Mac</a></h4>
-    <a href='https://computerhoy.com/tecnologia/9-cosas-sorprendentes-puedes-hacer-linux-no-windows-mac-1171480' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/linux-2904136.jpg?tf=1200x' alt='9 cosas sorprendentes que puedes hacer en Linux y no en Windows o Mac' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/22-noticias-tecnologia-comenzar-manana-informado-ultimo-1173706'>22 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
-    <a href='https://computerhoy.com/tecnologia/22-noticias-tecnologia-comenzar-manana-informado-ultimo-1173706' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/22-noticias-tecnologia-comenzar-manana-informado-ultimo-2908546.jpg?tf=1200x' alt='22 noticias de tecnología para comenzar la mañana informado de lo último' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/gaming/stock-playstation-5-navidad-1169846'>Fin de los problemas de stock: Ya puedes comprar una PlayStation 5 en estas tiendas</a></h4>
-    <a href='https://computerhoy.com/gaming/stock-playstation-5-navidad-1169846' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/persona-sujetando-mando-daulsense-playstation-5-2669597.jpg?tf=1200x' alt='Fin de los problemas de stock: Ya puedes comprar una PlayStation 5 en estas tiendas' />
     </a>
 </div>
 
