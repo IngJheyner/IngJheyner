@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/cuando-deberias-ver-oculista-ves-mal-noche-1173700'>Cuándo deberías acudir a un doctor si ves mal por la noche</a></h4>
+    <a href='https://computerhoy.com/ciencia/cuando-deberias-ver-oculista-ves-mal-noche-1173700' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/cuando-deberias-ver-doctor-ves-mal-noche-2908350.jpg?tf=1200x' alt='Cuándo deberías acudir a un doctor si ves mal por la noche' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciencia/lejano-planeta-ofrece-pista-posible-trafico-final-tierra-1173428'>Un lejano planeta ofrece pista sobre el posible y tráfico final de la Tierra</a></h4>
     <a href='https://computerhoy.com/ciencia/lejano-planeta-ofrece-pista-posible-trafico-final-tierra-1173428' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/09/marte-2072451.jpg?tf=1200x' alt='Un lejano planeta ofrece pista sobre el posible y tráfico final de la Tierra' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/streaming/hbo-max-avance-series-2023-1173486'>HBO Max nos muestra un avance de las series que llegarán en 2023</a></h4>
     <a href='https://computerhoy.com/streaming/hbo-max-avance-series-2023-1173486' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/verticalimage1671653086993-2908220.jpg?tf=1200x' alt='HBO Max nos muestra un avance de las series que llegarán en 2023' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/peligro-neumaticos-desgastados-peligroso-conducir-ebrio-1173484'>El peligro de los neumáticos desgastados: más peligroso que conducir ebrio</a></h4>
-    <a href='https://computerhoy.com/motor/peligro-neumaticos-desgastados-peligroso-conducir-ebrio-1173484' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/neumaticos-2908230.jpg?tf=1200x' alt='El peligro de los neumáticos desgastados: más peligroso que conducir ebrio' />
     </a>
 </div>
 
