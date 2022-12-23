@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/ventajas-monotasking-frente-popular-multitarea-1173874'>Las ventajas del Monotasking frente a la popular multitarea</a></h4>
-    <a href='https://computerhoy.com/life/ventajas-monotasking-frente-popular-multitarea-1173874' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/estas-son-ventajas-monotasking-gran-rival-trabajo-multitarea-tan-moda-siglo-xxi-2909434.jpg?tf=1200x' alt='Las ventajas del Monotasking frente a la popular multitarea' />
+    <h4><a href='https://computerhoy.com/life/como-crear-felicitaciones-navidad-whatsapp-1172322'>Cómo crear tus felicitaciones de Navidad para WhatsApp</a></h4>
+    <a href='https://computerhoy.com/life/como-crear-felicitaciones-navidad-whatsapp-1172322' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/crear-felicitaciones-navidad-whatsapp-2907166.jpg?tf=1200x' alt='Cómo crear tus felicitaciones de Navidad para WhatsApp' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/felicita-navidad-2022-forma-original-creando-tarjeta-navidena-dall-chatgpt-1169886'>Felicita la Navidad 2022 de una forma original creando tu tarjeta navideña con DALL-E y ChatGPT</a></h4>
-    <a href='https://computerhoy.com/tecnologia/felicita-navidad-2022-forma-original-creando-tarjeta-navidena-dall-chatgpt-1169886' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/felicita-navidad-2022-forma-original-creando-tarjeta-navidena-dall-chatgpt-2901374.jpg?tf=1200x' alt='Felicita la Navidad 2022 de una forma original creando tu tarjeta navideña con DALL-E y ChatGPT' />
+    <h4><a href='https://computerhoy.com/life/felicitaciones-navidad-elegantes-enviar-whatsapp-1168788'>Felicitaciones de Navidad elegantes para enviar por WhatsApp</a></h4>
+    <a href='https://computerhoy.com/life/felicitaciones-navidad-elegantes-enviar-whatsapp-1168788' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/whatsapp-navidad-2899250.jpg?tf=1200x' alt='Felicitaciones de Navidad elegantes para enviar por WhatsApp' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/31-noticias-tecnologia-comenzar-manana-informado-ultimo-1174268'>31 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
-    <a href='https://computerhoy.com/tecnologia/31-noticias-tecnologia-comenzar-manana-informado-ultimo-1174268' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/31-noticias-tecnologia-comenzar-manana-informado-ultimo-2909778.jpg?tf=1200x' alt='31 noticias de tecnología para comenzar la mañana informado de lo último' />
+    <h4><a href='https://computerhoy.com/patrocinado/5-caracteristicas-convierten-vivo-x80-pro-5g-lanzamientos-esperados-2022-1170370'>Las 5 características que convierten al vivo X80 Pro 5G en uno de los lanzamientos más esperados de 2022</a></h4>
+    <a href='https://computerhoy.com/patrocinado/5-caracteristicas-convierten-vivo-x80-pro-5g-lanzamientos-esperados-2022-1170370' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/5-caracteristicas-convierten-vivo-x80-pro-5g-lanzamiento-esperado-2022-2902348.jpg?tf=1200x' alt='Las 5 características que convierten al vivo X80 Pro 5G en uno de los lanzamientos más esperados de 2022' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/mejores/portatiles-chromebooks-estudiantes-1173970'>Estos son los mejores Chromebooks para estudiantes en 2023</a></h4>
-    <a href='https://computerhoy.com/mejores/portatiles-chromebooks-estudiantes-1173970' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/portatil-chromebook-2909388.jpg?tf=1200x' alt='Estos son los mejores Chromebooks para estudiantes en 2023' />
+    <h4><a href='https://computerhoy.com/industria/secreto-tener-mayor-productividad-semana-laboral-4-dias-1173976'>Este es el secreto para tener mayor productividad con la semana laboral de 4 días</a></h4>
+    <a href='https://computerhoy.com/industria/secreto-tener-mayor-productividad-semana-laboral-4-dias-1173976' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/otra-imagen-oficina-llena-gente-2455195.jpg?tf=1200x' alt='Este es el secreto para tener mayor productividad con la semana laboral de 4 días' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/que-son-olas-cuadradas-como-se-forman-1174266'>Qué son las olas cuadradas, y por qué son un peligro para los barcos y surfistas</a></h4>
-    <a href='https://computerhoy.com/ciencia/que-son-olas-cuadradas-como-se-forman-1174266' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/son-olas-cuadradas-son-peligro-barcos-surfistas-2909548.jpg?tf=1200x' alt='Qué son las olas cuadradas, y por qué son un peligro para los barcos y surfistas' />
+    <h4><a href='https://computerhoy.com/patrocinado/tener-cuenta-hora-pedir-portatil-papa-noel-reyes-magos-1171100'>Qué tener en cuenta a la hora de pedir un portátil a Papá Noel o los Reyes Magos</a></h4>
+    <a href='https://computerhoy.com/patrocinado/tener-cuenta-hora-pedir-portatil-papa-noel-reyes-magos-1171100' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/intel-evo-2903742.jpg?tf=1200x' alt='Qué tener en cuenta a la hora de pedir un portátil a Papá Noel o los Reyes Magos' />
     </a>
 </div>
 
