@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/series-ver-fin-semana-netflix-prime-video-torre-eiffel-brujo-espia-1174476'>Qué series ver este fin de semana en Netflix y Prime Video: una torre Eiffel, un brujo y un espía</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/series-ver-fin-semana-netflix-prime-video-torre-eiffel-brujo-espia-1174476' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/series-fin-semana-diciembre-2022-2910482.jpg?tf=1200x' alt='Qué series ver este fin de semana en Netflix y Prime Video: una torre Eiffel, un brujo y un espía' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/entretenimiento/peliculas-ver-fin-semana-movistarplus-prime-video-netflix-musical-matilda-ultima-cena-cambios-cuerpos-1174382'>Qué películas ver este fin de semana en MovistarPlus+, Prime Video y Netflix: el musical de Matilda, una última cena y cambios de cuerpos</a></h4>
     <a href='https://computerhoy.com/entretenimiento/peliculas-ver-fin-semana-movistarplus-prime-video-netflix-musical-matilda-ultima-cena-cambios-cuerpos-1174382' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/peliculas-ver-fin-semana-movistarplus-prime-video-netflix-musical-matilda-ultima-cena-cambios-cuerpos-2910314.jpg?tf=1200x' alt='Qué películas ver este fin de semana en MovistarPlus+, Prime Video y Netflix: el musical de Matilda, una última cena y cambios de cuerpos' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/entretenimiento/hbo-max-series-peliculas-estreno-enero-2023-1174456'>HBO Max: series y películas de estreno y más en enero de 2023</a></h4>
     <a href='https://computerhoy.com/entretenimiento/hbo-max-series-peliculas-estreno-enero-2023-1174456' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/hbo-max-series-peliculas-estreno-enero-2023-2910446.jpg?tf=1200x' alt='HBO Max: series y películas de estreno y más en enero de 2023' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/vivia-gente-lugar-mayor-densidad-poblacion-tierra-1174464'>Así vivía la gente en el lugar con mayor densidad de población de la Tierra</a></h4>
-    <a href='https://computerhoy.com/life/vivia-gente-lugar-mayor-densidad-poblacion-tierra-1174464' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/kowloon-walled-2910440.jpg?tf=1200x' alt='Así vivía la gente en el lugar con mayor densidad de población de la Tierra' />
     </a>
 </div>
 
