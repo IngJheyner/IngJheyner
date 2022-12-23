@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/hogar/freidora-gigante-ideal-cocinar-mucho-rapido-navidad-precio-sorprendentemente-1174308'>Esta freidora gigante es ideal para cocinar mucho y rápido esta Navidad, y su precio es sorprendentemente bajo</a></h4>
+    <a href='https://computerhoy.com/hogar/freidora-gigante-ideal-cocinar-mucho-rapido-navidad-precio-sorprendentemente-1174308' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/aigostar-zane-2909830.jpg?tf=1200x' alt='Esta freidora gigante es ideal para cocinar mucho y rápido esta Navidad, y su precio es sorprendentemente bajo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/redes-sociales/twitter-ya-permite-subir-videos-60-minutos-pero-solo-suscriptores-twitter-blue-1174296'>Twitter ya permite subir vídeos de hasta 60 minutos, pero solo para suscriptores de Twitter Blue</a></h4>
+    <a href='https://computerhoy.com/redes-sociales/twitter-ya-permite-subir-videos-60-minutos-pero-solo-suscriptores-twitter-blue-1174296' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/twitter-ya-permite-subir-videos-60-minutos-pero-solo-suscriptores-twitter-blue-2910058.jpg?tf=1200x' alt='Twitter ya permite subir vídeos de hasta 60 minutos, pero solo para suscriptores de Twitter Blue' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/como-crear-felicitaciones-navidad-whatsapp-1172322'>Cómo crear tus felicitaciones de Navidad para WhatsApp</a></h4>
     <a href='https://computerhoy.com/life/como-crear-felicitaciones-navidad-whatsapp-1172322' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/crear-felicitaciones-navidad-whatsapp-2907166.jpg?tf=1200x' alt='Cómo crear tus felicitaciones de Navidad para WhatsApp' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/patrocinado/5-caracteristicas-convierten-vivo-x80-pro-5g-lanzamientos-esperados-2022-1170370'>Las 5 características que convierten al vivo X80 Pro 5G en uno de los lanzamientos más esperados de 2022</a></h4>
     <a href='https://computerhoy.com/patrocinado/5-caracteristicas-convierten-vivo-x80-pro-5g-lanzamientos-esperados-2022-1170370' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/5-caracteristicas-convierten-vivo-x80-pro-5g-lanzamiento-esperado-2022-2902348.jpg?tf=1200x' alt='Las 5 características que convierten al vivo X80 Pro 5G en uno de los lanzamientos más esperados de 2022' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/industria/secreto-tener-mayor-productividad-semana-laboral-4-dias-1173976'>Este es el secreto para tener mayor productividad con la semana laboral de 4 días</a></h4>
-    <a href='https://computerhoy.com/industria/secreto-tener-mayor-productividad-semana-laboral-4-dias-1173976' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/otra-imagen-oficina-llena-gente-2455195.jpg?tf=1200x' alt='Este es el secreto para tener mayor productividad con la semana laboral de 4 días' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/patrocinado/tener-cuenta-hora-pedir-portatil-papa-noel-reyes-magos-1171100'>Qué tener en cuenta a la hora de pedir un portátil a Papá Noel o los Reyes Magos</a></h4>
-    <a href='https://computerhoy.com/patrocinado/tener-cuenta-hora-pedir-portatil-papa-noel-reyes-magos-1171100' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/intel-evo-2903742.jpg?tf=1200x' alt='Qué tener en cuenta a la hora de pedir un portátil a Papá Noel o los Reyes Magos' />
     </a>
 </div>
 
