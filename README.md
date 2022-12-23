@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/31-noticias-tecnologia-comenzar-manana-informado-ultimo-1174268'>31 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
+    <a href='https://computerhoy.com/tecnologia/31-noticias-tecnologia-comenzar-manana-informado-ultimo-1174268' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/31-noticias-tecnologia-comenzar-manana-informado-ultimo-2909778.jpg?tf=1200x' alt='31 noticias de tecnología para comenzar la mañana informado de lo último' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/mejores/portatiles-chromebooks-estudiantes-1173970'>Estos son los mejores Chromebooks para estudiantes en 2023</a></h4>
+    <a href='https://computerhoy.com/mejores/portatiles-chromebooks-estudiantes-1173970' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/portatil-chromebook-2909388.jpg?tf=1200x' alt='Estos son los mejores Chromebooks para estudiantes en 2023' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciencia/que-son-olas-cuadradas-como-se-forman-1174266'>Qué son las olas cuadradas, y por qué son un peligro para los barcos y surfistas</a></h4>
     <a href='https://computerhoy.com/ciencia/que-son-olas-cuadradas-como-se-forman-1174266' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/son-olas-cuadradas-son-peligro-barcos-surfistas-2909548.jpg?tf=1200x' alt='Qué son las olas cuadradas, y por qué son un peligro para los barcos y surfistas' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/redes-sociales/nueva-funcion-twitter-saber-alguien-ve-tuits-funciona-1174008'>La nueva función de Twitter para saber si alguien ve tus tuits: así funciona</a></h4>
     <a href='https://computerhoy.com/redes-sociales/nueva-funcion-twitter-saber-alguien-ve-tuits-funciona-1174008' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/elon-musk-confirma-aumento-limite-caracteres-twitter-280-4000-2898646.jpg?tf=1200x' alt='La nueva función de Twitter para saber si alguien ve tus tuits: así funciona' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/smartwatches/xiaomi-smart-band-7-oferta-antes-navidad-1174022'>¿Buscas un regalo que no falla a tiempo para Navidad? La Xiaomi Smart Band 7 en oferta en estas tiendas</a></h4>
-    <a href='https://computerhoy.com/smartwatches/xiaomi-smart-band-7-oferta-antes-navidad-1174022' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/xiaomi-smart-band-7-2737345.jpg?tf=1200x' alt='¿Buscas un regalo que no falla a tiempo para Navidad? La Xiaomi Smart Band 7 en oferta en estas tiendas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/solucion-sencilla-problema-molesto-android-auto-1174018'>La solución más sencilla al problema más molesto de Android Auto</a></h4>
-    <a href='https://computerhoy.com/apps/solucion-sencilla-problema-molesto-android-auto-1174018' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/android-auto-2700725.jpg?tf=1200x' alt='La solución más sencilla al problema más molesto de Android Auto' />
     </a>
 </div>
 
