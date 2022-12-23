@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/impresora-3d-elegoon-neptune-2s-solo-229-euros-1174576'>Esta impresora 3D es ideal para multitud de aficiones, baja a solo 229 euros</a></h4>
+    <a href='https://computerhoy.com/tecnologia/impresora-3d-elegoon-neptune-2s-solo-229-euros-1174576' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/impresora-3d-ideal-multitud-aficiones-baja-solo-229-euros-2910668.jpg?tf=1200x' alt='Esta impresora 3D es ideal para multitud de aficiones, baja a solo 229 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/entretenimiento/daredevil-back-again-disney-plus-menos-violenta-1174560'>Disney+ adaptará a su visión la nueva serie de Daredevil: cambiará lo que más impactaba en Netflix</a></h4>
     <a href='https://computerhoy.com/entretenimiento/daredevil-back-again-disney-plus-menos-violenta-1174560' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/daredevil-2638237.jpg?tf=1200x' alt='Disney+ adaptará a su visión la nueva serie de Daredevil: cambiará lo que más impactaba en Netflix' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/life/memes-originales-divertidos-felicitaciones-navidad-2022-whatsapp-1173418'>Memes originales y divertidos para tus felicitaciones de Navidad 2022 por WhatsApp</a></h4>
     <a href='https://computerhoy.com/life/memes-originales-divertidos-felicitaciones-navidad-2022-whatsapp-1173418' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/santa-claus-papa-noel-2908126.jpg?tf=1200x' alt='Memes originales y divertidos para tus felicitaciones de Navidad 2022 por WhatsApp' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/regalos-navidad-ultima-hora-envio-rapido-estos-son-algunos-mejores-1174390'>Regalos de Navidad de última hora y con envío rápido: estos son algunos de los mejores</a></h4>
-    <a href='https://computerhoy.com/tecnologia/regalos-navidad-ultima-hora-envio-rapido-estos-son-algunos-mejores-1174390' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/regalo-navidad-2910544.jpg?tf=1200x' alt='Regalos de Navidad de última hora y con envío rápido: estos son algunos de los mejores' />
     </a>
 </div>
 
