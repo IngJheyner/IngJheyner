@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/gaming/stock-playstation-5-tiempo-reyes-tienda-vende-pack-consola-juegos-1174368'>Stock de PlayStation 5 a tiempo para Reyes: esta tienda vende un pack de consola y juegos</a></h4>
+    <a href='https://computerhoy.com/gaming/stock-playstation-5-tiempo-reyes-tienda-vende-pack-consola-juegos-1174368' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/playstation-5-2910156.jpg?tf=1200x' alt='Stock de PlayStation 5 a tiempo para Reyes: esta tienda vende un pack de consola y juegos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/frases-cortas-felicitaciones-navidad-enviar-whatsapp-1174020'>Frases cortas de felicitaciones de Navidad para enviar por WhatsApp</a></h4>
+    <a href='https://computerhoy.com/life/frases-cortas-felicitaciones-navidad-enviar-whatsapp-1174020' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/frases-felicitacion-enviar-whatsapp-2909468.jpg?tf=1200x' alt='Frases cortas de felicitaciones de Navidad para enviar por WhatsApp' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/redes-sociales/tiktok-ha-reconocido-oficialmente-ser-herramienta-espionaje-1174376'>TikTok ha reconocido oficialmente ser una herramienta de espionaje</a></h4>
+    <a href='https://computerhoy.com/redes-sociales/tiktok-ha-reconocido-oficialmente-ser-herramienta-espionaje-1174376' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/tiktok-2799869.jpg?tf=1200x' alt='TikTok ha reconocido oficialmente ser una herramienta de espionaje' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/tesla-quiere-pagues-300-dolares-nuevo-cargador-inalambrico-no-no-coches-electricos-1174356'>Tesla quiere que pagues 300 dólares por su nuevo cargador inalámbrico y no, no es para sus coches eléctricos</a></h4>
+    <a href='https://computerhoy.com/tecnologia/tesla-quiere-pagues-300-dolares-nuevo-cargador-inalambrico-no-no-coches-electricos-1174356' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/tesla-quiere-pagues-300-dolares-nuevo-cargador-inalambrico-no-no-coches-2910118.jpg?tf=1200x' alt='Tesla quiere que pagues 300 dólares por su nuevo cargador inalámbrico y no, no es para sus coches eléctricos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/android/puedes-descargar-nuevos-emojis-movil-android-1174318'>Así puedes descargar nuevos emojis en tu móvil Android</a></h4>
     <a href='https://computerhoy.com/android/puedes-descargar-nuevos-emojis-movil-android-1174318' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/emojis-android-2909890.jpg?tf=1200x' alt='Así puedes descargar nuevos emojis en tu móvil Android' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/hogar/freidora-gigante-ideal-cocinar-mucho-rapido-navidad-precio-sorprendentemente-1174308'>Esta freidora gigante es ideal para cocinar mucho y rápido esta Navidad, y su precio es sorprendentemente bajo</a></h4>
-    <a href='https://computerhoy.com/hogar/freidora-gigante-ideal-cocinar-mucho-rapido-navidad-precio-sorprendentemente-1174308' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/aigostar-zane-2909830.jpg?tf=1200x' alt='Esta freidora gigante es ideal para cocinar mucho y rápido esta Navidad, y su precio es sorprendentemente bajo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/redes-sociales/twitter-ya-permite-subir-videos-60-minutos-pero-solo-suscriptores-twitter-blue-1174296'>Twitter ya permite subir vídeos de hasta 60 minutos, pero solo para suscriptores de Twitter Blue</a></h4>
-    <a href='https://computerhoy.com/redes-sociales/twitter-ya-permite-subir-videos-60-minutos-pero-solo-suscriptores-twitter-blue-1174296' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/twitter-ya-permite-subir-videos-60-minutos-pero-solo-suscriptores-twitter-blue-2910058.jpg?tf=1200x' alt='Twitter ya permite subir vídeos de hasta 60 minutos, pero solo para suscriptores de Twitter Blue' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/como-crear-felicitaciones-navidad-whatsapp-1172322'>Cómo crear tus felicitaciones de Navidad para WhatsApp</a></h4>
-    <a href='https://computerhoy.com/life/como-crear-felicitaciones-navidad-whatsapp-1172322' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/crear-felicitaciones-navidad-whatsapp-2907166.jpg?tf=1200x' alt='Cómo crear tus felicitaciones de Navidad para WhatsApp' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/felicitaciones-navidad-elegantes-enviar-whatsapp-1168788'>Felicitaciones de Navidad elegantes para enviar por WhatsApp</a></h4>
-    <a href='https://computerhoy.com/life/felicitaciones-navidad-elegantes-enviar-whatsapp-1168788' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/whatsapp-navidad-2899250.jpg?tf=1200x' alt='Felicitaciones de Navidad elegantes para enviar por WhatsApp' />
     </a>
 </div>
 
