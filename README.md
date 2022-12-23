@@ -50,6 +50,32 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/regalos-navidad-ultima-hora-envio-rapido-estos-son-algunos-mejores-1174390'>Regalos de Navidad de última hora y con envío rápido: estos son algunos de los mejores</a></h4>
+    <a href='https://computerhoy.com/tecnologia/regalos-navidad-ultima-hora-envio-rapido-estos-son-algunos-mejores-1174390' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/regalo-navidad-2910544.jpg?tf=1200x' alt='Regalos de Navidad de última hora y con envío rápido: estos son algunos de los mejores' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/50-felicitaciones-nochebuena-enviar-whatsapp-navidad-1174534'>50 felicitaciones de Nochebuena para enviar por WhatsApp esta Navidad
+</a></h4>
+    <a href='https://computerhoy.com/life/50-felicitaciones-nochebuena-enviar-whatsapp-navidad-1174534' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/felicitaciones-nochebuena-enviar-whatsapp-2910542.jpg?tf=1200x' alt='50 felicitaciones de Nochebuena para enviar por WhatsApp esta Navidad
+' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/moviles/verdadera-razon-expertos-no-quieren-modo-avion-desaparezca-1174494'>La verdadera razón por la que los expertos no quieren que el modo avión desaparezca</a></h4>
+    <a href='https://computerhoy.com/moviles/verdadera-razon-expertos-no-quieren-modo-avion-desaparezca-1174494' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/modo-avion-2820515.jpg?tf=1200x' alt='La verdadera razón por la que los expertos no quieren que el modo avión desaparezca' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/entretenimiento/series-ver-fin-semana-netflix-prime-video-torre-eiffel-brujo-espia-1174476'>Qué series ver este fin de semana en Netflix y Prime Video: una torre Eiffel, un brujo y un espía</a></h4>
     <a href='https://computerhoy.com/entretenimiento/series-ver-fin-semana-netflix-prime-video-torre-eiffel-brujo-espia-1174476' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/series-fin-semana-diciembre-2022-2910482.jpg?tf=1200x' alt='Qué series ver este fin de semana en Netflix y Prime Video: una torre Eiffel, un brujo y un espía' />
@@ -61,30 +87,6 @@
     <h4><a href='https://computerhoy.com/entretenimiento/peliculas-ver-fin-semana-movistarplus-prime-video-netflix-musical-matilda-ultima-cena-cambios-cuerpos-1174382'>Qué películas ver este fin de semana en MovistarPlus+, Prime Video y Netflix: el musical de Matilda, una última cena y cambios de cuerpos</a></h4>
     <a href='https://computerhoy.com/entretenimiento/peliculas-ver-fin-semana-movistarplus-prime-video-netflix-musical-matilda-ultima-cena-cambios-cuerpos-1174382' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/peliculas-ver-fin-semana-movistarplus-prime-video-netflix-musical-matilda-ultima-cena-cambios-cuerpos-2910314.jpg?tf=1200x' alt='Qué películas ver este fin de semana en MovistarPlus+, Prime Video y Netflix: el musical de Matilda, una última cena y cambios de cuerpos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/frases-cortas-felicitaciones-navidad-2022-whatsapp-1168564'>Frases cortas para tus felicitaciones de Navidad 2022 por WhatsApp</a></h4>
-    <a href='https://computerhoy.com/life/frases-cortas-felicitaciones-navidad-2022-whatsapp-1168564' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/frases-cortas-felicitaciones-navidad-2022-whatsapp-2899054.jpg?tf=1200x' alt='Frases cortas para tus felicitaciones de Navidad 2022 por WhatsApp' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/android/mejores-juegos-gratis-android-2022-1164200'>Los mejores juegos gratis para Android de 2022</a></h4>
-    <a href='https://computerhoy.com/android/mejores-juegos-gratis-android-2022-1164200' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/mejores-juegos-gratis-android-2022-2908320.jpg?tf=1200x' alt='Los mejores juegos gratis para Android de 2022' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/hbo-max-series-peliculas-estreno-enero-2023-1174456'>HBO Max: series y películas de estreno y más en enero de 2023</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/hbo-max-series-peliculas-estreno-enero-2023-1174456' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/hbo-max-series-peliculas-estreno-enero-2023-2910446.jpg?tf=1200x' alt='HBO Max: series y películas de estreno y más en enero de 2023' />
     </a>
 </div>
 
