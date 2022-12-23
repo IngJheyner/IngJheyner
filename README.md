@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/vivia-gente-lugar-mayor-densidad-poblacion-tierra-1174464'>Así vivía la gente en el lugar con mayor densidad de población de la Tierra</a></h4>
+    <a href='https://computerhoy.com/life/vivia-gente-lugar-mayor-densidad-poblacion-tierra-1174464' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/kowloon-walled-2910440.jpg?tf=1200x' alt='Así vivía la gente en el lugar con mayor densidad de población de la Tierra' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apps/impresionante-destrozo-economico-iptv-espana-europa-1174422'>El impresionante destrozo económico de las IPTV en España y Europa</a></h4>
     <a href='https://computerhoy.com/apps/impresionante-destrozo-economico-iptv-espana-europa-1174422' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/iptv-2910410.jpg?tf=1200x' alt='El impresionante destrozo económico de las IPTV en España y Europa' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/gaming/stock-playstation-5-tiempo-reyes-tienda-vende-pack-consola-juegos-1174368'>Stock de PlayStation 5 a tiempo para Reyes: esta tienda vende un pack de consola y juegos</a></h4>
     <a href='https://computerhoy.com/gaming/stock-playstation-5-tiempo-reyes-tienda-vende-pack-consola-juegos-1174368' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/playstation-5-2910156.jpg?tf=1200x' alt='Stock de PlayStation 5 a tiempo para Reyes: esta tienda vende un pack de consola y juegos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/frases-cortas-felicitaciones-navidad-enviar-whatsapp-1174020'>Frases cortas de felicitaciones de Navidad para enviar por WhatsApp</a></h4>
-    <a href='https://computerhoy.com/life/frases-cortas-felicitaciones-navidad-enviar-whatsapp-1174020' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/frases-felicitacion-enviar-whatsapp-2909468.jpg?tf=1200x' alt='Frases cortas de felicitaciones de Navidad para enviar por WhatsApp' />
     </a>
 </div>
 
