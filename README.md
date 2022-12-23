@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/reproductor-blu-ray-convertir-microscopio-laser-miles-euros-video-1174034'>¿Tu reproductor de Blu-ray acumula polvo? Conviértelo en un microscopio láser que vale miles de euros (vídeo)</a></h4>
+    <a href='https://computerhoy.com/ciencia/reproductor-blu-ray-convertir-microscopio-laser-miles-euros-video-1174034' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/reproductor-blu-ray-acumula-polvo-conviertelo-microscopio-laser-vale-miles-euro-2909510.jpg?tf=1200x' alt='¿Tu reproductor de Blu-ray acumula polvo? Conviértelo en un microscopio láser que vale miles de euros (vídeo)' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/redes-sociales/nueva-funcion-twitter-saber-alguien-ve-tuits-funciona-1174008'>La nueva función de Twitter para saber si alguien ve tus tuits: así funciona</a></h4>
+    <a href='https://computerhoy.com/redes-sociales/nueva-funcion-twitter-saber-alguien-ve-tuits-funciona-1174008' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/elon-musk-confirma-aumento-limite-caracteres-twitter-280-4000-2898646.jpg?tf=1200x' alt='La nueva función de Twitter para saber si alguien ve tus tuits: así funciona' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/smartwatches/xiaomi-smart-band-7-oferta-antes-navidad-1174022'>¿Buscas un regalo que no falla a tiempo para Navidad? La Xiaomi Smart Band 7 en oferta en estas tiendas</a></h4>
     <a href='https://computerhoy.com/smartwatches/xiaomi-smart-band-7-oferta-antes-navidad-1174022' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/xiaomi-smart-band-7-2737345.jpg?tf=1200x' alt='¿Buscas un regalo que no falla a tiempo para Navidad? La Xiaomi Smart Band 7 en oferta en estas tiendas' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/streaming/fecha-netflix-podria-empezar-cobrarte-compartes-cuenta-otras-personas-fuera-hogar-1174016'>En esta fecha Netflix podría empezar a cobrarte más si compartes tu cuenta con otras personas fuera del hogar</a></h4>
     <a href='https://computerhoy.com/streaming/fecha-netflix-podria-empezar-cobrarte-compartes-cuenta-otras-personas-fuera-hogar-1174016' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/netflix-2702229.jpg?tf=1200x' alt='En esta fecha Netflix podría empezar a cobrarte más si compartes tu cuenta con otras personas fuera del hogar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/100-frases-navidad-nochebuena-ano-nuevo-enviar-whatsapp-1167502'>100 frases de Navidad, Nochebuena y Año Nuevo para enviar por WhatsApp</a></h4>
-    <a href='https://computerhoy.com/life/100-frases-navidad-nochebuena-ano-nuevo-enviar-whatsapp-1167502' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/whatsapp-navidad-2897020.jpg?tf=1200x' alt='100 frases de Navidad, Nochebuena y Año Nuevo para enviar por WhatsApp' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/smartwatches/ciertos-modelos-apple-watch-cuentan-caracteristica-muy-poco-conocida-1173946'>Ciertos modelos de Apple Watch cuentan con una característica muy poco conocida</a></h4>
-    <a href='https://computerhoy.com/smartwatches/ciertos-modelos-apple-watch-cuentan-caracteristica-muy-poco-conocida-1173946' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/apple-watch-series-8-analisis-opinion-2841929.jpg?tf=1200x' alt='Ciertos modelos de Apple Watch cuentan con una característica muy poco conocida' />
     </a>
 </div>
 
