@@ -50,43 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/daredevil-back-again-disney-plus-menos-violenta-1174560'>Disney+ adaptará a su visión la nueva serie de Daredevil: cambiará lo que más impactaba en Netflix</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/daredevil-back-again-disney-plus-menos-violenta-1174560' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/daredevil-2638237.jpg?tf=1200x' alt='Disney+ adaptará a su visión la nueva serie de Daredevil: cambiará lo que más impactaba en Netflix' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/ahora-iphone-sera-remedio-perfecto-ayudarte-dormir-1174556'>Ahora el iPhone será el remedio perfecto para ayudarte a dormir</a></h4>
+    <a href='https://computerhoy.com/apple/ahora-iphone-sera-remedio-perfecto-ayudarte-dormir-1174556' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/hombre-no-puede-dormir-2910632.jpg?tf=1200x' alt='Ahora el iPhone será el remedio perfecto para ayudarte a dormir' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/streaming/juego-secreto-netflix-ideal-estas-navidades-1174554'>El juego secreto de Netflix ideal para estas Navidades</a></h4>
+    <a href='https://computerhoy.com/streaming/juego-secreto-netflix-ideal-estas-navidades-1174554' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/triviaverso-2910624.jpg?tf=1200x' alt='El juego secreto de Netflix ideal para estas Navidades' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/memes-originales-divertidos-felicitaciones-navidad-2022-whatsapp-1173418'>Memes originales y divertidos para tus felicitaciones de Navidad 2022 por WhatsApp</a></h4>
+    <a href='https://computerhoy.com/life/memes-originales-divertidos-felicitaciones-navidad-2022-whatsapp-1173418' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/santa-claus-papa-noel-2908126.jpg?tf=1200x' alt='Memes originales y divertidos para tus felicitaciones de Navidad 2022 por WhatsApp' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/regalos-navidad-ultima-hora-envio-rapido-estos-son-algunos-mejores-1174390'>Regalos de Navidad de última hora y con envío rápido: estos son algunos de los mejores</a></h4>
     <a href='https://computerhoy.com/tecnologia/regalos-navidad-ultima-hora-envio-rapido-estos-son-algunos-mejores-1174390' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/regalo-navidad-2910544.jpg?tf=1200x' alt='Regalos de Navidad de última hora y con envío rápido: estos son algunos de los mejores' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/50-felicitaciones-nochebuena-enviar-whatsapp-navidad-1174534'>50 felicitaciones de Nochebuena para enviar por WhatsApp esta Navidad
-</a></h4>
-    <a href='https://computerhoy.com/life/50-felicitaciones-nochebuena-enviar-whatsapp-navidad-1174534' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/felicitaciones-nochebuena-enviar-whatsapp-2910542.jpg?tf=1200x' alt='50 felicitaciones de Nochebuena para enviar por WhatsApp esta Navidad
-' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/verdadera-razon-expertos-no-quieren-modo-avion-desaparezca-1174494'>La verdadera razón por la que los expertos no quieren que el modo avión desaparezca</a></h4>
-    <a href='https://computerhoy.com/moviles/verdadera-razon-expertos-no-quieren-modo-avion-desaparezca-1174494' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/modo-avion-2820515.jpg?tf=1200x' alt='La verdadera razón por la que los expertos no quieren que el modo avión desaparezca' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/series-ver-fin-semana-netflix-prime-video-torre-eiffel-brujo-espia-1174476'>Qué series ver este fin de semana en Netflix y Prime Video: una torre Eiffel, un brujo y un espía</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/series-ver-fin-semana-netflix-prime-video-torre-eiffel-brujo-espia-1174476' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/series-fin-semana-diciembre-2022-2910482.jpg?tf=1200x' alt='Qué series ver este fin de semana en Netflix y Prime Video: una torre Eiffel, un brujo y un espía' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/peliculas-ver-fin-semana-movistarplus-prime-video-netflix-musical-matilda-ultima-cena-cambios-cuerpos-1174382'>Qué películas ver este fin de semana en MovistarPlus+, Prime Video y Netflix: el musical de Matilda, una última cena y cambios de cuerpos</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/peliculas-ver-fin-semana-movistarplus-prime-video-netflix-musical-matilda-ultima-cena-cambios-cuerpos-1174382' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/peliculas-ver-fin-semana-movistarplus-prime-video-netflix-musical-matilda-ultima-cena-cambios-cuerpos-2910314.jpg?tf=1200x' alt='Qué películas ver este fin de semana en MovistarPlus+, Prime Video y Netflix: el musical de Matilda, una última cena y cambios de cuerpos' />
     </a>
 </div>
 
