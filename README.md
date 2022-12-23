@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/ventajas-monotasking-frente-popular-multitarea-1173874'>Las ventajas del Monotasking frente a la popular multitarea</a></h4>
+    <a href='https://computerhoy.com/life/ventajas-monotasking-frente-popular-multitarea-1173874' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/estas-son-ventajas-monotasking-gran-rival-trabajo-multitarea-tan-moda-siglo-xxi-2909434.jpg?tf=1200x' alt='Las ventajas del Monotasking frente a la popular multitarea' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/felicita-navidad-2022-forma-original-creando-tarjeta-navidena-dall-chatgpt-1169886'>Felicita la Navidad 2022 de una forma original creando tu tarjeta navideña con DALL-E y ChatGPT</a></h4>
+    <a href='https://computerhoy.com/tecnologia/felicita-navidad-2022-forma-original-creando-tarjeta-navidena-dall-chatgpt-1169886' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/felicita-navidad-2022-forma-original-creando-tarjeta-navidena-dall-chatgpt-2901374.jpg?tf=1200x' alt='Felicita la Navidad 2022 de una forma original creando tu tarjeta navideña con DALL-E y ChatGPT' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/31-noticias-tecnologia-comenzar-manana-informado-ultimo-1174268'>31 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
     <a href='https://computerhoy.com/tecnologia/31-noticias-tecnologia-comenzar-manana-informado-ultimo-1174268' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/31-noticias-tecnologia-comenzar-manana-informado-ultimo-2909778.jpg?tf=1200x' alt='31 noticias de tecnología para comenzar la mañana informado de lo último' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/ciencia/que-son-olas-cuadradas-como-se-forman-1174266'>Qué son las olas cuadradas, y por qué son un peligro para los barcos y surfistas</a></h4>
     <a href='https://computerhoy.com/ciencia/que-son-olas-cuadradas-como-se-forman-1174266' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/son-olas-cuadradas-son-peligro-barcos-surfistas-2909548.jpg?tf=1200x' alt='Qué son las olas cuadradas, y por qué son un peligro para los barcos y surfistas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/reproductor-blu-ray-convertir-microscopio-laser-miles-euros-video-1174034'>¿Tu reproductor de Blu-ray acumula polvo? Conviértelo en un microscopio láser que vale miles de euros (vídeo)</a></h4>
-    <a href='https://computerhoy.com/ciencia/reproductor-blu-ray-convertir-microscopio-laser-miles-euros-video-1174034' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/reproductor-blu-ray-acumula-polvo-conviertelo-microscopio-laser-vale-miles-euro-2909510.jpg?tf=1200x' alt='¿Tu reproductor de Blu-ray acumula polvo? Conviértelo en un microscopio láser que vale miles de euros (vídeo)' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/redes-sociales/nueva-funcion-twitter-saber-alguien-ve-tuits-funciona-1174008'>La nueva función de Twitter para saber si alguien ve tus tuits: así funciona</a></h4>
-    <a href='https://computerhoy.com/redes-sociales/nueva-funcion-twitter-saber-alguien-ve-tuits-funciona-1174008' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/elon-musk-confirma-aumento-limite-caracteres-twitter-280-4000-2898646.jpg?tf=1200x' alt='La nueva función de Twitter para saber si alguien ve tus tuits: así funciona' />
     </a>
 </div>
 
