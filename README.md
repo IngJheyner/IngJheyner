@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/peliculas-ver-fin-semana-movistarplus-prime-video-netflix-musical-matilda-ultima-cena-cambios-cuerpos-1174382'>Qué películas ver este fin de semana en MovistarPlus+, Prime Video y Netflix: el musical de Matilda, una última cena y cambios de cuerpos</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/peliculas-ver-fin-semana-movistarplus-prime-video-netflix-musical-matilda-ultima-cena-cambios-cuerpos-1174382' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/peliculas-ver-fin-semana-movistarplus-prime-video-netflix-musical-matilda-ultima-cena-cambios-cuerpos-2910314.jpg?tf=1200x' alt='Qué películas ver este fin de semana en MovistarPlus+, Prime Video y Netflix: el musical de Matilda, una última cena y cambios de cuerpos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/frases-cortas-felicitaciones-navidad-2022-whatsapp-1168564'>Frases cortas para tus felicitaciones de Navidad 2022 por WhatsApp</a></h4>
+    <a href='https://computerhoy.com/life/frases-cortas-felicitaciones-navidad-2022-whatsapp-1168564' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/frases-cortas-felicitaciones-navidad-2022-whatsapp-2899054.jpg?tf=1200x' alt='Frases cortas para tus felicitaciones de Navidad 2022 por WhatsApp' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/android/mejores-juegos-gratis-android-2022-1164200'>Los mejores juegos gratis para Android de 2022</a></h4>
+    <a href='https://computerhoy.com/android/mejores-juegos-gratis-android-2022-1164200' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/mejores-juegos-gratis-android-2022-2908320.jpg?tf=1200x' alt='Los mejores juegos gratis para Android de 2022' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/hbo-max-series-peliculas-estreno-enero-2023-1174456'>HBO Max: series y películas de estreno y más en enero de 2023</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/hbo-max-series-peliculas-estreno-enero-2023-1174456' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/hbo-max-series-peliculas-estreno-enero-2023-2910446.jpg?tf=1200x' alt='HBO Max: series y películas de estreno y más en enero de 2023' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/vivia-gente-lugar-mayor-densidad-poblacion-tierra-1174464'>Así vivía la gente en el lugar con mayor densidad de población de la Tierra</a></h4>
     <a href='https://computerhoy.com/life/vivia-gente-lugar-mayor-densidad-poblacion-tierra-1174464' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/kowloon-walled-2910440.jpg?tf=1200x' alt='Así vivía la gente en el lugar con mayor densidad de población de la Tierra' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/impresionante-destrozo-economico-iptv-espana-europa-1174422'>El impresionante destrozo económico de las IPTV en España y Europa</a></h4>
-    <a href='https://computerhoy.com/apps/impresionante-destrozo-economico-iptv-espana-europa-1174422' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/iptv-2910410.jpg?tf=1200x' alt='El impresionante destrozo económico de las IPTV en España y Europa' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/energia/mapa-precio-electricidad-europa-espana-barata-1174424'>El mapa del precio de la electricidad en Europa, en España la más barata</a></h4>
-    <a href='https://computerhoy.com/energia/mapa-precio-electricidad-europa-espana-barata-1174424' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/mapa-precio-electricidad-europa-espana-barata-2910350.jpg?tf=1200x' alt='El mapa del precio de la electricidad en Europa, en España la más barata' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/como-evitar-victima-troyano-bancario-android-1174394'>Cómo evitar se víctima de un troyano bancario en Android</a></h4>
-    <a href='https://computerhoy.com/apps/como-evitar-victima-troyano-bancario-android-1174394' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/android-malware-2663557.jpg?tf=1200x' alt='Cómo evitar se víctima de un troyano bancario en Android' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/gaming/stock-playstation-5-tiempo-reyes-tienda-vende-pack-consola-juegos-1174368'>Stock de PlayStation 5 a tiempo para Reyes: esta tienda vende un pack de consola y juegos</a></h4>
-    <a href='https://computerhoy.com/gaming/stock-playstation-5-tiempo-reyes-tienda-vende-pack-consola-juegos-1174368' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/playstation-5-2910156.jpg?tf=1200x' alt='Stock de PlayStation 5 a tiempo para Reyes: esta tienda vende un pack de consola y juegos' />
     </a>
 </div>
 
