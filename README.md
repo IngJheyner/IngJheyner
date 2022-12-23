@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/impresionante-destrozo-economico-iptv-espana-europa-1174422'>El impresionante destrozo económico de las IPTV en España y Europa</a></h4>
+    <a href='https://computerhoy.com/apps/impresionante-destrozo-economico-iptv-espana-europa-1174422' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/iptv-2910410.jpg?tf=1200x' alt='El impresionante destrozo económico de las IPTV en España y Europa' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/energia/mapa-precio-electricidad-europa-espana-barata-1174424'>El mapa del precio de la electricidad en Europa, en España la más barata</a></h4>
+    <a href='https://computerhoy.com/energia/mapa-precio-electricidad-europa-espana-barata-1174424' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/mapa-precio-electricidad-europa-espana-barata-2910350.jpg?tf=1200x' alt='El mapa del precio de la electricidad en Europa, en España la más barata' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apps/como-evitar-victima-troyano-bancario-android-1174394'>Cómo evitar se víctima de un troyano bancario en Android</a></h4>
     <a href='https://computerhoy.com/apps/como-evitar-victima-troyano-bancario-android-1174394' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/android-malware-2663557.jpg?tf=1200x' alt='Cómo evitar se víctima de un troyano bancario en Android' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/life/frases-cortas-felicitaciones-navidad-enviar-whatsapp-1174020'>Frases cortas de felicitaciones de Navidad para enviar por WhatsApp</a></h4>
     <a href='https://computerhoy.com/life/frases-cortas-felicitaciones-navidad-enviar-whatsapp-1174020' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/frases-felicitacion-enviar-whatsapp-2909468.jpg?tf=1200x' alt='Frases cortas de felicitaciones de Navidad para enviar por WhatsApp' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/redes-sociales/tiktok-ha-reconocido-oficialmente-ser-herramienta-espionaje-1174376'>TikTok ha reconocido oficialmente ser una herramienta de espionaje</a></h4>
-    <a href='https://computerhoy.com/redes-sociales/tiktok-ha-reconocido-oficialmente-ser-herramienta-espionaje-1174376' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/tiktok-2799869.jpg?tf=1200x' alt='TikTok ha reconocido oficialmente ser una herramienta de espionaje' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/tesla-quiere-pagues-300-dolares-nuevo-cargador-inalambrico-no-no-coches-electricos-1174356'>Tesla quiere que pagues 300 dólares por su nuevo cargador inalámbrico y no, no es para sus coches eléctricos</a></h4>
-    <a href='https://computerhoy.com/tecnologia/tesla-quiere-pagues-300-dolares-nuevo-cargador-inalambrico-no-no-coches-electricos-1174356' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/tesla-quiere-pagues-300-dolares-nuevo-cargador-inalambrico-no-no-coches-2910118.jpg?tf=1200x' alt='Tesla quiere que pagues 300 dólares por su nuevo cargador inalámbrico y no, no es para sus coches eléctricos' />
     </a>
 </div>
 
