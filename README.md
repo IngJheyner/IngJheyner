@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/android/puedes-descargar-nuevos-emojis-movil-android-1174318'>Así puedes descargar nuevos emojis en tu móvil Android</a></h4>
+    <a href='https://computerhoy.com/android/puedes-descargar-nuevos-emojis-movil-android-1174318' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/emojis-android-2909890.jpg?tf=1200x' alt='Así puedes descargar nuevos emojis en tu móvil Android' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/hogar/freidora-gigante-ideal-cocinar-mucho-rapido-navidad-precio-sorprendentemente-1174308'>Esta freidora gigante es ideal para cocinar mucho y rápido esta Navidad, y su precio es sorprendentemente bajo</a></h4>
     <a href='https://computerhoy.com/hogar/freidora-gigante-ideal-cocinar-mucho-rapido-navidad-precio-sorprendentemente-1174308' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/aigostar-zane-2909830.jpg?tf=1200x' alt='Esta freidora gigante es ideal para cocinar mucho y rápido esta Navidad, y su precio es sorprendentemente bajo' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/life/felicitaciones-navidad-elegantes-enviar-whatsapp-1168788'>Felicitaciones de Navidad elegantes para enviar por WhatsApp</a></h4>
     <a href='https://computerhoy.com/life/felicitaciones-navidad-elegantes-enviar-whatsapp-1168788' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/whatsapp-navidad-2899250.jpg?tf=1200x' alt='Felicitaciones de Navidad elegantes para enviar por WhatsApp' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/patrocinado/5-caracteristicas-convierten-vivo-x80-pro-5g-lanzamientos-esperados-2022-1170370'>Las 5 características que convierten al vivo X80 Pro 5G en uno de los lanzamientos más esperados de 2022</a></h4>
-    <a href='https://computerhoy.com/patrocinado/5-caracteristicas-convierten-vivo-x80-pro-5g-lanzamientos-esperados-2022-1170370' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/5-caracteristicas-convierten-vivo-x80-pro-5g-lanzamiento-esperado-2022-2902348.jpg?tf=1200x' alt='Las 5 características que convierten al vivo X80 Pro 5G en uno de los lanzamientos más esperados de 2022' />
     </a>
 </div>
 
