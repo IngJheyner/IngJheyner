@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/que-son-olas-cuadradas-como-se-forman-1174266'>Qué son las olas cuadradas, y por qué son un peligro para los barcos y surfistas</a></h4>
+    <a href='https://computerhoy.com/ciencia/que-son-olas-cuadradas-como-se-forman-1174266' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/son-olas-cuadradas-son-peligro-barcos-surfistas-2909548.jpg?tf=1200x' alt='Qué son las olas cuadradas, y por qué son un peligro para los barcos y surfistas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciencia/reproductor-blu-ray-convertir-microscopio-laser-miles-euros-video-1174034'>¿Tu reproductor de Blu-ray acumula polvo? Conviértelo en un microscopio láser que vale miles de euros (vídeo)</a></h4>
     <a href='https://computerhoy.com/ciencia/reproductor-blu-ray-convertir-microscopio-laser-miles-euros-video-1174034' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/reproductor-blu-ray-acumula-polvo-conviertelo-microscopio-laser-vale-miles-euro-2909510.jpg?tf=1200x' alt='¿Tu reproductor de Blu-ray acumula polvo? Conviértelo en un microscopio láser que vale miles de euros (vídeo)' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/apps/solucion-sencilla-problema-molesto-android-auto-1174018'>La solución más sencilla al problema más molesto de Android Auto</a></h4>
     <a href='https://computerhoy.com/apps/solucion-sencilla-problema-molesto-android-auto-1174018' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/android-auto-2700725.jpg?tf=1200x' alt='La solución más sencilla al problema más molesto de Android Auto' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/streaming/fecha-netflix-podria-empezar-cobrarte-compartes-cuenta-otras-personas-fuera-hogar-1174016'>En esta fecha Netflix podría empezar a cobrarte más si compartes tu cuenta con otras personas fuera del hogar</a></h4>
-    <a href='https://computerhoy.com/streaming/fecha-netflix-podria-empezar-cobrarte-compartes-cuenta-otras-personas-fuera-hogar-1174016' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/netflix-2702229.jpg?tf=1200x' alt='En esta fecha Netflix podría empezar a cobrarte más si compartes tu cuenta con otras personas fuera del hogar' />
     </a>
 </div>
 
