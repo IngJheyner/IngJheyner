@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-auriculares-inalambricos-hemos-probado-recomendamos-1096663'>5 auriculares inalámbricos que hemos probado y recomendamos</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-auriculares-inalambricos-hemos-probado-recomendamos-1096663' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/apple-airpods-pro-2-analisis-opinion-2844249.jpg?tf=1200x' alt='5 auriculares inalámbricos que hemos probado y recomendamos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/mejores-felicitaciones-navidad-2022-enviar-amigos-familiares-especiales-1170008'>Las mejores felicitaciones de Navidad 2022 para enviar a los amigos y familiares más especiales</a></h4>
     <a href='https://computerhoy.com/life/mejores-felicitaciones-navidad-2022-enviar-amigos-familiares-especiales-1170008' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/12/whatsapp-navidad-2175455.jpg?tf=1200x' alt='Las mejores felicitaciones de Navidad 2022 para enviar a los amigos y familiares más especiales' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/impresora-3d-elegoon-neptune-2s-solo-229-euros-1174576'>Esta impresora 3D es ideal para multitud de aficiones, baja a solo 229 euros</a></h4>
     <a href='https://computerhoy.com/tecnologia/impresora-3d-elegoon-neptune-2s-solo-229-euros-1174576' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/impresora-3d-ideal-multitud-aficiones-baja-solo-229-euros-2910668.jpg?tf=1200x' alt='Esta impresora 3D es ideal para multitud de aficiones, baja a solo 229 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/daredevil-back-again-disney-plus-menos-violenta-1174560'>Disney+ adaptará a su visión la nueva serie de Daredevil: cambiará lo que más impactaba en Netflix</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/daredevil-back-again-disney-plus-menos-violenta-1174560' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/daredevil-2638237.jpg?tf=1200x' alt='Disney+ adaptará a su visión la nueva serie de Daredevil: cambiará lo que más impactaba en Netflix' />
     </a>
 </div>
 
