@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/magia-siempre-continua-7-peliculas-navidad-han-estrenado-2022-1172904'>La magia siempre continúa: 7 películas de Navidad que se han estrenado en 2022</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/magia-siempre-continua-7-peliculas-navidad-han-estrenado-2022-1172904' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/magia-siempre-continua-7-peliculas-navidad-han-estrenado-2022-2908080.jpg?tf=1200x' alt='La magia siempre continúa: 7 películas de Navidad que se han estrenado en 2022' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/apps-villancicos-navidad-canciones-navidenas-cantar-familia-1169302'>Apps de villancicos de Navidad y canciones navideñas para cantar en familia</a></h4>
     <a href='https://computerhoy.com/life/apps-villancicos-navidad-canciones-navidenas-cantar-familia-1169302' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/papa-noel-2900010.jpg?tf=1200x' alt='Apps de villancicos de Navidad y canciones navideñas para cantar en familia' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/gaming/5-consejos-debes-seguir-antes-regalar-ps5-xbox-nintendo-switch-navidad-1171022'>5 consejos que debes seguir antes de regalar una PS5, Xbox o Nintendo Switch esta Navidad</a></h4>
     <a href='https://computerhoy.com/gaming/5-consejos-debes-seguir-antes-regalar-ps5-xbox-nintendo-switch-navidad-1171022' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/5-consejos-debes-seguir-antes-regalar-ps5-xbox-nintendo-switch-navidad-2903454.jpg?tf=1200x' alt='5 consejos que debes seguir antes de regalar una PS5, Xbox o Nintendo Switch esta Navidad' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/imagenes-divertidas-memes-felicitar-navidad-2022-whatsapp-983775'>Imágenes divertidas y memes para felicitar la Navidad 2022 por WhatsApp</a></h4>
-    <a href='https://computerhoy.com/life/imagenes-divertidas-memes-felicitar-navidad-2022-whatsapp-983775' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/imagenes-divertidas-memes-felicitar-navidad-2022-whatsapp-2901050.jpg?tf=1200x' alt='Imágenes divertidas y memes para felicitar la Navidad 2022 por WhatsApp' />
     </a>
 </div>
 
