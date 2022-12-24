@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/gaming/5-consejos-debes-seguir-antes-regalar-ps5-xbox-nintendo-switch-navidad-1171022'>5 consejos que debes seguir antes de regalar una PS5, Xbox o Nintendo Switch esta Navidad</a></h4>
+    <a href='https://computerhoy.com/gaming/5-consejos-debes-seguir-antes-regalar-ps5-xbox-nintendo-switch-navidad-1171022' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/5-consejos-debes-seguir-antes-regalar-ps5-xbox-nintendo-switch-navidad-2903454.jpg?tf=1200x' alt='5 consejos que debes seguir antes de regalar una PS5, Xbox o Nintendo Switch esta Navidad' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/imagenes-divertidas-memes-felicitar-navidad-2022-whatsapp-983775'>Imágenes divertidas y memes para felicitar la Navidad 2022 por WhatsApp</a></h4>
+    <a href='https://computerhoy.com/life/imagenes-divertidas-memes-felicitar-navidad-2022-whatsapp-983775' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/imagenes-divertidas-memes-felicitar-navidad-2022-whatsapp-2901050.jpg?tf=1200x' alt='Imágenes divertidas y memes para felicitar la Navidad 2022 por WhatsApp' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/apps/mejores-frases-cortas-felicitaciones-navidad-73341'>Frases cortas de felicitaciones de Navidad para enviar por WhatsApp</a></h4>
+    <a href='https://computerhoy.com/noticias/apps/mejores-frases-cortas-felicitaciones-navidad-73341' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/12/movil-navidad-2166903.jpg?tf=1200x' alt='Frases cortas de felicitaciones de Navidad para enviar por WhatsApp' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/latex-como-funciona-util-herramienta-crear-documentos-1165366'>¿Qué es LaTeX y cómo funciona esta útil herramienta para crear documentos?</a></h4>
     <a href='https://computerhoy.com/tecnologia/latex-como-funciona-util-herramienta-crear-documentos-1165366' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/verticalimage1671739453015-2909482.jpg?tf=1200x' alt='¿Qué es LaTeX y cómo funciona esta útil herramienta para crear documentos?' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/analisis/review-nokia-x30-test-opinion-1169276'>Análisis del Nokia X30 5G, un diseño espectacular con un procesador que no le hace justicia </a></h4>
     <a href='https://computerhoy.com/analisis/review-nokia-x30-test-opinion-1169276' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/analisis-nokia-x30-5g-2906838.jpg?tf=1200x' alt='Análisis del Nokia X30 5G, un diseño espectacular con un procesador que no le hace justicia ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/memes-graciosos-originales-felicitar-nochebuena-2021-whatsapp-983775'>Imágenes divertidas y memes para felicitar la Navidad 2022 por WhatsApp</a></h4>
-    <a href='https://computerhoy.com/noticias/life/memes-graciosos-originales-felicitar-nochebuena-2021-whatsapp-983775' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/imagenes-divertidas-memes-felicitar-navidad-2022-whatsapp-2901050.jpg?tf=1200x' alt='Imágenes divertidas y memes para felicitar la Navidad 2022 por WhatsApp' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/vota-premios-computerhoy-2022-finalistas-mejor-tablet-1174806'>Vota en los Premios ComputerHoy 2022: finalistas a la mejor tablet</a></h4>
-    <a href='https://computerhoy.com/tecnologia/vota-premios-computerhoy-2022-finalistas-mejor-tablet-1174806' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/vota-premios-computerhoy-2021-finalistas-mejores-tablets-2574165.jpg?tf=1200x' alt='Vota en los Premios ComputerHoy 2022: finalistas a la mejor tablet' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/movil-barato-samsung-arrasa-ventas-baja-precio-pone-apuros-marcas-chinas-1174344'>El móvil barato de Samsung que arrasa en ventas baja más de precio y pone en apuros a las marcas chinas</a></h4>
-    <a href='https://computerhoy.com/tecnologia/movil-barato-samsung-arrasa-ventas-baja-precio-pone-apuros-marcas-chinas-1174344' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/samsung-galaxy-a13-2747431.jpg?tf=1200x' alt='El móvil barato de Samsung que arrasa en ventas baja más de precio y pone en apuros a las marcas chinas' />
     </a>
 </div>
 
