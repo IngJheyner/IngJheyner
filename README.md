@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/gaming/regalar-consola-estas-navidades-actualizar-firmware-instalar-juegos-1174582'>Si vas a regalar una consola estas Navidades, es importante que hagas esto</a></h4>
+    <a href='https://computerhoy.com/gaming/regalar-consola-estas-navidades-actualizar-firmware-instalar-juegos-1174582' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/vas-regalar-consola-estas-navidades-importante-hagas-2910672.jpg?tf=1200x' alt='Si vas a regalar una consola estas Navidades, es importante que hagas esto' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/impresora-3d-elegoon-neptune-2s-solo-229-euros-1174576'>Esta impresora 3D es ideal para multitud de aficiones, baja a solo 229 euros</a></h4>
     <a href='https://computerhoy.com/tecnologia/impresora-3d-elegoon-neptune-2s-solo-229-euros-1174576' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/impresora-3d-ideal-multitud-aficiones-baja-solo-229-euros-2910668.jpg?tf=1200x' alt='Esta impresora 3D es ideal para multitud de aficiones, baja a solo 229 euros' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/streaming/juego-secreto-netflix-ideal-estas-navidades-1174554'>El juego secreto de Netflix ideal para estas Navidades</a></h4>
     <a href='https://computerhoy.com/streaming/juego-secreto-netflix-ideal-estas-navidades-1174554' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/triviaverso-2910624.jpg?tf=1200x' alt='El juego secreto de Netflix ideal para estas Navidades' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/memes-originales-divertidos-felicitaciones-navidad-2022-whatsapp-1173418'>Memes originales y divertidos para tus felicitaciones de Navidad 2022 por WhatsApp</a></h4>
-    <a href='https://computerhoy.com/life/memes-originales-divertidos-felicitaciones-navidad-2022-whatsapp-1173418' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/santa-claus-papa-noel-2908126.jpg?tf=1200x' alt='Memes originales y divertidos para tus felicitaciones de Navidad 2022 por WhatsApp' />
     </a>
 </div>
 
