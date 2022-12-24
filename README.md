@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/windows/microsoft-te-avisa-estas-estafas-soporte-tecnico-windows-debes-evitar-1174906'>Microsoft te avisa sobre estas estafas de soporte técnico en Windows y que debes evitar</a></h4>
+    <a href='https://computerhoy.com/windows/microsoft-te-avisa-estas-estafas-soporte-tecnico-windows-debes-evitar-1174906' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/windows-2872935.jpg?tf=1200x' alt='Microsoft te avisa sobre estas estafas de soporte técnico en Windows y que debes evitar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/moviles/honor-quiere-conquistar-gama-entrada-nueva-version-popular-x7-1174900'>Honor quiere conquistar la gama de entrada con una nueva versión de su popular X7</a></h4>
+    <a href='https://computerhoy.com/moviles/honor-quiere-conquistar-gama-entrada-nueva-version-popular-x7-1174900' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/honor-x7-2691237.jpg?tf=1200x' alt='Honor quiere conquistar la gama de entrada con una nueva versión de su popular X7' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apps/mejores-apps-saber-va-llover-nevar-estas-navidades-1172166'>Las mejores apps para saber si va a llover o nevar estas Navidades</a></h4>
     <a href='https://computerhoy.com/apps/mejores-apps-saber-va-llover-nevar-estas-navidades-1172166' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/mejores-apps-saber-va-llover-nevar-estas-navidades-2906656.jpg?tf=1200x' alt='Las mejores apps para saber si va a llover o nevar estas Navidades' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/apps/google-lanza-clasico-rastreador-papa-noel-sepas-cuando-llega-casa-1174862'>Google lanza su clásico rastreador de Papá Noel para que sepas cuando llega a tu casa</a></h4>
     <a href='https://computerhoy.com/apps/google-lanza-clasico-rastreador-papa-noel-sepas-cuando-llega-casa-1174862' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/rastreador-papa-noel-google-2911000.jpg?tf=1200x' alt='Google lanza su clásico rastreador de Papá Noel para que sepas cuando llega a tu casa' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/whatsapp-quiere-luchar-actualizaciones-estado-sospechosas-ahora-vas-poder-reportar-1174844'>WhatsApp quiere luchar contra las actualizaciones de estado sospechosas y ahora las vas a poder reportar</a></h4>
-    <a href='https://computerhoy.com/apps/whatsapp-quiere-luchar-actualizaciones-estado-sospechosas-ahora-vas-poder-reportar-1174844' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/01/whatsapp-seguridad-2195579.jpg?tf=1200x' alt='WhatsApp quiere luchar contra las actualizaciones de estado sospechosas y ahora las vas a poder reportar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/fallo-pantalla-iphone-14-pro-max-desesperando-muchos-usuarios-apple-ha-prometido-solucion-1174842'>El fallo con la pantalla del iPhone 14 Pro Max que está desesperando a muchos usuarios y del que Apple ha prometido una solución</a></h4>
-    <a href='https://computerhoy.com/apple/fallo-pantalla-iphone-14-pro-max-desesperando-muchos-usuarios-apple-ha-prometido-solucion-1174842' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/fallo-pantalla-iphone-14-pro-max-afectando-muchos-usuarios-2910958.jpg?tf=1200x' alt='El fallo con la pantalla del iPhone 14 Pro Max que está desesperando a muchos usuarios y del que Apple ha prometido una solución' />
     </a>
 </div>
 
