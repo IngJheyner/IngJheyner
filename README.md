@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/esculturas-buho-edad-bronce-espana-juguetes-infantil-1174412'>Los arquéologos se sorprenden al descubrir para qué se usaban estas esculturas de búho de la Edad de Bronce descubiertas en España</a></h4>
-    <a href='https://computerhoy.com/ciencia/esculturas-buho-edad-bronce-espana-juguetes-infantil-1174412' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/arqueologos-quedan-palabras-descubrir-usaban-estas-esculturas-buho-edad-bronce-2910254.jpg?tf=1200x' alt='Los arquéologos se sorprenden al descubrir para qué se usaban estas esculturas de búho de la Edad de Bronce descubiertas en España' />
+    <h4><a href='https://computerhoy.com/analisis/review-nokia-x30-test-opinion-1169276'>Análisis del Nokia X30 5G, un diseño espectacular con un procesador que no le hace justicia </a></h4>
+    <a href='https://computerhoy.com/analisis/review-nokia-x30-test-opinion-1169276' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/analisis-nokia-x30-5g-2906838.jpg?tf=1200x' alt='Análisis del Nokia X30 5G, un diseño espectacular con un procesador que no le hace justicia ' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-auriculares-inalambricos-hemos-probado-recomendamos-1096663'>5 auriculares inalámbricos que hemos probado y recomendamos</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-auriculares-inalambricos-hemos-probado-recomendamos-1096663' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/apple-airpods-pro-2-analisis-opinion-2844249.jpg?tf=1200x' alt='5 auriculares inalámbricos que hemos probado y recomendamos' />
+    <h4><a href='https://computerhoy.com/noticias/life/memes-graciosos-originales-felicitar-nochebuena-2021-whatsapp-983775'>Imágenes divertidas y memes para felicitar la Navidad 2022 por WhatsApp</a></h4>
+    <a href='https://computerhoy.com/noticias/life/memes-graciosos-originales-felicitar-nochebuena-2021-whatsapp-983775' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/imagenes-divertidas-memes-felicitar-navidad-2022-whatsapp-2901050.jpg?tf=1200x' alt='Imágenes divertidas y memes para felicitar la Navidad 2022 por WhatsApp' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/mejores-felicitaciones-navidad-2022-enviar-amigos-familiares-especiales-1170008'>Las mejores felicitaciones de Navidad 2022 para enviar a los amigos y familiares más especiales</a></h4>
-    <a href='https://computerhoy.com/life/mejores-felicitaciones-navidad-2022-enviar-amigos-familiares-especiales-1170008' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/12/whatsapp-navidad-2175455.jpg?tf=1200x' alt='Las mejores felicitaciones de Navidad 2022 para enviar a los amigos y familiares más especiales' />
+    <h4><a href='https://computerhoy.com/tecnologia/vota-premios-computerhoy-2022-finalistas-mejor-tablet-1174806'>Vota en los Premios ComputerHoy 2022: finalistas a la mejor tablet</a></h4>
+    <a href='https://computerhoy.com/tecnologia/vota-premios-computerhoy-2022-finalistas-mejor-tablet-1174806' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/vota-premios-computerhoy-2021-finalistas-mejores-tablets-2574165.jpg?tf=1200x' alt='Vota en los Premios ComputerHoy 2022: finalistas a la mejor tablet' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/terrorifica-arana-venenosa-tan-grande-como-mano-vive-en-casa-1174804'>Un australiano explica por qué deja que esta terrorífica araña venenosa tan grande como una mano viva en su casa</a></h4>
-    <a href='https://computerhoy.com/ciencia/terrorifica-arana-venenosa-tan-grande-como-mano-vive-en-casa-1174804' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/australiano-explica-deja-terrorifica-arana-gigante-viva-casa-2910674.jpg?tf=1200x' alt='Un australiano explica por qué deja que esta terrorífica araña venenosa tan grande como una mano viva en su casa' />
+    <h4><a href='https://computerhoy.com/tecnologia/movil-barato-samsung-arrasa-ventas-baja-precio-pone-apuros-marcas-chinas-1174344'>El móvil barato de Samsung que arrasa en ventas baja más de precio y pone en apuros a las marcas chinas</a></h4>
+    <a href='https://computerhoy.com/tecnologia/movil-barato-samsung-arrasa-ventas-baja-precio-pone-apuros-marcas-chinas-1174344' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/samsung-galaxy-a13-2747431.jpg?tf=1200x' alt='El móvil barato de Samsung que arrasa en ventas baja más de precio y pone en apuros a las marcas chinas' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/gaming/regalar-consola-estas-navidades-actualizar-firmware-instalar-juegos-1174582'>Si vas a regalar una consola estas Navidades, es importante que hagas esto</a></h4>
-    <a href='https://computerhoy.com/gaming/regalar-consola-estas-navidades-actualizar-firmware-instalar-juegos-1174582' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/vas-regalar-consola-estas-navidades-importante-hagas-2910672.jpg?tf=1200x' alt='Si vas a regalar una consola estas Navidades, es importante que hagas esto' />
+    <h4><a href='https://computerhoy.com/audio/tengo-auriculares-orejas-uso-todos-1172094'>Tengo más auriculares que orejas… y los uso todos</a></h4>
+    <a href='https://computerhoy.com/audio/tengo-auriculares-orejas-uso-todos-1172094' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/sony-wh-1000xm4-2695203.jpg?tf=1200x' alt='Tengo más auriculares que orejas… y los uso todos' />
     </a>
 </div>
 
