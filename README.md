@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/latex-como-funciona-util-herramienta-crear-documentos-1165366'>¿Qué es LaTeX y cómo funciona esta útil herramienta para crear documentos?</a></h4>
+    <a href='https://computerhoy.com/tecnologia/latex-como-funciona-util-herramienta-crear-documentos-1165366' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/verticalimage1671739453015-2909482.jpg?tf=1200x' alt='¿Qué es LaTeX y cómo funciona esta útil herramienta para crear documentos?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/analisis/review-nokia-x30-test-opinion-1169276'>Análisis del Nokia X30 5G, un diseño espectacular con un procesador que no le hace justicia </a></h4>
     <a href='https://computerhoy.com/analisis/review-nokia-x30-test-opinion-1169276' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/analisis-nokia-x30-5g-2906838.jpg?tf=1200x' alt='Análisis del Nokia X30 5G, un diseño espectacular con un procesador que no le hace justicia ' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/movil-barato-samsung-arrasa-ventas-baja-precio-pone-apuros-marcas-chinas-1174344'>El móvil barato de Samsung que arrasa en ventas baja más de precio y pone en apuros a las marcas chinas</a></h4>
     <a href='https://computerhoy.com/tecnologia/movil-barato-samsung-arrasa-ventas-baja-precio-pone-apuros-marcas-chinas-1174344' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/samsung-galaxy-a13-2747431.jpg?tf=1200x' alt='El móvil barato de Samsung que arrasa en ventas baja más de precio y pone en apuros a las marcas chinas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/audio/tengo-auriculares-orejas-uso-todos-1172094'>Tengo más auriculares que orejas… y los uso todos</a></h4>
-    <a href='https://computerhoy.com/audio/tengo-auriculares-orejas-uso-todos-1172094' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/sony-wh-1000xm4-2695203.jpg?tf=1200x' alt='Tengo más auriculares que orejas… y los uso todos' />
     </a>
 </div>
 
