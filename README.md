@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/whatsapp-quiere-luchar-actualizaciones-estado-sospechosas-ahora-vas-poder-reportar-1174844'>WhatsApp quiere luchar contra las actualizaciones de estado sospechosas y ahora las vas a poder reportar</a></h4>
+    <a href='https://computerhoy.com/apps/whatsapp-quiere-luchar-actualizaciones-estado-sospechosas-ahora-vas-poder-reportar-1174844' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/01/whatsapp-seguridad-2195579.jpg?tf=1200x' alt='WhatsApp quiere luchar contra las actualizaciones de estado sospechosas y ahora las vas a poder reportar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/fallo-pantalla-iphone-14-pro-max-desesperando-muchos-usuarios-apple-ha-prometido-solucion-1174842'>El fallo con la pantalla del iPhone 14 Pro Max que está desesperando a muchos usuarios y del que Apple ha prometido una solución</a></h4>
+    <a href='https://computerhoy.com/apple/fallo-pantalla-iphone-14-pro-max-desesperando-muchos-usuarios-apple-ha-prometido-solucion-1174842' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/fallo-pantalla-iphone-14-pro-max-afectando-muchos-usuarios-2910958.jpg?tf=1200x' alt='El fallo con la pantalla del iPhone 14 Pro Max que está desesperando a muchos usuarios y del que Apple ha prometido una solución' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/entretenimiento/magia-siempre-continua-7-peliculas-navidad-han-estrenado-2022-1172904'>La magia siempre continúa: 7 películas de Navidad que se han estrenado en 2022</a></h4>
     <a href='https://computerhoy.com/entretenimiento/magia-siempre-continua-7-peliculas-navidad-han-estrenado-2022-1172904' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/magia-siempre-continua-7-peliculas-navidad-han-estrenado-2022-2908080.jpg?tf=1200x' alt='La magia siempre continúa: 7 películas de Navidad que se han estrenado en 2022' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/frases-originales-mensajes-felicitar-nochebuena-navidad-whatsapp-984985'>Frases y chistes del Whatsapp para felicitar Nochebuena 2022</a></h4>
     <a href='https://computerhoy.com/noticias/life/frases-originales-mensajes-felicitar-nochebuena-navidad-whatsapp-984985' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/frases-chistes-whatsapp-felicitar-nochebuena-2022-2900018.jpg?tf=1200x' alt='Frases y chistes del Whatsapp para felicitar Nochebuena 2022' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/error-google-calendar-crea-eventos-aleatorios-falsos-solucion-problema-1174834'>Este error de Google Calendar crea eventos aleatorios y falsos, y esta es la solución al problema</a></h4>
-    <a href='https://computerhoy.com/apps/error-google-calendar-crea-eventos-aleatorios-falsos-solucion-problema-1174834' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/google-calendar-2910946.jpg?tf=1200x' alt='Este error de Google Calendar crea eventos aleatorios y falsos, y esta es la solución al problema' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/gaming/5-consejos-debes-seguir-antes-regalar-ps5-xbox-nintendo-switch-navidad-1171022'>5 consejos que debes seguir antes de regalar una PS5, Xbox o Nintendo Switch esta Navidad</a></h4>
-    <a href='https://computerhoy.com/gaming/5-consejos-debes-seguir-antes-regalar-ps5-xbox-nintendo-switch-navidad-1171022' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/5-consejos-debes-seguir-antes-regalar-ps5-xbox-nintendo-switch-navidad-2903454.jpg?tf=1200x' alt='5 consejos que debes seguir antes de regalar una PS5, Xbox o Nintendo Switch esta Navidad' />
     </a>
 </div>
 
