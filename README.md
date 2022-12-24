@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/terrorifica-arana-venenosa-tan-grande-como-mano-vive-en-casa-1174804'>Un australiano explica por qué deja que esta terrorífica araña venenosa tan grande como una mano viva en su casa</a></h4>
+    <a href='https://computerhoy.com/ciencia/terrorifica-arana-venenosa-tan-grande-como-mano-vive-en-casa-1174804' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/australiano-explica-deja-terrorifica-arana-gigante-viva-casa-2910674.jpg?tf=1200x' alt='Un australiano explica por qué deja que esta terrorífica araña venenosa tan grande como una mano viva en su casa' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/gaming/regalar-consola-estas-navidades-actualizar-firmware-instalar-juegos-1174582'>Si vas a regalar una consola estas Navidades, es importante que hagas esto</a></h4>
     <a href='https://computerhoy.com/gaming/regalar-consola-estas-navidades-actualizar-firmware-instalar-juegos-1174582' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/vas-regalar-consola-estas-navidades-importante-hagas-2910672.jpg?tf=1200x' alt='Si vas a regalar una consola estas Navidades, es importante que hagas esto' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/apple/ahora-iphone-sera-remedio-perfecto-ayudarte-dormir-1174556'>Ahora el iPhone será el remedio perfecto para ayudarte a dormir</a></h4>
     <a href='https://computerhoy.com/apple/ahora-iphone-sera-remedio-perfecto-ayudarte-dormir-1174556' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/hombre-no-puede-dormir-2910632.jpg?tf=1200x' alt='Ahora el iPhone será el remedio perfecto para ayudarte a dormir' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/streaming/juego-secreto-netflix-ideal-estas-navidades-1174554'>El juego secreto de Netflix ideal para estas Navidades</a></h4>
-    <a href='https://computerhoy.com/streaming/juego-secreto-netflix-ideal-estas-navidades-1174554' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/triviaverso-2910624.jpg?tf=1200x' alt='El juego secreto de Netflix ideal para estas Navidades' />
     </a>
 </div>
 
