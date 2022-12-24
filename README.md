@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/10-mejores-aplicaciones-infantiles-colorear-1174812'>Las 10 mejores aplicaciones infantiles para colorear</a></h4>
+    <a href='https://computerhoy.com/apps/10-mejores-aplicaciones-infantiles-colorear-1174812' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/10-mejores-aplicaciones-infantiles-colorear-2910900.jpg?tf=1200x' alt='Las 10 mejores aplicaciones infantiles para colorear' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/windows/microsoft-te-avisa-estas-estafas-soporte-tecnico-windows-debes-evitar-1174906'>Microsoft te avisa sobre estas estafas de soporte técnico en Windows y que debes evitar</a></h4>
     <a href='https://computerhoy.com/windows/microsoft-te-avisa-estas-estafas-soporte-tecnico-windows-debes-evitar-1174906' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/windows-2872935.jpg?tf=1200x' alt='Microsoft te avisa sobre estas estafas de soporte técnico en Windows y que debes evitar' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/alimentacion/beber-cafe-saludable-algunas-personas-pero-no-aquellas-padezcan-enfermedad-1174870'>Beber café es saludable para algunas personas, pero no para aquellas que padezcan esta enfermedad</a></h4>
     <a href='https://computerhoy.com/alimentacion/beber-cafe-saludable-algunas-personas-pero-no-aquellas-padezcan-enfermedad-1174870' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/beber-cafe-2911010.jpg?tf=1200x' alt='Beber café es saludable para algunas personas, pero no para aquellas que padezcan esta enfermedad' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/google-lanza-clasico-rastreador-papa-noel-sepas-cuando-llega-casa-1174862'>Google lanza su clásico rastreador de Papá Noel para que sepas cuando llega a tu casa</a></h4>
-    <a href='https://computerhoy.com/apps/google-lanza-clasico-rastreador-papa-noel-sepas-cuando-llega-casa-1174862' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/rastreador-papa-noel-google-2911000.jpg?tf=1200x' alt='Google lanza su clásico rastreador de Papá Noel para que sepas cuando llega a tu casa' />
     </a>
 </div>
 
