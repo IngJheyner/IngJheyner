@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/mejores-felicitaciones-navidad-2022-enviar-amigos-familiares-especiales-1170008'>Las mejores felicitaciones de Navidad 2022 para enviar a los amigos y familiares más especiales</a></h4>
+    <a href='https://computerhoy.com/life/mejores-felicitaciones-navidad-2022-enviar-amigos-familiares-especiales-1170008' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/12/whatsapp-navidad-2175455.jpg?tf=1200x' alt='Las mejores felicitaciones de Navidad 2022 para enviar a los amigos y familiares más especiales' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciencia/terrorifica-arana-venenosa-tan-grande-como-mano-vive-en-casa-1174804'>Un australiano explica por qué deja que esta terrorífica araña venenosa tan grande como una mano viva en su casa</a></h4>
     <a href='https://computerhoy.com/ciencia/terrorifica-arana-venenosa-tan-grande-como-mano-vive-en-casa-1174804' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/australiano-explica-deja-terrorifica-arana-gigante-viva-casa-2910674.jpg?tf=1200x' alt='Un australiano explica por qué deja que esta terrorífica araña venenosa tan grande como una mano viva en su casa' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/entretenimiento/daredevil-back-again-disney-plus-menos-violenta-1174560'>Disney+ adaptará a su visión la nueva serie de Daredevil: cambiará lo que más impactaba en Netflix</a></h4>
     <a href='https://computerhoy.com/entretenimiento/daredevil-back-again-disney-plus-menos-violenta-1174560' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/daredevil-2638237.jpg?tf=1200x' alt='Disney+ adaptará a su visión la nueva serie de Daredevil: cambiará lo que más impactaba en Netflix' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/ahora-iphone-sera-remedio-perfecto-ayudarte-dormir-1174556'>Ahora el iPhone será el remedio perfecto para ayudarte a dormir</a></h4>
-    <a href='https://computerhoy.com/apple/ahora-iphone-sera-remedio-perfecto-ayudarte-dormir-1174556' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/hombre-no-puede-dormir-2910632.jpg?tf=1200x' alt='Ahora el iPhone será el remedio perfecto para ayudarte a dormir' />
     </a>
 </div>
 
