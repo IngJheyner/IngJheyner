@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/apps-villancicos-navidad-canciones-navidenas-cantar-familia-1169302'>Apps de villancicos de Navidad y canciones navideñas para cantar en familia</a></h4>
+    <a href='https://computerhoy.com/life/apps-villancicos-navidad-canciones-navidenas-cantar-familia-1169302' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/papa-noel-2900010.jpg?tf=1200x' alt='Apps de villancicos de Navidad y canciones navideñas para cantar en familia' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/frases-originales-mensajes-felicitar-nochebuena-navidad-whatsapp-984985'>Frases y chistes del Whatsapp para felicitar Nochebuena 2022</a></h4>
+    <a href='https://computerhoy.com/noticias/life/frases-originales-mensajes-felicitar-nochebuena-navidad-whatsapp-984985' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/frases-chistes-whatsapp-felicitar-nochebuena-2022-2900018.jpg?tf=1200x' alt='Frases y chistes del Whatsapp para felicitar Nochebuena 2022' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/error-google-calendar-crea-eventos-aleatorios-falsos-solucion-problema-1174834'>Este error de Google Calendar crea eventos aleatorios y falsos, y esta es la solución al problema</a></h4>
+    <a href='https://computerhoy.com/apps/error-google-calendar-crea-eventos-aleatorios-falsos-solucion-problema-1174834' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/google-calendar-2910946.jpg?tf=1200x' alt='Este error de Google Calendar crea eventos aleatorios y falsos, y esta es la solución al problema' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/gaming/5-consejos-debes-seguir-antes-regalar-ps5-xbox-nintendo-switch-navidad-1171022'>5 consejos que debes seguir antes de regalar una PS5, Xbox o Nintendo Switch esta Navidad</a></h4>
     <a href='https://computerhoy.com/gaming/5-consejos-debes-seguir-antes-regalar-ps5-xbox-nintendo-switch-navidad-1171022' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/5-consejos-debes-seguir-antes-regalar-ps5-xbox-nintendo-switch-navidad-2903454.jpg?tf=1200x' alt='5 consejos que debes seguir antes de regalar una PS5, Xbox o Nintendo Switch esta Navidad' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/life/imagenes-divertidas-memes-felicitar-navidad-2022-whatsapp-983775'>Imágenes divertidas y memes para felicitar la Navidad 2022 por WhatsApp</a></h4>
     <a href='https://computerhoy.com/life/imagenes-divertidas-memes-felicitar-navidad-2022-whatsapp-983775' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/imagenes-divertidas-memes-felicitar-navidad-2022-whatsapp-2901050.jpg?tf=1200x' alt='Imágenes divertidas y memes para felicitar la Navidad 2022 por WhatsApp' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/apps/mejores-frases-cortas-felicitaciones-navidad-73341'>Frases cortas de felicitaciones de Navidad para enviar por WhatsApp</a></h4>
-    <a href='https://computerhoy.com/noticias/apps/mejores-frases-cortas-felicitaciones-navidad-73341' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/12/movil-navidad-2166903.jpg?tf=1200x' alt='Frases cortas de felicitaciones de Navidad para enviar por WhatsApp' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/latex-como-funciona-util-herramienta-crear-documentos-1165366'>¿Qué es LaTeX y cómo funciona esta útil herramienta para crear documentos?</a></h4>
-    <a href='https://computerhoy.com/tecnologia/latex-como-funciona-util-herramienta-crear-documentos-1165366' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/verticalimage1671739453015-2909482.jpg?tf=1200x' alt='¿Qué es LaTeX y cómo funciona esta útil herramienta para crear documentos?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/review-nokia-x30-test-opinion-1169276'>Análisis del Nokia X30 5G, un diseño espectacular con un procesador que no le hace justicia </a></h4>
-    <a href='https://computerhoy.com/analisis/review-nokia-x30-test-opinion-1169276' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/analisis-nokia-x30-5g-2906838.jpg?tf=1200x' alt='Análisis del Nokia X30 5G, un diseño espectacular con un procesador que no le hace justicia ' />
     </a>
 </div>
 
