@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/esculturas-buho-edad-bronce-espana-juguetes-infantil-1174412'>Los arquéologos se sorprenden al descubrir para qué se usaban estas esculturas de búho de la Edad de Bronce descubiertas en España</a></h4>
+    <a href='https://computerhoy.com/ciencia/esculturas-buho-edad-bronce-espana-juguetes-infantil-1174412' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/arqueologos-quedan-palabras-descubrir-usaban-estas-esculturas-buho-edad-bronce-2910254.jpg?tf=1200x' alt='Los arquéologos se sorprenden al descubrir para qué se usaban estas esculturas de búho de la Edad de Bronce descubiertas en España' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-auriculares-inalambricos-hemos-probado-recomendamos-1096663'>5 auriculares inalámbricos que hemos probado y recomendamos</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/mejores-auriculares-inalambricos-hemos-probado-recomendamos-1096663' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/apple-airpods-pro-2-analisis-opinion-2844249.jpg?tf=1200x' alt='5 auriculares inalámbricos que hemos probado y recomendamos' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/gaming/regalar-consola-estas-navidades-actualizar-firmware-instalar-juegos-1174582'>Si vas a regalar una consola estas Navidades, es importante que hagas esto</a></h4>
     <a href='https://computerhoy.com/gaming/regalar-consola-estas-navidades-actualizar-firmware-instalar-juegos-1174582' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/vas-regalar-consola-estas-navidades-importante-hagas-2910672.jpg?tf=1200x' alt='Si vas a regalar una consola estas Navidades, es importante que hagas esto' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/impresora-3d-elegoon-neptune-2s-solo-229-euros-1174576'>Esta impresora 3D es ideal para multitud de aficiones, baja a solo 229 euros</a></h4>
-    <a href='https://computerhoy.com/tecnologia/impresora-3d-elegoon-neptune-2s-solo-229-euros-1174576' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/impresora-3d-ideal-multitud-aficiones-baja-solo-229-euros-2910668.jpg?tf=1200x' alt='Esta impresora 3D es ideal para multitud de aficiones, baja a solo 229 euros' />
     </a>
 </div>
 
