@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/google-lanza-clasico-rastreador-papa-noel-sepas-cuando-llega-casa-1174862'>Google lanza su clásico rastreador de Papá Noel para que sepas cuando llega a tu casa</a></h4>
+    <a href='https://computerhoy.com/apps/google-lanza-clasico-rastreador-papa-noel-sepas-cuando-llega-casa-1174862' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/rastreador-papa-noel-google-2911000.jpg?tf=1200x' alt='Google lanza su clásico rastreador de Papá Noel para que sepas cuando llega a tu casa' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apps/whatsapp-quiere-luchar-actualizaciones-estado-sospechosas-ahora-vas-poder-reportar-1174844'>WhatsApp quiere luchar contra las actualizaciones de estado sospechosas y ahora las vas a poder reportar</a></h4>
     <a href='https://computerhoy.com/apps/whatsapp-quiere-luchar-actualizaciones-estado-sospechosas-ahora-vas-poder-reportar-1174844' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/01/whatsapp-seguridad-2195579.jpg?tf=1200x' alt='WhatsApp quiere luchar contra las actualizaciones de estado sospechosas y ahora las vas a poder reportar' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/life/apps-villancicos-navidad-canciones-navidenas-cantar-familia-1169302'>Apps de villancicos de Navidad y canciones navideñas para cantar en familia</a></h4>
     <a href='https://computerhoy.com/life/apps-villancicos-navidad-canciones-navidenas-cantar-familia-1169302' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/papa-noel-2900010.jpg?tf=1200x' alt='Apps de villancicos de Navidad y canciones navideñas para cantar en familia' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/frases-originales-mensajes-felicitar-nochebuena-navidad-whatsapp-984985'>Frases y chistes del Whatsapp para felicitar Nochebuena 2022</a></h4>
-    <a href='https://computerhoy.com/noticias/life/frases-originales-mensajes-felicitar-nochebuena-navidad-whatsapp-984985' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/frases-chistes-whatsapp-felicitar-nochebuena-2022-2900018.jpg?tf=1200x' alt='Frases y chistes del Whatsapp para felicitar Nochebuena 2022' />
     </a>
 </div>
 
