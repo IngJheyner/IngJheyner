@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/peliculas-netflix-hbo-prime-video-diferentes-ver-tarde-navidad-1170360'>Películas en Netflix, HBO y Prime Video diferentes para ver en la tarde de Navidad</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/peliculas-netflix-hbo-prime-video-diferentes-ver-tarde-navidad-1170360' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/peliculas-netflix-hbo-prime-video-diferentes-ver-tarde-navidad-2902326.jpg?tf=1200x' alt='Películas en Netflix, HBO y Prime Video diferentes para ver en la tarde de Navidad' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apps/10-mejores-aplicaciones-infantiles-colorear-1174812'>Las 10 mejores aplicaciones infantiles para colorear</a></h4>
     <a href='https://computerhoy.com/apps/10-mejores-aplicaciones-infantiles-colorear-1174812' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/10-mejores-aplicaciones-infantiles-colorear-2910900.jpg?tf=1200x' alt='Las 10 mejores aplicaciones infantiles para colorear' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/apps/mejores-apps-saber-va-llover-nevar-estas-navidades-1172166'>Las mejores apps para saber si va a llover o nevar estas Navidades</a></h4>
     <a href='https://computerhoy.com/apps/mejores-apps-saber-va-llover-nevar-estas-navidades-1172166' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/mejores-apps-saber-va-llover-nevar-estas-navidades-2906656.jpg?tf=1200x' alt='Las mejores apps para saber si va a llover o nevar estas Navidades' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/alimentacion/beber-cafe-saludable-algunas-personas-pero-no-aquellas-padezcan-enfermedad-1174870'>Beber café es saludable para algunas personas, pero no para aquellas que padezcan esta enfermedad</a></h4>
-    <a href='https://computerhoy.com/alimentacion/beber-cafe-saludable-algunas-personas-pero-no-aquellas-padezcan-enfermedad-1174870' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/beber-cafe-2911010.jpg?tf=1200x' alt='Beber café es saludable para algunas personas, pero no para aquellas que padezcan esta enfermedad' />
     </a>
 </div>
 
