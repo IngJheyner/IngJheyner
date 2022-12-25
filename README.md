@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/pueden-abrir-leer-comics-windows-11-1168656'>Así se pueden abrir y leer comics en Windows 11</a></h4>
+    <a href='https://computerhoy.com/tutoriales/pueden-abrir-leer-comics-windows-11-1168656' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/comics-2898652.jpg?tf=1200x' alt='Así se pueden abrir y leer comics en Windows 11' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-patinetes-electricos-puedes-comprar-1031083'>Estos son los mejores patinetes eléctricos que puedes comprar</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-patinetes-electricos-puedes-comprar-1031083' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/xiaomi-mi-electric-scooter-pro-4-2910354.jpg?tf=1200x' alt='Estos son los mejores patinetes eléctricos que puedes comprar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/perro-robot-puede-escalar-paredes-como-fuera-insecto-gigante-1174902'>Este perro robot puede escalar paredes como si fuera un insecto gigante</a></h4>
+    <a href='https://computerhoy.com/ciencia/perro-robot-puede-escalar-paredes-como-fuera-insecto-gigante-1174902' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/marvel-2911068.jpg?tf=1200x' alt='Este perro robot puede escalar paredes como si fuera un insecto gigante' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/subasta-esqueleto-original-et-extraterrestre-alcanza-cifra-astronomica-1174904'>Se subasta el esqueleto de original de E.T. el extraterrestre, y alcanza esta cifra astronómica</a></h4>
     <a href='https://computerhoy.com/life/subasta-esqueleto-original-et-extraterrestre-alcanza-cifra-astronomica-1174904' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/animatronico-et-2911072.jpg?tf=1200x' alt='Se subasta el esqueleto de original de E.T. el extraterrestre, y alcanza esta cifra astronómica' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/ciencia/cementerio-tiburones-dientes-fosilizados-megalodon-1174306'>Descubren un cementerio de tiburones con cientos de dientes fosilizados que se remontan al Megalodón</a></h4>
     <a href='https://computerhoy.com/ciencia/cementerio-tiburones-dientes-fosilizados-megalodon-1174306' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/descubren-cementerio-tiburones-5000-metros-cientos-dientes-fosilizados-remontan-megalodon-2909808.jpg?tf=1200x' alt='Descubren un cementerio de tiburones con cientos de dientes fosilizados que se remontan al Megalodón' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/mejores-accesorios-deberias-tener-nuevo-movil-1174438'>Los mejores accesorios que deberías tener para tu nuevo móvil</a></h4>
-    <a href='https://computerhoy.com/moviles/mejores-accesorios-deberias-tener-nuevo-movil-1174438' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/apple-iphone-14-plus-analisis-opinion-2857681.jpg?tf=1200x' alt='Los mejores accesorios que deberías tener para tu nuevo móvil' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/peliculas-netflix-hbo-prime-video-diferentes-ver-tarde-navidad-1170360'>Películas en Netflix, HBO y Prime Video diferentes para ver en la tarde de Navidad</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/peliculas-netflix-hbo-prime-video-diferentes-ver-tarde-navidad-1170360' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/peliculas-netflix-hbo-prime-video-diferentes-ver-tarde-navidad-2902326.jpg?tf=1200x' alt='Películas en Netflix, HBO y Prime Video diferentes para ver en la tarde de Navidad' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/10-mejores-aplicaciones-infantiles-colorear-1174812'>Las 10 mejores aplicaciones infantiles para colorear</a></h4>
-    <a href='https://computerhoy.com/apps/10-mejores-aplicaciones-infantiles-colorear-1174812' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/10-mejores-aplicaciones-infantiles-colorear-2910900.jpg?tf=1200x' alt='Las 10 mejores aplicaciones infantiles para colorear' />
     </a>
 </div>
 
