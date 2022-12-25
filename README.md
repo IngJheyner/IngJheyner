@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/logos-mas-antiguos-mundo-aun-existen-700-anos-1174378'>Los logos más antiguos del mundo que aún existen, algunos tienen casi 700 años</a></h4>
+    <a href='https://computerhoy.com/life/logos-mas-antiguos-mundo-aun-existen-700-anos-1174378' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/logos-antiguos-mundo-aun-existen-algunos-tienen-casi-700-anos-2910124.jpg?tf=1200x' alt='Los logos más antiguos del mundo que aún existen, algunos tienen casi 700 años' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/espacio/perseverance-espada-laser-star-wars-marte-1175144'>¿Ha encontrado la Perseverance una espada láser de Star Wars en Marte?</a></h4>
     <a href='https://computerhoy.com/espacio/perseverance-espada-laser-star-wars-marte-1175144' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/ha-encontrado-perseverance-espada-laser-star-wars-marte-2911298.jpg?tf=1200x' alt='¿Ha encontrado la Perseverance una espada láser de Star Wars en Marte?' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/ciencia/ya-puedes-visitar-dentro-gran-piramide-guiza-tumba-tutankamon-3d-mayor-detalle-jamas-visto-1174884'>Ya puedes visitar por dentro la Gran Pirámide de Guiza y la tumba de Tutankamón en 3D con el mayor detalle jamás visto</a></h4>
     <a href='https://computerhoy.com/ciencia/ya-puedes-visitar-dentro-gran-piramide-guiza-tumba-tutankamon-3d-mayor-detalle-jamas-visto-1174884' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/ya-puedes-visitar-gran-piramide-guiza-tumba-tutankamon-3d-mayor-detalle-jamas-visto-2911012.jpg?tf=1200x' alt='Ya puedes visitar por dentro la Gran Pirámide de Guiza y la tumba de Tutankamón en 3D con el mayor detalle jamás visto' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/redes-sociales/meta-paga-725-millones-dolares-escandalo-cambridge-analytica-1174866'>Meta acepta pagar 725 millones de dólares por el escándalo de Cambridge Analytica... y a otra cosa</a></h4>
-    <a href='https://computerhoy.com/redes-sociales/meta-paga-725-millones-dolares-escandalo-cambridge-analytica-1174866' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/meta-acepta-pagar-725-millones-dolares-escandalo-cambridge-analytica-otra-cosa-2910998.jpg?tf=1200x' alt='Meta acepta pagar 725 millones de dólares por el escándalo de Cambridge Analytica... y a otra cosa' />
     </a>
 </div>
 
