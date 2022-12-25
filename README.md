@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/subasta-esqueleto-original-et-extraterrestre-alcanza-cifra-astronomica-1174904'>Se subasta el esqueleto de original de E.T. el extraterrestre, y alcanza esta cifra astronómica</a></h4>
+    <a href='https://computerhoy.com/life/subasta-esqueleto-original-et-extraterrestre-alcanza-cifra-astronomica-1174904' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/animatronico-et-2911072.jpg?tf=1200x' alt='Se subasta el esqueleto de original de E.T. el extraterrestre, y alcanza esta cifra astronómica' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/cementerio-tiburones-dientes-fosilizados-megalodon-1174306'>Descubren un cementerio de tiburones con cientos de dientes fosilizados que se remontan al Megalodón</a></h4>
+    <a href='https://computerhoy.com/ciencia/cementerio-tiburones-dientes-fosilizados-megalodon-1174306' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/descubren-cementerio-tiburones-5000-metros-cientos-dientes-fosilizados-remontan-megalodon-2909808.jpg?tf=1200x' alt='Descubren un cementerio de tiburones con cientos de dientes fosilizados que se remontan al Megalodón' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/moviles/mejores-accesorios-deberias-tener-nuevo-movil-1174438'>Los mejores accesorios que deberías tener para tu nuevo móvil</a></h4>
+    <a href='https://computerhoy.com/moviles/mejores-accesorios-deberias-tener-nuevo-movil-1174438' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/apple-iphone-14-plus-analisis-opinion-2857681.jpg?tf=1200x' alt='Los mejores accesorios que deberías tener para tu nuevo móvil' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/entretenimiento/peliculas-netflix-hbo-prime-video-diferentes-ver-tarde-navidad-1170360'>Películas en Netflix, HBO y Prime Video diferentes para ver en la tarde de Navidad</a></h4>
     <a href='https://computerhoy.com/entretenimiento/peliculas-netflix-hbo-prime-video-diferentes-ver-tarde-navidad-1170360' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/peliculas-netflix-hbo-prime-video-diferentes-ver-tarde-navidad-2902326.jpg?tf=1200x' alt='Películas en Netflix, HBO y Prime Video diferentes para ver en la tarde de Navidad' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/apps/10-mejores-aplicaciones-infantiles-colorear-1174812'>Las 10 mejores aplicaciones infantiles para colorear</a></h4>
     <a href='https://computerhoy.com/apps/10-mejores-aplicaciones-infantiles-colorear-1174812' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/10-mejores-aplicaciones-infantiles-colorear-2910900.jpg?tf=1200x' alt='Las 10 mejores aplicaciones infantiles para colorear' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/microsoft-te-avisa-estas-estafas-soporte-tecnico-windows-debes-evitar-1174906'>Microsoft te avisa sobre estas estafas de soporte técnico en Windows y que debes evitar</a></h4>
-    <a href='https://computerhoy.com/windows/microsoft-te-avisa-estas-estafas-soporte-tecnico-windows-debes-evitar-1174906' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/windows-2872935.jpg?tf=1200x' alt='Microsoft te avisa sobre estas estafas de soporte técnico en Windows y que debes evitar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/honor-quiere-conquistar-gama-entrada-nueva-version-popular-x7-1174900'>Honor quiere conquistar la gama de entrada con una nueva versión de su popular X7</a></h4>
-    <a href='https://computerhoy.com/moviles/honor-quiere-conquistar-gama-entrada-nueva-version-popular-x7-1174900' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/honor-x7-2691237.jpg?tf=1200x' alt='Honor quiere conquistar la gama de entrada con una nueva versión de su popular X7' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/mejores-apps-saber-va-llover-nevar-estas-navidades-1172166'>Las mejores apps para saber si va a llover o nevar estas Navidades</a></h4>
-    <a href='https://computerhoy.com/apps/mejores-apps-saber-va-llover-nevar-estas-navidades-1172166' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/mejores-apps-saber-va-llover-nevar-estas-navidades-2906656.jpg?tf=1200x' alt='Las mejores apps para saber si va a llover o nevar estas Navidades' />
     </a>
 </div>
 
