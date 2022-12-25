@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/motor/bmw-badenes-baches-recargar-coche-electrico-1175146'>BMW le encuentra una utilidad a los badenes y los baches de la carretera: te ahorrarán dinero</a></h4>
+    <a href='https://computerhoy.com/motor/bmw-badenes-baches-recargar-coche-electrico-1175146' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/bmw-encuentra-utilidad-badenes-carretera-te-ahorraran-dinero-2911300.jpg?tf=1200x' alt='BMW le encuentra una utilidad a los badenes y los baches de la carretera: te ahorrarán dinero' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciencia/ya-puedes-visitar-dentro-gran-piramide-guiza-tumba-tutankamon-3d-mayor-detalle-jamas-visto-1174884'>Ya puedes visitar por dentro la Gran Pirámide de Guiza y la tumba de Tutankamón en 3D con el mayor detalle jamás visto</a></h4>
     <a href='https://computerhoy.com/ciencia/ya-puedes-visitar-dentro-gran-piramide-guiza-tumba-tutankamon-3d-mayor-detalle-jamas-visto-1174884' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/ya-puedes-visitar-gran-piramide-guiza-tumba-tutankamon-3d-mayor-detalle-jamas-visto-2911012.jpg?tf=1200x' alt='Ya puedes visitar por dentro la Gran Pirámide de Guiza y la tumba de Tutankamón en 3D con el mayor detalle jamás visto' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/guia-compra/iluminacion-inteligente-1161165'>Todo lo que necesitas saber sobre la Iluminación inteligente </a></h4>
     <a href='https://computerhoy.com/guia-compra/iluminacion-inteligente-1161165' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/iluminacion-led-2883905.jpg?tf=1200x' alt='Todo lo que necesitas saber sobre la Iluminación inteligente ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/review-dynabook-x30l-toshiba-ultraportatil-1153901'>Análisis del Dynabook Portege X30L K 12P, el regreso de Toshiba a los ultraportátiles</a></h4>
-    <a href='https://computerhoy.com/analisis/review-dynabook-x30l-toshiba-ultraportatil-1153901' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/analisis-dynabook-x30l-2909148.jpg?tf=1200x' alt='Análisis del Dynabook Portege X30L K 12P, el regreso de Toshiba a los ultraportátiles' />
     </a>
 </div>
 
