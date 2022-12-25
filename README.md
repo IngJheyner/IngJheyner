@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/espacio/perseverance-espada-laser-star-wars-marte-1175144'>¿Ha encontrado la Perseverance una espada láser de Star Wars en Marte?</a></h4>
+    <a href='https://computerhoy.com/espacio/perseverance-espada-laser-star-wars-marte-1175144' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/ha-encontrado-perseverance-espada-laser-star-wars-marte-2911298.jpg?tf=1200x' alt='¿Ha encontrado la Perseverance una espada láser de Star Wars en Marte?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/consumo-wifi-radiador-calienta-habitacion-pero-no-factura-1174454'>De bajo consumo y con WiFi: este radiador calienta tu habitación, pero no tu factura</a></h4>
     <a href='https://computerhoy.com/tecnologia/consumo-wifi-radiador-calienta-habitacion-pero-no-factura-1174454' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/cecotec-ready-warm-6750-crystal-connection-m-2910366.jpg?tf=1200x' alt='De bajo consumo y con WiFi: este radiador calienta tu habitación, pero no tu factura' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/redes-sociales/meta-paga-725-millones-dolares-escandalo-cambridge-analytica-1174866'>Meta acepta pagar 725 millones de dólares por el escándalo de Cambridge Analytica... y a otra cosa</a></h4>
     <a href='https://computerhoy.com/redes-sociales/meta-paga-725-millones-dolares-escandalo-cambridge-analytica-1174866' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/meta-acepta-pagar-725-millones-dolares-escandalo-cambridge-analytica-otra-cosa-2910998.jpg?tf=1200x' alt='Meta acepta pagar 725 millones de dólares por el escándalo de Cambridge Analytica... y a otra cosa' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-sacar-partido-nuevos-memojis-ios-16-gestos-adicionales-1172106'>Cómo sacar partido a los nuevos memojis de iOS 16 con gestos adicionales</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-sacar-partido-nuevos-memojis-ios-16-gestos-adicionales-1172106' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/memojis-2905256.jpg?tf=1200x' alt='Cómo sacar partido a los nuevos memojis de iOS 16 con gestos adicionales' />
     </a>
 </div>
 
