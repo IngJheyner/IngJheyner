@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-sacar-partido-nuevos-memojis-ios-16-gestos-adicionales-1172106'>Cómo sacar partido a los nuevos memojis de iOS 16 con gestos adicionales</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-sacar-partido-nuevos-memojis-ios-16-gestos-adicionales-1172106' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/memojis-2905256.jpg?tf=1200x' alt='Cómo sacar partido a los nuevos memojis de iOS 16 con gestos adicionales' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/guia-compra/iluminacion-inteligente-1161165'>Todo lo que necesitas saber sobre la Iluminación inteligente </a></h4>
+    <a href='https://computerhoy.com/guia-compra/iluminacion-inteligente-1161165' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/iluminacion-led-2883905.jpg?tf=1200x' alt='Todo lo que necesitas saber sobre la Iluminación inteligente ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/analisis/review-dynabook-x30l-toshiba-ultraportatil-1153901'>Análisis del Dynabook Portege X30L K 12P, el regreso de Toshiba a los ultraportátiles</a></h4>
+    <a href='https://computerhoy.com/analisis/review-dynabook-x30l-toshiba-ultraportatil-1153901' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/analisis-dynabook-x30l-2909148.jpg?tf=1200x' alt='Análisis del Dynabook Portege X30L K 12P, el regreso de Toshiba a los ultraportátiles' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tutoriales/pueden-abrir-leer-comics-windows-11-1168656'>Así se pueden abrir y leer comics en Windows 11</a></h4>
     <a href='https://computerhoy.com/tutoriales/pueden-abrir-leer-comics-windows-11-1168656' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/comics-2898652.jpg?tf=1200x' alt='Así se pueden abrir y leer comics en Windows 11' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-patinetes-electricos-puedes-comprar-1031083'>Estos son los mejores patinetes eléctricos que puedes comprar</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/mejores-patinetes-electricos-puedes-comprar-1031083' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/xiaomi-mi-electric-scooter-pro-4-2910354.jpg?tf=1200x' alt='Estos son los mejores patinetes eléctricos que puedes comprar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/perro-robot-puede-escalar-paredes-como-fuera-insecto-gigante-1174902'>Este perro robot puede escalar paredes como si fuera un insecto gigante</a></h4>
-    <a href='https://computerhoy.com/ciencia/perro-robot-puede-escalar-paredes-como-fuera-insecto-gigante-1174902' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/marvel-2911068.jpg?tf=1200x' alt='Este perro robot puede escalar paredes como si fuera un insecto gigante' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/subasta-esqueleto-original-et-extraterrestre-alcanza-cifra-astronomica-1174904'>Se subasta el esqueleto de original de E.T. el extraterrestre, y alcanza esta cifra astronómica</a></h4>
-    <a href='https://computerhoy.com/life/subasta-esqueleto-original-et-extraterrestre-alcanza-cifra-astronomica-1174904' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/animatronico-et-2911072.jpg?tf=1200x' alt='Se subasta el esqueleto de original de E.T. el extraterrestre, y alcanza esta cifra astronómica' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/cementerio-tiburones-dientes-fosilizados-megalodon-1174306'>Descubren un cementerio de tiburones con cientos de dientes fosilizados que se remontan al Megalodón</a></h4>
-    <a href='https://computerhoy.com/ciencia/cementerio-tiburones-dientes-fosilizados-megalodon-1174306' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/descubren-cementerio-tiburones-5000-metros-cientos-dientes-fosilizados-remontan-megalodon-2909808.jpg?tf=1200x' alt='Descubren un cementerio de tiburones con cientos de dientes fosilizados que se remontan al Megalodón' />
     </a>
 </div>
 
