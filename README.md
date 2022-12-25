@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/consumo-wifi-radiador-calienta-habitacion-pero-no-factura-1174454'>De bajo consumo y con WiFi: este radiador calienta tu habitación, pero no tu factura</a></h4>
+    <a href='https://computerhoy.com/tecnologia/consumo-wifi-radiador-calienta-habitacion-pero-no-factura-1174454' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/cecotec-ready-warm-6750-crystal-connection-m-2910366.jpg?tf=1200x' alt='De bajo consumo y con WiFi: este radiador calienta tu habitación, pero no tu factura' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/motor/bmw-badenes-baches-recargar-coche-electrico-1175146'>BMW le encuentra una utilidad a los badenes y los baches de la carretera: te ahorrarán dinero</a></h4>
     <a href='https://computerhoy.com/motor/bmw-badenes-baches-recargar-coche-electrico-1175146' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/bmw-encuentra-utilidad-badenes-carretera-te-ahorraran-dinero-2911300.jpg?tf=1200x' alt='BMW le encuentra una utilidad a los badenes y los baches de la carretera: te ahorrarán dinero' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tutoriales/como-sacar-partido-nuevos-memojis-ios-16-gestos-adicionales-1172106'>Cómo sacar partido a los nuevos memojis de iOS 16 con gestos adicionales</a></h4>
     <a href='https://computerhoy.com/tutoriales/como-sacar-partido-nuevos-memojis-ios-16-gestos-adicionales-1172106' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/memojis-2905256.jpg?tf=1200x' alt='Cómo sacar partido a los nuevos memojis de iOS 16 con gestos adicionales' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/guia-compra/iluminacion-inteligente-1161165'>Todo lo que necesitas saber sobre la Iluminación inteligente </a></h4>
-    <a href='https://computerhoy.com/guia-compra/iluminacion-inteligente-1161165' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/iluminacion-led-2883905.jpg?tf=1200x' alt='Todo lo que necesitas saber sobre la Iluminación inteligente ' />
     </a>
 </div>
 
