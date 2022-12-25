@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/redes-sociales/meta-paga-725-millones-dolares-escandalo-cambridge-analytica-1174866'>Meta acepta pagar 725 millones de dólares por el escándalo de Cambridge Analytica... y a otra cosa</a></h4>
+    <a href='https://computerhoy.com/redes-sociales/meta-paga-725-millones-dolares-escandalo-cambridge-analytica-1174866' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/meta-acepta-pagar-725-millones-dolares-escandalo-cambridge-analytica-otra-cosa-2910998.jpg?tf=1200x' alt='Meta acepta pagar 725 millones de dólares por el escándalo de Cambridge Analytica... y a otra cosa' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tutoriales/como-sacar-partido-nuevos-memojis-ios-16-gestos-adicionales-1172106'>Cómo sacar partido a los nuevos memojis de iOS 16 con gestos adicionales</a></h4>
     <a href='https://computerhoy.com/tutoriales/como-sacar-partido-nuevos-memojis-ios-16-gestos-adicionales-1172106' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/memojis-2905256.jpg?tf=1200x' alt='Cómo sacar partido a los nuevos memojis de iOS 16 con gestos adicionales' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tutoriales/pueden-abrir-leer-comics-windows-11-1168656'>Así se pueden abrir y leer comics en Windows 11</a></h4>
     <a href='https://computerhoy.com/tutoriales/pueden-abrir-leer-comics-windows-11-1168656' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/comics-2898652.jpg?tf=1200x' alt='Así se pueden abrir y leer comics en Windows 11' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-patinetes-electricos-puedes-comprar-1031083'>Estos son los mejores patinetes eléctricos que puedes comprar</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-patinetes-electricos-puedes-comprar-1031083' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/xiaomi-mi-electric-scooter-pro-4-2910354.jpg?tf=1200x' alt='Estos son los mejores patinetes eléctricos que puedes comprar' />
     </a>
 </div>
 
