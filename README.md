@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/analisis/review-fitbit-sense-2-reloj-inteligente-creado-mirada-google-1166748'>Análisis del Fitbit Sense 2, un reloj inteligente creado bajo la mirada de Google</a></h4>
+    <a href='https://computerhoy.com/analisis/review-fitbit-sense-2-reloj-inteligente-creado-mirada-google-1166748' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/fitbit-sense-2-2898192.jpg?tf=1200x' alt='Análisis del Fitbit Sense 2, un reloj inteligente creado bajo la mirada de Google' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-usar-whatsapp-dos-moviles-vez-modo-companion-1172758'>Cómo usar WhatsApp desde dos móviles a la vez con el modo Companion</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-usar-whatsapp-dos-moviles-vez-modo-companion-1172758' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/whatsapp-dos-moviles-vez-2906534.jpg?tf=1200x' alt='Cómo usar WhatsApp desde dos móviles a la vez con el modo Companion' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/31-noticias-tecnologia-comenzar-manana-informado-ultimo-1175306'>31 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
     <a href='https://computerhoy.com/tecnologia/31-noticias-tecnologia-comenzar-manana-informado-ultimo-1175306' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/31-noticias-tecnologia-comenzar-manana-informado-ultimo-2911552.jpg?tf=1200x' alt='31 noticias de tecnología para comenzar la mañana informado de lo último' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/amazon/regalos-reyes-baratos-ideas-regalar-menos-20-euros-1174462'>Regalos de Reyes baratos: ideas para regalar por menos de 20 euros</a></h4>
     <a href='https://computerhoy.com/amazon/regalos-reyes-baratos-ideas-regalar-menos-20-euros-1174462' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/regalos-navidad-2898638.jpg?tf=1200x' alt='Regalos de Reyes baratos: ideas para regalar por menos de 20 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/logos-mas-antiguos-mundo-aun-existen-700-anos-1174378'>Los logos más antiguos del mundo que aún existen, algunos tienen casi 700 años</a></h4>
-    <a href='https://computerhoy.com/life/logos-mas-antiguos-mundo-aun-existen-700-anos-1174378' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/logos-antiguos-mundo-aun-existen-algunos-tienen-casi-700-anos-2910124.jpg?tf=1200x' alt='Los logos más antiguos del mundo que aún existen, algunos tienen casi 700 años' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/perseverance-espada-laser-star-wars-marte-1175144'>¿Ha encontrado la Perseverance una espada láser de Star Wars en Marte?</a></h4>
-    <a href='https://computerhoy.com/espacio/perseverance-espada-laser-star-wars-marte-1175144' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/ha-encontrado-perseverance-espada-laser-star-wars-marte-2911298.jpg?tf=1200x' alt='¿Ha encontrado la Perseverance una espada láser de Star Wars en Marte?' />
     </a>
 </div>
 
