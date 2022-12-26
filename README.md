@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/mando-xbox-caracteristicas-dualsense-ps5-microsoft-podria-estar-desarrollando-1175454'>¿Un mando de Xbox con características del DualSense de PS5? Microsoft podría estar desarrollando algo así</a></h4>
+    <a href='https://computerhoy.com/mando-xbox-caracteristicas-dualsense-ps5-microsoft-podria-estar-desarrollando-1175454' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/11/analisis-xbox-series-s-computerhoy-2131659.jpg?tf=1200x' alt='¿Un mando de Xbox con características del DualSense de PS5? Microsoft podría estar desarrollando algo así' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tutoriales/como-compartir-fotos-miembros-familia-ios-16-1156183'>Cómo compartir las fotos con miembros de la familia en iOS 16</a></h4>
     <a href='https://computerhoy.com/tutoriales/como-compartir-fotos-miembros-familia-ios-16-1156183' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/familia-ios-2872653.jpg?tf=1200x' alt='Cómo compartir las fotos con miembros de la familia en iOS 16' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tutoriales/como-solucionar-pantalla-borrosa-windows-11-1166782'>Cómo solucionar la pantalla borrosa en Windows 11</a></h4>
     <a href='https://computerhoy.com/tutoriales/como-solucionar-pantalla-borrosa-windows-11-1166782' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/desesperada-ordenador-2895542.jpg?tf=1200x' alt='Cómo solucionar la pantalla borrosa en Windows 11' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/gaming/te-quedan-7-horas-descargar-gratis-death-stranding-espectacular-juego-hideo-kojima-1175318'>Te quedan 7 horas para descargar gratis Death Stranding, el espectacular juego de Hideo Kojima</a></h4>
-    <a href='https://computerhoy.com/gaming/te-quedan-7-horas-descargar-gratis-death-stranding-espectacular-juego-hideo-kojima-1175318' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/death-stranding-gratis-2911578.jpg?tf=1200x' alt='Te quedan 7 horas para descargar gratis Death Stranding, el espectacular juego de Hideo Kojima' />
     </a>
 </div>
 
