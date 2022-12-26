@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/7-caracteristicas-google-sites-hacer-destacar-pagina-web-1172200'>7 características de Google Sites para hacer destacar tu página web</a></h4>
+    <a href='https://computerhoy.com/tecnologia/7-caracteristicas-google-sites-hacer-destacar-pagina-web-1172200' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/google-sites-2905328.jpg?tf=1200x' alt='7 características de Google Sites para hacer destacar tu página web' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-solucionar-pantalla-borrosa-windows-11-1166782'>Cómo solucionar la pantalla borrosa en Windows 11</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-solucionar-pantalla-borrosa-windows-11-1166782' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/desesperada-ordenador-2895542.jpg?tf=1200x' alt='Cómo solucionar la pantalla borrosa en Windows 11' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/gaming/te-quedan-7-horas-descargar-gratis-death-stranding-espectacular-juego-hideo-kojima-1175318'>Te quedan 7 horas para descargar gratis Death Stranding, el espectacular juego de Hideo Kojima</a></h4>
     <a href='https://computerhoy.com/gaming/te-quedan-7-horas-descargar-gratis-death-stranding-espectacular-juego-hideo-kojima-1175318' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/death-stranding-gratis-2911578.jpg?tf=1200x' alt='Te quedan 7 horas para descargar gratis Death Stranding, el espectacular juego de Hideo Kojima' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/ciberseguridad/deberias-cambiar-contrasena-twitter-despues-nueva-filtracion-masiva-400-millones-usuarios-1175326'>Deberías cambiar tu contraseña de Twitter después de la nueva filtración masiva de 400 millones de usuarios</a></h4>
     <a href='https://computerhoy.com/ciberseguridad/deberias-cambiar-contrasena-twitter-despues-nueva-filtracion-masiva-400-millones-usuarios-1175326' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/malas-noticias-nuevo-twitter-elon-musk-54-millones-datos-robados-usuarios-circulan-foro-hackers-2884709.jpg?tf=1200x' alt='Deberías cambiar tu contraseña de Twitter después de la nueva filtración masiva de 400 millones de usuarios' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/android/filtran-colores-algunas-caracteristicas-samsung-galaxy-s23-ultra-s23-1175314'>Se filtran los colores y algunas características de los Samsung Galaxy S23 Ultra y S23+</a></h4>
-    <a href='https://computerhoy.com/android/filtran-colores-algunas-caracteristicas-samsung-galaxy-s23-ultra-s23-1175314' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/analisis-samsung-galaxy-s22-ultra-2620727.jpg?tf=1200x' alt='Se filtran los colores y algunas características de los Samsung Galaxy S23 Ultra y S23+' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/review-fitbit-sense-2-reloj-inteligente-creado-mirada-google-1166748'>Análisis del Fitbit Sense 2, un reloj inteligente creado bajo la mirada de Google</a></h4>
-    <a href='https://computerhoy.com/analisis/review-fitbit-sense-2-reloj-inteligente-creado-mirada-google-1166748' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/fitbit-sense-2-2898192.jpg?tf=1200x' alt='Análisis del Fitbit Sense 2, un reloj inteligente creado bajo la mirada de Google' />
     </a>
 </div>
 
