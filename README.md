@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/como-pelar-mandarina-abuela-japonesa-1174334'>Una abuela japonesa nos descubre la mejor forma de pelar una mandarina</a></h4>
+    <a href='https://computerhoy.com/life/como-pelar-mandarina-abuela-japonesa-1174334' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/abuela-japonesa-nos-descubre-mejor-forma-pelar-mandarina-2909886.jpg?tf=1200x' alt='Una abuela japonesa nos descubre la mejor forma de pelar una mandarina' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-hacer-busquedas-avanzadas-archivos-google-drive-1159129'>Cómo hacer búsquedas avanzadas de archivos en Google Drive</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-hacer-busquedas-avanzadas-archivos-google-drive-1159129' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/ordenador-google-drive-2876797.jpg?tf=1200x' alt='Cómo hacer búsquedas avanzadas de archivos en Google Drive' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/mando-xbox-caracteristicas-dualsense-ps5-microsoft-podria-estar-desarrollando-1175454'>¿Un mando de Xbox con características del DualSense de PS5? Microsoft podría estar desarrollando algo así</a></h4>
     <a href='https://computerhoy.com/mando-xbox-caracteristicas-dualsense-ps5-microsoft-podria-estar-desarrollando-1175454' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/11/analisis-xbox-series-s-computerhoy-2131659.jpg?tf=1200x' alt='¿Un mando de Xbox con características del DualSense de PS5? Microsoft podría estar desarrollando algo así' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/guia-compra/camara-seguridad-1157621'>Todo lo que necesitas saber para comprar una cámara de seguridad</a></h4>
     <a href='https://computerhoy.com/guia-compra/camara-seguridad-1157621' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/camara-seguridad-2876155.jpg?tf=1200x' alt='Todo lo que necesitas saber para comprar una cámara de seguridad' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/7-caracteristicas-google-sites-hacer-destacar-pagina-web-1172200'>7 características de Google Sites para hacer destacar tu página web</a></h4>
-    <a href='https://computerhoy.com/tecnologia/7-caracteristicas-google-sites-hacer-destacar-pagina-web-1172200' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/google-sites-2905328.jpg?tf=1200x' alt='7 características de Google Sites para hacer destacar tu página web' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-solucionar-pantalla-borrosa-windows-11-1166782'>Cómo solucionar la pantalla borrosa en Windows 11</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-solucionar-pantalla-borrosa-windows-11-1166782' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/desesperada-ordenador-2895542.jpg?tf=1200x' alt='Cómo solucionar la pantalla borrosa en Windows 11' />
     </a>
 </div>
 
