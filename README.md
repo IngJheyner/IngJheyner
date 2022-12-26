@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/guia-compra/camara-seguridad-1157621'>Todo lo que necesitas saber para comprar una cámara de seguridad</a></h4>
+    <a href='https://computerhoy.com/guia-compra/camara-seguridad-1157621' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/camara-seguridad-2876155.jpg?tf=1200x' alt='Todo lo que necesitas saber para comprar una cámara de seguridad' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/7-caracteristicas-google-sites-hacer-destacar-pagina-web-1172200'>7 características de Google Sites para hacer destacar tu página web</a></h4>
     <a href='https://computerhoy.com/tecnologia/7-caracteristicas-google-sites-hacer-destacar-pagina-web-1172200' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/google-sites-2905328.jpg?tf=1200x' alt='7 características de Google Sites para hacer destacar tu página web' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tutoriales/podemos-solucionar-error-windows-ipv4-ipv6-acceso-internet-1168728'>Así podemos solucionar el error de Windows "IPv4/IPV6 sin acceso a Internet"</a></h4>
     <a href='https://computerhoy.com/tutoriales/podemos-solucionar-error-windows-ipv4-ipv6-acceso-internet-1168728' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/windows-11-internet-2898974.jpg?tf=1200x' alt='Así podemos solucionar el error de Windows "IPv4/IPV6 sin acceso a Internet"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/deberias-cambiar-contrasena-twitter-despues-nueva-filtracion-masiva-400-millones-usuarios-1175326'>Deberías cambiar tu contraseña de Twitter después de la nueva filtración masiva de 400 millones de usuarios</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/deberias-cambiar-contrasena-twitter-despues-nueva-filtracion-masiva-400-millones-usuarios-1175326' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/malas-noticias-nuevo-twitter-elon-musk-54-millones-datos-robados-usuarios-circulan-foro-hackers-2884709.jpg?tf=1200x' alt='Deberías cambiar tu contraseña de Twitter después de la nueva filtración masiva de 400 millones de usuarios' />
     </a>
 </div>
 
