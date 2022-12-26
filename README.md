@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-compartir-fotos-miembros-familia-ios-16-1156183'>Cómo compartir las fotos con miembros de la familia en iOS 16</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-compartir-fotos-miembros-familia-ios-16-1156183' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/familia-ios-2872653.jpg?tf=1200x' alt='Cómo compartir las fotos con miembros de la familia en iOS 16' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/guia-compra/camara-seguridad-1157621'>Todo lo que necesitas saber para comprar una cámara de seguridad</a></h4>
     <a href='https://computerhoy.com/guia-compra/camara-seguridad-1157621' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/camara-seguridad-2876155.jpg?tf=1200x' alt='Todo lo que necesitas saber para comprar una cámara de seguridad' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/gaming/te-quedan-7-horas-descargar-gratis-death-stranding-espectacular-juego-hideo-kojima-1175318'>Te quedan 7 horas para descargar gratis Death Stranding, el espectacular juego de Hideo Kojima</a></h4>
     <a href='https://computerhoy.com/gaming/te-quedan-7-horas-descargar-gratis-death-stranding-espectacular-juego-hideo-kojima-1175318' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/death-stranding-gratis-2911578.jpg?tf=1200x' alt='Te quedan 7 horas para descargar gratis Death Stranding, el espectacular juego de Hideo Kojima' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/podemos-solucionar-error-windows-ipv4-ipv6-acceso-internet-1168728'>Así podemos solucionar el error de Windows "IPv4/IPV6 sin acceso a Internet"</a></h4>
-    <a href='https://computerhoy.com/tutoriales/podemos-solucionar-error-windows-ipv4-ipv6-acceso-internet-1168728' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/windows-11-internet-2898974.jpg?tf=1200x' alt='Así podemos solucionar el error de Windows "IPv4/IPV6 sin acceso a Internet"' />
     </a>
 </div>
 
