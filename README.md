@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/gaming/te-quedan-7-horas-descargar-gratis-death-stranding-espectacular-juego-hideo-kojima-1175318'>Te quedan 7 horas para descargar gratis Death Stranding, el espectacular juego de Hideo Kojima</a></h4>
+    <a href='https://computerhoy.com/gaming/te-quedan-7-horas-descargar-gratis-death-stranding-espectacular-juego-hideo-kojima-1175318' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/death-stranding-gratis-2911578.jpg?tf=1200x' alt='Te quedan 7 horas para descargar gratis Death Stranding, el espectacular juego de Hideo Kojima' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/podemos-solucionar-error-windows-ipv4-ipv6-acceso-internet-1168728'>Así podemos solucionar el error de Windows "IPv4/IPV6 sin acceso a Internet"</a></h4>
+    <a href='https://computerhoy.com/tutoriales/podemos-solucionar-error-windows-ipv4-ipv6-acceso-internet-1168728' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/windows-11-internet-2898974.jpg?tf=1200x' alt='Así podemos solucionar el error de Windows "IPv4/IPV6 sin acceso a Internet"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/deberias-cambiar-contrasena-twitter-despues-nueva-filtracion-masiva-400-millones-usuarios-1175326'>Deberías cambiar tu contraseña de Twitter después de la nueva filtración masiva de 400 millones de usuarios</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/deberias-cambiar-contrasena-twitter-despues-nueva-filtracion-masiva-400-millones-usuarios-1175326' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/malas-noticias-nuevo-twitter-elon-musk-54-millones-datos-robados-usuarios-circulan-foro-hackers-2884709.jpg?tf=1200x' alt='Deberías cambiar tu contraseña de Twitter después de la nueva filtración masiva de 400 millones de usuarios' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/android/filtran-colores-algunas-caracteristicas-samsung-galaxy-s23-ultra-s23-1175314'>Se filtran los colores y algunas características de los Samsung Galaxy S23 Ultra y S23+</a></h4>
+    <a href='https://computerhoy.com/android/filtran-colores-algunas-caracteristicas-samsung-galaxy-s23-ultra-s23-1175314' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/analisis-samsung-galaxy-s22-ultra-2620727.jpg?tf=1200x' alt='Se filtran los colores y algunas características de los Samsung Galaxy S23 Ultra y S23+' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/analisis/review-fitbit-sense-2-reloj-inteligente-creado-mirada-google-1166748'>Análisis del Fitbit Sense 2, un reloj inteligente creado bajo la mirada de Google</a></h4>
     <a href='https://computerhoy.com/analisis/review-fitbit-sense-2-reloj-inteligente-creado-mirada-google-1166748' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/fitbit-sense-2-2898192.jpg?tf=1200x' alt='Análisis del Fitbit Sense 2, un reloj inteligente creado bajo la mirada de Google' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-usar-whatsapp-dos-moviles-vez-modo-companion-1172758'>Cómo usar WhatsApp desde dos móviles a la vez con el modo Companion</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-usar-whatsapp-dos-moviles-vez-modo-companion-1172758' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/whatsapp-dos-moviles-vez-2906534.jpg?tf=1200x' alt='Cómo usar WhatsApp desde dos móviles a la vez con el modo Companion' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/31-noticias-tecnologia-comenzar-manana-informado-ultimo-1175306'>31 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
-    <a href='https://computerhoy.com/tecnologia/31-noticias-tecnologia-comenzar-manana-informado-ultimo-1175306' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/31-noticias-tecnologia-comenzar-manana-informado-ultimo-2911552.jpg?tf=1200x' alt='31 noticias de tecnología para comenzar la mañana informado de lo último' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/juegos-educativos-osmo-tablet-ipad-modelos-1174532'>Juegos educativos Osmo para iPad: qué son y modelos que puedes comprar</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/juegos-educativos-osmo-tablet-ipad-modelos-1174532' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/juegos-ipad-osmo-2910606.jpg?tf=1200x' alt='Juegos educativos Osmo para iPad: qué son y modelos que puedes comprar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/amazon/regalos-reyes-baratos-ideas-regalar-menos-20-euros-1174462'>Regalos de Reyes baratos: ideas para regalar por menos de 20 euros</a></h4>
-    <a href='https://computerhoy.com/amazon/regalos-reyes-baratos-ideas-regalar-menos-20-euros-1174462' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/regalos-navidad-2898638.jpg?tf=1200x' alt='Regalos de Reyes baratos: ideas para regalar por menos de 20 euros' />
     </a>
 </div>
 
