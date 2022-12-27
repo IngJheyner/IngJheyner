@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/funciona-desconocido-modo-infiel-whatsapp-1175844'>Así funciona el desconocido modo infiel de WhatsApp</a></h4>
+    <a href='https://computerhoy.com/apps/funciona-desconocido-modo-infiel-whatsapp-1175844' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/whatsapp-modo-infiel-2912528.jpg?tf=1200x' alt='Así funciona el desconocido modo infiel de WhatsApp' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/moviles/xiaomi-anade-5-moviles-lista-dispositivos-no-recibiran-actualizaciones-1175818'>Xiaomi añade 5 móviles más a su lista de dispositivos que no recibirán más actualizaciones</a></h4>
     <a href='https://computerhoy.com/moviles/xiaomi-anade-5-moviles-lista-dispositivos-no-recibiran-actualizaciones-1175818' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/xiaomi-anade-5-moviles-lista-dispositivos-no-recibiran-actualizaciones-2912670.jpg?tf=1200x' alt='Xiaomi añade 5 móviles más a su lista de dispositivos que no recibirán más actualizaciones' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/patrocinado/celebra-fin-ano-super-ofertas-aliexpress-menudos-descuentos-1175438'>Celebra el fin de este año con las Super Ofertas de AliExpress ¡menudos descuentos!</a></h4>
     <a href='https://computerhoy.com/patrocinado/celebra-fin-ano-super-ofertas-aliexpress-menudos-descuentos-1175438' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/superofertas-aliexpress-2911714.jpg?tf=1200x' alt='Celebra el fin de este año con las Super Ofertas de AliExpress ¡menudos descuentos!' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tv/vuelve-tdt-channels-anunciar-cierre-estara-operativo-tanto-web-como-android-ios-1175758'>Vuelve TDT Channels tras anunciar su cierre y estará operativo tanto en la web como Android e iOS</a></h4>
-    <a href='https://computerhoy.com/tv/vuelve-tdt-channels-anunciar-cierre-estara-operativo-tanto-web-como-android-ios-1175758' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/vuelve-tdt-channels-anunciar-cierre-estara-operativo-tanto-web-como-android-ios-2912264.jpg?tf=1200x' alt='Vuelve TDT Channels tras anunciar su cierre y estará operativo tanto en la web como Android e iOS' />
     </a>
 </div>
 
