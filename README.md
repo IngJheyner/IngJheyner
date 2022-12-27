@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/15-noticias-tecnologia-comenzar-manana-informado-ultimo-1175678'>15 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
+    <a href='https://computerhoy.com/tecnologia/15-noticias-tecnologia-comenzar-manana-informado-ultimo-1175678' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/15-noticias-tecnologia-comenzar-manana-informado-ultimo-2912068.jpg?tf=1200x' alt='15 noticias de tecnología para comenzar la mañana informado de lo último' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/como-pelar-mandarina-abuela-japonesa-1174334'>Una abuela japonesa nos descubre la mejor forma de pelar una mandarina</a></h4>
     <a href='https://computerhoy.com/life/como-pelar-mandarina-abuela-japonesa-1174334' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/abuela-japonesa-nos-descubre-mejor-forma-pelar-mandarina-2909886.jpg?tf=1200x' alt='Una abuela japonesa nos descubre la mejor forma de pelar una mandarina' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tutoriales/como-compartir-fotos-miembros-familia-ios-16-1156183'>Cómo compartir las fotos con miembros de la familia en iOS 16</a></h4>
     <a href='https://computerhoy.com/tutoriales/como-compartir-fotos-miembros-familia-ios-16-1156183' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/familia-ios-2872653.jpg?tf=1200x' alt='Cómo compartir las fotos con miembros de la familia en iOS 16' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/guia-compra/camara-seguridad-1157621'>Todo lo que necesitas saber para comprar una cámara de seguridad</a></h4>
-    <a href='https://computerhoy.com/guia-compra/camara-seguridad-1157621' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/camara-seguridad-2876155.jpg?tf=1200x' alt='Todo lo que necesitas saber para comprar una cámara de seguridad' />
     </a>
 </div>
 
