@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/moviles/huawei-p60-mate-60-vista-todo-sabemos-respecto-1175978'>Los Huawei P60 y Mate 60 a la vista: esto es todo lo que sabemos al respecto</a></h4>
+    <a href='https://computerhoy.com/moviles/huawei-p60-mate-60-vista-todo-sabemos-respecto-1175978' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/review-huawei-mate-50-pro-2866339.jpg?tf=1200x' alt='Los Huawei P60 y Mate 60 a la vista: esto es todo lo que sabemos al respecto' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/redes-sociales/cuenta-twitter-rastreaba-avion-privado-elon-musk-vuelve-aunque-24-horas-retraso-1175968'>La cuenta de Twitter que rastreaba el avión privado de Elon Musk vuelve, aunque con 24 horas de retraso</a></h4>
+    <a href='https://computerhoy.com/redes-sociales/cuenta-twitter-rastreaba-avion-privado-elon-musk-vuelve-aunque-24-horas-retraso-1175968' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/elon-musk-twitter-2872269.jpg?tf=1200x' alt='La cuenta de Twitter que rastreaba el avión privado de Elon Musk vuelve, aunque con 24 horas de retraso' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-tablets-estudiantes-1113743'>Estas son las mejores tablets para estudiantes</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-tablets-estudiantes-1113743' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/ipad-10a-generacion-analisis-opinion-2897866.jpg?tf=1200x' alt='Estas son las mejores tablets para estudiantes' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/motor/tienes-llenar-deposito-coche-mejor-te-des-prisa-porque-acaban-ayudas-1175930'>Si tienes que llenar el depósito de tu coche, mejor que te des prisa porque se acaban las ayudas</a></h4>
     <a href='https://computerhoy.com/motor/tienes-llenar-deposito-coche-mejor-te-des-prisa-porque-acaban-ayudas-1175930' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/gasolina-2361783.jpg?tf=1200x' alt='Si tienes que llenar el depósito de tu coche, mejor que te des prisa porque se acaban las ayudas' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/apps/aplicaciones-necesitas-telefono-movil-tienes-coche-electrico-1163104'>Aplicaciones que necesitas en tu teléfono móvil si tienes un coche eléctrico</a></h4>
     <a href='https://computerhoy.com/apps/aplicaciones-necesitas-telefono-movil-tienes-coche-electrico-1163104' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/aplicaciones-necesitas-telefono-movil-tienes-coche-electrico-2908294.jpg?tf=1200x' alt='Aplicaciones que necesitas en tu teléfono móvil si tienes un coche eléctrico' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/amazon/cierre-amazon-drive-31-enero-2023-no-podras-subir-archivos-1175864'>Cierre de Amazon Drive: desde el 31 de enero de 2023 no podrás subir más archivos</a></h4>
-    <a href='https://computerhoy.com/amazon/cierre-amazon-drive-31-enero-2023-no-podras-subir-archivos-1175864' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/amazon-anuncia-cierre-amazon-drive-31-diciembre-no-podras-subir-archivos-2912758.jpg?tf=1200x' alt='Cierre de Amazon Drive: desde el 31 de enero de 2023 no podrás subir más archivos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/pesar-promesas-cargar-coche-electrico-2023-no-sera-sencillo-1175862'>A pesar de las promesas, cargar tu coche eléctrico en 2023 no será más sencillo</a></h4>
-    <a href='https://computerhoy.com/motor/pesar-promesas-cargar-coche-electrico-2023-no-sera-sencillo-1175862' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/09/cargar-coche-electrico-2074799.jpg?tf=1200x' alt='A pesar de las promesas, cargar tu coche eléctrico en 2023 no será más sencillo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/funciona-desconocido-modo-infiel-whatsapp-1175844'>Así funciona el desconocido modo infiel de WhatsApp</a></h4>
-    <a href='https://computerhoy.com/apps/funciona-desconocido-modo-infiel-whatsapp-1175844' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/whatsapp-modo-infiel-2912528.jpg?tf=1200x' alt='Así funciona el desconocido modo infiel de WhatsApp' />
     </a>
 </div>
 
