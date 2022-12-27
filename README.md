@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/pc/ya-tenemos-fecha-lanzamiento-toda-familia-amd-ryzen-7000-1175728'>Ya tenemos fecha para el lanzamiento de toda la familia AMD Ryzen 7000</a></h4>
+    <a href='https://computerhoy.com/pc/ya-tenemos-fecha-lanzamiento-toda-familia-amd-ryzen-7000-1175728' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/amd-ryzen-7000-2912206.jpg?tf=1200x' alt='Ya tenemos fecha para el lanzamiento de toda la familia AMD Ryzen 7000' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/moviles/primeras-imagenes-especificaciones-oficiales-nuevo-oneplus-11-1175720'>Primeras imágenes y especificaciones oficiales del nuevo OnePlus 11</a></h4>
+    <a href='https://computerhoy.com/moviles/primeras-imagenes-especificaciones-oficiales-nuevo-oneplus-11-1175720' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/primeras-imagenes-especificaciones-oficiales-nuevo-oneplus-11-2912166.jpg?tf=1200x' alt='Primeras imágenes y especificaciones oficiales del nuevo OnePlus 11' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/apple-da-pistoletazo-salida-fabricacion-chips-3-nm-tsmc-1175694'>Apple da el pistoletazo de salida a la fabricación de sus chips de 3 nm con TSMC</a></h4>
+    <a href='https://computerhoy.com/apple/apple-da-pistoletazo-salida-fabricacion-chips-3-nm-tsmc-1175694' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/tsmc-2502241.jpg?tf=1200x' alt='Apple da el pistoletazo de salida a la fabricación de sus chips de 3 nm con TSMC' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/media-markt-dia-sin-iva-ofertas-27-diciembre-1175712'>Regalo tardío de Navidad: Media Markt lanza el día sin IVA con productos de primera fila</a></h4>
     <a href='https://computerhoy.com/tecnologia/media-markt-dia-sin-iva-ofertas-27-diciembre-1175712' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/dia-iva-media-markt-2312881.jpg?tf=1200x' alt='Regalo tardío de Navidad: Media Markt lanza el día sin IVA con productos de primera fila' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/15-noticias-tecnologia-comenzar-manana-informado-ultimo-1175678'>15 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
     <a href='https://computerhoy.com/tecnologia/15-noticias-tecnologia-comenzar-manana-informado-ultimo-1175678' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/15-noticias-tecnologia-comenzar-manana-informado-ultimo-2912068.jpg?tf=1200x' alt='15 noticias de tecnología para comenzar la mañana informado de lo último' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/como-pelar-mandarina-abuela-japonesa-1174334'>Una abuela japonesa nos descubre la mejor forma de pelar una mandarina</a></h4>
-    <a href='https://computerhoy.com/life/como-pelar-mandarina-abuela-japonesa-1174334' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/abuela-japonesa-nos-descubre-mejor-forma-pelar-mandarina-2909886.jpg?tf=1200x' alt='Una abuela japonesa nos descubre la mejor forma de pelar una mandarina' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-hacer-busquedas-avanzadas-archivos-google-drive-1159129'>Cómo hacer búsquedas avanzadas de archivos en Google Drive</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-hacer-busquedas-avanzadas-archivos-google-drive-1159129' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/ordenador-google-drive-2876797.jpg?tf=1200x' alt='Cómo hacer búsquedas avanzadas de archivos en Google Drive' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/mando-xbox-caracteristicas-dualsense-ps5-microsoft-podria-estar-desarrollando-1175454'>¿Un mando de Xbox con características del DualSense de PS5? Microsoft podría estar desarrollando algo así</a></h4>
-    <a href='https://computerhoy.com/mando-xbox-caracteristicas-dualsense-ps5-microsoft-podria-estar-desarrollando-1175454' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/11/analisis-xbox-series-s-computerhoy-2131659.jpg?tf=1200x' alt='¿Un mando de Xbox con características del DualSense de PS5? Microsoft podría estar desarrollando algo así' />
     </a>
 </div>
 
