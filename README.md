@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/aplicaciones-necesitas-telefono-movil-tienes-coche-electrico-1163104'>Aplicaciones que necesitas en tu teléfono móvil si tienes un coche eléctrico</a></h4>
+    <a href='https://computerhoy.com/apps/aplicaciones-necesitas-telefono-movil-tienes-coche-electrico-1163104' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/aplicaciones-necesitas-telefono-movil-tienes-coche-electrico-2908294.jpg?tf=1200x' alt='Aplicaciones que necesitas en tu teléfono móvil si tienes un coche eléctrico' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/amazon/cierre-amazon-drive-31-enero-2023-no-podras-subir-archivos-1175864'>Cierre de Amazon Drive: desde el 31 de enero de 2023 no podrás subir más archivos</a></h4>
     <a href='https://computerhoy.com/amazon/cierre-amazon-drive-31-enero-2023-no-podras-subir-archivos-1175864' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/amazon-anuncia-cierre-amazon-drive-31-diciembre-no-podras-subir-archivos-2912758.jpg?tf=1200x' alt='Cierre de Amazon Drive: desde el 31 de enero de 2023 no podrás subir más archivos' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/moviles/xiaomi-anade-5-moviles-lista-dispositivos-no-recibiran-actualizaciones-1175818'>Xiaomi añade 5 móviles más a su lista de dispositivos que no recibirán más actualizaciones</a></h4>
     <a href='https://computerhoy.com/moviles/xiaomi-anade-5-moviles-lista-dispositivos-no-recibiran-actualizaciones-1175818' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/xiaomi-anade-5-moviles-lista-dispositivos-no-recibiran-actualizaciones-2912670.jpg?tf=1200x' alt='Xiaomi añade 5 móviles más a su lista de dispositivos que no recibirán más actualizaciones' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/gran-problema-grandes-ligas-acabar-futbol-gratis-iptv-1175824'>El gran problema de las grandes ligas para acabar con el fútbol gratis por IPTV</a></h4>
-    <a href='https://computerhoy.com/internet/gran-problema-grandes-ligas-acabar-futbol-gratis-iptv-1175824' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/persona-viendo-partido-futbol-gracias-servicio-vpn-2801011.jpg?tf=1200x' alt='El gran problema de las grandes ligas para acabar con el fútbol gratis por IPTV' />
     </a>
 </div>
 
