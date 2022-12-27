@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tv/vuelve-tdt-channels-anunciar-cierre-estara-operativo-tanto-web-como-android-ios-1175758'>Vuelve TDT Channels tras anunciar su cierre y estará operativo tanto en la web como Android e iOS</a></h4>
+    <a href='https://computerhoy.com/tv/vuelve-tdt-channels-anunciar-cierre-estara-operativo-tanto-web-como-android-ios-1175758' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/vuelve-tdt-channels-anunciar-cierre-estara-operativo-tanto-web-como-android-ios-2912264.jpg?tf=1200x' alt='Vuelve TDT Channels tras anunciar su cierre y estará operativo tanto en la web como Android e iOS' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/espacio/podemos-impedir-robots-mueran-marte-1175768'>¿Podemos impedir que nuestros robots mueran en Marte?</a></h4>
+    <a href='https://computerhoy.com/espacio/podemos-impedir-robots-mueran-marte-1175768' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/mision-nasa-ir-marte-2875071.jpg?tf=1200x' alt='¿Podemos impedir que nuestros robots mueran en Marte?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/nuevo-ipad-apple-rebajado-tiempo-reyes-colores-atractivos-1175742'>El nuevo iPad de Apple, rebajado a tiempo para Reyes y en uno de los colores más atractivos</a></h4>
     <a href='https://computerhoy.com/tecnologia/nuevo-ipad-apple-rebajado-tiempo-reyes-colores-atractivos-1175742' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/ipad-10a-generacion-analisis-opinion-2897862.jpg?tf=1200x' alt='El nuevo iPad de Apple, rebajado a tiempo para Reyes y en uno de los colores más atractivos' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/pc/ya-tenemos-fecha-lanzamiento-toda-familia-amd-ryzen-7000-1175728'>Ya tenemos fecha para el lanzamiento de toda la familia AMD Ryzen 7000</a></h4>
     <a href='https://computerhoy.com/pc/ya-tenemos-fecha-lanzamiento-toda-familia-amd-ryzen-7000-1175728' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/amd-ryzen-7000-2912206.jpg?tf=1200x' alt='Ya tenemos fecha para el lanzamiento de toda la familia AMD Ryzen 7000' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/primeras-imagenes-especificaciones-oficiales-nuevo-oneplus-11-1175720'>Primeras imágenes y especificaciones oficiales del nuevo OnePlus 11</a></h4>
-    <a href='https://computerhoy.com/moviles/primeras-imagenes-especificaciones-oficiales-nuevo-oneplus-11-1175720' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/primeras-imagenes-especificaciones-oficiales-nuevo-oneplus-11-2912166.jpg?tf=1200x' alt='Primeras imágenes y especificaciones oficiales del nuevo OnePlus 11' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/apple-da-pistoletazo-salida-fabricacion-chips-3-nm-tsmc-1175694'>Apple da el pistoletazo de salida a la fabricación de sus chips de 3 nm con TSMC</a></h4>
-    <a href='https://computerhoy.com/apple/apple-da-pistoletazo-salida-fabricacion-chips-3-nm-tsmc-1175694' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/tsmc-2502241.jpg?tf=1200x' alt='Apple da el pistoletazo de salida a la fabricación de sus chips de 3 nm con TSMC' />
     </a>
 </div>
 
