@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/nuevo-ipad-apple-rebajado-tiempo-reyes-colores-atractivos-1175742'>El nuevo iPad de Apple, rebajado a tiempo para Reyes y en uno de los colores más atractivos</a></h4>
+    <a href='https://computerhoy.com/tecnologia/nuevo-ipad-apple-rebajado-tiempo-reyes-colores-atractivos-1175742' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/ipad-10a-generacion-analisis-opinion-2897862.jpg?tf=1200x' alt='El nuevo iPad de Apple, rebajado a tiempo para Reyes y en uno de los colores más atractivos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/estas-son-novedades-peliculas-series-llegan-netflix-enero-2023-1175736'>Estas son las novedades en películas y series que llegan a Netflix en enero de 2023</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/estas-son-novedades-peliculas-series-llegan-netflix-enero-2023-1175736' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/vikingos-valhalla-2589485.jpg?tf=1200x' alt='Estas son las novedades en películas y series que llegan a Netflix en enero de 2023' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/pc/ya-tenemos-fecha-lanzamiento-toda-familia-amd-ryzen-7000-1175728'>Ya tenemos fecha para el lanzamiento de toda la familia AMD Ryzen 7000</a></h4>
     <a href='https://computerhoy.com/pc/ya-tenemos-fecha-lanzamiento-toda-familia-amd-ryzen-7000-1175728' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/amd-ryzen-7000-2912206.jpg?tf=1200x' alt='Ya tenemos fecha para el lanzamiento de toda la familia AMD Ryzen 7000' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/apple/apple-da-pistoletazo-salida-fabricacion-chips-3-nm-tsmc-1175694'>Apple da el pistoletazo de salida a la fabricación de sus chips de 3 nm con TSMC</a></h4>
     <a href='https://computerhoy.com/apple/apple-da-pistoletazo-salida-fabricacion-chips-3-nm-tsmc-1175694' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/tsmc-2502241.jpg?tf=1200x' alt='Apple da el pistoletazo de salida a la fabricación de sus chips de 3 nm con TSMC' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/media-markt-dia-sin-iva-ofertas-27-diciembre-1175712'>Regalo tardío de Navidad: Media Markt lanza el día sin IVA con productos de primera fila</a></h4>
-    <a href='https://computerhoy.com/tecnologia/media-markt-dia-sin-iva-ofertas-27-diciembre-1175712' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/dia-iva-media-markt-2312881.jpg?tf=1200x' alt='Regalo tardío de Navidad: Media Markt lanza el día sin IVA con productos de primera fila' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/15-noticias-tecnologia-comenzar-manana-informado-ultimo-1175678'>15 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
-    <a href='https://computerhoy.com/tecnologia/15-noticias-tecnologia-comenzar-manana-informado-ultimo-1175678' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/15-noticias-tecnologia-comenzar-manana-informado-ultimo-2912068.jpg?tf=1200x' alt='15 noticias de tecnología para comenzar la mañana informado de lo último' />
     </a>
 </div>
 
