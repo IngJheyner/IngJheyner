@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/moviles/xiaomi-anade-5-moviles-lista-dispositivos-no-recibiran-actualizaciones-1175818'>Xiaomi añade 5 móviles más a su lista de dispositivos que no recibirán más actualizaciones</a></h4>
+    <a href='https://computerhoy.com/moviles/xiaomi-anade-5-moviles-lista-dispositivos-no-recibiran-actualizaciones-1175818' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/xiaomi-anade-5-moviles-lista-dispositivos-no-recibiran-actualizaciones-2912670.jpg?tf=1200x' alt='Xiaomi añade 5 móviles más a su lista de dispositivos que no recibirán más actualizaciones' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/internet/gran-problema-grandes-ligas-acabar-futbol-gratis-iptv-1175824'>El gran problema de las grandes ligas para acabar con el fútbol gratis por IPTV</a></h4>
+    <a href='https://computerhoy.com/internet/gran-problema-grandes-ligas-acabar-futbol-gratis-iptv-1175824' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/persona-viendo-partido-futbol-gracias-servicio-vpn-2801011.jpg?tf=1200x' alt='El gran problema de las grandes ligas para acabar con el fútbol gratis por IPTV' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/witcher-ha-pasado-ser-mejor-estreno-netflix-desastre-total-1175782'>The Witcher ha pasado de ser el mejor estreno de Netflix a un desastre total</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/witcher-ha-pasado-ser-mejor-estreno-netflix-desastre-total-1175782' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/witcher-2620883.jpg?tf=1200x' alt='The Witcher ha pasado de ser el mejor estreno de Netflix a un desastre total' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/patrocinado/celebra-fin-ano-super-ofertas-aliexpress-menudos-descuentos-1175438'>Celebra el fin de este año con las Super Ofertas de AliExpress ¡menudos descuentos!</a></h4>
+    <a href='https://computerhoy.com/patrocinado/celebra-fin-ano-super-ofertas-aliexpress-menudos-descuentos-1175438' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/superofertas-aliexpress-2911714.jpg?tf=1200x' alt='Celebra el fin de este año con las Super Ofertas de AliExpress ¡menudos descuentos!' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tv/vuelve-tdt-channels-anunciar-cierre-estara-operativo-tanto-web-como-android-ios-1175758'>Vuelve TDT Channels tras anunciar su cierre y estará operativo tanto en la web como Android e iOS</a></h4>
     <a href='https://computerhoy.com/tv/vuelve-tdt-channels-anunciar-cierre-estara-operativo-tanto-web-como-android-ios-1175758' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/vuelve-tdt-channels-anunciar-cierre-estara-operativo-tanto-web-como-android-ios-2912264.jpg?tf=1200x' alt='Vuelve TDT Channels tras anunciar su cierre y estará operativo tanto en la web como Android e iOS' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/podemos-impedir-robots-mueran-marte-1175768'>¿Podemos impedir que nuestros robots mueran en Marte?</a></h4>
-    <a href='https://computerhoy.com/espacio/podemos-impedir-robots-mueran-marte-1175768' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/mision-nasa-ir-marte-2875071.jpg?tf=1200x' alt='¿Podemos impedir que nuestros robots mueran en Marte?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/nuevo-ipad-apple-rebajado-tiempo-reyes-colores-atractivos-1175742'>El nuevo iPad de Apple, rebajado a tiempo para Reyes y en uno de los colores más atractivos</a></h4>
-    <a href='https://computerhoy.com/tecnologia/nuevo-ipad-apple-rebajado-tiempo-reyes-colores-atractivos-1175742' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/ipad-10a-generacion-analisis-opinion-2897862.jpg?tf=1200x' alt='El nuevo iPad de Apple, rebajado a tiempo para Reyes y en uno de los colores más atractivos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/estas-son-novedades-peliculas-series-llegan-netflix-enero-2023-1175736'>Estas son las novedades en películas y series que llegan a Netflix en enero de 2023</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/estas-son-novedades-peliculas-series-llegan-netflix-enero-2023-1175736' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/vikingos-valhalla-2589485.jpg?tf=1200x' alt='Estas son las novedades en películas y series que llegan a Netflix en enero de 2023' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/ya-tenemos-fecha-lanzamiento-toda-familia-amd-ryzen-7000-1175728'>Ya tenemos fecha para el lanzamiento de toda la familia AMD Ryzen 7000</a></h4>
-    <a href='https://computerhoy.com/pc/ya-tenemos-fecha-lanzamiento-toda-familia-amd-ryzen-7000-1175728' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/amd-ryzen-7000-2912206.jpg?tf=1200x' alt='Ya tenemos fecha para el lanzamiento de toda la familia AMD Ryzen 7000' />
     </a>
 </div>
 
