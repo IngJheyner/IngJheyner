@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/amazon/cierre-amazon-drive-31-enero-2023-no-podras-subir-archivos-1175864'>Cierre de Amazon Drive: desde el 31 de enero de 2023 no podrás subir más archivos</a></h4>
+    <a href='https://computerhoy.com/amazon/cierre-amazon-drive-31-enero-2023-no-podras-subir-archivos-1175864' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/amazon-anuncia-cierre-amazon-drive-31-diciembre-no-podras-subir-archivos-2912758.jpg?tf=1200x' alt='Cierre de Amazon Drive: desde el 31 de enero de 2023 no podrás subir más archivos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/motor/pesar-promesas-cargar-coche-electrico-2023-no-sera-sencillo-1175862'>A pesar de las promesas, cargar tu coche eléctrico en 2023 no será más sencillo</a></h4>
+    <a href='https://computerhoy.com/motor/pesar-promesas-cargar-coche-electrico-2023-no-sera-sencillo-1175862' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/09/cargar-coche-electrico-2074799.jpg?tf=1200x' alt='A pesar de las promesas, cargar tu coche eléctrico en 2023 no será más sencillo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apps/funciona-desconocido-modo-infiel-whatsapp-1175844'>Así funciona el desconocido modo infiel de WhatsApp</a></h4>
     <a href='https://computerhoy.com/apps/funciona-desconocido-modo-infiel-whatsapp-1175844' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/whatsapp-modo-infiel-2912528.jpg?tf=1200x' alt='Así funciona el desconocido modo infiel de WhatsApp' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/internet/gran-problema-grandes-ligas-acabar-futbol-gratis-iptv-1175824'>El gran problema de las grandes ligas para acabar con el fútbol gratis por IPTV</a></h4>
     <a href='https://computerhoy.com/internet/gran-problema-grandes-ligas-acabar-futbol-gratis-iptv-1175824' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/persona-viendo-partido-futbol-gracias-servicio-vpn-2801011.jpg?tf=1200x' alt='El gran problema de las grandes ligas para acabar con el fútbol gratis por IPTV' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/witcher-ha-pasado-ser-mejor-estreno-netflix-desastre-total-1175782'>The Witcher ha pasado de ser el mejor estreno de Netflix a un desastre total</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/witcher-ha-pasado-ser-mejor-estreno-netflix-desastre-total-1175782' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/witcher-2620883.jpg?tf=1200x' alt='The Witcher ha pasado de ser el mejor estreno de Netflix a un desastre total' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/patrocinado/celebra-fin-ano-super-ofertas-aliexpress-menudos-descuentos-1175438'>Celebra el fin de este año con las Super Ofertas de AliExpress ¡menudos descuentos!</a></h4>
-    <a href='https://computerhoy.com/patrocinado/celebra-fin-ano-super-ofertas-aliexpress-menudos-descuentos-1175438' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/superofertas-aliexpress-2911714.jpg?tf=1200x' alt='Celebra el fin de este año con las Super Ofertas de AliExpress ¡menudos descuentos!' />
     </a>
 </div>
 
