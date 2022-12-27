@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/redes-sociales/youtuber-mrbeast-quiere-ser-nuevo-ceo-twitter-sustituir-elon-musk-1175988'>El youtuber MrBeast quiere ser el nuevo CEO de Twitter y sustituir a Elon Musk</a></h4>
+    <a href='https://computerhoy.com/redes-sociales/youtuber-mrbeast-quiere-ser-nuevo-ceo-twitter-sustituir-elon-musk-1175988' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/elon-musk-2679601.jpg?tf=1200x' alt='El youtuber MrBeast quiere ser el nuevo CEO de Twitter y sustituir a Elon Musk' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/moviles/nothing-phone-1-descuento-70-euros-oferta-1176022'>Este móvil Android es la sorpresa de 2022, y ahora cae de nuevo al precio más bajo desde el Black Friday</a></h4>
+    <a href='https://computerhoy.com/moviles/nothing-phone-1-descuento-70-euros-oferta-1176022' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/nothing-phone-1-analisis-opinion-2772691.jpg?tf=1200x' alt='Este móvil Android es la sorpresa de 2022, y ahora cae de nuevo al precio más bajo desde el Black Friday' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/alimentacion/huella-carbono-tipica-comida-cena-navidena-1176014'>Esta es la huella de carbono de una típica comida o cena navideña</a></h4>
     <a href='https://computerhoy.com/alimentacion/huella-carbono-tipica-comida-cena-navidena-1176014' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/cena-navidad-2912956.jpg?tf=1200x' alt='Esta es la huella de carbono de una típica comida o cena navideña' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/hogar/cesta-compra-baja-precio-estos-son-alimentos-no-tendran-iva-1175984'>La cesta de la compra baja de precio: estos son los alimentos que no tendrán IVA</a></h4>
     <a href='https://computerhoy.com/hogar/cesta-compra-baja-precio-estos-son-alimentos-no-tendran-iva-1175984' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/cesta-compra-2758205.jpg?tf=1200x' alt='La cesta de la compra baja de precio: estos son los alimentos que no tendrán IVA' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/estos-telefonos-moviles-quedaran-whatsapp-partir-2023-puedes-evitarlo-1176008'>Estos teléfonos móviles se quedarán sin WhatsApp a partir de 2023 y así puedes evitarlo</a></h4>
-    <a href='https://computerhoy.com/apps/estos-telefonos-moviles-quedaran-whatsapp-partir-2023-puedes-evitarlo-1176008' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/whatsapp-2912950.jpg?tf=1200x' alt='Estos teléfonos móviles se quedarán sin WhatsApp a partir de 2023 y así puedes evitarlo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/alimentar-peces-distancia-posible-pecera-inteligente-xiaomi-1175982'>Alimentar a tus peces a distancia es posible: así es la pecera inteligente de Xiaomi</a></h4>
-    <a href='https://computerhoy.com/life/alimentar-peces-distancia-posible-pecera-inteligente-xiaomi-1175982' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/alimentar-peces-distancia-posible-pecera-inteligente-xiaomi-2912910.jpg?tf=1200x' alt='Alimentar a tus peces a distancia es posible: así es la pecera inteligente de Xiaomi' />
     </a>
 </div>
 
