@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/media-markt-dia-sin-iva-ofertas-27-diciembre-1175712'>Regalo tardío de Navidad: Media Markt lanza el día sin IVA con productos de primera fila</a></h4>
+    <a href='https://computerhoy.com/tecnologia/media-markt-dia-sin-iva-ofertas-27-diciembre-1175712' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/dia-iva-media-markt-2312881.jpg?tf=1200x' alt='Regalo tardío de Navidad: Media Markt lanza el día sin IVA con productos de primera fila' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/15-noticias-tecnologia-comenzar-manana-informado-ultimo-1175678'>15 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
     <a href='https://computerhoy.com/tecnologia/15-noticias-tecnologia-comenzar-manana-informado-ultimo-1175678' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/15-noticias-tecnologia-comenzar-manana-informado-ultimo-2912068.jpg?tf=1200x' alt='15 noticias de tecnología para comenzar la mañana informado de lo último' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/mando-xbox-caracteristicas-dualsense-ps5-microsoft-podria-estar-desarrollando-1175454'>¿Un mando de Xbox con características del DualSense de PS5? Microsoft podría estar desarrollando algo así</a></h4>
     <a href='https://computerhoy.com/mando-xbox-caracteristicas-dualsense-ps5-microsoft-podria-estar-desarrollando-1175454' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/11/analisis-xbox-series-s-computerhoy-2131659.jpg?tf=1200x' alt='¿Un mando de Xbox con características del DualSense de PS5? Microsoft podría estar desarrollando algo así' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-compartir-fotos-miembros-familia-ios-16-1156183'>Cómo compartir las fotos con miembros de la familia en iOS 16</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-compartir-fotos-miembros-familia-ios-16-1156183' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/familia-ios-2872653.jpg?tf=1200x' alt='Cómo compartir las fotos con miembros de la familia en iOS 16' />
     </a>
 </div>
 
