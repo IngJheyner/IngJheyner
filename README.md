@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/alimentacion/huella-carbono-tipica-comida-cena-navidena-1176014'>Esta es la huella de carbono de una típica comida o cena navideña</a></h4>
+    <a href='https://computerhoy.com/alimentacion/huella-carbono-tipica-comida-cena-navidena-1176014' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/cena-navidad-2912956.jpg?tf=1200x' alt='Esta es la huella de carbono de una típica comida o cena navideña' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/avatar-2-record-taquilla-1000-millones-dolares-recaudacion-1176010'>Milagro de Navidad: Avatar 2 explota la taquilla y ya roza los 1.000 millones de dólares de recaudación</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/avatar-2-record-taquilla-1000-millones-dolares-recaudacion-1176010' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/milagro-navidad-avatar-2-explota-taquilla-ya-roza-1000-millones-dolares-recaudacion-2912898.jpg?tf=1200x' alt='Milagro de Navidad: Avatar 2 explota la taquilla y ya roza los 1.000 millones de dólares de recaudación' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/hogar/cesta-compra-baja-precio-estos-son-alimentos-no-tendran-iva-1175984'>La cesta de la compra baja de precio: estos son los alimentos que no tendrán IVA</a></h4>
     <a href='https://computerhoy.com/hogar/cesta-compra-baja-precio-estos-son-alimentos-no-tendran-iva-1175984' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/cesta-compra-2758205.jpg?tf=1200x' alt='La cesta de la compra baja de precio: estos son los alimentos que no tendrán IVA' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/life/alimentar-peces-distancia-posible-pecera-inteligente-xiaomi-1175982'>Alimentar a tus peces a distancia es posible: así es la pecera inteligente de Xiaomi</a></h4>
     <a href='https://computerhoy.com/life/alimentar-peces-distancia-posible-pecera-inteligente-xiaomi-1175982' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/alimentar-peces-distancia-posible-pecera-inteligente-xiaomi-2912910.jpg?tf=1200x' alt='Alimentar a tus peces a distancia es posible: así es la pecera inteligente de Xiaomi' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/huawei-p60-mate-60-vista-todo-sabemos-respecto-1175978'>Los Huawei P60 y Mate 60 a la vista: esto es todo lo que sabemos al respecto</a></h4>
-    <a href='https://computerhoy.com/moviles/huawei-p60-mate-60-vista-todo-sabemos-respecto-1175978' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/review-huawei-mate-50-pro-2866339.jpg?tf=1200x' alt='Los Huawei P60 y Mate 60 a la vista: esto es todo lo que sabemos al respecto' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/redes-sociales/cuenta-twitter-rastreaba-avion-privado-elon-musk-vuelve-aunque-24-horas-retraso-1175968'>La cuenta de Twitter que rastreaba el avión privado de Elon Musk vuelve, aunque con 24 horas de retraso</a></h4>
-    <a href='https://computerhoy.com/redes-sociales/cuenta-twitter-rastreaba-avion-privado-elon-musk-vuelve-aunque-24-horas-retraso-1175968' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/elon-musk-twitter-2872269.jpg?tf=1200x' alt='La cuenta de Twitter que rastreaba el avión privado de Elon Musk vuelve, aunque con 24 horas de retraso' />
     </a>
 </div>
 
