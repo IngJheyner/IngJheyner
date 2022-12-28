@@ -50,9 +50,17 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/guardia-seguridad-virtual-inteligencia-artificial-secom-1176234'>En Japón ya usan guardias de seguridad virtuales a tamaño real, controlados por inteligencia artificial</a></h4>
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-relojes-inteligentes-xiaomi-amazfit-810635'>Estos son los mejores relojes inteligentes de Xiaomi que puedes comprar</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-relojes-inteligentes-xiaomi-amazfit-810635' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/poco-watch-analisis-opinion-2777959.jpg?tf=1200x' alt='Estos son los mejores relojes inteligentes de Xiaomi que puedes comprar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/guardia-seguridad-virtual-inteligencia-artificial-secom-1176234'>En Japón ya usan guardias de seguridad virtuales a tamaño real, controlados por inteligencia artificial (vídeo)</a></h4>
     <a href='https://computerhoy.com/ciberseguridad/guardia-seguridad-virtual-inteligencia-artificial-secom-1176234' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/verticalimage1672185000716-2912978.jpg?tf=1200x' alt='En Japón ya usan guardias de seguridad virtuales a tamaño real, controlados por inteligencia artificial' />
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/verticalimage1672185000716-2912978.jpg?tf=1200x' alt='En Japón ya usan guardias de seguridad virtuales a tamaño real, controlados por inteligencia artificial (vídeo)' />
     </a>
 </div>
 
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/moviles/nothing-phone-1-descuento-70-euros-oferta-1176022'>Este móvil Android es la sorpresa de 2022, y ahora cae de nuevo al precio más bajo desde el Black Friday</a></h4>
     <a href='https://computerhoy.com/moviles/nothing-phone-1-descuento-70-euros-oferta-1176022' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/nothing-phone-1-analisis-opinion-2772691.jpg?tf=1200x' alt='Este móvil Android es la sorpresa de 2022, y ahora cae de nuevo al precio más bajo desde el Black Friday' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/alimentacion/huella-carbono-tipica-comida-cena-navidena-1176014'>Esta es la huella de carbono de una típica comida o cena navideña</a></h4>
-    <a href='https://computerhoy.com/alimentacion/huella-carbono-tipica-comida-cena-navidena-1176014' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/cena-navidad-2912956.jpg?tf=1200x' alt='Esta es la huella de carbono de una típica comida o cena navideña' />
     </a>
 </div>
 
