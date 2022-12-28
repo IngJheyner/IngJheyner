@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/teletrabajo-espana-peores-pagadores-pero-mejores-paises-vivir-trabajar-remoto-1176434'>Teletrabajo: España de los peores pagadores pero de los mejores países para vivir y trabajar en remoto</a></h4>
+    <a href='https://computerhoy.com/life/teletrabajo-espana-peores-pagadores-pero-mejores-paises-vivir-trabajar-remoto-1176434' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/espana-peores-pagadores-teletrabajo-pero-mejores-lugares-instalarse-trabajar-remoto-2913808.jpg?tf=1200x' alt='Teletrabajo: España de los peores pagadores pero de los mejores países para vivir y trabajar en remoto' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/internet/obra-arte-real-hecha-ia-sabrias-ver-diferencia-ponte-prueba-web-1176302'>Obra de arte real o hecha por la IA: ¿sabrías ver la diferencia? ponte a prueba con esta web</a></h4>
     <a href='https://computerhoy.com/internet/obra-arte-real-hecha-ia-sabrias-ver-diferencia-ponte-prueba-web-1176302' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/obra-arte-humana-hecha-ia-sabrias-ver-diferencia-ponte-prueba-web-2913724.jpg?tf=1200x' alt='Obra de arte real o hecha por la IA: ¿sabrías ver la diferencia? ponte a prueba con esta web' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/motor/primer-coche-electrico-plegable-mundo-espanol-1176356'>Así es el primer coche eléctrico plegable del mundo y es español</a></h4>
     <a href='https://computerhoy.com/motor/primer-coche-electrico-plegable-mundo-espanol-1176356' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/coche-electrico-plegable-2913572.jpg?tf=1200x' alt='Así es el primer coche eléctrico plegable del mundo y es español' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/acciones-tesla-siguen-caida-libre-ralentiza-produccion-1176328'>Las acciones de Tesla siguen en caída libre y se ralentiza la producción</a></h4>
-    <a href='https://computerhoy.com/motor/acciones-tesla-siguen-caida-libre-ralentiza-produccion-1176328' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/elon-musk-junto-tesla-model-s-2839145.jpg?tf=1200x' alt='Las acciones de Tesla siguen en caída libre y se ralentiza la producción' />
     </a>
 </div>
 
