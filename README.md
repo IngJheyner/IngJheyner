@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/estas-son-5-estafas-nos-han-intentado-enganar-2022-1175790'>Estas son las 5 estafas con las que nos han intentado engañar en 2022</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/estas-son-5-estafas-nos-han-intentado-enganar-2022-1175790' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/estafas-timos-bulos-2563469.jpg?tf=1200x' alt='Estas son las 5 estafas con las que nos han intentado engañar en 2022' />
+    <h4><a href='https://computerhoy.com/analisis/review-lg-c2-42-mejores-televisores-ps5-xbox-series-puedes-comprar-1175944'>Análisis del LG C2 de 42", de los mejores televisores para PS5 y Xbox Series que puedes comprar</a></h4>
+    <a href='https://computerhoy.com/analisis/review-lg-c2-42-mejores-televisores-ps5-xbox-series-puedes-comprar-1175944' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/analisis-lg-c2-42-2913232.jpg?tf=1200x' alt='Análisis del LG C2 de 42", de los mejores televisores para PS5 y Xbox Series que puedes comprar' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/patrocinado/todo-necesitas-saber-pieza-clave-televisor-1142991'>Todo lo que necesitas saber sobre la pieza clave de tu televisor</a></h4>
-    <a href='https://computerhoy.com/patrocinado/todo-necesitas-saber-pieza-clave-televisor-1142991' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/todo-necesitas-saber-pieza-clave-televisor-2908076.jpg?tf=1200x' alt='Todo lo que necesitas saber sobre la pieza clave de tu televisor' />
+    <h4><a href='https://computerhoy.com/tecnologia/google-mantiene-pulso-apple-samsung-pixel-7-sigue-precio-ganga-1175794'>Google mantiene el pulso a Apple y Samsung: el Pixel 7 sigue a precio de ganga</a></h4>
+    <a href='https://computerhoy.com/tecnologia/google-mantiene-pulso-apple-samsung-pixel-7-sigue-precio-ganga-1175794' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/google-pixel-7-2912310.jpg?tf=1200x' alt='Google mantiene el pulso a Apple y Samsung: el Pixel 7 sigue a precio de ganga' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/criptos/nft-vuelven-ser-noticia-gracias-ultima-demanda-pokemon-1175908'>Los NFT vuelven a ser noticia gracias a la última demanda de Pokémon</a></h4>
-    <a href='https://computerhoy.com/criptos/nft-vuelven-ser-noticia-gracias-ultima-demanda-pokemon-1175908' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/pokeworld-2912766.jpg?tf=1200x' alt='Los NFT vuelven a ser noticia gracias a la última demanda de Pokémon' />
+    <h4><a href='https://computerhoy.com/moviles/caracteristicas-redmagic-8-pro-bestia-snapdragon-8-gen-2-ventilador-carga-165-w-1176250'>Características del Redmagic 8 Pro, una bestia con Snapdragon 8 Gen 2, ventilador y carga de hasta 165 W</a></h4>
+    <a href='https://computerhoy.com/moviles/caracteristicas-redmagic-8-pro-bestia-snapdragon-8-gen-2-ventilador-carga-165-w-1176250' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/nubia-red-magic-8-pro-2913220.jpg?tf=1200x' alt='Características del Redmagic 8 Pro, una bestia con Snapdragon 8 Gen 2, ventilador y carga de hasta 165 W' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/25-noticias-tecnologia-comenzar-manana-informado-ultimo-1176240'>25 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
-    <a href='https://computerhoy.com/tecnologia/25-noticias-tecnologia-comenzar-manana-informado-ultimo-1176240' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/25-noticias-tecnologia-comenzar-manana-informado-ultimo-2913212.jpg?tf=1200x' alt='25 noticias de tecnología para comenzar la mañana informado de lo último' />
+    <h4><a href='https://computerhoy.com/pc/ejecutan-windows-7-128-mb-ram-cpu-5-mhz-arranca-28-minutos-1176254'>Ejecutan Windows 7 con 128 MB de RAM y una CPU a 5 MHz: arranca en 28 minutos</a></h4>
+    <a href='https://computerhoy.com/pc/ejecutan-windows-7-128-mb-ram-cpu-5-mhz-arranca-28-minutos-1176254' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/ejecutan-windows-7-128-mb-ram-cpu-5-mhz-arranca-28-minutos-no-inocentada-2913324.jpg?tf=1200x' alt='Ejecutan Windows 7 con 128 MB de RAM y una CPU a 5 MHz: arranca en 28 minutos' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-relojes-inteligentes-xiaomi-amazfit-810635'>Estos son los mejores relojes inteligentes de Xiaomi que puedes comprar</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-relojes-inteligentes-xiaomi-amazfit-810635' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/poco-watch-analisis-opinion-2777959.jpg?tf=1200x' alt='Estos son los mejores relojes inteligentes de Xiaomi que puedes comprar' />
+    <h4><a href='https://computerhoy.com/analisis/oppo-reno8-5g-analisis-opinion-1144107'>OPPO Reno8 5G, análisis y opinión</a></h4>
+    <a href='https://computerhoy.com/analisis/oppo-reno8-5g-analisis-opinion-1144107' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/oppo-reno8-5g-analisis-opinion-2890684.jpg?tf=1200x' alt='OPPO Reno8 5G, análisis y opinión' />
     </a>
 </div>
 
