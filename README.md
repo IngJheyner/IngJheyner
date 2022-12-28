@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/internet/obra-arte-real-hecha-ia-sabrias-ver-diferencia-ponte-prueba-web-1176302'>Obra de arte real o hecha por la IA: ¿sabrías ver la diferencia? ponte a prueba con esta web</a></h4>
+    <a href='https://computerhoy.com/internet/obra-arte-real-hecha-ia-sabrias-ver-diferencia-ponte-prueba-web-1176302' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/obra-arte-humana-hecha-ia-sabrias-ver-diferencia-ponte-prueba-web-2913724.jpg?tf=1200x' alt='Obra de arte real o hecha por la IA: ¿sabrías ver la diferencia? ponte a prueba con esta web' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/como-acceder-cheque-200-euros-ayuda-alimentacion-2023-1176380'>Cómo acceder al cheque de 200 euros de ayuda a la alimentación en 2023</a></h4>
+    <a href='https://computerhoy.com/life/como-acceder-cheque-200-euros-ayuda-alimentacion-2023-1176380' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/supermercado-2637227.jpg?tf=1200x' alt='Cómo acceder al cheque de 200 euros de ayuda a la alimentación en 2023' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/vota-premios-computerhoy-2022-finalistas-mejor-smarttv-gama-media-entrada-1176388'>Vota en los Premios ComputerHoy 2022: finalistas a la mejor SmartTV gama media y de entrada</a></h4>
     <a href='https://computerhoy.com/tecnologia/vota-premios-computerhoy-2022-finalistas-mejor-smarttv-gama-media-entrada-1176388' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/vota-premios-computerhoy-2021-finalistas-mejores-smarttv-gama-entrada-media-2576775.jpg?tf=1200x' alt='Vota en los Premios ComputerHoy 2022: finalistas a la mejor SmartTV gama media y de entrada' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/motor/acciones-tesla-siguen-caida-libre-ralentiza-produccion-1176328'>Las acciones de Tesla siguen en caída libre y se ralentiza la producción</a></h4>
     <a href='https://computerhoy.com/motor/acciones-tesla-siguen-caida-libre-ralentiza-produccion-1176328' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/elon-musk-junto-tesla-model-s-2839145.jpg?tf=1200x' alt='Las acciones de Tesla siguen en caída libre y se ralentiza la producción' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/gaming/pasa-buscas-plin-plin-plon-youtube-1176306'>Esto es lo que pasa si buscas "plin plin plon" en YouTube</a></h4>
-    <a href='https://computerhoy.com/gaming/pasa-buscas-plin-plin-plon-youtube-1176306' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/dark-souls-2913520.jpg?tf=1200x' alt='Esto es lo que pasa si buscas "plin plin plon" en YouTube' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/china-hace-competencia-amd-procesador-32-nucleos-basados-chipled-1176312'>China le hace la competencia a AMD con un procesador de 32 núcleos basados en chipled</a></h4>
-    <a href='https://computerhoy.com/pc/china-hace-competencia-amd-procesador-32-nucleos-basados-chipled-1176312' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/procesadores-2890874.jpg?tf=1200x' alt='China le hace la competencia a AMD con un procesador de 32 núcleos basados en chipled' />
     </a>
 </div>
 
