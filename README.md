@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/streaming/puedes-ver-gratis-primeras-temporadas-mejores-series-apple-tv-1176506'>Así puedes ver gratis las primeras temporadas de las mejores series de Apple TV+</a></h4>
+    <a href='https://computerhoy.com/streaming/puedes-ver-gratis-primeras-temporadas-mejores-series-apple-tv-1176506' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/ted-lasso-2723511.jpg?tf=1200x' alt='Así puedes ver gratis las primeras temporadas de las mejores series de Apple TV+' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/gaming/propia-nvidia-confirma-rtx-4070-ti-1176500'>La propia Nvidia confirma su RTX 4070 Ti</a></h4>
     <a href='https://computerhoy.com/gaming/propia-nvidia-confirma-rtx-4070-ti-1176500' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/galeria-review-rtx-4080-2872537.jpg?tf=1200x' alt='La propia Nvidia confirma su RTX 4070 Ti' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/internet/obra-arte-real-hecha-ia-sabrias-ver-diferencia-ponte-prueba-web-1176302'>Obra de arte real o hecha por la IA: ¿sabrías ver la diferencia? ponte a prueba con esta web</a></h4>
     <a href='https://computerhoy.com/internet/obra-arte-real-hecha-ia-sabrias-ver-diferencia-ponte-prueba-web-1176302' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/obra-arte-humana-hecha-ia-sabrias-ver-diferencia-ponte-prueba-web-2913724.jpg?tf=1200x' alt='Obra de arte real o hecha por la IA: ¿sabrías ver la diferencia? ponte a prueba con esta web' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/como-acceder-cheque-200-euros-ayuda-alimentacion-2023-1176380'>Cómo acceder al cheque de 200 euros de ayuda a la alimentación en 2023</a></h4>
-    <a href='https://computerhoy.com/life/como-acceder-cheque-200-euros-ayuda-alimentacion-2023-1176380' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/supermercado-2637227.jpg?tf=1200x' alt='Cómo acceder al cheque de 200 euros de ayuda a la alimentación en 2023' />
     </a>
 </div>
 
