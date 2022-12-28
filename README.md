@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/internet/compra-dispositivo-militar-ebay-encuentra-informacion-confidencial-ejercito-eeuu-1176532'>Compra un dispositivo militar en eBay y se encuentra con información confidencial del ejército de EEUU</a></h4>
+    <a href='https://computerhoy.com/internet/compra-dispositivo-militar-ebay-encuentra-informacion-confidencial-ejercito-eeuu-1176532' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/10/portatil-militar-2119633.jpg?tf=1200x' alt='Compra un dispositivo militar en eBay y se encuentra con información confidencial del ejército de EEUU' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/internet/avisos-google-chrome-debes-conocer-navegar-internet-evitar-webs-sospechosas-1176534'>Los avisos de Google Chrome que debes conocer para navegar en Internet y evitar webs sospechosas</a></h4>
+    <a href='https://computerhoy.com/internet/avisos-google-chrome-debes-conocer-navegar-internet-evitar-webs-sospechosas-1176534' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/chrome-malware-2914052.jpg?tf=1200x' alt='Los avisos de Google Chrome que debes conocer para navegar en Internet y evitar webs sospechosas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/moviles/zoom-optico-continuo-propuesta-lg-camaras-moviles-1176518'>Zoom óptico continuo: así es la propuesta de LG para las cámaras de los móviles</a></h4>
+    <a href='https://computerhoy.com/moviles/zoom-optico-continuo-propuesta-lg-camaras-moviles-1176518' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/zoom-optico-continuo-propuesta-lg-camaras-moviles-2914040.jpg?tf=1200x' alt='Zoom óptico continuo: así es la propuesta de LG para las cámaras de los móviles' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/streaming/puedes-ver-gratis-primeras-temporadas-mejores-series-apple-tv-1176506'>Así puedes ver gratis las primeras temporadas de las mejores series de Apple TV+</a></h4>
     <a href='https://computerhoy.com/streaming/puedes-ver-gratis-primeras-temporadas-mejores-series-apple-tv-1176506' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/ted-lasso-2723511.jpg?tf=1200x' alt='Así puedes ver gratis las primeras temporadas de las mejores series de Apple TV+' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/gaming/propia-nvidia-confirma-rtx-4070-ti-1176500'>La propia Nvidia confirma su RTX 4070 Ti</a></h4>
     <a href='https://computerhoy.com/gaming/propia-nvidia-confirma-rtx-4070-ti-1176500' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/galeria-review-rtx-4080-2872537.jpg?tf=1200x' alt='La propia Nvidia confirma su RTX 4070 Ti' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/stable-horde-buscar-extraterrestres-crear-imagenes-ia-1176460'>Stable Horde, de buscar extraterrestres a crear imágenes IA</a></h4>
-    <a href='https://computerhoy.com/espacio/stable-horde-buscar-extraterrestres-crear-imagenes-ia-1176460' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/inteligencia-artificial-2901132.jpg?tf=1200x' alt='Stable Horde, de buscar extraterrestres a crear imágenes IA' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/teletrabajo-espana-peores-pagadores-pero-mejores-paises-vivir-trabajar-remoto-1176434'>Teletrabajo: España de los peores pagadores pero de los mejores países para vivir y trabajar en remoto</a></h4>
-    <a href='https://computerhoy.com/life/teletrabajo-espana-peores-pagadores-pero-mejores-paises-vivir-trabajar-remoto-1176434' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/espana-peores-pagadores-teletrabajo-pero-mejores-lugares-instalarse-trabajar-remoto-2913808.jpg?tf=1200x' alt='Teletrabajo: España de los peores pagadores pero de los mejores países para vivir y trabajar en remoto' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/obra-arte-real-hecha-ia-sabrias-ver-diferencia-ponte-prueba-web-1176302'>Obra de arte real o hecha por la IA: ¿sabrías ver la diferencia? ponte a prueba con esta web</a></h4>
-    <a href='https://computerhoy.com/internet/obra-arte-real-hecha-ia-sabrias-ver-diferencia-ponte-prueba-web-1176302' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/obra-arte-humana-hecha-ia-sabrias-ver-diferencia-ponte-prueba-web-2913724.jpg?tf=1200x' alt='Obra de arte real o hecha por la IA: ¿sabrías ver la diferencia? ponte a prueba con esta web' />
     </a>
 </div>
 
