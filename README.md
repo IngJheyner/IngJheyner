@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/estas-son-5-estafas-nos-han-intentado-enganar-2022-1175790'>Estas son las 5 estafas con las que nos han intentado engañar en 2022</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/estas-son-5-estafas-nos-han-intentado-enganar-2022-1175790' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/estafas-timos-bulos-2563469.jpg?tf=1200x' alt='Estas son las 5 estafas con las que nos han intentado engañar en 2022' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/patrocinado/todo-necesitas-saber-pieza-clave-televisor-1142991'>Todo lo que necesitas saber sobre la pieza clave de tu televisor</a></h4>
+    <a href='https://computerhoy.com/patrocinado/todo-necesitas-saber-pieza-clave-televisor-1142991' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/todo-necesitas-saber-pieza-clave-televisor-2908076.jpg?tf=1200x' alt='Todo lo que necesitas saber sobre la pieza clave de tu televisor' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/criptos/nft-vuelven-ser-noticia-gracias-ultima-demanda-pokemon-1175908'>Los NFT vuelven a ser noticia gracias a la última demanda de Pokémon</a></h4>
     <a href='https://computerhoy.com/criptos/nft-vuelven-ser-noticia-gracias-ultima-demanda-pokemon-1175908' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/pokeworld-2912766.jpg?tf=1200x' alt='Los NFT vuelven a ser noticia gracias a la última demanda de Pokémon' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-relojes-inteligentes-xiaomi-amazfit-810635'>Estos son los mejores relojes inteligentes de Xiaomi que puedes comprar</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/mejores-relojes-inteligentes-xiaomi-amazfit-810635' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/poco-watch-analisis-opinion-2777959.jpg?tf=1200x' alt='Estos son los mejores relojes inteligentes de Xiaomi que puedes comprar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/guardia-seguridad-virtual-inteligencia-artificial-secom-1176234'>En Japón ya usan guardias de seguridad virtuales a tamaño real, controlados por inteligencia artificial (vídeo)</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/guardia-seguridad-virtual-inteligencia-artificial-secom-1176234' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/verticalimage1672185000716-2912978.jpg?tf=1200x' alt='En Japón ya usan guardias de seguridad virtuales a tamaño real, controlados por inteligencia artificial (vídeo)' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/hogar/electrodomesticos-lg-sabran-cuando-estas-durmiendo-no-molestarte-1176030'>Los electrodomésticos de LG sabrán cuando estás durmiendo, para no molestarte</a></h4>
-    <a href='https://computerhoy.com/hogar/electrodomesticos-lg-sabran-cuando-estas-durmiendo-no-molestarte-1176030' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/electrodomesticos-lg-sabran-cuando-estas-durmiendo-no-molestarte-2912962.jpg?tf=1200x' alt='Los electrodomésticos de LG sabrán cuando estás durmiendo, para no molestarte' />
     </a>
 </div>
 
