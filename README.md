@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/compra-dispositivos-datos-biometricos-soldados-ee-uu-vuelve-sorprender-falta-seguridad-1176266'>La compra de dispositivos con datos biométricos de soldados de EE. UU. vuelve a sorprender por la falta de seguridad</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/compra-dispositivos-datos-biometricos-soldados-ee-uu-vuelve-sorprender-falta-seguridad-1176266' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/08/acceso-centro-armamento-ejercito-eeuu-fort-knox-kentucky.jpg?tf=1200x' alt='La compra de dispositivos con datos biométricos de soldados de EE. UU. vuelve a sorprender por la falta de seguridad' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/estas-son-peliculas-series-vistas-2022-netflix-1176264'>Estas son las películas y series más vistas de 2022 en Netflix</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/estas-son-peliculas-series-vistas-2022-netflix-1176264' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/estas-son-peliculas-series-vistas-2022-netflix-2913464.jpg?tf=1200x' alt='Estas son las películas y series más vistas de 2022 en Netflix' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/analisis/review-lg-c2-42-mejores-televisores-ps5-xbox-series-puedes-comprar-1175944'>Análisis del LG C2 de 42", de los mejores televisores para PS5 y Xbox Series que puedes comprar</a></h4>
     <a href='https://computerhoy.com/analisis/review-lg-c2-42-mejores-televisores-ps5-xbox-series-puedes-comprar-1175944' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/analisis-lg-c2-42-2913232.jpg?tf=1200x' alt='Análisis del LG C2 de 42", de los mejores televisores para PS5 y Xbox Series que puedes comprar' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/moviles/caracteristicas-redmagic-8-pro-bestia-snapdragon-8-gen-2-ventilador-carga-165-w-1176250'>Características del Redmagic 8 Pro, una bestia con Snapdragon 8 Gen 2, ventilador y carga de hasta 165 W</a></h4>
     <a href='https://computerhoy.com/moviles/caracteristicas-redmagic-8-pro-bestia-snapdragon-8-gen-2-ventilador-carga-165-w-1176250' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/nubia-red-magic-8-pro-2913220.jpg?tf=1200x' alt='Características del Redmagic 8 Pro, una bestia con Snapdragon 8 Gen 2, ventilador y carga de hasta 165 W' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/ejecutan-windows-7-128-mb-ram-cpu-5-mhz-arranca-28-minutos-1176254'>Ejecutan Windows 7 con 128 MB de RAM y una CPU a 5 MHz: arranca en 28 minutos</a></h4>
-    <a href='https://computerhoy.com/pc/ejecutan-windows-7-128-mb-ram-cpu-5-mhz-arranca-28-minutos-1176254' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/ejecutan-windows-7-128-mb-ram-cpu-5-mhz-arranca-28-minutos-no-inocentada-2913324.jpg?tf=1200x' alt='Ejecutan Windows 7 con 128 MB de RAM y una CPU a 5 MHz: arranca en 28 minutos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/oppo-reno8-5g-analisis-opinion-1144107'>OPPO Reno8 5G, análisis y opinión</a></h4>
-    <a href='https://computerhoy.com/analisis/oppo-reno8-5g-analisis-opinion-1144107' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/oppo-reno8-5g-analisis-opinion-2890684.jpg?tf=1200x' alt='OPPO Reno8 5G, análisis y opinión' />
     </a>
 </div>
 
