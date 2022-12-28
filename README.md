@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/hogar/electrodomesticos-lg-sabran-cuando-estas-durmiendo-no-molestarte-1176030'>Los electrodomésticos de LG sabrán cuando estás durmiendo, para no molestarte</a></h4>
+    <a href='https://computerhoy.com/hogar/electrodomesticos-lg-sabran-cuando-estas-durmiendo-no-molestarte-1176030' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/electrodomesticos-lg-sabran-cuando-estas-durmiendo-no-molestarte-2912962.jpg?tf=1200x' alt='Los electrodomésticos de LG sabrán cuando estás durmiendo, para no molestarte' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/redes-sociales/youtuber-mrbeast-quiere-ser-nuevo-ceo-twitter-sustituir-elon-musk-1175988'>El youtuber MrBeast quiere ser el nuevo CEO de Twitter y sustituir a Elon Musk</a></h4>
     <a href='https://computerhoy.com/redes-sociales/youtuber-mrbeast-quiere-ser-nuevo-ceo-twitter-sustituir-elon-musk-1175988' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/elon-musk-2679601.jpg?tf=1200x' alt='El youtuber MrBeast quiere ser el nuevo CEO de Twitter y sustituir a Elon Musk' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/entretenimiento/avatar-2-record-taquilla-1000-millones-dolares-recaudacion-1176010'>Milagro de Navidad: Avatar 2 explota la taquilla y ya roza los 1.000 millones de dólares de recaudación</a></h4>
     <a href='https://computerhoy.com/entretenimiento/avatar-2-record-taquilla-1000-millones-dolares-recaudacion-1176010' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/milagro-navidad-avatar-2-explota-taquilla-ya-roza-1000-millones-dolares-recaudacion-2912898.jpg?tf=1200x' alt='Milagro de Navidad: Avatar 2 explota la taquilla y ya roza los 1.000 millones de dólares de recaudación' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/hogar/cesta-compra-baja-precio-estos-son-alimentos-no-tendran-iva-1175984'>La cesta de la compra baja de precio: estos son los alimentos que no tendrán IVA</a></h4>
-    <a href='https://computerhoy.com/hogar/cesta-compra-baja-precio-estos-son-alimentos-no-tendran-iva-1175984' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/cesta-compra-2758205.jpg?tf=1200x' alt='La cesta de la compra baja de precio: estos son los alimentos que no tendrán IVA' />
     </a>
 </div>
 
