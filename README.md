@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/motor/patinete-xiaomi-electric scooter-4-pro-oferta-230-euros-descuento-1176556'>Ganga para Reyes: el patinete más potente de Xiaomi baja 230 euros</a></h4>
+    <a href='https://computerhoy.com/motor/patinete-xiaomi-electric scooter-4-pro-oferta-230-euros-descuento-1176556' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/xiaomi-electric-scooter-4-pro-2728947.jpg?tf=1200x' alt='Ganga para Reyes: el patinete más potente de Xiaomi baja 230 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/entretenimiento/star-wars-acolyte-nueva-serie-disney-plus-villanos-sith-1176552'>Star Wars está humanizando cada vez más a los villanos, y continuará en la nueva serie The Acolyte</a></h4>
     <a href='https://computerhoy.com/entretenimiento/star-wars-acolyte-nueva-serie-disney-plus-villanos-sith-1176552' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/star-wars-humanizando-cada-vez-villanos-continuara-nueva-serie-acolyte-2914056.jpg?tf=1200x' alt='Star Wars está humanizando cada vez más a los villanos, y continuará en la nueva serie The Acolyte' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/internet/compra-dispositivo-militar-ebay-encuentra-informacion-confidencial-ejercito-eeuu-1176532'>Compra un dispositivo militar en eBay y se encuentra con información confidencial del ejército de EEUU</a></h4>
     <a href='https://computerhoy.com/internet/compra-dispositivo-militar-ebay-encuentra-informacion-confidencial-ejercito-eeuu-1176532' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/10/portatil-militar-2119633.jpg?tf=1200x' alt='Compra un dispositivo militar en eBay y se encuentra con información confidencial del ejército de EEUU' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/avisos-google-chrome-debes-conocer-navegar-internet-evitar-webs-sospechosas-1176534'>Los avisos de Google Chrome que debes conocer para navegar en Internet y evitar webs sospechosas</a></h4>
-    <a href='https://computerhoy.com/internet/avisos-google-chrome-debes-conocer-navegar-internet-evitar-webs-sospechosas-1176534' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/chrome-malware-2914052.jpg?tf=1200x' alt='Los avisos de Google Chrome que debes conocer para navegar en Internet y evitar webs sospechosas' />
     </a>
 </div>
 
