@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/guardia-seguridad-virtual-inteligencia-artificial-secom-1176234'>En Japón ya usan guardias de seguridad virtuales a tamaño real, controlados por inteligencia artificial</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/guardia-seguridad-virtual-inteligencia-artificial-secom-1176234' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/verticalimage1672185000716-2912978.jpg?tf=1200x' alt='En Japón ya usan guardias de seguridad virtuales a tamaño real, controlados por inteligencia artificial' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/hogar/electrodomesticos-lg-sabran-cuando-estas-durmiendo-no-molestarte-1176030'>Los electrodomésticos de LG sabrán cuando estás durmiendo, para no molestarte</a></h4>
     <a href='https://computerhoy.com/hogar/electrodomesticos-lg-sabran-cuando-estas-durmiendo-no-molestarte-1176030' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/electrodomesticos-lg-sabran-cuando-estas-durmiendo-no-molestarte-2912962.jpg?tf=1200x' alt='Los electrodomésticos de LG sabrán cuando estás durmiendo, para no molestarte' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/alimentacion/huella-carbono-tipica-comida-cena-navidena-1176014'>Esta es la huella de carbono de una típica comida o cena navideña</a></h4>
     <a href='https://computerhoy.com/alimentacion/huella-carbono-tipica-comida-cena-navidena-1176014' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/cena-navidad-2912956.jpg?tf=1200x' alt='Esta es la huella de carbono de una típica comida o cena navideña' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/avatar-2-record-taquilla-1000-millones-dolares-recaudacion-1176010'>Milagro de Navidad: Avatar 2 explota la taquilla y ya roza los 1.000 millones de dólares de recaudación</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/avatar-2-record-taquilla-1000-millones-dolares-recaudacion-1176010' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/milagro-navidad-avatar-2-explota-taquilla-ya-roza-1000-millones-dolares-recaudacion-2912898.jpg?tf=1200x' alt='Milagro de Navidad: Avatar 2 explota la taquilla y ya roza los 1.000 millones de dólares de recaudación' />
     </a>
 </div>
 
