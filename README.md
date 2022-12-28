@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/vota-premios-computerhoy-2022-finalistas-mejor-smarttv-gama-media-entrada-1176388'>Vota en los Premios ComputerHoy 2022: finalistas a la mejor SmartTV gama media y de entrada</a></h4>
+    <a href='https://computerhoy.com/tecnologia/vota-premios-computerhoy-2022-finalistas-mejor-smarttv-gama-media-entrada-1176388' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/vota-premios-computerhoy-2021-finalistas-mejores-smarttv-gama-entrada-media-2576775.jpg?tf=1200x' alt='Vota en los Premios ComputerHoy 2022: finalistas a la mejor SmartTV gama media y de entrada' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/motor/primer-coche-electrico-plegable-mundo-espanol-1176356'>Así es el primer coche eléctrico plegable del mundo y es español</a></h4>
+    <a href='https://computerhoy.com/motor/primer-coche-electrico-plegable-mundo-espanol-1176356' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/coche-electrico-plegable-2913572.jpg?tf=1200x' alt='Así es el primer coche eléctrico plegable del mundo y es español' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/motor/acciones-tesla-siguen-caida-libre-ralentiza-produccion-1176328'>Las acciones de Tesla siguen en caída libre y se ralentiza la producción</a></h4>
     <a href='https://computerhoy.com/motor/acciones-tesla-siguen-caida-libre-ralentiza-produccion-1176328' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/elon-musk-junto-tesla-model-s-2839145.jpg?tf=1200x' alt='Las acciones de Tesla siguen en caída libre y se ralentiza la producción' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/pc/china-hace-competencia-amd-procesador-32-nucleos-basados-chipled-1176312'>China le hace la competencia a AMD con un procesador de 32 núcleos basados en chipled</a></h4>
     <a href='https://computerhoy.com/pc/china-hace-competencia-amd-procesador-32-nucleos-basados-chipled-1176312' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/procesadores-2890874.jpg?tf=1200x' alt='China le hace la competencia a AMD con un procesador de 32 núcleos basados en chipled' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/nasa-realiza-primer-test-colisiones-coche-volador-resultado-devastador-1176298'>La NASA realiza el primer test de colisiones del coche volador y el resultado es devastador</a></h4>
-    <a href='https://computerhoy.com/tecnologia/nasa-realiza-primer-test-colisiones-coche-volador-resultado-devastador-1176298' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/nasa-empieza-test-impacto-coche-volador-todavia-no-estamos-preparados-2913488.jpg?tf=1200x' alt='La NASA realiza el primer test de colisiones del coche volador y el resultado es devastador' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/compra-dispositivos-datos-biometricos-soldados-ee-uu-vuelve-sorprender-falta-seguridad-1176266'>La compra de dispositivos con datos biométricos de soldados de EE. UU. vuelve a sorprender por la falta de seguridad</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/compra-dispositivos-datos-biometricos-soldados-ee-uu-vuelve-sorprender-falta-seguridad-1176266' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/08/acceso-centro-armamento-ejercito-eeuu-fort-knox-kentucky.jpg?tf=1200x' alt='La compra de dispositivos con datos biométricos de soldados de EE. UU. vuelve a sorprender por la falta de seguridad' />
     </a>
 </div>
 
