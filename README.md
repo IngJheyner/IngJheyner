@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/gaming/propia-nvidia-confirma-rtx-4070-ti-1176500'>La propia Nvidia confirma su RTX 4070 Ti</a></h4>
+    <a href='https://computerhoy.com/gaming/propia-nvidia-confirma-rtx-4070-ti-1176500' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/galeria-review-rtx-4080-2872537.jpg?tf=1200x' alt='La propia Nvidia confirma su RTX 4070 Ti' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/espacio/stable-horde-buscar-extraterrestres-crear-imagenes-ia-1176460'>Stable Horde, de buscar extraterrestres a crear imágenes IA</a></h4>
+    <a href='https://computerhoy.com/espacio/stable-horde-buscar-extraterrestres-crear-imagenes-ia-1176460' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/inteligencia-artificial-2901132.jpg?tf=1200x' alt='Stable Horde, de buscar extraterrestres a crear imágenes IA' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/teletrabajo-espana-peores-pagadores-pero-mejores-paises-vivir-trabajar-remoto-1176434'>Teletrabajo: España de los peores pagadores pero de los mejores países para vivir y trabajar en remoto</a></h4>
     <a href='https://computerhoy.com/life/teletrabajo-espana-peores-pagadores-pero-mejores-paises-vivir-trabajar-remoto-1176434' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/espana-peores-pagadores-teletrabajo-pero-mejores-lugares-instalarse-trabajar-remoto-2913808.jpg?tf=1200x' alt='Teletrabajo: España de los peores pagadores pero de los mejores países para vivir y trabajar en remoto' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/life/como-acceder-cheque-200-euros-ayuda-alimentacion-2023-1176380'>Cómo acceder al cheque de 200 euros de ayuda a la alimentación en 2023</a></h4>
     <a href='https://computerhoy.com/life/como-acceder-cheque-200-euros-ayuda-alimentacion-2023-1176380' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/supermercado-2637227.jpg?tf=1200x' alt='Cómo acceder al cheque de 200 euros de ayuda a la alimentación en 2023' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/vota-premios-computerhoy-2022-finalistas-mejor-smarttv-gama-media-entrada-1176388'>Vota en los Premios ComputerHoy 2022: finalistas a la mejor SmartTV gama media y de entrada</a></h4>
-    <a href='https://computerhoy.com/tecnologia/vota-premios-computerhoy-2022-finalistas-mejor-smarttv-gama-media-entrada-1176388' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/vota-premios-computerhoy-2021-finalistas-mejores-smarttv-gama-entrada-media-2576775.jpg?tf=1200x' alt='Vota en los Premios ComputerHoy 2022: finalistas a la mejor SmartTV gama media y de entrada' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/primer-coche-electrico-plegable-mundo-espanol-1176356'>Así es el primer coche eléctrico plegable del mundo y es español</a></h4>
-    <a href='https://computerhoy.com/motor/primer-coche-electrico-plegable-mundo-espanol-1176356' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/coche-electrico-plegable-2913572.jpg?tf=1200x' alt='Así es el primer coche eléctrico plegable del mundo y es español' />
     </a>
 </div>
 
