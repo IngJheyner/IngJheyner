@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/star-wars-acolyte-nueva-serie-disney-plus-villanos-sith-1176552'>Star Wars está humanizando cada vez más a los villanos, y continuará en la nueva serie The Acolyte</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/star-wars-acolyte-nueva-serie-disney-plus-villanos-sith-1176552' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/star-wars-humanizando-cada-vez-villanos-continuara-nueva-serie-acolyte-2914056.jpg?tf=1200x' alt='Star Wars está humanizando cada vez más a los villanos, y continuará en la nueva serie The Acolyte' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/streaming/fisura-prime-video-amazon-planea-lanzar-app-video-solo-deportes-directo-1176544'>Fisura en Prime Video: Amazon planea lanzar una app de vídeo solo para deportes en directo</a></h4>
+    <a href='https://computerhoy.com/streaming/fisura-prime-video-amazon-planea-lanzar-app-video-solo-deportes-directo-1176544' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/salon-smart-tv-amazon-prime-video-2509627.jpg?tf=1200x' alt='Fisura en Prime Video: Amazon planea lanzar una app de vídeo solo para deportes en directo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/adios-despertador-mejor-forma-despertarse-cada-manana-1176538'>Adiós al despertador: esta es la mejor forma de despertarse cada mañana</a></h4>
+    <a href='https://computerhoy.com/life/adios-despertador-mejor-forma-despertarse-cada-manana-1176538' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/despertador-2876087.jpg?tf=1200x' alt='Adiós al despertador: esta es la mejor forma de despertarse cada mañana' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/internet/compra-dispositivo-militar-ebay-encuentra-informacion-confidencial-ejercito-eeuu-1176532'>Compra un dispositivo militar en eBay y se encuentra con información confidencial del ejército de EEUU</a></h4>
     <a href='https://computerhoy.com/internet/compra-dispositivo-militar-ebay-encuentra-informacion-confidencial-ejercito-eeuu-1176532' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/10/portatil-militar-2119633.jpg?tf=1200x' alt='Compra un dispositivo militar en eBay y se encuentra con información confidencial del ejército de EEUU' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/internet/avisos-google-chrome-debes-conocer-navegar-internet-evitar-webs-sospechosas-1176534'>Los avisos de Google Chrome que debes conocer para navegar en Internet y evitar webs sospechosas</a></h4>
     <a href='https://computerhoy.com/internet/avisos-google-chrome-debes-conocer-navegar-internet-evitar-webs-sospechosas-1176534' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/chrome-malware-2914052.jpg?tf=1200x' alt='Los avisos de Google Chrome que debes conocer para navegar en Internet y evitar webs sospechosas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/zoom-optico-continuo-propuesta-lg-camaras-moviles-1176518'>Zoom óptico continuo: así es la propuesta de LG para las cámaras de los móviles</a></h4>
-    <a href='https://computerhoy.com/moviles/zoom-optico-continuo-propuesta-lg-camaras-moviles-1176518' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/zoom-optico-continuo-propuesta-lg-camaras-moviles-2914040.jpg?tf=1200x' alt='Zoom óptico continuo: así es la propuesta de LG para las cámaras de los móviles' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/streaming/puedes-ver-gratis-primeras-temporadas-mejores-series-apple-tv-1176506'>Así puedes ver gratis las primeras temporadas de las mejores series de Apple TV+</a></h4>
-    <a href='https://computerhoy.com/streaming/puedes-ver-gratis-primeras-temporadas-mejores-series-apple-tv-1176506' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/ted-lasso-2723511.jpg?tf=1200x' alt='Así puedes ver gratis las primeras temporadas de las mejores series de Apple TV+' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/gaming/propia-nvidia-confirma-rtx-4070-ti-1176500'>La propia Nvidia confirma su RTX 4070 Ti</a></h4>
-    <a href='https://computerhoy.com/gaming/propia-nvidia-confirma-rtx-4070-ti-1176500' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/galeria-review-rtx-4080-2872537.jpg?tf=1200x' alt='La propia Nvidia confirma su RTX 4070 Ti' />
     </a>
 </div>
 
