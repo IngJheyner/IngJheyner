@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/motor/acciones-tesla-siguen-caida-libre-ralentiza-produccion-1176328'>Las acciones de Tesla siguen en caída libre y se ralentiza la producción</a></h4>
+    <a href='https://computerhoy.com/motor/acciones-tesla-siguen-caida-libre-ralentiza-produccion-1176328' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/elon-musk-junto-tesla-model-s-2839145.jpg?tf=1200x' alt='Las acciones de Tesla siguen en caída libre y se ralentiza la producción' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/gaming/pasa-buscas-plin-plin-plon-youtube-1176306'>Esto es lo que pasa si buscas "plin plin plon" en YouTube</a></h4>
+    <a href='https://computerhoy.com/gaming/pasa-buscas-plin-plin-plon-youtube-1176306' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/dark-souls-2913520.jpg?tf=1200x' alt='Esto es lo que pasa si buscas "plin plin plon" en YouTube' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/pc/china-hace-competencia-amd-procesador-32-nucleos-basados-chipled-1176312'>China le hace la competencia a AMD con un procesador de 32 núcleos basados en chipled</a></h4>
+    <a href='https://computerhoy.com/pc/china-hace-competencia-amd-procesador-32-nucleos-basados-chipled-1176312' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/procesadores-2890874.jpg?tf=1200x' alt='China le hace la competencia a AMD con un procesador de 32 núcleos basados en chipled' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/nasa-realiza-primer-test-colisiones-coche-volador-resultado-devastador-1176298'>La NASA realiza el primer test de colisiones del coche volador y el resultado es devastador</a></h4>
+    <a href='https://computerhoy.com/tecnologia/nasa-realiza-primer-test-colisiones-coche-volador-resultado-devastador-1176298' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/nasa-empieza-test-impacto-coche-volador-todavia-no-estamos-preparados-2913488.jpg?tf=1200x' alt='La NASA realiza el primer test de colisiones del coche volador y el resultado es devastador' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciberseguridad/compra-dispositivos-datos-biometricos-soldados-ee-uu-vuelve-sorprender-falta-seguridad-1176266'>La compra de dispositivos con datos biométricos de soldados de EE. UU. vuelve a sorprender por la falta de seguridad</a></h4>
     <a href='https://computerhoy.com/ciberseguridad/compra-dispositivos-datos-biometricos-soldados-ee-uu-vuelve-sorprender-falta-seguridad-1176266' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/08/acceso-centro-armamento-ejercito-eeuu-fort-knox-kentucky.jpg?tf=1200x' alt='La compra de dispositivos con datos biométricos de soldados de EE. UU. vuelve a sorprender por la falta de seguridad' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/estas-son-peliculas-series-vistas-2022-netflix-1176264'>Estas son las películas y series más vistas de 2022 en Netflix</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/estas-son-peliculas-series-vistas-2022-netflix-1176264' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/estas-son-peliculas-series-vistas-2022-netflix-2913464.jpg?tf=1200x' alt='Estas son las películas y series más vistas de 2022 en Netflix' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/review-lg-c2-42-mejores-televisores-ps5-xbox-series-puedes-comprar-1175944'>Análisis del LG C2 de 42", de los mejores televisores para PS5 y Xbox Series que puedes comprar</a></h4>
-    <a href='https://computerhoy.com/analisis/review-lg-c2-42-mejores-televisores-ps5-xbox-series-puedes-comprar-1175944' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/analisis-lg-c2-42-2913232.jpg?tf=1200x' alt='Análisis del LG C2 de 42", de los mejores televisores para PS5 y Xbox Series que puedes comprar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/google-mantiene-pulso-apple-samsung-pixel-7-sigue-precio-ganga-1175794'>Google mantiene el pulso a Apple y Samsung: el Pixel 7 sigue a precio de ganga</a></h4>
-    <a href='https://computerhoy.com/tecnologia/google-mantiene-pulso-apple-samsung-pixel-7-sigue-precio-ganga-1175794' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/google-pixel-7-2912310.jpg?tf=1200x' alt='Google mantiene el pulso a Apple y Samsung: el Pixel 7 sigue a precio de ganga' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/caracteristicas-redmagic-8-pro-bestia-snapdragon-8-gen-2-ventilador-carga-165-w-1176250'>Características del Redmagic 8 Pro, una bestia con Snapdragon 8 Gen 2, ventilador y carga de hasta 165 W</a></h4>
-    <a href='https://computerhoy.com/moviles/caracteristicas-redmagic-8-pro-bestia-snapdragon-8-gen-2-ventilador-carga-165-w-1176250' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/nubia-red-magic-8-pro-2913220.jpg?tf=1200x' alt='Características del Redmagic 8 Pro, una bestia con Snapdragon 8 Gen 2, ventilador y carga de hasta 165 W' />
     </a>
 </div>
 
