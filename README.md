@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/criptos/nft-vuelven-ser-noticia-gracias-ultima-demanda-pokemon-1175908'>Los NFT vuelven a ser noticia gracias a la última demanda de Pokémon</a></h4>
+    <a href='https://computerhoy.com/criptos/nft-vuelven-ser-noticia-gracias-ultima-demanda-pokemon-1175908' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/pokeworld-2912766.jpg?tf=1200x' alt='Los NFT vuelven a ser noticia gracias a la última demanda de Pokémon' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/25-noticias-tecnologia-comenzar-manana-informado-ultimo-1176240'>25 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
+    <a href='https://computerhoy.com/tecnologia/25-noticias-tecnologia-comenzar-manana-informado-ultimo-1176240' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/25-noticias-tecnologia-comenzar-manana-informado-ultimo-2913212.jpg?tf=1200x' alt='25 noticias de tecnología para comenzar la mañana informado de lo último' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-relojes-inteligentes-xiaomi-amazfit-810635'>Estos son los mejores relojes inteligentes de Xiaomi que puedes comprar</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/mejores-relojes-inteligentes-xiaomi-amazfit-810635' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/poco-watch-analisis-opinion-2777959.jpg?tf=1200x' alt='Estos son los mejores relojes inteligentes de Xiaomi que puedes comprar' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/hogar/electrodomesticos-lg-sabran-cuando-estas-durmiendo-no-molestarte-1176030'>Los electrodomésticos de LG sabrán cuando estás durmiendo, para no molestarte</a></h4>
     <a href='https://computerhoy.com/hogar/electrodomesticos-lg-sabran-cuando-estas-durmiendo-no-molestarte-1176030' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/electrodomesticos-lg-sabran-cuando-estas-durmiendo-no-molestarte-2912962.jpg?tf=1200x' alt='Los electrodomésticos de LG sabrán cuando estás durmiendo, para no molestarte' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/redes-sociales/youtuber-mrbeast-quiere-ser-nuevo-ceo-twitter-sustituir-elon-musk-1175988'>El youtuber MrBeast quiere ser el nuevo CEO de Twitter y sustituir a Elon Musk</a></h4>
-    <a href='https://computerhoy.com/redes-sociales/youtuber-mrbeast-quiere-ser-nuevo-ceo-twitter-sustituir-elon-musk-1175988' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/elon-musk-2679601.jpg?tf=1200x' alt='El youtuber MrBeast quiere ser el nuevo CEO de Twitter y sustituir a Elon Musk' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/nothing-phone-1-descuento-70-euros-oferta-1176022'>Este móvil Android es la sorpresa de 2022, y ahora cae de nuevo al precio más bajo desde el Black Friday</a></h4>
-    <a href='https://computerhoy.com/moviles/nothing-phone-1-descuento-70-euros-oferta-1176022' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/nothing-phone-1-analisis-opinion-2772691.jpg?tf=1200x' alt='Este móvil Android es la sorpresa de 2022, y ahora cae de nuevo al precio más bajo desde el Black Friday' />
     </a>
 </div>
 
