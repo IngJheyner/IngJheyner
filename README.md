@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/reloj-samsung-buscado-desploma-precio-oferta-historica-1176326'>El reloj Samsung más buscado desploma su precio en una oferta histórica</a></h4>
+    <a href='https://computerhoy.com/tecnologia/reloj-samsung-buscado-desploma-precio-oferta-historica-1176326' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/samsung-galaxy-watch5-2794525.jpg?tf=1200x' alt='El reloj Samsung más buscado desploma su precio en una oferta histórica' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/crean-ia-te-ayuda-tiempo-real-entrevistas-trabajo-1176796'>Crean una IA que te ayuda en tiempo real en tus entrevistas de trabajo</a></h4>
+    <a href='https://computerhoy.com/apps/crean-ia-te-ayuda-tiempo-real-entrevistas-trabajo-1176796' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/entrevista-2648967.jpg?tf=1200x' alt='Crean una IA que te ayuda en tiempo real en tus entrevistas de trabajo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/software/lenguajes-programacion-amados-son-distintos-te-haran-ganar-dinero-1176798'>Los lenguajes de programación más amados son distintos a los que te harán ganar más dinero</a></h4>
+    <a href='https://computerhoy.com/software/lenguajes-programacion-amados-son-distintos-te-haran-ganar-dinero-1176798' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/programacion-java-2789481.jpg?tf=1200x' alt='Los lenguajes de programación más amados son distintos a los que te harán ganar más dinero' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/entretenimiento/vuelve-laliga-dazn-sale-app-movistar-1176788'>Vuelve LaLiga y DAZN sale de la app de Movistar</a></h4>
     <a href='https://computerhoy.com/entretenimiento/vuelve-laliga-dazn-sale-app-movistar-1176788' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/dazn-movistar-plus-2914348.jpg?tf=1200x' alt='Vuelve LaLiga y DAZN sale de la app de Movistar' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/analisis/review-lg-qp5-eclair-barra-sonido-compacta-potente-no-apta-todos-usuarios-1176494'>Análisis LG QP5 Éclair, una barra de sonido compacta, potente y no apta para todos los usuarios</a></h4>
     <a href='https://computerhoy.com/analisis/review-lg-qp5-eclair-barra-sonido-compacta-potente-no-apta-todos-usuarios-1176494' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/analisis-lg-qp5-eclair-2913944.jpg?tf=1200x' alt='Análisis LG QP5 Éclair, una barra de sonido compacta, potente y no apta para todos los usuarios' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/ces-2023-todas-novedades-llegaran-parte-grandes-marcas-tecnologicas-1175442'>CES 2023: todas las novedades que llegarán por parte de las grandes marcas tecnológicas</a></h4>
-    <a href='https://computerhoy.com/tecnologia/ces-2023-todas-novedades-llegaran-parte-grandes-marcas-tecnologicas-1175442' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/ces-2023-todas-novedades-llegaran-parte-grandes-marcas-tecnologicas-2913698.jpg?tf=1200x' alt='CES 2023: todas las novedades que llegarán por parte de las grandes marcas tecnológicas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/listas/life/apps-webs-crear-felicitaciones-ano-nuevo-fin-ano-navidad-2019-349149'>Apps y webs para crear felicitaciones de Nochevieja y Fin de Año personalizadas</a></h4>
-    <a href='https://computerhoy.com/listas/life/apps-webs-crear-felicitaciones-ano-nuevo-fin-ano-navidad-2019-349149' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/12/felicitacion-nochevieja-2020-2178551.jpg?tf=1200x' alt='Apps y webs para crear felicitaciones de Nochevieja y Fin de Año personalizadas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/7-tecnologias-dispositivos-mueren-2022-1176398'>Las 7 tecnologías y dispositivos que mueren en 2022</a></h4>
-    <a href='https://computerhoy.com/tecnologia/7-tecnologias-dispositivos-mueren-2022-1176398' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/muerte-tecnologias-2022-2913752.jpg?tf=1200x' alt='Las 7 tecnologías y dispositivos que mueren en 2022' />
     </a>
 </div>
 
