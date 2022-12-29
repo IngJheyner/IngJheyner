@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/listas/life/apps-webs-crear-felicitaciones-ano-nuevo-fin-ano-navidad-2019-349149'>Apps y webs para crear felicitaciones de Nochevieja y Fin de Año personalizadas</a></h4>
+    <a href='https://computerhoy.com/listas/life/apps-webs-crear-felicitaciones-ano-nuevo-fin-ano-navidad-2019-349149' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/12/felicitacion-nochevieja-2020-2178551.jpg?tf=1200x' alt='Apps y webs para crear felicitaciones de Nochevieja y Fin de Año personalizadas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/7-tecnologias-dispositivos-mueren-2022-1176398'>Las 7 tecnologías y dispositivos que mueren en 2022</a></h4>
+    <a href='https://computerhoy.com/tecnologia/7-tecnologias-dispositivos-mueren-2022-1176398' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/muerte-tecnologias-2022-2913752.jpg?tf=1200x' alt='Las 7 tecnologías y dispositivos que mueren en 2022' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/moviles-samsung-regalo-reyes-magos-1176288'>5 móviles Samsung perfectos para regalar por Reyes Magos (incluso de menos de 200 euros)</a></h4>
     <a href='https://computerhoy.com/tecnologia/moviles-samsung-regalo-reyes-magos-1176288' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/analisis-samsung-galaxy-s22-ultra-2620749.jpg?tf=1200x' alt='5 móviles Samsung perfectos para regalar por Reyes Magos (incluso de menos de 200 euros)' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/ciencia/asentamiento-maya-desconocido-guatemala-960-edificios-lidar-1176768'>Descubre un asentamiento maya desconocido en Guatemala con más de 960 edificios, gracias al LiDAR</a></h4>
     <a href='https://computerhoy.com/ciencia/asentamiento-maya-desconocido-guatemala-960-edificios-lidar-1176768' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/descubre-asentamiento-maya-desconocido-guatemala-960-edificios-gracias-lidar-2914312.jpg?tf=1200x' alt='Descubre un asentamiento maya desconocido en Guatemala con más de 960 edificios, gracias al LiDAR' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/microsoft-excel-crear-formulas-rellenar-tablas-forma-automatica-1176766'>Microsoft hace más sencillo crear fórmulas y rellenar tablas en Excel, de forma automática</a></h4>
-    <a href='https://computerhoy.com/apps/microsoft-excel-crear-formulas-rellenar-tablas-forma-automatica-1176766' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/microsoft-hace-sencillo-crear-formulas-rellenar-tablas-excel-forma-automatica-2914310.jpg?tf=1200x' alt='Microsoft hace más sencillo crear fórmulas y rellenar tablas en Excel, de forma automática' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/patinete-xiaomi-electric scooter-4-pro-oferta-230-euros-descuento-1176556'>Ganga para Reyes: el patinete más potente de Xiaomi baja 230 euros</a></h4>
-    <a href='https://computerhoy.com/motor/patinete-xiaomi-electric scooter-4-pro-oferta-230-euros-descuento-1176556' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/xiaomi-electric-scooter-4-pro-2728947.jpg?tf=1200x' alt='Ganga para Reyes: el patinete más potente de Xiaomi baja 230 euros' />
     </a>
 </div>
 
