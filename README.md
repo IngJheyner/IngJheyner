@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/microsoft-excel-crear-formulas-rellenar-tablas-forma-automatica-1176766'>Microsoft hace más sencillo crear fórmulas y rellenar tablas en Excel, de forma automática</a></h4>
+    <a href='https://computerhoy.com/apps/microsoft-excel-crear-formulas-rellenar-tablas-forma-automatica-1176766' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/microsoft-hace-sencillo-crear-formulas-rellenar-tablas-excel-forma-automatica-2914310.jpg?tf=1200x' alt='Microsoft hace más sencillo crear fórmulas y rellenar tablas en Excel, de forma automática' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/motor/patinete-xiaomi-electric scooter-4-pro-oferta-230-euros-descuento-1176556'>Ganga para Reyes: el patinete más potente de Xiaomi baja 230 euros</a></h4>
     <a href='https://computerhoy.com/motor/patinete-xiaomi-electric scooter-4-pro-oferta-230-euros-descuento-1176556' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/xiaomi-electric-scooter-4-pro-2728947.jpg?tf=1200x' alt='Ganga para Reyes: el patinete más potente de Xiaomi baja 230 euros' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/life/adios-despertador-mejor-forma-despertarse-cada-manana-1176538'>Adiós al despertador: esta es la mejor forma de despertarse cada mañana</a></h4>
     <a href='https://computerhoy.com/life/adios-despertador-mejor-forma-despertarse-cada-manana-1176538' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/despertador-2876087.jpg?tf=1200x' alt='Adiós al despertador: esta es la mejor forma de despertarse cada mañana' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/compra-dispositivo-militar-ebay-encuentra-informacion-confidencial-ejercito-eeuu-1176532'>Compra un dispositivo militar en eBay y se encuentra con información confidencial del ejército de EEUU</a></h4>
-    <a href='https://computerhoy.com/internet/compra-dispositivo-militar-ebay-encuentra-informacion-confidencial-ejercito-eeuu-1176532' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/10/portatil-militar-2119633.jpg?tf=1200x' alt='Compra un dispositivo militar en eBay y se encuentra con información confidencial del ejército de EEUU' />
     </a>
 </div>
 
