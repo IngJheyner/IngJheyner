@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/software/eres-experto-estos-lenguajes-programacion-deberias-actualizarte-1176820'>Si eres experto en estos lenguajes de programación, deberías actualizarte</a></h4>
+    <a href='https://computerhoy.com/software/eres-experto-estos-lenguajes-programacion-deberias-actualizarte-1176820' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/09/lenguajes-programacion-2070451.jpg?tf=1200x' alt='Si eres experto en estos lenguajes de programación, deberías actualizarte' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/hogar/samsung-estrena-frigorifico-pantalla-32-pulgadas-perfecto-tiktok-1176998'>Samsung estrena un frigorífico con pantalla de 32 pulgadas perfecto para TikTok</a></h4>
+    <a href='https://computerhoy.com/hogar/samsung-estrena-frigorifico-pantalla-32-pulgadas-perfecto-tiktok-1176998' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/samsung-estrena-frigorifico-pantalla-32-pulgadas-perfecto-tiktok-2915036.jpg?tf=1200x' alt='Samsung estrena un frigorífico con pantalla de 32 pulgadas perfecto para TikTok' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/alternativas-originales-12-uvas-fin-ano-1170500'>Alternativas originales a las 12 uvas de fin de año</a></h4>
     <a href='https://computerhoy.com/life/alternativas-originales-12-uvas-fin-ano-1170500' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/12/nochevieja-comer-uvas-2162655.jpg?tf=1200x' alt='Alternativas originales a las 12 uvas de fin de año' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/life/como-conseguir-abono-gratuito-renfe-2023-1176868'>Cómo conseguir el abono gratuito de Renfe 2023</a></h4>
     <a href='https://computerhoy.com/life/como-conseguir-abono-gratuito-renfe-2023-1176868' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/06/renfe-1980347.jpg?tf=1200x' alt='Cómo conseguir el abono gratuito de Renfe 2023' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/windows-2022-recibio-5000-veces-malware-macos-1176866'>Windows en 2022 recibió 5.000 veces más malware que macOS</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/windows-2022-recibio-5000-veces-malware-macos-1176866' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/12/malware-2164887.jpg?tf=1200x' alt='Windows en 2022 recibió 5.000 veces más malware que macOS' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/azufre-lanza-atmosfera-peligroso-intento-combatir-cambio-climatico-1176838'>Azufre que se lanza a la atmósfera, un peligroso intento de combatir el cambio climático</a></h4>
-    <a href='https://computerhoy.com/ciencia/azufre-lanza-atmosfera-peligroso-intento-combatir-cambio-climatico-1176838' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/azufre-lanza-atmosfera-peligroso-intento-combatir-cambio-climatico-2914478.jpg?tf=1200x' alt='Azufre que se lanza a la atmósfera, un peligroso intento de combatir el cambio climático' />
     </a>
 </div>
 
