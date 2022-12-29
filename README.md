@@ -50,9 +50,25 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/azufre-lanza-atmosfera-peligroso-intento-combatir-cambio-climatico-1176838'>Azufre que se lanza a la atmósfera, un peligroso intento de combatir el cambio climático</a></h4>
+    <a href='https://computerhoy.com/ciencia/azufre-lanza-atmosfera-peligroso-intento-combatir-cambio-climatico-1176838' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/azufre-lanza-atmosfera-peligroso-intento-combatir-cambio-climatico-2914478.jpg?tf=1200x' alt='Azufre que se lanza a la atmósfera, un peligroso intento de combatir el cambio climático' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/reloj-samsung-buscado-desploma-precio-oferta-historica-1176326'>El reloj Samsung más buscado desploma su precio en una oferta histórica</a></h4>
     <a href='https://computerhoy.com/tecnologia/reloj-samsung-buscado-desploma-precio-oferta-historica-1176326' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/samsung-galaxy-watch5-2794525.jpg?tf=1200x' alt='El reloj Samsung más buscado desploma su precio en una oferta histórica' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/apps-webs-crear-felicitaciones-nochevieja-fin-ano-personalizadas-349149'>Apps y webs para crear felicitaciones de Nochevieja y Fin de Año personalizadas</a></h4>
+    <a href='https://computerhoy.com/life/apps-webs-crear-felicitaciones-nochevieja-fin-ano-personalizadas-349149' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/12/felicitacion-nochevieja-2020-2178551.jpg?tf=1200x' alt='Apps y webs para crear felicitaciones de Nochevieja y Fin de Año personalizadas' />
     </a>
 </div>
 
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/software/lenguajes-programacion-amados-son-distintos-te-haran-ganar-dinero-1176798'>Los lenguajes de programación más amados son distintos a los que te harán ganar más dinero</a></h4>
     <a href='https://computerhoy.com/software/lenguajes-programacion-amados-son-distintos-te-haran-ganar-dinero-1176798' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/programacion-java-2789481.jpg?tf=1200x' alt='Los lenguajes de programación más amados son distintos a los que te harán ganar más dinero' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/vuelve-laliga-dazn-sale-app-movistar-1176788'>Vuelve LaLiga y DAZN sale de la app de Movistar</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/vuelve-laliga-dazn-sale-app-movistar-1176788' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/dazn-movistar-plus-2914348.jpg?tf=1200x' alt='Vuelve LaLiga y DAZN sale de la app de Movistar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/review-lg-qp5-eclair-barra-sonido-compacta-potente-no-apta-todos-usuarios-1176494'>Análisis LG QP5 Éclair, una barra de sonido compacta, potente y no apta para todos los usuarios</a></h4>
-    <a href='https://computerhoy.com/analisis/review-lg-qp5-eclair-barra-sonido-compacta-potente-no-apta-todos-usuarios-1176494' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/analisis-lg-qp5-eclair-2913944.jpg?tf=1200x' alt='Análisis LG QP5 Éclair, una barra de sonido compacta, potente y no apta para todos los usuarios' />
     </a>
 </div>
 
