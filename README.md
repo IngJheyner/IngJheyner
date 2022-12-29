@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/gaming/playstation-5-en-stock-entrega-antes-reyes-1177096'>La PlayStation 5, en stock y con entrega antes de Reyes, aunque con un pero</a></h4>
+    <a href='https://computerhoy.com/gaming/playstation-5-en-stock-entrega-antes-reyes-1177096' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/playstation-5-ps5-2797383.jpg?tf=1200x' alt='La PlayStation 5, en stock y con entrega antes de Reyes, aunque con un pero' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/entretenimiento/mejores-series-terminan-2023-1177088'>Las mejores series que terminarán en 2023</a></h4>
     <a href='https://computerhoy.com/entretenimiento/mejores-series-terminan-2023-1177088' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/umbrella-academy-2590991.jpg?tf=1200x' alt='Las mejores series que terminarán en 2023' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/software/eres-experto-estos-lenguajes-programacion-deberias-actualizarte-1176820'>Si eres experto en estos lenguajes de programación, deberías actualizarte</a></h4>
     <a href='https://computerhoy.com/software/eres-experto-estos-lenguajes-programacion-deberias-actualizarte-1176820' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/09/lenguajes-programacion-2070451.jpg?tf=1200x' alt='Si eres experto en estos lenguajes de programación, deberías actualizarte' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/hogar/samsung-estrena-frigorifico-pantalla-32-pulgadas-perfecto-tiktok-1176998'>Samsung estrena un frigorífico con pantalla de 32 pulgadas perfecto para TikTok</a></h4>
-    <a href='https://computerhoy.com/hogar/samsung-estrena-frigorifico-pantalla-32-pulgadas-perfecto-tiktok-1176998' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/samsung-estrena-frigorifico-pantalla-32-pulgadas-perfecto-tiktok-2915036.jpg?tf=1200x' alt='Samsung estrena un frigorífico con pantalla de 32 pulgadas perfecto para TikTok' />
     </a>
 </div>
 
