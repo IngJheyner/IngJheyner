@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/moviles-samsung-regalo-reyes-magos-1176288'>5 móviles Samsung perfectos para regalar por Reyes Magos (incluso de menos de 200 euros)</a></h4>
+    <a href='https://computerhoy.com/tecnologia/moviles-samsung-regalo-reyes-magos-1176288' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/analisis-samsung-galaxy-s22-ultra-2620749.jpg?tf=1200x' alt='5 móviles Samsung perfectos para regalar por Reyes Magos (incluso de menos de 200 euros)' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/26-noticias-tecnologia-comenzar-manana-informado-ultimo-1176772'>26 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
+    <a href='https://computerhoy.com/tecnologia/26-noticias-tecnologia-comenzar-manana-informado-ultimo-1176772' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/26-noticias-tecnologia-comenzar-manana-informado-ultimo-2914316.jpg?tf=1200x' alt='26 noticias de tecnología para comenzar la mañana informado de lo último' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciencia/asentamiento-maya-desconocido-guatemala-960-edificios-lidar-1176768'>Descubre un asentamiento maya desconocido en Guatemala con más de 960 edificios, gracias al LiDAR</a></h4>
     <a href='https://computerhoy.com/ciencia/asentamiento-maya-desconocido-guatemala-960-edificios-lidar-1176768' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/descubre-asentamiento-maya-desconocido-guatemala-960-edificios-gracias-lidar-2914312.jpg?tf=1200x' alt='Descubre un asentamiento maya desconocido en Guatemala con más de 960 edificios, gracias al LiDAR' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/motor/patinete-xiaomi-electric scooter-4-pro-oferta-230-euros-descuento-1176556'>Ganga para Reyes: el patinete más potente de Xiaomi baja 230 euros</a></h4>
     <a href='https://computerhoy.com/motor/patinete-xiaomi-electric scooter-4-pro-oferta-230-euros-descuento-1176556' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/xiaomi-electric-scooter-4-pro-2728947.jpg?tf=1200x' alt='Ganga para Reyes: el patinete más potente de Xiaomi baja 230 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/star-wars-acolyte-nueva-serie-disney-plus-villanos-sith-1176552'>Star Wars está humanizando cada vez más a los villanos, y continuará en la nueva serie The Acolyte</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/star-wars-acolyte-nueva-serie-disney-plus-villanos-sith-1176552' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/star-wars-humanizando-cada-vez-villanos-continuara-nueva-serie-acolyte-2914056.jpg?tf=1200x' alt='Star Wars está humanizando cada vez más a los villanos, y continuará en la nueva serie The Acolyte' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/streaming/fisura-prime-video-amazon-planea-lanzar-app-video-solo-deportes-directo-1176544'>Fisura en Prime Video: Amazon planea lanzar una app de vídeo solo para deportes en directo</a></h4>
-    <a href='https://computerhoy.com/streaming/fisura-prime-video-amazon-planea-lanzar-app-video-solo-deportes-directo-1176544' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/salon-smart-tv-amazon-prime-video-2509627.jpg?tf=1200x' alt='Fisura en Prime Video: Amazon planea lanzar una app de vídeo solo para deportes en directo' />
     </a>
 </div>
 
