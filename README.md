@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/mejores-series-terminan-2023-1177088'>Las mejores series que terminarán en 2023</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/mejores-series-terminan-2023-1177088' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/umbrella-academy-2590991.jpg?tf=1200x' alt='Las mejores series que terminarán en 2023' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/pasaria-twitter-declara-bancarrota-1177084'>Esto es lo que pasaría si Twitter se declara en bancarrota</a></h4>
+    <a href='https://computerhoy.com/apps/pasaria-twitter-declara-bancarrota-1177084' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/twitter-2915130.jpg?tf=1200x' alt='Esto es lo que pasaría si Twitter se declara en bancarrota' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/motor/estrena-primer-proyecto-carretera-publica-carga-inalambrica-europa-1177082'>Se estrena el primer proyecto de carretera pública de carga inalámbrica en Europa</a></h4>
+    <a href='https://computerhoy.com/motor/estrena-primer-proyecto-carretera-publica-carga-inalambrica-europa-1177082' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/coche-electrico-2915122.jpg?tf=1200x' alt='Se estrena el primer proyecto de carretera pública de carga inalámbrica en Europa' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/software/eres-experto-estos-lenguajes-programacion-deberias-actualizarte-1176820'>Si eres experto en estos lenguajes de programación, deberías actualizarte</a></h4>
     <a href='https://computerhoy.com/software/eres-experto-estos-lenguajes-programacion-deberias-actualizarte-1176820' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/09/lenguajes-programacion-2070451.jpg?tf=1200x' alt='Si eres experto en estos lenguajes de programación, deberías actualizarte' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/hogar/samsung-estrena-frigorifico-pantalla-32-pulgadas-perfecto-tiktok-1176998'>Samsung estrena un frigorífico con pantalla de 32 pulgadas perfecto para TikTok</a></h4>
     <a href='https://computerhoy.com/hogar/samsung-estrena-frigorifico-pantalla-32-pulgadas-perfecto-tiktok-1176998' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/samsung-estrena-frigorifico-pantalla-32-pulgadas-perfecto-tiktok-2915036.jpg?tf=1200x' alt='Samsung estrena un frigorífico con pantalla de 32 pulgadas perfecto para TikTok' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/alternativas-originales-12-uvas-fin-ano-1170500'>Alternativas originales a las 12 uvas de fin de año</a></h4>
-    <a href='https://computerhoy.com/life/alternativas-originales-12-uvas-fin-ano-1170500' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/12/nochevieja-comer-uvas-2162655.jpg?tf=1200x' alt='Alternativas originales a las 12 uvas de fin de año' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/inteligencia-artificial-plantea-ya-como-nuevo-arma-acabar-redes-iptv-1176860'>La Inteligencia Artificial se plantea ya como el nuevo arma para acabar con las redes IPTV</a></h4>
-    <a href='https://computerhoy.com/tecnologia/inteligencia-artificial-plantea-ya-como-nuevo-arma-acabar-redes-iptv-1176860' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/iptv-2818055.jpg?tf=1200x' alt='La Inteligencia Artificial se plantea ya como el nuevo arma para acabar con las redes IPTV' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/como-conseguir-abono-gratuito-renfe-2023-1176868'>Cómo conseguir el abono gratuito de Renfe 2023</a></h4>
-    <a href='https://computerhoy.com/life/como-conseguir-abono-gratuito-renfe-2023-1176868' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/06/renfe-1980347.jpg?tf=1200x' alt='Cómo conseguir el abono gratuito de Renfe 2023' />
     </a>
 </div>
 
