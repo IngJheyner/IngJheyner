@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/asentamiento-maya-desconocido-guatemala-960-edificios-lidar-1176768'>Descubre un asentamiento maya desconocido en Guatemala con más de 960 edificios, gracias al LiDAR</a></h4>
+    <a href='https://computerhoy.com/ciencia/asentamiento-maya-desconocido-guatemala-960-edificios-lidar-1176768' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/descubre-asentamiento-maya-desconocido-guatemala-960-edificios-gracias-lidar-2914312.jpg?tf=1200x' alt='Descubre un asentamiento maya desconocido en Guatemala con más de 960 edificios, gracias al LiDAR' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apps/microsoft-excel-crear-formulas-rellenar-tablas-forma-automatica-1176766'>Microsoft hace más sencillo crear fórmulas y rellenar tablas en Excel, de forma automática</a></h4>
     <a href='https://computerhoy.com/apps/microsoft-excel-crear-formulas-rellenar-tablas-forma-automatica-1176766' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/microsoft-hace-sencillo-crear-formulas-rellenar-tablas-excel-forma-automatica-2914310.jpg?tf=1200x' alt='Microsoft hace más sencillo crear fórmulas y rellenar tablas en Excel, de forma automática' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/streaming/fisura-prime-video-amazon-planea-lanzar-app-video-solo-deportes-directo-1176544'>Fisura en Prime Video: Amazon planea lanzar una app de vídeo solo para deportes en directo</a></h4>
     <a href='https://computerhoy.com/streaming/fisura-prime-video-amazon-planea-lanzar-app-video-solo-deportes-directo-1176544' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/salon-smart-tv-amazon-prime-video-2509627.jpg?tf=1200x' alt='Fisura en Prime Video: Amazon planea lanzar una app de vídeo solo para deportes en directo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/adios-despertador-mejor-forma-despertarse-cada-manana-1176538'>Adiós al despertador: esta es la mejor forma de despertarse cada mañana</a></h4>
-    <a href='https://computerhoy.com/life/adios-despertador-mejor-forma-despertarse-cada-manana-1176538' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/despertador-2876087.jpg?tf=1200x' alt='Adiós al despertador: esta es la mejor forma de despertarse cada mañana' />
     </a>
 </div>
 
