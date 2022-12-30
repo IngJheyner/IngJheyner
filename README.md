@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/lastpass-podria-haber-sufrido-brecha-seguridad-critica-expertos-1177040'>LastPass podría haber sufrido una brecha de seguridad crítica, según expertos</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/lastpass-podria-haber-sufrido-brecha-seguridad-critica-expertos-1177040' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/lastpass-2915044.jpg?tf=1200x' alt='LastPass podría haber sufrido una brecha de seguridad crítica, según expertos' />
+    <h4><a href='https://computerhoy.com/moviles/samsung-quiere-camera-assistant-deje-ser-exclusiva-galaxy-s22-anuncia-posibles-nuevos-dispositivos-1177382'>Samsung quiere que Camera Assistant deje de ser exclusiva del Galaxy S22 y anuncia posibles nuevos dispositivos</a></h4>
+    <a href='https://computerhoy.com/moviles/samsung-quiere-camera-assistant-deje-ser-exclusiva-galaxy-s22-anuncia-posibles-nuevos-dispositivos-1177382' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/samsung-quiere-camera-assistant-deje-ser-exclusiva-galaxy-s22-anuncia-nuevos-dispositivos-2915530.jpg?tf=1200x' alt='Samsung quiere que Camera Assistant deje de ser exclusiva del Galaxy S22 y anuncia posibles nuevos dispositivos' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/20-noticias-tecnologia-comenzar-manana-informado-ultimo-1177336'>20 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
-    <a href='https://computerhoy.com/tecnologia/20-noticias-tecnologia-comenzar-manana-informado-ultimo-1177336' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/20-noticias-tecnologia-comenzar-manana-informado-ultimo-2915424.jpg?tf=1200x' alt='20 noticias de tecnología para comenzar la mañana informado de lo último' />
+    <h4><a href='https://computerhoy.com/tecnologia/acierto-seguro-regalas-impresora-bolsillo-xiaomi-ademas-bastante-barata-1176364'>Acierto seguro si regalas esta impresora de bolsillo de Xiaomi, y además es bastante barata</a></h4>
+    <a href='https://computerhoy.com/tecnologia/acierto-seguro-regalas-impresora-bolsillo-xiaomi-ademas-bastante-barata-1176364' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/xiaomi-mi-portable-photo-printer-2913548.jpg?tf=1200x' alt='Acierto seguro si regalas esta impresora de bolsillo de Xiaomi, y además es bastante barata' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/listas/tecnologia/mejores-ratones-ergonomicos-puedes-comprar-383718'>Los mejores ratones ergonómicos que puedes comprar</a></h4>
-    <a href='https://computerhoy.com/listas/tecnologia/mejores-ratones-ergonomicos-puedes-comprar-383718' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/03/rato%CC%81n.jpg?tf=1200x' alt='Los mejores ratones ergonómicos que puedes comprar' />
+    <h4><a href='https://computerhoy.com/windows/estas-seran-actualizaciones-windows-11-2023-1177354'>Estas serán las actualizaciones de Windows 11 para 2023</a></h4>
+    <a href='https://computerhoy.com/windows/estas-seran-actualizaciones-windows-11-2023-1177354' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/casi-mitad-pcs-mercado-no-pueden-actualizar-windows-11-eso-gran-problema-2838905.jpg?tf=1200x' alt='Estas serán las actualizaciones de Windows 11 para 2023' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/cometa-c-2022-e3-cft-tierra-1177334'>Se acerca un cometa que no nos visitaba desde que los mamuts pisaban la Tierra, y podrás verlo a simple vista</a></h4>
-    <a href='https://computerhoy.com/ciencia/cometa-c-2022-e3-cft-tierra-1177334' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/acerca-cometa-no-nos-visitaba-neandertales-pisaban-tierra-podras-verlo-simple-vista-2915202.jpg?tf=1200x' alt='Se acerca un cometa que no nos visitaba desde que los mamuts pisaban la Tierra, y podrás verlo a simple vista' />
+    <h4><a href='https://computerhoy.com/redes-sociales/estados-unidos-posiciona-tiktok-sera-ilegal-dispositivos-gubernamentales-1177356'>Estados Unidos se posiciona en contra de TikTok y será ilegal en los dispositivos gubernamentales</a></h4>
+    <a href='https://computerhoy.com/redes-sociales/estados-unidos-posiciona-tiktok-sera-ilegal-dispositivos-gubernamentales-1177356' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/estados-unidos-posiciona-tiktok-sera-ilegal-dispositivos-gubernamentales-2915458.jpg?tf=1200x' alt='Estados Unidos se posiciona en contra de TikTok y será ilegal en los dispositivos gubernamentales' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/software/inteligencia-artificial-palabra-ano-fundeurae-1177110'>La FundéuRAE elige la Inteligencia Artificial como la Palabra del Año en 2022</a></h4>
-    <a href='https://computerhoy.com/software/inteligencia-artificial-palabra-ano-fundeurae-1177110' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/rae-elige-inteligencia-artificial-como-palabra-ano-2915186.jpg?tf=1200x' alt='La FundéuRAE elige la Inteligencia Artificial como la Palabra del Año en 2022' />
+    <h4><a href='https://computerhoy.com/ciberseguridad/10-contrasenas-inseguras-2022-como-escoger-acertada-1177008'>Las 10 contraseñas más inseguras de 2022 y cómo escoger una más acertada</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/10-contrasenas-inseguras-2022-como-escoger-acertada-1177008' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/10-contrasenas-inseguras-2022-como-escoger-acertada-2914964.jpg?tf=1200x' alt='Las 10 contraseñas más inseguras de 2022 y cómo escoger una más acertada' />
     </a>
 </div>
 
