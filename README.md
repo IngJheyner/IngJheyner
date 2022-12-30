@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/lastpass-podria-haber-sufrido-brecha-seguridad-critica-expertos-1177040'>LastPass podría haber sufrido una brecha de seguridad crítica, según expertos</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/lastpass-podria-haber-sufrido-brecha-seguridad-critica-expertos-1177040' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/lastpass-2915044.jpg?tf=1200x' alt='LastPass podría haber sufrido una brecha de seguridad crítica, según expertos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/20-noticias-tecnologia-comenzar-manana-informado-ultimo-1177336'>20 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
     <a href='https://computerhoy.com/tecnologia/20-noticias-tecnologia-comenzar-manana-informado-ultimo-1177336' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/20-noticias-tecnologia-comenzar-manana-informado-ultimo-2915424.jpg?tf=1200x' alt='20 noticias de tecnología para comenzar la mañana informado de lo último' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/software/inteligencia-artificial-palabra-ano-fundeurae-1177110'>La FundéuRAE elige la Inteligencia Artificial como la Palabra del Año en 2022</a></h4>
     <a href='https://computerhoy.com/software/inteligencia-artificial-palabra-ano-fundeurae-1177110' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/rae-elige-inteligencia-artificial-como-palabra-ano-2915186.jpg?tf=1200x' alt='La FundéuRAE elige la Inteligencia Artificial como la Palabra del Año en 2022' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/postales-navidad-tarjetas-originales-felicitar-ano-nuevo-1171072'>Postales de navidad y tarjetas originales para felicitar el Año Nuevo </a></h4>
-    <a href='https://computerhoy.com/life/postales-navidad-tarjetas-originales-felicitar-ano-nuevo-1171072' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/arbol-navidad-adornado-luces-2895174.jpg?tf=1200x' alt='Postales de navidad y tarjetas originales para felicitar el Año Nuevo ' />
     </a>
 </div>
 
