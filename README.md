@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/imagenes-memes-graciosos-felicitar-ano-nuevo-2023-1172250'>Imágenes y memes graciosos para felicitar el Año Nuevo 2023</a></h4>
+    <a href='https://computerhoy.com/life/imagenes-memes-graciosos-felicitar-ano-nuevo-2023-1172250' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/feliz-2023-2905700.jpg?tf=1200x' alt='Imágenes y memes graciosos para felicitar el Año Nuevo 2023' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/entretenimiento/george-rr-martin-cambios-hbo-afectan-juego-tronos-series-archivadas-1177624'>George R.R. Martin dice que los cambios en HBO ya afectan a Juego de Tronos: dos series "archivadas" y ninguna aprobada</a></h4>
     <a href='https://computerhoy.com/entretenimiento/george-rr-martin-cambios-hbo-afectan-juego-tronos-series-archivadas-1177624' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/03/george-rr-martin-1897093.jpeg?tf=1200x' alt='George R.R. Martin dice que los cambios en HBO ya afectan a Juego de Tronos: dos series "archivadas" y ninguna aprobada' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/motor/tonto-error-pegatina-itv-puede-costarte-multa-1177608'>El tonto error con la pegatina de la ITV que puede costarte una multa</a></h4>
     <a href='https://computerhoy.com/motor/tonto-error-pegatina-itv-puede-costarte-multa-1177608' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/10/itv.jpg?tf=1200x' alt='El tonto error con la pegatina de la ITV que puede costarte una multa' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/familia-pro-max-apple-terminaria-lanzamiento-iphone-15-1177606'>La familia Pro Max de Apple terminaría con el lanzamiento del iPhone 15</a></h4>
-    <a href='https://computerhoy.com/moviles/familia-pro-max-apple-terminaria-lanzamiento-iphone-15-1177606' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/iphone-14-2903090.jpg?tf=1200x' alt='La familia Pro Max de Apple terminaría con el lanzamiento del iPhone 15' />
     </a>
 </div>
 
