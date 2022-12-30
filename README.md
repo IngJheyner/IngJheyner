@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/george-rr-martin-cambios-hbo-afectan-juego-tronos-series-archivadas-1177624'>George R.R. Martin dice que los cambios en HBO ya afectan a Juego de Tronos: dos series "archivadas" y ninguna aprobada</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/george-rr-martin-cambios-hbo-afectan-juego-tronos-series-archivadas-1177624' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/03/george-rr-martin-1897093.jpeg?tf=1200x' alt='George R.R. Martin dice que los cambios en HBO ya afectan a Juego de Tronos: dos series "archivadas" y ninguna aprobada' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/google-home-tenia-vulnerabilidad-permitia-ciberdelincuentes-espiar-conversaciones-1177622'>Google Home tenía una vulnerabilidad que permitía a los ciberdelincuentes espiar las conversaciones</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/google-home-tenia-vulnerabilidad-permitia-ciberdelincuentes-espiar-conversaciones-1177622' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/08/google-home-2045029.jpg?tf=1200x' alt='Google Home tenía una vulnerabilidad que permitía a los ciberdelincuentes espiar las conversaciones' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/streaming/netflix-plataforma-preferida-espanoles-mientras-hbo-max-crece-1177620'>Netflix es la plataforma preferida por los españoles mientras que HBO Max es la que más crece</a></h4>
+    <a href='https://computerhoy.com/streaming/netflix-plataforma-preferida-espanoles-mientras-hbo-max-crece-1177620' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/streaming-2916246.jpg?tf=1200x' alt='Netflix es la plataforma preferida por los españoles mientras que HBO Max es la que más crece' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/motor/tonto-error-pegatina-itv-puede-costarte-multa-1177608'>El tonto error con la pegatina de la ITV que puede costarte una multa</a></h4>
+    <a href='https://computerhoy.com/motor/tonto-error-pegatina-itv-puede-costarte-multa-1177608' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/10/itv.jpg?tf=1200x' alt='El tonto error con la pegatina de la ITV que puede costarte una multa' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/moviles/familia-pro-max-apple-terminaria-lanzamiento-iphone-15-1177606'>La familia Pro Max de Apple terminaría con el lanzamiento del iPhone 15</a></h4>
     <a href='https://computerhoy.com/moviles/familia-pro-max-apple-terminaria-lanzamiento-iphone-15-1177606' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/iphone-14-2903090.jpg?tf=1200x' alt='La familia Pro Max de Apple terminaría con el lanzamiento del iPhone 15' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/amazon/todo-debes-saber-cheques-regalo-amazon-1177460'>Cheques regalo de Amazon: todo lo que debes saber si vas a regalar uno</a></h4>
-    <a href='https://computerhoy.com/amazon/todo-debes-saber-cheques-regalo-amazon-1177460' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/cheque-regalo-amazon-2915946.jpg?tf=1200x' alt='Cheques regalo de Amazon: todo lo que debes saber si vas a regalar uno' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/imagenes-memes-graciosos-felicitar-ano-nuevo-2023-987875'>Imágenes y memes graciosos para felicitar el Año Nuevo 2023</a></h4>
-    <a href='https://computerhoy.com/life/imagenes-memes-graciosos-felicitar-ano-nuevo-2023-987875' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/2023-2909442.jpg?tf=1200x' alt='Imágenes y memes graciosos para felicitar el Año Nuevo 2023' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/piratas-tambien-tienen-espiritu-navideno-solo-casa-pelicula-descargada-navidades-1177590'>Los piratas también tienen espíritu navideño y ‘Solo en casa’ es la película más descargada en navidades</a></h4>
-    <a href='https://computerhoy.com/internet/piratas-tambien-tienen-espiritu-navideno-solo-casa-pelicula-descargada-navidades-1177590' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/solo-casa-2525599.jpg?tf=1200x' alt='Los piratas también tienen espíritu navideño y ‘Solo en casa’ es la película más descargada en navidades' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/series-ver-ultimo-fin-semana-ano-2023-netflix-hbo-max-disney-1177558'>Qué series ver el último fin de semana del año 2023 en Netflix, HBO Max y Disney+</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/series-ver-ultimo-fin-semana-ano-2023-netflix-hbo-max-disney-1177558' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/series-ver-final-ano-2022-perfectas-ano-nuevo-2916122.jpg?tf=1200x' alt='Qué series ver el último fin de semana del año 2023 en Netflix, HBO Max y Disney+' />
     </a>
 </div>
 
