@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/20-noticias-tecnologia-comenzar-manana-informado-ultimo-1177336'>20 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
+    <a href='https://computerhoy.com/tecnologia/20-noticias-tecnologia-comenzar-manana-informado-ultimo-1177336' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/20-noticias-tecnologia-comenzar-manana-informado-ultimo-2915424.jpg?tf=1200x' alt='20 noticias de tecnología para comenzar la mañana informado de lo último' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/listas/tecnologia/mejores-ratones-ergonomicos-puedes-comprar-383718'>Los mejores ratones ergonómicos que puedes comprar</a></h4>
+    <a href='https://computerhoy.com/listas/tecnologia/mejores-ratones-ergonomicos-puedes-comprar-383718' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/03/rato%CC%81n.jpg?tf=1200x' alt='Los mejores ratones ergonómicos que puedes comprar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciencia/cometa-c-2022-e3-cft-tierra-1177334'>Se acerca un cometa que no nos visitaba desde que los mamuts pisaban la Tierra, y podrás verlo a simple vista</a></h4>
     <a href='https://computerhoy.com/ciencia/cometa-c-2022-e3-cft-tierra-1177334' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/acerca-cometa-no-nos-visitaba-neandertales-pisaban-tierra-podras-verlo-simple-vista-2915202.jpg?tf=1200x' alt='Se acerca un cometa que no nos visitaba desde que los mamuts pisaban la Tierra, y podrás verlo a simple vista' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/life/postales-navidad-tarjetas-originales-felicitar-ano-nuevo-1171072'>Postales de navidad y tarjetas originales para felicitar el Año Nuevo </a></h4>
     <a href='https://computerhoy.com/life/postales-navidad-tarjetas-originales-felicitar-ano-nuevo-1171072' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/arbol-navidad-adornado-luces-2895174.jpg?tf=1200x' alt='Postales de navidad y tarjetas originales para felicitar el Año Nuevo ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/gaming/playstation-5-en-stock-entrega-antes-reyes-1177096'>La PlayStation 5, en stock y con entrega antes de Reyes, aunque con un pero</a></h4>
-    <a href='https://computerhoy.com/gaming/playstation-5-en-stock-entrega-antes-reyes-1177096' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/playstation-5-ps5-2797383.jpg?tf=1200x' alt='La PlayStation 5, en stock y con entrega antes de Reyes, aunque con un pero' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/mejores-series-terminan-2023-1177088'>Las mejores series que terminarán en 2023</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/mejores-series-terminan-2023-1177088' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/umbrella-academy-2590991.jpg?tf=1200x' alt='Las mejores series que terminarán en 2023' />
     </a>
 </div>
 
