@@ -50,9 +50,17 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/software/inteligencia-artificial-palabra-ano-fundeurae-1177110'>La FundéuRAE elige la Inteligencia Artificial como la Palabra del Año</a></h4>
+    <h4><a href='https://computerhoy.com/ciencia/cometa-c-2022-e3-cft-tierra-1177334'>Se acerca un cometa que no nos visitaba desde que los mamuts pisaban la Tierra, y podrás verlo a simple vista</a></h4>
+    <a href='https://computerhoy.com/ciencia/cometa-c-2022-e3-cft-tierra-1177334' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/acerca-cometa-no-nos-visitaba-neandertales-pisaban-tierra-podras-verlo-simple-vista-2915202.jpg?tf=1200x' alt='Se acerca un cometa que no nos visitaba desde que los mamuts pisaban la Tierra, y podrás verlo a simple vista' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/software/inteligencia-artificial-palabra-ano-fundeurae-1177110'>La FundéuRAE elige la Inteligencia Artificial como la Palabra del Año en 2022</a></h4>
     <a href='https://computerhoy.com/software/inteligencia-artificial-palabra-ano-fundeurae-1177110' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/rae-elige-inteligencia-artificial-como-palabra-ano-2915186.jpg?tf=1200x' alt='La FundéuRAE elige la Inteligencia Artificial como la Palabra del Año' />
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/rae-elige-inteligencia-artificial-como-palabra-ano-2915186.jpg?tf=1200x' alt='La FundéuRAE elige la Inteligencia Artificial como la Palabra del Año en 2022' />
     </a>
 </div>
 
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/entretenimiento/mejores-series-terminan-2023-1177088'>Las mejores series que terminarán en 2023</a></h4>
     <a href='https://computerhoy.com/entretenimiento/mejores-series-terminan-2023-1177088' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/umbrella-academy-2590991.jpg?tf=1200x' alt='Las mejores series que terminarán en 2023' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/pasaria-twitter-declara-bancarrota-1177084'>Esto es lo que pasaría si Twitter se declara en bancarrota</a></h4>
-    <a href='https://computerhoy.com/apps/pasaria-twitter-declara-bancarrota-1177084' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/twitter-2915130.jpg?tf=1200x' alt='Esto es lo que pasaría si Twitter se declara en bancarrota' />
     </a>
 </div>
 
