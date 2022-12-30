@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/peliculas-ver-fin-semana-hbo-max-prime-video-movistarplus-genio-manipulador-warren-top-gun-2-1177392'>Qué películas ver este fin de semana en HBO Max, Prime Video y MovistarPlus+: un genio manipulador, los Warren y Top Gun 2</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/peliculas-ver-fin-semana-hbo-max-prime-video-movistarplus-genio-manipulador-warren-top-gun-2-1177392' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/peliculas-ver-fin-semana-hbo-max-prime-video-movistarplus-genio-manipulador-warren-top-gun-2-2915722.jpg?tf=1200x' alt='Qué películas ver este fin de semana en HBO Max, Prime Video y MovistarPlus+: un genio manipulador, los Warren y Top Gun 2' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/mejores-chistes-cortos-compartir-nochevieja-whatsapp-1172118'>Los mejores chistes cortos para compartir en Nochevieja por WhatsApp</a></h4>
+    <a href='https://computerhoy.com/life/mejores-chistes-cortos-compartir-nochevieja-whatsapp-1172118' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/mejores-chistes-cortos-compartir-nochevieja-whatsapp-2905330.jpg?tf=1200x' alt='Los mejores chistes cortos para compartir en Nochevieja por WhatsApp' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/freidora-aceite-parrilla-mata-dos-pajaros-tiro-modelo-tiene-30eu-descuento-1176814'>Freidora sin aceite y parrilla: mata dos pájaros de un tiro con este modelo que tiene 30€ de descuento</a></h4>
     <a href='https://computerhoy.com/tecnologia/freidora-aceite-parrilla-mata-dos-pajaros-tiro-modelo-tiene-30eu-descuento-1176814' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/moulinex-easy-fry-grill-ez505d10-2914362.jpg?tf=1200x' alt='Freidora sin aceite y parrilla: mata dos pájaros de un tiro con este modelo que tiene 30€ de descuento' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/entretenimiento/netflix-no-ha-tenido-suficiente-witcher-origen-sangre-prepara-spin-1177402'>Netflix no ha tenido suficiente con The Witcher: El origen de la sangre y prepara más spin-off</a></h4>
     <a href='https://computerhoy.com/entretenimiento/netflix-no-ha-tenido-suficiente-witcher-origen-sangre-prepara-spin-1177402' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/witcher-origen-sangre-2910474.jpg?tf=1200x' alt='Netflix no ha tenido suficiente con The Witcher: El origen de la sangre y prepara más spin-off' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/4-formas-comprobar-velocidad-conexion-wifi-windows-1176338'>4 formas de comprobar la velocidad de conexión de tu WiFi en Windows </a></h4>
-    <a href='https://computerhoy.com/tutoriales/4-formas-comprobar-velocidad-conexion-wifi-windows-1176338' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/wifi-2913470.jpg?tf=1200x' alt='4 formas de comprobar la velocidad de conexión de tu WiFi en Windows ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/redes-sociales/mastodon-no-quiere-caer-errores-twitter-rechaza-inversion-1177370'>Mastodon no quiere caer en los errores de Twitter y rechaza inversión</a></h4>
-    <a href='https://computerhoy.com/redes-sociales/mastodon-no-quiere-caer-errores-twitter-rechaza-inversion-1177370' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/logo-mastodon-2866593.jpg?tf=1200x' alt='Mastodon no quiere caer en los errores de Twitter y rechaza inversión' />
     </a>
 </div>
 
