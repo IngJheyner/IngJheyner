@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/motor/como-afecta-invierno-climas-frios-coche-electrico-1177614'>Cómo le afecta el invierno y los climas fríos a tu coche eléctrico</a></h4>
+    <a href='https://computerhoy.com/motor/como-afecta-invierno-climas-frios-coche-electrico-1177614' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/conducir-invierno-2579613.jpg?tf=1200x' alt='Cómo le afecta el invierno y los climas fríos a tu coche eléctrico' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/imagenes-memes-graciosos-felicitar-ano-nuevo-2023-1172250'>Imágenes y memes graciosos para felicitar el Año Nuevo 2023</a></h4>
     <a href='https://computerhoy.com/life/imagenes-memes-graciosos-felicitar-ano-nuevo-2023-1172250' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/feliz-2023-2905700.jpg?tf=1200x' alt='Imágenes y memes graciosos para felicitar el Año Nuevo 2023' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/streaming/netflix-plataforma-preferida-espanoles-mientras-hbo-max-crece-1177620'>Netflix es la plataforma preferida por los españoles mientras que HBO Max es la que más crece</a></h4>
     <a href='https://computerhoy.com/streaming/netflix-plataforma-preferida-espanoles-mientras-hbo-max-crece-1177620' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/streaming-2916246.jpg?tf=1200x' alt='Netflix es la plataforma preferida por los españoles mientras que HBO Max es la que más crece' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/tonto-error-pegatina-itv-puede-costarte-multa-1177608'>El tonto error con la pegatina de la ITV que puede costarte una multa</a></h4>
-    <a href='https://computerhoy.com/motor/tonto-error-pegatina-itv-puede-costarte-multa-1177608' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/10/itv.jpg?tf=1200x' alt='El tonto error con la pegatina de la ITV que puede costarte una multa' />
     </a>
 </div>
 
