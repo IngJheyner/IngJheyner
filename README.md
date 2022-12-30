@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/freidora-aceite-parrilla-mata-dos-pajaros-tiro-modelo-tiene-30eu-descuento-1176814'>Freidora sin aceite y parrilla: mata dos pájaros de un tiro con este modelo que tiene 30€ de descuento</a></h4>
+    <a href='https://computerhoy.com/tecnologia/freidora-aceite-parrilla-mata-dos-pajaros-tiro-modelo-tiene-30eu-descuento-1176814' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/moulinex-easy-fry-grill-ez505d10-2914362.jpg?tf=1200x' alt='Freidora sin aceite y parrilla: mata dos pájaros de un tiro con este modelo que tiene 30€ de descuento' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/moviles/moviles-plegables-despegaran-2023-pese-recesion-mercado-1177400'>Los móviles plegables despegarán en 2023 pese a la recesión del mercado</a></h4>
+    <a href='https://computerhoy.com/moviles/moviles-plegables-despegaran-2023-pese-recesion-mercado-1177400' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/samsung-galaxy-z-flip-4-analisis-opinion-2802983.jpg?tf=1200x' alt='Los móviles plegables despegarán en 2023 pese a la recesión del mercado' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/entretenimiento/netflix-no-ha-tenido-suficiente-witcher-origen-sangre-prepara-spin-1177402'>Netflix no ha tenido suficiente con The Witcher: El origen de la sangre y prepara más spin-off</a></h4>
     <a href='https://computerhoy.com/entretenimiento/netflix-no-ha-tenido-suficiente-witcher-origen-sangre-prepara-spin-1177402' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/witcher-origen-sangre-2910474.jpg?tf=1200x' alt='Netflix no ha tenido suficiente con The Witcher: El origen de la sangre y prepara más spin-off' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/redes-sociales/mastodon-no-quiere-caer-errores-twitter-rechaza-inversion-1177370'>Mastodon no quiere caer en los errores de Twitter y rechaza inversión</a></h4>
     <a href='https://computerhoy.com/redes-sociales/mastodon-no-quiere-caer-errores-twitter-rechaza-inversion-1177370' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/logo-mastodon-2866593.jpg?tf=1200x' alt='Mastodon no quiere caer en los errores de Twitter y rechaza inversión' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/samsung-quiere-camera-assistant-deje-ser-exclusiva-galaxy-s22-anuncia-posibles-nuevos-dispositivos-1177382'>Samsung quiere que Camera Assistant deje de ser exclusiva del Galaxy S22 y anuncia posibles nuevos dispositivos</a></h4>
-    <a href='https://computerhoy.com/moviles/samsung-quiere-camera-assistant-deje-ser-exclusiva-galaxy-s22-anuncia-posibles-nuevos-dispositivos-1177382' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/samsung-quiere-camera-assistant-deje-ser-exclusiva-galaxy-s22-anuncia-nuevos-dispositivos-2915530.jpg?tf=1200x' alt='Samsung quiere que Camera Assistant deje de ser exclusiva del Galaxy S22 y anuncia posibles nuevos dispositivos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/acierto-seguro-regalas-impresora-bolsillo-xiaomi-ademas-bastante-barata-1176364'>Acierto seguro si regalas esta impresora de bolsillo de Xiaomi, y además es bastante barata</a></h4>
-    <a href='https://computerhoy.com/tecnologia/acierto-seguro-regalas-impresora-bolsillo-xiaomi-ademas-bastante-barata-1176364' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/xiaomi-mi-portable-photo-printer-2913548.jpg?tf=1200x' alt='Acierto seguro si regalas esta impresora de bolsillo de Xiaomi, y además es bastante barata' />
     </a>
 </div>
 
