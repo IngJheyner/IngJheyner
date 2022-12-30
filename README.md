@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/moviles/familia-pro-max-apple-terminaria-lanzamiento-iphone-15-1177606'>La familia Pro Max de Apple terminaría con el lanzamiento del iPhone 15</a></h4>
+    <a href='https://computerhoy.com/moviles/familia-pro-max-apple-terminaria-lanzamiento-iphone-15-1177606' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/iphone-14-2903090.jpg?tf=1200x' alt='La familia Pro Max de Apple terminaría con el lanzamiento del iPhone 15' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/amazon/todo-debes-saber-cheques-regalo-amazon-1177460'>Cheques regalo de Amazon: todo lo que debes saber si vas a regalar uno</a></h4>
+    <a href='https://computerhoy.com/amazon/todo-debes-saber-cheques-regalo-amazon-1177460' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/cheque-regalo-amazon-2915946.jpg?tf=1200x' alt='Cheques regalo de Amazon: todo lo que debes saber si vas a regalar uno' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/imagenes-memes-graciosos-felicitar-ano-nuevo-2023-987875'>Imágenes y memes graciosos para felicitar el Año Nuevo 2023</a></h4>
+    <a href='https://computerhoy.com/life/imagenes-memes-graciosos-felicitar-ano-nuevo-2023-987875' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/2023-2909442.jpg?tf=1200x' alt='Imágenes y memes graciosos para felicitar el Año Nuevo 2023' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/internet/piratas-tambien-tienen-espiritu-navideno-solo-casa-pelicula-descargada-navidades-1177590'>Los piratas también tienen espíritu navideño y ‘Solo en casa’ es la película más descargada en navidades</a></h4>
+    <a href='https://computerhoy.com/internet/piratas-tambien-tienen-espiritu-navideno-solo-casa-pelicula-descargada-navidades-1177590' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/solo-casa-2525599.jpg?tf=1200x' alt='Los piratas también tienen espíritu navideño y ‘Solo en casa’ es la película más descargada en navidades' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/entretenimiento/series-ver-ultimo-fin-semana-ano-2023-netflix-hbo-max-disney-1177558'>Qué series ver el último fin de semana del año 2023 en Netflix, HBO Max y Disney+</a></h4>
     <a href='https://computerhoy.com/entretenimiento/series-ver-ultimo-fin-semana-ano-2023-netflix-hbo-max-disney-1177558' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/series-ver-final-ano-2022-perfectas-ano-nuevo-2916122.jpg?tf=1200x' alt='Qué series ver el último fin de semana del año 2023 en Netflix, HBO Max y Disney+' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/peliculas-ver-fin-semana-hbo-max-prime-video-movistarplus-genio-manipulador-warren-top-gun-2-1177392'>Qué películas ver este fin de semana en HBO Max, Prime Video y MovistarPlus+: un genio manipulador, los Warren y Top Gun 2</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/peliculas-ver-fin-semana-hbo-max-prime-video-movistarplus-genio-manipulador-warren-top-gun-2-1177392' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/peliculas-ver-fin-semana-hbo-max-prime-video-movistarplus-genio-manipulador-warren-top-gun-2-2915722.jpg?tf=1200x' alt='Qué películas ver este fin de semana en HBO Max, Prime Video y MovistarPlus+: un genio manipulador, los Warren y Top Gun 2' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/mejores-chistes-cortos-compartir-nochevieja-whatsapp-1172118'>Los mejores chistes cortos para compartir en Nochevieja por WhatsApp</a></h4>
-    <a href='https://computerhoy.com/life/mejores-chistes-cortos-compartir-nochevieja-whatsapp-1172118' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/mejores-chistes-cortos-compartir-nochevieja-whatsapp-2905330.jpg?tf=1200x' alt='Los mejores chistes cortos para compartir en Nochevieja por WhatsApp' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/freidora-aceite-parrilla-mata-dos-pajaros-tiro-modelo-tiene-30eu-descuento-1176814'>Freidora sin aceite y parrilla: mata dos pájaros de un tiro con este modelo que tiene 30€ de descuento</a></h4>
-    <a href='https://computerhoy.com/tecnologia/freidora-aceite-parrilla-mata-dos-pajaros-tiro-modelo-tiene-30eu-descuento-1176814' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/moulinex-easy-fry-grill-ez505d10-2914362.jpg?tf=1200x' alt='Freidora sin aceite y parrilla: mata dos pájaros de un tiro con este modelo que tiene 30€ de descuento' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/moviles-plegables-despegaran-2023-pese-recesion-mercado-1177400'>Los móviles plegables despegarán en 2023 pese a la recesión del mercado</a></h4>
-    <a href='https://computerhoy.com/moviles/moviles-plegables-despegaran-2023-pese-recesion-mercado-1177400' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/samsung-galaxy-z-flip-4-analisis-opinion-2802983.jpg?tf=1200x' alt='Los móviles plegables despegarán en 2023 pese a la recesión del mercado' />
     </a>
 </div>
 
