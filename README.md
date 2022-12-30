@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/hogar/freidora-aire-cosori-oferta-carrefour-1177638'>La freidora top ventas en Amazon está más barata en Carrefour, que le mete 15€ de descuento</a></h4>
+    <a href='https://computerhoy.com/hogar/freidora-aire-cosori-oferta-carrefour-1177638' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/cosori-817915025574-2505521.jpg?tf=1200x' alt='La freidora top ventas en Amazon está más barata en Carrefour, que le mete 15€ de descuento' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/motor/como-afecta-invierno-climas-frios-coche-electrico-1177614'>Cómo le afecta el invierno y los climas fríos a tu coche eléctrico</a></h4>
     <a href='https://computerhoy.com/motor/como-afecta-invierno-climas-frios-coche-electrico-1177614' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/conducir-invierno-2579613.jpg?tf=1200x' alt='Cómo le afecta el invierno y los climas fríos a tu coche eléctrico' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/ciberseguridad/google-home-tenia-vulnerabilidad-permitia-ciberdelincuentes-espiar-conversaciones-1177622'>Google Home tenía una vulnerabilidad que permitía a los ciberdelincuentes espiar las conversaciones</a></h4>
     <a href='https://computerhoy.com/ciberseguridad/google-home-tenia-vulnerabilidad-permitia-ciberdelincuentes-espiar-conversaciones-1177622' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/08/google-home-2045029.jpg?tf=1200x' alt='Google Home tenía una vulnerabilidad que permitía a los ciberdelincuentes espiar las conversaciones' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/streaming/netflix-plataforma-preferida-espanoles-mientras-hbo-max-crece-1177620'>Netflix es la plataforma preferida por los españoles mientras que HBO Max es la que más crece</a></h4>
-    <a href='https://computerhoy.com/streaming/netflix-plataforma-preferida-espanoles-mientras-hbo-max-crece-1177620' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/streaming-2916246.jpg?tf=1200x' alt='Netflix es la plataforma preferida por los españoles mientras que HBO Max es la que más crece' />
     </a>
 </div>
 
