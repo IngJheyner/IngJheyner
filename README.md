@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/series-ver-ultimo-fin-semana-ano-2023-netflix-hbo-max-disney-1177558'>Qué series ver el último fin de semana del año 2023 en Netflix, HBO Max y Disney+</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/series-ver-ultimo-fin-semana-ano-2023-netflix-hbo-max-disney-1177558' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/series-ver-final-ano-2022-perfectas-ano-nuevo-2916122.jpg?tf=1200x' alt='Qué series ver el último fin de semana del año 2023 en Netflix, HBO Max y Disney+' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/entretenimiento/peliculas-ver-fin-semana-hbo-max-prime-video-movistarplus-genio-manipulador-warren-top-gun-2-1177392'>Qué películas ver este fin de semana en HBO Max, Prime Video y MovistarPlus+: un genio manipulador, los Warren y Top Gun 2</a></h4>
     <a href='https://computerhoy.com/entretenimiento/peliculas-ver-fin-semana-hbo-max-prime-video-movistarplus-genio-manipulador-warren-top-gun-2-1177392' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/peliculas-ver-fin-semana-hbo-max-prime-video-movistarplus-genio-manipulador-warren-top-gun-2-2915722.jpg?tf=1200x' alt='Qué películas ver este fin de semana en HBO Max, Prime Video y MovistarPlus+: un genio manipulador, los Warren y Top Gun 2' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/moviles/moviles-plegables-despegaran-2023-pese-recesion-mercado-1177400'>Los móviles plegables despegarán en 2023 pese a la recesión del mercado</a></h4>
     <a href='https://computerhoy.com/moviles/moviles-plegables-despegaran-2023-pese-recesion-mercado-1177400' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/samsung-galaxy-z-flip-4-analisis-opinion-2802983.jpg?tf=1200x' alt='Los móviles plegables despegarán en 2023 pese a la recesión del mercado' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/netflix-no-ha-tenido-suficiente-witcher-origen-sangre-prepara-spin-1177402'>Netflix no ha tenido suficiente con The Witcher: El origen de la sangre y prepara más spin-off</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/netflix-no-ha-tenido-suficiente-witcher-origen-sangre-prepara-spin-1177402' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/witcher-origen-sangre-2910474.jpg?tf=1200x' alt='Netflix no ha tenido suficiente con The Witcher: El origen de la sangre y prepara más spin-off' />
     </a>
 </div>
 
