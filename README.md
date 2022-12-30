@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/software/inteligencia-artificial-palabra-ano-fundeurae-1177110'>La FundéuRAE elige la Inteligencia Artificial como la Palabra del Año</a></h4>
+    <a href='https://computerhoy.com/software/inteligencia-artificial-palabra-ano-fundeurae-1177110' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/rae-elige-inteligencia-artificial-como-palabra-ano-2915186.jpg?tf=1200x' alt='La FundéuRAE elige la Inteligencia Artificial como la Palabra del Año' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/postales-navidad-tarjetas-originales-felicitar-ano-nuevo-1171072'>Postales de navidad y tarjetas originales para felicitar el Año Nuevo </a></h4>
+    <a href='https://computerhoy.com/life/postales-navidad-tarjetas-originales-felicitar-ano-nuevo-1171072' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/arbol-navidad-adornado-luces-2895174.jpg?tf=1200x' alt='Postales de navidad y tarjetas originales para felicitar el Año Nuevo ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/gaming/playstation-5-en-stock-entrega-antes-reyes-1177096'>La PlayStation 5, en stock y con entrega antes de Reyes, aunque con un pero</a></h4>
     <a href='https://computerhoy.com/gaming/playstation-5-en-stock-entrega-antes-reyes-1177096' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/playstation-5-ps5-2797383.jpg?tf=1200x' alt='La PlayStation 5, en stock y con entrega antes de Reyes, aunque con un pero' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/apps/pasaria-twitter-declara-bancarrota-1177084'>Esto es lo que pasaría si Twitter se declara en bancarrota</a></h4>
     <a href='https://computerhoy.com/apps/pasaria-twitter-declara-bancarrota-1177084' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/twitter-2915130.jpg?tf=1200x' alt='Esto es lo que pasaría si Twitter se declara en bancarrota' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/estrena-primer-proyecto-carretera-publica-carga-inalambrica-europa-1177082'>Se estrena el primer proyecto de carretera pública de carga inalámbrica en Europa</a></h4>
-    <a href='https://computerhoy.com/motor/estrena-primer-proyecto-carretera-publica-carga-inalambrica-europa-1177082' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/coche-electrico-2915122.jpg?tf=1200x' alt='Se estrena el primer proyecto de carretera pública de carga inalámbrica en Europa' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/software/eres-experto-estos-lenguajes-programacion-deberias-actualizarte-1176820'>Si eres experto en estos lenguajes de programación, deberías actualizarte</a></h4>
-    <a href='https://computerhoy.com/software/eres-experto-estos-lenguajes-programacion-deberias-actualizarte-1176820' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/09/lenguajes-programacion-2070451.jpg?tf=1200x' alt='Si eres experto en estos lenguajes de programación, deberías actualizarte' />
     </a>
 </div>
 
