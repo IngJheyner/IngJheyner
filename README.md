@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/analisis/review-pixel-7-posiblemente-mejor-camara-movil-debajo-650-euros-1176936'>Análisis del Pixel 7, posiblemente la mejor cámara en un móvil por debajo de los 650 euros</a></h4>
+    <a href='https://computerhoy.com/analisis/review-pixel-7-posiblemente-mejor-camara-movil-debajo-650-euros-1176936' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/analisis-pixel-7-2914798.jpg?tf=1200x' alt='Análisis del Pixel 7, posiblemente la mejor cámara en un móvil por debajo de los 650 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/analisis/review-opinion-creative-muvo-go-equilibrio-altavoz-1168232'>Análisis y opinión del Creative Muvo Go, el equilibrio en un altavoz</a></h4>
+    <a href='https://computerhoy.com/analisis/review-opinion-creative-muvo-go-equilibrio-altavoz-1168232' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/creative-muvo-go-2898220.jpg?tf=1200x' alt='Análisis y opinión del Creative Muvo Go, el equilibrio en un altavoz' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/5-mejores-juegos-mesa-cartas-disfrutar-familia-estas-navidades-1175170'>Los 5 mejores juegos de mesa y cartas para disfrutar en familia estas navidades</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/5-mejores-juegos-mesa-cartas-disfrutar-familia-estas-navidades-1175170' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/5-mejores-juegos-mesa-cartas-disfrutar-familia-estas-navidades-2911394.jpg?tf=1200x' alt='Los 5 mejores juegos de mesa y cartas para disfrutar en familia estas navidades' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tv/truco-ver-bien-tele-nochevieja-estas-navidades-casa-padres-suegros-1175756'>El truco para ver bien la tele en Nochevieja y estas navidades en casa de tus padres o suegros</a></h4>
+    <a href='https://computerhoy.com/tv/truco-ver-bien-tele-nochevieja-estas-navidades-casa-padres-suegros-1175756' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/analisis-fire-tv-stick-2020-2224117.jpg?tf=1200x' alt='El truco para ver bien la tele en Nochevieja y estas navidades en casa de tus padres o suegros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/memes-whatsapp-felicitar-nochevieja-ano-nuevo-2023-1172852'>Memes de WhatsApp para felicitar Nochevieja y el Año Nuevo 2023</a></h4>
     <a href='https://computerhoy.com/life/memes-whatsapp-felicitar-nochevieja-ano-nuevo-2023-1172852' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/nochevieja-2906974.jpg?tf=1200x' alt='Memes de WhatsApp para felicitar Nochevieja y el Año Nuevo 2023' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-samsung-892935'>Los mejores móviles Samsung que puedes comprar según tu presupuesto</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-samsung-892935' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/samsung-galaxy-z-flip-4-analisis-opinion-2802957.jpg?tf=1200x' alt='Los mejores móviles Samsung que puedes comprar según tu presupuesto' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/neko-hodai-subscripcion-adoptar-devolver-gatos-japon-1177838'>Neko Hodai, la suscripción para adoptar y devolver todos los gatos que quieras, genera polémica en Japón</a></h4>
-    <a href='https://computerhoy.com/life/neko-hodai-subscripcion-adoptar-devolver-gatos-japon-1177838' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/neko-hodai-subscripcion-donde-puedes-adoptar-devolver-todos-gatos-quieras-genera-polemica-japon-2916478.jpg?tf=1200x' alt='Neko Hodai, la suscripción para adoptar y devolver todos los gatos que quieras, genera polémica en Japón' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/estas-son-5-estafas-nos-han-intentado-enganar-2022-1175790'>Estas son las 5 estafas con las que nos han intentado engañar en 2022</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/estas-son-5-estafas-nos-han-intentado-enganar-2022-1175790' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/estafas-timos-bulos-2563469.jpg?tf=1200x' alt='Estas son las 5 estafas con las que nos han intentado engañar en 2022' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/mejores/relojes-inteligentes-relacion-calidad-precio-modelos-recomendados-1176870'>Mejores relojes inteligentes en relación calidad-precio: cuál comprar y modelos recomendados</a></h4>
-    <a href='https://computerhoy.com/mejores/relojes-inteligentes-relacion-calidad-precio-modelos-recomendados-1176870' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/samsung-galaxy-watch-5-pro-analisis-opinion-2809241.jpg?tf=1200x' alt='Mejores relojes inteligentes en relación calidad-precio: cuál comprar y modelos recomendados' />
     </a>
 </div>
 
