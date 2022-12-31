@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/estos-son-10-mejores-lugares-mundo-celebrar-nochevieja-1175996'>Estos son los 10 mejores lugares del mundo para celebrar la Nochevieja</a></h4>
+    <a href='https://computerhoy.com/life/estos-son-10-mejores-lugares-mundo-celebrar-nochevieja-1175996' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/estos-son-10-mejores-lugares-mundo-celebrar-nochevieja-2912954.jpg?tf=1200x' alt='Estos son los 10 mejores lugares del mundo para celebrar la Nochevieja' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/life/mensajes-felicitar-año-2020-553517'>Los mejores mensajes para felicitar el año 2023</a></h4>
+    <a href='https://computerhoy.com/reportajes/life/mensajes-felicitar-año-2020-553517' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/feliz-2023-2915600.jpg?tf=1200x' alt='Los mejores mensajes para felicitar el año 2023' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/analisis/review-pixel-7-posiblemente-mejor-camara-movil-debajo-650-euros-1176936'>Análisis del Pixel 7, posiblemente la mejor cámara en un móvil por debajo de los 650 euros</a></h4>
     <a href='https://computerhoy.com/analisis/review-pixel-7-posiblemente-mejor-camara-movil-debajo-650-euros-1176936' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/analisis-pixel-7-2914798.jpg?tf=1200x' alt='Análisis del Pixel 7, posiblemente la mejor cámara en un móvil por debajo de los 650 euros' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/entretenimiento/5-mejores-juegos-mesa-cartas-disfrutar-familia-estas-navidades-1175170'>Los 5 mejores juegos de mesa y cartas para disfrutar en familia estas navidades</a></h4>
     <a href='https://computerhoy.com/entretenimiento/5-mejores-juegos-mesa-cartas-disfrutar-familia-estas-navidades-1175170' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/5-mejores-juegos-mesa-cartas-disfrutar-familia-estas-navidades-2911394.jpg?tf=1200x' alt='Los 5 mejores juegos de mesa y cartas para disfrutar en familia estas navidades' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tv/truco-ver-bien-tele-nochevieja-estas-navidades-casa-padres-suegros-1175756'>El truco para ver bien la tele en Nochevieja y estas navidades en casa de tus padres o suegros</a></h4>
-    <a href='https://computerhoy.com/tv/truco-ver-bien-tele-nochevieja-estas-navidades-casa-padres-suegros-1175756' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/analisis-fire-tv-stick-2020-2224117.jpg?tf=1200x' alt='El truco para ver bien la tele en Nochevieja y estas navidades en casa de tus padres o suegros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/memes-whatsapp-felicitar-nochevieja-ano-nuevo-2023-1172852'>Memes de WhatsApp para felicitar Nochevieja y el Año Nuevo 2023</a></h4>
-    <a href='https://computerhoy.com/life/memes-whatsapp-felicitar-nochevieja-ano-nuevo-2023-1172852' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/nochevieja-2906974.jpg?tf=1200x' alt='Memes de WhatsApp para felicitar Nochevieja y el Año Nuevo 2023' />
     </a>
 </div>
 
