@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/frases-graciosas-mensajes-divertidos-felicitar-fin-ano-2021-whatsapp-987357'>Frases graciosas y mensajes divertidos para felicitar Fin de Año 2022 por WhatsApp</a></h4>
+    <a href='https://computerhoy.com/noticias/life/frases-graciosas-mensajes-divertidos-felicitar-fin-ano-2021-whatsapp-987357' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/feliz-fin-ano-2022-2915578.jpg?tf=1200x' alt='Frases graciosas y mensajes divertidos para felicitar Fin de Año 2022 por WhatsApp' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/android/fallo-obliga-usuarios-android-auto-volver-atras-tiempo-utilizar-solo-conexion-cable-1177892'>Este fallo obliga a los usuarios de Android Auto a volver atrás en el tiempo y utilizar solo conexión por cable</a></h4>
+    <a href='https://computerhoy.com/android/fallo-obliga-usuarios-android-auto-volver-atras-tiempo-utilizar-solo-conexion-cable-1177892' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/android-auto-coolwalk-2870273.jpg?tf=1200x' alt='Este fallo obliga a los usuarios de Android Auto a volver atrás en el tiempo y utilizar solo conexión por cable' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/felicitaciones-nochevieja-ano-nuevo-2020-552705'>45 felicitaciones de Nochevieja y Año Nuevo 2023 para enviar</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/felicitaciones-nochevieja-ano-nuevo-2020-552705' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/feliz-2023-2915552.jpg?tf=1200x' alt='45 felicitaciones de Nochevieja y Año Nuevo 2023 para enviar' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/apps/novedades-llegan-telegram-antes-final-ano-mensajes-sorpresa-herramientas-dibujo-avanzadas-fotos-perfil-personalizadas-1177878'>Las novedades que llegan a Telegram antes de final de año: mensajes sorpresa, herramientas de dibujo avanzadas y fotos de perfil personalizadas</a></h4>
     <a href='https://computerhoy.com/apps/novedades-llegan-telegram-antes-final-ano-mensajes-sorpresa-herramientas-dibujo-avanzadas-fotos-perfil-personalizadas-1177878' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/telegram-estrena-todas-estas-novedades-antes-final-ano-2916610.jpg?tf=1200x' alt='Las novedades que llegan a Telegram antes de final de año: mensajes sorpresa, herramientas de dibujo avanzadas y fotos de perfil personalizadas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/frases-cortas-diferentes-felicitar-ano-nuevo-familiares-amigos-1173268'>Frases cortas diferentes para felicitar el Año Nuevo a tus familiares y amigos</a></h4>
-    <a href='https://computerhoy.com/life/frases-cortas-diferentes-felicitar-ano-nuevo-familiares-amigos-1173268' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/frases-cortas-diferentes-felicitar-ano-nuevo-familiares-amigos-2907742.jpg?tf=1200x' alt='Frases cortas diferentes para felicitar el Año Nuevo a tus familiares y amigos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/redes-sociales/twitter-te-permitira-deslizar-cambiar-diferentes-vistas-pagina-principal-1177868'>Twitter te permitirá deslizar para cambiar entre diferentes vistas en la página principal</a></h4>
-    <a href='https://computerhoy.com/redes-sociales/twitter-te-permitira-deslizar-cambiar-diferentes-vistas-pagina-principal-1177868' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/twitter-2394883.jpg?tf=1200x' alt='Twitter te permitirá deslizar para cambiar entre diferentes vistas en la página principal' />
     </a>
 </div>
 
