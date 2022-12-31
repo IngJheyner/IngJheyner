@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/pudubot-2-robot-camarero-atiende-mesas-video-1177836'>PuduBot 2, el robot camarero que atiende las mesas (vídeo)</a></h4>
+    <a href='https://computerhoy.com/tecnologia/pudubot-2-robot-camarero-atiende-mesas-video-1177836' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/verticalimage1672451636014-2916474.jpg?tf=1200x' alt='PuduBot 2, el robot camarero que atiende las mesas (vídeo)' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/mejores-gif-animados-felicitar-whatsapp-nochevieja-fin-ano-1172760'>Mejores GIF animados para felicitar por WhatsApp la Nochevieja y el fin de año</a></h4>
+    <a href='https://computerhoy.com/life/mejores-gif-animados-felicitar-whatsapp-nochevieja-fin-ano-1172760' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/mejores-gif-animados-felicitar-whatsapp-nochevieja-fin-ano-2907056.jpg?tf=1200x' alt='Mejores GIF animados para felicitar por WhatsApp la Nochevieja y el fin de año' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/software/atlasos-mod-windows-10-promete-acelerar-juegos-1177648'>AtlasOS, el mod de Windows 10 que promete acelerar los juegos</a></h4>
     <a href='https://computerhoy.com/software/atlasos-mod-windows-10-promete-acelerar-juegos-1177648' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/atlasos-mod-windows-10-promete-acelerar-juegos-2916282.jpg?tf=1200x' alt='AtlasOS, el mod de Windows 10 que promete acelerar los juegos' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/motor/como-afecta-invierno-climas-frios-coche-electrico-1177614'>Cómo le afecta el invierno y los climas fríos a tu coche eléctrico</a></h4>
     <a href='https://computerhoy.com/motor/como-afecta-invierno-climas-frios-coche-electrico-1177614' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/conducir-invierno-2579613.jpg?tf=1200x' alt='Cómo le afecta el invierno y los climas fríos a tu coche eléctrico' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/imagenes-memes-graciosos-felicitar-ano-nuevo-2023-1172250'>Imágenes y memes graciosos para felicitar el Año Nuevo 2023</a></h4>
-    <a href='https://computerhoy.com/life/imagenes-memes-graciosos-felicitar-ano-nuevo-2023-1172250' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/feliz-2023-2905700.jpg?tf=1200x' alt='Imágenes y memes graciosos para felicitar el Año Nuevo 2023' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/george-rr-martin-cambios-hbo-afectan-juego-tronos-series-archivadas-1177624'>George R.R. Martin dice que los cambios en HBO ya afectan a Juego de Tronos: dos series "archivadas" y ninguna aprobada</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/george-rr-martin-cambios-hbo-afectan-juego-tronos-series-archivadas-1177624' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/03/george-rr-martin-1897093.jpeg?tf=1200x' alt='George R.R. Martin dice que los cambios en HBO ya afectan a Juego de Tronos: dos series "archivadas" y ninguna aprobada' />
     </a>
 </div>
 
