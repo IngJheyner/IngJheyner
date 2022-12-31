@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/felicitaciones-nochevieja-ano-nuevo-2020-552705'>45 felicitaciones de Nochevieja y Año Nuevo 2023 para enviar</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/felicitaciones-nochevieja-ano-nuevo-2020-552705' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/feliz-2023-2915552.jpg?tf=1200x' alt='45 felicitaciones de Nochevieja y Año Nuevo 2023 para enviar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/7-peliculas-cuya-trama-desarrolla-nochevieja-no-siempre-bien-1177046'>7 películas cuya trama se desarrolla en Nochevieja, y no siempre para bien</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/7-peliculas-cuya-trama-desarrolla-nochevieja-no-siempre-bien-1177046' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/7-peliculas-cuya-trama-desarrolla-nochevieja-no-siempre-bien-2915120.jpg?tf=1200x' alt='7 películas cuya trama se desarrolla en Nochevieja, y no siempre para bien' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apps/novedades-llegan-telegram-antes-final-ano-mensajes-sorpresa-herramientas-dibujo-avanzadas-fotos-perfil-personalizadas-1177878'>Las novedades que llegan a Telegram antes de final de año: mensajes sorpresa, herramientas de dibujo avanzadas y fotos de perfil personalizadas</a></h4>
     <a href='https://computerhoy.com/apps/novedades-llegan-telegram-antes-final-ano-mensajes-sorpresa-herramientas-dibujo-avanzadas-fotos-perfil-personalizadas-1177878' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/telegram-estrena-todas-estas-novedades-antes-final-ano-2916610.jpg?tf=1200x' alt='Las novedades que llegan a Telegram antes de final de año: mensajes sorpresa, herramientas de dibujo avanzadas y fotos de perfil personalizadas' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/redes-sociales/twitter-te-permitira-deslizar-cambiar-diferentes-vistas-pagina-principal-1177868'>Twitter te permitirá deslizar para cambiar entre diferentes vistas en la página principal</a></h4>
     <a href='https://computerhoy.com/redes-sociales/twitter-te-permitira-deslizar-cambiar-diferentes-vistas-pagina-principal-1177868' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/twitter-2394883.jpg?tf=1200x' alt='Twitter te permitirá deslizar para cambiar entre diferentes vistas en la página principal' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/iphone-menos-500eu-reyes-oferta-posible-1176890'>Un iPhone por menos de 500€ para Reyes: con esta oferta es posible</a></h4>
-    <a href='https://computerhoy.com/tecnologia/iphone-menos-500eu-reyes-oferta-posible-1176890' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/iphone-11-2469763.jpg?tf=1200x' alt='Un iPhone por menos de 500€ para Reyes: con esta oferta es posible' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/estos-son-10-mejores-lugares-mundo-celebrar-nochevieja-1175996'>Estos son los 10 mejores lugares del mundo para celebrar la Nochevieja</a></h4>
-    <a href='https://computerhoy.com/life/estos-son-10-mejores-lugares-mundo-celebrar-nochevieja-1175996' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/estos-son-10-mejores-lugares-mundo-celebrar-nochevieja-2912954.jpg?tf=1200x' alt='Estos son los 10 mejores lugares del mundo para celebrar la Nochevieja' />
     </a>
 </div>
 
