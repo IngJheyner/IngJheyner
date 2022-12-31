@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/memes-whatsapp-felicitar-nochevieja-ano-nuevo-2023-1172852'>Memes de WhatsApp para felicitar Nochevieja y el Año Nuevo 2023</a></h4>
+    <a href='https://computerhoy.com/life/memes-whatsapp-felicitar-nochevieja-ano-nuevo-2023-1172852' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/nochevieja-2906974.jpg?tf=1200x' alt='Memes de WhatsApp para felicitar Nochevieja y el Año Nuevo 2023' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-samsung-892935'>Los mejores móviles Samsung que puedes comprar según tu presupuesto</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-samsung-892935' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/samsung-galaxy-z-flip-4-analisis-opinion-2802957.jpg?tf=1200x' alt='Los mejores móviles Samsung que puedes comprar según tu presupuesto' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/neko-hodai-subscripcion-adoptar-devolver-gatos-japon-1177838'>Neko Hodai, la suscripción para adoptar y devolver todos los gatos que quieras, genera polémica en Japón</a></h4>
+    <a href='https://computerhoy.com/life/neko-hodai-subscripcion-adoptar-devolver-gatos-japon-1177838' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/neko-hodai-subscripcion-donde-puedes-adoptar-devolver-todos-gatos-quieras-genera-polemica-japon-2916478.jpg?tf=1200x' alt='Neko Hodai, la suscripción para adoptar y devolver todos los gatos que quieras, genera polémica en Japón' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciberseguridad/estas-son-5-estafas-nos-han-intentado-enganar-2022-1175790'>Estas son las 5 estafas con las que nos han intentado engañar en 2022</a></h4>
     <a href='https://computerhoy.com/ciberseguridad/estas-son-5-estafas-nos-han-intentado-enganar-2022-1175790' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/estafas-timos-bulos-2563469.jpg?tf=1200x' alt='Estas son las 5 estafas con las que nos han intentado engañar en 2022' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/mejores/relojes-inteligentes-relacion-calidad-precio-modelos-recomendados-1176870'>Mejores relojes inteligentes en relación calidad-precio: cuál comprar y modelos recomendados</a></h4>
     <a href='https://computerhoy.com/mejores/relojes-inteligentes-relacion-calidad-precio-modelos-recomendados-1176870' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/samsung-galaxy-watch-5-pro-analisis-opinion-2809241.jpg?tf=1200x' alt='Mejores relojes inteligentes en relación calidad-precio: cuál comprar y modelos recomendados' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/pudubot-2-robot-camarero-atiende-mesas-video-1177836'>PuduBot 2, el robot camarero que atiende las mesas (vídeo)</a></h4>
-    <a href='https://computerhoy.com/tecnologia/pudubot-2-robot-camarero-atiende-mesas-video-1177836' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/verticalimage1672451636014-2916474.jpg?tf=1200x' alt='PuduBot 2, el robot camarero que atiende las mesas (vídeo)' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/mejores-gif-animados-felicitar-whatsapp-nochevieja-fin-ano-1172760'>Mejores GIF animados para felicitar por WhatsApp la Nochevieja y el fin de año</a></h4>
-    <a href='https://computerhoy.com/life/mejores-gif-animados-felicitar-whatsapp-nochevieja-fin-ano-1172760' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/mejores-gif-animados-felicitar-whatsapp-nochevieja-fin-ano-2907056.jpg?tf=1200x' alt='Mejores GIF animados para felicitar por WhatsApp la Nochevieja y el fin de año' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/software/atlasos-mod-windows-10-promete-acelerar-juegos-1177648'>AtlasOS, el mod de Windows 10 que promete acelerar los juegos</a></h4>
-    <a href='https://computerhoy.com/software/atlasos-mod-windows-10-promete-acelerar-juegos-1177648' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/atlasos-mod-windows-10-promete-acelerar-juegos-2916282.jpg?tf=1200x' alt='AtlasOS, el mod de Windows 10 que promete acelerar los juegos' />
     </a>
 </div>
 
