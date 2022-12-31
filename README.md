@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/estas-son-5-estafas-nos-han-intentado-enganar-2022-1175790'>Estas son las 5 estafas con las que nos han intentado engañar en 2022</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/estas-son-5-estafas-nos-han-intentado-enganar-2022-1175790' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/estafas-timos-bulos-2563469.jpg?tf=1200x' alt='Estas son las 5 estafas con las que nos han intentado engañar en 2022' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/mejores/relojes-inteligentes-relacion-calidad-precio-modelos-recomendados-1176870'>Mejores relojes inteligentes en relación calidad-precio: cuál comprar y modelos recomendados</a></h4>
+    <a href='https://computerhoy.com/mejores/relojes-inteligentes-relacion-calidad-precio-modelos-recomendados-1176870' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/samsung-galaxy-watch-5-pro-analisis-opinion-2809241.jpg?tf=1200x' alt='Mejores relojes inteligentes en relación calidad-precio: cuál comprar y modelos recomendados' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/pudubot-2-robot-camarero-atiende-mesas-video-1177836'>PuduBot 2, el robot camarero que atiende las mesas (vídeo)</a></h4>
     <a href='https://computerhoy.com/tecnologia/pudubot-2-robot-camarero-atiende-mesas-video-1177836' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/verticalimage1672451636014-2916474.jpg?tf=1200x' alt='PuduBot 2, el robot camarero que atiende las mesas (vídeo)' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/software/atlasos-mod-windows-10-promete-acelerar-juegos-1177648'>AtlasOS, el mod de Windows 10 que promete acelerar los juegos</a></h4>
     <a href='https://computerhoy.com/software/atlasos-mod-windows-10-promete-acelerar-juegos-1177648' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/atlasos-mod-windows-10-promete-acelerar-juegos-2916282.jpg?tf=1200x' alt='AtlasOS, el mod de Windows 10 que promete acelerar los juegos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/hogar/freidora-aire-cosori-oferta-carrefour-1177638'>La freidora top ventas en Amazon está más barata en Carrefour, que le mete 15€ de descuento</a></h4>
-    <a href='https://computerhoy.com/hogar/freidora-aire-cosori-oferta-carrefour-1177638' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/cosori-817915025574-2505521.jpg?tf=1200x' alt='La freidora top ventas en Amazon está más barata en Carrefour, que le mete 15€ de descuento' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/como-afecta-invierno-climas-frios-coche-electrico-1177614'>Cómo le afecta el invierno y los climas fríos a tu coche eléctrico</a></h4>
-    <a href='https://computerhoy.com/motor/como-afecta-invierno-climas-frios-coche-electrico-1177614' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/conducir-invierno-2579613.jpg?tf=1200x' alt='Cómo le afecta el invierno y los climas fríos a tu coche eléctrico' />
     </a>
 </div>
 
