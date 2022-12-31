@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/software/atlasos-mod-windows-10-promete-acelerar-juegos-1177648'>AtlasOS, el mod de Windows 10 que promete acelerar los juegos</a></h4>
+    <a href='https://computerhoy.com/software/atlasos-mod-windows-10-promete-acelerar-juegos-1177648' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/atlasos-mod-windows-10-promete-acelerar-juegos-2916282.jpg?tf=1200x' alt='AtlasOS, el mod de Windows 10 que promete acelerar los juegos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/hogar/freidora-aire-cosori-oferta-carrefour-1177638'>La freidora top ventas en Amazon está más barata en Carrefour, que le mete 15€ de descuento</a></h4>
     <a href='https://computerhoy.com/hogar/freidora-aire-cosori-oferta-carrefour-1177638' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/cosori-817915025574-2505521.jpg?tf=1200x' alt='La freidora top ventas en Amazon está más barata en Carrefour, que le mete 15€ de descuento' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/entretenimiento/george-rr-martin-cambios-hbo-afectan-juego-tronos-series-archivadas-1177624'>George R.R. Martin dice que los cambios en HBO ya afectan a Juego de Tronos: dos series "archivadas" y ninguna aprobada</a></h4>
     <a href='https://computerhoy.com/entretenimiento/george-rr-martin-cambios-hbo-afectan-juego-tronos-series-archivadas-1177624' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/03/george-rr-martin-1897093.jpeg?tf=1200x' alt='George R.R. Martin dice que los cambios en HBO ya afectan a Juego de Tronos: dos series "archivadas" y ninguna aprobada' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/google-home-tenia-vulnerabilidad-permitia-ciberdelincuentes-espiar-conversaciones-1177622'>Google Home tenía una vulnerabilidad que permitía a los ciberdelincuentes espiar las conversaciones</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/google-home-tenia-vulnerabilidad-permitia-ciberdelincuentes-espiar-conversaciones-1177622' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/08/google-home-2045029.jpg?tf=1200x' alt='Google Home tenía una vulnerabilidad que permitía a los ciberdelincuentes espiar las conversaciones' />
     </a>
 </div>
 
