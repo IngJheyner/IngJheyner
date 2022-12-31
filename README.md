@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/mensajes-imagenes-navidad-felicitar-ano-nuevo-2019-whatsapp-350907'>Mensajes e imágenes de Navidad para felicitar el Año Nuevo 2023 por WhatsApp</a></h4>
+    <a href='https://computerhoy.com/noticias/life/mensajes-imagenes-navidad-felicitar-ano-nuevo-2019-whatsapp-350907' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/feliz-2023-2915616.jpg?tf=1200x' alt='Mensajes e imágenes de Navidad para felicitar el Año Nuevo 2023 por WhatsApp' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/hogar/lugar-casa-nunca-deberias-colocar-television-1177896'>El lugar de tu casa en el que nunca deberías colocar la televisión</a></h4>
+    <a href='https://computerhoy.com/hogar/lugar-casa-nunca-deberias-colocar-television-1177896' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/mujer-viendo-television-navidad-2916638.jpg?tf=1200x' alt='El lugar de tu casa en el que nunca deberías colocar la televisión' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/frases-graciosas-mensajes-divertidos-felicitar-fin-ano-2021-whatsapp-987357'>Frases graciosas y mensajes divertidos para felicitar Fin de Año 2022 por WhatsApp</a></h4>
     <a href='https://computerhoy.com/noticias/life/frases-graciosas-mensajes-divertidos-felicitar-fin-ano-2021-whatsapp-987357' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/feliz-fin-ano-2022-2915578.jpg?tf=1200x' alt='Frases graciosas y mensajes divertidos para felicitar Fin de Año 2022 por WhatsApp' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/felicitaciones-nochevieja-ano-nuevo-2020-552705'>45 felicitaciones de Nochevieja y Año Nuevo 2023 para enviar</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/felicitaciones-nochevieja-ano-nuevo-2020-552705' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/feliz-2023-2915552.jpg?tf=1200x' alt='45 felicitaciones de Nochevieja y Año Nuevo 2023 para enviar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/7-peliculas-cuya-trama-desarrolla-nochevieja-no-siempre-bien-1177046'>7 películas cuya trama se desarrolla en Nochevieja, y no siempre para bien</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/7-peliculas-cuya-trama-desarrolla-nochevieja-no-siempre-bien-1177046' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/7-peliculas-cuya-trama-desarrolla-nochevieja-no-siempre-bien-2915120.jpg?tf=1200x' alt='7 películas cuya trama se desarrolla en Nochevieja, y no siempre para bien' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/novedades-llegan-telegram-antes-final-ano-mensajes-sorpresa-herramientas-dibujo-avanzadas-fotos-perfil-personalizadas-1177878'>Las novedades que llegan a Telegram antes de final de año: mensajes sorpresa, herramientas de dibujo avanzadas y fotos de perfil personalizadas</a></h4>
-    <a href='https://computerhoy.com/apps/novedades-llegan-telegram-antes-final-ano-mensajes-sorpresa-herramientas-dibujo-avanzadas-fotos-perfil-personalizadas-1177878' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/telegram-estrena-todas-estas-novedades-antes-final-ano-2916610.jpg?tf=1200x' alt='Las novedades que llegan a Telegram antes de final de año: mensajes sorpresa, herramientas de dibujo avanzadas y fotos de perfil personalizadas' />
     </a>
 </div>
 
