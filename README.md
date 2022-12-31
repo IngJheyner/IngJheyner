@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/afirman-usar-visor-realidad-virtual-tiene-muchos-beneficios-hacer-ejercicio-gimnasio-1177904'>Afirman que usar un visor de realidad virtual tiene muchos más beneficios que hacer ejercicio en el gimnasio</a></h4>
+    <a href='https://computerhoy.com/life/afirman-usar-visor-realidad-virtual-tiene-muchos-beneficios-hacer-ejercicio-gimnasio-1177904' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/realidad-virtual-2916658.jpg?tf=1200x' alt='Afirman que usar un visor de realidad virtual tiene muchos más beneficios que hacer ejercicio en el gimnasio' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciencia/robot-pinguino-autonomo-usando-transportar-medicamentos-hospital-1177898'>Este robot pingüino autónomo se está usando para transportar medicamentos en un hospital</a></h4>
     <a href='https://computerhoy.com/ciencia/robot-pinguino-autonomo-usando-transportar-medicamentos-hospital-1177898' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/robot-pinguino-lleva-medicamentos-hospital-2916642.jpg?tf=1200x' alt='Este robot pingüino autónomo se está usando para transportar medicamentos en un hospital' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/frases-graciosas-mensajes-divertidos-felicitar-fin-ano-2021-whatsapp-987357'>Frases graciosas y mensajes divertidos para felicitar Fin de Año 2022 por WhatsApp</a></h4>
     <a href='https://computerhoy.com/noticias/life/frases-graciosas-mensajes-divertidos-felicitar-fin-ano-2021-whatsapp-987357' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/feliz-fin-ano-2022-2915578.jpg?tf=1200x' alt='Frases graciosas y mensajes divertidos para felicitar Fin de Año 2022 por WhatsApp' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/android/fallo-obliga-usuarios-android-auto-volver-atras-tiempo-utilizar-solo-conexion-cable-1177892'>Este fallo obliga a los usuarios de Android Auto a volver atrás en el tiempo y utilizar solo conexión por cable</a></h4>
-    <a href='https://computerhoy.com/android/fallo-obliga-usuarios-android-auto-volver-atras-tiempo-utilizar-solo-conexion-cable-1177892' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/android-auto-coolwalk-2870273.jpg?tf=1200x' alt='Este fallo obliga a los usuarios de Android Auto a volver atrás en el tiempo y utilizar solo conexión por cable' />
     </a>
 </div>
 
