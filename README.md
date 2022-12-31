@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/robot-pinguino-autonomo-usando-transportar-medicamentos-hospital-1177898'>Este robot pingüino autónomo se está usando para transportar medicamentos en un hospital</a></h4>
+    <a href='https://computerhoy.com/ciencia/robot-pinguino-autonomo-usando-transportar-medicamentos-hospital-1177898' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/robot-pinguino-lleva-medicamentos-hospital-2916642.jpg?tf=1200x' alt='Este robot pingüino autónomo se está usando para transportar medicamentos en un hospital' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/mensajes-imagenes-navidad-felicitar-ano-nuevo-2019-whatsapp-350907'>Mensajes e imágenes de Navidad para felicitar el Año Nuevo 2023 por WhatsApp</a></h4>
     <a href='https://computerhoy.com/noticias/life/mensajes-imagenes-navidad-felicitar-ano-nuevo-2019-whatsapp-350907' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/feliz-2023-2915616.jpg?tf=1200x' alt='Mensajes e imágenes de Navidad para felicitar el Año Nuevo 2023 por WhatsApp' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/android/fallo-obliga-usuarios-android-auto-volver-atras-tiempo-utilizar-solo-conexion-cable-1177892'>Este fallo obliga a los usuarios de Android Auto a volver atrás en el tiempo y utilizar solo conexión por cable</a></h4>
     <a href='https://computerhoy.com/android/fallo-obliga-usuarios-android-auto-volver-atras-tiempo-utilizar-solo-conexion-cable-1177892' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/android-auto-coolwalk-2870273.jpg?tf=1200x' alt='Este fallo obliga a los usuarios de Android Auto a volver atrás en el tiempo y utilizar solo conexión por cable' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/felicitaciones-nochevieja-ano-nuevo-2020-552705'>45 felicitaciones de Nochevieja y Año Nuevo 2023 para enviar</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/felicitaciones-nochevieja-ano-nuevo-2020-552705' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/feliz-2023-2915552.jpg?tf=1200x' alt='45 felicitaciones de Nochevieja y Año Nuevo 2023 para enviar' />
     </a>
 </div>
 
