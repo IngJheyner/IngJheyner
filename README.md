@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/iphone-menos-500eu-reyes-oferta-posible-1176890'>Un iPhone por menos de 500€ para Reyes: con esta oferta es posible</a></h4>
+    <a href='https://computerhoy.com/tecnologia/iphone-menos-500eu-reyes-oferta-posible-1176890' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/iphone-11-2469763.jpg?tf=1200x' alt='Un iPhone por menos de 500€ para Reyes: con esta oferta es posible' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/estos-son-10-mejores-lugares-mundo-celebrar-nochevieja-1175996'>Estos son los 10 mejores lugares del mundo para celebrar la Nochevieja</a></h4>
     <a href='https://computerhoy.com/life/estos-son-10-mejores-lugares-mundo-celebrar-nochevieja-1175996' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/estos-son-10-mejores-lugares-mundo-celebrar-nochevieja-2912954.jpg?tf=1200x' alt='Estos son los 10 mejores lugares del mundo para celebrar la Nochevieja' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/analisis/review-opinion-creative-muvo-go-equilibrio-altavoz-1168232'>Análisis y opinión del Creative Muvo Go, el equilibrio en un altavoz</a></h4>
     <a href='https://computerhoy.com/analisis/review-opinion-creative-muvo-go-equilibrio-altavoz-1168232' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/creative-muvo-go-2898220.jpg?tf=1200x' alt='Análisis y opinión del Creative Muvo Go, el equilibrio en un altavoz' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/5-mejores-juegos-mesa-cartas-disfrutar-familia-estas-navidades-1175170'>Los 5 mejores juegos de mesa y cartas para disfrutar en familia estas navidades</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/5-mejores-juegos-mesa-cartas-disfrutar-familia-estas-navidades-1175170' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/5-mejores-juegos-mesa-cartas-disfrutar-familia-estas-navidades-2911394.jpg?tf=1200x' alt='Los 5 mejores juegos de mesa y cartas para disfrutar en familia estas navidades' />
     </a>
 </div>
 
