@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/pc/venta-tarjetas-graficas-hunde-nivel-hace-casi-20-anos-1177906'>La venta de tarjetas gráficas se hunde al nivel de hace casi 20 años</a></h4>
+    <a href='https://computerhoy.com/pc/venta-tarjetas-graficas-hunde-nivel-hace-casi-20-anos-1177906' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/rtx-4090-bestia-ocupa-4-slots-disipador-grande-tarjeta-2811281.jpg?tf=1200x' alt='La venta de tarjetas gráficas se hunde al nivel de hace casi 20 años' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/80-atajos-teclado-te-facilitan-vida-usar-gmail-1175840'>Los 80 atajos de teclado que te facilitan la vida al usar Gmail</a></h4>
     <a href='https://computerhoy.com/tecnologia/80-atajos-teclado-te-facilitan-vida-usar-gmail-1175840' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/gmail-2912356.jpg?tf=1200x' alt='Los 80 atajos de teclado que te facilitan la vida al usar Gmail' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/ciberseguridad/conceptos-clave-mundo-ciberseguridad-todo-tienes-saber-1152249'>Los conceptos clave del mundo de la ciberseguridad: esto es todo lo que tienes que saber</a></h4>
     <a href='https://computerhoy.com/ciberseguridad/conceptos-clave-mundo-ciberseguridad-todo-tienes-saber-1152249' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/verticalimage1672417147509-2916128.jpg?tf=1200x' alt='Los conceptos clave del mundo de la ciberseguridad: esto es todo lo que tienes que saber' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/te-preocupa-salud-reloj-fitbit-justo-necesitas-ahora-tiene-50-euros-descuento-1176908'>Si te preocupa tu salud, este reloj de Fitbit es justo lo que necesitas, y ahora tiene 50 euros de descuento</a></h4>
-    <a href='https://computerhoy.com/tecnologia/te-preocupa-salud-reloj-fitbit-justo-necesitas-ahora-tiene-50-euros-descuento-1176908' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/fitbit-sense-2-2898204.jpg?tf=1200x' alt='Si te preocupa tu salud, este reloj de Fitbit es justo lo que necesitas, y ahora tiene 50 euros de descuento' />
     </a>
 </div>
 
