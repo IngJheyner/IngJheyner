@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/conceptos-clave-mundo-ciberseguridad-todo-tienes-saber-1152249'>Los conceptos clave del mundo de la ciberseguridad: esto es todo lo que tienes que saber</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/conceptos-clave-mundo-ciberseguridad-todo-tienes-saber-1152249' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/verticalimage1672417147509-2916128.jpg?tf=1200x' alt='Los conceptos clave del mundo de la ciberseguridad: esto es todo lo que tienes que saber' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/te-preocupa-salud-reloj-fitbit-justo-necesitas-ahora-tiene-50-euros-descuento-1176908'>Si te preocupa tu salud, este reloj de Fitbit es justo lo que necesitas, y ahora tiene 50 euros de descuento</a></h4>
     <a href='https://computerhoy.com/tecnologia/te-preocupa-salud-reloj-fitbit-justo-necesitas-ahora-tiene-50-euros-descuento-1176908' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/fitbit-sense-2-2898204.jpg?tf=1200x' alt='Si te preocupa tu salud, este reloj de Fitbit es justo lo que necesitas, y ahora tiene 50 euros de descuento' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tutoriales/como-pasar-fotos-movil-android-ordenador-1176898'>Cómo pasar las fotos de tu móvil Android a un ordenador</a></h4>
     <a href='https://computerhoy.com/tutoriales/como-pasar-fotos-movil-android-ordenador-1176898' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/sacando-foto-2914482.jpg?tf=1200x' alt='Cómo pasar las fotos de tu móvil Android a un ordenador' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/ciudad-subterranea-derinkuyu-video-1177056'>Tira un muro en su sótano y descubre una ciudad subterránea en donde vivían 20.000 personas (vídeo)</a></h4>
-    <a href='https://computerhoy.com/ciencia/ciudad-subterranea-derinkuyu-video-1177056' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/tira-muro-sotano-descubre-ciudad-subterranea-donde-vivian-20000-personas-2914952.jpg?tf=1200x' alt='Tira un muro en su sótano y descubre una ciudad subterránea en donde vivían 20.000 personas (vídeo)' />
     </a>
 </div>
 
