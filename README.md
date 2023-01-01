@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/6-peliculas-series-hay-estresante-cuenta-atras-1177052'>6 películas y series en los que hay una estresante cuenta atrás</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/6-peliculas-series-hay-estresante-cuenta-atras-1177052' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/argo-2915086.jpg?tf=1200x' alt='6 películas y series en los que hay una estresante cuenta atrás' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/12-hacks-trucos-secretos-iphone-deberias-estar-usando-1170976'>Los 12 hacks y trucos secretos para iPhone que deberías estar usando</a></h4>
     <a href='https://computerhoy.com/tecnologia/12-hacks-trucos-secretos-iphone-deberias-estar-usando-1170976' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/iphone-14-2903090.jpg?tf=1200x' alt='Los 12 hacks y trucos secretos para iPhone que deberías estar usando' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tutoriales/como-activar-stereo-mix-windows-11-grabar-sonido-reproduce-ordenador-1165800'>Cómo activar "Stereo Mix" en Windows 11 y grabar el sonido que reproduce tu ordenador</a></h4>
     <a href='https://computerhoy.com/tutoriales/como-activar-stereo-mix-windows-11-grabar-sonido-reproduce-ordenador-1165800' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/stereo-mix-windows-11-2893862.jpg?tf=1200x' alt='Cómo activar "Stereo Mix" en Windows 11 y grabar el sonido que reproduce tu ordenador' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/ofertas-productos-deporte-casa-ponerte-forma-1177610'>Año nuevo, vida nueva: accesorios para hacer deporte en casa y ponerte en forma en 2023</a></h4>
-    <a href='https://computerhoy.com/life/ofertas-productos-deporte-casa-ponerte-forma-1177610' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/mujer-haciendo-deporte-casa-2916220.jpg?tf=1200x' alt='Año nuevo, vida nueva: accesorios para hacer deporte en casa y ponerte en forma en 2023' />
     </a>
 </div>
 
