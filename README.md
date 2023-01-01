@@ -74,9 +74,9 @@
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/pruebas-evolucion-humana-puedes-encontrar-cuerpo-1177910'>Pruebas de la evolución humana que puedes encontrar en tu cuerpo</a></h4>
+    <h4><a href='https://computerhoy.com/ciencia/pruebas-evolucion-humana-puedes-encontrar-cuerpo-1177910'>Pruebas de la evolución humana que puedes encontrar en tu cuerpo (vídeo)</a></h4>
     <a href='https://computerhoy.com/ciencia/pruebas-evolucion-humana-puedes-encontrar-cuerpo-1177910' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/pruebas-evolucion-humana-puedes-encontrar-cuerpo-2916662.jpg?tf=1200x' alt='Pruebas de la evolución humana que puedes encontrar en tu cuerpo' />
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/pruebas-evolucion-humana-puedes-encontrar-cuerpo-2916662.jpg?tf=1200x' alt='Pruebas de la evolución humana que puedes encontrar en tu cuerpo (vídeo)' />
     </a>
 </div>
 
