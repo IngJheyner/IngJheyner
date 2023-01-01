@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/80-atajos-teclado-te-facilitan-vida-usar-gmail-1175840'>Los 80 atajos de teclado que te facilitan la vida al usar Gmail</a></h4>
+    <a href='https://computerhoy.com/tecnologia/80-atajos-teclado-te-facilitan-vida-usar-gmail-1175840' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/gmail-2912356.jpg?tf=1200x' alt='Los 80 atajos de teclado que te facilitan la vida al usar Gmail' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/entretenimiento/6-peliculas-series-hay-estresante-cuenta-atras-1177052'>6 películas y series en los que hay una estresante cuenta atrás</a></h4>
     <a href='https://computerhoy.com/entretenimiento/6-peliculas-series-hay-estresante-cuenta-atras-1177052' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/argo-2915086.jpg?tf=1200x' alt='6 películas y series en los que hay una estresante cuenta atrás' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/te-preocupa-salud-reloj-fitbit-justo-necesitas-ahora-tiene-50-euros-descuento-1176908'>Si te preocupa tu salud, este reloj de Fitbit es justo lo que necesitas, y ahora tiene 50 euros de descuento</a></h4>
     <a href='https://computerhoy.com/tecnologia/te-preocupa-salud-reloj-fitbit-justo-necesitas-ahora-tiene-50-euros-descuento-1176908' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/fitbit-sense-2-2898204.jpg?tf=1200x' alt='Si te preocupa tu salud, este reloj de Fitbit es justo lo que necesitas, y ahora tiene 50 euros de descuento' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-activar-stereo-mix-windows-11-grabar-sonido-reproduce-ordenador-1165800'>Cómo activar "Stereo Mix" en Windows 11 y grabar el sonido que reproduce tu ordenador</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-activar-stereo-mix-windows-11-grabar-sonido-reproduce-ordenador-1165800' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/stereo-mix-windows-11-2893862.jpg?tf=1200x' alt='Cómo activar "Stereo Mix" en Windows 11 y grabar el sonido que reproduce tu ordenador' />
     </a>
 </div>
 
