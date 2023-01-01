@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/pruebas-evolucion-humana-puedes-encontrar-cuerpo-1177910'>Pruebas de la evolución humana que puedes encontrar en tu cuerpo</a></h4>
+    <a href='https://computerhoy.com/ciencia/pruebas-evolucion-humana-puedes-encontrar-cuerpo-1177910' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/pruebas-evolucion-humana-puedes-encontrar-cuerpo-2916662.jpg?tf=1200x' alt='Pruebas de la evolución humana que puedes encontrar en tu cuerpo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/15-formas-creativas-sacar-partido-chatgpt-1176294'>15 formas creativas de sacar partido a ChatGPT</a></h4>
+    <a href='https://computerhoy.com/tecnologia/15-formas-creativas-sacar-partido-chatgpt-1176294' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/inteligencia-artificial-2913214.jpg?tf=1200x' alt='15 formas creativas de sacar partido a ChatGPT' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/pc/venta-tarjetas-graficas-hunde-nivel-hace-casi-20-anos-1177906'>La venta de tarjetas gráficas se hunde al nivel de hace casi 20 años</a></h4>
     <a href='https://computerhoy.com/pc/venta-tarjetas-graficas-hunde-nivel-hace-casi-20-anos-1177906' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/rtx-4090-bestia-ocupa-4-slots-disipador-grande-tarjeta-2811281.jpg?tf=1200x' alt='La venta de tarjetas gráficas se hunde al nivel de hace casi 20 años' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/entretenimiento/6-peliculas-series-hay-estresante-cuenta-atras-1177052'>6 películas y series en los que hay una estresante cuenta atrás</a></h4>
     <a href='https://computerhoy.com/entretenimiento/6-peliculas-series-hay-estresante-cuenta-atras-1177052' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/argo-2915086.jpg?tf=1200x' alt='6 películas y series en los que hay una estresante cuenta atrás' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/12-hacks-trucos-secretos-iphone-deberias-estar-usando-1170976'>Los 12 hacks y trucos secretos para iPhone que deberías estar usando</a></h4>
-    <a href='https://computerhoy.com/tecnologia/12-hacks-trucos-secretos-iphone-deberias-estar-usando-1170976' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/iphone-14-2903090.jpg?tf=1200x' alt='Los 12 hacks y trucos secretos para iPhone que deberías estar usando' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/conceptos-clave-mundo-ciberseguridad-todo-tienes-saber-1152249'>Los conceptos clave del mundo de la ciberseguridad: esto es todo lo que tienes que saber</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/conceptos-clave-mundo-ciberseguridad-todo-tienes-saber-1152249' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/verticalimage1672417147509-2916128.jpg?tf=1200x' alt='Los conceptos clave del mundo de la ciberseguridad: esto es todo lo que tienes que saber' />
     </a>
 </div>
 
