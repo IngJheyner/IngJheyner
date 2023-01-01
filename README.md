@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/sherlock-holmes-metropolis-alfred-hitchcock-dominio-publico-2023-1177916'>Las últimas novelas de Sherlock Holmes y la película Metrópolis ya son de dominio público: veremos nuevas series, películas y videojuegos</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/sherlock-holmes-metropolis-alfred-hitchcock-dominio-publico-2023-1177916' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/ultimas-novelas-sherlock-holmes-ya-son-dominio-publico-preparate-pare-ver-series-peliculas-videojuegos-2916668.jpg?tf=1200x' alt='Las últimas novelas de Sherlock Holmes y la película Metrópolis ya son de dominio público: veremos nuevas series, películas y videojuegos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciencia/pruebas-evolucion-humana-puedes-encontrar-cuerpo-1177910'>Pruebas de la evolución humana que puedes encontrar en tu cuerpo</a></h4>
     <a href='https://computerhoy.com/ciencia/pruebas-evolucion-humana-puedes-encontrar-cuerpo-1177910' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/pruebas-evolucion-humana-puedes-encontrar-cuerpo-2916662.jpg?tf=1200x' alt='Pruebas de la evolución humana que puedes encontrar en tu cuerpo' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/80-atajos-teclado-te-facilitan-vida-usar-gmail-1175840'>Los 80 atajos de teclado que te facilitan la vida al usar Gmail</a></h4>
     <a href='https://computerhoy.com/tecnologia/80-atajos-teclado-te-facilitan-vida-usar-gmail-1175840' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/gmail-2912356.jpg?tf=1200x' alt='Los 80 atajos de teclado que te facilitan la vida al usar Gmail' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/6-peliculas-series-hay-estresante-cuenta-atras-1177052'>6 películas y series en los que hay una estresante cuenta atrás</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/6-peliculas-series-hay-estresante-cuenta-atras-1177052' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/argo-2915086.jpg?tf=1200x' alt='6 películas y series en los que hay una estresante cuenta atrás' />
     </a>
 </div>
 
