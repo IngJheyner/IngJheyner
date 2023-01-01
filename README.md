@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/12-hacks-trucos-secretos-iphone-deberias-estar-usando-1170976'>Los 12 hacks y trucos secretos para iPhone que deberías estar usando</a></h4>
+    <a href='https://computerhoy.com/tecnologia/12-hacks-trucos-secretos-iphone-deberias-estar-usando-1170976' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/iphone-14-2903090.jpg?tf=1200x' alt='Los 12 hacks y trucos secretos para iPhone que deberías estar usando' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciberseguridad/conceptos-clave-mundo-ciberseguridad-todo-tienes-saber-1152249'>Los conceptos clave del mundo de la ciberseguridad: esto es todo lo que tienes que saber</a></h4>
     <a href='https://computerhoy.com/ciberseguridad/conceptos-clave-mundo-ciberseguridad-todo-tienes-saber-1152249' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/verticalimage1672417147509-2916128.jpg?tf=1200x' alt='Los conceptos clave del mundo de la ciberseguridad: esto es todo lo que tienes que saber' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/life/ofertas-productos-deporte-casa-ponerte-forma-1177610'>Año nuevo, vida nueva: accesorios para hacer deporte en casa y ponerte en forma en 2023</a></h4>
     <a href='https://computerhoy.com/life/ofertas-productos-deporte-casa-ponerte-forma-1177610' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/mujer-haciendo-deporte-casa-2916220.jpg?tf=1200x' alt='Año nuevo, vida nueva: accesorios para hacer deporte en casa y ponerte en forma en 2023' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-pasar-fotos-movil-android-ordenador-1176898'>Cómo pasar las fotos de tu móvil Android a un ordenador</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-pasar-fotos-movil-android-ordenador-1176898' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/sacando-foto-2914482.jpg?tf=1200x' alt='Cómo pasar las fotos de tu móvil Android a un ordenador' />
     </a>
 </div>
 
