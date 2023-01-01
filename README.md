@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/ofertas-productos-deporte-casa-ponerte-forma-1177610'>Año nuevo, vida nueva: accesorios para hacer deporte en casa y ponerte en forma en 2023</a></h4>
+    <a href='https://computerhoy.com/life/ofertas-productos-deporte-casa-ponerte-forma-1177610' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/mujer-haciendo-deporte-casa-2916220.jpg?tf=1200x' alt='Año nuevo, vida nueva: accesorios para hacer deporte en casa y ponerte en forma en 2023' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-pasar-fotos-movil-android-ordenador-1176898'>Cómo pasar las fotos de tu móvil Android a un ordenador</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-pasar-fotos-movil-android-ordenador-1176898' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/sacando-foto-2914482.jpg?tf=1200x' alt='Cómo pasar las fotos de tu móvil Android a un ordenador' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciencia/ciudad-subterranea-derinkuyu-video-1177056'>Tira un muro en su sótano y descubre una ciudad subterránea en donde vivían 20.000 personas (vídeo)</a></h4>
     <a href='https://computerhoy.com/ciencia/ciudad-subterranea-derinkuyu-video-1177056' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/tira-muro-sotano-descubre-ciudad-subterranea-donde-vivian-20000-personas-2914952.jpg?tf=1200x' alt='Tira un muro en su sótano y descubre una ciudad subterránea en donde vivían 20.000 personas (vídeo)' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/life/afirman-usar-visor-realidad-virtual-tiene-muchos-beneficios-hacer-ejercicio-gimnasio-1177904'>Afirman que usar un visor de realidad virtual tiene muchos más beneficios que hacer ejercicio en el gimnasio</a></h4>
     <a href='https://computerhoy.com/life/afirman-usar-visor-realidad-virtual-tiene-muchos-beneficios-hacer-ejercicio-gimnasio-1177904' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/realidad-virtual-2916658.jpg?tf=1200x' alt='Afirman que usar un visor de realidad virtual tiene muchos más beneficios que hacer ejercicio en el gimnasio' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/robot-pinguino-autonomo-usando-transportar-medicamentos-hospital-1177898'>Este robot pingüino autónomo se está usando para transportar medicamentos en un hospital</a></h4>
-    <a href='https://computerhoy.com/ciencia/robot-pinguino-autonomo-usando-transportar-medicamentos-hospital-1177898' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/robot-pinguino-lleva-medicamentos-hospital-2916642.jpg?tf=1200x' alt='Este robot pingüino autónomo se está usando para transportar medicamentos en un hospital' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/mensajes-imagenes-navidad-felicitar-ano-nuevo-2019-whatsapp-350907'>Mensajes e imágenes de Navidad para felicitar el Año Nuevo 2023 por WhatsApp</a></h4>
-    <a href='https://computerhoy.com/noticias/life/mensajes-imagenes-navidad-felicitar-ano-nuevo-2019-whatsapp-350907' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/feliz-2023-2915616.jpg?tf=1200x' alt='Mensajes e imágenes de Navidad para felicitar el Año Nuevo 2023 por WhatsApp' />
     </a>
 </div>
 
