@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/te-preocupa-salud-reloj-fitbit-justo-necesitas-ahora-tiene-50-euros-descuento-1176908'>Si te preocupa tu salud, este reloj de Fitbit es justo lo que necesitas, y ahora tiene 50 euros de descuento</a></h4>
+    <a href='https://computerhoy.com/tecnologia/te-preocupa-salud-reloj-fitbit-justo-necesitas-ahora-tiene-50-euros-descuento-1176908' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/fitbit-sense-2-2898204.jpg?tf=1200x' alt='Si te preocupa tu salud, este reloj de Fitbit es justo lo que necesitas, y ahora tiene 50 euros de descuento' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-activar-stereo-mix-windows-11-grabar-sonido-reproduce-ordenador-1165800'>Cómo activar "Stereo Mix" en Windows 11 y grabar el sonido que reproduce tu ordenador</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-activar-stereo-mix-windows-11-grabar-sonido-reproduce-ordenador-1165800' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/stereo-mix-windows-11-2893862.jpg?tf=1200x' alt='Cómo activar "Stereo Mix" en Windows 11 y grabar el sonido que reproduce tu ordenador' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/ofertas-productos-deporte-casa-ponerte-forma-1177610'>Año nuevo, vida nueva: accesorios para hacer deporte en casa y ponerte en forma en 2023</a></h4>
     <a href='https://computerhoy.com/life/ofertas-productos-deporte-casa-ponerte-forma-1177610' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/mujer-haciendo-deporte-casa-2916220.jpg?tf=1200x' alt='Año nuevo, vida nueva: accesorios para hacer deporte en casa y ponerte en forma en 2023' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/ciencia/ciudad-subterranea-derinkuyu-video-1177056'>Tira un muro en su sótano y descubre una ciudad subterránea en donde vivían 20.000 personas (vídeo)</a></h4>
     <a href='https://computerhoy.com/ciencia/ciudad-subterranea-derinkuyu-video-1177056' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/tira-muro-sotano-descubre-ciudad-subterranea-donde-vivian-20000-personas-2914952.jpg?tf=1200x' alt='Tira un muro en su sótano y descubre una ciudad subterránea en donde vivían 20.000 personas (vídeo)' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-relojes-gps-ninos-908537'>Estos son los mejores relojes con localizador GPS para niños</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-relojes-gps-ninos-908537' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/reloj-smartwatch-nino-2914606.jpg?tf=1200x' alt='Estos son los mejores relojes con localizador GPS para niños' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/afirman-usar-visor-realidad-virtual-tiene-muchos-beneficios-hacer-ejercicio-gimnasio-1177904'>Afirman que usar un visor de realidad virtual tiene muchos más beneficios que hacer ejercicio en el gimnasio</a></h4>
-    <a href='https://computerhoy.com/life/afirman-usar-visor-realidad-virtual-tiene-muchos-beneficios-hacer-ejercicio-gimnasio-1177904' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/realidad-virtual-2916658.jpg?tf=1200x' alt='Afirman que usar un visor de realidad virtual tiene muchos más beneficios que hacer ejercicio en el gimnasio' />
     </a>
 </div>
 
