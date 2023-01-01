@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/ciudad-subterranea-derinkuyu-video-1177056'>Tira un muro en su sótano y descubre una ciudad subterránea en donde vivían 20.000 personas (vídeo)</a></h4>
+    <a href='https://computerhoy.com/ciencia/ciudad-subterranea-derinkuyu-video-1177056' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/tira-muro-sotano-descubre-ciudad-subterranea-donde-vivian-20000-personas-2914952.jpg?tf=1200x' alt='Tira un muro en su sótano y descubre una ciudad subterránea en donde vivían 20.000 personas (vídeo)' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-relojes-gps-ninos-908537'>Estos son los mejores relojes con localizador GPS para niños</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-relojes-gps-ninos-908537' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/reloj-smartwatch-nino-2914606.jpg?tf=1200x' alt='Estos son los mejores relojes con localizador GPS para niños' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/afirman-usar-visor-realidad-virtual-tiene-muchos-beneficios-hacer-ejercicio-gimnasio-1177904'>Afirman que usar un visor de realidad virtual tiene muchos más beneficios que hacer ejercicio en el gimnasio</a></h4>
     <a href='https://computerhoy.com/life/afirman-usar-visor-realidad-virtual-tiene-muchos-beneficios-hacer-ejercicio-gimnasio-1177904' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/realidad-virtual-2916658.jpg?tf=1200x' alt='Afirman que usar un visor de realidad virtual tiene muchos más beneficios que hacer ejercicio en el gimnasio' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/mensajes-imagenes-navidad-felicitar-ano-nuevo-2019-whatsapp-350907'>Mensajes e imágenes de Navidad para felicitar el Año Nuevo 2023 por WhatsApp</a></h4>
     <a href='https://computerhoy.com/noticias/life/mensajes-imagenes-navidad-felicitar-ano-nuevo-2019-whatsapp-350907' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/feliz-2023-2915616.jpg?tf=1200x' alt='Mensajes e imágenes de Navidad para felicitar el Año Nuevo 2023 por WhatsApp' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/hogar/lugar-casa-nunca-deberias-colocar-television-1177896'>El lugar de tu casa en el que nunca deberías colocar la televisión</a></h4>
-    <a href='https://computerhoy.com/hogar/lugar-casa-nunca-deberias-colocar-television-1177896' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/mujer-viendo-television-navidad-2916638.jpg?tf=1200x' alt='El lugar de tu casa en el que nunca deberías colocar la televisión' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/frases-graciosas-mensajes-divertidos-felicitar-fin-ano-2021-whatsapp-987357'>Frases graciosas y mensajes divertidos para felicitar Fin de Año 2022 por WhatsApp</a></h4>
-    <a href='https://computerhoy.com/noticias/life/frases-graciosas-mensajes-divertidos-felicitar-fin-ano-2021-whatsapp-987357' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/feliz-fin-ano-2022-2915578.jpg?tf=1200x' alt='Frases graciosas y mensajes divertidos para felicitar Fin de Año 2022 por WhatsApp' />
     </a>
 </div>
 
