@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/15-trucos-chromeos-sacar-todo-partido-chromebook-1176848'>Los 15 trucos de ChromeOS para sacar todo el partido a tu Chromebook</a></h4>
+    <a href='https://computerhoy.com/tecnologia/15-trucos-chromeos-sacar-todo-partido-chromebook-1176848' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/google-chromeos-2883433.jpg?tf=1200x' alt='Los 15 trucos de ChromeOS para sacar todo el partido a tu Chromebook' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/patologa-forense-desvela-tres-causas-muerte-evitables-te-van-sorprender-1177920'>Una patóloga forense desvela las tres causas de muerte más evitables, y te van a sorprender</a></h4>
+    <a href='https://computerhoy.com/ciencia/patologa-forense-desvela-tres-causas-muerte-evitables-te-van-sorprender-1177920' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/patologa-forense-desvela-tres-causas-muerte-evitables-te-van-sorprender-2916672.jpg?tf=1200x' alt='Una patóloga forense desvela las tres causas de muerte más evitables, y te van a sorprender' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/entretenimiento/sherlock-holmes-metropolis-alfred-hitchcock-dominio-publico-2023-1177916'>Las últimas novelas de Sherlock Holmes y la película Metrópolis ya son de dominio público: veremos nuevas series, películas y videojuegos</a></h4>
     <a href='https://computerhoy.com/entretenimiento/sherlock-holmes-metropolis-alfred-hitchcock-dominio-publico-2023-1177916' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/ultimas-novelas-sherlock-holmes-ya-son-dominio-publico-preparate-pare-ver-series-peliculas-videojuegos-2916668.jpg?tf=1200x' alt='Las últimas novelas de Sherlock Holmes y la película Metrópolis ya son de dominio público: veremos nuevas series, películas y videojuegos' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/15-formas-creativas-sacar-partido-chatgpt-1176294'>15 formas creativas de sacar partido a ChatGPT</a></h4>
     <a href='https://computerhoy.com/tecnologia/15-formas-creativas-sacar-partido-chatgpt-1176294' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/inteligencia-artificial-2913214.jpg?tf=1200x' alt='15 formas creativas de sacar partido a ChatGPT' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/venta-tarjetas-graficas-hunde-nivel-hace-casi-20-anos-1177906'>La venta de tarjetas gráficas se hunde al nivel de hace casi 20 años</a></h4>
-    <a href='https://computerhoy.com/pc/venta-tarjetas-graficas-hunde-nivel-hace-casi-20-anos-1177906' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/rtx-4090-bestia-ocupa-4-slots-disipador-grande-tarjeta-2811281.jpg?tf=1200x' alt='La venta de tarjetas gráficas se hunde al nivel de hace casi 20 años' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/80-atajos-teclado-te-facilitan-vida-usar-gmail-1175840'>Los 80 atajos de teclado que te facilitan la vida al usar Gmail</a></h4>
-    <a href='https://computerhoy.com/tecnologia/80-atajos-teclado-te-facilitan-vida-usar-gmail-1175840' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/gmail-2912356.jpg?tf=1200x' alt='Los 80 atajos de teclado que te facilitan la vida al usar Gmail' />
     </a>
 </div>
 
