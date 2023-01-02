@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/cambiar-bateria-iphone-sera-32-caro-partir-1-marzo-1178580'>Cambiar la batería de un iPhone será un 32% más caro a partir del 1 de marzo</a></h4>
+    <a href='https://computerhoy.com/apple/cambiar-bateria-iphone-sera-32-caro-partir-1-marzo-1178580' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/ya-puedes-reparar-iphone-mac-casa-piezas-originales-apple-2893848.jpg?tf=1200x' alt='Cambiar la batería de un iPhone será un 32% más caro a partir del 1 de marzo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/moviles/iphone-12-oferta-300-euros-menos-iphone-actuales-1178624'>Este iPhone 12 vale 300 euros menos que los iPhone actuales, y sigue siendo muy potente</a></h4>
+    <a href='https://computerhoy.com/moviles/iphone-12-oferta-300-euros-menos-iphone-actuales-1178624' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/iphone-12-color-azul-2499213.jpg?tf=1200x' alt='Este iPhone 12 vale 300 euros menos que los iPhone actuales, y sigue siendo muy potente' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/streaming/laliga-obliga-google-eliminar-apps-iptv-populares-aunque-todavia-puedes-descargarla-1178574'>LaLiga obliga a Google a eliminar una de las apps IPTV más populares, aunque todavía puedes descargarla</a></h4>
     <a href='https://computerhoy.com/streaming/laliga-obliga-google-eliminar-apps-iptv-populares-aunque-todavia-puedes-descargarla-1178574' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/iptv-2852443.jpg?tf=1200x' alt='LaLiga obliga a Google a eliminar una de las apps IPTV más populares, aunque todavía puedes descargarla' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/espacio/nasa-no-quiere-ceder-carrera-espacial-china-no-perder-territorio-lunar-1178606'>La NASA no quiere ceder en la carrera espacial con China para no perder territorio lunar</a></h4>
     <a href='https://computerhoy.com/espacio/nasa-no-quiere-ceder-carrera-espacial-china-no-perder-territorio-lunar-1178606' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/cohete-2862309.jpg?tf=1200x' alt='La NASA no quiere ceder en la carrera espacial con China para no perder territorio lunar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/crean-piel-inteligente-aerosol-utiliza-ia-comprender-cualquier-tarea-1178604'>Crean una piel inteligente en aerosol que utiliza IA para comprender cualquier tarea</a></h4>
-    <a href='https://computerhoy.com/ciencia/crean-piel-inteligente-aerosol-utiliza-ia-comprender-cualquier-tarea-1178604' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/aerosol-2917960.jpg?tf=1200x' alt='Crean una piel inteligente en aerosol que utiliza IA para comprender cualquier tarea' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/software/omite-estos-lenguajes-programacion-quieres-encontrar-empleo-2023-1178526'>Omite estos lenguajes de programación si quieres encontrar empleo en 2023</a></h4>
-    <a href='https://computerhoy.com/software/omite-estos-lenguajes-programacion-quieres-encontrar-empleo-2023-1178526' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/programacion-java-2789481.jpg?tf=1200x' alt='Omite estos lenguajes de programación si quieres encontrar empleo en 2023' />
     </a>
 </div>
 
