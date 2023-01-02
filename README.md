@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/moviles/estas-cogiendo-mal-iphone-aqui-tienes-trucos-accesibilidad-1177470'>Estás cogiendo mal tu iPhone: aquí tienes unos trucos de accesibilidad </a></h4>
+    <a href='https://computerhoy.com/moviles/estas-cogiendo-mal-iphone-aqui-tienes-trucos-accesibilidad-1177470' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/coger-iphone-14-2916008.jpg?tf=1200x' alt='Estás cogiendo mal tu iPhone: aquí tienes unos trucos de accesibilidad ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/29-noticias-tecnologia-comenzar-manana-informado-ultimo-1178300'>29 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
     <a href='https://computerhoy.com/tecnologia/29-noticias-tecnologia-comenzar-manana-informado-ultimo-1178300' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/29-noticias-tecnologia-comenzar-manana-informado-ultimo-2917140.jpg?tf=1200x' alt='29 noticias de tecnología para comenzar la mañana informado de lo último' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/15-trucos-chromeos-sacar-todo-partido-chromebook-1176848'>Los 15 trucos de ChromeOS para sacar todo el partido a tu Chromebook</a></h4>
     <a href='https://computerhoy.com/tecnologia/15-trucos-chromeos-sacar-todo-partido-chromebook-1176848' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/google-chromeos-2883433.jpg?tf=1200x' alt='Los 15 trucos de ChromeOS para sacar todo el partido a tu Chromebook' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/patologa-forense-desvela-tres-causas-muerte-evitables-te-van-sorprender-1177920'>Una patóloga forense desvela las tres causas de muerte más evitables, y te van a sorprender</a></h4>
-    <a href='https://computerhoy.com/ciencia/patologa-forense-desvela-tres-causas-muerte-evitables-te-van-sorprender-1177920' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/patologa-forense-desvela-tres-causas-muerte-evitables-te-van-sorprender-2916672.jpg?tf=1200x' alt='Una patóloga forense desvela las tres causas de muerte más evitables, y te van a sorprender' />
     </a>
 </div>
 
