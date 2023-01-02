@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/consigue-propositos-2023-rompe-malos-habitos-1178344'>Consigue tus propósitos en 2023: rompe con los malos hábitos</a></h4>
+    <a href='https://computerhoy.com/life/consigue-propositos-2023-rompe-malos-habitos-1178344' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/consigue-propositos-2023-rompe-malos-habitos-2917388.jpg?tf=1200x' alt='Consigue tus propósitos en 2023: rompe con los malos hábitos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/6-funciones-ios-llegaran-2023-1178340'>6 funciones de iOS que llegarán en 2023</a></h4>
+    <a href='https://computerhoy.com/apple/6-funciones-ios-llegaran-2023-1178340' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/resumen-novedades-ios-16-2723575.jpg?tf=1200x' alt='6 funciones de iOS que llegarán en 2023' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/desploma-precio-nuevo-garmin-fenix-7-relojes-deportivos-avanzados-mundo-1177410'>Se desploma el precio del nuevo Garmin Fenix 7, uno de los relojes deportivos más avanzados del mundo</a></h4>
     <a href='https://computerhoy.com/tecnologia/desploma-precio-nuevo-garmin-fenix-7-relojes-deportivos-avanzados-mundo-1177410' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/garmin-fenix-7-2915546.jpg?tf=1200x' alt='Se desploma el precio del nuevo Garmin Fenix 7, uno de los relojes deportivos más avanzados del mundo' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/espacio/nasa-comienza-desmontar-analizar-artemis-i-ya-prepara-artemis-ii-2024-1178320'>La NASA comienza a desmontar y analizar Artemis I y ya prepara Artemis II para 2024</a></h4>
     <a href='https://computerhoy.com/espacio/nasa-comienza-desmontar-analizar-artemis-i-ya-prepara-artemis-ii-2024-1178320' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/nasa-comienza-desmontar-analizar-artemis-i-ya-prepara-artemis-ii-2024-2917356.jpg?tf=1200x' alt='La NASA comienza a desmontar y analizar Artemis I y ya prepara Artemis II para 2024' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/como-funciona-justwatch-guia-peliculas-series-streaming-perfecta-1178140'>Qué es y cómo funciona JustWatch, la guía de películas y series en streaming perfecta</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/como-funciona-justwatch-guia-peliculas-series-streaming-perfecta-1178140' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/como-funciona-justwatch-guia-peliculas-series-streaming-perfecta-2916980.jpg?tf=1200x' alt='Qué es y cómo funciona JustWatch, la guía de películas y series en streaming perfecta' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/estas-cogiendo-mal-iphone-aqui-tienes-trucos-accesibilidad-1177470'>Estás cogiendo mal tu iPhone: aquí tienes unos trucos de accesibilidad </a></h4>
-    <a href='https://computerhoy.com/moviles/estas-cogiendo-mal-iphone-aqui-tienes-trucos-accesibilidad-1177470' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/coger-iphone-14-2916008.jpg?tf=1200x' alt='Estás cogiendo mal tu iPhone: aquí tienes unos trucos de accesibilidad ' />
     </a>
 </div>
 
