@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/gasolineras-mantienen-incluso-mejoran-descuento-20-centimos-2023-1178402'>Gasolineras que mantienen e incluso mejoran el descuento de 20 céntimos en 2023</a></h4>
+    <a href='https://computerhoy.com/life/gasolineras-mantienen-incluso-mejoran-descuento-20-centimos-2023-1178402' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/como-saber-te-han-puesto-litros-has-pagado-gasolinera-2825425.jpg?tf=1200x' alt='Gasolineras que mantienen e incluso mejoran el descuento de 20 céntimos en 2023' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/jeremy-renner-actor-interpreta-ojo-halcon-estado-grave-accidente-debido-temporal-1178416'>Jeremy Renner, el actor que interpreta a Ojo de Halcón, en estado grave tras un accidente debido al temporal</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/jeremy-renner-actor-interpreta-ojo-halcon-estado-grave-accidente-debido-temporal-1178416' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/jeremy-renner-2917146.jpg?tf=1200x' alt='Jeremy Renner, el actor que interpreta a Ojo de Halcón, en estado grave tras un accidente debido al temporal' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/calendario-laboral-2023-proximos-dias-festivos-puentes-lugar-residencia-1178420'>Calendario Laboral 2023: próximos días festivos y puentes según tu lugar de residencia</a></h4>
+    <a href='https://computerhoy.com/life/calendario-laboral-2023-proximos-dias-festivos-puentes-lugar-residencia-1178420' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/calendario-laboral-2023-2917444.jpg?tf=1200x' alt='Calendario Laboral 2023: próximos días festivos y puentes según tu lugar de residencia' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/gaming/ya-no-usas-juegos-fisicos-buenas-noticias-hay-ps5-venta-precio-barato-habitual-1178406'>Si ya no usas juegos físicos, buenas noticias: hay PS5 a la venta y a precio más barato de lo habitual</a></h4>
     <a href='https://computerhoy.com/gaming/ya-no-usas-juegos-fisicos-buenas-noticias-hay-ps5-venta-precio-barato-habitual-1178406' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/playstation-5-2917418.jpg?tf=1200x' alt='Si ya no usas juegos físicos, buenas noticias: hay PS5 a la venta y a precio más barato de lo habitual' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/industria/chips-samsung-pierden-peso-tsmc-fabricara-mayoria-snapdragon-8-gen-3-1178390'>Los chips de Samsung pierden peso: TSMC fabricará la mayoría de los Snapdragon 8 Gen 3 </a></h4>
     <a href='https://computerhoy.com/industria/chips-samsung-pierden-peso-tsmc-fabricara-mayoria-snapdragon-8-gen-3-1178390' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/tsmc-2502241.jpg?tf=1200x' alt='Los chips de Samsung pierden peso: TSMC fabricará la mayoría de los Snapdragon 8 Gen 3 ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/lg-presentara-ces-2023-nuevos-auriculares-inalambricos-te-ayudaran-dormir-mejor-1178380'>LG presentará en el CES 2023 sus nuevos auriculares inalámbricos que te ayudarán a dormir mejor</a></h4>
-    <a href='https://computerhoy.com/tecnologia/lg-presentara-ces-2023-nuevos-auriculares-inalambricos-te-ayudaran-dormir-mejor-1178380' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/lg-quiere-duermas-mejor-nuevos-auriculares-2917406.jpg?tf=1200x' alt='LG presentará en el CES 2023 sus nuevos auriculares inalámbricos que te ayudarán a dormir mejor' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/consigue-propositos-2023-rompe-malos-habitos-1178344'>Consigue tus propósitos en 2023: rompe con los malos hábitos</a></h4>
-    <a href='https://computerhoy.com/life/consigue-propositos-2023-rompe-malos-habitos-1178344' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/consigue-propositos-2023-rompe-malos-habitos-2917388.jpg?tf=1200x' alt='Consigue tus propósitos en 2023: rompe con los malos hábitos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/6-funciones-ios-llegaran-2023-1178340'>6 funciones de iOS que llegarán en 2023</a></h4>
-    <a href='https://computerhoy.com/apple/6-funciones-ios-llegaran-2023-1178340' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/resumen-novedades-ios-16-2723575.jpg?tf=1200x' alt='6 funciones de iOS que llegarán en 2023' />
     </a>
 </div>
 
