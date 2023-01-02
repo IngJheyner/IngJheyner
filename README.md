@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/black-panther-wakanda-forever-fecha-estreno-oficial-disney-plus-estreno-1178618'>Black Panther: Wakanda Forever ya tiene fecha de estreno en Disney+, gratis para los suscriptores</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/black-panther-wakanda-forever-fecha-estreno-oficial-disney-plus-estreno-1178618' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/verticalimage1672688303445-2917956.jpg?tf=1200x' alt='Black Panther: Wakanda Forever ya tiene fecha de estreno en Disney+, gratis para los suscriptores' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/espacio/nasa-no-quiere-ceder-carrera-espacial-china-no-perder-territorio-lunar-1178606'>La NASA no quiere ceder en la carrera espacial con China para no perder territorio lunar</a></h4>
+    <a href='https://computerhoy.com/espacio/nasa-no-quiere-ceder-carrera-espacial-china-no-perder-territorio-lunar-1178606' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/cohete-2862309.jpg?tf=1200x' alt='La NASA no quiere ceder en la carrera espacial con China para no perder territorio lunar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/crean-piel-inteligente-aerosol-utiliza-ia-comprender-cualquier-tarea-1178604'>Crean una piel inteligente en aerosol que utiliza IA para comprender cualquier tarea</a></h4>
+    <a href='https://computerhoy.com/ciencia/crean-piel-inteligente-aerosol-utiliza-ia-comprender-cualquier-tarea-1178604' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/aerosol-2917960.jpg?tf=1200x' alt='Crean una piel inteligente en aerosol que utiliza IA para comprender cualquier tarea' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/software/omite-estos-lenguajes-programacion-quieres-encontrar-empleo-2023-1178526'>Omite estos lenguajes de programación si quieres encontrar empleo en 2023</a></h4>
     <a href='https://computerhoy.com/software/omite-estos-lenguajes-programacion-quieres-encontrar-empleo-2023-1178526' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/programacion-java-2789481.jpg?tf=1200x' alt='Omite estos lenguajes de programación si quieres encontrar empleo en 2023' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/guia-comprar-aliexpress-como-funciona-994775'>Guía para comprar en AliExpress en 2022: encuentra las mejores ofertas y evita estafas y malas experiencias</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/guia-comprar-aliexpress-como-funciona-994775' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/iphone-app-store-apple-abierta-perfil-aplicacion-compras-aliexpress-2852811.jpg?tf=1200x' alt='Guía para comprar en AliExpress en 2022: encuentra las mejores ofertas y evita estafas y malas experiencias' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/redes-sociales/elon-musk-da-pistoletazo-salida-trump-podria-recuperar-cuenta-facebook-enero-2023-1178444'>Elon Musk da el pistoletazo de salida: Trump podría recuperar su cuenta de Facebook en enero de 2023</a></h4>
-    <a href='https://computerhoy.com/redes-sociales/elon-musk-da-pistoletazo-salida-trump-podria-recuperar-cuenta-facebook-enero-2023-1178444' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/elon-musk-abrio-puerta-trump-podria-recuperar-cuenta-facebook-2023-2917644.jpg?tf=1200x' alt='Elon Musk da el pistoletazo de salida: Trump podría recuperar su cuenta de Facebook en enero de 2023' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/alimentacion/mercadona-da-nota-lista-mejores-roscones-reyes-supermercado-ocu-1178482'>Mercadona da la nota en la lista de mejores roscones de reyes de supermercado, según la OCU</a></h4>
-    <a href='https://computerhoy.com/alimentacion/mercadona-da-nota-lista-mejores-roscones-reyes-supermercado-ocu-1178482' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/12/roscon-lidl-2169581.jpg?tf=1200x' alt='Mercadona da la nota en la lista de mejores roscones de reyes de supermercado, según la OCU' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/baratos-para-regalar-reyes-magos-llegan-tiempo-1178362'>5 móviles baratos para regalar por Reyes y que llegan a tiempo</a></h4>
-    <a href='https://computerhoy.com/moviles/baratos-para-regalar-reyes-magos-llegan-tiempo-1178362' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/oneplus-nord-2-5g-2414351.jpg?tf=1200x' alt='5 móviles baratos para regalar por Reyes y que llegan a tiempo' />
     </a>
 </div>
 
