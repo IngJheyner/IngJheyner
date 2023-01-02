@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/software/omite-estos-lenguajes-programacion-quieres-encontrar-empleo-2023-1178526'>Omite estos lenguajes de programación si quieres encontrar empleo en 2023</a></h4>
+    <a href='https://computerhoy.com/software/omite-estos-lenguajes-programacion-quieres-encontrar-empleo-2023-1178526' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/programacion-java-2789481.jpg?tf=1200x' alt='Omite estos lenguajes de programación si quieres encontrar empleo en 2023' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/guia-comprar-aliexpress-como-funciona-994775'>Guía para comprar en AliExpress en 2022: encuentra las mejores ofertas y evita estafas y malas experiencias</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/guia-comprar-aliexpress-como-funciona-994775' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/iphone-app-store-apple-abierta-perfil-aplicacion-compras-aliexpress-2852811.jpg?tf=1200x' alt='Guía para comprar en AliExpress en 2022: encuentra las mejores ofertas y evita estafas y malas experiencias' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/moviles/baratos-para-regalar-reyes-magos-llegan-tiempo-1178362'>5 móviles baratos para regalar por Reyes y que llegan a tiempo</a></h4>
     <a href='https://computerhoy.com/moviles/baratos-para-regalar-reyes-magos-llegan-tiempo-1178362' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/oneplus-nord-2-5g-2414351.jpg?tf=1200x' alt='5 móviles baratos para regalar por Reyes y que llegan a tiempo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/ser-socio-ocu-precio-beneficios-diferencia-facua-otras-organizaciones-1175364'>Ser socio de la OCU: precio, beneficios y diferencia con FACUA y otras organizaciones</a></h4>
-    <a href='https://computerhoy.com/internet/ser-socio-ocu-precio-beneficios-diferencia-facua-otras-organizaciones-1175364' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/ocu-2911562.jpg?tf=1200x' alt='Ser socio de la OCU: precio, beneficios y diferencia con FACUA y otras organizaciones' />
     </a>
 </div>
 
