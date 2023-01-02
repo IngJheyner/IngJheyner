@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/29-noticias-tecnologia-comenzar-manana-informado-ultimo-1178300'>29 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
+    <a href='https://computerhoy.com/tecnologia/29-noticias-tecnologia-comenzar-manana-informado-ultimo-1178300' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/29-noticias-tecnologia-comenzar-manana-informado-ultimo-2917140.jpg?tf=1200x' alt='29 noticias de tecnología para comenzar la mañana informado de lo último' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/listas/tecnologia/freidoras-sin-aceite-cual-comprar-509813'>Las mejores freidoras sin aceite que puedes comprar en 2022</a></h4>
+    <a href='https://computerhoy.com/listas/tecnologia/freidoras-sin-aceite-cual-comprar-509813' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/philips-essential-airfryer-2916254.jpg?tf=1200x' alt='Las mejores freidoras sin aceite que puedes comprar en 2022' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciencia/estaciones-radio-am-tienen-apagarse-unas-horas-noche-1177450'>Por qué algunas emisoras de radio AM tienen que apagarse unas horas por la noche</a></h4>
     <a href='https://computerhoy.com/ciencia/estaciones-radio-am-tienen-apagarse-unas-horas-noche-1177450' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/muchas-estaciones-radio-am-tienen-apagarse-unas-horas-noche-2915608.jpg?tf=1200x' alt='Por qué algunas emisoras de radio AM tienen que apagarse unas horas por la noche' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/ciencia/patologa-forense-desvela-tres-causas-muerte-evitables-te-van-sorprender-1177920'>Una patóloga forense desvela las tres causas de muerte más evitables, y te van a sorprender</a></h4>
     <a href='https://computerhoy.com/ciencia/patologa-forense-desvela-tres-causas-muerte-evitables-te-van-sorprender-1177920' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/patologa-forense-desvela-tres-causas-muerte-evitables-te-van-sorprender-2916672.jpg?tf=1200x' alt='Una patóloga forense desvela las tres causas de muerte más evitables, y te van a sorprender' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/sherlock-holmes-metropolis-alfred-hitchcock-dominio-publico-2023-1177916'>Las últimas novelas de Sherlock Holmes y la película Metrópolis ya son de dominio público: veremos nuevas series, películas y videojuegos</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/sherlock-holmes-metropolis-alfred-hitchcock-dominio-publico-2023-1177916' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/ultimas-novelas-sherlock-holmes-ya-son-dominio-publico-preparate-pare-ver-series-peliculas-videojuegos-2916668.jpg?tf=1200x' alt='Las últimas novelas de Sherlock Holmes y la película Metrópolis ya son de dominio público: veremos nuevas series, películas y videojuegos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/pruebas-evolucion-humana-puedes-encontrar-cuerpo-1177910'>Pruebas de la evolución humana que puedes encontrar en tu cuerpo (vídeo)</a></h4>
-    <a href='https://computerhoy.com/ciencia/pruebas-evolucion-humana-puedes-encontrar-cuerpo-1177910' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/pruebas-evolucion-humana-puedes-encontrar-cuerpo-2916662.jpg?tf=1200x' alt='Pruebas de la evolución humana que puedes encontrar en tu cuerpo (vídeo)' />
     </a>
 </div>
 
