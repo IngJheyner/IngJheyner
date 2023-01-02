@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/gaming/ya-no-usas-juegos-fisicos-buenas-noticias-hay-ps5-venta-precio-barato-habitual-1178406'>Si ya no usas juegos físicos, buenas noticias: hay PS5 a la venta y a precio más barato de lo habitual</a></h4>
+    <a href='https://computerhoy.com/gaming/ya-no-usas-juegos-fisicos-buenas-noticias-hay-ps5-venta-precio-barato-habitual-1178406' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/playstation-5-2917418.jpg?tf=1200x' alt='Si ya no usas juegos físicos, buenas noticias: hay PS5 a la venta y a precio más barato de lo habitual' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/industria/chips-samsung-pierden-peso-tsmc-fabricara-mayoria-snapdragon-8-gen-3-1178390'>Los chips de Samsung pierden peso: TSMC fabricará la mayoría de los Snapdragon 8 Gen 3 </a></h4>
+    <a href='https://computerhoy.com/industria/chips-samsung-pierden-peso-tsmc-fabricara-mayoria-snapdragon-8-gen-3-1178390' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/tsmc-2502241.jpg?tf=1200x' alt='Los chips de Samsung pierden peso: TSMC fabricará la mayoría de los Snapdragon 8 Gen 3 ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/lg-presentara-ces-2023-nuevos-auriculares-inalambricos-te-ayudaran-dormir-mejor-1178380'>LG presentará en el CES 2023 sus nuevos auriculares inalámbricos que te ayudarán a dormir mejor</a></h4>
+    <a href='https://computerhoy.com/tecnologia/lg-presentara-ces-2023-nuevos-auriculares-inalambricos-te-ayudaran-dormir-mejor-1178380' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/lg-quiere-duermas-mejor-nuevos-auriculares-2917406.jpg?tf=1200x' alt='LG presentará en el CES 2023 sus nuevos auriculares inalámbricos que te ayudarán a dormir mejor' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/consigue-propositos-2023-rompe-malos-habitos-1178344'>Consigue tus propósitos en 2023: rompe con los malos hábitos</a></h4>
     <a href='https://computerhoy.com/life/consigue-propositos-2023-rompe-malos-habitos-1178344' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/consigue-propositos-2023-rompe-malos-habitos-2917388.jpg?tf=1200x' alt='Consigue tus propósitos en 2023: rompe con los malos hábitos' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/apple/6-funciones-ios-llegaran-2023-1178340'>6 funciones de iOS que llegarán en 2023</a></h4>
     <a href='https://computerhoy.com/apple/6-funciones-ios-llegaran-2023-1178340' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/resumen-novedades-ios-16-2723575.jpg?tf=1200x' alt='6 funciones de iOS que llegarán en 2023' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/desploma-precio-nuevo-garmin-fenix-7-relojes-deportivos-avanzados-mundo-1177410'>Se desploma el precio del nuevo Garmin Fenix 7, uno de los relojes deportivos más avanzados del mundo</a></h4>
-    <a href='https://computerhoy.com/tecnologia/desploma-precio-nuevo-garmin-fenix-7-relojes-deportivos-avanzados-mundo-1177410' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/garmin-fenix-7-2915546.jpg?tf=1200x' alt='Se desploma el precio del nuevo Garmin Fenix 7, uno de los relojes deportivos más avanzados del mundo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/samsung-pone-color-gama-entrada-filtra-samsung-galaxy-a34-1178338'>Samsung le pone color a la gama de entrada: se filtra el Samsung Galaxy A34</a></h4>
-    <a href='https://computerhoy.com/moviles/samsung-pone-color-gama-entrada-filtra-samsung-galaxy-a34-1178338' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/samsung-galaxy-a33-2686681.jpg?tf=1200x' alt='Samsung le pone color a la gama de entrada: se filtra el Samsung Galaxy A34' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/nasa-comienza-desmontar-analizar-artemis-i-ya-prepara-artemis-ii-2024-1178320'>La NASA comienza a desmontar y analizar Artemis I y ya prepara Artemis II para 2024</a></h4>
-    <a href='https://computerhoy.com/espacio/nasa-comienza-desmontar-analizar-artemis-i-ya-prepara-artemis-ii-2024-1178320' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/nasa-comienza-desmontar-analizar-artemis-i-ya-prepara-artemis-ii-2024-2917356.jpg?tf=1200x' alt='La NASA comienza a desmontar y analizar Artemis I y ya prepara Artemis II para 2024' />
     </a>
 </div>
 
