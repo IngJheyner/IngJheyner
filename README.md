@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/desploma-precio-nuevo-garmin-fenix-7-relojes-deportivos-avanzados-mundo-1177410'>Se desploma el precio del nuevo Garmin Fenix 7, uno de los relojes deportivos más avanzados del mundo</a></h4>
+    <a href='https://computerhoy.com/tecnologia/desploma-precio-nuevo-garmin-fenix-7-relojes-deportivos-avanzados-mundo-1177410' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/garmin-fenix-7-2915546.jpg?tf=1200x' alt='Se desploma el precio del nuevo Garmin Fenix 7, uno de los relojes deportivos más avanzados del mundo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/moviles/samsung-pone-color-gama-entrada-filtra-samsung-galaxy-a34-1178338'>Samsung le pone color a la gama de entrada: se filtra el Samsung Galaxy A34</a></h4>
+    <a href='https://computerhoy.com/moviles/samsung-pone-color-gama-entrada-filtra-samsung-galaxy-a34-1178338' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/samsung-galaxy-a33-2686681.jpg?tf=1200x' alt='Samsung le pone color a la gama de entrada: se filtra el Samsung Galaxy A34' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/espacio/nasa-comienza-desmontar-analizar-artemis-i-ya-prepara-artemis-ii-2024-1178320'>La NASA comienza a desmontar y analizar Artemis I y ya prepara Artemis II para 2024</a></h4>
+    <a href='https://computerhoy.com/espacio/nasa-comienza-desmontar-analizar-artemis-i-ya-prepara-artemis-ii-2024-1178320' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/nasa-comienza-desmontar-analizar-artemis-i-ya-prepara-artemis-ii-2024-2917356.jpg?tf=1200x' alt='La NASA comienza a desmontar y analizar Artemis I y ya prepara Artemis II para 2024' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/entretenimiento/como-funciona-justwatch-guia-peliculas-series-streaming-perfecta-1178140'>Qué es y cómo funciona JustWatch, la guía de películas y series en streaming perfecta</a></h4>
     <a href='https://computerhoy.com/entretenimiento/como-funciona-justwatch-guia-peliculas-series-streaming-perfecta-1178140' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/como-funciona-justwatch-guia-peliculas-series-streaming-perfecta-2916980.jpg?tf=1200x' alt='Qué es y cómo funciona JustWatch, la guía de películas y series en streaming perfecta' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/moviles/estas-cogiendo-mal-iphone-aqui-tienes-trucos-accesibilidad-1177470'>Estás cogiendo mal tu iPhone: aquí tienes unos trucos de accesibilidad </a></h4>
     <a href='https://computerhoy.com/moviles/estas-cogiendo-mal-iphone-aqui-tienes-trucos-accesibilidad-1177470' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/coger-iphone-14-2916008.jpg?tf=1200x' alt='Estás cogiendo mal tu iPhone: aquí tienes unos trucos de accesibilidad ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/29-noticias-tecnologia-comenzar-manana-informado-ultimo-1178300'>29 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
-    <a href='https://computerhoy.com/tecnologia/29-noticias-tecnologia-comenzar-manana-informado-ultimo-1178300' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/29-noticias-tecnologia-comenzar-manana-informado-ultimo-2917140.jpg?tf=1200x' alt='29 noticias de tecnología para comenzar la mañana informado de lo último' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/listas/tecnologia/freidoras-sin-aceite-cual-comprar-509813'>Las mejores freidoras sin aceite que puedes comprar en 2022</a></h4>
-    <a href='https://computerhoy.com/listas/tecnologia/freidoras-sin-aceite-cual-comprar-509813' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/philips-essential-airfryer-2916254.jpg?tf=1200x' alt='Las mejores freidoras sin aceite que puedes comprar en 2022' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/estaciones-radio-am-tienen-apagarse-unas-horas-noche-1177450'>Por qué algunas emisoras de radio AM tienen que apagarse unas horas por la noche</a></h4>
-    <a href='https://computerhoy.com/ciencia/estaciones-radio-am-tienen-apagarse-unas-horas-noche-1177450' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/muchas-estaciones-radio-am-tienen-apagarse-unas-horas-noche-2915608.jpg?tf=1200x' alt='Por qué algunas emisoras de radio AM tienen que apagarse unas horas por la noche' />
     </a>
 </div>
 
