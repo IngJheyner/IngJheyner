@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/guia-compra/reloj-deportivo-338855'>Guía para comprar un reloj deportivo: consejos y qué debes tener en cuenta en 2022</a></h4>
+    <a href='https://computerhoy.com/guia-compra/reloj-deportivo-338855' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/reloj-deportivo-running-2915636.jpg?tf=1200x' alt='Guía para comprar un reloj deportivo: consejos y qué debes tener en cuenta en 2022' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/moviles/7-tecnologias-veremos-moviles-2023-1178424'>7 tecnologías que veremos en los móviles de 2023</a></h4>
+    <a href='https://computerhoy.com/moviles/7-tecnologias-veremos-moviles-2023-1178424' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/31-noticias-tecnologia-comenzar-manana-informado-ultimo-2911552.jpg?tf=1200x' alt='7 tecnologías que veremos en los móviles de 2023' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/24-noticias-tecnologia-comenzar-manana-informado-ultimo-1178800'>24 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
     <a href='https://computerhoy.com/tecnologia/24-noticias-tecnologia-comenzar-manana-informado-ultimo-1178800' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/24-noticias-tecnologia-comenzar-manana-informado-ultimo-2918188.jpg?tf=1200x' alt='24 noticias de tecnología para comenzar la mañana informado de lo último' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/life/pajitas-hielo-curiosa-idea-acabar-pajitas-plastico-contaminantes-video-1178796'>Pajitas de hielo, la curiosa idea para acabar con las pajitas de plástico contaminantes (vídeo)</a></h4>
     <a href='https://computerhoy.com/life/pajitas-hielo-curiosa-idea-acabar-pajitas-plastico-contaminantes-video-1178796' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/verticalimage1672707162058-2918016.jpg?tf=1200x' alt='Pajitas de hielo, la curiosa idea para acabar con las pajitas de plástico contaminantes (vídeo)' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/criptos/predicciones-cotizacion-bitcoin-2023-1178628'>Predicciones extremas para el Bitcoin en 2023: subirá a los 250.000 dólares, o caerá a los 5.000 dólares</a></h4>
-    <a href='https://computerhoy.com/criptos/predicciones-cotizacion-bitcoin-2023-1178628' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/predicciones-extremas-bitcoin-2023-subira-250000-dolares-caera-5000-dolares-2918008.jpg?tf=1200x' alt='Predicciones extremas para el Bitcoin en 2023: subirá a los 250.000 dólares, o caerá a los 5.000 dólares' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/cambiar-bateria-iphone-sera-32-caro-partir-1-marzo-1178580'>Cambiar la batería de un iPhone será un 32% más caro a partir del 1 de marzo</a></h4>
-    <a href='https://computerhoy.com/apple/cambiar-bateria-iphone-sera-32-caro-partir-1-marzo-1178580' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/ya-puedes-reparar-iphone-mac-casa-piezas-originales-apple-2893848.jpg?tf=1200x' alt='Cambiar la batería de un iPhone será un 32% más caro a partir del 1 de marzo' />
     </a>
 </div>
 
