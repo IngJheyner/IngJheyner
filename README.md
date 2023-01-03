@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/conecta-android-iphone-windows-11-trabaja-como-solo-equipo-1178980'>Conecta tu Android o tu iPhone a Windows 11 y trabaja como un solo equipo</a></h4>
+    <a href='https://computerhoy.com/apps/conecta-android-iphone-windows-11-trabaja-como-solo-equipo-1178980' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/android-windows-11-2918532.jpg?tf=1200x' alt='Conecta tu Android o tu iPhone a Windows 11 y trabaja como un solo equipo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tv/dell-calienta-motores-ces-2023-estos-tres-nuevos-monitores-grandes-caracteristicas-1177516'>Dell calienta motores para el CES 2023 con estos tres nuevos monitores con grandes características</a></h4>
+    <a href='https://computerhoy.com/tv/dell-calienta-motores-ces-2023-estos-tres-nuevos-monitores-grandes-caracteristicas-1177516' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/dell-calienta-motores-ces-2023-estos-tres-nuevos-monitores-grandes-caracteristicas-2915988.jpg?tf=1200x' alt='Dell calienta motores para el CES 2023 con estos tres nuevos monitores con grandes características' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/redes-sociales/quieres-ser-influencer-ia-crea-videos-tiktok-youtube-instagram-segundos-1178954'>¿Quieres ser influencer? Esta IA crea vídeos de TikTok, YouTube o Instagram en segundos</a></h4>
     <a href='https://computerhoy.com/redes-sociales/quieres-ser-influencer-ia-crea-videos-tiktok-youtube-instagram-segundos-1178954' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/youtube-influencer-2470233.jpg?tf=1200x' alt='¿Quieres ser influencer? Esta IA crea vídeos de TikTok, YouTube o Instagram en segundos' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/ya-quiosco-numero-633-computer-hoy-1173934'>¡Ya está en tu quiosco el número 633 de Computer Hoy!</a></h4>
     <a href='https://computerhoy.com/tecnologia/ya-quiosco-numero-633-computer-hoy-1173934' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/computer-hoy-633-2918484.jpg?tf=1200x' alt='¡Ya está en tu quiosco el número 633 de Computer Hoy!' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/mejores-lugares-colocar-router-aumentar-velocidad-conexion-wifi-1178930'>Los mejores lugares para colocar el router y aumentar la velocidad de tu conexión WiFi</a></h4>
-    <a href='https://computerhoy.com/internet/mejores-lugares-colocar-router-aumentar-velocidad-conexion-wifi-1178930' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/03/honor-router-3-2260755.jpg?tf=1200x' alt='Los mejores lugares para colocar el router y aumentar la velocidad de tu conexión WiFi' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/hogar/freidora-xiaomi-arrasa-espana-agotada-amazon-pero-oferta-otras-tiendas-1178488'>La freidora Xiaomi que arrasa en España, agotada en Amazon pero en oferta en otras tiendas</a></h4>
-    <a href='https://computerhoy.com/hogar/freidora-xiaomi-arrasa-espana-agotada-amazon-pero-oferta-otras-tiendas-1178488' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/consigue-xiaomi-air-fryer-83eu-2917672.jpg?tf=1200x' alt='La freidora Xiaomi que arrasa en España, agotada en Amazon pero en oferta en otras tiendas' />
     </a>
 </div>
 
