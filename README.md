@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/pajitas-hielo-curiosa-idea-acabar-pajitas-plastico-contaminantes-video-1178796'>Pajitas de hielo, la curiosa idea para acabar con las pajitas de plástico contaminantes (vídeo)</a></h4>
+    <a href='https://computerhoy.com/life/pajitas-hielo-curiosa-idea-acabar-pajitas-plastico-contaminantes-video-1178796' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/verticalimage1672707162058-2918016.jpg?tf=1200x' alt='Pajitas de hielo, la curiosa idea para acabar con las pajitas de plástico contaminantes (vídeo)' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/criptos/predicciones-cotizacion-bitcoin-2023-1178628'>Predicciones extremas para el Bitcoin en 2023: subirá a los 250.000 dólares, o caerá a los 5.000 dólares</a></h4>
     <a href='https://computerhoy.com/criptos/predicciones-cotizacion-bitcoin-2023-1178628' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/predicciones-extremas-bitcoin-2023-subira-250000-dolares-caera-5000-dolares-2918008.jpg?tf=1200x' alt='Predicciones extremas para el Bitcoin en 2023: subirá a los 250.000 dólares, o caerá a los 5.000 dólares' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/streaming/laliga-obliga-google-eliminar-apps-iptv-populares-aunque-todavia-puedes-descargarla-1178574'>LaLiga obliga a Google a eliminar una de las apps IPTV más populares, aunque todavía puedes descargarla</a></h4>
     <a href='https://computerhoy.com/streaming/laliga-obliga-google-eliminar-apps-iptv-populares-aunque-todavia-puedes-descargarla-1178574' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/iptv-2852443.jpg?tf=1200x' alt='LaLiga obliga a Google a eliminar una de las apps IPTV más populares, aunque todavía puedes descargarla' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/black-panther-wakanda-forever-fecha-estreno-oficial-disney-plus-estreno-1178618'>Black Panther: Wakanda Forever ya tiene fecha de estreno en Disney+, gratis para los suscriptores</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/black-panther-wakanda-forever-fecha-estreno-oficial-disney-plus-estreno-1178618' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/verticalimage1672688303445-2917956.jpg?tf=1200x' alt='Black Panther: Wakanda Forever ya tiene fecha de estreno en Disney+, gratis para los suscriptores' />
     </a>
 </div>
 
