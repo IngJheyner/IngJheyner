@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/hogar/freidora-xiaomi-arrasa-espana-agotada-amazon-pero-oferta-otras-tiendas-1178488'>La freidora Xiaomi que arrasa en España, agotada en Amazon pero en oferta en otras tiendas</a></h4>
+    <a href='https://computerhoy.com/hogar/freidora-xiaomi-arrasa-espana-agotada-amazon-pero-oferta-otras-tiendas-1178488' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/consigue-xiaomi-air-fryer-83eu-2917672.jpg?tf=1200x' alt='La freidora Xiaomi que arrasa en España, agotada en Amazon pero en oferta en otras tiendas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tv/lg-oled-g3-oled-c3-son-nuevos-tv-gama-alta-lg-ces-2023-1178906'>LG OLED G3 y OLED C3: así son los nuevos TV de gama alta de LG en CES 2023</a></h4>
+    <a href='https://computerhoy.com/tv/lg-oled-g3-oled-c3-son-nuevos-tv-gama-alta-lg-ces-2023-1178906' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/lg-oled-g3-c3-2918342.jpg?tf=1200x' alt='LG OLED G3 y OLED C3: así son los nuevos TV de gama alta de LG en CES 2023' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/netflix-comienza-2023-cancelando-grandes-series-triunfaron-ano-pasado-adios-1899-1178874'>Netflix comienza 2023 cancelando una de las grandes series que triunfaron el año pasado: adiós a  1899</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/netflix-comienza-2023-cancelando-grandes-series-triunfaron-ano-pasado-adios-1899-1178874' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/1899-2874525.jpg?tf=1200x' alt='Netflix comienza 2023 cancelando una de las grandes series que triunfaron el año pasado: adiós a  1899' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/patrocinado/vive-experiencia-cinematografica-mano-vivo-x80-pro-5g-1171106'>Vive una experiencia cinematográfica de la mano del vivo X80 Pro 5G</a></h4>
     <a href='https://computerhoy.com/patrocinado/vive-experiencia-cinematografica-mano-vivo-x80-pro-5g-1171106' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/vive-experiencia-cinematografica-mano-vivo-x80-pro-5g-2905388.jpg?tf=1200x' alt='Vive una experiencia cinematográfica de la mano del vivo X80 Pro 5G' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/life/muere-ken-block-piloto-popular-gamers-1178868'>Muere Ken Block, el piloto más popular entre los gamers</a></h4>
     <a href='https://computerhoy.com/life/muere-ken-block-piloto-popular-gamers-1178868' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/ken-block-2918296.jpg?tf=1200x' alt='Muere Ken Block, el piloto más popular entre los gamers' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/airpods-lite-iphone-15-camara-48-mpx-serian-dos-nuevas-propuestas-apple-2023-1178836'>AirPods Lite y iPhone 15 con cámara de 48 Mpx serían las dos nuevas propuestas de Apple para 2023</a></h4>
-    <a href='https://computerhoy.com/apple/airpods-lite-iphone-15-camara-48-mpx-serian-dos-nuevas-propuestas-apple-2023-1178836' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/apple-airpods-pro-2-analisis-opinion-2844265.jpg?tf=1200x' alt='AirPods Lite y iPhone 15 con cámara de 48 Mpx serían las dos nuevas propuestas de Apple para 2023' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/movil-plegable-ahora-mucho-barato-iphone-oferta-1178474'>¿Un móvil plegable? Ahora mucho más barato que los iPhone con esta oferta</a></h4>
-    <a href='https://computerhoy.com/moviles/movil-plegable-ahora-mucho-barato-iphone-oferta-1178474' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/arrancan-rebajas-consigue-samsung-galaxy-flip3-599eu-2917646.jpg?tf=1200x' alt='¿Un móvil plegable? Ahora mucho más barato que los iPhone con esta oferta' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/hogar/google-home-amplia-controles-televisor-movil-1178830'>Google Home amplía los controles de tu televisor desde tu móvil</a></h4>
-    <a href='https://computerhoy.com/hogar/google-home-amplia-controles-televisor-movil-1178830' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/08/google-home-2045029.jpg?tf=1200x' alt='Google Home amplía los controles de tu televisor desde tu móvil' />
     </a>
 </div>
 
