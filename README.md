@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/vota-premios-computerhoy-2022-finalistas-mejor-smartwatch-1179068'>Vota en los Premios ComputerHoy 2022: finalistas al mejor smartwatch</a></h4>
+    <a href='https://computerhoy.com/tecnologia/vota-premios-computerhoy-2022-finalistas-mejor-smartwatch-1179068' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/vota-premios-computerhoy-2021-finalistas-mejores-smartwatches-2570361.jpg?tf=1200x' alt='Vota en los Premios ComputerHoy 2022: finalistas al mejor smartwatch' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/witcher-origen-sangre-decepcion-futuro-oscuro-witcher-sin-henry-cavill-1179120'>The Witcher: El Origen de la Sangre es una decepción, y augura un futuro oscuro para The Witcher sin Henry Cavill</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/witcher-origen-sangre-decepcion-futuro-oscuro-witcher-sin-henry-cavill-1179120' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/verticalimage1672779746187-2918898.jpg?tf=1200x' alt='The Witcher: El Origen de la Sangre es una decepción, y augura un futuro oscuro para The Witcher sin Henry Cavill' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/espacio/estas-son-cuatro-superlunas-vas-poder-ver-2023-luna-azul-1179112'>Estas son las cuatro superlunas que vas a poder ver en 2023 y una es la Luna Azul</a></h4>
+    <a href='https://computerhoy.com/espacio/estas-son-cuatro-superlunas-vas-poder-ver-2023-luna-azul-1179112' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/luna-llena-2918886.jpg?tf=1200x' alt='Estas son las cuatro superlunas que vas a poder ver en 2023 y una es la Luna Azul' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/windows/ya-no-podras-seguir-utilizando-forma-segura-google-chrome-ordenador-antiguo-windows-1179110'>Ya no podrás seguir utilizando de forma segura Google Chrome en tu ordenador antiguo con Windows</a></h4>
     <a href='https://computerhoy.com/windows/ya-no-podras-seguir-utilizando-forma-segura-google-chrome-ordenador-antiguo-windows-1179110' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/chrome-pc-2352025.jpg?tf=1200x' alt='Ya no podrás seguir utilizando de forma segura Google Chrome en tu ordenador antiguo con Windows' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/pc/nvidia-anuncia-serie-rtx-40-portatiles-nueva-rtx-4070-ti-1179072'>NVIDIA anuncia la serie RTX 40 para portátiles y la nueva RTX 4070 Ti</a></h4>
     <a href='https://computerhoy.com/pc/nvidia-anuncia-serie-rtx-40-portatiles-nueva-rtx-4070-ti-1179072' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/nvidia-rtx-4090-2835443.jpg?tf=1200x' alt='NVIDIA anuncia la serie RTX 40 para portátiles y la nueva RTX 4070 Ti' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/acer-presenta-solucion-combinar-teletrabajo-ejercicio-bicicleta-escritorio-ekinekt-bd-3-1178908'>Acer presenta su solución para combinar teletrabajo y ejercicio: la bicicleta-escritorio eKinekt BD 3</a></h4>
-    <a href='https://computerhoy.com/tecnologia/acer-presenta-solucion-combinar-teletrabajo-ejercicio-bicicleta-escritorio-ekinekt-bd-3-1178908' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/acer-presenta-solucion-combinar-teletrabajo-ejercicio-ekinekt-bike-desk-3-2918336.jpg?tf=1200x' alt='Acer presenta su solución para combinar teletrabajo y ejercicio: la bicicleta-escritorio eKinekt BD 3' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/alienware-presenta-monitor-500-hz-actualizacion-aurora-r15-bestia-amd-rtx-4090-1177530'>Alienware presenta un monitor de 500 Hz y la actualización del Aurora R15, una bestia con AMD y RTX 4090</a></h4>
-    <a href='https://computerhoy.com/pc/alienware-presenta-monitor-500-hz-actualizacion-aurora-r15-bestia-amd-rtx-4090-1177530' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/alienware-aurora-r15-2916500.jpg?tf=1200x' alt='Alienware presenta un monitor de 500 Hz y la actualización del Aurora R15, una bestia con AMD y RTX 4090' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/acer-presenta-ordenadores-aspire-5-3-2023-nuevo-chromebox-cxi5-1179026'>Acer presenta sus ordenadores Aspire 5 y 3 para 2023 y su nuevo Chromebox CXI5</a></h4>
-    <a href='https://computerhoy.com/pc/acer-presenta-ordenadores-aspire-5-3-2023-nuevo-chromebox-cxi5-1179026' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/acer-aspire-3-2918688.jpg?tf=1200x' alt='Acer presenta sus ordenadores Aspire 5 y 3 para 2023 y su nuevo Chromebox CXI5' />
     </a>
 </div>
 
