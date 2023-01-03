@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/hogar/google-home-amplia-controles-televisor-movil-1178830'>Google Home amplía los controles de tu televisor desde tu móvil</a></h4>
+    <a href='https://computerhoy.com/hogar/google-home-amplia-controles-televisor-movil-1178830' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/08/google-home-2045029.jpg?tf=1200x' alt='Google Home amplía los controles de tu televisor desde tu móvil' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/funciona-desconocido-modo-infiel-whatsapp-1175844'>Así funciona el desconocido modo infiel de WhatsApp</a></h4>
+    <a href='https://computerhoy.com/apps/funciona-desconocido-modo-infiel-whatsapp-1175844' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/whatsapp-modo-infiel-2912528.jpg?tf=1200x' alt='Así funciona el desconocido modo infiel de WhatsApp' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/moviles/samsung-tiene-problemas-actualizar-google-play-smartphones-galaxy-s21-s22-1178820'>Samsung tiene problemas al actualizar Google Play en los smartphones Galaxy S21 y S22</a></h4>
+    <a href='https://computerhoy.com/moviles/samsung-tiene-problemas-actualizar-google-play-smartphones-galaxy-s21-s22-1178820' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/samsung-galaxy-s22-analisis-opinion-2741209.jpg?tf=1200x' alt='Samsung tiene problemas al actualizar Google Play en los smartphones Galaxy S21 y S22' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/moviles/mi-smartphone-resistente-agua-explicacion-clasificaciones-ip-1178440'>¿Mi smartphone es resistente al agua? Explicación de las clasificaciones IP</a></h4>
     <a href='https://computerhoy.com/moviles/mi-smartphone-resistente-agua-explicacion-clasificaciones-ip-1178440' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/mi-smartphone-resistente-agua-explicacion-clasificaciones-ip-2917608.jpg?tf=1200x' alt='¿Mi smartphone es resistente al agua? Explicación de las clasificaciones IP' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/guia-compra/reloj-deportivo-338855'>Guía para comprar un reloj deportivo: consejos y qué debes tener en cuenta en 2022</a></h4>
     <a href='https://computerhoy.com/guia-compra/reloj-deportivo-338855' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/reloj-deportivo-running-2915636.jpg?tf=1200x' alt='Guía para comprar un reloj deportivo: consejos y qué debes tener en cuenta en 2022' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/7-tecnologias-veremos-moviles-2023-1178424'>7 tecnologías que veremos en los móviles de 2023</a></h4>
-    <a href='https://computerhoy.com/moviles/7-tecnologias-veremos-moviles-2023-1178424' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/31-noticias-tecnologia-comenzar-manana-informado-ultimo-2911552.jpg?tf=1200x' alt='7 tecnologías que veremos en los móviles de 2023' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/24-noticias-tecnologia-comenzar-manana-informado-ultimo-1178800'>24 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
-    <a href='https://computerhoy.com/tecnologia/24-noticias-tecnologia-comenzar-manana-informado-ultimo-1178800' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/24-noticias-tecnologia-comenzar-manana-informado-ultimo-2918188.jpg?tf=1200x' alt='24 noticias de tecnología para comenzar la mañana informado de lo último' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/life/que-lavadora-secadora-me-compro-1000455'>Qué lavadora secadora me compro: 5 modelos de Samsung, Bosch y otras marcas que merecen la pena</a></h4>
-    <a href='https://computerhoy.com/reportajes/life/que-lavadora-secadora-me-compro-1000455' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/hombre-cargando-lavadora-pijama-2917840.jpg?tf=1200x' alt='Qué lavadora secadora me compro: 5 modelos de Samsung, Bosch y otras marcas que merecen la pena' />
     </a>
 </div>
 
