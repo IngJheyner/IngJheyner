@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/conecta-android-iphone-windows-11-trabaja-como-solo-equipo-1178980'>Conecta tu Android o tu iPhone a Windows 11 y trabaja como un solo equipo</a></h4>
-    <a href='https://computerhoy.com/apps/conecta-android-iphone-windows-11-trabaja-como-solo-equipo-1178980' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/android-windows-11-2918532.jpg?tf=1200x' alt='Conecta tu Android o tu iPhone a Windows 11 y trabaja como un solo equipo' />
+    <h4><a href='https://computerhoy.com/pc/alienware-presenta-monitor-500-hz-actualizacion-aurora-r15-bestia-amd-rtx-4090-1177530'>Alienware presenta un monitor de 500 Hz y la actualización del Aurora R15, una bestia con AMD y RTX 4090</a></h4>
+    <a href='https://computerhoy.com/pc/alienware-presenta-monitor-500-hz-actualizacion-aurora-r15-bestia-amd-rtx-4090-1177530' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/alienware-aurora-r15-2916500.jpg?tf=1200x' alt='Alienware presenta un monitor de 500 Hz y la actualización del Aurora R15, una bestia con AMD y RTX 4090' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tv/dell-calienta-motores-ces-2023-estos-tres-nuevos-monitores-grandes-caracteristicas-1177516'>Dell calienta motores para el CES 2023 con estos tres nuevos monitores con grandes características</a></h4>
-    <a href='https://computerhoy.com/tv/dell-calienta-motores-ces-2023-estos-tres-nuevos-monitores-grandes-caracteristicas-1177516' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/dell-calienta-motores-ces-2023-estos-tres-nuevos-monitores-grandes-caracteristicas-2915988.jpg?tf=1200x' alt='Dell calienta motores para el CES 2023 con estos tres nuevos monitores con grandes características' />
+    <h4><a href='https://computerhoy.com/pc/acer-presenta-ordenadores-aspire-5-3-2023-nuevo-chromebox-cxi5-1179026'>Acer presenta sus ordenadores Aspire 5 y 3 para 2023 y su nuevo Chromebox CXI5</a></h4>
+    <a href='https://computerhoy.com/pc/acer-presenta-ordenadores-aspire-5-3-2023-nuevo-chromebox-cxi5-1179026' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/acer-aspire-3-2918688.jpg?tf=1200x' alt='Acer presenta sus ordenadores Aspire 5 y 3 para 2023 y su nuevo Chromebox CXI5' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/redes-sociales/quieres-ser-influencer-ia-crea-videos-tiktok-youtube-instagram-segundos-1178954'>¿Quieres ser influencer? Esta IA crea vídeos de TikTok, YouTube o Instagram en segundos</a></h4>
-    <a href='https://computerhoy.com/redes-sociales/quieres-ser-influencer-ia-crea-videos-tiktok-youtube-instagram-segundos-1178954' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/youtube-influencer-2470233.jpg?tf=1200x' alt='¿Quieres ser influencer? Esta IA crea vídeos de TikTok, YouTube o Instagram en segundos' />
+    <h4><a href='https://computerhoy.com/pc/portatiles-monitores-predator-son-nuevos-equipos-gaming-acer-1179012'>Portátiles y monitores Predator: así es son los nuevos equipos gaming de Acer</a></h4>
+    <a href='https://computerhoy.com/pc/portatiles-monitores-predator-son-nuevos-equipos-gaming-acer-1179012' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/portatiles-monitores-predator-son-nuevos-equipos-gaming-acer-2918690.jpg?tf=1200x' alt='Portátiles y monitores Predator: así es son los nuevos equipos gaming de Acer' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/consejos-sacarle-maximo-partido-papel-aluminio-freidora-aire-sea-seguro-1178924'>Consejos para sacarle el máximo partido al papel de aluminio con tu freidora de aire y que sea seguro</a></h4>
-    <a href='https://computerhoy.com/life/consejos-sacarle-maximo-partido-papel-aluminio-freidora-aire-sea-seguro-1178924' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/freidora-aire-aceite-2689483.jpg?tf=1200x' alt='Consejos para sacarle el máximo partido al papel de aluminio con tu freidora de aire y que sea seguro' />
+    <h4><a href='https://computerhoy.com/pc/dell-nos-presenta-nuevos-modelos-portatil-alienware-m-alienware-x-familia-g-1177510'>Dell nos presenta sus nuevos modelos de portátil: Alienware M, Alienware X y la familia G</a></h4>
+    <a href='https://computerhoy.com/pc/dell-nos-presenta-nuevos-modelos-portatil-alienware-m-alienware-x-familia-g-1177510' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/dell-g-2915982.jpg?tf=1200x' alt='Dell nos presenta sus nuevos modelos de portátil: Alienware M, Alienware X y la familia G' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/ya-quiosco-numero-633-computer-hoy-1173934'>¡Ya está en tu quiosco el número 633 de Computer Hoy!</a></h4>
-    <a href='https://computerhoy.com/tecnologia/ya-quiosco-numero-633-computer-hoy-1173934' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/computer-hoy-633-2918484.jpg?tf=1200x' alt='¡Ya está en tu quiosco el número 633 de Computer Hoy!' />
+    <h4><a href='https://computerhoy.com/tecnologia/vota-premios-computerhoy-2022-finalistas-mejor-smarttv-gama-alta-1178616'>Vota en los Premios ComputerHoy 2022: finalistas a la mejor SmartTV de gama alta</a></h4>
+    <a href='https://computerhoy.com/tecnologia/vota-premios-computerhoy-2022-finalistas-mejor-smarttv-gama-alta-1178616' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/vota-premios-computerhoy-2021-finalistas-mejores-smarttv-gama-alta-2575925.jpg?tf=1200x' alt='Vota en los Premios ComputerHoy 2022: finalistas a la mejor SmartTV de gama alta' />
     </a>
 </div>
 
