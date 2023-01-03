@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/24-noticias-tecnologia-comenzar-manana-informado-ultimo-1178800'>24 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
+    <a href='https://computerhoy.com/tecnologia/24-noticias-tecnologia-comenzar-manana-informado-ultimo-1178800' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/24-noticias-tecnologia-comenzar-manana-informado-ultimo-2918188.jpg?tf=1200x' alt='24 noticias de tecnología para comenzar la mañana informado de lo último' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/life/que-lavadora-secadora-me-compro-1000455'>Qué lavadora secadora me compro: 5 modelos de Samsung, Bosch y otras marcas que merecen la pena</a></h4>
+    <a href='https://computerhoy.com/reportajes/life/que-lavadora-secadora-me-compro-1000455' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/hombre-cargando-lavadora-pijama-2917840.jpg?tf=1200x' alt='Qué lavadora secadora me compro: 5 modelos de Samsung, Bosch y otras marcas que merecen la pena' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/pajitas-hielo-curiosa-idea-acabar-pajitas-plastico-contaminantes-video-1178796'>Pajitas de hielo, la curiosa idea para acabar con las pajitas de plástico contaminantes (vídeo)</a></h4>
     <a href='https://computerhoy.com/life/pajitas-hielo-curiosa-idea-acabar-pajitas-plastico-contaminantes-video-1178796' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/verticalimage1672707162058-2918016.jpg?tf=1200x' alt='Pajitas de hielo, la curiosa idea para acabar con las pajitas de plástico contaminantes (vídeo)' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/apple/cambiar-bateria-iphone-sera-32-caro-partir-1-marzo-1178580'>Cambiar la batería de un iPhone será un 32% más caro a partir del 1 de marzo</a></h4>
     <a href='https://computerhoy.com/apple/cambiar-bateria-iphone-sera-32-caro-partir-1-marzo-1178580' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/ya-puedes-reparar-iphone-mac-casa-piezas-originales-apple-2893848.jpg?tf=1200x' alt='Cambiar la batería de un iPhone será un 32% más caro a partir del 1 de marzo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/iphone-12-oferta-300-euros-menos-iphone-actuales-1178624'>Este iPhone 12 vale 300 euros menos que los iPhone actuales, y sigue siendo muy potente</a></h4>
-    <a href='https://computerhoy.com/moviles/iphone-12-oferta-300-euros-menos-iphone-actuales-1178624' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/iphone-12-color-azul-2499213.jpg?tf=1200x' alt='Este iPhone 12 vale 300 euros menos que los iPhone actuales, y sigue siendo muy potente' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/streaming/laliga-obliga-google-eliminar-apps-iptv-populares-aunque-todavia-puedes-descargarla-1178574'>LaLiga obliga a Google a eliminar una de las apps IPTV más populares, aunque todavía puedes descargarla</a></h4>
-    <a href='https://computerhoy.com/streaming/laliga-obliga-google-eliminar-apps-iptv-populares-aunque-todavia-puedes-descargarla-1178574' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/iptv-2852443.jpg?tf=1200x' alt='LaLiga obliga a Google a eliminar una de las apps IPTV más populares, aunque todavía puedes descargarla' />
     </a>
 </div>
 
