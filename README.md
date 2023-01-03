@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/acer-presenta-solucion-combinar-teletrabajo-ejercicio-bicicleta-escritorio-ekinekt-bd-3-1178908'>Acer presenta su solución para combinar teletrabajo y ejercicio: la bicicleta-escritorio eKinekt BD 3</a></h4>
+    <a href='https://computerhoy.com/tecnologia/acer-presenta-solucion-combinar-teletrabajo-ejercicio-bicicleta-escritorio-ekinekt-bd-3-1178908' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/acer-presenta-solucion-combinar-teletrabajo-ejercicio-ekinekt-bike-desk-3-2918336.jpg?tf=1200x' alt='Acer presenta su solución para combinar teletrabajo y ejercicio: la bicicleta-escritorio eKinekt BD 3' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/pc/alienware-presenta-monitor-500-hz-actualizacion-aurora-r15-bestia-amd-rtx-4090-1177530'>Alienware presenta un monitor de 500 Hz y la actualización del Aurora R15, una bestia con AMD y RTX 4090</a></h4>
     <a href='https://computerhoy.com/pc/alienware-presenta-monitor-500-hz-actualizacion-aurora-r15-bestia-amd-rtx-4090-1177530' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/alienware-aurora-r15-2916500.jpg?tf=1200x' alt='Alienware presenta un monitor de 500 Hz y la actualización del Aurora R15, una bestia con AMD y RTX 4090' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/pc/dell-nos-presenta-nuevos-modelos-portatil-alienware-m-alienware-x-familia-g-1177510'>Dell nos presenta sus nuevos modelos de portátil: Alienware M, Alienware X y la familia G</a></h4>
     <a href='https://computerhoy.com/pc/dell-nos-presenta-nuevos-modelos-portatil-alienware-m-alienware-x-familia-g-1177510' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/dell-g-2915982.jpg?tf=1200x' alt='Dell nos presenta sus nuevos modelos de portátil: Alienware M, Alienware X y la familia G' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/vota-premios-computerhoy-2022-finalistas-mejor-smarttv-gama-alta-1178616'>Vota en los Premios ComputerHoy 2022: finalistas a la mejor SmartTV de gama alta</a></h4>
-    <a href='https://computerhoy.com/tecnologia/vota-premios-computerhoy-2022-finalistas-mejor-smarttv-gama-alta-1178616' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/vota-premios-computerhoy-2021-finalistas-mejores-smarttv-gama-alta-2575925.jpg?tf=1200x' alt='Vota en los Premios ComputerHoy 2022: finalistas a la mejor SmartTV de gama alta' />
     </a>
 </div>
 
