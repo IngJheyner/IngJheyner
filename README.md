@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/redes-sociales/quieres-ser-influencer-ia-crea-videos-tiktok-youtube-instagram-segundos-1178954'>¿Quieres ser influencer? Esta IA crea vídeos de TikTok, YouTube o Instagram en segundos</a></h4>
+    <a href='https://computerhoy.com/redes-sociales/quieres-ser-influencer-ia-crea-videos-tiktok-youtube-instagram-segundos-1178954' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/youtube-influencer-2470233.jpg?tf=1200x' alt='¿Quieres ser influencer? Esta IA crea vídeos de TikTok, YouTube o Instagram en segundos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/consejos-sacarle-maximo-partido-papel-aluminio-freidora-aire-sea-seguro-1178924'>Consejos para sacarle el máximo partido al papel de aluminio con tu freidora de aire y que sea seguro</a></h4>
+    <a href='https://computerhoy.com/life/consejos-sacarle-maximo-partido-papel-aluminio-freidora-aire-sea-seguro-1178924' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/freidora-aire-aceite-2689483.jpg?tf=1200x' alt='Consejos para sacarle el máximo partido al papel de aluminio con tu freidora de aire y que sea seguro' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/ya-quiosco-numero-633-computer-hoy-1173934'>¡Ya está en tu quiosco el número 633 de Computer Hoy!</a></h4>
     <a href='https://computerhoy.com/tecnologia/ya-quiosco-numero-633-computer-hoy-1173934' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/computer-hoy-633-2918484.jpg?tf=1200x' alt='¡Ya está en tu quiosco el número 633 de Computer Hoy!' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/hogar/freidora-xiaomi-arrasa-espana-agotada-amazon-pero-oferta-otras-tiendas-1178488'>La freidora Xiaomi que arrasa en España, agotada en Amazon pero en oferta en otras tiendas</a></h4>
     <a href='https://computerhoy.com/hogar/freidora-xiaomi-arrasa-espana-agotada-amazon-pero-oferta-otras-tiendas-1178488' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/consigue-xiaomi-air-fryer-83eu-2917672.jpg?tf=1200x' alt='La freidora Xiaomi que arrasa en España, agotada en Amazon pero en oferta en otras tiendas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tv/lg-oled-g3-oled-c3-son-nuevos-tv-gama-alta-lg-ces-2023-1178906'>LG OLED G3 y OLED C3: así son los nuevos TV de gama alta de LG en CES 2023</a></h4>
-    <a href='https://computerhoy.com/tv/lg-oled-g3-oled-c3-son-nuevos-tv-gama-alta-lg-ces-2023-1178906' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/lg-oled-g3-c3-2918342.jpg?tf=1200x' alt='LG OLED G3 y OLED C3: así son los nuevos TV de gama alta de LG en CES 2023' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/netflix-comienza-2023-cancelando-grandes-series-triunfaron-ano-pasado-adios-1899-1178874'>Netflix comienza 2023 cancelando una de las grandes series que triunfaron el año pasado: adiós a  1899</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/netflix-comienza-2023-cancelando-grandes-series-triunfaron-ano-pasado-adios-1899-1178874' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/1899-2874525.jpg?tf=1200x' alt='Netflix comienza 2023 cancelando una de las grandes series que triunfaron el año pasado: adiós a  1899' />
     </a>
 </div>
 
