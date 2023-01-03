@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/ya-quiosco-numero-633-computer-hoy-1173934'>¡Ya está en tu quiosco el número 633 de Computer Hoy!</a></h4>
+    <a href='https://computerhoy.com/tecnologia/ya-quiosco-numero-633-computer-hoy-1173934' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/computer-hoy-633-2918484.jpg?tf=1200x' alt='¡Ya está en tu quiosco el número 633 de Computer Hoy!' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/internet/mejores-lugares-colocar-router-aumentar-velocidad-conexion-wifi-1178930'>Los mejores lugares para colocar el router y aumentar la velocidad de tu conexión WiFi</a></h4>
+    <a href='https://computerhoy.com/internet/mejores-lugares-colocar-router-aumentar-velocidad-conexion-wifi-1178930' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/03/honor-router-3-2260755.jpg?tf=1200x' alt='Los mejores lugares para colocar el router y aumentar la velocidad de tu conexión WiFi' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/hogar/freidora-xiaomi-arrasa-espana-agotada-amazon-pero-oferta-otras-tiendas-1178488'>La freidora Xiaomi que arrasa en España, agotada en Amazon pero en oferta en otras tiendas</a></h4>
     <a href='https://computerhoy.com/hogar/freidora-xiaomi-arrasa-espana-agotada-amazon-pero-oferta-otras-tiendas-1178488' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/consigue-xiaomi-air-fryer-83eu-2917672.jpg?tf=1200x' alt='La freidora Xiaomi que arrasa en España, agotada en Amazon pero en oferta en otras tiendas' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/entretenimiento/netflix-comienza-2023-cancelando-grandes-series-triunfaron-ano-pasado-adios-1899-1178874'>Netflix comienza 2023 cancelando una de las grandes series que triunfaron el año pasado: adiós a  1899</a></h4>
     <a href='https://computerhoy.com/entretenimiento/netflix-comienza-2023-cancelando-grandes-series-triunfaron-ano-pasado-adios-1899-1178874' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/1899-2874525.jpg?tf=1200x' alt='Netflix comienza 2023 cancelando una de las grandes series que triunfaron el año pasado: adiós a  1899' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/patrocinado/vive-experiencia-cinematografica-mano-vivo-x80-pro-5g-1171106'>Vive una experiencia cinematográfica de la mano del vivo X80 Pro 5G</a></h4>
-    <a href='https://computerhoy.com/patrocinado/vive-experiencia-cinematografica-mano-vivo-x80-pro-5g-1171106' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/vive-experiencia-cinematografica-mano-vivo-x80-pro-5g-2905388.jpg?tf=1200x' alt='Vive una experiencia cinematográfica de la mano del vivo X80 Pro 5G' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/muere-ken-block-piloto-popular-gamers-1178868'>Muere Ken Block, el piloto más popular entre los gamers</a></h4>
-    <a href='https://computerhoy.com/life/muere-ken-block-piloto-popular-gamers-1178868' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/ken-block-2918296.jpg?tf=1200x' alt='Muere Ken Block, el piloto más popular entre los gamers' />
     </a>
 </div>
 
