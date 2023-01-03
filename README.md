@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/criptos/predicciones-cotizacion-bitcoin-2023-1178628'>Predicciones extremas para el Bitcoin en 2023: subirá a los 250.000 dólares, o caerá a los 5.000 dólares</a></h4>
+    <a href='https://computerhoy.com/criptos/predicciones-cotizacion-bitcoin-2023-1178628' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/predicciones-extremas-bitcoin-2023-subira-250000-dolares-caera-5000-dolares-2918008.jpg?tf=1200x' alt='Predicciones extremas para el Bitcoin en 2023: subirá a los 250.000 dólares, o caerá a los 5.000 dólares' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apple/cambiar-bateria-iphone-sera-32-caro-partir-1-marzo-1178580'>Cambiar la batería de un iPhone será un 32% más caro a partir del 1 de marzo</a></h4>
     <a href='https://computerhoy.com/apple/cambiar-bateria-iphone-sera-32-caro-partir-1-marzo-1178580' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/ya-puedes-reparar-iphone-mac-casa-piezas-originales-apple-2893848.jpg?tf=1200x' alt='Cambiar la batería de un iPhone será un 32% más caro a partir del 1 de marzo' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/entretenimiento/black-panther-wakanda-forever-fecha-estreno-oficial-disney-plus-estreno-1178618'>Black Panther: Wakanda Forever ya tiene fecha de estreno en Disney+, gratis para los suscriptores</a></h4>
     <a href='https://computerhoy.com/entretenimiento/black-panther-wakanda-forever-fecha-estreno-oficial-disney-plus-estreno-1178618' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/verticalimage1672688303445-2917956.jpg?tf=1200x' alt='Black Panther: Wakanda Forever ya tiene fecha de estreno en Disney+, gratis para los suscriptores' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/nasa-no-quiere-ceder-carrera-espacial-china-no-perder-territorio-lunar-1178606'>La NASA no quiere ceder en la carrera espacial con China para no perder territorio lunar</a></h4>
-    <a href='https://computerhoy.com/espacio/nasa-no-quiere-ceder-carrera-espacial-china-no-perder-territorio-lunar-1178606' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/cohete-2862309.jpg?tf=1200x' alt='La NASA no quiere ceder en la carrera espacial con China para no perder territorio lunar' />
     </a>
 </div>
 
