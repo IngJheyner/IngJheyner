@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/windows/ya-no-podras-seguir-utilizando-forma-segura-google-chrome-ordenador-antiguo-windows-1179110'>Ya no podrás seguir utilizando de forma segura Google Chrome en tu ordenador antiguo con Windows</a></h4>
+    <a href='https://computerhoy.com/windows/ya-no-podras-seguir-utilizando-forma-segura-google-chrome-ordenador-antiguo-windows-1179110' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/chrome-pc-2352025.jpg?tf=1200x' alt='Ya no podrás seguir utilizando de forma segura Google Chrome en tu ordenador antiguo con Windows' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/pc/nvidia-anuncia-serie-rtx-40-portatiles-nueva-rtx-4070-ti-1179072'>NVIDIA anuncia la serie RTX 40 para portátiles y la nueva RTX 4070 Ti</a></h4>
+    <a href='https://computerhoy.com/pc/nvidia-anuncia-serie-rtx-40-portatiles-nueva-rtx-4070-ti-1179072' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/nvidia-rtx-4090-2835443.jpg?tf=1200x' alt='NVIDIA anuncia la serie RTX 40 para portátiles y la nueva RTX 4070 Ti' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/acer-presenta-solucion-combinar-teletrabajo-ejercicio-bicicleta-escritorio-ekinekt-bd-3-1178908'>Acer presenta su solución para combinar teletrabajo y ejercicio: la bicicleta-escritorio eKinekt BD 3</a></h4>
     <a href='https://computerhoy.com/tecnologia/acer-presenta-solucion-combinar-teletrabajo-ejercicio-bicicleta-escritorio-ekinekt-bd-3-1178908' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/acer-presenta-solucion-combinar-teletrabajo-ejercicio-ekinekt-bike-desk-3-2918336.jpg?tf=1200x' alt='Acer presenta su solución para combinar teletrabajo y ejercicio: la bicicleta-escritorio eKinekt BD 3' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/pc/acer-presenta-ordenadores-aspire-5-3-2023-nuevo-chromebox-cxi5-1179026'>Acer presenta sus ordenadores Aspire 5 y 3 para 2023 y su nuevo Chromebox CXI5</a></h4>
     <a href='https://computerhoy.com/pc/acer-presenta-ordenadores-aspire-5-3-2023-nuevo-chromebox-cxi5-1179026' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/acer-aspire-3-2918688.jpg?tf=1200x' alt='Acer presenta sus ordenadores Aspire 5 y 3 para 2023 y su nuevo Chromebox CXI5' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/portatiles-monitores-predator-son-nuevos-equipos-gaming-acer-1179012'>Portátiles y monitores Predator: así es son los nuevos equipos gaming de Acer</a></h4>
-    <a href='https://computerhoy.com/pc/portatiles-monitores-predator-son-nuevos-equipos-gaming-acer-1179012' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/portatiles-monitores-predator-son-nuevos-equipos-gaming-acer-2918690.jpg?tf=1200x' alt='Portátiles y monitores Predator: así es son los nuevos equipos gaming de Acer' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/dell-nos-presenta-nuevos-modelos-portatil-alienware-m-alienware-x-familia-g-1177510'>Dell nos presenta sus nuevos modelos de portátil: Alienware M, Alienware X y la familia G</a></h4>
-    <a href='https://computerhoy.com/pc/dell-nos-presenta-nuevos-modelos-portatil-alienware-m-alienware-x-familia-g-1177510' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/dell-g-2915982.jpg?tf=1200x' alt='Dell nos presenta sus nuevos modelos de portátil: Alienware M, Alienware X y la familia G' />
     </a>
 </div>
 
