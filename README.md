@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-baratos-xiaomi-991847'>Estos son los mejores móviles baratos de Xiaomi</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-baratos-xiaomi-991847' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/galeria-review-xiaomi-11-lite-new-edition-2524247.jpg?tf=1200x' alt='Estos son los mejores móviles baratos de Xiaomi' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/29-noticias-tecnologia-comenzar-manana-informado-ultimo-1179352'>29 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
     <a href='https://computerhoy.com/tecnologia/29-noticias-tecnologia-comenzar-manana-informado-ultimo-1179352' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/29-noticias-tecnologia-comenzar-manana-informado-ultimo-2919148.jpg?tf=1200x' alt='29 noticias de tecnología para comenzar la mañana informado de lo último' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/hogarhorno-samsung-bespoke-ai-camara-inteligencia-artificial-te-avisa-comida-quema-1179134'>Samsung presenta en CES 2023 un horno con una cámara interna con IA, que te avisa si la comida se está quemando</a></h4>
     <a href='https://computerhoy.com/hogarhorno-samsung-bespoke-ai-camara-inteligencia-artificial-te-avisa-comida-quema-1179134' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/samsung-presenta-ces-horno-camara-interna-ia-te-avisa-comida-quemando-2918918.jpg?tf=1200x' alt='Samsung presenta en CES 2023 un horno con una cámara interna con IA, que te avisa si la comida se está quemando' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/oferta-regalo-reyes-iphone-14-bate-record-precio-bajo-1179128'>Esta oferta sí que es un regalo de Reyes: el nuevo iPhone 14 bate récord de precio bajo</a></h4>
-    <a href='https://computerhoy.com/moviles/oferta-regalo-reyes-iphone-14-bate-record-precio-bajo-1179128' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/review-iphone-14-2821553.jpg?tf=1200x' alt='Esta oferta sí que es un regalo de Reyes: el nuevo iPhone 14 bate récord de precio bajo' />
     </a>
 </div>
 
