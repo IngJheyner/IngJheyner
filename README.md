@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tv/panasonic-mz2000-estrena-nueva-pantalla-microlentes-oled-prestaciones-cine-1179616'>Panasonic MZ2000 estrena nueva pantalla con microlentes OLED y prestaciones de cine</a></h4>
+    <a href='https://computerhoy.com/tv/panasonic-mz2000-estrena-nueva-pantalla-microlentes-oled-prestaciones-cine-1179616' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/panasonic-oled-mz2000-2919778.jpg?tf=1200x' alt='Panasonic MZ2000 estrena nueva pantalla con microlentes OLED y prestaciones de cine' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/lg-gram-actualiza-diseno-elegante-ultimos-procesadores-intel-1179512'>LG Gram se actualiza con un diseño más elegante y los últimos procesadores Intel </a></h4>
+    <a href='https://computerhoy.com/tecnologia/lg-gram-actualiza-diseno-elegante-ultimos-procesadores-intel-1179512' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/lg-gram-actualiza-diseno-elegante-ultimos-procesadores-intel-2919514.jpg?tf=1200x' alt='LG Gram se actualiza con un diseño más elegante y los últimos procesadores Intel ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tv/lg-muestra-novedades-2023-ces-televisores-transparentes-inalambricos-1179622'>LG muestra sus novedades para 2023 en el CES: televisores transparentes e inalámbricos</a></h4>
+    <a href='https://computerhoy.com/tv/lg-muestra-novedades-2023-ces-televisores-transparentes-inalambricos-1179622' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/lg-muestra-todas-novedades-2023-ces-vegas-2919750.jpg?tf=1200x' alt='LG muestra sus novedades para 2023 en el CES: televisores transparentes e inalámbricos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/como-llamar-numero-oculto-todas-opciones-posibles-iphone-android-935835'>Cómo llamar con número oculto en iPhone y Android</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/como-llamar-numero-oculto-todas-opciones-posibles-iphone-android-935835' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/numero-oculto-movil-2606439.jpg?tf=1200x' alt='Cómo llamar con número oculto en iPhone y Android' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/amazon/como-acceder-seccion-secreta-amazon-todo-mucho-barato-1179562'>Cómo acceder a la sección secreta de Amazon en la que todo es mucho más barato</a></h4>
     <a href='https://computerhoy.com/amazon/como-acceder-seccion-secreta-amazon-todo-mucho-barato-1179562' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/cajas-amazon-2877361.jpg?tf=1200x' alt='Cómo acceder a la sección secreta de Amazon en la que todo es mucho más barato' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/oneplus-11-5g-buds-pro-2-ya-son-oficiales-llegaran-espana-febrero-1179538'>OnePlus 11 5G y Buds Pro 2 ya son oficiales y llegarán a España en febrero</a></h4>
-    <a href='https://computerhoy.com/moviles/oneplus-11-5g-buds-pro-2-ya-son-oficiales-llegaran-espana-febrero-1179538' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/oneplus-11-5g-buds-pro-2-2919546.jpg?tf=1200x' alt='OnePlus 11 5G y Buds Pro 2 ya son oficiales y llegarán a España en febrero' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/hogar/nuevos-robots-aspiradores-roborock-limpieza-inteligente-efectiva-tamano-mini-1179384'>Nuevos robots aspiradores de Roborock: limpieza inteligente y efectiva en tamaño mini</a></h4>
-    <a href='https://computerhoy.com/hogar/nuevos-robots-aspiradores-roborock-limpieza-inteligente-efectiva-tamano-mini-1179384' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/nuevos-robots-aspiradores-roborock-limpieza-inteligente-efectiva-tamano-mini-2919194.jpg?tf=1200x' alt='Nuevos robots aspiradores de Roborock: limpieza inteligente y efectiva en tamaño mini' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/quieres-dormir-media-estudio-revela-cual-pais-mundo-donde-horas-descansa-1179498'>Si quieres dormir más que la media, este estudio revela cuál es el país del mundo donde más horas se descansa</a></h4>
-    <a href='https://computerhoy.com/life/quieres-dormir-media-estudio-revela-cual-pais-mundo-donde-horas-descansa-1179498' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/pais-ideal-vivir-te-gusta-mucho-dormir-2919486.jpg?tf=1200x' alt='Si quieres dormir más que la media, este estudio revela cuál es el país del mundo donde más horas se descansa' />
     </a>
 </div>
 
