@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/pc/asus-renueva-toda-gama-portatiles-proart-studiobook-zenbook-pro-vivobook-pro-2023-1179540'>Asus renueva toda su gama de portátiles ProART Studiobook, Zenbook Pro y Vivobook Pro de 2023</a></h4>
+    <a href='https://computerhoy.com/pc/asus-renueva-toda-gama-portatiles-proart-studiobook-zenbook-pro-vivobook-pro-2023-1179540' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/portatiles-asus-ces-2023-2919558.jpg?tf=1200x' alt='Asus renueva toda su gama de portátiles ProART Studiobook, Zenbook Pro y Vivobook Pro de 2023' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/samsung-no-fabricara-pantallas-todos-iphone-15-1179642'>Samsung no fabricará las pantallas de todos los iPhone 15</a></h4>
+    <a href='https://computerhoy.com/apple/samsung-no-fabricara-pantallas-todos-iphone-15-1179642' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/iphone-14-2903090.jpg?tf=1200x' alt='Samsung no fabricará las pantallas de todos los iPhone 15' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/audio/auriculares-gaming-barras-sonido-estas-son-novedades-jbl-ces-2023-1179600'>Auriculares gaming y barras de sonido: estas son las novedades de JBL para el CES 2023</a></h4>
     <a href='https://computerhoy.com/audio/auriculares-gaming-barras-sonido-estas-son-novedades-jbl-ces-2023-1179600' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/auriculares-gaming-barras-sonido-estas-son-novedades-jbl-ces-2023-2919736.jpg?tf=1200x' alt='Auriculares gaming y barras de sonido: estas son las novedades de JBL para el CES 2023' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/lg-gram-actualiza-diseno-elegante-ultimos-procesadores-intel-1179512'>LG Gram se actualiza con un diseño más elegante y los últimos procesadores Intel </a></h4>
     <a href='https://computerhoy.com/tecnologia/lg-gram-actualiza-diseno-elegante-ultimos-procesadores-intel-1179512' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/lg-gram-actualiza-diseno-elegante-ultimos-procesadores-intel-2919514.jpg?tf=1200x' alt='LG Gram se actualiza con un diseño más elegante y los últimos procesadores Intel ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tv/lg-muestra-novedades-2023-ces-televisores-transparentes-inalambricos-1179622'>LG muestra sus novedades para 2023 en el CES: televisores transparentes e inalámbricos</a></h4>
-    <a href='https://computerhoy.com/tv/lg-muestra-novedades-2023-ces-televisores-transparentes-inalambricos-1179622' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/lg-muestra-novedades-2023-ces-televisores-transparentes-inalambricos-2919844.jpg?tf=1200x' alt='LG muestra sus novedades para 2023 en el CES: televisores transparentes e inalámbricos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/como-llamar-numero-oculto-todas-opciones-posibles-iphone-android-935835'>Cómo llamar con número oculto en iPhone y Android</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/como-llamar-numero-oculto-todas-opciones-posibles-iphone-android-935835' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/numero-oculto-movil-2606439.jpg?tf=1200x' alt='Cómo llamar con número oculto en iPhone y Android' />
     </a>
 </div>
 
