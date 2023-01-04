@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/quieres-dormir-media-estudio-revela-cual-pais-mundo-donde-horas-descansa-1179498'>Si quieres dormir más que la media, este estudio revela cuál es el país del mundo donde más horas se descansa</a></h4>
+    <a href='https://computerhoy.com/life/quieres-dormir-media-estudio-revela-cual-pais-mundo-donde-horas-descansa-1179498' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/pais-ideal-vivir-te-gusta-mucho-dormir-2919486.jpg?tf=1200x' alt='Si quieres dormir más que la media, este estudio revela cuál es el país del mundo donde más horas se descansa' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/motor/puedes-no-puedes-hacer-2023-tienes-coche-etiqueta-b-dgt-1179500'>Qué puedes y qué no puedes hacer en 2023 si tienes un coche con etiqueta B de la DGT</a></h4>
+    <a href='https://computerhoy.com/motor/puedes-no-puedes-hacer-2023-tienes-coche-etiqueta-b-dgt-1179500' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/etiquetas-ambientales-dgt-2537893.jpg?tf=1200x' alt='Qué puedes y qué no puedes hacer en 2023 si tienes un coche con etiqueta B de la DGT' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/vota-premios-computerhoy-2022-finalistas-mejor-dispositivo-ehome-1179114'>Vota en los Premios ComputerHoy 2022: finalistas al mejor dispositivo eHome</a></h4>
+    <a href='https://computerhoy.com/tecnologia/vota-premios-computerhoy-2022-finalistas-mejor-dispositivo-ehome-1179114' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/vota-premios-computerhoy-2021-finalistas-mejores-altavoces-inteligentes-2576069.jpg?tf=1200x' alt='Vota en los Premios ComputerHoy 2022: finalistas al mejor dispositivo eHome' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/motor/nuevo-patinete-xiaomi-rebajado-casco-regalo-posibilidad-subvencion-dejarlo-precio-ganga-1179464'>El nuevo patinete de Xiaomi, rebajado, con casco de regalo y posibilidad de subvención para dejarlo a precio de ganga</a></h4>
     <a href='https://computerhoy.com/motor/nuevo-patinete-xiaomi-rebajado-casco-regalo-posibilidad-subvencion-dejarlo-precio-ganga-1179464' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/xiaomi-mi-electric-scooter-3-2919320.jpg?tf=1200x' alt='El nuevo patinete de Xiaomi, rebajado, con casco de regalo y posibilidad de subvención para dejarlo a precio de ganga' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/tv/televisores-samsung-2023-delgados-brillantes-mejor-equipados-gaming-1179454'>Los televisores de Samsung para 2023: más delgados, más brillantes y mejor equipados para el gaming</a></h4>
     <a href='https://computerhoy.com/tv/televisores-samsung-2023-delgados-brillantes-mejor-equipados-gaming-1179454' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/televisores-samsung-2023-delgados-brillantes-mejor-equipados-gaming-2919454.jpg?tf=1200x' alt='Los televisores de Samsung para 2023: más delgados, más brillantes y mejor equipados para el gaming' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/gaming/asus-rog-presenta-todas-novedades-ano-ces-2023-portatiles-top-monitores-540-hz-1179458'>Asus ROG presenta todas sus novedades para este año en el CES 2023: portátiles TOP y monitores de 540 Hz</a></h4>
-    <a href='https://computerhoy.com/gaming/asus-rog-presenta-todas-novedades-ano-ces-2023-portatiles-top-monitores-540-hz-1179458' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/asus-rog-ces-2023-2919330.jpg?tf=1200x' alt='Asus ROG presenta todas sus novedades para este año en el CES 2023: portátiles TOP y monitores de 540 Hz' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/prueba-cerveza-steve-jobs-contratar-mantener-mejores-empleados-1141527'>La prueba de la cerveza de Steve Jobs para contratar y mantener a sus mejores empleados</a></h4>
-    <a href='https://computerhoy.com/noticias/life/prueba-cerveza-steve-jobs-contratar-mantener-mejores-empleados-1141527' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/steve-jobs-2919492.jpg?tf=1200x' alt='La prueba de la cerveza de Steve Jobs para contratar y mantener a sus mejores empleados' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/grupo-hackers-ataca-hospital-ninos-arrepiente-lanza-descifrador-gratuito-1179436'>Un grupo de hackers ataca un hospital para niños, se arrepiente y lanza un descifrador gratuito </a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/grupo-hackers-ataca-hospital-ninos-arrepiente-lanza-descifrador-gratuito-1179436' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/grupo-hackers-ataca-hospital-ninos-arrepiente-lanza-descifrador-gratuito-2919304.jpg?tf=1200x' alt='Un grupo de hackers ataca un hospital para niños, se arrepiente y lanza un descifrador gratuito ' />
     </a>
 </div>
 
