@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/zorro-dos-patas-video-1179704'>Descubre en su jardín un zorro de dos patas que camina como un dinosaurio (vídeo)</a></h4>
+    <a href='https://computerhoy.com/life/zorro-dos-patas-video-1179704' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/descubre-jardin-zorro-dos-patas-camina-como-dinosaurio-video-2920072.jpg?tf=1200x' alt='Descubre en su jardín un zorro de dos patas que camina como un dinosaurio (vídeo)' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/espacio/impresionante-foto-panoramica-dia-completo-tierra-hecha-satelite-noaa-1179696'>Esta es la impresionante foto panorámica de un día completo en la Tierra hecha por el satélite NOAA</a></h4>
     <a href='https://computerhoy.com/espacio/impresionante-foto-panoramica-dia-completo-tierra-hecha-satelite-noaa-1179696' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/satelite-tierra-2446745.jpg?tf=1200x' alt='Esta es la impresionante foto panorámica de un día completo en la Tierra hecha por el satélite NOAA' />
@@ -60,7 +68,7 @@
 <div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/google/chromecast-google-tv-mando-rebajado-menos-30-euros-1179702'>Google le da una nueva vida a tu TV: el Chromecast con mando, rebajado a menos de 30 euros</a></h4>
     <a href='https://computerhoy.com/google/chromecast-google-tv-mando-rebajado-menos-30-euros-1179702' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/chromecast-google-tv-hd-version-economica-reproductor-inteligente-google-2821565.jpg?tf=1200x' alt='Google le da una nueva vida a tu TV: el Chromecast con mando, rebajado a menos de 30 euros' />
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/google-da-nueva-vida-tv-chromecast-mando-rebajado-menos-30-euros-2920048.jpg?tf=1200x' alt='Google le da una nueva vida a tu TV: el Chromecast con mando, rebajado a menos de 30 euros' />
     </a>
 </div>
 
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/pc/msi-renueva-familia-portatiles-intel-core-13a-gen-nvida-rtx-40-1179660'>MSI renueva su familia de portátiles con Intel Core de 13ª Gen y NVIDA RTX 40</a></h4>
     <a href='https://computerhoy.com/pc/msi-renueva-familia-portatiles-intel-core-13a-gen-nvida-rtx-40-1179660' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/msi-renueva-familia-portatiles-intel-core-13a-gen-nvida-rtx-40-2919994.jpg?tf=1200x' alt='MSI renueva su familia de portátiles con Intel Core de 13ª Gen y NVIDA RTX 40' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/fundacion-temporada-2-trailer-fecha-estreno-apple-tv-plus-isaac-asimov-1179684'>Fundación Temporada 2: la megaserie de Isaac Asimov ya tiene tráiler y fecha de estreno en Apple TV+</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/fundacion-temporada-2-trailer-fecha-estreno-apple-tv-plus-isaac-asimov-1179684' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/verticalimage1672863170646-2919982.jpg?tf=1200x' alt='Fundación Temporada 2: la megaserie de Isaac Asimov ya tiene tráiler y fecha de estreno en Apple TV+' />
     </a>
 </div>
 
