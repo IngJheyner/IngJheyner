@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/espacio/impresionante-foto-panoramica-dia-completo-tierra-hecha-satelite-noaa-1179696'>Esta es la impresionante foto panorámica de un día completo en la Tierra hecha por el satélite NOAA</a></h4>
+    <a href='https://computerhoy.com/espacio/impresionante-foto-panoramica-dia-completo-tierra-hecha-satelite-noaa-1179696' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/satelite-tierra-2446745.jpg?tf=1200x' alt='Esta es la impresionante foto panorámica de un día completo en la Tierra hecha por el satélite NOAA' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/google/chromecast-google-tv-mando-rebajado-menos-30-euros-1179702'>Google le da una nueva vida a tu TV: el Chromecast con mando, rebajado a menos de 30 euros</a></h4>
+    <a href='https://computerhoy.com/google/chromecast-google-tv-mando-rebajado-menos-30-euros-1179702' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/chromecast-google-tv-hd-version-economica-reproductor-inteligente-google-2821565.jpg?tf=1200x' alt='Google le da una nueva vida a tu TV: el Chromecast con mando, rebajado a menos de 30 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/software/herramienta-podras-instalar-windows-11-cualquier-pc-1179688'>Con esta herramienta podrás instalar Windows 11 en cualquier PC</a></h4>
+    <a href='https://computerhoy.com/software/herramienta-podras-instalar-windows-11-cualquier-pc-1179688' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/ordenador-windows-11-2917398.jpg?tf=1200x' alt='Con esta herramienta podrás instalar Windows 11 en cualquier PC' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/pc/msi-renueva-familia-portatiles-intel-core-13a-gen-nvida-rtx-40-1179660'>MSI renueva su familia de portátiles con Intel Core de 13ª Gen y NVIDA RTX 40</a></h4>
+    <a href='https://computerhoy.com/pc/msi-renueva-familia-portatiles-intel-core-13a-gen-nvida-rtx-40-1179660' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/msi-renueva-familia-portatiles-intel-core-13a-gen-nvida-rtx-40-2919994.jpg?tf=1200x' alt='MSI renueva su familia de portátiles con Intel Core de 13ª Gen y NVIDA RTX 40' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/entretenimiento/fundacion-temporada-2-trailer-fecha-estreno-apple-tv-plus-isaac-asimov-1179684'>Fundación Temporada 2: la megaserie de Isaac Asimov ya tiene tráiler y fecha de estreno en Apple TV+</a></h4>
     <a href='https://computerhoy.com/entretenimiento/fundacion-temporada-2-trailer-fecha-estreno-apple-tv-plus-isaac-asimov-1179684' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/verticalimage1672863170646-2919982.jpg?tf=1200x' alt='Fundación Temporada 2: la megaserie de Isaac Asimov ya tiene tráiler y fecha de estreno en Apple TV+' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/estos-son-minerales-raros-tierra-son-tan-escasos-aparentemente-no-hay-1179678'>Estos son los minerales más raros de la Tierra y son tan escasos que aparentemente no hay más</a></h4>
-    <a href='https://computerhoy.com/ciencia/estos-son-minerales-raros-tierra-son-tan-escasos-aparentemente-no-hay-1179678' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/minerales-2919946.jpg?tf=1200x' alt='Estos son los minerales más raros de la Tierra y son tan escasos que aparentemente no hay más' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/como-debes-ajustar-espejos-retrovisores-vehiculo-guardia-civil-1179674'>Así es cómo debes ajustar los espejos retrovisores de tu vehículo, según la Guardia Civil</a></h4>
-    <a href='https://computerhoy.com/motor/como-debes-ajustar-espejos-retrovisores-vehiculo-guardia-civil-1179674' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/retrovisor-2919940.jpg?tf=1200x' alt='Así es cómo debes ajustar los espejos retrovisores de tu vehículo, según la Guardia Civil' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/asus-renueva-toda-gama-portatiles-proart-studiobook-zenbook-pro-vivobook-pro-2023-1179540'>Asus renueva toda su gama de portátiles ProART Studiobook, Zenbook Pro y Vivobook Pro de 2023</a></h4>
-    <a href='https://computerhoy.com/pc/asus-renueva-toda-gama-portatiles-proart-studiobook-zenbook-pro-vivobook-pro-2023-1179540' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/portatiles-asus-ces-2023-2919558.jpg?tf=1200x' alt='Asus renueva toda su gama de portátiles ProART Studiobook, Zenbook Pro y Vivobook Pro de 2023' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/samsung-no-fabricara-pantallas-todos-iphone-15-1179642'>Samsung no fabricará las pantallas de todos los iPhone 15</a></h4>
-    <a href='https://computerhoy.com/apple/samsung-no-fabricara-pantallas-todos-iphone-15-1179642' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/iphone-14-2903090.jpg?tf=1200x' alt='Samsung no fabricará las pantallas de todos los iPhone 15' />
     </a>
 </div>
 
