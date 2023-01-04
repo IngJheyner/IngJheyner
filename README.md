@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/moviles/oneplus-11-5g-buds-pro-2-ya-son-oficiales-llegaran-espana-febrero-1179538'>OnePlus 11 5G y Buds Pro 2 ya son oficiales y llegarán a España en febrero</a></h4>
+    <a href='https://computerhoy.com/moviles/oneplus-11-5g-buds-pro-2-ya-son-oficiales-llegaran-espana-febrero-1179538' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/oneplus-11-5g-buds-pro-2-2919546.jpg?tf=1200x' alt='OnePlus 11 5G y Buds Pro 2 ya son oficiales y llegarán a España en febrero' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/hogar/nuevos-robots-aspiradores-roborock-limpieza-inteligente-efectiva-tamano-mini-1179384'>Nuevos robots aspiradores de Roborock: limpieza inteligente y efectiva en tamaño mini</a></h4>
+    <a href='https://computerhoy.com/hogar/nuevos-robots-aspiradores-roborock-limpieza-inteligente-efectiva-tamano-mini-1179384' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/nuevos-robots-aspiradores-roborock-limpieza-inteligente-efectiva-tamano-mini-2919194.jpg?tf=1200x' alt='Nuevos robots aspiradores de Roborock: limpieza inteligente y efectiva en tamaño mini' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/quieres-dormir-media-estudio-revela-cual-pais-mundo-donde-horas-descansa-1179498'>Si quieres dormir más que la media, este estudio revela cuál es el país del mundo donde más horas se descansa</a></h4>
     <a href='https://computerhoy.com/life/quieres-dormir-media-estudio-revela-cual-pais-mundo-donde-horas-descansa-1179498' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/pais-ideal-vivir-te-gusta-mucho-dormir-2919486.jpg?tf=1200x' alt='Si quieres dormir más que la media, este estudio revela cuál es el país del mundo donde más horas se descansa' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/vota-premios-computerhoy-2022-finalistas-mejor-dispositivo-ehome-1179114'>Vota en los Premios ComputerHoy 2022: finalistas al mejor dispositivo eHome</a></h4>
     <a href='https://computerhoy.com/tecnologia/vota-premios-computerhoy-2022-finalistas-mejor-dispositivo-ehome-1179114' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/vota-premios-computerhoy-2021-finalistas-mejores-altavoces-inteligentes-2576069.jpg?tf=1200x' alt='Vota en los Premios ComputerHoy 2022: finalistas al mejor dispositivo eHome' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/nuevo-patinete-xiaomi-rebajado-casco-regalo-posibilidad-subvencion-dejarlo-precio-ganga-1179464'>El nuevo patinete de Xiaomi, rebajado, con casco de regalo y posibilidad de subvención para dejarlo a precio de ganga</a></h4>
-    <a href='https://computerhoy.com/motor/nuevo-patinete-xiaomi-rebajado-casco-regalo-posibilidad-subvencion-dejarlo-precio-ganga-1179464' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/xiaomi-mi-electric-scooter-3-2919320.jpg?tf=1200x' alt='El nuevo patinete de Xiaomi, rebajado, con casco de regalo y posibilidad de subvención para dejarlo a precio de ganga' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tv/televisores-samsung-2023-delgados-brillantes-mejor-equipados-gaming-1179454'>Los televisores de Samsung para 2023: más delgados, más brillantes y mejor equipados para el gaming</a></h4>
-    <a href='https://computerhoy.com/tv/televisores-samsung-2023-delgados-brillantes-mejor-equipados-gaming-1179454' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/televisores-samsung-2023-delgados-brillantes-mejor-equipados-gaming-2919454.jpg?tf=1200x' alt='Los televisores de Samsung para 2023: más delgados, más brillantes y mejor equipados para el gaming' />
     </a>
 </div>
 
