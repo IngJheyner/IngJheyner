@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/hogarhorno-samsung-bespoke-ai-camara-inteligencia-artificial-te-avisa-comida-quema-1179134'>Samsung presenta en CES 2023 un horno con una cámara interna con IA, que te avisa si la comida se está quemando</a></h4>
+    <a href='https://computerhoy.com/hogarhorno-samsung-bespoke-ai-camara-inteligencia-artificial-te-avisa-comida-quema-1179134' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/samsung-presenta-ces-horno-camara-interna-ia-te-avisa-comida-quemando-2918918.jpg?tf=1200x' alt='Samsung presenta en CES 2023 un horno con una cámara interna con IA, que te avisa si la comida se está quemando' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/moviles/oferta-regalo-reyes-iphone-14-bate-record-precio-bajo-1179128'>Esta oferta sí que es un regalo de Reyes: el nuevo iPhone 14 bate récord de precio bajo</a></h4>
     <a href='https://computerhoy.com/moviles/oferta-regalo-reyes-iphone-14-bate-record-precio-bajo-1179128' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/review-iphone-14-2821553.jpg?tf=1200x' alt='Esta oferta sí que es un regalo de Reyes: el nuevo iPhone 14 bate récord de precio bajo' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/espacio/estas-son-cuatro-superlunas-vas-poder-ver-2023-luna-azul-1179112'>Estas son las cuatro superlunas que vas a poder ver en 2023 y una es la Luna Azul</a></h4>
     <a href='https://computerhoy.com/espacio/estas-son-cuatro-superlunas-vas-poder-ver-2023-luna-azul-1179112' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/luna-llena-2918886.jpg?tf=1200x' alt='Estas son las cuatro superlunas que vas a poder ver en 2023 y una es la Luna Azul' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/ya-no-podras-seguir-utilizando-forma-segura-google-chrome-ordenador-antiguo-windows-1179110'>Ya no podrás seguir utilizando de forma segura Google Chrome en tu ordenador antiguo con Windows</a></h4>
-    <a href='https://computerhoy.com/windows/ya-no-podras-seguir-utilizando-forma-segura-google-chrome-ordenador-antiguo-windows-1179110' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/chrome-pc-2352025.jpg?tf=1200x' alt='Ya no podrás seguir utilizando de forma segura Google Chrome en tu ordenador antiguo con Windows' />
     </a>
 </div>
 
