@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/grupo-hackers-ataca-hospital-ninos-arrepiente-lanza-descifrador-gratuito-1179436'>Un grupo de hackers ataca un hospital para niños, se arrepiente y lanza un descifrador gratuito </a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/grupo-hackers-ataca-hospital-ninos-arrepiente-lanza-descifrador-gratuito-1179436' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/grupo-hackers-ataca-hospital-ninos-arrepiente-lanza-descifrador-gratuito-2919304.jpg?tf=1200x' alt='Un grupo de hackers ataca un hospital para niños, se arrepiente y lanza un descifrador gratuito ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/elon-musk-comienza-2023-batiendo-record-historico-perdidas-1179442'>Elon Musk comienza 2023 batiendo un récord histórico... de pérdidas</a></h4>
+    <a href='https://computerhoy.com/life/elon-musk-comienza-2023-batiendo-record-historico-perdidas-1179442' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/fortuna-elon-musk-esfuma-twitter-tesla-son-agujero-perdidas-millonarias-2880111.jpg?tf=1200x' alt='Elon Musk comienza 2023 batiendo un récord histórico... de pérdidas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/streaming-juegos-publicidad-netflix-va-tener-ingresos-creadores-quieren-parte-1178936'>Streaming de juegos y publicidad: si Netflix va a tener más ingresos los creadores quieren su parte</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/streaming-juegos-publicidad-netflix-va-tener-ingresos-creadores-quieren-parte-1178936' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/streaming-juegos-publicidad-netflix-va-tener-ingresos-creadores-quieren-parte-2918482.jpg?tf=1200x' alt='Streaming de juegos y publicidad: si Netflix va a tener más ingresos los creadores quieren su parte' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apple/nuevo-estandar-qi2-anunciado-ces-2023-llevara-magsafe-dispositivos-no-sean-apple-1179402'>El nuevo estándar Qi2 anunciado en el CES 2023 llevará Magsafe a dispositivos que no sean de Apple</a></h4>
     <a href='https://computerhoy.com/apple/nuevo-estandar-qi2-anunciado-ces-2023-llevara-magsafe-dispositivos-no-sean-apple-1179402' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/nuevo-estandar-qi2-anunciado-ces-2023-llevara-magsafe-dispositivos-no-son-apple-2919242.jpg?tf=1200x' alt='El nuevo estándar Qi2 anunciado en el CES 2023 llevará Magsafe a dispositivos que no sean de Apple' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/hogar/no-estara-mucho-tiempo-rebajado-consigue-purificador-dyson-551-euros-1178494'>No estará mucho tiempo rebajado: consigue un purificador Dyson por 551 euros</a></h4>
     <a href='https://computerhoy.com/hogar/no-estara-mucho-tiempo-rebajado-consigue-purificador-dyson-551-euros-1178494' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/no-estara-mucho-tiempo-rebajado-consigue-purificador-dyson-551-euros-2917690.jpg?tf=1200x' alt='No estará mucho tiempo rebajado: consigue un purificador Dyson por 551 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/buscador-microsoft-integrara-inteligencia-artificial-chatgpt-1179386'>El buscador de Microsoft integrará la inteligencia artificial de ChatGPT</a></h4>
-    <a href='https://computerhoy.com/internet/buscador-microsoft-integrara-inteligencia-artificial-chatgpt-1179386' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/microsoft-2919206.jpg?tf=1200x' alt='El buscador de Microsoft integrará la inteligencia artificial de ChatGPT' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/patrocinado/ya-llegan-reyes-magos-aliexpress-1179066'>¡Ya llegan los Reyes Magos a AliExpress!</a></h4>
-    <a href='https://computerhoy.com/patrocinado/ya-llegan-reyes-magos-aliexpress-1179066' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/aliexpress-reyes-magos-2918630.jpg?tf=1200x' alt='¡Ya llegan los Reyes Magos a AliExpress!' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-baratos-xiaomi-991847'>Estos son los mejores móviles baratos de Xiaomi</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-baratos-xiaomi-991847' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/galeria-review-xiaomi-11-lite-new-edition-2524247.jpg?tf=1200x' alt='Estos son los mejores móviles baratos de Xiaomi' />
     </a>
 </div>
 
