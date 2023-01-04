@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/como-llamar-numero-oculto-todas-opciones-posibles-iphone-android-935835'>Cómo llamar con número oculto en iPhone y Android</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/como-llamar-numero-oculto-todas-opciones-posibles-iphone-android-935835' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/numero-oculto-movil-2606439.jpg?tf=1200x' alt='Cómo llamar con número oculto en iPhone y Android' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/amazon/como-acceder-seccion-secreta-amazon-todo-mucho-barato-1179562'>Cómo acceder a la sección secreta de Amazon en la que todo es mucho más barato</a></h4>
     <a href='https://computerhoy.com/amazon/como-acceder-seccion-secreta-amazon-todo-mucho-barato-1179562' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/cajas-amazon-2877361.jpg?tf=1200x' alt='Cómo acceder a la sección secreta de Amazon en la que todo es mucho más barato' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/life/quieres-dormir-media-estudio-revela-cual-pais-mundo-donde-horas-descansa-1179498'>Si quieres dormir más que la media, este estudio revela cuál es el país del mundo donde más horas se descansa</a></h4>
     <a href='https://computerhoy.com/life/quieres-dormir-media-estudio-revela-cual-pais-mundo-donde-horas-descansa-1179498' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/pais-ideal-vivir-te-gusta-mucho-dormir-2919486.jpg?tf=1200x' alt='Si quieres dormir más que la media, este estudio revela cuál es el país del mundo donde más horas se descansa' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/puedes-no-puedes-hacer-2023-tienes-coche-etiqueta-b-dgt-1179500'>Qué puedes y qué no puedes hacer en 2023 si tienes un coche con etiqueta B de la DGT</a></h4>
-    <a href='https://computerhoy.com/motor/puedes-no-puedes-hacer-2023-tienes-coche-etiqueta-b-dgt-1179500' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/etiquetas-ambientales-dgt-2537893.jpg?tf=1200x' alt='Qué puedes y qué no puedes hacer en 2023 si tienes un coche con etiqueta B de la DGT' />
     </a>
 </div>
 
