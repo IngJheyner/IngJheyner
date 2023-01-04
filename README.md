@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/motor/nuevo-patinete-xiaomi-rebajado-casco-regalo-posibilidad-subvencion-dejarlo-precio-ganga-1179464'>El nuevo patinete de Xiaomi, rebajado, con casco de regalo y posibilidad de subvención para dejarlo a precio de ganga</a></h4>
+    <a href='https://computerhoy.com/motor/nuevo-patinete-xiaomi-rebajado-casco-regalo-posibilidad-subvencion-dejarlo-precio-ganga-1179464' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/xiaomi-mi-electric-scooter-3-2919320.jpg?tf=1200x' alt='El nuevo patinete de Xiaomi, rebajado, con casco de regalo y posibilidad de subvención para dejarlo a precio de ganga' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tv/televisores-samsung-2023-delgados-brillantes-mejor-equipados-gaming-1179454'>Los televisores de Samsung para 2023: más delgados, más brillantes y mejor equipados para el gaming</a></h4>
+    <a href='https://computerhoy.com/tv/televisores-samsung-2023-delgados-brillantes-mejor-equipados-gaming-1179454' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/televisores-samsung-2023-delgados-brillantes-mejor-equipados-gaming-2919454.jpg?tf=1200x' alt='Los televisores de Samsung para 2023: más delgados, más brillantes y mejor equipados para el gaming' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/gaming/asus-rog-presenta-todas-novedades-ano-ces-2023-portatiles-top-monitores-540-hz-1179458'>Asus ROG presenta todas sus novedades para este año en el CES 2023: portátiles TOP y monitores de 540 Hz</a></h4>
+    <a href='https://computerhoy.com/gaming/asus-rog-presenta-todas-novedades-ano-ces-2023-portatiles-top-monitores-540-hz-1179458' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/asus-rog-ces-2023-2919330.jpg?tf=1200x' alt='Asus ROG presenta todas sus novedades para este año en el CES 2023: portátiles TOP y monitores de 540 Hz' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/prueba-cerveza-steve-jobs-contratar-mantener-mejores-empleados-1141527'>La prueba de la cerveza de Steve Jobs para contratar y mantener a sus mejores empleados</a></h4>
+    <a href='https://computerhoy.com/noticias/life/prueba-cerveza-steve-jobs-contratar-mantener-mejores-empleados-1141527' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/steve-jobs-2919492.jpg?tf=1200x' alt='La prueba de la cerveza de Steve Jobs para contratar y mantener a sus mejores empleados' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciberseguridad/grupo-hackers-ataca-hospital-ninos-arrepiente-lanza-descifrador-gratuito-1179436'>Un grupo de hackers ataca un hospital para niños, se arrepiente y lanza un descifrador gratuito </a></h4>
     <a href='https://computerhoy.com/ciberseguridad/grupo-hackers-ataca-hospital-ninos-arrepiente-lanza-descifrador-gratuito-1179436' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/grupo-hackers-ataca-hospital-ninos-arrepiente-lanza-descifrador-gratuito-2919304.jpg?tf=1200x' alt='Un grupo de hackers ataca un hospital para niños, se arrepiente y lanza un descifrador gratuito ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/elon-musk-comienza-2023-batiendo-record-historico-perdidas-1179442'>Elon Musk comienza 2023 batiendo un récord histórico... de pérdidas</a></h4>
-    <a href='https://computerhoy.com/life/elon-musk-comienza-2023-batiendo-record-historico-perdidas-1179442' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/fortuna-elon-musk-esfuma-twitter-tesla-son-agujero-perdidas-millonarias-2880111.jpg?tf=1200x' alt='Elon Musk comienza 2023 batiendo un récord histórico... de pérdidas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/streaming-juegos-publicidad-netflix-va-tener-ingresos-creadores-quieren-parte-1178936'>Streaming de juegos y publicidad: si Netflix va a tener más ingresos los creadores quieren su parte</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/streaming-juegos-publicidad-netflix-va-tener-ingresos-creadores-quieren-parte-1178936' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/streaming-juegos-publicidad-netflix-va-tener-ingresos-creadores-quieren-parte-2918482.jpg?tf=1200x' alt='Streaming de juegos y publicidad: si Netflix va a tener más ingresos los creadores quieren su parte' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/nuevo-estandar-qi2-anunciado-ces-2023-llevara-magsafe-dispositivos-no-sean-apple-1179402'>El nuevo estándar Qi2 anunciado en el CES 2023 llevará Magsafe a dispositivos que no sean de Apple</a></h4>
-    <a href='https://computerhoy.com/apple/nuevo-estandar-qi2-anunciado-ces-2023-llevara-magsafe-dispositivos-no-sean-apple-1179402' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/nuevo-estandar-qi2-anunciado-ces-2023-llevara-magsafe-dispositivos-no-son-apple-2919242.jpg?tf=1200x' alt='El nuevo estándar Qi2 anunciado en el CES 2023 llevará Magsafe a dispositivos que no sean de Apple' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/hogar/no-estara-mucho-tiempo-rebajado-consigue-purificador-dyson-551-euros-1178494'>No estará mucho tiempo rebajado: consigue un purificador Dyson por 551 euros</a></h4>
-    <a href='https://computerhoy.com/hogar/no-estara-mucho-tiempo-rebajado-consigue-purificador-dyson-551-euros-1178494' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/no-estara-mucho-tiempo-rebajado-consigue-purificador-dyson-551-euros-2917690.jpg?tf=1200x' alt='No estará mucho tiempo rebajado: consigue un purificador Dyson por 551 euros' />
     </a>
 </div>
 
