@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/nuevo-estandar-qi2-anunciado-ces-2023-llevara-magsafe-dispositivos-no-sean-apple-1179402'>El nuevo estándar Qi2 anunciado en el CES 2023 llevará Magsafe a dispositivos que no sean de Apple</a></h4>
+    <a href='https://computerhoy.com/apple/nuevo-estandar-qi2-anunciado-ces-2023-llevara-magsafe-dispositivos-no-sean-apple-1179402' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/nuevo-estandar-qi2-anunciado-ces-2023-llevara-magsafe-dispositivos-no-son-apple-2919242.jpg?tf=1200x' alt='El nuevo estándar Qi2 anunciado en el CES 2023 llevará Magsafe a dispositivos que no sean de Apple' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/hogar/no-estara-mucho-tiempo-rebajado-consigue-purificador-dyson-551-euros-1178494'>No estará mucho tiempo rebajado: consigue un purificador Dyson por 551 euros</a></h4>
+    <a href='https://computerhoy.com/hogar/no-estara-mucho-tiempo-rebajado-consigue-purificador-dyson-551-euros-1178494' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/no-estara-mucho-tiempo-rebajado-consigue-purificador-dyson-551-euros-2917690.jpg?tf=1200x' alt='No estará mucho tiempo rebajado: consigue un purificador Dyson por 551 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/internet/buscador-microsoft-integrara-inteligencia-artificial-chatgpt-1179386'>El buscador de Microsoft integrará la inteligencia artificial de ChatGPT</a></h4>
+    <a href='https://computerhoy.com/internet/buscador-microsoft-integrara-inteligencia-artificial-chatgpt-1179386' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/microsoft-2919206.jpg?tf=1200x' alt='El buscador de Microsoft integrará la inteligencia artificial de ChatGPT' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/patrocinado/ya-llegan-reyes-magos-aliexpress-1179066'>¡Ya llegan los Reyes Magos a AliExpress!</a></h4>
+    <a href='https://computerhoy.com/patrocinado/ya-llegan-reyes-magos-aliexpress-1179066' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/aliexpress-reyes-magos-2918630.jpg?tf=1200x' alt='¡Ya llegan los Reyes Magos a AliExpress!' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-baratos-xiaomi-991847'>Estos son los mejores móviles baratos de Xiaomi</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-baratos-xiaomi-991847' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/galeria-review-xiaomi-11-lite-new-edition-2524247.jpg?tf=1200x' alt='Estos son los mejores móviles baratos de Xiaomi' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/29-noticias-tecnologia-comenzar-manana-informado-ultimo-1179352'>29 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
-    <a href='https://computerhoy.com/tecnologia/29-noticias-tecnologia-comenzar-manana-informado-ultimo-1179352' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/29-noticias-tecnologia-comenzar-manana-informado-ultimo-2919148.jpg?tf=1200x' alt='29 noticias de tecnología para comenzar la mañana informado de lo último' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/listas/tecnologia/estos-son-cinco-mejores-moviles-baratos-samsung-576041'>Estos son los cinco mejores móviles baratos de Samsung que puedes comprar en 2022</a></h4>
-    <a href='https://computerhoy.com/listas/tecnologia/estos-son-cinco-mejores-moviles-baratos-samsung-576041' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/samsung-galaxy-a52s-5g-2519639.jpg?tf=1200x' alt='Estos son los cinco mejores móviles baratos de Samsung que puedes comprar en 2022' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/energia/bateria-agua-lago-recargar-400000-coches-electricos-1179350'>Esta batería de agua almacena electricidad de forma indefinida, es capaz de recargar 400.000 coches eléctricos</a></h4>
-    <a href='https://computerhoy.com/energia/bateria-agua-lago-recargar-400000-coches-electricos-1179350' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/bateria-agua-tiene-tamano-lago-puede-recargar-400000-coches-electricos-2918924.jpg?tf=1200x' alt='Esta batería de agua almacena electricidad de forma indefinida, es capaz de recargar 400.000 coches eléctricos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/hogarhorno-samsung-bespoke-ai-camara-inteligencia-artificial-te-avisa-comida-quema-1179134'>Samsung presenta en CES 2023 un horno con una cámara interna con IA, que te avisa si la comida se está quemando</a></h4>
-    <a href='https://computerhoy.com/hogarhorno-samsung-bespoke-ai-camara-inteligencia-artificial-te-avisa-comida-quema-1179134' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/samsung-presenta-ces-horno-camara-interna-ia-te-avisa-comida-quemando-2918918.jpg?tf=1200x' alt='Samsung presenta en CES 2023 un horno con una cámara interna con IA, que te avisa si la comida se está quemando' />
     </a>
 </div>
 
