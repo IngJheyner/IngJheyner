@@ -50,9 +50,9 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/energia/bateria-agua-lago-recargar-400000-coches-electricos-1179350'>Esta batería de agua almacena electridad de forma indefinida, es capaz de recargar 400.000 coches eléctricos</a></h4>
+    <h4><a href='https://computerhoy.com/energia/bateria-agua-lago-recargar-400000-coches-electricos-1179350'>Esta batería de agua almacena electricidad de forma indefinida, es capaz de recargar 400.000 coches eléctricos</a></h4>
     <a href='https://computerhoy.com/energia/bateria-agua-lago-recargar-400000-coches-electricos-1179350' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/bateria-agua-tiene-tamano-lago-puede-recargar-400000-coches-electricos-2918924.jpg?tf=1200x' alt='Esta batería de agua almacena electridad de forma indefinida, es capaz de recargar 400.000 coches eléctricos' />
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/bateria-agua-tiene-tamano-lago-puede-recargar-400000-coches-electricos-2918924.jpg?tf=1200x' alt='Esta batería de agua almacena electricidad de forma indefinida, es capaz de recargar 400.000 coches eléctricos' />
     </a>
 </div>
 
