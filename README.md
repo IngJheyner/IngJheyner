@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/fundacion-temporada-2-trailer-fecha-estreno-apple-tv-plus-isaac-asimov-1179684'>Fundación Temporada 2: la megaserie de Isaac Asimov ya tiene tráiler y fecha de estreno en Apple TV+</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/fundacion-temporada-2-trailer-fecha-estreno-apple-tv-plus-isaac-asimov-1179684' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/verticalimage1672863170646-2919982.jpg?tf=1200x' alt='Fundación Temporada 2: la megaserie de Isaac Asimov ya tiene tráiler y fecha de estreno en Apple TV+' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciencia/estos-son-minerales-raros-tierra-son-tan-escasos-aparentemente-no-hay-1179678'>Estos son los minerales más raros de la Tierra y son tan escasos que aparentemente no hay más</a></h4>
     <a href='https://computerhoy.com/ciencia/estos-son-minerales-raros-tierra-son-tan-escasos-aparentemente-no-hay-1179678' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/minerales-2919946.jpg?tf=1200x' alt='Estos son los minerales más raros de la Tierra y son tan escasos que aparentemente no hay más' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/apple/samsung-no-fabricara-pantallas-todos-iphone-15-1179642'>Samsung no fabricará las pantallas de todos los iPhone 15</a></h4>
     <a href='https://computerhoy.com/apple/samsung-no-fabricara-pantallas-todos-iphone-15-1179642' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/iphone-14-2903090.jpg?tf=1200x' alt='Samsung no fabricará las pantallas de todos los iPhone 15' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/audio/auriculares-gaming-barras-sonido-estas-son-novedades-jbl-ces-2023-1179600'>Auriculares gaming y barras de sonido: estas son las novedades de JBL para el CES 2023</a></h4>
-    <a href='https://computerhoy.com/audio/auriculares-gaming-barras-sonido-estas-son-novedades-jbl-ces-2023-1179600' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/auriculares-gaming-barras-sonido-estas-son-novedades-jbl-ces-2023-2919736.jpg?tf=1200x' alt='Auriculares gaming y barras de sonido: estas son las novedades de JBL para el CES 2023' />
     </a>
 </div>
 
