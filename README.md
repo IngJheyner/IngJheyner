@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/audio/auriculares-gaming-barras-sonido-estas-son-novedades-jbl-ces-2023-1179600'>Auriculares gaming y barras de sonido: estas son las novedades de JBL para el CES 2023</a></h4>
+    <a href='https://computerhoy.com/audio/auriculares-gaming-barras-sonido-estas-son-novedades-jbl-ces-2023-1179600' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/auriculares-gaming-barras-sonido-estas-son-novedades-jbl-ces-2023-2919736.jpg?tf=1200x' alt='Auriculares gaming y barras de sonido: estas son las novedades de JBL para el CES 2023' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tv/panasonic-mz2000-estrena-nueva-pantalla-microlentes-oled-prestaciones-cine-1179616'>Panasonic MZ2000 estrena nueva pantalla con microlentes OLED y prestaciones de cine</a></h4>
     <a href='https://computerhoy.com/tv/panasonic-mz2000-estrena-nueva-pantalla-microlentes-oled-prestaciones-cine-1179616' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/panasonic-oled-mz2000-2919778.jpg?tf=1200x' alt='Panasonic MZ2000 estrena nueva pantalla con microlentes OLED y prestaciones de cine' />
@@ -68,7 +76,7 @@
 <div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tv/lg-muestra-novedades-2023-ces-televisores-transparentes-inalambricos-1179622'>LG muestra sus novedades para 2023 en el CES: televisores transparentes e inalámbricos</a></h4>
     <a href='https://computerhoy.com/tv/lg-muestra-novedades-2023-ces-televisores-transparentes-inalambricos-1179622' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/lg-muestra-todas-novedades-2023-ces-vegas-2919750.jpg?tf=1200x' alt='LG muestra sus novedades para 2023 en el CES: televisores transparentes e inalámbricos' />
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/lg-muestra-novedades-2023-ces-televisores-transparentes-inalambricos-2919844.jpg?tf=1200x' alt='LG muestra sus novedades para 2023 en el CES: televisores transparentes e inalámbricos' />
     </a>
 </div>
 
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/como-llamar-numero-oculto-todas-opciones-posibles-iphone-android-935835'>Cómo llamar con número oculto en iPhone y Android</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/como-llamar-numero-oculto-todas-opciones-posibles-iphone-android-935835' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/numero-oculto-movil-2606439.jpg?tf=1200x' alt='Cómo llamar con número oculto en iPhone y Android' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/amazon/como-acceder-seccion-secreta-amazon-todo-mucho-barato-1179562'>Cómo acceder a la sección secreta de Amazon en la que todo es mucho más barato</a></h4>
-    <a href='https://computerhoy.com/amazon/como-acceder-seccion-secreta-amazon-todo-mucho-barato-1179562' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/cajas-amazon-2877361.jpg?tf=1200x' alt='Cómo acceder a la sección secreta de Amazon en la que todo es mucho más barato' />
     </a>
 </div>
 
