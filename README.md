@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/29-noticias-tecnologia-comenzar-manana-informado-ultimo-1179352'>29 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
+    <a href='https://computerhoy.com/tecnologia/29-noticias-tecnologia-comenzar-manana-informado-ultimo-1179352' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/29-noticias-tecnologia-comenzar-manana-informado-ultimo-2919148.jpg?tf=1200x' alt='29 noticias de tecnología para comenzar la mañana informado de lo último' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/listas/tecnologia/estos-son-cinco-mejores-moviles-baratos-samsung-576041'>Estos son los cinco mejores móviles baratos de Samsung que puedes comprar en 2022</a></h4>
+    <a href='https://computerhoy.com/listas/tecnologia/estos-son-cinco-mejores-moviles-baratos-samsung-576041' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/samsung-galaxy-a52s-5g-2519639.jpg?tf=1200x' alt='Estos son los cinco mejores móviles baratos de Samsung que puedes comprar en 2022' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/energia/bateria-agua-lago-recargar-400000-coches-electricos-1179350'>Esta batería de agua almacena electricidad de forma indefinida, es capaz de recargar 400.000 coches eléctricos</a></h4>
     <a href='https://computerhoy.com/energia/bateria-agua-lago-recargar-400000-coches-electricos-1179350' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/bateria-agua-tiene-tamano-lago-puede-recargar-400000-coches-electricos-2918924.jpg?tf=1200x' alt='Esta batería de agua almacena electricidad de forma indefinida, es capaz de recargar 400.000 coches eléctricos' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/moviles/oferta-regalo-reyes-iphone-14-bate-record-precio-bajo-1179128'>Esta oferta sí que es un regalo de Reyes: el nuevo iPhone 14 bate récord de precio bajo</a></h4>
     <a href='https://computerhoy.com/moviles/oferta-regalo-reyes-iphone-14-bate-record-precio-bajo-1179128' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/review-iphone-14-2821553.jpg?tf=1200x' alt='Esta oferta sí que es un regalo de Reyes: el nuevo iPhone 14 bate récord de precio bajo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/vota-premios-computerhoy-2022-finalistas-mejor-smartwatch-1179068'>Vota en los Premios ComputerHoy 2022: finalistas al mejor smartwatch</a></h4>
-    <a href='https://computerhoy.com/tecnologia/vota-premios-computerhoy-2022-finalistas-mejor-smartwatch-1179068' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/vota-premios-computerhoy-2021-finalistas-mejores-smartwatches-2570361.jpg?tf=1200x' alt='Vota en los Premios ComputerHoy 2022: finalistas al mejor smartwatch' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/witcher-origen-sangre-decepcion-futuro-oscuro-witcher-sin-henry-cavill-1179120'>The Witcher: El Origen de la Sangre es una decepción, y augura un futuro oscuro para The Witcher sin Henry Cavill</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/witcher-origen-sangre-decepcion-futuro-oscuro-witcher-sin-henry-cavill-1179120' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/verticalimage1672779746187-2918898.jpg?tf=1200x' alt='The Witcher: El Origen de la Sangre es una decepción, y augura un futuro oscuro para The Witcher sin Henry Cavill' />
     </a>
 </div>
 
