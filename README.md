@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/estos-son-minerales-raros-tierra-son-tan-escasos-aparentemente-no-hay-1179678'>Estos son los minerales más raros de la Tierra y son tan escasos que aparentemente no hay más</a></h4>
+    <a href='https://computerhoy.com/ciencia/estos-son-minerales-raros-tierra-son-tan-escasos-aparentemente-no-hay-1179678' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/minerales-2919946.jpg?tf=1200x' alt='Estos son los minerales más raros de la Tierra y son tan escasos que aparentemente no hay más' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/motor/como-debes-ajustar-espejos-retrovisores-vehiculo-guardia-civil-1179674'>Así es cómo debes ajustar los espejos retrovisores de tu vehículo, según la Guardia Civil</a></h4>
+    <a href='https://computerhoy.com/motor/como-debes-ajustar-espejos-retrovisores-vehiculo-guardia-civil-1179674' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/retrovisor-2919940.jpg?tf=1200x' alt='Así es cómo debes ajustar los espejos retrovisores de tu vehículo, según la Guardia Civil' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/pc/asus-renueva-toda-gama-portatiles-proart-studiobook-zenbook-pro-vivobook-pro-2023-1179540'>Asus renueva toda su gama de portátiles ProART Studiobook, Zenbook Pro y Vivobook Pro de 2023</a></h4>
     <a href='https://computerhoy.com/pc/asus-renueva-toda-gama-portatiles-proart-studiobook-zenbook-pro-vivobook-pro-2023-1179540' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/portatiles-asus-ces-2023-2919558.jpg?tf=1200x' alt='Asus renueva toda su gama de portátiles ProART Studiobook, Zenbook Pro y Vivobook Pro de 2023' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/audio/auriculares-gaming-barras-sonido-estas-son-novedades-jbl-ces-2023-1179600'>Auriculares gaming y barras de sonido: estas son las novedades de JBL para el CES 2023</a></h4>
     <a href='https://computerhoy.com/audio/auriculares-gaming-barras-sonido-estas-son-novedades-jbl-ces-2023-1179600' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/auriculares-gaming-barras-sonido-estas-son-novedades-jbl-ces-2023-2919736.jpg?tf=1200x' alt='Auriculares gaming y barras de sonido: estas son las novedades de JBL para el CES 2023' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tv/panasonic-mz2000-estrena-nueva-pantalla-microlentes-oled-prestaciones-cine-1179616'>Panasonic MZ2000 estrena nueva pantalla con microlentes OLED y prestaciones de cine</a></h4>
-    <a href='https://computerhoy.com/tv/panasonic-mz2000-estrena-nueva-pantalla-microlentes-oled-prestaciones-cine-1179616' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/panasonic-oled-mz2000-2919778.jpg?tf=1200x' alt='Panasonic MZ2000 estrena nueva pantalla con microlentes OLED y prestaciones de cine' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/lg-gram-actualiza-diseno-elegante-ultimos-procesadores-intel-1179512'>LG Gram se actualiza con un diseño más elegante y los últimos procesadores Intel </a></h4>
-    <a href='https://computerhoy.com/tecnologia/lg-gram-actualiza-diseno-elegante-ultimos-procesadores-intel-1179512' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/lg-gram-actualiza-diseno-elegante-ultimos-procesadores-intel-2919514.jpg?tf=1200x' alt='LG Gram se actualiza con un diseño más elegante y los últimos procesadores Intel ' />
     </a>
 </div>
 
