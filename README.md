@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/amazon/como-acceder-seccion-secreta-amazon-todo-mucho-barato-1179562'>Cómo acceder a la sección secreta de Amazon en la que todo es mucho más barato</a></h4>
+    <a href='https://computerhoy.com/amazon/como-acceder-seccion-secreta-amazon-todo-mucho-barato-1179562' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/cajas-amazon-2877361.jpg?tf=1200x' alt='Cómo acceder a la sección secreta de Amazon en la que todo es mucho más barato' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/moviles/oneplus-11-5g-buds-pro-2-ya-son-oficiales-llegaran-espana-febrero-1179538'>OnePlus 11 5G y Buds Pro 2 ya son oficiales y llegarán a España en febrero</a></h4>
     <a href='https://computerhoy.com/moviles/oneplus-11-5g-buds-pro-2-ya-son-oficiales-llegaran-espana-febrero-1179538' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/oneplus-11-5g-buds-pro-2-2919546.jpg?tf=1200x' alt='OnePlus 11 5G y Buds Pro 2 ya son oficiales y llegarán a España en febrero' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/motor/puedes-no-puedes-hacer-2023-tienes-coche-etiqueta-b-dgt-1179500'>Qué puedes y qué no puedes hacer en 2023 si tienes un coche con etiqueta B de la DGT</a></h4>
     <a href='https://computerhoy.com/motor/puedes-no-puedes-hacer-2023-tienes-coche-etiqueta-b-dgt-1179500' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/etiquetas-ambientales-dgt-2537893.jpg?tf=1200x' alt='Qué puedes y qué no puedes hacer en 2023 si tienes un coche con etiqueta B de la DGT' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/vota-premios-computerhoy-2022-finalistas-mejor-dispositivo-ehome-1179114'>Vota en los Premios ComputerHoy 2022: finalistas al mejor dispositivo eHome</a></h4>
-    <a href='https://computerhoy.com/tecnologia/vota-premios-computerhoy-2022-finalistas-mejor-dispositivo-ehome-1179114' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/vota-premios-computerhoy-2021-finalistas-mejores-altavoces-inteligentes-2576069.jpg?tf=1200x' alt='Vota en los Premios ComputerHoy 2022: finalistas al mejor dispositivo eHome' />
     </a>
 </div>
 
