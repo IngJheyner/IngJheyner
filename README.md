@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/redes-sociales/imagenes-frases-memes-felicitar-reyes-magos-2023-whastapp-1180114'>Imágenes, frases y memes para felicitar los Reyes Magos 2023 por WhastApp</a></h4>
-    <a href='https://computerhoy.com/redes-sociales/imagenes-frases-memes-felicitar-reyes-magos-2023-whastapp-1180114' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/12/tres-reyes-magos-mitos-navidad.jpg?tf=1200x' alt='Imágenes, frases y memes para felicitar los Reyes Magos 2023 por WhastApp' />
+    <h4><a href='https://computerhoy.com/son-nuevos-razer-blade-rtx40-ultimo-intel-version-18-pulgadas-1177532'>Así son los nuevos Razer Blade: RTX40, lo último de Intel y una versión de 18 pulgadas</a></h4>
+    <a href='https://computerhoy.com/son-nuevos-razer-blade-rtx40-ultimo-intel-version-18-pulgadas-1177532' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/razer-blade-18-2916502.jpg?tf=1200x' alt='Así son los nuevos Razer Blade: RTX40, lo último de Intel y una versión de 18 pulgadas' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/motorola-thinkphone-movil-profesionales-ha-presentado-ces-2023-1175164'>Motorola ThinkPhone, así es el móvil para profesionales que se ha presentado en CES 2023</a></h4>
-    <a href='https://computerhoy.com/moviles/motorola-thinkphone-movil-profesionales-ha-presentado-ces-2023-1175164' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/motorola-thinkphone-2911338.jpg?tf=1200x' alt='Motorola ThinkPhone, así es el móvil para profesionales que se ha presentado en CES 2023' />
+    <h4><a href='https://computerhoy.com/hogar/llega-evolucion-natural-razer-negocio-luces-rgb-setup-1177534'>Llega la evolución natural de Razer, el negocio de las luces RGB para nuestro setup</a></h4>
+    <a href='https://computerhoy.com/hogar/llega-evolucion-natural-razer-negocio-luces-rgb-setup-1177534' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/razer-smart-home-2916482.jpg?tf=1200x' alt='Llega la evolución natural de Razer, el negocio de las luces RGB para nuestro setup' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/internet/que-es-localhost-ip-127001-que-utiliza-48046'> ¿Qué es localhost o IP 127.0.0.1 y para qué se utiliza?</a></h4>
-    <a href='https://computerhoy.com/noticias/internet/que-es-localhost-ip-127001-que-utiliza-48046' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2016/07/182064-que-es-localhost-ip-127001-que-utiliza.jpg?tf=1200x' alt=' ¿Qué es localhost o IP 127.0.0.1 y para qué se utiliza?' />
+    <h4><a href='https://computerhoy.com/audio/razer-atreve-cojin-sonido-vibracion-haptica-project-carol-1177438'>Razer se atreve con un cojín con sonido y vibración háptica: así es Project Carol</a></h4>
+    <a href='https://computerhoy.com/audio/razer-atreve-cojin-sonido-vibracion-haptica-project-carol-1177438' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/project-carol-2915638.jpg?tf=1200x' alt='Razer se atreve con un cojín con sonido y vibración háptica: así es Project Carol' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/consiguen-generar-hidrogeno-barato-usando-energia-solar-1180130'>Consiguen generar hidrógeno barato usando energía solar</a></h4>
-    <a href='https://computerhoy.com/ciencia/consiguen-generar-hidrogeno-barato-usando-energia-solar-1180130' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/consiguen-generar-hidrogeno-barato-usando-energia-solar-2920924.jpg?tf=1200x' alt='Consiguen generar hidrógeno barato usando energía solar' />
+    <h4><a href='https://computerhoy.com/audio/razer-leviathan-v2-pro-barra-sonido-tecnologia-vas-ver-1176928'>La Razer Leviathan V2 Pro es la barra de sonido con más tecnología que vas a ver</a></h4>
+    <a href='https://computerhoy.com/audio/razer-leviathan-v2-pro-barra-sonido-tecnologia-vas-ver-1176928' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/leviathan-v2-pro-2914704.jpg?tf=1200x' alt='La Razer Leviathan V2 Pro es la barra de sonido con más tecnología que vas a ver' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/sorprende-hijos-videollamada-muy-especial-reyes-magos-1180064'>Sorprende a tus hijos con una videollamada muy especial de los Reyes Magos</a></h4>
-    <a href='https://computerhoy.com/internet/sorprende-hijos-videollamada-muy-especial-reyes-magos-1180064' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/web-hace-reyes-magos-llamen-hijos-2920666.jpg?tf=1200x' alt='Sorprende a tus hijos con una videollamada muy especial de los Reyes Magos' />
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-honor-1128811'>Estos son los mejores móviles Honor este año</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-honor-1128811' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/analisis-honor-70-2798869.jpg?tf=1200x' alt='Estos son los mejores móviles Honor este año' />
     </a>
 </div>
 
