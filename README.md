@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/hogar/qbear-dispositivo-inteligencia-artificial-traduce-llanto-bebes-video-1180256'>Crean un dispositivo basado en inteligencia artificial que traduce el llanto de los bebés (vídeo)</a></h4>
+    <a href='https://computerhoy.com/hogar/qbear-dispositivo-inteligencia-artificial-traduce-llanto-bebes-video-1180256' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/qbear-2921306.jpg?tf=1200x' alt='Crean un dispositivo basado en inteligencia artificial que traduce el llanto de los bebés (vídeo)' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/nueva-funcion-whatsapp-guardar-mensajes-temporales-te-evitara-muchos-problemas-1180214'>La nueva función de WhatsApp para guardar mensajes temporales que te evitará muchos problemas</a></h4>
+    <a href='https://computerhoy.com/apps/nueva-funcion-whatsapp-guardar-mensajes-temporales-te-evitara-muchos-problemas-1180214' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/whatsapp-2898188.jpg?tf=1200x' alt='La nueva función de WhatsApp para guardar mensajes temporales que te evitará muchos problemas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/audio/harman-explore-2023-nuevos-auriculares-altavoces-barras-sonido-mucho-1180190'>Harman Explore 2023: nuevos auriculares, altavoces, barras de sonido y mucho más</a></h4>
     <a href='https://computerhoy.com/audio/harman-explore-2023-nuevos-auriculares-altavoces-barras-sonido-mucho-1180190' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/harman-explore-2023-nuevos-auriculares-altavoces-barras-sonido-mucho-2921294.jpg?tf=1200x' alt='Harman Explore 2023: nuevos auriculares, altavoces, barras de sonido y mucho más' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/alimentacion/facua-pone-seria-denuncia-7-supermercados-no-repercutir-forma-correcta-rebaja-iva-ciertos-alimentos-1180258'>FACUA se pone seria y denuncia a 7 supermercados por no repercutir de forma correcta la rebaja del IVA a ciertos alimentos</a></h4>
     <a href='https://computerhoy.com/alimentacion/facua-pone-seria-denuncia-7-supermercados-no-repercutir-forma-correcta-rebaja-iva-ciertos-alimentos-1180258' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/cesta-compra-2921282.jpg?tf=1200x' alt='FACUA se pone seria y denuncia a 7 supermercados por no repercutir de forma correcta la rebaja del IVA a ciertos alimentos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/smartwatches/reloj-suunto-5-peak-gps-frecuencia-cardiaca-descuento-1180262'>Este reloj con GPS, frecuencia cardíaca y 100 horas de batería, tiene un 40% de descuento</a></h4>
-    <a href='https://computerhoy.com/smartwatches/reloj-suunto-5-peak-gps-frecuencia-cardiaca-descuento-1180262' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/suunto-5-peak-2921298.jpg?tf=1200x' alt='Este reloj con GPS, frecuencia cardíaca y 100 horas de batería, tiene un 40% de descuento' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/china-anuncia-programa-espacial-establecer-base-luna-pesar-preocupaciones-estados-unidos-1180254'>China anuncia su programa espacial para establecer una base en la Luna, a pesar de las preocupaciones de Estados Unidos</a></h4>
-    <a href='https://computerhoy.com/espacio/china-anuncia-programa-espacial-establecer-base-luna-pesar-preocupaciones-estados-unidos-1180254' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/superficie-luna-2921252.jpg?tf=1200x' alt='China anuncia su programa espacial para establecer una base en la Luna, a pesar de las preocupaciones de Estados Unidos' />
     </a>
 </div>
 
