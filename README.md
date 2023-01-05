@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/internet/sorprende-hijos-videollamada-muy-especial-reyes-magos-1180064'>Sorprende a tus hijos con una videollamada muy especial de los Reyes Magos</a></h4>
+    <a href='https://computerhoy.com/internet/sorprende-hijos-videollamada-muy-especial-reyes-magos-1180064' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/web-hace-reyes-magos-llamen-hijos-2920666.jpg?tf=1200x' alt='Sorprende a tus hijos con una videollamada muy especial de los Reyes Magos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/smartwatches/samsung-galaxy-watch5-oferta-1179698'>El reloj estrella de Samsung sigue bajando de precio y rompe la barrera de los 200 euros</a></h4>
     <a href='https://computerhoy.com/smartwatches/samsung-galaxy-watch5-oferta-1179698' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/estrena-smartwatch-samsung-galaxy-watch5-menos-200-euros-2920030.jpg?tf=1200x' alt='El reloj estrella de Samsung sigue bajando de precio y rompe la barrera de los 200 euros' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/apple/apple-utilizara-ia-poner-voz-catalogo-audiolibros-locutores-pie-guerra-1180030'>Apple utilizará la IA para poner voz a su catálogo de audiolibros: los locutores en pie de guerra</a></h4>
     <a href='https://computerhoy.com/apple/apple-utilizara-ia-poner-voz-catalogo-audiolibros-locutores-pie-guerra-1180030' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/chatgpt-solo-fue-principio-apple-utiliza-inteligencia-artificial-crear-audiolibros-2920568.jpg?tf=1200x' alt='Apple utilizará la IA para poner voz a su catálogo de audiolibros: los locutores en pie de guerra' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/industria/europa-multa-facebook-instagram-usar-datos-usuarios-1180018'>Europa multa a Facebook e Instagram por usar los datos de sus usuarios</a></h4>
-    <a href='https://computerhoy.com/industria/europa-multa-facebook-instagram-usar-datos-usuarios-1180018' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/partir-manana-internet-va-cambiar-siempre-europa-2859321.jpg?tf=1200x' alt='Europa multa a Facebook e Instagram por usar los datos de sus usuarios' />
     </a>
 </div>
 
