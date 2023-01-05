@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/redes-sociales/imagenes-frases-memes-felicitar-reyes-magos-2023-whastapp-1180114'>Imágenes, frases y memes para felicitar los Reyes Magos 2023 por WhastApp</a></h4>
+    <a href='https://computerhoy.com/redes-sociales/imagenes-frases-memes-felicitar-reyes-magos-2023-whastapp-1180114' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/12/tres-reyes-magos-mitos-navidad.jpg?tf=1200x' alt='Imágenes, frases y memes para felicitar los Reyes Magos 2023 por WhastApp' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/moviles/motorola-thinkphone-movil-profesionales-ha-presentado-ces-2023-1175164'>Motorola ThinkPhone, así es el móvil para profesionales que se ha presentado en CES 2023</a></h4>
+    <a href='https://computerhoy.com/moviles/motorola-thinkphone-movil-profesionales-ha-presentado-ces-2023-1175164' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/motorola-thinkphone-2911338.jpg?tf=1200x' alt='Motorola ThinkPhone, así es el móvil para profesionales que se ha presentado en CES 2023' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/internet/que-es-localhost-ip-127001-que-utiliza-48046'> ¿Qué es localhost o IP 127.0.0.1 y para qué se utiliza?</a></h4>
+    <a href='https://computerhoy.com/noticias/internet/que-es-localhost-ip-127001-que-utiliza-48046' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2016/07/182064-que-es-localhost-ip-127001-que-utiliza.jpg?tf=1200x' alt=' ¿Qué es localhost o IP 127.0.0.1 y para qué se utiliza?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciencia/consiguen-generar-hidrogeno-barato-usando-energia-solar-1180130'>Consiguen generar hidrógeno barato usando energía solar</a></h4>
     <a href='https://computerhoy.com/ciencia/consiguen-generar-hidrogeno-barato-usando-energia-solar-1180130' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/consiguen-generar-hidrogeno-barato-usando-energia-solar-2920924.jpg?tf=1200x' alt='Consiguen generar hidrógeno barato usando energía solar' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/internet/sorprende-hijos-videollamada-muy-especial-reyes-magos-1180064'>Sorprende a tus hijos con una videollamada muy especial de los Reyes Magos</a></h4>
     <a href='https://computerhoy.com/internet/sorprende-hijos-videollamada-muy-especial-reyes-magos-1180064' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/web-hace-reyes-magos-llamen-hijos-2920666.jpg?tf=1200x' alt='Sorprende a tus hijos con una videollamada muy especial de los Reyes Magos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/smartwatches/samsung-galaxy-watch5-oferta-1179698'>El reloj estrella de Samsung sigue bajando de precio y rompe la barrera de los 200 euros</a></h4>
-    <a href='https://computerhoy.com/smartwatches/samsung-galaxy-watch5-oferta-1179698' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/estrena-smartwatch-samsung-galaxy-watch5-menos-200-euros-2920030.jpg?tf=1200x' alt='El reloj estrella de Samsung sigue bajando de precio y rompe la barrera de los 200 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/patrocinado/cuatro-portatiles-intel-evo-comenzar-2023-grande-1179526'>Cuatro portátiles Intel Evo para comenzar 2023 a lo grande</a></h4>
-    <a href='https://computerhoy.com/patrocinado/cuatro-portatiles-intel-evo-comenzar-2023-grande-1179526' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/intel-evo-2903732.jpg?tf=1200x' alt='Cuatro portátiles Intel Evo para comenzar 2023 a lo grande' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/amazon/amazon-despide-18000-empleados-no-unica-tecnologica-apuros-1180038'>Amazon despide a 18.000 empleados y no es la única tecnológica en apuros</a></h4>
-    <a href='https://computerhoy.com/amazon/amazon-despide-18000-empleados-no-unica-tecnologica-apuros-1180038' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/repartidor-amazon-2755601.jpg?tf=1200x' alt='Amazon despide a 18.000 empleados y no es la única tecnológica en apuros' />
     </a>
 </div>
 
