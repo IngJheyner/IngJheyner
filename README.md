@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/smartwatches/samsung-galaxy-watch5-oferta-1179698'>El reloj estrella de Samsung sigue bajando de precio y rompe la barrera de los 200 euros</a></h4>
+    <a href='https://computerhoy.com/smartwatches/samsung-galaxy-watch5-oferta-1179698' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/estrena-smartwatch-samsung-galaxy-watch5-menos-200-euros-2920030.jpg?tf=1200x' alt='El reloj estrella de Samsung sigue bajando de precio y rompe la barrera de los 200 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/patrocinado/cuatro-portatiles-intel-evo-comenzar-2023-grande-1179526'>Cuatro portátiles Intel Evo para comenzar 2023 a lo grande</a></h4>
+    <a href='https://computerhoy.com/patrocinado/cuatro-portatiles-intel-evo-comenzar-2023-grande-1179526' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/intel-evo-2903732.jpg?tf=1200x' alt='Cuatro portátiles Intel Evo para comenzar 2023 a lo grande' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/amazon/amazon-despide-18000-empleados-no-unica-tecnologica-apuros-1180038'>Amazon despide a 18.000 empleados y no es la única tecnológica en apuros</a></h4>
+    <a href='https://computerhoy.com/amazon/amazon-despide-18000-empleados-no-unica-tecnologica-apuros-1180038' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/repartidor-amazon-2755601.jpg?tf=1200x' alt='Amazon despide a 18.000 empleados y no es la única tecnológica en apuros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/apple-utilizara-ia-poner-voz-catalogo-audiolibros-locutores-pie-guerra-1180030'>Apple utilizará la IA para poner voz a su catálogo de audiolibros: los locutores en pie de guerra</a></h4>
+    <a href='https://computerhoy.com/apple/apple-utilizara-ia-poner-voz-catalogo-audiolibros-locutores-pie-guerra-1180030' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/chatgpt-solo-fue-principio-apple-utiliza-inteligencia-artificial-crear-audiolibros-2920568.jpg?tf=1200x' alt='Apple utilizará la IA para poner voz a su catálogo de audiolibros: los locutores en pie de guerra' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/industria/europa-multa-facebook-instagram-usar-datos-usuarios-1180018'>Europa multa a Facebook e Instagram por usar los datos de sus usuarios</a></h4>
     <a href='https://computerhoy.com/industria/europa-multa-facebook-instagram-usar-datos-usuarios-1180018' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/partir-manana-internet-va-cambiar-siempre-europa-2859321.jpg?tf=1200x' alt='Europa multa a Facebook e Instagram por usar los datos de sus usuarios' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/microsoft-anuncia-fin-actualizaciones-seguridad-soporte-tecnico-windows-7-windows-8x-1179994'>Microsoft anuncia el fin de las actualizaciones de seguridad y soporte técnico para Windows 7 y Windows 8.X</a></h4>
-    <a href='https://computerhoy.com/windows/microsoft-anuncia-fin-actualizaciones-seguridad-soporte-tecnico-windows-7-windows-8x-1179994' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/windows-7-windows-8x-convierten-oficialmente-sistemas-operativos-peligrosos-2920516.jpg?tf=1200x' alt='Microsoft anuncia el fin de las actualizaciones de seguridad y soporte técnico para Windows 7 y Windows 8.X' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/como-fijar-tres-chats-whatsapp-truco-1179992'>Cómo fijar más de tres chats en WhatsApp con este truco</a></h4>
-    <a href='https://computerhoy.com/apps/como-fijar-tres-chats-whatsapp-truco-1179992' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/whatsapp-2875967.jpg?tf=1200x' alt='Cómo fijar más de tres chats en WhatsApp con este truco' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/producto-estrella-sony-ces-2023-no-televisor-sino-coche-electrico-nombre-afeela-1179978'>El producto estrella de Sony en CES 2023 no es un televisor, sino un coche eléctrico con nombre Afeela</a></h4>
-    <a href='https://computerhoy.com/motor/producto-estrella-sony-ces-2023-no-televisor-sino-coche-electrico-nombre-afeela-1179978' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/producto-estrella-sony-ces-2023-no-televisor-sino-coche-electrico-2920484.jpg?tf=1200x' alt='El producto estrella de Sony en CES 2023 no es un televisor, sino un coche eléctrico con nombre Afeela' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-relojes-inteligentes-hemos-probado-ultimamente-1006129'>Estos son los 10 mejores relojes inteligentes que hemos probado últimamente</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-relojes-inteligentes-hemos-probado-ultimamente-1006129' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/fitbit-sense-2-2898202.jpg?tf=1200x' alt='Estos son los 10 mejores relojes inteligentes que hemos probado últimamente' />
     </a>
 </div>
 
