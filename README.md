@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/industria/europa-multa-facebook-instagram-usar-datos-usuarios-1180018'>Europa multa a Facebook e Instagram por usar los datos de sus usuarios</a></h4>
+    <a href='https://computerhoy.com/industria/europa-multa-facebook-instagram-usar-datos-usuarios-1180018' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/partir-manana-internet-va-cambiar-siempre-europa-2859321.jpg?tf=1200x' alt='Europa multa a Facebook e Instagram por usar los datos de sus usuarios' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/windows/microsoft-anuncia-fin-actualizaciones-seguridad-soporte-tecnico-windows-7-windows-8x-1179994'>Microsoft anuncia el fin de las actualizaciones de seguridad y soporte técnico para Windows 7 y Windows 8.X</a></h4>
+    <a href='https://computerhoy.com/windows/microsoft-anuncia-fin-actualizaciones-seguridad-soporte-tecnico-windows-7-windows-8x-1179994' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/windows-7-windows-8x-convierten-oficialmente-sistemas-operativos-peligrosos-2920516.jpg?tf=1200x' alt='Microsoft anuncia el fin de las actualizaciones de seguridad y soporte técnico para Windows 7 y Windows 8.X' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/como-fijar-tres-chats-whatsapp-truco-1179992'>Cómo fijar más de tres chats en WhatsApp con este truco</a></h4>
+    <a href='https://computerhoy.com/apps/como-fijar-tres-chats-whatsapp-truco-1179992' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/whatsapp-2875967.jpg?tf=1200x' alt='Cómo fijar más de tres chats en WhatsApp con este truco' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/motor/producto-estrella-sony-ces-2023-no-televisor-sino-coche-electrico-nombre-afeela-1179978'>El producto estrella de Sony en CES 2023 no es un televisor, sino un coche eléctrico con nombre Afeela</a></h4>
     <a href='https://computerhoy.com/motor/producto-estrella-sony-ces-2023-no-televisor-sino-coche-electrico-nombre-afeela-1179978' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/producto-estrella-sony-ces-2023-no-televisor-sino-coche-electrico-2920484.jpg?tf=1200x' alt='El producto estrella de Sony en CES 2023 no es un televisor, sino un coche eléctrico con nombre Afeela' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-relojes-inteligentes-hemos-probado-ultimamente-1006129'>Estos son los 10 mejores relojes inteligentes que hemos probado últimamente</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/mejores-relojes-inteligentes-hemos-probado-ultimamente-1006129' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/fitbit-sense-2-2898202.jpg?tf=1200x' alt='Estos son los 10 mejores relojes inteligentes que hemos probado últimamente' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/30-noticias-tecnologia-comenzar-manana-informado-ultimo-1179942'>30 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
-    <a href='https://computerhoy.com/tecnologia/30-noticias-tecnologia-comenzar-manana-informado-ultimo-1179942' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/30-noticias-tecnologia-comenzar-manana-informado-ultimo-2920336.jpg?tf=1200x' alt='30 noticias de tecnología para comenzar la mañana informado de lo último' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/mejores-consolas-portatiles-ofertas-descuentos-915015'>Estas son las mejores consolas portátiles que puedes comprar</a></h4>
-    <a href='https://computerhoy.com/reportajes/mejores-consolas-portatiles-ofertas-descuentos-915015' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/analisis-steam-deck-2704099.jpg?tf=1200x' alt='Estas son las mejores consolas portátiles que puedes comprar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/marcas-coches-vulnerabilidades-abrirlos-rastrearlos-cambiar-dueno-1179912'>La nueva pesadilla de los conductores: 20 marcas de coches tienen vulnerabilidades que permiten abrirlos, rastrearlos y cambiar el dueño</a></h4>
-    <a href='https://computerhoy.com/motor/marcas-coches-vulnerabilidades-abrirlos-rastrearlos-cambiar-dueno-1179912' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/coche-hidrogeno-2766161.jpg?tf=1200x' alt='La nueva pesadilla de los conductores: 20 marcas de coches tienen vulnerabilidades que permiten abrirlos, rastrearlos y cambiar el dueño' />
     </a>
 </div>
 
