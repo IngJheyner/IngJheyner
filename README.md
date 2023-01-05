@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/audio/harman-explore-2023-nuevos-auriculares-altavoces-barras-sonido-mucho-1180190'>Harman Explore 2023: nuevos auriculares, altavoces, barras de sonido y mucho más</a></h4>
+    <a href='https://computerhoy.com/audio/harman-explore-2023-nuevos-auriculares-altavoces-barras-sonido-mucho-1180190' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/harman-explore-2023-nuevos-auriculares-altavoces-barras-sonido-mucho-2921294.jpg?tf=1200x' alt='Harman Explore 2023: nuevos auriculares, altavoces, barras de sonido y mucho más' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/perifericos/razer-presenta-kiyo-pro-ultra-webcam-premium-2023-1176894'>Razer presenta la Kiyo Pro Ultra, su webcam más prémium para 2023</a></h4>
+    <a href='https://computerhoy.com/perifericos/razer-presenta-kiyo-pro-ultra-webcam-premium-2023-1176894' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/razer-kiyo-pro-ultra-2914630.jpg?tf=1200x' alt='Razer presenta la Kiyo Pro Ultra, su webcam más prémium para 2023' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/alimentacion/facua-pone-seria-denuncia-7-supermercados-no-repercutir-forma-correcta-rebaja-iva-ciertos-alimentos-1180258'>FACUA se pone seria y denuncia a 7 supermercados por no repercutir de forma correcta la rebaja del IVA a ciertos alimentos</a></h4>
+    <a href='https://computerhoy.com/alimentacion/facua-pone-seria-denuncia-7-supermercados-no-repercutir-forma-correcta-rebaja-iva-ciertos-alimentos-1180258' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/cesta-compra-2921282.jpg?tf=1200x' alt='FACUA se pone seria y denuncia a 7 supermercados por no repercutir de forma correcta la rebaja del IVA a ciertos alimentos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/smartwatches/reloj-suunto-5-peak-gps-frecuencia-cardiaca-descuento-1180262'>Este reloj con GPS, frecuencia cardíaca y 100 horas de batería, tiene un 40% de descuento</a></h4>
+    <a href='https://computerhoy.com/smartwatches/reloj-suunto-5-peak-gps-frecuencia-cardiaca-descuento-1180262' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/suunto-5-peak-2921298.jpg?tf=1200x' alt='Este reloj con GPS, frecuencia cardíaca y 100 horas de batería, tiene un 40% de descuento' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/espacio/china-anuncia-programa-espacial-establecer-base-luna-pesar-preocupaciones-estados-unidos-1180254'>China anuncia su programa espacial para establecer una base en la Luna, a pesar de las preocupaciones de Estados Unidos</a></h4>
     <a href='https://computerhoy.com/espacio/china-anuncia-programa-espacial-establecer-base-luna-pesar-preocupaciones-estados-unidos-1180254' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/superficie-luna-2921252.jpg?tf=1200x' alt='China anuncia su programa espacial para establecer una base en la Luna, a pesar de las preocupaciones de Estados Unidos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/son-nuevos-razer-blade-rtx40-ultimo-intel-version-18-pulgadas-1177532'>Así son los nuevos Razer Blade: RTX40, lo último de Intel y una versión de 18 pulgadas</a></h4>
-    <a href='https://computerhoy.com/son-nuevos-razer-blade-rtx40-ultimo-intel-version-18-pulgadas-1177532' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/razer-blade-18-2916502.jpg?tf=1200x' alt='Así son los nuevos Razer Blade: RTX40, lo último de Intel y una versión de 18 pulgadas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/hogar/llega-evolucion-natural-razer-negocio-luces-rgb-setup-1177534'>Llega la evolución natural de Razer, el negocio de las luces RGB para nuestro setup</a></h4>
-    <a href='https://computerhoy.com/hogar/llega-evolucion-natural-razer-negocio-luces-rgb-setup-1177534' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/razer-smart-home-2916482.jpg?tf=1200x' alt='Llega la evolución natural de Razer, el negocio de las luces RGB para nuestro setup' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/audio/razer-atreve-cojin-sonido-vibracion-haptica-project-carol-1177438'>Razer se atreve con un cojín con sonido y vibración háptica: así es Project Carol</a></h4>
-    <a href='https://computerhoy.com/audio/razer-atreve-cojin-sonido-vibracion-haptica-project-carol-1177438' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/project-carol-2915638.jpg?tf=1200x' alt='Razer se atreve con un cojín con sonido y vibración háptica: así es Project Carol' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/audio/razer-leviathan-v2-pro-barra-sonido-tecnologia-vas-ver-1176928'>La Razer Leviathan V2 Pro es la barra de sonido con más tecnología que vas a ver</a></h4>
-    <a href='https://computerhoy.com/audio/razer-leviathan-v2-pro-barra-sonido-tecnologia-vas-ver-1176928' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/leviathan-v2-pro-2914704.jpg?tf=1200x' alt='La Razer Leviathan V2 Pro es la barra de sonido con más tecnología que vas a ver' />
     </a>
 </div>
 
