@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/30-noticias-tecnologia-comenzar-manana-informado-ultimo-1179942'>30 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
+    <a href='https://computerhoy.com/tecnologia/30-noticias-tecnologia-comenzar-manana-informado-ultimo-1179942' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/30-noticias-tecnologia-comenzar-manana-informado-ultimo-2920336.jpg?tf=1200x' alt='30 noticias de tecnología para comenzar la mañana informado de lo último' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/mejores-consolas-portatiles-ofertas-descuentos-915015'>Estas son las mejores consolas portátiles que puedes comprar de 2022</a></h4>
+    <a href='https://computerhoy.com/reportajes/mejores-consolas-portatiles-ofertas-descuentos-915015' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/analisis-steam-deck-2704099.jpg?tf=1200x' alt='Estas son las mejores consolas portátiles que puedes comprar de 2022' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/motor/marcas-coches-vulnerabilidades-abrirlos-rastrearlos-cambiar-dueno-1179912'>La nueva pesadilla de los conductores: 20 marcas de coches tienen vulnerabilidades que permiten abrirlos, rastrearlos y cambiar el dueño</a></h4>
     <a href='https://computerhoy.com/motor/marcas-coches-vulnerabilidades-abrirlos-rastrearlos-cambiar-dueno-1179912' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/coche-hidrogeno-2766161.jpg?tf=1200x' alt='La nueva pesadilla de los conductores: 20 marcas de coches tienen vulnerabilidades que permiten abrirlos, rastrearlos y cambiar el dueño' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/life/zorro-dos-patas-video-1179704'>Descubre en su jardín un zorro de dos patas que camina como un dinosaurio (vídeo)</a></h4>
     <a href='https://computerhoy.com/life/zorro-dos-patas-video-1179704' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/descubre-jardin-zorro-dos-patas-camina-como-dinosaurio-video-2920072.jpg?tf=1200x' alt='Descubre en su jardín un zorro de dos patas que camina como un dinosaurio (vídeo)' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/impresionante-foto-panoramica-dia-completo-tierra-hecha-satelite-noaa-1179696'>Esta es la impresionante foto panorámica de un día completo en la Tierra hecha por el satélite NOAA</a></h4>
-    <a href='https://computerhoy.com/espacio/impresionante-foto-panoramica-dia-completo-tierra-hecha-satelite-noaa-1179696' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/satelite-tierra-2446745.jpg?tf=1200x' alt='Esta es la impresionante foto panorámica de un día completo en la Tierra hecha por el satélite NOAA' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/chromecast-google-tv-mando-rebajado-menos-30-euros-1179702'>Google le da una nueva vida a tu TV: el Chromecast con mando, rebajado a menos de 30 euros</a></h4>
-    <a href='https://computerhoy.com/google/chromecast-google-tv-mando-rebajado-menos-30-euros-1179702' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/google-da-nueva-vida-tv-chromecast-mando-rebajado-menos-30-euros-2920048.jpg?tf=1200x' alt='Google le da una nueva vida a tu TV: el Chromecast con mando, rebajado a menos de 30 euros' />
     </a>
 </div>
 
