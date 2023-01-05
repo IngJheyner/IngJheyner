@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-relojes-inteligentes-hemos-probado-ultimamente-1006129'>Estos son los 10 mejores relojes inteligentes que hemos probado últimamente</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-relojes-inteligentes-hemos-probado-ultimamente-1006129' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/fitbit-sense-2-2898202.jpg?tf=1200x' alt='Estos son los 10 mejores relojes inteligentes que hemos probado últimamente' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/30-noticias-tecnologia-comenzar-manana-informado-ultimo-1179942'>30 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
     <a href='https://computerhoy.com/tecnologia/30-noticias-tecnologia-comenzar-manana-informado-ultimo-1179942' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/30-noticias-tecnologia-comenzar-manana-informado-ultimo-2920336.jpg?tf=1200x' alt='30 noticias de tecnología para comenzar la mañana informado de lo último' />
@@ -58,9 +66,9 @@
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/mejores-consolas-portatiles-ofertas-descuentos-915015'>Estas son las mejores consolas portátiles que puedes comprar de 2022</a></h4>
+    <h4><a href='https://computerhoy.com/reportajes/mejores-consolas-portatiles-ofertas-descuentos-915015'>Estas son las mejores consolas portátiles que puedes comprar</a></h4>
     <a href='https://computerhoy.com/reportajes/mejores-consolas-portatiles-ofertas-descuentos-915015' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/analisis-steam-deck-2704099.jpg?tf=1200x' alt='Estas son las mejores consolas portátiles que puedes comprar de 2022' />
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/analisis-steam-deck-2704099.jpg?tf=1200x' alt='Estas son las mejores consolas portátiles que puedes comprar' />
     </a>
 </div>
 
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/desembarco-productos-tcl-ces-2023-tvs-electrodomesticos-inteligentes-moviles-1179686'>Desembarco de productos TCL en CES 2023: TVs, electrodomésticos inteligentes y móviles</a></h4>
     <a href='https://computerhoy.com/tecnologia/desembarco-productos-tcl-ces-2023-tvs-electrodomesticos-inteligentes-moviles-1179686' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/tcl-ces-2920026.jpg?tf=1200x' alt='Desembarco de productos TCL en CES 2023: TVs, electrodomésticos inteligentes y móviles' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/zorro-dos-patas-video-1179704'>Descubre en su jardín un zorro de dos patas que camina como un dinosaurio (vídeo)</a></h4>
-    <a href='https://computerhoy.com/life/zorro-dos-patas-video-1179704' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/descubre-jardin-zorro-dos-patas-camina-como-dinosaurio-video-2920072.jpg?tf=1200x' alt='Descubre en su jardín un zorro de dos patas que camina como un dinosaurio (vídeo)' />
     </a>
 </div>
 
