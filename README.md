@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/espacio/china-anuncia-programa-espacial-establecer-base-luna-pesar-preocupaciones-estados-unidos-1180254'>China anuncia su programa espacial para establecer una base en la Luna, a pesar de las preocupaciones de Estados Unidos</a></h4>
+    <a href='https://computerhoy.com/espacio/china-anuncia-programa-espacial-establecer-base-luna-pesar-preocupaciones-estados-unidos-1180254' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/superficie-luna-2921252.jpg?tf=1200x' alt='China anuncia su programa espacial para establecer una base en la Luna, a pesar de las preocupaciones de Estados Unidos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/son-nuevos-razer-blade-rtx40-ultimo-intel-version-18-pulgadas-1177532'>Así son los nuevos Razer Blade: RTX40, lo último de Intel y una versión de 18 pulgadas</a></h4>
     <a href='https://computerhoy.com/son-nuevos-razer-blade-rtx40-ultimo-intel-version-18-pulgadas-1177532' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/razer-blade-18-2916502.jpg?tf=1200x' alt='Así son los nuevos Razer Blade: RTX40, lo último de Intel y una versión de 18 pulgadas' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/audio/razer-leviathan-v2-pro-barra-sonido-tecnologia-vas-ver-1176928'>La Razer Leviathan V2 Pro es la barra de sonido con más tecnología que vas a ver</a></h4>
     <a href='https://computerhoy.com/audio/razer-leviathan-v2-pro-barra-sonido-tecnologia-vas-ver-1176928' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/leviathan-v2-pro-2914704.jpg?tf=1200x' alt='La Razer Leviathan V2 Pro es la barra de sonido con más tecnología que vas a ver' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-honor-1128811'>Estos son los mejores móviles Honor este año</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-honor-1128811' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/analisis-honor-70-2798869.jpg?tf=1200x' alt='Estos son los mejores móviles Honor este año' />
     </a>
 </div>
 
