@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/cartel-delincuentes-mas-buscados-policia-santa-marta-colombia-1180498'>La policía de Colombia pide ayuda para encontrar a los delincuentes más buscados... con un cartel sin fotos ni nombres</a></h4>
+    <a href='https://computerhoy.com/life/cartel-delincuentes-mas-buscados-policia-santa-marta-colombia-1180498' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/policia-colombia-pide-ayuda-encontrar-delincuentes-buscados-cartel-fotos-ni-nombres-2921548.jpg?tf=1200x' alt='La policía de Colombia pide ayuda para encontrar a los delincuentes más buscados... con un cartel sin fotos ni nombres' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/3-errores-comunes-whatsapp-deberias-evitar-2023-1180638'>3 errores comunes en WhatsApp que deberías evitar en 2023</a></h4>
+    <a href='https://computerhoy.com/apps/3-errores-comunes-whatsapp-deberias-evitar-2023-1180638' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/persona-mayor-usando-whatsapp-2531311.jpg?tf=1200x' alt='3 errores comunes en WhatsApp que deberías evitar en 2023' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/motor/queda-dormido-volante-tesla-provocando-peculiar-persecucion-policial-1180268'>Se queda dormido al volante de un Tesla provocando una peculiar persecución policial</a></h4>
+    <a href='https://computerhoy.com/motor/queda-dormido-volante-tesla-provocando-peculiar-persecucion-policial-1180268' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/tesla-model-x-2921820.jpg?tf=1200x' alt='Se queda dormido al volante de un Tesla provocando una peculiar persecución policial' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/smartwatches/stone-watch-reloj-inteligente-tonto-mundo-1180278'>Stone Watch, el reloj inteligente más tonto del mundo</a></h4>
     <a href='https://computerhoy.com/smartwatches/stone-watch-reloj-inteligente-tonto-mundo-1180278' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/stone-watch-reloj-inteligente-tonto-mundo-2921328.jpg?tf=1200x' alt='Stone Watch, el reloj inteligente más tonto del mundo' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/realidad-virtual/tcl-rayneo-x2-primeras-impresiones-primeras-gafas-ar-tienen-sentido-1180632'>TCL RayNeo X2, primeras impresiones de las primeras gafas AR que tienen sentido</a></h4>
     <a href='https://computerhoy.com/realidad-virtual/tcl-rayneo-x2-primeras-impresiones-primeras-gafas-ar-tienen-sentido-1180632' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/tcl-rayneo-x2-2921812.jpg?tf=1200x' alt='TCL RayNeo X2, primeras impresiones de las primeras gafas AR que tienen sentido' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/gaming/descenso-serpiente-juego-google-tipo-zelda-puedes-jugar-gratis-1180276'>El Descenso de la Serpiente, el juego secreto de Google tipo Zelda que puedes jugar gratis</a></h4>
-    <a href='https://computerhoy.com/gaming/descenso-serpiente-juego-google-tipo-zelda-puedes-jugar-gratis-1180276' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/descenso-serpiente-nuevo-juego-tipo-zelda-google-ya-puedes-jugar-gratis-2921322.jpg?tf=1200x' alt='El Descenso de la Serpiente, el juego secreto de Google tipo Zelda que puedes jugar gratis' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-agregar-fotos-icloud-fotos-windows-11-1164070'>Cómo agregar Fotos de iCloud a Fotos de Windows 11</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-agregar-fotos-icloud-fotos-windows-11-1164070' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/fotos-icloud-windows-11-2890350.jpg?tf=1200x' alt='Cómo agregar Fotos de iCloud a Fotos de Windows 11' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/life/ano-chino-tigre-cual-horoscopo-chino-1005497'>Este es el año chino del Conejo: ¿cuál es tu horóscopo chino?</a></h4>
-    <a href='https://computerhoy.com/reportajes/life/ano-chino-tigre-cual-horoscopo-chino-1005497' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/horoscopo-chino-2604133.jpg?tf=1200x' alt='Este es el año chino del Conejo: ¿cuál es tu horóscopo chino?' />
     </a>
 </div>
 
