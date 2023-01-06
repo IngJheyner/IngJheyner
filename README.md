@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-agregar-fotos-icloud-fotos-windows-11-1164070'>Cómo agregar Fotos de iCloud a Fotos de Windows 11</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-agregar-fotos-icloud-fotos-windows-11-1164070' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/fotos-icloud-windows-11-2890350.jpg?tf=1200x' alt='Cómo agregar Fotos de iCloud a Fotos de Windows 11' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/life/ano-chino-tigre-cual-horoscopo-chino-1005497'>Este es el año chino del Conejo: ¿cuál es tu horóscopo chino?</a></h4>
     <a href='https://computerhoy.com/reportajes/life/ano-chino-tigre-cual-horoscopo-chino-1005497' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/horoscopo-chino-2604133.jpg?tf=1200x' alt='Este es el año chino del Conejo: ¿cuál es tu horóscopo chino?' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/vota-premios-computerhoy-2022-finalistas-mejor-ecommerce-tecnologia-1180592'>Vota en los Premios ComputerHoy 2022: finalistas al mejor eCommerce de tecnología</a></h4>
     <a href='https://computerhoy.com/tecnologia/vota-premios-computerhoy-2022-finalistas-mejor-ecommerce-tecnologia-1180592' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/finalistas-mejor-ecommerce-tecnologia-2921694.jpg?tf=1200x' alt='Vota en los Premios ComputerHoy 2022: finalistas al mejor eCommerce de tecnología' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/5-trucos-ser-eficiente-google-docs-1172648'>5 trucos para ser más eficiente en Google Docs</a></h4>
-    <a href='https://computerhoy.com/tecnologia/5-trucos-ser-eficiente-google-docs-1172648' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/google-docs-2906178.jpg?tf=1200x' alt='5 trucos para ser más eficiente en Google Docs' />
     </a>
 </div>
 
