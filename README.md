@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/smartwatches/stone-watch-reloj-inteligente-tonto-mundo-1180278'>Stone Watch, el reloj inteligente más tonto del mundo</a></h4>
+    <a href='https://computerhoy.com/smartwatches/stone-watch-reloj-inteligente-tonto-mundo-1180278' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/stone-watch-reloj-inteligente-tonto-mundo-2921328.jpg?tf=1200x' alt='Stone Watch, el reloj inteligente más tonto del mundo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/realidad-virtual/tcl-rayneo-x2-primeras-impresiones-primeras-gafas-ar-tienen-sentido-1180632'>TCL RayNeo X2, primeras impresiones de las primeras gafas AR que tienen sentido</a></h4>
+    <a href='https://computerhoy.com/realidad-virtual/tcl-rayneo-x2-primeras-impresiones-primeras-gafas-ar-tienen-sentido-1180632' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/tcl-rayneo-x2-2921812.jpg?tf=1200x' alt='TCL RayNeo X2, primeras impresiones de las primeras gafas AR que tienen sentido' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/gaming/descenso-serpiente-juego-google-tipo-zelda-puedes-jugar-gratis-1180276'>El Descenso de la Serpiente, el juego secreto de Google tipo Zelda que puedes jugar gratis</a></h4>
     <a href='https://computerhoy.com/gaming/descenso-serpiente-juego-google-tipo-zelda-puedes-jugar-gratis-1180276' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/descenso-serpiente-nuevo-juego-tipo-zelda-google-ya-puedes-jugar-gratis-2921322.jpg?tf=1200x' alt='El Descenso de la Serpiente, el juego secreto de Google tipo Zelda que puedes jugar gratis' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/life/ano-chino-tigre-cual-horoscopo-chino-1005497'>Este es el año chino del Conejo: ¿cuál es tu horóscopo chino?</a></h4>
     <a href='https://computerhoy.com/reportajes/life/ano-chino-tigre-cual-horoscopo-chino-1005497' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/horoscopo-chino-2604133.jpg?tf=1200x' alt='Este es el año chino del Conejo: ¿cuál es tu horóscopo chino?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/kras-enemigo-numero-ciencia-lucha-cancer-hace-40-anos-1180166'>KRAS, el enemigo número uno de la ciencia en la lucha contra el cáncer desde hace 40 años</a></h4>
-    <a href='https://computerhoy.com/ciencia/kras-enemigo-numero-ciencia-lucha-cancer-hace-40-anos-1180166' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/estudio-cancer-2556941.jpg?tf=1200x' alt='KRAS, el enemigo número uno de la ciencia en la lucha contra el cáncer desde hace 40 años' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/puedes-desactivar-centro-movilidad-portatil-windows-11-1175776'>Así puedes desactivar el Centro de Movilidad de tu portátil Windows 11 </a></h4>
-    <a href='https://computerhoy.com/tutoriales/puedes-desactivar-centro-movilidad-portatil-windows-11-1175776' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/manos-ordenador-2828003.jpg?tf=1200x' alt='Así puedes desactivar el Centro de Movilidad de tu portátil Windows 11 ' />
     </a>
 </div>
 
