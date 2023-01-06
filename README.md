@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/vota-premios-computerhoy-2022-finalistas-mejor-ecommerce-tecnologia-1180592'>Vota en los Premios ComputerHoy 2022: finalistas al mejor eCommerce de tecnología</a></h4>
+    <a href='https://computerhoy.com/tecnologia/vota-premios-computerhoy-2022-finalistas-mejor-ecommerce-tecnologia-1180592' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/finalistas-mejor-ecommerce-tecnologia-2921694.jpg?tf=1200x' alt='Vota en los Premios ComputerHoy 2022: finalistas al mejor eCommerce de tecnología' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/5-trucos-ser-eficiente-google-docs-1172648'>5 trucos para ser más eficiente en Google Docs</a></h4>
+    <a href='https://computerhoy.com/tecnologia/5-trucos-ser-eficiente-google-docs-1172648' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/google-docs-2906178.jpg?tf=1200x' alt='5 trucos para ser más eficiente en Google Docs' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tutoriales/como-solucionar-mensaje-trafico-inusual-google-1167308'>Cómo solucionar el mensaje "tráfico inusual" en Google </a></h4>
     <a href='https://computerhoy.com/tutoriales/como-solucionar-mensaje-trafico-inusual-google-1167308' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/error-google-2896310.jpg?tf=1200x' alt='Cómo solucionar el mensaje "tráfico inusual" en Google ' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/relojes-inteligentes-baratos-hemos-probado-oferta-tiene-semana-bateria-1179490'>Uno de los relojes inteligentes más baratos que hemos probado está en oferta y tiene hasta una semana de batería</a></h4>
     <a href='https://computerhoy.com/tecnologia/relojes-inteligentes-baratos-hemos-probado-oferta-tiene-semana-bateria-1179490' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/realme-watch-3-analisis-opinion-2815509.jpg?tf=1200x' alt='Uno de los relojes inteligentes más baratos que hemos probado está en oferta y tiene hasta una semana de batería' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/usos-tecla-shift-teclado-seguramente-no-conocias-1180102'>Usos de la tecla SHIFT de tu teclado que seguramente no conocías</a></h4>
-    <a href='https://computerhoy.com/pc/usos-tecla-shift-teclado-seguramente-no-conocias-1180102' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/teclas-shift-2427439.jpg?tf=1200x' alt='Usos de la tecla SHIFT de tu teclado que seguramente no conocías' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/4-maneras-eliminar-contrasenas-wifi-windows-11-1175748'>4 maneras de eliminar las contraseñas WiFi en Windows 11</a></h4>
-    <a href='https://computerhoy.com/tutoriales/4-maneras-eliminar-contrasenas-wifi-windows-11-1175748' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/wifi-2912074.jpg?tf=1200x' alt='4 maneras de eliminar las contraseñas WiFi en Windows 11' />
     </a>
 </div>
 
