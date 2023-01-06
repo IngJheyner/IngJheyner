@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/gaming/descenso-serpiente-juego-google-tipo-zelda-puedes-jugar-gratis-1180276'>El Descenso de la Serpiente, el juego secreto de Google tipo Zelda que puedes jugar gratis</a></h4>
+    <a href='https://computerhoy.com/gaming/descenso-serpiente-juego-google-tipo-zelda-puedes-jugar-gratis-1180276' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/descenso-serpiente-nuevo-juego-tipo-zelda-google-ya-puedes-jugar-gratis-2921322.jpg?tf=1200x' alt='El Descenso de la Serpiente, el juego secreto de Google tipo Zelda que puedes jugar gratis' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tutoriales/como-agregar-fotos-icloud-fotos-windows-11-1164070'>Cómo agregar Fotos de iCloud a Fotos de Windows 11</a></h4>
     <a href='https://computerhoy.com/tutoriales/como-agregar-fotos-icloud-fotos-windows-11-1164070' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/fotos-icloud-windows-11-2890350.jpg?tf=1200x' alt='Cómo agregar Fotos de iCloud a Fotos de Windows 11' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tutoriales/puedes-desactivar-centro-movilidad-portatil-windows-11-1175776'>Así puedes desactivar el Centro de Movilidad de tu portátil Windows 11 </a></h4>
     <a href='https://computerhoy.com/tutoriales/puedes-desactivar-centro-movilidad-portatil-windows-11-1175776' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/manos-ordenador-2828003.jpg?tf=1200x' alt='Así puedes desactivar el Centro de Movilidad de tu portátil Windows 11 ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/vota-premios-computerhoy-2022-finalistas-mejor-ecommerce-tecnologia-1180592'>Vota en los Premios ComputerHoy 2022: finalistas al mejor eCommerce de tecnología</a></h4>
-    <a href='https://computerhoy.com/tecnologia/vota-premios-computerhoy-2022-finalistas-mejor-ecommerce-tecnologia-1180592' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/finalistas-mejor-ecommerce-tecnologia-2921694.jpg?tf=1200x' alt='Vota en los Premios ComputerHoy 2022: finalistas al mejor eCommerce de tecnología' />
     </a>
 </div>
 
