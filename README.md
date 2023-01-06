@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-solucionar-mensaje-trafico-inusual-google-1167308'>Cómo solucionar el mensaje "tráfico inusual" en Google </a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-solucionar-mensaje-trafico-inusual-google-1167308' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/error-google-2896310.jpg?tf=1200x' alt='Cómo solucionar el mensaje "tráfico inusual" en Google ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/6-usos-interesantes-lidar-iphone-14-pro-1173326'>Los 6 usos más interesantes del LIDAR de los iPhone 14 Pro</a></h4>
     <a href='https://computerhoy.com/tecnologia/6-usos-interesantes-lidar-iphone-14-pro-1173326' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/sensor-lidar-iphone-14-2921618.jpg?tf=1200x' alt='Los 6 usos más interesantes del LIDAR de los iPhone 14 Pro' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tutoriales/4-maneras-eliminar-contrasenas-wifi-windows-11-1175748'>4 maneras de eliminar las contraseñas WiFi en Windows 11</a></h4>
     <a href='https://computerhoy.com/tutoriales/4-maneras-eliminar-contrasenas-wifi-windows-11-1175748' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/wifi-2912074.jpg?tf=1200x' alt='4 maneras de eliminar las contraseñas WiFi en Windows 11' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/listas/tecnologia/5-moviles-pantalla-amoled-baratos-2019-522121'>Los 5 móviles con pantalla AMOLED más baratos que puedes comprar</a></h4>
-    <a href='https://computerhoy.com/listas/tecnologia/5-moviles-pantalla-amoled-baratos-2019-522121' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/poco-m5s-2920630.jpg?tf=1200x' alt='Los 5 móviles con pantalla AMOLED más baratos que puedes comprar' />
     </a>
 </div>
 
