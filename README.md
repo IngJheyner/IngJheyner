@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/relojes-inteligentes-baratos-hemos-probado-oferta-tiene-semana-bateria-1179490'>Uno de los relojes inteligentes más baratos que hemos probado está en oferta y tiene hasta una semana de batería</a></h4>
+    <a href='https://computerhoy.com/tecnologia/relojes-inteligentes-baratos-hemos-probado-oferta-tiene-semana-bateria-1179490' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/realme-watch-3-analisis-opinion-2815509.jpg?tf=1200x' alt='Uno de los relojes inteligentes más baratos que hemos probado está en oferta y tiene hasta una semana de batería' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/pc/usos-tecla-shift-teclado-seguramente-no-conocias-1180102'>Usos de la tecla SHIFT de tu teclado que seguramente no conocías</a></h4>
+    <a href='https://computerhoy.com/pc/usos-tecla-shift-teclado-seguramente-no-conocias-1180102' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/teclas-shift-2427439.jpg?tf=1200x' alt='Usos de la tecla SHIFT de tu teclado que seguramente no conocías' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tutoriales/4-maneras-eliminar-contrasenas-wifi-windows-11-1175748'>4 maneras de eliminar las contraseñas WiFi en Windows 11</a></h4>
     <a href='https://computerhoy.com/tutoriales/4-maneras-eliminar-contrasenas-wifi-windows-11-1175748' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/wifi-2912074.jpg?tf=1200x' alt='4 maneras de eliminar las contraseñas WiFi en Windows 11' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/hogar/qbear-dispositivo-inteligencia-artificial-traduce-llanto-bebes-video-1180256'>Crean un dispositivo basado en inteligencia artificial que traduce el llanto de los bebés (vídeo)</a></h4>
     <a href='https://computerhoy.com/hogar/qbear-dispositivo-inteligencia-artificial-traduce-llanto-bebes-video-1180256' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/qbear-2921306.jpg?tf=1200x' alt='Crean un dispositivo basado en inteligencia artificial que traduce el llanto de los bebés (vídeo)' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/nueva-funcion-whatsapp-guardar-mensajes-temporales-te-evitara-muchos-problemas-1180214'>La nueva función de WhatsApp para guardar mensajes temporales que te evitará muchos problemas</a></h4>
-    <a href='https://computerhoy.com/apps/nueva-funcion-whatsapp-guardar-mensajes-temporales-te-evitara-muchos-problemas-1180214' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/whatsapp-2898188.jpg?tf=1200x' alt='La nueva función de WhatsApp para guardar mensajes temporales que te evitará muchos problemas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/audio/harman-explore-2023-nuevos-auriculares-altavoces-barras-sonido-mucho-1180190'>Harman Explore 2023: nuevos auriculares, altavoces, barras de sonido y mucho más</a></h4>
-    <a href='https://computerhoy.com/audio/harman-explore-2023-nuevos-auriculares-altavoces-barras-sonido-mucho-1180190' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/harman-explore-2023-nuevos-auriculares-altavoces-barras-sonido-mucho-2921294.jpg?tf=1200x' alt='Harman Explore 2023: nuevos auriculares, altavoces, barras de sonido y mucho más' />
     </a>
 </div>
 
