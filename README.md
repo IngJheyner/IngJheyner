@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/life/ano-chino-tigre-cual-horoscopo-chino-1005497'>Este es el año chino del Conejo: ¿cuál es tu horóscopo chino?</a></h4>
+    <a href='https://computerhoy.com/reportajes/life/ano-chino-tigre-cual-horoscopo-chino-1005497' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/horoscopo-chino-2604133.jpg?tf=1200x' alt='Este es el año chino del Conejo: ¿cuál es tu horóscopo chino?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/kras-enemigo-numero-ciencia-lucha-cancer-hace-40-anos-1180166'>KRAS, el enemigo número uno de la ciencia en la lucha contra el cáncer desde hace 40 años</a></h4>
+    <a href='https://computerhoy.com/ciencia/kras-enemigo-numero-ciencia-lucha-cancer-hace-40-anos-1180166' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/estudio-cancer-2556941.jpg?tf=1200x' alt='KRAS, el enemigo número uno de la ciencia en la lucha contra el cáncer desde hace 40 años' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/puedes-desactivar-centro-movilidad-portatil-windows-11-1175776'>Así puedes desactivar el Centro de Movilidad de tu portátil Windows 11 </a></h4>
+    <a href='https://computerhoy.com/tutoriales/puedes-desactivar-centro-movilidad-portatil-windows-11-1175776' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/manos-ordenador-2828003.jpg?tf=1200x' alt='Así puedes desactivar el Centro de Movilidad de tu portátil Windows 11 ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/vota-premios-computerhoy-2022-finalistas-mejor-ecommerce-tecnologia-1180592'>Vota en los Premios ComputerHoy 2022: finalistas al mejor eCommerce de tecnología</a></h4>
     <a href='https://computerhoy.com/tecnologia/vota-premios-computerhoy-2022-finalistas-mejor-ecommerce-tecnologia-1180592' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/finalistas-mejor-ecommerce-tecnologia-2921694.jpg?tf=1200x' alt='Vota en los Premios ComputerHoy 2022: finalistas al mejor eCommerce de tecnología' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/5-trucos-ser-eficiente-google-docs-1172648'>5 trucos para ser más eficiente en Google Docs</a></h4>
     <a href='https://computerhoy.com/tecnologia/5-trucos-ser-eficiente-google-docs-1172648' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/google-docs-2906178.jpg?tf=1200x' alt='5 trucos para ser más eficiente en Google Docs' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-solucionar-mensaje-trafico-inusual-google-1167308'>Cómo solucionar el mensaje "tráfico inusual" en Google </a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-solucionar-mensaje-trafico-inusual-google-1167308' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/error-google-2896310.jpg?tf=1200x' alt='Cómo solucionar el mensaje "tráfico inusual" en Google ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/6-usos-interesantes-lidar-iphone-14-pro-1173326'>Los 6 usos más interesantes del LIDAR de los iPhone 14 Pro</a></h4>
-    <a href='https://computerhoy.com/tecnologia/6-usos-interesantes-lidar-iphone-14-pro-1173326' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/sensor-lidar-iphone-14-2921618.jpg?tf=1200x' alt='Los 6 usos más interesantes del LIDAR de los iPhone 14 Pro' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/relojes-inteligentes-baratos-hemos-probado-oferta-tiene-semana-bateria-1179490'>Uno de los relojes inteligentes más baratos que hemos probado está en oferta y tiene hasta una semana de batería</a></h4>
-    <a href='https://computerhoy.com/tecnologia/relojes-inteligentes-baratos-hemos-probado-oferta-tiene-semana-bateria-1179490' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/realme-watch-3-analisis-opinion-2815509.jpg?tf=1200x' alt='Uno de los relojes inteligentes más baratos que hemos probado está en oferta y tiene hasta una semana de batería' />
     </a>
 </div>
 
