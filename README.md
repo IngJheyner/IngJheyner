@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/6-usos-interesantes-lidar-iphone-14-pro-1173326'>Los 6 usos más interesantes del LIDAR de los iPhone 14 Pro</a></h4>
+    <a href='https://computerhoy.com/tecnologia/6-usos-interesantes-lidar-iphone-14-pro-1173326' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/sensor-lidar-iphone-14-2921618.jpg?tf=1200x' alt='Los 6 usos más interesantes del LIDAR de los iPhone 14 Pro' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/relojes-inteligentes-baratos-hemos-probado-oferta-tiene-semana-bateria-1179490'>Uno de los relojes inteligentes más baratos que hemos probado está en oferta y tiene hasta una semana de batería</a></h4>
     <a href='https://computerhoy.com/tecnologia/relojes-inteligentes-baratos-hemos-probado-oferta-tiene-semana-bateria-1179490' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/realme-watch-3-analisis-opinion-2815509.jpg?tf=1200x' alt='Uno de los relojes inteligentes más baratos que hemos probado está en oferta y tiene hasta una semana de batería' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/listas/tecnologia/5-moviles-pantalla-amoled-baratos-2019-522121'>Los 5 móviles con pantalla AMOLED más baratos que puedes comprar</a></h4>
     <a href='https://computerhoy.com/listas/tecnologia/5-moviles-pantalla-amoled-baratos-2019-522121' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/poco-m5s-2920630.jpg?tf=1200x' alt='Los 5 móviles con pantalla AMOLED más baratos que puedes comprar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/hogar/qbear-dispositivo-inteligencia-artificial-traduce-llanto-bebes-video-1180256'>Crean un dispositivo basado en inteligencia artificial que traduce el llanto de los bebés (vídeo)</a></h4>
-    <a href='https://computerhoy.com/hogar/qbear-dispositivo-inteligencia-artificial-traduce-llanto-bebes-video-1180256' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/qbear-2921306.jpg?tf=1200x' alt='Crean un dispositivo basado en inteligencia artificial que traduce el llanto de los bebés (vídeo)' />
     </a>
 </div>
 
