@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/vota-premios-computerhoy-2022-finalistas-mejor-electrodomestico-inteligente-1179692'>Vota en los Premios ComputerHoy 2022: finalistas al mejor electrodoméstico inteligente</a></h4>
+    <a href='https://computerhoy.com/tecnologia/vota-premios-computerhoy-2022-finalistas-mejor-electrodomestico-inteligente-1179692' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/vota-premios-computerhoy-2022-finalistas-mejor-electrodomestico-inteligente-2922258.jpg?tf=1200x' alt='Vota en los Premios ComputerHoy 2022: finalistas al mejor electrodoméstico inteligente' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/chatgpt-como-funciona-herramienta-gpt-3-openai-1172288'>¿Qué es ChatGPT y cómo funciona esta herramienta GPT-3 de OpenAI?</a></h4>
     <a href='https://computerhoy.com/tecnologia/chatgpt-como-funciona-herramienta-gpt-3-openai-1172288' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/chatgpt-2922156.jpg?tf=1200x' alt='¿Qué es ChatGPT y cómo funciona esta herramienta GPT-3 de OpenAI?' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-auriculares-con-cable-1043197'>¿Necesitas unos auriculares con cable? Estos son los mejores modelos</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/mejores-auriculares-con-cable-1043197' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/mujer-escuchando-musica-auriculares-cable-iphone-2846853.jpg?tf=1200x' alt='¿Necesitas unos auriculares con cable? Estos son los mejores modelos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-plegables-puedes-comprar-1015779'>Mejores móviles plegables que puedes comprar ya</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-plegables-puedes-comprar-1015779' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/impresiones-samsung-galaxy-z-flip-4-2781993.jpg?tf=1200x' alt='Mejores móviles plegables que puedes comprar ya' />
     </a>
 </div>
 
