@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-configurar-mandos-nintendo-switch-jugar-juegos-ios-16-iphone-ipad-1179534'>Cómo configurar tus mandos de Nintendo Switch para jugar a juegos iOS 16 en tu iPhone o iPad</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-configurar-mandos-nintendo-switch-jugar-juegos-ios-16-iphone-ipad-1179534' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/joy-nintendo-2922104.jpg?tf=1200x' alt='Cómo configurar tus mandos de Nintendo Switch para jugar a juegos iOS 16 en tu iPhone o iPad' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/hogar/chocar-navegar-valoro-buen-robot-aspirador-1178600'>Chocar o navegar, esto es lo que más valoro en un buen robot aspirador</a></h4>
     <a href='https://computerhoy.com/hogar/chocar-navegar-valoro-buen-robot-aspirador-1178600' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/roborock-s5-max-2410255.jpg?tf=1200x' alt='Chocar o navegar, esto es lo que más valoro en un buen robot aspirador' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/entretenimiento/7-series-netflix-no-deberias-perderte-2023-1179078'>7 series de Netflix que no deberías perderte en 2023</a></h4>
     <a href='https://computerhoy.com/entretenimiento/7-series-netflix-no-deberias-perderte-2023-1179078' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/witcher-2620883.jpg?tf=1200x' alt='7 series de Netflix que no deberías perderte en 2023' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/11-funciones-ocultas-windows-11-deberias-estar-usando-1179462'>11 funciones ocultas de Windows 11 que deberías estar usando</a></h4>
-    <a href='https://computerhoy.com/tecnologia/11-funciones-ocultas-windows-11-deberias-estar-usando-1179462' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/ordenador-2919326.jpg?tf=1200x' alt='11 funciones ocultas de Windows 11 que deberías estar usando' />
     </a>
 </div>
 
