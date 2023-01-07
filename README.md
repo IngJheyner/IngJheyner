@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/entretenimiento/spotify-web-guia-completa-937177'>Spotify Web: guía completa y todo lo que debes saber para escuchar música desde el navegador</a></h4>
+    <a href='https://computerhoy.com/reportajes/entretenimiento/spotify-web-guia-completa-937177' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/spotify-web-guia-completa-todo-debes-saber-escuchar-musica-navegador-2482061.jpg?tf=1200x' alt='Spotify Web: guía completa y todo lo que debes saber para escuchar música desde el navegador' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/mascara-silencia-llamadas-telefonicas-ruidosas-funciona-1180920'>Esta máscara silencia las llamadas telefónicas ruidosas y así funciona</a></h4>
+    <a href='https://computerhoy.com/ciencia/mascara-silencia-llamadas-telefonicas-ruidosas-funciona-1180920' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/mascara-skyted-2922464.jpg?tf=1200x' alt='Esta máscara silencia las llamadas telefónicas ruidosas y así funciona' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/entierro-ecologico-compostaje-cuerpos-humanos-fallecido-abono-1179982'>Nueva York aprueba el compostaje de cuerpos humanos: entierros ecológicos en donde el fallecido se convierte en abono</a></h4>
+    <a href='https://computerhoy.com/life/entierro-ecologico-compostaje-cuerpos-humanos-fallecido-abono-1179982' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/nueva-york-aprueba-compostaje-cuerpos-humanos-entierros-ecologicos-donde-fallecido-convierte-abono-2920372.jpg?tf=1200x' alt='Nueva York aprueba el compostaje de cuerpos humanos: entierros ecológicos en donde el fallecido se convierte en abono' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/android/ya-disponible-esperado-rediseno-android-auto-todos-estas-son-novedades-1180894'>Ya está disponible el esperado rediseño de Android Auto para todos, y estas son las novedades</a></h4>
     <a href='https://computerhoy.com/android/ya-disponible-esperado-rediseno-android-auto-todos-estas-son-novedades-1180894' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/coche-android-auto-2922468.jpg?tf=1200x' alt='Ya está disponible el esperado rediseño de Android Auto para todos, y estas son las novedades' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/motor/coches-electricos-pueden-acabar-estando-alimentados-baterias-fabricadas-desechos-madera-1180918'>Nuestros coches eléctricos pueden acabar estando alimentados con baterías fabricadas con desechos de madera</a></h4>
     <a href='https://computerhoy.com/motor/coches-electricos-pueden-acabar-estando-alimentados-baterias-fabricadas-desechos-madera-1180918' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/carga-coche-electrico-2922466.jpg?tf=1200x' alt='Nuestros coches eléctricos pueden acabar estando alimentados con baterías fabricadas con desechos de madera' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/gaming/expertos-te-avisan-no-coloques-nunca-ps5-vertical-1180912'>Expertos te avisan: no coloques nunca tu PS5 en vertical</a></h4>
-    <a href='https://computerhoy.com/gaming/expertos-te-avisan-no-coloques-nunca-ps5-vertical-1180912' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/ps5-2922398.jpg?tf=1200x' alt='Expertos te avisan: no coloques nunca tu PS5 en vertical' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/nuevo-descubrimiento-telescopio-james-webb-son-galaxias-similares-lactea-1180902'>El nuevo descubrimiento del telescopio James Webb son galaxias similares a la Vía Láctea</a></h4>
-    <a href='https://computerhoy.com/espacio/nuevo-descubrimiento-telescopio-james-webb-son-galaxias-similares-lactea-1180902' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/galaxia-2922306.jpg?tf=1200x' alt='El nuevo descubrimiento del telescopio James Webb son galaxias similares a la Vía Láctea' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/vota-premios-computerhoy-2022-finalistas-mejor-electrodomestico-inteligente-1179692'>Vota en los Premios ComputerHoy 2022: finalistas al mejor electrodoméstico inteligente</a></h4>
-    <a href='https://computerhoy.com/tecnologia/vota-premios-computerhoy-2022-finalistas-mejor-electrodomestico-inteligente-1179692' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/vota-premios-computerhoy-2022-finalistas-mejor-electrodomestico-inteligente-2922258.jpg?tf=1200x' alt='Vota en los Premios ComputerHoy 2022: finalistas al mejor electrodoméstico inteligente' />
     </a>
 </div>
 
