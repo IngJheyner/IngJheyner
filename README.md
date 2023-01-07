@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/11-hechos-sorprendentes-historia-internet-1178372'>Los 11 hechos más sorprendentes de la historia de Internet</a></h4>
+    <a href='https://computerhoy.com/tecnologia/11-hechos-sorprendentes-historia-internet-1178372' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/navegando-ordenador-2917148.jpg?tf=1200x' alt='Los 11 hechos más sorprendentes de la historia de Internet' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tutoriales/estados-suspension-windows-11-consumos-energeticos-1178426'>Los estados de suspensión de Windows 11 y sus consumos energéticos</a></h4>
     <a href='https://computerhoy.com/tutoriales/estados-suspension-windows-11-consumos-energeticos-1178426' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/ordenador-windows-11-2917398.jpg?tf=1200x' alt='Los estados de suspensión de Windows 11 y sus consumos energéticos' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/life/fabrican-plantilla-inteligente-hace-llevar-tacones-altos-sea-comodo-1180926'>Fabrican una plantilla inteligente que hace que llevar tacones altos sea más cómodo</a></h4>
     <a href='https://computerhoy.com/life/fabrican-plantilla-inteligente-hace-llevar-tacones-altos-sea-comodo-1180926' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/mujer-tacones-2922476.jpg?tf=1200x' alt='Fabrican una plantilla inteligente que hace que llevar tacones altos sea más cómodo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/listas/tecnologia/mejores-relojes-inteligentes-natacion-720915'>Estos son los mejores relojes inteligentes para natación: cuentan metros, calorías y hasta calculan el SWOLF</a></h4>
-    <a href='https://computerhoy.com/listas/tecnologia/mejores-relojes-inteligentes-natacion-720915' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/09/reloj-inteligente-agua-2072551.jpg?tf=1200x' alt='Estos son los mejores relojes inteligentes para natación: cuentan metros, calorías y hasta calculan el SWOLF' />
     </a>
 </div>
 
