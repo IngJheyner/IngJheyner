@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/moviles/samsung-escapa-fecha-presentacion-serie-galaxy-s23-1180942'>A Samsung se le escapa la fecha de presentación de la serie Galaxy S23</a></h4>
+    <a href='https://computerhoy.com/moviles/samsung-escapa-fecha-presentacion-serie-galaxy-s23-1180942' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/samsung-galaxy-s22-analisis-opinion-2741195.jpg?tf=1200x' alt='A Samsung se le escapa la fecha de presentación de la serie Galaxy S23' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tv/funciona-tv-transparente-lg-signature-oled-t-1180950'>Así funciona la TV transparente LG Signature OLED T</a></h4>
+    <a href='https://computerhoy.com/tv/funciona-tv-transparente-lg-signature-oled-t-1180950' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/lg-oled-t-2922498.jpg?tf=1200x' alt='Así funciona la TV transparente LG Signature OLED T' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/fabrican-plantilla-inteligente-hace-llevar-tacones-altos-sea-comodo-1180926'>Fabrican una plantilla inteligente que hace que llevar tacones altos sea más cómodo</a></h4>
+    <a href='https://computerhoy.com/life/fabrican-plantilla-inteligente-hace-llevar-tacones-altos-sea-comodo-1180926' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/mujer-tacones-2922476.jpg?tf=1200x' alt='Fabrican una plantilla inteligente que hace que llevar tacones altos sea más cómodo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/listas/tecnologia/mejores-relojes-inteligentes-natacion-720915'>Estos son los mejores relojes inteligentes para natación: cuentan metros, calorías y hasta calculan el SWOLF</a></h4>
     <a href='https://computerhoy.com/listas/tecnologia/mejores-relojes-inteligentes-natacion-720915' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/09/reloj-inteligente-agua-2072551.jpg?tf=1200x' alt='Estos son los mejores relojes inteligentes para natación: cuentan metros, calorías y hasta calculan el SWOLF' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/life/cientificos-consideran-civilizacion-tal-como-conocemos-terminara-proximas-decadas-1180924'>Científicos consideran que la civilización tal como la conocemos terminará “en las próximas décadas”</a></h4>
     <a href='https://computerhoy.com/life/cientificos-consideran-civilizacion-tal-como-conocemos-terminara-proximas-decadas-1180924' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/sequia-2922472.jpg?tf=1200x' alt='Científicos consideran que la civilización tal como la conocemos terminará “en las próximas décadas”' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/entretenimiento/spotify-web-guia-completa-937177'>Spotify Web: guía completa y todo lo que debes saber para escuchar música desde el navegador</a></h4>
-    <a href='https://computerhoy.com/reportajes/entretenimiento/spotify-web-guia-completa-937177' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/spotify-web-guia-completa-todo-debes-saber-escuchar-musica-navegador-2482061.jpg?tf=1200x' alt='Spotify Web: guía completa y todo lo que debes saber para escuchar música desde el navegador' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/mascara-silencia-llamadas-telefonicas-ruidosas-funciona-1180920'>Esta máscara silencia las llamadas telefónicas ruidosas y así funciona</a></h4>
-    <a href='https://computerhoy.com/ciencia/mascara-silencia-llamadas-telefonicas-ruidosas-funciona-1180920' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/mascara-skyted-2922464.jpg?tf=1200x' alt='Esta máscara silencia las llamadas telefónicas ruidosas y así funciona' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/entierro-ecologico-compostaje-cuerpos-humanos-fallecido-abono-1179982'>Nueva York aprueba el compostaje de cuerpos humanos: entierros ecológicos en donde el fallecido se convierte en abono</a></h4>
-    <a href='https://computerhoy.com/life/entierro-ecologico-compostaje-cuerpos-humanos-fallecido-abono-1179982' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/nueva-york-aprueba-compostaje-cuerpos-humanos-entierros-ecologicos-donde-fallecido-convierte-abono-2920372.jpg?tf=1200x' alt='Nueva York aprueba el compostaje de cuerpos humanos: entierros ecológicos en donde el fallecido se convierte en abono' />
     </a>
 </div>
 
