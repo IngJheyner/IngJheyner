@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/listas/tecnologia/mejores-relojes-inteligentes-natacion-720915'>Estos son los mejores relojes inteligentes para natación: cuentan metros, calorías y hasta calculan el SWOLF</a></h4>
+    <a href='https://computerhoy.com/listas/tecnologia/mejores-relojes-inteligentes-natacion-720915' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/09/reloj-inteligente-agua-2072551.jpg?tf=1200x' alt='Estos son los mejores relojes inteligentes para natación: cuentan metros, calorías y hasta calculan el SWOLF' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/cientificos-consideran-civilizacion-tal-como-conocemos-terminara-proximas-decadas-1180924'>Científicos consideran que la civilización tal como la conocemos terminará “en las próximas décadas”</a></h4>
     <a href='https://computerhoy.com/life/cientificos-consideran-civilizacion-tal-como-conocemos-terminara-proximas-decadas-1180924' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/sequia-2922472.jpg?tf=1200x' alt='Científicos consideran que la civilización tal como la conocemos terminará “en las próximas décadas”' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/life/entierro-ecologico-compostaje-cuerpos-humanos-fallecido-abono-1179982'>Nueva York aprueba el compostaje de cuerpos humanos: entierros ecológicos en donde el fallecido se convierte en abono</a></h4>
     <a href='https://computerhoy.com/life/entierro-ecologico-compostaje-cuerpos-humanos-fallecido-abono-1179982' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/nueva-york-aprueba-compostaje-cuerpos-humanos-entierros-ecologicos-donde-fallecido-convierte-abono-2920372.jpg?tf=1200x' alt='Nueva York aprueba el compostaje de cuerpos humanos: entierros ecológicos en donde el fallecido se convierte en abono' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/android/ya-disponible-esperado-rediseno-android-auto-todos-estas-son-novedades-1180894'>Ya está disponible el esperado rediseño de Android Auto para todos, y estas son las novedades</a></h4>
-    <a href='https://computerhoy.com/android/ya-disponible-esperado-rediseno-android-auto-todos-estas-son-novedades-1180894' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/coche-android-auto-2922468.jpg?tf=1200x' alt='Ya está disponible el esperado rediseño de Android Auto para todos, y estas son las novedades' />
     </a>
 </div>
 
