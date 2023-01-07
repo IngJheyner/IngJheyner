@@ -50,9 +50,9 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/hogar/chocar-navegar-valoro-buen-robot-aspirador-1178600'>Chocar o navegar, esto es lo más valoro en un buen robot aspirador</a></h4>
+    <h4><a href='https://computerhoy.com/hogar/chocar-navegar-valoro-buen-robot-aspirador-1178600'>Chocar o navegar, esto es lo que más valoro en un buen robot aspirador</a></h4>
     <a href='https://computerhoy.com/hogar/chocar-navegar-valoro-buen-robot-aspirador-1178600' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/roborock-s5-max-2410255.jpg?tf=1200x' alt='Chocar o navegar, esto es lo más valoro en un buen robot aspirador' />
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/roborock-s5-max-2410255.jpg?tf=1200x' alt='Chocar o navegar, esto es lo que más valoro en un buen robot aspirador' />
     </a>
 </div>
 
