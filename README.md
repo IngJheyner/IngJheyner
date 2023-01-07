@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/chatgpt-como-funciona-herramienta-gpt-3-openai-1172288'>¿Qué es ChatGPT y cómo funciona esta herramienta GPT-3 de OpenAI?</a></h4>
+    <a href='https://computerhoy.com/tecnologia/chatgpt-como-funciona-herramienta-gpt-3-openai-1172288' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/chatgpt-2922156.jpg?tf=1200x' alt='¿Qué es ChatGPT y cómo funciona esta herramienta GPT-3 de OpenAI?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tutoriales/como-configurar-mandos-nintendo-switch-jugar-juegos-ios-16-iphone-ipad-1179534'>Cómo configurar tus mandos de Nintendo Switch para jugar a juegos iOS 16 en tu iPhone o iPad</a></h4>
     <a href='https://computerhoy.com/tutoriales/como-configurar-mandos-nintendo-switch-jugar-juegos-ios-16-iphone-ipad-1179534' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/joy-nintendo-2922104.jpg?tf=1200x' alt='Cómo configurar tus mandos de Nintendo Switch para jugar a juegos iOS 16 en tu iPhone o iPad' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-plegables-puedes-comprar-1015779'>Mejores móviles plegables que puedes comprar ya</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-plegables-puedes-comprar-1015779' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/impresiones-samsung-galaxy-z-flip-4-2781993.jpg?tf=1200x' alt='Mejores móviles plegables que puedes comprar ya' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/7-series-netflix-no-deberias-perderte-2023-1179078'>7 series de Netflix que no deberías perderte en 2023</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/7-series-netflix-no-deberias-perderte-2023-1179078' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/witcher-2620883.jpg?tf=1200x' alt='7 series de Netflix que no deberías perderte en 2023' />
     </a>
 </div>
 
