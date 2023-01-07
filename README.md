@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/cientificos-consideran-civilizacion-tal-como-conocemos-terminara-proximas-decadas-1180924'>Científicos consideran que la civilización tal como la conocemos terminará “en las próximas décadas”</a></h4>
+    <a href='https://computerhoy.com/life/cientificos-consideran-civilizacion-tal-como-conocemos-terminara-proximas-decadas-1180924' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/sequia-2922472.jpg?tf=1200x' alt='Científicos consideran que la civilización tal como la conocemos terminará “en las próximas décadas”' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/entretenimiento/spotify-web-guia-completa-937177'>Spotify Web: guía completa y todo lo que debes saber para escuchar música desde el navegador</a></h4>
     <a href='https://computerhoy.com/reportajes/entretenimiento/spotify-web-guia-completa-937177' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/spotify-web-guia-completa-todo-debes-saber-escuchar-musica-navegador-2482061.jpg?tf=1200x' alt='Spotify Web: guía completa y todo lo que debes saber para escuchar música desde el navegador' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/android/ya-disponible-esperado-rediseno-android-auto-todos-estas-son-novedades-1180894'>Ya está disponible el esperado rediseño de Android Auto para todos, y estas son las novedades</a></h4>
     <a href='https://computerhoy.com/android/ya-disponible-esperado-rediseno-android-auto-todos-estas-son-novedades-1180894' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/coche-android-auto-2922468.jpg?tf=1200x' alt='Ya está disponible el esperado rediseño de Android Auto para todos, y estas son las novedades' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/coches-electricos-pueden-acabar-estando-alimentados-baterias-fabricadas-desechos-madera-1180918'>Nuestros coches eléctricos pueden acabar estando alimentados con baterías fabricadas con desechos de madera</a></h4>
-    <a href='https://computerhoy.com/motor/coches-electricos-pueden-acabar-estando-alimentados-baterias-fabricadas-desechos-madera-1180918' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/carga-coche-electrico-2922466.jpg?tf=1200x' alt='Nuestros coches eléctricos pueden acabar estando alimentados con baterías fabricadas con desechos de madera' />
     </a>
 </div>
 
