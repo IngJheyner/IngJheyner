@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/gaming/expertos-te-avisan-no-coloques-nunca-ps5-vertical-1180912'>Expertos te avisan: no coloques nunca tu PS5 en vertical</a></h4>
+    <a href='https://computerhoy.com/gaming/expertos-te-avisan-no-coloques-nunca-ps5-vertical-1180912' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/ps5-2922398.jpg?tf=1200x' alt='Expertos te avisan: no coloques nunca tu PS5 en vertical' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/espacio/nuevo-descubrimiento-telescopio-james-webb-son-galaxias-similares-lactea-1180902'>El nuevo descubrimiento del telescopio James Webb son galaxias similares a la Vía Láctea</a></h4>
+    <a href='https://computerhoy.com/espacio/nuevo-descubrimiento-telescopio-james-webb-son-galaxias-similares-lactea-1180902' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/galaxia-2922306.jpg?tf=1200x' alt='El nuevo descubrimiento del telescopio James Webb son galaxias similares a la Vía Láctea' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/vota-premios-computerhoy-2022-finalistas-mejor-electrodomestico-inteligente-1179692'>Vota en los Premios ComputerHoy 2022: finalistas al mejor electrodoméstico inteligente</a></h4>
     <a href='https://computerhoy.com/tecnologia/vota-premios-computerhoy-2022-finalistas-mejor-electrodomestico-inteligente-1179692' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/vota-premios-computerhoy-2022-finalistas-mejor-electrodomestico-inteligente-2922258.jpg?tf=1200x' alt='Vota en los Premios ComputerHoy 2022: finalistas al mejor electrodoméstico inteligente' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tutoriales/como-configurar-mandos-nintendo-switch-jugar-juegos-ios-16-iphone-ipad-1179534'>Cómo configurar tus mandos de Nintendo Switch para jugar a juegos iOS 16 en tu iPhone o iPad</a></h4>
     <a href='https://computerhoy.com/tutoriales/como-configurar-mandos-nintendo-switch-jugar-juegos-ios-16-iphone-ipad-1179534' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/joy-nintendo-2922104.jpg?tf=1200x' alt='Cómo configurar tus mandos de Nintendo Switch para jugar a juegos iOS 16 en tu iPhone o iPad' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/hogar/chocar-navegar-valoro-buen-robot-aspirador-1178600'>Chocar o navegar, esto es lo que más valoro en un buen robot aspirador</a></h4>
-    <a href='https://computerhoy.com/hogar/chocar-navegar-valoro-buen-robot-aspirador-1178600' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/roborock-s5-max-2410255.jpg?tf=1200x' alt='Chocar o navegar, esto es lo que más valoro en un buen robot aspirador' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-auriculares-con-cable-1043197'>¿Necesitas unos auriculares con cable? Estos son los mejores modelos</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-auriculares-con-cable-1043197' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/mujer-escuchando-musica-auriculares-cable-iphone-2846853.jpg?tf=1200x' alt='¿Necesitas unos auriculares con cable? Estos son los mejores modelos' />
     </a>
 </div>
 
