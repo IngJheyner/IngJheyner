@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/estados-suspension-windows-11-consumos-energeticos-1178426'>Los estados de suspensión de Windows 11 y sus consumos energéticos</a></h4>
+    <a href='https://computerhoy.com/tutoriales/estados-suspension-windows-11-consumos-energeticos-1178426' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/ordenador-windows-11-2917398.jpg?tf=1200x' alt='Los estados de suspensión de Windows 11 y sus consumos energéticos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/moviles/samsung-escapa-fecha-presentacion-serie-galaxy-s23-1180942'>A Samsung se le escapa la fecha de presentación de la serie Galaxy S23</a></h4>
     <a href='https://computerhoy.com/moviles/samsung-escapa-fecha-presentacion-serie-galaxy-s23-1180942' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/samsung-galaxy-s22-analisis-opinion-2741195.jpg?tf=1200x' alt='A Samsung se le escapa la fecha de presentación de la serie Galaxy S23' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/listas/tecnologia/mejores-relojes-inteligentes-natacion-720915'>Estos son los mejores relojes inteligentes para natación: cuentan metros, calorías y hasta calculan el SWOLF</a></h4>
     <a href='https://computerhoy.com/listas/tecnologia/mejores-relojes-inteligentes-natacion-720915' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/09/reloj-inteligente-agua-2072551.jpg?tf=1200x' alt='Estos son los mejores relojes inteligentes para natación: cuentan metros, calorías y hasta calculan el SWOLF' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/cientificos-consideran-civilizacion-tal-como-conocemos-terminara-proximas-decadas-1180924'>Científicos consideran que la civilización tal como la conocemos terminará “en las próximas décadas”</a></h4>
-    <a href='https://computerhoy.com/life/cientificos-consideran-civilizacion-tal-como-conocemos-terminara-proximas-decadas-1180924' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/sequia-2922472.jpg?tf=1200x' alt='Científicos consideran que la civilización tal como la conocemos terminará “en las próximas décadas”' />
     </a>
 </div>
 
