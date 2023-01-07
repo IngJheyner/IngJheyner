@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-plegables-puedes-comprar-1015779'>Mejores móviles plegables que puedes comprar ya</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-plegables-puedes-comprar-1015779' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/impresiones-samsung-galaxy-z-flip-4-2781993.jpg?tf=1200x' alt='Mejores móviles plegables que puedes comprar ya' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/entretenimiento/7-series-netflix-no-deberias-perderte-2023-1179078'>7 series de Netflix que no deberías perderte en 2023</a></h4>
     <a href='https://computerhoy.com/entretenimiento/7-series-netflix-no-deberias-perderte-2023-1179078' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/witcher-2620883.jpg?tf=1200x' alt='7 series de Netflix que no deberías perderte en 2023' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/apps/3-errores-comunes-whatsapp-deberias-evitar-2023-1180638'>3 errores comunes en WhatsApp que deberías evitar en 2023</a></h4>
     <a href='https://computerhoy.com/apps/3-errores-comunes-whatsapp-deberias-evitar-2023-1180638' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/persona-mayor-usando-whatsapp-2531311.jpg?tf=1200x' alt='3 errores comunes en WhatsApp que deberías evitar en 2023' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/queda-dormido-volante-tesla-provocando-peculiar-persecucion-policial-1180268'>Se queda dormido al volante de un Tesla provocando una peculiar persecución policial</a></h4>
-    <a href='https://computerhoy.com/motor/queda-dormido-volante-tesla-provocando-peculiar-persecucion-policial-1180268' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/tesla-model-x-2921820.jpg?tf=1200x' alt='Se queda dormido al volante de un Tesla provocando una peculiar persecución policial' />
     </a>
 </div>
 
