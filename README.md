@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/hogar/chocar-navegar-valoro-buen-robot-aspirador-1178600'>Chocar o navegar, esto es lo más valoro en un buen robot aspirador</a></h4>
+    <a href='https://computerhoy.com/hogar/chocar-navegar-valoro-buen-robot-aspirador-1178600' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/roborock-s5-max-2410255.jpg?tf=1200x' alt='Chocar o navegar, esto es lo más valoro en un buen robot aspirador' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-auriculares-con-cable-1043197'>¿Necesitas unos auriculares con cable? Estos son los mejores modelos</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-auriculares-con-cable-1043197' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/mujer-escuchando-musica-auriculares-cable-iphone-2846853.jpg?tf=1200x' alt='¿Necesitas unos auriculares con cable? Estos son los mejores modelos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-plegables-puedes-comprar-1015779'>Mejores móviles plegables que puedes comprar ya</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-plegables-puedes-comprar-1015779' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/impresiones-samsung-galaxy-z-flip-4-2781993.jpg?tf=1200x' alt='Mejores móviles plegables que puedes comprar ya' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/11-funciones-ocultas-windows-11-deberias-estar-usando-1179462'>11 funciones ocultas de Windows 11 que deberías estar usando</a></h4>
     <a href='https://computerhoy.com/tecnologia/11-funciones-ocultas-windows-11-deberias-estar-usando-1179462' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/ordenador-2919326.jpg?tf=1200x' alt='11 funciones ocultas de Windows 11 que deberías estar usando' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/cartel-delincuentes-mas-buscados-policia-santa-marta-colombia-1180498'>La policía de Colombia pide ayuda para encontrar a los delincuentes más buscados... con un cartel sin fotos ni nombres</a></h4>
-    <a href='https://computerhoy.com/life/cartel-delincuentes-mas-buscados-policia-santa-marta-colombia-1180498' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/policia-colombia-pide-ayuda-encontrar-delincuentes-buscados-cartel-fotos-ni-nombres-2921548.jpg?tf=1200x' alt='La policía de Colombia pide ayuda para encontrar a los delincuentes más buscados... con un cartel sin fotos ni nombres' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/3-errores-comunes-whatsapp-deberias-evitar-2023-1180638'>3 errores comunes en WhatsApp que deberías evitar en 2023</a></h4>
-    <a href='https://computerhoy.com/apps/3-errores-comunes-whatsapp-deberias-evitar-2023-1180638' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/persona-mayor-usando-whatsapp-2531311.jpg?tf=1200x' alt='3 errores comunes en WhatsApp que deberías evitar en 2023' />
     </a>
 </div>
 
