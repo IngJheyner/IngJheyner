@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/motor/elon-musk-134-vuelos-jet-privado-2022-emitiendo-atmosfera-1895-toneladas-co2-1181242'>Elon Musk completó 134 vuelos con su jet privado en 2022, emitiendo a la atmósfera 1.895 toneladas de CO2</a></h4>
+    <a href='https://computerhoy.com/motor/elon-musk-134-vuelos-jet-privado-2022-emitiendo-atmosfera-1895-toneladas-co2-1181242' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/elon-musk-completo-134-vuelos-jet-privado-2022-emitiendo-atmosfera-1895-toneladas-co2-2922932.jpg?tf=1200x' alt='Elon Musk completó 134 vuelos con su jet privado en 2022, emitiendo a la atmósfera 1.895 toneladas de CO2' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-oppo-descuentos-ofertas-893741'>Estos son los mejores móviles Oppo que puedes comprar este año</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-oppo-descuentos-ofertas-893741' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/review-oppo-reno-8-pro-2809153.jpg?tf=1200x' alt='Estos son los mejores móviles Oppo que puedes comprar este año' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/android/molesto-error-android-auto-google-no-quiere-solucionar-1181218'>El molesto error de Android Auto que Google no quiere solucionar</a></h4>
     <a href='https://computerhoy.com/android/molesto-error-android-auto-google-no-quiere-solucionar-1181218' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/android-auto-coolwalk-2870275.jpg?tf=1200x' alt='El molesto error de Android Auto que Google no quiere solucionar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/test-te-dice-filosofo-te-pareces-forma-pensar-1181210'>El test que te dice a qué filósofo te pareces según tu forma de pensar</a></h4>
-    <a href='https://computerhoy.com/life/test-te-dice-filosofo-te-pareces-forma-pensar-1181210' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/estatua-aristoteles-2922886.jpg?tf=1200x' alt='El test que te dice a qué filósofo te pareces según tu forma de pensar' />
     </a>
 </div>
 
