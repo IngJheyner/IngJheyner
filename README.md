@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/vota-premios-computerhoy-2022-finalistas-mejor-operador-telefonia-1180596'>Vota en los Premios ComputerHoy 2022: finalistas al mejor operador de telefonía</a></h4>
+    <a href='https://computerhoy.com/tecnologia/vota-premios-computerhoy-2022-finalistas-mejor-operador-telefonia-1180596' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/premios-computer-hoy-2022-finalistas-mejor-operador-telefonia-2922824.jpg?tf=1200x' alt='Vota en los Premios ComputerHoy 2022: finalistas al mejor operador de telefonía' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/probable-jamas-puedas-volver-comprar-modelo-nuevo-iphone-1181192'>Es probable que jamás puedas volver a comprar un modelo nuevo de este iPhone</a></h4>
+    <a href='https://computerhoy.com/apple/probable-jamas-puedas-volver-comprar-modelo-nuevo-iphone-1181192' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/galeria-iphone-2022-2656589.jpg?tf=1200x' alt='Es probable que jamás puedas volver a comprar un modelo nuevo de este iPhone' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/alimentacion/producto-basico-podria-doblar-precio-tan-solo-unas-semanas-1180640'>El producto básico que podría doblar su precio en tan solo unas semanas</a></h4>
+    <a href='https://computerhoy.com/alimentacion/producto-basico-podria-doblar-precio-tan-solo-unas-semanas-1180640' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/aceite-oliva-2922820.jpg?tf=1200x' alt='El producto básico que podría doblar su precio en tan solo unas semanas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apps/elon-musk-anuncia-tres-nuevas-funciones-vas-poder-usar-dias-twitter-1181186'>Elon Musk anuncia las tres nuevas funciones que vas a poder usar en unos días en Twitter</a></h4>
     <a href='https://computerhoy.com/apps/elon-musk-anuncia-tres-nuevas-funciones-vas-poder-usar-dias-twitter-1181186' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/twitter-2360933.jpg?tf=1200x' alt='Elon Musk anuncia las tres nuevas funciones que vas a poder usar en unos días en Twitter' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/vota-premios-computerhoy-2022-finalistas-mejor-plataforma-entretenimiento-1181150'>Vota en los Premios ComputerHoy 2022: finalistas a la mejor plataforma de entretenimiento</a></h4>
     <a href='https://computerhoy.com/tecnologia/vota-premios-computerhoy-2022-finalistas-mejor-plataforma-entretenimiento-1181150' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/finalistas-mejor-plataforma-entretenimiento-premios-ch-2022-2922774.jpg?tf=1200x' alt='Vota en los Premios ComputerHoy 2022: finalistas a la mejor plataforma de entretenimiento' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/smartwatches/reloj-500-dolares-mide-cualquier-parametro-salud-pero-no-te-dice-hora-1180936'>El reloj de 500 dólares que mide cualquier parámetro de tu salud pero que no te dice la hora</a></h4>
-    <a href='https://computerhoy.com/smartwatches/reloj-500-dolares-mide-cualquier-parametro-salud-pero-no-te-dice-hora-1180936' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/reloj-500-euros-nowatch-2922732.jpg?tf=1200x' alt='El reloj de 500 dólares que mide cualquier parámetro de tu salud pero que no te dice la hora' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/demuestran-beber-suficiente-agua-retrasa-envejecimiento-1180938'>Demuestran que beber suficiente agua retrasa el envejecimiento</a></h4>
-    <a href='https://computerhoy.com/life/demuestran-beber-suficiente-agua-retrasa-envejecimiento-1180938' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/demuestran-beber-suficiente-agua-retrasa-envejecimiento-2922726.jpg?tf=1200x' alt='Demuestran que beber suficiente agua retrasa el envejecimiento' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-telescopios-principiantes-ofertas-amazon-907945'>Estos son los mejores telescopios para principiantes que puedes comprar en Amazon</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-telescopios-principiantes-ofertas-amazon-907945' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/telescopio-campo-noche-2922144.jpg?tf=1200x' alt='Estos son los mejores telescopios para principiantes que puedes comprar en Amazon' />
     </a>
 </div>
 
