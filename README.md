@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/test-te-dice-filosofo-te-pareces-forma-pensar-1181210'>El test que te dice a qué filósofo te pareces según tu forma de pensar</a></h4>
+    <a href='https://computerhoy.com/life/test-te-dice-filosofo-te-pareces-forma-pensar-1181210' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/estatua-aristoteles-2922886.jpg?tf=1200x' alt='El test que te dice a qué filósofo te pareces según tu forma de pensar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciencia/ese-arbol-navidad-acabas-guardar-puede-convertirse-combustible-renovable-1181204'>Ese árbol de Navidad que acabas de guardar puede convertirse en combustible renovable</a></h4>
     <a href='https://computerhoy.com/ciencia/ese-arbol-navidad-acabas-guardar-puede-convertirse-combustible-renovable-1181204' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/arbol-navidad-2922876.jpg?tf=1200x' alt='Ese árbol de Navidad que acabas de guardar puede convertirse en combustible renovable' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/alimentacion/producto-basico-podria-doblar-precio-tan-solo-unas-semanas-1180640'>El producto básico que podría doblar su precio en tan solo unas semanas</a></h4>
     <a href='https://computerhoy.com/alimentacion/producto-basico-podria-doblar-precio-tan-solo-unas-semanas-1180640' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/aceite-oliva-2922820.jpg?tf=1200x' alt='El producto básico que podría doblar su precio en tan solo unas semanas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/elon-musk-anuncia-tres-nuevas-funciones-vas-poder-usar-dias-twitter-1181186'>Elon Musk anuncia las tres nuevas funciones que vas a poder usar en unos días en Twitter</a></h4>
-    <a href='https://computerhoy.com/apps/elon-musk-anuncia-tres-nuevas-funciones-vas-poder-usar-dias-twitter-1181186' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/twitter-2360933.jpg?tf=1200x' alt='Elon Musk anuncia las tres nuevas funciones que vas a poder usar en unos días en Twitter' />
     </a>
 </div>
 
