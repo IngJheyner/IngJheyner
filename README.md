@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/series-peliculas-disney-plus-mas-vistas-2022-1181244'>Las series y películas de Disney+ más vistas en 2022 son reposiciones y títulos antiguos</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/series-peliculas-disney-plus-mas-vistas-2022-1181244' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/malcom-2794125.jpg?tf=1200x' alt='Las series y películas de Disney+ más vistas en 2022 son reposiciones y títulos antiguos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/motor/elon-musk-134-vuelos-jet-privado-2022-emitiendo-atmosfera-1895-toneladas-co2-1181242'>Elon Musk completó 134 vuelos con su jet privado en 2022, emitiendo a la atmósfera 1.895 toneladas de CO2</a></h4>
     <a href='https://computerhoy.com/motor/elon-musk-134-vuelos-jet-privado-2022-emitiendo-atmosfera-1895-toneladas-co2-1181242' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/elon-musk-completo-134-vuelos-jet-privado-2022-emitiendo-atmosfera-1895-toneladas-co2-2922932.jpg?tf=1200x' alt='Elon Musk completó 134 vuelos con su jet privado en 2022, emitiendo a la atmósfera 1.895 toneladas de CO2' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/life/liu-bolin-hombre-invisible-1179938'>Liu Bolin, el Hombre Invisible</a></h4>
     <a href='https://computerhoy.com/life/liu-bolin-hombre-invisible-1179938' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/liu-bolin-hombre-invisible-2920320.jpg?tf=1200x' alt='Liu Bolin, el Hombre Invisible' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/android/molesto-error-android-auto-google-no-quiere-solucionar-1181218'>El molesto error de Android Auto que Google no quiere solucionar</a></h4>
-    <a href='https://computerhoy.com/android/molesto-error-android-auto-google-no-quiere-solucionar-1181218' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/android-auto-coolwalk-2870275.jpg?tf=1200x' alt='El molesto error de Android Auto que Google no quiere solucionar' />
     </a>
 </div>
 
