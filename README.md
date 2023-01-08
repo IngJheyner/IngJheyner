@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/smartwatches/reloj-500-dolares-mide-cualquier-parametro-salud-pero-no-te-dice-hora-1180936'>El reloj de 500 dólares que mide cualquier parámetro de tu salud pero que no te dice la hora</a></h4>
+    <a href='https://computerhoy.com/smartwatches/reloj-500-dolares-mide-cualquier-parametro-salud-pero-no-te-dice-hora-1180936' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/reloj-500-euros-nowatch-2922732.jpg?tf=1200x' alt='El reloj de 500 dólares que mide cualquier parámetro de tu salud pero que no te dice la hora' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/demuestran-beber-suficiente-agua-retrasa-envejecimiento-1180938'>Demuestran que beber suficiente agua retrasa el envejecimiento</a></h4>
+    <a href='https://computerhoy.com/life/demuestran-beber-suficiente-agua-retrasa-envejecimiento-1180938' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/demuestran-beber-suficiente-agua-retrasa-envejecimiento-2922726.jpg?tf=1200x' alt='Demuestran que beber suficiente agua retrasa el envejecimiento' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-telescopios-principiantes-ofertas-amazon-907945'>Estos son los mejores telescopios para principiantes que puedes comprar en Amazon</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/mejores-telescopios-principiantes-ofertas-amazon-907945' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/telescopio-campo-noche-2922144.jpg?tf=1200x' alt='Estos son los mejores telescopios para principiantes que puedes comprar en Amazon' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tutoriales/como-convertir-presentacion-google-slides-video-gif-1150973'>Cómo convertir una presentación de Google Slides en vídeo o GIF</a></h4>
     <a href='https://computerhoy.com/tutoriales/como-convertir-presentacion-google-slides-video-gif-1150973' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/google-slides-2863007.jpg?tf=1200x' alt='Cómo convertir una presentación de Google Slides en vídeo o GIF' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-usar-chrome-os-flex-pendrive-convertir-portatil-chromebook-temporalmente-1178966'>Cómo usar Chrome OS Flex desde un pendrive y convertir tu portátil en un Chromebook temporalmente</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-usar-chrome-os-flex-pendrive-convertir-portatil-chromebook-temporalmente-1178966' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/chrome-os-2918344.jpg?tf=1200x' alt='Cómo usar Chrome OS Flex desde un pendrive y convertir tu portátil en un Chromebook temporalmente' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/son-sensibilidad-thd-impedancia-ohmios-auriculares-son-importantes-1177488'>Qué son la sensibilidad, THD e impedancia (ohmios) de unos auriculares y por qué son importantes</a></h4>
-    <a href='https://computerhoy.com/tecnologia/son-sensibilidad-thd-impedancia-ohmios-auriculares-son-importantes-1177488' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/auriculares-2915628.jpg?tf=1200x' alt='Qué son la sensibilidad, THD e impedancia (ohmios) de unos auriculares y por qué son importantes' />
     </a>
 </div>
 
