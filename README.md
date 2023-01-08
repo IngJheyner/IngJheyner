@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/liu-bolin-hombre-invisible-1179938'>Liu Bolin, el Hombre Invisible</a></h4>
+    <a href='https://computerhoy.com/life/liu-bolin-hombre-invisible-1179938' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/liu-bolin-hombre-invisible-2920320.jpg?tf=1200x' alt='Liu Bolin, el Hombre Invisible' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/android/molesto-error-android-auto-google-no-quiere-solucionar-1181218'>El molesto error de Android Auto que Google no quiere solucionar</a></h4>
+    <a href='https://computerhoy.com/android/molesto-error-android-auto-google-no-quiere-solucionar-1181218' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/android-auto-coolwalk-2870275.jpg?tf=1200x' alt='El molesto error de Android Auto que Google no quiere solucionar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/test-te-dice-filosofo-te-pareces-forma-pensar-1181210'>El test que te dice a qué filósofo te pareces según tu forma de pensar</a></h4>
     <a href='https://computerhoy.com/life/test-te-dice-filosofo-te-pareces-forma-pensar-1181210' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/estatua-aristoteles-2922886.jpg?tf=1200x' alt='El test que te dice a qué filósofo te pareces según tu forma de pensar' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/vota-premios-computerhoy-2022-finalistas-mejor-operador-telefonia-1180596'>Vota en los Premios ComputerHoy 2022: finalistas al mejor operador de telefonía</a></h4>
     <a href='https://computerhoy.com/tecnologia/vota-premios-computerhoy-2022-finalistas-mejor-operador-telefonia-1180596' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/premios-computer-hoy-2022-finalistas-mejor-operador-telefonia-2922824.jpg?tf=1200x' alt='Vota en los Premios ComputerHoy 2022: finalistas al mejor operador de telefonía' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/probable-jamas-puedas-volver-comprar-modelo-nuevo-iphone-1181192'>Es probable que jamás puedas volver a comprar un modelo nuevo de este iPhone</a></h4>
-    <a href='https://computerhoy.com/apple/probable-jamas-puedas-volver-comprar-modelo-nuevo-iphone-1181192' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/galeria-iphone-2022-2656589.jpg?tf=1200x' alt='Es probable que jamás puedas volver a comprar un modelo nuevo de este iPhone' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/alimentacion/producto-basico-podria-doblar-precio-tan-solo-unas-semanas-1180640'>El producto básico que podría doblar su precio en tan solo unas semanas</a></h4>
-    <a href='https://computerhoy.com/alimentacion/producto-basico-podria-doblar-precio-tan-solo-unas-semanas-1180640' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/aceite-oliva-2922820.jpg?tf=1200x' alt='El producto básico que podría doblar su precio en tan solo unas semanas' />
     </a>
 </div>
 
