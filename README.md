@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/ese-arbol-navidad-acabas-guardar-puede-convertirse-combustible-renovable-1181204'>Ese árbol de Navidad que acabas de guardar puede convertirse en combustible renovable</a></h4>
+    <a href='https://computerhoy.com/ciencia/ese-arbol-navidad-acabas-guardar-puede-convertirse-combustible-renovable-1181204' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/arbol-navidad-2922876.jpg?tf=1200x' alt='Ese árbol de Navidad que acabas de guardar puede convertirse en combustible renovable' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/vota-premios-computerhoy-2022-finalistas-mejor-operador-telefonia-1180596'>Vota en los Premios ComputerHoy 2022: finalistas al mejor operador de telefonía</a></h4>
     <a href='https://computerhoy.com/tecnologia/vota-premios-computerhoy-2022-finalistas-mejor-operador-telefonia-1180596' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/premios-computer-hoy-2022-finalistas-mejor-operador-telefonia-2922824.jpg?tf=1200x' alt='Vota en los Premios ComputerHoy 2022: finalistas al mejor operador de telefonía' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/apps/elon-musk-anuncia-tres-nuevas-funciones-vas-poder-usar-dias-twitter-1181186'>Elon Musk anuncia las tres nuevas funciones que vas a poder usar en unos días en Twitter</a></h4>
     <a href='https://computerhoy.com/apps/elon-musk-anuncia-tres-nuevas-funciones-vas-poder-usar-dias-twitter-1181186' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/twitter-2360933.jpg?tf=1200x' alt='Elon Musk anuncia las tres nuevas funciones que vas a poder usar en unos días en Twitter' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/vota-premios-computerhoy-2022-finalistas-mejor-plataforma-entretenimiento-1181150'>Vota en los Premios ComputerHoy 2022: finalistas a la mejor plataforma de entretenimiento</a></h4>
-    <a href='https://computerhoy.com/tecnologia/vota-premios-computerhoy-2022-finalistas-mejor-plataforma-entretenimiento-1181150' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/finalistas-mejor-plataforma-entretenimiento-premios-ch-2022-2922774.jpg?tf=1200x' alt='Vota en los Premios ComputerHoy 2022: finalistas a la mejor plataforma de entretenimiento' />
     </a>
 </div>
 
