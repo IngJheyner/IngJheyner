@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-telescopios-principiantes-ofertas-amazon-907945'>Estos son los mejores telescopios para principiantes que puedes comprar en Amazon</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-telescopios-principiantes-ofertas-amazon-907945' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/telescopio-campo-noche-2922144.jpg?tf=1200x' alt='Estos son los mejores telescopios para principiantes que puedes comprar en Amazon' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tutoriales/como-desactivar-notificaciones-molestas-chrome-1176402'>Cómo desactivar las notificaciones más molestas de Chrome</a></h4>
     <a href='https://computerhoy.com/tutoriales/como-desactivar-notificaciones-molestas-chrome-1176402' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/google-chrome-2913694.jpg?tf=1200x' alt='Cómo desactivar las notificaciones más molestas de Chrome' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/son-sensibilidad-thd-impedancia-ohmios-auriculares-son-importantes-1177488'>Qué son la sensibilidad, THD e impedancia (ohmios) de unos auriculares y por qué son importantes</a></h4>
     <a href='https://computerhoy.com/tecnologia/son-sensibilidad-thd-impedancia-ohmios-auriculares-son-importantes-1177488' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/auriculares-2915628.jpg?tf=1200x' alt='Qué son la sensibilidad, THD e impedancia (ohmios) de unos auriculares y por qué son importantes' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/11-hechos-sorprendentes-historia-internet-1178372'>Los 11 hechos más sorprendentes de la historia de Internet</a></h4>
-    <a href='https://computerhoy.com/tecnologia/11-hechos-sorprendentes-historia-internet-1178372' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/navegando-ordenador-2917148.jpg?tf=1200x' alt='Los 11 hechos más sorprendentes de la historia de Internet' />
     </a>
 </div>
 
