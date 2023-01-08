@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/elon-musk-anuncia-tres-nuevas-funciones-vas-poder-usar-dias-twitter-1181186'>Elon Musk anuncia las tres nuevas funciones que vas a poder usar en unos días en Twitter</a></h4>
+    <a href='https://computerhoy.com/apps/elon-musk-anuncia-tres-nuevas-funciones-vas-poder-usar-dias-twitter-1181186' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/twitter-2360933.jpg?tf=1200x' alt='Elon Musk anuncia las tres nuevas funciones que vas a poder usar en unos días en Twitter' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/vota-premios-computerhoy-2022-finalistas-mejor-plataforma-entretenimiento-1181150'>Vota en los Premios ComputerHoy 2022: finalistas a la mejor plataforma de entretenimiento</a></h4>
+    <a href='https://computerhoy.com/tecnologia/vota-premios-computerhoy-2022-finalistas-mejor-plataforma-entretenimiento-1181150' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/finalistas-mejor-plataforma-entretenimiento-premios-ch-2022-2922774.jpg?tf=1200x' alt='Vota en los Premios ComputerHoy 2022: finalistas a la mejor plataforma de entretenimiento' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/smartwatches/reloj-500-dolares-mide-cualquier-parametro-salud-pero-no-te-dice-hora-1180936'>El reloj de 500 dólares que mide cualquier parámetro de tu salud pero que no te dice la hora</a></h4>
     <a href='https://computerhoy.com/smartwatches/reloj-500-dolares-mide-cualquier-parametro-salud-pero-no-te-dice-hora-1180936' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/reloj-500-euros-nowatch-2922732.jpg?tf=1200x' alt='El reloj de 500 dólares que mide cualquier parámetro de tu salud pero que no te dice la hora' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-telescopios-principiantes-ofertas-amazon-907945'>Estos son los mejores telescopios para principiantes que puedes comprar en Amazon</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/mejores-telescopios-principiantes-ofertas-amazon-907945' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/telescopio-campo-noche-2922144.jpg?tf=1200x' alt='Estos son los mejores telescopios para principiantes que puedes comprar en Amazon' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-desactivar-notificaciones-molestas-chrome-1176402'>Cómo desactivar las notificaciones más molestas de Chrome</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-desactivar-notificaciones-molestas-chrome-1176402' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/google-chrome-2913694.jpg?tf=1200x' alt='Cómo desactivar las notificaciones más molestas de Chrome' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-convertir-presentacion-google-slides-video-gif-1150973'>Cómo convertir una presentación de Google Slides en vídeo o GIF</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-convertir-presentacion-google-slides-video-gif-1150973' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/google-slides-2863007.jpg?tf=1200x' alt='Cómo convertir una presentación de Google Slides en vídeo o GIF' />
     </a>
 </div>
 
