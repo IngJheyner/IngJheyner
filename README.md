@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-desactivar-notificaciones-molestas-chrome-1176402'>Cómo desactivar las notificaciones más molestas de Chrome</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-desactivar-notificaciones-molestas-chrome-1176402' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/google-chrome-2913694.jpg?tf=1200x' alt='Cómo desactivar las notificaciones más molestas de Chrome' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-convertir-presentacion-google-slides-video-gif-1150973'>Cómo convertir una presentación de Google Slides en vídeo o GIF</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-convertir-presentacion-google-slides-video-gif-1150973' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/google-slides-2863007.jpg?tf=1200x' alt='Cómo convertir una presentación de Google Slides en vídeo o GIF' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tutoriales/como-usar-chrome-os-flex-pendrive-convertir-portatil-chromebook-temporalmente-1178966'>Cómo usar Chrome OS Flex desde un pendrive y convertir tu portátil en un Chromebook temporalmente</a></h4>
     <a href='https://computerhoy.com/tutoriales/como-usar-chrome-os-flex-pendrive-convertir-portatil-chromebook-temporalmente-1178966' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/chrome-os-2918344.jpg?tf=1200x' alt='Cómo usar Chrome OS Flex desde un pendrive y convertir tu portátil en un Chromebook temporalmente' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/11-hechos-sorprendentes-historia-internet-1178372'>Los 11 hechos más sorprendentes de la historia de Internet</a></h4>
     <a href='https://computerhoy.com/tecnologia/11-hechos-sorprendentes-historia-internet-1178372' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/navegando-ordenador-2917148.jpg?tf=1200x' alt='Los 11 hechos más sorprendentes de la historia de Internet' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/estados-suspension-windows-11-consumos-energeticos-1178426'>Los estados de suspensión de Windows 11 y sus consumos energéticos</a></h4>
-    <a href='https://computerhoy.com/tutoriales/estados-suspension-windows-11-consumos-energeticos-1178426' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/ordenador-windows-11-2917398.jpg?tf=1200x' alt='Los estados de suspensión de Windows 11 y sus consumos energéticos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/samsung-escapa-fecha-presentacion-serie-galaxy-s23-1180942'>A Samsung se le escapa la fecha de presentación de la serie Galaxy S23</a></h4>
-    <a href='https://computerhoy.com/moviles/samsung-escapa-fecha-presentacion-serie-galaxy-s23-1180942' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/samsung-galaxy-s22-analisis-opinion-2741195.jpg?tf=1200x' alt='A Samsung se le escapa la fecha de presentación de la serie Galaxy S23' />
     </a>
 </div>
 
