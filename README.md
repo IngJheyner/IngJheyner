@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-usar-chrome-os-flex-pendrive-convertir-portatil-chromebook-temporalmente-1178966'>Cómo usar Chrome OS Flex desde un pendrive y convertir tu portátil en un Chromebook temporalmente</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-usar-chrome-os-flex-pendrive-convertir-portatil-chromebook-temporalmente-1178966' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/chrome-os-2918344.jpg?tf=1200x' alt='Cómo usar Chrome OS Flex desde un pendrive y convertir tu portátil en un Chromebook temporalmente' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/son-sensibilidad-thd-impedancia-ohmios-auriculares-son-importantes-1177488'>Qué son la sensibilidad, THD e impedancia (ohmios) de unos auriculares y por qué son importantes</a></h4>
+    <a href='https://computerhoy.com/tecnologia/son-sensibilidad-thd-impedancia-ohmios-auriculares-son-importantes-1177488' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/auriculares-2915628.jpg?tf=1200x' alt='Qué son la sensibilidad, THD e impedancia (ohmios) de unos auriculares y por qué son importantes' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/11-hechos-sorprendentes-historia-internet-1178372'>Los 11 hechos más sorprendentes de la historia de Internet</a></h4>
     <a href='https://computerhoy.com/tecnologia/11-hechos-sorprendentes-historia-internet-1178372' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/navegando-ordenador-2917148.jpg?tf=1200x' alt='Los 11 hechos más sorprendentes de la historia de Internet' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/moviles/samsung-escapa-fecha-presentacion-serie-galaxy-s23-1180942'>A Samsung se le escapa la fecha de presentación de la serie Galaxy S23</a></h4>
     <a href='https://computerhoy.com/moviles/samsung-escapa-fecha-presentacion-serie-galaxy-s23-1180942' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/samsung-galaxy-s22-analisis-opinion-2741195.jpg?tf=1200x' alt='A Samsung se le escapa la fecha de presentación de la serie Galaxy S23' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tv/funciona-tv-transparente-lg-signature-oled-t-1180950'>Así funciona la TV transparente LG Signature OLED T</a></h4>
-    <a href='https://computerhoy.com/tv/funciona-tv-transparente-lg-signature-oled-t-1180950' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/lg-oled-t-2922498.jpg?tf=1200x' alt='Así funciona la TV transparente LG Signature OLED T' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/fabrican-plantilla-inteligente-hace-llevar-tacones-altos-sea-comodo-1180926'>Fabrican una plantilla inteligente que hace que llevar tacones altos sea más cómodo</a></h4>
-    <a href='https://computerhoy.com/life/fabrican-plantilla-inteligente-hace-llevar-tacones-altos-sea-comodo-1180926' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/mujer-tacones-2922476.jpg?tf=1200x' alt='Fabrican una plantilla inteligente que hace que llevar tacones altos sea más cómodo' />
     </a>
 </div>
 
