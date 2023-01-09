@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/listas/life/5-plantas-imprescindibles-tu-casa-segun-nasa-39799'>Las 5 plantas imprescindibles en tu casa, según la NASA</a></h4>
+    <a href='https://computerhoy.com/listas/life/5-plantas-imprescindibles-tu-casa-segun-nasa-39799' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/mujer-rodeada-plantas-interior-2923772.jpg?tf=1200x' alt='Las 5 plantas imprescindibles en tu casa, según la NASA' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/mejores-ofertas-dias-iva-mediamarkt-1181456'>Empieza el año con las mejores ofertas de los Días sin IVA de MediaMarkt</a></h4>
+    <a href='https://computerhoy.com/tecnologia/mejores-ofertas-dias-iva-mediamarkt-1181456' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/portatil-portada-dia-iva-mediamarkt-2923738.jpg?tf=1200x' alt='Empieza el año con las mejores ofertas de los Días sin IVA de MediaMarkt' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/teoria-carro-supermercado-te-coloca-lado-bueno-malo-sociedad-1181576'>La teoría del carro de supermercado que te coloca en la lado bueno o malo de la sociedad</a></h4>
+    <a href='https://computerhoy.com/life/teoria-carro-supermercado-te-coloca-lado-bueno-malo-sociedad-1181576' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/09/carrito-compra.jpg?tf=1200x' alt='La teoría del carro de supermercado que te coloca en la lado bueno o malo de la sociedad' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/moviles/camara-50-mpx-veremos-muchos-moviles-gama-alta-2023-1181540'>Así es la cámara de 50 Mpx que veremos en muchos móviles de gama alta en 2023</a></h4>
     <a href='https://computerhoy.com/moviles/camara-50-mpx-veremos-muchos-moviles-gama-alta-2023-1181540' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/camara-50-mpx-veremos-muchos-moviles-2023-2923634.jpg?tf=1200x' alt='Así es la cámara de 50 Mpx que veremos en muchos móviles de gama alta en 2023' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/entretenimiento/netflix-ya-prepara-dos-series-basadas-grandes-libros-esperan-ser-bombazo-2023-1181462'>Netflix ya prepara dos series basadas en grandes libros que esperan ser un bombazo en 2023</a></h4>
     <a href='https://computerhoy.com/entretenimiento/netflix-ya-prepara-dos-series-basadas-grandes-libros-esperan-ser-bombazo-2023-1181462' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/netflix-2923644.jpg?tf=1200x' alt='Netflix ya prepara dos series basadas en grandes libros que esperan ser un bombazo en 2023' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/formas-rapidas-sencillas-quemar-calorias-ano-nuevo-apps-movil-1181522'>Las formas más rápidas y sencillas para quemar calorías este año nuevo con apps de móvil</a></h4>
-    <a href='https://computerhoy.com/apps/formas-rapidas-sencillas-quemar-calorias-ano-nuevo-apps-movil-1181522' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/hombre-preparandose-hacer-deporte-2399173.jpg?tf=1200x' alt='Las formas más rápidas y sencillas para quemar calorías este año nuevo con apps de móvil' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/historia-telefonos-moviles-origen-actualidad-1181484'>Esta es la historia de los teléfonos móviles: desde su origen hasta la actualidad</a></h4>
-    <a href='https://computerhoy.com/moviles/historia-telefonos-moviles-origen-actualidad-1181484' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/historia-moviles-origen-actualidad-2923544.jpg?tf=1200x' alt='Esta es la historia de los teléfonos móviles: desde su origen hasta la actualidad' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/como-redes-sociales-contribuyeron-caos-brasil-tiktok-twitter-instagram-1181490'>Cómo las redes sociales contribuyeron al caos en Brasil: TikTok, Twitter, Instagram...</a></h4>
-    <a href='https://computerhoy.com/apps/como-redes-sociales-contribuyeron-caos-brasil-tiktok-twitter-instagram-1181490' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/brasil-2923194.jpg?tf=1200x' alt='Cómo las redes sociales contribuyeron al caos en Brasil: TikTok, Twitter, Instagram...' />
     </a>
 </div>
 
