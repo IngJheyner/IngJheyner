@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/analisis/huawei-freebuds-5i-mucho-ofrecer-precio-todos-1177038'>Huawei FreeBuds 5i, mucho que ofrecer por un precio para todos</a></h4>
+    <a href='https://computerhoy.com/analisis/huawei-freebuds-5i-mucho-ofrecer-precio-todos-1177038' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/huawei-freebuds-5i-2917876.jpg?tf=1200x' alt='Huawei FreeBuds 5i, mucho que ofrecer por un precio para todos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/28-noticias-tecnologia-comenzar-manana-informado-ultimo-1181428'>28 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
     <a href='https://computerhoy.com/tecnologia/28-noticias-tecnologia-comenzar-manana-informado-ultimo-1181428' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/28-noticias-tecnologia-comenzar-manana-informado-ultimo-2923112.jpg?tf=1200x' alt='28 noticias de tecnología para comenzar la mañana informado de lo último' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/entretenimiento/series-peliculas-disney-plus-mas-vistas-2022-1181244'>Las series y películas de Disney+ más vistas en 2022 son reposiciones y títulos antiguos</a></h4>
     <a href='https://computerhoy.com/entretenimiento/series-peliculas-disney-plus-mas-vistas-2022-1181244' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/malcom-2794125.jpg?tf=1200x' alt='Las series y películas de Disney+ más vistas en 2022 son reposiciones y títulos antiguos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/elon-musk-134-vuelos-jet-privado-2022-emitiendo-atmosfera-1895-toneladas-co2-1181242'>Elon Musk completó 134 vuelos con su jet privado en 2022, emitiendo a la atmósfera 1.895 toneladas de CO2</a></h4>
-    <a href='https://computerhoy.com/motor/elon-musk-134-vuelos-jet-privado-2022-emitiendo-atmosfera-1895-toneladas-co2-1181242' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/elon-musk-completo-134-vuelos-jet-privado-2022-emitiendo-atmosfera-1895-toneladas-co2-2922932.jpg?tf=1200x' alt='Elon Musk completó 134 vuelos con su jet privado en 2022, emitiendo a la atmósfera 1.895 toneladas de CO2' />
     </a>
 </div>
 
