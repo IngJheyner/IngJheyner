@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/hogar/chimenea-electrica-cecotec-bajo-consumo-oferta-150-euros-1181830'>Esta chimenea eléctrica es muy fácil de instalar, calienta, decora, y solo cuesta 150 euros</a></h4>
+    <a href='https://computerhoy.com/hogar/chimenea-electrica-cecotec-bajo-consumo-oferta-150-euros-1181830' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/chimenea-electrica-muy-facil-instalar-calienta-decora-solo-cuesta-150-euros-2924078.jpg?tf=1200x' alt='Esta chimenea eléctrica es muy fácil de instalar, calienta, decora, y solo cuesta 150 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/puedes-controlar-satelite-sony-hacerle-fotografias-tierra-1181748'>Así puedes controlar el satélite de Sony para hacerle fotografías a la Tierra</a></h4>
+    <a href='https://computerhoy.com/tecnologia/puedes-controlar-satelite-sony-hacerle-fotografias-tierra-1181748' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/puedes-controlar-satelite-sony-hacerle-fotografias-tierra-2924070.jpg?tf=1200x' alt='Así puedes controlar el satélite de Sony para hacerle fotografías a la Tierra' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/microsoft-quiere-usar-chatgpt-office-1181762'>Microsoft quiere usar ChatGPT con Office</a></h4>
     <a href='https://computerhoy.com/tecnologia/microsoft-quiere-usar-chatgpt-office-1181762' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/microsoft-office-2826985.jpg?tf=1200x' alt='Microsoft quiere usar ChatGPT con Office' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/life/estas-son-razas-perro-inteligentes-mundo-estudio-1181810'>Estas son las razas de perro más inteligentes del mundo, según este estudio</a></h4>
     <a href='https://computerhoy.com/life/estas-son-razas-perro-inteligentes-mundo-estudio-1181810' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/border-collie-2924064.jpg?tf=1200x' alt='Estas son las razas de perro más inteligentes del mundo, según este estudio' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/funciona-prueba-cafe-entrevistas-trabajo-deberias-conocer-1181802'>Así funciona la prueba del café en las entrevistas de trabajo y que deberías conocer</a></h4>
-    <a href='https://computerhoy.com/life/funciona-prueba-cafe-entrevistas-trabajo-deberias-conocer-1181802' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/entrevista-cafe-2924052.jpg?tf=1200x' alt='Así funciona la prueba del café en las entrevistas de trabajo y que deberías conocer' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/dispositivo-podras-oler-aromas-peliculas-videojuegos-1181746'>Con este dispositivo podrás oler los aromas de las películas o los videojuegos</a></h4>
-    <a href='https://computerhoy.com/tecnologia/dispositivo-podras-oler-aromas-peliculas-videojuegos-1181746' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/dispositivo-podras-oler-aromas-peliculas-videojuegos-2924004.jpg?tf=1200x' alt='Con este dispositivo podrás oler los aromas de las películas o los videojuegos' />
     </a>
 </div>
 
