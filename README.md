@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/no-te-enganen-ni-ahora-eres-ofiuco-ni-nasa-ha-cambiado-signo-zodiaco-1181740'>Que no te engañen: ni ahora eres Ofiuco, ni la NASA ha cambiado tu signo del Zodiaco</a></h4>
-    <a href='https://computerhoy.com/life/no-te-enganen-ni-ahora-eres-ofiuco-ni-nasa-ha-cambiado-signo-zodiaco-1181740' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/horoscopo-zodiaco-2022-2576357.jpg?tf=1200x' alt='Que no te engañen: ni ahora eres Ofiuco, ni la NASA ha cambiado tu signo del Zodiaco' />
+    <h4><a href='https://computerhoy.com/apple/hace-16-anos-apple-cambio-mundo-moviles-presentacion-primer-iphone-1181618'>Hace 16 años Apple cambió el mundo de los móviles con la presentación del primer iPhone</a></h4>
+    <a href='https://computerhoy.com/apple/hace-16-anos-apple-cambio-mundo-moviles-presentacion-primer-iphone-1181618' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/steve-jobs-2924018.jpg?tf=1200x' alt='Hace 16 años Apple cambió el mundo de los móviles con la presentación del primer iPhone' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/varias-aerolineas-europeas-confirman-haber-sido-victimas-enorme-hackeo-1181730'>Varias aerolíneas europeas confirman haber sido víctimas de un enorme hackeo</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/varias-aerolineas-europeas-confirman-haber-sido-victimas-enorme-hackeo-1181730' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/air-france-2923888.jpg?tf=1200x' alt='Varias aerolíneas europeas confirman haber sido víctimas de un enorme hackeo' />
+    <h4><a href='https://computerhoy.com/gaming/podria-mejorar-ia-proximos-drivers-nvidia-1181614'>Así podría mejorar la IA los próximos drivers NVIDIA</a></h4>
+    <a href='https://computerhoy.com/gaming/podria-mejorar-ia-proximos-drivers-nvidia-1181614' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/nvidia-drivers-2924016.jpg?tf=1200x' alt='Así podría mejorar la IA los próximos drivers NVIDIA' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/whatsapp-anade-funciones-importantes-historia-nadie-ha-dado-cuenta-1181710'>WhatsApp añade una de las funciones más importantes de su historia y nadie se ha dado cuenta</a></h4>
-    <a href='https://computerhoy.com/apps/whatsapp-anade-funciones-importantes-historia-nadie-ha-dado-cuenta-1181710' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/app-whatsapp-2659303.jpg?tf=1200x' alt='WhatsApp añade una de las funciones más importantes de su historia y nadie se ha dado cuenta' />
+    <h4><a href='https://computerhoy.com/entretenimiento/goteo-cancelaciones-no-cesa-netflix-tambien-acaba-ultrasecretos-1181744'>El goteo de cancelaciones que no cesa: Netflix también acaba con Ultrasecretos</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/goteo-cancelaciones-no-cesa-netflix-tambien-acaba-ultrasecretos-1181744' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/ultrasecretos-nueva-serie-animacion-adultos-netflix-2512309.jpg?tf=1200x' alt='El goteo de cancelaciones que no cesa: Netflix también acaba con Ultrasecretos' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/john-deere-dejara-hackeen-tractores-apuesta-negocio-satelites-1181662'>John Deere dejará que hackeen su tractores y apuesta por el negocio de los satélites</a></h4>
-    <a href='https://computerhoy.com/tecnologia/john-deere-dejara-hackeen-tractores-apuesta-negocio-satelites-1181662' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/john-deere-2923774.jpg?tf=1200x' alt='John Deere dejará que hackeen su tractores y apuesta por el negocio de los satélites' />
+    <h4><a href='https://computerhoy.com/tecnologia/chatgpt-tambien-triunfa-dark-web-podria-convertirse-grave-problema-1181742'>ChatGPT también triunfa en la Dark Web y podría convertirse en un grave problema</a></h4>
+    <a href='https://computerhoy.com/tecnologia/chatgpt-tambien-triunfa-dark-web-podria-convertirse-grave-problema-1181742' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/09/dark-web-vigilar-cuarto-oscuro-internet.jpg?tf=1200x' alt='ChatGPT también triunfa en la Dark Web y podría convertirse en un grave problema' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/listas/life/5-plantas-imprescindibles-tu-casa-segun-nasa-39799'>Las 5 plantas imprescindibles en tu casa, según la NASA</a></h4>
-    <a href='https://computerhoy.com/listas/life/5-plantas-imprescindibles-tu-casa-segun-nasa-39799' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/mujer-rodeada-plantas-interior-2923772.jpg?tf=1200x' alt='Las 5 plantas imprescindibles en tu casa, según la NASA' />
+    <h4><a href='https://computerhoy.com/tecnologia/xiaomi-redmi-watch-2-lite-oferta-reloj-barato-1181472'>Este reloj Xiaomi ultra low cost rompe el mercado con su precio, y con diez días de batería</a></h4>
+    <a href='https://computerhoy.com/tecnologia/xiaomi-redmi-watch-2-lite-oferta-reloj-barato-1181472' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/redmi-watch-2-lite-analisis-opinion-2598817.jpg?tf=1200x' alt='Este reloj Xiaomi ultra low cost rompe el mercado con su precio, y con diez días de batería' />
     </a>
 </div>
 
