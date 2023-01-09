@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/funciona-prueba-cafe-entrevistas-trabajo-deberias-conocer-1181802'>Así funciona la prueba del café en las entrevistas de trabajo y que deberías conocer</a></h4>
+    <a href='https://computerhoy.com/life/funciona-prueba-cafe-entrevistas-trabajo-deberias-conocer-1181802' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/entrevista-cafe-2924052.jpg?tf=1200x' alt='Así funciona la prueba del café en las entrevistas de trabajo y que deberías conocer' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/dispositivo-podras-oler-aromas-peliculas-videojuegos-1181746'>Con este dispositivo podrás oler los aromas de las películas o los videojuegos</a></h4>
+    <a href='https://computerhoy.com/tecnologia/dispositivo-podras-oler-aromas-peliculas-videojuegos-1181746' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/dispositivo-podras-oler-aromas-peliculas-videojuegos-2924004.jpg?tf=1200x' alt='Con este dispositivo podrás oler los aromas de las películas o los videojuegos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apple/hace-16-anos-apple-cambio-mundo-moviles-presentacion-primer-iphone-1181618'>Hace 16 años Apple cambió el mundo de los móviles con la presentación del primer iPhone</a></h4>
     <a href='https://computerhoy.com/apple/hace-16-anos-apple-cambio-mundo-moviles-presentacion-primer-iphone-1181618' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/steve-jobs-2924018.jpg?tf=1200x' alt='Hace 16 años Apple cambió el mundo de los móviles con la presentación del primer iPhone' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/entretenimiento/goteo-cancelaciones-no-cesa-netflix-tambien-acaba-ultrasecretos-1181744'>El goteo de cancelaciones que no cesa: Netflix también acaba con Ultrasecretos</a></h4>
     <a href='https://computerhoy.com/entretenimiento/goteo-cancelaciones-no-cesa-netflix-tambien-acaba-ultrasecretos-1181744' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/ultrasecretos-nueva-serie-animacion-adultos-netflix-2512309.jpg?tf=1200x' alt='El goteo de cancelaciones que no cesa: Netflix también acaba con Ultrasecretos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/chatgpt-tambien-triunfa-dark-web-podria-convertirse-grave-problema-1181742'>ChatGPT también triunfa en la Dark Web y podría convertirse en un grave problema</a></h4>
-    <a href='https://computerhoy.com/tecnologia/chatgpt-tambien-triunfa-dark-web-podria-convertirse-grave-problema-1181742' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/09/dark-web-vigilar-cuarto-oscuro-internet.jpg?tf=1200x' alt='ChatGPT también triunfa en la Dark Web y podría convertirse en un grave problema' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/xiaomi-redmi-watch-2-lite-oferta-reloj-barato-1181472'>Este reloj Xiaomi ultra low cost rompe el mercado con su precio, y con diez días de batería</a></h4>
-    <a href='https://computerhoy.com/tecnologia/xiaomi-redmi-watch-2-lite-oferta-reloj-barato-1181472' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/redmi-watch-2-lite-analisis-opinion-2598817.jpg?tf=1200x' alt='Este reloj Xiaomi ultra low cost rompe el mercado con su precio, y con diez días de batería' />
     </a>
 </div>
 
