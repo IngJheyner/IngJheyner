@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/28-noticias-tecnologia-comenzar-manana-informado-ultimo-1181428'>28 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
+    <a href='https://computerhoy.com/tecnologia/28-noticias-tecnologia-comenzar-manana-informado-ultimo-1181428' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/28-noticias-tecnologia-comenzar-manana-informado-ultimo-2923112.jpg?tf=1200x' alt='28 noticias de tecnología para comenzar la mañana informado de lo último' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-accesorios-alexa-1097379'>Estos son los mejores accesorios con Alexa que puedes comprar</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/mejores-accesorios-alexa-1097379' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/amazon-echo-dot-reloj-2765665.jpg?tf=1200x' alt='Estos son los mejores accesorios con Alexa que puedes comprar' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/motor/elon-musk-134-vuelos-jet-privado-2022-emitiendo-atmosfera-1895-toneladas-co2-1181242'>Elon Musk completó 134 vuelos con su jet privado en 2022, emitiendo a la atmósfera 1.895 toneladas de CO2</a></h4>
     <a href='https://computerhoy.com/motor/elon-musk-134-vuelos-jet-privado-2022-emitiendo-atmosfera-1895-toneladas-co2-1181242' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/elon-musk-completo-134-vuelos-jet-privado-2022-emitiendo-atmosfera-1895-toneladas-co2-2922932.jpg?tf=1200x' alt='Elon Musk completó 134 vuelos con su jet privado en 2022, emitiendo a la atmósfera 1.895 toneladas de CO2' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-oppo-descuentos-ofertas-893741'>Estos son los mejores móviles Oppo que puedes comprar este año</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-oppo-descuentos-ofertas-893741' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/review-oppo-reno-8-pro-2809153.jpg?tf=1200x' alt='Estos son los mejores móviles Oppo que puedes comprar este año' />
     </a>
 </div>
 
