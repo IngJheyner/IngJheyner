@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-accesorios-alexa-1097379'>Estos son los mejores accesorios con Alexa que puedes comprar</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-accesorios-alexa-1097379' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/amazon-echo-dot-reloj-2765665.jpg?tf=1200x' alt='Estos son los mejores accesorios con Alexa que puedes comprar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciencia/vacuna-abejas-loque-americana-dalan-animal-health-1181250'>Estados Unidos va a vacunar a las abejas contra su enfermedad más mortal</a></h4>
     <a href='https://computerhoy.com/ciencia/vacuna-abejas-loque-americana-dalan-animal-health-1181250' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/09/molecula-veneno-abeja-destruye-cancer-mama-2053137.jpg?tf=1200x' alt='Estados Unidos va a vacunar a las abejas contra su enfermedad más mortal' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-oppo-descuentos-ofertas-893741'>Estos son los mejores móviles Oppo que puedes comprar este año</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-oppo-descuentos-ofertas-893741' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/review-oppo-reno-8-pro-2809153.jpg?tf=1200x' alt='Estos son los mejores móviles Oppo que puedes comprar este año' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/audio/fallece-sim-wong-hoo-creador-tarjetas-sonido-sound-blaster-ceo-creative-1181236'>Fallece Sim Wong Hoo, el creador de las tarjetas de sonido Sound Blaster, a los 67 años de edad</a></h4>
-    <a href='https://computerhoy.com/audio/fallece-sim-wong-hoo-creador-tarjetas-sonido-sound-blaster-ceo-creative-1181236' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/fallece-sim-wong-hoo-creador-tarjetas-sonido-sound-blaster-67-anos-edad-2922922.jpg?tf=1200x' alt='Fallece Sim Wong Hoo, el creador de las tarjetas de sonido Sound Blaster, a los 67 años de edad' />
     </a>
 </div>
 
