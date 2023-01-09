@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/moviles/camara-50-mpx-veremos-muchos-moviles-gama-alta-2023-1181540'>Así es la cámara de 50 Mpx que veremos en muchos móviles de gama alta en 2023</a></h4>
+    <a href='https://computerhoy.com/moviles/camara-50-mpx-veremos-muchos-moviles-gama-alta-2023-1181540' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/camara-50-mpx-veremos-muchos-moviles-2023-2923634.jpg?tf=1200x' alt='Así es la cámara de 50 Mpx que veremos en muchos móviles de gama alta en 2023' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/netflix-ya-prepara-dos-series-basadas-grandes-libros-esperan-ser-bombazo-2023-1181462'>Netflix ya prepara dos series basadas en grandes libros que esperan ser un bombazo en 2023</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/netflix-ya-prepara-dos-series-basadas-grandes-libros-esperan-ser-bombazo-2023-1181462' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/netflix-2923644.jpg?tf=1200x' alt='Netflix ya prepara dos series basadas en grandes libros que esperan ser un bombazo en 2023' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/formas-rapidas-sencillas-quemar-calorias-ano-nuevo-apps-movil-1181522'>Las formas más rápidas y sencillas para quemar calorías este año nuevo con apps de móvil</a></h4>
+    <a href='https://computerhoy.com/apps/formas-rapidas-sencillas-quemar-calorias-ano-nuevo-apps-movil-1181522' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/hombre-preparandose-hacer-deporte-2399173.jpg?tf=1200x' alt='Las formas más rápidas y sencillas para quemar calorías este año nuevo con apps de móvil' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/moviles/historia-telefonos-moviles-origen-actualidad-1181484'>Esta es la historia de los teléfonos móviles: desde su origen hasta la actualidad</a></h4>
     <a href='https://computerhoy.com/moviles/historia-telefonos-moviles-origen-actualidad-1181484' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/historia-moviles-origen-actualidad-2923544.jpg?tf=1200x' alt='Esta es la historia de los teléfonos móviles: desde su origen hasta la actualidad' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/apps/como-redes-sociales-contribuyeron-caos-brasil-tiktok-twitter-instagram-1181490'>Cómo las redes sociales contribuyeron al caos en Brasil: TikTok, Twitter, Instagram...</a></h4>
     <a href='https://computerhoy.com/apps/como-redes-sociales-contribuyeron-caos-brasil-tiktok-twitter-instagram-1181490' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/brasil-2923194.jpg?tf=1200x' alt='Cómo las redes sociales contribuyeron al caos en Brasil: TikTok, Twitter, Instagram...' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/huawei-freebuds-5i-mucho-ofrecer-precio-todos-1177038'>Huawei FreeBuds 5i, mucho que ofrecer por un precio para todos</a></h4>
-    <a href='https://computerhoy.com/analisis/huawei-freebuds-5i-mucho-ofrecer-precio-todos-1177038' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/huawei-freebuds-5i-2917876.jpg?tf=1200x' alt='Huawei FreeBuds 5i, mucho que ofrecer por un precio para todos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/28-noticias-tecnologia-comenzar-manana-informado-ultimo-1181428'>28 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
-    <a href='https://computerhoy.com/tecnologia/28-noticias-tecnologia-comenzar-manana-informado-ultimo-1181428' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/28-noticias-tecnologia-comenzar-manana-informado-ultimo-2923112.jpg?tf=1200x' alt='28 noticias de tecnología para comenzar la mañana informado de lo último' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-accesorios-alexa-1097379'>Estos son los mejores accesorios con Alexa que puedes comprar</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-accesorios-alexa-1097379' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/amazon-echo-dot-reloj-2765665.jpg?tf=1200x' alt='Estos son los mejores accesorios con Alexa que puedes comprar' />
     </a>
 </div>
 
