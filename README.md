@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/no-te-enganen-ni-ahora-eres-ofiuco-ni-nasa-ha-cambiado-signo-zodiaco-1181740'>Que no te engañen: ni ahora eres Ofiuco, ni la NASA ha cambiado tu signo del Zodiaco</a></h4>
+    <a href='https://computerhoy.com/life/no-te-enganen-ni-ahora-eres-ofiuco-ni-nasa-ha-cambiado-signo-zodiaco-1181740' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/horoscopo-zodiaco-2022-2576357.jpg?tf=1200x' alt='Que no te engañen: ni ahora eres Ofiuco, ni la NASA ha cambiado tu signo del Zodiaco' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciberseguridad/varias-aerolineas-europeas-confirman-haber-sido-victimas-enorme-hackeo-1181730'>Varias aerolíneas europeas confirman haber sido víctimas de un enorme hackeo</a></h4>
     <a href='https://computerhoy.com/ciberseguridad/varias-aerolineas-europeas-confirman-haber-sido-victimas-enorme-hackeo-1181730' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/air-france-2923888.jpg?tf=1200x' alt='Varias aerolíneas europeas confirman haber sido víctimas de un enorme hackeo' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/listas/life/5-plantas-imprescindibles-tu-casa-segun-nasa-39799'>Las 5 plantas imprescindibles en tu casa, según la NASA</a></h4>
     <a href='https://computerhoy.com/listas/life/5-plantas-imprescindibles-tu-casa-segun-nasa-39799' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/mujer-rodeada-plantas-interior-2923772.jpg?tf=1200x' alt='Las 5 plantas imprescindibles en tu casa, según la NASA' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/mejores-ofertas-dias-iva-mediamarkt-1181456'>Empieza el año con las mejores ofertas de los Días sin IVA de MediaMarkt</a></h4>
-    <a href='https://computerhoy.com/tecnologia/mejores-ofertas-dias-iva-mediamarkt-1181456' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/portatil-portada-dia-iva-mediamarkt-2923738.jpg?tf=1200x' alt='Empieza el año con las mejores ofertas de los Días sin IVA de MediaMarkt' />
     </a>
 </div>
 
