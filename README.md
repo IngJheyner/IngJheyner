@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/skyshowtime-estreno-espana-febrero-paramount-plus-universal-1182460'>Llega a España SkyShowtime, la plataforma de streaming de Paramount+ y Universal</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/skyshowtime-estreno-espana-febrero-paramount-plus-universal-1182460' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/llega-espana-skyshowtime-plataforma-streaming-paramount-universal-2925134.jpg?tf=1200x' alt='Llega a España SkyShowtime, la plataforma de streaming de Paramount+ y Universal' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/streaming/puedes-ver-lista-iptv-completa-7500-canales-gratis-legales-todo-mundo-1182456'>Así puedes ver la lista IPTV más completa: más de 7500 canales gratis y legales de todo el mundo</a></h4>
+    <a href='https://computerhoy.com/streaming/puedes-ver-lista-iptv-completa-7500-canales-gratis-legales-todo-mundo-1182456' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/iptv-2925158.jpg?tf=1200x' alt='Así puedes ver la lista IPTV más completa: más de 7500 canales gratis y legales de todo el mundo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/comienzo-segregacion-software-iphone-lenta-adopcion-ios-16-1182334'>El comienzo de la segregación de software en iPhone, lenta adopción de iOS 16</a></h4>
+    <a href='https://computerhoy.com/apple/comienzo-segregacion-software-iphone-lenta-adopcion-ios-16-1182334' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/ios-16-ultima-version-sistema-operativo-apple-2831713.jpg?tf=1200x' alt='El comienzo de la segregación de software en iPhone, lenta adopción de iOS 16' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/realidad-virtual/meta-anuncia-fin-soporte-gafas-realidad-virtual-oculus-quest-1182380'>Meta anuncia el fin del soporte de sus gafas de realidad virtual Oculus Quest</a></h4>
+    <a href='https://computerhoy.com/realidad-virtual/meta-anuncia-fin-soporte-gafas-realidad-virtual-oculus-quest-1182380' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/05/oculus-quest_2.jpg?tf=1200x' alt='Meta anuncia el fin del soporte de sus gafas de realidad virtual Oculus Quest' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/dos-preguntas-podrian-darte-trabajo-toda-vida-amazon-1182454'>Las dos preguntas que podrían darte un trabajo para toda la vida en Amazon</a></h4>
     <a href='https://computerhoy.com/life/dos-preguntas-podrian-darte-trabajo-toda-vida-amazon-1182454' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/jeff-bezos-2925146.jpg?tf=1200x' alt='Las dos preguntas que podrían darte un trabajo para toda la vida en Amazon' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/puedes-ver-cometa-verde-no-volvera-pasar-cerca-tierra-dentro-50000-anos-1182450'>Así puedes ver el cometa verde que no volverá a pasar cerca de la Tierra hasta dentro de 50.000 años</a></h4>
-    <a href='https://computerhoy.com/espacio/puedes-ver-cometa-verde-no-volvera-pasar-cerca-tierra-dentro-50000-anos-1182450' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/cometa-c-2022-e3-2925144.jpg?tf=1200x' alt='Así puedes ver el cometa verde que no volverá a pasar cerca de la Tierra hasta dentro de 50.000 años' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/fin-vas-poder-abrir-varias-ventanas-mismo-tiempo-chrome-moviles-1182442'>Al fin vas a poder abrir varias ventanas al mismo tiempo en Chrome para móviles</a></h4>
-    <a href='https://computerhoy.com/google/fin-vas-poder-abrir-varias-ventanas-mismo-tiempo-chrome-moviles-1182442' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/google-chrome-2842861.jpg?tf=1200x' alt='Al fin vas a poder abrir varias ventanas al mismo tiempo en Chrome para móviles' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/redes-sociales/instagram-quiere-volver-raices-elimina-apartados-odiados-1182426'>Instagram quiere volver a sus raíces y elimina uno de sus apartados más odiados</a></h4>
-    <a href='https://computerhoy.com/redes-sociales/instagram-quiere-volver-raices-elimina-apartados-odiados-1182426' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/instagram-stories-2507043.jpg?tf=1200x' alt='Instagram quiere volver a sus raíces y elimina uno de sus apartados más odiados' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/trustpid-supercookie-vodafone-movistar-orange-no-podras-rechazar-1182408'>TrustPid: así es la supercookie de Vodafone, Movistar y Orange que no podrás rechazar</a></h4>
-    <a href='https://computerhoy.com/internet/trustpid-supercookie-vodafone-movistar-orange-no-podras-rechazar-1182408' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/datos-first-party-como-webs-recopilaran-datos-cuando-desaparezcan-cookies-2022-2382493.jpg?tf=1200x' alt='TrustPid: así es la supercookie de Vodafone, Movistar y Orange que no podrás rechazar' />
     </a>
 </div>
 
