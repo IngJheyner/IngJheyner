@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/desploma-precio-samsung-galaxy-s22-ya-barato-iphone-1181488'>Se desploma el precio del Samsung Galaxy S22, que ya es más barato que los iPhone SE</a></h4>
+    <a href='https://computerhoy.com/tecnologia/desploma-precio-samsung-galaxy-s22-ya-barato-iphone-1181488' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/samsung-galaxy-s22-analisis-opinion-2741199.jpg?tf=1200x' alt='Se desploma el precio del Samsung Galaxy S22, que ya es más barato que los iPhone SE' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/windows/windows-7-oficialmente-muerto-puedes-hacer-todavia-utilizas-1182116'>Windows 7 esta oficialmente muerto: ¿qué puedes hacer si todavía lo utilizas?</a></h4>
+    <a href='https://computerhoy.com/windows/windows-7-oficialmente-muerto-puedes-hacer-todavia-utilizas-1182116' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/windows-7-2375493.jpg?tf=1200x' alt='Windows 7 esta oficialmente muerto: ¿qué puedes hacer si todavía lo utilizas?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/industria/elon-musk-ha-perdido-tanto-dinero-ya-tiene-propio-record-guinness-1182098'>Elon Musk ha perdido tanto dinero que ya tiene su propio récord Guinness</a></h4>
     <a href='https://computerhoy.com/industria/elon-musk-ha-perdido-tanto-dinero-ya-tiene-propio-record-guinness-1182098' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/elon-musk-2867409.jpg?tf=1200x' alt='Elon Musk ha perdido tanto dinero que ya tiene su propio récord Guinness' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/mejores-ofertas-dias-sin-iva-xiaomi-1181738'>Aprovecha los Días sin IVA de Xiaomi en su tienda con precios propios de liquidación</a></h4>
     <a href='https://computerhoy.com/tecnologia/mejores-ofertas-dias-sin-iva-xiaomi-1181738' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/ecosistema-xiaomi-2597457.jpg?tf=1200x' alt='Aprovecha los Días sin IVA de Xiaomi en su tienda con precios propios de liquidación' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/24-noticias-tecnologia-comenzar-manana-informado-ultimo-1182062'>24 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
-    <a href='https://computerhoy.com/tecnologia/24-noticias-tecnologia-comenzar-manana-informado-ultimo-1182062' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/24-noticias-tecnologia-comenzar-manana-informado-ultimo-2924348.jpg?tf=1200x' alt='24 noticias de tecnología para comenzar la mañana informado de lo último' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/cosas-deberias-saber-antes-utilizar-inteligencia-artificial-chatgpt-1181732'>Cosas que deberías saber antes de utilizar la inteligencia artificial de ChatGPT</a></h4>
-    <a href='https://computerhoy.com/tecnologia/cosas-deberias-saber-antes-utilizar-inteligencia-artificial-chatgpt-1181732' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/openai-2923906.jpg?tf=1200x' alt='Cosas que deberías saber antes de utilizar la inteligencia artificial de ChatGPT' />
     </a>
 </div>
 
