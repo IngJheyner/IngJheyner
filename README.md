@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/suunto-9-peak-oferta-1181512'>¿Tiembla Garmin? Este reloj Suunto es perfecto para runners y tiene 140 euros de descuento</a></h4>
+    <a href='https://computerhoy.com/tecnologia/suunto-9-peak-oferta-1181512' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/suunto-9-peak-2816851.jpg?tf=1200x' alt='¿Tiembla Garmin? Este reloj Suunto es perfecto para runners y tiene 140 euros de descuento' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/bill-gates-4-claves-ganar-confianza-superar-inseguridades-tener-exito-1182182'>Bill Gates las 4 claves para ganar confianza, superar inseguridades y tener éxito</a></h4>
+    <a href='https://computerhoy.com/life/bill-gates-4-claves-ganar-confianza-superar-inseguridades-tener-exito-1182182' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/bill-gates-2829387.jpg?tf=1200x' alt='Bill Gates las 4 claves para ganar confianza, superar inseguridades y tener éxito' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/energia/funcionara-aerogenerador-grande-mundo-capaz-generar-electricidad-40000-hogares-ano-1182154'>Así funcionará el aerogenerador más grande del mundo capaz de generar electricidad para 40.000 hogares al año</a></h4>
+    <a href='https://computerhoy.com/energia/funcionara-aerogenerador-grande-mundo-capaz-generar-electricidad-40000-hogares-ano-1182154' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/funcionara-aerogenerador-grande-mundo-capaz-generar-electricidad-40000-hogares-ano-2924518.jpg?tf=1200x' alt='Así funcionará el aerogenerador más grande del mundo capaz de generar electricidad para 40.000 hogares al año' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/patrocinado/rebajas-invierno-ya-estan-aliexpress-inigualables-1181770'>Las rebajas de invierno ya están en AliExpress ¡inigualables!</a></h4>
     <a href='https://computerhoy.com/patrocinado/rebajas-invierno-ya-estan-aliexpress-inigualables-1181770' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/aliexpress-invierno-2923956.jpg?tf=1200x' alt='Las rebajas de invierno ya están en AliExpress ¡inigualables!' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/life/estos-son-peligros-expones-cuerpo-bebes-mucha-coca-cola-1182118'>Estos son los peligros a los que expones tu cuerpo si bebes mucha Coca-Cola</a></h4>
     <a href='https://computerhoy.com/life/estos-son-peligros-expones-cuerpo-bebes-mucha-coca-cola-1182118' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/estos-son-peligros-expones-cuerpo-consumo-excesivo-coca-cola-2924420.jpg?tf=1200x' alt='Estos son los peligros a los que expones tu cuerpo si bebes mucha Coca-Cola' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/desploma-precio-samsung-galaxy-s22-ya-barato-iphone-1181488'>Se desploma el precio del Samsung Galaxy S22, que ya es más barato que los iPhone SE</a></h4>
-    <a href='https://computerhoy.com/tecnologia/desploma-precio-samsung-galaxy-s22-ya-barato-iphone-1181488' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/samsung-galaxy-s22-analisis-opinion-2741199.jpg?tf=1200x' alt='Se desploma el precio del Samsung Galaxy S22, que ya es más barato que los iPhone SE' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/windows-7-oficialmente-muerto-puedes-hacer-todavia-utilizas-1182116'>Windows 7 esta oficialmente muerto: ¿qué puedes hacer si todavía lo utilizas?</a></h4>
-    <a href='https://computerhoy.com/windows/windows-7-oficialmente-muerto-puedes-hacer-todavia-utilizas-1182116' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/windows-7-2375493.jpg?tf=1200x' alt='Windows 7 esta oficialmente muerto: ¿qué puedes hacer si todavía lo utilizas?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/industria/elon-musk-ha-perdido-tanto-dinero-ya-tiene-propio-record-guinness-1182098'>Elon Musk ha perdido tanto dinero que ya tiene su propio récord Guinness</a></h4>
-    <a href='https://computerhoy.com/industria/elon-musk-ha-perdido-tanto-dinero-ya-tiene-propio-record-guinness-1182098' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/elon-musk-2867409.jpg?tf=1200x' alt='Elon Musk ha perdido tanto dinero que ya tiene su propio récord Guinness' />
     </a>
 </div>
 
