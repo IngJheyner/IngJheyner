@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/android/uso-esim-cambio-movil-android-va-mejorar-1182280'>El uso de eSIM y cambio de móvil en Android va a mejorar</a></h4>
+    <a href='https://computerhoy.com/android/uso-esim-cambio-movil-android-va-mejorar-1182280' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/esim-android-2924838.jpg?tf=1200x' alt='El uso de eSIM y cambio de móvil en Android va a mejorar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/dji-lanza-nuevo-estabilizador-rs-3-mini-ahora-version-compacta-1182206'>DJI lanza un nuevo estabilizador RS 3 Mini, ahora en versión compacta</a></h4>
+    <a href='https://computerhoy.com/tecnologia/dji-lanza-nuevo-estabilizador-rs-3-mini-ahora-version-compacta-1182206' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/dji-rs-3-mini-2924834.jpg?tf=1200x' alt='DJI lanza un nuevo estabilizador RS 3 Mini, ahora en versión compacta' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/google/youtube-lucha-tiktok-compartiran-beneficios-creadores-shorts-1182238'>YouTube y su lucha contra TikTok: compartirán beneficios con los creadores de Shorts</a></h4>
     <a href='https://computerhoy.com/google/youtube-lucha-tiktok-compartiran-beneficios-creadores-shorts-1182238' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/tiktok-youtube-2924724.jpg?tf=1200x' alt='YouTube y su lucha contra TikTok: compartirán beneficios con los creadores de Shorts' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/nueva-ia-microsoft-simula-voz-cualquier-persona-tan-solo-3-segundos-audio-1182176'>La nueva IA de Microsoft simula la voz de cualquier persona con tan solo 3 segundos de audio</a></h4>
     <a href='https://computerhoy.com/tecnologia/nueva-ia-microsoft-simula-voz-cualquier-persona-tan-solo-3-segundos-audio-1182176' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/nueva-ia-microsoft-simula-voz-cualquier-persona-tan-solo-3-segundos-audio-2924656.jpg?tf=1200x' alt='La nueva IA de Microsoft simula la voz de cualquier persona con tan solo 3 segundos de audio' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/suunto-9-peak-oferta-1181512'>¿Tiembla Garmin? Este reloj Suunto es perfecto para runners y tiene 140 euros de descuento</a></h4>
-    <a href='https://computerhoy.com/tecnologia/suunto-9-peak-oferta-1181512' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/suunto-9-peak-2816851.jpg?tf=1200x' alt='¿Tiembla Garmin? Este reloj Suunto es perfecto para runners y tiene 140 euros de descuento' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/bill-gates-4-claves-ganar-confianza-superar-inseguridades-tener-exito-1182182'>Bill Gates da las 4 claves para ganar confianza, superar inseguridades y tener éxito</a></h4>
-    <a href='https://computerhoy.com/life/bill-gates-4-claves-ganar-confianza-superar-inseguridades-tener-exito-1182182' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/bill-gates-2829387.jpg?tf=1200x' alt='Bill Gates da las 4 claves para ganar confianza, superar inseguridades y tener éxito' />
     </a>
 </div>
 
