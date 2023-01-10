@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/foto-sin-sombra-calculo-circunferencia-tierra-hace-2000-anos-eratostenes-1182056'>¿Qué hay de extraño en esta foto? Lo que ves sirvió para calcular la circunferencia de la Tierra, hace 2.200 años</a></h4>
+    <a href='https://computerhoy.com/ciencia/foto-sin-sombra-calculo-circunferencia-tierra-hace-2000-anos-eratostenes-1182056' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/hay-extrano-foto-ves-sirvio-calcular-circunferencia-tierra-hace-2000-anos-2924330.jpg?tf=1200x' alt='¿Qué hay de extraño en esta foto? Lo que ves sirvió para calcular la circunferencia de la Tierra, hace 2.200 años' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/hogar/blok-tabla-cortar-pantalla-incorporada-video-1182054'>Blok, la tabla de cortar con pantalla incorporada (vídeo)</a></h4>
     <a href='https://computerhoy.com/hogar/blok-tabla-cortar-pantalla-incorporada-video-1182054' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/verticalimage1673306329308-2924106.jpg?tf=1200x' alt='Blok, la tabla de cortar con pantalla incorporada (vídeo)' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/puedes-controlar-satelite-sony-hacerle-fotografias-tierra-1181748'>Así puedes controlar el satélite de Sony para hacerle fotografías a la Tierra</a></h4>
     <a href='https://computerhoy.com/tecnologia/puedes-controlar-satelite-sony-hacerle-fotografias-tierra-1181748' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/puedes-controlar-satelite-sony-hacerle-fotografias-tierra-2924070.jpg?tf=1200x' alt='Así puedes controlar el satélite de Sony para hacerle fotografías a la Tierra' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/microsoft-quiere-usar-chatgpt-office-1181762'>Microsoft quiere usar ChatGPT con Office</a></h4>
-    <a href='https://computerhoy.com/tecnologia/microsoft-quiere-usar-chatgpt-office-1181762' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/microsoft-office-2826985.jpg?tf=1200x' alt='Microsoft quiere usar ChatGPT con Office' />
     </a>
 </div>
 
