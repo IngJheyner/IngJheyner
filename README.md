@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/apps-falsas-chatgpt-estafa-malware-1182476'>¡Cuidado! Docenas de apps falsas de ChatGPT circulan por Google Play y la App Store</a></h4>
+    <a href='https://computerhoy.com/apps/apps-falsas-chatgpt-estafa-malware-1182476' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/cuidado-app-store-google-play-estan-inundando-apps-falsas-chatgpt-2925210.jpg?tf=1200x' alt='¡Cuidado! Docenas de apps falsas de ChatGPT circulan por Google Play y la App Store' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/perifericos/adaptador-antena-wifi-6-pc-descuento-oferta-1182468'>Lleva WiFi 6 a cualquier PC con esta antena y adaptador WiFi que solo cuesta 32 euros</a></h4>
     <a href='https://computerhoy.com/perifericos/adaptador-antena-wifi-6-pc-descuento-oferta-1182468' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/lleva-wifi-6-cualquier-pc-antena-adaptador-wifi-solo-cuesta-32-euros-2925164.jpg?tf=1200x' alt='Lleva WiFi 6 a cualquier PC con esta antena y adaptador WiFi que solo cuesta 32 euros' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/apple/comienzo-segregacion-software-iphone-lenta-adopcion-ios-16-1182334'>El comienzo de la segregación de software en iPhone, lenta adopción de iOS 16</a></h4>
     <a href='https://computerhoy.com/apple/comienzo-segregacion-software-iphone-lenta-adopcion-ios-16-1182334' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/ios-16-ultima-version-sistema-operativo-apple-2831713.jpg?tf=1200x' alt='El comienzo de la segregación de software en iPhone, lenta adopción de iOS 16' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/realidad-virtual/meta-anuncia-fin-soporte-gafas-realidad-virtual-oculus-quest-1182380'>Meta anuncia el fin del soporte de sus gafas de realidad virtual Oculus Quest</a></h4>
-    <a href='https://computerhoy.com/realidad-virtual/meta-anuncia-fin-soporte-gafas-realidad-virtual-oculus-quest-1182380' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/05/oculus-quest_2.jpg?tf=1200x' alt='Meta anuncia el fin del soporte de sus gafas de realidad virtual Oculus Quest' />
     </a>
 </div>
 
