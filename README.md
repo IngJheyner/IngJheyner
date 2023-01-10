@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/mejores-ofertas-dias-sin-iva-xiaomi-1181738'>Aprovecha los Días sin IVA de Xiaomi en su tienda con precios propios de liquidación</a></h4>
+    <a href='https://computerhoy.com/tecnologia/mejores-ofertas-dias-sin-iva-xiaomi-1181738' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/ecosistema-xiaomi-2597457.jpg?tf=1200x' alt='Aprovecha los Días sin IVA de Xiaomi en su tienda con precios propios de liquidación' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/24-noticias-tecnologia-comenzar-manana-informado-ultimo-1182062'>24 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
+    <a href='https://computerhoy.com/tecnologia/24-noticias-tecnologia-comenzar-manana-informado-ultimo-1182062' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/24-noticias-tecnologia-comenzar-manana-informado-ultimo-2924348.jpg?tf=1200x' alt='24 noticias de tecnología para comenzar la mañana informado de lo último' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/cosas-deberias-saber-antes-utilizar-inteligencia-artificial-chatgpt-1181732'>Cosas que deberías saber antes de utilizar la inteligencia artificial de ChatGPT</a></h4>
+    <a href='https://computerhoy.com/tecnologia/cosas-deberias-saber-antes-utilizar-inteligencia-artificial-chatgpt-1181732' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/openai-2923906.jpg?tf=1200x' alt='Cosas que deberías saber antes de utilizar la inteligencia artificial de ChatGPT' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/mejores/afeitadoras-electricas-1181508'>Estas son las mejores afeitadoras eléctricas en relación calidad-precio que puedes comprar</a></h4>
+    <a href='https://computerhoy.com/mejores/afeitadoras-electricas-1181508' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/philips-shaver-series-7000-2923914.jpg?tf=1200x' alt='Estas son las mejores afeitadoras eléctricas en relación calidad-precio que puedes comprar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciencia/foto-sin-sombra-calculo-circunferencia-tierra-hace-2000-anos-eratostenes-1182056'>¿Qué hay de extraño en esta foto? Sirvió para calcular la circunferencia de la Tierra, hace 2.200 años</a></h4>
     <a href='https://computerhoy.com/ciencia/foto-sin-sombra-calculo-circunferencia-tierra-hace-2000-anos-eratostenes-1182056' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/hay-extrano-foto-ves-sirvio-calcular-circunferencia-tierra-hace-2000-anos-2924330.jpg?tf=1200x' alt='¿Qué hay de extraño en esta foto? Sirvió para calcular la circunferencia de la Tierra, hace 2.200 años' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/hogar/blok-tabla-cortar-pantalla-incorporada-video-1182054'>Blok, la tabla de cortar con pantalla incorporada (vídeo)</a></h4>
-    <a href='https://computerhoy.com/hogar/blok-tabla-cortar-pantalla-incorporada-video-1182054' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/verticalimage1673306329308-2924106.jpg?tf=1200x' alt='Blok, la tabla de cortar con pantalla incorporada (vídeo)' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/extension-sdk-google-android-13-android-antiguos-1181836'>Google llevará algunas de las nuevas funciones de Android 13 a los Android más antiguos</a></h4>
-    <a href='https://computerhoy.com/google/extension-sdk-google-android-13-android-antiguos-1181836' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/maravillosa-scene-android-hace-posible-samsung-galaxy-s3-note-2-10-anos-reciban-android-13-2825739.jpg?tf=1200x' alt='Google llevará algunas de las nuevas funciones de Android 13 a los Android más antiguos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/hogar/chimenea-electrica-cecotec-bajo-consumo-oferta-150-euros-1181830'>Esta chimenea eléctrica es muy fácil de instalar, calienta, decora, y solo cuesta 150 euros</a></h4>
-    <a href='https://computerhoy.com/hogar/chimenea-electrica-cecotec-bajo-consumo-oferta-150-euros-1181830' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/chimenea-electrica-muy-facil-instalar-calienta-decora-solo-cuesta-150-euros-2924078.jpg?tf=1200x' alt='Esta chimenea eléctrica es muy fácil de instalar, calienta, decora, y solo cuesta 150 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/puedes-controlar-satelite-sony-hacerle-fotografias-tierra-1181748'>Así puedes controlar el satélite de Sony para hacerle fotografías a la Tierra</a></h4>
-    <a href='https://computerhoy.com/tecnologia/puedes-controlar-satelite-sony-hacerle-fotografias-tierra-1181748' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/puedes-controlar-satelite-sony-hacerle-fotografias-tierra-2924070.jpg?tf=1200x' alt='Así puedes controlar el satélite de Sony para hacerle fotografías a la Tierra' />
     </a>
 </div>
 
