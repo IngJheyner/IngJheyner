@@ -50,9 +50,9 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/extension-sdk-google-android-13-android-antiguos-1181836'>Google anuncia que llevará algunas de las nuevas funciones de Android 13 a los Android más antiguos</a></h4>
+    <h4><a href='https://computerhoy.com/google/extension-sdk-google-android-13-android-antiguos-1181836'>Google llevará algunas de las nuevas funciones de Android 13 a los Android más antiguos</a></h4>
     <a href='https://computerhoy.com/google/extension-sdk-google-android-13-android-antiguos-1181836' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/maravillosa-scene-android-hace-posible-samsung-galaxy-s3-note-2-10-anos-reciban-android-13-2825739.jpg?tf=1200x' alt='Google anuncia que llevará algunas de las nuevas funciones de Android 13 a los Android más antiguos' />
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/maravillosa-scene-android-hace-posible-samsung-galaxy-s3-note-2-10-anos-reciban-android-13-2825739.jpg?tf=1200x' alt='Google llevará algunas de las nuevas funciones de Android 13 a los Android más antiguos' />
     </a>
 </div>
 
@@ -82,9 +82,9 @@
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/missing-creadores-searching-pelicula-redes-sociales-1181816'>Si te gustó Searching, la nueva película Missing vuelve a colocar las redes sociales en el punto de mira</a></h4>
+    <h4><a href='https://computerhoy.com/entretenimiento/missing-creadores-searching-pelicula-redes-sociales-1181816'>Si te gustó Searching, la nueva película Missing vuelve a colocar a las redes sociales en el punto de mira</a></h4>
     <a href='https://computerhoy.com/entretenimiento/missing-creadores-searching-pelicula-redes-sociales-1181816' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/verticalimage1673292265446-2924044.jpg?tf=1200x' alt='Si te gustó Searching, la nueva película Missing vuelve a colocar las redes sociales en el punto de mira' />
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/verticalimage1673292265446-2924044.jpg?tf=1200x' alt='Si te gustó Searching, la nueva película Missing vuelve a colocar a las redes sociales en el punto de mira' />
     </a>
 </div>
 
