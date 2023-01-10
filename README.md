@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/gaming/estos-son-motivos-cuales-voy-seguir-jugando-ps5-vertical-1182358'>Estos son los motivos por los cuales voy a seguir jugando con la PS5 en vertical</a></h4>
+    <a href='https://computerhoy.com/gaming/estos-son-motivos-cuales-voy-seguir-jugando-ps5-vertical-1182358' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/ps5-2922398.jpg?tf=1200x' alt='Estos son los motivos por los cuales voy a seguir jugando con la PS5 en vertical' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/android/uso-esim-cambio-movil-android-va-mejorar-1182280'>El uso de eSIM y cambio de móvil en Android va a mejorar</a></h4>
     <a href='https://computerhoy.com/android/uso-esim-cambio-movil-android-va-mejorar-1182280' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/esim-android-2924838.jpg?tf=1200x' alt='El uso de eSIM y cambio de móvil en Android va a mejorar' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/energia/europa-eeuu-no-quieren-perder-nueva-batalla-hidrogeno-china-lleva-ventaja-1182218'>Europa y EE.UU. no quieren perder la nueva batalla por el hidrógeno en la que China lleva ventaja</a></h4>
     <a href='https://computerhoy.com/energia/europa-eeuu-no-quieren-perder-nueva-batalla-hidrogeno-china-lleva-ventaja-1182218' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/europa-no-quiere-repetir-hidrogeno-mismos-errores-energia-solar-2924736.jpg?tf=1200x' alt='Europa y EE.UU. no quieren perder la nueva batalla por el hidrógeno en la que China lleva ventaja' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/nueva-ia-microsoft-simula-voz-cualquier-persona-tan-solo-3-segundos-audio-1182176'>La nueva IA de Microsoft simula la voz de cualquier persona con tan solo 3 segundos de audio</a></h4>
-    <a href='https://computerhoy.com/tecnologia/nueva-ia-microsoft-simula-voz-cualquier-persona-tan-solo-3-segundos-audio-1182176' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/nueva-ia-microsoft-simula-voz-cualquier-persona-tan-solo-3-segundos-audio-2924656.jpg?tf=1200x' alt='La nueva IA de Microsoft simula la voz de cualquier persona con tan solo 3 segundos de audio' />
     </a>
 </div>
 
