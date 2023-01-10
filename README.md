@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/espacio/nasa-encuentra-opalo-marte-podria-servir-como-fuente-agua-futuros-astronautas-1182378'>La NASA encuentra un ópalo en Marte que podría servir como fuente de agua para futuros astronautas</a></h4>
+    <a href='https://computerhoy.com/espacio/nasa-encuentra-opalo-marte-podria-servir-como-fuente-agua-futuros-astronautas-1182378' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/curiosity-rover-marte-nasa-2300987.jpg?tf=1200x' alt='La NASA encuentra un ópalo en Marte que podría servir como fuente de agua para futuros astronautas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/espacio/nave-juno-nasa-prepara-nuevo-acercamiento-jupiter-ya-van-47-1182360'>La nave Juno de la NASA prepara un nuevo acercamiento a Júpiter (y ya van 47)</a></h4>
     <a href='https://computerhoy.com/espacio/nave-juno-nasa-prepara-nuevo-acercamiento-jupiter-ya-van-47-1182360' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/delfin-jupiter-tamano-tierra-puedes-verlo-2219539.jpg?tf=1200x' alt='La nave Juno de la NASA prepara un nuevo acercamiento a Júpiter (y ya van 47)' />
@@ -66,25 +74,17 @@
 
 
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/guia-compra/android-tv-box-880523'>Consejos y guía para comprar un Android TV Box en 2023 y convertir tu televisor en un Smart TV</a></h4>
+    <a href='https://computerhoy.com/guia-compra/android-tv-box-880523' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/salon-smart-tv-reproduciendo-netflix-2845349.jpg?tf=1200x' alt='Consejos y guía para comprar un Android TV Box en 2023 y convertir tu televisor en un Smart TV' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/android/uso-esim-cambio-movil-android-va-mejorar-1182280'>El uso de eSIM y cambio de móvil en Android va a mejorar</a></h4>
     <a href='https://computerhoy.com/android/uso-esim-cambio-movil-android-va-mejorar-1182280' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/esim-android-2924838.jpg?tf=1200x' alt='El uso de eSIM y cambio de móvil en Android va a mejorar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/dji-lanza-nuevo-estabilizador-rs-3-mini-ahora-version-compacta-1182206'>DJI lanza un nuevo estabilizador RS 3 Mini, ahora en versión compacta</a></h4>
-    <a href='https://computerhoy.com/tecnologia/dji-lanza-nuevo-estabilizador-rs-3-mini-ahora-version-compacta-1182206' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/dji-rs-3-mini-2924834.jpg?tf=1200x' alt='DJI lanza un nuevo estabilizador RS 3 Mini, ahora en versión compacta' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/youtube-lucha-tiktok-compartiran-beneficios-creadores-shorts-1182238'>YouTube y su lucha contra TikTok: compartirán beneficios con los creadores de Shorts</a></h4>
-    <a href='https://computerhoy.com/google/youtube-lucha-tiktok-compartiran-beneficios-creadores-shorts-1182238' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/tiktok-youtube-2924724.jpg?tf=1200x' alt='YouTube y su lucha contra TikTok: compartirán beneficios con los creadores de Shorts' />
     </a>
 </div>
 
