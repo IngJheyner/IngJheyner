@@ -50,9 +50,9 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/foto-sin-sombra-calculo-circunferencia-tierra-hace-2000-anos-eratostenes-1182056'>¿Qué hay de extraño en esta foto? Lo que ves sirvió para calcular la circunferencia de la Tierra, hace 2.200 años</a></h4>
+    <h4><a href='https://computerhoy.com/ciencia/foto-sin-sombra-calculo-circunferencia-tierra-hace-2000-anos-eratostenes-1182056'>¿Qué hay de extraño en esta foto? Sirvió para calcular la circunferencia de la Tierra, hace 2.200 años</a></h4>
     <a href='https://computerhoy.com/ciencia/foto-sin-sombra-calculo-circunferencia-tierra-hace-2000-anos-eratostenes-1182056' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/hay-extrano-foto-ves-sirvio-calcular-circunferencia-tierra-hace-2000-anos-2924330.jpg?tf=1200x' alt='¿Qué hay de extraño en esta foto? Lo que ves sirvió para calcular la circunferencia de la Tierra, hace 2.200 años' />
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/hay-extrano-foto-ves-sirvio-calcular-circunferencia-tierra-hace-2000-anos-2924330.jpg?tf=1200x' alt='¿Qué hay de extraño en esta foto? Sirvió para calcular la circunferencia de la Tierra, hace 2.200 años' />
     </a>
 </div>
 
