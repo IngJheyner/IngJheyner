@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/industria/elon-musk-ha-perdido-tanto-dinero-ya-tiene-propio-record-guinness-1182098'>Elon Musk ha perdido tanto dinero que ya tiene su propio récord Guinness</a></h4>
+    <a href='https://computerhoy.com/industria/elon-musk-ha-perdido-tanto-dinero-ya-tiene-propio-record-guinness-1182098' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/elon-musk-2867409.jpg?tf=1200x' alt='Elon Musk ha perdido tanto dinero que ya tiene su propio récord Guinness' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-reenviar-correos-gmail-otras-cuentas-forma-automatica-1182090'>Este sencillo truco te permitirá reenviar correos de Gmail a otras cuentas de forma automática</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-reenviar-correos-gmail-otras-cuentas-forma-automatica-1182090' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/gmail-2912356.jpg?tf=1200x' alt='Este sencillo truco te permitirá reenviar correos de Gmail a otras cuentas de forma automática' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/mejores-ofertas-dias-sin-iva-xiaomi-1181738'>Aprovecha los Días sin IVA de Xiaomi en su tienda con precios propios de liquidación</a></h4>
     <a href='https://computerhoy.com/tecnologia/mejores-ofertas-dias-sin-iva-xiaomi-1181738' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/ecosistema-xiaomi-2597457.jpg?tf=1200x' alt='Aprovecha los Días sin IVA de Xiaomi en su tienda con precios propios de liquidación' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/cosas-deberias-saber-antes-utilizar-inteligencia-artificial-chatgpt-1181732'>Cosas que deberías saber antes de utilizar la inteligencia artificial de ChatGPT</a></h4>
     <a href='https://computerhoy.com/tecnologia/cosas-deberias-saber-antes-utilizar-inteligencia-artificial-chatgpt-1181732' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/openai-2923906.jpg?tf=1200x' alt='Cosas que deberías saber antes de utilizar la inteligencia artificial de ChatGPT' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/mejores/afeitadoras-electricas-1181508'>Estas son las mejores afeitadoras eléctricas en relación calidad-precio que puedes comprar</a></h4>
-    <a href='https://computerhoy.com/mejores/afeitadoras-electricas-1181508' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/philips-shaver-series-7000-2923914.jpg?tf=1200x' alt='Estas son las mejores afeitadoras eléctricas en relación calidad-precio que puedes comprar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/foto-sin-sombra-calculo-circunferencia-tierra-hace-2000-anos-eratostenes-1182056'>¿Qué hay de extraño en esta foto? Sirvió para calcular la circunferencia de la Tierra, hace 2.200 años</a></h4>
-    <a href='https://computerhoy.com/ciencia/foto-sin-sombra-calculo-circunferencia-tierra-hace-2000-anos-eratostenes-1182056' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/hay-extrano-foto-ves-sirvio-calcular-circunferencia-tierra-hace-2000-anos-2924330.jpg?tf=1200x' alt='¿Qué hay de extraño en esta foto? Sirvió para calcular la circunferencia de la Tierra, hace 2.200 años' />
     </a>
 </div>
 
