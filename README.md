@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/nueva-ia-microsoft-simula-voz-cualquier-persona-tan-solo-3-segundos-audio-1182176'>La nueva IA de Microsoft simula la voz de cualquier persona con tan solo 3 segundos de audio</a></h4>
+    <a href='https://computerhoy.com/tecnologia/nueva-ia-microsoft-simula-voz-cualquier-persona-tan-solo-3-segundos-audio-1182176' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/nueva-ia-microsoft-simula-voz-cualquier-persona-tan-solo-3-segundos-audio-2924656.jpg?tf=1200x' alt='La nueva IA de Microsoft simula la voz de cualquier persona con tan solo 3 segundos de audio' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/suunto-9-peak-oferta-1181512'>¿Tiembla Garmin? Este reloj Suunto es perfecto para runners y tiene 140 euros de descuento</a></h4>
     <a href='https://computerhoy.com/tecnologia/suunto-9-peak-oferta-1181512' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/suunto-9-peak-2816851.jpg?tf=1200x' alt='¿Tiembla Garmin? Este reloj Suunto es perfecto para runners y tiene 140 euros de descuento' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/patrocinado/rebajas-invierno-ya-estan-aliexpress-inigualables-1181770'>Las rebajas de invierno ya están en AliExpress ¡inigualables!</a></h4>
     <a href='https://computerhoy.com/patrocinado/rebajas-invierno-ya-estan-aliexpress-inigualables-1181770' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/aliexpress-invierno-2923956.jpg?tf=1200x' alt='Las rebajas de invierno ya están en AliExpress ¡inigualables!' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/estos-son-peligros-expones-cuerpo-bebes-mucha-coca-cola-1182118'>Estos son los peligros a los que expones tu cuerpo si bebes mucha Coca-Cola</a></h4>
-    <a href='https://computerhoy.com/life/estos-son-peligros-expones-cuerpo-bebes-mucha-coca-cola-1182118' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/estos-son-peligros-expones-cuerpo-consumo-excesivo-coca-cola-2924420.jpg?tf=1200x' alt='Estos son los peligros a los que expones tu cuerpo si bebes mucha Coca-Cola' />
     </a>
 </div>
 
