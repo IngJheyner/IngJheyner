@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/perifericos/adaptador-antena-wifi-6-pc-descuento-oferta-1182468'>Lleva WiFi 6 a cualquier PC con esta antena y adaptador WiFi que solo cuesta 32 euros</a></h4>
+    <a href='https://computerhoy.com/perifericos/adaptador-antena-wifi-6-pc-descuento-oferta-1182468' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/lleva-wifi-6-cualquier-pc-antena-adaptador-wifi-solo-cuesta-32-euros-2925164.jpg?tf=1200x' alt='Lleva WiFi 6 a cualquier PC con esta antena y adaptador WiFi que solo cuesta 32 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/entretenimiento/skyshowtime-estreno-espana-febrero-paramount-plus-universal-1182460'>Llega a España SkyShowtime, la plataforma de streaming de Paramount+ y Universal</a></h4>
     <a href='https://computerhoy.com/entretenimiento/skyshowtime-estreno-espana-febrero-paramount-plus-universal-1182460' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/llega-espana-skyshowtime-plataforma-streaming-paramount-universal-2925134.jpg?tf=1200x' alt='Llega a España SkyShowtime, la plataforma de streaming de Paramount+ y Universal' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/realidad-virtual/meta-anuncia-fin-soporte-gafas-realidad-virtual-oculus-quest-1182380'>Meta anuncia el fin del soporte de sus gafas de realidad virtual Oculus Quest</a></h4>
     <a href='https://computerhoy.com/realidad-virtual/meta-anuncia-fin-soporte-gafas-realidad-virtual-oculus-quest-1182380' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/05/oculus-quest_2.jpg?tf=1200x' alt='Meta anuncia el fin del soporte de sus gafas de realidad virtual Oculus Quest' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/dos-preguntas-podrian-darte-trabajo-toda-vida-amazon-1182454'>Las dos preguntas que podrían darte un trabajo para toda la vida en Amazon</a></h4>
-    <a href='https://computerhoy.com/life/dos-preguntas-podrian-darte-trabajo-toda-vida-amazon-1182454' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/jeff-bezos-2925146.jpg?tf=1200x' alt='Las dos preguntas que podrían darte un trabajo para toda la vida en Amazon' />
     </a>
 </div>
 
