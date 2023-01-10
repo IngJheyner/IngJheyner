@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/espacio/nave-juno-nasa-prepara-nuevo-acercamiento-jupiter-ya-van-47-1182360'>La nave Juno de la NASA prepara un nuevo acercamiento a Júpiter (y ya van 47)</a></h4>
+    <a href='https://computerhoy.com/espacio/nave-juno-nasa-prepara-nuevo-acercamiento-jupiter-ya-van-47-1182360' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/delfin-jupiter-tamano-tierra-puedes-verlo-2219539.jpg?tf=1200x' alt='La nave Juno de la NASA prepara un nuevo acercamiento a Júpiter (y ya van 47)' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/gaming/estos-son-motivos-cuales-voy-seguir-jugando-ps5-vertical-1182358'>Estos son los motivos por los cuales voy a seguir jugando con la PS5 en vertical</a></h4>
     <a href='https://computerhoy.com/gaming/estos-son-motivos-cuales-voy-seguir-jugando-ps5-vertical-1182358' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/ps5-2922398.jpg?tf=1200x' alt='Estos son los motivos por los cuales voy a seguir jugando con la PS5 en vertical' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/google/youtube-lucha-tiktok-compartiran-beneficios-creadores-shorts-1182238'>YouTube y su lucha contra TikTok: compartirán beneficios con los creadores de Shorts</a></h4>
     <a href='https://computerhoy.com/google/youtube-lucha-tiktok-compartiran-beneficios-creadores-shorts-1182238' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/tiktok-youtube-2924724.jpg?tf=1200x' alt='YouTube y su lucha contra TikTok: compartirán beneficios con los creadores de Shorts' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/energia/europa-eeuu-no-quieren-perder-nueva-batalla-hidrogeno-china-lleva-ventaja-1182218'>Europa y EE.UU. no quieren perder la nueva batalla por el hidrógeno en la que China lleva ventaja</a></h4>
-    <a href='https://computerhoy.com/energia/europa-eeuu-no-quieren-perder-nueva-batalla-hidrogeno-china-lleva-ventaja-1182218' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/europa-no-quiere-repetir-hidrogeno-mismos-errores-energia-solar-2924736.jpg?tf=1200x' alt='Europa y EE.UU. no quieren perder la nueva batalla por el hidrógeno en la que China lleva ventaja' />
     </a>
 </div>
 
