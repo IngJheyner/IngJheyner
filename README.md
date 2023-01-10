@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/dos-preguntas-podrian-darte-trabajo-toda-vida-amazon-1182454'>Las dos preguntas que podrían darte un trabajo para toda la vida en Amazon</a></h4>
+    <a href='https://computerhoy.com/life/dos-preguntas-podrian-darte-trabajo-toda-vida-amazon-1182454' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/jeff-bezos-2925146.jpg?tf=1200x' alt='Las dos preguntas que podrían darte un trabajo para toda la vida en Amazon' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/espacio/puedes-ver-cometa-verde-no-volvera-pasar-cerca-tierra-dentro-50000-anos-1182450'>Así puedes ver el cometa verde que no volverá a pasar cerca de la Tierra hasta dentro de 50.000 años</a></h4>
+    <a href='https://computerhoy.com/espacio/puedes-ver-cometa-verde-no-volvera-pasar-cerca-tierra-dentro-50000-anos-1182450' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/cometa-c-2022-e3-2925144.jpg?tf=1200x' alt='Así puedes ver el cometa verde que no volverá a pasar cerca de la Tierra hasta dentro de 50.000 años' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/google/fin-vas-poder-abrir-varias-ventanas-mismo-tiempo-chrome-moviles-1182442'>Al fin vas a poder abrir varias ventanas al mismo tiempo en Chrome para móviles</a></h4>
     <a href='https://computerhoy.com/google/fin-vas-poder-abrir-varias-ventanas-mismo-tiempo-chrome-moviles-1182442' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/google-chrome-2842861.jpg?tf=1200x' alt='Al fin vas a poder abrir varias ventanas al mismo tiempo en Chrome para móviles' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/internet/trustpid-supercookie-vodafone-movistar-orange-no-podras-rechazar-1182408'>TrustPid: así es la supercookie de Vodafone, Movistar y Orange que no podrás rechazar</a></h4>
     <a href='https://computerhoy.com/internet/trustpid-supercookie-vodafone-movistar-orange-no-podras-rechazar-1182408' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/datos-first-party-como-webs-recopilaran-datos-cuando-desaparezcan-cookies-2022-2382493.jpg?tf=1200x' alt='TrustPid: así es la supercookie de Vodafone, Movistar y Orange que no podrás rechazar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/monedas-antiguas-billete-100-pesetas-vale-1500-euros-1182420'>¿Tienes monedas antiguas en casa? Hay un billete de 100 pesetas que hoy vale 1.500 euros</a></h4>
-    <a href='https://computerhoy.com/life/monedas-antiguas-billete-100-pesetas-vale-1500-euros-1182420' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/tienes-monedas-antiguas-casa-billete-100-pesetas-vale-1500-euros-2924952.jpg?tf=1200x' alt='¿Tienes monedas antiguas en casa? Hay un billete de 100 pesetas que hoy vale 1.500 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/nasa-encuentra-opalo-marte-podria-servir-como-fuente-agua-futuros-astronautas-1182378'>La NASA encuentra un ópalo en Marte que podría servir como fuente de agua para futuros astronautas</a></h4>
-    <a href='https://computerhoy.com/espacio/nasa-encuentra-opalo-marte-podria-servir-como-fuente-agua-futuros-astronautas-1182378' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/curiosity-rover-marte-nasa-2300987.jpg?tf=1200x' alt='La NASA encuentra un ópalo en Marte que podría servir como fuente de agua para futuros astronautas' />
     </a>
 </div>
 
