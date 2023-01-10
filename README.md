@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/google/fin-vas-poder-abrir-varias-ventanas-mismo-tiempo-chrome-moviles-1182442'>Al fin vas a poder abrir varias ventanas al mismo tiempo en Chrome para móviles</a></h4>
+    <a href='https://computerhoy.com/google/fin-vas-poder-abrir-varias-ventanas-mismo-tiempo-chrome-moviles-1182442' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/google-chrome-2842861.jpg?tf=1200x' alt='Al fin vas a poder abrir varias ventanas al mismo tiempo en Chrome para móviles' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/redes-sociales/instagram-quiere-volver-raices-elimina-apartados-odiados-1182426'>Instagram quiere volver a sus raíces y elimina uno de sus apartados más odiados</a></h4>
+    <a href='https://computerhoy.com/redes-sociales/instagram-quiere-volver-raices-elimina-apartados-odiados-1182426' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/instagram-stories-2507043.jpg?tf=1200x' alt='Instagram quiere volver a sus raíces y elimina uno de sus apartados más odiados' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/internet/trustpid-supercookie-vodafone-movistar-orange-no-podras-rechazar-1182408'>TrustPid: así es la supercookie de Vodafone, Movistar y Orange que no podrás rechazar</a></h4>
+    <a href='https://computerhoy.com/internet/trustpid-supercookie-vodafone-movistar-orange-no-podras-rechazar-1182408' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/datos-first-party-como-webs-recopilaran-datos-cuando-desaparezcan-cookies-2022-2382493.jpg?tf=1200x' alt='TrustPid: así es la supercookie de Vodafone, Movistar y Orange que no podrás rechazar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/monedas-antiguas-billete-100-pesetas-vale-1500-euros-1182420'>¿Tienes monedas antiguas en casa? Hay un billete de 100 pesetas que hoy vale 1.500 euros</a></h4>
+    <a href='https://computerhoy.com/life/monedas-antiguas-billete-100-pesetas-vale-1500-euros-1182420' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/tienes-monedas-antiguas-casa-billete-100-pesetas-vale-1500-euros-2924952.jpg?tf=1200x' alt='¿Tienes monedas antiguas en casa? Hay un billete de 100 pesetas que hoy vale 1.500 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/espacio/nasa-encuentra-opalo-marte-podria-servir-como-fuente-agua-futuros-astronautas-1182378'>La NASA encuentra un ópalo en Marte que podría servir como fuente de agua para futuros astronautas</a></h4>
     <a href='https://computerhoy.com/espacio/nasa-encuentra-opalo-marte-podria-servir-como-fuente-agua-futuros-astronautas-1182378' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/curiosity-rover-marte-nasa-2300987.jpg?tf=1200x' alt='La NASA encuentra un ópalo en Marte que podría servir como fuente de agua para futuros astronautas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/nave-juno-nasa-prepara-nuevo-acercamiento-jupiter-ya-van-47-1182360'>La nave Juno de la NASA prepara un nuevo acercamiento a Júpiter (y ya van 47)</a></h4>
-    <a href='https://computerhoy.com/espacio/nave-juno-nasa-prepara-nuevo-acercamiento-jupiter-ya-van-47-1182360' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/delfin-jupiter-tamano-tierra-puedes-verlo-2219539.jpg?tf=1200x' alt='La nave Juno de la NASA prepara un nuevo acercamiento a Júpiter (y ya van 47)' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/gaming/estos-son-motivos-cuales-voy-seguir-jugando-ps5-vertical-1182358'>Estos son los motivos por los cuales voy a seguir jugando con la PS5 en vertical</a></h4>
-    <a href='https://computerhoy.com/gaming/estos-son-motivos-cuales-voy-seguir-jugando-ps5-vertical-1182358' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/ps5-2922398.jpg?tf=1200x' alt='Estos son los motivos por los cuales voy a seguir jugando con la PS5 en vertical' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/guia-compra/android-tv-box-880523'>Consejos y guía para comprar un Android TV Box en 2023 y convertir tu televisor en un Smart TV</a></h4>
-    <a href='https://computerhoy.com/guia-compra/android-tv-box-880523' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/salon-smart-tv-reproduciendo-netflix-2845349.jpg?tf=1200x' alt='Consejos y guía para comprar un Android TV Box en 2023 y convertir tu televisor en un Smart TV' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/android/uso-esim-cambio-movil-android-va-mejorar-1182280'>El uso de eSIM y cambio de móvil en Android va a mejorar</a></h4>
-    <a href='https://computerhoy.com/android/uso-esim-cambio-movil-android-va-mejorar-1182280' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/esim-android-2924838.jpg?tf=1200x' alt='El uso de eSIM y cambio de móvil en Android va a mejorar' />
     </a>
 </div>
 
