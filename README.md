@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/hogar/valetudo-firmware-libre-evita-robot-aspiradora-comparta-casa-internet-1182366'>Valetudo es el firmware libre que evita que tu robot aspiradora comparta tu casa en Internet</a></h4>
+    <a href='https://computerhoy.com/hogar/valetudo-firmware-libre-evita-robot-aspiradora-comparta-casa-internet-1182366' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/robot-aspirador-rowenta-2593913.jpg?tf=1200x' alt='Valetudo es el firmware libre que evita que tu robot aspiradora comparta tu casa en Internet' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/life/alternativas-baratas-secador-dyson-1016631'>5 alternativas baratas al secador de pelo Dyson que también merecen la pena</a></h4>
     <a href='https://computerhoy.com/reportajes/life/alternativas-baratas-secador-dyson-1016631' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/secador-pelo-philips-drycare-prestige-2924594.jpg?tf=1200x' alt='5 alternativas baratas al secador de pelo Dyson que también merecen la pena' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-realme-comprar-ofertas-838791'>Estos son los mejores móviles realme para comprar este año</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-realme-comprar-ofertas-838791' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/realme-gt-neo-3-analisis-opinion-2725597.jpg?tf=1200x' alt='Estos son los mejores móviles realme para comprar este año' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/cataratas-chocolate-grand-falls-arizona-video-1182704'>Qué son las Cataratas de Chocolate, únicas en el mundo (vídeo)</a></h4>
-    <a href='https://computerhoy.com/life/cataratas-chocolate-grand-falls-arizona-video-1182704' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/verticalimage1673403674819-2925440.jpg?tf=1200x' alt='Qué son las Cataratas de Chocolate, únicas en el mundo (vídeo)' />
     </a>
 </div>
 
