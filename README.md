@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/salas-cine-estan-muriendo-auge-streaming-pero-estas-tecnologias-podrian-evitarlo-1182886'>Las salas de cine están muriendo por el auge del streaming pero estas tecnologías podrían evitarlo</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/salas-cine-estan-muriendo-auge-streaming-pero-estas-tecnologias-podrian-evitarlo-1182886' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/salas-cine-estan-muriendo-auge-streaming-pero-estas-tecnologias-podrian-evitarlo-2925854.jpg?tf=1200x' alt='Las salas de cine están muriendo por el auge del streaming pero estas tecnologías podrían evitarlo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/redes-sociales/coins-moneda-twitter-pagar-creadores-1182930'>Así es Coins, la moneda de Twitter para pagar a los creadores</a></h4>
     <a href='https://computerhoy.com/redes-sociales/coins-moneda-twitter-pagar-creadores-1182930' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/twitter-coin-2925880.jpg?tf=1200x' alt='Así es Coins, la moneda de Twitter para pagar a los creadores' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/gaming/gpu-amd-2021-han-empezado-morirse-misteriosamente-1182806'>Las GPU de AMD de 2021 han empezado a morirse misteriosamente</a></h4>
     <a href='https://computerhoy.com/gaming/gpu-amd-2021-han-empezado-morirse-misteriosamente-1182806' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/amd-rx-6000-2925638.jpg?tf=1200x' alt='Las GPU de AMD de 2021 han empezado a morirse misteriosamente' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/martes-actualizaciones-windows-trae-grandes-novedades-windows-10-windows-11-1182800'>El martes de actualizaciones de Windows trae grandes novedades para Windows 10 y Windows 11 </a></h4>
-    <a href='https://computerhoy.com/windows/martes-actualizaciones-windows-trae-grandes-novedades-windows-10-windows-11-1182800' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/martes-actualizaciones-windows-trae-grandes-novedades-windows-10-windows-11-2925636.jpg?tf=1200x' alt='El martes de actualizaciones de Windows trae grandes novedades para Windows 10 y Windows 11 ' />
     </a>
 </div>
 
