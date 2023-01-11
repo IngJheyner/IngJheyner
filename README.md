@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/donde-ver-series-ganadoras-globo-oro-2023-1183084'>Dónde ver las series ganadoras de los Globo de Oro 2023, ya están todas en streaming</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/donde-ver-series-ganadoras-globo-oro-2023-1183084' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/donde-ver-series-ganadoras-globo-oro-2023-ya-estan-todas-streaming-2926170.jpg?tf=1200x' alt='Dónde ver las series ganadoras de los Globo de Oro 2023, ya están todas en streaming' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciencia/menor-consumo-mayor-duracion-alimentos-invento-mit-neveras-1183004'>Menor consumo y mayor duración de los alimentos: así es el invento del MIT para las neveras</a></h4>
     <a href='https://computerhoy.com/ciencia/menor-consumo-mayor-duracion-alimentos-invento-mit-neveras-1183004' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/nevera-2926168.jpg?tf=1200x' alt='Menor consumo y mayor duración de los alimentos: así es el invento del MIT para las neveras' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/apple/mercado-segunda-mano-moviles-explota-gran-beneficiada-va-ser-apple-1183010'>El mercado de segunda mano de móviles explota y la gran beneficiada va a ser... Apple</a></h4>
     <a href='https://computerhoy.com/apple/mercado-segunda-mano-moviles-explota-gran-beneficiada-va-ser-apple-1183010' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/apple-2926158.jpg?tf=1200x' alt='El mercado de segunda mano de móviles explota y la gran beneficiada va a ser... Apple' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-auriculares-jbl-puedes-comprar-1023625'>Auriculares JBL: estos son los mejores que puedes comprar</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-auriculares-jbl-puedes-comprar-1023625' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/hombre-escuchando-musica-auriculares-inalambricos-jbl-tune-760nc-2925716.jpg?tf=1200x' alt='Auriculares JBL: estos son los mejores que puedes comprar' />
     </a>
 </div>
 
