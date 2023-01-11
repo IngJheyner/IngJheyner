@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/cataratas-chocolate-grand-falls-arizona-video-1182704'>Qué son las Cataratas de Chocolate, únicas en el mundo (vídeo)</a></h4>
+    <a href='https://computerhoy.com/life/cataratas-chocolate-grand-falls-arizona-video-1182704' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/verticalimage1673403674819-2925440.jpg?tf=1200x' alt='Qué son las Cataratas de Chocolate, únicas en el mundo (vídeo)' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/espacio/primera-puesta-orbita-cohete-satelites-reino-unido-virgin-orbit-fracaso-1182702'>Por qué la primera puesta en órbita de un cohete desde el Reino Unido, ha sido un fracaso</a></h4>
     <a href='https://computerhoy.com/espacio/primera-puesta-orbita-cohete-satelites-reino-unido-virgin-orbit-fracaso-1182702' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/primera-puesta-orbita-cohete-reino-unido-ha-sido-fracaso-2925218.jpg?tf=1200x' alt='Por qué la primera puesta en órbita de un cohete desde el Reino Unido, ha sido un fracaso' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/entretenimiento/skyshowtime-estreno-espana-febrero-paramount-plus-universal-1182460'>Llega a España SkyShowtime, la plataforma de streaming de Paramount+ y Universal</a></h4>
     <a href='https://computerhoy.com/entretenimiento/skyshowtime-estreno-espana-febrero-paramount-plus-universal-1182460' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/llega-espana-skyshowtime-plataforma-streaming-paramount-universal-2925134.jpg?tf=1200x' alt='Llega a España SkyShowtime, la plataforma de streaming de Paramount+ y Universal' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/streaming/puedes-ver-lista-iptv-completa-7500-canales-gratis-legales-todo-mundo-1182456'>Así puedes ver la lista IPTV más completa: más de 7500 canales gratis y legales de todo el mundo</a></h4>
-    <a href='https://computerhoy.com/streaming/puedes-ver-lista-iptv-completa-7500-canales-gratis-legales-todo-mundo-1182456' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/iptv-2925158.jpg?tf=1200x' alt='Así puedes ver la lista IPTV más completa: más de 7500 canales gratis y legales de todo el mundo' />
     </a>
 </div>
 
