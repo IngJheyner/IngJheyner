@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/gaming/gpu-amd-2021-han-empezado-morirse-misteriosamente-1182806'>Las GPU de AMD de 2021 han empezado a morirse misteriosamente</a></h4>
+    <a href='https://computerhoy.com/gaming/gpu-amd-2021-han-empezado-morirse-misteriosamente-1182806' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/amd-rx-6000-2925638.jpg?tf=1200x' alt='Las GPU de AMD de 2021 han empezado a morirse misteriosamente' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/windows/martes-actualizaciones-windows-trae-grandes-novedades-windows-10-windows-11-1182800'>El martes de actualizaciones de Windows trae grandes novedades para Windows 10 y Windows 11 </a></h4>
+    <a href='https://computerhoy.com/windows/martes-actualizaciones-windows-trae-grandes-novedades-windows-10-windows-11-1182800' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/martes-actualizaciones-windows-trae-grandes-novedades-windows-10-windows-11-2925636.jpg?tf=1200x' alt='El martes de actualizaciones de Windows trae grandes novedades para Windows 10 y Windows 11 ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tutoriales/como-evitar-fondo-cambie-automaticamente-windows-11-1167416'>Cómo evitar que el fondo cambie automáticamente en Windows 11</a></h4>
     <a href='https://computerhoy.com/tutoriales/como-evitar-fondo-cambie-automaticamente-windows-11-1167416' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/colores-fonde-windows-11-2896476.jpg?tf=1200x' alt='Cómo evitar que el fondo cambie automáticamente en Windows 11' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/redes-sociales/twitter-introduce-cambios-ahora-utilizara-defecto-pagina-ti-igual-hace-tiktok-1182766'>Twitter introduce más cambios y ahora utilizará por defecto la página "Para ti" al igual que hace TikTok</a></h4>
     <a href='https://computerhoy.com/redes-sociales/twitter-introduce-cambios-ahora-utilizara-defecto-pagina-ti-igual-hace-tiktok-1182766' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/twitter-ahora-utilizara-defecto-pagina-ti-igual-hace-tiktok-2925548.jpg?tf=1200x' alt='Twitter introduce más cambios y ahora utilizará por defecto la página "Para ti" al igual que hace TikTok' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/amazfit-gts-3-apple-watch-barato-1181628'>No es el Apple Watch, pero este reloj se le parece y cuesta muchísimo menos</a></h4>
-    <a href='https://computerhoy.com/tecnologia/amazfit-gts-3-apple-watch-barato-1181628' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/amazfit-gts-3-2923690.jpg?tf=1200x' alt='No es el Apple Watch, pero este reloj se le parece y cuesta muchísimo menos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/microsoft-punto-hacer-pago-funciones-gratuitas-teams-1182744'>Microsoft esta a punto de hacer de pago funciones gratuitas de Teams</a></h4>
-    <a href='https://computerhoy.com/windows/microsoft-punto-hacer-pago-funciones-gratuitas-teams-1182744' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/microsoft-teams-2925540.jpg?tf=1200x' alt='Microsoft esta a punto de hacer de pago funciones gratuitas de Teams' />
     </a>
 </div>
 
