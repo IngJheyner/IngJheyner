@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/chips-todo-pantallas-fabricadas-ellos-apple-quiere-deshacerse-socios-1182840'>Chips todo en uno y pantallas fabricadas por ellos: Apple quiere deshacerse de sus socios</a></h4>
+    <a href='https://computerhoy.com/apple/chips-todo-pantallas-fabricadas-ellos-apple-quiere-deshacerse-socios-1182840' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/iphone-14-2903090.jpg?tf=1200x' alt='Chips todo en uno y pantallas fabricadas por ellos: Apple quiere deshacerse de sus socios' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/deteccion-colisiones-iphone-vez-tela-juicio-ahora-falla-deportes-nieve-1182824'>La detección de colisiones del iPhone una vez más en tela de juicio: ahora falla con los deportes de nieve</a></h4>
+    <a href='https://computerhoy.com/apple/deteccion-colisiones-iphone-vez-tela-juicio-ahora-falla-deportes-nieve-1182824' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/deteccion-colisiones-iphone-vuelve-fallar-ahora-culpa-deportes-nieve-2925734.jpg?tf=1200x' alt='La detección de colisiones del iPhone una vez más en tela de juicio: ahora falla con los deportes de nieve' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/gaming/gpu-amd-2021-han-empezado-morirse-misteriosamente-1182806'>Las GPU de AMD de 2021 han empezado a morirse misteriosamente</a></h4>
     <a href='https://computerhoy.com/gaming/gpu-amd-2021-han-empezado-morirse-misteriosamente-1182806' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/amd-rx-6000-2925638.jpg?tf=1200x' alt='Las GPU de AMD de 2021 han empezado a morirse misteriosamente' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tutoriales/como-evitar-fondo-cambie-automaticamente-windows-11-1167416'>Cómo evitar que el fondo cambie automáticamente en Windows 11</a></h4>
     <a href='https://computerhoy.com/tutoriales/como-evitar-fondo-cambie-automaticamente-windows-11-1167416' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/colores-fonde-windows-11-2896476.jpg?tf=1200x' alt='Cómo evitar que el fondo cambie automáticamente en Windows 11' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/ya-tenemos-fecha-samsung-galaxy-s23-unpacked-antes-esperado-1182774'>Ya tenemos fecha para el Samsung Galaxy S23 Unpacked: antes de lo esperado</a></h4>
-    <a href='https://computerhoy.com/moviles/ya-tenemos-fecha-samsung-galaxy-s23-unpacked-antes-esperado-1182774' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/galaxy-unpacked-2925572.jpg?tf=1200x' alt='Ya tenemos fecha para el Samsung Galaxy S23 Unpacked: antes de lo esperado' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/redes-sociales/twitter-introduce-cambios-ahora-utilizara-defecto-pagina-ti-igual-hace-tiktok-1182766'>Twitter introduce más cambios y ahora utilizará por defecto la página "Para ti" al igual que hace TikTok</a></h4>
-    <a href='https://computerhoy.com/redes-sociales/twitter-introduce-cambios-ahora-utilizara-defecto-pagina-ti-igual-hace-tiktok-1182766' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/twitter-ahora-utilizara-defecto-pagina-ti-igual-hace-tiktok-2925548.jpg?tf=1200x' alt='Twitter introduce más cambios y ahora utilizará por defecto la página "Para ti" al igual que hace TikTok' />
     </a>
 </div>
 
