@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/gaming/consola-ps5-stock-dos-juegos-buen-precio-1183090'>Si buscas una PS5 a buen precio, esta es tu oportunidad: stock con dos juegos geniales y sin sobreprecio</a></h4>
+    <a href='https://computerhoy.com/gaming/consola-ps5-stock-dos-juegos-buen-precio-1183090' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/buscas-ps5-buen-precio-oportunidad-stock-dos-juegos-exclusivos-sobreprecio-2926200.jpg?tf=1200x' alt='Si buscas una PS5 a buen precio, esta es tu oportunidad: stock con dos juegos geniales y sin sobreprecio' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/msi-pen-2-primer-lapiz-optico-tambien-escribe-papel-1183012'>MSI Pen 2, el primer lápiz óptico que también escribe en papel</a></h4>
+    <a href='https://computerhoy.com/tecnologia/msi-pen-2-primer-lapiz-optico-tambien-escribe-papel-1183012' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/msi-pen-2-primer-lapiz-optico-tambien-escribe-papel-2926172.jpg?tf=1200x' alt='MSI Pen 2, el primer lápiz óptico que también escribe en papel' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/entretenimiento/donde-ver-series-ganadoras-globo-oro-2023-1183084'>Dónde ver las series ganadoras de los Globo de Oro 2023, ya están todas en streaming</a></h4>
     <a href='https://computerhoy.com/entretenimiento/donde-ver-series-ganadoras-globo-oro-2023-1183084' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/donde-ver-series-ganadoras-globo-oro-2023-ya-estan-todas-streaming-2926170.jpg?tf=1200x' alt='Dónde ver las series ganadoras de los Globo de Oro 2023, ya están todas en streaming' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/energia/espana-portugal-podrian-convertirse-potencias-hidrogeno-verde-toda-europa-hay-razones-ello-1183072'>España y Portugal podrían convertirse en potencias en hidrógeno verde en toda Europa, y hay razones para ello</a></h4>
     <a href='https://computerhoy.com/energia/espana-portugal-podrian-convertirse-potencias-hidrogeno-verde-toda-europa-hay-razones-ello-1183072' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/hidrogeno-verde-2926166.jpg?tf=1200x' alt='España y Portugal podrían convertirse en potencias en hidrógeno verde en toda Europa, y hay razones para ello' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/streaming/policia-empieza-visitar-hogares-usuarios-ven-contenido-pirata-han-comenzado-reino-unido-1183068'>La policía empieza a visitar los hogares de usuarios que ven contenido pirata, y han comenzado por Reino Unido</a></h4>
-    <a href='https://computerhoy.com/streaming/policia-empieza-visitar-hogares-usuarios-ven-contenido-pirata-han-comenzado-reino-unido-1183068' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/pirateo-2926164.jpg?tf=1200x' alt='La policía empieza a visitar los hogares de usuarios que ven contenido pirata, y han comenzado por Reino Unido' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/mercado-segunda-mano-moviles-explota-gran-beneficiada-va-ser-apple-1183010'>El mercado de segunda mano de móviles explota y la gran beneficiada va a ser... Apple</a></h4>
-    <a href='https://computerhoy.com/apple/mercado-segunda-mano-moviles-explota-gran-beneficiada-va-ser-apple-1183010' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/apple-2926158.jpg?tf=1200x' alt='El mercado de segunda mano de móviles explota y la gran beneficiada va a ser... Apple' />
     </a>
 </div>
 
