@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/rusia-lanzara-mision-rescate-recuperar-tres-astronautas-atrapados-iss-1183002'>Rusia lanzará una misión de rescate para recuperar a los tres astronautas atrapados en la ISS</a></h4>
-    <a href='https://computerhoy.com/espacio/rusia-lanzara-mision-rescate-recuperar-tres-astronautas-atrapados-iss-1183002' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/estacion-espacial-internacional-2526143.jpg?tf=1200x' alt='Rusia lanzará una misión de rescate para recuperar a los tres astronautas atrapados en la ISS' />
+    <h4><a href='https://computerhoy.com/ciencia/menor-consumo-mayor-duracion-alimentos-invento-mit-neveras-1183004'>Menor consumo y mayor duración de los alimentos: así es el invento del MIT para las neveras</a></h4>
+    <a href='https://computerhoy.com/ciencia/menor-consumo-mayor-duracion-alimentos-invento-mit-neveras-1183004' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/nevera-2926168.jpg?tf=1200x' alt='Menor consumo y mayor duración de los alimentos: así es el invento del MIT para las neveras' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/como-dormirse-rapidoen-tan-solo-60-segundos-27845'>¿Cómo dormirse rápido?... en tan sólo 60 segundos</a></h4>
-    <a href='https://computerhoy.com/noticias/life/como-dormirse-rapidoen-tan-solo-60-segundos-27845' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2015/05/99891-como-dormir-60-segundos.jpg?tf=1200x' alt='¿Cómo dormirse rápido?... en tan sólo 60 segundos' />
+    <h4><a href='https://computerhoy.com/energia/espana-portugal-podrian-convertirse-potencias-hidrogeno-verde-toda-europa-hay-razones-ello-1183072'>España y Portugal podrían convertirse en potencias en hidrógeno verde en toda Europa, y hay razones para ello</a></h4>
+    <a href='https://computerhoy.com/energia/espana-portugal-podrian-convertirse-potencias-hidrogeno-verde-toda-europa-hay-razones-ello-1183072' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/hidrogeno-verde-2926166.jpg?tf=1200x' alt='España y Portugal podrían convertirse en potencias en hidrógeno verde en toda Europa, y hay razones para ello' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/disfruta-todo-puedas-chatgpt-acabo-free-play-openai-1182976'>Disfruta todo lo que puedas de ChatGPT: se acabó el free to play de OpenAI</a></h4>
-    <a href='https://computerhoy.com/tecnologia/disfruta-todo-puedas-chatgpt-acabo-free-play-openai-1182976' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/chatgpt-2925988.jpg?tf=1200x' alt='Disfruta todo lo que puedas de ChatGPT: se acabó el free to play de OpenAI' />
+    <h4><a href='https://computerhoy.com/streaming/policia-empieza-visitar-hogares-usuarios-ven-contenido-pirata-han-comenzado-reino-unido-1183068'>La policía empieza a visitar los hogares de usuarios que ven contenido pirata, y han comenzado por Reino Unido</a></h4>
+    <a href='https://computerhoy.com/streaming/policia-empieza-visitar-hogares-usuarios-ven-contenido-pirata-han-comenzado-reino-unido-1183068' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/pirateo-2926164.jpg?tf=1200x' alt='La policía empieza a visitar los hogares de usuarios que ven contenido pirata, y han comenzado por Reino Unido' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/salas-cine-estan-muriendo-auge-streaming-pero-estas-tecnologias-podrian-evitarlo-1182886'>Las salas de cine están muriendo por el auge del streaming pero estas tecnologías podrían evitarlo</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/salas-cine-estan-muriendo-auge-streaming-pero-estas-tecnologias-podrian-evitarlo-1182886' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/salas-cine-estan-muriendo-auge-streaming-pero-estas-tecnologias-podrian-evitarlo-2925854.jpg?tf=1200x' alt='Las salas de cine están muriendo por el auge del streaming pero estas tecnologías podrían evitarlo' />
+    <h4><a href='https://computerhoy.com/apple/mercado-segunda-mano-moviles-explota-gran-beneficiada-va-ser-apple-1183010'>El mercado de segunda mano de móviles explota y la gran beneficiada va a ser... Apple</a></h4>
+    <a href='https://computerhoy.com/apple/mercado-segunda-mano-moviles-explota-gran-beneficiada-va-ser-apple-1183010' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/apple-2926158.jpg?tf=1200x' alt='El mercado de segunda mano de móviles explota y la gran beneficiada va a ser... Apple' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/redes-sociales/coins-moneda-twitter-pagar-creadores-1182930'>Así es Coins, la moneda de Twitter para pagar a los creadores</a></h4>
-    <a href='https://computerhoy.com/redes-sociales/coins-moneda-twitter-pagar-creadores-1182930' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/twitter-coin-2925880.jpg?tf=1200x' alt='Así es Coins, la moneda de Twitter para pagar a los creadores' />
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-auriculares-jbl-puedes-comprar-1023625'>Auriculares JBL: estos son los mejores que puedes comprar</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-auriculares-jbl-puedes-comprar-1023625' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/hombre-escuchando-musica-auriculares-inalambricos-jbl-tune-760nc-2925716.jpg?tf=1200x' alt='Auriculares JBL: estos son los mejores que puedes comprar' />
     </a>
 </div>
 
