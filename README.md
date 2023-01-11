@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-realme-comprar-ofertas-838791'>Estos son los mejores móviles realme para comprar este año</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-realme-comprar-ofertas-838791' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/realme-gt-neo-3-analisis-opinion-2725597.jpg?tf=1200x' alt='Estos son los mejores móviles realme para comprar este año' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/cataratas-chocolate-grand-falls-arizona-video-1182704'>Qué son las Cataratas de Chocolate, únicas en el mundo (vídeo)</a></h4>
     <a href='https://computerhoy.com/life/cataratas-chocolate-grand-falls-arizona-video-1182704' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/verticalimage1673403674819-2925440.jpg?tf=1200x' alt='Qué son las Cataratas de Chocolate, únicas en el mundo (vídeo)' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/perifericos/adaptador-antena-wifi-6-pc-descuento-oferta-1182468'>Lleva WiFi 6 a cualquier PC con esta antena y adaptador WiFi que solo cuesta 32 euros</a></h4>
     <a href='https://computerhoy.com/perifericos/adaptador-antena-wifi-6-pc-descuento-oferta-1182468' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/lleva-wifi-6-cualquier-pc-antena-adaptador-wifi-solo-cuesta-32-euros-2925164.jpg?tf=1200x' alt='Lleva WiFi 6 a cualquier PC con esta antena y adaptador WiFi que solo cuesta 32 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/skyshowtime-estreno-espana-febrero-paramount-plus-universal-1182460'>Llega a España SkyShowtime, la plataforma de streaming de Paramount+ y Universal</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/skyshowtime-estreno-espana-febrero-paramount-plus-universal-1182460' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/llega-espana-skyshowtime-plataforma-streaming-paramount-universal-2925134.jpg?tf=1200x' alt='Llega a España SkyShowtime, la plataforma de streaming de Paramount+ y Universal' />
     </a>
 </div>
 
