@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/espacio/rusia-lanzara-mision-rescate-recuperar-tres-astronautas-atrapados-iss-1183002'>Rusia lanzará una misión de rescate para recuperar a los tres astronautas atrapados en la ISS</a></h4>
+    <a href='https://computerhoy.com/espacio/rusia-lanzara-mision-rescate-recuperar-tres-astronautas-atrapados-iss-1183002' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/estacion-espacial-internacional-2526143.jpg?tf=1200x' alt='Rusia lanzará una misión de rescate para recuperar a los tres astronautas atrapados en la ISS' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/como-dormirse-rapidoen-tan-solo-60-segundos-27845'>¿Cómo dormirse rápido?... en tan sólo 60 segundos</a></h4>
+    <a href='https://computerhoy.com/noticias/life/como-dormirse-rapidoen-tan-solo-60-segundos-27845' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2015/05/99891-como-dormir-60-segundos.jpg?tf=1200x' alt='¿Cómo dormirse rápido?... en tan sólo 60 segundos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/disfruta-todo-puedas-chatgpt-acabo-free-play-openai-1182976'>Disfruta todo lo que puedas de ChatGPT: se acabó el free to play de OpenAI</a></h4>
+    <a href='https://computerhoy.com/tecnologia/disfruta-todo-puedas-chatgpt-acabo-free-play-openai-1182976' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/chatgpt-2925988.jpg?tf=1200x' alt='Disfruta todo lo que puedas de ChatGPT: se acabó el free to play de OpenAI' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/entretenimiento/salas-cine-estan-muriendo-auge-streaming-pero-estas-tecnologias-podrian-evitarlo-1182886'>Las salas de cine están muriendo por el auge del streaming pero estas tecnologías podrían evitarlo</a></h4>
     <a href='https://computerhoy.com/entretenimiento/salas-cine-estan-muriendo-auge-streaming-pero-estas-tecnologias-podrian-evitarlo-1182886' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/salas-cine-estan-muriendo-auge-streaming-pero-estas-tecnologias-podrian-evitarlo-2925854.jpg?tf=1200x' alt='Las salas de cine están muriendo por el auge del streaming pero estas tecnologías podrían evitarlo' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/redes-sociales/coins-moneda-twitter-pagar-creadores-1182930'>Así es Coins, la moneda de Twitter para pagar a los creadores</a></h4>
     <a href='https://computerhoy.com/redes-sociales/coins-moneda-twitter-pagar-creadores-1182930' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/twitter-coin-2925880.jpg?tf=1200x' alt='Así es Coins, la moneda de Twitter para pagar a los creadores' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/chips-todo-pantallas-fabricadas-ellos-apple-quiere-deshacerse-socios-1182840'>Chips todo en uno y pantallas fabricadas por ellos: Apple quiere deshacerse de sus socios</a></h4>
-    <a href='https://computerhoy.com/apple/chips-todo-pantallas-fabricadas-ellos-apple-quiere-deshacerse-socios-1182840' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/iphone-14-2903090.jpg?tf=1200x' alt='Chips todo en uno y pantallas fabricadas por ellos: Apple quiere deshacerse de sus socios' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/deteccion-colisiones-iphone-vez-tela-juicio-ahora-falla-deportes-nieve-1182824'>La detección de colisiones del iPhone una vez más en tela de juicio: ahora falla con los deportes de nieve</a></h4>
-    <a href='https://computerhoy.com/apple/deteccion-colisiones-iphone-vez-tela-juicio-ahora-falla-deportes-nieve-1182824' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/deteccion-colisiones-iphone-vuelve-fallar-ahora-culpa-deportes-nieve-2925734.jpg?tf=1200x' alt='La detección de colisiones del iPhone una vez más en tela de juicio: ahora falla con los deportes de nieve' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/gaming/gpu-amd-2021-han-empezado-morirse-misteriosamente-1182806'>Las GPU de AMD de 2021 han empezado a morirse misteriosamente</a></h4>
-    <a href='https://computerhoy.com/gaming/gpu-amd-2021-han-empezado-morirse-misteriosamente-1182806' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/amd-rx-6000-2925638.jpg?tf=1200x' alt='Las GPU de AMD de 2021 han empezado a morirse misteriosamente' />
     </a>
 </div>
 
