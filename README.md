@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/life/alternativas-baratas-secador-dyson-1016631'>5 alternativas baratas al secador de pelo Dyson que también merecen la pena</a></h4>
+    <a href='https://computerhoy.com/reportajes/life/alternativas-baratas-secador-dyson-1016631' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/secador-pelo-philips-drycare-prestige-2924594.jpg?tf=1200x' alt='5 alternativas baratas al secador de pelo Dyson que también merecen la pena' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/estas-5-aplicaciones-android-ios-te-ayudaran-elegir-proximo-libro-1182258'>Estas 5 aplicaciones para Android e iOS te ayudarán a elegir tu próximo libro</a></h4>
+    <a href='https://computerhoy.com/apps/estas-5-aplicaciones-android-ios-te-ayudaran-elegir-proximo-libro-1182258' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/estas-5-aplicaciones-android-ios-te-ayudaran-elegir-proximo-libro-2924792.jpg?tf=1200x' alt='Estas 5 aplicaciones para Android e iOS te ayudarán a elegir tu próximo libro' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/29-noticias-tecnologia-comenzar-manana-informado-ultimo-1182710'>29 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
+    <a href='https://computerhoy.com/tecnologia/29-noticias-tecnologia-comenzar-manana-informado-ultimo-1182710' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/28-noticias-tecnologia-comenzar-manana-informado-ultimo-2925464.jpg?tf=1200x' alt='29 noticias de tecnología para comenzar la mañana informado de lo último' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-realme-comprar-ofertas-838791'>Estos son los mejores móviles realme para comprar este año</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-realme-comprar-ofertas-838791' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/realme-gt-neo-3-analisis-opinion-2725597.jpg?tf=1200x' alt='Estos son los mejores móviles realme para comprar este año' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/life/cataratas-chocolate-grand-falls-arizona-video-1182704'>Qué son las Cataratas de Chocolate, únicas en el mundo (vídeo)</a></h4>
     <a href='https://computerhoy.com/life/cataratas-chocolate-grand-falls-arizona-video-1182704' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/verticalimage1673403674819-2925440.jpg?tf=1200x' alt='Qué son las Cataratas de Chocolate, únicas en el mundo (vídeo)' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/primera-puesta-orbita-cohete-satelites-reino-unido-virgin-orbit-fracaso-1182702'>Por qué la primera puesta en órbita de un cohete desde el Reino Unido, ha sido un fracaso</a></h4>
-    <a href='https://computerhoy.com/espacio/primera-puesta-orbita-cohete-satelites-reino-unido-virgin-orbit-fracaso-1182702' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/primera-puesta-orbita-cohete-reino-unido-ha-sido-fracaso-2925218.jpg?tf=1200x' alt='Por qué la primera puesta en órbita de un cohete desde el Reino Unido, ha sido un fracaso' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/apps-falsas-chatgpt-estafa-malware-1182476'>¡Cuidado! Docenas de apps falsas de ChatGPT circulan por Google Play y la App Store</a></h4>
-    <a href='https://computerhoy.com/apps/apps-falsas-chatgpt-estafa-malware-1182476' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/cuidado-app-store-google-play-estan-inundando-apps-falsas-chatgpt-2925210.jpg?tf=1200x' alt='¡Cuidado! Docenas de apps falsas de ChatGPT circulan por Google Play y la App Store' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/perifericos/adaptador-antena-wifi-6-pc-descuento-oferta-1182468'>Lleva WiFi 6 a cualquier PC con esta antena y adaptador WiFi que solo cuesta 32 euros</a></h4>
-    <a href='https://computerhoy.com/perifericos/adaptador-antena-wifi-6-pc-descuento-oferta-1182468' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/lleva-wifi-6-cualquier-pc-antena-adaptador-wifi-solo-cuesta-32-euros-2925164.jpg?tf=1200x' alt='Lleva WiFi 6 a cualquier PC con esta antena y adaptador WiFi que solo cuesta 32 euros' />
     </a>
 </div>
 
