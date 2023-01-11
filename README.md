@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/amazfit-gts-3-apple-watch-barato-1181628'>No es el Apple Watch, pero este reloj se le parece y cuesta muchísimo menos</a></h4>
+    <a href='https://computerhoy.com/tecnologia/amazfit-gts-3-apple-watch-barato-1181628' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/amazfit-gts-3-2923690.jpg?tf=1200x' alt='No es el Apple Watch, pero este reloj se le parece y cuesta muchísimo menos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/windows/microsoft-punto-hacer-pago-funciones-gratuitas-teams-1182744'>Microsoft esta a punto de hacer de pago funciones gratuitas de Teams</a></h4>
+    <a href='https://computerhoy.com/windows/microsoft-punto-hacer-pago-funciones-gratuitas-teams-1182744' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/microsoft-teams-2925540.jpg?tf=1200x' alt='Microsoft esta a punto de hacer de pago funciones gratuitas de Teams' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/motor/tesla-conduccion-autonoma-total-provoca-accidente-multiple-entrar-tunel-video-1182748'>Tesla con conducción autónoma total provoca un accidente múltiple al entrar en un túnel (VÍDEO)</a></h4>
+    <a href='https://computerhoy.com/motor/tesla-conduccion-autonoma-total-provoca-accidente-multiple-entrar-tunel-video-1182748' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/tesla-conduccion-autonoma-total-provoca-accidente-multiple-entrar-tunel-video-2925510.jpg?tf=1200x' alt='Tesla con conducción autónoma total provoca un accidente múltiple al entrar en un túnel (VÍDEO)' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/hogar/valetudo-firmware-libre-evita-robot-aspiradora-comparta-casa-internet-1182366'>Valetudo es el firmware libre que evita que tu robot aspiradora comparta tu casa en Internet</a></h4>
     <a href='https://computerhoy.com/hogar/valetudo-firmware-libre-evita-robot-aspiradora-comparta-casa-internet-1182366' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/robot-aspirador-rowenta-2593913.jpg?tf=1200x' alt='Valetudo es el firmware libre que evita que tu robot aspiradora comparta tu casa en Internet' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/life/alternativas-baratas-secador-dyson-1016631'>5 alternativas baratas al secador de pelo Dyson que también merecen la pena</a></h4>
     <a href='https://computerhoy.com/reportajes/life/alternativas-baratas-secador-dyson-1016631' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/secador-pelo-philips-drycare-prestige-2924594.jpg?tf=1200x' alt='5 alternativas baratas al secador de pelo Dyson que también merecen la pena' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/estas-5-aplicaciones-android-ios-te-ayudaran-elegir-proximo-libro-1182258'>Estas 5 aplicaciones para Android e iOS te ayudarán a elegir tu próximo libro</a></h4>
-    <a href='https://computerhoy.com/apps/estas-5-aplicaciones-android-ios-te-ayudaran-elegir-proximo-libro-1182258' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/estas-5-aplicaciones-android-ios-te-ayudaran-elegir-proximo-libro-2924792.jpg?tf=1200x' alt='Estas 5 aplicaciones para Android e iOS te ayudarán a elegir tu próximo libro' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/29-noticias-tecnologia-comenzar-manana-informado-ultimo-1182710'>29 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
-    <a href='https://computerhoy.com/tecnologia/29-noticias-tecnologia-comenzar-manana-informado-ultimo-1182710' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/28-noticias-tecnologia-comenzar-manana-informado-ultimo-2925464.jpg?tf=1200x' alt='29 noticias de tecnología para comenzar la mañana informado de lo último' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-realme-comprar-ofertas-838791'>Estos son los mejores móviles realme para comprar este año</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-realme-comprar-ofertas-838791' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/realme-gt-neo-3-analisis-opinion-2725597.jpg?tf=1200x' alt='Estos son los mejores móviles realme para comprar este año' />
     </a>
 </div>
 
