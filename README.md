@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/redes-sociales/5-datos-jamas-deberias-publicar-redes-sociales-comparte-guardia-civil-1183698'>5 datos que jamás deberías publicar en redes sociales según comparte la Guardia Civil</a></h4>
+    <a href='https://computerhoy.com/redes-sociales/5-datos-jamas-deberias-publicar-redes-sociales-comparte-guardia-civil-1183698' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/hombre-asustado-movil-2927134.jpg?tf=1200x' alt='5 datos que jamás deberías publicar en redes sociales según comparte la Guardia Civil' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/motor/dragonfly-piloto-automatico-autonomo-airbus-aterrizar-avion-aeropuerto-1183696'>Así es el innovador piloto automático de Airbus capaz de aterrizar en cualquier pista o aeropuerto de manera autónoma</a></h4>
+    <a href='https://computerhoy.com/motor/dragonfly-piloto-automatico-autonomo-airbus-aterrizar-avion-aeropuerto-1183696' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/verticalimage1673553297415-2927128.jpg?tf=1200x' alt='Así es el innovador piloto automático de Airbus capaz de aterrizar en cualquier pista o aeropuerto de manera autónoma' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/motor/ya-disponible-luz-v-16-dgt-no-caduca-podras-usar-durante-anos-1183610'>Ya está disponible la luz V-16 de la DGT que no caduca y podrás usar durante años</a></h4>
     <a href='https://computerhoy.com/motor/ya-disponible-luz-v-16-dgt-no-caduca-podras-usar-durante-anos-1183610' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/luces-flash-v16-coche-2228895.jpg?tf=1200x' alt='Ya está disponible la luz V-16 de la DGT que no caduca y podrás usar durante años' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/entretenimiento/hbo-max-sube-precio-suscripcion-1183684'>HBO Max, en el ojo del hurácan: sube el precio de la suscripción después de eliminar abundante contenido</a></h4>
     <a href='https://computerhoy.com/entretenimiento/hbo-max-sube-precio-suscripcion-1183684' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/hbo-max-ojo-huracan-sube-precio-suscripcion-despues-eliminar-abundante-contenido-2927050.jpg?tf=1200x' alt='HBO Max, en el ojo del hurácan: sube el precio de la suscripción después de eliminar abundante contenido' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/no-todos-cables-usb-c-son-iguales-partir-ahora-sera-facil-diferenciarlos-1183608'>No todos los cables USB-C son iguales y a partir de ahora será más fácil diferenciarlos</a></h4>
-    <a href='https://computerhoy.com/tecnologia/no-todos-cables-usb-c-son-iguales-partir-ahora-sera-facil-diferenciarlos-1183608' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/usb-c-2830723.jpg?tf=1200x' alt='No todos los cables USB-C son iguales y a partir de ahora será más fácil diferenciarlos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/nueva-misteriosa-oculta-funcion-menu-inicio-windows-11-1183606'>La nueva, misteriosa y oculta función del menú de Inicio de Windows 11</a></h4>
-    <a href='https://computerhoy.com/pc/nueva-misteriosa-oculta-funcion-menu-inicio-windows-11-1183606' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/windows-11-2915612.jpg?tf=1200x' alt='La nueva, misteriosa y oculta función del menú de Inicio de Windows 11' />
     </a>
 </div>
 
