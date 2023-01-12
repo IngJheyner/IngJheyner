@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/perifericos/ssd-portatil-500-gb-blindando-golpes-caidas-oferta-1183710'>Este pequeño SSD portátil de 500 GB, blindando contra golpes y caídas, solo cuesta 58 euros</a></h4>
+    <a href='https://computerhoy.com/perifericos/ssd-portatil-500-gb-blindando-golpes-caidas-oferta-1183710' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/pequeno-ssd-portatil-500-gb-blindando-golpes-caidas-solo-cuesta-58-euros-2927174.jpg?tf=1200x' alt='Este pequeño SSD portátil de 500 GB, blindando contra golpes y caídas, solo cuesta 58 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/google-home-anade-funcion-dejaras-usar-mando-tele-1183648'>Google Home añade una función con la que dejarás de usar el mando de la tele</a></h4>
+    <a href='https://computerhoy.com/apps/google-home-anade-funcion-dejaras-usar-mando-tele-1183648' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/google-home-anade-funcion-dejaras-usar-mando-tele-2927046.jpg?tf=1200x' alt='Google Home añade una función con la que dejarás de usar el mando de la tele' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/donotpay-ia-quiere-evitar-vayas-carcel-1183646'>DoNotPay es la IA que quiere evitar que vayas a la cárcel</a></h4>
     <a href='https://computerhoy.com/tecnologia/donotpay-ia-quiere-evitar-vayas-carcel-1183646' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/24-noticias-tecnologia-comenzar-manana-informado-ultimo-2924348.jpg?tf=1200x' alt='DoNotPay es la IA que quiere evitar que vayas a la cárcel' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/streaming/3-infracciones-netflix-podria-cerrarte-cuenta-siempre-1183700'>3 infracciones con las que Netflix podría cerrarte la cuenta para siempre</a></h4>
     <a href='https://computerhoy.com/streaming/3-infracciones-netflix-podria-cerrarte-cuenta-siempre-1183700' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/netflix-app-tv-2682771.jpg?tf=1200x' alt='3 infracciones con las que Netflix podría cerrarte la cuenta para siempre' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/redes-sociales/5-datos-jamas-deberias-publicar-redes-sociales-comparte-guardia-civil-1183698'>5 datos que jamás deberías publicar en redes sociales según comparte la Guardia Civil</a></h4>
-    <a href='https://computerhoy.com/redes-sociales/5-datos-jamas-deberias-publicar-redes-sociales-comparte-guardia-civil-1183698' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/hombre-asustado-movil-2927134.jpg?tf=1200x' alt='5 datos que jamás deberías publicar en redes sociales según comparte la Guardia Civil' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/dragonfly-piloto-automatico-autonomo-airbus-aterrizar-avion-aeropuerto-1183696'>Así es el innovador piloto automático de Airbus capaz de aterrizar en cualquier pista o aeropuerto de manera autónoma</a></h4>
-    <a href='https://computerhoy.com/motor/dragonfly-piloto-automatico-autonomo-airbus-aterrizar-avion-aeropuerto-1183696' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/verticalimage1673553297415-2927128.jpg?tf=1200x' alt='Así es el innovador piloto automático de Airbus capaz de aterrizar en cualquier pista o aeropuerto de manera autónoma' />
     </a>
 </div>
 
