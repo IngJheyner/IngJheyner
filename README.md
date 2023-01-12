@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/pc/nueva-misteriosa-oculta-funcion-menu-inicio-windows-11-1183606'>La nueva, misteriosa y oculta función del menú de Inicio de Windows 11</a></h4>
+    <a href='https://computerhoy.com/pc/nueva-misteriosa-oculta-funcion-menu-inicio-windows-11-1183606' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/windows-11-2915612.jpg?tf=1200x' alt='La nueva, misteriosa y oculta función del menú de Inicio de Windows 11' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/patrocinado/acceso-red-wifi-invitados-fritzbox-1183600'>Acceso a la red WiFi para invitados con tu FRITZBox!</a></h4>
+    <a href='https://computerhoy.com/patrocinado/acceso-red-wifi-invitados-fritzbox-1183600' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/avm-2926936.jpg?tf=1200x' alt='Acceso a la red WiFi para invitados con tu FRITZBox!' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/software/15-programas-gratis-windows-que-no-pueden-faltar-tu-pc-73405'>20 programas gratis para Windows que no pueden faltar en tu PC</a></h4>
     <a href='https://computerhoy.com/noticias/software/15-programas-gratis-windows-que-no-pueden-faltar-tu-pc-73405' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2017/12/279123-mejores-programas-gratis-windows.jpg?tf=1200x' alt='20 programas gratis para Windows que no pueden faltar en tu PC' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/motor/cargadores-coche-electrico-precio-ganga-lidl-1183576'>Cargadores para coche eléctrico a precio ganga en LIDL</a></h4>
     <a href='https://computerhoy.com/motor/cargadores-coche-electrico-precio-ganga-lidl-1183576' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/carga-coche-electrico-2922466.jpg?tf=1200x' alt='Cargadores para coche eléctrico a precio ganga en LIDL' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/redes-sociales/subastas-online-nombres-usuario-otra-idea-rocambolesca-elon-musk-salvar-twitter-1183550'>Subastas online de nombres de usuario, otra idea rocambolesca de Elon Musk para salvar Twitter</a></h4>
-    <a href='https://computerhoy.com/redes-sociales/subastas-online-nombres-usuario-otra-idea-rocambolesca-elon-musk-salvar-twitter-1183550' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/elon-musk-explica-porque-comprar-twitter-quiere-crear-aplicacion-todo-2833707.jpg?tf=1200x' alt='Subastas online de nombres de usuario, otra idea rocambolesca de Elon Musk para salvar Twitter' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/rueda-bici-inventada-nasa-no-puede-pinchar-1183484'>Así es la rueda de bici inventada por la NASA que no puede pinchar</a></h4>
-    <a href='https://computerhoy.com/espacio/rueda-bici-inventada-nasa-no-puede-pinchar-1183484' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/rueda-bicileta-nasa-2926756.jpg?tf=1200x' alt='Así es la rueda de bici inventada por la NASA que no puede pinchar' />
     </a>
 </div>
 
