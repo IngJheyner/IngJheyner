@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/smartwatches/no-valen-rolex-pero-son-tan-malos-relojes-casio-como-piensa-shakira-1183360'>No valen lo que un Rolex pero: ¿son tan malos los relojes Casio como piensa Shakira?</a></h4>
-    <a href='https://computerhoy.com/smartwatches/no-valen-rolex-pero-son-tan-malos-relojes-casio-como-piensa-shakira-1183360' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/no-valen-rolex-pero-son-tan-malos-relojes-casio-como-piensa-shakira-2926544.jpg?tf=1200x' alt='No valen lo que un Rolex pero: ¿son tan malos los relojes Casio como piensa Shakira?' />
+    <h4><a href='https://computerhoy.com/energia/estudiante-quimica-descubre-casualidad-bateria-eterna-acepta-infinitas-recargas-video-1183428'>Una estudiante de química descubre por casualidad la batería eterna: acepta infinitas recargas (vídeo)</a></h4>
+    <a href='https://computerhoy.com/energia/estudiante-quimica-descubre-casualidad-bateria-eterna-acepta-infinitas-recargas-video-1183428' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/verticalimage1673513204365-2926566.jpg?tf=1200x' alt='Una estudiante de química descubre por casualidad la batería eterna: acepta infinitas recargas (vídeo)' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/relojes-inteligentes-electrocardiograma-ecg-estos-son-mejores-758541'>Relojes que hacen electrocardiogramas (ECG): estos son los mejores y más baratos que puedes comprar</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/relojes-inteligentes-electrocardiograma-ecg-estos-son-mejores-758541' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/apple-watch-series-8-analisis-opinion-2841939.jpg?tf=1200x' alt='Relojes que hacen electrocardiogramas (ECG): estos son los mejores y más baratos que puedes comprar' />
+    <h4><a href='https://computerhoy.com/tecnologia/movil-poco-buscas-jugar-ahora-70-euros-menos-1182136'>Este móvil de POCO es lo que buscas para jugar, y ahora por 70 euros menos</a></h4>
+    <a href='https://computerhoy.com/tecnologia/movil-poco-buscas-jugar-ahora-70-euros-menos-1182136' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/galeria-review-poco-x4-gt-2760413.jpg?tf=1200x' alt='Este móvil de POCO es lo que buscas para jugar, y ahora por 70 euros menos' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/como-tinder-ha-cambiado-aplicaciones-amor-toda-generacion-1182998'>Cómo Tinder ha cambiado las aplicaciones y el amor para toda una generación</a></h4>
-    <a href='https://computerhoy.com/apps/como-tinder-ha-cambiado-aplicaciones-amor-toda-generacion-1182998' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/tinder-2790683.jpg?tf=1200x' alt='Cómo Tinder ha cambiado las aplicaciones y el amor para toda una generación' />
+    <h4><a href='https://computerhoy.com/apple/apple-da-giro-180o-intenciones-llevara-pantalla-tactil-proximos-macbooks-2025-1183390'>Apple da un giro de 180º en sus intenciones y llevará la pantalla táctil a sus próximos MacBooks en 2025</a></h4>
+    <a href='https://computerhoy.com/apple/apple-da-giro-180o-intenciones-llevara-pantalla-tactil-proximos-macbooks-2025-1183390' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/apple-cambia-opinion-llevara-pantalla-tactil-proximos-macbooks-2926578.jpg?tf=1200x' alt='Apple da un giro de 180º en sus intenciones y llevará la pantalla táctil a sus próximos MacBooks en 2025' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/23-noticias-tecnologia-comenzar-manana-informado-ultimo-1183334'>23 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
-    <a href='https://computerhoy.com/tecnologia/23-noticias-tecnologia-comenzar-manana-informado-ultimo-1183334' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/23-noticias-tecnologia-comenzar-manana-informado-ultimo-2926446.jpg?tf=1200x' alt='23 noticias de tecnología para comenzar la mañana informado de lo último' />
+    <h4><a href='https://computerhoy.com/moviles/bill-gates-abandona-galaxy-z-fold-3-ya-tiene-nuevo-movil-2023-1183402'>Bill Gates abandona su Galaxy Z Fold 3 y ya tiene nuevo móvil para 2023</a></h4>
+    <a href='https://computerhoy.com/moviles/bill-gates-abandona-galaxy-z-fold-3-ya-tiene-nuevo-movil-2023-1183402' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/bill-gates-2829387.jpg?tf=1200x' alt='Bill Gates abandona su Galaxy Z Fold 3 y ya tiene nuevo móvil para 2023' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-termostatos-inteligentes-1124931'>Mejores termostatos inteligentes: Honeywell, Nest y más modelos</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-termostatos-inteligentes-1124931' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/google-nest-learning-thermostat-2813899.jpg?tf=1200x' alt='Mejores termostatos inteligentes: Honeywell, Nest y más modelos' />
+    <h4><a href='https://computerhoy.com/legislacion/como-ley-copyright-podria-cambiar-futuro-inteligencia-artificial-1182988'>Así es como la ley de copyright podría cambiar el futuro de la inteligencia artificial</a></h4>
+    <a href='https://computerhoy.com/legislacion/como-ley-copyright-podria-cambiar-futuro-inteligencia-artificial-1182988' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/ley-copyright-2926580.jpg?tf=1200x' alt='Así es como la ley de copyright podría cambiar el futuro de la inteligencia artificial' />
     </a>
 </div>
 
