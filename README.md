@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/software/15-programas-gratis-windows-que-no-pueden-faltar-tu-pc-73405'>20 programas gratis para Windows que no pueden faltar en tu PC</a></h4>
+    <a href='https://computerhoy.com/noticias/software/15-programas-gratis-windows-que-no-pueden-faltar-tu-pc-73405' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2017/12/279123-mejores-programas-gratis-windows.jpg?tf=1200x' alt='20 programas gratis para Windows que no pueden faltar en tu PC' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/pc/intel-pasa-6-ghz-serie-nuevo-procesador-core-i9-13900ks-1183612'>Intel pasa los 6 GHz de serie con su nuevo procesador Core i9 13900KS</a></h4>
+    <a href='https://computerhoy.com/pc/intel-pasa-6-ghz-serie-nuevo-procesador-core-i9-13900ks-1183612' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/intel-pasa-6-ghz-serie-nuevo-procesador-core-i9-13900ks-2927002.jpg?tf=1200x' alt='Intel pasa los 6 GHz de serie con su nuevo procesador Core i9 13900KS' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/motor/cargadores-coche-electrico-precio-ganga-lidl-1183576'>Cargadores para coche eléctrico a precio ganga en LIDL</a></h4>
     <a href='https://computerhoy.com/motor/cargadores-coche-electrico-precio-ganga-lidl-1183576' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/carga-coche-electrico-2922466.jpg?tf=1200x' alt='Cargadores para coche eléctrico a precio ganga en LIDL' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/espacio/rueda-bici-inventada-nasa-no-puede-pinchar-1183484'>Así es la rueda de bici inventada por la NASA que no puede pinchar</a></h4>
     <a href='https://computerhoy.com/espacio/rueda-bici-inventada-nasa-no-puede-pinchar-1183484' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/rueda-bicileta-nasa-2926756.jpg?tf=1200x' alt='Así es la rueda de bici inventada por la NASA que no puede pinchar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/criptos/sucedera-criptomonedas-2023-estas-son-algunas-predicciones-expertos-1183472'>¿Qué sucederá con las criptomonedas en 2023? estas son algunas predicciones de los expertos</a></h4>
-    <a href='https://computerhoy.com/criptos/sucedera-criptomonedas-2023-estas-son-algunas-predicciones-expertos-1183472' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/sucedera-criptomonedas-2023-estas-son-algunas-predicciones-expertos-2926656.jpg?tf=1200x' alt='¿Qué sucederá con las criptomonedas en 2023? estas son algunas predicciones de los expertos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/puedes-debes-ocultar-casa-no-salga-google-maps-1183494'>Así puedes y debes ocultar tu casa para que no salga en Google Maps</a></h4>
-    <a href='https://computerhoy.com/google/puedes-debes-ocultar-casa-no-salga-google-maps-1183494' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/google-maps-2926710.jpg?tf=1200x' alt='Así puedes y debes ocultar tu casa para que no salga en Google Maps' />
     </a>
 </div>
 
