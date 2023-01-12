@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/redes-sociales/subastas-online-nombres-usuario-otra-idea-rocambolesca-elon-musk-salvar-twitter-1183550'>Subastas online de nombres de usuario, otra idea rocambolesca de Elon Musk para salvar Twitter</a></h4>
+    <a href='https://computerhoy.com/redes-sociales/subastas-online-nombres-usuario-otra-idea-rocambolesca-elon-musk-salvar-twitter-1183550' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/elon-musk-explica-porque-comprar-twitter-quiere-crear-aplicacion-todo-2833707.jpg?tf=1200x' alt='Subastas online de nombres de usuario, otra idea rocambolesca de Elon Musk para salvar Twitter' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/espacio/rueda-bici-inventada-nasa-no-puede-pinchar-1183484'>Así es la rueda de bici inventada por la NASA que no puede pinchar</a></h4>
     <a href='https://computerhoy.com/espacio/rueda-bici-inventada-nasa-no-puede-pinchar-1183484' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/rueda-bicileta-nasa-2926756.jpg?tf=1200x' alt='Así es la rueda de bici inventada por la NASA que no puede pinchar' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/espacio/telescopio-james-webb-nasa-suma-sigue-anuncia-primer-gran-descubrimiento-1183444'>El telescopio James Webb de la NASA suma y sigue y anuncia su primer gran descubrimiento</a></h4>
     <a href='https://computerhoy.com/espacio/telescopio-james-webb-nasa-suma-sigue-anuncia-primer-gran-descubrimiento-1183444' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/telescopio-james-webb-nasa-realiza-primer-gran-descubrimiento-2926618.jpg?tf=1200x' alt='El telescopio James Webb de la NASA suma y sigue y anuncia su primer gran descubrimiento' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/reloj-inteligente-tiene-whatsapp-no-apple-ni-samsung-cuesta-mitad-1182162'>Este reloj inteligente tiene WhatsApp y no es Apple ni Samsung, y cuesta la mitad</a></h4>
-    <a href='https://computerhoy.com/tecnologia/reloj-inteligente-tiene-whatsapp-no-apple-ni-samsung-cuesta-mitad-1182162' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/analisis-ticwatch-pro-3-ultra-2607449.jpg?tf=1200x' alt='Este reloj inteligente tiene WhatsApp y no es Apple ni Samsung, y cuesta la mitad' />
     </a>
 </div>
 
