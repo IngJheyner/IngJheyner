@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/motor/ya-disponible-luz-v-16-dgt-no-caduca-podras-usar-durante-anos-1183610'>Ya está disponible la luz V-16 de la DGT que no caduca y podrás usar durante años</a></h4>
+    <a href='https://computerhoy.com/motor/ya-disponible-luz-v-16-dgt-no-caduca-podras-usar-durante-anos-1183610' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/luces-flash-v16-coche-2228895.jpg?tf=1200x' alt='Ya está disponible la luz V-16 de la DGT que no caduca y podrás usar durante años' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/bloquear-usuarios-whatsapp-sera-todavia-facil-1183644'>Bloquear a usuarios en WhatsApp será todavía más fácil</a></h4>
+    <a href='https://computerhoy.com/apps/bloquear-usuarios-whatsapp-sera-todavia-facil-1183644' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/son-como-funcionan-nuevos-mensajes-candado-whatsapp-2898696.jpg?tf=1200x' alt='Bloquear a usuarios en WhatsApp será todavía más fácil' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/hbo-max-sube-precio-suscripcion-1183684'>HBO Max, en el ojo del hurácan: sube el precio de la suscripción después de eliminar abundante contenido</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/hbo-max-sube-precio-suscripcion-1183684' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/hbo-max-ojo-huracan-sube-precio-suscripcion-despues-eliminar-abundante-contenido-2927050.jpg?tf=1200x' alt='HBO Max, en el ojo del hurácan: sube el precio de la suscripción después de eliminar abundante contenido' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/no-todos-cables-usb-c-son-iguales-partir-ahora-sera-facil-diferenciarlos-1183608'>No todos los cables USB-C son iguales y a partir de ahora será más fácil diferenciarlos</a></h4>
+    <a href='https://computerhoy.com/tecnologia/no-todos-cables-usb-c-son-iguales-partir-ahora-sera-facil-diferenciarlos-1183608' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/usb-c-2830723.jpg?tf=1200x' alt='No todos los cables USB-C son iguales y a partir de ahora será más fácil diferenciarlos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/pc/nueva-misteriosa-oculta-funcion-menu-inicio-windows-11-1183606'>La nueva, misteriosa y oculta función del menú de Inicio de Windows 11</a></h4>
     <a href='https://computerhoy.com/pc/nueva-misteriosa-oculta-funcion-menu-inicio-windows-11-1183606' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/windows-11-2915612.jpg?tf=1200x' alt='La nueva, misteriosa y oculta función del menú de Inicio de Windows 11' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/patrocinado/acceso-red-wifi-invitados-fritzbox-1183600'>Acceso a la red WiFi para invitados con tu FRITZBox!</a></h4>
-    <a href='https://computerhoy.com/patrocinado/acceso-red-wifi-invitados-fritzbox-1183600' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/avm-2926936.jpg?tf=1200x' alt='Acceso a la red WiFi para invitados con tu FRITZBox!' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/software/15-programas-gratis-windows-que-no-pueden-faltar-tu-pc-73405'>20 programas gratis para Windows que no pueden faltar en tu PC</a></h4>
-    <a href='https://computerhoy.com/noticias/software/15-programas-gratis-windows-que-no-pueden-faltar-tu-pc-73405' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2017/12/279123-mejores-programas-gratis-windows.jpg?tf=1200x' alt='20 programas gratis para Windows que no pueden faltar en tu PC' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/intel-pasa-6-ghz-serie-nuevo-procesador-core-i9-13900ks-1183612'>Intel pasa los 6 GHz de serie con su nuevo procesador Core i9 13900KS</a></h4>
-    <a href='https://computerhoy.com/pc/intel-pasa-6-ghz-serie-nuevo-procesador-core-i9-13900ks-1183612' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/intel-pasa-6-ghz-serie-nuevo-procesador-core-i9-13900ks-2927002.jpg?tf=1200x' alt='Intel pasa los 6 GHz de serie con su nuevo procesador Core i9 13900KS' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/cargadores-coche-electrico-precio-ganga-lidl-1183576'>Cargadores para coche eléctrico a precio ganga en LIDL</a></h4>
-    <a href='https://computerhoy.com/motor/cargadores-coche-electrico-precio-ganga-lidl-1183576' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/carga-coche-electrico-2922466.jpg?tf=1200x' alt='Cargadores para coche eléctrico a precio ganga en LIDL' />
     </a>
 </div>
 
