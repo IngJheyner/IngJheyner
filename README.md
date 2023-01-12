@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/google/puedes-debes-ocultar-casa-no-salga-google-maps-1183494'>Así puedes y debes ocultar tu casa para que no salga en Google Maps</a></h4>
+    <a href='https://computerhoy.com/google/puedes-debes-ocultar-casa-no-salga-google-maps-1183494' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/google-maps-2926710.jpg?tf=1200x' alt='Así puedes y debes ocultar tu casa para que no salga en Google Maps' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/espacio/telescopio-james-webb-nasa-suma-sigue-anuncia-primer-gran-descubrimiento-1183444'>El telescopio James Webb de la NASA suma y sigue y anuncia su primer gran descubrimiento</a></h4>
+    <a href='https://computerhoy.com/espacio/telescopio-james-webb-nasa-suma-sigue-anuncia-primer-gran-descubrimiento-1183444' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/telescopio-james-webb-nasa-realiza-primer-gran-descubrimiento-2926618.jpg?tf=1200x' alt='El telescopio James Webb de la NASA suma y sigue y anuncia su primer gran descubrimiento' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/reloj-inteligente-tiene-whatsapp-no-apple-ni-samsung-cuesta-mitad-1182162'>Este reloj inteligente tiene WhatsApp y no es Apple ni Samsung, y cuesta la mitad</a></h4>
     <a href='https://computerhoy.com/tecnologia/reloj-inteligente-tiene-whatsapp-no-apple-ni-samsung-cuesta-mitad-1182162' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/analisis-ticwatch-pro-3-ultra-2607449.jpg?tf=1200x' alt='Este reloj inteligente tiene WhatsApp y no es Apple ni Samsung, y cuesta la mitad' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/legislacion/microsoft-imita-empresas-como-netflix-estrena-nueva-politica-trabajo-tiempo-libre-ilimitado-1183410'>Microsoft imita a empresas como Netflix y estrena nueva política de trabajo: tiempo libre ilimitado</a></h4>
     <a href='https://computerhoy.com/legislacion/microsoft-imita-empresas-como-netflix-estrena-nueva-politica-trabajo-tiempo-libre-ilimitado-1183410' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/microsoft-estrena-nueva-politica-trabajo-tiempo-libre-ilimitado-2926602.jpg?tf=1200x' alt='Microsoft imita a empresas como Netflix y estrena nueva política de trabajo: tiempo libre ilimitado' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/energia/estudiante-quimica-descubre-casualidad-bateria-eterna-acepta-infinitas-recargas-video-1183428'>Una estudiante de química descubre por casualidad la batería eterna: acepta infinitas recargas (vídeo)</a></h4>
-    <a href='https://computerhoy.com/energia/estudiante-quimica-descubre-casualidad-bateria-eterna-acepta-infinitas-recargas-video-1183428' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/verticalimage1673513204365-2926566.jpg?tf=1200x' alt='Una estudiante de química descubre por casualidad la batería eterna: acepta infinitas recargas (vídeo)' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/movil-poco-buscas-jugar-ahora-70-euros-menos-1182136'>Este móvil de POCO es lo que buscas para jugar, y ahora por 70 euros menos</a></h4>
-    <a href='https://computerhoy.com/tecnologia/movil-poco-buscas-jugar-ahora-70-euros-menos-1182136' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/galeria-review-poco-x4-gt-2760413.jpg?tf=1200x' alt='Este móvil de POCO es lo que buscas para jugar, y ahora por 70 euros menos' />
     </a>
 </div>
 
