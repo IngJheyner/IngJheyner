@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/smartwatches/no-valen-rolex-pero-son-tan-malos-relojes-casio-como-piensa-shakira-1183360'>No valen lo que un Rolex pero: ¿son tan malos los relojes Casio como piensa Shakira?</a></h4>
+    <a href='https://computerhoy.com/smartwatches/no-valen-rolex-pero-son-tan-malos-relojes-casio-como-piensa-shakira-1183360' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/no-valen-rolex-pero-son-tan-malos-relojes-casio-como-piensa-shakira-2926544.jpg?tf=1200x' alt='No valen lo que un Rolex pero: ¿son tan malos los relojes Casio como piensa Shakira?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/relojes-inteligentes-electrocardiograma-ecg-estos-son-mejores-758541'>Relojes que hacen electrocardiogramas (ECG): estos son los mejores y más baratos que puedes comprar</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/relojes-inteligentes-electrocardiograma-ecg-estos-son-mejores-758541' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/apple-watch-series-8-analisis-opinion-2841939.jpg?tf=1200x' alt='Relojes que hacen electrocardiogramas (ECG): estos son los mejores y más baratos que puedes comprar' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-termostatos-inteligentes-1124931'>Mejores termostatos inteligentes: Honeywell, Nest y más modelos</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/mejores-termostatos-inteligentes-1124931' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/google-nest-learning-thermostat-2813899.jpg?tf=1200x' alt='Mejores termostatos inteligentes: Honeywell, Nest y más modelos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/casa-dei-vettii-pompeya-abre-sus-puertas-1183328'>Después de 20 años abre sus puertas la Casa Dei Vettii de Pompeya, una visita solo para adultos llena de pornografía</a></h4>
-    <a href='https://computerhoy.com/ciencia/casa-dei-vettii-pompeya-abre-sus-puertas-1183328' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/despues-20-anos-abre-puertas-casa-dei-vettii-pompeya-visita-solo-adultos-llena-pornografia-2926436.jpg?tf=1200x' alt='Después de 20 años abre sus puertas la Casa Dei Vettii de Pompeya, una visita solo para adultos llena de pornografía' />
     </a>
 </div>
 
