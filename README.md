@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-termostatos-inteligentes-1124931'>Mejores termostatos inteligentes: Honeywell, Nest y más modelos</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-termostatos-inteligentes-1124931' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/google-nest-learning-thermostat-2813899.jpg?tf=1200x' alt='Mejores termostatos inteligentes: Honeywell, Nest y más modelos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/casa-dei-vettii-pompeya-abre-sus-puertas-1183328'>Después de 20 años abre sus puertas la Casa Dei Vettii de Pompeya, una visita solo para adultos llena de pornografía</a></h4>
+    <a href='https://computerhoy.com/ciencia/casa-dei-vettii-pompeya-abre-sus-puertas-1183328' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/despues-20-anos-abre-puertas-casa-dei-vettii-pompeya-visita-solo-adultos-llena-pornografia-2926436.jpg?tf=1200x' alt='Después de 20 años abre sus puertas la Casa Dei Vettii de Pompeya, una visita solo para adultos llena de pornografía' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/estafadores-inteligencia-artificial-emails-phishing-estafas-1183326'>Los estafadores ya están usando la inteligencia artificial para escribe emails de phishing y estafas más convincentes</a></h4>
     <a href='https://computerhoy.com/tecnologia/estafadores-inteligencia-artificial-emails-phishing-estafas-1183326' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/estafadores-ya-estan-usando-inteligencia-artificial-escribe-emails-phishing-estafas-convincentes-2926204.jpg?tf=1200x' alt='Los estafadores ya están usando la inteligencia artificial para escribe emails de phishing y estafas más convincentes' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/msi-pen-2-primer-lapiz-optico-tambien-escribe-papel-1183012'>MSI Pen 2, el primer lápiz óptico que también escribe en papel</a></h4>
     <a href='https://computerhoy.com/tecnologia/msi-pen-2-primer-lapiz-optico-tambien-escribe-papel-1183012' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/msi-pen-2-primer-lapiz-optico-tambien-escribe-papel-2926172.jpg?tf=1200x' alt='MSI Pen 2, el primer lápiz óptico que también escribe en papel' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/donde-ver-series-ganadoras-globo-oro-2023-1183084'>Dónde ver las series ganadoras de los Globo de Oro 2023, ya están todas en streaming</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/donde-ver-series-ganadoras-globo-oro-2023-1183084' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/donde-ver-series-ganadoras-globo-oro-2023-ya-estan-todas-streaming-2926170.jpg?tf=1200x' alt='Dónde ver las series ganadoras de los Globo de Oro 2023, ya están todas en streaming' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/menor-consumo-mayor-duracion-alimentos-invento-mit-neveras-1183004'>Menor consumo y mayor duración de los alimentos: así es el invento del MIT para las neveras</a></h4>
-    <a href='https://computerhoy.com/ciencia/menor-consumo-mayor-duracion-alimentos-invento-mit-neveras-1183004' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/nevera-2926168.jpg?tf=1200x' alt='Menor consumo y mayor duración de los alimentos: así es el invento del MIT para las neveras' />
     </a>
 </div>
 
