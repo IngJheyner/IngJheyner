@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/motor/cargadores-coche-electrico-precio-ganga-lidl-1183576'>Cargadores para coche eléctrico a precio ganga en LIDL</a></h4>
+    <a href='https://computerhoy.com/motor/cargadores-coche-electrico-precio-ganga-lidl-1183576' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/carga-coche-electrico-2922466.jpg?tf=1200x' alt='Cargadores para coche eléctrico a precio ganga en LIDL' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/redes-sociales/subastas-online-nombres-usuario-otra-idea-rocambolesca-elon-musk-salvar-twitter-1183550'>Subastas online de nombres de usuario, otra idea rocambolesca de Elon Musk para salvar Twitter</a></h4>
     <a href='https://computerhoy.com/redes-sociales/subastas-online-nombres-usuario-otra-idea-rocambolesca-elon-musk-salvar-twitter-1183550' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/elon-musk-explica-porque-comprar-twitter-quiere-crear-aplicacion-todo-2833707.jpg?tf=1200x' alt='Subastas online de nombres de usuario, otra idea rocambolesca de Elon Musk para salvar Twitter' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/google/puedes-debes-ocultar-casa-no-salga-google-maps-1183494'>Así puedes y debes ocultar tu casa para que no salga en Google Maps</a></h4>
     <a href='https://computerhoy.com/google/puedes-debes-ocultar-casa-no-salga-google-maps-1183494' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/google-maps-2926710.jpg?tf=1200x' alt='Así puedes y debes ocultar tu casa para que no salga en Google Maps' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/telescopio-james-webb-nasa-suma-sigue-anuncia-primer-gran-descubrimiento-1183444'>El telescopio James Webb de la NASA suma y sigue y anuncia su primer gran descubrimiento</a></h4>
-    <a href='https://computerhoy.com/espacio/telescopio-james-webb-nasa-suma-sigue-anuncia-primer-gran-descubrimiento-1183444' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/telescopio-james-webb-nasa-realiza-primer-gran-descubrimiento-2926618.jpg?tf=1200x' alt='El telescopio James Webb de la NASA suma y sigue y anuncia su primer gran descubrimiento' />
     </a>
 </div>
 
