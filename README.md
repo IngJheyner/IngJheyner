@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/como-tinder-ha-cambiado-aplicaciones-amor-toda-generacion-1182998'>Cómo Tinder ha cambiado las aplicaciones y el amor para toda una generación</a></h4>
+    <a href='https://computerhoy.com/apps/como-tinder-ha-cambiado-aplicaciones-amor-toda-generacion-1182998' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/tinder-2790683.jpg?tf=1200x' alt='Cómo Tinder ha cambiado las aplicaciones y el amor para toda una generación' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/23-noticias-tecnologia-comenzar-manana-informado-ultimo-1183334'>23 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
+    <a href='https://computerhoy.com/tecnologia/23-noticias-tecnologia-comenzar-manana-informado-ultimo-1183334' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/23-noticias-tecnologia-comenzar-manana-informado-ultimo-2926446.jpg?tf=1200x' alt='23 noticias de tecnología para comenzar la mañana informado de lo último' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-termostatos-inteligentes-1124931'>Mejores termostatos inteligentes: Honeywell, Nest y más modelos</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/mejores-termostatos-inteligentes-1124931' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/google-nest-learning-thermostat-2813899.jpg?tf=1200x' alt='Mejores termostatos inteligentes: Honeywell, Nest y más modelos' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/estafadores-inteligencia-artificial-emails-phishing-estafas-1183326'>Los estafadores ya están usando la inteligencia artificial para escribe emails de phishing y estafas más convincentes</a></h4>
     <a href='https://computerhoy.com/tecnologia/estafadores-inteligencia-artificial-emails-phishing-estafas-1183326' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/estafadores-ya-estan-usando-inteligencia-artificial-escribe-emails-phishing-estafas-convincentes-2926204.jpg?tf=1200x' alt='Los estafadores ya están usando la inteligencia artificial para escribe emails de phishing y estafas más convincentes' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/gaming/consola-ps5-stock-dos-juegos-buen-precio-1183090'>Si buscas una PS5 a buen precio, esta es tu oportunidad: stock con dos juegos geniales y sin sobreprecio</a></h4>
-    <a href='https://computerhoy.com/gaming/consola-ps5-stock-dos-juegos-buen-precio-1183090' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/buscas-ps5-buen-precio-oportunidad-stock-dos-juegos-exclusivos-sobreprecio-2926200.jpg?tf=1200x' alt='Si buscas una PS5 a buen precio, esta es tu oportunidad: stock con dos juegos geniales y sin sobreprecio' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/msi-pen-2-primer-lapiz-optico-tambien-escribe-papel-1183012'>MSI Pen 2, el primer lápiz óptico que también escribe en papel</a></h4>
-    <a href='https://computerhoy.com/tecnologia/msi-pen-2-primer-lapiz-optico-tambien-escribe-papel-1183012' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/msi-pen-2-primer-lapiz-optico-tambien-escribe-papel-2926172.jpg?tf=1200x' alt='MSI Pen 2, el primer lápiz óptico que también escribe en papel' />
     </a>
 </div>
 
