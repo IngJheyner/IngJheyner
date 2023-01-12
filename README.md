@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/espacio/rueda-bici-inventada-nasa-no-puede-pinchar-1183484'>Así es la rueda de bici inventada por la NASA que no puede pinchar</a></h4>
+    <a href='https://computerhoy.com/espacio/rueda-bici-inventada-nasa-no-puede-pinchar-1183484' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/rueda-bicileta-nasa-2926756.jpg?tf=1200x' alt='Así es la rueda de bici inventada por la NASA que no puede pinchar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/criptos/sucedera-criptomonedas-2023-estas-son-algunas-predicciones-expertos-1183472'>¿Qué sucederá con las criptomonedas en 2023? estas son algunas predicciones de los expertos</a></h4>
+    <a href='https://computerhoy.com/criptos/sucedera-criptomonedas-2023-estas-son-algunas-predicciones-expertos-1183472' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/sucedera-criptomonedas-2023-estas-son-algunas-predicciones-expertos-2926656.jpg?tf=1200x' alt='¿Qué sucederá con las criptomonedas en 2023? estas son algunas predicciones de los expertos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/google/puedes-debes-ocultar-casa-no-salga-google-maps-1183494'>Así puedes y debes ocultar tu casa para que no salga en Google Maps</a></h4>
     <a href='https://computerhoy.com/google/puedes-debes-ocultar-casa-no-salga-google-maps-1183494' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/google-maps-2926710.jpg?tf=1200x' alt='Así puedes y debes ocultar tu casa para que no salga en Google Maps' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/reloj-inteligente-tiene-whatsapp-no-apple-ni-samsung-cuesta-mitad-1182162'>Este reloj inteligente tiene WhatsApp y no es Apple ni Samsung, y cuesta la mitad</a></h4>
     <a href='https://computerhoy.com/tecnologia/reloj-inteligente-tiene-whatsapp-no-apple-ni-samsung-cuesta-mitad-1182162' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/analisis-ticwatch-pro-3-ultra-2607449.jpg?tf=1200x' alt='Este reloj inteligente tiene WhatsApp y no es Apple ni Samsung, y cuesta la mitad' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/explota-bateria-pleno-vuelo-eso-prohibido-viajar-power-bank-1183462'>Así explota una batería en pleno vuelo: por eso está prohibido viajar con Power Bank</a></h4>
-    <a href='https://computerhoy.com/life/explota-bateria-pleno-vuelo-eso-prohibido-viajar-power-bank-1183462' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/modo-avion-2820515.jpg?tf=1200x' alt='Así explota una batería en pleno vuelo: por eso está prohibido viajar con Power Bank' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/legislacion/microsoft-imita-empresas-como-netflix-estrena-nueva-politica-trabajo-tiempo-libre-ilimitado-1183410'>Microsoft imita a empresas como Netflix y estrena nueva política de trabajo: tiempo libre ilimitado</a></h4>
-    <a href='https://computerhoy.com/legislacion/microsoft-imita-empresas-como-netflix-estrena-nueva-politica-trabajo-tiempo-libre-ilimitado-1183410' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/microsoft-estrena-nueva-politica-trabajo-tiempo-libre-ilimitado-2926602.jpg?tf=1200x' alt='Microsoft imita a empresas como Netflix y estrena nueva política de trabajo: tiempo libre ilimitado' />
     </a>
 </div>
 
