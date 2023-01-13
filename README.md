@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/cuanto-cuesta-netflix-disney-hbo-max-prime-video-skyshowtime-plataformas-television-streaming-2023-1183914'>Cuánto cuesta Netflix, Disney+, HBO Max, Prime Video, SkyShowtime, y el resto de plataformas de televisión en streaming en 2023</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/cuanto-cuesta-netflix-disney-hbo-max-prime-video-skyshowtime-plataformas-television-streaming-2023-1183914' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/cuanto-cuesta-netflix-disney-hbo-max-prime-video-skyshowtime-resto-plataformas-streaming-2023-2927180.jpg?tf=1200x' alt='Cuánto cuesta Netflix, Disney+, HBO Max, Prime Video, SkyShowtime, y el resto de plataformas de televisión en streaming en 2023' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/perifericos/ssd-portatil-500-gb-blindando-golpes-caidas-oferta-1183710'>Este pequeño SSD portátil de 500 GB, blindando contra golpes y caídas, solo cuesta 58 euros</a></h4>
     <a href='https://computerhoy.com/perifericos/ssd-portatil-500-gb-blindando-golpes-caidas-oferta-1183710' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/pequeno-ssd-portatil-500-gb-blindando-golpes-caidas-solo-cuesta-58-euros-2927174.jpg?tf=1200x' alt='Este pequeño SSD portátil de 500 GB, blindando contra golpes y caídas, solo cuesta 58 euros' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/streaming/funciona-nuevo-tdt-channels-player-debes-hacer-instalarlo-1183702'>Así funciona el nuevo TDT Channels Player y lo que debes hacer para instalarlo</a></h4>
     <a href='https://computerhoy.com/streaming/funciona-nuevo-tdt-channels-player-debes-hacer-instalarlo-1183702' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/tdt-channels-player-2927142.jpg?tf=1200x' alt='Así funciona el nuevo TDT Channels Player y lo que debes hacer para instalarlo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/streaming/3-infracciones-netflix-podria-cerrarte-cuenta-siempre-1183700'>3 infracciones con las que Netflix podría cerrarte la cuenta para siempre</a></h4>
-    <a href='https://computerhoy.com/streaming/3-infracciones-netflix-podria-cerrarte-cuenta-siempre-1183700' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/netflix-app-tv-2682771.jpg?tf=1200x' alt='3 infracciones con las que Netflix podría cerrarte la cuenta para siempre' />
     </a>
 </div>
 
