@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/criptos/bitcoin-empieza-salir-crisis-hay-varias-razones-entender-situacion-1184244'>El Bitcoin empieza a salir de su crisis, y hay varias razones para entender la situación</a></h4>
+    <a href='https://computerhoy.com/criptos/bitcoin-empieza-salir-crisis-hay-varias-razones-entender-situacion-1184244' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/bitcoin-2928088.jpg?tf=1200x' alt='El Bitcoin empieza a salir de su crisis, y hay varias razones para entender la situación' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/gana-shakira-bizarrap-cada-vez-escuchas-bzrp-music-sessions-53-1184240'>Lo que gana Shakira y Bizarrap cada vez que escuchas BZRP Music Sessions #53</a></h4>
+    <a href='https://computerhoy.com/life/gana-shakira-bizarrap-cada-vez-escuchas-bzrp-music-sessions-53-1184240' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/bzrp-music-sessions-53-shakira-bizarrap-2928074.jpg?tf=1200x' alt='Lo que gana Shakira y Bizarrap cada vez que escuchas BZRP Music Sessions #53' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/redes-sociales/desahucian-sedes-twitter-no-pagar-alquiler-cierran-nuevos-edificios-1184236'>Desahucian a Twitter de varias sedes por no pagar el alquiler, y cierran nuevos edificios</a></h4>
     <a href='https://computerhoy.com/redes-sociales/desahucian-sedes-twitter-no-pagar-alquiler-cierran-nuevos-edificios-1184236' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/elon-musk-cierra-doce-sedes-twitter-incluida-espana-desahucian-varias-edificios-2928044.jpg?tf=1200x' alt='Desahucian a Twitter de varias sedes por no pagar el alquiler, y cierran nuevos edificios' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/sistema-reconocimiento-facial-policia-nacional-listo-funcionara-1184186'>El sistema de reconocimiento facial de la Policía Nacional está listo: así funcionará</a></h4>
     <a href='https://computerhoy.com/tecnologia/sistema-reconocimiento-facial-policia-nacional-listo-funcionara-1184186' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/06/reconocimiento-facial-1961415.jpg?tf=1200x' alt='El sistema de reconocimiento facial de la Policía Nacional está listo: así funcionará' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/streaming/twitch-banea-neuro-sama-ia-racista-amaso-popularidad-streaming-1184184'>Twitch banea a Neuro-Sama: así es la IA racista que amasó popularidad en streaming</a></h4>
-    <a href='https://computerhoy.com/streaming/twitch-banea-neuro-sama-ia-racista-amaso-popularidad-streaming-1184184' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/twitch-banea-neuro-sama-ia-racista-amaso-popularidad-streaming-2928016.jpg?tf=1200x' alt='Twitch banea a Neuro-Sama: así es la IA racista que amasó popularidad en streaming' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/guia-compra/ssd'>¿Cuál es el mejor disco SSD? Guía para compra el mejor modelo de 2023</a></h4>
-    <a href='https://computerhoy.com/guia-compra/ssd' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/persona-utilizando-portatil-unidad-ssd-conectada-diferentes-tarjetas-sd-2926926.jpg?tf=1200x' alt='¿Cuál es el mejor disco SSD? Guía para compra el mejor modelo de 2023' />
     </a>
 </div>
 
