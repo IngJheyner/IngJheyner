@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/tablet-cost-huawei-lapiz-oferta-1182290'>Esta tablet low cost de Huawei viene con lápiz y es perfecta para dibujar a un precio muy sorprendente</a></h4>
+    <a href='https://computerhoy.com/tecnologia/tablet-cost-huawei-lapiz-oferta-1182290' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/07/huawei-matepad-104-2014987.jpg?tf=1200x' alt='Esta tablet low cost de Huawei viene con lápiz y es perfecta para dibujar a un precio muy sorprendente' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciencia/cientificos-harvard-descubren-desvelan-superburbuja-magnetica-existimos-actualmente-1183988'>Científicos de Harvard descubren y desvelan la superburbuja magnética por la que existimos actualmente</a></h4>
     <a href='https://computerhoy.com/ciencia/cientificos-harvard-descubren-desvelan-superburbuja-magnetica-existimos-actualmente-1183988' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/burbuja-magnetica-2927570.jpg?tf=1200x' alt='Científicos de Harvard descubren y desvelan la superburbuja magnética por la que existimos actualmente' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/motor/tesla-baja-precio-coches-avalancha-modelos-chinos-mercado-europeo-1183958'>Tesla baja el precio de sus coches tras la avalancha de modelos chinos en el mercado europeo</a></h4>
     <a href='https://computerhoy.com/motor/tesla-baja-precio-coches-avalancha-modelos-chinos-mercado-europeo-1183958' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/tesla-model-3-2022-2562323.jpg?tf=1200x' alt='Tesla baja el precio de sus coches tras la avalancha de modelos chinos en el mercado europeo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/inflacion-pospandemia-afecta-incluso-gigante-apple-recortaran-40-sueldo-ceo-tim-cook-1183956'>La inflación pospandemia afecta incluso al gigante Apple, recortarán un 40% el sueldo de su CEO Tim Cook</a></h4>
-    <a href='https://computerhoy.com/apple/inflacion-pospandemia-afecta-incluso-gigante-apple-recortaran-40-sueldo-ceo-tim-cook-1183956' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/tim-cook-ceo-apple-2914466.jpg?tf=1200x' alt='La inflación pospandemia afecta incluso al gigante Apple, recortarán un 40% el sueldo de su CEO Tim Cook' />
     </a>
 </div>
 
