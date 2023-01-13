@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/peliculas-ver-fin-semana-netflix-movistarplus-hbo-max-jurassic-world-3-musical-madre-coraje-1184010'>Qué películas ver este fin de semana en Netflix, MovistarPlus+ y HBO Max: Jurassic World 3, un musical y una madre coraje</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/peliculas-ver-fin-semana-netflix-movistarplus-hbo-max-jurassic-world-3-musical-madre-coraje-1184010' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/peliculas-ver-fin-semana-netflix-movistarplus-hbo-max-jurassic-world-3-musical-madre-coraje-2927586.jpg?tf=1200x' alt='Qué películas ver este fin de semana en Netflix, MovistarPlus+ y HBO Max: Jurassic World 3, un musical y una madre coraje' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciencia/lengua-bionica-ayudando-conseguir-mejor-chocolate-1184138'>La lengua biónica que está ayudando a conseguir un mejor chocolate</a></h4>
     <a href='https://computerhoy.com/ciencia/lengua-bionica-ayudando-conseguir-mejor-chocolate-1184138' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/comer-chocolate-2683147.jpg?tf=1200x' alt='La lengua biónica que está ayudando a conseguir un mejor chocolate' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/apple/estrategia-siguio-steve-jobs-despedir-4000-personas-cuando-regreso-apple-1184024'>Esta es la estrategia que siguió Steve Jobs para despedir a más de 4.000 personas cuando regresó a Apple</a></h4>
     <a href='https://computerhoy.com/apple/estrategia-siguio-steve-jobs-despedir-4000-personas-cuando-regreso-apple-1184024' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/steve-jobs-2881055.jpg?tf=1200x' alt='Esta es la estrategia que siguió Steve Jobs para despedir a más de 4.000 personas cuando regresó a Apple' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/tablet-cost-huawei-lapiz-oferta-1182290'>Esta tablet low cost de Huawei viene con lápiz y es perfecta para dibujar a un precio muy sorprendente</a></h4>
-    <a href='https://computerhoy.com/tecnologia/tablet-cost-huawei-lapiz-oferta-1182290' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/07/huawei-matepad-104-2014987.jpg?tf=1200x' alt='Esta tablet low cost de Huawei viene con lápiz y es perfecta para dibujar a un precio muy sorprendente' />
     </a>
 </div>
 
