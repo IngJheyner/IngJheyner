@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/guia-compra/bascula-inteligente-953625'>Guía y consejos para comprar una báscula inteligente con medidor de grasa corporal</a></h4>
+    <a href='https://computerhoy.com/guia-compra/bascula-inteligente-953625' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/09/cecotec-surface-precision-9600-smart-healthy-2064575.jpg?tf=1200x' alt='Guía y consejos para comprar una báscula inteligente con medidor de grasa corporal' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/inteligencia-artificial-podria-ser-quien-acepte-descarte-cv-proxima-entrevista-trabajo-1183508'>Una inteligencia artificial podría ser quien acepte o descarte tu CV en tu próxima entrevista de trabajo</a></h4>
+    <a href='https://computerhoy.com/tecnologia/inteligencia-artificial-podria-ser-quien-acepte-descarte-cv-proxima-entrevista-trabajo-1183508' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/inteligencia-artificial-podria-ser-quien-acepte-descarte-cv-proxima-entrevista-trabajo-2926786.jpg?tf=1200x' alt='Una inteligencia artificial podría ser quien acepte o descarte tu CV en tu próxima entrevista de trabajo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/28-noticias-tecnologia-comenzar-manana-informado-ultimo-1183916'>28 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
     <a href='https://computerhoy.com/tecnologia/28-noticias-tecnologia-comenzar-manana-informado-ultimo-1183916' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/28-noticias-tecnologia-comenzar-manana-informado-ultimo-2927370.jpg?tf=1200x' alt='28 noticias de tecnología para comenzar la mañana informado de lo último' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/entretenimiento/cuanto-cuesta-netflix-disney-hbo-max-prime-video-skyshowtime-plataformas-television-streaming-2023-1183914'>Cuánto cuesta Netflix, Disney+, HBO Max, Prime Video, SkyShowtime, y el resto de plataformas de televisión en streaming en 2023</a></h4>
     <a href='https://computerhoy.com/entretenimiento/cuanto-cuesta-netflix-disney-hbo-max-prime-video-skyshowtime-plataformas-television-streaming-2023-1183914' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/cuanto-cuesta-netflix-disney-hbo-max-prime-video-skyshowtime-resto-plataformas-streaming-2023-2927180.jpg?tf=1200x' alt='Cuánto cuesta Netflix, Disney+, HBO Max, Prime Video, SkyShowtime, y el resto de plataformas de televisión en streaming en 2023' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/perifericos/ssd-portatil-500-gb-blindando-golpes-caidas-oferta-1183710'>Este pequeño SSD portátil de 500 GB, blindando contra golpes y caídas, solo cuesta 58 euros</a></h4>
-    <a href='https://computerhoy.com/perifericos/ssd-portatil-500-gb-blindando-golpes-caidas-oferta-1183710' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/pequeno-ssd-portatil-500-gb-blindando-golpes-caidas-solo-cuesta-58-euros-2927174.jpg?tf=1200x' alt='Este pequeño SSD portátil de 500 GB, blindando contra golpes y caídas, solo cuesta 58 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/google-home-anade-funcion-dejaras-usar-mando-tele-1183648'>Google Home añade una función con la que dejarás de usar el mando de la tele</a></h4>
-    <a href='https://computerhoy.com/apps/google-home-anade-funcion-dejaras-usar-mando-tele-1183648' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/google-home-anade-funcion-dejaras-usar-mando-tele-2927046.jpg?tf=1200x' alt='Google Home añade una función con la que dejarás de usar el mando de la tele' />
     </a>
 </div>
 
