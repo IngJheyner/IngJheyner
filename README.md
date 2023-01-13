@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/sistema-reconocimiento-facial-policia-nacional-listo-funcionara-1184186'>El sistema de reconocimiento facial de la Policía Nacional está listo: así funcionará</a></h4>
+    <a href='https://computerhoy.com/tecnologia/sistema-reconocimiento-facial-policia-nacional-listo-funcionara-1184186' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/06/reconocimiento-facial-1961415.jpg?tf=1200x' alt='El sistema de reconocimiento facial de la Policía Nacional está listo: así funcionará' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/streaming/twitch-banea-neuro-sama-ia-racista-amaso-popularidad-streaming-1184184'>Twitch banea a Neuro-Sama: así es la IA racista que amasó popularidad en streaming</a></h4>
     <a href='https://computerhoy.com/streaming/twitch-banea-neuro-sama-ia-racista-amaso-popularidad-streaming-1184184' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/twitch-banea-neuro-sama-ia-racista-amaso-popularidad-streaming-2928016.jpg?tf=1200x' alt='Twitch banea a Neuro-Sama: así es la IA racista que amasó popularidad en streaming' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/software/mejores-programas-grabar-pantalla-tu-ordenador-78099'>Los mejores programas para grabar la pantalla de tu ordenador en 2023</a></h4>
     <a href='https://computerhoy.com/noticias/software/mejores-programas-grabar-pantalla-tu-ordenador-78099' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/portatil-2229285.jpg?tf=1200x' alt='Los mejores programas para grabar la pantalla de tu ordenador en 2023' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/series-ver-fin-semana-netflix-hbo-max-prime-video-vikingos-fantasmas-vampiros-1184144'>Qué series ver este fin de semana en Netflix, HBO Max y Prime Video: vikingos, fantasmas y vampiros</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/series-ver-fin-semana-netflix-hbo-max-prime-video-vikingos-fantasmas-vampiros-1184144' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/vikingos-valhalla-2927908.jpg?tf=1200x' alt='Qué series ver este fin de semana en Netflix, HBO Max y Prime Video: vikingos, fantasmas y vampiros' />
     </a>
 </div>
 
