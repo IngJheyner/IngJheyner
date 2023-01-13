@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/inteligencia-artificial-podria-ser-quien-acepte-descarte-cv-proxima-entrevista-trabajo-1183508'>Una inteligencia artificial podría ser quien acepte o descarte tu CV en tu próxima entrevista de trabajo</a></h4>
-    <a href='https://computerhoy.com/tecnologia/inteligencia-artificial-podria-ser-quien-acepte-descarte-cv-proxima-entrevista-trabajo-1183508' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/inteligencia-artificial-podria-ser-quien-acepte-descarte-cv-proxima-entrevista-trabajo-2926786.jpg?tf=1200x' alt='Una inteligencia artificial podría ser quien acepte o descarte tu CV en tu próxima entrevista de trabajo' />
+    <h4><a href='https://computerhoy.com/tecnologia/google-va-amazon-chromecast-rebajados-debajo-precio-fire-tv-stick-1183396'>Google va a por Amazon con sus Chromecast, rebajados por debajo del precio de los Fire TV Stick</a></h4>
+    <a href='https://computerhoy.com/tecnologia/google-va-amazon-chromecast-rebajados-debajo-precio-fire-tv-stick-1183396' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/google-chromecast-2926538.jpg?tf=1200x' alt='Google va a por Amazon con sus Chromecast, rebajados por debajo del precio de los Fire TV Stick' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/28-noticias-tecnologia-comenzar-manana-informado-ultimo-1183916'>28 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
-    <a href='https://computerhoy.com/tecnologia/28-noticias-tecnologia-comenzar-manana-informado-ultimo-1183916' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/28-noticias-tecnologia-comenzar-manana-informado-ultimo-2927370.jpg?tf=1200x' alt='28 noticias de tecnología para comenzar la mañana informado de lo último' />
+    <h4><a href='https://computerhoy.com/motor/tesla-baja-precio-coches-avalancha-modelos-chinos-mercado-europeo-1183958'>Tesla baja el precio de sus coches tras la avalancha de modelos chinos en el mercado europeo</a></h4>
+    <a href='https://computerhoy.com/motor/tesla-baja-precio-coches-avalancha-modelos-chinos-mercado-europeo-1183958' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/tesla-model-3-2022-2562323.jpg?tf=1200x' alt='Tesla baja el precio de sus coches tras la avalancha de modelos chinos en el mercado europeo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/listas/tecnologia/mejores-routers-2019-rango-precio-361681'>Los mejores routers de 2023 por rango de precio</a></h4>
-    <a href='https://computerhoy.com/listas/tecnologia/mejores-routers-2019-rango-precio-361681' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/router-wifi-2798907.jpg?tf=1200x' alt='Los mejores routers de 2023 por rango de precio' />
+    <h4><a href='https://computerhoy.com/apple/inflacion-pospandemia-afecta-incluso-gigante-apple-recortaran-40-sueldo-ceo-tim-cook-1183956'>La inflación pospandemia afecta incluso al gigante Apple, recortarán un 40% el sueldo de su CEO Tim Cook</a></h4>
+    <a href='https://computerhoy.com/apple/inflacion-pospandemia-afecta-incluso-gigante-apple-recortaran-40-sueldo-ceo-tim-cook-1183956' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/tim-cook-ceo-apple-2914466.jpg?tf=1200x' alt='La inflación pospandemia afecta incluso al gigante Apple, recortarán un 40% el sueldo de su CEO Tim Cook' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/cuanto-cuesta-netflix-disney-hbo-max-prime-video-skyshowtime-plataformas-television-streaming-2023-1183914'>Cuánto cuesta Netflix, Disney+, HBO Max, Prime Video, SkyShowtime, y el resto de plataformas de televisión en streaming en 2023</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/cuanto-cuesta-netflix-disney-hbo-max-prime-video-skyshowtime-plataformas-television-streaming-2023-1183914' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/cuanto-cuesta-netflix-disney-hbo-max-prime-video-skyshowtime-resto-plataformas-streaming-2023-2927180.jpg?tf=1200x' alt='Cuánto cuesta Netflix, Disney+, HBO Max, Prime Video, SkyShowtime, y el resto de plataformas de televisión en streaming en 2023' />
+    <h4><a href='https://computerhoy.com/apps/portableapps-231-450-aplicaciones-gratuitas-puedes-llevar-pendrive-1183624'>Así es PortableApps 23.1, más de 450 aplicaciones gratuitas que puedes llevar en un pendrive</a></h4>
+    <a href='https://computerhoy.com/apps/portableapps-231-450-aplicaciones-gratuitas-puedes-llevar-pendrive-1183624' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/pendrive-portable-apps-2927042.jpg?tf=1200x' alt='Así es PortableApps 23.1, más de 450 aplicaciones gratuitas que puedes llevar en un pendrive' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/perifericos/ssd-portatil-500-gb-blindando-golpes-caidas-oferta-1183710'>Este pequeño SSD portátil de 500 GB, blindando contra golpes y caídas, solo cuesta 58 euros</a></h4>
-    <a href='https://computerhoy.com/perifericos/ssd-portatil-500-gb-blindando-golpes-caidas-oferta-1183710' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/pequeno-ssd-portatil-500-gb-blindando-golpes-caidas-solo-cuesta-58-euros-2927174.jpg?tf=1200x' alt='Este pequeño SSD portátil de 500 GB, blindando contra golpes y caídas, solo cuesta 58 euros' />
+    <h4><a href='https://computerhoy.com/guia-compra/bascula-inteligente-953625'>Guía y consejos para comprar una báscula inteligente con medidor de grasa corporal</a></h4>
+    <a href='https://computerhoy.com/guia-compra/bascula-inteligente-953625' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/09/cecotec-surface-precision-9600-smart-healthy-2064575.jpg?tf=1200x' alt='Guía y consejos para comprar una báscula inteligente con medidor de grasa corporal' />
     </a>
 </div>
 
