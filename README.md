@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/trabajo-tendra-salidas-laborales-2023-1184100'>Este es el trabajo que tendrá más salidas laborales en 2023</a></h4>
+    <a href='https://computerhoy.com/tecnologia/trabajo-tendra-salidas-laborales-2023-1184100' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/trabajo-tendra-salidas-laborales-2023-2927856.jpg?tf=1200x' alt='Este es el trabajo que tendrá más salidas laborales en 2023' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apps/twitter-caido-tema-api-ha-roto-conexion-tweetbot-otros-clientes-terceros-1184022'>¿Twitter caído? Es tema de su API y ha roto la conexión de Tweetbot y otros clientes de terceros</a></h4>
     <a href='https://computerhoy.com/apps/twitter-caido-tema-api-ha-roto-conexion-tweetbot-otros-clientes-terceros-1184022' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/twitter-2676209.jpg?tf=1200x' alt='¿Twitter caído? Es tema de su API y ha roto la conexión de Tweetbot y otros clientes de terceros' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/ciencia/cientificos-harvard-descubren-desvelan-superburbuja-magnetica-existimos-actualmente-1183988'>Científicos de Harvard descubren y desvelan la superburbuja magnética por la que existimos actualmente</a></h4>
     <a href='https://computerhoy.com/ciencia/cientificos-harvard-descubren-desvelan-superburbuja-magnetica-existimos-actualmente-1183988' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/burbuja-magnetica-2927570.jpg?tf=1200x' alt='Científicos de Harvard descubren y desvelan la superburbuja magnética por la que existimos actualmente' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/drone-chino-capaz-permanecer-aire-indefinidamente-gracias-carga-rayos-laser-1183982'>Así es el drone chino capaz de permanecer en el aire indefinidamente gracias a la carga con rayos láser</a></h4>
-    <a href='https://computerhoy.com/tecnologia/drone-chino-capaz-permanecer-aire-indefinidamente-gracias-carga-rayos-laser-1183982' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/drone-chino-puede-volar-indefinidamente-cargan-laser-2927536.jpg?tf=1200x' alt='Así es el drone chino capaz de permanecer en el aire indefinidamente gracias a la carga con rayos láser' />
     </a>
 </div>
 
