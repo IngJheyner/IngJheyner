@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/redes-sociales/desahucian-sedes-twitter-no-pagar-alquiler-cierran-nuevos-edificios-1184236'>Desahucian a Twitter de varias sedes por no pagar el alquiler, y cierran nuevos edificios</a></h4>
+    <a href='https://computerhoy.com/redes-sociales/desahucian-sedes-twitter-no-pagar-alquiler-cierran-nuevos-edificios-1184236' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/elon-musk-cierra-doce-sedes-twitter-incluida-espana-desahucian-varias-edificios-2928044.jpg?tf=1200x' alt='Desahucian a Twitter de varias sedes por no pagar el alquiler, y cierran nuevos edificios' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/7-mejores-aplicaciones-tomar-notas-forma-creativa-android-ios-pc-1184226'>Las 7 mejores aplicaciones para tomar notas de forma creativa en Android, iOS y PC</a></h4>
+    <a href='https://computerhoy.com/apps/7-mejores-aplicaciones-tomar-notas-forma-creativa-android-ios-pc-1184226' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/7-mejores-aplicaciones-tomar-notas-forma-creativa-android-ios-pc-2928066.jpg?tf=1200x' alt='Las 7 mejores aplicaciones para tomar notas de forma creativa en Android, iOS y PC' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/sistema-reconocimiento-facial-policia-nacional-listo-funcionara-1184186'>El sistema de reconocimiento facial de la Policía Nacional está listo: así funcionará</a></h4>
     <a href='https://computerhoy.com/tecnologia/sistema-reconocimiento-facial-policia-nacional-listo-funcionara-1184186' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/06/reconocimiento-facial-1961415.jpg?tf=1200x' alt='El sistema de reconocimiento facial de la Policía Nacional está listo: así funcionará' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/guia-compra/ssd'>¿Cuál es el mejor disco SSD? Guía para compra el mejor modelo de 2023</a></h4>
     <a href='https://computerhoy.com/guia-compra/ssd' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/persona-utilizando-portatil-unidad-ssd-conectada-diferentes-tarjetas-sd-2926926.jpg?tf=1200x' alt='¿Cuál es el mejor disco SSD? Guía para compra el mejor modelo de 2023' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/fotografia-mayor-resolucion-luna-has-sido-hecha-tierra-1184182'>Esta es la fotografía con mayor resolución de la Luna y has sido hecha desde la Tierra</a></h4>
-    <a href='https://computerhoy.com/espacio/fotografia-mayor-resolucion-luna-has-sido-hecha-tierra-1184182' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/fotografia-mayor-resolucion-luna-has-sido-hecha-tierra-2927980.jpg?tf=1200x' alt='Esta es la fotografía con mayor resolución de la Luna y has sido hecha desde la Tierra' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/software/mejores-programas-grabar-pantalla-tu-ordenador-78099'>Los mejores programas para grabar la pantalla de tu ordenador en 2023</a></h4>
-    <a href='https://computerhoy.com/noticias/software/mejores-programas-grabar-pantalla-tu-ordenador-78099' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/portatil-2229285.jpg?tf=1200x' alt='Los mejores programas para grabar la pantalla de tu ordenador en 2023' />
     </a>
 </div>
 
