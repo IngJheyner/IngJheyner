@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/lengua-bionica-ayudando-conseguir-mejor-chocolate-1184138'>La lengua biónica que está ayudando a conseguir un mejor chocolate</a></h4>
+    <a href='https://computerhoy.com/ciencia/lengua-bionica-ayudando-conseguir-mejor-chocolate-1184138' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/comer-chocolate-2683147.jpg?tf=1200x' alt='La lengua biónica que está ayudando a conseguir un mejor chocolate' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/trabajo-tendra-salidas-laborales-2023-1184100'>Este es el trabajo que tendrá más salidas laborales en 2023</a></h4>
     <a href='https://computerhoy.com/tecnologia/trabajo-tendra-salidas-laborales-2023-1184100' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/trabajo-tendra-salidas-laborales-2023-2927856.jpg?tf=1200x' alt='Este es el trabajo que tendrá más salidas laborales en 2023' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/tablet-cost-huawei-lapiz-oferta-1182290'>Esta tablet low cost de Huawei viene con lápiz y es perfecta para dibujar a un precio muy sorprendente</a></h4>
     <a href='https://computerhoy.com/tecnologia/tablet-cost-huawei-lapiz-oferta-1182290' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/07/huawei-matepad-104-2014987.jpg?tf=1200x' alt='Esta tablet low cost de Huawei viene con lápiz y es perfecta para dibujar a un precio muy sorprendente' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/cientificos-harvard-descubren-desvelan-superburbuja-magnetica-existimos-actualmente-1183988'>Científicos de Harvard descubren y desvelan la superburbuja magnética por la que existimos actualmente</a></h4>
-    <a href='https://computerhoy.com/ciencia/cientificos-harvard-descubren-desvelan-superburbuja-magnetica-existimos-actualmente-1183988' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/burbuja-magnetica-2927570.jpg?tf=1200x' alt='Científicos de Harvard descubren y desvelan la superburbuja magnética por la que existimos actualmente' />
     </a>
 </div>
 
