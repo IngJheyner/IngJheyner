@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/streaming/twitch-banea-neuro-sama-ia-racista-amaso-popularidad-streaming-1184184'>Twitch banea a Neuro-Sama: así es la IA racista que amasó popularidad en streaming</a></h4>
+    <a href='https://computerhoy.com/streaming/twitch-banea-neuro-sama-ia-racista-amaso-popularidad-streaming-1184184' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/twitch-banea-neuro-sama-ia-racista-amaso-popularidad-streaming-2928016.jpg?tf=1200x' alt='Twitch banea a Neuro-Sama: así es la IA racista que amasó popularidad en streaming' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/guia-compra/ssd'>¿Cuál es el mejor disco SSD? Guía para compra el mejor modelo de 2023</a></h4>
+    <a href='https://computerhoy.com/guia-compra/ssd' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/persona-utilizando-portatil-unidad-ssd-conectada-diferentes-tarjetas-sd-2926926.jpg?tf=1200x' alt='¿Cuál es el mejor disco SSD? Guía para compra el mejor modelo de 2023' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/espacio/fotografia-mayor-resolucion-luna-has-sido-hecha-tierra-1184182'>Esta es la fotografía con mayor resolución de la Luna y has sido hecha desde la Tierra</a></h4>
+    <a href='https://computerhoy.com/espacio/fotografia-mayor-resolucion-luna-has-sido-hecha-tierra-1184182' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/fotografia-mayor-resolucion-luna-has-sido-hecha-tierra-2927980.jpg?tf=1200x' alt='Esta es la fotografía con mayor resolución de la Luna y has sido hecha desde la Tierra' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/software/mejores-programas-grabar-pantalla-tu-ordenador-78099'>Los mejores programas para grabar la pantalla de tu ordenador en 2023</a></h4>
     <a href='https://computerhoy.com/noticias/software/mejores-programas-grabar-pantalla-tu-ordenador-78099' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/portatil-2229285.jpg?tf=1200x' alt='Los mejores programas para grabar la pantalla de tu ordenador en 2023' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/entretenimiento/series-ver-fin-semana-netflix-hbo-max-prime-video-vikingos-fantasmas-vampiros-1184144'>Qué series ver este fin de semana en Netflix, HBO Max y Prime Video: vikingos, fantasmas y vampiros</a></h4>
     <a href='https://computerhoy.com/entretenimiento/series-ver-fin-semana-netflix-hbo-max-prime-video-vikingos-fantasmas-vampiros-1184144' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/vikingos-valhalla-2927908.jpg?tf=1200x' alt='Qué series ver este fin de semana en Netflix, HBO Max y Prime Video: vikingos, fantasmas y vampiros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/peliculas-ver-fin-semana-netflix-movistarplus-hbo-max-jurassic-world-3-musical-madre-coraje-1184010'>Qué películas ver este fin de semana en Netflix, MovistarPlus+ y HBO Max: Jurassic World 3, un musical y una madre coraje</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/peliculas-ver-fin-semana-netflix-movistarplus-hbo-max-jurassic-world-3-musical-madre-coraje-1184010' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/peliculas-ver-fin-semana-netflix-movistarplus-hbo-max-jurassic-world-3-musical-madre-coraje-2927586.jpg?tf=1200x' alt='Qué películas ver este fin de semana en Netflix, MovistarPlus+ y HBO Max: Jurassic World 3, un musical y una madre coraje' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/lengua-bionica-ayudando-conseguir-mejor-chocolate-1184138'>La lengua biónica que está ayudando a conseguir un mejor chocolate</a></h4>
-    <a href='https://computerhoy.com/ciencia/lengua-bionica-ayudando-conseguir-mejor-chocolate-1184138' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/comer-chocolate-2683147.jpg?tf=1200x' alt='La lengua biónica que está ayudando a conseguir un mejor chocolate' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/trabajo-tendra-salidas-laborales-2023-1184100'>Este es el trabajo que tendrá más salidas laborales en 2023</a></h4>
-    <a href='https://computerhoy.com/tecnologia/trabajo-tendra-salidas-laborales-2023-1184100' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/trabajo-tendra-salidas-laborales-2023-2927856.jpg?tf=1200x' alt='Este es el trabajo que tendrá más salidas laborales en 2023' />
     </a>
 </div>
 
