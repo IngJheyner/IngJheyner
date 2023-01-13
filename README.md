@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/minx-hbo-max-emigra-starz-1184252'>Algunas de las series canceladas por HBO Max están encontrando nueva casa con rapidez</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/minx-hbo-max-emigra-starz-1184252' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/algunas-series-canceladas-hbo-max-estan-encontrando-nueva-casa-rapidez-2928100.jpg?tf=1200x' alt='Algunas de las series canceladas por HBO Max están encontrando nueva casa con rapidez' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/sencillo-truco-te-permitira-detectar-camaras-espia-solo-necesitaras-movil-1184242'>Este sencillo truco te permitirá detectar cámaras espía y solo necesitarás tu móvil</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/sencillo-truco-te-permitira-detectar-camaras-espia-solo-necesitaras-movil-1184242' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/xiaomi-12t-pro-camaras-2891380.jpg?tf=1200x' alt='Este sencillo truco te permitirá detectar cámaras espía y solo necesitarás tu móvil' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/hogar/withings-body-plus-bascula-inteligente-solo-79-euros-1184248'>Withings inventó las básculas inteligentes, y aquí tienes la más vendida en Estados Unidos, por solo 79 euros</a></h4>
     <a href='https://computerhoy.com/hogar/withings-body-plus-bascula-inteligente-solo-79-euros-1184248' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/withings-invento-basculas-inteligentes-aqui-tienes-vendida-estados-unidos-solo-79-euros-2928082.jpg?tf=1200x' alt='Withings inventó las básculas inteligentes, y aquí tienes la más vendida en Estados Unidos, por solo 79 euros' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/life/gana-shakira-bizarrap-cada-vez-escuchas-bzrp-music-sessions-53-1184240'>Lo que gana Shakira y Bizarrap cada vez que escuchas BZRP Music Sessions #53</a></h4>
     <a href='https://computerhoy.com/life/gana-shakira-bizarrap-cada-vez-escuchas-bzrp-music-sessions-53-1184240' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/bzrp-music-sessions-53-shakira-bizarrap-2928074.jpg?tf=1200x' alt='Lo que gana Shakira y Bizarrap cada vez que escuchas BZRP Music Sessions #53' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/redes-sociales/desahucian-sedes-twitter-no-pagar-alquiler-cierran-nuevos-edificios-1184236'>Desahucian a Twitter de varias sedes por no pagar el alquiler, y cierran nuevos edificios</a></h4>
-    <a href='https://computerhoy.com/redes-sociales/desahucian-sedes-twitter-no-pagar-alquiler-cierran-nuevos-edificios-1184236' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/elon-musk-cierra-doce-sedes-twitter-incluida-espana-desahucian-varias-edificios-2928044.jpg?tf=1200x' alt='Desahucian a Twitter de varias sedes por no pagar el alquiler, y cierran nuevos edificios' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/7-mejores-aplicaciones-tomar-notas-forma-creativa-android-ios-pc-1184226'>Las 7 mejores aplicaciones para tomar notas de forma creativa en Android, iOS y PC</a></h4>
-    <a href='https://computerhoy.com/apps/7-mejores-aplicaciones-tomar-notas-forma-creativa-android-ios-pc-1184226' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/7-mejores-aplicaciones-tomar-notas-forma-creativa-android-ios-pc-2928066.jpg?tf=1200x' alt='Las 7 mejores aplicaciones para tomar notas de forma creativa en Android, iOS y PC' />
     </a>
 </div>
 
