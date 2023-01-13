@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/twitter-caido-tema-api-ha-roto-conexion-tweetbot-otros-clientes-terceros-1184022'>¿Twitter caído? Es tema de su API y ha roto la conexión de Tweetbot y otros clientes de terceros</a></h4>
+    <a href='https://computerhoy.com/apps/twitter-caido-tema-api-ha-roto-conexion-tweetbot-otros-clientes-terceros-1184022' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/twitter-2676209.jpg?tf=1200x' alt='¿Twitter caído? Es tema de su API y ha roto la conexión de Tweetbot y otros clientes de terceros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/estrategia-siguio-steve-jobs-despedir-4000-personas-cuando-regreso-apple-1184024'>Esta es la estrategia que siguió Steve Jobs para despedir a más de 4.000 personas cuando regresó a Apple</a></h4>
+    <a href='https://computerhoy.com/apple/estrategia-siguio-steve-jobs-despedir-4000-personas-cuando-regreso-apple-1184024' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/steve-jobs-2881055.jpg?tf=1200x' alt='Esta es la estrategia que siguió Steve Jobs para despedir a más de 4.000 personas cuando regresó a Apple' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/tablet-cost-huawei-lapiz-oferta-1182290'>Esta tablet low cost de Huawei viene con lápiz y es perfecta para dibujar a un precio muy sorprendente</a></h4>
     <a href='https://computerhoy.com/tecnologia/tablet-cost-huawei-lapiz-oferta-1182290' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/07/huawei-matepad-104-2014987.jpg?tf=1200x' alt='Esta tablet low cost de Huawei viene con lápiz y es perfecta para dibujar a un precio muy sorprendente' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/drone-chino-capaz-permanecer-aire-indefinidamente-gracias-carga-rayos-laser-1183982'>Así es el drone chino capaz de permanecer en el aire indefinidamente gracias a la carga con rayos láser</a></h4>
     <a href='https://computerhoy.com/tecnologia/drone-chino-capaz-permanecer-aire-indefinidamente-gracias-carga-rayos-laser-1183982' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/drone-chino-puede-volar-indefinidamente-cargan-laser-2927536.jpg?tf=1200x' alt='Así es el drone chino capaz de permanecer en el aire indefinidamente gracias a la carga con rayos láser' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/google-va-amazon-chromecast-rebajados-debajo-precio-fire-tv-stick-1183396'>Google va a por Amazon con sus Chromecast, rebajados por debajo del precio de los Fire TV Stick</a></h4>
-    <a href='https://computerhoy.com/tecnologia/google-va-amazon-chromecast-rebajados-debajo-precio-fire-tv-stick-1183396' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/google-chromecast-2926538.jpg?tf=1200x' alt='Google va a por Amazon con sus Chromecast, rebajados por debajo del precio de los Fire TV Stick' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/tesla-baja-precio-coches-avalancha-modelos-chinos-mercado-europeo-1183958'>Tesla baja el precio de sus coches tras la avalancha de modelos chinos en el mercado europeo</a></h4>
-    <a href='https://computerhoy.com/motor/tesla-baja-precio-coches-avalancha-modelos-chinos-mercado-europeo-1183958' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/tesla-model-3-2022-2562323.jpg?tf=1200x' alt='Tesla baja el precio de sus coches tras la avalancha de modelos chinos en el mercado europeo' />
     </a>
 </div>
 
