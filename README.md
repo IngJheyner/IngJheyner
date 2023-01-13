@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/cientificos-harvard-descubren-desvelan-superburbuja-magnetica-existimos-actualmente-1183988'>Científicos de Harvard descubren y desvelan la superburbuja magnética por la que existimos actualmente</a></h4>
+    <a href='https://computerhoy.com/ciencia/cientificos-harvard-descubren-desvelan-superburbuja-magnetica-existimos-actualmente-1183988' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/burbuja-magnetica-2927570.jpg?tf=1200x' alt='Científicos de Harvard descubren y desvelan la superburbuja magnética por la que existimos actualmente' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/drone-chino-capaz-permanecer-aire-indefinidamente-gracias-carga-rayos-laser-1183982'>Así es el drone chino capaz de permanecer en el aire indefinidamente gracias a la carga con rayos láser</a></h4>
+    <a href='https://computerhoy.com/tecnologia/drone-chino-capaz-permanecer-aire-indefinidamente-gracias-carga-rayos-laser-1183982' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/drone-chino-puede-volar-indefinidamente-cargan-laser-2927536.jpg?tf=1200x' alt='Así es el drone chino capaz de permanecer en el aire indefinidamente gracias a la carga con rayos láser' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/google-va-amazon-chromecast-rebajados-debajo-precio-fire-tv-stick-1183396'>Google va a por Amazon con sus Chromecast, rebajados por debajo del precio de los Fire TV Stick</a></h4>
     <a href='https://computerhoy.com/tecnologia/google-va-amazon-chromecast-rebajados-debajo-precio-fire-tv-stick-1183396' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/google-chromecast-2926538.jpg?tf=1200x' alt='Google va a por Amazon con sus Chromecast, rebajados por debajo del precio de los Fire TV Stick' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/apple/inflacion-pospandemia-afecta-incluso-gigante-apple-recortaran-40-sueldo-ceo-tim-cook-1183956'>La inflación pospandemia afecta incluso al gigante Apple, recortarán un 40% el sueldo de su CEO Tim Cook</a></h4>
     <a href='https://computerhoy.com/apple/inflacion-pospandemia-afecta-incluso-gigante-apple-recortaran-40-sueldo-ceo-tim-cook-1183956' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/tim-cook-ceo-apple-2914466.jpg?tf=1200x' alt='La inflación pospandemia afecta incluso al gigante Apple, recortarán un 40% el sueldo de su CEO Tim Cook' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/portableapps-231-450-aplicaciones-gratuitas-puedes-llevar-pendrive-1183624'>Así es PortableApps 23.1, más de 450 aplicaciones gratuitas que puedes llevar en un pendrive</a></h4>
-    <a href='https://computerhoy.com/apps/portableapps-231-450-aplicaciones-gratuitas-puedes-llevar-pendrive-1183624' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/pendrive-portable-apps-2927042.jpg?tf=1200x' alt='Así es PortableApps 23.1, más de 450 aplicaciones gratuitas que puedes llevar en un pendrive' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/guia-compra/bascula-inteligente-953625'>Guía y consejos para comprar una báscula inteligente con medidor de grasa corporal</a></h4>
-    <a href='https://computerhoy.com/guia-compra/bascula-inteligente-953625' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/09/cecotec-surface-precision-9600-smart-healthy-2064575.jpg?tf=1200x' alt='Guía y consejos para comprar una báscula inteligente con medidor de grasa corporal' />
     </a>
 </div>
 
