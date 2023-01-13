@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/hogar/withings-body-plus-bascula-inteligente-solo-79-euros-1184248'>Withings inventó las básculas inteligentes, y aquí tienes la más vendida en Estados Unidos, por solo 79 euros</a></h4>
+    <a href='https://computerhoy.com/hogar/withings-body-plus-bascula-inteligente-solo-79-euros-1184248' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/withings-invento-basculas-inteligentes-aqui-tienes-vendida-estados-unidos-solo-79-euros-2928082.jpg?tf=1200x' alt='Withings inventó las básculas inteligentes, y aquí tienes la más vendida en Estados Unidos, por solo 79 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/criptos/bitcoin-empieza-salir-crisis-hay-varias-razones-entender-situacion-1184244'>El Bitcoin empieza a salir de su crisis, y hay varias razones para entender la situación</a></h4>
     <a href='https://computerhoy.com/criptos/bitcoin-empieza-salir-crisis-hay-varias-razones-entender-situacion-1184244' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/bitcoin-2928088.jpg?tf=1200x' alt='El Bitcoin empieza a salir de su crisis, y hay varias razones para entender la situación' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/apps/7-mejores-aplicaciones-tomar-notas-forma-creativa-android-ios-pc-1184226'>Las 7 mejores aplicaciones para tomar notas de forma creativa en Android, iOS y PC</a></h4>
     <a href='https://computerhoy.com/apps/7-mejores-aplicaciones-tomar-notas-forma-creativa-android-ios-pc-1184226' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/7-mejores-aplicaciones-tomar-notas-forma-creativa-android-ios-pc-2928066.jpg?tf=1200x' alt='Las 7 mejores aplicaciones para tomar notas de forma creativa en Android, iOS y PC' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/sistema-reconocimiento-facial-policia-nacional-listo-funcionara-1184186'>El sistema de reconocimiento facial de la Policía Nacional está listo: así funcionará</a></h4>
-    <a href='https://computerhoy.com/tecnologia/sistema-reconocimiento-facial-policia-nacional-listo-funcionara-1184186' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/06/reconocimiento-facial-1961415.jpg?tf=1200x' alt='El sistema de reconocimiento facial de la Policía Nacional está listo: así funcionará' />
     </a>
 </div>
 
