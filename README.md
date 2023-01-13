@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/28-noticias-tecnologia-comenzar-manana-informado-ultimo-1183916'>28 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
+    <a href='https://computerhoy.com/tecnologia/28-noticias-tecnologia-comenzar-manana-informado-ultimo-1183916' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/28-noticias-tecnologia-comenzar-manana-informado-ultimo-2927370.jpg?tf=1200x' alt='28 noticias de tecnología para comenzar la mañana informado de lo último' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/listas/tecnologia/mejores-routers-2019-rango-precio-361681'>Los mejores routers de 2023 por rango de precio</a></h4>
+    <a href='https://computerhoy.com/listas/tecnologia/mejores-routers-2019-rango-precio-361681' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/router-wifi-2798907.jpg?tf=1200x' alt='Los mejores routers de 2023 por rango de precio' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/entretenimiento/cuanto-cuesta-netflix-disney-hbo-max-prime-video-skyshowtime-plataformas-television-streaming-2023-1183914'>Cuánto cuesta Netflix, Disney+, HBO Max, Prime Video, SkyShowtime, y el resto de plataformas de televisión en streaming en 2023</a></h4>
     <a href='https://computerhoy.com/entretenimiento/cuanto-cuesta-netflix-disney-hbo-max-prime-video-skyshowtime-plataformas-television-streaming-2023-1183914' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/cuanto-cuesta-netflix-disney-hbo-max-prime-video-skyshowtime-resto-plataformas-streaming-2023-2927180.jpg?tf=1200x' alt='Cuánto cuesta Netflix, Disney+, HBO Max, Prime Video, SkyShowtime, y el resto de plataformas de televisión en streaming en 2023' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/apps/google-home-anade-funcion-dejaras-usar-mando-tele-1183648'>Google Home añade una función con la que dejarás de usar el mando de la tele</a></h4>
     <a href='https://computerhoy.com/apps/google-home-anade-funcion-dejaras-usar-mando-tele-1183648' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/google-home-anade-funcion-dejaras-usar-mando-tele-2927046.jpg?tf=1200x' alt='Google Home añade una función con la que dejarás de usar el mando de la tele' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/donotpay-ia-quiere-evitar-vayas-carcel-1183646'>DoNotPay es la IA que quiere evitar que vayas a la cárcel</a></h4>
-    <a href='https://computerhoy.com/tecnologia/donotpay-ia-quiere-evitar-vayas-carcel-1183646' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/24-noticias-tecnologia-comenzar-manana-informado-ultimo-2924348.jpg?tf=1200x' alt='DoNotPay es la IA que quiere evitar que vayas a la cárcel' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/streaming/funciona-nuevo-tdt-channels-player-debes-hacer-instalarlo-1183702'>Así funciona el nuevo TDT Channels Player y lo que debes hacer para instalarlo</a></h4>
-    <a href='https://computerhoy.com/streaming/funciona-nuevo-tdt-channels-player-debes-hacer-instalarlo-1183702' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/tdt-channels-player-2927142.jpg?tf=1200x' alt='Así funciona el nuevo TDT Channels Player y lo que debes hacer para instalarlo' />
     </a>
 </div>
 
