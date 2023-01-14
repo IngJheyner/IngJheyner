@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/alimentacion/cientificos-sostienen-comer-pasta-mucho-saludable-piensas-1184544'>Científicos sostienen que comer pasta es mucho más saludable de lo que piensas</a></h4>
+    <a href='https://computerhoy.com/alimentacion/cientificos-sostienen-comer-pasta-mucho-saludable-piensas-1184544' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/pasta-2928372.jpg?tf=1200x' alt='Científicos sostienen que comer pasta es mucho más saludable de lo que piensas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apps/whatsapp-facilita-transferencia-historial-chats-nuevo-telefono-android-funcion-1184540'>WhatsApp facilita la transferencia del historial de chats a un nuevo teléfono Android con esta función</a></h4>
     <a href='https://computerhoy.com/apps/whatsapp-facilita-transferencia-historial-chats-nuevo-telefono-android-funcion-1184540' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/whatsapp-2870685.jpg?tf=1200x' alt='WhatsApp facilita la transferencia del historial de chats a un nuevo teléfono Android con esta función' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/windows/microsoft-defender-hace-desaparecer-accesos-directos-aplicaciones-windows-actualizacion-resuelve-medias-1184514'>Microsoft Defender hace desaparecer accesos directos de aplicaciones de Windows y una actualización lo resuelve, a medias</a></h4>
     <a href='https://computerhoy.com/windows/microsoft-defender-hace-desaparecer-accesos-directos-aplicaciones-windows-actualizacion-resuelve-medias-1184514' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/08/microsoft-defender-pc-2037107.jpg?tf=1200x' alt='Microsoft Defender hace desaparecer accesos directos de aplicaciones de Windows y una actualización lo resuelve, a medias' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/sony-bravia-xr-a75k-55-prescinde-superfluo-mantener-calidad-oled-1183000'>Sony Bravia XR A75K de 55”: prescinde de lo superfluo para mantener la calidad del OLED</a></h4>
-    <a href='https://computerhoy.com/analisis/sony-bravia-xr-a75k-55-prescinde-superfluo-mantener-calidad-oled-1183000' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/sony-bravia-xr-a75k-analisis-opinion-2926688.jpg?tf=1200x' alt='Sony Bravia XR A75K de 55”: prescinde de lo superfluo para mantener la calidad del OLED' />
     </a>
 </div>
 
