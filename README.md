@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/mejor-pasaporte-viajar-2023-espanol-mejores-1184588'>Este es el mejor pasaporte para viajar en 2023 y el español está entre los mejores</a></h4>
+    <a href='https://computerhoy.com/life/mejor-pasaporte-viajar-2023-espanol-mejores-1184588' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/pasaportes-2928460.jpg?tf=1200x' alt='Este es el mejor pasaporte para viajar en 2023 y el español está entre los mejores' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/crean-perro-robot-juega-baila-rasca-protege-casa-cuando-no-estas-1184560'>Crean un perro robot que juega, baila, se rasca y protege tu casa cuando no estás</a></h4>
+    <a href='https://computerhoy.com/ciencia/crean-perro-robot-juega-baila-rasca-protege-casa-cuando-no-estas-1184560' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/loona-2928412.jpg?tf=1200x' alt='Crean un perro robot que juega, baila, se rasca y protege tu casa cuando no estás' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/5-formas-tener-wifi-proveedor-internet-1183482'>5 formas de tener WiFi sin un proveedor de Internet</a></h4>
     <a href='https://computerhoy.com/tecnologia/5-formas-tener-wifi-proveedor-internet-1183482' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/wifi-2926594.jpg?tf=1200x' alt='5 formas de tener WiFi sin un proveedor de Internet' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/android/nueva-caracteristica-estrena-android-auto-demandaban-usuarios-1184558'>Esta es la nueva característica que se estrena en Android Auto y que demandaban los usuarios</a></h4>
     <a href='https://computerhoy.com/android/nueva-caracteristica-estrena-android-auto-demandaban-usuarios-1184558' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/android-auto-coolwalk-2870273.jpg?tf=1200x' alt='Esta es la nueva característica que se estrena en Android Auto y que demandaban los usuarios' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/ahora-usamos-aplicaciones-nunca-pero-pagamos-menos-ellas-1184552'>Ahora usamos aplicaciones más que nunca pero pagamos menos por ellas</a></h4>
-    <a href='https://computerhoy.com/apps/ahora-usamos-aplicaciones-nunca-pero-pagamos-menos-ellas-1184552' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/aplicaciones-2928398.jpg?tf=1200x' alt='Ahora usamos aplicaciones más que nunca pero pagamos menos por ellas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/alimentacion/cientificos-sostienen-comer-pasta-mucho-saludable-piensas-1184544'>Científicos sostienen que comer pasta es mucho más saludable de lo que piensas</a></h4>
-    <a href='https://computerhoy.com/alimentacion/cientificos-sostienen-comer-pasta-mucho-saludable-piensas-1184544' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/pasta-2928372.jpg?tf=1200x' alt='Científicos sostienen que comer pasta es mucho más saludable de lo que piensas' />
     </a>
 </div>
 
