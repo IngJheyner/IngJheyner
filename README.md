@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/whatsapp-facilita-transferencia-historial-chats-nuevo-telefono-android-funcion-1184540'>WhatsApp facilita la transferencia del historial de chats a un nuevo teléfono Android con esta función</a></h4>
+    <a href='https://computerhoy.com/apps/whatsapp-facilita-transferencia-historial-chats-nuevo-telefono-android-funcion-1184540' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/whatsapp-2870685.jpg?tf=1200x' alt='WhatsApp facilita la transferencia del historial de chats a un nuevo teléfono Android con esta función' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/entretenimiento/7-peliculas-casinos-bingos-juegos-cartas-aficionados-juego-1182436'>7 películas sobre casinos, bingos y juegos de cartas para los aficionados al juego</a></h4>
     <a href='https://computerhoy.com/entretenimiento/7-peliculas-casinos-bingos-juegos-cartas-aficionados-juego-1182436' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/7-peliculas-casinos-bingos-juegos-cartas-aficionados-juego-2925132.jpg?tf=1200x' alt='7 películas sobre casinos, bingos y juegos de cartas para los aficionados al juego' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/analisis/sony-bravia-xr-a75k-55-prescinde-superfluo-mantener-calidad-oled-1183000'>Sony Bravia XR A75K de 55”: prescinde de lo superfluo para mantener la calidad del OLED</a></h4>
     <a href='https://computerhoy.com/analisis/sony-bravia-xr-a75k-55-prescinde-superfluo-mantener-calidad-oled-1183000' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/sony-bravia-xr-a75k-analisis-opinion-2926688.jpg?tf=1200x' alt='Sony Bravia XR A75K de 55”: prescinde de lo superfluo para mantener la calidad del OLED' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/6-usos-geniales-puedes-dar-viejo-iphone-1181528'>6 usos geniales que le puedes dar a tu viejo iPhone</a></h4>
-    <a href='https://computerhoy.com/tecnologia/6-usos-geniales-puedes-dar-viejo-iphone-1181528' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/hombre-sujetando-movil-iphone-13-2802009.jpg?tf=1200x' alt='6 usos geniales que le puedes dar a tu viejo iPhone' />
     </a>
 </div>
 
