@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/windows/microsoft-defender-hace-desaparecer-accesos-directos-aplicaciones-windows-actualizacion-resuelve-medias-1184514'>Microsoft Defender hace desaparecer accesos directos de aplicaciones de Windows y una actualización lo resuelve, a medias</a></h4>
+    <a href='https://computerhoy.com/windows/microsoft-defender-hace-desaparecer-accesos-directos-aplicaciones-windows-actualizacion-resuelve-medias-1184514' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/08/microsoft-defender-pc-2037107.jpg?tf=1200x' alt='Microsoft Defender hace desaparecer accesos directos de aplicaciones de Windows y una actualización lo resuelve, a medias' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/analisis/sony-bravia-xr-a75k-55-prescinde-superfluo-mantener-calidad-oled-1183000'>Sony Bravia XR A75K de 55”: prescinde de lo superfluo para mantener la calidad del OLED</a></h4>
+    <a href='https://computerhoy.com/analisis/sony-bravia-xr-a75k-55-prescinde-superfluo-mantener-calidad-oled-1183000' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/sony-bravia-xr-a75k-analisis-opinion-2926688.jpg?tf=1200x' alt='Sony Bravia XR A75K de 55”: prescinde de lo superfluo para mantener la calidad del OLED' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/6-usos-geniales-puedes-dar-viejo-iphone-1181528'>6 usos geniales que le puedes dar a tu viejo iPhone</a></h4>
+    <a href='https://computerhoy.com/tecnologia/6-usos-geniales-puedes-dar-viejo-iphone-1181528' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/hombre-sujetando-movil-iphone-13-2802009.jpg?tf=1200x' alt='6 usos geniales que le puedes dar a tu viejo iPhone' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/fitbit-charge-5-oferta-nfc-pagos-moviles-1182812'>Esta es nuestra pulsera inteligente favorita: de Fitbit, con electrocardiogramas y hasta con pagos móviles</a></h4>
     <a href='https://computerhoy.com/tecnologia/fitbit-charge-5-oferta-nfc-pagos-moviles-1182812' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/fitbit-charge-5-2530339.jpg?tf=1200x' alt='Esta es nuestra pulsera inteligente favorita: de Fitbit, con electrocardiogramas y hasta con pagos móviles' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/ectolife-consiste-concepto-vientres-artificiales-1174002'>¿Qué es Ectolife y en qué consiste este concepto de vientres artificiales?</a></h4>
     <a href='https://computerhoy.com/tecnologia/ectolife-consiste-concepto-vientres-artificiales-1174002' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/verticalimage1673512408680-2926550.jpg?tf=1200x' alt='¿Qué es Ectolife y en qué consiste este concepto de vientres artificiales?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/review-amazon-fire-tv-cube-4k-3g-bestia-cambia-manera-interactuar-televisor-1182888'>Análisis del Amazon Fire TV Cube 4K 3G, una bestia que cambia la manera de interactuar con el televisor</a></h4>
-    <a href='https://computerhoy.com/analisis/review-amazon-fire-tv-cube-4k-3g-bestia-cambia-manera-interactuar-televisor-1182888' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/analisis-amazon-fire-tv-cube-2022-2925918.jpg?tf=1200x' alt='Análisis del Amazon Fire TV Cube 4K 3G, una bestia que cambia la manera de interactuar con el televisor' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/amazon/llego-amazon-arreglar-escritura-tablets-1182302'>Y llegó Amazon para arreglar la escritura en tablets</a></h4>
-    <a href='https://computerhoy.com/amazon/llego-amazon-arreglar-escritura-tablets-1182302' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/kindle-scribe-2924818.jpg?tf=1200x' alt='Y llegó Amazon para arreglar la escritura en tablets' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/guia-compra/tablet'>Comprar una tablet en 2023: guía de compra para encontrar el mejor modelo</a></h4>
-    <a href='https://computerhoy.com/guia-compra/tablet' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/ipad-10a-generacion-analisis-opinion-2897862.jpg?tf=1200x' alt='Comprar una tablet en 2023: guía de compra para encontrar el mejor modelo' />
     </a>
 </div>
 
