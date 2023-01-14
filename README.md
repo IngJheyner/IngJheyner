@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/amazon/llego-amazon-arreglar-escritura-tablets-1182302'>Y llegó Amazon para arreglar la escritura en tablets</a></h4>
+    <a href='https://computerhoy.com/amazon/llego-amazon-arreglar-escritura-tablets-1182302' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/kindle-scribe-2924818.jpg?tf=1200x' alt='Y llegó Amazon para arreglar la escritura en tablets' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/guia-compra/tablet'>Comprar una tablet en 2023: guía de compra para encontrar el mejor modelo</a></h4>
+    <a href='https://computerhoy.com/guia-compra/tablet' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/ipad-10a-generacion-analisis-opinion-2897862.jpg?tf=1200x' alt='Comprar una tablet en 2023: guía de compra para encontrar el mejor modelo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-crear-carpeta-secreta-invisible-windows-1182788'>Cómo crear una carpeta secreta e invisible en Windows</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-crear-carpeta-secreta-invisible-windows-1182788' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/windows-11-2925470.jpg?tf=1200x' alt='Cómo crear una carpeta secreta e invisible en Windows' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciencia/grover-krantz-antropologo-bigfoot-1184480'>La curiosa historia del antropólogo y su perro que donaron el cuerpo a la ciencia... y pasaron años buscando el Bigfoot</a></h4>
     <a href='https://computerhoy.com/ciencia/grover-krantz-antropologo-bigfoot-1184480' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/curiosa-historia-antropologo-perro-donaron-cuerpo-ciencia-pasaron-anos-buscando-bigfoot-2928322.jpg?tf=1200x' alt='La curiosa historia del antropólogo y su perro que donaron el cuerpo a la ciencia... y pasaron años buscando el Bigfoot' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-android-tv-box-baratos-1120173'>Mejores Android TV Box baratas que puedes comprar en 2023</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/mejores-android-tv-box-baratos-1120173' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/mando-distancia-boton-netflix-2927632.jpg?tf=1200x' alt='Mejores Android TV Box baratas que puedes comprar en 2023' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/energia/petrolera-exxonmobil-predijo-cambio-climatico-anos-70-nego-existencia-1184478'>La petrolera ExxonMobil predijo el cambio climático con exactitud en los años 70, pero negó su existencia durante décadas</a></h4>
-    <a href='https://computerhoy.com/energia/petrolera-exxonmobil-predijo-cambio-climatico-anos-70-nego-existencia-1184478' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/petrolera-exxonmobil-predijo-cambio-climatico-gran-exactitud-anos-70-pero-nego-existencia-durante-decadas-2928108.jpg?tf=1200x' alt='La petrolera ExxonMobil predijo el cambio climático con exactitud en los años 70, pero negó su existencia durante décadas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/conexion-6g-personas-como-antenas-humanas-1184256'>La conexión 6G podría usar a las personas como antenas humanas</a></h4>
-    <a href='https://computerhoy.com/internet/conexion-6g-personas-como-antenas-humanas-1184256' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/conexion-6g-podria-usar-personas-como-antenas-humanas-2928104.jpg?tf=1200x' alt='La conexión 6G podría usar a las personas como antenas humanas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/waifu-inteligencia-artificial-chatgpt-stable-diffusion-1184048'>Un hacker crea la waifu perfecta usando ChatGPT y Stable Diffusion, y su novia le obliga a borrarla</a></h4>
-    <a href='https://computerhoy.com/tecnologia/waifu-inteligencia-artificial-chatgpt-stable-diffusion-1184048' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/hacker-crea-waifu-perfecta-usando-chatgpt-stable-diffusion-novia-obliga-borrarla-2927606.jpg?tf=1200x' alt='Un hacker crea la waifu perfecta usando ChatGPT y Stable Diffusion, y su novia le obliga a borrarla' />
     </a>
 </div>
 
