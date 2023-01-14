@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/5-formas-tener-wifi-proveedor-internet-1183482'>5 formas de tener WiFi sin un proveedor de Internet</a></h4>
+    <a href='https://computerhoy.com/tecnologia/5-formas-tener-wifi-proveedor-internet-1183482' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/wifi-2926594.jpg?tf=1200x' alt='5 formas de tener WiFi sin un proveedor de Internet' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/mejores/auriculares-inalambricos-bluetooth-1182858'>Mejores auriculares inalámbricos que puedes comprar ahora mismo</a></h4>
+    <a href='https://computerhoy.com/mejores/auriculares-inalambricos-bluetooth-1182858' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/apple-airpods-pro-2-analisis-opinion-2844275.jpg?tf=1200x' alt='Mejores auriculares inalámbricos que puedes comprar ahora mismo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/android/nueva-caracteristica-estrena-android-auto-demandaban-usuarios-1184558'>Esta es la nueva característica que se estrena en Android Auto y que demandaban los usuarios</a></h4>
     <a href='https://computerhoy.com/android/nueva-caracteristica-estrena-android-auto-demandaban-usuarios-1184558' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/android-auto-coolwalk-2870273.jpg?tf=1200x' alt='Esta es la nueva característica que se estrena en Android Auto y que demandaban los usuarios' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/alimentacion/cientificos-sostienen-comer-pasta-mucho-saludable-piensas-1184544'>Científicos sostienen que comer pasta es mucho más saludable de lo que piensas</a></h4>
     <a href='https://computerhoy.com/alimentacion/cientificos-sostienen-comer-pasta-mucho-saludable-piensas-1184544' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/pasta-2928372.jpg?tf=1200x' alt='Científicos sostienen que comer pasta es mucho más saludable de lo que piensas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/whatsapp-facilita-transferencia-historial-chats-nuevo-telefono-android-funcion-1184540'>WhatsApp facilita la transferencia del historial de chats a un nuevo teléfono Android con esta función</a></h4>
-    <a href='https://computerhoy.com/apps/whatsapp-facilita-transferencia-historial-chats-nuevo-telefono-android-funcion-1184540' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/whatsapp-2870685.jpg?tf=1200x' alt='WhatsApp facilita la transferencia del historial de chats a un nuevo teléfono Android con esta función' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/7-peliculas-casinos-bingos-juegos-cartas-aficionados-juego-1182436'>7 películas sobre casinos, bingos y juegos de cartas para los aficionados al juego</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/7-peliculas-casinos-bingos-juegos-cartas-aficionados-juego-1182436' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/7-peliculas-casinos-bingos-juegos-cartas-aficionados-juego-2925132.jpg?tf=1200x' alt='7 películas sobre casinos, bingos y juegos de cartas para los aficionados al juego' />
     </a>
 </div>
 
