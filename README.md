@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/7-peliculas-casinos-bingos-juegos-cartas-aficionados-juego-1182436'>7 películas sobre casinos, bingos y juegos de cartas para los aficionados al juego</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/7-peliculas-casinos-bingos-juegos-cartas-aficionados-juego-1182436' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/7-peliculas-casinos-bingos-juegos-cartas-aficionados-juego-2925132.jpg?tf=1200x' alt='7 películas sobre casinos, bingos y juegos de cartas para los aficionados al juego' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/youtube-probando-canales-television-gratuitos-pero-publicidad-1184528'>YouTube está probando canales de televisión gratuitos, pero con publicidad</a></h4>
+    <a href='https://computerhoy.com/apps/youtube-probando-canales-television-gratuitos-pero-publicidad-1184528' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/youtube-tv-2928346.jpg?tf=1200x' alt='YouTube está probando canales de televisión gratuitos, pero con publicidad' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/windows/microsoft-defender-hace-desaparecer-accesos-directos-aplicaciones-windows-actualizacion-resuelve-medias-1184514'>Microsoft Defender hace desaparecer accesos directos de aplicaciones de Windows y una actualización lo resuelve, a medias</a></h4>
     <a href='https://computerhoy.com/windows/microsoft-defender-hace-desaparecer-accesos-directos-aplicaciones-windows-actualizacion-resuelve-medias-1184514' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/08/microsoft-defender-pc-2037107.jpg?tf=1200x' alt='Microsoft Defender hace desaparecer accesos directos de aplicaciones de Windows y una actualización lo resuelve, a medias' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/6-usos-geniales-puedes-dar-viejo-iphone-1181528'>6 usos geniales que le puedes dar a tu viejo iPhone</a></h4>
     <a href='https://computerhoy.com/tecnologia/6-usos-geniales-puedes-dar-viejo-iphone-1181528' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/hombre-sujetando-movil-iphone-13-2802009.jpg?tf=1200x' alt='6 usos geniales que le puedes dar a tu viejo iPhone' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/fitbit-charge-5-oferta-nfc-pagos-moviles-1182812'>Esta es nuestra pulsera inteligente favorita: de Fitbit, con electrocardiogramas y hasta con pagos móviles</a></h4>
-    <a href='https://computerhoy.com/tecnologia/fitbit-charge-5-oferta-nfc-pagos-moviles-1182812' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/fitbit-charge-5-2530339.jpg?tf=1200x' alt='Esta es nuestra pulsera inteligente favorita: de Fitbit, con electrocardiogramas y hasta con pagos móviles' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/ectolife-consiste-concepto-vientres-artificiales-1174002'>¿Qué es Ectolife y en qué consiste este concepto de vientres artificiales?</a></h4>
-    <a href='https://computerhoy.com/tecnologia/ectolife-consiste-concepto-vientres-artificiales-1174002' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/verticalimage1673512408680-2926550.jpg?tf=1200x' alt='¿Qué es Ectolife y en qué consiste este concepto de vientres artificiales?' />
     </a>
 </div>
 
