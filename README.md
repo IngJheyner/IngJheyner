@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/grover-krantz-antropologo-bigfoot-1184480'>La curiosa historia del antropólogo y su perro que donaron el cuerpo a la ciencia... y pasaron años buscando el Bigfoot</a></h4>
+    <a href='https://computerhoy.com/ciencia/grover-krantz-antropologo-bigfoot-1184480' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/curiosa-historia-antropologo-perro-donaron-cuerpo-ciencia-pasaron-anos-buscando-bigfoot-2928322.jpg?tf=1200x' alt='La curiosa historia del antropólogo y su perro que donaron el cuerpo a la ciencia... y pasaron años buscando el Bigfoot' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-android-tv-box-baratos-1120173'>Mejores Android TV Box baratas que puedes comprar en 2023</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-android-tv-box-baratos-1120173' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/mando-distancia-boton-netflix-2927632.jpg?tf=1200x' alt='Mejores Android TV Box baratas que puedes comprar en 2023' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/energia/petrolera-exxonmobil-predijo-cambio-climatico-anos-70-nego-existencia-1184478'>La petrolera ExxonMobil predijo el cambio climático con exactitud en los años 70, pero negó su existencia durante décadas</a></h4>
     <a href='https://computerhoy.com/energia/petrolera-exxonmobil-predijo-cambio-climatico-anos-70-nego-existencia-1184478' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/petrolera-exxonmobil-predijo-cambio-climatico-gran-exactitud-anos-70-pero-nego-existencia-durante-decadas-2928108.jpg?tf=1200x' alt='La petrolera ExxonMobil predijo el cambio climático con exactitud en los años 70, pero negó su existencia durante décadas' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/waifu-inteligencia-artificial-chatgpt-stable-diffusion-1184048'>Un hacker crea la waifu perfecta usando ChatGPT y Stable Diffusion, y su novia le obliga a borrarla</a></h4>
     <a href='https://computerhoy.com/tecnologia/waifu-inteligencia-artificial-chatgpt-stable-diffusion-1184048' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/hacker-crea-waifu-perfecta-usando-chatgpt-stable-diffusion-novia-obliga-borrarla-2927606.jpg?tf=1200x' alt='Un hacker crea la waifu perfecta usando ChatGPT y Stable Diffusion, y su novia le obliga a borrarla' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/minx-hbo-max-emigra-starz-1184252'>Algunas de las series canceladas por HBO Max están encontrando nueva casa con rapidez</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/minx-hbo-max-emigra-starz-1184252' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/algunas-series-canceladas-hbo-max-estan-encontrando-nueva-casa-rapidez-2928100.jpg?tf=1200x' alt='Algunas de las series canceladas por HBO Max están encontrando nueva casa con rapidez' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/sencillo-truco-te-permitira-detectar-camaras-espia-solo-necesitaras-movil-1184242'>Este sencillo truco te permitirá detectar cámaras espía y solo necesitarás tu móvil</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/sencillo-truco-te-permitira-detectar-camaras-espia-solo-necesitaras-movil-1184242' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/xiaomi-12t-pro-camaras-2891380.jpg?tf=1200x' alt='Este sencillo truco te permitirá detectar cámaras espía y solo necesitarás tu móvil' />
     </a>
 </div>
 
