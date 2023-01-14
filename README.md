@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/analisis/review-amazon-fire-tv-cube-4k-3g-bestia-cambia-manera-interactuar-televisor-1182888'>Análisis del Amazon Fire TV Cube 4K 3G, una bestia que cambia la manera de interactuar con el televisor</a></h4>
+    <a href='https://computerhoy.com/analisis/review-amazon-fire-tv-cube-4k-3g-bestia-cambia-manera-interactuar-televisor-1182888' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/analisis-amazon-fire-tv-cube-2022-2925918.jpg?tf=1200x' alt='Análisis del Amazon Fire TV Cube 4K 3G, una bestia que cambia la manera de interactuar con el televisor' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/amazon/llego-amazon-arreglar-escritura-tablets-1182302'>Y llegó Amazon para arreglar la escritura en tablets</a></h4>
     <a href='https://computerhoy.com/amazon/llego-amazon-arreglar-escritura-tablets-1182302' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/kindle-scribe-2924818.jpg?tf=1200x' alt='Y llegó Amazon para arreglar la escritura en tablets' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/ciencia/grover-krantz-antropologo-bigfoot-1184480'>La curiosa historia del antropólogo y su perro que donaron el cuerpo a la ciencia... y pasaron años buscando el Bigfoot</a></h4>
     <a href='https://computerhoy.com/ciencia/grover-krantz-antropologo-bigfoot-1184480' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/curiosa-historia-antropologo-perro-donaron-cuerpo-ciencia-pasaron-anos-buscando-bigfoot-2928322.jpg?tf=1200x' alt='La curiosa historia del antropólogo y su perro que donaron el cuerpo a la ciencia... y pasaron años buscando el Bigfoot' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-android-tv-box-baratos-1120173'>Mejores Android TV Box baratas que puedes comprar en 2023</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-android-tv-box-baratos-1120173' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/mando-distancia-boton-netflix-2927632.jpg?tf=1200x' alt='Mejores Android TV Box baratas que puedes comprar en 2023' />
     </a>
 </div>
 
