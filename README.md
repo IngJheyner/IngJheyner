@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/japon-pintan-rayas-vacas-parezcan-cebras-ahuyentar-moscas-1184092'>Por qué en Japón pintan rayas a las vacas para que parezcan cebras</a></h4>
+    <a href='https://computerhoy.com/ciencia/japon-pintan-rayas-vacas-parezcan-cebras-ahuyentar-moscas-1184092' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/japon-pintan-rayas-vacas-parezcan-cebras-2927732.jpg?tf=1200x' alt='Por qué en Japón pintan rayas a las vacas para que parezcan cebras' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/mejor-pasaporte-viajar-2023-espanol-mejores-1184588'>Este es el mejor pasaporte para viajar en 2023 y el español está entre los mejores</a></h4>
     <a href='https://computerhoy.com/life/mejor-pasaporte-viajar-2023-espanol-mejores-1184588' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/pasaportes-2928460.jpg?tf=1200x' alt='Este es el mejor pasaporte para viajar en 2023 y el español está entre los mejores' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/mejores/auriculares-inalambricos-bluetooth-1182858'>Mejores auriculares inalámbricos que puedes comprar ahora mismo</a></h4>
     <a href='https://computerhoy.com/mejores/auriculares-inalambricos-bluetooth-1182858' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/apple-airpods-pro-2-analisis-opinion-2844275.jpg?tf=1200x' alt='Mejores auriculares inalámbricos que puedes comprar ahora mismo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/android/nueva-caracteristica-estrena-android-auto-demandaban-usuarios-1184558'>Esta es la nueva característica que se estrena en Android Auto y que demandaban los usuarios</a></h4>
-    <a href='https://computerhoy.com/android/nueva-caracteristica-estrena-android-auto-demandaban-usuarios-1184558' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/android-auto-coolwalk-2870273.jpg?tf=1200x' alt='Esta es la nueva característica que se estrena en Android Auto y que demandaban los usuarios' />
     </a>
 </div>
 
