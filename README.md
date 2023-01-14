@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/fitbit-charge-5-oferta-nfc-pagos-moviles-1182812'>Esta es nuestra pulsera inteligente favorita: de Fitbit, con electrocardiogramas y hasta con pagos móviles</a></h4>
+    <a href='https://computerhoy.com/tecnologia/fitbit-charge-5-oferta-nfc-pagos-moviles-1182812' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/fitbit-charge-5-2530339.jpg?tf=1200x' alt='Esta es nuestra pulsera inteligente favorita: de Fitbit, con electrocardiogramas y hasta con pagos móviles' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/ectolife-consiste-concepto-vientres-artificiales-1174002'>¿Qué es Ectolife y en qué consiste este concepto de vientres artificiales?</a></h4>
+    <a href='https://computerhoy.com/tecnologia/ectolife-consiste-concepto-vientres-artificiales-1174002' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/verticalimage1673512408680-2926550.jpg?tf=1200x' alt='¿Qué es Ectolife y en qué consiste este concepto de vientres artificiales?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/analisis/review-amazon-fire-tv-cube-4k-3g-bestia-cambia-manera-interactuar-televisor-1182888'>Análisis del Amazon Fire TV Cube 4K 3G, una bestia que cambia la manera de interactuar con el televisor</a></h4>
     <a href='https://computerhoy.com/analisis/review-amazon-fire-tv-cube-4k-3g-bestia-cambia-manera-interactuar-televisor-1182888' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/analisis-amazon-fire-tv-cube-2022-2925918.jpg?tf=1200x' alt='Análisis del Amazon Fire TV Cube 4K 3G, una bestia que cambia la manera de interactuar con el televisor' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/guia-compra/tablet'>Comprar una tablet en 2023: guía de compra para encontrar el mejor modelo</a></h4>
     <a href='https://computerhoy.com/guia-compra/tablet' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/ipad-10a-generacion-analisis-opinion-2897862.jpg?tf=1200x' alt='Comprar una tablet en 2023: guía de compra para encontrar el mejor modelo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-crear-carpeta-secreta-invisible-windows-1182788'>Cómo crear una carpeta secreta e invisible en Windows</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-crear-carpeta-secreta-invisible-windows-1182788' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/windows-11-2925470.jpg?tf=1200x' alt='Cómo crear una carpeta secreta e invisible en Windows' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/grover-krantz-antropologo-bigfoot-1184480'>La curiosa historia del antropólogo y su perro que donaron el cuerpo a la ciencia... y pasaron años buscando el Bigfoot</a></h4>
-    <a href='https://computerhoy.com/ciencia/grover-krantz-antropologo-bigfoot-1184480' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/curiosa-historia-antropologo-perro-donaron-cuerpo-ciencia-pasaron-anos-buscando-bigfoot-2928322.jpg?tf=1200x' alt='La curiosa historia del antropólogo y su perro que donaron el cuerpo a la ciencia... y pasaron años buscando el Bigfoot' />
     </a>
 </div>
 
