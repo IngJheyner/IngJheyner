@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/internet/conexion-6g-personas-como-antenas-humanas-1184256'>La conexión 6G podría usar a las personas como antenas humanas</a></h4>
+    <a href='https://computerhoy.com/internet/conexion-6g-personas-como-antenas-humanas-1184256' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/conexion-6g-podria-usar-personas-como-antenas-humanas-2928104.jpg?tf=1200x' alt='La conexión 6G podría usar a las personas como antenas humanas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/waifu-inteligencia-artificial-chatgpt-stable-diffusion-1184048'>Un hacker crea la waifu perfecta usando ChatGPT y Stable Diffusion, y su novia le obliga a borrarla</a></h4>
+    <a href='https://computerhoy.com/tecnologia/waifu-inteligencia-artificial-chatgpt-stable-diffusion-1184048' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/hacker-crea-waifu-perfecta-usando-chatgpt-stable-diffusion-novia-obliga-borrarla-2927606.jpg?tf=1200x' alt='Un hacker crea la waifu perfecta usando ChatGPT y Stable Diffusion, y su novia le obliga a borrarla' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/entretenimiento/minx-hbo-max-emigra-starz-1184252'>Algunas de las series canceladas por HBO Max están encontrando nueva casa con rapidez</a></h4>
     <a href='https://computerhoy.com/entretenimiento/minx-hbo-max-emigra-starz-1184252' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/algunas-series-canceladas-hbo-max-estan-encontrando-nueva-casa-rapidez-2928100.jpg?tf=1200x' alt='Algunas de las series canceladas por HBO Max están encontrando nueva casa con rapidez' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/hogar/withings-body-plus-bascula-inteligente-solo-79-euros-1184248'>Withings inventó las básculas inteligentes, y aquí tienes la más vendida en Estados Unidos, por solo 79 euros</a></h4>
     <a href='https://computerhoy.com/hogar/withings-body-plus-bascula-inteligente-solo-79-euros-1184248' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/withings-invento-basculas-inteligentes-aqui-tienes-vendida-estados-unidos-solo-79-euros-2928082.jpg?tf=1200x' alt='Withings inventó las básculas inteligentes, y aquí tienes la más vendida en Estados Unidos, por solo 79 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/criptos/bitcoin-empieza-salir-crisis-hay-varias-razones-entender-situacion-1184244'>El Bitcoin empieza a salir de su crisis, y hay varias razones para entender la situación</a></h4>
-    <a href='https://computerhoy.com/criptos/bitcoin-empieza-salir-crisis-hay-varias-razones-entender-situacion-1184244' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/bitcoin-2928088.jpg?tf=1200x' alt='El Bitcoin empieza a salir de su crisis, y hay varias razones para entender la situación' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/gana-shakira-bizarrap-cada-vez-escuchas-bzrp-music-sessions-53-1184240'>Lo que gana Shakira y Bizarrap cada vez que escuchas BZRP Music Sessions #53</a></h4>
-    <a href='https://computerhoy.com/life/gana-shakira-bizarrap-cada-vez-escuchas-bzrp-music-sessions-53-1184240' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/bzrp-music-sessions-53-shakira-bizarrap-2928074.jpg?tf=1200x' alt='Lo que gana Shakira y Bizarrap cada vez que escuchas BZRP Music Sessions #53' />
     </a>
 </div>
 
