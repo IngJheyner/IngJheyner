@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/android/nueva-caracteristica-estrena-android-auto-demandaban-usuarios-1184558'>Esta es la nueva característica que se estrena en Android Auto y que demandaban los usuarios</a></h4>
+    <a href='https://computerhoy.com/android/nueva-caracteristica-estrena-android-auto-demandaban-usuarios-1184558' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/android-auto-coolwalk-2870273.jpg?tf=1200x' alt='Esta es la nueva característica que se estrena en Android Auto y que demandaban los usuarios' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apps/ahora-usamos-aplicaciones-nunca-pero-pagamos-menos-ellas-1184552'>Ahora usamos aplicaciones más que nunca pero pagamos menos por ellas</a></h4>
     <a href='https://computerhoy.com/apps/ahora-usamos-aplicaciones-nunca-pero-pagamos-menos-ellas-1184552' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/aplicaciones-2928398.jpg?tf=1200x' alt='Ahora usamos aplicaciones más que nunca pero pagamos menos por ellas' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/entretenimiento/7-peliculas-casinos-bingos-juegos-cartas-aficionados-juego-1182436'>7 películas sobre casinos, bingos y juegos de cartas para los aficionados al juego</a></h4>
     <a href='https://computerhoy.com/entretenimiento/7-peliculas-casinos-bingos-juegos-cartas-aficionados-juego-1182436' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/7-peliculas-casinos-bingos-juegos-cartas-aficionados-juego-2925132.jpg?tf=1200x' alt='7 películas sobre casinos, bingos y juegos de cartas para los aficionados al juego' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/youtube-probando-canales-television-gratuitos-pero-publicidad-1184528'>YouTube está probando canales de televisión gratuitos, pero con publicidad</a></h4>
-    <a href='https://computerhoy.com/apps/youtube-probando-canales-television-gratuitos-pero-publicidad-1184528' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/youtube-tv-2928346.jpg?tf=1200x' alt='YouTube está probando canales de televisión gratuitos, pero con publicidad' />
     </a>
 </div>
 
