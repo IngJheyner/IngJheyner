@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/audio/sony-walkman-nw-zx700-series-android-12-1184870'>El nuevo Walkman de Sony con Android 12 es espectacular</a></h4>
+    <a href='https://computerhoy.com/audio/sony-walkman-nw-zx700-series-android-12-1184870' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/verticalimage1673804813728-2928902.jpg?tf=1200x' alt='El nuevo Walkman de Sony con Android 12 es espectacular' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-aspiradoras-inalambricas-808033'>Estas son las mejores aspiradoras inalámbricas que puedes comprar en 2023</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/mejores-aspiradoras-inalambricas-808033' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/accesorios-cepillos-aspiradora-dyson-v15-detect-absolute-2869399.jpg?tf=1200x' alt='Estas son las mejores aspiradoras inalámbricas que puedes comprar en 2023' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/ia-aquarium-acuario-inteligencia-artificial-video-1184848'>El primer acuario con inteligencia artificial muestra información sobre los peces que estás mirando (vídeo)</a></h4>
     <a href='https://computerhoy.com/tecnologia/ia-aquarium-acuario-inteligencia-artificial-video-1184848' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/verticalimage1673793438047-2928832.jpg?tf=1200x' alt='El primer acuario con inteligencia artificial muestra información sobre los peces que estás mirando (vídeo)' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/todos-detalles-artemis-iii-regreso-ser-humano-luna-1184830'>Todos los detalles de la Artemis III: el regreso del ser humano a la Luna</a></h4>
-    <a href='https://computerhoy.com/espacio/todos-detalles-artemis-iii-regreso-ser-humano-luna-1184830' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/mision-artemis-nasa-2928802.jpg?tf=1200x' alt='Todos los detalles de la Artemis III: el regreso del ser humano a la Luna' />
     </a>
 </div>
 
