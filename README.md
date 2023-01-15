@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/almohada-inteligente-respira-sola-te-ayuda-relajarte-1184826'>Una almohada inteligente que respira sola y te ayuda a relajarte</a></h4>
+    <a href='https://computerhoy.com/ciencia/almohada-inteligente-respira-sola-te-ayuda-relajarte-1184826' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/fufuly-2928724.jpg?tf=1200x' alt='Una almohada inteligente que respira sola y te ayuda a relajarte' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/entretenimiento/6-peliculas-donde-telefonos-moviles-tienen-papel-tan-importante-son-actor-1181786'>6 películas donde los teléfonos móviles tienen un papel tan importante que son un actor más</a></h4>
     <a href='https://computerhoy.com/entretenimiento/6-peliculas-donde-telefonos-moviles-tienen-papel-tan-importante-son-actor-1181786' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/buried-2925088.jpg?tf=1200x' alt='6 películas donde los teléfonos móviles tienen un papel tan importante que son un actor más' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/analisis/pocketbook-era-ebooks-audiolibros-solo-dispositivo-semanas-autonomia-1182838'>PocketBook Era, eBooks y audiolibros en un solo dispositivo con semanas de autonomía</a></h4>
     <a href='https://computerhoy.com/analisis/pocketbook-era-ebooks-audiolibros-solo-dispositivo-semanas-autonomia-1182838' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/pocketbook-era-analisis-opinion-2927172.jpg?tf=1200x' alt='PocketBook Era, eBooks y audiolibros en un solo dispositivo con semanas de autonomía' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/apple-trabaja-solucion-problema-lineas-horizontales-pantalla-iphone-14-pro-1184808'>Apple trabaja en una solución para el problema de las líneas horizontales de la pantalla del iPhone 14 Pro</a></h4>
-    <a href='https://computerhoy.com/apple/apple-trabaja-solucion-problema-lineas-horizontales-pantalla-iphone-14-pro-1184808' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/fallo-pantalla-iphone-14-pro-max-afectando-muchos-usuarios-2910958.jpg?tf=1200x' alt='Apple trabaja en una solución para el problema de las líneas horizontales de la pantalla del iPhone 14 Pro' />
     </a>
 </div>
 
