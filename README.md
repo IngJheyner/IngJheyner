@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tv/lg-revision-52000-televisores-86-pulgadas-peligro-aplastamiento-1184860'>LG llama a revisión a 52.000 televisores de 86 pulgadas, que pesan 46 Kilos, por peligro de aplastamiento</a></h4>
+    <a href='https://computerhoy.com/tv/lg-revision-52000-televisores-86-pulgadas-peligro-aplastamiento-1184860' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/lg-retira-mercado-52000-televisores-86-pulgadas-pesan-46-kilos-peligro-aplastamiento-2928856.jpg?tf=1200x' alt='LG llama a revisión a 52.000 televisores de 86 pulgadas, que pesan 46 Kilos, por peligro de aplastamiento' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/ia-aquarium-acuario-inteligencia-artificial-video-1184848'>El primer acuario con inteligencia artificial muestra información sobre los peces que estás mirando (vídeo)</a></h4>
     <a href='https://computerhoy.com/tecnologia/ia-aquarium-acuario-inteligencia-artificial-video-1184848' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/verticalimage1673793438047-2928832.jpg?tf=1200x' alt='El primer acuario con inteligencia artificial muestra información sobre los peces que estás mirando (vídeo)' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/entretenimiento/6-peliculas-donde-telefonos-moviles-tienen-papel-tan-importante-son-actor-1181786'>6 películas donde los teléfonos móviles tienen un papel tan importante que son un actor más</a></h4>
     <a href='https://computerhoy.com/entretenimiento/6-peliculas-donde-telefonos-moviles-tienen-papel-tan-importante-son-actor-1181786' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/buried-2925088.jpg?tf=1200x' alt='6 películas donde los teléfonos móviles tienen un papel tan importante que son un actor más' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/solucion-bill-gates-acabar-cambio-climatico-comer-carne-sintetica-1184820'>La solución de Bill Gates para acabar con el cambio climático: comer carne sintética</a></h4>
-    <a href='https://computerhoy.com/life/solucion-bill-gates-acabar-cambio-climatico-comer-carne-sintetica-1184820' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/carne-hamburguesa-2928714.jpg?tf=1200x' alt='La solución de Bill Gates para acabar con el cambio climático: comer carne sintética' />
     </a>
 </div>
 
