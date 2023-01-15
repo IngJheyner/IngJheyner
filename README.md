@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/blue-monday-dia-deprimente-ano-invencion-marketing-1184888'>Llega el Blue Monday, el día más deprimente del año, otra invención del marketing</a></h4>
+    <a href='https://computerhoy.com/life/blue-monday-dia-deprimente-ano-invencion-marketing-1184888' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/llega-blue-monday-otra-invencion-marketing-2928976.jpg?tf=1200x' alt='Llega el Blue Monday, el día más deprimente del año, otra invención del marketing' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/entretenimiento/serie-agent-from-above-netflix-dron-camara-heridas-graves-protagonista-kai-ko-1184874'>La serie Agent From Above de Netflix, paralizada porque un dron con cámara causa heridas graves a su protagonista</a></h4>
     <a href='https://computerhoy.com/entretenimiento/serie-agent-from-above-netflix-dron-camara-heridas-graves-protagonista-kai-ko-1184874' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/serie-agent-above-netflix-paralizada-porque-dron-camara-causa-heridas-graves-protagonista-2928950.jpg?tf=1200x' alt='La serie Agent From Above de Netflix, paralizada porque un dron con cámara causa heridas graves a su protagonista' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tutoriales/como-cambiar-personalizar-cursor-raton-windows-1184074'>Cómo cambiar y personalizar el cursor del ratón en Windows</a></h4>
     <a href='https://computerhoy.com/tutoriales/como-cambiar-personalizar-cursor-raton-windows-1184074' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/raton-ordenador-2927508.jpg?tf=1200x' alt='Cómo cambiar y personalizar el cursor del ratón en Windows' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tv/lg-revision-52000-televisores-86-pulgadas-peligro-aplastamiento-1184860'>LG llama a revisión a 52.000 televisores de 86 pulgadas, que pesan 46 Kilos, por peligro de aplastamiento</a></h4>
-    <a href='https://computerhoy.com/tv/lg-revision-52000-televisores-86-pulgadas-peligro-aplastamiento-1184860' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/lg-retira-mercado-52000-televisores-86-pulgadas-pesan-46-kilos-peligro-aplastamiento-2928856.jpg?tf=1200x' alt='LG llama a revisión a 52.000 televisores de 86 pulgadas, que pesan 46 Kilos, por peligro de aplastamiento' />
     </a>
 </div>
 
