@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/apple-trabaja-solucion-problema-lineas-horizontales-pantalla-iphone-14-pro-1184808'>Apple trabaja en una solución para el problema de las líneas horizontales de la pantalla del iPhone 14 Pro</a></h4>
+    <a href='https://computerhoy.com/apple/apple-trabaja-solucion-problema-lineas-horizontales-pantalla-iphone-14-pro-1184808' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/fallo-pantalla-iphone-14-pro-max-afectando-muchos-usuarios-2910958.jpg?tf=1200x' alt='Apple trabaja en una solución para el problema de las líneas horizontales de la pantalla del iPhone 14 Pro' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/saca-todo-partido-barra-windows-11-estos-trucos-1177426'>Saca todo el partido a la barra de Windows 11 con estos trucos</a></h4>
+    <a href='https://computerhoy.com/tutoriales/saca-todo-partido-barra-windows-11-estos-trucos-1177426' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/windows-11-2915612.jpg?tf=1200x' alt='Saca todo el partido a la barra de Windows 11 con estos trucos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/dos-semanas-bateria-smartwatch-gps-sorprende-precio-179-euros-1182872'>Dos semanas de batería en un smartwatch con GPS que sorprende por su precio, de 179 euros</a></h4>
     <a href='https://computerhoy.com/tecnologia/dos-semanas-bateria-smartwatch-gps-sorprende-precio-179-euros-1182872' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/huawei-watch-gt-3-oficial-podras-responder-llamadas-munecael-huawei-watch-gt-3-oficial-podras-responder-llamadas-muneca-2868723.jpg?tf=1200x' alt='Dos semanas de batería en un smartwatch con GPS que sorprende por su precio, de 179 euros' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/motor/cosas-nadie-te-cuenta-deberias-saber-bicicletas-electricas-ebikes-1184218'>Cosas que nadie te cuenta y que deberías saber de las bicicletas eléctricas (eBikes)</a></h4>
     <a href='https://computerhoy.com/motor/cosas-nadie-te-cuenta-deberias-saber-bicicletas-electricas-ebikes-1184218' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/cosas-nadie-te-cuenta-deberias-saber-bicicletas-electricas-ebikes-2928046.jpg?tf=1200x' alt='Cosas que nadie te cuenta y que deberías saber de las bicicletas eléctricas (eBikes)' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/review-samsung-odyssey-ark-bestia-parece-demostracion-fuerza-algo-comercial-1183994'>Análisis del Samsung Odyssey Ark, una bestia que parece una demostración de fuerza más que algo comercial</a></h4>
-    <a href='https://computerhoy.com/analisis/review-samsung-odyssey-ark-bestia-parece-demostracion-fuerza-algo-comercial-1183994' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/opinion-samsung-odyssey-ark-2796225.jpg?tf=1200x' alt='Análisis del Samsung Odyssey Ark, una bestia que parece una demostración de fuerza más que algo comercial' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/6-maneras-liberar-espacio-rapidamente-windows-11-1182194'>6 maneras de liberar espacio rápidamente en Windows 11</a></h4>
-    <a href='https://computerhoy.com/tutoriales/6-maneras-liberar-espacio-rapidamente-windows-11-1182194' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/disco-duro-ordenador-2924360.jpg?tf=1200x' alt='6 maneras de liberar espacio rápidamente en Windows 11' />
     </a>
 </div>
 
