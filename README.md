@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-aspiradoras-inalambricas-808033'>Estas son las mejores aspiradoras inalámbricas que puedes comprar en 2023</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-aspiradoras-inalambricas-808033' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/accesorios-cepillos-aspiradora-dyson-v15-detect-absolute-2869399.jpg?tf=1200x' alt='Estas son las mejores aspiradoras inalámbricas que puedes comprar en 2023' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-cambiar-personalizar-cursor-raton-windows-1184074'>Cómo cambiar y personalizar el cursor del ratón en Windows</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-cambiar-personalizar-cursor-raton-windows-1184074' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/raton-ordenador-2927508.jpg?tf=1200x' alt='Cómo cambiar y personalizar el cursor del ratón en Windows' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tv/lg-revision-52000-televisores-86-pulgadas-peligro-aplastamiento-1184860'>LG llama a revisión a 52.000 televisores de 86 pulgadas, que pesan 46 Kilos, por peligro de aplastamiento</a></h4>
     <a href='https://computerhoy.com/tv/lg-revision-52000-televisores-86-pulgadas-peligro-aplastamiento-1184860' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/lg-retira-mercado-52000-televisores-86-pulgadas-pesan-46-kilos-peligro-aplastamiento-2928856.jpg?tf=1200x' alt='LG llama a revisión a 52.000 televisores de 86 pulgadas, que pesan 46 Kilos, por peligro de aplastamiento' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/espacio/todos-detalles-artemis-iii-regreso-ser-humano-luna-1184830'>Todos los detalles de la Artemis III: el regreso del ser humano a la Luna</a></h4>
     <a href='https://computerhoy.com/espacio/todos-detalles-artemis-iii-regreso-ser-humano-luna-1184830' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/mision-artemis-nasa-2928802.jpg?tf=1200x' alt='Todos los detalles de la Artemis III: el regreso del ser humano a la Luna' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/almohada-inteligente-respira-sola-te-ayuda-relajarte-1184826'>Una almohada inteligente que respira sola y te ayuda a relajarte</a></h4>
-    <a href='https://computerhoy.com/ciencia/almohada-inteligente-respira-sola-te-ayuda-relajarte-1184826' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/fufuly-2928724.jpg?tf=1200x' alt='Una almohada inteligente que respira sola y te ayuda a relajarte' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/6-peliculas-donde-telefonos-moviles-tienen-papel-tan-importante-son-actor-1181786'>6 películas donde los teléfonos móviles tienen un papel tan importante que son un actor más</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/6-peliculas-donde-telefonos-moviles-tienen-papel-tan-importante-son-actor-1181786' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/buried-2925088.jpg?tf=1200x' alt='6 películas donde los teléfonos móviles tienen un papel tan importante que son un actor más' />
     </a>
 </div>
 
