@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/6-peliculas-donde-telefonos-moviles-tienen-papel-tan-importante-son-actor-1181786'>6 películas donde los teléfonos móviles tienen un papel tan importante que son un actor más</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/6-peliculas-donde-telefonos-moviles-tienen-papel-tan-importante-son-actor-1181786' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/buried-2925088.jpg?tf=1200x' alt='6 películas donde los teléfonos móviles tienen un papel tan importante que son un actor más' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/solucion-bill-gates-acabar-cambio-climatico-comer-carne-sintetica-1184820'>La solución de Bill Gates para acabar con el cambio climático: comer carne sintética</a></h4>
+    <a href='https://computerhoy.com/life/solucion-bill-gates-acabar-cambio-climatico-comer-carne-sintetica-1184820' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/carne-hamburguesa-2928714.jpg?tf=1200x' alt='La solución de Bill Gates para acabar con el cambio climático: comer carne sintética' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/fabrican-robot-ya-utilizando-hospitales-entregar-medicinas-cuidar-pacientes-1184814'>Fabrican un robot que ya se está utilizando en hospitales para entregar medicinas y cuidar pacientes</a></h4>
+    <a href='https://computerhoy.com/ciencia/fabrican-robot-ya-utilizando-hospitales-entregar-medicinas-cuidar-pacientes-1184814' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/robot-puede-ser-guardia-seguridad-limpiador-cuidador-hospitales-2928704.jpg?tf=1200x' alt='Fabrican un robot que ya se está utilizando en hospitales para entregar medicinas y cuidar pacientes' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/analisis/pocketbook-era-ebooks-audiolibros-solo-dispositivo-semanas-autonomia-1182838'>PocketBook Era, eBooks y audiolibros en un solo dispositivo con semanas de autonomía</a></h4>
+    <a href='https://computerhoy.com/analisis/pocketbook-era-ebooks-audiolibros-solo-dispositivo-semanas-autonomia-1182838' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/pocketbook-era-analisis-opinion-2927172.jpg?tf=1200x' alt='PocketBook Era, eBooks y audiolibros en un solo dispositivo con semanas de autonomía' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apple/apple-trabaja-solucion-problema-lineas-horizontales-pantalla-iphone-14-pro-1184808'>Apple trabaja en una solución para el problema de las líneas horizontales de la pantalla del iPhone 14 Pro</a></h4>
     <a href='https://computerhoy.com/apple/apple-trabaja-solucion-problema-lineas-horizontales-pantalla-iphone-14-pro-1184808' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/fallo-pantalla-iphone-14-pro-max-afectando-muchos-usuarios-2910958.jpg?tf=1200x' alt='Apple trabaja en una solución para el problema de las líneas horizontales de la pantalla del iPhone 14 Pro' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/saca-todo-partido-barra-windows-11-estos-trucos-1177426'>Saca todo el partido a la barra de Windows 11 con estos trucos</a></h4>
-    <a href='https://computerhoy.com/tutoriales/saca-todo-partido-barra-windows-11-estos-trucos-1177426' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/windows-11-2915612.jpg?tf=1200x' alt='Saca todo el partido a la barra de Windows 11 con estos trucos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/dos-semanas-bateria-smartwatch-gps-sorprende-precio-179-euros-1182872'>Dos semanas de batería en un smartwatch con GPS que sorprende por su precio, de 179 euros</a></h4>
-    <a href='https://computerhoy.com/tecnologia/dos-semanas-bateria-smartwatch-gps-sorprende-precio-179-euros-1182872' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/huawei-watch-gt-3-oficial-podras-responder-llamadas-munecael-huawei-watch-gt-3-oficial-podras-responder-llamadas-muneca-2868723.jpg?tf=1200x' alt='Dos semanas de batería en un smartwatch con GPS que sorprende por su precio, de 179 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-funcionan-utilizar-comunidades-whatsapp-ios-android-1166744'>Cómo funcionan y para qué utilizar las Comunidades WhatsApp en iOS o Android </a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-funcionan-utilizar-comunidades-whatsapp-ios-android-1166744' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/whatsapp-comunidades-2895452.jpg?tf=1200x' alt='Cómo funcionan y para qué utilizar las Comunidades WhatsApp en iOS o Android ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/cosas-nadie-te-cuenta-deberias-saber-bicicletas-electricas-ebikes-1184218'>Cosas que nadie te cuenta y que deberías saber de las bicicletas eléctricas (eBikes)</a></h4>
-    <a href='https://computerhoy.com/motor/cosas-nadie-te-cuenta-deberias-saber-bicicletas-electricas-ebikes-1184218' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/cosas-nadie-te-cuenta-deberias-saber-bicicletas-electricas-ebikes-2928046.jpg?tf=1200x' alt='Cosas que nadie te cuenta y que deberías saber de las bicicletas eléctricas (eBikes)' />
     </a>
 </div>
 
