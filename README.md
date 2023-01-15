@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/temperatura-ideal-cuerpo-te-duermas-rapido-expertos-1184580'>La temperatura ideal de tu cuerpo para que te duermas rápido, según los expertos</a></h4>
+    <a href='https://computerhoy.com/life/temperatura-ideal-cuerpo-te-duermas-rapido-expertos-1184580' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/beneficios-dormir-boca-arriba-mejor-lado-2502033.jpg?tf=1200x' alt='La temperatura ideal de tu cuerpo para que te duermas rápido, según los expertos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-auriculares-iphone-puedes-comprar-1023811'>Más allá de los AirPods, estos son los mejores auriculares para iPhone que puedes comprar</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-auriculares-iphone-puedes-comprar-1023811' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/analisis-nothing-ear-stick-2856251.jpg?tf=1200x' alt='Más allá de los AirPods, estos son los mejores auriculares para iPhone que puedes comprar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciencia/japon-pintan-rayas-vacas-parezcan-cebras-ahuyentar-moscas-1184092'>Por qué en Japón pintan rayas a las vacas para que parezcan cebras</a></h4>
     <a href='https://computerhoy.com/ciencia/japon-pintan-rayas-vacas-parezcan-cebras-ahuyentar-moscas-1184092' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/japon-pintan-rayas-vacas-parezcan-cebras-2927732.jpg?tf=1200x' alt='Por qué en Japón pintan rayas a las vacas para que parezcan cebras' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/ciencia/crean-perro-robot-juega-baila-rasca-protege-casa-cuando-no-estas-1184560'>Crean un perro robot que juega, baila, se rasca y protege tu casa cuando no estás</a></h4>
     <a href='https://computerhoy.com/ciencia/crean-perro-robot-juega-baila-rasca-protege-casa-cuando-no-estas-1184560' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/loona-2928412.jpg?tf=1200x' alt='Crean un perro robot que juega, baila, se rasca y protege tu casa cuando no estás' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/5-formas-tener-wifi-proveedor-internet-1183482'>5 formas de tener WiFi sin un proveedor de Internet</a></h4>
-    <a href='https://computerhoy.com/tecnologia/5-formas-tener-wifi-proveedor-internet-1183482' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/wifi-2926594.jpg?tf=1200x' alt='5 formas de tener WiFi sin un proveedor de Internet' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/mejores/auriculares-inalambricos-bluetooth-1182858'>Mejores auriculares inalámbricos que puedes comprar ahora mismo</a></h4>
-    <a href='https://computerhoy.com/mejores/auriculares-inalambricos-bluetooth-1182858' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/apple-airpods-pro-2-analisis-opinion-2844275.jpg?tf=1200x' alt='Mejores auriculares inalámbricos que puedes comprar ahora mismo' />
     </a>
 </div>
 
