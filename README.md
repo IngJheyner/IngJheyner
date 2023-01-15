@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/ia-aquarium-acuario-inteligencia-artificial-video-1184848'>El primer acuario con inteligencia artificial muestra información sobre los peces que estás mirando (vídeo)</a></h4>
+    <a href='https://computerhoy.com/tecnologia/ia-aquarium-acuario-inteligencia-artificial-video-1184848' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/verticalimage1673793438047-2928832.jpg?tf=1200x' alt='El primer acuario con inteligencia artificial muestra información sobre los peces que estás mirando (vídeo)' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/espacio/todos-detalles-artemis-iii-regreso-ser-humano-luna-1184830'>Todos los detalles de la Artemis III: el regreso del ser humano a la Luna</a></h4>
     <a href='https://computerhoy.com/espacio/todos-detalles-artemis-iii-regreso-ser-humano-luna-1184830' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/mision-artemis-nasa-2928802.jpg?tf=1200x' alt='Todos los detalles de la Artemis III: el regreso del ser humano a la Luna' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/life/solucion-bill-gates-acabar-cambio-climatico-comer-carne-sintetica-1184820'>La solución de Bill Gates para acabar con el cambio climático: comer carne sintética</a></h4>
     <a href='https://computerhoy.com/life/solucion-bill-gates-acabar-cambio-climatico-comer-carne-sintetica-1184820' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/carne-hamburguesa-2928714.jpg?tf=1200x' alt='La solución de Bill Gates para acabar con el cambio climático: comer carne sintética' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/fabrican-robot-ya-utilizando-hospitales-entregar-medicinas-cuidar-pacientes-1184814'>Fabrican un robot que ya se está utilizando en hospitales para entregar medicinas y cuidar pacientes</a></h4>
-    <a href='https://computerhoy.com/ciencia/fabrican-robot-ya-utilizando-hospitales-entregar-medicinas-cuidar-pacientes-1184814' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/robot-puede-ser-guardia-seguridad-limpiador-cuidador-hospitales-2928704.jpg?tf=1200x' alt='Fabrican un robot que ya se está utilizando en hospitales para entregar medicinas y cuidar pacientes' />
     </a>
 </div>
 
