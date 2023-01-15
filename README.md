@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/dos-semanas-bateria-smartwatch-gps-sorprende-precio-179-euros-1182872'>Dos semanas de batería en un smartwatch con GPS que sorprende por su precio, de 179 euros</a></h4>
+    <a href='https://computerhoy.com/tecnologia/dos-semanas-bateria-smartwatch-gps-sorprende-precio-179-euros-1182872' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/huawei-watch-gt-3-oficial-podras-responder-llamadas-munecael-huawei-watch-gt-3-oficial-podras-responder-llamadas-muneca-2868723.jpg?tf=1200x' alt='Dos semanas de batería en un smartwatch con GPS que sorprende por su precio, de 179 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-funcionan-utilizar-comunidades-whatsapp-ios-android-1166744'>Cómo funcionan y para qué utilizar las Comunidades WhatsApp en iOS o Android </a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-funcionan-utilizar-comunidades-whatsapp-ios-android-1166744' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/whatsapp-comunidades-2895452.jpg?tf=1200x' alt='Cómo funcionan y para qué utilizar las Comunidades WhatsApp en iOS o Android ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/motor/cosas-nadie-te-cuenta-deberias-saber-bicicletas-electricas-ebikes-1184218'>Cosas que nadie te cuenta y que deberías saber de las bicicletas eléctricas (eBikes)</a></h4>
+    <a href='https://computerhoy.com/motor/cosas-nadie-te-cuenta-deberias-saber-bicicletas-electricas-ebikes-1184218' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/cosas-nadie-te-cuenta-deberias-saber-bicicletas-electricas-ebikes-2928046.jpg?tf=1200x' alt='Cosas que nadie te cuenta y que deberías saber de las bicicletas eléctricas (eBikes)' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/analisis/review-samsung-odyssey-ark-bestia-parece-demostracion-fuerza-algo-comercial-1183994'>Análisis del Samsung Odyssey Ark, una bestia que parece una demostración de fuerza más que algo comercial</a></h4>
     <a href='https://computerhoy.com/analisis/review-samsung-odyssey-ark-bestia-parece-demostracion-fuerza-algo-comercial-1183994' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/opinion-samsung-odyssey-ark-2796225.jpg?tf=1200x' alt='Análisis del Samsung Odyssey Ark, una bestia que parece una demostración de fuerza más que algo comercial' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/tutoriales/6-maneras-liberar-espacio-rapidamente-windows-11-1182194'>6 maneras de liberar espacio rápidamente en Windows 11</a></h4>
     <a href='https://computerhoy.com/tutoriales/6-maneras-liberar-espacio-rapidamente-windows-11-1182194' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/disco-duro-ordenador-2924360.jpg?tf=1200x' alt='6 maneras de liberar espacio rápidamente en Windows 11' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/mejores-consolas-portatiles-ofertas-descuentos-915015'>Estas son las mejores consolas portátiles que puedes comprar</a></h4>
-    <a href='https://computerhoy.com/reportajes/mejores-consolas-portatiles-ofertas-descuentos-915015' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/analisis-steam-deck-2704099.jpg?tf=1200x' alt='Estas son las mejores consolas portátiles que puedes comprar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/invento-hara-te-olvides-sacar-basura-1184582'>El invento que hará que te olvides de sacar la basura</a></h4>
-    <a href='https://computerhoy.com/ciencia/invento-hara-te-olvides-sacar-basura-1184582' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/trenecito-cubos-basura-2928452.jpg?tf=1200x' alt='El invento que hará que te olvides de sacar la basura' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/resultados-busqueda-google-no-deberias-confiar-1183408'>Los resultados de búsqueda de Google en los que no deberías confiar</a></h4>
-    <a href='https://computerhoy.com/tecnologia/resultados-busqueda-google-no-deberias-confiar-1183408' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/ordenador-google-2926462.jpg?tf=1200x' alt='Los resultados de búsqueda de Google en los que no deberías confiar' />
     </a>
 </div>
 
