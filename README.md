@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/moviles/estas-son-mejores-peliculas-jamas-rodadas-smartphone-1185164'>Estas son las mejores películas jamás rodadas con un smartphone</a></h4>
+    <a href='https://computerhoy.com/moviles/estas-son-mejores-peliculas-jamas-rodadas-smartphone-1185164' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/iphone-13-2929384.jpg?tf=1200x' alt='Estas son las mejores películas jamás rodadas con un smartphone' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/audio/apple-airpods-max-2-llega-momento-renovacion-esperamos-integren-1185108'>Apple AirPods Max 2, llega el momento de su renovación y esto es lo que esperamos que integren</a></h4>
+    <a href='https://computerhoy.com/audio/apple-airpods-max-2-llega-momento-renovacion-esperamos-integren-1185108' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/airpods-max-2232621.jpeg?tf=1200x' alt='Apple AirPods Max 2, llega el momento de su renovación y esto es lo que esperamos que integren' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/redes-sociales/algunas-mejores-opciones-ser-nuevo-ceo-twitter-elon-musk-quiere-salvar-red-social-1185116'>Algunas de las mejores opciones para ser el nuevo CEO de Twitter si Elon Musk quiere salvar la red social</a></h4>
+    <a href='https://computerhoy.com/redes-sociales/algunas-mejores-opciones-ser-nuevo-ceo-twitter-elon-musk-quiere-salvar-red-social-1185116' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/estas-son-algunas-mejores-opciones-ser-nuevo-ceo-twitter-elon-musk-quiere-salvar-red-social-2929310.jpg?tf=1200x' alt='Algunas de las mejores opciones para ser el nuevo CEO de Twitter si Elon Musk quiere salvar la red social' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/estos-auriculares-nos-han-enamorado-buscas-cancelacion-ruido-precio-derribo-freebuds-5i-son-buscas-1183470'>Estos auriculares nos han enamorado: si buscas cancelación de ruido a precio de derribo, los FreeBuds 5i son lo que buscas</a></h4>
     <a href='https://computerhoy.com/tecnologia/estos-auriculares-nos-han-enamorado-buscas-cancelacion-ruido-precio-derribo-freebuds-5i-son-buscas-1183470' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/huawei-freebuds-5i-2917934.jpg?tf=1200x' alt='Estos auriculares nos han enamorado: si buscas cancelación de ruido a precio de derribo, los FreeBuds 5i son lo que buscas' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/patrocinado/gracias-aliexpress-suelos-bien-limpios-ademas-descuento-1184584'>Gracias a AliExpress tus suelos bien limpios y, además, con descuento</a></h4>
     <a href='https://computerhoy.com/patrocinado/gracias-aliexpress-suelos-bien-limpios-ademas-descuento-1184584' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/abir-x8-2928446.jpg?tf=1200x' alt='Gracias a AliExpress tus suelos bien limpios y, además, con descuento' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/patrocinado/aliexpress-ha-vuelto-hacer-realme-9-5g-mucho-menos-cuesta-normalmente-1184232'>AliExpress lo ha vuelto a hacer: realme 9 5G por mucho menos de lo cuesta normalmente</a></h4>
-    <a href='https://computerhoy.com/patrocinado/aliexpress-ha-vuelto-hacer-realme-9-5g-mucho-menos-cuesta-normalmente-1184232' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/realme-9-5g-2699607.jpg?tf=1200x' alt='AliExpress lo ha vuelto a hacer: realme 9 5G por mucho menos de lo cuesta normalmente' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/patrocinado/smartphone-android-original-muy-buena-rebaja-aliexpress-1184202'>El smartphone de Android más original con una muy buena rebaja en AliExpress</a></h4>
-    <a href='https://computerhoy.com/patrocinado/smartphone-android-original-muy-buena-rebaja-aliexpress-1184202' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/nothing-phone-1-analisis-opinion-2772691.jpg?tf=1200x' alt='El smartphone de Android más original con una muy buena rebaja en AliExpress' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/son-grandes-revoluciones-mundo-smartphone-esperamos-2023-1185102'>Estas son las grandes revoluciones del mundo del smartphone que esperamos en 2023 </a></h4>
-    <a href='https://computerhoy.com/moviles/son-grandes-revoluciones-mundo-smartphone-esperamos-2023-1185102' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/moviles-top-2710927.jpg?tf=1200x' alt='Estas son las grandes revoluciones del mundo del smartphone que esperamos en 2023 ' />
     </a>
 </div>
 
