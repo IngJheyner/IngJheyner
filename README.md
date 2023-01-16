@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/streaming/primero-netflix-ahora-amazon-seria-plan-barato-prime-lite-ya-siendo-probado-1185366'>Primero Netflix y ahora Amazon: así sería el plan barato Prime Lite que ya está siendo probado</a></h4>
+    <a href='https://computerhoy.com/streaming/primero-netflix-ahora-amazon-seria-plan-barato-prime-lite-ya-siendo-probado-1185366' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/portada-amazon-prime-2749921.jpg?tf=1200x' alt='Primero Netflix y ahora Amazon: así sería el plan barato Prime Lite que ya está siendo probado' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/redes-sociales/logo-oficial-twitter-50-dolares-elon-musk-vacia-oficinas-pone-todo-venta-1185360'>El logo oficial de Twitter por 50 dólares: Elon Musk vacía las oficinas y lo pone todo a la venta</a></h4>
+    <a href='https://computerhoy.com/redes-sociales/logo-oficial-twitter-50-dolares-elon-musk-vacia-oficinas-pone-todo-venta-1185360' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/logo-oficial-twitter-50-dolares-elon-musk-vacia-oficinas-pone-todo-venta-2929836.jpg?tf=1200x' alt='El logo oficial de Twitter por 50 dólares: Elon Musk vacía las oficinas y lo pone todo a la venta' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/gaming/crear-juego-utilizando-inteligencia-artificial-posible-resultado-1185358'>Crear un juego utilizando Inteligencia Artificial es posible y este es el resultado</a></h4>
     <a href='https://computerhoy.com/gaming/crear-juego-utilizando-inteligencia-artificial-posible-resultado-1185358' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/crear-juego-utilizando-inteligencia-artificial-posible-resultado-2929834.jpg?tf=1200x' alt='Crear un juego utilizando Inteligencia Artificial es posible y este es el resultado' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-televisores-qled-puedes-comprar-1021085'>Mejores televisores QLED que puedes comprar en 2023</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/mejores-televisores-qled-puedes-comprar-1021085' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/xiaomi-tv-q2-2929520.jpg?tf=1200x' alt='Mejores televisores QLED que puedes comprar en 2023' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/huawei-estrena-2023-nueva-tablet-matepad-104-pulgadas-1185356'>Huawei estrena 2023 con una nueva tablet: así es la MatePad SE de 10,4 pulgadas</a></h4>
-    <a href='https://computerhoy.com/moviles/huawei-estrena-2023-nueva-tablet-matepad-104-pulgadas-1185356' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/huawei-matepad-2929762.jpg?tf=1200x' alt='Huawei estrena 2023 con una nueva tablet: así es la MatePad SE de 10,4 pulgadas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/apple-quiere-pantallas-microled-todos-dispositivos-pero-podrian-tardar-decada-1185334'>Apple quiere pantallas microLED en todos sus dispositivos, pero podrían tardar una década</a></h4>
-    <a href='https://computerhoy.com/apple/apple-quiere-pantallas-microled-todos-dispositivos-pero-podrian-tardar-decada-1185334' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/apple-iphone-14-plus-analisis-opinion-2857703.jpg?tf=1200x' alt='Apple quiere pantallas microLED en todos sus dispositivos, pero podrían tardar una década' />
     </a>
 </div>
 
