@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/completo-deportivo-6-dias-bateria-reloj-fibit-rompe-mercado-nueva-rebaja-precio-1184046'>Completo, deportivo y con 6 días de batería: este reloj de Fibit rompe el mercado con una nueva rebaja de precio</a></h4>
+    <a href='https://computerhoy.com/tecnologia/completo-deportivo-6-dias-bateria-reloj-fibit-rompe-mercado-nueva-rebaja-precio-1184046' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/fitbit-versa-4-2927658.jpg?tf=1200x' alt='Completo, deportivo y con 6 días de batería: este reloj de Fibit rompe el mercado con una nueva rebaja de precio' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/steve-jobs-cambiaba-coche-cada-6-meses-conducia-matricula-1185170'>Por qué Steve Jobs cambiaba de coche cada 6 meses y conducía sin matrícula</a></h4>
+    <a href='https://computerhoy.com/apple/steve-jobs-cambiaba-coche-cada-6-meses-conducia-matricula-1185170' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/steve-jobs-cambiaba-coche-cada-6-meses-conducia-matricula-2929406.jpg?tf=1200x' alt='Por qué Steve Jobs cambiaba de coche cada 6 meses y conducía sin matrícula' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/moviles/estas-son-mejores-peliculas-jamas-rodadas-smartphone-1185164'>Estas son las mejores películas jamás rodadas con un smartphone</a></h4>
     <a href='https://computerhoy.com/moviles/estas-son-mejores-peliculas-jamas-rodadas-smartphone-1185164' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/iphone-13-2929384.jpg?tf=1200x' alt='Estas son las mejores películas jamás rodadas con un smartphone' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/redes-sociales/algunas-mejores-opciones-ser-nuevo-ceo-twitter-elon-musk-quiere-salvar-red-social-1185116'>Algunas de las mejores opciones para ser el nuevo CEO de Twitter si Elon Musk quiere salvar la red social</a></h4>
     <a href='https://computerhoy.com/redes-sociales/algunas-mejores-opciones-ser-nuevo-ceo-twitter-elon-musk-quiere-salvar-red-social-1185116' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/estas-son-algunas-mejores-opciones-ser-nuevo-ceo-twitter-elon-musk-quiere-salvar-red-social-2929310.jpg?tf=1200x' alt='Algunas de las mejores opciones para ser el nuevo CEO de Twitter si Elon Musk quiere salvar la red social' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/estos-auriculares-nos-han-enamorado-buscas-cancelacion-ruido-precio-derribo-freebuds-5i-son-buscas-1183470'>Estos auriculares nos han enamorado: si buscas cancelación de ruido a precio de derribo, los FreeBuds 5i son lo que buscas</a></h4>
-    <a href='https://computerhoy.com/tecnologia/estos-auriculares-nos-han-enamorado-buscas-cancelacion-ruido-precio-derribo-freebuds-5i-son-buscas-1183470' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/huawei-freebuds-5i-2917934.jpg?tf=1200x' alt='Estos auriculares nos han enamorado: si buscas cancelación de ruido a precio de derribo, los FreeBuds 5i son lo que buscas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/patrocinado/gracias-aliexpress-suelos-bien-limpios-ademas-descuento-1184584'>Gracias a AliExpress tus suelos bien limpios y, además, con descuento</a></h4>
-    <a href='https://computerhoy.com/patrocinado/gracias-aliexpress-suelos-bien-limpios-ademas-descuento-1184584' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/abir-x8-2928446.jpg?tf=1200x' alt='Gracias a AliExpress tus suelos bien limpios y, además, con descuento' />
     </a>
 </div>
 
