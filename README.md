@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/gaming/crear-juego-utilizando-inteligencia-artificial-posible-resultado-1185358'>Crear un juego utilizando Inteligencia Artificial es posible y este es el resultado</a></h4>
+    <a href='https://computerhoy.com/gaming/crear-juego-utilizando-inteligencia-artificial-posible-resultado-1185358' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/crear-juego-utilizando-inteligencia-artificial-posible-resultado-2929834.jpg?tf=1200x' alt='Crear un juego utilizando Inteligencia Artificial es posible y este es el resultado' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/listas/gaming/juegos-dos-tres-personas-movil-online-611193'>12 juegos para dos o tres personas desde el móvil que funcionan online</a></h4>
+    <a href='https://computerhoy.com/listas/gaming/juegos-dos-tres-personas-movil-online-611193' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/04/amigos-movil-1917919.jpg?tf=1200x' alt='12 juegos para dos o tres personas desde el móvil que funcionan online' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-televisores-qled-puedes-comprar-1021085'>Mejores televisores QLED que puedes comprar en 2023</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-televisores-qled-puedes-comprar-1021085' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/xiaomi-tv-q2-2929520.jpg?tf=1200x' alt='Mejores televisores QLED que puedes comprar en 2023' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/moviles/huawei-estrena-2023-nueva-tablet-matepad-104-pulgadas-1185356'>Huawei estrena 2023 con una nueva tablet: así es la MatePad SE de 10,4 pulgadas</a></h4>
     <a href='https://computerhoy.com/moviles/huawei-estrena-2023-nueva-tablet-matepad-104-pulgadas-1185356' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/huawei-matepad-2929762.jpg?tf=1200x' alt='Huawei estrena 2023 con una nueva tablet: así es la MatePad SE de 10,4 pulgadas' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/apple/apple-quiere-pantallas-microled-todos-dispositivos-pero-podrian-tardar-decada-1185334'>Apple quiere pantallas microLED en todos sus dispositivos, pero podrían tardar una década</a></h4>
     <a href='https://computerhoy.com/apple/apple-quiere-pantallas-microled-todos-dispositivos-pero-podrian-tardar-decada-1185334' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/apple-iphone-14-plus-analisis-opinion-2857703.jpg?tf=1200x' alt='Apple quiere pantallas microLED en todos sus dispositivos, pero podrían tardar una década' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/desarrollan-tractor-ecologico-impulsado-estiercol-vaca-1185308'>Desarrollan un tractor ecológico impulsado por estiércol de vaca</a></h4>
-    <a href='https://computerhoy.com/ciencia/desarrollan-tractor-ecologico-impulsado-estiercol-vaca-1185308' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/desarrollan-tractor-ecologico-impulsado-estiercol-vaca-2929780.jpg?tf=1200x' alt='Desarrollan un tractor ecológico impulsado por estiércol de vaca' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/tiktok-cambia-interfaz-tabletas-android-plegables-1185262'>TikTok cambia su interfaz para tabletas Android y plegables</a></h4>
-    <a href='https://computerhoy.com/apps/tiktok-cambia-interfaz-tabletas-android-plegables-1185262' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/google-play-tiktok-2929744.jpg?tf=1200x' alt='TikTok cambia su interfaz para tabletas Android y plegables' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/nasa-ya-trabaja-telescopio-sera-potente-100-veces-grande-james-webb-1185238'>La NASA ya trabaja un telescopio que será más potente y hasta 100 veces más grande que el James Webb </a></h4>
-    <a href='https://computerhoy.com/espacio/nasa-ya-trabaja-telescopio-sera-potente-100-veces-grande-james-webb-1185238' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/nasa-ya-trabaja-sustituto-dejara-james-webb-altura-prismaticos-2929558.jpg?tf=1200x' alt='La NASA ya trabaja un telescopio que será más potente y hasta 100 veces más grande que el James Webb ' />
     </a>
 </div>
 
