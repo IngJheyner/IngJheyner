@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/espacio/nasa-ya-trabaja-telescopio-sera-potente-100-veces-grande-james-webb-1185238'>La NASA ya trabaja un telescopio que será más potente y hasta 100 veces más grande que el James Webb </a></h4>
+    <a href='https://computerhoy.com/espacio/nasa-ya-trabaja-telescopio-sera-potente-100-veces-grande-james-webb-1185238' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/nasa-ya-trabaja-sustituto-dejara-james-webb-altura-prismaticos-2929558.jpg?tf=1200x' alt='La NASA ya trabaja un telescopio que será más potente y hasta 100 veces más grande que el James Webb ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/motor/donde-estan-baterias-estado-solido-revolucion-coche-electrico-no-llega-1185258'>¿Dónde están las baterías de estado sólido? La revolución del coche eléctrico que no llega</a></h4>
     <a href='https://computerhoy.com/motor/donde-estan-baterias-estado-solido-revolucion-coche-electrico-no-llega-1185258' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/baterias-estado-solido-ford-bmw-2470691.jpg?tf=1200x' alt='¿Dónde están las baterías de estado sólido? La revolución del coche eléctrico que no llega' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/completo-deportivo-6-dias-bateria-reloj-fibit-rompe-mercado-nueva-rebaja-precio-1184046'>Completo, deportivo y con 6 días de batería: este reloj de Fibit rompe el mercado con una nueva rebaja de precio</a></h4>
     <a href='https://computerhoy.com/tecnologia/completo-deportivo-6-dias-bateria-reloj-fibit-rompe-mercado-nueva-rebaja-precio-1184046' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/fitbit-versa-4-2927658.jpg?tf=1200x' alt='Completo, deportivo y con 6 días de batería: este reloj de Fibit rompe el mercado con una nueva rebaja de precio' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/steve-jobs-cambiaba-coche-cada-6-meses-conducia-matricula-1185170'>Por qué Steve Jobs cambiaba de coche cada 6 meses y conducía sin matrícula</a></h4>
-    <a href='https://computerhoy.com/apple/steve-jobs-cambiaba-coche-cada-6-meses-conducia-matricula-1185170' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/steve-jobs-cambiaba-coche-cada-6-meses-conducia-matricula-2929406.jpg?tf=1200x' alt='Por qué Steve Jobs cambiaba de coche cada 6 meses y conducía sin matrícula' />
     </a>
 </div>
 
