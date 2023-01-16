@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/biel-glasses-gafas-inteligencia-artificial-realidad-aumentada-discapacidad-visual-1185444'>Una startup española quiere sustituir los perros guía para ciegos por unas gafas futuristas con IA y robótica</a></h4>
+    <a href='https://computerhoy.com/tecnologia/biel-glasses-gafas-inteligencia-artificial-realidad-aumentada-discapacidad-visual-1185444' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/startup-espanola-quiere-sustituir-perros-guia-ciegos-unas-gafas-futuristas-ia-robotica-2929916.jpg?tf=1200x' alt='Una startup española quiere sustituir los perros guía para ciegos por unas gafas futuristas con IA y robótica' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/ia-acusadas-pirateria-stable-diffusion-midjourney-seran-demandas-vulnerar-copyright-1185364'>Las IA, acusadas de piratería: Stable Diffusion y Midjourney serán demandas por vulnerar el copyright</a></h4>
+    <a href='https://computerhoy.com/tecnologia/ia-acusadas-pirateria-stable-diffusion-midjourney-seran-demandas-vulnerar-copyright-1185364' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/artistas-herramientas-inteligencia-artificial-guerra-ha-comenzado-2819025.jpg?tf=1200x' alt='Las IA, acusadas de piratería: Stable Diffusion y Midjourney serán demandas por vulnerar el copyright' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/todas-novedades-kodi-200-nexus-donde-descargarlo-1185436'>Todas las novedades de Kodi 20.0 Nexus y dónde descargarlo</a></h4>
+    <a href='https://computerhoy.com/apps/todas-novedades-kodi-200-nexus-donde-descargarlo-1185436' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/kodi-2929924.jpg?tf=1200x' alt='Todas las novedades de Kodi 20.0 Nexus y dónde descargarlo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/sera-tecnologia-dominante-proximos-anos-bill-gates-1185432'>Esta será la tecnología dominante en los próximos años según Bill Gates</a></h4>
+    <a href='https://computerhoy.com/life/sera-tecnologia-dominante-proximos-anos-bill-gates-1185432' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/bill-gates-2628607.jpg?tf=1200x' alt='Esta será la tecnología dominante en los próximos años según Bill Gates' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/streaming/primero-netflix-ahora-amazon-seria-plan-barato-prime-lite-ya-siendo-probado-1185366'>Primero Netflix y ahora Amazon: así sería el plan barato Prime Lite que ya está siendo probado</a></h4>
     <a href='https://computerhoy.com/streaming/primero-netflix-ahora-amazon-seria-plan-barato-prime-lite-ya-siendo-probado-1185366' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/portada-amazon-prime-2749921.jpg?tf=1200x' alt='Primero Netflix y ahora Amazon: así sería el plan barato Prime Lite que ya está siendo probado' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/redes-sociales/logo-oficial-twitter-50-dolares-elon-musk-vacia-oficinas-pone-todo-venta-1185360'>El logo oficial de Twitter por 50 dólares: Elon Musk vacía las oficinas y lo pone todo a la venta</a></h4>
-    <a href='https://computerhoy.com/redes-sociales/logo-oficial-twitter-50-dolares-elon-musk-vacia-oficinas-pone-todo-venta-1185360' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/logo-oficial-twitter-50-dolares-elon-musk-vacia-oficinas-pone-todo-venta-2929836.jpg?tf=1200x' alt='El logo oficial de Twitter por 50 dólares: Elon Musk vacía las oficinas y lo pone todo a la venta' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/gaming/crear-juego-utilizando-inteligencia-artificial-posible-resultado-1185358'>Crear un juego utilizando Inteligencia Artificial es posible y este es el resultado</a></h4>
-    <a href='https://computerhoy.com/gaming/crear-juego-utilizando-inteligencia-artificial-posible-resultado-1185358' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/crear-juego-utilizando-inteligencia-artificial-posible-resultado-2929834.jpg?tf=1200x' alt='Crear un juego utilizando Inteligencia Artificial es posible y este es el resultado' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/listas/gaming/juegos-dos-tres-personas-movil-online-611193'>12 juegos para dos o tres personas desde el móvil que funcionan online</a></h4>
-    <a href='https://computerhoy.com/listas/gaming/juegos-dos-tres-personas-movil-online-611193' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/04/amigos-movil-1917919.jpg?tf=1200x' alt='12 juegos para dos o tres personas desde el móvil que funcionan online' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-televisores-qled-puedes-comprar-1021085'>Mejores televisores QLED que puedes comprar en 2023</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-televisores-qled-puedes-comprar-1021085' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/xiaomi-tv-q2-2929520.jpg?tf=1200x' alt='Mejores televisores QLED que puedes comprar en 2023' />
     </a>
 </div>
 
