@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tv/hdmi-alt-mode-ha-muerto-antes-convertirse-estandar-mercado-1184094'>Qué es HDMI Alt Mode y por qué ha muerto antes de convertirse en un estándar en el mercado</a></h4>
+    <a href='https://computerhoy.com/tv/hdmi-alt-mode-ha-muerto-antes-convertirse-estandar-mercado-1184094' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/cable-hdmi-21-2663133.jpg?tf=1200x' alt='Qué es HDMI Alt Mode y por qué ha muerto antes de convertirse en un estándar en el mercado' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/37-noticias-tecnologia-comenzar-manana-informado-ultimo-1185076'>37 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
     <a href='https://computerhoy.com/tecnologia/37-noticias-tecnologia-comenzar-manana-informado-ultimo-1185076' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/37-noticias-tecnologia-comenzar-manana-informado-ultimo-2929162.jpg?tf=1200x' alt='37 noticias de tecnología para comenzar la mañana informado de lo último' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/entretenimiento/serie-agent-from-above-netflix-dron-camara-heridas-graves-protagonista-kai-ko-1184874'>La serie Agent From Above de Netflix, paralizada porque un dron con cámara causa heridas graves a su protagonista</a></h4>
     <a href='https://computerhoy.com/entretenimiento/serie-agent-from-above-netflix-dron-camara-heridas-graves-protagonista-kai-ko-1184874' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/serie-agent-above-netflix-paralizada-porque-dron-camara-causa-heridas-graves-protagonista-2928950.jpg?tf=1200x' alt='La serie Agent From Above de Netflix, paralizada porque un dron con cámara causa heridas graves a su protagonista' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/audio/sony-walkman-nw-zx700-series-android-12-1184870'>El nuevo Walkman de Sony con Android 12 es espectacular</a></h4>
-    <a href='https://computerhoy.com/audio/sony-walkman-nw-zx700-series-android-12-1184870' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/verticalimage1673804813728-2928902.jpg?tf=1200x' alt='El nuevo Walkman de Sony con Android 12 es espectacular' />
     </a>
 </div>
 
