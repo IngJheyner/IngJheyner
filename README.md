@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/alimentacion/robot-cocina-cecotec-mambo-touch-pantalla-tactil-recetario-200-euros-descuento-1185452'>Este robot de cocina de Cecotec tiene pantalla integrada con recetario, y 200 euros de descuento</a></h4>
+    <a href='https://computerhoy.com/alimentacion/robot-cocina-cecotec-mambo-touch-pantalla-tactil-recetario-200-euros-descuento-1185452' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/robot-cocina-cecotec-tiene-pantalla-integrada-recetario-200-euros-descuento-2929942.jpg?tf=1200x' alt='Este robot de cocina de Cecotec tiene pantalla integrada con recetario, y 200 euros de descuento' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/biel-glasses-gafas-inteligencia-artificial-realidad-aumentada-discapacidad-visual-1185444'>Una startup española quiere sustituir los perros guía para ciegos por unas gafas futuristas con IA y robótica</a></h4>
     <a href='https://computerhoy.com/tecnologia/biel-glasses-gafas-inteligencia-artificial-realidad-aumentada-discapacidad-visual-1185444' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/startup-espanola-quiere-sustituir-perros-guia-ciegos-unas-gafas-futuristas-ia-robotica-2929916.jpg?tf=1200x' alt='Una startup española quiere sustituir los perros guía para ciegos por unas gafas futuristas con IA y robótica' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/life/sera-tecnologia-dominante-proximos-anos-bill-gates-1185432'>Esta será la tecnología dominante en los próximos años según Bill Gates</a></h4>
     <a href='https://computerhoy.com/life/sera-tecnologia-dominante-proximos-anos-bill-gates-1185432' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/bill-gates-2628607.jpg?tf=1200x' alt='Esta será la tecnología dominante en los próximos años según Bill Gates' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/streaming/primero-netflix-ahora-amazon-seria-plan-barato-prime-lite-ya-siendo-probado-1185366'>Primero Netflix y ahora Amazon: así sería el plan barato Prime Lite que ya está siendo probado</a></h4>
-    <a href='https://computerhoy.com/streaming/primero-netflix-ahora-amazon-seria-plan-barato-prime-lite-ya-siendo-probado-1185366' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/portada-amazon-prime-2749921.jpg?tf=1200x' alt='Primero Netflix y ahora Amazon: así sería el plan barato Prime Lite que ya está siendo probado' />
     </a>
 </div>
 
