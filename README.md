@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/sera-proxima-version-windows-inteligencia-artificial-integrada-1185100'>Así será la próxima versión de Windows con Inteligencia Artificial integrada</a></h4>
-    <a href='https://computerhoy.com/pc/sera-proxima-version-windows-inteligencia-artificial-integrada-1185100' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/windows-inteligencia-artificial-integrada-2929208.jpg?tf=1200x' alt='Así será la próxima versión de Windows con Inteligencia Artificial integrada' />
+    <h4><a href='https://computerhoy.com/tecnologia/estos-auriculares-nos-han-enamorado-buscas-cancelacion-ruido-precio-derribo-freebuds-5i-son-buscas-1183470'>Estos auriculares nos han enamorado: si buscas cancelación de ruido a precio de derribo, los FreeBuds 5i son lo que buscas</a></h4>
+    <a href='https://computerhoy.com/tecnologia/estos-auriculares-nos-han-enamorado-buscas-cancelacion-ruido-precio-derribo-freebuds-5i-son-buscas-1183470' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/huawei-freebuds-5i-2917934.jpg?tf=1200x' alt='Estos auriculares nos han enamorado: si buscas cancelación de ruido a precio de derribo, los FreeBuds 5i son lo que buscas' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/mejores/webcam-modelos-videollamadas-conferencias-1185084'>Qué webcam comprar: mejores modelos para videollamadas y conferencias</a></h4>
-    <a href='https://computerhoy.com/mejores/webcam-modelos-videollamadas-conferencias-1185084' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/webcam-monitor-2929196.jpg?tf=1200x' alt='Qué webcam comprar: mejores modelos para videollamadas y conferencias' />
+    <h4><a href='https://computerhoy.com/patrocinado/gracias-aliexpress-suelos-bien-limpios-ademas-descuento-1184584'>Gracias a AliExpress tus suelos bien limpios y, además, con descuento</a></h4>
+    <a href='https://computerhoy.com/patrocinado/gracias-aliexpress-suelos-bien-limpios-ademas-descuento-1184584' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/abir-x8-2928446.jpg?tf=1200x' alt='Gracias a AliExpress tus suelos bien limpios y, además, con descuento' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/maneras-faciles-crear-carpeta-windows-11-1182868'>Las maneras más fáciles de crear una carpeta en Windows 11</a></h4>
-    <a href='https://computerhoy.com/tutoriales/maneras-faciles-crear-carpeta-windows-11-1182868' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/carpeta-2925588.jpg?tf=1200x' alt='Las maneras más fáciles de crear una carpeta en Windows 11' />
+    <h4><a href='https://computerhoy.com/patrocinado/aliexpress-ha-vuelto-hacer-realme-9-5g-mucho-menos-cuesta-normalmente-1184232'>AliExpress lo ha vuelto a hacer: realme 9 5G por mucho menos de lo cuesta normalmente</a></h4>
+    <a href='https://computerhoy.com/patrocinado/aliexpress-ha-vuelto-hacer-realme-9-5g-mucho-menos-cuesta-normalmente-1184232' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/realme-9-5g-2699607.jpg?tf=1200x' alt='AliExpress lo ha vuelto a hacer: realme 9 5G por mucho menos de lo cuesta normalmente' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tv/hdmi-alt-mode-ha-muerto-antes-convertirse-estandar-mercado-1184094'>Qué es HDMI Alt Mode y por qué ha muerto antes de convertirse en un estándar en el mercado</a></h4>
-    <a href='https://computerhoy.com/tv/hdmi-alt-mode-ha-muerto-antes-convertirse-estandar-mercado-1184094' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/cable-hdmi-21-2663133.jpg?tf=1200x' alt='Qué es HDMI Alt Mode y por qué ha muerto antes de convertirse en un estándar en el mercado' />
+    <h4><a href='https://computerhoy.com/patrocinado/smartphone-android-original-muy-buena-rebaja-aliexpress-1184202'>El smartphone de Android más original con una muy buena rebaja en AliExpress</a></h4>
+    <a href='https://computerhoy.com/patrocinado/smartphone-android-original-muy-buena-rebaja-aliexpress-1184202' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/nothing-phone-1-analisis-opinion-2772691.jpg?tf=1200x' alt='El smartphone de Android más original con una muy buena rebaja en AliExpress' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/37-noticias-tecnologia-comenzar-manana-informado-ultimo-1185076'>37 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
-    <a href='https://computerhoy.com/tecnologia/37-noticias-tecnologia-comenzar-manana-informado-ultimo-1185076' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/37-noticias-tecnologia-comenzar-manana-informado-ultimo-2929162.jpg?tf=1200x' alt='37 noticias de tecnología para comenzar la mañana informado de lo último' />
+    <h4><a href='https://computerhoy.com/moviles/son-grandes-revoluciones-mundo-smartphone-esperamos-2023-1185102'>Estas son las grandes revoluciones del mundo del smartphone que esperamos en 2023 </a></h4>
+    <a href='https://computerhoy.com/moviles/son-grandes-revoluciones-mundo-smartphone-esperamos-2023-1185102' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/moviles-top-2710927.jpg?tf=1200x' alt='Estas son las grandes revoluciones del mundo del smartphone que esperamos en 2023 ' />
     </a>
 </div>
 
