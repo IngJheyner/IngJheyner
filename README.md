@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/industria/inversiones-reales-hidrogeno-petroleras-europeas-no-son-tan-verdes-como-creiamos-1185204'>Las inversiones reales en hidrógeno de las petroleras europeas no son tan verdes como creíamos</a></h4>
+    <a href='https://computerhoy.com/industria/inversiones-reales-hidrogeno-petroleras-europeas-no-son-tan-verdes-como-creiamos-1185204' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/verdaderas-intenciones-inversiones-hidrogeno-petroleras-europeas-2929512.jpg?tf=1200x' alt='Las inversiones reales en hidrógeno de las petroleras europeas no son tan verdes como creíamos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/completo-deportivo-6-dias-bateria-reloj-fibit-rompe-mercado-nueva-rebaja-precio-1184046'>Completo, deportivo y con 6 días de batería: este reloj de Fibit rompe el mercado con una nueva rebaja de precio</a></h4>
     <a href='https://computerhoy.com/tecnologia/completo-deportivo-6-dias-bateria-reloj-fibit-rompe-mercado-nueva-rebaja-precio-1184046' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/fitbit-versa-4-2927658.jpg?tf=1200x' alt='Completo, deportivo y con 6 días de batería: este reloj de Fibit rompe el mercado con una nueva rebaja de precio' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/audio/apple-airpods-max-2-llega-momento-renovacion-esperamos-integren-1185108'>Apple AirPods Max 2, llega el momento de su renovación y esto es lo que esperamos que integren</a></h4>
     <a href='https://computerhoy.com/audio/apple-airpods-max-2-llega-momento-renovacion-esperamos-integren-1185108' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/airpods-max-2232621.jpeg?tf=1200x' alt='Apple AirPods Max 2, llega el momento de su renovación y esto es lo que esperamos que integren' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/redes-sociales/algunas-mejores-opciones-ser-nuevo-ceo-twitter-elon-musk-quiere-salvar-red-social-1185116'>Algunas de las mejores opciones para ser el nuevo CEO de Twitter si Elon Musk quiere salvar la red social</a></h4>
-    <a href='https://computerhoy.com/redes-sociales/algunas-mejores-opciones-ser-nuevo-ceo-twitter-elon-musk-quiere-salvar-red-social-1185116' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/estas-son-algunas-mejores-opciones-ser-nuevo-ceo-twitter-elon-musk-quiere-salvar-red-social-2929310.jpg?tf=1200x' alt='Algunas de las mejores opciones para ser el nuevo CEO de Twitter si Elon Musk quiere salvar la red social' />
     </a>
 </div>
 
