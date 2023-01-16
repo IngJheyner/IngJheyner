@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/moviles/huawei-estrena-2023-nueva-tablet-matepad-104-pulgadas-1185356'>Huawei estrena 2023 con una nueva tablet: así es la MatePad SE de 10,4 pulgadas</a></h4>
+    <a href='https://computerhoy.com/moviles/huawei-estrena-2023-nueva-tablet-matepad-104-pulgadas-1185356' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/huawei-matepad-2929762.jpg?tf=1200x' alt='Huawei estrena 2023 con una nueva tablet: así es la MatePad SE de 10,4 pulgadas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/apple-quiere-pantallas-microled-todos-dispositivos-pero-podrian-tardar-decada-1185334'>Apple quiere pantallas microLED en todos sus dispositivos, pero podrían tardar una década</a></h4>
+    <a href='https://computerhoy.com/apple/apple-quiere-pantallas-microled-todos-dispositivos-pero-podrian-tardar-decada-1185334' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/apple-iphone-14-plus-analisis-opinion-2857703.jpg?tf=1200x' alt='Apple quiere pantallas microLED en todos sus dispositivos, pero podrían tardar una década' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciencia/desarrollan-tractor-ecologico-impulsado-estiercol-vaca-1185308'>Desarrollan un tractor ecológico impulsado por estiércol de vaca</a></h4>
     <a href='https://computerhoy.com/ciencia/desarrollan-tractor-ecologico-impulsado-estiercol-vaca-1185308' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/desarrollan-tractor-ecologico-impulsado-estiercol-vaca-2929780.jpg?tf=1200x' alt='Desarrollan un tractor ecológico impulsado por estiércol de vaca' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/espacio/nasa-ya-trabaja-telescopio-sera-potente-100-veces-grande-james-webb-1185238'>La NASA ya trabaja un telescopio que será más potente y hasta 100 veces más grande que el James Webb </a></h4>
     <a href='https://computerhoy.com/espacio/nasa-ya-trabaja-telescopio-sera-potente-100-veces-grande-james-webb-1185238' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/nasa-ya-trabaja-sustituto-dejara-james-webb-altura-prismaticos-2929558.jpg?tf=1200x' alt='La NASA ya trabaja un telescopio que será más potente y hasta 100 veces más grande que el James Webb ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/donde-estan-baterias-estado-solido-revolucion-coche-electrico-no-llega-1185258'>¿Dónde están las baterías de estado sólido? La revolución del coche eléctrico que no llega</a></h4>
-    <a href='https://computerhoy.com/motor/donde-estan-baterias-estado-solido-revolucion-coche-electrico-no-llega-1185258' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/baterias-estado-solido-ford-bmw-2470691.jpg?tf=1200x' alt='¿Dónde están las baterías de estado sólido? La revolución del coche eléctrico que no llega' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/gaming/febrero-llega-nueva-hornada-portatiles-gaming-nuevas-nvidia-rtx-4090-4080-4070-1185196'>En febrero llega la nueva hornada de portátiles gaming con las nuevas NVIDIA RTX 4090 / 4080 / 4070</a></h4>
-    <a href='https://computerhoy.com/gaming/febrero-llega-nueva-hornada-portatiles-gaming-nuevas-nvidia-rtx-4090-4080-4070-1185196' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/portatiles-rtx-4000-2929448.jpg?tf=1200x' alt='En febrero llega la nueva hornada de portátiles gaming con las nuevas NVIDIA RTX 4090 / 4080 / 4070' />
     </a>
 </div>
 
