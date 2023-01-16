@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/desarrollan-tractor-ecologico-impulsado-estiercol-vaca-1185308'>Desarrollan un tractor ecológico impulsado por estiércol de vaca</a></h4>
+    <a href='https://computerhoy.com/ciencia/desarrollan-tractor-ecologico-impulsado-estiercol-vaca-1185308' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/desarrollan-tractor-ecologico-impulsado-estiercol-vaca-2929780.jpg?tf=1200x' alt='Desarrollan un tractor ecológico impulsado por estiércol de vaca' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/tiktok-cambia-interfaz-tabletas-android-plegables-1185262'>TikTok cambia su interfaz para tabletas Android y plegables</a></h4>
+    <a href='https://computerhoy.com/apps/tiktok-cambia-interfaz-tabletas-android-plegables-1185262' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/google-play-tiktok-2929744.jpg?tf=1200x' alt='TikTok cambia su interfaz para tabletas Android y plegables' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/espacio/nasa-ya-trabaja-telescopio-sera-potente-100-veces-grande-james-webb-1185238'>La NASA ya trabaja un telescopio que será más potente y hasta 100 veces más grande que el James Webb </a></h4>
     <a href='https://computerhoy.com/espacio/nasa-ya-trabaja-telescopio-sera-potente-100-veces-grande-james-webb-1185238' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/nasa-ya-trabaja-sustituto-dejara-james-webb-altura-prismaticos-2929558.jpg?tf=1200x' alt='La NASA ya trabaja un telescopio que será más potente y hasta 100 veces más grande que el James Webb ' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/gaming/febrero-llega-nueva-hornada-portatiles-gaming-nuevas-nvidia-rtx-4090-4080-4070-1185196'>En febrero llega la nueva hornada de portátiles gaming con las nuevas NVIDIA RTX 4090 / 4080 / 4070</a></h4>
     <a href='https://computerhoy.com/gaming/febrero-llega-nueva-hornada-portatiles-gaming-nuevas-nvidia-rtx-4090-4080-4070-1185196' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/portatiles-rtx-4000-2929448.jpg?tf=1200x' alt='En febrero llega la nueva hornada de portátiles gaming con las nuevas NVIDIA RTX 4090 / 4080 / 4070' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/industria/inversiones-reales-hidrogeno-petroleras-europeas-no-son-tan-verdes-como-creiamos-1185204'>Las inversiones reales en hidrógeno de las petroleras europeas no son tan verdes como creíamos</a></h4>
-    <a href='https://computerhoy.com/industria/inversiones-reales-hidrogeno-petroleras-europeas-no-son-tan-verdes-como-creiamos-1185204' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/verdaderas-intenciones-inversiones-hidrogeno-petroleras-europeas-2929512.jpg?tf=1200x' alt='Las inversiones reales en hidrógeno de las petroleras europeas no son tan verdes como creíamos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/completo-deportivo-6-dias-bateria-reloj-fibit-rompe-mercado-nueva-rebaja-precio-1184046'>Completo, deportivo y con 6 días de batería: este reloj de Fibit rompe el mercado con una nueva rebaja de precio</a></h4>
-    <a href='https://computerhoy.com/tecnologia/completo-deportivo-6-dias-bateria-reloj-fibit-rompe-mercado-nueva-rebaja-precio-1184046' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/fitbit-versa-4-2927658.jpg?tf=1200x' alt='Completo, deportivo y con 6 días de batería: este reloj de Fibit rompe el mercado con una nueva rebaja de precio' />
     </a>
 </div>
 
