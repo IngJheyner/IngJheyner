@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/37-noticias-tecnologia-comenzar-manana-informado-ultimo-1185076'>37 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
+    <a href='https://computerhoy.com/tecnologia/37-noticias-tecnologia-comenzar-manana-informado-ultimo-1185076' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/37-noticias-tecnologia-comenzar-manana-informado-ultimo-2929162.jpg?tf=1200x' alt='37 noticias de tecnología para comenzar la mañana informado de lo último' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/mejores/mejores-ordenadores-portatiles-relacion-calidad-precio-fijarte-recomendaciones-1183536'>Mejores ordenadores portátiles en relación calidad precio: en qué fijarte y recomendaciones</a></h4>
+    <a href='https://computerhoy.com/mejores/mejores-ordenadores-portatiles-relacion-calidad-precio-fijarte-recomendaciones-1183536' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/samsung-galaxy-book2-pro-analisis-opinion-2863787.jpg?tf=1200x' alt='Mejores ordenadores portátiles en relación calidad precio: en qué fijarte y recomendaciones' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/blue-monday-dia-deprimente-ano-invencion-marketing-1184888'>Llega el Blue Monday, el día más deprimente del año, otra invención del marketing</a></h4>
     <a href='https://computerhoy.com/life/blue-monday-dia-deprimente-ano-invencion-marketing-1184888' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/llega-blue-monday-otra-invencion-marketing-2928976.jpg?tf=1200x' alt='Llega el Blue Monday, el día más deprimente del año, otra invención del marketing' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/audio/sony-walkman-nw-zx700-series-android-12-1184870'>El nuevo Walkman de Sony con Android 12 es espectacular</a></h4>
     <a href='https://computerhoy.com/audio/sony-walkman-nw-zx700-series-android-12-1184870' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/verticalimage1673804813728-2928902.jpg?tf=1200x' alt='El nuevo Walkman de Sony con Android 12 es espectacular' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-aspiradoras-inalambricas-808033'>Estas son las mejores aspiradoras inalámbricas que puedes comprar en 2023</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-aspiradoras-inalambricas-808033' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/accesorios-cepillos-aspiradora-dyson-v15-detect-absolute-2869399.jpg?tf=1200x' alt='Estas son las mejores aspiradoras inalámbricas que puedes comprar en 2023' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-cambiar-personalizar-cursor-raton-windows-1184074'>Cómo cambiar y personalizar el cursor del ratón en Windows</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-cambiar-personalizar-cursor-raton-windows-1184074' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/raton-ordenador-2927508.jpg?tf=1200x' alt='Cómo cambiar y personalizar el cursor del ratón en Windows' />
     </a>
 </div>
 
