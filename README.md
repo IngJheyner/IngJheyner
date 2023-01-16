@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/motor/donde-estan-baterias-estado-solido-revolucion-coche-electrico-no-llega-1185258'>¿Dónde están las baterías de estado sólido? La revolución del coche eléctrico que no llega</a></h4>
+    <a href='https://computerhoy.com/motor/donde-estan-baterias-estado-solido-revolucion-coche-electrico-no-llega-1185258' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/baterias-estado-solido-ford-bmw-2470691.jpg?tf=1200x' alt='¿Dónde están las baterías de estado sólido? La revolución del coche eléctrico que no llega' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/gaming/febrero-llega-nueva-hornada-portatiles-gaming-nuevas-nvidia-rtx-4090-4080-4070-1185196'>En febrero llega la nueva hornada de portátiles gaming con las nuevas NVIDIA RTX 4090 / 4080 / 4070</a></h4>
+    <a href='https://computerhoy.com/gaming/febrero-llega-nueva-hornada-portatiles-gaming-nuevas-nvidia-rtx-4090-4080-4070-1185196' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/portatiles-rtx-4000-2929448.jpg?tf=1200x' alt='En febrero llega la nueva hornada de portátiles gaming con las nuevas NVIDIA RTX 4090 / 4080 / 4070' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/industria/inversiones-reales-hidrogeno-petroleras-europeas-no-son-tan-verdes-como-creiamos-1185204'>Las inversiones reales en hidrógeno de las petroleras europeas no son tan verdes como creíamos</a></h4>
     <a href='https://computerhoy.com/industria/inversiones-reales-hidrogeno-petroleras-europeas-no-son-tan-verdes-como-creiamos-1185204' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/verdaderas-intenciones-inversiones-hidrogeno-petroleras-europeas-2929512.jpg?tf=1200x' alt='Las inversiones reales en hidrógeno de las petroleras europeas no son tan verdes como creíamos' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/apple/steve-jobs-cambiaba-coche-cada-6-meses-conducia-matricula-1185170'>Por qué Steve Jobs cambiaba de coche cada 6 meses y conducía sin matrícula</a></h4>
     <a href='https://computerhoy.com/apple/steve-jobs-cambiaba-coche-cada-6-meses-conducia-matricula-1185170' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/steve-jobs-cambiaba-coche-cada-6-meses-conducia-matricula-2929406.jpg?tf=1200x' alt='Por qué Steve Jobs cambiaba de coche cada 6 meses y conducía sin matrícula' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/estas-son-mejores-peliculas-jamas-rodadas-smartphone-1185164'>Estas son las mejores películas jamás rodadas con un smartphone</a></h4>
-    <a href='https://computerhoy.com/moviles/estas-son-mejores-peliculas-jamas-rodadas-smartphone-1185164' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/iphone-13-2929384.jpg?tf=1200x' alt='Estas son las mejores películas jamás rodadas con un smartphone' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/audio/apple-airpods-max-2-llega-momento-renovacion-esperamos-integren-1185108'>Apple AirPods Max 2, llega el momento de su renovación y esto es lo que esperamos que integren</a></h4>
-    <a href='https://computerhoy.com/audio/apple-airpods-max-2-llega-momento-renovacion-esperamos-integren-1185108' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/airpods-max-2232621.jpeg?tf=1200x' alt='Apple AirPods Max 2, llega el momento de su renovación y esto es lo que esperamos que integren' />
     </a>
 </div>
 
