@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/famosa-freidora-aceite-cosori-tiene-nueva-version-inteligente-exclusiva-amazon-rebaja-ya-1185178'>La famosa freidora sin aceite COSORI tiene nueva versión, inteligente y exclusiva de Amazon, que la rebaja ya</a></h4>
+    <a href='https://computerhoy.com/tecnologia/famosa-freidora-aceite-cosori-tiene-nueva-version-inteligente-exclusiva-amazon-rebaja-ya-1185178' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/cosori-pro-smart-chef-edition-2810921.jpg?tf=1200x' alt='La famosa freidora sin aceite COSORI tiene nueva versión, inteligente y exclusiva de Amazon, que la rebaja ya' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/ia-chatgpt-amenaza-real-futuro-laboral-seres-humanos-1185712'>¿Es la IA de ChatGPT una amenaza real para el futuro laboral de los seres humanos?</a></h4>
+    <a href='https://computerhoy.com/tecnologia/ia-chatgpt-amenaza-real-futuro-laboral-seres-humanos-1185712' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/ia-chatgpt-amenaza-real-futuro-laboral-seres-humanos-2930352.jpg?tf=1200x' alt='¿Es la IA de ChatGPT una amenaza real para el futuro laboral de los seres humanos?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apple/google-gusta-concepto-airtag-apple-decide-desarrollar-propio-1185740'>A Google le gusta el concepto de AirTag de Apple y decide desarrollar uno propio</a></h4>
     <a href='https://computerhoy.com/apple/google-gusta-concepto-airtag-apple-decide-desarrollar-propio-1185740' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/airtag-google-2930330.jpg?tf=1200x' alt='A Google le gusta el concepto de AirTag de Apple y decide desarrollar uno propio' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/nuevo-ipad-2022-tiene-ya-rebaja-precio-importante-50-euros-barato-1184062'>El nuevo iPad de 2022 tiene ya una rebaja de precio importante: es 50 euros más barato</a></h4>
     <a href='https://computerhoy.com/tecnologia/nuevo-ipad-2022-tiene-ya-rebaja-precio-importante-50-euros-barato-1184062' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/ipad-10a-generacion-analisis-opinion-2897878.jpg?tf=1200x' alt='El nuevo iPad de 2022 tiene ya una rebaja de precio importante: es 50 euros más barato' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/samsung-anuncia-nuevo-potente-sensor-isocell-hp2-200-mpx-futuro-galaxy-s23-ultra-1185690'>Samsung anuncia su nuevo y más potente sensor ISOCELL HP2 de 200 Mpx para un futuro Galaxy S23 Ultra</a></h4>
-    <a href='https://computerhoy.com/moviles/samsung-anuncia-nuevo-potente-sensor-isocell-hp2-200-mpx-futuro-galaxy-s23-ultra-1185690' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/samsung-anuncia-nuevo-potente-sensor-isocell-hp2-200-mpx-futuro-galaxy-s23-ultra-2930264.jpg?tf=1200x' alt='Samsung anuncia su nuevo y más potente sensor ISOCELL HP2 de 200 Mpx para un futuro Galaxy S23 Ultra' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/patrocinado/auriculares-xiaomi-cancelacion-ruido-todos-bolsillos-gracias-aliexpress-1185346'>Auriculares de Xiaomi con cancelación de ruido para todos los bolsillos, gracias a AliExpress</a></h4>
-    <a href='https://computerhoy.com/patrocinado/auriculares-xiaomi-cancelacion-ruido-todos-bolsillos-gracias-aliexpress-1185346' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/xiaomi-redmi-buds-3-2929758.jpg?tf=1200x' alt='Auriculares de Xiaomi con cancelación de ruido para todos los bolsillos, gracias a AliExpress' />
     </a>
 </div>
 
