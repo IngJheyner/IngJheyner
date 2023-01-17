@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/nina-buscar-fosiles-navidad-diente-megalodon-1185642'>Niña de 9 años recibe un kit para buscar fósiles en Navidad, y en media hora encuentra un diente de Megalodón de hace 20 millones de años</a></h4>
+    <a href='https://computerhoy.com/ciencia/nina-buscar-fosiles-navidad-diente-megalodon-1185642' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/nina-9-anos-recibe-kit-buscar-fosiles-navidad-media-hora-encuentra-diente-megalodon-hace-20-millones-anos-2930124.jpg?tf=1200x' alt='Niña de 9 años recibe un kit para buscar fósiles en Navidad, y en media hora encuentra un diente de Megalodón de hace 20 millones de años' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/google/grogu-tracker-google-competir-airtag-apple-1185640'>Grogu, el localizador de Google para competir con el AirTag de Apple</a></h4>
     <a href='https://computerhoy.com/google/grogu-tracker-google-competir-airtag-apple-1185640' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/grogu-tracket-google-competir-airtag-apple-2930122.jpg?tf=1200x' alt='Grogu, el localizador de Google para competir con el AirTag de Apple' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/biel-glasses-gafas-inteligencia-artificial-realidad-aumentada-discapacidad-visual-1185444'>Una startup española quiere sustituir los perros guía para ciegos por unas gafas futuristas con IA y robótica</a></h4>
     <a href='https://computerhoy.com/tecnologia/biel-glasses-gafas-inteligencia-artificial-realidad-aumentada-discapacidad-visual-1185444' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/startup-espanola-quiere-sustituir-perros-guia-ciegos-unas-gafas-futuristas-ia-robotica-2929916.jpg?tf=1200x' alt='Una startup española quiere sustituir los perros guía para ciegos por unas gafas futuristas con IA y robótica' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/ia-acusadas-pirateria-stable-diffusion-midjourney-seran-demandas-vulnerar-copyright-1185364'>Las IA, acusadas de piratería: Stable Diffusion y Midjourney serán demandas por vulnerar el copyright</a></h4>
-    <a href='https://computerhoy.com/tecnologia/ia-acusadas-pirateria-stable-diffusion-midjourney-seran-demandas-vulnerar-copyright-1185364' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/artistas-herramientas-inteligencia-artificial-guerra-ha-comenzado-2819025.jpg?tf=1200x' alt='Las IA, acusadas de piratería: Stable Diffusion y Midjourney serán demandas por vulnerar el copyright' />
     </a>
 </div>
 
