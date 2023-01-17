@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/nuevo-ipad-2022-tiene-ya-rebaja-precio-importante-50-euros-barato-1184062'>El nuevo iPad de 2022 tiene ya una rebaja de precio importante: es 50 euros más barato</a></h4>
+    <a href='https://computerhoy.com/tecnologia/nuevo-ipad-2022-tiene-ya-rebaja-precio-importante-50-euros-barato-1184062' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/ipad-10a-generacion-analisis-opinion-2897878.jpg?tf=1200x' alt='El nuevo iPad de 2022 tiene ya una rebaja de precio importante: es 50 euros más barato' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/moviles/samsung-anuncia-nuevo-potente-sensor-isocell-hp2-200-mpx-futuro-galaxy-s23-ultra-1185690'>Samsung anuncia su nuevo y más potente sensor ISOCELL HP2 de 200 Mpx para un futuro Galaxy S23 Ultra</a></h4>
+    <a href='https://computerhoy.com/moviles/samsung-anuncia-nuevo-potente-sensor-isocell-hp2-200-mpx-futuro-galaxy-s23-ultra-1185690' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/samsung-anuncia-nuevo-potente-sensor-isocell-hp2-200-mpx-futuro-galaxy-s23-ultra-2930264.jpg?tf=1200x' alt='Samsung anuncia su nuevo y más potente sensor ISOCELL HP2 de 200 Mpx para un futuro Galaxy S23 Ultra' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/patrocinado/auriculares-xiaomi-cancelacion-ruido-todos-bolsillos-gracias-aliexpress-1185346'>Auriculares de Xiaomi con cancelación de ruido para todos los bolsillos, gracias a AliExpress</a></h4>
+    <a href='https://computerhoy.com/patrocinado/auriculares-xiaomi-cancelacion-ruido-todos-bolsillos-gracias-aliexpress-1185346' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/xiaomi-redmi-buds-3-2929758.jpg?tf=1200x' alt='Auriculares de Xiaomi con cancelación de ruido para todos los bolsillos, gracias a AliExpress' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/patrocinado/necesitas-smartphone-inteligente-ultrarresistente-no-te-vas-creer-precio-8-gb-ram-camara-48-megapixeles-1184866'>Si necesitas un smartphone inteligente ultrarresistente, no te vas a creer el precio de este con 8 GB de RAM y cámara de 48 megapíxeles</a></h4>
+    <a href='https://computerhoy.com/patrocinado/necesitas-smartphone-inteligente-ultrarresistente-no-te-vas-creer-precio-8-gb-ram-camara-48-megapixeles-1184866' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/hotwav-cyber-9-pro-2928896.jpg?tf=1200x' alt='Si necesitas un smartphone inteligente ultrarresistente, no te vas a creer el precio de este con 8 GB de RAM y cámara de 48 megapíxeles' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/espacio/sera-2023-industria-aeroespacial-1185678'>Así será el 2023 para la industria aeroespacial</a></h4>
     <a href='https://computerhoy.com/espacio/sera-2023-industria-aeroespacial-1185678' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/spacex-nave-espacial-2514031.jpg?tf=1200x' alt='Así será el 2023 para la industria aeroespacial' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/patrocinado/vas-sentir-verdadero-flechazo-ofertas-aliexpress-1184836'>Vas a sentir un verdadero flechazo con las ofertas de AliExpress</a></h4>
-    <a href='https://computerhoy.com/patrocinado/vas-sentir-verdadero-flechazo-ofertas-aliexpress-1184836' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/ocasion-espacio-2928798.jpg?tf=1200x' alt='Vas a sentir un verdadero flechazo con las ofertas de AliExpress' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/ya-tenemos-trailer-tercera-temporada-mandalorian-aterriza-disney-1-marzo-1185662'>Ya tenemos tráiler de la tercera temporada de The Mandalorian que aterriza en Disney+ el 1 de marzo</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/ya-tenemos-trailer-tercera-temporada-mandalorian-aterriza-disney-1-marzo-1185662' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/ya-tenemos-trailer-tercera-temporada-mandalorian-aterriza-disney-1-marzo-2930172.jpg?tf=1200x' alt='Ya tenemos tráiler de la tercera temporada de The Mandalorian que aterriza en Disney+ el 1 de marzo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/streaming/funciona-nueva-herramienta-nvidia-videoconferencias-siempre-mirando-camara-1185382'>Así funciona la nueva herramienta de NVIDIA para videoconferencias: siempre mirando a cámara</a></h4>
-    <a href='https://computerhoy.com/streaming/funciona-nueva-herramienta-nvidia-videoconferencias-siempre-mirando-camara-1185382' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/nvidia-broadcast-2929930.jpg?tf=1200x' alt='Así funciona la nueva herramienta de NVIDIA para videoconferencias: siempre mirando a cámara' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-tablets-windows-10-ofertas-922299'>Estas son las mejores tablets con Windows 11 que puedes comprar</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-tablets-windows-10-ofertas-922299' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/microsoft-surface-pro-9-2929734.jpg?tf=1200x' alt='Estas son las mejores tablets con Windows 11 que puedes comprar' />
     </a>
 </div>
 
