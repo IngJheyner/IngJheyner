@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/mac-mini-m2-apple-actualiza-mini-pc-nuevos-procesadores-m2-m2-pro-1185866'>Mac mini M2: Apple actualiza su mini PC con los nuevos procesadores M2 y M2 Pro</a></h4>
+    <a href='https://computerhoy.com/apple/mac-mini-m2-apple-actualiza-mini-pc-nuevos-procesadores-m2-m2-pro-1185866' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/mac-mini-m2-apple-actualiza-mini-pc-nuevos-procesadores-m2-m2-pro-2930710.jpg?tf=1200x' alt='Mac mini M2: Apple actualiza su mini PC con los nuevos procesadores M2 y M2 Pro' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/apple-m2-pro-m2-max-son-nuevos-procesadores-macbook-pro-1185872'>Apple M2 Pro y M2 Max: así son los nuevos procesadores para los MacBook Pro</a></h4>
+    <a href='https://computerhoy.com/apple/apple-m2-pro-m2-max-son-nuevos-procesadores-macbook-pro-1185872' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/apple-m2-pro-m2-max-son-nuevos-procesadores-portatiles-ipads-apple-2930666.jpg?tf=1200x' alt='Apple M2 Pro y M2 Max: así son los nuevos procesadores para los MacBook Pro' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/nuevos-macbook-pro-m2-pro-m2-max-son-oficiales-mayor-potencia-eficiencia-chasis-14-16-pulgadas-1185870'>Los nuevos MacBook Pro con M2 Pro y M2 Max: mayor potencia en 14 y 16 pulgadas</a></h4>
+    <a href='https://computerhoy.com/apple/nuevos-macbook-pro-m2-pro-m2-max-son-oficiales-mayor-potencia-eficiencia-chasis-14-16-pulgadas-1185870' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/macbook-pro-2930694.jpg?tf=1200x' alt='Los nuevos MacBook Pro con M2 Pro y M2 Max: mayor potencia en 14 y 16 pulgadas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/no-aplicaciones-salud-mental-no-van-resolver-problemas-1185882'>No, tus aplicaciones de salud mental no van a resolver tus problemas</a></h4>
+    <a href='https://computerhoy.com/apps/no-aplicaciones-salud-mental-no-van-resolver-problemas-1185882' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/salud-mental-2930662.jpg?tf=1200x' alt='No, tus aplicaciones de salud mental no van a resolver tus problemas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apple/nuevos-modelos-macbook-pro-apple-tendran-soporte-wifi-6e-podrian-ver-luz-hoy-mismo-1185792'>Los nuevos modelos de MacBook Pro de Apple tendrán soporte WiFi 6E y podrían ver la luz hoy mismo</a></h4>
     <a href='https://computerhoy.com/apple/nuevos-modelos-macbook-pro-apple-tendran-soporte-wifi-6e-podrian-ver-luz-hoy-mismo-1185792' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/ordenador-portatil-macbook-pro-chip-m1-auriculares-cuaderno-cerca-mesa-2856675.jpg?tf=1200x' alt='Los nuevos modelos de MacBook Pro de Apple tendrán soporte WiFi 6E y podrían ver la luz hoy mismo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/gaming/amd-quiere-terminar-tarjetas-graficas-gama-entrada-zen-5-1185814'>AMD quiere terminar con las tarjetas gráficas de gama de entrada con Zen 5</a></h4>
-    <a href='https://computerhoy.com/gaming/amd-quiere-terminar-tarjetas-graficas-gama-entrada-zen-5-1185814' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/11/amd-6800-radeon-rx-2140209.jpg?tf=1200x' alt='AMD quiere terminar con las tarjetas gráficas de gama de entrada con Zen 5' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/cierto-everest-montana-alta-tierra-parece-ciencia-no-opina-mismo-1185758'>¿Es cierto que el Everest es la montaña más alta de la Tierra? parece que la ciencia no opina lo mismo</a></h4>
-    <a href='https://computerhoy.com/life/cierto-everest-montana-alta-tierra-parece-ciencia-no-opina-mismo-1185758' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/realmente-everest-montana-alta-tierra-muchos-expertos-creen-no-2930380.jpg?tf=1200x' alt='¿Es cierto que el Everest es la montaña más alta de la Tierra? parece que la ciencia no opina lo mismo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/criptos/bitcoin-subiendo-precio-cuando-mercados-son-inestables-1185762'>¿Por qué Bitcoin está subiendo su precio cuando los mercados son más inestables?</a></h4>
-    <a href='https://computerhoy.com/criptos/bitcoin-subiendo-precio-cuando-mercados-son-inestables-1185762' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/bitcoin-2600639.jpg?tf=1200x' alt='¿Por qué Bitcoin está subiendo su precio cuando los mercados son más inestables?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/famosa-freidora-aceite-cosori-tiene-nueva-version-inteligente-exclusiva-amazon-rebaja-ya-1185178'>La famosa freidora sin aceite COSORI tiene nueva versión, inteligente y exclusiva de Amazon, que la rebaja ya</a></h4>
-    <a href='https://computerhoy.com/tecnologia/famosa-freidora-aceite-cosori-tiene-nueva-version-inteligente-exclusiva-amazon-rebaja-ya-1185178' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/cosori-pro-smart-chef-edition-2810921.jpg?tf=1200x' alt='La famosa freidora sin aceite COSORI tiene nueva versión, inteligente y exclusiva de Amazon, que la rebaja ya' />
     </a>
 </div>
 
