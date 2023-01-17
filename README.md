@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/cierto-everest-montana-alta-tierra-parece-ciencia-no-opina-mismo-1185758'>¿Es cierto que el Everest es la montaña más alta de la Tierra? parece que la ciencia no opina lo mismo</a></h4>
+    <a href='https://computerhoy.com/life/cierto-everest-montana-alta-tierra-parece-ciencia-no-opina-mismo-1185758' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/realmente-everest-montana-alta-tierra-muchos-expertos-creen-no-2930380.jpg?tf=1200x' alt='¿Es cierto que el Everest es la montaña más alta de la Tierra? parece que la ciencia no opina lo mismo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/criptos/bitcoin-subiendo-precio-cuando-mercados-son-inestables-1185762'>¿Por qué Bitcoin está subiendo su precio cuando los mercados son más inestables?</a></h4>
+    <a href='https://computerhoy.com/criptos/bitcoin-subiendo-precio-cuando-mercados-son-inestables-1185762' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/bitcoin-2600639.jpg?tf=1200x' alt='¿Por qué Bitcoin está subiendo su precio cuando los mercados son más inestables?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/famosa-freidora-aceite-cosori-tiene-nueva-version-inteligente-exclusiva-amazon-rebaja-ya-1185178'>La famosa freidora sin aceite COSORI tiene nueva versión, inteligente y exclusiva de Amazon, que la rebaja ya</a></h4>
     <a href='https://computerhoy.com/tecnologia/famosa-freidora-aceite-cosori-tiene-nueva-version-inteligente-exclusiva-amazon-rebaja-ya-1185178' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/cosori-pro-smart-chef-edition-2810921.jpg?tf=1200x' alt='La famosa freidora sin aceite COSORI tiene nueva versión, inteligente y exclusiva de Amazon, que la rebaja ya' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/apple/google-gusta-concepto-airtag-apple-decide-desarrollar-propio-1185740'>A Google le gusta el concepto de AirTag de Apple y decide desarrollar uno propio</a></h4>
     <a href='https://computerhoy.com/apple/google-gusta-concepto-airtag-apple-decide-desarrollar-propio-1185740' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/airtag-google-2930330.jpg?tf=1200x' alt='A Google le gusta el concepto de AirTag de Apple y decide desarrollar uno propio' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/samsung-galaxy-s23-no-viene-solo-sera-galaxy-book-3-1185680'>Samsung Galaxy S23 no viene solo, así será el Galaxy Book 3</a></h4>
-    <a href='https://computerhoy.com/pc/samsung-galaxy-s23-no-viene-solo-sera-galaxy-book-3-1185680' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/samsung-galaxy-book-3-2930286.jpg?tf=1200x' alt='Samsung Galaxy S23 no viene solo, así será el Galaxy Book 3' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/nuevo-ipad-2022-tiene-ya-rebaja-precio-importante-50-euros-barato-1184062'>El nuevo iPad de 2022 tiene ya una rebaja de precio importante: es 50 euros más barato</a></h4>
-    <a href='https://computerhoy.com/tecnologia/nuevo-ipad-2022-tiene-ya-rebaja-precio-importante-50-euros-barato-1184062' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/ipad-10a-generacion-analisis-opinion-2897878.jpg?tf=1200x' alt='El nuevo iPad de 2022 tiene ya una rebaja de precio importante: es 50 euros más barato' />
     </a>
 </div>
 
