@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/audio/nova-h1-pendientes-auriculares-inalambricos-video-1185952'>¿Pendientes con auriculares o auriculares para vestir? (vídeo)</a></h4>
+    <a href='https://computerhoy.com/audio/nova-h1-pendientes-auriculares-inalambricos-video-1185952' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/verticalimage1673973825401-2930754.jpg?tf=1200x' alt='¿Pendientes con auriculares o auriculares para vestir? (vídeo)' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-relojes-inteligentes-llamadas-1054263'>Mejores relojes inteligentes con micrófono para responder llamadas</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-relojes-inteligentes-llamadas-1054263' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/persona-apple-watch-muneca-2690523.jpg?tf=1200x' alt='Mejores relojes inteligentes con micrófono para responder llamadas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/redes/red-vpn-sirve-ventajas-peligros-mejores-vpn-gratis-pago-1180098'>Qué es una red VPN, para qué sirve, ventajas, peligros y las mejores VPN gratis y de pago</a></h4>
     <a href='https://computerhoy.com/redes/red-vpn-sirve-ventajas-peligros-mejores-vpn-gratis-pago-1180098' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/vpn-2930744.jpg?tf=1200x' alt='Qué es una red VPN, para qué sirve, ventajas, peligros y las mejores VPN gratis y de pago' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/apple/apple-m2-pro-m2-max-son-nuevos-procesadores-macbook-pro-1185872'>Apple M2 Pro y M2 Max: así son los nuevos procesadores para los MacBook Pro</a></h4>
     <a href='https://computerhoy.com/apple/apple-m2-pro-m2-max-son-nuevos-procesadores-macbook-pro-1185872' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/apple-m2-pro-m2-max-son-nuevos-procesadores-portatiles-ipads-apple-2930666.jpg?tf=1200x' alt='Apple M2 Pro y M2 Max: así son los nuevos procesadores para los MacBook Pro' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/nuevos-macbook-pro-m2-pro-m2-max-son-oficiales-mayor-potencia-eficiencia-chasis-14-16-pulgadas-1185870'>Los nuevos MacBook Pro con M2 Pro y M2 Max: mayor potencia en 14 y 16 pulgadas</a></h4>
-    <a href='https://computerhoy.com/apple/nuevos-macbook-pro-m2-pro-m2-max-son-oficiales-mayor-potencia-eficiencia-chasis-14-16-pulgadas-1185870' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/macbook-pro-2930694.jpg?tf=1200x' alt='Los nuevos MacBook Pro con M2 Pro y M2 Max: mayor potencia en 14 y 16 pulgadas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/no-aplicaciones-salud-mental-no-van-resolver-problemas-1185882'>No, tus aplicaciones de salud mental no van a resolver tus problemas</a></h4>
-    <a href='https://computerhoy.com/apps/no-aplicaciones-salud-mental-no-van-resolver-problemas-1185882' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/salud-mental-2930662.jpg?tf=1200x' alt='No, tus aplicaciones de salud mental no van a resolver tus problemas' />
     </a>
 </div>
 
