@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/streaming/dazn-sube-nuevos-precios-ver-futbol-formula-1-motogp-caro-2023-1185944'>DAZN sube de nuevos sus precios: ver el fútbol, la Fórmula 1 y MotoGP más caro en 2023</a></h4>
+    <a href='https://computerhoy.com/streaming/dazn-sube-nuevos-precios-ver-futbol-formula-1-motogp-caro-2023-1185944' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/dazn-sube-nuevos-precios-ver-futbol-formula-1-motogp-caro-2023-2930824.jpg?tf=1200x' alt='DAZN sube de nuevos sus precios: ver el fútbol, la Fórmula 1 y MotoGP más caro en 2023' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/obligado-dar-propina-robot-preparo-bebida-tiene-sentido-1185946'>Obligado a dar propina al robot que preparó su bebida: ¿tiene sentido?</a></h4>
     <a href='https://computerhoy.com/tecnologia/obligado-dar-propina-robot-preparo-bebida-tiene-sentido-1185946' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/obligado-dar-propina-robot-preparo-bebida-tiene-sentido-2930818.jpg?tf=1200x' alt='Obligado a dar propina al robot que preparó su bebida: ¿tiene sentido?' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-relojes-inteligentes-llamadas-1054263'>Mejores relojes inteligentes con micrófono para responder llamadas</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/mejores-relojes-inteligentes-llamadas-1054263' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/persona-apple-watch-muneca-2690523.jpg?tf=1200x' alt='Mejores relojes inteligentes con micrófono para responder llamadas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/redes/red-vpn-sirve-ventajas-peligros-mejores-vpn-gratis-pago-1180098'>Qué es una red VPN, para qué sirve, ventajas, peligros y las mejores VPN gratis y de pago</a></h4>
-    <a href='https://computerhoy.com/redes/red-vpn-sirve-ventajas-peligros-mejores-vpn-gratis-pago-1180098' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/vpn-2930744.jpg?tf=1200x' alt='Qué es una red VPN, para qué sirve, ventajas, peligros y las mejores VPN gratis y de pago' />
     </a>
 </div>
 
