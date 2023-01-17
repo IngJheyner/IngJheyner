@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/the-last-us-segundo-mejor-estreno-hbo-max-1186006'>The Last of us es el segundo mejor estreno de HBO en la última década, pero muy lejos de La Casa del Dragón</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/the-last-us-segundo-mejor-estreno-hbo-max-1186006' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/verticalimage1673987743699-2930888.jpg?tf=1200x' alt='The Last of us es el segundo mejor estreno de HBO en la última década, pero muy lejos de La Casa del Dragón' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/ahora-ya-sabras-electrodomesticos-culpables-te-dispare-factura-luz-todos-meses-1185992'>Ahora ya sabrás los electrodomésticos culpables de que se te dispare la factura de la luz todos los meses</a></h4>
     <a href='https://computerhoy.com/life/ahora-ya-sabras-electrodomesticos-culpables-te-dispare-factura-luz-todos-meses-1185992' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/electrodomesticos-2930880.jpg?tf=1200x' alt='Ahora ya sabrás los electrodomésticos culpables de que se te dispare la factura de la luz todos los meses' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/streaming/dazn-sube-nuevos-precios-ver-futbol-formula-1-motogp-caro-2023-1185944'>DAZN sube de nuevo sus precios: ver el fútbol, la Fórmula 1 y MotoGP más caro en 2023</a></h4>
     <a href='https://computerhoy.com/streaming/dazn-sube-nuevos-precios-ver-futbol-formula-1-motogp-caro-2023-1185944' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/dazn-sube-nuevos-precios-ver-futbol-formula-1-motogp-caro-2023-2930824.jpg?tf=1200x' alt='DAZN sube de nuevo sus precios: ver el fútbol, la Fórmula 1 y MotoGP más caro en 2023' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/obligado-dar-propina-robot-preparo-bebida-tiene-sentido-1185946'>Obligado a dar propina al robot que preparó su bebida: ¿tiene sentido?</a></h4>
-    <a href='https://computerhoy.com/tecnologia/obligado-dar-propina-robot-preparo-bebida-tiene-sentido-1185946' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/obligado-dar-propina-robot-preparo-bebida-tiene-sentido-2930818.jpg?tf=1200x' alt='Obligado a dar propina al robot que preparó su bebida: ¿tiene sentido?' />
     </a>
 </div>
 
