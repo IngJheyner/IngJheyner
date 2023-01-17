@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/redes/red-vpn-sirve-ventajas-peligros-mejores-vpn-gratis-pago-1180098'>Qué es una red VPN, para qué sirve, ventajas, peligros y las mejores VPN gratis y de pago</a></h4>
+    <a href='https://computerhoy.com/redes/red-vpn-sirve-ventajas-peligros-mejores-vpn-gratis-pago-1180098' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/vpn-2930744.jpg?tf=1200x' alt='Qué es una red VPN, para qué sirve, ventajas, peligros y las mejores VPN gratis y de pago' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apple/mac-mini-m2-apple-actualiza-mini-pc-nuevos-procesadores-m2-m2-pro-1185866'>Mac mini M2: Apple actualiza su mini PC con los nuevos procesadores M2 y M2 Pro</a></h4>
     <a href='https://computerhoy.com/apple/mac-mini-m2-apple-actualiza-mini-pc-nuevos-procesadores-m2-m2-pro-1185866' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/mac-mini-m2-apple-actualiza-mini-pc-nuevos-procesadores-m2-m2-pro-2930710.jpg?tf=1200x' alt='Mac mini M2: Apple actualiza su mini PC con los nuevos procesadores M2 y M2 Pro' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/apps/no-aplicaciones-salud-mental-no-van-resolver-problemas-1185882'>No, tus aplicaciones de salud mental no van a resolver tus problemas</a></h4>
     <a href='https://computerhoy.com/apps/no-aplicaciones-salud-mental-no-van-resolver-problemas-1185882' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/salud-mental-2930662.jpg?tf=1200x' alt='No, tus aplicaciones de salud mental no van a resolver tus problemas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/nuevos-modelos-macbook-pro-apple-tendran-soporte-wifi-6e-podrian-ver-luz-hoy-mismo-1185792'>Los nuevos modelos de MacBook Pro de Apple tendrán soporte WiFi 6E y podrían ver la luz hoy mismo</a></h4>
-    <a href='https://computerhoy.com/apple/nuevos-modelos-macbook-pro-apple-tendran-soporte-wifi-6e-podrian-ver-luz-hoy-mismo-1185792' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/ordenador-portatil-macbook-pro-chip-m1-auriculares-cuaderno-cerca-mesa-2856675.jpg?tf=1200x' alt='Los nuevos modelos de MacBook Pro de Apple tendrán soporte WiFi 6E y podrían ver la luz hoy mismo' />
     </a>
 </div>
 
