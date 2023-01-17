@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/nuevos-modelos-macbook-pro-apple-tendran-soporte-wifi-6e-podrian-ver-luz-hoy-mismo-1185792'>Los nuevos modelos de MacBook Pro de Apple tendrán soporte WiFi 6E y podrían ver la luz hoy mismo</a></h4>
+    <a href='https://computerhoy.com/apple/nuevos-modelos-macbook-pro-apple-tendran-soporte-wifi-6e-podrian-ver-luz-hoy-mismo-1185792' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/ordenador-portatil-macbook-pro-chip-m1-auriculares-cuaderno-cerca-mesa-2856675.jpg?tf=1200x' alt='Los nuevos modelos de MacBook Pro de Apple tendrán soporte WiFi 6E y podrían ver la luz hoy mismo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/gaming/amd-quiere-terminar-tarjetas-graficas-gama-entrada-zen-5-1185814'>AMD quiere terminar con las tarjetas gráficas de gama de entrada con Zen 5</a></h4>
+    <a href='https://computerhoy.com/gaming/amd-quiere-terminar-tarjetas-graficas-gama-entrada-zen-5-1185814' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/11/amd-6800-radeon-rx-2140209.jpg?tf=1200x' alt='AMD quiere terminar con las tarjetas gráficas de gama de entrada con Zen 5' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/cierto-everest-montana-alta-tierra-parece-ciencia-no-opina-mismo-1185758'>¿Es cierto que el Everest es la montaña más alta de la Tierra? parece que la ciencia no opina lo mismo</a></h4>
     <a href='https://computerhoy.com/life/cierto-everest-montana-alta-tierra-parece-ciencia-no-opina-mismo-1185758' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/realmente-everest-montana-alta-tierra-muchos-expertos-creen-no-2930380.jpg?tf=1200x' alt='¿Es cierto que el Everest es la montaña más alta de la Tierra? parece que la ciencia no opina lo mismo' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/famosa-freidora-aceite-cosori-tiene-nueva-version-inteligente-exclusiva-amazon-rebaja-ya-1185178'>La famosa freidora sin aceite COSORI tiene nueva versión, inteligente y exclusiva de Amazon, que la rebaja ya</a></h4>
     <a href='https://computerhoy.com/tecnologia/famosa-freidora-aceite-cosori-tiene-nueva-version-inteligente-exclusiva-amazon-rebaja-ya-1185178' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/cosori-pro-smart-chef-edition-2810921.jpg?tf=1200x' alt='La famosa freidora sin aceite COSORI tiene nueva versión, inteligente y exclusiva de Amazon, que la rebaja ya' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/ia-chatgpt-amenaza-real-futuro-laboral-seres-humanos-1185712'>¿Es la IA de ChatGPT una amenaza real para el futuro laboral de los seres humanos?</a></h4>
-    <a href='https://computerhoy.com/tecnologia/ia-chatgpt-amenaza-real-futuro-laboral-seres-humanos-1185712' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/ia-chatgpt-amenaza-real-futuro-laboral-seres-humanos-2930352.jpg?tf=1200x' alt='¿Es la IA de ChatGPT una amenaza real para el futuro laboral de los seres humanos?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/google-gusta-concepto-airtag-apple-decide-desarrollar-propio-1185740'>A Google le gusta el concepto de AirTag de Apple y decide desarrollar uno propio</a></h4>
-    <a href='https://computerhoy.com/apple/google-gusta-concepto-airtag-apple-decide-desarrollar-propio-1185740' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/airtag-google-2930330.jpg?tf=1200x' alt='A Google le gusta el concepto de AirTag de Apple y decide desarrollar uno propio' />
     </a>
 </div>
 
