@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-tablets-windows-10-ofertas-922299'>Estas son las mejores tablets con Windows 11 que puedes comprar</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-tablets-windows-10-ofertas-922299' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/microsoft-surface-pro-9-2929734.jpg?tf=1200x' alt='Estas son las mejores tablets con Windows 11 que puedes comprar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/28-noticias-tecnologia-comenzar-manana-informado-ultimo-1185650'>28 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
+    <a href='https://computerhoy.com/tecnologia/28-noticias-tecnologia-comenzar-manana-informado-ultimo-1185650' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/28-noticias-tecnologia-comenzar-manana-informado-ultimo-2930132.jpg?tf=1200x' alt='28 noticias de tecnología para comenzar la mañana informado de lo último' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/mejores-aplicaciones-gadgets-sobrevivir-oleada-gripe-resfriados-1185160'>Las mejores aplicaciones y gadgets para sobrevivir a la oleada de gripe y resfriados</a></h4>
+    <a href='https://computerhoy.com/life/mejores-aplicaciones-gadgets-sobrevivir-oleada-gripe-resfriados-1185160' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/mejores-aplicaciones-gadgets-sobrevivir-oleada-gripe-resfriado-2929440.jpg?tf=1200x' alt='Las mejores aplicaciones y gadgets para sobrevivir a la oleada de gripe y resfriados' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciencia/nina-buscar-fosiles-navidad-diente-megalodon-1185642'>Niña de 9 años recibe un kit para buscar fósiles en Navidad, y en media hora encuentra un diente de Megalodón de hace 20 millones de años</a></h4>
     <a href='https://computerhoy.com/ciencia/nina-buscar-fosiles-navidad-diente-megalodon-1185642' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/nina-9-anos-recibe-kit-buscar-fosiles-navidad-media-hora-encuentra-diente-megalodon-hace-20-millones-anos-2930124.jpg?tf=1200x' alt='Niña de 9 años recibe un kit para buscar fósiles en Navidad, y en media hora encuentra un diente de Megalodón de hace 20 millones de años' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/google/grogu-tracker-google-competir-airtag-apple-1185640'>Grogu, el localizador de Google para competir con el AirTag de Apple</a></h4>
     <a href='https://computerhoy.com/google/grogu-tracker-google-competir-airtag-apple-1185640' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/grogu-tracket-google-competir-airtag-apple-2930122.jpg?tf=1200x' alt='Grogu, el localizador de Google para competir con el AirTag de Apple' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/david-cronenberg-galaxy-flesh-pelicula-inteligencia-artificial-midjourney-1185456'>Una IA crea una película "perdida" de David Cronenberg, Galaxy of Flesh, y los fans amenazan de muerte al autor</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/david-cronenberg-galaxy-flesh-pelicula-inteligencia-artificial-midjourney-1185456' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/ia-crea-pelicula-perdida-david-cronenberg-galaxy-flesh-fans-amenazan-muerte-autor-2929950.jpg?tf=1200x' alt='Una IA crea una película "perdida" de David Cronenberg, Galaxy of Flesh, y los fans amenazan de muerte al autor' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/alimentacion/robot-cocina-cecotec-mambo-touch-pantalla-tactil-recetario-200-euros-descuento-1185452'>Este robot de cocina de Cecotec tiene pantalla integrada con recetario, y 200 euros de descuento</a></h4>
-    <a href='https://computerhoy.com/alimentacion/robot-cocina-cecotec-mambo-touch-pantalla-tactil-recetario-200-euros-descuento-1185452' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/robot-cocina-cecotec-tiene-pantalla-integrada-recetario-200-euros-descuento-2929942.jpg?tf=1200x' alt='Este robot de cocina de Cecotec tiene pantalla integrada con recetario, y 200 euros de descuento' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/biel-glasses-gafas-inteligencia-artificial-realidad-aumentada-discapacidad-visual-1185444'>Una startup española quiere sustituir los perros guía para ciegos por unas gafas futuristas con IA y robótica</a></h4>
-    <a href='https://computerhoy.com/tecnologia/biel-glasses-gafas-inteligencia-artificial-realidad-aumentada-discapacidad-visual-1185444' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/startup-espanola-quiere-sustituir-perros-guia-ciegos-unas-gafas-futuristas-ia-robotica-2929916.jpg?tf=1200x' alt='Una startup española quiere sustituir los perros guía para ciegos por unas gafas futuristas con IA y robótica' />
     </a>
 </div>
 
