@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/google/google-desbloquea-gamepad-stadia-bluetooth-1186014'>Google desbloquea el mando de Stadia: así puedes añadirle Bluetooth</a></h4>
+    <a href='https://computerhoy.com/google/google-desbloquea-gamepad-stadia-bluetooth-1186014' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/google-stadia-2773765.jpg?tf=1200x' alt='Google desbloquea el mando de Stadia: así puedes añadirle Bluetooth' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/entretenimiento/the-last-us-segundo-mejor-estreno-hbo-max-1186006'>The Last of us es el segundo mejor estreno de HBO en la última década, pero muy lejos de La Casa del Dragón</a></h4>
     <a href='https://computerhoy.com/entretenimiento/the-last-us-segundo-mejor-estreno-hbo-max-1186006' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/verticalimage1673987743699-2930888.jpg?tf=1200x' alt='The Last of us es el segundo mejor estreno de HBO en la última década, pero muy lejos de La Casa del Dragón' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/apps/funciona-transferencia-chats-dispositivos-android-utilizando-codigo-qr-1185988'>Así funciona la transferencia de chats entre dispositivos Android utilizando un código QR</a></h4>
     <a href='https://computerhoy.com/apps/funciona-transferencia-chats-dispositivos-android-utilizando-codigo-qr-1185988' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/whatsapp-telefonos-2930874.jpg?tf=1200x' alt='Así funciona la transferencia de chats entre dispositivos Android utilizando un código QR' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/streaming/dazn-sube-nuevos-precios-ver-futbol-formula-1-motogp-caro-2023-1185944'>DAZN sube de nuevo sus precios: ver el fútbol, la Fórmula 1 y MotoGP más caro en 2023</a></h4>
-    <a href='https://computerhoy.com/streaming/dazn-sube-nuevos-precios-ver-futbol-formula-1-motogp-caro-2023-1185944' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/dazn-sube-nuevos-precios-ver-futbol-formula-1-motogp-caro-2023-2930824.jpg?tf=1200x' alt='DAZN sube de nuevo sus precios: ver el fútbol, la Fórmula 1 y MotoGP más caro en 2023' />
     </a>
 </div>
 
