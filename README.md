@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/espacio/sera-2023-industria-aeroespacial-1185678'>Así será el 2023 para la industria aeroespacial</a></h4>
+    <a href='https://computerhoy.com/espacio/sera-2023-industria-aeroespacial-1185678' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/spacex-nave-espacial-2514031.jpg?tf=1200x' alt='Así será el 2023 para la industria aeroespacial' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/patrocinado/vas-sentir-verdadero-flechazo-ofertas-aliexpress-1184836'>Vas a sentir un verdadero flechazo con las ofertas de AliExpress</a></h4>
+    <a href='https://computerhoy.com/patrocinado/vas-sentir-verdadero-flechazo-ofertas-aliexpress-1184836' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/ocasion-espacio-2928798.jpg?tf=1200x' alt='Vas a sentir un verdadero flechazo con las ofertas de AliExpress' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/ya-tenemos-trailer-tercera-temporada-mandalorian-aterriza-disney-1-marzo-1185662'>Ya tenemos tráiler de la tercera temporada de The Mandalorian que aterriza en Disney+ el 1 de marzo</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/ya-tenemos-trailer-tercera-temporada-mandalorian-aterriza-disney-1-marzo-1185662' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/ya-tenemos-trailer-tercera-temporada-mandalorian-aterriza-disney-1-marzo-2930172.jpg?tf=1200x' alt='Ya tenemos tráiler de la tercera temporada de The Mandalorian que aterriza en Disney+ el 1 de marzo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/streaming/funciona-nueva-herramienta-nvidia-videoconferencias-siempre-mirando-camara-1185382'>Así funciona la nueva herramienta de NVIDIA para videoconferencias: siempre mirando a cámara</a></h4>
+    <a href='https://computerhoy.com/streaming/funciona-nueva-herramienta-nvidia-videoconferencias-siempre-mirando-camara-1185382' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/nvidia-broadcast-2929930.jpg?tf=1200x' alt='Así funciona la nueva herramienta de NVIDIA para videoconferencias: siempre mirando a cámara' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-tablets-windows-10-ofertas-922299'>Estas son las mejores tablets con Windows 11 que puedes comprar</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/mejores-tablets-windows-10-ofertas-922299' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/microsoft-surface-pro-9-2929734.jpg?tf=1200x' alt='Estas son las mejores tablets con Windows 11 que puedes comprar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/28-noticias-tecnologia-comenzar-manana-informado-ultimo-1185650'>28 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
-    <a href='https://computerhoy.com/tecnologia/28-noticias-tecnologia-comenzar-manana-informado-ultimo-1185650' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/28-noticias-tecnologia-comenzar-manana-informado-ultimo-2930132.jpg?tf=1200x' alt='28 noticias de tecnología para comenzar la mañana informado de lo último' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/mejores-aplicaciones-gadgets-sobrevivir-oleada-gripe-resfriados-1185160'>Las mejores aplicaciones y gadgets para sobrevivir a la oleada de gripe y resfriados</a></h4>
-    <a href='https://computerhoy.com/life/mejores-aplicaciones-gadgets-sobrevivir-oleada-gripe-resfriados-1185160' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/mejores-aplicaciones-gadgets-sobrevivir-oleada-gripe-resfriado-2929440.jpg?tf=1200x' alt='Las mejores aplicaciones y gadgets para sobrevivir a la oleada de gripe y resfriados' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/nina-buscar-fosiles-navidad-diente-megalodon-1185642'>Niña de 9 años recibe un kit para buscar fósiles en Navidad, y en media hora encuentra un diente de Megalodón de hace 20 millones de años</a></h4>
-    <a href='https://computerhoy.com/ciencia/nina-buscar-fosiles-navidad-diente-megalodon-1185642' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/nina-9-anos-recibe-kit-buscar-fosiles-navidad-media-hora-encuentra-diente-megalodon-hace-20-millones-anos-2930124.jpg?tf=1200x' alt='Niña de 9 años recibe un kit para buscar fósiles en Navidad, y en media hora encuentra un diente de Megalodón de hace 20 millones de años' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/grogu-tracker-google-competir-airtag-apple-1185640'>Grogu, el localizador de Google para competir con el AirTag de Apple</a></h4>
-    <a href='https://computerhoy.com/google/grogu-tracker-google-competir-airtag-apple-1185640' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/grogu-tracket-google-competir-airtag-apple-2930122.jpg?tf=1200x' alt='Grogu, el localizador de Google para competir con el AirTag de Apple' />
     </a>
 </div>
 
