@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/david-cronenberg-galaxy-flesh-pelicula-inteligencia-artificial-midjourney-1185456'>Una IA crea una película "perdida" de David Cronenberg, Galaxy of Flesh, y los fans amenazan de muerte al autor</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/david-cronenberg-galaxy-flesh-pelicula-inteligencia-artificial-midjourney-1185456' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/ia-crea-pelicula-perdida-david-cronenberg-galaxy-flesh-fans-amenazan-muerte-autor-2929950.jpg?tf=1200x' alt='Una IA crea una película "perdida" de David Cronenberg, Galaxy of Flesh, y los fans amenazan de muerte al autor' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/alimentacion/robot-cocina-cecotec-mambo-touch-pantalla-tactil-recetario-200-euros-descuento-1185452'>Este robot de cocina de Cecotec tiene pantalla integrada con recetario, y 200 euros de descuento</a></h4>
     <a href='https://computerhoy.com/alimentacion/robot-cocina-cecotec-mambo-touch-pantalla-tactil-recetario-200-euros-descuento-1185452' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/robot-cocina-cecotec-tiene-pantalla-integrada-recetario-200-euros-descuento-2929942.jpg?tf=1200x' alt='Este robot de cocina de Cecotec tiene pantalla integrada con recetario, y 200 euros de descuento' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/apps/todas-novedades-kodi-200-nexus-donde-descargarlo-1185436'>Todas las novedades de Kodi 20.0 Nexus y dónde descargarlo</a></h4>
     <a href='https://computerhoy.com/apps/todas-novedades-kodi-200-nexus-donde-descargarlo-1185436' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/kodi-2929924.jpg?tf=1200x' alt='Todas las novedades de Kodi 20.0 Nexus y dónde descargarlo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/sera-tecnologia-dominante-proximos-anos-bill-gates-1185432'>Esta será la tecnología dominante en los próximos años según Bill Gates</a></h4>
-    <a href='https://computerhoy.com/life/sera-tecnologia-dominante-proximos-anos-bill-gates-1185432' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/bill-gates-2628607.jpg?tf=1200x' alt='Esta será la tecnología dominante en los próximos años según Bill Gates' />
     </a>
 </div>
 
