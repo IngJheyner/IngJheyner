@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/google/grogu-tracker-google-competir-airtag-apple-1185640'>Grogu, el localizador de Google para competir con el AirTag de Apple</a></h4>
+    <a href='https://computerhoy.com/google/grogu-tracker-google-competir-airtag-apple-1185640' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/grogu-tracket-google-competir-airtag-apple-2930122.jpg?tf=1200x' alt='Grogu, el localizador de Google para competir con el AirTag de Apple' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/entretenimiento/david-cronenberg-galaxy-flesh-pelicula-inteligencia-artificial-midjourney-1185456'>Una IA crea una película "perdida" de David Cronenberg, Galaxy of Flesh, y los fans amenazan de muerte al autor</a></h4>
     <a href='https://computerhoy.com/entretenimiento/david-cronenberg-galaxy-flesh-pelicula-inteligencia-artificial-midjourney-1185456' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/ia-crea-pelicula-perdida-david-cronenberg-galaxy-flesh-fans-amenazan-muerte-autor-2929950.jpg?tf=1200x' alt='Una IA crea una película "perdida" de David Cronenberg, Galaxy of Flesh, y los fans amenazan de muerte al autor' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/ia-acusadas-pirateria-stable-diffusion-midjourney-seran-demandas-vulnerar-copyright-1185364'>Las IA, acusadas de piratería: Stable Diffusion y Midjourney serán demandas por vulnerar el copyright</a></h4>
     <a href='https://computerhoy.com/tecnologia/ia-acusadas-pirateria-stable-diffusion-midjourney-seran-demandas-vulnerar-copyright-1185364' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/artistas-herramientas-inteligencia-artificial-guerra-ha-comenzado-2819025.jpg?tf=1200x' alt='Las IA, acusadas de piratería: Stable Diffusion y Midjourney serán demandas por vulnerar el copyright' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/todas-novedades-kodi-200-nexus-donde-descargarlo-1185436'>Todas las novedades de Kodi 20.0 Nexus y dónde descargarlo</a></h4>
-    <a href='https://computerhoy.com/apps/todas-novedades-kodi-200-nexus-donde-descargarlo-1185436' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/kodi-2929924.jpg?tf=1200x' alt='Todas las novedades de Kodi 20.0 Nexus y dónde descargarlo' />
     </a>
 </div>
 
