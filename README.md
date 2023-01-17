@@ -50,9 +50,33 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/streaming/dazn-sube-nuevos-precios-ver-futbol-formula-1-motogp-caro-2023-1185944'>DAZN sube de nuevos sus precios: ver el fútbol, la Fórmula 1 y MotoGP más caro en 2023</a></h4>
+    <h4><a href='https://computerhoy.com/life/ahora-ya-sabras-electrodomesticos-culpables-te-dispare-factura-luz-todos-meses-1185992'>Ahora ya sabrás los electrodomésticos culpables de que se te dispare la factura de la luz todos los meses</a></h4>
+    <a href='https://computerhoy.com/life/ahora-ya-sabras-electrodomesticos-culpables-te-dispare-factura-luz-todos-meses-1185992' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/electrodomesticos-2930880.jpg?tf=1200x' alt='Ahora ya sabrás los electrodomésticos culpables de que se te dispare la factura de la luz todos los meses' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/gaming/consola-ps5-cuatro-juegazos-entrega-rapida-en-stock-1185990'>Consola PS5 con cuatro juegazos, sin sobreprecio, con entrega para jugar el fin de semana... ¡a por ella!</a></h4>
+    <a href='https://computerhoy.com/gaming/consola-ps5-cuatro-juegazos-entrega-rapida-en-stock-1185990' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/ps5-2428191.jpg?tf=1200x' alt='Consola PS5 con cuatro juegazos, sin sobreprecio, con entrega para jugar el fin de semana... ¡a por ella!' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/funciona-transferencia-chats-dispositivos-android-utilizando-codigo-qr-1185988'>Así funciona la transferencia de chats entre dispositivos Android utilizando un código QR</a></h4>
+    <a href='https://computerhoy.com/apps/funciona-transferencia-chats-dispositivos-android-utilizando-codigo-qr-1185988' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/whatsapp-telefonos-2930874.jpg?tf=1200x' alt='Así funciona la transferencia de chats entre dispositivos Android utilizando un código QR' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/streaming/dazn-sube-nuevos-precios-ver-futbol-formula-1-motogp-caro-2023-1185944'>DAZN sube de nuevo sus precios: ver el fútbol, la Fórmula 1 y MotoGP más caro en 2023</a></h4>
     <a href='https://computerhoy.com/streaming/dazn-sube-nuevos-precios-ver-futbol-formula-1-motogp-caro-2023-1185944' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/dazn-sube-nuevos-precios-ver-futbol-formula-1-motogp-caro-2023-2930824.jpg?tf=1200x' alt='DAZN sube de nuevos sus precios: ver el fútbol, la Fórmula 1 y MotoGP más caro en 2023' />
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/dazn-sube-nuevos-precios-ver-futbol-formula-1-motogp-caro-2023-2930824.jpg?tf=1200x' alt='DAZN sube de nuevo sus precios: ver el fútbol, la Fórmula 1 y MotoGP más caro en 2023' />
     </a>
 </div>
 
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/obligado-dar-propina-robot-preparo-bebida-tiene-sentido-1185946'>Obligado a dar propina al robot que preparó su bebida: ¿tiene sentido?</a></h4>
     <a href='https://computerhoy.com/tecnologia/obligado-dar-propina-robot-preparo-bebida-tiene-sentido-1185946' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/obligado-dar-propina-robot-preparo-bebida-tiene-sentido-2930818.jpg?tf=1200x' alt='Obligado a dar propina al robot que preparó su bebida: ¿tiene sentido?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/listas/tecnologia/trucos-google-meet-hangouts-videoconferencia-627191'>10 trucos de Google Meet (antes Hangouts) que debes conocer</a></h4>
-    <a href='https://computerhoy.com/listas/tecnologia/trucos-google-meet-hangouts-videoconferencia-627191' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/04/google-meet-1920059.jpg?tf=1200x' alt='10 trucos de Google Meet (antes Hangouts) que debes conocer' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/audio/nova-h1-pendientes-auriculares-inalambricos-video-1185952'>¿Pendientes con auriculares o auriculares para vestir? (vídeo)</a></h4>
-    <a href='https://computerhoy.com/audio/nova-h1-pendientes-auriculares-inalambricos-video-1185952' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/verticalimage1673973825401-2930754.jpg?tf=1200x' alt='¿Pendientes con auriculares o auriculares para vestir? (vídeo)' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-relojes-inteligentes-llamadas-1054263'>Mejores relojes inteligentes con micrófono para responder llamadas</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-relojes-inteligentes-llamadas-1054263' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/persona-apple-watch-muneca-2690523.jpg?tf=1200x' alt='Mejores relojes inteligentes con micrófono para responder llamadas' />
     </a>
 </div>
 
