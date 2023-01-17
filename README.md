@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/google-gusta-concepto-airtag-apple-decide-desarrollar-propio-1185740'>A Google le gusta el concepto de AirTag de Apple y decide desarrollar uno propio</a></h4>
+    <a href='https://computerhoy.com/apple/google-gusta-concepto-airtag-apple-decide-desarrollar-propio-1185740' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/airtag-google-2930330.jpg?tf=1200x' alt='A Google le gusta el concepto de AirTag de Apple y decide desarrollar uno propio' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/pc/samsung-galaxy-s23-no-viene-solo-sera-galaxy-book-3-1185680'>Samsung Galaxy S23 no viene solo, así será el Galaxy Book 3</a></h4>
+    <a href='https://computerhoy.com/pc/samsung-galaxy-s23-no-viene-solo-sera-galaxy-book-3-1185680' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/samsung-galaxy-book-3-2930286.jpg?tf=1200x' alt='Samsung Galaxy S23 no viene solo, así será el Galaxy Book 3' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/nuevo-ipad-2022-tiene-ya-rebaja-precio-importante-50-euros-barato-1184062'>El nuevo iPad de 2022 tiene ya una rebaja de precio importante: es 50 euros más barato</a></h4>
     <a href='https://computerhoy.com/tecnologia/nuevo-ipad-2022-tiene-ya-rebaja-precio-importante-50-euros-barato-1184062' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/ipad-10a-generacion-analisis-opinion-2897878.jpg?tf=1200x' alt='El nuevo iPad de 2022 tiene ya una rebaja de precio importante: es 50 euros más barato' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/patrocinado/auriculares-xiaomi-cancelacion-ruido-todos-bolsillos-gracias-aliexpress-1185346'>Auriculares de Xiaomi con cancelación de ruido para todos los bolsillos, gracias a AliExpress</a></h4>
     <a href='https://computerhoy.com/patrocinado/auriculares-xiaomi-cancelacion-ruido-todos-bolsillos-gracias-aliexpress-1185346' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/xiaomi-redmi-buds-3-2929758.jpg?tf=1200x' alt='Auriculares de Xiaomi con cancelación de ruido para todos los bolsillos, gracias a AliExpress' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/patrocinado/necesitas-smartphone-inteligente-ultrarresistente-no-te-vas-creer-precio-8-gb-ram-camara-48-megapixeles-1184866'>Si necesitas un smartphone inteligente ultrarresistente, no te vas a creer el precio de este con 8 GB de RAM y cámara de 48 megapíxeles</a></h4>
-    <a href='https://computerhoy.com/patrocinado/necesitas-smartphone-inteligente-ultrarresistente-no-te-vas-creer-precio-8-gb-ram-camara-48-megapixeles-1184866' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/hotwav-cyber-9-pro-2928896.jpg?tf=1200x' alt='Si necesitas un smartphone inteligente ultrarresistente, no te vas a creer el precio de este con 8 GB de RAM y cámara de 48 megapíxeles' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/sera-2023-industria-aeroespacial-1185678'>Así será el 2023 para la industria aeroespacial</a></h4>
-    <a href='https://computerhoy.com/espacio/sera-2023-industria-aeroespacial-1185678' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/spacex-nave-espacial-2514031.jpg?tf=1200x' alt='Así será el 2023 para la industria aeroespacial' />
     </a>
 </div>
 
