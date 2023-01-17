@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/obligado-dar-propina-robot-preparo-bebida-tiene-sentido-1185946'>Obligado a dar propina al robot que preparó su bebida: ¿tiene sentido?</a></h4>
+    <a href='https://computerhoy.com/tecnologia/obligado-dar-propina-robot-preparo-bebida-tiene-sentido-1185946' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/obligado-dar-propina-robot-preparo-bebida-tiene-sentido-2930818.jpg?tf=1200x' alt='Obligado a dar propina al robot que preparó su bebida: ¿tiene sentido?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/listas/tecnologia/trucos-google-meet-hangouts-videoconferencia-627191'>10 trucos de Google Meet (antes Hangouts) que debes conocer</a></h4>
+    <a href='https://computerhoy.com/listas/tecnologia/trucos-google-meet-hangouts-videoconferencia-627191' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/04/google-meet-1920059.jpg?tf=1200x' alt='10 trucos de Google Meet (antes Hangouts) que debes conocer' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/audio/nova-h1-pendientes-auriculares-inalambricos-video-1185952'>¿Pendientes con auriculares o auriculares para vestir? (vídeo)</a></h4>
     <a href='https://computerhoy.com/audio/nova-h1-pendientes-auriculares-inalambricos-video-1185952' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/verticalimage1673973825401-2930754.jpg?tf=1200x' alt='¿Pendientes con auriculares o auriculares para vestir? (vídeo)' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/redes/red-vpn-sirve-ventajas-peligros-mejores-vpn-gratis-pago-1180098'>Qué es una red VPN, para qué sirve, ventajas, peligros y las mejores VPN gratis y de pago</a></h4>
     <a href='https://computerhoy.com/redes/red-vpn-sirve-ventajas-peligros-mejores-vpn-gratis-pago-1180098' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/vpn-2930744.jpg?tf=1200x' alt='Qué es una red VPN, para qué sirve, ventajas, peligros y las mejores VPN gratis y de pago' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/mac-mini-m2-apple-actualiza-mini-pc-nuevos-procesadores-m2-m2-pro-1185866'>Mac mini M2: Apple actualiza su mini PC con los nuevos procesadores M2 y M2 Pro</a></h4>
-    <a href='https://computerhoy.com/apple/mac-mini-m2-apple-actualiza-mini-pc-nuevos-procesadores-m2-m2-pro-1185866' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/mac-mini-m2-apple-actualiza-mini-pc-nuevos-procesadores-m2-m2-pro-2930710.jpg?tf=1200x' alt='Mac mini M2: Apple actualiza su mini PC con los nuevos procesadores M2 y M2 Pro' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/apple-m2-pro-m2-max-son-nuevos-procesadores-macbook-pro-1185872'>Apple M2 Pro y M2 Max: así son los nuevos procesadores para los MacBook Pro</a></h4>
-    <a href='https://computerhoy.com/apple/apple-m2-pro-m2-max-son-nuevos-procesadores-macbook-pro-1185872' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/apple-m2-pro-m2-max-son-nuevos-procesadores-portatiles-ipads-apple-2930666.jpg?tf=1200x' alt='Apple M2 Pro y M2 Max: así son los nuevos procesadores para los MacBook Pro' />
     </a>
 </div>
 
