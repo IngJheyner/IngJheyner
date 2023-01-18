@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/motor/drone-rapido-mundo-alcanza-velocidad-maxima-414-km-h-1186252'>El drone más rápido del mundo que alcanza una velocidad máxima de 414 km/h</a></h4>
+    <a href='https://computerhoy.com/motor/drone-rapido-mundo-alcanza-velocidad-maxima-414-km-h-1186252' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/drone-rapido-mundo-414-km-h-2931176.jpg?tf=1200x' alt='El drone más rápido del mundo que alcanza una velocidad máxima de 414 km/h' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/como-cientificos-han-conseguido-guiar-relampagos-potente-laser-1185948'>Así es como los científicos han conseguido guiar los relámpagos con un potente láser </a></h4>
+    <a href='https://computerhoy.com/ciencia/como-cientificos-han-conseguido-guiar-relampagos-potente-laser-1185948' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/como-cientificos-guian-relampagos-laser-2930790.jpg?tf=1200x' alt='Así es como los científicos han conseguido guiar los relámpagos con un potente láser ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/listas/tecnologia/5-moviles-tienen-carga-inalambrica-son-baratos-pensabas-480371'>5 móviles con carga inalámbrica que son mucho más baratos de lo que pensabas</a></h4>
     <a href='https://computerhoy.com/listas/tecnologia/5-moviles-tienen-carga-inalambrica-son-baratos-pensabas-480371' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/nothing-phone-1-2757119.jpg?tf=1200x' alt='5 móviles con carga inalámbrica que son mucho más baratos de lo que pensabas' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/entretenimiento/han-subido-suscripciones-servicios-streaming-pagas-1185904'>Lo que han subido las suscripciones a servicios de streaming y lo que pagas de más</a></h4>
     <a href='https://computerhoy.com/entretenimiento/han-subido-suscripciones-servicios-streaming-pagas-1185904' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/directivos-streaming-2516885.jpg?tf=1200x' alt='Lo que han subido las suscripciones a servicios de streaming y lo que pagas de más' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/son-ventiladores-holograficos-como-funcionan-video-1186232'>Qué son los ventiladores holográficos, y cómo funcionan (vídeo)</a></h4>
-    <a href='https://computerhoy.com/tecnologia/son-ventiladores-holograficos-como-funcionan-video-1186232' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/verticalimage1674016683701-2931140.jpg?tf=1200x' alt='Qué son los ventiladores holográficos, y cómo funcionan (vídeo)' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/carrefour-dias-iva-cheques-regalo-1185726'>Carrefour se apunta a los Días sin IVA con cheques regalo: estas son sus mejores ofertas</a></h4>
-    <a href='https://computerhoy.com/tecnologia/carrefour-dias-iva-cheques-regalo-1185726' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/carrefour-2468669.jpg?tf=1200x' alt='Carrefour se apunta a los Días sin IVA con cheques regalo: estas son sus mejores ofertas' />
     </a>
 </div>
 
