@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/moviles/ya-sabemos-especificaciones-samsung-galaxy-s23-galaxy-s23-1186356'>Ya sabemos las especificaciones del Samsung Galaxy S23 y Galaxy S23+</a></h4>
+    <a href='https://computerhoy.com/moviles/ya-sabemos-especificaciones-samsung-galaxy-s23-galaxy-s23-1186356' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/galaxy-s23-2826877.jpg?tf=1200x' alt='Ya sabemos las especificaciones del Samsung Galaxy S23 y Galaxy S23+' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/ahorrarias-ano-hubieras-comprado-electrodomesticos-eficientes-1186266'>Esto es lo que ahorrarías al año si compras los electrodomésticos más eficientes </a></h4>
+    <a href='https://computerhoy.com/life/ahorrarias-ano-hubieras-comprado-electrodomesticos-eficientes-1186266' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/cuanto-ahorrarias-ano-hubieras-comprado-electrodomesticos-eficientes-2931334.jpg?tf=1200x' alt='Esto es lo que ahorrarías al año si compras los electrodomésticos más eficientes ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/patrocinado/grandes-ofertas-pccomponentes-como-cuesta-resistirse-estos-precios-1185986'>Grandes ofertas de PcComponentes: ¡cómo cuesta resistirse a estos precios!</a></h4>
     <a href='https://computerhoy.com/patrocinado/grandes-ofertas-pccomponentes-como-cuesta-resistirse-estos-precios-1185986' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/ofertas-enero-2930834.jpg?tf=1200x' alt='Grandes ofertas de PcComponentes: ¡cómo cuesta resistirse a estos precios!' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/tablets-potentes-samsung-tiene-100-euros-descuento-1185268'>Una de las tablets más potentes de Samsung tiene 100 euros de descuento</a></h4>
     <a href='https://computerhoy.com/tecnologia/tablets-potentes-samsung-tiene-100-euros-descuento-1185268' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/samsung-galaxy-tab-s8-2771303.jpg?tf=1200x' alt='Una de las tablets más potentes de Samsung tiene 100 euros de descuento' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/patrocinado/te-imaginas-tener-procesador-amd-ryzen-7-ahora-puedes-gracias-rebaja-aplica-aliexpress-1185426'>¿Te imaginas tener un procesador AMD Ryzen 7? ahora puedes gracias a la rebaja que aplica AliExpress</a></h4>
-    <a href='https://computerhoy.com/patrocinado/te-imaginas-tener-procesador-amd-ryzen-7-ahora-puedes-gracias-rebaja-aplica-aliexpress-1185426' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/procesador-amd-ryzen-7-2320399.jpg?tf=1200x' alt='¿Te imaginas tener un procesador AMD Ryzen 7? ahora puedes gracias a la rebaja que aplica AliExpress' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/patrocinado/momento-comprar-tarjeta-microsd-calidad-aprovechando-oferton-aliexpress-1185390'>Es el momento de comprar una tarjeta microSD de calidad, aprovechando este ofertón de AliExpress</a></h4>
-    <a href='https://computerhoy.com/patrocinado/momento-comprar-tarjeta-microsd-calidad-aprovechando-oferton-aliexpress-1185390' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/microsd-2929844.jpg?tf=1200x' alt='Es el momento de comprar una tarjeta microSD de calidad, aprovechando este ofertón de AliExpress' />
     </a>
 </div>
 
