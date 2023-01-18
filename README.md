@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/industria/microsoft-despide-10000-trabajadores-amazon-18000-mismo-dia-1186636'>Microsoft despide a 10.000 trabajadores y Amazon a 18.000 en el mismo día</a></h4>
+    <a href='https://computerhoy.com/industria/microsoft-despide-10000-trabajadores-amazon-18000-mismo-dia-1186636' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/microsoft-despide-10000-trabajadores-amazon-18000-mismo-dia-2931970.jpg?tf=1200x' alt='Microsoft despide a 10.000 trabajadores y Amazon a 18.000 en el mismo día' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/entretenimiento/estrenos-cinematograficos-netflix-casi-60-peliculas-2023-1186624'>Batería de estrenos cinematográficos en Netflix: casi 60 películas para 2023</a></h4>
     <a href='https://computerhoy.com/entretenimiento/estrenos-cinematograficos-netflix-casi-60-peliculas-2023-1186624' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/verticalimage1674070710662-2931942.jpg?tf=1200x' alt='Batería de estrenos cinematográficos en Netflix: casi 60 películas para 2023' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/ciencia/robot-capaz-oler-mejor-nariz-gracias-inteligencia-artificial-1186598'>Este robot es capaz de oler mejor que tu nariz gracias a la Inteligencia Artificial</a></h4>
     <a href='https://computerhoy.com/ciencia/robot-capaz-oler-mejor-nariz-gracias-inteligencia-artificial-1186598' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/robot-capaz-oler-mejor-nariz-gracias-inteligencia-artificial-2931926.jpg?tf=1200x' alt='Este robot es capaz de oler mejor que tu nariz gracias a la Inteligencia Artificial' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/streaming/golpe-realidad-netflix-plan-barato-anuncios-no-atrae-usuarios-1186532'>Golpe de realidad a Netflix: su plan barato con anuncios no atrae a usuarios</a></h4>
-    <a href='https://computerhoy.com/streaming/golpe-realidad-netflix-plan-barato-anuncios-no-atrae-usuarios-1186532' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/netflix-2923644.jpg?tf=1200x' alt='Golpe de realidad a Netflix: su plan barato con anuncios no atrae a usuarios' />
     </a>
 </div>
 
