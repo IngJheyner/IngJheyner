@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/espacio/william-donald-borders-primer-obispo-luna-1186020'>William Donald Borders, el primer Obispo oficial de la Luna</a></h4>
+    <a href='https://computerhoy.com/espacio/william-donald-borders-primer-obispo-luna-1186020' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/william-donald-borders-primer-obispo-oficial-luna-2930944.jpg?tf=1200x' alt='William Donald Borders, el primer Obispo oficial de la Luna' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/google/google-desbloquea-gamepad-stadia-bluetooth-1186014'>Google desbloquea el mando de Stadia: así puedes añadirle Bluetooth</a></h4>
     <a href='https://computerhoy.com/google/google-desbloquea-gamepad-stadia-bluetooth-1186014' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/google-stadia-2773765.jpg?tf=1200x' alt='Google desbloquea el mando de Stadia: así puedes añadirle Bluetooth' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/gaming/consola-ps5-cuatro-juegazos-entrega-rapida-en-stock-1185990'>Consola PS5 con cuatro juegazos, sin sobreprecio, con entrega para jugar el fin de semana... ¡a por ella!</a></h4>
     <a href='https://computerhoy.com/gaming/consola-ps5-cuatro-juegazos-entrega-rapida-en-stock-1185990' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/ps5-2428191.jpg?tf=1200x' alt='Consola PS5 con cuatro juegazos, sin sobreprecio, con entrega para jugar el fin de semana... ¡a por ella!' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/funciona-transferencia-chats-dispositivos-android-utilizando-codigo-qr-1185988'>Así funciona la transferencia de chats entre dispositivos Android utilizando un código QR</a></h4>
-    <a href='https://computerhoy.com/apps/funciona-transferencia-chats-dispositivos-android-utilizando-codigo-qr-1185988' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/whatsapp-telefonos-2930874.jpg?tf=1200x' alt='Así funciona la transferencia de chats entre dispositivos Android utilizando un código QR' />
     </a>
 </div>
 
