@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/streaming/golpe-realidad-netflix-plan-barato-anuncios-no-atrae-usuarios-1186532'>Golpe de realidad a Netflix: su plan barato con anuncios no atrae a usuarios</a></h4>
+    <a href='https://computerhoy.com/streaming/golpe-realidad-netflix-plan-barato-anuncios-no-atrae-usuarios-1186532' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/netflix-2923644.jpg?tf=1200x' alt='Golpe de realidad a Netflix: su plan barato con anuncios no atrae a usuarios' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/redes-sociales/twitter-carga-todas-apps-terceros-solo-uses-app-oficial-1186530'>Twitter se carga todas las apps de terceros, para que solo uses su app oficial</a></h4>
     <a href='https://computerhoy.com/redes-sociales/twitter-carga-todas-apps-terceros-solo-uses-app-oficial-1186530' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/elon-musk-quiere-twitter-parezca-signal-incluira-cifrado-mds-2878451.jpg?tf=1200x' alt='Twitter se carga todas las apps de terceros, para que solo uses su app oficial' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tv/oficial-gobierno-vuelve-frenar-avance-tdt-espana-1186482'>Es oficial: el gobierno vuelve a frenar el avance de la TDT en España</a></h4>
     <a href='https://computerhoy.com/tv/oficial-gobierno-vuelve-frenar-avance-tdt-espana-1186482' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/tdt-2856157.jpg?tf=1200x' alt='Es oficial: el gobierno vuelve a frenar el avance de la TDT en España' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/hacienda-somos-todos-enviar-bizum-no-te-salvara-cumplir-1186484'>Hacienda somos todos y enviar un Bizum no te salvará de cumplir</a></h4>
-    <a href='https://computerhoy.com/life/hacienda-somos-todos-enviar-bizum-no-te-salvara-cumplir-1186484' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/bizum-2671393.jpg?tf=1200x' alt='Hacienda somos todos y enviar un Bizum no te salvará de cumplir' />
     </a>
 </div>
 
