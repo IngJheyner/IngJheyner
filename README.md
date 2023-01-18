@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/motor/descubren-nuevo-coche-electrico-xiaomi-prueba-extrema-climatica-nieve-1186610'>Descubren el nuevo coche eléctrico de Xiaomi en una prueba extrema climática bajo nieve</a></h4>
+    <a href='https://computerhoy.com/motor/descubren-nuevo-coche-electrico-xiaomi-prueba-extrema-climatica-nieve-1186610' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/cazan-esperado-coche-electrico-xiaomi-test-secreto-2931938.jpg?tf=1200x' alt='Descubren el nuevo coche eléctrico de Xiaomi en una prueba extrema climática bajo nieve' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/streaming/union-europea-cada-vez-dura-retransmisiones-ilegales-iptv-1186608'>La Unión Europea cada vez más dura contra las retransmisiones ilegales IPTV</a></h4>
+    <a href='https://computerhoy.com/streaming/union-europea-cada-vez-dura-retransmisiones-ilegales-iptv-1186608' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/iptv-2852443.jpg?tf=1200x' alt='La Unión Europea cada vez más dura contra las retransmisiones ilegales IPTV' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/robot-capaz-oler-mejor-nariz-gracias-inteligencia-artificial-1186598'>Este robot es capaz de oler mejor que tu nariz gracias a la Inteligencia Artificial</a></h4>
+    <a href='https://computerhoy.com/ciencia/robot-capaz-oler-mejor-nariz-gracias-inteligencia-artificial-1186598' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/robot-capaz-oler-mejor-nariz-gracias-inteligencia-artificial-2931926.jpg?tf=1200x' alt='Este robot es capaz de oler mejor que tu nariz gracias a la Inteligencia Artificial' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/streaming/golpe-realidad-netflix-plan-barato-anuncios-no-atrae-usuarios-1186532'>Golpe de realidad a Netflix: su plan barato con anuncios no atrae a usuarios</a></h4>
     <a href='https://computerhoy.com/streaming/golpe-realidad-netflix-plan-barato-anuncios-no-atrae-usuarios-1186532' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/netflix-2923644.jpg?tf=1200x' alt='Golpe de realidad a Netflix: su plan barato con anuncios no atrae a usuarios' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/redes-sociales/twitter-carga-todas-apps-terceros-solo-uses-app-oficial-1186530'>Twitter se carga todas las apps de terceros, para que solo uses su app oficial</a></h4>
     <a href='https://computerhoy.com/redes-sociales/twitter-carga-todas-apps-terceros-solo-uses-app-oficial-1186530' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/elon-musk-quiere-twitter-parezca-signal-incluira-cifrado-mds-2878451.jpg?tf=1200x' alt='Twitter se carga todas las apps de terceros, para que solo uses su app oficial' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/voz-estados-whatsapp-funcionara-extrana-caracteristica-1186528'>Tu voz en los estados de WhatsApp: así funcionará la extraña característica</a></h4>
-    <a href='https://computerhoy.com/apps/voz-estados-whatsapp-funcionara-extrana-caracteristica-1186528' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/notas-voz-whatsapp-2498663.jpg?tf=1200x' alt='Tu voz en los estados de WhatsApp: así funcionará la extraña característica' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-relojes-inteligentes-personas-mayores-puedes-comprar-1002391'>Mejores relojes inteligentes para personas mayores que puedes comprar</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-relojes-inteligentes-personas-mayores-puedes-comprar-1002391' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/persona-mayor-reloj-inteligente-apple-watch-2598625.jpg?tf=1200x' alt='Mejores relojes inteligentes para personas mayores que puedes comprar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tv/oficial-gobierno-vuelve-frenar-avance-tdt-espana-1186482'>Es oficial: el gobierno vuelve a frenar el avance de la TDT en España</a></h4>
-    <a href='https://computerhoy.com/tv/oficial-gobierno-vuelve-frenar-avance-tdt-espana-1186482' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/tdt-2856157.jpg?tf=1200x' alt='Es oficial: el gobierno vuelve a frenar el avance de la TDT en España' />
     </a>
 </div>
 
