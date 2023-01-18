@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/estrenos-cinematograficos-netflix-casi-60-peliculas-2023-1186624'>Batería de estrenos cinematográficos en Netflix: casi 60 películas para 2023</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/estrenos-cinematograficos-netflix-casi-60-peliculas-2023-1186624' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/verticalimage1674070710662-2931942.jpg?tf=1200x' alt='Batería de estrenos cinematográficos en Netflix: casi 60 películas para 2023' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/motor/descubren-nuevo-coche-electrico-xiaomi-prueba-extrema-climatica-nieve-1186610'>Descubren el nuevo coche eléctrico de Xiaomi en una prueba extrema climática bajo nieve</a></h4>
     <a href='https://computerhoy.com/motor/descubren-nuevo-coche-electrico-xiaomi-prueba-extrema-climatica-nieve-1186610' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/cazan-esperado-coche-electrico-xiaomi-test-secreto-2931938.jpg?tf=1200x' alt='Descubren el nuevo coche eléctrico de Xiaomi en una prueba extrema climática bajo nieve' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/streaming/golpe-realidad-netflix-plan-barato-anuncios-no-atrae-usuarios-1186532'>Golpe de realidad a Netflix: su plan barato con anuncios no atrae a usuarios</a></h4>
     <a href='https://computerhoy.com/streaming/golpe-realidad-netflix-plan-barato-anuncios-no-atrae-usuarios-1186532' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/netflix-2923644.jpg?tf=1200x' alt='Golpe de realidad a Netflix: su plan barato con anuncios no atrae a usuarios' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/redes-sociales/twitter-carga-todas-apps-terceros-solo-uses-app-oficial-1186530'>Twitter se carga todas las apps de terceros, para que solo uses su app oficial</a></h4>
-    <a href='https://computerhoy.com/redes-sociales/twitter-carga-todas-apps-terceros-solo-uses-app-oficial-1186530' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/elon-musk-quiere-twitter-parezca-signal-incluira-cifrado-mds-2878451.jpg?tf=1200x' alt='Twitter se carga todas las apps de terceros, para que solo uses su app oficial' />
     </a>
 </div>
 
