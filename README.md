@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/cuidado-aviso-seguridad-importante-utilizas-reproductor-vlc-1186428'>¡Cuidado! Aviso de seguridad importante si utilizas el reproductor VLC</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/cuidado-aviso-seguridad-importante-utilizas-reproductor-vlc-1186428' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/cuidado-aviso-seguridad-importante-utilizas-reproductor-vlc-2931564.jpg?tf=1200x' alt='¡Cuidado! Aviso de seguridad importante si utilizas el reproductor VLC' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/espacio/proyecto-nasa-telescopio-forma-flor-busca-planetas-habitables-1186454'>El proyecto de la NASA que es un telescopio con forma de flor que busca planetas habitables</a></h4>
+    <a href='https://computerhoy.com/espacio/proyecto-nasa-telescopio-forma-flor-busca-planetas-habitables-1186454' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/proyecto-nasa-2931576.jpg?tf=1200x' alt='El proyecto de la NASA que es un telescopio con forma de flor que busca planetas habitables' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/bateria-bagdad-misterio-2000-anos-nadie-sabe-resolver-1186412'>La “batería de Bagdad” un misterio con más de 2.000 años que nadie sabe resolver</a></h4>
     <a href='https://computerhoy.com/life/bateria-bagdad-misterio-2000-anos-nadie-sabe-resolver-1186412' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/arqueologia-2931552.jpg?tf=1200x' alt='La “batería de Bagdad” un misterio con más de 2.000 años que nadie sabe resolver' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/motor/tesla-musk-mentiras-autopilot-video-2016-paraba-solo-semaforo-estaba-falseado-1186380'>Tesla, Musk y las mentiras sobre el Autopilot: el vídeo de 2016 en el que paraba solo en un semáforo estaba falseado</a></h4>
     <a href='https://computerhoy.com/motor/tesla-musk-mentiras-autopilot-video-2016-paraba-solo-semaforo-estaba-falseado-1186380' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/prueba-autopilot-tesla-fallos-2540431.jpg?tf=1200x' alt='Tesla, Musk y las mentiras sobre el Autopilot: el vídeo de 2016 en el que paraba solo en un semáforo estaba falseado' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/adios-gafas-realidad-aumentada-apple-proyecto-fracasa-tendran-esperar-indefinidamente-1186388'>Adiós a las gafas de realidad aumentada de Apple: el proyecto fracasa y tendrán que esperar "indefinidamente"</a></h4>
-    <a href='https://computerhoy.com/apple/adios-gafas-realidad-aumentada-apple-proyecto-fracasa-tendran-esperar-indefinidamente-1186388' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/gafas-realidad-aumentada-apple-fracasan-tendran-esperar-indefinidamente-2931416.jpg?tf=1200x' alt='Adiós a las gafas de realidad aumentada de Apple: el proyecto fracasa y tendrán que esperar "indefinidamente"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/hay-rival-macbook-air-bastante-barato-portatil-samsung-pantalla-amoled-rebajas-1185410'>Hay rival para el MacBook Air, y bastante más barato: este portátil Samsung con pantalla AMOLED está de rebajas</a></h4>
-    <a href='https://computerhoy.com/tecnologia/hay-rival-macbook-air-bastante-barato-portatil-samsung-pantalla-amoled-rebajas-1185410' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/samsung-galaxy-book2-pro-analisis-opinion-2863757.jpg?tf=1200x' alt='Hay rival para el MacBook Air, y bastante más barato: este portátil Samsung con pantalla AMOLED está de rebajas' />
     </a>
 </div>
 
