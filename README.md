@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/patrocinado/grandes-ofertas-pccomponentes-como-cuesta-resistirse-estos-precios-1185986'>Grandes ofertas de PcComponentes: ¡cómo cuesta resistirse a estos precios!</a></h4>
+    <a href='https://computerhoy.com/patrocinado/grandes-ofertas-pccomponentes-como-cuesta-resistirse-estos-precios-1185986' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/ofertas-enero-2930834.jpg?tf=1200x' alt='Grandes ofertas de PcComponentes: ¡cómo cuesta resistirse a estos precios!' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/5-mejores-pelis-ver-te-gusta-odias-chatgpt-1186282'>Las 5 mejores pelis para ver si te gusta u odias ChatGPT</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/5-mejores-pelis-ver-te-gusta-odias-chatgpt-1186282' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/pelicula-chatgpt-2931218.jpg?tf=1200x' alt='Las 5 mejores pelis para ver si te gusta u odias ChatGPT' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/tablets-potentes-samsung-tiene-100-euros-descuento-1185268'>Una de las tablets más potentes de Samsung tiene 100 euros de descuento</a></h4>
     <a href='https://computerhoy.com/tecnologia/tablets-potentes-samsung-tiene-100-euros-descuento-1185268' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/samsung-galaxy-tab-s8-2771303.jpg?tf=1200x' alt='Una de las tablets más potentes de Samsung tiene 100 euros de descuento' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/patrocinado/momento-comprar-tarjeta-microsd-calidad-aprovechando-oferton-aliexpress-1185390'>Es el momento de comprar una tarjeta microSD de calidad, aprovechando este ofertón de AliExpress</a></h4>
     <a href='https://computerhoy.com/patrocinado/momento-comprar-tarjeta-microsd-calidad-aprovechando-oferton-aliexpress-1185390' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/microsd-2929844.jpg?tf=1200x' alt='Es el momento de comprar una tarjeta microSD de calidad, aprovechando este ofertón de AliExpress' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/mejor-truco-evitar-vaho-coche-producto-especializado-espuma-afeitar-1186254'>El mejor truco para evitar el vaho en el coche: producto especializado o espuma de afeitar</a></h4>
-    <a href='https://computerhoy.com/motor/mejor-truco-evitar-vaho-coche-producto-especializado-espuma-afeitar-1186254' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/vaho-coche-2931194.jpg?tf=1200x' alt='El mejor truco para evitar el vaho en el coche: producto especializado o espuma de afeitar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/drone-rapido-mundo-alcanza-velocidad-maxima-414-km-h-1186252'>El drone más rápido del mundo que alcanza una velocidad máxima de 414 km/h</a></h4>
-    <a href='https://computerhoy.com/motor/drone-rapido-mundo-alcanza-velocidad-maxima-414-km-h-1186252' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/drone-rapido-mundo-414-km-h-2931176.jpg?tf=1200x' alt='El drone más rápido del mundo que alcanza una velocidad máxima de 414 km/h' />
     </a>
 </div>
 
