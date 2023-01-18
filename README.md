@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/hacienda-somos-todos-enviar-bizum-no-te-salvara-cumplir-1186484'>Hacienda somos todos y enviar un Bizum no te salvará de cumplir</a></h4>
+    <a href='https://computerhoy.com/life/hacienda-somos-todos-enviar-bizum-no-te-salvara-cumplir-1186484' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/bizum-2671393.jpg?tf=1200x' alt='Hacienda somos todos y enviar un Bizum no te salvará de cumplir' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apple/apple-renueva-altavoz-inteligente-nuevo-homepod-soporte-matter-mejor-sonido-1186508'>Apple renueva su altavoz inteligente: así es el nuevo HomePod con soporte para Matter y mejor sonido</a></h4>
     <a href='https://computerhoy.com/apple/apple-renueva-altavoz-inteligente-nuevo-homepod-soporte-matter-mejor-sonido-1186508' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/apple-renueva-altavoz-inteligente-nuevo-homepod-soporte-matter-mejor-sonido-2931740.jpg?tf=1200x' alt='Apple renueva su altavoz inteligente: así es el nuevo HomePod con soporte para Matter y mejor sonido' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/life/bateria-bagdad-misterio-2000-anos-nadie-sabe-resolver-1186412'>La “batería de Bagdad” un misterio con más de 2.000 años que nadie sabe resolver</a></h4>
     <a href='https://computerhoy.com/life/bateria-bagdad-misterio-2000-anos-nadie-sabe-resolver-1186412' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/arqueologia-2931552.jpg?tf=1200x' alt='La “batería de Bagdad” un misterio con más de 2.000 años que nadie sabe resolver' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/apps-idiomas-como-duolingo-son-efectivas-prevenir-alzheimer-medicamentos-1186422'>Las apps de idiomas como Duolingo son más efectivas para prevenir el Alzheimer que los medicamentos</a></h4>
-    <a href='https://computerhoy.com/ciencia/apps-idiomas-como-duolingo-son-efectivas-prevenir-alzheimer-medicamentos-1186422' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/apps-como-duolingo-aprender-idiomas-son-efectivas-prevenir-alzheimer-farmacos-2931542.jpg?tf=1200x' alt='Las apps de idiomas como Duolingo son más efectivas para prevenir el Alzheimer que los medicamentos' />
     </a>
 </div>
 
