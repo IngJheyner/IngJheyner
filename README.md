@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/apple-renueva-altavoz-inteligente-nuevo-homepod-soporte-matter-mejor-sonido-1186508'>Apple renueva su altavoz inteligente: así es el nuevo HomePod con soporte para Matter y mejor sonido</a></h4>
+    <a href='https://computerhoy.com/apple/apple-renueva-altavoz-inteligente-nuevo-homepod-soporte-matter-mejor-sonido-1186508' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/apple-renueva-altavoz-inteligente-nuevo-homepod-soporte-matter-mejor-sonido-2931740.jpg?tf=1200x' alt='Apple renueva su altavoz inteligente: así es el nuevo HomePod con soporte para Matter y mejor sonido' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciberseguridad/cuidado-aviso-seguridad-importante-utilizas-reproductor-vlc-1186428'>¡Cuidado! Aviso de seguridad importante si utilizas el reproductor VLC</a></h4>
     <a href='https://computerhoy.com/ciberseguridad/cuidado-aviso-seguridad-importante-utilizas-reproductor-vlc-1186428' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/cuidado-aviso-seguridad-importante-utilizas-reproductor-vlc-2931564.jpg?tf=1200x' alt='¡Cuidado! Aviso de seguridad importante si utilizas el reproductor VLC' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/ciencia/apps-idiomas-como-duolingo-son-efectivas-prevenir-alzheimer-medicamentos-1186422'>Las apps de idiomas como Duolingo son más efectivas para prevenir el Alzheimer que los medicamentos</a></h4>
     <a href='https://computerhoy.com/ciencia/apps-idiomas-como-duolingo-son-efectivas-prevenir-alzheimer-medicamentos-1186422' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/apps-como-duolingo-aprender-idiomas-son-efectivas-prevenir-alzheimer-farmacos-2931542.jpg?tf=1200x' alt='Las apps de idiomas como Duolingo son más efectivas para prevenir el Alzheimer que los medicamentos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/tesla-musk-mentiras-autopilot-video-2016-paraba-solo-semaforo-estaba-falseado-1186380'>Tesla, Musk y las mentiras sobre el Autopilot: el vídeo de 2016 en el que paraba solo en un semáforo estaba falseado</a></h4>
-    <a href='https://computerhoy.com/motor/tesla-musk-mentiras-autopilot-video-2016-paraba-solo-semaforo-estaba-falseado-1186380' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/prueba-autopilot-tesla-fallos-2540431.jpg?tf=1200x' alt='Tesla, Musk y las mentiras sobre el Autopilot: el vídeo de 2016 en el que paraba solo en un semáforo estaba falseado' />
     </a>
 </div>
 
