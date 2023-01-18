@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/motor/tesla-musk-mentiras-autopilot-video-2016-paraba-solo-semaforo-estaba-falseado-1186380'>Tesla, Musk y las mentiras sobre el Autopilot: el vídeo de 2016 en el que paraba solo en un semáforo estaba falseado</a></h4>
+    <a href='https://computerhoy.com/motor/tesla-musk-mentiras-autopilot-video-2016-paraba-solo-semaforo-estaba-falseado-1186380' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/prueba-autopilot-tesla-fallos-2540431.jpg?tf=1200x' alt='Tesla, Musk y las mentiras sobre el Autopilot: el vídeo de 2016 en el que paraba solo en un semáforo estaba falseado' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/adios-gafas-realidad-aumentada-apple-proyecto-fracasa-tendran-esperar-indefinidamente-1186388'>Adiós a las gafas de realidad aumentada de Apple: el proyecto fracasa y tendrán que esperar "indefinidamente"</a></h4>
+    <a href='https://computerhoy.com/apple/adios-gafas-realidad-aumentada-apple-proyecto-fracasa-tendran-esperar-indefinidamente-1186388' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/gafas-realidad-aumentada-apple-fracasan-tendran-esperar-indefinidamente-2931416.jpg?tf=1200x' alt='Adiós a las gafas de realidad aumentada de Apple: el proyecto fracasa y tendrán que esperar "indefinidamente"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/hay-rival-macbook-air-bastante-barato-portatil-samsung-pantalla-amoled-rebajas-1185410'>Hay rival para el MacBook Air, y bastante más barato: este portátil Samsung con pantalla AMOLED está de rebajas</a></h4>
+    <a href='https://computerhoy.com/tecnologia/hay-rival-macbook-air-bastante-barato-portatil-samsung-pantalla-amoled-rebajas-1185410' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/samsung-galaxy-book2-pro-analisis-opinion-2863757.jpg?tf=1200x' alt='Hay rival para el MacBook Air, y bastante más barato: este portátil Samsung con pantalla AMOLED está de rebajas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/moviles/ya-sabemos-especificaciones-samsung-galaxy-s23-galaxy-s23-1186356'>Ya sabemos las especificaciones del Samsung Galaxy S23 y Galaxy S23+</a></h4>
     <a href='https://computerhoy.com/moviles/ya-sabemos-especificaciones-samsung-galaxy-s23-galaxy-s23-1186356' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/galaxy-s23-2826877.jpg?tf=1200x' alt='Ya sabemos las especificaciones del Samsung Galaxy S23 y Galaxy S23+' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/life/ahorrarias-ano-hubieras-comprado-electrodomesticos-eficientes-1186266'>Esto es lo que ahorrarías al año si compras los electrodomésticos más eficientes </a></h4>
     <a href='https://computerhoy.com/life/ahorrarias-ano-hubieras-comprado-electrodomesticos-eficientes-1186266' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/cuanto-ahorrarias-ano-hubieras-comprado-electrodomesticos-eficientes-2931334.jpg?tf=1200x' alt='Esto es lo que ahorrarías al año si compras los electrodomésticos más eficientes ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/patrocinado/grandes-ofertas-pccomponentes-como-cuesta-resistirse-estos-precios-1185986'>Grandes ofertas de PcComponentes: ¡cómo cuesta resistirse a estos precios!</a></h4>
-    <a href='https://computerhoy.com/patrocinado/grandes-ofertas-pccomponentes-como-cuesta-resistirse-estos-precios-1185986' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/ofertas-enero-2930834.jpg?tf=1200x' alt='Grandes ofertas de PcComponentes: ¡cómo cuesta resistirse a estos precios!' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/5-mejores-pelis-ver-te-gusta-odias-chatgpt-1186282'>Las 5 mejores pelis para ver si te gusta u odias ChatGPT</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/5-mejores-pelis-ver-te-gusta-odias-chatgpt-1186282' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/pelicula-chatgpt-2931218.jpg?tf=1200x' alt='Las 5 mejores pelis para ver si te gusta u odias ChatGPT' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/tablets-potentes-samsung-tiene-100-euros-descuento-1185268'>Una de las tablets más potentes de Samsung tiene 100 euros de descuento</a></h4>
-    <a href='https://computerhoy.com/tecnologia/tablets-potentes-samsung-tiene-100-euros-descuento-1185268' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/samsung-galaxy-tab-s8-2771303.jpg?tf=1200x' alt='Una de las tablets más potentes de Samsung tiene 100 euros de descuento' />
     </a>
 </div>
 
