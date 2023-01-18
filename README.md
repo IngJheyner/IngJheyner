@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/son-ventiladores-holograficos-como-funcionan-video-1186232'>Qué son los ventiladores holográficos, y cómo funcionan (vídeo)</a></h4>
+    <a href='https://computerhoy.com/tecnologia/son-ventiladores-holograficos-como-funcionan-video-1186232' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/verticalimage1674016683701-2931140.jpg?tf=1200x' alt='Qué son los ventiladores holográficos, y cómo funcionan (vídeo)' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/carrefour-dias-iva-cheques-regalo-1185726'>Carrefour se apunta a los Días sin IVA con cheques regalo: estas son sus mejores ofertas</a></h4>
+    <a href='https://computerhoy.com/tecnologia/carrefour-dias-iva-cheques-regalo-1185726' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/carrefour-2468669.jpg?tf=1200x' alt='Carrefour se apunta a los Días sin IVA con cheques regalo: estas son sus mejores ofertas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/espacio/william-donald-borders-primer-obispo-luna-1186020'>William Donald Borders, el primer Obispo oficial de la Luna</a></h4>
     <a href='https://computerhoy.com/espacio/william-donald-borders-primer-obispo-luna-1186020' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/william-donald-borders-primer-obispo-oficial-luna-2930944.jpg?tf=1200x' alt='William Donald Borders, el primer Obispo oficial de la Luna' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/entretenimiento/the-last-us-segundo-mejor-estreno-hbo-max-1186006'>The Last of us es el segundo mejor estreno de HBO en la última década, pero muy lejos de La Casa del Dragón</a></h4>
     <a href='https://computerhoy.com/entretenimiento/the-last-us-segundo-mejor-estreno-hbo-max-1186006' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/verticalimage1673987743699-2930888.jpg?tf=1200x' alt='The Last of us es el segundo mejor estreno de HBO en la última década, pero muy lejos de La Casa del Dragón' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/ahora-ya-sabras-electrodomesticos-culpables-te-dispare-factura-luz-todos-meses-1185992'>Ahora ya sabrás los electrodomésticos culpables de que se te dispare la factura de la luz todos los meses</a></h4>
-    <a href='https://computerhoy.com/life/ahora-ya-sabras-electrodomesticos-culpables-te-dispare-factura-luz-todos-meses-1185992' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/electrodomesticos-2930880.jpg?tf=1200x' alt='Ahora ya sabrás los electrodomésticos culpables de que se te dispare la factura de la luz todos los meses' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/gaming/consola-ps5-cuatro-juegazos-entrega-rapida-en-stock-1185990'>Consola PS5 con cuatro juegazos, sin sobreprecio, con entrega para jugar el fin de semana... ¡a por ella!</a></h4>
-    <a href='https://computerhoy.com/gaming/consola-ps5-cuatro-juegazos-entrega-rapida-en-stock-1185990' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/ps5-2428191.jpg?tf=1200x' alt='Consola PS5 con cuatro juegazos, sin sobreprecio, con entrega para jugar el fin de semana... ¡a por ella!' />
     </a>
 </div>
 
