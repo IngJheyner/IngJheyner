@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/listas/tecnologia/5-moviles-tienen-carga-inalambrica-son-baratos-pensabas-480371'>5 móviles con carga inalámbrica que son mucho más baratos de lo que pensabas</a></h4>
+    <a href='https://computerhoy.com/listas/tecnologia/5-moviles-tienen-carga-inalambrica-son-baratos-pensabas-480371' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/nothing-phone-1-2757119.jpg?tf=1200x' alt='5 móviles con carga inalámbrica que son mucho más baratos de lo que pensabas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/24-noticias-tecnologia-comenzar-manana-informado-ultimo-1186246'>24 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
+    <a href='https://computerhoy.com/tecnologia/24-noticias-tecnologia-comenzar-manana-informado-ultimo-1186246' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/mac-mini-m2-apple-actualiza-mini-pc-nuevos-procesadores-m2-m2-pro-2930760.jpg?tf=1200x' alt='24 noticias de tecnología para comenzar la mañana informado de lo último' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/han-subido-suscripciones-servicios-streaming-pagas-1185904'>Lo que han subido las suscripciones a servicios de streaming y lo que pagas de más</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/han-subido-suscripciones-servicios-streaming-pagas-1185904' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/directivos-streaming-2516885.jpg?tf=1200x' alt='Lo que han subido las suscripciones a servicios de streaming y lo que pagas de más' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/son-ventiladores-holograficos-como-funcionan-video-1186232'>Qué son los ventiladores holográficos, y cómo funcionan (vídeo)</a></h4>
     <a href='https://computerhoy.com/tecnologia/son-ventiladores-holograficos-como-funcionan-video-1186232' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/verticalimage1674016683701-2931140.jpg?tf=1200x' alt='Qué son los ventiladores holográficos, y cómo funcionan (vídeo)' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/carrefour-dias-iva-cheques-regalo-1185726'>Carrefour se apunta a los Días sin IVA con cheques regalo: estas son sus mejores ofertas</a></h4>
     <a href='https://computerhoy.com/tecnologia/carrefour-dias-iva-cheques-regalo-1185726' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/carrefour-2468669.jpg?tf=1200x' alt='Carrefour se apunta a los Días sin IVA con cheques regalo: estas son sus mejores ofertas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/william-donald-borders-primer-obispo-luna-1186020'>William Donald Borders, el primer Obispo oficial de la Luna</a></h4>
-    <a href='https://computerhoy.com/espacio/william-donald-borders-primer-obispo-luna-1186020' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/william-donald-borders-primer-obispo-oficial-luna-2930944.jpg?tf=1200x' alt='William Donald Borders, el primer Obispo oficial de la Luna' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/google-desbloquea-gamepad-stadia-bluetooth-1186014'>Google desbloquea el mando de Stadia: así puedes añadirle Bluetooth</a></h4>
-    <a href='https://computerhoy.com/google/google-desbloquea-gamepad-stadia-bluetooth-1186014' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/google-stadia-2773765.jpg?tf=1200x' alt='Google desbloquea el mando de Stadia: así puedes añadirle Bluetooth' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/the-last-us-segundo-mejor-estreno-hbo-max-1186006'>The Last of us es el segundo mejor estreno de HBO en la última década, pero muy lejos de La Casa del Dragón</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/the-last-us-segundo-mejor-estreno-hbo-max-1186006' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/verticalimage1673987743699-2930888.jpg?tf=1200x' alt='The Last of us es el segundo mejor estreno de HBO en la última década, pero muy lejos de La Casa del Dragón' />
     </a>
 </div>
 
