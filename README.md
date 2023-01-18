@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/redes-sociales/twitter-carga-todas-apps-terceros-solo-uses-app-oficial-1186530'>Twitter se carga todas las apps de terceros, para que solo uses su app oficial</a></h4>
+    <a href='https://computerhoy.com/redes-sociales/twitter-carga-todas-apps-terceros-solo-uses-app-oficial-1186530' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/elon-musk-quiere-twitter-parezca-signal-incluira-cifrado-mds-2878451.jpg?tf=1200x' alt='Twitter se carga todas las apps de terceros, para que solo uses su app oficial' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/voz-estados-whatsapp-funcionara-extrana-caracteristica-1186528'>Tu voz en los estados de WhatsApp: así funcionará la extraña característica</a></h4>
+    <a href='https://computerhoy.com/apps/voz-estados-whatsapp-funcionara-extrana-caracteristica-1186528' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/notas-voz-whatsapp-2498663.jpg?tf=1200x' alt='Tu voz en los estados de WhatsApp: así funcionará la extraña característica' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-relojes-inteligentes-personas-mayores-puedes-comprar-1002391'>Mejores relojes inteligentes para personas mayores que puedes comprar</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-relojes-inteligentes-personas-mayores-puedes-comprar-1002391' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/persona-mayor-reloj-inteligente-apple-watch-2598625.jpg?tf=1200x' alt='Mejores relojes inteligentes para personas mayores que puedes comprar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tv/oficial-gobierno-vuelve-frenar-avance-tdt-espana-1186482'>Es oficial: el gobierno vuelve a frenar el avance de la TDT en España</a></h4>
+    <a href='https://computerhoy.com/tv/oficial-gobierno-vuelve-frenar-avance-tdt-espana-1186482' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/tdt-2856157.jpg?tf=1200x' alt='Es oficial: el gobierno vuelve a frenar el avance de la TDT en España' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/hacienda-somos-todos-enviar-bizum-no-te-salvara-cumplir-1186484'>Hacienda somos todos y enviar un Bizum no te salvará de cumplir</a></h4>
     <a href='https://computerhoy.com/life/hacienda-somos-todos-enviar-bizum-no-te-salvara-cumplir-1186484' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/bizum-2671393.jpg?tf=1200x' alt='Hacienda somos todos y enviar un Bizum no te salvará de cumplir' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/apple-renueva-altavoz-inteligente-nuevo-homepod-soporte-matter-mejor-sonido-1186508'>Apple renueva su altavoz inteligente: así es el nuevo HomePod con soporte para Matter y mejor sonido</a></h4>
-    <a href='https://computerhoy.com/apple/apple-renueva-altavoz-inteligente-nuevo-homepod-soporte-matter-mejor-sonido-1186508' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/apple-renueva-altavoz-inteligente-nuevo-homepod-soporte-matter-mejor-sonido-2931740.jpg?tf=1200x' alt='Apple renueva su altavoz inteligente: así es el nuevo HomePod con soporte para Matter y mejor sonido' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/cuidado-aviso-seguridad-importante-utilizas-reproductor-vlc-1186428'>¡Cuidado! Aviso de seguridad importante si utilizas el reproductor VLC</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/cuidado-aviso-seguridad-importante-utilizas-reproductor-vlc-1186428' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/cuidado-aviso-seguridad-importante-utilizas-reproductor-vlc-2931564.jpg?tf=1200x' alt='¡Cuidado! Aviso de seguridad importante si utilizas el reproductor VLC' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/proyecto-nasa-telescopio-forma-flor-busca-planetas-habitables-1186454'>El proyecto de la NASA que es un telescopio con forma de flor que busca planetas habitables</a></h4>
-    <a href='https://computerhoy.com/espacio/proyecto-nasa-telescopio-forma-flor-busca-planetas-habitables-1186454' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/proyecto-nasa-2931576.jpg?tf=1200x' alt='El proyecto de la NASA que es un telescopio con forma de flor que busca planetas habitables' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/bateria-bagdad-misterio-2000-anos-nadie-sabe-resolver-1186412'>La “batería de Bagdad” un misterio con más de 2.000 años que nadie sabe resolver</a></h4>
-    <a href='https://computerhoy.com/life/bateria-bagdad-misterio-2000-anos-nadie-sabe-resolver-1186412' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/arqueologia-2931552.jpg?tf=1200x' alt='La “batería de Bagdad” un misterio con más de 2.000 años que nadie sabe resolver' />
     </a>
 </div>
 
