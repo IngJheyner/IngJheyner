@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/tablets-potentes-samsung-tiene-100-euros-descuento-1185268'>Una de las tablets más potentes de Samsung tiene 100 euros de descuento</a></h4>
+    <a href='https://computerhoy.com/tecnologia/tablets-potentes-samsung-tiene-100-euros-descuento-1185268' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/samsung-galaxy-tab-s8-2771303.jpg?tf=1200x' alt='Una de las tablets más potentes de Samsung tiene 100 euros de descuento' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/patrocinado/te-imaginas-tener-procesador-amd-ryzen-7-ahora-puedes-gracias-rebaja-aplica-aliexpress-1185426'>¿Te imaginas tener un procesador AMD Ryzen 7? ahora puedes gracias a la rebaja que aplica AliExpress</a></h4>
+    <a href='https://computerhoy.com/patrocinado/te-imaginas-tener-procesador-amd-ryzen-7-ahora-puedes-gracias-rebaja-aplica-aliexpress-1185426' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/procesador-amd-ryzen-7-2320399.jpg?tf=1200x' alt='¿Te imaginas tener un procesador AMD Ryzen 7? ahora puedes gracias a la rebaja que aplica AliExpress' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/patrocinado/momento-comprar-tarjeta-microsd-calidad-aprovechando-oferton-aliexpress-1185390'>Es el momento de comprar una tarjeta microSD de calidad, aprovechando este ofertón de AliExpress</a></h4>
+    <a href='https://computerhoy.com/patrocinado/momento-comprar-tarjeta-microsd-calidad-aprovechando-oferton-aliexpress-1185390' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/microsd-2929844.jpg?tf=1200x' alt='Es el momento de comprar una tarjeta microSD de calidad, aprovechando este ofertón de AliExpress' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/motor/mejor-truco-evitar-vaho-coche-producto-especializado-espuma-afeitar-1186254'>El mejor truco para evitar el vaho en el coche: producto especializado o espuma de afeitar</a></h4>
+    <a href='https://computerhoy.com/motor/mejor-truco-evitar-vaho-coche-producto-especializado-espuma-afeitar-1186254' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/vaho-coche-2931194.jpg?tf=1200x' alt='El mejor truco para evitar el vaho en el coche: producto especializado o espuma de afeitar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/motor/drone-rapido-mundo-alcanza-velocidad-maxima-414-km-h-1186252'>El drone más rápido del mundo que alcanza una velocidad máxima de 414 km/h</a></h4>
     <a href='https://computerhoy.com/motor/drone-rapido-mundo-alcanza-velocidad-maxima-414-km-h-1186252' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/drone-rapido-mundo-414-km-h-2931176.jpg?tf=1200x' alt='El drone más rápido del mundo que alcanza una velocidad máxima de 414 km/h' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/como-cientificos-han-conseguido-guiar-relampagos-potente-laser-1185948'>Así es como los científicos han conseguido guiar los relámpagos con un potente láser </a></h4>
-    <a href='https://computerhoy.com/ciencia/como-cientificos-han-conseguido-guiar-relampagos-potente-laser-1185948' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/como-cientificos-guian-relampagos-laser-2930790.jpg?tf=1200x' alt='Así es como los científicos han conseguido guiar los relámpagos con un potente láser ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/listas/tecnologia/5-moviles-tienen-carga-inalambrica-son-baratos-pensabas-480371'>5 móviles con carga inalámbrica que son mucho más baratos de lo que pensabas</a></h4>
-    <a href='https://computerhoy.com/listas/tecnologia/5-moviles-tienen-carga-inalambrica-son-baratos-pensabas-480371' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/nothing-phone-1-2757119.jpg?tf=1200x' alt='5 móviles con carga inalámbrica que son mucho más baratos de lo que pensabas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/24-noticias-tecnologia-comenzar-manana-informado-ultimo-1186246'>24 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
-    <a href='https://computerhoy.com/tecnologia/24-noticias-tecnologia-comenzar-manana-informado-ultimo-1186246' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/mac-mini-m2-apple-actualiza-mini-pc-nuevos-procesadores-m2-m2-pro-2930760.jpg?tf=1200x' alt='24 noticias de tecnología para comenzar la mañana informado de lo último' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/han-subido-suscripciones-servicios-streaming-pagas-1185904'>Lo que han subido las suscripciones a servicios de streaming y lo que pagas de más</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/han-subido-suscripciones-servicios-streaming-pagas-1185904' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/directivos-streaming-2516885.jpg?tf=1200x' alt='Lo que han subido las suscripciones a servicios de streaming y lo que pagas de más' />
     </a>
 </div>
 
