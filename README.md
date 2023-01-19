@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-servicios-vpn-1117911'>Estas son las mejores VPN de 2023 para proteger tu privacidad en PC, Android, Mac y más</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-servicios-vpn-1117911' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/portatil-conectandose-servicio-vpn-2931484.jpg?tf=1200x' alt='Estas son las mejores VPN de 2023 para proteger tu privacidad en PC, Android, Mac y más' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/gaming/han-hackeado-ia-gane-juego-rocket-league-1187096'>Así han hackeado una IA para que gane en el juego Rocket League</a></h4>
+    <a href='https://computerhoy.com/gaming/han-hackeado-ia-gane-juego-rocket-league-1187096' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/07/rocket-league-2003811.jpg?tf=1200x' alt='Así han hackeado una IA para que gane en el juego Rocket League' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/espacio/hubble-nasa-registra-raro-evento-ocurre-muy-pocas-veces-cada-100000-anos-1187136'>Hubble de la NASA registra un raro evento que ocurre muy pocas veces cada 100.000 años</a></h4>
     <a href='https://computerhoy.com/espacio/hubble-nasa-registra-raro-evento-ocurre-muy-pocas-veces-cada-100000-anos-1187136' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/imagen-tomada-nasa-telescopio-espacial-hubble-2314243.jpg?tf=1200x' alt='Hubble de la NASA registra un raro evento que ocurre muy pocas veces cada 100.000 años' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/google/google-espacio-servidores-podria-quedarse-almacenamiento-disponible-1187120'>Google y su espacio en sus servidores, ¿podría quedarse sin almacenamiento disponible?</a></h4>
     <a href='https://computerhoy.com/google/google-espacio-servidores-podria-quedarse-almacenamiento-disponible-1187120' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/servidores-google-2932802.jpg?tf=1200x' alt='Google y su espacio en sus servidores, ¿podría quedarse sin almacenamiento disponible?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/mapa-series-dibujos-animados-mejor-valoradas-pais-imdb-1186976'>El mapa de las series de dibujos animados mejor valoradas por país en IMDb </a></h4>
-    <a href='https://computerhoy.com/internet/mapa-series-dibujos-animados-mejor-valoradas-pais-imdb-1186976' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/mapa-series-dibujos-animados-mejor-valoradas-pais-imdb-2932682.jpg?tf=1200x' alt='El mapa de las series de dibujos animados mejor valoradas por país en IMDb ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/redes-sociales/dinero-ha-ganado-elon-musk-subasta-twitter-1187054'>Este es el dinero que ha ganado Elon Musk con su subasta de Twitter</a></h4>
-    <a href='https://computerhoy.com/redes-sociales/dinero-ha-ganado-elon-musk-subasta-twitter-1187054' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/elon-musk-twitter-2854809.jpg?tf=1200x' alt='Este es el dinero que ha ganado Elon Musk con su subasta de Twitter' />
     </a>
 </div>
 
