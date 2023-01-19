@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/windows/no-restaures-windows-11-microsoft-alerta-bug-afecta-varias-aplicaciones-1187114'>No restaures Windows 11: Microsoft alerta de un bug que afecta a varias aplicaciones</a></h4>
+    <a href='https://computerhoy.com/windows/no-restaures-windows-11-microsoft-alerta-bug-afecta-varias-aplicaciones-1187114' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/windows-11-2915612.jpg?tf=1200x' alt='No restaures Windows 11: Microsoft alerta de un bug que afecta a varias aplicaciones' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/motor/guardia-civil-compra-coches-electricos-pero-no-tienen-donde-cargarlos-1187218'>La Guardia Civil compra coches eléctricos pero no tienen donde cargarlos</a></h4>
+    <a href='https://computerhoy.com/motor/guardia-civil-compra-coches-electricos-pero-no-tienen-donde-cargarlos-1187218' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/nissan-leaf-guardia-civil-2932986.jpg?tf=1200x' alt='La Guardia Civil compra coches eléctricos pero no tienen donde cargarlos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciencia/tecnologia-permite-ver-traves-paredes-aprovechando-senales-wifi-1187216'>Esta tecnología permite ver a través de las paredes aprovechando señales WiFi</a></h4>
     <a href='https://computerhoy.com/ciencia/tecnologia-permite-ver-traves-paredes-aprovechando-senales-wifi-1187216' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/camara-seguridad-2932984.jpg?tf=1200x' alt='Esta tecnología permite ver a través de las paredes aprovechando señales WiFi' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/descargar-torrent-2023-mejores-programas-paginas-descargas-gratis-1184828'>Descargar por Torrent en 2023: mejores programas y páginas de descargas gratis</a></h4>
     <a href='https://computerhoy.com/tecnologia/descargar-torrent-2023-mejores-programas-paginas-descargas-gratis-1184828' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/torrent-2928648.jpg?tf=1200x' alt='Descargar por Torrent en 2023: mejores programas y páginas de descargas gratis' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-servicios-vpn-1117911'>Estas son las mejores VPN de 2023 para proteger tu privacidad en PC, Android, Mac y más</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-servicios-vpn-1117911' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/portatil-conectandose-servicio-vpn-2931484.jpg?tf=1200x' alt='Estas son las mejores VPN de 2023 para proteger tu privacidad en PC, Android, Mac y más' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/gaming/han-hackeado-ia-gane-juego-rocket-league-1187096'>Así han hackeado una IA para que gane en el juego Rocket League</a></h4>
-    <a href='https://computerhoy.com/gaming/han-hackeado-ia-gane-juego-rocket-league-1187096' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/07/rocket-league-2003811.jpg?tf=1200x' alt='Así han hackeado una IA para que gane en el juego Rocket League' />
     </a>
 </div>
 
