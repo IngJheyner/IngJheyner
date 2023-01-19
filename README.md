@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/patrocinado/gaming-auriculares-microfono-tan-espectaculares-como-baratos-1186596'>Para los más gaming unos auriculares con micrófono tan espectaculares como baratos</a></h4>
+    <a href='https://computerhoy.com/patrocinado/gaming-auriculares-microfono-tan-espectaculares-como-baratos-1186596' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/eks-e1000-2931892.jpg?tf=1200x' alt='Para los más gaming unos auriculares con micrófono tan espectaculares como baratos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/patrocinado/gran-oferta-aliexpres-auriculares-bluetooth-true-wireless-mucho-menos-precio-normal-1186606'>¡Gran oferta de AliExpres! auriculares Bluetooth True Wireless por mucho menos de su precio normal</a></h4>
+    <a href='https://computerhoy.com/patrocinado/gran-oferta-aliexpres-auriculares-bluetooth-true-wireless-mucho-menos-precio-normal-1186606' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/edufuer-neobuds-pro-2931920.jpg?tf=1200x' alt='¡Gran oferta de AliExpres! auriculares Bluetooth True Wireless por mucho menos de su precio normal' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/industria/china-lanza-propio-servicio-nacional-coches-compartidos-controlar-seguridad-datos-1186914'>China lanza su propio servicio nacional de coches compartidos para controlar la seguridad de los datos </a></h4>
     <a href='https://computerhoy.com/industria/china-lanza-propio-servicio-nacional-coches-compartidos-controlar-seguridad-datos-1186914' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/potencial-uber-vtcs-vs-taxi-china-lanza-servicio-nacional-coches-compartidos-2932354.jpg?tf=1200x' alt='China lanza su propio servicio nacional de coches compartidos para controlar la seguridad de los datos ' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/motor/xiaomi-mi-electric-scooter-4-pro-100-euros-descuento-1186328'>Más potencia y batería, menos precio: el nuevo patinete Pro de Xiaomi es ya 100 euros más barato</a></h4>
     <a href='https://computerhoy.com/motor/xiaomi-mi-electric-scooter-4-pro-100-euros-descuento-1186328' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/xiaomi-mi-electric-scooter-4-pro-2931260.jpg?tf=1200x' alt='Más potencia y batería, menos precio: el nuevo patinete Pro de Xiaomi es ya 100 euros más barato' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/amazon/funciona-timo-ssds-amazon-1186876'>Así funciona el timo de los SSDs en Amazon</a></h4>
-    <a href='https://computerhoy.com/amazon/funciona-timo-ssds-amazon-1186876' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/persona-utilizando-portatil-unidad-ssd-conectada-diferentes-tarjetas-sd-2926926.jpg?tf=1200x' alt='Así funciona el timo de los SSDs en Amazon' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/ya-quiosco-numero-634-computer-hoy-1182954'>¡Ya está en tu quiosco el número 634 de Computer Hoy!</a></h4>
-    <a href='https://computerhoy.com/tecnologia/ya-quiosco-numero-634-computer-hoy-1182954' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/computer-hoy-634-2927486.jpg?tf=1200x' alt='¡Ya está en tu quiosco el número 634 de Computer Hoy!' />
     </a>
 </div>
 
