@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/espacio/cuanto-cobra-astronauta-trabajar-nasa-spacex-elon-musk-1187014'>Cuánto cobra un astronauta por trabajar en la NASA o SpaceX de Elon Musk</a></h4>
+    <a href='https://computerhoy.com/espacio/cuanto-cobra-astronauta-trabajar-nasa-spacex-elon-musk-1187014' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/08/astronautas-nasa-mision-spacex-2023287.jpg?tf=1200x' alt='Cuánto cobra un astronauta por trabajar en la NASA o SpaceX de Elon Musk' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/mejores-relojes-running-comprar-793903'>Estos son los mejores relojes de running que puedes comprar en 2023</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/mejores-relojes-running-comprar-793903' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/01/running-2204069.jpg?tf=1200x' alt='Estos son los mejores relojes de running que puedes comprar en 2023' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/life/como-puedes-desintoxicarte-mundo-digital-encontrar-equilibrio-tecnologia-1186948'>Así es como puedes desintoxicarte del mundo digital y encontrar un equilibrio con la tecnología</a></h4>
     <a href='https://computerhoy.com/life/como-puedes-desintoxicarte-mundo-digital-encontrar-equilibrio-tecnologia-1186948' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/como-puedes-desintoxicarte-mundo-digital-encontrar-equilibrio-tecnologia-2932416.jpg?tf=1200x' alt='Así es como puedes desintoxicarte del mundo digital y encontrar un equilibrio con la tecnología' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/patrocinado/gaming-auriculares-microfono-tan-espectaculares-como-baratos-1186596'>Para los más gaming unos auriculares con micrófono tan espectaculares como baratos</a></h4>
-    <a href='https://computerhoy.com/patrocinado/gaming-auriculares-microfono-tan-espectaculares-como-baratos-1186596' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/eks-e1000-2931892.jpg?tf=1200x' alt='Para los más gaming unos auriculares con micrófono tan espectaculares como baratos' />
     </a>
 </div>
 
