@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/tecnologia-permite-ver-traves-paredes-aprovechando-senales-wifi-1187216'>Esta tecnología permite ver a través de las paredes aprovechando señales WiFi</a></h4>
+    <a href='https://computerhoy.com/ciencia/tecnologia-permite-ver-traves-paredes-aprovechando-senales-wifi-1187216' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/camara-seguridad-2932984.jpg?tf=1200x' alt='Esta tecnología permite ver a través de las paredes aprovechando señales WiFi' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/gaming/acabaron-loot-boxes-parlamento-europeo-pone-freno-mecanica-adictiva-1187112'>Se acabaron las loot boxes: el Parlamento Europeo pone freno a esta mecánica adictiva</a></h4>
     <a href='https://computerhoy.com/gaming/acabaron-loot-boxes-parlamento-europeo-pone-freno-mecanica-adictiva-1187112' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/nuevo-estudio-confirma-gamers-ya-intuyen-videojuegos-aumentan-coeficiente-intelectual-ninos-25-puntos-2705547.jpg?tf=1200x' alt='Se acabaron las loot boxes: el Parlamento Europeo pone freno a esta mecánica adictiva' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/gaming/han-hackeado-ia-gane-juego-rocket-league-1187096'>Así han hackeado una IA para que gane en el juego Rocket League</a></h4>
     <a href='https://computerhoy.com/gaming/han-hackeado-ia-gane-juego-rocket-league-1187096' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/07/rocket-league-2003811.jpg?tf=1200x' alt='Así han hackeado una IA para que gane en el juego Rocket League' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/hubble-nasa-registra-raro-evento-ocurre-muy-pocas-veces-cada-100000-anos-1187136'>Hubble de la NASA registra un raro evento que ocurre muy pocas veces cada 100.000 años</a></h4>
-    <a href='https://computerhoy.com/espacio/hubble-nasa-registra-raro-evento-ocurre-muy-pocas-veces-cada-100000-anos-1187136' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/imagen-tomada-nasa-telescopio-espacial-hubble-2314243.jpg?tf=1200x' alt='Hubble de la NASA registra un raro evento que ocurre muy pocas veces cada 100.000 años' />
     </a>
 </div>
 
