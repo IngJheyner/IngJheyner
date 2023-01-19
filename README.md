@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/windows/microsoft-deja-vender-licencias-windows-10-1186854'>Microsoft deja de vender licencias de Windows 10</a></h4>
+    <a href='https://computerhoy.com/windows/microsoft-deja-vender-licencias-windows-10-1186854' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/microsoft-deja-vender-licencias-windows-10-2932204.jpg?tf=1200x' alt='Microsoft deja de vender licencias de Windows 10' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/fallece-118-anos-edad-lucile-randon-persona-mas-anciana-mundo-1186640'>Fallece a los 118 años de edad Lucile Randon, la persona más anciana del mundo</a></h4>
     <a href='https://computerhoy.com/life/fallece-118-anos-edad-lucile-randon-persona-mas-anciana-mundo-1186640' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/fallece-118-anos-edad-lucile-randon-persona-anciana-mundo-2931990.jpg?tf=1200x' alt='Fallece a los 118 años de edad Lucile Randon, la persona más anciana del mundo' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/motor/descubren-nuevo-coche-electrico-xiaomi-prueba-extrema-climatica-nieve-1186610'>Descubren el nuevo coche eléctrico de Xiaomi en una prueba extrema climática bajo nieve</a></h4>
     <a href='https://computerhoy.com/motor/descubren-nuevo-coche-electrico-xiaomi-prueba-extrema-climatica-nieve-1186610' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/cazan-esperado-coche-electrico-xiaomi-test-secreto-2931938.jpg?tf=1200x' alt='Descubren el nuevo coche eléctrico de Xiaomi en una prueba extrema climática bajo nieve' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/streaming/union-europea-cada-vez-dura-retransmisiones-ilegales-iptv-1186608'>La Unión Europea cada vez más dura contra las retransmisiones ilegales IPTV</a></h4>
-    <a href='https://computerhoy.com/streaming/union-europea-cada-vez-dura-retransmisiones-ilegales-iptv-1186608' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/iptv-2852443.jpg?tf=1200x' alt='La Unión Europea cada vez más dura contra las retransmisiones ilegales IPTV' />
     </a>
 </div>
 
