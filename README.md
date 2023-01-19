@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/lenguajes-programacion-proyeccion-quieres-aprender-programar-2023-1186942'>Los lenguajes de programación con más proyección si quieres aprender a programar en 2023</a></h4>
+    <a href='https://computerhoy.com/tecnologia/lenguajes-programacion-proyeccion-quieres-aprender-programar-2023-1186942' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/programador-protatil-2793695.jpg?tf=1200x' alt='Los lenguajes de programación con más proyección si quieres aprender a programar en 2023' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/como-puedes-desintoxicarte-mundo-digital-encontrar-equilibrio-tecnologia-1186948'>Así es como puedes desintoxicarte del mundo digital y encontrar un equilibrio con la tecnología</a></h4>
+    <a href='https://computerhoy.com/life/como-puedes-desintoxicarte-mundo-digital-encontrar-equilibrio-tecnologia-1186948' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/como-puedes-desintoxicarte-mundo-digital-encontrar-equilibrio-tecnologia-2932416.jpg?tf=1200x' alt='Así es como puedes desintoxicarte del mundo digital y encontrar un equilibrio con la tecnología' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/patrocinado/gaming-auriculares-microfono-tan-espectaculares-como-baratos-1186596'>Para los más gaming unos auriculares con micrófono tan espectaculares como baratos</a></h4>
     <a href='https://computerhoy.com/patrocinado/gaming-auriculares-microfono-tan-espectaculares-como-baratos-1186596' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/eks-e1000-2931892.jpg?tf=1200x' alt='Para los más gaming unos auriculares con micrófono tan espectaculares como baratos' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/industria/china-lanza-propio-servicio-nacional-coches-compartidos-controlar-seguridad-datos-1186914'>China lanza su propio servicio nacional de coches compartidos para controlar la seguridad de los datos </a></h4>
     <a href='https://computerhoy.com/industria/china-lanza-propio-servicio-nacional-coches-compartidos-controlar-seguridad-datos-1186914' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/potencial-uber-vtcs-vs-taxi-china-lanza-servicio-nacional-coches-compartidos-2932354.jpg?tf=1200x' alt='China lanza su propio servicio nacional de coches compartidos para controlar la seguridad de los datos ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/sera-familia-galaxy-s23-ya-conocen-precios-1186900'>Así será la familia Galaxy S23, ya se conocen hasta los precios</a></h4>
-    <a href='https://computerhoy.com/moviles/sera-familia-galaxy-s23-ya-conocen-precios-1186900' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/samsung-galaxy-s23-2932370.jpg?tf=1200x' alt='Así será la familia Galaxy S23, ya se conocen hasta los precios' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/xiaomi-mi-electric-scooter-4-pro-100-euros-descuento-1186328'>Más potencia y batería, menos precio: el nuevo patinete Pro de Xiaomi es ya 100 euros más barato</a></h4>
-    <a href='https://computerhoy.com/motor/xiaomi-mi-electric-scooter-4-pro-100-euros-descuento-1186328' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/xiaomi-mi-electric-scooter-4-pro-2931260.jpg?tf=1200x' alt='Más potencia y batería, menos precio: el nuevo patinete Pro de Xiaomi es ya 100 euros más barato' />
     </a>
 </div>
 
