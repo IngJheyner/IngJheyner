@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/pc/6-maneras-evitar-portatil-te-corriente-1186458'>Las 6 maneras de evitar que tu portátil te de corriente</a></h4>
+    <a href='https://computerhoy.com/pc/6-maneras-evitar-portatil-te-corriente-1186458' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/intel-evo-elegir-portatil-black-friday-portada-2874943.jpg?tf=1200x' alt='Las 6 maneras de evitar que tu portátil te de corriente' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/mejores/alternativas-robot-cocina-lidl-monsieur-cuisine-smart-1186320'>Por qué la Thermomix de Lidl ya no arrasa: las alternativas baratas le han comido la tostada</a></h4>
+    <a href='https://computerhoy.com/mejores/alternativas-robot-cocina-lidl-monsieur-cuisine-smart-1186320' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/robot-cocina-pantalla-tacitl-2931390.jpg?tf=1200x' alt='Por qué la Thermomix de Lidl ya no arrasa: las alternativas baratas le han comido la tostada' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/gente-va-desilusionarse-gpt-4-futuro-chatgpt-explica-ceo-openai-1186574'>La gente va desilusionarse con GPT-4 y el futuro ChatGPT según explica el CEO de OpenAI</a></h4>
+    <a href='https://computerhoy.com/tecnologia/gente-va-desilusionarse-gpt-4-futuro-chatgpt-explica-ceo-openai-1186574' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/gente-va-desilusionarse-gpt-4-futuro-chatgpt-explica-ceo-openai-2931878.jpg?tf=1200x' alt='La gente va desilusionarse con GPT-4 y el futuro ChatGPT según explica el CEO de OpenAI' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/26-noticias-tecnologia-comenzar-manana-informado-ultimo-1186866'>26 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
+    <a href='https://computerhoy.com/tecnologia/26-noticias-tecnologia-comenzar-manana-informado-ultimo-1186866' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/26-noticias-tecnologia-comenzar-manana-informado-ultimo-2932214.jpg?tf=1200x' alt='26 noticias de tecnología para comenzar la mañana informado de lo último' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-auriculares-inalambricos-baratos-menos-20-euros-950501'>5 auriculares inalámbricos de menos de 20€ que son perfectos si quieres unos baratos</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/mejores-auriculares-inalambricos-baratos-menos-20-euros-950501' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/hombre-auriculares-inalambricos-tws-oreja-2505851.jpg?tf=1200x' alt='5 auriculares inalámbricos de menos de 20€ que son perfectos si quieres unos baratos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/robot-atlas-boston-dynamics-ya-tiene-manos-video-1186856'>El robot Atlas de Boston Dynamics ya tiene manos, y te sorprenderá lo que puede hacer con ellas (vídeo)</a></h4>
-    <a href='https://computerhoy.com/tecnologia/robot-atlas-boston-dynamics-ya-tiene-manos-video-1186856' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/verticalimage1674094112363-2932208.jpg?tf=1200x' alt='El robot Atlas de Boston Dynamics ya tiene manos, y te sorprenderá lo que puede hacer con ellas (vídeo)' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/microsoft-deja-vender-licencias-windows-10-1186854'>Microsoft deja de vender licencias de Windows 10</a></h4>
-    <a href='https://computerhoy.com/windows/microsoft-deja-vender-licencias-windows-10-1186854' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/microsoft-deja-vender-licencias-windows-10-2932204.jpg?tf=1200x' alt='Microsoft deja de vender licencias de Windows 10' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/fallece-118-anos-edad-lucile-randon-persona-mas-anciana-mundo-1186640'>Fallece a los 118 años de edad Lucile Randon, la persona más anciana del mundo</a></h4>
-    <a href='https://computerhoy.com/life/fallece-118-anos-edad-lucile-randon-persona-mas-anciana-mundo-1186640' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/fallece-118-anos-edad-lucile-randon-persona-anciana-mundo-2931990.jpg?tf=1200x' alt='Fallece a los 118 años de edad Lucile Randon, la persona más anciana del mundo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/industria/microsoft-despide-10000-trabajadores-amazon-18000-mismo-dia-1186636'>Microsoft despide a 10.000 trabajadores y Amazon a 18.000 en el mismo día</a></h4>
-    <a href='https://computerhoy.com/industria/microsoft-despide-10000-trabajadores-amazon-18000-mismo-dia-1186636' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/microsoft-despide-10000-trabajadores-amazon-18000-mismo-dia-2931970.jpg?tf=1200x' alt='Microsoft despide a 10.000 trabajadores y Amazon a 18.000 en el mismo día' />
     </a>
 </div>
 
