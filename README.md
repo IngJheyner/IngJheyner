@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/industria/china-lanza-propio-servicio-nacional-coches-compartidos-controlar-seguridad-datos-1186914'>China lanza su propio servicio nacional de coches compartidos para controlar la seguridad de los datos </a></h4>
+    <a href='https://computerhoy.com/industria/china-lanza-propio-servicio-nacional-coches-compartidos-controlar-seguridad-datos-1186914' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/potencial-uber-vtcs-vs-taxi-china-lanza-servicio-nacional-coches-compartidos-2932354.jpg?tf=1200x' alt='China lanza su propio servicio nacional de coches compartidos para controlar la seguridad de los datos ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/moviles/sera-familia-galaxy-s23-ya-conocen-precios-1186900'>Así será la familia Galaxy S23, ya se conocen hasta los precios</a></h4>
+    <a href='https://computerhoy.com/moviles/sera-familia-galaxy-s23-ya-conocen-precios-1186900' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/samsung-galaxy-s23-2932370.jpg?tf=1200x' alt='Así será la familia Galaxy S23, ya se conocen hasta los precios' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/motor/xiaomi-mi-electric-scooter-4-pro-100-euros-descuento-1186328'>Más potencia y batería, menos precio: el nuevo patinete Pro de Xiaomi es ya 100 euros más barato</a></h4>
+    <a href='https://computerhoy.com/motor/xiaomi-mi-electric-scooter-4-pro-100-euros-descuento-1186328' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/xiaomi-mi-electric-scooter-4-pro-2931260.jpg?tf=1200x' alt='Más potencia y batería, menos precio: el nuevo patinete Pro de Xiaomi es ya 100 euros más barato' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/amazon/funciona-timo-ssds-amazon-1186876'>Así funciona el timo de los SSDs en Amazon</a></h4>
     <a href='https://computerhoy.com/amazon/funciona-timo-ssds-amazon-1186876' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/persona-utilizando-portatil-unidad-ssd-conectada-diferentes-tarjetas-sd-2926926.jpg?tf=1200x' alt='Así funciona el timo de los SSDs en Amazon' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/ya-quiosco-numero-634-computer-hoy-1182954'>¡Ya está en tu quiosco el número 634 de Computer Hoy!</a></h4>
     <a href='https://computerhoy.com/tecnologia/ya-quiosco-numero-634-computer-hoy-1182954' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/computer-hoy-634-2927486.jpg?tf=1200x' alt='¡Ya está en tu quiosco el número 634 de Computer Hoy!' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/nuevo-ios-163-finalmente-corregira-problema-lineas-horizontales-pantalla-iphone-14-pro-max-1186878'>El nuevo iOS 16.3 finalmente corregirá el problema de las líneas horizontales en pantalla de los iPhone 14 Pro Max </a></h4>
-    <a href='https://computerhoy.com/apple/nuevo-ios-163-finalmente-corregira-problema-lineas-horizontales-pantalla-iphone-14-pro-max-1186878' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/actualizacion-ios-163-corregira-problema-lineas-horizontales-pantalla-iphone-14-pro-max-2932232.jpg?tf=1200x' alt='El nuevo iOS 16.3 finalmente corregirá el problema de las líneas horizontales en pantalla de los iPhone 14 Pro Max ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/6-maneras-evitar-portatil-te-corriente-1186458'>Las 6 maneras de evitar que tu portátil te de corriente</a></h4>
-    <a href='https://computerhoy.com/pc/6-maneras-evitar-portatil-te-corriente-1186458' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/intel-evo-elegir-portatil-black-friday-portada-2874943.jpg?tf=1200x' alt='Las 6 maneras de evitar que tu portátil te de corriente' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/mejores/alternativas-robot-cocina-lidl-monsieur-cuisine-smart-1186320'>Por qué la Thermomix de Lidl ya no arrasa: las alternativas baratas le han comido la tostada</a></h4>
-    <a href='https://computerhoy.com/mejores/alternativas-robot-cocina-lidl-monsieur-cuisine-smart-1186320' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/robot-cocina-pantalla-tacitl-2931390.jpg?tf=1200x' alt='Por qué la Thermomix de Lidl ya no arrasa: las alternativas baratas le han comido la tostada' />
     </a>
 </div>
 
