@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/internet/mapa-series-dibujos-animados-mejor-valoradas-pais-imdb-1186976'>El mapa de las series de dibujos animados mejor valoradas por país en IMDb </a></h4>
+    <a href='https://computerhoy.com/internet/mapa-series-dibujos-animados-mejor-valoradas-pais-imdb-1186976' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/mapa-series-dibujos-animados-mejor-valoradas-pais-imdb-2932682.jpg?tf=1200x' alt='El mapa de las series de dibujos animados mejor valoradas por país en IMDb ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/redes-sociales/dinero-ha-ganado-elon-musk-subasta-twitter-1187054'>Este es el dinero que ha ganado Elon Musk con su subasta de Twitter</a></h4>
+    <a href='https://computerhoy.com/redes-sociales/dinero-ha-ganado-elon-musk-subasta-twitter-1187054' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/elon-musk-twitter-2854809.jpg?tf=1200x' alt='Este es el dinero que ha ganado Elon Musk con su subasta de Twitter' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/espacio/cuanto-cobra-astronauta-trabajar-nasa-spacex-elon-musk-1187014'>Cuánto cobra un astronauta por trabajar en la NASA o SpaceX de Elon Musk</a></h4>
     <a href='https://computerhoy.com/espacio/cuanto-cobra-astronauta-trabajar-nasa-spacex-elon-musk-1187014' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/08/astronautas-nasa-mision-spacex-2023287.jpg?tf=1200x' alt='Cuánto cobra un astronauta por trabajar en la NASA o SpaceX de Elon Musk' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/apple/ya-puedes-tener-dynamic-island-cualquier-modelo-iphone-1186986'>Ya puedes tener la Dynamic Island en cualquier modelo de iPhone</a></h4>
     <a href='https://computerhoy.com/apple/ya-puedes-tener-dynamic-island-cualquier-modelo-iphone-1186986' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/trucos-dynamic-island-2873363.jpg?tf=1200x' alt='Ya puedes tener la Dynamic Island en cualquier modelo de iPhone' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/lenguajes-programacion-proyeccion-quieres-aprender-programar-2023-1186942'>Los lenguajes de programación con más proyección si quieres aprender a programar en 2023</a></h4>
-    <a href='https://computerhoy.com/tecnologia/lenguajes-programacion-proyeccion-quieres-aprender-programar-2023-1186942' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/programador-protatil-2793695.jpg?tf=1200x' alt='Los lenguajes de programación con más proyección si quieres aprender a programar en 2023' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/como-puedes-desintoxicarte-mundo-digital-encontrar-equilibrio-tecnologia-1186948'>Así es como puedes desintoxicarte del mundo digital y encontrar un equilibrio con la tecnología</a></h4>
-    <a href='https://computerhoy.com/life/como-puedes-desintoxicarte-mundo-digital-encontrar-equilibrio-tecnologia-1186948' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/como-puedes-desintoxicarte-mundo-digital-encontrar-equilibrio-tecnologia-2932416.jpg?tf=1200x' alt='Así es como puedes desintoxicarte del mundo digital y encontrar un equilibrio con la tecnología' />
     </a>
 </div>
 
