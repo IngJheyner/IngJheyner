@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/fallece-118-anos-edad-lucile-randon-persona-mas-anciana-mundo-1186640'>Fallece a los 118 años de edad Lucile Randon, la persona más anciana del mundo</a></h4>
+    <a href='https://computerhoy.com/life/fallece-118-anos-edad-lucile-randon-persona-mas-anciana-mundo-1186640' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/fallece-118-anos-edad-lucile-randon-persona-anciana-mundo-2931990.jpg?tf=1200x' alt='Fallece a los 118 años de edad Lucile Randon, la persona más anciana del mundo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/industria/microsoft-despide-10000-trabajadores-amazon-18000-mismo-dia-1186636'>Microsoft despide a 10.000 trabajadores y Amazon a 18.000 en el mismo día</a></h4>
     <a href='https://computerhoy.com/industria/microsoft-despide-10000-trabajadores-amazon-18000-mismo-dia-1186636' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/microsoft-despide-10000-trabajadores-amazon-18000-mismo-dia-2931970.jpg?tf=1200x' alt='Microsoft despide a 10.000 trabajadores y Amazon a 18.000 en el mismo día' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/streaming/union-europea-cada-vez-dura-retransmisiones-ilegales-iptv-1186608'>La Unión Europea cada vez más dura contra las retransmisiones ilegales IPTV</a></h4>
     <a href='https://computerhoy.com/streaming/union-europea-cada-vez-dura-retransmisiones-ilegales-iptv-1186608' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/iptv-2852443.jpg?tf=1200x' alt='La Unión Europea cada vez más dura contra las retransmisiones ilegales IPTV' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/robot-capaz-oler-mejor-nariz-gracias-inteligencia-artificial-1186598'>Este robot es capaz de oler mejor que tu nariz gracias a la Inteligencia Artificial</a></h4>
-    <a href='https://computerhoy.com/ciencia/robot-capaz-oler-mejor-nariz-gracias-inteligencia-artificial-1186598' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/robot-capaz-oler-mejor-nariz-gracias-inteligencia-artificial-2931926.jpg?tf=1200x' alt='Este robot es capaz de oler mejor que tu nariz gracias a la Inteligencia Artificial' />
     </a>
 </div>
 
