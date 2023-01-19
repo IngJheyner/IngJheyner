@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/espacio/hubble-nasa-registra-raro-evento-ocurre-muy-pocas-veces-cada-100000-anos-1187136'>Hubble de la NASA registra un raro evento que ocurre muy pocas veces cada 100.000 años</a></h4>
+    <a href='https://computerhoy.com/espacio/hubble-nasa-registra-raro-evento-ocurre-muy-pocas-veces-cada-100000-anos-1187136' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/imagen-tomada-nasa-telescopio-espacial-hubble-2314243.jpg?tf=1200x' alt='Hubble de la NASA registra un raro evento que ocurre muy pocas veces cada 100.000 años' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/streaming/prime-video-dazn-firman-acuerdo-global-distribucion-1187130'>Prime Video y DAZN firman un acuerdo global de distribución</a></h4>
     <a href='https://computerhoy.com/streaming/prime-video-dazn-firman-acuerdo-global-distribucion-1187130' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/prime-video-dazn-firman-acuerdo-global-distribucion-2932806.jpg?tf=1200x' alt='Prime Video y DAZN firman un acuerdo global de distribución' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/redes-sociales/dinero-ha-ganado-elon-musk-subasta-twitter-1187054'>Este es el dinero que ha ganado Elon Musk con su subasta de Twitter</a></h4>
     <a href='https://computerhoy.com/redes-sociales/dinero-ha-ganado-elon-musk-subasta-twitter-1187054' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/elon-musk-twitter-2854809.jpg?tf=1200x' alt='Este es el dinero que ha ganado Elon Musk con su subasta de Twitter' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/cuanto-cobra-astronauta-trabajar-nasa-spacex-elon-musk-1187014'>Cuánto cobra un astronauta por trabajar en la NASA o SpaceX de Elon Musk</a></h4>
-    <a href='https://computerhoy.com/espacio/cuanto-cobra-astronauta-trabajar-nasa-spacex-elon-musk-1187014' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/08/astronautas-nasa-mision-spacex-2023287.jpg?tf=1200x' alt='Cuánto cobra un astronauta por trabajar en la NASA o SpaceX de Elon Musk' />
     </a>
 </div>
 
