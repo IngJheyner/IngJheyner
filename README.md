@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/gaming/acabaron-loot-boxes-parlamento-europeo-pone-freno-mecanica-adictiva-1187112'>Se acabaron las loot boxes: el Parlamento Europeo pone freno a esta mecánica adictiva</a></h4>
+    <a href='https://computerhoy.com/gaming/acabaron-loot-boxes-parlamento-europeo-pone-freno-mecanica-adictiva-1187112' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/nuevo-estudio-confirma-gamers-ya-intuyen-videojuegos-aumentan-coeficiente-intelectual-ninos-25-puntos-2705547.jpg?tf=1200x' alt='Se acabaron las loot boxes: el Parlamento Europeo pone freno a esta mecánica adictiva' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/descargar-torrent-2023-mejores-programas-paginas-descargas-gratis-1184828'>Descargar por Torrent en 2023: mejores programas y páginas de descargas gratis</a></h4>
+    <a href='https://computerhoy.com/tecnologia/descargar-torrent-2023-mejores-programas-paginas-descargas-gratis-1184828' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/torrent-2928648.jpg?tf=1200x' alt='Descargar por Torrent en 2023: mejores programas y páginas de descargas gratis' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-servicios-vpn-1117911'>Estas son las mejores VPN de 2023 para proteger tu privacidad en PC, Android, Mac y más</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/mejores-servicios-vpn-1117911' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/portatil-conectandose-servicio-vpn-2931484.jpg?tf=1200x' alt='Estas son las mejores VPN de 2023 para proteger tu privacidad en PC, Android, Mac y más' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/espacio/hubble-nasa-registra-raro-evento-ocurre-muy-pocas-veces-cada-100000-anos-1187136'>Hubble de la NASA registra un raro evento que ocurre muy pocas veces cada 100.000 años</a></h4>
     <a href='https://computerhoy.com/espacio/hubble-nasa-registra-raro-evento-ocurre-muy-pocas-veces-cada-100000-anos-1187136' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/imagen-tomada-nasa-telescopio-espacial-hubble-2314243.jpg?tf=1200x' alt='Hubble de la NASA registra un raro evento que ocurre muy pocas veces cada 100.000 años' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/streaming/prime-video-dazn-firman-acuerdo-global-distribucion-1187130'>Prime Video y DAZN firman un acuerdo global de distribución</a></h4>
-    <a href='https://computerhoy.com/streaming/prime-video-dazn-firman-acuerdo-global-distribucion-1187130' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/prime-video-dazn-firman-acuerdo-global-distribucion-2932806.jpg?tf=1200x' alt='Prime Video y DAZN firman un acuerdo global de distribución' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/google-espacio-servidores-podria-quedarse-almacenamiento-disponible-1187120'>Google y su espacio en sus servidores, ¿podría quedarse sin almacenamiento disponible?</a></h4>
-    <a href='https://computerhoy.com/google/google-espacio-servidores-podria-quedarse-almacenamiento-disponible-1187120' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/servidores-google-2932802.jpg?tf=1200x' alt='Google y su espacio en sus servidores, ¿podría quedarse sin almacenamiento disponible?' />
     </a>
 </div>
 
