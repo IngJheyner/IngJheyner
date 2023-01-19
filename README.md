@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/hogar/escoba-electrica-dyson-v8-absolute-descuento-iva-oferta-1187226'>Si sueñas con una Dyson, buenas noticias: su aspiradora V8 Absolute+, sin IVA en esta oferta</a></h4>
+    <a href='https://computerhoy.com/hogar/escoba-electrica-dyson-v8-absolute-descuento-iva-oferta-1187226' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/suenas-dyson-buenas-noticias-aspiradora-v8-absolute-iva-oferta-2932990.jpg?tf=1200x' alt='Si sueñas con una Dyson, buenas noticias: su aspiradora V8 Absolute+, sin IVA en esta oferta' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/windows/no-restaures-windows-11-microsoft-alerta-bug-afecta-varias-aplicaciones-1187114'>No restaures Windows 11: Microsoft alerta de un bug que afecta a varias aplicaciones</a></h4>
     <a href='https://computerhoy.com/windows/no-restaures-windows-11-microsoft-alerta-bug-afecta-varias-aplicaciones-1187114' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/windows-11-2915612.jpg?tf=1200x' alt='No restaures Windows 11: Microsoft alerta de un bug que afecta a varias aplicaciones' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/gaming/acabaron-loot-boxes-parlamento-europeo-pone-freno-mecanica-adictiva-1187112'>Se acabaron las loot boxes: el Parlamento Europeo pone freno a esta mecánica adictiva</a></h4>
     <a href='https://computerhoy.com/gaming/acabaron-loot-boxes-parlamento-europeo-pone-freno-mecanica-adictiva-1187112' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/nuevo-estudio-confirma-gamers-ya-intuyen-videojuegos-aumentan-coeficiente-intelectual-ninos-25-puntos-2705547.jpg?tf=1200x' alt='Se acabaron las loot boxes: el Parlamento Europeo pone freno a esta mecánica adictiva' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/descargar-torrent-2023-mejores-programas-paginas-descargas-gratis-1184828'>Descargar por Torrent en 2023: mejores programas y páginas de descargas gratis</a></h4>
-    <a href='https://computerhoy.com/tecnologia/descargar-torrent-2023-mejores-programas-paginas-descargas-gratis-1184828' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/torrent-2928648.jpg?tf=1200x' alt='Descargar por Torrent en 2023: mejores programas y páginas de descargas gratis' />
     </a>
 </div>
 
