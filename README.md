@@ -50,9 +50,17 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/ya-puedes-usar-version-final-android-auto-87-estas-son-novedades-1187634'>Ya puedes usar la versión final de Android Auto 8.7 y estas son sus novedades</a></h4>
+    <a href='https://computerhoy.com/apps/ya-puedes-usar-version-final-android-auto-87-estas-son-novedades-1187634' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/android-auto-coolwalk-2870275.jpg?tf=1200x' alt='Ya puedes usar la versión final de Android Auto 8.7 y estas son sus novedades' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/estos-son-ejercicios-mentales-tecnicas-bill-gates-practica-lograr-memoria-envidiable-1187608'>Estos son los ejercicios mentales y técnicas que Bill Gates practica para lograr una memoria envidiable</a></h4>
     <a href='https://computerhoy.com/life/estos-son-ejercicios-mentales-tecnicas-bill-gates-practica-lograr-memoria-envidiable-1187608' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/ejercicios-mentales-tecnicas-bill-gates-lograr-memoria-portentosa-2933744.jpg?tf=1200x' alt='Estos son los ejercicios mentales y técnicas que Bill Gates practica para lograr una memoria envidiable' />
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/estos-son-ejercicios-mentales-tecnicas-bill-gates-practica-lograr-memoria-envidiable-2933932.jpg?tf=1200x' alt='Estos son los ejercicios mentales y técnicas que Bill Gates practica para lograr una memoria envidiable' />
     </a>
 </div>
 
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/apps/whatsapp-va-introducir-cambio-clave-arreglar-problema-fotografias-1187582'>WhatsApp va a introducir un cambio clave para arreglar su problema con las fotografías</a></h4>
     <a href='https://computerhoy.com/apps/whatsapp-va-introducir-cambio-clave-arreglar-problema-fotografias-1187582' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/whatsapp-herramienta-fotografia-2933606.jpg?tf=1200x' alt='WhatsApp va a introducir un cambio clave para arreglar su problema con las fotografías' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/avion-estan-disenando-nasa-boeing-eficiente-mundo-1187528'>Este es el avión que están diseñando la NASA y Boeing: el más eficiente del mundo</a></h4>
-    <a href='https://computerhoy.com/espacio/avion-estan-disenando-nasa-boeing-eficiente-mundo-1187528' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/nasa-boeing-2933410.jpg?tf=1200x' alt='Este es el avión que están diseñando la NASA y Boeing: el más eficiente del mundo' />
     </a>
 </div>
 
