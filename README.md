@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/dibujo-1923-predijo-inteligencia-artificial-stable-diffusion-en-2023-1187232'>Este dibujo de 1923 predijo que en 100 años una inteligencia artificial crearía dibujos y viñetas... y lo clavó</a></h4>
+    <a href='https://computerhoy.com/tecnologia/dibujo-1923-predijo-inteligencia-artificial-stable-diffusion-en-2023-1187232' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/1923-dibujante-predijo-ia-crearia-dibujos-2023-clavo-2933038.jpg?tf=1200x' alt='Este dibujo de 1923 predijo que en 100 años una inteligencia artificial crearía dibujos y viñetas... y lo clavó' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/internet/wikipedia-actualiza-diseno-primera-vez-10-anos-estas-son-novedades-1187116'>Wikipedia actualiza su diseño por primera vez en 10 años: estas son sus novedades</a></h4>
+    <a href='https://computerhoy.com/internet/wikipedia-actualiza-diseno-primera-vez-10-anos-estas-son-novedades-1187116' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/12/15-curiosidades-wikipedia-2184335.jpg?tf=1200x' alt='Wikipedia actualiza su diseño por primera vez en 10 años: estas son sus novedades' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/hogar/escoba-electrica-dyson-v8-absolute-descuento-iva-oferta-1187226'>Si sueñas con una Dyson, buenas noticias: su aspiradora V8 Absolute+, sin IVA en esta oferta</a></h4>
     <a href='https://computerhoy.com/hogar/escoba-electrica-dyson-v8-absolute-descuento-iva-oferta-1187226' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/suenas-dyson-buenas-noticias-aspiradora-v8-absolute-iva-oferta-2932990.jpg?tf=1200x' alt='Si sueñas con una Dyson, buenas noticias: su aspiradora V8 Absolute+, sin IVA en esta oferta' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/motor/guardia-civil-compra-coches-electricos-pero-no-tienen-donde-cargarlos-1187218'>La Guardia Civil compra coches eléctricos pero no tienen donde cargarlos</a></h4>
     <a href='https://computerhoy.com/motor/guardia-civil-compra-coches-electricos-pero-no-tienen-donde-cargarlos-1187218' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/nissan-leaf-guardia-civil-2932986.jpg?tf=1200x' alt='La Guardia Civil compra coches eléctricos pero no tienen donde cargarlos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/tecnologia-permite-ver-traves-paredes-aprovechando-senales-wifi-1187216'>Esta tecnología permite ver a través de las paredes aprovechando señales WiFi</a></h4>
-    <a href='https://computerhoy.com/ciencia/tecnologia-permite-ver-traves-paredes-aprovechando-senales-wifi-1187216' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/camara-seguridad-2932984.jpg?tf=1200x' alt='Esta tecnología permite ver a través de las paredes aprovechando señales WiFi' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/gaming/acabaron-loot-boxes-parlamento-europeo-pone-freno-mecanica-adictiva-1187112'>Se acabaron las loot boxes: el Parlamento Europeo pone freno a esta mecánica adictiva</a></h4>
-    <a href='https://computerhoy.com/gaming/acabaron-loot-boxes-parlamento-europeo-pone-freno-mecanica-adictiva-1187112' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/nuevo-estudio-confirma-gamers-ya-intuyen-videojuegos-aumentan-coeficiente-intelectual-ninos-25-puntos-2705547.jpg?tf=1200x' alt='Se acabaron las loot boxes: el Parlamento Europeo pone freno a esta mecánica adictiva' />
     </a>
 </div>
 
