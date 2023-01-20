@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/espacio/5-anos-trabajo-foto-detallada-lactea-muestra-3320-millones-objetos-celestiales-1187472'>5 años de trabajo: la foto más detallada de la Vía Láctea muestra 3.320 millones de objetos celestiales</a></h4>
+    <a href='https://computerhoy.com/espacio/5-anos-trabajo-foto-detallada-lactea-muestra-3320-millones-objetos-celestiales-1187472' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/5-anos-trabajo-foto-detallada-lactea-muestra-3320-millones-objetos-celestiales-2933304.jpg?tf=1200x' alt='5 años de trabajo: la foto más detallada de la Vía Láctea muestra 3.320 millones de objetos celestiales' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/motor/primer-camion-amoniaco-mundo-1187470'>El primer camión de amoniaco del mundo es 5 veces más eficiente que un eléctrico, y se recarga en 8 minutos</a></h4>
     <a href='https://computerhoy.com/motor/primer-camion-amoniaco-mundo-1187470' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/verticalimage1674176913272-2933300.jpg?tf=1200x' alt='El primer camión de amoniaco del mundo es 5 veces más eficiente que un eléctrico, y se recarga en 8 minutos' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/hogar/escoba-electrica-dyson-v8-absolute-descuento-iva-oferta-1187226'>Si sueñas con una Dyson, buenas noticias: su aspiradora V8 Absolute+, sin IVA en esta oferta</a></h4>
     <a href='https://computerhoy.com/hogar/escoba-electrica-dyson-v8-absolute-descuento-iva-oferta-1187226' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/suenas-dyson-buenas-noticias-aspiradora-v8-absolute-iva-oferta-2932990.jpg?tf=1200x' alt='Si sueñas con una Dyson, buenas noticias: su aspiradora V8 Absolute+, sin IVA en esta oferta' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/no-restaures-windows-11-microsoft-alerta-bug-afecta-varias-aplicaciones-1187114'>No restaures Windows 11: Microsoft alerta de un bug que afecta a varias aplicaciones</a></h4>
-    <a href='https://computerhoy.com/windows/no-restaures-windows-11-microsoft-alerta-bug-afecta-varias-aplicaciones-1187114' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/windows-11-2915612.jpg?tf=1200x' alt='No restaures Windows 11: Microsoft alerta de un bug que afecta a varias aplicaciones' />
     </a>
 </div>
 
