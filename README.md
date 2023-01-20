@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/motor/primer-camion-amoniaco-mundo-1187470'>El primer camión de amoniaco del mundo es 5 veces más eficiente que un eléctrico, y se recarga en 8 minutos</a></h4>
+    <a href='https://computerhoy.com/motor/primer-camion-amoniaco-mundo-1187470' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/verticalimage1674176913272-2933300.jpg?tf=1200x' alt='El primer camión de amoniaco del mundo es 5 veces más eficiente que un eléctrico, y se recarga en 8 minutos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/dibujo-1923-predijo-inteligencia-artificial-stable-diffusion-en-2023-1187232'>Este dibujo de 1923 predijo que en 100 años una inteligencia artificial crearía dibujos y viñetas... y lo clavó</a></h4>
     <a href='https://computerhoy.com/tecnologia/dibujo-1923-predijo-inteligencia-artificial-stable-diffusion-en-2023-1187232' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/1923-dibujante-predijo-ia-crearia-dibujos-2023-clavo-2933038.jpg?tf=1200x' alt='Este dibujo de 1923 predijo que en 100 años una inteligencia artificial crearía dibujos y viñetas... y lo clavó' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/windows/no-restaures-windows-11-microsoft-alerta-bug-afecta-varias-aplicaciones-1187114'>No restaures Windows 11: Microsoft alerta de un bug que afecta a varias aplicaciones</a></h4>
     <a href='https://computerhoy.com/windows/no-restaures-windows-11-microsoft-alerta-bug-afecta-varias-aplicaciones-1187114' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/windows-11-2915612.jpg?tf=1200x' alt='No restaures Windows 11: Microsoft alerta de un bug que afecta a varias aplicaciones' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/guardia-civil-compra-coches-electricos-pero-no-tienen-donde-cargarlos-1187218'>La Guardia Civil compra coches eléctricos pero no tienen donde cargarlos</a></h4>
-    <a href='https://computerhoy.com/motor/guardia-civil-compra-coches-electricos-pero-no-tienen-donde-cargarlos-1187218' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/nissan-leaf-guardia-civil-2932986.jpg?tf=1200x' alt='La Guardia Civil compra coches eléctricos pero no tienen donde cargarlos' />
     </a>
 </div>
 
