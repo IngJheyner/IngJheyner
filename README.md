@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/pc/portatil-samsung-galaxy-book-go-snapdragon-oferta-1187796'>El portátil Samsung Galaxy Book Go con Snapdragon está pensado para competir con los MacBook Air, y está en oferta</a></h4>
+    <a href='https://computerhoy.com/pc/portatil-samsung-galaxy-book-go-snapdragon-oferta-1187796' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/portatil-samsung-galaxy-book-go-snapdragon-pensado-competir-macbook-air-oferta-2934350.jpg?tf=1200x' alt='El portátil Samsung Galaxy Book Go con Snapdragon está pensado para competir con los MacBook Air, y está en oferta' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/entretenimiento/junji-ito-maniac-serie-anime-netflix-terror-1187794'>Ha salido en Netflix el anime que puede hacer temblar a los aficionados al terror</a></h4>
     <a href='https://computerhoy.com/entretenimiento/junji-ito-maniac-serie-anime-netflix-terror-1187794' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/verticalimage1674245880952-2934338.jpg?tf=1200x' alt='Ha salido en Netflix el anime que puede hacer temblar a los aficionados al terror' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/entretenimiento/cobra-kai-tendra-temporada-6-sera-ultima-netflix-da-patada-otra-serie-1187768'>Cobra Kai tendrá una temporada 6 y será la última: Netflix le da la patada a otra serie</a></h4>
     <a href='https://computerhoy.com/entretenimiento/cobra-kai-tendra-temporada-6-sera-ultima-netflix-da-patada-otra-serie-1187768' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/ralph-macchio-cobra-kai-2854657.jpg?tf=1200x' alt='Cobra Kai tendrá una temporada 6 y será la última: Netflix le da la patada a otra serie' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/guia-comprar/repetidor-wifi'>Guía y consejos para comprar un repetidor WiFi y mejorar tu conexión a internet en 2023</a></h4>
-    <a href='https://computerhoy.com/guia-comprar/repetidor-wifi' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/repetidor-wifi-6-2646753.jpg?tf=1200x' alt='Guía y consejos para comprar un repetidor WiFi y mejorar tu conexión a internet en 2023' />
     </a>
 </div>
 
