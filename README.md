@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/series-ver-fin-semana-netflix-hbo-max-prime-video-venganza-zombis-espias-1187698'>Qué series ver este fin de semana en Netflix, HBO Max y Prime Video: venganza, zombis y espías</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/series-ver-fin-semana-netflix-hbo-max-prime-video-venganza-zombis-espias-1187698' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/last-us-joel-pedro-pascal-2930174.jpg?tf=1200x' alt='Qué series ver este fin de semana en Netflix, HBO Max y Prime Video: venganza, zombis y espías' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/entretenimiento/peliculas-ver-fin-semana-netflix-disney-movistarplus-ia-coreana-cena-terrorifica-comedia-espanola-1187526'>Qué películas ver este fin de semana en Netflix, Disney+ y MovistarPlus+: IA coreana, una cena terrorífica y comedia española</a></h4>
     <a href='https://computerhoy.com/entretenimiento/peliculas-ver-fin-semana-netflix-disney-movistarplus-ia-coreana-cena-terrorifica-comedia-espanola-1187526' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/peliculas-ver-fin-semana-netflix-disney-movistarplus-ia-coreana-cena-terrorifica-comedia-espanola-2933726.jpg?tf=1200x' alt='Qué películas ver este fin de semana en Netflix, Disney+ y MovistarPlus+: IA coreana, una cena terrorífica y comedia española' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/apps/ya-puedes-usar-version-final-android-auto-87-estas-son-novedades-1187634'>Ya puedes usar la versión final de Android Auto 8.7 y estas son sus novedades</a></h4>
     <a href='https://computerhoy.com/apps/ya-puedes-usar-version-final-android-auto-87-estas-son-novedades-1187634' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/android-auto-coolwalk-2870275.jpg?tf=1200x' alt='Ya puedes usar la versión final de Android Auto 8.7 y estas son sus novedades' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/estos-son-ejercicios-mentales-tecnicas-bill-gates-practica-lograr-memoria-envidiable-1187608'>Estos son los ejercicios mentales y técnicas que Bill Gates practica para lograr una memoria envidiable</a></h4>
-    <a href='https://computerhoy.com/life/estos-son-ejercicios-mentales-tecnicas-bill-gates-practica-lograr-memoria-envidiable-1187608' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/estos-son-ejercicios-mentales-tecnicas-bill-gates-practica-lograr-memoria-envidiable-2933932.jpg?tf=1200x' alt='Estos son los ejercicios mentales y técnicas que Bill Gates practica para lograr una memoria envidiable' />
     </a>
 </div>
 
