@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/cientificos-crean-parche-capaz-detectar-alzheimer-solo-seis-minutos-1187776'>Científicos crean un parche capaz de detectar el Alzheimer en solo seis minutos</a></h4>
+    <a href='https://computerhoy.com/ciencia/cientificos-crean-parche-capaz-detectar-alzheimer-solo-seis-minutos-1187776' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/mujer-poniendose-parche-piel-2934322.jpg?tf=1200x' alt='Científicos crean un parche capaz de detectar el Alzheimer en solo seis minutos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/entretenimiento/cobra-kai-tendra-temporada-6-sera-ultima-netflix-da-patada-otra-serie-1187768'>Cobra Kai tendrá una temporada 6 y será la última: Netflix le da la patada a otra serie</a></h4>
     <a href='https://computerhoy.com/entretenimiento/cobra-kai-tendra-temporada-6-sera-ultima-netflix-da-patada-otra-serie-1187768' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/ralph-macchio-cobra-kai-2854657.jpg?tf=1200x' alt='Cobra Kai tendrá una temporada 6 y será la última: Netflix le da la patada a otra serie' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-tablets-para-leer-1054531'>Mejores tablets para leer que puedes comprar ahora mismo</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/mejores-tablets-para-leer-1054531' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/ipad-mini-6a-generacion-2021-analisis-opinion-2501975.jpg?tf=1200x' alt='Mejores tablets para leer que puedes comprar ahora mismo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/series-ver-fin-semana-netflix-hbo-max-prime-video-venganza-zombis-espias-1187698'>Qué series ver este fin de semana en Netflix, HBO Max y Prime Video: venganza, zombis y espías</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/series-ver-fin-semana-netflix-hbo-max-prime-video-venganza-zombis-espias-1187698' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/last-us-joel-pedro-pascal-2930174.jpg?tf=1200x' alt='Qué series ver este fin de semana en Netflix, HBO Max y Prime Video: venganza, zombis y espías' />
     </a>
 </div>
 
