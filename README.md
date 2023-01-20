@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/curioso-metodo-burlar-ia-deteccion-robot-militar-digno-videojuego-1187700'>El curioso método para burlar la IA de detección de un robot militar que es digno de videojuego</a></h4>
+    <a href='https://computerhoy.com/tecnologia/curioso-metodo-burlar-ia-deteccion-robot-militar-digno-videojuego-1187700' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/metal-gear-solid-2933402.jpg?tf=1200x' alt='El curioso método para burlar la IA de detección de un robot militar que es digno de videojuego' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-tablets-para-leer-1054531'>Mejores tablets para leer que puedes comprar ahora mismo</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-tablets-para-leer-1054531' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/ipad-mini-6a-generacion-2021-analisis-opinion-2501975.jpg?tf=1200x' alt='Mejores tablets para leer que puedes comprar ahora mismo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/entretenimiento/series-ver-fin-semana-netflix-hbo-max-prime-video-venganza-zombis-espias-1187698'>Qué series ver este fin de semana en Netflix, HBO Max y Prime Video: venganza, zombis y espías</a></h4>
     <a href='https://computerhoy.com/entretenimiento/series-ver-fin-semana-netflix-hbo-max-prime-video-venganza-zombis-espias-1187698' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/last-us-joel-pedro-pascal-2930174.jpg?tf=1200x' alt='Qué series ver este fin de semana en Netflix, HBO Max y Prime Video: venganza, zombis y espías' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/industria/podria-ser-fin-spam-telefonico-te-cambies-operadora-1187680'>Este podría ser el fin del spam telefónico para que te cambies de operadora</a></h4>
     <a href='https://computerhoy.com/industria/podria-ser-fin-spam-telefonico-te-cambies-operadora-1187680' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/llamada-vising-2415435.jpg?tf=1200x' alt='Este podría ser el fin del spam telefónico para que te cambies de operadora' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/escrito-texto-ia-chatgpt-puedes-detectarlo-1187636'>¿Está escrito este texto por la IA de ChatGPT? así puedes detectarlo</a></h4>
-    <a href='https://computerhoy.com/tecnologia/escrito-texto-ia-chatgpt-puedes-detectarlo-1187636' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/escrito-texto-ia-chatgpt-puedes-detectarlo-2933996.jpg?tf=1200x' alt='¿Está escrito este texto por la IA de ChatGPT? así puedes detectarlo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/ya-puedes-usar-version-final-android-auto-87-estas-son-novedades-1187634'>Ya puedes usar la versión final de Android Auto 8.7 y estas son sus novedades</a></h4>
-    <a href='https://computerhoy.com/apps/ya-puedes-usar-version-final-android-auto-87-estas-son-novedades-1187634' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/android-auto-coolwalk-2870275.jpg?tf=1200x' alt='Ya puedes usar la versión final de Android Auto 8.7 y estas son sus novedades' />
     </a>
 </div>
 
