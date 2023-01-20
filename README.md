@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/espacio/avion-estan-disenando-nasa-boeing-eficiente-mundo-1187528'>Este es el avión que están diseñando la NASA y Boeing: el más eficiente del mundo</a></h4>
+    <a href='https://computerhoy.com/espacio/avion-estan-disenando-nasa-boeing-eficiente-mundo-1187528' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/nasa-boeing-2933410.jpg?tf=1200x' alt='Este es el avión que están diseñando la NASA y Boeing: el más eficiente del mundo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciberseguridad/alerta-usuarios-android-nuevo-malware-hook-porque-podria-tomar-control-total-smartphone-1187514'>Alerta usuarios de Android por el nuevo malware  Hook porque podría tomar el control total de tu smartphone</a></h4>
     <a href='https://computerhoy.com/ciberseguridad/alerta-usuarios-android-nuevo-malware-hook-porque-podria-tomar-control-total-smartphone-1187514' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/actualiza-android-hook-malware-puede-tomar-control-smartphone-2933388.jpg?tf=1200x' alt='Alerta usuarios de Android por el nuevo malware  Hook porque podría tomar el control total de tu smartphone' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/patrocinado/suelos-muy-limpios-rebaja-aliexpress-ecuacion-perfecta-1187186'>Suelos muy limpios y rebaja en AliExpress: ecuación perfecta</a></h4>
     <a href='https://computerhoy.com/patrocinado/suelos-muy-limpios-rebaja-aliexpress-ecuacion-perfecta-1187186' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/roborock-dyad-pro-2932870.jpg?tf=1200x' alt='Suelos muy limpios y rebaja en AliExpress: ecuación perfecta' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/metal-gear-solid-elder-ring-final-fantasy-videojuegos-peliculas-anos-80-midjourney-1187220'>Metal Gear Solid, Elder Ring o Final Fantasy, convertidos por una IA en películas de los años 80</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/metal-gear-solid-elder-ring-final-fantasy-videojuegos-peliculas-anos-80-midjourney-1187220' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/metal-gear-solid-elder-ring-final-fantasy-convertidos-ia-peliculas-anos-80-2932972.jpg?tf=1200x' alt='Metal Gear Solid, Elder Ring o Final Fantasy, convertidos por una IA en películas de los años 80' />
     </a>
 </div>
 
