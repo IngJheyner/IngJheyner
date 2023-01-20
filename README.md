@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/alerta-usuarios-android-nuevo-malware-hook-porque-podria-tomar-control-total-smartphone-1187514'>Alerta usuarios de Android por el nuevo malware  Hook porque podría tomar el control total de tu smartphone</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/alerta-usuarios-android-nuevo-malware-hook-porque-podria-tomar-control-total-smartphone-1187514' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/actualiza-android-hook-malware-puede-tomar-control-smartphone-2933388.jpg?tf=1200x' alt='Alerta usuarios de Android por el nuevo malware  Hook porque podría tomar el control total de tu smartphone' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/moviles/revolucionario-concepto-samsung-nuevas-pantallas-plegables-1187496'>Así es el revolucionario concepto de Samsung con las nuevas pantallas plegables</a></h4>
     <a href='https://computerhoy.com/moviles/revolucionario-concepto-samsung-nuevas-pantallas-plegables-1187496' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/review-samsung-galaxy-z-fold-4-2791533.jpg?tf=1200x' alt='Así es el revolucionario concepto de Samsung con las nuevas pantallas plegables' />
@@ -74,17 +82,9 @@
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-tablets-samsung-1114429'>Estas son las mejores tablets de Samsung que puedes comprar</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-tablets-samsung-1114429' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/samsung-galaxy-s8-ultra-analisis-opinion-2646925.jpg?tf=1200x' alt='Estas son las mejores tablets de Samsung que puedes comprar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/futuro-wearables-pasa-usar-cuerpo-como-fuente-energia-1187146'>El futuro de los wearables pasa por usar nuestro cuerpo como fuente de energía</a></h4>
-    <a href='https://computerhoy.com/tecnologia/futuro-wearables-pasa-usar-cuerpo-como-fuente-energia-1187146' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/futuro-wearables-usar-cuerpo-como-bateria-2932862.jpg?tf=1200x' alt='El futuro de los wearables pasa por usar nuestro cuerpo como fuente de energía' />
+    <h4><a href='https://computerhoy.com/entretenimiento/metal-gear-solid-elder-ring-final-fantasy-videojuegos-peliculas-anos-80-midjourney-1187220'>Metal Gear Solid, Elder Ring o Final Fantasy, convertidos por una IA en películas de los años 80</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/metal-gear-solid-elder-ring-final-fantasy-videojuegos-peliculas-anos-80-midjourney-1187220' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/metal-gear-solid-elder-ring-final-fantasy-convertidos-ia-peliculas-anos-80-2932972.jpg?tf=1200x' alt='Metal Gear Solid, Elder Ring o Final Fantasy, convertidos por una IA en películas de los años 80' />
     </a>
 </div>
 
