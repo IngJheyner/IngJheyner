@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/moviles/revolucionario-concepto-samsung-nuevas-pantallas-plegables-1187496'>Así es el revolucionario concepto de Samsung con las nuevas pantallas plegables</a></h4>
+    <a href='https://computerhoy.com/moviles/revolucionario-concepto-samsung-nuevas-pantallas-plegables-1187496' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/review-samsung-galaxy-z-fold-4-2791533.jpg?tf=1200x' alt='Así es el revolucionario concepto de Samsung con las nuevas pantallas plegables' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/netflix-te-cobrara-compartir-contrasena-anunciar-fin-primer-trimestre-2023-1187504'>Esto es lo que Netflix te cobrará por compartir contraseña tras anunciar su fin este primer trimestre de 2023</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/netflix-te-cobrara-compartir-contrasena-anunciar-fin-primer-trimestre-2023-1187504' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/te-cobrara-netflix-compartir-contrasena-anunciar-fin-primer-trimestre-2023-2933368.jpg?tf=1200x' alt='Esto es lo que Netflix te cobrará por compartir contraseña tras anunciar su fin este primer trimestre de 2023' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/patrocinado/suelos-muy-limpios-rebaja-aliexpress-ecuacion-perfecta-1187186'>Suelos muy limpios y rebaja en AliExpress: ecuación perfecta</a></h4>
+    <a href='https://computerhoy.com/patrocinado/suelos-muy-limpios-rebaja-aliexpress-ecuacion-perfecta-1187186' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/roborock-dyad-pro-2932870.jpg?tf=1200x' alt='Suelos muy limpios y rebaja en AliExpress: ecuación perfecta' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-tablets-samsung-1114429'>Estas son las mejores tablets de Samsung que puedes comprar</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/mejores-tablets-samsung-1114429' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/samsung-galaxy-s8-ultra-analisis-opinion-2646925.jpg?tf=1200x' alt='Estas son las mejores tablets de Samsung que puedes comprar' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/futuro-wearables-pasa-usar-cuerpo-como-fuente-energia-1187146'>El futuro de los wearables pasa por usar nuestro cuerpo como fuente de energía</a></h4>
     <a href='https://computerhoy.com/tecnologia/futuro-wearables-pasa-usar-cuerpo-como-fuente-energia-1187146' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/futuro-wearables-usar-cuerpo-como-bateria-2932862.jpg?tf=1200x' alt='El futuro de los wearables pasa por usar nuestro cuerpo como fuente de energía' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/26-noticias-tecnologia-comenzar-manana-informado-ultimo-1187490'>26 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
-    <a href='https://computerhoy.com/tecnologia/26-noticias-tecnologia-comenzar-manana-informado-ultimo-1187490' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/26-noticias-tecnologia-comenzar-manana-informado-ultimo-2933316.jpg?tf=1200x' alt='26 noticias de tecnología para comenzar la mañana informado de lo último' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-auriculares-inalambricos-televisor-951629'>5 auriculares para usar en tu televisor y no molestar a nadie</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-auriculares-inalambricos-televisor-951629' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/auriculares-tv-philips-2931816.jpg?tf=1200x' alt='5 auriculares para usar en tu televisor y no molestar a nadie' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/5-anos-trabajo-foto-detallada-lactea-muestra-3320-millones-objetos-celestiales-1187472'>5 años de trabajo: la foto más detallada de la Vía Láctea muestra 3.320 millones de objetos celestiales</a></h4>
-    <a href='https://computerhoy.com/espacio/5-anos-trabajo-foto-detallada-lactea-muestra-3320-millones-objetos-celestiales-1187472' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/5-anos-trabajo-foto-detallada-lactea-muestra-3320-millones-objetos-celestiales-2933304.jpg?tf=1200x' alt='5 años de trabajo: la foto más detallada de la Vía Láctea muestra 3.320 millones de objetos celestiales' />
     </a>
 </div>
 
