@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/redes-sociales/instagram-sigue-luchando-criticas-salud-mental-jovenes-anade-modo-silencio-1187568'>Instagram sigue luchando contra las críticas sobre salud mental en los jóvenes y añade el Modo Silencio</a></h4>
+    <a href='https://computerhoy.com/redes-sociales/instagram-sigue-luchando-criticas-salud-mental-jovenes-anade-modo-silencio-1187568' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/instagram-sigue-luchando-criticas-salud-mental-jovenes-anade-modo-silencio-2933718.jpg?tf=1200x' alt='Instagram sigue luchando contra las críticas sobre salud mental en los jóvenes y añade el Modo Silencio' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/whatsapp-va-introducir-cambio-clave-arreglar-problema-fotografias-1187582'>WhatsApp va a introducir un cambio clave para arreglar su problema con las fotografías</a></h4>
+    <a href='https://computerhoy.com/apps/whatsapp-va-introducir-cambio-clave-arreglar-problema-fotografias-1187582' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/whatsapp-herramienta-fotografia-2933606.jpg?tf=1200x' alt='WhatsApp va a introducir un cambio clave para arreglar su problema con las fotografías' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/espacio/avion-estan-disenando-nasa-boeing-eficiente-mundo-1187528'>Este es el avión que están diseñando la NASA y Boeing: el más eficiente del mundo</a></h4>
     <a href='https://computerhoy.com/espacio/avion-estan-disenando-nasa-boeing-eficiente-mundo-1187528' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/nasa-boeing-2933410.jpg?tf=1200x' alt='Este es el avión que están diseñando la NASA y Boeing: el más eficiente del mundo' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/moviles/revolucionario-concepto-samsung-nuevas-pantallas-plegables-1187496'>Así es el revolucionario concepto de Samsung con las nuevas pantallas plegables</a></h4>
     <a href='https://computerhoy.com/moviles/revolucionario-concepto-samsung-nuevas-pantallas-plegables-1187496' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/review-samsung-galaxy-z-fold-4-2791533.jpg?tf=1200x' alt='Así es el revolucionario concepto de Samsung con las nuevas pantallas plegables' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/netflix-te-cobrara-compartir-contrasena-anunciar-fin-primer-trimestre-2023-1187504'>Esto es lo que Netflix te cobrará por compartir contraseña tras anunciar su fin este primer trimestre de 2023</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/netflix-te-cobrara-compartir-contrasena-anunciar-fin-primer-trimestre-2023-1187504' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/te-cobrara-netflix-compartir-contrasena-anunciar-fin-primer-trimestre-2023-2933368.jpg?tf=1200x' alt='Esto es lo que Netflix te cobrará por compartir contraseña tras anunciar su fin este primer trimestre de 2023' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/patrocinado/suelos-muy-limpios-rebaja-aliexpress-ecuacion-perfecta-1187186'>Suelos muy limpios y rebaja en AliExpress: ecuación perfecta</a></h4>
-    <a href='https://computerhoy.com/patrocinado/suelos-muy-limpios-rebaja-aliexpress-ecuacion-perfecta-1187186' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/roborock-dyad-pro-2932870.jpg?tf=1200x' alt='Suelos muy limpios y rebaja en AliExpress: ecuación perfecta' />
     </a>
 </div>
 
