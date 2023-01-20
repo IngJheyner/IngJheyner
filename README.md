@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-auriculares-inalambricos-televisor-951629'>5 auriculares para usar en tu televisor y no molestar a nadie</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-auriculares-inalambricos-televisor-951629' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/auriculares-tv-philips-2931816.jpg?tf=1200x' alt='5 auriculares para usar en tu televisor y no molestar a nadie' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/espacio/5-anos-trabajo-foto-detallada-lactea-muestra-3320-millones-objetos-celestiales-1187472'>5 años de trabajo: la foto más detallada de la Vía Láctea muestra 3.320 millones de objetos celestiales</a></h4>
     <a href='https://computerhoy.com/espacio/5-anos-trabajo-foto-detallada-lactea-muestra-3320-millones-objetos-celestiales-1187472' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/5-anos-trabajo-foto-detallada-lactea-muestra-3320-millones-objetos-celestiales-2933304.jpg?tf=1200x' alt='5 años de trabajo: la foto más detallada de la Vía Láctea muestra 3.320 millones de objetos celestiales' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/internet/wikipedia-actualiza-diseno-primera-vez-10-anos-estas-son-novedades-1187116'>Wikipedia actualiza su diseño por primera vez en 10 años: estas son sus novedades</a></h4>
     <a href='https://computerhoy.com/internet/wikipedia-actualiza-diseno-primera-vez-10-anos-estas-son-novedades-1187116' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/12/15-curiosidades-wikipedia-2184335.jpg?tf=1200x' alt='Wikipedia actualiza su diseño por primera vez en 10 años: estas son sus novedades' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/hogar/escoba-electrica-dyson-v8-absolute-descuento-iva-oferta-1187226'>Si sueñas con una Dyson, buenas noticias: su aspiradora V8 Absolute+, sin IVA en esta oferta</a></h4>
-    <a href='https://computerhoy.com/hogar/escoba-electrica-dyson-v8-absolute-descuento-iva-oferta-1187226' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/suenas-dyson-buenas-noticias-aspiradora-v8-absolute-iva-oferta-2932990.jpg?tf=1200x' alt='Si sueñas con una Dyson, buenas noticias: su aspiradora V8 Absolute+, sin IVA en esta oferta' />
     </a>
 </div>
 
