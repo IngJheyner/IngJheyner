@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/estos-son-ejercicios-mentales-tecnicas-bill-gates-practica-lograr-memoria-envidiable-1187608'>Estos son los ejercicios mentales y técnicas que Bill Gates practica para lograr una memoria envidiable</a></h4>
+    <a href='https://computerhoy.com/life/estos-son-ejercicios-mentales-tecnicas-bill-gates-practica-lograr-memoria-envidiable-1187608' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/ejercicios-mentales-tecnicas-bill-gates-lograr-memoria-portentosa-2933744.jpg?tf=1200x' alt='Estos son los ejercicios mentales y técnicas que Bill Gates practica para lograr una memoria envidiable' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/secadores-esmalte-unas-pueden-danar-adn-provocar-mutaciones-1187606'>Los secadores de esmalte de uñas pueden dañar el ADN y provocar mutaciones</a></h4>
+    <a href='https://computerhoy.com/life/secadores-esmalte-unas-pueden-danar-adn-provocar-mutaciones-1187606' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/03/secador-unas-2250999.jpg?tf=1200x' alt='Los secadores de esmalte de uñas pueden dañar el ADN y provocar mutaciones' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/redes-sociales/instagram-sigue-luchando-criticas-salud-mental-jovenes-anade-modo-silencio-1187568'>Instagram sigue luchando contra las críticas sobre salud mental en los jóvenes y añade el Modo Silencio</a></h4>
     <a href='https://computerhoy.com/redes-sociales/instagram-sigue-luchando-criticas-salud-mental-jovenes-anade-modo-silencio-1187568' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/instagram-sigue-luchando-criticas-salud-mental-jovenes-anade-modo-silencio-2933718.jpg?tf=1200x' alt='Instagram sigue luchando contra las críticas sobre salud mental en los jóvenes y añade el Modo Silencio' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/espacio/avion-estan-disenando-nasa-boeing-eficiente-mundo-1187528'>Este es el avión que están diseñando la NASA y Boeing: el más eficiente del mundo</a></h4>
     <a href='https://computerhoy.com/espacio/avion-estan-disenando-nasa-boeing-eficiente-mundo-1187528' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/nasa-boeing-2933410.jpg?tf=1200x' alt='Este es el avión que están diseñando la NASA y Boeing: el más eficiente del mundo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/alerta-usuarios-android-nuevo-malware-hook-porque-podria-tomar-control-total-smartphone-1187514'>Alerta usuarios de Android por el nuevo malware  Hook porque podría tomar el control total de tu smartphone</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/alerta-usuarios-android-nuevo-malware-hook-porque-podria-tomar-control-total-smartphone-1187514' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/actualiza-android-hook-malware-puede-tomar-control-smartphone-2933388.jpg?tf=1200x' alt='Alerta usuarios de Android por el nuevo malware  Hook porque podría tomar el control total de tu smartphone' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/revolucionario-concepto-samsung-nuevas-pantallas-plegables-1187496'>Así es el revolucionario concepto de Samsung con las nuevas pantallas plegables</a></h4>
-    <a href='https://computerhoy.com/moviles/revolucionario-concepto-samsung-nuevas-pantallas-plegables-1187496' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/review-samsung-galaxy-z-fold-4-2791533.jpg?tf=1200x' alt='Así es el revolucionario concepto de Samsung con las nuevas pantallas plegables' />
     </a>
 </div>
 
