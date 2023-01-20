@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/peliculas-ver-fin-semana-netflix-disney-movistarplus-ia-coreana-cena-terrorifica-comedia-espanola-1187526'>Qué películas ver este fin de semana en Netflix, Disney+ y MovistarPlus+: IA coreana, una cena terrorífica y comedia española</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/peliculas-ver-fin-semana-netflix-disney-movistarplus-ia-coreana-cena-terrorifica-comedia-espanola-1187526' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/peliculas-ver-fin-semana-netflix-disney-movistarplus-ia-coreana-cena-terrorifica-comedia-espanola-2933726.jpg?tf=1200x' alt='Qué películas ver este fin de semana en Netflix, Disney+ y MovistarPlus+: IA coreana, una cena terrorífica y comedia española' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/industria/podria-ser-fin-spam-telefonico-te-cambies-operadora-1187680'>Este podría ser el fin del spam telefónico para que te cambies de operadora</a></h4>
     <a href='https://computerhoy.com/industria/podria-ser-fin-spam-telefonico-te-cambies-operadora-1187680' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/llamada-vising-2415435.jpg?tf=1200x' alt='Este podría ser el fin del spam telefónico para que te cambies de operadora' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/life/estos-son-ejercicios-mentales-tecnicas-bill-gates-practica-lograr-memoria-envidiable-1187608'>Estos son los ejercicios mentales y técnicas que Bill Gates practica para lograr una memoria envidiable</a></h4>
     <a href='https://computerhoy.com/life/estos-son-ejercicios-mentales-tecnicas-bill-gates-practica-lograr-memoria-envidiable-1187608' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/estos-son-ejercicios-mentales-tecnicas-bill-gates-practica-lograr-memoria-envidiable-2933932.jpg?tf=1200x' alt='Estos son los ejercicios mentales y técnicas que Bill Gates practica para lograr una memoria envidiable' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/secadores-esmalte-unas-pueden-danar-adn-provocar-mutaciones-1187606'>Los secadores de esmalte de uñas pueden dañar el ADN y provocar mutaciones</a></h4>
-    <a href='https://computerhoy.com/life/secadores-esmalte-unas-pueden-danar-adn-provocar-mutaciones-1187606' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/03/secador-unas-2250999.jpg?tf=1200x' alt='Los secadores de esmalte de uñas pueden dañar el ADN y provocar mutaciones' />
     </a>
 </div>
 
