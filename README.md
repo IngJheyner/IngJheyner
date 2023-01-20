@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/junji-ito-maniac-serie-anime-netflix-terror-1187794'>Ha salido en Netflix el anime que puede hacer temblar a los aficionados al terror</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/junji-ito-maniac-serie-anime-netflix-terror-1187794' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/verticalimage1674245880952-2934338.jpg?tf=1200x' alt='Ha salido en Netflix el anime que puede hacer temblar a los aficionados al terror' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/ue-advierte-tiktok-posible-prohibicion-no-cumplen-ley-servicios-digitales-1187784'>La UE advierte a TikTok de una posible prohibición si no cumplen con la ley de Servicios Digitales</a></h4>
+    <a href='https://computerhoy.com/apps/ue-advierte-tiktok-posible-prohibicion-no-cumplen-ley-servicios-digitales-1187784' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/tiktok-2934326.jpg?tf=1200x' alt='La UE advierte a TikTok de una posible prohibición si no cumplen con la ley de Servicios Digitales' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciencia/cientificos-crean-parche-capaz-detectar-alzheimer-solo-seis-minutos-1187776'>Científicos crean un parche capaz de detectar el Alzheimer en solo seis minutos</a></h4>
     <a href='https://computerhoy.com/ciencia/cientificos-crean-parche-capaz-detectar-alzheimer-solo-seis-minutos-1187776' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/mujer-poniendose-parche-piel-2934322.jpg?tf=1200x' alt='Científicos crean un parche capaz de detectar el Alzheimer en solo seis minutos' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/guia-comprar/repetidor-wifi'>Guía y consejos para comprar un repetidor WiFi y mejorar tu conexión a internet en 2023</a></h4>
     <a href='https://computerhoy.com/guia-comprar/repetidor-wifi' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/repetidor-wifi-6-2646753.jpg?tf=1200x' alt='Guía y consejos para comprar un repetidor WiFi y mejorar tu conexión a internet en 2023' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/curioso-metodo-burlar-ia-deteccion-robot-militar-digno-videojuego-1187700'>El curioso método para burlar la IA de detección de un robot militar que es digno de videojuego</a></h4>
-    <a href='https://computerhoy.com/tecnologia/curioso-metodo-burlar-ia-deteccion-robot-militar-digno-videojuego-1187700' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/metal-gear-solid-2933402.jpg?tf=1200x' alt='El curioso método para burlar la IA de detección de un robot militar que es digno de videojuego' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-tablets-para-leer-1054531'>Mejores tablets para leer que puedes comprar ahora mismo</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-tablets-para-leer-1054531' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/ipad-mini-6a-generacion-2021-analisis-opinion-2501975.jpg?tf=1200x' alt='Mejores tablets para leer que puedes comprar ahora mismo' />
     </a>
 </div>
 
