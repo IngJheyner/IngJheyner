@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/industria/podria-ser-fin-spam-telefonico-te-cambies-operadora-1187680'>Este podría ser el fin del spam telefónico para que te cambies de operadora</a></h4>
+    <a href='https://computerhoy.com/industria/podria-ser-fin-spam-telefonico-te-cambies-operadora-1187680' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/llamada-vising-2415435.jpg?tf=1200x' alt='Este podría ser el fin del spam telefónico para que te cambies de operadora' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/escrito-texto-ia-chatgpt-puedes-detectarlo-1187636'>¿Está escrito este texto por la IA de ChatGPT? así puedes detectarlo</a></h4>
+    <a href='https://computerhoy.com/tecnologia/escrito-texto-ia-chatgpt-puedes-detectarlo-1187636' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/escrito-texto-ia-chatgpt-puedes-detectarlo-2933996.jpg?tf=1200x' alt='¿Está escrito este texto por la IA de ChatGPT? así puedes detectarlo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apps/ya-puedes-usar-version-final-android-auto-87-estas-son-novedades-1187634'>Ya puedes usar la versión final de Android Auto 8.7 y estas son sus novedades</a></h4>
     <a href='https://computerhoy.com/apps/ya-puedes-usar-version-final-android-auto-87-estas-son-novedades-1187634' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/android-auto-coolwalk-2870275.jpg?tf=1200x' alt='Ya puedes usar la versión final de Android Auto 8.7 y estas son sus novedades' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/life/secadores-esmalte-unas-pueden-danar-adn-provocar-mutaciones-1187606'>Los secadores de esmalte de uñas pueden dañar el ADN y provocar mutaciones</a></h4>
     <a href='https://computerhoy.com/life/secadores-esmalte-unas-pueden-danar-adn-provocar-mutaciones-1187606' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/03/secador-unas-2250999.jpg?tf=1200x' alt='Los secadores de esmalte de uñas pueden dañar el ADN y provocar mutaciones' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/redes-sociales/instagram-sigue-luchando-criticas-salud-mental-jovenes-anade-modo-silencio-1187568'>Instagram sigue luchando contra las críticas sobre salud mental en los jóvenes y añade el Modo Silencio</a></h4>
-    <a href='https://computerhoy.com/redes-sociales/instagram-sigue-luchando-criticas-salud-mental-jovenes-anade-modo-silencio-1187568' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/instagram-sigue-luchando-criticas-salud-mental-jovenes-anade-modo-silencio-2933718.jpg?tf=1200x' alt='Instagram sigue luchando contra las críticas sobre salud mental en los jóvenes y añade el Modo Silencio' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/whatsapp-va-introducir-cambio-clave-arreglar-problema-fotografias-1187582'>WhatsApp va a introducir un cambio clave para arreglar su problema con las fotografías</a></h4>
-    <a href='https://computerhoy.com/apps/whatsapp-va-introducir-cambio-clave-arreglar-problema-fotografias-1187582' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/whatsapp-herramienta-fotografia-2933606.jpg?tf=1200x' alt='WhatsApp va a introducir un cambio clave para arreglar su problema con las fotografías' />
     </a>
 </div>
 
