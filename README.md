@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/cobra-kai-tendra-temporada-6-sera-ultima-netflix-da-patada-otra-serie-1187768'>Cobra Kai tendrá una temporada 6 y será la última: Netflix le da la patada a otra serie</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/cobra-kai-tendra-temporada-6-sera-ultima-netflix-da-patada-otra-serie-1187768' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/ralph-macchio-cobra-kai-2854657.jpg?tf=1200x' alt='Cobra Kai tendrá una temporada 6 y será la última: Netflix le da la patada a otra serie' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/guia-comprar/repetidor-wifi'>Guía y consejos para comprar un repetidor WiFi y mejorar tu conexión a internet en 2023</a></h4>
+    <a href='https://computerhoy.com/guia-comprar/repetidor-wifi' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/repetidor-wifi-6-2646753.jpg?tf=1200x' alt='Guía y consejos para comprar un repetidor WiFi y mejorar tu conexión a internet en 2023' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/curioso-metodo-burlar-ia-deteccion-robot-militar-digno-videojuego-1187700'>El curioso método para burlar la IA de detección de un robot militar que es digno de videojuego</a></h4>
     <a href='https://computerhoy.com/tecnologia/curioso-metodo-burlar-ia-deteccion-robot-militar-digno-videojuego-1187700' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/metal-gear-solid-2933402.jpg?tf=1200x' alt='El curioso método para burlar la IA de detección de un robot militar que es digno de videojuego' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/entretenimiento/series-ver-fin-semana-netflix-hbo-max-prime-video-venganza-zombis-espias-1187698'>Qué series ver este fin de semana en Netflix, HBO Max y Prime Video: venganza, zombis y espías</a></h4>
     <a href='https://computerhoy.com/entretenimiento/series-ver-fin-semana-netflix-hbo-max-prime-video-venganza-zombis-espias-1187698' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/last-us-joel-pedro-pascal-2930174.jpg?tf=1200x' alt='Qué series ver este fin de semana en Netflix, HBO Max y Prime Video: venganza, zombis y espías' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/peliculas-ver-fin-semana-netflix-disney-movistarplus-ia-coreana-cena-terrorifica-comedia-espanola-1187526'>Qué películas ver este fin de semana en Netflix, Disney+ y MovistarPlus+: IA coreana, una cena terrorífica y comedia española</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/peliculas-ver-fin-semana-netflix-disney-movistarplus-ia-coreana-cena-terrorifica-comedia-espanola-1187526' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/peliculas-ver-fin-semana-netflix-disney-movistarplus-ia-coreana-cena-terrorifica-comedia-espanola-2933726.jpg?tf=1200x' alt='Qué películas ver este fin de semana en Netflix, Disney+ y MovistarPlus+: IA coreana, una cena terrorífica y comedia española' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/industria/podria-ser-fin-spam-telefonico-te-cambies-operadora-1187680'>Este podría ser el fin del spam telefónico para que te cambies de operadora</a></h4>
-    <a href='https://computerhoy.com/industria/podria-ser-fin-spam-telefonico-te-cambies-operadora-1187680' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/llamada-vising-2415435.jpg?tf=1200x' alt='Este podría ser el fin del spam telefónico para que te cambies de operadora' />
     </a>
 </div>
 
