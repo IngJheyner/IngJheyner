@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-tablets-samsung-1114429'>Estas son las mejores tablets de Samsung que puedes comprar</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-tablets-samsung-1114429' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/samsung-galaxy-s8-ultra-analisis-opinion-2646925.jpg?tf=1200x' alt='Estas son las mejores tablets de Samsung que puedes comprar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/futuro-wearables-pasa-usar-cuerpo-como-fuente-energia-1187146'>El futuro de los wearables pasa por usar nuestro cuerpo como fuente de energía</a></h4>
+    <a href='https://computerhoy.com/tecnologia/futuro-wearables-pasa-usar-cuerpo-como-fuente-energia-1187146' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/futuro-wearables-usar-cuerpo-como-bateria-2932862.jpg?tf=1200x' alt='El futuro de los wearables pasa por usar nuestro cuerpo como fuente de energía' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/26-noticias-tecnologia-comenzar-manana-informado-ultimo-1187490'>26 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
+    <a href='https://computerhoy.com/tecnologia/26-noticias-tecnologia-comenzar-manana-informado-ultimo-1187490' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/26-noticias-tecnologia-comenzar-manana-informado-ultimo-2933316.jpg?tf=1200x' alt='26 noticias de tecnología para comenzar la mañana informado de lo último' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-auriculares-inalambricos-televisor-951629'>5 auriculares para usar en tu televisor y no molestar a nadie</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/mejores-auriculares-inalambricos-televisor-951629' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/auriculares-tv-philips-2931816.jpg?tf=1200x' alt='5 auriculares para usar en tu televisor y no molestar a nadie' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/espacio/5-anos-trabajo-foto-detallada-lactea-muestra-3320-millones-objetos-celestiales-1187472'>5 años de trabajo: la foto más detallada de la Vía Láctea muestra 3.320 millones de objetos celestiales</a></h4>
     <a href='https://computerhoy.com/espacio/5-anos-trabajo-foto-detallada-lactea-muestra-3320-millones-objetos-celestiales-1187472' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/5-anos-trabajo-foto-detallada-lactea-muestra-3320-millones-objetos-celestiales-2933304.jpg?tf=1200x' alt='5 años de trabajo: la foto más detallada de la Vía Láctea muestra 3.320 millones de objetos celestiales' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/primer-camion-amoniaco-mundo-1187470'>El primer camión de amoniaco del mundo es 5 veces más eficiente que un eléctrico, y se recarga en 8 minutos</a></h4>
-    <a href='https://computerhoy.com/motor/primer-camion-amoniaco-mundo-1187470' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/verticalimage1674176913272-2933300.jpg?tf=1200x' alt='El primer camión de amoniaco del mundo es 5 veces más eficiente que un eléctrico, y se recarga en 8 minutos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/dibujo-1923-predijo-inteligencia-artificial-stable-diffusion-en-2023-1187232'>Este dibujo de 1923 predijo que en 100 años una inteligencia artificial crearía dibujos y viñetas... y lo clavó</a></h4>
-    <a href='https://computerhoy.com/tecnologia/dibujo-1923-predijo-inteligencia-artificial-stable-diffusion-en-2023-1187232' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/1923-dibujante-predijo-ia-crearia-dibujos-2023-clavo-2933038.jpg?tf=1200x' alt='Este dibujo de 1923 predijo que en 100 años una inteligencia artificial crearía dibujos y viñetas... y lo clavó' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/wikipedia-actualiza-diseno-primera-vez-10-anos-estas-son-novedades-1187116'>Wikipedia actualiza su diseño por primera vez en 10 años: estas son sus novedades</a></h4>
-    <a href='https://computerhoy.com/internet/wikipedia-actualiza-diseno-primera-vez-10-anos-estas-son-novedades-1187116' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/12/15-curiosidades-wikipedia-2184335.jpg?tf=1200x' alt='Wikipedia actualiza su diseño por primera vez en 10 años: estas son sus novedades' />
     </a>
 </div>
 
