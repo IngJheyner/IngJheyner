@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/streaming/netflix-no-descarta-plan-totalmente-gratuito-publicidad-seguiria-modelo-concreto-1188108'>Netflix no descarta un plan totalmente gratuito con publicidad: seguiría este modelo concreto</a></h4>
+    <a href='https://computerhoy.com/streaming/netflix-no-descarta-plan-totalmente-gratuito-publicidad-seguiria-modelo-concreto-1188108' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/netflix-2702229.jpg?tf=1200x' alt='Netflix no descarta un plan totalmente gratuito con publicidad: seguiría este modelo concreto' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-sacar-dinero-cajero-movil-no-llevas-tarjeta-encima-1186326'>Cómo sacar dinero de un cajero con tu móvil si no llevas tu tarjeta encima</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-sacar-dinero-cajero-movil-no-llevas-tarjeta-encima-1186326' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/smartphone-cajero-2931202.jpg?tf=1200x' alt='Cómo sacar dinero de un cajero con tu móvil si no llevas tu tarjeta encima' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apps/7-herramientas-edicion-ofrece-tiktok-son-indispensables-triunfar-1188106'>7 herramientas de edición que ofrece TikTok y que son indispensables para triunfar</a></h4>
     <a href='https://computerhoy.com/apps/7-herramientas-edicion-ofrece-tiktok-son-indispensables-triunfar-1188106' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/tiktok-2934758.jpg?tf=1200x' alt='7 herramientas de edición que ofrece TikTok y que son indispensables para triunfar' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/motor/cuidado-te-compras-coche-electrico-estacionas-garaje-tenga-20-anos-1188096'>Cuidado si te compras un coche eléctrico y lo estacionas en un garaje que tenga más de 20 años</a></h4>
     <a href='https://computerhoy.com/motor/cuidado-te-compras-coche-electrico-estacionas-garaje-tenga-20-anos-1188096' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/garaje-subterraneo-2934740.jpg?tf=1200x' alt='Cuidado si te compras un coche eléctrico y lo estacionas en un garaje que tenga más de 20 años' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/mejores-sitios-web-ver-interesantes-curiosos-mapas-online-1188088'>Los mejores sitios web para ver interesantes y curiosos mapas online</a></h4>
-    <a href='https://computerhoy.com/internet/mejores-sitios-web-ver-interesantes-curiosos-mapas-online-1188088' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/mapas-2934734.jpg?tf=1200x' alt='Los mejores sitios web para ver interesantes y curiosos mapas online' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/7-documentales-muy-interesantes-adelantan-como-futuro-nos-espera-1185956'>7 documentales muy interesantes que adelantan cómo es el futuro que nos espera</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/7-documentales-muy-interesantes-adelantan-como-futuro-nos-espera-1185956' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/7-documentales-muy-interesantes-adelantan-como-futuro-nos-espera-2930870.jpg?tf=1200x' alt='7 documentales muy interesantes que adelantan cómo es el futuro que nos espera' />
     </a>
 </div>
 
