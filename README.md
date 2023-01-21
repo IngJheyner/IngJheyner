@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/moviles/filtra-nuevo-integrante-familia-xiaomi-redmi-note-12-estas-serian-especificaciones-1188134'>Se filtra un nuevo integrante de la familia Xiaomi Redmi Note 12 y estas serían sus especificaciones</a></h4>
+    <a href='https://computerhoy.com/moviles/filtra-nuevo-integrante-familia-xiaomi-redmi-note-12-estas-serian-especificaciones-1188134' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/redmi-note-11-pro-2659485.jpg?tf=1200x' alt='Se filtra un nuevo integrante de la familia Xiaomi Redmi Note 12 y estas serían sus especificaciones' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/iniciar-sesion-hotmail-como-acceder-tu-cuenta-correo-274343'>Cómo iniciar sesión en tu correo de Hotmail en 2023</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/iniciar-sesion-hotmail-como-acceder-tu-cuenta-correo-274343' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/hotmail-outlook-2218535.jpg?tf=1200x' alt='Cómo iniciar sesión en tu correo de Hotmail en 2023' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/apps/7-herramientas-edicion-ofrece-tiktok-son-indispensables-triunfar-1188106'>7 herramientas de edición que ofrece TikTok y que son indispensables para triunfar</a></h4>
     <a href='https://computerhoy.com/apps/7-herramientas-edicion-ofrece-tiktok-son-indispensables-triunfar-1188106' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/tiktok-2934758.jpg?tf=1200x' alt='7 herramientas de edición que ofrece TikTok y que son indispensables para triunfar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/google-chatgpt-trabajan-20-proyectos-impulsados-inteligencia-artificial-1188104'>Google contra ChatGPT: trabajan en más de 20 proyectos impulsados por inteligencia artificial</a></h4>
-    <a href='https://computerhoy.com/google/google-chatgpt-trabajan-20-proyectos-impulsados-inteligencia-artificial-1188104' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/inteligencia-artificial-2934756.jpg?tf=1200x' alt='Google contra ChatGPT: trabajan en más de 20 proyectos impulsados por inteligencia artificial' />
     </a>
 </div>
 
