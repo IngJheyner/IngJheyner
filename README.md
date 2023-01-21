@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/7-herramientas-edicion-ofrece-tiktok-son-indispensables-triunfar-1188106'>7 herramientas de edición que ofrece TikTok y que son indispensables para triunfar</a></h4>
+    <a href='https://computerhoy.com/apps/7-herramientas-edicion-ofrece-tiktok-son-indispensables-triunfar-1188106' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/tiktok-2934758.jpg?tf=1200x' alt='7 herramientas de edición que ofrece TikTok y que son indispensables para triunfar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/google/google-chatgpt-trabajan-20-proyectos-impulsados-inteligencia-artificial-1188104'>Google contra ChatGPT: trabajan en más de 20 proyectos impulsados por inteligencia artificial</a></h4>
     <a href='https://computerhoy.com/google/google-chatgpt-trabajan-20-proyectos-impulsados-inteligencia-artificial-1188104' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/inteligencia-artificial-2934756.jpg?tf=1200x' alt='Google contra ChatGPT: trabajan en más de 20 proyectos impulsados por inteligencia artificial' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/entretenimiento/7-documentales-muy-interesantes-adelantan-como-futuro-nos-espera-1185956'>7 documentales muy interesantes que adelantan cómo es el futuro que nos espera</a></h4>
     <a href='https://computerhoy.com/entretenimiento/7-documentales-muy-interesantes-adelantan-como-futuro-nos-espera-1185956' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/7-documentales-muy-interesantes-adelantan-como-futuro-nos-espera-2930870.jpg?tf=1200x' alt='7 documentales muy interesantes que adelantan cómo es el futuro que nos espera' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/frase-steve-jobs-inspirar-equipo-fabricar-mejores-dispositivos-mercado-1188074'>La frase de Steve Jobs para inspirar a su equipo a fabricar los mejores dispositivos del mercado</a></h4>
-    <a href='https://computerhoy.com/apple/frase-steve-jobs-inspirar-equipo-fabricar-mejores-dispositivos-mercado-1188074' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/steve-jobs-2885457.jpg?tf=1200x' alt='La frase de Steve Jobs para inspirar a su equipo a fabricar los mejores dispositivos del mercado' />
     </a>
 </div>
 
