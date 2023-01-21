@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/tinta-electronica-nueva-fiebre-oro-tecnologica-nos-acerca-analogico-1185832'>Tinta electrónica, la nueva fiebre del oro tecnológica que nos acerca a lo analógico</a></h4>
+    <a href='https://computerhoy.com/tecnologia/tinta-electronica-nueva-fiebre-oro-tecnologica-nos-acerca-analogico-1185832' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/desembarco-productos-amazon-kindle-scribe-halo-rise-echo-auto-2-gen-nuevos-echo-dot-reloj-2827481.jpg?tf=1200x' alt='Tinta electrónica, la nueva fiebre del oro tecnológica que nos acerca a lo analógico' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/pc/estos-portatiles-vienen-linux-preinstalado-son-forma-ahorrarte-bastante-dinero-1169280'>Estos portátiles vienen con Linux preinstalado y son una forma de ahorrarte bastante dinero</a></h4>
+    <a href='https://computerhoy.com/pc/estos-portatiles-vienen-linux-preinstalado-son-forma-ahorrarte-bastante-dinero-1169280' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/portatil-dell-2900404.jpg?tf=1200x' alt='Estos portátiles vienen con Linux preinstalado y son una forma de ahorrarte bastante dinero' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciencia/misterio-burbuja-leonardo-da-vinci-resuelto-investigador-sevillano-1188028'>El misterio de la Burbuja de Leonardo Da Vinci, resuelto 500 años después por un investigador sevillano</a></h4>
     <a href='https://computerhoy.com/ciencia/misterio-burbuja-leonardo-da-vinci-resuelto-investigador-sevillano-1188028' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/misterio-burbuja-leonardo-da-vinci-resuelto-500-anos-despues-investigador-sevillano-2934588.jpg?tf=1200x' alt='El misterio de la Burbuja de Leonardo Da Vinci, resuelto 500 años después por un investigador sevillano' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/google/google-despide-12000-empleados-une-amazon-microsoft-1187800'>Google despide a 12.000 empleados, y se une a Amazon y Microsoft</a></h4>
     <a href='https://computerhoy.com/google/google-despide-12000-empleados-une-amazon-microsoft-1187800' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/google-despide-12000-empleados-une-amazon-microsoft-2934352.jpg?tf=1200x' alt='Google despide a 12.000 empleados, y se une a Amazon y Microsoft' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/portatil-samsung-galaxy-book-go-snapdragon-oferta-1187796'>El portátil Samsung Galaxy Book Go con Snapdragon está pensado para competir con los MacBook Air, y está en oferta</a></h4>
-    <a href='https://computerhoy.com/pc/portatil-samsung-galaxy-book-go-snapdragon-oferta-1187796' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/portatil-samsung-galaxy-book-go-snapdragon-pensado-competir-macbook-air-oferta-2934350.jpg?tf=1200x' alt='El portátil Samsung Galaxy Book Go con Snapdragon está pensado para competir con los MacBook Air, y está en oferta' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/junji-ito-maniac-serie-anime-netflix-terror-1187794'>Ha salido en Netflix el anime que puede hacer temblar a los aficionados al terror</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/junji-ito-maniac-serie-anime-netflix-terror-1187794' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/verticalimage1674245880952-2934338.jpg?tf=1200x' alt='Ha salido en Netflix el anime que puede hacer temblar a los aficionados al terror' />
     </a>
 </div>
 
