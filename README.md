@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/iniciar-sesion-hotmail-como-acceder-tu-cuenta-correo-274343'>Cómo iniciar sesión en tu correo de Hotmail en 2023</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/iniciar-sesion-hotmail-como-acceder-tu-cuenta-correo-274343' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/hotmail-outlook-2218535.jpg?tf=1200x' alt='Cómo iniciar sesión en tu correo de Hotmail en 2023' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/streaming/netflix-no-descarta-plan-totalmente-gratuito-publicidad-seguiria-modelo-concreto-1188108'>Netflix no descarta un plan totalmente gratuito con publicidad: seguiría este modelo concreto</a></h4>
     <a href='https://computerhoy.com/streaming/netflix-no-descarta-plan-totalmente-gratuito-publicidad-seguiria-modelo-concreto-1188108' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/netflix-2702229.jpg?tf=1200x' alt='Netflix no descarta un plan totalmente gratuito con publicidad: seguiría este modelo concreto' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/google/google-chatgpt-trabajan-20-proyectos-impulsados-inteligencia-artificial-1188104'>Google contra ChatGPT: trabajan en más de 20 proyectos impulsados por inteligencia artificial</a></h4>
     <a href='https://computerhoy.com/google/google-chatgpt-trabajan-20-proyectos-impulsados-inteligencia-artificial-1188104' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/inteligencia-artificial-2934756.jpg?tf=1200x' alt='Google contra ChatGPT: trabajan en más de 20 proyectos impulsados por inteligencia artificial' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/cuidado-te-compras-coche-electrico-estacionas-garaje-tenga-20-anos-1188096'>Cuidado si te compras un coche eléctrico y lo estacionas en un garaje que tenga más de 20 años</a></h4>
-    <a href='https://computerhoy.com/motor/cuidado-te-compras-coche-electrico-estacionas-garaje-tenga-20-anos-1188096' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/garaje-subterraneo-2934740.jpg?tf=1200x' alt='Cuidado si te compras un coche eléctrico y lo estacionas en un garaje que tenga más de 20 años' />
     </a>
 </div>
 
