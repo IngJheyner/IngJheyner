@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/trampa-netflix-plan-anuncios-parezca-atractivo-1188026'>La "trampa" de Netflix para que el plan con anuncios parezca más atractivo</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/trampa-netflix-plan-anuncios-parezca-atractivo-1188026' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/trampa-netflix-plan-anuncios-parezca-atractivo-2934360.jpg?tf=1200x' alt='La "trampa" de Netflix para que el plan con anuncios parezca más atractivo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/google/google-despide-12000-empleados-une-amazon-microsoft-1187800'>Google despide a 12.000 empleados, y se une a Amazon y Microsoft</a></h4>
     <a href='https://computerhoy.com/google/google-despide-12000-empleados-une-amazon-microsoft-1187800' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/google-despide-12000-empleados-une-amazon-microsoft-2934352.jpg?tf=1200x' alt='Google despide a 12.000 empleados, y se une a Amazon y Microsoft' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/apps/ue-advierte-tiktok-posible-prohibicion-no-cumplen-ley-servicios-digitales-1187784'>La UE advierte a TikTok de una posible prohibición si no cumplen con la ley de Servicios Digitales</a></h4>
     <a href='https://computerhoy.com/apps/ue-advierte-tiktok-posible-prohibicion-no-cumplen-ley-servicios-digitales-1187784' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/tiktok-2934326.jpg?tf=1200x' alt='La UE advierte a TikTok de una posible prohibición si no cumplen con la ley de Servicios Digitales' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/cientificos-crean-parche-capaz-detectar-alzheimer-solo-seis-minutos-1187776'>Científicos crean un parche capaz de detectar el Alzheimer en solo seis minutos</a></h4>
-    <a href='https://computerhoy.com/ciencia/cientificos-crean-parche-capaz-detectar-alzheimer-solo-seis-minutos-1187776' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/mujer-poniendose-parche-piel-2934322.jpg?tf=1200x' alt='Científicos crean un parche capaz de detectar el Alzheimer en solo seis minutos' />
     </a>
 </div>
 
