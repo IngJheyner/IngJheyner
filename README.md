@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/analisis/review-lg-g2-oled-evo-65-lg-hace-brillar-oled-como-nunca-1187020'>Review del LG G2 OLED EVO de 65”: LG hace brillar su OLED como nunca</a></h4>
+    <a href='https://computerhoy.com/analisis/review-lg-g2-oled-evo-65-lg-hace-brillar-oled-como-nunca-1187020' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/lg-g2-oled-evo-65-analisis-opinion-2932692.jpg?tf=1200x' alt='Review del LG G2 OLED EVO de 65”: LG hace brillar su OLED como nunca' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/moviles/samsung-galaxy-a53-merece-pena-pros-contras-1186968'>Samsung Galaxy A53: ¿merece la pena? Pros y contras</a></h4>
     <a href='https://computerhoy.com/moviles/samsung-galaxy-a53-merece-pena-pros-contras-1186968' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/samsung-galaxy-a53-5g-2932418.jpg?tf=1200x' alt='Samsung Galaxy A53: ¿merece la pena? Pros y contras' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/ciencia/misterio-burbuja-leonardo-da-vinci-resuelto-investigador-sevillano-1188028'>El misterio de la Burbuja de Leonardo Da Vinci, resuelto 500 años después por un investigador sevillano</a></h4>
     <a href='https://computerhoy.com/ciencia/misterio-burbuja-leonardo-da-vinci-resuelto-investigador-sevillano-1188028' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/misterio-burbuja-leonardo-da-vinci-resuelto-500-anos-despues-investigador-sevillano-2934588.jpg?tf=1200x' alt='El misterio de la Burbuja de Leonardo Da Vinci, resuelto 500 años después por un investigador sevillano' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/trampa-netflix-plan-anuncios-parezca-atractivo-1188026'>La "trampa" de Netflix para que el plan con anuncios parezca más atractivo</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/trampa-netflix-plan-anuncios-parezca-atractivo-1188026' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/trampa-netflix-plan-anuncios-parezca-atractivo-2934360.jpg?tf=1200x' alt='La "trampa" de Netflix para que el plan con anuncios parezca más atractivo' />
     </a>
 </div>
 
