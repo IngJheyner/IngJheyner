@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/motor/cuidado-te-compras-coche-electrico-estacionas-garaje-tenga-20-anos-1188096'>Cuidado si te compras un coche eléctrico y lo estacionas en un garaje que tenga más de 20 años</a></h4>
+    <a href='https://computerhoy.com/motor/cuidado-te-compras-coche-electrico-estacionas-garaje-tenga-20-anos-1188096' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/garaje-subterraneo-2934740.jpg?tf=1200x' alt='Cuidado si te compras un coche eléctrico y lo estacionas en un garaje que tenga más de 20 años' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/internet/mejores-sitios-web-ver-interesantes-curiosos-mapas-online-1188088'>Los mejores sitios web para ver interesantes y curiosos mapas online</a></h4>
     <a href='https://computerhoy.com/internet/mejores-sitios-web-ver-interesantes-curiosos-mapas-online-1188088' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/mapas-2934734.jpg?tf=1200x' alt='Los mejores sitios web para ver interesantes y curiosos mapas online' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/apps/nuevo-tipo-aplicaciones-ya-admite-android-auto-1188068'>Este es el nuevo tipo de aplicaciones que ya admite Android Auto</a></h4>
     <a href='https://computerhoy.com/apps/nuevo-tipo-aplicaciones-ya-admite-android-auto-1188068' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/android-auto-2922222.jpg?tf=1200x' alt='Este es el nuevo tipo de aplicaciones que ya admite Android Auto' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/reloj-xiaomi-running-oferta-1186946'>Este reloj Xiaomi va a por los Garmin: perfecto para runners y sorprendentemente barato</a></h4>
-    <a href='https://computerhoy.com/tecnologia/reloj-xiaomi-running-oferta-1186946' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/review-xiaomi-watch-s1-active-2687363.jpg?tf=1200x' alt='Este reloj Xiaomi va a por los Garmin: perfecto para runners y sorprendentemente barato' />
     </a>
 </div>
 
