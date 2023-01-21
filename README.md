@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/internet/mejores-sitios-web-ver-interesantes-curiosos-mapas-online-1188088'>Los mejores sitios web para ver interesantes y curiosos mapas online</a></h4>
+    <a href='https://computerhoy.com/internet/mejores-sitios-web-ver-interesantes-curiosos-mapas-online-1188088' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/mapas-2934734.jpg?tf=1200x' alt='Los mejores sitios web para ver interesantes y curiosos mapas online' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/entretenimiento/7-documentales-muy-interesantes-adelantan-como-futuro-nos-espera-1185956'>7 documentales muy interesantes que adelantan cómo es el futuro que nos espera</a></h4>
     <a href='https://computerhoy.com/entretenimiento/7-documentales-muy-interesantes-adelantan-como-futuro-nos-espera-1185956' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/7-documentales-muy-interesantes-adelantan-como-futuro-nos-espera-2930870.jpg?tf=1200x' alt='7 documentales muy interesantes que adelantan cómo es el futuro que nos espera' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/reloj-xiaomi-running-oferta-1186946'>Este reloj Xiaomi va a por los Garmin: perfecto para runners y sorprendentemente barato</a></h4>
     <a href='https://computerhoy.com/tecnologia/reloj-xiaomi-running-oferta-1186946' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/review-xiaomi-watch-s1-active-2687363.jpg?tf=1200x' alt='Este reloj Xiaomi va a por los Garmin: perfecto para runners y sorprendentemente barato' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/review-huawei-watch-gt-3-buen-reloj-deportivo-algo-fuera-agua-1185266'>Análisis del Huawei Watch GT 3 SE, un buen reloj deportivo que está algo fuera del agua</a></h4>
-    <a href='https://computerhoy.com/analisis/review-huawei-watch-gt-3-buen-reloj-deportivo-algo-fuera-agua-1185266' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/analisis-huawei-watch-gt-3-2934160.jpg?tf=1200x' alt='Análisis del Huawei Watch GT 3 SE, un buen reloj deportivo que está algo fuera del agua' />
     </a>
 </div>
 
