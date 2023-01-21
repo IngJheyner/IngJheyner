@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/7-documentales-muy-interesantes-adelantan-como-futuro-nos-espera-1185956'>7 documentales muy interesantes que adelantan cómo es el futuro que nos espera</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/7-documentales-muy-interesantes-adelantan-como-futuro-nos-espera-1185956' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/7-documentales-muy-interesantes-adelantan-como-futuro-nos-espera-2930870.jpg?tf=1200x' alt='7 documentales muy interesantes que adelantan cómo es el futuro que nos espera' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/frase-steve-jobs-inspirar-equipo-fabricar-mejores-dispositivos-mercado-1188074'>La frase de Steve Jobs para inspirar a su equipo a fabricar los mejores dispositivos del mercado</a></h4>
+    <a href='https://computerhoy.com/apple/frase-steve-jobs-inspirar-equipo-fabricar-mejores-dispositivos-mercado-1188074' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/steve-jobs-2885457.jpg?tf=1200x' alt='La frase de Steve Jobs para inspirar a su equipo a fabricar los mejores dispositivos del mercado' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/nuevo-tipo-aplicaciones-ya-admite-android-auto-1188068'>Este es el nuevo tipo de aplicaciones que ya admite Android Auto</a></h4>
+    <a href='https://computerhoy.com/apps/nuevo-tipo-aplicaciones-ya-admite-android-auto-1188068' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/android-auto-2922222.jpg?tf=1200x' alt='Este es el nuevo tipo de aplicaciones que ya admite Android Auto' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/reloj-xiaomi-running-oferta-1186946'>Este reloj Xiaomi va a por los Garmin: perfecto para runners y sorprendentemente barato</a></h4>
     <a href='https://computerhoy.com/tecnologia/reloj-xiaomi-running-oferta-1186946' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/review-xiaomi-watch-s1-active-2687363.jpg?tf=1200x' alt='Este reloj Xiaomi va a por los Garmin: perfecto para runners y sorprendentemente barato' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/analisis/review-huawei-watch-gt-3-buen-reloj-deportivo-algo-fuera-agua-1185266'>Análisis del Huawei Watch GT 3 SE, un buen reloj deportivo que está algo fuera del agua</a></h4>
     <a href='https://computerhoy.com/analisis/review-huawei-watch-gt-3-buen-reloj-deportivo-algo-fuera-agua-1185266' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/analisis-huawei-watch-gt-3-2934160.jpg?tf=1200x' alt='Análisis del Huawei Watch GT 3 SE, un buen reloj deportivo que está algo fuera del agua' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-imprimir-smartphone-android-1185134'>Cómo imprimir desde tu smartphone Android</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-imprimir-smartphone-android-1185134' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/imprimir-movil-2929194.jpg?tf=1200x' alt='Cómo imprimir desde tu smartphone Android' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/robotaxi-cuando-veremos-circular-calles-1174546'>¿Qué es un robotaxi y cuándo los veremos circular por las calles?</a></h4>
-    <a href='https://computerhoy.com/tecnologia/robotaxi-cuando-veremos-circular-calles-1174546' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/verticalimage1674237192332-2934298.jpg?tf=1200x' alt='¿Qué es un robotaxi y cuándo los veremos circular por las calles?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/review-lg-g2-oled-evo-65-lg-hace-brillar-oled-como-nunca-1187020'>Review del LG G2 OLED EVO de 65”: LG hace brillar su OLED como nunca</a></h4>
-    <a href='https://computerhoy.com/analisis/review-lg-g2-oled-evo-65-lg-hace-brillar-oled-como-nunca-1187020' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/lg-g2-oled-evo-65-analisis-opinion-2932692.jpg?tf=1200x' alt='Review del LG G2 OLED EVO de 65”: LG hace brillar su OLED como nunca' />
     </a>
 </div>
 
