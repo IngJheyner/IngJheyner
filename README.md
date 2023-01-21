@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-imprimir-smartphone-android-1185134'>Cómo imprimir desde tu smartphone Android</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-imprimir-smartphone-android-1185134' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/imprimir-movil-2929194.jpg?tf=1200x' alt='Cómo imprimir desde tu smartphone Android' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/robotaxi-cuando-veremos-circular-calles-1174546'>¿Qué es un robotaxi y cuándo los veremos circular por las calles?</a></h4>
     <a href='https://computerhoy.com/tecnologia/robotaxi-cuando-veremos-circular-calles-1174546' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/verticalimage1674237192332-2934298.jpg?tf=1200x' alt='¿Qué es un robotaxi y cuándo los veremos circular por las calles?' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/tinta-electronica-nueva-fiebre-oro-tecnologica-nos-acerca-analogico-1185832'>Tinta electrónica, la nueva fiebre del oro tecnológica que nos acerca a lo analógico</a></h4>
     <a href='https://computerhoy.com/tecnologia/tinta-electronica-nueva-fiebre-oro-tecnologica-nos-acerca-analogico-1185832' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/desembarco-productos-amazon-kindle-scribe-halo-rise-echo-auto-2-gen-nuevos-echo-dot-reloj-2827481.jpg?tf=1200x' alt='Tinta electrónica, la nueva fiebre del oro tecnológica que nos acerca a lo analógico' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/estos-portatiles-vienen-linux-preinstalado-son-forma-ahorrarte-bastante-dinero-1169280'>Estos portátiles vienen con Linux preinstalado y son una forma de ahorrarte bastante dinero</a></h4>
-    <a href='https://computerhoy.com/pc/estos-portatiles-vienen-linux-preinstalado-son-forma-ahorrarte-bastante-dinero-1169280' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/portatil-dell-2900404.jpg?tf=1200x' alt='Estos portátiles vienen con Linux preinstalado y son una forma de ahorrarte bastante dinero' />
     </a>
 </div>
 
