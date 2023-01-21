@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/energia/generador-portatil-descuento-barato-1187778'>Este generador portátil es el respaldo que necesitas llevar siempre encima, y sorprendentemente barato</a></h4>
+    <a href='https://computerhoy.com/energia/generador-portatil-descuento-barato-1187778' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/generador-portatil-respaldo-necesitas-llevar-siempre-encima-sorprendentemente-barato-2934318.jpg?tf=1200x' alt='Este generador portátil es el respaldo que necesitas llevar siempre encima, y sorprendentemente barato' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/moviles/filtra-nuevo-integrante-familia-xiaomi-redmi-note-12-estas-serian-especificaciones-1188134'>Se filtra un nuevo integrante de la familia Xiaomi Redmi Note 12 y estas serían sus especificaciones</a></h4>
     <a href='https://computerhoy.com/moviles/filtra-nuevo-integrante-familia-xiaomi-redmi-note-12-estas-serian-especificaciones-1188134' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/redmi-note-11-pro-2659485.jpg?tf=1200x' alt='Se filtra un nuevo integrante de la familia Xiaomi Redmi Note 12 y estas serían sus especificaciones' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tutoriales/como-sacar-dinero-cajero-movil-no-llevas-tarjeta-encima-1186326'>Cómo sacar dinero de un cajero con tu móvil si no llevas tu tarjeta encima</a></h4>
     <a href='https://computerhoy.com/tutoriales/como-sacar-dinero-cajero-movil-no-llevas-tarjeta-encima-1186326' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/smartphone-cajero-2931202.jpg?tf=1200x' alt='Cómo sacar dinero de un cajero con tu móvil si no llevas tu tarjeta encima' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/7-herramientas-edicion-ofrece-tiktok-son-indispensables-triunfar-1188106'>7 herramientas de edición que ofrece TikTok y que son indispensables para triunfar</a></h4>
-    <a href='https://computerhoy.com/apps/7-herramientas-edicion-ofrece-tiktok-son-indispensables-triunfar-1188106' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/tiktok-2934758.jpg?tf=1200x' alt='7 herramientas de edición que ofrece TikTok y que son indispensables para triunfar' />
     </a>
 </div>
 
