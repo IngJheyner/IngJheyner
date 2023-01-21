@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/reloj-xiaomi-running-oferta-1186946'>Este reloj Xiaomi va a por los Garmin: perfecto para runners y sorprendentemente barato</a></h4>
+    <a href='https://computerhoy.com/tecnologia/reloj-xiaomi-running-oferta-1186946' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/review-xiaomi-watch-s1-active-2687363.jpg?tf=1200x' alt='Este reloj Xiaomi va a por los Garmin: perfecto para runners y sorprendentemente barato' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/analisis/review-huawei-watch-gt-3-buen-reloj-deportivo-algo-fuera-agua-1185266'>Análisis del Huawei Watch GT 3 SE, un buen reloj deportivo que está algo fuera del agua</a></h4>
+    <a href='https://computerhoy.com/analisis/review-huawei-watch-gt-3-buen-reloj-deportivo-algo-fuera-agua-1185266' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/analisis-huawei-watch-gt-3-2934160.jpg?tf=1200x' alt='Análisis del Huawei Watch GT 3 SE, un buen reloj deportivo que está algo fuera del agua' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tutoriales/como-imprimir-smartphone-android-1185134'>Cómo imprimir desde tu smartphone Android</a></h4>
     <a href='https://computerhoy.com/tutoriales/como-imprimir-smartphone-android-1185134' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/imprimir-movil-2929194.jpg?tf=1200x' alt='Cómo imprimir desde tu smartphone Android' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/analisis/review-lg-g2-oled-evo-65-lg-hace-brillar-oled-como-nunca-1187020'>Review del LG G2 OLED EVO de 65”: LG hace brillar su OLED como nunca</a></h4>
     <a href='https://computerhoy.com/analisis/review-lg-g2-oled-evo-65-lg-hace-brillar-oled-como-nunca-1187020' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/lg-g2-oled-evo-65-analisis-opinion-2932692.jpg?tf=1200x' alt='Review del LG G2 OLED EVO de 65”: LG hace brillar su OLED como nunca' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/samsung-galaxy-a53-merece-pena-pros-contras-1186968'>Samsung Galaxy A53: ¿merece la pena? Pros y contras</a></h4>
-    <a href='https://computerhoy.com/moviles/samsung-galaxy-a53-merece-pena-pros-contras-1186968' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/samsung-galaxy-a53-5g-2932418.jpg?tf=1200x' alt='Samsung Galaxy A53: ¿merece la pena? Pros y contras' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/tinta-electronica-nueva-fiebre-oro-tecnologica-nos-acerca-analogico-1185832'>Tinta electrónica, la nueva fiebre del oro tecnológica que nos acerca a lo analógico</a></h4>
-    <a href='https://computerhoy.com/tecnologia/tinta-electronica-nueva-fiebre-oro-tecnologica-nos-acerca-analogico-1185832' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/desembarco-productos-amazon-kindle-scribe-halo-rise-echo-auto-2-gen-nuevos-echo-dot-reloj-2827481.jpg?tf=1200x' alt='Tinta electrónica, la nueva fiebre del oro tecnológica que nos acerca a lo analógico' />
     </a>
 </div>
 
