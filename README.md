@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/robotaxi-cuando-veremos-circular-calles-1174546'>¿Qué es un robotaxi y cuándo los veremos circular por las calles?</a></h4>
+    <a href='https://computerhoy.com/tecnologia/robotaxi-cuando-veremos-circular-calles-1174546' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/verticalimage1674237192332-2934298.jpg?tf=1200x' alt='¿Qué es un robotaxi y cuándo los veremos circular por las calles?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/analisis/review-lg-g2-oled-evo-65-lg-hace-brillar-oled-como-nunca-1187020'>Review del LG G2 OLED EVO de 65”: LG hace brillar su OLED como nunca</a></h4>
     <a href='https://computerhoy.com/analisis/review-lg-g2-oled-evo-65-lg-hace-brillar-oled-como-nunca-1187020' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/lg-g2-oled-evo-65-analisis-opinion-2932692.jpg?tf=1200x' alt='Review del LG G2 OLED EVO de 65”: LG hace brillar su OLED como nunca' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/pc/estos-portatiles-vienen-linux-preinstalado-son-forma-ahorrarte-bastante-dinero-1169280'>Estos portátiles vienen con Linux preinstalado y son una forma de ahorrarte bastante dinero</a></h4>
     <a href='https://computerhoy.com/pc/estos-portatiles-vienen-linux-preinstalado-son-forma-ahorrarte-bastante-dinero-1169280' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/portatil-dell-2900404.jpg?tf=1200x' alt='Estos portátiles vienen con Linux preinstalado y son una forma de ahorrarte bastante dinero' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/misterio-burbuja-leonardo-da-vinci-resuelto-investigador-sevillano-1188028'>El misterio de la Burbuja de Leonardo Da Vinci, resuelto 500 años después por un investigador sevillano</a></h4>
-    <a href='https://computerhoy.com/ciencia/misterio-burbuja-leonardo-da-vinci-resuelto-investigador-sevillano-1188028' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/misterio-burbuja-leonardo-da-vinci-resuelto-500-anos-despues-investigador-sevillano-2934588.jpg?tf=1200x' alt='El misterio de la Burbuja de Leonardo Da Vinci, resuelto 500 años después por un investigador sevillano' />
     </a>
 </div>
 
