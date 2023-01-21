@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/moviles/samsung-galaxy-a53-merece-pena-pros-contras-1186968'>Samsung Galaxy A53: ¿merece la pena? Pros y contras</a></h4>
+    <a href='https://computerhoy.com/moviles/samsung-galaxy-a53-merece-pena-pros-contras-1186968' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/samsung-galaxy-a53-5g-2932418.jpg?tf=1200x' alt='Samsung Galaxy A53: ¿merece la pena? Pros y contras' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/tinta-electronica-nueva-fiebre-oro-tecnologica-nos-acerca-analogico-1185832'>Tinta electrónica, la nueva fiebre del oro tecnológica que nos acerca a lo analógico</a></h4>
     <a href='https://computerhoy.com/tecnologia/tinta-electronica-nueva-fiebre-oro-tecnologica-nos-acerca-analogico-1185832' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/desembarco-productos-amazon-kindle-scribe-halo-rise-echo-auto-2-gen-nuevos-echo-dot-reloj-2827481.jpg?tf=1200x' alt='Tinta electrónica, la nueva fiebre del oro tecnológica que nos acerca a lo analógico' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/entretenimiento/trampa-netflix-plan-anuncios-parezca-atractivo-1188026'>La "trampa" de Netflix para que el plan con anuncios parezca más atractivo</a></h4>
     <a href='https://computerhoy.com/entretenimiento/trampa-netflix-plan-anuncios-parezca-atractivo-1188026' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/trampa-netflix-plan-anuncios-parezca-atractivo-2934360.jpg?tf=1200x' alt='La "trampa" de Netflix para que el plan con anuncios parezca más atractivo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/google-despide-12000-empleados-une-amazon-microsoft-1187800'>Google despide a 12.000 empleados, y se une a Amazon y Microsoft</a></h4>
-    <a href='https://computerhoy.com/google/google-despide-12000-empleados-une-amazon-microsoft-1187800' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/google-despide-12000-empleados-une-amazon-microsoft-2934352.jpg?tf=1200x' alt='Google despide a 12.000 empleados, y se une a Amazon y Microsoft' />
     </a>
 </div>
 
