@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/inteligencia-artificial-midjourney-fotos-fiesta-inquietante-1187542'>Una IA crea fotos de una fiesta perfecta con personas que no existen, pero tienen algo inquietante</a></h4>
+    <a href='https://computerhoy.com/tecnologia/inteligencia-artificial-midjourney-fotos-fiesta-inquietante-1187542' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/ia-crea-fotos-fiesta-personas-no-existen-pero-tienen-algo-inquietante-2933384.jpg?tf=1200x' alt='Una IA crea fotos de una fiesta perfecta con personas que no existen, pero tienen algo inquietante' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/energia/generador-portatil-descuento-barato-1187778'>Este generador portátil es el respaldo que necesitas llevar siempre encima, y sorprendentemente barato</a></h4>
     <a href='https://computerhoy.com/energia/generador-portatil-descuento-barato-1187778' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/generador-portatil-respaldo-necesitas-llevar-siempre-encima-sorprendentemente-barato-2934318.jpg?tf=1200x' alt='Este generador portátil es el respaldo que necesitas llevar siempre encima, y sorprendentemente barato' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/streaming/netflix-no-descarta-plan-totalmente-gratuito-publicidad-seguiria-modelo-concreto-1188108'>Netflix no descarta un plan totalmente gratuito con publicidad: seguiría este modelo concreto</a></h4>
     <a href='https://computerhoy.com/streaming/netflix-no-descarta-plan-totalmente-gratuito-publicidad-seguiria-modelo-concreto-1188108' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/netflix-2702229.jpg?tf=1200x' alt='Netflix no descarta un plan totalmente gratuito con publicidad: seguiría este modelo concreto' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-sacar-dinero-cajero-movil-no-llevas-tarjeta-encima-1186326'>Cómo sacar dinero de un cajero con tu móvil si no llevas tu tarjeta encima</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-sacar-dinero-cajero-movil-no-llevas-tarjeta-encima-1186326' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/smartphone-cajero-2931202.jpg?tf=1200x' alt='Cómo sacar dinero de un cajero con tu móvil si no llevas tu tarjeta encima' />
     </a>
 </div>
 
