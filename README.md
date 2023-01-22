@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/windows/bloc-notas-windows-11-solapas-pestanas-1188446'>El Bloc de Notas de Windows al fin recibe una mejora muy esperada</a></h4>
+    <a href='https://computerhoy.com/windows/bloc-notas-windows-11-solapas-pestanas-1188446' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/bloc-notas-windows-fin-recibe-mejora-muy-esperada-2935320.jpg?tf=1200x' alt='El Bloc de Notas de Windows al fin recibe una mejora muy esperada' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/energia/instituto-massachusetts-ano-medio-luces-inteligentes-encendidas-24-horas-no-pueden-apagarlas-1188436'>Un instituto de Massachusetts lleva año y medio con las luces inteligentes encendidas las 24 horas, porque no pueden apagarlas</a></h4>
     <a href='https://computerhoy.com/energia/instituto-massachusetts-ano-medio-luces-inteligentes-encendidas-24-horas-no-pueden-apagarlas-1188436' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/instituto-massachusetts-lleva-ano-medio-luces-inteligentes-encendidas-24-horas-porque-no-pueden-apagarlas-2935286.jpg?tf=1200x' alt='Un instituto de Massachusetts lleva año y medio con las luces inteligentes encendidas las 24 horas, porque no pueden apagarlas' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/robotor-one-robot-escultor-video-1188420'>Robotor One, el robot escultor que quiere competir con Miguel Ángel (vídeo)</a></h4>
     <a href='https://computerhoy.com/tecnologia/robotor-one-robot-escultor-video-1188420' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/verticalimage1674398707484-2935276.jpg?tf=1200x' alt='Robotor One, el robot escultor que quiere competir con Miguel Ángel (vídeo)' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/investigadores-fabrican-ropa-mata-virus-contacto-1188408'>Investigadores fabrican ropa que mata virus al contacto</a></h4>
-    <a href='https://computerhoy.com/ciencia/investigadores-fabrican-ropa-mata-virus-contacto-1188408' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/uniforme-bombero-2935218.jpg?tf=1200x' alt='Investigadores fabrican ropa que mata virus al contacto' />
     </a>
 </div>
 
