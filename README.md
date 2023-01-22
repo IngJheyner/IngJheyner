@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/robotor-one-robot-escultor-video-1188420'>Robotor One, el robot escultor que quiere competir con Miguel Ángel (vídeo)</a></h4>
+    <a href='https://computerhoy.com/tecnologia/robotor-one-robot-escultor-video-1188420' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/verticalimage1674398707484-2935276.jpg?tf=1200x' alt='Robotor One, el robot escultor que quiere competir con Miguel Ángel (vídeo)' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciencia/investigadores-fabrican-ropa-mata-virus-contacto-1188408'>Investigadores fabrican ropa que mata virus al contacto</a></h4>
     <a href='https://computerhoy.com/ciencia/investigadores-fabrican-ropa-mata-virus-contacto-1188408' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/uniforme-bombero-2935218.jpg?tf=1200x' alt='Investigadores fabrican ropa que mata virus al contacto' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/entretenimiento/7-peliculas-asiaticas-tienes-disponibles-netflix-prime-video-hbo-max-apple-tv-filmin-1185958'>7 películas asiáticas que tienes disponibles en Netflix, Prime Video, HBO Max, Apple TV+ y Filmin</a></h4>
     <a href='https://computerhoy.com/entretenimiento/7-peliculas-asiaticas-tienes-disponibles-netflix-prime-video-hbo-max-apple-tv-filmin-1185958' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/minari-2930836.jpg?tf=1200x' alt='7 películas asiáticas que tienes disponibles en Netflix, Prime Video, HBO Max, Apple TV+ y Filmin' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/elon-musk-anuncia-twitter-lanzara-suscripcion-pago-anuncios-cara-twitter-blue-1188384'>Elon Musk anuncia que Twitter lanzará una suscripción de pago sin anuncios, y más cara que Twitter Blue</a></h4>
-    <a href='https://computerhoy.com/apps/elon-musk-anuncia-twitter-lanzara-suscripcion-pago-anuncios-cara-twitter-blue-1188384' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/estas-son-algunas-mejores-opciones-ser-nuevo-ceo-twitter-elon-musk-quiere-salvar-red-social-2929310.jpg?tf=1200x' alt='Elon Musk anuncia que Twitter lanzará una suscripción de pago sin anuncios, y más cara que Twitter Blue' />
     </a>
 </div>
 
