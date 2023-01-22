@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-encontrar-direccion-mac-windows-11-mac-os-moviles-android-apple-1187630'>Cómo encontrar la dirección MAC en Windows 11, Mac OS y móviles Android y Apple</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-encontrar-direccion-mac-windows-11-mac-os-moviles-android-apple-1187630' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/mac-2933472.jpg?tf=1200x' alt='Cómo encontrar la dirección MAC en Windows 11, Mac OS y móviles Android y Apple' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/primer-ministro-reino-unido-rishi-sunak-multa-video-instagram-cinturon-seguridad-1188428'>El primer ministro del Reino Unido es multado por subir un vídeo a Instagram en donde comete una infracción</a></h4>
+    <a href='https://computerhoy.com/life/primer-ministro-reino-unido-rishi-sunak-multa-video-instagram-cinturon-seguridad-1188428' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/primer-ministro-reino-unido-multado-subir-video-instagram-donde-comete-infraccion-2935280.jpg?tf=1200x' alt='El primer ministro del Reino Unido es multado por subir un vídeo a Instagram en donde comete una infracción' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/robotor-one-robot-escultor-video-1188420'>Robotor One, el robot escultor que quiere competir con Miguel Ángel (vídeo)</a></h4>
     <a href='https://computerhoy.com/tecnologia/robotor-one-robot-escultor-video-1188420' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/verticalimage1674398707484-2935276.jpg?tf=1200x' alt='Robotor One, el robot escultor que quiere competir con Miguel Ángel (vídeo)' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/android/aparece-misterioso-error-signo-exclamacion-android-auto-86-solucion-1188396'>Aparece un misterioso error con signo de exclamación en Android Auto 8.6, y esta es la solución</a></h4>
     <a href='https://computerhoy.com/android/aparece-misterioso-error-signo-exclamacion-android-auto-86-solucion-1188396' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/android-auto-2700725.jpg?tf=1200x' alt='Aparece un misterioso error con signo de exclamación en Android Auto 8.6, y esta es la solución' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/estudio-desvela-inesperadas-canciones-te-ayudaran-dormirte-muy-rapido-1188388'>Un estudio desvela las inesperadas canciones que te ayudarán a dormirte muy rápido</a></h4>
-    <a href='https://computerhoy.com/life/estudio-desvela-inesperadas-canciones-te-ayudaran-dormirte-muy-rapido-1188388' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/mujer-duerme-escuchando-musica-2935162.jpg?tf=1200x' alt='Un estudio desvela las inesperadas canciones que te ayudarán a dormirte muy rápido' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/7-peliculas-asiaticas-tienes-disponibles-netflix-prime-video-hbo-max-apple-tv-filmin-1185958'>7 películas asiáticas que tienes disponibles en Netflix, Prime Video, HBO Max, Apple TV+ y Filmin</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/7-peliculas-asiaticas-tienes-disponibles-netflix-prime-video-hbo-max-apple-tv-filmin-1185958' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/minari-2930836.jpg?tf=1200x' alt='7 películas asiáticas que tienes disponibles en Netflix, Prime Video, HBO Max, Apple TV+ y Filmin' />
     </a>
 </div>
 
