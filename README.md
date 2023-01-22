@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/7-curiosidades-gigafactorias-tesla-elon-musk-quiza-no-sabias-1184234'>7 curiosidades sobre las "Gigafactorías" Tesla de Elon Musk que quizá no sabías </a></h4>
+    <a href='https://computerhoy.com/tecnologia/7-curiosidades-gigafactorias-tesla-elon-musk-quiza-no-sabias-1184234' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/7-curiosidades-gigafactorias-tesla-elon-musk-no-sabias-2931930.jpg?tf=1200x' alt='7 curiosidades sobre las "Gigafactorías" Tesla de Elon Musk que quizá no sabías ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tutoriales/como-usar-misma-cuenta-whatsapp-dos-smartphones-android-vez-1186938'>Cómo usar la misma cuenta de WhatsApp en dos smartphones Android a la vez</a></h4>
     <a href='https://computerhoy.com/tutoriales/como-usar-misma-cuenta-whatsapp-dos-smartphones-android-vez-1186938' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/dos-whatsapp-2932216.jpg?tf=1200x' alt='Cómo usar la misma cuenta de WhatsApp en dos smartphones Android a la vez' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/nueva-carga-inalambrica-qi2-1185224'>¿Qué es la nueva carga inalámbrica Qi2?</a></h4>
     <a href='https://computerhoy.com/tecnologia/nueva-carga-inalambrica-qi2-1185224' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/movil-carga-inalambrica-2929350.jpg?tf=1200x' alt='¿Qué es la nueva carga inalámbrica Qi2?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-tablets-potentes-como-portatil-948033'>5 tablets que son tan potentes como un ordenador portátil</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-tablets-potentes-como-portatil-948033' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/analisis-ipad-pro-m2-2022-2875559.jpg?tf=1200x' alt='5 tablets que son tan potentes como un ordenador portátil' />
     </a>
 </div>
 
