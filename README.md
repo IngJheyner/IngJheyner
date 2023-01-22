@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/espacio/detectan-senal-radio-galaxia-lejana-8800-millones-anos-luz-1188462'>Detectan una señal de radio de la galaxia más lejana jamás captada desde la Tierra, a 8.800 millones de años luz</a></h4>
+    <a href='https://computerhoy.com/espacio/detectan-senal-radio-galaxia-lejana-8800-millones-anos-luz-1188462' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/detectan-senal-radio-galaxia-lejana-jamas-conocida-8800-millones-anos-luz-tierra-2935360.jpg?tf=1200x' alt='Detectan una señal de radio de la galaxia más lejana jamás captada desde la Tierra, a 8.800 millones de años luz' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/windows/bloc-notas-windows-11-solapas-pestanas-1188446'>El Bloc de Notas de Windows al fin recibe una mejora muy esperada</a></h4>
     <a href='https://computerhoy.com/windows/bloc-notas-windows-11-solapas-pestanas-1188446' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/bloc-notas-windows-fin-recibe-mejora-muy-esperada-2935320.jpg?tf=1200x' alt='El Bloc de Notas de Windows al fin recibe una mejora muy esperada' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/life/primer-ministro-reino-unido-rishi-sunak-multa-video-instagram-cinturon-seguridad-1188428'>El primer ministro del Reino Unido es multado por subir un vídeo a Instagram en donde comete una infracción</a></h4>
     <a href='https://computerhoy.com/life/primer-ministro-reino-unido-rishi-sunak-multa-video-instagram-cinturon-seguridad-1188428' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/primer-ministro-reino-unido-multado-subir-video-instagram-donde-comete-infraccion-2935280.jpg?tf=1200x' alt='El primer ministro del Reino Unido es multado por subir un vídeo a Instagram en donde comete una infracción' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/robotor-one-robot-escultor-video-1188420'>Robotor One, el robot escultor que quiere competir con Miguel Ángel (vídeo)</a></h4>
-    <a href='https://computerhoy.com/tecnologia/robotor-one-robot-escultor-video-1188420' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/verticalimage1674398707484-2935276.jpg?tf=1200x' alt='Robotor One, el robot escultor que quiere competir con Miguel Ángel (vídeo)' />
     </a>
 </div>
 
