@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/analisis/bose-quietcomfort-earbuds-ii-review-1188024'>Bose QuietComfort Earbuds II, mejoran en cancelación de ruido pero no en experiencia de uso</a></h4>
+    <a href='https://computerhoy.com/analisis/bose-quietcomfort-earbuds-ii-review-1188024' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/bose-quietcomfort-earbuds-ii-analisis-opinion-2934840.jpg?tf=1200x' alt='Bose QuietComfort Earbuds II, mejoran en cancelación de ruido pero no en experiencia de uso' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/deep-web-sirve-peligros-como-entrar-internet-oscura-1184548'>Deep Web: qué es, para qué sirve, peligros y cómo entrar en la Internet Oscura</a></h4>
+    <a href='https://computerhoy.com/tecnologia/deep-web-sirve-peligros-como-entrar-internet-oscura-1184548' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/deep-web-2932640.jpg?tf=1200x' alt='Deep Web: qué es, para qué sirve, peligros y cómo entrar en la Internet Oscura' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/nueva-carga-inalambrica-qi2-1185224'>¿Qué es la nueva carga inalámbrica Qi2?</a></h4>
     <a href='https://computerhoy.com/tecnologia/nueva-carga-inalambrica-qi2-1185224' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/movil-carga-inalambrica-2929350.jpg?tf=1200x' alt='¿Qué es la nueva carga inalámbrica Qi2?' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/ciencia/cientificos-crean-alarma-electronica-suena-cada-vez-te-distraes-ayuda-concentrarse-1188130'>Científicos crean una alarma electrónica que suena cada vez que te distraes y que ayuda a concentrarse</a></h4>
     <a href='https://computerhoy.com/ciencia/cientificos-crean-alarma-electronica-suena-cada-vez-te-distraes-ayuda-concentrarse-1188130' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/hombre-concentrado-2934846.jpg?tf=1200x' alt='Científicos crean una alarma electrónica que suena cada vez que te distraes y que ayuda a concentrarse' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/visibilidad-estrellas-cielo-nocturno-disminuyendo-contaminacion-luminica-1188126'>La visibilidad de las estrellas en el cielo nocturno está disminuyendo por la contaminación lumínica</a></h4>
-    <a href='https://computerhoy.com/life/visibilidad-estrellas-cielo-nocturno-disminuyendo-contaminacion-luminica-1188126' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/cielo-nocturno-2934844.jpg?tf=1200x' alt='La visibilidad de las estrellas en el cielo nocturno está disminuyendo por la contaminación lumínica' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/energia/minas-abandonadas-convertidas-baterias-gravedad-producir-electricidad-1187596'>Proponen un nuevo uso para las minas abandonadas: convertirlas en baterías de gravedad para producir electricidad</a></h4>
-    <a href='https://computerhoy.com/energia/minas-abandonadas-convertidas-baterias-gravedad-producir-electricidad-1187596' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/proponen-nuevo-uso-minas-abandonadas-convertirlas-baterias-gravedad-2933440.jpg?tf=1200x' alt='Proponen un nuevo uso para las minas abandonadas: convertirlas en baterías de gravedad para producir electricidad' />
     </a>
 </div>
 
