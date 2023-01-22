@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/investigadores-fabrican-ropa-mata-virus-contacto-1188408'>Investigadores fabrican ropa que mata virus al contacto</a></h4>
+    <a href='https://computerhoy.com/ciencia/investigadores-fabrican-ropa-mata-virus-contacto-1188408' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/uniforme-bombero-2935218.jpg?tf=1200x' alt='Investigadores fabrican ropa que mata virus al contacto' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/android/aparece-misterioso-error-signo-exclamacion-android-auto-86-solucion-1188396'>Aparece un misterioso error con signo de exclamación en Android Auto 8.6, y esta es la solución</a></h4>
+    <a href='https://computerhoy.com/android/aparece-misterioso-error-signo-exclamacion-android-auto-86-solucion-1188396' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/android-auto-2700725.jpg?tf=1200x' alt='Aparece un misterioso error con signo de exclamación en Android Auto 8.6, y esta es la solución' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/estudio-desvela-inesperadas-canciones-te-ayudaran-dormirte-muy-rapido-1188388'>Un estudio desvela las inesperadas canciones que te ayudarán a dormirte muy rápido</a></h4>
     <a href='https://computerhoy.com/life/estudio-desvela-inesperadas-canciones-te-ayudaran-dormirte-muy-rapido-1188388' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/mujer-duerme-escuchando-musica-2935162.jpg?tf=1200x' alt='Un estudio desvela las inesperadas canciones que te ayudarán a dormirte muy rápido' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/apps/elon-musk-anuncia-twitter-lanzara-suscripcion-pago-anuncios-cara-twitter-blue-1188384'>Elon Musk anuncia que Twitter lanzará una suscripción de pago sin anuncios, y más cara que Twitter Blue</a></h4>
     <a href='https://computerhoy.com/apps/elon-musk-anuncia-twitter-lanzara-suscripcion-pago-anuncios-cara-twitter-blue-1188384' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/estas-son-algunas-mejores-opciones-ser-nuevo-ceo-twitter-elon-musk-quiere-salvar-red-social-2929310.jpg?tf=1200x' alt='Elon Musk anuncia que Twitter lanzará una suscripción de pago sin anuncios, y más cara que Twitter Blue' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/5-diferencias-cuenta-local-cuenta-microsoft-windows-11-1187006'>Las 5 diferencias entre Cuenta local o Cuenta de Microsoft en Windows 11</a></h4>
-    <a href='https://computerhoy.com/tecnologia/5-diferencias-cuenta-local-cuenta-microsoft-windows-11-1187006' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/windows-11-2932488.jpg?tf=1200x' alt='Las 5 diferencias entre Cuenta local o Cuenta de Microsoft en Windows 11' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/estos-serian-cambios-diseno-iphone-15-biseles-delgados-bordes-curvos-1188374'>Estos serían los cambios de diseño del iPhone 15: biseles más delgados y bordes curvos</a></h4>
-    <a href='https://computerhoy.com/moviles/estos-serian-cambios-diseno-iphone-15-biseles-delgados-bordes-curvos-1188374' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/apple-iphone-14-plus-analisis-opinion-2857683.jpg?tf=1200x' alt='Estos serían los cambios de diseño del iPhone 15: biseles más delgados y bordes curvos' />
     </a>
 </div>
 
