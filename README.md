@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/visibilidad-estrellas-cielo-nocturno-disminuyendo-contaminacion-luminica-1188126'>La visibilidad de las estrellas en el cielo nocturno está disminuyendo por la contaminación lumínica</a></h4>
+    <a href='https://computerhoy.com/life/visibilidad-estrellas-cielo-nocturno-disminuyendo-contaminacion-luminica-1188126' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/cielo-nocturno-2934844.jpg?tf=1200x' alt='La visibilidad de las estrellas en el cielo nocturno está disminuyendo por la contaminación lumínica' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/energia/minas-abandonadas-convertidas-baterias-gravedad-producir-electricidad-1187596'>Proponen un nuevo uso para las minas abandonadas: convertirlas en baterías de gravedad para producir electricidad</a></h4>
+    <a href='https://computerhoy.com/energia/minas-abandonadas-convertidas-baterias-gravedad-producir-electricidad-1187596' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/proponen-nuevo-uso-minas-abandonadas-convertirlas-baterias-gravedad-2933440.jpg?tf=1200x' alt='Proponen un nuevo uso para las minas abandonadas: convertirlas en baterías de gravedad para producir electricidad' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-routers-wifi-mesh-comprar-797675'>Estos son los cinco mejores routers con WiFi Mesh de 2023</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-routers-wifi-mesh-comprar-797675' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/routers-malla-netgear-orbi-ax5700-2932812.jpg?tf=1200x' alt='Estos son los cinco mejores routers con WiFi Mesh de 2023' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/inteligencia-artificial-midjourney-fotos-fiesta-inquietante-1187542'>Una IA crea fotos de una fiesta perfecta con personas que no existen, pero tienen algo inquietante</a></h4>
     <a href='https://computerhoy.com/tecnologia/inteligencia-artificial-midjourney-fotos-fiesta-inquietante-1187542' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/ia-crea-fotos-fiesta-personas-no-existen-pero-tienen-algo-inquietante-2933384.jpg?tf=1200x' alt='Una IA crea fotos de una fiesta perfecta con personas que no existen, pero tienen algo inquietante' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/energia/generador-portatil-descuento-barato-1187778'>Este generador portátil es el respaldo que necesitas llevar siempre encima, y es sorprendentemente barato</a></h4>
     <a href='https://computerhoy.com/energia/generador-portatil-descuento-barato-1187778' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/generador-portatil-respaldo-necesitas-llevar-siempre-encima-sorprendentemente-barato-2934318.jpg?tf=1200x' alt='Este generador portátil es el respaldo que necesitas llevar siempre encima, y es sorprendentemente barato' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/filtra-nuevo-integrante-familia-xiaomi-redmi-note-12-estas-serian-especificaciones-1188134'>Se filtra un nuevo integrante de la familia Xiaomi Redmi Note 12 y estas serían sus especificaciones</a></h4>
-    <a href='https://computerhoy.com/moviles/filtra-nuevo-integrante-familia-xiaomi-redmi-note-12-estas-serian-especificaciones-1188134' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/redmi-note-11-pro-2659485.jpg?tf=1200x' alt='Se filtra un nuevo integrante de la familia Xiaomi Redmi Note 12 y estas serían sus especificaciones' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/iniciar-sesion-hotmail-como-acceder-tu-cuenta-correo-274343'>Cómo iniciar sesión en tu correo de Hotmail en 2023</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/iniciar-sesion-hotmail-como-acceder-tu-cuenta-correo-274343' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/hotmail-outlook-2218535.jpg?tf=1200x' alt='Cómo iniciar sesión en tu correo de Hotmail en 2023' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/streaming/netflix-no-descarta-plan-totalmente-gratuito-publicidad-seguiria-modelo-concreto-1188108'>Netflix no descarta un plan totalmente gratuito con publicidad: seguiría este modelo concreto</a></h4>
-    <a href='https://computerhoy.com/streaming/netflix-no-descarta-plan-totalmente-gratuito-publicidad-seguiria-modelo-concreto-1188108' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/netflix-2702229.jpg?tf=1200x' alt='Netflix no descarta un plan totalmente gratuito con publicidad: seguiría este modelo concreto' />
     </a>
 </div>
 
