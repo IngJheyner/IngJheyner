@@ -58,9 +58,9 @@
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/energia/generador-portatil-descuento-barato-1187778'>Este generador portátil es el respaldo que necesitas llevar siempre encima, y sorprendentemente barato</a></h4>
+    <h4><a href='https://computerhoy.com/energia/generador-portatil-descuento-barato-1187778'>Este generador portátil es el respaldo que necesitas llevar siempre encima, y es sorprendentemente barato</a></h4>
     <a href='https://computerhoy.com/energia/generador-portatil-descuento-barato-1187778' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/generador-portatil-respaldo-necesitas-llevar-siempre-encima-sorprendentemente-barato-2934318.jpg?tf=1200x' alt='Este generador portátil es el respaldo que necesitas llevar siempre encima, y sorprendentemente barato' />
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/generador-portatil-respaldo-necesitas-llevar-siempre-encima-sorprendentemente-barato-2934318.jpg?tf=1200x' alt='Este generador portátil es el respaldo que necesitas llevar siempre encima, y es sorprendentemente barato' />
     </a>
 </div>
 
