@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-usar-misma-cuenta-whatsapp-dos-smartphones-android-vez-1186938'>Cómo usar la misma cuenta de WhatsApp en dos smartphones Android a la vez</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-usar-misma-cuenta-whatsapp-dos-smartphones-android-vez-1186938' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/dos-whatsapp-2932216.jpg?tf=1200x' alt='Cómo usar la misma cuenta de WhatsApp en dos smartphones Android a la vez' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/analisis/bose-quietcomfort-earbuds-ii-review-1188024'>Bose QuietComfort Earbuds II, mejoran en cancelación de ruido pero no en experiencia de uso</a></h4>
     <a href='https://computerhoy.com/analisis/bose-quietcomfort-earbuds-ii-review-1188024' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/bose-quietcomfort-earbuds-ii-analisis-opinion-2934840.jpg?tf=1200x' alt='Bose QuietComfort Earbuds II, mejoran en cancelación de ruido pero no en experiencia de uso' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-tablets-potentes-como-portatil-948033'>5 tablets que son tan potentes como un ordenador portátil</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/mejores-tablets-potentes-como-portatil-948033' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/analisis-ipad-pro-m2-2022-2875559.jpg?tf=1200x' alt='5 tablets que son tan potentes como un ordenador portátil' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/cientificos-crean-alarma-electronica-suena-cada-vez-te-distraes-ayuda-concentrarse-1188130'>Científicos crean una alarma electrónica que suena cada vez que te distraes y que ayuda a concentrarse</a></h4>
-    <a href='https://computerhoy.com/ciencia/cientificos-crean-alarma-electronica-suena-cada-vez-te-distraes-ayuda-concentrarse-1188130' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/hombre-concentrado-2934846.jpg?tf=1200x' alt='Científicos crean una alarma electrónica que suena cada vez que te distraes y que ayuda a concentrarse' />
     </a>
 </div>
 
