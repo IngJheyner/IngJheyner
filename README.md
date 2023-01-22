@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/7-peliculas-asiaticas-tienes-disponibles-netflix-prime-video-hbo-max-apple-tv-filmin-1185958'>7 películas asiáticas que tienes disponibles en Netflix, Prime Video, HBO Max, Apple TV+ y Filmin</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/7-peliculas-asiaticas-tienes-disponibles-netflix-prime-video-hbo-max-apple-tv-filmin-1185958' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/minari-2930836.jpg?tf=1200x' alt='7 películas asiáticas que tienes disponibles en Netflix, Prime Video, HBO Max, Apple TV+ y Filmin' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/elon-musk-anuncia-twitter-lanzara-suscripcion-pago-anuncios-cara-twitter-blue-1188384'>Elon Musk anuncia que Twitter lanzará una suscripción de pago sin anuncios, y más cara que Twitter Blue</a></h4>
+    <a href='https://computerhoy.com/apps/elon-musk-anuncia-twitter-lanzara-suscripcion-pago-anuncios-cara-twitter-blue-1188384' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/estas-son-algunas-mejores-opciones-ser-nuevo-ceo-twitter-elon-musk-quiere-salvar-red-social-2929310.jpg?tf=1200x' alt='Elon Musk anuncia que Twitter lanzará una suscripción de pago sin anuncios, y más cara que Twitter Blue' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/5-diferencias-cuenta-local-cuenta-microsoft-windows-11-1187006'>Las 5 diferencias entre Cuenta local o Cuenta de Microsoft en Windows 11</a></h4>
+    <a href='https://computerhoy.com/tecnologia/5-diferencias-cuenta-local-cuenta-microsoft-windows-11-1187006' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/windows-11-2932488.jpg?tf=1200x' alt='Las 5 diferencias entre Cuenta local o Cuenta de Microsoft en Windows 11' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/moviles/estos-serian-cambios-diseno-iphone-15-biseles-delgados-bordes-curvos-1188374'>Estos serían los cambios de diseño del iPhone 15: biseles más delgados y bordes curvos</a></h4>
     <a href='https://computerhoy.com/moviles/estos-serian-cambios-diseno-iphone-15-biseles-delgados-bordes-curvos-1188374' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/apple-iphone-14-plus-analisis-opinion-2857683.jpg?tf=1200x' alt='Estos serían los cambios de diseño del iPhone 15: biseles más delgados y bordes curvos' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/entretenimiento/trucos-bruce-willis-ocultar-afasia-ultimas-peliculas-1188334'>Los trucos que usó Bruce Willis para que nadie notase su afasia en sus últimas películas</a></h4>
     <a href='https://computerhoy.com/entretenimiento/trucos-bruce-willis-ocultar-afasia-ultimas-peliculas-1188334' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/pesar-todo-bruce-willis-vuelve-mostrarnos-siempre-nos-ha-caido-bien-2902696.jpg?tf=1200x' alt='Los trucos que usó Bruce Willis para que nadie notase su afasia en sus últimas películas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/7-curiosidades-gigafactorias-tesla-elon-musk-quiza-no-sabias-1184234'>7 curiosidades sobre las "Gigafactorías" Tesla de Elon Musk que quizá no sabías </a></h4>
-    <a href='https://computerhoy.com/tecnologia/7-curiosidades-gigafactorias-tesla-elon-musk-quiza-no-sabias-1184234' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/7-curiosidades-gigafactorias-tesla-elon-musk-no-sabias-2931930.jpg?tf=1200x' alt='7 curiosidades sobre las "Gigafactorías" Tesla de Elon Musk que quizá no sabías ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-usar-misma-cuenta-whatsapp-dos-smartphones-android-vez-1186938'>Cómo usar la misma cuenta de WhatsApp en dos smartphones Android a la vez</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-usar-misma-cuenta-whatsapp-dos-smartphones-android-vez-1186938' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/dos-whatsapp-2932216.jpg?tf=1200x' alt='Cómo usar la misma cuenta de WhatsApp en dos smartphones Android a la vez' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/bose-quietcomfort-earbuds-ii-review-1188024'>Bose QuietComfort Earbuds II, mejoran en cancelación de ruido pero no en experiencia de uso</a></h4>
-    <a href='https://computerhoy.com/analisis/bose-quietcomfort-earbuds-ii-review-1188024' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/bose-quietcomfort-earbuds-ii-analisis-opinion-2934840.jpg?tf=1200x' alt='Bose QuietComfort Earbuds II, mejoran en cancelación de ruido pero no en experiencia de uso' />
     </a>
 </div>
 
