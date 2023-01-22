@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/energia/instituto-massachusetts-ano-medio-luces-inteligentes-encendidas-24-horas-no-pueden-apagarlas-1188436'>Un instituto de Massachusetts lleva año y medio con las luces inteligentes encendidas las 24 horas, porque no pueden apagarlas</a></h4>
+    <a href='https://computerhoy.com/energia/instituto-massachusetts-ano-medio-luces-inteligentes-encendidas-24-horas-no-pueden-apagarlas-1188436' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/instituto-massachusetts-lleva-ano-medio-luces-inteligentes-encendidas-24-horas-porque-no-pueden-apagarlas-2935286.jpg?tf=1200x' alt='Un instituto de Massachusetts lleva año y medio con las luces inteligentes encendidas las 24 horas, porque no pueden apagarlas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tutoriales/como-encontrar-direccion-mac-windows-11-mac-os-moviles-android-apple-1187630'>Cómo encontrar la dirección MAC en Windows 11, Mac OS y móviles Android y Apple</a></h4>
     <a href='https://computerhoy.com/tutoriales/como-encontrar-direccion-mac-windows-11-mac-os-moviles-android-apple-1187630' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/mac-2933472.jpg?tf=1200x' alt='Cómo encontrar la dirección MAC en Windows 11, Mac OS y móviles Android y Apple' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/ciencia/investigadores-fabrican-ropa-mata-virus-contacto-1188408'>Investigadores fabrican ropa que mata virus al contacto</a></h4>
     <a href='https://computerhoy.com/ciencia/investigadores-fabrican-ropa-mata-virus-contacto-1188408' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/uniforme-bombero-2935218.jpg?tf=1200x' alt='Investigadores fabrican ropa que mata virus al contacto' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/android/aparece-misterioso-error-signo-exclamacion-android-auto-86-solucion-1188396'>Aparece un misterioso error con signo de exclamación en Android Auto 8.6, y esta es la solución</a></h4>
-    <a href='https://computerhoy.com/android/aparece-misterioso-error-signo-exclamacion-android-auto-86-solucion-1188396' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/android-auto-2700725.jpg?tf=1200x' alt='Aparece un misterioso error con signo de exclamación en Android Auto 8.6, y esta es la solución' />
     </a>
 </div>
 
