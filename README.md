@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/moviles/estos-serian-cambios-diseno-iphone-15-biseles-delgados-bordes-curvos-1188374'>Estos serían los cambios de diseño del iPhone 15: biseles más delgados y bordes curvos</a></h4>
+    <a href='https://computerhoy.com/moviles/estos-serian-cambios-diseno-iphone-15-biseles-delgados-bordes-curvos-1188374' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/apple-iphone-14-plus-analisis-opinion-2857683.jpg?tf=1200x' alt='Estos serían los cambios de diseño del iPhone 15: biseles más delgados y bordes curvos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/trucos-bruce-willis-ocultar-afasia-ultimas-peliculas-1188334'>Los trucos que usó Bruce Willis para que nadie notase su afasia en sus últimas películas</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/trucos-bruce-willis-ocultar-afasia-ultimas-peliculas-1188334' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/pesar-todo-bruce-willis-vuelve-mostrarnos-siempre-nos-ha-caido-bien-2902696.jpg?tf=1200x' alt='Los trucos que usó Bruce Willis para que nadie notase su afasia en sus últimas películas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/7-curiosidades-gigafactorias-tesla-elon-musk-quiza-no-sabias-1184234'>7 curiosidades sobre las "Gigafactorías" Tesla de Elon Musk que quizá no sabías </a></h4>
     <a href='https://computerhoy.com/tecnologia/7-curiosidades-gigafactorias-tesla-elon-musk-quiza-no-sabias-1184234' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/7-curiosidades-gigafactorias-tesla-elon-musk-no-sabias-2931930.jpg?tf=1200x' alt='7 curiosidades sobre las "Gigafactorías" Tesla de Elon Musk que quizá no sabías ' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/analisis/bose-quietcomfort-earbuds-ii-review-1188024'>Bose QuietComfort Earbuds II, mejoran en cancelación de ruido pero no en experiencia de uso</a></h4>
     <a href='https://computerhoy.com/analisis/bose-quietcomfort-earbuds-ii-review-1188024' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/bose-quietcomfort-earbuds-ii-analisis-opinion-2934840.jpg?tf=1200x' alt='Bose QuietComfort Earbuds II, mejoran en cancelación de ruido pero no en experiencia de uso' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/deep-web-sirve-peligros-como-entrar-internet-oscura-1184548'>Deep Web: qué es, para qué sirve, peligros y cómo entrar en la Internet Oscura</a></h4>
-    <a href='https://computerhoy.com/tecnologia/deep-web-sirve-peligros-como-entrar-internet-oscura-1184548' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/deep-web-2932640.jpg?tf=1200x' alt='Deep Web: qué es, para qué sirve, peligros y cómo entrar en la Internet Oscura' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/nueva-carga-inalambrica-qi2-1185224'>¿Qué es la nueva carga inalámbrica Qi2?</a></h4>
-    <a href='https://computerhoy.com/tecnologia/nueva-carga-inalambrica-qi2-1185224' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/movil-carga-inalambrica-2929350.jpg?tf=1200x' alt='¿Qué es la nueva carga inalámbrica Qi2?' />
     </a>
 </div>
 
