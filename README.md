@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/paso-a-paso/apps/como-subir-fotos-instagram-ordenador-71515'>Cómo subir fotos a Instagram desde un PC Windows</a></h4>
+    <a href='https://computerhoy.com/paso-a-paso/apps/como-subir-fotos-instagram-ordenador-71515' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/01/instagram-windows.jpg?tf=1200x' alt='Cómo subir fotos a Instagram desde un PC Windows' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/como-afectara-chatgpt-dall-otras-ia-trabajos-futuro-expertos-1188894'>Cómo afectará ChatGPT, Dall-E y otras IA en los trabajos del futuro según los expertos</a></h4>
     <a href='https://computerhoy.com/tecnologia/como-afectara-chatgpt-dall-otras-ia-trabajos-futuro-expertos-1188894' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/inteligencia-artificial-2707953.jpg?tf=1200x' alt='Cómo afectará ChatGPT, Dall-E y otras IA en los trabajos del futuro según los expertos' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/industria/significa-mercado-trato-patentes-5g-samsung-nokia-1188834'>Lo que significa en el mercado el trato de patentes 5G entre Samsung y Nokia</a></h4>
     <a href='https://computerhoy.com/industria/significa-mercado-trato-patentes-5g-samsung-nokia-1188834' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/logotipo-samsung-2936038.jpg?tf=1200x' alt='Lo que significa en el mercado el trato de patentes 5G entre Samsung y Nokia' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/energia/tecnologia-espanola-podria-hacer-solo-necesitemos-energia-solar-ya-probando-1188824'>Esta tecnología española podría hacer que solo necesitemos energía solar y ya se está probando</a></h4>
-    <a href='https://computerhoy.com/energia/tecnologia-espanola-podria-hacer-solo-necesitemos-energia-solar-ya-probando-1188824' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/tecnologia-espanola-podria-hacer-solo-necesitemos-energia-solar-ya-probando-2936040.jpg?tf=1200x' alt='Esta tecnología española podría hacer que solo necesitemos energía solar y ya se está probando' />
     </a>
 </div>
 
