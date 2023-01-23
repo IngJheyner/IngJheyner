@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/analisis/review-mac-mini-m2-pro-bestia-adelantada-tiempo-1188690'>Análisis del Mac Mini con M2 Pro, planta cara al Mac Studio sin reparo alguno</a></h4>
+    <a href='https://computerhoy.com/analisis/review-mac-mini-m2-pro-bestia-adelantada-tiempo-1188690' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/analisis-mac-mini-m2-2936086.jpg?tf=1200x' alt='Análisis del Mac Mini con M2 Pro, planta cara al Mac Studio sin reparo alguno' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/industria/significa-mercado-trato-patentes-5g-samsung-nokia-1188834'>Lo que significa en el mercado el trato de patentes 5G entre Samsung y Nokia</a></h4>
     <a href='https://computerhoy.com/industria/significa-mercado-trato-patentes-5g-samsung-nokia-1188834' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/logotipo-samsung-2936038.jpg?tf=1200x' alt='Lo que significa en el mercado el trato de patentes 5G entre Samsung y Nokia' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/google/ultimo-huevo-pascua-buscador-google-last-us-1188790'>Así es el último huevo de pascua del buscador Google y The Last of Us</a></h4>
     <a href='https://computerhoy.com/google/ultimo-huevo-pascua-buscador-google-last-us-1188790' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/last-us-google-2935882.jpg?tf=1200x' alt='Así es el último huevo de pascua del buscador Google y The Last of Us' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/windows-11-ryzen-7-precio-derribo-portatil-cuela-top-ofertas-amazon-1188700'>Con Windows 11 y Ryzen 7 a precio de derribo: este portátil se cuela en el top de ofertas de Amazon</a></h4>
-    <a href='https://computerhoy.com/pc/windows-11-ryzen-7-precio-derribo-portatil-cuela-top-ofertas-amazon-1188700' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/lenovo-ideapad-3-gen-6-2935670.jpg?tf=1200x' alt='Con Windows 11 y Ryzen 7 a precio de derribo: este portátil se cuela en el top de ofertas de Amazon' />
     </a>
 </div>
 
