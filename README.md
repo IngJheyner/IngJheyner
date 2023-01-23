@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/google/ultimo-huevo-pascua-buscador-google-last-us-1188790'>Así es el último huevo de pascua del buscador Google y The Last of Us</a></h4>
+    <a href='https://computerhoy.com/google/ultimo-huevo-pascua-buscador-google-last-us-1188790' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/last-us-google-2935882.jpg?tf=1200x' alt='Así es el último huevo de pascua del buscador Google y The Last of Us' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/pc/windows-11-ryzen-7-precio-derribo-portatil-cuela-top-ofertas-amazon-1188700'>Con Windows 11 y Ryzen 7 a precio de derribo: este portátil se cuela en el top de ofertas de Amazon</a></h4>
     <a href='https://computerhoy.com/pc/windows-11-ryzen-7-precio-derribo-portatil-cuela-top-ofertas-amazon-1188700' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/lenovo-ideapad-3-gen-6-2935670.jpg?tf=1200x' alt='Con Windows 11 y Ryzen 7 a precio de derribo: este portátil se cuela en el top de ofertas de Amazon' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/reloj-ultrarresistente-deportivo-roza-ya-100-euros-te-gusta-correr-corre-1188440'>Este reloj ultrarresistente y deportivo roza ya los 100 euros: si te gusta correr, corre a por él</a></h4>
     <a href='https://computerhoy.com/tecnologia/reloj-ultrarresistente-deportivo-roza-ya-100-euros-te-gusta-correr-corre-1188440' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/amazfit-t-rex-pro-2935292.jpg?tf=1200x' alt='Este reloj ultrarresistente y deportivo roza ya los 100 euros: si te gusta correr, corre a por él' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/nueva-alerta-malware-archivos-adjuntos-microsoft-onenote-correo-electronico-1188680'>Nueva alerta por malware en archivos adjuntos de Microsoft OneNote vía correo electrónico</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/nueva-alerta-malware-archivos-adjuntos-microsoft-onenote-correo-electronico-1188680' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/como-instalando-malware-traves-archivos-adjuntos-microsoft-onenote-2935672.jpg?tf=1200x' alt='Nueva alerta por malware en archivos adjuntos de Microsoft OneNote vía correo electrónico' />
     </a>
 </div>
 
