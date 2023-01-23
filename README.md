@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/industria/significa-mercado-trato-patentes-5g-samsung-nokia-1188834'>Lo que significa en el mercado el trato de patentes 5G entre Samsung y Nokia</a></h4>
+    <a href='https://computerhoy.com/industria/significa-mercado-trato-patentes-5g-samsung-nokia-1188834' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/logotipo-samsung-2936038.jpg?tf=1200x' alt='Lo que significa en el mercado el trato de patentes 5G entre Samsung y Nokia' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/energia/tecnologia-espanola-podria-hacer-solo-necesitemos-energia-solar-ya-probando-1188824'>Esta tecnología española podría hacer que solo necesitemos energía solar y ya se está probando</a></h4>
+    <a href='https://computerhoy.com/energia/tecnologia-espanola-podria-hacer-solo-necesitemos-energia-solar-ya-probando-1188824' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/tecnologia-espanola-podria-hacer-solo-necesitemos-energia-solar-ya-probando-2936040.jpg?tf=1200x' alt='Esta tecnología española podría hacer que solo necesitemos energía solar y ya se está probando' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/estos-dispositivos-inteligentes-te-ayudaran-ejercitarte-casa-1188770'>Estos dispositivos inteligentes te ayudarán a ejercitarte desde casa</a></h4>
     <a href='https://computerhoy.com/tecnologia/estos-dispositivos-inteligentes-te-ayudaran-ejercitarte-casa-1188770' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/mujer-haciendo-deporte-casa-2916220.jpg?tf=1200x' alt='Estos dispositivos inteligentes te ayudarán a ejercitarte desde casa' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/pc/windows-11-ryzen-7-precio-derribo-portatil-cuela-top-ofertas-amazon-1188700'>Con Windows 11 y Ryzen 7 a precio de derribo: este portátil se cuela en el top de ofertas de Amazon</a></h4>
     <a href='https://computerhoy.com/pc/windows-11-ryzen-7-precio-derribo-portatil-cuela-top-ofertas-amazon-1188700' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/lenovo-ideapad-3-gen-6-2935670.jpg?tf=1200x' alt='Con Windows 11 y Ryzen 7 a precio de derribo: este portátil se cuela en el top de ofertas de Amazon' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/pasa-cuando-ia-disena-proxima-caja-ordenador-1188784'>Esto es lo que pasa cuando una IA diseña tu próxima caja de ordenador</a></h4>
-    <a href='https://computerhoy.com/pc/pasa-cuando-ia-disena-proxima-caja-ordenador-1188784' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/cajas-ordenador-disenadas-ia-2935762.jpg?tf=1200x' alt='Esto es lo que pasa cuando una IA diseña tu próxima caja de ordenador' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/energia/china-ya-cuenta-tren-hidrogeno-supercondensadores-rapido-mundo-1188718'>China ya cuenta con el tren de hidrógeno y supercondensadores más rápido del mundo</a></h4>
-    <a href='https://computerhoy.com/energia/china-ya-cuenta-tren-hidrogeno-supercondensadores-rapido-mundo-1188718' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/china-ya-cuenta-tren-hidrogeno-supercondensadores-rapido-mundo-2935698.jpg?tf=1200x' alt='China ya cuenta con el tren de hidrógeno y supercondensadores más rápido del mundo' />
     </a>
 </div>
 
