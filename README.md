@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/como-afectara-chatgpt-dall-otras-ia-trabajos-futuro-expertos-1188894'>Cómo afectará ChatGPT, Dall-E y otras IA en los trabajos del futuro según los expertos</a></h4>
+    <a href='https://computerhoy.com/tecnologia/como-afectara-chatgpt-dall-otras-ia-trabajos-futuro-expertos-1188894' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/inteligencia-artificial-2707953.jpg?tf=1200x' alt='Cómo afectará ChatGPT, Dall-E y otras IA en los trabajos del futuro según los expertos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/filtran-online-no-fly-list-estados-unidos-lista-personas-vetadas-aviones-fbi-1188908'>Filtran online la “No Fly List” de Estados Unidos: así es la lista de personas vetadas en los aviones del FBI</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/filtran-online-no-fly-list-estados-unidos-lista-personas-vetadas-aviones-fbi-1188908' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/podria-realmente-pasajero-aterrizar-avion-situacion-emergencia-2890290.jpg?tf=1200x' alt='Filtran online la “No Fly List” de Estados Unidos: así es la lista de personas vetadas en los aviones del FBI' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/analisis/review-mac-mini-m2-pro-bestia-adelantada-tiempo-1188690'>Análisis del Mac Mini con M2 Pro, planta cara al Mac Studio sin reparo alguno</a></h4>
     <a href='https://computerhoy.com/analisis/review-mac-mini-m2-pro-bestia-adelantada-tiempo-1188690' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/analisis-mac-mini-m2-2936086.jpg?tf=1200x' alt='Análisis del Mac Mini con M2 Pro, planta cara al Mac Studio sin reparo alguno' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/energia/tecnologia-espanola-podria-hacer-solo-necesitemos-energia-solar-ya-probando-1188824'>Esta tecnología española podría hacer que solo necesitemos energía solar y ya se está probando</a></h4>
     <a href='https://computerhoy.com/energia/tecnologia-espanola-podria-hacer-solo-necesitemos-energia-solar-ya-probando-1188824' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/tecnologia-espanola-podria-hacer-solo-necesitemos-energia-solar-ya-probando-2936040.jpg?tf=1200x' alt='Esta tecnología española podría hacer que solo necesitemos energía solar y ya se está probando' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/estos-dispositivos-inteligentes-te-ayudaran-ejercitarte-casa-1188770'>Estos dispositivos inteligentes te ayudarán a ejercitarte desde casa</a></h4>
-    <a href='https://computerhoy.com/tecnologia/estos-dispositivos-inteligentes-te-ayudaran-ejercitarte-casa-1188770' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/mujer-haciendo-deporte-casa-2916220.jpg?tf=1200x' alt='Estos dispositivos inteligentes te ayudarán a ejercitarte desde casa' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/ultimo-huevo-pascua-buscador-google-last-us-1188790'>Así es el último huevo de pascua del buscador Google y The Last of Us</a></h4>
-    <a href='https://computerhoy.com/google/ultimo-huevo-pascua-buscador-google-last-us-1188790' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/last-us-google-2935882.jpg?tf=1200x' alt='Así es el último huevo de pascua del buscador Google y The Last of Us' />
     </a>
 </div>
 
