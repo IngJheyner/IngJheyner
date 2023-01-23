@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/reloj-ultrarresistente-deportivo-roza-ya-100-euros-te-gusta-correr-corre-1188440'>Este reloj ultrarresistente y deportivo roza ya los 100 euros: si te gusta correr, corre a por él</a></h4>
+    <a href='https://computerhoy.com/tecnologia/reloj-ultrarresistente-deportivo-roza-ya-100-euros-te-gusta-correr-corre-1188440' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/amazfit-t-rex-pro-2935292.jpg?tf=1200x' alt='Este reloj ultrarresistente y deportivo roza ya los 100 euros: si te gusta correr, corre a por él' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/nueva-alerta-malware-archivos-adjuntos-microsoft-onenote-correo-electronico-1188680'>Nueva alerta por malware en archivos adjuntos de Microsoft OneNote vía correo electrónico</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/nueva-alerta-malware-archivos-adjuntos-microsoft-onenote-correo-electronico-1188680' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/como-instalando-malware-traves-archivos-adjuntos-microsoft-onenote-2935672.jpg?tf=1200x' alt='Nueva alerta por malware en archivos adjuntos de Microsoft OneNote vía correo electrónico' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/moviles/filtra-supuesto-unboxing-futuro-galaxy-s23-ultra-semana-presentacion-1188684'>Se filtra un supuesto unboxing del futuro Galaxy S23 Ultra a una semana de su presentación</a></h4>
+    <a href='https://computerhoy.com/moviles/filtra-supuesto-unboxing-futuro-galaxy-s23-ultra-semana-presentacion-1188684' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/galaxy-s23-ultra-2935692.jpg?tf=1200x' alt='Se filtra un supuesto unboxing del futuro Galaxy S23 Ultra a una semana de su presentación' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/patrocinado/ofertas-aliexpress-provocan-flechazos-1186586'>Las ofertas de AliExpress provocan más flechazos</a></h4>
     <a href='https://computerhoy.com/patrocinado/ofertas-aliexpress-provocan-flechazos-1186586' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/aliexpress-ocasion-flechazo-2932338.jpg?tf=1200x' alt='Las ofertas de AliExpress provocan más flechazos' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/android/android-13-siendo-desastre-nivel-usuarios-1188670'>Android 13 está siendo un desastre a nivel de usuarios</a></h4>
     <a href='https://computerhoy.com/android/android-13-siendo-desastre-nivel-usuarios-1188670' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/android-13-2935606.jpg?tf=1200x' alt='Android 13 está siendo un desastre a nivel de usuarios' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/chatgpt-ya-cuenta-version-pago-cuesta-novedades-incluye-1188664'>ChatGPT ya cuenta con una versión de pago: esto es lo que cuesta y las novedades que incluye</a></h4>
-    <a href='https://computerhoy.com/tecnologia/chatgpt-ya-cuenta-version-pago-cuesta-novedades-incluye-1188664' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/chatgpt-ya-cuenta-version-pago-cuesta-novedades-incluye-2935660.jpg?tf=1200x' alt='ChatGPT ya cuenta con una versión de pago: esto es lo que cuesta y las novedades que incluye' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/efecto-thatcher-bug-cerebro-test-pruebalo-1187758'>El Efecto Thatcher, un bug de nuestro cerebro que nos impide reconocer los fallos... ¡pruébalo!</a></h4>
-    <a href='https://computerhoy.com/ciencia/efecto-thatcher-bug-cerebro-test-pruebalo-1187758' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/efecto-thatcher-bug-cerebro-nos-impide-reconocer-fallos-pruebalo-2934260.jpg?tf=1200x' alt='El Efecto Thatcher, un bug de nuestro cerebro que nos impide reconocer los fallos... ¡pruébalo!' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-camaras-vigilancia-ip-595981'>Las mejores cámaras de vigilancia IP que puedes comprar para asegurar tu casa</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-camaras-vigilancia-ip-595981' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/camara-ip-2304481.jpg?tf=1200x' alt='Las mejores cámaras de vigilancia IP que puedes comprar para asegurar tu casa' />
     </a>
 </div>
 
