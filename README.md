@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/gaming/ps5-pro-cada-vez-cerca-todo-sabemos-1188932'>La PS5 Pro cada vez más cerca: esto es todo lo que sabemos</a></h4>
+    <a href='https://computerhoy.com/gaming/ps5-pro-cada-vez-cerca-todo-sabemos-1188932' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/11/analisis-ps5-computerhoy-2140473.jpg?tf=1200x' alt='La PS5 Pro cada vez más cerca: esto es todo lo que sabemos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/paso-a-paso/apps/como-subir-fotos-instagram-ordenador-71515'>Cómo subir fotos a Instagram desde un PC Windows</a></h4>
     <a href='https://computerhoy.com/paso-a-paso/apps/como-subir-fotos-instagram-ordenador-71515' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/01/instagram-windows.jpg?tf=1200x' alt='Cómo subir fotos a Instagram desde un PC Windows' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/analisis/review-mac-mini-m2-pro-bestia-adelantada-tiempo-1188690'>Análisis del Mac Mini con M2 Pro, planta cara al Mac Studio sin reparo alguno</a></h4>
     <a href='https://computerhoy.com/analisis/review-mac-mini-m2-pro-bestia-adelantada-tiempo-1188690' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/analisis-mac-mini-m2-2936086.jpg?tf=1200x' alt='Análisis del Mac Mini con M2 Pro, planta cara al Mac Studio sin reparo alguno' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/industria/significa-mercado-trato-patentes-5g-samsung-nokia-1188834'>Lo que significa en el mercado el trato de patentes 5G entre Samsung y Nokia</a></h4>
-    <a href='https://computerhoy.com/industria/significa-mercado-trato-patentes-5g-samsung-nokia-1188834' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/logotipo-samsung-2936038.jpg?tf=1200x' alt='Lo que significa en el mercado el trato de patentes 5G entre Samsung y Nokia' />
     </a>
 </div>
 
