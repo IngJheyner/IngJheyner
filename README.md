@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/38-noticias-tecnologia-comenzar-manana-informado-ultimo-1188646'>38 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
+    <a href='https://computerhoy.com/tecnologia/38-noticias-tecnologia-comenzar-manana-informado-ultimo-1188646' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/38-noticias-tecnologia-comenzar-manana-informado-ultimo-2935568.jpg?tf=1200x' alt='38 noticias de tecnología para comenzar la mañana informado de lo último' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/listas/tecnologia/mejores-ebooks-ereaders-333049'>Los mejores lectores de eBook de 2023: cuál comprar, comparativa y guía para elegir</a></h4>
+    <a href='https://computerhoy.com/listas/tecnologia/mejores-ebooks-ereaders-333049' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/kobo-elipsa-2377579.jpg?tf=1200x' alt='Los mejores lectores de eBook de 2023: cuál comprar, comparativa y guía para elegir' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/espacio/detectan-senal-radio-galaxia-lejana-8800-millones-anos-luz-1188462'>Detectan una señal de radio de la galaxia más lejana jamás captada desde la Tierra, a 8.800 millones de años luz</a></h4>
     <a href='https://computerhoy.com/espacio/detectan-senal-radio-galaxia-lejana-8800-millones-anos-luz-1188462' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/detectan-senal-radio-galaxia-lejana-jamas-conocida-8800-millones-anos-luz-tierra-2935360.jpg?tf=1200x' alt='Detectan una señal de radio de la galaxia más lejana jamás captada desde la Tierra, a 8.800 millones de años luz' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/energia/instituto-massachusetts-ano-medio-luces-inteligentes-encendidas-24-horas-no-pueden-apagarlas-1188436'>Un instituto de Massachusetts lleva año y medio con las luces inteligentes encendidas las 24 horas, porque no pueden apagarlas</a></h4>
     <a href='https://computerhoy.com/energia/instituto-massachusetts-ano-medio-luces-inteligentes-encendidas-24-horas-no-pueden-apagarlas-1188436' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/instituto-massachusetts-lleva-ano-medio-luces-inteligentes-encendidas-24-horas-porque-no-pueden-apagarlas-2935286.jpg?tf=1200x' alt='Un instituto de Massachusetts lleva año y medio con las luces inteligentes encendidas las 24 horas, porque no pueden apagarlas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-encontrar-direccion-mac-windows-11-mac-os-moviles-android-apple-1187630'>Cómo encontrar la dirección MAC en Windows 11, Mac OS y móviles Android y Apple</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-encontrar-direccion-mac-windows-11-mac-os-moviles-android-apple-1187630' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/mac-2933472.jpg?tf=1200x' alt='Cómo encontrar la dirección MAC en Windows 11, Mac OS y móviles Android y Apple' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/primer-ministro-reino-unido-rishi-sunak-multa-video-instagram-cinturon-seguridad-1188428'>El primer ministro del Reino Unido es multado por subir un vídeo a Instagram en donde comete una infracción</a></h4>
-    <a href='https://computerhoy.com/life/primer-ministro-reino-unido-rishi-sunak-multa-video-instagram-cinturon-seguridad-1188428' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/primer-ministro-reino-unido-multado-subir-video-instagram-donde-comete-infraccion-2935280.jpg?tf=1200x' alt='El primer ministro del Reino Unido es multado por subir un vídeo a Instagram en donde comete una infracción' />
     </a>
 </div>
 
