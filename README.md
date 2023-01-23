@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/estos-dispositivos-inteligentes-te-ayudaran-ejercitarte-casa-1188770'>Estos dispositivos inteligentes te ayudarán a ejercitarte desde casa</a></h4>
+    <a href='https://computerhoy.com/tecnologia/estos-dispositivos-inteligentes-te-ayudaran-ejercitarte-casa-1188770' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/mujer-haciendo-deporte-casa-2916220.jpg?tf=1200x' alt='Estos dispositivos inteligentes te ayudarán a ejercitarte desde casa' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/google/ultimo-huevo-pascua-buscador-google-last-us-1188790'>Así es el último huevo de pascua del buscador Google y The Last of Us</a></h4>
     <a href='https://computerhoy.com/google/ultimo-huevo-pascua-buscador-google-last-us-1188790' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/last-us-google-2935882.jpg?tf=1200x' alt='Así es el último huevo de pascua del buscador Google y The Last of Us' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/energia/china-ya-cuenta-tren-hidrogeno-supercondensadores-rapido-mundo-1188718'>China ya cuenta con el tren de hidrógeno y supercondensadores más rápido del mundo</a></h4>
     <a href='https://computerhoy.com/energia/china-ya-cuenta-tren-hidrogeno-supercondensadores-rapido-mundo-1188718' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/china-ya-cuenta-tren-hidrogeno-supercondensadores-rapido-mundo-2935698.jpg?tf=1200x' alt='China ya cuenta con el tren de hidrógeno y supercondensadores más rápido del mundo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/reloj-ultrarresistente-deportivo-roza-ya-100-euros-te-gusta-correr-corre-1188440'>Este reloj ultrarresistente y deportivo roza ya los 100 euros: si te gusta correr, corre a por él</a></h4>
-    <a href='https://computerhoy.com/tecnologia/reloj-ultrarresistente-deportivo-roza-ya-100-euros-te-gusta-correr-corre-1188440' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/amazfit-t-rex-pro-2935292.jpg?tf=1200x' alt='Este reloj ultrarresistente y deportivo roza ya los 100 euros: si te gusta correr, corre a por él' />
     </a>
 </div>
 
