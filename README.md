@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-camaras-vigilancia-ip-595981'>Las mejores cámaras de vigilancia IP que puedes comprar para asegurar tu casa</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-camaras-vigilancia-ip-595981' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/camara-ip-2304481.jpg?tf=1200x' alt='Las mejores cámaras de vigilancia IP que puedes comprar para asegurar tu casa' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/38-noticias-tecnologia-comenzar-manana-informado-ultimo-1188646'>38 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
     <a href='https://computerhoy.com/tecnologia/38-noticias-tecnologia-comenzar-manana-informado-ultimo-1188646' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/38-noticias-tecnologia-comenzar-manana-informado-ultimo-2935568.jpg?tf=1200x' alt='38 noticias de tecnología para comenzar la mañana informado de lo último' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/windows/bloc-notas-windows-11-solapas-pestanas-1188446'>El Bloc de Notas de Windows al fin recibe una mejora muy esperada</a></h4>
     <a href='https://computerhoy.com/windows/bloc-notas-windows-11-solapas-pestanas-1188446' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/bloc-notas-windows-fin-recibe-mejora-muy-esperada-2935320.jpg?tf=1200x' alt='El Bloc de Notas de Windows al fin recibe una mejora muy esperada' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/energia/instituto-massachusetts-ano-medio-luces-inteligentes-encendidas-24-horas-no-pueden-apagarlas-1188436'>Un instituto de Massachusetts lleva año y medio con las luces inteligentes encendidas las 24 horas, porque no pueden apagarlas</a></h4>
-    <a href='https://computerhoy.com/energia/instituto-massachusetts-ano-medio-luces-inteligentes-encendidas-24-horas-no-pueden-apagarlas-1188436' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/instituto-massachusetts-lleva-ano-medio-luces-inteligentes-encendidas-24-horas-porque-no-pueden-apagarlas-2935286.jpg?tf=1200x' alt='Un instituto de Massachusetts lleva año y medio con las luces inteligentes encendidas las 24 horas, porque no pueden apagarlas' />
     </a>
 </div>
 
