@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/patrocinado/ofertas-aliexpress-provocan-flechazos-1186586'>Las ofertas de AliExpress provocan más flechazos</a></h4>
+    <a href='https://computerhoy.com/patrocinado/ofertas-aliexpress-provocan-flechazos-1186586' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/aliexpress-ocasion-flechazo-2932338.jpg?tf=1200x' alt='Las ofertas de AliExpress provocan más flechazos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/android/android-13-siendo-desastre-nivel-usuarios-1188670'>Android 13 está siendo un desastre a nivel de usuarios</a></h4>
+    <a href='https://computerhoy.com/android/android-13-siendo-desastre-nivel-usuarios-1188670' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/android-13-2935606.jpg?tf=1200x' alt='Android 13 está siendo un desastre a nivel de usuarios' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/chatgpt-ya-cuenta-version-pago-cuesta-novedades-incluye-1188664'>ChatGPT ya cuenta con una versión de pago: esto es lo que cuesta y las novedades que incluye</a></h4>
+    <a href='https://computerhoy.com/tecnologia/chatgpt-ya-cuenta-version-pago-cuesta-novedades-incluye-1188664' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/chatgpt-ya-cuenta-version-pago-cuesta-novedades-incluye-2935660.jpg?tf=1200x' alt='ChatGPT ya cuenta con una versión de pago: esto es lo que cuesta y las novedades que incluye' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/efecto-thatcher-bug-cerebro-test-pruebalo-1187758'>El Efecto Thatcher, un bug de nuestro cerebro que nos impide reconocer los fallos... ¡pruébalo!</a></h4>
+    <a href='https://computerhoy.com/ciencia/efecto-thatcher-bug-cerebro-test-pruebalo-1187758' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/efecto-thatcher-bug-cerebro-nos-impide-reconocer-fallos-pruebalo-2934260.jpg?tf=1200x' alt='El Efecto Thatcher, un bug de nuestro cerebro que nos impide reconocer los fallos... ¡pruébalo!' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-camaras-vigilancia-ip-595981'>Las mejores cámaras de vigilancia IP que puedes comprar para asegurar tu casa</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/mejores-camaras-vigilancia-ip-595981' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/camara-ip-2304481.jpg?tf=1200x' alt='Las mejores cámaras de vigilancia IP que puedes comprar para asegurar tu casa' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/38-noticias-tecnologia-comenzar-manana-informado-ultimo-1188646'>38 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
-    <a href='https://computerhoy.com/tecnologia/38-noticias-tecnologia-comenzar-manana-informado-ultimo-1188646' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/38-noticias-tecnologia-comenzar-manana-informado-ultimo-2935568.jpg?tf=1200x' alt='38 noticias de tecnología para comenzar la mañana informado de lo último' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/listas/tecnologia/mejores-ebooks-ereaders-333049'>Los mejores lectores de eBook de 2023: cuál comprar, comparativa y guía para elegir</a></h4>
-    <a href='https://computerhoy.com/listas/tecnologia/mejores-ebooks-ereaders-333049' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/kobo-elipsa-2377579.jpg?tf=1200x' alt='Los mejores lectores de eBook de 2023: cuál comprar, comparativa y guía para elegir' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/detectan-senal-radio-galaxia-lejana-8800-millones-anos-luz-1188462'>Detectan una señal de radio de la galaxia más lejana jamás captada desde la Tierra, a 8.800 millones de años luz</a></h4>
-    <a href='https://computerhoy.com/espacio/detectan-senal-radio-galaxia-lejana-8800-millones-anos-luz-1188462' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/detectan-senal-radio-galaxia-lejana-jamas-conocida-8800-millones-anos-luz-tierra-2935360.jpg?tf=1200x' alt='Detectan una señal de radio de la galaxia más lejana jamás captada desde la Tierra, a 8.800 millones de años luz' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/bloc-notas-windows-11-solapas-pestanas-1188446'>El Bloc de Notas de Windows al fin recibe una mejora muy esperada</a></h4>
-    <a href='https://computerhoy.com/windows/bloc-notas-windows-11-solapas-pestanas-1188446' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/bloc-notas-windows-fin-recibe-mejora-muy-esperada-2935320.jpg?tf=1200x' alt='El Bloc de Notas de Windows al fin recibe una mejora muy esperada' />
     </a>
 </div>
 
