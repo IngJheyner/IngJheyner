@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/deepfake-steve-jobs-creado-chatgpt-sintetizador-voz-pensaras-real-1189008'>El deepfake de Steve Jobs creado con ChatGPT y un sintetizador de voz que pensarás que es real</a></h4>
+    <a href='https://computerhoy.com/ciencia/deepfake-steve-jobs-creado-chatgpt-sintetizador-voz-pensaras-real-1189008' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/steve-jobs-2881055.jpg?tf=1200x' alt='El deepfake de Steve Jobs creado con ChatGPT y un sintetizador de voz que pensarás que es real' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/estos-juegos-visuales-ves-color-rojo-ya-estas-siendo-enganado-cerebro-1189006'>Si en estos juegos visuales ves el color rojo ya estás siendo engañado por tu cerebro</a></h4>
+    <a href='https://computerhoy.com/life/estos-juegos-visuales-ves-color-rojo-ya-estas-siendo-enganado-cerebro-1189006' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/semaforo-rojo-2936466.jpg?tf=1200x' alt='Si en estos juegos visuales ves el color rojo ya estás siendo engañado por tu cerebro' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/sonic-prime-netflix-fecha-estreno-segunda-temporada-1189002'>Sonic Prime casi acaba de estrenarse en Netflix, pero ya anuncian su segunda temporada</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/sonic-prime-netflix-fecha-estreno-segunda-temporada-1189002' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/verticalimage1674502593120-2936428.jpg?tf=1200x' alt='Sonic Prime casi acaba de estrenarse en Netflix, pero ya anuncian su segunda temporada' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/microsoft-invierte-miles-millones-openia-creadores-chatgpt-dall-funcionaran-solo-nube-1188910'>Microsoft invierte miles de millones en OpenIA, creadores de ChatGPT y DALL-E, que funcionarán solo en su nube </a></h4>
     <a href='https://computerhoy.com/tecnologia/microsoft-invierte-miles-millones-openia-creadores-chatgpt-dall-funcionaran-solo-nube-1188910' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/microsoft-estrena-nueva-politica-trabajo-tiempo-libre-ilimitado-2926602.jpg?tf=1200x' alt='Microsoft invierte miles de millones en OpenIA, creadores de ChatGPT y DALL-E, que funcionarán solo en su nube ' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/gaming/ps5-pro-cada-vez-cerca-todo-sabemos-1188932'>La PS5 Pro cada vez más cerca: esto es todo lo que sabemos</a></h4>
     <a href='https://computerhoy.com/gaming/ps5-pro-cada-vez-cerca-todo-sabemos-1188932' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/11/analisis-ps5-computerhoy-2140473.jpg?tf=1200x' alt='La PS5 Pro cada vez más cerca: esto es todo lo que sabemos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/paso-a-paso/apps/como-subir-fotos-instagram-ordenador-71515'>Cómo subir fotos a Instagram desde un PC Windows</a></h4>
-    <a href='https://computerhoy.com/paso-a-paso/apps/como-subir-fotos-instagram-ordenador-71515' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/01/instagram-windows.jpg?tf=1200x' alt='Cómo subir fotos a Instagram desde un PC Windows' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/como-afectara-chatgpt-dall-otras-ia-trabajos-futuro-expertos-1188894'>Cómo afectará ChatGPT, Dall-E y otras IA en los trabajos del futuro según los expertos</a></h4>
-    <a href='https://computerhoy.com/tecnologia/como-afectara-chatgpt-dall-otras-ia-trabajos-futuro-expertos-1188894' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/inteligencia-artificial-2707953.jpg?tf=1200x' alt='Cómo afectará ChatGPT, Dall-E y otras IA en los trabajos del futuro según los expertos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/filtran-online-no-fly-list-estados-unidos-lista-personas-vetadas-aviones-fbi-1188908'>Filtran online la “No Fly List” de Estados Unidos: así es la lista de personas vetadas en los aviones del FBI</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/filtran-online-no-fly-list-estados-unidos-lista-personas-vetadas-aviones-fbi-1188908' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/podria-realmente-pasajero-aterrizar-avion-situacion-emergencia-2890290.jpg?tf=1200x' alt='Filtran online la “No Fly List” de Estados Unidos: así es la lista de personas vetadas en los aviones del FBI' />
     </a>
 </div>
 
