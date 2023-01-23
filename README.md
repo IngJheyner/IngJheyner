@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/pc/windows-11-ryzen-7-precio-derribo-portatil-cuela-top-ofertas-amazon-1188700'>Con Windows 11 y Ryzen 7 a precio de derribo: este portátil se cuela en el top de ofertas de Amazon</a></h4>
+    <a href='https://computerhoy.com/pc/windows-11-ryzen-7-precio-derribo-portatil-cuela-top-ofertas-amazon-1188700' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/lenovo-ideapad-3-gen-6-2935670.jpg?tf=1200x' alt='Con Windows 11 y Ryzen 7 a precio de derribo: este portátil se cuela en el top de ofertas de Amazon' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/pc/pasa-cuando-ia-disena-proxima-caja-ordenador-1188784'>Esto es lo que pasa cuando una IA diseña tu próxima caja de ordenador</a></h4>
+    <a href='https://computerhoy.com/pc/pasa-cuando-ia-disena-proxima-caja-ordenador-1188784' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/cajas-ordenador-disenadas-ia-2935762.jpg?tf=1200x' alt='Esto es lo que pasa cuando una IA diseña tu próxima caja de ordenador' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/energia/china-ya-cuenta-tren-hidrogeno-supercondensadores-rapido-mundo-1188718'>China ya cuenta con el tren de hidrógeno y supercondensadores más rápido del mundo</a></h4>
+    <a href='https://computerhoy.com/energia/china-ya-cuenta-tren-hidrogeno-supercondensadores-rapido-mundo-1188718' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/china-ya-cuenta-tren-hidrogeno-supercondensadores-rapido-mundo-2935698.jpg?tf=1200x' alt='China ya cuenta con el tren de hidrógeno y supercondensadores más rápido del mundo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/reloj-ultrarresistente-deportivo-roza-ya-100-euros-te-gusta-correr-corre-1188440'>Este reloj ultrarresistente y deportivo roza ya los 100 euros: si te gusta correr, corre a por él</a></h4>
     <a href='https://computerhoy.com/tecnologia/reloj-ultrarresistente-deportivo-roza-ya-100-euros-te-gusta-correr-corre-1188440' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/amazfit-t-rex-pro-2935292.jpg?tf=1200x' alt='Este reloj ultrarresistente y deportivo roza ya los 100 euros: si te gusta correr, corre a por él' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/ciberseguridad/nueva-alerta-malware-archivos-adjuntos-microsoft-onenote-correo-electronico-1188680'>Nueva alerta por malware en archivos adjuntos de Microsoft OneNote vía correo electrónico</a></h4>
     <a href='https://computerhoy.com/ciberseguridad/nueva-alerta-malware-archivos-adjuntos-microsoft-onenote-correo-electronico-1188680' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/como-instalando-malware-traves-archivos-adjuntos-microsoft-onenote-2935672.jpg?tf=1200x' alt='Nueva alerta por malware en archivos adjuntos de Microsoft OneNote vía correo electrónico' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/filtra-supuesto-unboxing-futuro-galaxy-s23-ultra-semana-presentacion-1188684'>Se filtra un supuesto unboxing del futuro Galaxy S23 Ultra a una semana de su presentación</a></h4>
-    <a href='https://computerhoy.com/moviles/filtra-supuesto-unboxing-futuro-galaxy-s23-ultra-semana-presentacion-1188684' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/galaxy-s23-ultra-2935692.jpg?tf=1200x' alt='Se filtra un supuesto unboxing del futuro Galaxy S23 Ultra a una semana de su presentación' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/patrocinado/ofertas-aliexpress-provocan-flechazos-1186586'>Las ofertas de AliExpress provocan más flechazos</a></h4>
-    <a href='https://computerhoy.com/patrocinado/ofertas-aliexpress-provocan-flechazos-1186586' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/aliexpress-ocasion-flechazo-2932338.jpg?tf=1200x' alt='Las ofertas de AliExpress provocan más flechazos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/android/android-13-siendo-desastre-nivel-usuarios-1188670'>Android 13 está siendo un desastre a nivel de usuarios</a></h4>
-    <a href='https://computerhoy.com/android/android-13-siendo-desastre-nivel-usuarios-1188670' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/android-13-2935606.jpg?tf=1200x' alt='Android 13 está siendo un desastre a nivel de usuarios' />
     </a>
 </div>
 
