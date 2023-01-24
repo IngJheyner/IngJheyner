@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/rival-samsung-apple-watch-oferta-media-markt-1188744'>El Apple Watch tiene rival en Android: es de Samsung, con WearOS y a un precio rompedor</a></h4>
+    <a href='https://computerhoy.com/tecnologia/rival-samsung-apple-watch-oferta-media-markt-1188744' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/samsung-galaxy-watch-5-pro-analisis-opinion-2809251.jpg?tf=1200x' alt='El Apple Watch tiene rival en Android: es de Samsung, con WearOS y a un precio rompedor' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/google-actualizacion-facilita-sigas-durmiendo-tienes-movil-android-1189268'>Google y la actualización que facilita que sigas durmiendo si tienes un móvil Android</a></h4>
+    <a href='https://computerhoy.com/apps/google-actualizacion-facilita-sigas-durmiendo-tienes-movil-android-1189268' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/alarma-smartphone-2867521.jpg?tf=1200x' alt='Google y la actualización que facilita que sigas durmiendo si tienes un móvil Android' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apple/estas-son-novedades-llegan-iphone-nueva-version-ios-163-1189260'>Estas son las novedades que llegan a iPhone con la nueva versión iOS 16.3</a></h4>
     <a href='https://computerhoy.com/apple/estas-son-novedades-llegan-iphone-nueva-version-ios-163-1189260' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/estas-son-novedades-llegan-iphone-nueva-version-ios-163-2936758.jpg?tf=1200x' alt='Estas son las novedades que llegan a iPhone con la nueva versión iOS 16.3' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/life/capable-ropa-te-vuelve-invisible-camaras-reconocimiento-facial-inteligencia-artificial-video-1189250'>Cap_able, la ropa que te vuelve invisible antes las cámaras de reconocimiento facial con inteligencia artificial (vídeo)</a></h4>
     <a href='https://computerhoy.com/life/capable-ropa-te-vuelve-invisible-camaras-reconocimiento-facial-inteligencia-artificial-video-1189250' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/verticalimage1674536293768-2936720.jpg?tf=1200x' alt='Cap_able, la ropa que te vuelve invisible antes las cámaras de reconocimiento facial con inteligencia artificial (vídeo)' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-teclados-programadores-1103571'>Estos son los mejores teclados para programadores que puedes comprar</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-teclados-programadores-1103571' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/analisis-razer-pro-type-ultra-2532491.jpg?tf=1200x' alt='Estos son los mejores teclados para programadores que puedes comprar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/20-noticias-tecnologia-comenzar-manana-informado-ultimo-1189246'>20 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
-    <a href='https://computerhoy.com/tecnologia/20-noticias-tecnologia-comenzar-manana-informado-ultimo-1189246' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/20-noticias-tecnologia-comenzar-manana-informado-ultimo-2936738.jpg?tf=1200x' alt='20 noticias de tecnología para comenzar la mañana informado de lo último' />
     </a>
 </div>
 
