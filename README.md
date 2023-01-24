@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/alimentacion/llega-renting-robots-cocina-llevate-thermomix-menos-euro-dia-1189502'>Llega el renting a los robots de cocina: llévate una Thermomix por menos de un euro al día</a></h4>
+    <a href='https://computerhoy.com/alimentacion/llega-renting-robots-cocina-llevate-thermomix-menos-euro-dia-1189502' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/10/thermomix-tm6_8.jpg?tf=1200x' alt='Llega el renting a los robots de cocina: llévate una Thermomix por menos de un euro al día' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apps/android-14-podria-quitar-usuarios-mayor-ventaja-frente-ios-1189420'>Android 14 podría quitar a los usuarios la mayor ventaja frente a iOS</a></h4>
     <a href='https://computerhoy.com/apps/android-14-podria-quitar-usuarios-mayor-ventaja-frente-ios-1189420' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/android-14-2937042.jpg?tf=1200x' alt='Android 14 podría quitar a los usuarios la mayor ventaja frente a iOS' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/espacio/telescopio-webb-nasa-llega-componentes-basicos-vida-1189364'>El telescopio Webb de la NASA llega hasta los componentes básicos para la vida</a></h4>
     <a href='https://computerhoy.com/espacio/telescopio-webb-nasa-llega-componentes-basicos-vida-1189364' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/james-webb-jupiter-2792531.jpg?tf=1200x' alt='El telescopio Webb de la NASA llega hasta los componentes básicos para la vida' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/ya-aqui-help-flash-iot-luz-v16-conectada-dgt-sustituira-triangulos-emergencia-1188788'>Ya está aquí Help Flash IoT, la luz V16 conectada con la DGT que sustituirá a los triángulos de emergencia </a></h4>
-    <a href='https://computerhoy.com/motor/ya-aqui-help-flash-iot-luz-v16-conectada-dgt-sustituira-triangulos-emergencia-1188788' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/help-flash-iot-2935820.jpg?tf=1200x' alt='Ya está aquí Help Flash IoT, la luz V16 conectada con la DGT que sustituirá a los triángulos de emergencia ' />
     </a>
 </div>
 
