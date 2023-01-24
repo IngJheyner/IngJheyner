@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/estas-son-novedades-llegan-iphone-nueva-version-ios-163-1189260'>Estas son las novedades que llegan a iPhone con la nueva versión iOS 16.3</a></h4>
+    <a href='https://computerhoy.com/apple/estas-son-novedades-llegan-iphone-nueva-version-ios-163-1189260' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/estas-son-novedades-llegan-iphone-nueva-version-ios-163-2936758.jpg?tf=1200x' alt='Estas son las novedades que llegan a iPhone con la nueva versión iOS 16.3' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/funciona-you-primer-buscador-web-basado-ia-quiere-competir-google-bing-1188934'>Así funciona You, el primer buscador web basado en IA que quiere competir con Google y Bing</a></h4>
+    <a href='https://computerhoy.com/tecnologia/funciona-you-primer-buscador-web-basado-ia-quiere-competir-google-bing-1188934' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/funciona-you-primer-buscador-web-ia-2936314.jpg?tf=1200x' alt='Así funciona You, el primer buscador web basado en IA que quiere competir con Google y Bing' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/capable-ropa-te-vuelve-invisible-camaras-reconocimiento-facial-inteligencia-artificial-video-1189250'>Cap_able, la ropa que te vuelve invisible antes las cámaras de reconocimiento facial con inteligencia artificial (vídeo)</a></h4>
+    <a href='https://computerhoy.com/life/capable-ropa-te-vuelve-invisible-camaras-reconocimiento-facial-inteligencia-artificial-video-1189250' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/verticalimage1674536293768-2936720.jpg?tf=1200x' alt='Cap_able, la ropa que te vuelve invisible antes las cámaras de reconocimiento facial con inteligencia artificial (vídeo)' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-teclados-programadores-1103571'>Estos son los mejores teclados para programadores que puedes comprar</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/mejores-teclados-programadores-1103571' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/analisis-razer-pro-type-ultra-2532491.jpg?tf=1200x' alt='Estos son los mejores teclados para programadores que puedes comprar' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/20-noticias-tecnologia-comenzar-manana-informado-ultimo-1189246'>20 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
     <a href='https://computerhoy.com/tecnologia/20-noticias-tecnologia-comenzar-manana-informado-ultimo-1189246' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/20-noticias-tecnologia-comenzar-manana-informado-ultimo-2936738.jpg?tf=1200x' alt='20 noticias de tecnología para comenzar la mañana informado de lo último' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/solo-cinco-minutos-puedes-evitar-problemas-trabajar-sentado-1188938'>Con solo cinco minutos puedes evitar los problemas de trabajar sentado</a></h4>
-    <a href='https://computerhoy.com/life/solo-cinco-minutos-puedes-evitar-problemas-trabajar-sentado-1188938' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/personas-conversando-reunion-oficina-2817699.jpg?tf=1200x' alt='Con solo cinco minutos puedes evitar los problemas de trabajar sentado' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/nucleo-tierra-comienza-girar-direccion-contraria-1189234'>El núcleo de la Tierra comienza a girar en dirección contraria, y ya está afectándonos</a></h4>
-    <a href='https://computerhoy.com/ciencia/nucleo-tierra-comienza-girar-direccion-contraria-1189234' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/nucleo-tierra-comienza-girar-direccion-contraria-ya-afectandonos-2936512.jpg?tf=1200x' alt='El núcleo de la Tierra comienza a girar en dirección contraria, y ya está afectándonos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/como-organizar-optimizar-rutina-teletrabajo-mejorar-calidad-vida-1188886'>Cómo organizar y optimizar tu rutina de teletrabajo para mejorar tu calidad de vida</a></h4>
-    <a href='https://computerhoy.com/life/como-organizar-optimizar-rutina-teletrabajo-mejorar-calidad-vida-1188886' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/teletrabajo-2584825.jpg?tf=1200x' alt='Cómo organizar y optimizar tu rutina de teletrabajo para mejorar tu calidad de vida' />
     </a>
 </div>
 
