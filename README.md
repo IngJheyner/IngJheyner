@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/ted-lasso-derechos-humanos-iphone-privacidad-mereces-apple-1189572'>Ted Lasso, los Derechos Humanos y un iPhone: así es la privacidad que mereces según Apple</a></h4>
+    <a href='https://computerhoy.com/apple/ted-lasso-derechos-humanos-iphone-privacidad-mereces-apple-1189572' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/privacidad-dispositivos-apple-2937314.jpg?tf=1200x' alt='Ted Lasso, los Derechos Humanos y un iPhone: así es la privacidad que mereces según Apple' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/enorme-asteroide-chocara-atmosfera-tierra-misma-semana-1189544'>Un enorme asteroide chocará contra la atmósfera de la Tierra esta misma semana</a></h4>
+    <a href='https://computerhoy.com/ciencia/enorme-asteroide-chocara-atmosfera-tierra-misma-semana-1189544' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/asteroide-2900550.jpg?tf=1200x' alt='Un enorme asteroide chocará contra la atmósfera de la Tierra esta misma semana' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/entretenimiento/100-millones-usuarios-netflix-estan-punto-mira-proximas-semanas-1189568'>Hasta 100 millones de usuarios de Netflix están en el punto de mira en las próximas semanas</a></h4>
     <a href='https://computerhoy.com/entretenimiento/100-millones-usuarios-netflix-estan-punto-mira-proximas-semanas-1189568' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/netflix-2889718.jpg?tf=1200x' alt='Hasta 100 millones de usuarios de Netflix están en el punto de mira en las próximas semanas' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/moviles/moto-g53-moto-g73-moviles-gama-media-motorola-android-13-1189514'>Moto G53 y Moto G73: móviles de gama media de Motorola con Android 13</a></h4>
     <a href='https://computerhoy.com/moviles/moto-g53-moto-g73-moviles-gama-media-motorola-android-13-1189514' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/moto-g53-moto-g73-moviles-gama-media-motorola-android-13-2937248.jpg?tf=1200x' alt='Moto G53 y Moto G73: móviles de gama media de Motorola con Android 13' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/cual-diferencia-usb-c-thunderbolt-1189472'>Cuál es la diferencia entre USB-C y Thunderbolt</a></h4>
-    <a href='https://computerhoy.com/tecnologia/cual-diferencia-usb-c-thunderbolt-1189472' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/usb-c-2830723.jpg?tf=1200x' alt='Cuál es la diferencia entre USB-C y Thunderbolt' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/alimentacion/llega-renting-robots-cocina-llevate-thermomix-menos-euro-dia-1189502'>Llega el renting a los robots de cocina: llévate una Thermomix por menos de un euro al día</a></h4>
-    <a href='https://computerhoy.com/alimentacion/llega-renting-robots-cocina-llevate-thermomix-menos-euro-dia-1189502' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/10/thermomix-tm6_8.jpg?tf=1200x' alt='Llega el renting a los robots de cocina: llévate una Thermomix por menos de un euro al día' />
     </a>
 </div>
 
