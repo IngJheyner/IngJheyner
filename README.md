@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/funciones-estrella-telegram-convirtiendo-grave-problema-1189394'>Una de las funciones estrella de Telegram se está convirtiendo en un grave problema</a></h4>
+    <a href='https://computerhoy.com/apps/funciones-estrella-telegram-convirtiendo-grave-problema-1189394' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/telegram-2885907.jpg?tf=1200x' alt='Una de las funciones estrella de Telegram se está convirtiendo en un grave problema' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/criptos/locura-precios-bitcoin-tiene-totalmente-desconcertados-expertos-1189370'>La locura de los precios de Bitcoin tiene totalmente desconcertados a los expertos</a></h4>
     <a href='https://computerhoy.com/criptos/locura-precios-bitcoin-tiene-totalmente-desconcertados-expertos-1189370' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/bitcoin-tiene-totalmente-desconcertados-expertos-2936936.jpg?tf=1200x' alt='La locura de los precios de Bitcoin tiene totalmente desconcertados a los expertos' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/samsung-llevara-avanzada-tecnologia-oled-smartphones-nuevos-portatiles-1189338'>Samsung llevará la avanzada tecnología OLED de sus smartphones a sus nuevos portátiles</a></h4>
     <a href='https://computerhoy.com/tecnologia/samsung-llevara-avanzada-tecnologia-oled-smartphones-nuevos-portatiles-1189338' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/samsung-display-llevara-avanzada-tecnologia-oled-smartphones-portatiles-2936884.jpg?tf=1200x' alt='Samsung llevará la avanzada tecnología OLED de sus smartphones a sus nuevos portátiles' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/modo-secreto-router-wifi-deberias-activar-ahora-mismo-1189322'>El modo secreto de tu router WiFi que deberías activar ahora mismo</a></h4>
-    <a href='https://computerhoy.com/internet/modo-secreto-router-wifi-deberias-activar-ahora-mismo-1189322' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/router-wifi-2798907.jpg?tf=1200x' alt='El modo secreto de tu router WiFi que deberías activar ahora mismo' />
     </a>
 </div>
 
