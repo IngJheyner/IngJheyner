@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/actualizaciones-software-despiertan-funcionalidades-ocultas-van-ser-cada-vez-frecuentes-1189270'>Las actualizaciones de software que despiertan funcionalidades ocultas van a ser cada vez más frecuentes </a></h4>
+    <a href='https://computerhoy.com/tecnologia/actualizaciones-software-despiertan-funcionalidades-ocultas-van-ser-cada-vez-frecuentes-1189270' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/actualizaciones-software-despiertan-funcionalidades-ocultas-van-ser-cada-vez-frecuentes-2936842.jpg?tf=1200x' alt='Las actualizaciones de software que despiertan funcionalidades ocultas van a ser cada vez más frecuentes ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/amazon/amazon-prueba-nueva-suscripcion-medicamentos-genericos-1189304'>Amazon prueba una nueva suscripción... de medicamentos genéricos</a></h4>
+    <a href='https://computerhoy.com/amazon/amazon-prueba-nueva-suscripcion-medicamentos-genericos-1189304' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/amazon-farmacia-2936832.jpg?tf=1200x' alt='Amazon prueba una nueva suscripción... de medicamentos genéricos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/rival-samsung-apple-watch-oferta-media-markt-1188744'>El Apple Watch tiene rival en Android: es de Samsung, con WearOS y a un precio rompedor</a></h4>
     <a href='https://computerhoy.com/tecnologia/rival-samsung-apple-watch-oferta-media-markt-1188744' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/samsung-galaxy-watch-5-pro-analisis-opinion-2809251.jpg?tf=1200x' alt='El Apple Watch tiene rival en Android: es de Samsung, con WearOS y a un precio rompedor' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/apple/estas-son-novedades-llegan-iphone-nueva-version-ios-163-1189260'>Estas son las novedades que llegan a iPhone con la nueva versión iOS 16.3</a></h4>
     <a href='https://computerhoy.com/apple/estas-son-novedades-llegan-iphone-nueva-version-ios-163-1189260' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/estas-son-novedades-llegan-iphone-nueva-version-ios-163-2936758.jpg?tf=1200x' alt='Estas son las novedades que llegan a iPhone con la nueva versión iOS 16.3' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/funciona-you-primer-buscador-web-basado-ia-quiere-competir-google-bing-1188934'>Así funciona You, el primer buscador web basado en IA que quiere competir con Google y Bing</a></h4>
-    <a href='https://computerhoy.com/tecnologia/funciona-you-primer-buscador-web-basado-ia-quiere-competir-google-bing-1188934' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/funciona-you-primer-buscador-web-ia-2936314.jpg?tf=1200x' alt='Así funciona You, el primer buscador web basado en IA que quiere competir con Google y Bing' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/capable-ropa-te-vuelve-invisible-camaras-reconocimiento-facial-inteligencia-artificial-video-1189250'>Cap_able, la ropa que te vuelve invisible antes las cámaras de reconocimiento facial con inteligencia artificial (vídeo)</a></h4>
-    <a href='https://computerhoy.com/life/capable-ropa-te-vuelve-invisible-camaras-reconocimiento-facial-inteligencia-artificial-video-1189250' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/verticalimage1674536293768-2936720.jpg?tf=1200x' alt='Cap_able, la ropa que te vuelve invisible antes las cámaras de reconocimiento facial con inteligencia artificial (vídeo)' />
     </a>
 </div>
 
