@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/cual-diferencia-usb-c-thunderbolt-1189472'>Cuál es la diferencia entre USB-C y Thunderbolt</a></h4>
+    <a href='https://computerhoy.com/tecnologia/cual-diferencia-usb-c-thunderbolt-1189472' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/usb-c-2830723.jpg?tf=1200x' alt='Cuál es la diferencia entre USB-C y Thunderbolt' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/alimentacion/llega-renting-robots-cocina-llevate-thermomix-menos-euro-dia-1189502'>Llega el renting a los robots de cocina: llévate una Thermomix por menos de un euro al día</a></h4>
     <a href='https://computerhoy.com/alimentacion/llega-renting-robots-cocina-llevate-thermomix-menos-euro-dia-1189502' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/10/thermomix-tm6_8.jpg?tf=1200x' alt='Llega el renting a los robots de cocina: llévate una Thermomix por menos de un euro al día' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/criptos/locura-precios-bitcoin-tiene-totalmente-desconcertados-expertos-1189370'>La locura de los precios de Bitcoin tiene totalmente desconcertados a los expertos</a></h4>
     <a href='https://computerhoy.com/criptos/locura-precios-bitcoin-tiene-totalmente-desconcertados-expertos-1189370' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/bitcoin-tiene-totalmente-desconcertados-expertos-2936936.jpg?tf=1200x' alt='La locura de los precios de Bitcoin tiene totalmente desconcertados a los expertos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/telescopio-webb-nasa-llega-componentes-basicos-vida-1189364'>El telescopio Webb de la NASA llega hasta los componentes básicos para la vida</a></h4>
-    <a href='https://computerhoy.com/espacio/telescopio-webb-nasa-llega-componentes-basicos-vida-1189364' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/james-webb-jupiter-2792531.jpg?tf=1200x' alt='El telescopio Webb de la NASA llega hasta los componentes básicos para la vida' />
     </a>
 </div>
 
