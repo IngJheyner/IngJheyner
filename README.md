@@ -50,9 +50,17 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/donde-ver-streaming-peliculas-nominadas-oscar-2023-1189592'>En qué plataforma ver las películas nominadas a los Óscar 2023</a></h4>
+    <h4><a href='https://computerhoy.com/hogar/olla-programable-cecotec-tambien-freidora-aire-ideal-varias-personas-oferta-1189596'>Esta olla programable de Cecotec es también una freidora de aire, ideal para varias personas</a></h4>
+    <a href='https://computerhoy.com/hogar/olla-programable-cecotec-tambien-freidora-aire-ideal-varias-personas-oferta-1189596' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/olla-programable-cecotec-tambien-freidora-aire-ideal-varias-personas-2937354.jpg?tf=1200x' alt='Esta olla programable de Cecotec es también una freidora de aire, ideal para varias personas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/donde-ver-streaming-peliculas-nominadas-oscar-2023-1189592'>En qué plataforma ver las películas nominadas a los Óscars 2023</a></h4>
     <a href='https://computerhoy.com/entretenimiento/donde-ver-streaming-peliculas-nominadas-oscar-2023-1189592' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/plataforma-ver-peliculas-nominadas-oscar-2023-2937352.jpg?tf=1200x' alt='En qué plataforma ver las películas nominadas a los Óscar 2023' />
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/plataforma-ver-peliculas-nominadas-oscar-2023-2937352.jpg?tf=1200x' alt='En qué plataforma ver las películas nominadas a los Óscars 2023' />
     </a>
 </div>
 
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/ciencia/enorme-asteroide-chocara-atmosfera-tierra-misma-semana-1189544'>Un enorme asteroide chocará contra la atmósfera de la Tierra esta misma semana</a></h4>
     <a href='https://computerhoy.com/ciencia/enorme-asteroide-chocara-atmosfera-tierra-misma-semana-1189544' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/asteroide-2900550.jpg?tf=1200x' alt='Un enorme asteroide chocará contra la atmósfera de la Tierra esta misma semana' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/100-millones-usuarios-netflix-estan-punto-mira-proximas-semanas-1189568'>Hasta 100 millones de usuarios de Netflix están en el punto de mira en las próximas semanas</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/100-millones-usuarios-netflix-estan-punto-mira-proximas-semanas-1189568' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/netflix-2889718.jpg?tf=1200x' alt='Hasta 100 millones de usuarios de Netflix están en el punto de mira en las próximas semanas' />
     </a>
 </div>
 
