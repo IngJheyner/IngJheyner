@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/100-millones-usuarios-netflix-estan-punto-mira-proximas-semanas-1189568'>Hasta 100 millones de usuarios de Netflix están en el punto de mira en las próximas semanas</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/100-millones-usuarios-netflix-estan-punto-mira-proximas-semanas-1189568' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/netflix-2889718.jpg?tf=1200x' alt='Hasta 100 millones de usuarios de Netflix están en el punto de mira en las próximas semanas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-descargar-videos-youtube-292203'>Cómo descargar un vídeo de YouTube en tu PC (2023)</a></h4>
+    <a href='https://computerhoy.com/tutoriales/tecnologia/como-descargar-videos-youtube-292203' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/youtube-2612035.jpg?tf=1200x' alt='Cómo descargar un vídeo de YouTube en tu PC (2023)' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/moviles/moto-g53-moto-g73-moviles-gama-media-motorola-android-13-1189514'>Moto G53 y Moto G73: móviles de gama media de Motorola con Android 13</a></h4>
+    <a href='https://computerhoy.com/moviles/moto-g53-moto-g73-moviles-gama-media-motorola-android-13-1189514' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/moto-g53-moto-g73-moviles-gama-media-motorola-android-13-2937248.jpg?tf=1200x' alt='Moto G53 y Moto G73: móviles de gama media de Motorola con Android 13' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/cual-diferencia-usb-c-thunderbolt-1189472'>Cuál es la diferencia entre USB-C y Thunderbolt</a></h4>
     <a href='https://computerhoy.com/tecnologia/cual-diferencia-usb-c-thunderbolt-1189472' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/usb-c-2830723.jpg?tf=1200x' alt='Cuál es la diferencia entre USB-C y Thunderbolt' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/alimentacion/llega-renting-robots-cocina-llevate-thermomix-menos-euro-dia-1189502'>Llega el renting a los robots de cocina: llévate una Thermomix por menos de un euro al día</a></h4>
     <a href='https://computerhoy.com/alimentacion/llega-renting-robots-cocina-llevate-thermomix-menos-euro-dia-1189502' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/10/thermomix-tm6_8.jpg?tf=1200x' alt='Llega el renting a los robots de cocina: llévate una Thermomix por menos de un euro al día' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/android-14-podria-quitar-usuarios-mayor-ventaja-frente-ios-1189420'>Android 14 podría quitar a los usuarios la mayor ventaja frente a iOS</a></h4>
-    <a href='https://computerhoy.com/apps/android-14-podria-quitar-usuarios-mayor-ventaja-frente-ios-1189420' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/android-14-2937042.jpg?tf=1200x' alt='Android 14 podría quitar a los usuarios la mayor ventaja frente a iOS' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/funciones-estrella-telegram-convirtiendo-grave-problema-1189394'>Una de las funciones estrella de Telegram se está convirtiendo en un grave problema</a></h4>
-    <a href='https://computerhoy.com/apps/funciones-estrella-telegram-convirtiendo-grave-problema-1189394' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/telegram-2885907.jpg?tf=1200x' alt='Una de las funciones estrella de Telegram se está convirtiendo en un grave problema' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/criptos/locura-precios-bitcoin-tiene-totalmente-desconcertados-expertos-1189370'>La locura de los precios de Bitcoin tiene totalmente desconcertados a los expertos</a></h4>
-    <a href='https://computerhoy.com/criptos/locura-precios-bitcoin-tiene-totalmente-desconcertados-expertos-1189370' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/bitcoin-tiene-totalmente-desconcertados-expertos-2936936.jpg?tf=1200x' alt='La locura de los precios de Bitcoin tiene totalmente desconcertados a los expertos' />
     </a>
 </div>
 
