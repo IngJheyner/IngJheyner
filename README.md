@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/android-14-podria-quitar-usuarios-mayor-ventaja-frente-ios-1189420'>Android 14 podría quitar a los usuarios la mayor ventaja frente a iOS</a></h4>
+    <a href='https://computerhoy.com/apps/android-14-podria-quitar-usuarios-mayor-ventaja-frente-ios-1189420' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/android-14-2937042.jpg?tf=1200x' alt='Android 14 podría quitar a los usuarios la mayor ventaja frente a iOS' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apps/funciones-estrella-telegram-convirtiendo-grave-problema-1189394'>Una de las funciones estrella de Telegram se está convirtiendo en un grave problema</a></h4>
     <a href='https://computerhoy.com/apps/funciones-estrella-telegram-convirtiendo-grave-problema-1189394' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/telegram-2885907.jpg?tf=1200x' alt='Una de las funciones estrella de Telegram se está convirtiendo en un grave problema' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/motor/ya-aqui-help-flash-iot-luz-v16-conectada-dgt-sustituira-triangulos-emergencia-1188788'>Ya está aquí Help Flash IoT, la luz V16 conectada con la DGT que sustituirá a los triángulos de emergencia </a></h4>
     <a href='https://computerhoy.com/motor/ya-aqui-help-flash-iot-luz-v16-conectada-dgt-sustituira-triangulos-emergencia-1188788' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/help-flash-iot-2935820.jpg?tf=1200x' alt='Ya está aquí Help Flash IoT, la luz V16 conectada con la DGT que sustituirá a los triángulos de emergencia ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/samsung-llevara-avanzada-tecnologia-oled-smartphones-nuevos-portatiles-1189338'>Samsung llevará la avanzada tecnología OLED de sus smartphones a sus nuevos portátiles</a></h4>
-    <a href='https://computerhoy.com/tecnologia/samsung-llevara-avanzada-tecnologia-oled-smartphones-nuevos-portatiles-1189338' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/samsung-display-llevara-avanzada-tecnologia-oled-smartphones-portatiles-2936884.jpg?tf=1200x' alt='Samsung llevará la avanzada tecnología OLED de sus smartphones a sus nuevos portátiles' />
     </a>
 </div>
 
