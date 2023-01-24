@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/motor/ya-aqui-help-flash-iot-luz-v16-conectada-dgt-sustituira-triangulos-emergencia-1188788'>Ya está aquí Help Flash IoT, la luz V16 conectada con la DGT que sustituirá a los triángulos de emergencia </a></h4>
+    <a href='https://computerhoy.com/motor/ya-aqui-help-flash-iot-luz-v16-conectada-dgt-sustituira-triangulos-emergencia-1188788' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/help-flash-iot-2935820.jpg?tf=1200x' alt='Ya está aquí Help Flash IoT, la luz V16 conectada con la DGT que sustituirá a los triángulos de emergencia ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/samsung-llevara-avanzada-tecnologia-oled-smartphones-nuevos-portatiles-1189338'>Samsung llevará la avanzada tecnología OLED de sus smartphones a sus nuevos portátiles</a></h4>
+    <a href='https://computerhoy.com/tecnologia/samsung-llevara-avanzada-tecnologia-oled-smartphones-nuevos-portatiles-1189338' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/samsung-display-llevara-avanzada-tecnologia-oled-smartphones-portatiles-2936884.jpg?tf=1200x' alt='Samsung llevará la avanzada tecnología OLED de sus smartphones a sus nuevos portátiles' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/internet/modo-secreto-router-wifi-deberias-activar-ahora-mismo-1189322'>El modo secreto de tu router WiFi que deberías activar ahora mismo</a></h4>
+    <a href='https://computerhoy.com/internet/modo-secreto-router-wifi-deberias-activar-ahora-mismo-1189322' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/router-wifi-2798907.jpg?tf=1200x' alt='El modo secreto de tu router WiFi que deberías activar ahora mismo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/actualizaciones-software-despiertan-funcionalidades-ocultas-van-ser-cada-vez-frecuentes-1189270'>Las actualizaciones de software que despiertan funcionalidades ocultas van a ser cada vez más frecuentes </a></h4>
     <a href='https://computerhoy.com/tecnologia/actualizaciones-software-despiertan-funcionalidades-ocultas-van-ser-cada-vez-frecuentes-1189270' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/actualizaciones-software-despiertan-funcionalidades-ocultas-van-ser-cada-vez-frecuentes-2936842.jpg?tf=1200x' alt='Las actualizaciones de software que despiertan funcionalidades ocultas van a ser cada vez más frecuentes ' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/amazon/amazon-prueba-nueva-suscripcion-medicamentos-genericos-1189304'>Amazon prueba una nueva suscripción... de medicamentos genéricos</a></h4>
     <a href='https://computerhoy.com/amazon/amazon-prueba-nueva-suscripcion-medicamentos-genericos-1189304' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/amazon-farmacia-2936832.jpg?tf=1200x' alt='Amazon prueba una nueva suscripción... de medicamentos genéricos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/rival-samsung-apple-watch-oferta-media-markt-1188744'>El Apple Watch tiene rival en Android: es de Samsung, con WearOS y a un precio rompedor</a></h4>
-    <a href='https://computerhoy.com/tecnologia/rival-samsung-apple-watch-oferta-media-markt-1188744' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/samsung-galaxy-watch-5-pro-analisis-opinion-2809251.jpg?tf=1200x' alt='El Apple Watch tiene rival en Android: es de Samsung, con WearOS y a un precio rompedor' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/google-actualizacion-facilita-sigas-durmiendo-tienes-movil-android-1189268'>Google y la actualización que facilita que sigas durmiendo si tienes un móvil Android</a></h4>
-    <a href='https://computerhoy.com/apps/google-actualizacion-facilita-sigas-durmiendo-tienes-movil-android-1189268' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/alarma-smartphone-2867521.jpg?tf=1200x' alt='Google y la actualización que facilita que sigas durmiendo si tienes un móvil Android' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/estas-son-novedades-llegan-iphone-nueva-version-ios-163-1189260'>Estas son las novedades que llegan a iPhone con la nueva versión iOS 16.3</a></h4>
-    <a href='https://computerhoy.com/apple/estas-son-novedades-llegan-iphone-nueva-version-ios-163-1189260' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/estas-son-novedades-llegan-iphone-nueva-version-ios-163-2936758.jpg?tf=1200x' alt='Estas son las novedades que llegan a iPhone con la nueva versión iOS 16.3' />
     </a>
 </div>
 
