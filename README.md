@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/deepfake-steve-jobs-creado-chatgpt-sintetizador-voz-pensaras-real-1189008'>El deepfake de Steve Jobs creado con ChatGPT y un sintetizador de voz que pensarás que es real</a></h4>
-    <a href='https://computerhoy.com/ciencia/deepfake-steve-jobs-creado-chatgpt-sintetizador-voz-pensaras-real-1189008' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/steve-jobs-2881055.jpg?tf=1200x' alt='El deepfake de Steve Jobs creado con ChatGPT y un sintetizador de voz que pensarás que es real' />
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-teclados-programadores-1103571'>Estos son los mejores teclados para programadores que puedes comprar</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-teclados-programadores-1103571' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/analisis-razer-pro-type-ultra-2532491.jpg?tf=1200x' alt='Estos son los mejores teclados para programadores que puedes comprar' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/estos-juegos-visuales-ves-color-rojo-ya-estas-siendo-enganado-cerebro-1189006'>Si en estos juegos visuales ves el color rojo ya estás siendo engañado por tu cerebro</a></h4>
-    <a href='https://computerhoy.com/life/estos-juegos-visuales-ves-color-rojo-ya-estas-siendo-enganado-cerebro-1189006' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/semaforo-rojo-2936466.jpg?tf=1200x' alt='Si en estos juegos visuales ves el color rojo ya estás siendo engañado por tu cerebro' />
+    <h4><a href='https://computerhoy.com/tecnologia/20-noticias-tecnologia-comenzar-manana-informado-ultimo-1189246'>20 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
+    <a href='https://computerhoy.com/tecnologia/20-noticias-tecnologia-comenzar-manana-informado-ultimo-1189246' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/20-noticias-tecnologia-comenzar-manana-informado-ultimo-2936738.jpg?tf=1200x' alt='20 noticias de tecnología para comenzar la mañana informado de lo último' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/sonic-prime-netflix-fecha-estreno-segunda-temporada-1189002'>Sonic Prime casi acaba de estrenarse en Netflix, pero ya anuncian su segunda temporada</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/sonic-prime-netflix-fecha-estreno-segunda-temporada-1189002' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/verticalimage1674502593120-2936428.jpg?tf=1200x' alt='Sonic Prime casi acaba de estrenarse en Netflix, pero ya anuncian su segunda temporada' />
+    <h4><a href='https://computerhoy.com/life/solo-cinco-minutos-puedes-evitar-problemas-trabajar-sentado-1188938'>Con solo cinco minutos puedes evitar los problemas de trabajar sentado</a></h4>
+    <a href='https://computerhoy.com/life/solo-cinco-minutos-puedes-evitar-problemas-trabajar-sentado-1188938' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/personas-conversando-reunion-oficina-2817699.jpg?tf=1200x' alt='Con solo cinco minutos puedes evitar los problemas de trabajar sentado' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/microsoft-invierte-miles-millones-openia-creadores-chatgpt-dall-funcionaran-solo-nube-1188910'>Microsoft invierte miles de millones en OpenIA, creadores de ChatGPT y DALL-E, que funcionarán solo en su nube </a></h4>
-    <a href='https://computerhoy.com/tecnologia/microsoft-invierte-miles-millones-openia-creadores-chatgpt-dall-funcionaran-solo-nube-1188910' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/microsoft-estrena-nueva-politica-trabajo-tiempo-libre-ilimitado-2926602.jpg?tf=1200x' alt='Microsoft invierte miles de millones en OpenIA, creadores de ChatGPT y DALL-E, que funcionarán solo en su nube ' />
+    <h4><a href='https://computerhoy.com/ciencia/nucleo-tierra-comienza-girar-direccion-contraria-1189234'>El núcleo de la Tierra comienza a girar en dirección contraria, y ya está afectándonos</a></h4>
+    <a href='https://computerhoy.com/ciencia/nucleo-tierra-comienza-girar-direccion-contraria-1189234' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/nucleo-tierra-comienza-girar-direccion-contraria-ya-afectandonos-2936512.jpg?tf=1200x' alt='El núcleo de la Tierra comienza a girar en dirección contraria, y ya está afectándonos' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/gaming/ps5-pro-cada-vez-cerca-todo-sabemos-1188932'>La PS5 Pro cada vez más cerca: esto es todo lo que sabemos</a></h4>
-    <a href='https://computerhoy.com/gaming/ps5-pro-cada-vez-cerca-todo-sabemos-1188932' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/11/analisis-ps5-computerhoy-2140473.jpg?tf=1200x' alt='La PS5 Pro cada vez más cerca: esto es todo lo que sabemos' />
+    <h4><a href='https://computerhoy.com/life/como-organizar-optimizar-rutina-teletrabajo-mejorar-calidad-vida-1188886'>Cómo organizar y optimizar tu rutina de teletrabajo para mejorar tu calidad de vida</a></h4>
+    <a href='https://computerhoy.com/life/como-organizar-optimizar-rutina-teletrabajo-mejorar-calidad-vida-1188886' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/teletrabajo-2584825.jpg?tf=1200x' alt='Cómo organizar y optimizar tu rutina de teletrabajo para mejorar tu calidad de vida' />
     </a>
 </div>
 
