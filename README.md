@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/donde-ver-streaming-peliculas-nominadas-oscar-2023-1189592'>En qué plataforma ver las películas nominadas a los Óscar 2023</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/donde-ver-streaming-peliculas-nominadas-oscar-2023-1189592' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/plataforma-ver-peliculas-nominadas-oscar-2023-2937352.jpg?tf=1200x' alt='En qué plataforma ver las películas nominadas a los Óscar 2023' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/apple-lanza-actualizacion-seguridad-incluso-modelos-iphone-muy-antiguos-1189548'>Apple lanza una actualización de seguridad incluso para modelos de iPhone muy antiguos</a></h4>
+    <a href='https://computerhoy.com/apple/apple-lanza-actualizacion-seguridad-incluso-modelos-iphone-muy-antiguos-1189548' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/iphone-11-2832369.jpg?tf=1200x' alt='Apple lanza una actualización de seguridad incluso para modelos de iPhone muy antiguos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apple/ted-lasso-derechos-humanos-iphone-privacidad-mereces-apple-1189572'>Ted Lasso, los Derechos Humanos y un iPhone: así es la privacidad que mereces según Apple</a></h4>
     <a href='https://computerhoy.com/apple/ted-lasso-derechos-humanos-iphone-privacidad-mereces-apple-1189572' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/privacidad-dispositivos-apple-2937314.jpg?tf=1200x' alt='Ted Lasso, los Derechos Humanos y un iPhone: así es la privacidad que mereces según Apple' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/entretenimiento/100-millones-usuarios-netflix-estan-punto-mira-proximas-semanas-1189568'>Hasta 100 millones de usuarios de Netflix están en el punto de mira en las próximas semanas</a></h4>
     <a href='https://computerhoy.com/entretenimiento/100-millones-usuarios-netflix-estan-punto-mira-proximas-semanas-1189568' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/netflix-2889718.jpg?tf=1200x' alt='Hasta 100 millones de usuarios de Netflix están en el punto de mira en las próximas semanas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-descargar-videos-youtube-292203'>Cómo descargar un vídeo de YouTube en tu PC (2023)</a></h4>
-    <a href='https://computerhoy.com/tutoriales/tecnologia/como-descargar-videos-youtube-292203' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/youtube-2612035.jpg?tf=1200x' alt='Cómo descargar un vídeo de YouTube en tu PC (2023)' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/moto-g53-moto-g73-moviles-gama-media-motorola-android-13-1189514'>Moto G53 y Moto G73: móviles de gama media de Motorola con Android 13</a></h4>
-    <a href='https://computerhoy.com/moviles/moto-g53-moto-g73-moviles-gama-media-motorola-android-13-1189514' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/moto-g53-moto-g73-moviles-gama-media-motorola-android-13-2937248.jpg?tf=1200x' alt='Moto G53 y Moto G73: móviles de gama media de Motorola con Android 13' />
     </a>
 </div>
 
