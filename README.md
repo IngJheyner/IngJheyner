@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/redes-sociales/algoritmo-tiktok-humano-boton-viraliza-videos-1188986'>El algoritmo de TikTok es humano: así es el botón que viraliza los videos</a></h4>
+    <a href='https://computerhoy.com/redes-sociales/algoritmo-tiktok-humano-boton-viraliza-videos-1188986' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/tiktok-2934326.jpg?tf=1200x' alt='El algoritmo de TikTok es humano: así es el botón que viraliza los videos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/competencia-operadoras-low-cost-crece-correos-ofrece-fibra-movil-40-euros-mes-1164168'>La competencia en las operadoras low cost crece: Correos ofrece fibra y móvil por 40 euros al mes</a></h4>
     <a href='https://computerhoy.com/tecnologia/competencia-operadoras-low-cost-crece-correos-ofrece-fibra-movil-40-euros-mes-1164168' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/12/correos-2153983.jpg?tf=1200x' alt='La competencia en las operadoras low cost crece: Correos ofrece fibra y móvil por 40 euros al mes' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/moviles/mejor-codificador-video-actual-no-va-llegar-smartphone-motivo-1190062'>El mejor codificador de vídeo actual no va a llegar a tu smartphone y este es el motivo</a></h4>
     <a href='https://computerhoy.com/moviles/mejor-codificador-video-actual-no-va-llegar-smartphone-motivo-1190062' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/windows-11-estrena-clipchamp-nuevo-editor-video-2640303.jpg?tf=1200x' alt='El mejor codificador de vídeo actual no va a llegar a tu smartphone y este es el motivo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/futuro-ia-google-gpt-4-mundo-laboral-opina-ceo-openai-sam-altman-1189924'>El futuro de la IA, Google, GPT-4 y el mundo laboral: esto es lo que opina el CEO de OpenAI, Sam Altman</a></h4>
-    <a href='https://computerhoy.com/tecnologia/futuro-ia-google-gpt-4-mundo-laboral-opina-ceo-openai-sam-altman-1189924' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/futuro-ia-google-gpt-4-mundo-laboral-opina-ceo-openai-sam-altman-respecto-2937980.jpg?tf=1200x' alt='El futuro de la IA, Google, GPT-4 y el mundo laboral: esto es lo que opina el CEO de OpenAI, Sam Altman' />
     </a>
 </div>
 
