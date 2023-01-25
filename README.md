@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/eeuu-ya-cuenta-leonidas-nueva-arma-guerra-drones-usa-ondas-microondas-1189838'>EE.UU ya cuenta con Leónidas, su nueva arma de guerra contra drones que usa las ondas microondas</a></h4>
+    <a href='https://computerhoy.com/tecnologia/eeuu-ya-cuenta-leonidas-nueva-arma-guerra-drones-usa-ondas-microondas-1189838' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/funciona-leonidas-potente-arma-secreta-eeuu-enjambres-drones-2937594.jpg?tf=1200x' alt='EE.UU ya cuenta con Leónidas, su nueva arma de guerra contra drones que usa las ondas microondas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/gpt-4-sera-verdadera-revolucion-openai-sector-inteligencia-artificial-1188062'>GPT-4: ¿será una verdadera revolución de OpenAI en el sector de la inteligencia artificial?</a></h4>
+    <a href='https://computerhoy.com/tecnologia/gpt-4-sera-verdadera-revolucion-openai-sector-inteligencia-artificial-1188062' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/gpt-4-sera-verdadera-revolucion-sector-inteligencia-artificial-2934662.jpg?tf=1200x' alt='GPT-4: ¿será una verdadera revolución de OpenAI en el sector de la inteligencia artificial?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/xiaomi-redmi-note-10s-merece-pena-comprarlo-1060945'>Xiaomi Redmi Note 10S en 2023: ¿merece la pena? Puntos a favor y en contra</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/xiaomi-redmi-note-10s-merece-pena-comprarlo-1060945' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/galeria-analisis-redmi-note-10s-2327815.jpg?tf=1200x' alt='Xiaomi Redmi Note 10S en 2023: ¿merece la pena? Puntos a favor y en contra' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/26-noticias-tecnologia-comenzar-manana-informado-ultimo-1189822'>26 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
     <a href='https://computerhoy.com/tecnologia/26-noticias-tecnologia-comenzar-manana-informado-ultimo-1189822' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/26-noticias-tecnologia-comenzar-manana-informado-ultimo-2937578.jpg?tf=1200x' alt='26 noticias de tecnología para comenzar la mañana informado de lo último' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/reloj-apocalipsis-90-segundos-fin-mundo-1189814'>El Reloj del Apocalipsis se acerca a solo 90 segundos del fin del mundo, estamos más cerca del Armagedón que en la Segunda Guerra Mundial</a></h4>
-    <a href='https://computerhoy.com/life/reloj-apocalipsis-90-segundos-fin-mundo-1189814' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/reloj-apocalipsis-acerca-solo-90-segundos-fin-mundo-estamos-cerca-armagedon-segunda-guerra-mundial-2937574.jpg?tf=1200x' alt='El Reloj del Apocalipsis se acerca a solo 90 segundos del fin del mundo, estamos más cerca del Armagedón que en la Segunda Guerra Mundial' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/gaming/consola-nintendo-switch-problema-condensacion-agua-solucion-1189812'>Cuidado si tienes una consola Switch: Nintendo avisa de un problema grave que ocurre principalmente en invierno</a></h4>
-    <a href='https://computerhoy.com/gaming/consola-nintendo-switch-problema-condensacion-agua-solucion-1189812' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/trailer-pokemon-lets-go-pikachu-pokemon-lets-go-eevee-nintendo-switch-979299.jpg?tf=1200x' alt='Cuidado si tienes una consola Switch: Nintendo avisa de un problema grave que ocurre principalmente en invierno' />
     </a>
 </div>
 
