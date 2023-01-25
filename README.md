@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/competencia-operadoras-low-cost-crece-correos-ofrece-fibra-movil-40-euros-mes-1164168'>La competencia en las operadoras low cost crece: Correos ofrece fibra y móvil por 40 euros al mes</a></h4>
+    <a href='https://computerhoy.com/tecnologia/competencia-operadoras-low-cost-crece-correos-ofrece-fibra-movil-40-euros-mes-1164168' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/12/correos-2153983.jpg?tf=1200x' alt='La competencia en las operadoras low cost crece: Correos ofrece fibra y móvil por 40 euros al mes' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/redes-sociales/solo-5-personas-frente-twitter-espana-empresa-despide-83-plantilla-1171162'>Solo 5 personas al frente de Twitter España: la empresa despide al 83% de su plantilla</a></h4>
     <a href='https://computerhoy.com/redes-sociales/solo-5-personas-frente-twitter-espana-empresa-despide-83-plantilla-1171162' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/estas-son-algunas-mejores-opciones-ser-nuevo-ceo-twitter-elon-musk-quiere-salvar-red-social-2929310.jpg?tf=1200x' alt='Solo 5 personas al frente de Twitter España: la empresa despide al 83% de su plantilla' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/futuro-ia-google-gpt-4-mundo-laboral-opina-ceo-openai-sam-altman-1189924'>El futuro de la IA, Google, GPT-4 y el mundo laboral: esto es lo que opina el CEO de OpenAI, Sam Altman</a></h4>
     <a href='https://computerhoy.com/tecnologia/futuro-ia-google-gpt-4-mundo-laboral-opina-ceo-openai-sam-altman-1189924' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/futuro-ia-google-gpt-4-mundo-laboral-opina-ceo-openai-sam-altman-respecto-2937980.jpg?tf=1200x' alt='El futuro de la IA, Google, GPT-4 y el mundo laboral: esto es lo que opina el CEO de OpenAI, Sam Altman' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/gaming/nvidia-amazon-pesca-usuarios-stadia-ofreciendo-suscripciones-gratuitas-1190010'>NVIDIA y Amazon a la pesca de usuarios Stadia ofreciendo suscripciones gratuitas</a></h4>
-    <a href='https://computerhoy.com/gaming/nvidia-amazon-pesca-usuarios-stadia-ofreciendo-suscripciones-gratuitas-1190010' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/11/google-stadia_0.jpg?tf=1200x' alt='NVIDIA y Amazon a la pesca de usuarios Stadia ofreciendo suscripciones gratuitas' />
     </a>
 </div>
 
