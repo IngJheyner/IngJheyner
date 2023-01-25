@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/moviles/mejor-codificador-video-actual-no-va-llegar-smartphone-motivo-1190062'>El mejor codificador de vídeo actual no va a llegar a tu smartphone y este es el motivo</a></h4>
+    <a href='https://computerhoy.com/moviles/mejor-codificador-video-actual-no-va-llegar-smartphone-motivo-1190062' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/windows-11-estrena-clipchamp-nuevo-editor-video-2640303.jpg?tf=1200x' alt='El mejor codificador de vídeo actual no va a llegar a tu smartphone y este es el motivo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/futuro-ia-google-gpt-4-mundo-laboral-opina-ceo-openai-sam-altman-1189924'>El futuro de la IA, Google, GPT-4 y el mundo laboral: esto es lo que opina el CEO de OpenAI, Sam Altman</a></h4>
     <a href='https://computerhoy.com/tecnologia/futuro-ia-google-gpt-4-mundo-laboral-opina-ceo-openai-sam-altman-1189924' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/futuro-ia-google-gpt-4-mundo-laboral-opina-ceo-openai-sam-altman-respecto-2937980.jpg?tf=1200x' alt='El futuro de la IA, Google, GPT-4 y el mundo laboral: esto es lo que opina el CEO de OpenAI, Sam Altman' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/ciencia/contaminacion-ciudades-nos-hace-tontos-primer-estudio-cientifico-confirma-1189976'>La contaminación de las ciudades nos hace más tontos y este es el primer estudio científico que lo confirma</a></h4>
     <a href='https://computerhoy.com/ciencia/contaminacion-ciudades-nos-hace-tontos-primer-estudio-cientifico-confirma-1189976' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/contaminacion-ciudades-nos-hace-tontos-primer-estudio-cientifico-confirma-2937974.jpg?tf=1200x' alt='La contaminación de las ciudades nos hace más tontos y este es el primer estudio científico que lo confirma' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/mapa-egolatria-europa-gente-piensa-cultura-superior-demas-1189960'>El mapa de la egolatría en Europa, la gente que piensa que su cultura es superior a los demás</a></h4>
-    <a href='https://computerhoy.com/life/mapa-egolatria-europa-gente-piensa-cultura-superior-demas-1189960' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/europa-2937924.jpg?tf=1200x' alt='El mapa de la egolatría en Europa, la gente que piensa que su cultura es superior a los demás' />
     </a>
 </div>
 
