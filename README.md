@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/gaming/nvidia-amazon-pesca-usuarios-stadia-ofreciendo-suscripciones-gratuitas-1190010'>NVIDIA y Amazon a la pesca de usuarios Stadia ofreciendo suscripciones gratuitas</a></h4>
+    <a href='https://computerhoy.com/gaming/nvidia-amazon-pesca-usuarios-stadia-ofreciendo-suscripciones-gratuitas-1190010' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/11/google-stadia_0.jpg?tf=1200x' alt='NVIDIA y Amazon a la pesca de usuarios Stadia ofreciendo suscripciones gratuitas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/motor/europa-cerca-romper-dependencia-baterias-chinas-1190008'>Europa cerca de romper su dependencia de las baterías chinas</a></h4>
     <a href='https://computerhoy.com/motor/europa-cerca-romper-dependencia-baterias-chinas-1190008' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/baterias-2937972.jpg?tf=1200x' alt='Europa cerca de romper su dependencia de las baterías chinas' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/moviles/galaxy-s23-quedan-secretos-seran-caros-esperado-europa-filtracion-precios-1189926'>Los Galaxy S23 se quedan sin secretos: serán más caros de lo esperado en Europa según la filtración de precios</a></h4>
     <a href='https://computerhoy.com/moviles/galaxy-s23-quedan-secretos-seran-caros-esperado-europa-filtracion-precios-1189926' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/galaxy-s23-quedan-secretos-seran-caros-esperado-europa-filtracion-precios-2937932.jpg?tf=1200x' alt='Los Galaxy S23 se quedan sin secretos: serán más caros de lo esperado en Europa según la filtración de precios' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/hogar/olvida-escoba-robot-aspirador-xiaomi-mejores-hemos-probado-descuento-1189346'>Olvida la escoba con este robot aspirador Xiaomi, uno de los mejores que hemos probado ¡y con descuento!</a></h4>
-    <a href='https://computerhoy.com/hogar/olvida-escoba-robot-aspirador-xiaomi-mejores-hemos-probado-descuento-1189346' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/review-xiaomi-mi-robot-vacuum-mop-2-ultra-2755775.jpg?tf=1200x' alt='Olvida la escoba con este robot aspirador Xiaomi, uno de los mejores que hemos probado ¡y con descuento!' />
     </a>
 </div>
 
