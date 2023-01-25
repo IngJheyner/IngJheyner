@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/hogar/olvida-escoba-robot-aspirador-xiaomi-mejores-hemos-probado-descuento-1189346'>Olvida la escoba con este robot aspirador Xiaomi, uno de los mejores que hemos probado ¡y con descuento!</a></h4>
+    <a href='https://computerhoy.com/hogar/olvida-escoba-robot-aspirador-xiaomi-mejores-hemos-probado-descuento-1189346' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/review-xiaomi-mi-robot-vacuum-mop-2-ultra-2755775.jpg?tf=1200x' alt='Olvida la escoba con este robot aspirador Xiaomi, uno de los mejores que hemos probado ¡y con descuento!' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/consecuencias-tiene-nucleo-tierra-deje-girar-cambie-direccion-1189894'>Qué consecuencias tiene que el núcleo de la tierra deje de girar o cambie de dirección</a></h4>
+    <a href='https://computerhoy.com/ciencia/consecuencias-tiene-nucleo-tierra-deje-girar-cambie-direccion-1189894' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/nucleo-tierra-2937698.jpg?tf=1200x' alt='Qué consecuencias tiene que el núcleo de la tierra deje de girar o cambie de dirección' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/chatgpt-convierte-estudiante-perfecto-aprueba-gran-nota-examen-master-1189860'>ChatGPT se convierte en el estudiante perfecto y aprueba con gran nota un examen de máster</a></h4>
     <a href='https://computerhoy.com/tecnologia/chatgpt-convierte-estudiante-perfecto-aprueba-gran-nota-examen-master-1189860' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/chatgpt-convierte-estudiante-perfecto-aprueba-gran-nota-examen-profesional-2937632.jpg?tf=1200x' alt='ChatGPT se convierte en el estudiante perfecto y aprueba con gran nota un examen de máster' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/criptos/energia-nuclear-minar-bitcoins-como-solucion-verde-estados-unidos-1189858'>Energía nuclear para minar Bitcoins como solución verde en Estados Unidos</a></h4>
     <a href='https://computerhoy.com/criptos/energia-nuclear-minar-bitcoins-como-solucion-verde-estados-unidos-1189858' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/bitcoin-planta-nuclear-2937634.jpg?tf=1200x' alt='Energía nuclear para minar Bitcoins como solución verde en Estados Unidos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/gaming/mini-consolas-retro-android-estilo-game-boy-1188800'>No es una Game Boy: es una superconsola Android que incluso se puede conectar a la tele, y más barata que la Switch</a></h4>
-    <a href='https://computerhoy.com/gaming/mini-consolas-retro-android-estilo-game-boy-1188800' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/consola-portatil-rg353v-2935798.jpg?tf=1200x' alt='No es una Game Boy: es una superconsola Android que incluso se puede conectar a la tele, y más barata que la Switch' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/hogar/flores-eternas-compatibles-mascotas-regalo-perfecto-san-valentin-1189846'>Flores eternas y compatibles con mascotas: regalo perfecto para San Valentín</a></h4>
-    <a href='https://computerhoy.com/hogar/flores-eternas-compatibles-mascotas-regalo-perfecto-san-valentin-1189846' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/lego-flores-2937612.jpg?tf=1200x' alt='Flores eternas y compatibles con mascotas: regalo perfecto para San Valentín' />
     </a>
 </div>
 
