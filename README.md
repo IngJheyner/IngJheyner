@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/hogar/electrodomesticos-inteligentes-son-fracaso-fabricantes-empiezan-ser-conscientes-1169982'>Los electrodomésticos inteligentes son un fracaso y los fabricantes empiezan a ser conscientes</a></h4>
+    <a href='https://computerhoy.com/hogar/electrodomesticos-inteligentes-son-fracaso-fabricantes-empiezan-ser-conscientes-1169982' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/electrodomesticos-2930880.jpg?tf=1200x' alt='Los electrodomésticos inteligentes son un fracaso y los fabricantes empiezan a ser conscientes' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/moviles/mejor-codificador-video-actual-no-va-llegar-smartphone-motivo-1190062'>El mejor codificador de vídeo actual no va a llegar a tu smartphone y este es el motivo</a></h4>
     <a href='https://computerhoy.com/moviles/mejor-codificador-video-actual-no-va-llegar-smartphone-motivo-1190062' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/windows-11-estrena-clipchamp-nuevo-editor-video-2640303.jpg?tf=1200x' alt='El mejor codificador de vídeo actual no va a llegar a tu smartphone y este es el motivo' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/motor/europa-cerca-romper-dependencia-baterias-chinas-1190008'>Europa cerca de romper su dependencia de las baterías chinas</a></h4>
     <a href='https://computerhoy.com/motor/europa-cerca-romper-dependencia-baterias-chinas-1190008' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/baterias-2937972.jpg?tf=1200x' alt='Europa cerca de romper su dependencia de las baterías chinas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/contaminacion-ciudades-nos-hace-tontos-primer-estudio-cientifico-confirma-1189976'>La contaminación de las ciudades nos hace más tontos y este es el primer estudio científico que lo confirma</a></h4>
-    <a href='https://computerhoy.com/ciencia/contaminacion-ciudades-nos-hace-tontos-primer-estudio-cientifico-confirma-1189976' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/contaminacion-ciudades-nos-hace-tontos-primer-estudio-cientifico-confirma-2937974.jpg?tf=1200x' alt='La contaminación de las ciudades nos hace más tontos y este es el primer estudio científico que lo confirma' />
     </a>
 </div>
 
