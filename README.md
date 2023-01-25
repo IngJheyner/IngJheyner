@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/redmi-pad-tablet-dia-dia-buena-autonomia-70-euros-descuento-1190164'>Redmi Pad, una tablet para el día a día con una buena autonomía, y 70 euros de descuento</a></h4>
+    <a href='https://computerhoy.com/tecnologia/redmi-pad-tablet-dia-dia-buena-autonomia-70-euros-descuento-1190164' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/redmi-pad-2883471.jpg?tf=1200x' alt='Redmi Pad, una tablet para el día a día con una buena autonomía, y 70 euros de descuento' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/espacio/cohete-nuclear-nasa-lanzara-2027-orbitara-durante-300-anos-1190160'>El cohete nuclear de la NASA que se lanzará en 2027 y que orbitará durante 300 años</a></h4>
+    <a href='https://computerhoy.com/espacio/cohete-nuclear-nasa-lanzara-2027-orbitara-durante-300-anos-1190160' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/cohete-2862309.jpg?tf=1200x' alt='El cohete nuclear de la NASA que se lanzará en 2027 y que orbitará durante 300 años' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/motor/estos-son-usuarios-van-tener-complicado-renovar-carnet-conducir-2023-1190156'>Estos son los usuarios que lo van a tener más complicado renovar el carnet de conducir en 2023</a></h4>
+    <a href='https://computerhoy.com/motor/estos-son-usuarios-van-tener-complicado-renovar-carnet-conducir-2023-1190156' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/10/carnet-conducir-2114553.jpg?tf=1200x' alt='Estos son los usuarios que lo van a tener más complicado renovar el carnet de conducir en 2023' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/redes-sociales/algoritmo-tiktok-humano-boton-viraliza-videos-1188986'>El algoritmo de TikTok es humano: así es el botón que viraliza los videos</a></h4>
     <a href='https://computerhoy.com/redes-sociales/algoritmo-tiktok-humano-boton-viraliza-videos-1188986' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/tiktok-2934326.jpg?tf=1200x' alt='El algoritmo de TikTok es humano: así es el botón que viraliza los videos' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/competencia-operadoras-low-cost-crece-correos-ofrece-fibra-movil-40-euros-mes-1164168'>La competencia en las operadoras low cost crece: Correos ofrece fibra y móvil por 40 euros al mes</a></h4>
     <a href='https://computerhoy.com/tecnologia/competencia-operadoras-low-cost-crece-correos-ofrece-fibra-movil-40-euros-mes-1164168' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/12/correos-2153983.jpg?tf=1200x' alt='La competencia en las operadoras low cost crece: Correos ofrece fibra y móvil por 40 euros al mes' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/redes-sociales/solo-5-personas-frente-twitter-espana-empresa-despide-83-plantilla-1171162'>Solo 5 personas al frente de Twitter España: la empresa despide al 83% de su plantilla</a></h4>
-    <a href='https://computerhoy.com/redes-sociales/solo-5-personas-frente-twitter-espana-empresa-despide-83-plantilla-1171162' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/estas-son-algunas-mejores-opciones-ser-nuevo-ceo-twitter-elon-musk-quiere-salvar-red-social-2929310.jpg?tf=1200x' alt='Solo 5 personas al frente de Twitter España: la empresa despide al 83% de su plantilla' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/hogar/electrodomesticos-inteligentes-son-fracaso-fabricantes-empiezan-ser-conscientes-1169982'>Los electrodomésticos inteligentes son un fracaso y los fabricantes empiezan a ser conscientes</a></h4>
-    <a href='https://computerhoy.com/hogar/electrodomesticos-inteligentes-son-fracaso-fabricantes-empiezan-ser-conscientes-1169982' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/electrodomesticos-2930880.jpg?tf=1200x' alt='Los electrodomésticos inteligentes son un fracaso y los fabricantes empiezan a ser conscientes' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/mejor-codificador-video-actual-no-va-llegar-smartphone-motivo-1190062'>El mejor codificador de vídeo actual no va a llegar a tu smartphone y este es el motivo</a></h4>
-    <a href='https://computerhoy.com/moviles/mejor-codificador-video-actual-no-va-llegar-smartphone-motivo-1190062' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/windows-11-estrena-clipchamp-nuevo-editor-video-2640303.jpg?tf=1200x' alt='El mejor codificador de vídeo actual no va a llegar a tu smartphone y este es el motivo' />
     </a>
 </div>
 
