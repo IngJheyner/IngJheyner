@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/motor/europa-cerca-romper-dependencia-baterias-chinas-1190008'>Europa cerca de romper su dependencia de las baterías chinas</a></h4>
+    <a href='https://computerhoy.com/motor/europa-cerca-romper-dependencia-baterias-chinas-1190008' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/baterias-2937972.jpg?tf=1200x' alt='Europa cerca de romper su dependencia de las baterías chinas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/contaminacion-ciudades-nos-hace-tontos-primer-estudio-cientifico-confirma-1189976'>La contaminación de las ciudades nos hace más tontos y este es el primer estudio científico que lo confirma</a></h4>
+    <a href='https://computerhoy.com/ciencia/contaminacion-ciudades-nos-hace-tontos-primer-estudio-cientifico-confirma-1189976' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/contaminacion-ciudades-nos-hace-tontos-primer-estudio-cientifico-confirma-2937974.jpg?tf=1200x' alt='La contaminación de las ciudades nos hace más tontos y este es el primer estudio científico que lo confirma' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/mapa-egolatria-europa-gente-piensa-cultura-superior-demas-1189960'>El mapa de la egolatría en Europa, la gente que piensa que su cultura es superior a los demás</a></h4>
     <a href='https://computerhoy.com/life/mapa-egolatria-europa-gente-piensa-cultura-superior-demas-1189960' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/europa-2937924.jpg?tf=1200x' alt='El mapa de la egolatría en Europa, la gente que piensa que su cultura es superior a los demás' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/hogar/olvida-escoba-robot-aspirador-xiaomi-mejores-hemos-probado-descuento-1189346'>Olvida la escoba con este robot aspirador Xiaomi, uno de los mejores que hemos probado ¡y con descuento!</a></h4>
     <a href='https://computerhoy.com/hogar/olvida-escoba-robot-aspirador-xiaomi-mejores-hemos-probado-descuento-1189346' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/review-xiaomi-mi-robot-vacuum-mop-2-ultra-2755775.jpg?tf=1200x' alt='Olvida la escoba con este robot aspirador Xiaomi, uno de los mejores que hemos probado ¡y con descuento!' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/consecuencias-tiene-nucleo-tierra-deje-girar-cambie-direccion-1189894'>Qué consecuencias tiene que el núcleo de la tierra deje de girar o cambie de dirección</a></h4>
-    <a href='https://computerhoy.com/ciencia/consecuencias-tiene-nucleo-tierra-deje-girar-cambie-direccion-1189894' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/nucleo-tierra-2937698.jpg?tf=1200x' alt='Qué consecuencias tiene que el núcleo de la tierra deje de girar o cambie de dirección' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/chatgpt-convierte-estudiante-perfecto-aprueba-gran-nota-examen-master-1189860'>ChatGPT se convierte en el estudiante perfecto y aprueba con gran nota un examen de máster</a></h4>
-    <a href='https://computerhoy.com/tecnologia/chatgpt-convierte-estudiante-perfecto-aprueba-gran-nota-examen-master-1189860' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/chatgpt-convierte-estudiante-perfecto-aprueba-gran-nota-examen-profesional-2937632.jpg?tf=1200x' alt='ChatGPT se convierte en el estudiante perfecto y aprueba con gran nota un examen de máster' />
     </a>
 </div>
 
