@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/futuro-ia-google-gpt-4-mundo-laboral-opina-ceo-openai-sam-altman-1189924'>El futuro de la IA, Google, GPT-4 y el mundo laboral: esto es lo que opina el CEO de OpenAI, Sam Altman</a></h4>
+    <a href='https://computerhoy.com/tecnologia/futuro-ia-google-gpt-4-mundo-laboral-opina-ceo-openai-sam-altman-1189924' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/futuro-ia-google-gpt-4-mundo-laboral-opina-ceo-openai-sam-altman-respecto-2937980.jpg?tf=1200x' alt='El futuro de la IA, Google, GPT-4 y el mundo laboral: esto es lo que opina el CEO de OpenAI, Sam Altman' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/gaming/nvidia-amazon-pesca-usuarios-stadia-ofreciendo-suscripciones-gratuitas-1190010'>NVIDIA y Amazon a la pesca de usuarios Stadia ofreciendo suscripciones gratuitas</a></h4>
     <a href='https://computerhoy.com/gaming/nvidia-amazon-pesca-usuarios-stadia-ofreciendo-suscripciones-gratuitas-1190010' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/11/google-stadia_0.jpg?tf=1200x' alt='NVIDIA y Amazon a la pesca de usuarios Stadia ofreciendo suscripciones gratuitas' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/life/mapa-egolatria-europa-gente-piensa-cultura-superior-demas-1189960'>El mapa de la egolatría en Europa, la gente que piensa que su cultura es superior a los demás</a></h4>
     <a href='https://computerhoy.com/life/mapa-egolatria-europa-gente-piensa-cultura-superior-demas-1189960' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/europa-2937924.jpg?tf=1200x' alt='El mapa de la egolatría en Europa, la gente que piensa que su cultura es superior a los demás' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/galaxy-s23-quedan-secretos-seran-caros-esperado-europa-filtracion-precios-1189926'>Los Galaxy S23 se quedan sin secretos: serán más caros de lo esperado en Europa según la filtración de precios</a></h4>
-    <a href='https://computerhoy.com/moviles/galaxy-s23-quedan-secretos-seran-caros-esperado-europa-filtracion-precios-1189926' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/galaxy-s23-quedan-secretos-seran-caros-esperado-europa-filtracion-precios-2937932.jpg?tf=1200x' alt='Los Galaxy S23 se quedan sin secretos: serán más caros de lo esperado en Europa según la filtración de precios' />
     </a>
 </div>
 
