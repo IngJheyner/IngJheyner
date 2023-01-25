@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/gaming/consola-nintendo-switch-problema-condensacion-agua-solucion-1189812'>Cuidado si tienes una consola Switch: Nintendo avisa de un problema grave que ocurre principalmente en invierno</a></h4>
+    <a href='https://computerhoy.com/gaming/consola-nintendo-switch-problema-condensacion-agua-solucion-1189812' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/trailer-pokemon-lets-go-pikachu-pokemon-lets-go-eevee-nintendo-switch-979299.jpg?tf=1200x' alt='Cuidado si tienes una consola Switch: Nintendo avisa de un problema grave que ocurre principalmente en invierno' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/hogar/olla-programable-cecotec-tambien-freidora-aire-ideal-varias-personas-oferta-1189596'>Esta olla programable de Cecotec es también una freidora de aire, ideal para varias personas</a></h4>
     <a href='https://computerhoy.com/hogar/olla-programable-cecotec-tambien-freidora-aire-ideal-varias-personas-oferta-1189596' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/olla-programable-cecotec-tambien-freidora-aire-ideal-varias-personas-2937354.jpg?tf=1200x' alt='Esta olla programable de Cecotec es también una freidora de aire, ideal para varias personas' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/apple/ted-lasso-derechos-humanos-iphone-privacidad-mereces-apple-1189572'>Ted Lasso, los Derechos Humanos y un iPhone: así es la privacidad que mereces según Apple</a></h4>
     <a href='https://computerhoy.com/apple/ted-lasso-derechos-humanos-iphone-privacidad-mereces-apple-1189572' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/privacidad-dispositivos-apple-2937314.jpg?tf=1200x' alt='Ted Lasso, los Derechos Humanos y un iPhone: así es la privacidad que mereces según Apple' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/enorme-asteroide-chocara-atmosfera-tierra-misma-semana-1189544'>Un enorme asteroide chocará contra la atmósfera de la Tierra esta misma semana</a></h4>
-    <a href='https://computerhoy.com/ciencia/enorme-asteroide-chocara-atmosfera-tierra-misma-semana-1189544' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/asteroide-2900550.jpg?tf=1200x' alt='Un enorme asteroide chocará contra la atmósfera de la Tierra esta misma semana' />
     </a>
 </div>
 
