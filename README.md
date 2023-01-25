@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/reloj-apocalipsis-90-segundos-fin-mundo-1189814'>El Reloj del Apocalipsis se acerca a solo 90 segundos del fin del mundo, estamos más cerca del Armagedón que en la Segunda Guerra Mundial</a></h4>
+    <a href='https://computerhoy.com/life/reloj-apocalipsis-90-segundos-fin-mundo-1189814' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/reloj-apocalipsis-acerca-solo-90-segundos-fin-mundo-estamos-cerca-armagedon-segunda-guerra-mundial-2937574.jpg?tf=1200x' alt='El Reloj del Apocalipsis se acerca a solo 90 segundos del fin del mundo, estamos más cerca del Armagedón que en la Segunda Guerra Mundial' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/gaming/consola-nintendo-switch-problema-condensacion-agua-solucion-1189812'>Cuidado si tienes una consola Switch: Nintendo avisa de un problema grave que ocurre principalmente en invierno</a></h4>
     <a href='https://computerhoy.com/gaming/consola-nintendo-switch-problema-condensacion-agua-solucion-1189812' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/trailer-pokemon-lets-go-pikachu-pokemon-lets-go-eevee-nintendo-switch-979299.jpg?tf=1200x' alt='Cuidado si tienes una consola Switch: Nintendo avisa de un problema grave que ocurre principalmente en invierno' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/apple/apple-lanza-actualizacion-seguridad-incluso-modelos-iphone-muy-antiguos-1189548'>Apple lanza una actualización de seguridad incluso para modelos de iPhone muy antiguos</a></h4>
     <a href='https://computerhoy.com/apple/apple-lanza-actualizacion-seguridad-incluso-modelos-iphone-muy-antiguos-1189548' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/iphone-11-2832369.jpg?tf=1200x' alt='Apple lanza una actualización de seguridad incluso para modelos de iPhone muy antiguos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/ted-lasso-derechos-humanos-iphone-privacidad-mereces-apple-1189572'>Ted Lasso, los Derechos Humanos y un iPhone: así es la privacidad que mereces según Apple</a></h4>
-    <a href='https://computerhoy.com/apple/ted-lasso-derechos-humanos-iphone-privacidad-mereces-apple-1189572' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/privacidad-dispositivos-apple-2937314.jpg?tf=1200x' alt='Ted Lasso, los Derechos Humanos y un iPhone: así es la privacidad que mereces según Apple' />
     </a>
 </div>
 
