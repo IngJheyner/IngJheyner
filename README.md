@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/chatgpt-convierte-estudiante-perfecto-aprueba-gran-nota-examen-master-1189860'>ChatGPT se convierte en el estudiante perfecto y aprueba con gran nota un examen de máster</a></h4>
+    <a href='https://computerhoy.com/tecnologia/chatgpt-convierte-estudiante-perfecto-aprueba-gran-nota-examen-master-1189860' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/chatgpt-convierte-estudiante-perfecto-aprueba-gran-nota-examen-profesional-2937632.jpg?tf=1200x' alt='ChatGPT se convierte en el estudiante perfecto y aprueba con gran nota un examen de máster' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/caida-mundial-teams-xbox-live-outlook-microsoft-365-ya-ha-afectado-multitud-usuarios-1189870'>Caída mundial de Teams, Xbox Live, Outlook y Microsoft 365 que ya ha afectado a multitud de usuarios</a></h4>
+    <a href='https://computerhoy.com/tecnologia/caida-mundial-teams-xbox-live-outlook-microsoft-365-ya-ha-afectado-multitud-usuarios-1189870' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/caida-mundial-teams-xbox-live-outlook-microsoft-365-ya-ha-afectado-multitud-usuarios-2937674.jpg?tf=1200x' alt='Caída mundial de Teams, Xbox Live, Outlook y Microsoft 365 que ya ha afectado a multitud de usuarios' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/criptos/energia-nuclear-minar-bitcoins-como-solucion-verde-estados-unidos-1189858'>Energía nuclear para minar Bitcoins como solución verde en Estados Unidos</a></h4>
+    <a href='https://computerhoy.com/criptos/energia-nuclear-minar-bitcoins-como-solucion-verde-estados-unidos-1189858' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/bitcoin-planta-nuclear-2937634.jpg?tf=1200x' alt='Energía nuclear para minar Bitcoins como solución verde en Estados Unidos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/gaming/mini-consolas-retro-android-estilo-game-boy-1188800'>No es una Game Boy: es una superconsola Android que incluso se puede conectar a la tele, y más barata que la Switch</a></h4>
     <a href='https://computerhoy.com/gaming/mini-consolas-retro-android-estilo-game-boy-1188800' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/consola-portatil-rg353v-2935798.jpg?tf=1200x' alt='No es una Game Boy: es una superconsola Android que incluso se puede conectar a la tele, y más barata que la Switch' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/hogar/flores-eternas-compatibles-mascotas-regalo-perfecto-san-valentin-1189846'>Flores eternas y compatibles con mascotas: regalo perfecto para San Valentín</a></h4>
     <a href='https://computerhoy.com/hogar/flores-eternas-compatibles-mascotas-regalo-perfecto-san-valentin-1189846' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/lego-flores-2937612.jpg?tf=1200x' alt='Flores eternas y compatibles con mascotas: regalo perfecto para San Valentín' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/eeuu-ya-cuenta-leonidas-nueva-arma-guerra-drones-usa-ondas-microondas-1189838'>EE.UU ya cuenta con Leónidas, su nueva arma de guerra contra drones que usa las ondas microondas</a></h4>
-    <a href='https://computerhoy.com/tecnologia/eeuu-ya-cuenta-leonidas-nueva-arma-guerra-drones-usa-ondas-microondas-1189838' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/funciona-leonidas-potente-arma-secreta-eeuu-enjambres-drones-2937594.jpg?tf=1200x' alt='EE.UU ya cuenta con Leónidas, su nueva arma de guerra contra drones que usa las ondas microondas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/gpt-4-sera-verdadera-revolucion-openai-sector-inteligencia-artificial-1188062'>GPT-4: ¿será una verdadera revolución de OpenAI en el sector de la inteligencia artificial?</a></h4>
-    <a href='https://computerhoy.com/tecnologia/gpt-4-sera-verdadera-revolucion-openai-sector-inteligencia-artificial-1188062' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/gpt-4-sera-verdadera-revolucion-sector-inteligencia-artificial-2934662.jpg?tf=1200x' alt='GPT-4: ¿será una verdadera revolución de OpenAI en el sector de la inteligencia artificial?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/xiaomi-redmi-note-10s-merece-pena-comprarlo-1060945'>Xiaomi Redmi Note 10S en 2023: ¿merece la pena? Puntos a favor y en contra</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/xiaomi-redmi-note-10s-merece-pena-comprarlo-1060945' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/galeria-analisis-redmi-note-10s-2327815.jpg?tf=1200x' alt='Xiaomi Redmi Note 10S en 2023: ¿merece la pena? Puntos a favor y en contra' />
     </a>
 </div>
 
