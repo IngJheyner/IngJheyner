@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/redes-sociales/solo-5-personas-frente-twitter-espana-empresa-despide-83-plantilla-1171162'>Solo 5 personas al frente de Twitter España: la empresa despide al 83% de su plantilla</a></h4>
+    <a href='https://computerhoy.com/redes-sociales/solo-5-personas-frente-twitter-espana-empresa-despide-83-plantilla-1171162' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/estas-son-algunas-mejores-opciones-ser-nuevo-ceo-twitter-elon-musk-quiere-salvar-red-social-2929310.jpg?tf=1200x' alt='Solo 5 personas al frente de Twitter España: la empresa despide al 83% de su plantilla' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/hogar/electrodomesticos-inteligentes-son-fracaso-fabricantes-empiezan-ser-conscientes-1169982'>Los electrodomésticos inteligentes son un fracaso y los fabricantes empiezan a ser conscientes</a></h4>
     <a href='https://computerhoy.com/hogar/electrodomesticos-inteligentes-son-fracaso-fabricantes-empiezan-ser-conscientes-1169982' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/electrodomesticos-2930880.jpg?tf=1200x' alt='Los electrodomésticos inteligentes son un fracaso y los fabricantes empiezan a ser conscientes' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/gaming/nvidia-amazon-pesca-usuarios-stadia-ofreciendo-suscripciones-gratuitas-1190010'>NVIDIA y Amazon a la pesca de usuarios Stadia ofreciendo suscripciones gratuitas</a></h4>
     <a href='https://computerhoy.com/gaming/nvidia-amazon-pesca-usuarios-stadia-ofreciendo-suscripciones-gratuitas-1190010' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/11/google-stadia_0.jpg?tf=1200x' alt='NVIDIA y Amazon a la pesca de usuarios Stadia ofreciendo suscripciones gratuitas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/europa-cerca-romper-dependencia-baterias-chinas-1190008'>Europa cerca de romper su dependencia de las baterías chinas</a></h4>
-    <a href='https://computerhoy.com/motor/europa-cerca-romper-dependencia-baterias-chinas-1190008' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/baterias-2937972.jpg?tf=1200x' alt='Europa cerca de romper su dependencia de las baterías chinas' />
     </a>
 </div>
 
