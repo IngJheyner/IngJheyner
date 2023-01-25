@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/gaming/mini-consolas-retro-android-estilo-game-boy-1188800'>No es una Game Boy: es una superconsola Android que incluso se puede conectar a la tele, y más barata que la Switch</a></h4>
+    <a href='https://computerhoy.com/gaming/mini-consolas-retro-android-estilo-game-boy-1188800' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/consola-portatil-rg353v-2935798.jpg?tf=1200x' alt='No es una Game Boy: es una superconsola Android que incluso se puede conectar a la tele, y más barata que la Switch' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/hogar/flores-eternas-compatibles-mascotas-regalo-perfecto-san-valentin-1189846'>Flores eternas y compatibles con mascotas: regalo perfecto para San Valentín</a></h4>
+    <a href='https://computerhoy.com/hogar/flores-eternas-compatibles-mascotas-regalo-perfecto-san-valentin-1189846' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/lego-flores-2937612.jpg?tf=1200x' alt='Flores eternas y compatibles con mascotas: regalo perfecto para San Valentín' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/eeuu-ya-cuenta-leonidas-nueva-arma-guerra-drones-usa-ondas-microondas-1189838'>EE.UU ya cuenta con Leónidas, su nueva arma de guerra contra drones que usa las ondas microondas</a></h4>
     <a href='https://computerhoy.com/tecnologia/eeuu-ya-cuenta-leonidas-nueva-arma-guerra-drones-usa-ondas-microondas-1189838' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/funciona-leonidas-potente-arma-secreta-eeuu-enjambres-drones-2937594.jpg?tf=1200x' alt='EE.UU ya cuenta con Leónidas, su nueva arma de guerra contra drones que usa las ondas microondas' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/xiaomi-redmi-note-10s-merece-pena-comprarlo-1060945'>Xiaomi Redmi Note 10S en 2023: ¿merece la pena? Puntos a favor y en contra</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/xiaomi-redmi-note-10s-merece-pena-comprarlo-1060945' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/galeria-analisis-redmi-note-10s-2327815.jpg?tf=1200x' alt='Xiaomi Redmi Note 10S en 2023: ¿merece la pena? Puntos a favor y en contra' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/rinden-camaras-futuro-samsung-galaxy-s23-ultra-vs-pixel-7-pro-1189504'>Así rinden las cámaras del futuro Samsung Galaxy S23 Ultra vs Pixel 7 Pro</a></h4>
-    <a href='https://computerhoy.com/moviles/rinden-camaras-futuro-samsung-galaxy-s23-ultra-vs-pixel-7-pro-1189504' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/samsung-galaxy-s23-ultra-2937176.jpg?tf=1200x' alt='Así rinden las cámaras del futuro Samsung Galaxy S23 Ultra vs Pixel 7 Pro' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/26-noticias-tecnologia-comenzar-manana-informado-ultimo-1189822'>26 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
-    <a href='https://computerhoy.com/tecnologia/26-noticias-tecnologia-comenzar-manana-informado-ultimo-1189822' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/26-noticias-tecnologia-comenzar-manana-informado-ultimo-2937578.jpg?tf=1200x' alt='26 noticias de tecnología para comenzar la mañana informado de lo último' />
     </a>
 </div>
 
