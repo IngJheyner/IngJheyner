@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/mapa-egolatria-europa-gente-piensa-cultura-superior-demas-1189960'>El mapa de la egolatría en Europa, la gente que piensa que su cultura es superior a los demás</a></h4>
+    <a href='https://computerhoy.com/life/mapa-egolatria-europa-gente-piensa-cultura-superior-demas-1189960' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/europa-2937924.jpg?tf=1200x' alt='El mapa de la egolatría en Europa, la gente que piensa que su cultura es superior a los demás' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/moviles/galaxy-s23-quedan-secretos-seran-caros-esperado-europa-filtracion-precios-1189926'>Los Galaxy S23 se quedan sin secretos: serán más caros de lo esperado en Europa según la filtración de precios</a></h4>
+    <a href='https://computerhoy.com/moviles/galaxy-s23-quedan-secretos-seran-caros-esperado-europa-filtracion-precios-1189926' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/galaxy-s23-quedan-secretos-seran-caros-esperado-europa-filtracion-precios-2937932.jpg?tf=1200x' alt='Los Galaxy S23 se quedan sin secretos: serán más caros de lo esperado en Europa según la filtración de precios' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/hogar/olvida-escoba-robot-aspirador-xiaomi-mejores-hemos-probado-descuento-1189346'>Olvida la escoba con este robot aspirador Xiaomi, uno de los mejores que hemos probado ¡y con descuento!</a></h4>
     <a href='https://computerhoy.com/hogar/olvida-escoba-robot-aspirador-xiaomi-mejores-hemos-probado-descuento-1189346' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/review-xiaomi-mi-robot-vacuum-mop-2-ultra-2755775.jpg?tf=1200x' alt='Olvida la escoba con este robot aspirador Xiaomi, uno de los mejores que hemos probado ¡y con descuento!' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/chatgpt-convierte-estudiante-perfecto-aprueba-gran-nota-examen-master-1189860'>ChatGPT se convierte en el estudiante perfecto y aprueba con gran nota un examen de máster</a></h4>
     <a href='https://computerhoy.com/tecnologia/chatgpt-convierte-estudiante-perfecto-aprueba-gran-nota-examen-master-1189860' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/chatgpt-convierte-estudiante-perfecto-aprueba-gran-nota-examen-profesional-2937632.jpg?tf=1200x' alt='ChatGPT se convierte en el estudiante perfecto y aprueba con gran nota un examen de máster' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/caida-mundial-teams-xbox-live-outlook-microsoft-365-ya-ha-afectado-multitud-usuarios-1189870'>Caída mundial de Teams, Xbox Live, Outlook y Microsoft 365 que ya ha afectado a multitud de usuarios</a></h4>
-    <a href='https://computerhoy.com/tecnologia/caida-mundial-teams-xbox-live-outlook-microsoft-365-ya-ha-afectado-multitud-usuarios-1189870' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/caida-mundial-teams-xbox-live-outlook-microsoft-365-ya-ha-afectado-multitud-usuarios-2937674.jpg?tf=1200x' alt='Caída mundial de Teams, Xbox Live, Outlook y Microsoft 365 que ya ha afectado a multitud de usuarios' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/criptos/energia-nuclear-minar-bitcoins-como-solucion-verde-estados-unidos-1189858'>Energía nuclear para minar Bitcoins como solución verde en Estados Unidos</a></h4>
-    <a href='https://computerhoy.com/criptos/energia-nuclear-minar-bitcoins-como-solucion-verde-estados-unidos-1189858' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/bitcoin-planta-nuclear-2937634.jpg?tf=1200x' alt='Energía nuclear para minar Bitcoins como solución verde en Estados Unidos' />
     </a>
 </div>
 
