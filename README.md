@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/samsung-galaxy-m53-5g-buen-movil-oferta-1189336'>Este móvil Samsung presume de pantalla 120 Hz y también de precio: compite de tú a tú contra los Xiaomi</a></h4>
+    <a href='https://computerhoy.com/tecnologia/samsung-galaxy-m53-5g-buen-movil-oferta-1189336' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/samsung-galaxy-m53-2776983.jpg?tf=1200x' alt='Este móvil Samsung presume de pantalla 120 Hz y también de precio: compite de tú a tú contra los Xiaomi' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/multimillonario-45-anos-gastando-2-millones-dolares-ano-volver-ser-adolescente-1190730'>Este multimillonario de 45 años se está gastando 2 millones de dólares al año para volver a ser un adolescente</a></h4>
+    <a href='https://computerhoy.com/life/multimillonario-45-anos-gastando-2-millones-dolares-ano-volver-ser-adolescente-1190730' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/biohacker-invierte-2-millones-ano-lograr-cuerpo-cuando-tenia-18-anos-2939138.jpg?tf=1200x' alt='Este multimillonario de 45 años se está gastando 2 millones de dólares al año para volver a ser un adolescente' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/piratas-informaticos-usan-programa-windows-11-acceder-pc-1190722'>Piratas informáticos usan este programa de Windows 11 para acceder a tu PC</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/piratas-informaticos-usan-programa-windows-11-acceder-pc-1190722' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/malware-onenote-2939126.jpg?tf=1200x' alt='Piratas informáticos usan este programa de Windows 11 para acceder a tu PC' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/secretos-superagers-mayores-cerebro-personas-30-anos-jovenes-1187180'>Los secretos de los SuperAgers, mayores con el cerebro de personas 30 años más jóvenes</a></h4>
     <a href='https://computerhoy.com/life/secretos-superagers-mayores-cerebro-personas-30-anos-jovenes-1187180' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/ancianos-redes-sociales-2740341.jpg?tf=1200x' alt='Los secretos de los SuperAgers, mayores con el cerebro de personas 30 años más jóvenes' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/google/maravillas-google-street-view-viaja-lugares-surrealistas-mundo-salir-casa-1170604'>Maravillas de Google Street View, viaja por los lugares más surrealistas del mundo sin salir de casa</a></h4>
     <a href='https://computerhoy.com/google/maravillas-google-street-view-viaja-lugares-surrealistas-mundo-salir-casa-1170604' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/maravillas-google-street-view-viaja-lugares-surrealistas-mundo-salir-casa-2938980.jpg?tf=1200x' alt='Maravillas de Google Street View, viaja por los lugares más surrealistas del mundo sin salir de casa' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/nube-correos-archivos-sera-proximo-explorador-archivos-windows-11-1177032'>Nube, correos y archivos: así será el próximo Explorador de archivos de Windows 11</a></h4>
-    <a href='https://computerhoy.com/windows/nube-correos-archivos-sera-proximo-explorador-archivos-windows-11-1177032' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/windows-11-2934724.jpg?tf=1200x' alt='Nube, correos y archivos: así será el próximo Explorador de archivos de Windows 11' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/gaming/hacer-trampas-league-legends-juego-podria-ser-vulnerable-ataque-riot-1190632'>Hacer trampas al League of Legends, el juego podría ser vulnerable tras el ataque a Riot</a></h4>
-    <a href='https://computerhoy.com/gaming/hacer-trampas-league-legends-juego-podria-ser-vulnerable-ataque-riot-1190632' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/09/league-legends_0.jpg?tf=1200x' alt='Hacer trampas al League of Legends, el juego podría ser vulnerable tras el ataque a Riot' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/streaming/google-tv-anadira-publicidad-menu-televisor-1190622'>Google TV añadirá publicidad en el menú de tu televisor</a></h4>
-    <a href='https://computerhoy.com/streaming/google-tv-anadira-publicidad-menu-televisor-1190622' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/google-play-peliculas-dice-adios-ahora-google-tv-ya-disponible-descargar-2491653.jpg?tf=1200x' alt='Google TV añadirá publicidad en el menú de tu televisor' />
     </a>
 </div>
 
