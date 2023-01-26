@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/portatil-huawei-windows-barato-oferta-1189350'>Windows 11 y precio low cost: este es uno de los mejores portátiles baratos que hemos probado</a></h4>
+    <a href='https://computerhoy.com/tecnologia/portatil-huawei-windows-barato-oferta-1189350' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/huawei-matebook-d15-2369105.jpg?tf=1200x' alt='Windows 11 y precio low cost: este es uno de los mejores portátiles baratos que hemos probado' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/puede-crear-drone-cualquier-cosa-incluso-palos-madera-1190470'>Se puede crear un drone con cualquier cosa, incluso con palos de madera</a></h4>
+    <a href='https://computerhoy.com/tecnologia/puede-crear-drone-cualquier-cosa-incluso-palos-madera-1190470' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/drone-madera-2938650.jpg?tf=1200x' alt='Se puede crear un drone con cualquier cosa, incluso con palos de madera' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/espacio/telescopio-espacial-james-webb-nasa-acaba-encontrar-nuevo-error-software-1190444'>El telescopio espacial James Webb de la NASA acaba de encontrar un nuevo error de software </a></h4>
     <a href='https://computerhoy.com/espacio/telescopio-espacial-james-webb-nasa-acaba-encontrar-nuevo-error-software-1190444' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/james-webb-2745581.jpg?tf=1200x' alt='El telescopio espacial James Webb de la NASA acaba de encontrar un nuevo error de software ' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/gaming/playstation-5-stock-oferta-miravia-1190452'>Corre, hay PlayStation 5 en stock y en oferta por primera vez en mucho tiempo</a></h4>
     <a href='https://computerhoy.com/gaming/playstation-5-stock-oferta-miravia-1190452' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/playstation-5-2640605.jpg?tf=1200x' alt='Corre, hay PlayStation 5 en stock y en oferta por primera vez en mucho tiempo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/redes-sociales/meta-finalmente-toma-decision-donald-trump-vuelve-facebook-instagram-1190412'>Meta finalmente toma una decisión: ¿por qué Donald Trump vuelve a Facebook e Instagram?</a></h4>
-    <a href='https://computerhoy.com/redes-sociales/meta-finalmente-toma-decision-donald-trump-vuelve-facebook-instagram-1190412' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/meta-finalmente-toma-decision-donald-trump-vuelve-facebook-instagram-2938570.jpg?tf=1200x' alt='Meta finalmente toma una decisión: ¿por qué Donald Trump vuelve a Facebook e Instagram?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/como-anadir-dios-como-contacto-whatsapp-charlar-gracias-chatgpt-1190406'>Cómo añadir a “dios” como contacto de WhatsApp y charlar con él gracias a ChatGPT</a></h4>
-    <a href='https://computerhoy.com/apps/como-anadir-dios-como-contacto-whatsapp-charlar-gracias-chatgpt-1190406' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/whatpsapp-chatbot-2653515.jpg?tf=1200x' alt='Cómo añadir a “dios” como contacto de WhatsApp y charlar con él gracias a ChatGPT' />
     </a>
 </div>
 
