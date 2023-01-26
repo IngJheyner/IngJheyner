@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/windows/nube-correos-archivos-sera-proximo-explorador-archivos-windows-11-1177032'>Nube, correos y archivos: así será el próximo Explorador de archivos de Windows 11</a></h4>
+    <a href='https://computerhoy.com/windows/nube-correos-archivos-sera-proximo-explorador-archivos-windows-11-1177032' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/windows-11-2934724.jpg?tf=1200x' alt='Nube, correos y archivos: así será el próximo Explorador de archivos de Windows 11' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/gaming/hacer-trampas-league-legends-juego-podria-ser-vulnerable-ataque-riot-1190632'>Hacer trampas al League of Legends, el juego podría ser vulnerable tras el ataque a Riot</a></h4>
+    <a href='https://computerhoy.com/gaming/hacer-trampas-league-legends-juego-podria-ser-vulnerable-ataque-riot-1190632' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/09/league-legends_0.jpg?tf=1200x' alt='Hacer trampas al League of Legends, el juego podría ser vulnerable tras el ataque a Riot' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/streaming/google-tv-anadira-publicidad-menu-televisor-1190622'>Google TV añadirá publicidad en el menú de tu televisor</a></h4>
+    <a href='https://computerhoy.com/streaming/google-tv-anadira-publicidad-menu-televisor-1190622' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/google-play-peliculas-dice-adios-ahora-google-tv-ya-disponible-descargar-2491653.jpg?tf=1200x' alt='Google TV añadirá publicidad en el menú de tu televisor' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apple/misteriosa-caja-azul-steve-jobs-cambio-historia-apple-1190588'>La misteriosa caja azul de Steve Jobs que cambió la historia de Apple</a></h4>
     <a href='https://computerhoy.com/apple/misteriosa-caja-azul-steve-jobs-cambio-historia-apple-1190588' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/steve-jobs-2885457.jpg?tf=1200x' alt='La misteriosa caja azul de Steve Jobs que cambió la historia de Apple' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/gaming/opciones-graficas-tienes-ordenador-estan-limitando-gpu-1190538'>Las opciones gráficas que tienes en tu ordenador que están limitando a tu GPU</a></h4>
     <a href='https://computerhoy.com/gaming/opciones-graficas-tienes-ordenador-estan-limitando-gpu-1190538' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/review-rtx-4080-2872551.jpg?tf=1200x' alt='Las opciones gráficas que tienes en tu ordenador que están limitando a tu GPU' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/hbo-max-no-recortar-cancelara-dos-grandes-series-superheroes-cuartas-temporadas-1190536'>HBO Max no para de recortar y cancelará dos grandes series de superhéroes tras sus cuartas temporadas</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/hbo-max-no-recortar-cancelara-dos-grandes-series-superheroes-cuartas-temporadas-1190536' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/hbo-max-saca-tijera-nuevo-cancela-dos-series-superheroes-2938762.jpg?tf=1200x' alt='HBO Max no para de recortar y cancelará dos grandes series de superhéroes tras sus cuartas temporadas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/redes-sociales/universidades-eeuu-prohiben-tiktok-podrian-llegar-cancelar-red-social-todo-pais-1190500'>Universidades de EE.UU. prohíben TikTok: ¿podrían llegar a cancelar la red social en todo el país?</a></h4>
-    <a href='https://computerhoy.com/redes-sociales/universidades-eeuu-prohiben-tiktok-podrian-llegar-cancelar-red-social-todo-pais-1190500' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/universidades-eeuu-prohiben-tiktok-podrian-llegar-cancelar-red-social-todo-pais-2938726.jpg?tf=1200x' alt='Universidades de EE.UU. prohíben TikTok: ¿podrían llegar a cancelar la red social en todo el país?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/google-anade-funcion-oculta-chrome-mejora-descarga-archivos-1190502'>Google añade una función oculta a Chrome que mejora la descarga de archivos</a></h4>
-    <a href='https://computerhoy.com/google/google-anade-funcion-oculta-chrome-mejora-descarga-archivos-1190502' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/google-chrome-2913694.jpg?tf=1200x' alt='Google añade una función oculta a Chrome que mejora la descarga de archivos' />
     </a>
 </div>
 
