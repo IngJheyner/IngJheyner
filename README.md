@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/gaming/opciones-graficas-tienes-ordenador-estan-limitando-gpu-1190538'>Las opciones gráficas que tienes en tu ordenador que están limitando a tu GPU</a></h4>
+    <a href='https://computerhoy.com/gaming/opciones-graficas-tienes-ordenador-estan-limitando-gpu-1190538' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/review-rtx-4080-2872551.jpg?tf=1200x' alt='Las opciones gráficas que tienes en tu ordenador que están limitando a tu GPU' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/entretenimiento/hbo-max-no-recortar-cancelara-dos-grandes-series-superheroes-cuartas-temporadas-1190536'>HBO Max no para de recortar y cancelará dos grandes series de superhéroes tras sus cuartas temporadas</a></h4>
     <a href='https://computerhoy.com/entretenimiento/hbo-max-no-recortar-cancelara-dos-grandes-series-superheroes-cuartas-temporadas-1190536' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/hbo-max-saca-tijera-nuevo-cancela-dos-series-superheroes-2938762.jpg?tf=1200x' alt='HBO Max no para de recortar y cancelará dos grandes series de superhéroes tras sus cuartas temporadas' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/portatil-huawei-windows-barato-oferta-1189350'>Windows 11 y precio low cost: este es uno de los mejores portátiles baratos que hemos probado</a></h4>
     <a href='https://computerhoy.com/tecnologia/portatil-huawei-windows-barato-oferta-1189350' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/huawei-matebook-d15-2369105.jpg?tf=1200x' alt='Windows 11 y precio low cost: este es uno de los mejores portátiles baratos que hemos probado' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/puede-crear-drone-cualquier-cosa-incluso-palos-madera-1190470'>Se puede crear un drone con cualquier cosa, incluso con palos de madera</a></h4>
-    <a href='https://computerhoy.com/tecnologia/puede-crear-drone-cualquier-cosa-incluso-palos-madera-1190470' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/drone-madera-2938650.jpg?tf=1200x' alt='Se puede crear un drone con cualquier cosa, incluso con palos de madera' />
     </a>
 </div>
 
