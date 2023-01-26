@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/funciona-primer-abogado-robot-inteligencia-artificial-quiere-representarnos-juicios-1190396'>Así funciona el primer abogado robot con inteligencia artificial que quiere representarnos en los juicios</a></h4>
+    <a href='https://computerhoy.com/tecnologia/funciona-primer-abogado-robot-inteligencia-artificial-quiere-representarnos-juicios-1190396' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/funciona-primer-abogado-robot-inteligencia-artificial-quiere-representarnos-juicios-2938532.jpg?tf=1200x' alt='Así funciona el primer abogado robot con inteligencia artificial que quiere representarnos en los juicios' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/5-caracteristicas-hacen-unicos-usb-c-como-sacarles-maximo-partido-1190050'>5 características que hacen únicos a los USB-C y cómo sacarles el máximo partido</a></h4>
+    <a href='https://computerhoy.com/tecnologia/5-caracteristicas-hacen-unicos-usb-c-como-sacarles-maximo-partido-1190050' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/5-caracteristicas-hacen-unicos-usb-c-como-sacarles-maximo-partido-2938080.jpg?tf=1200x' alt='5 características que hacen únicos a los USB-C y cómo sacarles el máximo partido' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-tablets-trabajar-estudiar-alternativa-portatil-821429'>Estas tablets te harán olvidar el portátil: son aptas para trabajar sin problemas</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/mejores-tablets-trabajar-estudiar-alternativa-portatil-821429' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/huawei-matepad-pro-126-analisis-opinion-2665593.jpg?tf=1200x' alt='Estas tablets te harán olvidar el portátil: son aptas para trabajar sin problemas' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/22-noticias-tecnologia-comenzar-manana-informado-ultimo-1190380'>22 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
     <a href='https://computerhoy.com/tecnologia/22-noticias-tecnologia-comenzar-manana-informado-ultimo-1190380' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/22-noticias-tecnologia-comenzar-manana-informado-ultimo-2938506.jpg?tf=1200x' alt='22 noticias de tecnología para comenzar la mañana informado de lo último' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-cursos-programacion-online-certificado-finalizacion-1133233'>Mejores cursos de programación online con certificado de finalización</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-cursos-programacion-online-certificado-finalizacion-1133233' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/programador-trabajando-portatil-2829853.jpg?tf=1200x' alt='Mejores cursos de programación online con certificado de finalización' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/shutterstock-ai-generador-imagenes-inteligencia-artificial-openai-dall-e-1190372'>Si no puedes con tu enemigo, únete al él: Shutterstock presenta su IA basada en DALL-E para crear imágenes, y ya puedes probarla</a></h4>
-    <a href='https://computerhoy.com/tecnologia/shutterstock-ai-generador-imagenes-inteligencia-artificial-openai-dall-e-1190372' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/no-puedes-enemigo-unete-shutterstock-presenta-ia-basada-dall-crear-imagenes-ya-puedes-probarla-2938474.jpg?tf=1200x' alt='Si no puedes con tu enemigo, únete al él: Shutterstock presenta su IA basada en DALL-E para crear imágenes, y ya puedes probarla' />
     </a>
 </div>
 
