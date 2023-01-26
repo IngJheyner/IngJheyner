@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/google/maravillas-google-street-view-viaja-lugares-surrealistas-mundo-salir-casa-1170604'>Maravillas de Google Street View, viaja por los lugares más surrealistas del mundo sin salir de casa</a></h4>
+    <a href='https://computerhoy.com/google/maravillas-google-street-view-viaja-lugares-surrealistas-mundo-salir-casa-1170604' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/maravillas-google-street-view-viaja-lugares-surrealistas-mundo-salir-casa-2938980.jpg?tf=1200x' alt='Maravillas de Google Street View, viaja por los lugares más surrealistas del mundo sin salir de casa' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/windows/nube-correos-archivos-sera-proximo-explorador-archivos-windows-11-1177032'>Nube, correos y archivos: así será el próximo Explorador de archivos de Windows 11</a></h4>
     <a href='https://computerhoy.com/windows/nube-correos-archivos-sera-proximo-explorador-archivos-windows-11-1177032' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/windows-11-2934724.jpg?tf=1200x' alt='Nube, correos y archivos: así será el próximo Explorador de archivos de Windows 11' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/apple/misteriosa-caja-azul-steve-jobs-cambio-historia-apple-1190588'>La misteriosa caja azul de Steve Jobs que cambió la historia de Apple</a></h4>
     <a href='https://computerhoy.com/apple/misteriosa-caja-azul-steve-jobs-cambio-historia-apple-1190588' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/steve-jobs-2885457.jpg?tf=1200x' alt='La misteriosa caja azul de Steve Jobs que cambió la historia de Apple' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/gaming/opciones-graficas-tienes-ordenador-estan-limitando-gpu-1190538'>Las opciones gráficas que tienes en tu ordenador que están limitando a tu GPU</a></h4>
-    <a href='https://computerhoy.com/gaming/opciones-graficas-tienes-ordenador-estan-limitando-gpu-1190538' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/review-rtx-4080-2872551.jpg?tf=1200x' alt='Las opciones gráficas que tienes en tu ordenador que están limitando a tu GPU' />
     </a>
 </div>
 
