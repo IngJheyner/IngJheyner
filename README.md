@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/misteriosa-caja-azul-steve-jobs-cambio-historia-apple-1190588'>La misteriosa caja azul de Steve Jobs que cambió la historia de Apple</a></h4>
+    <a href='https://computerhoy.com/apple/misteriosa-caja-azul-steve-jobs-cambio-historia-apple-1190588' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/steve-jobs-2885457.jpg?tf=1200x' alt='La misteriosa caja azul de Steve Jobs que cambió la historia de Apple' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/gaming/opciones-graficas-tienes-ordenador-estan-limitando-gpu-1190538'>Las opciones gráficas que tienes en tu ordenador que están limitando a tu GPU</a></h4>
     <a href='https://computerhoy.com/gaming/opciones-graficas-tienes-ordenador-estan-limitando-gpu-1190538' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/review-rtx-4080-2872551.jpg?tf=1200x' alt='Las opciones gráficas que tienes en tu ordenador que están limitando a tu GPU' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/google/google-anade-funcion-oculta-chrome-mejora-descarga-archivos-1190502'>Google añade una función oculta a Chrome que mejora la descarga de archivos</a></h4>
     <a href='https://computerhoy.com/google/google-anade-funcion-oculta-chrome-mejora-descarga-archivos-1190502' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/google-chrome-2913694.jpg?tf=1200x' alt='Google añade una función oculta a Chrome que mejora la descarga de archivos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/portatil-huawei-windows-barato-oferta-1189350'>Windows 11 y precio low cost: este es uno de los mejores portátiles baratos que hemos probado</a></h4>
-    <a href='https://computerhoy.com/tecnologia/portatil-huawei-windows-barato-oferta-1189350' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/huawei-matebook-d15-2369105.jpg?tf=1200x' alt='Windows 11 y precio low cost: este es uno de los mejores portátiles baratos que hemos probado' />
     </a>
 </div>
 
