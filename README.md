@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/shutterstock-ai-generador-imagenes-inteligencia-artificial-openai-dall-e-1190372'>Si no puedes con tu enemigo, únete al él: Shutterstock presenta su IA basada en DALL-E para crear imágenes, y ya puedes probarla</a></h4>
+    <a href='https://computerhoy.com/tecnologia/shutterstock-ai-generador-imagenes-inteligencia-artificial-openai-dall-e-1190372' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/no-puedes-enemigo-unete-shutterstock-presenta-ia-basada-dall-crear-imagenes-ya-puedes-probarla-2938474.jpg?tf=1200x' alt='Si no puedes con tu enemigo, únete al él: Shutterstock presenta su IA basada en DALL-E para crear imágenes, y ya puedes probarla' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/entretenimiento/hbo-max-explica-cancelacion-series-peliculas-1190370'>HBO Max explica por qué están cancelando tantas series y películas</a></h4>
     <a href='https://computerhoy.com/entretenimiento/hbo-max-explica-cancelacion-series-peliculas-1190370' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/westworld-solo-principio-muchas-series-van-desaparecer-hbo-max-tenemos-lista-2902822.jpg?tf=1200x' alt='HBO Max explica por qué están cancelando tantas series y películas' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/motor/estos-son-usuarios-van-tener-complicado-renovar-carnet-conducir-2023-1190156'>Estos son los usuarios que lo van a tener más complicado renovar el carnet de conducir en 2023</a></h4>
     <a href='https://computerhoy.com/motor/estos-son-usuarios-van-tener-complicado-renovar-carnet-conducir-2023-1190156' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/10/carnet-conducir-2114553.jpg?tf=1200x' alt='Estos son los usuarios que lo van a tener más complicado renovar el carnet de conducir en 2023' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/redes-sociales/algoritmo-tiktok-humano-boton-viraliza-videos-1188986'>El algoritmo de TikTok es humano: así es el botón que viraliza los videos</a></h4>
-    <a href='https://computerhoy.com/redes-sociales/algoritmo-tiktok-humano-boton-viraliza-videos-1188986' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/tiktok-2934326.jpg?tf=1200x' alt='El algoritmo de TikTok es humano: así es el botón que viraliza los videos' />
     </a>
 </div>
 
