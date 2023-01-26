@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/gaming/hay-juego-steam-cuesta-2000-euros-merece-pena-1190746'>Hay un juego en Steam que cuesta 2.000 euros, ¿merece la pena?</a></h4>
+    <a href='https://computerhoy.com/gaming/hay-juego-steam-cuesta-2000-euros-merece-pena-1190746' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/hay-juego-steam-cuesta-2000-euros-merece-pena-2939174.jpg?tf=1200x' alt='Hay un juego en Steam que cuesta 2.000 euros, ¿merece la pena?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apple/apple-prepara-propio-buscador-acabar-lazos-google-1173424'>Apple prepara su propio buscador para acabar sus lazos con Google</a></h4>
     <a href='https://computerhoy.com/apple/apple-prepara-propio-buscador-acabar-lazos-google-1173424' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/iphone-atascado-logo-2875941.jpg?tf=1200x' alt='Apple prepara su propio buscador para acabar sus lazos con Google' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/entretenimiento/brigada-tech-nuevo-programa-rtve-ensenar-tecnologia-personas-mayores-1190742'>Brigada Tech, el nuevo programa de RTVE para enseñar tecnología a las personas mayores</a></h4>
     <a href='https://computerhoy.com/entretenimiento/brigada-tech-nuevo-programa-rtve-ensenar-tecnologia-personas-mayores-1190742' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/brigada-tech-nuevo-programa-rtve-ensenar-tecnologia-personas-mayores-2939144.jpg?tf=1200x' alt='Brigada Tech, el nuevo programa de RTVE para enseñar tecnología a las personas mayores' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/samsung-galaxy-m53-5g-buen-movil-oferta-1189336'>Este móvil Samsung presume de pantalla 120 Hz y también de precio: compite de tú a tú contra los Xiaomi</a></h4>
-    <a href='https://computerhoy.com/tecnologia/samsung-galaxy-m53-5g-buen-movil-oferta-1189336' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/samsung-galaxy-m53-2776983.jpg?tf=1200x' alt='Este móvil Samsung presume de pantalla 120 Hz y también de precio: compite de tú a tú contra los Xiaomi' />
     </a>
 </div>
 
