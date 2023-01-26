@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/espacio/telescopio-espacial-james-webb-nasa-acaba-encontrar-nuevo-error-software-1190444'>El telescopio espacial James Webb de la NASA acaba de encontrar un nuevo error de software </a></h4>
+    <a href='https://computerhoy.com/espacio/telescopio-espacial-james-webb-nasa-acaba-encontrar-nuevo-error-software-1190444' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/james-webb-2745581.jpg?tf=1200x' alt='El telescopio espacial James Webb de la NASA acaba de encontrar un nuevo error de software ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/motor/tesla-vendio-2022-131-millones-coches-marcando-otro-hito-coche-electrico-1190434'>Tesla vendió en 2022 más de 1,31 millones de coches marcando otro hito del coche eléctrico</a></h4>
+    <a href='https://computerhoy.com/motor/tesla-vendio-2022-131-millones-coches-marcando-otro-hito-coche-electrico-1190434' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/increible-vuelo-dron-dentro-gigafactoria-tesla-berlin-2675131.jpg?tf=1200x' alt='Tesla vendió en 2022 más de 1,31 millones de coches marcando otro hito del coche eléctrico' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/gaming/playstation-5-stock-oferta-miravia-1190452'>Corre, hay PlayStation 5 en stock y en oferta por primera vez en mucho tiempo</a></h4>
     <a href='https://computerhoy.com/gaming/playstation-5-stock-oferta-miravia-1190452' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/playstation-5-2640605.jpg?tf=1200x' alt='Corre, hay PlayStation 5 en stock y en oferta por primera vez en mucho tiempo' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/apps/como-anadir-dios-como-contacto-whatsapp-charlar-gracias-chatgpt-1190406'>Cómo añadir a “dios” como contacto de WhatsApp y charlar con él gracias a ChatGPT</a></h4>
     <a href='https://computerhoy.com/apps/como-anadir-dios-como-contacto-whatsapp-charlar-gracias-chatgpt-1190406' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/whatpsapp-chatbot-2653515.jpg?tf=1200x' alt='Cómo añadir a “dios” como contacto de WhatsApp y charlar con él gracias a ChatGPT' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/funciona-primer-abogado-robot-inteligencia-artificial-quiere-representarnos-juicios-1190396'>Así funciona el primer abogado robot con inteligencia artificial que quiere representarnos en los juicios</a></h4>
-    <a href='https://computerhoy.com/tecnologia/funciona-primer-abogado-robot-inteligencia-artificial-quiere-representarnos-juicios-1190396' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/funciona-primer-abogado-robot-inteligencia-artificial-quiere-representarnos-juicios-2938532.jpg?tf=1200x' alt='Así funciona el primer abogado robot con inteligencia artificial que quiere representarnos en los juicios' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/5-caracteristicas-hacen-unicos-usb-c-como-sacarles-maximo-partido-1190050'>5 características que hacen únicos a los USB-C y cómo sacarles el máximo partido</a></h4>
-    <a href='https://computerhoy.com/tecnologia/5-caracteristicas-hacen-unicos-usb-c-como-sacarles-maximo-partido-1190050' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/5-caracteristicas-hacen-unicos-usb-c-como-sacarles-maximo-partido-2938080.jpg?tf=1200x' alt='5 características que hacen únicos a los USB-C y cómo sacarles el máximo partido' />
     </a>
 </div>
 
