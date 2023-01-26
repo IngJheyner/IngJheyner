@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/22-noticias-tecnologia-comenzar-manana-informado-ultimo-1190380'>22 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
+    <a href='https://computerhoy.com/tecnologia/22-noticias-tecnologia-comenzar-manana-informado-ultimo-1190380' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/22-noticias-tecnologia-comenzar-manana-informado-ultimo-2938506.jpg?tf=1200x' alt='22 noticias de tecnología para comenzar la mañana informado de lo último' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-cursos-programacion-online-certificado-finalizacion-1133233'>Mejores cursos de programación online con certificado de finalización</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-cursos-programacion-online-certificado-finalizacion-1133233' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/programador-trabajando-portatil-2829853.jpg?tf=1200x' alt='Mejores cursos de programación online con certificado de finalización' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/shutterstock-ai-generador-imagenes-inteligencia-artificial-openai-dall-e-1190372'>Si no puedes con tu enemigo, únete al él: Shutterstock presenta su IA basada en DALL-E para crear imágenes, y ya puedes probarla</a></h4>
     <a href='https://computerhoy.com/tecnologia/shutterstock-ai-generador-imagenes-inteligencia-artificial-openai-dall-e-1190372' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/no-puedes-enemigo-unete-shutterstock-presenta-ia-basada-dall-crear-imagenes-ya-puedes-probarla-2938474.jpg?tf=1200x' alt='Si no puedes con tu enemigo, únete al él: Shutterstock presenta su IA basada en DALL-E para crear imágenes, y ya puedes probarla' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/redmi-pad-tablet-dia-dia-buena-autonomia-70-euros-descuento-1190164'>Redmi Pad, una tablet para el día a día con una buena autonomía, y 70 euros de descuento</a></h4>
     <a href='https://computerhoy.com/tecnologia/redmi-pad-tablet-dia-dia-buena-autonomia-70-euros-descuento-1190164' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/redmi-pad-2883471.jpg?tf=1200x' alt='Redmi Pad, una tablet para el día a día con una buena autonomía, y 70 euros de descuento' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/cohete-nuclear-nasa-lanzara-2027-orbitara-durante-300-anos-1190160'>El cohete nuclear de la NASA que se lanzará en 2027 y que orbitará durante 300 años</a></h4>
-    <a href='https://computerhoy.com/espacio/cohete-nuclear-nasa-lanzara-2027-orbitara-durante-300-anos-1190160' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/cohete-2862309.jpg?tf=1200x' alt='El cohete nuclear de la NASA que se lanzará en 2027 y que orbitará durante 300 años' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/estos-son-usuarios-van-tener-complicado-renovar-carnet-conducir-2023-1190156'>Estos son los usuarios que lo van a tener más complicado renovar el carnet de conducir en 2023</a></h4>
-    <a href='https://computerhoy.com/motor/estos-son-usuarios-van-tener-complicado-renovar-carnet-conducir-2023-1190156' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/10/carnet-conducir-2114553.jpg?tf=1200x' alt='Estos son los usuarios que lo van a tener más complicado renovar el carnet de conducir en 2023' />
     </a>
 </div>
 
