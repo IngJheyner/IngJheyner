@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/apple-prepara-propio-buscador-acabar-lazos-google-1173424'>Apple prepara su propio buscador para acabar sus lazos con Google</a></h4>
+    <a href='https://computerhoy.com/apple/apple-prepara-propio-buscador-acabar-lazos-google-1173424' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/iphone-atascado-logo-2875941.jpg?tf=1200x' alt='Apple prepara su propio buscador para acabar sus lazos con Google' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/motor/ferrari-quiere-hagas-rugir-coches-electricos-ello-desarrollando-sonidos-motor-artificiales-1180272'>Ferrari quiere que hagas rugir sus coches eléctricos y para ello está desarrollando sonidos de motor artificiales</a></h4>
+    <a href='https://computerhoy.com/motor/ferrari-quiere-hagas-rugir-coches-electricos-ello-desarrollando-sonidos-motor-artificiales-1180272' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/ferrari-confirma-primer-coche-electrico-llegara-2025-2301967.jpg?tf=1200x' alt='Ferrari quiere que hagas rugir sus coches eléctricos y para ello está desarrollando sonidos de motor artificiales' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/criptos/ballenas-bitcoin-comienzan-despertarse-como-podria-afectar-precio-1171160'>Las ballenas del Bitcoin comienzan a despertarse: ¿cómo podría afectar a su precio?</a></h4>
+    <a href='https://computerhoy.com/criptos/ballenas-bitcoin-comienzan-despertarse-como-podria-afectar-precio-1171160' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/ballena-azul-2723827.jpg?tf=1200x' alt='Las ballenas del Bitcoin comienzan a despertarse: ¿cómo podría afectar a su precio?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/entretenimiento/brigada-tech-nuevo-programa-rtve-ensenar-tecnologia-personas-mayores-1190742'>Brigada Tech, el nuevo programa de RTVE para enseñar tecnología a las personas mayores</a></h4>
     <a href='https://computerhoy.com/entretenimiento/brigada-tech-nuevo-programa-rtve-ensenar-tecnologia-personas-mayores-1190742' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/brigada-tech-nuevo-programa-rtve-ensenar-tecnologia-personas-mayores-2939144.jpg?tf=1200x' alt='Brigada Tech, el nuevo programa de RTVE para enseñar tecnología a las personas mayores' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/samsung-galaxy-m53-5g-buen-movil-oferta-1189336'>Este móvil Samsung presume de pantalla 120 Hz y también de precio: compite de tú a tú contra los Xiaomi</a></h4>
     <a href='https://computerhoy.com/tecnologia/samsung-galaxy-m53-5g-buen-movil-oferta-1189336' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/samsung-galaxy-m53-2776983.jpg?tf=1200x' alt='Este móvil Samsung presume de pantalla 120 Hz y también de precio: compite de tú a tú contra los Xiaomi' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/multimillonario-45-anos-gastando-2-millones-dolares-ano-volver-ser-adolescente-1190730'>Este multimillonario de 45 años se está gastando 2 millones de dólares al año para volver a ser un adolescente</a></h4>
-    <a href='https://computerhoy.com/life/multimillonario-45-anos-gastando-2-millones-dolares-ano-volver-ser-adolescente-1190730' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/biohacker-invierte-2-millones-ano-lograr-cuerpo-cuando-tenia-18-anos-2939138.jpg?tf=1200x' alt='Este multimillonario de 45 años se está gastando 2 millones de dólares al año para volver a ser un adolescente' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/piratas-informaticos-usan-programa-windows-11-acceder-pc-1190722'>Piratas informáticos usan este programa de Windows 11 para acceder a tu PC</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/piratas-informaticos-usan-programa-windows-11-acceder-pc-1190722' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/malware-onenote-2939126.jpg?tf=1200x' alt='Piratas informáticos usan este programa de Windows 11 para acceder a tu PC' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/secretos-superagers-mayores-cerebro-personas-30-anos-jovenes-1187180'>Los secretos de los SuperAgers, mayores con el cerebro de personas 30 años más jóvenes</a></h4>
-    <a href='https://computerhoy.com/life/secretos-superagers-mayores-cerebro-personas-30-anos-jovenes-1187180' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/ancianos-redes-sociales-2740341.jpg?tf=1200x' alt='Los secretos de los SuperAgers, mayores con el cerebro de personas 30 años más jóvenes' />
     </a>
 </div>
 
