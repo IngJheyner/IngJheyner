@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/gaming/playstation-5-stock-oferta-miravia-1190452'>Corre, hay PlayStation 5 en stock y en oferta por primera vez en mucho tiempo</a></h4>
+    <a href='https://computerhoy.com/gaming/playstation-5-stock-oferta-miravia-1190452' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/playstation-5-2640605.jpg?tf=1200x' alt='Corre, hay PlayStation 5 en stock y en oferta por primera vez en mucho tiempo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/redes-sociales/meta-finalmente-toma-decision-donald-trump-vuelve-facebook-instagram-1190412'>Meta finalmente toma una decisión: ¿por qué Donald Trump vuelve a Facebook e Instagram?</a></h4>
+    <a href='https://computerhoy.com/redes-sociales/meta-finalmente-toma-decision-donald-trump-vuelve-facebook-instagram-1190412' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/meta-finalmente-toma-decision-donald-trump-vuelve-facebook-instagram-2938570.jpg?tf=1200x' alt='Meta finalmente toma una decisión: ¿por qué Donald Trump vuelve a Facebook e Instagram?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/como-anadir-dios-como-contacto-whatsapp-charlar-gracias-chatgpt-1190406'>Cómo añadir a “dios” como contacto de WhatsApp y charlar con él gracias a ChatGPT</a></h4>
+    <a href='https://computerhoy.com/apps/como-anadir-dios-como-contacto-whatsapp-charlar-gracias-chatgpt-1190406' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/whatpsapp-chatbot-2653515.jpg?tf=1200x' alt='Cómo añadir a “dios” como contacto de WhatsApp y charlar con él gracias a ChatGPT' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/funciona-primer-abogado-robot-inteligencia-artificial-quiere-representarnos-juicios-1190396'>Así funciona el primer abogado robot con inteligencia artificial que quiere representarnos en los juicios</a></h4>
     <a href='https://computerhoy.com/tecnologia/funciona-primer-abogado-robot-inteligencia-artificial-quiere-representarnos-juicios-1190396' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/funciona-primer-abogado-robot-inteligencia-artificial-quiere-representarnos-juicios-2938532.jpg?tf=1200x' alt='Así funciona el primer abogado robot con inteligencia artificial que quiere representarnos en los juicios' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/5-caracteristicas-hacen-unicos-usb-c-como-sacarles-maximo-partido-1190050'>5 características que hacen únicos a los USB-C y cómo sacarles el máximo partido</a></h4>
     <a href='https://computerhoy.com/tecnologia/5-caracteristicas-hacen-unicos-usb-c-como-sacarles-maximo-partido-1190050' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/5-caracteristicas-hacen-unicos-usb-c-como-sacarles-maximo-partido-2938080.jpg?tf=1200x' alt='5 características que hacen únicos a los USB-C y cómo sacarles el máximo partido' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-tablets-trabajar-estudiar-alternativa-portatil-821429'>Estas tablets te harán olvidar el portátil: son aptas para trabajar sin problemas</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-tablets-trabajar-estudiar-alternativa-portatil-821429' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/huawei-matepad-pro-126-analisis-opinion-2665593.jpg?tf=1200x' alt='Estas tablets te harán olvidar el portátil: son aptas para trabajar sin problemas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/diferencias-llamadas-moviles-wifi-llamadas-cobertura-tradicional-1190076'>Diferencias entre las llamadas móviles WiFi y la llamadas por cobertura tradicional</a></h4>
-    <a href='https://computerhoy.com/moviles/diferencias-llamadas-moviles-wifi-llamadas-cobertura-tradicional-1190076' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/llamadas-telefonicas-2938106.jpg?tf=1200x' alt='Diferencias entre las llamadas móviles WiFi y la llamadas por cobertura tradicional' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/22-noticias-tecnologia-comenzar-manana-informado-ultimo-1190380'>22 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
-    <a href='https://computerhoy.com/tecnologia/22-noticias-tecnologia-comenzar-manana-informado-ultimo-1190380' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/22-noticias-tecnologia-comenzar-manana-informado-ultimo-2938506.jpg?tf=1200x' alt='22 noticias de tecnología para comenzar la mañana informado de lo último' />
     </a>
 </div>
 
