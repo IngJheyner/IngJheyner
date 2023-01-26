@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/brigada-tech-nuevo-programa-rtve-ensenar-tecnologia-personas-mayores-1190742'>Brigada Tech, el nuevo programa de RTVE para enseñar tecnología a las personas mayores</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/brigada-tech-nuevo-programa-rtve-ensenar-tecnologia-personas-mayores-1190742' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/brigada-tech-nuevo-programa-rtve-ensenar-tecnologia-personas-mayores-2939144.jpg?tf=1200x' alt='Brigada Tech, el nuevo programa de RTVE para enseñar tecnología a las personas mayores' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/samsung-galaxy-m53-5g-buen-movil-oferta-1189336'>Este móvil Samsung presume de pantalla 120 Hz y también de precio: compite de tú a tú contra los Xiaomi</a></h4>
     <a href='https://computerhoy.com/tecnologia/samsung-galaxy-m53-5g-buen-movil-oferta-1189336' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/samsung-galaxy-m53-2776983.jpg?tf=1200x' alt='Este móvil Samsung presume de pantalla 120 Hz y también de precio: compite de tú a tú contra los Xiaomi' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/life/secretos-superagers-mayores-cerebro-personas-30-anos-jovenes-1187180'>Los secretos de los SuperAgers, mayores con el cerebro de personas 30 años más jóvenes</a></h4>
     <a href='https://computerhoy.com/life/secretos-superagers-mayores-cerebro-personas-30-anos-jovenes-1187180' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/ancianos-redes-sociales-2740341.jpg?tf=1200x' alt='Los secretos de los SuperAgers, mayores con el cerebro de personas 30 años más jóvenes' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/maravillas-google-street-view-viaja-lugares-surrealistas-mundo-salir-casa-1170604'>Maravillas de Google Street View, viaja por los lugares más surrealistas del mundo sin salir de casa</a></h4>
-    <a href='https://computerhoy.com/google/maravillas-google-street-view-viaja-lugares-surrealistas-mundo-salir-casa-1170604' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/maravillas-google-street-view-viaja-lugares-surrealistas-mundo-salir-casa-2938980.jpg?tf=1200x' alt='Maravillas de Google Street View, viaja por los lugares más surrealistas del mundo sin salir de casa' />
     </a>
 </div>
 
