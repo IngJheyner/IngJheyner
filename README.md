@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/hbo-max-no-recortar-cancelara-dos-grandes-series-superheroes-cuartas-temporadas-1190536'>HBO Max no para de recortar y cancelará dos grandes series de superhéroes tras sus cuartas temporadas</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/hbo-max-no-recortar-cancelara-dos-grandes-series-superheroes-cuartas-temporadas-1190536' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/hbo-max-saca-tijera-nuevo-cancela-dos-series-superheroes-2938762.jpg?tf=1200x' alt='HBO Max no para de recortar y cancelará dos grandes series de superhéroes tras sus cuartas temporadas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/redes-sociales/universidades-eeuu-prohiben-tiktok-podrian-llegar-cancelar-red-social-todo-pais-1190500'>Universidades de EE.UU. prohíben TikTok: ¿podrían llegar a cancelar la red social en todo el país?</a></h4>
     <a href='https://computerhoy.com/redes-sociales/universidades-eeuu-prohiben-tiktok-podrian-llegar-cancelar-red-social-todo-pais-1190500' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/universidades-eeuu-prohiben-tiktok-podrian-llegar-cancelar-red-social-todo-pais-2938726.jpg?tf=1200x' alt='Universidades de EE.UU. prohíben TikTok: ¿podrían llegar a cancelar la red social en todo el país?' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/puede-crear-drone-cualquier-cosa-incluso-palos-madera-1190470'>Se puede crear un drone con cualquier cosa, incluso con palos de madera</a></h4>
     <a href='https://computerhoy.com/tecnologia/puede-crear-drone-cualquier-cosa-incluso-palos-madera-1190470' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/drone-madera-2938650.jpg?tf=1200x' alt='Se puede crear un drone con cualquier cosa, incluso con palos de madera' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/telescopio-espacial-james-webb-nasa-acaba-encontrar-nuevo-error-software-1190444'>El telescopio espacial James Webb de la NASA acaba de encontrar un nuevo error de software </a></h4>
-    <a href='https://computerhoy.com/espacio/telescopio-espacial-james-webb-nasa-acaba-encontrar-nuevo-error-software-1190444' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/james-webb-2745581.jpg?tf=1200x' alt='El telescopio espacial James Webb de la NASA acaba de encontrar un nuevo error de software ' />
     </a>
 </div>
 
