@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/hbo-max-explica-cancelacion-series-peliculas-1190370'>HBO Max explica por qué están cancelando tantas series y películas</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/hbo-max-explica-cancelacion-series-peliculas-1190370' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/westworld-solo-principio-muchas-series-van-desaparecer-hbo-max-tenemos-lista-2902822.jpg?tf=1200x' alt='HBO Max explica por qué están cancelando tantas series y películas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/redmi-pad-tablet-dia-dia-buena-autonomia-70-euros-descuento-1190164'>Redmi Pad, una tablet para el día a día con una buena autonomía, y 70 euros de descuento</a></h4>
     <a href='https://computerhoy.com/tecnologia/redmi-pad-tablet-dia-dia-buena-autonomia-70-euros-descuento-1190164' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/redmi-pad-2883471.jpg?tf=1200x' alt='Redmi Pad, una tablet para el día a día con una buena autonomía, y 70 euros de descuento' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/redes-sociales/algoritmo-tiktok-humano-boton-viraliza-videos-1188986'>El algoritmo de TikTok es humano: así es el botón que viraliza los videos</a></h4>
     <a href='https://computerhoy.com/redes-sociales/algoritmo-tiktok-humano-boton-viraliza-videos-1188986' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/tiktok-2934326.jpg?tf=1200x' alt='El algoritmo de TikTok es humano: así es el botón que viraliza los videos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/competencia-operadoras-low-cost-crece-correos-ofrece-fibra-movil-40-euros-mes-1164168'>La competencia en las operadoras low cost crece: Correos ofrece fibra y móvil por 40 euros al mes</a></h4>
-    <a href='https://computerhoy.com/tecnologia/competencia-operadoras-low-cost-crece-correos-ofrece-fibra-movil-40-euros-mes-1164168' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/12/correos-2153983.jpg?tf=1200x' alt='La competencia en las operadoras low cost crece: Correos ofrece fibra y móvil por 40 euros al mes' />
     </a>
 </div>
 
