@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/sorprendente-metodo-bill-gates-controlar-empleados-microsoft-1191172'>El sorprendente método de Bill Gates para controlar a sus empleados en Microsoft</a></h4>
+    <a href='https://computerhoy.com/life/sorprendente-metodo-bill-gates-controlar-empleados-microsoft-1191172' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/bill-gates-2816421.jpg?tf=1200x' alt='El sorprendente método de Bill Gates para controlar a sus empleados en Microsoft' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/como-devolver-producto-aliexpress-363329'>Cómo devolver un producto a AliExpress paso a paso</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/como-devolver-producto-aliexpress-363329' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/aliexpress-app-2442063.jpg?tf=1200x' alt='Cómo devolver un producto a AliExpress paso a paso' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/entretenimiento/series-ver-fin-semana-netflix-hbo-max-apple-tv-agencia-terapia-ejercito-1191160'>Qué series ver este fin de semana en Netflix, HBO Max y Apple TV+: una agencia, una terapia y el ejército</a></h4>
     <a href='https://computerhoy.com/entretenimiento/series-ver-fin-semana-netflix-hbo-max-apple-tv-agencia-terapia-ejercito-1191160' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/agencia-lockwood-2939900.jpg?tf=1200x' alt='Qué series ver este fin de semana en Netflix, HBO Max y Apple TV+: una agencia, una terapia y el ejército' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/entretenimiento/peliculas-ver-fin-semana-netflix-prime-video-movistarplus-blackphone-fast-furious-9-comedia-jonah-hill-1191072'>Qué películas ver este fin de semana en Netflix, Prime Video y MovistarPlus+: BlackPhone, Fast & Furious 9 y una comedia con Jonah Hill</a></h4>
     <a href='https://computerhoy.com/entretenimiento/peliculas-ver-fin-semana-netflix-prime-video-movistarplus-blackphone-fast-furious-9-comedia-jonah-hill-1191072' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/peliculas-ver-fin-semana-netflix-prime-video-movistarplus-blackphone-fast-furious-9-comedia-jonah-hill-2939602.jpg?tf=1200x' alt='Qué películas ver este fin de semana en Netflix, Prime Video y MovistarPlus+: BlackPhone, Fast & Furious 9 y una comedia con Jonah Hill' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/streaming/coches-espia-android-tv-envueltos-papel-aluminio-bulos-iptv-1191174'>Coches espía y Android TV envueltos en papel de aluminio: los bulos de las IPTV</a></h4>
-    <a href='https://computerhoy.com/streaming/coches-espia-android-tv-envueltos-papel-aluminio-bulos-iptv-1191174' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/persona-gorro-papel-aluminio-2349041.jpg?tf=1200x' alt='Coches espía y Android TV envueltos en papel de aluminio: los bulos de las IPTV' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/perseverance-nasa-ya-tiene-primer-informe-meteorologico-completo-marte-estos-son-resultados-1191092'>El Perseverance de la NASA ya tiene un primer informe meteorológico completo de Marte y estos son sus resultados</a></h4>
-    <a href='https://computerhoy.com/espacio/perseverance-nasa-ya-tiene-primer-informe-meteorologico-completo-marte-estos-son-resultados-1191092' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/perseverance-nasa-ya-tiene-primer-informe-meteorologico-completo-marte-estos-son-resultados-2939806.jpg?tf=1200x' alt='El Perseverance de la NASA ya tiene un primer informe meteorológico completo de Marte y estos son sus resultados' />
     </a>
 </div>
 
