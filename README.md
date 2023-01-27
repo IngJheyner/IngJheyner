@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/redes-sociales/twitter-elimina-ultimas-caracteristicas-peticion-popular-1174550'>Twitter elimina una de sus últimas características a petición popular</a></h4>
+    <a href='https://computerhoy.com/redes-sociales/twitter-elimina-ultimas-caracteristicas-peticion-popular-1174550' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/bye-bye-bird-pajaro-raspberry-pi-suelta-lagrima-cada-vez-alguien-borra-twitter-2881713.jpg?tf=1200x' alt='Twitter elimina una de sus últimas características a petición popular' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/gaming/hay-juego-steam-cuesta-2000-euros-merece-pena-1190746'>Hay un juego en Steam que cuesta 2.000 euros, ¿merece la pena?</a></h4>
     <a href='https://computerhoy.com/gaming/hay-juego-steam-cuesta-2000-euros-merece-pena-1190746' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/hay-juego-steam-cuesta-2000-euros-merece-pena-2939174.jpg?tf=1200x' alt='Hay un juego en Steam que cuesta 2.000 euros, ¿merece la pena?' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/criptos/ballenas-bitcoin-comienzan-despertarse-como-podria-afectar-precio-1171160'>Las ballenas del Bitcoin comienzan a despertarse: ¿cómo podría afectar a su precio?</a></h4>
     <a href='https://computerhoy.com/criptos/ballenas-bitcoin-comienzan-despertarse-como-podria-afectar-precio-1171160' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/ballena-azul-2723827.jpg?tf=1200x' alt='Las ballenas del Bitcoin comienzan a despertarse: ¿cómo podría afectar a su precio?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/brigada-tech-nuevo-programa-rtve-ensenar-tecnologia-personas-mayores-1190742'>Brigada Tech, el nuevo programa de RTVE para enseñar tecnología a las personas mayores</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/brigada-tech-nuevo-programa-rtve-ensenar-tecnologia-personas-mayores-1190742' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/brigada-tech-nuevo-programa-rtve-ensenar-tecnologia-personas-mayores-2939144.jpg?tf=1200x' alt='Brigada Tech, el nuevo programa de RTVE para enseñar tecnología a las personas mayores' />
     </a>
 </div>
 
