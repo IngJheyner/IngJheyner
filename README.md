@@ -50,9 +50,17 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/gaming/direct-storage-carga-rapida-juegos-te-quita-fps-tienes-elegir-prefieres-1191064'>Direct Storage para la carga rápida de juegos te quita fps, tienes que elegir qué prefieres</a></h4>
+    <h4><a href='https://computerhoy.com/espacio/perseverance-nasa-ya-tiene-primer-informe-meteorologico-completo-marte-estos-son-resultados-1191092'>El Perseverance de la NASA ya tiene un primer informe meteorológico completo de Marte y estos son sus resultados</a></h4>
+    <a href='https://computerhoy.com/espacio/perseverance-nasa-ya-tiene-primer-informe-meteorologico-completo-marte-estos-son-resultados-1191092' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/perseverance-nasa-ya-tiene-primer-informe-meteorologico-completo-marte-estos-son-resultados-2939806.jpg?tf=1200x' alt='El Perseverance de la NASA ya tiene un primer informe meteorológico completo de Marte y estos son sus resultados' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/gaming/direct-storage-carga-rapida-juegos-te-quita-fps-tienes-elegir-prefieres-1191064'>DirectStorage para la carga rápida de juegos te quita fps, tienes que elegir qué prefieres</a></h4>
     <a href='https://computerhoy.com/gaming/direct-storage-carga-rapida-juegos-te-quita-fps-tienes-elegir-prefieres-1191064' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/directstorage-2939632.jpg?tf=1200x' alt='Direct Storage para la carga rápida de juegos te quita fps, tienes que elegir qué prefieres' />
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/directstorage-2939632.jpg?tf=1200x' alt='DirectStorage para la carga rápida de juegos te quita fps, tienes que elegir qué prefieres' />
     </a>
 </div>
 
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/pc/seran-nuevos-portatiles-galaxy-book-3-pro-galaxy-book-3-pro-360-1191054'>Así serán los nuevos portátiles Galaxy Book 3 Pro y Galaxy Book 3 Pro 360 </a></h4>
     <a href='https://computerhoy.com/pc/seran-nuevos-portatiles-galaxy-book-3-pro-galaxy-book-3-pro-360-1191054' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/samsung-galaxy-book2-pro-analisis-opinion-2863781.jpg?tf=1200x' alt='Así serán los nuevos portátiles Galaxy Book 3 Pro y Galaxy Book 3 Pro 360 ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/motivo-cual-ves-siempre-mismas-series-peliculas-1190994'>Este es el motivo por el cual ves siempre las mismas series y películas</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/motivo-cual-ves-siempre-mismas-series-peliculas-1190994' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/07/friends-2003809.jpg?tf=1200x' alt='Este es el motivo por el cual ves siempre las mismas series y películas' />
     </a>
 </div>
 
