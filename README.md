@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/como-ver-primer-episodio-the-last-us-gratis-1191252'>Cómo ver el primer episodio de The Last of Us gratis y sin registro</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/como-ver-primer-episodio-the-last-us-gratis-1191252' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/last-us-arrasa-hbo-max-segundo-mejor-estreno-ultima-decada-2930866.jpg?tf=1200x' alt='Cómo ver el primer episodio de The Last of Us gratis y sin registro' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/streaming/hbo-max-confirma-habra-temporada-2-last-us-1191246'>HBO Max confirma que habrá una temporada 2 de The Last of Us</a></h4>
     <a href='https://computerhoy.com/streaming/hbo-max-confirma-habra-temporada-2-last-us-1191246' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/como-ver-primer-episodio-last-us-gratis-registro-2940084.jpg?tf=1200x' alt='HBO Max confirma que habrá una temporada 2 de The Last of Us' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/espacio/como-cuando-poder-ver-espana-cometa-verde-necesidad-telescopio-1187764'>Cómo y cuándo poder ver desde España el cometa verde sin necesidad de telescopio</a></h4>
     <a href='https://computerhoy.com/espacio/como-cuando-poder-ver-espana-cometa-verde-necesidad-telescopio-1187764' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/cometa-c-2022-e3-2925144.jpg?tf=1200x' alt='Cómo y cuándo poder ver desde España el cometa verde sin necesidad de telescopio' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/redes-sociales/tiktok-cada-vez-cerca-instagram-ahora-puedes-enviar-mensajes-cualquier-usuario-1187762'>TikTok cada vez más cerca de Instagram: ahora puedes enviar mensajes a cualquier usuario</a></h4>
-    <a href='https://computerhoy.com/redes-sociales/tiktok-cada-vez-cerca-instagram-ahora-puedes-enviar-mensajes-cualquier-usuario-1187762' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/logo-tiktok-2923622.jpg?tf=1200x' alt='TikTok cada vez más cerca de Instagram: ahora puedes enviar mensajes a cualquier usuario' />
     </a>
 </div>
 
