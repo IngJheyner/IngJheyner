@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/helice-futuro-aviones-barcos-ya-no-haran-ruido-1190958'>Así es la hélice del futuro: aviones y barcos que ya no harán ruido</a></h4>
+    <a href='https://computerhoy.com/ciencia/helice-futuro-aviones-barcos-ya-no-haran-ruido-1190958' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/helice-2939426.jpg?tf=1200x' alt='Así es la hélice del futuro: aviones y barcos que ya no harán ruido' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/google/nueva-funcion-google-android-bloqueara-pestanas-incognito-chrome-nadie-vea-1190974'>La nueva función de Google para Android que bloqueará tus pestañas de incógnito en Chrome para que nadie las vea</a></h4>
+    <a href='https://computerhoy.com/google/nueva-funcion-google-android-bloqueara-pestanas-incognito-chrome-nadie-vea-1190974' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/nueva-funcion-google-android-bloqueara-pestanas-incognito-chrome-nadie-vea-2939430.jpg?tf=1200x' alt='La nueva función de Google para Android que bloqueará tus pestañas de incógnito en Chrome para que nadie las vea' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-baratos-wifi-6-742735'>Móviles con WiFi 6: estos son los que puedes comprar al mejor precio</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-baratos-wifi-6-742735' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/06/poco-f2-pro-analisis-opinion-1957255.jpg?tf=1200x' alt='Móviles con WiFi 6: estos son los que puedes comprar al mejor precio' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-ordenadores-sobremesa-puedes-comprar-1043047'>Mejores ordenadores de sobremesa que puedes comprar en 2023</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/mejores-ordenadores-sobremesa-puedes-comprar-1043047' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/escritorio-pc-sobremesa-portatil-monitor-2671435.jpg?tf=1200x' alt='Mejores ordenadores de sobremesa que puedes comprar en 2023' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/lauren-sanchez-pareja-jeff-bezos-primer-viaje-espacial-solo-mujeres-1190940'>Lauren Sánchez, la pareja de Jeff Bezos, comandará el primer viaje espacial solo con mujeres de la historia</a></h4>
-    <a href='https://computerhoy.com/espacio/lauren-sanchez-pareja-jeff-bezos-primer-viaje-espacial-solo-mujeres-1190940' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/lauren-sanchez-pareja-jeff-bezos-comandara-primer-viaje-espacial-solo-mujeres-historia-2939370.jpg?tf=1200x' alt='Lauren Sánchez, la pareja de Jeff Bezos, comandará el primer viaje espacial solo con mujeres de la historia' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/hogar/cochecito-bebe-inteligencia-artificial-video-1190938'>El primer cochecito para bebés con inteligencia artificial (vídeo)</a></h4>
-    <a href='https://computerhoy.com/hogar/cochecito-bebe-inteligencia-artificial-video-1190938' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/verticalimage1674780426388-2939182.jpg?tf=1200x' alt='El primer cochecito para bebés con inteligencia artificial (vídeo)' />
     </a>
 </div>
 
