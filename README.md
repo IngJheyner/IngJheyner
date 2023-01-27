@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/google/google-pixel-tablet-pro-desnudo-filtradas-especificaciones-diseno-1187182'>La Google Pixel Tablet Pro al desnudo: filtradas sus especificaciones y diseño</a></h4>
+    <a href='https://computerhoy.com/google/google-pixel-tablet-pro-desnudo-filtradas-especificaciones-diseno-1187182' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/galeria-review-nest-hub-2-2450583.jpg?tf=1200x' alt='La Google Pixel Tablet Pro al desnudo: filtradas sus especificaciones y diseño' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/entretenimiento/como-ver-primer-episodio-the-last-us-gratis-1191252'>Cómo ver el primer episodio de The Last of Us gratis y sin registro</a></h4>
     <a href='https://computerhoy.com/entretenimiento/como-ver-primer-episodio-the-last-us-gratis-1191252' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/last-us-arrasa-hbo-max-segundo-mejor-estreno-ultima-decada-2930866.jpg?tf=1200x' alt='Cómo ver el primer episodio de The Last of Us gratis y sin registro' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/pc/lenguajes-programacion-populares-han-crecido-2022-1191238'>Los lenguajes de programación más populares y los que más han crecido en 2022</a></h4>
     <a href='https://computerhoy.com/pc/lenguajes-programacion-populares-han-crecido-2022-1191238' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/lenguajes-programacion-2940074.jpg?tf=1200x' alt='Los lenguajes de programación más populares y los que más han crecido en 2022' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/como-cuando-poder-ver-espana-cometa-verde-necesidad-telescopio-1187764'>Cómo y cuándo poder ver desde España el cometa verde sin necesidad de telescopio</a></h4>
-    <a href='https://computerhoy.com/espacio/como-cuando-poder-ver-espana-cometa-verde-necesidad-telescopio-1187764' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/cometa-c-2022-e3-2925144.jpg?tf=1200x' alt='Cómo y cuándo poder ver desde España el cometa verde sin necesidad de telescopio' />
     </a>
 </div>
 
