@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/hogar/cochecito-bebe-inteligencia-artificial-video-1190938'>El primer cochecito para bebés con inteligencia artificial (vídeo)</a></h4>
+    <a href='https://computerhoy.com/hogar/cochecito-bebe-inteligencia-artificial-video-1190938' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/verticalimage1674780426388-2939182.jpg?tf=1200x' alt='El primer cochecito para bebés con inteligencia artificial (vídeo)' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/redes-sociales/twitter-elimina-ultimas-caracteristicas-peticion-popular-1174550'>Twitter elimina una de sus últimas características a petición popular</a></h4>
     <a href='https://computerhoy.com/redes-sociales/twitter-elimina-ultimas-caracteristicas-peticion-popular-1174550' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/bye-bye-bird-pajaro-raspberry-pi-suelta-lagrima-cada-vez-alguien-borra-twitter-2881713.jpg?tf=1200x' alt='Twitter elimina una de sus últimas características a petición popular' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/motor/ferrari-quiere-hagas-rugir-coches-electricos-ello-desarrollando-sonidos-motor-artificiales-1180272'>Ferrari quiere que hagas rugir sus coches eléctricos y para ello está desarrollando sonidos de motor artificiales</a></h4>
     <a href='https://computerhoy.com/motor/ferrari-quiere-hagas-rugir-coches-electricos-ello-desarrollando-sonidos-motor-artificiales-1180272' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/ferrari-confirma-primer-coche-electrico-llegara-2025-2301967.jpg?tf=1200x' alt='Ferrari quiere que hagas rugir sus coches eléctricos y para ello está desarrollando sonidos de motor artificiales' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/criptos/ballenas-bitcoin-comienzan-despertarse-como-podria-afectar-precio-1171160'>Las ballenas del Bitcoin comienzan a despertarse: ¿cómo podría afectar a su precio?</a></h4>
-    <a href='https://computerhoy.com/criptos/ballenas-bitcoin-comienzan-despertarse-como-podria-afectar-precio-1171160' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/ballena-azul-2723827.jpg?tf=1200x' alt='Las ballenas del Bitcoin comienzan a despertarse: ¿cómo podría afectar a su precio?' />
     </a>
 </div>
 
