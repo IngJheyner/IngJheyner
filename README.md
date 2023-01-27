@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-ordenadores-sobremesa-puedes-comprar-1043047'>Mejores ordenadores de sobremesa que puedes comprar en 2023</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-ordenadores-sobremesa-puedes-comprar-1043047' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/escritorio-pc-sobremesa-portatil-monitor-2671435.jpg?tf=1200x' alt='Mejores ordenadores de sobremesa que puedes comprar en 2023' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/espacio/lauren-sanchez-pareja-jeff-bezos-primer-viaje-espacial-solo-mujeres-1190940'>Lauren Sánchez, la pareja de Jeff Bezos, comandará el primer viaje espacial solo con mujeres de la historia</a></h4>
     <a href='https://computerhoy.com/espacio/lauren-sanchez-pareja-jeff-bezos-primer-viaje-espacial-solo-mujeres-1190940' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/lauren-sanchez-pareja-jeff-bezos-comandara-primer-viaje-espacial-solo-mujeres-historia-2939370.jpg?tf=1200x' alt='Lauren Sánchez, la pareja de Jeff Bezos, comandará el primer viaje espacial solo con mujeres de la historia' />
@@ -74,17 +82,9 @@
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/gaming/hay-juego-steam-cuesta-2000-euros-merece-pena-1190746'>Hay un juego en Steam que cuesta 2.000 euros, ¿merece la pena?</a></h4>
+    <h4><a href='https://computerhoy.com/gaming/hay-juego-steam-cuesta-2000-euros-merece-pena-1190746'>Hay un juego en Steam que cuesta 2.000 euros, pero es tan malo que no lo querrás jugar ni gratis</a></h4>
     <a href='https://computerhoy.com/gaming/hay-juego-steam-cuesta-2000-euros-merece-pena-1190746' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/hay-juego-steam-cuesta-2000-euros-merece-pena-2939174.jpg?tf=1200x' alt='Hay un juego en Steam que cuesta 2.000 euros, ¿merece la pena?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/apple-prepara-propio-buscador-acabar-lazos-google-1173424'>Apple prepara su propio buscador para acabar sus lazos con Google</a></h4>
-    <a href='https://computerhoy.com/apple/apple-prepara-propio-buscador-acabar-lazos-google-1173424' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/iphone-atascado-logo-2875941.jpg?tf=1200x' alt='Apple prepara su propio buscador para acabar sus lazos con Google' />
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/hay-juego-steam-cuesta-2000-euros-merece-pena-2939174.jpg?tf=1200x' alt='Hay un juego en Steam que cuesta 2.000 euros, pero es tan malo que no lo querrás jugar ni gratis' />
     </a>
 </div>
 
