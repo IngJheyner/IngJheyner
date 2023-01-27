@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/750w-potencia-traccion-trasera-patinete-electrico-vendido-cecotec-ahora-120eu-descuento-1190540'>750W de potencia y tracción trasera: el patinete eléctrico más vendido de Cecotec, ahora con 120€ de descuento</a></h4>
+    <a href='https://computerhoy.com/tecnologia/750w-potencia-traccion-trasera-patinete-electrico-vendido-cecotec-ahora-120eu-descuento-1190540' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/bongo-serie-s-max-infinity-2938614.jpg?tf=1200x' alt='750W de potencia y tracción trasera: el patinete eléctrico más vendido de Cecotec, ahora con 120€ de descuento' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/motor/ocurre-coches-no-consiguen-venderse-concesionarios-1190992'>Esto es lo que ocurre con los coches que no consiguen venderse en los concesionarios</a></h4>
+    <a href='https://computerhoy.com/motor/ocurre-coches-no-consiguen-venderse-concesionarios-1190992' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/ocurre-vehiculos-no-consiguen-venderse-concesionarios-2939462.jpg?tf=1200x' alt='Esto es lo que ocurre con los coches que no consiguen venderse en los concesionarios' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciencia/helice-futuro-aviones-barcos-ya-no-haran-ruido-1190958'>Así es la hélice del futuro: aviones y barcos que ya no harán ruido</a></h4>
     <a href='https://computerhoy.com/ciencia/helice-futuro-aviones-barcos-ya-no-haran-ruido-1190958' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/helice-2939426.jpg?tf=1200x' alt='Así es la hélice del futuro: aviones y barcos que ya no harán ruido' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-baratos-wifi-6-742735'>Móviles con WiFi 6: estos son los que puedes comprar al mejor precio</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-baratos-wifi-6-742735' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/06/poco-f2-pro-analisis-opinion-1957255.jpg?tf=1200x' alt='Móviles con WiFi 6: estos son los que puedes comprar al mejor precio' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/28-noticias-tecnologia-comenzar-manana-informado-ultimo-1190944'>28 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
-    <a href='https://computerhoy.com/tecnologia/28-noticias-tecnologia-comenzar-manana-informado-ultimo-1190944' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/28-noticias-tecnologia-comenzar-manana-informado-ultimo-2939376.jpg?tf=1200x' alt='28 noticias de tecnología para comenzar la mañana informado de lo último' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-ordenadores-sobremesa-puedes-comprar-1043047'>Mejores ordenadores de sobremesa que puedes comprar en 2023</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-ordenadores-sobremesa-puedes-comprar-1043047' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/escritorio-pc-sobremesa-portatil-monitor-2671435.jpg?tf=1200x' alt='Mejores ordenadores de sobremesa que puedes comprar en 2023' />
     </a>
 </div>
 
