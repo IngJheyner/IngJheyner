@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/gaming/direct-storage-carga-rapida-juegos-te-quita-fps-tienes-elegir-prefieres-1191064'>Direct Storage para la carga rápida de juegos te quita fps, tienes que elegir qué prefieres</a></h4>
+    <a href='https://computerhoy.com/gaming/direct-storage-carga-rapida-juegos-te-quita-fps-tienes-elegir-prefieres-1191064' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/directstorage-2939632.jpg?tf=1200x' alt='Direct Storage para la carga rápida de juegos te quita fps, tienes que elegir qué prefieres' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/auriculares-inalambricos-anker-baratos-completos-anc-1189874'>Hemos probado estos auriculares de Anker y sorprenden por calidad, pero ahora también por su precio: están en oferta por 50 euros menos</a></h4>
     <a href='https://computerhoy.com/tecnologia/auriculares-inalambricos-anker-baratos-completos-anc-1189874' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/analisis-soundcore-liberty-3-pro-2600223.jpg?tf=1200x' alt='Hemos probado estos auriculares de Anker y sorprenden por calidad, pero ahora también por su precio: están en oferta por 50 euros menos' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/entretenimiento/motivo-cual-ves-siempre-mismas-series-peliculas-1190994'>Este es el motivo por el cual ves siempre las mismas series y películas</a></h4>
     <a href='https://computerhoy.com/entretenimiento/motivo-cual-ves-siempre-mismas-series-peliculas-1190994' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/07/friends-2003809.jpg?tf=1200x' alt='Este es el motivo por el cual ves siempre las mismas series y películas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/750w-potencia-traccion-trasera-patinete-electrico-vendido-cecotec-ahora-120eu-descuento-1190540'>750W de potencia y tracción trasera: el patinete eléctrico más vendido de Cecotec, ahora con 120€ de descuento</a></h4>
-    <a href='https://computerhoy.com/tecnologia/750w-potencia-traccion-trasera-patinete-electrico-vendido-cecotec-ahora-120eu-descuento-1190540' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/bongo-serie-s-max-infinity-2938614.jpg?tf=1200x' alt='750W de potencia y tracción trasera: el patinete eléctrico más vendido de Cecotec, ahora con 120€ de descuento' />
     </a>
 </div>
 
