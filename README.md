@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/espacio/lauren-sanchez-pareja-jeff-bezos-primer-viaje-espacial-solo-mujeres-1190940'>Lauren Sánchez, la pareja de Jeff Bezos, comandará el primer viaje espacial solo con mujeres de la historia</a></h4>
+    <a href='https://computerhoy.com/espacio/lauren-sanchez-pareja-jeff-bezos-primer-viaje-espacial-solo-mujeres-1190940' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/lauren-sanchez-pareja-jeff-bezos-comandara-primer-viaje-espacial-solo-mujeres-historia-2939370.jpg?tf=1200x' alt='Lauren Sánchez, la pareja de Jeff Bezos, comandará el primer viaje espacial solo con mujeres de la historia' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/hogar/cochecito-bebe-inteligencia-artificial-video-1190938'>El primer cochecito para bebés con inteligencia artificial (vídeo)</a></h4>
     <a href='https://computerhoy.com/hogar/cochecito-bebe-inteligencia-artificial-video-1190938' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/verticalimage1674780426388-2939182.jpg?tf=1200x' alt='El primer cochecito para bebés con inteligencia artificial (vídeo)' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/apple/apple-prepara-propio-buscador-acabar-lazos-google-1173424'>Apple prepara su propio buscador para acabar sus lazos con Google</a></h4>
     <a href='https://computerhoy.com/apple/apple-prepara-propio-buscador-acabar-lazos-google-1173424' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/iphone-atascado-logo-2875941.jpg?tf=1200x' alt='Apple prepara su propio buscador para acabar sus lazos con Google' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/ferrari-quiere-hagas-rugir-coches-electricos-ello-desarrollando-sonidos-motor-artificiales-1180272'>Ferrari quiere que hagas rugir sus coches eléctricos y para ello está desarrollando sonidos de motor artificiales</a></h4>
-    <a href='https://computerhoy.com/motor/ferrari-quiere-hagas-rugir-coches-electricos-ello-desarrollando-sonidos-motor-artificiales-1180272' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/ferrari-confirma-primer-coche-electrico-llegara-2025-2301967.jpg?tf=1200x' alt='Ferrari quiere que hagas rugir sus coches eléctricos y para ello está desarrollando sonidos de motor artificiales' />
     </a>
 </div>
 
