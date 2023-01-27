@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-baratos-wifi-6-742735'>Móviles con WiFi 6: estos son los que puedes comprar al mejor precio</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-baratos-wifi-6-742735' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/06/poco-f2-pro-analisis-opinion-1957255.jpg?tf=1200x' alt='Móviles con WiFi 6: estos son los que puedes comprar al mejor precio' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/28-noticias-tecnologia-comenzar-manana-informado-ultimo-1190944'>28 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
+    <a href='https://computerhoy.com/tecnologia/28-noticias-tecnologia-comenzar-manana-informado-ultimo-1190944' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/28-noticias-tecnologia-comenzar-manana-informado-ultimo-2939376.jpg?tf=1200x' alt='28 noticias de tecnología para comenzar la mañana informado de lo último' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-ordenadores-sobremesa-puedes-comprar-1043047'>Mejores ordenadores de sobremesa que puedes comprar en 2023</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/mejores-ordenadores-sobremesa-puedes-comprar-1043047' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/escritorio-pc-sobremesa-portatil-monitor-2671435.jpg?tf=1200x' alt='Mejores ordenadores de sobremesa que puedes comprar en 2023' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/hogar/cochecito-bebe-inteligencia-artificial-video-1190938'>El primer cochecito para bebés con inteligencia artificial (vídeo)</a></h4>
     <a href='https://computerhoy.com/hogar/cochecito-bebe-inteligencia-artificial-video-1190938' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/verticalimage1674780426388-2939182.jpg?tf=1200x' alt='El primer cochecito para bebés con inteligencia artificial (vídeo)' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/redes-sociales/twitter-elimina-ultimas-caracteristicas-peticion-popular-1174550'>Twitter elimina una de sus últimas características a petición popular</a></h4>
-    <a href='https://computerhoy.com/redes-sociales/twitter-elimina-ultimas-caracteristicas-peticion-popular-1174550' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/bye-bye-bird-pajaro-raspberry-pi-suelta-lagrima-cada-vez-alguien-borra-twitter-2881713.jpg?tf=1200x' alt='Twitter elimina una de sus últimas características a petición popular' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/gaming/hay-juego-steam-cuesta-2000-euros-merece-pena-1190746'>Hay un juego en Steam que cuesta 2.000 euros, pero es tan malo que no lo querrás jugar ni gratis</a></h4>
-    <a href='https://computerhoy.com/gaming/hay-juego-steam-cuesta-2000-euros-merece-pena-1190746' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/hay-juego-steam-cuesta-2000-euros-merece-pena-2939174.jpg?tf=1200x' alt='Hay un juego en Steam que cuesta 2.000 euros, pero es tan malo que no lo querrás jugar ni gratis' />
     </a>
 </div>
 
