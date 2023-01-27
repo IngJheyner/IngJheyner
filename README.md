@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/series-ver-fin-semana-netflix-hbo-max-apple-tv-agencia-terapia-ejercito-1191160'>Qué series ver este fin de semana en Netflix, HBO Max y Apple TV+: una agencia, una terapia y el ejército</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/series-ver-fin-semana-netflix-hbo-max-apple-tv-agencia-terapia-ejercito-1191160' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/agencia-lockwood-2939900.jpg?tf=1200x' alt='Qué series ver este fin de semana en Netflix, HBO Max y Apple TV+: una agencia, una terapia y el ejército' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/moviles/smartphone-bateria-extraible-microsd-2023-tcl-tira-nostalgia-1191170'>Smartphone con batería extraíble y con microSD en 2023, TCL tira de nostalgia</a></h4>
+    <a href='https://computerhoy.com/moviles/smartphone-bateria-extraible-microsd-2023-tcl-tira-nostalgia-1191170' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/smartphone-bateria-extraible-microsd-2023-tcl-tira-nostalgia-2939950.jpg?tf=1200x' alt='Smartphone con batería extraíble y con microSD en 2023, TCL tira de nostalgia' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/entretenimiento/peliculas-ver-fin-semana-netflix-prime-video-movistarplus-blackphone-fast-furious-9-comedia-jonah-hill-1191072'>Qué películas ver este fin de semana en Netflix, Prime Video y MovistarPlus+: BlackPhone, Fast & Furious 9 y una comedia con Jonah Hill</a></h4>
     <a href='https://computerhoy.com/entretenimiento/peliculas-ver-fin-semana-netflix-prime-video-movistarplus-blackphone-fast-furious-9-comedia-jonah-hill-1191072' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/peliculas-ver-fin-semana-netflix-prime-video-movistarplus-blackphone-fast-furious-9-comedia-jonah-hill-2939602.jpg?tf=1200x' alt='Qué películas ver este fin de semana en Netflix, Prime Video y MovistarPlus+: BlackPhone, Fast & Furious 9 y una comedia con Jonah Hill' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/espacio/perseverance-nasa-ya-tiene-primer-informe-meteorologico-completo-marte-estos-son-resultados-1191092'>El Perseverance de la NASA ya tiene un primer informe meteorológico completo de Marte y estos son sus resultados</a></h4>
     <a href='https://computerhoy.com/espacio/perseverance-nasa-ya-tiene-primer-informe-meteorologico-completo-marte-estos-son-resultados-1191092' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/perseverance-nasa-ya-tiene-primer-informe-meteorologico-completo-marte-estos-son-resultados-2939806.jpg?tf=1200x' alt='El Perseverance de la NASA ya tiene un primer informe meteorológico completo de Marte y estos son sus resultados' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/gaming/direct-storage-carga-rapida-juegos-te-quita-fps-tienes-elegir-prefieres-1191064'>DirectStorage para la carga rápida de juegos te quita fps, tienes que elegir qué prefieres</a></h4>
-    <a href='https://computerhoy.com/gaming/direct-storage-carga-rapida-juegos-te-quita-fps-tienes-elegir-prefieres-1191064' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/directstorage-2939632.jpg?tf=1200x' alt='DirectStorage para la carga rápida de juegos te quita fps, tienes que elegir qué prefieres' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/auriculares-inalambricos-anker-baratos-completos-anc-1189874'>Hemos probado estos auriculares de Anker y sorprenden por calidad, pero ahora también por su precio: están en oferta por 50 euros menos</a></h4>
-    <a href='https://computerhoy.com/tecnologia/auriculares-inalambricos-anker-baratos-completos-anc-1189874' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/analisis-soundcore-liberty-3-pro-2600223.jpg?tf=1200x' alt='Hemos probado estos auriculares de Anker y sorprenden por calidad, pero ahora también por su precio: están en oferta por 50 euros menos' />
     </a>
 </div>
 
