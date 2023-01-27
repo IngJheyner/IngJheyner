@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/auriculares-inalambricos-anker-baratos-completos-anc-1189874'>Hemos probado estos auriculares de Anker y sorprenden por calidad, pero ahora también por su precio: están en oferta por 50 euros menos</a></h4>
+    <a href='https://computerhoy.com/tecnologia/auriculares-inalambricos-anker-baratos-completos-anc-1189874' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/analisis-soundcore-liberty-3-pro-2600223.jpg?tf=1200x' alt='Hemos probado estos auriculares de Anker y sorprenden por calidad, pero ahora también por su precio: están en oferta por 50 euros menos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/motor/nuevo-material-mejora-baterias-estado-solido-coche-electrico-no-degraden-carguen-rapido-1191046'>Este material mejora las baterías de estado sólido del coche eléctrico para que no se degraden y carguen más rápido</a></h4>
+    <a href='https://computerhoy.com/motor/nuevo-material-mejora-baterias-estado-solido-coche-electrico-no-degraden-carguen-rapido-1191046' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/nuevo-material-mejora-baterias-estado-solido-coche-electrico-no-degraden-carguen-rapido-2939562.jpg?tf=1200x' alt='Este material mejora las baterías de estado sólido del coche eléctrico para que no se degraden y carguen más rápido' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/pc/seran-nuevos-portatiles-galaxy-book-3-pro-galaxy-book-3-pro-360-1191054'>Así serán los nuevos portátiles Galaxy Book 3 Pro y Galaxy Book 3 Pro 360 </a></h4>
+    <a href='https://computerhoy.com/pc/seran-nuevos-portatiles-galaxy-book-3-pro-galaxy-book-3-pro-360-1191054' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/samsung-galaxy-book2-pro-analisis-opinion-2863781.jpg?tf=1200x' alt='Así serán los nuevos portátiles Galaxy Book 3 Pro y Galaxy Book 3 Pro 360 ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/entretenimiento/motivo-cual-ves-siempre-mismas-series-peliculas-1190994'>Este es el motivo por el cual ves siempre las mismas series y películas</a></h4>
     <a href='https://computerhoy.com/entretenimiento/motivo-cual-ves-siempre-mismas-series-peliculas-1190994' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/07/friends-2003809.jpg?tf=1200x' alt='Este es el motivo por el cual ves siempre las mismas series y películas' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/750w-potencia-traccion-trasera-patinete-electrico-vendido-cecotec-ahora-120eu-descuento-1190540'>750W de potencia y tracción trasera: el patinete eléctrico más vendido de Cecotec, ahora con 120€ de descuento</a></h4>
     <a href='https://computerhoy.com/tecnologia/750w-potencia-traccion-trasera-patinete-electrico-vendido-cecotec-ahora-120eu-descuento-1190540' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/bongo-serie-s-max-infinity-2938614.jpg?tf=1200x' alt='750W de potencia y tracción trasera: el patinete eléctrico más vendido de Cecotec, ahora con 120€ de descuento' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/ocurre-coches-no-consiguen-venderse-concesionarios-1190992'>Esto es lo que ocurre con los coches que no consiguen venderse en los concesionarios</a></h4>
-    <a href='https://computerhoy.com/motor/ocurre-coches-no-consiguen-venderse-concesionarios-1190992' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/ocurre-vehiculos-no-consiguen-venderse-concesionarios-2939462.jpg?tf=1200x' alt='Esto es lo que ocurre con los coches que no consiguen venderse en los concesionarios' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/helice-futuro-aviones-barcos-ya-no-haran-ruido-1190958'>Así es la hélice del futuro: aviones y barcos que ya no harán ruido</a></h4>
-    <a href='https://computerhoy.com/ciencia/helice-futuro-aviones-barcos-ya-no-haran-ruido-1190958' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/helice-2939426.jpg?tf=1200x' alt='Así es la hélice del futuro: aviones y barcos que ya no harán ruido' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/nueva-funcion-google-android-bloqueara-pestanas-incognito-chrome-nadie-vea-1190974'>La nueva función de Google para Android que bloqueará tus pestañas de incógnito en Chrome para que nadie las vea</a></h4>
-    <a href='https://computerhoy.com/google/nueva-funcion-google-android-bloqueara-pestanas-incognito-chrome-nadie-vea-1190974' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/nueva-funcion-google-android-bloqueara-pestanas-incognito-chrome-nadie-vea-2939430.jpg?tf=1200x' alt='La nueva función de Google para Android que bloqueará tus pestañas de incógnito en Chrome para que nadie las vea' />
     </a>
 </div>
 
