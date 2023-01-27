@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/redes-sociales/tiktok-cada-vez-cerca-instagram-ahora-puedes-enviar-mensajes-cualquier-usuario-1187762'>TikTok cada vez más cerca de Instagram: ahora puedes enviar mensajes a cualquier usuario</a></h4>
+    <a href='https://computerhoy.com/redes-sociales/tiktok-cada-vez-cerca-instagram-ahora-puedes-enviar-mensajes-cualquier-usuario-1187762' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/logo-tiktok-2923622.jpg?tf=1200x' alt='TikTok cada vez más cerca de Instagram: ahora puedes enviar mensajes a cualquier usuario' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/sorprendente-metodo-bill-gates-controlar-empleados-microsoft-1191172'>El sorprendente método de Bill Gates para controlar a sus empleados en Microsoft</a></h4>
     <a href='https://computerhoy.com/life/sorprendente-metodo-bill-gates-controlar-empleados-microsoft-1191172' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/bill-gates-2816421.jpg?tf=1200x' alt='El sorprendente método de Bill Gates para controlar a sus empleados en Microsoft' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/moviles/smartphone-bateria-extraible-microsd-2023-tcl-tira-nostalgia-1191170'>Smartphone con batería extraíble y con microSD en 2023, TCL tira de nostalgia</a></h4>
     <a href='https://computerhoy.com/moviles/smartphone-bateria-extraible-microsd-2023-tcl-tira-nostalgia-1191170' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/smartphone-bateria-extraible-microsd-2023-tcl-tira-nostalgia-2939950.jpg?tf=1200x' alt='Smartphone con batería extraíble y con microSD en 2023, TCL tira de nostalgia' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/peliculas-ver-fin-semana-netflix-prime-video-movistarplus-blackphone-fast-furious-9-comedia-jonah-hill-1191072'>Qué películas ver este fin de semana en Netflix, Prime Video y MovistarPlus+: BlackPhone, Fast & Furious 9 y una comedia con Jonah Hill</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/peliculas-ver-fin-semana-netflix-prime-video-movistarplus-blackphone-fast-furious-9-comedia-jonah-hill-1191072' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/peliculas-ver-fin-semana-netflix-prime-video-movistarplus-blackphone-fast-furious-9-comedia-jonah-hill-2939602.jpg?tf=1200x' alt='Qué películas ver este fin de semana en Netflix, Prime Video y MovistarPlus+: BlackPhone, Fast & Furious 9 y una comedia con Jonah Hill' />
     </a>
 </div>
 
