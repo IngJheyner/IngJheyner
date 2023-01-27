@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/espacio/como-cuando-poder-ver-espana-cometa-verde-necesidad-telescopio-1187764'>Cómo y cuándo poder ver desde España el cometa verde sin necesidad de telescopio</a></h4>
+    <a href='https://computerhoy.com/espacio/como-cuando-poder-ver-espana-cometa-verde-necesidad-telescopio-1187764' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/cometa-c-2022-e3-2925144.jpg?tf=1200x' alt='Cómo y cuándo poder ver desde España el cometa verde sin necesidad de telescopio' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/redes-sociales/tiktok-cada-vez-cerca-instagram-ahora-puedes-enviar-mensajes-cualquier-usuario-1187762'>TikTok cada vez más cerca de Instagram: ahora puedes enviar mensajes a cualquier usuario</a></h4>
     <a href='https://computerhoy.com/redes-sociales/tiktok-cada-vez-cerca-instagram-ahora-puedes-enviar-mensajes-cualquier-usuario-1187762' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/logo-tiktok-2923622.jpg?tf=1200x' alt='TikTok cada vez más cerca de Instagram: ahora puedes enviar mensajes a cualquier usuario' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/entretenimiento/series-ver-fin-semana-netflix-hbo-max-apple-tv-agencia-terapia-ejercito-1191160'>Qué series ver este fin de semana en Netflix, HBO Max y Apple TV+: una agencia, una terapia y el ejército</a></h4>
     <a href='https://computerhoy.com/entretenimiento/series-ver-fin-semana-netflix-hbo-max-apple-tv-agencia-terapia-ejercito-1191160' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/agencia-lockwood-2939900.jpg?tf=1200x' alt='Qué series ver este fin de semana en Netflix, HBO Max y Apple TV+: una agencia, una terapia y el ejército' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/smartphone-bateria-extraible-microsd-2023-tcl-tira-nostalgia-1191170'>Smartphone con batería extraíble y con microSD en 2023, TCL tira de nostalgia</a></h4>
-    <a href='https://computerhoy.com/moviles/smartphone-bateria-extraible-microsd-2023-tcl-tira-nostalgia-1191170' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/smartphone-bateria-extraible-microsd-2023-tcl-tira-nostalgia-2939950.jpg?tf=1200x' alt='Smartphone con batería extraíble y con microSD en 2023, TCL tira de nostalgia' />
     </a>
 </div>
 
