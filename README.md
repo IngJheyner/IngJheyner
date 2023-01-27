@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/motivo-cual-ves-siempre-mismas-series-peliculas-1190994'>Este es el motivo por el cual ves siempre las mismas series y películas</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/motivo-cual-ves-siempre-mismas-series-peliculas-1190994' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/07/friends-2003809.jpg?tf=1200x' alt='Este es el motivo por el cual ves siempre las mismas series y películas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/750w-potencia-traccion-trasera-patinete-electrico-vendido-cecotec-ahora-120eu-descuento-1190540'>750W de potencia y tracción trasera: el patinete eléctrico más vendido de Cecotec, ahora con 120€ de descuento</a></h4>
     <a href='https://computerhoy.com/tecnologia/750w-potencia-traccion-trasera-patinete-electrico-vendido-cecotec-ahora-120eu-descuento-1190540' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/bongo-serie-s-max-infinity-2938614.jpg?tf=1200x' alt='750W de potencia y tracción trasera: el patinete eléctrico más vendido de Cecotec, ahora con 120€ de descuento' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/google/nueva-funcion-google-android-bloqueara-pestanas-incognito-chrome-nadie-vea-1190974'>La nueva función de Google para Android que bloqueará tus pestañas de incógnito en Chrome para que nadie las vea</a></h4>
     <a href='https://computerhoy.com/google/nueva-funcion-google-android-bloqueara-pestanas-incognito-chrome-nadie-vea-1190974' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/nueva-funcion-google-android-bloqueara-pestanas-incognito-chrome-nadie-vea-2939430.jpg?tf=1200x' alt='La nueva función de Google para Android que bloqueará tus pestañas de incógnito en Chrome para que nadie las vea' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-baratos-wifi-6-742735'>Móviles con WiFi 6: estos son los que puedes comprar al mejor precio</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-baratos-wifi-6-742735' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/06/poco-f2-pro-analisis-opinion-1957255.jpg?tf=1200x' alt='Móviles con WiFi 6: estos son los que puedes comprar al mejor precio' />
     </a>
 </div>
 
