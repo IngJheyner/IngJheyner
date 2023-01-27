@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/peliculas-ver-fin-semana-netflix-prime-video-movistarplus-blackphone-fast-furious-9-comedia-jonah-hill-1191072'>Qué películas ver este fin de semana en Netflix, Prime Video y MovistarPlus+: BlackPhone, Fast & Furious 9 y una comedia con Jonah Hill</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/peliculas-ver-fin-semana-netflix-prime-video-movistarplus-blackphone-fast-furious-9-comedia-jonah-hill-1191072' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/peliculas-ver-fin-semana-netflix-prime-video-movistarplus-blackphone-fast-furious-9-comedia-jonah-hill-2939602.jpg?tf=1200x' alt='Qué películas ver este fin de semana en Netflix, Prime Video y MovistarPlus+: BlackPhone, Fast & Furious 9 y una comedia con Jonah Hill' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/streaming/coches-espia-android-tv-envueltos-papel-aluminio-bulos-iptv-1191174'>Coches espía y Android TV envueltos en papel de aluminio: los bulos de las IPTV</a></h4>
+    <a href='https://computerhoy.com/streaming/coches-espia-android-tv-envueltos-papel-aluminio-bulos-iptv-1191174' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/persona-gorro-papel-aluminio-2349041.jpg?tf=1200x' alt='Coches espía y Android TV envueltos en papel de aluminio: los bulos de las IPTV' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/espacio/perseverance-nasa-ya-tiene-primer-informe-meteorologico-completo-marte-estos-son-resultados-1191092'>El Perseverance de la NASA ya tiene un primer informe meteorológico completo de Marte y estos son sus resultados</a></h4>
     <a href='https://computerhoy.com/espacio/perseverance-nasa-ya-tiene-primer-informe-meteorologico-completo-marte-estos-son-resultados-1191092' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/perseverance-nasa-ya-tiene-primer-informe-meteorologico-completo-marte-estos-son-resultados-2939806.jpg?tf=1200x' alt='El Perseverance de la NASA ya tiene un primer informe meteorológico completo de Marte y estos son sus resultados' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/auriculares-inalambricos-anker-baratos-completos-anc-1189874'>Hemos probado estos auriculares de Anker y sorprenden por calidad, pero ahora también por su precio: están en oferta por 50 euros menos</a></h4>
     <a href='https://computerhoy.com/tecnologia/auriculares-inalambricos-anker-baratos-completos-anc-1189874' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/analisis-soundcore-liberty-3-pro-2600223.jpg?tf=1200x' alt='Hemos probado estos auriculares de Anker y sorprenden por calidad, pero ahora también por su precio: están en oferta por 50 euros menos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/nuevo-material-mejora-baterias-estado-solido-coche-electrico-no-degraden-carguen-rapido-1191046'>Este material mejora las baterías de estado sólido del coche eléctrico para que no se degraden y carguen más rápido</a></h4>
-    <a href='https://computerhoy.com/motor/nuevo-material-mejora-baterias-estado-solido-coche-electrico-no-degraden-carguen-rapido-1191046' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/nuevo-material-mejora-baterias-estado-solido-coche-electrico-no-degraden-carguen-rapido-2939562.jpg?tf=1200x' alt='Este material mejora las baterías de estado sólido del coche eléctrico para que no se degraden y carguen más rápido' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/seran-nuevos-portatiles-galaxy-book-3-pro-galaxy-book-3-pro-360-1191054'>Así serán los nuevos portátiles Galaxy Book 3 Pro y Galaxy Book 3 Pro 360 </a></h4>
-    <a href='https://computerhoy.com/pc/seran-nuevos-portatiles-galaxy-book-3-pro-galaxy-book-3-pro-360-1191054' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/samsung-galaxy-book2-pro-analisis-opinion-2863781.jpg?tf=1200x' alt='Así serán los nuevos portátiles Galaxy Book 3 Pro y Galaxy Book 3 Pro 360 ' />
     </a>
 </div>
 
