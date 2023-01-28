@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/25-tecnologias-emergentes-cuantas-ellas-conoces-1186416'>25 tecnologías emergentes: ¿cuántas de ellas conoces?</a></h4>
+    <a href='https://computerhoy.com/tecnologia/25-tecnologias-emergentes-cuantas-ellas-conoces-1186416' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/tecnologia-2931490.jpg?tf=1200x' alt='25 tecnologías emergentes: ¿cuántas de ellas conoces?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/portatil-16-pulgadas-huawei-bestia-potencia-oferta-1189950'>Una bestia con Ryzen 7 y pantalla de 16 pulgadas: este portátil de Huawei es lo que cualquier profesional querría</a></h4>
     <a href='https://computerhoy.com/tecnologia/portatil-16-pulgadas-huawei-bestia-potencia-oferta-1189950' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/analisis-huawei-matebook-16-2628561.jpg?tf=1200x' alt='Una bestia con Ryzen 7 y pantalla de 16 pulgadas: este portátil de Huawei es lo que cualquier profesional querría' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/recomendable-dejar-encendido-router-wifi-1002257'>¿Es recomendable dejar encendido el router WiFi todo el día?</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/recomendable-dejar-encendido-router-wifi-1002257' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/router-boton-apagado-2598313.jpg?tf=1200x' alt='¿Es recomendable dejar encendido el router WiFi todo el día?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/guia-compra/robot-aspirador'>¿Cuál es el mejor robot aspirador que puedes comprar? Comparativa y guía 2023</a></h4>
-    <a href='https://computerhoy.com/guia-compra/robot-aspirador' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/irobot-roomba-combo-j7-2922204.jpg?tf=1200x' alt='¿Cuál es el mejor robot aspirador que puedes comprar? Comparativa y guía 2023' />
     </a>
 </div>
 
