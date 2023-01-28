@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/amazon-quiere-tomb-raider-sea-proxima-gran-apuesta-crear-universo-interconectado-marvel-1191484'>Amazon quiere que Tomb Raider sea su próxima gran apuesta para crear un universo interconectado a lo Marvel</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/amazon-quiere-tomb-raider-sea-proxima-gran-apuesta-crear-universo-interconectado-marvel-1191484' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/tomb-raider-2940412.jpg?tf=1200x' alt='Amazon quiere que Tomb Raider sea su próxima gran apuesta para crear un universo interconectado a lo Marvel' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/internet/ajustes-consejos-proteger-router-wifi-piratas-informaticos-1191474'>Ajustes y consejos para proteger tu router WiFi de los piratas informáticos</a></h4>
     <a href='https://computerhoy.com/internet/ajustes-consejos-proteger-router-wifi-piratas-informaticos-1191474' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/router-wifi-2623703.jpg?tf=1200x' alt='Ajustes y consejos para proteger tu router WiFi de los piratas informáticos' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/apps/ultimas-novedades-whatsapp-son-modo-camara-renovado-nuevas-fuentes-editor-texto-1191460'>Las últimas novedades para WhatsApp son un modo de cámara renovado y nuevas fuentes para el editor de texto</a></h4>
     <a href='https://computerhoy.com/apps/ultimas-novedades-whatsapp-son-modo-camara-renovado-nuevas-fuentes-editor-texto-1191460' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/whatsapp-selfie-2940376.jpg?tf=1200x' alt='Las últimas novedades para WhatsApp son un modo de cámara renovado y nuevas fuentes para el editor de texto' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/25-tecnologias-emergentes-cuantas-ellas-conoces-1186416'>25 tecnologías emergentes: ¿cuántas de ellas conoces?</a></h4>
-    <a href='https://computerhoy.com/tecnologia/25-tecnologias-emergentes-cuantas-ellas-conoces-1186416' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/tecnologia-2931490.jpg?tf=1200x' alt='25 tecnologías emergentes: ¿cuántas de ellas conoces?' />
     </a>
 </div>
 
