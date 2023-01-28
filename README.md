@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/portatil-16-pulgadas-huawei-bestia-potencia-oferta-1189950'>Una bestia con Ryzen 7 y pantalla de 16 pulgadas: este portátil de Huawei es lo que cualquier profesional querría</a></h4>
+    <a href='https://computerhoy.com/tecnologia/portatil-16-pulgadas-huawei-bestia-potencia-oferta-1189950' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/analisis-huawei-matebook-16-2628561.jpg?tf=1200x' alt='Una bestia con Ryzen 7 y pantalla de 16 pulgadas: este portátil de Huawei es lo que cualquier profesional querría' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/analisis/review-kindle-scribe-ereader-enorme-lapiz-deja-panales-apple-pencil-1190152'>Análisis del Kindle Scribe, un eReader enorme con un lápiz que deja en pañales al Apple Pencil</a></h4>
     <a href='https://computerhoy.com/analisis/review-kindle-scribe-ereader-enorme-lapiz-deja-panales-apple-pencil-1190152' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/analisis-kindle-scribe-2939674.jpg?tf=1200x' alt='Análisis del Kindle Scribe, un eReader enorme con un lápiz que deja en pañales al Apple Pencil' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/guia-compra/robot-aspirador'>¿Cuál es el mejor robot aspirador que puedes comprar? Comparativa y guía 2023</a></h4>
     <a href='https://computerhoy.com/guia-compra/robot-aspirador' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/irobot-roomba-combo-j7-2922204.jpg?tf=1200x' alt='¿Cuál es el mejor robot aspirador que puedes comprar? Comparativa y guía 2023' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/apple-dejando-ridiculo-industria-pc-tradicionales-1189458'>Apple está dejando en ridículo a la industria de los PC tradicionales</a></h4>
-    <a href='https://computerhoy.com/apple/apple-dejando-ridiculo-industria-pc-tradicionales-1189458' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/analisis-mac-mini-m2-pro-2936062.jpg?tf=1200x' alt='Apple está dejando en ridículo a la industria de los PC tradicionales' />
     </a>
 </div>
 
