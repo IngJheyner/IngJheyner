@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/corea-sur-semaforos-estan-ras-suelo-caminan-mirando-movil-1188716'>En Corea de sur los semáforos están a ras del suelo, seguro que adivinas por qué</a></h4>
+    <a href='https://computerhoy.com/life/corea-sur-semaforos-estan-ras-suelo-caminan-mirando-movil-1188716' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/corea-sur-semaforos-estan-ras-suelo-2935662.jpg?tf=1200x' alt='En Corea de sur los semáforos están a ras del suelo, seguro que adivinas por qué' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/musiclm-google-inteligencia-artificial-texto-musica-1191422'>Google ha creado una IA que crea música a partir de texto, pero le da miedo publicarla</a></h4>
     <a href='https://computerhoy.com/tecnologia/musiclm-google-inteligencia-artificial-texto-musica-1191422' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/google-ha-creado-ia-crea-musica-partir-texto-pero-da-miedo-publicarla-2940262.jpg?tf=1200x' alt='Google ha creado una IA que crea música a partir de texto, pero le da miedo publicarla' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/entretenimiento/como-ver-primer-episodio-the-last-us-gratis-1191252'>Cómo ver el primer episodio de The Last of Us gratis y sin registro</a></h4>
     <a href='https://computerhoy.com/entretenimiento/como-ver-primer-episodio-the-last-us-gratis-1191252' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/last-us-arrasa-hbo-max-segundo-mejor-estreno-ultima-decada-2930866.jpg?tf=1200x' alt='Cómo ver el primer episodio de The Last of Us gratis y sin registro' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/streaming/hbo-max-confirma-habra-temporada-2-last-us-1191246'>HBO Max confirma que habrá una temporada 2 de The Last of Us</a></h4>
-    <a href='https://computerhoy.com/streaming/hbo-max-confirma-habra-temporada-2-last-us-1191246' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/como-ver-primer-episodio-last-us-gratis-registro-2940084.jpg?tf=1200x' alt='HBO Max confirma que habrá una temporada 2 de The Last of Us' />
     </a>
 </div>
 
