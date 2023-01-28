@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/cientificos-tinen-parte-mar-color-rosa-razon-1191492'>Científicos tiñen parte del mar de color rosa, y esta es la razón</a></h4>
+    <a href='https://computerhoy.com/ciencia/cientificos-tinen-parte-mar-color-rosa-razon-1191492' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/razon-cientificos-estan-tinendo-mar-color-rosa-2940428.jpg?tf=1200x' alt='Científicos tiñen parte del mar de color rosa, y esta es la razón' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apps/android-auto-tiene-grave-problema-gps-google-maps-1191488'>Android Auto tiene un grave problema con el GPS en Google Maps</a></h4>
     <a href='https://computerhoy.com/apps/android-auto-tiene-grave-problema-gps-google-maps-1191488' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/android-auto-2575823.jpg?tf=1200x' alt='Android Auto tiene un grave problema con el GPS en Google Maps' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/entretenimiento/parecen-hechos-ordenador-pero-no-7-cambios-fisicos-maquillaje-hicieron-peliculas-1190652'>Parecen hechos por ordenador, pero no: 7 cambios físicos y de maquillaje que se hicieron en películas</a></h4>
     <a href='https://computerhoy.com/entretenimiento/parecen-hechos-ordenador-pero-no-7-cambios-fisicos-maquillaje-hicieron-peliculas-1190652' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/ballena-2938970.jpg?tf=1200x' alt='Parecen hechos por ordenador, pero no: 7 cambios físicos y de maquillaje que se hicieron en películas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/amazfit-gtr-4-review-smartwatch-1189966'>Amazfit GTR 4: review del smartwatch con 14 días de uso y buena precisión</a></h4>
-    <a href='https://computerhoy.com/analisis/amazfit-gtr-4-review-smartwatch-1189966' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/amazfit-gtr4-analisis-opinion-2939998.jpg?tf=1200x' alt='Amazfit GTR 4: review del smartwatch con 14 días de uso y buena precisión' />
     </a>
 </div>
 
