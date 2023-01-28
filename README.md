@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/alimentacion/desayuno-no-comida-importante-dia-expertos-te-explican-1191524'>El desayuno no es la comida más importante del día, y los expertos te lo explican</a></h4>
+    <a href='https://computerhoy.com/alimentacion/desayuno-no-comida-importante-dia-expertos-te-explican-1191524' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/desayuno-2940452.jpg?tf=1200x' alt='El desayuno no es la comida más importante del día, y los expertos te lo explican' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/pc/10-terminos-jerga-informatica-debes-conocer-vas-montar-pc-1188964'>Los 10 términos de la jerga informática que debes conocer si vas a montar un PC</a></h4>
     <a href='https://computerhoy.com/pc/10-terminos-jerga-informatica-debes-conocer-vas-montar-pc-1188964' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/mirando-ordenador-experto-pccomponentes-2633977.jpg?tf=1200x' alt='Los 10 términos de la jerga informática que debes conocer si vas a montar un PC' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/ciencia/cientificos-tinen-parte-mar-color-rosa-razon-1191492'>Científicos tiñen parte del mar de color rosa, y esta es la razón</a></h4>
     <a href='https://computerhoy.com/ciencia/cientificos-tinen-parte-mar-color-rosa-razon-1191492' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/razon-cientificos-estan-tinendo-mar-color-rosa-2940428.jpg?tf=1200x' alt='Científicos tiñen parte del mar de color rosa, y esta es la razón' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/android-auto-tiene-grave-problema-gps-google-maps-1191488'>Android Auto tiene un grave problema con el GPS en Google Maps</a></h4>
-    <a href='https://computerhoy.com/apps/android-auto-tiene-grave-problema-gps-google-maps-1191488' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/android-auto-2575823.jpg?tf=1200x' alt='Android Auto tiene un grave problema con el GPS en Google Maps' />
     </a>
 </div>
 
