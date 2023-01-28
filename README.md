@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/internet/ajustes-consejos-proteger-router-wifi-piratas-informaticos-1191474'>Ajustes y consejos para proteger tu router WiFi de los piratas informáticos</a></h4>
+    <a href='https://computerhoy.com/internet/ajustes-consejos-proteger-router-wifi-piratas-informaticos-1191474' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/router-wifi-2623703.jpg?tf=1200x' alt='Ajustes y consejos para proteger tu router WiFi de los piratas informáticos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/parecen-hechos-ordenador-pero-no-7-cambios-fisicos-maquillaje-hicieron-peliculas-1190652'>Parecen hechos por ordenador, pero no: 7 cambios físicos y de maquillaje que se hicieron en películas</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/parecen-hechos-ordenador-pero-no-7-cambios-fisicos-maquillaje-hicieron-peliculas-1190652' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/ballena-2938970.jpg?tf=1200x' alt='Parecen hechos por ordenador, pero no: 7 cambios físicos y de maquillaje que se hicieron en películas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/analisis/amazfit-gtr-4-review-smartwatch-1189966'>Amazfit GTR 4: review del smartwatch con 14 días de uso y buena precisión</a></h4>
     <a href='https://computerhoy.com/analisis/amazfit-gtr-4-review-smartwatch-1189966' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/amazfit-gtr4-analisis-opinion-2939998.jpg?tf=1200x' alt='Amazfit GTR 4: review del smartwatch con 14 días de uso y buena precisión' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/25-tecnologias-emergentes-cuantas-ellas-conoces-1186416'>25 tecnologías emergentes: ¿cuántas de ellas conoces?</a></h4>
     <a href='https://computerhoy.com/tecnologia/25-tecnologias-emergentes-cuantas-ellas-conoces-1186416' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/tecnologia-2931490.jpg?tf=1200x' alt='25 tecnologías emergentes: ¿cuántas de ellas conoces?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/portatil-16-pulgadas-huawei-bestia-potencia-oferta-1189950'>Una bestia con Ryzen 7 y pantalla de 16 pulgadas: este portátil de Huawei es lo que cualquier profesional querría</a></h4>
-    <a href='https://computerhoy.com/tecnologia/portatil-16-pulgadas-huawei-bestia-potencia-oferta-1189950' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/analisis-huawei-matebook-16-2628561.jpg?tf=1200x' alt='Una bestia con Ryzen 7 y pantalla de 16 pulgadas: este portátil de Huawei es lo que cualquier profesional querría' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/review-kindle-scribe-ereader-enorme-lapiz-deja-panales-apple-pencil-1190152'>Análisis del Kindle Scribe, un eReader enorme con un lápiz que deja en pañales al Apple Pencil</a></h4>
-    <a href='https://computerhoy.com/analisis/review-kindle-scribe-ereader-enorme-lapiz-deja-panales-apple-pencil-1190152' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/analisis-kindle-scribe-2939674.jpg?tf=1200x' alt='Análisis del Kindle Scribe, un eReader enorme con un lápiz que deja en pañales al Apple Pencil' />
     </a>
 </div>
 
