@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/musiclm-google-inteligencia-artificial-texto-musica-1191422'>Google ha creado una IA que crea música a partir de texto, pero le da miedo publicarla</a></h4>
+    <a href='https://computerhoy.com/tecnologia/musiclm-google-inteligencia-artificial-texto-musica-1191422' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/google-ha-creado-ia-crea-musica-partir-texto-pero-da-miedo-publicarla-2940262.jpg?tf=1200x' alt='Google ha creado una IA que crea música a partir de texto, pero le da miedo publicarla' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/smartwatches/reloj-deportivo-premium-suunto-9-peak-gps-140-euros-descuento-1191256'>El reloj deportivo premium Suunto 9 Peak con GPS, y 140 euros de descuento</a></h4>
     <a href='https://computerhoy.com/smartwatches/reloj-deportivo-premium-suunto-9-peak-gps-140-euros-descuento-1191256' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/reloj-deportivo-premium-suunto-9-peak-140-euros-descuento-2940092.jpg?tf=1200x' alt='El reloj deportivo premium Suunto 9 Peak con GPS, y 140 euros de descuento' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/streaming/hbo-max-confirma-habra-temporada-2-last-us-1191246'>HBO Max confirma que habrá una temporada 2 de The Last of Us</a></h4>
     <a href='https://computerhoy.com/streaming/hbo-max-confirma-habra-temporada-2-last-us-1191246' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/como-ver-primer-episodio-last-us-gratis-registro-2940084.jpg?tf=1200x' alt='HBO Max confirma que habrá una temporada 2 de The Last of Us' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/codigos-secretos-android-desbloquean-funciones-ocultas-telefono-1191244'>Códigos secretos de Android que desbloquean funciones ocultas en tu teléfono</a></h4>
-    <a href='https://computerhoy.com/moviles/codigos-secretos-android-desbloquean-funciones-ocultas-telefono-1191244' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/hombre-utilizando-telefono-movil-2940082.jpg?tf=1200x' alt='Códigos secretos de Android que desbloquean funciones ocultas en tu teléfono' />
     </a>
 </div>
 
