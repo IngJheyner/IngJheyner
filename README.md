@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/android-auto-tiene-grave-problema-gps-google-maps-1191488'>Android Auto tiene un grave problema con el GPS en Google Maps</a></h4>
+    <a href='https://computerhoy.com/apps/android-auto-tiene-grave-problema-gps-google-maps-1191488' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/android-auto-2575823.jpg?tf=1200x' alt='Android Auto tiene un grave problema con el GPS en Google Maps' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/entretenimiento/amazon-quiere-tomb-raider-sea-proxima-gran-apuesta-crear-universo-interconectado-marvel-1191484'>Amazon quiere que Tomb Raider sea su próxima gran apuesta para crear un universo interconectado a lo Marvel</a></h4>
     <a href='https://computerhoy.com/entretenimiento/amazon-quiere-tomb-raider-sea-proxima-gran-apuesta-crear-universo-interconectado-marvel-1191484' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/tomb-raider-2940412.jpg?tf=1200x' alt='Amazon quiere que Tomb Raider sea su próxima gran apuesta para crear un universo interconectado a lo Marvel' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/analisis/amazfit-gtr-4-review-smartwatch-1189966'>Amazfit GTR 4: review del smartwatch con 14 días de uso y buena precisión</a></h4>
     <a href='https://computerhoy.com/analisis/amazfit-gtr-4-review-smartwatch-1189966' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/amazfit-gtr4-analisis-opinion-2939998.jpg?tf=1200x' alt='Amazfit GTR 4: review del smartwatch con 14 días de uso y buena precisión' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/ultimas-novedades-whatsapp-son-modo-camara-renovado-nuevas-fuentes-editor-texto-1191460'>Las últimas novedades para WhatsApp son un modo de cámara renovado y nuevas fuentes para el editor de texto</a></h4>
-    <a href='https://computerhoy.com/apps/ultimas-novedades-whatsapp-son-modo-camara-renovado-nuevas-fuentes-editor-texto-1191460' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/whatsapp-selfie-2940376.jpg?tf=1200x' alt='Las últimas novedades para WhatsApp son un modo de cámara renovado y nuevas fuentes para el editor de texto' />
     </a>
 </div>
 
