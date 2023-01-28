@@ -50,9 +50,25 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/corea-sur-semaforos-estan-ras-suelo-caminan-mirando-movil-1188716'>En Corea de sur los semáforos están a ras del suelo, seguro que adivinas por qué</a></h4>
+    <h4><a href='https://computerhoy.com/apple/apple-dejando-ridiculo-industria-pc-tradicionales-1189458'>Apple está dejando en ridículo a la industria de los PC tradicionales</a></h4>
+    <a href='https://computerhoy.com/apple/apple-dejando-ridiculo-industria-pc-tradicionales-1189458' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/analisis-mac-mini-m2-pro-2936062.jpg?tf=1200x' alt='Apple está dejando en ridículo a la industria de los PC tradicionales' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/mejores/regalos-san-valentin-2023-1189908'>San Valentín 2023: estos son los mejores regalos que puedes comprar para tu pareja</a></h4>
+    <a href='https://computerhoy.com/mejores/regalos-san-valentin-2023-1189908' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/san-valentin-portatil-2937664.jpg?tf=1200x' alt='San Valentín 2023: estos son los mejores regalos que puedes comprar para tu pareja' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/corea-sur-semaforos-estan-ras-suelo-caminan-mirando-movil-1188716'>En Corea del Sur los semáforos están a ras del suelo, seguro que adivinas por qué</a></h4>
     <a href='https://computerhoy.com/life/corea-sur-semaforos-estan-ras-suelo-caminan-mirando-movil-1188716' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/corea-sur-semaforos-estan-ras-suelo-2935662.jpg?tf=1200x' alt='En Corea de sur los semáforos están a ras del suelo, seguro que adivinas por qué' />
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/corea-sur-semaforos-estan-ras-suelo-2935662.jpg?tf=1200x' alt='En Corea del Sur los semáforos están a ras del suelo, seguro que adivinas por qué' />
     </a>
 </div>
 
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/smartwatches/reloj-deportivo-premium-suunto-9-peak-gps-140-euros-descuento-1191256'>El reloj deportivo premium Suunto 9 Peak con GPS, y 140 euros de descuento</a></h4>
     <a href='https://computerhoy.com/smartwatches/reloj-deportivo-premium-suunto-9-peak-gps-140-euros-descuento-1191256' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/reloj-deportivo-premium-suunto-9-peak-140-euros-descuento-2940092.jpg?tf=1200x' alt='El reloj deportivo premium Suunto 9 Peak con GPS, y 140 euros de descuento' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/google-pixel-tablet-pro-desnudo-filtradas-especificaciones-diseno-1187182'>La Google Pixel Tablet Pro al desnudo: filtradas sus especificaciones y diseño</a></h4>
-    <a href='https://computerhoy.com/google/google-pixel-tablet-pro-desnudo-filtradas-especificaciones-diseno-1187182' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/galeria-review-nest-hub-2-2450583.jpg?tf=1200x' alt='La Google Pixel Tablet Pro al desnudo: filtradas sus especificaciones y diseño' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/como-ver-primer-episodio-the-last-us-gratis-1191252'>Cómo ver el primer episodio de The Last of Us gratis y sin registro</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/como-ver-primer-episodio-the-last-us-gratis-1191252' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/last-us-arrasa-hbo-max-segundo-mejor-estreno-ultima-decada-2930866.jpg?tf=1200x' alt='Cómo ver el primer episodio de The Last of Us gratis y sin registro' />
     </a>
 </div>
 
