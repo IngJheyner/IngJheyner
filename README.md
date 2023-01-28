@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/apple-te-permitiria-crear-aplicaciones-realidad-aumentada-nuevos-auriculares-vr-1191500'>Apple te permitiría crear aplicaciones de realidad aumentada para sus nuevos auriculares VR</a></h4>
+    <a href='https://computerhoy.com/apple/apple-te-permitiria-crear-aplicaciones-realidad-aumentada-nuevos-auriculares-vr-1191500' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/concepto-realidad-virtual-2872105.jpg?tf=1200x' alt='Apple te permitiría crear aplicaciones de realidad aumentada para sus nuevos auriculares VR' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciencia/cientificos-tinen-parte-mar-color-rosa-razon-1191492'>Científicos tiñen parte del mar de color rosa, y esta es la razón</a></h4>
     <a href='https://computerhoy.com/ciencia/cientificos-tinen-parte-mar-color-rosa-razon-1191492' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/razon-cientificos-estan-tinendo-mar-color-rosa-2940428.jpg?tf=1200x' alt='Científicos tiñen parte del mar de color rosa, y esta es la razón' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/internet/ajustes-consejos-proteger-router-wifi-piratas-informaticos-1191474'>Ajustes y consejos para proteger tu router WiFi de los piratas informáticos</a></h4>
     <a href='https://computerhoy.com/internet/ajustes-consejos-proteger-router-wifi-piratas-informaticos-1191474' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/router-wifi-2623703.jpg?tf=1200x' alt='Ajustes y consejos para proteger tu router WiFi de los piratas informáticos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/parecen-hechos-ordenador-pero-no-7-cambios-fisicos-maquillaje-hicieron-peliculas-1190652'>Parecen hechos por ordenador, pero no: 7 cambios físicos y de maquillaje que se hicieron en películas</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/parecen-hechos-ordenador-pero-no-7-cambios-fisicos-maquillaje-hicieron-peliculas-1190652' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/ballena-2938970.jpg?tf=1200x' alt='Parecen hechos por ordenador, pero no: 7 cambios físicos y de maquillaje que se hicieron en películas' />
     </a>
 </div>
 
