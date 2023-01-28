@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/analisis/amazfit-gtr-4-review-smartwatch-1189966'>Amazfit GTR 4: review del smartwatch con 14 días de uso y buena precisión</a></h4>
+    <a href='https://computerhoy.com/analisis/amazfit-gtr-4-review-smartwatch-1189966' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/amazfit-gtr4-analisis-opinion-2939998.jpg?tf=1200x' alt='Amazfit GTR 4: review del smartwatch con 14 días de uso y buena precisión' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/ultimas-novedades-whatsapp-son-modo-camara-renovado-nuevas-fuentes-editor-texto-1191460'>Las últimas novedades para WhatsApp son un modo de cámara renovado y nuevas fuentes para el editor de texto</a></h4>
+    <a href='https://computerhoy.com/apps/ultimas-novedades-whatsapp-son-modo-camara-renovado-nuevas-fuentes-editor-texto-1191460' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/whatsapp-selfie-2940376.jpg?tf=1200x' alt='Las últimas novedades para WhatsApp son un modo de cámara renovado y nuevas fuentes para el editor de texto' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/25-tecnologias-emergentes-cuantas-ellas-conoces-1186416'>25 tecnologías emergentes: ¿cuántas de ellas conoces?</a></h4>
     <a href='https://computerhoy.com/tecnologia/25-tecnologias-emergentes-cuantas-ellas-conoces-1186416' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/tecnologia-2931490.jpg?tf=1200x' alt='25 tecnologías emergentes: ¿cuántas de ellas conoces?' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/analisis/review-kindle-scribe-ereader-enorme-lapiz-deja-panales-apple-pencil-1190152'>Análisis del Kindle Scribe, un eReader enorme con un lápiz que deja en pañales al Apple Pencil</a></h4>
     <a href='https://computerhoy.com/analisis/review-kindle-scribe-ereader-enorme-lapiz-deja-panales-apple-pencil-1190152' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/analisis-kindle-scribe-2939674.jpg?tf=1200x' alt='Análisis del Kindle Scribe, un eReader enorme con un lápiz que deja en pañales al Apple Pencil' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/toadzilla-sapo-gigante-venenoso-australia-1191424'>Toadzilla, el sapo venenoso de Sudamérica que se hace más grande en Australia, no saben cómo erradicarlo</a></h4>
-    <a href='https://computerhoy.com/ciencia/toadzilla-sapo-gigante-venenoso-australia-1191424' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/toadzilla-2940282.jpg?tf=1200x' alt='Toadzilla, el sapo venenoso de Sudamérica que se hace más grande en Australia, no saben cómo erradicarlo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/recomendable-dejar-encendido-router-wifi-1002257'>¿Es recomendable dejar encendido el router WiFi todo el día?</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/recomendable-dejar-encendido-router-wifi-1002257' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/router-boton-apagado-2598313.jpg?tf=1200x' alt='¿Es recomendable dejar encendido el router WiFi todo el día?' />
     </a>
 </div>
 
