@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/smartwatches/reloj-deportivo-premium-suunto-9-peak-gps-140-euros-descuento-1191256'>El reloj deportivo premium Suunto 9 Peak con GPS, y 140 euros de descuento</a></h4>
+    <a href='https://computerhoy.com/smartwatches/reloj-deportivo-premium-suunto-9-peak-gps-140-euros-descuento-1191256' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/reloj-deportivo-premium-suunto-9-peak-140-euros-descuento-2940092.jpg?tf=1200x' alt='El reloj deportivo premium Suunto 9 Peak con GPS, y 140 euros de descuento' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/google/google-pixel-tablet-pro-desnudo-filtradas-especificaciones-diseno-1187182'>La Google Pixel Tablet Pro al desnudo: filtradas sus especificaciones y diseño</a></h4>
     <a href='https://computerhoy.com/google/google-pixel-tablet-pro-desnudo-filtradas-especificaciones-diseno-1187182' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/galeria-review-nest-hub-2-2450583.jpg?tf=1200x' alt='La Google Pixel Tablet Pro al desnudo: filtradas sus especificaciones y diseño' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/moviles/codigos-secretos-android-desbloquean-funciones-ocultas-telefono-1191244'>Códigos secretos de Android que desbloquean funciones ocultas en tu teléfono</a></h4>
     <a href='https://computerhoy.com/moviles/codigos-secretos-android-desbloquean-funciones-ocultas-telefono-1191244' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/hombre-utilizando-telefono-movil-2940082.jpg?tf=1200x' alt='Códigos secretos de Android que desbloquean funciones ocultas en tu teléfono' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/lenguajes-programacion-populares-han-crecido-2022-1191238'>Los lenguajes de programación más populares y los que más han crecido en 2022</a></h4>
-    <a href='https://computerhoy.com/pc/lenguajes-programacion-populares-han-crecido-2022-1191238' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/lenguajes-programacion-2940074.jpg?tf=1200x' alt='Los lenguajes de programación más populares y los que más han crecido en 2022' />
     </a>
 </div>
 
