@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/recomendable-dejar-encendido-router-wifi-1002257'>¿Es recomendable dejar encendido el router WiFi todo el día?</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/recomendable-dejar-encendido-router-wifi-1002257' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/router-boton-apagado-2598313.jpg?tf=1200x' alt='¿Es recomendable dejar encendido el router WiFi todo el día?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/guia-compra/robot-aspirador'>¿Cuál es el mejor robot aspirador que puedes comprar? Comparativa y guía 2023</a></h4>
+    <a href='https://computerhoy.com/guia-compra/robot-aspirador' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/irobot-roomba-combo-j7-2922204.jpg?tf=1200x' alt='¿Cuál es el mejor robot aspirador que puedes comprar? Comparativa y guía 2023' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apple/apple-dejando-ridiculo-industria-pc-tradicionales-1189458'>Apple está dejando en ridículo a la industria de los PC tradicionales</a></h4>
     <a href='https://computerhoy.com/apple/apple-dejando-ridiculo-industria-pc-tradicionales-1189458' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/analisis-mac-mini-m2-pro-2936062.jpg?tf=1200x' alt='Apple está dejando en ridículo a la industria de los PC tradicionales' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/life/corea-sur-semaforos-estan-ras-suelo-caminan-mirando-movil-1188716'>En Corea del Sur los semáforos están a ras del suelo, seguro que adivinas por qué</a></h4>
     <a href='https://computerhoy.com/life/corea-sur-semaforos-estan-ras-suelo-caminan-mirando-movil-1188716' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/corea-sur-semaforos-estan-ras-suelo-2935662.jpg?tf=1200x' alt='En Corea del Sur los semáforos están a ras del suelo, seguro que adivinas por qué' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/musiclm-google-inteligencia-artificial-texto-musica-1191422'>Google ha creado una IA que crea música a partir de texto, pero le da miedo publicarla</a></h4>
-    <a href='https://computerhoy.com/tecnologia/musiclm-google-inteligencia-artificial-texto-musica-1191422' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/google-ha-creado-ia-crea-musica-partir-texto-pero-da-miedo-publicarla-2940262.jpg?tf=1200x' alt='Google ha creado una IA que crea música a partir de texto, pero le da miedo publicarla' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/smartwatches/reloj-deportivo-premium-suunto-9-peak-gps-140-euros-descuento-1191256'>El reloj deportivo premium Suunto 9 Peak con GPS, y 140 euros de descuento</a></h4>
-    <a href='https://computerhoy.com/smartwatches/reloj-deportivo-premium-suunto-9-peak-gps-140-euros-descuento-1191256' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/reloj-deportivo-premium-suunto-9-peak-140-euros-descuento-2940092.jpg?tf=1200x' alt='El reloj deportivo premium Suunto 9 Peak con GPS, y 140 euros de descuento' />
     </a>
 </div>
 
