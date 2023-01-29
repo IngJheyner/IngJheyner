@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/analisis/astro-a30-gaming-1190738'>Astro A30, estilo gaming y buena calidad de sonido para unos auriculares todoterreno</a></h4>
+    <a href='https://computerhoy.com/analisis/astro-a30-gaming-1190738' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/astro-a30-2940036.jpg?tf=1200x' alt='Astro A30, estilo gaming y buena calidad de sonido para unos auriculares todoterreno' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/windows/nueva-actualizacion-windows-11-microsoft-obligara-te-instales-1191696'>Esta es la nueva actualización para Windows 11 que Microsoft obligará a que te instales</a></h4>
+    <a href='https://computerhoy.com/windows/nueva-actualizacion-windows-11-microsoft-obligara-te-instales-1191696' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/windows-11-2767553.jpg?tf=1200x' alt='Esta es la nueva actualización para Windows 11 que Microsoft obligará a que te instales' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/8-apps-android-querras-instalar-windows-11-como-hacerlo-1190546'>Las 8 apps de Android que querrás instalar en Windows 11 y cómo hacerlo</a></h4>
     <a href='https://computerhoy.com/tecnologia/8-apps-android-querras-instalar-windows-11-como-hacerlo-1190546' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/ordenador-windows-11-android-2938700.jpg?tf=1200x' alt='Las 8 apps de Android que querrás instalar en Windows 11 y cómo hacerlo' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/life/teletrabajo-hibrido-ahora-algunos-buscan-pesadilla-empresas-1190580'>Qué es el teletrabajo híbrido que ahora algunos buscan y por qué es una pesadilla para las empresas</a></h4>
     <a href='https://computerhoy.com/life/teletrabajo-hibrido-ahora-algunos-buscan-pesadilla-empresas-1190580' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/teletrabajo-hibrido-ahora-algunos-buscan-pesadilla-empresas-2939092.jpg?tf=1200x' alt='Qué es el teletrabajo híbrido que ahora algunos buscan y por qué es una pesadilla para las empresas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/review-tcl-c835-55-mejorcito-calidad-precio-jugar-ps5-xbox-series-x-1191048'>Análisis del TCL C835 de 55", de lo mejorcito calidad/precio para jugar a PS5 y Xbox Series X</a></h4>
-    <a href='https://computerhoy.com/analisis/review-tcl-c835-55-mejorcito-calidad-precio-jugar-ps5-xbox-series-x-1191048' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/analisis-tcl-55c835-2939808.jpg?tf=1200x' alt='Análisis del TCL C835 de 55", de lo mejorcito calidad/precio para jugar a PS5 y Xbox Series X' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/estas-son-mejores-tablets-baratas-samsung-2022-1006933'>Estas son las mejores tablets baratas de Samsung</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/estas-son-mejores-tablets-baratas-samsung-2022-1006933' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/08/samsung-galaxy-tab-s6-lite-2040253.jpg?tf=1200x' alt='Estas son las mejores tablets baratas de Samsung' />
     </a>
 </div>
 
