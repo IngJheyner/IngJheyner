@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/8-apps-android-querras-instalar-windows-11-como-hacerlo-1190546'>Las 8 apps de Android que querrás instalar en Windows 11 y cómo hacerlo</a></h4>
+    <a href='https://computerhoy.com/tecnologia/8-apps-android-querras-instalar-windows-11-como-hacerlo-1190546' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/ordenador-windows-11-android-2938700.jpg?tf=1200x' alt='Las 8 apps de Android que querrás instalar en Windows 11 y cómo hacerlo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/audio/auriculares-huawei-freebuds-pro-2-descuento-funda-pulsera-huawei-band-7-gratis-1191240'>Los auriculares Huawei FreeBuds Pro 2 con descuento, funda y pulsera Huawei Band 7 gratis</a></h4>
     <a href='https://computerhoy.com/audio/auriculares-huawei-freebuds-pro-2-descuento-funda-pulsera-huawei-band-7-gratis-1191240' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/auriculares-huawei-freebuds-pro-2-descuento-funda-pulsera-huawei-band-7-gratis-2940060.jpg?tf=1200x' alt='Los auriculares Huawei FreeBuds Pro 2 con descuento, funda y pulsera Huawei Band 7 gratis' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/estas-son-mejores-tablets-baratas-samsung-2022-1006933'>Estas son las mejores tablets baratas de Samsung</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/estas-son-mejores-tablets-baratas-samsung-2022-1006933' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/08/samsung-galaxy-tab-s6-lite-2040253.jpg?tf=1200x' alt='Estas son las mejores tablets baratas de Samsung' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/crean-robot-camarero-mejores-habilidades-ser-humano-1191518'>Crean un robot camarero con mejores habilidades que un ser humano</a></h4>
-    <a href='https://computerhoy.com/ciencia/crean-robot-camarero-mejores-habilidades-ser-humano-1191518' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/robot-camarero-no-cae-ni-sola-copa-2940450.jpg?tf=1200x' alt='Crean un robot camarero con mejores habilidades que un ser humano' />
     </a>
 </div>
 
