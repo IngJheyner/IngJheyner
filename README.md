@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/estas-son-6-actividades-evitar-no-quieres-ser-baneado-whatsapp-1189318'>Estas son las 6 actividades que evitar si no quieres ser baneado de WhatsApp</a></h4>
+    <a href='https://computerhoy.com/tecnologia/estas-son-6-actividades-evitar-no-quieres-ser-baneado-whatsapp-1189318' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/whatsapp-2936752.jpg?tf=1200x' alt='Estas son las 6 actividades que evitar si no quieres ser baneado de WhatsApp' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/moviles/apple-podria-limitar-conectividad-wifi-6e-solo-modelos-iphone-15-pro-1191726'>Apple podría limitar la conectividad WiFi 6E solo a los modelos iPhone 15 Pro</a></h4>
     <a href='https://computerhoy.com/moviles/apple-podria-limitar-conectividad-wifi-6e-solo-modelos-iphone-15-pro-1191726' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/analisis-iphone-14-pro-2821733.jpg?tf=1200x' alt='Apple podría limitar la conectividad WiFi 6E solo a los modelos iPhone 15 Pro' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/apps/facebook-habria-agotado-secreto-baterias-algunos-usuarios-afirma-ex-trabajador-demanda-1191710'>Facebook habría agotado en secreto las baterías de algunos usuarios, afirma un ex trabajador en una demanda</a></h4>
     <a href='https://computerhoy.com/apps/facebook-habria-agotado-secreto-baterias-algunos-usuarios-afirma-ex-trabajador-demanda-1191710' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/meta-2940688.jpg?tf=1200x' alt='Facebook habría agotado en secreto las baterías de algunos usuarios, afirma un ex trabajador en una demanda' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/7-sitcoms-comedias-ultimos-5-anos-tienes-alcance-son-buenisimas-1190096'>7 sitcoms y comedias de los últimos 5 años que tienes a tu alcance y son buenísimas</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/7-sitcoms-comedias-ultimos-5-anos-tienes-alcance-son-buenisimas-1190096' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/7-sitcoms-comedias-ultimos-5-anos-tienes-alcance-son-buenisimas-2938656.jpg?tf=1200x' alt='7 sitcoms y comedias de los últimos 5 años que tienes a tu alcance y son buenísimas' />
     </a>
 </div>
 
