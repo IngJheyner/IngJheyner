@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/skyshowtime-datos-estreno-espana-sin-resolucion-4k-1191782'>SkyShowtime revela los primeros datos de su estreno en España, y hay una mala noticia</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/skyshowtime-datos-estreno-espana-sin-resolucion-4k-1191782' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/skyshowtime-revela-primeros-datos-estreno-espana-hay-mala-noticia-2940820.jpg?tf=1200x' alt='SkyShowtime revela los primeros datos de su estreno en España, y hay una mala noticia' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/motor/robotaxis-problemas-policia-bomberos-san-francisco-1191772'>Los robotaxis están causando todo tipo de problemas a la policía y los bomberos en San Francisco</a></h4>
     <a href='https://computerhoy.com/motor/robotaxis-problemas-policia-bomberos-san-francisco-1191772' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/robotaxi-gm-cruise-2747457.jpg?tf=1200x' alt='Los robotaxis están causando todo tipo de problemas a la policía y los bomberos en San Francisco' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/espacio/brazo-robotico-ayudara-traer-muestras-marte-tierra-1191718'>Este brazo robótico ayudará a traer muestras de Marte a la Tierra</a></h4>
     <a href='https://computerhoy.com/espacio/brazo-robotico-ayudara-traer-muestras-marte-tierra-1191718' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/brazo-robotico-ayudara-traer-muestras-marte-tierra-2940698.jpg?tf=1200x' alt='Este brazo robótico ayudará a traer muestras de Marte a la Tierra' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/criptos/criptoinvierno-cual-importancia-mundo-criptomonedas-1180590'>¿Qué es el criptoinvierno y cuál es su importancia en el mundo de las criptomonedas?</a></h4>
-    <a href='https://computerhoy.com/criptos/criptoinvierno-cual-importancia-mundo-criptomonedas-1180590' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/verticalimage1674836072204-2939982.jpg?tf=1200x' alt='¿Qué es el criptoinvierno y cuál es su importancia en el mundo de las criptomonedas?' />
     </a>
 </div>
 
