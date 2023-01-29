@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/analisis/review-tcl-c835-55-mejorcito-calidad-precio-jugar-ps5-xbox-series-x-1191048'>Análisis del TCL C835 de 55", de lo mejorcito calidad/precio para jugar a PS5 y Xbox Series X</a></h4>
+    <a href='https://computerhoy.com/analisis/review-tcl-c835-55-mejorcito-calidad-precio-jugar-ps5-xbox-series-x-1191048' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/analisis-tcl-55c835-2939808.jpg?tf=1200x' alt='Análisis del TCL C835 de 55", de lo mejorcito calidad/precio para jugar a PS5 y Xbox Series X' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/estas-son-mejores-tablets-baratas-samsung-2022-1006933'>Estas son las mejores tablets baratas de Samsung</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/estas-son-mejores-tablets-baratas-samsung-2022-1006933' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/08/samsung-galaxy-tab-s6-lite-2040253.jpg?tf=1200x' alt='Estas son las mejores tablets baratas de Samsung' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/life/truco-4-monedas-5-centimos-espantar-moscas-1191058'>Este truco con 4 monedas de 5 céntimos, asegura que espanta a las moscas, ¿es cierto?</a></h4>
     <a href='https://computerhoy.com/life/truco-4-monedas-5-centimos-espantar-moscas-1191058' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/truco-4-monedas-5-centimos-asegura-espanta-moscas-cierto-2939512.jpg?tf=1200x' alt='Este truco con 4 monedas de 5 céntimos, asegura que espanta a las moscas, ¿es cierto?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-calidad-precio-1112549'>Estos son los mejores móviles calidad precio de 2023</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-calidad-precio-1112549' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/poco-x4-pro-analisis-opinion-2663735.jpg?tf=1200x' alt='Estos son los mejores móviles calidad precio de 2023' />
     </a>
 </div>
 
