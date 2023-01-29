@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/moviles/apple-podria-limitar-conectividad-wifi-6e-solo-modelos-iphone-15-pro-1191726'>Apple podría limitar la conectividad WiFi 6E solo a los modelos iPhone 15 Pro</a></h4>
+    <a href='https://computerhoy.com/moviles/apple-podria-limitar-conectividad-wifi-6e-solo-modelos-iphone-15-pro-1191726' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/analisis-iphone-14-pro-2821733.jpg?tf=1200x' alt='Apple podría limitar la conectividad WiFi 6E solo a los modelos iPhone 15 Pro' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/espacio/brazo-robotico-ayudara-traer-muestras-marte-tierra-1191718'>Este brazo robótico ayudará a traer muestras de Marte a la Tierra</a></h4>
+    <a href='https://computerhoy.com/espacio/brazo-robotico-ayudara-traer-muestras-marte-tierra-1191718' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/brazo-robotico-ayudara-traer-muestras-marte-tierra-2940698.jpg?tf=1200x' alt='Este brazo robótico ayudará a traer muestras de Marte a la Tierra' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/criptos/criptoinvierno-cual-importancia-mundo-criptomonedas-1180590'>¿Qué es el criptoinvierno y cuál es su importancia en el mundo de las criptomonedas?</a></h4>
     <a href='https://computerhoy.com/criptos/criptoinvierno-cual-importancia-mundo-criptomonedas-1180590' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/verticalimage1674836072204-2939982.jpg?tf=1200x' alt='¿Qué es el criptoinvierno y cuál es su importancia en el mundo de las criptomonedas?' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/entretenimiento/7-sitcoms-comedias-ultimos-5-anos-tienes-alcance-son-buenisimas-1190096'>7 sitcoms y comedias de los últimos 5 años que tienes a tu alcance y son buenísimas</a></h4>
     <a href='https://computerhoy.com/entretenimiento/7-sitcoms-comedias-ultimos-5-anos-tienes-alcance-son-buenisimas-1190096' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/7-sitcoms-comedias-ultimos-5-anos-tienes-alcance-son-buenisimas-2938656.jpg?tf=1200x' alt='7 sitcoms y comedias de los últimos 5 años que tienes a tu alcance y son buenísimas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/utilizan-tecnologia-movimiento-inteligencia-artificial-avatar-rastrear-enfermedades-1191704'>Utilizan la tecnología de movimiento de inteligencia artificial de Avatar para rastrear enfermedades</a></h4>
-    <a href='https://computerhoy.com/ciencia/utilizan-tecnologia-movimiento-inteligencia-artificial-avatar-rastrear-enfermedades-1191704' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/utilizan-tecnologia-inteligencia-artificial-avatar-rastrear-enfermedades-2940664.jpg?tf=1200x' alt='Utilizan la tecnología de movimiento de inteligencia artificial de Avatar para rastrear enfermedades' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/astro-a30-gaming-1190738'>Astro A30, estilo gaming y buena calidad de sonido para unos auriculares todoterreno</a></h4>
-    <a href='https://computerhoy.com/analisis/astro-a30-gaming-1190738' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/astro-a30-2940036.jpg?tf=1200x' alt='Astro A30, estilo gaming y buena calidad de sonido para unos auriculares todoterreno' />
     </a>
 </div>
 
