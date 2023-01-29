@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/capsula-radioactiva-pierde-australia-puede-provocar-cancer-contacto-1191796'>Una cápsula radioactiva de tamaño de una moneda se pierde en Australia, puede provocar cáncer al contacto</a></h4>
+    <a href='https://computerhoy.com/life/capsula-radioactiva-pierde-australia-puede-provocar-cancer-contacto-1191796' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/capsula-radioactiva-tamano-moneda-pierde-australia-puede-provocar-cancer-contacto-2940838.jpg?tf=1200x' alt='Una cápsula radioactiva de tamaño de una moneda se pierde en Australia, puede provocar cáncer al contacto' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/pc/estafa-tarjetas-graficas-granjas-criptomonedas-chips-pintados-pintura-metalica-1191788'>Cuidado con algunas tarjetas gráficas vendidas como nuevas: provienen de las criptomonedas, con los chips pintados con pintura metálica</a></h4>
     <a href='https://computerhoy.com/pc/estafa-tarjetas-graficas-granjas-criptomonedas-chips-pintados-pintura-metalica-1191788' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/cuidado-tiendas-chinas-venden-tarjetas-graficas-criptomonedas-como-nuevas-chip-pintado-pintura-metalica-2940828.jpg?tf=1200x' alt='Cuidado con algunas tarjetas gráficas vendidas como nuevas: provienen de las criptomonedas, con los chips pintados con pintura metálica' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/estas-son-6-actividades-evitar-no-quieres-ser-baneado-whatsapp-1189318'>Estas son las 6 actividades que evitar si no quieres ser baneado de WhatsApp</a></h4>
     <a href='https://computerhoy.com/tecnologia/estas-son-6-actividades-evitar-no-quieres-ser-baneado-whatsapp-1189318' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/whatsapp-2936752.jpg?tf=1200x' alt='Estas son las 6 actividades que evitar si no quieres ser baneado de WhatsApp' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/apple-podria-limitar-conectividad-wifi-6e-solo-modelos-iphone-15-pro-1191726'>Apple podría limitar la conectividad WiFi 6E solo a los modelos iPhone 15 Pro</a></h4>
-    <a href='https://computerhoy.com/moviles/apple-podria-limitar-conectividad-wifi-6e-solo-modelos-iphone-15-pro-1191726' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/analisis-iphone-14-pro-2821733.jpg?tf=1200x' alt='Apple podría limitar la conectividad WiFi 6E solo a los modelos iPhone 15 Pro' />
     </a>
 </div>
 
