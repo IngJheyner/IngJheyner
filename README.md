@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/estas-son-mejores-tablets-baratas-samsung-2022-1006933'>Estas son las mejores tablets baratas de Samsung</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/estas-son-mejores-tablets-baratas-samsung-2022-1006933' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/08/samsung-galaxy-tab-s6-lite-2040253.jpg?tf=1200x' alt='Estas son las mejores tablets baratas de Samsung' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/crean-robot-camarero-mejores-habilidades-ser-humano-1191518'>Crean un robot camarero con mejores habilidades que un ser humano</a></h4>
+    <a href='https://computerhoy.com/ciencia/crean-robot-camarero-mejores-habilidades-ser-humano-1191518' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/robot-camarero-no-cae-ni-sola-copa-2940450.jpg?tf=1200x' alt='Crean un robot camarero con mejores habilidades que un ser humano' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/crean-primer-resort-safari-lujo-mundo-capaz-producir-propia-agua-1191514'>Crean el primer resort safari de lujo del mundo capaz de producir su propia agua</a></h4>
     <a href='https://computerhoy.com/life/crean-primer-resort-safari-lujo-mundo-capaz-producir-propia-agua-1191514' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/disenan-primer-resort-safari-lujo-autosuficiente-gracias-dispositivos-solares-2940442.jpg?tf=1200x' alt='Crean el primer resort safari de lujo del mundo capaz de producir su propia agua' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-calidad-precio-1112549'>Estos son los mejores móviles calidad precio de 2023</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-calidad-precio-1112549' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/poco-x4-pro-analisis-opinion-2663735.jpg?tf=1200x' alt='Estos son los mejores móviles calidad precio de 2023' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/robot-metal-liquido-atraviesa-barrotes-terminator-video-1191094'>El robot de metal líquido que atraviesa los barrotes como un auténtico Terminator</a></h4>
-    <a href='https://computerhoy.com/ciencia/robot-metal-liquido-atraviesa-barrotes-terminator-video-1191094' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/robot-metal-liquido-atraviesa-barrotes-como-autentico-terminator-2939600.jpg?tf=1200x' alt='El robot de metal líquido que atraviesa los barrotes como un auténtico Terminator' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/alimentacion/desayuno-no-comida-importante-dia-expertos-te-explican-1191524'>El desayuno no es la comida más importante del día, y los expertos te lo explican</a></h4>
-    <a href='https://computerhoy.com/alimentacion/desayuno-no-comida-importante-dia-expertos-te-explican-1191524' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/desayuno-2940452.jpg?tf=1200x' alt='El desayuno no es la comida más importante del día, y los expertos te lo explican' />
     </a>
 </div>
 
