@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/motor/robotaxis-problemas-policia-bomberos-san-francisco-1191772'>Los robotaxis están causando todo tipo de problemas a la policía y los bomberos en San Francisco</a></h4>
+    <a href='https://computerhoy.com/motor/robotaxis-problemas-policia-bomberos-san-francisco-1191772' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/robotaxi-gm-cruise-2747457.jpg?tf=1200x' alt='Los robotaxis están causando todo tipo de problemas a la policía y los bomberos en San Francisco' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/estas-son-6-actividades-evitar-no-quieres-ser-baneado-whatsapp-1189318'>Estas son las 6 actividades que evitar si no quieres ser baneado de WhatsApp</a></h4>
     <a href='https://computerhoy.com/tecnologia/estas-son-6-actividades-evitar-no-quieres-ser-baneado-whatsapp-1189318' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/whatsapp-2936752.jpg?tf=1200x' alt='Estas son las 6 actividades que evitar si no quieres ser baneado de WhatsApp' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/criptos/criptoinvierno-cual-importancia-mundo-criptomonedas-1180590'>¿Qué es el criptoinvierno y cuál es su importancia en el mundo de las criptomonedas?</a></h4>
     <a href='https://computerhoy.com/criptos/criptoinvierno-cual-importancia-mundo-criptomonedas-1180590' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/verticalimage1674836072204-2939982.jpg?tf=1200x' alt='¿Qué es el criptoinvierno y cuál es su importancia en el mundo de las criptomonedas?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/facebook-habria-agotado-secreto-baterias-algunos-usuarios-afirma-ex-trabajador-demanda-1191710'>Facebook habría agotado en secreto las baterías de algunos usuarios, afirma un ex trabajador en una demanda</a></h4>
-    <a href='https://computerhoy.com/apps/facebook-habria-agotado-secreto-baterias-algunos-usuarios-afirma-ex-trabajador-demanda-1191710' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/meta-2940688.jpg?tf=1200x' alt='Facebook habría agotado en secreto las baterías de algunos usuarios, afirma un ex trabajador en una demanda' />
     </a>
 </div>
 
