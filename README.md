@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/audio/auriculares-huawei-freebuds-pro-2-descuento-funda-pulsera-huawei-band-7-gratis-1191240'>Los auriculares Huawei FreeBuds Pro 2 con descuento, funda y pulsera Huawei Band 7 gratis</a></h4>
+    <a href='https://computerhoy.com/audio/auriculares-huawei-freebuds-pro-2-descuento-funda-pulsera-huawei-band-7-gratis-1191240' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/auriculares-huawei-freebuds-pro-2-descuento-funda-pulsera-huawei-band-7-gratis-2940060.jpg?tf=1200x' alt='Los auriculares Huawei FreeBuds Pro 2 con descuento, funda y pulsera Huawei Band 7 gratis' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/teletrabajo-hibrido-ahora-algunos-buscan-pesadilla-empresas-1190580'>Qué es el teletrabajo híbrido que ahora algunos buscan y por qué es una pesadilla para las empresas</a></h4>
+    <a href='https://computerhoy.com/life/teletrabajo-hibrido-ahora-algunos-buscan-pesadilla-empresas-1190580' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/teletrabajo-hibrido-ahora-algunos-buscan-pesadilla-empresas-2939092.jpg?tf=1200x' alt='Qué es el teletrabajo híbrido que ahora algunos buscan y por qué es una pesadilla para las empresas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/analisis/review-tcl-c835-55-mejorcito-calidad-precio-jugar-ps5-xbox-series-x-1191048'>Análisis del TCL C835 de 55", de lo mejorcito calidad/precio para jugar a PS5 y Xbox Series X</a></h4>
     <a href='https://computerhoy.com/analisis/review-tcl-c835-55-mejorcito-calidad-precio-jugar-ps5-xbox-series-x-1191048' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/analisis-tcl-55c835-2939808.jpg?tf=1200x' alt='Análisis del TCL C835 de 55", de lo mejorcito calidad/precio para jugar a PS5 y Xbox Series X' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/ciencia/crean-robot-camarero-mejores-habilidades-ser-humano-1191518'>Crean un robot camarero con mejores habilidades que un ser humano</a></h4>
     <a href='https://computerhoy.com/ciencia/crean-robot-camarero-mejores-habilidades-ser-humano-1191518' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/robot-camarero-no-cae-ni-sola-copa-2940450.jpg?tf=1200x' alt='Crean un robot camarero con mejores habilidades que un ser humano' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/crean-primer-resort-safari-lujo-mundo-capaz-producir-propia-agua-1191514'>Crean el primer resort safari de lujo del mundo capaz de producir su propia agua</a></h4>
-    <a href='https://computerhoy.com/life/crean-primer-resort-safari-lujo-mundo-capaz-producir-propia-agua-1191514' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/disenan-primer-resort-safari-lujo-autosuficiente-gracias-dispositivos-solares-2940442.jpg?tf=1200x' alt='Crean el primer resort safari de lujo del mundo capaz de producir su propia agua' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/truco-4-monedas-5-centimos-espantar-moscas-1191058'>Este truco con 4 monedas de 5 céntimos, asegura que espanta a las moscas, ¿es cierto?</a></h4>
-    <a href='https://computerhoy.com/life/truco-4-monedas-5-centimos-espantar-moscas-1191058' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/truco-4-monedas-5-centimos-asegura-espanta-moscas-cierto-2939512.jpg?tf=1200x' alt='Este truco con 4 monedas de 5 céntimos, asegura que espanta a las moscas, ¿es cierto?' />
     </a>
 </div>
 
