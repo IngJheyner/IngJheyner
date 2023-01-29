@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/pc/estafa-tarjetas-graficas-granjas-criptomonedas-chips-pintados-pintura-metalica-1191788'>Cuidado con algunas tarjetas gráficas vendidas como nuevas: provienen de las criptomonedas, con los chips pintados con pintura metálica</a></h4>
+    <a href='https://computerhoy.com/pc/estafa-tarjetas-graficas-granjas-criptomonedas-chips-pintados-pintura-metalica-1191788' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/cuidado-tiendas-chinas-venden-tarjetas-graficas-criptomonedas-como-nuevas-chip-pintado-pintura-metalica-2940828.jpg?tf=1200x' alt='Cuidado con algunas tarjetas gráficas vendidas como nuevas: provienen de las criptomonedas, con los chips pintados con pintura metálica' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/entretenimiento/skyshowtime-datos-estreno-espana-sin-resolucion-4k-1191782'>SkyShowtime revela los primeros datos de su estreno en España, y hay una mala noticia</a></h4>
     <a href='https://computerhoy.com/entretenimiento/skyshowtime-datos-estreno-espana-sin-resolucion-4k-1191782' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/skyshowtime-revela-primeros-datos-estreno-espana-hay-mala-noticia-2940820.jpg?tf=1200x' alt='SkyShowtime revela los primeros datos de su estreno en España, y hay una mala noticia' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/moviles/apple-podria-limitar-conectividad-wifi-6e-solo-modelos-iphone-15-pro-1191726'>Apple podría limitar la conectividad WiFi 6E solo a los modelos iPhone 15 Pro</a></h4>
     <a href='https://computerhoy.com/moviles/apple-podria-limitar-conectividad-wifi-6e-solo-modelos-iphone-15-pro-1191726' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/analisis-iphone-14-pro-2821733.jpg?tf=1200x' alt='Apple podría limitar la conectividad WiFi 6E solo a los modelos iPhone 15 Pro' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/brazo-robotico-ayudara-traer-muestras-marte-tierra-1191718'>Este brazo robótico ayudará a traer muestras de Marte a la Tierra</a></h4>
-    <a href='https://computerhoy.com/espacio/brazo-robotico-ayudara-traer-muestras-marte-tierra-1191718' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/brazo-robotico-ayudara-traer-muestras-marte-tierra-2940698.jpg?tf=1200x' alt='Este brazo robótico ayudará a traer muestras de Marte a la Tierra' />
     </a>
 </div>
 
