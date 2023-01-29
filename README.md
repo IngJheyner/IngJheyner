@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/facebook-habria-agotado-secreto-baterias-algunos-usuarios-afirma-ex-trabajador-demanda-1191710'>Facebook habría agotado en secreto las baterías de algunos usuarios, afirma un ex trabajador en una demanda</a></h4>
+    <a href='https://computerhoy.com/apps/facebook-habria-agotado-secreto-baterias-algunos-usuarios-afirma-ex-trabajador-demanda-1191710' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/meta-2940688.jpg?tf=1200x' alt='Facebook habría agotado en secreto las baterías de algunos usuarios, afirma un ex trabajador en una demanda' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/7-sitcoms-comedias-ultimos-5-anos-tienes-alcance-son-buenisimas-1190096'>7 sitcoms y comedias de los últimos 5 años que tienes a tu alcance y son buenísimas</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/7-sitcoms-comedias-ultimos-5-anos-tienes-alcance-son-buenisimas-1190096' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/7-sitcoms-comedias-ultimos-5-anos-tienes-alcance-son-buenisimas-2938656.jpg?tf=1200x' alt='7 sitcoms y comedias de los últimos 5 años que tienes a tu alcance y son buenísimas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/utilizan-tecnologia-movimiento-inteligencia-artificial-avatar-rastrear-enfermedades-1191704'>Utilizan la tecnología de movimiento de inteligencia artificial de Avatar para rastrear enfermedades</a></h4>
+    <a href='https://computerhoy.com/ciencia/utilizan-tecnologia-movimiento-inteligencia-artificial-avatar-rastrear-enfermedades-1191704' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/utilizan-tecnologia-inteligencia-artificial-avatar-rastrear-enfermedades-2940664.jpg?tf=1200x' alt='Utilizan la tecnología de movimiento de inteligencia artificial de Avatar para rastrear enfermedades' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/analisis/astro-a30-gaming-1190738'>Astro A30, estilo gaming y buena calidad de sonido para unos auriculares todoterreno</a></h4>
     <a href='https://computerhoy.com/analisis/astro-a30-gaming-1190738' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/astro-a30-2940036.jpg?tf=1200x' alt='Astro A30, estilo gaming y buena calidad de sonido para unos auriculares todoterreno' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/windows/nueva-actualizacion-windows-11-microsoft-obligara-te-instales-1191696'>Esta es la nueva actualización para Windows 11 que Microsoft obligará a que te instales</a></h4>
     <a href='https://computerhoy.com/windows/nueva-actualizacion-windows-11-microsoft-obligara-te-instales-1191696' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/windows-11-2767553.jpg?tf=1200x' alt='Esta es la nueva actualización para Windows 11 que Microsoft obligará a que te instales' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/8-apps-android-querras-instalar-windows-11-como-hacerlo-1190546'>Las 8 apps de Android que querrás instalar en Windows 11 y cómo hacerlo</a></h4>
-    <a href='https://computerhoy.com/tecnologia/8-apps-android-querras-instalar-windows-11-como-hacerlo-1190546' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/ordenador-windows-11-android-2938700.jpg?tf=1200x' alt='Las 8 apps de Android que querrás instalar en Windows 11 y cómo hacerlo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/audio/auriculares-huawei-freebuds-pro-2-descuento-funda-pulsera-huawei-band-7-gratis-1191240'>Los auriculares Huawei FreeBuds Pro 2 con descuento, funda y pulsera Huawei Band 7 gratis</a></h4>
-    <a href='https://computerhoy.com/audio/auriculares-huawei-freebuds-pro-2-descuento-funda-pulsera-huawei-band-7-gratis-1191240' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/auriculares-huawei-freebuds-pro-2-descuento-funda-pulsera-huawei-band-7-gratis-2940060.jpg?tf=1200x' alt='Los auriculares Huawei FreeBuds Pro 2 con descuento, funda y pulsera Huawei Band 7 gratis' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/teletrabajo-hibrido-ahora-algunos-buscan-pesadilla-empresas-1190580'>Qué es el teletrabajo híbrido que ahora algunos buscan y por qué es una pesadilla para las empresas</a></h4>
-    <a href='https://computerhoy.com/life/teletrabajo-hibrido-ahora-algunos-buscan-pesadilla-empresas-1190580' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/teletrabajo-hibrido-ahora-algunos-buscan-pesadilla-empresas-2939092.jpg?tf=1200x' alt='Qué es el teletrabajo híbrido que ahora algunos buscan y por qué es una pesadilla para las empresas' />
     </a>
 </div>
 
