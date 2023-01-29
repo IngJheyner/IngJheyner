@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/criptos/criptoinvierno-cual-importancia-mundo-criptomonedas-1180590'>¿Qué es el criptoinvierno y cuál es su importancia en el mundo de las criptomonedas?</a></h4>
+    <a href='https://computerhoy.com/criptos/criptoinvierno-cual-importancia-mundo-criptomonedas-1180590' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/verticalimage1674836072204-2939982.jpg?tf=1200x' alt='¿Qué es el criptoinvierno y cuál es su importancia en el mundo de las criptomonedas?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apps/facebook-habria-agotado-secreto-baterias-algunos-usuarios-afirma-ex-trabajador-demanda-1191710'>Facebook habría agotado en secreto las baterías de algunos usuarios, afirma un ex trabajador en una demanda</a></h4>
     <a href='https://computerhoy.com/apps/facebook-habria-agotado-secreto-baterias-algunos-usuarios-afirma-ex-trabajador-demanda-1191710' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/meta-2940688.jpg?tf=1200x' alt='Facebook habría agotado en secreto las baterías de algunos usuarios, afirma un ex trabajador en una demanda' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/analisis/astro-a30-gaming-1190738'>Astro A30, estilo gaming y buena calidad de sonido para unos auriculares todoterreno</a></h4>
     <a href='https://computerhoy.com/analisis/astro-a30-gaming-1190738' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/astro-a30-2940036.jpg?tf=1200x' alt='Astro A30, estilo gaming y buena calidad de sonido para unos auriculares todoterreno' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/nueva-actualizacion-windows-11-microsoft-obligara-te-instales-1191696'>Esta es la nueva actualización para Windows 11 que Microsoft obligará a que te instales</a></h4>
-    <a href='https://computerhoy.com/windows/nueva-actualizacion-windows-11-microsoft-obligara-te-instales-1191696' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/windows-11-2767553.jpg?tf=1200x' alt='Esta es la nueva actualización para Windows 11 que Microsoft obligará a que te instales' />
     </a>
 </div>
 
