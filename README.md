@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/crean-primer-resort-safari-lujo-mundo-capaz-producir-propia-agua-1191514'>Crean el primer resort safari de lujo del mundo capaz de producir su propia agua</a></h4>
+    <a href='https://computerhoy.com/life/crean-primer-resort-safari-lujo-mundo-capaz-producir-propia-agua-1191514' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/disenan-primer-resort-safari-lujo-autosuficiente-gracias-dispositivos-solares-2940442.jpg?tf=1200x' alt='Crean el primer resort safari de lujo del mundo capaz de producir su propia agua' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/truco-4-monedas-5-centimos-espantar-moscas-1191058'>Este truco con 4 monedas de 5 céntimos, asegura que espanta a las moscas, ¿es cierto?</a></h4>
+    <a href='https://computerhoy.com/life/truco-4-monedas-5-centimos-espantar-moscas-1191058' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/truco-4-monedas-5-centimos-asegura-espanta-moscas-cierto-2939512.jpg?tf=1200x' alt='Este truco con 4 monedas de 5 céntimos, asegura que espanta a las moscas, ¿es cierto?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-calidad-precio-1112549'>Estos son los mejores móviles calidad precio de 2023</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-calidad-precio-1112549' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/poco-x4-pro-analisis-opinion-2663735.jpg?tf=1200x' alt='Estos son los mejores móviles calidad precio de 2023' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciencia/robot-metal-liquido-atraviesa-barrotes-terminator-video-1191094'>El robot de metal líquido que atraviesa los barrotes como un auténtico Terminator</a></h4>
     <a href='https://computerhoy.com/ciencia/robot-metal-liquido-atraviesa-barrotes-terminator-video-1191094' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/robot-metal-liquido-atraviesa-barrotes-como-autentico-terminator-2939600.jpg?tf=1200x' alt='El robot de metal líquido que atraviesa los barrotes como un auténtico Terminator' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/alimentacion/desayuno-no-comida-importante-dia-expertos-te-explican-1191524'>El desayuno no es la comida más importante del día, y los expertos te lo explican</a></h4>
     <a href='https://computerhoy.com/alimentacion/desayuno-no-comida-importante-dia-expertos-te-explican-1191524' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/desayuno-2940452.jpg?tf=1200x' alt='El desayuno no es la comida más importante del día, y los expertos te lo explican' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/10-terminos-jerga-informatica-debes-conocer-vas-montar-pc-1188964'>Los 10 términos de la jerga informática que debes conocer si vas a montar un PC</a></h4>
-    <a href='https://computerhoy.com/pc/10-terminos-jerga-informatica-debes-conocer-vas-montar-pc-1188964' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/mirando-ordenador-experto-pccomponentes-2633977.jpg?tf=1200x' alt='Los 10 términos de la jerga informática que debes conocer si vas a montar un PC' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/fallo-spotify-afectando-todos-usuarios-soluciona-1191496'>El fallo en Spotify que está afectando a todos los usuarios, y así se soluciona</a></h4>
-    <a href='https://computerhoy.com/apps/fallo-spotify-afectando-todos-usuarios-soluciona-1191496' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/suma-sigue-spotify-despide-600-empleados-2936482.jpg?tf=1200x' alt='El fallo en Spotify que está afectando a todos los usuarios, y así se soluciona' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/apple-te-permitiria-crear-aplicaciones-realidad-aumentada-nuevos-auriculares-vr-1191500'>Apple te permitiría crear aplicaciones de realidad aumentada para sus nuevos auriculares VR</a></h4>
-    <a href='https://computerhoy.com/apple/apple-te-permitiria-crear-aplicaciones-realidad-aumentada-nuevos-auriculares-vr-1191500' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/concepto-realidad-virtual-2872105.jpg?tf=1200x' alt='Apple te permitiría crear aplicaciones de realidad aumentada para sus nuevos auriculares VR' />
     </a>
 </div>
 
