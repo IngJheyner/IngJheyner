@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/google/android-auto-88-oficial-ya-puedes-descargar-ultima-version-estable-1192180'>Android Auto 8.8 es oficial y ya puedes descargar la última versión estable</a></h4>
+    <a href='https://computerhoy.com/google/android-auto-88-oficial-ya-puedes-descargar-ultima-version-estable-1192180' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/android-auto-88-oficial-ya-puedes-descargar-ultima-version-estable-2941456.jpg?tf=1200x' alt='Android Auto 8.8 es oficial y ya puedes descargar la última versión estable' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/google/google-maps-esperanza-vida-cada-pais-mundo-ojo-espana-1192176'>El Google Maps de la esperanza de vida en cada país del mundo: ¡ojo con España!</a></h4>
     <a href='https://computerhoy.com/google/google-maps-esperanza-vida-cada-pais-mundo-ojo-espana-1192176' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/tierra-2941442.jpg?tf=1200x' alt='El Google Maps de la esperanza de vida en cada país del mundo: ¡ojo con España!' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/ciencia/implante-cerebral-acaba-batir-record-mundial-1192070'>Un implante cerebral acaba de batir un récord mundial</a></h4>
     <a href='https://computerhoy.com/ciencia/implante-cerebral-acaba-batir-record-mundial-1192070' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/implante-cerebral-paciente-ela-2653677.jpg?tf=1200x' alt='Un implante cerebral acaba de batir un récord mundial' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/ue-presenta-primer-prototipo-monedero-digital-identificacion-pagos-movil-1192014'>Así es el primer prototipo de monedero digital de identificación y pagos desde el móvil de la UE</a></h4>
-    <a href='https://computerhoy.com/tecnologia/ue-presenta-primer-prototipo-monedero-digital-identificacion-pagos-movil-1192014' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/monedero-digital-europeo-documentos-micro-pagos-movil-2941126.jpg?tf=1200x' alt='Así es el primer prototipo de monedero digital de identificación y pagos desde el móvil de la UE' />
     </a>
 </div>
 
