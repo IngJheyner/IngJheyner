@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/implante-cerebral-acaba-batir-record-mundial-1192070'>Un implante cerebral acaba de batir un récord mundial</a></h4>
+    <a href='https://computerhoy.com/ciencia/implante-cerebral-acaba-batir-record-mundial-1192070' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/implante-cerebral-paciente-ela-2653677.jpg?tf=1200x' alt='Un implante cerebral acaba de batir un récord mundial' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/ue-presenta-primer-prototipo-monedero-digital-identificacion-pagos-movil-1192014'>La UE presenta el primer prototipo de su monedero digital de identificación y pagos desde el móvil</a></h4>
     <a href='https://computerhoy.com/tecnologia/ue-presenta-primer-prototipo-monedero-digital-identificacion-pagos-movil-1192014' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/monedero-digital-europeo-documentos-micro-pagos-movil-2941126.jpg?tf=1200x' alt='La UE presenta el primer prototipo de su monedero digital de identificación y pagos desde el móvil' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/frio-radiador-wifi-mando-te-ayudara-bastante-precio-ganga-1191998'>¿Frío? Este radiador con WiFi y mando te ayudará bastante, y a precio de ganga</a></h4>
     <a href='https://computerhoy.com/tecnologia/frio-radiador-wifi-mando-te-ayudara-bastante-precio-ganga-1191998' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/readywarm-800-2941022.jpg?tf=1200x' alt='¿Frío? Este radiador con WiFi y mando te ayudará bastante, y a precio de ganga' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/detectgpt-nueva-herramienta-profesores-identifiquen-textos-creados-chatgpt-1191976'>DetectGPT, la nueva herramienta para que los profesores identifiquen textos creados con ChatGPT</a></h4>
-    <a href='https://computerhoy.com/tecnologia/detectgpt-nueva-herramienta-profesores-identifiquen-textos-creados-chatgpt-1191976' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/detectgpt-nueva-herramienta-profesores-identifiquen-textos-generados-chatgpt-2941078.jpg?tf=1200x' alt='DetectGPT, la nueva herramienta para que los profesores identifiquen textos creados con ChatGPT' />
     </a>
 </div>
 
