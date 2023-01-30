@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/ue-presenta-primer-prototipo-monedero-digital-identificacion-pagos-movil-1192014'>La UE presenta el primer prototipo de su monedero digital de identificación y pagos desde el móvil</a></h4>
+    <a href='https://computerhoy.com/tecnologia/ue-presenta-primer-prototipo-monedero-digital-identificacion-pagos-movil-1192014' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/monedero-digital-europeo-documentos-micro-pagos-movil-2941126.jpg?tf=1200x' alt='La UE presenta el primer prototipo de su monedero digital de identificación y pagos desde el móvil' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/6-mitos-memoria-ram-no-son-ciertos-1188378'>6 mitos de la memoria RAM que no son ciertos</a></h4>
+    <a href='https://computerhoy.com/tecnologia/6-mitos-memoria-ram-no-son-ciertos-1188378' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/memoria-ram-2483735.jpg?tf=1200x' alt='6 mitos de la memoria RAM que no son ciertos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/windows/10-mejoras-necesita-menu-configuracion-windows-11-1191984'>Las 10 mejoras que necesita el menú Configuración de Windows 11</a></h4>
+    <a href='https://computerhoy.com/windows/10-mejoras-necesita-menu-configuracion-windows-11-1191984' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/windows-11-2925470.jpg?tf=1200x' alt='Las 10 mejoras que necesita el menú Configuración de Windows 11' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/frio-radiador-wifi-mando-te-ayudara-bastante-precio-ganga-1191998'>¿Frío? Este radiador con WiFi y mando te ayudará bastante, y a precio de ganga</a></h4>
+    <a href='https://computerhoy.com/tecnologia/frio-radiador-wifi-mando-te-ayudara-bastante-precio-ganga-1191998' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/readywarm-800-2941022.jpg?tf=1200x' alt='¿Frío? Este radiador con WiFi y mando te ayudará bastante, y a precio de ganga' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/detectgpt-nueva-herramienta-profesores-identifiquen-textos-creados-chatgpt-1191976'>DetectGPT, la nueva herramienta para que los profesores identifiquen textos creados con ChatGPT</a></h4>
     <a href='https://computerhoy.com/tecnologia/detectgpt-nueva-herramienta-profesores-identifiquen-textos-creados-chatgpt-1191976' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/detectgpt-nueva-herramienta-profesores-identifiquen-textos-generados-chatgpt-2941078.jpg?tf=1200x' alt='DetectGPT, la nueva herramienta para que los profesores identifiquen textos creados con ChatGPT' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/android/no-instales-ninguna-estas-tres-apps-populares-play-store-seguridad-1191966'>No instales ninguna de estas tres apps populares de la Play Store por tu seguridad</a></h4>
-    <a href='https://computerhoy.com/android/no-instales-ninguna-estas-tres-apps-populares-play-store-seguridad-1191966' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/malware-android-2600973.jpg?tf=1200x' alt='No instales ninguna de estas tres apps populares de la Play Store por tu seguridad' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/nueva-ia-google-capaz-crear-cancion-solo-introducir-texto-tararear-ritmo-1191964'>La nueva IA de Google es capaz de crear una canción con solo introducir texto o tararear un ritmo</a></h4>
-    <a href='https://computerhoy.com/google/nueva-ia-google-capaz-crear-cancion-solo-introducir-texto-tararear-ritmo-1191964' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/nueva-ia-google-capaz-crear-cancion-solo-introducir-texto-tararear-ritmo-2941014.jpg?tf=1200x' alt='La nueva IA de Google es capaz de crear una canción con solo introducir texto o tararear un ritmo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/5-videojuegos-como-last-us-merecen-tener-serie-propia-1191446'>5 videojuegos que como The Last of Us merecen tener una serie propia</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/5-videojuegos-como-last-us-merecen-tener-serie-propia-1191446' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/5-videojuegos-como-last-us-merecen-tener-serie-propia-2940358.jpg?tf=1200x' alt='5 videojuegos que como The Last of Us merecen tener una serie propia' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/6-auriculares-cancelacion-ruido-hemos-probado-recomendamos-998463'>10 auriculares con cancelación de ruido que hemos probado y recomendamos</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/6-auriculares-cancelacion-ruido-hemos-probado-recomendamos-998463' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/analisis-nothing-ear-stick-2856259.jpg?tf=1200x' alt='10 auriculares con cancelación de ruido que hemos probado y recomendamos' />
     </a>
 </div>
 
