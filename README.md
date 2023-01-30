@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/ipad-plegable-podria-llegar-antes-movil-plegable-apple-1192254'>Un iPad plegable podría llegar antes que el móvil plegable de Apple</a></h4>
+    <a href='https://computerhoy.com/apple/ipad-plegable-podria-llegar-antes-movil-plegable-apple-1192254' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/ipad-10a-generacion-analisis-opinion-2897872.jpg?tf=1200x' alt='Un iPad plegable podría llegar antes que el móvil plegable de Apple' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/como-abrir-puertos-router-debes-hacerlo-279797'>Cómo abrir los puertos del router y por qué debes hacerlo</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/como-abrir-puertos-router-debes-hacerlo-279797' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/router-2476823.jpg?tf=1200x' alt='Cómo abrir los puertos del router y por qué debes hacerlo' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/moviles/honor-viene-todo-mwc-2023-flagship-nuevo-plegable-1192240'>Honor viene con todo para el MWC 2023, flagship y nuevo plegable</a></h4>
     <a href='https://computerhoy.com/moviles/honor-viene-todo-mwc-2023-flagship-nuevo-plegable-1192240' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/honor-viene-todo-mwc-2023-flagship-nuevo-plegable-2941544.jpg?tf=1200x' alt='Honor viene con todo para el MWC 2023, flagship y nuevo plegable' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/poco-x5-sabemos-moviles-poco-presentan-proxima-semana-1192256'>POCO X5: esto es lo que sabemos de los móviles POCO que se presentan la próxima semana</a></h4>
-    <a href='https://computerhoy.com/moviles/poco-x5-sabemos-moviles-poco-presentan-proxima-semana-1192256' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/poco-x5-sabemos-moviles-poco-presentan-proxima-semana-2941540.jpg?tf=1200x' alt='POCO X5: esto es lo que sabemos de los móviles POCO que se presentan la próxima semana' />
     </a>
 </div>
 
