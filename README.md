@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/moviles/honor-viene-todo-mwc-2023-flagship-nuevo-plegable-1192240'>Honor viene con todo para el MWC 2023, flagship y nuevo plegable</a></h4>
+    <a href='https://computerhoy.com/moviles/honor-viene-todo-mwc-2023-flagship-nuevo-plegable-1192240' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/honor-viene-todo-mwc-2023-flagship-nuevo-plegable-2941544.jpg?tf=1200x' alt='Honor viene con todo para el MWC 2023, flagship y nuevo plegable' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/moviles/poco-x5-sabemos-moviles-poco-presentan-proxima-semana-1192256'>POCO X5: esto es lo que sabemos de los móviles POCO que se presentan la próxima semana</a></h4>
     <a href='https://computerhoy.com/moviles/poco-x5-sabemos-moviles-poco-presentan-proxima-semana-1192256' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/poco-x5-sabemos-moviles-poco-presentan-proxima-semana-2941540.jpg?tf=1200x' alt='POCO X5: esto es lo que sabemos de los móviles POCO que se presentan la próxima semana' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/google/google-maps-esperanza-vida-cada-pais-mundo-ojo-espana-1192176'>El Google Maps de la esperanza de vida en cada país del mundo: ¡ojo con España!</a></h4>
     <a href='https://computerhoy.com/google/google-maps-esperanza-vida-cada-pais-mundo-ojo-espana-1192176' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/tierra-2941442.jpg?tf=1200x' alt='El Google Maps de la esperanza de vida en cada país del mundo: ¡ojo con España!' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/meta-estaria-agotando-adrede-bateria-moviles-hacer-pruebas-apps-ex-empleado-1192104'>Meta estaría agotando adrede la batería de los móviles para hacer pruebas en sus apps según un ex empleado</a></h4>
-    <a href='https://computerhoy.com/apps/meta-estaria-agotando-adrede-bateria-moviles-hacer-pruebas-apps-ex-empleado-1192104' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/meta-estaria-agotando-adrede-bateria-moviles-hacer-pruebas-apps-ex-empleado-2941412.jpg?tf=1200x' alt='Meta estaría agotando adrede la batería de los móviles para hacer pruebas en sus apps según un ex empleado' />
     </a>
 </div>
 
