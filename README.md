@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/internet/mentira-acerca-video-antiguo-youtube-ha-sido-creado-2023-1192288'>La mentira acerca del vídeo más antiguo de YouTube: ha sido creado en 2023</a></h4>
+    <a href='https://computerhoy.com/internet/mentira-acerca-video-antiguo-youtube-ha-sido-creado-2023-1192288' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/youtube-2716325.jpg?tf=1200x' alt='La mentira acerca del vídeo más antiguo de YouTube: ha sido creado en 2023' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/gaming/sony-fin-problemas-stock-campana-relanzamiento-ps5-1192384'>Sony da por terminados los problemas de stock, e inicia una campaña de relanzamiento de la PS5</a></h4>
+    <a href='https://computerhoy.com/gaming/sony-fin-problemas-stock-campana-relanzamiento-ps5-1192384' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/sony-da-terminados-problemas-stock-inicia-campana-relanzamiento-ps5-2941728.jpg?tf=1200x' alt='Sony da por terminados los problemas de stock, e inicia una campaña de relanzamiento de la PS5' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/moviles/samsung-galaxy-s23-filtra-imagenes-reales-diseno-especificaciones-1192292'>El Samsung Galaxy S23 se filtra en imágenes reales: así es su diseño y especificaciones</a></h4>
     <a href='https://computerhoy.com/moviles/samsung-galaxy-s23-filtra-imagenes-reales-diseno-especificaciones-1192292' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/samsung-galaxy-s23-filtra-imagenes-reales-diseno-especificaciones-2941736.jpg?tf=1200x' alt='El Samsung Galaxy S23 se filtra en imágenes reales: así es su diseño y especificaciones' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/google/google-chrome-ultimatum-no-utilices-navegador-algunos-ordenadores-1192368'>Google Chrome y su ultimátum para que no utilices el navegador en algunos ordenadores</a></h4>
     <a href='https://computerhoy.com/google/google-chrome-ultimatum-no-utilices-navegador-algunos-ordenadores-1192368' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/11/windows-7-chrome-2143329.jpg?tf=1200x' alt='Google Chrome y su ultimátum para que no utilices el navegador en algunos ordenadores' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/estrenos-exclusivos-filmin-series-peliculas-febrero-1192362'>Todos los estrenos exclusivos de Filmin en febrero, incluyendo la mejor película de todos los tiempos (o eso dicen)</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/estrenos-exclusivos-filmin-series-peliculas-febrero-1192362' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/todos-estrenos-exclusivos-filmin-febrero-incluyendo-mejor-pelicula-todos-tiempos-eso-dicen-2941708.jpg?tf=1200x' alt='Todos los estrenos exclusivos de Filmin en febrero, incluyendo la mejor película de todos los tiempos (o eso dicen)' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/xiaomi-ms11-coche-electrico-xiaomi-quiere-competir-tesla-1192286'>Xiaomi MS11: así es el coche eléctrico de Xiaomi que quiere competir con Tesla</a></h4>
-    <a href='https://computerhoy.com/motor/xiaomi-ms11-coche-electrico-xiaomi-quiere-competir-tesla-1192286' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/xiaomi-ms11-2941074.jpg?tf=1200x' alt='Xiaomi MS11: así es el coche eléctrico de Xiaomi que quiere competir con Tesla' />
     </a>
 </div>
 
