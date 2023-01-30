@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/como-abrir-puertos-router-debes-hacerlo-279797'>Cómo abrir los puertos del router y por qué debes hacerlo</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/como-abrir-puertos-router-debes-hacerlo-279797' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/router-2476823.jpg?tf=1200x' alt='Cómo abrir los puertos del router y por qué debes hacerlo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/moviles/venta-moviles-desploma-china-escasez-chips-bloqueos-saturacion-mercado-1192252'>La venta de móviles se desploma en China: escasez de chips, bloqueos y saturación del mercado</a></h4>
+    <a href='https://computerhoy.com/moviles/venta-moviles-desploma-china-escasez-chips-bloqueos-saturacion-mercado-1192252' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/cierran-fabrica-iphone-india-250-intoxicados-encontrar-ratas-comida-gusanos-retretes-agua-corriente-2574821.jpg?tf=1200x' alt='La venta de móviles se desploma en China: escasez de chips, bloqueos y saturación del mercado' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/rebajas-apple-amazon-macbook-ipad-airtag-iphone-1192008'>Rebajas Apple en Amazon: MacBook, iPad, AirTag y más con generosos descuentos</a></h4>
+    <a href='https://computerhoy.com/tecnologia/rebajas-apple-amazon-macbook-ipad-airtag-iphone-1192008' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/ordenador-portatil-macbook-pro-chip-m1-auriculares-cuaderno-cerca-mesa-2856675.jpg?tf=1200x' alt='Rebajas Apple en Amazon: MacBook, iPad, AirTag y más con generosos descuentos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/moviles/honor-viene-todo-mwc-2023-flagship-nuevo-plegable-1192240'>Honor viene con todo para el MWC 2023, flagship y nuevo plegable</a></h4>
     <a href='https://computerhoy.com/moviles/honor-viene-todo-mwc-2023-flagship-nuevo-plegable-1192240' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/honor-viene-todo-mwc-2023-flagship-nuevo-plegable-2941544.jpg?tf=1200x' alt='Honor viene con todo para el MWC 2023, flagship y nuevo plegable' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/moviles/poco-x5-sabemos-moviles-poco-presentan-proxima-semana-1192256'>POCO X5: esto es lo que sabemos de los móviles POCO que se presentan la próxima semana</a></h4>
     <a href='https://computerhoy.com/moviles/poco-x5-sabemos-moviles-poco-presentan-proxima-semana-1192256' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/poco-x5-sabemos-moviles-poco-presentan-proxima-semana-2941540.jpg?tf=1200x' alt='POCO X5: esto es lo que sabemos de los móviles POCO que se presentan la próxima semana' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/elburs-nueva-cpu-rusa-quiere-rivalizar-amd-intel-1192206'>Así es Elburs: la nueva CPU rusa que quiere rivalizar con AMD e Intel</a></h4>
-    <a href='https://computerhoy.com/pc/elburs-nueva-cpu-rusa-quiere-rivalizar-amd-intel-1192206' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/01/procesador-2203051.jpg?tf=1200x' alt='Así es Elburs: la nueva CPU rusa que quiere rivalizar con AMD e Intel' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/android-auto-88-oficial-ya-puedes-descargar-ultima-version-estable-1192180'>Android Auto 8.8 es oficial y ya puedes descargar la última versión estable</a></h4>
-    <a href='https://computerhoy.com/google/android-auto-88-oficial-ya-puedes-descargar-ultima-version-estable-1192180' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/android-auto-88-oficial-ya-puedes-descargar-ultima-version-estable-2941456.jpg?tf=1200x' alt='Android Auto 8.8 es oficial y ya puedes descargar la última versión estable' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/google-maps-esperanza-vida-cada-pais-mundo-ojo-espana-1192176'>El Google Maps de la esperanza de vida en cada país del mundo: ¡ojo con España!</a></h4>
-    <a href='https://computerhoy.com/google/google-maps-esperanza-vida-cada-pais-mundo-ojo-espana-1192176' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/tierra-2941442.jpg?tf=1200x' alt='El Google Maps de la esperanza de vida en cada país del mundo: ¡ojo con España!' />
     </a>
 </div>
 
