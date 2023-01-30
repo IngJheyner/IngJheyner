@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/meta-estaria-agotando-adrede-bateria-moviles-hacer-pruebas-apps-ex-empleado-1192104'>Meta estaría agotando adrede la batería de los móviles para hacer pruebas en sus apps según un ex empleado</a></h4>
+    <a href='https://computerhoy.com/apps/meta-estaria-agotando-adrede-bateria-moviles-hacer-pruebas-apps-ex-empleado-1192104' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/meta-estaria-agotando-adrede-bateria-moviles-hacer-pruebas-apps-ex-empleado-2941412.jpg?tf=1200x' alt='Meta estaría agotando adrede la batería de los móviles para hacer pruebas en sus apps según un ex empleado' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/industria/buscan-rastreadores-emisiones-iptv-gran-sueldo-buenas-condiciones-1192072'>Se buscan rastreadores de emisiones IPTV con un gran sueldo y buenas condiciones</a></h4>
+    <a href='https://computerhoy.com/industria/buscan-rastreadores-emisiones-iptv-gran-sueldo-buenas-condiciones-1192072' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/08/iptv-mala-idea-utilizarlo_1.jpg?tf=1200x' alt='Se buscan rastreadores de emisiones IPTV con un gran sueldo y buenas condiciones' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciencia/implante-cerebral-acaba-batir-record-mundial-1192070'>Un implante cerebral acaba de batir un récord mundial</a></h4>
     <a href='https://computerhoy.com/ciencia/implante-cerebral-acaba-batir-record-mundial-1192070' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/implante-cerebral-paciente-ela-2653677.jpg?tf=1200x' alt='Un implante cerebral acaba de batir un récord mundial' />
@@ -58,9 +74,9 @@
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/ue-presenta-primer-prototipo-monedero-digital-identificacion-pagos-movil-1192014'>La UE presenta el primer prototipo de su monedero digital de identificación y pagos desde el móvil</a></h4>
+    <h4><a href='https://computerhoy.com/tecnologia/ue-presenta-primer-prototipo-monedero-digital-identificacion-pagos-movil-1192014'>Así es el primer prototipo de monedero digital de identificación y pagos desde el móvil de la UE</a></h4>
     <a href='https://computerhoy.com/tecnologia/ue-presenta-primer-prototipo-monedero-digital-identificacion-pagos-movil-1192014' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/monedero-digital-europeo-documentos-micro-pagos-movil-2941126.jpg?tf=1200x' alt='La UE presenta el primer prototipo de su monedero digital de identificación y pagos desde el móvil' />
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/monedero-digital-europeo-documentos-micro-pagos-movil-2941126.jpg?tf=1200x' alt='Así es el primer prototipo de monedero digital de identificación y pagos desde el móvil de la UE' />
     </a>
 </div>
 
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/6-mitos-memoria-ram-no-son-ciertos-1188378'>6 mitos de la memoria RAM que no son ciertos</a></h4>
     <a href='https://computerhoy.com/tecnologia/6-mitos-memoria-ram-no-son-ciertos-1188378' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/memoria-ram-2483735.jpg?tf=1200x' alt='6 mitos de la memoria RAM que no son ciertos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/10-mejoras-necesita-menu-configuracion-windows-11-1191984'>Las 10 mejoras que necesita el menú Configuración de Windows 11</a></h4>
-    <a href='https://computerhoy.com/windows/10-mejoras-necesita-menu-configuracion-windows-11-1191984' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/windows-11-2925470.jpg?tf=1200x' alt='Las 10 mejoras que necesita el menú Configuración de Windows 11' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/frio-radiador-wifi-mando-te-ayudara-bastante-precio-ganga-1191998'>¿Frío? Este radiador con WiFi y mando te ayudará bastante, y a precio de ganga</a></h4>
-    <a href='https://computerhoy.com/tecnologia/frio-radiador-wifi-mando-te-ayudara-bastante-precio-ganga-1191998' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/readywarm-800-2941022.jpg?tf=1200x' alt='¿Frío? Este radiador con WiFi y mando te ayudará bastante, y a precio de ganga' />
     </a>
 </div>
 
