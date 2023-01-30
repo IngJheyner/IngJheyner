@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/moviles/poco-x5-sabemos-moviles-poco-presentan-proxima-semana-1192256'>POCO X5: esto es lo que sabemos de los móviles POCO que se presentan la próxima semana</a></h4>
+    <a href='https://computerhoy.com/moviles/poco-x5-sabemos-moviles-poco-presentan-proxima-semana-1192256' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/poco-x5-sabemos-moviles-poco-presentan-proxima-semana-2941540.jpg?tf=1200x' alt='POCO X5: esto es lo que sabemos de los móviles POCO que se presentan la próxima semana' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/pc/elburs-nueva-cpu-rusa-quiere-rivalizar-amd-intel-1192206'>Así es Elburs: la nueva CPU rusa que quiere rivalizar con AMD e Intel</a></h4>
+    <a href='https://computerhoy.com/pc/elburs-nueva-cpu-rusa-quiere-rivalizar-amd-intel-1192206' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/01/procesador-2203051.jpg?tf=1200x' alt='Así es Elburs: la nueva CPU rusa que quiere rivalizar con AMD e Intel' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/google/android-auto-88-oficial-ya-puedes-descargar-ultima-version-estable-1192180'>Android Auto 8.8 es oficial y ya puedes descargar la última versión estable</a></h4>
     <a href='https://computerhoy.com/google/android-auto-88-oficial-ya-puedes-descargar-ultima-version-estable-1192180' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/android-auto-88-oficial-ya-puedes-descargar-ultima-version-estable-2941456.jpg?tf=1200x' alt='Android Auto 8.8 es oficial y ya puedes descargar la última versión estable' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/apps/meta-estaria-agotando-adrede-bateria-moviles-hacer-pruebas-apps-ex-empleado-1192104'>Meta estaría agotando adrede la batería de los móviles para hacer pruebas en sus apps según un ex empleado</a></h4>
     <a href='https://computerhoy.com/apps/meta-estaria-agotando-adrede-bateria-moviles-hacer-pruebas-apps-ex-empleado-1192104' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/meta-estaria-agotando-adrede-bateria-moviles-hacer-pruebas-apps-ex-empleado-2941412.jpg?tf=1200x' alt='Meta estaría agotando adrede la batería de los móviles para hacer pruebas en sus apps según un ex empleado' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/industria/buscan-rastreadores-emisiones-iptv-gran-sueldo-buenas-condiciones-1192072'>Se buscan rastreadores de emisiones IPTV con un gran sueldo y buenas condiciones</a></h4>
-    <a href='https://computerhoy.com/industria/buscan-rastreadores-emisiones-iptv-gran-sueldo-buenas-condiciones-1192072' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/08/iptv-mala-idea-utilizarlo_1.jpg?tf=1200x' alt='Se buscan rastreadores de emisiones IPTV con un gran sueldo y buenas condiciones' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/implante-cerebral-acaba-batir-record-mundial-1192070'>Un implante cerebral acaba de batir un récord mundial</a></h4>
-    <a href='https://computerhoy.com/ciencia/implante-cerebral-acaba-batir-record-mundial-1192070' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/implante-cerebral-paciente-ela-2653677.jpg?tf=1200x' alt='Un implante cerebral acaba de batir un récord mundial' />
     </a>
 </div>
 
