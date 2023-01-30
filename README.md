@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/significado-i-productos-apple-steve-jobs-dio-conocer-pocos-recuerdan-1192370'>El significado de la “i” en los productos de Apple que Steve Jobs dio a conocer y que pocos recuerdan</a></h4>
+    <a href='https://computerhoy.com/apple/significado-i-productos-apple-steve-jobs-dio-conocer-pocos-recuerdan-1192370' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/steve-jobs-2885457.jpg?tf=1200x' alt='El significado de la “i” en los productos de Apple que Steve Jobs dio a conocer y que pocos recuerdan' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/google/google-chrome-ultimatum-no-utilices-navegador-algunos-ordenadores-1192368'>Google Chrome y su ultimátum para que no utilices el navegador en algunos ordenadores</a></h4>
+    <a href='https://computerhoy.com/google/google-chrome-ultimatum-no-utilices-navegador-algunos-ordenadores-1192368' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/11/windows-7-chrome-2143329.jpg?tf=1200x' alt='Google Chrome y su ultimátum para que no utilices el navegador en algunos ordenadores' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/estrenos-exclusivos-filmin-series-peliculas-febrero-1192362'>Todos los estrenos exclusivos de Filmin en febrero, incluyendo la mejor película de todos los tiempos (o eso dicen)</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/estrenos-exclusivos-filmin-series-peliculas-febrero-1192362' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/todos-estrenos-exclusivos-filmin-febrero-incluyendo-mejor-pelicula-todos-tiempos-eso-dicen-2941708.jpg?tf=1200x' alt='Todos los estrenos exclusivos de Filmin en febrero, incluyendo la mejor película de todos los tiempos (o eso dicen)' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/motor/xiaomi-ms11-coche-electrico-xiaomi-quiere-competir-tesla-1192286'>Xiaomi MS11: así es el coche eléctrico de Xiaomi que quiere competir con Tesla</a></h4>
     <a href='https://computerhoy.com/motor/xiaomi-ms11-coche-electrico-xiaomi-quiere-competir-tesla-1192286' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/xiaomi-ms11-2941074.jpg?tf=1200x' alt='Xiaomi MS11: así es el coche eléctrico de Xiaomi que quiere competir con Tesla' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/moviles/google-pixel-7-pro-mejor-alternativa-iphone-buen-descuento-1192304'>Google Pixel 7 Pro, la mejor alternativa al iPhone, con un buen descuento</a></h4>
     <a href='https://computerhoy.com/moviles/google-pixel-7-pro-mejor-alternativa-iphone-buen-descuento-1192304' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/analisis-pixel-7-pro-2839677.jpg?tf=1200x' alt='Google Pixel 7 Pro, la mejor alternativa al iPhone, con un buen descuento' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/ipad-plegable-podria-llegar-antes-movil-plegable-apple-1192254'>Un iPad plegable podría llegar antes que el móvil plegable de Apple</a></h4>
-    <a href='https://computerhoy.com/apple/ipad-plegable-podria-llegar-antes-movil-plegable-apple-1192254' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/ipad-10a-generacion-analisis-opinion-2897872.jpg?tf=1200x' alt='Un iPad plegable podría llegar antes que el móvil plegable de Apple' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/como-abrir-puertos-router-debes-hacerlo-279797'>Cómo abrir los puertos del router y por qué debes hacerlo</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/como-abrir-puertos-router-debes-hacerlo-279797' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/router-2476823.jpg?tf=1200x' alt='Cómo abrir los puertos del router y por qué debes hacerlo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/venta-moviles-desploma-china-escasez-chips-bloqueos-saturacion-mercado-1192252'>La venta de móviles se desploma en China: escasez de chips, bloqueos y saturación del mercado</a></h4>
-    <a href='https://computerhoy.com/moviles/venta-moviles-desploma-china-escasez-chips-bloqueos-saturacion-mercado-1192252' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/cierran-fabrica-iphone-india-250-intoxicados-encontrar-ratas-comida-gusanos-retretes-agua-corriente-2574821.jpg?tf=1200x' alt='La venta de móviles se desploma en China: escasez de chips, bloqueos y saturación del mercado' />
     </a>
 </div>
 
