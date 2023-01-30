@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/google/google-maps-esperanza-vida-cada-pais-mundo-ojo-espana-1192176'>El Google Maps de la esperanza de vida en cada país del mundo: ¡ojo con España!</a></h4>
+    <a href='https://computerhoy.com/google/google-maps-esperanza-vida-cada-pais-mundo-ojo-espana-1192176' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/tierra-2941442.jpg?tf=1200x' alt='El Google Maps de la esperanza de vida en cada país del mundo: ¡ojo con España!' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apps/meta-estaria-agotando-adrede-bateria-moviles-hacer-pruebas-apps-ex-empleado-1192104'>Meta estaría agotando adrede la batería de los móviles para hacer pruebas en sus apps según un ex empleado</a></h4>
     <a href='https://computerhoy.com/apps/meta-estaria-agotando-adrede-bateria-moviles-hacer-pruebas-apps-ex-empleado-1192104' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/meta-estaria-agotando-adrede-bateria-moviles-hacer-pruebas-apps-ex-empleado-2941412.jpg?tf=1200x' alt='Meta estaría agotando adrede la batería de los móviles para hacer pruebas en sus apps según un ex empleado' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/ue-presenta-primer-prototipo-monedero-digital-identificacion-pagos-movil-1192014'>Así es el primer prototipo de monedero digital de identificación y pagos desde el móvil de la UE</a></h4>
     <a href='https://computerhoy.com/tecnologia/ue-presenta-primer-prototipo-monedero-digital-identificacion-pagos-movil-1192014' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/monedero-digital-europeo-documentos-micro-pagos-movil-2941126.jpg?tf=1200x' alt='Así es el primer prototipo de monedero digital de identificación y pagos desde el móvil de la UE' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/6-mitos-memoria-ram-no-son-ciertos-1188378'>6 mitos de la memoria RAM que no son ciertos</a></h4>
-    <a href='https://computerhoy.com/tecnologia/6-mitos-memoria-ram-no-son-ciertos-1188378' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/memoria-ram-2483735.jpg?tf=1200x' alt='6 mitos de la memoria RAM que no son ciertos' />
     </a>
 </div>
 
