@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/detectgpt-nueva-herramienta-profesores-identifiquen-textos-creados-chatgpt-1191976'>DetectGPT, la nueva herramienta para que los profesores identifiquen textos creados con ChatGPT</a></h4>
+    <a href='https://computerhoy.com/tecnologia/detectgpt-nueva-herramienta-profesores-identifiquen-textos-creados-chatgpt-1191976' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/detectgpt-nueva-herramienta-profesores-identifiquen-textos-generados-chatgpt-2941078.jpg?tf=1200x' alt='DetectGPT, la nueva herramienta para que los profesores identifiquen textos creados con ChatGPT' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/android/no-instales-ninguna-estas-tres-apps-populares-play-store-seguridad-1191966'>No instales ninguna de estas tres apps populares de la Play Store por tu seguridad</a></h4>
     <a href='https://computerhoy.com/android/no-instales-ninguna-estas-tres-apps-populares-play-store-seguridad-1191966' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/malware-android-2600973.jpg?tf=1200x' alt='No instales ninguna de estas tres apps populares de la Play Store por tu seguridad' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/6-auriculares-cancelacion-ruido-hemos-probado-recomendamos-998463'>10 auriculares con cancelación de ruido que hemos probado y recomendamos</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/6-auriculares-cancelacion-ruido-hemos-probado-recomendamos-998463' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/analisis-nothing-ear-stick-2856259.jpg?tf=1200x' alt='10 auriculares con cancelación de ruido que hemos probado y recomendamos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/como-ahorrar-energia-google-chrome-conseguir-mayor-autonomia-1191122'>Cómo ahorrar energía en Google Chrome y conseguir mayor autonomía</a></h4>
-    <a href='https://computerhoy.com/google/como-ahorrar-energia-google-chrome-conseguir-mayor-autonomia-1191122' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/google-chrome-2897360.jpg?tf=1200x' alt='Cómo ahorrar energía en Google Chrome y conseguir mayor autonomía' />
     </a>
 </div>
 
