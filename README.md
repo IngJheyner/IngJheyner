@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/6-auriculares-cancelacion-ruido-hemos-probado-recomendamos-998463'>10 auriculares con cancelación de ruido que hemos probado y recomendamos</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/6-auriculares-cancelacion-ruido-hemos-probado-recomendamos-998463' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/analisis-nothing-ear-stick-2856259.jpg?tf=1200x' alt='10 auriculares con cancelación de ruido que hemos probado y recomendamos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/google/como-ahorrar-energia-google-chrome-conseguir-mayor-autonomia-1191122'>Cómo ahorrar energía en Google Chrome y conseguir mayor autonomía</a></h4>
+    <a href='https://computerhoy.com/google/como-ahorrar-energia-google-chrome-conseguir-mayor-autonomia-1191122' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/google-chrome-2897360.jpg?tf=1200x' alt='Cómo ahorrar energía en Google Chrome y conseguir mayor autonomía' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/34-noticias-tecnologia-comenzar-manana-informado-ultimo-1191940'>34 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
+    <a href='https://computerhoy.com/tecnologia/34-noticias-tecnologia-comenzar-manana-informado-ultimo-1191940' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/34-noticias-tecnologia-comenzar-manana-informado-ultimo-2940982.jpg?tf=1200x' alt='34 noticias de tecnología para comenzar la mañana informado de lo último' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/mac-mini-m2-merece-la-pena-mejor-ordenador-1190516'>Mac Mini M2 (2023): por qué es uno de los mejores ordenadores para comprar ahora mismo</a></h4>
     <a href='https://computerhoy.com/tecnologia/mac-mini-m2-merece-la-pena-mejor-ordenador-1190516' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/analisis-mac-mini-m2-pro-2936054.jpg?tf=1200x' alt='Mac Mini M2 (2023): por qué es uno de los mejores ordenadores para comprar ahora mismo' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/life/parking-subacuatico-bicicletas-amsterdam-video-1191800'>El primer parking subacuático de bicicletas del mundo abre sus puertas en Ámsterdam (vídeo)</a></h4>
     <a href='https://computerhoy.com/life/parking-subacuatico-bicicletas-amsterdam-video-1191800' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/verticalimage1674956801926-2940632.jpg?tf=1200x' alt='El primer parking subacuático de bicicletas del mundo abre sus puertas en Ámsterdam (vídeo)' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/capsula-radioactiva-pierde-australia-puede-provocar-cancer-contacto-1191796'>Una cápsula radioactiva del tamaño de una moneda se pierde en Australia, puede provocar cáncer al contacto</a></h4>
-    <a href='https://computerhoy.com/life/capsula-radioactiva-pierde-australia-puede-provocar-cancer-contacto-1191796' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/capsula-radioactiva-tamano-moneda-pierde-australia-puede-provocar-cancer-contacto-2940838.jpg?tf=1200x' alt='Una cápsula radioactiva del tamaño de una moneda se pierde en Australia, puede provocar cáncer al contacto' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/estafa-tarjetas-graficas-granjas-criptomonedas-chips-pintados-pintura-metalica-1191788'>Cuidado con algunas tarjetas gráficas vendidas como nuevas: provienen de las criptomonedas, con los chips pintados con pintura metálica</a></h4>
-    <a href='https://computerhoy.com/pc/estafa-tarjetas-graficas-granjas-criptomonedas-chips-pintados-pintura-metalica-1191788' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/cuidado-tiendas-chinas-venden-tarjetas-graficas-criptomonedas-como-nuevas-chip-pintado-pintura-metalica-2940828.jpg?tf=1200x' alt='Cuidado con algunas tarjetas gráficas vendidas como nuevas: provienen de las criptomonedas, con los chips pintados con pintura metálica' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/skyshowtime-datos-estreno-espana-sin-resolucion-4k-1191782'>SkyShowtime revela los primeros datos de su estreno en España, y hay una mala noticia</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/skyshowtime-datos-estreno-espana-sin-resolucion-4k-1191782' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/skyshowtime-revela-primeros-datos-estreno-espana-hay-mala-noticia-2940820.jpg?tf=1200x' alt='SkyShowtime revela los primeros datos de su estreno en España, y hay una mala noticia' />
     </a>
 </div>
 
