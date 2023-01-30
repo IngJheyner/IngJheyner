@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/moviles/samsung-galaxy-s23-filtra-imagenes-reales-diseno-especificaciones-1192292'>El Samsung Galaxy S23 se filtra en imágenes reales: así es su diseño y especificaciones</a></h4>
+    <a href='https://computerhoy.com/moviles/samsung-galaxy-s23-filtra-imagenes-reales-diseno-especificaciones-1192292' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/samsung-galaxy-s23-filtra-imagenes-reales-diseno-especificaciones-2941736.jpg?tf=1200x' alt='El Samsung Galaxy S23 se filtra en imágenes reales: así es su diseño y especificaciones' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apple/significado-i-productos-apple-steve-jobs-dio-conocer-pocos-recuerdan-1192370'>El significado de la “i” en los productos de Apple que Steve Jobs dio a conocer y que pocos recuerdan</a></h4>
     <a href='https://computerhoy.com/apple/significado-i-productos-apple-steve-jobs-dio-conocer-pocos-recuerdan-1192370' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/steve-jobs-2885457.jpg?tf=1200x' alt='El significado de la “i” en los productos de Apple que Steve Jobs dio a conocer y que pocos recuerdan' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/motor/xiaomi-ms11-coche-electrico-xiaomi-quiere-competir-tesla-1192286'>Xiaomi MS11: así es el coche eléctrico de Xiaomi que quiere competir con Tesla</a></h4>
     <a href='https://computerhoy.com/motor/xiaomi-ms11-coche-electrico-xiaomi-quiere-competir-tesla-1192286' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/xiaomi-ms11-2941074.jpg?tf=1200x' alt='Xiaomi MS11: así es el coche eléctrico de Xiaomi que quiere competir con Tesla' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/google-pixel-7-pro-mejor-alternativa-iphone-buen-descuento-1192304'>Google Pixel 7 Pro, la mejor alternativa al iPhone, con un buen descuento</a></h4>
-    <a href='https://computerhoy.com/moviles/google-pixel-7-pro-mejor-alternativa-iphone-buen-descuento-1192304' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/analisis-pixel-7-pro-2839677.jpg?tf=1200x' alt='Google Pixel 7 Pro, la mejor alternativa al iPhone, con un buen descuento' />
     </a>
 </div>
 
