@@ -50,9 +50,17 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/capsula-radioactiva-pierde-australia-puede-provocar-cancer-contacto-1191796'>Una cápsula radioactiva de tamaño de una moneda se pierde en Australia, puede provocar cáncer al contacto</a></h4>
+    <h4><a href='https://computerhoy.com/life/parking-subacuatico-bicicletas-amsterdam-video-1191800'>El primer parking subacuático de bicicletas del mundo abre sus puertas en Ámsterdam (vídeo)</a></h4>
+    <a href='https://computerhoy.com/life/parking-subacuatico-bicicletas-amsterdam-video-1191800' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/verticalimage1674956801926-2940632.jpg?tf=1200x' alt='El primer parking subacuático de bicicletas del mundo abre sus puertas en Ámsterdam (vídeo)' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/capsula-radioactiva-pierde-australia-puede-provocar-cancer-contacto-1191796'>Una cápsula radioactiva del tamaño de una moneda se pierde en Australia, puede provocar cáncer al contacto</a></h4>
     <a href='https://computerhoy.com/life/capsula-radioactiva-pierde-australia-puede-provocar-cancer-contacto-1191796' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/capsula-radioactiva-tamano-moneda-pierde-australia-puede-provocar-cancer-contacto-2940838.jpg?tf=1200x' alt='Una cápsula radioactiva de tamaño de una moneda se pierde en Australia, puede provocar cáncer al contacto' />
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/capsula-radioactiva-tamano-moneda-pierde-australia-puede-provocar-cancer-contacto-2940838.jpg?tf=1200x' alt='Una cápsula radioactiva del tamaño de una moneda se pierde en Australia, puede provocar cáncer al contacto' />
     </a>
 </div>
 
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/motor/robotaxis-problemas-policia-bomberos-san-francisco-1191772'>Los robotaxis están causando todo tipo de problemas a la policía y los bomberos en San Francisco</a></h4>
     <a href='https://computerhoy.com/motor/robotaxis-problemas-policia-bomberos-san-francisco-1191772' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/robotaxi-gm-cruise-2747457.jpg?tf=1200x' alt='Los robotaxis están causando todo tipo de problemas a la policía y los bomberos en San Francisco' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/estas-son-6-actividades-evitar-no-quieres-ser-baneado-whatsapp-1189318'>Estas son las 6 actividades que evitar si no quieres ser baneado de WhatsApp</a></h4>
-    <a href='https://computerhoy.com/tecnologia/estas-son-6-actividades-evitar-no-quieres-ser-baneado-whatsapp-1189318' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/whatsapp-2936752.jpg?tf=1200x' alt='Estas son las 6 actividades que evitar si no quieres ser baneado de WhatsApp' />
     </a>
 </div>
 
