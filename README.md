@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/android/no-instales-ninguna-estas-tres-apps-populares-play-store-seguridad-1191966'>No instales ninguna de estas tres apps populares de la Play Store por tu seguridad</a></h4>
+    <a href='https://computerhoy.com/android/no-instales-ninguna-estas-tres-apps-populares-play-store-seguridad-1191966' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/malware-android-2600973.jpg?tf=1200x' alt='No instales ninguna de estas tres apps populares de la Play Store por tu seguridad' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/google/nueva-ia-google-capaz-crear-cancion-solo-introducir-texto-tararear-ritmo-1191964'>La nueva IA de Google es capaz de crear una canción con solo introducir texto o tararear un ritmo</a></h4>
+    <a href='https://computerhoy.com/google/nueva-ia-google-capaz-crear-cancion-solo-introducir-texto-tararear-ritmo-1191964' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/nueva-ia-google-capaz-crear-cancion-solo-introducir-texto-tararear-ritmo-2941014.jpg?tf=1200x' alt='La nueva IA de Google es capaz de crear una canción con solo introducir texto o tararear un ritmo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/5-videojuegos-como-last-us-merecen-tener-serie-propia-1191446'>5 videojuegos que como The Last of Us merecen tener una serie propia</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/5-videojuegos-como-last-us-merecen-tener-serie-propia-1191446' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/5-videojuegos-como-last-us-merecen-tener-serie-propia-2940358.jpg?tf=1200x' alt='5 videojuegos que como The Last of Us merecen tener una serie propia' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/6-auriculares-cancelacion-ruido-hemos-probado-recomendamos-998463'>10 auriculares con cancelación de ruido que hemos probado y recomendamos</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/6-auriculares-cancelacion-ruido-hemos-probado-recomendamos-998463' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/analisis-nothing-ear-stick-2856259.jpg?tf=1200x' alt='10 auriculares con cancelación de ruido que hemos probado y recomendamos' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/google/como-ahorrar-energia-google-chrome-conseguir-mayor-autonomia-1191122'>Cómo ahorrar energía en Google Chrome y conseguir mayor autonomía</a></h4>
     <a href='https://computerhoy.com/google/como-ahorrar-energia-google-chrome-conseguir-mayor-autonomia-1191122' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/google-chrome-2897360.jpg?tf=1200x' alt='Cómo ahorrar energía en Google Chrome y conseguir mayor autonomía' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/34-noticias-tecnologia-comenzar-manana-informado-ultimo-1191940'>34 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
-    <a href='https://computerhoy.com/tecnologia/34-noticias-tecnologia-comenzar-manana-informado-ultimo-1191940' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/34-noticias-tecnologia-comenzar-manana-informado-ultimo-2940982.jpg?tf=1200x' alt='34 noticias de tecnología para comenzar la mañana informado de lo último' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/mac-mini-m2-merece-la-pena-mejor-ordenador-1190516'>Mac Mini M2 (2023): por qué es uno de los mejores ordenadores para comprar ahora mismo</a></h4>
-    <a href='https://computerhoy.com/tecnologia/mac-mini-m2-merece-la-pena-mejor-ordenador-1190516' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/analisis-mac-mini-m2-pro-2936054.jpg?tf=1200x' alt='Mac Mini M2 (2023): por qué es uno de los mejores ordenadores para comprar ahora mismo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/parking-subacuatico-bicicletas-amsterdam-video-1191800'>El primer parking subacuático de bicicletas del mundo abre sus puertas en Ámsterdam (vídeo)</a></h4>
-    <a href='https://computerhoy.com/life/parking-subacuatico-bicicletas-amsterdam-video-1191800' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/verticalimage1674956801926-2940632.jpg?tf=1200x' alt='El primer parking subacuático de bicicletas del mundo abre sus puertas en Ámsterdam (vídeo)' />
     </a>
 </div>
 
