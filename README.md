@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/mejores/auriculares-inalambricos-bluetooth-1182858'>Mejores auriculares inalámbricos que puedes comprar ahora mismo</a></h4>
+    <a href='https://computerhoy.com/mejores/auriculares-inalambricos-bluetooth-1182858' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/bose-quietcomfort-earbuds-ii-analisis-opinion-2934828.jpg?tf=1200x' alt='Mejores auriculares inalámbricos que puedes comprar ahora mismo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/audio/maquina-escuchar-musica-plantas-video-1192576'>La máquina para escuchar la música de las plantas (vídeo)</a></h4>
     <a href='https://computerhoy.com/audio/maquina-escuchar-musica-plantas-video-1192576' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/verticalimage1675119877216-2941750.jpg?tf=1200x' alt='La máquina para escuchar la música de las plantas (vídeo)' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/gaming/sony-fin-problemas-stock-campana-relanzamiento-ps5-1192384'>Sony da por terminados los problemas de stock, e inicia una campaña de relanzamiento de la PS5</a></h4>
     <a href='https://computerhoy.com/gaming/sony-fin-problemas-stock-campana-relanzamiento-ps5-1192384' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/sony-da-terminados-problemas-stock-inicia-campana-relanzamiento-ps5-2941728.jpg?tf=1200x' alt='Sony da por terminados los problemas de stock, e inicia una campaña de relanzamiento de la PS5' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/samsung-galaxy-s23-filtra-imagenes-reales-diseno-especificaciones-1192292'>El Samsung Galaxy S23 se filtra en imágenes reales: así es su diseño y especificaciones</a></h4>
-    <a href='https://computerhoy.com/moviles/samsung-galaxy-s23-filtra-imagenes-reales-diseno-especificaciones-1192292' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/samsung-galaxy-s23-filtra-imagenes-reales-diseno-especificaciones-2941736.jpg?tf=1200x' alt='El Samsung Galaxy S23 se filtra en imágenes reales: así es su diseño y especificaciones' />
     </a>
 </div>
 
