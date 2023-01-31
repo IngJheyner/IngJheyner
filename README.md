@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/industria/huawei-completamente-vetada-estados-unidos-ni-siquiera-tendra-acceso-chips-4g-1192844'>Huawei completamente vetada en Estados Unidos, ni siquiera tendrá acceso a chips 4G</a></h4>
+    <a href='https://computerhoy.com/industria/huawei-completamente-vetada-estados-unidos-ni-siquiera-tendra-acceso-chips-4g-1192844' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/logo-huawei-bandera-estados-unidos-2942416.jpg?tf=1200x' alt='Huawei completamente vetada en Estados Unidos, ni siquiera tendrá acceso a chips 4G' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/analisis/analisis-benq-gv30-proyector-portatil-esconde-secreto-1185676'>Análisis BenQ GV30, proyector portátil que esconde un secreto</a></h4>
     <a href='https://computerhoy.com/analisis/analisis-benq-gv30-proyector-portatil-esconde-secreto-1185676' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/benq-gv30-2942164.jpg?tf=1200x' alt='Análisis BenQ GV30, proyector portátil que esconde un secreto' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/inteligencia-artificial-tambien-gran-detective-encuentra-autores-obras-poemas-escritos-anonimos-1192750'>La inteligencia artificial también es un gran detective y encuentra los autores de obras, poemas y escritos anónimos</a></h4>
     <a href='https://computerhoy.com/tecnologia/inteligencia-artificial-tambien-gran-detective-encuentra-autores-obras-poemas-escritos-anonimos-1192750' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/inteligencia-artificial-tambien-sirve-como-detective-encuentra-autores-obras-poemas-escritos-anonimos-2942282.jpg?tf=1200x' alt='La inteligencia artificial también es un gran detective y encuentra los autores de obras, poemas y escritos anónimos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/criptos/recurre-nasa-perros-robot-recuperar-168-millones-euros-bitcoin-perdidos-vertedero-1192718'>Recurre a la NASA y perros robot para recuperar los 168 millones de euros en Bitcoin perdidos en un vertedero</a></h4>
-    <a href='https://computerhoy.com/criptos/recurre-nasa-perros-robot-recuperar-168-millones-euros-bitcoin-perdidos-vertedero-1192718' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/recurre-nasa-perros-robot-recuperar-168-millones-euros-bitcoin-perdidos-vertedero-2942238.jpg?tf=1200x' alt='Recurre a la NASA y perros robot para recuperar los 168 millones de euros en Bitcoin perdidos en un vertedero' />
     </a>
 </div>
 
