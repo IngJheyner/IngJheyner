@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/redes-sociales/twitter-deriva-elon-musk-quiere-convertir-red-social-banco-online-1192890'>Twitter a la deriva: Elon Musk quiere convertir a la red social en un banco online</a></h4>
+    <a href='https://computerhoy.com/redes-sociales/twitter-deriva-elon-musk-quiere-convertir-red-social-banco-online-1192890' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/fortuna-elon-musk-esfuma-twitter-tesla-son-agujero-perdidas-millonarias-2880111.jpg?tf=1200x' alt='Twitter a la deriva: Elon Musk quiere convertir a la red social en un banco online' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/listas/tecnologia/freidoras-sin-aceite-cual-comprar-509813'>Las mejores freidoras sin aceite que puedes comprar este año</a></h4>
     <a href='https://computerhoy.com/listas/tecnologia/freidoras-sin-aceite-cual-comprar-509813' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/philips-essential-airfryer-2916254.jpg?tf=1200x' alt='Las mejores freidoras sin aceite que puedes comprar este año' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/analisis/analisis-benq-gv30-proyector-portatil-esconde-secreto-1185676'>Análisis BenQ GV30, proyector portátil que esconde un secreto</a></h4>
     <a href='https://computerhoy.com/analisis/analisis-benq-gv30-proyector-portatil-esconde-secreto-1185676' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/benq-gv30-2942164.jpg?tf=1200x' alt='Análisis BenQ GV30, proyector portátil que esconde un secreto' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/gaming/tiene-sentido-feria-videojuegos-microsoft-nintendo-ni-sony-sera-e3-2023-1192792'>¿Tiene sentido una feria de videojuegos sin Microsoft, Nintendo ni Sony? Así será el E3 2023</a></h4>
-    <a href='https://computerhoy.com/gaming/tiene-sentido-feria-videojuegos-microsoft-nintendo-ni-sony-sera-e3-2023-1192792' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/e3-2021-2365189.jpg?tf=1200x' alt='¿Tiene sentido una feria de videojuegos sin Microsoft, Nintendo ni Sony? Así será el E3 2023' />
     </a>
 </div>
 
