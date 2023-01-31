@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/amazon-fire-tv-stick-4k-max-vs-fire-tv-stick-4k-diferencias-caracteristicas-precios-1192232'>Amazon Fire TV Stick 4K Max vs Fire TV Stick 4K: en qué se diferencian y cuál deberías comprar</a></h4>
+    <a href='https://computerhoy.com/tecnologia/amazon-fire-tv-stick-4k-max-vs-fire-tv-stick-4k-diferencias-caracteristicas-precios-1192232' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/analisis-amazon-fire-tv-cube-2022-2925922.jpg?tf=1200x' alt='Amazon Fire TV Stick 4K Max vs Fire TV Stick 4K: en qué se diferencian y cuál deberías comprar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/redes-sociales/twitter-ha-olvidado-recoger-miles-macbook-pro-empleados-recien-despedidos-1192262'>A Twitter se le ha olvidado recoger miles de MacBook Pro de sus empleados recién despedidos</a></h4>
+    <a href='https://computerhoy.com/redes-sociales/twitter-ha-olvidado-recoger-miles-macbook-pro-empleados-recien-despedidos-1192262' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/twitter-2915130.jpg?tf=1200x' alt='A Twitter se le ha olvidado recoger miles de MacBook Pro de sus empleados recién despedidos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/27-noticias-tecnologia-comenzar-manana-informado-ultimo-1192586'>27 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
+    <a href='https://computerhoy.com/tecnologia/27-noticias-tecnologia-comenzar-manana-informado-ultimo-1192586' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/27-noticias-tecnologia-comenzar-manana-informado-ultimo-2941924.jpg?tf=1200x' alt='27 noticias de tecnología para comenzar la mañana informado de lo último' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/mejores/auriculares-inalambricos-bluetooth-1182858'>Mejores auriculares inalámbricos que puedes comprar ahora mismo</a></h4>
     <a href='https://computerhoy.com/mejores/auriculares-inalambricos-bluetooth-1182858' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/bose-quietcomfort-earbuds-ii-analisis-opinion-2934828.jpg?tf=1200x' alt='Mejores auriculares inalámbricos que puedes comprar ahora mismo' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/audio/maquina-escuchar-musica-plantas-video-1192576'>La máquina para escuchar la música de las plantas (vídeo)</a></h4>
     <a href='https://computerhoy.com/audio/maquina-escuchar-musica-plantas-video-1192576' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/verticalimage1675119877216-2941750.jpg?tf=1200x' alt='La máquina para escuchar la música de las plantas (vídeo)' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/industria/glovo-despide-250-empleados-menor-consumo-inflacion-1192394'>Glovo despide a 250 empleados, afectada por el menor consumo provocado por la inflación</a></h4>
-    <a href='https://computerhoy.com/industria/glovo-despide-250-empleados-menor-consumo-inflacion-1192394' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/glovo-2351641.jpg?tf=1200x' alt='Glovo despide a 250 empleados, afectada por el menor consumo provocado por la inflación' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/mentira-acerca-video-antiguo-youtube-ha-sido-creado-2023-1192288'>La mentira acerca del vídeo más antiguo de YouTube: ha sido creado en 2023</a></h4>
-    <a href='https://computerhoy.com/internet/mentira-acerca-video-antiguo-youtube-ha-sido-creado-2023-1192288' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/youtube-2716325.jpg?tf=1200x' alt='La mentira acerca del vídeo más antiguo de YouTube: ha sido creado en 2023' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/gaming/sony-fin-problemas-stock-campana-relanzamiento-ps5-1192384'>Sony da por terminados los problemas de stock, e inicia una campaña de relanzamiento de la PS5</a></h4>
-    <a href='https://computerhoy.com/gaming/sony-fin-problemas-stock-campana-relanzamiento-ps5-1192384' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/sony-da-terminados-problemas-stock-inicia-campana-relanzamiento-ps5-2941728.jpg?tf=1200x' alt='Sony da por terminados los problemas de stock, e inicia una campaña de relanzamiento de la PS5' />
     </a>
 </div>
 
