@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/streaming/sera-netflix-gratuito-espana-incluira-todas-peliculas-filmoteca-espanola-1192892'>Así será el Netflix gratuito de España que incluirá todas las películas de la Filmoteca Española</a></h4>
+    <a href='https://computerhoy.com/streaming/sera-netflix-gratuito-espana-incluira-todas-peliculas-filmoteca-espanola-1192892' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/sala-cine-2942306.jpg?tf=1200x' alt='Así será el Netflix gratuito de España que incluirá todas las películas de la Filmoteca Española' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/estrenos-hbo-max-febrero-pobre-diablo-traitors-espana-1192992'>La nueva serie de Joaquín Reyes y Ernesto Sevilla, un reality de traiciones, y otros estrenos de febrero en HBO Max</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/estrenos-hbo-max-febrero-pobre-diablo-traitors-espana-1192992' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/nueva-serie-joaquin-reyes-ernesto-sevilla-reality-traiciones-otros-estrenos-febrero-hbo-max-2942748.jpg?tf=1200x' alt='La nueva serie de Joaquín Reyes y Ernesto Sevilla, un reality de traiciones, y otros estrenos de febrero en HBO Max' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/pc/creador-gmail-asegura-chatgpt-acabara-buscador-google-menos-dos-anos-1192976'>El creador de Gmail asegura que ChatGPT acabará con el buscador de Google en menos de dos años</a></h4>
+    <a href='https://computerhoy.com/pc/creador-gmail-asegura-chatgpt-acabara-buscador-google-menos-dos-anos-1192976' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/inteligencia-artificial-2942750.jpg?tf=1200x' alt='El creador de Gmail asegura que ChatGPT acabará con el buscador de Google en menos de dos años' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/streaming/netflix-aclara-condiciones-compartir-cuenta-pone-casi-imposible-vives-otra-casa-1192896'>Netflix aclara la condiciones para compartir cuenta, y lo pone casi imposible si vives en otra casa</a></h4>
     <a href='https://computerhoy.com/streaming/netflix-aclara-condiciones-compartir-cuenta-pone-casi-imposible-vives-otra-casa-1192896' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/te-cobrara-netflix-compartir-contrasena-anunciar-fin-primer-trimestre-2023-2933368.jpg?tf=1200x' alt='Netflix aclara la condiciones para compartir cuenta, y lo pone casi imposible si vives en otra casa' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/apple/regla-3-marco-camino-exito-steve-jobs-1192974'>La regla del 3 que marcó el camino del éxito a Steve Jobs</a></h4>
     <a href='https://computerhoy.com/apple/regla-3-marco-camino-exito-steve-jobs-1192974' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/steve-jobs-2924018.jpg?tf=1200x' alt='La regla del 3 que marcó el camino del éxito a Steve Jobs' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/streaming/dc-anuncia-ambicioso-nuevo-universo-peliculas-plantara-cara-marvel-1192960'>DC anuncia su ambicioso nuevo universo de películas que plantará cara a Marvel</a></h4>
-    <a href='https://computerhoy.com/streaming/dc-anuncia-ambicioso-nuevo-universo-peliculas-plantara-cara-marvel-1192960' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/grandes-superheroes-dc-comics-2907146.jpg?tf=1200x' alt='DC anuncia su ambicioso nuevo universo de películas que plantará cara a Marvel' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/redes-sociales/twitter-deriva-elon-musk-quiere-convertir-red-social-banco-online-1192890'>Twitter a la deriva: Elon Musk quiere convertir a la red social en un banco online</a></h4>
-    <a href='https://computerhoy.com/redes-sociales/twitter-deriva-elon-musk-quiere-convertir-red-social-banco-online-1192890' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/fortuna-elon-musk-esfuma-twitter-tesla-son-agujero-perdidas-millonarias-2880111.jpg?tf=1200x' alt='Twitter a la deriva: Elon Musk quiere convertir a la red social en un banco online' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/listas/tecnologia/freidoras-sin-aceite-cual-comprar-509813'>Las mejores freidoras sin aceite que puedes comprar este año</a></h4>
-    <a href='https://computerhoy.com/listas/tecnologia/freidoras-sin-aceite-cual-comprar-509813' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/philips-essential-airfryer-2916254.jpg?tf=1200x' alt='Las mejores freidoras sin aceite que puedes comprar este año' />
     </a>
 </div>
 
