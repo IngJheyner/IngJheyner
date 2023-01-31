@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/espacio/galileo-ya-preciso-gps-como-saber-movil-compatible-como-activarlo-1192700'>Galileo ya es más preciso que GPS: cómo saber si tu móvil es compatible y cómo activarlo</a></h4>
+    <a href='https://computerhoy.com/espacio/galileo-ya-preciso-gps-como-saber-movil-compatible-como-activarlo-1192700' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/imagen-satelite-galileo-2942156.jpg?tf=1200x' alt='Galileo ya es más preciso que GPS: cómo saber si tu móvil es compatible y cómo activarlo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/deepfakes-imitan-voces-famosos-crear-audios-comentarios-violentos-ultima-moda-4chan-1192702'>Deepfakes que imitan voces de famosos para crear audios con comentarios violentos, la última moda en 4chan</a></h4>
+    <a href='https://computerhoy.com/tecnologia/deepfakes-imitan-voces-famosos-crear-audios-comentarios-violentos-ultima-moda-4chan-1192702' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/deepfakes-imitar-voces-famosos-crear-audios-comentarios-violentos-ultima-moda-4chan-2942192.jpg?tf=1200x' alt='Deepfakes que imitan voces de famosos para crear audios con comentarios violentos, la última moda en 4chan' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apps/mejores-juegos-realidad-aumentada-hay-android-2023-1192636'>Los mejores juegos de realidad aumentada que hay para Android en 2023</a></h4>
     <a href='https://computerhoy.com/apps/mejores-juegos-realidad-aumentada-hay-android-2023-1192636' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/pokemon-go-2942140.jpg?tf=1200x' alt='Los mejores juegos de realidad aumentada que hay para Android en 2023' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/snapdragon-8-gen-2-prueba-rinde-dura-bateria-frente-snapdragon-8-8-gen-1-mejora-todo-1192626'>Snapdragon 8 Gen 2 a prueba: así rinde y dura la batería frente al Snapdragon 8 y 8+ Gen 1, mejora en todo</a></h4>
     <a href='https://computerhoy.com/tecnologia/snapdragon-8-gen-2-prueba-rinde-dura-bateria-frente-snapdragon-8-8-gen-1-mejora-todo-1192626' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/snapdragon-8-gen-2-vs-8-gen-1-vs-8-gen-1-chipset-insignia-2023-qualcomm-lleva-calle-2942036.jpg?tf=1200x' alt='Snapdragon 8 Gen 2 a prueba: así rinde y dura la batería frente al Snapdragon 8 y 8+ Gen 1, mejora en todo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/nothing-ear-stick-oferta-diseno-original-1192028'>La originalidad por bandera: estos auriculares en oferta llaman la atención y suenan sorprendentemente bien</a></h4>
-    <a href='https://computerhoy.com/tecnologia/nothing-ear-stick-oferta-diseno-original-1192028' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/analisis-nothing-ear-stick-2856241.jpg?tf=1200x' alt='La originalidad por bandera: estos auriculares en oferta llaman la atención y suenan sorprendentemente bien' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/vemos-samsung-galaxy-s23-ultra-primera-vez-accion-1192630'>Vemos el Samsung Galaxy S23 Ultra por primera vez en acción</a></h4>
-    <a href='https://computerhoy.com/moviles/vemos-samsung-galaxy-s23-ultra-primera-vez-accion-1192630' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/galeria-review-galaxy-s22-ultra-2620965.jpg?tf=1200x' alt='Vemos el Samsung Galaxy S23 Ultra por primera vez en acción' />
     </a>
 </div>
 
