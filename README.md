@@ -50,9 +50,17 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/nothing-ear-stick-oferta-diseno-original-1192028'>La originalidad por bandera: estos auriculares en oferta llaman la atención y suenan sorprendentemente bien</a></h4>
+    <a href='https://computerhoy.com/tecnologia/nothing-ear-stick-oferta-diseno-original-1192028' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/analisis-nothing-ear-stick-2856241.jpg?tf=1200x' alt='La originalidad por bandera: estos auriculares en oferta llaman la atención y suenan sorprendentemente bien' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/moviles/vemos-samsung-galaxy-s23-ultra-primera-vez-accion-1192630'>Vemos el Samsung Galaxy S23 Ultra por primera vez en acción</a></h4>
     <a href='https://computerhoy.com/moviles/vemos-samsung-galaxy-s23-ultra-primera-vez-accion-1192630' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/galaxy-s23-ultra-2935692.jpg?tf=1200x' alt='Vemos el Samsung Galaxy S23 Ultra por primera vez en acción' />
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/galeria-review-galaxy-s22-ultra-2620965.jpg?tf=1200x' alt='Vemos el Samsung Galaxy S23 Ultra por primera vez en acción' />
     </a>
 </div>
 
@@ -66,9 +74,9 @@
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/adios-windows-10-microsoft-comienza-extincion-deja-vender-licencias-sistema-operativo-1192602'>Adiós a Windows 10: Microsoft comienza su extinción y deja de vender licencias del sistema operativo</a></h4>
+    <h4><a href='https://computerhoy.com/windows/adios-windows-10-microsoft-comienza-extincion-deja-vender-licencias-sistema-operativo-1192602'>Microsoft quiere que des el salto a Windows 11 y dice adiós a las licencias de Windows 10 desde hoy mismo</a></h4>
     <a href='https://computerhoy.com/windows/adios-windows-10-microsoft-comienza-extincion-deja-vender-licencias-sistema-operativo-1192602' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/adios-windows-10-microsoft-comienza-extincion-deja-vender-licencias-sistema-operativo-2941952.jpg?tf=1200x' alt='Adiós a Windows 10: Microsoft comienza su extinción y deja de vender licencias del sistema operativo' />
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/adios-windows-10-microsoft-comienza-extincion-deja-vender-licencias-sistema-operativo-2941952.jpg?tf=1200x' alt='Microsoft quiere que des el salto a Windows 11 y dice adiós a las licencias de Windows 10 desde hoy mismo' />
     </a>
 </div>
 
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/apple/detector-colisiones-iphone-sigue-emitiendo-llamadas-falsas-deberia-apple-retirar-funcion-1192310'>El detector de colisiones del iPhone sigue emitiendo llamadas falsas, ¿debería Apple retirar la función?</a></h4>
     <a href='https://computerhoy.com/apple/detector-colisiones-iphone-sigue-emitiendo-llamadas-falsas-deberia-apple-retirar-funcion-1192310' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/detector-colisiones-iphone-sigue-emitiendo-llamadas-falsas-deberian-retirar-funcion-2941622.jpg?tf=1200x' alt='El detector de colisiones del iPhone sigue emitiendo llamadas falsas, ¿debería Apple retirar la función?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/amazon-fire-tv-stick-4k-max-vs-fire-tv-stick-4k-diferencias-caracteristicas-precios-1192232'>Amazon Fire TV Stick 4K Max vs Fire TV Stick 4K: en qué se diferencian y cuál deberías comprar</a></h4>
-    <a href='https://computerhoy.com/tecnologia/amazon-fire-tv-stick-4k-max-vs-fire-tv-stick-4k-diferencias-caracteristicas-precios-1192232' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/analisis-amazon-fire-tv-cube-2022-2925922.jpg?tf=1200x' alt='Amazon Fire TV Stick 4K Max vs Fire TV Stick 4K: en qué se diferencian y cuál deberías comprar' />
     </a>
 </div>
 
