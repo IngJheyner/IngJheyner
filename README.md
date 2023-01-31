@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/nueva-bateria-gravedad-podria-almacenar-energia-vida-1192760'>Así es la nueva batería de gravedad que podría almacenar energía de por vida</a></h4>
+    <a href='https://computerhoy.com/ciencia/nueva-bateria-gravedad-podria-almacenar-energia-vida-1192760' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/bateria-electrica-2942290.jpg?tf=1200x' alt='Así es la nueva batería de gravedad que podría almacenar energía de por vida' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/inteligencia-artificial-tambien-gran-detective-encuentra-autores-obras-poemas-escritos-anonimos-1192750'>La inteligencia artificial también es un gran detective y encuentra los autores de obras, poemas y escritos anónimos</a></h4>
+    <a href='https://computerhoy.com/tecnologia/inteligencia-artificial-tambien-gran-detective-encuentra-autores-obras-poemas-escritos-anonimos-1192750' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/inteligencia-artificial-tambien-sirve-como-detective-encuentra-autores-obras-poemas-escritos-anonimos-2942282.jpg?tf=1200x' alt='La inteligencia artificial también es un gran detective y encuentra los autores de obras, poemas y escritos anónimos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/criptos/recurre-nasa-perros-robot-recuperar-168-millones-euros-bitcoin-perdidos-vertedero-1192718'>Recurre a la NASA y perros robot para recuperar los 168 millones de euros en Bitcoin perdidos en un vertedero</a></h4>
     <a href='https://computerhoy.com/criptos/recurre-nasa-perros-robot-recuperar-168-millones-euros-bitcoin-perdidos-vertedero-1192718' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/recurre-nasa-perros-robot-recuperar-168-millones-euros-bitcoin-perdidos-vertedero-2942238.jpg?tf=1200x' alt='Recurre a la NASA y perros robot para recuperar los 168 millones de euros en Bitcoin perdidos en un vertedero' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/deepfakes-imitan-voces-famosos-crear-audios-comentarios-violentos-ultima-moda-4chan-1192702'>Deepfakes que imitan voces de famosos para crear audios con comentarios violentos, la última moda en 4chan</a></h4>
     <a href='https://computerhoy.com/tecnologia/deepfakes-imitan-voces-famosos-crear-audios-comentarios-violentos-ultima-moda-4chan-1192702' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/deepfakes-imitar-voces-famosos-crear-audios-comentarios-violentos-ultima-moda-4chan-2942192.jpg?tf=1200x' alt='Deepfakes que imitan voces de famosos para crear audios con comentarios violentos, la última moda en 4chan' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/mejores-juegos-realidad-aumentada-hay-android-2023-1192636'>Los mejores juegos de realidad aumentada que hay para Android en 2023</a></h4>
-    <a href='https://computerhoy.com/apps/mejores-juegos-realidad-aumentada-hay-android-2023-1192636' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/pokemon-go-2942140.jpg?tf=1200x' alt='Los mejores juegos de realidad aumentada que hay para Android en 2023' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/gaming/stock-playstation-5-digital-envio-rapido-1192698'>Stock de PlayStation 5 en Amazon, sin invitación y con envío en 24 horas: corre, que van a volar</a></h4>
-    <a href='https://computerhoy.com/gaming/stock-playstation-5-digital-envio-rapido-1192698' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/11/analisis-ps5-computerhoy-2140407.jpg?tf=1200x' alt='Stock de PlayStation 5 en Amazon, sin invitación y con envío en 24 horas: corre, que van a volar' />
     </a>
 </div>
 
