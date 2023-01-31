@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/mejores-juegos-realidad-aumentada-hay-android-2023-1192636'>Los mejores juegos de realidad aumentada que hay para Android en 2023</a></h4>
+    <a href='https://computerhoy.com/apps/mejores-juegos-realidad-aumentada-hay-android-2023-1192636' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/pokemon-go-2942140.jpg?tf=1200x' alt='Los mejores juegos de realidad aumentada que hay para Android en 2023' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/gaming/stock-playstation-5-digital-envio-rapido-1192698'>Stock de PlayStation 5 en Amazon, sin invitación y con envío en 24 horas: corre, que van a volar</a></h4>
+    <a href='https://computerhoy.com/gaming/stock-playstation-5-digital-envio-rapido-1192698' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/11/analisis-ps5-computerhoy-2140407.jpg?tf=1200x' alt='Stock de PlayStation 5 en Amazon, sin invitación y con envío en 24 horas: corre, que van a volar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/snapdragon-8-gen-2-prueba-rinde-dura-bateria-frente-snapdragon-8-8-gen-1-mejora-todo-1192626'>Snapdragon 8 Gen 2 a prueba: así rinde y dura la batería frente al Snapdragon 8 y 8+ Gen 1, mejora en todo</a></h4>
+    <a href='https://computerhoy.com/tecnologia/snapdragon-8-gen-2-prueba-rinde-dura-bateria-frente-snapdragon-8-8-gen-1-mejora-todo-1192626' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/snapdragon-8-gen-2-vs-8-gen-1-vs-8-gen-1-chipset-insignia-2023-qualcomm-lleva-calle-2942036.jpg?tf=1200x' alt='Snapdragon 8 Gen 2 a prueba: así rinde y dura la batería frente al Snapdragon 8 y 8+ Gen 1, mejora en todo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/nothing-ear-stick-oferta-diseno-original-1192028'>La originalidad por bandera: estos auriculares en oferta llaman la atención y suenan sorprendentemente bien</a></h4>
     <a href='https://computerhoy.com/tecnologia/nothing-ear-stick-oferta-diseno-original-1192028' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/analisis-nothing-ear-stick-2856241.jpg?tf=1200x' alt='La originalidad por bandera: estos auriculares en oferta llaman la atención y suenan sorprendentemente bien' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/moviles/vemos-samsung-galaxy-s23-ultra-primera-vez-accion-1192630'>Vemos el Samsung Galaxy S23 Ultra por primera vez en acción</a></h4>
     <a href='https://computerhoy.com/moviles/vemos-samsung-galaxy-s23-ultra-primera-vez-accion-1192630' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/galeria-review-galaxy-s22-ultra-2620965.jpg?tf=1200x' alt='Vemos el Samsung Galaxy S23 Ultra por primera vez en acción' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/7-trucos-outlook-te-facilitaran-dia-dia-1190508'>Los 7 trucos de Outlook que te facilitarán el día a día</a></h4>
-    <a href='https://computerhoy.com/tecnologia/7-trucos-outlook-te-facilitaran-dia-dia-1190508' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/outlook-2938576.jpg?tf=1200x' alt='Los 7 trucos de Outlook que te facilitarán el día a día' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/adios-windows-10-microsoft-comienza-extincion-deja-vender-licencias-sistema-operativo-1192602'>Microsoft quiere que des el salto a Windows 11 y dice adiós a las licencias de Windows 10 desde hoy mismo</a></h4>
-    <a href='https://computerhoy.com/windows/adios-windows-10-microsoft-comienza-extincion-deja-vender-licencias-sistema-operativo-1192602' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/adios-windows-10-microsoft-comienza-extincion-deja-vender-licencias-sistema-operativo-2941952.jpg?tf=1200x' alt='Microsoft quiere que des el salto a Windows 11 y dice adiós a las licencias de Windows 10 desde hoy mismo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/detector-colisiones-iphone-sigue-emitiendo-llamadas-falsas-deberia-apple-retirar-funcion-1192310'>El detector de colisiones del iPhone sigue emitiendo llamadas falsas, ¿debería Apple retirar la función?</a></h4>
-    <a href='https://computerhoy.com/apple/detector-colisiones-iphone-sigue-emitiendo-llamadas-falsas-deberia-apple-retirar-funcion-1192310' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/detector-colisiones-iphone-sigue-emitiendo-llamadas-falsas-deberian-retirar-funcion-2941622.jpg?tf=1200x' alt='El detector de colisiones del iPhone sigue emitiendo llamadas falsas, ¿debería Apple retirar la función?' />
     </a>
 </div>
 
