@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/audio/maquina-escuchar-musica-plantas-video-1192576'>La máquina para escuchar la música de las plantas (vídeo)</a></h4>
+    <a href='https://computerhoy.com/audio/maquina-escuchar-musica-plantas-video-1192576' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/verticalimage1675119877216-2941750.jpg?tf=1200x' alt='La máquina para escuchar la música de las plantas (vídeo)' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/industria/glovo-despide-250-empleados-menor-consumo-inflacion-1192394'>Glovo despide a 250 empleados, afectada por el menor consumo provocado por la inflación</a></h4>
     <a href='https://computerhoy.com/industria/glovo-despide-250-empleados-menor-consumo-inflacion-1192394' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/glovo-2351641.jpg?tf=1200x' alt='Glovo despide a 250 empleados, afectada por el menor consumo provocado por la inflación' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/moviles/samsung-galaxy-s23-filtra-imagenes-reales-diseno-especificaciones-1192292'>El Samsung Galaxy S23 se filtra en imágenes reales: así es su diseño y especificaciones</a></h4>
     <a href='https://computerhoy.com/moviles/samsung-galaxy-s23-filtra-imagenes-reales-diseno-especificaciones-1192292' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/samsung-galaxy-s23-filtra-imagenes-reales-diseno-especificaciones-2941736.jpg?tf=1200x' alt='El Samsung Galaxy S23 se filtra en imágenes reales: así es su diseño y especificaciones' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/significado-i-productos-apple-steve-jobs-dio-conocer-pocos-recuerdan-1192370'>El significado de la “i” en los productos de Apple que Steve Jobs dio a conocer y que pocos recuerdan</a></h4>
-    <a href='https://computerhoy.com/apple/significado-i-productos-apple-steve-jobs-dio-conocer-pocos-recuerdan-1192370' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/steve-jobs-2885457.jpg?tf=1200x' alt='El significado de la “i” en los productos de Apple que Steve Jobs dio a conocer y que pocos recuerdan' />
     </a>
 </div>
 
