@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/criptos/recurre-nasa-perros-robot-recuperar-168-millones-euros-bitcoin-perdidos-vertedero-1192718'>Recurre a la NASA y perros robot para recuperar los 168 millones de euros en Bitcoin perdidos en un vertedero</a></h4>
+    <a href='https://computerhoy.com/criptos/recurre-nasa-perros-robot-recuperar-168-millones-euros-bitcoin-perdidos-vertedero-1192718' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/recurre-nasa-perros-robot-recuperar-168-millones-euros-bitcoin-perdidos-vertedero-2942238.jpg?tf=1200x' alt='Recurre a la NASA y perros robot para recuperar los 168 millones de euros en Bitcoin perdidos en un vertedero' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/espacio/galileo-ya-preciso-gps-como-saber-movil-compatible-como-activarlo-1192700'>Galileo ya es más preciso que GPS: cómo saber si tu móvil es compatible y cómo activarlo</a></h4>
     <a href='https://computerhoy.com/espacio/galileo-ya-preciso-gps-como-saber-movil-compatible-como-activarlo-1192700' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/imagen-satelite-galileo-2942156.jpg?tf=1200x' alt='Galileo ya es más preciso que GPS: cómo saber si tu móvil es compatible y cómo activarlo' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/gaming/stock-playstation-5-digital-envio-rapido-1192698'>Stock de PlayStation 5 en Amazon, sin invitación y con envío en 24 horas: corre, que van a volar</a></h4>
     <a href='https://computerhoy.com/gaming/stock-playstation-5-digital-envio-rapido-1192698' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/11/analisis-ps5-computerhoy-2140407.jpg?tf=1200x' alt='Stock de PlayStation 5 en Amazon, sin invitación y con envío en 24 horas: corre, que van a volar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/snapdragon-8-gen-2-prueba-rinde-dura-bateria-frente-snapdragon-8-8-gen-1-mejora-todo-1192626'>Snapdragon 8 Gen 2 a prueba: así rinde y dura la batería frente al Snapdragon 8 y 8+ Gen 1, mejora en todo</a></h4>
-    <a href='https://computerhoy.com/tecnologia/snapdragon-8-gen-2-prueba-rinde-dura-bateria-frente-snapdragon-8-8-gen-1-mejora-todo-1192626' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/snapdragon-8-gen-2-vs-8-gen-1-vs-8-gen-1-chipset-insignia-2023-qualcomm-lleva-calle-2942036.jpg?tf=1200x' alt='Snapdragon 8 Gen 2 a prueba: así rinde y dura la batería frente al Snapdragon 8 y 8+ Gen 1, mejora en todo' />
     </a>
 </div>
 
