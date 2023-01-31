@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/industria/glovo-despide-250-empleados-menor-consumo-inflacion-1192394'>Glovo despide a 250 empleados, afectada por el menor consumo provocado por la inflación</a></h4>
+    <a href='https://computerhoy.com/industria/glovo-despide-250-empleados-menor-consumo-inflacion-1192394' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/glovo-2351641.jpg?tf=1200x' alt='Glovo despide a 250 empleados, afectada por el menor consumo provocado por la inflación' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/internet/mentira-acerca-video-antiguo-youtube-ha-sido-creado-2023-1192288'>La mentira acerca del vídeo más antiguo de YouTube: ha sido creado en 2023</a></h4>
     <a href='https://computerhoy.com/internet/mentira-acerca-video-antiguo-youtube-ha-sido-creado-2023-1192288' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/youtube-2716325.jpg?tf=1200x' alt='La mentira acerca del vídeo más antiguo de YouTube: ha sido creado en 2023' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/apple/significado-i-productos-apple-steve-jobs-dio-conocer-pocos-recuerdan-1192370'>El significado de la “i” en los productos de Apple que Steve Jobs dio a conocer y que pocos recuerdan</a></h4>
     <a href='https://computerhoy.com/apple/significado-i-productos-apple-steve-jobs-dio-conocer-pocos-recuerdan-1192370' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/steve-jobs-2885457.jpg?tf=1200x' alt='El significado de la “i” en los productos de Apple que Steve Jobs dio a conocer y que pocos recuerdan' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/google-chrome-ultimatum-no-utilices-navegador-algunos-ordenadores-1192368'>Google Chrome y su ultimátum para que no utilices el navegador en algunos ordenadores</a></h4>
-    <a href='https://computerhoy.com/google/google-chrome-ultimatum-no-utilices-navegador-algunos-ordenadores-1192368' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/11/windows-7-chrome-2143329.jpg?tf=1200x' alt='Google Chrome y su ultimátum para que no utilices el navegador en algunos ordenadores' />
     </a>
 </div>
 
