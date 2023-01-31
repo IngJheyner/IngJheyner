@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/moviles/vemos-samsung-galaxy-s23-ultra-primera-vez-accion-1192630'>Vemos el Samsung Galaxy S23 Ultra por primera vez en acción</a></h4>
+    <a href='https://computerhoy.com/moviles/vemos-samsung-galaxy-s23-ultra-primera-vez-accion-1192630' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/galaxy-s23-ultra-2935692.jpg?tf=1200x' alt='Vemos el Samsung Galaxy S23 Ultra por primera vez en acción' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/7-trucos-outlook-te-facilitaran-dia-dia-1190508'>Los 7 trucos de Outlook que te facilitarán el día a día</a></h4>
+    <a href='https://computerhoy.com/tecnologia/7-trucos-outlook-te-facilitaran-dia-dia-1190508' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/outlook-2938576.jpg?tf=1200x' alt='Los 7 trucos de Outlook que te facilitarán el día a día' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/windows/adios-windows-10-microsoft-comienza-extincion-deja-vender-licencias-sistema-operativo-1192602'>Adiós a Windows 10: Microsoft comienza su extinción y deja de vender licencias del sistema operativo</a></h4>
+    <a href='https://computerhoy.com/windows/adios-windows-10-microsoft-comienza-extincion-deja-vender-licencias-sistema-operativo-1192602' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/adios-windows-10-microsoft-comienza-extincion-deja-vender-licencias-sistema-operativo-2941952.jpg?tf=1200x' alt='Adiós a Windows 10: Microsoft comienza su extinción y deja de vender licencias del sistema operativo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/detector-colisiones-iphone-sigue-emitiendo-llamadas-falsas-deberia-apple-retirar-funcion-1192310'>El detector de colisiones del iPhone sigue emitiendo llamadas falsas, ¿debería Apple retirar la función?</a></h4>
+    <a href='https://computerhoy.com/apple/detector-colisiones-iphone-sigue-emitiendo-llamadas-falsas-deberia-apple-retirar-funcion-1192310' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/detector-colisiones-iphone-sigue-emitiendo-llamadas-falsas-deberian-retirar-funcion-2941622.jpg?tf=1200x' alt='El detector de colisiones del iPhone sigue emitiendo llamadas falsas, ¿debería Apple retirar la función?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/amazon-fire-tv-stick-4k-max-vs-fire-tv-stick-4k-diferencias-caracteristicas-precios-1192232'>Amazon Fire TV Stick 4K Max vs Fire TV Stick 4K: en qué se diferencian y cuál deberías comprar</a></h4>
     <a href='https://computerhoy.com/tecnologia/amazon-fire-tv-stick-4k-max-vs-fire-tv-stick-4k-diferencias-caracteristicas-precios-1192232' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/analisis-amazon-fire-tv-cube-2022-2925922.jpg?tf=1200x' alt='Amazon Fire TV Stick 4K Max vs Fire TV Stick 4K: en qué se diferencian y cuál deberías comprar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/redes-sociales/twitter-ha-olvidado-recoger-miles-macbook-pro-empleados-recien-despedidos-1192262'>A Twitter se le ha olvidado recoger miles de MacBook Pro de sus empleados recién despedidos</a></h4>
-    <a href='https://computerhoy.com/redes-sociales/twitter-ha-olvidado-recoger-miles-macbook-pro-empleados-recien-despedidos-1192262' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/twitter-2915130.jpg?tf=1200x' alt='A Twitter se le ha olvidado recoger miles de MacBook Pro de sus empleados recién despedidos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/27-noticias-tecnologia-comenzar-manana-informado-ultimo-1192586'>27 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
-    <a href='https://computerhoy.com/tecnologia/27-noticias-tecnologia-comenzar-manana-informado-ultimo-1192586' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/27-noticias-tecnologia-comenzar-manana-informado-ultimo-2941924.jpg?tf=1200x' alt='27 noticias de tecnología para comenzar la mañana informado de lo último' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/mejores/auriculares-inalambricos-bluetooth-1182858'>Mejores auriculares inalámbricos que puedes comprar ahora mismo</a></h4>
-    <a href='https://computerhoy.com/mejores/auriculares-inalambricos-bluetooth-1182858' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/bose-quietcomfort-earbuds-ii-analisis-opinion-2934828.jpg?tf=1200x' alt='Mejores auriculares inalámbricos que puedes comprar ahora mismo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/audio/maquina-escuchar-musica-plantas-video-1192576'>La máquina para escuchar la música de las plantas (vídeo)</a></h4>
-    <a href='https://computerhoy.com/audio/maquina-escuchar-musica-plantas-video-1192576' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/verticalimage1675119877216-2941750.jpg?tf=1200x' alt='La máquina para escuchar la música de las plantas (vídeo)' />
     </a>
 </div>
 
