@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/listas/tecnologia/freidoras-sin-aceite-cual-comprar-509813'>Las mejores freidoras sin aceite que puedes comprar este año</a></h4>
+    <a href='https://computerhoy.com/listas/tecnologia/freidoras-sin-aceite-cual-comprar-509813' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/philips-essential-airfryer-2916254.jpg?tf=1200x' alt='Las mejores freidoras sin aceite que puedes comprar este año' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/descubren-antartida-enorme-meteorito-materiales-millones-anos-antiguedad-1192894'>Descubren en la Antártida un enorme meteorito con materiales con millones de años de antigüedad</a></h4>
+    <a href='https://computerhoy.com/ciencia/descubren-antartida-enorme-meteorito-materiales-millones-anos-antiguedad-1192894' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/descubren-antartida-enorme-meteorito-materiales-millones-anos-antiguedad-2942564.jpg?tf=1200x' alt='Descubren en la Antártida un enorme meteorito con materiales con millones de años de antigüedad' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/industria/huawei-completamente-vetada-estados-unidos-ni-siquiera-tendra-acceso-chips-4g-1192844'>Huawei completamente vetada en Estados Unidos, ni siquiera tendrá acceso a chips 4G</a></h4>
     <a href='https://computerhoy.com/industria/huawei-completamente-vetada-estados-unidos-ni-siquiera-tendra-acceso-chips-4g-1192844' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/logo-huawei-bandera-estados-unidos-2942416.jpg?tf=1200x' alt='Huawei completamente vetada en Estados Unidos, ni siquiera tendrá acceso a chips 4G' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/gaming/tiene-sentido-feria-videojuegos-microsoft-nintendo-ni-sony-sera-e3-2023-1192792'>¿Tiene sentido una feria de videojuegos sin Microsoft, Nintendo ni Sony? Así será el E3 2023</a></h4>
     <a href='https://computerhoy.com/gaming/tiene-sentido-feria-videojuegos-microsoft-nintendo-ni-sony-sera-e3-2023-1192792' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/e3-2021-2365189.jpg?tf=1200x' alt='¿Tiene sentido una feria de videojuegos sin Microsoft, Nintendo ni Sony? Así será el E3 2023' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/nueva-bateria-gravedad-podria-almacenar-energia-vida-1192760'>Así es la nueva batería de gravedad que podría almacenar energía de por vida</a></h4>
-    <a href='https://computerhoy.com/ciencia/nueva-bateria-gravedad-podria-almacenar-energia-vida-1192760' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/bateria-electrica-2942290.jpg?tf=1200x' alt='Así es la nueva batería de gravedad que podría almacenar energía de por vida' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/inteligencia-artificial-tambien-gran-detective-encuentra-autores-obras-poemas-escritos-anonimos-1192750'>La inteligencia artificial también es un gran detective y encuentra los autores de obras, poemas y escritos anónimos</a></h4>
-    <a href='https://computerhoy.com/tecnologia/inteligencia-artificial-tambien-gran-detective-encuentra-autores-obras-poemas-escritos-anonimos-1192750' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/inteligencia-artificial-tambien-sirve-como-detective-encuentra-autores-obras-poemas-escritos-anonimos-2942282.jpg?tf=1200x' alt='La inteligencia artificial también es un gran detective y encuentra los autores de obras, poemas y escritos anónimos' />
     </a>
 </div>
 
