@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/streaming/netflix-aclara-condiciones-compartir-cuenta-pone-casi-imposible-vives-otra-casa-1192896'>Netflix aclara la condiciones para compartir cuenta, y lo pone casi imposible si vives en otra casa</a></h4>
+    <a href='https://computerhoy.com/streaming/netflix-aclara-condiciones-compartir-cuenta-pone-casi-imposible-vives-otra-casa-1192896' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/te-cobrara-netflix-compartir-contrasena-anunciar-fin-primer-trimestre-2023-2933368.jpg?tf=1200x' alt='Netflix aclara la condiciones para compartir cuenta, y lo pone casi imposible si vives en otra casa' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/regla-3-marco-camino-exito-steve-jobs-1192974'>La regla del 3 que marcó el camino del éxito a Steve Jobs</a></h4>
+    <a href='https://computerhoy.com/apple/regla-3-marco-camino-exito-steve-jobs-1192974' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/steve-jobs-2924018.jpg?tf=1200x' alt='La regla del 3 que marcó el camino del éxito a Steve Jobs' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/streaming/dc-anuncia-ambicioso-nuevo-universo-peliculas-plantara-cara-marvel-1192960'>DC anuncia su ambicioso nuevo universo de películas que plantará cara a Marvel</a></h4>
+    <a href='https://computerhoy.com/streaming/dc-anuncia-ambicioso-nuevo-universo-peliculas-plantara-cara-marvel-1192960' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/grandes-superheroes-dc-comics-2907146.jpg?tf=1200x' alt='DC anuncia su ambicioso nuevo universo de películas que plantará cara a Marvel' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/redes-sociales/twitter-deriva-elon-musk-quiere-convertir-red-social-banco-online-1192890'>Twitter a la deriva: Elon Musk quiere convertir a la red social en un banco online</a></h4>
     <a href='https://computerhoy.com/redes-sociales/twitter-deriva-elon-musk-quiere-convertir-red-social-banco-online-1192890' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/fortuna-elon-musk-esfuma-twitter-tesla-son-agujero-perdidas-millonarias-2880111.jpg?tf=1200x' alt='Twitter a la deriva: Elon Musk quiere convertir a la red social en un banco online' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/listas/tecnologia/freidoras-sin-aceite-cual-comprar-509813'>Las mejores freidoras sin aceite que puedes comprar este año</a></h4>
     <a href='https://computerhoy.com/listas/tecnologia/freidoras-sin-aceite-cual-comprar-509813' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/philips-essential-airfryer-2916254.jpg?tf=1200x' alt='Las mejores freidoras sin aceite que puedes comprar este año' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/descubren-antartida-enorme-meteorito-materiales-millones-anos-antiguedad-1192894'>Descubren en la Antártida un enorme meteorito con materiales con millones de años de antigüedad</a></h4>
-    <a href='https://computerhoy.com/ciencia/descubren-antartida-enorme-meteorito-materiales-millones-anos-antiguedad-1192894' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/descubren-antartida-enorme-meteorito-materiales-millones-anos-antiguedad-2942564.jpg?tf=1200x' alt='Descubren en la Antártida un enorme meteorito con materiales con millones de años de antigüedad' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/industria/huawei-completamente-vetada-estados-unidos-ni-siquiera-tendra-acceso-chips-4g-1192844'>Huawei completamente vetada en Estados Unidos, ni siquiera tendrá acceso a chips 4G</a></h4>
-    <a href='https://computerhoy.com/industria/huawei-completamente-vetada-estados-unidos-ni-siquiera-tendra-acceso-chips-4g-1192844' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/logo-huawei-bandera-estados-unidos-2942416.jpg?tf=1200x' alt='Huawei completamente vetada en Estados Unidos, ni siquiera tendrá acceso a chips 4G' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/analisis-benq-gv30-proyector-portatil-esconde-secreto-1185676'>Análisis BenQ GV30, proyector portátil que esconde un secreto</a></h4>
-    <a href='https://computerhoy.com/analisis/analisis-benq-gv30-proyector-portatil-esconde-secreto-1185676' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/benq-gv30-2942164.jpg?tf=1200x' alt='Análisis BenQ GV30, proyector portátil que esconde un secreto' />
     </a>
 </div>
 
