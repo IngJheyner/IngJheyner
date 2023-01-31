@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/analisis/analisis-benq-gv30-proyector-portatil-esconde-secreto-1185676'>Análisis BenQ GV30, proyector portátil que esconde un secreto</a></h4>
+    <a href='https://computerhoy.com/analisis/analisis-benq-gv30-proyector-portatil-esconde-secreto-1185676' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/benq-gv30-2942164.jpg?tf=1200x' alt='Análisis BenQ GV30, proyector portátil que esconde un secreto' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/gaming/tiene-sentido-feria-videojuegos-microsoft-nintendo-ni-sony-sera-e3-2023-1192792'>¿Tiene sentido una feria de videojuegos sin Microsoft, Nintendo ni Sony? Así será el E3 2023</a></h4>
+    <a href='https://computerhoy.com/gaming/tiene-sentido-feria-videojuegos-microsoft-nintendo-ni-sony-sera-e3-2023-1192792' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/e3-2021-2365189.jpg?tf=1200x' alt='¿Tiene sentido una feria de videojuegos sin Microsoft, Nintendo ni Sony? Así será el E3 2023' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciencia/nueva-bateria-gravedad-podria-almacenar-energia-vida-1192760'>Así es la nueva batería de gravedad que podría almacenar energía de por vida</a></h4>
     <a href='https://computerhoy.com/ciencia/nueva-bateria-gravedad-podria-almacenar-energia-vida-1192760' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/bateria-electrica-2942290.jpg?tf=1200x' alt='Así es la nueva batería de gravedad que podría almacenar energía de por vida' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/criptos/recurre-nasa-perros-robot-recuperar-168-millones-euros-bitcoin-perdidos-vertedero-1192718'>Recurre a la NASA y perros robot para recuperar los 168 millones de euros en Bitcoin perdidos en un vertedero</a></h4>
     <a href='https://computerhoy.com/criptos/recurre-nasa-perros-robot-recuperar-168-millones-euros-bitcoin-perdidos-vertedero-1192718' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/recurre-nasa-perros-robot-recuperar-168-millones-euros-bitcoin-perdidos-vertedero-2942238.jpg?tf=1200x' alt='Recurre a la NASA y perros robot para recuperar los 168 millones de euros en Bitcoin perdidos en un vertedero' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/galileo-ya-preciso-gps-como-saber-movil-compatible-como-activarlo-1192700'>Galileo ya es más preciso que GPS: cómo saber si tu móvil es compatible y cómo activarlo</a></h4>
-    <a href='https://computerhoy.com/espacio/galileo-ya-preciso-gps-como-saber-movil-compatible-como-activarlo-1192700' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/imagen-satelite-galileo-2942156.jpg?tf=1200x' alt='Galileo ya es más preciso que GPS: cómo saber si tu móvil es compatible y cómo activarlo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/deepfakes-imitan-voces-famosos-crear-audios-comentarios-violentos-ultima-moda-4chan-1192702'>Deepfakes que imitan voces de famosos para crear audios con comentarios violentos, la última moda en 4chan</a></h4>
-    <a href='https://computerhoy.com/tecnologia/deepfakes-imitan-voces-famosos-crear-audios-comentarios-violentos-ultima-moda-4chan-1192702' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/deepfakes-imitar-voces-famosos-crear-audios-comentarios-violentos-ultima-moda-4chan-2942192.jpg?tf=1200x' alt='Deepfakes que imitan voces de famosos para crear audios con comentarios violentos, la última moda en 4chan' />
     </a>
 </div>
 
