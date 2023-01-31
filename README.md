@@ -74,9 +74,9 @@
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/streaming/netflix-aclara-condiciones-compartir-cuenta-pone-casi-imposible-vives-otra-casa-1192896'>Netflix aclara la condiciones para compartir cuenta, y lo pone casi imposible si vives en otra casa</a></h4>
+    <h4><a href='https://computerhoy.com/streaming/netflix-aclara-condiciones-compartir-cuenta-pone-casi-imposible-vives-otra-casa-1192896'>Netflix aclara las condiciones para compartir cuenta, y lo pone casi imposible si vives en otra casa</a></h4>
     <a href='https://computerhoy.com/streaming/netflix-aclara-condiciones-compartir-cuenta-pone-casi-imposible-vives-otra-casa-1192896' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/te-cobrara-netflix-compartir-contrasena-anunciar-fin-primer-trimestre-2023-2933368.jpg?tf=1200x' alt='Netflix aclara la condiciones para compartir cuenta, y lo pone casi imposible si vives en otra casa' />
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/netflix-2942768.jpg?tf=1200x' alt='Netflix aclara las condiciones para compartir cuenta, y lo pone casi imposible si vives en otra casa' />
     </a>
 </div>
 
