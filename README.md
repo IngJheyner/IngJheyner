@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/motor/trampa-coche-electrico-nadie-te-cuenta-cuando-vas-concesionario-1193456'>La trampa del coche eléctrico que nadie te cuenta cuando vas al concesionario</a></h4>
+    <a href='https://computerhoy.com/motor/trampa-coche-electrico-nadie-te-cuenta-cuando-vas-concesionario-1193456' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/polestar-coche-electrico-2554785.jpg?tf=1200x' alt='La trampa del coche eléctrico que nadie te cuenta cuando vas al concesionario' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/gaming/son-logitech-g-fits-primeros-auriculares-gaming-boton-1193454'>Así son los Logitech G FITS, sus primeros auriculares gaming de botón</a></h4>
     <a href='https://computerhoy.com/gaming/son-logitech-g-fits-primeros-auriculares-gaming-boton-1193454' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/logitech-g-fits-2943672.jpg?tf=1200x' alt='Así son los Logitech G FITS, sus primeros auriculares gaming de botón' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/seagate-encabeza-lista-discos-duros-fallan-2022-no-parece-vaya-cambiar-1193400'>Seagate encabeza la lista de los discos duros que más fallan en 2022 y no parece que vaya a cambiar</a></h4>
     <a href='https://computerhoy.com/tecnologia/seagate-encabeza-lista-discos-duros-fallan-2022-no-parece-vaya-cambiar-1193400' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/seagate-2872249.jpg?tf=1200x' alt='Seagate encabeza la lista de los discos duros que más fallan en 2022 y no parece que vaya a cambiar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/caja-misteriosa-nueva-funcion-netflix-ninos-descubran-nuevas-series-peliculas-dispositivos-android-1193382'>La Caja Misteriosa: la nueva función de Netflix para que los niños se abran a nuevos mundos en dispositivos Android</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/caja-misteriosa-nueva-funcion-netflix-ninos-descubran-nuevas-series-peliculas-dispositivos-android-1193382' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/netflix-lanza-caja-misteriosa-descubrir-nuevas-series-peliculas-dispositivos-android-2943378.jpg?tf=1200x' alt='La Caja Misteriosa: la nueva función de Netflix para que los niños se abran a nuevos mundos en dispositivos Android' />
     </a>
 </div>
 
