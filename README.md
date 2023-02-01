@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/seagate-encabeza-lista-discos-duros-fallan-2022-no-parece-vaya-cambiar-1193400'>Seagate encabeza la lista de los discos duros que más fallan en 2022 y no parece que vaya a cambiar</a></h4>
+    <a href='https://computerhoy.com/tecnologia/seagate-encabeza-lista-discos-duros-fallan-2022-no-parece-vaya-cambiar-1193400' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/seagate-2872249.jpg?tf=1200x' alt='Seagate encabeza la lista de los discos duros que más fallan en 2022 y no parece que vaya a cambiar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/caja-misteriosa-nueva-funcion-netflix-ninos-descubran-nuevas-series-peliculas-dispositivos-android-1193382'>La Caja Misteriosa: la nueva función de Netflix para que los niños se abran a nuevos mundos en dispositivos Android</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/caja-misteriosa-nueva-funcion-netflix-ninos-descubran-nuevas-series-peliculas-dispositivos-android-1193382' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/netflix-lanza-caja-misteriosa-descubrir-nuevas-series-peliculas-dispositivos-android-2943378.jpg?tf=1200x' alt='La Caja Misteriosa: la nueva función de Netflix para que los niños se abran a nuevos mundos en dispositivos Android' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/gaming/electronic-arts-cancela-battlefield-mobile-cierra-apex-legends-mobile-problemas-ea-1193370'>Electronic Arts cancela Battlefield Mobile y cierra Apex Legends Mobile: problemas para EA</a></h4>
+    <a href='https://computerhoy.com/gaming/electronic-arts-cancela-battlefield-mobile-cierra-apex-legends-mobile-problemas-ea-1193370' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/battlefield-mobile-2943244.jpg?tf=1200x' alt='Electronic Arts cancela Battlefield Mobile y cierra Apex Legends Mobile: problemas para EA' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/entretenimiento/serie-espanola-triunfando-netflix-44-paises-mejor-estreno-nacional-ultimos-anos-1193324'>La serie española que está triunfando en Netflix en 44 países es el mejor estreno nacional de lo últimos años</a></h4>
     <a href='https://computerhoy.com/entretenimiento/serie-espanola-triunfando-netflix-44-paises-mejor-estreno-nacional-ultimos-anos-1193324' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/chica-nieve-2935350.jpg?tf=1200x' alt='La serie española que está triunfando en Netflix en 44 países es el mejor estreno nacional de lo últimos años' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/moviles/huawei-desarrolla-chip-100-propio-secreto-nuevos-moviles-ano-1193308'>Huawei desarrolla un chip 100 % propio en secreto para sus nuevos móviles de este año</a></h4>
     <a href='https://computerhoy.com/moviles/huawei-desarrolla-chip-100-propio-secreto-nuevos-moviles-ano-1193308' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/huawei-2943154.jpg?tf=1200x' alt='Huawei desarrolla un chip 100 % propio en secreto para sus nuevos móviles de este año' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/portatil-i5-oferta-asus-amazon-1192050'>Un i5 por solo 399 euros, y con SSD: este ofertón de Amazon revienta el mercado de portátiles</a></h4>
-    <a href='https://computerhoy.com/tecnologia/portatil-i5-oferta-asus-amazon-1192050' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/asus-f515ja-bq3634-2941154.jpg?tf=1200x' alt='Un i5 por solo 399 euros, y con SSD: este ofertón de Amazon revienta el mercado de portátiles' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/google-ya-probando-alternativa-chatgpt-incluiria-algunas-mejoras-1193282'>Google ya está probando su alternativa a ChatGPT e incluiría algunas mejoras</a></h4>
-    <a href='https://computerhoy.com/google/google-ya-probando-alternativa-chatgpt-incluiria-algunas-mejoras-1193282' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/google-ya-probando-alternativa-chatgpt-incluye-algunas-mejoras-2943160.jpg?tf=1200x' alt='Google ya está probando su alternativa a ChatGPT e incluiría algunas mejoras' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/cientificos-prueban-exito-overclock-cerebral-mejorar-aprendizaje-memoria-1193268'>Científicos prueban con éxito el overclock cerebral para mejorar el aprendizaje y la memoria</a></h4>
-    <a href='https://computerhoy.com/ciencia/cientificos-prueban-exito-overclock-cerebral-mejorar-aprendizaje-memoria-1193268' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/cerebro-2943130.jpg?tf=1200x' alt='Científicos prueban con éxito el overclock cerebral para mejorar el aprendizaje y la memoria' />
     </a>
 </div>
 
