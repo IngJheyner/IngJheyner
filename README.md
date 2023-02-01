@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/portatil-macbook-pro-procesador-m2-apple-descuento-220-euros-1193592'>El portátil MacBook Pro con procesador M2 de Apple tiene un descuento de 220 euros, su precio más bajo desde el lanzamiento</a></h4>
+    <a href='https://computerhoy.com/apple/portatil-macbook-pro-procesador-m2-apple-descuento-220-euros-1193592' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/portatil-macbook-pro-procesador-m2-apple-tiene-descuento-220-euros-precio-lanzamiento-2944052.jpg?tf=1200x' alt='El portátil MacBook Pro con procesador M2 de Apple tiene un descuento de 220 euros, su precio más bajo desde el lanzamiento' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/gaming/chronophoto-te-pone-prueba-funciona-juego-gratuito-online-moda-1193558'>Chronophoto te pone a prueba: así funciona el juego gratuito online de moda</a></h4>
     <a href='https://computerhoy.com/gaming/chronophoto-te-pone-prueba-funciona-juego-gratuito-online-moda-1193558' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/chronophoto-te-pone-prueba-funciona-juego-gratuito-online-moda-2944058.jpg?tf=1200x' alt='Chronophoto te pone a prueba: así funciona el juego gratuito online de moda' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/streaming/como-ver-tdt-necesidad-antena-cualquier-televisor-incluso-no-smart-tv-1193500'>Cómo ver la TDT sin necesidad de antena en cualquier televisor incluso si no es Smart TV</a></h4>
     <a href='https://computerhoy.com/streaming/como-ver-tdt-necesidad-antena-cualquier-televisor-incluso-no-smart-tv-1193500' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/tdt-2856157.jpg?tf=1200x' alt='Cómo ver la TDT sin necesidad de antena en cualquier televisor incluso si no es Smart TV' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/primeras-impresiones-samsung-galaxy-s23-ultra-bestia-200-megapixeles-pantalla-plana-1193368'>Primeras impresiones del Samsung Galaxy S23 Ultra, una bestia con 200 megapíxeles y más pantalla plana</a></h4>
-    <a href='https://computerhoy.com/moviles/primeras-impresiones-samsung-galaxy-s23-ultra-bestia-200-megapixeles-pantalla-plana-1193368' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/impresiones-samsung-galaxy-s23-ultra-2943540.jpg?tf=1200x' alt='Primeras impresiones del Samsung Galaxy S23 Ultra, una bestia con 200 megapíxeles y más pantalla plana' />
     </a>
 </div>
 
