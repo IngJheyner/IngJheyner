@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/marc-marquez-final-star-trek-picard-carnival-row-estrenos-prime-video-febrero-1193634'>Marc Márquez y el final de Star Trek Picard y Carnival Row, entre los estrenos de Prime Video en febrero</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/marc-marquez-final-star-trek-picard-carnival-row-estrenos-prime-video-febrero-1193634' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/marc-marquez-nuevas-temporadas-star-trek-picard-carnival-row-estrenos-prime-video-febrero-2944072.jpg?tf=1200x' alt='Marc Márquez y el final de Star Trek Picard y Carnival Row, entre los estrenos de Prime Video en febrero' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/zara-comienza-cobrar-devoluciones-tambien-espana-1193624'>Zara comienza a cobrar por las devoluciones también en España</a></h4>
+    <a href='https://computerhoy.com/life/zara-comienza-cobrar-devoluciones-tambien-espana-1193624' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/tienda-zara-2944092.jpg?tf=1200x' alt='Zara comienza a cobrar por las devoluciones también en España' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/streaming/netflix-mejora-condiciones-aunque-no-todos-usuarios-1193622'>Netflix mejora sus condiciones, aunque no para todos sus usuarios</a></h4>
+    <a href='https://computerhoy.com/streaming/netflix-mejora-condiciones-aunque-no-todos-usuarios-1193622' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/netflix-2944082.jpg?tf=1200x' alt='Netflix mejora sus condiciones, aunque no para todos sus usuarios' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apple/portatil-macbook-pro-procesador-m2-apple-descuento-220-euros-1193592'>El portátil MacBook Pro con procesador M2 de Apple tiene un descuento de 220 euros, su precio más bajo desde el lanzamiento</a></h4>
     <a href='https://computerhoy.com/apple/portatil-macbook-pro-procesador-m2-apple-descuento-220-euros-1193592' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/portatil-macbook-pro-procesador-m2-apple-tiene-descuento-220-euros-precio-lanzamiento-2944052.jpg?tf=1200x' alt='El portátil MacBook Pro con procesador M2 de Apple tiene un descuento de 220 euros, su precio más bajo desde el lanzamiento' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/gaming/chronophoto-te-pone-prueba-funciona-juego-gratuito-online-moda-1193558'>Chronophoto te pone a prueba: así funciona el juego gratuito online de moda</a></h4>
     <a href='https://computerhoy.com/gaming/chronophoto-te-pone-prueba-funciona-juego-gratuito-online-moda-1193558' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/chronophoto-te-pone-prueba-funciona-juego-gratuito-online-moda-2944058.jpg?tf=1200x' alt='Chronophoto te pone a prueba: así funciona el juego gratuito online de moda' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/presentados-samsung-galaxy-book-3-ultra-pro-360-pantallas-amoled-ultimo-intel-rtx-4070-1193570'>Presentados los Samsung Galaxy Book 3 Ultra, Pro y 360 con pantallas AMOLED, lo último de Intel y hasta RTX 4070</a></h4>
-    <a href='https://computerhoy.com/pc/presentados-samsung-galaxy-book-3-ultra-pro-360-pantallas-amoled-ultimo-intel-rtx-4070-1193570' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/galaxy-book-3-2944010.jpg?tf=1200x' alt='Presentados los Samsung Galaxy Book 3 Ultra, Pro y 360 con pantallas AMOLED, lo último de Intel y hasta RTX 4070' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/samsung-galaxy-s23-s23-primeras-impresiones-vuelta-tuerca-gama-alta-1193006'>Samsung Galaxy S23 y S23+, primeras impresiones: una vuelta de tuerca a la gama alta</a></h4>
-    <a href='https://computerhoy.com/moviles/samsung-galaxy-s23-s23-primeras-impresiones-vuelta-tuerca-gama-alta-1193006' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/samsung-galaxy-s23-2943162.jpg?tf=1200x' alt='Samsung Galaxy S23 y S23+, primeras impresiones: una vuelta de tuerca a la gama alta' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/streaming/como-ver-tdt-necesidad-antena-cualquier-televisor-incluso-no-smart-tv-1193500'>Cómo ver la TDT sin necesidad de antena en cualquier televisor incluso si no es Smart TV</a></h4>
-    <a href='https://computerhoy.com/streaming/como-ver-tdt-necesidad-antena-cualquier-televisor-incluso-no-smart-tv-1193500' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/tdt-2856157.jpg?tf=1200x' alt='Cómo ver la TDT sin necesidad de antena en cualquier televisor incluso si no es Smart TV' />
     </a>
 </div>
 
