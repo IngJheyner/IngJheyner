@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/serie-espanola-triunfando-netflix-44-paises-mejor-estreno-nacional-ultimos-anos-1193324'>La serie española que está triunfando en Netflix en 44 países es el mejor estreno nacional de lo últimos años</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/serie-espanola-triunfando-netflix-44-paises-mejor-estreno-nacional-ultimos-anos-1193324' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/chica-nieve-2935350.jpg?tf=1200x' alt='La serie española que está triunfando en Netflix en 44 países es el mejor estreno nacional de lo últimos años' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/moviles/huawei-desarrolla-chip-100-propio-secreto-nuevos-moviles-ano-1193308'>Huawei desarrolla un chip 100 % propio en secreto para sus nuevos móviles de este año</a></h4>
+    <a href='https://computerhoy.com/moviles/huawei-desarrolla-chip-100-propio-secreto-nuevos-moviles-ano-1193308' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/huawei-2943154.jpg?tf=1200x' alt='Huawei desarrolla un chip 100 % propio en secreto para sus nuevos móviles de este año' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/portatil-i5-oferta-asus-amazon-1192050'>Un i5 por solo 399 euros, y con SSD: este ofertón de Amazon revienta el mercado de portátiles</a></h4>
     <a href='https://computerhoy.com/tecnologia/portatil-i5-oferta-asus-amazon-1192050' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/asus-f515ja-bq3634-2941154.jpg?tf=1200x' alt='Un i5 por solo 399 euros, y con SSD: este ofertón de Amazon revienta el mercado de portátiles' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/ciencia/cientificos-prueban-exito-overclock-cerebral-mejorar-aprendizaje-memoria-1193268'>Científicos prueban con éxito el overclock cerebral para mejorar el aprendizaje y la memoria</a></h4>
     <a href='https://computerhoy.com/ciencia/cientificos-prueban-exito-overclock-cerebral-mejorar-aprendizaje-memoria-1193268' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/cerebro-2943130.jpg?tf=1200x' alt='Científicos prueban con éxito el overclock cerebral para mejorar el aprendizaje y la memoria' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/redes-sociales/puedes-activar-nueva-funcion-perfil-dinamico-instagram-jugar-foto-perfil-deslizando-dedo-1193274'>Así puedes activar la nueva función de perfil dinámico de Instagram y jugar con tu foto de perfil deslizando el dedo</a></h4>
-    <a href='https://computerhoy.com/redes-sociales/puedes-activar-nueva-funcion-perfil-dinamico-instagram-jugar-foto-perfil-deslizando-dedo-1193274' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/instagram-2943048.jpg?tf=1200x' alt='Así puedes activar la nueva función de perfil dinámico de Instagram y jugar con tu foto de perfil deslizando el dedo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/estas-son-5-grandes-novedades-inminente-actualizacion-windows-11-22h2-1192868'>Estas son las 5 grandes novedades de la inminente actualización de Windows 11 22H2</a></h4>
-    <a href='https://computerhoy.com/windows/estas-son-5-grandes-novedades-inminente-actualizacion-windows-11-22h2-1192868' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/windows-11-22h2-2711631.jpg?tf=1200x' alt='Estas son las 5 grandes novedades de la inminente actualización de Windows 11 22H2' />
     </a>
 </div>
 
