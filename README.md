@@ -50,9 +50,25 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/portatil-i5-oferta-asus-amazon-1192050'>Un i5 por solo 399 euros, y con SSD: este ofertón de Amazon revienta el mercado de portátiles</a></h4>
+    <a href='https://computerhoy.com/tecnologia/portatil-i5-oferta-asus-amazon-1192050' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/asus-f515ja-bq3634-2941154.jpg?tf=1200x' alt='Un i5 por solo 399 euros, y con SSD: este ofertón de Amazon revienta el mercado de portátiles' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/google/google-ya-probando-alternativa-chatgpt-incluiria-algunas-mejoras-1193282'>Google ya está probando su alternativa a ChatGPT e incluiría algunas mejoras</a></h4>
+    <a href='https://computerhoy.com/google/google-ya-probando-alternativa-chatgpt-incluiria-algunas-mejoras-1193282' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/google-ya-probando-alternativa-chatgpt-incluye-algunas-mejoras-2943160.jpg?tf=1200x' alt='Google ya está probando su alternativa a ChatGPT e incluiría algunas mejoras' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciencia/cientificos-prueban-exito-overclock-cerebral-mejorar-aprendizaje-memoria-1193268'>Científicos prueban con éxito el overclock cerebral para mejorar el aprendizaje y la memoria</a></h4>
     <a href='https://computerhoy.com/ciencia/cientificos-prueban-exito-overclock-cerebral-mejorar-aprendizaje-memoria-1193268' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/ondas-cerebrales-2943052.jpg?tf=1200x' alt='Científicos prueban con éxito el overclock cerebral para mejorar el aprendizaje y la memoria' />
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/cerebro-2943130.jpg?tf=1200x' alt='Científicos prueban con éxito el overclock cerebral para mejorar el aprendizaje y la memoria' />
     </a>
 </div>
 
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/windows/estas-son-5-grandes-novedades-inminente-actualizacion-windows-11-22h2-1192868'>Estas son las 5 grandes novedades de la inminente actualización de Windows 11 22H2</a></h4>
     <a href='https://computerhoy.com/windows/estas-son-5-grandes-novedades-inminente-actualizacion-windows-11-22h2-1192868' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/windows-11-22h2-2711631.jpg?tf=1200x' alt='Estas son las 5 grandes novedades de la inminente actualización de Windows 11 22H2' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/caixabank-regala-tv-samsung-merece-pena-1192682'>CaixaBank regala un televisor Samsung si tienes nómina, pero ¿merece realmente la pena?</a></h4>
-    <a href='https://computerhoy.com/tecnologia/caixabank-regala-tv-samsung-merece-pena-1192682' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/samsung-t4305-2942058.jpg?tf=1200x' alt='CaixaBank regala un televisor Samsung si tienes nómina, pero ¿merece realmente la pena?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/como-funciona-motor-busqueda-internet-filtracion-codigo-fuente-yandex-deja-claro-1192790'>¿Cómo funciona un motor de búsqueda en Internet? La filtración del código fuente de Yandex lo deja claro</a></h4>
-    <a href='https://computerhoy.com/internet/como-funciona-motor-busqueda-internet-filtracion-codigo-fuente-yandex-deja-claro-1192790' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/como-funciona-motor-busqueda-internet-filtracion-codigo-fuente-yandex-tiene-algunas-respuestas-2942658.jpg?tf=1200x' alt='¿Cómo funciona un motor de búsqueda en Internet? La filtración del código fuente de Yandex lo deja claro' />
     </a>
 </div>
 
