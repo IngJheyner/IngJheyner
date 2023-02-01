@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/cientificos-prueban-exito-overclock-cerebral-mejorar-aprendizaje-memoria-1193268'>Científicos prueban con éxito el overclock cerebral para mejorar el aprendizaje y la memoria</a></h4>
+    <a href='https://computerhoy.com/ciencia/cientificos-prueban-exito-overclock-cerebral-mejorar-aprendizaje-memoria-1193268' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/ondas-cerebrales-2943052.jpg?tf=1200x' alt='Científicos prueban con éxito el overclock cerebral para mejorar el aprendizaje y la memoria' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/redes-sociales/puedes-activar-nueva-funcion-perfil-dinamico-instagram-jugar-foto-perfil-deslizando-dedo-1193274'>Así puedes activar la nueva función de perfil dinámico de Instagram y jugar con tu foto de perfil deslizando el dedo</a></h4>
+    <a href='https://computerhoy.com/redes-sociales/puedes-activar-nueva-funcion-perfil-dinamico-instagram-jugar-foto-perfil-deslizando-dedo-1193274' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/instagram-2943048.jpg?tf=1200x' alt='Así puedes activar la nueva función de perfil dinámico de Instagram y jugar con tu foto de perfil deslizando el dedo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/windows/estas-son-5-grandes-novedades-inminente-actualizacion-windows-11-22h2-1192868'>Estas son las 5 grandes novedades de la inminente actualización de Windows 11 22H2</a></h4>
+    <a href='https://computerhoy.com/windows/estas-son-5-grandes-novedades-inminente-actualizacion-windows-11-22h2-1192868' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/windows-11-22h2-2711631.jpg?tf=1200x' alt='Estas son las 5 grandes novedades de la inminente actualización de Windows 11 22H2' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/caixabank-regala-tv-samsung-merece-pena-1192682'>CaixaBank regala un televisor Samsung si tienes nómina, pero ¿merece realmente la pena?</a></h4>
     <a href='https://computerhoy.com/tecnologia/caixabank-regala-tv-samsung-merece-pena-1192682' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/samsung-t4305-2942058.jpg?tf=1200x' alt='CaixaBank regala un televisor Samsung si tienes nómina, pero ¿merece realmente la pena?' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/internet/como-funciona-motor-busqueda-internet-filtracion-codigo-fuente-yandex-deja-claro-1192790'>¿Cómo funciona un motor de búsqueda en Internet? La filtración del código fuente de Yandex lo deja claro</a></h4>
     <a href='https://computerhoy.com/internet/como-funciona-motor-busqueda-internet-filtracion-codigo-fuente-yandex-deja-claro-1192790' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/como-funciona-motor-busqueda-internet-filtracion-codigo-fuente-yandex-tiene-algunas-respuestas-2942658.jpg?tf=1200x' alt='¿Cómo funciona un motor de búsqueda en Internet? La filtración del código fuente de Yandex lo deja claro' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/24-noticias-tecnologia-comenzar-manana-informado-ultimo-1193244'>26 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
-    <a href='https://computerhoy.com/tecnologia/24-noticias-tecnologia-comenzar-manana-informado-ultimo-1193244' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/24-noticias-tecnologia-comenzar-manana-informado-ultimo-2943024.jpg?tf=1200x' alt='26 noticias de tecnología para comenzar la mañana informado de lo último' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/guia-compra/freidora-sin-aceite-cecotec-1015425'>Comprar una freidora sin aceite de Cecotec: modelos, diferencias y todo lo que debes tener en cuenta</a></h4>
-    <a href='https://computerhoy.com/guia-compra/freidora-sin-aceite-cecotec-1015425' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/cecotec-cecofry-dual-9000-2941286.jpg?tf=1200x' alt='Comprar una freidora sin aceite de Cecotec: modelos, diferencias y todo lo que debes tener en cuenta' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/telescopio-james-webb-asteroide-dos-anillos-nuevos-datos-1193236'>El telescopio James Webb explora un asteroide con dos anillos, y desvela nuevos datos</a></h4>
-    <a href='https://computerhoy.com/espacio/telescopio-james-webb-asteroide-dos-anillos-nuevos-datos-1193236' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/telescopio-james-webb-confirma-existencia-asteroide-dos-anillos-desvela-nuevos-datos-2943016.jpg?tf=1200x' alt='El telescopio James Webb explora un asteroide con dos anillos, y desvela nuevos datos' />
     </a>
 </div>
 
