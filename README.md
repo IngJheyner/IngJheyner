@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/no-deberia-haber-cenado-jeffrey-epstein-bill-gates-somete-entrevistas-incomodas-vida-1193408'>"No debería haber cenado con Jeffrey Epstein": Bill Gates se somete a una de las entrevistas más incómodas de su vida</a></h4>
+    <a href='https://computerhoy.com/life/no-deberia-haber-cenado-jeffrey-epstein-bill-gates-somete-entrevistas-incomodas-vida-1193408' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/bill-gates-punto-pantalla-azul-entrevistas-incomodas-vida-2943524.jpg?tf=1200x' alt='"No debería haber cenado con Jeffrey Epstein": Bill Gates se somete a una de las entrevistas más incómodas de su vida' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/motor/prepara-google-maps-hacer-vida-facil-conductores-coches-electricos-1193426'>Así se prepara Google Maps para hacer la vida más fácil a conductores de coches eléctricos</a></h4>
+    <a href='https://computerhoy.com/motor/prepara-google-maps-hacer-vida-facil-conductores-coches-electricos-1193426' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/google-maps-coche-electrico-2943612.jpg?tf=1200x' alt='Así se prepara Google Maps para hacer la vida más fácil a conductores de coches eléctricos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/seagate-encabeza-lista-discos-duros-fallan-2022-no-parece-vaya-cambiar-1193400'>Seagate encabeza la lista de los discos duros que más fallan en 2022 y no parece que vaya a cambiar</a></h4>
     <a href='https://computerhoy.com/tecnologia/seagate-encabeza-lista-discos-duros-fallan-2022-no-parece-vaya-cambiar-1193400' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/seagate-2872249.jpg?tf=1200x' alt='Seagate encabeza la lista de los discos duros que más fallan en 2022 y no parece que vaya a cambiar' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/gaming/electronic-arts-cancela-battlefield-mobile-cierra-apex-legends-mobile-problemas-ea-1193370'>Electronic Arts cancela Battlefield Mobile y cierra Apex Legends Mobile: problemas para EA</a></h4>
     <a href='https://computerhoy.com/gaming/electronic-arts-cancela-battlefield-mobile-cierra-apex-legends-mobile-problemas-ea-1193370' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/battlefield-mobile-2943244.jpg?tf=1200x' alt='Electronic Arts cancela Battlefield Mobile y cierra Apex Legends Mobile: problemas para EA' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/serie-espanola-triunfando-netflix-44-paises-mejor-estreno-nacional-ultimos-anos-1193324'>La serie española que está triunfando en Netflix en 44 países es el mejor estreno nacional de lo últimos años</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/serie-espanola-triunfando-netflix-44-paises-mejor-estreno-nacional-ultimos-anos-1193324' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/chica-nieve-2935350.jpg?tf=1200x' alt='La serie española que está triunfando en Netflix en 44 países es el mejor estreno nacional de lo últimos años' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/huawei-desarrolla-chip-100-propio-secreto-nuevos-moviles-ano-1193308'>Huawei desarrolla un chip 100 % propio en secreto para sus nuevos móviles de este año</a></h4>
-    <a href='https://computerhoy.com/moviles/huawei-desarrolla-chip-100-propio-secreto-nuevos-moviles-ano-1193308' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/huawei-2943154.jpg?tf=1200x' alt='Huawei desarrolla un chip 100 % propio en secreto para sus nuevos móviles de este año' />
     </a>
 </div>
 
