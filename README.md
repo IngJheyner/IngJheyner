@@ -50,9 +50,25 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/24-noticias-tecnologia-comenzar-manana-informado-ultimo-1193244'>24 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
+    <h4><a href='https://computerhoy.com/tecnologia/caixabank-regala-tv-samsung-merece-pena-1192682'>CaixaBank regala un televisor Samsung si tienes nómina, pero ¿merece realmente la pena?</a></h4>
+    <a href='https://computerhoy.com/tecnologia/caixabank-regala-tv-samsung-merece-pena-1192682' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/samsung-t4305-2942058.jpg?tf=1200x' alt='CaixaBank regala un televisor Samsung si tienes nómina, pero ¿merece realmente la pena?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/internet/como-funciona-motor-busqueda-internet-filtracion-codigo-fuente-yandex-deja-claro-1192790'>¿Cómo funciona un motor de búsqueda en Internet? La filtración del código fuente de Yandex lo deja claro</a></h4>
+    <a href='https://computerhoy.com/internet/como-funciona-motor-busqueda-internet-filtracion-codigo-fuente-yandex-deja-claro-1192790' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/como-funciona-motor-busqueda-internet-filtracion-codigo-fuente-yandex-tiene-algunas-respuestas-2942658.jpg?tf=1200x' alt='¿Cómo funciona un motor de búsqueda en Internet? La filtración del código fuente de Yandex lo deja claro' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/24-noticias-tecnologia-comenzar-manana-informado-ultimo-1193244'>26 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
     <a href='https://computerhoy.com/tecnologia/24-noticias-tecnologia-comenzar-manana-informado-ultimo-1193244' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/24-noticias-tecnologia-comenzar-manana-informado-ultimo-2943024.jpg?tf=1200x' alt='24 noticias de tecnología para comenzar la mañana informado de lo último' />
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/24-noticias-tecnologia-comenzar-manana-informado-ultimo-2943024.jpg?tf=1200x' alt='26 noticias de tecnología para comenzar la mañana informado de lo último' />
     </a>
 </div>
 
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/espacio/telescopio-james-webb-asteroide-dos-anillos-nuevos-datos-1193236'>El telescopio James Webb explora un asteroide con dos anillos, y desvela nuevos datos</a></h4>
     <a href='https://computerhoy.com/espacio/telescopio-james-webb-asteroide-dos-anillos-nuevos-datos-1193236' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/telescopio-james-webb-confirma-existencia-asteroide-dos-anillos-desvela-nuevos-datos-2943016.jpg?tf=1200x' alt='El telescopio James Webb explora un asteroide con dos anillos, y desvela nuevos datos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/wd-ultrastar-dc-hs760-disco-duro-igual-rapido-ssd-sata-1193004'>El regreso del ave fénix: WD presenta un disco duro igual de rápido que un SSD</a></h4>
-    <a href='https://computerhoy.com/pc/wd-ultrastar-dc-hs760-disco-duro-igual-rapido-ssd-sata-1193004' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/regreso-ave-fenix-wd-presenta-disco-duro-igual-rapido-ssd-2942782.jpg?tf=1200x' alt='El regreso del ave fénix: WD presenta un disco duro igual de rápido que un SSD' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/pack-cuatro-airtag-regalo-san-valentin-oferta-1192998'>Este pack rebajado de 4 AirTag es un regalo muy práctico para San Valentín</a></h4>
-    <a href='https://computerhoy.com/apple/pack-cuatro-airtag-regalo-san-valentin-oferta-1192998' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/pack-4-airtag-rebajado-regalo-muy-practico-san-valentin-2942770.jpg?tf=1200x' alt='Este pack rebajado de 4 AirTag es un regalo muy práctico para San Valentín' />
     </a>
 </div>
 
