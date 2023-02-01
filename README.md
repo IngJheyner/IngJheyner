@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/24-noticias-tecnologia-comenzar-manana-informado-ultimo-1193244'>24 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
+    <a href='https://computerhoy.com/tecnologia/24-noticias-tecnologia-comenzar-manana-informado-ultimo-1193244' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/24-noticias-tecnologia-comenzar-manana-informado-ultimo-2943024.jpg?tf=1200x' alt='24 noticias de tecnología para comenzar la mañana informado de lo último' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/guia-compra/freidora-sin-aceite-cecotec-1015425'>Comprar una freidora sin aceite de Cecotec: modelos, diferencias y todo lo que debes tener en cuenta</a></h4>
+    <a href='https://computerhoy.com/guia-compra/freidora-sin-aceite-cecotec-1015425' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/cecotec-cecofry-dual-9000-2941286.jpg?tf=1200x' alt='Comprar una freidora sin aceite de Cecotec: modelos, diferencias y todo lo que debes tener en cuenta' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/espacio/telescopio-james-webb-asteroide-dos-anillos-nuevos-datos-1193236'>El telescopio James Webb explora un asteroide con dos anillos, y desvela nuevos datos</a></h4>
+    <a href='https://computerhoy.com/espacio/telescopio-james-webb-asteroide-dos-anillos-nuevos-datos-1193236' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/telescopio-james-webb-confirma-existencia-asteroide-dos-anillos-desvela-nuevos-datos-2943016.jpg?tf=1200x' alt='El telescopio James Webb explora un asteroide con dos anillos, y desvela nuevos datos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/pc/wd-ultrastar-dc-hs760-disco-duro-igual-rapido-ssd-sata-1193004'>El regreso del ave fénix: WD presenta un disco duro igual de rápido que un SSD</a></h4>
+    <a href='https://computerhoy.com/pc/wd-ultrastar-dc-hs760-disco-duro-igual-rapido-ssd-sata-1193004' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/regreso-ave-fenix-wd-presenta-disco-duro-igual-rapido-ssd-2942782.jpg?tf=1200x' alt='El regreso del ave fénix: WD presenta un disco duro igual de rápido que un SSD' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apple/pack-cuatro-airtag-regalo-san-valentin-oferta-1192998'>Este pack rebajado de 4 AirTag es un regalo muy práctico para San Valentín</a></h4>
     <a href='https://computerhoy.com/apple/pack-cuatro-airtag-regalo-san-valentin-oferta-1192998' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/pack-4-airtag-rebajado-regalo-muy-practico-san-valentin-2942770.jpg?tf=1200x' alt='Este pack rebajado de 4 AirTag es un regalo muy práctico para San Valentín' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/streaming/sera-netflix-gratuito-espana-incluira-todas-peliculas-filmoteca-espanola-1192892'>Así será el Netflix gratuito de España que incluirá todas las películas de la Filmoteca Española</a></h4>
-    <a href='https://computerhoy.com/streaming/sera-netflix-gratuito-espana-incluira-todas-peliculas-filmoteca-espanola-1192892' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/sala-cine-2942306.jpg?tf=1200x' alt='Así será el Netflix gratuito de España que incluirá todas las películas de la Filmoteca Española' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/estrenos-hbo-max-febrero-pobre-diablo-traitors-espana-1192992'>La nueva serie de Joaquín Reyes y Ernesto Sevilla, un reality de traiciones, y otros estrenos de febrero en HBO Max</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/estrenos-hbo-max-febrero-pobre-diablo-traitors-espana-1192992' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/nueva-serie-joaquin-reyes-ernesto-sevilla-reality-traiciones-otros-estrenos-febrero-hbo-max-2942748.jpg?tf=1200x' alt='La nueva serie de Joaquín Reyes y Ernesto Sevilla, un reality de traiciones, y otros estrenos de febrero en HBO Max' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/creador-gmail-asegura-chatgpt-acabara-buscador-google-menos-dos-anos-1192976'>El creador de Gmail asegura que ChatGPT acabará con el buscador de Google en menos de dos años</a></h4>
-    <a href='https://computerhoy.com/pc/creador-gmail-asegura-chatgpt-acabara-buscador-google-menos-dos-anos-1192976' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/inteligencia-artificial-2942750.jpg?tf=1200x' alt='El creador de Gmail asegura que ChatGPT acabará con el buscador de Google en menos de dos años' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/streaming/netflix-aclara-condiciones-compartir-cuenta-pone-casi-imposible-vives-otra-casa-1192896'>Netflix aclara las condiciones para compartir cuenta, y lo pone casi imposible si vives en otra casa</a></h4>
-    <a href='https://computerhoy.com/streaming/netflix-aclara-condiciones-compartir-cuenta-pone-casi-imposible-vives-otra-casa-1192896' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/netflix-2942768.jpg?tf=1200x' alt='Netflix aclara las condiciones para compartir cuenta, y lo pone casi imposible si vives en otra casa' />
     </a>
 </div>
 
