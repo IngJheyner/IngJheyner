@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/trampa-coche-electrico-nadie-te-cuenta-cuando-vas-concesionario-1193456'>La trampa del coche eléctrico que nadie te cuenta cuando vas al concesionario</a></h4>
-    <a href='https://computerhoy.com/motor/trampa-coche-electrico-nadie-te-cuenta-cuando-vas-concesionario-1193456' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/polestar-coche-electrico-2554785.jpg?tf=1200x' alt='La trampa del coche eléctrico que nadie te cuenta cuando vas al concesionario' />
+    <h4><a href='https://computerhoy.com/pc/presentados-samsung-galaxy-book-3-ultra-pro-360-pantallas-amoled-ultimo-intel-rtx-4070-1193570'>Presentados los Samsung Galaxy Book 3 Ultra, Pro y 360 con pantallas AMOLED, lo último de Intel y hasta RTX 4070</a></h4>
+    <a href='https://computerhoy.com/pc/presentados-samsung-galaxy-book-3-ultra-pro-360-pantallas-amoled-ultimo-intel-rtx-4070-1193570' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/galaxy-book-3-2944010.jpg?tf=1200x' alt='Presentados los Samsung Galaxy Book 3 Ultra, Pro y 360 con pantallas AMOLED, lo último de Intel y hasta RTX 4070' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/gaming/son-logitech-g-fits-primeros-auriculares-gaming-boton-1193454'>Así son los Logitech G FITS, sus primeros auriculares gaming de botón</a></h4>
-    <a href='https://computerhoy.com/gaming/son-logitech-g-fits-primeros-auriculares-gaming-boton-1193454' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/logitech-g-fits-2943672.jpg?tf=1200x' alt='Así son los Logitech G FITS, sus primeros auriculares gaming de botón' />
+    <h4><a href='https://computerhoy.com/moviles/samsung-galaxy-s23-s23-primeras-impresiones-vuelta-tuerca-gama-alta-1193006'>Samsung Galaxy S23 y S23+, primeras impresiones: una vuelta de tuerca a la gama alta</a></h4>
+    <a href='https://computerhoy.com/moviles/samsung-galaxy-s23-s23-primeras-impresiones-vuelta-tuerca-gama-alta-1193006' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/samsung-galaxy-s23-2943162.jpg?tf=1200x' alt='Samsung Galaxy S23 y S23+, primeras impresiones: una vuelta de tuerca a la gama alta' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/no-deberia-haber-cenado-jeffrey-epstein-bill-gates-somete-entrevistas-incomodas-vida-1193408'>"No debería haber cenado con Jeffrey Epstein": Bill Gates se somete a una de las entrevistas más incómodas de su vida</a></h4>
-    <a href='https://computerhoy.com/life/no-deberia-haber-cenado-jeffrey-epstein-bill-gates-somete-entrevistas-incomodas-vida-1193408' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/bill-gates-punto-pantalla-azul-entrevistas-incomodas-vida-2943524.jpg?tf=1200x' alt='"No debería haber cenado con Jeffrey Epstein": Bill Gates se somete a una de las entrevistas más incómodas de su vida' />
+    <h4><a href='https://computerhoy.com/streaming/como-ver-tdt-necesidad-antena-cualquier-televisor-incluso-no-smart-tv-1193500'>Cómo ver la TDT sin necesidad de antena en cualquier televisor incluso si no es Smart TV</a></h4>
+    <a href='https://computerhoy.com/streaming/como-ver-tdt-necesidad-antena-cualquier-televisor-incluso-no-smart-tv-1193500' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/tdt-2856157.jpg?tf=1200x' alt='Cómo ver la TDT sin necesidad de antena en cualquier televisor incluso si no es Smart TV' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/prepara-google-maps-hacer-vida-facil-conductores-coches-electricos-1193426'>Así se prepara Google Maps para hacer la vida más fácil a conductores de coches eléctricos</a></h4>
-    <a href='https://computerhoy.com/motor/prepara-google-maps-hacer-vida-facil-conductores-coches-electricos-1193426' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/google-maps-coche-electrico-2943612.jpg?tf=1200x' alt='Así se prepara Google Maps para hacer la vida más fácil a conductores de coches eléctricos' />
+    <h4><a href='https://computerhoy.com/moviles/primeras-impresiones-samsung-galaxy-s23-ultra-bestia-200-megapixeles-pantalla-plana-1193368'>Primeras impresiones del Samsung Galaxy S23 Ultra, una bestia con 200 megapíxeles y más pantalla plana</a></h4>
+    <a href='https://computerhoy.com/moviles/primeras-impresiones-samsung-galaxy-s23-ultra-bestia-200-megapixeles-pantalla-plana-1193368' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/impresiones-samsung-galaxy-s23-ultra-2943540.jpg?tf=1200x' alt='Primeras impresiones del Samsung Galaxy S23 Ultra, una bestia con 200 megapíxeles y más pantalla plana' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/seagate-encabeza-lista-discos-duros-fallan-2022-no-parece-vaya-cambiar-1193400'>Seagate encabeza la lista de los discos duros que más fallan en 2022 y no parece que vaya a cambiar</a></h4>
-    <a href='https://computerhoy.com/tecnologia/seagate-encabeza-lista-discos-duros-fallan-2022-no-parece-vaya-cambiar-1193400' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/seagate-2872249.jpg?tf=1200x' alt='Seagate encabeza la lista de los discos duros que más fallan en 2022 y no parece que vaya a cambiar' />
+    <h4><a href='https://computerhoy.com/moviles/son-samsung-galaxy-s23-snapdragon-8-gen-2-bateria-s23-ultra-camara-200-megapixeles-1193250'>Así son los Samsung Galaxy S23: Snapdragon 8 Gen 2, más batería y un S23 Ultra con cámara de 200 megapíxeles</a></h4>
+    <a href='https://computerhoy.com/moviles/son-samsung-galaxy-s23-snapdragon-8-gen-2-bateria-s23-ultra-camara-200-megapixeles-1193250' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/samsung-galaxy-s23-2943658.jpg?tf=1200x' alt='Así son los Samsung Galaxy S23: Snapdragon 8 Gen 2, más batería y un S23 Ultra con cámara de 200 megapíxeles' />
     </a>
 </div>
 
