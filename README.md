@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/chatgpt-plus-version-pago-openai-que-ofrece-1193648'>Llega ChatGPT Plus, la versión de pago por 20 dólares al mes, ¿qué ofrece?</a></h4>
+    <a href='https://computerhoy.com/tecnologia/chatgpt-plus-version-pago-openai-que-ofrece-1193648' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/llega-chatgpt-plus-version-pago-20-dolares-mes-ofrece-2944146.jpg?tf=1200x' alt='Llega ChatGPT Plus, la versión de pago por 20 dólares al mes, ¿qué ofrece?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/entretenimiento/marc-marquez-final-star-trek-picard-carnival-row-estrenos-prime-video-febrero-1193634'>Marc Márquez y el final de Star Trek Picard y Carnival Row, entre los estrenos de Prime Video en febrero</a></h4>
     <a href='https://computerhoy.com/entretenimiento/marc-marquez-final-star-trek-picard-carnival-row-estrenos-prime-video-febrero-1193634' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/marc-marquez-nuevas-temporadas-star-trek-picard-carnival-row-estrenos-prime-video-febrero-2944072.jpg?tf=1200x' alt='Marc Márquez y el final de Star Trek Picard y Carnival Row, entre los estrenos de Prime Video en febrero' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/apple/portatil-macbook-pro-procesador-m2-apple-descuento-220-euros-1193592'>El portátil MacBook Pro con procesador M2 de Apple tiene un descuento de 220 euros, su precio más bajo desde el lanzamiento</a></h4>
     <a href='https://computerhoy.com/apple/portatil-macbook-pro-procesador-m2-apple-descuento-220-euros-1193592' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/portatil-macbook-pro-procesador-m2-apple-tiene-descuento-220-euros-precio-lanzamiento-2944052.jpg?tf=1200x' alt='El portátil MacBook Pro con procesador M2 de Apple tiene un descuento de 220 euros, su precio más bajo desde el lanzamiento' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/gaming/chronophoto-te-pone-prueba-funciona-juego-gratuito-online-moda-1193558'>Chronophoto te pone a prueba: así funciona el juego gratuito online de moda</a></h4>
-    <a href='https://computerhoy.com/gaming/chronophoto-te-pone-prueba-funciona-juego-gratuito-online-moda-1193558' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/chronophoto-te-pone-prueba-funciona-juego-gratuito-online-moda-2944058.jpg?tf=1200x' alt='Chronophoto te pone a prueba: así funciona el juego gratuito online de moda' />
     </a>
 </div>
 
