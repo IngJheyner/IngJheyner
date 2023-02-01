@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/gaming/chronophoto-te-pone-prueba-funciona-juego-gratuito-online-moda-1193558'>Chronophoto te pone a prueba: así funciona el juego gratuito online de moda</a></h4>
+    <a href='https://computerhoy.com/gaming/chronophoto-te-pone-prueba-funciona-juego-gratuito-online-moda-1193558' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/chronophoto-te-pone-prueba-funciona-juego-gratuito-online-moda-2944058.jpg?tf=1200x' alt='Chronophoto te pone a prueba: así funciona el juego gratuito online de moda' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/pc/presentados-samsung-galaxy-book-3-ultra-pro-360-pantallas-amoled-ultimo-intel-rtx-4070-1193570'>Presentados los Samsung Galaxy Book 3 Ultra, Pro y 360 con pantallas AMOLED, lo último de Intel y hasta RTX 4070</a></h4>
     <a href='https://computerhoy.com/pc/presentados-samsung-galaxy-book-3-ultra-pro-360-pantallas-amoled-ultimo-intel-rtx-4070-1193570' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/galaxy-book-3-2944010.jpg?tf=1200x' alt='Presentados los Samsung Galaxy Book 3 Ultra, Pro y 360 con pantallas AMOLED, lo último de Intel y hasta RTX 4070' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/moviles/primeras-impresiones-samsung-galaxy-s23-ultra-bestia-200-megapixeles-pantalla-plana-1193368'>Primeras impresiones del Samsung Galaxy S23 Ultra, una bestia con 200 megapíxeles y más pantalla plana</a></h4>
     <a href='https://computerhoy.com/moviles/primeras-impresiones-samsung-galaxy-s23-ultra-bestia-200-megapixeles-pantalla-plana-1193368' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/impresiones-samsung-galaxy-s23-ultra-2943540.jpg?tf=1200x' alt='Primeras impresiones del Samsung Galaxy S23 Ultra, una bestia con 200 megapíxeles y más pantalla plana' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/son-samsung-galaxy-s23-snapdragon-8-gen-2-bateria-s23-ultra-camara-200-megapixeles-1193250'>Así son los Samsung Galaxy S23: Snapdragon 8 Gen 2, más batería y un S23 Ultra con cámara de 200 megapíxeles</a></h4>
-    <a href='https://computerhoy.com/moviles/son-samsung-galaxy-s23-snapdragon-8-gen-2-bateria-s23-ultra-camara-200-megapixeles-1193250' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/samsung-galaxy-s23-2943658.jpg?tf=1200x' alt='Así son los Samsung Galaxy S23: Snapdragon 8 Gen 2, más batería y un S23 Ultra con cámara de 200 megapíxeles' />
     </a>
 </div>
 
