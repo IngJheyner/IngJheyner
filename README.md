@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/gaming/son-logitech-g-fits-primeros-auriculares-gaming-boton-1193454'>Así son los Logitech G FITS, sus primeros auriculares gaming de botón</a></h4>
+    <a href='https://computerhoy.com/gaming/son-logitech-g-fits-primeros-auriculares-gaming-boton-1193454' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/logitech-g-fits-2943672.jpg?tf=1200x' alt='Así son los Logitech G FITS, sus primeros auriculares gaming de botón' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/no-deberia-haber-cenado-jeffrey-epstein-bill-gates-somete-entrevistas-incomodas-vida-1193408'>"No debería haber cenado con Jeffrey Epstein": Bill Gates se somete a una de las entrevistas más incómodas de su vida</a></h4>
     <a href='https://computerhoy.com/life/no-deberia-haber-cenado-jeffrey-epstein-bill-gates-somete-entrevistas-incomodas-vida-1193408' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/bill-gates-punto-pantalla-azul-entrevistas-incomodas-vida-2943524.jpg?tf=1200x' alt='"No debería haber cenado con Jeffrey Epstein": Bill Gates se somete a una de las entrevistas más incómodas de su vida' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/entretenimiento/caja-misteriosa-nueva-funcion-netflix-ninos-descubran-nuevas-series-peliculas-dispositivos-android-1193382'>La Caja Misteriosa: la nueva función de Netflix para que los niños se abran a nuevos mundos en dispositivos Android</a></h4>
     <a href='https://computerhoy.com/entretenimiento/caja-misteriosa-nueva-funcion-netflix-ninos-descubran-nuevas-series-peliculas-dispositivos-android-1193382' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/netflix-lanza-caja-misteriosa-descubrir-nuevas-series-peliculas-dispositivos-android-2943378.jpg?tf=1200x' alt='La Caja Misteriosa: la nueva función de Netflix para que los niños se abran a nuevos mundos en dispositivos Android' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/gaming/electronic-arts-cancela-battlefield-mobile-cierra-apex-legends-mobile-problemas-ea-1193370'>Electronic Arts cancela Battlefield Mobile y cierra Apex Legends Mobile: problemas para EA</a></h4>
-    <a href='https://computerhoy.com/gaming/electronic-arts-cancela-battlefield-mobile-cierra-apex-legends-mobile-problemas-ea-1193370' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/battlefield-mobile-2943244.jpg?tf=1200x' alt='Electronic Arts cancela Battlefield Mobile y cierra Apex Legends Mobile: problemas para EA' />
     </a>
 </div>
 
