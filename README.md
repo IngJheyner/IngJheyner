@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/alternativas-aspiradoras-cable-dyson-999121'>Alternativas a las aspiradoras sin cable Dyson que tienen poco que envidiarles</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/alternativas-aspiradoras-cable-dyson-999121' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/aspiradora-inalambrica-2592189.jpg?tf=1200x' alt='Alternativas a las aspiradoras sin cable Dyson que tienen poco que envidiarles' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/estos-son-trabajos-podrian-desaparecer-llegada-chatgpt-1193446'>Estos son los trabajos que sí que podrían desaparecer tras la llegada de ChatGPT</a></h4>
+    <a href='https://computerhoy.com/tecnologia/estos-son-trabajos-podrian-desaparecer-llegada-chatgpt-1193446' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/escrito-texto-ia-chatgpt-puedes-detectarlo-2933996.jpg?tf=1200x' alt='Estos son los trabajos que sí que podrían desaparecer tras la llegada de ChatGPT' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/gaming/roulette-dice-dados-ruleta-juegos-mesa-video-1193886'>Roulette Dice, el gadget que quiere jubilar a los dados en los juegos de mesa (vídeo)</a></h4>
+    <a href='https://computerhoy.com/gaming/roulette-dice-dados-ruleta-juegos-mesa-video-1193886' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/verticalimage1675293954802-2944184.jpg?tf=1200x' alt='Roulette Dice, el gadget que quiere jubilar a los dados en los juegos de mesa (vídeo)' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/criptos/quien-tiene-mas-bitcoins-mundo-1193890'>¿Quién tiene más bitcoins? Intentamos desvelar el secreto mejor guardado</a></h4>
+    <a href='https://computerhoy.com/criptos/quien-tiene-mas-bitcoins-mundo-1193890' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/quien-tiene-bitcoins-intentamos-desvelar-secreto-mejor-guardado-2944424.jpg?tf=1200x' alt='¿Quién tiene más bitcoins? Intentamos desvelar el secreto mejor guardado' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/26-noticias-tecnologia-comenzar-manana-informado-ultimo-1193892'>26 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
     <a href='https://computerhoy.com/tecnologia/26-noticias-tecnologia-comenzar-manana-informado-ultimo-1193892' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/26-noticias-tecnologia-comenzar-manana-informado-ultimo-2944430.jpg?tf=1200x' alt='26 noticias de tecnología para comenzar la mañana informado de lo último' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-relojes-inteligentes-baratos-comprar-aliexpress-1002953'>Mejores relojes inteligentes baratos que puedes comprar en AliExpress</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-relojes-inteligentes-baratos-comprar-aliexpress-1002953' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/realme-watch-3-2942272.jpg?tf=1200x' alt='Mejores relojes inteligentes baratos que puedes comprar en AliExpress' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/150-millones-dolares-resucitar-dodo-1193888'>150 millones de dólares para resucitar al dodo</a></h4>
-    <a href='https://computerhoy.com/ciencia/150-millones-dolares-resucitar-dodo-1193888' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/cientificos-consiguen-completar-genoma-mitico-dodo-plantean-resucitarlo-2655623.jpg?tf=1200x' alt='150 millones de dólares para resucitar al dodo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/chatgpt-plus-version-pago-openai-que-ofrece-1193648'>Llega ChatGPT Plus, la versión de pago por 20 dólares al mes, ¿qué ofrece?</a></h4>
-    <a href='https://computerhoy.com/tecnologia/chatgpt-plus-version-pago-openai-que-ofrece-1193648' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/llega-chatgpt-plus-version-pago-20-dolares-mes-ofrece-2944146.jpg?tf=1200x' alt='Llega ChatGPT Plus, la versión de pago por 20 dólares al mes, ¿qué ofrece?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/marc-marquez-final-star-trek-picard-carnival-row-estrenos-prime-video-febrero-1193634'>Marc Márquez y el final de Star Trek Picard y Carnival Row, entre los estrenos de Prime Video en febrero</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/marc-marquez-final-star-trek-picard-carnival-row-estrenos-prime-video-febrero-1193634' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/marc-marquez-nuevas-temporadas-star-trek-picard-carnival-row-estrenos-prime-video-febrero-2944072.jpg?tf=1200x' alt='Marc Márquez y el final de Star Trek Picard y Carnival Row, entre los estrenos de Prime Video en febrero' />
     </a>
 </div>
 
