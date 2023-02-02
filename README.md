@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/redes/trucos-consejos-aumentar-velocidad-internet-1193002'>Trucos y consejos para aumentar la velocidad de Internet</a></h4>
+    <a href='https://computerhoy.com/redes/trucos-consejos-aumentar-velocidad-internet-1193002' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/router-2944800.jpg?tf=1200x' alt='Trucos y consejos para aumentar la velocidad de Internet' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/ia-nvidia-rompiendo-cuarta-pared-cine-terrorifico-1194100'>La IA de NVIDIA está rompiendo la cuarta pared en el cine y es terrorífico</a></h4>
+    <a href='https://computerhoy.com/tecnologia/ia-nvidia-rompiendo-cuarta-pared-cine-terrorifico-1194100' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/ia-nvidia-2944842.jpg?tf=1200x' alt='La IA de NVIDIA está rompiendo la cuarta pared en el cine y es terrorífico' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/moviles/iphone-14-plus-256-gb-oferta-precio-minimo-1194024'>Si un iPhone normal se te queda pequeño, estos iPhone 14 Plus por fin bajan de precio en Amazon</a></h4>
     <a href='https://computerhoy.com/moviles/iphone-14-plus-256-gb-oferta-precio-minimo-1194024' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/apple-iphone-14-plus-analisis-opinion-2857693.jpg?tf=1200x' alt='Si un iPhone normal se te queda pequeño, estos iPhone 14 Plus por fin bajan de precio en Amazon' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/mes-pruebas-drone-amazon-solo-ha-servido-10-casas-muchos-empleados-han-sido-despedidos-1194072'>Un mes de pruebas y el drone de Amazon solo ha servido a 10 casas y muchos empleados han sido despedidos</a></h4>
     <a href='https://computerhoy.com/tecnologia/mes-pruebas-drone-amazon-solo-ha-servido-10-casas-muchos-empleados-han-sido-despedidos-1194072' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/amazone-prime-air-2944802.jpg?tf=1200x' alt='Un mes de pruebas y el drone de Amazon solo ha servido a 10 casas y muchos empleados han sido despedidos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/energia/energias-solar-eolica-superan-primera-vez-combustibles-fosiles-europa-1194068'>Las energías solar y eólica superan, por primera vez, a los combustibles fósiles en Europa</a></h4>
-    <a href='https://computerhoy.com/energia/energias-solar-eolica-superan-primera-vez-combustibles-fosiles-europa-1194068' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/molino-viento-energia-eolica-2944756.jpg?tf=1200x' alt='Las energías solar y eólica superan, por primera vez, a los combustibles fósiles en Europa' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-comprobar-version-edicion-windows-11-tienes-1189372'>Cómo comprobar qué versión y edición de Windows 11 tienes</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-comprobar-version-edicion-windows-11-tienes-1189372' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/windows-11-2936858.jpg?tf=1200x' alt='Cómo comprobar qué versión y edición de Windows 11 tienes' />
     </a>
 </div>
 
