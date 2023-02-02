@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/audio/auriculares-premium-bose-qc-45-descuento-80-euros-1194300'>Estos auriculares premium de Bose, para los amantes de lo clásico, tienen un descuento de 80 euros y son una gozada</a></h4>
+    <a href='https://computerhoy.com/audio/auriculares-premium-bose-qc-45-descuento-80-euros-1194300' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/estos-auriculares-premium-bose-amantes-clasico-tienen-descuento-80-euros-son-gozada-2945222.jpg?tf=1200x' alt='Estos auriculares premium de Bose, para los amantes de lo clásico, tienen un descuento de 80 euros y son una gozada' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/redes-sociales/twitter-lia-elon-musk-quiere-pagues-usar-api-red-social-1194230'>Twitter la lia: Elon Musk quiere que pagues por usar la API de su red social</a></h4>
+    <a href='https://computerhoy.com/redes-sociales/twitter-lia-elon-musk-quiere-pagues-usar-api-red-social-1194230' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/elon-musk-2903170.jpg?tf=1200x' alt='Twitter la lia: Elon Musk quiere que pagues por usar la API de su red social' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/entretenimiento/dia-marmota-pelicula-atrapado-tiempo-1194284'>Hoy es el Día de la Marmota, así que tienes una cita obligada con la mítica película Atrapado en el tiempo</a></h4>
     <a href='https://computerhoy.com/entretenimiento/dia-marmota-pelicula-atrapado-tiempo-1194284' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/hoy-dia-marmota-tienes-cita-obligada-mitica-pelicula-atrapado-tiempo-2945164.jpg?tf=1200x' alt='Hoy es el Día de la Marmota, así que tienes una cita obligada con la mítica película Atrapado en el tiempo' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/streaming/netflix-recula-momento-afirma-polemicas-condiciones-compartir-cuenta-son-error-1194270'>Netflix recula (de momento) y afirma que las polémicas condiciones para compartir cuenta son un error</a></h4>
     <a href='https://computerhoy.com/streaming/netflix-recula-momento-afirma-polemicas-condiciones-compartir-cuenta-son-error-1194270' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/netflix-2945162.jpg?tf=1200x' alt='Netflix recula (de momento) y afirma que las polémicas condiciones para compartir cuenta son un error' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/redes-sociales/tiktok-copia-youtube-va-castigar-creadores-no-cumplan-normas-1193560'>TikTok copia a YouTube y va a castigar a los creadores que no cumplan las normas</a></h4>
-    <a href='https://computerhoy.com/redes-sociales/tiktok-copia-youtube-va-castigar-creadores-no-cumplan-normas-1193560' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/tiktok-copia-youtube-va-castigar-creadores-no-cumplan-normas-2945154.jpg?tf=1200x' alt='TikTok copia a YouTube y va a castigar a los creadores que no cumplan las normas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/paso-a-paso/hardware/como-recuperar-formatear-tarjeta-sd-microsd-danada-54444'>Cómo recuperar y formatear una tarjeta SD o microSD dañada</a></h4>
-    <a href='https://computerhoy.com/paso-a-paso/hardware/como-recuperar-formatear-tarjeta-sd-microsd-danada-54444' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/tarjetas-sd-2808431.jpg?tf=1200x' alt='Cómo recuperar y formatear una tarjeta SD o microSD dañada' />
     </a>
 </div>
 
