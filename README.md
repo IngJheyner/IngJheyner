@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/gaming/steam-lanza-mayor-cambio-interfaz-ultimos-10-anos-gracias-steam-deck-1194306'>Steam lanza el mayor cambio en su interfaz en los últimos 10 años, gracias a Steam Deck</a></h4>
+    <a href='https://computerhoy.com/gaming/steam-lanza-mayor-cambio-interfaz-ultimos-10-anos-gracias-steam-deck-1194306' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/steam-lanza-mayor-cambio-interfaz-ultimos-10-anos-gracias-steam-deck-2945230.jpg?tf=1200x' alt='Steam lanza el mayor cambio en su interfaz en los últimos 10 años, gracias a Steam Deck' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/motor/pronto-podras-cargar-coche-electrico-mientras-haces-compra-plan-mercadona-1194296'>Pronto podrás cargar tu coche eléctrico mientras haces la compra: así es el plan del Mercadona</a></h4>
+    <a href='https://computerhoy.com/motor/pronto-podras-cargar-coche-electrico-mientras-haces-compra-plan-mercadona-1194296' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/pronto-podras-cargar-coche-electrico-mientras-haces-compra-plan-mercadona-2945224.jpg?tf=1200x' alt='Pronto podrás cargar tu coche eléctrico mientras haces la compra: así es el plan del Mercadona' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/audio/auriculares-premium-bose-qc-45-descuento-80-euros-1194300'>Estos auriculares premium de Bose, para los amantes de lo clásico, tienen un descuento de 80 euros y son una gozada</a></h4>
     <a href='https://computerhoy.com/audio/auriculares-premium-bose-qc-45-descuento-80-euros-1194300' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/estos-auriculares-premium-bose-amantes-clasico-tienen-descuento-80-euros-son-gozada-2945222.jpg?tf=1200x' alt='Estos auriculares premium de Bose, para los amantes de lo clásico, tienen un descuento de 80 euros y son una gozada' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/entretenimiento/dia-marmota-pelicula-atrapado-tiempo-1194284'>Hoy es el Día de la Marmota, así que tienes una cita obligada con la mítica película Atrapado en el tiempo</a></h4>
     <a href='https://computerhoy.com/entretenimiento/dia-marmota-pelicula-atrapado-tiempo-1194284' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/hoy-dia-marmota-tienes-cita-obligada-mitica-pelicula-atrapado-tiempo-2945164.jpg?tf=1200x' alt='Hoy es el Día de la Marmota, así que tienes una cita obligada con la mítica película Atrapado en el tiempo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/mapa-muestra-trabajo-sonado-cada-pais-mundo-espana-vuelve-dar-nota-1194274'>Este mapa muestra el trabajo soñado en cada país del mundo y España vuelve a dar la nota</a></h4>
-    <a href='https://computerhoy.com/life/mapa-muestra-trabajo-sonado-cada-pais-mundo-espana-vuelve-dar-nota-1194274' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/profesiones-2945174.jpg?tf=1200x' alt='Este mapa muestra el trabajo soñado en cada país del mundo y España vuelve a dar la nota' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/streaming/netflix-recula-momento-afirma-polemicas-condiciones-compartir-cuenta-son-error-1194270'>Netflix recula (de momento) y afirma que las polémicas condiciones para compartir cuenta son un error</a></h4>
-    <a href='https://computerhoy.com/streaming/netflix-recula-momento-afirma-polemicas-condiciones-compartir-cuenta-son-error-1194270' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/netflix-2945162.jpg?tf=1200x' alt='Netflix recula (de momento) y afirma que las polémicas condiciones para compartir cuenta son un error' />
     </a>
 </div>
 
