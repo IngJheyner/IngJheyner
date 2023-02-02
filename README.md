@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/moviles/galaxy-s23-no-tienen-conexion-satelital-motivo-samsung-1193922'>Los Galaxy S23 no tienen conexión satelital y este es el motivo de Samsung</a></h4>
+    <a href='https://computerhoy.com/moviles/galaxy-s23-no-tienen-conexion-satelital-motivo-samsung-1193922' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/samsung-galaxy-s23-2943658.jpg?tf=1200x' alt='Los Galaxy S23 no tienen conexión satelital y este es el motivo de Samsung' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/ya-quiosco-numero-635-computer-hoy-1190110'>¡Ya está en tu quiosco el número 635 de Computer Hoy!</a></h4>
+    <a href='https://computerhoy.com/tecnologia/ya-quiosco-numero-635-computer-hoy-1190110' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/computer-hoy-635-2938866.jpg?tf=1200x' alt='¡Ya está en tu quiosco el número 635 de Computer Hoy!' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/nuevo-anime-netflix-causa-indignacion-incorporar-arte-generado-ia-dejar-lado-humano-1193916'>El nuevo anime de Netflix causa indignación por incorporar arte generado por IA y dejar a un lado al humano</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/nuevo-anime-netflix-causa-indignacion-incorporar-arte-generado-ia-dejar-lado-humano-1193916' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/nuevo-anime-netflix-causa-indignacion-incorporar-arte-generado-ia-dejar-lado-humano-2944468.jpg?tf=1200x' alt='El nuevo anime de Netflix causa indignación por incorporar arte generado por IA y dejar a un lado al humano' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/pc/hacer-no-hacer-ordenador-movil-incendiase-pasa-1193540'>Qué hacer, y qué no hacer, si tu ordenador o móvil se incendiase y por qué pasa</a></h4>
+    <a href='https://computerhoy.com/pc/hacer-no-hacer-ordenador-movil-incendiase-pasa-1193540' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/ordenador-llamas-2943874.jpg?tf=1200x' alt='Qué hacer, y qué no hacer, si tu ordenador o móvil se incendiase y por qué pasa' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/alternativas-aspiradoras-cable-dyson-999121'>Alternativas a las aspiradoras sin cable Dyson que tienen poco que envidiarles</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/alternativas-aspiradoras-cable-dyson-999121' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/aspiradora-inalambrica-2592189.jpg?tf=1200x' alt='Alternativas a las aspiradoras sin cable Dyson que tienen poco que envidiarles' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/estos-son-trabajos-podrian-desaparecer-llegada-chatgpt-1193446'>Estos son los trabajos que sí que podrían desaparecer tras la llegada de ChatGPT</a></h4>
-    <a href='https://computerhoy.com/tecnologia/estos-son-trabajos-podrian-desaparecer-llegada-chatgpt-1193446' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/escrito-texto-ia-chatgpt-puedes-detectarlo-2933996.jpg?tf=1200x' alt='Estos son los trabajos que sí que podrían desaparecer tras la llegada de ChatGPT' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/gaming/roulette-dice-dados-ruleta-juegos-mesa-video-1193886'>Roulette Dice, el gadget que quiere jubilar a los dados en los juegos de mesa (vídeo)</a></h4>
-    <a href='https://computerhoy.com/gaming/roulette-dice-dados-ruleta-juegos-mesa-video-1193886' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/verticalimage1675293954802-2944184.jpg?tf=1200x' alt='Roulette Dice, el gadget que quiere jubilar a los dados en los juegos de mesa (vídeo)' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/criptos/quien-tiene-mas-bitcoins-mundo-1193890'>¿Quién tiene más bitcoins? Intentamos desvelar el secreto mejor guardado</a></h4>
-    <a href='https://computerhoy.com/criptos/quien-tiene-mas-bitcoins-mundo-1193890' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/quien-tiene-bitcoins-intentamos-desvelar-secreto-mejor-guardado-2944424.jpg?tf=1200x' alt='¿Quién tiene más bitcoins? Intentamos desvelar el secreto mejor guardado' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/26-noticias-tecnologia-comenzar-manana-informado-ultimo-1193892'>26 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
-    <a href='https://computerhoy.com/tecnologia/26-noticias-tecnologia-comenzar-manana-informado-ultimo-1193892' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/26-noticias-tecnologia-comenzar-manana-informado-ultimo-2944430.jpg?tf=1200x' alt='26 noticias de tecnología para comenzar la mañana informado de lo último' />
     </a>
 </div>
 
