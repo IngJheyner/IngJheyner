@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/espacio/mapa-universo-muestra-toda-materia-hay-espacio-1193946'>Así es el mapa del universo que muestra toda la materia que hay en el Espacio</a></h4>
+    <a href='https://computerhoy.com/espacio/mapa-universo-muestra-toda-materia-hay-espacio-1193946' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/ultima-imagen-james-webb-nasa-tiene-locos-astronomos-como-radiografia-2855263.jpg?tf=1200x' alt='Así es el mapa del universo que muestra toda la materia que hay en el Espacio' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/movil-google-pixel-6a-barato-acierto-seguro-1192744'>Este móvil de Google es acierto seguro en San Valentín: cuesta 359 euros y tiene una cámara sobresaliente</a></h4>
+    <a href='https://computerhoy.com/tecnologia/movil-google-pixel-6a-barato-acierto-seguro-1192744' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/google-pixel-6a-2942152.jpg?tf=1200x' alt='Este móvil de Google es acierto seguro en San Valentín: cuesta 359 euros y tiene una cámara sobresaliente' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/como-funciona-marca-agua-detectar-voces-generadas-ia-imperceptible-humano-1193926'>Así es como funciona una marca de agua para detectar voces generadas por IA, imperceptible para el humano</a></h4>
+    <a href='https://computerhoy.com/tecnologia/como-funciona-marca-agua-detectar-voces-generadas-ia-imperceptible-humano-1193926' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/como-funciona-marca-agua-detectar-voces-generadas-ia-imperceptible-humano-2944502.jpg?tf=1200x' alt='Así es como funciona una marca de agua para detectar voces generadas por IA, imperceptible para el humano' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/moviles/galaxy-s23-no-tienen-conexion-satelital-motivo-samsung-1193922'>Los Galaxy S23 no tienen conexión satelital y este es el motivo de Samsung</a></h4>
     <a href='https://computerhoy.com/moviles/galaxy-s23-no-tienen-conexion-satelital-motivo-samsung-1193922' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/samsung-galaxy-s23-2943658.jpg?tf=1200x' alt='Los Galaxy S23 no tienen conexión satelital y este es el motivo de Samsung' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/ya-quiosco-numero-635-computer-hoy-1190110'>¡Ya está en tu quiosco el número 635 de Computer Hoy!</a></h4>
     <a href='https://computerhoy.com/tecnologia/ya-quiosco-numero-635-computer-hoy-1190110' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/computer-hoy-635-2938866.jpg?tf=1200x' alt='¡Ya está en tu quiosco el número 635 de Computer Hoy!' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/nuevo-anime-netflix-causa-indignacion-incorporar-arte-generado-ia-dejar-lado-humano-1193916'>El nuevo anime de Netflix causa indignación por incorporar arte generado por IA y dejar a un lado al humano</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/nuevo-anime-netflix-causa-indignacion-incorporar-arte-generado-ia-dejar-lado-humano-1193916' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/nuevo-anime-netflix-causa-indignacion-incorporar-arte-generado-ia-dejar-lado-humano-2944468.jpg?tf=1200x' alt='El nuevo anime de Netflix causa indignación por incorporar arte generado por IA y dejar a un lado al humano' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/hacer-no-hacer-ordenador-movil-incendiase-pasa-1193540'>Qué hacer, y qué no hacer, si tu ordenador o móvil se incendiase y por qué pasa</a></h4>
-    <a href='https://computerhoy.com/pc/hacer-no-hacer-ordenador-movil-incendiase-pasa-1193540' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/ordenador-llamas-2943874.jpg?tf=1200x' alt='Qué hacer, y qué no hacer, si tu ordenador o móvil se incendiase y por qué pasa' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/alternativas-aspiradoras-cable-dyson-999121'>Alternativas a las aspiradoras sin cable Dyson que tienen poco que envidiarles</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/alternativas-aspiradoras-cable-dyson-999121' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/aspiradora-inalambrica-2592189.jpg?tf=1200x' alt='Alternativas a las aspiradoras sin cable Dyson que tienen poco que envidiarles' />
     </a>
 </div>
 
