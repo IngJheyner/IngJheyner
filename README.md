@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/moviles/son-nuevos-reno8-t-reno8-t-5g-acaba-lanzar-oppo-1194192'>Así son los nuevos Reno8 T y Reno8 T 5G que acaba de lanzar Oppo</a></h4>
+    <a href='https://computerhoy.com/moviles/son-nuevos-reno8-t-reno8-t-5g-acaba-lanzar-oppo-1194192' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/reno8-t-5g-2944976.jpg?tf=1200x' alt='Así son los nuevos Reno8 T y Reno8 T 5G que acaba de lanzar Oppo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/redes/trucos-consejos-aumentar-velocidad-internet-1193002'>Trucos y consejos para aumentar la velocidad de Internet</a></h4>
     <a href='https://computerhoy.com/redes/trucos-consejos-aumentar-velocidad-internet-1193002' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/router-2944800.jpg?tf=1200x' alt='Trucos y consejos para aumentar la velocidad de Internet' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/mejor-usar-wifi-ethernet-1192664'>¿Qué es mejor usar WiFi o Ethernet?</a></h4>
     <a href='https://computerhoy.com/tecnologia/mejor-usar-wifi-ethernet-1192664' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/router-wifi-2786559.jpg?tf=1200x' alt='¿Qué es mejor usar WiFi o Ethernet?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/mes-pruebas-drone-amazon-solo-ha-servido-10-casas-muchos-empleados-han-sido-despedidos-1194072'>Un mes de pruebas y el drone de Amazon solo ha servido a 10 casas y muchos empleados han sido despedidos</a></h4>
-    <a href='https://computerhoy.com/tecnologia/mes-pruebas-drone-amazon-solo-ha-servido-10-casas-muchos-empleados-han-sido-despedidos-1194072' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/amazone-prime-air-2944802.jpg?tf=1200x' alt='Un mes de pruebas y el drone de Amazon solo ha servido a 10 casas y muchos empleados han sido despedidos' />
     </a>
 </div>
 
