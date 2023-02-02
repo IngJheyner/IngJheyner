@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/reloj-inteligente-barato-honor-gps-1192762'>Este elegante reloj es inteligente, barato y llega a 14 días de batería ¡y con GPS!</a></h4>
+    <a href='https://computerhoy.com/tecnologia/reloj-inteligente-barato-honor-gps-1192762' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/honor-watch-gs3-2944582.jpg?tf=1200x' alt='Este elegante reloj es inteligente, barato y llega a 14 días de batería ¡y con GPS!' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/google/estas-5-extensiones-google-chrome-facilitaran-dotes-como-chef-1193992'>Estas 5 extensiones de Google Chrome facilitarán tus dotes como chef</a></h4>
+    <a href='https://computerhoy.com/google/estas-5-extensiones-google-chrome-facilitaran-dotes-como-chef-1193992' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/estas-5-extensiones-google-chrome-facilitaran-dotes-como-chef-2944570.jpg?tf=1200x' alt='Estas 5 extensiones de Google Chrome facilitarán tus dotes como chef' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/internet/diferencias-utorrent-bittorrent-cual-mejor-aplicacion-descargar-archivos-1193982'>Diferencias entre uTorrent y BitTorrent: ¿cuál es la mejor aplicación para descargar archivos?</a></h4>
+    <a href='https://computerhoy.com/internet/diferencias-utorrent-bittorrent-cual-mejor-aplicacion-descargar-archivos-1193982' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/bittorrent-utorrent-2944540.jpg?tf=1200x' alt='Diferencias entre uTorrent y BitTorrent: ¿cuál es la mejor aplicación para descargar archivos?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/espacio/mapa-universo-muestra-toda-materia-hay-espacio-1193946'>Así es el mapa del universo que muestra toda la materia que hay en el Espacio</a></h4>
     <a href='https://computerhoy.com/espacio/mapa-universo-muestra-toda-materia-hay-espacio-1193946' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/ultima-imagen-james-webb-nasa-tiene-locos-astronomos-como-radiografia-2855263.jpg?tf=1200x' alt='Así es el mapa del universo que muestra toda la materia que hay en el Espacio' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/movil-google-pixel-6a-barato-acierto-seguro-1192744'>Este móvil de Google es acierto seguro en San Valentín: cuesta 359 euros y tiene una cámara sobresaliente</a></h4>
     <a href='https://computerhoy.com/tecnologia/movil-google-pixel-6a-barato-acierto-seguro-1192744' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/google-pixel-6a-2942152.jpg?tf=1200x' alt='Este móvil de Google es acierto seguro en San Valentín: cuesta 359 euros y tiene una cámara sobresaliente' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/como-funciona-marca-agua-detectar-voces-generadas-ia-imperceptible-humano-1193926'>Así es como funciona una marca de agua para detectar voces generadas por IA, imperceptible para el humano</a></h4>
-    <a href='https://computerhoy.com/tecnologia/como-funciona-marca-agua-detectar-voces-generadas-ia-imperceptible-humano-1193926' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/como-funciona-marca-agua-detectar-voces-generadas-ia-imperceptible-humano-2944502.jpg?tf=1200x' alt='Así es como funciona una marca de agua para detectar voces generadas por IA, imperceptible para el humano' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/galaxy-s23-no-tienen-conexion-satelital-motivo-samsung-1193922'>Los Galaxy S23 no tienen conexión satelital y este es el motivo de Samsung</a></h4>
-    <a href='https://computerhoy.com/moviles/galaxy-s23-no-tienen-conexion-satelital-motivo-samsung-1193922' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/samsung-galaxy-s23-2943658.jpg?tf=1200x' alt='Los Galaxy S23 no tienen conexión satelital y este es el motivo de Samsung' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/ya-quiosco-numero-635-computer-hoy-1190110'>¡Ya está en tu quiosco el número 635 de Computer Hoy!</a></h4>
-    <a href='https://computerhoy.com/tecnologia/ya-quiosco-numero-635-computer-hoy-1190110' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/computer-hoy-635-2938866.jpg?tf=1200x' alt='¡Ya está en tu quiosco el número 635 de Computer Hoy!' />
     </a>
 </div>
 
