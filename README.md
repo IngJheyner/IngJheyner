@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/reloj-inteligente-barato-honor-gps-1192762'>Este elegante reloj es inteligente, barato y llega a 14 días de batería ¡y con GPS!</a></h4>
-    <a href='https://computerhoy.com/tecnologia/reloj-inteligente-barato-honor-gps-1192762' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/honor-watch-gs3-2944582.jpg?tf=1200x' alt='Este elegante reloj es inteligente, barato y llega a 14 días de batería ¡y con GPS!' />
+    <h4><a href='https://computerhoy.com/energia/energias-solar-eolica-superan-primera-vez-combustibles-fosiles-europa-1194068'>Las energías solar y eólica superan, por primera vez, a los combustibles fósiles en Europa</a></h4>
+    <a href='https://computerhoy.com/energia/energias-solar-eolica-superan-primera-vez-combustibles-fosiles-europa-1194068' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/molino-viento-energia-eolica-2944756.jpg?tf=1200x' alt='Las energías solar y eólica superan, por primera vez, a los combustibles fósiles en Europa' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/estas-5-extensiones-google-chrome-facilitaran-dotes-como-chef-1193992'>Estas 5 extensiones de Google Chrome facilitarán tus dotes como chef</a></h4>
-    <a href='https://computerhoy.com/google/estas-5-extensiones-google-chrome-facilitaran-dotes-como-chef-1193992' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/estas-5-extensiones-google-chrome-facilitaran-dotes-como-chef-2944570.jpg?tf=1200x' alt='Estas 5 extensiones de Google Chrome facilitarán tus dotes como chef' />
+    <h4><a href='https://computerhoy.com/tutoriales/como-comprobar-version-edicion-windows-11-tienes-1189372'>Cómo comprobar qué versión y edición de Windows 11 tienes</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-comprobar-version-edicion-windows-11-tienes-1189372' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/windows-11-2936858.jpg?tf=1200x' alt='Cómo comprobar qué versión y edición de Windows 11 tienes' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/diferencias-utorrent-bittorrent-cual-mejor-aplicacion-descargar-archivos-1193982'>Diferencias entre uTorrent y BitTorrent: ¿cuál es la mejor aplicación para descargar archivos?</a></h4>
-    <a href='https://computerhoy.com/internet/diferencias-utorrent-bittorrent-cual-mejor-aplicacion-descargar-archivos-1193982' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/bittorrent-utorrent-2944540.jpg?tf=1200x' alt='Diferencias entre uTorrent y BitTorrent: ¿cuál es la mejor aplicación para descargar archivos?' />
+    <h4><a href='https://computerhoy.com/tutoriales/como-sacar-partido-chatgpt-whatsapp-usos-populares-1192032'>Cómo sacar partido a ChatGPT en WhatsApp y los usos más populares</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-sacar-partido-chatgpt-whatsapp-usos-populares-1192032' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/chatgpt-whatsapp-2940996.jpg?tf=1200x' alt='Cómo sacar partido a ChatGPT en WhatsApp y los usos más populares' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/mapa-universo-muestra-toda-materia-hay-espacio-1193946'>Así es el mapa del universo que muestra toda la materia que hay en el Espacio</a></h4>
-    <a href='https://computerhoy.com/espacio/mapa-universo-muestra-toda-materia-hay-espacio-1193946' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/ultima-imagen-james-webb-nasa-tiene-locos-astronomos-como-radiografia-2855263.jpg?tf=1200x' alt='Así es el mapa del universo que muestra toda la materia que hay en el Espacio' />
+    <h4><a href='https://computerhoy.com/google/cuentas-gmail-sufriran-importantes-cambios-no-podras-hacer-nada-evitarlo-1194046'>Las cuentas de Gmail sufrirán importantes cambios y no podrás hacer nada para evitarlo</a></h4>
+    <a href='https://computerhoy.com/google/cuentas-gmail-sufriran-importantes-cambios-no-podras-hacer-nada-evitarlo-1194046' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/cuentas-gmail-sufriran-importantes-cambios-no-podras-hacer-nada-evitarlo-2944746.jpg?tf=1200x' alt='Las cuentas de Gmail sufrirán importantes cambios y no podrás hacer nada para evitarlo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/movil-google-pixel-6a-barato-acierto-seguro-1192744'>Este móvil de Google es acierto seguro en San Valentín: cuesta 359 euros y tiene una cámara sobresaliente</a></h4>
-    <a href='https://computerhoy.com/tecnologia/movil-google-pixel-6a-barato-acierto-seguro-1192744' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/google-pixel-6a-2942152.jpg?tf=1200x' alt='Este móvil de Google es acierto seguro en San Valentín: cuesta 359 euros y tiene una cámara sobresaliente' />
+    <h4><a href='https://computerhoy.com/gaming/llega-ps5-fin-aplicacion-preferida-gamers-pc-1194060'>Llega a PS5, por fin, la aplicación preferida por los gamers de PC</a></h4>
+    <a href='https://computerhoy.com/gaming/llega-ps5-fin-aplicacion-preferida-gamers-pc-1194060' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/11/ps5-playstation-5-2123379.jpg?tf=1200x' alt='Llega a PS5, por fin, la aplicación preferida por los gamers de PC' />
     </a>
 </div>
 
