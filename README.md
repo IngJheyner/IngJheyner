@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/paso-a-paso/hardware/como-recuperar-formatear-tarjeta-sd-microsd-danada-54444'>Cómo recuperar y formatear una tarjeta SD o microSD dañada</a></h4>
+    <a href='https://computerhoy.com/paso-a-paso/hardware/como-recuperar-formatear-tarjeta-sd-microsd-danada-54444' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/tarjetas-sd-2808431.jpg?tf=1200x' alt='Cómo recuperar y formatear una tarjeta SD o microSD dañada' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/motor/como-acceder-zona-bajas-emisiones-pegatina-dgt-recibir-multa-1194228'>Cómo acceder a una zona de bajas emisiones sin pegatina de la DGT y sin recibir una multa</a></h4>
+    <a href='https://computerhoy.com/motor/como-acceder-zona-bajas-emisiones-pegatina-dgt-recibir-multa-1194228' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/09/zona-bajas-emisiones-barcelona.jpg?tf=1200x' alt='Cómo acceder a una zona de bajas emisiones sin pegatina de la DGT y sin recibir una multa' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/moviles/son-nuevos-reno8-t-reno8-t-5g-acaba-lanzar-oppo-1194192'>Así son los nuevos Reno8 T y Reno8 T 5G que acaba de lanzar Oppo</a></h4>
     <a href='https://computerhoy.com/moviles/son-nuevos-reno8-t-reno8-t-5g-acaba-lanzar-oppo-1194192' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/reno8-t-5g-2944976.jpg?tf=1200x' alt='Así son los nuevos Reno8 T y Reno8 T 5G que acaba de lanzar Oppo' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/ia-nvidia-rompiendo-cuarta-pared-cine-terrorifico-1194100'>La IA de NVIDIA está rompiendo la cuarta pared en el cine y es terrorífico</a></h4>
     <a href='https://computerhoy.com/tecnologia/ia-nvidia-rompiendo-cuarta-pared-cine-terrorifico-1194100' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/ia-nvidia-2944842.jpg?tf=1200x' alt='La IA de NVIDIA está rompiendo la cuarta pared en el cine y es terrorífico' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/iphone-14-plus-256-gb-oferta-precio-minimo-1194024'>Si un iPhone normal se te queda pequeño, estos iPhone 14 Plus por fin bajan de precio en Amazon</a></h4>
-    <a href='https://computerhoy.com/moviles/iphone-14-plus-256-gb-oferta-precio-minimo-1194024' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/apple-iphone-14-plus-analisis-opinion-2857693.jpg?tf=1200x' alt='Si un iPhone normal se te queda pequeño, estos iPhone 14 Plus por fin bajan de precio en Amazon' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/mejor-usar-wifi-ethernet-1192664'>¿Qué es mejor usar WiFi o Ethernet?</a></h4>
-    <a href='https://computerhoy.com/tecnologia/mejor-usar-wifi-ethernet-1192664' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/router-wifi-2786559.jpg?tf=1200x' alt='¿Qué es mejor usar WiFi o Ethernet?' />
     </a>
 </div>
 
