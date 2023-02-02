@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/redes-sociales/tiktok-copia-youtube-va-castigar-creadores-no-cumplan-normas-1193560'>TikTok copia a YouTube y va a castigar a los creadores que no cumplan las normas</a></h4>
+    <a href='https://computerhoy.com/redes-sociales/tiktok-copia-youtube-va-castigar-creadores-no-cumplan-normas-1193560' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/tiktok-copia-youtube-va-castigar-creadores-no-cumplan-normas-2945154.jpg?tf=1200x' alt='TikTok copia a YouTube y va a castigar a los creadores que no cumplan las normas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/paso-a-paso/hardware/como-recuperar-formatear-tarjeta-sd-microsd-danada-54444'>Cómo recuperar y formatear una tarjeta SD o microSD dañada</a></h4>
     <a href='https://computerhoy.com/paso-a-paso/hardware/como-recuperar-formatear-tarjeta-sd-microsd-danada-54444' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/tarjetas-sd-2808431.jpg?tf=1200x' alt='Cómo recuperar y formatear una tarjeta SD o microSD dañada' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/redes/trucos-consejos-aumentar-velocidad-internet-1193002'>Trucos y consejos para aumentar la velocidad de Internet</a></h4>
     <a href='https://computerhoy.com/redes/trucos-consejos-aumentar-velocidad-internet-1193002' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/router-2944800.jpg?tf=1200x' alt='Trucos y consejos para aumentar la velocidad de Internet' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/ia-nvidia-rompiendo-cuarta-pared-cine-terrorifico-1194100'>La IA de NVIDIA está rompiendo la cuarta pared en el cine y es terrorífico</a></h4>
-    <a href='https://computerhoy.com/tecnologia/ia-nvidia-rompiendo-cuarta-pared-cine-terrorifico-1194100' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/ia-nvidia-2944842.jpg?tf=1200x' alt='La IA de NVIDIA está rompiendo la cuarta pared en el cine y es terrorífico' />
     </a>
 </div>
 
