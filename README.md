@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/dia-marmota-pelicula-atrapado-tiempo-1194284'>Hoy es el Día de la Marmota, así que tienes una cita obligada con la mítica película Atrapado en el tiempo</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/dia-marmota-pelicula-atrapado-tiempo-1194284' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/hoy-dia-marmota-tienes-cita-obligada-mitica-pelicula-atrapado-tiempo-2945164.jpg?tf=1200x' alt='Hoy es el Día de la Marmota, así que tienes una cita obligada con la mítica película Atrapado en el tiempo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/mapa-muestra-trabajo-sonado-cada-pais-mundo-espana-vuelve-dar-nota-1194274'>Este mapa muestra el trabajo soñado en cada país del mundo y España vuelve a dar la nota</a></h4>
+    <a href='https://computerhoy.com/life/mapa-muestra-trabajo-sonado-cada-pais-mundo-espana-vuelve-dar-nota-1194274' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/profesiones-2945174.jpg?tf=1200x' alt='Este mapa muestra el trabajo soñado en cada país del mundo y España vuelve a dar la nota' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/streaming/netflix-recula-momento-afirma-polemicas-condiciones-compartir-cuenta-son-error-1194270'>Netflix recula (de momento) y afirma que las polémicas condiciones para compartir cuenta son un error</a></h4>
+    <a href='https://computerhoy.com/streaming/netflix-recula-momento-afirma-polemicas-condiciones-compartir-cuenta-son-error-1194270' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/netflix-2945162.jpg?tf=1200x' alt='Netflix recula (de momento) y afirma que las polémicas condiciones para compartir cuenta son un error' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/redes-sociales/tiktok-copia-youtube-va-castigar-creadores-no-cumplan-normas-1193560'>TikTok copia a YouTube y va a castigar a los creadores que no cumplan las normas</a></h4>
     <a href='https://computerhoy.com/redes-sociales/tiktok-copia-youtube-va-castigar-creadores-no-cumplan-normas-1193560' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/tiktok-copia-youtube-va-castigar-creadores-no-cumplan-normas-2945154.jpg?tf=1200x' alt='TikTok copia a YouTube y va a castigar a los creadores que no cumplan las normas' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/paso-a-paso/hardware/como-recuperar-formatear-tarjeta-sd-microsd-danada-54444'>Cómo recuperar y formatear una tarjeta SD o microSD dañada</a></h4>
     <a href='https://computerhoy.com/paso-a-paso/hardware/como-recuperar-formatear-tarjeta-sd-microsd-danada-54444' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/tarjetas-sd-2808431.jpg?tf=1200x' alt='Cómo recuperar y formatear una tarjeta SD o microSD dañada' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/como-acceder-zona-bajas-emisiones-pegatina-dgt-recibir-multa-1194228'>Cómo acceder a una zona de bajas emisiones sin pegatina de la DGT y sin recibir una multa</a></h4>
-    <a href='https://computerhoy.com/motor/como-acceder-zona-bajas-emisiones-pegatina-dgt-recibir-multa-1194228' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/09/zona-bajas-emisiones-barcelona.jpg?tf=1200x' alt='Cómo acceder a una zona de bajas emisiones sin pegatina de la DGT y sin recibir una multa' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/son-nuevos-reno8-t-reno8-t-5g-acaba-lanzar-oppo-1194192'>Así son los nuevos Reno8 T y Reno8 T 5G que acaba de lanzar Oppo</a></h4>
-    <a href='https://computerhoy.com/moviles/son-nuevos-reno8-t-reno8-t-5g-acaba-lanzar-oppo-1194192' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/reno8-t-5g-2944976.jpg?tf=1200x' alt='Así son los nuevos Reno8 T y Reno8 T 5G que acaba de lanzar Oppo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/redes/trucos-consejos-aumentar-velocidad-internet-1193002'>Trucos y consejos para aumentar la velocidad de Internet</a></h4>
-    <a href='https://computerhoy.com/redes/trucos-consejos-aumentar-velocidad-internet-1193002' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/router-2944800.jpg?tf=1200x' alt='Trucos y consejos para aumentar la velocidad de Internet' />
     </a>
 </div>
 
