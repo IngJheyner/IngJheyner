@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/150-millones-dolares-resucitar-dodo-1193888'>150 millones de dólares para resucitar al dodo</a></h4>
+    <a href='https://computerhoy.com/ciencia/150-millones-dolares-resucitar-dodo-1193888' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/cientificos-consiguen-completar-genoma-mitico-dodo-plantean-resucitarlo-2655623.jpg?tf=1200x' alt='150 millones de dólares para resucitar al dodo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/chatgpt-plus-version-pago-openai-que-ofrece-1193648'>Llega ChatGPT Plus, la versión de pago por 20 dólares al mes, ¿qué ofrece?</a></h4>
     <a href='https://computerhoy.com/tecnologia/chatgpt-plus-version-pago-openai-que-ofrece-1193648' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/llega-chatgpt-plus-version-pago-20-dolares-mes-ofrece-2944146.jpg?tf=1200x' alt='Llega ChatGPT Plus, la versión de pago por 20 dólares al mes, ¿qué ofrece?' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/streaming/netflix-mejora-condiciones-aunque-no-todos-usuarios-1193622'>Netflix mejora sus condiciones, aunque no para todos sus usuarios</a></h4>
     <a href='https://computerhoy.com/streaming/netflix-mejora-condiciones-aunque-no-todos-usuarios-1193622' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/netflix-2944082.jpg?tf=1200x' alt='Netflix mejora sus condiciones, aunque no para todos sus usuarios' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/portatil-macbook-pro-procesador-m2-apple-descuento-220-euros-1193592'>El portátil MacBook Pro con procesador M2 de Apple tiene un descuento de 220 euros, su precio más bajo desde el lanzamiento</a></h4>
-    <a href='https://computerhoy.com/apple/portatil-macbook-pro-procesador-m2-apple-descuento-220-euros-1193592' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/portatil-macbook-pro-procesador-m2-apple-tiene-descuento-220-euros-precio-lanzamiento-2944052.jpg?tf=1200x' alt='El portátil MacBook Pro con procesador M2 de Apple tiene un descuento de 220 euros, su precio más bajo desde el lanzamiento' />
     </a>
 </div>
 
