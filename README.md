@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/hogar/radiador-inteligente-xiaomi-rebajado-1194056'>Por fin encontramos el radiador inteligente de Xiaomi ¡y encima está rebajado!</a></h4>
+    <a href='https://computerhoy.com/hogar/radiador-inteligente-xiaomi-rebajado-1194056' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/fin-encontramos-radiador-inteligente-xiaomi-encima-rebajado-2944688.jpg?tf=1200x' alt='Por fin encontramos el radiador inteligente de Xiaomi ¡y encima está rebajado!' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/chatgpt-record-convierte-plataforma-rapido-alcanza-100-millones-usuarios-1194578'>ChatGPT es de récord y se convierte en la plataforma que más rápido alcanza los 100 millones de usuarios</a></h4>
+    <a href='https://computerhoy.com/tecnologia/chatgpt-record-convierte-plataforma-rapido-alcanza-100-millones-usuarios-1194578' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/chatgpt-ya-cuenta-version-pago-cuesta-novedades-incluye-2935660.jpg?tf=1200x' alt='ChatGPT es de récord y se convierte en la plataforma que más rápido alcanza los 100 millones de usuarios' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/apple-imbatible-iphones-lideran-mercado-fuerza-nunca-aunque-hay-matices-1194548'>Apple es imbatible y sus iPhones lideran el mercado con más fuerza que nunca aunque hay matices</a></h4>
+    <a href='https://computerhoy.com/apple/apple-imbatible-iphones-lideran-mercado-fuerza-nunca-aunque-hay-matices-1194548' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/apple-imbatible-iphones-lideran-mercado-fuerza-nunca-aunque-hay-matices-2945528.jpg?tf=1200x' alt='Apple es imbatible y sus iPhones lideran el mercado con más fuerza que nunca aunque hay matices' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/entretenimiento/james-cameron-cambia-final-titanic-25-anos-despues-1194552'>James Cameron cambia el final de Titanic 25 años después</a></h4>
     <a href='https://computerhoy.com/entretenimiento/james-cameron-cambia-final-titanic-25-anos-despues-1194552' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/titanic-2577587.jpg?tf=1200x' alt='James Cameron cambia el final de Titanic 25 años después' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/5-gadgets-todo-deportista-tecnologico-debe-tener-1194208'>Los 5 gadgets que todo deportista tecnológico debe tener</a></h4>
     <a href='https://computerhoy.com/tecnologia/5-gadgets-todo-deportista-tecnologico-debe-tener-1194208' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/apple-watch-ultra-2927740.jpg?tf=1200x' alt='Los 5 gadgets que todo deportista tecnológico debe tener' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/aires-acondicionados-bomba-calor-buen-precio-1193270'>Bomba de calor para calefacción: 5 aparatos de aire acondicionado que la tienen y merecen la pena</a></h4>
-    <a href='https://computerhoy.com/tecnologia/aires-acondicionados-bomba-calor-buen-precio-1193270' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/aire-acondicionado-portatil-2942330.jpg?tf=1200x' alt='Bomba de calor para calefacción: 5 aparatos de aire acondicionado que la tienen y merecen la pena' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/32-noticias-tecnologia-comenzar-manana-informado-ultimo-1194536'>32 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
-    <a href='https://computerhoy.com/tecnologia/32-noticias-tecnologia-comenzar-manana-informado-ultimo-1194536' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/32-noticias-tecnologia-comenzar-manana-informado-ultimo-2945490.jpg?tf=1200x' alt='32 noticias de tecnología para comenzar la mañana informado de lo último' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/deberian-datos-localizacion-google-ser-herramienta-policia-1194216'>¿Deberían los datos de localización de Google ser una herramienta más para la Policía? </a></h4>
-    <a href='https://computerhoy.com/google/deberian-datos-localizacion-google-ser-herramienta-policia-1194216' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/deberian-datos-localizacion-google-ser-herramienta-policia-2945110.jpg?tf=1200x' alt='¿Deberían los datos de localización de Google ser una herramienta más para la Policía? ' />
     </a>
 </div>
 
