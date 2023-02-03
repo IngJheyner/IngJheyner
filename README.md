@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/internet/sitios-prohibidos-donde-nunca-deberias-colocar-router-wifi-1194830'>Sitios prohibidos donde nunca deberías colocar tu router WiFi</a></h4>
+    <a href='https://computerhoy.com/internet/sitios-prohibidos-donde-nunca-deberias-colocar-router-wifi-1194830' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/router-wifi-2946290.jpg?tf=1200x' alt='Sitios prohibidos donde nunca deberías colocar tu router WiFi' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/bill-gates-no-corta-elon-musk-prefiero-vacunas-ir-marte-1194796'>Bill Gates no se corta con Elon Musk: “prefiero las vacunas a ir a Marte"</a></h4>
     <a href='https://computerhoy.com/tecnologia/bill-gates-no-corta-elon-musk-prefiero-vacunas-ir-marte-1194796' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/bill-gates-2628607.jpg?tf=1200x' alt='Bill Gates no se corta con Elon Musk: “prefiero las vacunas a ir a Marte"' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/espacio/cientificos-nasa-explican-venus-gemelo-malvado-tierra-importancia-1194780'>Científicos de la NASA explican por qué Venus es el gemelo malvado de la Tierra y su importancia</a></h4>
     <a href='https://computerhoy.com/espacio/cientificos-nasa-explican-venus-gemelo-malvado-tierra-importancia-1194780' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/venus-planeta-2357159.jpg?tf=1200x' alt='Científicos de la NASA explican por qué Venus es el gemelo malvado de la Tierra y su importancia' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/series-ver-fin-semana-netflix-movistar-plus-apple-tv-chica-sospechoso-milagro-1194672'>Qué series ver este fin de semana en Netflix, Movistar Plus+ y Apple TV+: una chica, un sospechoso y un milagro</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/series-ver-fin-semana-netflix-movistar-plus-apple-tv-chica-sospechoso-milagro-1194672' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/chica-nieve-2945846.jpg?tf=1200x' alt='Qué series ver este fin de semana en Netflix, Movistar Plus+ y Apple TV+: una chica, un sospechoso y un milagro' />
     </a>
 </div>
 
