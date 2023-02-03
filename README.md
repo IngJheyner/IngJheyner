@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/funcionan-ventanas-liquidas-inspiradas-piel-calamar-mayor-ahorro-energetico-1194612'>Así funcionan las ventanas líquidas inspiradas en la piel del calamar para un mayor ahorro energético</a></h4>
+    <a href='https://computerhoy.com/ciencia/funcionan-ventanas-liquidas-inspiradas-piel-calamar-mayor-ahorro-energetico-1194612' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/ventanas-liquidas-inspiran-piel-calamar-mayor-ahorro-energetico-2945628.jpg?tf=1200x' alt='Así funcionan las ventanas líquidas inspiradas en la piel del calamar para un mayor ahorro energético' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/moviles/iphone-14-plus-256-gb-oferta-precio-minimo-1194024'>Si un iPhone normal se te queda pequeño, estos iPhone 14 Plus por fin bajan de precio en Amazon</a></h4>
+    <a href='https://computerhoy.com/moviles/iphone-14-plus-256-gb-oferta-precio-minimo-1194024' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/apple-iphone-14-plus-analisis-opinion-2857693.jpg?tf=1200x' alt='Si un iPhone normal se te queda pequeño, estos iPhone 14 Plus por fin bajan de precio en Amazon' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/redes-sociales/twitter-blue-llega-espana-son-mejoras-ofrece-servicio-pago-1194572'>Twitter Blue llega a España y así son las mejoras que ofrece este servicio de pago</a></h4>
+    <a href='https://computerhoy.com/redes-sociales/twitter-blue-llega-espana-son-mejoras-ofrece-servicio-pago-1194572' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/twitter-blue-2945568.jpg?tf=1200x' alt='Twitter Blue llega a España y así son las mejoras que ofrece este servicio de pago' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/hogar/radiador-inteligente-xiaomi-rebajado-1194056'>Por fin encontramos el radiador inteligente de Xiaomi ¡y encima está rebajado!</a></h4>
     <a href='https://computerhoy.com/hogar/radiador-inteligente-xiaomi-rebajado-1194056' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/fin-encontramos-radiador-inteligente-xiaomi-encima-rebajado-2944688.jpg?tf=1200x' alt='Por fin encontramos el radiador inteligente de Xiaomi ¡y encima está rebajado!' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/chatgpt-record-convierte-plataforma-rapido-alcanza-100-millones-usuarios-1194578'>ChatGPT es de récord y se convierte en la plataforma que más rápido alcanza los 100 millones de usuarios</a></h4>
     <a href='https://computerhoy.com/tecnologia/chatgpt-record-convierte-plataforma-rapido-alcanza-100-millones-usuarios-1194578' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/chatgpt-ya-cuenta-version-pago-cuesta-novedades-incluye-2935660.jpg?tf=1200x' alt='ChatGPT es de récord y se convierte en la plataforma que más rápido alcanza los 100 millones de usuarios' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/apple-imbatible-iphones-lideran-mercado-fuerza-nunca-aunque-hay-matices-1194548'>Apple es imbatible y sus iPhones lideran el mercado con más fuerza que nunca aunque hay matices</a></h4>
-    <a href='https://computerhoy.com/apple/apple-imbatible-iphones-lideran-mercado-fuerza-nunca-aunque-hay-matices-1194548' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/apple-imbatible-iphones-lideran-mercado-fuerza-nunca-aunque-hay-matices-2945528.jpg?tf=1200x' alt='Apple es imbatible y sus iPhones lideran el mercado con más fuerza que nunca aunque hay matices' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/james-cameron-cambia-final-titanic-25-anos-despues-1194552'>James Cameron cambia el final de Titanic 25 años después</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/james-cameron-cambia-final-titanic-25-anos-despues-1194552' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/titanic-2577587.jpg?tf=1200x' alt='James Cameron cambia el final de Titanic 25 años después' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/5-gadgets-todo-deportista-tecnologico-debe-tener-1194208'>Los 5 gadgets que todo deportista tecnológico debe tener</a></h4>
-    <a href='https://computerhoy.com/tecnologia/5-gadgets-todo-deportista-tecnologico-debe-tener-1194208' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/apple-watch-ultra-2927740.jpg?tf=1200x' alt='Los 5 gadgets que todo deportista tecnológico debe tener' />
     </a>
 </div>
 
