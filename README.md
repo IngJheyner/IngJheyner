@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/hogar/estaciones-climatologicas-informacion-mejores-modelos-1193504'>Estaciones climatológicas: qué debes tener en cuenta y cuáles son las mejores</a></h4>
+    <a href='https://computerhoy.com/hogar/estaciones-climatologicas-informacion-mejores-modelos-1193504' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/paraguas-rosa-2943950.jpg?tf=1200x' alt='Estaciones climatológicas: qué debes tener en cuenta y cuáles son las mejores' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/espacio/cientificos-nasa-explican-venus-gemelo-malvado-tierra-importancia-1194780'>Científicos de la NASA explican por qué Venus es el gemelo malvado de la Tierra y su importancia</a></h4>
+    <a href='https://computerhoy.com/espacio/cientificos-nasa-explican-venus-gemelo-malvado-tierra-importancia-1194780' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/venus-planeta-2357159.jpg?tf=1200x' alt='Científicos de la NASA explican por qué Venus es el gemelo malvado de la Tierra y su importancia' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/entretenimiento/series-ver-fin-semana-netflix-movistar-plus-apple-tv-chica-sospechoso-milagro-1194672'>Qué series ver este fin de semana en Netflix, Movistar Plus+ y Apple TV+: una chica, un sospechoso y un milagro</a></h4>
     <a href='https://computerhoy.com/entretenimiento/series-ver-fin-semana-netflix-movistar-plus-apple-tv-chica-sospechoso-milagro-1194672' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/chica-nieve-2945846.jpg?tf=1200x' alt='Qué series ver este fin de semana en Netflix, Movistar Plus+ y Apple TV+: una chica, un sospechoso y un milagro' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/entretenimiento/peliculas-ver-fin-semana-disney-movistarplus-netflix-wakanda-forever-space-jam-2-angeles-demonios-1194576'>Qué películas ver este fin de semana en Disney+, MovistarPlus+ y Netflix: Wakanda Forever, Space Jam 2 y Ángeles y Demonios</a></h4>
     <a href='https://computerhoy.com/entretenimiento/peliculas-ver-fin-semana-disney-movistarplus-netflix-wakanda-forever-space-jam-2-angeles-demonios-1194576' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/peliculas-ver-fin-semana-disney-movistarplus-netflix-wakanda-forever-space-jam-2-angeles-demonios-2945848.jpg?tf=1200x' alt='Qué películas ver este fin de semana en Disney+, MovistarPlus+ y Netflix: Wakanda Forever, Space Jam 2 y Ángeles y Demonios' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tv/samsung-sigue-apostando-oled-tv-77-pulgadas-monitor-gaming-1194722'>Samsung sigue apostando por el OLED con una TV de 77 pulgadas y un monitor gaming</a></h4>
-    <a href='https://computerhoy.com/tv/samsung-sigue-apostando-oled-tv-77-pulgadas-monitor-gaming-1194722' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/qd-oled-samsung-2946002.jpg?tf=1200x' alt='Samsung sigue apostando por el OLED con una TV de 77 pulgadas y un monitor gaming' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/industria/algunos-ceo-importantes-mundo-como-steve-jobs-solo-cobran-1-dolar-ano-1194714'>¿Por qué algunos de los CEO más importantes del mundo como Steve Jobs solo cobran 1 dólar al año?</a></h4>
-    <a href='https://computerhoy.com/industria/algunos-ceo-importantes-mundo-como-steve-jobs-solo-cobran-1-dolar-ano-1194714' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/03/steve-jobs-2280383.jpg?tf=1200x' alt='¿Por qué algunos de los CEO más importantes del mundo como Steve Jobs solo cobran 1 dólar al año?' />
     </a>
 </div>
 
