@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/perifericos/olvidate-pendrive-mini-ssd-externo-1-tb-bolsillo-rapidisimo-1194850'>Olvídate de los pendrive: este mini SSD externo de 1 TB cabe en el bolsillo y es rapidísimo</a></h4>
+    <a href='https://computerhoy.com/perifericos/olvidate-pendrive-mini-ssd-externo-1-tb-bolsillo-rapidisimo-1194850' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/pequeno-ssd-portatil-500-gb-blindando-golpes-caidas-solo-cuesta-58-euros-2927174.jpg?tf=1200x' alt='Olvídate de los pendrive: este mini SSD externo de 1 TB cabe en el bolsillo y es rapidísimo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/tabla-periodica-ortografia-que-siempre-escribas-bien-55668'>La tabla periódica de la ortografía para que siempre escribas bien</a></h4>
     <a href='https://computerhoy.com/noticias/life/tabla-periodica-ortografia-que-siempre-escribas-bien-55668' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2016/12/212454-tabla-periodica-ortografia.jpg?tf=1200x' alt='La tabla periódica de la ortografía para que siempre escribas bien' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/internet/sitios-prohibidos-donde-nunca-deberias-colocar-router-wifi-1194830'>Sitios prohibidos donde nunca deberías colocar tu router WiFi</a></h4>
     <a href='https://computerhoy.com/internet/sitios-prohibidos-donde-nunca-deberias-colocar-router-wifi-1194830' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/router-wifi-2946290.jpg?tf=1200x' alt='Sitios prohibidos donde nunca deberías colocar tu router WiFi' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/bill-gates-no-corta-elon-musk-prefiero-vacunas-ir-marte-1194796'>Bill Gates no se corta con Elon Musk: “prefiero las vacunas a ir a Marte"</a></h4>
-    <a href='https://computerhoy.com/tecnologia/bill-gates-no-corta-elon-musk-prefiero-vacunas-ir-marte-1194796' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/bill-gates-2628607.jpg?tf=1200x' alt='Bill Gates no se corta con Elon Musk: “prefiero las vacunas a ir a Marte"' />
     </a>
 </div>
 
