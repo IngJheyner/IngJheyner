@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/moneda-1-euro-valiosa-vale-400-euros-quiza-tienes-bolsillo-saberlo-1194526'>La moneda de 1 euro más valiosa vale 400 euros, quizá la tienes en el bolsillo sin saberlo</a></h4>
-    <a href='https://computerhoy.com/life/moneda-1-euro-valiosa-vale-400-euros-quiza-tienes-bolsillo-saberlo-1194526' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/moneda-1-euro-valiosa-vale-400-euros-quiza-tienes-bolsillos-saberlo-2945454.jpg?tf=1200x' alt='La moneda de 1 euro más valiosa vale 400 euros, quizá la tienes en el bolsillo sin saberlo' />
+    <h4><a href='https://computerhoy.com/tecnologia/5-gadgets-todo-deportista-tecnologico-debe-tener-1194208'>Los 5 gadgets que todo deportista tecnológico debe tener</a></h4>
+    <a href='https://computerhoy.com/tecnologia/5-gadgets-todo-deportista-tecnologico-debe-tener-1194208' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/apple-watch-ultra-2927740.jpg?tf=1200x' alt='Los 5 gadgets que todo deportista tecnológico debe tener' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/descubren-12-nuevas-lunas-jupiter-supera-saturno-como-planeta-satelites-1194522'>Descubren 12 nuevas lunas de Júpiter, que supera a Saturno como el planeta con más satélites</a></h4>
-    <a href='https://computerhoy.com/espacio/descubren-12-nuevas-lunas-jupiter-supera-saturno-como-planeta-satelites-1194522' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/descubre-12-nuevas-lunas-jupiter-supera-saturno-como-planeta-satelites-2945240.jpg?tf=1200x' alt='Descubren 12 nuevas lunas de Júpiter, que supera a Saturno como el planeta con más satélites' />
+    <h4><a href='https://computerhoy.com/tecnologia/aires-acondicionados-bomba-calor-buen-precio-1193270'>Bomba de calor para calefacción: 5 aparatos de aire acondicionado que la tienen y merecen la pena</a></h4>
+    <a href='https://computerhoy.com/tecnologia/aires-acondicionados-bomba-calor-buen-precio-1193270' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/aire-acondicionado-portatil-2942330.jpg?tf=1200x' alt='Bomba de calor para calefacción: 5 aparatos de aire acondicionado que la tienen y merecen la pena' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/gaming/steam-lanza-mayor-cambio-interfaz-ultimos-10-anos-gracias-steam-deck-1194306'>Steam lanza el mayor cambio en su interfaz en los últimos 10 años, gracias a Steam Deck</a></h4>
-    <a href='https://computerhoy.com/gaming/steam-lanza-mayor-cambio-interfaz-ultimos-10-anos-gracias-steam-deck-1194306' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/steam-lanza-mayor-cambio-interfaz-ultimos-10-anos-gracias-steam-deck-2945230.jpg?tf=1200x' alt='Steam lanza el mayor cambio en su interfaz en los últimos 10 años, gracias a Steam Deck' />
+    <h4><a href='https://computerhoy.com/tecnologia/32-noticias-tecnologia-comenzar-manana-informado-ultimo-1194536'>32 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
+    <a href='https://computerhoy.com/tecnologia/32-noticias-tecnologia-comenzar-manana-informado-ultimo-1194536' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/32-noticias-tecnologia-comenzar-manana-informado-ultimo-2945490.jpg?tf=1200x' alt='32 noticias de tecnología para comenzar la mañana informado de lo último' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/pronto-podras-cargar-coche-electrico-mientras-haces-compra-plan-mercadona-1194296'>Pronto podrás cargar tu coche eléctrico mientras haces la compra: así es el plan del Mercadona</a></h4>
-    <a href='https://computerhoy.com/motor/pronto-podras-cargar-coche-electrico-mientras-haces-compra-plan-mercadona-1194296' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/pronto-podras-cargar-coche-electrico-mientras-haces-compra-plan-mercadona-2945224.jpg?tf=1200x' alt='Pronto podrás cargar tu coche eléctrico mientras haces la compra: así es el plan del Mercadona' />
+    <h4><a href='https://computerhoy.com/google/deberian-datos-localizacion-google-ser-herramienta-policia-1194216'>¿Deberían los datos de localización de Google ser una herramienta más para la Policía? </a></h4>
+    <a href='https://computerhoy.com/google/deberian-datos-localizacion-google-ser-herramienta-policia-1194216' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/deberian-datos-localizacion-google-ser-herramienta-policia-2945110.jpg?tf=1200x' alt='¿Deberían los datos de localización de Google ser una herramienta más para la Policía? ' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/audio/auriculares-premium-bose-qc-45-descuento-80-euros-1194300'>Estos auriculares premium de Bose, para los amantes de lo clásico, tienen un descuento de 80 euros y son una gozada</a></h4>
-    <a href='https://computerhoy.com/audio/auriculares-premium-bose-qc-45-descuento-80-euros-1194300' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/estos-auriculares-premium-bose-amantes-clasico-tienen-descuento-80-euros-son-gozada-2945222.jpg?tf=1200x' alt='Estos auriculares premium de Bose, para los amantes de lo clásico, tienen un descuento de 80 euros y son una gozada' />
+    <h4><a href='https://computerhoy.com/tecnologia/regalos-tecnologicos-menos-20-euros-triunfar-san-valentin-1193296'>10 regalos tecnológicos de menos de 20 euros para triunfar en San Valentín</a></h4>
+    <a href='https://computerhoy.com/tecnologia/regalos-tecnologicos-menos-20-euros-triunfar-san-valentin-1193296' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/pareja-haciendose-regalo-2943240.jpg?tf=1200x' alt='10 regalos tecnológicos de menos de 20 euros para triunfar en San Valentín' />
     </a>
 </div>
 
