@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/tabla-periodica-ortografia-que-siempre-escribas-bien-55668'>La tabla periódica de la ortografía para que siempre escribas bien</a></h4>
+    <a href='https://computerhoy.com/noticias/life/tabla-periodica-ortografia-que-siempre-escribas-bien-55668' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2016/12/212454-tabla-periodica-ortografia.jpg?tf=1200x' alt='La tabla periódica de la ortografía para que siempre escribas bien' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/rubius-next-level-nuevo-documental-prime-video-rubius-japon-1194848'>Rubius Next Level, el nuevo documental de Prime Video con El Rubius... en Japón</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/rubius-next-level-nuevo-documental-prime-video-rubius-japon-1194848' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/rubius-next-level-nueva-docuserie-prime-video-rubius-japon-2946292.jpg?tf=1200x' alt='Rubius Next Level, el nuevo documental de Prime Video con El Rubius... en Japón' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/streaming/hemeroteca-explota-cara-netflix-nueva-politica-cuentas-compartidas-1194832'>La hemeroteca le explota en la cara a Netflix con su nueva política de cuentas compartidas</a></h4>
+    <a href='https://computerhoy.com/streaming/hemeroteca-explota-cara-netflix-nueva-politica-cuentas-compartidas-1194832' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/netflix-2796523.jpg?tf=1200x' alt='La hemeroteca le explota en la cara a Netflix con su nueva política de cuentas compartidas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/internet/sitios-prohibidos-donde-nunca-deberias-colocar-router-wifi-1194830'>Sitios prohibidos donde nunca deberías colocar tu router WiFi</a></h4>
     <a href='https://computerhoy.com/internet/sitios-prohibidos-donde-nunca-deberias-colocar-router-wifi-1194830' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/router-wifi-2946290.jpg?tf=1200x' alt='Sitios prohibidos donde nunca deberías colocar tu router WiFi' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/bill-gates-no-corta-elon-musk-prefiero-vacunas-ir-marte-1194796'>Bill Gates no se corta con Elon Musk: “prefiero las vacunas a ir a Marte"</a></h4>
     <a href='https://computerhoy.com/tecnologia/bill-gates-no-corta-elon-musk-prefiero-vacunas-ir-marte-1194796' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/bill-gates-2628607.jpg?tf=1200x' alt='Bill Gates no se corta con Elon Musk: “prefiero las vacunas a ir a Marte"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/paso-a-paso/software/como-identificar-cualquier-tipo-letra-fuente-tipografica-77663'>Cómo identificar cualquier tipo de letra y fuente tipográfica</a></h4>
-    <a href='https://computerhoy.com/paso-a-paso/software/como-identificar-cualquier-tipo-letra-fuente-tipografica-77663' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/03/293271-como-identificar-cualquier-tipo-letra-fuente-tipografica.jpg?tf=1200x' alt='Cómo identificar cualquier tipo de letra y fuente tipográfica' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/hogar/estaciones-climatologicas-informacion-mejores-modelos-1193504'>Estaciones climatológicas: qué debes tener en cuenta y cuáles son las mejores</a></h4>
-    <a href='https://computerhoy.com/hogar/estaciones-climatologicas-informacion-mejores-modelos-1193504' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/paraguas-rosa-2943950.jpg?tf=1200x' alt='Estaciones climatológicas: qué debes tener en cuenta y cuáles son las mejores' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/cientificos-nasa-explican-venus-gemelo-malvado-tierra-importancia-1194780'>Científicos de la NASA explican por qué Venus es el gemelo malvado de la Tierra y su importancia</a></h4>
-    <a href='https://computerhoy.com/espacio/cientificos-nasa-explican-venus-gemelo-malvado-tierra-importancia-1194780' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/venus-planeta-2357159.jpg?tf=1200x' alt='Científicos de la NASA explican por qué Venus es el gemelo malvado de la Tierra y su importancia' />
     </a>
 </div>
 
