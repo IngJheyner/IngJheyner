@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/peliculas-ver-fin-semana-disney-movistarplus-netflix-wakanda-forever-space-jam-2-angeles-demonios-1194576'>Qué películas ver este fin de semana en Disney+, MovistarPlus+ y Netflix: Wakanda Forever, Space Jam 2 y Ángeles y Demonios</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/peliculas-ver-fin-semana-disney-movistarplus-netflix-wakanda-forever-space-jam-2-angeles-demonios-1194576' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/peliculas-ver-fin-semana-disney-movistarplus-netflix-wakanda-forever-space-jam-2-angeles-demonios-2945848.jpg?tf=1200x' alt='Qué películas ver este fin de semana en Disney+, MovistarPlus+ y Netflix: Wakanda Forever, Space Jam 2 y Ángeles y Demonios' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tv/samsung-sigue-apostando-oled-tv-77-pulgadas-monitor-gaming-1194722'>Samsung sigue apostando por el OLED con una TV de 77 pulgadas y un monitor gaming</a></h4>
     <a href='https://computerhoy.com/tv/samsung-sigue-apostando-oled-tv-77-pulgadas-monitor-gaming-1194722' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/qd-oled-samsung-2946002.jpg?tf=1200x' alt='Samsung sigue apostando por el OLED con una TV de 77 pulgadas y un monitor gaming' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/1000-servidores-realizar-240-millones-transacciones-segundo-china-vigila-todo-1194690'>1.000 servidores para realizar 240 millones de transacciones por segundo, China lo vigila todo</a></h4>
     <a href='https://computerhoy.com/tecnologia/1000-servidores-realizar-240-millones-transacciones-segundo-china-vigila-todo-1194690' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/potencial-uber-vtcs-vs-taxi-china-lanza-servicio-nacional-coches-compartidos-2932354.jpg?tf=1200x' alt='1.000 servidores para realizar 240 millones de transacciones por segundo, China lo vigila todo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/como-ahorrarte-180-euros-nuevos-samsung-galaxy-s23-1194090'>Cómo ahorrarte hasta 180 euros al comprar los nuevos Samsung Galaxy S23</a></h4>
-    <a href='https://computerhoy.com/moviles/como-ahorrarte-180-euros-nuevos-samsung-galaxy-s23-1194090' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/samsung-galaxy-s23-2943658.jpg?tf=1200x' alt='Cómo ahorrarte hasta 180 euros al comprar los nuevos Samsung Galaxy S23' />
     </a>
 </div>
 
