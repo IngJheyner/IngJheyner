@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tv/samsung-sigue-apostando-oled-tv-77-pulgadas-monitor-gaming-1194722'>Samsung sigue apostando por el OLED con una TV de 77 pulgadas y un monitor gaming</a></h4>
+    <a href='https://computerhoy.com/tv/samsung-sigue-apostando-oled-tv-77-pulgadas-monitor-gaming-1194722' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/qd-oled-samsung-2946002.jpg?tf=1200x' alt='Samsung sigue apostando por el OLED con una TV de 77 pulgadas y un monitor gaming' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/industria/algunos-ceo-importantes-mundo-como-steve-jobs-solo-cobran-1-dolar-ano-1194714'>¿Por qué algunos de los CEO más importantes del mundo como Steve Jobs solo cobran 1 dólar al año?</a></h4>
     <a href='https://computerhoy.com/industria/algunos-ceo-importantes-mundo-como-steve-jobs-solo-cobran-1-dolar-ano-1194714' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/03/steve-jobs-2280383.jpg?tf=1200x' alt='¿Por qué algunos de los CEO más importantes del mundo como Steve Jobs solo cobran 1 dólar al año?' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/moviles/como-ahorrarte-180-euros-nuevos-samsung-galaxy-s23-1194090'>Cómo ahorrarte hasta 180 euros al comprar los nuevos Samsung Galaxy S23</a></h4>
     <a href='https://computerhoy.com/moviles/como-ahorrarte-180-euros-nuevos-samsung-galaxy-s23-1194090' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/samsung-galaxy-s23-2943658.jpg?tf=1200x' alt='Cómo ahorrarte hasta 180 euros al comprar los nuevos Samsung Galaxy S23' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/gaming/nuevo-raton-razer-cuesta-como-consola-nueva-generacion-1194646'>Este es el nuevo ratón de Razer que cuesta como una consola de nueva generación</a></h4>
-    <a href='https://computerhoy.com/gaming/nuevo-raton-razer-cuesta-como-consola-nueva-generacion-1194646' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/viper-mini-signature-edition-2945648.jpg?tf=1200x' alt='Este es el nuevo ratón de Razer que cuesta como una consola de nueva generación' />
     </a>
 </div>
 
