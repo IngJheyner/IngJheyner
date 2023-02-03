@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/industria/algunos-ceo-importantes-mundo-como-steve-jobs-solo-cobran-1-dolar-ano-1194714'>¿Por qué algunos de los CEO más importantes del mundo como Steve Jobs solo cobran 1 dólar al año?</a></h4>
+    <a href='https://computerhoy.com/industria/algunos-ceo-importantes-mundo-como-steve-jobs-solo-cobran-1-dolar-ano-1194714' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/03/steve-jobs-2280383.jpg?tf=1200x' alt='¿Por qué algunos de los CEO más importantes del mundo como Steve Jobs solo cobran 1 dólar al año?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/whatsapp-te-permitira-anclar-mensajes-importantes-chats-nueva-funcion-1194712'>WhatsApp te permitirá anclar mensajes importantes en tus chats con esta nueva función</a></h4>
+    <a href='https://computerhoy.com/tecnologia/whatsapp-te-permitira-anclar-mensajes-importantes-chats-nueva-funcion-1194712' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/whatsapp-te-dejara-fijar-mensajes-importantes-chats-nueva-funcion-2945968.jpg?tf=1200x' alt='WhatsApp te permitirá anclar mensajes importantes en tus chats con esta nueva función' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/1000-servidores-realizar-240-millones-transacciones-segundo-china-vigila-todo-1194690'>1.000 servidores para realizar 240 millones de transacciones por segundo, China lo vigila todo</a></h4>
+    <a href='https://computerhoy.com/tecnologia/1000-servidores-realizar-240-millones-transacciones-segundo-china-vigila-todo-1194690' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/potencial-uber-vtcs-vs-taxi-china-lanza-servicio-nacional-coches-compartidos-2932354.jpg?tf=1200x' alt='1.000 servidores para realizar 240 millones de transacciones por segundo, China lo vigila todo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/moviles/como-ahorrarte-180-euros-nuevos-samsung-galaxy-s23-1194090'>Cómo ahorrarte hasta 180 euros al comprar los nuevos Samsung Galaxy S23</a></h4>
     <a href='https://computerhoy.com/moviles/como-ahorrarte-180-euros-nuevos-samsung-galaxy-s23-1194090' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/samsung-galaxy-s23-2943658.jpg?tf=1200x' alt='Cómo ahorrarte hasta 180 euros al comprar los nuevos Samsung Galaxy S23' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/gaming/nuevo-raton-razer-cuesta-como-consola-nueva-generacion-1194646'>Este es el nuevo ratón de Razer que cuesta como una consola de nueva generación</a></h4>
     <a href='https://computerhoy.com/gaming/nuevo-raton-razer-cuesta-como-consola-nueva-generacion-1194646' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/viper-mini-signature-edition-2945648.jpg?tf=1200x' alt='Este es el nuevo ratón de Razer que cuesta como una consola de nueva generación' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/caida-internet-principales-proveedores-moviles-sufren-corte-generalizado-1194642'>Caída de Internet: los principales proveedores móviles sufren un corte generalizado</a></h4>
-    <a href='https://computerhoy.com/internet/caida-internet-principales-proveedores-moviles-sufren-corte-generalizado-1194642' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/caida-internet-principales-proveedores-moviles-sufren-corte-generalizado-2945748.jpg?tf=1200x' alt='Caída de Internet: los principales proveedores móviles sufren un corte generalizado' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/funcionan-ventanas-liquidas-inspiradas-piel-calamar-mayor-ahorro-energetico-1194612'>Así funcionan las ventanas líquidas inspiradas en la piel del calamar para un mayor ahorro energético</a></h4>
-    <a href='https://computerhoy.com/ciencia/funcionan-ventanas-liquidas-inspiradas-piel-calamar-mayor-ahorro-energetico-1194612' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/ventanas-liquidas-inspiran-piel-calamar-mayor-ahorro-energetico-2945628.jpg?tf=1200x' alt='Así funcionan las ventanas líquidas inspiradas en la piel del calamar para un mayor ahorro energético' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/iphone-14-plus-256-gb-oferta-precio-minimo-1194024'>Si un iPhone normal se te queda pequeño, estos iPhone 14 Plus por fin bajan de precio en Amazon</a></h4>
-    <a href='https://computerhoy.com/moviles/iphone-14-plus-256-gb-oferta-precio-minimo-1194024' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/apple-iphone-14-plus-analisis-opinion-2857693.jpg?tf=1200x' alt='Si un iPhone normal se te queda pequeño, estos iPhone 14 Plus por fin bajan de precio en Amazon' />
     </a>
 </div>
 
