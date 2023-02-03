@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/moneda-1-euro-valiosa-vale-400-euros-quiza-tienes-bolsillo-saberlo-1194526'>La moneda de 1 euro más valiosa vale 400 euros, quizá la tienes en el bolsillo sin saberlo</a></h4>
+    <a href='https://computerhoy.com/life/moneda-1-euro-valiosa-vale-400-euros-quiza-tienes-bolsillo-saberlo-1194526' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/moneda-1-euro-valiosa-vale-400-euros-quiza-tienes-bolsillos-saberlo-2945454.jpg?tf=1200x' alt='La moneda de 1 euro más valiosa vale 400 euros, quizá la tienes en el bolsillo sin saberlo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/espacio/descubren-12-nuevas-lunas-jupiter-supera-saturno-como-planeta-satelites-1194522'>Descubren 12 nuevas lunas de Júpiter, que supera a Saturno como el planeta con más satélites</a></h4>
     <a href='https://computerhoy.com/espacio/descubren-12-nuevas-lunas-jupiter-supera-saturno-como-planeta-satelites-1194522' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/descubre-12-nuevas-lunas-jupiter-supera-saturno-como-planeta-satelites-2945240.jpg?tf=1200x' alt='Descubren 12 nuevas lunas de Júpiter, que supera a Saturno como el planeta con más satélites' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/audio/auriculares-premium-bose-qc-45-descuento-80-euros-1194300'>Estos auriculares premium de Bose, para los amantes de lo clásico, tienen un descuento de 80 euros y son una gozada</a></h4>
     <a href='https://computerhoy.com/audio/auriculares-premium-bose-qc-45-descuento-80-euros-1194300' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/estos-auriculares-premium-bose-amantes-clasico-tienen-descuento-80-euros-son-gozada-2945222.jpg?tf=1200x' alt='Estos auriculares premium de Bose, para los amantes de lo clásico, tienen un descuento de 80 euros y son una gozada' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/redes-sociales/twitter-lia-elon-musk-quiere-pagues-usar-api-red-social-1194230'>Twitter la lia: Elon Musk quiere que pagues por usar la API de su red social</a></h4>
-    <a href='https://computerhoy.com/redes-sociales/twitter-lia-elon-musk-quiere-pagues-usar-api-red-social-1194230' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/elon-musk-2903170.jpg?tf=1200x' alt='Twitter la lia: Elon Musk quiere que pagues por usar la API de su red social' />
     </a>
 </div>
 
