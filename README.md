@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/series-ver-fin-semana-netflix-movistar-plus-apple-tv-chica-sospechoso-milagro-1194672'>Qué series ver este fin de semana en Netflix, Movistar Plus+ y Apple TV+: una chica, un sospechoso y un milagro</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/series-ver-fin-semana-netflix-movistar-plus-apple-tv-chica-sospechoso-milagro-1194672' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/chica-nieve-2945846.jpg?tf=1200x' alt='Qué series ver este fin de semana en Netflix, Movistar Plus+ y Apple TV+: una chica, un sospechoso y un milagro' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/google-elimina-12-apps-android-millones-descargas-urge-desinstales-1194764'>Google elimina 12 apps para Android con millones de descargas y urge a que las desinstales</a></h4>
+    <a href='https://computerhoy.com/apps/google-elimina-12-apps-android-millones-descargas-urge-desinstales-1194764' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/android-malware-2755065.jpg?tf=1200x' alt='Google elimina 12 apps para Android con millones de descargas y urge a que las desinstales' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/entretenimiento/peliculas-ver-fin-semana-disney-movistarplus-netflix-wakanda-forever-space-jam-2-angeles-demonios-1194576'>Qué películas ver este fin de semana en Disney+, MovistarPlus+ y Netflix: Wakanda Forever, Space Jam 2 y Ángeles y Demonios</a></h4>
     <a href='https://computerhoy.com/entretenimiento/peliculas-ver-fin-semana-disney-movistarplus-netflix-wakanda-forever-space-jam-2-angeles-demonios-1194576' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/peliculas-ver-fin-semana-disney-movistarplus-netflix-wakanda-forever-space-jam-2-angeles-demonios-2945848.jpg?tf=1200x' alt='Qué películas ver este fin de semana en Disney+, MovistarPlus+ y Netflix: Wakanda Forever, Space Jam 2 y Ángeles y Demonios' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/industria/algunos-ceo-importantes-mundo-como-steve-jobs-solo-cobran-1-dolar-ano-1194714'>¿Por qué algunos de los CEO más importantes del mundo como Steve Jobs solo cobran 1 dólar al año?</a></h4>
     <a href='https://computerhoy.com/industria/algunos-ceo-importantes-mundo-como-steve-jobs-solo-cobran-1-dolar-ano-1194714' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/03/steve-jobs-2280383.jpg?tf=1200x' alt='¿Por qué algunos de los CEO más importantes del mundo como Steve Jobs solo cobran 1 dólar al año?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/whatsapp-te-permitira-anclar-mensajes-importantes-chats-nueva-funcion-1194712'>WhatsApp te permitirá anclar mensajes importantes en tus chats con esta nueva función</a></h4>
-    <a href='https://computerhoy.com/tecnologia/whatsapp-te-permitira-anclar-mensajes-importantes-chats-nueva-funcion-1194712' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/whatsapp-te-dejara-fijar-mensajes-importantes-chats-nueva-funcion-2945968.jpg?tf=1200x' alt='WhatsApp te permitirá anclar mensajes importantes en tus chats con esta nueva función' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/1000-servidores-realizar-240-millones-transacciones-segundo-china-vigila-todo-1194690'>1.000 servidores para realizar 240 millones de transacciones por segundo, China lo vigila todo</a></h4>
-    <a href='https://computerhoy.com/tecnologia/1000-servidores-realizar-240-millones-transacciones-segundo-china-vigila-todo-1194690' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/potencial-uber-vtcs-vs-taxi-china-lanza-servicio-nacional-coches-compartidos-2932354.jpg?tf=1200x' alt='1.000 servidores para realizar 240 millones de transacciones por segundo, China lo vigila todo' />
     </a>
 </div>
 
