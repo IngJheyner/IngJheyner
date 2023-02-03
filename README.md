@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/james-cameron-cambia-final-titanic-25-anos-despues-1194552'>James Cameron cambia el final de Titanic 25 años después</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/james-cameron-cambia-final-titanic-25-anos-despues-1194552' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/titanic-2577587.jpg?tf=1200x' alt='James Cameron cambia el final de Titanic 25 años después' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/5-gadgets-todo-deportista-tecnologico-debe-tener-1194208'>Los 5 gadgets que todo deportista tecnológico debe tener</a></h4>
     <a href='https://computerhoy.com/tecnologia/5-gadgets-todo-deportista-tecnologico-debe-tener-1194208' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/apple-watch-ultra-2927740.jpg?tf=1200x' alt='Los 5 gadgets que todo deportista tecnológico debe tener' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/google/deberian-datos-localizacion-google-ser-herramienta-policia-1194216'>¿Deberían los datos de localización de Google ser una herramienta más para la Policía? </a></h4>
     <a href='https://computerhoy.com/google/deberian-datos-localizacion-google-ser-herramienta-policia-1194216' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/deberian-datos-localizacion-google-ser-herramienta-policia-2945110.jpg?tf=1200x' alt='¿Deberían los datos de localización de Google ser una herramienta más para la Policía? ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/regalos-tecnologicos-menos-20-euros-triunfar-san-valentin-1193296'>10 regalos tecnológicos de menos de 20 euros para triunfar en San Valentín</a></h4>
-    <a href='https://computerhoy.com/tecnologia/regalos-tecnologicos-menos-20-euros-triunfar-san-valentin-1193296' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/pareja-haciendose-regalo-2943240.jpg?tf=1200x' alt='10 regalos tecnológicos de menos de 20 euros para triunfar en San Valentín' />
     </a>
 </div>
 
