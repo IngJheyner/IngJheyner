@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/bill-gates-no-corta-elon-musk-prefiero-vacunas-ir-marte-1194796'>Bill Gates no se corta con Elon Musk: “prefiero las vacunas a ir a Marte"</a></h4>
+    <a href='https://computerhoy.com/tecnologia/bill-gates-no-corta-elon-musk-prefiero-vacunas-ir-marte-1194796' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/bill-gates-2628607.jpg?tf=1200x' alt='Bill Gates no se corta con Elon Musk: “prefiero las vacunas a ir a Marte"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/paso-a-paso/software/como-identificar-cualquier-tipo-letra-fuente-tipografica-77663'>Cómo identificar cualquier tipo de letra y fuente tipográfica</a></h4>
+    <a href='https://computerhoy.com/paso-a-paso/software/como-identificar-cualquier-tipo-letra-fuente-tipografica-77663' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/03/293271-como-identificar-cualquier-tipo-letra-fuente-tipografica.jpg?tf=1200x' alt='Cómo identificar cualquier tipo de letra y fuente tipográfica' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/hogar/estaciones-climatologicas-informacion-mejores-modelos-1193504'>Estaciones climatológicas: qué debes tener en cuenta y cuáles son las mejores</a></h4>
     <a href='https://computerhoy.com/hogar/estaciones-climatologicas-informacion-mejores-modelos-1193504' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/paraguas-rosa-2943950.jpg?tf=1200x' alt='Estaciones climatológicas: qué debes tener en cuenta y cuáles son las mejores' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/entretenimiento/series-ver-fin-semana-netflix-movistar-plus-apple-tv-chica-sospechoso-milagro-1194672'>Qué series ver este fin de semana en Netflix, Movistar Plus+ y Apple TV+: una chica, un sospechoso y un milagro</a></h4>
     <a href='https://computerhoy.com/entretenimiento/series-ver-fin-semana-netflix-movistar-plus-apple-tv-chica-sospechoso-milagro-1194672' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/chica-nieve-2945846.jpg?tf=1200x' alt='Qué series ver este fin de semana en Netflix, Movistar Plus+ y Apple TV+: una chica, un sospechoso y un milagro' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/google-elimina-12-apps-android-millones-descargas-urge-desinstales-1194764'>Google elimina 12 apps para Android con millones de descargas y urge a que las desinstales</a></h4>
-    <a href='https://computerhoy.com/apps/google-elimina-12-apps-android-millones-descargas-urge-desinstales-1194764' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/android-malware-2755065.jpg?tf=1200x' alt='Google elimina 12 apps para Android con millones de descargas y urge a que las desinstales' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/peliculas-ver-fin-semana-disney-movistarplus-netflix-wakanda-forever-space-jam-2-angeles-demonios-1194576'>Qué películas ver este fin de semana en Disney+, MovistarPlus+ y Netflix: Wakanda Forever, Space Jam 2 y Ángeles y Demonios</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/peliculas-ver-fin-semana-disney-movistarplus-netflix-wakanda-forever-space-jam-2-angeles-demonios-1194576' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/peliculas-ver-fin-semana-disney-movistarplus-netflix-wakanda-forever-space-jam-2-angeles-demonios-2945848.jpg?tf=1200x' alt='Qué películas ver este fin de semana en Disney+, MovistarPlus+ y Netflix: Wakanda Forever, Space Jam 2 y Ángeles y Demonios' />
     </a>
 </div>
 
