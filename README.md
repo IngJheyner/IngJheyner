@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/espacio/descubren-12-nuevas-lunas-jupiter-supera-saturno-como-planeta-satelites-1194522'>Descubren 12 nuevas lunas de Júpiter, que supera a Saturno como el planeta con más satélites</a></h4>
+    <a href='https://computerhoy.com/espacio/descubren-12-nuevas-lunas-jupiter-supera-saturno-como-planeta-satelites-1194522' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/descubre-12-nuevas-lunas-jupiter-supera-saturno-como-planeta-satelites-2945240.jpg?tf=1200x' alt='Descubren 12 nuevas lunas de Júpiter, que supera a Saturno como el planeta con más satélites' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/gaming/steam-lanza-mayor-cambio-interfaz-ultimos-10-anos-gracias-steam-deck-1194306'>Steam lanza el mayor cambio en su interfaz en los últimos 10 años, gracias a Steam Deck</a></h4>
     <a href='https://computerhoy.com/gaming/steam-lanza-mayor-cambio-interfaz-ultimos-10-anos-gracias-steam-deck-1194306' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/steam-lanza-mayor-cambio-interfaz-ultimos-10-anos-gracias-steam-deck-2945230.jpg?tf=1200x' alt='Steam lanza el mayor cambio en su interfaz en los últimos 10 años, gracias a Steam Deck' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/redes-sociales/twitter-lia-elon-musk-quiere-pagues-usar-api-red-social-1194230'>Twitter la lia: Elon Musk quiere que pagues por usar la API de su red social</a></h4>
     <a href='https://computerhoy.com/redes-sociales/twitter-lia-elon-musk-quiere-pagues-usar-api-red-social-1194230' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/elon-musk-2903170.jpg?tf=1200x' alt='Twitter la lia: Elon Musk quiere que pagues por usar la API de su red social' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/dia-marmota-pelicula-atrapado-tiempo-1194284'>Hoy es el Día de la Marmota, así que tienes una cita obligada con la mítica película Atrapado en el tiempo</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/dia-marmota-pelicula-atrapado-tiempo-1194284' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/hoy-dia-marmota-tienes-cita-obligada-mitica-pelicula-atrapado-tiempo-2945164.jpg?tf=1200x' alt='Hoy es el Día de la Marmota, así que tienes una cita obligada con la mítica película Atrapado en el tiempo' />
     </a>
 </div>
 
