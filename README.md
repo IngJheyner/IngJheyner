@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/perifericos/teclado-mecanico-cuales-son-ventajas-respecto-convencionales-1184868'>¿Qué es un teclado mecánico y cuáles son sus ventajas con respecto a los convencionales?</a></h4>
+    <a href='https://computerhoy.com/perifericos/teclado-mecanico-cuales-son-ventajas-respecto-convencionales-1184868' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/verticalimage1675467218218-2946354.jpg?tf=1200x' alt='¿Qué es un teclado mecánico y cuáles son sus ventajas con respecto a los convencionales?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/audio/auriculares-gaming-auriculares-tambien-necesitan-apellidos-1192212'>Auriculares gaming, o por qué los auriculares también necesitan apellidos</a></h4>
     <a href='https://computerhoy.com/audio/auriculares-gaming-auriculares-tambien-necesitan-apellidos-1192212' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/astro-a30-analisis-opinion-2940040.jpg?tf=1200x' alt='Auriculares gaming, o por qué los auriculares también necesitan apellidos' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/guia-definitiva-chatgpt-como-funciona-ejemplos-uso-trucos-mejores-alternativas-1191486'>Guía definitiva de ChatGPT: qué es, cómo funciona, ejemplos de uso, trucos y mejores alternativas</a></h4>
     <a href='https://computerhoy.com/tecnologia/guia-definitiva-chatgpt-como-funciona-ejemplos-uso-trucos-mejores-alternativas-1191486' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/chatgpt-2946062.jpg?tf=1200x' alt='Guía definitiva de ChatGPT: qué es, cómo funciona, ejemplos de uso, trucos y mejores alternativas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/enabot-ebo-x-nuevo-robot-cuida-familia-video-1195084'>Enabot EBO X, el nuevo robot que cuida de la familia (vídeo)</a></h4>
-    <a href='https://computerhoy.com/tecnologia/enabot-ebo-x-nuevo-robot-cuida-familia-video-1195084' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/verticalimage1675484621802-2946598.jpg?tf=1200x' alt='Enabot EBO X, el nuevo robot que cuida de la familia (vídeo)' />
     </a>
 </div>
 
