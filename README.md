@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/hogar/como-limpiar-cepillo-dientes-correctamente-sociedad-dental-americana-1194650'>Cómo limpiar el cepillo de dientes correctamente, según la Sociedad Dental Americana</a></h4>
+    <a href='https://computerhoy.com/hogar/como-limpiar-cepillo-dientes-correctamente-sociedad-dental-americana-1194650' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/como-deberias-limpiar-cepillo-dientes-expertos-2945554.jpg?tf=1200x' alt='Cómo limpiar el cepillo de dientes correctamente, según la Sociedad Dental Americana' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apps/ahora-vas-poder-ganar-dinero-cuenta-twitter-1195200'>Ahora vas a poder ganar dinero con tu cuenta de Twitter</a></h4>
     <a href='https://computerhoy.com/apps/ahora-vas-poder-ganar-dinero-cuenta-twitter-1195200' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/fortuna-elon-musk-esfuma-twitter-tesla-son-agujero-perdidas-millonarias-2880111.jpg?tf=1200x' alt='Ahora vas a poder ganar dinero con tu cuenta de Twitter' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/windows/error-instalacion-windows-10-te-obliga-pasar-caja-1195166'>El error de instalación de Windows 10 que "te obliga" a pasar por caja</a></h4>
     <a href='https://computerhoy.com/windows/error-instalacion-windows-10-te-obliga-pasar-caja-1195166' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/fin-soporte-windows-10-2369043.jpg?tf=1200x' alt='El error de instalación de Windows 10 que "te obliga" a pasar por caja' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/criptos/experto-destapo-manipulacion-bitcoin-2017-sospecha-podria-estar-pasando-nuevo-1195160'>El experto que destapó la manipulación de Bitcoin en 2017 sospecha que podría estar pasando de nuevo</a></h4>
-    <a href='https://computerhoy.com/criptos/experto-destapo-manipulacion-bitcoin-2017-sospecha-podria-estar-pasando-nuevo-1195160' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/bitcoin-2579031.jpg?tf=1200x' alt='El experto que destapó la manipulación de Bitcoin en 2017 sospecha que podría estar pasando de nuevo' />
     </a>
 </div>
 
