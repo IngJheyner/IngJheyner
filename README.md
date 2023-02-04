@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/criptos/experto-destapo-manipulacion-bitcoin-2017-sospecha-podria-estar-pasando-nuevo-1195160'>El experto que destapó la manipulación de Bitcoin en 2017 sospecha que podría estar pasando de nuevo</a></h4>
+    <a href='https://computerhoy.com/criptos/experto-destapo-manipulacion-bitcoin-2017-sospecha-podria-estar-pasando-nuevo-1195160' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/bitcoin-2579031.jpg?tf=1200x' alt='El experto que destapó la manipulación de Bitcoin en 2017 sospecha que podría estar pasando de nuevo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/6-maneras-movil-te-recuerde-donde-aparcaste-coche-1159403'>Las 6 maneras de que el móvil te recuerde dónde aparcaste el coche</a></h4>
     <a href='https://computerhoy.com/tecnologia/6-maneras-movil-te-recuerde-donde-aparcaste-coche-1159403' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/google-maps-2880679.jpg?tf=1200x' alt='Las 6 maneras de que el móvil te recuerde dónde aparcaste el coche' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/entretenimiento/7-series-muy-queridas-deberian-estan-llegando-deberian-hacerlo-plataformas-1192336'>7 series muy queridas que deberían están llegando, o deberían hacerlo, a las plataformas</a></h4>
     <a href='https://computerhoy.com/entretenimiento/7-series-muy-queridas-deberian-estan-llegando-deberian-hacerlo-plataformas-1192336' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/frasier-2941608.jpg?tf=1200x' alt='7 series muy queridas que deberían están llegando, o deberían hacerlo, a las plataformas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/actualizacion-telegram-febrero-2023-creador-fotos-perfil-gestion-multimedia-inteligente-mucho-1195130'>Actualización Telegram febrero 2023: creador de fotos de perfil, gestión multimedia inteligente y mucho más</a></h4>
-    <a href='https://computerhoy.com/apps/actualizacion-telegram-febrero-2023-creador-fotos-perfil-gestion-multimedia-inteligente-mucho-1195130' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/telegram-2946692.jpg?tf=1200x' alt='Actualización Telegram febrero 2023: creador de fotos de perfil, gestión multimedia inteligente y mucho más' />
     </a>
 </div>
 
