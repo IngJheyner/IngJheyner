@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/gaming/playstation-5-lector-playstation-5-version-digital-cual-comprar-1194838'>PlayStation 5 con lector o PlayStation 5 versión digital: ¿cuál comprar?</a></h4>
+    <a href='https://computerhoy.com/gaming/playstation-5-lector-playstation-5-version-digital-cual-comprar-1194838' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/acabo-escasez-ps5-stock-consola-volvera-normalidad-ano-2429173.jpg?tf=1200x' alt='PlayStation 5 con lector o PlayStation 5 versión digital: ¿cuál comprar?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/guia-definitiva-chatgpt-como-funciona-ejemplos-uso-trucos-mejores-alternativas-1191486'>Guía definitiva de ChatGPT: qué es, cómo funciona, ejemplos de uso, trucos y mejores alternativas</a></h4>
+    <a href='https://computerhoy.com/tecnologia/guia-definitiva-chatgpt-como-funciona-ejemplos-uso-trucos-mejores-alternativas-1191486' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/chatgpt-2946062.jpg?tf=1200x' alt='Guía definitiva de ChatGPT: qué es, cómo funciona, ejemplos de uso, trucos y mejores alternativas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/enabot-ebo-x-nuevo-robot-cuida-familia-video-1195084'>Enabot EBO X, el nuevo robot que cuida de la familia (vídeo)</a></h4>
+    <a href='https://computerhoy.com/tecnologia/enabot-ebo-x-nuevo-robot-cuida-familia-video-1195084' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/verticalimage1675484621802-2946598.jpg?tf=1200x' alt='Enabot EBO X, el nuevo robot que cuida de la familia (vídeo)' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tutoriales/como-convertir-mando-stadia-bluetooth-antes-sea-imposible-1188048'>Cómo convertir el mando de Stadia en Bluetooth antes de que sea imposible</a></h4>
     <a href='https://computerhoy.com/tutoriales/como-convertir-mando-stadia-bluetooth-antes-sea-imposible-1188048' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/mando-stadia-2934606.jpg?tf=1200x' alt='Cómo convertir el mando de Stadia en Bluetooth antes de que sea imposible' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/guia-consejos-comprar-pistola-masaje-tipos-accesorios-diferencias-1068343'>Guía y consejos para comprar una pistola de masaje: tipos, accesorios y diferencias</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/guia-consejos-comprar-pistola-masaje-tipos-accesorios-diferencias-1068343' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/pistola-masaje-2714951.jpg?tf=1200x' alt='Guía y consejos para comprar una pistola de masaje: tipos, accesorios y diferencias' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/tiny11-windows-11-software-inutil-solo-necesita-2-gb-ram-funciona-pcs-antiguos-1195082'>Tiny11, el Windows 11 sin software inútil que solo necesita 2 GB de RAM y funciona en los PCs antiguos</a></h4>
-    <a href='https://computerhoy.com/windows/tiny11-windows-11-software-inutil-solo-necesita-2-gb-ram-funciona-pcs-antiguos-1195082' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/tiny11-windows-11-software-inutil-solo-necesita-2-gb-ram-funciona-pcs-antiguos-2946562.jpg?tf=1200x' alt='Tiny11, el Windows 11 sin software inútil que solo necesita 2 GB de RAM y funciona en los PCs antiguos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/microsoft-activa-error-nuevo-bing-chatgpt-ya-han-probado-puede-poner-problemas-google-1194856'>Microsoft activa por error el nuevo Bing con ChatGPT: ya lo han probado, y puede poner en problemas a Google</a></h4>
-    <a href='https://computerhoy.com/internet/microsoft-activa-error-nuevo-bing-chatgpt-ya-han-probado-puede-poner-problemas-google-1194856' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/microsoft-activa-error-nuevo-bing-chatgpt-ya-han-probado-puede-poner-problemas-google-2946350.jpg?tf=1200x' alt='Microsoft activa por error el nuevo Bing con ChatGPT: ya lo han probado, y puede poner en problemas a Google' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/perifericos/olvidate-pendrive-mini-ssd-externo-1-tb-bolsillo-rapidisimo-1194850'>Olvídate de los pendrive: este mini SSD externo de 1 TB cabe en el bolsillo y es rapidísimo</a></h4>
-    <a href='https://computerhoy.com/perifericos/olvidate-pendrive-mini-ssd-externo-1-tb-bolsillo-rapidisimo-1194850' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/pequeno-ssd-portatil-500-gb-blindando-golpes-caidas-solo-cuesta-58-euros-2927174.jpg?tf=1200x' alt='Olvídate de los pendrive: este mini SSD externo de 1 TB cabe en el bolsillo y es rapidísimo' />
     </a>
 </div>
 
