@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/6-maneras-movil-te-recuerde-donde-aparcaste-coche-1159403'>Las 6 maneras de que el móvil te recuerde dónde aparcaste el coche</a></h4>
+    <a href='https://computerhoy.com/tecnologia/6-maneras-movil-te-recuerde-donde-aparcaste-coche-1159403' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/google-maps-2880679.jpg?tf=1200x' alt='Las 6 maneras de que el móvil te recuerde dónde aparcaste el coche' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/llega-fin-whatsapp-funciones-utiles-telegram-1195152'>Llega por fin a WhatsApp una de las funciones más útiles de Telegram</a></h4>
+    <a href='https://computerhoy.com/apps/llega-fin-whatsapp-funciones-utiles-telegram-1195152' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/comunidad-whatsapp-2525619.jpg?tf=1200x' alt='Llega por fin a WhatsApp una de las funciones más útiles de Telegram' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/alimentacion/cosas-nunca-deberias-meter-freidora-aire-expertos-1195144'>Cosas que nunca deberías meter en una freidora de aire según los expertos</a></h4>
+    <a href='https://computerhoy.com/alimentacion/cosas-nunca-deberias-meter-freidora-aire-expertos-1195144' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/freidora-aire-aceite-2875957.jpg?tf=1200x' alt='Cosas que nunca deberías meter en una freidora de aire según los expertos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/entretenimiento/7-series-muy-queridas-deberian-estan-llegando-deberian-hacerlo-plataformas-1192336'>7 series muy queridas que deberían están llegando, o deberían hacerlo, a las plataformas</a></h4>
     <a href='https://computerhoy.com/entretenimiento/7-series-muy-queridas-deberian-estan-llegando-deberian-hacerlo-plataformas-1192336' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/frasier-2941608.jpg?tf=1200x' alt='7 series muy queridas que deberían están llegando, o deberían hacerlo, a las plataformas' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/apps/actualizacion-telegram-febrero-2023-creador-fotos-perfil-gestion-multimedia-inteligente-mucho-1195130'>Actualización Telegram febrero 2023: creador de fotos de perfil, gestión multimedia inteligente y mucho más</a></h4>
     <a href='https://computerhoy.com/apps/actualizacion-telegram-febrero-2023-creador-fotos-perfil-gestion-multimedia-inteligente-mucho-1195130' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/telegram-2946692.jpg?tf=1200x' alt='Actualización Telegram febrero 2023: creador de fotos de perfil, gestión multimedia inteligente y mucho más' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/review-auriculares-profesionales-ath-m50x-sts-audio-technica-pensados-streaming-1192952'>Análisis de los auriculares profesionales ATH-M50x STS de Audio-Technica pensados para el streaming</a></h4>
-    <a href='https://computerhoy.com/analisis/review-auriculares-profesionales-ath-m50x-sts-audio-technica-pensados-streaming-1192952' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/ath-m50x-auriculares-audio-technica-2945090.jpg?tf=1200x' alt='Análisis de los auriculares profesionales ATH-M50x STS de Audio-Technica pensados para el streaming' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/perifericos/teclado-mecanico-cuales-son-ventajas-respecto-convencionales-1184868'>¿Qué es un teclado mecánico y cuáles son sus ventajas con respecto a los convencionales?</a></h4>
-    <a href='https://computerhoy.com/perifericos/teclado-mecanico-cuales-son-ventajas-respecto-convencionales-1184868' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/verticalimage1675467218218-2946354.jpg?tf=1200x' alt='¿Qué es un teclado mecánico y cuáles son sus ventajas con respecto a los convencionales?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/audio/auriculares-gaming-auriculares-tambien-necesitan-apellidos-1192212'>Auriculares gaming, o por qué los auriculares también necesitan apellidos</a></h4>
-    <a href='https://computerhoy.com/audio/auriculares-gaming-auriculares-tambien-necesitan-apellidos-1192212' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/astro-a30-analisis-opinion-2940040.jpg?tf=1200x' alt='Auriculares gaming, o por qué los auriculares también necesitan apellidos' />
     </a>
 </div>
 
