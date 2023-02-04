@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/analisis/review-sony-master-xr-a90k-mejor-puedes-comprar-cine-videojuegos-1194112'>La Sony Master XR A90K es de lo mejor que puedes comprar para cine y videojuegos, aunque sigue teniendo un "pequeño" problema</a></h4>
+    <a href='https://computerhoy.com/analisis/review-sony-master-xr-a90k-mejor-puedes-comprar-cine-videojuegos-1194112' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/analisis-sony-master-series-a90k-2946072.jpg?tf=1200x' alt='La Sony Master XR A90K es de lo mejor que puedes comprar para cine y videojuegos, aunque sigue teniendo un "pequeño" problema' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/gaming/playstation-5-lector-playstation-5-version-digital-cual-comprar-1194838'>PlayStation 5 con lector o PlayStation 5 versión digital: ¿cuál comprar?</a></h4>
     <a href='https://computerhoy.com/gaming/playstation-5-lector-playstation-5-version-digital-cual-comprar-1194838' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/acabo-escasez-ps5-stock-consola-volvera-normalidad-ano-2429173.jpg?tf=1200x' alt='PlayStation 5 con lector o PlayStation 5 versión digital: ¿cuál comprar?' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tutoriales/como-convertir-mando-stadia-bluetooth-antes-sea-imposible-1188048'>Cómo convertir el mando de Stadia en Bluetooth antes de que sea imposible</a></h4>
     <a href='https://computerhoy.com/tutoriales/como-convertir-mando-stadia-bluetooth-antes-sea-imposible-1188048' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/mando-stadia-2934606.jpg?tf=1200x' alt='Cómo convertir el mando de Stadia en Bluetooth antes de que sea imposible' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/guia-consejos-comprar-pistola-masaje-tipos-accesorios-diferencias-1068343'>Guía y consejos para comprar una pistola de masaje: tipos, accesorios y diferencias</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/guia-consejos-comprar-pistola-masaje-tipos-accesorios-diferencias-1068343' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/pistola-masaje-2714951.jpg?tf=1200x' alt='Guía y consejos para comprar una pistola de masaje: tipos, accesorios y diferencias' />
     </a>
 </div>
 
