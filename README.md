@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/analisis/review-auriculares-profesionales-ath-m50x-sts-audio-technica-pensados-streaming-1192952'>Análisis de los auriculares profesionales ATH-M50x STS de Audio-Technica pensados para el streaming</a></h4>
+    <a href='https://computerhoy.com/analisis/review-auriculares-profesionales-ath-m50x-sts-audio-technica-pensados-streaming-1192952' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/ath-m50x-auriculares-audio-technica-2945090.jpg?tf=1200x' alt='Análisis de los auriculares profesionales ATH-M50x STS de Audio-Technica pensados para el streaming' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/perifericos/teclado-mecanico-cuales-son-ventajas-respecto-convencionales-1184868'>¿Qué es un teclado mecánico y cuáles son sus ventajas con respecto a los convencionales?</a></h4>
     <a href='https://computerhoy.com/perifericos/teclado-mecanico-cuales-son-ventajas-respecto-convencionales-1184868' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/verticalimage1675467218218-2946354.jpg?tf=1200x' alt='¿Qué es un teclado mecánico y cuáles son sus ventajas con respecto a los convencionales?' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/gaming/playstation-5-lector-playstation-5-version-digital-cual-comprar-1194838'>PlayStation 5 con lector o PlayStation 5 versión digital: ¿cuál comprar?</a></h4>
     <a href='https://computerhoy.com/gaming/playstation-5-lector-playstation-5-version-digital-cual-comprar-1194838' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/acabo-escasez-ps5-stock-consola-volvera-normalidad-ano-2429173.jpg?tf=1200x' alt='PlayStation 5 con lector o PlayStation 5 versión digital: ¿cuál comprar?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/guia-definitiva-chatgpt-como-funciona-ejemplos-uso-trucos-mejores-alternativas-1191486'>Guía definitiva de ChatGPT: qué es, cómo funciona, ejemplos de uso, trucos y mejores alternativas</a></h4>
-    <a href='https://computerhoy.com/tecnologia/guia-definitiva-chatgpt-como-funciona-ejemplos-uso-trucos-mejores-alternativas-1191486' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/chatgpt-2946062.jpg?tf=1200x' alt='Guía definitiva de ChatGPT: qué es, cómo funciona, ejemplos de uso, trucos y mejores alternativas' />
     </a>
 </div>
 
