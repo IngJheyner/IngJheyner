@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/audio/auriculares-gaming-auriculares-tambien-necesitan-apellidos-1192212'>Auriculares gaming, o por qué los auriculares también necesitan apellidos</a></h4>
+    <a href='https://computerhoy.com/audio/auriculares-gaming-auriculares-tambien-necesitan-apellidos-1192212' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/astro-a30-analisis-opinion-2940040.jpg?tf=1200x' alt='Auriculares gaming, o por qué los auriculares también necesitan apellidos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/analisis/review-sony-master-xr-a90k-mejor-puedes-comprar-cine-videojuegos-1194112'>La Sony Master XR A90K es de lo mejor que puedes comprar para cine y videojuegos, aunque sigue teniendo un "pequeño" problema</a></h4>
     <a href='https://computerhoy.com/analisis/review-sony-master-xr-a90k-mejor-puedes-comprar-cine-videojuegos-1194112' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/analisis-sony-master-series-a90k-2946072.jpg?tf=1200x' alt='La Sony Master XR A90K es de lo mejor que puedes comprar para cine y videojuegos, aunque sigue teniendo un "pequeño" problema' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/enabot-ebo-x-nuevo-robot-cuida-familia-video-1195084'>Enabot EBO X, el nuevo robot que cuida de la familia (vídeo)</a></h4>
     <a href='https://computerhoy.com/tecnologia/enabot-ebo-x-nuevo-robot-cuida-familia-video-1195084' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/verticalimage1675484621802-2946598.jpg?tf=1200x' alt='Enabot EBO X, el nuevo robot que cuida de la familia (vídeo)' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-convertir-mando-stadia-bluetooth-antes-sea-imposible-1188048'>Cómo convertir el mando de Stadia en Bluetooth antes de que sea imposible</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-convertir-mando-stadia-bluetooth-antes-sea-imposible-1188048' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/mando-stadia-2934606.jpg?tf=1200x' alt='Cómo convertir el mando de Stadia en Bluetooth antes de que sea imposible' />
     </a>
 </div>
 
