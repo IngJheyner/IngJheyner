@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/ahora-vas-poder-ganar-dinero-cuenta-twitter-1195200'>Ahora vas a poder ganar dinero con tu cuenta de Twitter</a></h4>
+    <a href='https://computerhoy.com/apps/ahora-vas-poder-ganar-dinero-cuenta-twitter-1195200' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/fortuna-elon-musk-esfuma-twitter-tesla-son-agujero-perdidas-millonarias-2880111.jpg?tf=1200x' alt='Ahora vas a poder ganar dinero con tu cuenta de Twitter' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/android/coolwalk-google-trabajando-otra-actualizacion-interfaz-android-auto-1195186'>Tras Coolwalk Google está trabajando en otra actualización para la interfaz de Android Auto</a></h4>
     <a href='https://computerhoy.com/android/coolwalk-google-trabajando-otra-actualizacion-interfaz-android-auto-1195186' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/android-auto-coolwalk-2870273.jpg?tf=1200x' alt='Tras Coolwalk Google está trabajando en otra actualización para la interfaz de Android Auto' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/criptos/experto-destapo-manipulacion-bitcoin-2017-sospecha-podria-estar-pasando-nuevo-1195160'>El experto que destapó la manipulación de Bitcoin en 2017 sospecha que podría estar pasando de nuevo</a></h4>
     <a href='https://computerhoy.com/criptos/experto-destapo-manipulacion-bitcoin-2017-sospecha-podria-estar-pasando-nuevo-1195160' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/bitcoin-2579031.jpg?tf=1200x' alt='El experto que destapó la manipulación de Bitcoin en 2017 sospecha que podría estar pasando de nuevo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/6-maneras-movil-te-recuerde-donde-aparcaste-coche-1159403'>Las 6 maneras de que el móvil te recuerde dónde aparcaste el coche</a></h4>
-    <a href='https://computerhoy.com/tecnologia/6-maneras-movil-te-recuerde-donde-aparcaste-coche-1159403' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/google-maps-2880679.jpg?tf=1200x' alt='Las 6 maneras de que el móvil te recuerde dónde aparcaste el coche' />
     </a>
 </div>
 
