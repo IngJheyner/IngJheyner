@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/android/coolwalk-google-trabajando-otra-actualizacion-interfaz-android-auto-1195186'>Tras Coolwalk Google está trabajando en otra actualización para la interfaz de Android Auto</a></h4>
+    <a href='https://computerhoy.com/android/coolwalk-google-trabajando-otra-actualizacion-interfaz-android-auto-1195186' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/android-auto-coolwalk-2870273.jpg?tf=1200x' alt='Tras Coolwalk Google está trabajando en otra actualización para la interfaz de Android Auto' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/apple-no-tendria-nada-prisa-sacar-nuevos-airpods-1195172'>Apple no tendría nada de prisa en sacar unos nuevos AirPods</a></h4>
+    <a href='https://computerhoy.com/apple/apple-no-tendria-nada-prisa-sacar-nuevos-airpods-1195172' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/airpods-max-2232621.jpeg?tf=1200x' alt='Apple no tendría nada de prisa en sacar unos nuevos AirPods' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/windows/error-instalacion-windows-10-te-obliga-pasar-caja-1195166'>El error de instalación de Windows 10 que "te obliga" a pasar por caja</a></h4>
     <a href='https://computerhoy.com/windows/error-instalacion-windows-10-te-obliga-pasar-caja-1195166' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/fin-soporte-windows-10-2369043.jpg?tf=1200x' alt='El error de instalación de Windows 10 que "te obliga" a pasar por caja' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/6-maneras-movil-te-recuerde-donde-aparcaste-coche-1159403'>Las 6 maneras de que el móvil te recuerde dónde aparcaste el coche</a></h4>
     <a href='https://computerhoy.com/tecnologia/6-maneras-movil-te-recuerde-donde-aparcaste-coche-1159403' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/google-maps-2880679.jpg?tf=1200x' alt='Las 6 maneras de que el móvil te recuerde dónde aparcaste el coche' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/llega-fin-whatsapp-funciones-utiles-telegram-1195152'>Llega por fin a WhatsApp una de las funciones más útiles de Telegram</a></h4>
-    <a href='https://computerhoy.com/apps/llega-fin-whatsapp-funciones-utiles-telegram-1195152' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/comunidad-whatsapp-2525619.jpg?tf=1200x' alt='Llega por fin a WhatsApp una de las funciones más útiles de Telegram' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/alimentacion/cosas-nunca-deberias-meter-freidora-aire-expertos-1195144'>Cosas que nunca deberías meter en una freidora de aire según los expertos</a></h4>
-    <a href='https://computerhoy.com/alimentacion/cosas-nunca-deberias-meter-freidora-aire-expertos-1195144' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/freidora-aire-aceite-2875957.jpg?tf=1200x' alt='Cosas que nunca deberías meter en una freidora de aire según los expertos' />
     </a>
 </div>
 
