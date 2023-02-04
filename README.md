@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/internet/microsoft-activa-error-nuevo-bing-chatgpt-ya-han-probado-puede-poner-problemas-google-1194856'>Microsoft activa por error el nuevo Bing con ChatGPT: ya lo han probado, y puede poner en problemas a Google</a></h4>
+    <a href='https://computerhoy.com/internet/microsoft-activa-error-nuevo-bing-chatgpt-ya-han-probado-puede-poner-problemas-google-1194856' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/microsoft-activa-error-nuevo-bing-chatgpt-ya-han-probado-puede-poner-problemas-google-2946350.jpg?tf=1200x' alt='Microsoft activa por error el nuevo Bing con ChatGPT: ya lo han probado, y puede poner en problemas a Google' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/perifericos/olvidate-pendrive-mini-ssd-externo-1-tb-bolsillo-rapidisimo-1194850'>Olvídate de los pendrive: este mini SSD externo de 1 TB cabe en el bolsillo y es rapidísimo</a></h4>
     <a href='https://computerhoy.com/perifericos/olvidate-pendrive-mini-ssd-externo-1-tb-bolsillo-rapidisimo-1194850' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/pequeno-ssd-portatil-500-gb-blindando-golpes-caidas-solo-cuesta-58-euros-2927174.jpg?tf=1200x' alt='Olvídate de los pendrive: este mini SSD externo de 1 TB cabe en el bolsillo y es rapidísimo' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/streaming/hemeroteca-explota-cara-netflix-nueva-politica-cuentas-compartidas-1194832'>La hemeroteca le explota en la cara a Netflix con su nueva política de cuentas compartidas</a></h4>
     <a href='https://computerhoy.com/streaming/hemeroteca-explota-cara-netflix-nueva-politica-cuentas-compartidas-1194832' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/netflix-2796523.jpg?tf=1200x' alt='La hemeroteca le explota en la cara a Netflix con su nueva política de cuentas compartidas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/sitios-prohibidos-donde-nunca-deberias-colocar-router-wifi-1194830'>Sitios prohibidos donde nunca deberías colocar tu router WiFi</a></h4>
-    <a href='https://computerhoy.com/internet/sitios-prohibidos-donde-nunca-deberias-colocar-router-wifi-1194830' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/router-wifi-2946290.jpg?tf=1200x' alt='Sitios prohibidos donde nunca deberías colocar tu router WiFi' />
     </a>
 </div>
 
