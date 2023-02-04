@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/windows/tiny11-windows-11-software-inutil-solo-necesita-2-gb-ram-funciona-pcs-antiguos-1195082'>Tiny11, el Windows 11 sin software inútil que solo necesita 2 GB de RAM y funciona en los PCs antiguos</a></h4>
+    <a href='https://computerhoy.com/windows/tiny11-windows-11-software-inutil-solo-necesita-2-gb-ram-funciona-pcs-antiguos-1195082' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/tiny11-windows-11-software-inutil-solo-necesita-2-gb-ram-funciona-pcs-antiguos-2946562.jpg?tf=1200x' alt='Tiny11, el Windows 11 sin software inútil que solo necesita 2 GB de RAM y funciona en los PCs antiguos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/internet/microsoft-activa-error-nuevo-bing-chatgpt-ya-han-probado-puede-poner-problemas-google-1194856'>Microsoft activa por error el nuevo Bing con ChatGPT: ya lo han probado, y puede poner en problemas a Google</a></h4>
     <a href='https://computerhoy.com/internet/microsoft-activa-error-nuevo-bing-chatgpt-ya-han-probado-puede-poner-problemas-google-1194856' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/microsoft-activa-error-nuevo-bing-chatgpt-ya-han-probado-puede-poner-problemas-google-2946350.jpg?tf=1200x' alt='Microsoft activa por error el nuevo Bing con ChatGPT: ya lo han probado, y puede poner en problemas a Google' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/entretenimiento/rubius-next-level-nuevo-documental-prime-video-rubius-japon-1194848'>Rubius Next Level, el nuevo documental de Prime Video con El Rubius... en Japón</a></h4>
     <a href='https://computerhoy.com/entretenimiento/rubius-next-level-nuevo-documental-prime-video-rubius-japon-1194848' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/rubius-next-level-nueva-docuserie-prime-video-rubius-japon-2946292.jpg?tf=1200x' alt='Rubius Next Level, el nuevo documental de Prime Video con El Rubius... en Japón' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/streaming/hemeroteca-explota-cara-netflix-nueva-politica-cuentas-compartidas-1194832'>La hemeroteca le explota en la cara a Netflix con su nueva política de cuentas compartidas</a></h4>
-    <a href='https://computerhoy.com/streaming/hemeroteca-explota-cara-netflix-nueva-politica-cuentas-compartidas-1194832' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/netflix-2796523.jpg?tf=1200x' alt='La hemeroteca le explota en la cara a Netflix con su nueva política de cuentas compartidas' />
     </a>
 </div>
 
