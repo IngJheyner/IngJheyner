@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/7-series-muy-queridas-deberian-estan-llegando-deberian-hacerlo-plataformas-1192336'>7 series muy queridas que deberían están llegando, o deberían hacerlo, a las plataformas</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/7-series-muy-queridas-deberian-estan-llegando-deberian-hacerlo-plataformas-1192336' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/frasier-2941608.jpg?tf=1200x' alt='7 series muy queridas que deberían están llegando, o deberían hacerlo, a las plataformas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/actualizacion-telegram-febrero-2023-creador-fotos-perfil-gestion-multimedia-inteligente-mucho-1195130'>Actualización Telegram febrero 2023: creador de fotos de perfil, gestión multimedia inteligente y mucho más</a></h4>
+    <a href='https://computerhoy.com/apps/actualizacion-telegram-febrero-2023-creador-fotos-perfil-gestion-multimedia-inteligente-mucho-1195130' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/telegram-2946692.jpg?tf=1200x' alt='Actualización Telegram febrero 2023: creador de fotos de perfil, gestión multimedia inteligente y mucho más' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/analisis/review-auriculares-profesionales-ath-m50x-sts-audio-technica-pensados-streaming-1192952'>Análisis de los auriculares profesionales ATH-M50x STS de Audio-Technica pensados para el streaming</a></h4>
     <a href='https://computerhoy.com/analisis/review-auriculares-profesionales-ath-m50x-sts-audio-technica-pensados-streaming-1192952' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/ath-m50x-auriculares-audio-technica-2945090.jpg?tf=1200x' alt='Análisis de los auriculares profesionales ATH-M50x STS de Audio-Technica pensados para el streaming' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/audio/auriculares-gaming-auriculares-tambien-necesitan-apellidos-1192212'>Auriculares gaming, o por qué los auriculares también necesitan apellidos</a></h4>
     <a href='https://computerhoy.com/audio/auriculares-gaming-auriculares-tambien-necesitan-apellidos-1192212' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/astro-a30-analisis-opinion-2940040.jpg?tf=1200x' alt='Auriculares gaming, o por qué los auriculares también necesitan apellidos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/review-sony-master-xr-a90k-mejor-puedes-comprar-cine-videojuegos-1194112'>La Sony Master XR A90K es de lo mejor que puedes comprar para cine y videojuegos, aunque sigue teniendo un "pequeño" problema</a></h4>
-    <a href='https://computerhoy.com/analisis/review-sony-master-xr-a90k-mejor-puedes-comprar-cine-videojuegos-1194112' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/analisis-sony-master-series-a90k-2946072.jpg?tf=1200x' alt='La Sony Master XR A90K es de lo mejor que puedes comprar para cine y videojuegos, aunque sigue teniendo un "pequeño" problema' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/gaming/playstation-5-lector-playstation-5-version-digital-cual-comprar-1194838'>PlayStation 5 con lector o PlayStation 5 versión digital: ¿cuál comprar?</a></h4>
-    <a href='https://computerhoy.com/gaming/playstation-5-lector-playstation-5-version-digital-cual-comprar-1194838' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/acabo-escasez-ps5-stock-consola-volvera-normalidad-ano-2429173.jpg?tf=1200x' alt='PlayStation 5 con lector o PlayStation 5 versión digital: ¿cuál comprar?' />
     </a>
 </div>
 
