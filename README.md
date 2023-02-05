@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-configurar-correctamente-nuevo-ordenador-windows-1190020'>Cómo configurar correctamente tu nuevo ordenador Windows</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-configurar-correctamente-nuevo-ordenador-windows-1190020' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/teclado-ordenador-windows-2937696.jpg?tf=1200x' alt='Cómo configurar correctamente tu nuevo ordenador Windows' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/pc/freewrite-portatiles-sin-distracciones-pantalla-tinta-electronica-video-1195508'>Freewrite, los portátiles sin distracciones pensados para escribir (vídeo)</a></h4>
     <a href='https://computerhoy.com/pc/freewrite-portatiles-sin-distracciones-pantalla-tinta-electronica-video-1195508' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/verticalimage1675606958530-2947216.jpg?tf=1200x' alt='Freewrite, los portátiles sin distracciones pensados para escribir (vídeo)' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/gaming/directx-11-vs-directx-12-cual-mejor-diferencian-1169272'>DirectX 11 vs. DirectX 12: ¿cuál es mejor y en qué se diferencian?</a></h4>
     <a href='https://computerhoy.com/gaming/directx-11-vs-directx-12-cual-mejor-diferencian-1169272' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/directx-12-2899928.jpg?tf=1200x' alt='DirectX 11 vs. DirectX 12: ¿cuál es mejor y en qué se diferencian?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/subasta-iphone-original-2007-totalmente-precintado-espera-acabe-sorprendente-precio-1195476'>Se subasta un iPhone original de 2007 totalmente precintado y se espera que acabe a este sorprendente precio</a></h4>
-    <a href='https://computerhoy.com/apple/subasta-iphone-original-2007-totalmente-precintado-espera-acabe-sorprendente-precio-1195476' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/subasta-iphone-original-2947150.jpg?tf=1200x' alt='Se subasta un iPhone original de 2007 totalmente precintado y se espera que acabe a este sorprendente precio' />
     </a>
 </div>
 
