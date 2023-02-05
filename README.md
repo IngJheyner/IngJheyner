@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/diferencias-ancho-banda-velocidad-rendimiento-red-1193968'>Diferencias entre ancho de banda, velocidad y rendimiento de una red</a></h4>
+    <a href='https://computerhoy.com/tecnologia/diferencias-ancho-banda-velocidad-rendimiento-red-1193968' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/router-2944446.jpg?tf=1200x' alt='Diferencias entre ancho de banda, velocidad y rendimiento de una red' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/listas/entretenimiento/10-peliculas-infarto-estresantes-angustiosas-netflix-hbo-prime-video-694141'>10 películas de infarto que te mantienen con estrés en Netflix, HBO y Prime Video</a></h4>
+    <a href='https://computerhoy.com/listas/entretenimiento/10-peliculas-infarto-estresantes-angustiosas-netflix-hbo-prime-video-694141' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/abuela-2595813.jpg?tf=1200x' alt='10 películas de infarto que te mantienen con estrés en Netflix, HBO y Prime Video' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/analisis/review-realme-buds-air-3s-auriculares-tws-personalidad-1184858'>Análisis de los realme Buds Air 3S, unos auriculares TWS con personalidad a un precio supercompetitivo</a></h4>
     <a href='https://computerhoy.com/analisis/review-realme-buds-air-3s-auriculares-tws-personalidad-1184858' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/realme-buds-air-3s-2936366.jpg?tf=1200x' alt='Análisis de los realme Buds Air 3S, unos auriculares TWS con personalidad a un precio supercompetitivo' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/ciencia/robots-ya-pueden-correr-rapido-molesta-arena-playa-mejor-ser-humano-1195194'>Los robots ya pueden correr rápido por la molesta arena de la playa y mejor que un ser humano</a></h4>
     <a href='https://computerhoy.com/ciencia/robots-ya-pueden-correr-rapido-molesta-arena-playa-mejor-ser-humano-1195194' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/ahora-robots-son-ya-capaces-correr-rapido-arena-playa-2946786.jpg?tf=1200x' alt='Los robots ya pueden correr rápido por la molesta arena de la playa y mejor que un ser humano' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/necesitamos-menos-5-segundos-saber-cancion-nos-gusta-estudio-1195190'>Necesitamos menos de 5 segundos para saber si una canción nos gusta, según este estudio</a></h4>
-    <a href='https://computerhoy.com/ciencia/necesitamos-menos-5-segundos-saber-cancion-nos-gusta-estudio-1195190' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/mujer-escucha-musica-2946780.jpg?tf=1200x' alt='Necesitamos menos de 5 segundos para saber si una canción nos gusta, según este estudio' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/11-usos-interesantes-locos-raspberry-pi-1191098'>Los 11 usos más interesantes y locos para la Raspberry Pi</a></h4>
-    <a href='https://computerhoy.com/tecnologia/11-usos-interesantes-locos-raspberry-pi-1191098' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/raspberry-pi-2379269.jpg?tf=1200x' alt='Los 11 usos más interesantes y locos para la Raspberry Pi' />
     </a>
 </div>
 
