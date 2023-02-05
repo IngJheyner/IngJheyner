@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/espacio/cara-marte-teorias-conspiranoicas-extraterrestres-ciencia-1194808'>La Cara de Marte: así es como la tecnología desmontó las teorías conspiranoicas</a></h4>
+    <a href='https://computerhoy.com/espacio/cara-marte-teorias-conspiranoicas-extraterrestres-ciencia-1194808' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/cara-marte-como-ciencia-desmonto-teorias-conspiranoicas-2946206.jpg?tf=1200x' alt='La Cara de Marte: así es como la tecnología desmontó las teorías conspiranoicas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/arbol-crece-al-reves-boca-abajo-baia-1195540'>El árbol que crece hacia abajo en un suelo de piedra y da frutos, tiene asombrados a los botánicos</a></h4>
     <a href='https://computerhoy.com/life/arbol-crece-al-reves-boca-abajo-baia-1195540' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/arbol-crece-boca-abajo-da-frutos-tiene-asombrados-botanicos-2947482.jpg?tf=1200x' alt='El árbol que crece hacia abajo en un suelo de piedra y da frutos, tiene asombrados a los botánicos' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/pc/ssd-m2-samsung-980-pro-actualizar-firmware-fallo-1195530'>Comprueba si tienes este SSD de Samsung, debes actualizar el firmware inmediatamente o podría destruirse</a></h4>
     <a href='https://computerhoy.com/pc/ssd-m2-samsung-980-pro-actualizar-firmware-fallo-1195530' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/compruea-tienes-ssd-samsung-debes-actualizar-firmware-inmediatamente-2947252.jpg?tf=1200x' alt='Comprueba si tienes este SSD de Samsung, debes actualizar el firmware inmediatamente o podría destruirse' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-configurar-correctamente-nuevo-ordenador-windows-1190020'>Cómo configurar correctamente tu nuevo ordenador Windows</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-configurar-correctamente-nuevo-ordenador-windows-1190020' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/teclado-ordenador-windows-2937696.jpg?tf=1200x' alt='Cómo configurar correctamente tu nuevo ordenador Windows' />
     </a>
 </div>
 
