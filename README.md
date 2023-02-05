@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/telescopio-espacial-james-webb-nasa-como-funciona-misiones-imagenes-impresionantes-1191738'>Telescopio espacial James Webb de la NASA: qué es, cómo funciona, misiones y sus imágenes más impresionantes</a></h4>
+    <a href='https://computerhoy.com/tecnologia/telescopio-espacial-james-webb-nasa-como-funciona-misiones-imagenes-impresionantes-1191738' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/telescopio-nasa-james-webb-2946028.jpg?tf=1200x' alt='Telescopio espacial James Webb de la NASA: qué es, cómo funciona, misiones y sus imágenes más impresionantes' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/robots-ya-pueden-correr-rapido-molesta-arena-playa-mejor-ser-humano-1195194'>Los robots ya pueden correr rápido por la molesta arena de la playa y mejor que un ser humano</a></h4>
+    <a href='https://computerhoy.com/ciencia/robots-ya-pueden-correr-rapido-molesta-arena-playa-mejor-ser-humano-1195194' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/ahora-robots-son-ya-capaces-correr-rapido-arena-playa-2946786.jpg?tf=1200x' alt='Los robots ya pueden correr rápido por la molesta arena de la playa y mejor que un ser humano' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciencia/necesitamos-menos-5-segundos-saber-cancion-nos-gusta-estudio-1195190'>Necesitamos menos de 5 segundos para saber si una canción nos gusta, según este estudio</a></h4>
     <a href='https://computerhoy.com/ciencia/necesitamos-menos-5-segundos-saber-cancion-nos-gusta-estudio-1195190' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/mujer-escucha-musica-2946780.jpg?tf=1200x' alt='Necesitamos menos de 5 segundos para saber si una canción nos gusta, según este estudio' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/internet/nordvpn-vs-expressvpn-cual-mejor-comparativa-precios-caracteristicas-1194806'>NordVPN vs ExpressVPN: ¿cuál es mejor? Comparativa de precios y características</a></h4>
     <a href='https://computerhoy.com/internet/nordvpn-vs-expressvpn-cual-mejor-comparativa-precios-caracteristicas-1194806' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/servicio-vpn-usandose-movil-ver-evento-deportivo-2946270.jpg?tf=1200x' alt='NordVPN vs ExpressVPN: ¿cuál es mejor? Comparativa de precios y características' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/hogar/compra-tienda-china-20-robots-limpieza-75-euros-1194660'>Compra en una tienda china 20 robots de limpieza por 75 euros, y enseguida descubre por qué son tan baratos</a></h4>
-    <a href='https://computerhoy.com/hogar/compra-tienda-china-20-robots-limpieza-75-euros-1194660' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/compra-tienda-china-20-robots-limpieza-75-euros-enseguida-descubre-son-tan-baratos-2945742.jpg?tf=1200x' alt='Compra en una tienda china 20 robots de limpieza por 75 euros, y enseguida descubre por qué son tan baratos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/hogar/como-limpiar-cepillo-dientes-correctamente-sociedad-dental-americana-1194650'>Cómo limpiar el cepillo de dientes correctamente, según la Sociedad Dental Americana</a></h4>
-    <a href='https://computerhoy.com/hogar/como-limpiar-cepillo-dientes-correctamente-sociedad-dental-americana-1194650' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/como-deberias-limpiar-cepillo-dientes-expertos-2945554.jpg?tf=1200x' alt='Cómo limpiar el cepillo de dientes correctamente, según la Sociedad Dental Americana' />
     </a>
 </div>
 
