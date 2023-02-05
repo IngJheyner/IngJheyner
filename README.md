@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/cientificos-crean-hielo-alienigena-jamas-antes-visto-ni-flota-ni-hunde-1195482'>Científicos crean “un hielo alienígena” jamás antes visto que ni flota ni se hunde</a></h4>
+    <a href='https://computerhoy.com/life/cientificos-crean-hielo-alienigena-jamas-antes-visto-ni-flota-ni-hunde-1195482' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/cubitos-hielo-2947156.jpg?tf=1200x' alt='Científicos crean “un hielo alienígena” jamás antes visto que ni flota ni se hunde' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/gaming/directx-11-vs-directx-12-cual-mejor-diferencian-1169272'>DirectX 11 vs. DirectX 12: ¿cuál es mejor y en qué se diferencian?</a></h4>
+    <a href='https://computerhoy.com/gaming/directx-11-vs-directx-12-cual-mejor-diferencian-1169272' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/directx-12-2899928.jpg?tf=1200x' alt='DirectX 11 vs. DirectX 12: ¿cuál es mejor y en qué se diferencian?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/subasta-iphone-original-2007-totalmente-precintado-espera-acabe-sorprendente-precio-1195476'>Se subasta un iPhone original de 2007 totalmente precintado y se espera que acabe a este sorprendente precio</a></h4>
+    <a href='https://computerhoy.com/apple/subasta-iphone-original-2007-totalmente-precintado-espera-acabe-sorprendente-precio-1195476' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/subasta-iphone-original-2947150.jpg?tf=1200x' alt='Se subasta un iPhone original de 2007 totalmente precintado y se espera que acabe a este sorprendente precio' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/entretenimiento/7-peliculas-basadas-comics-no-tienen-superheroes-son-muy-conocidos-1192950'>7 películas basadas en cómics que no tienen superhéroes y son muy conocidos</a></h4>
     <a href='https://computerhoy.com/entretenimiento/7-peliculas-basadas-comics-no-tienen-superheroes-son-muy-conocidos-1192950' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/7-peliculas-basadas-comics-no-tienen-superheroes-son-muy-conocidos-2942702.jpg?tf=1200x' alt='7 películas basadas en cómics que no tienen superhéroes y son muy conocidos' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/life/truco-viral-papel-aluminio-ahorrar-calefaccion-sirve-realmente-algo-1195472'>El truco viral del papel de aluminio para ahorrar en calefacción: ¿sirve realmente para algo?</a></h4>
     <a href='https://computerhoy.com/life/truco-viral-papel-aluminio-ahorrar-calefaccion-sirve-realmente-algo-1195472' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/mujer-sentada-cerca-radiador-2902654.jpg?tf=1200x' alt='El truco viral del papel de aluminio para ahorrar en calefacción: ¿sirve realmente para algo?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/dell-xps-13-plus-9320-review-1195080'>Dell XPS 13 Plus 9320, el XPS más vanguardista se olvida del usuario</a></h4>
-    <a href='https://computerhoy.com/analisis/dell-xps-13-plus-9320-review-1195080' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/dell-xps-13-plus-9320-analisis-opinion-2946788.jpg?tf=1200x' alt='Dell XPS 13 Plus 9320, el XPS más vanguardista se olvida del usuario' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/nuevo-juguete-itv-complicara-mucho-vida-coches-antiguos-1195460'>El nuevo “juguete” de la ITV que complicará mucho la vida a los coches más antiguos</a></h4>
-    <a href='https://computerhoy.com/motor/nuevo-juguete-itv-complicara-mucho-vida-coches-antiguos-1195460' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/03/comision-europea-da-itv-papel-clave-lucha-cambio-climatico-2262363.jpg?tf=1200x' alt='El nuevo “juguete” de la ITV que complicará mucho la vida a los coches más antiguos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/diferencias-ancho-banda-velocidad-rendimiento-red-1193968'>Diferencias entre ancho de banda, velocidad y rendimiento de una red</a></h4>
-    <a href='https://computerhoy.com/tecnologia/diferencias-ancho-banda-velocidad-rendimiento-red-1193968' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/router-2944446.jpg?tf=1200x' alt='Diferencias entre ancho de banda, velocidad y rendimiento de una red' />
     </a>
 </div>
 
