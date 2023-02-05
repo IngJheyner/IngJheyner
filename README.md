@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/analisis/dell-xps-13-plus-9320-review-1195080'>Dell XPS 13 Plus 9320, el XPS más vanguardista se olvida del usuario</a></h4>
+    <a href='https://computerhoy.com/analisis/dell-xps-13-plus-9320-review-1195080' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/dell-xps-13-plus-9320-analisis-opinion-2946788.jpg?tf=1200x' alt='Dell XPS 13 Plus 9320, el XPS más vanguardista se olvida del usuario' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/motor/nuevo-juguete-itv-complicara-mucho-vida-coches-antiguos-1195460'>El nuevo “juguete” de la ITV que complicará mucho la vida a los coches más antiguos</a></h4>
+    <a href='https://computerhoy.com/motor/nuevo-juguete-itv-complicara-mucho-vida-coches-antiguos-1195460' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/03/comision-europea-da-itv-papel-clave-lucha-cambio-climatico-2262363.jpg?tf=1200x' alt='El nuevo “juguete” de la ITV que complicará mucho la vida a los coches más antiguos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/diferencias-ancho-banda-velocidad-rendimiento-red-1193968'>Diferencias entre ancho de banda, velocidad y rendimiento de una red</a></h4>
     <a href='https://computerhoy.com/tecnologia/diferencias-ancho-banda-velocidad-rendimiento-red-1193968' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/router-2944446.jpg?tf=1200x' alt='Diferencias entre ancho de banda, velocidad y rendimiento de una red' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/analisis/review-realme-buds-air-3s-auriculares-tws-personalidad-1184858'>Análisis de los realme Buds Air 3S, unos auriculares TWS con personalidad a un precio supercompetitivo</a></h4>
     <a href='https://computerhoy.com/analisis/review-realme-buds-air-3s-auriculares-tws-personalidad-1184858' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/realme-buds-air-3s-2936366.jpg?tf=1200x' alt='Análisis de los realme Buds Air 3S, unos auriculares TWS con personalidad a un precio supercompetitivo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/telescopio-espacial-james-webb-nasa-como-funciona-misiones-imagenes-impresionantes-1191738'>Telescopio espacial James Webb de la NASA: qué es, cómo funciona, misiones y sus imágenes más impresionantes</a></h4>
-    <a href='https://computerhoy.com/tecnologia/telescopio-espacial-james-webb-nasa-como-funciona-misiones-imagenes-impresionantes-1191738' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/telescopio-nasa-james-webb-2946028.jpg?tf=1200x' alt='Telescopio espacial James Webb de la NASA: qué es, cómo funciona, misiones y sus imágenes más impresionantes' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/robots-ya-pueden-correr-rapido-molesta-arena-playa-mejor-ser-humano-1195194'>Los robots ya pueden correr rápido por la molesta arena de la playa y mejor que un ser humano</a></h4>
-    <a href='https://computerhoy.com/ciencia/robots-ya-pueden-correr-rapido-molesta-arena-playa-mejor-ser-humano-1195194' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/ahora-robots-son-ya-capaces-correr-rapido-arena-playa-2946786.jpg?tf=1200x' alt='Los robots ya pueden correr rápido por la molesta arena de la playa y mejor que un ser humano' />
     </a>
 </div>
 
