@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/arbol-crece-al-reves-boca-abajo-baia-1195540'>El árbol que crece hacia abajo en un suelo de piedra y da frutos, tiene asombrados a los botánicos</a></h4>
+    <a href='https://computerhoy.com/life/arbol-crece-al-reves-boca-abajo-baia-1195540' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/arbol-crece-boca-abajo-da-frutos-tiene-asombrados-botanicos-2947482.jpg?tf=1200x' alt='El árbol que crece hacia abajo en un suelo de piedra y da frutos, tiene asombrados a los botánicos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/entretenimiento/pelicula-mario-kart-filmada-hbo-estilo-last-us-1195538'>La película de Mario, si hubiese sido filmada por HBO al estilo The Last of us</a></h4>
     <a href='https://computerhoy.com/entretenimiento/pelicula-mario-kart-filmada-hbo-estilo-last-us-1195538' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/pelicula-mario-hubiese-sido-filmada-hbo-estilo-last-us-2947476.jpg?tf=1200x' alt='La película de Mario, si hubiese sido filmada por HBO al estilo The Last of us' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tutoriales/como-configurar-correctamente-nuevo-ordenador-windows-1190020'>Cómo configurar correctamente tu nuevo ordenador Windows</a></h4>
     <a href='https://computerhoy.com/tutoriales/como-configurar-correctamente-nuevo-ordenador-windows-1190020' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/teclado-ordenador-windows-2937696.jpg?tf=1200x' alt='Cómo configurar correctamente tu nuevo ordenador Windows' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/freewrite-portatiles-sin-distracciones-pantalla-tinta-electronica-video-1195508'>Freewrite, los portátiles sin distracciones pensados para escribir (vídeo)</a></h4>
-    <a href='https://computerhoy.com/pc/freewrite-portatiles-sin-distracciones-pantalla-tinta-electronica-video-1195508' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/verticalimage1675606958530-2947216.jpg?tf=1200x' alt='Freewrite, los portátiles sin distracciones pensados para escribir (vídeo)' />
     </a>
 </div>
 
