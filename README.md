@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/7-peliculas-basadas-comics-no-tienen-superheroes-son-muy-conocidos-1192950'>7 películas basadas en cómics que no tienen superhéroes y son muy conocidos</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/7-peliculas-basadas-comics-no-tienen-superheroes-son-muy-conocidos-1192950' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/7-peliculas-basadas-comics-no-tienen-superheroes-son-muy-conocidos-2942702.jpg?tf=1200x' alt='7 películas basadas en cómics que no tienen superhéroes y son muy conocidos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/truco-viral-papel-aluminio-ahorrar-calefaccion-sirve-realmente-algo-1195472'>El truco viral del papel de aluminio para ahorrar en calefacción: ¿sirve realmente para algo?</a></h4>
+    <a href='https://computerhoy.com/life/truco-viral-papel-aluminio-ahorrar-calefaccion-sirve-realmente-algo-1195472' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/mujer-sentada-cerca-radiador-2902654.jpg?tf=1200x' alt='El truco viral del papel de aluminio para ahorrar en calefacción: ¿sirve realmente para algo?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/analisis/dell-xps-13-plus-9320-review-1195080'>Dell XPS 13 Plus 9320, el XPS más vanguardista se olvida del usuario</a></h4>
     <a href='https://computerhoy.com/analisis/dell-xps-13-plus-9320-review-1195080' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/dell-xps-13-plus-9320-analisis-opinion-2946788.jpg?tf=1200x' alt='Dell XPS 13 Plus 9320, el XPS más vanguardista se olvida del usuario' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/diferencias-ancho-banda-velocidad-rendimiento-red-1193968'>Diferencias entre ancho de banda, velocidad y rendimiento de una red</a></h4>
     <a href='https://computerhoy.com/tecnologia/diferencias-ancho-banda-velocidad-rendimiento-red-1193968' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/router-2944446.jpg?tf=1200x' alt='Diferencias entre ancho de banda, velocidad y rendimiento de una red' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/listas/entretenimiento/10-peliculas-infarto-estresantes-angustiosas-netflix-hbo-prime-video-694141'>10 películas de infarto que te mantienen con estrés en Netflix, HBO y Prime Video</a></h4>
-    <a href='https://computerhoy.com/listas/entretenimiento/10-peliculas-infarto-estresantes-angustiosas-netflix-hbo-prime-video-694141' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/abuela-2595813.jpg?tf=1200x' alt='10 películas de infarto que te mantienen con estrés en Netflix, HBO y Prime Video' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/review-realme-buds-air-3s-auriculares-tws-personalidad-1184858'>Análisis de los realme Buds Air 3S, unos auriculares TWS con personalidad a un precio supercompetitivo</a></h4>
-    <a href='https://computerhoy.com/analisis/review-realme-buds-air-3s-auriculares-tws-personalidad-1184858' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/realme-buds-air-3s-2936366.jpg?tf=1200x' alt='Análisis de los realme Buds Air 3S, unos auriculares TWS con personalidad a un precio supercompetitivo' />
     </a>
 </div>
 
