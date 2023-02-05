@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/pelicula-mario-kart-filmada-hbo-estilo-last-us-1195538'>La película de Mario, si hubiese sido filmada por HBO al estilo The Last of us</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/pelicula-mario-kart-filmada-hbo-estilo-last-us-1195538' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/pelicula-mario-hubiese-sido-filmada-hbo-estilo-last-us-2947476.jpg?tf=1200x' alt='La película de Mario, si hubiese sido filmada por HBO al estilo The Last of us' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/motor/elon-musk-gana-juicio-accionistas-tesla-1195534'>Elon Musk salva un 'match ball' por el que tendría que haber pagado miles de millones en indemnizaciones</a></h4>
     <a href='https://computerhoy.com/motor/elon-musk-gana-juicio-accionistas-tesla-1195534' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/03/elon-musk-recibe-tesla-titulo-technoking-2266145.jpg?tf=1200x' alt='Elon Musk salva un 'match ball' por el que tendría que haber pagado miles de millones en indemnizaciones' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/pc/freewrite-portatiles-sin-distracciones-pantalla-tinta-electronica-video-1195508'>Freewrite, los portátiles sin distracciones pensados para escribir (vídeo)</a></h4>
     <a href='https://computerhoy.com/pc/freewrite-portatiles-sin-distracciones-pantalla-tinta-electronica-video-1195508' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/verticalimage1675606958530-2947216.jpg?tf=1200x' alt='Freewrite, los portátiles sin distracciones pensados para escribir (vídeo)' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/investigadores-logran-convertir-pozo-petroleo-abandonado-enorme-bateria-geotermica-1195488'>Investigadores logran convertir un pozo de petróleo abandonado en una enorme batería geotérmica</a></h4>
-    <a href='https://computerhoy.com/life/investigadores-logran-convertir-pozo-petroleo-abandonado-enorme-bateria-geotermica-1195488' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/pozo-petroleo-2947164.jpg?tf=1200x' alt='Investigadores logran convertir un pozo de petróleo abandonado en una enorme batería geotérmica' />
     </a>
 </div>
 
