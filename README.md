@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/analisis/review-realme-buds-air-3s-auriculares-tws-personalidad-1184858'>Análisis de los realme Buds Air 3S, unos auriculares TWS con personalidad a un precio supercompetitivo</a></h4>
+    <a href='https://computerhoy.com/analisis/review-realme-buds-air-3s-auriculares-tws-personalidad-1184858' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/realme-buds-air-3s-2936366.jpg?tf=1200x' alt='Análisis de los realme Buds Air 3S, unos auriculares TWS con personalidad a un precio supercompetitivo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/telescopio-espacial-james-webb-nasa-como-funciona-misiones-imagenes-impresionantes-1191738'>Telescopio espacial James Webb de la NASA: qué es, cómo funciona, misiones y sus imágenes más impresionantes</a></h4>
     <a href='https://computerhoy.com/tecnologia/telescopio-espacial-james-webb-nasa-como-funciona-misiones-imagenes-impresionantes-1191738' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/telescopio-nasa-james-webb-2946028.jpg?tf=1200x' alt='Telescopio espacial James Webb de la NASA: qué es, cómo funciona, misiones y sus imágenes más impresionantes' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/11-usos-interesantes-locos-raspberry-pi-1191098'>Los 11 usos más interesantes y locos para la Raspberry Pi</a></h4>
     <a href='https://computerhoy.com/tecnologia/11-usos-interesantes-locos-raspberry-pi-1191098' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/raspberry-pi-2379269.jpg?tf=1200x' alt='Los 11 usos más interesantes y locos para la Raspberry Pi' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/nordvpn-vs-expressvpn-cual-mejor-comparativa-precios-caracteristicas-1194806'>NordVPN vs ExpressVPN: ¿cuál es mejor? Comparativa de precios y características</a></h4>
-    <a href='https://computerhoy.com/internet/nordvpn-vs-expressvpn-cual-mejor-comparativa-precios-caracteristicas-1194806' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/servicio-vpn-usandose-movil-ver-evento-deportivo-2946270.jpg?tf=1200x' alt='NordVPN vs ExpressVPN: ¿cuál es mejor? Comparativa de precios y características' />
     </a>
 </div>
 
