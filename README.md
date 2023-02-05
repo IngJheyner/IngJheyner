@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/investigadores-logran-convertir-pozo-petroleo-abandonado-enorme-bateria-geotermica-1195488'>Investigadores logran convertir un pozo de petróleo abandonado en una enorme batería geotérmica</a></h4>
+    <a href='https://computerhoy.com/life/investigadores-logran-convertir-pozo-petroleo-abandonado-enorme-bateria-geotermica-1195488' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/pozo-petroleo-2947164.jpg?tf=1200x' alt='Investigadores logran convertir un pozo de petróleo abandonado en una enorme batería geotérmica' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/cientificos-crean-hielo-alienigena-jamas-antes-visto-ni-flota-ni-hunde-1195482'>Científicos crean “un hielo alienígena” jamás antes visto que ni flota ni se hunde</a></h4>
     <a href='https://computerhoy.com/life/cientificos-crean-hielo-alienigena-jamas-antes-visto-ni-flota-ni-hunde-1195482' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/cubitos-hielo-2947156.jpg?tf=1200x' alt='Científicos crean “un hielo alienígena” jamás antes visto que ni flota ni se hunde' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/entretenimiento/7-peliculas-basadas-comics-no-tienen-superheroes-son-muy-conocidos-1192950'>7 películas basadas en cómics que no tienen superhéroes y son muy conocidos</a></h4>
     <a href='https://computerhoy.com/entretenimiento/7-peliculas-basadas-comics-no-tienen-superheroes-son-muy-conocidos-1192950' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/7-peliculas-basadas-comics-no-tienen-superheroes-son-muy-conocidos-2942702.jpg?tf=1200x' alt='7 películas basadas en cómics que no tienen superhéroes y son muy conocidos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/truco-viral-papel-aluminio-ahorrar-calefaccion-sirve-realmente-algo-1195472'>El truco viral del papel de aluminio para ahorrar en calefacción: ¿sirve realmente para algo?</a></h4>
-    <a href='https://computerhoy.com/life/truco-viral-papel-aluminio-ahorrar-calefaccion-sirve-realmente-algo-1195472' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/mujer-sentada-cerca-radiador-2902654.jpg?tf=1200x' alt='El truco viral del papel de aluminio para ahorrar en calefacción: ¿sirve realmente para algo?' />
     </a>
 </div>
 
