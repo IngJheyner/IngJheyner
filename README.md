@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/pc/ssd-m2-samsung-980-pro-actualizar-firmware-fallo-1195530'>Comprueba si tienes este SSD de Samsung, debes actualizar el firmware inmediatamente o podría destruirse</a></h4>
+    <a href='https://computerhoy.com/pc/ssd-m2-samsung-980-pro-actualizar-firmware-fallo-1195530' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/compruea-tienes-ssd-samsung-debes-actualizar-firmware-inmediatamente-2947252.jpg?tf=1200x' alt='Comprueba si tienes este SSD de Samsung, debes actualizar el firmware inmediatamente o podría destruirse' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tutoriales/como-configurar-correctamente-nuevo-ordenador-windows-1190020'>Cómo configurar correctamente tu nuevo ordenador Windows</a></h4>
     <a href='https://computerhoy.com/tutoriales/como-configurar-correctamente-nuevo-ordenador-windows-1190020' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/teclado-ordenador-windows-2937696.jpg?tf=1200x' alt='Cómo configurar correctamente tu nuevo ordenador Windows' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/life/cientificos-crean-hielo-alienigena-jamas-antes-visto-ni-flota-ni-hunde-1195482'>Científicos crean “un hielo alienígena” jamás antes visto que ni flota ni se hunde</a></h4>
     <a href='https://computerhoy.com/life/cientificos-crean-hielo-alienigena-jamas-antes-visto-ni-flota-ni-hunde-1195482' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/cubitos-hielo-2947156.jpg?tf=1200x' alt='Científicos crean “un hielo alienígena” jamás antes visto que ni flota ni se hunde' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/gaming/directx-11-vs-directx-12-cual-mejor-diferencian-1169272'>DirectX 11 vs. DirectX 12: ¿cuál es mejor y en qué se diferencian?</a></h4>
-    <a href='https://computerhoy.com/gaming/directx-11-vs-directx-12-cual-mejor-diferencian-1169272' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/directx-12-2899928.jpg?tf=1200x' alt='DirectX 11 vs. DirectX 12: ¿cuál es mejor y en qué se diferencian?' />
     </a>
 </div>
 
