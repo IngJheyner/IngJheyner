@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/necesitamos-menos-5-segundos-saber-cancion-nos-gusta-estudio-1195190'>Necesitamos menos de 5 segundos para saber si una canción nos gusta, según este estudio</a></h4>
+    <a href='https://computerhoy.com/ciencia/necesitamos-menos-5-segundos-saber-cancion-nos-gusta-estudio-1195190' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/mujer-escucha-musica-2946780.jpg?tf=1200x' alt='Necesitamos menos de 5 segundos para saber si una canción nos gusta, según este estudio' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/11-usos-interesantes-locos-raspberry-pi-1191098'>Los 11 usos más interesantes y locos para la Raspberry Pi</a></h4>
+    <a href='https://computerhoy.com/tecnologia/11-usos-interesantes-locos-raspberry-pi-1191098' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/raspberry-pi-2379269.jpg?tf=1200x' alt='Los 11 usos más interesantes y locos para la Raspberry Pi' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/internet/nordvpn-vs-expressvpn-cual-mejor-comparativa-precios-caracteristicas-1194806'>NordVPN vs ExpressVPN: ¿cuál es mejor? Comparativa de precios y características</a></h4>
+    <a href='https://computerhoy.com/internet/nordvpn-vs-expressvpn-cual-mejor-comparativa-precios-caracteristicas-1194806' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/servicio-vpn-usandose-movil-ver-evento-deportivo-2946270.jpg?tf=1200x' alt='NordVPN vs ExpressVPN: ¿cuál es mejor? Comparativa de precios y características' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/hogar/compra-tienda-china-20-robots-limpieza-75-euros-1194660'>Compra en una tienda china 20 robots de limpieza por 75 euros, y enseguida descubre por qué son tan baratos</a></h4>
     <a href='https://computerhoy.com/hogar/compra-tienda-china-20-robots-limpieza-75-euros-1194660' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/compra-tienda-china-20-robots-limpieza-75-euros-enseguida-descubre-son-tan-baratos-2945742.jpg?tf=1200x' alt='Compra en una tienda china 20 robots de limpieza por 75 euros, y enseguida descubre por qué son tan baratos' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/hogar/como-limpiar-cepillo-dientes-correctamente-sociedad-dental-americana-1194650'>Cómo limpiar el cepillo de dientes correctamente, según la Sociedad Dental Americana</a></h4>
     <a href='https://computerhoy.com/hogar/como-limpiar-cepillo-dientes-correctamente-sociedad-dental-americana-1194650' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/como-deberias-limpiar-cepillo-dientes-expertos-2945554.jpg?tf=1200x' alt='Cómo limpiar el cepillo de dientes correctamente, según la Sociedad Dental Americana' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/ahora-vas-poder-ganar-dinero-cuenta-twitter-1195200'>Ahora vas a poder ganar dinero con tu cuenta de Twitter</a></h4>
-    <a href='https://computerhoy.com/apps/ahora-vas-poder-ganar-dinero-cuenta-twitter-1195200' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/fortuna-elon-musk-esfuma-twitter-tesla-son-agujero-perdidas-millonarias-2880111.jpg?tf=1200x' alt='Ahora vas a poder ganar dinero con tu cuenta de Twitter' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/android/coolwalk-google-trabajando-otra-actualizacion-interfaz-android-auto-1195186'>Tras Coolwalk Google está trabajando en otra actualización para la interfaz de Android Auto</a></h4>
-    <a href='https://computerhoy.com/android/coolwalk-google-trabajando-otra-actualizacion-interfaz-android-auto-1195186' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/android-auto-coolwalk-2870273.jpg?tf=1200x' alt='Tras Coolwalk Google está trabajando en otra actualización para la interfaz de Android Auto' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/apple-no-tendria-nada-prisa-sacar-nuevos-airpods-1195172'>Apple no tendría nada de prisa en sacar unos nuevos AirPods</a></h4>
-    <a href='https://computerhoy.com/apple/apple-no-tendria-nada-prisa-sacar-nuevos-airpods-1195172' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/airpods-max-2232621.jpeg?tf=1200x' alt='Apple no tendría nada de prisa en sacar unos nuevos AirPods' />
     </a>
 </div>
 
