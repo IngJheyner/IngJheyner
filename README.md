@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/pc/freewrite-portatiles-sin-distracciones-pantalla-tinta-electronica-video-1195508'>Freewrite, los portátiles sin distracciones pensados para escribir (vídeo)</a></h4>
+    <a href='https://computerhoy.com/pc/freewrite-portatiles-sin-distracciones-pantalla-tinta-electronica-video-1195508' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/verticalimage1675606958530-2947216.jpg?tf=1200x' alt='Freewrite, los portátiles sin distracciones pensados para escribir (vídeo)' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/investigadores-logran-convertir-pozo-petroleo-abandonado-enorme-bateria-geotermica-1195488'>Investigadores logran convertir un pozo de petróleo abandonado en una enorme batería geotérmica</a></h4>
     <a href='https://computerhoy.com/life/investigadores-logran-convertir-pozo-petroleo-abandonado-enorme-bateria-geotermica-1195488' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/pozo-petroleo-2947164.jpg?tf=1200x' alt='Investigadores logran convertir un pozo de petróleo abandonado en una enorme batería geotérmica' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/apple/subasta-iphone-original-2007-totalmente-precintado-espera-acabe-sorprendente-precio-1195476'>Se subasta un iPhone original de 2007 totalmente precintado y se espera que acabe a este sorprendente precio</a></h4>
     <a href='https://computerhoy.com/apple/subasta-iphone-original-2007-totalmente-precintado-espera-acabe-sorprendente-precio-1195476' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/subasta-iphone-original-2947150.jpg?tf=1200x' alt='Se subasta un iPhone original de 2007 totalmente precintado y se espera que acabe a este sorprendente precio' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/7-peliculas-basadas-comics-no-tienen-superheroes-son-muy-conocidos-1192950'>7 películas basadas en cómics que no tienen superhéroes y son muy conocidos</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/7-peliculas-basadas-comics-no-tienen-superheroes-son-muy-conocidos-1192950' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/7-peliculas-basadas-comics-no-tienen-superheroes-son-muy-conocidos-2942702.jpg?tf=1200x' alt='7 películas basadas en cómics que no tienen superhéroes y son muy conocidos' />
     </a>
 </div>
 
