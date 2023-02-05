@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/motor/elon-musk-gana-juicio-accionistas-tesla-1195534'>Elon Musk salva un 'match ball' por el que tendría que haber pagado miles de millones en indemnizaciones</a></h4>
+    <a href='https://computerhoy.com/motor/elon-musk-gana-juicio-accionistas-tesla-1195534' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/03/elon-musk-recibe-tesla-titulo-technoking-2266145.jpg?tf=1200x' alt='Elon Musk salva un 'match ball' por el que tendría que haber pagado miles de millones en indemnizaciones' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/pc/ssd-m2-samsung-980-pro-actualizar-firmware-fallo-1195530'>Comprueba si tienes este SSD de Samsung, debes actualizar el firmware inmediatamente o podría destruirse</a></h4>
     <a href='https://computerhoy.com/pc/ssd-m2-samsung-980-pro-actualizar-firmware-fallo-1195530' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/compruea-tienes-ssd-samsung-debes-actualizar-firmware-inmediatamente-2947252.jpg?tf=1200x' alt='Comprueba si tienes este SSD de Samsung, debes actualizar el firmware inmediatamente o podría destruirse' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/life/investigadores-logran-convertir-pozo-petroleo-abandonado-enorme-bateria-geotermica-1195488'>Investigadores logran convertir un pozo de petróleo abandonado en una enorme batería geotérmica</a></h4>
     <a href='https://computerhoy.com/life/investigadores-logran-convertir-pozo-petroleo-abandonado-enorme-bateria-geotermica-1195488' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/pozo-petroleo-2947164.jpg?tf=1200x' alt='Investigadores logran convertir un pozo de petróleo abandonado en una enorme batería geotérmica' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/cientificos-crean-hielo-alienigena-jamas-antes-visto-ni-flota-ni-hunde-1195482'>Científicos crean “un hielo alienígena” jamás antes visto que ni flota ni se hunde</a></h4>
-    <a href='https://computerhoy.com/life/cientificos-crean-hielo-alienigena-jamas-antes-visto-ni-flota-ni-hunde-1195482' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/cubitos-hielo-2947156.jpg?tf=1200x' alt='Científicos crean “un hielo alienígena” jamás antes visto que ni flota ni se hunde' />
     </a>
 </div>
 
