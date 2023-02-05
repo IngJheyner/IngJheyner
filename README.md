@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/hogar/compra-tienda-china-20-robots-limpieza-75-euros-1194660'>Compra en una tienda china 20 robots de limpieza por 75 euros, y enseguida descubre por qué son tan baratos</a></h4>
+    <a href='https://computerhoy.com/hogar/compra-tienda-china-20-robots-limpieza-75-euros-1194660' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/compra-tienda-china-20-robots-limpieza-75-euros-enseguida-descubre-son-tan-baratos-2945742.jpg?tf=1200x' alt='Compra en una tienda china 20 robots de limpieza por 75 euros, y enseguida descubre por qué son tan baratos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/hogar/como-limpiar-cepillo-dientes-correctamente-sociedad-dental-americana-1194650'>Cómo limpiar el cepillo de dientes correctamente, según la Sociedad Dental Americana</a></h4>
     <a href='https://computerhoy.com/hogar/como-limpiar-cepillo-dientes-correctamente-sociedad-dental-americana-1194650' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/como-deberias-limpiar-cepillo-dientes-expertos-2945554.jpg?tf=1200x' alt='Cómo limpiar el cepillo de dientes correctamente, según la Sociedad Dental Americana' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/apple/apple-no-tendria-nada-prisa-sacar-nuevos-airpods-1195172'>Apple no tendría nada de prisa en sacar unos nuevos AirPods</a></h4>
     <a href='https://computerhoy.com/apple/apple-no-tendria-nada-prisa-sacar-nuevos-airpods-1195172' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/airpods-max-2232621.jpeg?tf=1200x' alt='Apple no tendría nada de prisa en sacar unos nuevos AirPods' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/error-instalacion-windows-10-te-obliga-pasar-caja-1195166'>El error de instalación de Windows 10 que "te obliga" a pasar por caja</a></h4>
-    <a href='https://computerhoy.com/windows/error-instalacion-windows-10-te-obliga-pasar-caja-1195166' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/fin-soporte-windows-10-2369043.jpg?tf=1200x' alt='El error de instalación de Windows 10 que "te obliga" a pasar por caja' />
     </a>
 </div>
 
