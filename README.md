@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/google/google-chrome-incluye-nuevo-boton-hara-te-olvides-modo-privado-1195838'>Google Chrome incluye un nuevo botón que hará que te olvides del modo Privado</a></h4>
+    <a href='https://computerhoy.com/google/google-chrome-incluye-nuevo-boton-hara-te-olvides-modo-privado-1195838' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/google-chrome-2845581.jpg?tf=1200x' alt='Google Chrome incluye un nuevo botón que hará que te olvides del modo Privado' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/google/comandos-ocultos-chromecast-muy-utiles-deberias-conocer-1195842'>Comandos ocultos de Chromecast muy útiles que deberías conocer</a></h4>
+    <a href='https://computerhoy.com/google/comandos-ocultos-chromecast-muy-utiles-deberias-conocer-1195842' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/google-da-nueva-vida-tv-chromecast-mando-rebajado-menos-30-euros-2920048.jpg?tf=1200x' alt='Comandos ocultos de Chromecast muy útiles que deberías conocer' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apple/ronald-wayne-cofundador-apple-vendio-acciones-steve-jobs-1500-dolares-hoy-valdrian-75000-millones-1195786'>Ronald Wayne, el cofundador de Apple que vendió su acciones a Steve Jobs por 1.500 dólares: hoy valdrían más de 75.000 millones</a></h4>
     <a href='https://computerhoy.com/apple/ronald-wayne-cofundador-apple-vendio-acciones-steve-jobs-1500-dolares-hoy-valdrian-75000-millones-1195786' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/cofundadores-apple-vendio-acciones-steve-jobs-1500-dolares-hoy-valdrian-75000-millones-2947798.jpg?tf=1200x' alt='Ronald Wayne, el cofundador de Apple que vendió su acciones a Steve Jobs por 1.500 dólares: hoy valdrían más de 75.000 millones' />
@@ -58,33 +74,17 @@
 
 
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/mejores/ratones-ergonomicos-1195722'>Qué debes tener en cuenta a la hora de comprar un ratón ergonómico y mejores modelos</a></h4>
+    <a href='https://computerhoy.com/mejores/ratones-ergonomicos-1195722' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/logitech-mx-mechanical-mx-master-3s-analisis-opinion-2784257.jpg?tf=1200x' alt='Qué debes tener en cuenta a la hora de comprar un ratón ergonómico y mejores modelos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/android/ya-sabemos-todo-vivo-x90-vivo-x90-pro-carga-rapida-120-w-triple-camara-sensor-50-mpx-1195764'>Ya sabemos todo del Vivo X90 Vivo X90 Pro: carga rápida de 120 W, triple cámara y sensor de 50 Mpx</a></h4>
     <a href='https://computerhoy.com/android/ya-sabemos-todo-vivo-x90-vivo-x90-pro-carga-rapida-120-w-triple-camara-sensor-50-mpx-1195764' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/vivo-x90-2947746.jpg?tf=1200x' alt='Ya sabemos todo del Vivo X90 Vivo X90 Pro: carga rápida de 120 W, triple cámara y sensor de 50 Mpx' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/nuevo-poco-x5-pro-queda-secretos-antes-presentacion-global-desvela-tambien-precio-1195768'>El nuevo POCO X5 Pro se queda sin secretos antes de su presentación global y desvela también su precio</a></h4>
-    <a href='https://computerhoy.com/moviles/nuevo-poco-x5-pro-queda-secretos-antes-presentacion-global-desvela-tambien-precio-1195768' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/nuevo-poco-x5-pro-queda-secretos-antes-presentacion-desvela-tambien-precio-2947726.jpg?tf=1200x' alt='El nuevo POCO X5 Pro se queda sin secretos antes de su presentación global y desvela también su precio' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/perifericos/problema-hp-impresoras-llama-instant-ink-servicio-suscripcion-1195748'>El problema de HP con sus impresoras se llama Instant Ink, su servicio de suscripción</a></h4>
-    <a href='https://computerhoy.com/perifericos/problema-hp-impresoras-llama-instant-ink-servicio-suscripcion-1195748' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/instant-ink-hp-2947684.jpg?tf=1200x' alt='El problema de HP con sus impresoras se llama Instant Ink, su servicio de suscripción' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/como-cuando-microsoft-actualizara-windows-11-2023-1195744'>Así es cómo y cuándo Microsoft actualizará Windows 11 en 2023 </a></h4>
-    <a href='https://computerhoy.com/windows/como-cuando-microsoft-actualizara-windows-11-2023-1195744' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/windows-11-2870243.jpg?tf=1200x' alt='Así es cómo y cuándo Microsoft actualizará Windows 11 en 2023 ' />
     </a>
 </div>
 
