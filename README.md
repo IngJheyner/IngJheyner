@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/iphone-han-subido-66-2009-aunque-apple-cree-gente-feliz-ello-1196002'>Los iPhone han subido un 66% desde 2009 aunque Apple cree que la gente es feliz por ello</a></h4>
+    <a href='https://computerhoy.com/apple/iphone-han-subido-66-2009-aunque-apple-cree-gente-feliz-ello-1196002' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/03/tim-cook.jpg?tf=1200x' alt='Los iPhone han subido un 66% desde 2009 aunque Apple cree que la gente es feliz por ello' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/google/bard-chatgpt-google-utiliza-ia-conocida-como-lamda-1196126'>Bard, así es el ChatGPT de Google que utiliza su IA conocida como LaMDA</a></h4>
     <a href='https://computerhoy.com/google/bard-chatgpt-google-utiliza-ia-conocida-como-lamda-1196126' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/google-ya-probando-alternativa-chatgpt-incluye-algunas-mejoras-2943160.jpg?tf=1200x' alt='Bard, así es el ChatGPT de Google que utiliza su IA conocida como LaMDA' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/apple/iphone-16-podria-tener-version-ultra-altas-prestaciones-como-apple-watch-1196122'>El iPhone 16 podría tener una versión Ultra de altas prestaciones como el Apple Watch</a></h4>
     <a href='https://computerhoy.com/apple/iphone-16-podria-tener-version-ultra-altas-prestaciones-como-apple-watch-1196122' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/analisis-iphone-14-pro-2821733.jpg?tf=1200x' alt='El iPhone 16 podría tener una versión Ultra de altas prestaciones como el Apple Watch' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/dos-cada-tres-usuarios-marcharan-netflix-prohibe-cuentas-compartidas-encuesta-ocu-1196120'>Dos de cada tres usuarios se marcharán de Netflix si prohíbe las cuentas compartidas, según una encuesta de la OCU</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/dos-cada-tres-usuarios-marcharan-netflix-prohibe-cuentas-compartidas-encuesta-ocu-1196120' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/encuenta-ocu-anticipa-futuro-preocupante-plataformas-impidan-cuentas-compartidas-2948540.jpg?tf=1200x' alt='Dos de cada tres usuarios se marcharán de Netflix si prohíbe las cuentas compartidas, según una encuesta de la OCU' />
     </a>
 </div>
 
