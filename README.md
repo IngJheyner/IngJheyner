@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/android/ya-sabemos-todo-vivo-x90-vivo-x90-pro-carga-rapida-120-w-triple-camara-sensor-50-mpx-1195764'>Ya sabemos todo del Vivo X90 Vivo X90 Pro: carga rápida de 120 W, triple cámara y sensor de 50 Mpx</a></h4>
+    <a href='https://computerhoy.com/android/ya-sabemos-todo-vivo-x90-vivo-x90-pro-carga-rapida-120-w-triple-camara-sensor-50-mpx-1195764' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/vivo-x90-2947746.jpg?tf=1200x' alt='Ya sabemos todo del Vivo X90 Vivo X90 Pro: carga rápida de 120 W, triple cámara y sensor de 50 Mpx' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/moviles/nuevo-poco-x5-pro-queda-secretos-antes-presentacion-global-desvela-tambien-precio-1195768'>El nuevo POCO X5 Pro se queda sin secretos antes de su presentación global y desvela también su precio</a></h4>
     <a href='https://computerhoy.com/moviles/nuevo-poco-x5-pro-queda-secretos-antes-presentacion-global-desvela-tambien-precio-1195768' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/nuevo-poco-x5-pro-queda-secretos-antes-presentacion-desvela-tambien-precio-2947726.jpg?tf=1200x' alt='El nuevo POCO X5 Pro se queda sin secretos antes de su presentación global y desvela también su precio' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/11-habitos-carga-mejoraran-autonomia-movil-1188086'>11 hábitos de carga que mejorarán la autonomía de tu móvil</a></h4>
     <a href='https://computerhoy.com/tecnologia/11-habitos-carga-mejoraran-autonomia-movil-1188086' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/telefono-crgando-2934660.jpg?tf=1200x' alt='11 hábitos de carga que mejorarán la autonomía de tu móvil' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/redmi-smartband-2-motivos-comprar-pulsera-actividad-1195168'>Redmi Smart Band 2: motivos por la que se convierte en la nueva pulsera de actividad a tener</a></h4>
-    <a href='https://computerhoy.com/life/redmi-smartband-2-motivos-comprar-pulsera-actividad-1195168' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/redmi-smartband-2-motivos-convierte-nueva-pulsera-actividad-tener-2946764.jpg?tf=1200x' alt='Redmi Smart Band 2: motivos por la que se convierte en la nueva pulsera de actividad a tener' />
     </a>
 </div>
 
