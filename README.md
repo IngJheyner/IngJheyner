@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/ronald-wayne-cofundador-apple-vendio-acciones-steve-jobs-1500-dolares-hoy-valdrian-75000-millones-1195786'>Ronald Wayne, el cofundador de Apple que vendió su acciones a Steve Jobs por 1.500 dólares: hoy valdrían más de 75.000 millones</a></h4>
+    <a href='https://computerhoy.com/apple/ronald-wayne-cofundador-apple-vendio-acciones-steve-jobs-1500-dolares-hoy-valdrian-75000-millones-1195786' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/cofundadores-apple-vendio-acciones-steve-jobs-1500-dolares-hoy-valdrian-75000-millones-2947798.jpg?tf=1200x' alt='Ronald Wayne, el cofundador de Apple que vendió su acciones a Steve Jobs por 1.500 dólares: hoy valdrían más de 75.000 millones' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/android/ya-sabemos-todo-vivo-x90-vivo-x90-pro-carga-rapida-120-w-triple-camara-sensor-50-mpx-1195764'>Ya sabemos todo del Vivo X90 Vivo X90 Pro: carga rápida de 120 W, triple cámara y sensor de 50 Mpx</a></h4>
     <a href='https://computerhoy.com/android/ya-sabemos-todo-vivo-x90-vivo-x90-pro-carga-rapida-120-w-triple-camara-sensor-50-mpx-1195764' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/vivo-x90-2947746.jpg?tf=1200x' alt='Ya sabemos todo del Vivo X90 Vivo X90 Pro: carga rápida de 120 W, triple cámara y sensor de 50 Mpx' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/windows/como-cuando-microsoft-actualizara-windows-11-2023-1195744'>Así es cómo y cuándo Microsoft actualizará Windows 11 en 2023 </a></h4>
     <a href='https://computerhoy.com/windows/como-cuando-microsoft-actualizara-windows-11-2023-1195744' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/windows-11-2870243.jpg?tf=1200x' alt='Así es cómo y cuándo Microsoft actualizará Windows 11 en 2023 ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/11-habitos-carga-mejoraran-autonomia-movil-1188086'>11 hábitos de carga que mejorarán la autonomía de tu móvil</a></h4>
-    <a href='https://computerhoy.com/tecnologia/11-habitos-carga-mejoraran-autonomia-movil-1188086' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/telefono-crgando-2934660.jpg?tf=1200x' alt='11 hábitos de carga que mejorarán la autonomía de tu móvil' />
     </a>
 </div>
 
