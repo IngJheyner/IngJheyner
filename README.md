@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-personalizar-interfaz-youtube-eliminando-todo-no-te-guste-1195982'>Cómo personalizar la interfaz de YouTube eliminando todo lo que no te guste</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-personalizar-interfaz-youtube-eliminando-todo-no-te-guste-1195982' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/youtube-2716325.jpg?tf=1200x' alt='Cómo personalizar la interfaz de YouTube eliminando todo lo que no te guste' />
+    <h4><a href='https://computerhoy.com/google/bard-chatgpt-google-utiliza-ia-conocida-como-lamda-1196126'>Bard, así es el ChatGPT de Google que utiliza su IA conocida como LaMDA</a></h4>
+    <a href='https://computerhoy.com/google/bard-chatgpt-google-utiliza-ia-conocida-como-lamda-1196126' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/google-ya-probando-alternativa-chatgpt-incluye-algunas-mejoras-2943160.jpg?tf=1200x' alt='Bard, así es el ChatGPT de Google que utiliza su IA conocida como LaMDA' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/iniciar-sesion-gmail-como-entrar-tu-cuenta-correo-282017'>Iniciar sesión en Gmail: cómo entrar en tu cuenta de correo electrónico</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/iniciar-sesion-gmail-como-entrar-tu-cuenta-correo-282017' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/gmail-movil-ordenador-2468833.jpg?tf=1200x' alt='Iniciar sesión en Gmail: cómo entrar en tu cuenta de correo electrónico' />
+    <h4><a href='https://computerhoy.com/hogar/aspiradora-cable-dyson-oferta-1196134'>Esta aspiradora sin cable de Dyson es una maravilla, llega donde no puede un robot aspirador, y está en oferta</a></h4>
+    <a href='https://computerhoy.com/hogar/aspiradora-cable-dyson-oferta-1196134' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/aspiradora-cable-dyson-maravilla-llega-donde-no-puede-robot-aspirador-oferta-2948584.jpg?tf=1200x' alt='Esta aspiradora sin cable de Dyson es una maravilla, llega donde no puede un robot aspirador, y está en oferta' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/poco-x5-pro-poco-x5-caracteristicas-motivos-comprarlo-1196008'>POCO X5 Pro 5G y POCO X5 5G, por qué son los nuevos móviles relación calidad precio a comprar</a></h4>
-    <a href='https://computerhoy.com/moviles/poco-x5-pro-poco-x5-caracteristicas-motivos-comprarlo-1196008' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/poco-x5-poco-x5-pro-2947936.jpg?tf=1200x' alt='POCO X5 Pro 5G y POCO X5 5G, por qué son los nuevos móviles relación calidad precio a comprar' />
+    <h4><a href='https://computerhoy.com/windows/cantidad-minima-memoria-ram-ejecutar-windows-11-convertir-vida-infierno-1196130'>Esta es la cantidad mínima de memoria RAM para ejecutar Windows 11 y convertir tu vida en un infierno</a></h4>
+    <a href='https://computerhoy.com/windows/cantidad-minima-memoria-ram-ejecutar-windows-11-convertir-vida-infierno-1196130' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/windows-11-2948586.jpg?tf=1200x' alt='Esta es la cantidad mínima de memoria RAM para ejecutar Windows 11 y convertir tu vida en un infierno' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/internet-tiene-1000-millones-webs-estas-son-cifras-actuales-red-1195988'>Internet tiene más de 1.000 millones de webs, estas son las cifras actuales de la Red</a></h4>
-    <a href='https://computerhoy.com/internet/internet-tiene-1000-millones-webs-estas-son-cifras-actuales-red-1195988' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/caida-internet-principales-proveedores-moviles-sufren-corte-generalizado-2945748.jpg?tf=1200x' alt='Internet tiene más de 1.000 millones de webs, estas son las cifras actuales de la Red' />
+    <h4><a href='https://computerhoy.com/apple/iphone-16-podria-tener-version-ultra-altas-prestaciones-como-apple-watch-1196122'>El iPhone 16 podría tener una versión Ultra de altas prestaciones como el Apple Watch</a></h4>
+    <a href='https://computerhoy.com/apple/iphone-16-podria-tener-version-ultra-altas-prestaciones-como-apple-watch-1196122' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/analisis-iphone-14-pro-2821733.jpg?tf=1200x' alt='El iPhone 16 podría tener una versión Ultra de altas prestaciones como el Apple Watch' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/poco-x5-x5-pro-movil-asequible-creadores-contenido-1195958'>POCO X5 y X5 Pro, así es el móvil más asequible para creadores de contenido</a></h4>
-    <a href='https://computerhoy.com/moviles/poco-x5-x5-pro-movil-asequible-creadores-contenido-1195958' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/poco-x5-poco-x5-pro-2948030.jpg?tf=1200x' alt='POCO X5 y X5 Pro, así es el móvil más asequible para creadores de contenido' />
+    <h4><a href='https://computerhoy.com/entretenimiento/dos-cada-tres-usuarios-marcharan-netflix-prohibe-cuentas-compartidas-encuesta-ocu-1196120'>Dos de cada tres usuarios se marcharán de Netflix si prohíbe las cuentas compartidas, según una encuesta de la OCU</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/dos-cada-tres-usuarios-marcharan-netflix-prohibe-cuentas-compartidas-encuesta-ocu-1196120' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/encuenta-ocu-anticipa-futuro-preocupante-plataformas-impidan-cuentas-compartidas-2948540.jpg?tf=1200x' alt='Dos de cada tres usuarios se marcharán de Netflix si prohíbe las cuentas compartidas, según una encuesta de la OCU' />
     </a>
 </div>
 
