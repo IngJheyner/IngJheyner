@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-personalizar-interfaz-youtube-eliminando-todo-no-te-guste-1195982'>Cómo personalizar la interfaz de YouTube eliminando todo lo que no te guste</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-personalizar-interfaz-youtube-eliminando-todo-no-te-guste-1195982' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/youtube-2716325.jpg?tf=1200x' alt='Cómo personalizar la interfaz de YouTube eliminando todo lo que no te guste' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/iniciar-sesion-gmail-como-entrar-tu-cuenta-correo-282017'>Iniciar sesión en Gmail: cómo entrar en tu cuenta de correo electrónico</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/iniciar-sesion-gmail-como-entrar-tu-cuenta-correo-282017' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/gmail-movil-ordenador-2468833.jpg?tf=1200x' alt='Iniciar sesión en Gmail: cómo entrar en tu cuenta de correo electrónico' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/moviles/poco-x5-x5-pro-movil-asequible-creadores-contenido-1195958'>POCO X5 y X5 Pro, así es el móvil más asequible para creadores de contenido</a></h4>
     <a href='https://computerhoy.com/moviles/poco-x5-x5-pro-movil-asequible-creadores-contenido-1195958' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/poco-x5-poco-x5-pro-2948030.jpg?tf=1200x' alt='POCO X5 y X5 Pro, así es el móvil más asequible para creadores de contenido' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/apple-podria-abandonar-mac-studio-ano-lanzamiento-1195898'>Apple podría abandonar el Mac Studio tras un año del lanzamiento</a></h4>
-    <a href='https://computerhoy.com/apple/apple-podria-abandonar-mac-studio-ano-lanzamiento-1195898' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/mac-studio-2682885.jpg?tf=1200x' alt='Apple podría abandonar el Mac Studio tras un año del lanzamiento' />
     </a>
 </div>
 
