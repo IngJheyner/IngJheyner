@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/redmi-smartband-2-motivos-comprar-pulsera-actividad-1195168'>Redmi Smart Band 2: motivos por la que se convierte en la nueva pulsera de actividad a tener</a></h4>
+    <a href='https://computerhoy.com/life/redmi-smartband-2-motivos-comprar-pulsera-actividad-1195168' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/redmi-smartband-2-motivos-convierte-nueva-pulsera-actividad-tener-2946764.jpg?tf=1200x' alt='Redmi Smart Band 2: motivos por la que se convierte en la nueva pulsera de actividad a tener' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/internet/estos-son-motores-busqueda-top-2023-1194822'>Estos son los motores de búsqueda top de 2023 </a></h4>
+    <a href='https://computerhoy.com/internet/estos-son-motores-busqueda-top-2023-1194822' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/motor-busqueda-2945192.jpg?tf=1200x' alt='Estos son los motores de búsqueda top de 2023 ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/internet/wifi-vs-ethernet-diferencias-cual-dos-deberia-usar-1192338'>WiFi vs. Ethernet: diferencias y cuál de los dos debería usar </a></h4>
+    <a href='https://computerhoy.com/internet/wifi-vs-ethernet-diferencias-cual-dos-deberia-usar-1192338' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/wifi-vs-ethernet-diferencias-cual-dos-deberia-usar-2945116.jpg?tf=1200x' alt='WiFi vs. Ethernet: diferencias y cuál de los dos debería usar ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/motor/cuando-costaran-coches-electricos-mismo-gasolina-1195542'>¿Cuándo costarán los coches eléctricos lo mismo que uno de gasolina? Los fabricantes nos dan una respuesta</a></h4>
     <a href='https://computerhoy.com/motor/cuando-costaran-coches-electricos-mismo-gasolina-1195542' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/05/coche-electrico-1938935.jpg?tf=1200x' alt='¿Cuándo costarán los coches eléctricos lo mismo que uno de gasolina? Los fabricantes nos dan una respuesta' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/estos-errores-comunes-danaran-ordenador-tiempo-1188034'>Estos errores comunes dañarán tu ordenador con el tiempo</a></h4>
     <a href='https://computerhoy.com/tecnologia/estos-errores-comunes-danaran-ordenador-tiempo-1188034' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/desesperado-ordenador-2934592.jpg?tf=1200x' alt='Estos errores comunes dañarán tu ordenador con el tiempo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/40-noticias-tecnologia-comenzar-manana-informado-ultimo-1195724'>40 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
-    <a href='https://computerhoy.com/tecnologia/40-noticias-tecnologia-comenzar-manana-informado-ultimo-1195724' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/40-noticias-tecnologia-comenzar-manana-informado-ultimo-2947650.jpg?tf=1200x' alt='40 noticias de tecnología para comenzar la mañana informado de lo último' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/cara-marte-teorias-conspiranoicas-extraterrestres-ciencia-1194808'>La Cara de Marte: así es como la tecnología desmontó las teorías conspiranoicas</a></h4>
-    <a href='https://computerhoy.com/espacio/cara-marte-teorias-conspiranoicas-extraterrestres-ciencia-1194808' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/cara-marte-como-ciencia-desmonto-teorias-conspiranoicas-2946206.jpg?tf=1200x' alt='La Cara de Marte: así es como la tecnología desmontó las teorías conspiranoicas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/arbol-crece-al-reves-boca-abajo-baia-1195540'>El árbol que crece hacia abajo en un suelo de piedra y da frutos, tiene asombrados a los botánicos</a></h4>
-    <a href='https://computerhoy.com/life/arbol-crece-al-reves-boca-abajo-baia-1195540' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/arbol-crece-boca-abajo-da-frutos-tiene-asombrados-botanicos-2947482.jpg?tf=1200x' alt='El árbol que crece hacia abajo en un suelo de piedra y da frutos, tiene asombrados a los botánicos' />
     </a>
 </div>
 
