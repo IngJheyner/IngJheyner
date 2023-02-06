@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/moviles/poco-x5-x5-pro-movil-asequible-creadores-contenido-1195958'>POCO X5 y X5 Pro, así es el móvil más asequible para creadores de contenido</a></h4>
+    <a href='https://computerhoy.com/moviles/poco-x5-x5-pro-movil-asequible-creadores-contenido-1195958' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/poco-x5-poco-x5-pro-2948030.jpg?tf=1200x' alt='POCO X5 y X5 Pro, así es el móvil más asequible para creadores de contenido' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apple/apple-podria-abandonar-mac-studio-ano-lanzamiento-1195898'>Apple podría abandonar el Mac Studio tras un año del lanzamiento</a></h4>
     <a href='https://computerhoy.com/apple/apple-podria-abandonar-mac-studio-ano-lanzamiento-1195898' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/mac-studio-2682885.jpg?tf=1200x' alt='Apple podría abandonar el Mac Studio tras un año del lanzamiento' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/google/comandos-ocultos-chromecast-muy-utiles-deberias-conocer-1195842'>Comandos ocultos de Chromecast muy útiles que deberías conocer</a></h4>
     <a href='https://computerhoy.com/google/comandos-ocultos-chromecast-muy-utiles-deberias-conocer-1195842' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/google-da-nueva-vida-tv-chromecast-mando-rebajado-menos-30-euros-2920048.jpg?tf=1200x' alt='Comandos ocultos de Chromecast muy útiles que deberías conocer' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/ronald-wayne-cofundador-apple-vendio-acciones-steve-jobs-1500-dolares-hoy-valdrian-75000-millones-1195786'>Ronald Wayne, el cofundador de Apple que vendió su acciones a Steve Jobs por 1.500 dólares: hoy valdrían más de 75.000 millones</a></h4>
-    <a href='https://computerhoy.com/apple/ronald-wayne-cofundador-apple-vendio-acciones-steve-jobs-1500-dolares-hoy-valdrian-75000-millones-1195786' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/cofundadores-apple-vendio-acciones-steve-jobs-1500-dolares-hoy-valdrian-75000-millones-2947798.jpg?tf=1200x' alt='Ronald Wayne, el cofundador de Apple que vendió su acciones a Steve Jobs por 1.500 dólares: hoy valdrían más de 75.000 millones' />
     </a>
 </div>
 
