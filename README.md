@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/apple-podria-abandonar-mac-studio-ano-lanzamiento-1195898'>Apple podría abandonar el Mac Studio tras un año del lanzamiento</a></h4>
+    <a href='https://computerhoy.com/apple/apple-podria-abandonar-mac-studio-ano-lanzamiento-1195898' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/mac-studio-2682885.jpg?tf=1200x' alt='Apple podría abandonar el Mac Studio tras un año del lanzamiento' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/david-guetta-consigue-eminem-cante-sesiones-gracias-inteligencia-artificial-1195874'>David Guetta consigue que Eminem "cante" en una de sus sesiones gracias a la inteligencia artificial </a></h4>
+    <a href='https://computerhoy.com/tecnologia/david-guetta-consigue-eminem-cante-sesiones-gracias-inteligencia-artificial-1195874' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/david-guetta-convierte-eminem-gracias-inteligencia-artificial-2948018.jpg?tf=1200x' alt='David Guetta consigue que Eminem "cante" en una de sus sesiones gracias a la inteligencia artificial ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/google/google-chrome-incluye-nuevo-boton-hara-te-olvides-modo-privado-1195838'>Google Chrome incluye un nuevo botón que hará que te olvides del modo Privado</a></h4>
     <a href='https://computerhoy.com/google/google-chrome-incluye-nuevo-boton-hara-te-olvides-modo-privado-1195838' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/google-chrome-2845581.jpg?tf=1200x' alt='Google Chrome incluye un nuevo botón que hará que te olvides del modo Privado' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/apple/ronald-wayne-cofundador-apple-vendio-acciones-steve-jobs-1500-dolares-hoy-valdrian-75000-millones-1195786'>Ronald Wayne, el cofundador de Apple que vendió su acciones a Steve Jobs por 1.500 dólares: hoy valdrían más de 75.000 millones</a></h4>
     <a href='https://computerhoy.com/apple/ronald-wayne-cofundador-apple-vendio-acciones-steve-jobs-1500-dolares-hoy-valdrian-75000-millones-1195786' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/cofundadores-apple-vendio-acciones-steve-jobs-1500-dolares-hoy-valdrian-75000-millones-2947798.jpg?tf=1200x' alt='Ronald Wayne, el cofundador de Apple que vendió su acciones a Steve Jobs por 1.500 dólares: hoy valdrían más de 75.000 millones' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/mejores/ratones-ergonomicos-1195722'>Qué debes tener en cuenta a la hora de comprar un ratón ergonómico y mejores modelos</a></h4>
-    <a href='https://computerhoy.com/mejores/ratones-ergonomicos-1195722' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/logitech-mx-mechanical-mx-master-3s-analisis-opinion-2784257.jpg?tf=1200x' alt='Qué debes tener en cuenta a la hora de comprar un ratón ergonómico y mejores modelos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/android/ya-sabemos-todo-vivo-x90-vivo-x90-pro-carga-rapida-120-w-triple-camara-sensor-50-mpx-1195764'>Ya sabemos todo del Vivo X90 Vivo X90 Pro: carga rápida de 120 W, triple cámara y sensor de 50 Mpx</a></h4>
-    <a href='https://computerhoy.com/android/ya-sabemos-todo-vivo-x90-vivo-x90-pro-carga-rapida-120-w-triple-camara-sensor-50-mpx-1195764' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/vivo-x90-2947746.jpg?tf=1200x' alt='Ya sabemos todo del Vivo X90 Vivo X90 Pro: carga rápida de 120 W, triple cámara y sensor de 50 Mpx' />
     </a>
 </div>
 
