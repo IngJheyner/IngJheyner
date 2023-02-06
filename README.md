@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/motor/cuando-costaran-coches-electricos-mismo-gasolina-1195542'>¿Cuándo costarán los coches eléctricos lo mismo que uno de gasolina? Los fabricantes nos dan una respuesta</a></h4>
+    <a href='https://computerhoy.com/motor/cuando-costaran-coches-electricos-mismo-gasolina-1195542' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/05/coche-electrico-1938935.jpg?tf=1200x' alt='¿Cuándo costarán los coches eléctricos lo mismo que uno de gasolina? Los fabricantes nos dan una respuesta' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/estos-errores-comunes-danaran-ordenador-tiempo-1188034'>Estos errores comunes dañarán tu ordenador con el tiempo</a></h4>
+    <a href='https://computerhoy.com/tecnologia/estos-errores-comunes-danaran-ordenador-tiempo-1188034' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/desesperado-ordenador-2934592.jpg?tf=1200x' alt='Estos errores comunes dañarán tu ordenador con el tiempo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/40-noticias-tecnologia-comenzar-manana-informado-ultimo-1195724'>40 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
+    <a href='https://computerhoy.com/tecnologia/40-noticias-tecnologia-comenzar-manana-informado-ultimo-1195724' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/40-noticias-tecnologia-comenzar-manana-informado-ultimo-2947650.jpg?tf=1200x' alt='40 noticias de tecnología para comenzar la mañana informado de lo último' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/espacio/cara-marte-teorias-conspiranoicas-extraterrestres-ciencia-1194808'>La Cara de Marte: así es como la tecnología desmontó las teorías conspiranoicas</a></h4>
     <a href='https://computerhoy.com/espacio/cara-marte-teorias-conspiranoicas-extraterrestres-ciencia-1194808' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/cara-marte-como-ciencia-desmonto-teorias-conspiranoicas-2946206.jpg?tf=1200x' alt='La Cara de Marte: así es como la tecnología desmontó las teorías conspiranoicas' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/life/arbol-crece-al-reves-boca-abajo-baia-1195540'>El árbol que crece hacia abajo en un suelo de piedra y da frutos, tiene asombrados a los botánicos</a></h4>
     <a href='https://computerhoy.com/life/arbol-crece-al-reves-boca-abajo-baia-1195540' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/arbol-crece-boca-abajo-da-frutos-tiene-asombrados-botanicos-2947482.jpg?tf=1200x' alt='El árbol que crece hacia abajo en un suelo de piedra y da frutos, tiene asombrados a los botánicos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/pelicula-mario-kart-filmada-hbo-estilo-last-us-1195538'>La película de Mario, si hubiese sido filmada por HBO al estilo The Last of us</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/pelicula-mario-kart-filmada-hbo-estilo-last-us-1195538' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/pelicula-mario-hubiese-sido-filmada-hbo-estilo-last-us-2947476.jpg?tf=1200x' alt='La película de Mario, si hubiese sido filmada por HBO al estilo The Last of us' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/elon-musk-gana-juicio-accionistas-tesla-1195534'>Elon Musk salva un 'match ball' por el que tendría que haber pagado miles de millones en indemnizaciones</a></h4>
-    <a href='https://computerhoy.com/motor/elon-musk-gana-juicio-accionistas-tesla-1195534' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/03/elon-musk-recibe-tesla-titulo-technoking-2266145.jpg?tf=1200x' alt='Elon Musk salva un 'match ball' por el que tendría que haber pagado miles de millones en indemnizaciones' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/ssd-m2-samsung-980-pro-actualizar-firmware-fallo-1195530'>Comprueba si tienes este SSD de Samsung, debes actualizar el firmware inmediatamente o podría destruirse</a></h4>
-    <a href='https://computerhoy.com/pc/ssd-m2-samsung-980-pro-actualizar-firmware-fallo-1195530' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/compruea-tienes-ssd-samsung-debes-actualizar-firmware-inmediatamente-2947252.jpg?tf=1200x' alt='Comprueba si tienes este SSD de Samsung, debes actualizar el firmware inmediatamente o podría destruirse' />
     </a>
 </div>
 
