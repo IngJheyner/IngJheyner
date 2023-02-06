@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/moviles/poco-x5-pro-poco-x5-caracteristicas-motivos-comprarlo-1196008'>POCO X5 Pro 5G y POCO X5 5G, por qué son los nuevos móviles relación calidad precio a comprar</a></h4>
+    <a href='https://computerhoy.com/moviles/poco-x5-pro-poco-x5-caracteristicas-motivos-comprarlo-1196008' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/poco-x5-poco-x5-pro-2947914.jpg?tf=1200x' alt='POCO X5 Pro 5G y POCO X5 5G, por qué son los nuevos móviles relación calidad precio a comprar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/internet/internet-tiene-1000-millones-webs-estas-son-cifras-actuales-red-1195988'>Internet tiene más de 1.000 millones de webs, estas son las cifras actuales de la Red</a></h4>
     <a href='https://computerhoy.com/internet/internet-tiene-1000-millones-webs-estas-son-cifras-actuales-red-1195988' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/caida-internet-principales-proveedores-moviles-sufren-corte-generalizado-2945748.jpg?tf=1200x' alt='Internet tiene más de 1.000 millones de webs, estas son las cifras actuales de la Red' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/david-guetta-consigue-eminem-cante-sesiones-gracias-inteligencia-artificial-1195874'>David Guetta consigue que Eminem "cante" en una de sus sesiones gracias a la inteligencia artificial </a></h4>
     <a href='https://computerhoy.com/tecnologia/david-guetta-consigue-eminem-cante-sesiones-gracias-inteligencia-artificial-1195874' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/david-guetta-convierte-eminem-gracias-inteligencia-artificial-2948018.jpg?tf=1200x' alt='David Guetta consigue que Eminem "cante" en una de sus sesiones gracias a la inteligencia artificial ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/google-chrome-incluye-nuevo-boton-hara-te-olvides-modo-privado-1195838'>Google Chrome incluye un nuevo botón que hará que te olvides del modo Privado</a></h4>
-    <a href='https://computerhoy.com/google/google-chrome-incluye-nuevo-boton-hara-te-olvides-modo-privado-1195838' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/google-chrome-2845581.jpg?tf=1200x' alt='Google Chrome incluye un nuevo botón que hará que te olvides del modo Privado' />
     </a>
 </div>
 
