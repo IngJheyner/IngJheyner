@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/windows/como-cuando-microsoft-actualizara-windows-11-2023-1195744'>Así es cómo y cuándo Microsoft actualizará Windows 11 en 2023 </a></h4>
+    <a href='https://computerhoy.com/windows/como-cuando-microsoft-actualizara-windows-11-2023-1195744' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/windows-11-2870243.jpg?tf=1200x' alt='Así es cómo y cuándo Microsoft actualizará Windows 11 en 2023 ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/11-habitos-carga-mejoraran-autonomia-movil-1188086'>11 hábitos de carga que mejorarán la autonomía de tu móvil</a></h4>
+    <a href='https://computerhoy.com/tecnologia/11-habitos-carga-mejoraran-autonomia-movil-1188086' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/telefono-crgando-2934660.jpg?tf=1200x' alt='11 hábitos de carga que mejorarán la autonomía de tu móvil' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/redmi-smartband-2-motivos-comprar-pulsera-actividad-1195168'>Redmi Smart Band 2: motivos por la que se convierte en la nueva pulsera de actividad a tener</a></h4>
     <a href='https://computerhoy.com/life/redmi-smartband-2-motivos-comprar-pulsera-actividad-1195168' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/redmi-smartband-2-motivos-convierte-nueva-pulsera-actividad-tener-2946764.jpg?tf=1200x' alt='Redmi Smart Band 2: motivos por la que se convierte en la nueva pulsera de actividad a tener' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/internet/wifi-vs-ethernet-diferencias-cual-dos-deberia-usar-1192338'>WiFi vs. Ethernet: diferencias y cuál de los dos debería usar </a></h4>
     <a href='https://computerhoy.com/internet/wifi-vs-ethernet-diferencias-cual-dos-deberia-usar-1192338' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/wifi-vs-ethernet-diferencias-cual-dos-deberia-usar-2945116.jpg?tf=1200x' alt='WiFi vs. Ethernet: diferencias y cuál de los dos debería usar ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/cuando-costaran-coches-electricos-mismo-gasolina-1195542'>¿Cuándo costarán los coches eléctricos lo mismo que uno de gasolina? Los fabricantes nos dan una respuesta</a></h4>
-    <a href='https://computerhoy.com/motor/cuando-costaran-coches-electricos-mismo-gasolina-1195542' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/05/coche-electrico-1938935.jpg?tf=1200x' alt='¿Cuándo costarán los coches eléctricos lo mismo que uno de gasolina? Los fabricantes nos dan una respuesta' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/estos-errores-comunes-danaran-ordenador-tiempo-1188034'>Estos errores comunes dañarán tu ordenador con el tiempo</a></h4>
-    <a href='https://computerhoy.com/tecnologia/estos-errores-comunes-danaran-ordenador-tiempo-1188034' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/desesperado-ordenador-2934592.jpg?tf=1200x' alt='Estos errores comunes dañarán tu ordenador con el tiempo' />
     </a>
 </div>
 
