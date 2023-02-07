@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-altavoces-tv-1110285'>Mejores altavoces para TV que puedes comprar</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-altavoces-tv-1110285' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/barra-sonido-sony-ht-sf150-2949354.jpg?tf=1200x' alt='Mejores altavoces para TV que puedes comprar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/hogar/facua-denuncia-12-productos-muy-famosos-reduflacion-60-subida-1196676'>Facua denuncia 12 productos muy famosos por reduflación… ¡hasta el 60% de subida!</a></h4>
+    <a href='https://computerhoy.com/hogar/facua-denuncia-12-productos-muy-famosos-reduflacion-60-subida-1196676' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/supermercado-2777549.jpg?tf=1200x' alt='Facua denuncia 12 productos muy famosos por reduflación… ¡hasta el 60% de subida!' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/hardware/que-significan-numeros-letras-procesadores-intel-56812'>¿Qué significan los números y las letras en los procesadores de Intel?</a></h4>
+    <a href='https://computerhoy.com/noticias/hardware/que-significan-numeros-letras-procesadores-intel-56812' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/procesador-intel-core-2383049.jpg?tf=1200x' alt='¿Qué significan los números y las letras en los procesadores de Intel?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/google/google-chrome-usa-rtx-nvidia-mejorar-calidad-videos-1196654'>Google Chrome usa las RTX de Nvidia para mejorar la calidad de los vídeos</a></h4>
     <a href='https://computerhoy.com/google/google-chrome-usa-rtx-nvidia-mejorar-calidad-videos-1196654' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/nvidia-geforce-rtx-3080-2679109.jpg?tf=1200x' alt='Google Chrome usa las RTX de Nvidia para mejorar la calidad de los vídeos' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/redes-sociales/twitter-blue-nuevo-fiasco-elon-musk-no-consigue-rentabilizar-red-social-1196656'>Twitter Blue, nuevo fiasco de Elon Musk que no consigue rentabilizar la red social</a></h4>
     <a href='https://computerhoy.com/redes-sociales/twitter-blue-nuevo-fiasco-elon-musk-no-consigue-rentabilizar-red-social-1196656' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/twitter-2915130.jpg?tf=1200x' alt='Twitter Blue, nuevo fiasco de Elon Musk que no consigue rentabilizar la red social' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/oneplus-11-5g-buds-pro-2-oneplus-pad-primera-tableta-marca-1196670'>OnePlus 11 5G, Buds Pro 2 y OnePlus Pad, la primera tableta de la marca</a></h4>
-    <a href='https://computerhoy.com/moviles/oneplus-11-5g-buds-pro-2-oneplus-pad-primera-tableta-marca-1196670' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/oneplus-11-5g-2949326.jpg?tf=1200x' alt='OnePlus 11 5G, Buds Pro 2 y OnePlus Pad, la primera tableta de la marca' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/sera-nothing-phone-2-carl-pei-procesador-qualcomm-acabado-top-1196652'>Así será el Nothing Phone (2) de Carl Pei: procesador Qualcomm y acabado TOP</a></h4>
-    <a href='https://computerhoy.com/moviles/sera-nothing-phone-2-carl-pei-procesador-qualcomm-acabado-top-1196652' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/nothing-phone-1-2757123.jpg?tf=1200x' alt='Así será el Nothing Phone (2) de Carl Pei: procesador Qualcomm y acabado TOP' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/senal-dientes-dragon-dgt-carreteras-1196514'>Qué significan los Dientes de Dragón que se pueden ver en algunas carreteras</a></h4>
-    <a href='https://computerhoy.com/motor/senal-dientes-dragon-dgt-carreteras-1196514' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/senales-dientes-dragon-2948960.jpg?tf=1200x' alt='Qué significan los Dientes de Dragón que se pueden ver en algunas carreteras' />
     </a>
 </div>
 
