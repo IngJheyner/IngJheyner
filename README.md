@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/rollo-papel-higienico-rentable-1-2-3-4-capas-1196794'>Este es el rollo de papel higiénico más rentable: ¿1, 2, 3 o 4 capas?</a></h4>
+    <a href='https://computerhoy.com/life/rollo-papel-higienico-rentable-1-2-3-4-capas-1196794' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/rollo-papel-higienico-2949666.jpg?tf=1200x' alt='Este es el rollo de papel higiénico más rentable: ¿1, 2, 3 o 4 capas?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/berlin-spin-off-la-casa-de-papel-trailer-1196792'>Berlín, el esperado spin-off de La casa de papel, se desvela en un tráiler</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/berlin-spin-off-la-casa-de-papel-trailer-1196792' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/verticalimage1675799657470-2949642.jpg?tf=1200x' alt='Berlín, el esperado spin-off de La casa de papel, se desvela en un tráiler' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/estos-son-asientos-seguros-avion-caso-accidente-1196790'>Estos son los asientos más seguros de un avión en caso de accidente</a></h4>
+    <a href='https://computerhoy.com/life/estos-son-asientos-seguros-avion-caso-accidente-1196790' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/estos-son-asientos-seguros-avion-caso-accidente-2949660.jpg?tf=1200x' alt='Estos son los asientos más seguros de un avión en caso de accidente' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/espacio/descubre-planeta-identico-tierra-donde-anos-solo-duran-4-dias-1196734'>Descubre un planeta idéntico a la Tierra donde los años solo duran 4 días</a></h4>
+    <a href='https://computerhoy.com/espacio/descubre-planeta-identico-tierra-donde-anos-solo-duran-4-dias-1196734' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/tierra-2941442.jpg?tf=1200x' alt='Descubre un planeta idéntico a la Tierra donde los años solo duran 4 días' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/motor/spacex-lanzo-tesla-espacio-hace-5-anos-donde-coche-ahora-mismo-1196732'>SpaceX lanzó un Tesla al espacio hace 5 años: ¿dónde esta el coche ahora mismo?</a></h4>
     <a href='https://computerhoy.com/motor/spacex-lanzo-tesla-espacio-hace-5-anos-donde-coche-ahora-mismo-1196732' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/11/tesla-roadster.jpg?tf=1200x' alt='SpaceX lanzó un Tesla al espacio hace 5 años: ¿dónde esta el coche ahora mismo?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/amazon/carcel-multa-3-espanoles-mayor-estafa-europea-amazon-canicas-1196772'>Cárcel y multa a los 3 españoles que idearon la mayor estafa europea a Amazon, usando canicas</a></h4>
-    <a href='https://computerhoy.com/amazon/carcel-multa-3-espanoles-mayor-estafa-europea-amazon-canicas-1196772' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/ano-carcel-multa-3-espanoles-idearon-mayor-estafa-europea-amazon-usando-canicas-2949564.jpg?tf=1200x' alt='Cárcel y multa a los 3 españoles que idearon la mayor estafa europea a Amazon, usando canicas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tv/philips-presenta-nueva-gama-televisores-oled-miniled-2023-1196770'>Philips presenta su nueva gama de televisores OLED y MiniLED para 2023</a></h4>
-    <a href='https://computerhoy.com/tv/philips-presenta-nueva-gama-televisores-oled-miniled-2023-1196770' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/philips-oled908-2949592.jpg?tf=1200x' alt='Philips presenta su nueva gama de televisores OLED y MiniLED para 2023' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/vuelve-80-nuevo-walkie-talkie-xiaomi-120-horas-tiempo-espera-1196702'>Vuelve a los 80 con el nuevo Walkie-talkie de Xiaomi con 120 horas de tiempo en espera</a></h4>
-    <a href='https://computerhoy.com/moviles/vuelve-80-nuevo-walkie-talkie-xiaomi-120-horas-tiempo-espera-1196702' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/vuelve-80-nuevo-walkie-talkie-xiaomi-120-horas-tiempo-espera-2949534.jpg?tf=1200x' alt='Vuelve a los 80 con el nuevo Walkie-talkie de Xiaomi con 120 horas de tiempo en espera' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-altavoces-tv-1110285'>Mejores altavoces para TV que puedes comprar</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-altavoces-tv-1110285' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/barra-sonido-sony-ht-sf150-2949354.jpg?tf=1200x' alt='Mejores altavoces para TV que puedes comprar' />
     </a>
 </div>
 
