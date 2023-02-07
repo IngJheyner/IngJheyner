@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/tinder-actualiza-app-copiando-chrome-sea-segura-1196438'>Tinder actualiza su app copiando a Chrome para que sea más segura</a></h4>
+    <a href='https://computerhoy.com/apps/tinder-actualiza-app-copiando-chrome-sea-segura-1196438' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/tinder-bloquear-usuarios-2360063.jpg?tf=1200x' alt='Tinder actualiza su app copiando a Chrome para que sea más segura' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/google/google-presenta-actualizacion-android-febrero-estas-son-novedades-1196416'>Google presenta la actualización de Android de febrero y estas son sus novedades</a></h4>
+    <a href='https://computerhoy.com/google/google-presenta-actualizacion-android-febrero-estas-son-novedades-1196416' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/google-pixel-7-pro-google-pixel-7-2838095.jpg?tf=1200x' alt='Google presenta la actualización de Android de febrero y estas son sus novedades' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-hacer-overclock-monitor-1195820'>Cómo y por qué hacer overclock a tu monitor</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-hacer-overclock-monitor-1195820' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/dos-monitores-2947672.jpg?tf=1200x' alt='Cómo y por qué hacer overclock a tu monitor' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/last-us-evita-grandes-errores-adaptaciones-videojuegos-podemos-aprender-1196054'>The Last of Us evita los grandes errores de las adaptaciones de videojuegos: esto es lo que podemos aprender</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/last-us-evita-grandes-errores-adaptaciones-videojuegos-podemos-aprender-1196054' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/como-ver-primer-episodio-last-us-gratis-registro-2940084.jpg?tf=1200x' alt='The Last of Us evita los grandes errores de las adaptaciones de videojuegos: esto es lo que podemos aprender' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/moviles/nuevo-samsung-galaxy-s23-ultra-aterriza-rebaja-ya-180-euros-barato-1195790'>El nuevo Samsung Galaxy S23 Ultra aterriza con rebaja: ya es 180 euros más barato</a></h4>
     <a href='https://computerhoy.com/moviles/nuevo-samsung-galaxy-s23-ultra-aterriza-rebaja-ya-180-euros-barato-1195790' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/impresiones-samsung-galaxy-s23-ultra-2943574.jpg?tf=1200x' alt='El nuevo Samsung Galaxy S23 Ultra aterriza con rebaja: ya es 180 euros más barato' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/27-noticias-tecnologia-comenzar-manana-informado-ultimo-1196402'>27 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
-    <a href='https://computerhoy.com/tecnologia/27-noticias-tecnologia-comenzar-manana-informado-ultimo-1196402' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/27-noticias-tecnologia-comenzar-manana-informado-ultimo-2948856.jpg?tf=1200x' alt='27 noticias de tecnología para comenzar la mañana informado de lo último' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/criptos/desmontando-mito-informatico-merecen-pena-gpus-provenientes-mineria-1195888'>Desmontando un mito informático: ¿merecen la pena las GPUs provenientes de la minería?</a></h4>
-    <a href='https://computerhoy.com/criptos/desmontando-mito-informatico-merecen-pena-gpus-provenientes-mineria-1195888' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/01/mineria-bitcoin-2208427.jpg?tf=1200x' alt='Desmontando un mito informático: ¿merecen la pena las GPUs provenientes de la minería?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/mejores/regalos-san-valentin-2023-1189908'>San Valentín 2023: estos son los mejores regalos que puedes comprar para tu pareja</a></h4>
-    <a href='https://computerhoy.com/mejores/regalos-san-valentin-2023-1189908' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/san-valentin-portatil-2937664.jpg?tf=1200x' alt='San Valentín 2023: estos son los mejores regalos que puedes comprar para tu pareja' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/vuela-primer-monocoptero-plegable-video-1196384'>Así vuela el primer monocóptero plegable (vídeo)</a></h4>
-    <a href='https://computerhoy.com/motor/vuela-primer-monocoptero-plegable-video-1196384' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/verticalimage1675740741124-2948844.jpg?tf=1200x' alt='Así vuela el primer monocóptero plegable (vídeo)' />
     </a>
 </div>
 
