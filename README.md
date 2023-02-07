@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/hogar/forma-sencilla-saber-tienes-corrientes-aire-frio-casa-disparan-gasto-calefaccion-1196382'>La forma más sencilla de saber si tienes corrientes de aire frío en casa, que disparan el gasto en calefacción</a></h4>
+    <a href='https://computerhoy.com/hogar/forma-sencilla-saber-tienes-corrientes-aire-frio-casa-disparan-gasto-calefaccion-1196382' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/forma-sencilla-saber-tienes-corrientes-aire-frio-casa-disparan-gasto-calefaccion-2948602.jpg?tf=1200x' alt='La forma más sencilla de saber si tienes corrientes de aire frío en casa, que disparan el gasto en calefacción' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/guerra-inteligencia-artificial-microsoft-adelanta-google-anuncia-evento-satya-nadella-ceo-openai-1196144'>Guerra de IAs: Microsoft se adelanta a Google y anuncia un evento con Satya Nadella y el CEO de OpenAI</a></h4>
     <a href='https://computerhoy.com/tecnologia/guerra-inteligencia-artificial-microsoft-adelanta-google-anuncia-evento-satya-nadella-ceo-openai-1196144' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/guerra-ias-microsoft-adelanta-google-anuncia-evento-satya-nadella-ceo-open-ai-2948598.jpg?tf=1200x' alt='Guerra de IAs: Microsoft se adelanta a Google y anuncia un evento con Satya Nadella y el CEO de OpenAI' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/hogar/aspiradora-cable-dyson-oferta-1196134'>Esta aspiradora sin cable de Dyson es una maravilla, llega donde no puede un robot aspirador, y está en oferta</a></h4>
     <a href='https://computerhoy.com/hogar/aspiradora-cable-dyson-oferta-1196134' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/aspiradora-cable-dyson-maravilla-llega-donde-no-puede-robot-aspirador-oferta-2948584.jpg?tf=1200x' alt='Esta aspiradora sin cable de Dyson es una maravilla, llega donde no puede un robot aspirador, y está en oferta' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/cantidad-minima-memoria-ram-ejecutar-windows-11-convertir-vida-infierno-1196130'>Esta es la cantidad mínima de memoria RAM para ejecutar Windows 11 y convertir tu vida en un infierno</a></h4>
-    <a href='https://computerhoy.com/windows/cantidad-minima-memoria-ram-ejecutar-windows-11-convertir-vida-infierno-1196130' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/windows-11-2948586.jpg?tf=1200x' alt='Esta es la cantidad mínima de memoria RAM para ejecutar Windows 11 y convertir tu vida en un infierno' />
     </a>
 </div>
 
