@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/guerra-inteligencia-artificial-microsoft-adelanta-google-anuncia-evento-satya-nadella-ceo-openai-1196144'>Guerra de IAs: Microsoft se adelanta a Google y anuncia un evento con Satya Nadella y el CEO de OpenAI</a></h4>
+    <a href='https://computerhoy.com/tecnologia/guerra-inteligencia-artificial-microsoft-adelanta-google-anuncia-evento-satya-nadella-ceo-openai-1196144' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/guerra-ias-microsoft-adelanta-google-anuncia-evento-satya-nadella-ceo-open-ai-2948598.jpg?tf=1200x' alt='Guerra de IAs: Microsoft se adelanta a Google y anuncia un evento con Satya Nadella y el CEO de OpenAI' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apple/iphone-han-subido-66-2009-aunque-apple-cree-gente-feliz-ello-1196002'>Los iPhone han subido un 66% desde 2009 aunque Apple cree que la gente es feliz por ello</a></h4>
     <a href='https://computerhoy.com/apple/iphone-han-subido-66-2009-aunque-apple-cree-gente-feliz-ello-1196002' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/03/tim-cook.jpg?tf=1200x' alt='Los iPhone han subido un 66% desde 2009 aunque Apple cree que la gente es feliz por ello' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/windows/cantidad-minima-memoria-ram-ejecutar-windows-11-convertir-vida-infierno-1196130'>Esta es la cantidad mínima de memoria RAM para ejecutar Windows 11 y convertir tu vida en un infierno</a></h4>
     <a href='https://computerhoy.com/windows/cantidad-minima-memoria-ram-ejecutar-windows-11-convertir-vida-infierno-1196130' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/windows-11-2948586.jpg?tf=1200x' alt='Esta es la cantidad mínima de memoria RAM para ejecutar Windows 11 y convertir tu vida en un infierno' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/iphone-16-podria-tener-version-ultra-altas-prestaciones-como-apple-watch-1196122'>El iPhone 16 podría tener una versión Ultra de altas prestaciones como el Apple Watch</a></h4>
-    <a href='https://computerhoy.com/apple/iphone-16-podria-tener-version-ultra-altas-prestaciones-como-apple-watch-1196122' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/analisis-iphone-14-pro-2821733.jpg?tf=1200x' alt='El iPhone 16 podría tener una versión Ultra de altas prestaciones como el Apple Watch' />
     </a>
 </div>
 
