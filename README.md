@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/google/cuando-llega-mi-paquete-puedes-activar-funcion-seguimiento-envios-gmail-1196600'>¿Cuando llega mi paquete? Así puedes activar la función de seguimiento de envíos de Gmail </a></h4>
+    <a href='https://computerhoy.com/google/cuando-llega-mi-paquete-puedes-activar-funcion-seguimiento-envios-gmail-1196600' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/cuando-llega-mi-paquete-activa-seguimiento-envios-gmail-2949226.jpg?tf=1200x' alt='¿Cuando llega mi paquete? Así puedes activar la función de seguimiento de envíos de Gmail ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/espacio/elon-musk-fija-fecha-lanzamiento-starship-comenzar-pruebas-base-luna-1196568'>Elon Musk fija fecha para el lanzamiento del Starship y comenzar las pruebas para su base en la Luna</a></h4>
     <a href='https://computerhoy.com/espacio/elon-musk-fija-fecha-lanzamiento-starship-comenzar-pruebas-base-luna-1196568' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/elon-musk-fija-fecha-lanzamiento-starship-comenzar-pruebas-construir-base-luna-2949172.jpg?tf=1200x' alt='Elon Musk fija fecha para el lanzamiento del Starship y comenzar las pruebas para su base en la Luna' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/apps/telegram-te-permite-ahora-comunicarte-cualquier-persona-importar-idioma-hable-1196520'>Telegram te permite ahora comunicarte con cualquier persona sin importar el idioma que hable</a></h4>
     <a href='https://computerhoy.com/apps/telegram-te-permite-ahora-comunicarte-cualquier-persona-importar-idioma-hable-1196520' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/telegram-2949104.jpg?tf=1200x' alt='Telegram te permite ahora comunicarte con cualquier persona sin importar el idioma que hable' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/baidu-google-chino-estrena-chatbot-afirma-potente-chatgpt-1196516'>Baidu, el Google chino, estrena chatbot y afirma que es más potente que ChatGPT</a></h4>
-    <a href='https://computerhoy.com/tecnologia/baidu-google-chino-estrena-chatbot-afirma-potente-chatgpt-1196516' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/baidu-google-chino-estrena-chatbot-afirma-potente-chatgpt-2949050.jpg?tf=1200x' alt='Baidu, el Google chino, estrena chatbot y afirma que es más potente que ChatGPT' />
     </a>
 </div>
 
