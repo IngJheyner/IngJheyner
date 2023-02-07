@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/cuando-llega-mi-paquete-puedes-activar-funcion-seguimiento-envios-gmail-1196600'>¿Cuando llega mi paquete? Así puedes activar la función de seguimiento de envíos de Gmail </a></h4>
-    <a href='https://computerhoy.com/google/cuando-llega-mi-paquete-puedes-activar-funcion-seguimiento-envios-gmail-1196600' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/cuando-llega-mi-paquete-activa-seguimiento-envios-gmail-2949226.jpg?tf=1200x' alt='¿Cuando llega mi paquete? Así puedes activar la función de seguimiento de envíos de Gmail ' />
+    <h4><a href='https://computerhoy.com/google/google-chrome-usa-rtx-nvidia-mejorar-calidad-videos-1196654'>Google Chrome usa las RTX de Nvidia para mejorar la calidad de los vídeos</a></h4>
+    <a href='https://computerhoy.com/google/google-chrome-usa-rtx-nvidia-mejorar-calidad-videos-1196654' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/nvidia-geforce-rtx-3080-2679109.jpg?tf=1200x' alt='Google Chrome usa las RTX de Nvidia para mejorar la calidad de los vídeos' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/elon-musk-fija-fecha-lanzamiento-starship-comenzar-pruebas-base-luna-1196568'>Elon Musk fija fecha para el lanzamiento del Starship y comenzar las pruebas para su base en la Luna</a></h4>
-    <a href='https://computerhoy.com/espacio/elon-musk-fija-fecha-lanzamiento-starship-comenzar-pruebas-base-luna-1196568' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/elon-musk-fija-fecha-lanzamiento-starship-comenzar-pruebas-construir-base-luna-2949172.jpg?tf=1200x' alt='Elon Musk fija fecha para el lanzamiento del Starship y comenzar las pruebas para su base en la Luna' />
+    <h4><a href='https://computerhoy.com/redes-sociales/twitter-blue-nuevo-fiasco-elon-musk-no-consigue-rentabilizar-red-social-1196656'>Twitter Blue, nuevo fiasco de Elon Musk que no consigue rentabilizar la red social</a></h4>
+    <a href='https://computerhoy.com/redes-sociales/twitter-blue-nuevo-fiasco-elon-musk-no-consigue-rentabilizar-red-social-1196656' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/twitter-2915130.jpg?tf=1200x' alt='Twitter Blue, nuevo fiasco de Elon Musk que no consigue rentabilizar la red social' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tv/apilar-pixeles-nueva-tecnologia-mejorara-nitidez-pantallas-televisores-microled-1196566'>Apilar píxeles, la nueva tecnología que mejorará la nitidez de las pantallas y televisores MicroLED</a></h4>
-    <a href='https://computerhoy.com/tv/apilar-pixeles-nueva-tecnologia-mejorara-nitidez-pantallas-televisores-microled-1196566' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/microled-2949196.jpg?tf=1200x' alt='Apilar píxeles, la nueva tecnología que mejorará la nitidez de las pantallas y televisores MicroLED' />
+    <h4><a href='https://computerhoy.com/moviles/oneplus-11-5g-buds-pro-2-oneplus-pad-primera-tableta-marca-1196670'>OnePlus 11 5G, Buds Pro 2 y OnePlus Pad, la primera tableta de la marca</a></h4>
+    <a href='https://computerhoy.com/moviles/oneplus-11-5g-buds-pro-2-oneplus-pad-primera-tableta-marca-1196670' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/oneplus-11-5g-2949326.jpg?tf=1200x' alt='OnePlus 11 5G, Buds Pro 2 y OnePlus Pad, la primera tableta de la marca' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/whatsapp-introduce-5-nuevas-funciones-actualizaciones-estado-android-ios-1196534'>WhatsApp introduce 5 nuevas funciones para las actualizaciones de estado en Android e iOS</a></h4>
-    <a href='https://computerhoy.com/apps/whatsapp-introduce-5-nuevas-funciones-actualizaciones-estado-android-ios-1196534' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/whatsapp-actualiza-estados-introduce-5-nuevas-funciones-android-ios-2949090.jpg?tf=1200x' alt='WhatsApp introduce 5 nuevas funciones para las actualizaciones de estado en Android e iOS' />
+    <h4><a href='https://computerhoy.com/moviles/sera-nothing-phone-2-carl-pei-procesador-qualcomm-acabado-top-1196652'>Así será el Nothing Phone (2) de Carl Pei: procesador Qualcomm y acabado TOP</a></h4>
+    <a href='https://computerhoy.com/moviles/sera-nothing-phone-2-carl-pei-procesador-qualcomm-acabado-top-1196652' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/nothing-phone-1-2757123.jpg?tf=1200x' alt='Así será el Nothing Phone (2) de Carl Pei: procesador Qualcomm y acabado TOP' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/telegram-te-permite-ahora-comunicarte-cualquier-persona-importar-idioma-hable-1196520'>Telegram te permite ahora comunicarte con cualquier persona sin importar el idioma que hable</a></h4>
-    <a href='https://computerhoy.com/apps/telegram-te-permite-ahora-comunicarte-cualquier-persona-importar-idioma-hable-1196520' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/telegram-2949104.jpg?tf=1200x' alt='Telegram te permite ahora comunicarte con cualquier persona sin importar el idioma que hable' />
+    <h4><a href='https://computerhoy.com/motor/senal-dientes-dragon-dgt-carreteras-1196514'>Qué significan los Dientes de Dragón que se pueden ver en algunas carreteras</a></h4>
+    <a href='https://computerhoy.com/motor/senal-dientes-dragon-dgt-carreteras-1196514' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/senales-dientes-dragon-2948960.jpg?tf=1200x' alt='Qué significan los Dientes de Dragón que se pueden ver en algunas carreteras' />
     </a>
 </div>
 
