@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/whatsapp-introduce-5-nuevas-funciones-actualizaciones-estado-android-ios-1196534'>WhatsApp introduce 5 nuevas funciones para las actualizaciones de estado en Android e iOS</a></h4>
+    <a href='https://computerhoy.com/apps/whatsapp-introduce-5-nuevas-funciones-actualizaciones-estado-android-ios-1196534' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/whatsapp-actualiza-estados-introduce-5-nuevas-funciones-android-ios-2949090.jpg?tf=1200x' alt='WhatsApp introduce 5 nuevas funciones para las actualizaciones de estado en Android e iOS' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/telegram-te-permite-ahora-comunicarte-cualquier-persona-importar-idioma-hable-1196520'>Telegram te permite ahora comunicarte con cualquier persona sin importar el idioma que hable</a></h4>
+    <a href='https://computerhoy.com/apps/telegram-te-permite-ahora-comunicarte-cualquier-persona-importar-idioma-hable-1196520' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/telegram-2949104.jpg?tf=1200x' alt='Telegram te permite ahora comunicarte con cualquier persona sin importar el idioma que hable' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/baidu-google-chino-estrena-chatbot-afirma-potente-chatgpt-1196516'>Baidu, el Google chino, estrena chatbot y afirma que es más potente que ChatGPT</a></h4>
+    <a href='https://computerhoy.com/tecnologia/baidu-google-chino-estrena-chatbot-afirma-potente-chatgpt-1196516' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/baidu-google-chino-estrena-chatbot-afirma-potente-chatgpt-2949050.jpg?tf=1200x' alt='Baidu, el Google chino, estrena chatbot y afirma que es más potente que ChatGPT' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/olvida-ruido-estos-auriculares-anc-realme-estan-precio-derribo-1195814'>Olvida el ruido: estos auriculares con ANC de realme están a precio de derribo</a></h4>
     <a href='https://computerhoy.com/tecnologia/olvida-ruido-estos-auriculares-anc-realme-estan-precio-derribo-1195814' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/realme-buds-air-3-2662565.jpg?tf=1200x' alt='Olvida el ruido: estos auriculares con ANC de realme están a precio de derribo' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/microsoft-lanza-actualizacion-trampa-office-solo-busca-informacion-1196496'>Microsoft lanza una actualización trampa para Office que solo busca tu información</a></h4>
     <a href='https://computerhoy.com/tecnologia/microsoft-lanza-actualizacion-trampa-office-solo-busca-informacion-1196496' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/microsoft-lanza-actualizacion-trampa-office-solo-busca-informacion-2948992.jpg?tf=1200x' alt='Microsoft lanza una actualización trampa para Office que solo busca tu información' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/energia/cientificos-creen-haber-descubierto-bateria-definitiva-smartphone-coche-1196500'>Científicos creen haber descubierto la batería definitiva para nuestro smartphone y coche</a></h4>
-    <a href='https://computerhoy.com/energia/cientificos-creen-haber-descubierto-bateria-definitiva-smartphone-coche-1196500' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/coches-electricos-1500-km-autonomia-estas-nuevas-baterias-sodio-2896350.jpg?tf=1200x' alt='Científicos creen haber descubierto la batería definitiva para nuestro smartphone y coche' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/android/samsung-galaxy-s23-llegan-desagradable-sorpresa-forma-almacenamiento-1196454'>Los Samsung Galaxy S23 llegan con una desagradable sorpresa en forma de almacenamiento</a></h4>
-    <a href='https://computerhoy.com/android/samsung-galaxy-s23-llegan-desagradable-sorpresa-forma-almacenamiento-1196454' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/samsung-galaxy-s23-2943658.jpg?tf=1200x' alt='Los Samsung Galaxy S23 llegan con una desagradable sorpresa en forma de almacenamiento' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/5-sencillos-pasos-limpiar-teclado-dejarlo-como-nuevo-1196432'>5 sencillos pasos para limpiar tu teclado y dejarlo como nuevo</a></h4>
-    <a href='https://computerhoy.com/life/5-sencillos-pasos-limpiar-teclado-dejarlo-como-nuevo-1196432' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/teclado-windows-11-2697963.jpg?tf=1200x' alt='5 sencillos pasos para limpiar tu teclado y dejarlo como nuevo' />
     </a>
 </div>
 
