@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/moviles/nuevo-samsung-galaxy-s23-ultra-aterriza-rebaja-ya-180-euros-barato-1195790'>El nuevo Samsung Galaxy S23 Ultra aterriza con rebaja: ya es 180 euros más barato</a></h4>
+    <a href='https://computerhoy.com/moviles/nuevo-samsung-galaxy-s23-ultra-aterriza-rebaja-ya-180-euros-barato-1195790' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/impresiones-samsung-galaxy-s23-ultra-2943574.jpg?tf=1200x' alt='El nuevo Samsung Galaxy S23 Ultra aterriza con rebaja: ya es 180 euros más barato' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/27-noticias-tecnologia-comenzar-manana-informado-ultimo-1196402'>27 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
+    <a href='https://computerhoy.com/tecnologia/27-noticias-tecnologia-comenzar-manana-informado-ultimo-1196402' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/27-noticias-tecnologia-comenzar-manana-informado-ultimo-2948856.jpg?tf=1200x' alt='27 noticias de tecnología para comenzar la mañana informado de lo último' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/criptos/desmontando-mito-informatico-merecen-pena-gpus-provenientes-mineria-1195888'>Desmontando un mito informático: ¿merecen la pena las GPUs provenientes de la minería?</a></h4>
+    <a href='https://computerhoy.com/criptos/desmontando-mito-informatico-merecen-pena-gpus-provenientes-mineria-1195888' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/01/mineria-bitcoin-2208427.jpg?tf=1200x' alt='Desmontando un mito informático: ¿merecen la pena las GPUs provenientes de la minería?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/mejores/regalos-san-valentin-2023-1189908'>San Valentín 2023: estos son los mejores regalos que puedes comprar para tu pareja</a></h4>
     <a href='https://computerhoy.com/mejores/regalos-san-valentin-2023-1189908' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/san-valentin-portatil-2937664.jpg?tf=1200x' alt='San Valentín 2023: estos son los mejores regalos que puedes comprar para tu pareja' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/motor/vuela-primer-monocoptero-plegable-video-1196384'>Así vuela el primer monocóptero plegable (vídeo)</a></h4>
     <a href='https://computerhoy.com/motor/vuela-primer-monocoptero-plegable-video-1196384' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/verticalimage1675740741124-2948844.jpg?tf=1200x' alt='Así vuela el primer monocóptero plegable (vídeo)' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/hogar/forma-sencilla-saber-tienes-corrientes-aire-frio-casa-disparan-gasto-calefaccion-1196382'>La forma más sencilla de saber si tienes corrientes de aire frío en casa, que disparan el gasto en calefacción</a></h4>
-    <a href='https://computerhoy.com/hogar/forma-sencilla-saber-tienes-corrientes-aire-frio-casa-disparan-gasto-calefaccion-1196382' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/forma-sencilla-saber-tienes-corrientes-aire-frio-casa-disparan-gasto-calefaccion-2948602.jpg?tf=1200x' alt='La forma más sencilla de saber si tienes corrientes de aire frío en casa, que disparan el gasto en calefacción' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/guerra-inteligencia-artificial-microsoft-adelanta-google-anuncia-evento-satya-nadella-ceo-openai-1196144'>Guerra de IAs: Microsoft se adelanta a Google y anuncia un evento con Satya Nadella y el CEO de OpenAI</a></h4>
-    <a href='https://computerhoy.com/tecnologia/guerra-inteligencia-artificial-microsoft-adelanta-google-anuncia-evento-satya-nadella-ceo-openai-1196144' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/guerra-ias-microsoft-adelanta-google-anuncia-evento-satya-nadella-ceo-open-ai-2948598.jpg?tf=1200x' alt='Guerra de IAs: Microsoft se adelanta a Google y anuncia un evento con Satya Nadella y el CEO de OpenAI' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/iphone-han-subido-66-2009-aunque-apple-cree-gente-feliz-ello-1196002'>Los iPhone han subido un 66% desde 2009 aunque Apple cree que la gente es feliz por ello</a></h4>
-    <a href='https://computerhoy.com/apple/iphone-han-subido-66-2009-aunque-apple-cree-gente-feliz-ello-1196002' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/03/tim-cook.jpg?tf=1200x' alt='Los iPhone han subido un 66% desde 2009 aunque Apple cree que la gente es feliz por ello' />
     </a>
 </div>
 
