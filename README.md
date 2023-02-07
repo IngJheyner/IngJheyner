@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/olvida-ruido-estos-auriculares-anc-realme-estan-precio-derribo-1195814'>Olvida el ruido: estos auriculares con ANC de realme están a precio de derribo</a></h4>
+    <a href='https://computerhoy.com/tecnologia/olvida-ruido-estos-auriculares-anc-realme-estan-precio-derribo-1195814' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/realme-buds-air-3-2662565.jpg?tf=1200x' alt='Olvida el ruido: estos auriculares con ANC de realme están a precio de derribo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/microsoft-lanza-actualizacion-trampa-office-solo-busca-informacion-1196496'>Microsoft lanza una actualización trampa para Office que solo busca tu información</a></h4>
+    <a href='https://computerhoy.com/tecnologia/microsoft-lanza-actualizacion-trampa-office-solo-busca-informacion-1196496' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/microsoft-lanza-actualizacion-trampa-office-solo-busca-informacion-2948992.jpg?tf=1200x' alt='Microsoft lanza una actualización trampa para Office que solo busca tu información' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/energia/cientificos-creen-haber-descubierto-bateria-definitiva-smartphone-coche-1196500'>Científicos creen haber descubierto la batería definitiva para nuestro smartphone y coche</a></h4>
+    <a href='https://computerhoy.com/energia/cientificos-creen-haber-descubierto-bateria-definitiva-smartphone-coche-1196500' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/coches-electricos-1500-km-autonomia-estas-nuevas-baterias-sodio-2896350.jpg?tf=1200x' alt='Científicos creen haber descubierto la batería definitiva para nuestro smartphone y coche' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/android/samsung-galaxy-s23-llegan-desagradable-sorpresa-forma-almacenamiento-1196454'>Los Samsung Galaxy S23 llegan con una desagradable sorpresa en forma de almacenamiento</a></h4>
     <a href='https://computerhoy.com/android/samsung-galaxy-s23-llegan-desagradable-sorpresa-forma-almacenamiento-1196454' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/samsung-galaxy-s23-2943658.jpg?tf=1200x' alt='Los Samsung Galaxy S23 llegan con una desagradable sorpresa en forma de almacenamiento' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/life/5-sencillos-pasos-limpiar-teclado-dejarlo-como-nuevo-1196432'>5 sencillos pasos para limpiar tu teclado y dejarlo como nuevo</a></h4>
     <a href='https://computerhoy.com/life/5-sencillos-pasos-limpiar-teclado-dejarlo-como-nuevo-1196432' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/teclado-windows-11-2697963.jpg?tf=1200x' alt='5 sencillos pasos para limpiar tu teclado y dejarlo como nuevo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/tinder-actualiza-app-copiando-chrome-sea-segura-1196438'>Tinder actualiza su app copiando a Chrome para que sea más segura</a></h4>
-    <a href='https://computerhoy.com/apps/tinder-actualiza-app-copiando-chrome-sea-segura-1196438' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/tinder-bloquear-usuarios-2360063.jpg?tf=1200x' alt='Tinder actualiza su app copiando a Chrome para que sea más segura' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/google-presenta-actualizacion-android-febrero-estas-son-novedades-1196416'>Google presenta la actualización de Android de febrero y estas son sus novedades</a></h4>
-    <a href='https://computerhoy.com/google/google-presenta-actualizacion-android-febrero-estas-son-novedades-1196416' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/google-pixel-7-pro-google-pixel-7-2838095.jpg?tf=1200x' alt='Google presenta la actualización de Android de febrero y estas son sus novedades' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-hacer-overclock-monitor-1195820'>Cómo y por qué hacer overclock a tu monitor</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-hacer-overclock-monitor-1195820' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/dos-monitores-2947672.jpg?tf=1200x' alt='Cómo y por qué hacer overclock a tu monitor' />
     </a>
 </div>
 
