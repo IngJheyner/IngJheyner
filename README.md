@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/mejores/regalos-san-valentin-2023-1189908'>San Valentín 2023: estos son los mejores regalos que puedes comprar para tu pareja</a></h4>
+    <a href='https://computerhoy.com/mejores/regalos-san-valentin-2023-1189908' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/san-valentin-portatil-2937664.jpg?tf=1200x' alt='San Valentín 2023: estos son los mejores regalos que puedes comprar para tu pareja' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/motor/vuela-primer-monocoptero-plegable-video-1196384'>Así vuela el primer monocóptero plegable (vídeo)</a></h4>
+    <a href='https://computerhoy.com/motor/vuela-primer-monocoptero-plegable-video-1196384' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/verticalimage1675740741124-2948844.jpg?tf=1200x' alt='Así vuela el primer monocóptero plegable (vídeo)' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/hogar/forma-sencilla-saber-tienes-corrientes-aire-frio-casa-disparan-gasto-calefaccion-1196382'>La forma más sencilla de saber si tienes corrientes de aire frío en casa, que disparan el gasto en calefacción</a></h4>
     <a href='https://computerhoy.com/hogar/forma-sencilla-saber-tienes-corrientes-aire-frio-casa-disparan-gasto-calefaccion-1196382' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/forma-sencilla-saber-tienes-corrientes-aire-frio-casa-disparan-gasto-calefaccion-2948602.jpg?tf=1200x' alt='La forma más sencilla de saber si tienes corrientes de aire frío en casa, que disparan el gasto en calefacción' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/apple/iphone-han-subido-66-2009-aunque-apple-cree-gente-feliz-ello-1196002'>Los iPhone han subido un 66% desde 2009 aunque Apple cree que la gente es feliz por ello</a></h4>
     <a href='https://computerhoy.com/apple/iphone-han-subido-66-2009-aunque-apple-cree-gente-feliz-ello-1196002' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/03/tim-cook.jpg?tf=1200x' alt='Los iPhone han subido un 66% desde 2009 aunque Apple cree que la gente es feliz por ello' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/bard-chatgpt-google-utiliza-ia-conocida-como-lamda-1196126'>Bard, así es el ChatGPT de Google que utiliza su IA conocida como LaMDA</a></h4>
-    <a href='https://computerhoy.com/google/bard-chatgpt-google-utiliza-ia-conocida-como-lamda-1196126' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/google-ya-probando-alternativa-chatgpt-incluye-algunas-mejoras-2943160.jpg?tf=1200x' alt='Bard, así es el ChatGPT de Google que utiliza su IA conocida como LaMDA' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/hogar/aspiradora-cable-dyson-oferta-1196134'>Esta aspiradora sin cable de Dyson es una maravilla, llega donde no puede un robot aspirador, y está en oferta</a></h4>
-    <a href='https://computerhoy.com/hogar/aspiradora-cable-dyson-oferta-1196134' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/aspiradora-cable-dyson-maravilla-llega-donde-no-puede-robot-aspirador-oferta-2948584.jpg?tf=1200x' alt='Esta aspiradora sin cable de Dyson es una maravilla, llega donde no puede un robot aspirador, y está en oferta' />
     </a>
 </div>
 
