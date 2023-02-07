@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/motor/spacex-lanzo-tesla-espacio-hace-5-anos-donde-coche-ahora-mismo-1196732'>SpaceX lanzó un Tesla al espacio hace 5 años: ¿dónde esta el coche ahora mismo?</a></h4>
+    <a href='https://computerhoy.com/motor/spacex-lanzo-tesla-espacio-hace-5-anos-donde-coche-ahora-mismo-1196732' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/11/tesla-roadster.jpg?tf=1200x' alt='SpaceX lanzó un Tesla al espacio hace 5 años: ¿dónde esta el coche ahora mismo?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/amazon/carcel-multa-3-espanoles-mayor-estafa-europea-amazon-canicas-1196772'>Cárcel y multa a los 3 españoles que idearon la mayor estafa europea a Amazon, usando canicas</a></h4>
+    <a href='https://computerhoy.com/amazon/carcel-multa-3-espanoles-mayor-estafa-europea-amazon-canicas-1196772' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/ano-carcel-multa-3-espanoles-idearon-mayor-estafa-europea-amazon-usando-canicas-2949564.jpg?tf=1200x' alt='Cárcel y multa a los 3 españoles que idearon la mayor estafa europea a Amazon, usando canicas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tv/philips-presenta-nueva-gama-televisores-oled-miniled-2023-1196770'>Philips presenta su nueva gama de televisores OLED y MiniLED para 2023</a></h4>
+    <a href='https://computerhoy.com/tv/philips-presenta-nueva-gama-televisores-oled-miniled-2023-1196770' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/philips-oled908-2949592.jpg?tf=1200x' alt='Philips presenta su nueva gama de televisores OLED y MiniLED para 2023' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/moviles/vuelve-80-nuevo-walkie-talkie-xiaomi-120-horas-tiempo-espera-1196702'>Vuelve a los 80 con el nuevo Walkie-talkie de Xiaomi con 120 horas de tiempo en espera</a></h4>
     <a href='https://computerhoy.com/moviles/vuelve-80-nuevo-walkie-talkie-xiaomi-120-horas-tiempo-espera-1196702' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/vuelve-80-nuevo-walkie-talkie-xiaomi-120-horas-tiempo-espera-2949534.jpg?tf=1200x' alt='Vuelve a los 80 con el nuevo Walkie-talkie de Xiaomi con 120 horas de tiempo en espera' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-altavoces-tv-1110285'>Mejores altavoces para TV que puedes comprar</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/mejores-altavoces-tv-1110285' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/barra-sonido-sony-ht-sf150-2949354.jpg?tf=1200x' alt='Mejores altavoces para TV que puedes comprar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/hogar/facua-denuncia-12-productos-muy-famosos-reduflacion-60-subida-1196676'>Facua denuncia 12 productos muy famosos por reduflación… ¡hasta el 60% de subida!</a></h4>
-    <a href='https://computerhoy.com/hogar/facua-denuncia-12-productos-muy-famosos-reduflacion-60-subida-1196676' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/supermercado-2777549.jpg?tf=1200x' alt='Facua denuncia 12 productos muy famosos por reduflación… ¡hasta el 60% de subida!' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/hardware/que-significan-numeros-letras-procesadores-intel-56812'>¿Qué significan los números y las letras en los procesadores de Intel?</a></h4>
-    <a href='https://computerhoy.com/noticias/hardware/que-significan-numeros-letras-procesadores-intel-56812' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/procesador-intel-core-2383049.jpg?tf=1200x' alt='¿Qué significan los números y las letras en los procesadores de Intel?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/google-chrome-usa-rtx-nvidia-mejorar-calidad-videos-1196654'>Google Chrome usa las RTX de Nvidia para mejorar la calidad de los vídeos</a></h4>
-    <a href='https://computerhoy.com/google/google-chrome-usa-rtx-nvidia-mejorar-calidad-videos-1196654' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/nvidia-geforce-rtx-3080-2679109.jpg?tf=1200x' alt='Google Chrome usa las RTX de Nvidia para mejorar la calidad de los vídeos' />
     </a>
 </div>
 
