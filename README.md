@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/moviles/vuelve-80-nuevo-walkie-talkie-xiaomi-120-horas-tiempo-espera-1196702'>Vuelve a los 80 con el nuevo Walkie-talkie de Xiaomi con 120 horas de tiempo en espera</a></h4>
+    <a href='https://computerhoy.com/moviles/vuelve-80-nuevo-walkie-talkie-xiaomi-120-horas-tiempo-espera-1196702' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/vuelve-80-nuevo-walkie-talkie-xiaomi-120-horas-tiempo-espera-2949534.jpg?tf=1200x' alt='Vuelve a los 80 con el nuevo Walkie-talkie de Xiaomi con 120 horas de tiempo en espera' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-altavoces-tv-1110285'>Mejores altavoces para TV que puedes comprar</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/mejores-altavoces-tv-1110285' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/barra-sonido-sony-ht-sf150-2949354.jpg?tf=1200x' alt='Mejores altavoces para TV que puedes comprar' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/google/google-chrome-usa-rtx-nvidia-mejorar-calidad-videos-1196654'>Google Chrome usa las RTX de Nvidia para mejorar la calidad de los vídeos</a></h4>
     <a href='https://computerhoy.com/google/google-chrome-usa-rtx-nvidia-mejorar-calidad-videos-1196654' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/nvidia-geforce-rtx-3080-2679109.jpg?tf=1200x' alt='Google Chrome usa las RTX de Nvidia para mejorar la calidad de los vídeos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/redes-sociales/twitter-blue-nuevo-fiasco-elon-musk-no-consigue-rentabilizar-red-social-1196656'>Twitter Blue, nuevo fiasco de Elon Musk que no consigue rentabilizar la red social</a></h4>
-    <a href='https://computerhoy.com/redes-sociales/twitter-blue-nuevo-fiasco-elon-musk-no-consigue-rentabilizar-red-social-1196656' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/twitter-2915130.jpg?tf=1200x' alt='Twitter Blue, nuevo fiasco de Elon Musk que no consigue rentabilizar la red social' />
     </a>
 </div>
 
