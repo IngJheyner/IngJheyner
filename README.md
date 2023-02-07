@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/internet/microsoft-va-google-integra-chatgpt-bing-ya-puedes-probar-1196804'>Microsoft va a por Google: integra ChatGPT en Bing, y ya lo puedes probar</a></h4>
+    <a href='https://computerhoy.com/internet/microsoft-va-google-integra-chatgpt-bing-ya-puedes-probar-1196804' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/microsoft-va-google-integra-chatgpt-bing-ya-puedes-probar-2949674.jpg?tf=1200x' alt='Microsoft va a por Google: integra ChatGPT en Bing, y ya lo puedes probar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/rollo-papel-higienico-rentable-1-2-3-4-capas-1196794'>Este es el rollo de papel higiénico más rentable: ¿1, 2, 3 o 4 capas?</a></h4>
     <a href='https://computerhoy.com/life/rollo-papel-higienico-rentable-1-2-3-4-capas-1196794' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/rollo-papel-higienico-2949666.jpg?tf=1200x' alt='Este es el rollo de papel higiénico más rentable: ¿1, 2, 3 o 4 capas?' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/espacio/descubre-planeta-identico-tierra-donde-anos-solo-duran-4-dias-1196734'>Descubre un planeta idéntico a la Tierra donde los años solo duran 4 días</a></h4>
     <a href='https://computerhoy.com/espacio/descubre-planeta-identico-tierra-donde-anos-solo-duran-4-dias-1196734' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/tierra-2941442.jpg?tf=1200x' alt='Descubre un planeta idéntico a la Tierra donde los años solo duran 4 días' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/spacex-lanzo-tesla-espacio-hace-5-anos-donde-coche-ahora-mismo-1196732'>SpaceX lanzó un Tesla al espacio hace 5 años: ¿dónde esta el coche ahora mismo?</a></h4>
-    <a href='https://computerhoy.com/motor/spacex-lanzo-tesla-espacio-hace-5-anos-donde-coche-ahora-mismo-1196732' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/11/tesla-roadster.jpg?tf=1200x' alt='SpaceX lanzó un Tesla al espacio hace 5 años: ¿dónde esta el coche ahora mismo?' />
     </a>
 </div>
 
