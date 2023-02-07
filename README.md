@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/android/samsung-galaxy-s23-llegan-desagradable-sorpresa-forma-almacenamiento-1196454'>Los Samsung Galaxy S23 llegan con una desagradable sorpresa en forma de almacenamiento</a></h4>
+    <a href='https://computerhoy.com/android/samsung-galaxy-s23-llegan-desagradable-sorpresa-forma-almacenamiento-1196454' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/samsung-galaxy-s23-2943658.jpg?tf=1200x' alt='Los Samsung Galaxy S23 llegan con una desagradable sorpresa en forma de almacenamiento' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/5-sencillos-pasos-limpiar-teclado-dejarlo-como-nuevo-1196432'>5 sencillos pasos para limpiar tu teclado y dejarlo como nuevo</a></h4>
+    <a href='https://computerhoy.com/life/5-sencillos-pasos-limpiar-teclado-dejarlo-como-nuevo-1196432' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/teclado-windows-11-2697963.jpg?tf=1200x' alt='5 sencillos pasos para limpiar tu teclado y dejarlo como nuevo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apps/tinder-actualiza-app-copiando-chrome-sea-segura-1196438'>Tinder actualiza su app copiando a Chrome para que sea más segura</a></h4>
     <a href='https://computerhoy.com/apps/tinder-actualiza-app-copiando-chrome-sea-segura-1196438' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/tinder-bloquear-usuarios-2360063.jpg?tf=1200x' alt='Tinder actualiza su app copiando a Chrome para que sea más segura' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tutoriales/como-hacer-overclock-monitor-1195820'>Cómo y por qué hacer overclock a tu monitor</a></h4>
     <a href='https://computerhoy.com/tutoriales/como-hacer-overclock-monitor-1195820' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/dos-monitores-2947672.jpg?tf=1200x' alt='Cómo y por qué hacer overclock a tu monitor' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/last-us-evita-grandes-errores-adaptaciones-videojuegos-podemos-aprender-1196054'>The Last of Us evita los grandes errores de las adaptaciones de videojuegos: esto es lo que podemos aprender</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/last-us-evita-grandes-errores-adaptaciones-videojuegos-podemos-aprender-1196054' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/como-ver-primer-episodio-last-us-gratis-registro-2940084.jpg?tf=1200x' alt='The Last of Us evita los grandes errores de las adaptaciones de videojuegos: esto es lo que podemos aprender' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/nuevo-samsung-galaxy-s23-ultra-aterriza-rebaja-ya-180-euros-barato-1195790'>El nuevo Samsung Galaxy S23 Ultra aterriza con rebaja: ya es 180 euros más barato</a></h4>
-    <a href='https://computerhoy.com/moviles/nuevo-samsung-galaxy-s23-ultra-aterriza-rebaja-ya-180-euros-barato-1195790' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/impresiones-samsung-galaxy-s23-ultra-2943574.jpg?tf=1200x' alt='El nuevo Samsung Galaxy S23 Ultra aterriza con rebaja: ya es 180 euros más barato' />
     </a>
 </div>
 
