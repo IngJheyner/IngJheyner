@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/31-noticias-tecnologia-comenzar-manana-informado-ultimo-1197032'>31 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
+    <a href='https://computerhoy.com/tecnologia/31-noticias-tecnologia-comenzar-manana-informado-ultimo-1197032' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/31-noticias-tecnologia-comenzar-manana-informado-ultimo-2949938.jpg?tf=1200x' alt='31 noticias de tecnología para comenzar la mañana informado de lo último' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/rebajas-poco-moviles-auriculares-relojes-precio-derribo-1196686'>Rebajas en POCO: móviles, auriculares y relojes a precio de derribo</a></h4>
+    <a href='https://computerhoy.com/tecnologia/rebajas-poco-moviles-auriculares-relojes-precio-derribo-1196686' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/poco-x5-pro-5g-2948376.jpg?tf=1200x' alt='Rebajas en POCO: móviles, auriculares y relojes a precio de derribo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/espacio/satelite-espanol-amazonas-nexus-hispasat-spacex-video-1197030'>Así ha puesto en órbita SpaceX el revolucionario satélite español Amazonas Nexus de Hispasat (vídeo)</a></h4>
     <a href='https://computerhoy.com/espacio/satelite-espanol-amazonas-nexus-hispasat-spacex-video-1197030' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/ha-puesto-orbita-spacex-revolucionario-satelite-espanol-hispasat-amazonas-nexus-video-2949726.jpg?tf=1200x' alt='Así ha puesto en órbita SpaceX el revolucionario satélite español Amazonas Nexus de Hispasat (vídeo)' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/internet/microsoft-va-google-integra-chatgpt-bing-ya-puedes-probar-1196804'>Microsoft va a por Google: integra ChatGPT en Bing, y ya lo puedes probar</a></h4>
     <a href='https://computerhoy.com/internet/microsoft-va-google-integra-chatgpt-bing-ya-puedes-probar-1196804' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/microsoft-va-google-integra-chatgpt-bing-ya-puedes-probar-2949674.jpg?tf=1200x' alt='Microsoft va a por Google: integra ChatGPT en Bing, y ya lo puedes probar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/rollo-papel-higienico-rentable-1-2-3-4-capas-1196794'>Este es el rollo de papel higiénico más rentable: ¿1, 2, 3 o 4 capas?</a></h4>
-    <a href='https://computerhoy.com/life/rollo-papel-higienico-rentable-1-2-3-4-capas-1196794' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/rollo-papel-higienico-2949666.jpg?tf=1200x' alt='Este es el rollo de papel higiénico más rentable: ¿1, 2, 3 o 4 capas?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/berlin-spin-off-la-casa-de-papel-trailer-1196792'>Berlín, el esperado spin-off de La casa de papel, se desvela en un tráiler</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/berlin-spin-off-la-casa-de-papel-trailer-1196792' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/verticalimage1675799657470-2949642.jpg?tf=1200x' alt='Berlín, el esperado spin-off de La casa de papel, se desvela en un tráiler' />
     </a>
 </div>
 
