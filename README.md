@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/truco-cambiar-rapido-pestanas-chrome-1193298'>Truco para cambiar más rápido entre pestañas de Chrome</a></h4>
+    <a href='https://computerhoy.com/tutoriales/truco-cambiar-rapido-pestanas-chrome-1193298' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/google-chrome-2943032.jpg?tf=1200x' alt='Truco para cambiar más rápido entre pestañas de Chrome' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/industria/entrega-premios-computer-hoy-2022-estos-son-todos-ganadores-1197128'>Entrega de los Premios Computer Hoy 2022: estos son todos los ganadores</a></h4>
+    <a href='https://computerhoy.com/industria/entrega-premios-computer-hoy-2022-estos-son-todos-ganadores-1197128' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/ganadores-premios-computer-hoy-2022-2950478.jpg?tf=1200x' alt='Entrega de los Premios Computer Hoy 2022: estos son todos los ganadores' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tutoriales/como-activar-utilizar-nuevo-mezclador-volumen-windows-11-1195146'>Cómo activar y utilizar el nuevo mezclador de volumen de Windows 11</a></h4>
     <a href='https://computerhoy.com/tutoriales/como-activar-utilizar-nuevo-mezclador-volumen-windows-11-1195146' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/volumen-windows-11-2946690.jpg?tf=1200x' alt='Cómo activar y utilizar el nuevo mezclador de volumen de Windows 11' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tutoriales/puedes-fusionar-eliminar-fotos-duplicadas-iphone-1181650'>Así puedes fusionar o eliminar fotos duplicadas en nuestro iPhone</a></h4>
     <a href='https://computerhoy.com/tutoriales/puedes-fusionar-eliminar-fotos-duplicadas-iphone-1181650' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/foto-iphone-2923608.jpg?tf=1200x' alt='Así puedes fusionar o eliminar fotos duplicadas en nuestro iPhone' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/reloj-garmin-deportivo-nfc-pagos-moviles-1196502'>Este reloj Garmin es deportivo, pero sobre todo inteligente y a un precio rompedor</a></h4>
-    <a href='https://computerhoy.com/tecnologia/reloj-garmin-deportivo-nfc-pagos-moviles-1196502' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/garmin-venu-2-2644061.jpg?tf=1200x' alt='Este reloj Garmin es deportivo, pero sobre todo inteligente y a un precio rompedor' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/disney-obliga-simpson-retirar-capitulo-culpa-china-1197150'>Disney obliga a Los Simpson a retirar un capítulo por culpa de China</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/disney-obliga-simpson-retirar-capitulo-culpa-china-1197150' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/03/simpson-2255799.jpg?tf=1200x' alt='Disney obliga a Los Simpson a retirar un capítulo por culpa de China' />
     </a>
 </div>
 
