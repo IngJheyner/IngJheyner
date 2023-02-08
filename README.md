@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/netflix-cuentas-compartidas-suscriptores-extra-subcuentas-precio-oficial-1197368'>Netflix prohíbe hoy mismo las cuentas compartidas gratis: llegan las subcuentas, cuánto cuestan, te lo contamos todo</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/netflix-cuentas-compartidas-suscriptores-extra-subcuentas-precio-oficial-1197368' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/netflix-2923644.jpg?tf=1200x' alt='Netflix prohíbe hoy mismo las cuentas compartidas gratis: llegan las subcuentas, cuánto cuestan, te lo contamos todo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/moviles/elon-musk-impresionado-camara-movil-no-no-iphone-1197320'>Elon Musk impresionado por cámara de un móvil, y no, no es el iPhone</a></h4>
+    <a href='https://computerhoy.com/moviles/elon-musk-impresionado-camara-movil-no-no-iphone-1197320' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/fortuna-elon-musk-esfuma-twitter-tesla-son-agujero-perdidas-millonarias-2880111.jpg?tf=1200x' alt='Elon Musk impresionado por cámara de un móvil, y no, no es el iPhone' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/proponen-anadir-cuarto-color-semaforos-trafico-1197362'>Proponen añadir un cuarto color a los semáforos de tráfico</a></h4>
+    <a href='https://computerhoy.com/ciencia/proponen-anadir-cuarto-color-semaforos-trafico-1197362' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/semaforo-2950704.jpg?tf=1200x' alt='Proponen añadir un cuarto color a los semáforos de tráfico' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/pc/bill-gates-considera-ia-como-hito-tecnologico-tan-grande-como-invencion-ordenador-internet-1197360'>Bill Gates considera la IA como un hito tecnológico tan grande como la invención del ordenador o Internet</a></h4>
     <a href='https://computerhoy.com/pc/bill-gates-considera-ia-como-hito-tecnologico-tan-grande-como-invencion-ordenador-internet-1197360' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/bill-gates-2628607.jpg?tf=1200x' alt='Bill Gates considera la IA como un hito tecnológico tan grande como la invención del ordenador o Internet' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/ciencia/cuales-son-diferencias-ciencia-pseudociencia-1197268'>Cuáles son las diferencias entre ciencia y pseudociencia</a></h4>
     <a href='https://computerhoy.com/ciencia/cuales-son-diferencias-ciencia-pseudociencia-1197268' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/laboratorio-ciencia-2474569.jpg?tf=1200x' alt='Cuáles son las diferencias entre ciencia y pseudociencia' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/whatsapp-quiere-ser-zoom-gracias-nueva-caracteristica-1197274'>WhatsApp quiere ser Zoom gracias a esta nueva característica</a></h4>
-    <a href='https://computerhoy.com/apps/whatsapp-quiere-ser-zoom-gracias-nueva-caracteristica-1197274' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/whatsapp-selfie-2940376.jpg?tf=1200x' alt='WhatsApp quiere ser Zoom gracias a esta nueva característica' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/paso-a-paso/hardware/como-formatear-tu-disco-duro-completo-windows-cmd-62604'>Cómo formatear tu disco duro por completo con Windows y CMD</a></h4>
-    <a href='https://computerhoy.com/paso-a-paso/hardware/como-formatear-tu-disco-duro-completo-windows-cmd-62604' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2017/05/239118-formatear-disco-duro-instalar-windows-problema-formato-ntfs.jpg?tf=1200x' alt='Cómo formatear tu disco duro por completo con Windows y CMD' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/industria/detras-mayor-estafa-amazon-encuentran-tres-jovenes-espanoles-consiguieron-350000-euros-1197270'>Detrás de la mayor estafa a Amazon se encuentran tres jóvenes españoles: así consiguieron 350.000 euros</a></h4>
-    <a href='https://computerhoy.com/industria/detras-mayor-estafa-amazon-encuentran-tres-jovenes-espanoles-consiguieron-350000-euros-1197270' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/cajas-carton-amazon-2835827.jpg?tf=1200x' alt='Detrás de la mayor estafa a Amazon se encuentran tres jóvenes españoles: así consiguieron 350.000 euros' />
     </a>
 </div>
 
