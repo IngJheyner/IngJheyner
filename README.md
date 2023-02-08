@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/8-cosas-utiles-puedes-hacer-microsoft-onedrive-movil-android-1188412'>8 cosas útiles que puedes hacer con Microsoft OneDrive en tu móvil Android</a></h4>
+    <a href='https://computerhoy.com/tecnologia/8-cosas-utiles-puedes-hacer-microsoft-onedrive-movil-android-1188412' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/telefono-android-onedrive-2935164.jpg?tf=1200x' alt='8 cosas útiles que puedes hacer con Microsoft OneDrive en tu móvil Android' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/puedes-fusionar-eliminar-fotos-duplicadas-iphone-1181650'>Así puedes fusionar o eliminar fotos duplicadas en nuestro iPhone</a></h4>
+    <a href='https://computerhoy.com/tutoriales/puedes-fusionar-eliminar-fotos-duplicadas-iphone-1181650' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/foto-iphone-2923608.jpg?tf=1200x' alt='Así puedes fusionar o eliminar fotos duplicadas en nuestro iPhone' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/reloj-garmin-deportivo-nfc-pagos-moviles-1196502'>Este reloj Garmin es deportivo, pero sobre todo inteligente y a un precio rompedor</a></h4>
     <a href='https://computerhoy.com/tecnologia/reloj-garmin-deportivo-nfc-pagos-moviles-1196502' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/garmin-venu-2-2644061.jpg?tf=1200x' alt='Este reloj Garmin es deportivo, pero sobre todo inteligente y a un precio rompedor' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/ciberseguridad/riesgo-corres-aplazar-continuamente-instalacion-actualizaciones-smartphone-android-ios-1197132'>Este es el riesgo que corres al aplazar continuamente la instalación de actualizaciones en tu smartphone Android o iOS</a></h4>
     <a href='https://computerhoy.com/ciberseguridad/riesgo-corres-aplazar-continuamente-instalacion-actualizaciones-smartphone-android-ios-1197132' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/cual-tiempo-maximo-puedes-esperar-instalar-actualizacion-sistema-iphone-android-2950124.jpg?tf=1200x' alt='Este es el riesgo que corres al aplazar continuamente la instalación de actualizaciones en tu smartphone Android o iOS' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/industria/bill-gates-defiende-seguira-volando-avion-privado-mientras-lucha-cambio-climatico-1197102'>Bill Gates defiende que seguirá volando en avión privado mientras lucha por el cambio climático</a></h4>
-    <a href='https://computerhoy.com/industria/bill-gates-defiende-seguira-volando-avion-privado-mientras-lucha-cambio-climatico-1197102' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/bill-gates-defiende-seguira-volando-avion-privado-mientras-lucha-cambio-climatico-2950094.jpg?tf=1200x' alt='Bill Gates defiende que seguirá volando en avión privado mientras lucha por el cambio climático' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/mejores-paises-donde-puedes-conseguir-visado-nomada-digital-espana-primero-1197108'>Los mejores países donde puedes conseguir el visado de nómada digital: España es el primero</a></h4>
-    <a href='https://computerhoy.com/life/mejores-paises-donde-puedes-conseguir-visado-nomada-digital-espana-primero-1197108' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/nomada-digital-2950084.jpg?tf=1200x' alt='Los mejores países donde puedes conseguir el visado de nómada digital: España es el primero' />
     </a>
 </div>
 
