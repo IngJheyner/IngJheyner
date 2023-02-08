@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/paso-a-paso/hardware/como-formatear-tu-disco-duro-completo-windows-cmd-62604'>Cómo formatear tu disco duro por completo con Windows y CMD</a></h4>
+    <a href='https://computerhoy.com/paso-a-paso/hardware/como-formatear-tu-disco-duro-completo-windows-cmd-62604' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2017/05/239118-formatear-disco-duro-instalar-windows-problema-formato-ntfs.jpg?tf=1200x' alt='Cómo formatear tu disco duro por completo con Windows y CMD' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/industria/detras-mayor-estafa-amazon-encuentran-tres-jovenes-espanoles-consiguieron-350000-euros-1197270'>Detrás de la mayor estafa a Amazon se encuentran tres jóvenes españoles: así consiguieron 350.000 euros</a></h4>
+    <a href='https://computerhoy.com/industria/detras-mayor-estafa-amazon-encuentran-tres-jovenes-espanoles-consiguieron-350000-euros-1197270' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/cajas-carton-amazon-2835827.jpg?tf=1200x' alt='Detrás de la mayor estafa a Amazon se encuentran tres jóvenes españoles: así consiguieron 350.000 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-telefonos-inalambricos-897195'>Estos son los mejores teléfonos inalámbricos que puedes tener en casa</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-telefonos-inalambricos-897195' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/telefono-inalambrico-panasonic-kx-tg6852-2950098.jpg?tf=1200x' alt='Estos son los mejores teléfonos inalámbricos que puedes tener en casa' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/streaming/cambio-planes-warner-bros-desvela-ocurrira-hbo-max-discovery-2023-1197298'>Cambio de planes: Warner Bros desvela lo que ocurrirá con HBO Max y Discovery en 2023</a></h4>
     <a href='https://computerhoy.com/streaming/cambio-planes-warner-bros-desvela-ocurrira-hbo-max-discovery-2023-1197298' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/hbo-max-2778919.jpg?tf=1200x' alt='Cambio de planes: Warner Bros desvela lo que ocurrirá con HBO Max y Discovery en 2023' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/tutoriales/truco-cambiar-rapido-pestanas-chrome-1193298'>Truco para cambiar más rápido entre pestañas de Chrome</a></h4>
     <a href='https://computerhoy.com/tutoriales/truco-cambiar-rapido-pestanas-chrome-1193298' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/google-chrome-2943032.jpg?tf=1200x' alt='Truco para cambiar más rápido entre pestañas de Chrome' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/industria/entrega-premios-computer-hoy-2022-estos-son-todos-ganadores-1197128'>Entrega de los Premios Computer Hoy 2022: estos son todos los ganadores</a></h4>
-    <a href='https://computerhoy.com/industria/entrega-premios-computer-hoy-2022-estos-son-todos-ganadores-1197128' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/ganadores-premios-computer-hoy-2022-2950478.jpg?tf=1200x' alt='Entrega de los Premios Computer Hoy 2022: estos son todos los ganadores' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-activar-utilizar-nuevo-mezclador-volumen-windows-11-1195146'>Cómo activar y utilizar el nuevo mezclador de volumen de Windows 11</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-activar-utilizar-nuevo-mezclador-volumen-windows-11-1195146' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/volumen-windows-11-2946690.jpg?tf=1200x' alt='Cómo activar y utilizar el nuevo mezclador de volumen de Windows 11' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/8-cosas-utiles-puedes-hacer-microsoft-onedrive-movil-android-1188412'>8 cosas útiles que puedes hacer con Microsoft OneDrive en tu móvil Android</a></h4>
-    <a href='https://computerhoy.com/tecnologia/8-cosas-utiles-puedes-hacer-microsoft-onedrive-movil-android-1188412' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/telefono-android-onedrive-2935164.jpg?tf=1200x' alt='8 cosas útiles que puedes hacer con Microsoft OneDrive en tu móvil Android' />
     </a>
 </div>
 
