@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/31-noticias-tecnologia-comenzar-manana-informado-ultimo-1197032'>31 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
-    <a href='https://computerhoy.com/tecnologia/31-noticias-tecnologia-comenzar-manana-informado-ultimo-1197032' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/31-noticias-tecnologia-comenzar-manana-informado-ultimo-2949938.jpg?tf=1200x' alt='31 noticias de tecnología para comenzar la mañana informado de lo último' />
+    <h4><a href='https://computerhoy.com/tecnologia/11-alternativas-muchos-consideran-mejor-youtube-1188808'>11 alternativas que muchos consideran mejor que YouTube</a></h4>
+    <a href='https://computerhoy.com/tecnologia/11-alternativas-muchos-consideran-mejor-youtube-1188808' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/youtube-odenador-2935730.jpg?tf=1200x' alt='11 alternativas que muchos consideran mejor que YouTube' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/rebajas-poco-moviles-auriculares-relojes-precio-derribo-1196686'>Rebajas en POCO: móviles, auriculares y relojes a precio de derribo</a></h4>
-    <a href='https://computerhoy.com/tecnologia/rebajas-poco-moviles-auriculares-relojes-precio-derribo-1196686' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/poco-x5-pro-5g-2948376.jpg?tf=1200x' alt='Rebajas en POCO: móviles, auriculares y relojes a precio de derribo' />
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-reproductores-mp3-1021775'>Mejores reproductores MP3 a la vieja usanza que puedes comprar</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-reproductores-mp3-1021775' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/sandisk-clip-2633417.jpg?tf=1200x' alt='Mejores reproductores MP3 a la vieja usanza que puedes comprar' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/satelite-espanol-amazonas-nexus-hispasat-spacex-video-1197030'>Así ha puesto en órbita SpaceX el revolucionario satélite español Amazonas Nexus de Hispasat (vídeo)</a></h4>
-    <a href='https://computerhoy.com/espacio/satelite-espanol-amazonas-nexus-hispasat-spacex-video-1197030' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/ha-puesto-orbita-spacex-revolucionario-satelite-espanol-hispasat-amazonas-nexus-video-2949726.jpg?tf=1200x' alt='Así ha puesto en órbita SpaceX el revolucionario satélite español Amazonas Nexus de Hispasat (vídeo)' />
+    <h4><a href='https://computerhoy.com/tutoriales/como-controlar-movil-movimientos-necesidad-tocar-pantalla-1195426'>Cómo controlar tu móvil con movimientos sin necesidad de tocar la pantalla</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-controlar-movil-movimientos-necesidad-tocar-pantalla-1195426' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/smartphone-2947032.jpg?tf=1200x' alt='Cómo controlar tu móvil con movimientos sin necesidad de tocar la pantalla' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/bicicleta-electrica-decathlon-plegable-descuento-1196810'>Esta bicicleta eléctrica de Decathlon es plegable y tiene el descuento que necesitas</a></h4>
-    <a href='https://computerhoy.com/motor/bicicleta-electrica-decathlon-plegable-descuento-1196810' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/bicicleta-electrica-decathlon-plegable-tiene-descuento-necesitas-2949722.jpg?tf=1200x' alt='Esta bicicleta eléctrica de Decathlon es plegable y tiene el descuento que necesitas' />
+    <h4><a href='https://computerhoy.com/patrocinado/necesitas-papel-fotografico-impresora-bolsillo-compralo-ahorrandote-buen-dinero-gracias-aliexpress-1195192'>¿Necesitas papel fotográfico para tu impresora de bolsillo? cómpralo ahorrándote un buen dinero gracias a AliExpress</a></h4>
+    <a href='https://computerhoy.com/patrocinado/necesitas-papel-fotografico-impresora-bolsillo-compralo-ahorrandote-buen-dinero-gracias-aliexpress-1195192' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/papel-fotografico-2946772.jpg?tf=1200x' alt='¿Necesitas papel fotográfico para tu impresora de bolsillo? cómpralo ahorrándote un buen dinero gracias a AliExpress' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/microsoft-va-google-integra-chatgpt-bing-ya-puedes-probar-1196804'>Microsoft va a por Google: integra ChatGPT en Bing, y ya lo puedes probar</a></h4>
-    <a href='https://computerhoy.com/internet/microsoft-va-google-integra-chatgpt-bing-ya-puedes-probar-1196804' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/microsoft-va-google-integra-chatgpt-bing-ya-puedes-probar-2949674.jpg?tf=1200x' alt='Microsoft va a por Google: integra ChatGPT en Bing, y ya lo puedes probar' />
+    <h4><a href='https://computerhoy.com/patrocinado/auriculares-inalambricos-cancelacion-ruido-bluetooth-52-precio-muy-asequible-1195162'>Auriculares inalámbricos con cancelación de ruido y Bluetooth 5.2 por un precio muy asequible</a></h4>
+    <a href='https://computerhoy.com/patrocinado/auriculares-inalambricos-cancelacion-ruido-bluetooth-52-precio-muy-asequible-1195162' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/redmi-buds-3-lite-2946754.jpg?tf=1200x' alt='Auriculares inalámbricos con cancelación de ruido y Bluetooth 5.2 por un precio muy asequible' />
     </a>
 </div>
 
