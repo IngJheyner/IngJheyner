@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/motor/bicicleta-electrica-decathlon-plegable-descuento-1196810'>Esta bicicleta eléctrica de Decathlon es plegable y tiene el descuento que necesitas</a></h4>
+    <a href='https://computerhoy.com/motor/bicicleta-electrica-decathlon-plegable-descuento-1196810' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/bicicleta-electrica-decathlon-plegable-tiene-descuento-necesitas-2949722.jpg?tf=1200x' alt='Esta bicicleta eléctrica de Decathlon es plegable y tiene el descuento que necesitas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/internet/microsoft-va-google-integra-chatgpt-bing-ya-puedes-probar-1196804'>Microsoft va a por Google: integra ChatGPT en Bing, y ya lo puedes probar</a></h4>
     <a href='https://computerhoy.com/internet/microsoft-va-google-integra-chatgpt-bing-ya-puedes-probar-1196804' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/microsoft-va-google-integra-chatgpt-bing-ya-puedes-probar-2949674.jpg?tf=1200x' alt='Microsoft va a por Google: integra ChatGPT en Bing, y ya lo puedes probar' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/life/estos-son-asientos-seguros-avion-caso-accidente-1196790'>Estos son los asientos más seguros de un avión en caso de accidente</a></h4>
     <a href='https://computerhoy.com/life/estos-son-asientos-seguros-avion-caso-accidente-1196790' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/estos-son-asientos-seguros-avion-caso-accidente-2949660.jpg?tf=1200x' alt='Estos son los asientos más seguros de un avión en caso de accidente' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/descubre-planeta-identico-tierra-donde-anos-solo-duran-4-dias-1196734'>Descubre un planeta idéntico a la Tierra donde los años solo duran 4 días</a></h4>
-    <a href='https://computerhoy.com/espacio/descubre-planeta-identico-tierra-donde-anos-solo-duran-4-dias-1196734' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/tierra-2941442.jpg?tf=1200x' alt='Descubre un planeta idéntico a la Tierra donde los años solo duran 4 días' />
     </a>
 </div>
 
