@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/streaming/cambio-planes-warner-bros-desvela-ocurrira-hbo-max-discovery-2023-1197298'>Cambio de planes: Warner Bros desvela lo que ocurrirá con HBO Max y Discovery en 2023</a></h4>
+    <a href='https://computerhoy.com/streaming/cambio-planes-warner-bros-desvela-ocurrira-hbo-max-discovery-2023-1197298' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/hbo-max-2778919.jpg?tf=1200x' alt='Cambio de planes: Warner Bros desvela lo que ocurrirá con HBO Max y Discovery en 2023' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tutoriales/truco-cambiar-rapido-pestanas-chrome-1193298'>Truco para cambiar más rápido entre pestañas de Chrome</a></h4>
     <a href='https://computerhoy.com/tutoriales/truco-cambiar-rapido-pestanas-chrome-1193298' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/google-chrome-2943032.jpg?tf=1200x' alt='Truco para cambiar más rápido entre pestañas de Chrome' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/8-cosas-utiles-puedes-hacer-microsoft-onedrive-movil-android-1188412'>8 cosas útiles que puedes hacer con Microsoft OneDrive en tu móvil Android</a></h4>
     <a href='https://computerhoy.com/tecnologia/8-cosas-utiles-puedes-hacer-microsoft-onedrive-movil-android-1188412' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/telefono-android-onedrive-2935164.jpg?tf=1200x' alt='8 cosas útiles que puedes hacer con Microsoft OneDrive en tu móvil Android' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/puedes-fusionar-eliminar-fotos-duplicadas-iphone-1181650'>Así puedes fusionar o eliminar fotos duplicadas en nuestro iPhone</a></h4>
-    <a href='https://computerhoy.com/tutoriales/puedes-fusionar-eliminar-fotos-duplicadas-iphone-1181650' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/foto-iphone-2923608.jpg?tf=1200x' alt='Así puedes fusionar o eliminar fotos duplicadas en nuestro iPhone' />
     </a>
 </div>
 
