@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/pc/bill-gates-considera-ia-como-hito-tecnologico-tan-grande-como-invencion-ordenador-internet-1197360'>Bill Gates considera la IA como un hito tecnológico tan grande como la invención del ordenador o Internet</a></h4>
+    <a href='https://computerhoy.com/pc/bill-gates-considera-ia-como-hito-tecnologico-tan-grande-como-invencion-ordenador-internet-1197360' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/bill-gates-2628607.jpg?tf=1200x' alt='Bill Gates considera la IA como un hito tecnológico tan grande como la invención del ordenador o Internet' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/cuales-son-diferencias-ciencia-pseudociencia-1197268'>Cuáles son las diferencias entre ciencia y pseudociencia</a></h4>
+    <a href='https://computerhoy.com/ciencia/cuales-son-diferencias-ciencia-pseudociencia-1197268' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/laboratorio-ciencia-2474569.jpg?tf=1200x' alt='Cuáles son las diferencias entre ciencia y pseudociencia' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/whatsapp-quiere-ser-zoom-gracias-nueva-caracteristica-1197274'>WhatsApp quiere ser Zoom gracias a esta nueva característica</a></h4>
+    <a href='https://computerhoy.com/apps/whatsapp-quiere-ser-zoom-gracias-nueva-caracteristica-1197274' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/whatsapp-selfie-2940376.jpg?tf=1200x' alt='WhatsApp quiere ser Zoom gracias a esta nueva característica' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/paso-a-paso/hardware/como-formatear-tu-disco-duro-completo-windows-cmd-62604'>Cómo formatear tu disco duro por completo con Windows y CMD</a></h4>
     <a href='https://computerhoy.com/paso-a-paso/hardware/como-formatear-tu-disco-duro-completo-windows-cmd-62604' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2017/05/239118-formatear-disco-duro-instalar-windows-problema-formato-ntfs.jpg?tf=1200x' alt='Cómo formatear tu disco duro por completo con Windows y CMD' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/industria/detras-mayor-estafa-amazon-encuentran-tres-jovenes-espanoles-consiguieron-350000-euros-1197270'>Detrás de la mayor estafa a Amazon se encuentran tres jóvenes españoles: así consiguieron 350.000 euros</a></h4>
     <a href='https://computerhoy.com/industria/detras-mayor-estafa-amazon-encuentran-tres-jovenes-espanoles-consiguieron-350000-euros-1197270' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/cajas-carton-amazon-2835827.jpg?tf=1200x' alt='Detrás de la mayor estafa a Amazon se encuentran tres jóvenes españoles: así consiguieron 350.000 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-telefonos-inalambricos-897195'>Estos son los mejores teléfonos inalámbricos que puedes tener en casa</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-telefonos-inalambricos-897195' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/telefono-inalambrico-panasonic-kx-tg6852-2950098.jpg?tf=1200x' alt='Estos son los mejores teléfonos inalámbricos que puedes tener en casa' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/streaming/cambio-planes-warner-bros-desvela-ocurrira-hbo-max-discovery-2023-1197298'>Cambio de planes: Warner Bros desvela lo que ocurrirá con HBO Max y Discovery en 2023</a></h4>
-    <a href='https://computerhoy.com/streaming/cambio-planes-warner-bros-desvela-ocurrira-hbo-max-discovery-2023-1197298' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/hbo-max-2778919.jpg?tf=1200x' alt='Cambio de planes: Warner Bros desvela lo que ocurrirá con HBO Max y Discovery en 2023' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/truco-cambiar-rapido-pestanas-chrome-1193298'>Truco para cambiar más rápido entre pestañas de Chrome</a></h4>
-    <a href='https://computerhoy.com/tutoriales/truco-cambiar-rapido-pestanas-chrome-1193298' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/google-chrome-2943032.jpg?tf=1200x' alt='Truco para cambiar más rápido entre pestañas de Chrome' />
     </a>
 </div>
 
