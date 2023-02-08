@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/ia-crea-bocetos-hiperrealistas-sospechosos-policiales-pero-podria-convertirse-problema-1197068'>Esta IA crea bocetos hiperrealistas de sospechosos policiales, pero podría convertirse en un problema</a></h4>
+    <a href='https://computerhoy.com/tecnologia/ia-crea-bocetos-hiperrealistas-sospechosos-policiales-pero-podria-convertirse-problema-1197068' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/ia-colabora-policia-creando-caricaturas-hiperrealistas-sospechosos-2949988.jpg?tf=1200x' alt='Esta IA crea bocetos hiperrealistas de sospechosos policiales, pero podría convertirse en un problema' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/patrocinado/te-vas-enamorar-san-valentinde-precios-tiene-aliexpress-ti-1196020'>¡Te vas a enamorar en este San Valentín...de los precios que tiene AliExpress para ti!</a></h4>
+    <a href='https://computerhoy.com/patrocinado/te-vas-enamorar-san-valentinde-precios-tiene-aliexpress-ti-1196020' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/san-valentin-aliexpress-2948116.jpg?tf=1200x' alt='¡Te vas a enamorar en este San Valentín...de los precios que tiene AliExpress para ti!' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/iphone-14-oferta-150-euros-descuento-1196476'>El iPhone 14 por 160 euros menos: es posible y es un chollo Made in Spain</a></h4>
+    <a href='https://computerhoy.com/tecnologia/iphone-14-oferta-150-euros-descuento-1196476' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/iphone-14-2948946.jpg?tf=1200x' alt='El iPhone 14 por 160 euros menos: es posible y es un chollo Made in Spain' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/patrocinado/telefono-querias-tener-ahora-debajo-200-euros-1196078'>El teléfono que querías tener, ahora por debajo de los 200 euros</a></h4>
+    <a href='https://computerhoy.com/patrocinado/telefono-querias-tener-ahora-debajo-200-euros-1196078' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/poco-m5s-2920622.jpg?tf=1200x' alt='El teléfono que querías tener, ahora por debajo de los 200 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/patrocinado/vaya-ocasion-descuento-28-tablet-tiene-aprovechar-1196052'>¡Vaya ocasión! un descuento del 28% en esta tablet se tiene que aprovechar</a></h4>
     <a href='https://computerhoy.com/patrocinado/vaya-ocasion-descuento-28-tablet-tiene-aprovechar-1196052' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/redmi-pad-4g-deja-ver-completo-filtrado-diseno-especificaciones-completo-2827341.jpg?tf=1200x' alt='¡Vaya ocasión! un descuento del 28% en esta tablet se tiene que aprovechar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/como-sacarse-mejor-selfie-5-consejos-marcaran-diferencia-1197054'>Cómo sacarse la mejor selfie: 5 consejos que marcarán la diferencia</a></h4>
-    <a href='https://computerhoy.com/life/como-sacarse-mejor-selfie-5-consejos-marcaran-diferencia-1197054' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/como-sacarse-mejor-selfie-5-consejos-marcaran-diferencia-2949968.jpg?tf=1200x' alt='Cómo sacarse la mejor selfie: 5 consejos que marcarán la diferencia' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/energia/uso-podriamos-deberiamos-dar-baterias-coches-electricos-siniestrados-1197052'>El uso que podríamos y deberíamos dar a las baterías de los coches eléctricos siniestrados</a></h4>
-    <a href='https://computerhoy.com/energia/uso-podriamos-deberiamos-dar-baterias-coches-electricos-siniestrados-1197052' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/granja-solar-baterias-placas-solares-2949970.jpg?tf=1200x' alt='El uso que podríamos y deberíamos dar a las baterías de los coches eléctricos siniestrados' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/11-alternativas-muchos-consideran-mejor-youtube-1188808'>11 alternativas que muchos consideran mejor que YouTube</a></h4>
-    <a href='https://computerhoy.com/tecnologia/11-alternativas-muchos-consideran-mejor-youtube-1188808' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/youtube-odenador-2935730.jpg?tf=1200x' alt='11 alternativas que muchos consideran mejor que YouTube' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-reproductores-mp3-1021775'>Mejores reproductores MP3 a la vieja usanza que puedes comprar</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-reproductores-mp3-1021775' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/sandisk-clip-2633417.jpg?tf=1200x' alt='Mejores reproductores MP3 a la vieja usanza que puedes comprar' />
     </a>
 </div>
 
