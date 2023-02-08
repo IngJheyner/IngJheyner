@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/reloj-garmin-deportivo-nfc-pagos-moviles-1196502'>Este reloj Garmin es deportivo, pero sobre todo inteligente y a un precio rompedor</a></h4>
+    <a href='https://computerhoy.com/tecnologia/reloj-garmin-deportivo-nfc-pagos-moviles-1196502' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/garmin-venu-2-2644061.jpg?tf=1200x' alt='Este reloj Garmin es deportivo, pero sobre todo inteligente y a un precio rompedor' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/disney-obliga-simpson-retirar-capitulo-culpa-china-1197150'>Disney obliga a Los Simpson a retirar un capítulo por culpa de China</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/disney-obliga-simpson-retirar-capitulo-culpa-china-1197150' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/03/simpson-2255799.jpg?tf=1200x' alt='Disney obliga a Los Simpson a retirar un capítulo por culpa de China' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/riesgo-corres-aplazar-continuamente-instalacion-actualizaciones-smartphone-android-ios-1197132'>Este es el riesgo que corres al aplazar continuamente la instalación de actualizaciones en tu smartphone Android o iOS</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/riesgo-corres-aplazar-continuamente-instalacion-actualizaciones-smartphone-android-ios-1197132' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/cual-tiempo-maximo-puedes-esperar-instalar-actualizacion-sistema-iphone-android-2950124.jpg?tf=1200x' alt='Este es el riesgo que corres al aplazar continuamente la instalación de actualizaciones en tu smartphone Android o iOS' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/industria/bill-gates-defiende-seguira-volando-avion-privado-mientras-lucha-cambio-climatico-1197102'>Bill Gates defiende que seguirá volando en avión privado mientras lucha por el cambio climático</a></h4>
     <a href='https://computerhoy.com/industria/bill-gates-defiende-seguira-volando-avion-privado-mientras-lucha-cambio-climatico-1197102' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/bill-gates-defiende-seguira-volando-avion-privado-mientras-lucha-cambio-climatico-2950094.jpg?tf=1200x' alt='Bill Gates defiende que seguirá volando en avión privado mientras lucha por el cambio climático' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/life/mejores-paises-donde-puedes-conseguir-visado-nomada-digital-espana-primero-1197108'>Los mejores países donde puedes conseguir el visado de nómada digital: España es el primero</a></h4>
     <a href='https://computerhoy.com/life/mejores-paises-donde-puedes-conseguir-visado-nomada-digital-espana-primero-1197108' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/nomada-digital-2950084.jpg?tf=1200x' alt='Los mejores países donde puedes conseguir el visado de nómada digital: España es el primero' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/cosas-podras-hacer-ahora-microsoft-ha-integrado-inteligencia-artificial-bing-1197082'>Las cosas que podrás hacer ahora que Microsoft ha integrado la inteligencia artificial a Bing</a></h4>
-    <a href='https://computerhoy.com/windows/cosas-podras-hacer-ahora-microsoft-ha-integrado-inteligencia-artificial-bing-1197082' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/microsoft-bing-2950030.jpg?tf=1200x' alt='Las cosas que podrás hacer ahora que Microsoft ha integrado la inteligencia artificial a Bing' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/ia-crea-bocetos-hiperrealistas-sospechosos-policiales-pero-podria-convertirse-problema-1197068'>Esta IA crea bocetos hiperrealistas de sospechosos policiales, pero podría convertirse en un problema</a></h4>
-    <a href='https://computerhoy.com/tecnologia/ia-crea-bocetos-hiperrealistas-sospechosos-policiales-pero-podria-convertirse-problema-1197068' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/ia-colabora-policia-creando-caricaturas-hiperrealistas-sospechosos-2949988.jpg?tf=1200x' alt='Esta IA crea bocetos hiperrealistas de sospechosos policiales, pero podría convertirse en un problema' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/patrocinado/te-vas-enamorar-san-valentinde-precios-tiene-aliexpress-ti-1196020'>¡Te vas a enamorar en este San Valentín...de los precios que tiene AliExpress para ti!</a></h4>
-    <a href='https://computerhoy.com/patrocinado/te-vas-enamorar-san-valentinde-precios-tiene-aliexpress-ti-1196020' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/san-valentin-aliexpress-2948116.jpg?tf=1200x' alt='¡Te vas a enamorar en este San Valentín...de los precios que tiene AliExpress para ti!' />
     </a>
 </div>
 
