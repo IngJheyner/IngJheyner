@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/patrocinado/vaya-ocasion-descuento-28-tablet-tiene-aprovechar-1196052'>¡Vaya ocasión! un descuento del 28% en esta tablet se tiene que aprovechar</a></h4>
+    <a href='https://computerhoy.com/patrocinado/vaya-ocasion-descuento-28-tablet-tiene-aprovechar-1196052' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/redmi-pad-4g-deja-ver-completo-filtrado-diseno-especificaciones-completo-2827341.jpg?tf=1200x' alt='¡Vaya ocasión! un descuento del 28% en esta tablet se tiene que aprovechar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/como-sacarse-mejor-selfie-5-consejos-marcaran-diferencia-1197054'>Cómo sacarse la mejor selfie: 5 consejos que marcarán la diferencia</a></h4>
+    <a href='https://computerhoy.com/life/como-sacarse-mejor-selfie-5-consejos-marcaran-diferencia-1197054' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/como-sacarse-mejor-selfie-5-consejos-marcaran-diferencia-2949968.jpg?tf=1200x' alt='Cómo sacarse la mejor selfie: 5 consejos que marcarán la diferencia' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/energia/uso-podriamos-deberiamos-dar-baterias-coches-electricos-siniestrados-1197052'>El uso que podríamos y deberíamos dar a las baterías de los coches eléctricos siniestrados</a></h4>
+    <a href='https://computerhoy.com/energia/uso-podriamos-deberiamos-dar-baterias-coches-electricos-siniestrados-1197052' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/granja-solar-baterias-placas-solares-2949970.jpg?tf=1200x' alt='El uso que podríamos y deberíamos dar a las baterías de los coches eléctricos siniestrados' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/11-alternativas-muchos-consideran-mejor-youtube-1188808'>11 alternativas que muchos consideran mejor que YouTube</a></h4>
     <a href='https://computerhoy.com/tecnologia/11-alternativas-muchos-consideran-mejor-youtube-1188808' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/youtube-odenador-2935730.jpg?tf=1200x' alt='11 alternativas que muchos consideran mejor que YouTube' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-reproductores-mp3-1021775'>Mejores reproductores MP3 a la vieja usanza que puedes comprar</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/mejores-reproductores-mp3-1021775' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/sandisk-clip-2633417.jpg?tf=1200x' alt='Mejores reproductores MP3 a la vieja usanza que puedes comprar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-controlar-movil-movimientos-necesidad-tocar-pantalla-1195426'>Cómo controlar tu móvil con movimientos sin necesidad de tocar la pantalla</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-controlar-movil-movimientos-necesidad-tocar-pantalla-1195426' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/smartphone-2947032.jpg?tf=1200x' alt='Cómo controlar tu móvil con movimientos sin necesidad de tocar la pantalla' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/patrocinado/necesitas-papel-fotografico-impresora-bolsillo-compralo-ahorrandote-buen-dinero-gracias-aliexpress-1195192'>¿Necesitas papel fotográfico para tu impresora de bolsillo? cómpralo ahorrándote un buen dinero gracias a AliExpress</a></h4>
-    <a href='https://computerhoy.com/patrocinado/necesitas-papel-fotografico-impresora-bolsillo-compralo-ahorrandote-buen-dinero-gracias-aliexpress-1195192' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/papel-fotografico-2946772.jpg?tf=1200x' alt='¿Necesitas papel fotográfico para tu impresora de bolsillo? cómpralo ahorrándote un buen dinero gracias a AliExpress' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/patrocinado/auriculares-inalambricos-cancelacion-ruido-bluetooth-52-precio-muy-asequible-1195162'>Auriculares inalámbricos con cancelación de ruido y Bluetooth 5.2 por un precio muy asequible</a></h4>
-    <a href='https://computerhoy.com/patrocinado/auriculares-inalambricos-cancelacion-ruido-bluetooth-52-precio-muy-asequible-1195162' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/redmi-buds-3-lite-2946754.jpg?tf=1200x' alt='Auriculares inalámbricos con cancelación de ruido y Bluetooth 5.2 por un precio muy asequible' />
     </a>
 </div>
 
