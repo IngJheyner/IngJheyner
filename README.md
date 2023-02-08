@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/espacio/satelite-espanol-amazonas-nexus-hispasat-spacex-video-1197030'>Así ha puesto en órbita SpaceX el revolucionario satélite español Amazonas Nexus de Hispasat (vídeo)</a></h4>
+    <a href='https://computerhoy.com/espacio/satelite-espanol-amazonas-nexus-hispasat-spacex-video-1197030' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/ha-puesto-orbita-spacex-revolucionario-satelite-espanol-hispasat-amazonas-nexus-video-2949726.jpg?tf=1200x' alt='Así ha puesto en órbita SpaceX el revolucionario satélite español Amazonas Nexus de Hispasat (vídeo)' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/motor/bicicleta-electrica-decathlon-plegable-descuento-1196810'>Esta bicicleta eléctrica de Decathlon es plegable y tiene el descuento que necesitas</a></h4>
     <a href='https://computerhoy.com/motor/bicicleta-electrica-decathlon-plegable-descuento-1196810' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/bicicleta-electrica-decathlon-plegable-tiene-descuento-necesitas-2949722.jpg?tf=1200x' alt='Esta bicicleta eléctrica de Decathlon es plegable y tiene el descuento que necesitas' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/entretenimiento/berlin-spin-off-la-casa-de-papel-trailer-1196792'>Berlín, el esperado spin-off de La casa de papel, se desvela en un tráiler</a></h4>
     <a href='https://computerhoy.com/entretenimiento/berlin-spin-off-la-casa-de-papel-trailer-1196792' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/verticalimage1675799657470-2949642.jpg?tf=1200x' alt='Berlín, el esperado spin-off de La casa de papel, se desvela en un tráiler' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/estos-son-asientos-seguros-avion-caso-accidente-1196790'>Estos son los asientos más seguros de un avión en caso de accidente</a></h4>
-    <a href='https://computerhoy.com/life/estos-son-asientos-seguros-avion-caso-accidente-1196790' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/estos-son-asientos-seguros-avion-caso-accidente-2949660.jpg?tf=1200x' alt='Estos son los asientos más seguros de un avión en caso de accidente' />
     </a>
 </div>
 
