@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-activar-utilizar-nuevo-mezclador-volumen-windows-11-1195146'>Cómo activar y utilizar el nuevo mezclador de volumen de Windows 11</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-activar-utilizar-nuevo-mezclador-volumen-windows-11-1195146' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/volumen-windows-11-2946690.jpg?tf=1200x' alt='Cómo activar y utilizar el nuevo mezclador de volumen de Windows 11' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/8-cosas-utiles-puedes-hacer-microsoft-onedrive-movil-android-1188412'>8 cosas útiles que puedes hacer con Microsoft OneDrive en tu móvil Android</a></h4>
     <a href='https://computerhoy.com/tecnologia/8-cosas-utiles-puedes-hacer-microsoft-onedrive-movil-android-1188412' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/telefono-android-onedrive-2935164.jpg?tf=1200x' alt='8 cosas útiles que puedes hacer con Microsoft OneDrive en tu móvil Android' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/entretenimiento/disney-obliga-simpson-retirar-capitulo-culpa-china-1197150'>Disney obliga a Los Simpson a retirar un capítulo por culpa de China</a></h4>
     <a href='https://computerhoy.com/entretenimiento/disney-obliga-simpson-retirar-capitulo-culpa-china-1197150' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/03/simpson-2255799.jpg?tf=1200x' alt='Disney obliga a Los Simpson a retirar un capítulo por culpa de China' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/riesgo-corres-aplazar-continuamente-instalacion-actualizaciones-smartphone-android-ios-1197132'>Este es el riesgo que corres al aplazar continuamente la instalación de actualizaciones en tu smartphone Android o iOS</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/riesgo-corres-aplazar-continuamente-instalacion-actualizaciones-smartphone-android-ios-1197132' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/cual-tiempo-maximo-puedes-esperar-instalar-actualizacion-sistema-iphone-android-2950124.jpg?tf=1200x' alt='Este es el riesgo que corres al aplazar continuamente la instalación de actualizaciones en tu smartphone Android o iOS' />
     </a>
 </div>
 
