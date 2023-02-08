@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/hogar/bombilla-led-inteligente-wifi-primera-marca-descuento-1197380'>Esta bombilla LED inteligente con WiFi de primera marca, tiene un 33% de descuento</a></h4>
+    <a href='https://computerhoy.com/hogar/bombilla-led-inteligente-wifi-primera-marca-descuento-1197380' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/bombilla-led-wifi-primera-marca-tiene-33-descuento-2950792.jpg?tf=1200x' alt='Esta bombilla LED inteligente con WiFi de primera marca, tiene un 33% de descuento' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/entretenimiento/netflix-cuentas-compartidas-suscriptores-extra-subcuentas-precio-oficial-1197368'>Netflix prohíbe hoy mismo las cuentas compartidas gratis: llegan las subcuentas, cuánto cuestan, te lo contamos todo</a></h4>
     <a href='https://computerhoy.com/entretenimiento/netflix-cuentas-compartidas-suscriptores-extra-subcuentas-precio-oficial-1197368' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/netflix-2923644.jpg?tf=1200x' alt='Netflix prohíbe hoy mismo las cuentas compartidas gratis: llegan las subcuentas, cuánto cuestan, te lo contamos todo' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/pc/bill-gates-considera-ia-como-hito-tecnologico-tan-grande-como-invencion-ordenador-internet-1197360'>Bill Gates considera la IA como un hito tecnológico tan grande como la invención del ordenador o Internet</a></h4>
     <a href='https://computerhoy.com/pc/bill-gates-considera-ia-como-hito-tecnologico-tan-grande-como-invencion-ordenador-internet-1197360' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/bill-gates-2628607.jpg?tf=1200x' alt='Bill Gates considera la IA como un hito tecnológico tan grande como la invención del ordenador o Internet' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/cuales-son-diferencias-ciencia-pseudociencia-1197268'>Cuáles son las diferencias entre ciencia y pseudociencia</a></h4>
-    <a href='https://computerhoy.com/ciencia/cuales-son-diferencias-ciencia-pseudociencia-1197268' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/laboratorio-ciencia-2474569.jpg?tf=1200x' alt='Cuáles son las diferencias entre ciencia y pseudociencia' />
     </a>
 </div>
 
