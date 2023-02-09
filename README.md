@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/whatsapp-quiere-no-tengas-escuchar-nunca-nota-voz-1197892'>WhatsApp quiere que no tengas que escuchar nunca más una nota de voz</a></h4>
+    <a href='https://computerhoy.com/apps/whatsapp-quiere-no-tengas-escuchar-nunca-nota-voz-1197892' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/whatsapp-te-dejara-fijar-mensajes-importantes-chats-nueva-funcion-2945968.jpg?tf=1200x' alt='WhatsApp quiere que no tengas que escuchar nunca más una nota de voz' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/energia/paneles-solares-espacio-solucionar-crisis-energetica-mundial-1197862'>Paneles solares en el espacio para solucionar la crisis energética mundial</a></h4>
     <a href='https://computerhoy.com/energia/paneles-solares-espacio-solucionar-crisis-energetica-mundial-1197862' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/paneles-solares-espacio-2951722.jpg?tf=1200x' alt='Paneles solares en el espacio para solucionar la crisis energética mundial' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/chatgpt-vs-google-bard-estas-son-principales-diferencias-cual-mejor-1197780'>ChatGPT vs. Google Bard: estas son sus principales diferencias, ¿cuál es mejor?</a></h4>
     <a href='https://computerhoy.com/tecnologia/chatgpt-vs-google-bard-estas-son-principales-diferencias-cual-mejor-1197780' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/chatgpt-vs-google-bard-principales-diferencias-cual-mejor-2951532.jpg?tf=1200x' alt='ChatGPT vs. Google Bard: estas son sus principales diferencias, ¿cuál es mejor?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tv/desarticulan-mayores-redes-iptv-gratis-android-tv-pirata-1197770'>Desarticulan una de las mayores redes IPTV gratis y Android TV pirata</a></h4>
-    <a href='https://computerhoy.com/tv/desarticulan-mayores-redes-iptv-gratis-android-tv-pirata-1197770' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/iptv-2852443.jpg?tf=1200x' alt='Desarticulan una de las mayores redes IPTV gratis y Android TV pirata' />
     </a>
 </div>
 
