@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/redes-sociales/twitter-sufriendo-problemas-no-deja-ni-enviar-tuits-ni-seguir-cuentas-sabemos-1197678'>Twitter está sufriendo problemas y no deja ni enviar tuits ni seguir cuentas: esto lo que sabemos</a></h4>
+    <a href='https://computerhoy.com/redes-sociales/twitter-sufriendo-problemas-no-deja-ni-enviar-tuits-ni-seguir-cuentas-sabemos-1197678' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/twitter-2676209.jpg?tf=1200x' alt='Twitter está sufriendo problemas y no deja ni enviar tuits ni seguir cuentas: esto lo que sabemos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/poco-x5-pro-6-gb-ram-aliexpress-plaza-1196626'>POCO revienta el mercado: su nuevo POCO X5 Pro con 6 GB de RAM ya cae a menos de 300€</a></h4>
+    <a href='https://computerhoy.com/tecnologia/poco-x5-pro-6-gb-ram-aliexpress-plaza-1196626' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/poco-x5-poco-x5-pro-2947948.jpg?tf=1200x' alt='POCO revienta el mercado: su nuevo POCO X5 Pro con 6 GB de RAM ya cae a menos de 300€' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/estos-dos-nuevos-modelos-ia-convierten-perfectos-editores-video-audio-simple-clic-1197680'>Estos dos nuevos modelos de IA se convierten en los perfectos editores de vídeo y audio con un simple clic</a></h4>
+    <a href='https://computerhoy.com/tecnologia/estos-dos-nuevos-modelos-ia-convierten-perfectos-editores-video-audio-simple-clic-1197680' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/estos-dos-nuevos-modelos-ia-convierten-perfectos-editores-video-audio-simple-clic-2951300.jpg?tf=1200x' alt='Estos dos nuevos modelos de IA se convierten en los perfectos editores de vídeo y audio con un simple clic' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/entretenimiento/disney-acaba-anunciar-trabajando-tres-nuevas-esperadisimas-peliculas-1197668'>Disney acaba de anunciar que está trabajando en tres nuevas y esperadísimas películas</a></h4>
     <a href='https://computerhoy.com/entretenimiento/disney-acaba-anunciar-trabajando-tres-nuevas-esperadisimas-peliculas-1197668' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/06/toy-story-4_3.jpg?tf=1200x' alt='Disney acaba de anunciar que está trabajando en tres nuevas y esperadísimas películas' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/google/google-clasificara-contenido-generado-ia-busquedas-igual-resto-eso-puede-ser-problema-1197648'>Google clasificará el contenido generado por IA en sus búsquedas igual que el resto y eso puede ser un problema</a></h4>
     <a href='https://computerhoy.com/google/google-clasificara-contenido-generado-ia-busquedas-igual-resto-eso-puede-ser-problema-1197648' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/google-clasificara-contenido-generado-ia-busquedas-igual-resto-eso-puede-ser-problema-2951206.jpg?tf=1200x' alt='Google clasificará el contenido generado por IA en sus búsquedas igual que el resto y eso puede ser un problema' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/patrocinado/no-dudes-llevate-casa-redmi-10-muy-poco-dinero-1196782'>No lo dudes más, llévate a casa un Redmi 10 por muy poco dinero</a></h4>
-    <a href='https://computerhoy.com/patrocinado/no-dudes-llevate-casa-redmi-10-muy-poco-dinero-1196782' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/redmi-10-analisis-opinion-2523315.jpg?tf=1200x' alt='No lo dudes más, llévate a casa un Redmi 10 por muy poco dinero' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/patrocinado/increible-movil-muy-top-2022-importante-ahorro-1196110'>¡Increíble! un móvil muy top de 2022 con un importante ahorro </a></h4>
-    <a href='https://computerhoy.com/patrocinado/increible-movil-muy-top-2022-importante-ahorro-1196110' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/poco-f4-gt-2690047.jpg?tf=1200x' alt='¡Increíble! un móvil muy top de 2022 con un importante ahorro ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/patrocinado/celebra-aliexpress-dia-marca-poco-grandes-descuentos-regalos-1196616'>Celebra con AliExpress el Día de la Marca POCO con grandes descuentos y regalos</a></h4>
-    <a href='https://computerhoy.com/patrocinado/celebra-aliexpress-dia-marca-poco-grandes-descuentos-regalos-1196616' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/dia-marca-poco-2949176.jpg?tf=1200x' alt='Celebra con AliExpress el Día de la Marca POCO con grandes descuentos y regalos' />
     </a>
 </div>
 
