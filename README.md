@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/24-noticias-tecnologia-comenzar-manana-informado-ultimo-1197616'>24 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
+    <a href='https://computerhoy.com/tecnologia/24-noticias-tecnologia-comenzar-manana-informado-ultimo-1197616' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/24-noticias-tecnologia-comenzar-manana-informado-ultimo-2951136.jpg?tf=1200x' alt='24 noticias de tecnología para comenzar la mañana informado de lo último' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/regalos-tecnologicos-menos-20-euros-triunfar-san-valentin-1193296'>10 regalos tecnológicos de menos de 20 euros para triunfar en San Valentín</a></h4>
+    <a href='https://computerhoy.com/tecnologia/regalos-tecnologicos-menos-20-euros-triunfar-san-valentin-1193296' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/pareja-haciendose-regalo-2943240.jpg?tf=1200x' alt='10 regalos tecnológicos de menos de 20 euros para triunfar en San Valentín' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/entretenimiento/tierra-philomena-cunk-falso-documental-netflix-historia-humanidad-1197390'>Este falso documental de Netflix sobre la historia de la Humanidad te hará soltar más de una carcajada</a></h4>
     <a href='https://computerhoy.com/entretenimiento/tierra-philomena-cunk-falso-documental-netflix-historia-humanidad-1197390' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/hay-leer-subtitulos-pero-falso-documental-historia-humanidad-te-hara-soltar-carcajada-2950840.jpg?tf=1200x' alt='Este falso documental de Netflix sobre la historia de la Humanidad te hará soltar más de una carcajada' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/entretenimiento/netflix-cuentas-compartidas-suscriptores-extra-subcuentas-precio-oficial-1197368'>Netflix prohíbe hoy mismo las cuentas compartidas gratis: llegan las subcuentas, cuánto cuestan, te lo contamos todo</a></h4>
     <a href='https://computerhoy.com/entretenimiento/netflix-cuentas-compartidas-suscriptores-extra-subcuentas-precio-oficial-1197368' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/netflix-2923644.jpg?tf=1200x' alt='Netflix prohíbe hoy mismo las cuentas compartidas gratis: llegan las subcuentas, cuánto cuestan, te lo contamos todo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/elon-musk-impresionado-camara-movil-no-no-iphone-1197320'>Elon Musk impresionado por cámara de un móvil, y no, no es el iPhone</a></h4>
-    <a href='https://computerhoy.com/moviles/elon-musk-impresionado-camara-movil-no-no-iphone-1197320' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/fortuna-elon-musk-esfuma-twitter-tesla-son-agujero-perdidas-millonarias-2880111.jpg?tf=1200x' alt='Elon Musk impresionado por cámara de un móvil, y no, no es el iPhone' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/proponen-anadir-cuarto-color-semaforos-trafico-1197362'>Proponen añadir un cuarto color a los semáforos de tráfico</a></h4>
-    <a href='https://computerhoy.com/ciencia/proponen-anadir-cuarto-color-semaforos-trafico-1197362' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/semaforo-2950704.jpg?tf=1200x' alt='Proponen añadir un cuarto color a los semáforos de tráfico' />
     </a>
 </div>
 
