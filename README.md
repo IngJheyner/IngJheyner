@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/listas/tecnologia/fondos-pantalla-pc-resoluciones-hd-full-hd-4k-286143'>Fondos de pantalla 2023 para el PC por resoluciones: HD, Full HD y 4K</a></h4>
+    <a href='https://computerhoy.com/listas/tecnologia/fondos-pantalla-pc-resoluciones-hd-full-hd-4k-286143' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/mejor-aplicacion-fondos-pantalla-animados-llegaria-android-dentro-poco-2482649.jpg?tf=1200x' alt='Fondos de pantalla 2023 para el PC por resoluciones: HD, Full HD y 4K' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/motor/samsung-next-mobility-coche-electrico-futuro-pantallas-oled-video-1197948'>Así es el coche del futuro según Samsung, todo pantallas (vídeo) </a></h4>
+    <a href='https://computerhoy.com/motor/samsung-next-mobility-coche-electrico-futuro-pantallas-oled-video-1197948' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/verticalimage1675906672283-2951132.jpg?tf=1200x' alt='Así es el coche del futuro según Samsung, todo pantallas (vídeo) ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-poco-893443'>Estos son los mejores móviles POCO que puedes comprar en 2023</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-poco-893443' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/poco-x5-poco-x5-pro-2948030.jpg?tf=1200x' alt='Estos son los mejores móviles POCO que puedes comprar en 2023' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/redes-sociales/twitter-limita-numero-tuits-puedes-enviar-dia-1197922'>Twitter limita el número de tuits que puedes enviar al día</a></h4>
+    <a href='https://computerhoy.com/redes-sociales/twitter-limita-numero-tuits-puedes-enviar-dia-1197922' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/bye-bye-bird-pajaro-raspberry-pi-suelta-lagrima-cada-vez-alguien-borra-twitter-2881713.jpg?tf=1200x' alt='Twitter limita el número de tuits que puedes enviar al día' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apps/whatsapp-quiere-no-tengas-escuchar-nunca-nota-voz-1197892'>WhatsApp quiere que no tengas que escuchar nunca más una nota de voz</a></h4>
     <a href='https://computerhoy.com/apps/whatsapp-quiere-no-tengas-escuchar-nunca-nota-voz-1197892' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/whatsapp-te-dejara-fijar-mensajes-importantes-chats-nueva-funcion-2945968.jpg?tf=1200x' alt='WhatsApp quiere que no tengas que escuchar nunca más una nota de voz' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/energia/paneles-solares-espacio-solucionar-crisis-energetica-mundial-1197862'>Paneles solares en el espacio para solucionar la crisis energética mundial</a></h4>
-    <a href='https://computerhoy.com/energia/paneles-solares-espacio-solucionar-crisis-energetica-mundial-1197862' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/paneles-solares-espacio-2951722.jpg?tf=1200x' alt='Paneles solares en el espacio para solucionar la crisis energética mundial' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/disney-pierde-2-millones-usuarios-todos-provienen-mismo-pais-1197796'>Disney+ pierde más de 2 millones de usuarios y todos provienen del mismo país</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/disney-pierde-2-millones-usuarios-todos-provienen-mismo-pais-1197796' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/disney-2782749.jpg?tf=1200x' alt='Disney+ pierde más de 2 millones de usuarios y todos provienen del mismo país' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/redes-sociales/elon-musk-activa-nueva-caracteristicas-solo-disfrutaran-usuarios-pago-twitter-1197802'>Elon Musk activa la nueva características que solo disfrutarán los usuarios de pago en Twitter</a></h4>
-    <a href='https://computerhoy.com/redes-sociales/elon-musk-activa-nueva-caracteristicas-solo-disfrutaran-usuarios-pago-twitter-1197802' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/twitter-elon-musk-2863723.jpg?tf=1200x' alt='Elon Musk activa la nueva características que solo disfrutarán los usuarios de pago en Twitter' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/chatgpt-vs-google-bard-estas-son-principales-diferencias-cual-mejor-1197780'>ChatGPT vs. Google Bard: estas son sus principales diferencias, ¿cuál es mejor?</a></h4>
-    <a href='https://computerhoy.com/tecnologia/chatgpt-vs-google-bard-estas-son-principales-diferencias-cual-mejor-1197780' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/chatgpt-vs-google-bard-principales-diferencias-cual-mejor-2951532.jpg?tf=1200x' alt='ChatGPT vs. Google Bard: estas son sus principales diferencias, ¿cuál es mejor?' />
     </a>
 </div>
 
