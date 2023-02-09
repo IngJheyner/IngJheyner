@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/tierra-philomena-cunk-falso-documental-netflix-historia-humanidad-1197390'>Este falso documental de Netflix sobre la historia de la Humanidad te hará soltar más de una carcajada</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/tierra-philomena-cunk-falso-documental-netflix-historia-humanidad-1197390' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/hay-leer-subtitulos-pero-falso-documental-historia-humanidad-te-hara-soltar-carcajada-2950840.jpg?tf=1200x' alt='Este falso documental de Netflix sobre la historia de la Humanidad te hará soltar más de una carcajada' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/hogar/bombilla-led-inteligente-wifi-primera-marca-descuento-1197380'>Esta bombilla LED inteligente con WiFi de primera marca, tiene un 33% de descuento</a></h4>
     <a href='https://computerhoy.com/hogar/bombilla-led-inteligente-wifi-primera-marca-descuento-1197380' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/bombilla-led-wifi-primera-marca-tiene-33-descuento-2950792.jpg?tf=1200x' alt='Esta bombilla LED inteligente con WiFi de primera marca, tiene un 33% de descuento' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/ciencia/proponen-anadir-cuarto-color-semaforos-trafico-1197362'>Proponen añadir un cuarto color a los semáforos de tráfico</a></h4>
     <a href='https://computerhoy.com/ciencia/proponen-anadir-cuarto-color-semaforos-trafico-1197362' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/semaforo-2950704.jpg?tf=1200x' alt='Proponen añadir un cuarto color a los semáforos de tráfico' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/bill-gates-considera-ia-como-hito-tecnologico-tan-grande-como-invencion-ordenador-internet-1197360'>Bill Gates considera la IA como un hito tecnológico tan grande como la invención del ordenador o Internet</a></h4>
-    <a href='https://computerhoy.com/pc/bill-gates-considera-ia-como-hito-tecnologico-tan-grande-como-invencion-ordenador-internet-1197360' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/bill-gates-2628607.jpg?tf=1200x' alt='Bill Gates considera la IA como un hito tecnológico tan grande como la invención del ordenador o Internet' />
     </a>
 </div>
 
