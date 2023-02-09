@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/netflix-guerra-solitario-gigantes-sobrevivir-1197988'>Netflix y su guerra en solitario contra gigantes, ¿puede sobrevivir?</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/netflix-guerra-solitario-gigantes-sobrevivir-1197988' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/netflix-guerra-solitario-gigantes-puede-sobrevivir-2952062.jpg?tf=1200x' alt='Netflix y su guerra en solitario contra gigantes, ¿puede sobrevivir?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/motor/podras-utilizar-bateria-coche-electrico-dar-energia-casa-1197982'>Podrás utilizar la batería del coche eléctrico para dar energía a tu casa</a></h4>
     <a href='https://computerhoy.com/motor/podras-utilizar-bateria-coche-electrico-dar-energia-casa-1197982' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/coche-electrico-2915122.jpg?tf=1200x' alt='Podrás utilizar la batería del coche eléctrico para dar energía a tu casa' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/gaming/microsoft-aplasta-playstation-geforce-now-juego-nube-1197924'>Microsoft aplasta a PlayStation y GeForce Now en el juego en la nube</a></h4>
     <a href='https://computerhoy.com/gaming/microsoft-aplasta-playstation-geforce-now-juego-nube-1197924' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/netflix-fuera-proxima-adquisicion-microsoft-2907736.jpg?tf=1200x' alt='Microsoft aplasta a PlayStation y GeForce Now en el juego en la nube' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/listas/tecnologia/fondos-pantalla-pc-resoluciones-hd-full-hd-4k-286143'>Fondos de pantalla 2023 para el PC por resoluciones: HD, Full HD y 4K</a></h4>
-    <a href='https://computerhoy.com/listas/tecnologia/fondos-pantalla-pc-resoluciones-hd-full-hd-4k-286143' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/mejor-aplicacion-fondos-pantalla-animados-llegaria-android-dentro-poco-2482649.jpg?tf=1200x' alt='Fondos de pantalla 2023 para el PC por resoluciones: HD, Full HD y 4K' />
     </a>
 </div>
 
