@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/internet/adaptador-red-gigabit-usb-oferta-1198000'>Este adaptador de red Gigabit por USB te permitirá conectarte a Internet a 1 Gbps, si tu PC o consola no aceptan más de 100 Mbps</a></h4>
+    <a href='https://computerhoy.com/internet/adaptador-red-gigabit-usb-oferta-1198000' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/adaptador-red-usb-te-permitira-conectarte-internet-1-gbps-pc-consola-no-aceptan-100-mbps-2952156.jpg?tf=1200x' alt='Este adaptador de red Gigabit por USB te permitirá conectarte a Internet a 1 Gbps, si tu PC o consola no aceptan más de 100 Mbps' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/entretenimiento/netflix-guerra-solitario-gigantes-sobrevivir-1197988'>Netflix y su guerra en solitario contra gigantes, ¿puede sobrevivir?</a></h4>
     <a href='https://computerhoy.com/entretenimiento/netflix-guerra-solitario-gigantes-sobrevivir-1197988' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/netflix-guerra-solitario-gigantes-puede-sobrevivir-2952062.jpg?tf=1200x' alt='Netflix y su guerra en solitario contra gigantes, ¿puede sobrevivir?' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/moviles/realme-gt-neo-5-cabeza-carga-rapida-solo-10-minutos-realizar-carga-completa-1197890'>El realme GT Neo 5 a la cabeza de la carga rápida: solo 10 minutos para realizar una carga completa</a></h4>
     <a href='https://computerhoy.com/moviles/realme-gt-neo-5-cabeza-carga-rapida-solo-10-minutos-realizar-carga-completa-1197890' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/realme-gt-neo-5-cabeza-carga-rapida-solo-10-minutos-realizar-carga-completa-2951986.jpg?tf=1200x' alt='El realme GT Neo 5 a la cabeza de la carga rápida: solo 10 minutos para realizar una carga completa' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/gaming/microsoft-aplasta-playstation-geforce-now-juego-nube-1197924'>Microsoft aplasta a PlayStation y GeForce Now en el juego en la nube</a></h4>
-    <a href='https://computerhoy.com/gaming/microsoft-aplasta-playstation-geforce-now-juego-nube-1197924' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/netflix-fuera-proxima-adquisicion-microsoft-2907736.jpg?tf=1200x' alt='Microsoft aplasta a PlayStation y GeForce Now en el juego en la nube' />
     </a>
 </div>
 
