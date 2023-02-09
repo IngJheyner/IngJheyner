@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/disney-pierde-2-millones-usuarios-todos-provienen-mismo-pais-1197796'>Disney+ pierde más de 2 millones de usuarios y todos provienen del mismo país</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/disney-pierde-2-millones-usuarios-todos-provienen-mismo-pais-1197796' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/disney-2782749.jpg?tf=1200x' alt='Disney+ pierde más de 2 millones de usuarios y todos provienen del mismo país' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/redes-sociales/elon-musk-activa-nueva-caracteristicas-solo-disfrutaran-usuarios-pago-twitter-1197802'>Elon Musk activa la nueva características que solo disfrutarán los usuarios de pago en Twitter</a></h4>
+    <a href='https://computerhoy.com/redes-sociales/elon-musk-activa-nueva-caracteristicas-solo-disfrutaran-usuarios-pago-twitter-1197802' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/twitter-elon-musk-2863723.jpg?tf=1200x' alt='Elon Musk activa la nueva características que solo disfrutarán los usuarios de pago en Twitter' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/chatgpt-vs-google-bard-estas-son-principales-diferencias-cual-mejor-1197780'>ChatGPT vs. Google Bard: estas son sus principales diferencias, ¿cuál es mejor?</a></h4>
     <a href='https://computerhoy.com/tecnologia/chatgpt-vs-google-bard-estas-son-principales-diferencias-cual-mejor-1197780' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/chatgpt-vs-google-bard-principales-diferencias-cual-mejor-2951532.jpg?tf=1200x' alt='ChatGPT vs. Google Bard: estas son sus principales diferencias, ¿cuál es mejor?' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/life/steve-jobs-fundo-apple-pero-no-fue-primer-ceo-1197744'>Steve Jobs fundó Apple, pero no fue su primer CEO</a></h4>
     <a href='https://computerhoy.com/life/steve-jobs-fundo-apple-pero-no-fue-primer-ceo-1197744' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/steve-jobs-2951464.jpg?tf=1200x' alt='Steve Jobs fundó Apple, pero no fue su primer CEO' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/estas-son-diferencias-clave-vidrio-cristal-reciclaje-1197732'>Estas son las diferencias clave entre el vidrio y el cristal y su reciclaje</a></h4>
-    <a href='https://computerhoy.com/life/estas-son-diferencias-clave-vidrio-cristal-reciclaje-1197732' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/estas-son-diferencias-vidrio-cristal-reciclaje-2951396.jpg?tf=1200x' alt='Estas son las diferencias clave entre el vidrio y el cristal y su reciclaje' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/gaming/xbox-series-s-oferta-mediamarkt-amazon-1197088'>Baja de precio otra vez la consola más barata de esta generación, y la puedes tener mañana</a></h4>
-    <a href='https://computerhoy.com/gaming/xbox-series-s-oferta-mediamarkt-amazon-1197088' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/xbox-series-s-2703027.jpg?tf=1200x' alt='Baja de precio otra vez la consola más barata de esta generación, y la puedes tener mañana' />
     </a>
 </div>
 
