@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/listas/tecnologia/mejores-sillas-escritorio-baratas-625673'>Las mejores sillas de escritorio baratas que puedes comprar en 2023 en Amazon, IKEA, PcComponentes y más</a></h4>
-    <a href='https://computerhoy.com/listas/tecnologia/mejores-sillas-escritorio-baratas-625673' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/portada-sillas-escritorio-giratorias-2950316.jpg?tf=1200x' alt='Las mejores sillas de escritorio baratas que puedes comprar en 2023 en Amazon, IKEA, PcComponentes y más' />
+    <h4><a href='https://computerhoy.com/entretenimiento/disney-acaba-anunciar-trabajando-tres-nuevas-esperadisimas-peliculas-1197668'>Disney acaba de anunciar que está trabajando en tres nuevas y esperadísimas películas</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/disney-acaba-anunciar-trabajando-tres-nuevas-esperadisimas-peliculas-1197668' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/06/toy-story-4_3.jpg?tf=1200x' alt='Disney acaba de anunciar que está trabajando en tres nuevas y esperadísimas películas' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-ia-puede-clonar-voz-solo-tres-segundos-audio-1195444'>Cómo la IA puede clonar tu voz con solo tres segundos de audio</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-ia-puede-clonar-voz-solo-tres-segundos-audio-1195444' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/voz-2947036.jpg?tf=1200x' alt='Cómo la IA puede clonar tu voz con solo tres segundos de audio' />
+    <h4><a href='https://computerhoy.com/google/google-clasificara-contenido-generado-ia-busquedas-igual-resto-eso-puede-ser-problema-1197648'>Google clasificará el contenido generado por IA en sus búsquedas igual que el resto y eso puede ser un problema</a></h4>
+    <a href='https://computerhoy.com/google/google-clasificara-contenido-generado-ia-busquedas-igual-resto-eso-puede-ser-problema-1197648' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/google-clasificara-contenido-generado-ia-busquedas-igual-resto-eso-puede-ser-problema-2951206.jpg?tf=1200x' alt='Google clasificará el contenido generado por IA en sus búsquedas igual que el resto y eso puede ser un problema' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/patrocinado/llevate-ahora-mismo-smartphone-redmi-gama-alta-ahorrandote-150-euros-1196092'>Llévate ahora mismo un smartphone Redmi de gama alta ahorrándote más de 150 euros</a></h4>
-    <a href='https://computerhoy.com/patrocinado/llevate-ahora-mismo-smartphone-redmi-gama-alta-ahorrandote-150-euros-1196092' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/redmi-note-11-pro-2659485.jpg?tf=1200x' alt='Llévate ahora mismo un smartphone Redmi de gama alta ahorrándote más de 150 euros' />
+    <h4><a href='https://computerhoy.com/patrocinado/no-dudes-llevate-casa-redmi-10-muy-poco-dinero-1196782'>No lo dudes más, llévate a casa un Redmi 10 por muy poco dinero</a></h4>
+    <a href='https://computerhoy.com/patrocinado/no-dudes-llevate-casa-redmi-10-muy-poco-dinero-1196782' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/redmi-10-analisis-opinion-2523315.jpg?tf=1200x' alt='No lo dudes más, llévate a casa un Redmi 10 por muy poco dinero' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/24-noticias-tecnologia-comenzar-manana-informado-ultimo-1197616'>24 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
-    <a href='https://computerhoy.com/tecnologia/24-noticias-tecnologia-comenzar-manana-informado-ultimo-1197616' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/24-noticias-tecnologia-comenzar-manana-informado-ultimo-2951136.jpg?tf=1200x' alt='24 noticias de tecnología para comenzar la mañana informado de lo último' />
+    <h4><a href='https://computerhoy.com/patrocinado/increible-movil-muy-top-2022-importante-ahorro-1196110'>¡Increíble! un móvil muy top de 2022 con un importante ahorro </a></h4>
+    <a href='https://computerhoy.com/patrocinado/increible-movil-muy-top-2022-importante-ahorro-1196110' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/poco-f4-gt-2690047.jpg?tf=1200x' alt='¡Increíble! un móvil muy top de 2022 con un importante ahorro ' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/regalos-tecnologicos-menos-20-euros-triunfar-san-valentin-1193296'>10 regalos tecnológicos de menos de 20 euros para triunfar en San Valentín</a></h4>
-    <a href='https://computerhoy.com/tecnologia/regalos-tecnologicos-menos-20-euros-triunfar-san-valentin-1193296' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/pareja-haciendose-regalo-2943240.jpg?tf=1200x' alt='10 regalos tecnológicos de menos de 20 euros para triunfar en San Valentín' />
+    <h4><a href='https://computerhoy.com/patrocinado/celebra-aliexpress-dia-marca-poco-grandes-descuentos-regalos-1196616'>Celebra con AliExpress el Día de la Marca POCO con grandes descuentos y regalos</a></h4>
+    <a href='https://computerhoy.com/patrocinado/celebra-aliexpress-dia-marca-poco-grandes-descuentos-regalos-1196616' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/dia-marca-poco-2949176.jpg?tf=1200x' alt='Celebra con AliExpress el Día de la Marca POCO con grandes descuentos y regalos' />
     </a>
 </div>
 
