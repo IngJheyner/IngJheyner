@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/listas/tecnologia/mejores-sillas-escritorio-baratas-625673'>Las mejores sillas de escritorio baratas que puedes comprar en 2023 en Amazon, IKEA, PcComponentes y más</a></h4>
+    <a href='https://computerhoy.com/listas/tecnologia/mejores-sillas-escritorio-baratas-625673' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/portada-sillas-escritorio-giratorias-2950316.jpg?tf=1200x' alt='Las mejores sillas de escritorio baratas que puedes comprar en 2023 en Amazon, IKEA, PcComponentes y más' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-ia-puede-clonar-voz-solo-tres-segundos-audio-1195444'>Cómo la IA puede clonar tu voz con solo tres segundos de audio</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-ia-puede-clonar-voz-solo-tres-segundos-audio-1195444' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/voz-2947036.jpg?tf=1200x' alt='Cómo la IA puede clonar tu voz con solo tres segundos de audio' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/patrocinado/llevate-ahora-mismo-smartphone-redmi-gama-alta-ahorrandote-150-euros-1196092'>Llévate ahora mismo un smartphone Redmi de gama alta ahorrándote más de 150 euros</a></h4>
+    <a href='https://computerhoy.com/patrocinado/llevate-ahora-mismo-smartphone-redmi-gama-alta-ahorrandote-150-euros-1196092' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/redmi-note-11-pro-2659485.jpg?tf=1200x' alt='Llévate ahora mismo un smartphone Redmi de gama alta ahorrándote más de 150 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/24-noticias-tecnologia-comenzar-manana-informado-ultimo-1197616'>24 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
     <a href='https://computerhoy.com/tecnologia/24-noticias-tecnologia-comenzar-manana-informado-ultimo-1197616' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/24-noticias-tecnologia-comenzar-manana-informado-ultimo-2951136.jpg?tf=1200x' alt='24 noticias de tecnología para comenzar la mañana informado de lo último' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/regalos-tecnologicos-menos-20-euros-triunfar-san-valentin-1193296'>10 regalos tecnológicos de menos de 20 euros para triunfar en San Valentín</a></h4>
     <a href='https://computerhoy.com/tecnologia/regalos-tecnologicos-menos-20-euros-triunfar-san-valentin-1193296' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/pareja-haciendose-regalo-2943240.jpg?tf=1200x' alt='10 regalos tecnológicos de menos de 20 euros para triunfar en San Valentín' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/tierra-philomena-cunk-falso-documental-netflix-historia-humanidad-1197390'>Este falso documental de Netflix sobre la historia de la Humanidad te hará soltar más de una carcajada</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/tierra-philomena-cunk-falso-documental-netflix-historia-humanidad-1197390' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/hay-leer-subtitulos-pero-falso-documental-historia-humanidad-te-hara-soltar-carcajada-2950840.jpg?tf=1200x' alt='Este falso documental de Netflix sobre la historia de la Humanidad te hará soltar más de una carcajada' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/hogar/bombilla-led-inteligente-wifi-primera-marca-descuento-1197380'>Esta bombilla LED inteligente con WiFi de primera marca, tiene un 33% de descuento</a></h4>
-    <a href='https://computerhoy.com/hogar/bombilla-led-inteligente-wifi-primera-marca-descuento-1197380' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/bombilla-led-wifi-primera-marca-tiene-33-descuento-2950792.jpg?tf=1200x' alt='Esta bombilla LED inteligente con WiFi de primera marca, tiene un 33% de descuento' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/netflix-cuentas-compartidas-suscriptores-extra-subcuentas-precio-oficial-1197368'>Netflix prohíbe hoy mismo las cuentas compartidas gratis: llegan las subcuentas, cuánto cuestan, te lo contamos todo</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/netflix-cuentas-compartidas-suscriptores-extra-subcuentas-precio-oficial-1197368' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/netflix-2923644.jpg?tf=1200x' alt='Netflix prohíbe hoy mismo las cuentas compartidas gratis: llegan las subcuentas, cuánto cuestan, te lo contamos todo' />
     </a>
 </div>
 
