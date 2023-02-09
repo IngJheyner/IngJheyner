@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/steve-jobs-fundo-apple-pero-no-fue-primer-ceo-1197744'>Steve Jobs fundó Apple, pero no fue su primer CEO</a></h4>
+    <a href='https://computerhoy.com/life/steve-jobs-fundo-apple-pero-no-fue-primer-ceo-1197744' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/steve-jobs-2951464.jpg?tf=1200x' alt='Steve Jobs fundó Apple, pero no fue su primer CEO' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/estas-son-diferencias-clave-vidrio-cristal-reciclaje-1197732'>Estas son las diferencias clave entre el vidrio y el cristal y su reciclaje</a></h4>
+    <a href='https://computerhoy.com/life/estas-son-diferencias-clave-vidrio-cristal-reciclaje-1197732' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/estas-son-diferencias-vidrio-cristal-reciclaje-2951396.jpg?tf=1200x' alt='Estas son las diferencias clave entre el vidrio y el cristal y su reciclaje' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/gaming/xbox-series-s-oferta-mediamarkt-amazon-1197088'>Baja de precio otra vez la consola más barata de esta generación, y la puedes tener mañana</a></h4>
     <a href='https://computerhoy.com/gaming/xbox-series-s-oferta-mediamarkt-amazon-1197088' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/xbox-series-s-2703027.jpg?tf=1200x' alt='Baja de precio otra vez la consola más barata de esta generación, y la puedes tener mañana' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/google/google-presenta-primera-version-preliminar-android-14-focalizada-accesibilidad-bateria-seguridad-1197692'>Google presenta la primera versión preliminar de Android 14 focalizada en accesibilidad, batería y seguridad</a></h4>
     <a href='https://computerhoy.com/google/google-presenta-primera-version-preliminar-android-14-focalizada-accesibilidad-bateria-seguridad-1197692' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/google-presenta-primera-version-preliminar-android-14-focalizada-accesibilidad-bateria-seguridad-2951334.jpg?tf=1200x' alt='Google presenta la primera versión preliminar de Android 14 focalizada en accesibilidad, batería y seguridad' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/redes-sociales/twitter-sufriendo-problemas-no-deja-ni-enviar-tuits-ni-seguir-cuentas-sabemos-1197678'>Twitter está sufriendo problemas y no deja ni enviar tuits ni seguir cuentas: esto lo que sabemos</a></h4>
-    <a href='https://computerhoy.com/redes-sociales/twitter-sufriendo-problemas-no-deja-ni-enviar-tuits-ni-seguir-cuentas-sabemos-1197678' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/twitter-2676209.jpg?tf=1200x' alt='Twitter está sufriendo problemas y no deja ni enviar tuits ni seguir cuentas: esto lo que sabemos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/poco-x5-pro-6-gb-ram-aliexpress-plaza-1196626'>POCO revienta el mercado: su nuevo POCO X5 Pro con 6 GB de RAM ya cae a menos de 300€</a></h4>
-    <a href='https://computerhoy.com/tecnologia/poco-x5-pro-6-gb-ram-aliexpress-plaza-1196626' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/poco-x5-poco-x5-pro-2947948.jpg?tf=1200x' alt='POCO revienta el mercado: su nuevo POCO X5 Pro con 6 GB de RAM ya cae a menos de 300€' />
     </a>
 </div>
 
