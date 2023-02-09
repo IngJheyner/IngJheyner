@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/moviles/realme-gt-neo-5-cabeza-carga-rapida-solo-10-minutos-realizar-carga-completa-1197890'>El realme GT Neo 5 a la cabeza de la carga rápida: solo 10 minutos para realizar una carga completa</a></h4>
+    <a href='https://computerhoy.com/moviles/realme-gt-neo-5-cabeza-carga-rapida-solo-10-minutos-realizar-carga-completa-1197890' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/realme-gt-neo-5-cabeza-carga-rapida-solo-10-minutos-realizar-carga-completa-2951986.jpg?tf=1200x' alt='El realme GT Neo 5 a la cabeza de la carga rápida: solo 10 minutos para realizar una carga completa' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/gaming/microsoft-aplasta-playstation-geforce-now-juego-nube-1197924'>Microsoft aplasta a PlayStation y GeForce Now en el juego en la nube</a></h4>
+    <a href='https://computerhoy.com/gaming/microsoft-aplasta-playstation-geforce-now-juego-nube-1197924' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/netflix-fuera-proxima-adquisicion-microsoft-2907736.jpg?tf=1200x' alt='Microsoft aplasta a PlayStation y GeForce Now en el juego en la nube' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/listas/tecnologia/fondos-pantalla-pc-resoluciones-hd-full-hd-4k-286143'>Fondos de pantalla 2023 para el PC por resoluciones: HD, Full HD y 4K</a></h4>
     <a href='https://computerhoy.com/listas/tecnologia/fondos-pantalla-pc-resoluciones-hd-full-hd-4k-286143' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/mejor-aplicacion-fondos-pantalla-animados-llegaria-android-dentro-poco-2482649.jpg?tf=1200x' alt='Fondos de pantalla 2023 para el PC por resoluciones: HD, Full HD y 4K' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-poco-893443'>Estos son los mejores móviles POCO que puedes comprar en 2023</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-poco-893443' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/poco-x5-poco-x5-pro-2948030.jpg?tf=1200x' alt='Estos son los mejores móviles POCO que puedes comprar en 2023' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/redes-sociales/twitter-limita-numero-tuits-puedes-enviar-dia-1197922'>Twitter limita el número de tuits que puedes enviar al día</a></h4>
-    <a href='https://computerhoy.com/redes-sociales/twitter-limita-numero-tuits-puedes-enviar-dia-1197922' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/bye-bye-bird-pajaro-raspberry-pi-suelta-lagrima-cada-vez-alguien-borra-twitter-2881713.jpg?tf=1200x' alt='Twitter limita el número de tuits que puedes enviar al día' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/whatsapp-quiere-no-tengas-escuchar-nunca-nota-voz-1197892'>WhatsApp quiere que no tengas que escuchar nunca más una nota de voz</a></h4>
-    <a href='https://computerhoy.com/apps/whatsapp-quiere-no-tengas-escuchar-nunca-nota-voz-1197892' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/whatsapp-te-dejara-fijar-mensajes-importantes-chats-nueva-funcion-2945968.jpg?tf=1200x' alt='WhatsApp quiere que no tengas que escuchar nunca más una nota de voz' />
     </a>
 </div>
 
