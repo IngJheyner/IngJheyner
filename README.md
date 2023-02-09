@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/chatgpt-vs-google-bard-estas-son-principales-diferencias-cual-mejor-1197780'>ChatGPT vs. Google Bard: estas son sus principales diferencias, ¿cuál es mejor?</a></h4>
+    <a href='https://computerhoy.com/tecnologia/chatgpt-vs-google-bard-estas-son-principales-diferencias-cual-mejor-1197780' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/chatgpt-vs-google-bard-principales-diferencias-cual-mejor-2951532.jpg?tf=1200x' alt='ChatGPT vs. Google Bard: estas son sus principales diferencias, ¿cuál es mejor?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tv/desarticulan-mayores-redes-iptv-gratis-android-tv-pirata-1197770'>Desarticulan una de las mayores redes IPTV gratis y Android TV pirata</a></h4>
+    <a href='https://computerhoy.com/tv/desarticulan-mayores-redes-iptv-gratis-android-tv-pirata-1197770' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/iptv-2852443.jpg?tf=1200x' alt='Desarticulan una de las mayores redes IPTV gratis y Android TV pirata' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/steve-jobs-fundo-apple-pero-no-fue-primer-ceo-1197744'>Steve Jobs fundó Apple, pero no fue su primer CEO</a></h4>
     <a href='https://computerhoy.com/life/steve-jobs-fundo-apple-pero-no-fue-primer-ceo-1197744' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/steve-jobs-2951464.jpg?tf=1200x' alt='Steve Jobs fundó Apple, pero no fue su primer CEO' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/gaming/xbox-series-s-oferta-mediamarkt-amazon-1197088'>Baja de precio otra vez la consola más barata de esta generación, y la puedes tener mañana</a></h4>
     <a href='https://computerhoy.com/gaming/xbox-series-s-oferta-mediamarkt-amazon-1197088' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/xbox-series-s-2703027.jpg?tf=1200x' alt='Baja de precio otra vez la consola más barata de esta generación, y la puedes tener mañana' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/estas-son-nuevas-funciones-llegan-google-maps-2023-1197712'>Estas son las nuevas funciones que llegan a Google Maps este 2023</a></h4>
-    <a href='https://computerhoy.com/apps/estas-son-nuevas-funciones-llegan-google-maps-2023-1197712' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/trucos-ocultos-google-maps-android-te-haran-vida-facil-2530159.jpg?tf=1200x' alt='Estas son las nuevas funciones que llegan a Google Maps este 2023' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/google-presenta-primera-version-preliminar-android-14-focalizada-accesibilidad-bateria-seguridad-1197692'>Google presenta la primera versión preliminar de Android 14 focalizada en accesibilidad, batería y seguridad</a></h4>
-    <a href='https://computerhoy.com/google/google-presenta-primera-version-preliminar-android-14-focalizada-accesibilidad-bateria-seguridad-1197692' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/google-presenta-primera-version-preliminar-android-14-focalizada-accesibilidad-bateria-seguridad-2951334.jpg?tf=1200x' alt='Google presenta la primera versión preliminar de Android 14 focalizada en accesibilidad, batería y seguridad' />
     </a>
 </div>
 
