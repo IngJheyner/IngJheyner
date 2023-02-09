@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/energia/paneles-solares-espacio-solucionar-crisis-energetica-mundial-1197862'>Paneles solares en el espacio para solucionar la crisis energética mundial</a></h4>
+    <a href='https://computerhoy.com/energia/paneles-solares-espacio-solucionar-crisis-energetica-mundial-1197862' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/paneles-solares-espacio-2951722.jpg?tf=1200x' alt='Paneles solares en el espacio para solucionar la crisis energética mundial' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/entretenimiento/disney-pierde-2-millones-usuarios-todos-provienen-mismo-pais-1197796'>Disney+ pierde más de 2 millones de usuarios y todos provienen del mismo país</a></h4>
     <a href='https://computerhoy.com/entretenimiento/disney-pierde-2-millones-usuarios-todos-provienen-mismo-pais-1197796' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/disney-2782749.jpg?tf=1200x' alt='Disney+ pierde más de 2 millones de usuarios y todos provienen del mismo país' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tv/desarticulan-mayores-redes-iptv-gratis-android-tv-pirata-1197770'>Desarticulan una de las mayores redes IPTV gratis y Android TV pirata</a></h4>
     <a href='https://computerhoy.com/tv/desarticulan-mayores-redes-iptv-gratis-android-tv-pirata-1197770' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/iptv-2852443.jpg?tf=1200x' alt='Desarticulan una de las mayores redes IPTV gratis y Android TV pirata' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/steve-jobs-fundo-apple-pero-no-fue-primer-ceo-1197744'>Steve Jobs fundó Apple, pero no fue su primer CEO</a></h4>
-    <a href='https://computerhoy.com/life/steve-jobs-fundo-apple-pero-no-fue-primer-ceo-1197744' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/steve-jobs-2951464.jpg?tf=1200x' alt='Steve Jobs fundó Apple, pero no fue su primer CEO' />
     </a>
 </div>
 
