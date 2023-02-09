@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/motor/podras-utilizar-bateria-coche-electrico-dar-energia-casa-1197982'>Podrás utilizar la batería del coche eléctrico para dar energía a tu casa</a></h4>
+    <a href='https://computerhoy.com/motor/podras-utilizar-bateria-coche-electrico-dar-energia-casa-1197982' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/coche-electrico-2915122.jpg?tf=1200x' alt='Podrás utilizar la batería del coche eléctrico para dar energía a tu casa' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/internet/robot-aspirador-grabo-mujer-bano-imagenes-terminaron-facebook-1197978'>Un robot aspirador grabó a una mujer en el baño y las imágenes terminaron en Facebook</a></h4>
+    <a href='https://computerhoy.com/internet/robot-aspirador-grabo-mujer-bano-imagenes-terminaron-facebook-1197978' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/robot-aspirador-2952136.jpg?tf=1200x' alt='Un robot aspirador grabó a una mujer en el baño y las imágenes terminaron en Facebook' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/moviles/realme-gt-neo-5-cabeza-carga-rapida-solo-10-minutos-realizar-carga-completa-1197890'>El realme GT Neo 5 a la cabeza de la carga rápida: solo 10 minutos para realizar una carga completa</a></h4>
     <a href='https://computerhoy.com/moviles/realme-gt-neo-5-cabeza-carga-rapida-solo-10-minutos-realizar-carga-completa-1197890' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/realme-gt-neo-5-cabeza-carga-rapida-solo-10-minutos-realizar-carga-completa-2951986.jpg?tf=1200x' alt='El realme GT Neo 5 a la cabeza de la carga rápida: solo 10 minutos para realizar una carga completa' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/listas/tecnologia/fondos-pantalla-pc-resoluciones-hd-full-hd-4k-286143'>Fondos de pantalla 2023 para el PC por resoluciones: HD, Full HD y 4K</a></h4>
     <a href='https://computerhoy.com/listas/tecnologia/fondos-pantalla-pc-resoluciones-hd-full-hd-4k-286143' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/mejor-aplicacion-fondos-pantalla-animados-llegaria-android-dentro-poco-2482649.jpg?tf=1200x' alt='Fondos de pantalla 2023 para el PC por resoluciones: HD, Full HD y 4K' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/samsung-next-mobility-coche-electrico-futuro-pantallas-oled-video-1197948'>Así es el coche del futuro según Samsung, todo pantallas (vídeo) </a></h4>
-    <a href='https://computerhoy.com/motor/samsung-next-mobility-coche-electrico-futuro-pantallas-oled-video-1197948' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/verticalimage1675906672283-2951132.jpg?tf=1200x' alt='Así es el coche del futuro según Samsung, todo pantallas (vídeo) ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-poco-893443'>Estos son los mejores móviles POCO que puedes comprar en 2023</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-poco-893443' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/poco-x5-poco-x5-pro-2948030.jpg?tf=1200x' alt='Estos son los mejores móviles POCO que puedes comprar en 2023' />
     </a>
 </div>
 
