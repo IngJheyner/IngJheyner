@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/resistente-samsung-galaxy-s23-ultra-1198310'>Así de resistente es el Samsung Galaxy S23 Ultra</a></h4>
-    <a href='https://computerhoy.com/moviles/resistente-samsung-galaxy-s23-ultra-1198310' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/impresiones-samsung-galaxy-s23-ultra-2943556.jpg?tf=1200x' alt='Así de resistente es el Samsung Galaxy S23 Ultra' />
+    <h4><a href='https://computerhoy.com/tecnologia/conectividad-adaptativa-funcion-exclusiva-pixel-deberia-llegar-todo-movil-android-5g-1198366'>Conectividad adaptativa: una función exclusiva de los Pixel que debería llegar a todo móvil Android 5G</a></h4>
+    <a href='https://computerhoy.com/tecnologia/conectividad-adaptativa-funcion-exclusiva-pixel-deberia-llegar-todo-movil-android-5g-1198366' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/analisis-pixel-6a-2765519.jpg?tf=1200x' alt='Conectividad adaptativa: una función exclusiva de los Pixel que debería llegar a todo móvil Android 5G' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/gaming/ps5-stock-the-last-of-us-1197118'>Esta PS5 tiene stock y además viene con el juego de la serie de moda: The Last of Us</a></h4>
-    <a href='https://computerhoy.com/gaming/ps5-stock-the-last-of-us-1197118' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/last-us-remastered-2950058.jpg?tf=1200x' alt='Esta PS5 tiene stock y además viene con el juego de la serie de moda: The Last of Us' />
+    <h4><a href='https://computerhoy.com/tecnologia/televisor-4k-barato-movil-50-pulgadas-chollo-carrefour-necesitas-1197254'>Un televisor 4K más barato que un móvil, y de 50 pulgadas: el chollo de Carrefour que necesitas</a></h4>
+    <a href='https://computerhoy.com/tecnologia/televisor-4k-barato-movil-50-pulgadas-chollo-carrefour-necesitas-1197254' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/systems-w50cf12smart-2951292.jpg?tf=1200x' alt='Un televisor 4K más barato que un móvil, y de 50 pulgadas: el chollo de Carrefour que necesitas' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/olvida-chatgpt-inteligencia-artificial-triunfa-llama-dan-1198306'>Olvida a ChatGPT, la inteligencia artificial que más triunfa se llama DAN</a></h4>
-    <a href='https://computerhoy.com/tecnologia/olvida-chatgpt-inteligencia-artificial-triunfa-llama-dan-1198306' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/inteligencia-artificial-2952530.jpg?tf=1200x' alt='Olvida a ChatGPT, la inteligencia artificial que más triunfa se llama DAN' />
+    <h4><a href='https://computerhoy.com/google/atropella-coche-google-maps-moto-pleno-recorrido-1198354'>Así atropella el coche de Google Maps a una moto en pleno recorrido</a></h4>
+    <a href='https://computerhoy.com/google/atropella-coche-google-maps-moto-pleno-recorrido-1198354' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/coche-google-maps-2952652.jpg?tf=1200x' alt='Así atropella el coche de Google Maps a una moto en pleno recorrido' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/como-suceden-terremotos-son-tan-dificiles-prever-1198268'>Cómo suceden los terremotos y por qué son tan difíciles de prever</a></h4>
-    <a href='https://computerhoy.com/ciencia/como-suceden-terremotos-son-tan-dificiles-prever-1198268' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/como-suceden-terremotos-son-tan-dificiles-prever-2952496.jpg?tf=1200x' alt='Cómo suceden los terremotos y por qué son tan difíciles de prever' />
+    <h4><a href='https://computerhoy.com/life/mapa-nos-muestra-probabilidad-terremotos-todas-zonas-espana-1198294'>Este mapa nos muestra la probabilidad de terremotos en todas las zonas de España</a></h4>
+    <a href='https://computerhoy.com/life/mapa-nos-muestra-probabilidad-terremotos-todas-zonas-espana-1198294' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/mapa-probabilidad-terremotos-todas-zonas-espana-2952646.jpg?tf=1200x' alt='Este mapa nos muestra la probabilidad de terremotos en todas las zonas de España' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/inteligencia-artificial-tiene-preguntas-clave-ligar-usan-chatgpt-apps-como-tinder-1197900'>La inteligencia artificial tiene las preguntas clave para ligar: así usan ChatGPT en apps como Tinder </a></h4>
-    <a href='https://computerhoy.com/apps/inteligencia-artificial-tiene-preguntas-clave-ligar-usan-chatgpt-apps-como-tinder-1197900' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/tinder-2951800.jpg?tf=1200x' alt='La inteligencia artificial tiene las preguntas clave para ligar: así usan ChatGPT en apps como Tinder ' />
+    <h4><a href='https://computerhoy.com/analisis/oneplus-11-5g-review-1197976'>OnePlus 11 5G, OnePlus vuelve al mercado de la gama alta con su buque insignia</a></h4>
+    <a href='https://computerhoy.com/analisis/oneplus-11-5g-review-1197976' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/oneplus-11-5g-analisis-opinion-2952394.jpg?tf=1200x' alt='OnePlus 11 5G, OnePlus vuelve al mercado de la gama alta con su buque insignia' />
     </a>
 </div>
 
