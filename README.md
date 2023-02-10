@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/energia/crean-nueva-bateria-coches-electricos-tiempos-carga-impresionantes-1198536'>Crean una nueva batería para coches eléctricos con tiempos de carga impresionantes</a></h4>
+    <a href='https://computerhoy.com/energia/crean-nueva-bateria-coches-electricos-tiempos-carga-impresionantes-1198536' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/coche-electrico-2953096.jpg?tf=1200x' alt='Crean una nueva batería para coches eléctricos con tiempos de carga impresionantes' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/listas/entretenimiento/mejores-peliculas-guerra-belicas-puedes-ver-netflix-393125'>Las mejores películas de guerra (bélicas) que puedes ver en Netflix</a></h4>
     <a href='https://computerhoy.com/listas/entretenimiento/mejores-peliculas-guerra-belicas-puedes-ver-netflix-393125' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/1917-2327177.jpg?tf=1200x' alt='Las mejores películas de guerra (bélicas) que puedes ver en Netflix' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/streaming/netflix-suma-realidad-virtual-primer-juego-sera-adaptacion-juego-calamar-1198504'>Netflix se suma a la realidad virtual y su primer juego será una adaptación de El juego del calamar</a></h4>
     <a href='https://computerhoy.com/streaming/netflix-suma-realidad-virtual-primer-juego-sera-adaptacion-juego-calamar-1198504' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/juego-calamar-2628033.jpg?tf=1200x' alt='Netflix se suma a la realidad virtual y su primer juego será una adaptación de El juego del calamar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/series-ver-fin-semana-netflix-prime-video-hbo-max-acosador-drogas-1198474'>Qué series ver este fin de semana en Netflix, Prime Video y HBO Max: un acosador, drogas </a></h4>
-    <a href='https://computerhoy.com/entretenimiento/series-ver-fin-semana-netflix-prime-video-hbo-max-acosador-drogas-1198474' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/operacion-marea-negra-2952908.jpg?tf=1200x' alt='Qué series ver este fin de semana en Netflix, Prime Video y HBO Max: un acosador, drogas ' />
     </a>
 </div>
 
