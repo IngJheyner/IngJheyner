@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/mejores/televisores-amazon-fire-tv-1197182'>Televisores con Fire TV como sistema operativo: por qué merecen la pena y cuáles son los mejores</a></h4>
+    <a href='https://computerhoy.com/mejores/televisores-amazon-fire-tv-1197182' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/smart-tv-fire-tv-2950586.jpg?tf=1200x' alt='Televisores con Fire TV como sistema operativo: por qué merecen la pena y cuáles son los mejores' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/video-pajaros-antes-terremoto-turquia-1198242'>Este vídeo muestra el extraño comportamiento de los pájaros, antes del terremoto de Turquía</a></h4>
     <a href='https://computerhoy.com/life/video-pajaros-antes-terremoto-turquia-1198242' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/video-muestra-extrano-comportamiento-pajaros-antes-terremoto-turquia-2952392.jpg?tf=1200x' alt='Este vídeo muestra el extraño comportamiento de los pájaros, antes del terremoto de Turquía' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/patrocinado/smartphone-android-solo-vale-100-euros-oferta-aliexpress-1197632'>¿Un smartphone Android que solo vale 100 euros? así es la oferta de AliExpress</a></h4>
     <a href='https://computerhoy.com/patrocinado/smartphone-android-solo-vale-100-euros-oferta-aliexpress-1197632' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/xiaomi-redmi-9at-2299373.jpg?tf=1200x' alt='¿Un smartphone Android que solo vale 100 euros? así es la oferta de AliExpress' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/adaptador-red-gigabit-usb-oferta-1198000'>Este adaptador de red Gigabit por USB te permitirá conectarte a Internet a 1 Gbps, si tu PC o consola no aceptan más de 100 Mbps</a></h4>
-    <a href='https://computerhoy.com/internet/adaptador-red-gigabit-usb-oferta-1198000' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/adaptador-red-usb-te-permitira-conectarte-internet-1-gbps-pc-consola-no-aceptan-100-mbps-2952156.jpg?tf=1200x' alt='Este adaptador de red Gigabit por USB te permitirá conectarte a Internet a 1 Gbps, si tu PC o consola no aceptan más de 100 Mbps' />
     </a>
 </div>
 
