@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-vivo-1109811'>Estos son los mejores móviles de vivo por rango de precio</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-vivo-1109811' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/vivo-x80-pro-2752735.jpg?tf=1200x' alt='Estos son los mejores móviles de vivo por rango de precio' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/criptos/moneda-digital-criptomoneda-sabes-cuales-son-diferencias-1197916'>Moneda digital y criptomoneda: ¿sabes cuáles son sus diferencias?</a></h4>
+    <a href='https://computerhoy.com/criptos/moneda-digital-criptomoneda-sabes-cuales-son-diferencias-1197916' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/moneda-digital-criptomoneda-sabes-cuales-son-diferencias-2951882.jpg?tf=1200x' alt='Moneda digital y criptomoneda: ¿sabes cuáles son sus diferencias?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/26-noticias-tecnologia-comenzar-manana-informado-ultimo-1198248'>26 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
+    <a href='https://computerhoy.com/tecnologia/26-noticias-tecnologia-comenzar-manana-informado-ultimo-1198248' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/26-noticias-tecnologia-comenzar-manana-informado-ultimo-2952418.jpg?tf=1200x' alt='26 noticias de tecnología para comenzar la mañana informado de lo último' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/mejores/televisores-amazon-fire-tv-1197182'>Televisores con Fire TV como sistema operativo: por qué merecen la pena y cuáles son los mejores</a></h4>
     <a href='https://computerhoy.com/mejores/televisores-amazon-fire-tv-1197182' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/smart-tv-fire-tv-2950586.jpg?tf=1200x' alt='Televisores con Fire TV como sistema operativo: por qué merecen la pena y cuáles son los mejores' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/life/video-pajaros-antes-terremoto-turquia-1198242'>Este vídeo muestra el extraño comportamiento de los pájaros, antes del terremoto de Turquía</a></h4>
     <a href='https://computerhoy.com/life/video-pajaros-antes-terremoto-turquia-1198242' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/video-muestra-extrano-comportamiento-pajaros-antes-terremoto-turquia-2952392.jpg?tf=1200x' alt='Este vídeo muestra el extraño comportamiento de los pájaros, antes del terremoto de Turquía' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/patrocinado/oferton-smartphone-redmi-aliexpress-menos-150-euros-1197050'>¡Ofertón! smartphone Redmi en AliExpress por menos de 150 euros</a></h4>
-    <a href='https://computerhoy.com/patrocinado/oferton-smartphone-redmi-aliexpress-menos-150-euros-1197050' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/redmi-10c-2949944.jpg?tf=1200x' alt='¡Ofertón! smartphone Redmi en AliExpress por menos de 150 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/google-chrome-110-no-funciona-windows-7-1198010'>La última versión de Chrome ya no funciona en Windows 7, Windows 10 es el siguiente</a></h4>
-    <a href='https://computerhoy.com/google/google-chrome-110-no-funciona-windows-7-1198010' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/11/windows-7-chrome-2143329.jpg?tf=1200x' alt='La última versión de Chrome ya no funciona en Windows 7, Windows 10 es el siguiente' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/patrocinado/smartphone-android-solo-vale-100-euros-oferta-aliexpress-1197632'>¿Un smartphone Android que solo vale 100 euros? así es la oferta de AliExpress</a></h4>
-    <a href='https://computerhoy.com/patrocinado/smartphone-android-solo-vale-100-euros-oferta-aliexpress-1197632' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/xiaomi-redmi-9at-2299373.jpg?tf=1200x' alt='¿Un smartphone Android que solo vale 100 euros? así es la oferta de AliExpress' />
     </a>
 </div>
 
