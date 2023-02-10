@@ -50,9 +50,17 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/alimentacion/estos-son-supermercados-favoritos-consumidores-mercadona-no-mejor-valoradas-1198538'>Estos son los supermercados favoritos de los consumidores y Mercadona no es de las mejor valoradas</a></h4>
+    <h4><a href='https://computerhoy.com/entretenimiento/carlos-saura-donde-ver-mejores-peliculas-1198548'>Fallece Carlos Saura, el último gran director clásico que nos quedaba: dónde ver sus mejores películas</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/carlos-saura-donde-ver-mejores-peliculas-1198548' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/fallece-carlos-saura-ultimo-gran-director-clasico-nos-quedaba-2953194.jpg?tf=1200x' alt='Fallece Carlos Saura, el último gran director clásico que nos quedaba: dónde ver sus mejores películas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/alimentacion/estos-son-supermercados-favoritos-consumidores-mercadona-no-mejor-valoradas-1198538'>Estos son los supermercados favoritos de los consumidores y Mercadona no es de los mejor valorados</a></h4>
     <a href='https://computerhoy.com/alimentacion/estos-son-supermercados-favoritos-consumidores-mercadona-no-mejor-valoradas-1198538' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/supermercado-2953104.jpg?tf=1200x' alt='Estos son los supermercados favoritos de los consumidores y Mercadona no es de las mejor valoradas' />
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/supermercado-2953104.jpg?tf=1200x' alt='Estos son los supermercados favoritos de los consumidores y Mercadona no es de los mejor valorados' />
     </a>
 </div>
 
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/relojes-inteligentes-baratos-regalar-san-valentin-1197142'>5 relojes inteligentes muy baratos para regalar por San Valentín</a></h4>
     <a href='https://computerhoy.com/tecnologia/relojes-inteligentes-baratos-regalar-san-valentin-1197142' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/realme-watch-3-analisis-opinion-2815513.jpg?tf=1200x' alt='5 relojes inteligentes muy baratos para regalar por San Valentín' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/redes-sociales/ego-elon-musk-ha-costado-trabajador-twitter-puesto-1198524'>El ego de Elon Musk le ha costado a un trabajador de Twitter su puesto</a></h4>
-    <a href='https://computerhoy.com/redes-sociales/ego-elon-musk-ha-costado-trabajador-twitter-puesto-1198524' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/elon-musk-2903170.jpg?tf=1200x' alt='El ego de Elon Musk le ha costado a un trabajador de Twitter su puesto' />
     </a>
 </div>
 
