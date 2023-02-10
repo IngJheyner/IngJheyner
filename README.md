@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/video-pajaros-antes-terremoto-turquia-1198242'>Este vídeo muestra el extraño comportamiento de los pájaros, antes del terremoto de Turquía</a></h4>
+    <a href='https://computerhoy.com/life/video-pajaros-antes-terremoto-turquia-1198242' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/video-muestra-extrano-comportamiento-pajaros-antes-terremoto-turquia-2952392.jpg?tf=1200x' alt='Este vídeo muestra el extraño comportamiento de los pájaros, antes del terremoto de Turquía' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/patrocinado/oferton-smartphone-redmi-aliexpress-menos-150-euros-1197050'>¡Ofertón! smartphone Redmi en AliExpress por menos de 150 euros</a></h4>
     <a href='https://computerhoy.com/patrocinado/oferton-smartphone-redmi-aliexpress-menos-150-euros-1197050' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/redmi-10c-2949944.jpg?tf=1200x' alt='¡Ofertón! smartphone Redmi en AliExpress por menos de 150 euros' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/internet/adaptador-red-gigabit-usb-oferta-1198000'>Este adaptador de red Gigabit por USB te permitirá conectarte a Internet a 1 Gbps, si tu PC o consola no aceptan más de 100 Mbps</a></h4>
     <a href='https://computerhoy.com/internet/adaptador-red-gigabit-usb-oferta-1198000' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/adaptador-red-usb-te-permitira-conectarte-internet-1-gbps-pc-consola-no-aceptan-100-mbps-2952156.jpg?tf=1200x' alt='Este adaptador de red Gigabit por USB te permitirá conectarte a Internet a 1 Gbps, si tu PC o consola no aceptan más de 100 Mbps' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/netflix-guerra-solitario-gigantes-sobrevivir-1197988'>Netflix y su guerra en solitario contra gigantes, ¿puede sobrevivir?</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/netflix-guerra-solitario-gigantes-sobrevivir-1197988' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/netflix-guerra-solitario-gigantes-puede-sobrevivir-2952062.jpg?tf=1200x' alt='Netflix y su guerra en solitario contra gigantes, ¿puede sobrevivir?' />
     </a>
 </div>
 
