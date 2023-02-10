@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/microsoft-word-powerpoint-outlook-chatgpt-prometheus-1198550'>Microsoft presentará el mes que viene sus versiones de Word, PowerPoint y Outlook con ChatGPT, ¿qué aportan?</a></h4>
+    <a href='https://computerhoy.com/tecnologia/microsoft-word-powerpoint-outlook-chatgpt-prometheus-1198550' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/microsoft-presentara-mes-viene-versiones-word-powerpoint-outlook-chatgpt-2953200.jpg?tf=1200x' alt='Microsoft presentará el mes que viene sus versiones de Word, PowerPoint y Outlook con ChatGPT, ¿qué aportan?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/entretenimiento/carlos-saura-donde-ver-mejores-peliculas-1198548'>Fallece Carlos Saura, el último gran director clásico que nos quedaba: dónde ver sus mejores películas</a></h4>
     <a href='https://computerhoy.com/entretenimiento/carlos-saura-donde-ver-mejores-peliculas-1198548' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/fallece-carlos-saura-ultimo-gran-director-clasico-nos-quedaba-2953194.jpg?tf=1200x' alt='Fallece Carlos Saura, el último gran director clásico que nos quedaba: dónde ver sus mejores películas' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/listas/entretenimiento/mejores-peliculas-guerra-belicas-puedes-ver-netflix-393125'>Las mejores películas de guerra (bélicas) que puedes ver en Netflix</a></h4>
     <a href='https://computerhoy.com/listas/entretenimiento/mejores-peliculas-guerra-belicas-puedes-ver-netflix-393125' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/1917-2327177.jpg?tf=1200x' alt='Las mejores películas de guerra (bélicas) que puedes ver en Netflix' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/relojes-inteligentes-baratos-regalar-san-valentin-1197142'>5 relojes inteligentes muy baratos para regalar por San Valentín</a></h4>
-    <a href='https://computerhoy.com/tecnologia/relojes-inteligentes-baratos-regalar-san-valentin-1197142' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/realme-watch-3-analisis-opinion-2815513.jpg?tf=1200x' alt='5 relojes inteligentes muy baratos para regalar por San Valentín' />
     </a>
 </div>
 
