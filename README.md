@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/moviles/resistente-samsung-galaxy-s23-ultra-1198310'>Así de resistente es el Samsung Galaxy S23 Ultra</a></h4>
+    <a href='https://computerhoy.com/moviles/resistente-samsung-galaxy-s23-ultra-1198310' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/impresiones-samsung-galaxy-s23-ultra-2943556.jpg?tf=1200x' alt='Así de resistente es el Samsung Galaxy S23 Ultra' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/gaming/ps5-stock-the-last-of-us-1197118'>Esta PS5 tiene stock y además viene con el juego de la serie de moda: The Last of Us</a></h4>
     <a href='https://computerhoy.com/gaming/ps5-stock-the-last-of-us-1197118' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/last-us-remastered-2950058.jpg?tf=1200x' alt='Esta PS5 tiene stock y además viene con el juego de la serie de moda: The Last of Us' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/apps/inteligencia-artificial-tiene-preguntas-clave-ligar-usan-chatgpt-apps-como-tinder-1197900'>La inteligencia artificial tiene las preguntas clave para ligar: así usan ChatGPT en apps como Tinder </a></h4>
     <a href='https://computerhoy.com/apps/inteligencia-artificial-tiene-preguntas-clave-ligar-usan-chatgpt-apps-como-tinder-1197900' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/tinder-2951800.jpg?tf=1200x' alt='La inteligencia artificial tiene las preguntas clave para ligar: así usan ChatGPT en apps como Tinder ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-vivo-1109811'>Estos son los mejores móviles de vivo por rango de precio</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-vivo-1109811' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/vivo-x80-pro-2752735.jpg?tf=1200x' alt='Estos son los mejores móviles de vivo por rango de precio' />
     </a>
 </div>
 
