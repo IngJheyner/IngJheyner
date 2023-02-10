@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/como-suceden-terremotos-son-tan-dificiles-prever-1198268'>Cómo suceden los terremotos y por qué son tan difíciles de prever</a></h4>
+    <a href='https://computerhoy.com/ciencia/como-suceden-terremotos-son-tan-dificiles-prever-1198268' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/como-suceden-terremotos-son-tan-dificiles-prever-2952496.jpg?tf=1200x' alt='Cómo suceden los terremotos y por qué son tan difíciles de prever' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/inteligencia-artificial-tiene-preguntas-clave-ligar-usan-chatgpt-apps-como-tinder-1197900'>La inteligencia artificial tiene las preguntas clave para ligar: así usan ChatGPT en apps como Tinder </a></h4>
+    <a href='https://computerhoy.com/apps/inteligencia-artificial-tiene-preguntas-clave-ligar-usan-chatgpt-apps-como-tinder-1197900' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/tinder-2951800.jpg?tf=1200x' alt='La inteligencia artificial tiene las preguntas clave para ligar: así usan ChatGPT en apps como Tinder ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-vivo-1109811'>Estos son los mejores móviles de vivo por rango de precio</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-vivo-1109811' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/vivo-x80-pro-2752735.jpg?tf=1200x' alt='Estos son los mejores móviles de vivo por rango de precio' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/26-noticias-tecnologia-comenzar-manana-informado-ultimo-1198248'>26 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
     <a href='https://computerhoy.com/tecnologia/26-noticias-tecnologia-comenzar-manana-informado-ultimo-1198248' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/26-noticias-tecnologia-comenzar-manana-informado-ultimo-2952418.jpg?tf=1200x' alt='26 noticias de tecnología para comenzar la mañana informado de lo último' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/mejores/televisores-amazon-fire-tv-1197182'>Televisores con Fire TV como sistema operativo: por qué merecen la pena y cuáles son los mejores</a></h4>
-    <a href='https://computerhoy.com/mejores/televisores-amazon-fire-tv-1197182' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/smart-tv-fire-tv-2950586.jpg?tf=1200x' alt='Televisores con Fire TV como sistema operativo: por qué merecen la pena y cuáles son los mejores' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/video-pajaros-antes-terremoto-turquia-1198242'>Este vídeo muestra el extraño comportamiento de los pájaros, antes del terremoto de Turquía</a></h4>
-    <a href='https://computerhoy.com/life/video-pajaros-antes-terremoto-turquia-1198242' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/video-muestra-extrano-comportamiento-pajaros-antes-terremoto-turquia-2952392.jpg?tf=1200x' alt='Este vídeo muestra el extraño comportamiento de los pájaros, antes del terremoto de Turquía' />
     </a>
 </div>
 
