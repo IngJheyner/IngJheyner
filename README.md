@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/alimentacion/estos-son-supermercados-favoritos-consumidores-mercadona-no-mejor-valoradas-1198538'>Estos son los supermercados favoritos de los consumidores y Mercadona no es de las mejor valoradas</a></h4>
+    <a href='https://computerhoy.com/alimentacion/estos-son-supermercados-favoritos-consumidores-mercadona-no-mejor-valoradas-1198538' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/supermercado-2953104.jpg?tf=1200x' alt='Estos son los supermercados favoritos de los consumidores y Mercadona no es de las mejor valoradas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/energia/crean-nueva-bateria-coches-electricos-tiempos-carga-impresionantes-1198536'>Crean una nueva batería para coches eléctricos con tiempos de carga impresionantes</a></h4>
     <a href='https://computerhoy.com/energia/crean-nueva-bateria-coches-electricos-tiempos-carga-impresionantes-1198536' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/coche-electrico-2953096.jpg?tf=1200x' alt='Crean una nueva batería para coches eléctricos con tiempos de carga impresionantes' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/redes-sociales/ego-elon-musk-ha-costado-trabajador-twitter-puesto-1198524'>El ego de Elon Musk le ha costado a un trabajador de Twitter su puesto</a></h4>
     <a href='https://computerhoy.com/redes-sociales/ego-elon-musk-ha-costado-trabajador-twitter-puesto-1198524' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/elon-musk-2903170.jpg?tf=1200x' alt='El ego de Elon Musk le ha costado a un trabajador de Twitter su puesto' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/streaming/netflix-suma-realidad-virtual-primer-juego-sera-adaptacion-juego-calamar-1198504'>Netflix se suma a la realidad virtual y su primer juego será una adaptación de El juego del calamar</a></h4>
-    <a href='https://computerhoy.com/streaming/netflix-suma-realidad-virtual-primer-juego-sera-adaptacion-juego-calamar-1198504' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/juego-calamar-2628033.jpg?tf=1200x' alt='Netflix se suma a la realidad virtual y su primer juego será una adaptación de El juego del calamar' />
     </a>
 </div>
 
