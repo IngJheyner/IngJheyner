@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/peliculas-ver-fin-semana-netflix-movistar-plus-hbo-max-cerdita-ashton-kutcher-colapso-ecologico-1198292'>Qué películas ver este fin de semana en Netflix, Movistar Plus+ y HBO Max: Cerdita, Ashton Kutcher y un colapso ecológico </a></h4>
+    <a href='https://computerhoy.com/entretenimiento/peliculas-ver-fin-semana-netflix-movistar-plus-hbo-max-cerdita-ashton-kutcher-colapso-ecologico-1198292' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/peliculas-ver-fin-semana-netflix-movistar-plus-hbo-max-cerdita-ashton-kutcher-colapso-ecologico-2952696.jpg?tf=1200x' alt='Qué películas ver este fin de semana en Netflix, Movistar Plus+ y HBO Max: Cerdita, Ashton Kutcher y un colapso ecológico ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/windows/fin-llega-soporte-nativo-centralizado-luces-rgb-windows-11-1198436'>Por fin llega el soporte nativo y centralizado de luces RGB a Windows 11</a></h4>
     <a href='https://computerhoy.com/windows/fin-llega-soporte-nativo-centralizado-luces-rgb-windows-11-1198436' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/pc-tarjeta-grafica-rgb-2400101.jpg?tf=1200x' alt='Por fin llega el soporte nativo y centralizado de luces RGB a Windows 11' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/televisor-4k-barato-movil-50-pulgadas-chollo-carrefour-necesitas-1197254'>Un televisor 4K más barato que un móvil, y de 50 pulgadas: el chollo de Carrefour que necesitas</a></h4>
     <a href='https://computerhoy.com/tecnologia/televisor-4k-barato-movil-50-pulgadas-chollo-carrefour-necesitas-1197254' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/systems-w50cf12smart-2951292.jpg?tf=1200x' alt='Un televisor 4K más barato que un móvil, y de 50 pulgadas: el chollo de Carrefour que necesitas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/atropella-coche-google-maps-moto-pleno-recorrido-1198354'>Así atropella el coche de Google Maps a una moto en pleno recorrido</a></h4>
-    <a href='https://computerhoy.com/google/atropella-coche-google-maps-moto-pleno-recorrido-1198354' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/coche-google-maps-2952652.jpg?tf=1200x' alt='Así atropella el coche de Google Maps a una moto en pleno recorrido' />
     </a>
 </div>
 
