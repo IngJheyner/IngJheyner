@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/listas/entretenimiento/mejores-peliculas-guerra-belicas-puedes-ver-netflix-393125'>Las mejores películas de guerra (bélicas) que puedes ver en Netflix</a></h4>
+    <a href='https://computerhoy.com/listas/entretenimiento/mejores-peliculas-guerra-belicas-puedes-ver-netflix-393125' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/1917-2327177.jpg?tf=1200x' alt='Las mejores películas de guerra (bélicas) que puedes ver en Netflix' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/relojes-inteligentes-baratos-regalar-san-valentin-1197142'>5 relojes inteligentes muy baratos para regalar por San Valentín</a></h4>
+    <a href='https://computerhoy.com/tecnologia/relojes-inteligentes-baratos-regalar-san-valentin-1197142' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/realme-watch-3-analisis-opinion-2815513.jpg?tf=1200x' alt='5 relojes inteligentes muy baratos para regalar por San Valentín' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/redes-sociales/ego-elon-musk-ha-costado-trabajador-twitter-puesto-1198524'>El ego de Elon Musk le ha costado a un trabajador de Twitter su puesto</a></h4>
+    <a href='https://computerhoy.com/redes-sociales/ego-elon-musk-ha-costado-trabajador-twitter-puesto-1198524' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/elon-musk-2903170.jpg?tf=1200x' alt='El ego de Elon Musk le ha costado a un trabajador de Twitter su puesto' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/streaming/netflix-suma-realidad-virtual-primer-juego-sera-adaptacion-juego-calamar-1198504'>Netflix se suma a la realidad virtual y su primer juego será una adaptación de El juego del calamar</a></h4>
     <a href='https://computerhoy.com/streaming/netflix-suma-realidad-virtual-primer-juego-sera-adaptacion-juego-calamar-1198504' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/juego-calamar-2628033.jpg?tf=1200x' alt='Netflix se suma a la realidad virtual y su primer juego será una adaptación de El juego del calamar' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/entretenimiento/series-ver-fin-semana-netflix-prime-video-hbo-max-acosador-drogas-1198474'>Qué series ver este fin de semana en Netflix, Prime Video y HBO Max: un acosador, drogas </a></h4>
     <a href='https://computerhoy.com/entretenimiento/series-ver-fin-semana-netflix-prime-video-hbo-max-acosador-drogas-1198474' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/operacion-marea-negra-2952908.jpg?tf=1200x' alt='Qué series ver este fin de semana en Netflix, Prime Video y HBO Max: un acosador, drogas ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/peliculas-ver-fin-semana-netflix-movistar-plus-hbo-max-cerdita-ashton-kutcher-colapso-ecologico-1198292'>Qué películas ver este fin de semana en Netflix, Movistar Plus+ y HBO Max: Cerdita, Ashton Kutcher y un colapso ecológico </a></h4>
-    <a href='https://computerhoy.com/entretenimiento/peliculas-ver-fin-semana-netflix-movistar-plus-hbo-max-cerdita-ashton-kutcher-colapso-ecologico-1198292' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/peliculas-ver-fin-semana-netflix-movistar-plus-hbo-max-cerdita-ashton-kutcher-colapso-ecologico-2952696.jpg?tf=1200x' alt='Qué películas ver este fin de semana en Netflix, Movistar Plus+ y HBO Max: Cerdita, Ashton Kutcher y un colapso ecológico ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/fin-llega-soporte-nativo-centralizado-luces-rgb-windows-11-1198436'>Por fin llega el soporte nativo y centralizado de luces RGB a Windows 11</a></h4>
-    <a href='https://computerhoy.com/windows/fin-llega-soporte-nativo-centralizado-luces-rgb-windows-11-1198436' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/pc-tarjeta-grafica-rgb-2400101.jpg?tf=1200x' alt='Por fin llega el soporte nativo y centralizado de luces RGB a Windows 11' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/legislacion/diferencia-obra-fotografica-mera-fotografia-como-no-pagar-derechos-autor-1198378'>La diferencia entre obra fotográfica y mera fotografía o cómo no pagar derechos de autor</a></h4>
-    <a href='https://computerhoy.com/legislacion/diferencia-obra-fotografica-mera-fotografia-como-no-pagar-derechos-autor-1198378' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/fotografa-tomando-fotografia-2674149.jpg?tf=1200x' alt='La diferencia entre obra fotográfica y mera fotografía o cómo no pagar derechos de autor' />
     </a>
 </div>
 
