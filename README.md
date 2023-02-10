@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/patrocinado/oferton-smartphone-redmi-aliexpress-menos-150-euros-1197050'>¡Ofertón! smartphone Redmi en AliExpress por menos de 150 euros</a></h4>
+    <a href='https://computerhoy.com/patrocinado/oferton-smartphone-redmi-aliexpress-menos-150-euros-1197050' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/redmi-10c-2949944.jpg?tf=1200x' alt='¡Ofertón! smartphone Redmi en AliExpress por menos de 150 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/google/google-chrome-110-no-funciona-windows-7-1198010'>La última versión de Chrome ya no funciona en Windows 7, Windows 10 es el siguiente</a></h4>
+    <a href='https://computerhoy.com/google/google-chrome-110-no-funciona-windows-7-1198010' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/11/windows-7-chrome-2143329.jpg?tf=1200x' alt='La última versión de Chrome ya no funciona en Windows 7, Windows 10 es el siguiente' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/patrocinado/smartphone-android-solo-vale-100-euros-oferta-aliexpress-1197632'>¿Un smartphone Android que solo vale 100 euros? así es la oferta de AliExpress</a></h4>
+    <a href='https://computerhoy.com/patrocinado/smartphone-android-solo-vale-100-euros-oferta-aliexpress-1197632' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/xiaomi-redmi-9at-2299373.jpg?tf=1200x' alt='¿Un smartphone Android que solo vale 100 euros? así es la oferta de AliExpress' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/internet/adaptador-red-gigabit-usb-oferta-1198000'>Este adaptador de red Gigabit por USB te permitirá conectarte a Internet a 1 Gbps, si tu PC o consola no aceptan más de 100 Mbps</a></h4>
     <a href='https://computerhoy.com/internet/adaptador-red-gigabit-usb-oferta-1198000' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/adaptador-red-usb-te-permitira-conectarte-internet-1-gbps-pc-consola-no-aceptan-100-mbps-2952156.jpg?tf=1200x' alt='Este adaptador de red Gigabit por USB te permitirá conectarte a Internet a 1 Gbps, si tu PC o consola no aceptan más de 100 Mbps' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/entretenimiento/netflix-guerra-solitario-gigantes-sobrevivir-1197988'>Netflix y su guerra en solitario contra gigantes, ¿puede sobrevivir?</a></h4>
     <a href='https://computerhoy.com/entretenimiento/netflix-guerra-solitario-gigantes-sobrevivir-1197988' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/netflix-guerra-solitario-gigantes-puede-sobrevivir-2952062.jpg?tf=1200x' alt='Netflix y su guerra en solitario contra gigantes, ¿puede sobrevivir?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/podras-utilizar-bateria-coche-electrico-dar-energia-casa-1197982'>Podrás utilizar la batería del coche eléctrico para dar energía a tu casa</a></h4>
-    <a href='https://computerhoy.com/motor/podras-utilizar-bateria-coche-electrico-dar-energia-casa-1197982' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/coche-electrico-2915122.jpg?tf=1200x' alt='Podrás utilizar la batería del coche eléctrico para dar energía a tu casa' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/robot-aspirador-grabo-mujer-bano-imagenes-terminaron-facebook-1197978'>Un robot aspirador grabó a una mujer en el baño y las imágenes terminaron en Facebook</a></h4>
-    <a href='https://computerhoy.com/internet/robot-aspirador-grabo-mujer-bano-imagenes-terminaron-facebook-1197978' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/robot-aspirador-2952136.jpg?tf=1200x' alt='Un robot aspirador grabó a una mujer en el baño y las imágenes terminaron en Facebook' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/realme-gt-neo-5-cabeza-carga-rapida-solo-10-minutos-realizar-carga-completa-1197890'>El realme GT Neo 5 a la cabeza de la carga rápida: solo 10 minutos para realizar una carga completa</a></h4>
-    <a href='https://computerhoy.com/moviles/realme-gt-neo-5-cabeza-carga-rapida-solo-10-minutos-realizar-carga-completa-1197890' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/realme-gt-neo-5-cabeza-carga-rapida-solo-10-minutos-realizar-carga-completa-2951986.jpg?tf=1200x' alt='El realme GT Neo 5 a la cabeza de la carga rápida: solo 10 minutos para realizar una carga completa' />
     </a>
 </div>
 
