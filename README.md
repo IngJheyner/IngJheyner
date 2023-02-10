@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/streaming/netflix-suma-realidad-virtual-primer-juego-sera-adaptacion-juego-calamar-1198504'>Netflix se suma a la realidad virtual y su primer juego será una adaptación de El juego del calamar</a></h4>
+    <a href='https://computerhoy.com/streaming/netflix-suma-realidad-virtual-primer-juego-sera-adaptacion-juego-calamar-1198504' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/juego-calamar-2628033.jpg?tf=1200x' alt='Netflix se suma a la realidad virtual y su primer juego será una adaptación de El juego del calamar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/series-ver-fin-semana-netflix-prime-video-hbo-max-acosador-drogas-1198474'>Qué series ver este fin de semana en Netflix, Prime Video y HBO Max: un acosador, drogas </a></h4>
+    <a href='https://computerhoy.com/entretenimiento/series-ver-fin-semana-netflix-prime-video-hbo-max-acosador-drogas-1198474' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/operacion-marea-negra-2952908.jpg?tf=1200x' alt='Qué series ver este fin de semana en Netflix, Prime Video y HBO Max: un acosador, drogas ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/entretenimiento/peliculas-ver-fin-semana-netflix-movistar-plus-hbo-max-cerdita-ashton-kutcher-colapso-ecologico-1198292'>Qué películas ver este fin de semana en Netflix, Movistar Plus+ y HBO Max: Cerdita, Ashton Kutcher y un colapso ecológico </a></h4>
     <a href='https://computerhoy.com/entretenimiento/peliculas-ver-fin-semana-netflix-movistar-plus-hbo-max-cerdita-ashton-kutcher-colapso-ecologico-1198292' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/peliculas-ver-fin-semana-netflix-movistar-plus-hbo-max-cerdita-ashton-kutcher-colapso-ecologico-2952696.jpg?tf=1200x' alt='Qué películas ver este fin de semana en Netflix, Movistar Plus+ y HBO Max: Cerdita, Ashton Kutcher y un colapso ecológico ' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/legislacion/diferencia-obra-fotografica-mera-fotografia-como-no-pagar-derechos-autor-1198378'>La diferencia entre obra fotográfica y mera fotografía o cómo no pagar derechos de autor</a></h4>
     <a href='https://computerhoy.com/legislacion/diferencia-obra-fotografica-mera-fotografia-como-no-pagar-derechos-autor-1198378' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/fotografa-tomando-fotografia-2674149.jpg?tf=1200x' alt='La diferencia entre obra fotográfica y mera fotografía o cómo no pagar derechos de autor' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/conectividad-adaptativa-funcion-exclusiva-pixel-deberia-llegar-todo-movil-android-5g-1198366'>Conectividad adaptativa: una función exclusiva de los Pixel que debería llegar a todo móvil Android 5G</a></h4>
-    <a href='https://computerhoy.com/tecnologia/conectividad-adaptativa-funcion-exclusiva-pixel-deberia-llegar-todo-movil-android-5g-1198366' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/analisis-pixel-6a-2765519.jpg?tf=1200x' alt='Conectividad adaptativa: una función exclusiva de los Pixel que debería llegar a todo móvil Android 5G' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/televisor-4k-barato-movil-50-pulgadas-chollo-carrefour-necesitas-1197254'>Un televisor 4K más barato que un móvil, y de 50 pulgadas: el chollo de Carrefour que necesitas</a></h4>
-    <a href='https://computerhoy.com/tecnologia/televisor-4k-barato-movil-50-pulgadas-chollo-carrefour-necesitas-1197254' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/systems-w50cf12smart-2951292.jpg?tf=1200x' alt='Un televisor 4K más barato que un móvil, y de 50 pulgadas: el chollo de Carrefour que necesitas' />
     </a>
 </div>
 
