@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/gaming/ps5-stock-the-last-of-us-1197118'>Esta PS5 tiene stock y además viene con el juego de la serie de moda: The Last of Us</a></h4>
+    <a href='https://computerhoy.com/gaming/ps5-stock-the-last-of-us-1197118' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/last-us-remastered-2950058.jpg?tf=1200x' alt='Esta PS5 tiene stock y además viene con el juego de la serie de moda: The Last of Us' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/olvida-chatgpt-inteligencia-artificial-triunfa-llama-dan-1198306'>Olvida a ChatGPT, la inteligencia artificial que más triunfa se llama DAN</a></h4>
+    <a href='https://computerhoy.com/tecnologia/olvida-chatgpt-inteligencia-artificial-triunfa-llama-dan-1198306' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/inteligencia-artificial-2952530.jpg?tf=1200x' alt='Olvida a ChatGPT, la inteligencia artificial que más triunfa se llama DAN' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciencia/como-suceden-terremotos-son-tan-dificiles-prever-1198268'>Cómo suceden los terremotos y por qué son tan difíciles de prever</a></h4>
     <a href='https://computerhoy.com/ciencia/como-suceden-terremotos-son-tan-dificiles-prever-1198268' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/como-suceden-terremotos-son-tan-dificiles-prever-2952496.jpg?tf=1200x' alt='Cómo suceden los terremotos y por qué son tan difíciles de prever' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-vivo-1109811'>Estos son los mejores móviles de vivo por rango de precio</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-vivo-1109811' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/vivo-x80-pro-2752735.jpg?tf=1200x' alt='Estos son los mejores móviles de vivo por rango de precio' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/criptos/moneda-digital-criptomoneda-sabes-cuales-son-diferencias-1197916'>Moneda digital y criptomoneda: ¿sabes cuáles son sus diferencias?</a></h4>
-    <a href='https://computerhoy.com/criptos/moneda-digital-criptomoneda-sabes-cuales-son-diferencias-1197916' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/moneda-digital-criptomoneda-sabes-cuales-son-diferencias-2951882.jpg?tf=1200x' alt='Moneda digital y criptomoneda: ¿sabes cuáles son sus diferencias?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/26-noticias-tecnologia-comenzar-manana-informado-ultimo-1198248'>26 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
-    <a href='https://computerhoy.com/tecnologia/26-noticias-tecnologia-comenzar-manana-informado-ultimo-1198248' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/26-noticias-tecnologia-comenzar-manana-informado-ultimo-2952418.jpg?tf=1200x' alt='26 noticias de tecnología para comenzar la mañana informado de lo último' />
     </a>
 </div>
 
