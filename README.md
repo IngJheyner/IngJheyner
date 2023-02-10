@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/windows/fin-llega-soporte-nativo-centralizado-luces-rgb-windows-11-1198436'>Por fin llega el soporte nativo y centralizado de luces RGB a Windows 11</a></h4>
+    <a href='https://computerhoy.com/windows/fin-llega-soporte-nativo-centralizado-luces-rgb-windows-11-1198436' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/pc-tarjeta-grafica-rgb-2400101.jpg?tf=1200x' alt='Por fin llega el soporte nativo y centralizado de luces RGB a Windows 11' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/legislacion/diferencia-obra-fotografica-mera-fotografia-como-no-pagar-derechos-autor-1198378'>La diferencia entre obra fotográfica y mera fotografía o cómo no pagar derechos de autor</a></h4>
+    <a href='https://computerhoy.com/legislacion/diferencia-obra-fotografica-mera-fotografia-como-no-pagar-derechos-autor-1198378' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/fotografa-tomando-fotografia-2674149.jpg?tf=1200x' alt='La diferencia entre obra fotográfica y mera fotografía o cómo no pagar derechos de autor' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/conectividad-adaptativa-funcion-exclusiva-pixel-deberia-llegar-todo-movil-android-5g-1198366'>Conectividad adaptativa: una función exclusiva de los Pixel que debería llegar a todo móvil Android 5G</a></h4>
     <a href='https://computerhoy.com/tecnologia/conectividad-adaptativa-funcion-exclusiva-pixel-deberia-llegar-todo-movil-android-5g-1198366' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/analisis-pixel-6a-2765519.jpg?tf=1200x' alt='Conectividad adaptativa: una función exclusiva de los Pixel que debería llegar a todo móvil Android 5G' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/google/atropella-coche-google-maps-moto-pleno-recorrido-1198354'>Así atropella el coche de Google Maps a una moto en pleno recorrido</a></h4>
     <a href='https://computerhoy.com/google/atropella-coche-google-maps-moto-pleno-recorrido-1198354' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/coche-google-maps-2952652.jpg?tf=1200x' alt='Así atropella el coche de Google Maps a una moto en pleno recorrido' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/mapa-nos-muestra-probabilidad-terremotos-todas-zonas-espana-1198294'>Este mapa nos muestra la probabilidad de terremotos en todas las zonas de España</a></h4>
-    <a href='https://computerhoy.com/life/mapa-nos-muestra-probabilidad-terremotos-todas-zonas-espana-1198294' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/mapa-probabilidad-terremotos-todas-zonas-espana-2952646.jpg?tf=1200x' alt='Este mapa nos muestra la probabilidad de terremotos en todas las zonas de España' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/oneplus-11-5g-review-1197976'>OnePlus 11 5G, OnePlus vuelve al mercado de la gama alta con su buque insignia</a></h4>
-    <a href='https://computerhoy.com/analisis/oneplus-11-5g-review-1197976' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/oneplus-11-5g-analisis-opinion-2952394.jpg?tf=1200x' alt='OnePlus 11 5G, OnePlus vuelve al mercado de la gama alta con su buque insignia' />
     </a>
 </div>
 
