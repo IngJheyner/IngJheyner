@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/android/android-14-prepara-funcionalidad-te-despidas-sim-fisicas-1198846'>Android 14 prepara esta funcionalidad para que te despidas de las SIM físicas</a></h4>
+    <a href='https://computerhoy.com/android/android-14-prepara-funcionalidad-te-despidas-sim-fisicas-1198846' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/tarjeta-sim-2953546.jpg?tf=1200x' alt='Android 14 prepara esta funcionalidad para que te despidas de las SIM físicas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apple/apple-pronuncia-ultimo-error-privacidad-ha-afectado-aplicaciones-populares-1198840'>Apple se pronuncia sobre el último error de privacidad que ha afectado a una de sus aplicaciones más populares</a></h4>
     <a href='https://computerhoy.com/apple/apple-pronuncia-ultimo-error-privacidad-ha-afectado-aplicaciones-populares-1198840' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/iphone-13-2824605.jpg?tf=1200x' alt='Apple se pronuncia sobre el último error de privacidad que ha afectado a una de sus aplicaciones más populares' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/raytracing-como-cambia-experiencia-videojuegos-1183652'>¿Qué es el raytracing y cómo cambia la experiencia de los videojuegos?</a></h4>
     <a href='https://computerhoy.com/tecnologia/raytracing-como-cambia-experiencia-videojuegos-1183652' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/verticalimage1675968921790-2951976.jpg?tf=1200x' alt='¿Qué es el raytracing y cómo cambia la experiencia de los videojuegos?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/estos-auriculares-lenovo-cuestan-solo-2-euros-son-muy-similares-airpods-aunque-precio-ridiculo-977287'>Estos auriculares de Lenovo cuestan sólo 8 euros y son muy similares a los AirPods, aunque su precio es ridículo</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/estos-auriculares-lenovo-cuestan-solo-2-euros-son-muy-similares-airpods-aunque-precio-ridiculo-977287' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/lenovo-lp40-2554807.jpg?tf=1200x' alt='Estos auriculares de Lenovo cuestan sólo 8 euros y son muy similares a los AirPods, aunque su precio es ridículo' />
     </a>
 </div>
 
