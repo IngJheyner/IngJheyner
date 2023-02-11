@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/analisis/review-redmagic-7s-pro-enesima-version-movil-gaming-espectacular-1198300'>Análisis del RedMagic 7S Pro, la enésima versión de un móvil gaming espectacular</a></h4>
+    <a href='https://computerhoy.com/analisis/review-redmagic-7s-pro-enesima-version-movil-gaming-espectacular-1198300' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/analisis-redmagic-7s-pro-2953106.jpg?tf=1200x' alt='Análisis del RedMagic 7S Pro, la enésima versión de un móvil gaming espectacular' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/moviles/movil-plegable-honor-magic-vs-bisagra-samsung-galaxy-z-fold-4-1198794'>Desmontan el plegable Honor Magic Vs para desvelar una mejora importante con respecto al Samsung Galaxy Z Fold 4</a></h4>
+    <a href='https://computerhoy.com/moviles/movil-plegable-honor-magic-vs-bisagra-samsung-galaxy-z-fold-4-1198794' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/honor-magic-vs-2890470.jpg?tf=1200x' alt='Desmontan el plegable Honor Magic Vs para desvelar una mejora importante con respecto al Samsung Galaxy Z Fold 4' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/hogar/herramientas-bricolaje-lidl-parkside-1197814'>Bricolaje Parkside: estas son las herramientas de Lidl que hacen temblar a los gigantes del sector</a></h4>
     <a href='https://computerhoy.com/hogar/herramientas-bricolaje-lidl-parkside-1197814' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/martillo-perforador-parkside-2951604.jpg?tf=1200x' alt='Bricolaje Parkside: estas son las herramientas de Lidl que hacen temblar a los gigantes del sector' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/realidad-virtual/unboxing-oficial-gafas-realidad-virtual-playstation-vr2-video-1198786'>El unboxing oficial de las gafas de realidad virtual PlayStation VR2 muestra una sorpresa final (vídeo)</a></h4>
     <a href='https://computerhoy.com/realidad-virtual/unboxing-oficial-gafas-realidad-virtual-playstation-vr2-video-1198786' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/verticalimage1676088052779-2953438.jpg?tf=1200x' alt='El unboxing oficial de las gafas de realidad virtual PlayStation VR2 muestra una sorpresa final (vídeo)' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-potentes-baratos-jugar-android-1041223'>12 móviles potentes y baratos para jugar a cualquier juego de Android</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-potentes-baratos-jugar-android-1041223' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/realme-9-pro-analisis-opinion-2618121.jpg?tf=1200x' alt='12 móviles potentes y baratos para jugar a cualquier juego de Android' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-configurar-iphone-ios-16-puedan-usar-peques-problemas-1197768'>Cómo configurar el iPhone con iOS 16 para que lo puedan usar los peques sin problemas</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-configurar-iphone-ios-16-puedan-usar-peques-problemas-1197768' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/iphone-2951344.jpg?tf=1200x' alt='Cómo configurar el iPhone con iOS 16 para que lo puedan usar los peques sin problemas' />
     </a>
 </div>
 
