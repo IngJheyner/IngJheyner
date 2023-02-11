@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/motor/xiaomi-pone-fecha-produccion-masa-nuevos-coches-electricos-1198822'>Xiaomi pone fecha a la producción en masa de sus nuevos coches eléctricos</a></h4>
+    <a href='https://computerhoy.com/motor/xiaomi-pone-fecha-produccion-masa-nuevos-coches-electricos-1198822' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/cazan-esperado-coche-electrico-xiaomi-test-secreto-2931938.jpg?tf=1200x' alt='Xiaomi pone fecha a la producción en masa de sus nuevos coches eléctricos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/raytracing-como-cambia-experiencia-videojuegos-1183652'>¿Qué es el raytracing y cómo cambia la experiencia de los videojuegos?</a></h4>
     <a href='https://computerhoy.com/tecnologia/raytracing-como-cambia-experiencia-videojuegos-1183652' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/verticalimage1675968921790-2951976.jpg?tf=1200x' alt='¿Qué es el raytracing y cómo cambia la experiencia de los videojuegos?' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/moviles/movil-plegable-honor-magic-vs-bisagra-samsung-galaxy-z-fold-4-1198794'>Desmontan el plegable Honor Magic Vs para desvelar una mejora importante con respecto al Samsung Galaxy Z Fold 4</a></h4>
     <a href='https://computerhoy.com/moviles/movil-plegable-honor-magic-vs-bisagra-samsung-galaxy-z-fold-4-1198794' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/honor-magic-vs-2890470.jpg?tf=1200x' alt='Desmontan el plegable Honor Magic Vs para desvelar una mejora importante con respecto al Samsung Galaxy Z Fold 4' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/hogar/herramientas-bricolaje-lidl-parkside-1197814'>Bricolaje Parkside: estas son las herramientas de Lidl que hacen temblar a los gigantes del sector</a></h4>
-    <a href='https://computerhoy.com/hogar/herramientas-bricolaje-lidl-parkside-1197814' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/martillo-perforador-parkside-2951604.jpg?tf=1200x' alt='Bricolaje Parkside: estas son las herramientas de Lidl que hacen temblar a los gigantes del sector' />
     </a>
 </div>
 
