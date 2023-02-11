@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/puedes-tomar-capturas-pantalla-cuando-app-movil-no-permite-1195106'>Así puedes tomar capturas de pantalla cuando la app de tu móvil no lo permite</a></h4>
+    <a href='https://computerhoy.com/tutoriales/puedes-tomar-capturas-pantalla-cuando-app-movil-no-permite-1195106' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/smartphone-2946620.jpg?tf=1200x' alt='Así puedes tomar capturas de pantalla cuando la app de tu móvil no lo permite' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/cientificos-descubren-insolita-capa-oculta-rocas-fundidas-debajo-corteza-terrestre-1198854'>Científicos descubren una insólita capa oculta de rocas fundidas debajo de la corteza terrestre</a></h4>
+    <a href='https://computerhoy.com/life/cientificos-descubren-insolita-capa-oculta-rocas-fundidas-debajo-corteza-terrestre-1198854' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/nucleo-tierra-2953560.jpg?tf=1200x' alt='Científicos descubren una insólita capa oculta de rocas fundidas debajo de la corteza terrestre' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apps/carpeta-privada-google-fotos-finalmente-contara-copia-seguridad-nube-1198850'>La carpeta privada de Google Fotos finalmente contará con copia de seguridad en la nube</a></h4>
     <a href='https://computerhoy.com/apps/carpeta-privada-google-fotos-finalmente-contara-copia-seguridad-nube-1198850' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/11/google-fotos_0.jpg?tf=1200x' alt='La carpeta privada de Google Fotos finalmente contará con copia de seguridad en la nube' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/apple/apple-pronuncia-ultimo-error-privacidad-ha-afectado-aplicaciones-populares-1198840'>Apple se pronuncia sobre el último error de privacidad que ha afectado a una de sus aplicaciones más populares</a></h4>
     <a href='https://computerhoy.com/apple/apple-pronuncia-ultimo-error-privacidad-ha-afectado-aplicaciones-populares-1198840' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/iphone-13-2824605.jpg?tf=1200x' alt='Apple se pronuncia sobre el último error de privacidad que ha afectado a una de sus aplicaciones más populares' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/7-series-todavia-no-han-renovado-pesar-todo-mundo-deseandolo-1196754'>7 series que todavía no han renovado a pesar de que todo el mundo está deseándolo</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/7-series-todavia-no-han-renovado-pesar-todo-mundo-deseandolo-1196754' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/white-lotus-2-2901214.jpg?tf=1200x' alt='7 series que todavía no han renovado a pesar de que todo el mundo está deseándolo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/xiaomi-pone-fecha-produccion-masa-nuevos-coches-electricos-1198822'>Xiaomi pone fecha a la producción en masa de sus nuevos coches eléctricos</a></h4>
-    <a href='https://computerhoy.com/motor/xiaomi-pone-fecha-produccion-masa-nuevos-coches-electricos-1198822' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/coche-xiaomi-2953540.jpg?tf=1200x' alt='Xiaomi pone fecha a la producción en masa de sus nuevos coches eléctricos' />
     </a>
 </div>
 
