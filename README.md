@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/android/android-14-dira-aplicaciones-usen-calendario-sistema-numerico-predileccion-1198858'>Android 14 dirá a tus aplicaciones que usen un calendario y sistema numérico de tu predilección</a></h4>
+    <a href='https://computerhoy.com/android/android-14-dira-aplicaciones-usen-calendario-sistema-numerico-predileccion-1198858' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/android-14-2937042.jpg?tf=1200x' alt='Android 14 dirá a tus aplicaciones que usen un calendario y sistema numérico de tu predilección' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/perifericos/logitech-lift-raton-moda-merece-mucho-pena-comprarlo-1198326'>El Logitech Lift es el ratón de moda: por qué merece mucho la pena comprarlo</a></h4>
+    <a href='https://computerhoy.com/perifericos/logitech-lift-raton-moda-merece-mucho-pena-comprarlo-1198326' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/logitech-lift-2952614.jpg?tf=1200x' alt='El Logitech Lift es el ratón de moda: por qué merece mucho la pena comprarlo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apple/informan-problemas-copia-seguridad-icloud-despues-actualizar-ios-iphone-1198856'>Informan de problemas en la copia de seguridad de iCloud después de actualizar iOS en el iPhone</a></h4>
     <a href='https://computerhoy.com/apple/informan-problemas-copia-seguridad-icloud-despues-actualizar-ios-iphone-1198856' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/apple-iphone-14-plus-analisis-opinion-2857685.jpg?tf=1200x' alt='Informan de problemas en la copia de seguridad de iCloud después de actualizar iOS en el iPhone' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/life/cientificos-descubren-insolita-capa-oculta-rocas-fundidas-debajo-corteza-terrestre-1198854'>Científicos descubren una insólita capa oculta de rocas fundidas debajo de la corteza terrestre</a></h4>
     <a href='https://computerhoy.com/life/cientificos-descubren-insolita-capa-oculta-rocas-fundidas-debajo-corteza-terrestre-1198854' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/nucleo-tierra-2953560.jpg?tf=1200x' alt='Científicos descubren una insólita capa oculta de rocas fundidas debajo de la corteza terrestre' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/carpeta-privada-google-fotos-finalmente-contara-copia-seguridad-nube-1198850'>La carpeta privada de Google Fotos finalmente contará con copia de seguridad en la nube</a></h4>
-    <a href='https://computerhoy.com/apps/carpeta-privada-google-fotos-finalmente-contara-copia-seguridad-nube-1198850' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/11/google-fotos_0.jpg?tf=1200x' alt='La carpeta privada de Google Fotos finalmente contará con copia de seguridad en la nube' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/android/android-14-prepara-funcionalidad-te-despidas-sim-fisicas-1198846'>Android 14 prepara esta funcionalidad para que te despidas de las SIM físicas</a></h4>
-    <a href='https://computerhoy.com/android/android-14-prepara-funcionalidad-te-despidas-sim-fisicas-1198846' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/tarjeta-sim-2953546.jpg?tf=1200x' alt='Android 14 prepara esta funcionalidad para que te despidas de las SIM físicas' />
     </a>
 </div>
 
