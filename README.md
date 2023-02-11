@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-configurar-iphone-ios-16-puedan-usar-peques-problemas-1197768'>Cómo configurar el iPhone con iOS 16 para que lo puedan usar los peques sin problemas</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-configurar-iphone-ios-16-puedan-usar-peques-problemas-1197768' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/iphone-2951344.jpg?tf=1200x' alt='Cómo configurar el iPhone con iOS 16 para que lo puedan usar los peques sin problemas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/portatil-macbook-air-m1-descuento-240-euros-1198784'>El portátil MacBook Air con M1 baja de los 1.000 euros, y se convierte en un ultrafino muy recomendable</a></h4>
+    <a href='https://computerhoy.com/apple/portatil-macbook-air-m1-descuento-240-euros-1198784' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/macbook-air-2508941.jpg?tf=1200x' alt='El portátil MacBook Air con M1 baja de los 1.000 euros, y se convierte en un ultrafino muy recomendable' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/microsoft-word-powerpoint-outlook-chatgpt-prometheus-1198550'>Microsoft presentará el mes que viene sus versiones de Word, PowerPoint y Outlook con ChatGPT, ¿qué aportan?</a></h4>
     <a href='https://computerhoy.com/tecnologia/microsoft-word-powerpoint-outlook-chatgpt-prometheus-1198550' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/microsoft-presentara-mes-viene-versiones-word-powerpoint-outlook-chatgpt-2953200.jpg?tf=1200x' alt='Microsoft presentará el mes que viene sus versiones de Word, PowerPoint y Outlook con ChatGPT, ¿qué aportan?' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/alimentacion/estos-son-supermercados-favoritos-consumidores-mercadona-no-mejor-valoradas-1198538'>Estos son los supermercados favoritos de los consumidores y Mercadona no es de los mejor valorados</a></h4>
     <a href='https://computerhoy.com/alimentacion/estos-son-supermercados-favoritos-consumidores-mercadona-no-mejor-valoradas-1198538' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/supermercado-2953104.jpg?tf=1200x' alt='Estos son los supermercados favoritos de los consumidores y Mercadona no es de los mejor valorados' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/energia/crean-nueva-bateria-coches-electricos-tiempos-carga-impresionantes-1198536'>Crean una nueva batería para coches eléctricos con tiempos de carga impresionantes</a></h4>
-    <a href='https://computerhoy.com/energia/crean-nueva-bateria-coches-electricos-tiempos-carga-impresionantes-1198536' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/coche-electrico-2953096.jpg?tf=1200x' alt='Crean una nueva batería para coches eléctricos con tiempos de carga impresionantes' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/listas/entretenimiento/mejores-peliculas-guerra-belicas-puedes-ver-netflix-393125'>Las mejores películas de guerra (bélicas) que puedes ver en Netflix</a></h4>
-    <a href='https://computerhoy.com/listas/entretenimiento/mejores-peliculas-guerra-belicas-puedes-ver-netflix-393125' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/1917-2327177.jpg?tf=1200x' alt='Las mejores películas de guerra (bélicas) que puedes ver en Netflix' />
     </a>
 </div>
 
