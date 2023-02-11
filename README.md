@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/carpeta-privada-google-fotos-finalmente-contara-copia-seguridad-nube-1198850'>La carpeta privada de Google Fotos finalmente contará con copia de seguridad en la nube</a></h4>
+    <a href='https://computerhoy.com/apps/carpeta-privada-google-fotos-finalmente-contara-copia-seguridad-nube-1198850' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/11/google-fotos_0.jpg?tf=1200x' alt='La carpeta privada de Google Fotos finalmente contará con copia de seguridad en la nube' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/android/android-14-prepara-funcionalidad-te-despidas-sim-fisicas-1198846'>Android 14 prepara esta funcionalidad para que te despidas de las SIM físicas</a></h4>
     <a href='https://computerhoy.com/android/android-14-prepara-funcionalidad-te-despidas-sim-fisicas-1198846' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/tarjeta-sim-2953546.jpg?tf=1200x' alt='Android 14 prepara esta funcionalidad para que te despidas de las SIM físicas' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/motor/xiaomi-pone-fecha-produccion-masa-nuevos-coches-electricos-1198822'>Xiaomi pone fecha a la producción en masa de sus nuevos coches eléctricos</a></h4>
     <a href='https://computerhoy.com/motor/xiaomi-pone-fecha-produccion-masa-nuevos-coches-electricos-1198822' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/coche-xiaomi-2953540.jpg?tf=1200x' alt='Xiaomi pone fecha a la producción en masa de sus nuevos coches eléctricos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/raytracing-como-cambia-experiencia-videojuegos-1183652'>¿Qué es el raytracing y cómo cambia la experiencia de los videojuegos?</a></h4>
-    <a href='https://computerhoy.com/tecnologia/raytracing-como-cambia-experiencia-videojuegos-1183652' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/verticalimage1675968921790-2951976.jpg?tf=1200x' alt='¿Qué es el raytracing y cómo cambia la experiencia de los videojuegos?' />
     </a>
 </div>
 
