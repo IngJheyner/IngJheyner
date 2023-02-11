@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/hogar/herramientas-bricolaje-lidl-parkside-1197814'>Bricolaje Parkside: estas son las herramientas de Lidl que hacen temblar a los gigantes del sector</a></h4>
+    <a href='https://computerhoy.com/hogar/herramientas-bricolaje-lidl-parkside-1197814' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/martillo-perforador-parkside-2951604.jpg?tf=1200x' alt='Bricolaje Parkside: estas son las herramientas de Lidl que hacen temblar a los gigantes del sector' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/moviles/tiene-sentido-pedir-samsung-galaxy-s23-sea-revolucion-1195880'>¿Tiene sentido pedir que el Samsung Galaxy S23 sea una revolución?</a></h4>
+    <a href='https://computerhoy.com/moviles/tiene-sentido-pedir-samsung-galaxy-s23-sea-revolucion-1195880' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/impresiones-samsung-galaxy-s23-ultra-2943574.jpg?tf=1200x' alt='¿Tiene sentido pedir que el Samsung Galaxy S23 sea una revolución?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/realidad-virtual/unboxing-oficial-gafas-realidad-virtual-playstation-vr2-video-1198786'>El unboxing oficial de las gafas de realidad virtual PlayStation VR2 muestra una sorpresa final (vídeo)</a></h4>
+    <a href='https://computerhoy.com/realidad-virtual/unboxing-oficial-gafas-realidad-virtual-playstation-vr2-video-1198786' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/verticalimage1676088052779-2953438.jpg?tf=1200x' alt='El unboxing oficial de las gafas de realidad virtual PlayStation VR2 muestra una sorpresa final (vídeo)' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-potentes-baratos-jugar-android-1041223'>12 móviles potentes y baratos para jugar a cualquier juego de Android</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-potentes-baratos-jugar-android-1041223' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/realme-9-pro-analisis-opinion-2618121.jpg?tf=1200x' alt='12 móviles potentes y baratos para jugar a cualquier juego de Android' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/tutoriales/como-configurar-iphone-ios-16-puedan-usar-peques-problemas-1197768'>Cómo configurar el iPhone con iOS 16 para que lo puedan usar los peques sin problemas</a></h4>
     <a href='https://computerhoy.com/tutoriales/como-configurar-iphone-ios-16-puedan-usar-peques-problemas-1197768' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/iphone-2951344.jpg?tf=1200x' alt='Cómo configurar el iPhone con iOS 16 para que lo puedan usar los peques sin problemas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/portatil-macbook-air-m1-descuento-240-euros-1198784'>El portátil MacBook Air con M1 baja de los 1.000 euros, y se convierte en un ultrafino muy recomendable</a></h4>
-    <a href='https://computerhoy.com/apple/portatil-macbook-air-m1-descuento-240-euros-1198784' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/macbook-air-2508941.jpg?tf=1200x' alt='El portátil MacBook Air con M1 baja de los 1.000 euros, y se convierte en un ultrafino muy recomendable' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/microsoft-word-powerpoint-outlook-chatgpt-prometheus-1198550'>Microsoft presentará el mes que viene sus versiones de Word, PowerPoint y Outlook con ChatGPT, ¿qué aportan?</a></h4>
-    <a href='https://computerhoy.com/tecnologia/microsoft-word-powerpoint-outlook-chatgpt-prometheus-1198550' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/microsoft-presentara-mes-viene-versiones-word-powerpoint-outlook-chatgpt-2953200.jpg?tf=1200x' alt='Microsoft presentará el mes que viene sus versiones de Word, PowerPoint y Outlook con ChatGPT, ¿qué aportan?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/carlos-saura-donde-ver-mejores-peliculas-1198548'>Fallece Carlos Saura, el último gran director clásico que nos quedaba: dónde ver sus mejores películas</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/carlos-saura-donde-ver-mejores-peliculas-1198548' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/fallece-carlos-saura-ultimo-gran-director-clasico-nos-quedaba-2953194.jpg?tf=1200x' alt='Fallece Carlos Saura, el último gran director clásico que nos quedaba: dónde ver sus mejores películas' />
     </a>
 </div>
 
