@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/informan-problemas-copia-seguridad-icloud-despues-actualizar-ios-iphone-1198856'>Informan de problemas en la copia de seguridad de iCloud después de actualizar iOS en el iPhone</a></h4>
+    <a href='https://computerhoy.com/apple/informan-problemas-copia-seguridad-icloud-despues-actualizar-ios-iphone-1198856' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/apple-iphone-14-plus-analisis-opinion-2857685.jpg?tf=1200x' alt='Informan de problemas en la copia de seguridad de iCloud después de actualizar iOS en el iPhone' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tutoriales/puedes-tomar-capturas-pantalla-cuando-app-movil-no-permite-1195106'>Así puedes tomar capturas de pantalla cuando la app de tu móvil no lo permite</a></h4>
     <a href='https://computerhoy.com/tutoriales/puedes-tomar-capturas-pantalla-cuando-app-movil-no-permite-1195106' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/smartphone-2946620.jpg?tf=1200x' alt='Así puedes tomar capturas de pantalla cuando la app de tu móvil no lo permite' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/android/android-14-prepara-funcionalidad-te-despidas-sim-fisicas-1198846'>Android 14 prepara esta funcionalidad para que te despidas de las SIM físicas</a></h4>
     <a href='https://computerhoy.com/android/android-14-prepara-funcionalidad-te-despidas-sim-fisicas-1198846' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/tarjeta-sim-2953546.jpg?tf=1200x' alt='Android 14 prepara esta funcionalidad para que te despidas de las SIM físicas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/apple-pronuncia-ultimo-error-privacidad-ha-afectado-aplicaciones-populares-1198840'>Apple se pronuncia sobre el último error de privacidad que ha afectado a una de sus aplicaciones más populares</a></h4>
-    <a href='https://computerhoy.com/apple/apple-pronuncia-ultimo-error-privacidad-ha-afectado-aplicaciones-populares-1198840' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/iphone-13-2824605.jpg?tf=1200x' alt='Apple se pronuncia sobre el último error de privacidad que ha afectado a una de sus aplicaciones más populares' />
     </a>
 </div>
 
