@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/estos-auriculares-lenovo-cuestan-solo-2-euros-son-muy-similares-airpods-aunque-precio-ridiculo-977287'>Estos auriculares de Lenovo cuestan sólo 8 euros y son muy similares a los AirPods, aunque su precio es ridículo</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/estos-auriculares-lenovo-cuestan-solo-2-euros-son-muy-similares-airpods-aunque-precio-ridiculo-977287' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/lenovo-lp40-2554807.jpg?tf=1200x' alt='Estos auriculares de Lenovo cuestan sólo 8 euros y son muy similares a los AirPods, aunque su precio es ridículo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/analisis/review-redmagic-7s-pro-enesima-version-movil-gaming-espectacular-1198300'>Análisis del RedMagic 7S Pro, la enésima versión de un móvil gaming espectacular</a></h4>
     <a href='https://computerhoy.com/analisis/review-redmagic-7s-pro-enesima-version-movil-gaming-espectacular-1198300' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/analisis-redmagic-7s-pro-2953106.jpg?tf=1200x' alt='Análisis del RedMagic 7S Pro, la enésima versión de un móvil gaming espectacular' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/moviles/tiene-sentido-pedir-samsung-galaxy-s23-sea-revolucion-1195880'>¿Tiene sentido pedir que el Samsung Galaxy S23 sea una revolución?</a></h4>
     <a href='https://computerhoy.com/moviles/tiene-sentido-pedir-samsung-galaxy-s23-sea-revolucion-1195880' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/impresiones-samsung-galaxy-s23-ultra-2943574.jpg?tf=1200x' alt='¿Tiene sentido pedir que el Samsung Galaxy S23 sea una revolución?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/realidad-virtual/unboxing-oficial-gafas-realidad-virtual-playstation-vr2-video-1198786'>El unboxing oficial de las gafas de realidad virtual PlayStation VR2 muestra una sorpresa final (vídeo)</a></h4>
-    <a href='https://computerhoy.com/realidad-virtual/unboxing-oficial-gafas-realidad-virtual-playstation-vr2-video-1198786' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/verticalimage1676088052779-2953438.jpg?tf=1200x' alt='El unboxing oficial de las gafas de realidad virtual PlayStation VR2 muestra una sorpresa final (vídeo)' />
     </a>
 </div>
 
