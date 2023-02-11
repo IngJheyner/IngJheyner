@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-potentes-baratos-jugar-android-1041223'>12 móviles potentes y baratos para jugar a cualquier juego de Android</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-potentes-baratos-jugar-android-1041223' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/realme-9-pro-analisis-opinion-2618121.jpg?tf=1200x' alt='12 móviles potentes y baratos para jugar a cualquier juego de Android' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tutoriales/como-configurar-iphone-ios-16-puedan-usar-peques-problemas-1197768'>Cómo configurar el iPhone con iOS 16 para que lo puedan usar los peques sin problemas</a></h4>
     <a href='https://computerhoy.com/tutoriales/como-configurar-iphone-ios-16-puedan-usar-peques-problemas-1197768' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/iphone-2951344.jpg?tf=1200x' alt='Cómo configurar el iPhone con iOS 16 para que lo puedan usar los peques sin problemas' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/entretenimiento/carlos-saura-donde-ver-mejores-peliculas-1198548'>Fallece Carlos Saura, el último gran director clásico que nos quedaba: dónde ver sus mejores películas</a></h4>
     <a href='https://computerhoy.com/entretenimiento/carlos-saura-donde-ver-mejores-peliculas-1198548' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/fallece-carlos-saura-ultimo-gran-director-clasico-nos-quedaba-2953194.jpg?tf=1200x' alt='Fallece Carlos Saura, el último gran director clásico que nos quedaba: dónde ver sus mejores películas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/alimentacion/estos-son-supermercados-favoritos-consumidores-mercadona-no-mejor-valoradas-1198538'>Estos son los supermercados favoritos de los consumidores y Mercadona no es de los mejor valorados</a></h4>
-    <a href='https://computerhoy.com/alimentacion/estos-son-supermercados-favoritos-consumidores-mercadona-no-mejor-valoradas-1198538' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/supermercado-2953104.jpg?tf=1200x' alt='Estos son los supermercados favoritos de los consumidores y Mercadona no es de los mejor valorados' />
     </a>
 </div>
 
