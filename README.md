@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/microsoft-convencida-puede-evitar-avances-ia-escapen-control-humano-1198880'>Microsoft convencida de que puede evitar que los avances en IA escapen al control humano</a></h4>
+    <a href='https://computerhoy.com/ciencia/microsoft-convencida-puede-evitar-avances-ia-escapen-control-humano-1198880' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/inteligencia-artificial-2934756.jpg?tf=1200x' alt='Microsoft convencida de que puede evitar que los avances en IA escapen al control humano' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/android/android-14-dira-aplicaciones-usen-calendario-sistema-numerico-predileccion-1198858'>Android 14 dirá a tus aplicaciones que usen un calendario y sistema numérico de tu predilección</a></h4>
     <a href='https://computerhoy.com/android/android-14-dira-aplicaciones-usen-calendario-sistema-numerico-predileccion-1198858' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/android-14-2937042.jpg?tf=1200x' alt='Android 14 dirá a tus aplicaciones que usen un calendario y sistema numérico de tu predilección' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tutoriales/puedes-tomar-capturas-pantalla-cuando-app-movil-no-permite-1195106'>Así puedes tomar capturas de pantalla cuando la app de tu móvil no lo permite</a></h4>
     <a href='https://computerhoy.com/tutoriales/puedes-tomar-capturas-pantalla-cuando-app-movil-no-permite-1195106' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/smartphone-2946620.jpg?tf=1200x' alt='Así puedes tomar capturas de pantalla cuando la app de tu móvil no lo permite' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/cientificos-descubren-insolita-capa-oculta-rocas-fundidas-debajo-corteza-terrestre-1198854'>Científicos descubren una insólita capa oculta de rocas fundidas debajo de la corteza terrestre</a></h4>
-    <a href='https://computerhoy.com/life/cientificos-descubren-insolita-capa-oculta-rocas-fundidas-debajo-corteza-terrestre-1198854' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/nucleo-tierra-2953560.jpg?tf=1200x' alt='Científicos descubren una insólita capa oculta de rocas fundidas debajo de la corteza terrestre' />
     </a>
 </div>
 
