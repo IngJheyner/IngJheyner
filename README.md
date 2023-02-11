@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/apple-pronuncia-ultimo-error-privacidad-ha-afectado-aplicaciones-populares-1198840'>Apple se pronuncia sobre el último error de privacidad que ha afectado a una de sus aplicaciones más populares</a></h4>
+    <a href='https://computerhoy.com/apple/apple-pronuncia-ultimo-error-privacidad-ha-afectado-aplicaciones-populares-1198840' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/iphone-13-2824605.jpg?tf=1200x' alt='Apple se pronuncia sobre el último error de privacidad que ha afectado a una de sus aplicaciones más populares' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/entretenimiento/7-series-todavia-no-han-renovado-pesar-todo-mundo-deseandolo-1196754'>7 series que todavía no han renovado a pesar de que todo el mundo está deseándolo</a></h4>
     <a href='https://computerhoy.com/entretenimiento/7-series-todavia-no-han-renovado-pesar-todo-mundo-deseandolo-1196754' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/white-lotus-2-2901214.jpg?tf=1200x' alt='7 series que todavía no han renovado a pesar de que todo el mundo está deseándolo' />
@@ -60,7 +68,7 @@
 <div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/motor/xiaomi-pone-fecha-produccion-masa-nuevos-coches-electricos-1198822'>Xiaomi pone fecha a la producción en masa de sus nuevos coches eléctricos</a></h4>
     <a href='https://computerhoy.com/motor/xiaomi-pone-fecha-produccion-masa-nuevos-coches-electricos-1198822' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/cazan-esperado-coche-electrico-xiaomi-test-secreto-2931938.jpg?tf=1200x' alt='Xiaomi pone fecha a la producción en masa de sus nuevos coches eléctricos' />
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/coche-xiaomi-2953540.jpg?tf=1200x' alt='Xiaomi pone fecha a la producción en masa de sus nuevos coches eléctricos' />
     </a>
 </div>
 
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/estos-auriculares-lenovo-cuestan-solo-2-euros-son-muy-similares-airpods-aunque-precio-ridiculo-977287'>Estos auriculares de Lenovo cuestan sólo 8 euros y son muy similares a los AirPods, aunque su precio es ridículo</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/estos-auriculares-lenovo-cuestan-solo-2-euros-son-muy-similares-airpods-aunque-precio-ridiculo-977287' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/lenovo-lp40-2554807.jpg?tf=1200x' alt='Estos auriculares de Lenovo cuestan sólo 8 euros y son muy similares a los AirPods, aunque su precio es ridículo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/review-redmagic-7s-pro-enesima-version-movil-gaming-espectacular-1198300'>Análisis del RedMagic 7S Pro, la enésima versión de un móvil gaming espectacular</a></h4>
-    <a href='https://computerhoy.com/analisis/review-redmagic-7s-pro-enesima-version-movil-gaming-espectacular-1198300' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/analisis-redmagic-7s-pro-2953106.jpg?tf=1200x' alt='Análisis del RedMagic 7S Pro, la enésima versión de un móvil gaming espectacular' />
     </a>
 </div>
 
