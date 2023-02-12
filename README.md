@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/analisis/oppo-find-n2-analisis-opinion-plegable-compacto-tipo-libro-recomendable-1188430'>Oppo Find N2, análisis y opinión del plegable compacto tipo libro más recomendable</a></h4>
+    <a href='https://computerhoy.com/analisis/oppo-find-n2-analisis-opinion-plegable-compacto-tipo-libro-recomendable-1188430' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/oppo-find-n2-2937644.jpg?tf=1200x' alt='Oppo Find N2, análisis y opinión del plegable compacto tipo libro más recomendable' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/whatsapp-trabajando-nueva-funcion-enviar-fotos-alta-calidad-1199190'>WhatsApp está trabajando en una nueva función para enviar fotos en alta calidad</a></h4>
+    <a href='https://computerhoy.com/apps/whatsapp-trabajando-nueva-funcion-enviar-fotos-alta-calidad-1199190' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/whatsapp-te-permitira-enviar-fotos-alta-calidad-2954084.jpg?tf=1200x' alt='WhatsApp está trabajando en una nueva función para enviar fotos en alta calidad' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tutoriales/como-ia-puede-clonar-voz-solo-tres-segundos-audio-1195444'>Así puedes clonar cualquier voz con tan solo 3 segundos de audio</a></h4>
     <a href='https://computerhoy.com/tutoriales/como-ia-puede-clonar-voz-solo-tres-segundos-audio-1195444' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/voz-2947036.jpg?tf=1200x' alt='Así puedes clonar cualquier voz con tan solo 3 segundos de audio' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/analisis/oneplus-buds-pro-2-review-1198896'>OnePlus Buds Pro 2, mantienen la calidad y cancelación de audio pero sin grandes cambios</a></h4>
     <a href='https://computerhoy.com/analisis/oneplus-buds-pro-2-review-1198896' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/oneplus-buds-pro-2-analisis-opinion-2953742.jpg?tf=1200x' alt='OnePlus Buds Pro 2, mantienen la calidad y cancelación de audio pero sin grandes cambios' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/life/mejores-escobas-electricas-1072895'>Escobas eléctricas: ¿merecen la pena? Estas son las mejores que puedes conseguir</a></h4>
-    <a href='https://computerhoy.com/reportajes/life/mejores-escobas-electricas-1072895' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/escoba-electrica-karcher-2722779.jpg?tf=1200x' alt='Escobas eléctricas: ¿merecen la pena? Estas son las mejores que puedes conseguir' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/robot-pintor-impulsado-ia-crea-cualquier-obra-arte-minutos-1198876'>El robot pintor impulsado por IA que crea cualquier obra de arte en minutos</a></h4>
-    <a href='https://computerhoy.com/ciencia/robot-pintor-impulsado-ia-crea-cualquier-obra-arte-minutos-1198876' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/frida-2953616.jpg?tf=1200x' alt='El robot pintor impulsado por IA que crea cualquier obra de arte en minutos' />
     </a>
 </div>
 
