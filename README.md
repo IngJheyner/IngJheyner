@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/7-antiguas-caracteristicas-windows-todavia-puedes-encontrar-windows-11-1195486'>7 antiguas características de Windows que todavía puedes encontrar en Windows 11</a></h4>
+    <a href='https://computerhoy.com/tecnologia/7-antiguas-caracteristicas-windows-todavia-puedes-encontrar-windows-11-1195486' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/windows-11-ordenador-antiguo-2947078.jpg?tf=1200x' alt='7 antiguas características de Windows que todavía puedes encontrar en Windows 11' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/espacio/extravagante-forma-proponen-cientificos-resolver-crisis-climatica-lanzar-polvo-lunar-tierra-1199210'>La extravagante forma que proponen los científicos para resolver la crisis climática: lanzar polvo lunar a la Tierra</a></h4>
     <a href='https://computerhoy.com/espacio/extravagante-forma-proponen-cientificos-resolver-crisis-climatica-lanzar-polvo-lunar-tierra-1199210' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/tierra-2954116.jpg?tf=1200x' alt='La extravagante forma que proponen los científicos para resolver la crisis climática: lanzar polvo lunar a la Tierra' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/entretenimiento/7-mejores-peliculas-mafiosos-puedes-ver-streaming-ahora-mismo-1196716'>Las 7 mejores películas de mafiosos que puedes ver en streaming ahora mismo</a></h4>
     <a href='https://computerhoy.com/entretenimiento/7-mejores-peliculas-mafiosos-puedes-ver-streaming-ahora-mismo-1196716' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/2949526.jpg?tf=1200x' alt='Las 7 mejores películas de mafiosos que puedes ver en streaming ahora mismo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/cientificos-ya-pueden-predecir-donde-cuando-habra-nuevo-terremoto-gracias-descubrimiento-1199194'>Los científicos ya pueden predecir dónde y cuándo habrá un nuevo terremoto gracias a este descubrimiento</a></h4>
-    <a href='https://computerhoy.com/ciencia/cientificos-ya-pueden-predecir-donde-cuando-habra-nuevo-terremoto-gracias-descubrimiento-1199194' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/sismografo-2954092.jpg?tf=1200x' alt='Los científicos ya pueden predecir dónde y cuándo habrá un nuevo terremoto gracias a este descubrimiento' />
     </a>
 </div>
 
