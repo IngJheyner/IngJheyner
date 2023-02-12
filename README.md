@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/apple-quiere-reinventar-apple-watch-incluyendole-camara-sistema-banda-unico-1199198'>Apple quiere reinventar el Apple Watch incluyéndole una cámara y un sistema de banda único</a></h4>
+    <a href='https://computerhoy.com/apple/apple-quiere-reinventar-apple-watch-incluyendole-camara-sistema-banda-unico-1199198' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/apple-watch-series-8-analisis-opinion-2841937.jpg?tf=1200x' alt='Apple quiere reinventar el Apple Watch incluyéndole una cámara y un sistema de banda único' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/7-mejores-peliculas-mafiosos-puedes-ver-streaming-ahora-mismo-1196716'>Las 7 mejores películas de mafiosos que puedes ver en streaming ahora mismo</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/7-mejores-peliculas-mafiosos-puedes-ver-streaming-ahora-mismo-1196716' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/2949526.jpg?tf=1200x' alt='Las 7 mejores películas de mafiosos que puedes ver en streaming ahora mismo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/cientificos-ya-pueden-predecir-donde-cuando-habra-nuevo-terremoto-gracias-descubrimiento-1199194'>Los científicos ya pueden predecir dónde y cuándo habrá un nuevo terremoto gracias a este descubrimiento</a></h4>
+    <a href='https://computerhoy.com/ciencia/cientificos-ya-pueden-predecir-donde-cuando-habra-nuevo-terremoto-gracias-descubrimiento-1199194' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/sismografo-2954092.jpg?tf=1200x' alt='Los científicos ya pueden predecir dónde y cuándo habrá un nuevo terremoto gracias a este descubrimiento' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/analisis/oppo-find-n2-analisis-opinion-plegable-compacto-tipo-libro-recomendable-1188430'>Oppo Find N2, análisis y opinión del plegable compacto tipo libro más recomendable</a></h4>
     <a href='https://computerhoy.com/analisis/oppo-find-n2-analisis-opinion-plegable-compacto-tipo-libro-recomendable-1188430' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/oppo-find-n2-2937644.jpg?tf=1200x' alt='Oppo Find N2, análisis y opinión del plegable compacto tipo libro más recomendable' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/apps/whatsapp-trabajando-nueva-funcion-enviar-fotos-alta-calidad-1199190'>WhatsApp está trabajando en una nueva función para enviar fotos en alta calidad</a></h4>
     <a href='https://computerhoy.com/apps/whatsapp-trabajando-nueva-funcion-enviar-fotos-alta-calidad-1199190' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/whatsapp-te-permitira-enviar-fotos-alta-calidad-2954084.jpg?tf=1200x' alt='WhatsApp está trabajando en una nueva función para enviar fotos en alta calidad' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-ia-puede-clonar-voz-solo-tres-segundos-audio-1195444'>Así puedes clonar cualquier voz con tan solo 3 segundos de audio</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-ia-puede-clonar-voz-solo-tres-segundos-audio-1195444' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/voz-2947036.jpg?tf=1200x' alt='Así puedes clonar cualquier voz con tan solo 3 segundos de audio' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/grifo-magico-lidl-calienta-agua-necesidad-caldera-910041'>El grifo mágico de Lidl que calienta agua sin necesidad de caldera</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/grifo-magico-lidl-calienta-agua-necesidad-caldera-910041' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/grifo-electrico-easymaxx-lidl-2428821.jpg?tf=1200x' alt='El grifo mágico de Lidl que calienta agua sin necesidad de caldera' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/oneplus-buds-pro-2-review-1198896'>OnePlus Buds Pro 2, mantienen la calidad y cancelación de audio pero sin grandes cambios</a></h4>
-    <a href='https://computerhoy.com/analisis/oneplus-buds-pro-2-review-1198896' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/oneplus-buds-pro-2-analisis-opinion-2953742.jpg?tf=1200x' alt='OnePlus Buds Pro 2, mantienen la calidad y cancelación de audio pero sin grandes cambios' />
     </a>
 </div>
 
