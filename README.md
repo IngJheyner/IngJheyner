@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/espacio/extravagante-forma-proponen-cientificos-resolver-crisis-climatica-lanzar-polvo-lunar-tierra-1199210'>La extravagante forma que proponen los científicos para resolver la crisis climática: lanzar polvo lunar a la Tierra</a></h4>
+    <a href='https://computerhoy.com/espacio/extravagante-forma-proponen-cientificos-resolver-crisis-climatica-lanzar-polvo-lunar-tierra-1199210' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/tierra-2954116.jpg?tf=1200x' alt='La extravagante forma que proponen los científicos para resolver la crisis climática: lanzar polvo lunar a la Tierra' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apps/tienes-marca-verificacion-azul-twitter-hace-tiempo-elon-musk-te-obligara-te-verifiques-nuevo-1199204'>Si tienes marca de verificación azul en Twitter desde hace tiempo, Elon Musk te obligará a que te verifiques de nuevo</a></h4>
     <a href='https://computerhoy.com/apps/tienes-marca-verificacion-azul-twitter-hace-tiempo-elon-musk-te-obligara-te-verifiques-nuevo-1199204' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/elon-musk-2903170.jpg?tf=1200x' alt='Si tienes marca de verificación azul en Twitter desde hace tiempo, Elon Musk te obligará a que te verifiques de nuevo' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/ciencia/cientificos-ya-pueden-predecir-donde-cuando-habra-nuevo-terremoto-gracias-descubrimiento-1199194'>Los científicos ya pueden predecir dónde y cuándo habrá un nuevo terremoto gracias a este descubrimiento</a></h4>
     <a href='https://computerhoy.com/ciencia/cientificos-ya-pueden-predecir-donde-cuando-habra-nuevo-terremoto-gracias-descubrimiento-1199194' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/sismografo-2954092.jpg?tf=1200x' alt='Los científicos ya pueden predecir dónde y cuándo habrá un nuevo terremoto gracias a este descubrimiento' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/oppo-find-n2-analisis-opinion-plegable-compacto-tipo-libro-recomendable-1188430'>Oppo Find N2, análisis y opinión del plegable compacto tipo libro más recomendable</a></h4>
-    <a href='https://computerhoy.com/analisis/oppo-find-n2-analisis-opinion-plegable-compacto-tipo-libro-recomendable-1188430' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/oppo-find-n2-2937644.jpg?tf=1200x' alt='Oppo Find N2, análisis y opinión del plegable compacto tipo libro más recomendable' />
     </a>
 </div>
 
