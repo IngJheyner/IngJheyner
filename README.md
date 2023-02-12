@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/pc/teclado-mecanico-gigante-switches-video-1198544'>Se gasta 14.000 dólares en fabricar el teclado mecánico más grande jamás creado, con switches de verdad</a></h4>
+    <a href='https://computerhoy.com/pc/teclado-mecanico-gigante-switches-video-1198544' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/gastan-14000-dolares-fabricar-teclado-mecanico-grande-jamas-creado-switches-verdad-2953094.jpg?tf=1200x' alt='Se gasta 14.000 dólares en fabricar el teclado mecánico más grande jamás creado, con switches de verdad' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tutoriales/estas-son-6-posibles-maneras-abrir-programas-windows-11-1198382'>Estas son las 6 posibles maneras de abrir programas en Windows 11</a></h4>
     <a href='https://computerhoy.com/tutoriales/estas-son-6-posibles-maneras-abrir-programas-windows-11-1198382' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/windows-11-2952572.jpg?tf=1200x' alt='Estas son las 6 posibles maneras de abrir programas en Windows 11' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/android/android-14-dira-aplicaciones-usen-calendario-sistema-numerico-predileccion-1198858'>Android 14 dirá a tus aplicaciones que usen un calendario y sistema numérico de tu predilección</a></h4>
     <a href='https://computerhoy.com/android/android-14-dira-aplicaciones-usen-calendario-sistema-numerico-predileccion-1198858' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/android-14-2937042.jpg?tf=1200x' alt='Android 14 dirá a tus aplicaciones que usen un calendario y sistema numérico de tu predilección' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/perifericos/logitech-lift-raton-moda-merece-mucho-pena-comprarlo-1198326'>El Logitech Lift es el ratón de moda: por qué merece mucho la pena comprarlo</a></h4>
-    <a href='https://computerhoy.com/perifericos/logitech-lift-raton-moda-merece-mucho-pena-comprarlo-1198326' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/logitech-lift-2952614.jpg?tf=1200x' alt='El Logitech Lift es el ratón de moda: por qué merece mucho la pena comprarlo' />
     </a>
 </div>
 
