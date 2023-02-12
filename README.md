@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/tienes-marca-verificacion-azul-twitter-hace-tiempo-elon-musk-te-obligara-te-verifiques-nuevo-1199204'>Si tienes marca de verificación azul en Twitter desde hace tiempo, Elon Musk te obligará a que te verifiques de nuevo</a></h4>
+    <a href='https://computerhoy.com/apps/tienes-marca-verificacion-azul-twitter-hace-tiempo-elon-musk-te-obligara-te-verifiques-nuevo-1199204' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/elon-musk-2903170.jpg?tf=1200x' alt='Si tienes marca de verificación azul en Twitter desde hace tiempo, Elon Musk te obligará a que te verifiques de nuevo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apple/apple-quiere-reinventar-apple-watch-incluyendole-camara-sistema-banda-unico-1199198'>Apple quiere reinventar el Apple Watch incluyéndole una cámara y un sistema de banda único</a></h4>
     <a href='https://computerhoy.com/apple/apple-quiere-reinventar-apple-watch-incluyendole-camara-sistema-banda-unico-1199198' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/apple-watch-series-8-analisis-opinion-2841937.jpg?tf=1200x' alt='Apple quiere reinventar el Apple Watch incluyéndole una cámara y un sistema de banda único' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/analisis/oppo-find-n2-analisis-opinion-plegable-compacto-tipo-libro-recomendable-1188430'>Oppo Find N2, análisis y opinión del plegable compacto tipo libro más recomendable</a></h4>
     <a href='https://computerhoy.com/analisis/oppo-find-n2-analisis-opinion-plegable-compacto-tipo-libro-recomendable-1188430' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/oppo-find-n2-2937644.jpg?tf=1200x' alt='Oppo Find N2, análisis y opinión del plegable compacto tipo libro más recomendable' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/whatsapp-trabajando-nueva-funcion-enviar-fotos-alta-calidad-1199190'>WhatsApp está trabajando en una nueva función para enviar fotos en alta calidad</a></h4>
-    <a href='https://computerhoy.com/apps/whatsapp-trabajando-nueva-funcion-enviar-fotos-alta-calidad-1199190' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/whatsapp-te-permitira-enviar-fotos-alta-calidad-2954084.jpg?tf=1200x' alt='WhatsApp está trabajando en una nueva función para enviar fotos en alta calidad' />
     </a>
 </div>
 
