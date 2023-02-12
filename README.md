@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-ia-puede-clonar-voz-solo-tres-segundos-audio-1195444'>Así puedes clonar cualquier voz con tan solo 3 segundos de audio</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-ia-puede-clonar-voz-solo-tres-segundos-audio-1195444' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/voz-2947036.jpg?tf=1200x' alt='Así puedes clonar cualquier voz con tan solo 3 segundos de audio' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/grifo-magico-lidl-calienta-agua-necesidad-caldera-910041'>El grifo mágico de Lidl que calienta agua sin necesidad de caldera</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/grifo-magico-lidl-calienta-agua-necesidad-caldera-910041' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/grifo-electrico-easymaxx-lidl-2428821.jpg?tf=1200x' alt='El grifo mágico de Lidl que calienta agua sin necesidad de caldera' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/ciencia/robot-pintor-impulsado-ia-crea-cualquier-obra-arte-minutos-1198876'>El robot pintor impulsado por IA que crea cualquier obra de arte en minutos</a></h4>
     <a href='https://computerhoy.com/ciencia/robot-pintor-impulsado-ia-crea-cualquier-obra-arte-minutos-1198876' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/frida-2953616.jpg?tf=1200x' alt='El robot pintor impulsado por IA que crea cualquier obra de arte en minutos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/matrix-hace-realidad-hawai-aun-no-saben-origina-1198338'>Matrix se hace realidad en Hawái, y aún no saben qué lo origina</a></h4>
-    <a href='https://computerhoy.com/ciencia/matrix-hace-realidad-hawai-aun-no-saben-origina-1198338' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/matrix-hace-realidad-hawai-aun-no-saben-origina-2952564.jpg?tf=1200x' alt='Matrix se hace realidad en Hawái, y aún no saben qué lo origina' />
     </a>
 </div>
 
