@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/grifo-magico-lidl-calienta-agua-necesidad-caldera-910041'>El grifo mágico de Lidl que calienta agua sin necesidad de caldera</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/grifo-magico-lidl-calienta-agua-necesidad-caldera-910041' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/grifo-electrico-easymaxx-lidl-2428821.jpg?tf=1200x' alt='El grifo mágico de Lidl que calienta agua sin necesidad de caldera' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/analisis/oneplus-buds-pro-2-review-1198896'>OnePlus Buds Pro 2, mantienen la calidad y cancelación de audio pero sin grandes cambios</a></h4>
     <a href='https://computerhoy.com/analisis/oneplus-buds-pro-2-review-1198896' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/oneplus-buds-pro-2-analisis-opinion-2953742.jpg?tf=1200x' alt='OnePlus Buds Pro 2, mantienen la calidad y cancelación de audio pero sin grandes cambios' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/ciencia/matrix-hace-realidad-hawai-aun-no-saben-origina-1198338'>Matrix se hace realidad en Hawái, y aún no saben qué lo origina</a></h4>
     <a href='https://computerhoy.com/ciencia/matrix-hace-realidad-hawai-aun-no-saben-origina-1198338' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/matrix-hace-realidad-hawai-aun-no-saben-origina-2952564.jpg?tf=1200x' alt='Matrix se hace realidad en Hawái, y aún no saben qué lo origina' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/sucede-cuerpo-duermes-menos-7-horas-dia-1198872'>Esto es lo que sucede a tu cuerpo si duermes menos de 7 horas al día</a></h4>
-    <a href='https://computerhoy.com/life/sucede-cuerpo-duermes-menos-7-horas-dia-1198872' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/dormir-mal-2649889.jpg?tf=1200x' alt='Esto es lo que sucede a tu cuerpo si duermes menos de 7 horas al día' />
     </a>
 </div>
 
