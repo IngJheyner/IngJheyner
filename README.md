@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/sucede-cuerpo-duermes-menos-7-horas-dia-1198872'>Esto es lo que sucede a tu cuerpo si duermes menos de 7 horas al día</a></h4>
+    <a href='https://computerhoy.com/life/sucede-cuerpo-duermes-menos-7-horas-dia-1198872' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/dormir-mal-2649889.jpg?tf=1200x' alt='Esto es lo que sucede a tu cuerpo si duermes menos de 7 horas al día' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/mejores/moviles-mas-bateria-1198334'>Estos son los móviles con mejor batería de 2023</a></h4>
+    <a href='https://computerhoy.com/mejores/moviles-mas-bateria-1198334' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/12/analisis-samsung-galaxy-m51-2180333.jpg?tf=1200x' alt='Estos son los móviles con mejor batería de 2023' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/pc/teclado-mecanico-gigante-switches-video-1198544'>Se gasta 14.000 dólares en fabricar el teclado mecánico más grande jamás creado, con switches de verdad</a></h4>
     <a href='https://computerhoy.com/pc/teclado-mecanico-gigante-switches-video-1198544' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/gastan-14000-dolares-fabricar-teclado-mecanico-grande-jamas-creado-switches-verdad-2953094.jpg?tf=1200x' alt='Se gasta 14.000 dólares en fabricar el teclado mecánico más grande jamás creado, con switches de verdad' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/ciencia/momia-sirena-japon-ningyo-video-1198412'>Hace 300 años encontraron la momia de una sirena en Japón, y ahora la ciencia nos dice lo que es</a></h4>
     <a href='https://computerhoy.com/ciencia/momia-sirena-japon-ningyo-video-1198412' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/hace-300-anos-encontraron-momia-sirena-japon-ahora-ciencia-nos-dice-2952756.jpg?tf=1200x' alt='Hace 300 años encontraron la momia de una sirena en Japón, y ahora la ciencia nos dice lo que es' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/microsoft-convencida-puede-evitar-avances-ia-escapen-control-humano-1198880'>Microsoft convencida de que puede evitar que los avances en IA escapen al control humano</a></h4>
-    <a href='https://computerhoy.com/ciencia/microsoft-convencida-puede-evitar-avances-ia-escapen-control-humano-1198880' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/inteligencia-artificial-2934756.jpg?tf=1200x' alt='Microsoft convencida de que puede evitar que los avances en IA escapen al control humano' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/android/android-14-dira-aplicaciones-usen-calendario-sistema-numerico-predileccion-1198858'>Android 14 dirá a tus aplicaciones que usen un calendario y sistema numérico de tu predilección</a></h4>
-    <a href='https://computerhoy.com/android/android-14-dira-aplicaciones-usen-calendario-sistema-numerico-predileccion-1198858' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/android-14-2937042.jpg?tf=1200x' alt='Android 14 dirá a tus aplicaciones que usen un calendario y sistema numérico de tu predilección' />
     </a>
 </div>
 
