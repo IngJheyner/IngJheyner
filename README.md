@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/analisis/oneplus-buds-pro-2-review-1198896'>OnePlus Buds Pro 2, mantienen la calidad y cancelación de audio pero sin grandes cambios</a></h4>
+    <a href='https://computerhoy.com/analisis/oneplus-buds-pro-2-review-1198896' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/oneplus-buds-pro-2-analisis-opinion-2953742.jpg?tf=1200x' alt='OnePlus Buds Pro 2, mantienen la calidad y cancelación de audio pero sin grandes cambios' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/life/mejores-escobas-electricas-1072895'>Escobas eléctricas: ¿merecen la pena? Estas son las mejores que puedes conseguir</a></h4>
     <a href='https://computerhoy.com/reportajes/life/mejores-escobas-electricas-1072895' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/escoba-electrica-karcher-2722779.jpg?tf=1200x' alt='Escobas eléctricas: ¿merecen la pena? Estas son las mejores que puedes conseguir' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/life/sucede-cuerpo-duermes-menos-7-horas-dia-1198872'>Esto es lo que sucede a tu cuerpo si duermes menos de 7 horas al día</a></h4>
     <a href='https://computerhoy.com/life/sucede-cuerpo-duermes-menos-7-horas-dia-1198872' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/dormir-mal-2649889.jpg?tf=1200x' alt='Esto es lo que sucede a tu cuerpo si duermes menos de 7 horas al día' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/mejores/moviles-mas-bateria-1198334'>Estos son los móviles con mejor batería de 2023</a></h4>
-    <a href='https://computerhoy.com/mejores/moviles-mas-bateria-1198334' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/12/analisis-samsung-galaxy-m51-2180333.jpg?tf=1200x' alt='Estos son los móviles con mejor batería de 2023' />
     </a>
 </div>
 
