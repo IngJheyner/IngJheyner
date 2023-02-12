@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/life/mejores-escobas-electricas-1072895'>Escobas eléctricas: ¿merecen la pena? Estas son las mejores que puedes conseguir</a></h4>
+    <a href='https://computerhoy.com/reportajes/life/mejores-escobas-electricas-1072895' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/escoba-electrica-karcher-2722779.jpg?tf=1200x' alt='Escobas eléctricas: ¿merecen la pena? Estas son las mejores que puedes conseguir' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/robot-pintor-impulsado-ia-crea-cualquier-obra-arte-minutos-1198876'>El robot pintor impulsado por IA que crea cualquier obra de arte en minutos</a></h4>
+    <a href='https://computerhoy.com/ciencia/robot-pintor-impulsado-ia-crea-cualquier-obra-arte-minutos-1198876' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/frida-2953616.jpg?tf=1200x' alt='El robot pintor impulsado por IA que crea cualquier obra de arte en minutos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/matrix-hace-realidad-hawai-aun-no-saben-origina-1198338'>Matrix se hace realidad en Hawái, y aún no saben qué lo origina</a></h4>
+    <a href='https://computerhoy.com/ciencia/matrix-hace-realidad-hawai-aun-no-saben-origina-1198338' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/matrix-hace-realidad-hawai-aun-no-saben-origina-2952564.jpg?tf=1200x' alt='Matrix se hace realidad en Hawái, y aún no saben qué lo origina' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/sucede-cuerpo-duermes-menos-7-horas-dia-1198872'>Esto es lo que sucede a tu cuerpo si duermes menos de 7 horas al día</a></h4>
     <a href='https://computerhoy.com/life/sucede-cuerpo-duermes-menos-7-horas-dia-1198872' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/dormir-mal-2649889.jpg?tf=1200x' alt='Esto es lo que sucede a tu cuerpo si duermes menos de 7 horas al día' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/mejores/moviles-mas-bateria-1198334'>Estos son los móviles con mejor batería de 2023</a></h4>
     <a href='https://computerhoy.com/mejores/moviles-mas-bateria-1198334' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/12/analisis-samsung-galaxy-m51-2180333.jpg?tf=1200x' alt='Estos son los móviles con mejor batería de 2023' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/teclado-mecanico-gigante-switches-video-1198544'>Se gasta 14.000 dólares en fabricar el teclado mecánico más grande jamás creado, con switches de verdad</a></h4>
-    <a href='https://computerhoy.com/pc/teclado-mecanico-gigante-switches-video-1198544' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/gastan-14000-dolares-fabricar-teclado-mecanico-grande-jamas-creado-switches-verdad-2953094.jpg?tf=1200x' alt='Se gasta 14.000 dólares en fabricar el teclado mecánico más grande jamás creado, con switches de verdad' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/estas-son-6-posibles-maneras-abrir-programas-windows-11-1198382'>Estas son las 6 posibles maneras de abrir programas en Windows 11</a></h4>
-    <a href='https://computerhoy.com/tutoriales/estas-son-6-posibles-maneras-abrir-programas-windows-11-1198382' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/windows-11-2952572.jpg?tf=1200x' alt='Estas son las 6 posibles maneras de abrir programas en Windows 11' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/momia-sirena-japon-ningyo-video-1198412'>Hace 300 años encontraron la momia de una sirena en Japón, y ahora la ciencia nos dice lo que es</a></h4>
-    <a href='https://computerhoy.com/ciencia/momia-sirena-japon-ningyo-video-1198412' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/hace-300-anos-encontraron-momia-sirena-japon-ahora-ciencia-nos-dice-2952756.jpg?tf=1200x' alt='Hace 300 años encontraron la momia de una sirena en Japón, y ahora la ciencia nos dice lo que es' />
     </a>
 </div>
 
