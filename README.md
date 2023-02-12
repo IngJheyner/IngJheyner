@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/estas-son-6-posibles-maneras-abrir-programas-windows-11-1198382'>Estas son las 6 posibles maneras de abrir programas en Windows 11</a></h4>
+    <a href='https://computerhoy.com/tutoriales/estas-son-6-posibles-maneras-abrir-programas-windows-11-1198382' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/windows-11-2952572.jpg?tf=1200x' alt='Estas son las 6 posibles maneras de abrir programas en Windows 11' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciencia/momia-sirena-japon-ningyo-video-1198412'>Hace 300 años encontraron la momia de una sirena en Japón, y ahora la ciencia nos dice lo que es</a></h4>
     <a href='https://computerhoy.com/ciencia/momia-sirena-japon-ningyo-video-1198412' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/hace-300-anos-encontraron-momia-sirena-japon-ahora-ciencia-nos-dice-2952756.jpg?tf=1200x' alt='Hace 300 años encontraron la momia de una sirena en Japón, y ahora la ciencia nos dice lo que es' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/perifericos/logitech-lift-raton-moda-merece-mucho-pena-comprarlo-1198326'>El Logitech Lift es el ratón de moda: por qué merece mucho la pena comprarlo</a></h4>
     <a href='https://computerhoy.com/perifericos/logitech-lift-raton-moda-merece-mucho-pena-comprarlo-1198326' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/logitech-lift-2952614.jpg?tf=1200x' alt='El Logitech Lift es el ratón de moda: por qué merece mucho la pena comprarlo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/informan-problemas-copia-seguridad-icloud-despues-actualizar-ios-iphone-1198856'>Informan de problemas en la copia de seguridad de iCloud después de actualizar iOS en el iPhone</a></h4>
-    <a href='https://computerhoy.com/apple/informan-problemas-copia-seguridad-icloud-despues-actualizar-ios-iphone-1198856' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/apple-iphone-14-plus-analisis-opinion-2857685.jpg?tf=1200x' alt='Informan de problemas en la copia de seguridad de iCloud después de actualizar iOS en el iPhone' />
     </a>
 </div>
 
