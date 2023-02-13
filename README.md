@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/google/google-ya-trabaja-hacer-util-funcion-picture-picture-chrome-novedad-1199526'>Google ya trabaja para hacer más útil la función Picture-in-Picture de Chrome con esta novedad</a></h4>
+    <a href='https://computerhoy.com/google/google-ya-trabaja-hacer-util-funcion-picture-picture-chrome-novedad-1199526' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/google-chrome-mejorara-multitarea-nueva-funcion-2954820.jpg?tf=1200x' alt='Google ya trabaja para hacer más útil la función Picture-in-Picture de Chrome con esta novedad' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/redes-sociales/elon-musk-gana-19-millones-reactivando-cuentas-bloqueadas-twitter-1199510'>Elon Musk gana 19 millones reactivando cuentas bloqueadas en Twitter</a></h4>
+    <a href='https://computerhoy.com/redes-sociales/elon-musk-gana-19-millones-reactivando-cuentas-bloqueadas-twitter-1199510' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/elon-musk-2868027.jpg?tf=1200x' alt='Elon Musk gana 19 millones reactivando cuentas bloqueadas en Twitter' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/alucinaciones-ia-podrian-poner-jaque-grandes-empresas-como-google-microsoft-chatbots-1199478'>Las "alucinaciones" de la IA podrían poner en jaque a grandes empresas como Google o Microsoft y sus chatbots</a></h4>
+    <a href='https://computerhoy.com/tecnologia/alucinaciones-ia-podrian-poner-jaque-grandes-empresas-como-google-microsoft-chatbots-1199478' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/google-microsoft-alertan-grave-problema-chatbots-busqueda-alucinaciones-ia-2954760.jpg?tf=1200x' alt='Las "alucinaciones" de la IA podrían poner en jaque a grandes empresas como Google o Microsoft y sus chatbots' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/reloj-xiaomi-parecido-apple-watch-oferta-1198370'>Este es el Apple Watch low cost de Xiaomi: cuesta 49 euros y es sorprendentemente completo</a></h4>
     <a href='https://computerhoy.com/tecnologia/reloj-xiaomi-parecido-apple-watch-oferta-1198370' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/redmi-watch-2-lite-analisis-opinion-2598817.jpg?tf=1200x' alt='Este es el Apple Watch low cost de Xiaomi: cuesta 49 euros y es sorprendentemente completo' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/gaming/esperanza-china-forma-tarjeta-grafica-gaming-rinde-peor-nvidia-2016-1199466'>La esperanza china en forma de tarjeta gráfica gaming rinde peor que una NVIDIA de 2016</a></h4>
     <a href='https://computerhoy.com/gaming/esperanza-china-forma-tarjeta-grafica-gaming-rinde-peor-nvidia-2016-1199466' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/gpu-china-2954578.jpg?tf=1200x' alt='La esperanza china en forma de tarjeta gráfica gaming rinde peor que una NVIDIA de 2016' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/ceo-nvidia-frota-manos-popularidad-chatgpt-1199462'>El CEO de Nvidia se frota las manos ante la popularidad de ChatGPT</a></h4>
-    <a href='https://computerhoy.com/tecnologia/ceo-nvidia-frota-manos-popularidad-chatgpt-1199462' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/ceo-nvidia-frota-manos-popularidad-chatgpt-2954574.jpg?tf=1200x' alt='El CEO de Nvidia se frota las manos ante la popularidad de ChatGPT' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-arreglar-problema-error-descarga-netflix-1185802'>Cómo arreglar el problema de Error de Descarga en Netflix</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-arreglar-problema-error-descarga-netflix-1185802' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/netflix-2930366.jpg?tf=1200x' alt='Cómo arreglar el problema de Error de Descarga en Netflix' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/34-noticias-tecnologia-comenzar-manana-informado-ultimo-1199448'>34 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
-    <a href='https://computerhoy.com/tecnologia/34-noticias-tecnologia-comenzar-manana-informado-ultimo-1199448' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/34-noticias-tecnologia-comenzar-manana-informado-ultimo-2954546.jpg?tf=1200x' alt='34 noticias de tecnología para comenzar la mañana informado de lo último' />
     </a>
 </div>
 
