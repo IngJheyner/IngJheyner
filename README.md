@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/camaras-compactas-faciles-manejar-ofertas-909169'>Cámaras compactas fáciles de manejar y que tienen poco que envidiar a una réflex</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/camaras-compactas-faciles-manejar-ofertas-909169' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/sony-zv-1f-2954260.jpg?tf=1200x' alt='Cámaras compactas fáciles de manejar y que tienen poco que envidiar a una réflex' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-alternativas-airpods-pro-baratos-894619'>5 alternativas a los AirPods Pro que son más baratas y funcionan con el iPhone</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-alternativas-airpods-pro-baratos-894619' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/huawei-freebuds-pro-2-analisis-opinion-2754911.jpg?tf=1200x' alt='5 alternativas a los AirPods Pro que son más baratas y funcionan con el iPhone' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/espacio/nave-rusa-averia-estacion-espacial-internacional-1199270'>Por segunda vez, una nave rusa se avería en la Estación Espacial Internacional, causando la alarma de Estados Unidos</a></h4>
     <a href='https://computerhoy.com/espacio/nave-rusa-averia-estacion-espacial-internacional-1199270' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/segunda-vez-nave-rusa-pierde-refrigerante-estacion-espacial-internacional-causando-alarma-estados-unidos-2954352.jpg?tf=1200x' alt='Por segunda vez, una nave rusa se avería en la Estación Espacial Internacional, causando la alarma de Estados Unidos' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/realidad-virtual/microsoft-metaverso-despidos-division-industrial-1199262'>Microsoft da la espalda al Metaverso, despide a su división industrial</a></h4>
     <a href='https://computerhoy.com/realidad-virtual/microsoft-metaverso-despidos-division-industrial-1199262' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/metaverso-2954232.jpg?tf=1200x' alt='Microsoft da la espalda al Metaverso, despide a su división industrial' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/5-moviles-realme-hemos-probado-recomendamos-1022551'>8 móviles realme que hemos probado y recomendamos</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/5-moviles-realme-hemos-probado-recomendamos-1022551' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/realme-9-pro-analisis-opinion-2618079.jpg?tf=1200x' alt='8 móviles realme que hemos probado y recomendamos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/software/navegador-opera-con-chatgpt-1199246'>El navegador Opera no quiere quedarse atrás y también anuncia la integración de ChatGPT</a></h4>
-    <a href='https://computerhoy.com/software/navegador-opera-con-chatgpt-1199246' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/navegador-opera-no-quiere-quedarse-atras-tambien-anuncia-integracion-chatgpt-2954212.jpg?tf=1200x' alt='El navegador Opera no quiere quedarse atrás y también anuncia la integración de ChatGPT' />
     </a>
 </div>
 
