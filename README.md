@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/espacio/nave-rusa-averia-estacion-espacial-internacional-1199270'>Por segunda vez, una nave rusa se avería en la Estación Espacial Internacional, causando la alarma de Estados Unidos</a></h4>
+    <a href='https://computerhoy.com/espacio/nave-rusa-averia-estacion-espacial-internacional-1199270' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/segunda-vez-nave-rusa-pierde-refrigerante-estacion-espacial-internacional-causando-alarma-estados-unidos-2954352.jpg?tf=1200x' alt='Por segunda vez, una nave rusa se avería en la Estación Espacial Internacional, causando la alarma de Estados Unidos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/motor/anuncio-anti-tesla-super-bowl-the-dawn-project-1199264'>Quién es The Dawn Project, el misterioso grupo que ha creado este brutal anuncio anti-Tesla para la Super Bowl </a></h4>
     <a href='https://computerhoy.com/motor/anuncio-anti-tesla-super-bowl-the-dawn-project-1199264' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/quien-dawn-project-misterioso-grupo-ha-creado-brutal-anuncio-anti-tesla-super-bowl-2954342.jpg?tf=1200x' alt='Quién es The Dawn Project, el misterioso grupo que ha creado este brutal anuncio anti-Tesla para la Super Bowl ' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/software/navegador-opera-con-chatgpt-1199246'>El navegador Opera no quiere quedarse atrás y también anuncia la integración de ChatGPT</a></h4>
     <a href='https://computerhoy.com/software/navegador-opera-con-chatgpt-1199246' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/navegador-opera-no-quiere-quedarse-atras-tambien-anuncia-integracion-chatgpt-2954212.jpg?tf=1200x' alt='El navegador Opera no quiere quedarse atrás y también anuncia la integración de ChatGPT' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/7-antiguas-caracteristicas-windows-todavia-puedes-encontrar-windows-11-1195486'>7 antiguas características de Windows que todavía puedes encontrar en Windows 11</a></h4>
-    <a href='https://computerhoy.com/tecnologia/7-antiguas-caracteristicas-windows-todavia-puedes-encontrar-windows-11-1195486' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/windows-11-ordenador-antiguo-2947078.jpg?tf=1200x' alt='7 antiguas características de Windows que todavía puedes encontrar en Windows 11' />
     </a>
 </div>
 
