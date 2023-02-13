@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/espacio/telescopio-james-webb-descubre-gemelo-lactea-aunque-joven-1199556'>El telescopio James Webb descubre un gemelo de la Vía Láctea aunque más joven</a></h4>
+    <a href='https://computerhoy.com/espacio/telescopio-james-webb-descubre-gemelo-lactea-aunque-joven-1199556' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/telescopio-nasa-james-webb-2946028.jpg?tf=1200x' alt='El telescopio James Webb descubre un gemelo de la Vía Láctea aunque más joven' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/portatil-hp-ryzen-ssd-oferta-amazon-1199516'>Ryzen 7 y un SSD gigante para que Windows 11 vuele, y con 100€ de descuento </a></h4>
     <a href='https://computerhoy.com/tecnologia/portatil-hp-ryzen-ssd-oferta-amazon-1199516' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/hp-15s-eq2120ns-2954766.jpg?tf=1200x' alt='Ryzen 7 y un SSD gigante para que Windows 11 vuele, y con 100€ de descuento ' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/redes-sociales/elon-musk-gana-19-millones-reactivando-cuentas-bloqueadas-twitter-1199510'>Elon Musk gana 19 millones reactivando cuentas bloqueadas en Twitter</a></h4>
     <a href='https://computerhoy.com/redes-sociales/elon-musk-gana-19-millones-reactivando-cuentas-bloqueadas-twitter-1199510' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/elon-musk-2868027.jpg?tf=1200x' alt='Elon Musk gana 19 millones reactivando cuentas bloqueadas en Twitter' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/alucinaciones-ia-podrian-poner-jaque-grandes-empresas-como-google-microsoft-chatbots-1199478'>Las "alucinaciones" de la IA podrían poner en jaque a grandes empresas como Google o Microsoft y sus chatbots</a></h4>
-    <a href='https://computerhoy.com/tecnologia/alucinaciones-ia-podrian-poner-jaque-grandes-empresas-como-google-microsoft-chatbots-1199478' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/google-microsoft-alertan-grave-problema-chatbots-busqueda-alucinaciones-ia-2954760.jpg?tf=1200x' alt='Las "alucinaciones" de la IA podrían poner en jaque a grandes empresas como Google o Microsoft y sus chatbots' />
     </a>
 </div>
 
