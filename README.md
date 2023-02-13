@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/redes/orange-estrena-espana-primera-red-5g-verdadera-1199704'>Orange estrena en España la primera red de 5G verdadera</a></h4>
+    <a href='https://computerhoy.com/redes/orange-estrena-espana-primera-red-5g-verdadera-1199704' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/10/logo-orange-2117983.jpg?tf=1200x' alt='Orange estrena en España la primera red de 5G verdadera' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tutoriales/tecnologia/instalar-fondo-pantalla-animado-windows-10-465987'>Cómo instalar un fondo de pantalla animado en Windows 10 & 11 y cómo conseguirlos</a></h4>
     <a href='https://computerhoy.com/tutoriales/tecnologia/instalar-fondo-pantalla-animado-windows-10-465987' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/08/fondo-pantalla-animado-windows_0.jpg?tf=1200x' alt='Cómo instalar un fondo de pantalla animado en Windows 10 & 11 y cómo conseguirlos' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/apps/ya-puedes-instalar-android-auto-89-estas-son-principales-novedades-1199694'>Ya puedes instalar Android Auto 8.9, estas son sus principales novedades</a></h4>
     <a href='https://computerhoy.com/apps/ya-puedes-instalar-android-auto-89-estas-son-principales-novedades-1199694' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/android-auto-89-2955218.jpg?tf=1200x' alt='Ya puedes instalar Android Auto 8.9, estas son sus principales novedades' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/jefe-astronautas-nasa-advierte-llegan-cosas-nunca-habiamos-visto-1199674'>El jefe de astronautas de la NASA advierte que llegan cosas que nunca habíamos visto</a></h4>
-    <a href='https://computerhoy.com/espacio/jefe-astronautas-nasa-advierte-llegan-cosas-nunca-habiamos-visto-1199674' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/paneles-solares-espacio-2951722.jpg?tf=1200x' alt='El jefe de astronautas de la NASA advierte que llegan cosas que nunca habíamos visto' />
     </a>
 </div>
 
