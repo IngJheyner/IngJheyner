@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/instalar-fondo-pantalla-animado-windows-10-465987'>Cómo instalar un fondo de pantalla animado en Windows 10 & 11 y cómo conseguirlos</a></h4>
+    <a href='https://computerhoy.com/tutoriales/tecnologia/instalar-fondo-pantalla-animado-windows-10-465987' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/08/fondo-pantalla-animado-windows_0.jpg?tf=1200x' alt='Cómo instalar un fondo de pantalla animado en Windows 10 & 11 y cómo conseguirlos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/espacio/nasa-elige-jeff-bezos-no-elon-musk-proximo-proyecto-marte-1199702'>La NASA elige a Jeff Bezos y no a Elon Musk para su próximo proyecto en Marte</a></h4>
+    <a href='https://computerhoy.com/espacio/nasa-elige-jeff-bezos-no-elon-musk-proximo-proyecto-marte-1199702' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/jeff-bezos-convierte-astronauta-te-da-gracias-pagarle-viaje-espacio-exterior-2413185.jpg?tf=1200x' alt='La NASA elige a Jeff Bezos y no a Elon Musk para su próximo proyecto en Marte' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/guia-compra/amazon-fire-tv'>¿Cuál es el mejor Amazon Fire TV para ti? Modelos, diferencias y todo lo que debes saber</a></h4>
+    <a href='https://computerhoy.com/guia-compra/amazon-fire-tv' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/review-amazon-fire-tv-stick-4k-max-2526589.jpg?tf=1200x' alt='¿Cuál es el mejor Amazon Fire TV para ti? Modelos, diferencias y todo lo que debes saber' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apps/ya-puedes-instalar-android-auto-89-estas-son-principales-novedades-1199694'>Ya puedes instalar Android Auto 8.9, estas son sus principales novedades</a></h4>
     <a href='https://computerhoy.com/apps/ya-puedes-instalar-android-auto-89-estas-son-principales-novedades-1199694' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/android-auto-89-2955218.jpg?tf=1200x' alt='Ya puedes instalar Android Auto 8.9, estas son sus principales novedades' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/espacio/jefe-astronautas-nasa-advierte-llegan-cosas-nunca-habiamos-visto-1199674'>El jefe de astronautas de la NASA advierte que llegan cosas que nunca habíamos visto</a></h4>
     <a href='https://computerhoy.com/espacio/jefe-astronautas-nasa-advierte-llegan-cosas-nunca-habiamos-visto-1199674' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/paneles-solares-espacio-2951722.jpg?tf=1200x' alt='El jefe de astronautas de la NASA advierte que llegan cosas que nunca habíamos visto' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/rover-curiosity-ha-encontrado-playa-marte-1199686'>El rover Curiosity ha encontrado una playa en Marte</a></h4>
-    <a href='https://computerhoy.com/espacio/rover-curiosity-ha-encontrado-playa-marte-1199686' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/curiosity-rover-2955166.jpg?tf=1200x' alt='El rover Curiosity ha encontrado una playa en Marte' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/varias-webs-otan-sufre-ciberataque-sospechan-atacantes-prorusos-1199664'>Varias webs de la OTAN sufre un ciberataque y sospechan de atacantes prorusos</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/varias-webs-otan-sufre-ciberataque-sospechan-atacantes-prorusos-1199664' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/otan-banderas-paises-2631261.jpg?tf=1200x' alt='Varias webs de la OTAN sufre un ciberataque y sospechan de atacantes prorusos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/1password-gestor-contrasenas-usado-ios-pronto-dejara-usarlas-1199562'>1Password, el gestor de contraseñas más usado de iOS, pronto dejará de usarlas</a></h4>
-    <a href='https://computerhoy.com/apps/1password-gestor-contrasenas-usado-ios-pronto-dejara-usarlas-1199562' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/1password-ios-2954856.jpg?tf=1200x' alt='1Password, el gestor de contraseñas más usado de iOS, pronto dejará de usarlas' />
     </a>
 </div>
 
