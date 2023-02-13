@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/reloj-xiaomi-parecido-apple-watch-oferta-1198370'>Este es el Apple Watch low cost de Xiaomi: cuesta 49 euros y es sorprendentemente completo</a></h4>
+    <a href='https://computerhoy.com/tecnologia/reloj-xiaomi-parecido-apple-watch-oferta-1198370' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/redmi-watch-2-lite-analisis-opinion-2598817.jpg?tf=1200x' alt='Este es el Apple Watch low cost de Xiaomi: cuesta 49 euros y es sorprendentemente completo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/gaming/esperanza-china-forma-tarjeta-grafica-gaming-rinde-peor-nvidia-2016-1199466'>La esperanza china en forma de tarjeta gráfica gaming rinde peor que una NVIDIA de 2016</a></h4>
+    <a href='https://computerhoy.com/gaming/esperanza-china-forma-tarjeta-grafica-gaming-rinde-peor-nvidia-2016-1199466' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/gpu-china-2954578.jpg?tf=1200x' alt='La esperanza china en forma de tarjeta gráfica gaming rinde peor que una NVIDIA de 2016' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/ceo-nvidia-frota-manos-popularidad-chatgpt-1199462'>El CEO de Nvidia se frota las manos ante la popularidad de ChatGPT</a></h4>
     <a href='https://computerhoy.com/tecnologia/ceo-nvidia-frota-manos-popularidad-chatgpt-1199462' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/ceo-nvidia-frota-manos-popularidad-chatgpt-2954574.jpg?tf=1200x' alt='El CEO de Nvidia se frota las manos ante la popularidad de ChatGPT' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/34-noticias-tecnologia-comenzar-manana-informado-ultimo-1199448'>34 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
     <a href='https://computerhoy.com/tecnologia/34-noticias-tecnologia-comenzar-manana-informado-ultimo-1199448' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/34-noticias-tecnologia-comenzar-manana-informado-ultimo-2954546.jpg?tf=1200x' alt='34 noticias de tecnología para comenzar la mañana informado de lo último' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/diferencia-hay-gemelos-mellizos-1199188'>¿Qué diferencia hay entre gemelos y mellizos?</a></h4>
-    <a href='https://computerhoy.com/life/diferencia-hay-gemelos-mellizos-1199188' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/diferencia-hay-gemelos-mellizos-2954102.jpg?tf=1200x' alt='¿Qué diferencia hay entre gemelos y mellizos?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/camaras-compactas-faciles-manejar-ofertas-909169'>Cámaras compactas fáciles de manejar y que tienen poco que envidiar a una réflex</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/camaras-compactas-faciles-manejar-ofertas-909169' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/sony-zv-1f-2954260.jpg?tf=1200x' alt='Cámaras compactas fáciles de manejar y que tienen poco que envidiar a una réflex' />
     </a>
 </div>
 
