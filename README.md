@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/gaming/pack-consola-playstation-5-digital-god-war-ragnarok-oferta-1199822'>Este pack con la consola PlayStation 5 digital y God of War Ragnarok, se queda muy bien de precio</a></h4>
+    <a href='https://computerhoy.com/gaming/pack-consola-playstation-5-digital-god-war-ragnarok-oferta-1199822' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/playstation-5-ps5-2797383.jpg?tf=1200x' alt='Este pack con la consola PlayStation 5 digital y God of War Ragnarok, se queda muy bien de precio' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/espacio/captan-momento-exacto-asteroide-estalla-canal-mancha-1199810'>Captan el momento exacto en el que un asteroide estalla sobre el Canal de la Mancha</a></h4>
     <a href='https://computerhoy.com/espacio/captan-momento-exacto-asteroide-estalla-canal-mancha-1199810' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/captan-momento-exacto-asteroide-estalla-canal-mancha-2955520.jpg?tf=1200x' alt='Captan el momento exacto en el que un asteroide estalla sobre el Canal de la Mancha' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/apps/mejores-frases-amor-san-valentin-2023-enviar-whatsapp-1197324'>Las mejores frases de amor de San Valentín 2023 para enviar por WhatsApp </a></h4>
     <a href='https://computerhoy.com/apps/mejores-frases-amor-san-valentin-2023-enviar-whatsapp-1197324' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/mejores-frases-amor-san-valentin-2023-enviar-whatsapp-2950646.jpg?tf=1200x' alt='Las mejores frases de amor de San Valentín 2023 para enviar por WhatsApp ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/elon-musk-preocupado-porque-starlink-pueda-ser-utilizado-iniciar-nueva-guerra-mundial-1199796'>Elon Musk preocupado porque Starlink pueda ser utilizado para iniciar una nueva Guerra Mundial</a></h4>
-    <a href='https://computerhoy.com/internet/elon-musk-preocupado-porque-starlink-pueda-ser-utilizado-iniciar-nueva-guerra-mundial-1199796' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/starlink-2628997.jpg?tf=1200x' alt='Elon Musk preocupado porque Starlink pueda ser utilizado para iniciar una nueva Guerra Mundial' />
     </a>
 </div>
 
