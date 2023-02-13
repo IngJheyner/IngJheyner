@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/espacio/jefe-astronautas-nasa-advierte-llegan-cosas-nunca-habiamos-visto-1199674'>El jefe de astronautas de la NASA advierte que llegan cosas que nunca se habíamos visto</a></h4>
+    <a href='https://computerhoy.com/espacio/jefe-astronautas-nasa-advierte-llegan-cosas-nunca-habiamos-visto-1199674' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/paneles-solares-espacio-2951722.jpg?tf=1200x' alt='El jefe de astronautas de la NASA advierte que llegan cosas que nunca se habíamos visto' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/espacio/rover-curiosity-ha-encontrado-playa-marte-1199686'>El rover Curiosity ha encontrado una playa en Marte</a></h4>
+    <a href='https://computerhoy.com/espacio/rover-curiosity-ha-encontrado-playa-marte-1199686' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/curiosity-rover-2955166.jpg?tf=1200x' alt='El rover Curiosity ha encontrado una playa en Marte' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciberseguridad/varias-webs-otan-sufre-ciberataque-sospechan-atacantes-prorusos-1199664'>Varias webs de la OTAN sufre un ciberataque y sospechan de atacantes prorusos</a></h4>
     <a href='https://computerhoy.com/ciberseguridad/varias-webs-otan-sufre-ciberataque-sospechan-atacantes-prorusos-1199664' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/otan-banderas-paises-2631261.jpg?tf=1200x' alt='Varias webs de la OTAN sufre un ciberataque y sospechan de atacantes prorusos' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/ciberseguridad/como-hackers-crean-bots-telegram-basados-chatgpt-pueden-escribir-malware-1199594'>Así es como los hackers crean bots de Telegram basados en ChatGPT que pueden escribir malware</a></h4>
     <a href='https://computerhoy.com/ciberseguridad/como-hackers-crean-bots-telegram-basados-chatgpt-pueden-escribir-malware-1199594' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/nuevos-usos-chatgpt-crear-bots-telegram-escribir-malware-2954934.jpg?tf=1200x' alt='Así es como los hackers crean bots de Telegram basados en ChatGPT que pueden escribir malware' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/telescopio-james-webb-descubre-gemelo-lactea-aunque-joven-1199556'>El telescopio James Webb descubre un gemelo de la Vía Láctea aunque más joven</a></h4>
-    <a href='https://computerhoy.com/espacio/telescopio-james-webb-descubre-gemelo-lactea-aunque-joven-1199556' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/telescopio-nasa-james-webb-2946028.jpg?tf=1200x' alt='El telescopio James Webb descubre un gemelo de la Vía Láctea aunque más joven' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/portatil-hp-ryzen-ssd-oferta-amazon-1199516'>Ryzen 7 y un SSD gigante para que Windows 11 vuele, y con 100€ de descuento </a></h4>
-    <a href='https://computerhoy.com/tecnologia/portatil-hp-ryzen-ssd-oferta-amazon-1199516' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/hp-15s-eq2120ns-2954766.jpg?tf=1200x' alt='Ryzen 7 y un SSD gigante para que Windows 11 vuele, y con 100€ de descuento ' />
     </a>
 </div>
 
