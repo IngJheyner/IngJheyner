@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/redes/orange-estrena-espana-primera-red-5g-verdadera-1199704'>Orange estrena en España la primera red de 5G verdadera</a></h4>
-    <a href='https://computerhoy.com/redes/orange-estrena-espana-primera-red-5g-verdadera-1199704' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/10/logo-orange-2117983.jpg?tf=1200x' alt='Orange estrena en España la primera red de 5G verdadera' />
+    <h4><a href='https://computerhoy.com/entretenimiento/prime-video-burla-cuentas-compartidas-netflix-the-office-1199802'>Prime Video utiliza The Office para burlarse del fin de las cuentas compartidas en Netflix</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/prime-video-burla-cuentas-compartidas-netflix-the-office-1199802' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/office-dwight-schrute-2733589.jpg?tf=1200x' alt='Prime Video utiliza The Office para burlarse del fin de las cuentas compartidas en Netflix' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/instalar-fondo-pantalla-animado-windows-10-465987'>Cómo instalar un fondo de pantalla animado en Windows 10 & 11 y cómo conseguirlos</a></h4>
-    <a href='https://computerhoy.com/tutoriales/tecnologia/instalar-fondo-pantalla-animado-windows-10-465987' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/08/fondo-pantalla-animado-windows_0.jpg?tf=1200x' alt='Cómo instalar un fondo de pantalla animado en Windows 10 & 11 y cómo conseguirlos' />
+    <h4><a href='https://computerhoy.com/apps/mejores-frases-amor-san-valentin-2023-enviar-whatsapp-1197324'>Las mejores frases de amor de San Valentín 2023 para enviar por WhatsApp </a></h4>
+    <a href='https://computerhoy.com/apps/mejores-frases-amor-san-valentin-2023-enviar-whatsapp-1197324' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/mejores-frases-amor-san-valentin-2023-enviar-whatsapp-2950646.jpg?tf=1200x' alt='Las mejores frases de amor de San Valentín 2023 para enviar por WhatsApp ' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/nasa-elige-jeff-bezos-no-elon-musk-proximo-proyecto-marte-1199702'>La NASA elige a Jeff Bezos y no a Elon Musk para su próximo proyecto en Marte</a></h4>
-    <a href='https://computerhoy.com/espacio/nasa-elige-jeff-bezos-no-elon-musk-proximo-proyecto-marte-1199702' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/jeff-bezos-convierte-astronauta-te-da-gracias-pagarle-viaje-espacio-exterior-2413185.jpg?tf=1200x' alt='La NASA elige a Jeff Bezos y no a Elon Musk para su próximo proyecto en Marte' />
+    <h4><a href='https://computerhoy.com/internet/elon-musk-preocupado-porque-starlink-pueda-ser-utilizado-iniciar-nueva-guerra-mundial-1199796'>Elon Musk preocupado porque Starlink pueda ser utilizado para iniciar una nueva Guerra Mundial</a></h4>
+    <a href='https://computerhoy.com/internet/elon-musk-preocupado-porque-starlink-pueda-ser-utilizado-iniciar-nueva-guerra-mundial-1199796' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/starlink-2628997.jpg?tf=1200x' alt='Elon Musk preocupado porque Starlink pueda ser utilizado para iniciar una nueva Guerra Mundial' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/guia-compra/amazon-fire-tv'>¿Cuál es el mejor Amazon Fire TV para ti? Modelos, diferencias y todo lo que debes saber</a></h4>
-    <a href='https://computerhoy.com/guia-compra/amazon-fire-tv' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/review-amazon-fire-tv-stick-4k-max-2526589.jpg?tf=1200x' alt='¿Cuál es el mejor Amazon Fire TV para ti? Modelos, diferencias y todo lo que debes saber' />
+    <h4><a href='https://computerhoy.com/streaming/estas-streamers-chinas-amontonan-mismo-sitio-hacer-streaming-1199720'>Por qué estas streamers chinas se amontonan en el mismo sitio para hacer streaming</a></h4>
+    <a href='https://computerhoy.com/streaming/estas-streamers-chinas-amontonan-mismo-sitio-hacer-streaming-1199720' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/estas-streamers-chinas-amontonan-mismo-sitio-hacer-streaming-2955420.jpg?tf=1200x' alt='Por qué estas streamers chinas se amontonan en el mismo sitio para hacer streaming' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/ya-puedes-instalar-android-auto-89-estas-son-principales-novedades-1199694'>Ya puedes instalar Android Auto 8.9, estas son sus principales novedades</a></h4>
-    <a href='https://computerhoy.com/apps/ya-puedes-instalar-android-auto-89-estas-son-principales-novedades-1199694' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/android-auto-89-2955218.jpg?tf=1200x' alt='Ya puedes instalar Android Auto 8.9, estas son sus principales novedades' />
+    <h4><a href='https://computerhoy.com/energia/pesar-bajadas-sigue-siendo-tarifa-gas-rentable-mucha-diferencia-1199706'>A pesar de las bajadas esta sigue siendo la tarifa de gas más rentable con mucha diferencia</a></h4>
+    <a href='https://computerhoy.com/energia/pesar-bajadas-sigue-siendo-tarifa-gas-rentable-mucha-diferencia-1199706' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/forma-sencilla-saber-tienes-corrientes-aire-frio-casa-disparan-gasto-calefaccion-2948602.jpg?tf=1200x' alt='A pesar de las bajadas esta sigue siendo la tarifa de gas más rentable con mucha diferencia' />
     </a>
 </div>
 
