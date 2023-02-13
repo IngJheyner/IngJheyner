@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-arreglar-problema-error-descarga-netflix-1185802'>Cómo arreglar el problema de Error de Descarga en Netflix</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-arreglar-problema-error-descarga-netflix-1185802' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/netflix-2930366.jpg?tf=1200x' alt='Cómo arreglar el problema de Error de Descarga en Netflix' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/34-noticias-tecnologia-comenzar-manana-informado-ultimo-1199448'>34 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
+    <a href='https://computerhoy.com/tecnologia/34-noticias-tecnologia-comenzar-manana-informado-ultimo-1199448' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/34-noticias-tecnologia-comenzar-manana-informado-ultimo-2954546.jpg?tf=1200x' alt='34 noticias de tecnología para comenzar la mañana informado de lo último' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/diferencia-hay-gemelos-mellizos-1199188'>¿Qué diferencia hay entre gemelos y mellizos?</a></h4>
+    <a href='https://computerhoy.com/life/diferencia-hay-gemelos-mellizos-1199188' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/diferencia-hay-gemelos-mellizos-2954102.jpg?tf=1200x' alt='¿Qué diferencia hay entre gemelos y mellizos?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/camaras-compactas-faciles-manejar-ofertas-909169'>Cámaras compactas fáciles de manejar y que tienen poco que envidiar a una réflex</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/camaras-compactas-faciles-manejar-ofertas-909169' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/sony-zv-1f-2954260.jpg?tf=1200x' alt='Cámaras compactas fáciles de manejar y que tienen poco que envidiar a una réflex' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-alternativas-airpods-pro-baratos-894619'>5 alternativas a los AirPods Pro que son más baratas y funcionan con el iPhone</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/mejores-alternativas-airpods-pro-baratos-894619' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/huawei-freebuds-pro-2-analisis-opinion-2754911.jpg?tf=1200x' alt='5 alternativas a los AirPods Pro que son más baratas y funcionan con el iPhone' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/nave-rusa-averia-estacion-espacial-internacional-1199270'>Por segunda vez, una nave rusa se avería en la Estación Espacial Internacional, causando la alarma de Estados Unidos</a></h4>
-    <a href='https://computerhoy.com/espacio/nave-rusa-averia-estacion-espacial-internacional-1199270' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/segunda-vez-nave-rusa-pierde-refrigerante-estacion-espacial-internacional-causando-alarma-estados-unidos-2954352.jpg?tf=1200x' alt='Por segunda vez, una nave rusa se avería en la Estación Espacial Internacional, causando la alarma de Estados Unidos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/anuncio-anti-tesla-super-bowl-the-dawn-project-1199264'>Quién es The Dawn Project, el misterioso grupo que ha creado este brutal anuncio anti-Tesla para la Super Bowl </a></h4>
-    <a href='https://computerhoy.com/motor/anuncio-anti-tesla-super-bowl-the-dawn-project-1199264' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/quien-dawn-project-misterioso-grupo-ha-creado-brutal-anuncio-anti-tesla-super-bowl-2954342.jpg?tf=1200x' alt='Quién es The Dawn Project, el misterioso grupo que ha creado este brutal anuncio anti-Tesla para la Super Bowl ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/realidad-virtual/microsoft-metaverso-despidos-division-industrial-1199262'>Microsoft da la espalda al Metaverso, despide a su división industrial</a></h4>
-    <a href='https://computerhoy.com/realidad-virtual/microsoft-metaverso-despidos-division-industrial-1199262' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/metaverso-2954232.jpg?tf=1200x' alt='Microsoft da la espalda al Metaverso, despide a su división industrial' />
     </a>
 </div>
 
