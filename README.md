@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/espacio/captan-momento-exacto-asteroide-estalla-canal-mancha-1199810'>Captan el momento exacto en el que un asteroide estalla sobre el Canal de la Mancha</a></h4>
+    <a href='https://computerhoy.com/espacio/captan-momento-exacto-asteroide-estalla-canal-mancha-1199810' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/captan-momento-exacto-asteroide-estalla-canal-mancha-2955520.jpg?tf=1200x' alt='Captan el momento exacto en el que un asteroide estalla sobre el Canal de la Mancha' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/moviles/sony-no-rinde-mercado-moviles-filtra-nuevo-xperia-1-v-1199726'>Sony no se rinde en el mercado de móviles, se filtra el nuevo Xperia 1 V</a></h4>
+    <a href='https://computerhoy.com/moviles/sony-no-rinde-mercado-moviles-filtra-nuevo-xperia-1-v-1199726' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/sony-no-rinde-mercado-moviles-filtra-nuevo-xperia-1-v-2955472.jpg?tf=1200x' alt='Sony no se rinde en el mercado de móviles, se filtra el nuevo Xperia 1 V' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/entretenimiento/prime-video-burla-cuentas-compartidas-netflix-the-office-1199802'>Prime Video utiliza The Office para burlarse del fin de las cuentas compartidas en Netflix</a></h4>
     <a href='https://computerhoy.com/entretenimiento/prime-video-burla-cuentas-compartidas-netflix-the-office-1199802' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/office-dwight-schrute-2733589.jpg?tf=1200x' alt='Prime Video utiliza The Office para burlarse del fin de las cuentas compartidas en Netflix' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/internet/elon-musk-preocupado-porque-starlink-pueda-ser-utilizado-iniciar-nueva-guerra-mundial-1199796'>Elon Musk preocupado porque Starlink pueda ser utilizado para iniciar una nueva Guerra Mundial</a></h4>
     <a href='https://computerhoy.com/internet/elon-musk-preocupado-porque-starlink-pueda-ser-utilizado-iniciar-nueva-guerra-mundial-1199796' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/starlink-2628997.jpg?tf=1200x' alt='Elon Musk preocupado porque Starlink pueda ser utilizado para iniciar una nueva Guerra Mundial' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/streaming/estas-streamers-chinas-amontonan-mismo-sitio-hacer-streaming-1199720'>Por qué estas streamers chinas se amontonan en el mismo sitio para hacer streaming</a></h4>
-    <a href='https://computerhoy.com/streaming/estas-streamers-chinas-amontonan-mismo-sitio-hacer-streaming-1199720' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/estas-streamers-chinas-amontonan-mismo-sitio-hacer-streaming-2955420.jpg?tf=1200x' alt='Por qué estas streamers chinas se amontonan en el mismo sitio para hacer streaming' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/energia/pesar-bajadas-sigue-siendo-tarifa-gas-rentable-mucha-diferencia-1199706'>A pesar de las bajadas esta sigue siendo la tarifa de gas más rentable con mucha diferencia</a></h4>
-    <a href='https://computerhoy.com/energia/pesar-bajadas-sigue-siendo-tarifa-gas-rentable-mucha-diferencia-1199706' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/forma-sencilla-saber-tienes-corrientes-aire-frio-casa-disparan-gasto-calefaccion-2948602.jpg?tf=1200x' alt='A pesar de las bajadas esta sigue siendo la tarifa de gas más rentable con mucha diferencia' />
     </a>
 </div>
 
