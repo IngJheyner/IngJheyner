@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/portatil-hp-ryzen-ssd-oferta-amazon-1199516'>Ryzen 7 y un SSD gigante para que Windows 11 vuele, y con 100€ de descuento </a></h4>
+    <a href='https://computerhoy.com/tecnologia/portatil-hp-ryzen-ssd-oferta-amazon-1199516' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/hp-15s-eq2120ns-2954766.jpg?tf=1200x' alt='Ryzen 7 y un SSD gigante para que Windows 11 vuele, y con 100€ de descuento ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/odio-extremo-steve-jobs-programa-microsoft-quienes-usan-no-saben-hablan-1199528'>El odio extremo de Steve Jobs a un programa de Microsoft: “quienes lo usan no saben de lo que hablan"</a></h4>
+    <a href='https://computerhoy.com/apple/odio-extremo-steve-jobs-programa-microsoft-quienes-usan-no-saben-hablan-1199528' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/steve-jobs-next-2885503.jpg?tf=1200x' alt='El odio extremo de Steve Jobs a un programa de Microsoft: “quienes lo usan no saben de lo que hablan"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/google/google-ya-trabaja-hacer-util-funcion-picture-picture-chrome-novedad-1199526'>Google ya trabaja para hacer más útil la función Picture-in-Picture de Chrome con esta novedad</a></h4>
     <a href='https://computerhoy.com/google/google-ya-trabaja-hacer-util-funcion-picture-picture-chrome-novedad-1199526' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/google-chrome-mejorara-multitarea-nueva-funcion-2954820.jpg?tf=1200x' alt='Google ya trabaja para hacer más útil la función Picture-in-Picture de Chrome con esta novedad' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/alucinaciones-ia-podrian-poner-jaque-grandes-empresas-como-google-microsoft-chatbots-1199478'>Las "alucinaciones" de la IA podrían poner en jaque a grandes empresas como Google o Microsoft y sus chatbots</a></h4>
     <a href='https://computerhoy.com/tecnologia/alucinaciones-ia-podrian-poner-jaque-grandes-empresas-como-google-microsoft-chatbots-1199478' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/google-microsoft-alertan-grave-problema-chatbots-busqueda-alucinaciones-ia-2954760.jpg?tf=1200x' alt='Las "alucinaciones" de la IA podrían poner en jaque a grandes empresas como Google o Microsoft y sus chatbots' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/reloj-xiaomi-parecido-apple-watch-oferta-1198370'>Este es el Apple Watch low cost de Xiaomi: cuesta 49 euros y es sorprendentemente completo</a></h4>
-    <a href='https://computerhoy.com/tecnologia/reloj-xiaomi-parecido-apple-watch-oferta-1198370' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/redmi-watch-2-lite-analisis-opinion-2598817.jpg?tf=1200x' alt='Este es el Apple Watch low cost de Xiaomi: cuesta 49 euros y es sorprendentemente completo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/gaming/esperanza-china-forma-tarjeta-grafica-gaming-rinde-peor-nvidia-2016-1199466'>La esperanza china en forma de tarjeta gráfica gaming rinde peor que una NVIDIA de 2016</a></h4>
-    <a href='https://computerhoy.com/gaming/esperanza-china-forma-tarjeta-grafica-gaming-rinde-peor-nvidia-2016-1199466' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/gpu-china-2954578.jpg?tf=1200x' alt='La esperanza china en forma de tarjeta gráfica gaming rinde peor que una NVIDIA de 2016' />
     </a>
 </div>
 
