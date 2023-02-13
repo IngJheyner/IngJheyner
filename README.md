@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/como-hackers-crean-bots-telegram-basados-chatgpt-pueden-escribir-malware-1199594'>Así es como los hackers crean bots de Telegram basados en ChatGPT que pueden escribir malware</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/como-hackers-crean-bots-telegram-basados-chatgpt-pueden-escribir-malware-1199594' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/nuevos-usos-chatgpt-crear-bots-telegram-escribir-malware-2954934.jpg?tf=1200x' alt='Así es como los hackers crean bots de Telegram basados en ChatGPT que pueden escribir malware' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/espacio/telescopio-james-webb-descubre-gemelo-lactea-aunque-joven-1199556'>El telescopio James Webb descubre un gemelo de la Vía Láctea aunque más joven</a></h4>
     <a href='https://computerhoy.com/espacio/telescopio-james-webb-descubre-gemelo-lactea-aunque-joven-1199556' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/telescopio-nasa-james-webb-2946028.jpg?tf=1200x' alt='El telescopio James Webb descubre un gemelo de la Vía Láctea aunque más joven' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/google/google-ya-trabaja-hacer-util-funcion-picture-picture-chrome-novedad-1199526'>Google ya trabaja para hacer más útil la función Picture-in-Picture de Chrome con esta novedad</a></h4>
     <a href='https://computerhoy.com/google/google-ya-trabaja-hacer-util-funcion-picture-picture-chrome-novedad-1199526' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/google-chrome-mejorara-multitarea-nueva-funcion-2954820.jpg?tf=1200x' alt='Google ya trabaja para hacer más útil la función Picture-in-Picture de Chrome con esta novedad' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/redes-sociales/elon-musk-gana-19-millones-reactivando-cuentas-bloqueadas-twitter-1199510'>Elon Musk gana 19 millones reactivando cuentas bloqueadas en Twitter</a></h4>
-    <a href='https://computerhoy.com/redes-sociales/elon-musk-gana-19-millones-reactivando-cuentas-bloqueadas-twitter-1199510' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/elon-musk-2868027.jpg?tf=1200x' alt='Elon Musk gana 19 millones reactivando cuentas bloqueadas en Twitter' />
     </a>
 </div>
 
