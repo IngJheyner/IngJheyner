@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/ceo-nvidia-frota-manos-popularidad-chatgpt-1199462'>El CEO de Nvidia se frota las manos ante la popularidad de ChatGPT</a></h4>
+    <a href='https://computerhoy.com/tecnologia/ceo-nvidia-frota-manos-popularidad-chatgpt-1199462' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/ceo-nvidia-frota-manos-popularidad-chatgpt-2954574.jpg?tf=1200x' alt='El CEO de Nvidia se frota las manos ante la popularidad de ChatGPT' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tutoriales/como-arreglar-problema-error-descarga-netflix-1185802'>Cómo arreglar el problema de Error de Descarga en Netflix</a></h4>
     <a href='https://computerhoy.com/tutoriales/como-arreglar-problema-error-descarga-netflix-1185802' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/netflix-2930366.jpg?tf=1200x' alt='Cómo arreglar el problema de Error de Descarga en Netflix' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/camaras-compactas-faciles-manejar-ofertas-909169'>Cámaras compactas fáciles de manejar y que tienen poco que envidiar a una réflex</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/camaras-compactas-faciles-manejar-ofertas-909169' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/sony-zv-1f-2954260.jpg?tf=1200x' alt='Cámaras compactas fáciles de manejar y que tienen poco que envidiar a una réflex' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-alternativas-airpods-pro-baratos-894619'>5 alternativas a los AirPods Pro que son más baratas y funcionan con el iPhone</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-alternativas-airpods-pro-baratos-894619' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/huawei-freebuds-pro-2-analisis-opinion-2754911.jpg?tf=1200x' alt='5 alternativas a los AirPods Pro que son más baratas y funcionan con el iPhone' />
     </a>
 </div>
 
