@@ -50,9 +50,17 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/jefe-astronautas-nasa-advierte-llegan-cosas-nunca-habiamos-visto-1199674'>El jefe de astronautas de la NASA advierte que llegan cosas que nunca se habíamos visto</a></h4>
+    <h4><a href='https://computerhoy.com/apps/ya-puedes-instalar-android-auto-89-estas-son-principales-novedades-1199694'>Ya puedes instalar Android Auto 8.9, estas son sus principales novedades</a></h4>
+    <a href='https://computerhoy.com/apps/ya-puedes-instalar-android-auto-89-estas-son-principales-novedades-1199694' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/android-auto-89-2955218.jpg?tf=1200x' alt='Ya puedes instalar Android Auto 8.9, estas son sus principales novedades' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/espacio/jefe-astronautas-nasa-advierte-llegan-cosas-nunca-habiamos-visto-1199674'>El jefe de astronautas de la NASA advierte que llegan cosas que nunca habíamos visto</a></h4>
     <a href='https://computerhoy.com/espacio/jefe-astronautas-nasa-advierte-llegan-cosas-nunca-habiamos-visto-1199674' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/paneles-solares-espacio-2951722.jpg?tf=1200x' alt='El jefe de astronautas de la NASA advierte que llegan cosas que nunca se habíamos visto' />
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/paneles-solares-espacio-2951722.jpg?tf=1200x' alt='El jefe de astronautas de la NASA advierte que llegan cosas que nunca habíamos visto' />
     </a>
 </div>
 
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/apps/1password-gestor-contrasenas-usado-ios-pronto-dejara-usarlas-1199562'>1Password, el gestor de contraseñas más usado de iOS, pronto dejará de usarlas</a></h4>
     <a href='https://computerhoy.com/apps/1password-gestor-contrasenas-usado-ios-pronto-dejara-usarlas-1199562' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/1password-ios-2954856.jpg?tf=1200x' alt='1Password, el gestor de contraseñas más usado de iOS, pronto dejará de usarlas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/como-hackers-crean-bots-telegram-basados-chatgpt-pueden-escribir-malware-1199594'>Así es como los hackers crean bots de Telegram basados en ChatGPT que pueden escribir malware</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/como-hackers-crean-bots-telegram-basados-chatgpt-pueden-escribir-malware-1199594' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/nuevos-usos-chatgpt-crear-bots-telegram-escribir-malware-2954934.jpg?tf=1200x' alt='Así es como los hackers crean bots de Telegram basados en ChatGPT que pueden escribir malware' />
     </a>
 </div>
 
