@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/luces-cielo-ovnis-satelites-starlink-elon-musk-1200068'>No son los OVNIs norteamericanos, pero en España también se pueden contemplar estos días extrañas luces en el cielo</a></h4>
+    <a href='https://computerhoy.com/ciencia/luces-cielo-ovnis-satelites-starlink-elon-musk-1200068' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/son-esas-extranas-luces-han-visto-cielos-espana-ultimos-dias-2955554.jpg?tf=1200x' alt='No son los OVNIs norteamericanos, pero en España también se pueden contemplar estos días extrañas luces en el cielo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/entretenimiento/pelicula-documental-sintiendolo-mucho-joaquin-sabina-aranoa-streaming-movistar-plus-1199828'>La película documental que triunfó en los Goya, rodada durante 13 años, ya está disponible en streaming</a></h4>
     <a href='https://computerhoy.com/entretenimiento/pelicula-documental-sintiendolo-mucho-joaquin-sabina-aranoa-streaming-movistar-plus-1199828' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/goya-movistar-plus-documental-ha-triunfado-gala-ya-disponible-2955538.jpg?tf=1200x' alt='La película documental que triunfó en los Goya, rodada durante 13 años, ya está disponible en streaming' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/moviles/sony-no-rinde-mercado-moviles-filtra-nuevo-xperia-1-v-1199726'>Sony no se rinde en el mercado de móviles, se filtra el nuevo Xperia 1 V</a></h4>
     <a href='https://computerhoy.com/moviles/sony-no-rinde-mercado-moviles-filtra-nuevo-xperia-1-v-1199726' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/sony-no-rinde-mercado-moviles-filtra-nuevo-xperia-1-v-2955472.jpg?tf=1200x' alt='Sony no se rinde en el mercado de móviles, se filtra el nuevo Xperia 1 V' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/prime-video-burla-cuentas-compartidas-netflix-the-office-1199802'>Prime Video utiliza The Office para burlarse del fin de las cuentas compartidas en Netflix</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/prime-video-burla-cuentas-compartidas-netflix-the-office-1199802' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/office-dwight-schrute-2733589.jpg?tf=1200x' alt='Prime Video utiliza The Office para burlarse del fin de las cuentas compartidas en Netflix' />
     </a>
 </div>
 
