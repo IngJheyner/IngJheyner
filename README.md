@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/pelicula-documental-sintiendolo-mucho-joaquin-sabina-aranoa-streaming-movistar-plus-1199828'>La película documental que triunfó en los Goya, rodada durante 13 años, ya está disponible en streaming</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/pelicula-documental-sintiendolo-mucho-joaquin-sabina-aranoa-streaming-movistar-plus-1199828' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/goya-movistar-plus-documental-ha-triunfado-gala-ya-disponible-2955538.jpg?tf=1200x' alt='La película documental que triunfó en los Goya, rodada durante 13 años, ya está disponible en streaming' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/gaming/pack-consola-playstation-5-digital-god-war-ragnarok-oferta-1199822'>Este pack con la consola PlayStation 5 digital y God of War Ragnarok, se queda muy bien de precio</a></h4>
     <a href='https://computerhoy.com/gaming/pack-consola-playstation-5-digital-god-war-ragnarok-oferta-1199822' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/playstation-5-ps5-2797383.jpg?tf=1200x' alt='Este pack con la consola PlayStation 5 digital y God of War Ragnarok, se queda muy bien de precio' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/entretenimiento/prime-video-burla-cuentas-compartidas-netflix-the-office-1199802'>Prime Video utiliza The Office para burlarse del fin de las cuentas compartidas en Netflix</a></h4>
     <a href='https://computerhoy.com/entretenimiento/prime-video-burla-cuentas-compartidas-netflix-the-office-1199802' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/office-dwight-schrute-2733589.jpg?tf=1200x' alt='Prime Video utiliza The Office para burlarse del fin de las cuentas compartidas en Netflix' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/mejores-frases-amor-san-valentin-2023-enviar-whatsapp-1197324'>Las mejores frases de amor de San Valentín 2023 para enviar por WhatsApp </a></h4>
-    <a href='https://computerhoy.com/apps/mejores-frases-amor-san-valentin-2023-enviar-whatsapp-1197324' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/mejores-frases-amor-san-valentin-2023-enviar-whatsapp-2950646.jpg?tf=1200x' alt='Las mejores frases de amor de San Valentín 2023 para enviar por WhatsApp ' />
     </a>
 </div>
 
