@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/telegram-inesperada-alternativa-spotify-escuchar-musica-conexion-1200272'>Telegram, la inesperada alternativa a Spotify para escuchar música sin conexión</a></h4>
+    <a href='https://computerhoy.com/apps/telegram-inesperada-alternativa-spotify-escuchar-musica-conexion-1200272' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/telegram-2890488.jpg?tf=1200x' alt='Telegram, la inesperada alternativa a Spotify para escuchar música sin conexión' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/moviles/one-ui-51-llega-espana-trae-mejoras-camara-moviles-samsung-1200204'>One UI 5.1 llega a España y trae mejoras a la cámara de los móviles Samsung </a></h4>
+    <a href='https://computerhoy.com/moviles/one-ui-51-llega-espana-trae-mejoras-camara-moviles-samsung-1200204' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/one-ui-51-llega-espana-trae-mejoras-camara-moviles-samsung-2956236.jpg?tf=1200x' alt='One UI 5.1 llega a España y trae mejoras a la cámara de los móviles Samsung ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/llega-espana-skyshowtime-plataforma-streaming-americana-anima-oferton-vida-1200216'>Llega a España SkyShowtime, la plataforma de streaming americana se anima con un ofertón de por vida</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/llega-espana-skyshowtime-plataforma-streaming-americana-anima-oferton-vida-1200216' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/skyshowtime-2956132.jpg?tf=1200x' alt='Llega a España SkyShowtime, la plataforma de streaming americana se anima con un ofertón de por vida' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/airpods-pro-2-nuevo-rebajados-amazon-precio-historico-1199550'>Los AirPods Pro 2, de nuevo rebajados en Amazon a su precio histórico más bajo</a></h4>
     <a href='https://computerhoy.com/tecnologia/airpods-pro-2-nuevo-rebajados-amazon-precio-historico-1199550' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/apple-airpods-pro-2-analisis-opinion-2844263.jpg?tf=1200x' alt='Los AirPods Pro 2, de nuevo rebajados en Amazon a su precio histórico más bajo' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/life/estornudamos-cuales-son-beneficios-1200184'>Por qué estornudamos y cuáles son sus beneficios</a></h4>
     <a href='https://computerhoy.com/life/estornudamos-cuales-son-beneficios-1200184' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/estornudamos-beneficios-tiene-2956002.jpg?tf=1200x' alt='Por qué estornudamos y cuáles son sus beneficios' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/funciona-transcripcion-texto-notas-voz-whatsapp-1200172'>Así funciona la transcripción a texto de las notas de voz de WhatsApp</a></h4>
-    <a href='https://computerhoy.com/apps/funciona-transcripcion-texto-notas-voz-whatsapp-1200172' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/audio-whatsapp-2876197.jpg?tf=1200x' alt='Así funciona la transcripción a texto de las notas de voz de WhatsApp' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/no-puedes-abrir-google-fotos-no-culpa-actualizacion-ios-1631-bloqueando-1200144'>Si no puedes abrir Google Fotos no es tu culpa, la actualización de iOS 16.3.1 la está bloqueando</a></h4>
-    <a href='https://computerhoy.com/apple/no-puedes-abrir-google-fotos-no-culpa-actualizacion-ios-1631-bloqueando-1200144' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/no-puedes-abrir-google-fotos-no-culpa-actualizacion-ios-1631-bloqueando-2955960.jpg?tf=1200x' alt='Si no puedes abrir Google Fotos no es tu culpa, la actualización de iOS 16.3.1 la está bloqueando' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/globos-espia-ovnis-meteoritos-hay-tantos-avistamientos-ultimos-dias-1200134'>Globos espía, OVNIs y meteoritos: ¿por qué hay tantos avistamientos en los últimos días?</a></h4>
-    <a href='https://computerhoy.com/espacio/globos-espia-ovnis-meteoritos-hay-tantos-avistamientos-ultimos-dias-1200134' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/globo-espia-chino-2955940.jpg?tf=1200x' alt='Globos espía, OVNIs y meteoritos: ¿por qué hay tantos avistamientos en los últimos días?' />
     </a>
 </div>
 
