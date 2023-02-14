@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/legislacion/ley-2007-hara-proximo-movil-sea-caro-1200378'>Esta ley de 2007 hará que tu próximo móvil sea más caro</a></h4>
+    <a href='https://computerhoy.com/legislacion/ley-2007-hara-proximo-movil-sea-caro-1200378' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/samsung-galaxy-s23-2943660.jpg?tf=1200x' alt='Esta ley de 2007 hará que tu próximo móvil sea más caro' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/internet/probamos-nuevo-bing-chatgpt-buscador-google-deberia-estar-temblando-1199582'>Probamos el nuevo Bing con ChatGPT, el buscador por el que Google debería estar temblando</a></h4>
+    <a href='https://computerhoy.com/internet/probamos-nuevo-bing-chatgpt-buscador-google-deberia-estar-temblando-1199582' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/probamos-bing-chatgpt-2956232.jpg?tf=1200x' alt='Probamos el nuevo Bing con ChatGPT, el buscador por el que Google debería estar temblando' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/truco-whatsapp-escribir-letras-azules-1200348'>Truco de WhatsApp: escribir con letras azules</a></h4>
+    <a href='https://computerhoy.com/apps/truco-whatsapp-escribir-letras-azules-1200348' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/truco-whatsapp-escribir-letras-azules-2956488.jpg?tf=1200x' alt='Truco de WhatsApp: escribir con letras azules' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/ciudad-espanola-ha-sido-elegida-mejor-capital-alternativa-europa-no-barcelona-1200300'>Esta ciudad española ha sido elegida mejor capital alternativa de Europa (y no es Barcelona)</a></h4>
+    <a href='https://computerhoy.com/life/ciudad-espanola-ha-sido-elegida-mejor-capital-alternativa-europa-no-barcelona-1200300' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/malaga-2956316.jpg?tf=1200x' alt='Esta ciudad española ha sido elegida mejor capital alternativa de Europa (y no es Barcelona)' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apps/telegram-inesperada-alternativa-spotify-escuchar-musica-conexion-1200272'>Telegram, la inesperada alternativa a Spotify para escuchar música sin conexión</a></h4>
     <a href='https://computerhoy.com/apps/telegram-inesperada-alternativa-spotify-escuchar-musica-conexion-1200272' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/telegram-2890488.jpg?tf=1200x' alt='Telegram, la inesperada alternativa a Spotify para escuchar música sin conexión' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/one-ui-51-llega-espana-trae-mejoras-camara-moviles-samsung-1200204'>One UI 5.1 llega a España y trae mejoras a la cámara de los móviles Samsung </a></h4>
-    <a href='https://computerhoy.com/moviles/one-ui-51-llega-espana-trae-mejoras-camara-moviles-samsung-1200204' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/one-ui-51-llega-espana-trae-mejoras-camara-moviles-samsung-2956236.jpg?tf=1200x' alt='One UI 5.1 llega a España y trae mejoras a la cámara de los móviles Samsung ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/llega-espana-skyshowtime-plataforma-streaming-americana-anima-oferton-vida-1200216'>Llega a España SkyShowtime, la plataforma de streaming americana se anima con un ofertón de por vida</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/llega-espana-skyshowtime-plataforma-streaming-americana-anima-oferton-vida-1200216' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/skyshowtime-2956132.jpg?tf=1200x' alt='Llega a España SkyShowtime, la plataforma de streaming americana se anima con un ofertón de por vida' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/airpods-pro-2-nuevo-rebajados-amazon-precio-historico-1199550'>Los AirPods Pro 2, de nuevo rebajados en Amazon a su precio histórico más bajo</a></h4>
-    <a href='https://computerhoy.com/tecnologia/airpods-pro-2-nuevo-rebajados-amazon-precio-historico-1199550' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/apple-airpods-pro-2-analisis-opinion-2844263.jpg?tf=1200x' alt='Los AirPods Pro 2, de nuevo rebajados en Amazon a su precio histórico más bajo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/estornudamos-cuales-son-beneficios-1200184'>Por qué estornudamos y cuáles son sus beneficios</a></h4>
-    <a href='https://computerhoy.com/life/estornudamos-cuales-son-beneficios-1200184' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/estornudamos-beneficios-tiene-2956002.jpg?tf=1200x' alt='Por qué estornudamos y cuáles son sus beneficios' />
     </a>
 </div>
 
