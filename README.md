@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/video-como-almacenan-maletas-bodega-avion-1200460'>Un operario muestra en un vídeo cómo se almacenan las maletas en un avión, y te va a sorprender</a></h4>
+    <a href='https://computerhoy.com/life/video-como-almacenan-maletas-bodega-avion-1200460' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/operario-muestra-video-como-almacenan-maletas-avion-te-va-sorprender-2956724.jpg?tf=1200x' alt='Un operario muestra en un vídeo cómo se almacenan las maletas en un avión, y te va a sorprender' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/google/ya-disponible-actualizaciones-esperadas-google-maps-android-auto-1200436'>Ya disponible una de las actualizaciones más esperadas de Google Maps para Android Auto</a></h4>
+    <a href='https://computerhoy.com/google/ya-disponible-actualizaciones-esperadas-google-maps-android-auto-1200436' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/android-auto-89-2955218.jpg?tf=1200x' alt='Ya disponible una de las actualizaciones más esperadas de Google Maps para Android Auto' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/streaming/tdt-directamente-movil-antenas-sintonizar-canales-gracias-5g-1196012'>La TDT directamente en el móvil sin antenas y sin sintonizar los canales gracias al 5G</a></h4>
     <a href='https://computerhoy.com/streaming/tdt-directamente-movil-antenas-sintonizar-canales-gracias-5g-1196012' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/tdt-2856157.jpg?tf=1200x' alt='La TDT directamente en el móvil sin antenas y sin sintonizar los canales gracias al 5G' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/guia-compra/parrilla-electrica-859233'>Parrillas eléctricas: consejos y guía para comprar una barbacoa eléctrica</a></h4>
     <a href='https://computerhoy.com/guia-compra/parrilla-electrica-859233' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/parrilla-lidl-silvercrest-2291573.jpg?tf=1200x' alt='Parrillas eléctricas: consejos y guía para comprar una barbacoa eléctrica' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/7-tecnicas-seguridad-digital-hoy-dia-no-son-efectivas-pero-siguen-usandose-1200370'>Las 7 técnicas de seguridad digital que hoy día no son efectivas pero siguen usándose</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/7-tecnicas-seguridad-digital-hoy-dia-no-son-efectivas-pero-siguen-usandose-1200370' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/vpn-seguridad-2920634.jpg?tf=1200x' alt='Las 7 técnicas de seguridad digital que hoy día no son efectivas pero siguen usándose' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/legislacion/ley-2007-hara-proximo-movil-sea-caro-1200378'>Esta ley de 2007 hará que tu próximo móvil sea más caro</a></h4>
-    <a href='https://computerhoy.com/legislacion/ley-2007-hara-proximo-movil-sea-caro-1200378' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/samsung-galaxy-s23-2943660.jpg?tf=1200x' alt='Esta ley de 2007 hará que tu próximo móvil sea más caro' />
     </a>
 </div>
 
