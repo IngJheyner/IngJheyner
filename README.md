@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/streaming/tdt-directamente-movil-antenas-sintonizar-canales-gracias-5g-1196012'>La TDT directamente en el móvil sin antenas y sin sintonizar los canales gracias al 5G</a></h4>
+    <a href='https://computerhoy.com/streaming/tdt-directamente-movil-antenas-sintonizar-canales-gracias-5g-1196012' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/tdt-2856157.jpg?tf=1200x' alt='La TDT directamente en el móvil sin antenas y sin sintonizar los canales gracias al 5G' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/internet/mejores-lectores-pdf-windows-gratis-73701'>Los mejores lectores PDF para Windows gratis</a></h4>
     <a href='https://computerhoy.com/noticias/internet/mejores-lectores-pdf-windows-gratis-73701' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/11/mejores-lectores-pdf-gratis-movil_4.jpg?tf=1200x' alt='Los mejores lectores PDF para Windows gratis' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/legislacion/ley-2007-hara-proximo-movil-sea-caro-1200378'>Esta ley de 2007 hará que tu próximo móvil sea más caro</a></h4>
     <a href='https://computerhoy.com/legislacion/ley-2007-hara-proximo-movil-sea-caro-1200378' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/samsung-galaxy-s23-2943660.jpg?tf=1200x' alt='Esta ley de 2007 hará que tu próximo móvil sea más caro' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/probamos-nuevo-bing-chatgpt-buscador-google-deberia-estar-temblando-1199582'>Probamos el nuevo Bing con ChatGPT, el buscador por el que Google debería estar temblando</a></h4>
-    <a href='https://computerhoy.com/internet/probamos-nuevo-bing-chatgpt-buscador-google-deberia-estar-temblando-1199582' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/probamos-bing-chatgpt-2956232.jpg?tf=1200x' alt='Probamos el nuevo Bing con ChatGPT, el buscador por el que Google debería estar temblando' />
     </a>
 </div>
 
