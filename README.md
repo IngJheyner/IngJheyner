@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/movil-samsung-galaxy-a53-5g-oferta-carrefour-1199530'>Este móvil Samsung con 5G es todoterreno y acaba de desplomar su precio a 399 euros</a></h4>
-    <a href='https://computerhoy.com/tecnologia/movil-samsung-galaxy-a53-5g-oferta-carrefour-1199530' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/samsung-galaxy-a53-5g-analisis-opinion-2678347.jpg?tf=1200x' alt='Este móvil Samsung con 5G es todoterreno y acaba de desplomar su precio a 399 euros' />
+    <h4><a href='https://computerhoy.com/tecnologia/airpods-pro-2-nuevo-rebajados-amazon-precio-historico-1199550'>Los AirPods Pro 2, de nuevo rebajados en Amazon a su precio histórico más bajo</a></h4>
+    <a href='https://computerhoy.com/tecnologia/airpods-pro-2-nuevo-rebajados-amazon-precio-historico-1199550' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/apple-airpods-pro-2-analisis-opinion-2844263.jpg?tf=1200x' alt='Los AirPods Pro 2, de nuevo rebajados en Amazon a su precio histórico más bajo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/redes-sociales/tiktok-ya-trabaja-muro-pago-beneficio-creadores-obtener-contenido-premium-1200108'>Tiktok ya trabaja en un muro de pago en beneficio de los creadores y obtener contenido premium</a></h4>
-    <a href='https://computerhoy.com/redes-sociales/tiktok-ya-trabaja-muro-pago-beneficio-creadores-obtener-contenido-premium-1200108' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/tiktok-podria-hacerse-pago-repartirlo-creadores-contenido-2955896.jpg?tf=1200x' alt='Tiktok ya trabaja en un muro de pago en beneficio de los creadores y obtener contenido premium' />
+    <h4><a href='https://computerhoy.com/life/estornudamos-cuales-son-beneficios-1200184'>Por qué estornudamos y cuáles son sus beneficios</a></h4>
+    <a href='https://computerhoy.com/life/estornudamos-cuales-son-beneficios-1200184' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/estornudamos-beneficios-tiene-2956002.jpg?tf=1200x' alt='Por qué estornudamos y cuáles son sus beneficios' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/inteligencia-artificial-acaba-demostrar-puede-pilotar-cazas-combate-1200106'>La inteligencia artificial acaba de demostrar que puede pilotar cazas de combate</a></h4>
-    <a href='https://computerhoy.com/tecnologia/inteligencia-artificial-acaba-demostrar-puede-pilotar-cazas-combate-1200106' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/caza-avion-combate-2955900.jpg?tf=1200x' alt='La inteligencia artificial acaba de demostrar que puede pilotar cazas de combate' />
+    <h4><a href='https://computerhoy.com/apps/funciona-transcripcion-texto-notas-voz-whatsapp-1200172'>Así funciona la transcripción a texto de las notas de voz de WhatsApp</a></h4>
+    <a href='https://computerhoy.com/apps/funciona-transcripcion-texto-notas-voz-whatsapp-1200172' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/audio-whatsapp-2876197.jpg?tf=1200x' alt='Así funciona la transcripción a texto de las notas de voz de WhatsApp' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/timadores-apps-ligoteo-estafas-amorosas-aumentan-san-valentin-1200096'>Los timadores en apps de ligoteo: las estafas amorosas aumentan en San Valentín</a></h4>
-    <a href='https://computerhoy.com/tecnologia/timadores-apps-ligoteo-estafas-amorosas-aumentan-san-valentin-1200096' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/timadores-apps-ligoteo-estafas-amorosas-san-valentin-2955858.jpg?tf=1200x' alt='Los timadores en apps de ligoteo: las estafas amorosas aumentan en San Valentín' />
+    <h4><a href='https://computerhoy.com/apple/no-puedes-abrir-google-fotos-no-culpa-actualizacion-ios-1631-bloqueando-1200144'>Si no puedes abrir Google Fotos no es tu culpa, la actualización de iOS 16.3.1 la está bloqueando</a></h4>
+    <a href='https://computerhoy.com/apple/no-puedes-abrir-google-fotos-no-culpa-actualizacion-ios-1631-bloqueando-1200144' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/no-puedes-abrir-google-fotos-no-culpa-actualizacion-ios-1631-bloqueando-2955960.jpg?tf=1200x' alt='Si no puedes abrir Google Fotos no es tu culpa, la actualización de iOS 16.3.1 la está bloqueando' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/lado-oscuro-chatgpt-estafas-malware-deepfakes-otros-usos-hacer-mal-1199614'>El lado oscuro de ChatGPT: estafas, malware, deepfakes y otros usos para hacer el mal</a></h4>
-    <a href='https://computerhoy.com/tecnologia/lado-oscuro-chatgpt-estafas-malware-deepfakes-otros-usos-hacer-mal-1199614' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/chatgpt-2946062.jpg?tf=1200x' alt='El lado oscuro de ChatGPT: estafas, malware, deepfakes y otros usos para hacer el mal' />
+    <h4><a href='https://computerhoy.com/espacio/globos-espia-ovnis-meteoritos-hay-tantos-avistamientos-ultimos-dias-1200134'>Globos espía, OVNIs y meteoritos: ¿por qué hay tantos avistamientos en los últimos días?</a></h4>
+    <a href='https://computerhoy.com/espacio/globos-espia-ovnis-meteoritos-hay-tantos-avistamientos-ultimos-dias-1200134' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/globo-espia-chino-2955940.jpg?tf=1200x' alt='Globos espía, OVNIs y meteoritos: ¿por qué hay tantos avistamientos en los últimos días?' />
     </a>
 </div>
 
