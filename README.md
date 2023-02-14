@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/movil-samsung-galaxy-a53-5g-oferta-carrefour-1199530'>Este móvil Samsung con 5G es todoterreno y acaba de desplomar su precio a 399 euros</a></h4>
+    <a href='https://computerhoy.com/tecnologia/movil-samsung-galaxy-a53-5g-oferta-carrefour-1199530' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/samsung-galaxy-a53-5g-analisis-opinion-2678347.jpg?tf=1200x' alt='Este móvil Samsung con 5G es todoterreno y acaba de desplomar su precio a 399 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/redes-sociales/tiktok-ya-trabaja-muro-pago-beneficio-creadores-obtener-contenido-premium-1200108'>Tiktok ya trabaja en un muro de pago en beneficio de los creadores y obtener contenido premium</a></h4>
+    <a href='https://computerhoy.com/redes-sociales/tiktok-ya-trabaja-muro-pago-beneficio-creadores-obtener-contenido-premium-1200108' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/tiktok-podria-hacerse-pago-repartirlo-creadores-contenido-2955896.jpg?tf=1200x' alt='Tiktok ya trabaja en un muro de pago en beneficio de los creadores y obtener contenido premium' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/inteligencia-artificial-acaba-demostrar-puede-pilotar-cazas-combate-1200106'>La inteligencia artificial acaba de demostrar que puede pilotar cazas de combate</a></h4>
+    <a href='https://computerhoy.com/tecnologia/inteligencia-artificial-acaba-demostrar-puede-pilotar-cazas-combate-1200106' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/caza-avion-combate-2955900.jpg?tf=1200x' alt='La inteligencia artificial acaba de demostrar que puede pilotar cazas de combate' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/timadores-apps-ligoteo-estafas-amorosas-aumentan-san-valentin-1200096'>Los timadores en apps de ligoteo: las estafas amorosas aumentan en San Valentín</a></h4>
     <a href='https://computerhoy.com/tecnologia/timadores-apps-ligoteo-estafas-amorosas-aumentan-san-valentin-1200096' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/timadores-apps-ligoteo-estafas-amorosas-san-valentin-2955858.jpg?tf=1200x' alt='Los timadores en apps de ligoteo: las estafas amorosas aumentan en San Valentín' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/lado-oscuro-chatgpt-estafas-malware-deepfakes-otros-usos-hacer-mal-1199614'>El lado oscuro de ChatGPT: estafas, malware, deepfakes y otros usos para hacer el mal</a></h4>
     <a href='https://computerhoy.com/tecnologia/lado-oscuro-chatgpt-estafas-malware-deepfakes-otros-usos-hacer-mal-1199614' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/chatgpt-2946062.jpg?tf=1200x' alt='El lado oscuro de ChatGPT: estafas, malware, deepfakes y otros usos para hacer el mal' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-camara-108-megapixeles-oferta-838515'>Estos son los 5 mejores móviles con cámara de 108 megapíxeles que puedes comprar ahora mismo</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-camara-108-megapixeles-oferta-838515' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/analisis-xiaomi-11t-pro-2495847.jpg?tf=1200x' alt='Estos son los 5 mejores móviles con cámara de 108 megapíxeles que puedes comprar ahora mismo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/android/android-14-novedades-curiosidades-nueva-version-1199718'>Android 14, novedades y curiosidades de la nueva versión</a></h4>
-    <a href='https://computerhoy.com/android/android-14-novedades-curiosidades-nueva-version-1199718' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/android-14-2955276.jpg?tf=1200x' alt='Android 14, novedades y curiosidades de la nueva versión' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/27-noticias-tecnologia-comenzar-manana-informado-ultimo-1200086'>28 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
-    <a href='https://computerhoy.com/tecnologia/27-noticias-tecnologia-comenzar-manana-informado-ultimo-1200086' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/27-noticias-tecnologia-comenzar-manana-informado-ultimo-2955828.jpg?tf=1200x' alt='28 noticias de tecnología para comenzar la mañana informado de lo último' />
     </a>
 </div>
 
