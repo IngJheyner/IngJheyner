@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/policia-alerta-aumento-casos-conocida-estafa-romantica-1200474'>La Policía alerta de un aumento de casos de la conocida “estafa romántica”</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/policia-alerta-aumento-casos-conocida-estafa-romantica-1200474' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/mujer-encontrando-amor-internet-2956754.jpg?tf=1200x' alt='La Policía alerta de un aumento de casos de la conocida “estafa romántica”' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/moviles/redmi-10-128-gb-movil-xiaomi-barato-descuento-40-euros-1200472'>Redmi 10 con 128 GB, un móvil de Xiaomi bueno y barato para el día a día, baja a solo 160 euros</a></h4>
+    <a href='https://computerhoy.com/moviles/redmi-10-128-gb-movil-xiaomi-barato-descuento-40-euros-1200472' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/redmi-10-analisis-opinion-2523315.jpg?tf=1200x' alt='Redmi 10 con 128 GB, un móvil de Xiaomi bueno y barato para el día a día, baja a solo 160 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/formula-matematica-encontrar-amor-existe-1960-1200470'>La fórmula matemática para encontrar el amor existe desde 1960</a></h4>
+    <a href='https://computerhoy.com/life/formula-matematica-encontrar-amor-existe-1960-1200470' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/pareja-restaurante-2956750.jpg?tf=1200x' alt='La fórmula matemática para encontrar el amor existe desde 1960' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/video-como-almacenan-maletas-bodega-avion-1200460'>Un operario muestra en un vídeo cómo se almacenan las maletas en un avión, y te va a sorprender</a></h4>
     <a href='https://computerhoy.com/life/video-como-almacenan-maletas-bodega-avion-1200460' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/operario-muestra-video-como-almacenan-maletas-avion-te-va-sorprender-2956724.jpg?tf=1200x' alt='Un operario muestra en un vídeo cómo se almacenan las maletas en un avión, y te va a sorprender' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/google/ya-disponible-actualizaciones-esperadas-google-maps-android-auto-1200436'>Ya disponible una de las actualizaciones más esperadas de Google Maps para Android Auto</a></h4>
     <a href='https://computerhoy.com/google/ya-disponible-actualizaciones-esperadas-google-maps-android-auto-1200436' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/android-auto-89-2955218.jpg?tf=1200x' alt='Ya disponible una de las actualizaciones más esperadas de Google Maps para Android Auto' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/streaming/tdt-directamente-movil-antenas-sintonizar-canales-gracias-5g-1196012'>La TDT directamente en el móvil sin antenas y sin sintonizar los canales gracias al 5G</a></h4>
-    <a href='https://computerhoy.com/streaming/tdt-directamente-movil-antenas-sintonizar-canales-gracias-5g-1196012' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/tdt-2856157.jpg?tf=1200x' alt='La TDT directamente en el móvil sin antenas y sin sintonizar los canales gracias al 5G' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/internet/mejores-lectores-pdf-windows-gratis-73701'>Los mejores lectores PDF para Windows gratis</a></h4>
-    <a href='https://computerhoy.com/noticias/internet/mejores-lectores-pdf-windows-gratis-73701' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/11/mejores-lectores-pdf-gratis-movil_4.jpg?tf=1200x' alt='Los mejores lectores PDF para Windows gratis' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/guia-compra/parrilla-electrica-859233'>Parrillas eléctricas: consejos y guía para comprar una barbacoa eléctrica</a></h4>
-    <a href='https://computerhoy.com/guia-compra/parrilla-electrica-859233' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/parrilla-lidl-silvercrest-2291573.jpg?tf=1200x' alt='Parrillas eléctricas: consejos y guía para comprar una barbacoa eléctrica' />
     </a>
 </div>
 
