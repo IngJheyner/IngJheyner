@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-camara-108-megapixeles-oferta-838515'>Estos son los 5 mejores móviles con cámara de 108 megapíxeles que puedes comprar ahora mismo</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-camara-108-megapixeles-oferta-838515' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/analisis-xiaomi-11t-pro-2495847.jpg?tf=1200x' alt='Estos son los 5 mejores móviles con cámara de 108 megapíxeles que puedes comprar ahora mismo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/android/android-14-novedades-curiosidades-nueva-version-1199718'>Android 14, novedades y curiosidades de la nueva versión</a></h4>
+    <a href='https://computerhoy.com/android/android-14-novedades-curiosidades-nueva-version-1199718' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/android-14-2955276.jpg?tf=1200x' alt='Android 14, novedades y curiosidades de la nueva versión' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/27-noticias-tecnologia-comenzar-manana-informado-ultimo-1200086'>28 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
+    <a href='https://computerhoy.com/tecnologia/27-noticias-tecnologia-comenzar-manana-informado-ultimo-1200086' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/27-noticias-tecnologia-comenzar-manana-informado-ultimo-2955828.jpg?tf=1200x' alt='28 noticias de tecnología para comenzar la mañana informado de lo último' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciencia/abren-publico-tumbas-djehuty-hery-mayor-proyecto-arqueologico-espanol-egipto-1200070'>Tras 22 años de excavaciones abren al público las tumbas de Djehuty y Hery, el mayor proyecto arqueológico español en Egipto</a></h4>
     <a href='https://computerhoy.com/ciencia/abren-publico-tumbas-djehuty-hery-mayor-proyecto-arqueologico-espanol-egipto-1200070' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/verticalimage1676346349501-2955806.jpg?tf=1200x' alt='Tras 22 años de excavaciones abren al público las tumbas de Djehuty y Hery, el mayor proyecto arqueológico español en Egipto' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/audio/oneplus-buds-2-auriculares-inalambricos-merecen-pena-1199584'>OnePlus Buds 2: por qué merecen la pena y son de los mejores auriculares inalámbricos</a></h4>
     <a href='https://computerhoy.com/audio/oneplus-buds-2-auriculares-inalambricos-merecen-pena-1199584' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/oneplus-buds-pro-2-analisis-opinion-2953734.jpg?tf=1200x' alt='OnePlus Buds 2: por qué merecen la pena y son de los mejores auriculares inalámbricos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/mensajes-divertidos-memes-san-valentin-2023-enviar-whatsapp-1197288'>Mensajes divertidos y memes de San Valentín 2023 para enviar por WhatsApp</a></h4>
-    <a href='https://computerhoy.com/life/mensajes-divertidos-memes-san-valentin-2023-enviar-whatsapp-1197288' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/dia-san-valentin-2950628.jpg?tf=1200x' alt='Mensajes divertidos y memes de San Valentín 2023 para enviar por WhatsApp' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/luces-cielo-ovnis-satelites-starlink-elon-musk-1200068'>No son los OVNIs norteamericanos, pero en España también se pueden contemplar estos días extrañas luces en el cielo</a></h4>
-    <a href='https://computerhoy.com/ciencia/luces-cielo-ovnis-satelites-starlink-elon-musk-1200068' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/son-esas-extranas-luces-han-visto-cielos-espana-ultimos-dias-2955554.jpg?tf=1200x' alt='No son los OVNIs norteamericanos, pero en España también se pueden contemplar estos días extrañas luces en el cielo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/pelicula-documental-sintiendolo-mucho-joaquin-sabina-aranoa-streaming-movistar-plus-1199828'>La película documental que triunfó en los Goya, rodada durante 13 años, ya está disponible en streaming</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/pelicula-documental-sintiendolo-mucho-joaquin-sabina-aranoa-streaming-movistar-plus-1199828' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/goya-movistar-plus-documental-ha-triunfado-gala-ya-disponible-2955538.jpg?tf=1200x' alt='La película documental que triunfó en los Goya, rodada durante 13 años, ya está disponible en streaming' />
     </a>
 </div>
 
