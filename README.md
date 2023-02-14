@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/abren-publico-tumbas-djehuty-hery-mayor-proyecto-arqueologico-espanol-egipto-1200070'>Tras 22 años de excavaciones abren al público las tumbas de Djehuty y Hery, el mayor proyecto arqueológico español en Egipto</a></h4>
+    <a href='https://computerhoy.com/ciencia/abren-publico-tumbas-djehuty-hery-mayor-proyecto-arqueologico-espanol-egipto-1200070' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/verticalimage1676346349501-2955806.jpg?tf=1200x' alt='Tras 22 años de excavaciones abren al público las tumbas de Djehuty y Hery, el mayor proyecto arqueológico español en Egipto' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/audio/oneplus-buds-2-auriculares-inalambricos-merecen-pena-1199584'>OnePlus Buds 2: por qué merecen la pena y son de los mejores auriculares inalámbricos</a></h4>
+    <a href='https://computerhoy.com/audio/oneplus-buds-2-auriculares-inalambricos-merecen-pena-1199584' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/oneplus-buds-pro-2-analisis-opinion-2953734.jpg?tf=1200x' alt='OnePlus Buds 2: por qué merecen la pena y son de los mejores auriculares inalámbricos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/mensajes-divertidos-memes-san-valentin-2023-enviar-whatsapp-1197288'>Mensajes divertidos y memes de San Valentín 2023 para enviar por WhatsApp</a></h4>
     <a href='https://computerhoy.com/life/mensajes-divertidos-memes-san-valentin-2023-enviar-whatsapp-1197288' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/dia-san-valentin-2950628.jpg?tf=1200x' alt='Mensajes divertidos y memes de San Valentín 2023 para enviar por WhatsApp' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/entretenimiento/pelicula-documental-sintiendolo-mucho-joaquin-sabina-aranoa-streaming-movistar-plus-1199828'>La película documental que triunfó en los Goya, rodada durante 13 años, ya está disponible en streaming</a></h4>
     <a href='https://computerhoy.com/entretenimiento/pelicula-documental-sintiendolo-mucho-joaquin-sabina-aranoa-streaming-movistar-plus-1199828' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/goya-movistar-plus-documental-ha-triunfado-gala-ya-disponible-2955538.jpg?tf=1200x' alt='La película documental que triunfó en los Goya, rodada durante 13 años, ya está disponible en streaming' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/gaming/pack-consola-playstation-5-digital-god-war-ragnarok-oferta-1199822'>Este pack con la consola PlayStation 5 digital y God of War Ragnarok, se queda muy bien de precio</a></h4>
-    <a href='https://computerhoy.com/gaming/pack-consola-playstation-5-digital-god-war-ragnarok-oferta-1199822' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/playstation-5-ps5-2797383.jpg?tf=1200x' alt='Este pack con la consola PlayStation 5 digital y God of War Ragnarok, se queda muy bien de precio' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/captan-momento-exacto-asteroide-estalla-canal-mancha-1199810'>Captan el momento exacto en el que un asteroide estalla sobre el Canal de la Mancha</a></h4>
-    <a href='https://computerhoy.com/espacio/captan-momento-exacto-asteroide-estalla-canal-mancha-1199810' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/captan-momento-exacto-asteroide-estalla-canal-mancha-2955520.jpg?tf=1200x' alt='Captan el momento exacto en el que un asteroide estalla sobre el Canal de la Mancha' />
     </a>
 </div>
 
