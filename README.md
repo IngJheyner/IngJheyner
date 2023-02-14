@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/giri-choco-dia-blanco-dia-negro-san-valentin-japones-1200482'>El San Valentín japonés dura tres meses, y casi todo el mundo lo odia</a></h4>
+    <a href='https://computerhoy.com/life/giri-choco-dia-blanco-dia-negro-san-valentin-japones-1200482' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/san-valentin-japones-dura-tres-meses-casi-todo-mundo-odia-2956756.jpg?tf=1200x' alt='El San Valentín japonés dura tres meses, y casi todo el mundo lo odia' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciberseguridad/policia-alerta-aumento-casos-conocida-estafa-romantica-1200474'>La Policía alerta de un aumento de casos de la conocida “estafa romántica”</a></h4>
     <a href='https://computerhoy.com/ciberseguridad/policia-alerta-aumento-casos-conocida-estafa-romantica-1200474' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/mujer-encontrando-amor-internet-2956754.jpg?tf=1200x' alt='La Policía alerta de un aumento de casos de la conocida “estafa romántica”' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/life/video-como-almacenan-maletas-bodega-avion-1200460'>Un operario muestra en un vídeo cómo se almacenan las maletas en un avión, y te va a sorprender</a></h4>
     <a href='https://computerhoy.com/life/video-como-almacenan-maletas-bodega-avion-1200460' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/operario-muestra-video-como-almacenan-maletas-avion-te-va-sorprender-2956724.jpg?tf=1200x' alt='Un operario muestra en un vídeo cómo se almacenan las maletas en un avión, y te va a sorprender' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/ya-disponible-actualizaciones-esperadas-google-maps-android-auto-1200436'>Ya disponible una de las actualizaciones más esperadas de Google Maps para Android Auto</a></h4>
-    <a href='https://computerhoy.com/google/ya-disponible-actualizaciones-esperadas-google-maps-android-auto-1200436' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/android-auto-89-2955218.jpg?tf=1200x' alt='Ya disponible una de las actualizaciones más esperadas de Google Maps para Android Auto' />
     </a>
 </div>
 
