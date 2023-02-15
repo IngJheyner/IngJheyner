@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/the-last-us-serie-hbo-max-escenario-gigante-1200484'>The Last of Us es un espectáculo a la altura del cine, al menos a la hora de construir escenarios</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/the-last-us-serie-hbo-max-escenario-gigante-1200484' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/last-us-espectaculo-altura-cine-menos-hora-construir-escenarios-2956792.jpg?tf=1200x' alt='The Last of Us es un espectáculo a la altura del cine, al menos a la hora de construir escenarios' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/giri-choco-dia-blanco-dia-negro-san-valentin-japones-1200482'>El San Valentín japonés dura tres meses, y casi todo el mundo lo odia</a></h4>
     <a href='https://computerhoy.com/life/giri-choco-dia-blanco-dia-negro-san-valentin-japones-1200482' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/san-valentin-japones-dura-tres-meses-casi-todo-mundo-odia-2956756.jpg?tf=1200x' alt='El San Valentín japonés dura tres meses, y casi todo el mundo lo odia' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/life/formula-matematica-encontrar-amor-existe-1960-1200470'>La fórmula matemática para encontrar el amor existe desde 1960</a></h4>
     <a href='https://computerhoy.com/life/formula-matematica-encontrar-amor-existe-1960-1200470' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/pareja-restaurante-2956750.jpg?tf=1200x' alt='La fórmula matemática para encontrar el amor existe desde 1960' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/video-como-almacenan-maletas-bodega-avion-1200460'>Un operario muestra en un vídeo cómo se almacenan las maletas en un avión, y te va a sorprender</a></h4>
-    <a href='https://computerhoy.com/life/video-como-almacenan-maletas-bodega-avion-1200460' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/operario-muestra-video-como-almacenan-maletas-avion-te-va-sorprender-2956724.jpg?tf=1200x' alt='Un operario muestra en un vídeo cómo se almacenan las maletas en un avión, y te va a sorprender' />
     </a>
 </div>
 
