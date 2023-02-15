@@ -49,6 +49,45 @@
 <hr>
 <div id="noticie-technology">
   
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/motor/espana-prohibira-venta-coches-gasolina-diesel-2035-1200972'>España prohibirá la venta de coches de gasolina y diésel en 2035</a></h4>
+    <a href='https://computerhoy.com/motor/espana-prohibira-venta-coches-gasolina-diesel-2035-1200972' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/gasolina-2361783.jpg?tf=1200x' alt='España prohibirá la venta de coches de gasolina y diésel en 2035' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/espacio/han-conseguido-crear-agujero-negro-tierra-1200918'>¿Han conseguido crear un agujero negro en la Tierra?</a></h4>
+    <a href='https://computerhoy.com/espacio/han-conseguido-crear-agujero-negro-tierra-1200918' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/11/agujero-negro-2151205.jpg?tf=1200x' alt='¿Han conseguido crear un agujero negro en la Tierra?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/alimentacion/errores-catastroficos-freidora-aire-nadie-admite-como-evitarlos-1200942'>Errores catastróficos con la freidora de aire que nadie admite y cómo evitarlos</a></h4>
+    <a href='https://computerhoy.com/alimentacion/errores-catastroficos-freidora-aire-nadie-admite-como-evitarlos-1200942' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/freidora-aire-toda-familia-philips-tamano-xl-mejores-ofertas-semana-2780243.jpg?tf=1200x' alt='Errores catastróficos con la freidora de aire que nadie admite y cómo evitarlos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/moviles/primeras-impresiones-find-n2-flip-pequena-gran-apuesta-plegable-oppo-1200468'>Primeras impresiones Find N2 Flip, así es la pequeña gran apuesta plegable de Oppo</a></h4>
+    <a href='https://computerhoy.com/moviles/primeras-impresiones-find-n2-flip-pequena-gran-apuesta-plegable-oppo-1200468' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/oppo-find-n2-flip-2956752.jpg?tf=1200x' alt='Primeras impresiones Find N2 Flip, así es la pequeña gran apuesta plegable de Oppo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/internet/modo-bridge-router-wifi-como-activarlo-ventajas-tiene-1200898'>Qué es el modo bridge de tu router WiFi, cómo activarlo y qué ventajas tiene</a></h4>
+    <a href='https://computerhoy.com/internet/modo-bridge-router-wifi-como-activarlo-ventajas-tiene-1200898' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/router-wifi-2798907.jpg?tf=1200x' alt='Qué es el modo bridge de tu router WiFi, cómo activarlo y qué ventajas tiene' />
+    </a>
+</div>
+
 </div>
 
 <br>
