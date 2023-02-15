@@ -49,45 +49,6 @@
 <hr>
 <div id="noticie-technology">
   
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/mini-pc-ryzen-16-gb-ram-oferta-amazon-1199624'>Este Mini PC presume de potencia: 16GB de RAM, Ryzen 7 y Windows 11 a un precio escandaloso</a></h4>
-    <a href='https://computerhoy.com/tecnologia/mini-pc-ryzen-16-gb-ram-oferta-amazon-1199624' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/nipogi-am02-2954956.jpg?tf=1200x' alt='Este Mini PC presume de potencia: 16GB de RAM, Ryzen 7 y Windows 11 a un precio escandaloso' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/cada-vez-cerca-pildora-anticonceptiva-hombres-gracias-nuevo-estudio-1200772'>Cada vez más cerca de la píldora anticonceptiva para hombres gracias a este nuevo estudio</a></h4>
-    <a href='https://computerhoy.com/ciencia/cada-vez-cerca-pildora-anticonceptiva-hombres-gracias-nuevo-estudio-1200772' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/cada-vez-cerca-pildora-anticonceptiva-hombres-gracias-nuevo-estudio-2957118.jpg?tf=1200x' alt='Cada vez más cerca de la píldora anticonceptiva para hombres gracias a este nuevo estudio' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/nuevo-realme-10-procesador-mediatek-mucha-ram-modesta-gama-media-1200782'>Así es el nuevo realme 10: procesador MediaTek y mucha RAM para la modesta gama media</a></h4>
-    <a href='https://computerhoy.com/moviles/nuevo-realme-10-procesador-mediatek-mucha-ram-modesta-gama-media-1200782' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/realme-10-2957202.jpg?tf=1200x' alt='Así es el nuevo realme 10: procesador MediaTek y mucha RAM para la modesta gama media' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/unica-forma-conseguir-netflix-barato-espana-1200752'>Esta es la única forma de conseguir Netflix barato en España</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/unica-forma-conseguir-netflix-barato-espana-1200752' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/netflix-2923644.jpg?tf=1200x' alt='Esta es la única forma de conseguir Netflix barato en España' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/xiaomi-12t-oferta-100-euros-descuento-1199610'>Este potentísimo Xiaomi 12T con carga a 120W ahora es 100 euros más barato</a></h4>
-    <a href='https://computerhoy.com/tecnologia/xiaomi-12t-oferta-100-euros-descuento-1199610' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/xiaomi-12t-2929724.jpg?tf=1200x' alt='Este potentísimo Xiaomi 12T con carga a 120W ahora es 100 euros más barato' />
-    </a>
-</div>
-
 </div>
 
 <br>
