@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/moviles/nuevo-realme-10-procesador-mediatek-mucha-ram-modesta-gama-media-1200782'>Así es el nuevo realme 10: procesador MediaTek y mucha RAM para la modesta gama media</a></h4>
+    <a href='https://computerhoy.com/moviles/nuevo-realme-10-procesador-mediatek-mucha-ram-modesta-gama-media-1200782' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/realme-10-2957202.jpg?tf=1200x' alt='Así es el nuevo realme 10: procesador MediaTek y mucha RAM para la modesta gama media' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/unica-forma-conseguir-netflix-barato-espana-1200752'>Esta es la única forma de conseguir Netflix barato en España</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/unica-forma-conseguir-netflix-barato-espana-1200752' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/netflix-2923644.jpg?tf=1200x' alt='Esta es la única forma de conseguir Netflix barato en España' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/xiaomi-12t-oferta-100-euros-descuento-1199610'>Este potentísimo Xiaomi 12T con carga a 120W ahora es 100 euros más barato</a></h4>
     <a href='https://computerhoy.com/tecnologia/xiaomi-12t-oferta-100-euros-descuento-1199610' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/xiaomi-12t-2929724.jpg?tf=1200x' alt='Este potentísimo Xiaomi 12T con carga a 120W ahora es 100 euros más barato' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/motor/coche-electrico-xiaomi-cada-vez-cerca-todo-sabemos-2023-1200730'>El coche eléctrico de Xiaomi está cada vez más cerca: esto es todo lo que sabemos en 2023</a></h4>
     <a href='https://computerhoy.com/motor/coche-electrico-xiaomi-cada-vez-cerca-todo-sabemos-2023-1200730' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/coche-xiaomi-2957034.jpg?tf=1200x' alt='El coche eléctrico de Xiaomi está cada vez más cerca: esto es todo lo que sabemos en 2023' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/otra-gran-marca-ya-trabajando-integrar-dynamic-island-iphone-14-nuevo-smartphone-1200722'>Otra gran marca ya está trabajando para integrar el Dynamic Island del iPhone 14 en su nuevo smartphone</a></h4>
-    <a href='https://computerhoy.com/moviles/otra-gran-marca-ya-trabajando-integrar-dynamic-island-iphone-14-nuevo-smartphone-1200722' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/trucos-dynamic-island-2873363.jpg?tf=1200x' alt='Otra gran marca ya está trabajando para integrar el Dynamic Island del iPhone 14 en su nuevo smartphone' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/no-solo-ha-ocurrido-google-bard-demo-microsoft-bing-ia-incluye-errores-1200288'>No solo le ha ocurrido a Google con Bard: la demo de Microsoft y su Bing con IA incluye errores</a></h4>
-    <a href='https://computerhoy.com/tecnologia/no-solo-ha-ocurrido-google-bard-demo-microsoft-bing-ia-incluye-errores-1200288' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/no-solo-ha-ocurrido-google-bard-demo-microsoft-bing-ia-incluye-errores-2956620.jpg?tf=1200x' alt='No solo le ha ocurrido a Google con Bard: la demo de Microsoft y su Bing con IA incluye errores' />
     </a>
 </div>
 
