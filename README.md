@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/razones-amazon-fire-tv-stick-lite-oferta-912227'>5 razones por el que este Amazon Fire TV Stick Lite es la mejor inversión que puedes hacer para tu TV</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/razones-amazon-fire-tv-stick-lite-oferta-912227' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/analisis-fire-tv-stick-2020-2224125.jpg?tf=1200x' alt='5 razones por el que este Amazon Fire TV Stick Lite es la mejor inversión que puedes hacer para tu TV' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/motor/corbicyclette-coche-funerario-pedales-bicicleta-funebre-video-1200698'>Corbicyclette, el coche funerario a pedales que ya funciona en Francia (vídeo)</a></h4>
+    <a href='https://computerhoy.com/motor/corbicyclette-coche-funerario-pedales-bicicleta-funebre-video-1200698' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/verticalimage1676426740465-2957012.jpg?tf=1200x' alt='Corbicyclette, el coche funerario a pedales que ya funciona en Francia (vídeo)' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/entretenimiento/the-last-us-serie-hbo-max-escenario-gigante-1200484'>The Last of Us es un espectáculo a la altura del cine, al menos a la hora de construir escenarios</a></h4>
     <a href='https://computerhoy.com/entretenimiento/the-last-us-serie-hbo-max-escenario-gigante-1200484' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/last-us-espectaculo-altura-cine-menos-hora-construir-escenarios-2956792.jpg?tf=1200x' alt='The Last of Us es un espectáculo a la altura del cine, al menos a la hora de construir escenarios' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/ciberseguridad/policia-alerta-aumento-casos-conocida-estafa-romantica-1200474'>La Policía alerta de un aumento de casos de la conocida “estafa romántica”</a></h4>
     <a href='https://computerhoy.com/ciberseguridad/policia-alerta-aumento-casos-conocida-estafa-romantica-1200474' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/mujer-encontrando-amor-internet-2956754.jpg?tf=1200x' alt='La Policía alerta de un aumento de casos de la conocida “estafa romántica”' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/redmi-10-128-gb-movil-xiaomi-barato-descuento-40-euros-1200472'>Redmi 10 con 128 GB, un móvil de Xiaomi bueno y barato para el día a día, baja a solo 160 euros</a></h4>
-    <a href='https://computerhoy.com/moviles/redmi-10-128-gb-movil-xiaomi-barato-descuento-40-euros-1200472' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/redmi-10-analisis-opinion-2523315.jpg?tf=1200x' alt='Redmi 10 con 128 GB, un móvil de Xiaomi bueno y barato para el día a día, baja a solo 160 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/formula-matematica-encontrar-amor-existe-1960-1200470'>La fórmula matemática para encontrar el amor existe desde 1960</a></h4>
-    <a href='https://computerhoy.com/life/formula-matematica-encontrar-amor-existe-1960-1200470' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/pareja-restaurante-2956750.jpg?tf=1200x' alt='La fórmula matemática para encontrar el amor existe desde 1960' />
     </a>
 </div>
 
