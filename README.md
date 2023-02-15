@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/motor/coche-electrico-xiaomi-cada-vez-cerca-todo-sabemos-2023-1200730'>El coche eléctrico de Xiaomi está cada vez más cerca: esto es todo lo que sabemos en 2023</a></h4>
+    <a href='https://computerhoy.com/motor/coche-electrico-xiaomi-cada-vez-cerca-todo-sabemos-2023-1200730' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/coche-xiaomi-2957034.jpg?tf=1200x' alt='El coche eléctrico de Xiaomi está cada vez más cerca: esto es todo lo que sabemos en 2023' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/moviles/otra-gran-marca-ya-trabajando-integrar-dynamic-island-iphone-14-nuevo-smartphone-1200722'>Otra gran marca ya está trabajando para integrar el Dynamic Island del iPhone 14 en su nuevo smartphone</a></h4>
+    <a href='https://computerhoy.com/moviles/otra-gran-marca-ya-trabajando-integrar-dynamic-island-iphone-14-nuevo-smartphone-1200722' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/trucos-dynamic-island-2873363.jpg?tf=1200x' alt='Otra gran marca ya está trabajando para integrar el Dynamic Island del iPhone 14 en su nuevo smartphone' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/no-solo-ha-ocurrido-google-bard-demo-microsoft-bing-ia-incluye-errores-1200288'>No solo le ha ocurrido a Google con Bard: la demo de Microsoft y su Bing con IA incluye errores</a></h4>
+    <a href='https://computerhoy.com/tecnologia/no-solo-ha-ocurrido-google-bard-demo-microsoft-bing-ia-incluye-errores-1200288' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/no-solo-ha-ocurrido-google-bard-demo-microsoft-bing-ia-incluye-errores-2956620.jpg?tf=1200x' alt='No solo le ha ocurrido a Google con Bard: la demo de Microsoft y su Bing con IA incluye errores' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/listas/tecnologia/clones-chinos-airpods-pro-667219'>Parecen AirPods Pro, pero son muchísimo más baratos: estos clones chinos no superan los 25€</a></h4>
     <a href='https://computerhoy.com/listas/tecnologia/clones-chinos-airpods-pro-667219' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/auriculares-inalambricos-blancos-apple-airpods-pro-2954998.jpg?tf=1200x' alt='Parecen AirPods Pro, pero son muchísimo más baratos: estos clones chinos no superan los 25€' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/criptos/ordinals-revolucion-nft-funcionan-como-bitcoins-1200398'>Ordinals, la revolución de los NFT que funcionan como Bitcoins</a></h4>
     <a href='https://computerhoy.com/criptos/ordinals-revolucion-nft-funcionan-como-bitcoins-1200398' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/ordinals-nuevo-bitcoin-2956596.jpg?tf=1200x' alt='Ordinals, la revolución de los NFT que funcionan como Bitcoins' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/25-noticias-tecnologia-comenzar-manana-informado-ultimo-1200710'>26 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
-    <a href='https://computerhoy.com/tecnologia/25-noticias-tecnologia-comenzar-manana-informado-ultimo-1200710' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/25-noticias-tecnologia-comenzar-manana-informado-ultimo-2957024.jpg?tf=1200x' alt='26 noticias de tecnología para comenzar la mañana informado de lo último' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/razones-amazon-fire-tv-stick-lite-oferta-912227'>5 razones por el que este Amazon Fire TV Stick Lite es la mejor inversión que puedes hacer para tu TV</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/razones-amazon-fire-tv-stick-lite-oferta-912227' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/analisis-fire-tv-stick-2020-2224125.jpg?tf=1200x' alt='5 razones por el que este Amazon Fire TV Stick Lite es la mejor inversión que puedes hacer para tu TV' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/corbicyclette-coche-funerario-pedales-bicicleta-funebre-video-1200698'>Corbicyclette, el coche funerario a pedales que ya funciona en Francia (vídeo)</a></h4>
-    <a href='https://computerhoy.com/motor/corbicyclette-coche-funerario-pedales-bicicleta-funebre-video-1200698' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/verticalimage1676426740465-2957012.jpg?tf=1200x' alt='Corbicyclette, el coche funerario a pedales que ya funciona en Francia (vídeo)' />
     </a>
 </div>
 
