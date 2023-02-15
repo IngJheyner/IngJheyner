@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/espana-prohibira-venta-coches-gasolina-diesel-2035-1200972'>España prohibirá la venta de coches de gasolina y diésel en 2035</a></h4>
-    <a href='https://computerhoy.com/motor/espana-prohibira-venta-coches-gasolina-diesel-2035-1200972' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/gasolina-2361783.jpg?tf=1200x' alt='España prohibirá la venta de coches de gasolina y diésel en 2035' />
+    <h4><a href='https://computerhoy.com/entretenimiento/red-rose-serie-terror-juvenil-netflix-1201064'>No volverás a hacer ningún reto de TikTok después de ver la nueva serie de terror de Netflix</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/red-rose-serie-terror-juvenil-netflix-1201064' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/no-volveras-hacer-ningun-reto-tiktok-despues-ver-nueva-serie-terror-netflix-2957900.jpg?tf=1200x' alt='No volverás a hacer ningún reto de TikTok después de ver la nueva serie de terror de Netflix' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/han-conseguido-crear-agujero-negro-tierra-1200918'>¿Han conseguido crear un agujero negro en la Tierra?</a></h4>
-    <a href='https://computerhoy.com/espacio/han-conseguido-crear-agujero-negro-tierra-1200918' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/11/agujero-negro-2151205.jpg?tf=1200x' alt='¿Han conseguido crear un agujero negro en la Tierra?' />
+    <h4><a href='https://computerhoy.com/life/bic-adora-chatgpt-piensa-ayudara-vender-muchos-boligrafos-1201054'>BIC adora ChatGPT y piensa que le ayudará a vender muchos más bolígrafos</a></h4>
+    <a href='https://computerhoy.com/life/bic-adora-chatgpt-piensa-ayudara-vender-muchos-boligrafos-1201054' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/ia-usando-boligrafo-2957912.jpg?tf=1200x' alt='BIC adora ChatGPT y piensa que le ayudará a vender muchos más bolígrafos' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/alimentacion/errores-catastroficos-freidora-aire-nadie-admite-como-evitarlos-1200942'>Errores catastróficos con la freidora de aire que nadie admite y cómo evitarlos</a></h4>
-    <a href='https://computerhoy.com/alimentacion/errores-catastroficos-freidora-aire-nadie-admite-como-evitarlos-1200942' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/freidora-aire-toda-familia-philips-tamano-xl-mejores-ofertas-semana-2780243.jpg?tf=1200x' alt='Errores catastróficos con la freidora de aire que nadie admite y cómo evitarlos' />
+    <h4><a href='https://computerhoy.com/gaming/mariogpt-ia-capaz-crear-niveles-infinitos-super-mario-bros-1200980'>MarioGPT es la IA capaz de crear niveles infinitos de Super Mario Bros</a></h4>
+    <a href='https://computerhoy.com/gaming/mariogpt-ia-capaz-crear-niveles-infinitos-super-mario-bros-1200980' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/super-mario-2390625.jpg?tf=1200x' alt='MarioGPT es la IA capaz de crear niveles infinitos de Super Mario Bros' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/primeras-impresiones-find-n2-flip-pequena-gran-apuesta-plegable-oppo-1200468'>Primeras impresiones Find N2 Flip, así es la pequeña gran apuesta plegable de Oppo</a></h4>
-    <a href='https://computerhoy.com/moviles/primeras-impresiones-find-n2-flip-pequena-gran-apuesta-plegable-oppo-1200468' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/oppo-find-n2-flip-2956752.jpg?tf=1200x' alt='Primeras impresiones Find N2 Flip, así es la pequeña gran apuesta plegable de Oppo' />
+    <h4><a href='https://computerhoy.com/life/escalofriante-motivo-escaleras-mecanicas-tienen-cepillos-lados-1201050'>El escalofriante motivo por el que las escaleras mecánicas tienen cepillos a los lados</a></h4>
+    <a href='https://computerhoy.com/life/escalofriante-motivo-escaleras-mecanicas-tienen-cepillos-lados-1201050' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/escaleras-mecanicas-2957898.jpg?tf=1200x' alt='El escalofriante motivo por el que las escaleras mecánicas tienen cepillos a los lados' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/modo-bridge-router-wifi-como-activarlo-ventajas-tiene-1200898'>Qué es el modo bridge de tu router WiFi, cómo activarlo y qué ventajas tiene</a></h4>
-    <a href='https://computerhoy.com/internet/modo-bridge-router-wifi-como-activarlo-ventajas-tiene-1200898' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/router-wifi-2798907.jpg?tf=1200x' alt='Qué es el modo bridge de tu router WiFi, cómo activarlo y qué ventajas tiene' />
+    <h4><a href='https://computerhoy.com/ciberseguridad/ciberdelincuentes-cuentan-nuevo-malware-capaz-robar-datos-segundos-1200978'>Los ciberdelincuentes cuentan con un nuevo malware capaz de robar tus datos en segundos</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/ciberdelincuentes-cuentan-nuevo-malware-capaz-robar-datos-segundos-1200978' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/bitcoin-malware-2657285.jpg?tf=1200x' alt='Los ciberdelincuentes cuentan con un nuevo malware capaz de robar tus datos en segundos' />
     </a>
 </div>
 
