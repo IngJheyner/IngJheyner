@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/xiaomi-12t-oferta-100-euros-descuento-1199610'>Este potentísimo Xiaomi 12T con carga a 120W ahora es 100 euros más barato</a></h4>
+    <a href='https://computerhoy.com/tecnologia/xiaomi-12t-oferta-100-euros-descuento-1199610' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/xiaomi-12t-2929724.jpg?tf=1200x' alt='Este potentísimo Xiaomi 12T con carga a 120W ahora es 100 euros más barato' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/whatsapp-aprovecha-caos-carga-telegram-criticando-deficiencias-cifrado-1200740'>WhatsApp aprovecha el caos y carga contra Telegram criticando las "deficiencias" de su cifrado</a></h4>
+    <a href='https://computerhoy.com/apps/whatsapp-aprovecha-caos-carga-telegram-criticando-deficiencias-cifrado-1200740' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/whatsapp-aprovecha-caos-carga-telegram-criticando-deficiencias-cifrado-2957090.jpg?tf=1200x' alt='WhatsApp aprovecha el caos y carga contra Telegram criticando las "deficiencias" de su cifrado' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/motor/coche-electrico-xiaomi-cada-vez-cerca-todo-sabemos-2023-1200730'>El coche eléctrico de Xiaomi está cada vez más cerca: esto es todo lo que sabemos en 2023</a></h4>
     <a href='https://computerhoy.com/motor/coche-electrico-xiaomi-cada-vez-cerca-todo-sabemos-2023-1200730' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/coche-xiaomi-2957034.jpg?tf=1200x' alt='El coche eléctrico de Xiaomi está cada vez más cerca: esto es todo lo que sabemos en 2023' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/no-solo-ha-ocurrido-google-bard-demo-microsoft-bing-ia-incluye-errores-1200288'>No solo le ha ocurrido a Google con Bard: la demo de Microsoft y su Bing con IA incluye errores</a></h4>
     <a href='https://computerhoy.com/tecnologia/no-solo-ha-ocurrido-google-bard-demo-microsoft-bing-ia-incluye-errores-1200288' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/no-solo-ha-ocurrido-google-bard-demo-microsoft-bing-ia-incluye-errores-2956620.jpg?tf=1200x' alt='No solo le ha ocurrido a Google con Bard: la demo de Microsoft y su Bing con IA incluye errores' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/listas/tecnologia/clones-chinos-airpods-pro-667219'>Parecen AirPods Pro, pero son muchísimo más baratos: estos clones chinos no superan los 25€</a></h4>
-    <a href='https://computerhoy.com/listas/tecnologia/clones-chinos-airpods-pro-667219' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/auriculares-inalambricos-blancos-apple-airpods-pro-2954998.jpg?tf=1200x' alt='Parecen AirPods Pro, pero son muchísimo más baratos: estos clones chinos no superan los 25€' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/criptos/ordinals-revolucion-nft-funcionan-como-bitcoins-1200398'>Ordinals, la revolución de los NFT que funcionan como Bitcoins</a></h4>
-    <a href='https://computerhoy.com/criptos/ordinals-revolucion-nft-funcionan-como-bitcoins-1200398' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/ordinals-nuevo-bitcoin-2956596.jpg?tf=1200x' alt='Ordinals, la revolución de los NFT que funcionan como Bitcoins' />
     </a>
 </div>
 
