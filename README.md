@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/listas/tecnologia/clones-chinos-airpods-pro-667219'>Parecen AirPods Pro, pero son muchísimo más baratos: estos clones chinos no superan los 25€</a></h4>
+    <a href='https://computerhoy.com/listas/tecnologia/clones-chinos-airpods-pro-667219' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/auriculares-inalambricos-blancos-apple-airpods-pro-2954998.jpg?tf=1200x' alt='Parecen AirPods Pro, pero son muchísimo más baratos: estos clones chinos no superan los 25€' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/criptos/ordinals-revolucion-nft-funcionan-como-bitcoins-1200398'>Ordinals, la revolución de los NFT que funcionan como Bitcoins</a></h4>
+    <a href='https://computerhoy.com/criptos/ordinals-revolucion-nft-funcionan-como-bitcoins-1200398' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/ordinals-nuevo-bitcoin-2956596.jpg?tf=1200x' alt='Ordinals, la revolución de los NFT que funcionan como Bitcoins' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/25-noticias-tecnologia-comenzar-manana-informado-ultimo-1200710'>26 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
+    <a href='https://computerhoy.com/tecnologia/25-noticias-tecnologia-comenzar-manana-informado-ultimo-1200710' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/25-noticias-tecnologia-comenzar-manana-informado-ultimo-2957024.jpg?tf=1200x' alt='26 noticias de tecnología para comenzar la mañana informado de lo último' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/razones-amazon-fire-tv-stick-lite-oferta-912227'>5 razones por el que este Amazon Fire TV Stick Lite es la mejor inversión que puedes hacer para tu TV</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/razones-amazon-fire-tv-stick-lite-oferta-912227' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/analisis-fire-tv-stick-2020-2224125.jpg?tf=1200x' alt='5 razones por el que este Amazon Fire TV Stick Lite es la mejor inversión que puedes hacer para tu TV' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/motor/corbicyclette-coche-funerario-pedales-bicicleta-funebre-video-1200698'>Corbicyclette, el coche funerario a pedales que ya funciona en Francia (vídeo)</a></h4>
     <a href='https://computerhoy.com/motor/corbicyclette-coche-funerario-pedales-bicicleta-funebre-video-1200698' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/verticalimage1676426740465-2957012.jpg?tf=1200x' alt='Corbicyclette, el coche funerario a pedales que ya funciona en Francia (vídeo)' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/the-last-us-serie-hbo-max-escenario-gigante-1200484'>The Last of Us es un espectáculo a la altura del cine, al menos a la hora de construir escenarios</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/the-last-us-serie-hbo-max-escenario-gigante-1200484' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/last-us-espectaculo-altura-cine-menos-hora-construir-escenarios-2956792.jpg?tf=1200x' alt='The Last of Us es un espectáculo a la altura del cine, al menos a la hora de construir escenarios' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/giri-choco-dia-blanco-dia-negro-san-valentin-japones-1200482'>El San Valentín japonés dura tres meses, y casi todo el mundo lo odia</a></h4>
-    <a href='https://computerhoy.com/life/giri-choco-dia-blanco-dia-negro-san-valentin-japones-1200482' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/san-valentin-japones-dura-tres-meses-casi-todo-mundo-odia-2956756.jpg?tf=1200x' alt='El San Valentín japonés dura tres meses, y casi todo el mundo lo odia' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/policia-alerta-aumento-casos-conocida-estafa-romantica-1200474'>La Policía alerta de un aumento de casos de la conocida “estafa romántica”</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/policia-alerta-aumento-casos-conocida-estafa-romantica-1200474' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/mujer-encontrando-amor-internet-2956754.jpg?tf=1200x' alt='La Policía alerta de un aumento de casos de la conocida “estafa romántica”' />
     </a>
 </div>
 
