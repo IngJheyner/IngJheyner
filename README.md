@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/29-noticias-tecnologia-comenzar-manana-informado-ultimo-1201300'>29 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
+    <a href='https://computerhoy.com/tecnologia/29-noticias-tecnologia-comenzar-manana-informado-ultimo-1201300' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/29-noticias-tecnologia-comenzar-manana-informado-ultimo-2958190.jpg?tf=1200x' alt='29 noticias de tecnología para comenzar la mañana informado de lo último' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/memory-box-retro-calendario-pantalla-tinta-electronica-video-1201296'>Memory Box, un retro calendario de memorias con pantalla de tinta electrónica (vídeo)</a></h4>
+    <a href='https://computerhoy.com/tecnologia/memory-box-retro-calendario-pantalla-tinta-electronica-video-1201296' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/verticalimage1676518178924-2958186.jpg?tf=1200x' alt='Memory Box, un retro calendario de memorias con pantalla de tinta electrónica (vídeo)' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/pc/procesadores-intel-xeon-w-3400-w-2400-estaciones-trabajo-pcie-50-ddr-5-overclocking-1201294'>Los nuevos procesadores Intel Xeon W-3400 y W-2400 para estaciones de trabajo soportan PCIe 5.0 y DDR-5, y son overclockeables</a></h4>
     <a href='https://computerhoy.com/pc/procesadores-intel-xeon-w-3400-w-2400-estaciones-trabajo-pcie-50-ddr-5-overclocking-1201294' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/nuevos-procesadores-intel-xeon-w-3400-w2400-estaciones-trabajo-soportan-pcie-50-ddr-5-son-overclockeables-2957972.jpg?tf=1200x' alt='Los nuevos procesadores Intel Xeon W-3400 y W-2400 para estaciones de trabajo soportan PCIe 5.0 y DDR-5, y son overclockeables' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/entretenimiento/red-rose-serie-terror-juvenil-netflix-1201064'>No volverás a hacer ningún reto de TikTok después de ver la nueva serie de terror de Netflix</a></h4>
     <a href='https://computerhoy.com/entretenimiento/red-rose-serie-terror-juvenil-netflix-1201064' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/no-volveras-hacer-ningun-reto-tiktok-despues-ver-nueva-serie-terror-netflix-2957900.jpg?tf=1200x' alt='No volverás a hacer ningún reto de TikTok después de ver la nueva serie de terror de Netflix' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/bic-adora-chatgpt-piensa-ayudara-vender-muchos-boligrafos-1201054'>BIC adora ChatGPT y piensa que le ayudará a vender muchos más bolígrafos</a></h4>
-    <a href='https://computerhoy.com/life/bic-adora-chatgpt-piensa-ayudara-vender-muchos-boligrafos-1201054' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/ia-usando-boligrafo-2957912.jpg?tf=1200x' alt='BIC adora ChatGPT y piensa que le ayudará a vender muchos más bolígrafos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/gaming/mariogpt-ia-capaz-crear-niveles-infinitos-super-mario-bros-1200980'>MarioGPT es la IA capaz de crear niveles infinitos de Super Mario Bros</a></h4>
-    <a href='https://computerhoy.com/gaming/mariogpt-ia-capaz-crear-niveles-infinitos-super-mario-bros-1200980' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/super-mario-2390625.jpg?tf=1200x' alt='MarioGPT es la IA capaz de crear niveles infinitos de Super Mario Bros' />
     </a>
 </div>
 
