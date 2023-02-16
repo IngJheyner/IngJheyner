@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/horror-whatsapp-aumenta-numero-videos-fotos-puedes-enviar-forma-simultanea-1201572'>¡Horror! WhatsApp aumenta el número de vídeos y fotos que puedes enviar de forma simultánea</a></h4>
-    <a href='https://computerhoy.com/apps/horror-whatsapp-aumenta-numero-videos-fotos-puedes-enviar-forma-simultanea-1201572' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/whatsapp-te-permitira-enviar-fotos-alta-calidad-2954084.jpg?tf=1200x' alt='¡Horror! WhatsApp aumenta el número de vídeos y fotos que puedes enviar de forma simultánea' />
+    <h4><a href='https://computerhoy.com/entretenimiento/keanu-reeves-odia-deepfakes-cine-1201644'>A Keanu Reeves no le gustan los deepfakes en el cine, y se ha asegurado de que nadie toque ni un pelo de sus interpretaciones</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/keanu-reeves-odia-deepfakes-cine-1201644' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/09/keanu-reeves.jpg?tf=1200x' alt='A Keanu Reeves no le gustan los deepfakes en el cine, y se ha asegurado de que nadie toque ni un pelo de sus interpretaciones' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/hogar/compania-luz-gas-podria-tener-pagarte-reforma-casa-ocu-1201568'>La compañía de luz o gas podría tener que pagarte la reforma de tu casa, según la OCU</a></h4>
-    <a href='https://computerhoy.com/hogar/compania-luz-gas-podria-tener-pagarte-reforma-casa-ocu-1201568' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/forma-sencilla-saber-tienes-corrientes-aire-frio-casa-disparan-gasto-calefaccion-2948602.jpg?tf=1200x' alt='La compañía de luz o gas podría tener que pagarte la reforma de tu casa, según la OCU' />
+    <h4><a href='https://computerhoy.com/ciencia/hay-razon-cientifica-no-deberias-pulsar-boton-repetir-alarma-despertador-1201640'>Hay una razón científica por la que no deberías pulsar el botón de repetir alarma del despertador</a></h4>
+    <a href='https://computerhoy.com/ciencia/hay-razon-cientifica-no-deberias-pulsar-boton-repetir-alarma-despertador-1201640' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/alarma-smartphone-2867521.jpg?tf=1200x' alt='Hay una razón científica por la que no deberías pulsar el botón de repetir alarma del despertador' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/life/mejores-secadoras-ropa-pequenas-puedes-comprar-1015377'>Mejores secadoras de ropa pequeñas que puedes comprar</a></h4>
-    <a href='https://computerhoy.com/reportajes/life/mejores-secadoras-ropa-pequenas-puedes-comprar-1015377' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/infiniton-sd-3m-2957114.jpg?tf=1200x' alt='Mejores secadoras de ropa pequeñas que puedes comprar' />
+    <h4><a href='https://computerhoy.com/streaming/netflix-ya-no-quiere-sorpresas-elimina-silenciosamente-funciones-divertidas-1201638'>Netflix ya no quiere sorpresas y elimina silenciosamente una de sus funciones más divertidas</a></h4>
+    <a href='https://computerhoy.com/streaming/netflix-ya-no-quiere-sorpresas-elimina-silenciosamente-funciones-divertidas-1201638' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/netflix-2959200.jpg?tf=1200x' alt='Netflix ya no quiere sorpresas y elimina silenciosamente una de sus funciones más divertidas' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/streaming/significan-codigos-pantalla-dazn-movistar-plus-durante-futbol-f1-1201452'>Qué significan los códigos en pantalla de DAZN o Movistar Plus durante el fútbol o la F1</a></h4>
-    <a href='https://computerhoy.com/streaming/significan-codigos-pantalla-dazn-movistar-plus-durante-futbol-f1-1201452' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/dazn-2959004.jpg?tf=1200x' alt='Qué significan los códigos en pantalla de DAZN o Movistar Plus durante el fútbol o la F1' />
+    <h4><a href='https://computerhoy.com/redes-sociales/twitter-necesita-ingresos-elon-musk-ha-encontrado-solucion-poco-convencional-1201582'>Twitter necesita ingresos y Elon Musk ha encontrado una solución poco convencional</a></h4>
+    <a href='https://computerhoy.com/redes-sociales/twitter-necesita-ingresos-elon-musk-ha-encontrado-solucion-poco-convencional-1201582' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/fortuna-elon-musk-esfuma-twitter-tesla-son-agujero-perdidas-millonarias-2880111.jpg?tf=1200x' alt='Twitter necesita ingresos y Elon Musk ha encontrado una solución poco convencional' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/consiguen-chatgpt-digan-realmente-piensa-temas-escabrosos-da-mucho-miedo-1201536'>Consiguen que ChatGPT digan lo que realmente piensa sobre temas escabrosos, y da mucho miedo</a></h4>
-    <a href='https://computerhoy.com/internet/consiguen-chatgpt-digan-realmente-piensa-temas-escabrosos-da-mucho-miedo-1201536' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/navegador-opera-no-quiere-quedarse-atras-tambien-anuncia-integracion-chatgpt-2954212.jpg?tf=1200x' alt='Consiguen que ChatGPT digan lo que realmente piensa sobre temas escabrosos, y da mucho miedo' />
+    <h4><a href='https://computerhoy.com/smartwatches/pixel-watch-podria-integrar-funcion-puede-salvarte-vida-1201580'>El Pixel Watch podría integrar una función que puede salvarte la vida</a></h4>
+    <a href='https://computerhoy.com/smartwatches/pixel-watch-podria-integrar-funcion-puede-salvarte-vida-1201580' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/google-pixel-watch-2702235.jpg?tf=1200x' alt='El Pixel Watch podría integrar una función que puede salvarte la vida' />
     </a>
 </div>
 
