@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/patrocinado/vaya-ofertas-aliexpress-dia-marca-oneplus-no-puedes-dejar-pasar-1199742'>Vaya ofertas de AliExpress en el Día de la Marca OnePlus, ¡no las puedes dejar pasar!</a></h4>
+    <a href='https://computerhoy.com/patrocinado/vaya-ofertas-aliexpress-dia-marca-oneplus-no-puedes-dejar-pasar-1199742' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/dia-marca-oneplus-2955200.jpg?tf=1200x' alt='Vaya ofertas de AliExpress en el Día de la Marca OnePlus, ¡no las puedes dejar pasar!' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-mini-pc-baratos-windows-10-793785'>Los mejores Mini PC baratos con Windows que puedes comprar</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-mini-pc-baratos-windows-10-793785' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/mini-pc-2955010.jpg?tf=1200x' alt='Los mejores Mini PC baratos con Windows que puedes comprar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/29-noticias-tecnologia-comenzar-manana-informado-ultimo-1201300'>29 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
     <a href='https://computerhoy.com/tecnologia/29-noticias-tecnologia-comenzar-manana-informado-ultimo-1201300' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/29-noticias-tecnologia-comenzar-manana-informado-ultimo-2958190.jpg?tf=1200x' alt='29 noticias de tecnología para comenzar la mañana informado de lo último' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/pc/procesadores-intel-xeon-w-3400-w-2400-estaciones-trabajo-pcie-50-ddr-5-overclocking-1201294'>Los nuevos procesadores Intel Xeon W-3400 y W-2400 para estaciones de trabajo soportan PCIe 5.0 y DDR-5, y son overclockeables</a></h4>
     <a href='https://computerhoy.com/pc/procesadores-intel-xeon-w-3400-w-2400-estaciones-trabajo-pcie-50-ddr-5-overclocking-1201294' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/nuevos-procesadores-intel-xeon-w-3400-w2400-estaciones-trabajo-soportan-pcie-50-ddr-5-son-overclockeables-2957972.jpg?tf=1200x' alt='Los nuevos procesadores Intel Xeon W-3400 y W-2400 para estaciones de trabajo soportan PCIe 5.0 y DDR-5, y son overclockeables' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/autorradio-bluetooth-mas-vendida-amazon-rebaja-1201074'>La autorradio Bluetooth 5.0 más vendida de Amazon baja a poco más de 20 euros</a></h4>
-    <a href='https://computerhoy.com/motor/autorradio-bluetooth-mas-vendida-amazon-rebaja-1201074' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/autorradio-bluetooth-vendida-amazon-baja-poco-20-euros-2957966.jpg?tf=1200x' alt='La autorradio Bluetooth 5.0 más vendida de Amazon baja a poco más de 20 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/red-rose-serie-terror-juvenil-netflix-1201064'>No volverás a hacer ningún reto de TikTok después de ver la nueva serie de terror de Netflix</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/red-rose-serie-terror-juvenil-netflix-1201064' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/no-volveras-hacer-ningun-reto-tiktok-despues-ver-nueva-serie-terror-netflix-2957900.jpg?tf=1200x' alt='No volverás a hacer ningún reto de TikTok después de ver la nueva serie de terror de Netflix' />
     </a>
 </div>
 
