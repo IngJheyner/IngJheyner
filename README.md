@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/smart-tv-va-lenta-estas-son-3-formas-solucionarlo-1198828'>Si tu Smart TV va lenta... estas son las 3 formas de solucionarlo</a></h4>
+    <a href='https://computerhoy.com/tutoriales/smart-tv-va-lenta-estas-son-3-formas-solucionarlo-1198828' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/smart-tv-2429129.jpg?tf=1200x' alt='Si tu Smart TV va lenta... estas son las 3 formas de solucionarlo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/perifericos/lidl-lanza-linea-dispositivos-gaming-pc-no-te-dejaras-medio-sueldo-1201494'>LIDL lanza una línea de dispositivos gaming PC con los que no te dejarás medio sueldo</a></h4>
     <a href='https://computerhoy.com/perifericos/lidl-lanza-linea-dispositivos-gaming-pc-no-te-dejaras-medio-sueldo-1201494' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/perifericos-gaming-lidl-2958772.jpg?tf=1200x' alt='LIDL lanza una línea de dispositivos gaming PC con los que no te dejarás medio sueldo' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/motor/puede-realmente-avion-volar-forma-segura-solo-motor-1201456'>¿Puede realmente un avión volar de forma segura con un solo motor?</a></h4>
     <a href='https://computerhoy.com/motor/puede-realmente-avion-volar-forma-segura-solo-motor-1201456' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/avion-2958712.jpg?tf=1200x' alt='¿Puede realmente un avión volar de forma segura con un solo motor?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/soc-mediatek-7200-da-repaso-snapdragon-7-gen1-poblara-gama-media-smartphones-2023-1201436'>El SoC MediaTek 7200 da un repaso al Snapdragon 7 Gen1 y poblará la gama media de smartphones este 2023</a></h4>
-    <a href='https://computerhoy.com/moviles/soc-mediatek-7200-da-repaso-snapdragon-7-gen1-poblara-gama-media-smartphones-2023-1201436' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/dimensity-7200-2958530.jpg?tf=1200x' alt='El SoC MediaTek 7200 da un repaso al Snapdragon 7 Gen1 y poblará la gama media de smartphones este 2023' />
     </a>
 </div>
 
