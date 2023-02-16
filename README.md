@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/motor/autorradio-bluetooth-mas-vendida-amazon-rebaja-1201074'>La autorradio Bluetooth 5.0 más vendida de Amazon baja a poco más de 20 euros</a></h4>
+    <a href='https://computerhoy.com/motor/autorradio-bluetooth-mas-vendida-amazon-rebaja-1201074' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/autorradio-bluetooth-vendida-amazon-baja-poco-20-euros-2957966.jpg?tf=1200x' alt='La autorradio Bluetooth 5.0 más vendida de Amazon baja a poco más de 20 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/entretenimiento/red-rose-serie-terror-juvenil-netflix-1201064'>No volverás a hacer ningún reto de TikTok después de ver la nueva serie de terror de Netflix</a></h4>
     <a href='https://computerhoy.com/entretenimiento/red-rose-serie-terror-juvenil-netflix-1201064' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/no-volveras-hacer-ningun-reto-tiktok-despues-ver-nueva-serie-terror-netflix-2957900.jpg?tf=1200x' alt='No volverás a hacer ningún reto de TikTok después de ver la nueva serie de terror de Netflix' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/life/escalofriante-motivo-escaleras-mecanicas-tienen-cepillos-lados-1201050'>El escalofriante motivo por el que las escaleras mecánicas tienen cepillos a los lados</a></h4>
     <a href='https://computerhoy.com/life/escalofriante-motivo-escaleras-mecanicas-tienen-cepillos-lados-1201050' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/escaleras-mecanicas-2957898.jpg?tf=1200x' alt='El escalofriante motivo por el que las escaleras mecánicas tienen cepillos a los lados' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/ciberdelincuentes-cuentan-nuevo-malware-capaz-robar-datos-segundos-1200978'>Los ciberdelincuentes cuentan con un nuevo malware capaz de robar tus datos en segundos</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/ciberdelincuentes-cuentan-nuevo-malware-capaz-robar-datos-segundos-1200978' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/bitcoin-malware-2657285.jpg?tf=1200x' alt='Los ciberdelincuentes cuentan con un nuevo malware capaz de robar tus datos en segundos' />
     </a>
 </div>
 
