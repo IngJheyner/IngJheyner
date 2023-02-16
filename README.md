@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/perifericos/lidl-lanza-linea-dispositivos-gaming-pc-no-te-dejaras-medio-sueldo-1201494'>LIDL lanza una línea de dispositivos gaming PC con los que no te dejarás medio sueldo</a></h4>
+    <a href='https://computerhoy.com/perifericos/lidl-lanza-linea-dispositivos-gaming-pc-no-te-dejaras-medio-sueldo-1201494' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/perifericos-gaming-lidl-2958772.jpg?tf=1200x' alt='LIDL lanza una línea de dispositivos gaming PC con los que no te dejarás medio sueldo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/3-formas-resetear-configuracion-windows-11-1188944'>3 formas de resetear la configuración de Windows 11</a></h4>
+    <a href='https://computerhoy.com/tutoriales/3-formas-resetear-configuracion-windows-11-1188944' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/resetear-2936154.jpg?tf=1200x' alt='3 formas de resetear la configuración de Windows 11' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/smartwatches/smartwatch-bateria-funciona-organismos-vivos-interior-tienes-cuidar-1201482'>Este smartwatch sin batería funciona con organismos vivos en su interior que tienes que cuidar</a></h4>
+    <a href='https://computerhoy.com/smartwatches/smartwatch-bateria-funciona-organismos-vivos-interior-tienes-cuidar-1201482' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/smartwatch-bateria-funciona-organismos-vivos-tienes-regar-alimentar-2958744.jpg?tf=1200x' alt='Este smartwatch sin batería funciona con organismos vivos en su interior que tienes que cuidar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/motor/puede-realmente-avion-volar-forma-segura-solo-motor-1201456'>¿Puede realmente un avión volar de forma segura con un solo motor?</a></h4>
+    <a href='https://computerhoy.com/motor/puede-realmente-avion-volar-forma-segura-solo-motor-1201456' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/avion-2958712.jpg?tf=1200x' alt='¿Puede realmente un avión volar de forma segura con un solo motor?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/moviles/soc-mediatek-7200-da-repaso-snapdragon-7-gen1-poblara-gama-media-smartphones-2023-1201436'>El SoC MediaTek 7200 da un repaso al Snapdragon 7 Gen1 y poblará la gama media de smartphones este 2023</a></h4>
     <a href='https://computerhoy.com/moviles/soc-mediatek-7200-da-repaso-snapdragon-7-gen1-poblara-gama-media-smartphones-2023-1201436' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/dimensity-7200-2958530.jpg?tf=1200x' alt='El SoC MediaTek 7200 da un repaso al Snapdragon 7 Gen1 y poblará la gama media de smartphones este 2023' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/podria-ocurrir-ordenador-decides-no-puedes-actualizar-windows-11-1201412'>Esto es lo que le podría ocurrir a tu ordenador si decides, o no puedes, actualizar a Windows 11</a></h4>
-    <a href='https://computerhoy.com/windows/podria-ocurrir-ordenador-decides-no-puedes-actualizar-windows-11-1201412' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/windows-11-2948586.jpg?tf=1200x' alt='Esto es lo que le podría ocurrir a tu ordenador si decides, o no puedes, actualizar a Windows 11' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/cientificos-predicen-catastroficas-consecuencias-invierno-nuclear-caso-guerra-1201394'>Científicos predicen las catastróficas consecuencias de un invierno nuclear en caso de guerra</a></h4>
-    <a href='https://computerhoy.com/ciencia/cientificos-predicen-catastroficas-consecuencias-invierno-nuclear-caso-guerra-1201394' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/bombas-nuclear-2958410.jpg?tf=1200x' alt='Científicos predicen las catastróficas consecuencias de un invierno nuclear en caso de guerra' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/radiador-bajo-consumo-orbegozo-wifi-inteligente-oferta-1200128'>Potente, con WiFi y de bajo consumo: este radiador inteligente acabará con el frío sin disparar tu factura</a></h4>
-    <a href='https://computerhoy.com/tecnologia/radiador-bajo-consumo-orbegozo-wifi-inteligente-oferta-1200128' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/orbegozo-rrw-1500-2955888.jpg?tf=1200x' alt='Potente, con WiFi y de bajo consumo: este radiador inteligente acabará con el frío sin disparar tu factura' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/asteroide-potencialmente-peligroso-ha-acercado-tierra-ningun-otro-400-anos-1201386'>Un asteroide potencialmente peligroso se ha acercado a la Tierra más que ningún otro en 400 años</a></h4>
-    <a href='https://computerhoy.com/espacio/asteroide-potencialmente-peligroso-ha-acercado-tierra-ningun-otro-400-anos-1201386' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/asteroide-potencialmente-peligroso-ha-acercado-tierra-ningun-otro-400-anos-2958436.jpg?tf=1200x' alt='Un asteroide potencialmente peligroso se ha acercado a la Tierra más que ningún otro en 400 años' />
     </a>
 </div>
 
