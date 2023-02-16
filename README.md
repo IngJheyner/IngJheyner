@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/moviles/soc-mediatek-7200-da-repaso-snapdragon-7-gen1-poblara-gama-media-smartphones-2023-1201436'>El SoC MediaTek 7200 da un repaso al Snapdragon 7 Gen1 y poblará la gama media de smartphones este 2023</a></h4>
+    <a href='https://computerhoy.com/moviles/soc-mediatek-7200-da-repaso-snapdragon-7-gen1-poblara-gama-media-smartphones-2023-1201436' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/dimensity-7200-2958530.jpg?tf=1200x' alt='El SoC MediaTek 7200 da un repaso al Snapdragon 7 Gen1 y poblará la gama media de smartphones este 2023' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/windows/podria-ocurrir-ordenador-decides-no-puedes-actualizar-windows-11-1201412'>Esto es lo que le podría ocurrir a tu ordenador si decides, o no puedes, actualizar a Windows 11</a></h4>
+    <a href='https://computerhoy.com/windows/podria-ocurrir-ordenador-decides-no-puedes-actualizar-windows-11-1201412' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/windows-11-2948586.jpg?tf=1200x' alt='Esto es lo que le podría ocurrir a tu ordenador si decides, o no puedes, actualizar a Windows 11' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciencia/cientificos-predicen-catastroficas-consecuencias-invierno-nuclear-caso-guerra-1201394'>Científicos predicen las catastróficas consecuencias de un invierno nuclear en caso de guerra</a></h4>
     <a href='https://computerhoy.com/ciencia/cientificos-predicen-catastroficas-consecuencias-invierno-nuclear-caso-guerra-1201394' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/bombas-nuclear-2958410.jpg?tf=1200x' alt='Científicos predicen las catastróficas consecuencias de un invierno nuclear en caso de guerra' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/espacio/asteroide-potencialmente-peligroso-ha-acercado-tierra-ningun-otro-400-anos-1201386'>Un asteroide potencialmente peligroso se ha acercado a la Tierra más que ningún otro en 400 años</a></h4>
     <a href='https://computerhoy.com/espacio/asteroide-potencialmente-peligroso-ha-acercado-tierra-ningun-otro-400-anos-1201386' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/asteroide-potencialmente-peligroso-ha-acercado-tierra-ningun-otro-400-anos-2958436.jpg?tf=1200x' alt='Un asteroide potencialmente peligroso se ha acercado a la Tierra más que ningún otro en 400 años' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/bill-gates-nueva-gran-amenaza-humanidad-interpol-da-razon-1201354'>Para Bill Gates esta es la nueva gran amenaza para la humanidad y la Interpol le da la razón</a></h4>
-    <a href='https://computerhoy.com/life/bill-gates-nueva-gran-amenaza-humanidad-interpol-da-razon-1201354' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/seis-predicciones-tecnologicas-hizo-bill-gates-1999-678412.jpg?tf=1200x' alt='Para Bill Gates esta es la nueva gran amenaza para la humanidad y la Interpol le da la razón' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/ataque-triple-extorsion-ransomware-nueva-tendencia-ciberdelincuentes-1200866'>Qué es un ataque de triple extorsión de ransomware, la nueva tendencia entre los ciberdelincuentes</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/ataque-triple-extorsion-ransomware-nueva-tendencia-ciberdelincuentes-1200866' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/ataque-triple-extorsion-ransomware-nueva-tendencia-ciberdelincuentes-2957492.jpg?tf=1200x' alt='Qué es un ataque de triple extorsión de ransomware, la nueva tendencia entre los ciberdelincuentes' />
     </a>
 </div>
 
