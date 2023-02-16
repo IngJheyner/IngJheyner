@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/pc/procesadores-intel-xeon-w-3400-w-2400-estaciones-trabajo-pcie-50-ddr-5-overclocking-1201294'>Los nuevos procesadores Intel Xeon W-3400 y W-2400 para estaciones de trabajo soportan PCIe 5.0 y DDR-5, y son overclockeables</a></h4>
+    <a href='https://computerhoy.com/pc/procesadores-intel-xeon-w-3400-w-2400-estaciones-trabajo-pcie-50-ddr-5-overclocking-1201294' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/nuevos-procesadores-intel-xeon-w-3400-w2400-estaciones-trabajo-soportan-pcie-50-ddr-5-son-overclockeables-2957972.jpg?tf=1200x' alt='Los nuevos procesadores Intel Xeon W-3400 y W-2400 para estaciones de trabajo soportan PCIe 5.0 y DDR-5, y son overclockeables' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/motor/autorradio-bluetooth-mas-vendida-amazon-rebaja-1201074'>La autorradio Bluetooth 5.0 más vendida de Amazon baja a poco más de 20 euros</a></h4>
     <a href='https://computerhoy.com/motor/autorradio-bluetooth-mas-vendida-amazon-rebaja-1201074' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/autorradio-bluetooth-vendida-amazon-baja-poco-20-euros-2957966.jpg?tf=1200x' alt='La autorradio Bluetooth 5.0 más vendida de Amazon baja a poco más de 20 euros' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/gaming/mariogpt-ia-capaz-crear-niveles-infinitos-super-mario-bros-1200980'>MarioGPT es la IA capaz de crear niveles infinitos de Super Mario Bros</a></h4>
     <a href='https://computerhoy.com/gaming/mariogpt-ia-capaz-crear-niveles-infinitos-super-mario-bros-1200980' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/super-mario-2390625.jpg?tf=1200x' alt='MarioGPT es la IA capaz de crear niveles infinitos de Super Mario Bros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/escalofriante-motivo-escaleras-mecanicas-tienen-cepillos-lados-1201050'>El escalofriante motivo por el que las escaleras mecánicas tienen cepillos a los lados</a></h4>
-    <a href='https://computerhoy.com/life/escalofriante-motivo-escaleras-mecanicas-tienen-cepillos-lados-1201050' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/escaleras-mecanicas-2957898.jpg?tf=1200x' alt='El escalofriante motivo por el que las escaleras mecánicas tienen cepillos a los lados' />
     </a>
 </div>
 
