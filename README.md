@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/smart-tv-va-lenta-estas-son-3-formas-solucionarlo-1198828'>Si tu Smart TV va lenta... estas son las 3 formas de solucionarlo</a></h4>
-    <a href='https://computerhoy.com/tutoriales/smart-tv-va-lenta-estas-son-3-formas-solucionarlo-1198828' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/smart-tv-2429129.jpg?tf=1200x' alt='Si tu Smart TV va lenta... estas son las 3 formas de solucionarlo' />
+    <h4><a href='https://computerhoy.com/apps/horror-whatsapp-aumenta-numero-videos-fotos-puedes-enviar-forma-simultanea-1201572'>¡Horror! WhatsApp aumenta el número de vídeos y fotos que puedes enviar de forma simultánea</a></h4>
+    <a href='https://computerhoy.com/apps/horror-whatsapp-aumenta-numero-videos-fotos-puedes-enviar-forma-simultanea-1201572' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/whatsapp-te-permitira-enviar-fotos-alta-calidad-2954084.jpg?tf=1200x' alt='¡Horror! WhatsApp aumenta el número de vídeos y fotos que puedes enviar de forma simultánea' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/perifericos/lidl-lanza-linea-dispositivos-gaming-pc-no-te-dejaras-medio-sueldo-1201494'>LIDL lanza una línea de dispositivos gaming PC con los que no te dejarás medio sueldo</a></h4>
-    <a href='https://computerhoy.com/perifericos/lidl-lanza-linea-dispositivos-gaming-pc-no-te-dejaras-medio-sueldo-1201494' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/perifericos-gaming-lidl-2958772.jpg?tf=1200x' alt='LIDL lanza una línea de dispositivos gaming PC con los que no te dejarás medio sueldo' />
+    <h4><a href='https://computerhoy.com/hogar/compania-luz-gas-podria-tener-pagarte-reforma-casa-ocu-1201568'>La compañía de luz o gas podría tener que pagarte la reforma de tu casa, según la OCU</a></h4>
+    <a href='https://computerhoy.com/hogar/compania-luz-gas-podria-tener-pagarte-reforma-casa-ocu-1201568' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/forma-sencilla-saber-tienes-corrientes-aire-frio-casa-disparan-gasto-calefaccion-2948602.jpg?tf=1200x' alt='La compañía de luz o gas podría tener que pagarte la reforma de tu casa, según la OCU' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/3-formas-resetear-configuracion-windows-11-1188944'>3 formas de resetear la configuración de Windows 11</a></h4>
-    <a href='https://computerhoy.com/tutoriales/3-formas-resetear-configuracion-windows-11-1188944' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/resetear-2936154.jpg?tf=1200x' alt='3 formas de resetear la configuración de Windows 11' />
+    <h4><a href='https://computerhoy.com/reportajes/life/mejores-secadoras-ropa-pequenas-puedes-comprar-1015377'>Mejores secadoras de ropa pequeñas que puedes comprar</a></h4>
+    <a href='https://computerhoy.com/reportajes/life/mejores-secadoras-ropa-pequenas-puedes-comprar-1015377' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/infiniton-sd-3m-2957114.jpg?tf=1200x' alt='Mejores secadoras de ropa pequeñas que puedes comprar' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/smartwatches/smartwatch-bateria-funciona-organismos-vivos-interior-tienes-cuidar-1201482'>Este smartwatch sin batería funciona con organismos vivos en su interior que tienes que cuidar</a></h4>
-    <a href='https://computerhoy.com/smartwatches/smartwatch-bateria-funciona-organismos-vivos-interior-tienes-cuidar-1201482' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/smartwatch-bateria-funciona-organismos-vivos-tienes-regar-alimentar-2958744.jpg?tf=1200x' alt='Este smartwatch sin batería funciona con organismos vivos en su interior que tienes que cuidar' />
+    <h4><a href='https://computerhoy.com/streaming/significan-codigos-pantalla-dazn-movistar-plus-durante-futbol-f1-1201452'>Qué significan los códigos en pantalla de DAZN o Movistar Plus durante el fútbol o la F1</a></h4>
+    <a href='https://computerhoy.com/streaming/significan-codigos-pantalla-dazn-movistar-plus-durante-futbol-f1-1201452' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/dazn-2959004.jpg?tf=1200x' alt='Qué significan los códigos en pantalla de DAZN o Movistar Plus durante el fútbol o la F1' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/puede-realmente-avion-volar-forma-segura-solo-motor-1201456'>¿Puede realmente un avión volar de forma segura con un solo motor?</a></h4>
-    <a href='https://computerhoy.com/motor/puede-realmente-avion-volar-forma-segura-solo-motor-1201456' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/avion-2958712.jpg?tf=1200x' alt='¿Puede realmente un avión volar de forma segura con un solo motor?' />
+    <h4><a href='https://computerhoy.com/internet/consiguen-chatgpt-digan-realmente-piensa-temas-escabrosos-da-mucho-miedo-1201536'>Consiguen que ChatGPT digan lo que realmente piensa sobre temas escabrosos, y da mucho miedo</a></h4>
+    <a href='https://computerhoy.com/internet/consiguen-chatgpt-digan-realmente-piensa-temas-escabrosos-da-mucho-miedo-1201536' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/navegador-opera-no-quiere-quedarse-atras-tambien-anuncia-integracion-chatgpt-2954212.jpg?tf=1200x' alt='Consiguen que ChatGPT digan lo que realmente piensa sobre temas escabrosos, y da mucho miedo' />
     </a>
 </div>
 
