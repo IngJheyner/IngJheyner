@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/patrocinado/vaya-ofertas-aliexpress-dia-marca-oneplus-no-puedes-dejar-pasar-1199742'>Vaya ofertas de AliExpress en el Día de la Marca OnePlus, ¡no las puedes dejar pasar!</a></h4>
-    <a href='https://computerhoy.com/patrocinado/vaya-ofertas-aliexpress-dia-marca-oneplus-no-puedes-dejar-pasar-1199742' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/dia-marca-oneplus-2955200.jpg?tf=1200x' alt='Vaya ofertas de AliExpress en el Día de la Marca OnePlus, ¡no las puedes dejar pasar!' />
+    <h4><a href='https://computerhoy.com/ciencia/cientificos-predicen-catastroficas-consecuencias-invierno-nuclear-caso-guerra-1201394'>Científicos predicen las catastróficas consecuencias de un invierno nuclear en caso de guerra</a></h4>
+    <a href='https://computerhoy.com/ciencia/cientificos-predicen-catastroficas-consecuencias-invierno-nuclear-caso-guerra-1201394' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/bombas-nuclear-2958410.jpg?tf=1200x' alt='Científicos predicen las catastróficas consecuencias de un invierno nuclear en caso de guerra' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-mini-pc-baratos-windows-10-793785'>Los mejores Mini PC baratos con Windows que puedes comprar</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-mini-pc-baratos-windows-10-793785' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/mini-pc-2955010.jpg?tf=1200x' alt='Los mejores Mini PC baratos con Windows que puedes comprar' />
+    <h4><a href='https://computerhoy.com/tecnologia/radiador-bajo-consumo-orbegozo-wifi-inteligente-oferta-1200128'>Potente, con WiFi y de bajo consumo: este radiador inteligente acabará con el frío sin disparar tu factura</a></h4>
+    <a href='https://computerhoy.com/tecnologia/radiador-bajo-consumo-orbegozo-wifi-inteligente-oferta-1200128' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/orbegozo-rrw-1500-2955888.jpg?tf=1200x' alt='Potente, con WiFi y de bajo consumo: este radiador inteligente acabará con el frío sin disparar tu factura' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/29-noticias-tecnologia-comenzar-manana-informado-ultimo-1201300'>29 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
-    <a href='https://computerhoy.com/tecnologia/29-noticias-tecnologia-comenzar-manana-informado-ultimo-1201300' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/29-noticias-tecnologia-comenzar-manana-informado-ultimo-2958190.jpg?tf=1200x' alt='29 noticias de tecnología para comenzar la mañana informado de lo último' />
+    <h4><a href='https://computerhoy.com/espacio/asteroide-potencialmente-peligroso-ha-acercado-tierra-ningun-otro-400-anos-1201386'>Un asteroide potencialmente peligroso se ha acercado a la Tierra más que ningún otro en 400 años</a></h4>
+    <a href='https://computerhoy.com/espacio/asteroide-potencialmente-peligroso-ha-acercado-tierra-ningun-otro-400-anos-1201386' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/asteroide-potencialmente-peligroso-ha-acercado-tierra-ningun-otro-400-anos-2958436.jpg?tf=1200x' alt='Un asteroide potencialmente peligroso se ha acercado a la Tierra más que ningún otro en 400 años' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/memory-box-retro-calendario-pantalla-tinta-electronica-video-1201296'>Memory Box, un retro calendario de memorias con pantalla de tinta electrónica (vídeo)</a></h4>
-    <a href='https://computerhoy.com/tecnologia/memory-box-retro-calendario-pantalla-tinta-electronica-video-1201296' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/verticalimage1676518178924-2958186.jpg?tf=1200x' alt='Memory Box, un retro calendario de memorias con pantalla de tinta electrónica (vídeo)' />
+    <h4><a href='https://computerhoy.com/life/bill-gates-nueva-gran-amenaza-humanidad-interpol-da-razon-1201354'>Para Bill Gates esta es la nueva gran amenaza para la humanidad y la Interpol le da la razón</a></h4>
+    <a href='https://computerhoy.com/life/bill-gates-nueva-gran-amenaza-humanidad-interpol-da-razon-1201354' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/seis-predicciones-tecnologicas-hizo-bill-gates-1999-678412.jpg?tf=1200x' alt='Para Bill Gates esta es la nueva gran amenaza para la humanidad y la Interpol le da la razón' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/procesadores-intel-xeon-w-3400-w-2400-estaciones-trabajo-pcie-50-ddr-5-overclocking-1201294'>Los nuevos procesadores Intel Xeon W-3400 y W-2400 para estaciones de trabajo soportan PCIe 5.0 y DDR-5, y son overclockeables</a></h4>
-    <a href='https://computerhoy.com/pc/procesadores-intel-xeon-w-3400-w-2400-estaciones-trabajo-pcie-50-ddr-5-overclocking-1201294' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/nuevos-procesadores-intel-xeon-w-3400-w2400-estaciones-trabajo-soportan-pcie-50-ddr-5-son-overclockeables-2957972.jpg?tf=1200x' alt='Los nuevos procesadores Intel Xeon W-3400 y W-2400 para estaciones de trabajo soportan PCIe 5.0 y DDR-5, y son overclockeables' />
+    <h4><a href='https://computerhoy.com/ciberseguridad/ataque-triple-extorsion-ransomware-nueva-tendencia-ciberdelincuentes-1200866'>Qué es un ataque de triple extorsión de ransomware, la nueva tendencia entre los ciberdelincuentes</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/ataque-triple-extorsion-ransomware-nueva-tendencia-ciberdelincuentes-1200866' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/ataque-triple-extorsion-ransomware-nueva-tendencia-ciberdelincuentes-2957492.jpg?tf=1200x' alt='Qué es un ataque de triple extorsión de ransomware, la nueva tendencia entre los ciberdelincuentes' />
     </a>
 </div>
 
