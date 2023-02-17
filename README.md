@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/life/frigorificos-americanos-mejores-modelos-1000921'>Frigoríficos americanos de bajo consumo: estos son los mejores modelos</a></h4>
+    <a href='https://computerhoy.com/reportajes/life/frigorificos-americanos-mejores-modelos-1000921' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/cecotec-bolero-coolmarket-sbs-430-inox-2955914.jpg?tf=1200x' alt='Frigoríficos americanos de bajo consumo: estos son los mejores modelos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/metaverso-nft-grandes-olvidadas-nacimiento-chatgpt-boom-ia-1201454'>Metaverso y NFT: las grandes olvidadas por el nacimiento de ChatGPT y el boom de la IA</a></h4>
+    <a href='https://computerhoy.com/tecnologia/metaverso-nft-grandes-olvidadas-nacimiento-chatgpt-boom-ia-1201454' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/metaverso-nft-grandes-olvidadas-nacimiento-chatgpt-boom-ia-2958720.jpg?tf=1200x' alt='Metaverso y NFT: las grandes olvidadas por el nacimiento de ChatGPT y el boom de la IA' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/30-noticias-tecnologia-comenzar-manana-informado-ultimo-1201896'>30 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
+    <a href='https://computerhoy.com/tecnologia/30-noticias-tecnologia-comenzar-manana-informado-ultimo-1201896' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/30-noticias-tecnologia-comenzar-manana-informado-ultimo-2959492.jpg?tf=1200x' alt='30 noticias de tecnología para comenzar la mañana informado de lo último' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-alternativas-baratas-gopro-1028191'>Mejores alternativas baratas a las GoPro que puedes comprar en 2023</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-alternativas-baratas-gopro-1028191' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/gopro-hero11-black-2957156.jpg?tf=1200x' alt='Mejores alternativas baratas a las GoPro que puedes comprar en 2023' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciencia/pais-mas-zonas-horarias-1201888'>¿Cuál es el país con más zonas horarias? No es Rusia, China o Estados Unidos...</a></h4>
     <a href='https://computerhoy.com/ciencia/pais-mas-zonas-horarias-1201888' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/cual-pais-zonas-horarias-no-rusia-ni-china-2959488.jpg?tf=1200x' alt='¿Cuál es el país con más zonas horarias? No es Rusia, China o Estados Unidos...' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/moto-g82-motorola-movil-gama-media-pantalla-oled-5g-menos-250-euros-1201886'>El Moto g82 de Motorola es un móvil de gama media con pantalla OLED y 5G, por menos de 250 euros</a></h4>
-    <a href='https://computerhoy.com/moviles/moto-g82-motorola-movil-gama-media-pantalla-oled-5g-menos-250-euros-1201886' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/motorola-moto-g82-nueva-gama-media-llega-5g-pantalla-amoled-120-hz-2701737.jpg?tf=1200x' alt='El Moto g82 de Motorola es un móvil de gama media con pantalla OLED y 5G, por menos de 250 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/microsoft-desarrolla-windows-11-apple-mac-m1-m2-1201652'>Microsoft está desarrollando Windows 11 para los Apple Mac con M1 y M2</a></h4>
-    <a href='https://computerhoy.com/windows/microsoft-desarrolla-windows-11-apple-mac-m1-m2-1201652' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/microsoft-desarrollando-windows-11-apple-macbook-m1-m2-2959238.jpg?tf=1200x' alt='Microsoft está desarrollando Windows 11 para los Apple Mac con M1 y M2' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/keanu-reeves-odia-deepfakes-cine-1201644'>A Keanu Reeves no le gustan los deepfakes en el cine, y se ha asegurado de que nadie toque ni un pelo de sus interpretaciones</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/keanu-reeves-odia-deepfakes-cine-1201644' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/09/keanu-reeves.jpg?tf=1200x' alt='A Keanu Reeves no le gustan los deepfakes en el cine, y se ha asegurado de que nadie toque ni un pelo de sus interpretaciones' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/hay-razon-cientifica-no-deberias-pulsar-boton-repetir-alarma-despertador-1201640'>Hay una razón científica por la que no deberías pulsar el botón de repetir alarma del despertador</a></h4>
-    <a href='https://computerhoy.com/ciencia/hay-razon-cientifica-no-deberias-pulsar-boton-repetir-alarma-despertador-1201640' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/alarma-smartphone-2867521.jpg?tf=1200x' alt='Hay una razón científica por la que no deberías pulsar el botón de repetir alarma del despertador' />
     </a>
 </div>
 
