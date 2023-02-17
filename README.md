@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/todo-sabemos-iphone-15-pro-camaras-procesador-diseno-1201956'>Esto es todo lo que sabemos del iPhone 15 Pro: cámaras, procesador, diseño y más</a></h4>
-    <a href='https://computerhoy.com/moviles/todo-sabemos-iphone-15-pro-camaras-procesador-diseno-1201956' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/iphone-14-pro-2806889.jpg?tf=1200x' alt='Esto es todo lo que sabemos del iPhone 15 Pro: cámaras, procesador, diseño y más' />
+    <h4><a href='https://computerhoy.com/motor/tecnica-ahorrar-gasolina-machando-motor-coche-1202032'>La técnica para ahorrar gasolina que está machando el motor de tu coche</a></h4>
+    <a href='https://computerhoy.com/motor/tecnica-ahorrar-gasolina-machando-motor-coche-1202032' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/funciona-limitador-velocidad-sera-obligatorio-coches-deja-hacer-conductor-2792955.jpg?tf=1200x' alt='La técnica para ahorrar gasolina que está machando el motor de tu coche' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/auriculares-cable-usb-tipo-c-samsung-oferta-mitad-precio-1200238'>Si te gustan los auriculares con cable pero tu móvil no tiene jack, estos Tipo C de Samsung están casi a mitad de precio</a></h4>
-    <a href='https://computerhoy.com/tecnologia/auriculares-cable-usb-tipo-c-samsung-oferta-mitad-precio-1200238' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/usb-tipo-c-2956142.jpg?tf=1200x' alt='Si te gustan los auriculares con cable pero tu móvil no tiene jack, estos Tipo C de Samsung están casi a mitad de precio' />
+    <h4><a href='https://computerhoy.com/ciberseguridad/como-hackers-consiguen-secuestrar-cuentas-telegram-1202028'>Así es como los hackers consiguen secuestrar las cuentas de Telegram</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/como-hackers-consiguen-secuestrar-cuentas-telegram-1202028' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/como-hacker-consiguen-secuestrar-cuentas-telegram-2959774.jpg?tf=1200x' alt='Así es como los hackers consiguen secuestrar las cuentas de Telegram' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/crees-chatgpt-demasiado-light-openai-quiere-dotarlo-personalidad-controversia-1201922'>¿Crees que ChatGPT es demasiado light? OpenAI quiere dotarlo de más personalidad y controversia</a></h4>
-    <a href='https://computerhoy.com/tecnologia/crees-chatgpt-demasiado-light-openai-quiere-dotarlo-personalidad-controversia-1201922' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/crees-chatgpt-demasiado-light-openai-quiere-dotarlo-personalidad-controversia-2959556.jpg?tf=1200x' alt='¿Crees que ChatGPT es demasiado light? OpenAI quiere dotarlo de más personalidad y controversia' />
+    <h4><a href='https://computerhoy.com/tecnologia/televisor-xiaomi-barato-ps5-xbox-1200320'>Este televisor de Xiaomi puede darle un salto de calidad a tu PS5 o Xbox: tiene la características que las nuevas consolas demandan</a></h4>
+    <a href='https://computerhoy.com/tecnologia/televisor-xiaomi-barato-ps5-xbox-1200320' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/xiaomi-tv-f2-55-2956240.jpg?tf=1200x' alt='Este televisor de Xiaomi puede darle un salto de calidad a tu PS5 o Xbox: tiene la características que las nuevas consolas demandan' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/mapa-ranking-montanas-altas-cada-pais-mundo-1201578'>El mapa y ránking de las montañas más altas de cada país del mundo</a></h4>
-    <a href='https://computerhoy.com/ciencia/mapa-ranking-montanas-altas-cada-pais-mundo-1201578' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/02/mountains.jpg?tf=1200x' alt='El mapa y ránking de las montañas más altas de cada país del mundo' />
+    <h4><a href='https://computerhoy.com/legislacion/nueva-estricta-ley-inteligencia-artificial-europea-sigue-ver-luz-varios-anos-1201980'>La nueva y estricta Ley de Inteligencia Artificial europea sigue sin ver la luz tras varios años</a></h4>
+    <a href='https://computerhoy.com/legislacion/nueva-estricta-ley-inteligencia-artificial-europea-sigue-ver-luz-varios-anos-1201980' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/nueva-estricta-ley-inteligencia-artificial-europea-sigue-ver-luz-varios-anos-2959678.jpg?tf=1200x' alt='La nueva y estricta Ley de Inteligencia Artificial europea sigue sin ver la luz tras varios años' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/smartwatches/smartwatch-proyector-incorporado-samsung-acaba-patentarlo-espectacular-1201940'>¿Un smartwatch con proyector incorporado? Samsung acaba de patentarlo y es espectacular</a></h4>
-    <a href='https://computerhoy.com/smartwatches/smartwatch-proyector-incorporado-samsung-acaba-patentarlo-espectacular-1201940' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/samsung-galaxy-watch-5-pro-analisis-opinion-2809241.jpg?tf=1200x' alt='¿Un smartwatch con proyector incorporado? Samsung acaba de patentarlo y es espectacular' />
+    <h4><a href='https://computerhoy.com/motor/caducidad-etiquetas-dgt-tienes-cambiar-c-b-cuando-coche-envejece-1201984'>Caducidad de las etiquetas de la DGT: ¿tienes que cambiar de C a B cuando el coche envejece?</a></h4>
+    <a href='https://computerhoy.com/motor/caducidad-etiquetas-dgt-tienes-cambiar-c-b-cuando-coche-envejece-1201984' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/etiqueta-medioambiental-dgt-2959622.jpg?tf=1200x' alt='Caducidad de las etiquetas de la DGT: ¿tienes que cambiar de C a B cuando el coche envejece?' />
     </a>
 </div>
 
