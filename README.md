@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/the-last-of-us-serie-mas-vista-hbo-max-1202236'>La Casa del dragón ya no es la serie más vista de HBO Max en el último año</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/the-last-of-us-serie-mas-vista-hbo-max-1202236' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/last-us-arrasa-historia-hbo-max-supero-estreno-casa-dragon-2960174.jpg?tf=1200x' alt='La Casa del dragón ya no es la serie más vista de HBO Max en el último año' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/redes-sociales/ue-obliga-redes-sociales-revelar-numero-usuarios-europa-aqui-tenemos-1202222'>La UE obliga a las redes sociales a revelar su número de usuarios en Europa, aquí los tenemos</a></h4>
     <a href='https://computerhoy.com/redes-sociales/ue-obliga-redes-sociales-revelar-numero-usuarios-europa-aqui-tenemos-1202222' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/7-senales-comportamiento-redes-sociales-no-saludable-2868471.jpg?tf=1200x' alt='La UE obliga a las redes sociales a revelar su número de usuarios en Europa, aquí los tenemos' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/streaming/expertos-tachan-chapuza-nuevo-sistema-control-cuentas-netflix-1202202'>Expertos tachan de chapuza el nuevo sistema de control de cuentas de Netflix</a></h4>
     <a href='https://computerhoy.com/streaming/expertos-tachan-chapuza-nuevo-sistema-control-cuentas-netflix-1202202' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/netflix-2889718.jpg?tf=1200x' alt='Expertos tachan de chapuza el nuevo sistema de control de cuentas de Netflix' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/listas/tecnologia/mejores-teclados-ergonomicos-trabajar-puedes-comprar-2020-582617'>Los mejores teclados ergonómicos para trabajar que puedes comprar en 2023</a></h4>
-    <a href='https://computerhoy.com/listas/tecnologia/mejores-teclados-ergonomicos-trabajar-puedes-comprar-2020-582617' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/logitech-ergo-k860-2957394.jpg?tf=1200x' alt='Los mejores teclados ergonómicos para trabajar que puedes comprar en 2023' />
     </a>
 </div>
 
