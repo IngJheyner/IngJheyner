@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/life/frigorificos-americanos-mejores-modelos-1000921'>Frigoríficos americanos de bajo consumo: estos son los mejores modelos</a></h4>
-    <a href='https://computerhoy.com/reportajes/life/frigorificos-americanos-mejores-modelos-1000921' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/cecotec-bolero-coolmarket-sbs-430-inox-2955914.jpg?tf=1200x' alt='Frigoríficos americanos de bajo consumo: estos son los mejores modelos' />
+    <h4><a href='https://computerhoy.com/moviles/todo-sabemos-iphone-15-pro-camaras-procesador-diseno-1201956'>Esto es todo lo que sabemos del iPhone 15 Pro: cámaras, procesador, diseño y más</a></h4>
+    <a href='https://computerhoy.com/moviles/todo-sabemos-iphone-15-pro-camaras-procesador-diseno-1201956' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/iphone-14-pro-2806889.jpg?tf=1200x' alt='Esto es todo lo que sabemos del iPhone 15 Pro: cámaras, procesador, diseño y más' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/metaverso-nft-grandes-olvidadas-nacimiento-chatgpt-boom-ia-1201454'>Metaverso y NFT: las grandes olvidadas por el nacimiento de ChatGPT y el boom de la IA</a></h4>
-    <a href='https://computerhoy.com/tecnologia/metaverso-nft-grandes-olvidadas-nacimiento-chatgpt-boom-ia-1201454' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/metaverso-nft-grandes-olvidadas-nacimiento-chatgpt-boom-ia-2958720.jpg?tf=1200x' alt='Metaverso y NFT: las grandes olvidadas por el nacimiento de ChatGPT y el boom de la IA' />
+    <h4><a href='https://computerhoy.com/tecnologia/auriculares-cable-usb-tipo-c-samsung-oferta-mitad-precio-1200238'>Si te gustan los auriculares con cable pero tu móvil no tiene jack, estos Tipo C de Samsung están casi a mitad de precio</a></h4>
+    <a href='https://computerhoy.com/tecnologia/auriculares-cable-usb-tipo-c-samsung-oferta-mitad-precio-1200238' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/usb-tipo-c-2956142.jpg?tf=1200x' alt='Si te gustan los auriculares con cable pero tu móvil no tiene jack, estos Tipo C de Samsung están casi a mitad de precio' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/30-noticias-tecnologia-comenzar-manana-informado-ultimo-1201896'>30 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
-    <a href='https://computerhoy.com/tecnologia/30-noticias-tecnologia-comenzar-manana-informado-ultimo-1201896' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/30-noticias-tecnologia-comenzar-manana-informado-ultimo-2959492.jpg?tf=1200x' alt='30 noticias de tecnología para comenzar la mañana informado de lo último' />
+    <h4><a href='https://computerhoy.com/tecnologia/crees-chatgpt-demasiado-light-openai-quiere-dotarlo-personalidad-controversia-1201922'>¿Crees que ChatGPT es demasiado light? OpenAI quiere dotarlo de más personalidad y controversia</a></h4>
+    <a href='https://computerhoy.com/tecnologia/crees-chatgpt-demasiado-light-openai-quiere-dotarlo-personalidad-controversia-1201922' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/crees-chatgpt-demasiado-light-openai-quiere-dotarlo-personalidad-controversia-2959556.jpg?tf=1200x' alt='¿Crees que ChatGPT es demasiado light? OpenAI quiere dotarlo de más personalidad y controversia' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-alternativas-baratas-gopro-1028191'>Mejores alternativas baratas a las GoPro que puedes comprar en 2023</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-alternativas-baratas-gopro-1028191' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/gopro-hero11-black-2957156.jpg?tf=1200x' alt='Mejores alternativas baratas a las GoPro que puedes comprar en 2023' />
+    <h4><a href='https://computerhoy.com/ciencia/mapa-ranking-montanas-altas-cada-pais-mundo-1201578'>El mapa y ránking de las montañas más altas de cada país del mundo</a></h4>
+    <a href='https://computerhoy.com/ciencia/mapa-ranking-montanas-altas-cada-pais-mundo-1201578' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/02/mountains.jpg?tf=1200x' alt='El mapa y ránking de las montañas más altas de cada país del mundo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/pais-mas-zonas-horarias-1201888'>¿Cuál es el país con más zonas horarias? No es Rusia, China o Estados Unidos...</a></h4>
-    <a href='https://computerhoy.com/ciencia/pais-mas-zonas-horarias-1201888' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/cual-pais-zonas-horarias-no-rusia-ni-china-2959488.jpg?tf=1200x' alt='¿Cuál es el país con más zonas horarias? No es Rusia, China o Estados Unidos...' />
+    <h4><a href='https://computerhoy.com/smartwatches/smartwatch-proyector-incorporado-samsung-acaba-patentarlo-espectacular-1201940'>¿Un smartwatch con proyector incorporado? Samsung acaba de patentarlo y es espectacular</a></h4>
+    <a href='https://computerhoy.com/smartwatches/smartwatch-proyector-incorporado-samsung-acaba-patentarlo-espectacular-1201940' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/samsung-galaxy-watch-5-pro-analisis-opinion-2809241.jpg?tf=1200x' alt='¿Un smartwatch con proyector incorporado? Samsung acaba de patentarlo y es espectacular' />
     </a>
 </div>
 
