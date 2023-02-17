@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/tecnica-ahorrar-gasolina-machando-motor-coche-1202032'>La técnica para ahorrar gasolina que está machando el motor de tu coche</a></h4>
-    <a href='https://computerhoy.com/motor/tecnica-ahorrar-gasolina-machando-motor-coche-1202032' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/funciona-limitador-velocidad-sera-obligatorio-coches-deja-hacer-conductor-2792955.jpg?tf=1200x' alt='La técnica para ahorrar gasolina que está machando el motor de tu coche' />
+    <h4><a href='https://computerhoy.com/entretenimiento/peliculas-ver-fin-semana-netflix-movistar-plus-prime-video-escuadron-suicida-sherlock-holmes-momia-muy-enfadada-1201964'>Qué películas ver este fin de semana en Netflix, Movistar Plus+ y Prime Video: Escuadrón Suicida, Sherlock Holmes y una momia muy enfadada</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/peliculas-ver-fin-semana-netflix-movistar-plus-prime-video-escuadron-suicida-sherlock-holmes-momia-muy-enfadada-1201964' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/peliculas-ver-fin-semana-netflix-movistar-plus-prime-video-escuadron-suicida-sherlock-holmes-momia-muy-enfadada-2959582.jpg?tf=1200x' alt='Qué películas ver este fin de semana en Netflix, Movistar Plus+ y Prime Video: Escuadrón Suicida, Sherlock Holmes y una momia muy enfadada' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/como-hackers-consiguen-secuestrar-cuentas-telegram-1202028'>Así es como los hackers consiguen secuestrar las cuentas de Telegram</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/como-hackers-consiguen-secuestrar-cuentas-telegram-1202028' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/como-hacker-consiguen-secuestrar-cuentas-telegram-2959774.jpg?tf=1200x' alt='Así es como los hackers consiguen secuestrar las cuentas de Telegram' />
+    <h4><a href='https://computerhoy.com/internet/conocer-contrasena-wifi-consentimiento-podria-llevarte-carcel-1202130'>Conocer la contraseña del WiFi sin consentimiento podría llevarte a la cárcel</a></h4>
+    <a href='https://computerhoy.com/internet/conocer-contrasena-wifi-consentimiento-podria-llevarte-carcel-1202130' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/wifi-2912074.jpg?tf=1200x' alt='Conocer la contraseña del WiFi sin consentimiento podría llevarte a la cárcel' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/televisor-xiaomi-barato-ps5-xbox-1200320'>Este televisor de Xiaomi puede darle un salto de calidad a tu PS5 o Xbox: tiene la características que las nuevas consolas demandan</a></h4>
-    <a href='https://computerhoy.com/tecnologia/televisor-xiaomi-barato-ps5-xbox-1200320' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/xiaomi-tv-f2-55-2956240.jpg?tf=1200x' alt='Este televisor de Xiaomi puede darle un salto de calidad a tu PS5 o Xbox: tiene la características que las nuevas consolas demandan' />
+    <h4><a href='https://computerhoy.com/tutoriales/como-instalar-populares-aplicaciones-linux-windows-11-1188340'>Cómo instalar populares aplicaciones de Linux en Windows 11</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-instalar-populares-aplicaciones-linux-windows-11-1188340' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/03/linux_0.jpg?tf=1200x' alt='Cómo instalar populares aplicaciones de Linux en Windows 11' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/legislacion/nueva-estricta-ley-inteligencia-artificial-europea-sigue-ver-luz-varios-anos-1201980'>La nueva y estricta Ley de Inteligencia Artificial europea sigue sin ver la luz tras varios años</a></h4>
-    <a href='https://computerhoy.com/legislacion/nueva-estricta-ley-inteligencia-artificial-europea-sigue-ver-luz-varios-anos-1201980' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/nueva-estricta-ley-inteligencia-artificial-europea-sigue-ver-luz-varios-anos-2959678.jpg?tf=1200x' alt='La nueva y estricta Ley de Inteligencia Artificial europea sigue sin ver la luz tras varios años' />
+    <h4><a href='https://computerhoy.com/life/cierran-restaurante-3-estrellas-michelin-bill-gates-solo-toma-coca-cola-1202088'>Cierran un restaurante 3 estrellas Michelin para Bill Gates y solo se toma una Coca-Cola</a></h4>
+    <a href='https://computerhoy.com/life/cierran-restaurante-3-estrellas-michelin-bill-gates-solo-toma-coca-cola-1202088' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/bill-gates-warren-buffet-2959860.jpg?tf=1200x' alt='Cierran un restaurante 3 estrellas Michelin para Bill Gates y solo se toma una Coca-Cola' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/caducidad-etiquetas-dgt-tienes-cambiar-c-b-cuando-coche-envejece-1201984'>Caducidad de las etiquetas de la DGT: ¿tienes que cambiar de C a B cuando el coche envejece?</a></h4>
-    <a href='https://computerhoy.com/motor/caducidad-etiquetas-dgt-tienes-cambiar-c-b-cuando-coche-envejece-1201984' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/etiqueta-medioambiental-dgt-2959622.jpg?tf=1200x' alt='Caducidad de las etiquetas de la DGT: ¿tienes que cambiar de C a B cuando el coche envejece?' />
+    <h4><a href='https://computerhoy.com/tecnologia/soluciones-ordenador-usa-100-gpu-windows-11-1197710'>Soluciones si tu ordenador usa el 100% de la GPU en Windows 11</a></h4>
+    <a href='https://computerhoy.com/tecnologia/soluciones-ordenador-usa-100-gpu-windows-11-1197710' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/02/gpu-1867157.jpg?tf=1200x' alt='Soluciones si tu ordenador usa el 100% de la GPU en Windows 11' />
     </a>
 </div>
 
