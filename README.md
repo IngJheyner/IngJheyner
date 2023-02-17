@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/pais-mas-zonas-horarias-1201888'>¿Cuál es el país con más zonas horarias? No es Rusia, China o Estados Unidos...</a></h4>
+    <a href='https://computerhoy.com/ciencia/pais-mas-zonas-horarias-1201888' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/cual-pais-zonas-horarias-no-rusia-ni-china-2959488.jpg?tf=1200x' alt='¿Cuál es el país con más zonas horarias? No es Rusia, China o Estados Unidos...' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/moviles/moto-g82-motorola-movil-gama-media-pantalla-oled-5g-menos-250-euros-1201886'>El Moto g82 de Motorola es un móvil de gama media con pantalla OLED y 5G, por menos de 250 euros</a></h4>
+    <a href='https://computerhoy.com/moviles/moto-g82-motorola-movil-gama-media-pantalla-oled-5g-menos-250-euros-1201886' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/motorola-moto-g82-nueva-gama-media-llega-5g-pantalla-amoled-120-hz-2701737.jpg?tf=1200x' alt='El Moto g82 de Motorola es un móvil de gama media con pantalla OLED y 5G, por menos de 250 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/windows/microsoft-desarrolla-windows-11-apple-mac-m1-m2-1201652'>Microsoft está desarrollando Windows 11 para los Apple Mac con M1 y M2</a></h4>
     <a href='https://computerhoy.com/windows/microsoft-desarrolla-windows-11-apple-mac-m1-m2-1201652' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/microsoft-desarrollando-windows-11-apple-macbook-m1-m2-2959238.jpg?tf=1200x' alt='Microsoft está desarrollando Windows 11 para los Apple Mac con M1 y M2' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/ciencia/hay-razon-cientifica-no-deberias-pulsar-boton-repetir-alarma-despertador-1201640'>Hay una razón científica por la que no deberías pulsar el botón de repetir alarma del despertador</a></h4>
     <a href='https://computerhoy.com/ciencia/hay-razon-cientifica-no-deberias-pulsar-boton-repetir-alarma-despertador-1201640' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/alarma-smartphone-2867521.jpg?tf=1200x' alt='Hay una razón científica por la que no deberías pulsar el botón de repetir alarma del despertador' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/streaming/netflix-ya-no-quiere-sorpresas-elimina-silenciosamente-funciones-divertidas-1201638'>Netflix ya no quiere sorpresas y elimina silenciosamente una de sus funciones más divertidas</a></h4>
-    <a href='https://computerhoy.com/streaming/netflix-ya-no-quiere-sorpresas-elimina-silenciosamente-funciones-divertidas-1201638' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/netflix-2959200.jpg?tf=1200x' alt='Netflix ya no quiere sorpresas y elimina silenciosamente una de sus funciones más divertidas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/redes-sociales/twitter-necesita-ingresos-elon-musk-ha-encontrado-solucion-poco-convencional-1201582'>Twitter necesita ingresos y Elon Musk ha encontrado una solución poco convencional</a></h4>
-    <a href='https://computerhoy.com/redes-sociales/twitter-necesita-ingresos-elon-musk-ha-encontrado-solucion-poco-convencional-1201582' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/fortuna-elon-musk-esfuma-twitter-tesla-son-agujero-perdidas-millonarias-2880111.jpg?tf=1200x' alt='Twitter necesita ingresos y Elon Musk ha encontrado una solución poco convencional' />
     </a>
 </div>
 
