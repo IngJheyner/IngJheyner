@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/windows/microsoft-desarrolla-windows-11-apple-mac-m1-m2-1201652'>Microsoft está desarrollando Windows 11 para los Apple Mac con M1 y M2</a></h4>
+    <a href='https://computerhoy.com/windows/microsoft-desarrolla-windows-11-apple-mac-m1-m2-1201652' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/microsoft-desarrollando-windows-11-apple-macbook-m1-m2-2959238.jpg?tf=1200x' alt='Microsoft está desarrollando Windows 11 para los Apple Mac con M1 y M2' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/entretenimiento/keanu-reeves-odia-deepfakes-cine-1201644'>A Keanu Reeves no le gustan los deepfakes en el cine, y se ha asegurado de que nadie toque ni un pelo de sus interpretaciones</a></h4>
     <a href='https://computerhoy.com/entretenimiento/keanu-reeves-odia-deepfakes-cine-1201644' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/09/keanu-reeves.jpg?tf=1200x' alt='A Keanu Reeves no le gustan los deepfakes en el cine, y se ha asegurado de que nadie toque ni un pelo de sus interpretaciones' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/redes-sociales/twitter-necesita-ingresos-elon-musk-ha-encontrado-solucion-poco-convencional-1201582'>Twitter necesita ingresos y Elon Musk ha encontrado una solución poco convencional</a></h4>
     <a href='https://computerhoy.com/redes-sociales/twitter-necesita-ingresos-elon-musk-ha-encontrado-solucion-poco-convencional-1201582' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/fortuna-elon-musk-esfuma-twitter-tesla-son-agujero-perdidas-millonarias-2880111.jpg?tf=1200x' alt='Twitter necesita ingresos y Elon Musk ha encontrado una solución poco convencional' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/smartwatches/pixel-watch-podria-integrar-funcion-puede-salvarte-vida-1201580'>El Pixel Watch podría integrar una función que puede salvarte la vida</a></h4>
-    <a href='https://computerhoy.com/smartwatches/pixel-watch-podria-integrar-funcion-puede-salvarte-vida-1201580' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/google-pixel-watch-2702235.jpg?tf=1200x' alt='El Pixel Watch podría integrar una función que puede salvarte la vida' />
     </a>
 </div>
 
