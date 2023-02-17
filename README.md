@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/peliculas-ver-fin-semana-netflix-movistar-plus-prime-video-escuadron-suicida-sherlock-holmes-momia-muy-enfadada-1201964'>Qué películas ver este fin de semana en Netflix, Movistar Plus+ y Prime Video: Escuadrón Suicida, Sherlock Holmes y una momia muy enfadada</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/peliculas-ver-fin-semana-netflix-movistar-plus-prime-video-escuadron-suicida-sherlock-holmes-momia-muy-enfadada-1201964' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/peliculas-ver-fin-semana-netflix-movistar-plus-prime-video-escuadron-suicida-sherlock-holmes-momia-muy-enfadada-2959582.jpg?tf=1200x' alt='Qué películas ver este fin de semana en Netflix, Movistar Plus+ y Prime Video: Escuadrón Suicida, Sherlock Holmes y una momia muy enfadada' />
+    <h4><a href='https://computerhoy.com/redes-sociales/ue-obliga-redes-sociales-revelar-numero-usuarios-europa-aqui-tenemos-1202222'>La UE obliga a las redes sociales a revelar su número de usuarios en Europa, aquí los tenemos</a></h4>
+    <a href='https://computerhoy.com/redes-sociales/ue-obliga-redes-sociales-revelar-numero-usuarios-europa-aqui-tenemos-1202222' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/7-senales-comportamiento-redes-sociales-no-saludable-2868471.jpg?tf=1200x' alt='La UE obliga a las redes sociales a revelar su número de usuarios en Europa, aquí los tenemos' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/conocer-contrasena-wifi-consentimiento-podria-llevarte-carcel-1202130'>Conocer la contraseña del WiFi sin consentimiento podría llevarte a la cárcel</a></h4>
-    <a href='https://computerhoy.com/internet/conocer-contrasena-wifi-consentimiento-podria-llevarte-carcel-1202130' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/wifi-2912074.jpg?tf=1200x' alt='Conocer la contraseña del WiFi sin consentimiento podría llevarte a la cárcel' />
+    <h4><a href='https://computerhoy.com/internet/madrid-entra-top-ciudades-mejor-velocidad-internet-mundo-1202206'>Madrid entra en el top de ciudades con mejor velocidad de Internet del mundo</a></h4>
+    <a href='https://computerhoy.com/internet/madrid-entra-top-ciudades-mejor-velocidad-internet-mundo-1202206' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/conexion-internet-2960118.jpg?tf=1200x' alt='Madrid entra en el top de ciudades con mejor velocidad de Internet del mundo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-instalar-populares-aplicaciones-linux-windows-11-1188340'>Cómo instalar populares aplicaciones de Linux en Windows 11</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-instalar-populares-aplicaciones-linux-windows-11-1188340' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/03/linux_0.jpg?tf=1200x' alt='Cómo instalar populares aplicaciones de Linux en Windows 11' />
+    <h4><a href='https://computerhoy.com/streaming/netflix-recula-cambiara-precio-miedo-exodo-clientes-1202218'>Netflix recula y cambiará sus precio por miedo a un éxodo de clientes</a></h4>
+    <a href='https://computerhoy.com/streaming/netflix-recula-cambiara-precio-miedo-exodo-clientes-1202218' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/te-cobrara-netflix-compartir-contrasena-anunciar-fin-primer-trimestre-2023-2933368.jpg?tf=1200x' alt='Netflix recula y cambiará sus precio por miedo a un éxodo de clientes' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/cierran-restaurante-3-estrellas-michelin-bill-gates-solo-toma-coca-cola-1202088'>Cierran un restaurante 3 estrellas Michelin para Bill Gates y solo se toma una Coca-Cola</a></h4>
-    <a href='https://computerhoy.com/life/cierran-restaurante-3-estrellas-michelin-bill-gates-solo-toma-coca-cola-1202088' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/bill-gates-warren-buffet-2959860.jpg?tf=1200x' alt='Cierran un restaurante 3 estrellas Michelin para Bill Gates y solo se toma una Coca-Cola' />
+    <h4><a href='https://computerhoy.com/streaming/expertos-tachan-chapuza-nuevo-sistema-control-cuentas-netflix-1202202'>Expertos tachan de chapuza el nuevo sistema de control de cuentas de Netflix</a></h4>
+    <a href='https://computerhoy.com/streaming/expertos-tachan-chapuza-nuevo-sistema-control-cuentas-netflix-1202202' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/netflix-2889718.jpg?tf=1200x' alt='Expertos tachan de chapuza el nuevo sistema de control de cuentas de Netflix' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/soluciones-ordenador-usa-100-gpu-windows-11-1197710'>Soluciones si tu ordenador usa el 100% de la GPU en Windows 11</a></h4>
-    <a href='https://computerhoy.com/tecnologia/soluciones-ordenador-usa-100-gpu-windows-11-1197710' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/02/gpu-1867157.jpg?tf=1200x' alt='Soluciones si tu ordenador usa el 100% de la GPU en Windows 11' />
+    <h4><a href='https://computerhoy.com/listas/tecnologia/mejores-teclados-ergonomicos-trabajar-puedes-comprar-2020-582617'>Los mejores teclados ergonómicos para trabajar que puedes comprar en 2023</a></h4>
+    <a href='https://computerhoy.com/listas/tecnologia/mejores-teclados-ergonomicos-trabajar-puedes-comprar-2020-582617' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/logitech-ergo-k860-2957394.jpg?tf=1200x' alt='Los mejores teclados ergonómicos para trabajar que puedes comprar en 2023' />
     </a>
 </div>
 
