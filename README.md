@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/alternativas-baratas-cable-apple-thunderbolt-4-pro-1024961'>Estas son las mejores alternativas baratas al cable USB-C Thunderbolt 4 de Apple</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/alternativas-baratas-cable-apple-thunderbolt-4-pro-1024961' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/cable-thunderbolt-4-belkin-2957504.jpg?tf=1200x' alt='Estas son las mejores alternativas baratas al cable USB-C Thunderbolt 4 de Apple' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/quien-sam-altman-hombre-detras-openai-herramientas-como-chatgpt-dalle-2-1199248'>Quién es Sam Altman, el hombre detrás de OpenAI y herramientas como ChatGPT o DALL·E 2 </a></h4>
+    <a href='https://computerhoy.com/tecnologia/quien-sam-altman-hombre-detras-openai-herramientas-como-chatgpt-dalle-2-1199248' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/quien-sam-altman-hombre-detras-openai-herramientas-como-chatgpt-dalle-2-2956636.jpg?tf=1200x' alt='Quién es Sam Altman, el hombre detrás de OpenAI y herramientas como ChatGPT o DALL·E 2 ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/gaming/7-juegos-ps4-son-muy-baratos-siguen-mereciendo-bastante-pena-1021217'>7 juegos de PS4 que son muy baratos y siguen mereciendo bastante la pena</a></h4>
+    <a href='https://computerhoy.com/reportajes/gaming/7-juegos-ps4-son-muy-baratos-siguen-mereciendo-bastante-pena-1021217' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/dualshock-red-dead-redemption-2-2958326.jpg?tf=1200x' alt='7 juegos de PS4 que son muy baratos y siguen mereciendo bastante la pena' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciencia/calendario-lunar-2023-cuando-cambia-luna-fase-1202470'>Calendario Lunar 2023: cuándo cambia la Luna de fase</a></h4>
     <a href='https://computerhoy.com/ciencia/calendario-lunar-2023-cuando-cambia-luna-fase-1202470' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/calendario-lunar-2023-cuando-cambia-luna-fase-2960396.jpg?tf=1200x' alt='Calendario Lunar 2023: cuándo cambia la Luna de fase' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/elon-musk-fundador-openai-fastidia-mucho-ha-convertido-chatgpt-1202468'>A Elon Musk, fundador de OpenAI, le fastidia mucho en qué se ha convertido ChatGPT </a></h4>
     <a href='https://computerhoy.com/tecnologia/elon-musk-fundador-openai-fastidia-mucho-ha-convertido-chatgpt-1202468' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/elon-musk-2795405.jpg?tf=1200x' alt='A Elon Musk, fundador de OpenAI, le fastidia mucho en qué se ha convertido ChatGPT ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/radio-inteligente-pantalla-compatible-android-carplay-descuento-1202242'>Esta radio inteligente con pantalla es compatible con Android y CarPlay de Apple, y lee hasta la presión de los neumáticos</a></h4>
-    <a href='https://computerhoy.com/motor/radio-inteligente-pantalla-compatible-android-carplay-descuento-1202242' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/radio-inteligente-pantalla-compatible-android-carplay-lee-presion-neumaticos-2960182.jpg?tf=1200x' alt='Esta radio inteligente con pantalla es compatible con Android y CarPlay de Apple, y lee hasta la presión de los neumáticos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/the-last-of-us-serie-mas-vista-hbo-max-1202236'>La Casa del dragón ya no es la serie más vista de HBO Max en el último año</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/the-last-of-us-serie-mas-vista-hbo-max-1202236' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/last-us-arrasa-historia-hbo-max-supero-estreno-casa-dragon-2960174.jpg?tf=1200x' alt='La Casa del dragón ya no es la serie más vista de HBO Max en el último año' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/redes-sociales/ue-obliga-redes-sociales-revelar-numero-usuarios-europa-aqui-tenemos-1202222'>La UE obliga a las redes sociales a revelar su número de usuarios en Europa, aquí los tenemos</a></h4>
-    <a href='https://computerhoy.com/redes-sociales/ue-obliga-redes-sociales-revelar-numero-usuarios-europa-aqui-tenemos-1202222' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/7-senales-comportamiento-redes-sociales-no-saludable-2868471.jpg?tf=1200x' alt='La UE obliga a las redes sociales a revelar su número de usuarios en Europa, aquí los tenemos' />
     </a>
 </div>
 
