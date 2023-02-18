@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/5-formas-sencillas-pasar-fotos-movil-android-windows-1200274'>Las 5 formas más sencillas de pasar fotos de tu móvil Android a Windows</a></h4>
+    <a href='https://computerhoy.com/tutoriales/5-formas-sencillas-pasar-fotos-movil-android-windows-1200274' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/fotos-movil-android-2956106.jpg?tf=1200x' alt='Las 5 formas más sencillas de pasar fotos de tu móvil Android a Windows' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/motor/elonroad-carretera-recarga-coches-electricos-autonomia-infinita-video-1202484'>Elonroad, la carretera que recarga los coches eléctricos y promete autonomía infinita (vídeo)</a></h4>
+    <a href='https://computerhoy.com/motor/elonroad-carretera-recarga-coches-electricos-autonomia-infinita-video-1202484' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/verticalimage1676705883003-2960424.jpg?tf=1200x' alt='Elonroad, la carretera que recarga los coches eléctricos y promete autonomía infinita (vídeo)' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/streaming/netflix-lia-cuentas-compartidas-mientras-hbo-disney-comen-palomitas-1199268'>Netflix la lía con las cuentas compartidas mientras HBO y Disney comen palomitas</a></h4>
+    <a href='https://computerhoy.com/streaming/netflix-lia-cuentas-compartidas-mientras-hbo-disney-comen-palomitas-1199268' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/04/netflix-palomitas-1907149.jpg?tf=1200x' alt='Netflix la lía con las cuentas compartidas mientras HBO y Disney comen palomitas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/5-trucos-mejorar-modo-incognito-google-chrome-1199602'>5 trucos para mejorar el modo incógnito en Google Chrome</a></h4>
+    <a href='https://computerhoy.com/tecnologia/5-trucos-mejorar-modo-incognito-google-chrome-1199602' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/modo-incognito-chrome-2954836.jpg?tf=1200x' alt='5 trucos para mejorar el modo incógnito en Google Chrome' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/alternativas-baratas-cable-apple-thunderbolt-4-pro-1024961'>Estas son las mejores alternativas baratas al cable USB-C Thunderbolt 4 de Apple</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/alternativas-baratas-cable-apple-thunderbolt-4-pro-1024961' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/cable-thunderbolt-4-belkin-2957504.jpg?tf=1200x' alt='Estas son las mejores alternativas baratas al cable USB-C Thunderbolt 4 de Apple' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/quien-sam-altman-hombre-detras-openai-herramientas-como-chatgpt-dalle-2-1199248'>Quién es Sam Altman, el hombre detrás de OpenAI y herramientas como ChatGPT o DALL·E 2 </a></h4>
-    <a href='https://computerhoy.com/tecnologia/quien-sam-altman-hombre-detras-openai-herramientas-como-chatgpt-dalle-2-1199248' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/quien-sam-altman-hombre-detras-openai-herramientas-como-chatgpt-dalle-2-2956636.jpg?tf=1200x' alt='Quién es Sam Altman, el hombre detrás de OpenAI y herramientas como ChatGPT o DALL·E 2 ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/gaming/7-juegos-ps4-son-muy-baratos-siguen-mereciendo-bastante-pena-1021217'>7 juegos de PS4 que son muy baratos y siguen mereciendo bastante la pena</a></h4>
-    <a href='https://computerhoy.com/reportajes/gaming/7-juegos-ps4-son-muy-baratos-siguen-mereciendo-bastante-pena-1021217' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/dualshock-red-dead-redemption-2-2958326.jpg?tf=1200x' alt='7 juegos de PS4 que son muy baratos y siguen mereciendo bastante la pena' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/calendario-lunar-2023-cuando-cambia-luna-fase-1202470'>Calendario Lunar 2023: cuándo cambia la Luna de fase</a></h4>
-    <a href='https://computerhoy.com/ciencia/calendario-lunar-2023-cuando-cambia-luna-fase-1202470' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/calendario-lunar-2023-cuando-cambia-luna-fase-2960396.jpg?tf=1200x' alt='Calendario Lunar 2023: cuándo cambia la Luna de fase' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/elon-musk-fundador-openai-fastidia-mucho-ha-convertido-chatgpt-1202468'>A Elon Musk, fundador de OpenAI, le fastidia mucho en qué se ha convertido ChatGPT </a></h4>
-    <a href='https://computerhoy.com/tecnologia/elon-musk-fundador-openai-fastidia-mucho-ha-convertido-chatgpt-1202468' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/elon-musk-2795405.jpg?tf=1200x' alt='A Elon Musk, fundador de OpenAI, le fastidia mucho en qué se ha convertido ChatGPT ' />
     </a>
 </div>
 
