@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/calendario-lunar-2023-cuando-cambia-luna-fase-1202470'>Calendario Lunar 2023: cuándo cambia la Luna de fase</a></h4>
+    <a href='https://computerhoy.com/ciencia/calendario-lunar-2023-cuando-cambia-luna-fase-1202470' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/calendario-lunar-2023-cuando-cambia-luna-fase-2960396.jpg?tf=1200x' alt='Calendario Lunar 2023: cuándo cambia la Luna de fase' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/elon-musk-fundador-openai-fastidia-mucho-ha-convertido-chatgpt-1202468'>A Elon Musk, fundador de OpenAI, le fastidia mucho en qué se ha convertido ChatGPT </a></h4>
     <a href='https://computerhoy.com/tecnologia/elon-musk-fundador-openai-fastidia-mucho-ha-convertido-chatgpt-1202468' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/elon-musk-2795405.jpg?tf=1200x' alt='A Elon Musk, fundador de OpenAI, le fastidia mucho en qué se ha convertido ChatGPT ' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/redes-sociales/ue-obliga-redes-sociales-revelar-numero-usuarios-europa-aqui-tenemos-1202222'>La UE obliga a las redes sociales a revelar su número de usuarios en Europa, aquí los tenemos</a></h4>
     <a href='https://computerhoy.com/redes-sociales/ue-obliga-redes-sociales-revelar-numero-usuarios-europa-aqui-tenemos-1202222' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/7-senales-comportamiento-redes-sociales-no-saludable-2868471.jpg?tf=1200x' alt='La UE obliga a las redes sociales a revelar su número de usuarios en Europa, aquí los tenemos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/madrid-entra-top-ciudades-mejor-velocidad-internet-mundo-1202206'>Madrid entra en el top de ciudades con mejor velocidad de Internet del mundo</a></h4>
-    <a href='https://computerhoy.com/internet/madrid-entra-top-ciudades-mejor-velocidad-internet-mundo-1202206' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/conexion-internet-2960118.jpg?tf=1200x' alt='Madrid entra en el top de ciudades con mejor velocidad de Internet del mundo' />
     </a>
 </div>
 
