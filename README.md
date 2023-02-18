@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/restaurante-aprovecha-chatgpt-crear-recetas-pizzas-1202566'>Este restaurante aprovecha ChatGPT para crear recetas para sus pizzas</a></h4>
+    <a href='https://computerhoy.com/life/restaurante-aprovecha-chatgpt-crear-recetas-pizzas-1202566' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/restaurante-utiliza-chatgpt-recetas-pizzas-2960652.jpg?tf=1200x' alt='Este restaurante aprovecha ChatGPT para crear recetas para sus pizzas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/listas/hardware/mejores-portatiles-windows-10-menos-300-euros-76327'>Los mejores ordenadores portátiles baratos que puedes comprar en 2023</a></h4>
+    <a href='https://computerhoy.com/listas/hardware/mejores-portatiles-windows-10-menos-300-euros-76327' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/ordenador-portatil-2957146.jpg?tf=1200x' alt='Los mejores ordenadores portátiles baratos que puedes comprar en 2023' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/windows/veria-windows-11-2001-1202552'>Así se vería Windows 11 en 2001</a></h4>
     <a href='https://computerhoy.com/windows/veria-windows-11-2001-1202552' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/windows-11-2001-2960620.jpg?tf=1200x' alt='Así se vería Windows 11 en 2001' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/apps/whatsapp-comienza-implementar-soporte-imagen-imagen-videollamadas-iphone-1202542'>WhatsApp comienza a implementar el soporte imagen en imagen para videollamadas en el iPhone</a></h4>
     <a href='https://computerhoy.com/apps/whatsapp-comienza-implementar-soporte-imagen-imagen-videollamadas-iphone-1202542' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/videollamadas-whatsapp-2477423.jpg?tf=1200x' alt='WhatsApp comienza a implementar el soporte imagen en imagen para videollamadas en el iPhone' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/microsoft-limita-chat-inteligente-bing-evitar-interacciones-inapropiadas-1202530'>Microsoft limita el chat inteligente de Bing para evitar interacciones inapropiadas</a></h4>
-    <a href='https://computerhoy.com/apps/microsoft-limita-chat-inteligente-bing-evitar-interacciones-inapropiadas-1202530' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/bing-chatgpt-podria-llegar-google-chrome-otros-navegadores-antes-crees-2958236.jpg?tf=1200x' alt='Microsoft limita el chat inteligente de Bing para evitar interacciones inapropiadas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/seguridad-tiene-precio-twitter-empezara-cobrar-autenticacion-dos-pasos-1202524'>La seguridad tiene precio: Twitter empezará a cobrar por la autenticación en dos pasos</a></h4>
-    <a href='https://computerhoy.com/apps/seguridad-tiene-precio-twitter-empezara-cobrar-autenticacion-dos-pasos-1202524' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/elon-musk-2903170.jpg?tf=1200x' alt='La seguridad tiene precio: Twitter empezará a cobrar por la autenticación en dos pasos' />
     </a>
 </div>
 
