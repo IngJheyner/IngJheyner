@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/windows/veria-windows-11-2001-1202552'>Así se vería Windows 11 en 2001</a></h4>
+    <a href='https://computerhoy.com/windows/veria-windows-11-2001-1202552' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/windows-11-2001-2960620.jpg?tf=1200x' alt='Así se vería Windows 11 en 2001' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/razon-debes-irte-dormir-antes-invierno-ciencia-1202548'>La razón por la que debes irte a dormir antes en invierno, según la ciencia</a></h4>
+    <a href='https://computerhoy.com/life/razon-debes-irte-dormir-antes-invierno-ciencia-1202548' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/hombre-no-puede-dormir-2910632.jpg?tf=1200x' alt='La razón por la que debes irte a dormir antes en invierno, según la ciencia' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/whatsapp-comienza-implementar-soporte-imagen-imagen-videollamadas-iphone-1202542'>WhatsApp comienza a implementar el soporte imagen en imagen para videollamadas en el iPhone</a></h4>
+    <a href='https://computerhoy.com/apps/whatsapp-comienza-implementar-soporte-imagen-imagen-videollamadas-iphone-1202542' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/videollamadas-whatsapp-2477423.jpg?tf=1200x' alt='WhatsApp comienza a implementar el soporte imagen en imagen para videollamadas en el iPhone' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apps/microsoft-limita-chat-inteligente-bing-evitar-interacciones-inapropiadas-1202530'>Microsoft limita el chat inteligente de Bing para evitar interacciones inapropiadas</a></h4>
     <a href='https://computerhoy.com/apps/microsoft-limita-chat-inteligente-bing-evitar-interacciones-inapropiadas-1202530' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/bing-chatgpt-podria-llegar-google-chrome-otros-navegadores-antes-crees-2958236.jpg?tf=1200x' alt='Microsoft limita el chat inteligente de Bing para evitar interacciones inapropiadas' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/apps/seguridad-tiene-precio-twitter-empezara-cobrar-autenticacion-dos-pasos-1202524'>La seguridad tiene precio: Twitter empezará a cobrar por la autenticación en dos pasos</a></h4>
     <a href='https://computerhoy.com/apps/seguridad-tiene-precio-twitter-empezara-cobrar-autenticacion-dos-pasos-1202524' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/elon-musk-2903170.jpg?tf=1200x' alt='La seguridad tiene precio: Twitter empezará a cobrar por la autenticación en dos pasos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/7-series-ciencia-ficcion-muestran-genero-sigue-tan-vivo-como-siempre-1199786'>7 series de ciencia ficción que muestran que el género sigue tan vivo como siempre</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/7-series-ciencia-ficcion-muestran-genero-sigue-tan-vivo-como-siempre-1199786' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/7-series-ciencia-ficcion-muestran-genero-sigue-tan-vivo-como-siempre-2956658.jpg?tf=1200x' alt='7 series de ciencia ficción que muestran que el género sigue tan vivo como siempre' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/industria/sony-supera-canon-valor-ventas-objetivos-como-cambiando-mercado-fotografico-1199236'>Sony supera a Canon en valor de ventas de objetivos: ¿cómo está cambiando el mercado fotográfico?</a></h4>
-    <a href='https://computerhoy.com/industria/sony-supera-canon-valor-ventas-objetivos-como-cambiando-mercado-fotografico-1199236' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/canon-eos-r7-2710485.jpg?tf=1200x' alt='Sony supera a Canon en valor de ventas de objetivos: ¿cómo está cambiando el mercado fotográfico?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/5-formas-sencillas-pasar-fotos-movil-android-windows-1200274'>Las 5 formas más sencillas de pasar fotos de tu móvil Android a Windows</a></h4>
-    <a href='https://computerhoy.com/tutoriales/5-formas-sencillas-pasar-fotos-movil-android-windows-1200274' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/fotos-movil-android-2956106.jpg?tf=1200x' alt='Las 5 formas más sencillas de pasar fotos de tu móvil Android a Windows' />
     </a>
 </div>
 
