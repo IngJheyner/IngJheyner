@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/microsoft-limita-chat-inteligente-bing-evitar-interacciones-inapropiadas-1202530'>Microsoft limita el chat inteligente de Bing para evitar interacciones inapropiadas</a></h4>
+    <a href='https://computerhoy.com/apps/microsoft-limita-chat-inteligente-bing-evitar-interacciones-inapropiadas-1202530' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/bing-chatgpt-podria-llegar-google-chrome-otros-navegadores-antes-crees-2958236.jpg?tf=1200x' alt='Microsoft limita el chat inteligente de Bing para evitar interacciones inapropiadas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/seguridad-tiene-precio-twitter-empezara-cobrar-autenticacion-dos-pasos-1202524'>La seguridad tiene precio: Twitter empezará a cobrar por la autenticación en dos pasos</a></h4>
+    <a href='https://computerhoy.com/apps/seguridad-tiene-precio-twitter-empezara-cobrar-autenticacion-dos-pasos-1202524' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/elon-musk-2903170.jpg?tf=1200x' alt='La seguridad tiene precio: Twitter empezará a cobrar por la autenticación en dos pasos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/7-series-ciencia-ficcion-muestran-genero-sigue-tan-vivo-como-siempre-1199786'>7 series de ciencia ficción que muestran que el género sigue tan vivo como siempre</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/7-series-ciencia-ficcion-muestran-genero-sigue-tan-vivo-como-siempre-1199786' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/7-series-ciencia-ficcion-muestran-genero-sigue-tan-vivo-como-siempre-2956658.jpg?tf=1200x' alt='7 series de ciencia ficción que muestran que el género sigue tan vivo como siempre' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/industria/sony-supera-canon-valor-ventas-objetivos-como-cambiando-mercado-fotografico-1199236'>Sony supera a Canon en valor de ventas de objetivos: ¿cómo está cambiando el mercado fotográfico?</a></h4>
+    <a href='https://computerhoy.com/industria/sony-supera-canon-valor-ventas-objetivos-como-cambiando-mercado-fotografico-1199236' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/canon-eos-r7-2710485.jpg?tf=1200x' alt='Sony supera a Canon en valor de ventas de objetivos: ¿cómo está cambiando el mercado fotográfico?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tutoriales/5-formas-sencillas-pasar-fotos-movil-android-windows-1200274'>Las 5 formas más sencillas de pasar fotos de tu móvil Android a Windows</a></h4>
     <a href='https://computerhoy.com/tutoriales/5-formas-sencillas-pasar-fotos-movil-android-windows-1200274' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/fotos-movil-android-2956106.jpg?tf=1200x' alt='Las 5 formas más sencillas de pasar fotos de tu móvil Android a Windows' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/elonroad-carretera-recarga-coches-electricos-autonomia-infinita-video-1202484'>Elonroad, la carretera que recarga los coches eléctricos y promete autonomía infinita (vídeo)</a></h4>
-    <a href='https://computerhoy.com/motor/elonroad-carretera-recarga-coches-electricos-autonomia-infinita-video-1202484' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/verticalimage1676705883003-2960424.jpg?tf=1200x' alt='Elonroad, la carretera que recarga los coches eléctricos y promete autonomía infinita (vídeo)' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/streaming/netflix-lia-cuentas-compartidas-mientras-hbo-disney-comen-palomitas-1199268'>Netflix la lía con las cuentas compartidas mientras HBO y Disney comen palomitas</a></h4>
-    <a href='https://computerhoy.com/streaming/netflix-lia-cuentas-compartidas-mientras-hbo-disney-comen-palomitas-1199268' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/04/netflix-palomitas-1907149.jpg?tf=1200x' alt='Netflix la lía con las cuentas compartidas mientras HBO y Disney comen palomitas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/5-trucos-mejorar-modo-incognito-google-chrome-1199602'>5 trucos para mejorar el modo incógnito en Google Chrome</a></h4>
-    <a href='https://computerhoy.com/tecnologia/5-trucos-mejorar-modo-incognito-google-chrome-1199602' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/modo-incognito-chrome-2954836.jpg?tf=1200x' alt='5 trucos para mejorar el modo incógnito en Google Chrome' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/alternativas-baratas-cable-apple-thunderbolt-4-pro-1024961'>Estas son las mejores alternativas baratas al cable USB-C Thunderbolt 4 de Apple</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/alternativas-baratas-cable-apple-thunderbolt-4-pro-1024961' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/cable-thunderbolt-4-belkin-2957504.jpg?tf=1200x' alt='Estas son las mejores alternativas baratas al cable USB-C Thunderbolt 4 de Apple' />
     </a>
 </div>
 
