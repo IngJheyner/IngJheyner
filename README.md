@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/fragata-estados-unidos-disparo-globo-espia-venus-1202008'>El día que una fragata de Estados Unidos disparó 300 proyectiles a un globo espía... que resultó ser Venus</a></h4>
+    <a href='https://computerhoy.com/life/fragata-estados-unidos-disparo-globo-espia-venus-1202008' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/dia-fragata-estados-unidos-disparo-300-proyectiles-globo-espia-resulto-ser-venus-2959618.jpg?tf=1200x' alt='El día que una fragata de Estados Unidos disparó 300 proyectiles a un globo espía... que resultó ser Venus' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/moviles/actualizacion-one-ui-51-samsung-causando-todos-estos-errores-galaxy-antiguos-1202572'>La actualización One UI 5.1 de Samsung está causando todos estos errores a los Galaxy antiguos</a></h4>
+    <a href='https://computerhoy.com/moviles/actualizacion-one-ui-51-samsung-causando-todos-estos-errores-galaxy-antiguos-1202572' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/android-samsung-galaxy-s23-ultra-2956306.jpg?tf=1200x' alt='La actualización One UI 5.1 de Samsung está causando todos estos errores a los Galaxy antiguos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/descubren-modos-secretos-chat-inteligente-bing-alguno-sorprendente-1202568'>Descubren modos secretos del chat inteligente de Bing y alguno es sorprendente</a></h4>
+    <a href='https://computerhoy.com/apps/descubren-modos-secretos-chat-inteligente-bing-alguno-sorprendente-1202568' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/chatbot-bing-2960656.jpg?tf=1200x' alt='Descubren modos secretos del chat inteligente de Bing y alguno es sorprendente' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/restaurante-aprovecha-chatgpt-crear-recetas-pizzas-1202566'>Este restaurante aprovecha ChatGPT para crear recetas para sus pizzas</a></h4>
     <a href='https://computerhoy.com/life/restaurante-aprovecha-chatgpt-crear-recetas-pizzas-1202566' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/restaurante-utiliza-chatgpt-recetas-pizzas-2960652.jpg?tf=1200x' alt='Este restaurante aprovecha ChatGPT para crear recetas para sus pizzas' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/listas/hardware/mejores-portatiles-windows-10-menos-300-euros-76327'>Los mejores ordenadores portátiles baratos que puedes comprar en 2023</a></h4>
     <a href='https://computerhoy.com/listas/hardware/mejores-portatiles-windows-10-menos-300-euros-76327' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/ordenador-portatil-2957146.jpg?tf=1200x' alt='Los mejores ordenadores portátiles baratos que puedes comprar en 2023' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/veria-windows-11-2001-1202552'>Así se vería Windows 11 en 2001</a></h4>
-    <a href='https://computerhoy.com/windows/veria-windows-11-2001-1202552' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/windows-11-2001-2960620.jpg?tf=1200x' alt='Así se vería Windows 11 en 2001' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/razon-debes-irte-dormir-antes-invierno-ciencia-1202548'>La razón por la que debes irte a dormir antes en invierno, según la ciencia</a></h4>
-    <a href='https://computerhoy.com/life/razon-debes-irte-dormir-antes-invierno-ciencia-1202548' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/hombre-no-puede-dormir-2910632.jpg?tf=1200x' alt='La razón por la que debes irte a dormir antes en invierno, según la ciencia' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/whatsapp-comienza-implementar-soporte-imagen-imagen-videollamadas-iphone-1202542'>WhatsApp comienza a implementar el soporte imagen en imagen para videollamadas en el iPhone</a></h4>
-    <a href='https://computerhoy.com/apps/whatsapp-comienza-implementar-soporte-imagen-imagen-videollamadas-iphone-1202542' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/videollamadas-whatsapp-2477423.jpg?tf=1200x' alt='WhatsApp comienza a implementar el soporte imagen en imagen para videollamadas en el iPhone' />
     </a>
 </div>
 
