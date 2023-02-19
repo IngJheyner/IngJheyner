@@ -50,9 +50,25 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/nba-escanear-cuerpo-3d-partido-directo-sustituir-jugador-1202896'>La NBA te dejará introducir tu cuerpo en un partido en directo, para sustituir a un jugador</a></h4>
+    <h4><a href='https://computerhoy.com/redes-sociales/meta-verified-suscripcion-insignia-azul-instagram-facebook-1202904'>Meta imita a Twitter y lanza la suscripción Meta Verified, para añadir la marca azul a las cuentas de Instagram y Facebook</a></h4>
+    <a href='https://computerhoy.com/redes-sociales/meta-verified-suscripcion-insignia-azul-instagram-facebook-1202904' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/meta-imita-twitter-lanza-suscripcion-meta-verified-anadir-marca-azul-cuentas-instagram-facebook-2961302.jpg?tf=1200x' alt='Meta imita a Twitter y lanza la suscripción Meta Verified, para añadir la marca azul a las cuentas de Instagram y Facebook' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/windows/instalar-windows-11-raspberry-pi-4-tiny11-arm-1202902'>Así puedes instalar Windows 11 en una Raspberry Pi 4, con Tiny11 para ARM</a></h4>
+    <a href='https://computerhoy.com/windows/instalar-windows-11-raspberry-pi-4-tiny11-arm-1202902' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/puedes-instalar-windows-11-raspberry-4-tiny11-2961268.jpg?tf=1200x' alt='Así puedes instalar Windows 11 en una Raspberry Pi 4, con Tiny11 para ARM' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/nba-escanear-cuerpo-3d-partido-directo-sustituir-jugador-1202896'>La NBA te deja introducir tu cuerpo en un partido en directo, para sustituir a un jugador</a></h4>
     <a href='https://computerhoy.com/life/nba-escanear-cuerpo-3d-partido-directo-sustituir-jugador-1202896' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/nba-va-permitir-introducir-cuerpo-partido-directo-sustituir-jugador-2961264.jpg?tf=1200x' alt='La NBA te dejará introducir tu cuerpo en un partido en directo, para sustituir a un jugador' />
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/nba-va-permitir-introducir-cuerpo-partido-directo-sustituir-jugador-2961264.jpg?tf=1200x' alt='La NBA te deja introducir tu cuerpo en un partido en directo, para sustituir a un jugador' />
     </a>
 </div>
 
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/internet/starlink-estrena-roaming-universal-internet-1202884'>Starlink estrena el roaming universal de Internet por 200 dólares al mes, pero no está claro cómo va a hacerlo</a></h4>
     <a href='https://computerhoy.com/internet/starlink-estrena-roaming-universal-internet-1202884' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/starlink-estrena-roaming-universal-internet-200-dolares-mes-pero-no-claro-como-va-hacerlo-2961248.jpg?tf=1200x' alt='Starlink estrena el roaming universal de Internet por 200 dólares al mes, pero no está claro cómo va a hacerlo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-automatizar-tareas-windows-power-automate-1196462'>Cómo automatizar tareas en Windows con Power Automate</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-automatizar-tareas-windows-power-automate-1196462' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/powee-automate-portatil-2948942.jpg?tf=1200x' alt='Cómo automatizar tareas en Windows con Power Automate' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/tim-berners-lee-creador-paginas-web-solid-blockchain-inteligencia-artificial-1202878'>El creador de las páginas web quiere que todos tengamos una IA personal que custodiará nuestros datos</a></h4>
-    <a href='https://computerhoy.com/internet/tim-berners-lee-creador-paginas-web-solid-blockchain-inteligencia-artificial-1202878' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/09/tim-berners-lee-creador-paginas-web-lanza-solid-nueva-internet-espias.jpg?tf=1200x' alt='El creador de las páginas web quiere que todos tengamos una IA personal que custodiará nuestros datos' />
     </a>
 </div>
 
