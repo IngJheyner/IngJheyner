@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/apple-habria-reducido-forma-significativa-pedido-procesadores-tsmc-1202860'>Apple habría reducido de forma significativa su pedido de procesadores a TSMC</a></h4>
+    <a href='https://computerhoy.com/apple/apple-habria-reducido-forma-significativa-pedido-procesadores-tsmc-1202860' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/chips-2643993.jpg?tf=1200x' alt='Apple habría reducido de forma significativa su pedido de procesadores a TSMC' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/llegan-fondos-virtuales-360-grados-videollamadas-google-meet-1202852'>Llegan los fondos virtuales de 360 grados a las videollamadas de Google Meet</a></h4>
+    <a href='https://computerhoy.com/apps/llegan-fondos-virtuales-360-grados-videollamadas-google-meet-1202852' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/google-meet-2786529.jpg?tf=1200x' alt='Llegan los fondos virtuales de 360 grados a las videollamadas de Google Meet' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/6-series-animacion-espanolas-pueden-romper-prejuicios-tengas-1201602'>6 series de animación españolas que pueden romper con los prejuicios que tengas</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/6-series-animacion-espanolas-pueden-romper-prejuicios-tengas-1201602' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/calico-electronico-2959016.jpg?tf=1200x' alt='6 series de animación españolas que pueden romper con los prejuicios que tengas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/whatsapp-estrena-nuevas-pegatinas-avatares-puedes-activarlas-1202842'>WhatsApp estrena nuevas pegatinas para los avatares y así puedes activarlas</a></h4>
+    <a href='https://computerhoy.com/apps/whatsapp-estrena-nuevas-pegatinas-avatares-puedes-activarlas-1202842' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/whatsapp-avatares-2961198.jpg?tf=1200x' alt='WhatsApp estrena nuevas pegatinas para los avatares y así puedes activarlas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/como-funciona-motor-busqueda-1194252'>¿Qué es y cómo funciona un motor de búsqueda?</a></h4>
     <a href='https://computerhoy.com/tecnologia/como-funciona-motor-busqueda-1194252' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/verticalimage1676639605016-2959896.jpg?tf=1200x' alt='¿Qué es y cómo funciona un motor de búsqueda?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/puedes-encontrar-eliminar-carpetas-vacias-windows-1192106'>Así puedes encontrar y eliminar carpetas vacías en Windows</a></h4>
-    <a href='https://computerhoy.com/tutoriales/puedes-encontrar-eliminar-carpetas-vacias-windows-1192106' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/odenador-carpetas-vacias-2941180.jpg?tf=1200x' alt='Así puedes encontrar y eliminar carpetas vacías en Windows' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/samsung-galaxy-s23-ultra-1202576'>Samsung Galaxy S23 Ultra, el nuevo buque insignia que suma muchas pequeñas mejoras</a></h4>
-    <a href='https://computerhoy.com/analisis/samsung-galaxy-s23-ultra-1202576' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/samsung-galaxy-s23-ultra-analisis-opinion-2961014.jpg?tf=1200x' alt='Samsung Galaxy S23 Ultra, el nuevo buque insignia que suma muchas pequeñas mejoras' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/gadget-mas-inutil-mundo-adivinas-que-es-1202796'>Thanko lamenta las pocas ventas del gadget más inútil del mundo: ¿adivinas para qué sirve?</a></h4>
-    <a href='https://computerhoy.com/life/gadget-mas-inutil-mundo-adivinas-que-es-1202796' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/fabricante-thanko-lamenta-pocas-ventas-gadget-inutil-mundo-2960664.jpg?tf=1200x' alt='Thanko lamenta las pocas ventas del gadget más inútil del mundo: ¿adivinas para qué sirve?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/portatiles-trabajar-hemos-probado-recomendamos-1008035'>10 portátiles para trabajar que hemos probado y recomendamos</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/portatiles-trabajar-hemos-probado-recomendamos-1008035' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/dell-xps-13-plus-9320-analisis-opinion-2946806.jpg?tf=1200x' alt='10 portátiles para trabajar que hemos probado y recomendamos' />
     </a>
 </div>
 
