@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/como-funciona-motor-busqueda-1194252'>¿Qué es y cómo funciona un motor de búsqueda?</a></h4>
+    <a href='https://computerhoy.com/tecnologia/como-funciona-motor-busqueda-1194252' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/verticalimage1676639605016-2959896.jpg?tf=1200x' alt='¿Qué es y cómo funciona un motor de búsqueda?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/puedes-encontrar-eliminar-carpetas-vacias-windows-1192106'>Así puedes encontrar y eliminar carpetas vacías en Windows</a></h4>
+    <a href='https://computerhoy.com/tutoriales/puedes-encontrar-eliminar-carpetas-vacias-windows-1192106' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/odenador-carpetas-vacias-2941180.jpg?tf=1200x' alt='Así puedes encontrar y eliminar carpetas vacías en Windows' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/analisis/samsung-galaxy-s23-ultra-1202576'>Samsung Galaxy S23 Ultra, el nuevo buque insignia que suma muchas pequeñas mejoras</a></h4>
+    <a href='https://computerhoy.com/analisis/samsung-galaxy-s23-ultra-1202576' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/samsung-galaxy-s23-ultra-analisis-opinion-2961014.jpg?tf=1200x' alt='Samsung Galaxy S23 Ultra, el nuevo buque insignia que suma muchas pequeñas mejoras' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/gadget-mas-inutil-mundo-adivinas-que-es-1202796'>Thanko lamenta las pocas ventas del gadget más inútil del mundo: ¿adivinas para qué sirve?</a></h4>
+    <a href='https://computerhoy.com/life/gadget-mas-inutil-mundo-adivinas-que-es-1202796' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/fabricante-thanko-lamenta-pocas-ventas-gadget-inutil-mundo-2960664.jpg?tf=1200x' alt='Thanko lamenta las pocas ventas del gadget más inútil del mundo: ¿adivinas para qué sirve?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/portatiles-trabajar-hemos-probado-recomendamos-1008035'>10 portátiles para trabajar que hemos probado y recomendamos</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/portatiles-trabajar-hemos-probado-recomendamos-1008035' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/dell-xps-13-plus-9320-analisis-opinion-2946806.jpg?tf=1200x' alt='10 portátiles para trabajar que hemos probado y recomendamos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/crean-excentrico-robot-forma-arana-tambien-puede-volar-1202570'>Crean un excéntrico robot con forma de araña que también puede volar</a></h4>
-    <a href='https://computerhoy.com/ciencia/crean-excentrico-robot-forma-arana-tambien-puede-volar-1202570' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/spidar-2960660.jpg?tf=1200x' alt='Crean un excéntrico robot con forma de araña que también puede volar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/diferencian-archivos-exe-msi-1193412'>¿En qué se diferencian los archivos .EXE de los .MSI?</a></h4>
-    <a href='https://computerhoy.com/tecnologia/diferencian-archivos-exe-msi-1193412' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/exe-vs-msi-2943176.jpg?tf=1200x' alt='¿En qué se diferencian los archivos .EXE de los .MSI?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/tecnica-militar-exclusiva-ejercito-estados-unidos-quedarse-dormido-2-minutos-1202574'>La técnica militar exclusiva del ejército de los Estados Unidos para quedarse dormido en 2 minutos</a></h4>
-    <a href='https://computerhoy.com/life/tecnica-militar-exclusiva-ejercito-estados-unidos-quedarse-dormido-2-minutos-1202574' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/hombre-dormido-libro-2960662.jpg?tf=1200x' alt='La técnica militar exclusiva del ejército de los Estados Unidos para quedarse dormido en 2 minutos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/gaming/accesorios-imprescindibles-ps5-981831'>10 accesorios imprescindibles para tu PS5 si ya has conseguido comprar una</a></h4>
-    <a href='https://computerhoy.com/reportajes/gaming/accesorios-imprescindibles-ps5-981831' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/ps5-playstation-5-2944466.jpg?tf=1200x' alt='10 accesorios imprescindibles para tu PS5 si ya has conseguido comprar una' />
     </a>
 </div>
 
