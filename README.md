@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/internet/tim-berners-lee-creador-paginas-web-solid-blockchain-inteligencia-artificial-1202878'>El creador de las páginas web quiere que todos tengamos una IA personal que custodiará nuestros datos</a></h4>
+    <a href='https://computerhoy.com/internet/tim-berners-lee-creador-paginas-web-solid-blockchain-inteligencia-artificial-1202878' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/09/tim-berners-lee-creador-paginas-web-lanza-solid-nueva-internet-espias.jpg?tf=1200x' alt='El creador de las páginas web quiere que todos tengamos una IA personal que custodiará nuestros datos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/google-no-encuentra-forma-resolver-fallos-problematicos-android-auto-1202870'>Google no encuentra forma de resolver uno de los fallos más problemáticos de Android Auto</a></h4>
+    <a href='https://computerhoy.com/apps/google-no-encuentra-forma-resolver-fallos-problematicos-android-auto-1202870' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/android-auto-2575823.jpg?tf=1200x' alt='Google no encuentra forma de resolver uno de los fallos más problemáticos de Android Auto' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/internet/google-chrome-ya-implementando-esperados-modos-memoria-ahorro-energia-todos-usuarios-1202866'>Google Chrome ya está implementando sus esperados modos de memoria y ahorro de energía para todos los usuarios</a></h4>
+    <a href='https://computerhoy.com/internet/google-chrome-ya-implementando-esperados-modos-memoria-ahorro-energia-todos-usuarios-1202866' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/google-chrome-2897360.jpg?tf=1200x' alt='Google Chrome ya está implementando sus esperados modos de memoria y ahorro de energía para todos los usuarios' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apple/apple-habria-reducido-forma-significativa-pedido-procesadores-tsmc-1202860'>Apple habría reducido de forma significativa su pedido de procesadores a TSMC</a></h4>
     <a href='https://computerhoy.com/apple/apple-habria-reducido-forma-significativa-pedido-procesadores-tsmc-1202860' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/chips-2643993.jpg?tf=1200x' alt='Apple habría reducido de forma significativa su pedido de procesadores a TSMC' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/apps/llegan-fondos-virtuales-360-grados-videollamadas-google-meet-1202852'>Llegan los fondos virtuales de 360 grados a las videollamadas de Google Meet</a></h4>
     <a href='https://computerhoy.com/apps/llegan-fondos-virtuales-360-grados-videollamadas-google-meet-1202852' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/google-meet-2786529.jpg?tf=1200x' alt='Llegan los fondos virtuales de 360 grados a las videollamadas de Google Meet' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/6-series-animacion-espanolas-pueden-romper-prejuicios-tengas-1201602'>6 series de animación españolas que pueden romper con los prejuicios que tengas</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/6-series-animacion-espanolas-pueden-romper-prejuicios-tengas-1201602' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/calico-electronico-2959016.jpg?tf=1200x' alt='6 series de animación españolas que pueden romper con los prejuicios que tengas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/whatsapp-estrena-nuevas-pegatinas-avatares-puedes-activarlas-1202842'>WhatsApp estrena nuevas pegatinas para los avatares y así puedes activarlas</a></h4>
-    <a href='https://computerhoy.com/apps/whatsapp-estrena-nuevas-pegatinas-avatares-puedes-activarlas-1202842' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/whatsapp-avatares-2961198.jpg?tf=1200x' alt='WhatsApp estrena nuevas pegatinas para los avatares y así puedes activarlas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/como-funciona-motor-busqueda-1194252'>¿Qué es y cómo funciona un motor de búsqueda?</a></h4>
-    <a href='https://computerhoy.com/tecnologia/como-funciona-motor-busqueda-1194252' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/verticalimage1676639605016-2959896.jpg?tf=1200x' alt='¿Qué es y cómo funciona un motor de búsqueda?' />
     </a>
 </div>
 
