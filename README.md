@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/fragata-estados-unidos-disparo-globo-espia-venus-1202008'>El día que una fragata de Estados Unidos disparó 300 proyectiles a un globo espía... que resultó ser Venus</a></h4>
-    <a href='https://computerhoy.com/life/fragata-estados-unidos-disparo-globo-espia-venus-1202008' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/dia-fragata-estados-unidos-disparo-300-proyectiles-globo-espia-resulto-ser-venus-2959618.jpg?tf=1200x' alt='El día que una fragata de Estados Unidos disparó 300 proyectiles a un globo espía... que resultó ser Venus' />
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/portatiles-trabajar-hemos-probado-recomendamos-1008035'>10 portátiles para trabajar que hemos probado y recomendamos</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/portatiles-trabajar-hemos-probado-recomendamos-1008035' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/dell-xps-13-plus-9320-analisis-opinion-2946806.jpg?tf=1200x' alt='10 portátiles para trabajar que hemos probado y recomendamos' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/actualizacion-one-ui-51-samsung-causando-todos-estos-errores-galaxy-antiguos-1202572'>La actualización One UI 5.1 de Samsung está causando todos estos errores a los Galaxy antiguos</a></h4>
-    <a href='https://computerhoy.com/moviles/actualizacion-one-ui-51-samsung-causando-todos-estos-errores-galaxy-antiguos-1202572' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/android-samsung-galaxy-s23-ultra-2956306.jpg?tf=1200x' alt='La actualización One UI 5.1 de Samsung está causando todos estos errores a los Galaxy antiguos' />
+    <h4><a href='https://computerhoy.com/ciencia/crean-excentrico-robot-forma-arana-tambien-puede-volar-1202570'>Crean un excéntrico robot con forma de araña que también puede volar</a></h4>
+    <a href='https://computerhoy.com/ciencia/crean-excentrico-robot-forma-arana-tambien-puede-volar-1202570' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/spidar-2960660.jpg?tf=1200x' alt='Crean un excéntrico robot con forma de araña que también puede volar' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/descubren-modos-secretos-chat-inteligente-bing-alguno-sorprendente-1202568'>Descubren modos secretos del chat inteligente de Bing y alguno es sorprendente</a></h4>
-    <a href='https://computerhoy.com/apps/descubren-modos-secretos-chat-inteligente-bing-alguno-sorprendente-1202568' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/chatbot-bing-2960656.jpg?tf=1200x' alt='Descubren modos secretos del chat inteligente de Bing y alguno es sorprendente' />
+    <h4><a href='https://computerhoy.com/tecnologia/diferencian-archivos-exe-msi-1193412'>¿En qué se diferencian los archivos .EXE de los .MSI?</a></h4>
+    <a href='https://computerhoy.com/tecnologia/diferencian-archivos-exe-msi-1193412' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/exe-vs-msi-2943176.jpg?tf=1200x' alt='¿En qué se diferencian los archivos .EXE de los .MSI?' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/restaurante-aprovecha-chatgpt-crear-recetas-pizzas-1202566'>Este restaurante aprovecha ChatGPT para crear recetas para sus pizzas</a></h4>
-    <a href='https://computerhoy.com/life/restaurante-aprovecha-chatgpt-crear-recetas-pizzas-1202566' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/restaurante-utiliza-chatgpt-recetas-pizzas-2960652.jpg?tf=1200x' alt='Este restaurante aprovecha ChatGPT para crear recetas para sus pizzas' />
+    <h4><a href='https://computerhoy.com/life/tecnica-militar-exclusiva-ejercito-estados-unidos-quedarse-dormido-2-minutos-1202574'>La técnica militar exclusiva del ejército de los Estados Unidos para quedarse dormido en 2 minutos</a></h4>
+    <a href='https://computerhoy.com/life/tecnica-militar-exclusiva-ejercito-estados-unidos-quedarse-dormido-2-minutos-1202574' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/hombre-dormido-libro-2960662.jpg?tf=1200x' alt='La técnica militar exclusiva del ejército de los Estados Unidos para quedarse dormido en 2 minutos' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/listas/hardware/mejores-portatiles-windows-10-menos-300-euros-76327'>Los mejores ordenadores portátiles baratos que puedes comprar en 2023</a></h4>
-    <a href='https://computerhoy.com/listas/hardware/mejores-portatiles-windows-10-menos-300-euros-76327' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/ordenador-portatil-2957146.jpg?tf=1200x' alt='Los mejores ordenadores portátiles baratos que puedes comprar en 2023' />
+    <h4><a href='https://computerhoy.com/reportajes/gaming/accesorios-imprescindibles-ps5-981831'>10 accesorios imprescindibles para tu PS5 si ya has conseguido comprar una</a></h4>
+    <a href='https://computerhoy.com/reportajes/gaming/accesorios-imprescindibles-ps5-981831' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/ps5-playstation-5-2944466.jpg?tf=1200x' alt='10 accesorios imprescindibles para tu PS5 si ya has conseguido comprar una' />
     </a>
 </div>
 
