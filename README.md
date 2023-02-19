@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/nba-escanear-cuerpo-3d-partido-directo-sustituir-jugador-1202896'>La NBA te dejará introducir tu cuerpo en un partido en directo, para sustituir a un jugador</a></h4>
+    <a href='https://computerhoy.com/life/nba-escanear-cuerpo-3d-partido-directo-sustituir-jugador-1202896' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/nba-va-permitir-introducir-cuerpo-partido-directo-sustituir-jugador-2961264.jpg?tf=1200x' alt='La NBA te dejará introducir tu cuerpo en un partido en directo, para sustituir a un jugador' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-camaras-360-puedes-comprar-1028969'>Mejores cámaras de 360º que puedes comprar</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-camaras-360-puedes-comprar-1028969' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/insta360-x3-2958502.jpg?tf=1200x' alt='Mejores cámaras de 360º que puedes comprar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/internet/starlink-estrena-roaming-universal-internet-1202884'>Starlink estrena el roaming universal de Internet por 200 dólares al mes, pero no está claro cómo va a hacerlo</a></h4>
+    <a href='https://computerhoy.com/internet/starlink-estrena-roaming-universal-internet-1202884' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/starlink-estrena-roaming-universal-internet-200-dolares-mes-pero-no-claro-como-va-hacerlo-2961248.jpg?tf=1200x' alt='Starlink estrena el roaming universal de Internet por 200 dólares al mes, pero no está claro cómo va a hacerlo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-automatizar-tareas-windows-power-automate-1196462'>Cómo automatizar tareas en Windows con Power Automate</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-automatizar-tareas-windows-power-automate-1196462' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/powee-automate-portatil-2948942.jpg?tf=1200x' alt='Cómo automatizar tareas en Windows con Power Automate' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/internet/tim-berners-lee-creador-paginas-web-solid-blockchain-inteligencia-artificial-1202878'>El creador de las páginas web quiere que todos tengamos una IA personal que custodiará nuestros datos</a></h4>
     <a href='https://computerhoy.com/internet/tim-berners-lee-creador-paginas-web-solid-blockchain-inteligencia-artificial-1202878' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/09/tim-berners-lee-creador-paginas-web-lanza-solid-nueva-internet-espias.jpg?tf=1200x' alt='El creador de las páginas web quiere que todos tengamos una IA personal que custodiará nuestros datos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/google-no-encuentra-forma-resolver-fallos-problematicos-android-auto-1202870'>Google no encuentra forma de resolver uno de los fallos más problemáticos de Android Auto</a></h4>
-    <a href='https://computerhoy.com/apps/google-no-encuentra-forma-resolver-fallos-problematicos-android-auto-1202870' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/android-auto-2575823.jpg?tf=1200x' alt='Google no encuentra forma de resolver uno de los fallos más problemáticos de Android Auto' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/google-chrome-ya-implementando-esperados-modos-memoria-ahorro-energia-todos-usuarios-1202866'>Google Chrome ya está implementando sus esperados modos de memoria y ahorro de energía para todos los usuarios</a></h4>
-    <a href='https://computerhoy.com/internet/google-chrome-ya-implementando-esperados-modos-memoria-ahorro-energia-todos-usuarios-1202866' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/google-chrome-2897360.jpg?tf=1200x' alt='Google Chrome ya está implementando sus esperados modos de memoria y ahorro de energía para todos los usuarios' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/apple-habria-reducido-forma-significativa-pedido-procesadores-tsmc-1202860'>Apple habría reducido de forma significativa su pedido de procesadores a TSMC</a></h4>
-    <a href='https://computerhoy.com/apple/apple-habria-reducido-forma-significativa-pedido-procesadores-tsmc-1202860' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/chips-2643993.jpg?tf=1200x' alt='Apple habría reducido de forma significativa su pedido de procesadores a TSMC' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/llegan-fondos-virtuales-360-grados-videollamadas-google-meet-1202852'>Llegan los fondos virtuales de 360 grados a las videollamadas de Google Meet</a></h4>
-    <a href='https://computerhoy.com/apps/llegan-fondos-virtuales-360-grados-videollamadas-google-meet-1202852' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/google-meet-2786529.jpg?tf=1200x' alt='Llegan los fondos virtuales de 360 grados a las videollamadas de Google Meet' />
     </a>
 </div>
 
