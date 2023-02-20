@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/truco-tiktok-no-pagar-equipaje-mano-aeropuerto-tiene-casi-3-millones-visitas-1203310'>Este truco de TikTok para no pagar por el equipaje de mano en el aeropuerto tiene casi 3 millones de visitas</a></h4>
+    <a href='https://computerhoy.com/life/truco-tiktok-no-pagar-equipaje-mano-aeropuerto-tiene-casi-3-millones-visitas-1203310' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/tiktok-viral-2961928.jpg?tf=1200x' alt='Este truco de TikTok para no pagar por el equipaje de mano en el aeropuerto tiene casi 3 millones de visitas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/entretenimiento/suscripcion-netflix-oculta-porque-beneficiosa-ti-ahora-no-puedes-compartir-cuenta-1203258'>La suscripción que Netflix oculta porque es más beneficiosa para ti ahora que no puedes compartir cuenta</a></h4>
     <a href='https://computerhoy.com/entretenimiento/suscripcion-netflix-oculta-porque-beneficiosa-ti-ahora-no-puedes-compartir-cuenta-1203258' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/netflix-2944082.jpg?tf=1200x' alt='La suscripción que Netflix oculta porque es más beneficiosa para ti ahora que no puedes compartir cuenta' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/apps/cuidado-porque-whatsapp-podria-bloquear-cuenta-tienes-instalada-alguna-estas-aplicaciones-1203182'>Cuidado porque WhatsApp podría bloquear tu cuenta si tienes instalada alguna de estas aplicaciones</a></h4>
     <a href='https://computerhoy.com/apps/cuidado-porque-whatsapp-podria-bloquear-cuenta-tienes-instalada-alguna-estas-aplicaciones-1203182' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/cuidado-porque-whatsapp-podria-bloquear-cuenta-tienes-instalada-alguna-estas-aplicaciones-2961712.jpg?tf=1200x' alt='Cuidado porque WhatsApp podría bloquear tu cuenta si tienes instalada alguna de estas aplicaciones' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/android/ya-puedes-probar-android-auto-90-estas-son-novedades-1203144'>Ya puedes probar Android Auto 9.0 y éstas son sus novedades</a></h4>
-    <a href='https://computerhoy.com/android/ya-puedes-probar-android-auto-90-estas-son-novedades-1203144' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/android-auto-coolwalk-2870275.jpg?tf=1200x' alt='Ya puedes probar Android Auto 9.0 y éstas son sus novedades' />
     </a>
 </div>
 
