@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/suscripcion-netflix-oculta-porque-beneficiosa-ti-ahora-no-puedes-compartir-cuenta-1203258'>La suscripción que Netflix oculta porque es más beneficiosa para ti ahora que no puedes compartir cuenta</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/suscripcion-netflix-oculta-porque-beneficiosa-ti-ahora-no-puedes-compartir-cuenta-1203258' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/netflix-2944082.jpg?tf=1200x' alt='La suscripción que Netflix oculta porque es más beneficiosa para ti ahora que no puedes compartir cuenta' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/android/resolucion-google-moviles-android-india-podria-afectar-resto-mundo-1203260'>La resolución en contra de Google y sus móviles Android en la India podría afectar al resto del mundo</a></h4>
+    <a href='https://computerhoy.com/android/resolucion-google-moviles-android-india-podria-afectar-resto-mundo-1203260' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/resolucion-google-moviles-android-india-podria-afectar-resto-mundo-2961836.jpg?tf=1200x' alt='La resolución en contra de Google y sus móviles Android en la India podría afectar al resto del mundo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/google/trucos-google-maps-2023-debes-conocer-ya-1203202'>Los trucos de Google Maps en 2023 que debes conocer ya</a></h4>
+    <a href='https://computerhoy.com/google/trucos-google-maps-2023-debes-conocer-ya-1203202' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/google-maps-2961754.jpg?tf=1200x' alt='Los trucos de Google Maps en 2023 que debes conocer ya' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/cuidado-porque-whatsapp-podria-bloquear-cuenta-tienes-instalada-alguna-estas-aplicaciones-1203182'>Cuidado porque WhatsApp podría bloquear tu cuenta si tienes instalada alguna de estas aplicaciones</a></h4>
+    <a href='https://computerhoy.com/apps/cuidado-porque-whatsapp-podria-bloquear-cuenta-tienes-instalada-alguna-estas-aplicaciones-1203182' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/cuidado-porque-whatsapp-podria-bloquear-cuenta-tienes-instalada-alguna-estas-aplicaciones-2961712.jpg?tf=1200x' alt='Cuidado porque WhatsApp podría bloquear tu cuenta si tienes instalada alguna de estas aplicaciones' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/android/ya-puedes-probar-android-auto-90-estas-son-novedades-1203144'>Ya puedes probar Android Auto 9.0 y éstas son sus novedades</a></h4>
     <a href='https://computerhoy.com/android/ya-puedes-probar-android-auto-90-estas-son-novedades-1203144' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/android-auto-coolwalk-2870275.jpg?tf=1200x' alt='Ya puedes probar Android Auto 9.0 y éstas son sus novedades' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/7-indicadores-placa-base-mac-falla-1185754'>7 indicadores de que la placa base de tu Mac falla</a></h4>
-    <a href='https://computerhoy.com/tecnologia/7-indicadores-placa-base-mac-falla-1185754' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/macbook-interior-2930170.jpg?tf=1200x' alt='7 indicadores de que la placa base de tu Mac falla' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/redes-sociales/como-redes-sociales-benefician-pero-tambien-perjudican-adolescentes-1203152'>Así es como las redes sociales benefician pero también perjudican a los adolescentes</a></h4>
-    <a href='https://computerhoy.com/redes-sociales/como-redes-sociales-benefician-pero-tambien-perjudican-adolescentes-1203152' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/como-redes-sociales-benefician-perjudican-adolescentes-2961688.jpg?tf=1200x' alt='Así es como las redes sociales benefician pero también perjudican a los adolescentes' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/camara-reflex-canon-eos-2000d-oferta-objetivo-gratis-1201402'>Esta cámara réflex Canon es perfecta para principiantes y tiene un precio sorprendentemente barato</a></h4>
-    <a href='https://computerhoy.com/tecnologia/camara-reflex-canon-eos-2000d-oferta-objetivo-gratis-1201402' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/camara-canon-2958388.jpg?tf=1200x' alt='Esta cámara réflex Canon es perfecta para principiantes y tiene un precio sorprendentemente barato' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/windows-11-actualiza-hacernos-vida-facil-liberando-ram-1203128'>Windows 11 se actualiza para hacernos la vida más fácil liberando RAM</a></h4>
-    <a href='https://computerhoy.com/windows/windows-11-actualiza-hacernos-vida-facil-liberando-ram-1203128' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/hombre-utilizando-portatil-windows-11-2848113.jpg?tf=1200x' alt='Windows 11 se actualiza para hacernos la vida más fácil liberando RAM' />
     </a>
 </div>
 
