@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/contrasenas-ya-no-son-seguras-deberiamos-despedirnos-ellas-2023-1202056'>Las contraseñas ya no son seguras: ¿deberíamos despedirnos de ellas en 2023?</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/contrasenas-ya-no-son-seguras-deberiamos-despedirnos-ellas-2023-1202056' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/contrasenas-ya-no-son-seguras-deberiamos-despedirnos-ellas-2023-2959824.jpg?tf=1200x' alt='Las contraseñas ya no son seguras: ¿deberíamos despedirnos de ellas en 2023?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/35-noticias-tecnologia-comenzar-manana-informado-ultimo-1203098'>36 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
+    <a href='https://computerhoy.com/tecnologia/35-noticias-tecnologia-comenzar-manana-informado-ultimo-1203098' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/35-noticias-tecnologia-comenzar-manana-informado-ultimo-2961508.jpg?tf=1200x' alt='36 noticias de tecnología para comenzar la mañana informado de lo último' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/mejores/ratones-ergonomicos-1195722'>Qué debes tener en cuenta a la hora de comprar un ratón ergonómico y mejores modelos</a></h4>
     <a href='https://computerhoy.com/mejores/ratones-ergonomicos-1195722' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/logitech-mx-mechanical-mx-master-3s-analisis-opinion-2784257.jpg?tf=1200x' alt='Qué debes tener en cuenta a la hora de comprar un ratón ergonómico y mejores modelos' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/windows/instalar-windows-11-raspberry-pi-4-tiny11-arm-1202902'>Así puedes instalar Windows 11 en una Raspberry Pi 4, con Tiny11 para ARM</a></h4>
     <a href='https://computerhoy.com/windows/instalar-windows-11-raspberry-pi-4-tiny11-arm-1202902' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/puedes-instalar-windows-11-raspberry-4-tiny11-2961268.jpg?tf=1200x' alt='Así puedes instalar Windows 11 en una Raspberry Pi 4, con Tiny11 para ARM' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/nba-escanear-cuerpo-3d-partido-directo-sustituir-jugador-1202896'>La NBA te deja introducir tu cuerpo en un partido en directo, para sustituir a un jugador</a></h4>
-    <a href='https://computerhoy.com/life/nba-escanear-cuerpo-3d-partido-directo-sustituir-jugador-1202896' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/nba-va-permitir-introducir-cuerpo-partido-directo-sustituir-jugador-2961264.jpg?tf=1200x' alt='La NBA te deja introducir tu cuerpo en un partido en directo, para sustituir a un jugador' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-camaras-360-puedes-comprar-1028969'>Mejores cámaras de 360º que puedes comprar</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-camaras-360-puedes-comprar-1028969' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/insta360-x3-2958502.jpg?tf=1200x' alt='Mejores cámaras de 360º que puedes comprar' />
     </a>
 </div>
 
