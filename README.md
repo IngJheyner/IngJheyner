@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/mejores/ratones-ergonomicos-1195722'>Qué debes tener en cuenta a la hora de comprar un ratón ergonómico y mejores modelos</a></h4>
+    <a href='https://computerhoy.com/mejores/ratones-ergonomicos-1195722' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/logitech-mx-mechanical-mx-master-3s-analisis-opinion-2784257.jpg?tf=1200x' alt='Qué debes tener en cuenta a la hora de comprar un ratón ergonómico y mejores modelos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/redes-sociales/meta-verified-suscripcion-insignia-azul-instagram-facebook-1202904'>Meta imita a Twitter y lanza la suscripción Meta Verified, para añadir la marca azul a las cuentas de Instagram y Facebook</a></h4>
     <a href='https://computerhoy.com/redes-sociales/meta-verified-suscripcion-insignia-azul-instagram-facebook-1202904' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/meta-imita-twitter-lanza-suscripcion-meta-verified-anadir-marca-azul-cuentas-instagram-facebook-2961302.jpg?tf=1200x' alt='Meta imita a Twitter y lanza la suscripción Meta Verified, para añadir la marca azul a las cuentas de Instagram y Facebook' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-camaras-360-puedes-comprar-1028969'>Mejores cámaras de 360º que puedes comprar</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/mejores-camaras-360-puedes-comprar-1028969' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/insta360-x3-2958502.jpg?tf=1200x' alt='Mejores cámaras de 360º que puedes comprar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/starlink-estrena-roaming-universal-internet-1202884'>Starlink estrena el roaming universal de Internet por 200 dólares al mes, pero no está claro cómo va a hacerlo</a></h4>
-    <a href='https://computerhoy.com/internet/starlink-estrena-roaming-universal-internet-1202884' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/starlink-estrena-roaming-universal-internet-200-dolares-mes-pero-no-claro-como-va-hacerlo-2961248.jpg?tf=1200x' alt='Starlink estrena el roaming universal de Internet por 200 dólares al mes, pero no está claro cómo va a hacerlo' />
     </a>
 </div>
 
