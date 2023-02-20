@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/sin-novedad-en-el-frente-bafta-favorita-oscars-ya-disponible-netflix-1203448'>La película sobre la guerra que arrasó ayer en los BAFTA y es favorita a los Óscars, ya está disponible en Netflix</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/sin-novedad-en-el-frente-bafta-favorita-oscars-ya-disponible-netflix-1203448' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/verticalimage1676921762318-2962220.jpg?tf=1200x' alt='La película sobre la guerra que arrasó ayer en los BAFTA y es favorita a los Óscars, ya está disponible en Netflix' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/criptos/padres-internet-une-bill-gates-menosprecio-bitcoin-otras-criptomonedas-1203442'>Uno de los padres de Internet se une a Bill Gates en su menosprecio a Bitcoin y otras criptomonedas</a></h4>
+    <a href='https://computerhoy.com/criptos/padres-internet-une-bill-gates-menosprecio-bitcoin-otras-criptomonedas-1203442' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/tim-berners-lee-2962230.jpg?tf=1200x' alt='Uno de los padres de Internet se une a Bill Gates en su menosprecio a Bitcoin y otras criptomonedas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/motor/nueva-senal-dgt-provocando-avalancha-multas-1203440'>La nueva señal de la DGT que está provocando una avalancha de multas</a></h4>
+    <a href='https://computerhoy.com/motor/nueva-senal-dgt-provocando-avalancha-multas-1203440' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/senales-trafico-2962226.jpg?tf=1200x' alt='La nueva señal de la DGT que está provocando una avalancha de multas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/life/mejores-robots-aspiradores-hemos-probado-1097949'>Estos son los mejores robots aspiradores que hemos probado últimamente</a></h4>
     <a href='https://computerhoy.com/reportajes/life/mejores-robots-aspiradores-hemos-probado-1097949' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/roomba-j7-2851299.jpg?tf=1200x' alt='Estos son los mejores robots aspiradores que hemos probado últimamente' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/internet/que-me-va-lento-internet-problemas-habituales-internet-como-solucionarlos-73007'>¿Por qué me va lento Internet? Problemas habituales y cómo solucionarlos</a></h4>
     <a href='https://computerhoy.com/noticias/internet/que-me-va-lento-internet-problemas-habituales-internet-como-solucionarlos-73007' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2017/12/277719-internet-lento.jpg?tf=1200x' alt='¿Por qué me va lento Internet? Problemas habituales y cómo solucionarlos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/amazon/amazon-no-quiere-apps-terceros-fire-tv-impedira-instalen-1203384'>Amazon no quiere apps de terceros en sus Fire TV y así impedirá que se instalen</a></h4>
-    <a href='https://computerhoy.com/amazon/amazon-no-quiere-apps-terceros-fire-tv-impedira-instalen-1203384' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/review-amazon-fire-tv-stick-4k-max-2526589.jpg?tf=1200x' alt='Amazon no quiere apps de terceros en sus Fire TV y así impedirá que se instalen' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/camara-espia-desvela-imagenes-muchos-detalles-coche-electrico-xiaomi-1203348'>Una cámara espía desvela imágenes y muchos detalles del coche eléctrico de Xiaomi</a></h4>
-    <a href='https://computerhoy.com/motor/camara-espia-desvela-imagenes-muchos-detalles-coche-electrico-xiaomi-1203348' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/camara-espia-desvela-imagenes-muchos-detalles-coche-electrico-xiaomi-2962114.jpg?tf=1200x' alt='Una cámara espía desvela imágenes y muchos detalles del coche eléctrico de Xiaomi' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/inofensivo-gesto-muchos-conductores-coche-parado-destrozando-caja-cambios-1203364'>El “inofensivo” gesto de muchos conductores con el coche parado que está destrozando la caja de cambios</a></h4>
-    <a href='https://computerhoy.com/motor/inofensivo-gesto-muchos-conductores-coche-parado-destrozando-caja-cambios-1203364' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/palanca-cambios-ford-mustang-2427173.jpg?tf=1200x' alt='El “inofensivo” gesto de muchos conductores con el coche parado que está destrozando la caja de cambios' />
     </a>
 </div>
 
