@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/truco-tiktok-no-pagar-equipaje-mano-aeropuerto-tiene-casi-3-millones-visitas-1203310'>Este truco de TikTok para no pagar por el equipaje de mano en el aeropuerto tiene casi 3 millones de visitas</a></h4>
-    <a href='https://computerhoy.com/life/truco-tiktok-no-pagar-equipaje-mano-aeropuerto-tiene-casi-3-millones-visitas-1203310' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/tiktok-viral-2961928.jpg?tf=1200x' alt='Este truco de TikTok para no pagar por el equipaje de mano en el aeropuerto tiene casi 3 millones de visitas' />
+    <h4><a href='https://computerhoy.com/reportajes/life/mejores-robots-aspiradores-hemos-probado-1097949'>Estos son los mejores robots aspiradores que hemos probado últimamente</a></h4>
+    <a href='https://computerhoy.com/reportajes/life/mejores-robots-aspiradores-hemos-probado-1097949' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/roomba-j7-2851299.jpg?tf=1200x' alt='Estos son los mejores robots aspiradores que hemos probado últimamente' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/suscripcion-netflix-oculta-porque-beneficiosa-ti-ahora-no-puedes-compartir-cuenta-1203258'>La suscripción que Netflix oculta porque es más beneficiosa para ti ahora que no puedes compartir cuenta</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/suscripcion-netflix-oculta-porque-beneficiosa-ti-ahora-no-puedes-compartir-cuenta-1203258' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/netflix-2944082.jpg?tf=1200x' alt='La suscripción que Netflix oculta porque es más beneficiosa para ti ahora que no puedes compartir cuenta' />
+    <h4><a href='https://computerhoy.com/noticias/internet/que-me-va-lento-internet-problemas-habituales-internet-como-solucionarlos-73007'>¿Por qué me va lento Internet? Problemas habituales y cómo solucionarlos</a></h4>
+    <a href='https://computerhoy.com/noticias/internet/que-me-va-lento-internet-problemas-habituales-internet-como-solucionarlos-73007' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2017/12/277719-internet-lento.jpg?tf=1200x' alt='¿Por qué me va lento Internet? Problemas habituales y cómo solucionarlos' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/android/resolucion-google-moviles-android-india-podria-afectar-resto-mundo-1203260'>La resolución en contra de Google y sus móviles Android en la India podría afectar al resto del mundo</a></h4>
-    <a href='https://computerhoy.com/android/resolucion-google-moviles-android-india-podria-afectar-resto-mundo-1203260' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/resolucion-google-moviles-android-india-podria-afectar-resto-mundo-2961836.jpg?tf=1200x' alt='La resolución en contra de Google y sus móviles Android en la India podría afectar al resto del mundo' />
+    <h4><a href='https://computerhoy.com/amazon/amazon-no-quiere-apps-terceros-fire-tv-impedira-instalen-1203384'>Amazon no quiere apps de terceros en sus Fire TV y así impedirá que se instalen</a></h4>
+    <a href='https://computerhoy.com/amazon/amazon-no-quiere-apps-terceros-fire-tv-impedira-instalen-1203384' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/review-amazon-fire-tv-stick-4k-max-2526589.jpg?tf=1200x' alt='Amazon no quiere apps de terceros en sus Fire TV y así impedirá que se instalen' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/trucos-google-maps-2023-debes-conocer-ya-1203202'>Los trucos de Google Maps en 2023 que debes conocer ya</a></h4>
-    <a href='https://computerhoy.com/google/trucos-google-maps-2023-debes-conocer-ya-1203202' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/google-maps-2961754.jpg?tf=1200x' alt='Los trucos de Google Maps en 2023 que debes conocer ya' />
+    <h4><a href='https://computerhoy.com/motor/camara-espia-desvela-imagenes-muchos-detalles-coche-electrico-xiaomi-1203348'>Una cámara espía desvela imágenes y muchos detalles del coche eléctrico de Xiaomi</a></h4>
+    <a href='https://computerhoy.com/motor/camara-espia-desvela-imagenes-muchos-detalles-coche-electrico-xiaomi-1203348' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/camara-espia-desvela-imagenes-muchos-detalles-coche-electrico-xiaomi-2962114.jpg?tf=1200x' alt='Una cámara espía desvela imágenes y muchos detalles del coche eléctrico de Xiaomi' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/cuidado-porque-whatsapp-podria-bloquear-cuenta-tienes-instalada-alguna-estas-aplicaciones-1203182'>Cuidado porque WhatsApp podría bloquear tu cuenta si tienes instalada alguna de estas aplicaciones</a></h4>
-    <a href='https://computerhoy.com/apps/cuidado-porque-whatsapp-podria-bloquear-cuenta-tienes-instalada-alguna-estas-aplicaciones-1203182' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/cuidado-porque-whatsapp-podria-bloquear-cuenta-tienes-instalada-alguna-estas-aplicaciones-2961712.jpg?tf=1200x' alt='Cuidado porque WhatsApp podría bloquear tu cuenta si tienes instalada alguna de estas aplicaciones' />
+    <h4><a href='https://computerhoy.com/motor/inofensivo-gesto-muchos-conductores-coche-parado-destrozando-caja-cambios-1203364'>El “inofensivo” gesto de muchos conductores con el coche parado que está destrozando la caja de cambios</a></h4>
+    <a href='https://computerhoy.com/motor/inofensivo-gesto-muchos-conductores-coche-parado-destrozando-caja-cambios-1203364' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/palanca-cambios-ford-mustang-2427173.jpg?tf=1200x' alt='El “inofensivo” gesto de muchos conductores con el coche parado que está destrozando la caja de cambios' />
     </a>
 </div>
 
