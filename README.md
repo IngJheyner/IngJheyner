@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/contrasenas-ya-no-son-seguras-deberiamos-despedirnos-ellas-2023-1202056'>Las contraseñas ya no son seguras: ¿deberíamos despedirnos de ellas en 2023?</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/contrasenas-ya-no-son-seguras-deberiamos-despedirnos-ellas-2023-1202056' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/contrasenas-ya-no-son-seguras-deberiamos-despedirnos-ellas-2023-2959824.jpg?tf=1200x' alt='Las contraseñas ya no son seguras: ¿deberíamos despedirnos de ellas en 2023?' />
+    <h4><a href='https://computerhoy.com/android/ya-puedes-probar-android-auto-90-estas-son-novedades-1203144'>Ya puedes probar Android Auto 9.0 y éstas son sus novedades</a></h4>
+    <a href='https://computerhoy.com/android/ya-puedes-probar-android-auto-90-estas-son-novedades-1203144' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/android-auto-coolwalk-2870275.jpg?tf=1200x' alt='Ya puedes probar Android Auto 9.0 y éstas son sus novedades' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/35-noticias-tecnologia-comenzar-manana-informado-ultimo-1203098'>36 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
-    <a href='https://computerhoy.com/tecnologia/35-noticias-tecnologia-comenzar-manana-informado-ultimo-1203098' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/35-noticias-tecnologia-comenzar-manana-informado-ultimo-2961508.jpg?tf=1200x' alt='36 noticias de tecnología para comenzar la mañana informado de lo último' />
+    <h4><a href='https://computerhoy.com/tecnologia/7-indicadores-placa-base-mac-falla-1185754'>7 indicadores de que la placa base de tu Mac falla</a></h4>
+    <a href='https://computerhoy.com/tecnologia/7-indicadores-placa-base-mac-falla-1185754' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/macbook-interior-2930170.jpg?tf=1200x' alt='7 indicadores de que la placa base de tu Mac falla' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/mejores/ratones-ergonomicos-1195722'>Qué debes tener en cuenta a la hora de comprar un ratón ergonómico y mejores modelos</a></h4>
-    <a href='https://computerhoy.com/mejores/ratones-ergonomicos-1195722' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/logitech-mx-mechanical-mx-master-3s-analisis-opinion-2784257.jpg?tf=1200x' alt='Qué debes tener en cuenta a la hora de comprar un ratón ergonómico y mejores modelos' />
+    <h4><a href='https://computerhoy.com/redes-sociales/como-redes-sociales-benefician-pero-tambien-perjudican-adolescentes-1203152'>Así es como las redes sociales benefician pero también perjudican a los adolescentes</a></h4>
+    <a href='https://computerhoy.com/redes-sociales/como-redes-sociales-benefician-pero-tambien-perjudican-adolescentes-1203152' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/como-redes-sociales-benefician-perjudican-adolescentes-2961688.jpg?tf=1200x' alt='Así es como las redes sociales benefician pero también perjudican a los adolescentes' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/redes-sociales/meta-verified-suscripcion-insignia-azul-instagram-facebook-1202904'>Meta imita a Twitter y lanza la suscripción Meta Verified, para añadir la marca azul a las cuentas de Instagram y Facebook</a></h4>
-    <a href='https://computerhoy.com/redes-sociales/meta-verified-suscripcion-insignia-azul-instagram-facebook-1202904' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/meta-imita-twitter-lanza-suscripcion-meta-verified-anadir-marca-azul-cuentas-instagram-facebook-2961302.jpg?tf=1200x' alt='Meta imita a Twitter y lanza la suscripción Meta Verified, para añadir la marca azul a las cuentas de Instagram y Facebook' />
+    <h4><a href='https://computerhoy.com/tecnologia/camara-reflex-canon-eos-2000d-oferta-objetivo-gratis-1201402'>Esta cámara réflex Canon es perfecta para principiantes y tiene un precio sorprendentemente barato</a></h4>
+    <a href='https://computerhoy.com/tecnologia/camara-reflex-canon-eos-2000d-oferta-objetivo-gratis-1201402' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/camara-canon-2958388.jpg?tf=1200x' alt='Esta cámara réflex Canon es perfecta para principiantes y tiene un precio sorprendentemente barato' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/instalar-windows-11-raspberry-pi-4-tiny11-arm-1202902'>Así puedes instalar Windows 11 en una Raspberry Pi 4, con Tiny11 para ARM</a></h4>
-    <a href='https://computerhoy.com/windows/instalar-windows-11-raspberry-pi-4-tiny11-arm-1202902' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/puedes-instalar-windows-11-raspberry-4-tiny11-2961268.jpg?tf=1200x' alt='Así puedes instalar Windows 11 en una Raspberry Pi 4, con Tiny11 para ARM' />
+    <h4><a href='https://computerhoy.com/windows/windows-11-actualiza-hacernos-vida-facil-liberando-ram-1203128'>Windows 11 se actualiza para hacernos la vida más fácil liberando RAM</a></h4>
+    <a href='https://computerhoy.com/windows/windows-11-actualiza-hacernos-vida-facil-liberando-ram-1203128' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/hombre-utilizando-portatil-windows-11-2848113.jpg?tf=1200x' alt='Windows 11 se actualiza para hacernos la vida más fácil liberando RAM' />
     </a>
 </div>
 
