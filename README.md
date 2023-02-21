@@ -50,9 +50,25 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/sin-novedad-en-el-frente-bafta-favorita-oscars-ya-disponible-netflix-1203448'>La película sobre la guerra que arrasó ayer en los BAFTA y es favorita a los Óscars, ya está disponible en Netflix</a></h4>
+    <h4><a href='https://computerhoy.com/internet/microsoft-edge-estrena-vpn-gratis-red-privada-virtual-1203462'>Microsoft Edge estrena una nueva función que te hará plantearte abandonar Chrome, y no es ChatGPT</a></h4>
+    <a href='https://computerhoy.com/internet/microsoft-edge-estrena-vpn-gratis-red-privada-virtual-1203462' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/microsoft-edge-estrena-nueva-funcion-te-hara-plantearte-abandonar-chrome-no-chatgpt-2962264.jpg?tf=1200x' alt='Microsoft Edge estrena una nueva función que te hará plantearte abandonar Chrome, y no es ChatGPT' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/apple-mac-mini-m1-ssd-512-gb-buena-rebaja-1203456'>Este Apple Mac Mini con M1 y SSD de 512 GB tiene una buena rebaja</a></h4>
+    <a href='https://computerhoy.com/apple/apple-mac-mini-m1-ssd-512-gb-buena-rebaja-1203456' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/apple-mac-mini-2596071.jpg?tf=1200x' alt='Este Apple Mac Mini con M1 y SSD de 512 GB tiene una buena rebaja' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/sin-novedad-en-el-frente-bafta-favorita-oscars-ya-disponible-netflix-1203448'>La película sobre la guerra que ha arrasado en los BAFTA y es favorita a los Óscars, ya está disponible en Netflix</a></h4>
     <a href='https://computerhoy.com/entretenimiento/sin-novedad-en-el-frente-bafta-favorita-oscars-ya-disponible-netflix-1203448' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/verticalimage1676921762318-2962220.jpg?tf=1200x' alt='La película sobre la guerra que arrasó ayer en los BAFTA y es favorita a los Óscars, ya está disponible en Netflix' />
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/verticalimage1676921762318-2962220.jpg?tf=1200x' alt='La película sobre la guerra que ha arrasado en los BAFTA y es favorita a los Óscars, ya está disponible en Netflix' />
     </a>
 </div>
 
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/motor/nueva-senal-dgt-provocando-avalancha-multas-1203440'>La nueva señal de la DGT que está provocando una avalancha de multas</a></h4>
     <a href='https://computerhoy.com/motor/nueva-senal-dgt-provocando-avalancha-multas-1203440' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/senales-trafico-2962226.jpg?tf=1200x' alt='La nueva señal de la DGT que está provocando una avalancha de multas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/life/mejores-robots-aspiradores-hemos-probado-1097949'>Estos son los mejores robots aspiradores que hemos probado últimamente</a></h4>
-    <a href='https://computerhoy.com/reportajes/life/mejores-robots-aspiradores-hemos-probado-1097949' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/roomba-j7-2851299.jpg?tf=1200x' alt='Estos son los mejores robots aspiradores que hemos probado últimamente' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/internet/que-me-va-lento-internet-problemas-habituales-internet-como-solucionarlos-73007'>¿Por qué me va lento Internet? Problemas habituales y cómo solucionarlos</a></h4>
-    <a href='https://computerhoy.com/noticias/internet/que-me-va-lento-internet-problemas-habituales-internet-como-solucionarlos-73007' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2017/12/277719-internet-lento.jpg?tf=1200x' alt='¿Por qué me va lento Internet? Problemas habituales y cómo solucionarlos' />
     </a>
 </div>
 
