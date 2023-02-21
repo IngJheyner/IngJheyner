@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/hogar/rebajas-dyson-ofertas-record-1203242'>Rebajas Dyson: la marca más buscada, de ofertas récord solo hoy</a></h4>
-    <a href='https://computerhoy.com/hogar/rebajas-dyson-ofertas-record-1203242' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/dyson-v15-detect-absolute-2869515.jpg?tf=1200x' alt='Rebajas Dyson: la marca más buscada, de ofertas récord solo hoy' />
+    <h4><a href='https://computerhoy.com/analisis/review-honor-magic-5-lite-1198796'>Análisis del Honor Magic 5 Lite, un gama media en el cuerpo de un gama alta</a></h4>
+    <a href='https://computerhoy.com/analisis/review-honor-magic-5-lite-1198796' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/analisis-honor-magic-5-lite-2953622.jpg?tf=1200x' alt='Análisis del Honor Magic 5 Lite, un gama media en el cuerpo de un gama alta' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/5-mejores-cursos-gratuitos-inteligencia-artificial-1203708'>Los 5 mejores cursos gratuitos sobre Inteligencia Artificial</a></h4>
-    <a href='https://computerhoy.com/tecnologia/5-mejores-cursos-gratuitos-inteligencia-artificial-1203708' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/5-mejores-cursos-gratuitos-inteligencia-artificial-2962574.jpg?tf=1200x' alt='Los 5 mejores cursos gratuitos sobre Inteligencia Artificial' />
+    <h4><a href='https://computerhoy.com/tecnologia/reloj-inteligente-bueno-bonito-barato-amazfit-gtr-4-1203178'>Un reloj inteligente bueno, bonito y ahora más barato, de Amazfit y rebajado a 184 euros</a></h4>
+    <a href='https://computerhoy.com/tecnologia/reloj-inteligente-bueno-bonito-barato-amazfit-gtr-4-1203178' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/amazfit-gtr-4-analisis-opinion-2940016.jpg?tf=1200x' alt='Un reloj inteligente bueno, bonito y ahora más barato, de Amazfit y rebajado a 184 euros' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/llega-linux-62-ordenadores-apple-chip-m1-1203734'>Llega Linux 6.2 para los ordenadores Apple con el chip M1</a></h4>
-    <a href='https://computerhoy.com/pc/llega-linux-62-ordenadores-apple-chip-m1-1203734' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/linux-mac-2962606.jpg?tf=1200x' alt='Llega Linux 6.2 para los ordenadores Apple con el chip M1' />
+    <h4><a href='https://computerhoy.com/gaming/gran-turismo-7-ya-permite-ponerte-prueba-invencible-ia-conduccion-gt-sophy-1203802'>Gran Turismo 7 ya permite ponerte a prueba contra su “invencible” IA GT Sophy</a></h4>
+    <a href='https://computerhoy.com/gaming/gran-turismo-7-ya-permite-ponerte-prueba-invencible-ia-conduccion-gt-sophy-1203802' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/gran-turismo-7-ya-permite-ponerte-prueba-invencible-ia-gt-sophy-2962752.jpg?tf=1200x' alt='Gran Turismo 7 ya permite ponerte a prueba contra su “invencible” IA GT Sophy' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/son-sirven-nuevos-widgets-windows-11-1195116'>Así son y para qué sirven los nuevos Widgets de Windows 11</a></h4>
-    <a href='https://computerhoy.com/tutoriales/son-sirven-nuevos-widgets-windows-11-1195116' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/widgets-2946662.jpg?tf=1200x' alt='Así son y para qué sirven los nuevos Widgets de Windows 11' />
+    <h4><a href='https://computerhoy.com/apple/3-preguntas-steve-jobs-debes-responder-saber-eres-feliz-vida-1203778'>Las 3 preguntas de Steve Jobs que debes responder para saber si eres feliz en la vida</a></h4>
+    <a href='https://computerhoy.com/apple/3-preguntas-steve-jobs-debes-responder-saber-eres-feliz-vida-1203778' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/05/steve-jobs.jpg?tf=1200x' alt='Las 3 preguntas de Steve Jobs que debes responder para saber si eres feliz en la vida' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/callback-phishing-evolucion-ataques-ingenieria-social-deberias-conocer-1203278'>Qué es el "callback phishing": la evolución de los ataques de ingeniería social que deberías conocer</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/callback-phishing-evolucion-ataques-ingenieria-social-deberias-conocer-1203278' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/callback-phishing-evolucion-ataques-ingenieria-social-deberias-conocer-2961900.jpg?tf=1200x' alt='Qué es el "callback phishing": la evolución de los ataques de ingeniería social que deberías conocer' />
+    <h4><a href='https://computerhoy.com/patrocinado/honor-magic5-lite-destinado-crear-disfrutar-contenidos-streaming-1199820'>HONOR Magic5 Lite, destinado para crear y disfrutar de los contenidos en streaming</a></h4>
+    <a href='https://computerhoy.com/patrocinado/honor-magic5-lite-destinado-crear-disfrutar-contenidos-streaming-1199820' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/honor-magic-5-lite-destinado-crear-disfrutar-contenidos-streaming-2955542.jpg?tf=1200x' alt='HONOR Magic5 Lite, destinado para crear y disfrutar de los contenidos en streaming' />
     </a>
 </div>
 
