@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/temperaturas-ideales-tiene-funcionar-todo-hardware-pc-1203382'>Las temperaturas ideales a las que tiene que funcionar todo el hardware de tu PC</a></h4>
-    <a href='https://computerhoy.com/pc/temperaturas-ideales-tiene-funcionar-todo-hardware-pc-1203382' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/tarjeta-grafica-gigabyte-nvidia-pc-gaming-2810191.jpg?tf=1200x' alt='Las temperaturas ideales a las que tiene que funcionar todo el hardware de tu PC' />
+    <h4><a href='https://computerhoy.com/hogar/rebajas-dyson-ofertas-record-1203242'>Rebajas Dyson: la marca más buscada, de ofertas récord solo hoy</a></h4>
+    <a href='https://computerhoy.com/hogar/rebajas-dyson-ofertas-record-1203242' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/dyson-v15-detect-absolute-2869515.jpg?tf=1200x' alt='Rebajas Dyson: la marca más buscada, de ofertas récord solo hoy' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/23-noticias-tecnologia-comenzar-manana-informado-ultimo-1203686'>23 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
-    <a href='https://computerhoy.com/tecnologia/23-noticias-tecnologia-comenzar-manana-informado-ultimo-1203686' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/23-noticias-tecnologia-comenzar-manana-informado-ultimo-2962500.jpg?tf=1200x' alt='23 noticias de tecnología para comenzar la mañana informado de lo último' />
+    <h4><a href='https://computerhoy.com/tecnologia/5-mejores-cursos-gratuitos-inteligencia-artificial-1203708'>Los 5 mejores cursos gratuitos sobre Inteligencia Artificial</a></h4>
+    <a href='https://computerhoy.com/tecnologia/5-mejores-cursos-gratuitos-inteligencia-artificial-1203708' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/5-mejores-cursos-gratuitos-inteligencia-artificial-2962574.jpg?tf=1200x' alt='Los 5 mejores cursos gratuitos sobre Inteligencia Artificial' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/arma-secreta-apple-limpiar-pantallas-1203234'>Este es el arma secreta de Apple para limpiar millones de huellas de sus móviles</a></h4>
-    <a href='https://computerhoy.com/tecnologia/arma-secreta-apple-limpiar-pantallas-1203234' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/whoosh-2961766.jpg?tf=1200x' alt='Este es el arma secreta de Apple para limpiar millones de huellas de sus móviles' />
+    <h4><a href='https://computerhoy.com/pc/llega-linux-62-ordenadores-apple-chip-m1-1203734'>Llega Linux 6.2 para los ordenadores Apple con el chip M1</a></h4>
+    <a href='https://computerhoy.com/pc/llega-linux-62-ordenadores-apple-chip-m1-1203734' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/linux-mac-2962606.jpg?tf=1200x' alt='Llega Linux 6.2 para los ordenadores Apple con el chip M1' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/znie-lite-dispositivo-hackea-ondas-cerebrales-ayuda-dormir-video-1203674'>Znie Lite, el dispositivo que hackea tus ondas cerebrales para ayudarte a dormir (vídeo)</a></h4>
-    <a href='https://computerhoy.com/life/znie-lite-dispositivo-hackea-ondas-cerebrales-ayuda-dormir-video-1203674' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/verticalimage1676947859863-2962488.jpg?tf=1200x' alt='Znie Lite, el dispositivo que hackea tus ondas cerebrales para ayudarte a dormir (vídeo)' />
+    <h4><a href='https://computerhoy.com/tutoriales/son-sirven-nuevos-widgets-windows-11-1195116'>Así son y para qué sirven los nuevos Widgets de Windows 11</a></h4>
+    <a href='https://computerhoy.com/tutoriales/son-sirven-nuevos-widgets-windows-11-1195116' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/widgets-2946662.jpg?tf=1200x' alt='Así son y para qué sirven los nuevos Widgets de Windows 11' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/japon-descubre-miles-islas-no-estaban-registros-1203670'>Japón descubre miles de islas que no estaban en sus registros</a></h4>
-    <a href='https://computerhoy.com/life/japon-descubre-miles-islas-no-estaban-registros-1203670' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/japon-descubre-miles-islas-no-estaban-registros-2962288.jpg?tf=1200x' alt='Japón descubre miles de islas que no estaban en sus registros' />
+    <h4><a href='https://computerhoy.com/ciberseguridad/callback-phishing-evolucion-ataques-ingenieria-social-deberias-conocer-1203278'>Qué es el "callback phishing": la evolución de los ataques de ingeniería social que deberías conocer</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/callback-phishing-evolucion-ataques-ingenieria-social-deberias-conocer-1203278' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/callback-phishing-evolucion-ataques-ingenieria-social-deberias-conocer-2961900.jpg?tf=1200x' alt='Qué es el "callback phishing": la evolución de los ataques de ingeniería social que deberías conocer' />
     </a>
 </div>
 
