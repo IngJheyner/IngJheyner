@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/analisis/sony-playstation-vr2-review-realidad-virtual-1203196'>Análisis de PlayStation VR2, la realidad virtual en consola sube de nivel con el visor de PS5</a></h4>
+    <a href='https://computerhoy.com/analisis/sony-playstation-vr2-review-realidad-virtual-1203196' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/ps-vr-2-2962990.jpg?tf=1200x' alt='Análisis de PlayStation VR2, la realidad virtual en consola sube de nivel con el visor de PS5' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/perifericos/mando-pro-nintendo-switch-lidl-7-horas-autonomia-tres-veces-barato-1203872'>El mando Pro para Nintendo Switch de LIDL: 7 horas de autonomía y tres veces más barato</a></h4>
+    <a href='https://computerhoy.com/perifericos/mando-pro-nintendo-switch-lidl-7-horas-autonomia-tres-veces-barato-1203872' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/mando-nintendo-switch-2962928.jpg?tf=1200x' alt='El mando Pro para Nintendo Switch de LIDL: 7 horas de autonomía y tres veces más barato' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/chatgpt-escribe-hoja-reclamaciones-aerolinea-internet-queda-boquiabierta-1203820'>ChatGPT escribe una hoja de reclamaciones para una aerolínea e Internet se queda boquiabierta</a></h4>
+    <a href='https://computerhoy.com/tecnologia/chatgpt-escribe-hoja-reclamaciones-aerolinea-internet-queda-boquiabierta-1203820' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/chatgpt-escribe-hoja-reclamaciones-aerolinea-internet-queda-boca-abierta-2962774.jpg?tf=1200x' alt='ChatGPT escribe una hoja de reclamaciones para una aerolínea e Internet se queda boquiabierta' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/motor/vicio-muchos-conductores-atascos-puede-costarte-600-euros-multa-1203808'>El vicio de muchos conductores en los atascos que puede costarte hasta 600 euros de multa</a></h4>
+    <a href='https://computerhoy.com/motor/vicio-muchos-conductores-atascos-puede-costarte-600-euros-multa-1203808' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/12/atascos.jpg?tf=1200x' alt='El vicio de muchos conductores en los atascos que puede costarte hasta 600 euros de multa' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/analisis/review-honor-magic-5-lite-1198796'>Análisis del Honor Magic 5 Lite, un gama media en el cuerpo de un gama alta</a></h4>
     <a href='https://computerhoy.com/analisis/review-honor-magic-5-lite-1198796' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/analisis-honor-magic-5-lite-2953622.jpg?tf=1200x' alt='Análisis del Honor Magic 5 Lite, un gama media en el cuerpo de un gama alta' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/reloj-inteligente-bueno-bonito-barato-amazfit-gtr-4-1203178'>Un reloj inteligente bueno, bonito y ahora más barato, de Amazfit y rebajado a 184 euros</a></h4>
-    <a href='https://computerhoy.com/tecnologia/reloj-inteligente-bueno-bonito-barato-amazfit-gtr-4-1203178' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/amazfit-gtr-4-analisis-opinion-2940016.jpg?tf=1200x' alt='Un reloj inteligente bueno, bonito y ahora más barato, de Amazfit y rebajado a 184 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/gaming/gran-turismo-7-ya-permite-ponerte-prueba-invencible-ia-conduccion-gt-sophy-1203802'>Gran Turismo 7 ya permite ponerte a prueba contra su “invencible” IA GT Sophy</a></h4>
-    <a href='https://computerhoy.com/gaming/gran-turismo-7-ya-permite-ponerte-prueba-invencible-ia-conduccion-gt-sophy-1203802' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/gran-turismo-7-ya-permite-ponerte-prueba-invencible-ia-gt-sophy-2962752.jpg?tf=1200x' alt='Gran Turismo 7 ya permite ponerte a prueba contra su “invencible” IA GT Sophy' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/3-preguntas-steve-jobs-debes-responder-saber-eres-feliz-vida-1203778'>Las 3 preguntas de Steve Jobs que debes responder para saber si eres feliz en la vida</a></h4>
-    <a href='https://computerhoy.com/apple/3-preguntas-steve-jobs-debes-responder-saber-eres-feliz-vida-1203778' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/05/steve-jobs.jpg?tf=1200x' alt='Las 3 preguntas de Steve Jobs que debes responder para saber si eres feliz en la vida' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/patrocinado/honor-magic5-lite-destinado-crear-disfrutar-contenidos-streaming-1199820'>HONOR Magic5 Lite, destinado para crear y disfrutar de los contenidos en streaming</a></h4>
-    <a href='https://computerhoy.com/patrocinado/honor-magic5-lite-destinado-crear-disfrutar-contenidos-streaming-1199820' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/honor-magic-5-lite-destinado-crear-disfrutar-contenidos-streaming-2955542.jpg?tf=1200x' alt='HONOR Magic5 Lite, destinado para crear y disfrutar de los contenidos en streaming' />
     </a>
 </div>
 
