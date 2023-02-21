@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/sony-wh-ch720n-cancelacion-ruido-calidad-sonido-no-son-exclusivos-gama-alta-1203672'>Sony WH-CH720N, la cancelación de ruido y calidad de sonido no son exclusivos de la gama alta</a></h4>
-    <a href='https://computerhoy.com/analisis/sony-wh-ch720n-cancelacion-ruido-calidad-sonido-no-son-exclusivos-gama-alta-1203672' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/sony-wh-ch720n-analisis-opinion-2962832.jpg?tf=1200x' alt='Sony WH-CH720N, la cancelación de ruido y calidad de sonido no son exclusivos de la gama alta' />
+    <h4><a href='https://computerhoy.com/industria/bizum-quiere-desbancar-mastercard-visa-pronto-podras-pagar-comercios-1203958'>Bizum quiere desbancar a Mastercard y Visa: pronto podrás pagar en comercios</a></h4>
+    <a href='https://computerhoy.com/industria/bizum-quiere-desbancar-mastercard-visa-pronto-podras-pagar-comercios-1203958' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/bizum-2833649.jpg?tf=1200x' alt='Bizum quiere desbancar a Mastercard y Visa: pronto podrás pagar en comercios' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/como-saber-dni-persona-1203904'>¿Cómo saber el DNI de una persona?</a></h4>
-    <a href='https://computerhoy.com/life/como-saber-dni-persona-1203904' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/dni-40-obligatorio-ue-2426085.jpg?tf=1200x' alt='¿Cómo saber el DNI de una persona?' />
+    <h4><a href='https://computerhoy.com/apple/no-puede-usar-iphone-problemas-compania-anos-despues-lleva-increible-sorpresa-1204004'>No puede usar un iPhone por problemas con su compañía y años después se lleva una increíble sorpresa</a></h4>
+    <a href='https://computerhoy.com/apple/no-puede-usar-iphone-problemas-compania-anos-despues-lleva-increible-sorpresa-1204004' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/subasta-iphone-original-2947150.jpg?tf=1200x' alt='No puede usar un iPhone por problemas con su compañía y años después se lleva una increíble sorpresa' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/alternativas-gratis-chatgpt-puedes-usar-cuando-saturado-no-te-deja-entrar-1203924'>Alternativas gratis a ChatGPT que puedes usar cuando está saturado y no te deja entrar</a></h4>
-    <a href='https://computerhoy.com/tecnologia/alternativas-gratis-chatgpt-puedes-usar-cuando-saturado-no-te-deja-entrar-1203924' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/alternativas-chatgpt-2963022.jpg?tf=1200x' alt='Alternativas gratis a ChatGPT que puedes usar cuando está saturado y no te deja entrar' />
+    <h4><a href='https://computerhoy.com/internet/5g-panales-espana-corea-sur-ya-plantea-lanzar-primera-red-6g-1204000'>Con el 5G en pañales en España y Corea del Sur ya se plantea lanzar la primera red 6G</a></h4>
+    <a href='https://computerhoy.com/internet/5g-panales-espana-corea-sur-ya-plantea-lanzar-primera-red-6g-1204000' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/conectividad-5g-2963188.jpg?tf=1200x' alt='Con el 5G en pañales en España y Corea del Sur ya se plantea lanzar la primera red 6G' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/sony-playstation-vr2-review-realidad-virtual-1203196'>Análisis de PlayStation VR2, la realidad virtual en consola sube de nivel con el visor de PS5</a></h4>
-    <a href='https://computerhoy.com/analisis/sony-playstation-vr2-review-realidad-virtual-1203196' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/ps-vr-2-2962990.jpg?tf=1200x' alt='Análisis de PlayStation VR2, la realidad virtual en consola sube de nivel con el visor de PS5' />
+    <h4><a href='https://computerhoy.com/life/todo-ahorras-cada-vez-cocinas-freidora-aire-1203932'>Esto es todo lo que ahorras cada vez que cocinas con una freidora de aire</a></h4>
+    <a href='https://computerhoy.com/life/todo-ahorras-cada-vez-cocinas-freidora-aire-1203932' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/freidora-aire-toda-familia-philips-tamano-xl-mejores-ofertas-semana-2780243.jpg?tf=1200x' alt='Esto es todo lo que ahorras cada vez que cocinas con una freidora de aire' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/perifericos/mando-pro-nintendo-switch-lidl-7-horas-autonomia-tres-veces-barato-1203872'>El mando Pro para Nintendo Switch de LIDL: 7 horas de autonomía y tres veces más barato</a></h4>
-    <a href='https://computerhoy.com/perifericos/mando-pro-nintendo-switch-lidl-7-horas-autonomia-tres-veces-barato-1203872' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/mando-nintendo-switch-2962928.jpg?tf=1200x' alt='El mando Pro para Nintendo Switch de LIDL: 7 horas de autonomía y tres veces más barato' />
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-snapdragon-888-ofertas-927367'>Estos son los mejores móviles con Snapdragon 888, el procesador más potente del momento y que puedes comprar ahora mismo</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-snapdragon-888-ofertas-927367' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/galeria-review-oppo-find-x5-2663023.jpg?tf=1200x' alt='Estos son los mejores móviles con Snapdragon 888, el procesador más potente del momento y que puedes comprar ahora mismo' />
     </a>
 </div>
 
