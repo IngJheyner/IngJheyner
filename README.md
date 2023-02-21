@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/moviles/jovenes-estados-unidos-averguenza-tener-movil-android-1204026'>A los jóvenes en Estados Unidos les avergüenza tener un móvil Android</a></h4>
+    <a href='https://computerhoy.com/moviles/jovenes-estados-unidos-averguenza-tener-movil-android-1204026' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/google-pixel-6-pro-2718705.jpg?tf=1200x' alt='A los jóvenes en Estados Unidos les avergüenza tener un móvil Android' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/moviles/redmi-note-11s-pantalla-amoled-90-hz-camara-108-mpx-solo-160-euros-1204034'>El Redmi Note 11S con pantalla AMOLED a 90 Hz y cámara a 108 Mpx, solo 160 euros</a></h4>
+    <a href='https://computerhoy.com/moviles/redmi-note-11s-pantalla-amoled-90-hz-camara-108-mpx-solo-160-euros-1204034' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/xiaomi-redmi-note-11s-2786489.jpg?tf=1200x' alt='El Redmi Note 11S con pantalla AMOLED a 90 Hz y cámara a 108 Mpx, solo 160 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/redes-sociales/fotografo-viral-instagram-ha-enganado-seguidores-utilizando-inteligencia-artificial-1203960'>Este fotógrafo viral de Instagram ha engañado a sus seguidores utilizando Inteligencia Artificial</a></h4>
+    <a href='https://computerhoy.com/redes-sociales/fotografo-viral-instagram-ha-enganado-seguidores-utilizando-inteligencia-artificial-1203960' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/fotografo-viral-instagram-ha-enganado-seguidores-utilizando-inteligencia-artificial-2963100.jpg?tf=1200x' alt='Este fotógrafo viral de Instagram ha engañado a sus seguidores utilizando Inteligencia Artificial' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/streaming/acabo-plazo-elegir-ubicacion-principal-netflix-pasa-ahora-1204022'>Acabó el plazo para elegir la ubicación principal en Netflix, ¿qué pasa ahora?</a></h4>
+    <a href='https://computerhoy.com/streaming/acabo-plazo-elegir-ubicacion-principal-netflix-pasa-ahora-1204022' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/acabo-plazo-elegir-ubicacion-principal-netflix-pasa-ahora-2963196.jpg?tf=1200x' alt='Acabó el plazo para elegir la ubicación principal en Netflix, ¿qué pasa ahora?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/industria/bizum-quiere-desbancar-mastercard-visa-pronto-podras-pagar-comercios-1203958'>Bizum quiere desbancar a Mastercard y Visa: pronto podrás pagar en comercios</a></h4>
     <a href='https://computerhoy.com/industria/bizum-quiere-desbancar-mastercard-visa-pronto-podras-pagar-comercios-1203958' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/bizum-2833649.jpg?tf=1200x' alt='Bizum quiere desbancar a Mastercard y Visa: pronto podrás pagar en comercios' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/no-puede-usar-iphone-problemas-compania-anos-despues-lleva-increible-sorpresa-1204004'>No puede usar un iPhone por problemas con su compañía y años después se lleva una increíble sorpresa</a></h4>
-    <a href='https://computerhoy.com/apple/no-puede-usar-iphone-problemas-compania-anos-despues-lleva-increible-sorpresa-1204004' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/subasta-iphone-original-2947150.jpg?tf=1200x' alt='No puede usar un iPhone por problemas con su compañía y años después se lleva una increíble sorpresa' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/5g-panales-espana-corea-sur-ya-plantea-lanzar-primera-red-6g-1204000'>Con el 5G en pañales en España y Corea del Sur ya se plantea lanzar la primera red 6G</a></h4>
-    <a href='https://computerhoy.com/internet/5g-panales-espana-corea-sur-ya-plantea-lanzar-primera-red-6g-1204000' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/conectividad-5g-2963188.jpg?tf=1200x' alt='Con el 5G en pañales en España y Corea del Sur ya se plantea lanzar la primera red 6G' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/todo-ahorras-cada-vez-cocinas-freidora-aire-1203932'>Esto es todo lo que ahorras cada vez que cocinas con una freidora de aire</a></h4>
-    <a href='https://computerhoy.com/life/todo-ahorras-cada-vez-cocinas-freidora-aire-1203932' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/freidora-aire-toda-familia-philips-tamano-xl-mejores-ofertas-semana-2780243.jpg?tf=1200x' alt='Esto es todo lo que ahorras cada vez que cocinas con una freidora de aire' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-snapdragon-888-ofertas-927367'>Estos son los mejores móviles con Snapdragon 888, el procesador más potente del momento y que puedes comprar ahora mismo</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-snapdragon-888-ofertas-927367' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/galeria-review-oppo-find-x5-2663023.jpg?tf=1200x' alt='Estos son los mejores móviles con Snapdragon 888, el procesador más potente del momento y que puedes comprar ahora mismo' />
     </a>
 </div>
 
