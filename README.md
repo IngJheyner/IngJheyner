@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/japon-descubre-miles-islas-no-estaban-registros-1203670'>Japón descubre miles de islas que no estaban en sus registros</a></h4>
+    <a href='https://computerhoy.com/life/japon-descubre-miles-islas-no-estaban-registros-1203670' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/japon-descubre-miles-islas-no-estaban-registros-2962288.jpg?tf=1200x' alt='Japón descubre miles de islas que no estaban en sus registros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/internet/microsoft-edge-estrena-vpn-gratis-red-privada-virtual-1203462'>Microsoft Edge estrena una nueva función que te hará plantearte abandonar Chrome, y no es ChatGPT</a></h4>
     <a href='https://computerhoy.com/internet/microsoft-edge-estrena-vpn-gratis-red-privada-virtual-1203462' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/microsoft-edge-estrena-nueva-funcion-te-hara-plantearte-abandonar-chrome-no-chatgpt-2962264.jpg?tf=1200x' alt='Microsoft Edge estrena una nueva función que te hará plantearte abandonar Chrome, y no es ChatGPT' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/criptos/padres-internet-une-bill-gates-menosprecio-bitcoin-otras-criptomonedas-1203442'>Uno de los padres de Internet se une a Bill Gates en su menosprecio a Bitcoin y otras criptomonedas</a></h4>
     <a href='https://computerhoy.com/criptos/padres-internet-une-bill-gates-menosprecio-bitcoin-otras-criptomonedas-1203442' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/tim-berners-lee-2962230.jpg?tf=1200x' alt='Uno de los padres de Internet se une a Bill Gates en su menosprecio a Bitcoin y otras criptomonedas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/nueva-senal-dgt-provocando-avalancha-multas-1203440'>La nueva señal de la DGT que está provocando una avalancha de multas</a></h4>
-    <a href='https://computerhoy.com/motor/nueva-senal-dgt-provocando-avalancha-multas-1203440' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/senales-trafico-2962226.jpg?tf=1200x' alt='La nueva señal de la DGT que está provocando una avalancha de multas' />
     </a>
 </div>
 
