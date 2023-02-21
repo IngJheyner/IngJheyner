@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/arma-secreta-apple-limpiar-pantallas-1203234'>Este es el arma secreta de Apple para limpiar millones de huellas de sus móviles</a></h4>
+    <a href='https://computerhoy.com/tecnologia/arma-secreta-apple-limpiar-pantallas-1203234' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/whoosh-2961766.jpg?tf=1200x' alt='Este es el arma secreta de Apple para limpiar millones de huellas de sus móviles' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/znie-lite-dispositivo-hackea-ondas-cerebrales-ayuda-dormir-video-1203674'>Znie Lite, el dispositivo que hackea tus ondas cerebrales para ayudarte a dormir (vídeo)</a></h4>
+    <a href='https://computerhoy.com/life/znie-lite-dispositivo-hackea-ondas-cerebrales-ayuda-dormir-video-1203674' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/verticalimage1676947859863-2962488.jpg?tf=1200x' alt='Znie Lite, el dispositivo que hackea tus ondas cerebrales para ayudarte a dormir (vídeo)' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/japon-descubre-miles-islas-no-estaban-registros-1203670'>Japón descubre miles de islas que no estaban en sus registros</a></h4>
     <a href='https://computerhoy.com/life/japon-descubre-miles-islas-no-estaban-registros-1203670' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/japon-descubre-miles-islas-no-estaban-registros-2962288.jpg?tf=1200x' alt='Japón descubre miles de islas que no estaban en sus registros' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/apple/apple-mac-mini-m1-ssd-512-gb-buena-rebaja-1203456'>Este Apple Mac Mini con M1 y SSD de 512 GB tiene una buena rebaja</a></h4>
     <a href='https://computerhoy.com/apple/apple-mac-mini-m1-ssd-512-gb-buena-rebaja-1203456' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/apple-mac-mini-2596071.jpg?tf=1200x' alt='Este Apple Mac Mini con M1 y SSD de 512 GB tiene una buena rebaja' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/sin-novedad-en-el-frente-bafta-favorita-oscars-ya-disponible-netflix-1203448'>La película sobre la guerra que ha arrasado en los BAFTA y es favorita a los Óscars, ya está disponible en Netflix</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/sin-novedad-en-el-frente-bafta-favorita-oscars-ya-disponible-netflix-1203448' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/verticalimage1676921762318-2962220.jpg?tf=1200x' alt='La película sobre la guerra que ha arrasado en los BAFTA y es favorita a los Óscars, ya está disponible en Netflix' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/criptos/padres-internet-une-bill-gates-menosprecio-bitcoin-otras-criptomonedas-1203442'>Uno de los padres de Internet se une a Bill Gates en su menosprecio a Bitcoin y otras criptomonedas</a></h4>
-    <a href='https://computerhoy.com/criptos/padres-internet-une-bill-gates-menosprecio-bitcoin-otras-criptomonedas-1203442' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/tim-berners-lee-2962230.jpg?tf=1200x' alt='Uno de los padres de Internet se une a Bill Gates en su menosprecio a Bitcoin y otras criptomonedas' />
     </a>
 </div>
 
