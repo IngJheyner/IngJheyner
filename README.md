@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/analisis/sony-wh-ch720n-cancelacion-ruido-calidad-sonido-no-son-exclusivos-gama-alta-1203672'>Sony WH-CH720N, la cancelación de ruido y calidad de sonido no son exclusivos de la gama alta</a></h4>
+    <a href='https://computerhoy.com/analisis/sony-wh-ch720n-cancelacion-ruido-calidad-sonido-no-son-exclusivos-gama-alta-1203672' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/sony-wh-ch720n-analisis-opinion-2962832.jpg?tf=1200x' alt='Sony WH-CH720N, la cancelación de ruido y calidad de sonido no son exclusivos de la gama alta' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/como-saber-dni-persona-1203904'>¿Cómo saber el DNI de una persona?</a></h4>
+    <a href='https://computerhoy.com/life/como-saber-dni-persona-1203904' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/dni-40-obligatorio-ue-2426085.jpg?tf=1200x' alt='¿Cómo saber el DNI de una persona?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/alternativas-gratis-chatgpt-puedes-usar-cuando-saturado-no-te-deja-entrar-1203924'>Alternativas gratis a ChatGPT que puedes usar cuando está saturado y no te deja entrar</a></h4>
+    <a href='https://computerhoy.com/tecnologia/alternativas-gratis-chatgpt-puedes-usar-cuando-saturado-no-te-deja-entrar-1203924' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/alternativas-chatgpt-2963022.jpg?tf=1200x' alt='Alternativas gratis a ChatGPT que puedes usar cuando está saturado y no te deja entrar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/analisis/sony-playstation-vr2-review-realidad-virtual-1203196'>Análisis de PlayStation VR2, la realidad virtual en consola sube de nivel con el visor de PS5</a></h4>
     <a href='https://computerhoy.com/analisis/sony-playstation-vr2-review-realidad-virtual-1203196' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/ps-vr-2-2962990.jpg?tf=1200x' alt='Análisis de PlayStation VR2, la realidad virtual en consola sube de nivel con el visor de PS5' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/perifericos/mando-pro-nintendo-switch-lidl-7-horas-autonomia-tres-veces-barato-1203872'>El mando Pro para Nintendo Switch de LIDL: 7 horas de autonomía y tres veces más barato</a></h4>
     <a href='https://computerhoy.com/perifericos/mando-pro-nintendo-switch-lidl-7-horas-autonomia-tres-veces-barato-1203872' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/mando-nintendo-switch-2962928.jpg?tf=1200x' alt='El mando Pro para Nintendo Switch de LIDL: 7 horas de autonomía y tres veces más barato' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/chatgpt-escribe-hoja-reclamaciones-aerolinea-internet-queda-boquiabierta-1203820'>ChatGPT escribe una hoja de reclamaciones para una aerolínea e Internet se queda boquiabierta</a></h4>
-    <a href='https://computerhoy.com/tecnologia/chatgpt-escribe-hoja-reclamaciones-aerolinea-internet-queda-boquiabierta-1203820' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/chatgpt-escribe-hoja-reclamaciones-aerolinea-internet-queda-boca-abierta-2962774.jpg?tf=1200x' alt='ChatGPT escribe una hoja de reclamaciones para una aerolínea e Internet se queda boquiabierta' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/vicio-muchos-conductores-atascos-puede-costarte-600-euros-multa-1203808'>El vicio de muchos conductores en los atascos que puede costarte hasta 600 euros de multa</a></h4>
-    <a href='https://computerhoy.com/motor/vicio-muchos-conductores-atascos-puede-costarte-600-euros-multa-1203808' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/12/atascos.jpg?tf=1200x' alt='El vicio de muchos conductores en los atascos que puede costarte hasta 600 euros de multa' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/review-honor-magic-5-lite-1198796'>Análisis del Honor Magic 5 Lite, un gama media en el cuerpo de un gama alta</a></h4>
-    <a href='https://computerhoy.com/analisis/review-honor-magic-5-lite-1198796' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/analisis-honor-magic-5-lite-2953622.jpg?tf=1200x' alt='Análisis del Honor Magic 5 Lite, un gama media en el cuerpo de un gama alta' />
     </a>
 </div>
 
