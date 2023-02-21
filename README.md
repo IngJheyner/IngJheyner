@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/pc/temperaturas-ideales-tiene-funcionar-todo-hardware-pc-1203382'>Las temperaturas ideales a las que tiene que funcionar todo el hardware de tu PC</a></h4>
+    <a href='https://computerhoy.com/pc/temperaturas-ideales-tiene-funcionar-todo-hardware-pc-1203382' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/tarjeta-grafica-gigabyte-nvidia-pc-gaming-2810191.jpg?tf=1200x' alt='Las temperaturas ideales a las que tiene que funcionar todo el hardware de tu PC' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/23-noticias-tecnologia-comenzar-manana-informado-ultimo-1203686'>23 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
+    <a href='https://computerhoy.com/tecnologia/23-noticias-tecnologia-comenzar-manana-informado-ultimo-1203686' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/23-noticias-tecnologia-comenzar-manana-informado-ultimo-2962500.jpg?tf=1200x' alt='23 noticias de tecnología para comenzar la mañana informado de lo último' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/arma-secreta-apple-limpiar-pantallas-1203234'>Este es el arma secreta de Apple para limpiar millones de huellas de sus móviles</a></h4>
     <a href='https://computerhoy.com/tecnologia/arma-secreta-apple-limpiar-pantallas-1203234' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/whoosh-2961766.jpg?tf=1200x' alt='Este es el arma secreta de Apple para limpiar millones de huellas de sus móviles' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/life/japon-descubre-miles-islas-no-estaban-registros-1203670'>Japón descubre miles de islas que no estaban en sus registros</a></h4>
     <a href='https://computerhoy.com/life/japon-descubre-miles-islas-no-estaban-registros-1203670' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/japon-descubre-miles-islas-no-estaban-registros-2962288.jpg?tf=1200x' alt='Japón descubre miles de islas que no estaban en sus registros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/microsoft-edge-estrena-vpn-gratis-red-privada-virtual-1203462'>Microsoft Edge estrena una nueva función que te hará plantearte abandonar Chrome, y no es ChatGPT</a></h4>
-    <a href='https://computerhoy.com/internet/microsoft-edge-estrena-vpn-gratis-red-privada-virtual-1203462' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/microsoft-edge-estrena-nueva-funcion-te-hara-plantearte-abandonar-chrome-no-chatgpt-2962264.jpg?tf=1200x' alt='Microsoft Edge estrena una nueva función que te hará plantearte abandonar Chrome, y no es ChatGPT' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/apple-mac-mini-m1-ssd-512-gb-buena-rebaja-1203456'>Este Apple Mac Mini con M1 y SSD de 512 GB tiene una buena rebaja</a></h4>
-    <a href='https://computerhoy.com/apple/apple-mac-mini-m1-ssd-512-gb-buena-rebaja-1203456' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/apple-mac-mini-2596071.jpg?tf=1200x' alt='Este Apple Mac Mini con M1 y SSD de 512 GB tiene una buena rebaja' />
     </a>
 </div>
 
