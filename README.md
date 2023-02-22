@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/motor/italia-opone-dejar-fabricar-coches-diesel-gasolina-2035-1204256'>Un país europeo se opone a dejar de fabricar coches de combustión en 2035</a></h4>
+    <a href='https://computerhoy.com/motor/italia-opone-dejar-fabricar-coches-diesel-gasolina-2035-1204256' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/pais-europeo-opone-dejar-fabricar-coches-combustion-2035-2963258.jpg?tf=1200x' alt='Un país europeo se opone a dejar de fabricar coches de combustión en 2035' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/gaming/microsoft-acuerdo-nintendo-geforce-now-monopolio-activision-blizzard-1204042'>La jugada maestra de Microsoft contra Sony para comprar Activision: firma una alianza con Nintendo y GeForce NOW</a></h4>
+    <a href='https://computerhoy.com/gaming/microsoft-acuerdo-nintendo-geforce-now-monopolio-activision-blizzard-1204042' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/jugada-maestra-microsoft-sony-comprar-activision-firma-alianza-llevar-juegos-nintendo-geforce-now-2963256.jpg?tf=1200x' alt='La jugada maestra de Microsoft contra Sony para comprar Activision: firma una alianza con Nintendo y GeForce NOW' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/moviles/jovenes-estados-unidos-averguenza-tener-movil-android-1204026'>A los jóvenes en Estados Unidos les avergüenza tener un móvil Android</a></h4>
     <a href='https://computerhoy.com/moviles/jovenes-estados-unidos-averguenza-tener-movil-android-1204026' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/google-pixel-6-pro-2718705.jpg?tf=1200x' alt='A los jóvenes en Estados Unidos les avergüenza tener un móvil Android' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/redes-sociales/fotografo-viral-instagram-ha-enganado-seguidores-utilizando-inteligencia-artificial-1203960'>Este fotógrafo viral de Instagram ha engañado a sus seguidores utilizando Inteligencia Artificial</a></h4>
     <a href='https://computerhoy.com/redes-sociales/fotografo-viral-instagram-ha-enganado-seguidores-utilizando-inteligencia-artificial-1203960' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/fotografo-viral-instagram-ha-enganado-seguidores-utilizando-inteligencia-artificial-2963100.jpg?tf=1200x' alt='Este fotógrafo viral de Instagram ha engañado a sus seguidores utilizando Inteligencia Artificial' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/streaming/acabo-plazo-elegir-ubicacion-principal-netflix-pasa-ahora-1204022'>Acabó el plazo para elegir la ubicación principal en Netflix, ¿qué pasa ahora?</a></h4>
-    <a href='https://computerhoy.com/streaming/acabo-plazo-elegir-ubicacion-principal-netflix-pasa-ahora-1204022' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/acabo-plazo-elegir-ubicacion-principal-netflix-pasa-ahora-2963196.jpg?tf=1200x' alt='Acabó el plazo para elegir la ubicación principal en Netflix, ¿qué pasa ahora?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/industria/bizum-quiere-desbancar-mastercard-visa-pronto-podras-pagar-comercios-1203958'>Bizum quiere desbancar a Mastercard y Visa: pronto podrás pagar en comercios</a></h4>
-    <a href='https://computerhoy.com/industria/bizum-quiere-desbancar-mastercard-visa-pronto-podras-pagar-comercios-1203958' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/bizum-2833649.jpg?tf=1200x' alt='Bizum quiere desbancar a Mastercard y Visa: pronto podrás pagar en comercios' />
     </a>
 </div>
 
