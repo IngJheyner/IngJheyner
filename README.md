@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/huawei-matebook-16-oferta-estore-1202000'>16GB de RAM y un pantallón de 16 pulgadas: este portátil con Windows 11 rompe su récord de precio y se cuela entre los mejores</a></h4>
-    <a href='https://computerhoy.com/tecnologia/huawei-matebook-16-oferta-estore-1202000' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/analisis-huawei-matebook-16-2628559.jpg?tf=1200x' alt='16GB de RAM y un pantallón de 16 pulgadas: este portátil con Windows 11 rompe su récord de precio y se cuela entre los mejores' />
+    <h4><a href='https://computerhoy.com/tecnologia/no-deberias-tener-antivirus-ordenador-windows-1197122'>Por qué no deberías tener más de un antivirus en tu ordenador Windows</a></h4>
+    <a href='https://computerhoy.com/tecnologia/no-deberias-tener-antivirus-ordenador-windows-1197122' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/ordenador-antivirus-2949984.jpg?tf=1200x' alt='Por qué no deberías tener más de un antivirus en tu ordenador Windows' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/deberias-cambiar-clave-wifi-defecto-router-te-ensenamos-como-hacerlo-paso-paso-1204388'>Deberías cambiar la clave WiFi por defecto de tu router, te enseñamos cómo hacerlo paso a paso</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/deberias-cambiar-clave-wifi-defecto-router-te-ensenamos-como-hacerlo-paso-paso-1204388' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/deberias-cambiar-clave-wifi-defecto-router-te-ensenamos-como-hacerlo-2963816.jpg?tf=1200x' alt='Deberías cambiar la clave WiFi por defecto de tu router, te enseñamos cómo hacerlo paso a paso' />
+    <h4><a href='https://computerhoy.com/hogar/montate-oficina-casa-precio-ganga-lidl-gastos-envio-gratis-1204476'>Móntate tu oficina en casa a precio de ganga con Lidl y gastos de envío gratis</a></h4>
+    <a href='https://computerhoy.com/hogar/montate-oficina-casa-precio-ganga-lidl-gastos-envio-gratis-1204476' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/oficina-casa-lidl-2964056.jpg?tf=1200x' alt='Móntate tu oficina en casa a precio de ganga con Lidl y gastos de envío gratis' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/windows-11-22h2-novedades-mejoras-microsoft-mejoraran-dia-dia-1204358'>Windows 11 22H2, las novedades y mejoras de Microsoft que mejorarán tu día a día</a></h4>
-    <a href='https://computerhoy.com/windows/windows-11-22h2-novedades-mejoras-microsoft-mejoraran-dia-dia-1204358' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/windows-11-22h2-2963658.jpg?tf=1200x' alt='Windows 11 22H2, las novedades y mejoras de Microsoft que mejorarán tu día a día' />
+    <h4><a href='https://computerhoy.com/ciberseguridad/telegram-convirtiendo-ecosistema-perfecto-ciberdelincuencia-informe-1204458'>Telegram se está convirtiendo en el ecosistema perfecto para la ciberdelincuencia según un informe</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/telegram-convirtiendo-ecosistema-perfecto-ciberdelincuencia-informe-1204458' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/informes-aseguran-telegram-convirtiendo-ecosistema-perfecto-ciberdelincuencia-2964032.jpg?tf=1200x' alt='Telegram se está convirtiendo en el ecosistema perfecto para la ciberdelincuencia según un informe' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/newsletters-whatsapp-nueva-hacer-llegar-informacion-privada-comunidad-1204360'>Newsletters en WhatsApp: la nueva vía para hacer llegar información privada a tu comunidad</a></h4>
-    <a href='https://computerhoy.com/apps/newsletters-whatsapp-nueva-hacer-llegar-informacion-privada-comunidad-1204360' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/newsletters-privadas-whatsapp-nueva-hacer-llegar-informacion-privada-2963704.jpg?tf=1200x' alt='Newsletters en WhatsApp: la nueva vía para hacer llegar información privada a tu comunidad' />
+    <h4><a href='https://computerhoy.com/internet/trucos-infalibles-wifi-movil-funcione-rapido-1204442'>Trucos infalibles para que el WiFi del móvil funcione más rápido</a></h4>
+    <a href='https://computerhoy.com/internet/trucos-infalibles-wifi-movil-funcione-rapido-1204442' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/wifi-smartphone-2604579.jpg?tf=1200x' alt='Trucos infalibles para que el WiFi del móvil funcione más rápido' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/aspiradora-portatil-coche-cecotec-rebaja-1200110'>Esta aspiradora portátil low cost es ideal para coches: tiene tubo flexible y aspira también líquidos</a></h4>
-    <a href='https://computerhoy.com/tecnologia/aspiradora-portatil-coche-cecotec-rebaja-1200110' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/cecotec-conga-immortal-extremesuction-2955066.jpg?tf=1200x' alt='Esta aspiradora portátil low cost es ideal para coches: tiene tubo flexible y aspira también líquidos' />
+    <h4><a href='https://computerhoy.com/moviles/futuro-plegables-flip-nuevo-motorola-razr-todo-pantalla-plegado-1204410'>El futuro de los plegables Flip, nuevo Motorola Razr todo pantalla plegado</a></h4>
+    <a href='https://computerhoy.com/moviles/futuro-plegables-flip-nuevo-motorola-razr-todo-pantalla-plegado-1204410' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/motorola-razr-2963878.jpg?tf=1200x' alt='El futuro de los plegables Flip, nuevo Motorola Razr todo pantalla plegado' />
     </a>
 </div>
 
