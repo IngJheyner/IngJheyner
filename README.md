@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/huawei-matebook-16-oferta-estore-1202000'>16GB de RAM y un pantallón de 16 pulgadas: este portátil con Windows 11 rompe su récord de precio y se cuela entre los mejores</a></h4>
+    <a href='https://computerhoy.com/tecnologia/huawei-matebook-16-oferta-estore-1202000' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/analisis-huawei-matebook-16-2628559.jpg?tf=1200x' alt='16GB de RAM y un pantallón de 16 pulgadas: este portátil con Windows 11 rompe su récord de precio y se cuela entre los mejores' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/deberias-cambiar-clave-wifi-defecto-router-te-ensenamos-como-hacerlo-paso-paso-1204388'>Deberías cambiar la clave WiFi por defecto de tu router, te enseñamos cómo hacerlo paso a paso</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/deberias-cambiar-clave-wifi-defecto-router-te-ensenamos-como-hacerlo-paso-paso-1204388' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/deberias-cambiar-clave-wifi-defecto-router-te-ensenamos-como-hacerlo-2963816.jpg?tf=1200x' alt='Deberías cambiar la clave WiFi por defecto de tu router, te enseñamos cómo hacerlo paso a paso' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/windows/windows-11-22h2-novedades-mejoras-microsoft-mejoraran-dia-dia-1204358'>Windows 11 22H2, las novedades y mejoras de Microsoft que mejorarán tu día a día</a></h4>
+    <a href='https://computerhoy.com/windows/windows-11-22h2-novedades-mejoras-microsoft-mejoraran-dia-dia-1204358' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/windows-11-22h2-2963658.jpg?tf=1200x' alt='Windows 11 22H2, las novedades y mejoras de Microsoft que mejorarán tu día a día' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/newsletters-whatsapp-nueva-hacer-llegar-informacion-privada-comunidad-1204360'>Newsletters en WhatsApp: la nueva vía para hacer llegar información privada a tu comunidad</a></h4>
+    <a href='https://computerhoy.com/apps/newsletters-whatsapp-nueva-hacer-llegar-informacion-privada-comunidad-1204360' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/newsletters-privadas-whatsapp-nueva-hacer-llegar-informacion-privada-2963704.jpg?tf=1200x' alt='Newsletters en WhatsApp: la nueva vía para hacer llegar información privada a tu comunidad' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/aspiradora-portatil-coche-cecotec-rebaja-1200110'>Esta aspiradora portátil low cost es ideal para coches: tiene tubo flexible y aspira también líquidos</a></h4>
     <a href='https://computerhoy.com/tecnologia/aspiradora-portatil-coche-cecotec-rebaja-1200110' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/cecotec-conga-immortal-extremesuction-2955066.jpg?tf=1200x' alt='Esta aspiradora portátil low cost es ideal para coches: tiene tubo flexible y aspira también líquidos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/streaming/netflix-amplia-lista-paises-ven-rebajado-precio-suscripcion-50-no-no-espana-1204322'>Netflix amplía la lista de países que ven rebajado el precio de suscripción en hasta un 50% y no, no es España</a></h4>
-    <a href='https://computerhoy.com/streaming/netflix-amplia-lista-paises-ven-rebajado-precio-suscripcion-50-no-no-espana-1204322' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/netflix-amplia-lista-paises-ven-rebajado-precio-suscripcion-50-no-no-espana-2963682.jpg?tf=1200x' alt='Netflix amplía la lista de países que ven rebajado el precio de suscripción en hasta un 50% y no, no es España' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/microsoft-atreve-inteligencia-artificial-diferentes-personalidades-1204302'>Microsoft se atreve con la inteligencia artificial con diferentes personalidades</a></h4>
-    <a href='https://computerhoy.com/tecnologia/microsoft-atreve-inteligencia-artificial-diferentes-personalidades-1204302' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/ceo-microsoft-2963552.jpg?tf=1200x' alt='Microsoft se atreve con la inteligencia artificial con diferentes personalidades' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/xiaomi-13-lite-desnudo-dias-presentacion-snapdragon-7-gen-1-50-mpx-camara-principal-1204310'>Xiaomi 13 Lite al desnudo a días de su presentación: Snapdragon 7 Gen 1 y 50 Mpx de cámara principal</a></h4>
-    <a href='https://computerhoy.com/moviles/xiaomi-13-lite-desnudo-dias-presentacion-snapdragon-7-gen-1-50-mpx-camara-principal-1204310' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/xiaomi-13-lite-desnudo-dias-presentacion-snapdragon-7-gen-1-50-mpx-camara-principal-2963542.jpg?tf=1200x' alt='Xiaomi 13 Lite al desnudo a días de su presentación: Snapdragon 7 Gen 1 y 50 Mpx de cámara principal' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/atuvos-tag-alternativa-barata-airtags-1203954'>Una alternativa más barata a los AirTags de Apple y funciona con Buscar de iOS</a></h4>
-    <a href='https://computerhoy.com/tecnologia/atuvos-tag-alternativa-barata-airtags-1203954' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/atuvos-tag-2963090.jpg?tf=1200x' alt='Una alternativa más barata a los AirTags de Apple y funciona con Buscar de iOS' />
     </a>
 </div>
 
