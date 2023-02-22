@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-tener-toda-tdt-cientos-canales-todo-mundo-gratis-sola-app-1204620'>Cómo tener toda la TDT y cientos de canales de todo el mundo gratis en una sola app</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-tener-toda-tdt-cientos-canales-todo-mundo-gratis-sola-app-1204620' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/04/como-ver-canales-hd-no-estan-tdt_6.jpg?tf=1200x' alt='Cómo tener toda la TDT y cientos de canales de todo el mundo gratis en una sola app' />
+    <h4><a href='https://computerhoy.com/apps/ia-consigue-bill-gates-confiese-mayores-errores-juventud-1204706'>Una IA consigue que Bill Gates confiese sus mayores errores de juventud</a></h4>
+    <a href='https://computerhoy.com/apps/ia-consigue-bill-gates-confiese-mayores-errores-juventud-1204706' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/bill-gates-2964388.jpg?tf=1200x' alt='Una IA consigue que Bill Gates confiese sus mayores errores de juventud' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/no-deberias-tener-antivirus-ordenador-windows-1197122'>Por qué no deberías tener más de un antivirus en tu ordenador Windows</a></h4>
-    <a href='https://computerhoy.com/tecnologia/no-deberias-tener-antivirus-ordenador-windows-1197122' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/ordenador-antivirus-2949984.jpg?tf=1200x' alt='Por qué no deberías tener más de un antivirus en tu ordenador Windows' />
+    <h4><a href='https://computerhoy.com/apps/editar-mensajes-whatsapp-cada-vez-cerca-podria-ser-inminente-1204704'>Editar mensajes de WhatsApp está cada vez más cerca, podría ser inminente</a></h4>
+    <a href='https://computerhoy.com/apps/editar-mensajes-whatsapp-cada-vez-cerca-podria-ser-inminente-1204704' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/whatsapp-2964384.jpg?tf=1200x' alt='Editar mensajes de WhatsApp está cada vez más cerca, podría ser inminente' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/hogar/montate-oficina-casa-precio-ganga-lidl-gastos-envio-gratis-1204476'>Móntate tu oficina en casa a precio de ganga con Lidl y gastos de envío gratis</a></h4>
-    <a href='https://computerhoy.com/hogar/montate-oficina-casa-precio-ganga-lidl-gastos-envio-gratis-1204476' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/oficina-casa-lidl-2964056.jpg?tf=1200x' alt='Móntate tu oficina en casa a precio de ganga con Lidl y gastos de envío gratis' />
+    <h4><a href='https://computerhoy.com/amazon/amazon-llena-libros-escritos-chatgpt-1204662'>Amazon se llena de libros escritos por ChatGPT</a></h4>
+    <a href='https://computerhoy.com/amazon/amazon-llena-libros-escritos-chatgpt-1204662' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/trabajador-almacen-amazon-2939386.jpg?tf=1200x' alt='Amazon se llena de libros escritos por ChatGPT' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/telegram-convirtiendo-ecosistema-perfecto-ciberdelincuencia-informe-1204458'>Telegram se está convirtiendo en el ecosistema perfecto para la ciberdelincuencia según un informe</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/telegram-convirtiendo-ecosistema-perfecto-ciberdelincuencia-informe-1204458' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/informes-aseguran-telegram-convirtiendo-ecosistema-perfecto-ciberdelincuencia-2964032.jpg?tf=1200x' alt='Telegram se está convirtiendo en el ecosistema perfecto para la ciberdelincuencia según un informe' />
+    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-recuperar-archivo-word-guardar-252270'>Cómo recuperar un archivo de Word sin guardar</a></h4>
+    <a href='https://computerhoy.com/tutoriales/tecnologia/como-recuperar-archivo-word-guardar-252270' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/05/como-recuperar-archivo-word-guardar.jpg?tf=1200x' alt='Cómo recuperar un archivo de Word sin guardar' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/trucos-infalibles-wifi-movil-funcione-rapido-1204442'>Trucos infalibles para que el WiFi del móvil funcione más rápido</a></h4>
-    <a href='https://computerhoy.com/internet/trucos-infalibles-wifi-movil-funcione-rapido-1204442' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/wifi-smartphone-2604579.jpg?tf=1200x' alt='Trucos infalibles para que el WiFi del móvil funcione más rápido' />
+    <h4><a href='https://computerhoy.com/listas/tecnologia/mejores-teclados-ergonomicos-trabajar-puedes-comprar-2020-582617'>Los mejores teclados ergonómicos para trabajar que puedes comprar en 2023</a></h4>
+    <a href='https://computerhoy.com/listas/tecnologia/mejores-teclados-ergonomicos-trabajar-puedes-comprar-2020-582617' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/logitech-ergo-k860-2957394.jpg?tf=1200x' alt='Los mejores teclados ergonómicos para trabajar que puedes comprar en 2023' />
     </a>
 </div>
 
