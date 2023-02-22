@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-tener-toda-tdt-cientos-canales-todo-mundo-gratis-sola-app-1204620'>Cómo tener toda la TDT y cientos de canales de todo el mundo gratis en una sola app</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-tener-toda-tdt-cientos-canales-todo-mundo-gratis-sola-app-1204620' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/04/como-ver-canales-hd-no-estan-tdt_6.jpg?tf=1200x' alt='Cómo tener toda la TDT y cientos de canales de todo el mundo gratis en una sola app' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/no-deberias-tener-antivirus-ordenador-windows-1197122'>Por qué no deberías tener más de un antivirus en tu ordenador Windows</a></h4>
     <a href='https://computerhoy.com/tecnologia/no-deberias-tener-antivirus-ordenador-windows-1197122' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/ordenador-antivirus-2949984.jpg?tf=1200x' alt='Por qué no deberías tener más de un antivirus en tu ordenador Windows' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/internet/trucos-infalibles-wifi-movil-funcione-rapido-1204442'>Trucos infalibles para que el WiFi del móvil funcione más rápido</a></h4>
     <a href='https://computerhoy.com/internet/trucos-infalibles-wifi-movil-funcione-rapido-1204442' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/wifi-smartphone-2604579.jpg?tf=1200x' alt='Trucos infalibles para que el WiFi del móvil funcione más rápido' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/futuro-plegables-flip-nuevo-motorola-razr-todo-pantalla-plegado-1204410'>El futuro de los plegables Flip, nuevo Motorola Razr todo pantalla plegado</a></h4>
-    <a href='https://computerhoy.com/moviles/futuro-plegables-flip-nuevo-motorola-razr-todo-pantalla-plegado-1204410' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/motorola-razr-2963878.jpg?tf=1200x' alt='El futuro de los plegables Flip, nuevo Motorola Razr todo pantalla plegado' />
     </a>
 </div>
 
