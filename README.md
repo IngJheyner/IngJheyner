@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/italia-opone-dejar-fabricar-coches-diesel-gasolina-2035-1204256'>Un país europeo se opone a dejar de fabricar coches de combustión en 2035</a></h4>
-    <a href='https://computerhoy.com/motor/italia-opone-dejar-fabricar-coches-diesel-gasolina-2035-1204256' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/pais-europeo-opone-dejar-fabricar-coches-combustion-2035-2963258.jpg?tf=1200x' alt='Un país europeo se opone a dejar de fabricar coches de combustión en 2035' />
+    <h4><a href='https://computerhoy.com/tecnologia/atuvos-tag-alternativa-barata-airtags-1203954'>Una alternativa más barata a los AirTags de Apple y funciona con Buscar de iOS</a></h4>
+    <a href='https://computerhoy.com/tecnologia/atuvos-tag-alternativa-barata-airtags-1203954' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/atuvos-tag-2963090.jpg?tf=1200x' alt='Una alternativa más barata a los AirTags de Apple y funciona con Buscar de iOS' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/gaming/microsoft-acuerdo-nintendo-geforce-now-monopolio-activision-blizzard-1204042'>La jugada maestra de Microsoft contra Sony para comprar Activision: firma una alianza con Nintendo y GeForce NOW</a></h4>
-    <a href='https://computerhoy.com/gaming/microsoft-acuerdo-nintendo-geforce-now-monopolio-activision-blizzard-1204042' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/jugada-maestra-microsoft-sony-comprar-activision-firma-alianza-llevar-juegos-nintendo-geforce-now-2963256.jpg?tf=1200x' alt='La jugada maestra de Microsoft contra Sony para comprar Activision: firma una alianza con Nintendo y GeForce NOW' />
+    <h4><a href='https://computerhoy.com/industria/bizum-renta-2022-23-todo-debes-tener-cuenta-no-tener-problemas-hacienda-1203844'>Bizum en la Renta 2022/23: todo lo que debes tener en cuenta para no tener problemas con Hacienda</a></h4>
+    <a href='https://computerhoy.com/industria/bizum-renta-2022-23-todo-debes-tener-cuenta-no-tener-problemas-hacienda-1203844' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/bizum-renta-2022-23-todo-debes-tener-cuenta-no-tener-problemas-2962904.jpg?tf=1200x' alt='Bizum en la Renta 2022/23: todo lo que debes tener en cuenta para no tener problemas con Hacienda' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/jovenes-estados-unidos-averguenza-tener-movil-android-1204026'>A los jóvenes en Estados Unidos les avergüenza tener un móvil Android</a></h4>
-    <a href='https://computerhoy.com/moviles/jovenes-estados-unidos-averguenza-tener-movil-android-1204026' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/google-pixel-6-pro-2718705.jpg?tf=1200x' alt='A los jóvenes en Estados Unidos les avergüenza tener un móvil Android' />
+    <h4><a href='https://computerhoy.com/tecnologia/28-noticias-tecnologia-comenzar-manana-informado-ultimo-1204288'>28 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
+    <a href='https://computerhoy.com/tecnologia/28-noticias-tecnologia-comenzar-manana-informado-ultimo-1204288' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/27-noticias-tecnologia-comenzar-manana-informado-ultimo-2963490.jpg?tf=1200x' alt='28 noticias de tecnología para comenzar la mañana informado de lo último' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/redmi-note-11s-pantalla-amoled-90-hz-camara-108-mpx-solo-160-euros-1204034'>El Redmi Note 11S con pantalla AMOLED a 90 Hz y cámara a 108 Mpx, solo 160 euros</a></h4>
-    <a href='https://computerhoy.com/moviles/redmi-note-11s-pantalla-amoled-90-hz-camara-108-mpx-solo-160-euros-1204034' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/xiaomi-redmi-note-11s-2786489.jpg?tf=1200x' alt='El Redmi Note 11S con pantalla AMOLED a 90 Hz y cámara a 108 Mpx, solo 160 euros' />
+    <h4><a href='https://computerhoy.com/streaming/realista-volver-descargar-emule-2023-1203944'>¿Es realista volver a descargar desde Emule en 2023?</a></h4>
+    <a href='https://computerhoy.com/streaming/realista-volver-descargar-emule-2023-1203944' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/emule-2963056.jpg?tf=1200x' alt='¿Es realista volver a descargar desde Emule en 2023?' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/redes-sociales/fotografo-viral-instagram-ha-enganado-seguidores-utilizando-inteligencia-artificial-1203960'>Este fotógrafo viral de Instagram ha engañado a sus seguidores utilizando Inteligencia Artificial</a></h4>
-    <a href='https://computerhoy.com/redes-sociales/fotografo-viral-instagram-ha-enganado-seguidores-utilizando-inteligencia-artificial-1203960' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/fotografo-viral-instagram-ha-enganado-seguidores-utilizando-inteligencia-artificial-2963100.jpg?tf=1200x' alt='Este fotógrafo viral de Instagram ha engañado a sus seguidores utilizando Inteligencia Artificial' />
+    <h4><a href='https://computerhoy.com/reportajes/mejores-auriculares-inalambricos-baratos-cancelacion-ruido-1104803'>Estos son los auriculares con cancelación de ruido más baratos</a></h4>
+    <a href='https://computerhoy.com/reportajes/mejores-auriculares-inalambricos-baratos-cancelacion-ruido-1104803' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/realme-buds-air-3s-2936378.jpg?tf=1200x' alt='Estos son los auriculares con cancelación de ruido más baratos' />
     </a>
 </div>
 
