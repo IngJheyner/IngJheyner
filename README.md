@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/aspiradora-portatil-coche-cecotec-rebaja-1200110'>Esta aspiradora portátil low cost es ideal para coches: tiene tubo flexible y aspira también líquidos</a></h4>
+    <a href='https://computerhoy.com/tecnologia/aspiradora-portatil-coche-cecotec-rebaja-1200110' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/cecotec-conga-immortal-extremesuction-2955066.jpg?tf=1200x' alt='Esta aspiradora portátil low cost es ideal para coches: tiene tubo flexible y aspira también líquidos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/streaming/netflix-amplia-lista-paises-ven-rebajado-precio-suscripcion-50-no-no-espana-1204322'>Netflix amplía la lista de países que ven rebajado el precio de suscripción en hasta un 50% y no, no es España</a></h4>
+    <a href='https://computerhoy.com/streaming/netflix-amplia-lista-paises-ven-rebajado-precio-suscripcion-50-no-no-espana-1204322' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/netflix-amplia-lista-paises-ven-rebajado-precio-suscripcion-50-no-no-espana-2963682.jpg?tf=1200x' alt='Netflix amplía la lista de países que ven rebajado el precio de suscripción en hasta un 50% y no, no es España' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/microsoft-atreve-inteligencia-artificial-diferentes-personalidades-1204302'>Microsoft se atreve con la inteligencia artificial con diferentes personalidades</a></h4>
+    <a href='https://computerhoy.com/tecnologia/microsoft-atreve-inteligencia-artificial-diferentes-personalidades-1204302' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/ceo-microsoft-2963552.jpg?tf=1200x' alt='Microsoft se atreve con la inteligencia artificial con diferentes personalidades' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/moviles/xiaomi-13-lite-desnudo-dias-presentacion-snapdragon-7-gen-1-50-mpx-camara-principal-1204310'>Xiaomi 13 Lite al desnudo a días de su presentación: Snapdragon 7 Gen 1 y 50 Mpx de cámara principal</a></h4>
+    <a href='https://computerhoy.com/moviles/xiaomi-13-lite-desnudo-dias-presentacion-snapdragon-7-gen-1-50-mpx-camara-principal-1204310' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/xiaomi-13-lite-desnudo-dias-presentacion-snapdragon-7-gen-1-50-mpx-camara-principal-2963542.jpg?tf=1200x' alt='Xiaomi 13 Lite al desnudo a días de su presentación: Snapdragon 7 Gen 1 y 50 Mpx de cámara principal' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/atuvos-tag-alternativa-barata-airtags-1203954'>Una alternativa más barata a los AirTags de Apple y funciona con Buscar de iOS</a></h4>
     <a href='https://computerhoy.com/tecnologia/atuvos-tag-alternativa-barata-airtags-1203954' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/atuvos-tag-2963090.jpg?tf=1200x' alt='Una alternativa más barata a los AirTags de Apple y funciona con Buscar de iOS' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/industria/bizum-renta-2022-23-todo-debes-tener-cuenta-no-tener-problemas-hacienda-1203844'>Bizum en la Renta 2022/23: todo lo que debes tener en cuenta para no tener problemas con Hacienda</a></h4>
-    <a href='https://computerhoy.com/industria/bizum-renta-2022-23-todo-debes-tener-cuenta-no-tener-problemas-hacienda-1203844' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/bizum-renta-2022-23-todo-debes-tener-cuenta-no-tener-problemas-2962904.jpg?tf=1200x' alt='Bizum en la Renta 2022/23: todo lo que debes tener en cuenta para no tener problemas con Hacienda' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/28-noticias-tecnologia-comenzar-manana-informado-ultimo-1204288'>28 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
-    <a href='https://computerhoy.com/tecnologia/28-noticias-tecnologia-comenzar-manana-informado-ultimo-1204288' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/27-noticias-tecnologia-comenzar-manana-informado-ultimo-2963490.jpg?tf=1200x' alt='28 noticias de tecnología para comenzar la mañana informado de lo último' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/streaming/realista-volver-descargar-emule-2023-1203944'>¿Es realista volver a descargar desde Emule en 2023?</a></h4>
-    <a href='https://computerhoy.com/streaming/realista-volver-descargar-emule-2023-1203944' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/emule-2963056.jpg?tf=1200x' alt='¿Es realista volver a descargar desde Emule en 2023?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/mejores-auriculares-inalambricos-baratos-cancelacion-ruido-1104803'>Estos son los auriculares con cancelación de ruido más baratos</a></h4>
-    <a href='https://computerhoy.com/reportajes/mejores-auriculares-inalambricos-baratos-cancelacion-ruido-1104803' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/realme-buds-air-3s-2936378.jpg?tf=1200x' alt='Estos son los auriculares con cancelación de ruido más baratos' />
     </a>
 </div>
 
