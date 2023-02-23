@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/quinta-capa-desconocida-interior-tierra-nucleo-interno-bola-hierro-1204912'>La Tierra podría tener una quinta capa desconocida, y eso podría aclarar misterios como el cambio de giro del núcleo</a></h4>
+    <a href='https://computerhoy.com/ciencia/quinta-capa-desconocida-interior-tierra-nucleo-interno-bola-hierro-1204912' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/tierra-podria-tener-quinta-capa-desconocida-eso-podria-aclarar-misterios-como-cambio-giro-nucleo-2964574.jpg?tf=1200x' alt='La Tierra podría tener una quinta capa desconocida, y eso podría aclarar misterios como el cambio de giro del núcleo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/smartwatches/apple-watch-glucosa-sangre-diabetes-1204734'>Apple ha hecho grandes progresos: un Apple Watch que mide la glucosa en sangre está más cerca</a></h4>
+    <a href='https://computerhoy.com/smartwatches/apple-watch-glucosa-sangre-diabetes-1204734' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/apple-watch-series-8-analisis-opinion-2841959.jpg?tf=1200x' alt='Apple ha hecho grandes progresos: un Apple Watch que mide la glucosa en sangre está más cerca' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/moviles/realme-tambien-traera-moviles-android-caracteristica-unica-nuevos-iphone-1204732'>realme también traerá a sus móviles Android una característica única de los nuevos iPhone</a></h4>
+    <a href='https://computerhoy.com/moviles/realme-tambien-traera-moviles-android-caracteristica-unica-nuevos-iphone-1204732' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/apps-google-iphone-14-pro-max-2866431.jpg?tf=1200x' alt='realme también traerá a sus móviles Android una característica única de los nuevos iPhone' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/streaming/spotify-quiere-tengas-dj-personal-hara-ia-1204730'>Spotify quiere que tengas tu DJ personal y lo hará con IA</a></h4>
     <a href='https://computerhoy.com/streaming/spotify-quiere-tengas-dj-personal-hara-ia-1204730' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/spotify-quiere-tengas-dj-personal-hara-ia-2964410.jpg?tf=1200x' alt='Spotify quiere que tengas tu DJ personal y lo hará con IA' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/redes-sociales/elon-musk-afirma-liberara-algoritmo-twitter-dias-1204680'>Elon Musk afirma que liberará el algoritmo de Twitter en unos días</a></h4>
     <a href='https://computerhoy.com/redes-sociales/elon-musk-afirma-liberara-algoritmo-twitter-dias-1204680' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/elon-musk-2903170.jpg?tf=1200x' alt='Elon Musk afirma que liberará el algoritmo de Twitter en unos días' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/smartwatches/reloj-barato-apple-watch-se-rebaja-1204726'>El reloj más barato de Apple tiene rebaja, sigue siendo uno de los mejores que puedes comprar</a></h4>
-    <a href='https://computerhoy.com/smartwatches/reloj-barato-apple-watch-se-rebaja-1204726' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/reloj-barato-apple-tiene-rebaja-sigue-siendo-mejores-puedes-comprar-2964402.jpg?tf=1200x' alt='El reloj más barato de Apple tiene rebaja, sigue siendo uno de los mejores que puedes comprar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/streaming/netflix-cuentas-compartidas-prorroga-siete-dias-1204716'>Continúa el culebrón: Netflix sigue sin bloquear las cuentas compartidas y ofrece una prórroga en algunos casos</a></h4>
-    <a href='https://computerhoy.com/streaming/netflix-cuentas-compartidas-prorroga-siete-dias-1204716' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/continua-culebron-netflix-no-atreve-bloquear-cuentas-ofrece-prorroga-2964392.jpg?tf=1200x' alt='Continúa el culebrón: Netflix sigue sin bloquear las cuentas compartidas y ofrece una prórroga en algunos casos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/ia-consigue-bill-gates-confiese-mayores-errores-juventud-1204706'>Una IA consigue que Bill Gates confiese sus mayores errores de juventud</a></h4>
-    <a href='https://computerhoy.com/apps/ia-consigue-bill-gates-confiese-mayores-errores-juventud-1204706' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/bill-gates-2964388.jpg?tf=1200x' alt='Una IA consigue que Bill Gates confiese sus mayores errores de juventud' />
     </a>
 </div>
 
