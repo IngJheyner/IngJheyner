@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/iphone-14-rebaja-amazon-160-euros-1204328'>iPhone 14 y iPhone 14 Pro tienen hasta 160 euros de descuento en Amazon: comienzan las rebajas en el móvil más buscado</a></h4>
-    <a href='https://computerhoy.com/tecnologia/iphone-14-rebaja-amazon-160-euros-1204328' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/iphone-14-2963536.jpg?tf=1200x' alt='iPhone 14 y iPhone 14 Pro tienen hasta 160 euros de descuento en Amazon: comienzan las rebajas en el móvil más buscado' />
+    <h4><a href='https://computerhoy.com/gaming/gafas-lidl-trabajar-ordenador-jugar-consola-399-euros-no-tienen-graduacion-1205136'>Las gafas de Lidl para trabajar con el ordenador o jugar a la consola: 3,99 euros y no tienen graduación</a></h4>
+    <a href='https://computerhoy.com/gaming/gafas-lidl-trabajar-ordenador-jugar-consola-399-euros-no-tienen-graduacion-1205136' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/gafas-gaming-2965030.jpg?tf=1200x' alt='Las gafas de Lidl para trabajar con el ordenador o jugar a la consola: 3,99 euros y no tienen graduación' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/motivo-cebras-tienen-esas-rayas-colores-ciencia-1204982'>El motivo por el que las cebras tienen esas rayas de colores según la ciencia</a></h4>
-    <a href='https://computerhoy.com/ciencia/motivo-cebras-tienen-esas-rayas-colores-ciencia-1204982' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/cebras-2964646.jpg?tf=1200x' alt='El motivo por el que las cebras tienen esas rayas de colores según la ciencia' />
+    <h4><a href='https://computerhoy.com/streaming/netflix-ha-subido-precios-espana-50-aterrizo-2015-cual-motivo-1205032'>Netflix ha subido los precios en España hasta un 50% desde que aterrizó en 2015, ¿cuál es el motivo?</a></h4>
+    <a href='https://computerhoy.com/streaming/netflix-ha-subido-precios-espana-50-aterrizo-2015-cual-motivo-1205032' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/netflix-ha-subido-precios-espana-50-llego-2015-cual-motivo-2964894.jpg?tf=1200x' alt='Netflix ha subido los precios en España hasta un 50% desde que aterrizó en 2015, ¿cuál es el motivo?' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/samsung-ya-lista-incluir-tecnologia-permitira-comunicaciones-smartphones-satelites-1204978'>Samsung ya está lista para incluir la tecnología que permitirá comunicaciones entre smartphones y satélites</a></h4>
-    <a href='https://computerhoy.com/tecnologia/samsung-ya-lista-incluir-tecnologia-permitira-comunicaciones-smartphones-satelites-1204978' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/samsung-ya-lista-incluir-tecnologia-permitira-comunicaciones-smartphones-satelites-2964762.jpg?tf=1200x' alt='Samsung ya está lista para incluir la tecnología que permitirá comunicaciones entre smartphones y satélites' />
+    <h4><a href='https://computerhoy.com/android/android-auto-libera-funcion-google-maps-llevaba-anos-bloqueada-1205068'>Android Auto libera una función de Google Maps que llevaba años bloqueada</a></h4>
+    <a href='https://computerhoy.com/android/android-auto-libera-funcion-google-maps-llevaba-anos-bloqueada-1205068' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/android-auto-2922222.jpg?tf=1200x' alt='Android Auto libera una función de Google Maps que llevaba años bloqueada' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/filtracion-confirma-proxima-gran-novedad-iphone-15-1204966'>Una filtración confirma la próxima gran novedad del iPhone 15</a></h4>
-    <a href='https://computerhoy.com/apple/filtracion-confirma-proxima-gran-novedad-iphone-15-1204966' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/dynamic-island-extendera-todos-modelos-iphone-15-2816937.jpg?tf=1200x' alt='Una filtración confirma la próxima gran novedad del iPhone 15' />
+    <h4><a href='https://computerhoy.com/tecnologia/samsung-galaxy-s23-ya-130-euros-barato-1203760'>El nuevo Samsung Galaxy S23 desploma su precio: ya es 130 euros más barato, y eso que acaba de llegar</a></h4>
+    <a href='https://computerhoy.com/tecnologia/samsung-galaxy-s23-ya-130-euros-barato-1203760' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/samsung-galaxy-s23-2943662.jpg?tf=1200x' alt='El nuevo Samsung Galaxy S23 desploma su precio: ya es 130 euros más barato, y eso que acaba de llegar' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/china-repite-censura-prohibe-empresas-tecnologicas-ofrecer-servicios-chatgpt-1204948'>China repite la censura y prohíbe a las empresas tecnológicas ofrecer servicios de ChatGPT </a></h4>
-    <a href='https://computerhoy.com/tecnologia/china-repite-censura-prohibe-empresas-tecnologicas-ofrecer-servicios-chatgpt-1204948' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/china-repite-censura-prohibe-empresas-tecnologicas-ofrecer-servicios-chatgpt-2964610.jpg?tf=1200x' alt='China repite la censura y prohíbe a las empresas tecnológicas ofrecer servicios de ChatGPT ' />
+    <h4><a href='https://computerhoy.com/google/google-sufre-consecuencias-economicas-despide-miles-robots-1205016'>Google sufre las consecuencias económicas y despide a miles... de robots</a></h4>
+    <a href='https://computerhoy.com/google/google-sufre-consecuencias-economicas-despide-miles-robots-1205016' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/robots-google-2964796.jpg?tf=1200x' alt='Google sufre las consecuencias económicas y despide a miles... de robots' />
     </a>
 </div>
 
