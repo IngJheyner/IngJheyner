@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/streaming/spotify-quiere-tengas-dj-personal-hara-ia-1204730'>Spotify quiere que tengas tu DJ personal y lo hará con IA</a></h4>
+    <a href='https://computerhoy.com/streaming/spotify-quiere-tengas-dj-personal-hara-ia-1204730' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/spotify-quiere-tengas-dj-personal-hara-ia-2964410.jpg?tf=1200x' alt='Spotify quiere que tengas tu DJ personal y lo hará con IA' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/redes-sociales/elon-musk-afirma-liberara-algoritmo-twitter-dias-1204680'>Elon Musk afirma que liberará el algoritmo de Twitter en unos días</a></h4>
+    <a href='https://computerhoy.com/redes-sociales/elon-musk-afirma-liberara-algoritmo-twitter-dias-1204680' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/elon-musk-2903170.jpg?tf=1200x' alt='Elon Musk afirma que liberará el algoritmo de Twitter en unos días' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/smartwatches/reloj-barato-apple-watch-se-rebaja-1204726'>El reloj más barato de Apple tiene rebaja, sigue siendo uno de los mejores que puedes comprar</a></h4>
+    <a href='https://computerhoy.com/smartwatches/reloj-barato-apple-watch-se-rebaja-1204726' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/reloj-barato-apple-tiene-rebaja-sigue-siendo-mejores-puedes-comprar-2964402.jpg?tf=1200x' alt='El reloj más barato de Apple tiene rebaja, sigue siendo uno de los mejores que puedes comprar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/streaming/netflix-cuentas-compartidas-prorroga-siete-dias-1204716'>Continúa el culebrón: Netflix sigue sin bloquear las cuentas compartidas y ofrece una prórroga en algunos casos</a></h4>
+    <a href='https://computerhoy.com/streaming/netflix-cuentas-compartidas-prorroga-siete-dias-1204716' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/continua-culebron-netflix-no-atreve-bloquear-cuentas-ofrece-prorroga-2964392.jpg?tf=1200x' alt='Continúa el culebrón: Netflix sigue sin bloquear las cuentas compartidas y ofrece una prórroga en algunos casos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apps/ia-consigue-bill-gates-confiese-mayores-errores-juventud-1204706'>Una IA consigue que Bill Gates confiese sus mayores errores de juventud</a></h4>
     <a href='https://computerhoy.com/apps/ia-consigue-bill-gates-confiese-mayores-errores-juventud-1204706' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/bill-gates-2964388.jpg?tf=1200x' alt='Una IA consigue que Bill Gates confiese sus mayores errores de juventud' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/editar-mensajes-whatsapp-cada-vez-cerca-podria-ser-inminente-1204704'>Editar mensajes de WhatsApp está cada vez más cerca, podría ser inminente</a></h4>
-    <a href='https://computerhoy.com/apps/editar-mensajes-whatsapp-cada-vez-cerca-podria-ser-inminente-1204704' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/whatsapp-2964384.jpg?tf=1200x' alt='Editar mensajes de WhatsApp está cada vez más cerca, podría ser inminente' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/amazon/amazon-llena-libros-escritos-chatgpt-1204662'>Amazon se llena de libros escritos por ChatGPT</a></h4>
-    <a href='https://computerhoy.com/amazon/amazon-llena-libros-escritos-chatgpt-1204662' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/trabajador-almacen-amazon-2939386.jpg?tf=1200x' alt='Amazon se llena de libros escritos por ChatGPT' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-recuperar-archivo-word-guardar-252270'>Cómo recuperar un archivo de Word sin guardar</a></h4>
-    <a href='https://computerhoy.com/tutoriales/tecnologia/como-recuperar-archivo-word-guardar-252270' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/05/como-recuperar-archivo-word-guardar.jpg?tf=1200x' alt='Cómo recuperar un archivo de Word sin guardar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/listas/tecnologia/mejores-teclados-ergonomicos-trabajar-puedes-comprar-2020-582617'>Los mejores teclados ergonómicos para trabajar que puedes comprar en 2023</a></h4>
-    <a href='https://computerhoy.com/listas/tecnologia/mejores-teclados-ergonomicos-trabajar-puedes-comprar-2020-582617' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/logitech-ergo-k860-2957394.jpg?tf=1200x' alt='Los mejores teclados ergonómicos para trabajar que puedes comprar en 2023' />
     </a>
 </div>
 
