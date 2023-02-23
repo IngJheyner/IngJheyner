@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/gaming/gafas-lidl-trabajar-ordenador-jugar-consola-399-euros-no-tienen-graduacion-1205136'>Las gafas de Lidl para trabajar con el ordenador o jugar a la consola: 3,99 euros y no tienen graduación</a></h4>
-    <a href='https://computerhoy.com/gaming/gafas-lidl-trabajar-ordenador-jugar-consola-399-euros-no-tienen-graduacion-1205136' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/gafas-gaming-2965030.jpg?tf=1200x' alt='Las gafas de Lidl para trabajar con el ordenador o jugar a la consola: 3,99 euros y no tienen graduación' />
+    <h4><a href='https://computerhoy.com/apps/aplicacion-ia-creadores-instagram-ya-disponible-puedes-probar-artifact-1205194'>La aplicación con IA de los creadores de Instagram ya está disponible: así puedes probar Artifact</a></h4>
+    <a href='https://computerhoy.com/apps/aplicacion-ia-creadores-instagram-ya-disponible-puedes-probar-artifact-1205194' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/artifact-nueva-red-social-fundadores-instagram-2943216.jpg?tf=1200x' alt='La aplicación con IA de los creadores de Instagram ya está disponible: así puedes probar Artifact' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/streaming/netflix-ha-subido-precios-espana-50-aterrizo-2015-cual-motivo-1205032'>Netflix ha subido los precios en España hasta un 50% desde que aterrizó en 2015, ¿cuál es el motivo?</a></h4>
-    <a href='https://computerhoy.com/streaming/netflix-ha-subido-precios-espana-50-aterrizo-2015-cual-motivo-1205032' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/netflix-ha-subido-precios-espana-50-llego-2015-cual-motivo-2964894.jpg?tf=1200x' alt='Netflix ha subido los precios en España hasta un 50% desde que aterrizó en 2015, ¿cuál es el motivo?' />
+    <h4><a href='https://computerhoy.com/noticias/internet/como-recuperar-cuenta-vieja-hotmail-75471'>Cómo recuperar una cuenta vieja de Hotmail</a></h4>
+    <a href='https://computerhoy.com/noticias/internet/como-recuperar-cuenta-vieja-hotmail-75471' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/02/285653-como-recuperar-cuenta-vieja-hotmail.jpg?tf=1200x' alt='Cómo recuperar una cuenta vieja de Hotmail' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/android/android-auto-libera-funcion-google-maps-llevaba-anos-bloqueada-1205068'>Android Auto libera una función de Google Maps que llevaba años bloqueada</a></h4>
-    <a href='https://computerhoy.com/android/android-auto-libera-funcion-google-maps-llevaba-anos-bloqueada-1205068' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/android-auto-2922222.jpg?tf=1200x' alt='Android Auto libera una función de Google Maps que llevaba años bloqueada' />
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-purificadores-aire-baratos-1031281'>Estos son los mejores purificadores de aire baratos que puedes comprar en 2023</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-purificadores-aire-baratos-1031281' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/purificador-aire-philips-ac2887-10-2963948.jpg?tf=1200x' alt='Estos son los mejores purificadores de aire baratos que puedes comprar en 2023' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/samsung-galaxy-s23-ya-130-euros-barato-1203760'>El nuevo Samsung Galaxy S23 desploma su precio: ya es 130 euros más barato, y eso que acaba de llegar</a></h4>
-    <a href='https://computerhoy.com/tecnologia/samsung-galaxy-s23-ya-130-euros-barato-1203760' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/samsung-galaxy-s23-2943662.jpg?tf=1200x' alt='El nuevo Samsung Galaxy S23 desploma su precio: ya es 130 euros más barato, y eso que acaba de llegar' />
+    <h4><a href='https://computerhoy.com/moviles/asistente-samsung-utilizara-ia-clonar-voz-contestar-llamadas-1173426'>El asistente de Samsung utilizará la IA para clonar tu voz y contestar tus llamadas</a></h4>
+    <a href='https://computerhoy.com/moviles/asistente-samsung-utilizara-ia-clonar-voz-contestar-llamadas-1173426' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/05/bixby.jpg?tf=1200x' alt='El asistente de Samsung utilizará la IA para clonar tu voz y contestar tus llamadas' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/google-sufre-consecuencias-economicas-despide-miles-robots-1205016'>Google sufre las consecuencias económicas y despide a miles... de robots</a></h4>
-    <a href='https://computerhoy.com/google/google-sufre-consecuencias-economicas-despide-miles-robots-1205016' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/robots-google-2964796.jpg?tf=1200x' alt='Google sufre las consecuencias económicas y despide a miles... de robots' />
+    <h4><a href='https://computerhoy.com/streaming/youtube-quiere-pagues-ver-videos-maxima-resolucion-1196010'>YouTube quiere que pagues para ver los vídeos a su máxima resolución</a></h4>
+    <a href='https://computerhoy.com/streaming/youtube-quiere-pagues-ver-videos-maxima-resolucion-1196010' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/youtube-premium-2718177.jpg?tf=1200x' alt='YouTube quiere que pagues para ver los vídeos a su máxima resolución' />
     </a>
 </div>
 
