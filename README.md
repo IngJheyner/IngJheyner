@@ -50,9 +50,33 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/quinta-capa-desconocida-interior-tierra-nucleo-interno-bola-hierro-1204912'>La Tierra podría tener una quinta capa desconocida, y eso podría aclarar misterios como el cambio de giro del núcleo</a></h4>
+    <h4><a href='https://computerhoy.com/tecnologia/26-noticias-tecnologia-comenzar-manana-informado-ultimo-1204918'>26 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
+    <a href='https://computerhoy.com/tecnologia/26-noticias-tecnologia-comenzar-manana-informado-ultimo-1204918' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/26-noticias-tecnologia-comenzar-manana-informado-ultimo-2964582.jpg?tf=1200x' alt='26 noticias de tecnología para comenzar la mañana informado de lo último' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-portatiles-windows-hemos-probado-ultimamente-995347'>Estos son los 5 mejores portátiles Windows que hemos probado últimamente</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-portatiles-windows-hemos-probado-ultimamente-995347' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/samsung-galaxy-book2-pro-analisis-opinion-2863757.jpg?tf=1200x' alt='Estos son los 5 mejores portátiles Windows que hemos probado últimamente' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/wilson-airless-primer-balon-baloncesto-sin-aire-video-1204914'>Wilson Airless, el primer balón de baloncesto sin aire (vídeo)</a></h4>
+    <a href='https://computerhoy.com/tecnologia/wilson-airless-primer-balon-baloncesto-sin-aire-video-1204914' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/verticalimage1677119948478-2964578.jpg?tf=1200x' alt='Wilson Airless, el primer balón de baloncesto sin aire (vídeo)' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/quinta-capa-desconocida-interior-tierra-nucleo-interno-bola-hierro-1204912'>Descubren una quinta capa desconocida de la Tierra, y eso podría aclarar misterios como el cambio de giro del núcleo</a></h4>
     <a href='https://computerhoy.com/ciencia/quinta-capa-desconocida-interior-tierra-nucleo-interno-bola-hierro-1204912' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/tierra-podria-tener-quinta-capa-desconocida-eso-podria-aclarar-misterios-como-cambio-giro-nucleo-2964574.jpg?tf=1200x' alt='La Tierra podría tener una quinta capa desconocida, y eso podría aclarar misterios como el cambio de giro del núcleo' />
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/tierra-podria-tener-quinta-capa-desconocida-eso-podria-aclarar-misterios-como-cambio-giro-nucleo-2964574.jpg?tf=1200x' alt='Descubren una quinta capa desconocida de la Tierra, y eso podría aclarar misterios como el cambio de giro del núcleo' />
     </a>
 </div>
 
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/smartwatches/apple-watch-glucosa-sangre-diabetes-1204734'>Apple ha hecho grandes progresos: un Apple Watch que mide la glucosa en sangre está más cerca</a></h4>
     <a href='https://computerhoy.com/smartwatches/apple-watch-glucosa-sangre-diabetes-1204734' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/apple-watch-series-8-analisis-opinion-2841959.jpg?tf=1200x' alt='Apple ha hecho grandes progresos: un Apple Watch que mide la glucosa en sangre está más cerca' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/realme-tambien-traera-moviles-android-caracteristica-unica-nuevos-iphone-1204732'>realme también traerá a sus móviles Android una característica única de los nuevos iPhone</a></h4>
-    <a href='https://computerhoy.com/moviles/realme-tambien-traera-moviles-android-caracteristica-unica-nuevos-iphone-1204732' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/apps-google-iphone-14-pro-max-2866431.jpg?tf=1200x' alt='realme también traerá a sus móviles Android una característica única de los nuevos iPhone' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/streaming/spotify-quiere-tengas-dj-personal-hara-ia-1204730'>Spotify quiere que tengas tu DJ personal y lo hará con IA</a></h4>
-    <a href='https://computerhoy.com/streaming/spotify-quiere-tengas-dj-personal-hara-ia-1204730' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/spotify-quiere-tengas-dj-personal-hara-ia-2964410.jpg?tf=1200x' alt='Spotify quiere que tengas tu DJ personal y lo hará con IA' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/redes-sociales/elon-musk-afirma-liberara-algoritmo-twitter-dias-1204680'>Elon Musk afirma que liberará el algoritmo de Twitter en unos días</a></h4>
-    <a href='https://computerhoy.com/redes-sociales/elon-musk-afirma-liberara-algoritmo-twitter-dias-1204680' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/elon-musk-2903170.jpg?tf=1200x' alt='Elon Musk afirma que liberará el algoritmo de Twitter en unos días' />
     </a>
 </div>
 
