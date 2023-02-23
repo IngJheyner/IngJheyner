@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/aplicacion-ia-creadores-instagram-ya-disponible-puedes-probar-artifact-1205194'>La aplicación con IA de los creadores de Instagram ya está disponible: así puedes probar Artifact</a></h4>
-    <a href='https://computerhoy.com/apps/aplicacion-ia-creadores-instagram-ya-disponible-puedes-probar-artifact-1205194' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/artifact-nueva-red-social-fundadores-instagram-2943216.jpg?tf=1200x' alt='La aplicación con IA de los creadores de Instagram ya está disponible: así puedes probar Artifact' />
+    <h4><a href='https://computerhoy.com/streaming/estrenos-marzo-cine-movistar-plus-plus-1205292'>La última de Brad Pitt, Dune, y otras películas interesantes en los estrenos de marzo de Movistar Plus+</a></h4>
+    <a href='https://computerhoy.com/streaming/estrenos-marzo-cine-movistar-plus-plus-1205292' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/ultima-brad-pitt-dune-otras-peliculas-interesantes-estrenos-marzo-movistar-plus-2965424.jpg?tf=1200x' alt='La última de Brad Pitt, Dune, y otras películas interesantes en los estrenos de marzo de Movistar Plus+' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/internet/como-recuperar-cuenta-vieja-hotmail-75471'>Cómo recuperar una cuenta vieja de Hotmail</a></h4>
-    <a href='https://computerhoy.com/noticias/internet/como-recuperar-cuenta-vieja-hotmail-75471' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/02/285653-como-recuperar-cuenta-vieja-hotmail.jpg?tf=1200x' alt='Cómo recuperar una cuenta vieja de Hotmail' />
+    <h4><a href='https://computerhoy.com/life/autentica-bola-dragon-aparece-misteriosamente-playa-japonesa-1205284'>Una auténtica “Bola de Dragón” aparece misteriosamente en una playa japonesa</a></h4>
+    <a href='https://computerhoy.com/life/autentica-bola-dragon-aparece-misteriosamente-playa-japonesa-1205284' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/autentica-bola-dragon-aparece-misteriosamente-playa-japonesa-2965438.jpg?tf=1200x' alt='Una auténtica “Bola de Dragón” aparece misteriosamente en una playa japonesa' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-purificadores-aire-baratos-1031281'>Estos son los mejores purificadores de aire baratos que puedes comprar en 2023</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-purificadores-aire-baratos-1031281' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/purificador-aire-philips-ac2887-10-2963948.jpg?tf=1200x' alt='Estos son los mejores purificadores de aire baratos que puedes comprar en 2023' />
+    <h4><a href='https://computerhoy.com/streaming/estafadores-estan-poniendo-botas-lio-cuentas-compartidas-netflix-1205280'>Los estafadores se están poniendo las botas con el lío de las cuentas compartidas de Netflix</a></h4>
+    <a href='https://computerhoy.com/streaming/estafadores-estan-poniendo-botas-lio-cuentas-compartidas-netflix-1205280' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/netflix-2796523.jpg?tf=1200x' alt='Los estafadores se están poniendo las botas con el lío de las cuentas compartidas de Netflix' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/asistente-samsung-utilizara-ia-clonar-voz-contestar-llamadas-1173426'>El asistente de Samsung utilizará la IA para clonar tu voz y contestar tus llamadas</a></h4>
-    <a href='https://computerhoy.com/moviles/asistente-samsung-utilizara-ia-clonar-voz-contestar-llamadas-1173426' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/05/bixby.jpg?tf=1200x' alt='El asistente de Samsung utilizará la IA para clonar tu voz y contestar tus llamadas' />
+    <h4><a href='https://computerhoy.com/hogar/freidora-aire-cosori-nueva-generacion-exclusiva-oferta-1205240'>La freidora de aire de Cosori de nueva generación, es exclusiva y vuelve a caer por debajo de los 100 euros</a></h4>
+    <a href='https://computerhoy.com/hogar/freidora-aire-cosori-nueva-generacion-exclusiva-oferta-1205240' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/freidora-aire-cosori-nueva-generacion-exclusiva-vuelve-caer-debajo-100-euros-2965248.jpg?tf=1200x' alt='La freidora de aire de Cosori de nueva generación, es exclusiva y vuelve a caer por debajo de los 100 euros' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/streaming/youtube-quiere-pagues-ver-videos-maxima-resolucion-1196010'>YouTube quiere que pagues para ver los vídeos a su máxima resolución</a></h4>
-    <a href='https://computerhoy.com/streaming/youtube-quiere-pagues-ver-videos-maxima-resolucion-1196010' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/youtube-premium-2718177.jpg?tf=1200x' alt='YouTube quiere que pagues para ver los vídeos a su máxima resolución' />
+    <h4><a href='https://computerhoy.com/hogar/tener-imanes-puerta-frigorifico-hace-consuma-1205224'>¿Tener imanes en la puerta del frigorífico hace que consuma más?</a></h4>
+    <a href='https://computerhoy.com/hogar/tener-imanes-puerta-frigorifico-hace-consuma-1205224' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/03/neveras-2259911.jpg?tf=1200x' alt='¿Tener imanes en la puerta del frigorífico hace que consuma más?' />
     </a>
 </div>
 
