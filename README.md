@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/mejores-cursos-tecnologicos-mit-gratuitos-puedes-empezar-ya-1205582'>Los mejores cursos tecnológicos del MIT gratuitos que puedes empezar ya</a></h4>
-    <a href='https://computerhoy.com/ciencia/mejores-cursos-tecnologicos-mit-gratuitos-puedes-empezar-ya-1205582' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/instituto-tecnologico-massachusetts-2965884.jpg?tf=1200x' alt='Los mejores cursos tecnológicos del MIT gratuitos que puedes empezar ya' />
+    <h4><a href='https://computerhoy.com/tecnologia/qualcomm-consigue-ejecutar-android-generacion-imagenes-ia-stable-diffusion-tiempo-record-1205654'>Qualcomm consigue ejecutar en Android la generación de imágenes IA de Stable Diffusion en tiempo récord</a></h4>
+    <a href='https://computerhoy.com/tecnologia/qualcomm-consigue-ejecutar-android-generacion-imagenes-ia-stable-diffusion-tiempo-record-1205654' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/qualcomm-consigue-ejecutar-android-generacion-imagenes-ia-stable-diffusion-tiempo-record-2966102.jpg?tf=1200x' alt='Qualcomm consigue ejecutar en Android la generación de imágenes IA de Stable Diffusion en tiempo récord' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/word-kindle-proxima-gran-funcionalidad-microsoft-office-llega-marzo-1205578'>De Word a Kindle, la próxima gran funcionalidad de Microsoft Office que llega en marzo</a></h4>
-    <a href='https://computerhoy.com/tecnologia/word-kindle-proxima-gran-funcionalidad-microsoft-office-llega-marzo-1205578' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/nuevo-kindle-2022-2813875.jpg?tf=1200x' alt='De Word a Kindle, la próxima gran funcionalidad de Microsoft Office que llega en marzo' />
+    <h4><a href='https://computerhoy.com/tecnologia/realme-watch-3-buen-reloj-barato-hemos-probado-1203866'>Uno de los mejores relojes que hemos probado es mucho más barato de lo que piensas: cuesta solo 59 euros</a></h4>
+    <a href='https://computerhoy.com/tecnologia/realme-watch-3-buen-reloj-barato-hemos-probado-1203866' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/realme-watch-3-analisis-opinion-2815513.jpg?tf=1200x' alt='Uno de los mejores relojes que hemos probado es mucho más barato de lo que piensas: cuesta solo 59 euros' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/alternativas-chatgpt-han-pasado-desapercibidas-1202864'>Alternativas de ChatGPT que han pasado desapercibidas</a></h4>
-    <a href='https://computerhoy.com/tecnologia/alternativas-chatgpt-han-pasado-desapercibidas-1202864' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/chatgtp-movil-2961214.jpg?tf=1200x' alt='Alternativas de ChatGPT que han pasado desapercibidas' />
+    <h4><a href='https://computerhoy.com/streaming/pluto-tv-tienen-problema-listas-iptv-canales-gratis-eliminan-publicidad-1205640'>Pluto TV tienen un problema: las listas IPTV de canales gratis que eliminan su publicidad</a></h4>
+    <a href='https://computerhoy.com/streaming/pluto-tv-tienen-problema-listas-iptv-canales-gratis-eliminan-publicidad-1205640' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/pluto-tv-iptv-2966082.jpg?tf=1200x' alt='Pluto TV tienen un problema: las listas IPTV de canales gratis que eliminan su publicidad' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/life/aire-acondicionado-cual-es-mejor-relacion-calidad-precio-455371'>Los mejores aires acondicionados en relación calidad/precio que puedes comprar</a></h4>
-    <a href='https://computerhoy.com/reportajes/life/aire-acondicionado-cual-es-mejor-relacion-calidad-precio-455371' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/aires-acondicionados-instalados-fachada-2961696.jpg?tf=1200x' alt='Los mejores aires acondicionados en relación calidad/precio que puedes comprar' />
+    <h4><a href='https://computerhoy.com/ciberseguridad/hackean-cuenta-usuario-netflix-dejan-extrano-gracioso-mensaje-clave-1205620'>Hackean la cuenta de un usuario de Netflix y le dejan un extraño y "gracioso" mensaje en clave</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/hackean-cuenta-usuario-netflix-dejan-extrano-gracioso-mensaje-clave-1205620' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/hackean-cuenta-netflix-dejan-espeluznante-mensaje-clave-2965998.jpg?tf=1200x' alt='Hackean la cuenta de un usuario de Netflix y le dejan un extraño y "gracioso" mensaje en clave' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/movil-infectado-spyware-como-saberlo-tipos-existen-1205250'>¿Está tu móvil infectado por un spyware? Cómo saberlo y qué tipos existen</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/movil-infectado-spyware-como-saberlo-tipos-existen-1205250' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/movil-infectado-spyware-como-saberlo-tipos-existen-2965342.jpg?tf=1200x' alt='¿Está tu móvil infectado por un spyware? Cómo saberlo y qué tipos existen' />
+    <h4><a href='https://computerhoy.com/ciberseguridad/usan-voz-clonada-ia-acceder-cuenta-banco-reino-unido-1205604'>Usan una voz clonada por IA para acceder a una cuenta de un banco en Reino Unido</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/usan-voz-clonada-ia-acceder-cuenta-banco-reino-unido-1205604' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/voz-inteligencia-artificial-2965946.jpg?tf=1200x' alt='Usan una voz clonada por IA para acceder a una cuenta de un banco en Reino Unido' />
     </a>
 </div>
 
