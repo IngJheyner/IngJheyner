@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/motor/trucos-mantenimiento-sencillos-rapidos-coche-dure-reducir-averias-1205720'>Trucos de mantenimiento sencillos y rápidos para que tu coche duré más y reducir averías</a></h4>
+    <a href='https://computerhoy.com/motor/trucos-mantenimiento-sencillos-rapidos-coche-dure-reducir-averias-1205720' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/09/mantenimiento-fiat-tipo.jpg?tf=1200x' alt='Trucos de mantenimiento sencillos y rápidos para que tu coche duré más y reducir averías' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/edwin-land-desconocido-guru-steve-jobs-inspiro-toda-carrera-1205670'>Edwin Land, el desconocido gurú de Steve Jobs que inspiró toda su carrera</a></h4>
+    <a href='https://computerhoy.com/apple/edwin-land-desconocido-guru-steve-jobs-inspiro-toda-carrera-1205670' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/edwin-land-desconocido-guru-steve-jobs-2966108.jpg?tf=1200x' alt='Edwin Land, el desconocido gurú de Steve Jobs que inspiró toda su carrera' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/qualcomm-consigue-ejecutar-android-generacion-imagenes-ia-stable-diffusion-tiempo-record-1205654'>Qualcomm consigue ejecutar en Android la generación de imágenes IA de Stable Diffusion en tiempo récord</a></h4>
     <a href='https://computerhoy.com/tecnologia/qualcomm-consigue-ejecutar-android-generacion-imagenes-ia-stable-diffusion-tiempo-record-1205654' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/qualcomm-consigue-ejecutar-android-generacion-imagenes-ia-stable-diffusion-tiempo-record-2966102.jpg?tf=1200x' alt='Qualcomm consigue ejecutar en Android la generación de imágenes IA de Stable Diffusion en tiempo récord' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/streaming/pluto-tv-tienen-problema-listas-iptv-canales-gratis-eliminan-publicidad-1205640'>Pluto TV tienen un problema: las listas IPTV de canales gratis que eliminan su publicidad</a></h4>
     <a href='https://computerhoy.com/streaming/pluto-tv-tienen-problema-listas-iptv-canales-gratis-eliminan-publicidad-1205640' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/pluto-tv-iptv-2966082.jpg?tf=1200x' alt='Pluto TV tienen un problema: las listas IPTV de canales gratis que eliminan su publicidad' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/hackean-cuenta-usuario-netflix-dejan-extrano-gracioso-mensaje-clave-1205620'>Hackean la cuenta de un usuario de Netflix y le dejan un extraño y "gracioso" mensaje en clave</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/hackean-cuenta-usuario-netflix-dejan-extrano-gracioso-mensaje-clave-1205620' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/hackean-cuenta-netflix-dejan-espeluznante-mensaje-clave-2965998.jpg?tf=1200x' alt='Hackean la cuenta de un usuario de Netflix y le dejan un extraño y "gracioso" mensaje en clave' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/usan-voz-clonada-ia-acceder-cuenta-banco-reino-unido-1205604'>Usan una voz clonada por IA para acceder a una cuenta de un banco en Reino Unido</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/usan-voz-clonada-ia-acceder-cuenta-banco-reino-unido-1205604' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/voz-inteligencia-artificial-2965946.jpg?tf=1200x' alt='Usan una voz clonada por IA para acceder a una cuenta de un banco en Reino Unido' />
     </a>
 </div>
 
