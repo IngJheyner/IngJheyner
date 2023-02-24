@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/como-te-enganan-autonomia-coches-electricos-1205228'>Cómo te engañan con la autonomía de los coches eléctricos</a></h4>
-    <a href='https://computerhoy.com/motor/como-te-enganan-autonomia-coches-electricos-1205228' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/hombre-empujando-coche-2965340.jpg?tf=1200x' alt='Cómo te engañan con la autonomía de los coches eléctricos' />
+    <h4><a href='https://computerhoy.com/ciencia/mejores-cursos-tecnologicos-mit-gratuitos-puedes-empezar-ya-1205582'>Los mejores cursos tecnológicos del MIT gratuitos que puedes empezar ya</a></h4>
+    <a href='https://computerhoy.com/ciencia/mejores-cursos-tecnologicos-mit-gratuitos-puedes-empezar-ya-1205582' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/instituto-tecnologico-massachusetts-2965884.jpg?tf=1200x' alt='Los mejores cursos tecnológicos del MIT gratuitos que puedes empezar ya' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/23-noticias-tecnologia-comenzar-manana-informado-ultimo-1205548'>23 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
-    <a href='https://computerhoy.com/tecnologia/23-noticias-tecnologia-comenzar-manana-informado-ultimo-1205548' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/23-noticias-tecnologia-comenzar-manana-informado-ultimo-2965804.jpg?tf=1200x' alt='23 noticias de tecnología para comenzar la mañana informado de lo último' />
+    <h4><a href='https://computerhoy.com/tecnologia/word-kindle-proxima-gran-funcionalidad-microsoft-office-llega-marzo-1205578'>De Word a Kindle, la próxima gran funcionalidad de Microsoft Office que llega en marzo</a></h4>
+    <a href='https://computerhoy.com/tecnologia/word-kindle-proxima-gran-funcionalidad-microsoft-office-llega-marzo-1205578' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/nuevo-kindle-2022-2813875.jpg?tf=1200x' alt='De Word a Kindle, la próxima gran funcionalidad de Microsoft Office que llega en marzo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-relojes-inteligentes-hemos-probado-ultimamente-1006129'>Estos son los 11 mejores relojes inteligentes que hemos probado últimamente</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-relojes-inteligentes-hemos-probado-ultimamente-1006129' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/fitbit-sense-2-2898202.jpg?tf=1200x' alt='Estos son los 11 mejores relojes inteligentes que hemos probado últimamente' />
+    <h4><a href='https://computerhoy.com/tecnologia/alternativas-chatgpt-han-pasado-desapercibidas-1202864'>Alternativas de ChatGPT que han pasado desapercibidas</a></h4>
+    <a href='https://computerhoy.com/tecnologia/alternativas-chatgpt-han-pasado-desapercibidas-1202864' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/chatgtp-movil-2961214.jpg?tf=1200x' alt='Alternativas de ChatGPT que han pasado desapercibidas' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/industria/usar-bizum-dos-bancos-un-numero-telefono-1205542'>¿Es posible usar Bizum con dos bancos a la vez? Esta es la única forma de conseguirlo</a></h4>
-    <a href='https://computerhoy.com/industria/usar-bizum-dos-bancos-un-numero-telefono-1205542' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/posible-usar-bizum-dos-bancos-vez-unica-forma-conseguirlo-2965572.jpg?tf=1200x' alt='¿Es posible usar Bizum con dos bancos a la vez? Esta es la única forma de conseguirlo' />
+    <h4><a href='https://computerhoy.com/reportajes/life/aire-acondicionado-cual-es-mejor-relacion-calidad-precio-455371'>Los mejores aires acondicionados en relación calidad/precio que puedes comprar</a></h4>
+    <a href='https://computerhoy.com/reportajes/life/aire-acondicionado-cual-es-mejor-relacion-calidad-precio-455371' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/aires-acondicionados-instalados-fachada-2961696.jpg?tf=1200x' alt='Los mejores aires acondicionados en relación calidad/precio que puedes comprar' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/google-magic-eraser-borrador-magico-todos-moviles-android-iphone-google-one-1205308'>Google lleva su Borrador Mágico a todos los móviles Android, y al iPhone, pero con una pega</a></h4>
-    <a href='https://computerhoy.com/apps/google-magic-eraser-borrador-magico-todos-moviles-android-iphone-google-one-1205308' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/google-lleva-borrador-magico-todos-moviles-android-pero-pega-2965510.jpg?tf=1200x' alt='Google lleva su Borrador Mágico a todos los móviles Android, y al iPhone, pero con una pega' />
+    <h4><a href='https://computerhoy.com/ciberseguridad/movil-infectado-spyware-como-saberlo-tipos-existen-1205250'>¿Está tu móvil infectado por un spyware? Cómo saberlo y qué tipos existen</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/movil-infectado-spyware-como-saberlo-tipos-existen-1205250' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/movil-infectado-spyware-como-saberlo-tipos-existen-2965342.jpg?tf=1200x' alt='¿Está tu móvil infectado por un spyware? Cómo saberlo y qué tipos existen' />
     </a>
 </div>
 
