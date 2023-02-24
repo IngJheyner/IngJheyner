@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/life/climatizadores-evaporativos-funcionamiento-mejores-modelos-1063455'>Climatizador evaporativo: cómo funciona, cuánto enfría y mejores modelos a la venta</a></h4>
-    <a href='https://computerhoy.com/reportajes/life/climatizadores-evaporativos-funcionamiento-mejores-modelos-1063455' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/climatizador-evaporativo-oneconcept-2964960.jpg?tf=1200x' alt='Climatizador evaporativo: cómo funciona, cuánto enfría y mejores modelos a la venta' />
+    <h4><a href='https://computerhoy.com/streaming/el-consultor-serie-prime-video-thriller-christoph-waltz-1205872'>El consultor, la serie para ver de un tirón si te gusta el thriller y tienes un jefe que te agobia</a></h4>
+    <a href='https://computerhoy.com/streaming/el-consultor-serie-prime-video-thriller-christoph-waltz-1205872' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/verticalimage1677267994865-2966476.jpg?tf=1200x' alt='El consultor, la serie para ver de un tirón si te gusta el thriller y tienes un jefe que te agobia' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/apunta-ha-conseguido-banco-devuelva-5000-euros-robados-estafa-phishing-1205804'>Apunta: así ha conseguido que su banco le devuelva 5.000 euros robados en una estafa por phishing</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/apunta-ha-conseguido-banco-devuelva-5000-euros-robados-estafa-phishing-1205804' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/estafa-internet-2473223.jpg?tf=1200x' alt='Apunta: así ha conseguido que su banco le devuelva 5.000 euros robados en una estafa por phishing' />
+    <h4><a href='https://computerhoy.com/ciberseguridad/guardia-civil-advierte-peligroso-mensaje-extendiendo-sms-1205868'>La Guardia Civil advierte de un peligroso mensaje que se está extendiendo vía SMS</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/guardia-civil-advierte-peligroso-mensaje-extendiendo-sms-1205868' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/sms-malware-virus-2407859.jpg?tf=1200x' alt='La Guardia Civil advierte de un peligroso mensaje que se está extendiendo vía SMS' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/streaming/series-ver-fin-semana-apple-tv-prime-video-amc-dos-agentes-bruja-jefe-1205774'>Qué series ver este fin de semana en Apple TV+, Prime Video y AMC+: dos agentes, una bruja y un jefe</a></h4>
-    <a href='https://computerhoy.com/streaming/series-ver-fin-semana-apple-tv-prime-video-amc-dos-agentes-bruja-jefe-1205774' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/brujas-mayfair-2966294.jpg?tf=1200x' alt='Qué series ver este fin de semana en Apple TV+, Prime Video y AMC+: dos agentes, una bruja y un jefe' />
+    <h4><a href='https://computerhoy.com/motor/como-reconocer-luces-v16-dgt-homologadas-no-te-timen-1205866'>Cómo reconocer las luces V16 de la DGT homologadas y que no te timen</a></h4>
+    <a href='https://computerhoy.com/motor/como-reconocer-luces-v16-dgt-homologadas-no-te-timen-1205866' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/dispositivo-v16-2390151.jpg?tf=1200x' alt='Cómo reconocer las luces V16 de la DGT homologadas y que no te timen' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/streaming/peliculas-ver-fin-semana-netflix-prime-video-movistar-plus-mujercitas-dune-fiel-guerrero-japones-1205676'>Qué películas ver este fin de semana en Netflix, Prime Video y Movistar Plus+: Mujercitas, Dune y un fiel guerrero japonés</a></h4>
-    <a href='https://computerhoy.com/streaming/peliculas-ver-fin-semana-netflix-prime-video-movistar-plus-mujercitas-dune-fiel-guerrero-japones-1205676' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/peliculas-ver-fin-semana-netflix-prime-video-movistar-plus-mujercitas-dune-fiel-guerrero-japones-2966144.jpg?tf=1200x' alt='Qué películas ver este fin de semana en Netflix, Prime Video y Movistar Plus+: Mujercitas, Dune y un fiel guerrero japonés' />
+    <h4><a href='https://computerhoy.com/google/ordenador-cuantico-google-reduce-tasas-error-consigue-nuevo-exito-1205806'>El ordenador cuántico de Google reduce sus tasas de error y consigue un nuevo éxito</a></h4>
+    <a href='https://computerhoy.com/google/ordenador-cuantico-google-reduce-tasas-error-consigue-nuevo-exito-1205806' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/ordenador-cuantico-google-reduce-tasas-error-consigue-nuevo-exito-2966468.jpg?tf=1200x' alt='El ordenador cuántico de Google reduce sus tasas de error y consigue un nuevo éxito' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/ecuador-tiene-requisada-tanta-cocaina-va-utilizar-tapar-agujero-gigante-1205772'>Ecuador tiene requisada tanta cocaína que la va a utilizar para tapar un agujero gigante</a></h4>
-    <a href='https://computerhoy.com/internet/ecuador-tiene-requisada-tanta-cocaina-va-utilizar-tapar-agujero-gigante-1205772' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/ecuador-tiene-requisada-tanta-cocaina-va-utilizar-tapar-agujero-gigante-2966388.jpg?tf=1200x' alt='Ecuador tiene requisada tanta cocaína que la va a utilizar para tapar un agujero gigante' />
+    <h4><a href='https://computerhoy.com/apps/lumafusion-da-salto-android-chromeos-puedes-descargar-mejor-editor-video-ios-1205814'>LumaFusion da el salto a Android y ChromeOS: así puedes descargar el mejor editor de vídeo para iOS</a></h4>
+    <a href='https://computerhoy.com/apps/lumafusion-da-salto-android-chromeos-puedes-descargar-mejor-editor-video-ios-1205814' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/lumafusion-da-salto-android-chromeos-puedes-descargar-mejor-editor-video-ios-2966444.jpg?tf=1200x' alt='LumaFusion da el salto a Android y ChromeOS: así puedes descargar el mejor editor de vídeo para iOS' />
     </a>
 </div>
 
