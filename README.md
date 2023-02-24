@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/motor/como-te-enganan-autonomia-coches-electricos-1205228'>Cómo te engañan con la autonomía de los coches eléctricos</a></h4>
+    <a href='https://computerhoy.com/motor/como-te-enganan-autonomia-coches-electricos-1205228' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/hombre-empujando-coche-2965340.jpg?tf=1200x' alt='Cómo te engañan con la autonomía de los coches eléctricos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/23-noticias-tecnologia-comenzar-manana-informado-ultimo-1205548'>23 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
+    <a href='https://computerhoy.com/tecnologia/23-noticias-tecnologia-comenzar-manana-informado-ultimo-1205548' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/23-noticias-tecnologia-comenzar-manana-informado-ultimo-2965804.jpg?tf=1200x' alt='23 noticias de tecnología para comenzar la mañana informado de lo último' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-relojes-inteligentes-hemos-probado-ultimamente-1006129'>Estos son los 11 mejores relojes inteligentes que hemos probado últimamente</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-relojes-inteligentes-hemos-probado-ultimamente-1006129' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/fitbit-sense-2-2898202.jpg?tf=1200x' alt='Estos son los 11 mejores relojes inteligentes que hemos probado últimamente' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/industria/usar-bizum-dos-bancos-un-numero-telefono-1205542'>¿Es posible usar Bizum con dos bancos a la vez? Esta es la única forma de conseguirlo</a></h4>
     <a href='https://computerhoy.com/industria/usar-bizum-dos-bancos-un-numero-telefono-1205542' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/posible-usar-bizum-dos-bancos-vez-unica-forma-conseguirlo-2965572.jpg?tf=1200x' alt='¿Es posible usar Bizum con dos bancos a la vez? Esta es la única forma de conseguirlo' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/apps/google-magic-eraser-borrador-magico-todos-moviles-android-iphone-google-one-1205308'>Google lleva su Borrador Mágico a todos los móviles Android, y al iPhone, pero con una pega</a></h4>
     <a href='https://computerhoy.com/apps/google-magic-eraser-borrador-magico-todos-moviles-android-iphone-google-one-1205308' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/google-lleva-borrador-magico-todos-moviles-android-pero-pega-2965510.jpg?tf=1200x' alt='Google lleva su Borrador Mágico a todos los móviles Android, y al iPhone, pero con una pega' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/streaming/estrenos-marzo-cine-movistar-plus-plus-1205292'>La última de Brad Pitt, Dune, y otras películas interesantes en los estrenos de marzo de Movistar Plus+</a></h4>
-    <a href='https://computerhoy.com/streaming/estrenos-marzo-cine-movistar-plus-plus-1205292' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/ultima-brad-pitt-dune-otras-peliculas-interesantes-estrenos-marzo-movistar-plus-2965424.jpg?tf=1200x' alt='La última de Brad Pitt, Dune, y otras películas interesantes en los estrenos de marzo de Movistar Plus+' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/autentica-bola-dragon-aparece-misteriosamente-playa-japonesa-1205284'>Una auténtica “Bola de Dragón” aparece misteriosamente en una playa japonesa</a></h4>
-    <a href='https://computerhoy.com/life/autentica-bola-dragon-aparece-misteriosamente-playa-japonesa-1205284' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/autentica-bola-dragon-aparece-misteriosamente-playa-japonesa-2965438.jpg?tf=1200x' alt='Una auténtica “Bola de Dragón” aparece misteriosamente en una playa japonesa' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/streaming/estafadores-estan-poniendo-botas-lio-cuentas-compartidas-netflix-1205280'>Los estafadores se están poniendo las botas con el lío de las cuentas compartidas de Netflix</a></h4>
-    <a href='https://computerhoy.com/streaming/estafadores-estan-poniendo-botas-lio-cuentas-compartidas-netflix-1205280' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/netflix-2796523.jpg?tf=1200x' alt='Los estafadores se están poniendo las botas con el lío de las cuentas compartidas de Netflix' />
     </a>
 </div>
 
