@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/trucos-mantenimiento-sencillos-rapidos-coche-dure-reducir-averias-1205720'>Trucos de mantenimiento sencillos y rápidos para que tu coche duré más y reducir averías</a></h4>
-    <a href='https://computerhoy.com/motor/trucos-mantenimiento-sencillos-rapidos-coche-dure-reducir-averias-1205720' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/09/mantenimiento-fiat-tipo.jpg?tf=1200x' alt='Trucos de mantenimiento sencillos y rápidos para que tu coche duré más y reducir averías' />
+    <h4><a href='https://computerhoy.com/reportajes/life/climatizadores-evaporativos-funcionamiento-mejores-modelos-1063455'>Climatizador evaporativo: cómo funciona, cuánto enfría y mejores modelos a la venta</a></h4>
+    <a href='https://computerhoy.com/reportajes/life/climatizadores-evaporativos-funcionamiento-mejores-modelos-1063455' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/climatizador-evaporativo-oneconcept-2964960.jpg?tf=1200x' alt='Climatizador evaporativo: cómo funciona, cuánto enfría y mejores modelos a la venta' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/edwin-land-desconocido-guru-steve-jobs-inspiro-toda-carrera-1205670'>Edwin Land, el desconocido gurú de Steve Jobs que inspiró toda su carrera</a></h4>
-    <a href='https://computerhoy.com/apple/edwin-land-desconocido-guru-steve-jobs-inspiro-toda-carrera-1205670' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/edwin-land-desconocido-guru-steve-jobs-2966108.jpg?tf=1200x' alt='Edwin Land, el desconocido gurú de Steve Jobs que inspiró toda su carrera' />
+    <h4><a href='https://computerhoy.com/ciberseguridad/apunta-ha-conseguido-banco-devuelva-5000-euros-robados-estafa-phishing-1205804'>Apunta: así ha conseguido que su banco le devuelva 5.000 euros robados en una estafa por phishing</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/apunta-ha-conseguido-banco-devuelva-5000-euros-robados-estafa-phishing-1205804' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/estafa-internet-2473223.jpg?tf=1200x' alt='Apunta: así ha conseguido que su banco le devuelva 5.000 euros robados en una estafa por phishing' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/qualcomm-consigue-ejecutar-android-generacion-imagenes-ia-stable-diffusion-tiempo-record-1205654'>Qualcomm consigue ejecutar en Android la generación de imágenes IA de Stable Diffusion en tiempo récord</a></h4>
-    <a href='https://computerhoy.com/tecnologia/qualcomm-consigue-ejecutar-android-generacion-imagenes-ia-stable-diffusion-tiempo-record-1205654' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/qualcomm-consigue-ejecutar-android-generacion-imagenes-ia-stable-diffusion-tiempo-record-2966102.jpg?tf=1200x' alt='Qualcomm consigue ejecutar en Android la generación de imágenes IA de Stable Diffusion en tiempo récord' />
+    <h4><a href='https://computerhoy.com/streaming/series-ver-fin-semana-apple-tv-prime-video-amc-dos-agentes-bruja-jefe-1205774'>Qué series ver este fin de semana en Apple TV+, Prime Video y AMC+: dos agentes, una bruja y un jefe</a></h4>
+    <a href='https://computerhoy.com/streaming/series-ver-fin-semana-apple-tv-prime-video-amc-dos-agentes-bruja-jefe-1205774' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/brujas-mayfair-2966294.jpg?tf=1200x' alt='Qué series ver este fin de semana en Apple TV+, Prime Video y AMC+: dos agentes, una bruja y un jefe' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/realme-watch-3-buen-reloj-barato-hemos-probado-1203866'>Uno de los mejores relojes que hemos probado es mucho más barato de lo que piensas: cuesta solo 59 euros</a></h4>
-    <a href='https://computerhoy.com/tecnologia/realme-watch-3-buen-reloj-barato-hemos-probado-1203866' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/realme-watch-3-analisis-opinion-2815513.jpg?tf=1200x' alt='Uno de los mejores relojes que hemos probado es mucho más barato de lo que piensas: cuesta solo 59 euros' />
+    <h4><a href='https://computerhoy.com/streaming/peliculas-ver-fin-semana-netflix-prime-video-movistar-plus-mujercitas-dune-fiel-guerrero-japones-1205676'>Qué películas ver este fin de semana en Netflix, Prime Video y Movistar Plus+: Mujercitas, Dune y un fiel guerrero japonés</a></h4>
+    <a href='https://computerhoy.com/streaming/peliculas-ver-fin-semana-netflix-prime-video-movistar-plus-mujercitas-dune-fiel-guerrero-japones-1205676' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/peliculas-ver-fin-semana-netflix-prime-video-movistar-plus-mujercitas-dune-fiel-guerrero-japones-2966144.jpg?tf=1200x' alt='Qué películas ver este fin de semana en Netflix, Prime Video y Movistar Plus+: Mujercitas, Dune y un fiel guerrero japonés' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/streaming/pluto-tv-tienen-problema-listas-iptv-canales-gratis-eliminan-publicidad-1205640'>Pluto TV tienen un problema: las listas IPTV de canales gratis que eliminan su publicidad</a></h4>
-    <a href='https://computerhoy.com/streaming/pluto-tv-tienen-problema-listas-iptv-canales-gratis-eliminan-publicidad-1205640' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/pluto-tv-iptv-2966082.jpg?tf=1200x' alt='Pluto TV tienen un problema: las listas IPTV de canales gratis que eliminan su publicidad' />
+    <h4><a href='https://computerhoy.com/internet/ecuador-tiene-requisada-tanta-cocaina-va-utilizar-tapar-agujero-gigante-1205772'>Ecuador tiene requisada tanta cocaína que la va a utilizar para tapar un agujero gigante</a></h4>
+    <a href='https://computerhoy.com/internet/ecuador-tiene-requisada-tanta-cocaina-va-utilizar-tapar-agujero-gigante-1205772' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/ecuador-tiene-requisada-tanta-cocaina-va-utilizar-tapar-agujero-gigante-2966388.jpg?tf=1200x' alt='Ecuador tiene requisada tanta cocaína que la va a utilizar para tapar un agujero gigante' />
     </a>
 </div>
 
