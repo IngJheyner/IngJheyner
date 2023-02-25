@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/hogar/robot-aspirador-cecotec-base-autovaciado-descuento-1205876'>Un robot aspirador de Cecotec con base de autovaciado, ¿sólo 250 euros? ¡Imposible!</a></h4>
+    <a href='https://computerhoy.com/hogar/robot-aspirador-cecotec-base-autovaciado-descuento-1205876' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/robot-aspirador-base-autovaciado-solo-250-euros-imposible-2966504.jpg?tf=1200x' alt='Un robot aspirador de Cecotec con base de autovaciado, ¿sólo 250 euros? ¡Imposible!' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/moviles/ni-samsung-ni-apple-motorola-lleva-conexion-satelital-todos-moviles-android-1205812'>Ni Samsung, ni Apple: Motorola lleva la conexión satelital a todos los móviles Android</a></h4>
+    <a href='https://computerhoy.com/moviles/ni-samsung-ni-apple-motorola-lleva-conexion-satelital-todos-moviles-android-1205812' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/ni-samsung-ni-apple-motorola-lleva-conexion-satelital-todos-moviles-android-2966478.jpg?tf=1200x' alt='Ni Samsung, ni Apple: Motorola lleva la conexión satelital a todos los móviles Android' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/streaming/el-consultor-serie-prime-video-thriller-christoph-waltz-1205872'>El consultor, la serie para ver de un tirón si te gusta el thriller y tienes un jefe que te agobia</a></h4>
     <a href='https://computerhoy.com/streaming/el-consultor-serie-prime-video-thriller-christoph-waltz-1205872' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/verticalimage1677267994865-2966476.jpg?tf=1200x' alt='El consultor, la serie para ver de un tirón si te gusta el thriller y tienes un jefe que te agobia' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/motor/como-reconocer-luces-v16-dgt-homologadas-no-te-timen-1205866'>Cómo reconocer las luces V16 de la DGT homologadas y que no te timen</a></h4>
     <a href='https://computerhoy.com/motor/como-reconocer-luces-v16-dgt-homologadas-no-te-timen-1205866' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/dispositivo-v16-2390151.jpg?tf=1200x' alt='Cómo reconocer las luces V16 de la DGT homologadas y que no te timen' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/ordenador-cuantico-google-reduce-tasas-error-consigue-nuevo-exito-1205806'>El ordenador cuántico de Google reduce sus tasas de error y consigue un nuevo éxito</a></h4>
-    <a href='https://computerhoy.com/google/ordenador-cuantico-google-reduce-tasas-error-consigue-nuevo-exito-1205806' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/ordenador-cuantico-google-reduce-tasas-error-consigue-nuevo-exito-2966468.jpg?tf=1200x' alt='El ordenador cuántico de Google reduce sus tasas de error y consigue un nuevo éxito' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/lumafusion-da-salto-android-chromeos-puedes-descargar-mejor-editor-video-ios-1205814'>LumaFusion da el salto a Android y ChromeOS: así puedes descargar el mejor editor de vídeo para iOS</a></h4>
-    <a href='https://computerhoy.com/apps/lumafusion-da-salto-android-chromeos-puedes-descargar-mejor-editor-video-ios-1205814' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/lumafusion-da-salto-android-chromeos-puedes-descargar-mejor-editor-video-ios-2966444.jpg?tf=1200x' alt='LumaFusion da el salto a Android y ChromeOS: así puedes descargar el mejor editor de vídeo para iOS' />
     </a>
 </div>
 
