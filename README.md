@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/analisis/zte-blade-v40-design-analisis-review-diseno-elegante-refinado-terminal-destaca-autonomia-1198414'>ZTE Blade V40 Design, análisis y review: diseño elegante y refinado, para un terminal en el que destaca su autonomía</a></h4>
+    <a href='https://computerhoy.com/analisis/zte-blade-v40-design-analisis-review-diseno-elegante-refinado-terminal-destaca-autonomia-1198414' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/zte-blade-v40-design-2959940.jpg?tf=1200x' alt='ZTE Blade V40 Design, análisis y review: diseño elegante y refinado, para un terminal en el que destaca su autonomía' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/google/10-grandes-fails-google-historia-sera-bard-ellas-1202514'>Los 10 grandes fails de Google en su historia: ¿será Bard una de ellas?</a></h4>
+    <a href='https://computerhoy.com/google/10-grandes-fails-google-historia-sera-bard-ellas-1202514' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/10-grandes-fails-google-historia-sera-bard-ellas-2962148.jpg?tf=1200x' alt='Los 10 grandes fails de Google en su historia: ¿será Bard una de ellas?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/listas/tecnologia/5-mejores-radiadores-consumo-ahorrar-factura-luz-pasar-frio-532461'>Los 5 mejores radiadores de bajo consumo para ahorrar en la factura de la luz sin pasar frío</a></h4>
+    <a href='https://computerhoy.com/listas/tecnologia/5-mejores-radiadores-consumo-ahorrar-factura-luz-pasar-frio-532461' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/radiador-electrico-salon-2904440.jpg?tf=1200x' alt='Los 5 mejores radiadores de bajo consumo para ahorrar en la factura de la luz sin pasar frío' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/deberia-ser-momento-dejar-utilizar-iconos-escritorio-1202540'>Debería ser el momento de dejar de utilizar iconos de escritorio</a></h4>
+    <a href='https://computerhoy.com/tecnologia/deberia-ser-momento-dejar-utilizar-iconos-escritorio-1202540' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/windows-iconos-2960584.jpg?tf=1200x' alt='Debería ser el momento de dejar de utilizar iconos de escritorio' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/mejores/relojes-inteligentes-relacion-calidad-precio-modelos-recomendados-1176870'>Mejores relojes inteligentes en relación calidad-precio: cuál comprar y modelos recomendados</a></h4>
     <a href='https://computerhoy.com/mejores/relojes-inteligentes-relacion-calidad-precio-modelos-recomendados-1176870' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/samsung-galaxy-watch-5-pro-analisis-opinion-2809241.jpg?tf=1200x' alt='Mejores relojes inteligentes en relación calidad-precio: cuál comprar y modelos recomendados' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/colibri-m22-moto-electrica-plegable-200-kilometros-autonomia-video-1206082'>Esta moto eléctrica cabe en el ascensor, y tiene 200 Kilómetros de autonomía (vídeo)</a></h4>
-    <a href='https://computerhoy.com/motor/colibri-m22-moto-electrica-plegable-200-kilometros-autonomia-video-1206082' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/verticalimage1677297778747-2966718.jpg?tf=1200x' alt='Esta moto eléctrica cabe en el ascensor, y tiene 200 Kilómetros de autonomía (vídeo)' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/malas-noticias-tienes-windows-11-instalado-pc-antiguo-sin-chip-tpm-20-1206080'>Malas noticias si tienes Windows 11 instalado en un PC sin chip TPM 2.0</a></h4>
-    <a href='https://computerhoy.com/windows/malas-noticias-tienes-windows-11-instalado-pc-antiguo-sin-chip-tpm-20-1206080' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/windows-11-2948586.jpg?tf=1200x' alt='Malas noticias si tienes Windows 11 instalado en un PC sin chip TPM 2.0' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/criptos/inspeccionan-instituto-descubren-granja-criptomonedas-secreta-1205878'>Inspeccionan un instituto y descubren una granja de criptomonedas secreta</a></h4>
-    <a href='https://computerhoy.com/criptos/inspeccionan-instituto-descubren-granja-criptomonedas-secreta-1205878' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/inspeccionan-instituto-descubre-granja-criptomonedas-secreta-2966514.jpg?tf=1200x' alt='Inspeccionan un instituto y descubren una granja de criptomonedas secreta' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/hogar/robot-aspirador-cecotec-base-autovaciado-descuento-1205876'>Un robot aspirador de Cecotec con base de autovaciado, ¿sólo 250 euros? ¡Imposible!</a></h4>
-    <a href='https://computerhoy.com/hogar/robot-aspirador-cecotec-base-autovaciado-descuento-1205876' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/robot-aspirador-base-autovaciado-solo-250-euros-imposible-2966504.jpg?tf=1200x' alt='Un robot aspirador de Cecotec con base de autovaciado, ¿sólo 250 euros? ¡Imposible!' />
     </a>
 </div>
 
