@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/criptos/inspeccionan-instituto-descubren-granja-criptomonedas-secreta-1205878'>Inspeccionan un instituto y descubren una granja de criptomonedas secreta</a></h4>
+    <a href='https://computerhoy.com/criptos/inspeccionan-instituto-descubren-granja-criptomonedas-secreta-1205878' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/inspeccionan-instituto-descubre-granja-criptomonedas-secreta-2966514.jpg?tf=1200x' alt='Inspeccionan un instituto y descubren una granja de criptomonedas secreta' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/hogar/robot-aspirador-cecotec-base-autovaciado-descuento-1205876'>Un robot aspirador de Cecotec con base de autovaciado, ¿sólo 250 euros? ¡Imposible!</a></h4>
     <a href='https://computerhoy.com/hogar/robot-aspirador-cecotec-base-autovaciado-descuento-1205876' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/robot-aspirador-base-autovaciado-solo-250-euros-imposible-2966504.jpg?tf=1200x' alt='Un robot aspirador de Cecotec con base de autovaciado, ¿sólo 250 euros? ¡Imposible!' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/ciberseguridad/guardia-civil-advierte-peligroso-mensaje-extendiendo-sms-1205868'>La Guardia Civil advierte de un peligroso mensaje que se está extendiendo vía SMS</a></h4>
     <a href='https://computerhoy.com/ciberseguridad/guardia-civil-advierte-peligroso-mensaje-extendiendo-sms-1205868' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/sms-malware-virus-2407859.jpg?tf=1200x' alt='La Guardia Civil advierte de un peligroso mensaje que se está extendiendo vía SMS' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/como-reconocer-luces-v16-dgt-homologadas-no-te-timen-1205866'>Cómo reconocer las luces V16 de la DGT homologadas y que no te timen</a></h4>
-    <a href='https://computerhoy.com/motor/como-reconocer-luces-v16-dgt-homologadas-no-te-timen-1205866' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/dispositivo-v16-2390151.jpg?tf=1200x' alt='Cómo reconocer las luces V16 de la DGT homologadas y que no te timen' />
     </a>
 </div>
 
