@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/heroes-anonimos-salvan-vidas-utilizando-telegram-guerra-ucrania-1206152'>Los héroes anónimos que salvan vidas utilizando Telegram en la guerra de Ucrania</a></h4>
-    <a href='https://computerhoy.com/apps/heroes-anonimos-salvan-vidas-utilizando-telegram-guerra-ucrania-1206152' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/telegram-ucrania-2966838.jpg?tf=1200x' alt='Los héroes anónimos que salvan vidas utilizando Telegram en la guerra de Ucrania' />
+    <h4><a href='https://computerhoy.com/apps/nuevo-limite-diario-consultas-chat-inteligente-bing-1206192'>Este es el nuevo límite diario de consultas al chat inteligente de Bing</a></h4>
+    <a href='https://computerhoy.com/apps/nuevo-limite-diario-consultas-chat-inteligente-bing-1206192' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/chatbot-bing-2960656.jpg?tf=1200x' alt='Este es el nuevo límite diario de consultas al chat inteligente de Bing' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/streaming/netflix-baja-precio-casi-100-lugares-mientras-torpedea-paises-como-espana-1206146'>¿Por qué Netflix baja el precio en casi 100 lugares mientras torpedea a países como España?</a></h4>
-    <a href='https://computerhoy.com/streaming/netflix-baja-precio-casi-100-lugares-mientras-torpedea-paises-como-espana-1206146' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/netflix-2695655.jpg?tf=1200x' alt='¿Por qué Netflix baja el precio en casi 100 lugares mientras torpedea a países como España?' />
+    <h4><a href='https://computerhoy.com/life/7-trucos-reducir-uso-movil-cama-mejorar-sueno-1203846'>7 trucos para reducir el uso del móvil en la cama y mejorar tu sueño</a></h4>
+    <a href='https://computerhoy.com/life/7-trucos-reducir-uso-movil-cama-mejorar-sueno-1203846' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/durmiendo-2962650.jpg?tf=1200x' alt='7 trucos para reducir el uso del móvil en la cama y mejorar tu sueño' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/hacen-todos-conductores-cuando-hace-frio-estas-destrozando-motor-saberlo-1206138'>Lo hacen todos los conductores cuando hace frío y estás destrozando el motor sin saberlo</a></h4>
-    <a href='https://computerhoy.com/motor/hacen-todos-conductores-cuando-hace-frio-estas-destrozando-motor-saberlo-1206138' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/calefaccion-coche-2966824.jpg?tf=1200x' alt='Lo hacen todos los conductores cuando hace frío y estás destrozando el motor sin saberlo' />
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-televisores-4k-55-pulgadas-1059299'>Mejores televisores 4K de 55 pulgadas que puedes comprar en 2023</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-televisores-4k-55-pulgadas-1059299' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/portada-smart-tv-55-2956564.jpg?tf=1200x' alt='Mejores televisores 4K de 55 pulgadas que puedes comprar en 2023' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/7-peliculas-clonacion-mutacion-genetica-algunas-son-realmente-inquietantes-1203406'>7 películas sobre clonación y mutación genética y algunas son realmente inquietantes</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/7-peliculas-clonacion-mutacion-genetica-algunas-son-realmente-inquietantes-1203406' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/7-peliculas-clonacion-mutacion-genetica-son-realmente-inquietantes-2962206.jpg?tf=1200x' alt='7 películas sobre clonación y mutación genética y algunas son realmente inquietantes' />
+    <h4><a href='https://computerhoy.com/apps/whatsapp-trabaja-funcion-evitar-algunos-mensajes-desaparezcan-usa-1206160'>WhatsApp trabaja en una función para evitar que algunos mensajes desaparezcan, y así se usa</a></h4>
+    <a href='https://computerhoy.com/apps/whatsapp-trabaja-funcion-evitar-algunos-mensajes-desaparezcan-usa-1206160' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/whatsapp-2870685.jpg?tf=1200x' alt='WhatsApp trabaja en una función para evitar que algunos mensajes desaparezcan, y así se usa' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/meta-presenta-ia-llama-vision-inteligencia-artificial-investigadores-1206128'>Meta presenta su IA LLaMA: su visión de la inteligencia artificial para investigadores</a></h4>
-    <a href='https://computerhoy.com/apps/meta-presenta-ia-llama-vision-inteligencia-artificial-investigadores-1206128' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/meta-ai-2966810.jpg?tf=1200x' alt='Meta presenta su IA LLaMA: su visión de la inteligencia artificial para investigadores' />
+    <h4><a href='https://computerhoy.com/moviles/nokia-g22-autonomia-precio-posibilidad-reparar-movil-1205264'>Así es el Nokia G22: autonomía, precio y posibilidad de reparar el móvil</a></h4>
+    <a href='https://computerhoy.com/moviles/nokia-g22-autonomia-precio-posibilidad-reparar-movil-1205264' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/nokia-c22-2966146.jpg?tf=1200x' alt='Así es el Nokia G22: autonomía, precio y posibilidad de reparar el móvil' />
     </a>
 </div>
 
