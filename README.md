@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/zte-blade-v40-design-analisis-review-diseno-elegante-refinado-terminal-destaca-autonomia-1198414'>ZTE Blade V40 Design, análisis y review: diseño elegante y refinado, para un terminal en el que destaca su autonomía</a></h4>
-    <a href='https://computerhoy.com/analisis/zte-blade-v40-design-analisis-review-diseno-elegante-refinado-terminal-destaca-autonomia-1198414' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/zte-blade-v40-design-2959940.jpg?tf=1200x' alt='ZTE Blade V40 Design, análisis y review: diseño elegante y refinado, para un terminal en el que destaca su autonomía' />
+    <h4><a href='https://computerhoy.com/apps/meta-presenta-ia-llama-vision-inteligencia-artificial-investigadores-1206128'>Meta presenta su IA LLaMA: su visión de la inteligencia artificial para investigadores</a></h4>
+    <a href='https://computerhoy.com/apps/meta-presenta-ia-llama-vision-inteligencia-artificial-investigadores-1206128' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/meta-ai-2966810.jpg?tf=1200x' alt='Meta presenta su IA LLaMA: su visión de la inteligencia artificial para investigadores' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/10-grandes-fails-google-historia-sera-bard-ellas-1202514'>Los 10 grandes fails de Google en su historia: ¿será Bard una de ellas?</a></h4>
-    <a href='https://computerhoy.com/google/10-grandes-fails-google-historia-sera-bard-ellas-1202514' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/10-grandes-fails-google-historia-sera-bard-ellas-2962148.jpg?tf=1200x' alt='Los 10 grandes fails de Google en su historia: ¿será Bard una de ellas?' />
+    <h4><a href='https://computerhoy.com/tecnologia/actualizaciones-seguridad-android-son-tienen-tanta-importancia-1202478'>Actualizaciones de seguridad de Android: qué son y por qué tienen tanta importancia</a></h4>
+    <a href='https://computerhoy.com/tecnologia/actualizaciones-seguridad-android-son-tienen-tanta-importancia-1202478' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/actualizar-android-2960400.jpg?tf=1200x' alt='Actualizaciones de seguridad de Android: qué son y por qué tienen tanta importancia' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/listas/tecnologia/5-mejores-radiadores-consumo-ahorrar-factura-luz-pasar-frio-532461'>Los 5 mejores radiadores de bajo consumo para ahorrar en la factura de la luz sin pasar frío</a></h4>
-    <a href='https://computerhoy.com/listas/tecnologia/5-mejores-radiadores-consumo-ahorrar-factura-luz-pasar-frio-532461' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/radiador-electrico-salon-2904440.jpg?tf=1200x' alt='Los 5 mejores radiadores de bajo consumo para ahorrar en la factura de la luz sin pasar frío' />
+    <h4><a href='https://computerhoy.com/tecnologia/google-pixel-buds-pro-oferta-amazon-1205572'>Google tiene rival para los AirPods Pro, y su precio es mucho más bajo: Amazon los tiene en oferta</a></h4>
+    <a href='https://computerhoy.com/tecnologia/google-pixel-buds-pro-oferta-amazon-1205572' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/analisis-pixel-buds-pro-2778313.jpg?tf=1200x' alt='Google tiene rival para los AirPods Pro, y su precio es mucho más bajo: Amazon los tiene en oferta' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/deberia-ser-momento-dejar-utilizar-iconos-escritorio-1202540'>Debería ser el momento de dejar de utilizar iconos de escritorio</a></h4>
-    <a href='https://computerhoy.com/tecnologia/deberia-ser-momento-dejar-utilizar-iconos-escritorio-1202540' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/windows-iconos-2960584.jpg?tf=1200x' alt='Debería ser el momento de dejar de utilizar iconos de escritorio' />
+    <h4><a href='https://computerhoy.com/tutoriales/como-ver-errores-windows-linea-comandos-1188100'>Cómo ver los errores de Windows desde la línea de comandos</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-ver-errores-windows-linea-comandos-1188100' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/windows-11-2934724.jpg?tf=1200x' alt='Cómo ver los errores de Windows desde la línea de comandos' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/mejores/relojes-inteligentes-relacion-calidad-precio-modelos-recomendados-1176870'>Mejores relojes inteligentes en relación calidad-precio: cuál comprar y modelos recomendados</a></h4>
-    <a href='https://computerhoy.com/mejores/relojes-inteligentes-relacion-calidad-precio-modelos-recomendados-1176870' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/samsung-galaxy-watch-5-pro-analisis-opinion-2809241.jpg?tf=1200x' alt='Mejores relojes inteligentes en relación calidad-precio: cuál comprar y modelos recomendados' />
+    <h4><a href='https://computerhoy.com/tecnologia/inteligencia-artificial-general-agi-1191734'>¿Qué es la Inteligencia Artificial General (AGI)?</a></h4>
+    <a href='https://computerhoy.com/tecnologia/inteligencia-artificial-general-agi-1191734' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/verticalimage1677256947401-2966412.jpg?tf=1200x' alt='¿Qué es la Inteligencia Artificial General (AGI)?' />
     </a>
 </div>
 
