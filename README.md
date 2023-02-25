@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/mejores/relojes-inteligentes-relacion-calidad-precio-modelos-recomendados-1176870'>Mejores relojes inteligentes en relación calidad-precio: cuál comprar y modelos recomendados</a></h4>
+    <a href='https://computerhoy.com/mejores/relojes-inteligentes-relacion-calidad-precio-modelos-recomendados-1176870' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/samsung-galaxy-watch-5-pro-analisis-opinion-2809241.jpg?tf=1200x' alt='Mejores relojes inteligentes en relación calidad-precio: cuál comprar y modelos recomendados' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/motor/colibri-m22-moto-electrica-plegable-200-kilometros-autonomia-video-1206082'>Esta moto eléctrica cabe en el ascensor, y tiene 200 Kilómetros de autonomía (vídeo)</a></h4>
+    <a href='https://computerhoy.com/motor/colibri-m22-moto-electrica-plegable-200-kilometros-autonomia-video-1206082' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/verticalimage1677297778747-2966718.jpg?tf=1200x' alt='Esta moto eléctrica cabe en el ascensor, y tiene 200 Kilómetros de autonomía (vídeo)' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/windows/malas-noticias-tienes-windows-11-instalado-pc-antiguo-sin-chip-tpm-20-1206080'>Malas noticias si tienes Windows 11 instalado en un PC sin chip TPM 2.0</a></h4>
+    <a href='https://computerhoy.com/windows/malas-noticias-tienes-windows-11-instalado-pc-antiguo-sin-chip-tpm-20-1206080' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/windows-11-2948586.jpg?tf=1200x' alt='Malas noticias si tienes Windows 11 instalado en un PC sin chip TPM 2.0' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/criptos/inspeccionan-instituto-descubren-granja-criptomonedas-secreta-1205878'>Inspeccionan un instituto y descubren una granja de criptomonedas secreta</a></h4>
     <a href='https://computerhoy.com/criptos/inspeccionan-instituto-descubren-granja-criptomonedas-secreta-1205878' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/inspeccionan-instituto-descubre-granja-criptomonedas-secreta-2966514.jpg?tf=1200x' alt='Inspeccionan un instituto y descubren una granja de criptomonedas secreta' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/hogar/robot-aspirador-cecotec-base-autovaciado-descuento-1205876'>Un robot aspirador de Cecotec con base de autovaciado, ¿sólo 250 euros? ¡Imposible!</a></h4>
     <a href='https://computerhoy.com/hogar/robot-aspirador-cecotec-base-autovaciado-descuento-1205876' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/robot-aspirador-base-autovaciado-solo-250-euros-imposible-2966504.jpg?tf=1200x' alt='Un robot aspirador de Cecotec con base de autovaciado, ¿sólo 250 euros? ¡Imposible!' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/ni-samsung-ni-apple-motorola-lleva-conexion-satelital-todos-moviles-android-1205812'>Ni Samsung, ni Apple: Motorola lleva la conexión satelital a todos los móviles Android</a></h4>
-    <a href='https://computerhoy.com/moviles/ni-samsung-ni-apple-motorola-lleva-conexion-satelital-todos-moviles-android-1205812' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/ni-samsung-ni-apple-motorola-lleva-conexion-satelital-todos-moviles-android-2966478.jpg?tf=1200x' alt='Ni Samsung, ni Apple: Motorola lleva la conexión satelital a todos los móviles Android' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/streaming/el-consultor-serie-prime-video-thriller-christoph-waltz-1205872'>El consultor, la serie para ver de un tirón si te gusta el thriller y tienes un jefe que te agobia</a></h4>
-    <a href='https://computerhoy.com/streaming/el-consultor-serie-prime-video-thriller-christoph-waltz-1205872' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/verticalimage1677267994865-2966476.jpg?tf=1200x' alt='El consultor, la serie para ver de un tirón si te gusta el thriller y tienes un jefe que te agobia' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/guardia-civil-advierte-peligroso-mensaje-extendiendo-sms-1205868'>La Guardia Civil advierte de un peligroso mensaje que se está extendiendo vía SMS</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/guardia-civil-advierte-peligroso-mensaje-extendiendo-sms-1205868' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/sms-malware-virus-2407859.jpg?tf=1200x' alt='La Guardia Civil advierte de un peligroso mensaje que se está extendiendo vía SMS' />
     </a>
 </div>
 
