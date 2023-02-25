@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/smartwatches/todas-novedades-actualizacion-1470-xiaomi-smart-band-7-pro-1206208'>Todas las novedades de la actualización 1.4.70 para la Xiaomi Smart Band 7 Pro</a></h4>
+    <a href='https://computerhoy.com/smartwatches/todas-novedades-actualizacion-1470-xiaomi-smart-band-7-pro-1206208' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/xiaomi-smart-band-7-pro-2833389.jpg?tf=1200x' alt='Todas las novedades de la actualización 1.4.70 para la Xiaomi Smart Band 7 Pro' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apps/nuevo-limite-diario-consultas-chat-inteligente-bing-1206192'>Este es el nuevo límite diario de consultas al chat inteligente de Bing</a></h4>
     <a href='https://computerhoy.com/apps/nuevo-limite-diario-consultas-chat-inteligente-bing-1206192' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/chatbot-bing-2960656.jpg?tf=1200x' alt='Este es el nuevo límite diario de consultas al chat inteligente de Bing' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/apps/whatsapp-trabaja-funcion-evitar-algunos-mensajes-desaparezcan-usa-1206160'>WhatsApp trabaja en una función para evitar que algunos mensajes desaparezcan, y así se usa</a></h4>
     <a href='https://computerhoy.com/apps/whatsapp-trabaja-funcion-evitar-algunos-mensajes-desaparezcan-usa-1206160' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/whatsapp-2870685.jpg?tf=1200x' alt='WhatsApp trabaja en una función para evitar que algunos mensajes desaparezcan, y así se usa' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/nokia-g22-autonomia-precio-posibilidad-reparar-movil-1205264'>Así es el Nokia G22: autonomía, precio y posibilidad de reparar el móvil</a></h4>
-    <a href='https://computerhoy.com/moviles/nokia-g22-autonomia-precio-posibilidad-reparar-movil-1205264' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/nokia-c22-2966146.jpg?tf=1200x' alt='Así es el Nokia G22: autonomía, precio y posibilidad de reparar el móvil' />
     </a>
 </div>
 
