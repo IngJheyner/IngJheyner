@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/guia-comprar-miravia-encontrar-mejores-ofertas-cupones-descuentos-1205722'>Guía para comprar en Miravia: encontrar las mejores ofertas, cupones y descuentos</a></h4>
-    <a href='https://computerhoy.com/tecnologia/guia-comprar-miravia-encontrar-mejores-ofertas-cupones-descuentos-1205722' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/miravia-2966142.jpg?tf=1200x' alt='Guía para comprar en Miravia: encontrar las mejores ofertas, cupones y descuentos' />
+    <h4><a href='https://computerhoy.com/analisis/realme-10-analisis-opinion-nuevo-gama-media-quiere-conquistar-bolsillos-1202004'>realme 10, análisis y opinión del nuevo gama media que quiere conquistar los bolsillos</a></h4>
+    <a href='https://computerhoy.com/analisis/realme-10-analisis-opinion-nuevo-gama-media-quiere-conquistar-bolsillos-1202004' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/realme-10-2964212.jpg?tf=1200x' alt='realme 10, análisis y opinión del nuevo gama media que quiere conquistar los bolsillos' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-poner-limites-aplicaciones-android-evitar-pasar-horas-haciendo-scroll-1198814'>Cómo poner límites a las aplicaciones en Android y evitar pasar horas haciendo scroll</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-poner-limites-aplicaciones-android-evitar-pasar-horas-haciendo-scroll-1198814' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/apps-android-2953482.jpg?tf=1200x' alt='Cómo poner límites a las aplicaciones en Android y evitar pasar horas haciendo scroll' />
+    <h4><a href='https://computerhoy.com/tecnologia/modo-depuracion-usb-android-como-habilitarlo-1199182'>Modo depuración USB en Android: qué es y como habilitarlo</a></h4>
+    <a href='https://computerhoy.com/tecnologia/modo-depuracion-usb-android-como-habilitarlo-1199182' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/depuracion-usb-android-2954076.jpg?tf=1200x' alt='Modo depuración USB en Android: qué es y como habilitarlo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/smartwatches/todas-novedades-actualizacion-1470-xiaomi-smart-band-7-pro-1206208'>Todas las novedades de la actualización 1.4.70 para la Xiaomi Smart Band 7 Pro</a></h4>
-    <a href='https://computerhoy.com/smartwatches/todas-novedades-actualizacion-1470-xiaomi-smart-band-7-pro-1206208' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/xiaomi-smart-band-7-pro-2833389.jpg?tf=1200x' alt='Todas las novedades de la actualización 1.4.70 para la Xiaomi Smart Band 7 Pro' />
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-snapdragon-8-gen-1-1061521'>Estos son los mejores móviles con Snapdragon 8 Gen 1, uno de los procesadores más potente de Qualcomm</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-snapdragon-8-gen-1-1061521' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/analisis-vivo-x80-lite-2888410.jpg?tf=1200x' alt='Estos son los mejores móviles con Snapdragon 8 Gen 1, uno de los procesadores más potente de Qualcomm' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/nuevo-limite-diario-consultas-chat-inteligente-bing-1206192'>Este es el nuevo límite diario de consultas al chat inteligente de Bing</a></h4>
-    <a href='https://computerhoy.com/apps/nuevo-limite-diario-consultas-chat-inteligente-bing-1206192' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/chatbot-bing-2960656.jpg?tf=1200x' alt='Este es el nuevo límite diario de consultas al chat inteligente de Bing' />
+    <h4><a href='https://computerhoy.com/ciencia/ejercito-australiano-estrena-inteligencia-artificial-unica-controlar-robots-mentes-1206206'>El ejército australiano estrena una inteligencia artificial única para controlar robots con sus mentes</a></h4>
+    <a href='https://computerhoy.com/ciencia/ejercito-australiano-estrena-inteligencia-artificial-unica-controlar-robots-mentes-1206206' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/ejercito-australiano-estrena-inteligencia-artificial-unica-controlar-robots-mentes-2966934.jpg?tf=1200x' alt='El ejército australiano estrena una inteligencia artificial única para controlar robots con sus mentes' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/7-trucos-reducir-uso-movil-cama-mejorar-sueno-1203846'>7 trucos para reducir el uso del móvil en la cama y mejorar tu sueño</a></h4>
-    <a href='https://computerhoy.com/life/7-trucos-reducir-uso-movil-cama-mejorar-sueno-1203846' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/durmiendo-2962650.jpg?tf=1200x' alt='7 trucos para reducir el uso del móvil en la cama y mejorar tu sueño' />
+    <h4><a href='https://computerhoy.com/espacio/astronomos-han-descubierto-exoplaneta-gigante-gaseoso-no-deberia-existir-1206204'>Astrónomos han descubierto un exoplaneta gigante gaseoso que no debería existir</a></h4>
+    <a href='https://computerhoy.com/espacio/astronomos-han-descubierto-exoplaneta-gigante-gaseoso-no-deberia-existir-1206204' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/astronomos-encuentran-planeta-no-deberia-existir-2966922.jpg?tf=1200x' alt='Astrónomos han descubierto un exoplaneta gigante gaseoso que no debería existir' />
     </a>
 </div>
 
