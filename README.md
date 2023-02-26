@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-evitar-raton-pase-segundo-monitor-solo-funcione-principal-windows-1196570'>Cómo evitar que tu ratón pase a tu segundo monitor y solo funcione en el principal en Windows</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-evitar-raton-pase-segundo-monitor-solo-funcione-principal-windows-1196570' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/puntero-raton-2949088.jpg?tf=1200x' alt='Cómo evitar que tu ratón pase a tu segundo monitor y solo funcione en el principal en Windows' />
+    <h4><a href='https://computerhoy.com/apps/ya-no-te-perderas-ninguna-reunion-gracias-llamadas-programadas-grupales-whatsapp-1206516'>Ya no te perderás ninguna reunión gracias a las llamadas programadas grupales en WhatsApp</a></h4>
+    <a href='https://computerhoy.com/apps/ya-no-te-perderas-ninguna-reunion-gracias-llamadas-programadas-grupales-whatsapp-1206516' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/comunidad-whatsapp-2525619.jpg?tf=1200x' alt='Ya no te perderás ninguna reunión gracias a las llamadas programadas grupales en WhatsApp' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-reiniciar-iphone-aunque-no-funcionen-botones-1198842'>Cómo reiniciar un iPhone, aunque no funcionen los botones</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-reiniciar-iphone-aunque-no-funcionen-botones-1198842' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/sensor-lidar-iphone-14-2921618.jpg?tf=1200x' alt='Cómo reiniciar un iPhone, aunque no funcionen los botones' />
+    <h4><a href='https://computerhoy.com/redes/vodafone-espana-impulsara-primera-red-banda-ancha-movil-satelite-europa-1206484'>Vodafone España impulsará la primera red de banda ancha móvil por satélite en Europa</a></h4>
+    <a href='https://computerhoy.com/redes/vodafone-espana-impulsara-primera-red-banda-ancha-movil-satelite-europa-1206484' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/vodafone-2967264.jpg?tf=1200x' alt='Vodafone España impulsará la primera red de banda ancha móvil por satélite en Europa' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/movil-top-xiaomi-carga-20-minutos-ahora-200-euros-barato-1205666'>El móvil top de Xiaomi se carga en 20 minutos y ahora es 200 euros más barato</a></h4>
-    <a href='https://computerhoy.com/tecnologia/movil-top-xiaomi-carga-20-minutos-ahora-200-euros-barato-1205666' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/xiaomi-12t-pro-2835221.jpg?tf=1200x' alt='El móvil top de Xiaomi se carga en 20 minutos y ahora es 200 euros más barato' />
+    <h4><a href='https://computerhoy.com/alimentacion/crean-primer-filete-lomo-cultivado-laboratorio-mundo-1206510'>Crean el primer filete de lomo cultivado en laboratorio del mundo</a></h4>
+    <a href='https://computerhoy.com/alimentacion/crean-primer-filete-lomo-cultivado-laboratorio-mundo-1206510' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/persona-cortando-filete-2967326.jpg?tf=1200x' alt='Crean el primer filete de lomo cultivado en laboratorio del mundo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-hacer-viejo-pc-windows-usable-otra-vez-script-tron-1203316'>Cómo hacer tu viejo PC Windows usable otra vez con el script Tron</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-hacer-viejo-pc-windows-usable-otra-vez-script-tron-1203316' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/ordenador-2961980.jpg?tf=1200x' alt='Cómo hacer tu viejo PC Windows usable otra vez con el script Tron' />
+    <h4><a href='https://computerhoy.com/ciencia/vanguardista-inteligencia-artificial-salvando-miles-vidas-terremoto-turquia-1206502'>La vanguardista inteligencia artificial que está salvando miles de vidas tras el terremoto en Turquía</a></h4>
+    <a href='https://computerhoy.com/ciencia/vanguardista-inteligencia-artificial-salvando-miles-vidas-terremoto-turquia-1206502' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/sismografo-2967314.jpg?tf=1200x' alt='La vanguardista inteligencia artificial que está salvando miles de vidas tras el terremoto en Turquía' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/realme-10-analisis-opinion-nuevo-gama-media-quiere-conquistar-bolsillos-1202004'>realme 10, análisis y opinión del nuevo gama media que quiere conquistar los bolsillos</a></h4>
-    <a href='https://computerhoy.com/analisis/realme-10-analisis-opinion-nuevo-gama-media-quiere-conquistar-bolsillos-1202004' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/realme-10-2964212.jpg?tf=1200x' alt='realme 10, análisis y opinión del nuevo gama media que quiere conquistar los bolsillos' />
+    <h4><a href='https://computerhoy.com/streaming/6-documentales-rusia-actual-ayudan-entender-situacion-vive-1203984'>6 documentales sobre la Rusia actual que ayudan a entender la situación que se vive</a></h4>
+    <a href='https://computerhoy.com/streaming/6-documentales-rusia-actual-ayudan-entender-situacion-vive-1203984' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/putin-2963698.jpg?tf=1200x' alt='6 documentales sobre la Rusia actual que ayudan a entender la situación que se vive' />
     </a>
 </div>
 
