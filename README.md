@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/ya-no-te-perderas-ninguna-reunion-gracias-llamadas-programadas-grupales-whatsapp-1206516'>Ya no te perderás ninguna reunión gracias a las llamadas programadas grupales en WhatsApp</a></h4>
-    <a href='https://computerhoy.com/apps/ya-no-te-perderas-ninguna-reunion-gracias-llamadas-programadas-grupales-whatsapp-1206516' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/comunidad-whatsapp-2525619.jpg?tf=1200x' alt='Ya no te perderás ninguna reunión gracias a las llamadas programadas grupales en WhatsApp' />
+    <h4><a href='https://computerhoy.com/espacio/terran-1-relativity-space-primer-cohete-espacial-impreso-3d-1206562'>A punto de despegar el primer cohete espacial impreso en 3D</a></h4>
+    <a href='https://computerhoy.com/espacio/terran-1-relativity-space-primer-cohete-espacial-impreso-3d-1206562' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/punto-despegar-primer-cohete-espacial-impreso-3d-2967464.jpg?tf=1200x' alt='A punto de despegar el primer cohete espacial impreso en 3D' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/redes/vodafone-espana-impulsara-primera-red-banda-ancha-movil-satelite-europa-1206484'>Vodafone España impulsará la primera red de banda ancha móvil por satélite en Europa</a></h4>
-    <a href='https://computerhoy.com/redes/vodafone-espana-impulsara-primera-red-banda-ancha-movil-satelite-europa-1206484' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/vodafone-2967264.jpg?tf=1200x' alt='Vodafone España impulsará la primera red de banda ancha móvil por satélite en Europa' />
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-nokia-1084165'>Estos son los mejores móviles Nokia que puedes comprar en 2023</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-nokia-1084165' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/analisis-nokia-x30-5g-2906808.jpg?tf=1200x' alt='Estos son los mejores móviles Nokia que puedes comprar en 2023' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/alimentacion/crean-primer-filete-lomo-cultivado-laboratorio-mundo-1206510'>Crean el primer filete de lomo cultivado en laboratorio del mundo</a></h4>
-    <a href='https://computerhoy.com/alimentacion/crean-primer-filete-lomo-cultivado-laboratorio-mundo-1206510' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/persona-cortando-filete-2967326.jpg?tf=1200x' alt='Crean el primer filete de lomo cultivado en laboratorio del mundo' />
+    <h4><a href='https://computerhoy.com/tutoriales/te-faltan-pestanas-explorador-archivos-windows-11-puede-arreglar-1192756'>Si te faltan pestañas en el Explorador de archivos de Windows 11, así lo puede arreglar</a></h4>
+    <a href='https://computerhoy.com/tutoriales/te-faltan-pestanas-explorador-archivos-windows-11-puede-arreglar-1192756' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/explorador-archivos-windows-11-2942104.jpg?tf=1200x' alt='Si te faltan pestañas en el Explorador de archivos de Windows 11, así lo puede arreglar' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/vanguardista-inteligencia-artificial-salvando-miles-vidas-terremoto-turquia-1206502'>La vanguardista inteligencia artificial que está salvando miles de vidas tras el terremoto en Turquía</a></h4>
-    <a href='https://computerhoy.com/ciencia/vanguardista-inteligencia-artificial-salvando-miles-vidas-terremoto-turquia-1206502' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/sismografo-2967314.jpg?tf=1200x' alt='La vanguardista inteligencia artificial que está salvando miles de vidas tras el terremoto en Turquía' />
+    <h4><a href='https://computerhoy.com/moviles/xiaomi-mwc-23-nuevos-xiaomi-13-auriculares-reloj-patinete-1206202'>Xiaomi en MWC 23: Nuevos Xiaomi 13, auriculares, reloj y patinete</a></h4>
+    <a href='https://computerhoy.com/moviles/xiaomi-mwc-23-nuevos-xiaomi-13-auriculares-reloj-patinete-1206202' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/xiaomi-13-mwc-23-2966936.jpg?tf=1200x' alt='Xiaomi en MWC 23: Nuevos Xiaomi 13, auriculares, reloj y patinete' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/streaming/6-documentales-rusia-actual-ayudan-entender-situacion-vive-1203984'>6 documentales sobre la Rusia actual que ayudan a entender la situación que se vive</a></h4>
-    <a href='https://computerhoy.com/streaming/6-documentales-rusia-actual-ayudan-entender-situacion-vive-1203984' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/putin-2963698.jpg?tf=1200x' alt='6 documentales sobre la Rusia actual que ayudan a entender la situación que se vive' />
+    <h4><a href='https://computerhoy.com/moviles/son-xiaomi-13-pro-xiaomi-13-primeras-impresiones-1206186'>Así son los Xiaomi 13 Pro y Xiaomi 13, primeras impresiones</a></h4>
+    <a href='https://computerhoy.com/moviles/son-xiaomi-13-pro-xiaomi-13-primeras-impresiones-1206186' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/xiaomi-13-xiaomi-13-pro-primeras-impresiones-2966978.jpg?tf=1200x' alt='Así son los Xiaomi 13 Pro y Xiaomi 13, primeras impresiones' />
     </a>
 </div>
 
