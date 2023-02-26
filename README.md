@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/moviles/pantalla-enrollable-motorola-mwc-video-1206582'>La pantalla enrollable que Motorola ha presentado en el MWC es espectacular (vídeo)</a></h4>
+    <a href='https://computerhoy.com/moviles/pantalla-enrollable-motorola-mwc-video-1206582' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/pantalla-enrollable-motorola-ha-presentado-mwc-espectacular-video-2967558.jpg?tf=1200x' alt='La pantalla enrollable que Motorola ha presentado en el MWC es espectacular (vídeo)' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/realidad-virtual/tcl-apuesta-gafas-ya-tienen-ar-vr-visor-extendido-1206450'>TCL y su apuesta por las gafas: ya tienen AR, VR y visor extendido</a></h4>
     <a href='https://computerhoy.com/realidad-virtual/tcl-apuesta-gafas-ya-tienen-ar-vr-visor-extendido-1206450' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/gafas-tcl-2967322.jpg?tf=1200x' alt='TCL y su apuesta por las gafas: ya tienen AR, VR y visor extendido' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-nokia-1084165'>Estos son los mejores móviles Nokia que puedes comprar en 2023</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-nokia-1084165' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/analisis-nokia-x30-5g-2906808.jpg?tf=1200x' alt='Estos son los mejores móviles Nokia que puedes comprar en 2023' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/te-faltan-pestanas-explorador-archivos-windows-11-puede-arreglar-1192756'>Si te faltan pestañas en el Explorador de archivos de Windows 11, así lo puede arreglar</a></h4>
-    <a href='https://computerhoy.com/tutoriales/te-faltan-pestanas-explorador-archivos-windows-11-puede-arreglar-1192756' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/explorador-archivos-windows-11-2942104.jpg?tf=1200x' alt='Si te faltan pestañas en el Explorador de archivos de Windows 11, así lo puede arreglar' />
     </a>
 </div>
 
