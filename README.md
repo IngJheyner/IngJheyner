@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/realidad-virtual/tcl-apuesta-gafas-ya-tienen-ar-vr-visor-extendido-1206450'>TCL y su apuesta por las gafas: ya tienen AR, VR y visor extendido</a></h4>
+    <a href='https://computerhoy.com/realidad-virtual/tcl-apuesta-gafas-ya-tienen-ar-vr-visor-extendido-1206450' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/gafas-tcl-2967322.jpg?tf=1200x' alt='TCL y su apuesta por las gafas: ya tienen AR, VR y visor extendido' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/moviles/nuevos-moviles-tablets-tcl-mwc-2013-ojo-futuro-nxtpaper-1206448'>Nuevos móviles y tablets TCL en MWC 2013, ojo al futuro de NXTPAPER</a></h4>
+    <a href='https://computerhoy.com/moviles/nuevos-moviles-tablets-tcl-mwc-2013-ojo-futuro-nxtpaper-1206448' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/tcl-2967504.jpg?tf=1200x' alt='Nuevos móviles y tablets TCL en MWC 2013, ojo al futuro de NXTPAPER' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/espacio/terran-1-relativity-space-primer-cohete-espacial-impreso-3d-1206562'>A punto de despegar el primer cohete espacial impreso en 3D</a></h4>
     <a href='https://computerhoy.com/espacio/terran-1-relativity-space-primer-cohete-espacial-impreso-3d-1206562' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/punto-despegar-primer-cohete-espacial-impreso-3d-2967464.jpg?tf=1200x' alt='A punto de despegar el primer cohete espacial impreso en 3D' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tutoriales/te-faltan-pestanas-explorador-archivos-windows-11-puede-arreglar-1192756'>Si te faltan pestañas en el Explorador de archivos de Windows 11, así lo puede arreglar</a></h4>
     <a href='https://computerhoy.com/tutoriales/te-faltan-pestanas-explorador-archivos-windows-11-puede-arreglar-1192756' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/explorador-archivos-windows-11-2942104.jpg?tf=1200x' alt='Si te faltan pestañas en el Explorador de archivos de Windows 11, así lo puede arreglar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/xiaomi-mwc-23-nuevos-xiaomi-13-auriculares-reloj-patinete-1206202'>Xiaomi en MWC 23: Nuevos Xiaomi 13, auriculares, reloj y patinete</a></h4>
-    <a href='https://computerhoy.com/moviles/xiaomi-mwc-23-nuevos-xiaomi-13-auriculares-reloj-patinete-1206202' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/xiaomi-13-mwc-23-2966936.jpg?tf=1200x' alt='Xiaomi en MWC 23: Nuevos Xiaomi 13, auriculares, reloj y patinete' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/son-xiaomi-13-pro-xiaomi-13-primeras-impresiones-1206186'>Así son los Xiaomi 13 Pro y Xiaomi 13, primeras impresiones</a></h4>
-    <a href='https://computerhoy.com/moviles/son-xiaomi-13-pro-xiaomi-13-primeras-impresiones-1206186' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/xiaomi-13-xiaomi-13-pro-primeras-impresiones-2966978.jpg?tf=1200x' alt='Así son los Xiaomi 13 Pro y Xiaomi 13, primeras impresiones' />
     </a>
 </div>
 
