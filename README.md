@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-evitar-raton-pase-segundo-monitor-solo-funcione-principal-windows-1196570'>Cómo evitar que tu ratón pase a tu segundo monitor y solo funcione en el principal en Windows</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-evitar-raton-pase-segundo-monitor-solo-funcione-principal-windows-1196570' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/puntero-raton-2949088.jpg?tf=1200x' alt='Cómo evitar que tu ratón pase a tu segundo monitor y solo funcione en el principal en Windows' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-reiniciar-iphone-aunque-no-funcionen-botones-1198842'>Cómo reiniciar un iPhone, aunque no funcionen los botones</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-reiniciar-iphone-aunque-no-funcionen-botones-1198842' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/sensor-lidar-iphone-14-2921618.jpg?tf=1200x' alt='Cómo reiniciar un iPhone, aunque no funcionen los botones' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/movil-top-xiaomi-carga-20-minutos-ahora-200-euros-barato-1205666'>El móvil top de Xiaomi se carga en 20 minutos y ahora es 200 euros más barato</a></h4>
+    <a href='https://computerhoy.com/tecnologia/movil-top-xiaomi-carga-20-minutos-ahora-200-euros-barato-1205666' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/xiaomi-12t-pro-2835221.jpg?tf=1200x' alt='El móvil top de Xiaomi se carga en 20 minutos y ahora es 200 euros más barato' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-hacer-viejo-pc-windows-usable-otra-vez-script-tron-1203316'>Cómo hacer tu viejo PC Windows usable otra vez con el script Tron</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-hacer-viejo-pc-windows-usable-otra-vez-script-tron-1203316' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/ordenador-2961980.jpg?tf=1200x' alt='Cómo hacer tu viejo PC Windows usable otra vez con el script Tron' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/analisis/realme-10-analisis-opinion-nuevo-gama-media-quiere-conquistar-bolsillos-1202004'>realme 10, análisis y opinión del nuevo gama media que quiere conquistar los bolsillos</a></h4>
     <a href='https://computerhoy.com/analisis/realme-10-analisis-opinion-nuevo-gama-media-quiere-conquistar-bolsillos-1202004' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/realme-10-2964212.jpg?tf=1200x' alt='realme 10, análisis y opinión del nuevo gama media que quiere conquistar los bolsillos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/modo-depuracion-usb-android-como-habilitarlo-1199182'>Modo depuración USB en Android: qué es y como habilitarlo</a></h4>
-    <a href='https://computerhoy.com/tecnologia/modo-depuracion-usb-android-como-habilitarlo-1199182' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/depuracion-usb-android-2954076.jpg?tf=1200x' alt='Modo depuración USB en Android: qué es y como habilitarlo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-snapdragon-8-gen-1-1061521'>Estos son los mejores móviles con Snapdragon 8 Gen 1, uno de los procesadores más potente de Qualcomm</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-snapdragon-8-gen-1-1061521' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/analisis-vivo-x80-lite-2888410.jpg?tf=1200x' alt='Estos son los mejores móviles con Snapdragon 8 Gen 1, uno de los procesadores más potente de Qualcomm' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/ejercito-australiano-estrena-inteligencia-artificial-unica-controlar-robots-mentes-1206206'>El ejército australiano estrena una inteligencia artificial única para controlar robots con sus mentes</a></h4>
-    <a href='https://computerhoy.com/ciencia/ejercito-australiano-estrena-inteligencia-artificial-unica-controlar-robots-mentes-1206206' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/ejercito-australiano-estrena-inteligencia-artificial-unica-controlar-robots-mentes-2966934.jpg?tf=1200x' alt='El ejército australiano estrena una inteligencia artificial única para controlar robots con sus mentes' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/astronomos-han-descubierto-exoplaneta-gigante-gaseoso-no-deberia-existir-1206204'>Astrónomos han descubierto un exoplaneta gigante gaseoso que no debería existir</a></h4>
-    <a href='https://computerhoy.com/espacio/astronomos-han-descubierto-exoplaneta-gigante-gaseoso-no-deberia-existir-1206204' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/astronomos-encuentran-planeta-no-deberia-existir-2966922.jpg?tf=1200x' alt='Astrónomos han descubierto un exoplaneta gigante gaseoso que no debería existir' />
     </a>
 </div>
 
