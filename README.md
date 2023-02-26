@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/guia-comprar-miravia-encontrar-mejores-ofertas-cupones-descuentos-1205722'>Guía para comprar en Miravia: encontrar las mejores ofertas, cupones y descuentos</a></h4>
+    <a href='https://computerhoy.com/tecnologia/guia-comprar-miravia-encontrar-mejores-ofertas-cupones-descuentos-1205722' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/miravia-2966142.jpg?tf=1200x' alt='Guía para comprar en Miravia: encontrar las mejores ofertas, cupones y descuentos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tutoriales/como-poner-limites-aplicaciones-android-evitar-pasar-horas-haciendo-scroll-1198814'>Cómo poner límites a las aplicaciones en Android y evitar pasar horas haciendo scroll</a></h4>
     <a href='https://computerhoy.com/tutoriales/como-poner-limites-aplicaciones-android-evitar-pasar-horas-haciendo-scroll-1198814' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/apps-android-2953482.jpg?tf=1200x' alt='Cómo poner límites a las aplicaciones en Android y evitar pasar horas haciendo scroll' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/life/7-trucos-reducir-uso-movil-cama-mejorar-sueno-1203846'>7 trucos para reducir el uso del móvil en la cama y mejorar tu sueño</a></h4>
     <a href='https://computerhoy.com/life/7-trucos-reducir-uso-movil-cama-mejorar-sueno-1203846' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/durmiendo-2962650.jpg?tf=1200x' alt='7 trucos para reducir el uso del móvil en la cama y mejorar tu sueño' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-televisores-4k-55-pulgadas-1059299'>Mejores televisores 4K de 55 pulgadas que puedes comprar en 2023</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-televisores-4k-55-pulgadas-1059299' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/portada-smart-tv-55-2956564.jpg?tf=1200x' alt='Mejores televisores 4K de 55 pulgadas que puedes comprar en 2023' />
     </a>
 </div>
 
