@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/flipper-zero-como-funciona-puedes-hacer-tamagotchi-hackers-1205736'>Qué es Flipper Zero, cómo funciona y qué puedes hacer con el "Tamagotchi de los hackers"</a></h4>
-    <a href='https://computerhoy.com/tecnologia/flipper-zero-como-funciona-puedes-hacer-tamagotchi-hackers-1205736' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/flipper-zero-como-funciona-puedes-hacer-tamagotchi-hackers-2966280.jpg?tf=1200x' alt='Qué es Flipper Zero, cómo funciona y qué puedes hacer con el "Tamagotchi de los hackers"' />
+    <h4><a href='https://computerhoy.com/internet/puedes-saber-router-wifi-culpable-velocidad-conexion-internet-lenta-1206840'>Así puedes saber si tu router WiFi es el culpable de una velocidad de conexión a Internet lenta</a></h4>
+    <a href='https://computerhoy.com/internet/puedes-saber-router-wifi-culpable-velocidad-conexion-internet-lenta-1206840' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/puedes-saber-router-wifi-culpable-velocidad-conexion-internet-lenta-2967994.jpg?tf=1200x' alt='Así puedes saber si tu router WiFi es el culpable de una velocidad de conexión a Internet lenta' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-cursos-programacion-online-certificado-finalizacion-1133233'>Mejores cursos de programación online con certificado de finalización</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-cursos-programacion-online-certificado-finalizacion-1133233' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/programadora-dos-pantallas-mirando-infinito-2966252.jpg?tf=1200x' alt='Mejores cursos de programación online con certificado de finalización' />
+    <h4><a href='https://computerhoy.com/android/ya-disponible-todos-android-auto-90-google-play-1206824'>Ya está disponible para todos Android Auto 9.0 en Google Play</a></h4>
+    <a href='https://computerhoy.com/android/ya-disponible-todos-android-auto-90-google-play-1206824' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/como-google-va-revolucionar-android-auto-verano-2701855.jpg?tf=1200x' alt='Ya está disponible para todos Android Auto 9.0 en Google Play' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/40-noticias-tecnologia-comenzar-manana-informado-ultimo-1206782'>40 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
-    <a href='https://computerhoy.com/tecnologia/40-noticias-tecnologia-comenzar-manana-informado-ultimo-1206782' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/40-noticias-tecnologia-comenzar-manana-informado-ultimo-2967826.jpg?tf=1200x' alt='40 noticias de tecnología para comenzar la mañana informado de lo último' />
+    <h4><a href='https://computerhoy.com/patrocinado/50-descuento-novedades-tecnologicas-aliexpress-tiene-ti-1206148'>Hasta un 50% de descuento en las novedades tecnológicas que AliExpress tiene para ti</a></h4>
+    <a href='https://computerhoy.com/patrocinado/50-descuento-novedades-tecnologicas-aliexpress-tiene-ti-1206148' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/aliexpress-2966774.jpg?tf=1200x' alt='Hasta un 50% de descuento en las novedades tecnológicas que AliExpress tiene para ti' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/como-han-evolucionado-moviles-mwc-1203200'>Así han evolucionado los móviles desde que se celebra el MWC</a></h4>
-    <a href='https://computerhoy.com/moviles/como-han-evolucionado-moviles-mwc-1203200' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/mwc-2022-2630149.jpg?tf=1200x' alt='Así han evolucionado los móviles desde que se celebra el MWC' />
+    <h4><a href='https://computerhoy.com/apps/significan-codigos-143-1437-alguna-vez-recibes-whatsapp-1206808'>Esto es lo que significan los códigos 143 y 1437 si alguna vez los recibes por WhatsApp</a></h4>
+    <a href='https://computerhoy.com/apps/significan-codigos-143-1437-alguna-vez-recibes-whatsapp-1206808' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/significan-codigos-143-1437-whatsapp-hacer-recibes-2967892.jpg?tf=1200x' alt='Esto es lo que significan los códigos 143 y 1437 si alguna vez los recibes por WhatsApp' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/alimentacion/como-te-enganan-productos-naturales-organicos-como-leer-bien-etiquetas-1205766'>Cómo te engañan los productos “naturales” y “orgánicos” y cómo leer bien las etiquetas</a></h4>
-    <a href='https://computerhoy.com/alimentacion/como-te-enganan-productos-naturales-organicos-como-leer-bien-etiquetas-1205766' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/significa-alimento-sea-organico-ventajas-tiene-2854359.jpg?tf=1200x' alt='Cómo te engañan los productos “naturales” y “orgánicos” y cómo leer bien las etiquetas' />
+    <h4><a href='https://computerhoy.com/gaming/comprar-ps5-pagar-god-war-stock-precio-base-1204370'>Comprar la PS5 sin pagar de más es posible: este pack con God of War está en stock a precio base</a></h4>
+    <a href='https://computerhoy.com/gaming/comprar-ps5-pagar-god-war-stock-precio-base-1204370' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/playstation-5-ps5-2963696.jpg?tf=1200x' alt='Comprar la PS5 sin pagar de más es posible: este pack con God of War está en stock a precio base' />
     </a>
 </div>
 
