@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/restos-4-presidentes-norteamericanos-tripulacion-star-trek-cohete-espacio-profundo-celestis-1206586'>Los restos de 4 presidentes norteamericanos y media tripulación de Star Trek serán enviados al espacio profundo</a></h4>
-    <a href='https://computerhoy.com/espacio/restos-4-presidentes-norteamericanos-tripulacion-star-trek-cohete-espacio-profundo-celestis-1206586' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/restos-4-presidentes-norteamericanos-media-tripulacion-star-trek-seran-enviados-espacio-profundo-2967622.jpg?tf=1200x' alt='Los restos de 4 presidentes norteamericanos y media tripulación de Star Trek serán enviados al espacio profundo' />
+    <h4><a href='https://computerhoy.com/tecnologia/flipper-zero-como-funciona-puedes-hacer-tamagotchi-hackers-1205736'>Qué es Flipper Zero, cómo funciona y qué puedes hacer con el "Tamagotchi de los hackers"</a></h4>
+    <a href='https://computerhoy.com/tecnologia/flipper-zero-como-funciona-puedes-hacer-tamagotchi-hackers-1205736' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/flipper-zero-como-funciona-puedes-hacer-tamagotchi-hackers-2966280.jpg?tf=1200x' alt='Qué es Flipper Zero, cómo funciona y qué puedes hacer con el "Tamagotchi de los hackers"' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/moviles-portatiles-pantalla-extensible-lenovo-me-ha-ensenado-futuro-ya-no-quiero-otra-cosa-1206536'>Móviles y portátiles con pantalla extensible: Lenovo me ha enseñado el futuro y ya no quiero otra cosa</a></h4>
-    <a href='https://computerhoy.com/moviles/moviles-portatiles-pantalla-extensible-lenovo-me-ha-ensenado-futuro-ya-no-quiero-otra-cosa-1206536' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/moviles-portatiles-pantalla-extensible-2967506.jpg?tf=1200x' alt='Móviles y portátiles con pantalla extensible: Lenovo me ha enseñado el futuro y ya no quiero otra cosa' />
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-cursos-programacion-online-certificado-finalizacion-1133233'>Mejores cursos de programación online con certificado de finalización</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-cursos-programacion-online-certificado-finalizacion-1133233' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/programadora-dos-pantallas-mirando-infinito-2966252.jpg?tf=1200x' alt='Mejores cursos de programación online con certificado de finalización' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/lenovo-mwc-2023-todos-nuevos-portatiles-convertibles-monitores-mucho-1206528'>Lenovo en el MWC 2023: todos sus nuevos portátiles, convertibles, monitores y mucho más</a></h4>
-    <a href='https://computerhoy.com/pc/lenovo-mwc-2023-todos-nuevos-portatiles-convertibles-monitores-mucho-1206528' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/lenovo-mwc-2023-2967426.jpg?tf=1200x' alt='Lenovo en el MWC 2023: todos sus nuevos portátiles, convertibles, monitores y mucho más' />
+    <h4><a href='https://computerhoy.com/tecnologia/40-noticias-tecnologia-comenzar-manana-informado-ultimo-1206782'>40 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
+    <a href='https://computerhoy.com/tecnologia/40-noticias-tecnologia-comenzar-manana-informado-ultimo-1206782' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/40-noticias-tecnologia-comenzar-manana-informado-ultimo-2967826.jpg?tf=1200x' alt='40 noticias de tecnología para comenzar la mañana informado de lo último' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/jugador-amateur-vence-go-ia-katago-hackeandola-bot-1205854'>Un jugador amateur consigue vencer al Go a una IA invencible... hackeándola con un bot</a></h4>
-    <a href='https://computerhoy.com/tecnologia/jugador-amateur-vence-go-ia-katago-hackeandola-bot-1205854' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/consigue-vencer-go-ia-invencible-hackeandola-bot-2966428.jpg?tf=1200x' alt='Un jugador amateur consigue vencer al Go a una IA invencible... hackeándola con un bot' />
+    <h4><a href='https://computerhoy.com/moviles/como-han-evolucionado-moviles-mwc-1203200'>Así han evolucionado los móviles desde que se celebra el MWC</a></h4>
+    <a href='https://computerhoy.com/moviles/como-han-evolucionado-moviles-mwc-1203200' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/mwc-2022-2630149.jpg?tf=1200x' alt='Así han evolucionado los móviles desde que se celebra el MWC' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/4-maneras-conseguir-nfts-completamente-gratis-1201396'>4 maneras de conseguir NFTs completamente gratis</a></h4>
-    <a href='https://computerhoy.com/tutoriales/4-maneras-conseguir-nfts-completamente-gratis-1201396' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/nft-2958248.jpg?tf=1200x' alt='4 maneras de conseguir NFTs completamente gratis' />
+    <h4><a href='https://computerhoy.com/alimentacion/como-te-enganan-productos-naturales-organicos-como-leer-bien-etiquetas-1205766'>Cómo te engañan los productos “naturales” y “orgánicos” y cómo leer bien las etiquetas</a></h4>
+    <a href='https://computerhoy.com/alimentacion/como-te-enganan-productos-naturales-organicos-como-leer-bien-etiquetas-1205766' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/significa-alimento-sea-organico-ventajas-tiene-2854359.jpg?tf=1200x' alt='Cómo te engañan los productos “naturales” y “orgánicos” y cómo leer bien las etiquetas' />
     </a>
 </div>
 
