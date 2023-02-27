@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/alimentacion/errores-hacen-freidora-aire-consuma-horno-1207008'>Errores que hacen que tu freidora de aire consuma más que un horno</a></h4>
+    <a href='https://computerhoy.com/alimentacion/errores-hacen-freidora-aire-consuma-horno-1207008' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/freidora-aire-toda-familia-philips-tamano-xl-mejores-ofertas-semana-2780243.jpg?tf=1200x' alt='Errores que hacen que tu freidora de aire consuma más que un horno' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/redes-sociales/nuevo-filtro-belleza-tiktok-tan-real-da-muchisimo-miedo-1206988'>El nuevo filtro belleza de TikTok es tan real que da muchísimo miedo</a></h4>
+    <a href='https://computerhoy.com/redes-sociales/nuevo-filtro-belleza-tiktok-tan-real-da-muchisimo-miedo-1206988' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/tiktok-2934326.jpg?tf=1200x' alt='El nuevo filtro belleza de TikTok es tan real que da muchísimo miedo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/energia/consiguen-aumentar-eficiencia-paneles-solares-convencionales-250-1206994'>Consiguen aumentar la eficiencia de los paneles solares convencionales en un 250%</a></h4>
+    <a href='https://computerhoy.com/energia/consiguen-aumentar-eficiencia-paneles-solares-convencionales-250-1206994' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/paneles-solares-2785047.jpg?tf=1200x' alt='Consiguen aumentar la eficiencia de los paneles solares convencionales en un 250%' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/moviles/honor-magic5-pro-plegable-honor-magic-vs-anunciados-mwc-2023-barcelona-1206938'>El HONOR Magic5 Pro y el plegable HONOR Magic Vs anunciados en el MWC 2023 de Barcelona</a></h4>
+    <a href='https://computerhoy.com/moviles/honor-magic5-pro-plegable-honor-magic-vs-anunciados-mwc-2023-barcelona-1206938' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/honor-magic-5-pro-2968176.jpg?tf=1200x' alt='El HONOR Magic5 Pro y el plegable HONOR Magic Vs anunciados en el MWC 2023 de Barcelona' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/chatgpt-ya-provocando-despidos-pese-advertencias-sam-altman-ceo-openai-1206914'>ChatGPT ya está provocando despidos pese a las advertencias en contra de Sam Altman, CEO de OpenAI</a></h4>
     <a href='https://computerhoy.com/tecnologia/chatgpt-ya-provocando-despidos-pese-advertencias-sam-altman-ceo-openai-1206914' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/crees-chatgpt-demasiado-light-openai-quiere-dotarlo-personalidad-controversia-2959556.jpg?tf=1200x' alt='ChatGPT ya está provocando despidos pese a las advertencias en contra de Sam Altman, CEO de OpenAI' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/bill-gates-elon-musk-tim-cook-opinan-chatgpt-principales-lideres-tecnologicos-1206872'>Bill Gates, Elon Musk, Tim Cook… ¿qué opinan sobre ChatGPT los principales líderes tecnológicos?</a></h4>
-    <a href='https://computerhoy.com/tecnologia/bill-gates-elon-musk-tim-cook-opinan-chatgpt-principales-lideres-tecnologicos-1206872' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/bill-gates-elon-musk-2931354.jpg?tf=1200x' alt='Bill Gates, Elon Musk, Tim Cook… ¿qué opinan sobre ChatGPT los principales líderes tecnológicos?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/industria/paises-bajos-peaje-ue-netflix-otros-servicios-mejorar-trafico-internet-1206878'>Países Bajos en contra del peaje de la UE a Netflix y otros servicios para mejorar el tráfico de Internet</a></h4>
-    <a href='https://computerhoy.com/industria/paises-bajos-peaje-ue-netflix-otros-servicios-mejorar-trafico-internet-1206878' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/paises-bajos-peaje-ue-netflix-otros-servicios-mejorar-trafico-internet-2968040.jpg?tf=1200x' alt='Países Bajos en contra del peaje de la UE a Netflix y otros servicios para mejorar el tráfico de Internet' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/auriculares-inalambricos-cancelacion-menos-60-euros-1204406'>Despídete del ruido por menos de 60 euros: estos auriculares con Bluetooth 5.2 son perfectos para hacer deporte</a></h4>
-    <a href='https://computerhoy.com/tecnologia/auriculares-inalambricos-cancelacion-menos-60-euros-1204406' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/soundpeats-pro-mini-2963758.jpg?tf=1200x' alt='Despídete del ruido por menos de 60 euros: estos auriculares con Bluetooth 5.2 son perfectos para hacer deporte' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/puedes-saber-router-wifi-culpable-velocidad-conexion-internet-lenta-1206840'>Así puedes saber si tu router WiFi es el culpable de una velocidad de conexión a Internet lenta</a></h4>
-    <a href='https://computerhoy.com/internet/puedes-saber-router-wifi-culpable-velocidad-conexion-internet-lenta-1206840' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/puedes-saber-router-wifi-culpable-velocidad-conexion-internet-lenta-2967994.jpg?tf=1200x' alt='Así puedes saber si tu router WiFi es el culpable de una velocidad de conexión a Internet lenta' />
     </a>
 </div>
 
