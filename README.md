@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/no-reproduzcas-video-bloquea-movil-te-obliga-reiniciarlo-1207026'>No reproduzcas este video: bloquea tu móvil y te obliga a reiniciarlo</a></h4>
-    <a href='https://computerhoy.com/moviles/no-reproduzcas-video-bloquea-movil-te-obliga-reiniciarlo-1207026' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/xenomorfo-alien-2910634.jpg?tf=1200x' alt='No reproduzcas este video: bloquea tu móvil y te obliga a reiniciarlo' />
+    <h4><a href='https://computerhoy.com/life/hace-viral-supuesto-metodo-cia-hacer-desaparecer-cualquier-dolor-1207118'>Se hace viral un supuesto método de la CIA para hacer desaparecer cualquier dolor</a></h4>
+    <a href='https://computerhoy.com/life/hace-viral-supuesto-metodo-cia-hacer-desaparecer-cualquier-dolor-1207118' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/mejor-ejercicio-aliviar-dolores-espalda-fisioterapeuta-2507261.jpg?tf=1200x' alt='Se hace viral un supuesto método de la CIA para hacer desaparecer cualquier dolor' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/listas/tecnologia/trucos-zoom-videollamadas-631971'>15 trucos para Zoom que te interesa conocer</a></h4>
-    <a href='https://computerhoy.com/listas/tecnologia/trucos-zoom-videollamadas-631971' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/03/zoom-app-videollamadas-1906991.jpg?tf=1200x' alt='15 trucos para Zoom que te interesa conocer' />
+    <h4><a href='https://computerhoy.com/apps/gboard-quiere-dejes-lado-stickers-emojis-utilizara-inteligencia-artificial-conseguirlo-1207028'>Gboard quiere que dejes de lado los stickers y los Emojis, utilizará la Inteligencia Artificial para conseguirlo</a></h4>
+    <a href='https://computerhoy.com/apps/gboard-quiere-dejes-lado-stickers-emojis-utilizara-inteligencia-artificial-conseguirlo-1207028' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/gboard-2661455.jpg?tf=1200x' alt='Gboard quiere que dejes de lado los stickers y los Emojis, utilizará la Inteligencia Artificial para conseguirlo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/lidl-pone-oferta-freidora-aire-definitiva-9-1-funcion-deshidratar-alimentos-1207012'>Lidl pone en oferta la freidora de aire definitiva: 9 en 1 y función para deshidratar alimentos</a></h4>
-    <a href='https://computerhoy.com/life/lidl-pone-oferta-freidora-aire-definitiva-9-1-funcion-deshidratar-alimentos-1207012' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/lidl-pone-oferta-freidora-aire-definitiva-9-1-funcion-deshidratar-alimentos-2968566.jpg?tf=1200x' alt='Lidl pone en oferta la freidora de aire definitiva: 9 en 1 y función para deshidratar alimentos' />
+    <h4><a href='https://computerhoy.com/streaming/plan-anuncios-netflix-exito-espana-1207114'>Contra todo pronóstico, el plan con anuncios de Netflix es un éxito en España</a></h4>
+    <a href='https://computerhoy.com/streaming/plan-anuncios-netflix-exito-espana-1207114' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/trampa-netflix-plan-anuncios-parezca-atractivo-2934360.jpg?tf=1200x' alt='Contra todo pronóstico, el plan con anuncios de Netflix es un éxito en España' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/rebajas-primavera-xiaomi-1206880'>Rebajas de Primavera de Xiaomi: estos son los chollos imprescindibles</a></h4>
-    <a href='https://computerhoy.com/moviles/rebajas-primavera-xiaomi-1206880' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/galeria-review-poco-f4-gt-2689679.jpg?tf=1200x' alt='Rebajas de Primavera de Xiaomi: estos son los chollos imprescindibles' />
+    <h4><a href='https://computerhoy.com/moviles/tdtchannels-anade-compatibilidad-android-13-nuevas-funciones-ver-tdt-gratis-1207090'>TDTChannels añade compatibilidad con Android 13 y nuevas funciones para ver la TDT gratis</a></h4>
+    <a href='https://computerhoy.com/moviles/tdtchannels-anade-compatibilidad-android-13-nuevas-funciones-ver-tdt-gratis-1207090' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/tdt-channels-player-2927142.jpg?tf=1200x' alt='TDTChannels añade compatibilidad con Android 13 y nuevas funciones para ver la TDT gratis' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/probamos-honor-magic-5-pro-honor-magic-vs-nuevo-buque-insignia-plegable-llega-espana-1206962'>Probamos el Honor Magic 5 Pro y Honor Magic Vs, el nuevo buque insignia y el plegable que llega a España</a></h4>
-    <a href='https://computerhoy.com/moviles/probamos-honor-magic-5-pro-honor-magic-vs-nuevo-buque-insignia-plegable-llega-espana-1206962' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/honor-magic-vs-2968392.jpg?tf=1200x' alt='Probamos el Honor Magic 5 Pro y Honor Magic Vs, el nuevo buque insignia y el plegable que llega a España' />
+    <h4><a href='https://computerhoy.com/tv/netflix-haciendo-nueva-serie-pokemon-pero-sera-completamente-distinta-demas-1207024'>Netflix está haciendo una nueva serie de Pokémon, pero será completamente distinta a las demás</a></h4>
+    <a href='https://computerhoy.com/tv/netflix-haciendo-nueva-serie-pokemon-pero-sera-completamente-distinta-demas-1207024' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/pokemon-concierge-2968318.jpg?tf=1200x' alt='Netflix está haciendo una nueva serie de Pokémon, pero será completamente distinta a las demás' />
     </a>
 </div>
 
