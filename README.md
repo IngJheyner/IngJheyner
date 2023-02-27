@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/chatgpt-ya-provocando-despidos-pese-advertencias-sam-altman-ceo-openai-1206914'>ChatGPT ya está provocando despidos pese a las advertencias en contra de Sam Altman, CEO de OpenAI</a></h4>
+    <a href='https://computerhoy.com/tecnologia/chatgpt-ya-provocando-despidos-pese-advertencias-sam-altman-ceo-openai-1206914' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/crees-chatgpt-demasiado-light-openai-quiere-dotarlo-personalidad-controversia-2959556.jpg?tf=1200x' alt='ChatGPT ya está provocando despidos pese a las advertencias en contra de Sam Altman, CEO de OpenAI' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/bill-gates-elon-musk-tim-cook-opinan-chatgpt-principales-lideres-tecnologicos-1206872'>Bill Gates, Elon Musk, Tim Cook… ¿qué opinan sobre ChatGPT los principales líderes tecnológicos?</a></h4>
+    <a href='https://computerhoy.com/tecnologia/bill-gates-elon-musk-tim-cook-opinan-chatgpt-principales-lideres-tecnologicos-1206872' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/bill-gates-elon-musk-2931354.jpg?tf=1200x' alt='Bill Gates, Elon Musk, Tim Cook… ¿qué opinan sobre ChatGPT los principales líderes tecnológicos?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/industria/paises-bajos-peaje-ue-netflix-otros-servicios-mejorar-trafico-internet-1206878'>Países Bajos en contra del peaje de la UE a Netflix y otros servicios para mejorar el tráfico de Internet</a></h4>
+    <a href='https://computerhoy.com/industria/paises-bajos-peaje-ue-netflix-otros-servicios-mejorar-trafico-internet-1206878' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/paises-bajos-peaje-ue-netflix-otros-servicios-mejorar-trafico-internet-2968040.jpg?tf=1200x' alt='Países Bajos en contra del peaje de la UE a Netflix y otros servicios para mejorar el tráfico de Internet' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/auriculares-inalambricos-cancelacion-menos-60-euros-1204406'>Despídete del ruido por menos de 60 euros: estos auriculares con Bluetooth 5.2 son perfectos para hacer deporte</a></h4>
+    <a href='https://computerhoy.com/tecnologia/auriculares-inalambricos-cancelacion-menos-60-euros-1204406' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/soundpeats-pro-mini-2963758.jpg?tf=1200x' alt='Despídete del ruido por menos de 60 euros: estos auriculares con Bluetooth 5.2 son perfectos para hacer deporte' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/internet/puedes-saber-router-wifi-culpable-velocidad-conexion-internet-lenta-1206840'>Así puedes saber si tu router WiFi es el culpable de una velocidad de conexión a Internet lenta</a></h4>
     <a href='https://computerhoy.com/internet/puedes-saber-router-wifi-culpable-velocidad-conexion-internet-lenta-1206840' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/puedes-saber-router-wifi-culpable-velocidad-conexion-internet-lenta-2967994.jpg?tf=1200x' alt='Así puedes saber si tu router WiFi es el culpable de una velocidad de conexión a Internet lenta' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/android/ya-disponible-todos-android-auto-90-google-play-1206824'>Ya está disponible para todos Android Auto 9.0 en Google Play</a></h4>
-    <a href='https://computerhoy.com/android/ya-disponible-todos-android-auto-90-google-play-1206824' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/como-google-va-revolucionar-android-auto-verano-2701855.jpg?tf=1200x' alt='Ya está disponible para todos Android Auto 9.0 en Google Play' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/patrocinado/50-descuento-novedades-tecnologicas-aliexpress-tiene-ti-1206148'>Hasta un 50% de descuento en las novedades tecnológicas que AliExpress tiene para ti</a></h4>
-    <a href='https://computerhoy.com/patrocinado/50-descuento-novedades-tecnologicas-aliexpress-tiene-ti-1206148' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/aliexpress-2966774.jpg?tf=1200x' alt='Hasta un 50% de descuento en las novedades tecnológicas que AliExpress tiene para ti' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/significan-codigos-143-1437-alguna-vez-recibes-whatsapp-1206808'>Esto es lo que significan los códigos 143 y 1437 si alguna vez los recibes por WhatsApp</a></h4>
-    <a href='https://computerhoy.com/apps/significan-codigos-143-1437-alguna-vez-recibes-whatsapp-1206808' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/significan-codigos-143-1437-whatsapp-hacer-recibes-2967892.jpg?tf=1200x' alt='Esto es lo que significan los códigos 143 y 1437 si alguna vez los recibes por WhatsApp' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/gaming/comprar-ps5-pagar-god-war-stock-precio-base-1204370'>Comprar la PS5 sin pagar de más es posible: este pack con God of War está en stock a precio base</a></h4>
-    <a href='https://computerhoy.com/gaming/comprar-ps5-pagar-god-war-stock-precio-base-1204370' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/playstation-5-ps5-2963696.jpg?tf=1200x' alt='Comprar la PS5 sin pagar de más es posible: este pack con God of War está en stock a precio base' />
     </a>
 </div>
 
