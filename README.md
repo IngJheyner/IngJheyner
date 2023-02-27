@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/alimentacion/errores-hacen-freidora-aire-consuma-horno-1207008'>Errores que hacen que tu freidora de aire consuma más que un horno</a></h4>
-    <a href='https://computerhoy.com/alimentacion/errores-hacen-freidora-aire-consuma-horno-1207008' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/freidora-aire-toda-familia-philips-tamano-xl-mejores-ofertas-semana-2780243.jpg?tf=1200x' alt='Errores que hacen que tu freidora de aire consuma más que un horno' />
+    <h4><a href='https://computerhoy.com/moviles/no-reproduzcas-video-bloquea-movil-te-obliga-reiniciarlo-1207026'>No reproduzcas este video: bloquea tu móvil y te obliga a reiniciarlo</a></h4>
+    <a href='https://computerhoy.com/moviles/no-reproduzcas-video-bloquea-movil-te-obliga-reiniciarlo-1207026' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/xenomorfo-alien-2910634.jpg?tf=1200x' alt='No reproduzcas este video: bloquea tu móvil y te obliga a reiniciarlo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/redes-sociales/nuevo-filtro-belleza-tiktok-tan-real-da-muchisimo-miedo-1206988'>El nuevo filtro belleza de TikTok es tan real que da muchísimo miedo</a></h4>
-    <a href='https://computerhoy.com/redes-sociales/nuevo-filtro-belleza-tiktok-tan-real-da-muchisimo-miedo-1206988' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/tiktok-2934326.jpg?tf=1200x' alt='El nuevo filtro belleza de TikTok es tan real que da muchísimo miedo' />
+    <h4><a href='https://computerhoy.com/listas/tecnologia/trucos-zoom-videollamadas-631971'>15 trucos para Zoom que te interesa conocer</a></h4>
+    <a href='https://computerhoy.com/listas/tecnologia/trucos-zoom-videollamadas-631971' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/03/zoom-app-videollamadas-1906991.jpg?tf=1200x' alt='15 trucos para Zoom que te interesa conocer' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/energia/consiguen-aumentar-eficiencia-paneles-solares-convencionales-250-1206994'>Consiguen aumentar la eficiencia de los paneles solares convencionales en un 250%</a></h4>
-    <a href='https://computerhoy.com/energia/consiguen-aumentar-eficiencia-paneles-solares-convencionales-250-1206994' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/paneles-solares-2785047.jpg?tf=1200x' alt='Consiguen aumentar la eficiencia de los paneles solares convencionales en un 250%' />
+    <h4><a href='https://computerhoy.com/life/lidl-pone-oferta-freidora-aire-definitiva-9-1-funcion-deshidratar-alimentos-1207012'>Lidl pone en oferta la freidora de aire definitiva: 9 en 1 y función para deshidratar alimentos</a></h4>
+    <a href='https://computerhoy.com/life/lidl-pone-oferta-freidora-aire-definitiva-9-1-funcion-deshidratar-alimentos-1207012' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/lidl-pone-oferta-freidora-aire-definitiva-9-1-funcion-deshidratar-alimentos-2968566.jpg?tf=1200x' alt='Lidl pone en oferta la freidora de aire definitiva: 9 en 1 y función para deshidratar alimentos' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/honor-magic5-pro-plegable-honor-magic-vs-anunciados-mwc-2023-barcelona-1206938'>El HONOR Magic5 Pro y el plegable HONOR Magic Vs anunciados en el MWC 2023 de Barcelona</a></h4>
-    <a href='https://computerhoy.com/moviles/honor-magic5-pro-plegable-honor-magic-vs-anunciados-mwc-2023-barcelona-1206938' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/honor-magic-5-pro-2968176.jpg?tf=1200x' alt='El HONOR Magic5 Pro y el plegable HONOR Magic Vs anunciados en el MWC 2023 de Barcelona' />
+    <h4><a href='https://computerhoy.com/moviles/rebajas-primavera-xiaomi-1206880'>Rebajas de Primavera de Xiaomi: estos son los chollos imprescindibles</a></h4>
+    <a href='https://computerhoy.com/moviles/rebajas-primavera-xiaomi-1206880' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/galeria-review-poco-f4-gt-2689679.jpg?tf=1200x' alt='Rebajas de Primavera de Xiaomi: estos son los chollos imprescindibles' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/chatgpt-ya-provocando-despidos-pese-advertencias-sam-altman-ceo-openai-1206914'>ChatGPT ya está provocando despidos pese a las advertencias en contra de Sam Altman, CEO de OpenAI</a></h4>
-    <a href='https://computerhoy.com/tecnologia/chatgpt-ya-provocando-despidos-pese-advertencias-sam-altman-ceo-openai-1206914' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/crees-chatgpt-demasiado-light-openai-quiere-dotarlo-personalidad-controversia-2959556.jpg?tf=1200x' alt='ChatGPT ya está provocando despidos pese a las advertencias en contra de Sam Altman, CEO de OpenAI' />
+    <h4><a href='https://computerhoy.com/moviles/probamos-honor-magic-5-pro-honor-magic-vs-nuevo-buque-insignia-plegable-llega-espana-1206962'>Probamos el Honor Magic 5 Pro y Honor Magic Vs, el nuevo buque insignia y el plegable que llega a España</a></h4>
+    <a href='https://computerhoy.com/moviles/probamos-honor-magic-5-pro-honor-magic-vs-nuevo-buque-insignia-plegable-llega-espana-1206962' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/honor-magic-vs-2968392.jpg?tf=1200x' alt='Probamos el Honor Magic 5 Pro y Honor Magic Vs, el nuevo buque insignia y el plegable que llega a España' />
     </a>
 </div>
 
