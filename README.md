@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/streaming/skyshowtime-ya-disponible-espana-como-conseguir-oferta-299-euros-mes-siempre-1207494'>SkyShowtime, ya está disponible en España: cómo conseguir la oferta de 2,99 euros al mes para siempre</a></h4>
+    <a href='https://computerhoy.com/streaming/skyshowtime-ya-disponible-espana-como-conseguir-oferta-299-euros-mes-siempre-1207494' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/skyshowtime-2969464.jpg?tf=1200x' alt='SkyShowtime, ya está disponible en España: cómo conseguir la oferta de 2,99 euros al mes para siempre' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/motorola-edge-30-pro-snapdragon-8-gen-1-oferta-amazon-1206870'>Snapdragon 8 Gen 1 y pantallón OLED: este móvil puede poner en apuros a los gigantes del sector con 200 euros de descuento</a></h4>
+    <a href='https://computerhoy.com/tecnologia/motorola-edge-30-pro-snapdragon-8-gen-1-oferta-amazon-1206870' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/analisis-motorola-edge-30-pro-2669407.jpg?tf=1200x' alt='Snapdragon 8 Gen 1 y pantallón OLED: este móvil puede poner en apuros a los gigantes del sector con 200 euros de descuento' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/chatllama-nuevo-chatbot-basado-ia-meta-15-veces-eficiente-chatgpt-1207464'>ChatLLaMA: así es el nuevo chatbot basado en la IA de Meta, 15 veces más eficiente que ChatGPT </a></h4>
     <a href='https://computerhoy.com/tecnologia/chatllama-nuevo-chatbot-basado-ia-meta-15-veces-eficiente-chatgpt-1207464' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/chatllama-nuevo-chatbot-basado-ia-meta-15-veces-eficiente-chatgpt-2969358.jpg?tf=1200x' alt='ChatLLaMA: así es el nuevo chatbot basado en la IA de Meta, 15 veces más eficiente que ChatGPT ' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/elon-musk-quiere-crear-propio-chatgpt-no-piensa-dejar-indiferente-nadie-1207458'>Elon Musk quiere crear su propio ChatGPT y no piensa dejar indiferente a nadie</a></h4>
     <a href='https://computerhoy.com/tecnologia/elon-musk-quiere-crear-propio-chatgpt-no-piensa-dejar-indiferente-nadie-1207458' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/elon-musk-inteligencia-artificial-2969202.jpg?tf=1200x' alt='Elon Musk quiere crear su propio ChatGPT y no piensa dejar indiferente a nadie' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/estas-son-ventajas-conectar-router-wifi-enchufe-inteligente-1207424'>Estas son las ventajas de conectar tu router WiFi a un enchufe inteligente</a></h4>
-    <a href='https://computerhoy.com/internet/estas-son-ventajas-conectar-router-wifi-enchufe-inteligente-1207424' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/01/enchufe-inteligente-2196239.jpg?tf=1200x' alt='Estas son las ventajas de conectar tu router WiFi a un enchufe inteligente' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/tecnologia-puede-dejar-obsoleta-inteligencia-artificial-1207402'>Esta es la tecnología que puede dejar obsoleta a la inteligencia artificial</a></h4>
-    <a href='https://computerhoy.com/ciencia/tecnologia-puede-dejar-obsoleta-inteligencia-artificial-1207402' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/inteligencia-artificial-2901132.jpg?tf=1200x' alt='Esta es la tecnología que puede dejar obsoleta a la inteligencia artificial' />
     </a>
 </div>
 
