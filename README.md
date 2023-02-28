@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/mejor-momento-volar-avion-por-la-manana-1207374'>Por qué las mañanas son el mejor momento para volar en avión</a></h4>
-    <a href='https://computerhoy.com/life/mejor-momento-volar-avion-por-la-manana-1207374' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/mananas-son-mejor-momento-volar-2969036.jpg?tf=1200x' alt='Por qué las mañanas son el mejor momento para volar en avión' />
+    <h4><a href='https://computerhoy.com/tecnologia/chatllama-nuevo-chatbot-basado-ia-meta-15-veces-eficiente-chatgpt-1207464'>ChatLLaMA: así es el nuevo chatbot basado en la IA de Meta, 15 veces más eficiente que ChatGPT </a></h4>
+    <a href='https://computerhoy.com/tecnologia/chatllama-nuevo-chatbot-basado-ia-meta-15-veces-eficiente-chatgpt-1207464' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/chatllama-nuevo-chatbot-basado-ia-meta-15-veces-eficiente-chatgpt-2969358.jpg?tf=1200x' alt='ChatLLaMA: así es el nuevo chatbot basado en la IA de Meta, 15 veces más eficiente que ChatGPT ' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-auriculares-inalambricos-gimnasio-1016431'>Mejores auriculares inalámbricos para el gimnasio que puedes comprar</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-auriculares-inalambricos-gimnasio-1016431' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/auriculares-gimnasio-correr-2968178.jpg?tf=1200x' alt='Mejores auriculares inalámbricos para el gimnasio que puedes comprar' />
+    <h4><a href='https://computerhoy.com/patrocinado/llega-huawei-watch-buds-2-1-smartwatch-auriculares-puede-controlarse-simple-gesto-oido-1207470'>Llega el HUAWEI WATCH Buds, un 2 en 1 de smartwatch y auriculares que puede controlarse con un simple gesto desde el oído </a></h4>
+    <a href='https://computerhoy.com/patrocinado/llega-huawei-watch-buds-2-1-smartwatch-auriculares-puede-controlarse-simple-gesto-oido-1207470' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/huawei-watch-buds-2969196.jpg?tf=1200x' alt='Llega el HUAWEI WATCH Buds, un 2 en 1 de smartwatch y auriculares que puede controlarse con un simple gesto desde el oído ' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/realidad-virtual/mwc-2023-feria-gafas-inteligentes-1207060'>MWC 2023, la feria de las gafas inteligentes</a></h4>
-    <a href='https://computerhoy.com/realidad-virtual/mwc-2023-feria-gafas-inteligentes-1207060' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/gafas-mwc-2968622.jpg?tf=1200x' alt='MWC 2023, la feria de las gafas inteligentes' />
+    <h4><a href='https://computerhoy.com/tecnologia/elon-musk-quiere-crear-propio-chatgpt-no-piensa-dejar-indiferente-nadie-1207458'>Elon Musk quiere crear su propio ChatGPT y no piensa dejar indiferente a nadie</a></h4>
+    <a href='https://computerhoy.com/tecnologia/elon-musk-quiere-crear-propio-chatgpt-no-piensa-dejar-indiferente-nadie-1207458' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/elon-musk-inteligencia-artificial-2969202.jpg?tf=1200x' alt='Elon Musk quiere crear su propio ChatGPT y no piensa dejar indiferente a nadie' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/25-noticias-tecnologia-comenzar-manana-informado-ultimo-1207380'>26 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
-    <a href='https://computerhoy.com/tecnologia/25-noticias-tecnologia-comenzar-manana-informado-ultimo-1207380' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/25-noticias-tecnologia-comenzar-manana-informado-ultimo-2969040.jpg?tf=1200x' alt='26 noticias de tecnología para comenzar la mañana informado de lo último' />
+    <h4><a href='https://computerhoy.com/internet/estas-son-ventajas-conectar-router-wifi-enchufe-inteligente-1207424'>Estas son las ventajas de conectar tu router WiFi a un enchufe inteligente</a></h4>
+    <a href='https://computerhoy.com/internet/estas-son-ventajas-conectar-router-wifi-enchufe-inteligente-1207424' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/01/enchufe-inteligente-2196239.jpg?tf=1200x' alt='Estas son las ventajas de conectar tu router WiFi a un enchufe inteligente' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/rio-delaware-20000-lapidas-1205784'>Delaware, el río de las 20.000 lápidas</a></h4>
-    <a href='https://computerhoy.com/life/rio-delaware-20000-lapidas-1205784' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/delaware-rio-20000-lapidas-2966282.jpg?tf=1200x' alt='Delaware, el río de las 20.000 lápidas' />
+    <h4><a href='https://computerhoy.com/ciencia/tecnologia-puede-dejar-obsoleta-inteligencia-artificial-1207402'>Esta es la tecnología que puede dejar obsoleta a la inteligencia artificial</a></h4>
+    <a href='https://computerhoy.com/ciencia/tecnologia-puede-dejar-obsoleta-inteligencia-artificial-1207402' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/inteligencia-artificial-2901132.jpg?tf=1200x' alt='Esta es la tecnología que puede dejar obsoleta a la inteligencia artificial' />
     </a>
 </div>
 
