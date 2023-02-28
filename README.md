@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/analisis/analisis-realme-gt3-review-tope-gama-economico-interesante-2023-1206512'>Análisis realme GT3, review del tope de gama económico más interesante de 2023</a></h4>
+    <a href='https://computerhoy.com/analisis/analisis-realme-gt3-review-tope-gama-economico-interesante-2023-1206512' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/realme-gt3-2969830.jpg?tf=1200x' alt='Análisis realme GT3, review del tope de gama económico más interesante de 2023' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/quiere-convertir-apple-usb-c-obligatorio-iphone-15-ventaja-1207670'>Así quiere convertir Apple el USB-C obligatorio del iPhone 15 en una ventaja</a></h4>
+    <a href='https://computerhoy.com/apple/quiere-convertir-apple-usb-c-obligatorio-iphone-15-ventaja-1207670' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/iphone-14-puerto-usb-c-2874159.jpg?tf=1200x' alt='Así quiere convertir Apple el USB-C obligatorio del iPhone 15 en una ventaja' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/redes-sociales/elon-musk-despide-trabajadora-twitter-dormia-oficina-estar-siempre-disponible-1207668'>Elon Musk despide a la trabajadora de Twitter que dormía en la oficina para estar siempre disponible</a></h4>
     <a href='https://computerhoy.com/redes-sociales/elon-musk-despide-trabajadora-twitter-dormia-oficina-estar-siempre-disponible-1207668' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/elon-musk-despide-trabajadora-twitter-dormia-oficina-estar-siempre-disponible-2969912.jpg?tf=1200x' alt='Elon Musk despide a la trabajadora de Twitter que dormía en la oficina para estar siempre disponible' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/redes-sociales/tiktok-responde-tres-grandes-incognitas-ciberseguridad-espionaje-1207660'>TikTok responde a sus tres grandes incógnitas sobre ciberseguridad y espionaje</a></h4>
     <a href='https://computerhoy.com/redes-sociales/tiktok-responde-tres-grandes-incognitas-ciberseguridad-espionaje-1207660' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/tiktok-2799869.jpg?tf=1200x' alt='TikTok responde a sus tres grandes incógnitas sobre ciberseguridad y espionaje' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/smartwatches/huawei-watch-buds-primeras-impresiones-reloj-inteligente-auriculares-integrados-1207676'>Huawei Watch Buds, primeras impresiones del reloj inteligente con auriculares integrados</a></h4>
-    <a href='https://computerhoy.com/smartwatches/huawei-watch-buds-primeras-impresiones-reloj-inteligente-auriculares-integrados-1207676' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/huawei-watch-buds-2969814.jpg?tf=1200x' alt='Huawei Watch Buds, primeras impresiones del reloj inteligente con auriculares integrados' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tv/amazon-emite-dura-advertencia-todos-usuarios-fire-tv-1207644'>Amazon emite una dura advertencia para todos los usuarios de sus Fire TV</a></h4>
-    <a href='https://computerhoy.com/tv/amazon-emite-dura-advertencia-todos-usuarios-fire-tv-1207644' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/amazon-fire-tv-2969914.jpg?tf=1200x' alt='Amazon emite una dura advertencia para todos los usuarios de sus Fire TV' />
     </a>
 </div>
 
