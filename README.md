@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/redes-sociales/tiktok-responde-tres-grandes-incognitas-ciberseguridad-espionaje-1207660'>TikTok responde a sus tres grandes incógnitas sobre ciberseguridad y espionaje</a></h4>
+    <a href='https://computerhoy.com/redes-sociales/tiktok-responde-tres-grandes-incognitas-ciberseguridad-espionaje-1207660' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/tiktok-2799869.jpg?tf=1200x' alt='TikTok responde a sus tres grandes incógnitas sobre ciberseguridad y espionaje' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/smartwatches/huawei-watch-buds-primeras-impresiones-reloj-inteligente-auriculares-integrados-1207676'>Huawei Watch Buds, primeras impresiones del reloj inteligente con auriculares integrados</a></h4>
+    <a href='https://computerhoy.com/smartwatches/huawei-watch-buds-primeras-impresiones-reloj-inteligente-auriculares-integrados-1207676' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/huawei-watch-buds-2969814.jpg?tf=1200x' alt='Huawei Watch Buds, primeras impresiones del reloj inteligente con auriculares integrados' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tv/amazon-emite-dura-advertencia-todos-usuarios-fire-tv-1207644'>Amazon emite una dura advertencia para todos los usuarios de sus Fire TV</a></h4>
     <a href='https://computerhoy.com/tv/amazon-emite-dura-advertencia-todos-usuarios-fire-tv-1207644' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/analisis-amazon-fire-tv-cube-2022-2925922.jpg?tf=1200x' alt='Amazon emite una dura advertencia para todos los usuarios de sus Fire TV' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/alimentacion/te-milagroso-te-ayuda-adelgazar-mientras-duermes-avalado-ciencia-1207652'>El té milagroso que te ayuda a adelgazar mientras duermes avalado por la ciencia</a></h4>
     <a href='https://computerhoy.com/alimentacion/te-milagroso-te-ayuda-adelgazar-mientras-duermes-avalado-ciencia-1207652' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/te-verde-2969796.jpg?tf=1200x' alt='El té milagroso que te ayuda a adelgazar mientras duermes avalado por la ciencia' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/zte-presenta-primeras-gafas-inteligentes-ar-mwc-2023-1207046'>ZTE presenta sus primeras gafas inteligentes AR en  MWC 2023</a></h4>
-    <a href='https://computerhoy.com/tecnologia/zte-presenta-primeras-gafas-inteligentes-ar-mwc-2023-1207046' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/zte-presenta-primeras-gafas-inteligentes-ar-mwc-2023-2968454.jpg?tf=1200x' alt='ZTE presenta sus primeras gafas inteligentes AR en  MWC 2023' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/fechas-clave-renta-2022-23-calendario-oficial-1207586'>Fechas clave de la Renta 2022/23: este es el calendario oficial</a></h4>
-    <a href='https://computerhoy.com/life/fechas-clave-renta-2022-23-calendario-oficial-1207586' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/fechas-renta-2022-23-pedir-borrador-cuando-podrias-tener-ingresada-devolucion-2969698.jpg?tf=1200x' alt='Fechas clave de la Renta 2022/23: este es el calendario oficial' />
     </a>
 </div>
 
