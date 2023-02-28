@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/hace-viral-supuesto-metodo-cia-hacer-desaparecer-cualquier-dolor-1207118'>Se hace viral un supuesto método de la CIA para hacer desaparecer cualquier dolor</a></h4>
-    <a href='https://computerhoy.com/life/hace-viral-supuesto-metodo-cia-hacer-desaparecer-cualquier-dolor-1207118' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/mejor-ejercicio-aliviar-dolores-espalda-fisioterapeuta-2507261.jpg?tf=1200x' alt='Se hace viral un supuesto método de la CIA para hacer desaparecer cualquier dolor' />
+    <h4><a href='https://computerhoy.com/life/mejor-momento-volar-avion-por-la-manana-1207374'>Por qué las mañanas son el mejor momento para volar en avión</a></h4>
+    <a href='https://computerhoy.com/life/mejor-momento-volar-avion-por-la-manana-1207374' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/mananas-son-mejor-momento-volar-2969036.jpg?tf=1200x' alt='Por qué las mañanas son el mejor momento para volar en avión' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/gboard-quiere-dejes-lado-stickers-emojis-utilizara-inteligencia-artificial-conseguirlo-1207028'>Gboard quiere que dejes de lado los stickers y los Emojis, utilizará la Inteligencia Artificial para conseguirlo</a></h4>
-    <a href='https://computerhoy.com/apps/gboard-quiere-dejes-lado-stickers-emojis-utilizara-inteligencia-artificial-conseguirlo-1207028' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/gboard-2661455.jpg?tf=1200x' alt='Gboard quiere que dejes de lado los stickers y los Emojis, utilizará la Inteligencia Artificial para conseguirlo' />
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-auriculares-inalambricos-gimnasio-1016431'>Mejores auriculares inalámbricos para el gimnasio que puedes comprar</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-auriculares-inalambricos-gimnasio-1016431' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/auriculares-gimnasio-correr-2968178.jpg?tf=1200x' alt='Mejores auriculares inalámbricos para el gimnasio que puedes comprar' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/streaming/plan-anuncios-netflix-exito-espana-1207114'>Contra todo pronóstico, el plan con anuncios de Netflix es un éxito en España</a></h4>
-    <a href='https://computerhoy.com/streaming/plan-anuncios-netflix-exito-espana-1207114' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/trampa-netflix-plan-anuncios-parezca-atractivo-2934360.jpg?tf=1200x' alt='Contra todo pronóstico, el plan con anuncios de Netflix es un éxito en España' />
+    <h4><a href='https://computerhoy.com/realidad-virtual/mwc-2023-feria-gafas-inteligentes-1207060'>MWC 2023, la feria de las gafas inteligentes</a></h4>
+    <a href='https://computerhoy.com/realidad-virtual/mwc-2023-feria-gafas-inteligentes-1207060' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/gafas-mwc-2968622.jpg?tf=1200x' alt='MWC 2023, la feria de las gafas inteligentes' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/tdtchannels-anade-compatibilidad-android-13-nuevas-funciones-ver-tdt-gratis-1207090'>TDTChannels añade compatibilidad con Android 13 y nuevas funciones para ver la TDT gratis</a></h4>
-    <a href='https://computerhoy.com/moviles/tdtchannels-anade-compatibilidad-android-13-nuevas-funciones-ver-tdt-gratis-1207090' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/tdt-channels-player-2927142.jpg?tf=1200x' alt='TDTChannels añade compatibilidad con Android 13 y nuevas funciones para ver la TDT gratis' />
+    <h4><a href='https://computerhoy.com/tecnologia/25-noticias-tecnologia-comenzar-manana-informado-ultimo-1207380'>26 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
+    <a href='https://computerhoy.com/tecnologia/25-noticias-tecnologia-comenzar-manana-informado-ultimo-1207380' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/25-noticias-tecnologia-comenzar-manana-informado-ultimo-2969040.jpg?tf=1200x' alt='26 noticias de tecnología para comenzar la mañana informado de lo último' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tv/netflix-haciendo-nueva-serie-pokemon-pero-sera-completamente-distinta-demas-1207024'>Netflix está haciendo una nueva serie de Pokémon, pero será completamente distinta a las demás</a></h4>
-    <a href='https://computerhoy.com/tv/netflix-haciendo-nueva-serie-pokemon-pero-sera-completamente-distinta-demas-1207024' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/pokemon-concierge-2968318.jpg?tf=1200x' alt='Netflix está haciendo una nueva serie de Pokémon, pero será completamente distinta a las demás' />
+    <h4><a href='https://computerhoy.com/life/rio-delaware-20000-lapidas-1205784'>Delaware, el río de las 20.000 lápidas</a></h4>
+    <a href='https://computerhoy.com/life/rio-delaware-20000-lapidas-1205784' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/delaware-rio-20000-lapidas-2966282.jpg?tf=1200x' alt='Delaware, el río de las 20.000 lápidas' />
     </a>
 </div>
 
