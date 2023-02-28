@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/fechas-clave-renta-2022-23-calendario-oficial-1207586'>Fechas clave de la Renta 2022/23: este es el calendario oficial</a></h4>
+    <a href='https://computerhoy.com/life/fechas-clave-renta-2022-23-calendario-oficial-1207586' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/fechas-renta-2022-23-pedir-borrador-cuando-podrias-tener-ingresada-devolucion-2969698.jpg?tf=1200x' alt='Fechas clave de la Renta 2022/23: este es el calendario oficial' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/estos-podria-ocurrir-recibes-bizum-no-te-corresponde-no-dices-nada-1207522'>Estos es lo que podría ocurrir si recibes un Bizum que no te corresponde y no dices nada</a></h4>
+    <a href='https://computerhoy.com/apps/estos-podria-ocurrir-recibes-bizum-no-te-corresponde-no-dices-nada-1207522' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/estos-podria-ocurrir-recibes-bizum-no-te-corresponde-no-dices-nada-2969416.jpg?tf=1200x' alt='Estos es lo que podría ocurrir si recibes un Bizum que no te corresponde y no dices nada' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/streaming/skyshowtime-ya-disponible-espana-como-conseguir-oferta-299-euros-mes-siempre-1207494'>SkyShowtime, ya está disponible en España: cómo conseguir la oferta de 2,99 euros al mes para siempre</a></h4>
     <a href='https://computerhoy.com/streaming/skyshowtime-ya-disponible-espana-como-conseguir-oferta-299-euros-mes-siempre-1207494' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/skyshowtime-2969464.jpg?tf=1200x' alt='SkyShowtime, ya está disponible en España: cómo conseguir la oferta de 2,99 euros al mes para siempre' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/chatllama-nuevo-chatbot-basado-ia-meta-15-veces-eficiente-chatgpt-1207464'>ChatLLaMA: así es el nuevo chatbot basado en la IA de Meta, 15 veces más eficiente que ChatGPT </a></h4>
     <a href='https://computerhoy.com/tecnologia/chatllama-nuevo-chatbot-basado-ia-meta-15-veces-eficiente-chatgpt-1207464' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/chatllama-nuevo-chatbot-basado-ia-meta-15-veces-eficiente-chatgpt-2969358.jpg?tf=1200x' alt='ChatLLaMA: así es el nuevo chatbot basado en la IA de Meta, 15 veces más eficiente que ChatGPT ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/patrocinado/llega-huawei-watch-buds-2-1-smartwatch-auriculares-puede-controlarse-simple-gesto-oido-1207470'>Llega el HUAWEI WATCH Buds, un 2 en 1 de smartwatch y auriculares que puede controlarse con un simple gesto desde el oído </a></h4>
-    <a href='https://computerhoy.com/patrocinado/llega-huawei-watch-buds-2-1-smartwatch-auriculares-puede-controlarse-simple-gesto-oido-1207470' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/huawei-watch-buds-2969196.jpg?tf=1200x' alt='Llega el HUAWEI WATCH Buds, un 2 en 1 de smartwatch y auriculares que puede controlarse con un simple gesto desde el oído ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/elon-musk-quiere-crear-propio-chatgpt-no-piensa-dejar-indiferente-nadie-1207458'>Elon Musk quiere crear su propio ChatGPT y no piensa dejar indiferente a nadie</a></h4>
-    <a href='https://computerhoy.com/tecnologia/elon-musk-quiere-crear-propio-chatgpt-no-piensa-dejar-indiferente-nadie-1207458' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/elon-musk-inteligencia-artificial-2969202.jpg?tf=1200x' alt='Elon Musk quiere crear su propio ChatGPT y no piensa dejar indiferente a nadie' />
     </a>
 </div>
 
