@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/redes-sociales/elon-musk-despide-trabajadora-twitter-dormia-oficina-estar-siempre-disponible-1207668'>Elon Musk despide a la trabajadora de Twitter que dormía en la oficina para estar siempre disponible</a></h4>
+    <a href='https://computerhoy.com/redes-sociales/elon-musk-despide-trabajadora-twitter-dormia-oficina-estar-siempre-disponible-1207668' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/elon-musk-despide-trabajadora-twitter-dormia-oficina-estar-siempre-disponible-2969912.jpg?tf=1200x' alt='Elon Musk despide a la trabajadora de Twitter que dormía en la oficina para estar siempre disponible' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/mejores/teclados-inalambricos-1206964'>Teclados inalámbricos: qué tener en cuenta y cuáles son los mejores</a></h4>
+    <a href='https://computerhoy.com/mejores/teclados-inalambricos-1206964' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/logitech-mx-keys-mini-2551703.jpg?tf=1200x' alt='Teclados inalámbricos: qué tener en cuenta y cuáles son los mejores' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/redes-sociales/tiktok-responde-tres-grandes-incognitas-ciberseguridad-espionaje-1207660'>TikTok responde a sus tres grandes incógnitas sobre ciberseguridad y espionaje</a></h4>
     <a href='https://computerhoy.com/redes-sociales/tiktok-responde-tres-grandes-incognitas-ciberseguridad-espionaje-1207660' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/tiktok-2799869.jpg?tf=1200x' alt='TikTok responde a sus tres grandes incógnitas sobre ciberseguridad y espionaje' />
@@ -68,23 +84,7 @@
 <div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tv/amazon-emite-dura-advertencia-todos-usuarios-fire-tv-1207644'>Amazon emite una dura advertencia para todos los usuarios de sus Fire TV</a></h4>
     <a href='https://computerhoy.com/tv/amazon-emite-dura-advertencia-todos-usuarios-fire-tv-1207644' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/analisis-amazon-fire-tv-cube-2022-2925922.jpg?tf=1200x' alt='Amazon emite una dura advertencia para todos los usuarios de sus Fire TV' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/nuevo-realme-gt3-smartphone-carga-rapida-potente-mundo-240-w-1207638'>Así el nuevo realme GT3, el smartphone con la carga rápida más potente del mundo de 240 W</a></h4>
-    <a href='https://computerhoy.com/moviles/nuevo-realme-gt3-smartphone-carga-rapida-potente-mundo-240-w-1207638' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/realme-gt3-2969772.jpg?tf=1200x' alt='Así el nuevo realme GT3, el smartphone con la carga rápida más potente del mundo de 240 W' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/alimentacion/te-milagroso-te-ayuda-adelgazar-mientras-duermes-avalado-ciencia-1207652'>El té milagroso que te ayuda a adelgazar mientras duermes avalado por la ciencia</a></h4>
-    <a href='https://computerhoy.com/alimentacion/te-milagroso-te-ayuda-adelgazar-mientras-duermes-avalado-ciencia-1207652' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/te-verde-2969796.jpg?tf=1200x' alt='El té milagroso que te ayuda a adelgazar mientras duermes avalado por la ciencia' />
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/amazon-fire-tv-2969914.jpg?tf=1200x' alt='Amazon emite una dura advertencia para todos los usuarios de sus Fire TV' />
     </a>
 </div>
 
