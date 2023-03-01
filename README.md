@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/redes-sociales/ia-te-dira-regalarle-padre-tan-solo-comentarle-como-1208118'>Esta IA te dirá qué regalarle a tu padre con tan solo comentarle cómo es</a></h4>
-    <a href='https://computerhoy.com/redes-sociales/ia-te-dira-regalarle-padre-tan-solo-comentarle-como-1208118' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/inteligencia-artificial-2971030.jpg?tf=1200x' alt='Esta IA te dirá qué regalarle a tu padre con tan solo comentarle cómo es' />
+    <h4><a href='https://computerhoy.com/noticias/software/como-poner-subindice-superindice-word-75527'>Cómo poner un subíndice (o un superíndice) en Word</a></h4>
+    <a href='https://computerhoy.com/noticias/software/como-poner-subindice-superindice-word-75527' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/02/285819-como-poner-subindice-superindice-word.jpg?tf=1200x' alt='Cómo poner un subíndice (o un superíndice) en Word' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tv/sony-presenta-nueva-gama-televisores-2023-brillo-algoritmos-eficientes-1206466'>Sony presenta su nueva gama de televisores para 2023: más brillo y algoritmos más eficientes</a></h4>
-    <a href='https://computerhoy.com/tv/sony-presenta-nueva-gama-televisores-2023-brillo-algoritmos-eficientes-1206466' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/nueva-gama-televisores-sony-2023-2967234.jpg?tf=1200x' alt='Sony presenta su nueva gama de televisores para 2023: más brillo y algoritmos más eficientes' />
+    <h4><a href='https://computerhoy.com/software/chatgpt-sube-nuevo-nivel-va-controlar-robots-drones-1208240'>ChatGPT sube un nuevo nivel: va a controlar robots y drones</a></h4>
+    <a href='https://computerhoy.com/software/chatgpt-sube-nuevo-nivel-va-controlar-robots-drones-1208240' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/chatgpt-sube-nuevo-nivel-va-controlar-robots-drones-2971124.jpg?tf=1200x' alt='ChatGPT sube un nuevo nivel: va a controlar robots y drones' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/alimentacion/web-te-permite-crear-cesta-compra-semanal-barata-espana-1208174'>Esta web te permite crear la cesta de la compra semanal más barata de España</a></h4>
-    <a href='https://computerhoy.com/alimentacion/web-te-permite-crear-cesta-compra-semanal-barata-espana-1208174' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/supermercado-2777549.jpg?tf=1200x' alt='Esta web te permite crear la cesta de la compra semanal más barata de España' />
+    <h4><a href='https://computerhoy.com/mejores/teclados-mac-1207554'>Teclados para Mac: qué debes tener en cuenta para comprar uno y cuáles son los mejores</a></h4>
+    <a href='https://computerhoy.com/mejores/teclados-mac-1207554' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/teclado-iphone-ipad-2969780.jpg?tf=1200x' alt='Teclados para Mac: qué debes tener en cuenta para comprar uno y cuáles son los mejores' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/piloto-avion-desvia-trayectoria-todos-pasajeros-puedan-ver-espectacular-aurora-boreal-1208172'>Un piloto de avión desvía su trayectoria para que todos los pasajeros puedan ver una espectacular aurora boreal</a></h4>
-    <a href='https://computerhoy.com/life/piloto-avion-desvia-trayectoria-todos-pasajeros-puedan-ver-espectacular-aurora-boreal-1208172' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/aurora-boreal-2970638.jpg?tf=1200x' alt='Un piloto de avión desvía su trayectoria para que todos los pasajeros puedan ver una espectacular aurora boreal' />
+    <h4><a href='https://computerhoy.com/redes-sociales/tiktok-anade-nuevas-limitaciones-destinadas-menores-edad-1208244'>TikTok añade nuevas limitaciones destinadas a los menores de edad</a></h4>
+    <a href='https://computerhoy.com/redes-sociales/tiktok-anade-nuevas-limitaciones-destinadas-menores-edad-1208244' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/como-saber-quien-ve-tiktoks-sacar-partido-ello-2889278.jpg?tf=1200x' alt='TikTok añade nuevas limitaciones destinadas a los menores de edad' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/redes-sociales/twitter-cae-todo-mundo-no-cosa-1208124'>Twitter se cae en todo el mundo, no es cosa tuya</a></h4>
-    <a href='https://computerhoy.com/redes-sociales/twitter-cae-todo-mundo-no-cosa-1208124' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/twitter-2676209.jpg?tf=1200x' alt='Twitter se cae en todo el mundo, no es cosa tuya' />
+    <h4><a href='https://computerhoy.com/industria/guerra-netflix-telecos-promete-convertirse-gran-batalla-2023-quien-tiene-razon-1208250'>La guerra entre Netflix y las telecos promete convertirse en la gran batalla de 2023: ¿quién tiene la razón?</a></h4>
+    <a href='https://computerhoy.com/industria/guerra-netflix-telecos-promete-convertirse-gran-batalla-2023-quien-tiene-razon-1208250' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/netflix-2971034.jpg?tf=1200x' alt='La guerra entre Netflix y las telecos promete convertirse en la gran batalla de 2023: ¿quién tiene la razón?' />
     </a>
 </div>
 
