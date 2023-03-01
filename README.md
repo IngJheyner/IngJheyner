@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/tematizacion-dia-herramienta-productividad-tan-poderosa-1206940'>Qué es la tematización del día y por qué esta herramienta de productividad es tan poderosa</a></h4>
-    <a href='https://computerhoy.com/life/tematizacion-dia-herramienta-productividad-tan-poderosa-1206940' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/tematizacion-dia-herramienta-productividad-tan-poderosa-2968170.jpg?tf=1200x' alt='Qué es la tematización del día y por qué esta herramienta de productividad es tan poderosa' />
+    <h4><a href='https://computerhoy.com/moviles/nuevos-vivo-v27-v27-pro-competir-gama-smartphone-concurrida-1208034'>Nuevos vivo v27 y v27 Pro para competir en la gama de smartphone más concurrida</a></h4>
+    <a href='https://computerhoy.com/moviles/nuevos-vivo-v27-v27-pro-competir-gama-smartphone-concurrida-1208034' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/vivo-v27-v27-pro-2970386.jpg?tf=1200x' alt='Nuevos vivo v27 y v27 Pro para competir en la gama de smartphone más concurrida' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/life/mejores-ventilador-aspas-1064109'>Ventilador sin aspas: cómo funciona y cuál comprar</a></h4>
-    <a href='https://computerhoy.com/reportajes/life/mejores-ventilador-aspas-1064109' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/dyson-purifier-cool-2969388.jpg?tf=1200x' alt='Ventilador sin aspas: cómo funciona y cuál comprar' />
+    <h4><a href='https://computerhoy.com/tecnologia/mini-pc-ryzen-9-32gb-ram-descuento-1207622'>Este Mini PC es una bestia de potencia: Ryzen 9 y 32GB de memoria RAM con más de 100€ de descuento</a></h4>
+    <a href='https://computerhoy.com/tecnologia/mini-pc-ryzen-9-32gb-ram-descuento-1207622' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/minis-forum-hm90-2969166.jpg?tf=1200x' alt='Este Mini PC es una bestia de potencia: Ryzen 9 y 32GB de memoria RAM con más de 100€ de descuento' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/industria/mwc-2023-cuanto-cuesta-estar-feria-movilidad-grande-mundo-1207740'>MWC 2023: ¿cuánto cuesta estar en la feria de movilidad más grande del mundo?</a></h4>
-    <a href='https://computerhoy.com/industria/mwc-2023-cuanto-cuesta-estar-feria-movilidad-grande-mundo-1207740' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/mwc-2023-2970270.jpg?tf=1200x' alt='MWC 2023: ¿cuánto cuesta estar en la feria de movilidad más grande del mundo?' />
+    <h4><a href='https://computerhoy.com/internet/regla-10-segundos-mejorar-conexion-wifi-router-1208050'>La regla de los 10 segundos para mejorar la conexión WiFi de tu router</a></h4>
+    <a href='https://computerhoy.com/internet/regla-10-segundos-mejorar-conexion-wifi-router-1208050' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/regla-10-segundos-mejorar-conexion-wifi-router-2970372.jpg?tf=1200x' alt='La regla de los 10 segundos para mejorar la conexión WiFi de tu router' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/31-noticias-tecnologia-comenzar-manana-informado-ultimo-1207982'>31 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
-    <a href='https://computerhoy.com/tecnologia/31-noticias-tecnologia-comenzar-manana-informado-ultimo-1207982' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/30-noticias-tecnologia-comenzar-manana-informado-ultimo-2970288.jpg?tf=1200x' alt='31 noticias de tecnología para comenzar la mañana informado de lo último' />
+    <h4><a href='https://computerhoy.com/hogar/como-nos-enganan-luces-led-ahorrar-energia-1207572'>Cómo nos engañan con las luces LED para “ahorrar energía”</a></h4>
+    <a href='https://computerhoy.com/hogar/como-nos-enganan-luces-led-ahorrar-energia-1207572' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/bombilla-led-junto-bombillas-normales-2970350.jpg?tf=1200x' alt='Cómo nos engañan con las luces LED para “ahorrar energía”' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/guia-compra/cepillo-electrico'>¿Cuál es el mejor cepillo de dientes eléctrico? Guía de compra con los mejores modelos de 2023</a></h4>
-    <a href='https://computerhoy.com/guia-compra/cepillo-electrico' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/cepillo-dientes-electrico-2968020.jpg?tf=1200x' alt='¿Cuál es el mejor cepillo de dientes eléctrico? Guía de compra con los mejores modelos de 2023' />
+    <h4><a href='https://computerhoy.com/moviles/isim-tecnologia-desbancara-esim-1208024'>Así es iSIM, la tecnología que desbancará a la eSIM</a></h4>
+    <a href='https://computerhoy.com/moviles/isim-tecnologia-desbancara-esim-1208024' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/esim-isim-2970348.jpg?tf=1200x' alt='Así es iSIM, la tecnología que desbancará a la eSIM' />
     </a>
 </div>
 
