@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/software/como-poner-subindice-superindice-word-75527'>Cómo poner un subíndice (o un superíndice) en Word</a></h4>
-    <a href='https://computerhoy.com/noticias/software/como-poner-subindice-superindice-word-75527' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/02/285819-como-poner-subindice-superindice-word.jpg?tf=1200x' alt='Cómo poner un subíndice (o un superíndice) en Word' />
+    <h4><a href='https://computerhoy.com/moviles/movil-barato-poco-c40-oferta-1208354'>Este móvil de POCO es perfecto para WhatsApp, vídeos y redes sociales, y vale menos de 100 euros</a></h4>
+    <a href='https://computerhoy.com/moviles/movil-barato-poco-c40-oferta-1208354' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/poco-c40-2949522.jpg?tf=1200x' alt='Este móvil de POCO es perfecto para WhatsApp, vídeos y redes sociales, y vale menos de 100 euros' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/software/chatgpt-sube-nuevo-nivel-va-controlar-robots-drones-1208240'>ChatGPT sube un nuevo nivel: va a controlar robots y drones</a></h4>
-    <a href='https://computerhoy.com/software/chatgpt-sube-nuevo-nivel-va-controlar-robots-drones-1208240' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/chatgpt-sube-nuevo-nivel-va-controlar-robots-drones-2971124.jpg?tf=1200x' alt='ChatGPT sube un nuevo nivel: va a controlar robots y drones' />
+    <h4><a href='https://computerhoy.com/life/regla-11-minutos-vida-sana-duradera-avalada-ciencia-1208340'>La regla de los 11 minutos para una vida sana y duradera avalada por la ciencia</a></h4>
+    <a href='https://computerhoy.com/life/regla-11-minutos-vida-sana-duradera-avalada-ciencia-1208340' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/hombre-preparandose-hacer-deporte-2399173.jpg?tf=1200x' alt='La regla de los 11 minutos para una vida sana y duradera avalada por la ciencia' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/mejores/teclados-mac-1207554'>Teclados para Mac: qué debes tener en cuenta para comprar uno y cuáles son los mejores</a></h4>
-    <a href='https://computerhoy.com/mejores/teclados-mac-1207554' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/teclado-iphone-ipad-2969780.jpg?tf=1200x' alt='Teclados para Mac: qué debes tener en cuenta para comprar uno y cuáles son los mejores' />
+    <h4><a href='https://computerhoy.com/internet/3-senales-te-podrian-estar-robando-conexion-wifi-1208336'>3 señales de que te podrían estar robando tu conexión WiFi</a></h4>
+    <a href='https://computerhoy.com/internet/3-senales-te-podrian-estar-robando-conexion-wifi-1208336' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/router-wifi-2946290.jpg?tf=1200x' alt='3 señales de que te podrían estar robando tu conexión WiFi' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/redes-sociales/tiktok-anade-nuevas-limitaciones-destinadas-menores-edad-1208244'>TikTok añade nuevas limitaciones destinadas a los menores de edad</a></h4>
-    <a href='https://computerhoy.com/redes-sociales/tiktok-anade-nuevas-limitaciones-destinadas-menores-edad-1208244' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/como-saber-quien-ve-tiktoks-sacar-partido-ello-2889278.jpg?tf=1200x' alt='TikTok añade nuevas limitaciones destinadas a los menores de edad' />
+    <h4><a href='https://computerhoy.com/streaming/the-mandalorian-temporada-3-estreno-1208338'>Ya está aquí la temporada 3 de The Mandalorian... ¿será el despertar de Grogu?</a></h4>
+    <a href='https://computerhoy.com/streaming/the-mandalorian-temporada-3-estreno-1208338' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/verticalimage1677698464166-2971164.jpg?tf=1200x' alt='Ya está aquí la temporada 3 de The Mandalorian... ¿será el despertar de Grogu?' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/industria/guerra-netflix-telecos-promete-convertirse-gran-batalla-2023-quien-tiene-razon-1208250'>La guerra entre Netflix y las telecos promete convertirse en la gran batalla de 2023: ¿quién tiene la razón?</a></h4>
-    <a href='https://computerhoy.com/industria/guerra-netflix-telecos-promete-convertirse-gran-batalla-2023-quien-tiene-razon-1208250' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/netflix-2971034.jpg?tf=1200x' alt='La guerra entre Netflix y las telecos promete convertirse en la gran batalla de 2023: ¿quién tiene la razón?' />
+    <h4><a href='https://computerhoy.com/moviles/movil-cambia-color-placer-funciona-trasera-reproduce-1600-colores-diferentes-1208242'>Este móvil cambia de color a placer: así funciona su trasera que reproduce 1.600 colores diferentes</a></h4>
+    <a href='https://computerhoy.com/moviles/movil-cambia-color-placer-funciona-trasera-reproduce-1600-colores-diferentes-1208242' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/movil-cambia-color-placer-funciona-trasera-reproduce-1600-colores-diferentes-2971162.jpg?tf=1200x' alt='Este móvil cambia de color a placer: así funciona su trasera que reproduce 1.600 colores diferentes' />
     </a>
 </div>
 
