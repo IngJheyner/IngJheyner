@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/analisis-realme-gt3-review-tope-gama-economico-interesante-2023-1206512'>Análisis realme GT3, review del tope de gama económico más interesante de 2023</a></h4>
-    <a href='https://computerhoy.com/analisis/analisis-realme-gt3-review-tope-gama-economico-interesante-2023-1206512' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/realme-gt3-2969830.jpg?tf=1200x' alt='Análisis realme GT3, review del tope de gama económico más interesante de 2023' />
+    <h4><a href='https://computerhoy.com/windows/windows-11-integra-bing-chatgpt-barra-tareas-1207758'>Una actualización sorpresa de Windows 11 integra ChatGPT en la barra de tareas</a></h4>
+    <a href='https://computerhoy.com/windows/windows-11-integra-bing-chatgpt-barra-tareas-1207758' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/actualizacion-sorpresa-windows-11-integra-chatgpt-barra-tareas-2970050.jpg?tf=1200x' alt='Una actualización sorpresa de Windows 11 integra ChatGPT en la barra de tareas' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/quiere-convertir-apple-usb-c-obligatorio-iphone-15-ventaja-1207670'>Así quiere convertir Apple el USB-C obligatorio del iPhone 15 en una ventaja</a></h4>
-    <a href='https://computerhoy.com/apple/quiere-convertir-apple-usb-c-obligatorio-iphone-15-ventaja-1207670' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/iphone-14-puerto-usb-c-2874159.jpg?tf=1200x' alt='Así quiere convertir Apple el USB-C obligatorio del iPhone 15 en una ventaja' />
+    <h4><a href='https://computerhoy.com/apps/atajo-google-maps-android-auto-provoca-caos-pequeno-pueblo-catalan-1207752'>Un “atajo” de Google Maps en Android Auto provoca el caos en un pequeño pueblo catalán</a></h4>
+    <a href='https://computerhoy.com/apps/atajo-google-maps-android-auto-provoca-caos-pequeno-pueblo-catalan-1207752' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/google-maps-2970048.jpg?tf=1200x' alt='Un “atajo” de Google Maps en Android Auto provoca el caos en un pequeño pueblo catalán' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/redes-sociales/elon-musk-despide-trabajadora-twitter-dormia-oficina-estar-siempre-disponible-1207668'>Elon Musk despide a la trabajadora de Twitter que dormía en la oficina para estar siempre disponible</a></h4>
-    <a href='https://computerhoy.com/redes-sociales/elon-musk-despide-trabajadora-twitter-dormia-oficina-estar-siempre-disponible-1207668' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/elon-musk-despide-trabajadora-twitter-dormia-oficina-estar-siempre-disponible-2969912.jpg?tf=1200x' alt='Elon Musk despide a la trabajadora de Twitter que dormía en la oficina para estar siempre disponible' />
+    <h4><a href='https://computerhoy.com/moviles/sistema-nacional-alertas-alert-ya-funciona-puedes-comprobar-tienes-activado-1207750'>El sistema nacional de alertas ES-Alert ya funciona y así puedes comprobar si lo tienes activado</a></h4>
+    <a href='https://computerhoy.com/moviles/sistema-nacional-alertas-alert-ya-funciona-puedes-comprobar-tienes-activado-1207750' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/alerta-telefono-movil-2970046.jpg?tf=1200x' alt='El sistema nacional de alertas ES-Alert ya funciona y así puedes comprobar si lo tienes activado' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/mejores/teclados-inalambricos-1206964'>Teclados inalámbricos: qué tener en cuenta y cuáles son los mejores</a></h4>
-    <a href='https://computerhoy.com/mejores/teclados-inalambricos-1206964' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/logitech-mx-keys-mini-2551703.jpg?tf=1200x' alt='Teclados inalámbricos: qué tener en cuenta y cuáles son los mejores' />
+    <h4><a href='https://computerhoy.com/streaming/que-ver-skyshowtime-1207748'>Qué merece la pena ver en la nueva plataforma SkyShowtime, que se acaba de estrenar</a></h4>
+    <a href='https://computerhoy.com/streaming/que-ver-skyshowtime-1207748' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/verticalimage1677613981284-2970024.jpg?tf=1200x' alt='Qué merece la pena ver en la nueva plataforma SkyShowtime, que se acaba de estrenar' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/redes-sociales/tiktok-responde-tres-grandes-incognitas-ciberseguridad-espionaje-1207660'>TikTok responde a sus tres grandes incógnitas sobre ciberseguridad y espionaje</a></h4>
-    <a href='https://computerhoy.com/redes-sociales/tiktok-responde-tres-grandes-incognitas-ciberseguridad-espionaje-1207660' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/tiktok-2799869.jpg?tf=1200x' alt='TikTok responde a sus tres grandes incógnitas sobre ciberseguridad y espionaje' />
+    <h4><a href='https://computerhoy.com/tutoriales/truco-secreto-amazon-muestre-solo-productos-grandes-descuentos-1207666'>El truco secreto para que Amazon muestre solo productos con grandes descuentos</a></h4>
+    <a href='https://computerhoy.com/tutoriales/truco-secreto-amazon-muestre-solo-productos-grandes-descuentos-1207666' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/trabajador-almacen-amazon-2939386.jpg?tf=1200x' alt='El truco secreto para que Amazon muestre solo productos con grandes descuentos' />
     </a>
 </div>
 
