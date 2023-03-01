@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/guia-compra/cepillo-electrico'>¿Cuál es el mejor cepillo de dientes eléctrico? Guía de compra con los mejores modelos de 2023</a></h4>
+    <a href='https://computerhoy.com/guia-compra/cepillo-electrico' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/cepillo-dientes-electrico-2968020.jpg?tf=1200x' alt='¿Cuál es el mejor cepillo de dientes eléctrico? Guía de compra con los mejores modelos de 2023' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/empleados-apple-10-anos-empresa-reciben-curioso-regalo-1207974'>Los empleados de Apple que llevan 10 años en la empresa reciben este curioso regalo</a></h4>
+    <a href='https://computerhoy.com/apple/empleados-apple-10-anos-empresa-reciben-curioso-regalo-1207974' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/empleados-apple-llevan-10-anos-empresa-reciben-curioso-regalo-2970254.jpg?tf=1200x' alt='Los empleados de Apple que llevan 10 años en la empresa reciben este curioso regalo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/espacio/como-ver-conjuncion-venus-jupiter-1207972'>Cómo ver el 'beso' de Venus y Júpiter, que solo ocurrirá una vez este año</a></h4>
     <a href='https://computerhoy.com/espacio/como-ver-conjuncion-venus-jupiter-1207972' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/como-ver-beso-venus-jupiter-solo-ocurrira-vez-ano-2970266.jpg?tf=1200x' alt='Cómo ver el 'beso' de Venus y Júpiter, que solo ocurrirá una vez este año' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/espacio/elon-musk-comparte-unas-impresionantes-imagenes-satelites-starlink-tierra-fondo-1207674'>Elon Musk comparte unas impresionantes imágenes de los satélites Starlink con la Tierra de fondo</a></h4>
     <a href='https://computerhoy.com/espacio/elon-musk-comparte-unas-impresionantes-imagenes-satelites-starlink-tierra-fondo-1207674' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/starlink-2628997.jpg?tf=1200x' alt='Elon Musk comparte unas impresionantes imágenes de los satélites Starlink con la Tierra de fondo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/windows-11-integra-bing-chatgpt-barra-tareas-1207758'>Una actualización sorpresa de Windows 11 integra ChatGPT en la barra de tareas</a></h4>
-    <a href='https://computerhoy.com/windows/windows-11-integra-bing-chatgpt-barra-tareas-1207758' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/actualizacion-sorpresa-windows-11-integra-chatgpt-barra-tareas-2970050.jpg?tf=1200x' alt='Una actualización sorpresa de Windows 11 integra ChatGPT en la barra de tareas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/atajo-google-maps-android-auto-provoca-caos-pequeno-pueblo-catalan-1207752'>Un “atajo” de Google Maps en Android Auto provoca el caos en un pequeño pueblo catalán</a></h4>
-    <a href='https://computerhoy.com/apps/atajo-google-maps-android-auto-provoca-caos-pequeno-pueblo-catalan-1207752' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/google-maps-2970048.jpg?tf=1200x' alt='Un “atajo” de Google Maps en Android Auto provoca el caos en un pequeño pueblo catalán' />
     </a>
 </div>
 
