@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/redes-sociales/ia-te-dira-regalarle-padre-tan-solo-comentarle-como-1208118'>Esta IA te dirá qué regalarle a tu padre con tan solo comentarle cómo es</a></h4>
+    <a href='https://computerhoy.com/redes-sociales/ia-te-dira-regalarle-padre-tan-solo-comentarle-como-1208118' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/inteligencia-artificial-2971030.jpg?tf=1200x' alt='Esta IA te dirá qué regalarle a tu padre con tan solo comentarle cómo es' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tv/sony-presenta-nueva-gama-televisores-2023-brillo-algoritmos-eficientes-1206466'>Sony presenta su nueva gama de televisores para 2023: más brillo y algoritmos más eficientes</a></h4>
+    <a href='https://computerhoy.com/tv/sony-presenta-nueva-gama-televisores-2023-brillo-algoritmos-eficientes-1206466' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/nueva-gama-televisores-sony-2023-2967234.jpg?tf=1200x' alt='Sony presenta su nueva gama de televisores para 2023: más brillo y algoritmos más eficientes' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/alimentacion/web-te-permite-crear-cesta-compra-semanal-barata-espana-1208174'>Esta web te permite crear la cesta de la compra semanal más barata de España</a></h4>
+    <a href='https://computerhoy.com/alimentacion/web-te-permite-crear-cesta-compra-semanal-barata-espana-1208174' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/supermercado-2777549.jpg?tf=1200x' alt='Esta web te permite crear la cesta de la compra semanal más barata de España' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/piloto-avion-desvia-trayectoria-todos-pasajeros-puedan-ver-espectacular-aurora-boreal-1208172'>Un piloto de avión desvía su trayectoria para que todos los pasajeros puedan ver una espectacular aurora boreal</a></h4>
+    <a href='https://computerhoy.com/life/piloto-avion-desvia-trayectoria-todos-pasajeros-puedan-ver-espectacular-aurora-boreal-1208172' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/aurora-boreal-2970638.jpg?tf=1200x' alt='Un piloto de avión desvía su trayectoria para que todos los pasajeros puedan ver una espectacular aurora boreal' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/redes-sociales/twitter-cae-todo-mundo-no-cosa-1208124'>Twitter se cae en todo el mundo, no es cosa tuya</a></h4>
     <a href='https://computerhoy.com/redes-sociales/twitter-cae-todo-mundo-no-cosa-1208124' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/twitter-2676209.jpg?tf=1200x' alt='Twitter se cae en todo el mundo, no es cosa tuya' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/conversaciones-cara-cara-humano-digital-seran-chatbots-futuro-1208086'>Conversaciones cara a cara con un humano digital: así serán los chatbots del futuro</a></h4>
-    <a href='https://computerhoy.com/tecnologia/conversaciones-cara-cara-humano-digital-seran-chatbots-futuro-1208086' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/conversaciones-cara-cara-humano-digital-seran-chatbots-futuro-2970586.jpg?tf=1200x' alt='Conversaciones cara a cara con un humano digital: así serán los chatbots del futuro' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/diferencias-hay-grupo-whatsapp-comunidad-1208058'>Qué diferencias hay entre un grupo de WhatsApp y una comunidad</a></h4>
-    <a href='https://computerhoy.com/apps/diferencias-hay-grupo-whatsapp-comunidad-1208058' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/whatsapp-2970584.jpg?tf=1200x' alt='Qué diferencias hay entre un grupo de WhatsApp y una comunidad' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/estas-son-todas-novedades-android-wear-os-dispositivos-anunciadas-mwc-2023-1208062'>Estas son todas las novedades Android y Wear OS para dispositivos anunciadas en el MWC 2023</a></h4>
-    <a href='https://computerhoy.com/google/estas-son-todas-novedades-android-wear-os-dispositivos-anunciadas-mwc-2023-1208062' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/estas-son-todas-novedades-android-wear-os-dispositivos-anunciadas-mwc-2023-2970536.jpg?tf=1200x' alt='Estas son todas las novedades Android y Wear OS para dispositivos anunciadas en el MWC 2023' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/nuevos-vivo-v27-v27-pro-competir-gama-smartphone-concurrida-1208034'>Nuevos vivo v27 y v27 Pro para competir en la gama de smartphone más concurrida</a></h4>
-    <a href='https://computerhoy.com/moviles/nuevos-vivo-v27-v27-pro-competir-gama-smartphone-concurrida-1208034' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/vivo-v27-v27-pro-2970386.jpg?tf=1200x' alt='Nuevos vivo v27 y v27 Pro para competir en la gama de smartphone más concurrida' />
     </a>
 </div>
 
