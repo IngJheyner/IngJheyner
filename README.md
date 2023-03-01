@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/espacio/como-ver-conjuncion-venus-jupiter-1207972'>Cómo ver el 'beso' de Venus y Júpiter, que solo ocurrirá una vez este año</a></h4>
+    <a href='https://computerhoy.com/espacio/como-ver-conjuncion-venus-jupiter-1207972' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/como-ver-beso-venus-jupiter-solo-ocurrira-vez-ano-2970266.jpg?tf=1200x' alt='Cómo ver el 'beso' de Venus y Júpiter, que solo ocurrirá una vez este año' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/pc/portatil-asus-vivobook-15-oferta-1207760'>Un portátil con Intel Core i7, 8 GB de RAM y SSD de 512 GB por menos de 550 euros, es algo que no se ve todos los días </a></h4>
+    <a href='https://computerhoy.com/pc/portatil-asus-vivobook-15-oferta-1207760' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/asus-vivobook-15-oled-2775129.jpg?tf=1200x' alt='Un portátil con Intel Core i7, 8 GB de RAM y SSD de 512 GB por menos de 550 euros, es algo que no se ve todos los días ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/espacio/elon-musk-comparte-unas-impresionantes-imagenes-satelites-starlink-tierra-fondo-1207674'>Elon Musk comparte unas impresionantes imágenes de los satélites Starlink con la Tierra de fondo</a></h4>
+    <a href='https://computerhoy.com/espacio/elon-musk-comparte-unas-impresionantes-imagenes-satelites-starlink-tierra-fondo-1207674' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/starlink-2628997.jpg?tf=1200x' alt='Elon Musk comparte unas impresionantes imágenes de los satélites Starlink con la Tierra de fondo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/windows/windows-11-integra-bing-chatgpt-barra-tareas-1207758'>Una actualización sorpresa de Windows 11 integra ChatGPT en la barra de tareas</a></h4>
     <a href='https://computerhoy.com/windows/windows-11-integra-bing-chatgpt-barra-tareas-1207758' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/actualizacion-sorpresa-windows-11-integra-chatgpt-barra-tareas-2970050.jpg?tf=1200x' alt='Una actualización sorpresa de Windows 11 integra ChatGPT en la barra de tareas' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/apps/atajo-google-maps-android-auto-provoca-caos-pequeno-pueblo-catalan-1207752'>Un “atajo” de Google Maps en Android Auto provoca el caos en un pequeño pueblo catalán</a></h4>
     <a href='https://computerhoy.com/apps/atajo-google-maps-android-auto-provoca-caos-pequeno-pueblo-catalan-1207752' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/google-maps-2970048.jpg?tf=1200x' alt='Un “atajo” de Google Maps en Android Auto provoca el caos en un pequeño pueblo catalán' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/sistema-nacional-alertas-alert-ya-funciona-puedes-comprobar-tienes-activado-1207750'>El sistema nacional de alertas ES-Alert ya funciona y así puedes comprobar si lo tienes activado</a></h4>
-    <a href='https://computerhoy.com/moviles/sistema-nacional-alertas-alert-ya-funciona-puedes-comprobar-tienes-activado-1207750' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/alerta-telefono-movil-2970046.jpg?tf=1200x' alt='El sistema nacional de alertas ES-Alert ya funciona y así puedes comprobar si lo tienes activado' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/streaming/que-ver-skyshowtime-1207748'>Qué merece la pena ver en la nueva plataforma SkyShowtime, que se acaba de estrenar</a></h4>
-    <a href='https://computerhoy.com/streaming/que-ver-skyshowtime-1207748' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/verticalimage1677613981284-2970024.jpg?tf=1200x' alt='Qué merece la pena ver en la nueva plataforma SkyShowtime, que se acaba de estrenar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/truco-secreto-amazon-muestre-solo-productos-grandes-descuentos-1207666'>El truco secreto para que Amazon muestre solo productos con grandes descuentos</a></h4>
-    <a href='https://computerhoy.com/tutoriales/truco-secreto-amazon-muestre-solo-productos-grandes-descuentos-1207666' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/trabajador-almacen-amazon-2939386.jpg?tf=1200x' alt='El truco secreto para que Amazon muestre solo productos con grandes descuentos' />
     </a>
 </div>
 
