@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/tematizacion-dia-herramienta-productividad-tan-poderosa-1206940'>Qué es la tematización del día y por qué esta herramienta de productividad es tan poderosa</a></h4>
+    <a href='https://computerhoy.com/life/tematizacion-dia-herramienta-productividad-tan-poderosa-1206940' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/tematizacion-dia-herramienta-productividad-tan-poderosa-2968170.jpg?tf=1200x' alt='Qué es la tematización del día y por qué esta herramienta de productividad es tan poderosa' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/life/mejores-ventilador-aspas-1064109'>Ventilador sin aspas: cómo funciona y cuál comprar</a></h4>
+    <a href='https://computerhoy.com/reportajes/life/mejores-ventilador-aspas-1064109' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/dyson-purifier-cool-2969388.jpg?tf=1200x' alt='Ventilador sin aspas: cómo funciona y cuál comprar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/industria/mwc-2023-cuanto-cuesta-estar-feria-movilidad-grande-mundo-1207740'>MWC 2023: ¿cuánto cuesta estar en la feria de movilidad más grande del mundo?</a></h4>
+    <a href='https://computerhoy.com/industria/mwc-2023-cuanto-cuesta-estar-feria-movilidad-grande-mundo-1207740' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/mwc-2023-2970270.jpg?tf=1200x' alt='MWC 2023: ¿cuánto cuesta estar en la feria de movilidad más grande del mundo?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/31-noticias-tecnologia-comenzar-manana-informado-ultimo-1207982'>31 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
+    <a href='https://computerhoy.com/tecnologia/31-noticias-tecnologia-comenzar-manana-informado-ultimo-1207982' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/30-noticias-tecnologia-comenzar-manana-informado-ultimo-2970288.jpg?tf=1200x' alt='31 noticias de tecnología para comenzar la mañana informado de lo último' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/guia-compra/cepillo-electrico'>¿Cuál es el mejor cepillo de dientes eléctrico? Guía de compra con los mejores modelos de 2023</a></h4>
     <a href='https://computerhoy.com/guia-compra/cepillo-electrico' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/cepillo-dientes-electrico-2968020.jpg?tf=1200x' alt='¿Cuál es el mejor cepillo de dientes eléctrico? Guía de compra con los mejores modelos de 2023' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/empleados-apple-10-anos-empresa-reciben-curioso-regalo-1207974'>Los empleados de Apple que llevan 10 años en la empresa reciben este curioso regalo</a></h4>
-    <a href='https://computerhoy.com/apple/empleados-apple-10-anos-empresa-reciben-curioso-regalo-1207974' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/empleados-apple-llevan-10-anos-empresa-reciben-curioso-regalo-2970254.jpg?tf=1200x' alt='Los empleados de Apple que llevan 10 años en la empresa reciben este curioso regalo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/como-ver-conjuncion-venus-jupiter-1207972'>Cómo ver el 'beso' de Venus y Júpiter, que solo ocurrirá una vez este año</a></h4>
-    <a href='https://computerhoy.com/espacio/como-ver-conjuncion-venus-jupiter-1207972' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/como-ver-beso-venus-jupiter-solo-ocurrira-vez-ano-2970266.jpg?tf=1200x' alt='Cómo ver el 'beso' de Venus y Júpiter, que solo ocurrirá una vez este año' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/portatil-asus-vivobook-15-oferta-1207760'>Un portátil con Intel Core i7, 8 GB de RAM y SSD de 512 GB por menos de 550 euros, es algo que no se ve todos los días </a></h4>
-    <a href='https://computerhoy.com/pc/portatil-asus-vivobook-15-oferta-1207760' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/asus-vivobook-15-oled-2775129.jpg?tf=1200x' alt='Un portátil con Intel Core i7, 8 GB de RAM y SSD de 512 GB por menos de 550 euros, es algo que no se ve todos los días ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/elon-musk-comparte-unas-impresionantes-imagenes-satelites-starlink-tierra-fondo-1207674'>Elon Musk comparte unas impresionantes imágenes de los satélites Starlink con la Tierra de fondo</a></h4>
-    <a href='https://computerhoy.com/espacio/elon-musk-comparte-unas-impresionantes-imagenes-satelites-starlink-tierra-fondo-1207674' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/starlink-2628997.jpg?tf=1200x' alt='Elon Musk comparte unas impresionantes imágenes de los satélites Starlink con la Tierra de fondo' />
     </a>
 </div>
 
