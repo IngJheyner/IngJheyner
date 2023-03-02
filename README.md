@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tv/samsung-truco-vender-televisores-8k-europa-1208364'>Samsung ha encontrado un truco para seguir vendiendo sus televisores 8K en Europa</a></h4>
+    <a href='https://computerhoy.com/tv/samsung-truco-vender-televisores-8k-europa-1208364' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/samsung-neo-qled-qn900b-8k-2744703.jpg?tf=1200x' alt='Samsung ha encontrado un truco para seguir vendiendo sus televisores 8K en Europa' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/moviles/movil-barato-poco-c40-oferta-1208354'>Este móvil de POCO es perfecto para WhatsApp, vídeos y redes sociales, y vale menos de 100 euros</a></h4>
     <a href='https://computerhoy.com/moviles/movil-barato-poco-c40-oferta-1208354' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/poco-c40-2949522.jpg?tf=1200x' alt='Este móvil de POCO es perfecto para WhatsApp, vídeos y redes sociales, y vale menos de 100 euros' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/streaming/the-mandalorian-temporada-3-estreno-1208338'>Ya está aquí la temporada 3 de The Mandalorian... ¿será el despertar de Grogu?</a></h4>
     <a href='https://computerhoy.com/streaming/the-mandalorian-temporada-3-estreno-1208338' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/verticalimage1677698464166-2971164.jpg?tf=1200x' alt='Ya está aquí la temporada 3 de The Mandalorian... ¿será el despertar de Grogu?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/movil-cambia-color-placer-funciona-trasera-reproduce-1600-colores-diferentes-1208242'>Este móvil cambia de color a placer: así funciona su trasera que reproduce 1.600 colores diferentes</a></h4>
-    <a href='https://computerhoy.com/moviles/movil-cambia-color-placer-funciona-trasera-reproduce-1600-colores-diferentes-1208242' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/movil-cambia-color-placer-funciona-trasera-reproduce-1600-colores-diferentes-2971162.jpg?tf=1200x' alt='Este móvil cambia de color a placer: así funciona su trasera que reproduce 1.600 colores diferentes' />
     </a>
 </div>
 
