@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/acer-aspire-3-windows-11-oferta-amazon-precio-minimo-1208046'>Este portátil rompe esquemas: Ryzen 3 y Windows 11 por lo mismo o menos que un móvil</a></h4>
-    <a href='https://computerhoy.com/tecnologia/acer-aspire-3-windows-11-oferta-amazon-precio-minimo-1208046' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/acer-aspire-3-a315-23-2774141.jpg?tf=1200x' alt='Este portátil rompe esquemas: Ryzen 3 y Windows 11 por lo mismo o menos que un móvil' />
+    <h4><a href='https://computerhoy.com/tutoriales/4-metodos-saber-direccion-ip-impresora-1182264'>4 métodos para saber la dirección IP de tu impresora</a></h4>
+    <a href='https://computerhoy.com/tutoriales/4-metodos-saber-direccion-ip-impresora-1182264' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/impresoras-2924622.jpg?tf=1200x' alt='4 métodos para saber la dirección IP de tu impresora' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/patrocinado/aliexpress-presenta-choice-nuevo-canal-lleno-ventajas-usuarios-1208258'>AliExpress presenta Choice, su nuevo canal lleno de ventajas para los usuarios</a></h4>
-    <a href='https://computerhoy.com/patrocinado/aliexpress-presenta-choice-nuevo-canal-lleno-ventajas-usuarios-1208258' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/aliexpress-choice-2970734.jpg?tf=1200x' alt='AliExpress presenta Choice, su nuevo canal lleno de ventajas para los usuarios' />
+    <h4><a href='https://computerhoy.com/tecnologia/xiaomi-13-lite-ya-venta-descuento-30-euros-1208068'>El nuevo Lite de Xiaomi se carga en 40 minutos y se estrena con 30 euros de descuento</a></h4>
+    <a href='https://computerhoy.com/tecnologia/xiaomi-13-lite-ya-venta-descuento-30-euros-1208068' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/xiaomi-13-lite-2970394.jpg?tf=1200x' alt='El nuevo Lite de Xiaomi se carga en 40 minutos y se estrena con 30 euros de descuento' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/asistente-google-no-funcionaba-dispositivos-smart-home-no-has-sido-unico-1208632'>Si el Asistente de Google no funcionaba con tus dispositivos Smart Home, no has sido el único </a></h4>
-    <a href='https://computerhoy.com/google/asistente-google-no-funcionaba-dispositivos-smart-home-no-has-sido-unico-1208632' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/no-has-podido-usar-asistente-google-no-te-preocupes-no-eres-unico-problema-2971504.jpg?tf=1200x' alt='Si el Asistente de Google no funcionaba con tus dispositivos Smart Home, no has sido el único ' />
+    <h4><a href='https://computerhoy.com/tecnologia/carrefour-triunfa-twitter-sorteo-juguete-top-infancia-tamagotchis-1208726'>Carrefour triunfa en Twitter con el sorteo del juguete top de nuestra infancia, los Tamagotchis</a></h4>
+    <a href='https://computerhoy.com/tecnologia/carrefour-triunfa-twitter-sorteo-juguete-top-infancia-tamagotchis-1208726' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/tamagotchi-2971688.jpg?tf=1200x' alt='Carrefour triunfa en Twitter con el sorteo del juguete top de nuestra infancia, los Tamagotchis' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/ya-quiosco-numero-637-computer-hoy-1204610'>¡Ya está en tu quiosco el número 637 de Computer Hoy!</a></h4>
-    <a href='https://computerhoy.com/tecnologia/ya-quiosco-numero-637-computer-hoy-1204610' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/computer-hoy-637-2966452.jpg?tf=1200x' alt='¡Ya está en tu quiosco el número 637 de Computer Hoy!' />
+    <h4><a href='https://computerhoy.com/criptos/hacienda-podra-embargar-criptomonedas-estos-casos-1208706'>Hacienda podrá embargar tus criptomonedas en estos casos</a></h4>
+    <a href='https://computerhoy.com/criptos/hacienda-podra-embargar-criptomonedas-estos-casos-1208706' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/ethereum-filecoin-cardano-dogecoin-bitcoin-sirven-criptomonedas-alla-valor-2351075.jpg?tf=1200x' alt='Hacienda podrá embargar tus criptomonedas en estos casos' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/energia/como-nos-enganan-electricas-facturas-1208264'>Cómo nos engañan las eléctricas en las facturas</a></h4>
-    <a href='https://computerhoy.com/energia/como-nos-enganan-electricas-facturas-1208264' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/mujer-apaga-luz-ver-factura-2965900.jpg?tf=1200x' alt='Cómo nos engañan las eléctricas en las facturas' />
+    <h4><a href='https://computerhoy.com/legislacion/cuando-obligatorio-declarar-operaciones-bizum-hacienda-renta-2022-23-1208684'>Cuándo es obligatorio declarar tus operaciones con Bizum a Hacienda en la Renta 2022/23</a></h4>
+    <a href='https://computerhoy.com/legislacion/cuando-obligatorio-declarar-operaciones-bizum-hacienda-renta-2022-23-1208684' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/operaciones-bizum-podrian-ocasionarte-problemas-hacienda-renta-2022-23-2971624.jpg?tf=1200x' alt='Cuándo es obligatorio declarar tus operaciones con Bizum a Hacienda en la Renta 2022/23' />
     </a>
 </div>
 
