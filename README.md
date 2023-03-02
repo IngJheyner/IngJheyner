@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/cuando-usar-programa-compatibilidad-antiguas-aplicaciones-windows-11-1199480'>Qué es y cuándo usar el programa de compatibilidad para antiguas aplicaciones en Windows 11</a></h4>
-    <a href='https://computerhoy.com/tutoriales/cuando-usar-programa-compatibilidad-antiguas-aplicaciones-windows-11-1199480' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/windows-11-2954544.jpg?tf=1200x' alt='Qué es y cuándo usar el programa de compatibilidad para antiguas aplicaciones en Windows 11' />
+    <h4><a href='https://computerhoy.com/moviles/motorola-no-rinde-tiene-manos-nuevo-plegable-razr-1208830'>Motorola no se rinde y tiene entre manos un nuevo plegable Razr</a></h4>
+    <a href='https://computerhoy.com/moviles/motorola-no-rinde-tiene-manos-nuevo-plegable-razr-1208830' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/motorola-no-rinde-tiene-manos-nuevo-plegable-razr-2972174.jpg?tf=1200x' alt='Motorola no se rinde y tiene entre manos un nuevo plegable Razr' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/mayor-fabrica-mundo-coches-electricos-acaba-aprobarse-1208780'>La mayor fabrica del mundo de coches eléctricos acaba de aprobarse</a></h4>
-    <a href='https://computerhoy.com/motor/mayor-fabrica-mundo-coches-electricos-acaba-aprobarse-1208780' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/tesla-gigafactory-2971834.jpg?tf=1200x' alt='La mayor fabrica del mundo de coches eléctricos acaba de aprobarse' />
+    <h4><a href='https://computerhoy.com/reportajes/life/mejores-bicicletas-electricas-plegables-puedes-comprar-1034119'>Mejores bicicletas eléctricas plegables que puedes comprar</a></h4>
+    <a href='https://computerhoy.com/reportajes/life/mejores-bicicletas-electricas-plegables-puedes-comprar-1034119' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/dos-personas-bicicletas-electricas-plegables-2971044.jpg?tf=1200x' alt='Mejores bicicletas eléctricas plegables que puedes comprar' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/3-maneras-rapidas-buscar-definiciones-palabras-windows-11-1199162'>3 maneras rápidas de buscar definiciones de palabras en Windows 11</a></h4>
-    <a href='https://computerhoy.com/tutoriales/3-maneras-rapidas-buscar-definiciones-palabras-windows-11-1199162' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/diccionario-2954018.jpg?tf=1200x' alt='3 maneras rápidas de buscar definiciones de palabras en Windows 11' />
+    <h4><a href='https://computerhoy.com/redes-sociales/guerra-tiktok-continua-estados-unidos-quiere-prohibir-uso-1208828'>La guerra contra TikTok continua: Estados Unidos quiere prohibir su uso</a></h4>
+    <a href='https://computerhoy.com/redes-sociales/guerra-tiktok-continua-estados-unidos-quiere-prohibir-uso-1208828' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/estados-unidos-posiciona-tiktok-sera-ilegal-dispositivos-gubernamentales-2915458.jpg?tf=1200x' alt='La guerra contra TikTok continua: Estados Unidos quiere prohibir su uso' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/nasa-afirma-impacto-cohetes-asteroides-mejor-defensa-planetaria-1208776'>La NASA afirma que el impacto de cohetes contra asteroides es nuestra mejor defensa planetaria</a></h4>
-    <a href='https://computerhoy.com/espacio/nasa-afirma-impacto-cohetes-asteroides-mejor-defensa-planetaria-1208776' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/nasa-afirma-impacto-cohetes-asteroides-mejor-defensa-planetaria-2971830.jpg?tf=1200x' alt='La NASA afirma que el impacto de cohetes contra asteroides es nuestra mejor defensa planetaria' />
+    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/youtube-no-escucha-como-solucionar-problemas-sonido-youtube-447519'>¿YouTube no se escucha? Cómo solucionar problemas de sonido en YouTube</a></h4>
+    <a href='https://computerhoy.com/tutoriales/tecnologia/youtube-no-escucha-como-solucionar-problemas-sonido-youtube-447519' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/06/youtube-no-escucha-como-solucionar-problemas-sonido-youtube.jpg?tf=1200x' alt='¿YouTube no se escucha? Cómo solucionar problemas de sonido en YouTube' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/gaming/mejor-cliente-amd-mayor-rival-microsoft-1208766'>El mejor cliente de AMD es el mayor rival de Microsoft</a></h4>
-    <a href='https://computerhoy.com/gaming/mejor-cliente-amd-mayor-rival-microsoft-1208766' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/amd-lisa-2971780.jpg?tf=1200x' alt='El mejor cliente de AMD es el mayor rival de Microsoft' />
+    <h4><a href='https://computerhoy.com/tecnologia/oppo-tiene-listas-propias-airtag-no-tendras-preocuparte-bateria-1208824'>OPPO tiene listas sus propias AirTag y no tendrás que preocuparte por la batería</a></h4>
+    <a href='https://computerhoy.com/tecnologia/oppo-tiene-listas-propias-airtag-no-tendras-preocuparte-bateria-1208824' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/oppo-tiene-listas-propias-airtag-no-tendras-preocuparte-bateria-2972044.jpg?tf=1200x' alt='OPPO tiene listas sus propias AirTag y no tendrás que preocuparte por la batería' />
     </a>
 </div>
 
