@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/4-metodos-saber-direccion-ip-impresora-1182264'>4 métodos para saber la dirección IP de tu impresora</a></h4>
-    <a href='https://computerhoy.com/tutoriales/4-metodos-saber-direccion-ip-impresora-1182264' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/impresoras-2924622.jpg?tf=1200x' alt='4 métodos para saber la dirección IP de tu impresora' />
+    <h4><a href='https://computerhoy.com/tutoriales/cuando-usar-programa-compatibilidad-antiguas-aplicaciones-windows-11-1199480'>Qué es y cuándo usar el programa de compatibilidad para antiguas aplicaciones en Windows 11</a></h4>
+    <a href='https://computerhoy.com/tutoriales/cuando-usar-programa-compatibilidad-antiguas-aplicaciones-windows-11-1199480' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/windows-11-2954544.jpg?tf=1200x' alt='Qué es y cuándo usar el programa de compatibilidad para antiguas aplicaciones en Windows 11' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/xiaomi-13-lite-ya-venta-descuento-30-euros-1208068'>El nuevo Lite de Xiaomi se carga en 40 minutos y se estrena con 30 euros de descuento</a></h4>
-    <a href='https://computerhoy.com/tecnologia/xiaomi-13-lite-ya-venta-descuento-30-euros-1208068' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/xiaomi-13-lite-2970394.jpg?tf=1200x' alt='El nuevo Lite de Xiaomi se carga en 40 minutos y se estrena con 30 euros de descuento' />
+    <h4><a href='https://computerhoy.com/motor/mayor-fabrica-mundo-coches-electricos-acaba-aprobarse-1208780'>La mayor fabrica del mundo de coches eléctricos acaba de aprobarse</a></h4>
+    <a href='https://computerhoy.com/motor/mayor-fabrica-mundo-coches-electricos-acaba-aprobarse-1208780' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/tesla-gigafactory-2971834.jpg?tf=1200x' alt='La mayor fabrica del mundo de coches eléctricos acaba de aprobarse' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/carrefour-triunfa-twitter-sorteo-juguete-top-infancia-tamagotchis-1208726'>Carrefour triunfa en Twitter con el sorteo del juguete top de nuestra infancia, los Tamagotchis</a></h4>
-    <a href='https://computerhoy.com/tecnologia/carrefour-triunfa-twitter-sorteo-juguete-top-infancia-tamagotchis-1208726' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/tamagotchi-2971688.jpg?tf=1200x' alt='Carrefour triunfa en Twitter con el sorteo del juguete top de nuestra infancia, los Tamagotchis' />
+    <h4><a href='https://computerhoy.com/tutoriales/3-maneras-rapidas-buscar-definiciones-palabras-windows-11-1199162'>3 maneras rápidas de buscar definiciones de palabras en Windows 11</a></h4>
+    <a href='https://computerhoy.com/tutoriales/3-maneras-rapidas-buscar-definiciones-palabras-windows-11-1199162' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/diccionario-2954018.jpg?tf=1200x' alt='3 maneras rápidas de buscar definiciones de palabras en Windows 11' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/criptos/hacienda-podra-embargar-criptomonedas-estos-casos-1208706'>Hacienda podrá embargar tus criptomonedas en estos casos</a></h4>
-    <a href='https://computerhoy.com/criptos/hacienda-podra-embargar-criptomonedas-estos-casos-1208706' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/ethereum-filecoin-cardano-dogecoin-bitcoin-sirven-criptomonedas-alla-valor-2351075.jpg?tf=1200x' alt='Hacienda podrá embargar tus criptomonedas en estos casos' />
+    <h4><a href='https://computerhoy.com/espacio/nasa-afirma-impacto-cohetes-asteroides-mejor-defensa-planetaria-1208776'>La NASA afirma que el impacto de cohetes contra asteroides es nuestra mejor defensa planetaria</a></h4>
+    <a href='https://computerhoy.com/espacio/nasa-afirma-impacto-cohetes-asteroides-mejor-defensa-planetaria-1208776' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/nasa-afirma-impacto-cohetes-asteroides-mejor-defensa-planetaria-2971830.jpg?tf=1200x' alt='La NASA afirma que el impacto de cohetes contra asteroides es nuestra mejor defensa planetaria' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/legislacion/cuando-obligatorio-declarar-operaciones-bizum-hacienda-renta-2022-23-1208684'>Cuándo es obligatorio declarar tus operaciones con Bizum a Hacienda en la Renta 2022/23</a></h4>
-    <a href='https://computerhoy.com/legislacion/cuando-obligatorio-declarar-operaciones-bizum-hacienda-renta-2022-23-1208684' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/operaciones-bizum-podrian-ocasionarte-problemas-hacienda-renta-2022-23-2971624.jpg?tf=1200x' alt='Cuándo es obligatorio declarar tus operaciones con Bizum a Hacienda en la Renta 2022/23' />
+    <h4><a href='https://computerhoy.com/gaming/mejor-cliente-amd-mayor-rival-microsoft-1208766'>El mejor cliente de AMD es el mayor rival de Microsoft</a></h4>
+    <a href='https://computerhoy.com/gaming/mejor-cliente-amd-mayor-rival-microsoft-1208766' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/amd-lisa-2971780.jpg?tf=1200x' alt='El mejor cliente de AMD es el mayor rival de Microsoft' />
     </a>
 </div>
 
