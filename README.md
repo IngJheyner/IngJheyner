@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/robot-camarero-empleo-personas-con-discapacidad-1208604'>Esta cafetería contrata a personas con parálisis para controlar a los robots camarero con los ojos, y les paga el sueldo completo</a></h4>
+    <a href='https://computerhoy.com/ciencia/robot-camarero-empleo-personas-con-discapacidad-1208604' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/verticalimage1677721070608-2971450.jpg?tf=1200x' alt='Esta cafetería contrata a personas con parálisis para controlar a los robots camarero con los ojos, y les paga el sueldo completo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/pc/portatil-mas-grande-mundo-video-1208370'>El portátil más grande de mundo tiene una tele de 43 pulgadas (vídeo)</a></h4>
+    <a href='https://computerhoy.com/pc/portatil-mas-grande-mundo-video-1208370' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/portatil-grande-mundo-tiene-tele-43-pulgadas-video-2971218.jpg?tf=1200x' alt='El portátil más grande de mundo tiene una tele de 43 pulgadas (vídeo)' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tv/samsung-truco-vender-televisores-8k-europa-1208364'>Samsung ha encontrado un truco para seguir vendiendo sus televisores 8K en Europa</a></h4>
     <a href='https://computerhoy.com/tv/samsung-truco-vender-televisores-8k-europa-1208364' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/samsung-neo-qled-qn900b-8k-2744703.jpg?tf=1200x' alt='Samsung ha encontrado un truco para seguir vendiendo sus televisores 8K en Europa' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/life/regla-11-minutos-vida-sana-duradera-avalada-ciencia-1208340'>La regla de los 11 minutos para una vida sana y duradera avalada por la ciencia</a></h4>
     <a href='https://computerhoy.com/life/regla-11-minutos-vida-sana-duradera-avalada-ciencia-1208340' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/hombre-preparandose-hacer-deporte-2399173.jpg?tf=1200x' alt='La regla de los 11 minutos para una vida sana y duradera avalada por la ciencia' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/3-senales-te-podrian-estar-robando-conexion-wifi-1208336'>3 señales de que te podrían estar robando tu conexión WiFi</a></h4>
-    <a href='https://computerhoy.com/internet/3-senales-te-podrian-estar-robando-conexion-wifi-1208336' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/router-wifi-2946290.jpg?tf=1200x' alt='3 señales de que te podrían estar robando tu conexión WiFi' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/streaming/the-mandalorian-temporada-3-estreno-1208338'>Ya está aquí la temporada 3 de The Mandalorian... ¿será el despertar de Grogu?</a></h4>
-    <a href='https://computerhoy.com/streaming/the-mandalorian-temporada-3-estreno-1208338' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/verticalimage1677698464166-2971164.jpg?tf=1200x' alt='Ya está aquí la temporada 3 de The Mandalorian... ¿será el despertar de Grogu?' />
     </a>
 </div>
 
