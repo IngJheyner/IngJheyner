@@ -50,9 +50,25 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/robot-camarero-empleo-personas-con-discapacidad-1208604'>Esta cafetería contrata a personas con parálisis para controlar a los robots camarero con los ojos, y les paga el sueldo completo</a></h4>
+    <h4><a href='https://computerhoy.com/tecnologia/27-noticias-tecnologia-comenzar-manana-informado-ultimo-1208608'>27 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
+    <a href='https://computerhoy.com/tecnologia/27-noticias-tecnologia-comenzar-manana-informado-ultimo-1208608' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/27-noticias-tecnologia-comenzar-manana-informado-ultimo-2971456.jpg?tf=1200x' alt='27 noticias de tecnología para comenzar la mañana informado de lo último' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/listas/tecnologia/mejores-routers-2019-rango-precio-361681'>Los mejores routers de 2023 por rango de precio</a></h4>
+    <a href='https://computerhoy.com/listas/tecnologia/mejores-routers-2019-rango-precio-361681' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/router-wifi-2798907.jpg?tf=1200x' alt='Los mejores routers de 2023 por rango de precio' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/robot-camarero-empleo-personas-con-discapacidad-1208604'>Esta cafetería contrata a personas con parálisis para controlar a los robots camarero con los ojos, y las paga el sueldo completo</a></h4>
     <a href='https://computerhoy.com/ciencia/robot-camarero-empleo-personas-con-discapacidad-1208604' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/verticalimage1677721070608-2971450.jpg?tf=1200x' alt='Esta cafetería contrata a personas con parálisis para controlar a los robots camarero con los ojos, y les paga el sueldo completo' />
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/verticalimage1677721070608-2971450.jpg?tf=1200x' alt='Esta cafetería contrata a personas con parálisis para controlar a los robots camarero con los ojos, y las paga el sueldo completo' />
     </a>
 </div>
 
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tv/samsung-truco-vender-televisores-8k-europa-1208364'>Samsung ha encontrado un truco para seguir vendiendo sus televisores 8K en Europa</a></h4>
     <a href='https://computerhoy.com/tv/samsung-truco-vender-televisores-8k-europa-1208364' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/samsung-neo-qled-qn900b-8k-2744703.jpg?tf=1200x' alt='Samsung ha encontrado un truco para seguir vendiendo sus televisores 8K en Europa' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/movil-barato-poco-c40-oferta-1208354'>Este móvil de POCO es perfecto para WhatsApp, vídeos y redes sociales, y vale menos de 100 euros</a></h4>
-    <a href='https://computerhoy.com/moviles/movil-barato-poco-c40-oferta-1208354' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/poco-c40-2949522.jpg?tf=1200x' alt='Este móvil de POCO es perfecto para WhatsApp, vídeos y redes sociales, y vale menos de 100 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/regla-11-minutos-vida-sana-duradera-avalada-ciencia-1208340'>La regla de los 11 minutos para una vida sana y duradera avalada por la ciencia</a></h4>
-    <a href='https://computerhoy.com/life/regla-11-minutos-vida-sana-duradera-avalada-ciencia-1208340' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/hombre-preparandose-hacer-deporte-2399173.jpg?tf=1200x' alt='La regla de los 11 minutos para una vida sana y duradera avalada por la ciencia' />
     </a>
 </div>
 
