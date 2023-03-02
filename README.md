@@ -50,9 +50,33 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/27-noticias-tecnologia-comenzar-manana-informado-ultimo-1208608'>27 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
+    <h4><a href='https://computerhoy.com/energia/como-nos-enganan-electricas-facturas-1208264'>Cómo nos engañan las eléctricas en las facturas</a></h4>
+    <a href='https://computerhoy.com/energia/como-nos-enganan-electricas-facturas-1208264' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/mujer-apaga-luz-ver-factura-2965900.jpg?tf=1200x' alt='Cómo nos engañan las eléctricas en las facturas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/google/como-google-te-rastrea-incluso-cuando-no-estas-usando-deberias-preocuparte-1208156'>Así es como Google te rastrea incluso cuando no lo estás usando: ¿deberías preocuparte?</a></h4>
+    <a href='https://computerhoy.com/google/como-google-te-rastrea-incluso-cuando-no-estas-usando-deberias-preocuparte-1208156' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/como-google-te-rastrea-incluso-cuando-no-estas-usando-deberias-preocuparte-2970876.jpg?tf=1200x' alt='Así es como Google te rastrea incluso cuando no lo estás usando: ¿deberías preocuparte?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/moviles/hemos-visto-mwc-cual-ha-sido-evolucion-1208356'>Qué hemos visto en el MWC y cuál ha sido su evolución</a></h4>
+    <a href='https://computerhoy.com/moviles/hemos-visto-mwc-cual-ha-sido-evolucion-1208356' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/pasillos-mwc-2022-2631473.jpg?tf=1200x' alt='Qué hemos visto en el MWC y cuál ha sido su evolución' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/27-noticias-tecnologia-comenzar-manana-informado-ultimo-1208608'>28 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
     <a href='https://computerhoy.com/tecnologia/27-noticias-tecnologia-comenzar-manana-informado-ultimo-1208608' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/27-noticias-tecnologia-comenzar-manana-informado-ultimo-2971456.jpg?tf=1200x' alt='27 noticias de tecnología para comenzar la mañana informado de lo último' />
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/27-noticias-tecnologia-comenzar-manana-informado-ultimo-2971456.jpg?tf=1200x' alt='28 noticias de tecnología para comenzar la mañana informado de lo último' />
     </a>
 </div>
 
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/listas/tecnologia/mejores-routers-2019-rango-precio-361681'>Los mejores routers de 2023 por rango de precio</a></h4>
     <a href='https://computerhoy.com/listas/tecnologia/mejores-routers-2019-rango-precio-361681' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/router-wifi-2798907.jpg?tf=1200x' alt='Los mejores routers de 2023 por rango de precio' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/robot-camarero-empleo-personas-con-discapacidad-1208604'>Esta cafetería contrata a personas con parálisis para controlar a los robots camarero con los ojos, y las paga el sueldo completo</a></h4>
-    <a href='https://computerhoy.com/ciencia/robot-camarero-empleo-personas-con-discapacidad-1208604' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/verticalimage1677721070608-2971450.jpg?tf=1200x' alt='Esta cafetería contrata a personas con parálisis para controlar a los robots camarero con los ojos, y las paga el sueldo completo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/portatil-mas-grande-mundo-video-1208370'>El portátil más grande de mundo tiene una tele de 43 pulgadas (vídeo)</a></h4>
-    <a href='https://computerhoy.com/pc/portatil-mas-grande-mundo-video-1208370' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/portatil-grande-mundo-tiene-tele-43-pulgadas-video-2971218.jpg?tf=1200x' alt='El portátil más grande de mundo tiene una tele de 43 pulgadas (vídeo)' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tv/samsung-truco-vender-televisores-8k-europa-1208364'>Samsung ha encontrado un truco para seguir vendiendo sus televisores 8K en Europa</a></h4>
-    <a href='https://computerhoy.com/tv/samsung-truco-vender-televisores-8k-europa-1208364' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/samsung-neo-qled-qn900b-8k-2744703.jpg?tf=1200x' alt='Samsung ha encontrado un truco para seguir vendiendo sus televisores 8K en Europa' />
     </a>
 </div>
 
