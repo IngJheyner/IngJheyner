@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/motorola-no-rinde-tiene-manos-nuevo-plegable-razr-1208830'>Motorola no se rinde y tiene entre manos un nuevo plegable Razr</a></h4>
-    <a href='https://computerhoy.com/moviles/motorola-no-rinde-tiene-manos-nuevo-plegable-razr-1208830' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/motorola-no-rinde-tiene-manos-nuevo-plegable-razr-2972174.jpg?tf=1200x' alt='Motorola no se rinde y tiene entre manos un nuevo plegable Razr' />
+    <h4><a href='https://computerhoy.com/streaming/peligros-te-expones-decides-utilizar-lista-iptv-pirata-ver-tv-gratis-1208938'>Los peligros a los que te expones si decides utilizar una lista IPTV pirata para ver la TV gratis</a></h4>
+    <a href='https://computerhoy.com/streaming/peligros-te-expones-decides-utilizar-lista-iptv-pirata-ver-tv-gratis-1208938' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/iptv-2875845.jpg?tf=1200x' alt='Los peligros a los que te expones si decides utilizar una lista IPTV pirata para ver la TV gratis' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/life/mejores-bicicletas-electricas-plegables-puedes-comprar-1034119'>Mejores bicicletas eléctricas plegables que puedes comprar</a></h4>
-    <a href='https://computerhoy.com/reportajes/life/mejores-bicicletas-electricas-plegables-puedes-comprar-1034119' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/dos-personas-bicicletas-electricas-plegables-2971044.jpg?tf=1200x' alt='Mejores bicicletas eléctricas plegables que puedes comprar' />
+    <h4><a href='https://computerhoy.com/moviles/martin-cooper-inventor-telefono-movil-tiene-muy-claro-como-sera-smartphone-futuro-1208936'>Martin Cooper, el inventor del teléfono móvil, tiene muy claro cómo será el smartphone del futuro</a></h4>
+    <a href='https://computerhoy.com/moviles/martin-cooper-inventor-telefono-movil-tiene-muy-claro-como-sera-smartphone-futuro-1208936' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/martin-cooper-2972364.jpg?tf=1200x' alt='Martin Cooper, el inventor del teléfono móvil, tiene muy claro cómo será el smartphone del futuro' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/redes-sociales/guerra-tiktok-continua-estados-unidos-quiere-prohibir-uso-1208828'>La guerra contra TikTok continua: Estados Unidos quiere prohibir su uso</a></h4>
-    <a href='https://computerhoy.com/redes-sociales/guerra-tiktok-continua-estados-unidos-quiere-prohibir-uso-1208828' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/estados-unidos-posiciona-tiktok-sera-ilegal-dispositivos-gubernamentales-2915458.jpg?tf=1200x' alt='La guerra contra TikTok continua: Estados Unidos quiere prohibir su uso' />
+    <h4><a href='https://computerhoy.com/entretenimiento/will-smith-premio-beacon-despues-bofeton-chris-rock-1208934'>Un año después del bofetón, Will Smith vuelve a recibir un premio, y no se corta: 6 minutos de discurso</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/will-smith-premio-beacon-despues-bofeton-chris-rock-1208934' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/ano-despues-bofeton-will-smith-vuelve-recibir-premio-no-corta-6-minutos-discurso-2972358.jpg?tf=1200x' alt='Un año después del bofetón, Will Smith vuelve a recibir un premio, y no se corta: 6 minutos de discurso' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/youtube-no-escucha-como-solucionar-problemas-sonido-youtube-447519'>¿YouTube no se escucha? Cómo solucionar problemas de sonido en YouTube</a></h4>
-    <a href='https://computerhoy.com/tutoriales/tecnologia/youtube-no-escucha-como-solucionar-problemas-sonido-youtube-447519' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/06/youtube-no-escucha-como-solucionar-problemas-sonido-youtube.jpg?tf=1200x' alt='¿YouTube no se escucha? Cómo solucionar problemas de sonido en YouTube' />
+    <h4><a href='https://computerhoy.com/life/hora-perfecta-cenar-objetivo-perder-peso-ciencia-1208888'>Esta es la hora perfecta para cenar si tu objetivo es perder peso, según la ciencia</a></h4>
+    <a href='https://computerhoy.com/life/hora-perfecta-cenar-objetivo-perder-peso-ciencia-1208888' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/preparar-cena-navidad-2903806.jpg?tf=1200x' alt='Esta es la hora perfecta para cenar si tu objetivo es perder peso, según la ciencia' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/oppo-tiene-listas-propias-airtag-no-tendras-preocuparte-bateria-1208824'>OPPO tiene listas sus propias AirTag y no tendrás que preocuparte por la batería</a></h4>
-    <a href='https://computerhoy.com/tecnologia/oppo-tiene-listas-propias-airtag-no-tendras-preocuparte-bateria-1208824' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/oppo-tiene-listas-propias-airtag-no-tendras-preocuparte-bateria-2972044.jpg?tf=1200x' alt='OPPO tiene listas sus propias AirTag y no tendrás que preocuparte por la batería' />
+    <h4><a href='https://computerhoy.com/hogar/ordenan-retirada-2-millones-freidoras-aire-cosori-riesgo-incendio-quemaduras-1208886'>Ordenan la retirada de más de 2 millones de freidoras de aire Cosori por riesgo de incendio y quemaduras</a></h4>
+    <a href='https://computerhoy.com/hogar/ordenan-retirada-2-millones-freidoras-aire-cosori-riesgo-incendio-quemaduras-1208886' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/cosori-817915025574-2505521.jpg?tf=1200x' alt='Ordenan la retirada de más de 2 millones de freidoras de aire Cosori por riesgo de incendio y quemaduras' />
     </a>
 </div>
 
