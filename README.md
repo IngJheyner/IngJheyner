@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-honor-1128811'>Estos son los mejores móviles Honor este año</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-honor-1128811' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/honor-magic5-pro-2970588.jpg?tf=1200x' alt='Estos son los mejores móviles Honor este año' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/streaming/series-ver-fin-semana-disney-skyshowtime-colegio-mafioso-mandaloriano-1209396'>Qué series ver este fin de semana en Disney+ y SkyShowtime: un colegio, un mafioso y un mandaloriano</a></h4>
+    <a href='https://computerhoy.com/streaming/series-ver-fin-semana-disney-skyshowtime-colegio-mafioso-mandaloriano-1209396' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/tulsa-king-2973188.jpg?tf=1200x' alt='Qué series ver este fin de semana en Disney+ y SkyShowtime: un colegio, un mafioso y un mandaloriano' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/streaming/peliculas-ver-fin-semana-netflix-hbo-max-movistar-plus-bullet-train-fiesta-casa-lebron-mujer-atrapada-1209240'>Qué películas ver este fin de semana en Netflix, HBO Max y Movistar Plus+: Bullet Train, una fiesta en casa de Lebron y una mujer atrapada</a></h4>
+    <a href='https://computerhoy.com/streaming/peliculas-ver-fin-semana-netflix-hbo-max-movistar-plus-bullet-train-fiesta-casa-lebron-mujer-atrapada-1209240' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/peliculas-ver-fin-semana-netflix-hbo-max-movistar-plus-bullet-train-fiesta-casa-lebron-mujer-atrapada-2972744.jpg?tf=1200x' alt='Qué películas ver este fin de semana en Netflix, HBO Max y Movistar Plus+: Bullet Train, una fiesta en casa de Lebron y una mujer atrapada' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/motor/trucos-caseros-funcionan-quitar-aranazos-coche-1209342'>Trucos caseros que funcionan para quitar arañazos del coche</a></h4>
     <a href='https://computerhoy.com/motor/trucos-caseros-funcionan-quitar-aranazos-coche-1209342' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/aranazos-coche-2973034.jpg?tf=1200x' alt='Trucos caseros que funcionan para quitar arañazos del coche' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/tutoriales/como-personalizar-windows-11-facilmente-dejarlo-gusto-1205768'>Cómo personalizar Windows 11 fácilmente y dejarlo a tu gusto</a></h4>
     <a href='https://computerhoy.com/tutoriales/como-personalizar-windows-11-facilmente-dejarlo-gusto-1205768' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/windows-11-2952572.jpg?tf=1200x' alt='Cómo personalizar Windows 11 fácilmente y dejarlo a tu gusto' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/elon-musk-no-tiene-suficiente-tierra-ya-resulta-molesto-espacio-1209298'>Elon Musk no tiene suficiente con la Tierra y ya resulta molesto hasta en el espacio</a></h4>
-    <a href='https://computerhoy.com/espacio/elon-musk-no-tiene-suficiente-tierra-ya-resulta-molesto-espacio-1209298' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/elon-musk-espacio-2973212.jpg?tf=1200x' alt='Elon Musk no tiene suficiente con la Tierra y ya resulta molesto hasta en el espacio' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/google-pixel-7-pro-descuento-amazon-1208682'>¿iPhone 14 Pro Max? Google tiene respuesta, y cuesta: rebaja el Pixel 7 Pro en casi 100 euros</a></h4>
-    <a href='https://computerhoy.com/moviles/google-pixel-7-pro-descuento-amazon-1208682' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/analisis-pixel-7-pro-2839677.jpg?tf=1200x' alt='¿iPhone 14 Pro Max? Google tiene respuesta, y cuesta: rebaja el Pixel 7 Pro en casi 100 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tv/tienes-amazon-fire-tv-estas-tardando-instalarte-app-gratis-movil-1209248'>Si tienes un Amazon Fire TV estás tardando en instalarte esta app gratis en tu móvil</a></h4>
-    <a href='https://computerhoy.com/tv/tienes-amazon-fire-tv-estas-tardando-instalarte-app-gratis-movil-1209248' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/analisis-amazon-fire-tv-cube-2022-2925922.jpg?tf=1200x' alt='Si tienes un Amazon Fire TV estás tardando en instalarte esta app gratis en tu móvil' />
     </a>
 </div>
 
