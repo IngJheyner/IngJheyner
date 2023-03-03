@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/motor/trucos-caseros-funcionan-quitar-aranazos-coche-1209342'>Trucos caseros que funcionan para quitar arañazos del coche</a></h4>
+    <a href='https://computerhoy.com/motor/trucos-caseros-funcionan-quitar-aranazos-coche-1209342' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/aranazos-coche-2973034.jpg?tf=1200x' alt='Trucos caseros que funcionan para quitar arañazos del coche' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-personalizar-windows-11-facilmente-dejarlo-gusto-1205768'>Cómo personalizar Windows 11 fácilmente y dejarlo a tu gusto</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-personalizar-windows-11-facilmente-dejarlo-gusto-1205768' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/windows-11-2952572.jpg?tf=1200x' alt='Cómo personalizar Windows 11 fácilmente y dejarlo a tu gusto' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/espacio/elon-musk-no-tiene-suficiente-tierra-ya-resulta-molesto-espacio-1209298'>Elon Musk no tiene suficiente con la Tierra y ya resulta molesto hasta en el espacio</a></h4>
+    <a href='https://computerhoy.com/espacio/elon-musk-no-tiene-suficiente-tierra-ya-resulta-molesto-espacio-1209298' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/imagen-tomada-nasa-telescopio-espacial-hubble-2314243.jpg?tf=1200x' alt='Elon Musk no tiene suficiente con la Tierra y ya resulta molesto hasta en el espacio' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/moviles/google-pixel-7-pro-descuento-amazon-1208682'>¿iPhone 14 Pro Max? Google tiene respuesta, y cuesta: rebaja el Pixel 7 Pro en casi 100 euros</a></h4>
     <a href='https://computerhoy.com/moviles/google-pixel-7-pro-descuento-amazon-1208682' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/analisis-pixel-7-pro-2839677.jpg?tf=1200x' alt='¿iPhone 14 Pro Max? Google tiene respuesta, y cuesta: rebaja el Pixel 7 Pro en casi 100 euros' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/tv/tienes-amazon-fire-tv-estas-tardando-instalarte-app-gratis-movil-1209248'>Si tienes un Amazon Fire TV estás tardando en instalarte esta app gratis en tu móvil</a></h4>
     <a href='https://computerhoy.com/tv/tienes-amazon-fire-tv-estas-tardando-instalarte-app-gratis-movil-1209248' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/analisis-amazon-fire-tv-cube-2022-2925922.jpg?tf=1200x' alt='Si tienes un Amazon Fire TV estás tardando en instalarte esta app gratis en tu móvil' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/steve-jobs-mando-vertedero-miles-ordenadores-apple-nadie-quiso-comprar-1209256'>Steve Jobs mandó al vertedero miles de ordenadores Apple que nadie quiso comprar</a></h4>
-    <a href='https://computerhoy.com/apple/steve-jobs-mando-vertedero-miles-ordenadores-apple-nadie-quiso-comprar-1209256' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/steve-jobs-mando-enterrar-miles-ordenadores-apple-vertedero-2972776.jpg?tf=1200x' alt='Steve Jobs mandó al vertedero miles de ordenadores Apple que nadie quiso comprar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/whatsapp-probando-gran-rediseno-interfaz-version-tablet-android-1209222'>WhatsApp está probando un gran rediseño de su interfaz para la versión tablet en Android</a></h4>
-    <a href='https://computerhoy.com/apps/whatsapp-probando-gran-rediseno-interfaz-version-tablet-android-1209222' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/whatsapp-tablet-2972704.jpg?tf=1200x' alt='WhatsApp está probando un gran rediseño de su interfaz para la versión tablet en Android' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/microsoft-surface-laptop-5-oferta-amazon-1208668'>Este es el rival del MacBook Air de Microsoft, con Windows 11 y ahora con un descuento de casi 500 euros</a></h4>
-    <a href='https://computerhoy.com/tecnologia/microsoft-surface-laptop-5-oferta-amazon-1208668' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/microsoft-surface-laptop-5-2961640.jpg?tf=1200x' alt='Este es el rival del MacBook Air de Microsoft, con Windows 11 y ahora con un descuento de casi 500 euros' />
     </a>
 </div>
 
