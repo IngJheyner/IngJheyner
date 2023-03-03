@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-honor-1128811'>Estos son los mejores móviles Honor este año</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-honor-1128811' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/honor-magic5-pro-2970588.jpg?tf=1200x' alt='Estos son los mejores móviles Honor este año' />
+    <h4><a href='https://computerhoy.com/amazon/libros-kindle-no-son-actualizaran-amazon-ve-conveniente-1209450'>Los libros de tu Kindle no son tuyos y se actualizarán si Amazon lo ve conveniente</a></h4>
+    <a href='https://computerhoy.com/amazon/libros-kindle-no-son-actualizaran-amazon-ve-conveniente-1209450' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/analisis-kindle-scribe-2939670.jpg?tf=1200x' alt='Los libros de tu Kindle no son tuyos y se actualizarán si Amazon lo ve conveniente' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/streaming/series-ver-fin-semana-disney-skyshowtime-colegio-mafioso-mandaloriano-1209396'>Qué series ver este fin de semana en Disney+ y SkyShowtime: un colegio, un mafioso y un mandaloriano</a></h4>
-    <a href='https://computerhoy.com/streaming/series-ver-fin-semana-disney-skyshowtime-colegio-mafioso-mandaloriano-1209396' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/tulsa-king-2973188.jpg?tf=1200x' alt='Qué series ver este fin de semana en Disney+ y SkyShowtime: un colegio, un mafioso y un mandaloriano' />
+    <h4><a href='https://computerhoy.com/windows/bill-gates-estaba-tan-enganchado-mitico-juego-tuvieron-eliminarlo-ordenador-1209480'>Bill Gates estaba tan enganchado a este mítico juego que tuvieron que eliminarlo de su ordenador</a></h4>
+    <a href='https://computerhoy.com/windows/bill-gates-estaba-tan-enganchado-mitico-juego-tuvieron-eliminarlo-ordenador-1209480' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/bill-gates-2628607.jpg?tf=1200x' alt='Bill Gates estaba tan enganchado a este mítico juego que tuvieron que eliminarlo de su ordenador' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/streaming/peliculas-ver-fin-semana-netflix-hbo-max-movistar-plus-bullet-train-fiesta-casa-lebron-mujer-atrapada-1209240'>Qué películas ver este fin de semana en Netflix, HBO Max y Movistar Plus+: Bullet Train, una fiesta en casa de Lebron y una mujer atrapada</a></h4>
-    <a href='https://computerhoy.com/streaming/peliculas-ver-fin-semana-netflix-hbo-max-movistar-plus-bullet-train-fiesta-casa-lebron-mujer-atrapada-1209240' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/peliculas-ver-fin-semana-netflix-hbo-max-movistar-plus-bullet-train-fiesta-casa-lebron-mujer-atrapada-2972744.jpg?tf=1200x' alt='Qué películas ver este fin de semana en Netflix, HBO Max y Movistar Plus+: Bullet Train, una fiesta en casa de Lebron y una mujer atrapada' />
+    <h4><a href='https://computerhoy.com/streaming/pelicula-tetris-apple-tv-plus-thriller-espionaje-politica-videojuego-mas-famoso-1209478'>La película Tetris de Apple TV+, es un thriller de espionaje y política detrás del videojuego más famoso de la historia</a></h4>
+    <a href='https://computerhoy.com/streaming/pelicula-tetris-apple-tv-plus-thriller-espionaje-politica-videojuego-mas-famoso-1209478' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/verticalimage1677871937384-2973364.jpg?tf=1200x' alt='La película Tetris de Apple TV+, es un thriller de espionaje y política detrás del videojuego más famoso de la historia' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/trucos-caseros-funcionan-quitar-aranazos-coche-1209342'>Trucos caseros que funcionan para quitar arañazos del coche</a></h4>
-    <a href='https://computerhoy.com/motor/trucos-caseros-funcionan-quitar-aranazos-coche-1209342' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/aranazos-coche-2973034.jpg?tf=1200x' alt='Trucos caseros que funcionan para quitar arañazos del coche' />
+    <h4><a href='https://computerhoy.com/life/estas-son-horas-estudio-necesitas-dominar-principales-idiomas-1209474'>Estas son las horas de estudio que necesitas para dominar los principales idiomas</a></h4>
+    <a href='https://computerhoy.com/life/estas-son-horas-estudio-necesitas-dominar-principales-idiomas-1209474' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/joven-aprendiendo-varios-idiomas-2973370.jpg?tf=1200x' alt='Estas son las horas de estudio que necesitas para dominar los principales idiomas' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-personalizar-windows-11-facilmente-dejarlo-gusto-1205768'>Cómo personalizar Windows 11 fácilmente y dejarlo a tu gusto</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-personalizar-windows-11-facilmente-dejarlo-gusto-1205768' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/windows-11-2952572.jpg?tf=1200x' alt='Cómo personalizar Windows 11 fácilmente y dejarlo a tu gusto' />
+    <h4><a href='https://computerhoy.com/apps/google-quiere-sepas-app-vas-instalar-no-funcionara-correctamente-1209448'>Google quiere que sepas que la app que vas a instalar no funcionará correctamente</a></h4>
+    <a href='https://computerhoy.com/apps/google-quiere-sepas-app-vas-instalar-no-funcionara-correctamente-1209448' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/google-play-store-2810081.jpg?tf=1200x' alt='Google quiere que sepas que la app que vas a instalar no funcionará correctamente' />
     </a>
 </div>
 
