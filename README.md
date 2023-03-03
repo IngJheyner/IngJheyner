@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/internet/peligro-conexion-wifi-movil-salir-casa-1209176'>Este es el peligro que corres con la conexión WiFi del móvil, al salir de casa</a></h4>
+    <a href='https://computerhoy.com/internet/peligro-conexion-wifi-movil-salir-casa-1209176' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/peligro-corres-no-desactivas-wifi-movil-salir-casa-2972376.jpg?tf=1200x' alt='Este es el peligro que corres con la conexión WiFi del móvil, al salir de casa' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciencia/fda-prohibe-elon-musk-usar-chips-cerebrales-neuralink-humanos-peligro-1208950'>La FDA prohíbe a Elon Musk usar los implantes cerebrales de Neuralink en humanos, explica por qué son peligrosos</a></h4>
     <a href='https://computerhoy.com/ciencia/fda-prohibe-elon-musk-usar-chips-cerebrales-neuralink-humanos-peligro-1208950' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/estados-unidos-prohibe-elon-musk-usar-implantes-cerebrales-neurolink-humanos-explica-son-peligrosos-2972374.jpg?tf=1200x' alt='La FDA prohíbe a Elon Musk usar los implantes cerebrales de Neuralink en humanos, explica por qué son peligrosos' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/moviles/martin-cooper-inventor-telefono-movil-tiene-muy-claro-como-sera-smartphone-futuro-1208936'>Martin Cooper, el inventor del teléfono móvil, tiene muy claro cómo será el smartphone del futuro</a></h4>
     <a href='https://computerhoy.com/moviles/martin-cooper-inventor-telefono-movil-tiene-muy-claro-como-sera-smartphone-futuro-1208936' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/martin-cooper-2972364.jpg?tf=1200x' alt='Martin Cooper, el inventor del teléfono móvil, tiene muy claro cómo será el smartphone del futuro' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/will-smith-premio-beacon-despues-bofeton-chris-rock-1208934'>Un año después del bofetón, Will Smith vuelve a recibir un premio, y no se corta: 6 minutos de discurso</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/will-smith-premio-beacon-despues-bofeton-chris-rock-1208934' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/ano-despues-bofeton-will-smith-vuelve-recibir-premio-no-corta-6-minutos-discurso-2972358.jpg?tf=1200x' alt='Un año después del bofetón, Will Smith vuelve a recibir un premio, y no se corta: 6 minutos de discurso' />
     </a>
 </div>
 
