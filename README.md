@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/29-noticias-tecnologia-comenzar-manana-informado-ultimo-1209184'>29 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
-    <a href='https://computerhoy.com/tecnologia/29-noticias-tecnologia-comenzar-manana-informado-ultimo-1209184' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/29-noticias-tecnologia-comenzar-manana-informado-ultimo-2972590.jpg?tf=1200x' alt='29 noticias de tecnología para comenzar la mañana informado de lo último' />
+    <h4><a href='https://computerhoy.com/apps/whatsapp-probando-gran-rediseno-interfaz-version-tablet-android-1209222'>WhatsApp está probando un gran rediseño de su interfaz para la versión tablet en Android</a></h4>
+    <a href='https://computerhoy.com/apps/whatsapp-probando-gran-rediseno-interfaz-version-tablet-android-1209222' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/whatsapp-tablet-2972704.jpg?tf=1200x' alt='WhatsApp está probando un gran rediseño de su interfaz para la versión tablet en Android' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/mejores/moviles-snapdragon-8-gen-2-1208104'>Estos son los mejores móviles con Snapdragon 8 Gen 2, uno de los procesadores más potentes del mundo</a></h4>
-    <a href='https://computerhoy.com/mejores/moviles-snapdragon-8-gen-2-1208104' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/oneplus-11-5g-analisis-opinion-2952402.jpg?tf=1200x' alt='Estos son los mejores móviles con Snapdragon 8 Gen 2, uno de los procesadores más potentes del mundo' />
+    <h4><a href='https://computerhoy.com/tecnologia/microsoft-surface-laptop-5-oferta-amazon-1208668'>Este es el rival del MacBook Air de Microsoft, con Windows 11 y ahora con un descuento de casi 500 euros</a></h4>
+    <a href='https://computerhoy.com/tecnologia/microsoft-surface-laptop-5-oferta-amazon-1208668' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/microsoft-surface-laptop-5-2961640.jpg?tf=1200x' alt='Este es el rival del MacBook Air de Microsoft, con Windows 11 y ahora con un descuento de casi 500 euros' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/peligro-conexion-wifi-movil-salir-casa-1209176'>Este es el peligro que corres con la conexión WiFi del móvil, al salir de casa</a></h4>
-    <a href='https://computerhoy.com/internet/peligro-conexion-wifi-movil-salir-casa-1209176' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/peligro-corres-no-desactivas-wifi-movil-salir-casa-2972376.jpg?tf=1200x' alt='Este es el peligro que corres con la conexión WiFi del móvil, al salir de casa' />
+    <h4><a href='https://computerhoy.com/tecnologia/microsoft-ya-te-permite-elegir-tres-personalidades-interactuar-ia-bing-1209218'>Microsoft ya te permite elegir entre tres personalidades para interactuar con la IA de Bing</a></h4>
+    <a href='https://computerhoy.com/tecnologia/microsoft-ya-te-permite-elegir-tres-personalidades-interactuar-ia-bing-1209218' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/microsoft-ya-te-permite-elegir-tres-personalidades-interactuar-ia-bing-2972670.jpg?tf=1200x' alt='Microsoft ya te permite elegir entre tres personalidades para interactuar con la IA de Bing' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/fda-prohibe-elon-musk-usar-chips-cerebrales-neuralink-humanos-peligro-1208950'>La FDA prohíbe a Elon Musk usar los implantes cerebrales de Neuralink en humanos, explica por qué son peligrosos</a></h4>
-    <a href='https://computerhoy.com/ciencia/fda-prohibe-elon-musk-usar-chips-cerebrales-neuralink-humanos-peligro-1208950' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/estados-unidos-prohibe-elon-musk-usar-implantes-cerebrales-neurolink-humanos-explica-son-peligrosos-2972374.jpg?tf=1200x' alt='La FDA prohíbe a Elon Musk usar los implantes cerebrales de Neuralink en humanos, explica por qué son peligrosos' />
+    <h4><a href='https://computerhoy.com/tecnologia/gran-negocio-tesla-no-seran-coches-2030-1209204'>El gran negocio de Tesla no serán los coches en 2030</a></h4>
+    <a href='https://computerhoy.com/tecnologia/gran-negocio-tesla-no-seran-coches-2030-1209204' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/robot-tesla-2972638.jpg?tf=1200x' alt='El gran negocio de Tesla no serán los coches en 2030' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tv/televisor-4k-hdr-65-pulgadas-solo-cuesta-425-euros-1208948'>Para disfrutar como en el cine: este televisor 4K HDR de 65 pulgadas solo cuesta 425 euros</a></h4>
-    <a href='https://computerhoy.com/tv/televisor-4k-hdr-65-pulgadas-solo-cuesta-425-euros-1208948' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/disfrutar-como-cine-televisor-4k-65-pulgadas-solo-cuesta-425-euros-2972370.jpg?tf=1200x' alt='Para disfrutar como en el cine: este televisor 4K HDR de 65 pulgadas solo cuesta 425 euros' />
+    <h4><a href='https://computerhoy.com/ciencia/cientificos-revelan-corredor-oculto-gran-piramide-giza-gracias-metodo-no-invasivo-1209200'>Científicos revelan un corredor oculto en la Gran Pirámide de Giza gracias a un método no invasivo</a></h4>
+    <a href='https://computerhoy.com/ciencia/cientificos-revelan-corredor-oculto-gran-piramide-giza-gracias-metodo-no-invasivo-1209200' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/cientificos-revelan-corredor-oculto-gran-piramide-giza-gracias-rayos-cosmicos-2972622.jpg?tf=1200x' alt='Científicos revelan un corredor oculto en la Gran Pirámide de Giza gracias a un método no invasivo' />
     </a>
 </div>
 
