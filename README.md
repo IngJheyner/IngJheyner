@@ -68,7 +68,7 @@
 <div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/espacio/elon-musk-no-tiene-suficiente-tierra-ya-resulta-molesto-espacio-1209298'>Elon Musk no tiene suficiente con la Tierra y ya resulta molesto hasta en el espacio</a></h4>
     <a href='https://computerhoy.com/espacio/elon-musk-no-tiene-suficiente-tierra-ya-resulta-molesto-espacio-1209298' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/imagen-tomada-nasa-telescopio-espacial-hubble-2314243.jpg?tf=1200x' alt='Elon Musk no tiene suficiente con la Tierra y ya resulta molesto hasta en el espacio' />
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/elon-musk-espacio-2973212.jpg?tf=1200x' alt='Elon Musk no tiene suficiente con la Tierra y ya resulta molesto hasta en el espacio' />
     </a>
 </div>
 
