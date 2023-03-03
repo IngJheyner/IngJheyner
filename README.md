@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/29-noticias-tecnologia-comenzar-manana-informado-ultimo-1209184'>29 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
+    <a href='https://computerhoy.com/tecnologia/29-noticias-tecnologia-comenzar-manana-informado-ultimo-1209184' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/29-noticias-tecnologia-comenzar-manana-informado-ultimo-2972590.jpg?tf=1200x' alt='29 noticias de tecnología para comenzar la mañana informado de lo último' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/mejores/moviles-snapdragon-8-gen-2-1208104'>Estos son los mejores móviles con Snapdragon 8 Gen 2, uno de los procesadores más potentes del mundo</a></h4>
+    <a href='https://computerhoy.com/mejores/moviles-snapdragon-8-gen-2-1208104' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/oneplus-11-5g-analisis-opinion-2952402.jpg?tf=1200x' alt='Estos son los mejores móviles con Snapdragon 8 Gen 2, uno de los procesadores más potentes del mundo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/internet/peligro-conexion-wifi-movil-salir-casa-1209176'>Este es el peligro que corres con la conexión WiFi del móvil, al salir de casa</a></h4>
     <a href='https://computerhoy.com/internet/peligro-conexion-wifi-movil-salir-casa-1209176' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/peligro-corres-no-desactivas-wifi-movil-salir-casa-2972376.jpg?tf=1200x' alt='Este es el peligro que corres con la conexión WiFi del móvil, al salir de casa' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tv/televisor-4k-hdr-65-pulgadas-solo-cuesta-425-euros-1208948'>Para disfrutar como en el cine: este televisor 4K HDR de 65 pulgadas solo cuesta 425 euros</a></h4>
     <a href='https://computerhoy.com/tv/televisor-4k-hdr-65-pulgadas-solo-cuesta-425-euros-1208948' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/disfrutar-como-cine-televisor-4k-65-pulgadas-solo-cuesta-425-euros-2972370.jpg?tf=1200x' alt='Para disfrutar como en el cine: este televisor 4K HDR de 65 pulgadas solo cuesta 425 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/streaming/peligros-te-expones-decides-utilizar-lista-iptv-pirata-ver-tv-gratis-1208938'>Los peligros a los que te expones si decides utilizar una lista IPTV pirata para ver la TV gratis</a></h4>
-    <a href='https://computerhoy.com/streaming/peligros-te-expones-decides-utilizar-lista-iptv-pirata-ver-tv-gratis-1208938' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/iptv-2875845.jpg?tf=1200x' alt='Los peligros a los que te expones si decides utilizar una lista IPTV pirata para ver la TV gratis' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/martin-cooper-inventor-telefono-movil-tiene-muy-claro-como-sera-smartphone-futuro-1208936'>Martin Cooper, el inventor del teléfono móvil, tiene muy claro cómo será el smartphone del futuro</a></h4>
-    <a href='https://computerhoy.com/moviles/martin-cooper-inventor-telefono-movil-tiene-muy-claro-como-sera-smartphone-futuro-1208936' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/martin-cooper-2972364.jpg?tf=1200x' alt='Martin Cooper, el inventor del teléfono móvil, tiene muy claro cómo será el smartphone del futuro' />
     </a>
 </div>
 
