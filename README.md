@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/fda-prohibe-elon-musk-usar-chips-cerebrales-neuralink-humanos-peligro-1208950'>La FDA prohíbe a Elon Musk usar los implantes cerebrales de Neuralink en humanos, explica por qué son peligrosos</a></h4>
+    <a href='https://computerhoy.com/ciencia/fda-prohibe-elon-musk-usar-chips-cerebrales-neuralink-humanos-peligro-1208950' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/estados-unidos-prohibe-elon-musk-usar-implantes-cerebrales-neurolink-humanos-explica-son-peligrosos-2972374.jpg?tf=1200x' alt='La FDA prohíbe a Elon Musk usar los implantes cerebrales de Neuralink en humanos, explica por qué son peligrosos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tv/televisor-4k-hdr-65-pulgadas-solo-cuesta-425-euros-1208948'>Para disfrutar como en el cine: este televisor 4K HDR de 65 pulgadas solo cuesta 425 euros</a></h4>
+    <a href='https://computerhoy.com/tv/televisor-4k-hdr-65-pulgadas-solo-cuesta-425-euros-1208948' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/disfrutar-como-cine-televisor-4k-65-pulgadas-solo-cuesta-425-euros-2972370.jpg?tf=1200x' alt='Para disfrutar como en el cine: este televisor 4K HDR de 65 pulgadas solo cuesta 425 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/streaming/peligros-te-expones-decides-utilizar-lista-iptv-pirata-ver-tv-gratis-1208938'>Los peligros a los que te expones si decides utilizar una lista IPTV pirata para ver la TV gratis</a></h4>
     <a href='https://computerhoy.com/streaming/peligros-te-expones-decides-utilizar-lista-iptv-pirata-ver-tv-gratis-1208938' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/iptv-2875845.jpg?tf=1200x' alt='Los peligros a los que te expones si decides utilizar una lista IPTV pirata para ver la TV gratis' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/entretenimiento/will-smith-premio-beacon-despues-bofeton-chris-rock-1208934'>Un año después del bofetón, Will Smith vuelve a recibir un premio, y no se corta: 6 minutos de discurso</a></h4>
     <a href='https://computerhoy.com/entretenimiento/will-smith-premio-beacon-despues-bofeton-chris-rock-1208934' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/ano-despues-bofeton-will-smith-vuelve-recibir-premio-no-corta-6-minutos-discurso-2972358.jpg?tf=1200x' alt='Un año después del bofetón, Will Smith vuelve a recibir un premio, y no se corta: 6 minutos de discurso' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/hora-perfecta-cenar-objetivo-perder-peso-ciencia-1208888'>Esta es la hora perfecta para cenar si tu objetivo es perder peso, según la ciencia</a></h4>
-    <a href='https://computerhoy.com/life/hora-perfecta-cenar-objetivo-perder-peso-ciencia-1208888' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/preparar-cena-navidad-2903806.jpg?tf=1200x' alt='Esta es la hora perfecta para cenar si tu objetivo es perder peso, según la ciencia' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/hogar/ordenan-retirada-2-millones-freidoras-aire-cosori-riesgo-incendio-quemaduras-1208886'>Ordenan la retirada de más de 2 millones de freidoras de aire Cosori por riesgo de incendio y quemaduras</a></h4>
-    <a href='https://computerhoy.com/hogar/ordenan-retirada-2-millones-freidoras-aire-cosori-riesgo-incendio-quemaduras-1208886' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/cosori-817915025574-2505521.jpg?tf=1200x' alt='Ordenan la retirada de más de 2 millones de freidoras de aire Cosori por riesgo de incendio y quemaduras' />
     </a>
 </div>
 
