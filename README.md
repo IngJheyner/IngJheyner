@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/realidad-virtual/gafas-realidad-virtual-meta-quest-2-quest-pro-bajada-precio-1209492'>Las gafas de realidad virtual Quest 2 y Quest Pro vuelven a bajar de precio, ¿bajas ventas o miedo a la competencia?</a></h4>
+    <a href='https://computerhoy.com/realidad-virtual/gafas-realidad-virtual-meta-quest-2-quest-pro-bajada-precio-1209492' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/gafas-realidad-virtual-quest-2-quest-pro-vuelven-bajar-precio-espana-bajas-ventas-miedo-competencia-2973376.jpg?tf=1200x' alt='Las gafas de realidad virtual Quest 2 y Quest Pro vuelven a bajar de precio, ¿bajas ventas o miedo a la competencia?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/energia/cientificos-aconsejan-pintar-turbinas-rayas-negras-evitar-millones-muertes-aves-1208898'>Científicos aconsejan pintar las turbinas con rayas negras para evitar millones de muertes de aves</a></h4>
+    <a href='https://computerhoy.com/energia/cientificos-aconsejan-pintar-turbinas-rayas-negras-evitar-millones-muertes-aves-1208898' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/cientificos-aconsejan-pintar-turbinas-rayas-negras-evitar-millones-muertes-aves-2971512.jpg?tf=1200x' alt='Científicos aconsejan pintar las turbinas con rayas negras para evitar millones de muertes de aves' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/internet/formas-creativas-utilizar-chatgpt-encontrar-trabajo-1209406'>Formas creativas de utilizar ChatGPT para encontrar trabajo</a></h4>
+    <a href='https://computerhoy.com/internet/formas-creativas-utilizar-chatgpt-encontrar-trabajo-1209406' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/inteligencia-artificial-podria-ser-quien-acepte-descarte-cv-proxima-entrevista-trabajo-2926786.jpg?tf=1200x' alt='Formas creativas de utilizar ChatGPT para encontrar trabajo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/moviles/samsung-galaxy-s22-ultra-oferta-descuento-200-euros-1209490'>El espectacular Samsung Galaxy S22 Ultra, más accesible que nunca con este descuento de 200 euros</a></h4>
+    <a href='https://computerhoy.com/moviles/samsung-galaxy-s22-ultra-oferta-descuento-200-euros-1209490' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/analisis-samsung-galaxy-s22-ultra-2620793.jpg?tf=1200x' alt='El espectacular Samsung Galaxy S22 Ultra, más accesible que nunca con este descuento de 200 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/amazon/libros-kindle-no-son-actualizaran-amazon-ve-conveniente-1209450'>Los libros de tu Kindle no son tuyos y se actualizarán si Amazon lo ve conveniente</a></h4>
     <a href='https://computerhoy.com/amazon/libros-kindle-no-son-actualizaran-amazon-ve-conveniente-1209450' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/analisis-kindle-scribe-2939670.jpg?tf=1200x' alt='Los libros de tu Kindle no son tuyos y se actualizarán si Amazon lo ve conveniente' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/bill-gates-estaba-tan-enganchado-mitico-juego-tuvieron-eliminarlo-ordenador-1209480'>Bill Gates estaba tan enganchado a este mítico juego que tuvieron que eliminarlo de su ordenador</a></h4>
-    <a href='https://computerhoy.com/windows/bill-gates-estaba-tan-enganchado-mitico-juego-tuvieron-eliminarlo-ordenador-1209480' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/bill-gates-2628607.jpg?tf=1200x' alt='Bill Gates estaba tan enganchado a este mítico juego que tuvieron que eliminarlo de su ordenador' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/streaming/pelicula-tetris-apple-tv-plus-thriller-espionaje-politica-videojuego-mas-famoso-1209478'>La película Tetris de Apple TV+, es un thriller de espionaje y política detrás del videojuego más famoso de la historia</a></h4>
-    <a href='https://computerhoy.com/streaming/pelicula-tetris-apple-tv-plus-thriller-espionaje-politica-videojuego-mas-famoso-1209478' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/verticalimage1677871937384-2973364.jpg?tf=1200x' alt='La película Tetris de Apple TV+, es un thriller de espionaje y política detrás del videojuego más famoso de la historia' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/estas-son-horas-estudio-necesitas-dominar-principales-idiomas-1209474'>Estas son las horas de estudio que necesitas para dominar los principales idiomas</a></h4>
-    <a href='https://computerhoy.com/life/estas-son-horas-estudio-necesitas-dominar-principales-idiomas-1209474' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/joven-aprendiendo-varios-idiomas-2973370.jpg?tf=1200x' alt='Estas son las horas de estudio que necesitas para dominar los principales idiomas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/google-quiere-sepas-app-vas-instalar-no-funcionara-correctamente-1209448'>Google quiere que sepas que la app que vas a instalar no funcionará correctamente</a></h4>
-    <a href='https://computerhoy.com/apps/google-quiere-sepas-app-vas-instalar-no-funcionara-correctamente-1209448' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/google-play-store-2810081.jpg?tf=1200x' alt='Google quiere que sepas que la app que vas a instalar no funcionará correctamente' />
     </a>
 </div>
 
