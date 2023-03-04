@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-solucionar-valorant-cualquier-juego-no-funcione-pedir-tpm-20-secure-boot-1205114'>Cómo solucionar que Valorant o cualquier juego no funcione por pedir TPM 2.0 y Secure Boot</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-solucionar-valorant-cualquier-juego-no-funcione-pedir-tpm-20-secure-boot-1205114' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/jugando-2964968.jpg?tf=1200x' alt='Cómo solucionar que Valorant o cualquier juego no funcione por pedir TPM 2.0 y Secure Boot' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-descargar-instalar-windows-11-moment-2-paso-paso-novedades-trae-1208654'>Cómo descargar e instalar Windows 11 Moment 2 paso a paso y las novedades que trae</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-descargar-instalar-windows-11-moment-2-paso-paso-novedades-trae-1208654' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/windows-11-logo-2627905.jpg?tf=1200x' alt='Cómo descargar e instalar Windows 11 Moment 2 paso a paso y las novedades que trae' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/analisis/review-thinkpad-z13-gen-1-nuevo-ultrabook-profesional-lenovo-2023-1199260'>Análisis del ThinkPad Z13 Gen 1, el nuevo ultrabook profesional de Lenovo de 2023</a></h4>
+    <a href='https://computerhoy.com/analisis/review-thinkpad-z13-gen-1-nuevo-ultrabook-profesional-lenovo-2023-1199260' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/lenovo-thinkpad-z13-gen-1-2955476.jpg?tf=1200x' alt='Análisis del ThinkPad Z13 Gen 1, el nuevo ultrabook profesional de Lenovo de 2023' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/ministerio-defensa-reino-unido-contrata-escritores-ciencia-ficcion-peligros-nuevas-tecnologias-1209712'>El gobierno británico contrata a escritores de ciencia-ficción para desvelar los peligros de las nuevas tecnologías... y sus historias dan miedo</a></h4>
     <a href='https://computerhoy.com/tecnologia/ministerio-defensa-reino-unido-contrata-escritores-ciencia-ficcion-peligros-nuevas-tecnologias-1209712' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/gobierno-britanico-contrata-escritores-ciencia-ficcion-desvelar-peligros-nuevas-tecnologias-historias-dan-miedo-2973590.jpg?tf=1200x' alt='El gobierno británico contrata a escritores de ciencia-ficción para desvelar los peligros de las nuevas tecnologías... y sus historias dan miedo' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-relojes-inteligentes-xiaomi-amazfit-810635'>Estos son los mejores relojes inteligentes de Xiaomi que puedes comprar</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/mejores-relojes-inteligentes-xiaomi-amazfit-810635' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/poco-watch-analisis-opinion-2777959.jpg?tf=1200x' alt='Estos son los mejores relojes inteligentes de Xiaomi que puedes comprar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/spogomi-nuevo-deporte-competicion-recogida-basura-primer-campeonato-mundo-1209310'>SpoGomi, el nuevo deporte que combina competición y recogida de basura, anuncia su primer campeonato del mundo</a></h4>
-    <a href='https://computerhoy.com/life/spogomi-nuevo-deporte-competicion-recogida-basura-primer-campeonato-mundo-1209310' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/spogomi-nuevo-deporte-combina-competicion-recogida-basura-anuncia-primer-campeonato-mundo-2972862.jpg?tf=1200x' alt='SpoGomi, el nuevo deporte que combina competición y recogida de basura, anuncia su primer campeonato del mundo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-tablets-estudiantes-1113743'>Estas son las mejores tablets para estudiantes</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-tablets-estudiantes-1113743' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/ipad-10a-generacion-analisis-opinion-2897866.jpg?tf=1200x' alt='Estas son las mejores tablets para estudiantes' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/amazon/amazon-basics-componentes-pc-disipador-cpu-1209710'>Amazon comienza a vender componentes para PC, y algunos usuarios están preocupados</a></h4>
-    <a href='https://computerhoy.com/amazon/amazon-basics-componentes-pc-disipador-cpu-1209710' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/amazon-comienza-vender-hardware-pc-algunos-usuarios-estan-preocupados-2973586.jpg?tf=1200x' alt='Amazon comienza a vender componentes para PC, y algunos usuarios están preocupados' />
     </a>
 </div>
 
