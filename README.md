@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/spogomi-nuevo-deporte-competicion-recogida-basura-primer-campeonato-mundo-1209310'>SpoGomi, el nuevo deporte que combina competición y recogida de basura, anuncia su primer campeonato del mundo</a></h4>
+    <a href='https://computerhoy.com/life/spogomi-nuevo-deporte-competicion-recogida-basura-primer-campeonato-mundo-1209310' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/spogomi-nuevo-deporte-combina-competicion-recogida-basura-anuncia-primer-campeonato-mundo-2972862.jpg?tf=1200x' alt='SpoGomi, el nuevo deporte que combina competición y recogida de basura, anuncia su primer campeonato del mundo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-tablets-estudiantes-1113743'>Estas son las mejores tablets para estudiantes</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-tablets-estudiantes-1113743' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/ipad-10a-generacion-analisis-opinion-2897866.jpg?tf=1200x' alt='Estas son las mejores tablets para estudiantes' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/amazon/amazon-basics-componentes-pc-disipador-cpu-1209710'>Amazon comienza a vender componentes para PC, y algunos usuarios están preocupados</a></h4>
     <a href='https://computerhoy.com/amazon/amazon-basics-componentes-pc-disipador-cpu-1209710' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/amazon-comienza-vender-hardware-pc-algunos-usuarios-estan-preocupados-2973586.jpg?tf=1200x' alt='Amazon comienza a vender componentes para PC, y algunos usuarios están preocupados' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/energia/cientificos-aconsejan-pintar-turbinas-rayas-negras-evitar-millones-muertes-aves-1208898'>Científicos aconsejan pintar las turbinas con rayas negras para evitar millones de muertes de aves</a></h4>
     <a href='https://computerhoy.com/energia/cientificos-aconsejan-pintar-turbinas-rayas-negras-evitar-millones-muertes-aves-1208898' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/cientificos-aconsejan-pintar-turbinas-rayas-negras-evitar-millones-muertes-aves-2971512.jpg?tf=1200x' alt='Científicos aconsejan pintar las turbinas con rayas negras para evitar millones de muertes de aves' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/formas-creativas-utilizar-chatgpt-encontrar-trabajo-1209406'>Formas creativas de utilizar ChatGPT para encontrar trabajo</a></h4>
-    <a href='https://computerhoy.com/internet/formas-creativas-utilizar-chatgpt-encontrar-trabajo-1209406' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/inteligencia-artificial-podria-ser-quien-acepte-descarte-cv-proxima-entrevista-trabajo-2926786.jpg?tf=1200x' alt='Formas creativas de utilizar ChatGPT para encontrar trabajo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/samsung-galaxy-s22-ultra-oferta-descuento-200-euros-1209490'>El espectacular Samsung Galaxy S22 Ultra, más accesible que nunca con este descuento de 200 euros</a></h4>
-    <a href='https://computerhoy.com/moviles/samsung-galaxy-s22-ultra-oferta-descuento-200-euros-1209490' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/analisis-samsung-galaxy-s22-ultra-2620793.jpg?tf=1200x' alt='El espectacular Samsung Galaxy S22 Ultra, más accesible que nunca con este descuento de 200 euros' />
     </a>
 </div>
 
