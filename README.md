@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/amazon/amazon-basics-componentes-pc-disipador-cpu-1209710'>Amazon comienza a vender componentes para PC, y algunos usuarios están preocupados</a></h4>
+    <a href='https://computerhoy.com/amazon/amazon-basics-componentes-pc-disipador-cpu-1209710' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/amazon-comienza-vender-hardware-pc-algunos-usuarios-estan-preocupados-2973586.jpg?tf=1200x' alt='Amazon comienza a vender componentes para PC, y algunos usuarios están preocupados' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/realidad-virtual/gafas-realidad-virtual-meta-quest-2-quest-pro-bajada-precio-1209492'>Las gafas de realidad virtual Quest 2 y Quest Pro vuelven a bajar de precio, ¿bajas ventas o miedo a la competencia?</a></h4>
     <a href='https://computerhoy.com/realidad-virtual/gafas-realidad-virtual-meta-quest-2-quest-pro-bajada-precio-1209492' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/gafas-realidad-virtual-quest-2-quest-pro-vuelven-bajar-precio-espana-bajas-ventas-miedo-competencia-2973376.jpg?tf=1200x' alt='Las gafas de realidad virtual Quest 2 y Quest Pro vuelven a bajar de precio, ¿bajas ventas o miedo a la competencia?' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/moviles/samsung-galaxy-s22-ultra-oferta-descuento-200-euros-1209490'>El espectacular Samsung Galaxy S22 Ultra, más accesible que nunca con este descuento de 200 euros</a></h4>
     <a href='https://computerhoy.com/moviles/samsung-galaxy-s22-ultra-oferta-descuento-200-euros-1209490' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/analisis-samsung-galaxy-s22-ultra-2620793.jpg?tf=1200x' alt='El espectacular Samsung Galaxy S22 Ultra, más accesible que nunca con este descuento de 200 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/amazon/libros-kindle-no-son-actualizaran-amazon-ve-conveniente-1209450'>Los libros de tu Kindle no son tuyos y se actualizarán si Amazon lo ve conveniente</a></h4>
-    <a href='https://computerhoy.com/amazon/libros-kindle-no-son-actualizaran-amazon-ve-conveniente-1209450' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/analisis-kindle-scribe-2939670.jpg?tf=1200x' alt='Los libros de tu Kindle no son tuyos y se actualizarán si Amazon lo ve conveniente' />
     </a>
 </div>
 
