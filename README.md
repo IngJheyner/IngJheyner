@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-solucionar-valorant-cualquier-juego-no-funcione-pedir-tpm-20-secure-boot-1205114'>Cómo solucionar que Valorant o cualquier juego no funcione por pedir TPM 2.0 y Secure Boot</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-solucionar-valorant-cualquier-juego-no-funcione-pedir-tpm-20-secure-boot-1205114' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/jugando-2964968.jpg?tf=1200x' alt='Cómo solucionar que Valorant o cualquier juego no funcione por pedir TPM 2.0 y Secure Boot' />
+    <h4><a href='https://computerhoy.com/apps/puede-instalar-kodi-iphone-ipad-ios-1209782'>¿Se puede instalar Kodi en un iPhone o iPad con iOS?</a></h4>
+    <a href='https://computerhoy.com/apps/puede-instalar-kodi-iphone-ipad-ios-1209782' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/05/kodi-skins_4.jpg?tf=1200x' alt='¿Se puede instalar Kodi en un iPhone o iPad con iOS?' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-descargar-instalar-windows-11-moment-2-paso-paso-novedades-trae-1208654'>Cómo descargar e instalar Windows 11 Moment 2 paso a paso y las novedades que trae</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-descargar-instalar-windows-11-moment-2-paso-paso-novedades-trae-1208654' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/windows-11-logo-2627905.jpg?tf=1200x' alt='Cómo descargar e instalar Windows 11 Moment 2 paso a paso y las novedades que trae' />
+    <h4><a href='https://computerhoy.com/motor/nuevos-documentos-obligatorios-debes-llevar-coche-evitar-multas-dgt-1209766'>Los nuevos documentos obligatorios que debes llevar en el coche para evitar multas de la DGT</a></h4>
+    <a href='https://computerhoy.com/motor/nuevos-documentos-obligatorios-debes-llevar-coche-evitar-multas-dgt-1209766' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/carnet-conducir-2232269.jpg?tf=1200x' alt='Los nuevos documentos obligatorios que debes llevar en el coche para evitar multas de la DGT' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/review-thinkpad-z13-gen-1-nuevo-ultrabook-profesional-lenovo-2023-1199260'>Análisis del ThinkPad Z13 Gen 1, el nuevo ultrabook profesional de Lenovo de 2023</a></h4>
-    <a href='https://computerhoy.com/analisis/review-thinkpad-z13-gen-1-nuevo-ultrabook-profesional-lenovo-2023-1199260' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/lenovo-thinkpad-z13-gen-1-2955476.jpg?tf=1200x' alt='Análisis del ThinkPad Z13 Gen 1, el nuevo ultrabook profesional de Lenovo de 2023' />
+    <h4><a href='https://computerhoy.com/entretenimiento/7-peliculas-boxeo-lucha-pueden-animarte-cualquier-dia-aburrido-1207696'>7 películas de boxeo o lucha que pueden animarte cualquier día aburrido</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/7-peliculas-boxeo-lucha-pueden-animarte-cualquier-dia-aburrido-1207696' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/million-dollar-baby-2969916.jpg?tf=1200x' alt='7 películas de boxeo o lucha que pueden animarte cualquier día aburrido' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/ministerio-defensa-reino-unido-contrata-escritores-ciencia-ficcion-peligros-nuevas-tecnologias-1209712'>El gobierno británico contrata a escritores de ciencia-ficción para desvelar los peligros de las nuevas tecnologías... y sus historias dan miedo</a></h4>
-    <a href='https://computerhoy.com/tecnologia/ministerio-defensa-reino-unido-contrata-escritores-ciencia-ficcion-peligros-nuevas-tecnologias-1209712' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/gobierno-britanico-contrata-escritores-ciencia-ficcion-desvelar-peligros-nuevas-tecnologias-historias-dan-miedo-2973590.jpg?tf=1200x' alt='El gobierno británico contrata a escritores de ciencia-ficción para desvelar los peligros de las nuevas tecnologías... y sus historias dan miedo' />
+    <h4><a href='https://computerhoy.com/internet/errores-seguramente-estas-cometiendo-ralentizan-conexion-wifi-1209762'>Errores que seguramente estás cometiendo que ralentizan tu conexión WiFi</a></h4>
+    <a href='https://computerhoy.com/internet/errores-seguramente-estas-cometiendo-ralentizan-conexion-wifi-1209762' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/router-2905910.jpg?tf=1200x' alt='Errores que seguramente estás cometiendo que ralentizan tu conexión WiFi' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-relojes-inteligentes-xiaomi-amazfit-810635'>Estos son los mejores relojes inteligentes de Xiaomi que puedes comprar</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-relojes-inteligentes-xiaomi-amazfit-810635' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/poco-watch-analisis-opinion-2777959.jpg?tf=1200x' alt='Estos son los mejores relojes inteligentes de Xiaomi que puedes comprar' />
+    <h4><a href='https://computerhoy.com/tutoriales/formas-arreglar-teclado-cuando-ha-vuelto-loco-1202830'>Formas de arreglar el teclado cuando se ha vuelto loco</a></h4>
+    <a href='https://computerhoy.com/tutoriales/formas-arreglar-teclado-cuando-ha-vuelto-loco-1202830' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/teclado-windows-11-2697963.jpg?tf=1200x' alt='Formas de arreglar el teclado cuando se ha vuelto loco' />
     </a>
 </div>
 
