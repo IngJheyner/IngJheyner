@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/ministerio-defensa-reino-unido-contrata-escritores-ciencia-ficcion-peligros-nuevas-tecnologias-1209712'>El gobierno británico contrata a escritores de ciencia-ficción para desvelar los peligros de las nuevas tecnologías... y sus historias dan miedo</a></h4>
+    <a href='https://computerhoy.com/tecnologia/ministerio-defensa-reino-unido-contrata-escritores-ciencia-ficcion-peligros-nuevas-tecnologias-1209712' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/gobierno-britanico-contrata-escritores-ciencia-ficcion-desvelar-peligros-nuevas-tecnologias-historias-dan-miedo-2973590.jpg?tf=1200x' alt='El gobierno británico contrata a escritores de ciencia-ficción para desvelar los peligros de las nuevas tecnologías... y sus historias dan miedo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-relojes-inteligentes-xiaomi-amazfit-810635'>Estos son los mejores relojes inteligentes de Xiaomi que puedes comprar</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-relojes-inteligentes-xiaomi-amazfit-810635' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/poco-watch-analisis-opinion-2777959.jpg?tf=1200x' alt='Estos son los mejores relojes inteligentes de Xiaomi que puedes comprar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/spogomi-nuevo-deporte-competicion-recogida-basura-primer-campeonato-mundo-1209310'>SpoGomi, el nuevo deporte que combina competición y recogida de basura, anuncia su primer campeonato del mundo</a></h4>
     <a href='https://computerhoy.com/life/spogomi-nuevo-deporte-competicion-recogida-basura-primer-campeonato-mundo-1209310' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/spogomi-nuevo-deporte-combina-competicion-recogida-basura-anuncia-primer-campeonato-mundo-2972862.jpg?tf=1200x' alt='SpoGomi, el nuevo deporte que combina competición y recogida de basura, anuncia su primer campeonato del mundo' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/amazon/amazon-basics-componentes-pc-disipador-cpu-1209710'>Amazon comienza a vender componentes para PC, y algunos usuarios están preocupados</a></h4>
     <a href='https://computerhoy.com/amazon/amazon-basics-componentes-pc-disipador-cpu-1209710' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/amazon-comienza-vender-hardware-pc-algunos-usuarios-estan-preocupados-2973586.jpg?tf=1200x' alt='Amazon comienza a vender componentes para PC, y algunos usuarios están preocupados' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/realidad-virtual/gafas-realidad-virtual-meta-quest-2-quest-pro-bajada-precio-1209492'>Las gafas de realidad virtual Quest 2 y Quest Pro vuelven a bajar de precio, ¿bajas ventas o miedo a la competencia?</a></h4>
-    <a href='https://computerhoy.com/realidad-virtual/gafas-realidad-virtual-meta-quest-2-quest-pro-bajada-precio-1209492' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/gafas-realidad-virtual-quest-2-quest-pro-vuelven-bajar-precio-espana-bajas-ventas-miedo-competencia-2973376.jpg?tf=1200x' alt='Las gafas de realidad virtual Quest 2 y Quest Pro vuelven a bajar de precio, ¿bajas ventas o miedo a la competencia?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/energia/cientificos-aconsejan-pintar-turbinas-rayas-negras-evitar-millones-muertes-aves-1208898'>Científicos aconsejan pintar las turbinas con rayas negras para evitar millones de muertes de aves</a></h4>
-    <a href='https://computerhoy.com/energia/cientificos-aconsejan-pintar-turbinas-rayas-negras-evitar-millones-muertes-aves-1208898' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/cientificos-aconsejan-pintar-turbinas-rayas-negras-evitar-millones-muertes-aves-2971512.jpg?tf=1200x' alt='Científicos aconsejan pintar las turbinas con rayas negras para evitar millones de muertes de aves' />
     </a>
 </div>
 
