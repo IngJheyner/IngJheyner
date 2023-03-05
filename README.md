@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/son-mah-bateria-1191778'>¿Qué son los mAh de una batería?</a></h4>
-    <a href='https://computerhoy.com/tecnologia/son-mah-bateria-1191778' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/verticalimage1677921112596-2973630.jpg?tf=1200x' alt='¿Qué son los mAh de una batería?' />
+    <h4><a href='https://computerhoy.com/entretenimiento/7-peliculas-tesis-cientificas-muy-locas-no-sostienen-ningun-modo-1208324'>7 películas con tesis científicas muy locas que no se sostienen de ningún modo</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/7-peliculas-tesis-cientificas-muy-locas-no-sostienen-ningun-modo-1208324' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/7-peliculas-tesis-cientificas-muy-locas-no-sostienen-ningun-modo-2972282.jpg?tf=1200x' alt='7 películas con tesis científicas muy locas que no se sostienen de ningún modo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/mejores-webs-descargar-aplicaciones-juegos-android-1206868'>Las mejores webs para descargar aplicaciones y juegos en Android </a></h4>
-    <a href='https://computerhoy.com/tecnologia/mejores-webs-descargar-aplicaciones-juegos-android-1206868' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/aplicaciones-android-2967838.jpg?tf=1200x' alt='Las mejores webs para descargar aplicaciones y juegos en Android ' />
+    <h4><a href='https://computerhoy.com/internet/ya-puedes-probar-google-maps-espanol-unico-mundo-1210084'>Ya puedes probar el Google Maps español, único en el mundo</a></h4>
+    <a href='https://computerhoy.com/internet/ya-puedes-probar-google-maps-espanol-unico-mundo-1210084' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/ya-puedes-probar-google-maps-espanol-2974130.jpg?tf=1200x' alt='Ya puedes probar el Google Maps español, único en el mundo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/aire-acondicionado-portatil-consejos-compra-451271'>Comprar un aire acondicionado portátil, ¿qué debemos tener en cuenta en 2023?</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/aire-acondicionado-portatil-consejos-compra-451271' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/aire-acondicionado-suntec-2426657.jpg?tf=1200x' alt='Comprar un aire acondicionado portátil, ¿qué debemos tener en cuenta en 2023?' />
+    <h4><a href='https://computerhoy.com/life/sponsors-extranos-frikis-polemicos-han-pasado-f1-1209282'>Los sponsors más extraños, frikis y polémicos que han pasado por la F1</a></h4>
+    <a href='https://computerhoy.com/life/sponsors-extranos-frikis-polemicos-han-pasado-f1-1209282' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/equipo-redbull-f1-2972614.jpg?tf=1200x' alt='Los sponsors más extraños, frikis y polémicos que han pasado por la F1' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/crean-nueva-tecnologia-capaz-procesar-datos-tiempo-real-30-millones-coches-conectados-1209820'>Crean una nueva tecnología capaz de procesar datos en tiempo real de 30 millones de coches conectados</a></h4>
-    <a href='https://computerhoy.com/ciencia/crean-nueva-tecnologia-capaz-procesar-datos-tiempo-real-30-millones-coches-conectados-1209820' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/coches-conectados-2973872.jpg?tf=1200x' alt='Crean una nueva tecnología capaz de procesar datos en tiempo real de 30 millones de coches conectados' />
+    <h4><a href='https://computerhoy.com/internet/genial-truco-viral-madre-contrasena-wifi-tambien-querras-probar-1210074'>El genial truco viral de una madre con la contraseña del WiFi que también querrás probar</a></h4>
+    <a href='https://computerhoy.com/internet/genial-truco-viral-madre-contrasena-wifi-tambien-querras-probar-1210074' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/madre-enfadada-hija-usar-ordenador-2974126.jpg?tf=1200x' alt='El genial truco viral de una madre con la contraseña del WiFi que también querrás probar' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/estas-son-formas-tienes-restablecer-fabrica-ordenador-windows-1202498'>Estas son las formas que tienes de restablecer a fábrica un ordenador Windows</a></h4>
-    <a href='https://computerhoy.com/tutoriales/estas-son-formas-tienes-restablecer-fabrica-ordenador-windows-1202498' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/windows-11-2960440.jpg?tf=1200x' alt='Estas son las formas que tienes de restablecer a fábrica un ordenador Windows' />
+    <h4><a href='https://computerhoy.com/tutoriales/como-aumentar-ram-video-vram-windows-11-1202812'>Cómo aumentar RAM de vídeo (VRAM) en Windows 11</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-aumentar-ram-video-vram-windows-11-1202812' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/windows-11-2961104.jpg?tf=1200x' alt='Cómo aumentar RAM de vídeo (VRAM) en Windows 11' />
     </a>
 </div>
 
