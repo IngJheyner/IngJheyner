@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/gaming/tostadora-microsoft-xbox-series-s-toaster-1210150'>¿Está a punto de lanzar Microsoft la tostadora Xbox?</a></h4>
+    <a href='https://computerhoy.com/gaming/tostadora-microsoft-xbox-series-s-toaster-1210150' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/punto-lanzar-microsoft-tostadora-xbox-2974238.jpg?tf=1200x' alt='¿Está a punto de lanzar Microsoft la tostadora Xbox?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/smartwatches/chatgpt-llega-relojes-inteligentes-amazfit-1210146'>ChatGPT llega a los relojes inteligentes de Amazfit</a></h4>
+    <a href='https://computerhoy.com/smartwatches/chatgpt-llega-relojes-inteligentes-amazfit-1210146' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/relojes-amazfit-chatgpt-2974232.jpg?tf=1200x' alt='ChatGPT llega a los relojes inteligentes de Amazfit' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apple/nuevos-imac-apple-m3-2023-1210138'>Apple pisa el acelerador: lanzará nuevos iMac con Apple M3 en otoño</a></h4>
     <a href='https://computerhoy.com/apple/nuevos-imac-apple-m3-2023-1210138' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/analisis-imac-m1-2021-2390069.jpg?tf=1200x' alt='Apple pisa el acelerador: lanzará nuevos iMac con Apple M3 en otoño' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/life/mycanoe-solo-2-canoa-plegable-tecnicas-origami-maleta-video-1210046'>MyCanoe Solo 2, la canoa plegable con técnicas origami, que cabe en una maleta (vídeo)</a></h4>
     <a href='https://computerhoy.com/life/mycanoe-solo-2-canoa-plegable-tecnicas-origami-maleta-video-1210046' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/verticalimage1677977725130-2973890.jpg?tf=1200x' alt='MyCanoe Solo 2, la canoa plegable con técnicas origami, que cabe en una maleta (vídeo)' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/google-quiere-bloqueen-todos-dispositivos-mientras-conduces-1210102'>Google quiere que se bloqueen todos los dispositivos mientras conduces</a></h4>
-    <a href='https://computerhoy.com/google/google-quiere-bloqueen-todos-dispositivos-mientras-conduces-1210102' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/persona-conduciendo-coche-2974150.jpg?tf=1200x' alt='Google quiere que se bloqueen todos los dispositivos mientras conduces' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/increible-historia-iphone-11-sigue-funcionando-estar-sumergido-lago-durante-semana-1210096'>La increíble historia de un iPhone 11 que sigue funcionando tras estar sumergido en un lago durante más de una semana</a></h4>
-    <a href='https://computerhoy.com/apple/increible-historia-iphone-11-sigue-funcionando-estar-sumergido-lago-durante-semana-1210096' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/05/iphone-11-1949575.jpg?tf=1200x' alt='La increíble historia de un iPhone 11 que sigue funcionando tras estar sumergido en un lago durante más de una semana' />
     </a>
 </div>
 
