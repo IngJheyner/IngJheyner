@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/mycanoe-solo-2-canoa-plegable-tecnicas-origami-maleta-video-1210046'>MyCanoe Solo 2, la canoa plegable con técnicas origami, que cabe en una maleta (vídeo)</a></h4>
+    <a href='https://computerhoy.com/life/mycanoe-solo-2-canoa-plegable-tecnicas-origami-maleta-video-1210046' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/verticalimage1677977725130-2973890.jpg?tf=1200x' alt='MyCanoe Solo 2, la canoa plegable con técnicas origami, que cabe en una maleta (vídeo)' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/google/google-quiere-bloqueen-todos-dispositivos-mientras-conduces-1210102'>Google quiere que se bloqueen todos los dispositivos mientras conduces</a></h4>
+    <a href='https://computerhoy.com/google/google-quiere-bloqueen-todos-dispositivos-mientras-conduces-1210102' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/persona-conduciendo-coche-2974150.jpg?tf=1200x' alt='Google quiere que se bloqueen todos los dispositivos mientras conduces' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/increible-historia-iphone-11-sigue-funcionando-estar-sumergido-lago-durante-semana-1210096'>La increíble historia de un iPhone 11 que sigue funcionando tras estar sumergido en un lago durante más de una semana</a></h4>
+    <a href='https://computerhoy.com/apple/increible-historia-iphone-11-sigue-funcionando-estar-sumergido-lago-durante-semana-1210096' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/05/iphone-11-1949575.jpg?tf=1200x' alt='La increíble historia de un iPhone 11 que sigue funcionando tras estar sumergido en un lago durante más de una semana' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/cientificos-descubren-agregar-sal-pasta-momento-incorrecto-puede-ser-peligroso-salud-1210092'>Científicos descubren que agregar sal a la pasta en el momento incorrecto puede ser peligroso para la salud</a></h4>
+    <a href='https://computerhoy.com/life/cientificos-descubren-agregar-sal-pasta-momento-incorrecto-puede-ser-peligroso-salud-1210092' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/hervir-pasta-2974144.jpg?tf=1200x' alt='Científicos descubren que agregar sal a la pasta en el momento incorrecto puede ser peligroso para la salud' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/entretenimiento/7-peliculas-tesis-cientificas-muy-locas-no-sostienen-ningun-modo-1208324'>7 películas con tesis científicas muy locas que no se sostienen de ningún modo</a></h4>
     <a href='https://computerhoy.com/entretenimiento/7-peliculas-tesis-cientificas-muy-locas-no-sostienen-ningun-modo-1208324' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/7-peliculas-tesis-cientificas-muy-locas-no-sostienen-ningun-modo-2972282.jpg?tf=1200x' alt='7 películas con tesis científicas muy locas que no se sostienen de ningún modo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/ya-puedes-probar-google-maps-espanol-unico-mundo-1210084'>Ya puedes probar el Google Maps español, único en el mundo</a></h4>
-    <a href='https://computerhoy.com/internet/ya-puedes-probar-google-maps-espanol-unico-mundo-1210084' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/ya-puedes-probar-google-maps-espanol-2974130.jpg?tf=1200x' alt='Ya puedes probar el Google Maps español, único en el mundo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/sponsors-extranos-frikis-polemicos-han-pasado-f1-1209282'>Los sponsors más extraños, frikis y polémicos que han pasado por la F1</a></h4>
-    <a href='https://computerhoy.com/life/sponsors-extranos-frikis-polemicos-han-pasado-f1-1209282' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/equipo-redbull-f1-2972614.jpg?tf=1200x' alt='Los sponsors más extraños, frikis y polémicos que han pasado por la F1' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/genial-truco-viral-madre-contrasena-wifi-tambien-querras-probar-1210074'>El genial truco viral de una madre con la contraseña del WiFi que también querrás probar</a></h4>
-    <a href='https://computerhoy.com/internet/genial-truco-viral-madre-contrasena-wifi-tambien-querras-probar-1210074' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/madre-enfadada-hija-usar-ordenador-2974126.jpg?tf=1200x' alt='El genial truco viral de una madre con la contraseña del WiFi que también querrás probar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-aumentar-ram-video-vram-windows-11-1202812'>Cómo aumentar RAM de vídeo (VRAM) en Windows 11</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-aumentar-ram-video-vram-windows-11-1202812' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/windows-11-2961104.jpg?tf=1200x' alt='Cómo aumentar RAM de vídeo (VRAM) en Windows 11' />
     </a>
 </div>
 
