@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/nuevos-imac-apple-m3-2023-1210138'>Apple pisa el acelerador: lanzará nuevos iMac con Apple M3 en otoño</a></h4>
+    <a href='https://computerhoy.com/apple/nuevos-imac-apple-m3-2023-1210138' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/analisis-imac-m1-2021-2390069.jpg?tf=1200x' alt='Apple pisa el acelerador: lanzará nuevos iMac con Apple M3 en otoño' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/life/mejores-cepillos-electricos-oral-b-1027235'>Cepillos eléctricos Oral-B: estos son los mejores modelos que puedes comprar</a></h4>
+    <a href='https://computerhoy.com/reportajes/life/mejores-cepillos-electricos-oral-b-1027235' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/cepillo-dientes-electrico-oral-b-2643545.jpg?tf=1200x' alt='Cepillos eléctricos Oral-B: estos son los mejores modelos que puedes comprar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/mycanoe-solo-2-canoa-plegable-tecnicas-origami-maleta-video-1210046'>MyCanoe Solo 2, la canoa plegable con técnicas origami, que cabe en una maleta (vídeo)</a></h4>
     <a href='https://computerhoy.com/life/mycanoe-solo-2-canoa-plegable-tecnicas-origami-maleta-video-1210046' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/verticalimage1677977725130-2973890.jpg?tf=1200x' alt='MyCanoe Solo 2, la canoa plegable con técnicas origami, que cabe en una maleta (vídeo)' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/apple/increible-historia-iphone-11-sigue-funcionando-estar-sumergido-lago-durante-semana-1210096'>La increíble historia de un iPhone 11 que sigue funcionando tras estar sumergido en un lago durante más de una semana</a></h4>
     <a href='https://computerhoy.com/apple/increible-historia-iphone-11-sigue-funcionando-estar-sumergido-lago-durante-semana-1210096' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/05/iphone-11-1949575.jpg?tf=1200x' alt='La increíble historia de un iPhone 11 que sigue funcionando tras estar sumergido en un lago durante más de una semana' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/cientificos-descubren-agregar-sal-pasta-momento-incorrecto-puede-ser-peligroso-salud-1210092'>Científicos descubren que agregar sal a la pasta en el momento incorrecto puede ser peligroso para la salud</a></h4>
-    <a href='https://computerhoy.com/life/cientificos-descubren-agregar-sal-pasta-momento-incorrecto-puede-ser-peligroso-salud-1210092' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/hervir-pasta-2974144.jpg?tf=1200x' alt='Científicos descubren que agregar sal a la pasta en el momento incorrecto puede ser peligroso para la salud' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/7-peliculas-tesis-cientificas-muy-locas-no-sostienen-ningun-modo-1208324'>7 películas con tesis científicas muy locas que no se sostienen de ningún modo</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/7-peliculas-tesis-cientificas-muy-locas-no-sostienen-ningun-modo-1208324' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/7-peliculas-tesis-cientificas-muy-locas-no-sostienen-ningun-modo-2972282.jpg?tf=1200x' alt='7 películas con tesis científicas muy locas que no se sostienen de ningún modo' />
     </a>
 </div>
 
