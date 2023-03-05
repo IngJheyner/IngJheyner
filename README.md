@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/antifaz-dormir-aporta-sorprendentes-beneficios-mentales-1209284'>Descubren que ponerse un antifaz para dormir aporta sorprendentes beneficios mentales</a></h4>
+    <a href='https://computerhoy.com/ciencia/antifaz-dormir-aporta-sorprendentes-beneficios-mentales-1209284' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/descubren-ponerse-antifaz-dormir-aporta-sorprendentes-beneficios-mentales-2972746.jpg?tf=1200x' alt='Descubren que ponerse un antifaz para dormir aporta sorprendentes beneficios mentales' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apps/ahora-google-chrome-te-dira-memoria-usan-cada-pestanas-navegador-1209828'>Ahora Google Chrome te dirá la memoria que usan cada una de las pestañas del navegador</a></h4>
     <a href='https://computerhoy.com/apps/ahora-google-chrome-te-dira-memoria-usan-cada-pestanas-navegador-1209828' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/google-chrome-2897360.jpg?tf=1200x' alt='Ahora Google Chrome te dirá la memoria que usan cada una de las pestañas del navegador' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/moviles/nuevo-color-no-te-esperarias-iphone-14-anunciaria-breve-1209796'>Un nuevo color que no te esperarías para el iPhone 14 se anunciaría en breve</a></h4>
     <a href='https://computerhoy.com/moviles/nuevo-color-no-te-esperarias-iphone-14-anunciaria-breve-1209796' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/iphone-11-2412889.jpg?tf=1200x' alt='Un nuevo color que no te esperarías para el iPhone 14 se anunciaría en breve' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/android/nuevo-ajuste-diseno-nueva-interfaz-pantalla-dividida-android-auto-1209794'>Este es el nuevo ajuste de diseño para la nueva interfaz de pantalla dividida de Android Auto</a></h4>
-    <a href='https://computerhoy.com/android/nuevo-ajuste-diseno-nueva-interfaz-pantalla-dividida-android-auto-1209794' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/android-auto-2973768.jpg?tf=1200x' alt='Este es el nuevo ajuste de diseño para la nueva interfaz de pantalla dividida de Android Auto' />
     </a>
 </div>
 
