@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/antifaz-dormir-aporta-sorprendentes-beneficios-mentales-1209284'>Descubren que ponerse un antifaz para dormir aporta sorprendentes beneficios mentales</a></h4>
-    <a href='https://computerhoy.com/ciencia/antifaz-dormir-aporta-sorprendentes-beneficios-mentales-1209284' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/descubren-ponerse-antifaz-dormir-aporta-sorprendentes-beneficios-mentales-2972746.jpg?tf=1200x' alt='Descubren que ponerse un antifaz para dormir aporta sorprendentes beneficios mentales' />
+    <h4><a href='https://computerhoy.com/tecnologia/son-mah-bateria-1191778'>¿Qué son los mAh de una batería?</a></h4>
+    <a href='https://computerhoy.com/tecnologia/son-mah-bateria-1191778' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/verticalimage1677921112596-2973630.jpg?tf=1200x' alt='¿Qué son los mAh de una batería?' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/ahora-google-chrome-te-dira-memoria-usan-cada-pestanas-navegador-1209828'>Ahora Google Chrome te dirá la memoria que usan cada una de las pestañas del navegador</a></h4>
-    <a href='https://computerhoy.com/apps/ahora-google-chrome-te-dira-memoria-usan-cada-pestanas-navegador-1209828' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/google-chrome-2897360.jpg?tf=1200x' alt='Ahora Google Chrome te dirá la memoria que usan cada una de las pestañas del navegador' />
+    <h4><a href='https://computerhoy.com/tecnologia/mejores-webs-descargar-aplicaciones-juegos-android-1206868'>Las mejores webs para descargar aplicaciones y juegos en Android </a></h4>
+    <a href='https://computerhoy.com/tecnologia/mejores-webs-descargar-aplicaciones-juegos-android-1206868' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/aplicaciones-android-2967838.jpg?tf=1200x' alt='Las mejores webs para descargar aplicaciones y juegos en Android ' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-realme-comprar-ofertas-838791'>Estos son los mejores móviles realme para comprar este año</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-realme-comprar-ofertas-838791' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/realme-gt-neo-3-analisis-opinion-2725597.jpg?tf=1200x' alt='Estos son los mejores móviles realme para comprar este año' />
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/aire-acondicionado-portatil-consejos-compra-451271'>Comprar un aire acondicionado portátil, ¿qué debemos tener en cuenta en 2023?</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/aire-acondicionado-portatil-consejos-compra-451271' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/aire-acondicionado-suntec-2426657.jpg?tf=1200x' alt='Comprar un aire acondicionado portátil, ¿qué debemos tener en cuenta en 2023?' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/sorprendente-declaracion-elon-musk-robots-humanoides-optimus-tesla-1209804'>La sorprendente declaración de Elon Musk sobre los robots humanoides Optimus de Tesla</a></h4>
-    <a href='https://computerhoy.com/ciencia/sorprendente-declaracion-elon-musk-robots-humanoides-optimus-tesla-1209804' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/optimus-tesla-2973778.jpg?tf=1200x' alt='La sorprendente declaración de Elon Musk sobre los robots humanoides Optimus de Tesla' />
+    <h4><a href='https://computerhoy.com/ciencia/crean-nueva-tecnologia-capaz-procesar-datos-tiempo-real-30-millones-coches-conectados-1209820'>Crean una nueva tecnología capaz de procesar datos en tiempo real de 30 millones de coches conectados</a></h4>
+    <a href='https://computerhoy.com/ciencia/crean-nueva-tecnologia-capaz-procesar-datos-tiempo-real-30-millones-coches-conectados-1209820' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/coches-conectados-2973872.jpg?tf=1200x' alt='Crean una nueva tecnología capaz de procesar datos en tiempo real de 30 millones de coches conectados' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/nuevo-color-no-te-esperarias-iphone-14-anunciaria-breve-1209796'>Un nuevo color que no te esperarías para el iPhone 14 se anunciaría en breve</a></h4>
-    <a href='https://computerhoy.com/moviles/nuevo-color-no-te-esperarias-iphone-14-anunciaria-breve-1209796' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/iphone-11-2412889.jpg?tf=1200x' alt='Un nuevo color que no te esperarías para el iPhone 14 se anunciaría en breve' />
+    <h4><a href='https://computerhoy.com/tutoriales/estas-son-formas-tienes-restablecer-fabrica-ordenador-windows-1202498'>Estas son las formas que tienes de restablecer a fábrica un ordenador Windows</a></h4>
+    <a href='https://computerhoy.com/tutoriales/estas-son-formas-tienes-restablecer-fabrica-ordenador-windows-1202498' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/windows-11-2960440.jpg?tf=1200x' alt='Estas son las formas que tienes de restablecer a fábrica un ordenador Windows' />
     </a>
 </div>
 
