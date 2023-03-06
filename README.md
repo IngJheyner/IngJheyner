@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/whatsapp-quiere-acabar-llamadas-desconocidos-1210652'>WhatsApp quiere acabar con las llamadas de desconocidos</a></h4>
+    <a href='https://computerhoy.com/apps/whatsapp-quiere-acabar-llamadas-desconocidos-1210652' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/whatsapp-2964384.jpg?tf=1200x' alt='WhatsApp quiere acabar con las llamadas de desconocidos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/redes-sociales/twitter-sufre-otra-caida-masiva-impide-ver-cualquier-enlace-1210720'>Twitter sufre otra caída masiva que impide ver cualquier enlace</a></h4>
+    <a href='https://computerhoy.com/redes-sociales/twitter-sufre-otra-caida-masiva-impide-ver-cualquier-enlace-1210720' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/bye-bye-bird-pajaro-raspberry-pi-suelta-lagrima-cada-vez-alguien-borra-twitter-2881713.jpg?tf=1200x' alt='Twitter sufre otra caída masiva que impide ver cualquier enlace' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-cursos-online-dominar-excel-1028973'>Cursos para conseguir ser nivel Dios en Microsoft Excel y que están totalmente en español</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-cursos-online-dominar-excel-1028973' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/mujer-utilizando-portatil-microsoft-excel-abierto-2974766.jpg?tf=1200x' alt='Cursos para conseguir ser nivel Dios en Microsoft Excel y que están totalmente en español' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/redes-sociales/elon-musk-quiere-twitter-sea-como-whatsapp-va-conseguir-1210650'>Elon Musk quiere que Twitter sea como WhatsApp y así lo va a conseguir</a></h4>
+    <a href='https://computerhoy.com/redes-sociales/elon-musk-quiere-twitter-sea-como-whatsapp-va-conseguir-1210650' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/elon-musk-quiere-twitter-parezca-signal-incluira-cifrado-mds-2878451.jpg?tf=1200x' alt='Elon Musk quiere que Twitter sea como WhatsApp y así lo va a conseguir' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tutoriales/como-acceder-menu-oculto-amazon-fire-tv-1210566'>Cómo acceder al menú oculto de los Amazon Fire TV</a></h4>
     <a href='https://computerhoy.com/tutoriales/como-acceder-menu-oculto-amazon-fire-tv-1210566' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/amazon-fire-tv-2975306.jpg?tf=1200x' alt='Cómo acceder al menú oculto de los Amazon Fire TV' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/crear-organos-impresion-3d-dentro-cuerpo-humano-nuevo-robot-ya-capaz-hacerlo-1210550'>Crear órganos con impresión 3D dentro del cuerpo humano: este nuevo robot ya es capaz de hacerlo</a></h4>
-    <a href='https://computerhoy.com/tecnologia/crear-organos-impresion-3d-dentro-cuerpo-humano-nuevo-robot-ya-capaz-hacerlo-1210550' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/bioimpresion-3d-dentro-cuerpo-humano-2974986.jpg?tf=1200x' alt='Crear órganos con impresión 3D dentro del cuerpo humano: este nuevo robot ya es capaz de hacerlo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/chatgpt-ha-creado-nuevo-sudoku-pasatiempos-creados-ia-1210474'>ChatGPT ha creado el nuevo Sudoku, pasatiempos creados por IA</a></h4>
-    <a href='https://computerhoy.com/tecnologia/chatgpt-ha-creado-nuevo-sudoku-pasatiempos-creados-ia-1210474' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/sudoku-chatgpt-2974920.jpg?tf=1200x' alt='ChatGPT ha creado el nuevo Sudoku, pasatiempos creados por IA' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/aire-acondicionado-barato-199-euros-envio-gratis-1209266'>El invierno se acaba: ahora es el momento de comprar un aire acondicionado si quieres ahorrar, y hay uno que cuesta solo 199 euros</a></h4>
-    <a href='https://computerhoy.com/tecnologia/aire-acondicionado-barato-199-euros-envio-gratis-1209266' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/valberg-ex-ac7-21-2972752.jpg?tf=1200x' alt='El invierno se acaba: ahora es el momento de comprar un aire acondicionado si quieres ahorrar, y hay uno que cuesta solo 199 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/apple-elimina-funciones-miticas-iphone-no-gustara-mucha-gente-1210410'>Apple elimina una de las funciones más míticas del iPhone y no gustará a mucha gente</a></h4>
-    <a href='https://computerhoy.com/apple/apple-elimina-funciones-miticas-iphone-no-gustara-mucha-gente-1210410' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/iphone-14-2903090.jpg?tf=1200x' alt='Apple elimina una de las funciones más míticas del iPhone y no gustará a mucha gente' />
     </a>
 </div>
 
