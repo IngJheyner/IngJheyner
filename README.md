@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/samsung-display-saca-pecho-conceptos-pantalla-plegable-mucho-mwc-2023-1209440'>Samsung Display saca pecho de sus conceptos de pantalla plegable y mucho más en MWC 2023</a></h4>
-    <a href='https://computerhoy.com/tecnologia/samsung-display-saca-pecho-conceptos-pantalla-plegable-mucho-mwc-2023-1209440' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/samsung-display-plegable-2974686.jpg?tf=1200x' alt='Samsung Display saca pecho de sus conceptos de pantalla plegable y mucho más en MWC 2023' />
+    <h4><a href='https://computerhoy.com/tecnologia/chatgpt-ha-creado-nuevo-sudoku-pasatiempos-creados-ia-1210474'>ChatGPT ha creado el nuevo Sudoku, pasatiempos creados por IA</a></h4>
+    <a href='https://computerhoy.com/tecnologia/chatgpt-ha-creado-nuevo-sudoku-pasatiempos-creados-ia-1210474' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/sudoku-chatgpt-2974920.jpg?tf=1200x' alt='ChatGPT ha creado el nuevo Sudoku, pasatiempos creados por IA' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/genial-truco-steve-jobs-conseguir-inversion-millonaria-gracias-coche-1210378'>El genial truco de Steve Jobs para conseguir una inversión millonaria gracias a su coche</a></h4>
-    <a href='https://computerhoy.com/apple/genial-truco-steve-jobs-conseguir-inversion-millonaria-gracias-coche-1210378' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/genial-truco-steve-jobs-conseguir-inversion-millonaria-gracias-coche-2974552.jpg?tf=1200x' alt='El genial truco de Steve Jobs para conseguir una inversión millonaria gracias a su coche' />
+    <h4><a href='https://computerhoy.com/tecnologia/aire-acondicionado-barato-199-euros-envio-gratis-1209266'>El invierno se acaba: ahora es el momento de comprar un aire acondicionado si quieres ahorrar, y hay uno que cuesta solo 199 euros</a></h4>
+    <a href='https://computerhoy.com/tecnologia/aire-acondicionado-barato-199-euros-envio-gratis-1209266' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/valberg-ex-ac7-21-2972752.jpg?tf=1200x' alt='El invierno se acaba: ahora es el momento de comprar un aire acondicionado si quieres ahorrar, y hay uno que cuesta solo 199 euros' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/audio/nothing-sorprende-mundo-altavoz-diseno-imposible-1210370'>Nothing sorprende al mundo con un altavoz de diseño imposible</a></h4>
-    <a href='https://computerhoy.com/audio/nothing-sorprende-mundo-altavoz-diseno-imposible-1210370' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/analisis-nothing-ear-stick-2856255.jpg?tf=1200x' alt='Nothing sorprende al mundo con un altavoz de diseño imposible' />
+    <h4><a href='https://computerhoy.com/apple/apple-elimina-funciones-miticas-iphone-no-gustara-mucha-gente-1210410'>Apple elimina una de las funciones más míticas del iPhone y no gustará a mucha gente</a></h4>
+    <a href='https://computerhoy.com/apple/apple-elimina-funciones-miticas-iphone-no-gustara-mucha-gente-1210410' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/iphone-14-2903090.jpg?tf=1200x' alt='Apple elimina una de las funciones más míticas del iPhone y no gustará a mucha gente' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/no-todo-chatgpt-nacimiento-ia-conversacional-chatbots-remonta-anos-atras-1203974'>¿Cuál es el origen de ChatGPT? El nacimiento de la IA conversacional y chatbots se remonta años atrás</a></h4>
-    <a href='https://computerhoy.com/tecnologia/no-todo-chatgpt-nacimiento-ia-conversacional-chatbots-remonta-anos-atras-1203974' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/no-todo-chatgpt-nacimiento-ia-conversacional-chatbots-remonta-anos-atras-2964366.jpg?tf=1200x' alt='¿Cuál es el origen de ChatGPT? El nacimiento de la IA conversacional y chatbots se remonta años atrás' />
+    <h4><a href='https://computerhoy.com/apple/proyecto-secreto-apple-monitorizar-glucosa-sangre-1210396'>Así es el proyecto secreto de Apple para monitorizar la glucosa en sangre</a></h4>
+    <a href='https://computerhoy.com/apple/proyecto-secreto-apple-monitorizar-glucosa-sangre-1210396' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/AppleWatchseries8analisisyopinion_1665613756756892.jpg?tf=1200x' alt='Así es el proyecto secreto de Apple para monitorizar la glucosa en sangre' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/moviles-baratos-usar-whatsapp-1043943'>5 móviles baratos para usar WhatsApp y poco más</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/moviles-baratos-usar-whatsapp-1043943' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/poco-c40-2972710.jpg?tf=1200x' alt='5 móviles baratos para usar WhatsApp y poco más' />
+    <h4><a href='https://computerhoy.com/tecnologia/movil-barato-xiaomi-redmi-10a-oferta-1210390'>Uno de los móviles más baratos de Xiaomi está aún más rebajado de precio: roza los 100 euros y tiene almacenamiento de sobra</a></h4>
+    <a href='https://computerhoy.com/tecnologia/movil-barato-xiaomi-redmi-10a-oferta-1210390' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/xiaomi-redmi-10a-2974548.jpg?tf=1200x' alt='Uno de los móviles más baratos de Xiaomi está aún más rebajado de precio: roza los 100 euros y tiene almacenamiento de sobra' />
     </a>
 </div>
 
