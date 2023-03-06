@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/espacio/sonda-juno-fotos-espectaculares-luna-io-jupiter-1210154'>La sonda Juno envía las fotos más espectaculares de la luna Ío de Júpiter</a></h4>
+    <a href='https://computerhoy.com/espacio/sonda-juno-fotos-espectaculares-luna-io-jupiter-1210154' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/sonda-juno-envia-fotos-espectaculares-detalladas-luna-io-jupiter-2974248.jpg?tf=1200x' alt='La sonda Juno envía las fotos más espectaculares de la luna Ío de Júpiter' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/gaming/tostadora-microsoft-xbox-series-s-toaster-1210150'>¿Está a punto de lanzar Microsoft la tostadora Xbox?</a></h4>
     <a href='https://computerhoy.com/gaming/tostadora-microsoft-xbox-series-s-toaster-1210150' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/punto-lanzar-microsoft-tostadora-xbox-2974238.jpg?tf=1200x' alt='¿Está a punto de lanzar Microsoft la tostadora Xbox?' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/life/mejores-cepillos-electricos-oral-b-1027235'>Cepillos eléctricos Oral-B: estos son los mejores modelos que puedes comprar</a></h4>
     <a href='https://computerhoy.com/reportajes/life/mejores-cepillos-electricos-oral-b-1027235' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/cepillo-dientes-electrico-oral-b-2643545.jpg?tf=1200x' alt='Cepillos eléctricos Oral-B: estos son los mejores modelos que puedes comprar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/mycanoe-solo-2-canoa-plegable-tecnicas-origami-maleta-video-1210046'>MyCanoe Solo 2, la canoa plegable con técnicas origami, que cabe en una maleta (vídeo)</a></h4>
-    <a href='https://computerhoy.com/life/mycanoe-solo-2-canoa-plegable-tecnicas-origami-maleta-video-1210046' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/verticalimage1677977725130-2973890.jpg?tf=1200x' alt='MyCanoe Solo 2, la canoa plegable con técnicas origami, que cabe en una maleta (vídeo)' />
     </a>
 </div>
 
