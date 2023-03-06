@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/amazon/como-acceder-menu-oculto-amazon-fire-tv-1210566'>Cómo acceder al menú oculto de los Amazon Fire TV</a></h4>
+    <a href='https://computerhoy.com/amazon/como-acceder-menu-oculto-amazon-fire-tv-1210566' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/review-amazon-fire-tv-stick-4k-max-2526589.jpg?tf=1200x' alt='Cómo acceder al menú oculto de los Amazon Fire TV' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/crear-organos-impresion-3d-dentro-cuerpo-humano-nuevo-robot-ya-capaz-hacerlo-1210550'>Crear órganos con impresión 3D dentro del cuerpo humano: este nuevo robot ya es capaz de hacerlo</a></h4>
+    <a href='https://computerhoy.com/tecnologia/crear-organos-impresion-3d-dentro-cuerpo-humano-nuevo-robot-ya-capaz-hacerlo-1210550' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/bioimpresion-3d-dentro-cuerpo-humano-2974986.jpg?tf=1200x' alt='Crear órganos con impresión 3D dentro del cuerpo humano: este nuevo robot ya es capaz de hacerlo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/chatgpt-ha-creado-nuevo-sudoku-pasatiempos-creados-ia-1210474'>ChatGPT ha creado el nuevo Sudoku, pasatiempos creados por IA</a></h4>
     <a href='https://computerhoy.com/tecnologia/chatgpt-ha-creado-nuevo-sudoku-pasatiempos-creados-ia-1210474' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/sudoku-chatgpt-2974920.jpg?tf=1200x' alt='ChatGPT ha creado el nuevo Sudoku, pasatiempos creados por IA' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/apple/apple-elimina-funciones-miticas-iphone-no-gustara-mucha-gente-1210410'>Apple elimina una de las funciones más míticas del iPhone y no gustará a mucha gente</a></h4>
     <a href='https://computerhoy.com/apple/apple-elimina-funciones-miticas-iphone-no-gustara-mucha-gente-1210410' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/iphone-14-2903090.jpg?tf=1200x' alt='Apple elimina una de las funciones más míticas del iPhone y no gustará a mucha gente' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/proyecto-secreto-apple-monitorizar-glucosa-sangre-1210396'>Así es el proyecto secreto de Apple para monitorizar la glucosa en sangre</a></h4>
-    <a href='https://computerhoy.com/apple/proyecto-secreto-apple-monitorizar-glucosa-sangre-1210396' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/AppleWatchseries8analisisyopinion_1665613756756892.jpg?tf=1200x' alt='Así es el proyecto secreto de Apple para monitorizar la glucosa en sangre' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/movil-barato-xiaomi-redmi-10a-oferta-1210390'>Uno de los móviles más baratos de Xiaomi está aún más rebajado de precio: roza los 100 euros y tiene almacenamiento de sobra</a></h4>
-    <a href='https://computerhoy.com/tecnologia/movil-barato-xiaomi-redmi-10a-oferta-1210390' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/xiaomi-redmi-10a-2974548.jpg?tf=1200x' alt='Uno de los móviles más baratos de Xiaomi está aún más rebajado de precio: roza los 100 euros y tiene almacenamiento de sobra' />
     </a>
 </div>
 
