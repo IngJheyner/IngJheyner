@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/35-noticias-tecnologia-comenzar-manana-informado-ultimo-1210348'>35 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
-    <a href='https://computerhoy.com/tecnologia/35-noticias-tecnologia-comenzar-manana-informado-ultimo-1210348' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/35-noticias-tecnologia-comenzar-manana-informado-ultimo-2974486.jpg?tf=1200x' alt='35 noticias de tecnología para comenzar la mañana informado de lo último' />
+    <h4><a href='https://computerhoy.com/tecnologia/samsung-display-saca-pecho-conceptos-pantalla-plegable-mucho-mwc-2023-1209440'>Samsung Display saca pecho de sus conceptos de pantalla plegable y mucho más en MWC 2023</a></h4>
+    <a href='https://computerhoy.com/tecnologia/samsung-display-saca-pecho-conceptos-pantalla-plegable-mucho-mwc-2023-1209440' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/samsung-display-plegable-2974686.jpg?tf=1200x' alt='Samsung Display saca pecho de sus conceptos de pantalla plegable y mucho más en MWC 2023' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/mejores/regalos-dia-del-padre-1210134'>Mejores regalos para el Día del Padre</a></h4>
-    <a href='https://computerhoy.com/mejores/regalos-dia-del-padre-1210134' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/padre-sujetando-brazos-bebe-mirando-ventana-2974226.jpg?tf=1200x' alt='Mejores regalos para el Día del Padre' />
+    <h4><a href='https://computerhoy.com/apple/genial-truco-steve-jobs-conseguir-inversion-millonaria-gracias-coche-1210378'>El genial truco de Steve Jobs para conseguir una inversión millonaria gracias a su coche</a></h4>
+    <a href='https://computerhoy.com/apple/genial-truco-steve-jobs-conseguir-inversion-millonaria-gracias-coche-1210378' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/genial-truco-steve-jobs-conseguir-inversion-millonaria-gracias-coche-2974552.jpg?tf=1200x' alt='El genial truco de Steve Jobs para conseguir una inversión millonaria gracias a su coche' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/sonda-juno-fotos-espectaculares-luna-io-jupiter-1210154'>La sonda Juno envía fotos espectaculares de la luna Ío de Júpiter</a></h4>
-    <a href='https://computerhoy.com/espacio/sonda-juno-fotos-espectaculares-luna-io-jupiter-1210154' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/sonda-juno-envia-fotos-espectaculares-detalladas-luna-io-jupiter-2974248.jpg?tf=1200x' alt='La sonda Juno envía fotos espectaculares de la luna Ío de Júpiter' />
+    <h4><a href='https://computerhoy.com/audio/nothing-sorprende-mundo-altavoz-diseno-imposible-1210370'>Nothing sorprende al mundo con un altavoz de diseño imposible</a></h4>
+    <a href='https://computerhoy.com/audio/nothing-sorprende-mundo-altavoz-diseno-imposible-1210370' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/analisis-nothing-ear-stick-2856255.jpg?tf=1200x' alt='Nothing sorprende al mundo con un altavoz de diseño imposible' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/gaming/tostadora-microsoft-xbox-series-s-toaster-1210150'>¿Está a punto de lanzar Microsoft la tostadora Xbox?</a></h4>
-    <a href='https://computerhoy.com/gaming/tostadora-microsoft-xbox-series-s-toaster-1210150' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/punto-lanzar-microsoft-tostadora-xbox-2974238.jpg?tf=1200x' alt='¿Está a punto de lanzar Microsoft la tostadora Xbox?' />
+    <h4><a href='https://computerhoy.com/tecnologia/no-todo-chatgpt-nacimiento-ia-conversacional-chatbots-remonta-anos-atras-1203974'>¿Cuál es el origen de ChatGPT? El nacimiento de la IA conversacional y chatbots se remonta años atrás</a></h4>
+    <a href='https://computerhoy.com/tecnologia/no-todo-chatgpt-nacimiento-ia-conversacional-chatbots-remonta-anos-atras-1203974' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/no-todo-chatgpt-nacimiento-ia-conversacional-chatbots-remonta-anos-atras-2964366.jpg?tf=1200x' alt='¿Cuál es el origen de ChatGPT? El nacimiento de la IA conversacional y chatbots se remonta años atrás' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/smartwatches/chatgpt-llega-relojes-inteligentes-amazfit-1210146'>ChatGPT llega a los relojes inteligentes de Amazfit</a></h4>
-    <a href='https://computerhoy.com/smartwatches/chatgpt-llega-relojes-inteligentes-amazfit-1210146' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/relojes-amazfit-chatgpt-2974232.jpg?tf=1200x' alt='ChatGPT llega a los relojes inteligentes de Amazfit' />
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/moviles-baratos-usar-whatsapp-1043943'>5 móviles baratos para usar WhatsApp y poco más</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/moviles-baratos-usar-whatsapp-1043943' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/poco-c40-2972710.jpg?tf=1200x' alt='5 móviles baratos para usar WhatsApp y poco más' />
     </a>
 </div>
 
