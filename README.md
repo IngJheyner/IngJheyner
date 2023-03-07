@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/5-herramientas-gratuitas-windows-11-debes-conocer-1210614'>5 herramientas gratuitas de Windows 11 que debes conocer</a></h4>
-    <a href='https://computerhoy.com/windows/5-herramientas-gratuitas-windows-11-debes-conocer-1210614' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/windows-11-2975202.jpg?tf=1200x' alt='5 herramientas gratuitas de Windows 11 que debes conocer' />
+    <h4><a href='https://computerhoy.com/windows/actualizacion-moment-2-windows-11-ya-real-estas-son-novedades-1211018'>La actualización Moment 2 de Windows 11 ya es real: estas son las novedades</a></h4>
+    <a href='https://computerhoy.com/windows/actualizacion-moment-2-windows-11-ya-real-estas-son-novedades-1211018' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/windows-11-moment-2-2975864.jpg?tf=1200x' alt='La actualización Moment 2 de Windows 11 ya es real: estas son las novedades' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/24-noticias-tecnologia-comenzar-manana-informado-ultimo-1210978'>24 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
-    <a href='https://computerhoy.com/tecnologia/24-noticias-tecnologia-comenzar-manana-informado-ultimo-1210978' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/24-noticias-tecnologia-comenzar-manana-informado-ultimo-2975794.jpg?tf=1200x' alt='24 noticias de tecnología para comenzar la mañana informado de lo último' />
+    <h4><a href='https://computerhoy.com/internet/mejora-velocidad-cobertura-wifi-gastar-euro-estos-trucos-consejos-1211024'>Mejora la velocidad y cobertura de tu WiFi sin gastar un euro con estos trucos y consejos</a></h4>
+    <a href='https://computerhoy.com/internet/mejora-velocidad-cobertura-wifi-gastar-euro-estos-trucos-consejos-1211024' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/como-mejorar-velocidad-cobertura-wifi-gastar-euro-2975950.jpg?tf=1200x' alt='Mejora la velocidad y cobertura de tu WiFi sin gastar un euro con estos trucos y consejos' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/puedes-forzar-chatgpt-3-trucos-genere-respuestas-malintencionadas-prohibidas-1210512'>Así puedes forzar a ChatGPT: 3 trucos para que genere respuestas malintencionadas y 'prohibidas'</a></h4>
-    <a href='https://computerhoy.com/tecnologia/puedes-forzar-chatgpt-3-trucos-genere-respuestas-malintencionadas-prohibidas-1210512' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/puedes-forzar-chatgpt-genere-respuestas-malintencionadas-2974930.jpg?tf=1200x' alt='Así puedes forzar a ChatGPT: 3 trucos para que genere respuestas malintencionadas y 'prohibidas'' />
+    <h4><a href='https://computerhoy.com/tutoriales/como-nos-enganan-ofertas-trabajo-falsas-1210674'>Cómo nos engañan con las ofertas de trabajo falsas</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-nos-enganan-ofertas-trabajo-falsas-1210674' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/mujer-enfadada-delante-ordenador-portatil-2975854.jpg?tf=1200x' alt='Cómo nos engañan con las ofertas de trabajo falsas' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/mejores/regalos-deporte-dia-del-padre-1210450'>Estos son los mejores regalos del Día del Padre para ponerse en forma</a></h4>
-    <a href='https://computerhoy.com/mejores/regalos-deporte-dia-del-padre-1210450' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/hombre-levantando-pesas-gimnasio-2975230.jpg?tf=1200x' alt='Estos son los mejores regalos del Día del Padre para ponerse en forma' />
+    <h4><a href='https://computerhoy.com/tecnologia/nothing-phone-oled-oferta-amazon-1210574'>Pantalla OLED a 120 Hz y un diseño original como pocos: este es uno de nuestros móviles favoritos, y ahora tiene 50 euros de descuento</a></h4>
+    <a href='https://computerhoy.com/tecnologia/nothing-phone-oled-oferta-amazon-1210574' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/nothing-phone-1-analisis-opinion-2772691.jpg?tf=1200x' alt='Pantalla OLED a 120 Hz y un diseño original como pocos: este es uno de nuestros móviles favoritos, y ahora tiene 50 euros de descuento' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/stil-purificador-agua-energia-solar-video-1210974'>Stil, el purificador de agua con energía solar que puede salvar a más de 1.000 niños al día (vídeo)</a></h4>
-    <a href='https://computerhoy.com/ciencia/stil-purificador-agua-energia-solar-video-1210974' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/verticalimage1678156151350-2975790.jpg?tf=1200x' alt='Stil, el purificador de agua con energía solar que puede salvar a más de 1.000 niños al día (vídeo)' />
+    <h4><a href='https://computerhoy.com/google/todo-cambia-ti-google-docs-2023-1210992'>Todo lo que cambia para ti en Google Docs 2023</a></h4>
+    <a href='https://computerhoy.com/google/todo-cambia-ti-google-docs-2023-1210992' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/google-docs-2906178.jpg?tf=1200x' alt='Todo lo que cambia para ti en Google Docs 2023' />
     </a>
 </div>
 
