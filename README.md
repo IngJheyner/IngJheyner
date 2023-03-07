@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/voice-scam-grabacion-voz-internet-borrala-inmediatamente-1210778'>Si tienes una grabación de tu voz en Internet, bórrala inmediatamente</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/voice-scam-grabacion-voz-internet-borrala-inmediatamente-1210778' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/tienes-grabacion-voz-internet-borrala-inmediatamente-2975518.jpg?tf=1200x' alt='Si tienes una grabación de tu voz en Internet, bórrala inmediatamente' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tv/televisor-qled-4k-hdr-43-pulgadas-solo-270-euros-1210776'>Si tienes 270 euros, es todo lo que necesitas para comprar un televisor QLED 4K HDR de 43 pulgadas</a></h4>
+    <a href='https://computerhoy.com/tv/televisor-qled-4k-hdr-43-pulgadas-solo-270-euros-1210776' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/tienes-270-euros-todo-necesitas-comprar-televisor-qled-4k-43-pulgadas-2975486.jpg?tf=1200x' alt='Si tienes 270 euros, es todo lo que necesitas para comprar un televisor QLED 4K HDR de 43 pulgadas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/entretenimiento/steven-spielberg-avistamientos-ovni-no-estamos-solos-universo-1210766'>Steven Spielberg dice que "no estamos solos en el universo", y opina sobre los recientes avistamientos OVNI</a></h4>
     <a href='https://computerhoy.com/entretenimiento/steven-spielberg-avistamientos-ovni-no-estamos-solos-universo-1210766' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/steven-spielberg-dice-no-estamos-solos-universo-opina-recientes-avistamientos-ovni-2975424.jpg?tf=1200x' alt='Steven Spielberg dice que "no estamos solos en el universo", y opina sobre los recientes avistamientos OVNI' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/life/estudio-advierte-riesgos-salud-tomar-cafe-oficina-1210758'>Un estudio advierte de los riesgos para la salud de tomar café en la oficina</a></h4>
     <a href='https://computerhoy.com/life/estudio-advierte-riesgos-salud-tomar-cafe-oficina-1210758' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/cafe-trabajo-2975444.jpg?tf=1200x' alt='Un estudio advierte de los riesgos para la salud de tomar café en la oficina' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/comportamiento-supermercado-te-define-como-mala-persona-podria-costarte-multa-1210678'>El comportamiento en el supermercado que te define como mala persona y podría costarte una multa</a></h4>
-    <a href='https://computerhoy.com/life/comportamiento-supermercado-te-define-como-mala-persona-podria-costarte-multa-1210678' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/carrito-compra-2747889.jpg?tf=1200x' alt='El comportamiento en el supermercado que te define como mala persona y podría costarte una multa' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/llegan-espana-logos-coche-iluminados-legal-podrias-ser-multado-1210676'>Llegan a España los logos del coche iluminados, ¿es legal o podrías ser multado?</a></h4>
-    <a href='https://computerhoy.com/motor/llegan-espana-logos-coche-iluminados-legal-podrias-ser-multado-1210676' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/llegan-espana-logos-coche-iluminados-legal-podrias-ser-multado-2975414.jpg?tf=1200x' alt='Llegan a España los logos del coche iluminados, ¿es legal o podrías ser multado?' />
     </a>
 </div>
 
