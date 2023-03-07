@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/actualizacion-moment-2-windows-11-ya-real-estas-son-novedades-1211018'>La actualización Moment 2 de Windows 11 ya es real: estas son las novedades</a></h4>
-    <a href='https://computerhoy.com/windows/actualizacion-moment-2-windows-11-ya-real-estas-son-novedades-1211018' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/windows-11-moment-2-2975864.jpg?tf=1200x' alt='La actualización Moment 2 de Windows 11 ya es real: estas son las novedades' />
+    <h4><a href='https://computerhoy.com/android/como-crear-gratis-propio-fire-tv-kodi-pc-antiguo-ya-no-uses-1211130'>Cómo crear gratis tu propio “Fire TV” con Kodi en un PC antiguo que ya no uses</a></h4>
+    <a href='https://computerhoy.com/android/como-crear-gratis-propio-fire-tv-kodi-pc-antiguo-ya-no-uses-1211130' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/kodi-viejo-ordenador-2976266.jpg?tf=1200x' alt='Cómo crear gratis tu propio “Fire TV” con Kodi en un PC antiguo que ya no uses' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/mejora-velocidad-cobertura-wifi-gastar-euro-estos-trucos-consejos-1211024'>Mejora la velocidad y cobertura de tu WiFi sin gastar un euro con estos trucos y consejos</a></h4>
-    <a href='https://computerhoy.com/internet/mejora-velocidad-cobertura-wifi-gastar-euro-estos-trucos-consejos-1211024' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/como-mejorar-velocidad-cobertura-wifi-gastar-euro-2975950.jpg?tf=1200x' alt='Mejora la velocidad y cobertura de tu WiFi sin gastar un euro con estos trucos y consejos' />
+    <h4><a href='https://computerhoy.com/ciencia/neurocientificos-confirman-teoria-100-anos-mejora-memoria-mientras-estudias-1211084'>Neurocientíficos confirman una teoría con más de 100 años que mejora la memoria mientras estudias</a></h4>
+    <a href='https://computerhoy.com/ciencia/neurocientificos-confirman-teoria-100-anos-mejora-memoria-mientras-estudias-1211084' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/mujer-pensando-2976284.jpg?tf=1200x' alt='Neurocientíficos confirman una teoría con más de 100 años que mejora la memoria mientras estudias' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-nos-enganan-ofertas-trabajo-falsas-1210674'>Cómo nos engañan con las ofertas de trabajo falsas</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-nos-enganan-ofertas-trabajo-falsas-1210674' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/mujer-enfadada-delante-ordenador-portatil-2975854.jpg?tf=1200x' alt='Cómo nos engañan con las ofertas de trabajo falsas' />
+    <h4><a href='https://computerhoy.com/alimentacion/ocu-alerta-excesivo-contenido-cafeina-algunos-cafes-molidos-supermercado-1211118'>La OCU alerta sobre el excesivo contenido de cafeína en algunos cafés molidos de supermercado</a></h4>
+    <a href='https://computerhoy.com/alimentacion/ocu-alerta-excesivo-contenido-cafeina-algunos-cafes-molidos-supermercado-1211118' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/ocu-alerta-excesivo-contenido-cafeina-algunos-cafes-molidos-supermercado-2976194.jpg?tf=1200x' alt='La OCU alerta sobre el excesivo contenido de cafeína en algunos cafés molidos de supermercado' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/nothing-phone-oled-oferta-amazon-1210574'>Pantalla OLED a 120 Hz y un diseño original como pocos: este es uno de nuestros móviles favoritos, y ahora tiene 50 euros de descuento</a></h4>
-    <a href='https://computerhoy.com/tecnologia/nothing-phone-oled-oferta-amazon-1210574' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/nothing-phone-1-analisis-opinion-2772691.jpg?tf=1200x' alt='Pantalla OLED a 120 Hz y un diseño original como pocos: este es uno de nuestros móviles favoritos, y ahora tiene 50 euros de descuento' />
+    <h4><a href='https://computerhoy.com/industria/rayo-plasma-abaratar-fabricacion-chips-semiconductores-1211054'>Un rayo de plasma para abaratar la fabricación de chips y semiconductores</a></h4>
+    <a href='https://computerhoy.com/industria/rayo-plasma-abaratar-fabricacion-chips-semiconductores-1211054' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/rayo-plasma-2976016.jpg?tf=1200x' alt='Un rayo de plasma para abaratar la fabricación de chips y semiconductores' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/todo-cambia-ti-google-docs-2023-1210992'>Todo lo que cambia para ti en Google Docs 2023</a></h4>
-    <a href='https://computerhoy.com/google/todo-cambia-ti-google-docs-2023-1210992' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/google-docs-2906178.jpg?tf=1200x' alt='Todo lo que cambia para ti en Google Docs 2023' />
+    <h4><a href='https://computerhoy.com/motor/patinete-electrico-barato-oferta-menos-300-euros-1211022'>Estrena patinete eléctrico por menos de 300 euros y con 18 km de batería para tu día a día</a></h4>
+    <a href='https://computerhoy.com/motor/patinete-electrico-barato-oferta-menos-300-euros-1211022' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/patinete-electrico-tx-03-2975846.jpg?tf=1200x' alt='Estrena patinete eléctrico por menos de 300 euros y con 18 km de batería para tu día a día' />
     </a>
 </div>
 
