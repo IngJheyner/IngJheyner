@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/streaming/mapa-mundial-streaming-te-ayudara-descubrir-puede-vivir-netflix-1211326'>El mapa mundial del streaming que te ayudará a descubrir que se puede vivir sin Netflix</a></h4>
+    <a href='https://computerhoy.com/streaming/mapa-mundial-streaming-te-ayudara-descubrir-puede-vivir-netflix-1211326' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/plataformas-streaming-2976692.jpg?tf=1200x' alt='El mapa mundial del streaming que te ayudará a descubrir que se puede vivir sin Netflix' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/estudio-revela-puestos-trabajo-opciones-ser-reemplazados-inteligencia-artificial-1211322'>Un estudio revela los puestos de trabajo con más opciones de ser reemplazados por la Inteligencia Artificial</a></h4>
+    <a href='https://computerhoy.com/ciencia/estudio-revela-puestos-trabajo-opciones-ser-reemplazados-inteligencia-artificial-1211322' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/inteligencia-artificial-2707953.jpg?tf=1200x' alt='Un estudio revela los puestos de trabajo con más opciones de ser reemplazados por la Inteligencia Artificial' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/streaming/molestos-anuncios-youtube-llegan-fin-pero-no-te-libraras-publicidad-1211236'>Los molestos anuncios de YouTube llegan a su fin, pero no te librarás de la publicidad</a></h4>
+    <a href='https://computerhoy.com/streaming/molestos-anuncios-youtube-llegan-fin-pero-no-te-libraras-publicidad-1211236' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/youtube-tv-2928346.jpg?tf=1200x' alt='Los molestos anuncios de YouTube llegan a su fin, pero no te librarás de la publicidad' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/llegan-whatsapp-grupos-fecha-caducidad-1211234'>Llegan a WhatsApp los grupos con fecha de caducidad</a></h4>
+    <a href='https://computerhoy.com/apps/llegan-whatsapp-grupos-fecha-caducidad-1211234' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/whatsapp-te-permitira-enviar-fotos-alta-calidad-2954084.jpg?tf=1200x' alt='Llegan a WhatsApp los grupos con fecha de caducidad' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/paso-a-paso/internet/como-descargar-videos-facebook-programas-39827'>Cómo descargar vídeos de Facebook en PC y móviles Android o iPhone</a></h4>
     <a href='https://computerhoy.com/paso-a-paso/internet/como-descargar-videos-facebook-programas-39827' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/facebook-meta-2976550.jpg?tf=1200x' alt='Cómo descargar vídeos de Facebook en PC y móviles Android o iPhone' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/solo-movil-consigue-plantarle-cara-iphone-ventas-no-ninguno-estas-pensando-1211230'>Solo un móvil consigue plantarle cara al iPhone en ventas (y no es ninguno de los que estás pensando)</a></h4>
-    <a href='https://computerhoy.com/moviles/solo-movil-consigue-plantarle-cara-iphone-ventas-no-ninguno-estas-pensando-1211230' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/apple-iphone-14-1677587572246-2969650.jpg?tf=1200x' alt='Solo un móvil consigue plantarle cara al iPhone en ventas (y no es ninguno de los que estás pensando)' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/mejores-ofertas-aniversario-pccomponentes-1211016'>Hasta un 60% de descuento en el Aniversario de PcComponentes: estas son sus mejores ofertas</a></h4>
-    <a href='https://computerhoy.com/tecnologia/mejores-ofertas-aniversario-pccomponentes-1211016' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/pccomponentes-2865443.jpg?tf=1200x' alt='Hasta un 60% de descuento en el Aniversario de PcComponentes: estas son sus mejores ofertas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/buenas-noticias-precios-discos-ssd-memorias-flash-estan-cayendo-picado-1211228'>Buenas noticias: los precios de los discos SSD y las memorias flash están cayendo en picado</a></h4>
-    <a href='https://computerhoy.com/pc/buenas-noticias-precios-discos-ssd-memorias-flash-estan-cayendo-picado-1211228' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/unidad-ssd-nvme-m2-instalada-torre-ordenador-2764077.jpg?tf=1200x' alt='Buenas noticias: los precios de los discos SSD y las memorias flash están cayendo en picado' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/apple-atreve-color-inesperado-iphone-14-14-plus-1211202'>Apple se atreve con un color inesperado para su iPhone 14 y 14 Plus</a></h4>
-    <a href='https://computerhoy.com/apple/apple-atreve-color-inesperado-iphone-14-14-plus-1211202' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/iphone-14-amarillo-2976364.jpg?tf=1200x' alt='Apple se atreve con un color inesperado para su iPhone 14 y 14 Plus' />
     </a>
 </div>
 
