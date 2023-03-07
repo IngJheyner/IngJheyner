@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/apple-atreve-color-inesperado-iphone-14-14-plus-1211202'>Apple se atreve con un color inesperado para su iPhone 14 y 14 Plus</a></h4>
+    <a href='https://computerhoy.com/apple/apple-atreve-color-inesperado-iphone-14-14-plus-1211202' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/iphone-14-amarillo-2976364.jpg?tf=1200x' alt='Apple se atreve con un color inesperado para su iPhone 14 y 14 Plus' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/capacidades-chatgpt-son-tan-brutales-ya-utiliza-ganar-poker-1211186'>Las capacidades de ChatGPT son tan brutales que ya se utiliza hasta para ganar al póker</a></h4>
+    <a href='https://computerhoy.com/tecnologia/capacidades-chatgpt-son-tan-brutales-ya-utiliza-ganar-poker-1211186' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/capacidades-chatgpt-son-tan-brutales-ya-utiliza-ganar-poker-2976344.jpg?tf=1200x' alt='Las capacidades de ChatGPT son tan brutales que ya se utiliza hasta para ganar al póker' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/android/como-crear-gratis-propio-fire-tv-kodi-pc-antiguo-ya-no-uses-1211130'>Cómo crear gratis tu propio “Fire TV” con Kodi en un PC antiguo que ya no uses</a></h4>
     <a href='https://computerhoy.com/android/como-crear-gratis-propio-fire-tv-kodi-pc-antiguo-ya-no-uses-1211130' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/kodi-viejo-ordenador-2976266.jpg?tf=1200x' alt='Cómo crear gratis tu propio “Fire TV” con Kodi en un PC antiguo que ya no uses' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/alimentacion/ocu-alerta-excesivo-contenido-cafeina-algunos-cafes-molidos-supermercado-1211118'>La OCU alerta sobre el excesivo contenido de cafeína en algunos cafés molidos de supermercado</a></h4>
     <a href='https://computerhoy.com/alimentacion/ocu-alerta-excesivo-contenido-cafeina-algunos-cafes-molidos-supermercado-1211118' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/ocu-alerta-excesivo-contenido-cafeina-algunos-cafes-molidos-supermercado-2976194.jpg?tf=1200x' alt='La OCU alerta sobre el excesivo contenido de cafeína en algunos cafés molidos de supermercado' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/industria/rayo-plasma-abaratar-fabricacion-chips-semiconductores-1211054'>Un rayo de plasma para abaratar la fabricación de chips y semiconductores</a></h4>
-    <a href='https://computerhoy.com/industria/rayo-plasma-abaratar-fabricacion-chips-semiconductores-1211054' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/rayo-plasma-2976016.jpg?tf=1200x' alt='Un rayo de plasma para abaratar la fabricación de chips y semiconductores' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/patinete-electrico-barato-oferta-menos-300-euros-1211022'>Estrena patinete eléctrico por menos de 300 euros y con 18 km de batería para tu día a día</a></h4>
-    <a href='https://computerhoy.com/motor/patinete-electrico-barato-oferta-menos-300-euros-1211022' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/patinete-electrico-tx-03-2975846.jpg?tf=1200x' alt='Estrena patinete eléctrico por menos de 300 euros y con 18 km de batería para tu día a día' />
     </a>
 </div>
 
