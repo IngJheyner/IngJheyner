@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/paso-a-paso/internet/como-descargar-videos-facebook-programas-39827'>Cómo descargar vídeos de Facebook en PC y móviles Android o iPhone</a></h4>
+    <a href='https://computerhoy.com/paso-a-paso/internet/como-descargar-videos-facebook-programas-39827' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/facebook-meta-2976550.jpg?tf=1200x' alt='Cómo descargar vídeos de Facebook en PC y móviles Android o iPhone' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/moviles/solo-movil-consigue-plantarle-cara-iphone-ventas-no-ninguno-estas-pensando-1211230'>Solo un móvil consigue plantarle cara al iPhone en ventas (y no es ninguno de los que estás pensando)</a></h4>
+    <a href='https://computerhoy.com/moviles/solo-movil-consigue-plantarle-cara-iphone-ventas-no-ninguno-estas-pensando-1211230' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/apple-iphone-14-1677587572246-2969650.jpg?tf=1200x' alt='Solo un móvil consigue plantarle cara al iPhone en ventas (y no es ninguno de los que estás pensando)' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/mejores-ofertas-aniversario-pccomponentes-1211016'>Hasta un 60% de descuento en el Aniversario de PcComponentes: estas son sus mejores ofertas</a></h4>
+    <a href='https://computerhoy.com/tecnologia/mejores-ofertas-aniversario-pccomponentes-1211016' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/pccomponentes-2865443.jpg?tf=1200x' alt='Hasta un 60% de descuento en el Aniversario de PcComponentes: estas son sus mejores ofertas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/pc/buenas-noticias-precios-discos-ssd-memorias-flash-estan-cayendo-picado-1211228'>Buenas noticias: los precios de los discos SSD y las memorias flash están cayendo en picado</a></h4>
+    <a href='https://computerhoy.com/pc/buenas-noticias-precios-discos-ssd-memorias-flash-estan-cayendo-picado-1211228' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/unidad-ssd-nvme-m2-instalada-torre-ordenador-2764077.jpg?tf=1200x' alt='Buenas noticias: los precios de los discos SSD y las memorias flash están cayendo en picado' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apple/apple-atreve-color-inesperado-iphone-14-14-plus-1211202'>Apple se atreve con un color inesperado para su iPhone 14 y 14 Plus</a></h4>
     <a href='https://computerhoy.com/apple/apple-atreve-color-inesperado-iphone-14-14-plus-1211202' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/iphone-14-amarillo-2976364.jpg?tf=1200x' alt='Apple se atreve con un color inesperado para su iPhone 14 y 14 Plus' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/capacidades-chatgpt-son-tan-brutales-ya-utiliza-ganar-poker-1211186'>Las capacidades de ChatGPT son tan brutales que ya se utiliza hasta para ganar al póker</a></h4>
-    <a href='https://computerhoy.com/tecnologia/capacidades-chatgpt-son-tan-brutales-ya-utiliza-ganar-poker-1211186' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/capacidades-chatgpt-son-tan-brutales-ya-utiliza-ganar-poker-2976344.jpg?tf=1200x' alt='Las capacidades de ChatGPT son tan brutales que ya se utiliza hasta para ganar al póker' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/android/como-crear-gratis-propio-fire-tv-kodi-pc-antiguo-ya-no-uses-1211130'>Cómo crear gratis tu propio “Fire TV” con Kodi en un PC antiguo que ya no uses</a></h4>
-    <a href='https://computerhoy.com/android/como-crear-gratis-propio-fire-tv-kodi-pc-antiguo-ya-no-uses-1211130' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/kodi-viejo-ordenador-2976266.jpg?tf=1200x' alt='Cómo crear gratis tu propio “Fire TV” con Kodi en un PC antiguo que ya no uses' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/neurocientificos-confirman-teoria-100-anos-mejora-memoria-mientras-estudias-1211084'>Neurocientíficos confirman una teoría con más de 100 años que mejora la memoria mientras estudias</a></h4>
-    <a href='https://computerhoy.com/ciencia/neurocientificos-confirman-teoria-100-anos-mejora-memoria-mientras-estudias-1211084' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/mujer-pensando-2976284.jpg?tf=1200x' alt='Neurocientíficos confirman una teoría con más de 100 años que mejora la memoria mientras estudias' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/alimentacion/ocu-alerta-excesivo-contenido-cafeina-algunos-cafes-molidos-supermercado-1211118'>La OCU alerta sobre el excesivo contenido de cafeína en algunos cafés molidos de supermercado</a></h4>
-    <a href='https://computerhoy.com/alimentacion/ocu-alerta-excesivo-contenido-cafeina-algunos-cafes-molidos-supermercado-1211118' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/ocu-alerta-excesivo-contenido-cafeina-algunos-cafes-molidos-supermercado-2976194.jpg?tf=1200x' alt='La OCU alerta sobre el excesivo contenido de cafeína en algunos cafés molidos de supermercado' />
     </a>
 </div>
 
