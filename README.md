@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/fundador-tesla-no-habla-elon-musk-hace-14-anos-opina-autopilot-1210972'>Por qué el fundador de Tesla no se habla con Elon Musk desde hace 14 años, y lo que opina del Autopilot</a></h4>
-    <a href='https://computerhoy.com/motor/fundador-tesla-no-habla-elon-musk-hace-14-anos-opina-autopilot-1210972' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/fundador-tesla-no-habla-elon-musk-hace-14-anos-opina-auto-pilot-2975534.jpg?tf=1200x' alt='Por qué el fundador de Tesla no se habla con Elon Musk desde hace 14 años, y lo que opina del Autopilot' />
+    <h4><a href='https://computerhoy.com/windows/5-herramientas-gratuitas-windows-11-debes-conocer-1210614'>5 herramientas gratuitas de Windows 11 que debes conocer</a></h4>
+    <a href='https://computerhoy.com/windows/5-herramientas-gratuitas-windows-11-debes-conocer-1210614' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/windows-11-2975202.jpg?tf=1200x' alt='5 herramientas gratuitas de Windows 11 que debes conocer' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/voice-scam-grabacion-voz-internet-borrala-inmediatamente-1210778'>Si tienes una grabación de tu voz en Internet, bórrala inmediatamente</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/voice-scam-grabacion-voz-internet-borrala-inmediatamente-1210778' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/tienes-grabacion-voz-internet-borrala-inmediatamente-2975518.jpg?tf=1200x' alt='Si tienes una grabación de tu voz en Internet, bórrala inmediatamente' />
+    <h4><a href='https://computerhoy.com/tecnologia/24-noticias-tecnologia-comenzar-manana-informado-ultimo-1210978'>24 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
+    <a href='https://computerhoy.com/tecnologia/24-noticias-tecnologia-comenzar-manana-informado-ultimo-1210978' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/24-noticias-tecnologia-comenzar-manana-informado-ultimo-2975794.jpg?tf=1200x' alt='24 noticias de tecnología para comenzar la mañana informado de lo último' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tv/televisor-qled-4k-hdr-43-pulgadas-solo-270-euros-1210776'>Si tienes 270 euros, es todo lo que necesitas para comprar un televisor QLED 4K HDR de 43 pulgadas</a></h4>
-    <a href='https://computerhoy.com/tv/televisor-qled-4k-hdr-43-pulgadas-solo-270-euros-1210776' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/tienes-270-euros-todo-necesitas-comprar-televisor-qled-4k-43-pulgadas-2975486.jpg?tf=1200x' alt='Si tienes 270 euros, es todo lo que necesitas para comprar un televisor QLED 4K HDR de 43 pulgadas' />
+    <h4><a href='https://computerhoy.com/tecnologia/puedes-forzar-chatgpt-3-trucos-genere-respuestas-malintencionadas-prohibidas-1210512'>Así puedes forzar a ChatGPT: 3 trucos para que genere respuestas malintencionadas y 'prohibidas'</a></h4>
+    <a href='https://computerhoy.com/tecnologia/puedes-forzar-chatgpt-3-trucos-genere-respuestas-malintencionadas-prohibidas-1210512' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/puedes-forzar-chatgpt-genere-respuestas-malintencionadas-2974930.jpg?tf=1200x' alt='Así puedes forzar a ChatGPT: 3 trucos para que genere respuestas malintencionadas y 'prohibidas'' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/steven-spielberg-avistamientos-ovni-no-estamos-solos-universo-1210766'>Steven Spielberg dice que "no estamos solos en el universo", y opina sobre los recientes avistamientos OVNI</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/steven-spielberg-avistamientos-ovni-no-estamos-solos-universo-1210766' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/steven-spielberg-dice-no-estamos-solos-universo-opina-recientes-avistamientos-ovni-2975424.jpg?tf=1200x' alt='Steven Spielberg dice que "no estamos solos en el universo", y opina sobre los recientes avistamientos OVNI' />
+    <h4><a href='https://computerhoy.com/mejores/regalos-deporte-dia-del-padre-1210450'>Estos son los mejores regalos del Día del Padre para ponerse en forma</a></h4>
+    <a href='https://computerhoy.com/mejores/regalos-deporte-dia-del-padre-1210450' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/hombre-levantando-pesas-gimnasio-2975230.jpg?tf=1200x' alt='Estos son los mejores regalos del Día del Padre para ponerse en forma' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/convirtio-persona-rica-mundo-durante-tan-solo-2-minutos-1210764'>Se convirtió en la persona más rica del mundo durante tan solo 2 minutos</a></h4>
-    <a href='https://computerhoy.com/life/convirtio-persona-rica-mundo-durante-tan-solo-2-minutos-1210764' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/ser-rico-2975478.jpg?tf=1200x' alt='Se convirtió en la persona más rica del mundo durante tan solo 2 minutos' />
+    <h4><a href='https://computerhoy.com/ciencia/stil-purificador-agua-energia-solar-video-1210974'>Stil, el purificador de agua con energía solar que puede salvar a más de 1.000 niños al día (vídeo)</a></h4>
+    <a href='https://computerhoy.com/ciencia/stil-purificador-agua-energia-solar-video-1210974' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/verticalimage1678156151350-2975790.jpg?tf=1200x' alt='Stil, el purificador de agua con energía solar que puede salvar a más de 1.000 niños al día (vídeo)' />
     </a>
 </div>
 
