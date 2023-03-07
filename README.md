@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/motor/fundador-tesla-no-habla-elon-musk-hace-14-anos-opina-autopilot-1210972'>Por qué el fundador de Tesla no se habla con Elon Musk desde hace 14 años, y lo que opina del Autopilot</a></h4>
+    <a href='https://computerhoy.com/motor/fundador-tesla-no-habla-elon-musk-hace-14-anos-opina-autopilot-1210972' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/fundador-tesla-no-habla-elon-musk-hace-14-anos-opina-auto-pilot-2975534.jpg?tf=1200x' alt='Por qué el fundador de Tesla no se habla con Elon Musk desde hace 14 años, y lo que opina del Autopilot' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciberseguridad/voice-scam-grabacion-voz-internet-borrala-inmediatamente-1210778'>Si tienes una grabación de tu voz en Internet, bórrala inmediatamente</a></h4>
     <a href='https://computerhoy.com/ciberseguridad/voice-scam-grabacion-voz-internet-borrala-inmediatamente-1210778' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/tienes-grabacion-voz-internet-borrala-inmediatamente-2975518.jpg?tf=1200x' alt='Si tienes una grabación de tu voz en Internet, bórrala inmediatamente' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/life/convirtio-persona-rica-mundo-durante-tan-solo-2-minutos-1210764'>Se convirtió en la persona más rica del mundo durante tan solo 2 minutos</a></h4>
     <a href='https://computerhoy.com/life/convirtio-persona-rica-mundo-durante-tan-solo-2-minutos-1210764' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/ser-rico-2975478.jpg?tf=1200x' alt='Se convirtió en la persona más rica del mundo durante tan solo 2 minutos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/estudio-advierte-riesgos-salud-tomar-cafe-oficina-1210758'>Un estudio advierte de los riesgos para la salud de tomar café en la oficina</a></h4>
-    <a href='https://computerhoy.com/life/estudio-advierte-riesgos-salud-tomar-cafe-oficina-1210758' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/cafe-trabajo-2975444.jpg?tf=1200x' alt='Un estudio advierte de los riesgos para la salud de tomar café en la oficina' />
     </a>
 </div>
 
