@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/lista-robinson-todos-pasos-apuntarse-evitar-publicidad-no-deseada-1211138'>Lista Robinson: todos los pasos para apuntarse y evitar la publicidad no deseada</a></h4>
-    <a href='https://computerhoy.com/tutoriales/lista-robinson-todos-pasos-apuntarse-evitar-publicidad-no-deseada-1211138' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/hombre-enfadado-chillandole-movil-2977008.jpg?tf=1200x' alt='Lista Robinson: todos los pasos para apuntarse y evitar la publicidad no deseada' />
+    <h4><a href='https://computerhoy.com/windows/powertoys-herramienta-indispensable-windows-actualiza-nuevas-funciones-1211706'>PowerToys la herramienta indispensable para Windows se actualiza con nuevas funciones</a></h4>
+    <a href='https://computerhoy.com/windows/powertoys-herramienta-indispensable-windows-actualiza-nuevas-funciones-1211706' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/powertoys-2977156.jpg?tf=1200x' alt='PowerToys la herramienta indispensable para Windows se actualiza con nuevas funciones' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/audio/auriculares-google-ahora-te-siguen-movimientos-cabeza-darte-audio-espacial-1211606'>Los auriculares de Google ahora te siguen los movimientos de la cabeza para darte audio espacial</a></h4>
-    <a href='https://computerhoy.com/audio/auriculares-google-ahora-te-siguen-movimientos-cabeza-darte-audio-espacial-1211606' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/analisis-pixel-buds-pro-2778309.jpg?tf=1200x' alt='Los auriculares de Google ahora te siguen los movimientos de la cabeza para darte audio espacial' />
+    <h4><a href='https://computerhoy.com/google/esperamos-conferencia-google-i-2023-mayo-mucha-ia-android-1211676'>Qué esperamos de la conferencia Google I/O 2023 de mayo: mucha IA, Android y más</a></h4>
+    <a href='https://computerhoy.com/google/esperamos-conferencia-google-i-2023-mayo-mucha-ia-android-1211676' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/google-i-2023-2977082.jpg?tf=1200x' alt='Qué esperamos de la conferencia Google I/O 2023 de mayo: mucha IA, Android y más' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/streaming/netflix-mundo-diferencia-suscripcion-cara-barata-abismal-1211612'>Netflix por el mundo: la diferencia entre la suscripción más cara y más barata es abismal</a></h4>
-    <a href='https://computerhoy.com/streaming/netflix-mundo-diferencia-suscripcion-cara-barata-abismal-1211612' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/netflix-mundo-diferencia-suscripcion-cara-barata-abismal-2976988.jpg?tf=1200x' alt='Netflix por el mundo: la diferencia entre la suscripción más cara y más barata es abismal' />
+    <h4><a href='https://computerhoy.com/life/como-prevenir-riesgo-incendio-cocinar-freidora-aire-1211626'>Cómo prevenir el riesgo de incendio al cocinar con una freidora de aire</a></h4>
+    <a href='https://computerhoy.com/life/como-prevenir-riesgo-incendio-cocinar-freidora-aire-1211626' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/como-prevenir-mayor-peligro-cocinar-freidora-aire-riesgo-incendio-2977024.jpg?tf=1200x' alt='Cómo prevenir el riesgo de incendio al cocinar con una freidora de aire' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/amazon/televisores-32-pulgadas-debes-tener-cuenta-cuales-son-mejores-1208768'>Televisores de 32 pulgadas: qué debes tener en cuenta y cuáles son los mejores</a></h4>
-    <a href='https://computerhoy.com/amazon/televisores-32-pulgadas-debes-tener-cuenta-cuales-son-mejores-1208768' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/xiaomi-tv-a2-2740321.jpg?tf=1200x' alt='Televisores de 32 pulgadas: qué debes tener en cuenta y cuáles son los mejores' />
+    <h4><a href='https://computerhoy.com/tutoriales/como-nos-enganan-potencia-procesadores-1211308'>Cómo nos engañan con la potencia de los procesadores</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-nos-enganan-potencia-procesadores-1211308' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/procesador-intel-2976324.jpg?tf=1200x' alt='Cómo nos engañan con la potencia de los procesadores' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/22-noticias-tecnologia-comenzar-manana-informado-ultimo-1211588'>22 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
-    <a href='https://computerhoy.com/tecnologia/22-noticias-tecnologia-comenzar-manana-informado-ultimo-1211588' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/23-noticias-tecnologia-comenzar-manana-informado-ultimo-2976942.jpg?tf=1200x' alt='22 noticias de tecnología para comenzar la mañana informado de lo último' />
+    <h4><a href='https://computerhoy.com/tecnologia/mini-pc-ryzen-7-oferta-1211036'>Ryzen 7 y 16 GB de RAM en un Mini PC que lo tiene casi todo, incluido un precio verdaderamente barato</a></h4>
+    <a href='https://computerhoy.com/tecnologia/mini-pc-ryzen-7-oferta-1211036' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/chuwi-rzbox-2955014.jpg?tf=1200x' alt='Ryzen 7 y 16 GB de RAM en un Mini PC que lo tiene casi todo, incluido un precio verdaderamente barato' />
     </a>
 </div>
 
