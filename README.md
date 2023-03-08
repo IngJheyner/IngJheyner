@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/amazon/falacia-coste-irrecuperable-como-amazon-nos-engana-compremos-1211806'>La falacia del coste irrecuperable o cómo Amazon nos engaña para que compremos más</a></h4>
+    <a href='https://computerhoy.com/amazon/falacia-coste-irrecuperable-como-amazon-nos-engana-compremos-1211806' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/logo-amazon-invertido-2969060.jpg?tf=1200x' alt='La falacia del coste irrecuperable o cómo Amazon nos engaña para que compremos más' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/paso-a-paso/internet/como-configurar-tu-red-inalambrica-wifi-tu-router-correctamente-70761'>Cómo configurar tu red inalámbrica WiFi en tu router correctamente</a></h4>
+    <a href='https://computerhoy.com/paso-a-paso/internet/como-configurar-tu-red-inalambrica-wifi-tu-router-correctamente-70761' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/router-wifi-2623703.jpg?tf=1200x' alt='Cómo configurar tu red inalámbrica WiFi en tu router correctamente' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/life/que-lavadora-secadora-me-compro-1000455'>Qué lavadora secadora me compro: 5 modelos de Samsung, Bosch y otras marcas que merecen la pena</a></h4>
+    <a href='https://computerhoy.com/reportajes/life/que-lavadora-secadora-me-compro-1000455' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/hombre-cargando-lavadora-pijama-2917840.jpg?tf=1200x' alt='Qué lavadora secadora me compro: 5 modelos de Samsung, Bosch y otras marcas que merecen la pena' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/gaming/hobby-premios-lista-completa-ganadores-1211332'>LG, MSI y Razer, reconocidos por los lectores en los Hobby Premios 2022</a></h4>
+    <a href='https://computerhoy.com/gaming/hobby-premios-lista-completa-ganadores-1211332' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/hobby-premios-2022-2977430.jpg?tf=1200x' alt='LG, MSI y Razer, reconocidos por los lectores en los Hobby Premios 2022' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/streaming/skyshowtime-tiene-problemas-low-cost-parece-no-solo-precio-1211804'>SkyShowtime tiene problemas y el low cost parece que no es sólo por su precio</a></h4>
     <a href='https://computerhoy.com/streaming/skyshowtime-tiene-problemas-low-cost-parece-no-solo-precio-1211804' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/llega-espana-skyshowtime-plataforma-streaming-paramount-universal-2925134.jpg?tf=1200x' alt='SkyShowtime tiene problemas y el low cost parece que no es sólo por su precio' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/como-protegen-bancos-informacion-1211020'>¿Cómo protegen los bancos nuestra información?</a></h4>
-    <a href='https://computerhoy.com/tecnologia/como-protegen-bancos-informacion-1211020' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/banco-2975796.jpg?tf=1200x' alt='¿Cómo protegen los bancos nuestra información?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-usar-recortes-grabar-pantalla-windows-1194098'>Cómo usar Recortes para grabar tu pantalla en Windows</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-usar-recortes-grabar-pantalla-windows-1194098' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/herramienta-recortes-windows-11-2944646.jpg?tf=1200x' alt='Cómo usar Recortes para grabar tu pantalla en Windows' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/google-quiere-bateria-ordenador-dure-aconseja-copiar-barra-direcciones-1211788'>Google quiere que la batería de tu ordenador dure más y aconseja copiar esto en la barra de direcciones</a></h4>
-    <a href='https://computerhoy.com/google/google-quiere-bateria-ordenador-dure-aconseja-copiar-barra-direcciones-1211788' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/google-quiere-bateria-ordenador-dure-aconseja-copiar-barra-direcciones-2977316.jpg?tf=1200x' alt='Google quiere que la batería de tu ordenador dure más y aconseja copiar esto en la barra de direcciones' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/amazon/trucos-ocultos-amazon-fire-tv-deberias-conocer-1211792'>Trucos ocultos de tu Amazon Fire TV que deberías conocer</a></h4>
-    <a href='https://computerhoy.com/amazon/trucos-ocultos-amazon-fire-tv-deberias-conocer-1211792' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/amazon-fire-tv-2977426.jpg?tf=1200x' alt='Trucos ocultos de tu Amazon Fire TV que deberías conocer' />
     </a>
 </div>
 
