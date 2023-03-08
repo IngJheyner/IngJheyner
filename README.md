@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/streaming/skyshowtime-tiene-problemas-low-cost-parece-no-solo-precio-1211804'>SkyShowtime tiene problemas y el low cost parece que no es sólo por su precio</a></h4>
+    <a href='https://computerhoy.com/streaming/skyshowtime-tiene-problemas-low-cost-parece-no-solo-precio-1211804' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/llega-espana-skyshowtime-plataforma-streaming-paramount-universal-2925134.jpg?tf=1200x' alt='SkyShowtime tiene problemas y el low cost parece que no es sólo por su precio' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/como-protegen-bancos-informacion-1211020'>¿Cómo protegen los bancos nuestra información?</a></h4>
+    <a href='https://computerhoy.com/tecnologia/como-protegen-bancos-informacion-1211020' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/banco-2975796.jpg?tf=1200x' alt='¿Cómo protegen los bancos nuestra información?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tutoriales/como-usar-recortes-grabar-pantalla-windows-1194098'>Cómo usar Recortes para grabar tu pantalla en Windows</a></h4>
     <a href='https://computerhoy.com/tutoriales/como-usar-recortes-grabar-pantalla-windows-1194098' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/herramienta-recortes-windows-11-2944646.jpg?tf=1200x' alt='Cómo usar Recortes para grabar tu pantalla en Windows' />
@@ -68,23 +84,7 @@
 <div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/amazon/trucos-ocultos-amazon-fire-tv-deberias-conocer-1211792'>Trucos ocultos de tu Amazon Fire TV que deberías conocer</a></h4>
     <a href='https://computerhoy.com/amazon/trucos-ocultos-amazon-fire-tv-deberias-conocer-1211792' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/analisis-fire-tv-stick-4k-max-2526575.jpg?tf=1200x' alt='Trucos ocultos de tu Amazon Fire TV que deberías conocer' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/lidl-alerta-poblacion-retira-urgentemente-productos-riesgo-listeria-1211714'>Lidl alerta a la población y retira urgentemente de uno de sus productos por riesgo de Listeria</a></h4>
-    <a href='https://computerhoy.com/life/lidl-alerta-poblacion-retira-urgentemente-productos-riesgo-listeria-1211714' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/lidl-alerta-poblacion-retira-urgentemente-productos-riesgo-listeria-2977306.jpg?tf=1200x' alt='Lidl alerta a la población y retira urgentemente de uno de sus productos por riesgo de Listeria' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/simulador-jubilacion-como-saber-cuanto-te-va-quedar-1211666'>Simulador de jubilación: cómo saber cuál es la pensión que te va a quedar</a></h4>
-    <a href='https://computerhoy.com/life/simulador-jubilacion-como-saber-cuanto-te-va-quedar-1211666' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/simulador-jubilacion-como-saber-cuanto-te-va-quedar-2977246.jpg?tf=1200x' alt='Simulador de jubilación: cómo saber cuál es la pensión que te va a quedar' />
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/amazon-fire-tv-2977426.jpg?tf=1200x' alt='Trucos ocultos de tu Amazon Fire TV que deberías conocer' />
     </a>
 </div>
 
