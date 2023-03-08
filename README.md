@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/amazon/falacia-coste-irrecuperable-como-amazon-nos-engana-compremos-1211806'>La falacia del coste irrecuperable o cómo Amazon nos engaña para que compremos más</a></h4>
-    <a href='https://computerhoy.com/amazon/falacia-coste-irrecuperable-como-amazon-nos-engana-compremos-1211806' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/logo-amazon-invertido-2969060.jpg?tf=1200x' alt='La falacia del coste irrecuperable o cómo Amazon nos engaña para que compremos más' />
+    <h4><a href='https://computerhoy.com/hogar/frigorifico-americano-barato-valberg-alarma-puerta-abierta-no-frost-1211940'>Este frigorífico americano con alarma de puerta abierta y No Frost, tiene un precio muy interesante</a></h4>
+    <a href='https://computerhoy.com/hogar/frigorifico-americano-barato-valberg-alarma-puerta-abierta-no-frost-1211940' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/frigorifico-americano-alarma-puerta-abierta-no-frost-tiene-precio-muy-interesante-2977732.jpg?tf=1200x' alt='Este frigorífico americano con alarma de puerta abierta y No Frost, tiene un precio muy interesante' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/paso-a-paso/internet/como-configurar-tu-red-inalambrica-wifi-tu-router-correctamente-70761'>Cómo configurar tu red inalámbrica WiFi en tu router correctamente</a></h4>
-    <a href='https://computerhoy.com/paso-a-paso/internet/como-configurar-tu-red-inalambrica-wifi-tu-router-correctamente-70761' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/router-wifi-2623703.jpg?tf=1200x' alt='Cómo configurar tu red inalámbrica WiFi en tu router correctamente' />
+    <h4><a href='https://computerhoy.com/amazon/amazon-quiere-resucitar-nft-plan-hacerlo-no-tiene-sentido-1211870'>Amazon quiere resucitar los NFT y su plan para hacerlo no tiene sentido</a></h4>
+    <a href='https://computerhoy.com/amazon/amazon-quiere-resucitar-nft-plan-hacerlo-no-tiene-sentido-1211870' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/roban-cientos-nfts-opensea-valor-casi-2-millones-dolares-solo-3-horas-usando-phishing-2622003.jpg?tf=1200x' alt='Amazon quiere resucitar los NFT y su plan para hacerlo no tiene sentido' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/life/que-lavadora-secadora-me-compro-1000455'>Qué lavadora secadora me compro: 5 modelos de Samsung, Bosch y otras marcas que merecen la pena</a></h4>
-    <a href='https://computerhoy.com/reportajes/life/que-lavadora-secadora-me-compro-1000455' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/hombre-cargando-lavadora-pijama-2917840.jpg?tf=1200x' alt='Qué lavadora secadora me compro: 5 modelos de Samsung, Bosch y otras marcas que merecen la pena' />
+    <h4><a href='https://computerhoy.com/ciencia/cuerdas-vocales-chip-podrian-permitir-personas-mudas-puedan-hablar-1211854'>Las cuerdas vocales en un chip podrían permitir que las personas mudas puedan hablar</a></h4>
+    <a href='https://computerhoy.com/ciencia/cuerdas-vocales-chip-podrian-permitir-personas-mudas-puedan-hablar-1211854' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/hablar-claridad-2442249.jpg?tf=1200x' alt='Las cuerdas vocales en un chip podrían permitir que las personas mudas puedan hablar' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/gaming/hobby-premios-lista-completa-ganadores-1211332'>LG, MSI y Razer, reconocidos por los lectores en los Hobby Premios 2022</a></h4>
-    <a href='https://computerhoy.com/gaming/hobby-premios-lista-completa-ganadores-1211332' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/hobby-premios-2022-2977430.jpg?tf=1200x' alt='LG, MSI y Razer, reconocidos por los lectores en los Hobby Premios 2022' />
+    <h4><a href='https://computerhoy.com/apple/convierte-mitico-tono-llamada-iphone-obra-maestra-1211930'>Convierte el mítico tono de llamada del iPhone en una obra maestra</a></h4>
+    <a href='https://computerhoy.com/apple/convierte-mitico-tono-llamada-iphone-obra-maestra-1211930' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/mujer-hablando-telefono-2977712.jpg?tf=1200x' alt='Convierte el mítico tono de llamada del iPhone en una obra maestra' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/streaming/skyshowtime-tiene-problemas-low-cost-parece-no-solo-precio-1211804'>SkyShowtime tiene problemas y el low cost parece que no es sólo por su precio</a></h4>
-    <a href='https://computerhoy.com/streaming/skyshowtime-tiene-problemas-low-cost-parece-no-solo-precio-1211804' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/llega-espana-skyshowtime-plataforma-streaming-paramount-universal-2925134.jpg?tf=1200x' alt='SkyShowtime tiene problemas y el low cost parece que no es sólo por su precio' />
+    <h4><a href='https://computerhoy.com/entretenimiento/star-wars-disney-cancela-dos-peliculas-rogue-squadron-1211926'>Terremoto en Star Wars: Disney cancela dos películas que llevaban tiempo en desarrollo</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/star-wars-disney-cancela-dos-peliculas-rogue-squadron-1211926' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/terremoto-star-wars-disney-cancela-dos-peliculas-llevaban-tiempo-desarrollo-2977608.jpg?tf=1200x' alt='Terremoto en Star Wars: Disney cancela dos películas que llevaban tiempo en desarrollo' />
     </a>
 </div>
 
