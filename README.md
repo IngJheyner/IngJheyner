@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/documental-elon-musk-ganador-oscar-alex-gibney-1211344'>El documental sobre Elon Musk que prepara el ganador del Óscar Alex Gibney, va a ser polémico</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/documental-elon-musk-ganador-oscar-alex-gibney-1211344' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/documental-elon-musk-prepara-ganador-oscar-alex-gibney-va-ser-polemico-2976714.jpg?tf=1200x' alt='El documental sobre Elon Musk que prepara el ganador del Óscar Alex Gibney, va a ser polémico' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/internet/pack-xiaomi-router-malla-wifi-6-baja-precio-debajo-100-euros-1211340'>El pack con dos de los mejores router en malla con WiFi 6, baja de precio por debajo de los 100 euros</a></h4>
+    <a href='https://computerhoy.com/internet/pack-xiaomi-router-malla-wifi-6-baja-precio-debajo-100-euros-1211340' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/pack-dos-mejores-router-malla-wifi-6-baja-precio-debajo-100-euros-2976712.jpg?tf=1200x' alt='El pack con dos de los mejores router en malla con WiFi 6, baja de precio por debajo de los 100 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/streaming/mapa-mundial-streaming-te-ayudara-descubrir-puede-vivir-netflix-1211326'>El mapa mundial del streaming que te ayudará a descubrir que se puede vivir sin Netflix</a></h4>
     <a href='https://computerhoy.com/streaming/mapa-mundial-streaming-te-ayudara-descubrir-puede-vivir-netflix-1211326' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/plataformas-streaming-2976692.jpg?tf=1200x' alt='El mapa mundial del streaming que te ayudará a descubrir que se puede vivir sin Netflix' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/streaming/molestos-anuncios-youtube-llegan-fin-pero-no-te-libraras-publicidad-1211236'>Los molestos anuncios de YouTube llegan a su fin, pero no te librarás de la publicidad</a></h4>
     <a href='https://computerhoy.com/streaming/molestos-anuncios-youtube-llegan-fin-pero-no-te-libraras-publicidad-1211236' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/youtube-tv-2928346.jpg?tf=1200x' alt='Los molestos anuncios de YouTube llegan a su fin, pero no te librarás de la publicidad' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/llegan-whatsapp-grupos-fecha-caducidad-1211234'>Llegan a WhatsApp los grupos con fecha de caducidad</a></h4>
-    <a href='https://computerhoy.com/apps/llegan-whatsapp-grupos-fecha-caducidad-1211234' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/whatsapp-te-permitira-enviar-fotos-alta-calidad-2954084.jpg?tf=1200x' alt='Llegan a WhatsApp los grupos con fecha de caducidad' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/paso-a-paso/internet/como-descargar-videos-facebook-programas-39827'>Cómo descargar vídeos de Facebook en PC y móviles Android o iPhone</a></h4>
-    <a href='https://computerhoy.com/paso-a-paso/internet/como-descargar-videos-facebook-programas-39827' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/facebook-meta-2976550.jpg?tf=1200x' alt='Cómo descargar vídeos de Facebook en PC y móviles Android o iPhone' />
     </a>
 </div>
 
