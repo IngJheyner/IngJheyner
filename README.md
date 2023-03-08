@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/redes-sociales/tiktok-series-listas-videos-pago-20-minutos-1211576'>TikTok presenta TikTok Series, vídeos de pago de hasta 20 minutos que puedes comprar, no es una suscripción</a></h4>
-    <a href='https://computerhoy.com/redes-sociales/tiktok-series-listas-videos-pago-20-minutos-1211576' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/tiktok-presenta-tiktok-series-videos-pago-20-minutos-puedes-comprar-no-suscripcion-2976936.jpg?tf=1200x' alt='TikTok presenta TikTok Series, vídeos de pago de hasta 20 minutos que puedes comprar, no es una suscripción' />
+    <h4><a href='https://computerhoy.com/tecnologia/22-noticias-tecnologia-comenzar-manana-informado-ultimo-1211588'>22 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
+    <a href='https://computerhoy.com/tecnologia/22-noticias-tecnologia-comenzar-manana-informado-ultimo-1211588' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/23-noticias-tecnologia-comenzar-manana-informado-ultimo-2976942.jpg?tf=1200x' alt='22 noticias de tecnología para comenzar la mañana informado de lo último' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/documental-elon-musk-ganador-oscar-alex-gibney-1211344'>El documental sobre Elon Musk que prepara el ganador del Óscar Alex Gibney, va a ser polémico</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/documental-elon-musk-ganador-oscar-alex-gibney-1211344' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/documental-elon-musk-prepara-ganador-oscar-alex-gibney-va-ser-polemico-2976714.jpg?tf=1200x' alt='El documental sobre Elon Musk que prepara el ganador del Óscar Alex Gibney, va a ser polémico' />
+    <h4><a href='https://computerhoy.com/analisis/review-oppo-find-n2-flip-1210518'>OPPO Find N2 Flip, el rival que mejora la experiencia de uso del plegable de Samsung</a></h4>
+    <a href='https://computerhoy.com/analisis/review-oppo-find-n2-flip-1210518' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/oppo-find-n2-flip-analisis-opinion-2975490.jpg?tf=1200x' alt='OPPO Find N2 Flip, el rival que mejora la experiencia de uso del plegable de Samsung' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/pack-xiaomi-router-malla-wifi-6-baja-precio-debajo-100-euros-1211340'>El pack con dos de los mejores router en malla con WiFi 6, baja de precio por debajo de los 100 euros</a></h4>
-    <a href='https://computerhoy.com/internet/pack-xiaomi-router-malla-wifi-6-baja-precio-debajo-100-euros-1211340' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/pack-dos-mejores-router-malla-wifi-6-baja-precio-debajo-100-euros-2976712.jpg?tf=1200x' alt='El pack con dos de los mejores router en malla con WiFi 6, baja de precio por debajo de los 100 euros' />
+    <h4><a href='https://computerhoy.com/ciberseguridad/ciberseguridad-hospitales-espana-examen-siguen-tomarse-medidas-necesarias-1210588'>La ciberseguridad de los hospitales de España a examen: siguen sin tomarse las medidas necesarias </a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/ciberseguridad-hospitales-espana-examen-siguen-tomarse-medidas-necesarias-1210588' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/ciberseguridad-hospitales-espana-examen-siguen-tomarse-medidas-necesarias-2976480.jpg?tf=1200x' alt='La ciberseguridad de los hospitales de España a examen: siguen sin tomarse las medidas necesarias ' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/streaming/mapa-mundial-streaming-te-ayudara-descubrir-puede-vivir-netflix-1211326'>El mapa mundial del streaming que te ayudará a descubrir que se puede vivir sin Netflix</a></h4>
-    <a href='https://computerhoy.com/streaming/mapa-mundial-streaming-te-ayudara-descubrir-puede-vivir-netflix-1211326' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/plataformas-streaming-2976692.jpg?tf=1200x' alt='El mapa mundial del streaming que te ayudará a descubrir que se puede vivir sin Netflix' />
+    <h4><a href='https://computerhoy.com/moviles/mejores-moviles-regalar-dia-padre-1211140'>Los 5 móviles que recomendamos para regalar en el Día del Padre</a></h4>
+    <a href='https://computerhoy.com/moviles/mejores-moviles-regalar-dia-padre-1211140' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/samsung-galaxy-s23-ultra-analisis-opinion-2961026.jpg?tf=1200x' alt='Los 5 móviles que recomendamos para regalar en el Día del Padre' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/estudio-revela-puestos-trabajo-opciones-ser-reemplazados-inteligencia-artificial-1211322'>Un estudio revela los puestos de trabajo con más opciones de ser reemplazados por la Inteligencia Artificial</a></h4>
-    <a href='https://computerhoy.com/ciencia/estudio-revela-puestos-trabajo-opciones-ser-reemplazados-inteligencia-artificial-1211322' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/inteligencia-artificial-2707953.jpg?tf=1200x' alt='Un estudio revela los puestos de trabajo con más opciones de ser reemplazados por la Inteligencia Artificial' />
+    <h4><a href='https://computerhoy.com/ciencia/camara-oculta-detras-cabezas-monte-rushmore-sala-registros-1211578'>¿Qué esconde la cámara oculta detrás de las cabezas del Monte Rushmore?</a></h4>
+    <a href='https://computerhoy.com/ciencia/camara-oculta-detras-cabezas-monte-rushmore-sala-registros-1211578' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/esconde-camara-oculta-detras-cabezas-monte-rushmore-2976938.jpg?tf=1200x' alt='¿Qué esconde la cámara oculta detrás de las cabezas del Monte Rushmore?' />
     </a>
 </div>
 
