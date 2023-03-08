@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/amazon/televisores-32-pulgadas-debes-tener-cuenta-cuales-son-mejores-1208768'>Televisores de 32 pulgadas: qué debes tener en cuenta y cuáles son los mejores</a></h4>
+    <a href='https://computerhoy.com/amazon/televisores-32-pulgadas-debes-tener-cuenta-cuales-son-mejores-1208768' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/xiaomi-tv-a2-2740321.jpg?tf=1200x' alt='Televisores de 32 pulgadas: qué debes tener en cuenta y cuáles son los mejores' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/22-noticias-tecnologia-comenzar-manana-informado-ultimo-1211588'>22 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
     <a href='https://computerhoy.com/tecnologia/22-noticias-tecnologia-comenzar-manana-informado-ultimo-1211588' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/23-noticias-tecnologia-comenzar-manana-informado-ultimo-2976942.jpg?tf=1200x' alt='22 noticias de tecnología para comenzar la mañana informado de lo último' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/moviles/mejores-moviles-regalar-dia-padre-1211140'>Los 5 móviles que recomendamos para regalar en el Día del Padre</a></h4>
     <a href='https://computerhoy.com/moviles/mejores-moviles-regalar-dia-padre-1211140' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/samsung-galaxy-s23-ultra-analisis-opinion-2961026.jpg?tf=1200x' alt='Los 5 móviles que recomendamos para regalar en el Día del Padre' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/camara-oculta-detras-cabezas-monte-rushmore-sala-registros-1211578'>¿Qué esconde la cámara oculta detrás de las cabezas del Monte Rushmore?</a></h4>
-    <a href='https://computerhoy.com/ciencia/camara-oculta-detras-cabezas-monte-rushmore-sala-registros-1211578' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/esconde-camara-oculta-detras-cabezas-monte-rushmore-2976938.jpg?tf=1200x' alt='¿Qué esconde la cámara oculta detrás de las cabezas del Monte Rushmore?' />
     </a>
 </div>
 
