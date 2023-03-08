@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/lista-robinson-todos-pasos-apuntarse-evitar-publicidad-no-deseada-1211138'>Lista Robinson: todos los pasos para apuntarse y evitar la publicidad no deseada</a></h4>
+    <a href='https://computerhoy.com/tutoriales/lista-robinson-todos-pasos-apuntarse-evitar-publicidad-no-deseada-1211138' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/hombre-enfadado-chillandole-movil-2977008.jpg?tf=1200x' alt='Lista Robinson: todos los pasos para apuntarse y evitar la publicidad no deseada' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/audio/auriculares-google-ahora-te-siguen-movimientos-cabeza-darte-audio-espacial-1211606'>Los auriculares de Google ahora te siguen los movimientos de la cabeza para darte audio espacial</a></h4>
+    <a href='https://computerhoy.com/audio/auriculares-google-ahora-te-siguen-movimientos-cabeza-darte-audio-espacial-1211606' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/analisis-pixel-buds-pro-2778309.jpg?tf=1200x' alt='Los auriculares de Google ahora te siguen los movimientos de la cabeza para darte audio espacial' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/streaming/netflix-mundo-diferencia-suscripcion-cara-barata-abismal-1211612'>Netflix por el mundo: la diferencia entre la suscripción más cara y más barata es abismal</a></h4>
+    <a href='https://computerhoy.com/streaming/netflix-mundo-diferencia-suscripcion-cara-barata-abismal-1211612' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/netflix-mundo-diferencia-suscripcion-cara-barata-abismal-2976988.jpg?tf=1200x' alt='Netflix por el mundo: la diferencia entre la suscripción más cara y más barata es abismal' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/amazon/televisores-32-pulgadas-debes-tener-cuenta-cuales-son-mejores-1208768'>Televisores de 32 pulgadas: qué debes tener en cuenta y cuáles son los mejores</a></h4>
     <a href='https://computerhoy.com/amazon/televisores-32-pulgadas-debes-tener-cuenta-cuales-son-mejores-1208768' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/xiaomi-tv-a2-2740321.jpg?tf=1200x' alt='Televisores de 32 pulgadas: qué debes tener en cuenta y cuáles son los mejores' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/22-noticias-tecnologia-comenzar-manana-informado-ultimo-1211588'>22 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
     <a href='https://computerhoy.com/tecnologia/22-noticias-tecnologia-comenzar-manana-informado-ultimo-1211588' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/23-noticias-tecnologia-comenzar-manana-informado-ultimo-2976942.jpg?tf=1200x' alt='22 noticias de tecnología para comenzar la mañana informado de lo último' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/review-oppo-find-n2-flip-1210518'>OPPO Find N2 Flip, el rival que mejora la experiencia de uso del plegable de Samsung</a></h4>
-    <a href='https://computerhoy.com/analisis/review-oppo-find-n2-flip-1210518' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/oppo-find-n2-flip-analisis-opinion-2975490.jpg?tf=1200x' alt='OPPO Find N2 Flip, el rival que mejora la experiencia de uso del plegable de Samsung' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/ciberseguridad-hospitales-espana-examen-siguen-tomarse-medidas-necesarias-1210588'>La ciberseguridad de los hospitales de España a examen: siguen sin tomarse las medidas necesarias </a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/ciberseguridad-hospitales-espana-examen-siguen-tomarse-medidas-necesarias-1210588' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/ciberseguridad-hospitales-espana-examen-siguen-tomarse-medidas-necesarias-2976480.jpg?tf=1200x' alt='La ciberseguridad de los hospitales de España a examen: siguen sin tomarse las medidas necesarias ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/mejores-moviles-regalar-dia-padre-1211140'>Los 5 móviles que recomendamos para regalar en el Día del Padre</a></h4>
-    <a href='https://computerhoy.com/moviles/mejores-moviles-regalar-dia-padre-1211140' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/samsung-galaxy-s23-ultra-analisis-opinion-2961026.jpg?tf=1200x' alt='Los 5 móviles que recomendamos para regalar en el Día del Padre' />
     </a>
 </div>
 
