@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/actualizar-bios-como-hace-sirve-327483'>Actualizar BIOS: qué es, cómo se hace, para qué sirve y cuándo hacerlo</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/actualizar-bios-como-hace-sirve-327483' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/bios-ordenador-2978660.jpg?tf=1200x' alt='Actualizar BIOS: qué es, cómo se hace, para qué sirve y cuándo hacerlo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/estos-son-tipos-software-espia-existen-1210726'>Estos son los tipos de software espía que existen</a></h4>
     <a href='https://computerhoy.com/tecnologia/estos-son-tipos-software-espia-existen-1210726' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/software-espia-2975382.jpg?tf=1200x' alt='Estos son los tipos de software espía que existen' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/entretenimiento/donde-ver-streaming-peliculas-nominadas-oscar-2023-1189592'>¡Todavía estás a tiempo! Cómo ver online las 10 películas nominadas al Oscar 2023</a></h4>
     <a href='https://computerhoy.com/entretenimiento/donde-ver-streaming-peliculas-nominadas-oscar-2023-1189592' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/premios-oscar-2657051.jpg?tf=1200x' alt='¡Todavía estás a tiempo! Cómo ver online las 10 películas nominadas al Oscar 2023' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/microsoft-acepta-dos-anos-mayor-cambio-windows-11-fue-error-1212358'>Microsoft acepta, tras dos años, que su mayor cambio en Windows 11 fue un error</a></h4>
-    <a href='https://computerhoy.com/windows/microsoft-acepta-dos-anos-mayor-cambio-windows-11-fue-error-1212358' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/windows-11-2952572.jpg?tf=1200x' alt='Microsoft acepta, tras dos años, que su mayor cambio en Windows 11 fue un error' />
     </a>
 </div>
 
