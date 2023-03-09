@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/gaming/nvidia-amd-intel-ya-sabemos-gpu-mejor-codificar-video-1212310'>NVIDIA, AMD o Intel: ya sabemos qué GPU es la mejor para codificar vídeo</a></h4>
-    <a href='https://computerhoy.com/gaming/nvidia-amd-intel-ya-sabemos-gpu-mejor-codificar-video-1212310' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/amd-intel-nvidia-2893048.jpg?tf=1200x' alt='NVIDIA, AMD o Intel: ya sabemos qué GPU es la mejor para codificar vídeo' />
+    <h4><a href='https://computerhoy.com/tecnologia/estos-son-tipos-software-espia-existen-1210726'>Estos son los tipos de software espía que existen</a></h4>
+    <a href='https://computerhoy.com/tecnologia/estos-son-tipos-software-espia-existen-1210726' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/software-espia-2975382.jpg?tf=1200x' alt='Estos son los tipos de software espía que existen' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/industria/startup-ex-empleados-apple-haciendo-millonaria-openai-microsoft-1212316'>La startup de ex empleados de Apple que se está haciendo millonaria con OpenAI y Microsoft</a></h4>
-    <a href='https://computerhoy.com/industria/startup-ex-empleados-apple-haciendo-millonaria-openai-microsoft-1212316' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/startup-ex-empleados-apple-haciendo-millonaria-openai-microsoft-2978332.jpg?tf=1200x' alt='La startup de ex empleados de Apple que se está haciendo millonaria con OpenAI y Microsoft' />
+    <h4><a href='https://computerhoy.com/google/estas-utilizando-mal-google-maps-seguramente-no-sabes-5-cosas-sorprendentes-puedes-hacer-1212384'>Estás utilizando mal Google Maps y seguramente no lo sabes: 5 cosas sorprendentes que puedes hacer</a></h4>
+    <a href='https://computerhoy.com/google/estas-utilizando-mal-google-maps-seguramente-no-sabes-5-cosas-sorprendentes-puedes-hacer-1212384' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/google-maps-2842323.jpg?tf=1200x' alt='Estás utilizando mal Google Maps y seguramente no lo sabes: 5 cosas sorprendentes que puedes hacer' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/storiesig-puedes-ver-stories-perfil-instagram-tener-cuenta-1212232'>StoriesIG: así puedes ver las Stories de un perfil de Instagram sin tener cuenta</a></h4>
-    <a href='https://computerhoy.com/tutoriales/storiesig-puedes-ver-stories-perfil-instagram-tener-cuenta-1212232' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/storiesig-puedes-ver-stories-perfil-instagram-cuenta-2978202.jpg?tf=1200x' alt='StoriesIG: así puedes ver las Stories de un perfil de Instagram sin tener cuenta' />
+    <h4><a href='https://computerhoy.com/streaming/youtuber-hizo-multimillonario-vendiendo-listas-iptv-pasara-varios-anos-carcel-1212376'>Un youtuber que se hizo multimillonario vendiendo listas IPTV pasará varios años en la cárcel</a></h4>
+    <a href='https://computerhoy.com/streaming/youtuber-hizo-multimillonario-vendiendo-listas-iptv-pasara-varios-anos-carcel-1212376' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/youtuber-hizo-multimillonario-vendiendo-listas-iptv-pasara-varios-anos-carcel-2978474.jpg?tf=1200x' alt='Un youtuber que se hizo multimillonario vendiendo listas IPTV pasará varios años en la cárcel' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/smartwatches/garmin-fenix-7-reloj-deportivo-oferta-1212250'>GPS ultrapreciso, muy resistente y con batería para semanas: Garmin Fenix 7 consigue uno de sus mejores precios</a></h4>
-    <a href='https://computerhoy.com/smartwatches/garmin-fenix-7-reloj-deportivo-oferta-1212250' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/garmin-fenix-7-2978178.jpg?tf=1200x' alt='GPS ultrapreciso, muy resistente y con batería para semanas: Garmin Fenix 7 consigue uno de sus mejores precios' />
+    <h4><a href='https://computerhoy.com/entretenimiento/donde-ver-streaming-peliculas-nominadas-oscar-2023-1189592'>¡Todavía estás a tiempo! Cómo ver online las 10 películas nominadas al Oscar 2023</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/donde-ver-streaming-peliculas-nominadas-oscar-2023-1189592' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/premios-oscar-2657051.jpg?tf=1200x' alt='¡Todavía estás a tiempo! Cómo ver online las 10 películas nominadas al Oscar 2023' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/mueve-constelacion-starlink-satelites-elon-musk-viajan-espacio-1212284'>Así se mueve la constelación de Starlink, los satélites de Elon Musk que viajan por el espacio</a></h4>
-    <a href='https://computerhoy.com/espacio/mueve-constelacion-starlink-satelites-elon-musk-viajan-espacio-1212284' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/starlink-2978246.jpg?tf=1200x' alt='Así se mueve la constelación de Starlink, los satélites de Elon Musk que viajan por el espacio' />
+    <h4><a href='https://computerhoy.com/windows/microsoft-acepta-dos-anos-mayor-cambio-windows-11-fue-error-1212358'>Microsoft acepta, tras dos años, que su mayor cambio en Windows 11 fue un error</a></h4>
+    <a href='https://computerhoy.com/windows/microsoft-acepta-dos-anos-mayor-cambio-windows-11-fue-error-1212358' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/windows-11-2952572.jpg?tf=1200x' alt='Microsoft acepta, tras dos años, que su mayor cambio en Windows 11 fue un error' />
     </a>
 </div>
 
