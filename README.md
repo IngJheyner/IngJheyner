@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/chatgpt-crea-podria-ser-nuevo-wordle-absolutamente-adictivo-1212190'>ChatGPT crea el que podría ser el nuevo Wordle y es absolutamente adictivo</a></h4>
-    <a href='https://computerhoy.com/tecnologia/chatgpt-crea-podria-ser-nuevo-wordle-absolutamente-adictivo-1212190' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/chatgpt-crea-podria-ser-nuevo-wordle-absolutamente-adictivo-2977980.jpg?tf=1200x' alt='ChatGPT crea el que podría ser el nuevo Wordle y es absolutamente adictivo' />
+    <h4><a href='https://computerhoy.com/smartwatches/garmin-fenix-7-reloj-deportivo-oferta-1212250'>GPS ultrapreciso, muy resistente y con batería para semanas: Garmin Fenix 7 consigue uno de sus mejores precios</a></h4>
+    <a href='https://computerhoy.com/smartwatches/garmin-fenix-7-reloj-deportivo-oferta-1212250' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/garmin-fenix-7-2978178.jpg?tf=1200x' alt='GPS ultrapreciso, muy resistente y con batería para semanas: Garmin Fenix 7 consigue uno de sus mejores precios' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/como-nos-enganan-precio-gasolina-1211834'>Cómo nos engañan con el precio de la gasolina</a></h4>
-    <a href='https://computerhoy.com/motor/como-nos-enganan-precio-gasolina-1211834' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/precio-gasolina-2977564.jpg?tf=1200x' alt='Cómo nos engañan con el precio de la gasolina' />
+    <h4><a href='https://computerhoy.com/espacio/mueve-constelacion-starlink-satelites-elon-musk-viajan-espacio-1212284'>Así se mueve la constelación de Starlink, los satélites de Elon Musk que viajan por el espacio</a></h4>
+    <a href='https://computerhoy.com/espacio/mueve-constelacion-starlink-satelites-elon-musk-viajan-espacio-1212284' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/starlink-2978246.jpg?tf=1200x' alt='Así se mueve la constelación de Starlink, los satélites de Elon Musk que viajan por el espacio' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/mejores/afeitadoras-electricas-1181508'>Estas son las mejores afeitadoras eléctricas en relación calidad-precio que puedes comprar</a></h4>
-    <a href='https://computerhoy.com/mejores/afeitadoras-electricas-1181508' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/01/cabezal-afeitadora-panasonic-lv-65-1847369.jpg?tf=1200x' alt='Estas son las mejores afeitadoras eléctricas en relación calidad-precio que puedes comprar' />
+    <h4><a href='https://computerhoy.com/internet/reenvio-puertos-router-wifi-como-hace-ventajas-tiene-1212238'>Qué es el reenvío de puertos en un router WiFi: cómo se hace y qué ventajas tiene</a></h4>
+    <a href='https://computerhoy.com/internet/reenvio-puertos-router-wifi-como-hace-ventajas-tiene-1212238' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/router-2978238.jpg?tf=1200x' alt='Qué es el reenvío de puertos en un router WiFi: cómo se hace y qué ventajas tiene' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/review-huawei-watch-buds-smartwatch-2-1-auriculares-integrados-1210592'>Review del Huawei Watch Buds, el smartwatch 2 en 1 con auriculares integrados</a></h4>
-    <a href='https://computerhoy.com/analisis/review-huawei-watch-buds-smartwatch-2-1-auriculares-integrados-1210592' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/huawei-watch-buds-analisis-opinion-2977610.jpg?tf=1200x' alt='Review del Huawei Watch Buds, el smartwatch 2 en 1 con auriculares integrados' />
+    <h4><a href='https://computerhoy.com/gaming/google-stadia-ambiciosa-plataforma-gaming-motivo-cual-abandonar-negocio-siempre-1212208'>Google Stadia: de ambiciosa plataforma gaming al motivo por el cual abandonar el negocio para siempre</a></h4>
+    <a href='https://computerhoy.com/gaming/google-stadia-ambiciosa-plataforma-gaming-motivo-cual-abandonar-negocio-siempre-1212208' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/05/google-stadia.jpg?tf=1200x' alt='Google Stadia: de ambiciosa plataforma gaming al motivo por el cual abandonar el negocio para siempre' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/29-noticias-tecnologia-comenzar-manana-informado-ultimo-1212162'>29 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
-    <a href='https://computerhoy.com/tecnologia/29-noticias-tecnologia-comenzar-manana-informado-ultimo-1212162' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/29-noticias-tecnologia-comenzar-manana-informado-ultimo-2977954.jpg?tf=1200x' alt='29 noticias de tecnología para comenzar la mañana informado de lo último' />
+    <h4><a href='https://computerhoy.com/tecnologia/microsoft-surface-pro-x-rival-ipad-pro-oferta-1211074'>El rival del iPad Pro de Microsoft con Windows 11 ya roza los 650 euros</a></h4>
+    <a href='https://computerhoy.com/tecnologia/microsoft-surface-pro-x-rival-ipad-pro-oferta-1211074' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/03/microsoft-surface-pro-x-analisis-opinion-1892477.jpg?tf=1200x' alt='El rival del iPad Pro de Microsoft con Windows 11 ya roza los 650 euros' />
     </a>
 </div>
 
