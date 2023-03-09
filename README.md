@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/meta-da-marcha-atras-tambien-abraza-inteligencia-artificial-1211876'>Meta da marcha atrás y también abraza la inteligencia artificial</a></h4>
+    <a href='https://computerhoy.com/apps/meta-da-marcha-atras-tambien-abraza-inteligencia-artificial-1211876' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/facebook-meta-2976550.jpg?tf=1200x' alt='Meta da marcha atrás y también abraza la inteligencia artificial' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/streaming/spotify-estrena-nuevo-diseno-1211948'>Spotify estrena un nuevo diseño para dejar claro que ya no es una app de música</a></h4>
+    <a href='https://computerhoy.com/streaming/spotify-estrena-nuevo-diseno-1211948' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/spotify-estrena-nuevo-diseno-dejar-claro-ya-no-app-musica-2977738.jpg?tf=1200x' alt='Spotify estrena un nuevo diseño para dejar claro que ya no es una app de música' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/hogar/frigorifico-americano-barato-valberg-alarma-puerta-abierta-no-frost-1211940'>Este frigorífico americano con alarma de puerta abierta y No Frost, tiene un precio muy interesante</a></h4>
     <a href='https://computerhoy.com/hogar/frigorifico-americano-barato-valberg-alarma-puerta-abierta-no-frost-1211940' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/frigorifico-americano-alarma-puerta-abierta-no-frost-tiene-precio-muy-interesante-2977732.jpg?tf=1200x' alt='Este frigorífico americano con alarma de puerta abierta y No Frost, tiene un precio muy interesante' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/ciencia/cuerdas-vocales-chip-podrian-permitir-personas-mudas-puedan-hablar-1211854'>Las cuerdas vocales en un chip podrían permitir que las personas mudas puedan hablar</a></h4>
     <a href='https://computerhoy.com/ciencia/cuerdas-vocales-chip-podrian-permitir-personas-mudas-puedan-hablar-1211854' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/hablar-claridad-2442249.jpg?tf=1200x' alt='Las cuerdas vocales en un chip podrían permitir que las personas mudas puedan hablar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/convierte-mitico-tono-llamada-iphone-obra-maestra-1211930'>Convierte el mítico tono de llamada del iPhone en una obra maestra</a></h4>
-    <a href='https://computerhoy.com/apple/convierte-mitico-tono-llamada-iphone-obra-maestra-1211930' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/mujer-hablando-telefono-2977712.jpg?tf=1200x' alt='Convierte el mítico tono de llamada del iPhone en una obra maestra' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/star-wars-disney-cancela-dos-peliculas-rogue-squadron-1211926'>Terremoto en Star Wars: Disney cancela dos películas que llevaban tiempo en desarrollo</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/star-wars-disney-cancela-dos-peliculas-rogue-squadron-1211926' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/terremoto-star-wars-disney-cancela-dos-peliculas-llevaban-tiempo-desarrollo-2977608.jpg?tf=1200x' alt='Terremoto en Star Wars: Disney cancela dos películas que llevaban tiempo en desarrollo' />
     </a>
 </div>
 
