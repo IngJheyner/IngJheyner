@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/gaming/nvidia-amd-intel-ya-sabemos-gpu-mejor-codificar-video-1212310'>NVIDIA, AMD o Intel: ya sabemos qué GPU es la mejor para codificar vídeo</a></h4>
+    <a href='https://computerhoy.com/gaming/nvidia-amd-intel-ya-sabemos-gpu-mejor-codificar-video-1212310' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/amd-intel-nvidia-2893048.jpg?tf=1200x' alt='NVIDIA, AMD o Intel: ya sabemos qué GPU es la mejor para codificar vídeo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/industria/startup-ex-empleados-apple-haciendo-millonaria-openai-microsoft-1212316'>La startup de ex empleados de Apple que se está haciendo millonaria con OpenAI y Microsoft</a></h4>
+    <a href='https://computerhoy.com/industria/startup-ex-empleados-apple-haciendo-millonaria-openai-microsoft-1212316' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/startup-ex-empleados-apple-haciendo-millonaria-openai-microsoft-2978332.jpg?tf=1200x' alt='La startup de ex empleados de Apple que se está haciendo millonaria con OpenAI y Microsoft' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/storiesig-puedes-ver-stories-perfil-instagram-tener-cuenta-1212232'>StoriesIG: así puedes ver las Stories de un perfil de Instagram sin tener cuenta</a></h4>
+    <a href='https://computerhoy.com/tutoriales/storiesig-puedes-ver-stories-perfil-instagram-tener-cuenta-1212232' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/storiesig-puedes-ver-stories-perfil-instagram-cuenta-2978202.jpg?tf=1200x' alt='StoriesIG: así puedes ver las Stories de un perfil de Instagram sin tener cuenta' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/smartwatches/garmin-fenix-7-reloj-deportivo-oferta-1212250'>GPS ultrapreciso, muy resistente y con batería para semanas: Garmin Fenix 7 consigue uno de sus mejores precios</a></h4>
     <a href='https://computerhoy.com/smartwatches/garmin-fenix-7-reloj-deportivo-oferta-1212250' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/garmin-fenix-7-2978178.jpg?tf=1200x' alt='GPS ultrapreciso, muy resistente y con batería para semanas: Garmin Fenix 7 consigue uno de sus mejores precios' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/espacio/mueve-constelacion-starlink-satelites-elon-musk-viajan-espacio-1212284'>Así se mueve la constelación de Starlink, los satélites de Elon Musk que viajan por el espacio</a></h4>
     <a href='https://computerhoy.com/espacio/mueve-constelacion-starlink-satelites-elon-musk-viajan-espacio-1212284' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/starlink-2978246.jpg?tf=1200x' alt='Así se mueve la constelación de Starlink, los satélites de Elon Musk que viajan por el espacio' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/reenvio-puertos-router-wifi-como-hace-ventajas-tiene-1212238'>Qué es el reenvío de puertos en un router WiFi: cómo se hace y qué ventajas tiene</a></h4>
-    <a href='https://computerhoy.com/internet/reenvio-puertos-router-wifi-como-hace-ventajas-tiene-1212238' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/router-2978238.jpg?tf=1200x' alt='Qué es el reenvío de puertos en un router WiFi: cómo se hace y qué ventajas tiene' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/gaming/google-stadia-ambiciosa-plataforma-gaming-motivo-cual-abandonar-negocio-siempre-1212208'>Google Stadia: de ambiciosa plataforma gaming al motivo por el cual abandonar el negocio para siempre</a></h4>
-    <a href='https://computerhoy.com/gaming/google-stadia-ambiciosa-plataforma-gaming-motivo-cual-abandonar-negocio-siempre-1212208' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/05/google-stadia.jpg?tf=1200x' alt='Google Stadia: de ambiciosa plataforma gaming al motivo por el cual abandonar el negocio para siempre' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/microsoft-surface-pro-x-rival-ipad-pro-oferta-1211074'>El rival del iPad Pro de Microsoft con Windows 11 ya roza los 650 euros</a></h4>
-    <a href='https://computerhoy.com/tecnologia/microsoft-surface-pro-x-rival-ipad-pro-oferta-1211074' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/03/microsoft-surface-pro-x-analisis-opinion-1892477.jpg?tf=1200x' alt='El rival del iPad Pro de Microsoft con Windows 11 ya roza los 650 euros' />
     </a>
 </div>
 
