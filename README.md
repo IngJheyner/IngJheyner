@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/pc/grab-shell-teclado-transforma-gamepad-video-1212156'>Grab Shell, el teclado para coders que se transforma en gamepad (vídeo)</a></h4>
+    <a href='https://computerhoy.com/pc/grab-shell-teclado-transforma-gamepad-video-1212156' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/verticalimage1678323216721-2977748.jpg?tf=1200x' alt='Grab Shell, el teclado para coders que se transforma en gamepad (vídeo)' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apps/meta-da-marcha-atras-tambien-abraza-inteligencia-artificial-1211876'>Meta da marcha atrás y también abraza la inteligencia artificial</a></h4>
     <a href='https://computerhoy.com/apps/meta-da-marcha-atras-tambien-abraza-inteligencia-artificial-1211876' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/facebook-meta-2976550.jpg?tf=1200x' alt='Meta da marcha atrás y también abraza la inteligencia artificial' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/amazon/amazon-quiere-resucitar-nft-plan-hacerlo-no-tiene-sentido-1211870'>Amazon quiere resucitar los NFT y su plan para hacerlo no tiene sentido</a></h4>
     <a href='https://computerhoy.com/amazon/amazon-quiere-resucitar-nft-plan-hacerlo-no-tiene-sentido-1211870' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/roban-cientos-nfts-opensea-valor-casi-2-millones-dolares-solo-3-horas-usando-phishing-2622003.jpg?tf=1200x' alt='Amazon quiere resucitar los NFT y su plan para hacerlo no tiene sentido' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/cuerdas-vocales-chip-podrian-permitir-personas-mudas-puedan-hablar-1211854'>Las cuerdas vocales en un chip podrían permitir que las personas mudas puedan hablar</a></h4>
-    <a href='https://computerhoy.com/ciencia/cuerdas-vocales-chip-podrian-permitir-personas-mudas-puedan-hablar-1211854' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/hablar-claridad-2442249.jpg?tf=1200x' alt='Las cuerdas vocales en un chip podrían permitir que las personas mudas puedan hablar' />
     </a>
 </div>
 
