@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/grab-shell-teclado-transforma-gamepad-video-1212156'>Grab Shell, el teclado para coders que se transforma en gamepad (vídeo)</a></h4>
-    <a href='https://computerhoy.com/pc/grab-shell-teclado-transforma-gamepad-video-1212156' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/verticalimage1678323216721-2977748.jpg?tf=1200x' alt='Grab Shell, el teclado para coders que se transforma en gamepad (vídeo)' />
+    <h4><a href='https://computerhoy.com/tecnologia/chatgpt-crea-podria-ser-nuevo-wordle-absolutamente-adictivo-1212190'>ChatGPT crea el que podría ser el nuevo Wordle y es absolutamente adictivo</a></h4>
+    <a href='https://computerhoy.com/tecnologia/chatgpt-crea-podria-ser-nuevo-wordle-absolutamente-adictivo-1212190' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/chatgpt-crea-podria-ser-nuevo-wordle-absolutamente-adictivo-2977980.jpg?tf=1200x' alt='ChatGPT crea el que podría ser el nuevo Wordle y es absolutamente adictivo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/meta-da-marcha-atras-tambien-abraza-inteligencia-artificial-1211876'>Meta da marcha atrás y también abraza la inteligencia artificial</a></h4>
-    <a href='https://computerhoy.com/apps/meta-da-marcha-atras-tambien-abraza-inteligencia-artificial-1211876' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/facebook-meta-2976550.jpg?tf=1200x' alt='Meta da marcha atrás y también abraza la inteligencia artificial' />
+    <h4><a href='https://computerhoy.com/motor/como-nos-enganan-precio-gasolina-1211834'>Cómo nos engañan con el precio de la gasolina</a></h4>
+    <a href='https://computerhoy.com/motor/como-nos-enganan-precio-gasolina-1211834' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/precio-gasolina-2977564.jpg?tf=1200x' alt='Cómo nos engañan con el precio de la gasolina' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/streaming/spotify-estrena-nuevo-diseno-1211948'>Spotify estrena un nuevo diseño para dejar claro que ya no es una app de música</a></h4>
-    <a href='https://computerhoy.com/streaming/spotify-estrena-nuevo-diseno-1211948' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/spotify-estrena-nuevo-diseno-dejar-claro-ya-no-app-musica-2977738.jpg?tf=1200x' alt='Spotify estrena un nuevo diseño para dejar claro que ya no es una app de música' />
+    <h4><a href='https://computerhoy.com/mejores/afeitadoras-electricas-1181508'>Estas son las mejores afeitadoras eléctricas en relación calidad-precio que puedes comprar</a></h4>
+    <a href='https://computerhoy.com/mejores/afeitadoras-electricas-1181508' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/01/cabezal-afeitadora-panasonic-lv-65-1847369.jpg?tf=1200x' alt='Estas son las mejores afeitadoras eléctricas en relación calidad-precio que puedes comprar' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/hogar/frigorifico-americano-barato-valberg-alarma-puerta-abierta-no-frost-1211940'>Este frigorífico americano con alarma de puerta abierta y No Frost, tiene un precio muy interesante</a></h4>
-    <a href='https://computerhoy.com/hogar/frigorifico-americano-barato-valberg-alarma-puerta-abierta-no-frost-1211940' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/frigorifico-americano-alarma-puerta-abierta-no-frost-tiene-precio-muy-interesante-2977732.jpg?tf=1200x' alt='Este frigorífico americano con alarma de puerta abierta y No Frost, tiene un precio muy interesante' />
+    <h4><a href='https://computerhoy.com/analisis/review-huawei-watch-buds-smartwatch-2-1-auriculares-integrados-1210592'>Review del Huawei Watch Buds, el smartwatch 2 en 1 con auriculares integrados</a></h4>
+    <a href='https://computerhoy.com/analisis/review-huawei-watch-buds-smartwatch-2-1-auriculares-integrados-1210592' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/huawei-watch-buds-analisis-opinion-2977610.jpg?tf=1200x' alt='Review del Huawei Watch Buds, el smartwatch 2 en 1 con auriculares integrados' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/amazon/amazon-quiere-resucitar-nft-plan-hacerlo-no-tiene-sentido-1211870'>Amazon quiere resucitar los NFT y su plan para hacerlo no tiene sentido</a></h4>
-    <a href='https://computerhoy.com/amazon/amazon-quiere-resucitar-nft-plan-hacerlo-no-tiene-sentido-1211870' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/roban-cientos-nfts-opensea-valor-casi-2-millones-dolares-solo-3-horas-usando-phishing-2622003.jpg?tf=1200x' alt='Amazon quiere resucitar los NFT y su plan para hacerlo no tiene sentido' />
+    <h4><a href='https://computerhoy.com/tecnologia/29-noticias-tecnologia-comenzar-manana-informado-ultimo-1212162'>29 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
+    <a href='https://computerhoy.com/tecnologia/29-noticias-tecnologia-comenzar-manana-informado-ultimo-1212162' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/29-noticias-tecnologia-comenzar-manana-informado-ultimo-2977954.jpg?tf=1200x' alt='29 noticias de tecnología para comenzar la mañana informado de lo último' />
     </a>
 </div>
 
