@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/moviles/primer-android-isla-dinamica-apple-1212804'>Este es el primer Android con la isla dinámica de Apple</a></h4>
+    <a href='https://computerhoy.com/moviles/primer-android-isla-dinamica-apple-1212804' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/realme-c55-2979224.jpg?tf=1200x' alt='Este es el primer Android con la isla dinámica de Apple' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/vall-microsoft-herramienta-inteligencia-artificial-ahora-traduce-voz-cualquier-idioma-1212822'>VALL-E de Microsoft: la herramienta de inteligencia artificial que ahora traduce tu voz a cualquier idioma</a></h4>
+    <a href='https://computerhoy.com/tecnologia/vall-microsoft-herramienta-inteligencia-artificial-ahora-traduce-voz-cualquier-idioma-1212822' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/nueva-ia-microsoft-simula-voz-cualquier-persona-tan-solo-3-segundos-audio-2924656.jpg?tf=1200x' alt='VALL-E de Microsoft: la herramienta de inteligencia artificial que ahora traduce tu voz a cualquier idioma' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/listas/tecnologia/freidoras-sin-aceite-cual-comprar-509813'>Las mejores freidoras sin aceite que puedes comprar este año</a></h4>
     <a href='https://computerhoy.com/listas/tecnologia/freidoras-sin-aceite-cual-comprar-509813' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/philips-essential-airfryer-2916254.jpg?tf=1200x' alt='Las mejores freidoras sin aceite que puedes comprar este año' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/futuro-sostenible-como-reducen-principales-empresas-tecnologicas-huella-carbono-1210520'>Un futuro sostenible: ¿cómo reducen las principales empresas tecnológicas su huella de carbono?</a></h4>
     <a href='https://computerhoy.com/tecnologia/futuro-sostenible-como-reducen-principales-empresas-tecnologicas-huella-carbono-1210520' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/futuro-sostenible-como-reducen-principales-empresas-tecnologicas-huella-carbono-2977570.jpg?tf=1200x' alt='Un futuro sostenible: ¿cómo reducen las principales empresas tecnológicas su huella de carbono?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/31-noticias-tecnologia-comenzar-manana-informado-ultimo-1212788'>31 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
-    <a href='https://computerhoy.com/tecnologia/31-noticias-tecnologia-comenzar-manana-informado-ultimo-1212788' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/30-noticias-tecnologia-comenzar-manana-informado-ultimo-2979138.jpg?tf=1200x' alt='31 noticias de tecnología para comenzar la mañana informado de lo último' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/analisis-poco-x5-poco-x5-pro-nueva-gama-media-2023-equilibrada-1210702'>Análisis POCO X5 y POCO X5 Pro, la nueva gama media de 2023 más equilibrada</a></h4>
-    <a href='https://computerhoy.com/analisis/analisis-poco-x5-poco-x5-pro-nueva-gama-media-2023-equilibrada-1210702' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/poco-x5-poco-x5-pro-2948030.jpg?tf=1200x' alt='Análisis POCO X5 y POCO X5 Pro, la nueva gama media de 2023 más equilibrada' />
     </a>
 </div>
 
