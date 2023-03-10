@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/compra-sofa-segunda-mano-mercado-benefico-encuentra-6000-euros-dentro-1212776'>Compra un sofá en un mercadillo benéfico, y se encuentra 6.000 euros dentro, ¿qué hizo con ellos?</a></h4>
+    <a href='https://computerhoy.com/life/compra-sofa-segunda-mano-mercado-benefico-encuentra-6000-euros-dentro-1212776' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/compra-sofa-mercado-benefico-encuentra-6000-euros-dentro-hizo-ellos-2978920.jpg?tf=1200x' alt='Compra un sofá en un mercadillo benéfico, y se encuentra 6.000 euros dentro, ¿qué hizo con ellos?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/redes-sociales/elon-musk-humilla-despide-trabajador-twitter-distrofia-muscular-acaba-pidiendo-perdon-1212550'>Elon Musk humilla y despide a un trabajador de Twitter con distrofia muscular, pero algo ocurre, y acaba pidiéndole perdón</a></h4>
+    <a href='https://computerhoy.com/redes-sociales/elon-musk-humilla-despide-trabajador-twitter-distrofia-muscular-acaba-pidiendo-perdon-1212550' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/elon-musk-humilla-despide-trabajador-twitter-distrofia-muscular-pero-algo-ocurre-acaba-pidiendole-perdon-2978906.jpg?tf=1200x' alt='Elon Musk humilla y despide a un trabajador de Twitter con distrofia muscular, pero algo ocurre, y acaba pidiéndole perdón' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/hogar/robot-aspirador-samsung-lidar-oferta-1212538'>Samsung también fabrica robots aspirador, y este modelo con LiDAR es uno de los mejores</a></h4>
     <a href='https://computerhoy.com/hogar/robot-aspirador-samsung-lidar-oferta-1212538' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/samsung-tambien-fabrica-robots-aspirador-modelo-lidar-mejores-2978888.jpg?tf=1200x' alt='Samsung también fabrica robots aspirador, y este modelo con LiDAR es uno de los mejores' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/moviles/fiebre-plegables-continua-realme-suma-carro-estos-dispositivos-1212486'>La fiebre de los plegables continua: realme se suma al carro de estos dispositivos</a></h4>
     <a href='https://computerhoy.com/moviles/fiebre-plegables-continua-realme-suma-carro-estos-dispositivos-1212486' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/realme-10-2964212.jpg?tf=1200x' alt='La fiebre de los plegables continua: realme se suma al carro de estos dispositivos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/streaming/skyshowtime-prohibe-cuentas-compartidas-1212530'>SkyShowtime imita a Netflix y también prohíbe las cuentas compartidas</a></h4>
-    <a href='https://computerhoy.com/streaming/skyshowtime-prohibe-cuentas-compartidas-1212530' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/skyshowtime-2956132.jpg?tf=1200x' alt='SkyShowtime imita a Netflix y también prohíbe las cuentas compartidas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/gaming/playstation-5-consigue-primera-vez-superar-nintendo-switch-1212490'>PlayStation 5 consigue por primera vez superar a Nintendo Switch</a></h4>
-    <a href='https://computerhoy.com/gaming/playstation-5-consigue-primera-vez-superar-nintendo-switch-1212490' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/playstation-5-ps5-2963696.jpg?tf=1200x' alt='PlayStation 5 consigue por primera vez superar a Nintendo Switch' />
     </a>
 </div>
 
