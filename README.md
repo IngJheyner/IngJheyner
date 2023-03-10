@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/primer-android-isla-dinamica-apple-1212804'>Este es el primer Android con la isla dinámica de Apple</a></h4>
-    <a href='https://computerhoy.com/moviles/primer-android-isla-dinamica-apple-1212804' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/realme-c55-2979224.jpg?tf=1200x' alt='Este es el primer Android con la isla dinámica de Apple' />
+    <h4><a href='https://computerhoy.com/tecnologia/abramsx-supertanque-ultima-tecnologia-podria-decantar-guerra-ucrania-1212966'>AbramsX: así es el supertanque de última tecnología que podría decantar la guerra en Ucrania</a></h4>
+    <a href='https://computerhoy.com/tecnologia/abramsx-supertanque-ultima-tecnologia-podria-decantar-guerra-ucrania-1212966' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/abramsx-supertanque-hibrido-alta-tecnologia-podria-decantar-guerra-ucrania-2979814.jpg?tf=1200x' alt='AbramsX: así es el supertanque de última tecnología que podría decantar la guerra en Ucrania' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/vall-microsoft-herramienta-inteligencia-artificial-ahora-traduce-voz-cualquier-idioma-1212822'>VALL-E de Microsoft: la herramienta de inteligencia artificial que ahora traduce tu voz a cualquier idioma</a></h4>
-    <a href='https://computerhoy.com/tecnologia/vall-microsoft-herramienta-inteligencia-artificial-ahora-traduce-voz-cualquier-idioma-1212822' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/nueva-ia-microsoft-simula-voz-cualquier-persona-tan-solo-3-segundos-audio-2924656.jpg?tf=1200x' alt='VALL-E de Microsoft: la herramienta de inteligencia artificial que ahora traduce tu voz a cualquier idioma' />
+    <h4><a href='https://computerhoy.com/tutoriales/como-seguir-utilizando-amazon-fire-tv-aunque-hayas-perdido-mando-1212956'>Cómo seguir utilizando tu Amazon Fire TV aunque hayas perdido el mando</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-seguir-utilizando-amazon-fire-tv-aunque-hayas-perdido-mando-1212956' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/mando-distancia-fire-tv-stick-apuntando-tv-2885879.jpg?tf=1200x' alt='Cómo seguir utilizando tu Amazon Fire TV aunque hayas perdido el mando' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/listas/tecnologia/freidoras-sin-aceite-cual-comprar-509813'>Las mejores freidoras sin aceite que puedes comprar este año</a></h4>
-    <a href='https://computerhoy.com/listas/tecnologia/freidoras-sin-aceite-cual-comprar-509813' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/philips-essential-airfryer-2916254.jpg?tf=1200x' alt='Las mejores freidoras sin aceite que puedes comprar este año' />
+    <h4><a href='https://computerhoy.com/redes-sociales/mareantes-cifras-onlyfans-quienes-son-cuanto-ganan-mejor-pagados-1212918'>Las mareantes cifras de OnlyFans: ¿quiénes son y cuánto ganan los mejor pagados?</a></h4>
+    <a href='https://computerhoy.com/redes-sociales/mareantes-cifras-onlyfans-quienes-son-cuanto-ganan-mejor-pagados-1212918' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/onlyfans-2979606.jpg?tf=1200x' alt='Las mareantes cifras de OnlyFans: ¿quiénes son y cuánto ganan los mejor pagados?' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/agiletv-precios-como-funciona-television-yoigo-1212282'>AgileTV: precios y cómo funciona la televisión de Yoigo</a></h4>
-    <a href='https://computerhoy.com/tutoriales/agiletv-precios-como-funciona-television-yoigo-1212282' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/agiletv-precios-como-funciona-television-yoigo-2978256.jpg?tf=1200x' alt='AgileTV: precios y cómo funciona la televisión de Yoigo' />
+    <h4><a href='https://computerhoy.com/motor/bateria-litio-no-necesitara-minas-ni-contaminacion-1212916'>Así es la batería de litio que no necesitará de minas ni contaminación</a></h4>
+    <a href='https://computerhoy.com/motor/bateria-litio-no-necesitara-minas-ni-contaminacion-1212916' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/bateria-litio-2979576.jpg?tf=1200x' alt='Así es la batería de litio que no necesitará de minas ni contaminación' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/futuro-sostenible-como-reducen-principales-empresas-tecnologicas-huella-carbono-1210520'>Un futuro sostenible: ¿cómo reducen las principales empresas tecnológicas su huella de carbono?</a></h4>
-    <a href='https://computerhoy.com/tecnologia/futuro-sostenible-como-reducen-principales-empresas-tecnologicas-huella-carbono-1210520' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/futuro-sostenible-como-reducen-principales-empresas-tecnologicas-huella-carbono-2977570.jpg?tf=1200x' alt='Un futuro sostenible: ¿cómo reducen las principales empresas tecnológicas su huella de carbono?' />
+    <h4><a href='https://computerhoy.com/tecnologia/gpt-4-motor-nuevo-chatgpt-llega-proxima-semana-video-como-protagonista-1212826'>GPT-4, el motor del nuevo ChatGPT llega la próxima semana con el vídeo como protagonista</a></h4>
+    <a href='https://computerhoy.com/tecnologia/gpt-4-motor-nuevo-chatgpt-llega-proxima-semana-video-como-protagonista-1212826' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/gpt-4-sera-verdadera-revolucion-sector-inteligencia-artificial-2934662.jpg?tf=1200x' alt='GPT-4, el motor del nuevo ChatGPT llega la próxima semana con el vídeo como protagonista' />
     </a>
 </div>
 
