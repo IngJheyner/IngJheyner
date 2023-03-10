@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/software/actualizacion-software-bloquea-uso-cartuchos-no-originales-impresoras-hp-1213012'>Una actualización de software bloquea el uso de cartuchos no originales en impresoras HP</a></h4>
+    <a href='https://computerhoy.com/software/actualizacion-software-bloquea-uso-cartuchos-no-originales-impresoras-hp-1213012' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/impresora-hp-2548847.jpg?tf=1200x' alt='Una actualización de software bloquea el uso de cartuchos no originales en impresoras HP' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/10-razones-peso-hacer-testamento-ocu-1213010'>10 razones de peso para hacer el testamento, según la OCU</a></h4>
+    <a href='https://computerhoy.com/life/10-razones-peso-hacer-testamento-ocu-1213010' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/pareja-redacta-testamento-2852167.jpg?tf=1200x' alt='10 razones de peso para hacer el testamento, según la OCU' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/streaming/series-ver-fin-semana-disney-netflix-skyshowtime-western-acosador-dictadura-1212992'>Qué series ver este fin de semana en Disney+, Netflix y SkyShowtime: un western, un acosador y una dictadura</a></h4>
+    <a href='https://computerhoy.com/streaming/series-ver-fin-semana-disney-netflix-skyshowtime-western-acosador-dictadura-1212992' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/1923-2979862.jpg?tf=1200x' alt='Qué series ver este fin de semana en Disney+, Netflix y SkyShowtime: un western, un acosador y una dictadura' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/streaming/peliculas-ver-fin-semana-netflix-movistar-plus-will-smith-avion-desaparecido-luther-1212888'>Qué películas ver este fin de semana en Netflix y Movistar Plus+: Will Smith, un avión desaparecido y Luther</a></h4>
     <a href='https://computerhoy.com/streaming/peliculas-ver-fin-semana-netflix-movistar-plus-will-smith-avion-desaparecido-luther-1212888' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/peliculas-ver-fin-semana-netflix-movistar-plus-will-smith-avion-desaparecido-luther-2979892.jpg?tf=1200x' alt='Qué películas ver este fin de semana en Netflix y Movistar Plus+: Will Smith, un avión desaparecido y Luther' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/abramsx-supertanque-ultima-tecnologia-podria-decantar-guerra-ucrania-1212966'>AbramsX: así es el supertanque de última tecnología que podría decantar la guerra en Ucrania</a></h4>
     <a href='https://computerhoy.com/tecnologia/abramsx-supertanque-ultima-tecnologia-podria-decantar-guerra-ucrania-1212966' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/abramsx-supertanque-hibrido-alta-tecnologia-podria-decantar-guerra-ucrania-2979814.jpg?tf=1200x' alt='AbramsX: así es el supertanque de última tecnología que podría decantar la guerra en Ucrania' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-seguir-utilizando-amazon-fire-tv-aunque-hayas-perdido-mando-1212956'>Cómo seguir utilizando tu Amazon Fire TV aunque hayas perdido el mando</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-seguir-utilizando-amazon-fire-tv-aunque-hayas-perdido-mando-1212956' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/mando-distancia-fire-tv-stick-apuntando-tv-2885879.jpg?tf=1200x' alt='Cómo seguir utilizando tu Amazon Fire TV aunque hayas perdido el mando' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/redes-sociales/mareantes-cifras-onlyfans-quienes-son-cuanto-ganan-mejor-pagados-1212918'>Las mareantes cifras de OnlyFans: ¿quiénes son y cuánto ganan los mejor pagados?</a></h4>
-    <a href='https://computerhoy.com/redes-sociales/mareantes-cifras-onlyfans-quienes-son-cuanto-ganan-mejor-pagados-1212918' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/onlyfans-2979606.jpg?tf=1200x' alt='Las mareantes cifras de OnlyFans: ¿quiénes son y cuánto ganan los mejor pagados?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/bateria-litio-no-necesitara-minas-ni-contaminacion-1212916'>Así es la batería de litio que no necesitará de minas ni contaminación</a></h4>
-    <a href='https://computerhoy.com/motor/bateria-litio-no-necesitara-minas-ni-contaminacion-1212916' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/bateria-litio-2979576.jpg?tf=1200x' alt='Así es la batería de litio que no necesitará de minas ni contaminación' />
     </a>
 </div>
 
