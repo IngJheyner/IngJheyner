@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/compra-sofa-segunda-mano-mercado-benefico-encuentra-6000-euros-dentro-1212776'>Compra un sofá en un mercadillo benéfico, y se encuentra 6.000 euros dentro, ¿qué hizo con ellos?</a></h4>
-    <a href='https://computerhoy.com/life/compra-sofa-segunda-mano-mercado-benefico-encuentra-6000-euros-dentro-1212776' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/compra-sofa-mercado-benefico-encuentra-6000-euros-dentro-hizo-ellos-2978920.jpg?tf=1200x' alt='Compra un sofá en un mercadillo benéfico, y se encuentra 6.000 euros dentro, ¿qué hizo con ellos?' />
+    <h4><a href='https://computerhoy.com/listas/tecnologia/freidoras-sin-aceite-cual-comprar-509813'>Las mejores freidoras sin aceite que puedes comprar este año</a></h4>
+    <a href='https://computerhoy.com/listas/tecnologia/freidoras-sin-aceite-cual-comprar-509813' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/philips-essential-airfryer-2916254.jpg?tf=1200x' alt='Las mejores freidoras sin aceite que puedes comprar este año' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/redes-sociales/elon-musk-humilla-despide-trabajador-twitter-distrofia-muscular-acaba-pidiendo-perdon-1212550'>Elon Musk humilla y despide a un trabajador de Twitter con distrofia muscular, pero algo ocurre, y acaba pidiéndole perdón</a></h4>
-    <a href='https://computerhoy.com/redes-sociales/elon-musk-humilla-despide-trabajador-twitter-distrofia-muscular-acaba-pidiendo-perdon-1212550' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/elon-musk-humilla-despide-trabajador-twitter-distrofia-muscular-pero-algo-ocurre-acaba-pidiendole-perdon-2978906.jpg?tf=1200x' alt='Elon Musk humilla y despide a un trabajador de Twitter con distrofia muscular, pero algo ocurre, y acaba pidiéndole perdón' />
+    <h4><a href='https://computerhoy.com/tutoriales/agiletv-precios-como-funciona-television-yoigo-1212282'>AgileTV: precios y cómo funciona la televisión de Yoigo</a></h4>
+    <a href='https://computerhoy.com/tutoriales/agiletv-precios-como-funciona-television-yoigo-1212282' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/agiletv-precios-como-funciona-television-yoigo-2978256.jpg?tf=1200x' alt='AgileTV: precios y cómo funciona la televisión de Yoigo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/hogar/robot-aspirador-samsung-lidar-oferta-1212538'>Samsung también fabrica robots aspirador, y este modelo con LiDAR es uno de los mejores</a></h4>
-    <a href='https://computerhoy.com/hogar/robot-aspirador-samsung-lidar-oferta-1212538' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/samsung-tambien-fabrica-robots-aspirador-modelo-lidar-mejores-2978888.jpg?tf=1200x' alt='Samsung también fabrica robots aspirador, y este modelo con LiDAR es uno de los mejores' />
+    <h4><a href='https://computerhoy.com/tecnologia/futuro-sostenible-como-reducen-principales-empresas-tecnologicas-huella-carbono-1210520'>Un futuro sostenible: ¿cómo reducen las principales empresas tecnológicas su huella de carbono?</a></h4>
+    <a href='https://computerhoy.com/tecnologia/futuro-sostenible-como-reducen-principales-empresas-tecnologicas-huella-carbono-1210520' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/futuro-sostenible-como-reducen-principales-empresas-tecnologicas-huella-carbono-2977570.jpg?tf=1200x' alt='Un futuro sostenible: ¿cómo reducen las principales empresas tecnológicas su huella de carbono?' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/gaming/epic-games-explica-gasta-millones-dolares-regalar-juegos-anuncia-cambio-muy-importante-1212492'>Epic Games explica por qué se gasta millones de dólares en regalar juegos, y anuncia un cambio muy importante</a></h4>
-    <a href='https://computerhoy.com/gaming/epic-games-explica-gasta-millones-dolares-regalar-juegos-anuncia-cambio-muy-importante-1212492' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/epic-games-crossplay-2734041.jpg?tf=1200x' alt='Epic Games explica por qué se gasta millones de dólares en regalar juegos, y anuncia un cambio muy importante' />
+    <h4><a href='https://computerhoy.com/tecnologia/31-noticias-tecnologia-comenzar-manana-informado-ultimo-1212788'>31 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
+    <a href='https://computerhoy.com/tecnologia/31-noticias-tecnologia-comenzar-manana-informado-ultimo-1212788' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/30-noticias-tecnologia-comenzar-manana-informado-ultimo-2979138.jpg?tf=1200x' alt='31 noticias de tecnología para comenzar la mañana informado de lo último' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/fiebre-plegables-continua-realme-suma-carro-estos-dispositivos-1212486'>La fiebre de los plegables continua: realme se suma al carro de estos dispositivos</a></h4>
-    <a href='https://computerhoy.com/moviles/fiebre-plegables-continua-realme-suma-carro-estos-dispositivos-1212486' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/realme-10-2964212.jpg?tf=1200x' alt='La fiebre de los plegables continua: realme se suma al carro de estos dispositivos' />
+    <h4><a href='https://computerhoy.com/analisis/analisis-poco-x5-poco-x5-pro-nueva-gama-media-2023-equilibrada-1210702'>Análisis POCO X5 y POCO X5 Pro, la nueva gama media de 2023 más equilibrada</a></h4>
+    <a href='https://computerhoy.com/analisis/analisis-poco-x5-poco-x5-pro-nueva-gama-media-2023-equilibrada-1210702' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/poco-x5-poco-x5-pro-2948030.jpg?tf=1200x' alt='Análisis POCO X5 y POCO X5 Pro, la nueva gama media de 2023 más equilibrada' />
     </a>
 </div>
 
