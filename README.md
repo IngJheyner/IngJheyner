@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/streaming/peliculas-ver-fin-semana-netflix-movistar-plus-will-smith-avion-desaparecido-luther-1212888'>Qué películas ver este fin de semana en Netflix y Movistar Plus+: Will Smith, un avión desaparecido y Luther</a></h4>
+    <a href='https://computerhoy.com/streaming/peliculas-ver-fin-semana-netflix-movistar-plus-will-smith-avion-desaparecido-luther-1212888' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/peliculas-ver-fin-semana-netflix-movistar-plus-will-smith-avion-desaparecido-luther-2979892.jpg?tf=1200x' alt='Qué películas ver este fin de semana en Netflix y Movistar Plus+: Will Smith, un avión desaparecido y Luther' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/abramsx-supertanque-ultima-tecnologia-podria-decantar-guerra-ucrania-1212966'>AbramsX: así es el supertanque de última tecnología que podría decantar la guerra en Ucrania</a></h4>
     <a href='https://computerhoy.com/tecnologia/abramsx-supertanque-ultima-tecnologia-podria-decantar-guerra-ucrania-1212966' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/abramsx-supertanque-hibrido-alta-tecnologia-podria-decantar-guerra-ucrania-2979814.jpg?tf=1200x' alt='AbramsX: así es el supertanque de última tecnología que podría decantar la guerra en Ucrania' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/motor/bateria-litio-no-necesitara-minas-ni-contaminacion-1212916'>Así es la batería de litio que no necesitará de minas ni contaminación</a></h4>
     <a href='https://computerhoy.com/motor/bateria-litio-no-necesitara-minas-ni-contaminacion-1212916' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/bateria-litio-2979576.jpg?tf=1200x' alt='Así es la batería de litio que no necesitará de minas ni contaminación' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/gpt-4-motor-nuevo-chatgpt-llega-proxima-semana-video-como-protagonista-1212826'>GPT-4, el motor del nuevo ChatGPT llega la próxima semana con el vídeo como protagonista</a></h4>
-    <a href='https://computerhoy.com/tecnologia/gpt-4-motor-nuevo-chatgpt-llega-proxima-semana-video-como-protagonista-1212826' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/gpt-4-sera-verdadera-revolucion-sector-inteligencia-artificial-2934662.jpg?tf=1200x' alt='GPT-4, el motor del nuevo ChatGPT llega la próxima semana con el vídeo como protagonista' />
     </a>
 </div>
 
