@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/android/ya-disponible-android-auto-91-algunos-cambios-muy-curiosos-1212516'>Ya está disponible Android Auto 9.1 con algunos cambios muy curiosos</a></h4>
-    <a href='https://computerhoy.com/android/ya-disponible-android-auto-91-algunos-cambios-muy-curiosos-1212516' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/android-auto-2973768.jpg?tf=1200x' alt='Ya está disponible Android Auto 9.1 con algunos cambios muy curiosos' />
+    <h4><a href='https://computerhoy.com/hogar/robot-aspirador-samsung-lidar-oferta-1212538'>Samsung también fabrica robots aspirador, y este modelo con LiDAR es uno de los mejores</a></h4>
+    <a href='https://computerhoy.com/hogar/robot-aspirador-samsung-lidar-oferta-1212538' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/samsung-tambien-fabrica-robots-aspirador-modelo-lidar-mejores-2978888.jpg?tf=1200x' alt='Samsung también fabrica robots aspirador, y este modelo con LiDAR es uno de los mejores' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/gaming/chatgpt-todas-partes-ahora-llega-bots-discord-1212488'>ChatGPT está en todas partes y ahora llega a los bots de Discord</a></h4>
-    <a href='https://computerhoy.com/gaming/chatgpt-todas-partes-ahora-llega-bots-discord-1212488' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/discord-2449211.jpg?tf=1200x' alt='ChatGPT está en todas partes y ahora llega a los bots de Discord' />
+    <h4><a href='https://computerhoy.com/gaming/epic-games-explica-gasta-millones-dolares-regalar-juegos-anuncia-cambio-muy-importante-1212492'>Epic Games explica por qué se gasta millones de dólares en regalar juegos, y anuncia un cambio muy importante</a></h4>
+    <a href='https://computerhoy.com/gaming/epic-games-explica-gasta-millones-dolares-regalar-juegos-anuncia-cambio-muy-importante-1212492' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/epic-games-crossplay-2734041.jpg?tf=1200x' alt='Epic Games explica por qué se gasta millones de dólares en regalar juegos, y anuncia un cambio muy importante' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/criptos/nuevo-palo-bitcoin-cierra-silvergate-banco-especializado-criptomonedas-1212450'>Nuevo palo para Bitcoin: cierra Silvergate, el banco especializado en criptomonedas</a></h4>
-    <a href='https://computerhoy.com/criptos/nuevo-palo-bitcoin-cierra-silvergate-banco-especializado-criptomonedas-1212450' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/quien-tiene-bitcoins-intentamos-desvelar-secreto-mejor-guardado-2944424.jpg?tf=1200x' alt='Nuevo palo para Bitcoin: cierra Silvergate, el banco especializado en criptomonedas' />
+    <h4><a href='https://computerhoy.com/moviles/fiebre-plegables-continua-realme-suma-carro-estos-dispositivos-1212486'>La fiebre de los plegables continua: realme se suma al carro de estos dispositivos</a></h4>
+    <a href='https://computerhoy.com/moviles/fiebre-plegables-continua-realme-suma-carro-estos-dispositivos-1212486' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/realme-10-2964212.jpg?tf=1200x' alt='La fiebre de los plegables continua: realme se suma al carro de estos dispositivos' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/streaming/netflix-ya-permite-personalizar-subtitulos-como-amazon-prime-video-1212452'>Netflix ya permite personalizar los subtítulos como en Amazon Prime Video</a></h4>
-    <a href='https://computerhoy.com/streaming/netflix-ya-permite-personalizar-subtitulos-como-amazon-prime-video-1212452' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/netflix-ya-permite-personalizar-subtitulos-como-amazon-prime-video-2978780.jpg?tf=1200x' alt='Netflix ya permite personalizar los subtítulos como en Amazon Prime Video' />
+    <h4><a href='https://computerhoy.com/streaming/skyshowtime-prohibe-cuentas-compartidas-1212530'>SkyShowtime imita a Netflix y también prohíbe las cuentas compartidas</a></h4>
+    <a href='https://computerhoy.com/streaming/skyshowtime-prohibe-cuentas-compartidas-1212530' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/skyshowtime-2956132.jpg?tf=1200x' alt='SkyShowtime imita a Netflix y también prohíbe las cuentas compartidas' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/life/mejores-secadoras-ropa-pequenas-puedes-comprar-1015377'>Mejores secadoras de ropa pequeñas que puedes comprar</a></h4>
-    <a href='https://computerhoy.com/reportajes/life/mejores-secadoras-ropa-pequenas-puedes-comprar-1015377' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/infiniton-sd-3m-2957114.jpg?tf=1200x' alt='Mejores secadoras de ropa pequeñas que puedes comprar' />
+    <h4><a href='https://computerhoy.com/gaming/playstation-5-consigue-primera-vez-superar-nintendo-switch-1212490'>PlayStation 5 consigue por primera vez superar a Nintendo Switch</a></h4>
+    <a href='https://computerhoy.com/gaming/playstation-5-consigue-primera-vez-superar-nintendo-switch-1212490' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/playstation-5-ps5-2963696.jpg?tf=1200x' alt='PlayStation 5 consigue por primera vez superar a Nintendo Switch' />
     </a>
 </div>
 
