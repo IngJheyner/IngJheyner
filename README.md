@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/software/actualizacion-software-bloquea-uso-cartuchos-no-originales-impresoras-hp-1213012'>Una actualización de software bloquea el uso de cartuchos no originales en impresoras HP</a></h4>
-    <a href='https://computerhoy.com/software/actualizacion-software-bloquea-uso-cartuchos-no-originales-impresoras-hp-1213012' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/impresora-hp-2548847.jpg?tf=1200x' alt='Una actualización de software bloquea el uso de cartuchos no originales en impresoras HP' />
+    <h4><a href='https://computerhoy.com/tv/televisor-xiaomi-f2-55-pulgadas-4k-hdr-fire-os-descuento-1213108'>El televisor Xiaomi F2 de 55 pulgadas 4K HDR con Fire OS, tiene un 20% de descuento</a></h4>
+    <a href='https://computerhoy.com/tv/televisor-xiaomi-f2-55-pulgadas-4k-hdr-fire-os-descuento-1213108' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/televisor-xiaomi-f2-55-pulgadas-4k-hdr-fire-os-tiene-20-descuento-2980212.jpg?tf=1200x' alt='El televisor Xiaomi F2 de 55 pulgadas 4K HDR con Fire OS, tiene un 20% de descuento' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/10-razones-peso-hacer-testamento-ocu-1213010'>10 razones de peso para hacer el testamento, según la OCU</a></h4>
-    <a href='https://computerhoy.com/life/10-razones-peso-hacer-testamento-ocu-1213010' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/pareja-redacta-testamento-2852167.jpg?tf=1200x' alt='10 razones de peso para hacer el testamento, según la OCU' />
+    <h4><a href='https://computerhoy.com/software/microsoft-word-anade-fin-ese-atajo-teclado-llevas-toda-vida-esperando-1213014'>Microsoft Word añade por fin ese atajo de teclado que llevas toda la vida esperando</a></h4>
+    <a href='https://computerhoy.com/software/microsoft-word-anade-fin-ese-atajo-teclado-llevas-toda-vida-esperando-1213014' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/09/microsoft-word_0.jpg?tf=1200x' alt='Microsoft Word añade por fin ese atajo de teclado que llevas toda la vida esperando' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/streaming/series-ver-fin-semana-disney-netflix-skyshowtime-western-acosador-dictadura-1212992'>Qué series ver este fin de semana en Disney+, Netflix y SkyShowtime: un western, un acosador y una dictadura</a></h4>
-    <a href='https://computerhoy.com/streaming/series-ver-fin-semana-disney-netflix-skyshowtime-western-acosador-dictadura-1212992' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/1923-2979862.jpg?tf=1200x' alt='Qué series ver este fin de semana en Disney+, Netflix y SkyShowtime: un western, un acosador y una dictadura' />
+    <h4><a href='https://computerhoy.com/entretenimiento/reservar-entradas-super-mario-bros-pelicula-trailer-final-1213102'>Ya puedes reservar las entradas para Super Mario Bros La Película, y disfrutar con el tráiler final</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/reservar-entradas-super-mario-bros-pelicula-trailer-final-1213102' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/verticalimage1678478829995-2980194.jpg?tf=1200x' alt='Ya puedes reservar las entradas para Super Mario Bros La Película, y disfrutar con el tráiler final' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/streaming/peliculas-ver-fin-semana-netflix-movistar-plus-will-smith-avion-desaparecido-luther-1212888'>Qué películas ver este fin de semana en Netflix y Movistar Plus+: Will Smith, un avión desaparecido y Luther</a></h4>
-    <a href='https://computerhoy.com/streaming/peliculas-ver-fin-semana-netflix-movistar-plus-will-smith-avion-desaparecido-luther-1212888' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/peliculas-ver-fin-semana-netflix-movistar-plus-will-smith-avion-desaparecido-luther-2979892.jpg?tf=1200x' alt='Qué películas ver este fin de semana en Netflix y Movistar Plus+: Will Smith, un avión desaparecido y Luther' />
+    <h4><a href='https://computerhoy.com/motor/gana-lamborghini-sorteo-convierte-peor-pesadilla-1213100'>Gana un Lamborghini en un sorteo y se convierte en su peor pesadilla</a></h4>
+    <a href='https://computerhoy.com/motor/gana-lamborghini-sorteo-convierte-peor-pesadilla-1213100' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/gana-lamborghini-sorteo-convierte-peor-pesadilla-2980206.jpg?tf=1200x' alt='Gana un Lamborghini en un sorteo y se convierte en su peor pesadilla' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/abramsx-supertanque-ultima-tecnologia-podria-decantar-guerra-ucrania-1212966'>AbramsX: así es el supertanque de última tecnología que podría decantar la guerra en Ucrania</a></h4>
-    <a href='https://computerhoy.com/tecnologia/abramsx-supertanque-ultima-tecnologia-podria-decantar-guerra-ucrania-1212966' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/abramsx-supertanque-hibrido-alta-tecnologia-podria-decantar-guerra-ucrania-2979814.jpg?tf=1200x' alt='AbramsX: así es el supertanque de última tecnología que podría decantar la guerra en Ucrania' />
+    <h4><a href='https://computerhoy.com/life/cuantos-colores-ves-ilusion-optica-viral-te-hara-explotar-cabeza-1213096'>¿Cuántos colores ves? Esta ilusión óptica viral te hará explotar la cabeza</a></h4>
+    <a href='https://computerhoy.com/life/cuantos-colores-ves-ilusion-optica-viral-te-hara-explotar-cabeza-1213096' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/ilusion-optica-2980200.jpg?tf=1200x' alt='¿Cuántos colores ves? Esta ilusión óptica viral te hará explotar la cabeza' />
     </a>
 </div>
 
