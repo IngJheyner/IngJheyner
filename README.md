@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tv/no-todas-conexiones-hdmi-televisor-son-iguales-seguramente-no-sabias-1213400'>No todas las conexiones HDMI de tu televisor son iguales y seguramente no lo sabías</a></h4>
-    <a href='https://computerhoy.com/tv/no-todas-conexiones-hdmi-televisor-son-iguales-seguramente-no-sabias-1213400' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/conexion-hdmi-2980598.jpg?tf=1200x' alt='No todas las conexiones HDMI de tu televisor son iguales y seguramente no lo sabías' />
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/como-elegir-mejor-cable-ethernet-tu-router-casa-276105'>Cómo elegir el mejor cable de Ethernet para tu router doméstico</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/como-elegir-mejor-cable-ethernet-tu-router-casa-276105' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/cable-ethernet-2461487.jpg?tf=1200x' alt='Cómo elegir el mejor cable de Ethernet para tu router doméstico' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/estan-cambiando-curso-guerra-ucrania-pilotos-drones-1213396'>Así están cambiando el curso de la guerra de Ucrania los pilotos de drones</a></h4>
-    <a href='https://computerhoy.com/life/estan-cambiando-curso-guerra-ucrania-pilotos-drones-1213396' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/estan-cambiando-curso-guerra-ucrania-pilotos-drones-2980594.jpg?tf=1200x' alt='Así están cambiando el curso de la guerra de Ucrania los pilotos de drones' />
+    <h4><a href='https://computerhoy.com/apps/error-android-auto-afecta-mejor-aplicacion-musica-1213442'>Este error de Android Auto afecta a la mejor aplicación de música</a></h4>
+    <a href='https://computerhoy.com/apps/error-android-auto-afecta-mejor-aplicacion-musica-1213442' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/android-auto-2592657.jpg?tf=1200x' alt='Este error de Android Auto afecta a la mejor aplicación de música' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-optimizar-rendimiento-disco-ssd-windows-11-1211754'>Cómo optimizar el rendimiento de un disco SSD en Windows 11</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-optimizar-rendimiento-disco-ssd-windows-11-1211754' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/09/unidad-ssd-kingston-portatil-2068351.jpg?tf=1200x' alt='Cómo optimizar el rendimiento de un disco SSD en Windows 11' />
+    <h4><a href='https://computerhoy.com/listas/tecnologia/5-mejores-radiadores-consumo-ahorrar-factura-luz-pasar-frio-532461'>Los mejores radiadores de bajo consumo para ahorrar en la factura de la luz sin pasar frío</a></h4>
+    <a href='https://computerhoy.com/listas/tecnologia/5-mejores-radiadores-consumo-ahorrar-factura-luz-pasar-frio-532461' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/radiador-electrico-salon-2904440.jpg?tf=1200x' alt='Los mejores radiadores de bajo consumo para ahorrar en la factura de la luz sin pasar frío' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/musculo-puedes-ejercitar-incluso-sentado-activa-metabolismo-te-ayuda-perder-peso-1213394'>El músculo que puedes ejercitar incluso sentado que activa tu metabolismo y te ayuda a perder peso</a></h4>
-    <a href='https://computerhoy.com/life/musculo-puedes-ejercitar-incluso-sentado-activa-metabolismo-te-ayuda-perder-peso-1213394' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/hombre-subiendo-escaleras-2980566.jpg?tf=1200x' alt='El músculo que puedes ejercitar incluso sentado que activa tu metabolismo y te ayuda a perder peso' />
+    <h4><a href='https://computerhoy.com/tutoriales/como-desactivar-popup-chrome-te-invita-salvar-contrasenas-1198802'>Cómo desactivar el popup de Chrome que te invita a salvar contraseñas</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-desactivar-popup-chrome-te-invita-salvar-contrasenas-1198802' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/ordeanador-password-2953452.jpg?tf=1200x' alt='Cómo desactivar el popup de Chrome que te invita a salvar contraseñas' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/7-peliculas-aviones-desaparecidos-tragedias-aereas-merecen-mucho-pena-1211916'>7 películas sobre aviones desaparecidos o tragedias aéreas que merecen mucho la pena</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/7-peliculas-aviones-desaparecidos-tragedias-aereas-merecen-mucho-pena-1211916' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/7-peliculas-aviones-desaparecidos-tragedias-aereas-merecen-mucho-pena-2978282.jpg?tf=1200x' alt='7 películas sobre aviones desaparecidos o tragedias aéreas que merecen mucho la pena' />
+    <h4><a href='https://computerhoy.com/ciencia/disney-muestra-robot-conejo-patines-no-deja-caerse-1213408'>Disney muestra un robot conejo con patines que no deja de caerse</a></h4>
+    <a href='https://computerhoy.com/ciencia/disney-muestra-robot-conejo-patines-no-deja-caerse-1213408' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/disney-muestra-espeluznante-robot-conejo-patines-no-deja-caerse-2980602.jpg?tf=1200x' alt='Disney muestra un robot conejo con patines que no deja de caerse' />
     </a>
 </div>
 
