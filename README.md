@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-deberias-activar-hyper-v-windows-11-1206094'>Cómo y por qué deberías activar Hyper-V en Windows 11</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-deberias-activar-hyper-v-windows-11-1206094' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/windows-11-2915612.jpg?tf=1200x' alt='Cómo y por qué deberías activar Hyper-V en Windows 11' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/moviles/8000-km-llegar-mwc-celebra-15-minutos-mi-casa-1210554'>8.000 km para llegar a un MWC que se celebra a 15 minutos de mi casa</a></h4>
+    <a href='https://computerhoy.com/moviles/8000-km-llegar-mwc-celebra-15-minutos-mi-casa-1210554' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/8000-km-llegar-mwc-2974990.jpg?tf=1200x' alt='8.000 km para llegar a un MWC que se celebra a 15 minutos de mi casa' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/como-nos-enganan-mapas-google-maps-1212424'>Cómo nos engañan los mapas y Google Maps</a></h4>
     <a href='https://computerhoy.com/life/como-nos-enganan-mapas-google-maps-1212424' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/mapas-google-maps-2978622.jpg?tf=1200x' alt='Cómo nos engañan los mapas y Google Maps' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/chatgpt-entrevista-inteligencia-artificial-potente-ultimos-tiempos-1210528'>ChatGPT: una entrevista a la inteligencia artificial más potente de los últimos tiempos</a></h4>
     <a href='https://computerhoy.com/tecnologia/chatgpt-entrevista-inteligencia-artificial-potente-ultimos-tiempos-1210528' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/crees-chatgpt-demasiado-light-openai-quiere-dotarlo-personalidad-controversia-2959556.jpg?tf=1200x' alt='ChatGPT: una entrevista a la inteligencia artificial más potente de los últimos tiempos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/que-pasaria-todas-personas-tierra-saltan-mismo-tiempo-1212870'>¿Qué pasaría si todas las personas de la Tierra saltan al mismo tiempo?</a></h4>
-    <a href='https://computerhoy.com/ciencia/que-pasaria-todas-personas-tierra-saltan-mismo-tiempo-1212870' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/pasaria-todas-personas-tierra-saltan-mismo-tiempo-2979376.jpg?tf=1200x' alt='¿Qué pasaría si todas las personas de la Tierra saltan al mismo tiempo?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/dunas-redondas-marte-1213340'>Descubren dunas completamente redondas en Marte, y los científicos están desconcertados</a></h4>
-    <a href='https://computerhoy.com/espacio/dunas-redondas-marte-1213340' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/descubre-dunas-completamente-redondas-marte-cientificos-estan-desconcertados-2980448.jpg?tf=1200x' alt='Descubren dunas completamente redondas en Marte, y los científicos están desconcertados' />
     </a>
 </div>
 
