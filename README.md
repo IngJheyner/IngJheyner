@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/gaming/cuando-saldra-steam-deck-2-1213338'>Si estás esperando a la Steam Deck 2, mejor busca un sillón bien cómodo</a></h4>
+    <a href='https://computerhoy.com/gaming/cuando-saldra-steam-deck-2-1213338' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/analisis-steam-deck-2704077.jpg?tf=1200x' alt='Si estás esperando a la Steam Deck 2, mejor busca un sillón bien cómodo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/audio/vinilos-venden-mas-unidades-cds-2022-1213110'>Por primera vez desde 1987, los vinilos venden más unidades que los CDs</a></h4>
+    <a href='https://computerhoy.com/audio/vinilos-venden-mas-unidades-cds-2022-1213110' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/primera-vez-1987-vinilos-venden-unidades-cds-2980214.jpg?tf=1200x' alt='Por primera vez desde 1987, los vinilos venden más unidades que los CDs' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tv/televisor-xiaomi-f2-55-pulgadas-4k-hdr-fire-os-descuento-1213108'>El televisor Xiaomi F2 de 55 pulgadas 4K HDR con Fire OS, tiene un 20% de descuento</a></h4>
     <a href='https://computerhoy.com/tv/televisor-xiaomi-f2-55-pulgadas-4k-hdr-fire-os-descuento-1213108' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/televisor-xiaomi-f2-55-pulgadas-4k-hdr-fire-os-tiene-20-descuento-2980212.jpg?tf=1200x' alt='El televisor Xiaomi F2 de 55 pulgadas 4K HDR con Fire OS, tiene un 20% de descuento' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/entretenimiento/reservar-entradas-super-mario-bros-pelicula-trailer-final-1213102'>Ya puedes reservar las entradas para Super Mario Bros La Película, y disfrutar con el tráiler final</a></h4>
     <a href='https://computerhoy.com/entretenimiento/reservar-entradas-super-mario-bros-pelicula-trailer-final-1213102' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/verticalimage1678478829995-2980194.jpg?tf=1200x' alt='Ya puedes reservar las entradas para Super Mario Bros La Película, y disfrutar con el tráiler final' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/gana-lamborghini-sorteo-convierte-peor-pesadilla-1213100'>Gana un Lamborghini en un sorteo y se convierte en su peor pesadilla</a></h4>
-    <a href='https://computerhoy.com/motor/gana-lamborghini-sorteo-convierte-peor-pesadilla-1213100' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/gana-lamborghini-sorteo-convierte-peor-pesadilla-2980206.jpg?tf=1200x' alt='Gana un Lamborghini en un sorteo y se convierte en su peor pesadilla' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/cuantos-colores-ves-ilusion-optica-viral-te-hara-explotar-cabeza-1213096'>¿Cuántos colores ves? Esta ilusión óptica viral te hará explotar la cabeza</a></h4>
-    <a href='https://computerhoy.com/life/cuantos-colores-ves-ilusion-optica-viral-te-hara-explotar-cabeza-1213096' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/ilusion-optica-2980200.jpg?tf=1200x' alt='¿Cuántos colores ves? Esta ilusión óptica viral te hará explotar la cabeza' />
     </a>
 </div>
 
