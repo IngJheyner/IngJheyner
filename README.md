@@ -82,9 +82,9 @@
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/reservar-entradas-super-mario-bros-pelicula-trailer-final-1213102'>Ya puedes reservar las entradas para Super Mario Bros La Película, y disfrutar con el tráiler final</a></h4>
+    <h4><a href='https://computerhoy.com/entretenimiento/reservar-entradas-super-mario-bros-pelicula-trailer-final-1213102'>Así puedes reservar las entradas para Super Mario Bros La Película, no te pierdas el tráiler final </a></h4>
     <a href='https://computerhoy.com/entretenimiento/reservar-entradas-super-mario-bros-pelicula-trailer-final-1213102' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/verticalimage1678478829995-2980194.jpg?tf=1200x' alt='Ya puedes reservar las entradas para Super Mario Bros La Película, y disfrutar con el tráiler final' />
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/verticalimage1678478829995-2980194.jpg?tf=1200x' alt='Así puedes reservar las entradas para Super Mario Bros La Película, no te pierdas el tráiler final ' />
     </a>
 </div>
 
