@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/mitad-jovenes-no-pueden-notar-diferencia-texto-escrito-chatgpt-humano-1213452'>Más de la mitad de los jóvenes no pueden notar la diferencia entre un texto escrito por ChatGPT o por un humano</a></h4>
+    <a href='https://computerhoy.com/ciencia/mitad-jovenes-no-pueden-notar-diferencia-texto-escrito-chatgpt-humano-1213452' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/inteligencia-artificial-2980656.jpg?tf=1200x' alt='Más de la mitad de los jóvenes no pueden notar la diferencia entre un texto escrito por ChatGPT o por un humano' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/twitter-te-da-ultima-oportunidad-descargues-antiguas-retransmisiones-periscope-perderas-siempre-1213446'>Twitter te da la última oportunidad para que descargues tus antiguas retransmisiones de Periscope o las perderás para siempre</a></h4>
+    <a href='https://computerhoy.com/apps/twitter-te-da-ultima-oportunidad-descargues-antiguas-retransmisiones-periscope-perderas-siempre-1213446' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/periscope-2980646.jpg?tf=1200x' alt='Twitter te da la última oportunidad para que descargues tus antiguas retransmisiones de Periscope o las perderás para siempre' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/como-elegir-mejor-cable-ethernet-tu-router-casa-276105'>Cómo elegir el mejor cable de Ethernet para tu router doméstico</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/como-elegir-mejor-cable-ethernet-tu-router-casa-276105' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/cable-ethernet-2461487.jpg?tf=1200x' alt='Cómo elegir el mejor cable de Ethernet para tu router doméstico' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/listas/tecnologia/5-mejores-radiadores-consumo-ahorrar-factura-luz-pasar-frio-532461'>Los mejores radiadores de bajo consumo para ahorrar en la factura de la luz sin pasar frío</a></h4>
     <a href='https://computerhoy.com/listas/tecnologia/5-mejores-radiadores-consumo-ahorrar-factura-luz-pasar-frio-532461' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/radiador-electrico-salon-2904440.jpg?tf=1200x' alt='Los mejores radiadores de bajo consumo para ahorrar en la factura de la luz sin pasar frío' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-desactivar-popup-chrome-te-invita-salvar-contrasenas-1198802'>Cómo desactivar el popup de Chrome que te invita a salvar contraseñas</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-desactivar-popup-chrome-te-invita-salvar-contrasenas-1198802' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/ordeanador-password-2953452.jpg?tf=1200x' alt='Cómo desactivar el popup de Chrome que te invita a salvar contraseñas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/disney-muestra-robot-conejo-patines-no-deja-caerse-1213408'>Disney muestra un robot conejo con patines que no deja de caerse</a></h4>
-    <a href='https://computerhoy.com/ciencia/disney-muestra-robot-conejo-patines-no-deja-caerse-1213408' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/disney-muestra-espeluznante-robot-conejo-patines-no-deja-caerse-2980602.jpg?tf=1200x' alt='Disney muestra un robot conejo con patines que no deja de caerse' />
     </a>
 </div>
 
