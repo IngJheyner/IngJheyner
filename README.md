@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-deberias-activar-hyper-v-windows-11-1206094'>Cómo y por qué deberías activar Hyper-V en Windows 11</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-deberias-activar-hyper-v-windows-11-1206094' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/windows-11-2915612.jpg?tf=1200x' alt='Cómo y por qué deberías activar Hyper-V en Windows 11' />
+    <h4><a href='https://computerhoy.com/entretenimiento/7-peliculas-aviones-desaparecidos-tragedias-aereas-merecen-mucho-pena-1211916'>7 películas sobre aviones desaparecidos o tragedias aéreas que merecen mucho la pena</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/7-peliculas-aviones-desaparecidos-tragedias-aereas-merecen-mucho-pena-1211916' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/7-peliculas-aviones-desaparecidos-tragedias-aereas-merecen-mucho-pena-2978282.jpg?tf=1200x' alt='7 películas sobre aviones desaparecidos o tragedias aéreas que merecen mucho la pena' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/8000-km-llegar-mwc-celebra-15-minutos-mi-casa-1210554'>8.000 km para llegar a un MWC que se celebra a 15 minutos de mi casa</a></h4>
-    <a href='https://computerhoy.com/moviles/8000-km-llegar-mwc-celebra-15-minutos-mi-casa-1210554' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/8000-km-llegar-mwc-2974990.jpg?tf=1200x' alt='8.000 km para llegar a un MWC que se celebra a 15 minutos de mi casa' />
+    <h4><a href='https://computerhoy.com/mejores/regalos-dia-del-padre-1210134'>Mejores regalos para el Día del Padre</a></h4>
+    <a href='https://computerhoy.com/mejores/regalos-dia-del-padre-1210134' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/padre-sujetando-brazos-bebe-mirando-ventana-2974226.jpg?tf=1200x' alt='Mejores regalos para el Día del Padre' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/como-nos-enganan-mapas-google-maps-1212424'>Cómo nos engañan los mapas y Google Maps</a></h4>
-    <a href='https://computerhoy.com/life/como-nos-enganan-mapas-google-maps-1212424' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/mapas-google-maps-2978622.jpg?tf=1200x' alt='Cómo nos engañan los mapas y Google Maps' />
+    <h4><a href='https://computerhoy.com/internet/deberias-seguir-utilizando-gestor-contrasenas-chrome-expertos-seguridad-tienen-claro-1213372'>¿Deberías seguir utilizando el gestor de contraseñas de Chrome? Los expertos en seguridad lo tienen claro</a></h4>
+    <a href='https://computerhoy.com/internet/deberias-seguir-utilizando-gestor-contrasenas-chrome-expertos-seguridad-tienen-claro-1213372' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/google-chrome-seguridad-2980508.jpg?tf=1200x' alt='¿Deberías seguir utilizando el gestor de contraseñas de Chrome? Los expertos en seguridad lo tienen claro' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/life/aire-acondicionado-cual-es-mejor-relacion-calidad-precio-455371'>Los mejores aires acondicionados en relación calidad/precio que puedes comprar</a></h4>
-    <a href='https://computerhoy.com/reportajes/life/aire-acondicionado-cual-es-mejor-relacion-calidad-precio-455371' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/aires-acondicionados-instalados-fachada-2961696.jpg?tf=1200x' alt='Los mejores aires acondicionados en relación calidad/precio que puedes comprar' />
+    <h4><a href='https://computerhoy.com/tecnologia/spotify-vs-apple-music-diferencias-deberias-conocer-1212278'>Spotify vs. Apple Music: las diferencias que deberías conocer</a></h4>
+    <a href='https://computerhoy.com/tecnologia/spotify-vs-apple-music-diferencias-deberias-conocer-1212278' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/spotify-vs-apple-music-2978048.jpg?tf=1200x' alt='Spotify vs. Apple Music: las diferencias que deberías conocer' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/chatgpt-entrevista-inteligencia-artificial-potente-ultimos-tiempos-1210528'>ChatGPT: una entrevista a la inteligencia artificial más potente de los últimos tiempos</a></h4>
-    <a href='https://computerhoy.com/tecnologia/chatgpt-entrevista-inteligencia-artificial-potente-ultimos-tiempos-1210528' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/crees-chatgpt-demasiado-light-openai-quiere-dotarlo-personalidad-controversia-2959556.jpg?tf=1200x' alt='ChatGPT: una entrevista a la inteligencia artificial más potente de los últimos tiempos' />
+    <h4><a href='https://computerhoy.com/espacio/puerto-espacial-huelva-base-lanzamiento-miura-1-pld-space-video-1213342'>Un paseo por el Puerto Espacial de Huelva, la base de lanzamiento del MIURA 1, el primer cohete espacial español (vídeo)</a></h4>
+    <a href='https://computerhoy.com/espacio/puerto-espacial-huelva-base-lanzamiento-miura-1-pld-space-video-1213342' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/verticalimage1678515973118-2980454.jpg?tf=1200x' alt='Un paseo por el Puerto Espacial de Huelva, la base de lanzamiento del MIURA 1, el primer cohete espacial español (vídeo)' />
     </a>
 </div>
 
