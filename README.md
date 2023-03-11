@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/gaming/cuando-saldra-steam-deck-2-1213338'>Si estás esperando a la Steam Deck 2, mejor busca un sillón bien cómodo</a></h4>
-    <a href='https://computerhoy.com/gaming/cuando-saldra-steam-deck-2-1213338' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/analisis-steam-deck-2704077.jpg?tf=1200x' alt='Si estás esperando a la Steam Deck 2, mejor busca un sillón bien cómodo' />
+    <h4><a href='https://computerhoy.com/life/como-nos-enganan-mapas-google-maps-1212424'>Cómo nos engañan los mapas y Google Maps</a></h4>
+    <a href='https://computerhoy.com/life/como-nos-enganan-mapas-google-maps-1212424' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/mapas-google-maps-2978622.jpg?tf=1200x' alt='Cómo nos engañan los mapas y Google Maps' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/audio/vinilos-venden-mas-unidades-cds-2022-1213110'>Por primera vez desde 1987, los vinilos venden más unidades que los CDs</a></h4>
-    <a href='https://computerhoy.com/audio/vinilos-venden-mas-unidades-cds-2022-1213110' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/primera-vez-1987-vinilos-venden-unidades-cds-2980214.jpg?tf=1200x' alt='Por primera vez desde 1987, los vinilos venden más unidades que los CDs' />
+    <h4><a href='https://computerhoy.com/reportajes/life/aire-acondicionado-cual-es-mejor-relacion-calidad-precio-455371'>Los mejores aires acondicionados en relación calidad/precio que puedes comprar</a></h4>
+    <a href='https://computerhoy.com/reportajes/life/aire-acondicionado-cual-es-mejor-relacion-calidad-precio-455371' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/aires-acondicionados-instalados-fachada-2961696.jpg?tf=1200x' alt='Los mejores aires acondicionados en relación calidad/precio que puedes comprar' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tv/televisor-xiaomi-f2-55-pulgadas-4k-hdr-fire-os-descuento-1213108'>El televisor Xiaomi F2 de 55 pulgadas 4K HDR con Fire OS, tiene un 20% de descuento</a></h4>
-    <a href='https://computerhoy.com/tv/televisor-xiaomi-f2-55-pulgadas-4k-hdr-fire-os-descuento-1213108' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/televisor-xiaomi-f2-55-pulgadas-4k-hdr-fire-os-tiene-20-descuento-2980212.jpg?tf=1200x' alt='El televisor Xiaomi F2 de 55 pulgadas 4K HDR con Fire OS, tiene un 20% de descuento' />
+    <h4><a href='https://computerhoy.com/tecnologia/chatgpt-entrevista-inteligencia-artificial-potente-ultimos-tiempos-1210528'>ChatGPT: una entrevista a la inteligencia artificial más potente de los últimos tiempos</a></h4>
+    <a href='https://computerhoy.com/tecnologia/chatgpt-entrevista-inteligencia-artificial-potente-ultimos-tiempos-1210528' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/crees-chatgpt-demasiado-light-openai-quiere-dotarlo-personalidad-controversia-2959556.jpg?tf=1200x' alt='ChatGPT: una entrevista a la inteligencia artificial más potente de los últimos tiempos' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/software/microsoft-word-anade-fin-ese-atajo-teclado-llevas-toda-vida-esperando-1213014'>Microsoft Word añade por fin ese atajo de teclado que llevas toda la vida esperando</a></h4>
-    <a href='https://computerhoy.com/software/microsoft-word-anade-fin-ese-atajo-teclado-llevas-toda-vida-esperando-1213014' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/09/microsoft-word_0.jpg?tf=1200x' alt='Microsoft Word añade por fin ese atajo de teclado que llevas toda la vida esperando' />
+    <h4><a href='https://computerhoy.com/ciencia/que-pasaria-todas-personas-tierra-saltan-mismo-tiempo-1212870'>¿Qué pasaría si todas las personas de la Tierra saltan al mismo tiempo?</a></h4>
+    <a href='https://computerhoy.com/ciencia/que-pasaria-todas-personas-tierra-saltan-mismo-tiempo-1212870' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/pasaria-todas-personas-tierra-saltan-mismo-tiempo-2979376.jpg?tf=1200x' alt='¿Qué pasaría si todas las personas de la Tierra saltan al mismo tiempo?' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/reservar-entradas-super-mario-bros-pelicula-trailer-final-1213102'>Así puedes reservar las entradas para Super Mario Bros La Película, no te pierdas el tráiler final </a></h4>
-    <a href='https://computerhoy.com/entretenimiento/reservar-entradas-super-mario-bros-pelicula-trailer-final-1213102' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/verticalimage1678478829995-2980194.jpg?tf=1200x' alt='Así puedes reservar las entradas para Super Mario Bros La Película, no te pierdas el tráiler final ' />
+    <h4><a href='https://computerhoy.com/espacio/dunas-redondas-marte-1213340'>Descubren dunas completamente redondas en Marte, y los científicos están desconcertados</a></h4>
+    <a href='https://computerhoy.com/espacio/dunas-redondas-marte-1213340' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/descubre-dunas-completamente-redondas-marte-cientificos-estan-desconcertados-2980448.jpg?tf=1200x' alt='Descubren dunas completamente redondas en Marte, y los científicos están desconcertados' />
     </a>
 </div>
 
