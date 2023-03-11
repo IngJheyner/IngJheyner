@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tv/no-todas-conexiones-hdmi-televisor-son-iguales-seguramente-no-sabias-1213400'>No todas las conexiones HDMI de tu televisor son iguales y seguramente no lo sabías</a></h4>
+    <a href='https://computerhoy.com/tv/no-todas-conexiones-hdmi-televisor-son-iguales-seguramente-no-sabias-1213400' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/conexion-hdmi-2980598.jpg?tf=1200x' alt='No todas las conexiones HDMI de tu televisor son iguales y seguramente no lo sabías' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/estan-cambiando-curso-guerra-ucrania-pilotos-drones-1213396'>Así están cambiando el curso de la guerra de Ucrania los pilotos de drones</a></h4>
+    <a href='https://computerhoy.com/life/estan-cambiando-curso-guerra-ucrania-pilotos-drones-1213396' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/estan-cambiando-curso-guerra-ucrania-pilotos-drones-2980594.jpg?tf=1200x' alt='Así están cambiando el curso de la guerra de Ucrania los pilotos de drones' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-optimizar-rendimiento-disco-ssd-windows-11-1211754'>Cómo optimizar el rendimiento de un disco SSD en Windows 11</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-optimizar-rendimiento-disco-ssd-windows-11-1211754' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/09/unidad-ssd-kingston-portatil-2068351.jpg?tf=1200x' alt='Cómo optimizar el rendimiento de un disco SSD en Windows 11' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/musculo-puedes-ejercitar-incluso-sentado-activa-metabolismo-te-ayuda-perder-peso-1213394'>El músculo que puedes ejercitar incluso sentado que activa tu metabolismo y te ayuda a perder peso</a></h4>
+    <a href='https://computerhoy.com/life/musculo-puedes-ejercitar-incluso-sentado-activa-metabolismo-te-ayuda-perder-peso-1213394' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/hombre-subiendo-escaleras-2980566.jpg?tf=1200x' alt='El músculo que puedes ejercitar incluso sentado que activa tu metabolismo y te ayuda a perder peso' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/entretenimiento/7-peliculas-aviones-desaparecidos-tragedias-aereas-merecen-mucho-pena-1211916'>7 películas sobre aviones desaparecidos o tragedias aéreas que merecen mucho la pena</a></h4>
     <a href='https://computerhoy.com/entretenimiento/7-peliculas-aviones-desaparecidos-tragedias-aereas-merecen-mucho-pena-1211916' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/7-peliculas-aviones-desaparecidos-tragedias-aereas-merecen-mucho-pena-2978282.jpg?tf=1200x' alt='7 películas sobre aviones desaparecidos o tragedias aéreas que merecen mucho la pena' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/mejores/regalos-dia-del-padre-1210134'>Mejores regalos para el Día del Padre</a></h4>
-    <a href='https://computerhoy.com/mejores/regalos-dia-del-padre-1210134' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/padre-sujetando-brazos-bebe-mirando-ventana-2974226.jpg?tf=1200x' alt='Mejores regalos para el Día del Padre' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/deberias-seguir-utilizando-gestor-contrasenas-chrome-expertos-seguridad-tienen-claro-1213372'>¿Deberías seguir utilizando el gestor de contraseñas de Chrome? Los expertos en seguridad lo tienen claro</a></h4>
-    <a href='https://computerhoy.com/internet/deberias-seguir-utilizando-gestor-contrasenas-chrome-expertos-seguridad-tienen-claro-1213372' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/google-chrome-seguridad-2980508.jpg?tf=1200x' alt='¿Deberías seguir utilizando el gestor de contraseñas de Chrome? Los expertos en seguridad lo tienen claro' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/spotify-vs-apple-music-diferencias-deberias-conocer-1212278'>Spotify vs. Apple Music: las diferencias que deberías conocer</a></h4>
-    <a href='https://computerhoy.com/tecnologia/spotify-vs-apple-music-diferencias-deberias-conocer-1212278' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/spotify-vs-apple-music-2978048.jpg?tf=1200x' alt='Spotify vs. Apple Music: las diferencias que deberías conocer' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/puerto-espacial-huelva-base-lanzamiento-miura-1-pld-space-video-1213342'>Un paseo por el Puerto Espacial de Huelva, la base de lanzamiento del MIURA 1, el primer cohete espacial español (vídeo)</a></h4>
-    <a href='https://computerhoy.com/espacio/puerto-espacial-huelva-base-lanzamiento-miura-1-pld-space-video-1213342' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/verticalimage1678515973118-2980454.jpg?tf=1200x' alt='Un paseo por el Puerto Espacial de Huelva, la base de lanzamiento del MIURA 1, el primer cohete espacial español (vídeo)' />
     </a>
 </div>
 
