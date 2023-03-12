@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/android/error-android-auto-evita-estes-informado-mientras-conduces-1213728'>Este error en Android Auto evita que estés informado mientras conduces</a></h4>
+    <a href='https://computerhoy.com/android/error-android-auto-evita-estes-informado-mientras-conduces-1213728' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/android-auto-2922222.jpg?tf=1200x' alt='Este error en Android Auto evita que estés informado mientras conduces' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/contaminacion-aire-ya-afecta-cualquier-punto-tierra-1213726'>La contaminación del aire ya afecta a cualquier punto de la Tierra</a></h4>
+    <a href='https://computerhoy.com/life/contaminacion-aire-ya-afecta-cualquier-punto-tierra-1213726' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/contaminacion-aire-2980932.jpg?tf=1200x' alt='La contaminación del aire ya afecta a cualquier punto de la Tierra' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-sacar-mayor-partido-gestor-paquetes-windows-11-1207564'>Cómo sacar el mayor partido al gestor de paquetes de Windows 11</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-sacar-mayor-partido-gestor-paquetes-windows-11-1207564' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/windows-11-2526405.jpg?tf=1200x' alt='Cómo sacar el mayor partido al gestor de paquetes de Windows 11' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/peculiar-terapia-steve-jobs-descargar-emociones-instante-tambien-puedes-probar-1213718'>La peculiar terapia de Steve Jobs para descargar emociones al instante que también puedes probar</a></h4>
+    <a href='https://computerhoy.com/life/peculiar-terapia-steve-jobs-descargar-emociones-instante-tambien-puedes-probar-1213718' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/03/steve-jobs-2280383.jpg?tf=1200x' alt='La peculiar terapia de Steve Jobs para descargar emociones al instante que también puedes probar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/streaming/precio-skyshowtime-subira-aunque-tengas-oferta-299-euros-siempre-1213712'>El precio de SkyShowtime subirá aunque tengas la oferta de 2,99 euros para siempre</a></h4>
     <a href='https://computerhoy.com/streaming/precio-skyshowtime-subira-aunque-tengas-oferta-299-euros-siempre-1213712' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/skyshowtime-2956132.jpg?tf=1200x' alt='El precio de SkyShowtime subirá aunque tengas la oferta de 2,99 euros para siempre' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/6-peliculas-series-cierto-modo-adelantaban-colapso-ha-vivido-criptomonedas-1212500'>6 películas y series que en cierto modo adelantaban el colapso que se ha vivido con las criptomonedas</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/6-peliculas-series-cierto-modo-adelantaban-colapso-ha-vivido-criptomonedas-1212500' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/lobo-wall-street-2978786.jpg?tf=1200x' alt='6 películas y series que en cierto modo adelantaban el colapso que se ha vivido con las criptomonedas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/10-trucos-rapidos-mejorar-velocidad-wifi-instante-1213704'>10 trucos rápidos para mejorar la velocidad de tu WiFi al instante</a></h4>
-    <a href='https://computerhoy.com/internet/10-trucos-rapidos-mejorar-velocidad-wifi-instante-1213704' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/conexion-internet-router-wifi-2980900.jpg?tf=1200x' alt='10 trucos rápidos para mejorar la velocidad de tu WiFi al instante' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-deberias-borrar-cache-navegador-1212362'>Cómo y por qué deberías borrar la caché del navegador</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-deberias-borrar-cache-navegador-1212362' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/persona-usando-ordenador-2968090.jpg?tf=1200x' alt='Cómo y por qué deberías borrar la caché del navegador' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/bard-respuesta-google-chatgpt-1206110'>¿Qué es Bard, la respuesta de Google a ChatGPT?</a></h4>
-    <a href='https://computerhoy.com/tecnologia/bard-respuesta-google-chatgpt-1206110' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/verticalimage1678388193119-2978796.jpg?tf=1200x' alt='¿Qué es Bard, la respuesta de Google a ChatGPT?' />
     </a>
 </div>
 
