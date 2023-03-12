@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/smartwatches/relojes-inteligentes-pulseras-actividad-usadas-mobile-world-congress-1212924'>Hemos recorrido más de 226.000 pasos en 4 días con estas pulseras de actividad</a></h4>
+    <a href='https://computerhoy.com/smartwatches/relojes-inteligentes-pulseras-actividad-usadas-mobile-world-congress-1212924' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/samsung-galaxy-watch-5-pro-analisis-opinion-2809245.jpg?tf=1200x' alt='Hemos recorrido más de 226.000 pasos en 4 días con estas pulseras de actividad' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/bill-gates-vida-legado-pionero-revolucion-informatica-1206522'>Bill Gates: vida y legado del pionero de la revolución informática</a></h4>
+    <a href='https://computerhoy.com/tecnologia/bill-gates-vida-legado-pionero-revolucion-informatica-1206522' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/bill-gates-2979764.jpg?tf=1200x' alt='Bill Gates: vida y legado del pionero de la revolución informática' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/xiaomi-quiere-inventar-poligrafo-siglo-xxi-detectar-todas-mentiras-1213450'>Xiaomi quiere inventar el polígrafo del Siglo XXI para detectar todas tus mentiras</a></h4>
+    <a href='https://computerhoy.com/apps/xiaomi-quiere-inventar-poligrafo-siglo-xxi-detectar-todas-mentiras-1213450' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/decir-mentiras-2980650.jpg?tf=1200x' alt='Xiaomi quiere inventar el polígrafo del Siglo XXI para detectar todas tus mentiras' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/analisis/analisis-router-vodafone-gigacube-5g-conectividad-velocidad-fibra-quita-pon-1211668'>Análisis del router Vodafone GigaCube 5G, conectividad a velocidad fibra de quita y pon</a></h4>
     <a href='https://computerhoy.com/analisis/analisis-router-vodafone-gigacube-5g-conectividad-velocidad-fibra-quita-pon-1211668' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/vodafone-gigacube-router-5g-2977534.jpg?tf=1200x' alt='Análisis del router Vodafone GigaCube 5G, conectividad a velocidad fibra de quita y pon' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/life/te-quedas-dormido-menos-cinco-minutos-mala-senal-1213448'>Si te quedas dormido en menos de cinco minutos, es una mala señal</a></h4>
     <a href='https://computerhoy.com/life/te-quedas-dormido-menos-cinco-minutos-mala-senal-1213448' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/beneficios-dormir-boca-arriba-mejor-lado-2502033.jpg?tf=1200x' alt='Si te quedas dormido en menos de cinco minutos, es una mala señal' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/tres-soles-cielo-parhelio-1212930'>Si un día ves tres soles en el cielo, no estás soñando: ¿qué es este fenómeno?</a></h4>
-    <a href='https://computerhoy.com/ciencia/tres-soles-cielo-parhelio-1212930' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/dia-ves-tres-soles-cielo-no-estas-sonando-fenomeno-2979480.jpg?tf=1200x' alt='Si un día ves tres soles en el cielo, no estás soñando: ¿qué es este fenómeno?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-televisores-4k-55-pulgadas-1059299'>Mejores televisores 4K de 55 pulgadas que puedes comprar en 2023</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-televisores-4k-55-pulgadas-1059299' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/portada-smart-tv-55-2956564.jpg?tf=1200x' alt='Mejores televisores 4K de 55 pulgadas que puedes comprar en 2023' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/mitad-jovenes-no-pueden-notar-diferencia-texto-escrito-chatgpt-humano-1213452'>Más de la mitad de los jóvenes no pueden notar la diferencia entre un texto escrito por ChatGPT o por un humano</a></h4>
-    <a href='https://computerhoy.com/ciencia/mitad-jovenes-no-pueden-notar-diferencia-texto-escrito-chatgpt-humano-1213452' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/inteligencia-artificial-2980656.jpg?tf=1200x' alt='Más de la mitad de los jóvenes no pueden notar la diferencia entre un texto escrito por ChatGPT o por un humano' />
     </a>
 </div>
 
