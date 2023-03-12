@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/pioneer-blu-ray-grabable-100-anos-bd-r-1213764'>Pioneer lanza un Blu-ray grabable que dura 100 años... ¿cuánto aguanta un BD-R estándar?</a></h4>
+    <a href='https://computerhoy.com/tecnologia/pioneer-blu-ray-grabable-100-anos-bd-r-1213764' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/pioneer-lanza-blu-ray-dura-100-anos-cuanto-aguanta-bd-r-estandar-2981046.jpg?tf=1200x' alt='Pioneer lanza un Blu-ray grabable que dura 100 años... ¿cuánto aguanta un BD-R estándar?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/como-nos-enganan-sentidos-1212886'>Cómo nos engañan los sentidos</a></h4>
+    <a href='https://computerhoy.com/ciencia/como-nos-enganan-sentidos-1212886' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/como-nos-enganan-sentidos-2979730.jpg?tf=1200x' alt='Cómo nos engañan los sentidos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/android/error-android-auto-evita-estes-informado-mientras-conduces-1213728'>Este error en Android Auto evita que estés informado mientras conduces</a></h4>
     <a href='https://computerhoy.com/android/error-android-auto-evita-estes-informado-mientras-conduces-1213728' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/android-auto-2922222.jpg?tf=1200x' alt='Este error en Android Auto evita que estés informado mientras conduces' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tutoriales/como-sacar-mayor-partido-gestor-paquetes-windows-11-1207564'>Cómo sacar el mayor partido al gestor de paquetes de Windows 11</a></h4>
     <a href='https://computerhoy.com/tutoriales/como-sacar-mayor-partido-gestor-paquetes-windows-11-1207564' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/windows-11-2526405.jpg?tf=1200x' alt='Cómo sacar el mayor partido al gestor de paquetes de Windows 11' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/peculiar-terapia-steve-jobs-descargar-emociones-instante-tambien-puedes-probar-1213718'>La peculiar terapia de Steve Jobs para descargar emociones al instante que también puedes probar</a></h4>
-    <a href='https://computerhoy.com/life/peculiar-terapia-steve-jobs-descargar-emociones-instante-tambien-puedes-probar-1213718' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/03/steve-jobs-2280383.jpg?tf=1200x' alt='La peculiar terapia de Steve Jobs para descargar emociones al instante que también puedes probar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/streaming/precio-skyshowtime-subira-aunque-tengas-oferta-299-euros-siempre-1213712'>El precio de SkyShowtime subirá aunque tengas la oferta de 2,99 euros para siempre</a></h4>
-    <a href='https://computerhoy.com/streaming/precio-skyshowtime-subira-aunque-tengas-oferta-299-euros-siempre-1213712' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/skyshowtime-2956132.jpg?tf=1200x' alt='El precio de SkyShowtime subirá aunque tengas la oferta de 2,99 euros para siempre' />
     </a>
 </div>
 
