@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/smartwatches/relojes-inteligentes-pulseras-actividad-usadas-mobile-world-congress-1212924'>Hemos recorrido más de 226.000 pasos en 4 días con estas pulseras de actividad</a></h4>
-    <a href='https://computerhoy.com/smartwatches/relojes-inteligentes-pulseras-actividad-usadas-mobile-world-congress-1212924' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/samsung-galaxy-watch-5-pro-analisis-opinion-2809245.jpg?tf=1200x' alt='Hemos recorrido más de 226.000 pasos en 4 días con estas pulseras de actividad' />
+    <h4><a href='https://computerhoy.com/streaming/precio-skyshowtime-subira-aunque-tengas-oferta-299-euros-siempre-1213712'>El precio de SkyShowtime subirá aunque tengas la oferta de 2,99 euros para siempre</a></h4>
+    <a href='https://computerhoy.com/streaming/precio-skyshowtime-subira-aunque-tengas-oferta-299-euros-siempre-1213712' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/skyshowtime-2956132.jpg?tf=1200x' alt='El precio de SkyShowtime subirá aunque tengas la oferta de 2,99 euros para siempre' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/bill-gates-vida-legado-pionero-revolucion-informatica-1206522'>Bill Gates: vida y legado del pionero de la revolución informática</a></h4>
-    <a href='https://computerhoy.com/tecnologia/bill-gates-vida-legado-pionero-revolucion-informatica-1206522' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/bill-gates-2979764.jpg?tf=1200x' alt='Bill Gates: vida y legado del pionero de la revolución informática' />
+    <h4><a href='https://computerhoy.com/entretenimiento/6-peliculas-series-cierto-modo-adelantaban-colapso-ha-vivido-criptomonedas-1212500'>6 películas y series que en cierto modo adelantaban el colapso que se ha vivido con las criptomonedas</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/6-peliculas-series-cierto-modo-adelantaban-colapso-ha-vivido-criptomonedas-1212500' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/lobo-wall-street-2978786.jpg?tf=1200x' alt='6 películas y series que en cierto modo adelantaban el colapso que se ha vivido con las criptomonedas' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/xiaomi-quiere-inventar-poligrafo-siglo-xxi-detectar-todas-mentiras-1213450'>Xiaomi quiere inventar el polígrafo del Siglo XXI para detectar todas tus mentiras</a></h4>
-    <a href='https://computerhoy.com/apps/xiaomi-quiere-inventar-poligrafo-siglo-xxi-detectar-todas-mentiras-1213450' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/decir-mentiras-2980650.jpg?tf=1200x' alt='Xiaomi quiere inventar el polígrafo del Siglo XXI para detectar todas tus mentiras' />
+    <h4><a href='https://computerhoy.com/internet/10-trucos-rapidos-mejorar-velocidad-wifi-instante-1213704'>10 trucos rápidos para mejorar la velocidad de tu WiFi al instante</a></h4>
+    <a href='https://computerhoy.com/internet/10-trucos-rapidos-mejorar-velocidad-wifi-instante-1213704' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/conexion-internet-router-wifi-2980900.jpg?tf=1200x' alt='10 trucos rápidos para mejorar la velocidad de tu WiFi al instante' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/analisis-router-vodafone-gigacube-5g-conectividad-velocidad-fibra-quita-pon-1211668'>Análisis del router Vodafone GigaCube 5G, conectividad a velocidad fibra de quita y pon</a></h4>
-    <a href='https://computerhoy.com/analisis/analisis-router-vodafone-gigacube-5g-conectividad-velocidad-fibra-quita-pon-1211668' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/vodafone-gigacube-router-5g-2977534.jpg?tf=1200x' alt='Análisis del router Vodafone GigaCube 5G, conectividad a velocidad fibra de quita y pon' />
+    <h4><a href='https://computerhoy.com/tutoriales/como-deberias-borrar-cache-navegador-1212362'>Cómo y por qué deberías borrar la caché del navegador</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-deberias-borrar-cache-navegador-1212362' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/persona-usando-ordenador-2968090.jpg?tf=1200x' alt='Cómo y por qué deberías borrar la caché del navegador' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/te-quedas-dormido-menos-cinco-minutos-mala-senal-1213448'>Si te quedas dormido en menos de cinco minutos, es una mala señal</a></h4>
-    <a href='https://computerhoy.com/life/te-quedas-dormido-menos-cinco-minutos-mala-senal-1213448' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/beneficios-dormir-boca-arriba-mejor-lado-2502033.jpg?tf=1200x' alt='Si te quedas dormido en menos de cinco minutos, es una mala señal' />
+    <h4><a href='https://computerhoy.com/tecnologia/bard-respuesta-google-chatgpt-1206110'>¿Qué es Bard, la respuesta de Google a ChatGPT?</a></h4>
+    <a href='https://computerhoy.com/tecnologia/bard-respuesta-google-chatgpt-1206110' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/verticalimage1678388193119-2978796.jpg?tf=1200x' alt='¿Qué es Bard, la respuesta de Google a ChatGPT?' />
     </a>
 </div>
 
