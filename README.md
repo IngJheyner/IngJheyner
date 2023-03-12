@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/cerebral-datos-privados-salud-mental-3-millones-pacientes-meta-tiktok-google-1213778'>Cerebral comparte datos privados de salud mental de 3,1 millones de pacientes con Meta, TikTok y Google</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/cerebral-datos-privados-salud-mental-3-millones-pacientes-meta-tiktok-google-1213778' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/cerebral-comparte-datos-privados-salud-mental-31-millones-pacientes-meta-tiktok-google-2981068.jpg?tf=1200x' alt='Cerebral comparte datos privados de salud mental de 3,1 millones de pacientes con Meta, TikTok y Google' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/google/pixel-7a-fotos-especificaciones-1213774'>Se filtran fotos y especificaciones del Pixel 7a, y viene con una mejora importante</a></h4>
+    <a href='https://computerhoy.com/google/pixel-7a-fotos-especificaciones-1213774' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/analisis-pixel-6a-2765523.jpg?tf=1200x' alt='Se filtran fotos y especificaciones del Pixel 7a, y viene con una mejora importante' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-motores-electricos-bicicleta-1069707'>Motores eléctricos para bicicleta: estos son los mejores que puedes instalar en la tuya</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-motores-electricos-bicicleta-1069707' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/hombre-montando-bicicleta-puente-2980022.jpg?tf=1200x' alt='Motores eléctricos para bicicleta: estos son los mejores que puedes instalar en la tuya' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/pioneer-blu-ray-grabable-100-anos-bd-r-1213764'>Pioneer lanza un Blu-ray grabable que dura 100 años... ¿cuánto aguanta un BD-R estándar?</a></h4>
     <a href='https://computerhoy.com/tecnologia/pioneer-blu-ray-grabable-100-anos-bd-r-1213764' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/pioneer-lanza-blu-ray-dura-100-anos-cuanto-aguanta-bd-r-estandar-2981046.jpg?tf=1200x' alt='Pioneer lanza un Blu-ray grabable que dura 100 años... ¿cuánto aguanta un BD-R estándar?' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/ciencia/como-nos-enganan-sentidos-1212886'>Cómo nos engañan los sentidos</a></h4>
     <a href='https://computerhoy.com/ciencia/como-nos-enganan-sentidos-1212886' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/como-nos-enganan-sentidos-2979730.jpg?tf=1200x' alt='Cómo nos engañan los sentidos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/android/error-android-auto-evita-estes-informado-mientras-conduces-1213728'>Este error en Android Auto evita que estés informado mientras conduces</a></h4>
-    <a href='https://computerhoy.com/android/error-android-auto-evita-estes-informado-mientras-conduces-1213728' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/android-auto-2922222.jpg?tf=1200x' alt='Este error en Android Auto evita que estés informado mientras conduces' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/contaminacion-aire-ya-afecta-cualquier-punto-tierra-1213726'>La contaminación del aire ya afecta a cualquier punto de la Tierra</a></h4>
-    <a href='https://computerhoy.com/life/contaminacion-aire-ya-afecta-cualquier-punto-tierra-1213726' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/contaminacion-aire-2980932.jpg?tf=1200x' alt='La contaminación del aire ya afecta a cualquier punto de la Tierra' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-sacar-mayor-partido-gestor-paquetes-windows-11-1207564'>Cómo sacar el mayor partido al gestor de paquetes de Windows 11</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-sacar-mayor-partido-gestor-paquetes-windows-11-1207564' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/windows-11-2526405.jpg?tf=1200x' alt='Cómo sacar el mayor partido al gestor de paquetes de Windows 11' />
     </a>
 </div>
 
