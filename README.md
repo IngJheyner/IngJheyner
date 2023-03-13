@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/industria/carl-pei-fundador-ceo-nothing-plegables-no-cubren-necesidad-ademas-industria-dispositivos-me-aburre-1210488'>Carl Pei, fundador y CEO de Nothing: "Los plegables no cubren una necesidad, además de que la industria de los dispositivos me aburre"</a></h4>
+    <a href='https://computerhoy.com/industria/carl-pei-fundador-ceo-nothing-plegables-no-cubren-necesidad-ademas-industria-dispositivos-me-aburre-1210488' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/carl-pei-plegabls-2976668.jpg?tf=1200x' alt='Carl Pei, fundador y CEO de Nothing: "Los plegables no cubren una necesidad, además de que la industria de los dispositivos me aburre"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/41-noticias-tecnologia-comenzar-manana-informado-ultimo-1213980'>41 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
+    <a href='https://computerhoy.com/tecnologia/41-noticias-tecnologia-comenzar-manana-informado-ultimo-1213980' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/41-noticias-tecnologia-comenzar-manana-informado-ultimo-2981274.jpg?tf=1200x' alt='41 noticias de tecnología para comenzar la mañana informado de lo último' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-tablets-10-pulgadas-puedes-comprar-1127593'>Mejores tablets de 10 pulgadas que puedes comprar en 2023</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/mejores-tablets-10-pulgadas-puedes-comprar-1127593' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/ipad-10a-generacion-analisis-opinion-2897870.jpg?tf=1200x' alt='Mejores tablets de 10 pulgadas que puedes comprar en 2023' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/ciberseguridad/cerebral-datos-privados-salud-mental-3-millones-pacientes-meta-tiktok-google-1213778'>Cerebral comparte datos privados de salud mental de 3,1 millones de pacientes con Meta, TikTok y Google</a></h4>
     <a href='https://computerhoy.com/ciberseguridad/cerebral-datos-privados-salud-mental-3-millones-pacientes-meta-tiktok-google-1213778' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/cerebral-comparte-datos-privados-salud-mental-31-millones-pacientes-meta-tiktok-google-2981068.jpg?tf=1200x' alt='Cerebral comparte datos privados de salud mental de 3,1 millones de pacientes con Meta, TikTok y Google' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/pixel-7a-fotos-especificaciones-1213774'>Se filtran fotos y especificaciones del Pixel 7a, y viene con una mejora importante</a></h4>
-    <a href='https://computerhoy.com/google/pixel-7a-fotos-especificaciones-1213774' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/analisis-pixel-6a-2765523.jpg?tf=1200x' alt='Se filtran fotos y especificaciones del Pixel 7a, y viene con una mejora importante' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-motores-electricos-bicicleta-1069707'>Motores eléctricos para bicicleta: estos son los mejores que puedes instalar en la tuya</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-motores-electricos-bicicleta-1069707' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/hombre-montando-bicicleta-puente-2980022.jpg?tf=1200x' alt='Motores eléctricos para bicicleta: estos son los mejores que puedes instalar en la tuya' />
     </a>
 </div>
 
