@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-tablets-10-pulgadas-puedes-comprar-1127593'>Mejores tablets de 10 pulgadas que puedes comprar en 2023</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-tablets-10-pulgadas-puedes-comprar-1127593' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/ipad-10a-generacion-analisis-opinion-2897870.jpg?tf=1200x' alt='Mejores tablets de 10 pulgadas que puedes comprar en 2023' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciencia/tiranosaurio-rex-trinity-meteorito-marciano-subasta-1213782'>Ciencia al mejor postor: un Tiranosaurio Rex completo y un meteorito marciano, a subasta</a></h4>
     <a href='https://computerhoy.com/ciencia/tiranosaurio-rex-trinity-meteorito-marciano-subasta-1213782' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/ciencia-mejor-postor-tiranosaurio-rex-completo-meteorito-marciano-subasta-2981070.jpg?tf=1200x' alt='Ciencia al mejor postor: un Tiranosaurio Rex completo y un meteorito marciano, a subasta' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-motores-electricos-bicicleta-1069707'>Motores eléctricos para bicicleta: estos son los mejores que puedes instalar en la tuya</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/mejores-motores-electricos-bicicleta-1069707' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/hombre-montando-bicicleta-puente-2980022.jpg?tf=1200x' alt='Motores eléctricos para bicicleta: estos son los mejores que puedes instalar en la tuya' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/pioneer-blu-ray-grabable-100-anos-bd-r-1213764'>Pioneer lanza un Blu-ray grabable que dura 100 años... ¿cuánto aguanta un BD-R estándar?</a></h4>
-    <a href='https://computerhoy.com/tecnologia/pioneer-blu-ray-grabable-100-anos-bd-r-1213764' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/pioneer-lanza-blu-ray-dura-100-anos-cuanto-aguanta-bd-r-estandar-2981046.jpg?tf=1200x' alt='Pioneer lanza un Blu-ray grabable que dura 100 años... ¿cuánto aguanta un BD-R estándar?' />
     </a>
 </div>
 
