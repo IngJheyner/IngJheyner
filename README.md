@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/streaming/kodi-actualiza-version-nexus-nuevas-funciones-muchas-mejoras-1214170'>Kodi actualiza la versión Nexus con nuevas funciones y muchas mejoras</a></h4>
+    <a href='https://computerhoy.com/streaming/kodi-actualiza-version-nexus-nuevas-funciones-muchas-mejoras-1214170' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/kodi-nexus-2981674.jpg?tf=1200x' alt='Kodi actualiza la versión Nexus con nuevas funciones y muchas mejoras' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/internet/ya-puedes-utilizar-ipv6-movil-espana-ventajas-como-activarlo-1214130'>Ya puedes utilizar IPv6 en tu móvil en España: qué es, ventajas y cómo activarlo</a></h4>
+    <a href='https://computerhoy.com/internet/ya-puedes-utilizar-ipv6-movil-espana-ventajas-como-activarlo-1214130' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/ipv6-2981608.jpg?tf=1200x' alt='Ya puedes utilizar IPv6 en tu móvil en España: qué es, ventajas y cómo activarlo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/5-habitos-ayudaron-bill-gates-amasar-fortuna-100000-millones-1214138'>5 hábitos que ayudaron a Bill Gates a amasar una fortuna de más 100.000 millones</a></h4>
     <a href='https://computerhoy.com/life/5-habitos-ayudaron-bill-gates-amasar-fortuna-100000-millones-1214138' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/bill-gates-2967358.jpg?tf=1200x' alt='5 hábitos que ayudaron a Bill Gates a amasar una fortuna de más 100.000 millones' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/moviles/samsung-polemica-falsas-fotos-lunares-space-zoom-100x-problemas-1214080'>Samsung y la polémica de las falsas fotos lunares: Space Zoom 100x en problemas</a></h4>
     <a href='https://computerhoy.com/moviles/samsung-polemica-falsas-fotos-lunares-space-zoom-100x-problemas-1214080' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/samsung-fotografia-lunar-2981538.jpg?tf=1200x' alt='Samsung y la polémica de las falsas fotos lunares: Space Zoom 100x en problemas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/streaming/significan-simbolos-acompanan-peliculas-series-skyshowtime-1214076'>Qué significan los símbolos que acompañan a las películas y series de SkyShowtime</a></h4>
-    <a href='https://computerhoy.com/streaming/significan-simbolos-acompanan-peliculas-series-skyshowtime-1214076' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/significan-simbolos-acompanan-peliculas-series-skyshowtime-2981496.jpg?tf=1200x' alt='Qué significan los símbolos que acompañan a las películas y series de SkyShowtime' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/tim-cook-ceo-apple-advertencias-equipo-lanzara-reality-pro-2023-1214062'>Tim Cook, CEO de Apple, en contra de las advertencias de su equipo, lanzará las Reality Pro en 2023</a></h4>
-    <a href='https://computerhoy.com/apple/tim-cook-ceo-apple-advertencias-equipo-lanzara-reality-pro-2023-1214062' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/03/tim-cook.jpg?tf=1200x' alt='Tim Cook, CEO de Apple, en contra de las advertencias de su equipo, lanzará las Reality Pro en 2023' />
     </a>
 </div>
 
