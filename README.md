@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/streaming/kodi-actualiza-version-nexus-nuevas-funciones-muchas-mejoras-1214170'>Kodi actualiza la versión Nexus con nuevas funciones y muchas mejoras</a></h4>
-    <a href='https://computerhoy.com/streaming/kodi-actualiza-version-nexus-nuevas-funciones-muchas-mejoras-1214170' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/kodi-nexus-2981674.jpg?tf=1200x' alt='Kodi actualiza la versión Nexus con nuevas funciones y muchas mejoras' />
+    <h4><a href='https://computerhoy.com/software/fiebre-chatgpt-continua-ahora-ia-integrara-coche-1214264'>La fiebre de ChatGPT continúa: ahora la IA se integrará en tu coche</a></h4>
+    <a href='https://computerhoy.com/software/fiebre-chatgpt-continua-ahora-ia-integrara-coche-1214264' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/alternativas-chatgpt-2944978.jpg?tf=1200x' alt='La fiebre de ChatGPT continúa: ahora la IA se integrará en tu coche' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/ya-puedes-utilizar-ipv6-movil-espana-ventajas-como-activarlo-1214130'>Ya puedes utilizar IPv6 en tu móvil en España: qué es, ventajas y cómo activarlo</a></h4>
-    <a href='https://computerhoy.com/internet/ya-puedes-utilizar-ipv6-movil-espana-ventajas-como-activarlo-1214130' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/ipv6-2981608.jpg?tf=1200x' alt='Ya puedes utilizar IPv6 en tu móvil en España: qué es, ventajas y cómo activarlo' />
+    <h4><a href='https://computerhoy.com/guia-compra/router-wifi-6'>WiFi 6, todo lo que debes saber y los mejores routers compatibles que puedes comprar</a></h4>
+    <a href='https://computerhoy.com/guia-compra/router-wifi-6' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/simbolo-wifi-fondo-desenfocado-2981554.jpg?tf=1200x' alt='WiFi 6, todo lo que debes saber y los mejores routers compatibles que puedes comprar' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/5-habitos-ayudaron-bill-gates-amasar-fortuna-100000-millones-1214138'>5 hábitos que ayudaron a Bill Gates a amasar una fortuna de más de 100.000 millones</a></h4>
-    <a href='https://computerhoy.com/life/5-habitos-ayudaron-bill-gates-amasar-fortuna-100000-millones-1214138' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/bill-gates-2967358.jpg?tf=1200x' alt='5 hábitos que ayudaron a Bill Gates a amasar una fortuna de más de 100.000 millones' />
+    <h4><a href='https://computerhoy.com/ciencia/taza-antigravedad-nasa-permite-astronautas-beber-espacio-1214236'>La taza antigravedad de la NASA que permite a los astronautas beber en el espacio</a></h4>
+    <a href='https://computerhoy.com/ciencia/taza-antigravedad-nasa-permite-astronautas-beber-espacio-1214236' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/taza-antigravedad-nasa-permite-astronautas-beber-espacio-2981880.jpg?tf=1200x' alt='La taza antigravedad de la NASA que permite a los astronautas beber en el espacio' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/smart-tv-xiaomi-mejor-amazon-menos-400eu-1214068'>Smart TV de Xiaomi con lo mejor de Amazon por menos de 400€</a></h4>
-    <a href='https://computerhoy.com/tecnologia/smart-tv-xiaomi-mejor-amazon-menos-400eu-1214068' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/xiaomi-tv-f2-50-2981406.jpg?tf=1200x' alt='Smart TV de Xiaomi con lo mejor de Amazon por menos de 400€' />
+    <h4><a href='https://computerhoy.com/internet/razones-habituales-wifi-no-funciona-bien-como-solucionarlas-1214268'>Las razones más habituales por las que tu WiFi no funciona bien y cómo solucionarlas</a></h4>
+    <a href='https://computerhoy.com/internet/razones-habituales-wifi-no-funciona-bien-como-solucionarlas-1214268' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/08/huawei-wifi-ax3-2040467.jpg?tf=1200x' alt='Las razones más habituales por las que tu WiFi no funciona bien y cómo solucionarlas' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/samsung-polemica-falsas-fotos-lunares-space-zoom-100x-problemas-1214080'>Samsung y la polémica de las falsas fotos lunares: Space Zoom 100x en problemas</a></h4>
-    <a href='https://computerhoy.com/moviles/samsung-polemica-falsas-fotos-lunares-space-zoom-100x-problemas-1214080' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/samsung-fotografia-lunar-2981538.jpg?tf=1200x' alt='Samsung y la polémica de las falsas fotos lunares: Space Zoom 100x en problemas' />
+    <h4><a href='https://computerhoy.com/streaming/netflix-anade-nueva-funcion-echar-patadas-cuenta-usuarios-no-deseados-1214204'>Netflix añade una nueva función para “echar a patadas” de tu cuenta a usuarios no deseados</a></h4>
+    <a href='https://computerhoy.com/streaming/netflix-anade-nueva-funcion-echar-patadas-cuenta-usuarios-no-deseados-1214204' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/netflix-2923644.jpg?tf=1200x' alt='Netflix añade una nueva función para “echar a patadas” de tu cuenta a usuarios no deseados' />
     </a>
 </div>
 
