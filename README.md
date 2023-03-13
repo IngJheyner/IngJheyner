@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/industria/carl-pei-fundador-ceo-nothing-plegables-no-cubren-necesidad-ademas-industria-dispositivos-me-aburre-1210488'>Carl Pei, fundador y CEO de Nothing: "Los plegables no cubren una necesidad, además de que la industria de los dispositivos me aburre"</a></h4>
-    <a href='https://computerhoy.com/industria/carl-pei-fundador-ceo-nothing-plegables-no-cubren-necesidad-ademas-industria-dispositivos-me-aburre-1210488' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/carl-pei-plegabls-2976668.jpg?tf=1200x' alt='Carl Pei, fundador y CEO de Nothing: "Los plegables no cubren una necesidad, además de que la industria de los dispositivos me aburre"' />
+    <h4><a href='https://computerhoy.com/streaming/significan-simbolos-acompanan-peliculas-series-skyshowtime-1214076'>Qué significan los símbolos que acompañan a las películas y series de SkyShowtime</a></h4>
+    <a href='https://computerhoy.com/streaming/significan-simbolos-acompanan-peliculas-series-skyshowtime-1214076' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/significan-simbolos-acompanan-peliculas-series-skyshowtime-2981496.jpg?tf=1200x' alt='Qué significan los símbolos que acompañan a las películas y series de SkyShowtime' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/41-noticias-tecnologia-comenzar-manana-informado-ultimo-1213980'>41 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
-    <a href='https://computerhoy.com/tecnologia/41-noticias-tecnologia-comenzar-manana-informado-ultimo-1213980' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/41-noticias-tecnologia-comenzar-manana-informado-ultimo-2981274.jpg?tf=1200x' alt='41 noticias de tecnología para comenzar la mañana informado de lo último' />
+    <h4><a href='https://computerhoy.com/apple/tim-cook-ceo-apple-advertencias-equipo-lanzara-reality-pro-2023-1214062'>Tim Cook, CEO de Apple, en contra de las advertencias de su equipo, lanzará las Reality Pro en 2023</a></h4>
+    <a href='https://computerhoy.com/apple/tim-cook-ceo-apple-advertencias-equipo-lanzara-reality-pro-2023-1214062' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/03/tim-cook.jpg?tf=1200x' alt='Tim Cook, CEO de Apple, en contra de las advertencias de su equipo, lanzará las Reality Pro en 2023' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-tablets-10-pulgadas-puedes-comprar-1127593'>Mejores tablets de 10 pulgadas que puedes comprar en 2023</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-tablets-10-pulgadas-puedes-comprar-1127593' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/ipad-10a-generacion-analisis-opinion-2897870.jpg?tf=1200x' alt='Mejores tablets de 10 pulgadas que puedes comprar en 2023' />
+    <h4><a href='https://computerhoy.com/tecnologia/tablet-mucho-barata-ipad-vas-usar-mismo-1214044'>Esta tablet es mucho más barata que un iPad y la vas a usar para lo mismo</a></h4>
+    <a href='https://computerhoy.com/tecnologia/tablet-mucho-barata-ipad-vas-usar-mismo-1214044' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/galeria-review-galaxy-tab-a8-2592455.jpg?tf=1200x' alt='Esta tablet es mucho más barata que un iPad y la vas a usar para lo mismo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/tiranosaurio-rex-trinity-meteorito-marciano-subasta-1213782'>Ciencia al mejor postor: un Tiranosaurio Rex completo y un meteorito marciano, a subasta</a></h4>
-    <a href='https://computerhoy.com/ciencia/tiranosaurio-rex-trinity-meteorito-marciano-subasta-1213782' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/ciencia-mejor-postor-tiranosaurio-rex-completo-meteorito-marciano-subasta-2981070.jpg?tf=1200x' alt='Ciencia al mejor postor: un Tiranosaurio Rex completo y un meteorito marciano, a subasta' />
+    <h4><a href='https://computerhoy.com/audio/airpods-apple-quieren-ser-proximo-gadget-medico-1214028'>Los AirPods de Apple quieren ser tu próximo gadget médico</a></h4>
+    <a href='https://computerhoy.com/audio/airpods-apple-quieren-ser-proximo-gadget-medico-1214028' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/apple-airpods-pro-2-analisis-opinion-2844263.jpg?tf=1200x' alt='Los AirPods de Apple quieren ser tu próximo gadget médico' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/cerebral-datos-privados-salud-mental-3-millones-pacientes-meta-tiktok-google-1213778'>Cerebral comparte datos privados de salud mental de 3,1 millones de pacientes con Meta, TikTok y Google</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/cerebral-datos-privados-salud-mental-3-millones-pacientes-meta-tiktok-google-1213778' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/cerebral-comparte-datos-privados-salud-mental-31-millones-pacientes-meta-tiktok-google-2981068.jpg?tf=1200x' alt='Cerebral comparte datos privados de salud mental de 3,1 millones de pacientes con Meta, TikTok y Google' />
+    <h4><a href='https://computerhoy.com/tecnologia/ia-pide-perdon-matar-mayor-parte-humanidad-exposicion-postapocaliptica-1214012'>La IA pide perdón por 'matar a la mayor parte de la humanidad' en una exposición postapocalíptica</a></h4>
+    <a href='https://computerhoy.com/tecnologia/ia-pide-perdon-matar-mayor-parte-humanidad-exposicion-postapocaliptica-1214012' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/ia-disculpa-matar-mayor-parte-humanidad-exposicion-postapocaliptica-2981318.jpg?tf=1200x' alt='La IA pide perdón por 'matar a la mayor parte de la humanidad' en una exposición postapocalíptica' />
     </a>
 </div>
 
