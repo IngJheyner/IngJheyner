@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/5-habitos-ayudaron-bill-gates-amasar-fortuna-100000-millones-1214138'>5 hábitos que ayudaron a Bill Gates a amasar una fortuna de más 100.000 millones</a></h4>
+    <a href='https://computerhoy.com/life/5-habitos-ayudaron-bill-gates-amasar-fortuna-100000-millones-1214138' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/bill-gates-2967358.jpg?tf=1200x' alt='5 hábitos que ayudaron a Bill Gates a amasar una fortuna de más 100.000 millones' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/smart-tv-xiaomi-mejor-amazon-menos-400eu-1214068'>Smart TV de Xiaomi con lo mejor de Amazon por menos de 400€</a></h4>
+    <a href='https://computerhoy.com/tecnologia/smart-tv-xiaomi-mejor-amazon-menos-400eu-1214068' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/xiaomi-tv-f2-50-2981406.jpg?tf=1200x' alt='Smart TV de Xiaomi con lo mejor de Amazon por menos de 400€' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/moviles/samsung-polemica-falsas-fotos-lunares-space-zoom-100x-problemas-1214080'>Samsung y la polémica de las falsas fotos lunares: Space Zoom 100x en problemas</a></h4>
+    <a href='https://computerhoy.com/moviles/samsung-polemica-falsas-fotos-lunares-space-zoom-100x-problemas-1214080' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/samsung-fotografia-lunar-2981538.jpg?tf=1200x' alt='Samsung y la polémica de las falsas fotos lunares: Space Zoom 100x en problemas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/streaming/significan-simbolos-acompanan-peliculas-series-skyshowtime-1214076'>Qué significan los símbolos que acompañan a las películas y series de SkyShowtime</a></h4>
     <a href='https://computerhoy.com/streaming/significan-simbolos-acompanan-peliculas-series-skyshowtime-1214076' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/significan-simbolos-acompanan-peliculas-series-skyshowtime-2981496.jpg?tf=1200x' alt='Qué significan los símbolos que acompañan a las películas y series de SkyShowtime' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/apple/tim-cook-ceo-apple-advertencias-equipo-lanzara-reality-pro-2023-1214062'>Tim Cook, CEO de Apple, en contra de las advertencias de su equipo, lanzará las Reality Pro en 2023</a></h4>
     <a href='https://computerhoy.com/apple/tim-cook-ceo-apple-advertencias-equipo-lanzara-reality-pro-2023-1214062' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/03/tim-cook.jpg?tf=1200x' alt='Tim Cook, CEO de Apple, en contra de las advertencias de su equipo, lanzará las Reality Pro en 2023' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/tablet-mucho-barata-ipad-vas-usar-mismo-1214044'>Esta tablet es mucho más barata que un iPad y la vas a usar para lo mismo</a></h4>
-    <a href='https://computerhoy.com/tecnologia/tablet-mucho-barata-ipad-vas-usar-mismo-1214044' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/galeria-review-galaxy-tab-a8-2592455.jpg?tf=1200x' alt='Esta tablet es mucho más barata que un iPad y la vas a usar para lo mismo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/audio/airpods-apple-quieren-ser-proximo-gadget-medico-1214028'>Los AirPods de Apple quieren ser tu próximo gadget médico</a></h4>
-    <a href='https://computerhoy.com/audio/airpods-apple-quieren-ser-proximo-gadget-medico-1214028' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/apple-airpods-pro-2-analisis-opinion-2844263.jpg?tf=1200x' alt='Los AirPods de Apple quieren ser tu próximo gadget médico' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/ia-pide-perdon-matar-mayor-parte-humanidad-exposicion-postapocaliptica-1214012'>La IA pide perdón por 'matar a la mayor parte de la humanidad' en una exposición postapocalíptica</a></h4>
-    <a href='https://computerhoy.com/tecnologia/ia-pide-perdon-matar-mayor-parte-humanidad-exposicion-postapocaliptica-1214012' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/ia-disculpa-matar-mayor-parte-humanidad-exposicion-postapocaliptica-2981318.jpg?tf=1200x' alt='La IA pide perdón por 'matar a la mayor parte de la humanidad' en una exposición postapocalíptica' />
     </a>
 </div>
 
