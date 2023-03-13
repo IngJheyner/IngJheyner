@@ -66,9 +66,9 @@
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/5-habitos-ayudaron-bill-gates-amasar-fortuna-100000-millones-1214138'>5 hábitos que ayudaron a Bill Gates a amasar una fortuna de más 100.000 millones</a></h4>
+    <h4><a href='https://computerhoy.com/life/5-habitos-ayudaron-bill-gates-amasar-fortuna-100000-millones-1214138'>5 hábitos que ayudaron a Bill Gates a amasar una fortuna de más de 100.000 millones</a></h4>
     <a href='https://computerhoy.com/life/5-habitos-ayudaron-bill-gates-amasar-fortuna-100000-millones-1214138' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/bill-gates-2967358.jpg?tf=1200x' alt='5 hábitos que ayudaron a Bill Gates a amasar una fortuna de más 100.000 millones' />
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/bill-gates-2967358.jpg?tf=1200x' alt='5 hábitos que ayudaron a Bill Gates a amasar una fortuna de más de 100.000 millones' />
     </a>
 </div>
 
