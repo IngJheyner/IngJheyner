@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/22-noticias-tecnologia-comenzar-manana-informado-ultimo-1214634'>22 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
+    <a href='https://computerhoy.com/tecnologia/22-noticias-tecnologia-comenzar-manana-informado-ultimo-1214634' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/22-noticias-tecnologia-comenzar-manana-informado-ultimo-2982260.jpg?tf=1200x' alt='22 noticias de tecnología para comenzar la mañana informado de lo último' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/historia-detras-chatgpt-gran-logro-inteligencia-artificial-conversacional-1214114'>La historia detrás de ChatGPT: el gran logro de la inteligencia artificial conversacional</a></h4>
+    <a href='https://computerhoy.com/tecnologia/historia-detras-chatgpt-gran-logro-inteligencia-artificial-conversacional-1214114' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/historia-detras-chatgpt-gran-logro-inteligencia-artificial-conversacional-2981582.jpg?tf=1200x' alt='La historia detrás de ChatGPT: el gran logro de la inteligencia artificial conversacional' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/amazon-rebaja-productos-ecosistema-xiaomi-1214184'>Amazon rebaja 10 productos Xiaomi que merecen la pena: estos son los elegidos</a></h4>
     <a href='https://computerhoy.com/tecnologia/amazon-rebaja-productos-ecosistema-xiaomi-1214184' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/ecosistema-xiaomi-2597457.jpg?tf=1200x' alt='Amazon rebaja 10 productos Xiaomi que merecen la pena: estos son los elegidos' />
@@ -58,9 +74,9 @@
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/millennium-seed-bank-banco-semillas-video-1214624'>Visitamos Millennium Seed Bank, el Arca de Noé de las plantas, alcanza las 2.400 millones de semillas almacenadas (vídeo)</a></h4>
+    <h4><a href='https://computerhoy.com/ciencia/millennium-seed-bank-banco-semillas-video-1214624'>Visitamos Millennium Seed Bank, el Arca de Noé de las plantas, alcanza los 2.400 millones de semillas almacenadas (vídeo)</a></h4>
     <a href='https://computerhoy.com/ciencia/millennium-seed-bank-banco-semillas-video-1214624' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/verticalimage1678761122954-2982244.jpg?tf=1200x' alt='Visitamos Millennium Seed Bank, el Arca de Noé de las plantas, alcanza las 2.400 millones de semillas almacenadas (vídeo)' />
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/verticalimage1678761122954-2982244.jpg?tf=1200x' alt='Visitamos Millennium Seed Bank, el Arca de Noé de las plantas, alcanza los 2.400 millones de semillas almacenadas (vídeo)' />
     </a>
 </div>
 
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/life/hotel-desinfectar-toallitas-desinfectantes-1214618'>Si vas a un hotel, esto es lo que debes limpiar con toallitas desinfectantes</a></h4>
     <a href='https://computerhoy.com/life/hotel-desinfectar-toallitas-desinfectantes-1214618' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/vas-hotel-debes-limpiar-toallitas-desinfectantes-2981992.jpg?tf=1200x' alt='Si vas a un hotel, esto es lo que debes limpiar con toallitas desinfectantes' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/pimeyes-buscador-caras-utilizo-rostros-personas-fallecidas-sin-permiso-1214374'>PimEyes, el buscador de caras con inteligencia artificial que utilizó rostros de personas fallecidas sin permiso</a></h4>
-    <a href='https://computerhoy.com/tecnologia/pimeyes-buscador-caras-utilizo-rostros-personas-fallecidas-sin-permiso-1214374' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/pimeyes-buscador-caras-utilizo-rostros-personas-fallecidas-permiso-2981980.jpg?tf=1200x' alt='PimEyes, el buscador de caras con inteligencia artificial que utilizó rostros de personas fallecidas sin permiso' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/streaming/the-last-olive-parodia-the-last-us-jaen-1214366'>The Last Olive, la parodia andaluza de The Last of Us, arrasa con su primer capítulo gratuito</a></h4>
-    <a href='https://computerhoy.com/streaming/the-last-olive-parodia-the-last-us-jaen-1214366' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/last-olive-parodia-last-us-rodada-jaen-arrasa-primer-capitulo-2981958.jpg?tf=1200x' alt='The Last Olive, la parodia andaluza de The Last of Us, arrasa con su primer capítulo gratuito' />
     </a>
 </div>
 
