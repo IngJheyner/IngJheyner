@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/amazon-rebaja-productos-ecosistema-xiaomi-1214184'>Amazon rebaja 10 productos Xiaomi que merecen la pena: estos son los elegidos</a></h4>
+    <a href='https://computerhoy.com/tecnologia/amazon-rebaja-productos-ecosistema-xiaomi-1214184' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/ecosistema-xiaomi-2597457.jpg?tf=1200x' alt='Amazon rebaja 10 productos Xiaomi que merecen la pena: estos son los elegidos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/millennium-seed-bank-banco-semillas-video-1214624'>Visitamos Millennium Seed Bank, el Arca de Noé de las plantas, alcanza las 2.400 millones de semillas almacenadas (vídeo)</a></h4>
+    <a href='https://computerhoy.com/ciencia/millennium-seed-bank-banco-semillas-video-1214624' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/verticalimage1678761122954-2982244.jpg?tf=1200x' alt='Visitamos Millennium Seed Bank, el Arca de Noé de las plantas, alcanza las 2.400 millones de semillas almacenadas (vídeo)' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/hotel-desinfectar-toallitas-desinfectantes-1214618'>Si vas a un hotel, esto es lo que debes limpiar con toallitas desinfectantes</a></h4>
     <a href='https://computerhoy.com/life/hotel-desinfectar-toallitas-desinfectantes-1214618' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/vas-hotel-debes-limpiar-toallitas-desinfectantes-2981992.jpg?tf=1200x' alt='Si vas a un hotel, esto es lo que debes limpiar con toallitas desinfectantes' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/streaming/the-last-olive-parodia-the-last-us-jaen-1214366'>The Last Olive, la parodia andaluza de The Last of Us, arrasa con su primer capítulo gratuito</a></h4>
     <a href='https://computerhoy.com/streaming/the-last-olive-parodia-the-last-us-jaen-1214366' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/last-olive-parodia-last-us-rodada-jaen-arrasa-primer-capitulo-2981958.jpg?tf=1200x' alt='The Last Olive, la parodia andaluza de The Last of Us, arrasa con su primer capítulo gratuito' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/guardia-civil-alerta-nueva-estafa-utiliza-renta-2022-23-como-gancho-1214358'>Guardia Civil alerta de una nueva estafa que utiliza la Renta 2022/23 como gancho</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/guardia-civil-alerta-nueva-estafa-utiliza-renta-2022-23-como-gancho-1214358' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/fechas-renta-2022-23-pedir-borrador-cuando-podrias-tener-ingresada-devolucion-2969698.jpg?tf=1200x' alt='Guardia Civil alerta de una nueva estafa que utiliza la Renta 2022/23 como gancho' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/google-maps-te-permite-visitar-interior-chernobil-escalofriante-1214354'>Google Maps te permite visitar el interior de Chernóbil y es escalofriante</a></h4>
-    <a href='https://computerhoy.com/apps/google-maps-te-permite-visitar-interior-chernobil-escalofriante-1214354' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/google-maps-chernobil-2981962.jpg?tf=1200x' alt='Google Maps te permite visitar el interior de Chernóbil y es escalofriante' />
     </a>
 </div>
 
