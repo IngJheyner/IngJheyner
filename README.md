@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/gaming/ps5-precio-oficial-venta-amazon-sin-esperas-1214088'>No más esperas: compra la PS5 en Amazon ya es posible a precio oficial y sin colas</a></h4>
-    <a href='https://computerhoy.com/gaming/ps5-precio-oficial-venta-amazon-sin-esperas-1214088' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/ps5-amazon-2981454.jpg?tf=1200x' alt='No más esperas: compra la PS5 en Amazon ya es posible a precio oficial y sin colas' />
+    <h4><a href='https://computerhoy.com/motor/efuel-combustible-sintetico-salvara-vida-coche-gasolina-ya-realidad-1214812'>eFuel, el combustible sintético que salvará la vida de tu coche de gasolina ya es una realidad</a></h4>
+    <a href='https://computerhoy.com/motor/efuel-combustible-sintetico-salvara-vida-coche-gasolina-ya-realidad-1214812' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/efuel-combustible-futuro-2982732.jpg?tf=1200x' alt='eFuel, el combustible sintético que salvará la vida de tu coche de gasolina ya es una realidad' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-ver-mil-canales-gratis-internet-photocall-tv-1214312'>Cómo ver más de mil de canales gratis por Internet con Photocall TV</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-ver-mil-canales-gratis-internet-photocall-tv-1214312' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/photocall-tv-2981902.jpg?tf=1200x' alt='Cómo ver más de mil de canales gratis por Internet con Photocall TV' />
+    <h4><a href='https://computerhoy.com/espacio/james-webb-no-tiene-rival-pulveriza-record-hubble-galaxias-juntas-sola-imagen-1214766'>James Webb no tiene rival y pulveriza el récord del Hubble de más galaxias juntas en una sola imagen</a></h4>
+    <a href='https://computerhoy.com/espacio/james-webb-no-tiene-rival-pulveriza-record-hubble-galaxias-juntas-sola-imagen-1214766' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/james-webb-2745581.jpg?tf=1200x' alt='James Webb no tiene rival y pulveriza el récord del Hubble de más galaxias juntas en una sola imagen' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/nuevo-oneplus-nord-cerca-crees-1214686'>El nuevo OnePlus Nord está más cerca de lo que crees</a></h4>
-    <a href='https://computerhoy.com/moviles/nuevo-oneplus-nord-cerca-crees-1214686' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/oneplus-nord-n300-5g-gama-media-oneplus-5g-90-hz-procesador-mediatek-2853245.jpg?tf=1200x' alt='El nuevo OnePlus Nord está más cerca de lo que crees' />
+    <h4><a href='https://computerhoy.com/tutoriales/como-limpiar-correctamente-pantalla-televisor-no-danarla-expertos-limpieza-1211752'>Cómo limpiar correctamente la pantalla de un televisor para no dañarla, según los expertos en limpieza</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-limpiar-correctamente-pantalla-televisor-no-danarla-expertos-limpieza-1211752' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/limpiar-televisor-smart-tv-2977284.jpg?tf=1200x' alt='Cómo limpiar correctamente la pantalla de un televisor para no dañarla, según los expertos en limpieza' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/dispositivo-detecta-airtags-otras-etiquetas-ble-no-te-rastreen-permiso-1214646'>Este dispositivo detecta Airtags y otras etiquetas BLE para que no te rastreen sin tu permiso</a></h4>
-    <a href='https://computerhoy.com/tecnologia/dispositivo-detecta-airtags-otras-etiquetas-ble-no-te-rastreen-permiso-1214646' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/dispositivo-detecta-airtags-otras-etiquetas-ble-no-te-rastreen-permiso-2982276.jpg?tf=1200x' alt='Este dispositivo detecta Airtags y otras etiquetas BLE para que no te rastreen sin tu permiso' />
+    <h4><a href='https://computerhoy.com/tecnologia/como-nos-enganan-chatgpt-bots-ia-creas-son-humanos-1214670'>Cómo nos engañan ChatGPT y los bots IA para que creas que son humanos</a></h4>
+    <a href='https://computerhoy.com/tecnologia/como-nos-enganan-chatgpt-bots-ia-creas-son-humanos-1214670' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/chatgpt-2982548.jpg?tf=1200x' alt='Cómo nos engañan ChatGPT y los bots IA para que creas que son humanos' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/guia-compra/patinete-xiaomi-854453'>Patinetes eléctricos de Xiaomi: todos los modelos, características, autonomía y más</a></h4>
-    <a href='https://computerhoy.com/guia-compra/patinete-xiaomi-854453' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/xiaomi-mi-electric-scooter-3-2447967.jpg?tf=1200x' alt='Patinetes eléctricos de Xiaomi: todos los modelos, características, autonomía y más' />
+    <h4><a href='https://computerhoy.com/motor/coches-electricos-necesitan-menos-mantenimiento-gasolina-diesel-1214758'>¿Por qué los coches eléctricos necesitan menos mantenimiento que los de gasolina o diésel?</a></h4>
+    <a href='https://computerhoy.com/motor/coches-electricos-necesitan-menos-mantenimiento-gasolina-diesel-1214758' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/infografia-balanza-comparando-coche-electrico-tradicional-2928006.jpg?tf=1200x' alt='¿Por qué los coches eléctricos necesitan menos mantenimiento que los de gasolina o diésel?' />
     </a>
 </div>
 
