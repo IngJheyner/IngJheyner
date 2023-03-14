@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/amazon/accesorio-elimina-cables-reduce-consumo-mejora-rendimiento-amazon-fire-tv-1214852'>Este accesorio elimina cables, reduce el consumo y mejora el rendimiento del Amazon Fire TV</a></h4>
-    <a href='https://computerhoy.com/amazon/accesorio-elimina-cables-reduce-consumo-mejora-rendimiento-amazon-fire-tv-1214852' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/dolby-vision-wifi-6-mucha-potencia-nuevo-amazon-fire-tv-stick-4k-max-2465829.jpg?tf=1200x' alt='Este accesorio elimina cables, reduce el consumo y mejora el rendimiento del Amazon Fire TV' />
+    <h4><a href='https://computerhoy.com/internet/chatgpt-4-ya-aqui-estas-son-principales-novedades-1214958'>ChatGPT-4 ya está aquí: estas son sus principales novedades</a></h4>
+    <a href='https://computerhoy.com/internet/chatgpt-4-ya-aqui-estas-son-principales-novedades-1214958' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/gpt-4-sera-verdadera-revolucion-sector-inteligencia-artificial-2934662.jpg?tf=1200x' alt='ChatGPT-4 ya está aquí: estas son sus principales novedades' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/alla-chatgpt-15-herramientas-inteligencia-artificial-te-seran-gran-utilidad-1214804'>Más allá de ChatGPT: 15 herramientas de inteligencia artificial que te serán de gran utilidad</a></h4>
-    <a href='https://computerhoy.com/tecnologia/alla-chatgpt-15-herramientas-inteligencia-artificial-te-seran-gran-utilidad-1214804' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/alla-chatgpt-15-herramientas-inteligencia-artificial-gran-utilidad-2982858.jpg?tf=1200x' alt='Más allá de ChatGPT: 15 herramientas de inteligencia artificial que te serán de gran utilidad' />
+    <h4><a href='https://computerhoy.com/listas/hardware/mejores-programas-buscar-actualizar-drivers-windows-57730'>Los mejores programas para buscar y actualizar drivers en Windows</a></h4>
+    <a href='https://computerhoy.com/listas/hardware/mejores-programas-buscar-actualizar-drivers-windows-57730' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/03/piezas-ordenador-1884873.jpg?tf=1200x' alt='Los mejores programas para buscar y actualizar drivers en Windows' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/efuel-combustible-sintetico-salvara-vida-coche-gasolina-ya-realidad-1214812'>eFuel, el combustible sintético que salvará la vida de tu coche de gasolina ya es una realidad</a></h4>
-    <a href='https://computerhoy.com/motor/efuel-combustible-sintetico-salvara-vida-coche-gasolina-ya-realidad-1214812' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/efuel-combustible-futuro-2982732.jpg?tf=1200x' alt='eFuel, el combustible sintético que salvará la vida de tu coche de gasolina ya es una realidad' />
+    <h4><a href='https://computerhoy.com/google/herramientas-inteligencia-artificial-generativa-google-api-palm-makersuite-vertex-ai-workspace-1214960'>Nace una nueva Google: anuncia una lluvia de herramientas con IA integrada para individuos, desarrolladores y empresas</a></h4>
+    <a href='https://computerhoy.com/google/herramientas-inteligencia-artificial-generativa-google-api-palm-makersuite-vertex-ai-workspace-1214960' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/nace-nueva-google-anuncia-lluvia-herramientas-ia-integrada-individuos-desarrolladores-empresas-2983110.jpg?tf=1200x' alt='Nace una nueva Google: anuncia una lluvia de herramientas con IA integrada para individuos, desarrolladores y empresas' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/james-webb-no-tiene-rival-pulveriza-record-hubble-galaxias-juntas-sola-imagen-1214766'>James Webb no tiene rival y pulveriza el récord del Hubble de más galaxias juntas en una sola imagen</a></h4>
-    <a href='https://computerhoy.com/espacio/james-webb-no-tiene-rival-pulveriza-record-hubble-galaxias-juntas-sola-imagen-1214766' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/james-webb-2745581.jpg?tf=1200x' alt='James Webb no tiene rival y pulveriza el récord del Hubble de más galaxias juntas en una sola imagen' />
+    <h4><a href='https://computerhoy.com/amazon/todos-estos-productos-baratos-ahora-tienen-version-made-amazon-1214848'>Todos estos productos baratos ahora tienen versión made in Amazon</a></h4>
+    <a href='https://computerhoy.com/amazon/todos-estos-productos-baratos-ahora-tienen-version-made-amazon-1214848' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/amazon-basics-2929530.jpg?tf=1200x' alt='Todos estos productos baratos ahora tienen versión made in Amazon' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-limpiar-correctamente-pantalla-televisor-no-danarla-expertos-limpieza-1211752'>Cómo limpiar correctamente la pantalla de un televisor para no dañarla, según los expertos en limpieza</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-limpiar-correctamente-pantalla-televisor-no-danarla-expertos-limpieza-1211752' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/limpiar-televisor-smart-tv-2977284.jpg?tf=1200x' alt='Cómo limpiar correctamente la pantalla de un televisor para no dañarla, según los expertos en limpieza' />
+    <h4><a href='https://computerhoy.com/motor/dgt-velocidad-maxima-ideal-ahorrar-combustible-1214904'>Según la DGT esta es la velocidad máxima ideal para ahorrar combustible</a></h4>
+    <a href='https://computerhoy.com/motor/dgt-velocidad-maxima-ideal-ahorrar-combustible-1214904' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/velocimetro-2983146.jpg?tf=1200x' alt='Según la DGT esta es la velocidad máxima ideal para ahorrar combustible' />
     </a>
 </div>
 
