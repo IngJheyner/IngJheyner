@@ -50,9 +50,17 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/streaming/the-last-olive-parodia-the-last-us-jaen-1214366'>The Last Olive, la parodia andaluza de The Last of Us, arrasa con su primer capítulo</a></h4>
+    <h4><a href='https://computerhoy.com/tecnologia/pimeyes-buscador-caras-utilizo-rostros-personas-fallecidas-sin-permiso-1214374'>PimEyes, el buscador de caras que utilizó rostros de personas fallecidas sin permiso</a></h4>
+    <a href='https://computerhoy.com/tecnologia/pimeyes-buscador-caras-utilizo-rostros-personas-fallecidas-sin-permiso-1214374' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/pimeyes-buscador-caras-utilizo-rostros-personas-fallecidas-permiso-2981980.jpg?tf=1200x' alt='PimEyes, el buscador de caras que utilizó rostros de personas fallecidas sin permiso' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/streaming/the-last-olive-parodia-the-last-us-jaen-1214366'>The Last Olive, la parodia andaluza de The Last of Us, arrasa con su primer capítulo gratuito</a></h4>
     <a href='https://computerhoy.com/streaming/the-last-olive-parodia-the-last-us-jaen-1214366' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/last-olive-parodia-last-us-rodada-jaen-arrasa-primer-capitulo-2981958.jpg?tf=1200x' alt='The Last Olive, la parodia andaluza de The Last of Us, arrasa con su primer capítulo' />
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/last-olive-parodia-last-us-rodada-jaen-arrasa-primer-capitulo-2981958.jpg?tf=1200x' alt='The Last Olive, la parodia andaluza de The Last of Us, arrasa con su primer capítulo gratuito' />
     </a>
 </div>
 
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/hogar/robot-aspirador-conga-2299-ultra-home-x-treme-x-cecotec-oferta-lanzamiento-199eu-1214332'>El nuevo robot aspirador Conga 2299 Ultra Home X-Treme X de Cecotec, en oferta de lanzamiento por solo 199€</a></h4>
     <a href='https://computerhoy.com/hogar/robot-aspirador-conga-2299-ultra-home-x-treme-x-cecotec-oferta-lanzamiento-199eu-1214332' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/nuevo-robot-aspirador-conga-2299-ultra-home-x-treme-x-cecotec-oferta-lanzamiento-solo-199eu-2981910.jpg?tf=1200x' alt='El nuevo robot aspirador Conga 2299 Ultra Home X-Treme X de Cecotec, en oferta de lanzamiento por solo 199€' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/whatsapp-cambia-completo-acceso-grupo-1214266'>WhatsApp cambia por completo el acceso a un grupo</a></h4>
-    <a href='https://computerhoy.com/apps/whatsapp-cambia-completo-acceso-grupo-1214266' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/whatsapp-2964384.jpg?tf=1200x' alt='WhatsApp cambia por completo el acceso a un grupo' />
     </a>
 </div>
 
