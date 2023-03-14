@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/chatgpt-4-ya-aqui-estas-son-principales-novedades-1214958'>ChatGPT-4 ya está aquí: estas son sus principales novedades</a></h4>
-    <a href='https://computerhoy.com/internet/chatgpt-4-ya-aqui-estas-son-principales-novedades-1214958' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/gpt-4-sera-verdadera-revolucion-sector-inteligencia-artificial-2934662.jpg?tf=1200x' alt='ChatGPT-4 ya está aquí: estas son sus principales novedades' />
+    <h4><a href='https://computerhoy.com/streaming/regresa-ted-lasso-temporada-3-ultima-temporada-1215004'>Regresa la única serie de comedia que arrastra grandes audiencias, y puede que sea la última temporada</a></h4>
+    <a href='https://computerhoy.com/streaming/regresa-ted-lasso-temporada-3-ultima-temporada-1215004' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/verticalimage1678825678112-2983238.jpg?tf=1200x' alt='Regresa la única serie de comedia que arrastra grandes audiencias, y puede que sea la última temporada' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/listas/hardware/mejores-programas-buscar-actualizar-drivers-windows-57730'>Los mejores programas para buscar y actualizar drivers en Windows</a></h4>
-    <a href='https://computerhoy.com/listas/hardware/mejores-programas-buscar-actualizar-drivers-windows-57730' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/03/piezas-ordenador-1884873.jpg?tf=1200x' alt='Los mejores programas para buscar y actualizar drivers en Windows' />
+    <h4><a href='https://computerhoy.com/espacio/consigue-capturar-video-momento-exacto-meteorito-impacta-luna-1214998'>Consigue capturar en vídeo el momento exacto en el que un meteorito impacta sobre la Luna</a></h4>
+    <a href='https://computerhoy.com/espacio/consigue-capturar-video-momento-exacto-meteorito-impacta-luna-1214998' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/luna-2983236.jpg?tf=1200x' alt='Consigue capturar en vídeo el momento exacto en el que un meteorito impacta sobre la Luna' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/herramientas-inteligencia-artificial-generativa-google-api-palm-makersuite-vertex-ai-workspace-1214960'>Nace una nueva Google: anuncia una lluvia de herramientas con IA integrada para individuos, desarrolladores y empresas</a></h4>
-    <a href='https://computerhoy.com/google/herramientas-inteligencia-artificial-generativa-google-api-palm-makersuite-vertex-ai-workspace-1214960' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/nace-nueva-google-anuncia-lluvia-herramientas-ia-integrada-individuos-desarrolladores-empresas-2983110.jpg?tf=1200x' alt='Nace una nueva Google: anuncia una lluvia de herramientas con IA integrada para individuos, desarrolladores y empresas' />
+    <h4><a href='https://computerhoy.com/tutoriales/como-ver-historial-navegacion-modo-incognito-chrome-como-eliminarlo-1214912'>Cómo ver el historial de navegación en modo incógnito de Chrome y cómo eliminarlo</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-ver-historial-navegacion-modo-incognito-chrome-como-eliminarlo-1214912' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/02/inc.jpg?tf=1200x' alt='Cómo ver el historial de navegación en modo incógnito de Chrome y cómo eliminarlo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/amazon/todos-estos-productos-baratos-ahora-tienen-version-made-amazon-1214848'>Todos estos productos baratos ahora tienen versión made in Amazon</a></h4>
-    <a href='https://computerhoy.com/amazon/todos-estos-productos-baratos-ahora-tienen-version-made-amazon-1214848' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/amazon-basics-2929530.jpg?tf=1200x' alt='Todos estos productos baratos ahora tienen versión made in Amazon' />
+    <h4><a href='https://computerhoy.com/life/mayor-error-todos-cometemos-cuando-vamos-parque-atracciones-1214994'>Este es el mayor error que todos cometemos cuando vamos a un parque de atracciones</a></h4>
+    <a href='https://computerhoy.com/life/mayor-error-todos-cometemos-cuando-vamos-parque-atracciones-1214994' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/parque-atracciones-2983232.jpg?tf=1200x' alt='Este es el mayor error que todos cometemos cuando vamos a un parque de atracciones' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/dgt-velocidad-maxima-ideal-ahorrar-combustible-1214904'>Según la DGT esta es la velocidad máxima ideal para ahorrar combustible</a></h4>
-    <a href='https://computerhoy.com/motor/dgt-velocidad-maxima-ideal-ahorrar-combustible-1214904' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/velocimetro-2983146.jpg?tf=1200x' alt='Según la DGT esta es la velocidad máxima ideal para ahorrar combustible' />
+    <h4><a href='https://computerhoy.com/motor/radio-fm-espana-tiene-cuerda-rato-no-no-te-quedaras-ella-coche-1214918'>La radio FM en España tiene cuerda para rato, y no, no te quedarás sin ella en el coche</a></h4>
+    <a href='https://computerhoy.com/motor/radio-fm-espana-tiene-cuerda-rato-no-no-te-quedaras-ella-coche-1214918' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/radio-coche-2529671.jpg?tf=1200x' alt='La radio FM en España tiene cuerda para rato, y no, no te quedarás sin ella en el coche' />
     </a>
 </div>
 
