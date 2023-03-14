@@ -50,9 +50,17 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/pimeyes-buscador-caras-utilizo-rostros-personas-fallecidas-sin-permiso-1214374'>PimEyes, el buscador de caras que utilizó rostros de personas fallecidas sin permiso</a></h4>
+    <h4><a href='https://computerhoy.com/life/hotel-desinfectar-toallitas-desinfectantes-1214618'>Si vas a un hotel, esto es lo que debes limpiar con toallitas desinfectantes</a></h4>
+    <a href='https://computerhoy.com/life/hotel-desinfectar-toallitas-desinfectantes-1214618' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/vas-hotel-debes-limpiar-toallitas-desinfectantes-2981992.jpg?tf=1200x' alt='Si vas a un hotel, esto es lo que debes limpiar con toallitas desinfectantes' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/pimeyes-buscador-caras-utilizo-rostros-personas-fallecidas-sin-permiso-1214374'>PimEyes, el buscador de caras con inteligencia artificial que utilizó rostros de personas fallecidas sin permiso</a></h4>
     <a href='https://computerhoy.com/tecnologia/pimeyes-buscador-caras-utilizo-rostros-personas-fallecidas-sin-permiso-1214374' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/pimeyes-buscador-caras-utilizo-rostros-personas-fallecidas-permiso-2981980.jpg?tf=1200x' alt='PimEyes, el buscador de caras que utilizó rostros de personas fallecidas sin permiso' />
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/pimeyes-buscador-caras-utilizo-rostros-personas-fallecidas-permiso-2981980.jpg?tf=1200x' alt='PimEyes, el buscador de caras con inteligencia artificial que utilizó rostros de personas fallecidas sin permiso' />
     </a>
 </div>
 
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/apps/google-maps-te-permite-visitar-interior-chernobil-escalofriante-1214354'>Google Maps te permite visitar el interior de Chernóbil y es escalofriante</a></h4>
     <a href='https://computerhoy.com/apps/google-maps-te-permite-visitar-interior-chernobil-escalofriante-1214354' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/google-maps-chernobil-2981962.jpg?tf=1200x' alt='Google Maps te permite visitar el interior de Chernóbil y es escalofriante' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/hogar/robot-aspirador-conga-2299-ultra-home-x-treme-x-cecotec-oferta-lanzamiento-199eu-1214332'>El nuevo robot aspirador Conga 2299 Ultra Home X-Treme X de Cecotec, en oferta de lanzamiento por solo 199€</a></h4>
-    <a href='https://computerhoy.com/hogar/robot-aspirador-conga-2299-ultra-home-x-treme-x-cecotec-oferta-lanzamiento-199eu-1214332' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/nuevo-robot-aspirador-conga-2299-ultra-home-x-treme-x-cecotec-oferta-lanzamiento-solo-199eu-2981910.jpg?tf=1200x' alt='El nuevo robot aspirador Conga 2299 Ultra Home X-Treme X de Cecotec, en oferta de lanzamiento por solo 199€' />
     </a>
 </div>
 
