@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/22-noticias-tecnologia-comenzar-manana-informado-ultimo-1214634'>22 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
-    <a href='https://computerhoy.com/tecnologia/22-noticias-tecnologia-comenzar-manana-informado-ultimo-1214634' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/22-noticias-tecnologia-comenzar-manana-informado-ultimo-2982260.jpg?tf=1200x' alt='22 noticias de tecnología para comenzar la mañana informado de lo último' />
+    <h4><a href='https://computerhoy.com/gaming/ps5-precio-oficial-venta-amazon-sin-esperas-1214088'>No más esperas: compra la PS5 en Amazon ya es posible a precio oficial y sin colas</a></h4>
+    <a href='https://computerhoy.com/gaming/ps5-precio-oficial-venta-amazon-sin-esperas-1214088' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/ps5-amazon-2981454.jpg?tf=1200x' alt='No más esperas: compra la PS5 en Amazon ya es posible a precio oficial y sin colas' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/historia-detras-chatgpt-gran-logro-inteligencia-artificial-conversacional-1214114'>La historia detrás de ChatGPT: el gran logro de la inteligencia artificial conversacional</a></h4>
-    <a href='https://computerhoy.com/tecnologia/historia-detras-chatgpt-gran-logro-inteligencia-artificial-conversacional-1214114' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/historia-detras-chatgpt-gran-logro-inteligencia-artificial-conversacional-2981582.jpg?tf=1200x' alt='La historia detrás de ChatGPT: el gran logro de la inteligencia artificial conversacional' />
+    <h4><a href='https://computerhoy.com/tutoriales/como-ver-mil-canales-gratis-internet-photocall-tv-1214312'>Cómo ver más de mil de canales gratis por Internet con Photocall TV</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-ver-mil-canales-gratis-internet-photocall-tv-1214312' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/photocall-tv-2981902.jpg?tf=1200x' alt='Cómo ver más de mil de canales gratis por Internet con Photocall TV' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/amazon-rebaja-productos-ecosistema-xiaomi-1214184'>Amazon rebaja 10 productos Xiaomi que merecen la pena: estos son los elegidos</a></h4>
-    <a href='https://computerhoy.com/tecnologia/amazon-rebaja-productos-ecosistema-xiaomi-1214184' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/ecosistema-xiaomi-2597457.jpg?tf=1200x' alt='Amazon rebaja 10 productos Xiaomi que merecen la pena: estos son los elegidos' />
+    <h4><a href='https://computerhoy.com/moviles/nuevo-oneplus-nord-cerca-crees-1214686'>El nuevo OnePlus Nord está más cerca de lo que crees</a></h4>
+    <a href='https://computerhoy.com/moviles/nuevo-oneplus-nord-cerca-crees-1214686' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/oneplus-nord-n300-5g-gama-media-oneplus-5g-90-hz-procesador-mediatek-2853245.jpg?tf=1200x' alt='El nuevo OnePlus Nord está más cerca de lo que crees' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/millennium-seed-bank-banco-semillas-video-1214624'>Visitamos Millennium Seed Bank, el Arca de Noé de las plantas, alcanza los 2.400 millones de semillas almacenadas (vídeo)</a></h4>
-    <a href='https://computerhoy.com/ciencia/millennium-seed-bank-banco-semillas-video-1214624' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/verticalimage1678761122954-2982244.jpg?tf=1200x' alt='Visitamos Millennium Seed Bank, el Arca de Noé de las plantas, alcanza los 2.400 millones de semillas almacenadas (vídeo)' />
+    <h4><a href='https://computerhoy.com/tecnologia/dispositivo-detecta-airtags-otras-etiquetas-ble-no-te-rastreen-permiso-1214646'>Este dispositivo detecta Airtags y otras etiquetas BLE para que no te rastreen sin tu permiso</a></h4>
+    <a href='https://computerhoy.com/tecnologia/dispositivo-detecta-airtags-otras-etiquetas-ble-no-te-rastreen-permiso-1214646' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/dispositivo-detecta-airtags-otras-etiquetas-ble-no-te-rastreen-permiso-2982276.jpg?tf=1200x' alt='Este dispositivo detecta Airtags y otras etiquetas BLE para que no te rastreen sin tu permiso' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/hotel-desinfectar-toallitas-desinfectantes-1214618'>Si vas a un hotel, esto es lo que debes limpiar con toallitas desinfectantes</a></h4>
-    <a href='https://computerhoy.com/life/hotel-desinfectar-toallitas-desinfectantes-1214618' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/vas-hotel-debes-limpiar-toallitas-desinfectantes-2981992.jpg?tf=1200x' alt='Si vas a un hotel, esto es lo que debes limpiar con toallitas desinfectantes' />
+    <h4><a href='https://computerhoy.com/guia-compra/patinete-xiaomi-854453'>Patinetes eléctricos de Xiaomi: todos los modelos, características, autonomía y más</a></h4>
+    <a href='https://computerhoy.com/guia-compra/patinete-xiaomi-854453' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/xiaomi-mi-electric-scooter-3-2447967.jpg?tf=1200x' alt='Patinetes eléctricos de Xiaomi: todos los modelos, características, autonomía y más' />
     </a>
 </div>
 
