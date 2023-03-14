@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/amazon/accesorio-elimina-cables-reduce-consumo-mejora-rendimiento-amazon-fire-tv-1214852'>Este accesorio elimina cables, reduce el consumo y mejora el rendimiento del Amazon Fire TV</a></h4>
+    <a href='https://computerhoy.com/amazon/accesorio-elimina-cables-reduce-consumo-mejora-rendimiento-amazon-fire-tv-1214852' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/dolby-vision-wifi-6-mucha-potencia-nuevo-amazon-fire-tv-stick-4k-max-2465829.jpg?tf=1200x' alt='Este accesorio elimina cables, reduce el consumo y mejora el rendimiento del Amazon Fire TV' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/alla-chatgpt-15-herramientas-inteligencia-artificial-te-seran-gran-utilidad-1214804'>Más allá de ChatGPT: 15 herramientas de inteligencia artificial que te serán de gran utilidad</a></h4>
+    <a href='https://computerhoy.com/tecnologia/alla-chatgpt-15-herramientas-inteligencia-artificial-te-seran-gran-utilidad-1214804' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/alla-chatgpt-15-herramientas-inteligencia-artificial-gran-utilidad-2982858.jpg?tf=1200x' alt='Más allá de ChatGPT: 15 herramientas de inteligencia artificial que te serán de gran utilidad' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/motor/efuel-combustible-sintetico-salvara-vida-coche-gasolina-ya-realidad-1214812'>eFuel, el combustible sintético que salvará la vida de tu coche de gasolina ya es una realidad</a></h4>
     <a href='https://computerhoy.com/motor/efuel-combustible-sintetico-salvara-vida-coche-gasolina-ya-realidad-1214812' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/efuel-combustible-futuro-2982732.jpg?tf=1200x' alt='eFuel, el combustible sintético que salvará la vida de tu coche de gasolina ya es una realidad' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tutoriales/como-limpiar-correctamente-pantalla-televisor-no-danarla-expertos-limpieza-1211752'>Cómo limpiar correctamente la pantalla de un televisor para no dañarla, según los expertos en limpieza</a></h4>
     <a href='https://computerhoy.com/tutoriales/como-limpiar-correctamente-pantalla-televisor-no-danarla-expertos-limpieza-1211752' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/limpiar-televisor-smart-tv-2977284.jpg?tf=1200x' alt='Cómo limpiar correctamente la pantalla de un televisor para no dañarla, según los expertos en limpieza' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/como-nos-enganan-chatgpt-bots-ia-creas-son-humanos-1214670'>Cómo nos engañan ChatGPT y los bots IA para que creas que son humanos</a></h4>
-    <a href='https://computerhoy.com/tecnologia/como-nos-enganan-chatgpt-bots-ia-creas-son-humanos-1214670' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/chatgpt-2982548.jpg?tf=1200x' alt='Cómo nos engañan ChatGPT y los bots IA para que creas que son humanos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/coches-electricos-necesitan-menos-mantenimiento-gasolina-diesel-1214758'>¿Por qué los coches eléctricos necesitan menos mantenimiento que los de gasolina o diésel?</a></h4>
-    <a href='https://computerhoy.com/motor/coches-electricos-necesitan-menos-mantenimiento-gasolina-diesel-1214758' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/infografia-balanza-comparando-coche-electrico-tradicional-2928006.jpg?tf=1200x' alt='¿Por qué los coches eléctricos necesitan menos mantenimiento que los de gasolina o diésel?' />
     </a>
 </div>
 
