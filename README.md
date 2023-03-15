@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/moviles/honor-x8a-x7a-x6-nueva-gama-media-honor-llega-espana-1215502'>HONOR X8a, X7a y X6: así es la nueva gama media de HONOR que llega a España</a></h4>
+    <a href='https://computerhoy.com/moviles/honor-x8a-x7a-x6-nueva-gama-media-honor-llega-espana-1215502' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/honor-x8a-x7a-x6-nueva-gama-media-honor-llega-espana-2983982.jpg?tf=1200x' alt='HONOR X8a, X7a y X6: así es la nueva gama media de HONOR que llega a España' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/gaming/playstation-5-pro-ps5-slim-fecha-lanzamiento-caracteristicas-novedades-todo-ya-sabemos-1215448'>PlayStation 5 Pro / PS5 Slim: fecha lanzamiento, características, novedades y todo lo que ya sabemos</a></h4>
+    <a href='https://computerhoy.com/gaming/playstation-5-pro-ps5-slim-fecha-lanzamiento-caracteristicas-novedades-todo-ya-sabemos-1215448' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/acabo-escasez-ps5-stock-consola-volvera-normalidad-ano-2429173.jpg?tf=1200x' alt='PlayStation 5 Pro / PS5 Slim: fecha lanzamiento, características, novedades y todo lo que ya sabemos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciencia/estudio-cuestiona-etiqueta-verde-consumo-masivo-hidrogeno-como-combustible-1215408'>Un estudio cuestiona la etiqueta verde del consumo masivo de hidrógeno como combustible</a></h4>
     <a href='https://computerhoy.com/ciencia/estudio-cuestiona-etiqueta-verde-consumo-masivo-hidrogeno-como-combustible-1215408' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/hidrogeno-verde-2881251.jpg?tf=1200x' alt='Un estudio cuestiona la etiqueta verde del consumo masivo de hidrógeno como combustible' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/amazon/como-acceder-funciones-avanzadas-expertos-amazon-fire-tv-1215402'>Cómo acceder a las funciones avanzadas para expertos del Amazon Fire TV</a></h4>
     <a href='https://computerhoy.com/amazon/como-acceder-funciones-avanzadas-expertos-amazon-fire-tv-1215402' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/amazon-fire-tv-stick-4k-max-2495301.jpg?tf=1200x' alt='Cómo acceder a las funciones avanzadas para expertos del Amazon Fire TV' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/gadget-xiaomi-evita-lesiones-musculares-1214764'>Este gadget de Xiaomi evita lesiones musculares y Amazon lo tiene en oferta</a></h4>
-    <a href='https://computerhoy.com/tecnologia/gadget-xiaomi-evita-lesiones-musculares-1214764' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/xiaomi-massage-gun-2982534.jpg?tf=1200x' alt='Este gadget de Xiaomi evita lesiones musculares y Amazon lo tiene en oferta' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/streaming/gloria-arrebata-entrevias-numero-como-serie-habla-no-inglesa-vista-netflix-1215366'>La Gloria arrebata a Entrevías el número uno como la serie de habla no inglesa más vista de Netflix</a></h4>
-    <a href='https://computerhoy.com/streaming/gloria-arrebata-entrevias-numero-como-serie-habla-no-inglesa-vista-netflix-1215366' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/gloria-arrebata-entrevias-numero-como-serie-habla-no-inglesa-vista-netflix-2983736.jpg?tf=1200x' alt='La Gloria arrebata a Entrevías el número uno como la serie de habla no inglesa más vista de Netflix' />
     </a>
 </div>
 
