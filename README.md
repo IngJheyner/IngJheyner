@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/amazon/antenas-parabolicas-internet-satelite-amazon-project-kuiper-1215018'>Amazon revela las antenas parabólicas de su conexión a Internet por satélite, el gran rival de Starlink de Elon Musk</a></h4>
+    <a href='https://computerhoy.com/amazon/antenas-parabolicas-internet-satelite-amazon-project-kuiper-1215018' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/amazon-revela-antenas-parabolicas-internet-satelite-gran-rival-starlink-elon-musk-2983272.jpg?tf=1200x' alt='Amazon revela las antenas parabólicas de su conexión a Internet por satélite, el gran rival de Starlink de Elon Musk' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/iphone-14-pro-apple-descuento-140-euros-1215014'>El móvil más Pro de Apple tiene un descuento de 140 euros, y eso no ocurre todos los días</a></h4>
+    <a href='https://computerhoy.com/apple/iphone-14-pro-apple-descuento-140-euros-1215014' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/analisis-iphone-14-pro-2821749.jpg?tf=1200x' alt='El móvil más Pro de Apple tiene un descuento de 140 euros, y eso no ocurre todos los días' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/streaming/regresa-ted-lasso-temporada-3-ultima-temporada-1215004'>Regresa la única serie de comedia que arrastra grandes audiencias, y puede que sea la última temporada</a></h4>
     <a href='https://computerhoy.com/streaming/regresa-ted-lasso-temporada-3-ultima-temporada-1215004' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/verticalimage1678825678112-2983238.jpg?tf=1200x' alt='Regresa la única serie de comedia que arrastra grandes audiencias, y puede que sea la última temporada' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tutoriales/como-ver-historial-navegacion-modo-incognito-chrome-como-eliminarlo-1214912'>Cómo ver el historial de navegación en modo incógnito de Chrome y cómo eliminarlo</a></h4>
     <a href='https://computerhoy.com/tutoriales/como-ver-historial-navegacion-modo-incognito-chrome-como-eliminarlo-1214912' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/02/inc.jpg?tf=1200x' alt='Cómo ver el historial de navegación en modo incógnito de Chrome y cómo eliminarlo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/mayor-error-todos-cometemos-cuando-vamos-parque-atracciones-1214994'>Este es el mayor error que todos cometemos cuando vamos a un parque de atracciones</a></h4>
-    <a href='https://computerhoy.com/life/mayor-error-todos-cometemos-cuando-vamos-parque-atracciones-1214994' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/parque-atracciones-2983232.jpg?tf=1200x' alt='Este es el mayor error que todos cometemos cuando vamos a un parque de atracciones' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/radio-fm-espana-tiene-cuerda-rato-no-no-te-quedaras-ella-coche-1214918'>La radio FM en España tiene cuerda para rato, y no, no te quedarás sin ella en el coche</a></h4>
-    <a href='https://computerhoy.com/motor/radio-fm-espana-tiene-cuerda-rato-no-no-te-quedaras-ella-coche-1214918' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/radio-coche-2529671.jpg?tf=1200x' alt='La radio FM en España tiene cuerda para rato, y no, no te quedarás sin ella en el coche' />
     </a>
 </div>
 
