@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/mejores/regalos-dia-del-padre-1210134'>Mejores regalos para el Día del Padre</a></h4>
+    <a href='https://computerhoy.com/mejores/regalos-dia-del-padre-1210134' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/padre-sujetando-brazos-bebe-mirando-ventana-2974226.jpg?tf=1200x' alt='Mejores regalos para el Día del Padre' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/iceberg-tamano-guipuzcoa-ha-desprendido-antartida-video-1215230'>Graban en vídeo el inmenso iceberg del tamaño de Guipúzcoa que se ha desprendido en la Antártida</a></h4>
+    <a href='https://computerhoy.com/ciencia/iceberg-tamano-guipuzcoa-ha-desprendido-antartida-video-1215230' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/graban-video-inmenso-iceberg-tamano-guipuzcoa-ha-desprendido-antartida-2983476.jpg?tf=1200x' alt='Graban en vídeo el inmenso iceberg del tamaño de Guipúzcoa que se ha desprendido en la Antártida' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/chatgpt-mundo-educacion-nuevo-superdotado-clase-todos-preguntan-1214020'>ChatGPT y el mundo de la educación: el nuevo superdotado de clase al que todos preguntan</a></h4>
+    <a href='https://computerhoy.com/tecnologia/chatgpt-mundo-educacion-nuevo-superdotado-clase-todos-preguntan-1214020' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/como-revolucionara-chatgpt-mundo-educacion-expertos-2981712.jpg?tf=1200x' alt='ChatGPT y el mundo de la educación: el nuevo superdotado de clase al que todos preguntan' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/amazon/antenas-parabolicas-internet-satelite-amazon-project-kuiper-1215018'>Amazon revela las antenas parabólicas de su conexión a Internet por satélite, el gran rival de Starlink de Elon Musk</a></h4>
     <a href='https://computerhoy.com/amazon/antenas-parabolicas-internet-satelite-amazon-project-kuiper-1215018' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/amazon-revela-antenas-parabolicas-internet-satelite-gran-rival-starlink-elon-musk-2983272.jpg?tf=1200x' alt='Amazon revela las antenas parabólicas de su conexión a Internet por satélite, el gran rival de Starlink de Elon Musk' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/apple/iphone-14-pro-apple-descuento-140-euros-1215014'>El móvil más Pro de Apple tiene un descuento de 140 euros, y eso no ocurre todos los días</a></h4>
     <a href='https://computerhoy.com/apple/iphone-14-pro-apple-descuento-140-euros-1215014' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/analisis-iphone-14-pro-2821749.jpg?tf=1200x' alt='El móvil más Pro de Apple tiene un descuento de 140 euros, y eso no ocurre todos los días' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/streaming/regresa-ted-lasso-temporada-3-ultima-temporada-1215004'>Regresa la única serie de comedia que arrastra grandes audiencias, y puede que sea la última temporada</a></h4>
-    <a href='https://computerhoy.com/streaming/regresa-ted-lasso-temporada-3-ultima-temporada-1215004' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/verticalimage1678825678112-2983238.jpg?tf=1200x' alt='Regresa la única serie de comedia que arrastra grandes audiencias, y puede que sea la última temporada' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/consigue-capturar-video-momento-exacto-meteorito-impacta-luna-1214998'>Consigue capturar en vídeo el momento exacto en el que un meteorito impacta sobre la Luna</a></h4>
-    <a href='https://computerhoy.com/espacio/consigue-capturar-video-momento-exacto-meteorito-impacta-luna-1214998' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/luna-2983236.jpg?tf=1200x' alt='Consigue capturar en vídeo el momento exacto en el que un meteorito impacta sobre la Luna' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-ver-historial-navegacion-modo-incognito-chrome-como-eliminarlo-1214912'>Cómo ver el historial de navegación en modo incógnito de Chrome y cómo eliminarlo</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-ver-historial-navegacion-modo-incognito-chrome-como-eliminarlo-1214912' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/02/inc.jpg?tf=1200x' alt='Cómo ver el historial de navegación en modo incógnito de Chrome y cómo eliminarlo' />
     </a>
 </div>
 
