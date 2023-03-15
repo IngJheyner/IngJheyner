@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/mejores/regalos-dia-del-padre-1210134'>Mejores regalos para el Día del Padre</a></h4>
-    <a href='https://computerhoy.com/mejores/regalos-dia-del-padre-1210134' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/padre-sujetando-brazos-bebe-mirando-ventana-2974226.jpg?tf=1200x' alt='Mejores regalos para el Día del Padre' />
+    <h4><a href='https://computerhoy.com/apple/apple-quiere-llevarse-toda-produccion-chips-3nm-tsmc-1215296'>Apple quiere llevarse toda la producción de los chips a 3nm de TSMC</a></h4>
+    <a href='https://computerhoy.com/apple/apple-quiere-llevarse-toda-produccion-chips-3nm-tsmc-1215296' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/tsmc-2502241.jpg?tf=1200x' alt='Apple quiere llevarse toda la producción de los chips a 3nm de TSMC' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/iceberg-tamano-guipuzcoa-ha-desprendido-antartida-video-1215230'>Graban en vídeo el inmenso iceberg del tamaño de Guipúzcoa que se ha desprendido en la Antártida</a></h4>
-    <a href='https://computerhoy.com/ciencia/iceberg-tamano-guipuzcoa-ha-desprendido-antartida-video-1215230' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/graban-video-inmenso-iceberg-tamano-guipuzcoa-ha-desprendido-antartida-2983476.jpg?tf=1200x' alt='Graban en vídeo el inmenso iceberg del tamaño de Guipúzcoa que se ha desprendido en la Antártida' />
+    <h4><a href='https://computerhoy.com/ciencia/pastilla-detener-varios-tipos-cancer-espanola-ya-realidad-1215282'>La pastilla para detener varios tipos de cáncer es española y ya es una realidad</a></h4>
+    <a href='https://computerhoy.com/ciencia/pastilla-detener-varios-tipos-cancer-espanola-ya-realidad-1215282' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/pastilla-detener-varios-tipos-cancer-espanola-ya-realidad-2983594.jpg?tf=1200x' alt='La pastilla para detener varios tipos de cáncer es española y ya es una realidad' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/chatgpt-mundo-educacion-nuevo-superdotado-clase-todos-preguntan-1214020'>ChatGPT y el mundo de la educación: el nuevo superdotado de clase al que todos preguntan</a></h4>
-    <a href='https://computerhoy.com/tecnologia/chatgpt-mundo-educacion-nuevo-superdotado-clase-todos-preguntan-1214020' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/como-revolucionara-chatgpt-mundo-educacion-expertos-2981712.jpg?tf=1200x' alt='ChatGPT y el mundo de la educación: el nuevo superdotado de clase al que todos preguntan' />
+    <h4><a href='https://computerhoy.com/tecnologia/todo-debes-saber-gpt-4-cuales-son-grandes-diferencias-version-gpt-3-1215266'>Todo lo que debes saber de GPT-4 y cuáles son las grandes diferencias con la versión GPT-3 </a></h4>
+    <a href='https://computerhoy.com/tecnologia/todo-debes-saber-gpt-4-cuales-son-grandes-diferencias-version-gpt-3-1215266' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/todo-debes-saber-gpt-4-cuales-son-grandes-diferencias-version-gpt-3-2983532.jpg?tf=1200x' alt='Todo lo que debes saber de GPT-4 y cuáles son las grandes diferencias con la versión GPT-3 ' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/amazon/antenas-parabolicas-internet-satelite-amazon-project-kuiper-1215018'>Amazon revela las antenas parabólicas de su conexión a Internet por satélite, el gran rival de Starlink de Elon Musk</a></h4>
-    <a href='https://computerhoy.com/amazon/antenas-parabolicas-internet-satelite-amazon-project-kuiper-1215018' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/amazon-revela-antenas-parabolicas-internet-satelite-gran-rival-starlink-elon-musk-2983272.jpg?tf=1200x' alt='Amazon revela las antenas parabólicas de su conexión a Internet por satélite, el gran rival de Starlink de Elon Musk' />
+    <h4><a href='https://computerhoy.com/tecnologia/televisor-qled-samsung-rebaja-200-euros-1214732'>Pásate a un televisor realmente bueno, QLED, de Samsung y ahora casi 200 euros más barato</a></h4>
+    <a href='https://computerhoy.com/tecnologia/televisor-qled-samsung-rebaja-200-euros-1214732' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/11/samsung-qled-2137029.jpg?tf=1200x' alt='Pásate a un televisor realmente bueno, QLED, de Samsung y ahora casi 200 euros más barato' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/iphone-14-pro-apple-descuento-140-euros-1215014'>El móvil más Pro de Apple tiene un descuento de 140 euros, y eso no ocurre todos los días</a></h4>
-    <a href='https://computerhoy.com/apple/iphone-14-pro-apple-descuento-140-euros-1215014' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/analisis-iphone-14-pro-2821749.jpg?tf=1200x' alt='El móvil más Pro de Apple tiene un descuento de 140 euros, y eso no ocurre todos los días' />
+    <h4><a href='https://computerhoy.com/gaming/nuevos-monitores-lg-ultra-oled-presumen-240-hz-input-lag-003-milisegundos-1215292'>Los nuevos monitores LG Ultra OLED presumen de 240 Hz y un input lag de 0,03 milisegundos</a></h4>
+    <a href='https://computerhoy.com/gaming/nuevos-monitores-lg-ultra-oled-presumen-240-hz-input-lag-003-milisegundos-1215292' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/lg-ultra-oled-2983526.jpg?tf=1200x' alt='Los nuevos monitores LG Ultra OLED presumen de 240 Hz y un input lag de 0,03 milisegundos' />
     </a>
 </div>
 
