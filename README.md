@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/audio/motivo-spotify-todavia-no-lanza-audio-hifi-perdida-1215538'>Este es el motivo por el que Spotify todavía no lanza el audio HiFi sin pérdida</a></h4>
-    <a href='https://computerhoy.com/audio/motivo-spotify-todavia-no-lanza-audio-hifi-perdida-1215538' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/spotify-2834811.jpg?tf=1200x' alt='Este es el motivo por el que Spotify todavía no lanza el audio HiFi sin pérdida' />
+    <h4><a href='https://computerhoy.com/ciberseguridad/cerveza-dia-padre-nueva-estafa-circula-whatsapp-1215806'>Cerveza y día del padre, la nueva estafa que circula por WhatsApp</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/cerveza-dia-padre-nueva-estafa-circula-whatsapp-1215806' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/whatsapp-2875967.jpg?tf=1200x' alt='Cerveza y día del padre, la nueva estafa que circula por WhatsApp' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/paso-a-paso/moviles/hacer-captura-pantalla-android-paso-paso-40075'>Hacer captura de pantalla en Android, paso a paso</a></h4>
-    <a href='https://computerhoy.com/paso-a-paso/moviles/hacer-captura-pantalla-android-paso-paso-40075' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/android-2982954.jpg?tf=1200x' alt='Hacer captura de pantalla en Android, paso a paso' />
+    <h4><a href='https://computerhoy.com/life/ves-marca-billete-deberias-rechazarlo-advierte-banco-espana-1215796'>Si ves esta marca en un billete deberías rechazarlo, advierte el Banco de España</a></h4>
+    <a href='https://computerhoy.com/life/ves-marca-billete-deberias-rechazarlo-advierte-banco-espana-1215796' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/billetes-euro-2984442.jpg?tf=1200x' alt='Si ves esta marca en un billete deberías rechazarlo, advierte el Banco de España' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/6-trucos-google-tv-deberias-conocer-1213738'>Los 6 trucos de Google TV que deberías conocer</a></h4>
-    <a href='https://computerhoy.com/tutoriales/6-trucos-google-tv-deberias-conocer-1213738' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/google-tv-2984272.jpg?tf=1200x' alt='Los 6 trucos de Google TV que deberías conocer' />
+    <h4><a href='https://computerhoy.com/entretenimiento/pelicula-blackberry-primer-trailer-1215794'>BlackBerry, primer tráiler de la película que cuenta el triunfo y la caída de la mítica marca de móviles</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/pelicula-blackberry-primer-trailer-1215794' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/verticalimage1678909759231-2984378.jpg?tf=1200x' alt='BlackBerry, primer tráiler de la película que cuenta el triunfo y la caída de la mítica marca de móviles' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/gaming/google-adelanta-pronto-podras-jugar-juegos-android-pc-funcionara-play-games-windows-1215536'>Google adelanta que pronto podrás jugar a juegos Android en PC: así funcionará Play Games para Windows</a></h4>
-    <a href='https://computerhoy.com/gaming/google-adelanta-pronto-podras-jugar-juegos-android-pc-funcionara-play-games-windows-1215536' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/ya-disponible-google-play-games-windows-2644657.jpg?tf=1200x' alt='Google adelanta que pronto podrás jugar a juegos Android en PC: así funcionará Play Games para Windows' />
+    <h4><a href='https://computerhoy.com/tarifas/t-mobile-hara-mint-mobile-empresa-ryan-reynolds-1215792'>T-Mobile se hará con Mint Mobile, empresa de Ryan Reynolds</a></h4>
+    <a href='https://computerhoy.com/tarifas/t-mobile-hara-mint-mobile-empresa-ryan-reynolds-1215792' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/t-mobile-hara-mint-mobile-empresa-ryan-reynolds-2984422.jpg?tf=1200x' alt='T-Mobile se hará con Mint Mobile, empresa de Ryan Reynolds' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/gaming/volantes-carreras-formula-1-pc-consola-ofertas-1214720'>Volantes de carreras como el de Fernando Alonso para PC y consolas</a></h4>
-    <a href='https://computerhoy.com/gaming/volantes-carreras-formula-1-pc-consola-ofertas-1214720' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/coche-formula-1-2982666.jpg?tf=1200x' alt='Volantes de carreras como el de Fernando Alonso para PC y consolas' />
+    <h4><a href='https://computerhoy.com/software/gpt-4-ya-aqui-puedes-probarlo-completamente-gratis-1215774'>GPT-4 ya está aquí y así puedes probarlo completamente gratis</a></h4>
+    <a href='https://computerhoy.com/software/gpt-4-ya-aqui-puedes-probarlo-completamente-gratis-1215774' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/chatbot-bing-2960656.jpg?tf=1200x' alt='GPT-4 ya está aquí y así puedes probarlo completamente gratis' />
     </a>
 </div>
 
