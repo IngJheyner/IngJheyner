@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/honor-x8a-x7a-x6-nueva-gama-media-honor-llega-espana-1215502'>HONOR X8a, X7a y X6: así es la nueva gama media de HONOR que llega a España</a></h4>
-    <a href='https://computerhoy.com/moviles/honor-x8a-x7a-x6-nueva-gama-media-honor-llega-espana-1215502' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/honor-x8a-x7a-x6-nueva-gama-media-honor-llega-espana-2983982.jpg?tf=1200x' alt='HONOR X8a, X7a y X6: así es la nueva gama media de HONOR que llega a España' />
+    <h4><a href='https://computerhoy.com/audio/motivo-spotify-todavia-no-lanza-audio-hifi-perdida-1215538'>Este es el motivo por el que Spotify todavía no lanza el audio HiFi sin pérdida</a></h4>
+    <a href='https://computerhoy.com/audio/motivo-spotify-todavia-no-lanza-audio-hifi-perdida-1215538' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/spotify-2834811.jpg?tf=1200x' alt='Este es el motivo por el que Spotify todavía no lanza el audio HiFi sin pérdida' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/gaming/playstation-5-pro-ps5-slim-fecha-lanzamiento-caracteristicas-novedades-todo-ya-sabemos-1215448'>PlayStation 5 Pro / PS5 Slim: fecha lanzamiento, características, novedades y todo lo que ya sabemos</a></h4>
-    <a href='https://computerhoy.com/gaming/playstation-5-pro-ps5-slim-fecha-lanzamiento-caracteristicas-novedades-todo-ya-sabemos-1215448' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/acabo-escasez-ps5-stock-consola-volvera-normalidad-ano-2429173.jpg?tf=1200x' alt='PlayStation 5 Pro / PS5 Slim: fecha lanzamiento, características, novedades y todo lo que ya sabemos' />
+    <h4><a href='https://computerhoy.com/paso-a-paso/moviles/hacer-captura-pantalla-android-paso-paso-40075'>Hacer captura de pantalla en Android, paso a paso</a></h4>
+    <a href='https://computerhoy.com/paso-a-paso/moviles/hacer-captura-pantalla-android-paso-paso-40075' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/android-2982954.jpg?tf=1200x' alt='Hacer captura de pantalla en Android, paso a paso' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/estudio-cuestiona-etiqueta-verde-consumo-masivo-hidrogeno-como-combustible-1215408'>Un estudio cuestiona la etiqueta verde del consumo masivo de hidrógeno como combustible</a></h4>
-    <a href='https://computerhoy.com/ciencia/estudio-cuestiona-etiqueta-verde-consumo-masivo-hidrogeno-como-combustible-1215408' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/hidrogeno-verde-2881251.jpg?tf=1200x' alt='Un estudio cuestiona la etiqueta verde del consumo masivo de hidrógeno como combustible' />
+    <h4><a href='https://computerhoy.com/tutoriales/6-trucos-google-tv-deberias-conocer-1213738'>Los 6 trucos de Google TV que deberías conocer</a></h4>
+    <a href='https://computerhoy.com/tutoriales/6-trucos-google-tv-deberias-conocer-1213738' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/google-tv-2984272.jpg?tf=1200x' alt='Los 6 trucos de Google TV que deberías conocer' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/diferencias-hay-eau-toilette-eau-parfum-1215384'>Qué diferencias hay entre Eau de Toilette y Eau de Parfum</a></h4>
-    <a href='https://computerhoy.com/life/diferencias-hay-eau-toilette-eau-parfum-1215384' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/diferencias-hay-eau-toilette-eau-parfum-2983768.jpg?tf=1200x' alt='Qué diferencias hay entre Eau de Toilette y Eau de Parfum' />
+    <h4><a href='https://computerhoy.com/gaming/google-adelanta-pronto-podras-jugar-juegos-android-pc-funcionara-play-games-windows-1215536'>Google adelanta que pronto podrás jugar a juegos Android en PC: así funcionará Play Games para Windows</a></h4>
+    <a href='https://computerhoy.com/gaming/google-adelanta-pronto-podras-jugar-juegos-android-pc-funcionara-play-games-windows-1215536' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/ya-disponible-google-play-games-windows-2644657.jpg?tf=1200x' alt='Google adelanta que pronto podrás jugar a juegos Android en PC: así funcionará Play Games para Windows' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/amazon/como-acceder-funciones-avanzadas-expertos-amazon-fire-tv-1215402'>Cómo acceder a las funciones avanzadas para expertos del Amazon Fire TV</a></h4>
-    <a href='https://computerhoy.com/amazon/como-acceder-funciones-avanzadas-expertos-amazon-fire-tv-1215402' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/amazon-fire-tv-stick-4k-max-2495301.jpg?tf=1200x' alt='Cómo acceder a las funciones avanzadas para expertos del Amazon Fire TV' />
+    <h4><a href='https://computerhoy.com/gaming/volantes-carreras-formula-1-pc-consola-ofertas-1214720'>Volantes de carreras como el de Fernando Alonso para PC y consolas</a></h4>
+    <a href='https://computerhoy.com/gaming/volantes-carreras-formula-1-pc-consola-ofertas-1214720' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/coche-formula-1-2982666.jpg?tf=1200x' alt='Volantes de carreras como el de Fernando Alonso para PC y consolas' />
     </a>
 </div>
 
