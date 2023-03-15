@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/apple-quiere-llevarse-toda-produccion-chips-3nm-tsmc-1215296'>Apple quiere llevarse toda la producción de los chips a 3nm de TSMC</a></h4>
-    <a href='https://computerhoy.com/apple/apple-quiere-llevarse-toda-produccion-chips-3nm-tsmc-1215296' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/tsmc-2502241.jpg?tf=1200x' alt='Apple quiere llevarse toda la producción de los chips a 3nm de TSMC' />
+    <h4><a href='https://computerhoy.com/ciencia/estudio-cuestiona-etiqueta-verde-consumo-masivo-hidrogeno-como-combustible-1215408'>Un estudio cuestiona la etiqueta verde del consumo masivo de hidrógeno como combustible</a></h4>
+    <a href='https://computerhoy.com/ciencia/estudio-cuestiona-etiqueta-verde-consumo-masivo-hidrogeno-como-combustible-1215408' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/hidrogeno-verde-2881251.jpg?tf=1200x' alt='Un estudio cuestiona la etiqueta verde del consumo masivo de hidrógeno como combustible' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/pastilla-detener-varios-tipos-cancer-espanola-ya-realidad-1215282'>La pastilla para detener varios tipos de cáncer es española y ya es una realidad</a></h4>
-    <a href='https://computerhoy.com/ciencia/pastilla-detener-varios-tipos-cancer-espanola-ya-realidad-1215282' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/pastilla-detener-varios-tipos-cancer-espanola-ya-realidad-2983594.jpg?tf=1200x' alt='La pastilla para detener varios tipos de cáncer es española y ya es una realidad' />
+    <h4><a href='https://computerhoy.com/life/diferencias-hay-eau-toilette-eau-parfum-1215384'>Qué diferencias hay entre Eau de Toilette y Eau de Parfum</a></h4>
+    <a href='https://computerhoy.com/life/diferencias-hay-eau-toilette-eau-parfum-1215384' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/diferencias-hay-eau-toilette-eau-parfum-2983768.jpg?tf=1200x' alt='Qué diferencias hay entre Eau de Toilette y Eau de Parfum' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/todo-debes-saber-gpt-4-cuales-son-grandes-diferencias-version-gpt-3-1215266'>Todo lo que debes saber de GPT-4 y cuáles son las grandes diferencias con la versión GPT-3 </a></h4>
-    <a href='https://computerhoy.com/tecnologia/todo-debes-saber-gpt-4-cuales-son-grandes-diferencias-version-gpt-3-1215266' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/todo-debes-saber-gpt-4-cuales-son-grandes-diferencias-version-gpt-3-2983532.jpg?tf=1200x' alt='Todo lo que debes saber de GPT-4 y cuáles son las grandes diferencias con la versión GPT-3 ' />
+    <h4><a href='https://computerhoy.com/amazon/como-acceder-funciones-avanzadas-expertos-amazon-fire-tv-1215402'>Cómo acceder a las funciones avanzadas para expertos del Amazon Fire TV</a></h4>
+    <a href='https://computerhoy.com/amazon/como-acceder-funciones-avanzadas-expertos-amazon-fire-tv-1215402' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/amazon-fire-tv-stick-4k-max-2495301.jpg?tf=1200x' alt='Cómo acceder a las funciones avanzadas para expertos del Amazon Fire TV' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/televisor-qled-samsung-rebaja-200-euros-1214732'>Pásate a un televisor realmente bueno, QLED, de Samsung y ahora casi 200 euros más barato</a></h4>
-    <a href='https://computerhoy.com/tecnologia/televisor-qled-samsung-rebaja-200-euros-1214732' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/11/samsung-qled-2137029.jpg?tf=1200x' alt='Pásate a un televisor realmente bueno, QLED, de Samsung y ahora casi 200 euros más barato' />
+    <h4><a href='https://computerhoy.com/tecnologia/gadget-xiaomi-evita-lesiones-musculares-1214764'>Este gadget de Xiaomi evita lesiones musculares y Amazon lo tiene en oferta</a></h4>
+    <a href='https://computerhoy.com/tecnologia/gadget-xiaomi-evita-lesiones-musculares-1214764' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/xiaomi-massage-gun-2982534.jpg?tf=1200x' alt='Este gadget de Xiaomi evita lesiones musculares y Amazon lo tiene en oferta' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/gaming/nuevos-monitores-lg-ultra-oled-presumen-240-hz-input-lag-003-milisegundos-1215292'>Los nuevos monitores LG Ultra OLED presumen de 240 Hz y un input lag de 0,03 milisegundos</a></h4>
-    <a href='https://computerhoy.com/gaming/nuevos-monitores-lg-ultra-oled-presumen-240-hz-input-lag-003-milisegundos-1215292' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/lg-ultra-oled-2983526.jpg?tf=1200x' alt='Los nuevos monitores LG Ultra OLED presumen de 240 Hz y un input lag de 0,03 milisegundos' />
+    <h4><a href='https://computerhoy.com/streaming/gloria-arrebata-entrevias-numero-como-serie-habla-no-inglesa-vista-netflix-1215366'>La Gloria arrebata a Entrevías el número uno como la serie de habla no inglesa más vista de Netflix</a></h4>
+    <a href='https://computerhoy.com/streaming/gloria-arrebata-entrevias-numero-como-serie-habla-no-inglesa-vista-netflix-1215366' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/gloria-arrebata-entrevias-numero-como-serie-habla-no-inglesa-vista-netflix-2983736.jpg?tf=1200x' alt='La Gloria arrebata a Entrevías el número uno como la serie de habla no inglesa más vista de Netflix' />
     </a>
 </div>
 
