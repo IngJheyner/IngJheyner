@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/software/midjourney-v5-ya-aqui-imagenes-doble-resolucion-realistas-menos-errores-1216228'>Midjourney V5 ya está aquí: imágenes con el doble de resolución, más realistas y con menos errores</a></h4>
+    <a href='https://computerhoy.com/software/midjourney-v5-ya-aqui-imagenes-doble-resolucion-realistas-menos-errores-1216228' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/midjourney-v5-ya-aqui-imagenes-doble-resolucion-realistas-menos-errores-2985226.jpg?tf=1200x' alt='Midjourney V5 ya está aquí: imágenes con el doble de resolución, más realistas y con menos errores' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/hace-boton-wps-router-descubre-funcion-como-usarlo-1216262'>¿Qué hace el botón WPS de tu router? Descubre su función y cómo usarlo</a></h4>
+    <a href='https://computerhoy.com/tutoriales/hace-boton-wps-router-descubre-funcion-como-usarlo-1216262' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/router-wifi-2985284.jpg?tf=1200x' alt='¿Qué hace el botón WPS de tu router? Descubre su función y cómo usarlo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/whatsapp-apuesta-inteligencia-pronto-podras-copiar-texto-fotos-1216226'>WhatsApp apuesta por la inteligencia: pronto podrás copiar texto desde fotos</a></h4>
+    <a href='https://computerhoy.com/apps/whatsapp-apuesta-inteligencia-pronto-podras-copiar-texto-fotos-1216226' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/whatsapp-te-permitira-enviar-fotos-alta-calidad-2954084.jpg?tf=1200x' alt='WhatsApp apuesta por la inteligencia: pronto podrás copiar texto desde fotos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/tdtchannels-mejor-app-ver-tdt-gratis-movil-actualiza-nuevos-canales-1216204'>TDTChannels, la mejor app para ver la TDT gratis con el móvil se actualiza con nuevos canales</a></h4>
+    <a href='https://computerhoy.com/apps/tdtchannels-mejor-app-ver-tdt-gratis-movil-actualiza-nuevos-canales-1216204' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/tdt-channels-player-2927142.jpg?tf=1200x' alt='TDTChannels, la mejor app para ver la TDT gratis con el móvil se actualiza con nuevos canales' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/amazon/amazon-podria-rebajar-precio-cientos-productos-abril-gracias-importante-cambio-1216156'>Amazon podría rebajar de precio cientos de productos en abril gracias a este importante cambio</a></h4>
     <a href='https://computerhoy.com/amazon/amazon-podria-rebajar-precio-cientos-productos-abril-gracias-importante-cambio-1216156' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/cajas-carton-amazon-2835827.jpg?tf=1200x' alt='Amazon podría rebajar de precio cientos de productos en abril gracias a este importante cambio' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/nasa-detecta-volcan-activo-venus-gracias-datos-hace-30-anos-1216100'>La NASA detecta un volcán activo en Venus gracias a datos de hace más de 30 años</a></h4>
-    <a href='https://computerhoy.com/espacio/nasa-detecta-volcan-activo-venus-gracias-datos-hace-30-anos-1216100' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/nasa-detecta-volcan-activo-venus-gracias-datos-hace-30-anos-2984874.jpg?tf=1200x' alt='La NASA detecta un volcán activo en Venus gracias a datos de hace más de 30 años' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/10-cosas-muy-molestas-netflix-afortunadamente-tienen-solucion-1216102'>10 cosas muy molestas de Netflix que afortunadamente tienen solución</a></h4>
-    <a href='https://computerhoy.com/10-cosas-muy-molestas-netflix-afortunadamente-tienen-solucion-1216102' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/netflix-2863731.jpg?tf=1200x' alt='10 cosas muy molestas de Netflix que afortunadamente tienen solución' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/amazfit-smart-scale-bascula-inteligente-barata-oferta-1214856'>Una de las básculas inteligentes más completas del mercado es 20 euros más barata en esta oferta</a></h4>
-    <a href='https://computerhoy.com/tecnologia/amazfit-smart-scale-bascula-inteligente-barata-oferta-1214856' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/amazfit-smart-scale-2667247.jpg?tf=1200x' alt='Una de las básculas inteligentes más completas del mercado es 20 euros más barata en esta oferta' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/ernie-bot-chatbot-chino-competencia-chatgpt-fracasa-primera-demostracion-1216086'>Ernie Bot, el chatbot chino competencia de ChatGPT, fracasa en su primera demostración</a></h4>
-    <a href='https://computerhoy.com/tecnologia/ernie-bot-chatbot-chino-competencia-chatgpt-fracasa-primera-demostracion-1216086' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/ernie-bot-2984916.jpg?tf=1200x' alt='Ernie Bot, el chatbot chino competencia de ChatGPT, fracasa en su primera demostración' />
     </a>
 </div>
 
