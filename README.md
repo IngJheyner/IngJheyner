@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tv/android-tv-box-oferta-42-euros-1215816'>Dale nueva vida a tu viejo televisor con esta Android TV Box que baja a 42 euros</a></h4>
+    <a href='https://computerhoy.com/tv/android-tv-box-oferta-42-euros-1215816' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/dale-nueva-vida-viejo-televisor-android-tv-box-baja-42-euros-2984462.jpg?tf=1200x' alt='Dale nueva vida a tu viejo televisor con esta Android TV Box que baja a 42 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciberseguridad/cerveza-dia-padre-nueva-estafa-circula-whatsapp-1215806'>Cerveza y día del padre, la nueva estafa que circula por WhatsApp</a></h4>
     <a href='https://computerhoy.com/ciberseguridad/cerveza-dia-padre-nueva-estafa-circula-whatsapp-1215806' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/whatsapp-2875967.jpg?tf=1200x' alt='Cerveza y día del padre, la nueva estafa que circula por WhatsApp' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tarifas/t-mobile-hara-mint-mobile-empresa-ryan-reynolds-1215792'>T-Mobile se hará con Mint Mobile, empresa de Ryan Reynolds</a></h4>
     <a href='https://computerhoy.com/tarifas/t-mobile-hara-mint-mobile-empresa-ryan-reynolds-1215792' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/t-mobile-hara-mint-mobile-empresa-ryan-reynolds-2984422.jpg?tf=1200x' alt='T-Mobile se hará con Mint Mobile, empresa de Ryan Reynolds' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/software/gpt-4-ya-aqui-puedes-probarlo-completamente-gratis-1215774'>GPT-4 ya está aquí y así puedes probarlo completamente gratis</a></h4>
-    <a href='https://computerhoy.com/software/gpt-4-ya-aqui-puedes-probarlo-completamente-gratis-1215774' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/chatbot-bing-2960656.jpg?tf=1200x' alt='GPT-4 ya está aquí y así puedes probarlo completamente gratis' />
     </a>
 </div>
 
