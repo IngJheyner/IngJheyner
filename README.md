@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/tcl-c935-65-mini-led-tcl-mide-mejores-1214620'>TCL c935 de 65": el Mini LED de TCL que se mide con los mejores</a></h4>
-    <a href='https://computerhoy.com/analisis/tcl-c935-65-mini-led-tcl-mide-mejores-1214620' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/tcl-c935-analisis-opinion-2982350.jpg?tf=1200x' alt='TCL c935 de 65": el Mini LED de TCL que se mide con los mejores' />
+    <h4><a href='https://computerhoy.com/motor/puede-parecer-coche-electrico-pero-tan-revolucionario-como-tesla-1216042'>Puede parecer un coche eléctrico más, pero es tan revolucionario como un Tesla</a></h4>
+    <a href='https://computerhoy.com/motor/puede-parecer-coche-electrico-pero-tan-revolucionario-como-tesla-1216042' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/hua-xianzi-nuevo-coche-electrico-2984726.jpg?tf=1200x' alt='Puede parecer un coche eléctrico más, pero es tan revolucionario como un Tesla' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/guia-compra/ventilador-de-techo-885755'>Ventiladores de techo en 2023: características, funciones, instalación y todo lo que debes saber antes de comprar</a></h4>
-    <a href='https://computerhoy.com/guia-compra/ventilador-de-techo-885755' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/dormitorio-ventilador-techo-2983788.jpg?tf=1200x' alt='Ventiladores de techo en 2023: características, funciones, instalación y todo lo que debes saber antes de comprar' />
+    <h4><a href='https://computerhoy.com/tecnologia/riesgos-gpt-4-cuando-ia-empieza-ser-demasiado-inteligente-1216028'>Los riesgos de GPT-4 o cuando una IA empieza a ser demasiado inteligente</a></h4>
+    <a href='https://computerhoy.com/tecnologia/riesgos-gpt-4-cuando-ia-empieza-ser-demasiado-inteligente-1216028' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/riesgos-gpt-4-cuando-ia-empieza-ser-demasiado-inteligente-2984734.jpg?tf=1200x' alt='Los riesgos de GPT-4 o cuando una IA empieza a ser demasiado inteligente' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/tarjeta-apex-storage-21-ssd-almacenamiento-168-tb-1215986'>Esta tarjeta de PC con 21 SSD, ofrece una capacidad de almacenamiento de 168 TB</a></h4>
-    <a href='https://computerhoy.com/pc/tarjeta-apex-storage-21-ssd-almacenamiento-168-tb-1215986' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/tarjeta-pc-21-ssd-ofrece-capacidad-almacenamiento-168-tb-2984624.jpg?tf=1200x' alt='Esta tarjeta de PC con 21 SSD, ofrece una capacidad de almacenamiento de 168 TB' />
+    <h4><a href='https://computerhoy.com/tecnologia/xiaomi-redmi-buds-3-rebaja-amazon-1214828'>Los AirPods de Xiaomi se parecen a los de Apple (por fuera) pero son sorprendentemente baratos incluso para ser de Xiaomi</a></h4>
+    <a href='https://computerhoy.com/tecnologia/xiaomi-redmi-buds-3-rebaja-amazon-1214828' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/xiaomi-redmi-buds-3-2982696.jpg?tf=1200x' alt='Los AirPods de Xiaomi se parecen a los de Apple (por fuera) pero son sorprendentemente baratos incluso para ser de Xiaomi' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/hogar/poplight-lampara-pared-quita-pon-video-1215984'>Poplight, la lámpara de pared de quita y pon (vídeo)</a></h4>
-    <a href='https://computerhoy.com/hogar/poplight-lampara-pared-quita-pon-video-1215984' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/verticalimage1678931057401-2984622.jpg?tf=1200x' alt='Poplight, la lámpara de pared de quita y pon (vídeo)' />
+    <h4><a href='https://computerhoy.com/alimentacion/espana-cuela-ranking-peores-cervezas-mundo-sera-estas-pensado-1216012'>España se cuela en el ranking de peores cervezas del mundo: ¿será la que estás pensado?</a></h4>
+    <a href='https://computerhoy.com/alimentacion/espana-cuela-ranking-peores-cervezas-mundo-sera-estas-pensado-1216012' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/cerveza-cruzcampo-2984732.jpg?tf=1200x' alt='España se cuela en el ranking de peores cervezas del mundo: ¿será la que estás pensado?' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/trajes-astronauta-aterrizar-luna-nasa-1215818'>La NASA presenta los trajes de astronauta para aterrizar en la Luna, y son demasiado... ¿oscuros?</a></h4>
-    <a href='https://computerhoy.com/espacio/trajes-astronauta-aterrizar-luna-nasa-1215818' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/nasa-presenta-trajes-astronauta-aterrizar-luna-son-demasiado-oscuros-2984466.jpg?tf=1200x' alt='La NASA presenta los trajes de astronauta para aterrizar en la Luna, y son demasiado... ¿oscuros?' />
+    <h4><a href='https://computerhoy.com/espacio/james-webb-captura-ultimos-momentos-estrella-antes-ser-supernova-1216016'>James Webb captura los últimos momentos de una estrella antes de ser supernova</a></h4>
+    <a href='https://computerhoy.com/espacio/james-webb-captura-ultimos-momentos-estrella-antes-ser-supernova-1216016' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/james-webb-captura-ultimos-momentos-estrella-antes-ser-supernova-2984696.jpg?tf=1200x' alt='James Webb captura los últimos momentos de una estrella antes de ser supernova' />
     </a>
 </div>
 
