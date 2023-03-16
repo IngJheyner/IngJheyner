@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/hogar/poplight-lampara-pared-quita-pon-video-1215984'>Poplight, la lámpara de pared de quita y pon (vídeo)</a></h4>
+    <a href='https://computerhoy.com/hogar/poplight-lampara-pared-quita-pon-video-1215984' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/verticalimage1678931057401-2984622.jpg?tf=1200x' alt='Poplight, la lámpara de pared de quita y pon (vídeo)' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/espacio/trajes-astronauta-aterrizar-luna-nasa-1215818'>La NASA presenta los trajes de astronauta para aterrizar en la Luna, y son demasiado... ¿oscuros?</a></h4>
+    <a href='https://computerhoy.com/espacio/trajes-astronauta-aterrizar-luna-nasa-1215818' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/nasa-presenta-trajes-astronauta-aterrizar-luna-son-demasiado-oscuros-2984466.jpg?tf=1200x' alt='La NASA presenta los trajes de astronauta para aterrizar en la Luna, y son demasiado... ¿oscuros?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tv/android-tv-box-oferta-42-euros-1215816'>Dale nueva vida a tu viejo televisor con esta Android TV Box que baja a 42 euros</a></h4>
     <a href='https://computerhoy.com/tv/android-tv-box-oferta-42-euros-1215816' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/dale-nueva-vida-viejo-televisor-android-tv-box-baja-42-euros-2984462.jpg?tf=1200x' alt='Dale nueva vida a tu viejo televisor con esta Android TV Box que baja a 42 euros' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/life/ves-marca-billete-deberias-rechazarlo-advierte-banco-espana-1215796'>Si ves esta marca en un billete deberías rechazarlo, advierte el Banco de España</a></h4>
     <a href='https://computerhoy.com/life/ves-marca-billete-deberias-rechazarlo-advierte-banco-espana-1215796' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/billetes-euro-2984442.jpg?tf=1200x' alt='Si ves esta marca en un billete deberías rechazarlo, advierte el Banco de España' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/pelicula-blackberry-primer-trailer-1215794'>BlackBerry, primer tráiler de la película que cuenta el triunfo y la caída de la mítica marca de móviles</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/pelicula-blackberry-primer-trailer-1215794' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/verticalimage1678909759231-2984378.jpg?tf=1200x' alt='BlackBerry, primer tráiler de la película que cuenta el triunfo y la caída de la mítica marca de móviles' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tarifas/t-mobile-hara-mint-mobile-empresa-ryan-reynolds-1215792'>T-Mobile se hará con Mint Mobile, empresa de Ryan Reynolds</a></h4>
-    <a href='https://computerhoy.com/tarifas/t-mobile-hara-mint-mobile-empresa-ryan-reynolds-1215792' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/t-mobile-hara-mint-mobile-empresa-ryan-reynolds-2984422.jpg?tf=1200x' alt='T-Mobile se hará con Mint Mobile, empresa de Ryan Reynolds' />
     </a>
 </div>
 
