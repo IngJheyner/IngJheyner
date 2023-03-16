@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/lidl-lleva-todos-supermercados-bolsa-antidesperdicio-verduras-frutas-solo-3-euros-1216290'>Lidl lleva a todos sus supermercados la bolsa antidesperdicio de verduras y frutas por solo 3 euros</a></h4>
+    <a href='https://computerhoy.com/life/lidl-lleva-todos-supermercados-bolsa-antidesperdicio-verduras-frutas-solo-3-euros-1216290' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/lidl-lleva-todos-supermercados-bolsa-antidesperdicio-verduras-frutas-solo-3-euros-2985344.jpg?tf=1200x' alt='Lidl lleva a todos sus supermercados la bolsa antidesperdicio de verduras y frutas por solo 3 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/hardware/ruidos-extranos-pc-como-identificar-fallo-42651'>Ruidos extraños en el PC: ¿cómo identificar el fallo?</a></h4>
+    <a href='https://computerhoy.com/noticias/hardware/ruidos-extranos-pc-como-identificar-fallo-42651' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/diagnosticar-problemas-ordenador-2982960.jpg?tf=1200x' alt='Ruidos extraños en el PC: ¿cómo identificar el fallo?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/software/microsoft-copilot-oficial-podras-escribir-documentos-enteros-word-frase-1216298'>Microsoft Copilot es oficial: podrás escribir documentos enteros de Word con una frase</a></h4>
+    <a href='https://computerhoy.com/software/microsoft-copilot-oficial-podras-escribir-documentos-enteros-word-frase-1216298' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/microsoft-copilot-oficial-podras-escribir-documentos-enteros-word-frase-2985386.jpg?tf=1200x' alt='Microsoft Copilot es oficial: podrás escribir documentos enteros de Word con una frase' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/productos-xiaomi-china-comprar-espana-1215436'>6 productos de Xiaomi que quizá no sabías que puedes comprar en España</a></h4>
+    <a href='https://computerhoy.com/tecnologia/productos-xiaomi-china-comprar-espana-1215436' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/tienda-xiaomi-taipei-taiwan-2984246.jpg?tf=1200x' alt='6 productos de Xiaomi que quizá no sabías que puedes comprar en España' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/software/midjourney-v5-ya-aqui-imagenes-doble-resolucion-realistas-menos-errores-1216228'>Midjourney V5 ya está aquí: imágenes con el doble de resolución, más realistas y con menos errores</a></h4>
     <a href='https://computerhoy.com/software/midjourney-v5-ya-aqui-imagenes-doble-resolucion-realistas-menos-errores-1216228' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/midjourney-v5-ya-aqui-imagenes-doble-resolucion-realistas-menos-errores-2985226.jpg?tf=1200x' alt='Midjourney V5 ya está aquí: imágenes con el doble de resolución, más realistas y con menos errores' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/hace-boton-wps-router-descubre-funcion-como-usarlo-1216262'>¿Qué hace el botón WPS de tu router? Descubre su función y cómo usarlo</a></h4>
-    <a href='https://computerhoy.com/tutoriales/hace-boton-wps-router-descubre-funcion-como-usarlo-1216262' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/router-wifi-2985284.jpg?tf=1200x' alt='¿Qué hace el botón WPS de tu router? Descubre su función y cómo usarlo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/whatsapp-apuesta-inteligencia-pronto-podras-copiar-texto-fotos-1216226'>WhatsApp apuesta por la inteligencia: pronto podrás copiar texto desde fotos</a></h4>
-    <a href='https://computerhoy.com/apps/whatsapp-apuesta-inteligencia-pronto-podras-copiar-texto-fotos-1216226' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/whatsapp-te-permitira-enviar-fotos-alta-calidad-2954084.jpg?tf=1200x' alt='WhatsApp apuesta por la inteligencia: pronto podrás copiar texto desde fotos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/tdtchannels-mejor-app-ver-tdt-gratis-movil-actualiza-nuevos-canales-1216204'>TDTChannels, la mejor app para ver la TDT gratis con el móvil se actualiza con nuevos canales</a></h4>
-    <a href='https://computerhoy.com/apps/tdtchannels-mejor-app-ver-tdt-gratis-movil-actualiza-nuevos-canales-1216204' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/tdt-channels-player-2927142.jpg?tf=1200x' alt='TDTChannels, la mejor app para ver la TDT gratis con el móvil se actualiza con nuevos canales' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/amazon/amazon-podria-rebajar-precio-cientos-productos-abril-gracias-importante-cambio-1216156'>Amazon podría rebajar de precio cientos de productos en abril gracias a este importante cambio</a></h4>
-    <a href='https://computerhoy.com/amazon/amazon-podria-rebajar-precio-cientos-productos-abril-gracias-importante-cambio-1216156' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/cajas-carton-amazon-2835827.jpg?tf=1200x' alt='Amazon podría rebajar de precio cientos de productos en abril gracias a este importante cambio' />
     </a>
 </div>
 
