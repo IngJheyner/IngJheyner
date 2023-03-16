@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/ernie-bot-chatbot-chino-competencia-chatgpt-fracasa-primera-demostracion-1216086'>Ernie Bot, el chatbot chino competencia de ChatGPT, fracasa en su primera demostración</a></h4>
+    <a href='https://computerhoy.com/tecnologia/ernie-bot-chatbot-chino-competencia-chatgpt-fracasa-primera-demostracion-1216086' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/ernie-bot-2984916.jpg?tf=1200x' alt='Ernie Bot, el chatbot chino competencia de ChatGPT, fracasa en su primera demostración' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-nos-enganan-5g-1215732'>Cómo nos engañan con el 5G</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-nos-enganan-5g-1215732' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/redes-5g-2984776.jpg?tf=1200x' alt='Cómo nos engañan con el 5G' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/moviles/huawei-cerca-hacer-historia-lanzando-primer-telefono-plegable-conectividad-satelite-1216074'>Huawei cerca de hacer historia lanzando el primer teléfono plegable con conectividad por satélite</a></h4>
+    <a href='https://computerhoy.com/moviles/huawei-cerca-hacer-historia-lanzando-primer-telefono-plegable-conectividad-satelite-1216074' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/huawei-mate-x3-2984804.jpg?tf=1200x' alt='Huawei cerca de hacer historia lanzando el primer teléfono plegable con conectividad por satélite' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/motor/puede-parecer-coche-electrico-pero-tan-revolucionario-como-tesla-1216042'>Puede parecer un coche eléctrico más, pero es tan revolucionario como un Tesla</a></h4>
     <a href='https://computerhoy.com/motor/puede-parecer-coche-electrico-pero-tan-revolucionario-como-tesla-1216042' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/hua-xianzi-nuevo-coche-electrico-2984726.jpg?tf=1200x' alt='Puede parecer un coche eléctrico más, pero es tan revolucionario como un Tesla' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/riesgos-gpt-4-cuando-ia-empieza-ser-demasiado-inteligente-1216028'>Los riesgos de GPT-4 o cuando una IA empieza a ser demasiado inteligente</a></h4>
     <a href='https://computerhoy.com/tecnologia/riesgos-gpt-4-cuando-ia-empieza-ser-demasiado-inteligente-1216028' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/riesgos-gpt-4-cuando-ia-empieza-ser-demasiado-inteligente-2984734.jpg?tf=1200x' alt='Los riesgos de GPT-4 o cuando una IA empieza a ser demasiado inteligente' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/xiaomi-redmi-buds-3-rebaja-amazon-1214828'>Los AirPods de Xiaomi se parecen a los de Apple (por fuera) pero son sorprendentemente baratos incluso para ser de Xiaomi</a></h4>
-    <a href='https://computerhoy.com/tecnologia/xiaomi-redmi-buds-3-rebaja-amazon-1214828' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/xiaomi-redmi-buds-3-2982696.jpg?tf=1200x' alt='Los AirPods de Xiaomi se parecen a los de Apple (por fuera) pero son sorprendentemente baratos incluso para ser de Xiaomi' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/alimentacion/espana-cuela-ranking-peores-cervezas-mundo-sera-estas-pensado-1216012'>España se cuela en el ranking de peores cervezas del mundo: ¿será la que estás pensado?</a></h4>
-    <a href='https://computerhoy.com/alimentacion/espana-cuela-ranking-peores-cervezas-mundo-sera-estas-pensado-1216012' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/cerveza-cruzcampo-2984732.jpg?tf=1200x' alt='España se cuela en el ranking de peores cervezas del mundo: ¿será la que estás pensado?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/james-webb-captura-ultimos-momentos-estrella-antes-ser-supernova-1216016'>James Webb captura los últimos momentos de una estrella antes de ser supernova</a></h4>
-    <a href='https://computerhoy.com/espacio/james-webb-captura-ultimos-momentos-estrella-antes-ser-supernova-1216016' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/james-webb-captura-ultimos-momentos-estrella-antes-ser-supernova-2984696.jpg?tf=1200x' alt='James Webb captura los últimos momentos de una estrella antes de ser supernova' />
     </a>
 </div>
 
