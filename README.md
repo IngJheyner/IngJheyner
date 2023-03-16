@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/analisis/tcl-c935-65-mini-led-tcl-mide-mejores-1214620'>TCL c935 de 65": el Mini LED de TCL que se mide con los mejores</a></h4>
+    <a href='https://computerhoy.com/analisis/tcl-c935-65-mini-led-tcl-mide-mejores-1214620' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/tcl-c935-analisis-opinion-2982350.jpg?tf=1200x' alt='TCL c935 de 65": el Mini LED de TCL que se mide con los mejores' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/guia-compra/ventilador-de-techo-885755'>Ventiladores de techo en 2023: características, funciones, instalación y todo lo que debes saber antes de comprar</a></h4>
+    <a href='https://computerhoy.com/guia-compra/ventilador-de-techo-885755' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/dormitorio-ventilador-techo-2983788.jpg?tf=1200x' alt='Ventiladores de techo en 2023: características, funciones, instalación y todo lo que debes saber antes de comprar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/pc/tarjeta-apex-storage-21-ssd-almacenamiento-168-tb-1215986'>Esta tarjeta de PC con 21 SSD, ofrece una capacidad de almacenamiento de 168 TB</a></h4>
+    <a href='https://computerhoy.com/pc/tarjeta-apex-storage-21-ssd-almacenamiento-168-tb-1215986' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/tarjeta-pc-21-ssd-ofrece-capacidad-almacenamiento-168-tb-2984624.jpg?tf=1200x' alt='Esta tarjeta de PC con 21 SSD, ofrece una capacidad de almacenamiento de 168 TB' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/hogar/poplight-lampara-pared-quita-pon-video-1215984'>Poplight, la lámpara de pared de quita y pon (vídeo)</a></h4>
     <a href='https://computerhoy.com/hogar/poplight-lampara-pared-quita-pon-video-1215984' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/verticalimage1678931057401-2984622.jpg?tf=1200x' alt='Poplight, la lámpara de pared de quita y pon (vídeo)' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/espacio/trajes-astronauta-aterrizar-luna-nasa-1215818'>La NASA presenta los trajes de astronauta para aterrizar en la Luna, y son demasiado... ¿oscuros?</a></h4>
     <a href='https://computerhoy.com/espacio/trajes-astronauta-aterrizar-luna-nasa-1215818' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/nasa-presenta-trajes-astronauta-aterrizar-luna-son-demasiado-oscuros-2984466.jpg?tf=1200x' alt='La NASA presenta los trajes de astronauta para aterrizar en la Luna, y son demasiado... ¿oscuros?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tv/android-tv-box-oferta-42-euros-1215816'>Dale nueva vida a tu viejo televisor con esta Android TV Box que baja a 42 euros</a></h4>
-    <a href='https://computerhoy.com/tv/android-tv-box-oferta-42-euros-1215816' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/dale-nueva-vida-viejo-televisor-android-tv-box-baja-42-euros-2984462.jpg?tf=1200x' alt='Dale nueva vida a tu viejo televisor con esta Android TV Box que baja a 42 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/cerveza-dia-padre-nueva-estafa-circula-whatsapp-1215806'>Cerveza y día del padre, la nueva estafa que circula por WhatsApp</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/cerveza-dia-padre-nueva-estafa-circula-whatsapp-1215806' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/whatsapp-2875967.jpg?tf=1200x' alt='Cerveza y día del padre, la nueva estafa que circula por WhatsApp' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/ves-marca-billete-deberias-rechazarlo-advierte-banco-espana-1215796'>Si ves esta marca en un billete deberías rechazarlo, advierte el Banco de España</a></h4>
-    <a href='https://computerhoy.com/life/ves-marca-billete-deberias-rechazarlo-advierte-banco-espana-1215796' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/billetes-euro-2984442.jpg?tf=1200x' alt='Si ves esta marca en un billete deberías rechazarlo, advierte el Banco de España' />
     </a>
 </div>
 
