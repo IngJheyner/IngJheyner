@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/streaming/netflix-fin-acuerdo-microsoft-publicidad-plan-anuncios-1216366'>Netflix quiere romper cadenas con Microsoft</a></h4>
+    <a href='https://computerhoy.com/streaming/netflix-fin-acuerdo-microsoft-publicidad-plan-anuncios-1216366' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/netflix-quiere-romper-cadenas-microsoft-2985478.jpg?tf=1200x' alt='Netflix quiere romper cadenas con Microsoft' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/windows/funcion-windows-10-11-podria-estar-lastrando-rendimiento-pc-jugar-1216352'>Esta función de Windows 10 y 11 podría estar lastrando el rendimiento de tu PC al jugar</a></h4>
+    <a href='https://computerhoy.com/windows/funcion-windows-10-11-podria-estar-lastrando-rendimiento-pc-jugar-1216352' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/jugando-ordenador-2985486.jpg?tf=1200x' alt='Esta función de Windows 10 y 11 podría estar lastrando el rendimiento de tu PC al jugar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tv/televisor-oled-48-pulgadas-philips-ambilight-oferta-1216334'>Este televisor OLED de 48 pulgadas de Philips con Ambilight es tuyo por menos de 1.000 euros</a></h4>
+    <a href='https://computerhoy.com/tv/televisor-oled-48-pulgadas-philips-ambilight-oferta-1216334' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/televisor-oled-48-pulgadas-philips-ambilight-menos-1000-euros-2985402.jpg?tf=1200x' alt='Este televisor OLED de 48 pulgadas de Philips con Ambilight es tuyo por menos de 1.000 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/chatgpt-tambien-dejara-trabajo-alexa-siri-google-assistant-1216350'>ChatGPT también dejará sin trabajo a Alexa, Siri o Google Assistant</a></h4>
+    <a href='https://computerhoy.com/apps/chatgpt-tambien-dejara-trabajo-alexa-siri-google-assistant-1216350' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/chatgpt-2985480.jpg?tf=1200x' alt='ChatGPT también dejará sin trabajo a Alexa, Siri o Google Assistant' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/lidl-lleva-todos-supermercados-bolsa-antidesperdicio-verduras-frutas-solo-3-euros-1216290'>Lidl lleva a todos sus supermercados la bolsa antidesperdicio de verduras y frutas por solo 3 euros</a></h4>
     <a href='https://computerhoy.com/life/lidl-lleva-todos-supermercados-bolsa-antidesperdicio-verduras-frutas-solo-3-euros-1216290' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/lidl-lleva-todos-supermercados-bolsa-antidesperdicio-verduras-frutas-solo-3-euros-2985344.jpg?tf=1200x' alt='Lidl lleva a todos sus supermercados la bolsa antidesperdicio de verduras y frutas por solo 3 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/hardware/ruidos-extranos-pc-como-identificar-fallo-42651'>Ruidos extraños en el PC: ¿cómo identificar el fallo?</a></h4>
-    <a href='https://computerhoy.com/noticias/hardware/ruidos-extranos-pc-como-identificar-fallo-42651' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/diagnosticar-problemas-ordenador-2982960.jpg?tf=1200x' alt='Ruidos extraños en el PC: ¿cómo identificar el fallo?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/software/microsoft-copilot-oficial-podras-escribir-documentos-enteros-word-frase-1216298'>Microsoft Copilot es oficial: podrás escribir documentos enteros de Word con una frase</a></h4>
-    <a href='https://computerhoy.com/software/microsoft-copilot-oficial-podras-escribir-documentos-enteros-word-frase-1216298' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/microsoft-copilot-oficial-podras-escribir-documentos-enteros-word-frase-2985386.jpg?tf=1200x' alt='Microsoft Copilot es oficial: podrás escribir documentos enteros de Word con una frase' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/productos-xiaomi-china-comprar-espana-1215436'>6 productos de Xiaomi que quizá no sabías que puedes comprar en España</a></h4>
-    <a href='https://computerhoy.com/tecnologia/productos-xiaomi-china-comprar-espana-1215436' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/tienda-xiaomi-taipei-taiwan-2984246.jpg?tf=1200x' alt='6 productos de Xiaomi que quizá no sabías que puedes comprar en España' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/software/midjourney-v5-ya-aqui-imagenes-doble-resolucion-realistas-menos-errores-1216228'>Midjourney V5 ya está aquí: imágenes con el doble de resolución, más realistas y con menos errores</a></h4>
-    <a href='https://computerhoy.com/software/midjourney-v5-ya-aqui-imagenes-doble-resolucion-realistas-menos-errores-1216228' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/midjourney-v5-ya-aqui-imagenes-doble-resolucion-realistas-menos-errores-2985226.jpg?tf=1200x' alt='Midjourney V5 ya está aquí: imágenes con el doble de resolución, más realistas y con menos errores' />
     </a>
 </div>
 
