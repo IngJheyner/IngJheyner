@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/streaming/peliculas-ver-fin-semana-netflix-movistar-plus-disney-dune-asesino-mujeres-lucha-fraternal-1216634'>Qué películas ver este fin de semana en Netflix, Movistar Plus+ y Disney+: Dune, un asesino de mujeres y una lucha fraternal</a></h4>
-    <a href='https://computerhoy.com/streaming/peliculas-ver-fin-semana-netflix-movistar-plus-disney-dune-asesino-mujeres-lucha-fraternal-1216634' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/peliculas-ver-fin-semana-netflix-movistar-plus-disney-dune-asesino-mujeres-lucha-fraternal-2986402.jpg?tf=1200x' alt='Qué películas ver este fin de semana en Netflix, Movistar Plus+ y Disney+: Dune, un asesino de mujeres y una lucha fraternal' />
+    <h4><a href='https://computerhoy.com/software/ultima-actualizacion-windows-11-autentico-desastre-llena-pc-errores-1216878'>La última actualización de Windows 11 es un auténtico desastre y llena tu PC de errores</a></h4>
+    <a href='https://computerhoy.com/software/ultima-actualizacion-windows-11-autentico-desastre-llena-pc-errores-1216878' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/windows-11-2954544.jpg?tf=1200x' alt='La última actualización de Windows 11 es un auténtico desastre y llena tu PC de errores' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/entrecerrar-ojos-ayuda-veamos-mejor-1216848'>¿Por qué entrecerrar los ojos ayuda a que veamos mejor?</a></h4>
-    <a href='https://computerhoy.com/ciencia/entrecerrar-ojos-ayuda-veamos-mejor-1216848' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/01/ojos-gafas-fatiga-2211881.jpg?tf=1200x' alt='¿Por qué entrecerrar los ojos ayuda a que veamos mejor?' />
+    <h4><a href='https://computerhoy.com/apple/como-ver-gratis-apple-tv-durante-3-meses-amazon-fire-tv-dispositivo-android-tv-1216876'>Cómo ver gratis Apple TV+ durante 3 meses en tu Amazon Fire TV o dispositivo con Android TV</a></h4>
+    <a href='https://computerhoy.com/apple/como-ver-gratis-apple-tv-durante-3-meses-amazon-fire-tv-dispositivo-android-tv-1216876' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/apple-tv-2579365.jpg?tf=1200x' alt='Cómo ver gratis Apple TV+ durante 3 meses en tu Amazon Fire TV o dispositivo con Android TV' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/lista-iptv-ver-gratis-7500-canales-vuelve-estar-disponible-1216750'>La lista IPTV para ver gratis más de 7.500 canales vuelve a estar disponible</a></h4>
-    <a href='https://computerhoy.com/lista-iptv-ver-gratis-7500-canales-vuelve-estar-disponible-1216750' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/viendo-television-2582033.jpg?tf=1200x' alt='La lista IPTV para ver gratis más de 7.500 canales vuelve a estar disponible' />
+    <h4><a href='https://computerhoy.com/hogar/dyson-week-ofertas-aspiradoras-precio-saldo-1216758'>Dyson pone a precio de saldo sus aspiradoras más potentes en la Dyson Week</a></h4>
+    <a href='https://computerhoy.com/hogar/dyson-week-ofertas-aspiradoras-precio-saldo-1216758' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/dyson-v15-detect-2468857.jpg?tf=1200x' alt='Dyson pone a precio de saldo sus aspiradoras más potentes en la Dyson Week' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/xiaomi-watch-s1-active-oferta-amazon-1216060'>Este reloj deportivo de Xiaomi supera en precio a los Garmin y tiene poco que envidiarles, y con pantalla AMOLED</a></h4>
-    <a href='https://computerhoy.com/tecnologia/xiaomi-watch-s1-active-oferta-amazon-1216060' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/review-xiaomi-watch-s1-active-2687371.jpg?tf=1200x' alt='Este reloj deportivo de Xiaomi supera en precio a los Garmin y tiene poco que envidiarles, y con pantalla AMOLED' />
+    <h4><a href='https://computerhoy.com/apple/iphone-no-muestra-siempre-opcion-rechazar-llamada-1216874'>¿Por que el iPhone no muestra siempre la opción de rechazar llamada?</a></h4>
+    <a href='https://computerhoy.com/apple/iphone-no-muestra-siempre-opcion-rechazar-llamada-1216874' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/iphone-14-2903090.jpg?tf=1200x' alt='¿Por que el iPhone no muestra siempre la opción de rechazar llamada?' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/google-maps-apellidos-descubre-cuantas-personas-apellidan-como-donde-estan-1216734'>El Google Maps de los apellidos: descubre cuántas personas se apellidan como tú y dónde están</a></h4>
-    <a href='https://computerhoy.com/life/google-maps-apellidos-descubre-cuantas-personas-apellidan-como-donde-estan-1216734' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/google-maps-apellidos-descubre-cuantas-personas-apellidan-como-donde-estan-2986110.jpg?tf=1200x' alt='El Google Maps de los apellidos: descubre cuántas personas se apellidan como tú y dónde están' />
+    <h4><a href='https://computerhoy.com/streaming/series-ver-fin-semana-apple-tv-netflix-prime-video-futuro-cielo-enjambre-1216844'>Qué series ver este fin de semana en Apple TV+, Netflix y Prime Video: un futuro, un cielo y un enjambre</a></h4>
+    <a href='https://computerhoy.com/streaming/series-ver-fin-semana-apple-tv-netflix-prime-video-futuro-cielo-enjambre-1216844' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/enjambre-2986490.jpg?tf=1200x' alt='Qué series ver este fin de semana en Apple TV+, Netflix y Prime Video: un futuro, un cielo y un enjambre' />
     </a>
 </div>
 
