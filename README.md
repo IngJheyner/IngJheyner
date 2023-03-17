@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/streaming/peliculas-ver-fin-semana-netflix-movistar-plus-disney-dune-asesino-mujeres-lucha-fraternal-1216634'>Qué películas ver este fin de semana en Netflix, Movistar Plus+ y Disney+: Dune, un asesino de mujeres y una lucha fraternal</a></h4>
+    <a href='https://computerhoy.com/streaming/peliculas-ver-fin-semana-netflix-movistar-plus-disney-dune-asesino-mujeres-lucha-fraternal-1216634' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/peliculas-ver-fin-semana-netflix-movistar-plus-disney-dune-asesino-mujeres-lucha-fraternal-2986402.jpg?tf=1200x' alt='Qué películas ver este fin de semana en Netflix, Movistar Plus+ y Disney+: Dune, un asesino de mujeres y una lucha fraternal' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/entrecerrar-ojos-ayuda-veamos-mejor-1216848'>¿Por qué entrecerrar los ojos ayuda a que veamos mejor?</a></h4>
+    <a href='https://computerhoy.com/ciencia/entrecerrar-ojos-ayuda-veamos-mejor-1216848' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/01/ojos-gafas-fatiga-2211881.jpg?tf=1200x' alt='¿Por qué entrecerrar los ojos ayuda a que veamos mejor?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/lista-iptv-ver-gratis-7500-canales-vuelve-estar-disponible-1216750'>La lista IPTV para ver gratis más de 7.500 canales vuelve a estar disponible</a></h4>
     <a href='https://computerhoy.com/lista-iptv-ver-gratis-7500-canales-vuelve-estar-disponible-1216750' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/viendo-television-2582033.jpg?tf=1200x' alt='La lista IPTV para ver gratis más de 7.500 canales vuelve a estar disponible' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/life/google-maps-apellidos-descubre-cuantas-personas-apellidan-como-donde-estan-1216734'>El Google Maps de los apellidos: descubre cuántas personas se apellidan como tú y dónde están</a></h4>
     <a href='https://computerhoy.com/life/google-maps-apellidos-descubre-cuantas-personas-apellidan-como-donde-estan-1216734' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/google-maps-apellidos-descubre-cuantas-personas-apellidan-como-donde-estan-2986110.jpg?tf=1200x' alt='El Google Maps de los apellidos: descubre cuántas personas se apellidan como tú y dónde están' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/pixel-fold-google-seria-plegable-economico-competir-samsung-terreno-1216720'>El Pixel Fold el Google sería un plegable económico para competir con Samsung en su terreno</a></h4>
-    <a href='https://computerhoy.com/google/pixel-fold-google-seria-plegable-economico-competir-samsung-terreno-1216720' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/pixel-fold-2492989.jpg?tf=1200x' alt='El Pixel Fold el Google sería un plegable económico para competir con Samsung en su terreno' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/patente-apple-protegera-iphone-plegable-caidas-accidentales-1216646'>Así es la patente de Apple que protegerá al iPhone plegable de caídas accidentales</a></h4>
-    <a href='https://computerhoy.com/apple/patente-apple-protegera-iphone-plegable-caidas-accidentales-1216646' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/iphone-plegable-2985858.jpg?tf=1200x' alt='Así es la patente de Apple que protegerá al iPhone plegable de caídas accidentales' />
     </a>
 </div>
 
