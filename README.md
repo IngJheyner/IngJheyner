@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/pc/steam-deck-descuento-primer-aniversario-rebajas-primavera-steam-1216370'>Steam Deck baja de precio por primera vez en las Rebajas de Primavera de Steam</a></h4>
+    <a href='https://computerhoy.com/pc/steam-deck-descuento-primer-aniversario-rebajas-primavera-steam-1216370' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/steam-deck-baja-precio-primera-vez-rebajas-primavera-steam-2985502.jpg?tf=1200x' alt='Steam Deck baja de precio por primera vez en las Rebajas de Primavera de Steam' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/streaming/netflix-fin-acuerdo-microsoft-publicidad-plan-anuncios-1216366'>Netflix quiere romper cadenas con Microsoft</a></h4>
     <a href='https://computerhoy.com/streaming/netflix-fin-acuerdo-microsoft-publicidad-plan-anuncios-1216366' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/netflix-quiere-romper-cadenas-microsoft-2985478.jpg?tf=1200x' alt='Netflix quiere romper cadenas con Microsoft' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/apps/chatgpt-tambien-dejara-trabajo-alexa-siri-google-assistant-1216350'>ChatGPT también dejará sin trabajo a Alexa, Siri o Google Assistant</a></h4>
     <a href='https://computerhoy.com/apps/chatgpt-tambien-dejara-trabajo-alexa-siri-google-assistant-1216350' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/chatgpt-2985480.jpg?tf=1200x' alt='ChatGPT también dejará sin trabajo a Alexa, Siri o Google Assistant' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/lidl-lleva-todos-supermercados-bolsa-antidesperdicio-verduras-frutas-solo-3-euros-1216290'>Lidl lleva a todos sus supermercados la bolsa antidesperdicio de verduras y frutas por solo 3 euros</a></h4>
-    <a href='https://computerhoy.com/life/lidl-lleva-todos-supermercados-bolsa-antidesperdicio-verduras-frutas-solo-3-euros-1216290' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/lidl-lleva-todos-supermercados-bolsa-antidesperdicio-verduras-frutas-solo-3-euros-2985344.jpg?tf=1200x' alt='Lidl lleva a todos sus supermercados la bolsa antidesperdicio de verduras y frutas por solo 3 euros' />
     </a>
 </div>
 
