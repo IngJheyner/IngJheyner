@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/indonesia-clases-empiezan-5-30-manana-disciplina-1216600'>En Indonesia las clases empiezan a las 5:30 de la mañana "para que aprendan disciplina", padres y médicos se desesperan</a></h4>
-    <a href='https://computerhoy.com/life/indonesia-clases-empiezan-5-30-manana-disciplina-1216600' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/indonesia-clases-empiezan-530-manana-aprendan-disciplina-padres-medicos-desesperan-2985526.jpg?tf=1200x' alt='En Indonesia las clases empiezan a las 5:30 de la mañana "para que aprendan disciplina", padres y médicos se desesperan' />
+    <h4><a href='https://computerhoy.com/patrocinado/no-te-vas-creer-todo-nos-ofrece-aliexpress-promo-aniversario-1215776'>No te vas a creer todo lo que nos ofrece AliExpress por la Promo Aniversario</a></h4>
+    <a href='https://computerhoy.com/patrocinado/no-te-vas-creer-todo-nos-ofrece-aliexpress-promo-aniversario-1215776' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/promo-aniversario-aliexpress-2984288.jpg?tf=1200x' alt='No te vas a creer todo lo que nos ofrece AliExpress por la Promo Aniversario' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/steam-deck-descuento-primer-aniversario-rebajas-primavera-steam-1216370'>Steam Deck baja de precio por primera vez en las Rebajas de Primavera de Steam</a></h4>
-    <a href='https://computerhoy.com/pc/steam-deck-descuento-primer-aniversario-rebajas-primavera-steam-1216370' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/steam-deck-baja-precio-primera-vez-rebajas-primavera-steam-2985502.jpg?tf=1200x' alt='Steam Deck baja de precio por primera vez en las Rebajas de Primavera de Steam' />
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-relojes-inteligentes-personas-mayores-puedes-comprar-1002391'>Mejores relojes inteligentes para personas mayores que puedes comprar</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-relojes-inteligentes-personas-mayores-puedes-comprar-1002391' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/persona-mayor-reloj-inteligente-apple-watch-2598625.jpg?tf=1200x' alt='Mejores relojes inteligentes para personas mayores que puedes comprar' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/streaming/netflix-fin-acuerdo-microsoft-publicidad-plan-anuncios-1216366'>Netflix quiere romper cadenas con Microsoft</a></h4>
-    <a href='https://computerhoy.com/streaming/netflix-fin-acuerdo-microsoft-publicidad-plan-anuncios-1216366' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/netflix-quiere-romper-cadenas-microsoft-2985478.jpg?tf=1200x' alt='Netflix quiere romper cadenas con Microsoft' />
+    <h4><a href='https://computerhoy.com/analisis/xiaomi-13-13-pro-potencia-buenas-fotos-dos-tamanos-diferentes-1216116'>Xiaomi 13 y 13 Pro, potencia y buenas fotos en dos tamaños diferentes</a></h4>
+    <a href='https://computerhoy.com/analisis/xiaomi-13-13-pro-potencia-buenas-fotos-dos-tamanos-diferentes-1216116' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/xiaomi-13-xiaomi-13-pro-analisis-opinion-2985130.jpg?tf=1200x' alt='Xiaomi 13 y 13 Pro, potencia y buenas fotos en dos tamaños diferentes' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/funcion-windows-10-11-podria-estar-lastrando-rendimiento-pc-jugar-1216352'>Esta función de Windows 10 y 11 podría estar lastrando el rendimiento de tu PC al jugar</a></h4>
-    <a href='https://computerhoy.com/windows/funcion-windows-10-11-podria-estar-lastrando-rendimiento-pc-jugar-1216352' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/jugando-ordenador-2985486.jpg?tf=1200x' alt='Esta función de Windows 10 y 11 podría estar lastrando el rendimiento de tu PC al jugar' />
+    <h4><a href='https://computerhoy.com/tecnologia/27-noticias-tecnologia-comenzar-manana-informado-ultimo-1216610'>27 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
+    <a href='https://computerhoy.com/tecnologia/27-noticias-tecnologia-comenzar-manana-informado-ultimo-1216610' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/27-noticias-tecnologia-comenzar-manana-informado-ultimo-2985754.jpg?tf=1200x' alt='27 noticias de tecnología para comenzar la mañana informado de lo último' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tv/televisor-oled-48-pulgadas-philips-ambilight-oferta-1216334'>Este televisor OLED de 48 pulgadas de Philips con Ambilight es tuyo por menos de 1.000 euros</a></h4>
-    <a href='https://computerhoy.com/tv/televisor-oled-48-pulgadas-philips-ambilight-oferta-1216334' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/televisor-oled-48-pulgadas-philips-ambilight-menos-1000-euros-2985402.jpg?tf=1200x' alt='Este televisor OLED de 48 pulgadas de Philips con Ambilight es tuyo por menos de 1.000 euros' />
+    <h4><a href='https://computerhoy.com/mejores/altavoces-bluetooth-1216108'>Mejores altavoces Bluetooth de 2023 y en qué debes fijarte</a></h4>
+    <a href='https://computerhoy.com/mejores/altavoces-bluetooth-1216108' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/hombre-sujetando-altavoz-bluetooth-2985164.jpg?tf=1200x' alt='Mejores altavoces Bluetooth de 2023 y en qué debes fijarte' />
     </a>
 </div>
 
