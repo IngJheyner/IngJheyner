@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/patrocinado/no-te-vas-creer-todo-nos-ofrece-aliexpress-promo-aniversario-1215776'>No te vas a creer todo lo que nos ofrece AliExpress por la Promo Aniversario</a></h4>
-    <a href='https://computerhoy.com/patrocinado/no-te-vas-creer-todo-nos-ofrece-aliexpress-promo-aniversario-1215776' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/promo-aniversario-aliexpress-2984288.jpg?tf=1200x' alt='No te vas a creer todo lo que nos ofrece AliExpress por la Promo Aniversario' />
+    <h4><a href='https://computerhoy.com/google/pixel-fold-google-seria-plegable-economico-competir-samsung-terreno-1216720'>El Pixel Fold el Google sería un plegable económico para competir con Samsung en su terreno</a></h4>
+    <a href='https://computerhoy.com/google/pixel-fold-google-seria-plegable-economico-competir-samsung-terreno-1216720' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/pixel-fold-2492989.jpg?tf=1200x' alt='El Pixel Fold el Google sería un plegable económico para competir con Samsung en su terreno' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-relojes-inteligentes-personas-mayores-puedes-comprar-1002391'>Mejores relojes inteligentes para personas mayores que puedes comprar</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-relojes-inteligentes-personas-mayores-puedes-comprar-1002391' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/persona-mayor-reloj-inteligente-apple-watch-2598625.jpg?tf=1200x' alt='Mejores relojes inteligentes para personas mayores que puedes comprar' />
+    <h4><a href='https://computerhoy.com/apple/patente-apple-protegera-iphone-plegable-caidas-accidentales-1216646'>Así es la patente de Apple que protegerá al iPhone plegable de caídas accidentales</a></h4>
+    <a href='https://computerhoy.com/apple/patente-apple-protegera-iphone-plegable-caidas-accidentales-1216646' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/iphone-plegable-2985858.jpg?tf=1200x' alt='Así es la patente de Apple que protegerá al iPhone plegable de caídas accidentales' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/xiaomi-13-13-pro-potencia-buenas-fotos-dos-tamanos-diferentes-1216116'>Xiaomi 13 y 13 Pro, potencia y buenas fotos en dos tamaños diferentes</a></h4>
-    <a href='https://computerhoy.com/analisis/xiaomi-13-13-pro-potencia-buenas-fotos-dos-tamanos-diferentes-1216116' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/xiaomi-13-xiaomi-13-pro-analisis-opinion-2985130.jpg?tf=1200x' alt='Xiaomi 13 y 13 Pro, potencia y buenas fotos en dos tamaños diferentes' />
+    <h4><a href='https://computerhoy.com/industria/sabio-consejo-warren-buffett-steve-jobs-rechazo-tim-cook-no-dejo-escapar-1216658'>El sabio consejo de Warren Buffett que Steve Jobs rechazó y Tim Cook no dejó escapar</a></h4>
+    <a href='https://computerhoy.com/industria/sabio-consejo-warren-buffett-steve-jobs-rechazo-tim-cook-no-dejo-escapar-1216658' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/sabio-consejo-warren-buffett-steve-jobs-rechazo-tim-cook-no-dejo-escapar-2985914.jpg?tf=1200x' alt='El sabio consejo de Warren Buffett que Steve Jobs rechazó y Tim Cook no dejó escapar' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/27-noticias-tecnologia-comenzar-manana-informado-ultimo-1216610'>27 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
-    <a href='https://computerhoy.com/tecnologia/27-noticias-tecnologia-comenzar-manana-informado-ultimo-1216610' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/27-noticias-tecnologia-comenzar-manana-informado-ultimo-2985754.jpg?tf=1200x' alt='27 noticias de tecnología para comenzar la mañana informado de lo último' />
+    <h4><a href='https://computerhoy.com/tecnologia/moto-g42-pantalla-oled-movil-barato-amazon-1215398'>Este móvil tiene pantalla OLED pero es incluso más barato que los Xiaomi</a></h4>
+    <a href='https://computerhoy.com/tecnologia/moto-g42-pantalla-oled-movil-barato-amazon-1215398' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/motorola-g42-analisis-opinion-2801867.jpg?tf=1200x' alt='Este móvil tiene pantalla OLED pero es incluso más barato que los Xiaomi' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/mejores/altavoces-bluetooth-1216108'>Mejores altavoces Bluetooth de 2023 y en qué debes fijarte</a></h4>
-    <a href='https://computerhoy.com/mejores/altavoces-bluetooth-1216108' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/hombre-sujetando-altavoz-bluetooth-2985164.jpg?tf=1200x' alt='Mejores altavoces Bluetooth de 2023 y en qué debes fijarte' />
+    <h4><a href='https://computerhoy.com/streaming/netflix-pone-pilas-cuentas-compartidas-activa-codigos-acceso-14-dias-1216636'>Netflix se pone las pilas con las cuentas compartidas y activa los códigos de acceso para 14 días</a></h4>
+    <a href='https://computerhoy.com/streaming/netflix-pone-pilas-cuentas-compartidas-activa-codigos-acceso-14-dias-1216636' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/netflix-pone-pilas-cuentas-compartidas-activa-codigos-acceso-14-dias-2985826.jpg?tf=1200x' alt='Netflix se pone las pilas con las cuentas compartidas y activa los códigos de acceso para 14 días' />
     </a>
 </div>
 
