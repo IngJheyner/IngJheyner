@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/indonesia-clases-empiezan-5-30-manana-disciplina-1216600'>En Indonesia las clases empiezan a las 5:30 de la mañana "para que aprendan disciplina", padres y médicos se desesperan</a></h4>
+    <a href='https://computerhoy.com/life/indonesia-clases-empiezan-5-30-manana-disciplina-1216600' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/indonesia-clases-empiezan-530-manana-aprendan-disciplina-padres-medicos-desesperan-2985526.jpg?tf=1200x' alt='En Indonesia las clases empiezan a las 5:30 de la mañana "para que aprendan disciplina", padres y médicos se desesperan' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/pc/steam-deck-descuento-primer-aniversario-rebajas-primavera-steam-1216370'>Steam Deck baja de precio por primera vez en las Rebajas de Primavera de Steam</a></h4>
     <a href='https://computerhoy.com/pc/steam-deck-descuento-primer-aniversario-rebajas-primavera-steam-1216370' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/steam-deck-baja-precio-primera-vez-rebajas-primavera-steam-2985502.jpg?tf=1200x' alt='Steam Deck baja de precio por primera vez en las Rebajas de Primavera de Steam' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tv/televisor-oled-48-pulgadas-philips-ambilight-oferta-1216334'>Este televisor OLED de 48 pulgadas de Philips con Ambilight es tuyo por menos de 1.000 euros</a></h4>
     <a href='https://computerhoy.com/tv/televisor-oled-48-pulgadas-philips-ambilight-oferta-1216334' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/televisor-oled-48-pulgadas-philips-ambilight-menos-1000-euros-2985402.jpg?tf=1200x' alt='Este televisor OLED de 48 pulgadas de Philips con Ambilight es tuyo por menos de 1.000 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/chatgpt-tambien-dejara-trabajo-alexa-siri-google-assistant-1216350'>ChatGPT también dejará sin trabajo a Alexa, Siri o Google Assistant</a></h4>
-    <a href='https://computerhoy.com/apps/chatgpt-tambien-dejara-trabajo-alexa-siri-google-assistant-1216350' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/chatgpt-2985480.jpg?tf=1200x' alt='ChatGPT también dejará sin trabajo a Alexa, Siri o Google Assistant' />
     </a>
 </div>
 
