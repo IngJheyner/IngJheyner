@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/software/ultima-actualizacion-windows-11-autentico-desastre-llena-pc-errores-1216878'>La última actualización de Windows 11 es un auténtico desastre y llena tu PC de errores</a></h4>
-    <a href='https://computerhoy.com/software/ultima-actualizacion-windows-11-autentico-desastre-llena-pc-errores-1216878' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/windows-11-2954544.jpg?tf=1200x' alt='La última actualización de Windows 11 es un auténtico desastre y llena tu PC de errores' />
+    <h4><a href='https://computerhoy.com/redes-sociales/facebook-instagram-ya-cobran-marca-verificacion-azul-cuenta-funciona-1216916'>Facebook e Instagram ya cobran por la marca de verificación azul en tu cuenta, así funciona</a></h4>
+    <a href='https://computerhoy.com/redes-sociales/facebook-instagram-ya-cobran-marca-verificacion-azul-cuenta-funciona-1216916' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/instagram-2982916.jpg?tf=1200x' alt='Facebook e Instagram ya cobran por la marca de verificación azul en tu cuenta, así funciona' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/como-ver-gratis-apple-tv-durante-3-meses-amazon-fire-tv-dispositivo-android-tv-1216876'>Cómo ver gratis Apple TV+ durante 3 meses en tu Amazon Fire TV o dispositivo con Android TV</a></h4>
-    <a href='https://computerhoy.com/apple/como-ver-gratis-apple-tv-durante-3-meses-amazon-fire-tv-dispositivo-android-tv-1216876' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/apple-tv-2579365.jpg?tf=1200x' alt='Cómo ver gratis Apple TV+ durante 3 meses en tu Amazon Fire TV o dispositivo con Android TV' />
+    <h4><a href='https://computerhoy.com/apps/notas-voz-whatsapp-nueva-caracteristica-nadie-ha-pedido-1216918'>Las notas de voz en WhatsApp es la nueva característica que nadie ha pedido</a></h4>
+    <a href='https://computerhoy.com/apps/notas-voz-whatsapp-nueva-caracteristica-nadie-ha-pedido-1216918' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/notas-voz-whatsapp-nueva-caracteristica-nadie-ha-pedido-2986728.jpg?tf=1200x' alt='Las notas de voz en WhatsApp es la nueva característica que nadie ha pedido' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/hogar/dyson-week-ofertas-aspiradoras-precio-saldo-1216758'>Dyson pone a precio de saldo sus aspiradoras más potentes en la Dyson Week</a></h4>
-    <a href='https://computerhoy.com/hogar/dyson-week-ofertas-aspiradoras-precio-saldo-1216758' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/dyson-v15-detect-2468857.jpg?tf=1200x' alt='Dyson pone a precio de saldo sus aspiradoras más potentes en la Dyson Week' />
+    <h4><a href='https://computerhoy.com/streaming/un-futuro-desafiante-extrapolations-nueva-serie-apple-tv-cambio-climatico-1216936'>La nueva serie de Apple TV+ nos muestra cómo viviremos dentro de 30 años en pleno caos climático, con un reparto espectacular</a></h4>
+    <a href='https://computerhoy.com/streaming/un-futuro-desafiante-extrapolations-nueva-serie-apple-tv-cambio-climatico-1216936' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/futuro-inquietante-2986754.jpg?tf=1200x' alt='La nueva serie de Apple TV+ nos muestra cómo viviremos dentro de 30 años en pleno caos climático, con un reparto espectacular' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/iphone-no-muestra-siempre-opcion-rechazar-llamada-1216874'>¿Por que el iPhone no muestra siempre la opción de rechazar llamada?</a></h4>
-    <a href='https://computerhoy.com/apple/iphone-no-muestra-siempre-opcion-rechazar-llamada-1216874' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/iphone-14-2903090.jpg?tf=1200x' alt='¿Por que el iPhone no muestra siempre la opción de rechazar llamada?' />
+    <h4><a href='https://computerhoy.com/moviles/ciberdelincuentes-pueden-tomar-control-algunos-moviles-samsung-pixel-solo-numero-telefono-1216926'>Ciberdelincuentes pueden tomar el control de algunos móviles Samsung y Pixel solo con el número de teléfono</a></h4>
+    <a href='https://computerhoy.com/moviles/ciberdelincuentes-pueden-tomar-control-algunos-moviles-samsung-pixel-solo-numero-telefono-1216926' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/malware-android-2865655.jpg?tf=1200x' alt='Ciberdelincuentes pueden tomar el control de algunos móviles Samsung y Pixel solo con el número de teléfono' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/streaming/series-ver-fin-semana-apple-tv-netflix-prime-video-futuro-cielo-enjambre-1216844'>Qué series ver este fin de semana en Apple TV+, Netflix y Prime Video: un futuro, un cielo y un enjambre</a></h4>
-    <a href='https://computerhoy.com/streaming/series-ver-fin-semana-apple-tv-netflix-prime-video-futuro-cielo-enjambre-1216844' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/enjambre-2986490.jpg?tf=1200x' alt='Qué series ver este fin de semana en Apple TV+, Netflix y Prime Video: un futuro, un cielo y un enjambre' />
+    <h4><a href='https://computerhoy.com/life/tapa-abierta-cerrada-trucos-ocu-hacer-mejor-cafe-cafetera-italiana-1216922'>¿Tapa abierta o cerrada? Los trucos de la OCU para hacer el mejor café con una cafetera italiana</a></h4>
+    <a href='https://computerhoy.com/life/tapa-abierta-cerrada-trucos-ocu-hacer-mejor-cafe-cafetera-italiana-1216922' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/cafetera-italiana-2986730.jpg?tf=1200x' alt='¿Tapa abierta o cerrada? Los trucos de la OCU para hacer el mejor café con una cafetera italiana' />
     </a>
 </div>
 
