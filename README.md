@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/pc/razer-atlas-primera-alfombrilla-raton-cristal-1217164'>Razer pone a la venta la primera alfombrilla de ratón de cristal, promete máxima precisión </a></h4>
+    <a href='https://computerhoy.com/pc/razer-atlas-primera-alfombrilla-raton-cristal-1217164' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/razer-pone-venta-primera-alfombrilla-raton-cristal-promete-maxima-precision-2986760.jpg?tf=1200x' alt='Razer pone a la venta la primera alfombrilla de ratón de cristal, promete máxima precisión ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/google/pixel-7-mitad-precio-iphone-14-oferta-1216944'>Casi a mitad de precio que el iPhone 14, y con unas prestaciones que no tienen nada que envidiarle</a></h4>
+    <a href='https://computerhoy.com/google/pixel-7-mitad-precio-iphone-14-oferta-1216944' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/analisis-pixel-7-2914836.jpg?tf=1200x' alt='Casi a mitad de precio que el iPhone 14, y con unas prestaciones que no tienen nada que envidiarle' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/redes-sociales/facebook-instagram-ya-cobran-marca-verificacion-azul-cuenta-funciona-1216916'>Facebook e Instagram ya cobran por la marca de verificación azul en tu cuenta, así funciona</a></h4>
     <a href='https://computerhoy.com/redes-sociales/facebook-instagram-ya-cobran-marca-verificacion-azul-cuenta-funciona-1216916' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/instagram-2982916.jpg?tf=1200x' alt='Facebook e Instagram ya cobran por la marca de verificación azul en tu cuenta, así funciona' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/streaming/un-futuro-desafiante-extrapolations-nueva-serie-apple-tv-cambio-climatico-1216936'>La nueva serie de Apple TV+ nos muestra cómo viviremos dentro de 30 años en pleno caos climático, con un reparto espectacular</a></h4>
     <a href='https://computerhoy.com/streaming/un-futuro-desafiante-extrapolations-nueva-serie-apple-tv-cambio-climatico-1216936' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/futuro-inquietante-2986754.jpg?tf=1200x' alt='La nueva serie de Apple TV+ nos muestra cómo viviremos dentro de 30 años en pleno caos climático, con un reparto espectacular' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/ciberdelincuentes-pueden-tomar-control-algunos-moviles-samsung-pixel-solo-numero-telefono-1216926'>Ciberdelincuentes pueden tomar el control de algunos móviles Samsung y Pixel solo con el número de teléfono</a></h4>
-    <a href='https://computerhoy.com/moviles/ciberdelincuentes-pueden-tomar-control-algunos-moviles-samsung-pixel-solo-numero-telefono-1216926' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/malware-android-2865655.jpg?tf=1200x' alt='Ciberdelincuentes pueden tomar el control de algunos móviles Samsung y Pixel solo con el número de teléfono' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/tapa-abierta-cerrada-trucos-ocu-hacer-mejor-cafe-cafetera-italiana-1216922'>¿Tapa abierta o cerrada? Los trucos de la OCU para hacer el mejor café con una cafetera italiana</a></h4>
-    <a href='https://computerhoy.com/life/tapa-abierta-cerrada-trucos-ocu-hacer-mejor-cafe-cafetera-italiana-1216922' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/cafetera-italiana-2986730.jpg?tf=1200x' alt='¿Tapa abierta o cerrada? Los trucos de la OCU para hacer el mejor café con una cafetera italiana' />
     </a>
 </div>
 
