@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/realidad-virtual/rehabilitacion-medica-realidad-virtual-potencia-proceso-recuperacion-1216698'>Rehabilitación médica con realidad virtual: así potencia el proceso de recuperación</a></h4>
+    <a href='https://computerhoy.com/realidad-virtual/rehabilitacion-medica-realidad-virtual-potencia-proceso-recuperacion-1216698' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/rehabilitacion-medica-realidad-virtual-potencia-proceso-recuperacion-2985952.jpg?tf=1200x' alt='Rehabilitación médica con realidad virtual: así potencia el proceso de recuperación' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/whatsapp-te-permitira-encontrar-contactos-grupos-comun-nueva-caracteristica-1217268'>WhatsApp te permitirá encontrar contactos y grupos en común con esta nueva característica</a></h4>
+    <a href='https://computerhoy.com/apps/whatsapp-te-permitira-encontrar-contactos-grupos-comun-nueva-caracteristica-1217268' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/whatsapp-telefonos-2930874.jpg?tf=1200x' alt='WhatsApp te permitirá encontrar contactos y grupos en común con esta nueva característica' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/smartwatches/nuevos-samsung-galaxy-watch6-vendrian-baterias-grandes-galaxy-watch5-1217262'>Los nuevos Samsung Galaxy Watch6 vendrían con baterías más grandes que los Galaxy Watch5</a></h4>
+    <a href='https://computerhoy.com/smartwatches/nuevos-samsung-galaxy-watch6-vendrian-baterias-grandes-galaxy-watch5-1217262' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/samsung-galaxy-watch-5-pro-analisis-opinion-2809259.jpg?tf=1200x' alt='Los nuevos Samsung Galaxy Watch6 vendrían con baterías más grandes que los Galaxy Watch5' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/streaming/skyshowtime-ya-elimina-series-catalogo-semanas-despues-lanzamiento-espana-1217260'>SkyShowtime ya elimina series de su catálogo semanas después de su lanzamiento en España</a></h4>
+    <a href='https://computerhoy.com/streaming/skyshowtime-ya-elimina-series-catalogo-semanas-despues-lanzamiento-espana-1217260' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/llega-espana-skyshowtime-plataforma-streaming-paramount-universal-2925134.jpg?tf=1200x' alt='SkyShowtime ya elimina series de su catálogo semanas después de su lanzamiento en España' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apple/rasgo-inequivoco-ayudaba-steve-jobs-detectar-malos-empleados-1217256'>El rasgo inequívoco que ayudaba a Steve Jobs a detectar a los malos empleados</a></h4>
     <a href='https://computerhoy.com/apple/rasgo-inequivoco-ayudaba-steve-jobs-detectar-malos-empleados-1217256' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/steve-jobs-2885457.jpg?tf=1200x' alt='El rasgo inequívoco que ayudaba a Steve Jobs a detectar a los malos empleados' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/alimentacion/alimentos-prohibidos-nunca-deberias-cocinar-freidora-aire-1217240'>Alimentos prohibidos que nunca deberías cocinar en una freidora de aire</a></h4>
-    <a href='https://computerhoy.com/alimentacion/alimentos-prohibidos-nunca-deberias-cocinar-freidora-aire-1217240' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/freidora-aire-aceite-2689483.jpg?tf=1200x' alt='Alimentos prohibidos que nunca deberías cocinar en una freidora de aire' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/como-saltarse-limite-palabras-respuestas-chatgpt-1217228'>Cómo saltarse el límite de palabras en las respuestas de ChatGPT</a></h4>
-    <a href='https://computerhoy.com/apps/como-saltarse-limite-palabras-respuestas-chatgpt-1217228' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/crees-chatgpt-demasiado-light-openai-quiere-dotarlo-personalidad-controversia-2959556.jpg?tf=1200x' alt='Cómo saltarse el límite de palabras en las respuestas de ChatGPT' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/6-series-ciencia-ficcion-fantasia-tiene-apple-tv-catalogo-1215738'>Las 6 series de ciencia ficción o fantasía que tiene Apple TV+ en su catálogo</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/6-series-ciencia-ficcion-fantasia-tiene-apple-tv-catalogo-1215738' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/see-2984286.jpg?tf=1200x' alt='Las 6 series de ciencia ficción o fantasía que tiene Apple TV+ en su catálogo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-nos-enganan-altavoces-bluetooth-1216184'>Cómo nos engañan con los altavoces bluetooth</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-nos-enganan-altavoces-bluetooth-1216184' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/altavoces-bluetooth-2985270.jpg?tf=1200x' alt='Cómo nos engañan con los altavoces bluetooth' />
     </a>
 </div>
 
