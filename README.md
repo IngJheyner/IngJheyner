@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/pc/rusia-han-vendido-mismos-pcs-apple-hp-dell-anos-anteriores-bloqueo-1217166'>En Rusia se siguen vendiendo PCs de Apple, HP o Dell al ritmo de siempre: así se salta el bloqueo</a></h4>
+    <a href='https://computerhoy.com/pc/rusia-han-vendido-mismos-pcs-apple-hp-dell-anos-anteriores-bloqueo-1217166' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/ordenador-portatil-macbook-pro-chip-m1-auriculares-cuaderno-cerca-mesa-2856675.jpg?tf=1200x' alt='En Rusia se siguen vendiendo PCs de Apple, HP o Dell al ritmo de siempre: así se salta el bloqueo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/pc/razer-atlas-primera-alfombrilla-raton-cristal-1217164'>Razer pone a la venta la primera alfombrilla de ratón de cristal, promete máxima precisión </a></h4>
     <a href='https://computerhoy.com/pc/razer-atlas-primera-alfombrilla-raton-cristal-1217164' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/razer-pone-venta-primera-alfombrilla-raton-cristal-promete-maxima-precision-2986760.jpg?tf=1200x' alt='Razer pone a la venta la primera alfombrilla de ratón de cristal, promete máxima precisión ' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/apps/notas-voz-whatsapp-nueva-caracteristica-nadie-ha-pedido-1216918'>Las notas de voz en WhatsApp es la nueva característica que nadie ha pedido</a></h4>
     <a href='https://computerhoy.com/apps/notas-voz-whatsapp-nueva-caracteristica-nadie-ha-pedido-1216918' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/notas-voz-whatsapp-nueva-caracteristica-nadie-ha-pedido-2986728.jpg?tf=1200x' alt='Las notas de voz en WhatsApp es la nueva característica que nadie ha pedido' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/streaming/un-futuro-desafiante-extrapolations-nueva-serie-apple-tv-cambio-climatico-1216936'>La nueva serie de Apple TV+ nos muestra cómo viviremos dentro de 30 años en pleno caos climático, con un reparto espectacular</a></h4>
-    <a href='https://computerhoy.com/streaming/un-futuro-desafiante-extrapolations-nueva-serie-apple-tv-cambio-climatico-1216936' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/futuro-inquietante-2986754.jpg?tf=1200x' alt='La nueva serie de Apple TV+ nos muestra cómo viviremos dentro de 30 años en pleno caos climático, con un reparto espectacular' />
     </a>
 </div>
 
