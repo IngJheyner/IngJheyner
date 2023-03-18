@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/rusia-han-vendido-mismos-pcs-apple-hp-dell-anos-anteriores-bloqueo-1217166'>En Rusia se siguen vendiendo PCs de Apple, HP o Dell al ritmo de siempre: así se salta el bloqueo</a></h4>
-    <a href='https://computerhoy.com/pc/rusia-han-vendido-mismos-pcs-apple-hp-dell-anos-anteriores-bloqueo-1217166' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/ordenador-portatil-macbook-pro-chip-m1-auriculares-cuaderno-cerca-mesa-2856675.jpg?tf=1200x' alt='En Rusia se siguen vendiendo PCs de Apple, HP o Dell al ritmo de siempre: así se salta el bloqueo' />
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-tablets-windows-10-ofertas-922299'>Estas son las mejores tablets con Windows 11 que puedes comprar</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-tablets-windows-10-ofertas-922299' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/microsoft-surface-pro-9-2929734.jpg?tf=1200x' alt='Estas son las mejores tablets con Windows 11 que puedes comprar' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/razer-atlas-primera-alfombrilla-raton-cristal-1217164'>Razer pone a la venta la primera alfombrilla de ratón de cristal, promete máxima precisión </a></h4>
-    <a href='https://computerhoy.com/pc/razer-atlas-primera-alfombrilla-raton-cristal-1217164' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/razer-pone-venta-primera-alfombrilla-raton-cristal-promete-maxima-precision-2986760.jpg?tf=1200x' alt='Razer pone a la venta la primera alfombrilla de ratón de cristal, promete máxima precisión ' />
+    <h4><a href='https://computerhoy.com/tutoriales/como-usar-rufus-crear-disco-arranque-1216752'>Cómo usar Rufus para crear un disco de arranque</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-usar-rufus-crear-disco-arranque-1216752' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/memoria-usb-ordenador-2321989.jpg?tf=1200x' alt='Cómo usar Rufus para crear un disco de arranque' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/pixel-7-mitad-precio-iphone-14-oferta-1216944'>Casi a mitad de precio que el iPhone 14, y con unas prestaciones que no tienen nada que envidiarle</a></h4>
-    <a href='https://computerhoy.com/google/pixel-7-mitad-precio-iphone-14-oferta-1216944' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/analisis-pixel-7-2914836.jpg?tf=1200x' alt='Casi a mitad de precio que el iPhone 14, y con unas prestaciones que no tienen nada que envidiarle' />
+    <h4><a href='https://computerhoy.com/ciencia/dinosaurio-cuello-mas-largo-conoce-1217170'>Descubren en China el dinosaurio con el cuello más largo que se conoce</a></h4>
+    <a href='https://computerhoy.com/ciencia/dinosaurio-cuello-mas-largo-conoce-1217170' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/descubren-china-dinosaurio-cuello-largo-historia-2986996.jpg?tf=1200x' alt='Descubren en China el dinosaurio con el cuello más largo que se conoce' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/redes-sociales/facebook-instagram-ya-cobran-marca-verificacion-azul-cuenta-funciona-1216916'>Facebook e Instagram ya cobran por la marca de verificación azul en tu cuenta, así funciona</a></h4>
-    <a href='https://computerhoy.com/redes-sociales/facebook-instagram-ya-cobran-marca-verificacion-azul-cuenta-funciona-1216916' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/instagram-2982916.jpg?tf=1200x' alt='Facebook e Instagram ya cobran por la marca de verificación azul en tu cuenta, así funciona' />
+    <h4><a href='https://computerhoy.com/analisis/samsung-portable-ssd-t7-shield-analisis-opinion-ssd-externo-4-tb-compacto-1214270'>Samsung Portable SSD T7 Shield, análisis y opinión del SSD externo de 4 TB más compacto</a></h4>
+    <a href='https://computerhoy.com/analisis/samsung-portable-ssd-t7-shield-analisis-opinion-ssd-externo-4-tb-compacto-1214270' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/samsung-portable-ssd-t7-shield-2986536.jpg?tf=1200x' alt='Samsung Portable SSD T7 Shield, análisis y opinión del SSD externo de 4 TB más compacto' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/notas-voz-whatsapp-nueva-caracteristica-nadie-ha-pedido-1216918'>Las notas de voz en WhatsApp es la nueva característica que nadie ha pedido</a></h4>
-    <a href='https://computerhoy.com/apps/notas-voz-whatsapp-nueva-caracteristica-nadie-ha-pedido-1216918' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/notas-voz-whatsapp-nueva-caracteristica-nadie-ha-pedido-2986728.jpg?tf=1200x' alt='Las notas de voz en WhatsApp es la nueva característica que nadie ha pedido' />
+    <h4><a href='https://computerhoy.com/tutoriales/diferencias-hay-tarjeta-credito-debito-1212988'>Qué diferencias hay entre una tarjeta de crédito y una de débito</a></h4>
+    <a href='https://computerhoy.com/tutoriales/diferencias-hay-tarjeta-credito-debito-1212988' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/11/tarjeta-credito-2127299.jpg?tf=1200x' alt='Qué diferencias hay entre una tarjeta de crédito y una de débito' />
     </a>
 </div>
 
