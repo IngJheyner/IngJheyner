@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/windows/windows-11-hara-sea-facil-cambiar-aplicaciones-predeterminadas-1217292'>Windows 11 hará que sea más fácil cambiar las aplicaciones predeterminadas</a></h4>
+    <a href='https://computerhoy.com/windows/windows-11-hara-sea-facil-cambiar-aplicaciones-predeterminadas-1217292' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/windows-11-2987236.jpg?tf=1200x' alt='Windows 11 hará que sea más fácil cambiar las aplicaciones predeterminadas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/diferencias-hay-televisor-pantalla-oled-qled-1216174'>Qué diferencias hay entre un televisor con pantalla OLED y QLED</a></h4>
+    <a href='https://computerhoy.com/tutoriales/diferencias-hay-televisor-pantalla-oled-qled-1216174' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/oled-vs-qled-2985080.jpg?tf=1200x' alt='Qué diferencias hay entre un televisor con pantalla OLED y QLED' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-tablets-lapiz-dibujar-escribir-849525'>Las mejores tablets con lápiz para dibujar o escribir</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-tablets-lapiz-dibujar-escribir-849525' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/persona-escribiendo-tablet-ipad-stylus-apple-pencil-2986444.jpg?tf=1200x' alt='Las mejores tablets con lápiz para dibujar o escribir' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/estudio-demuestra-apariencia-robots-puede-afectar-productividad-laboral-1217272'>Este estudio demuestra que la apariencia de los robots puede afectar a la productividad laboral</a></h4>
+    <a href='https://computerhoy.com/ciencia/estudio-demuestra-apariencia-robots-puede-afectar-productividad-laboral-1217272' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/estudio-demuestra-apariencia-robots-puede-afectar-productividad-laboral-2987216.jpg?tf=1200x' alt='Este estudio demuestra que la apariencia de los robots puede afectar a la productividad laboral' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/realidad-virtual/rehabilitacion-medica-realidad-virtual-potencia-proceso-recuperacion-1216698'>Rehabilitación médica con realidad virtual: así potencia el proceso de recuperación</a></h4>
     <a href='https://computerhoy.com/realidad-virtual/rehabilitacion-medica-realidad-virtual-potencia-proceso-recuperacion-1216698' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/rehabilitacion-medica-realidad-virtual-potencia-proceso-recuperacion-2985952.jpg?tf=1200x' alt='Rehabilitación médica con realidad virtual: así potencia el proceso de recuperación' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/whatsapp-te-permitira-encontrar-contactos-grupos-comun-nueva-caracteristica-1217268'>WhatsApp te permitirá encontrar contactos y grupos en común con esta nueva característica</a></h4>
-    <a href='https://computerhoy.com/apps/whatsapp-te-permitira-encontrar-contactos-grupos-comun-nueva-caracteristica-1217268' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/whatsapp-telefonos-2930874.jpg?tf=1200x' alt='WhatsApp te permitirá encontrar contactos y grupos en común con esta nueva característica' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/smartwatches/nuevos-samsung-galaxy-watch6-vendrian-baterias-grandes-galaxy-watch5-1217262'>Los nuevos Samsung Galaxy Watch6 vendrían con baterías más grandes que los Galaxy Watch5</a></h4>
-    <a href='https://computerhoy.com/smartwatches/nuevos-samsung-galaxy-watch6-vendrian-baterias-grandes-galaxy-watch5-1217262' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/samsung-galaxy-watch-5-pro-analisis-opinion-2809259.jpg?tf=1200x' alt='Los nuevos Samsung Galaxy Watch6 vendrían con baterías más grandes que los Galaxy Watch5' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/streaming/skyshowtime-ya-elimina-series-catalogo-semanas-despues-lanzamiento-espana-1217260'>SkyShowtime ya elimina series de su catálogo semanas después de su lanzamiento en España</a></h4>
-    <a href='https://computerhoy.com/streaming/skyshowtime-ya-elimina-series-catalogo-semanas-despues-lanzamiento-espana-1217260' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/llega-espana-skyshowtime-plataforma-streaming-paramount-universal-2925134.jpg?tf=1200x' alt='SkyShowtime ya elimina series de su catálogo semanas después de su lanzamiento en España' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/rasgo-inequivoco-ayudaba-steve-jobs-detectar-malos-empleados-1217256'>El rasgo inequívoco que ayudaba a Steve Jobs a detectar a los malos empleados</a></h4>
-    <a href='https://computerhoy.com/apple/rasgo-inequivoco-ayudaba-steve-jobs-detectar-malos-empleados-1217256' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/steve-jobs-2885457.jpg?tf=1200x' alt='El rasgo inequívoco que ayudaba a Steve Jobs a detectar a los malos empleados' />
     </a>
 </div>
 
