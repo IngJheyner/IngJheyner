@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-nos-enganan-altavoces-bluetooth-1216184'>Cómo nos engañan con los altavoces bluetooth</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-nos-enganan-altavoces-bluetooth-1216184' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/altavoces-bluetooth-2985270.jpg?tf=1200x' alt='Cómo nos engañan con los altavoces bluetooth' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/9-mejores-webs-crear-cuenta-correo-electronico-desechable-uso-temporal-1216324'>Las 9 mejores webs para crear una cuenta de correo electrónico desechable para uso temporal</a></h4>
+    <a href='https://computerhoy.com/tutoriales/9-mejores-webs-crear-cuenta-correo-electronico-desechable-uso-temporal-1216324' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/correo-electronico-2986212.jpg?tf=1200x' alt='Las 9 mejores webs para crear una cuenta de correo electrónico desechable para uso temporal' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-mejorar-trabajo-multitarea-windows-11-1213714'>Cómo mejorar tu trabajo multitarea en Windows 11</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-mejorar-trabajo-multitarea-windows-11-1213714' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/hombre-multitarea-2986446.jpg?tf=1200x' alt='Cómo mejorar tu trabajo multitarea en Windows 11' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-tablets-windows-10-ofertas-922299'>Estas son las mejores tablets con Windows 11 que puedes comprar</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/mejores-tablets-windows-10-ofertas-922299' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/microsoft-surface-pro-9-2929734.jpg?tf=1200x' alt='Estas son las mejores tablets con Windows 11 que puedes comprar' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/tutoriales/como-usar-rufus-crear-disco-arranque-1216752'>Cómo usar Rufus para crear un disco de arranque</a></h4>
     <a href='https://computerhoy.com/tutoriales/como-usar-rufus-crear-disco-arranque-1216752' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/memoria-usb-ordenador-2321989.jpg?tf=1200x' alt='Cómo usar Rufus para crear un disco de arranque' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/dinosaurio-cuello-mas-largo-conoce-1217170'>Descubren en China el dinosaurio con el cuello más largo que se conoce</a></h4>
-    <a href='https://computerhoy.com/ciencia/dinosaurio-cuello-mas-largo-conoce-1217170' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/descubren-china-dinosaurio-cuello-largo-historia-2986996.jpg?tf=1200x' alt='Descubren en China el dinosaurio con el cuello más largo que se conoce' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/samsung-portable-ssd-t7-shield-analisis-opinion-ssd-externo-4-tb-compacto-1214270'>Samsung Portable SSD T7 Shield, análisis y opinión del SSD externo de 4 TB más compacto</a></h4>
-    <a href='https://computerhoy.com/analisis/samsung-portable-ssd-t7-shield-analisis-opinion-ssd-externo-4-tb-compacto-1214270' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/samsung-portable-ssd-t7-shield-2986536.jpg?tf=1200x' alt='Samsung Portable SSD T7 Shield, análisis y opinión del SSD externo de 4 TB más compacto' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/diferencias-hay-tarjeta-credito-debito-1212988'>Qué diferencias hay entre una tarjeta de crédito y una de débito</a></h4>
-    <a href='https://computerhoy.com/tutoriales/diferencias-hay-tarjeta-credito-debito-1212988' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/11/tarjeta-credito-2127299.jpg?tf=1200x' alt='Qué diferencias hay entre una tarjeta de crédito y una de débito' />
     </a>
 </div>
 
