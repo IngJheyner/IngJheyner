@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/rasgo-inequivoco-ayudaba-steve-jobs-detectar-malos-empleados-1217256'>El rasgo inequívoco que ayudaba a Steve Jobs a detectar a los malos empleados</a></h4>
+    <a href='https://computerhoy.com/apple/rasgo-inequivoco-ayudaba-steve-jobs-detectar-malos-empleados-1217256' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/steve-jobs-2885457.jpg?tf=1200x' alt='El rasgo inequívoco que ayudaba a Steve Jobs a detectar a los malos empleados' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/alimentacion/alimentos-prohibidos-nunca-deberias-cocinar-freidora-aire-1217240'>Alimentos prohibidos que nunca deberías cocinar en una freidora de aire</a></h4>
+    <a href='https://computerhoy.com/alimentacion/alimentos-prohibidos-nunca-deberias-cocinar-freidora-aire-1217240' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/freidora-aire-aceite-2689483.jpg?tf=1200x' alt='Alimentos prohibidos que nunca deberías cocinar en una freidora de aire' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/como-saltarse-limite-palabras-respuestas-chatgpt-1217228'>Cómo saltarse el límite de palabras en las respuestas de ChatGPT</a></h4>
+    <a href='https://computerhoy.com/apps/como-saltarse-limite-palabras-respuestas-chatgpt-1217228' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/crees-chatgpt-demasiado-light-openai-quiere-dotarlo-personalidad-controversia-2959556.jpg?tf=1200x' alt='Cómo saltarse el límite de palabras en las respuestas de ChatGPT' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/6-series-ciencia-ficcion-fantasia-tiene-apple-tv-catalogo-1215738'>Las 6 series de ciencia ficción o fantasía que tiene Apple TV+ en su catálogo</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/6-series-ciencia-ficcion-fantasia-tiene-apple-tv-catalogo-1215738' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/see-2984286.jpg?tf=1200x' alt='Las 6 series de ciencia ficción o fantasía que tiene Apple TV+ en su catálogo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tutoriales/como-nos-enganan-altavoces-bluetooth-1216184'>Cómo nos engañan con los altavoces bluetooth</a></h4>
     <a href='https://computerhoy.com/tutoriales/como-nos-enganan-altavoces-bluetooth-1216184' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/altavoces-bluetooth-2985270.jpg?tf=1200x' alt='Cómo nos engañan con los altavoces bluetooth' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/9-mejores-webs-crear-cuenta-correo-electronico-desechable-uso-temporal-1216324'>Las 9 mejores webs para crear una cuenta de correo electrónico desechable para uso temporal</a></h4>
-    <a href='https://computerhoy.com/tutoriales/9-mejores-webs-crear-cuenta-correo-electronico-desechable-uso-temporal-1216324' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/correo-electronico-2986212.jpg?tf=1200x' alt='Las 9 mejores webs para crear una cuenta de correo electrónico desechable para uso temporal' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-mejorar-trabajo-multitarea-windows-11-1213714'>Cómo mejorar tu trabajo multitarea en Windows 11</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-mejorar-trabajo-multitarea-windows-11-1213714' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/hombre-multitarea-2986446.jpg?tf=1200x' alt='Cómo mejorar tu trabajo multitarea en Windows 11' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-tablets-windows-10-ofertas-922299'>Estas son las mejores tablets con Windows 11 que puedes comprar</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-tablets-windows-10-ofertas-922299' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/microsoft-surface-pro-9-2929734.jpg?tf=1200x' alt='Estas son las mejores tablets con Windows 11 que puedes comprar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-usar-rufus-crear-disco-arranque-1216752'>Cómo usar Rufus para crear un disco de arranque</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-usar-rufus-crear-disco-arranque-1216752' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/memoria-usb-ordenador-2321989.jpg?tf=1200x' alt='Cómo usar Rufus para crear un disco de arranque' />
     </a>
 </div>
 
