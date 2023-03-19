@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/civiles-lanzacohetes-impresora-3d-invasion-ucrania-1217654'>Civiles están desarrollando lanzacohetes impresos en 3D: la invasión de Ucrania acelera el proceso</a></h4>
+    <a href='https://computerhoy.com/life/civiles-lanzacohetes-impresora-3d-invasion-ucrania-1217654' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/civiles-estan-desarrollando-lanzacohetes-impresos-3d-invasion-ucrania-acelera-proceso-2987740.jpg?tf=1200x' alt='Civiles están desarrollando lanzacohetes impresos en 3D: la invasión de Ucrania acelera el proceso' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/he-probado-cientos-aplicaciones-editar-fotografias-app-gratis-lleva-oro-1216014'>He probado cientos de aplicaciones para editar fotografías y esta app gratis se lleva el oro</a></h4>
+    <a href='https://computerhoy.com/apps/he-probado-cientos-aplicaciones-editar-fotografias-app-gratis-lleva-oro-1216014' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/he-probado-cientos-aplicaciones-editar-fotografias-app-gratis-lleva-oro-2986310.jpg?tf=1200x' alt='He probado cientos de aplicaciones para editar fotografías y esta app gratis se lleva el oro' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/detenido-intentar-colar-aduana-china-84-ssd-dentro-patinete-electrico-1217634'>Detenido por intentar colar en la aduana china 84 SSD dentro de un patinete eléctrico</a></h4>
     <a href='https://computerhoy.com/life/detenido-intentar-colar-aduana-china-84-ssd-dentro-patinete-electrico-1217634' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/aduana-china-2987736.jpg?tf=1200x' alt='Detenido por intentar colar en la aduana china 84 SSD dentro de un patinete eléctrico' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/diagnostico-medico-inteligencia-artificial-mejora-ia-sector-sanitario-1216122'>Diagnóstico médico con inteligencia artificial: así mejora la IA el sector sanitario</a></h4>
     <a href='https://computerhoy.com/tecnologia/diagnostico-medico-inteligencia-artificial-mejora-ia-sector-sanitario-1216122' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/inteligencia-artificial-2986410.jpg?tf=1200x' alt='Diagnóstico médico con inteligencia artificial: así mejora la IA el sector sanitario' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/hogar/shabosh-mini-lavavajillas-portatil-lava-platos-40-segundos-video-1217176'>Shabosh, el mini lavavajillas portátil que lava los platos en 40 segundos y solo cuesta 89 euros (vídeo)</a></h4>
-    <a href='https://computerhoy.com/hogar/shabosh-mini-lavavajillas-portatil-lava-platos-40-segundos-video-1217176' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/verticalimage1679122456821-2987004.jpg?tf=1200x' alt='Shabosh, el mini lavavajillas portátil que lava los platos en 40 segundos y solo cuesta 89 euros (vídeo)' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/microsoft-probando-billetera-criptomonedas-integrada-navegador-edge-funcionaria-1217586'>Microsoft está probando una billetera de criptomonedas integrada en el navegador Edge y así funcionaría</a></h4>
-    <a href='https://computerhoy.com/windows/microsoft-probando-billetera-criptomonedas-integrada-navegador-edge-funcionaria-1217586' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/edge-billetera-criptomonedas-2987618.jpg?tf=1200x' alt='Microsoft está probando una billetera de criptomonedas integrada en el navegador Edge y así funcionaría' />
     </a>
 </div>
 
