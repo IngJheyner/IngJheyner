@@ -50,9 +50,17 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/civiles-lanzacohetes-impresora-3d-invasion-ucrania-1217654'>Civiles están desarrollando lanzacohetes impresos en 3D: la invasión de Ucrania acelera el proceso</a></h4>
+    <h4><a href='https://computerhoy.com/amazon/amazon-propio-navegador-web-encuesta-1217658'>Amazon podría estar desarrollando su propio navegador, según una encuesta que ha lanzado</a></h4>
+    <a href='https://computerhoy.com/amazon/amazon-propio-navegador-web-encuesta-1217658' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/amazon-podria-estar-desarrollando-propio-navegador-encuesta-ha-lanzado-2987796.jpg?tf=1200x' alt='Amazon podría estar desarrollando su propio navegador, según una encuesta que ha lanzado' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/civiles-lanzacohetes-impresora-3d-invasion-ucrania-1217654'>Civiles están fabricando lanzacohetes impresos en 3D: la invasión de Ucrania acelera el proceso</a></h4>
     <a href='https://computerhoy.com/life/civiles-lanzacohetes-impresora-3d-invasion-ucrania-1217654' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/civiles-estan-desarrollando-lanzacohetes-impresos-3d-invasion-ucrania-acelera-proceso-2987740.jpg?tf=1200x' alt='Civiles están desarrollando lanzacohetes impresos en 3D: la invasión de Ucrania acelera el proceso' />
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/civiles-estan-desarrollando-lanzacohetes-impresos-3d-invasion-ucrania-acelera-proceso-2987740.jpg?tf=1200x' alt='Civiles están fabricando lanzacohetes impresos en 3D: la invasión de Ucrania acelera el proceso' />
     </a>
 </div>
 
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/windows/soporte-tecnico-microsoft-usa-crack-pirata-activar-windows-10-usuario-1217622'>El último recurso del soporte técnico de Microsoft: usar un "crack" pirata para activar Windows 10 a un usuario</a></h4>
     <a href='https://computerhoy.com/windows/soporte-tecnico-microsoft-usa-crack-pirata-activar-windows-10-usuario-1217622' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/microsoft-deja-vender-licencias-windows-10-2932204.jpg?tf=1200x' alt='El último recurso del soporte técnico de Microsoft: usar un "crack" pirata para activar Windows 10 a un usuario' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/diagnostico-medico-inteligencia-artificial-mejora-ia-sector-sanitario-1216122'>Diagnóstico médico con inteligencia artificial: así mejora la IA el sector sanitario</a></h4>
-    <a href='https://computerhoy.com/tecnologia/diagnostico-medico-inteligencia-artificial-mejora-ia-sector-sanitario-1216122' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/inteligencia-artificial-2986410.jpg?tf=1200x' alt='Diagnóstico médico con inteligencia artificial: así mejora la IA el sector sanitario' />
     </a>
 </div>
 
