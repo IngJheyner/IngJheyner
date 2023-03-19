@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/detenido-intentar-colar-aduana-china-84-ssd-dentro-patinete-electrico-1217634'>Detenido por intentar colar en la aduana china 84 SSD dentro de un patinete eléctrico</a></h4>
+    <a href='https://computerhoy.com/life/detenido-intentar-colar-aduana-china-84-ssd-dentro-patinete-electrico-1217634' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/aduana-china-2987736.jpg?tf=1200x' alt='Detenido por intentar colar en la aduana china 84 SSD dentro de un patinete eléctrico' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/windows/soporte-tecnico-microsoft-usa-crack-pirata-activar-windows-10-usuario-1217622'>El último recurso del soporte técnico de Microsoft: usar un "crack" pirata para activar Windows 10 a un usuario</a></h4>
+    <a href='https://computerhoy.com/windows/soporte-tecnico-microsoft-usa-crack-pirata-activar-windows-10-usuario-1217622' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/microsoft-deja-vender-licencias-windows-10-2932204.jpg?tf=1200x' alt='El último recurso del soporte técnico de Microsoft: usar un "crack" pirata para activar Windows 10 a un usuario' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/diagnostico-medico-inteligencia-artificial-mejora-ia-sector-sanitario-1216122'>Diagnóstico médico con inteligencia artificial: así mejora la IA el sector sanitario</a></h4>
+    <a href='https://computerhoy.com/tecnologia/diagnostico-medico-inteligencia-artificial-mejora-ia-sector-sanitario-1216122' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/inteligencia-artificial-2986410.jpg?tf=1200x' alt='Diagnóstico médico con inteligencia artificial: así mejora la IA el sector sanitario' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/hogar/shabosh-mini-lavavajillas-portatil-lava-platos-40-segundos-video-1217176'>Shabosh, el mini lavavajillas portátil que lava los platos en 40 segundos y solo cuesta 89 euros (vídeo)</a></h4>
+    <a href='https://computerhoy.com/hogar/shabosh-mini-lavavajillas-portatil-lava-platos-40-segundos-video-1217176' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/verticalimage1679122456821-2987004.jpg?tf=1200x' alt='Shabosh, el mini lavavajillas portátil que lava los platos en 40 segundos y solo cuesta 89 euros (vídeo)' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/windows/microsoft-probando-billetera-criptomonedas-integrada-navegador-edge-funcionaria-1217586'>Microsoft está probando una billetera de criptomonedas integrada en el navegador Edge y así funcionaría</a></h4>
     <a href='https://computerhoy.com/windows/microsoft-probando-billetera-criptomonedas-integrada-navegador-edge-funcionaria-1217586' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/edge-billetera-criptomonedas-2987618.jpg?tf=1200x' alt='Microsoft está probando una billetera de criptomonedas integrada en el navegador Edge y así funcionaría' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/tiburon-robot-capaz-tragarse-toda-basura-plastica-rio-1217582'>Un tiburón robot capaz de tragarse toda la basura plástica de un río</a></h4>
-    <a href='https://computerhoy.com/ciencia/tiburon-robot-capaz-tragarse-toda-basura-plastica-rio-1217582' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/tiburon-robot-capaz-tragarse-toda-basura-plastica-rio-2987614.jpg?tf=1200x' alt='Un tiburón robot capaz de tragarse toda la basura plástica de un río' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/buscas-trabajo-posible-pronto-tengas-dominar-realidad-virtual-1217576'>Si buscas trabajo, es posible que pronto tengas que dominar la realidad virtual </a></h4>
-    <a href='https://computerhoy.com/ciencia/buscas-trabajo-posible-pronto-tengas-dominar-realidad-virtual-1217576' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/realidad-virtual-trabajo-2987608.jpg?tf=1200x' alt='Si buscas trabajo, es posible que pronto tengas que dominar la realidad virtual ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/7-series-infectados-pandemias-desastres-calmar-mono-last-us-1215762'>7 series sobre infectados, pandemias o desastres para calmar el mono a The Last of Us</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/7-series-infectados-pandemias-desastres-calmar-mono-last-us-1215762' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/last-us-2955020.jpg?tf=1200x' alt='7 series sobre infectados, pandemias o desastres para calmar el mono a The Last of Us' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/crean-robot-configurable-capaz-combinarse-diversas-tareas-espacio-1217574'>Crean una robot configurable capaz de combinarse para diversas tareas en el espacio</a></h4>
-    <a href='https://computerhoy.com/ciencia/crean-robot-configurable-capaz-combinarse-diversas-tareas-espacio-1217574' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/crean-robot-configurable-capaz-combinarse-diversas-tareas-espacio-2987604.jpg?tf=1200x' alt='Crean una robot configurable capaz de combinarse para diversas tareas en el espacio' />
     </a>
 </div>
 
