@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/windows-11-hara-sea-facil-cambiar-aplicaciones-predeterminadas-1217292'>Windows 11 hará que sea más fácil cambiar las aplicaciones predeterminadas</a></h4>
-    <a href='https://computerhoy.com/windows/windows-11-hara-sea-facil-cambiar-aplicaciones-predeterminadas-1217292' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/windows-11-2987236.jpg?tf=1200x' alt='Windows 11 hará que sea más fácil cambiar las aplicaciones predeterminadas' />
+    <h4><a href='https://computerhoy.com/streaming/mercado-streaming-hipercompetitivo-adictivo-saturado-1214018'>El mercado del 'streaming': hipercompetitivo, adictivo y... ¿saturado?</a></h4>
+    <a href='https://computerhoy.com/streaming/mercado-streaming-hipercompetitivo-adictivo-saturado-1214018' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/mercado-streaming-hipercompetitivo-adictivo-saturado-2985794.jpg?tf=1200x' alt='El mercado del 'streaming': hipercompetitivo, adictivo y... ¿saturado?' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/diferencias-hay-televisor-pantalla-oled-qled-1216174'>Qué diferencias hay entre un televisor con pantalla OLED y QLED</a></h4>
-    <a href='https://computerhoy.com/tutoriales/diferencias-hay-televisor-pantalla-oled-qled-1216174' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/oled-vs-qled-2985080.jpg?tf=1200x' alt='Qué diferencias hay entre un televisor con pantalla OLED y QLED' />
+    <h4><a href='https://computerhoy.com/life/corea-sur-quiere-construir-noria-vanguardista-futurista-jamas-hayas-imaginado-1217284'>Corea del Sur quiere construir la noria más vanguardista y futurista que jamás hayas imaginado</a></h4>
+    <a href='https://computerhoy.com/life/corea-sur-quiere-construir-noria-vanguardista-futurista-jamas-hayas-imaginado-1217284' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/corea-sur-quiere-construir-noria-vanguardista-futurista-jamas-hayas-imaginado-2025-2987230.jpg?tf=1200x' alt='Corea del Sur quiere construir la noria más vanguardista y futurista que jamás hayas imaginado' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-tablets-lapiz-dibujar-escribir-849525'>Las mejores tablets con lápiz para dibujar o escribir</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-tablets-lapiz-dibujar-escribir-849525' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/persona-escribiendo-tablet-ipad-stylus-apple-pencil-2986444.jpg?tf=1200x' alt='Las mejores tablets con lápiz para dibujar o escribir' />
+    <h4><a href='https://computerhoy.com/moviles/moviles-han-puesto-pilas-pero-todavia-no-sabemos-eso-bueno-malo-1203236'>Los móviles se han puesto las pilas, pero todavía no sabemos si eso es bueno o malo</a></h4>
+    <a href='https://computerhoy.com/moviles/moviles-han-puesto-pilas-pero-todavia-no-sabemos-eso-bueno-malo-1203236' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/oppo-find-x3-neo-2331655.jpg?tf=1200x' alt='Los móviles se han puesto las pilas, pero todavía no sabemos si eso es bueno o malo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/estudio-demuestra-apariencia-robots-puede-afectar-productividad-laboral-1217272'>Este estudio demuestra que la apariencia de los robots puede afectar a la productividad laboral</a></h4>
-    <a href='https://computerhoy.com/ciencia/estudio-demuestra-apariencia-robots-puede-afectar-productividad-laboral-1217272' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/estudio-demuestra-apariencia-robots-puede-afectar-productividad-laboral-2987216.jpg?tf=1200x' alt='Este estudio demuestra que la apariencia de los robots puede afectar a la productividad laboral' />
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/relojes-inteligentes-electrocardiograma-ecg-estos-son-mejores-758541'>Relojes que hacen electrocardiogramas (ECG): estos son los mejores y más baratos que puedes comprar</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/relojes-inteligentes-electrocardiograma-ecg-estos-son-mejores-758541' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/AppleWatchseries8analisisyopinion_16656440025161195.jpg?tf=1200x' alt='Relojes que hacen electrocardiogramas (ECG): estos son los mejores y más baratos que puedes comprar' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/realidad-virtual/rehabilitacion-medica-realidad-virtual-potencia-proceso-recuperacion-1216698'>Rehabilitación médica con realidad virtual: así potencia el proceso de recuperación</a></h4>
-    <a href='https://computerhoy.com/realidad-virtual/rehabilitacion-medica-realidad-virtual-potencia-proceso-recuperacion-1216698' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/rehabilitacion-medica-realidad-virtual-potencia-proceso-recuperacion-2985952.jpg?tf=1200x' alt='Rehabilitación médica con realidad virtual: así potencia el proceso de recuperación' />
+    <h4><a href='https://computerhoy.com/life/manos-frias-ordenador-solucion-1213968'>Si se te quedan las manos heladas mientras usas el ordenador, aquí tienes la solución</a></h4>
+    <a href='https://computerhoy.com/life/manos-frias-ordenador-solucion-1213968' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/te-quedan-manos-heladas-mientras-usas-ordenador-aqui-tienes-solucion-2981258.jpg?tf=1200x' alt='Si se te quedan las manos heladas mientras usas el ordenador, aquí tienes la solución' />
     </a>
 </div>
 
