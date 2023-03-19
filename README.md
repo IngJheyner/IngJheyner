@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/conexion-usb-estandares-conexion-tipos-conectores-diferencias-1209756'>Conexión USB: estándares de conexión, tipos de conectores y diferencias</a></h4>
-    <a href='https://computerhoy.com/tecnologia/conexion-usb-estandares-conexion-tipos-conectores-diferencias-1209756' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/conectar-usb-ordenador-2986466.jpg?tf=1200x' alt='Conexión USB: estándares de conexión, tipos de conectores y diferencias' />
+    <h4><a href='https://computerhoy.com/ciencia/buscas-trabajo-posible-pronto-tengas-dominar-realidad-virtual-1217576'>Si buscas trabajo, es posible que pronto tengas que dominar la realidad virtual </a></h4>
+    <a href='https://computerhoy.com/ciencia/buscas-trabajo-posible-pronto-tengas-dominar-realidad-virtual-1217576' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/realidad-virtual-trabajo-2987608.jpg?tf=1200x' alt='Si buscas trabajo, es posible que pronto tengas que dominar la realidad virtual ' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/filezilla-como-configurar-ftp-1216106'>Filezilla: qué es y cómo configurar tu FTP</a></h4>
-    <a href='https://computerhoy.com/tutoriales/filezilla-como-configurar-ftp-1216106' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/filezilla-2984704.jpg?tf=1200x' alt='Filezilla: qué es y cómo configurar tu FTP' />
+    <h4><a href='https://computerhoy.com/entretenimiento/7-series-infectados-pandemias-desastres-calmar-mono-last-us-1215762'>7 series sobre infectados, pandemias o desastres para calmar el mono a The Last of Us</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/7-series-infectados-pandemias-desastres-calmar-mono-last-us-1215762' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/last-us-2955020.jpg?tf=1200x' alt='7 series sobre infectados, pandemias o desastres para calmar el mono a The Last of Us' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-plegables-puedes-comprar-1015779'>Mejores móviles plegables que puedes comprar ya</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-plegables-puedes-comprar-1015779' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/oppo-find-n2-flip-2956806.jpg?tf=1200x' alt='Mejores móviles plegables que puedes comprar ya' />
+    <h4><a href='https://computerhoy.com/ciencia/crean-robot-configurable-capaz-combinarse-diversas-tareas-espacio-1217574'>Crean una robot configurable capaz de combinarse para diversas tareas en el espacio</a></h4>
+    <a href='https://computerhoy.com/ciencia/crean-robot-configurable-capaz-combinarse-diversas-tareas-espacio-1217574' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/crean-robot-configurable-capaz-combinarse-diversas-tareas-espacio-2987604.jpg?tf=1200x' alt='Crean una robot configurable capaz de combinarse para diversas tareas en el espacio' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/robots-inteligentes-llegan-supermercados-siempre-encuentres-disponibilidad-productos-favoritos-1217280'>Los robots inteligentes llegan a los supermercados para que siempre encuentres disponibilidad de tus productos favoritos</a></h4>
-    <a href='https://computerhoy.com/ciencia/robots-inteligentes-llegan-supermercados-siempre-encuentres-disponibilidad-productos-favoritos-1217280' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/tally-2987226.jpg?tf=1200x' alt='Los robots inteligentes llegan a los supermercados para que siempre encuentres disponibilidad de tus productos favoritos' />
+    <h4><a href='https://computerhoy.com/life/frases-felicitar-dia-padre-2023-bonitas-originales-1217568'>Frases para felicitar el Día del Padre 2023 bonitas y originales</a></h4>
+    <a href='https://computerhoy.com/life/frases-felicitar-dia-padre-2023-bonitas-originales-1217568' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/dia-padre-2987598.jpg?tf=1200x' alt='Frases para felicitar el Día del Padre 2023 bonitas y originales' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/streaming/mercado-streaming-hipercompetitivo-adictivo-saturado-1214018'>El mercado del 'streaming': hipercompetitivo, adictivo y... ¿saturado?</a></h4>
-    <a href='https://computerhoy.com/streaming/mercado-streaming-hipercompetitivo-adictivo-saturado-1214018' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/mercado-streaming-hipercompetitivo-adictivo-saturado-2985794.jpg?tf=1200x' alt='El mercado del 'streaming': hipercompetitivo, adictivo y... ¿saturado?' />
+    <h4><a href='https://computerhoy.com/tutoriales/como-nos-enganan-anuncios-1216826'>Cómo nos engañan los anuncios</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-nos-enganan-anuncios-1216826' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/publicidad-times-square-2311621.jpg?tf=1200x' alt='Cómo nos engañan los anuncios' />
     </a>
 </div>
 
