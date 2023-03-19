@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/windows/microsoft-probando-billetera-criptomonedas-integrada-navegador-edge-funcionaria-1217586'>Microsoft está probando una billetera de criptomonedas integrada en el navegador Edge y así funcionaría</a></h4>
+    <a href='https://computerhoy.com/windows/microsoft-probando-billetera-criptomonedas-integrada-navegador-edge-funcionaria-1217586' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/edge-billetera-criptomonedas-2987618.jpg?tf=1200x' alt='Microsoft está probando una billetera de criptomonedas integrada en el navegador Edge y así funcionaría' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/tiburon-robot-capaz-tragarse-toda-basura-plastica-rio-1217582'>Un tiburón robot capaz de tragarse toda la basura plástica de un río</a></h4>
+    <a href='https://computerhoy.com/ciencia/tiburon-robot-capaz-tragarse-toda-basura-plastica-rio-1217582' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/tiburon-robot-capaz-tragarse-toda-basura-plastica-rio-2987614.jpg?tf=1200x' alt='Un tiburón robot capaz de tragarse toda la basura plástica de un río' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciencia/buscas-trabajo-posible-pronto-tengas-dominar-realidad-virtual-1217576'>Si buscas trabajo, es posible que pronto tengas que dominar la realidad virtual </a></h4>
     <a href='https://computerhoy.com/ciencia/buscas-trabajo-posible-pronto-tengas-dominar-realidad-virtual-1217576' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/realidad-virtual-trabajo-2987608.jpg?tf=1200x' alt='Si buscas trabajo, es posible que pronto tengas que dominar la realidad virtual ' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/ciencia/crean-robot-configurable-capaz-combinarse-diversas-tareas-espacio-1217574'>Crean una robot configurable capaz de combinarse para diversas tareas en el espacio</a></h4>
     <a href='https://computerhoy.com/ciencia/crean-robot-configurable-capaz-combinarse-diversas-tareas-espacio-1217574' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/crean-robot-configurable-capaz-combinarse-diversas-tareas-espacio-2987604.jpg?tf=1200x' alt='Crean una robot configurable capaz de combinarse para diversas tareas en el espacio' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/frases-felicitar-dia-padre-2023-bonitas-originales-1217568'>Frases para felicitar el Día del Padre 2023 bonitas y originales</a></h4>
-    <a href='https://computerhoy.com/life/frases-felicitar-dia-padre-2023-bonitas-originales-1217568' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/dia-padre-2987598.jpg?tf=1200x' alt='Frases para felicitar el Día del Padre 2023 bonitas y originales' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-nos-enganan-anuncios-1216826'>Cómo nos engañan los anuncios</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-nos-enganan-anuncios-1216826' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/publicidad-times-square-2311621.jpg?tf=1200x' alt='Cómo nos engañan los anuncios' />
     </a>
 </div>
 
