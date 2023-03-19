@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/conexion-usb-estandares-conexion-tipos-conectores-diferencias-1209756'>Conexión USB: estándares de conexión, tipos de conectores y diferencias</a></h4>
+    <a href='https://computerhoy.com/tecnologia/conexion-usb-estandares-conexion-tipos-conectores-diferencias-1209756' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/conectar-usb-ordenador-2986466.jpg?tf=1200x' alt='Conexión USB: estándares de conexión, tipos de conectores y diferencias' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/filezilla-como-configurar-ftp-1216106'>Filezilla: qué es y cómo configurar tu FTP</a></h4>
+    <a href='https://computerhoy.com/tutoriales/filezilla-como-configurar-ftp-1216106' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/filezilla-2984704.jpg?tf=1200x' alt='Filezilla: qué es y cómo configurar tu FTP' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-plegables-puedes-comprar-1015779'>Mejores móviles plegables que puedes comprar ya</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-plegables-puedes-comprar-1015779' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/oppo-find-n2-flip-2956806.jpg?tf=1200x' alt='Mejores móviles plegables que puedes comprar ya' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/robots-inteligentes-llegan-supermercados-siempre-encuentres-disponibilidad-productos-favoritos-1217280'>Los robots inteligentes llegan a los supermercados para que siempre encuentres disponibilidad de tus productos favoritos</a></h4>
+    <a href='https://computerhoy.com/ciencia/robots-inteligentes-llegan-supermercados-siempre-encuentres-disponibilidad-productos-favoritos-1217280' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/tally-2987226.jpg?tf=1200x' alt='Los robots inteligentes llegan a los supermercados para que siempre encuentres disponibilidad de tus productos favoritos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/streaming/mercado-streaming-hipercompetitivo-adictivo-saturado-1214018'>El mercado del 'streaming': hipercompetitivo, adictivo y... ¿saturado?</a></h4>
     <a href='https://computerhoy.com/streaming/mercado-streaming-hipercompetitivo-adictivo-saturado-1214018' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/mercado-streaming-hipercompetitivo-adictivo-saturado-2985794.jpg?tf=1200x' alt='El mercado del 'streaming': hipercompetitivo, adictivo y... ¿saturado?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/corea-sur-quiere-construir-noria-vanguardista-futurista-jamas-hayas-imaginado-1217284'>Corea del Sur quiere construir la noria más vanguardista y futurista que jamás hayas imaginado</a></h4>
-    <a href='https://computerhoy.com/life/corea-sur-quiere-construir-noria-vanguardista-futurista-jamas-hayas-imaginado-1217284' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/corea-sur-quiere-construir-noria-vanguardista-futurista-jamas-hayas-imaginado-2025-2987230.jpg?tf=1200x' alt='Corea del Sur quiere construir la noria más vanguardista y futurista que jamás hayas imaginado' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/moviles-han-puesto-pilas-pero-todavia-no-sabemos-eso-bueno-malo-1203236'>Los móviles se han puesto las pilas, pero todavía no sabemos si eso es bueno o malo</a></h4>
-    <a href='https://computerhoy.com/moviles/moviles-han-puesto-pilas-pero-todavia-no-sabemos-eso-bueno-malo-1203236' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/oppo-find-x3-neo-2331655.jpg?tf=1200x' alt='Los móviles se han puesto las pilas, pero todavía no sabemos si eso es bueno o malo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/relojes-inteligentes-electrocardiograma-ecg-estos-son-mejores-758541'>Relojes que hacen electrocardiogramas (ECG): estos son los mejores y más baratos que puedes comprar</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/relojes-inteligentes-electrocardiograma-ecg-estos-son-mejores-758541' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/AppleWatchseries8analisisyopinion_16656440025161195.jpg?tf=1200x' alt='Relojes que hacen electrocardiogramas (ECG): estos son los mejores y más baratos que puedes comprar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/manos-frias-ordenador-solucion-1213968'>Si se te quedan las manos heladas mientras usas el ordenador, aquí tienes la solución</a></h4>
-    <a href='https://computerhoy.com/life/manos-frias-ordenador-solucion-1213968' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/te-quedan-manos-heladas-mientras-usas-ordenador-aqui-tienes-solucion-2981258.jpg?tf=1200x' alt='Si se te quedan las manos heladas mientras usas el ordenador, aquí tienes la solución' />
     </a>
 </div>
 
