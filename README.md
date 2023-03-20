@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/amazon/amazon-propio-navegador-web-encuesta-1217658'>Amazon podría estar desarrollando su propio navegador, según una encuesta que ha lanzado</a></h4>
-    <a href='https://computerhoy.com/amazon/amazon-propio-navegador-web-encuesta-1217658' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/amazon-podria-estar-desarrollando-propio-navegador-encuesta-ha-lanzado-2987796.jpg?tf=1200x' alt='Amazon podría estar desarrollando su propio navegador, según una encuesta que ha lanzado' />
+    <h4><a href='https://computerhoy.com/tutoriales/como-actualizar-directx-windows-1211072'>Cómo y por qué actualizar DirectX en Windows</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-actualizar-directx-windows-1211072' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/directx-2975866.jpg?tf=1200x' alt='Cómo y por qué actualizar DirectX en Windows' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/civiles-lanzacohetes-impresora-3d-invasion-ucrania-1217654'>Civiles están fabricando lanzacohetes impresos en 3D: la invasión de Ucrania acelera el proceso</a></h4>
-    <a href='https://computerhoy.com/life/civiles-lanzacohetes-impresora-3d-invasion-ucrania-1217654' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/civiles-estan-desarrollando-lanzacohetes-impresos-3d-invasion-ucrania-acelera-proceso-2987740.jpg?tf=1200x' alt='Civiles están fabricando lanzacohetes impresos en 3D: la invasión de Ucrania acelera el proceso' />
+    <h4><a href='https://computerhoy.com/reportajes/life/mejores-cafeteras-capsulas-nespresso-1123759'>Cafeteras de cápsulas Nespresso: estas son las mejores que puedes comprar</a></h4>
+    <a href='https://computerhoy.com/reportajes/life/mejores-cafeteras-capsulas-nespresso-1123759' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/cafetera-capsulas-nespresso-2986526.jpg?tf=1200x' alt='Cafeteras de cápsulas Nespresso: estas son las mejores que puedes comprar' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/he-probado-cientos-aplicaciones-editar-fotografias-app-gratis-lleva-oro-1216014'>He probado cientos de aplicaciones para editar fotografías y esta app gratis se lleva el oro</a></h4>
-    <a href='https://computerhoy.com/apps/he-probado-cientos-aplicaciones-editar-fotografias-app-gratis-lleva-oro-1216014' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/he-probado-cientos-aplicaciones-editar-fotografias-app-gratis-lleva-oro-2986310.jpg?tf=1200x' alt='He probado cientos de aplicaciones para editar fotografías y esta app gratis se lleva el oro' />
+    <h4><a href='https://computerhoy.com/ciberseguridad/nuevos-grandes-retos-ciberseguridad-expertos-inteligencia-artificial-ransomware-hacktivismo-1214016'>Los nuevos y grandes retos en ciberseguridad, según expertos: inteligencia artificial, 'ransomware' y 'hacktivismo'</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/nuevos-grandes-retos-ciberseguridad-expertos-inteligencia-artificial-ransomware-hacktivismo-1214016' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/nuevos-grandes-retos-ciberseguridad-inteligencia-artificial-ransomware-hacktivismo-2986430.jpg?tf=1200x' alt='Los nuevos y grandes retos en ciberseguridad, según expertos: inteligencia artificial, 'ransomware' y 'hacktivismo'' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/detenido-intentar-colar-aduana-china-84-ssd-dentro-patinete-electrico-1217634'>Detenido por intentar colar en la aduana china 84 SSD dentro de un patinete eléctrico</a></h4>
-    <a href='https://computerhoy.com/life/detenido-intentar-colar-aduana-china-84-ssd-dentro-patinete-electrico-1217634' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/aduana-china-2987736.jpg?tf=1200x' alt='Detenido por intentar colar en la aduana china 84 SSD dentro de un patinete eléctrico' />
+    <h4><a href='https://computerhoy.com/perifericos/cable-me-salvo-vida-mwc-importancia-cables-usb-c-1214930'>El cable que me salvó la vida en el MWC: la importancia de los cables USB-C</a></h4>
+    <a href='https://computerhoy.com/perifericos/cable-me-salvo-vida-mwc-importancia-cables-usb-c-1214930' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/usb-smartphone-2692103.jpg?tf=1200x' alt='El cable que me salvó la vida en el MWC: la importancia de los cables USB-C' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/soporte-tecnico-microsoft-usa-crack-pirata-activar-windows-10-usuario-1217622'>El último recurso del soporte técnico de Microsoft: usar un "crack" pirata para activar Windows 10 a un usuario</a></h4>
-    <a href='https://computerhoy.com/windows/soporte-tecnico-microsoft-usa-crack-pirata-activar-windows-10-usuario-1217622' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/microsoft-deja-vender-licencias-windows-10-2932204.jpg?tf=1200x' alt='El último recurso del soporte técnico de Microsoft: usar un "crack" pirata para activar Windows 10 a un usuario' />
+    <h4><a href='https://computerhoy.com/tecnologia/35-noticias-tecnologia-comenzar-manana-informado-ultimo-1217664'>35 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
+    <a href='https://computerhoy.com/tecnologia/35-noticias-tecnologia-comenzar-manana-informado-ultimo-1217664' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/34-noticias-tecnologia-comenzar-manana-informado-ultimo-2987808.jpg?tf=1200x' alt='35 noticias de tecnología para comenzar la mañana informado de lo último' />
     </a>
 </div>
 
