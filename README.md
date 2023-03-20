@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/google-maps-version-web-barra-lateral-1218030'>Google Maps se actualiza con una nueva característica que te encantará si usas la versión web</a></h4>
-    <a href='https://computerhoy.com/google/google-maps-version-web-barra-lateral-1218030' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/google-maps-actualiza-nueva-caracteristica-te-encantara-usas-version-web-2988198.jpg?tf=1200x' alt='Google Maps se actualiza con una nueva característica que te encantará si usas la versión web' />
+    <h4><a href='https://computerhoy.com/espacio/cuantas-lunas-tiene-tierra-1218064'>¿Cuántas lunas tiene la Tierra? La respuesta no siempre es una...</a></h4>
+    <a href='https://computerhoy.com/espacio/cuantas-lunas-tiene-tierra-1218064' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/cuantas-lunas-tiene-tierra-respuesta-no-2988256.jpg?tf=1200x' alt='¿Cuántas lunas tiene la Tierra? La respuesta no siempre es una...' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-sistemas-alarma-seguridad-puedes-comprar-solo-pagaras-vez-989503'>Mejores sistemas de alarma y seguridad que puedes comprar (y que solo pagarás una vez)</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-sistemas-alarma-seguridad-puedes-comprar-solo-pagaras-vez-989503' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/ring-alarm-2986604.jpg?tf=1200x' alt='Mejores sistemas de alarma y seguridad que puedes comprar (y que solo pagarás una vez)' />
+    <h4><a href='https://computerhoy.com/amazon/amazon-despide-9000-empleados-twitch-gran-afectada-1218058'>Amazon despide a otros 9.000 empleados, Twitch es la gran afectada </a></h4>
+    <a href='https://computerhoy.com/amazon/amazon-despide-9000-empleados-twitch-gran-afectada-1218058' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/amazon-despide-otros-9000-empleados-twitch-gran-afectada-2988248.jpg?tf=1200x' alt='Amazon despide a otros 9.000 empleados, Twitch es la gran afectada ' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/energia/centro-datos-usa-calor-sobrante-calentar-piscina-publica-1217978'>Un centro de datos usa el calor sobrante para calentar una piscina pública, ahorrando 23.000 euros al año al ayuntamiento</a></h4>
-    <a href='https://computerhoy.com/energia/centro-datos-usa-calor-sobrante-calentar-piscina-publica-1217978' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/centro-datos-usa-calor-sobrante-calentar-piscina-publica-ahorrando-24000-dolares-ano-ayuntamiento-2988180.jpg?tf=1200x' alt='Un centro de datos usa el calor sobrante para calentar una piscina pública, ahorrando 23.000 euros al año al ayuntamiento' />
+    <h4><a href='https://computerhoy.com/google/google-chrome-ya-permite-deshabilitar-todas-extensiones-solo-clic-1218054'>Google Chrome ya permite deshabilitar todas las extensiones con un solo clic</a></h4>
+    <a href='https://computerhoy.com/google/google-chrome-ya-permite-deshabilitar-todas-extensiones-solo-clic-1218054' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/7-mejores-extensiones-chrome-estas-buscando-trabajo-2963964.jpg?tf=1200x' alt='Google Chrome ya permite deshabilitar todas las extensiones con un solo clic' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/microsoft-planea-lanzar-tienda-juegos-movil-2024-necesita-activision-blizzard-1217950'>Microsoft planea lanzar su tienda de juegos para móvil en 2024... pero necesita a Activision Blizzard</a></h4>
-    <a href='https://computerhoy.com/apps/microsoft-planea-lanzar-tienda-juegos-movil-2024-necesita-activision-blizzard-1217950' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/microsoft-planea-lanzar-tienda-juegos-moviles-2024-pero-necesita-activision-blizzard-2988140.jpg?tf=1200x' alt='Microsoft planea lanzar su tienda de juegos para móvil en 2024... pero necesita a Activision Blizzard' />
+    <h4><a href='https://computerhoy.com/apps/guionistas-pongase-temblar-ultimo-episodio-south-park-fue-escrito-chatgpt-1218052'>Guionistas póngase a temblar: el último episodio de South Park fue escrito por ChatGPT</a></h4>
+    <a href='https://computerhoy.com/apps/guionistas-pongase-temblar-ultimo-episodio-south-park-fue-escrito-chatgpt-1218052' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/chatgpt-south-park-2988250.jpg?tf=1200x' alt='Guionistas póngase a temblar: el último episodio de South Park fue escrito por ChatGPT' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/gaming/netflix-games-videojuegos-2023-nuevos-titulos-1217604'>Netflix quiere convertirse en una editora de juegos de referencia en 2023: anuncia un Assasin's Creed, juegos en la nube</a></h4>
-    <a href='https://computerhoy.com/gaming/netflix-games-videojuegos-2023-nuevos-titulos-1217604' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/netflix-quiere-convertirse-editora-juegos-referencia-2023-estos-son-nuevos-titulos-lanzara-2987658.jpg?tf=1200x' alt='Netflix quiere convertirse en una editora de juegos de referencia en 2023: anuncia un Assasin's Creed, juegos en la nube' />
+    <h4><a href='https://computerhoy.com/streaming/cuando-estrenara-temporada-2-the-last-of-us-1218048'>Bella Ramsey revela cuándo se estrenará la temporada 2 de The Last of Us, y algunas novedades de la trama</a></h4>
+    <a href='https://computerhoy.com/streaming/cuando-estrenara-temporada-2-the-last-of-us-1218048' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/last-us-1x09-2981900.jpg?tf=1200x' alt='Bella Ramsey revela cuándo se estrenará la temporada 2 de The Last of Us, y algunas novedades de la trama' />
     </a>
 </div>
 
