@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/microsoft-planea-lanzar-tienda-juegos-movil-2024-necesita-activision-blizzard-1217950'>Microsoft planea lanzar su tienda de juegos para móvil en 2024... pero necesita a Activision Blizzard</a></h4>
+    <a href='https://computerhoy.com/apps/microsoft-planea-lanzar-tienda-juegos-movil-2024-necesita-activision-blizzard-1217950' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/microsoft-planea-lanzar-tienda-juegos-moviles-2024-pero-necesita-activision-blizzard-2988140.jpg?tf=1200x' alt='Microsoft planea lanzar su tienda de juegos para móvil en 2024... pero necesita a Activision Blizzard' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/gaming/netflix-games-videojuegos-2023-nuevos-titulos-1217604'>Netflix quiere convertirse en una editora de juegos de referencia en 2023: anuncia un Assasin's Creed, juegos en la nube</a></h4>
+    <a href='https://computerhoy.com/gaming/netflix-games-videojuegos-2023-nuevos-titulos-1217604' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/netflix-quiere-convertirse-editora-juegos-referencia-2023-estos-son-nuevos-titulos-lanzara-2987658.jpg?tf=1200x' alt='Netflix quiere convertirse en una editora de juegos de referencia en 2023: anuncia un Assasin's Creed, juegos en la nube' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/pc/tarjetas-rtx-4070-rtx-4060-1217928'>Se filtran las esperadas tarjetas RTX 4070 y 4060</a></h4>
     <a href='https://computerhoy.com/pc/tarjetas-rtx-4070-rtx-4060-1217928' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/filtran-esperadas-tarjetas-rtx-4070-4060-2988092.jpg?tf=1200x' alt='Se filtran las esperadas tarjetas RTX 4070 y 4060' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/redes-sociales/elon-musk-nueva-funcionalidad-twitter-emoji-caca-ojos-prensa-1217882'>Elon Musk anuncia una nueva funcionalidad de Twitter: emoji de caca con ojos para los periodistas</a></h4>
     <a href='https://computerhoy.com/redes-sociales/elon-musk-nueva-funcionalidad-twitter-emoji-caca-ojos-prensa-1217882' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/elon-musk-anuncia-nueva-funcionalidad-twitter-emoji-caca-ojos-periodistas-2988012.jpg?tf=1200x' alt='Elon Musk anuncia una nueva funcionalidad de Twitter: emoji de caca con ojos para los periodistas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/diferencias-hay-vitroceramica-placa-induccion-1216808'>Qué diferencias hay entre una vitrocerámica y una placa de inducción</a></h4>
-    <a href='https://computerhoy.com/tutoriales/diferencias-hay-vitroceramica-placa-induccion-1216808' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/vitroceramica-induccion-2987794.jpg?tf=1200x' alt='Qué diferencias hay entre una vitrocerámica y una placa de inducción' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/pc-huawei-sorprendentemente-barato-trabajar-sobresaliente-1216818'>Este PC de Huawei es sorprendentemente barato y para trabajar es sobresaliente</a></h4>
-    <a href='https://computerhoy.com/tecnologia/pc-huawei-sorprendentemente-barato-trabajar-sobresaliente-1216818' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/galeria-review-huawei-matestation-s-2593287.jpg?tf=1200x' alt='Este PC de Huawei es sorprendentemente barato y para trabajar es sobresaliente' />
     </a>
 </div>
 
