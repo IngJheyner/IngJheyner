@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/pc/tarjetas-rtx-4070-rtx-4060-1217928'>Se filtran las esperadas tarjetas RTX 4070 y 4060</a></h4>
+    <a href='https://computerhoy.com/pc/tarjetas-rtx-4070-rtx-4060-1217928' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/filtran-esperadas-tarjetas-rtx-4070-4060-2988092.jpg?tf=1200x' alt='Se filtran las esperadas tarjetas RTX 4070 y 4060' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/windows/windows-11-opcion-recibir-actualizaciones-antes-posible-1217908'>Windows 11 estrena una opción casi suicida: recibir las actualizaciones lo antes posible</a></h4>
+    <a href='https://computerhoy.com/windows/windows-11-opcion-recibir-actualizaciones-antes-posible-1217908' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/windows-11-2960440.jpg?tf=1200x' alt='Windows 11 estrena una opción casi suicida: recibir las actualizaciones lo antes posible' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/redes-sociales/elon-musk-nueva-funcionalidad-twitter-emoji-caca-ojos-prensa-1217882'>Elon Musk anuncia una nueva funcionalidad de Twitter: emoji de caca con ojos para los periodistas</a></h4>
     <a href='https://computerhoy.com/redes-sociales/elon-musk-nueva-funcionalidad-twitter-emoji-caca-ojos-prensa-1217882' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/elon-musk-anuncia-nueva-funcionalidad-twitter-emoji-caca-ojos-periodistas-2988012.jpg?tf=1200x' alt='Elon Musk anuncia una nueva funcionalidad de Twitter: emoji de caca con ojos para los periodistas' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/pc-huawei-sorprendentemente-barato-trabajar-sobresaliente-1216818'>Este PC de Huawei es sorprendentemente barato y para trabajar es sobresaliente</a></h4>
     <a href='https://computerhoy.com/tecnologia/pc-huawei-sorprendentemente-barato-trabajar-sobresaliente-1216818' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/galeria-review-huawei-matestation-s-2593287.jpg?tf=1200x' alt='Este PC de Huawei es sorprendentemente barato y para trabajar es sobresaliente' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-actualizar-instagram-ultima-version-1214926'>Cómo actualizar Instagram a su última versión</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-actualizar-instagram-ultima-version-1214926' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/instagram-2982916.jpg?tf=1200x' alt='Cómo actualizar Instagram a su última versión' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-proteger-pestana-incognito-chrome-huella-dactilar-1203404'>Cómo proteger una pestaña incógnito de Chrome con tu huella dactilar</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-proteger-pestana-incognito-chrome-huella-dactilar-1203404' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/incognito-huella-dactilar-2962086.jpg?tf=1200x' alt='Cómo proteger una pestaña incógnito de Chrome con tu huella dactilar' />
     </a>
 </div>
 
