@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/google/google-maps-version-web-barra-lateral-1218030'>Google Maps se actualiza con una nueva característica que te encantará si usas la versión web</a></h4>
+    <a href='https://computerhoy.com/google/google-maps-version-web-barra-lateral-1218030' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/google-maps-actualiza-nueva-caracteristica-te-encantara-usas-version-web-2988198.jpg?tf=1200x' alt='Google Maps se actualiza con una nueva característica que te encantará si usas la versión web' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-sistemas-alarma-seguridad-puedes-comprar-solo-pagaras-vez-989503'>Mejores sistemas de alarma y seguridad que puedes comprar (y que solo pagarás una vez)</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-sistemas-alarma-seguridad-puedes-comprar-solo-pagaras-vez-989503' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/ring-alarm-2986604.jpg?tf=1200x' alt='Mejores sistemas de alarma y seguridad que puedes comprar (y que solo pagarás una vez)' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/energia/centro-datos-usa-calor-sobrante-calentar-piscina-publica-1217978'>Un centro de datos usa el calor sobrante para calentar una piscina pública, ahorrando 23.000 euros al año al ayuntamiento</a></h4>
+    <a href='https://computerhoy.com/energia/centro-datos-usa-calor-sobrante-calentar-piscina-publica-1217978' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/centro-datos-usa-calor-sobrante-calentar-piscina-publica-ahorrando-24000-dolares-ano-ayuntamiento-2988180.jpg?tf=1200x' alt='Un centro de datos usa el calor sobrante para calentar una piscina pública, ahorrando 23.000 euros al año al ayuntamiento' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apps/microsoft-planea-lanzar-tienda-juegos-movil-2024-necesita-activision-blizzard-1217950'>Microsoft planea lanzar su tienda de juegos para móvil en 2024... pero necesita a Activision Blizzard</a></h4>
     <a href='https://computerhoy.com/apps/microsoft-planea-lanzar-tienda-juegos-movil-2024-necesita-activision-blizzard-1217950' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/microsoft-planea-lanzar-tienda-juegos-moviles-2024-pero-necesita-activision-blizzard-2988140.jpg?tf=1200x' alt='Microsoft planea lanzar su tienda de juegos para móvil en 2024... pero necesita a Activision Blizzard' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/gaming/netflix-games-videojuegos-2023-nuevos-titulos-1217604'>Netflix quiere convertirse en una editora de juegos de referencia en 2023: anuncia un Assasin's Creed, juegos en la nube</a></h4>
     <a href='https://computerhoy.com/gaming/netflix-games-videojuegos-2023-nuevos-titulos-1217604' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/netflix-quiere-convertirse-editora-juegos-referencia-2023-estos-son-nuevos-titulos-lanzara-2987658.jpg?tf=1200x' alt='Netflix quiere convertirse en una editora de juegos de referencia en 2023: anuncia un Assasin's Creed, juegos en la nube' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/tarjetas-rtx-4070-rtx-4060-1217928'>Se filtran las esperadas tarjetas RTX 4070 y 4060</a></h4>
-    <a href='https://computerhoy.com/pc/tarjetas-rtx-4070-rtx-4060-1217928' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/filtran-esperadas-tarjetas-rtx-4070-4060-2988092.jpg?tf=1200x' alt='Se filtran las esperadas tarjetas RTX 4070 y 4060' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/windows-11-opcion-recibir-actualizaciones-antes-posible-1217908'>Windows 11 estrena una opción casi suicida: recibir las actualizaciones lo antes posible</a></h4>
-    <a href='https://computerhoy.com/windows/windows-11-opcion-recibir-actualizaciones-antes-posible-1217908' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/windows-11-2960440.jpg?tf=1200x' alt='Windows 11 estrena una opción casi suicida: recibir las actualizaciones lo antes posible' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/redes-sociales/elon-musk-nueva-funcionalidad-twitter-emoji-caca-ojos-prensa-1217882'>Elon Musk anuncia una nueva funcionalidad de Twitter: emoji de caca con ojos para los periodistas</a></h4>
-    <a href='https://computerhoy.com/redes-sociales/elon-musk-nueva-funcionalidad-twitter-emoji-caca-ojos-prensa-1217882' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/elon-musk-anuncia-nueva-funcionalidad-twitter-emoji-caca-ojos-periodistas-2988012.jpg?tf=1200x' alt='Elon Musk anuncia una nueva funcionalidad de Twitter: emoji de caca con ojos para los periodistas' />
     </a>
 </div>
 
