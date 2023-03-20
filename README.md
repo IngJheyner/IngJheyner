@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-actualizar-directx-windows-1211072'>Cómo y por qué actualizar DirectX en Windows</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-actualizar-directx-windows-1211072' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/directx-2975866.jpg?tf=1200x' alt='Cómo y por qué actualizar DirectX en Windows' />
+    <h4><a href='https://computerhoy.com/redes-sociales/elon-musk-nueva-funcionalidad-twitter-emoji-caca-ojos-prensa-1217882'>Elon Musk anuncia una nueva funcionalidad de Twitter: emoji de caca con ojos para los periodistas</a></h4>
+    <a href='https://computerhoy.com/redes-sociales/elon-musk-nueva-funcionalidad-twitter-emoji-caca-ojos-prensa-1217882' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/elon-musk-anuncia-nueva-funcionalidad-twitter-emoji-caca-ojos-periodistas-2988012.jpg?tf=1200x' alt='Elon Musk anuncia una nueva funcionalidad de Twitter: emoji de caca con ojos para los periodistas' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/life/mejores-cafeteras-capsulas-nespresso-1123759'>Cafeteras de cápsulas Nespresso: estas son las mejores que puedes comprar</a></h4>
-    <a href='https://computerhoy.com/reportajes/life/mejores-cafeteras-capsulas-nespresso-1123759' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/cafetera-capsulas-nespresso-2986526.jpg?tf=1200x' alt='Cafeteras de cápsulas Nespresso: estas son las mejores que puedes comprar' />
+    <h4><a href='https://computerhoy.com/tutoriales/diferencias-hay-vitroceramica-placa-induccion-1216808'>Qué diferencias hay entre una vitrocerámica y una placa de inducción</a></h4>
+    <a href='https://computerhoy.com/tutoriales/diferencias-hay-vitroceramica-placa-induccion-1216808' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/vitroceramica-induccion-2987794.jpg?tf=1200x' alt='Qué diferencias hay entre una vitrocerámica y una placa de inducción' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/nuevos-grandes-retos-ciberseguridad-expertos-inteligencia-artificial-ransomware-hacktivismo-1214016'>Los nuevos y grandes retos en ciberseguridad, según expertos: inteligencia artificial, 'ransomware' y 'hacktivismo'</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/nuevos-grandes-retos-ciberseguridad-expertos-inteligencia-artificial-ransomware-hacktivismo-1214016' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/nuevos-grandes-retos-ciberseguridad-inteligencia-artificial-ransomware-hacktivismo-2986430.jpg?tf=1200x' alt='Los nuevos y grandes retos en ciberseguridad, según expertos: inteligencia artificial, 'ransomware' y 'hacktivismo'' />
+    <h4><a href='https://computerhoy.com/tecnologia/pc-huawei-sorprendentemente-barato-trabajar-sobresaliente-1216818'>Este PC de Huawei es sorprendentemente barato y para trabajar es sobresaliente</a></h4>
+    <a href='https://computerhoy.com/tecnologia/pc-huawei-sorprendentemente-barato-trabajar-sobresaliente-1216818' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/galeria-review-huawei-matestation-s-2593287.jpg?tf=1200x' alt='Este PC de Huawei es sorprendentemente barato y para trabajar es sobresaliente' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/perifericos/cable-me-salvo-vida-mwc-importancia-cables-usb-c-1214930'>El cable que me salvó la vida en el MWC: la importancia de los cables USB-C</a></h4>
-    <a href='https://computerhoy.com/perifericos/cable-me-salvo-vida-mwc-importancia-cables-usb-c-1214930' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/usb-smartphone-2692103.jpg?tf=1200x' alt='El cable que me salvó la vida en el MWC: la importancia de los cables USB-C' />
+    <h4><a href='https://computerhoy.com/tutoriales/como-actualizar-instagram-ultima-version-1214926'>Cómo actualizar Instagram a su última versión</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-actualizar-instagram-ultima-version-1214926' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/instagram-2982916.jpg?tf=1200x' alt='Cómo actualizar Instagram a su última versión' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/35-noticias-tecnologia-comenzar-manana-informado-ultimo-1217664'>35 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
-    <a href='https://computerhoy.com/tecnologia/35-noticias-tecnologia-comenzar-manana-informado-ultimo-1217664' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/34-noticias-tecnologia-comenzar-manana-informado-ultimo-2987808.jpg?tf=1200x' alt='35 noticias de tecnología para comenzar la mañana informado de lo último' />
+    <h4><a href='https://computerhoy.com/tutoriales/como-proteger-pestana-incognito-chrome-huella-dactilar-1203404'>Cómo proteger una pestaña incógnito de Chrome con tu huella dactilar</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-proteger-pestana-incognito-chrome-huella-dactilar-1203404' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/incognito-huella-dactilar-2962086.jpg?tf=1200x' alt='Cómo proteger una pestaña incógnito de Chrome con tu huella dactilar' />
     </a>
 </div>
 
