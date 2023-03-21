@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/13-aniversario-aliexpress-ofertas-cupones-mejores-productos-1218282'>13 aniversario de AliExpress: cupones descuento y mejores chollos para aprovecharlos</a></h4>
-    <a href='https://computerhoy.com/tecnologia/13-aniversario-aliexpress-ofertas-cupones-mejores-productos-1218282' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/portada-aliexpress-2988570.jpg?tf=1200x' alt='13 aniversario de AliExpress: cupones descuento y mejores chollos para aprovecharlos' />
+    <h4><a href='https://computerhoy.com/internet/creadora-onlyfans-ha-ganado-6-millones-comparte-estrategias-exito-1218374'>Una creadora de OnlyFans que ha ganado más de 6 millones comparte sus estrategias de éxito</a></h4>
+    <a href='https://computerhoy.com/internet/creadora-onlyfans-ha-ganado-6-millones-comparte-estrategias-exito-1218374' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/bryce-adams-only-fans-2988786.jpg?tf=1200x' alt='Una creadora de OnlyFans que ha ganado más de 6 millones comparte sus estrategias de éxito' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/elimina-ya-detectan-34-populares-apps-android-infectadas-peligroso-malware-1218306'>¡Elimina ya! Detectan 34 populares apps para Android infectadas por un peligroso malware</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/elimina-ya-detectan-34-populares-apps-android-infectadas-peligroso-malware-1218306' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/google-play-store-2810081.jpg?tf=1200x' alt='¡Elimina ya! Detectan 34 populares apps para Android infectadas por un peligroso malware' />
+    <h4><a href='https://computerhoy.com/streaming/netflix-quiere-parar-huida-suscriptores-potenciando-funcion-no-interesa-casi-nadie-1218358'>Netflix quiere parar la huída de suscriptores potenciando una función que no le interesa a casi nadie</a></h4>
+    <a href='https://computerhoy.com/streaming/netflix-quiere-parar-huida-suscriptores-potenciando-funcion-no-interesa-casi-nadie-1218358' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/netflix-quiere-parar-huida-suscriptores-potenciando-funcion-no-interesa-casi-nadie-2988678.jpg?tf=1200x' alt='Netflix quiere parar la huída de suscriptores potenciando una función que no le interesa a casi nadie' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/unidades-disco-duro-hdd-actuales-no-sobrepasan-3-anos-durabilidad-1218318'>Las unidades de disco duro HDD más actuales no sobrepasan los 3 años de durabilidad</a></h4>
-    <a href='https://computerhoy.com/tecnologia/unidades-disco-duro-hdd-actuales-no-sobrepasan-3-anos-durabilidad-1218318' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/disco-duro-2769499.jpg?tf=1200x' alt='Las unidades de disco duro HDD más actuales no sobrepasan los 3 años de durabilidad' />
+    <h4><a href='https://computerhoy.com/tecnologia/oneplus-11-oferta-aliexpress-codigo-descuento-1218312'>AliExpress revienta el mercado con una importante rebaja en el OnePlus 11, uno de los Android más potentes de 2023</a></h4>
+    <a href='https://computerhoy.com/tecnologia/oneplus-11-oferta-aliexpress-codigo-descuento-1218312' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/oneplus-11-5g-analisis-opinion-2952404.jpg?tf=1200x' alt='AliExpress revienta el mercado con una importante rebaja en el OnePlus 11, uno de los Android más potentes de 2023' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/patrocinado/no-te-vas-creer-precio-teclado-raton-iluminacion-rgb-tablet-1217940'>No te vas a creer el precio de este teclado y ratón con iluminación RGB para tu tablet</a></h4>
-    <a href='https://computerhoy.com/patrocinado/no-te-vas-creer-precio-teclado-raton-iluminacion-rgb-tablet-1217940' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/teclado-raton-2988122.jpg?tf=1200x' alt='No te vas a creer el precio de este teclado y ratón con iluminación RGB para tu tablet' />
+    <h4><a href='https://computerhoy.com/internet/demandan-mayores-webs-conocimiento-libros-gratis-internet-1218342'>Demandan a una de las mayores webs de conocimiento y libros gratis de Internet</a></h4>
+    <a href='https://computerhoy.com/internet/demandan-mayores-webs-conocimiento-libros-gratis-internet-1218342' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/internet-archive-2988660.jpg?tf=1200x' alt='Demandan a una de las mayores webs de conocimiento y libros gratis de Internet' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/patrocinado/oferton-auriculares-bluetooth-reduccion-ruido-lenovo-menos-10-euros-1217968'>¡Ofertón! Auriculares Bluetooth con reducción de ruido Lenovo por menos de 10 euros</a></h4>
-    <a href='https://computerhoy.com/patrocinado/oferton-auriculares-bluetooth-reduccion-ruido-lenovo-menos-10-euros-1217968' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/auriculares-lenovo-2988138.jpg?tf=1200x' alt='¡Ofertón! Auriculares Bluetooth con reducción de ruido Lenovo por menos de 10 euros' />
+    <h4><a href='https://computerhoy.com/internet/10-objetos-todos-tenemos-casa-junto-nunca-deberias-colocar-router-wifi-1218322'>10 objetos que todos tenemos en casa junto a los que nunca deberías colocar tu router WiFi</a></h4>
+    <a href='https://computerhoy.com/internet/10-objetos-todos-tenemos-casa-junto-nunca-deberias-colocar-router-wifi-1218322' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/10-objetos-todos-tenemos-casa-junto-nunca-deberias-colocar-router-wifi-2988646.jpg?tf=1200x' alt='10 objetos que todos tenemos en casa junto a los que nunca deberías colocar tu router WiFi' />
     </a>
 </div>
 
