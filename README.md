@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/aire-acondicionado-panasonic-bajo-consumo-oferta-media-markt-1218360'>Que el calor (y la factura) no te pillen por sorpresa: este aire acondicionado de bajo consumo es de una marca de primera y tiene 274 euros de descuento</a></h4>
-    <a href='https://computerhoy.com/tecnologia/aire-acondicionado-panasonic-bajo-consumo-oferta-media-markt-1218360' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/aire-acondicionado-panasonic-kit-uz25-wke-2988580.jpg?tf=1200x' alt='Que el calor (y la factura) no te pillen por sorpresa: este aire acondicionado de bajo consumo es de una marca de primera y tiene 274 euros de descuento' />
+    <h4><a href='https://computerhoy.com/apps/funciona-nueva-sala-espera-grupos-whatsapp-1218598'>Así funciona la nueva sala de espera para grupos de WhatsApp</a></h4>
+    <a href='https://computerhoy.com/apps/funciona-nueva-sala-espera-grupos-whatsapp-1218598' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/funciona-nueva-sala-espera-grupos-whatsapp-2989146.jpg?tf=1200x' alt='Así funciona la nueva sala de espera para grupos de WhatsApp' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/cifra-te-obliga-declarar-renta-2022-23-ventas-vinted-wallapop-1218412'>Esta es la cifra que te obliga a declarar en la Renta 2022/23 tus ventas en Vinted y Wallapop</a></h4>
-    <a href='https://computerhoy.com/life/cifra-te-obliga-declarar-renta-2022-23-ventas-vinted-wallapop-1218412' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/cifra-te-obliga-declarar-renta-2022-23-ventas-vinted-wallapop-2988810.jpg?tf=1200x' alt='Esta es la cifra que te obliga a declarar en la Renta 2022/23 tus ventas en Vinted y Wallapop' />
+    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/donde-ver-contrasenas-wifi-desde-mi-movil-553400'>Dónde ver las contraseñas WiFi en mi móvil</a></h4>
+    <a href='https://computerhoy.com/tutoriales/tecnologia/donde-ver-contrasenas-wifi-desde-mi-movil-553400' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/12/donde-ver-contrasenas-wifi-mi-movil.jpg?tf=1200x' alt='Dónde ver las contraseñas WiFi en mi móvil' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/llega-nueva-vista-inmersiva-google-maps-deberas-utilizar-moderacion-1218446'>Llega la nueva vista inmersiva de Google Maps que deberás utilizar con moderación</a></h4>
-    <a href='https://computerhoy.com/google/llega-nueva-vista-inmersiva-google-maps-deberas-utilizar-moderacion-1218446' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/google-maps-2988942.jpg?tf=1200x' alt='Llega la nueva vista inmersiva de Google Maps que deberás utilizar con moderación' />
+    <h4><a href='https://computerhoy.com/listas/tecnologia/cafeteras-express-manual-semiautomaticas-superautomatica-guia-de-compra-844857'>Cafeteras express manuales, semiautomáticas y superautomática: diferencias y cuál es la mejor para ti</a></h4>
+    <a href='https://computerhoy.com/listas/tecnologia/cafeteras-express-manual-semiautomaticas-superautomatica-guia-de-compra-844857' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/cafeteras-express-manual-semiautomaticas-superautomatica-diferencias-cual-mejor-ti-2292915.jpg?tf=1200x' alt='Cafeteras express manuales, semiautomáticas y superautomática: diferencias y cuál es la mejor para ti' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/redes-sociales/7-cosas-no-deberias-hacer-no-quieres-quedarte-cuenta-tiktok-1218368'>7 cosas que no deberías hacer si no quieres quedarte sin tu cuenta de TikTok</a></h4>
-    <a href='https://computerhoy.com/redes-sociales/7-cosas-no-deberias-hacer-no-quieres-quedarte-cuenta-tiktok-1218368' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/7-cosas-no-deberias-hacer-no-quieres-quedarte-cuenta-tiktok-2988768.jpg?tf=1200x' alt='7 cosas que no deberías hacer si no quieres quedarte sin tu cuenta de TikTok' />
+    <h4><a href='https://computerhoy.com/software/bing-image-creator-ahora-puedes-crear-imagenes-traves-dall-navegador-microsoft-1218564'>Bing Image Creator: ahora puedes crear imágenes a través de DALL-E desde el navegador de Microsoft</a></h4>
+    <a href='https://computerhoy.com/software/bing-image-creator-ahora-puedes-crear-imagenes-traves-dall-navegador-microsoft-1218564' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/bing-image-creator-ahora-puedes-crear-imagenes-traves-dall-navegador-microsoft-2989110.jpg?tf=1200x' alt='Bing Image Creator: ahora puedes crear imágenes a través de DALL-E desde el navegador de Microsoft' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/robot-aspirador-vacia-solo-sorprendentemente-barato-marca-espanola-1218328'>Este robot aspirador se vacía solo y es sorprendentemente barato, y de una marca española</a></h4>
-    <a href='https://computerhoy.com/tecnologia/robot-aspirador-vacia-solo-sorprendentemente-barato-marca-espanola-1218328' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/nuevo-robot-aspirador-conga-2299-ultra-home-x-treme-x-cecotec-oferta-lanzamiento-solo-199eu-2981910.jpg?tf=1200x' alt='Este robot aspirador se vacía solo y es sorprendentemente barato, y de una marca española' />
+    <h4><a href='https://computerhoy.com/internet/diferencias-hay-modem-router-1218560'>Qué diferencias hay entre Modem y Router</a></h4>
+    <a href='https://computerhoy.com/internet/diferencias-hay-modem-router-1218560' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/diferencias-modem-router-2989082.jpg?tf=1200x' alt='Qué diferencias hay entre Modem y Router' />
     </a>
 </div>
 
