@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/cuantas-lunas-tiene-tierra-1218064'>¿Cuántas lunas tiene la Tierra? La respuesta no siempre es una...</a></h4>
-    <a href='https://computerhoy.com/espacio/cuantas-lunas-tiene-tierra-1218064' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/cuantas-lunas-tiene-tierra-respuesta-no-2988256.jpg?tf=1200x' alt='¿Cuántas lunas tiene la Tierra? La respuesta no siempre es una...' />
+    <h4><a href='https://computerhoy.com/tecnologia/unidades-disco-duro-hdd-actuales-no-sobrepasan-3-anos-durabilidad-1218318'>Las unidades de disco duro HDD más actuales no sobrepasan los 3 años de durabilidad</a></h4>
+    <a href='https://computerhoy.com/tecnologia/unidades-disco-duro-hdd-actuales-no-sobrepasan-3-anos-durabilidad-1218318' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/disco-duro-2769499.jpg?tf=1200x' alt='Las unidades de disco duro HDD más actuales no sobrepasan los 3 años de durabilidad' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/amazon/amazon-despide-9000-empleados-twitch-gran-afectada-1218058'>Amazon despide a otros 9.000 empleados, Twitch es la gran afectada </a></h4>
-    <a href='https://computerhoy.com/amazon/amazon-despide-9000-empleados-twitch-gran-afectada-1218058' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/amazon-despide-otros-9000-empleados-twitch-gran-afectada-2988248.jpg?tf=1200x' alt='Amazon despide a otros 9.000 empleados, Twitch es la gran afectada ' />
+    <h4><a href='https://computerhoy.com/patrocinado/no-te-vas-creer-precio-teclado-raton-iluminacion-rgb-tablet-1217940'>No te vas a creer el precio de este teclado y ratón con iluminación RGB para tu tablet</a></h4>
+    <a href='https://computerhoy.com/patrocinado/no-te-vas-creer-precio-teclado-raton-iluminacion-rgb-tablet-1217940' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/teclado-raton-2988122.jpg?tf=1200x' alt='No te vas a creer el precio de este teclado y ratón con iluminación RGB para tu tablet' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/google-chrome-ya-permite-deshabilitar-todas-extensiones-solo-clic-1218054'>Google Chrome ya permite deshabilitar todas las extensiones con un solo clic</a></h4>
-    <a href='https://computerhoy.com/google/google-chrome-ya-permite-deshabilitar-todas-extensiones-solo-clic-1218054' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/7-mejores-extensiones-chrome-estas-buscando-trabajo-2963964.jpg?tf=1200x' alt='Google Chrome ya permite deshabilitar todas las extensiones con un solo clic' />
+    <h4><a href='https://computerhoy.com/patrocinado/oferton-auriculares-bluetooth-reduccion-ruido-lenovo-menos-10-euros-1217968'>¡Ofertón! Auriculares Bluetooth con reducción de ruido Lenovo por menos de 10 euros</a></h4>
+    <a href='https://computerhoy.com/patrocinado/oferton-auriculares-bluetooth-reduccion-ruido-lenovo-menos-10-euros-1217968' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/auriculares-lenovo-2988138.jpg?tf=1200x' alt='¡Ofertón! Auriculares Bluetooth con reducción de ruido Lenovo por menos de 10 euros' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/guionistas-pongase-temblar-ultimo-episodio-south-park-fue-escrito-chatgpt-1218052'>Guionistas póngase a temblar: el último episodio de South Park fue escrito por ChatGPT</a></h4>
-    <a href='https://computerhoy.com/apps/guionistas-pongase-temblar-ultimo-episodio-south-park-fue-escrito-chatgpt-1218052' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/chatgpt-south-park-2988250.jpg?tf=1200x' alt='Guionistas póngase a temblar: el último episodio de South Park fue escrito por ChatGPT' />
+    <h4><a href='https://computerhoy.com/industria/trabajo-va-desaparecer-ia-probablemente-no-pero-evolucionara-1215256'>¿Tu trabajo va a desaparecer con la IA? Probablemente no, pero sí evolucionará</a></h4>
+    <a href='https://computerhoy.com/industria/trabajo-va-desaparecer-ia-probablemente-no-pero-evolucionara-1215256' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/ia-trabajo-2983964.jpg?tf=1200x' alt='¿Tu trabajo va a desaparecer con la IA? Probablemente no, pero sí evolucionará' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/streaming/cuando-estrenara-temporada-2-the-last-of-us-1218048'>Bella Ramsey revela cuándo se estrenará la temporada 2 de The Last of Us, y algunas novedades de la trama</a></h4>
-    <a href='https://computerhoy.com/streaming/cuando-estrenara-temporada-2-the-last-of-us-1218048' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/last-us-1x09-2981900.jpg?tf=1200x' alt='Bella Ramsey revela cuándo se estrenará la temporada 2 de The Last of Us, y algunas novedades de la trama' />
+    <h4><a href='https://computerhoy.com/patrocinado/smartphone-muy-top-precio-sorprendente-1217976'>Smartphone muy top por un precio sorprendente</a></h4>
+    <a href='https://computerhoy.com/patrocinado/smartphone-muy-top-precio-sorprendente-1217976' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/oneplus-10-pro-5g-ya-oficial-2582725.jpg?tf=1200x' alt='Smartphone muy top por un precio sorprendente' />
     </a>
 </div>
 
