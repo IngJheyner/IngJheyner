@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/creadora-onlyfans-ha-ganado-6-millones-comparte-estrategias-exito-1218374'>Una creadora de OnlyFans que ha ganado más de 6 millones comparte sus estrategias de éxito</a></h4>
-    <a href='https://computerhoy.com/internet/creadora-onlyfans-ha-ganado-6-millones-comparte-estrategias-exito-1218374' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/bryce-adams-only-fans-2988786.jpg?tf=1200x' alt='Una creadora de OnlyFans que ha ganado más de 6 millones comparte sus estrategias de éxito' />
+    <h4><a href='https://computerhoy.com/tecnologia/aire-acondicionado-panasonic-bajo-consumo-oferta-media-markt-1218360'>Que el calor (y la factura) no te pillen por sorpresa: este aire acondicionado de bajo consumo es de una marca de primera y tiene 274 euros de descuento</a></h4>
+    <a href='https://computerhoy.com/tecnologia/aire-acondicionado-panasonic-bajo-consumo-oferta-media-markt-1218360' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/aire-acondicionado-panasonic-kit-uz25-wke-2988580.jpg?tf=1200x' alt='Que el calor (y la factura) no te pillen por sorpresa: este aire acondicionado de bajo consumo es de una marca de primera y tiene 274 euros de descuento' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/streaming/netflix-quiere-parar-huida-suscriptores-potenciando-funcion-no-interesa-casi-nadie-1218358'>Netflix quiere parar la huída de suscriptores potenciando una función que no le interesa a casi nadie</a></h4>
-    <a href='https://computerhoy.com/streaming/netflix-quiere-parar-huida-suscriptores-potenciando-funcion-no-interesa-casi-nadie-1218358' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/netflix-quiere-parar-huida-suscriptores-potenciando-funcion-no-interesa-casi-nadie-2988678.jpg?tf=1200x' alt='Netflix quiere parar la huída de suscriptores potenciando una función que no le interesa a casi nadie' />
+    <h4><a href='https://computerhoy.com/life/cifra-te-obliga-declarar-renta-2022-23-ventas-vinted-wallapop-1218412'>Esta es la cifra que te obliga a declarar en la Renta 2022/23 tus ventas en Vinted y Wallapop</a></h4>
+    <a href='https://computerhoy.com/life/cifra-te-obliga-declarar-renta-2022-23-ventas-vinted-wallapop-1218412' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/cifra-te-obliga-declarar-renta-2022-23-ventas-vinted-wallapop-2988810.jpg?tf=1200x' alt='Esta es la cifra que te obliga a declarar en la Renta 2022/23 tus ventas en Vinted y Wallapop' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/oneplus-11-oferta-aliexpress-codigo-descuento-1218312'>AliExpress revienta el mercado con una importante rebaja en el OnePlus 11, uno de los Android más potentes de 2023</a></h4>
-    <a href='https://computerhoy.com/tecnologia/oneplus-11-oferta-aliexpress-codigo-descuento-1218312' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/oneplus-11-5g-analisis-opinion-2952404.jpg?tf=1200x' alt='AliExpress revienta el mercado con una importante rebaja en el OnePlus 11, uno de los Android más potentes de 2023' />
+    <h4><a href='https://computerhoy.com/google/llega-nueva-vista-inmersiva-google-maps-deberas-utilizar-moderacion-1218446'>Llega la nueva vista inmersiva de Google Maps que deberás utilizar con moderación</a></h4>
+    <a href='https://computerhoy.com/google/llega-nueva-vista-inmersiva-google-maps-deberas-utilizar-moderacion-1218446' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/google-maps-2988942.jpg?tf=1200x' alt='Llega la nueva vista inmersiva de Google Maps que deberás utilizar con moderación' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/demandan-mayores-webs-conocimiento-libros-gratis-internet-1218342'>Demandan a una de las mayores webs de conocimiento y libros gratis de Internet</a></h4>
-    <a href='https://computerhoy.com/internet/demandan-mayores-webs-conocimiento-libros-gratis-internet-1218342' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/internet-archive-2988660.jpg?tf=1200x' alt='Demandan a una de las mayores webs de conocimiento y libros gratis de Internet' />
+    <h4><a href='https://computerhoy.com/redes-sociales/7-cosas-no-deberias-hacer-no-quieres-quedarte-cuenta-tiktok-1218368'>7 cosas que no deberías hacer si no quieres quedarte sin tu cuenta de TikTok</a></h4>
+    <a href='https://computerhoy.com/redes-sociales/7-cosas-no-deberias-hacer-no-quieres-quedarte-cuenta-tiktok-1218368' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/7-cosas-no-deberias-hacer-no-quieres-quedarte-cuenta-tiktok-2988768.jpg?tf=1200x' alt='7 cosas que no deberías hacer si no quieres quedarte sin tu cuenta de TikTok' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/10-objetos-todos-tenemos-casa-junto-nunca-deberias-colocar-router-wifi-1218322'>10 objetos que todos tenemos en casa junto a los que nunca deberías colocar tu router WiFi</a></h4>
-    <a href='https://computerhoy.com/internet/10-objetos-todos-tenemos-casa-junto-nunca-deberias-colocar-router-wifi-1218322' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/10-objetos-todos-tenemos-casa-junto-nunca-deberias-colocar-router-wifi-2988646.jpg?tf=1200x' alt='10 objetos que todos tenemos en casa junto a los que nunca deberías colocar tu router WiFi' />
+    <h4><a href='https://computerhoy.com/tecnologia/robot-aspirador-vacia-solo-sorprendentemente-barato-marca-espanola-1218328'>Este robot aspirador se vacía solo y es sorprendentemente barato, y de una marca española</a></h4>
+    <a href='https://computerhoy.com/tecnologia/robot-aspirador-vacia-solo-sorprendentemente-barato-marca-espanola-1218328' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/nuevo-robot-aspirador-conga-2299-ultra-home-x-treme-x-cecotec-oferta-lanzamiento-solo-199eu-2981910.jpg?tf=1200x' alt='Este robot aspirador se vacía solo y es sorprendentemente barato, y de una marca española' />
     </a>
 </div>
 
