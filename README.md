@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/funciona-nueva-sala-espera-grupos-whatsapp-1218598'>Así funciona la nueva sala de espera para grupos de WhatsApp</a></h4>
-    <a href='https://computerhoy.com/apps/funciona-nueva-sala-espera-grupos-whatsapp-1218598' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/funciona-nueva-sala-espera-grupos-whatsapp-2989146.jpg?tf=1200x' alt='Así funciona la nueva sala de espera para grupos de WhatsApp' />
+    <h4><a href='https://computerhoy.com/espacio/nasa-captura-tornado-14-veces-grande-tierra-superficie-sol-1218658'>La NASA captura un tornado 14 veces más grande que la Tierra en la superficie del Sol</a></h4>
+    <a href='https://computerhoy.com/espacio/nasa-captura-tornado-14-veces-grande-tierra-superficie-sol-1218658' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/tierra-sol-2989324.jpg?tf=1200x' alt='La NASA captura un tornado 14 veces más grande que la Tierra en la superficie del Sol' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/donde-ver-contrasenas-wifi-desde-mi-movil-553400'>Dónde ver las contraseñas WiFi en mi móvil</a></h4>
-    <a href='https://computerhoy.com/tutoriales/tecnologia/donde-ver-contrasenas-wifi-desde-mi-movil-553400' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/12/donde-ver-contrasenas-wifi-mi-movil.jpg?tf=1200x' alt='Dónde ver las contraseñas WiFi en mi móvil' />
+    <h4><a href='https://computerhoy.com/motor/radio-digital-dab-coche-pioneer-apple-carplay-android-auto-1218618'>Esta radio digital DAB+ Pioneer de coche con Apple CarPlay y Android Auto no es barata, pero vale lo que cuesta</a></h4>
+    <a href='https://computerhoy.com/motor/radio-digital-dab-coche-pioneer-apple-carplay-android-auto-1218618' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/radio-coche-pioneer-apple-carplay-android-auto-no-barata-pero-vale-cuesta-2989156.jpg?tf=1200x' alt='Esta radio digital DAB+ Pioneer de coche con Apple CarPlay y Android Auto no es barata, pero vale lo que cuesta' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/listas/tecnologia/cafeteras-express-manual-semiautomaticas-superautomatica-guia-de-compra-844857'>Cafeteras express manuales, semiautomáticas y superautomática: diferencias y cuál es la mejor para ti</a></h4>
-    <a href='https://computerhoy.com/listas/tecnologia/cafeteras-express-manual-semiautomaticas-superautomatica-guia-de-compra-844857' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/cafeteras-express-manual-semiautomaticas-superautomatica-diferencias-cual-mejor-ti-2292915.jpg?tf=1200x' alt='Cafeteras express manuales, semiautomáticas y superautomática: diferencias y cuál es la mejor para ti' />
+    <h4><a href='https://computerhoy.com/alimentacion/trucos-compra-tiempos-inflacion-te-haran-ahorrar-cientos-euros-supermercado-1218654'>Trucos de compra en tiempos de inflación que te harán ahorrar cientos de euros en el supermercado</a></h4>
+    <a href='https://computerhoy.com/alimentacion/trucos-compra-tiempos-inflacion-te-haran-ahorrar-cientos-euros-supermercado-1218654' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/supermercado-2637227.jpg?tf=1200x' alt='Trucos de compra en tiempos de inflación que te harán ahorrar cientos de euros en el supermercado' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/software/bing-image-creator-ahora-puedes-crear-imagenes-traves-dall-navegador-microsoft-1218564'>Bing Image Creator: ahora puedes crear imágenes a través de DALL-E desde el navegador de Microsoft</a></h4>
-    <a href='https://computerhoy.com/software/bing-image-creator-ahora-puedes-crear-imagenes-traves-dall-navegador-microsoft-1218564' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/bing-image-creator-ahora-puedes-crear-imagenes-traves-dall-navegador-microsoft-2989110.jpg?tf=1200x' alt='Bing Image Creator: ahora puedes crear imágenes a través de DALL-E desde el navegador de Microsoft' />
+    <h4><a href='https://computerhoy.com/streaming/ted-lasso-temporada-3-arrasa-audiencia-1218650'>Ted Lasso mete un gol por la escuadra en su regreso: tiene más audiencia que nunca</a></h4>
+    <a href='https://computerhoy.com/streaming/ted-lasso-temporada-3-arrasa-audiencia-1218650' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/verticalimage1679426739729-2989288.jpg?tf=1200x' alt='Ted Lasso mete un gol por la escuadra en su regreso: tiene más audiencia que nunca' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/diferencias-hay-modem-router-1218560'>Qué diferencias hay entre Modem y Router</a></h4>
-    <a href='https://computerhoy.com/internet/diferencias-hay-modem-router-1218560' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/diferencias-modem-router-2989082.jpg?tf=1200x' alt='Qué diferencias hay entre Modem y Router' />
+    <h4><a href='https://computerhoy.com/tutoriales/como-eliminar-ultimos-15-minutos-historial-chrome-solo-dos-pulsaciones-1218596'>Cómo eliminar los últimos 15 minutos del historial de Chrome con solo dos pulsaciones</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-eliminar-ultimos-15-minutos-historial-chrome-solo-dos-pulsaciones-1218596' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/google-chrome-seguridad-2980508.jpg?tf=1200x' alt='Cómo eliminar los últimos 15 minutos del historial de Chrome con solo dos pulsaciones' />
     </a>
 </div>
 
