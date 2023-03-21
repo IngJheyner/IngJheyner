@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/13-aniversario-aliexpress-ofertas-cupones-mejores-productos-1218282'>13 aniversario de AliExpress: cupones descuento y mejores chollos para aprovecharlos</a></h4>
+    <a href='https://computerhoy.com/tecnologia/13-aniversario-aliexpress-ofertas-cupones-mejores-productos-1218282' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/portada-aliexpress-2988570.jpg?tf=1200x' alt='13 aniversario de AliExpress: cupones descuento y mejores chollos para aprovecharlos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/elimina-ya-detectan-34-populares-apps-android-infectadas-peligroso-malware-1218306'>¡Elimina ya! Detectan 34 populares apps para Android infectadas por un peligroso malware</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/elimina-ya-detectan-34-populares-apps-android-infectadas-peligroso-malware-1218306' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/google-play-store-2810081.jpg?tf=1200x' alt='¡Elimina ya! Detectan 34 populares apps para Android infectadas por un peligroso malware' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/unidades-disco-duro-hdd-actuales-no-sobrepasan-3-anos-durabilidad-1218318'>Las unidades de disco duro HDD más actuales no sobrepasan los 3 años de durabilidad</a></h4>
     <a href='https://computerhoy.com/tecnologia/unidades-disco-duro-hdd-actuales-no-sobrepasan-3-anos-durabilidad-1218318' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/disco-duro-2769499.jpg?tf=1200x' alt='Las unidades de disco duro HDD más actuales no sobrepasan los 3 años de durabilidad' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/patrocinado/oferton-auriculares-bluetooth-reduccion-ruido-lenovo-menos-10-euros-1217968'>¡Ofertón! Auriculares Bluetooth con reducción de ruido Lenovo por menos de 10 euros</a></h4>
     <a href='https://computerhoy.com/patrocinado/oferton-auriculares-bluetooth-reduccion-ruido-lenovo-menos-10-euros-1217968' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/auriculares-lenovo-2988138.jpg?tf=1200x' alt='¡Ofertón! Auriculares Bluetooth con reducción de ruido Lenovo por menos de 10 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/industria/trabajo-va-desaparecer-ia-probablemente-no-pero-evolucionara-1215256'>¿Tu trabajo va a desaparecer con la IA? Probablemente no, pero sí evolucionará</a></h4>
-    <a href='https://computerhoy.com/industria/trabajo-va-desaparecer-ia-probablemente-no-pero-evolucionara-1215256' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/ia-trabajo-2983964.jpg?tf=1200x' alt='¿Tu trabajo va a desaparecer con la IA? Probablemente no, pero sí evolucionará' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/patrocinado/smartphone-muy-top-precio-sorprendente-1217976'>Smartphone muy top por un precio sorprendente</a></h4>
-    <a href='https://computerhoy.com/patrocinado/smartphone-muy-top-precio-sorprendente-1217976' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/oneplus-10-pro-5g-ya-oficial-2582725.jpg?tf=1200x' alt='Smartphone muy top por un precio sorprendente' />
     </a>
 </div>
 
