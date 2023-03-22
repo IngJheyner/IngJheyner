@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/listas/moviles/8-mejores-moviles-xiaomi-rango-precio-55588'>Los 12 mejores móviles de Xiaomi por rango de precio</a></h4>
-    <a href='https://computerhoy.com/listas/moviles/8-mejores-moviles-xiaomi-rango-precio-55588' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/analisis-xiaomi-12-lite-2835837.jpg?tf=1200x' alt='Los 12 mejores móviles de Xiaomi por rango de precio' />
+    <h4><a href='https://computerhoy.com/patrocinado/menudas-ofertas-tiene-aliexpress-aniversario-no-te-pierdas-1218476'>¡Menudas ofertas tiene AliExpress por su aniversario! No te las pierdas</a></h4>
+    <a href='https://computerhoy.com/patrocinado/menudas-ofertas-tiene-aliexpress-aniversario-no-te-pierdas-1218476' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/aniversario-aliexpress-2988782.jpg?tf=1200x' alt='¡Menudas ofertas tiene AliExpress por su aniversario! No te las pierdas' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/encuentran-moleculas-vida-asteroide-ryugu-1218682'>Encuentran moléculas de la vida en el asteroide Ryugu, en donde aterrizó una nave japonesa</a></h4>
-    <a href='https://computerhoy.com/espacio/encuentran-moleculas-vida-asteroide-ryugu-1218682' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/encuentran-moleculas-vida-asteroide-ryugu-donde-aterrizo-nave-japonesa-2989452.jpg?tf=1200x' alt='Encuentran moléculas de la vida en el asteroide Ryugu, en donde aterrizó una nave japonesa' />
+    <h4><a href='https://computerhoy.com/tecnologia/amazon-cierra-dpreview-referente-mundo-fotografia-durante-25-anos-1218950'>Amazon cierra DPReview referente en el mundo de la fotografía durante 25 años</a></h4>
+    <a href='https://computerhoy.com/tecnologia/amazon-cierra-dpreview-referente-mundo-fotografia-durante-25-anos-1218950' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/amazon-cierra-dpreview-referente-mundo-fotografia-durante-25-anos-2989872.jpg?tf=1200x' alt='Amazon cierra DPReview referente en el mundo de la fotografía durante 25 años' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/acer-ebii-bici-electrica-con-inteligencia-artificial-1218680'>Acer, el fabricante de PC, presenta una bici eléctrica con inteligencia artificial </a></h4>
-    <a href='https://computerhoy.com/motor/acer-ebii-bici-electrica-con-inteligencia-artificial-1218680' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/acer-fabricante-pc-presenta-bici-electrica-inteligencia-artificial-2989392.jpg?tf=1200x' alt='Acer, el fabricante de PC, presenta una bici eléctrica con inteligencia artificial ' />
+    <h4><a href='https://computerhoy.com/tutoriales/como-nos-enganan-estafadores-telefonicos-1218572'>Cómo nos engañan los estafadores telefónicos</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-nos-enganan-estafadores-telefonicos-1218572' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/12/llamada-telefonica-estafa-2176459.jpg?tf=1200x' alt='Cómo nos engañan los estafadores telefónicos' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/nasa-captura-tornado-14-veces-grande-tierra-superficie-sol-1218658'>La NASA captura un tornado 14 veces más grande que la Tierra en la superficie del Sol</a></h4>
-    <a href='https://computerhoy.com/espacio/nasa-captura-tornado-14-veces-grande-tierra-superficie-sol-1218658' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/tierra-sol-2989324.jpg?tf=1200x' alt='La NASA captura un tornado 14 veces más grande que la Tierra en la superficie del Sol' />
+    <h4><a href='https://computerhoy.com/apple/apple-aceptara-usar-puerto-tipo-c-iphone-pero-limitacion-inesperada-1218944'>Apple aceptará usar el puerto Tipo-C en los iPhone, pero con una limitación inesperada</a></h4>
+    <a href='https://computerhoy.com/apple/apple-aceptara-usar-puerto-tipo-c-iphone-pero-limitacion-inesperada-1218944' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/apple-iphone-14-1677587572246-2969650.jpg?tf=1200x' alt='Apple aceptará usar el puerto Tipo-C en los iPhone, pero con una limitación inesperada' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/radio-digital-dab-coche-pioneer-apple-carplay-android-auto-1218618'>Esta radio digital DAB+ Pioneer de coche con Apple CarPlay y Android Auto no es barata, pero vale lo que cuesta</a></h4>
-    <a href='https://computerhoy.com/motor/radio-digital-dab-coche-pioneer-apple-carplay-android-auto-1218618' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/radio-coche-pioneer-apple-carplay-android-auto-no-barata-pero-vale-cuesta-2989156.jpg?tf=1200x' alt='Esta radio digital DAB+ Pioneer de coche con Apple CarPlay y Android Auto no es barata, pero vale lo que cuesta' />
+    <h4><a href='https://computerhoy.com/tecnologia/no-donald-trump-no-ha-sido-detenido-son-imagenes-falsas-creadas-inteligencia-artificial-1218938'>No, Donald Trump no ha sido detenido, son imágenes falsas creadas con inteligencia artificial</a></h4>
+    <a href='https://computerhoy.com/tecnologia/no-donald-trump-no-ha-sido-detenido-son-imagenes-falsas-creadas-inteligencia-artificial-1218938' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/no-donald-trump-no-ha-sido-detenido-son-imagenes-falsas-creadas-inteligencia-artificial-2989820.jpg?tf=1200x' alt='No, Donald Trump no ha sido detenido, son imágenes falsas creadas con inteligencia artificial' />
     </a>
 </div>
 
