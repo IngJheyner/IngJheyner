@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/redes-sociales/tiktok-actualiza-normativa-planta-cara-deepfakes-1219112'>TikTok actualiza su normativa y planta cara a los 'deepfakes'</a></h4>
-    <a href='https://computerhoy.com/redes-sociales/tiktok-actualiza-normativa-planta-cara-deepfakes-1219112' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/tiktok-actualiza-normativa-planta-cara-deepfakes-2990214.jpg?tf=1200x' alt='TikTok actualiza su normativa y planta cara a los 'deepfakes'' />
+    <h4><a href='https://computerhoy.com/tutoriales/como-usar-router-viejo-como-repetidor-wifi-mejorar-senal-1219204'>Cómo usar un router viejo como repetidor WiFi y mejorar la señal</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-usar-router-viejo-como-repetidor-wifi-mejorar-senal-1219204' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/router-wifi-2990442.jpg?tf=1200x' alt='Cómo usar un router viejo como repetidor WiFi y mejorar la señal' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/iphone-14-pro-alcanza-precio-espana-ya-cuesta-casi-mismo-iphone-14-1218414'>El iPhone 14 Pro alcanza su precio más bajo en España y ya cuesta casi lo mismo que el iPhone 14</a></h4>
-    <a href='https://computerhoy.com/tecnologia/iphone-14-pro-alcanza-precio-espana-ya-cuesta-casi-mismo-iphone-14-1218414' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/analisis-iphone-14-pro-2821749.jpg?tf=1200x' alt='El iPhone 14 Pro alcanza su precio más bajo en España y ya cuesta casi lo mismo que el iPhone 14' />
+    <h4><a href='https://computerhoy.com/redes-sociales/nuevos-cambios-instagram-llenan-red-social-publicidad-1219218'>Los nuevos cambios en Instagram llenan la red social de publicidad</a></h4>
+    <a href='https://computerhoy.com/redes-sociales/nuevos-cambios-instagram-llenan-red-social-publicidad-1219218' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/instagram-2990022.jpg?tf=1200x' alt='Los nuevos cambios en Instagram llenan la red social de publicidad' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/herramienta-captura-pantalla-windows-no-elimina-informacion-recortada-1219064'>La herramienta de captura de pantalla de Windows no elimina la información recortada</a></h4>
-    <a href='https://computerhoy.com/windows/herramienta-captura-pantalla-windows-no-elimina-informacion-recortada-1219064' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/herramienta-recortes-windows-11-2944646.jpg?tf=1200x' alt='La herramienta de captura de pantalla de Windows no elimina la información recortada' />
+    <h4><a href='https://computerhoy.com/audio/nothing-presenta-nuevos-auriculares-nothing-ear-2-mismo-diseno-soporte-hi-res-1219070'>Nothing presenta sus nuevos auriculares Nothing Ear (2): mismo diseño con soporte Hi-Res</a></h4>
+    <a href='https://computerhoy.com/audio/nothing-presenta-nuevos-auriculares-nothing-ear-2-mismo-diseno-soporte-hi-res-1219070' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/nothing-ear-2-2989248.jpg?tf=1200x' alt='Nothing presenta sus nuevos auriculares Nothing Ear (2): mismo diseño con soporte Hi-Res' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/macbook-air-m2-300-euros-descuento-1218378'>El nuevo MacBook Air M2 tiene casi 300 euros de descuento, y en varios colores</a></h4>
-    <a href='https://computerhoy.com/tecnologia/macbook-air-m2-300-euros-descuento-1218378' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/macbook-air-2988670.jpg?tf=1200x' alt='El nuevo MacBook Air M2 tiene casi 300 euros de descuento, y en varios colores' />
+    <h4><a href='https://computerhoy.com/tutoriales/diferencias-hay-leasing-renting-1219222'>Qué diferencias hay entre Leasing y Renting</a></h4>
+    <a href='https://computerhoy.com/tutoriales/diferencias-hay-leasing-renting-1219222' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/renting-flexible-northgate-2907784.jpg?tf=1200x' alt='Qué diferencias hay entre Leasing y Renting' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/amazon-cierra-dpreview-referente-mundo-fotografia-durante-25-anos-1218950'>Amazon cierra DPReview referente en el mundo de la fotografía durante 25 años</a></h4>
-    <a href='https://computerhoy.com/tecnologia/amazon-cierra-dpreview-referente-mundo-fotografia-durante-25-anos-1218950' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/amazon-cierra-dpreview-referente-mundo-fotografia-durante-25-anos-2989872.jpg?tf=1200x' alt='Amazon cierra DPReview referente en el mundo de la fotografía durante 25 años' />
+    <h4><a href='https://computerhoy.com/analisis/nothing-ear-2-analisis-opinion-importante-interior-1214278'>Nothing Ear (2), análisis y opinión: lo importante está en el interior</a></h4>
+    <a href='https://computerhoy.com/analisis/nothing-ear-2-analisis-opinion-importante-interior-1214278' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/nothing-ear-2-2989208.jpg?tf=1200x' alt='Nothing Ear (2), análisis y opinión: lo importante está en el interior' />
     </a>
 </div>
 
