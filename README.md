@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/espacio/encuentran-moleculas-vida-asteroide-ryugu-1218682'>Encuentran moléculas de la vida en el asteroide Ryugu, en donde aterrizó una nave japonesa</a></h4>
+    <a href='https://computerhoy.com/espacio/encuentran-moleculas-vida-asteroide-ryugu-1218682' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/encuentran-moleculas-vida-asteroide-ryugu-donde-aterrizo-nave-japonesa-2989452.jpg?tf=1200x' alt='Encuentran moléculas de la vida en el asteroide Ryugu, en donde aterrizó una nave japonesa' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/motor/acer-ebii-bici-electrica-con-inteligencia-artificial-1218680'>Acer, el fabricante de PC, presenta una bici eléctrica con inteligencia artificial </a></h4>
+    <a href='https://computerhoy.com/motor/acer-ebii-bici-electrica-con-inteligencia-artificial-1218680' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/acer-fabricante-pc-presenta-bici-electrica-inteligencia-artificial-2989392.jpg?tf=1200x' alt='Acer, el fabricante de PC, presenta una bici eléctrica con inteligencia artificial ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/espacio/nasa-captura-tornado-14-veces-grande-tierra-superficie-sol-1218658'>La NASA captura un tornado 14 veces más grande que la Tierra en la superficie del Sol</a></h4>
     <a href='https://computerhoy.com/espacio/nasa-captura-tornado-14-veces-grande-tierra-superficie-sol-1218658' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/tierra-sol-2989324.jpg?tf=1200x' alt='La NASA captura un tornado 14 veces más grande que la Tierra en la superficie del Sol' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/alimentacion/trucos-compra-tiempos-inflacion-te-haran-ahorrar-cientos-euros-supermercado-1218654'>Trucos de compra en tiempos de inflación que te harán ahorrar cientos de euros en el supermercado</a></h4>
     <a href='https://computerhoy.com/alimentacion/trucos-compra-tiempos-inflacion-te-haran-ahorrar-cientos-euros-supermercado-1218654' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/supermercado-2637227.jpg?tf=1200x' alt='Trucos de compra en tiempos de inflación que te harán ahorrar cientos de euros en el supermercado' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/streaming/ted-lasso-temporada-3-arrasa-audiencia-1218650'>Ted Lasso mete un gol por la escuadra en su regreso: tiene más audiencia que nunca</a></h4>
-    <a href='https://computerhoy.com/streaming/ted-lasso-temporada-3-arrasa-audiencia-1218650' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/verticalimage1679426739729-2989288.jpg?tf=1200x' alt='Ted Lasso mete un gol por la escuadra en su regreso: tiene más audiencia que nunca' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-eliminar-ultimos-15-minutos-historial-chrome-solo-dos-pulsaciones-1218596'>Cómo eliminar los últimos 15 minutos del historial de Chrome con solo dos pulsaciones</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-eliminar-ultimos-15-minutos-historial-chrome-solo-dos-pulsaciones-1218596' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/google-chrome-seguridad-2980508.jpg?tf=1200x' alt='Cómo eliminar los últimos 15 minutos del historial de Chrome con solo dos pulsaciones' />
     </a>
 </div>
 
