@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/listas/moviles/8-mejores-moviles-xiaomi-rango-precio-55588'>Los 12 mejores móviles de Xiaomi por rango de precio</a></h4>
+    <a href='https://computerhoy.com/listas/moviles/8-mejores-moviles-xiaomi-rango-precio-55588' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/analisis-xiaomi-12-lite-2835837.jpg?tf=1200x' alt='Los 12 mejores móviles de Xiaomi por rango de precio' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/espacio/encuentran-moleculas-vida-asteroide-ryugu-1218682'>Encuentran moléculas de la vida en el asteroide Ryugu, en donde aterrizó una nave japonesa</a></h4>
     <a href='https://computerhoy.com/espacio/encuentran-moleculas-vida-asteroide-ryugu-1218682' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/encuentran-moleculas-vida-asteroide-ryugu-donde-aterrizo-nave-japonesa-2989452.jpg?tf=1200x' alt='Encuentran moléculas de la vida en el asteroide Ryugu, en donde aterrizó una nave japonesa' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/motor/radio-digital-dab-coche-pioneer-apple-carplay-android-auto-1218618'>Esta radio digital DAB+ Pioneer de coche con Apple CarPlay y Android Auto no es barata, pero vale lo que cuesta</a></h4>
     <a href='https://computerhoy.com/motor/radio-digital-dab-coche-pioneer-apple-carplay-android-auto-1218618' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/radio-coche-pioneer-apple-carplay-android-auto-no-barata-pero-vale-cuesta-2989156.jpg?tf=1200x' alt='Esta radio digital DAB+ Pioneer de coche con Apple CarPlay y Android Auto no es barata, pero vale lo que cuesta' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/alimentacion/trucos-compra-tiempos-inflacion-te-haran-ahorrar-cientos-euros-supermercado-1218654'>Trucos de compra en tiempos de inflación que te harán ahorrar cientos de euros en el supermercado</a></h4>
-    <a href='https://computerhoy.com/alimentacion/trucos-compra-tiempos-inflacion-te-haran-ahorrar-cientos-euros-supermercado-1218654' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/supermercado-2637227.jpg?tf=1200x' alt='Trucos de compra en tiempos de inflación que te harán ahorrar cientos de euros en el supermercado' />
     </a>
 </div>
 
