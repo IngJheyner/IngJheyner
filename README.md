@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/coches-usan-personas-coeficiente-intelectual-alto-1219276'>Estas son las marcas de coches que usan las personas con coeficiente intelectual alto </a></h4>
-    <a href='https://computerhoy.com/motor/coches-usan-personas-coeficiente-intelectual-alto-1219276' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/hombre-empujando-coche-2965340.jpg?tf=1200x' alt='Estas son las marcas de coches que usan las personas con coeficiente intelectual alto ' />
+    <h4><a href='https://computerhoy.com/perifericos/xiaomi-tv-stick-4k-chromecast-descuento-1219326'>Xiaomi TV Stick 4K con un 40% de descuento, un Chromecast con el toque maestro de Xiaomi</a></h4>
+    <a href='https://computerhoy.com/perifericos/xiaomi-tv-stick-4k-chromecast-descuento-1219326' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/xiaomi-tv-stick-4k-40-descuento-chromecast-toque-maestro-xiaomi-2990740.jpg?tf=1200x' alt='Xiaomi TV Stick 4K con un 40% de descuento, un Chromecast con el toque maestro de Xiaomi' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/mejores/auriculares-inalambricos-bluetooth-1182858'>Mejores auriculares inalámbricos que puedes comprar ahora mismo</a></h4>
-    <a href='https://computerhoy.com/mejores/auriculares-inalambricos-bluetooth-1182858' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/analisis-nothing-ear-stick-2856249.jpg?tf=1200x' alt='Mejores auriculares inalámbricos que puedes comprar ahora mismo' />
+    <h4><a href='https://computerhoy.com/streaming/serie-mrs-davis-inteligencia-artificial-titulo-capitulos-serie-1219316'>Esto es lo que pasa cuando dejas que una IA ponga título a los capítulos de una serie</a></h4>
+    <a href='https://computerhoy.com/streaming/serie-mrs-davis-inteligencia-artificial-titulo-capitulos-serie-1219316' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/pasa-cuando-dejas-ia-ponga-titulo-capitulos-serie-2990662.jpg?tf=1200x' alt='Esto es lo que pasa cuando dejas que una IA ponga título a los capítulos de una serie' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/cinesa-lanza-suscripcion-ir-cine-veces-quieras-barata-netflix-1219252'>Cinesa lanza una suscripción para ir al cine las veces que quieras más barata que Netflix</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/cinesa-lanza-suscripcion-ir-cine-veces-quieras-barata-netflix-1219252' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/sala-cine-2942306.jpg?tf=1200x' alt='Cinesa lanza una suscripción para ir al cine las veces que quieras más barata que Netflix' />
+    <h4><a href='https://computerhoy.com/alimentacion/mejor-beber-agua-grifo-embotellada-1219300'>¿Qué es mejor, beber agua del grifo o embotellada?</a></h4>
+    <a href='https://computerhoy.com/alimentacion/mejor-beber-agua-grifo-embotellada-1219300' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/beber-agua-2990658.jpg?tf=1200x' alt='¿Qué es mejor, beber agua del grifo o embotellada?' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/lista-negra-bizum-como-evitarla-no-tener-problemas-1219246'>Qué es la lista negra de Bizum y cómo evitarla para no tener problemas</a></h4>
-    <a href='https://computerhoy.com/life/lista-negra-bizum-como-evitarla-no-tener-problemas-1219246' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/estas-son-3-estafas-comunes-bizum-banco-espana-2505953.jpg?tf=1200x' alt='Qué es la lista negra de Bizum y cómo evitarla para no tener problemas' />
+    <h4><a href='https://computerhoy.com/ciencia/como-atrapar-mentiroso-ciencia-1219298'>Cómo atrapar a un mentiroso, según la ciencia</a></h4>
+    <a href='https://computerhoy.com/ciencia/como-atrapar-mentiroso-ciencia-1219298' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/decir-mentiras-2990648.jpg?tf=1200x' alt='Cómo atrapar a un mentiroso, según la ciencia' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-usar-router-viejo-como-repetidor-wifi-mejorar-senal-1219204'>Cómo usar un router viejo como repetidor WiFi y mejorar la señal</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-usar-router-viejo-como-repetidor-wifi-mejorar-senal-1219204' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/router-wifi-2990442.jpg?tf=1200x' alt='Cómo usar un router viejo como repetidor WiFi y mejorar la señal' />
+    <h4><a href='https://computerhoy.com/software/github-copilot-x-nueva-ia-parecida-chatgpt-destinada-ayudar-programadores-1219266'>GitHub Copilot X: así es la nueva IA parecida a ChatGPT y destinada a ayudar a programadores</a></h4>
+    <a href='https://computerhoy.com/software/github-copilot-x-nueva-ia-parecida-chatgpt-destinada-ayudar-programadores-1219266' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/github-copilot-x-nueva-ia-parecida-chatgpt-destinada-ayudar-programadores-2990478.jpg?tf=1200x' alt='GitHub Copilot X: así es la nueva IA parecida a ChatGPT y destinada a ayudar a programadores' />
     </a>
 </div>
 
