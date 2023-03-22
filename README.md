@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/motor/coches-usan-personas-coeficiente-intelectual-alto-1219276'>Estas son las marcas de coches que usan las personas con coeficiente intelectual alto </a></h4>
+    <a href='https://computerhoy.com/motor/coches-usan-personas-coeficiente-intelectual-alto-1219276' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/hombre-empujando-coche-2965340.jpg?tf=1200x' alt='Estas son las marcas de coches que usan las personas con coeficiente intelectual alto ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/mejores/auriculares-inalambricos-bluetooth-1182858'>Mejores auriculares inalámbricos que puedes comprar ahora mismo</a></h4>
+    <a href='https://computerhoy.com/mejores/auriculares-inalambricos-bluetooth-1182858' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/analisis-nothing-ear-stick-2856249.jpg?tf=1200x' alt='Mejores auriculares inalámbricos que puedes comprar ahora mismo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/cinesa-lanza-suscripcion-ir-cine-veces-quieras-barata-netflix-1219252'>Cinesa lanza una suscripción para ir al cine las veces que quieras más barata que Netflix</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/cinesa-lanza-suscripcion-ir-cine-veces-quieras-barata-netflix-1219252' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/sala-cine-2942306.jpg?tf=1200x' alt='Cinesa lanza una suscripción para ir al cine las veces que quieras más barata que Netflix' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/lista-negra-bizum-como-evitarla-no-tener-problemas-1219246'>Qué es la lista negra de Bizum y cómo evitarla para no tener problemas</a></h4>
+    <a href='https://computerhoy.com/life/lista-negra-bizum-como-evitarla-no-tener-problemas-1219246' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/estas-son-3-estafas-comunes-bizum-banco-espana-2505953.jpg?tf=1200x' alt='Qué es la lista negra de Bizum y cómo evitarla para no tener problemas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tutoriales/como-usar-router-viejo-como-repetidor-wifi-mejorar-senal-1219204'>Cómo usar un router viejo como repetidor WiFi y mejorar la señal</a></h4>
     <a href='https://computerhoy.com/tutoriales/como-usar-router-viejo-como-repetidor-wifi-mejorar-senal-1219204' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/router-wifi-2990442.jpg?tf=1200x' alt='Cómo usar un router viejo como repetidor WiFi y mejorar la señal' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/redes-sociales/nuevos-cambios-instagram-llenan-red-social-publicidad-1219218'>Los nuevos cambios en Instagram llenan la red social de publicidad</a></h4>
-    <a href='https://computerhoy.com/redes-sociales/nuevos-cambios-instagram-llenan-red-social-publicidad-1219218' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/instagram-2990022.jpg?tf=1200x' alt='Los nuevos cambios en Instagram llenan la red social de publicidad' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/audio/nothing-presenta-nuevos-auriculares-nothing-ear-2-mismo-diseno-soporte-hi-res-1219070'>Nothing presenta sus nuevos auriculares Nothing Ear (2): mismo diseño con soporte Hi-Res</a></h4>
-    <a href='https://computerhoy.com/audio/nothing-presenta-nuevos-auriculares-nothing-ear-2-mismo-diseno-soporte-hi-res-1219070' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/nothing-ear-2-2989248.jpg?tf=1200x' alt='Nothing presenta sus nuevos auriculares Nothing Ear (2): mismo diseño con soporte Hi-Res' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/diferencias-hay-leasing-renting-1219222'>Qué diferencias hay entre Leasing y Renting</a></h4>
-    <a href='https://computerhoy.com/tutoriales/diferencias-hay-leasing-renting-1219222' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/renting-flexible-northgate-2907784.jpg?tf=1200x' alt='Qué diferencias hay entre Leasing y Renting' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/nothing-ear-2-analisis-opinion-importante-interior-1214278'>Nothing Ear (2), análisis y opinión: lo importante está en el interior</a></h4>
-    <a href='https://computerhoy.com/analisis/nothing-ear-2-analisis-opinion-importante-interior-1214278' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/nothing-ear-2-2989208.jpg?tf=1200x' alt='Nothing Ear (2), análisis y opinión: lo importante está en el interior' />
     </a>
 </div>
 
