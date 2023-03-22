@@ -50,9 +50,33 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/patrocinado/menudas-ofertas-tiene-aliexpress-aniversario-no-te-pierdas-1218476'>¡Menudas ofertas tiene AliExpress por su aniversario! No te las pierdas</a></h4>
-    <a href='https://computerhoy.com/patrocinado/menudas-ofertas-tiene-aliexpress-aniversario-no-te-pierdas-1218476' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/aniversario-aliexpress-2988782.jpg?tf=1200x' alt='¡Menudas ofertas tiene AliExpress por su aniversario! No te las pierdas' />
+    <h4><a href='https://computerhoy.com/redes-sociales/tiktok-actualiza-normativa-planta-cara-deepfakes-1219112'>TikTok actualiza su normativa y planta cara a los 'deepfakes'</a></h4>
+    <a href='https://computerhoy.com/redes-sociales/tiktok-actualiza-normativa-planta-cara-deepfakes-1219112' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/tiktok-actualiza-normativa-planta-cara-deepfakes-2990214.jpg?tf=1200x' alt='TikTok actualiza su normativa y planta cara a los 'deepfakes'' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/iphone-14-pro-alcanza-precio-espana-ya-cuesta-casi-mismo-iphone-14-1218414'>El iPhone 14 Pro alcanza su precio más bajo en España y ya cuesta casi lo mismo que el iPhone 14</a></h4>
+    <a href='https://computerhoy.com/tecnologia/iphone-14-pro-alcanza-precio-espana-ya-cuesta-casi-mismo-iphone-14-1218414' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/analisis-iphone-14-pro-2821749.jpg?tf=1200x' alt='El iPhone 14 Pro alcanza su precio más bajo en España y ya cuesta casi lo mismo que el iPhone 14' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/windows/herramienta-captura-pantalla-windows-no-elimina-informacion-recortada-1219064'>La herramienta de captura de pantalla de Windows no elimina la información recortada</a></h4>
+    <a href='https://computerhoy.com/windows/herramienta-captura-pantalla-windows-no-elimina-informacion-recortada-1219064' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/herramienta-recortes-windows-11-2944646.jpg?tf=1200x' alt='La herramienta de captura de pantalla de Windows no elimina la información recortada' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/macbook-air-m2-300-euros-descuento-1218378'>El nuevo MacBook Air M2 tiene casi 300 euros de descuento, y en varios colores</a></h4>
+    <a href='https://computerhoy.com/tecnologia/macbook-air-m2-300-euros-descuento-1218378' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/macbook-air-2988670.jpg?tf=1200x' alt='El nuevo MacBook Air M2 tiene casi 300 euros de descuento, y en varios colores' />
     </a>
 </div>
 
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/amazon-cierra-dpreview-referente-mundo-fotografia-durante-25-anos-1218950'>Amazon cierra DPReview referente en el mundo de la fotografía durante 25 años</a></h4>
     <a href='https://computerhoy.com/tecnologia/amazon-cierra-dpreview-referente-mundo-fotografia-durante-25-anos-1218950' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/amazon-cierra-dpreview-referente-mundo-fotografia-durante-25-anos-2989872.jpg?tf=1200x' alt='Amazon cierra DPReview referente en el mundo de la fotografía durante 25 años' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-nos-enganan-estafadores-telefonicos-1218572'>Cómo nos engañan los estafadores telefónicos</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-nos-enganan-estafadores-telefonicos-1218572' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/12/llamada-telefonica-estafa-2176459.jpg?tf=1200x' alt='Cómo nos engañan los estafadores telefónicos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/apple-aceptara-usar-puerto-tipo-c-iphone-pero-limitacion-inesperada-1218944'>Apple aceptará usar el puerto Tipo-C en los iPhone, pero con una limitación inesperada</a></h4>
-    <a href='https://computerhoy.com/apple/apple-aceptara-usar-puerto-tipo-c-iphone-pero-limitacion-inesperada-1218944' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/apple-iphone-14-1677587572246-2969650.jpg?tf=1200x' alt='Apple aceptará usar el puerto Tipo-C en los iPhone, pero con una limitación inesperada' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/no-donald-trump-no-ha-sido-detenido-son-imagenes-falsas-creadas-inteligencia-artificial-1218938'>No, Donald Trump no ha sido detenido, son imágenes falsas creadas con inteligencia artificial</a></h4>
-    <a href='https://computerhoy.com/tecnologia/no-donald-trump-no-ha-sido-detenido-son-imagenes-falsas-creadas-inteligencia-artificial-1218938' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/no-donald-trump-no-ha-sido-detenido-son-imagenes-falsas-creadas-inteligencia-artificial-2989820.jpg?tf=1200x' alt='No, Donald Trump no ha sido detenido, son imágenes falsas creadas con inteligencia artificial' />
     </a>
 </div>
 
