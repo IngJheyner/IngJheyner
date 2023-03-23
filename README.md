@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/familia-smartphones-redmi-note-12-5-modelos-conquistar-gran-publico-1219612'>Así es la familia de smartphones Redmi Note 12: 5 modelos para conquistar al gran público</a></h4>
-    <a href='https://computerhoy.com/moviles/familia-smartphones-redmi-note-12-5-modelos-conquistar-gran-publico-1219612' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/redmi-12-2991108.jpg?tf=1200x' alt='Así es la familia de smartphones Redmi Note 12: 5 modelos para conquistar al gran público' />
+    <h4><a href='https://computerhoy.com/espacio/telescopio-james-webb-nasa-descubre-planeta-infernal-40-anos-luz-tierra-1219854'>El telescopio James Webb de la NASA descubre un planeta infernal a 40 años luz de la Tierra</a></h4>
+    <a href='https://computerhoy.com/espacio/telescopio-james-webb-nasa-descubre-planeta-infernal-40-anos-luz-tierra-1219854' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/planeta-llamas-2991838.jpg?tf=1200x' alt='El telescopio James Webb de la NASA descubre un planeta infernal a 40 años luz de la Tierra' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/como-funciona-gmail-escriba-correos-ti-ia-movil-1219782'>Así es cómo funciona que Gmail escriba tus correos por ti con IA en tu móvil</a></h4>
-    <a href='https://computerhoy.com/google/como-funciona-gmail-escriba-correos-ti-ia-movil-1219782' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/persona-usando-gmail-2553633.jpg?tf=1200x' alt='Así es cómo funciona que Gmail escriba tus correos por ti con IA en tu móvil' />
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/me-quiero-comprar-android-tv-que-debo-tener-cuenta-300523'>Android TV vs Smart TV: diferencias y opciones para tener un televisor inteligente</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/me-quiero-comprar-android-tv-que-debo-tener-cuenta-300523' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/smart-tv-2429129.jpg?tf=1200x' alt='Android TV vs Smart TV: diferencias y opciones para tener un televisor inteligente' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/nuevos-lg-gram-autonomia-dia-mayor-potencia-graficas-nvidia-1219780'>Nuevos LG gram: autonomía de más de un día, mayor potencia y gráficas NVIDIA</a></h4>
-    <a href='https://computerhoy.com/pc/nuevos-lg-gram-autonomia-dia-mayor-potencia-graficas-nvidia-1219780' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/nuevos-lg-gram-autonomia-dia-mayor-potencia-graficas-nvidia-2991568.jpg?tf=1200x' alt='Nuevos LG gram: autonomía de más de un día, mayor potencia y gráficas NVIDIA' />
+    <h4><a href='https://computerhoy.com/moviles/ia-samsung-galaxy-s23-ultra-pasa-lista-pone-dientes-bebes-1219788'>La IA del Samsung Galaxy S23 Ultra se pasa de lista: le pone dientes a los bebés</a></h4>
+    <a href='https://computerhoy.com/moviles/ia-samsung-galaxy-s23-ultra-pasa-lista-pone-dientes-bebes-1219788' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/ia-samsung-galaxy-s23-ultra-pasa-lista-pone-dientes-bebes-2991778.jpg?tf=1200x' alt='La IA del Samsung Galaxy S23 Ultra se pasa de lista: le pone dientes a los bebés' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/mejores-aplicaciones-evitar-distracciones-concentrarse-1162416'>Las mejores aplicaciones para evitar distracciones y concentrarse</a></h4>
-    <a href='https://computerhoy.com/apps/mejores-aplicaciones-evitar-distracciones-concentrarse-1162416' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/aplicaciones-evitar-cualquier-distraccion-telefono-movil-2908328.jpg?tf=1200x' alt='Las mejores aplicaciones para evitar distracciones y concentrarse' />
+    <h4><a href='https://computerhoy.com/tutoriales/te-falta-opcion-wifi-windows-11-puede-arreglar-1202520'>Si te falta la opción WiFi en Windows 11, así lo puede arreglar</a></h4>
+    <a href='https://computerhoy.com/tutoriales/te-falta-opcion-wifi-windows-11-puede-arreglar-1202520' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/wifi-windows-11-2960496.jpg?tf=1200x' alt='Si te falta la opción WiFi en Windows 11, así lo puede arreglar' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/lenovo-va-todo-mercado-portatil-dos-nuevos-modelos-2023-legion-gen-8-loq-1219726'>Lenovo va con todo al mercado portátil con sus dos nuevos modelos de 2023: Legion Gen 8 y LOQ</a></h4>
-    <a href='https://computerhoy.com/pc/lenovo-va-todo-mercado-portatil-dos-nuevos-modelos-2023-legion-gen-8-loq-1219726' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/lenovo-legion-8-2991496.jpg?tf=1200x' alt='Lenovo va con todo al mercado portátil con sus dos nuevos modelos de 2023: Legion Gen 8 y LOQ' />
+    <h4><a href='https://computerhoy.com/noticias/life/arma-secreta-eliminar-manchas-olores-ropa-despensa-868495'>El arma secreta para eliminar manchas y olores de la ropa está en tu despensa</a></h4>
+    <a href='https://computerhoy.com/noticias/life/arma-secreta-eliminar-manchas-olores-ropa-despensa-868495' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/ropa-huele-mal-2991774.jpg?tf=1200x' alt='El arma secreta para eliminar manchas y olores de la ropa está en tu despensa' />
     </a>
 </div>
 
