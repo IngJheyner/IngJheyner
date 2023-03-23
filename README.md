@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/guia-comprar-aliexpress-como-funciona-994775'>Guía para comprar en AliExpress en 2023: encuentra las mejores ofertas y evita estafas y malas experiencias</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/guia-comprar-aliexpress-como-funciona-994775' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/iphone-app-store-apple-abierta-perfil-aplicacion-compras-aliexpress-2852811.jpg?tf=1200x' alt='Guía para comprar en AliExpress en 2023: encuentra las mejores ofertas y evita estafas y malas experiencias' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/truco-arreglar-cremallera-estropeada-757627'>El truco infalible para arreglar una cremallera estropeada en segundos</a></h4>
+    <a href='https://computerhoy.com/noticias/life/truco-arreglar-cremallera-estropeada-757627' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/cremalleras-colores-2990610.jpg?tf=1200x' alt='El truco infalible para arreglar una cremallera estropeada en segundos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/27-noticias-tecnologia-comenzar-manana-informado-ultimo-1219532'>27 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
+    <a href='https://computerhoy.com/tecnologia/27-noticias-tecnologia-comenzar-manana-informado-ultimo-1219532' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/27-noticias-tecnologia-comenzar-manana-informado-ultimo-2990958.jpg?tf=1200x' alt='27 noticias de tecnología para comenzar la mañana informado de lo último' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/moviles/samsung-galaxy-a53-merece-pena-pros-contras-1186968'>Samsung Galaxy A53: ¿merece la pena? Pros y contras</a></h4>
+    <a href='https://computerhoy.com/moviles/samsung-galaxy-a53-merece-pena-pros-contras-1186968' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/samsung-galaxy-a53-5g-analisis-opinion-2678347.jpg?tf=1200x' alt='Samsung Galaxy A53: ¿merece la pena? Pros y contras' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/perifericos/pendrive-usb-explosivo-periodista-ecuador-herido-1219332'>Más peligroso que el malware: un pendrive con explosivos hiere a un periodista en Ecuador</a></h4>
     <a href='https://computerhoy.com/perifericos/pendrive-usb-explosivo-periodista-ecuador-herido-1219332' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/peligroso-malware-usb-explosivos-explotan-conectarlos-pc-2990756.jpg?tf=1200x' alt='Más peligroso que el malware: un pendrive con explosivos hiere a un periodista en Ecuador' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/perifericos/xiaomi-tv-stick-4k-chromecast-descuento-1219326'>Xiaomi TV Stick 4K con un 40% de descuento, un Chromecast con el toque maestro de Xiaomi</a></h4>
-    <a href='https://computerhoy.com/perifericos/xiaomi-tv-stick-4k-chromecast-descuento-1219326' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/xiaomi-tv-stick-4k-40-descuento-chromecast-toque-maestro-xiaomi-2990740.jpg?tf=1200x' alt='Xiaomi TV Stick 4K con un 40% de descuento, un Chromecast con el toque maestro de Xiaomi' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/streaming/serie-mrs-davis-inteligencia-artificial-titulo-capitulos-serie-1219316'>Esto es lo que pasa cuando dejas que una IA ponga título a los capítulos de una serie</a></h4>
-    <a href='https://computerhoy.com/streaming/serie-mrs-davis-inteligencia-artificial-titulo-capitulos-serie-1219316' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/pasa-cuando-dejas-ia-ponga-titulo-capitulos-serie-2990662.jpg?tf=1200x' alt='Esto es lo que pasa cuando dejas que una IA ponga título a los capítulos de una serie' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/alimentacion/mejor-beber-agua-grifo-embotellada-1219300'>¿Qué es mejor, beber agua del grifo o embotellada?</a></h4>
-    <a href='https://computerhoy.com/alimentacion/mejor-beber-agua-grifo-embotellada-1219300' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/beber-agua-2990658.jpg?tf=1200x' alt='¿Qué es mejor, beber agua del grifo o embotellada?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/como-atrapar-mentiroso-ciencia-1219298'>Cómo atrapar a un mentiroso, según la ciencia</a></h4>
-    <a href='https://computerhoy.com/ciencia/como-atrapar-mentiroso-ciencia-1219298' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/decir-mentiras-2990648.jpg?tf=1200x' alt='Cómo atrapar a un mentiroso, según la ciencia' />
     </a>
 </div>
 
