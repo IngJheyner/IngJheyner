@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/guia-comprar-aliexpress-como-funciona-994775'>Guía para comprar en AliExpress en 2023: encuentra las mejores ofertas y evita estafas y malas experiencias</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/guia-comprar-aliexpress-como-funciona-994775' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/iphone-app-store-apple-abierta-perfil-aplicacion-compras-aliexpress-2852811.jpg?tf=1200x' alt='Guía para comprar en AliExpress en 2023: encuentra las mejores ofertas y evita estafas y malas experiencias' />
+    <h4><a href='https://computerhoy.com/google/te-rastrea-google-incluso-cuando-no-estas-utilizando-servicios-1219594'>Así te rastrea Google incluso cuando no estás utilizando sus servicios</a></h4>
+    <a href='https://computerhoy.com/google/te-rastrea-google-incluso-cuando-no-estas-utilizando-servicios-1219594' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/te-rastrea-google-incluso-cuando-no-estas-utilizando-servicios-2991102.jpg?tf=1200x' alt='Así te rastrea Google incluso cuando no estás utilizando sus servicios' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/truco-arreglar-cremallera-estropeada-757627'>El truco infalible para arreglar una cremallera estropeada en segundos</a></h4>
-    <a href='https://computerhoy.com/noticias/life/truco-arreglar-cremallera-estropeada-757627' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/cremalleras-colores-2990610.jpg?tf=1200x' alt='El truco infalible para arreglar una cremallera estropeada en segundos' />
+    <h4><a href='https://computerhoy.com/android/vuelta-pebble-podria-ser-forma-pequeno-smartphone-1219634'>La vuelta de Pebble podría ser en forma de pequeño smartphone</a></h4>
+    <a href='https://computerhoy.com/android/vuelta-pebble-podria-ser-forma-pequeno-smartphone-1219634' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/pebble-2991218.jpg?tf=1200x' alt='La vuelta de Pebble podría ser en forma de pequeño smartphone' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/27-noticias-tecnologia-comenzar-manana-informado-ultimo-1219532'>27 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
-    <a href='https://computerhoy.com/tecnologia/27-noticias-tecnologia-comenzar-manana-informado-ultimo-1219532' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/27-noticias-tecnologia-comenzar-manana-informado-ultimo-2990958.jpg?tf=1200x' alt='27 noticias de tecnología para comenzar la mañana informado de lo último' />
+    <h4><a href='https://computerhoy.com/moviles/familia-smartphones-redmi-note-12-5-modelos-conquistar-gran-publico-1219612'>Así es la familia de smartphones Redmi Note 12: 5 modelos para conquistar al gran público</a></h4>
+    <a href='https://computerhoy.com/moviles/familia-smartphones-redmi-note-12-5-modelos-conquistar-gran-publico-1219612' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/redmi-12-2991108.jpg?tf=1200x' alt='Así es la familia de smartphones Redmi Note 12: 5 modelos para conquistar al gran público' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/samsung-galaxy-a53-merece-pena-pros-contras-1186968'>Samsung Galaxy A53: ¿merece la pena? Pros y contras</a></h4>
-    <a href='https://computerhoy.com/moviles/samsung-galaxy-a53-merece-pena-pros-contras-1186968' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/samsung-galaxy-a53-5g-analisis-opinion-2678347.jpg?tf=1200x' alt='Samsung Galaxy A53: ¿merece la pena? Pros y contras' />
+    <h4><a href='https://computerhoy.com/tecnologia/movil-barato-hace-temblar-xiaomi-tiene-pantalla-120-hz-triple-camara-ia-precio-ridiculo-1219038'>Este móvil barato hace temblar a los Xiaomi: tiene pantalla de 120 Hz y triple cámara con IA a un precio ridículo</a></h4>
+    <a href='https://computerhoy.com/tecnologia/movil-barato-hace-temblar-xiaomi-tiene-pantalla-120-hz-triple-camara-ia-precio-ridiculo-1219038' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/realme-narzo-50-2664449.jpg?tf=1200x' alt='Este móvil barato hace temblar a los Xiaomi: tiene pantalla de 120 Hz y triple cámara con IA a un precio ridículo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/perifericos/pendrive-usb-explosivo-periodista-ecuador-herido-1219332'>Más peligroso que el malware: un pendrive con explosivos hiere a un periodista en Ecuador</a></h4>
-    <a href='https://computerhoy.com/perifericos/pendrive-usb-explosivo-periodista-ecuador-herido-1219332' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/peligroso-malware-usb-explosivos-explotan-conectarlos-pc-2990756.jpg?tf=1200x' alt='Más peligroso que el malware: un pendrive con explosivos hiere a un periodista en Ecuador' />
+    <h4><a href='https://computerhoy.com/alimentacion/monjes-alemanes-crean-primera-cerveza-polvo-mundo-1219562'>Monjes alemanes crean la primera cerveza en polvo del mundo</a></h4>
+    <a href='https://computerhoy.com/alimentacion/monjes-alemanes-crean-primera-cerveza-polvo-mundo-1219562' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/cerveza-polvo-2991042.jpg?tf=1200x' alt='Monjes alemanes crean la primera cerveza en polvo del mundo' />
     </a>
 </div>
 
