@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/te-rastrea-google-incluso-cuando-no-estas-utilizando-servicios-1219594'>Así te rastrea Google incluso cuando no estás utilizando sus servicios</a></h4>
-    <a href='https://computerhoy.com/google/te-rastrea-google-incluso-cuando-no-estas-utilizando-servicios-1219594' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/te-rastrea-google-incluso-cuando-no-estas-utilizando-servicios-2991102.jpg?tf=1200x' alt='Así te rastrea Google incluso cuando no estás utilizando sus servicios' />
+    <h4><a href='https://computerhoy.com/pc/lenovo-va-todo-mercado-portatil-dos-nuevos-modelos-2023-legion-gen-8-loq-1219726'>Lenovo va con todo al mercado portátil con sus dos nuevos modelos de 2023: Legion Gen 8 y LOQ</a></h4>
+    <a href='https://computerhoy.com/pc/lenovo-va-todo-mercado-portatil-dos-nuevos-modelos-2023-legion-gen-8-loq-1219726' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/lenovo-legion-8-2991496.jpg?tf=1200x' alt='Lenovo va con todo al mercado portátil con sus dos nuevos modelos de 2023: Legion Gen 8 y LOQ' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/android/vuelta-pebble-podria-ser-forma-pequeno-smartphone-1219634'>La vuelta de Pebble podría ser en forma de pequeño smartphone</a></h4>
-    <a href='https://computerhoy.com/android/vuelta-pebble-podria-ser-forma-pequeno-smartphone-1219634' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/pebble-2991218.jpg?tf=1200x' alt='La vuelta de Pebble podría ser en forma de pequeño smartphone' />
+    <h4><a href='https://computerhoy.com/life/cerberus-inmovilizador-personas-japon-video-1219728'>Cerberus, el inmovilizador de personas que llega de Japón (vídeo)</a></h4>
+    <a href='https://computerhoy.com/life/cerberus-inmovilizador-personas-japon-video-1219728' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/verticalimage1679571321089-2991400.jpg?tf=1200x' alt='Cerberus, el inmovilizador de personas que llega de Japón (vídeo)' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/familia-smartphones-redmi-note-12-5-modelos-conquistar-gran-publico-1219612'>Así es la familia de smartphones Redmi Note 12: 5 modelos para conquistar al gran público</a></h4>
-    <a href='https://computerhoy.com/moviles/familia-smartphones-redmi-note-12-5-modelos-conquistar-gran-publico-1219612' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/redmi-12-2991108.jpg?tf=1200x' alt='Así es la familia de smartphones Redmi Note 12: 5 modelos para conquistar al gran público' />
+    <h4><a href='https://computerhoy.com/alimentacion/peligroso-utilizar-recipientes-cristal-freidora-aire-1219706'>¿Es peligroso utilizar recipientes de cristal en la freidora de aire?</a></h4>
+    <a href='https://computerhoy.com/alimentacion/peligroso-utilizar-recipientes-cristal-freidora-aire-1219706' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/freidora-aire-toda-familia-philips-tamano-xl-mejores-ofertas-semana-2780243.jpg?tf=1200x' alt='¿Es peligroso utilizar recipientes de cristal en la freidora de aire?' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/movil-barato-hace-temblar-xiaomi-tiene-pantalla-120-hz-triple-camara-ia-precio-ridiculo-1219038'>Este móvil barato hace temblar a los Xiaomi: tiene pantalla de 120 Hz y triple cámara con IA a un precio ridículo</a></h4>
-    <a href='https://computerhoy.com/tecnologia/movil-barato-hace-temblar-xiaomi-tiene-pantalla-120-hz-triple-camara-ia-precio-ridiculo-1219038' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/realme-narzo-50-2664449.jpg?tf=1200x' alt='Este móvil barato hace temblar a los Xiaomi: tiene pantalla de 120 Hz y triple cámara con IA a un precio ridículo' />
+    <h4><a href='https://computerhoy.com/life/como-saber-ahora-mismo-declaracion-renta-2022-23-te-saldra-pagar-devolver-1219690'>Cómo saber ahora mismo si la declaración de la Renta 2022/23 te saldrá a pagar o devolver</a></h4>
+    <a href='https://computerhoy.com/life/como-saber-ahora-mismo-declaracion-renta-2022-23-te-saldra-pagar-devolver-1219690' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/fechas-renta-2022-23-pedir-borrador-cuando-podrias-tener-ingresada-devolucion-2969698.jpg?tf=1200x' alt='Cómo saber ahora mismo si la declaración de la Renta 2022/23 te saldrá a pagar o devolver' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/alimentacion/monjes-alemanes-crean-primera-cerveza-polvo-mundo-1219562'>Monjes alemanes crean la primera cerveza en polvo del mundo</a></h4>
-    <a href='https://computerhoy.com/alimentacion/monjes-alemanes-crean-primera-cerveza-polvo-mundo-1219562' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/cerveza-polvo-2991042.jpg?tf=1200x' alt='Monjes alemanes crean la primera cerveza en polvo del mundo' />
+    <h4><a href='https://computerhoy.com/tecnologia/tablet-ninos-tan-barata-parece-mentira-cuesta-solo-58-euros-cupon-descuento-1219054'>Esta tablet para niños es tan barata que parece mentira: cuesta solo 58 euros con un cupón descuento</a></h4>
+    <a href='https://computerhoy.com/tecnologia/tablet-ninos-tan-barata-parece-mentira-cuesta-solo-58-euros-cupon-descuento-1219054' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/teclast-p80t-2990034.jpg?tf=1200x' alt='Esta tablet para niños es tan barata que parece mentira: cuesta solo 58 euros con un cupón descuento' />
     </a>
 </div>
 
