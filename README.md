@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/moviles/familia-smartphones-redmi-note-12-5-modelos-conquistar-gran-publico-1219612'>Así es la familia de smartphones Redmi Note 12: 5 modelos para conquistar al gran público</a></h4>
+    <a href='https://computerhoy.com/moviles/familia-smartphones-redmi-note-12-5-modelos-conquistar-gran-publico-1219612' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/redmi-12-2991108.jpg?tf=1200x' alt='Así es la familia de smartphones Redmi Note 12: 5 modelos para conquistar al gran público' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/google/como-funciona-gmail-escriba-correos-ti-ia-movil-1219782'>Así es cómo funciona que Gmail escriba tus correos por ti con IA en tu móvil</a></h4>
+    <a href='https://computerhoy.com/google/como-funciona-gmail-escriba-correos-ti-ia-movil-1219782' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/persona-usando-gmail-2553633.jpg?tf=1200x' alt='Así es cómo funciona que Gmail escriba tus correos por ti con IA en tu móvil' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/pc/nuevos-lg-gram-autonomia-dia-mayor-potencia-graficas-nvidia-1219780'>Nuevos LG gram: autonomía de más de un día, mayor potencia y gráficas NVIDIA</a></h4>
+    <a href='https://computerhoy.com/pc/nuevos-lg-gram-autonomia-dia-mayor-potencia-graficas-nvidia-1219780' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/nuevos-lg-gram-autonomia-dia-mayor-potencia-graficas-nvidia-2991568.jpg?tf=1200x' alt='Nuevos LG gram: autonomía de más de un día, mayor potencia y gráficas NVIDIA' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/mejores-aplicaciones-evitar-distracciones-concentrarse-1162416'>Las mejores aplicaciones para evitar distracciones y concentrarse</a></h4>
+    <a href='https://computerhoy.com/apps/mejores-aplicaciones-evitar-distracciones-concentrarse-1162416' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/aplicaciones-evitar-cualquier-distraccion-telefono-movil-2908328.jpg?tf=1200x' alt='Las mejores aplicaciones para evitar distracciones y concentrarse' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/pc/lenovo-va-todo-mercado-portatil-dos-nuevos-modelos-2023-legion-gen-8-loq-1219726'>Lenovo va con todo al mercado portátil con sus dos nuevos modelos de 2023: Legion Gen 8 y LOQ</a></h4>
     <a href='https://computerhoy.com/pc/lenovo-va-todo-mercado-portatil-dos-nuevos-modelos-2023-legion-gen-8-loq-1219726' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/lenovo-legion-8-2991496.jpg?tf=1200x' alt='Lenovo va con todo al mercado portátil con sus dos nuevos modelos de 2023: Legion Gen 8 y LOQ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/cerberus-inmovilizador-personas-japon-video-1219728'>Cerberus, el inmovilizador de personas que llega de Japón (vídeo)</a></h4>
-    <a href='https://computerhoy.com/life/cerberus-inmovilizador-personas-japon-video-1219728' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/verticalimage1679571321089-2991400.jpg?tf=1200x' alt='Cerberus, el inmovilizador de personas que llega de Japón (vídeo)' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/alimentacion/peligroso-utilizar-recipientes-cristal-freidora-aire-1219706'>¿Es peligroso utilizar recipientes de cristal en la freidora de aire?</a></h4>
-    <a href='https://computerhoy.com/alimentacion/peligroso-utilizar-recipientes-cristal-freidora-aire-1219706' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/freidora-aire-toda-familia-philips-tamano-xl-mejores-ofertas-semana-2780243.jpg?tf=1200x' alt='¿Es peligroso utilizar recipientes de cristal en la freidora de aire?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/como-saber-ahora-mismo-declaracion-renta-2022-23-te-saldra-pagar-devolver-1219690'>Cómo saber ahora mismo si la declaración de la Renta 2022/23 te saldrá a pagar o devolver</a></h4>
-    <a href='https://computerhoy.com/life/como-saber-ahora-mismo-declaracion-renta-2022-23-te-saldra-pagar-devolver-1219690' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/fechas-renta-2022-23-pedir-borrador-cuando-podrias-tener-ingresada-devolucion-2969698.jpg?tf=1200x' alt='Cómo saber ahora mismo si la declaración de la Renta 2022/23 te saldrá a pagar o devolver' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/tablet-ninos-tan-barata-parece-mentira-cuesta-solo-58-euros-cupon-descuento-1219054'>Esta tablet para niños es tan barata que parece mentira: cuesta solo 58 euros con un cupón descuento</a></h4>
-    <a href='https://computerhoy.com/tecnologia/tablet-ninos-tan-barata-parece-mentira-cuesta-solo-58-euros-cupon-descuento-1219054' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/teclast-p80t-2990034.jpg?tf=1200x' alt='Esta tablet para niños es tan barata que parece mentira: cuesta solo 58 euros con un cupón descuento' />
     </a>
 </div>
 
