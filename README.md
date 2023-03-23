@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/perifericos/pendrive-usb-explosivo-periodista-ecuador-herido-1219332'>Más peligroso que el malware: un pendrive con explosivos hiere a un periodista en Ecuador</a></h4>
+    <a href='https://computerhoy.com/perifericos/pendrive-usb-explosivo-periodista-ecuador-herido-1219332' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/peligroso-malware-usb-explosivos-explotan-conectarlos-pc-2990756.jpg?tf=1200x' alt='Más peligroso que el malware: un pendrive con explosivos hiere a un periodista en Ecuador' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/perifericos/xiaomi-tv-stick-4k-chromecast-descuento-1219326'>Xiaomi TV Stick 4K con un 40% de descuento, un Chromecast con el toque maestro de Xiaomi</a></h4>
     <a href='https://computerhoy.com/perifericos/xiaomi-tv-stick-4k-chromecast-descuento-1219326' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/xiaomi-tv-stick-4k-40-descuento-chromecast-toque-maestro-xiaomi-2990740.jpg?tf=1200x' alt='Xiaomi TV Stick 4K con un 40% de descuento, un Chromecast con el toque maestro de Xiaomi' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/ciencia/como-atrapar-mentiroso-ciencia-1219298'>Cómo atrapar a un mentiroso, según la ciencia</a></h4>
     <a href='https://computerhoy.com/ciencia/como-atrapar-mentiroso-ciencia-1219298' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/decir-mentiras-2990648.jpg?tf=1200x' alt='Cómo atrapar a un mentiroso, según la ciencia' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/software/github-copilot-x-nueva-ia-parecida-chatgpt-destinada-ayudar-programadores-1219266'>GitHub Copilot X: así es la nueva IA parecida a ChatGPT y destinada a ayudar a programadores</a></h4>
-    <a href='https://computerhoy.com/software/github-copilot-x-nueva-ia-parecida-chatgpt-destinada-ayudar-programadores-1219266' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/github-copilot-x-nueva-ia-parecida-chatgpt-destinada-ayudar-programadores-2990478.jpg?tf=1200x' alt='GitHub Copilot X: así es la nueva IA parecida a ChatGPT y destinada a ayudar a programadores' />
     </a>
 </div>
 
