@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/moviles/poco-x5-pro-5g-movil-descuento-298-euros-cupon-1219868'>POCO X5 Pro 5G, el móvil que lo hace todo bien, por solo 298 euros con un cupón</a></h4>
+    <a href='https://computerhoy.com/moviles/poco-x5-pro-5g-movil-descuento-298-euros-cupon-1219868' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/poco-x5-poco-x5-pro-2976582.jpg?tf=1200x' alt='POCO X5 Pro 5G, el móvil que lo hace todo bien, por solo 298 euros con un cupón' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tv/tdt-resolucion-8k-directo-rtve-primicia-mundial-1219860'>La TDT a resolución 8K en directo, una primicia mundial que se estrena en España</a></h4>
+    <a href='https://computerhoy.com/tv/tdt-resolucion-8k-directo-rtve-primicia-mundial-1219860' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/tdt-resolucion-8k-directo-primicial-mundial-estrena-espana-2991826.jpg?tf=1200x' alt='La TDT a resolución 8K en directo, una primicia mundial que se estrena en España' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/moviles/lugares-peligrosos-nunca-deberias-llevar-movil-1219856'>Lugares peligrosos a los que nunca deberías llevar tu móvil</a></h4>
+    <a href='https://computerhoy.com/moviles/lugares-peligrosos-nunca-deberias-llevar-movil-1219856' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/hombre-usando-telefono-bano-2991848.jpg?tf=1200x' alt='Lugares peligrosos a los que nunca deberías llevar tu móvil' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/espacio/telescopio-james-webb-nasa-descubre-planeta-infernal-40-anos-luz-tierra-1219854'>El telescopio James Webb de la NASA descubre un planeta infernal a 40 años luz de la Tierra</a></h4>
     <a href='https://computerhoy.com/espacio/telescopio-james-webb-nasa-descubre-planeta-infernal-40-anos-luz-tierra-1219854' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/planeta-llamas-2991838.jpg?tf=1200x' alt='El telescopio James Webb de la NASA descubre un planeta infernal a 40 años luz de la Tierra' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/me-quiero-comprar-android-tv-que-debo-tener-cuenta-300523'>Android TV vs Smart TV: diferencias y opciones para tener un televisor inteligente</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/me-quiero-comprar-android-tv-que-debo-tener-cuenta-300523' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/smart-tv-2429129.jpg?tf=1200x' alt='Android TV vs Smart TV: diferencias y opciones para tener un televisor inteligente' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/ia-samsung-galaxy-s23-ultra-pasa-lista-pone-dientes-bebes-1219788'>La IA del Samsung Galaxy S23 Ultra se pasa de lista: le pone dientes a los bebés</a></h4>
-    <a href='https://computerhoy.com/moviles/ia-samsung-galaxy-s23-ultra-pasa-lista-pone-dientes-bebes-1219788' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/ia-samsung-galaxy-s23-ultra-pasa-lista-pone-dientes-bebes-2991778.jpg?tf=1200x' alt='La IA del Samsung Galaxy S23 Ultra se pasa de lista: le pone dientes a los bebés' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/te-falta-opcion-wifi-windows-11-puede-arreglar-1202520'>Si te falta la opción WiFi en Windows 11, así lo puede arreglar</a></h4>
-    <a href='https://computerhoy.com/tutoriales/te-falta-opcion-wifi-windows-11-puede-arreglar-1202520' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/wifi-windows-11-2960496.jpg?tf=1200x' alt='Si te falta la opción WiFi en Windows 11, así lo puede arreglar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/arma-secreta-eliminar-manchas-olores-ropa-despensa-868495'>El arma secreta para eliminar manchas y olores de la ropa está en tu despensa</a></h4>
-    <a href='https://computerhoy.com/noticias/life/arma-secreta-eliminar-manchas-olores-ropa-despensa-868495' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/ropa-huele-mal-2991774.jpg?tf=1200x' alt='El arma secreta para eliminar manchas y olores de la ropa está en tu despensa' />
     </a>
 </div>
 
