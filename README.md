@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/misofonia-afecta-20-poblacion-1219872'>La misofonía ya afecta a casi el 20% de la población, ¿la padeces y no lo sabes?</a></h4>
+    <a href='https://computerhoy.com/life/misofonia-afecta-20-poblacion-1219872' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/misofonia-ya-afecta-20-poblacion-padeces-no-sabes-2991932.jpg?tf=1200x' alt='La misofonía ya afecta a casi el 20% de la población, ¿la padeces y no lo sabes?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/moviles/tesla-plataforma-carga-inalambrica-moviles-cybertruck-1219870'>Tesla lanza una base de carga inalámbrica para móviles inspirada en el Cybertruck, carga tres dispositivos a la vez</a></h4>
+    <a href='https://computerhoy.com/moviles/tesla-plataforma-carga-inalambrica-moviles-cybertruck-1219870' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/tesla-pone-venta-cargador-inalambrico-moviles-inspirado-cybertruck-carga-tres-moviles-vez-2991886.jpg?tf=1200x' alt='Tesla lanza una base de carga inalámbrica para móviles inspirada en el Cybertruck, carga tres dispositivos a la vez' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/moviles/poco-x5-pro-5g-movil-descuento-298-euros-cupon-1219868'>POCO X5 Pro 5G, el móvil que lo hace todo bien, por solo 298 euros con un cupón</a></h4>
     <a href='https://computerhoy.com/moviles/poco-x5-pro-5g-movil-descuento-298-euros-cupon-1219868' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/poco-x5-poco-x5-pro-2976582.jpg?tf=1200x' alt='POCO X5 Pro 5G, el móvil que lo hace todo bien, por solo 298 euros con un cupón' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/moviles/lugares-peligrosos-nunca-deberias-llevar-movil-1219856'>Lugares peligrosos a los que nunca deberías llevar tu móvil</a></h4>
     <a href='https://computerhoy.com/moviles/lugares-peligrosos-nunca-deberias-llevar-movil-1219856' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/hombre-usando-telefono-bano-2991848.jpg?tf=1200x' alt='Lugares peligrosos a los que nunca deberías llevar tu móvil' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/telescopio-james-webb-nasa-descubre-planeta-infernal-40-anos-luz-tierra-1219854'>El telescopio James Webb de la NASA descubre un planeta infernal a 40 años luz de la Tierra</a></h4>
-    <a href='https://computerhoy.com/espacio/telescopio-james-webb-nasa-descubre-planeta-infernal-40-anos-luz-tierra-1219854' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/planeta-llamas-2991838.jpg?tf=1200x' alt='El telescopio James Webb de la NASA descubre un planeta infernal a 40 años luz de la Tierra' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/me-quiero-comprar-android-tv-que-debo-tener-cuenta-300523'>Android TV vs Smart TV: diferencias y opciones para tener un televisor inteligente</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/me-quiero-comprar-android-tv-que-debo-tener-cuenta-300523' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/smart-tv-2429129.jpg?tf=1200x' alt='Android TV vs Smart TV: diferencias y opciones para tener un televisor inteligente' />
     </a>
 </div>
 
