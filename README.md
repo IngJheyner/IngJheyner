@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/10-apps-ganar-dinero-movil-1219626'>10 apps para ganar dinero con tu móvil</a></h4>
-    <a href='https://computerhoy.com/apps/10-apps-ganar-dinero-movil-1219626' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/ganar-dinero-movil-2992510.jpg?tf=1200x' alt='10 apps para ganar dinero con tu móvil' />
+    <h4><a href='https://computerhoy.com/apps/llegan-whatsapp-audios-caducidad-solo-pueden-reproducir-vez-1220358'>Llegan a WhatsApp los audios con caducidad que solo se pueden reproducir una vez</a></h4>
+    <a href='https://computerhoy.com/apps/llegan-whatsapp-audios-caducidad-solo-pueden-reproducir-vez-1220358' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/audio-whatsapp-2876197.jpg?tf=1200x' alt='Llegan a WhatsApp los audios con caducidad que solo se pueden reproducir una vez' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/streaming/series-ver-fin-semana-movistar-plus-netflix-disney-futbol-espias-musica-1220262'>Qué series ver este fin de semana en Movistar Plus+, Netflix y Disney+: futbol, espías y música</a></h4>
-    <a href='https://computerhoy.com/streaming/series-ver-fin-semana-movistar-plus-netflix-disney-futbol-espias-musica-1220262' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/series-fin-semana-2992544.jpg?tf=1200x' alt='Qué series ver este fin de semana en Movistar Plus+, Netflix y Disney+: futbol, espías y música' />
+    <h4><a href='https://computerhoy.com/apps/chatgpt-soluciona-problemas-graves-sera-fiable-1220354'>ChatGPT soluciona uno de sus problemas más graves y será más fiable</a></h4>
+    <a href='https://computerhoy.com/apps/chatgpt-soluciona-problemas-graves-sera-fiable-1220354' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/puedes-forzar-chatgpt-genere-respuestas-malintencionadas-2974930.jpg?tf=1200x' alt='ChatGPT soluciona uno de sus problemas más graves y será más fiable' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/redes-sociales/whatsapp-estrena-chat-oficial-trucos-novedades-1220320'>WhatsApp estrena un chat oficial para recibir trucos y novedades</a></h4>
-    <a href='https://computerhoy.com/redes-sociales/whatsapp-estrena-chat-oficial-trucos-novedades-1220320' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/whatsapp-estrena-chat-oficial-resolver-dudas-recibir-ayuda-2992604.jpg?tf=1200x' alt='WhatsApp estrena un chat oficial para recibir trucos y novedades' />
+    <h4><a href='https://computerhoy.com/tecnologia/sam-altman-ceo-openai-responde-elon-musk-1220348'>Sam Altman, CEO de OpenAI, responde a Elon Musk: 'Es un idiota, pero realmente se preocupa por la IA'</a></h4>
+    <a href='https://computerhoy.com/tecnologia/sam-altman-ceo-openai-responde-elon-musk-1220348' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/futuro-ia-google-gpt-4-mundo-laboral-opina-ceo-openai-sam-altman-respecto-2937980.jpg?tf=1200x' alt='Sam Altman, CEO de OpenAI, responde a Elon Musk: 'Es un idiota, pero realmente se preocupa por la IA'' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/streaming/peliculas-ver-fin-semana-netflix-movistar-plus-prime-video-smile-robo-altura-malena-alterio-1220212'>Qué películas ver este fin de semana en Netflix, Movistar Plus+ y Prime Video: Smile, un robo de altura y Malena Alterio</a></h4>
-    <a href='https://computerhoy.com/streaming/peliculas-ver-fin-semana-netflix-movistar-plus-prime-video-smile-robo-altura-malena-alterio-1220212' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/peliculas-ver-fin-semana-netflix-movistar-plus-prime-video-smile-robo-altura-malena-alterio-2992468.jpg?tf=1200x' alt='Qué películas ver este fin de semana en Netflix, Movistar Plus+ y Prime Video: Smile, un robo de altura y Malena Alterio' />
+    <h4><a href='https://computerhoy.com/noticias/internet/como-ocultar-red-wifi-tu-router-77045'>Cómo ocultar la red WiFi de tu router</a></h4>
+    <a href='https://computerhoy.com/noticias/internet/como-ocultar-red-wifi-tu-router-77045' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/wifi-2991352.jpg?tf=1200x' alt='Cómo ocultar la red WiFi de tu router' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/mejores-juegos-tower-defense-telefonos-android-1168704'>Los mejores juegos tower defense para teléfonos Android</a></h4>
-    <a href='https://computerhoy.com/apps/mejores-juegos-tower-defense-telefonos-android-1168704' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/mejores-juegos-tower-defense-telefonos-android-2022-2908802.jpg?tf=1200x' alt='Los mejores juegos tower defense para teléfonos Android' />
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-oneplus-1026519'>Estos son los mejores móviles OnePlus que puedes comprar ahora mismo</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-oneplus-1026519' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/oneplus-11-5g-analisis-opinion-2952404.jpg?tf=1200x' alt='Estos son los mejores móviles OnePlus que puedes comprar ahora mismo' />
     </a>
 </div>
 
