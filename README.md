@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/redmi-note-12-pro-5g-analisis-opinion-modelo-top-nueva-familia-1214284'>Redmi Note 12 Pro + 5G, análisis y opinión del modelo top de la nueva familia</a></h4>
-    <a href='https://computerhoy.com/analisis/redmi-note-12-pro-5g-analisis-opinion-modelo-top-nueva-familia-1214284' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/redmi-note-12-pro-2991742.jpg?tf=1200x' alt='Redmi Note 12 Pro + 5G, análisis y opinión del modelo top de la nueva familia' />
+    <h4><a href='https://computerhoy.com/windows/windows-12-cerca-pensamos-comienza-estar-presente-windows-11-1220158'>Windows 12 está más cerca de lo que pensamos y comienza a estar presente en Windows 11</a></h4>
+    <a href='https://computerhoy.com/windows/windows-12-cerca-pensamos-comienza-estar-presente-windows-11-1220158' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/windows-12-2992294.jpg?tf=1200x' alt='Windows 12 está más cerca de lo que pensamos y comienza a estar presente en Windows 11' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/26-noticias-tecnologia-comenzar-manana-informado-ultimo-1220068'>26 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
-    <a href='https://computerhoy.com/tecnologia/26-noticias-tecnologia-comenzar-manana-informado-ultimo-1220068' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/26-noticias-tecnologia-comenzar-manana-informado-ultimo-2992118.jpg?tf=1200x' alt='26 noticias de tecnología para comenzar la mañana informado de lo último' />
+    <h4><a href='https://computerhoy.com/redes-sociales/twitter-eliminara-verificacion-azul-dias-menos-comiences-pagar-ella-1220118'>Twitter eliminará la verificación azul en unos días, a menos que comiences a pagar por ella</a></h4>
+    <a href='https://computerhoy.com/redes-sociales/twitter-eliminara-verificacion-azul-dias-menos-comiences-pagar-ella-1220118' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/twitter-eliminara-verificacion-azul-dias-menos-comiences-pagar-ella-2992236.jpg?tf=1200x' alt='Twitter eliminará la verificación azul en unos días, a menos que comiences a pagar por ella' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/guia-comprar-miravia-encontrar-mejores-ofertas-cupones-descuentos-1205722'>Guía para comprar en Miravia: encontrar las mejores ofertas, cupones y descuentos</a></h4>
-    <a href='https://computerhoy.com/tecnologia/guia-comprar-miravia-encontrar-mejores-ofertas-cupones-descuentos-1205722' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/ordenador-miravia-2990088.jpg?tf=1200x' alt='Guía para comprar en Miravia: encontrar las mejores ofertas, cupones y descuentos' />
+    <h4><a href='https://computerhoy.com/life/compromete-seguir-chatgpt-crear-negocio-millonario-estos-son-resultados-1220144'>Se compromete a seguir ChatGPT para crear un negocio millonario y estos son los resultados</a></h4>
+    <a href='https://computerhoy.com/life/compromete-seguir-chatgpt-crear-negocio-millonario-estos-son-resultados-1220144' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/millonario-2992340.jpg?tf=1200x' alt='Se compromete a seguir ChatGPT para crear un negocio millonario y estos son los resultados' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/misofonia-afecta-20-poblacion-1219872'>La misofonía ya afecta a casi el 20% de la población, ¿la padeces y no lo sabes?</a></h4>
-    <a href='https://computerhoy.com/life/misofonia-afecta-20-poblacion-1219872' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/misofonia-ya-afecta-20-poblacion-padeces-no-sabes-2991932.jpg?tf=1200x' alt='La misofonía ya afecta a casi el 20% de la población, ¿la padeces y no lo sabes?' />
+    <h4><a href='https://computerhoy.com/tecnologia/alternativa-xiaomi-airpods-rompe-record-precio-aniversario-aliexpress-1219104'>La alternativa de Xiaomi a los AirPods rompe su récord de precio en el Aniversario de AliExpress</a></h4>
+    <a href='https://computerhoy.com/tecnologia/alternativa-xiaomi-airpods-rompe-record-precio-aniversario-aliexpress-1219104' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/xiaomi-redmi-buds-4-pro-2990078.jpg?tf=1200x' alt='La alternativa de Xiaomi a los AirPods rompe su récord de precio en el Aniversario de AliExpress' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/tesla-plataforma-carga-inalambrica-moviles-cybertruck-1219870'>Tesla lanza una base de carga inalámbrica para móviles inspirada en el Cybertruck, carga tres dispositivos a la vez</a></h4>
-    <a href='https://computerhoy.com/moviles/tesla-plataforma-carga-inalambrica-moviles-cybertruck-1219870' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/tesla-pone-venta-cargador-inalambrico-moviles-inspirado-cybertruck-carga-tres-moviles-vez-2991886.jpg?tf=1200x' alt='Tesla lanza una base de carga inalámbrica para móviles inspirada en el Cybertruck, carga tres dispositivos a la vez' />
+    <h4><a href='https://computerhoy.com/redes/wifi-mesh-router-wifi-como-funcionan-diferencias-cual-mejor-ti-1220088'>WiFi Mesh o Router WiFi: cómo funcionan, diferencias y cuál es mejor para ti</a></h4>
+    <a href='https://computerhoy.com/redes/wifi-mesh-router-wifi-como-funcionan-diferencias-cual-mejor-ti-1220088' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/router-wifi-2633825.jpg?tf=1200x' alt='WiFi Mesh o Router WiFi: cómo funcionan, diferencias y cuál es mejor para ti' />
     </a>
 </div>
 
