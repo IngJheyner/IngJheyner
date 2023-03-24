@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/analisis/redmi-note-12-pro-5g-analisis-opinion-modelo-top-nueva-familia-1214284'>Redmi Note 12 Pro + 5G, análisis y opinión del modelo top de la nueva familia</a></h4>
+    <a href='https://computerhoy.com/analisis/redmi-note-12-pro-5g-analisis-opinion-modelo-top-nueva-familia-1214284' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/redmi-note-12-pro-2991742.jpg?tf=1200x' alt='Redmi Note 12 Pro + 5G, análisis y opinión del modelo top de la nueva familia' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/26-noticias-tecnologia-comenzar-manana-informado-ultimo-1220068'>26 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
+    <a href='https://computerhoy.com/tecnologia/26-noticias-tecnologia-comenzar-manana-informado-ultimo-1220068' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/26-noticias-tecnologia-comenzar-manana-informado-ultimo-2992118.jpg?tf=1200x' alt='26 noticias de tecnología para comenzar la mañana informado de lo último' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/guia-comprar-miravia-encontrar-mejores-ofertas-cupones-descuentos-1205722'>Guía para comprar en Miravia: encontrar las mejores ofertas, cupones y descuentos</a></h4>
+    <a href='https://computerhoy.com/tecnologia/guia-comprar-miravia-encontrar-mejores-ofertas-cupones-descuentos-1205722' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/ordenador-miravia-2990088.jpg?tf=1200x' alt='Guía para comprar en Miravia: encontrar las mejores ofertas, cupones y descuentos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/misofonia-afecta-20-poblacion-1219872'>La misofonía ya afecta a casi el 20% de la población, ¿la padeces y no lo sabes?</a></h4>
     <a href='https://computerhoy.com/life/misofonia-afecta-20-poblacion-1219872' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/misofonia-ya-afecta-20-poblacion-padeces-no-sabes-2991932.jpg?tf=1200x' alt='La misofonía ya afecta a casi el 20% de la población, ¿la padeces y no lo sabes?' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/moviles/tesla-plataforma-carga-inalambrica-moviles-cybertruck-1219870'>Tesla lanza una base de carga inalámbrica para móviles inspirada en el Cybertruck, carga tres dispositivos a la vez</a></h4>
     <a href='https://computerhoy.com/moviles/tesla-plataforma-carga-inalambrica-moviles-cybertruck-1219870' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/tesla-pone-venta-cargador-inalambrico-moviles-inspirado-cybertruck-carga-tres-moviles-vez-2991886.jpg?tf=1200x' alt='Tesla lanza una base de carga inalámbrica para móviles inspirada en el Cybertruck, carga tres dispositivos a la vez' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/poco-x5-pro-5g-movil-descuento-298-euros-cupon-1219868'>POCO X5 Pro 5G, el móvil que lo hace todo bien, por solo 298 euros con un cupón</a></h4>
-    <a href='https://computerhoy.com/moviles/poco-x5-pro-5g-movil-descuento-298-euros-cupon-1219868' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/poco-x5-poco-x5-pro-2976582.jpg?tf=1200x' alt='POCO X5 Pro 5G, el móvil que lo hace todo bien, por solo 298 euros con un cupón' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tv/tdt-resolucion-8k-directo-rtve-primicia-mundial-1219860'>La TDT a resolución 8K en directo, una primicia mundial que se estrena en España</a></h4>
-    <a href='https://computerhoy.com/tv/tdt-resolucion-8k-directo-rtve-primicia-mundial-1219860' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/tdt-resolucion-8k-directo-primicial-mundial-estrena-espana-2991826.jpg?tf=1200x' alt='La TDT a resolución 8K en directo, una primicia mundial que se estrena en España' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/lugares-peligrosos-nunca-deberias-llevar-movil-1219856'>Lugares peligrosos a los que nunca deberías llevar tu móvil</a></h4>
-    <a href='https://computerhoy.com/moviles/lugares-peligrosos-nunca-deberias-llevar-movil-1219856' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/hombre-usando-telefono-bano-2991848.jpg?tf=1200x' alt='Lugares peligrosos a los que nunca deberías llevar tu móvil' />
     </a>
 </div>
 
