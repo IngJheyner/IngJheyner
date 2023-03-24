@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/estos-son-riesgos-te-expones-utilizar-lista-iptv-ver-canales-pago-gratis-1220186'>Estos son los riesgos a los que te expones por utilizar una lista IPTV para ver canales de pago gratis</a></h4>
-    <a href='https://computerhoy.com/internet/estos-son-riesgos-te-expones-utilizar-lista-iptv-ver-canales-pago-gratis-1220186' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/08/iptv-mala-idea-utilizarlo_1.jpg?tf=1200x' alt='Estos son los riesgos a los que te expones por utilizar una lista IPTV para ver canales de pago gratis' />
+    <h4><a href='https://computerhoy.com/apps/10-apps-ganar-dinero-movil-1219626'>10 apps para ganar dinero con tu móvil</a></h4>
+    <a href='https://computerhoy.com/apps/10-apps-ganar-dinero-movil-1219626' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/ganar-dinero-movil-2992510.jpg?tf=1200x' alt='10 apps para ganar dinero con tu móvil' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/estas-son-diferencias-mastercard-visa-1220204'>Estas son las diferencias entre Mastercard y Visa</a></h4>
-    <a href='https://computerhoy.com/life/estas-son-diferencias-mastercard-visa-1220204' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/diferencias-hay-mastercard-visa-2992388.jpg?tf=1200x' alt='Estas son las diferencias entre Mastercard y Visa' />
+    <h4><a href='https://computerhoy.com/streaming/series-ver-fin-semana-movistar-plus-netflix-disney-futbol-espias-musica-1220262'>Qué series ver este fin de semana en Movistar Plus+, Netflix y Disney+: futbol, espías y música</a></h4>
+    <a href='https://computerhoy.com/streaming/series-ver-fin-semana-movistar-plus-netflix-disney-futbol-espias-musica-1220262' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/series-fin-semana-2992544.jpg?tf=1200x' alt='Qué series ver este fin de semana en Movistar Plus+, Netflix y Disney+: futbol, espías y música' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/amazon/cuando-amazon-prime-day-2023-1218992'>Cuándo es Amazon Prime Day 2023</a></h4>
-    <a href='https://computerhoy.com/amazon/cuando-amazon-prime-day-2023-1218992' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/almacen-ficticio-lleno-paquetes-2990030.jpg?tf=1200x' alt='Cuándo es Amazon Prime Day 2023' />
+    <h4><a href='https://computerhoy.com/redes-sociales/whatsapp-estrena-chat-oficial-trucos-novedades-1220320'>WhatsApp estrena un chat oficial para recibir trucos y novedades</a></h4>
+    <a href='https://computerhoy.com/redes-sociales/whatsapp-estrena-chat-oficial-trucos-novedades-1220320' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/whatsapp-estrena-chat-oficial-resolver-dudas-recibir-ayuda-2992604.jpg?tf=1200x' alt='WhatsApp estrena un chat oficial para recibir trucos y novedades' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/windows-12-cerca-pensamos-comienza-estar-presente-windows-11-1220158'>Windows 12 está más cerca de lo que pensamos y comienza a estar presente en Windows 11</a></h4>
-    <a href='https://computerhoy.com/windows/windows-12-cerca-pensamos-comienza-estar-presente-windows-11-1220158' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/windows-12-2992294.jpg?tf=1200x' alt='Windows 12 está más cerca de lo que pensamos y comienza a estar presente en Windows 11' />
+    <h4><a href='https://computerhoy.com/streaming/peliculas-ver-fin-semana-netflix-movistar-plus-prime-video-smile-robo-altura-malena-alterio-1220212'>Qué películas ver este fin de semana en Netflix, Movistar Plus+ y Prime Video: Smile, un robo de altura y Malena Alterio</a></h4>
+    <a href='https://computerhoy.com/streaming/peliculas-ver-fin-semana-netflix-movistar-plus-prime-video-smile-robo-altura-malena-alterio-1220212' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/peliculas-ver-fin-semana-netflix-movistar-plus-prime-video-smile-robo-altura-malena-alterio-2992468.jpg?tf=1200x' alt='Qué películas ver este fin de semana en Netflix, Movistar Plus+ y Prime Video: Smile, un robo de altura y Malena Alterio' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/redes-sociales/twitter-eliminara-verificacion-azul-dias-menos-comiences-pagar-ella-1220118'>Twitter eliminará la verificación azul en unos días, a menos que comiences a pagar por ella</a></h4>
-    <a href='https://computerhoy.com/redes-sociales/twitter-eliminara-verificacion-azul-dias-menos-comiences-pagar-ella-1220118' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/twitter-eliminara-verificacion-azul-dias-menos-comiences-pagar-ella-2992236.jpg?tf=1200x' alt='Twitter eliminará la verificación azul en unos días, a menos que comiences a pagar por ella' />
+    <h4><a href='https://computerhoy.com/apps/mejores-juegos-tower-defense-telefonos-android-1168704'>Los mejores juegos tower defense para teléfonos Android</a></h4>
+    <a href='https://computerhoy.com/apps/mejores-juegos-tower-defense-telefonos-android-1168704' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/mejores-juegos-tower-defense-telefonos-android-2022-2908802.jpg?tf=1200x' alt='Los mejores juegos tower defense para teléfonos Android' />
     </a>
 </div>
 
