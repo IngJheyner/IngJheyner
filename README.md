@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/altura-perfecta-debes-colocar-router-wifi-casa-1220264'>La altura perfecta a la que debes colocar el router WiFi en casa</a></h4>
+    <a href='https://computerhoy.com/tutoriales/altura-perfecta-debes-colocar-router-wifi-casa-1220264' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/senal-router-wifi-2992564.jpg?tf=1200x' alt='La altura perfecta a la que debes colocar el router WiFi en casa' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/espacio/primer-vuelo-terran-1-cohete-impreso-3d-bate-records-1220592'>El primer cohete impreso en 3D bate varios récords, pero no consigue todos sus objetivos</a></h4>
     <a href='https://computerhoy.com/espacio/primer-vuelo-terran-1-cohete-impreso-3d-bate-records-1220592' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/primer-cohete-impreso-3d-bate-varios-records-pero-no-consigue-todos-objetivos-2992782.jpg?tf=1200x' alt='El primer cohete impreso en 3D bate varios récords, pero no consigue todos sus objetivos' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/streaming/smile-almas-pena-inisherin-estreno-prime-video-disney-1220364'>Dos esperadísimas películas se estrenan sin aviso en Prime Video y Disney+</a></h4>
     <a href='https://computerhoy.com/streaming/smile-almas-pena-inisherin-estreno-prime-video-disney-1220364' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/smile-2845801.jpg?tf=1200x' alt='Dos esperadísimas películas se estrenan sin aviso en Prime Video y Disney+' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/llegan-whatsapp-audios-caducidad-solo-pueden-reproducir-vez-1220358'>Llegan a WhatsApp los audios con caducidad que solo se pueden reproducir una vez</a></h4>
-    <a href='https://computerhoy.com/apps/llegan-whatsapp-audios-caducidad-solo-pueden-reproducir-vez-1220358' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/audio-whatsapp-2876197.jpg?tf=1200x' alt='Llegan a WhatsApp los audios con caducidad que solo se pueden reproducir una vez' />
     </a>
 </div>
 
