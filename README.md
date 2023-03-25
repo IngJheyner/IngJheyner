@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/espacio/primer-vuelo-terran-1-cohete-impreso-3d-bate-records-1220592'>El primer cohete impreso en 3D bate varios récords, pero no consigue todos sus objetivos</a></h4>
+    <a href='https://computerhoy.com/espacio/primer-vuelo-terran-1-cohete-impreso-3d-bate-records-1220592' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/primer-cohete-impreso-3d-bate-varios-records-pero-no-consigue-todos-objetivos-2992782.jpg?tf=1200x' alt='El primer cohete impreso en 3D bate varios récords, pero no consigue todos sus objetivos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/criptos/detienen-do-kwon-criptomonedas-luna-terrausd-1220376'>Detienen a Do Kwon, el responsable del colapso de 40.000 millones de las criptomonedas Luna y TerraUSD</a></h4>
     <a href='https://computerhoy.com/criptos/detienen-do-kwon-criptomonedas-luna-terrausd-1220376' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/detienen-do-kwon-responsable-colapso-40000-millones-criptomonedas-luna-terrausd-2992732.jpg?tf=1200x' alt='Detienen a Do Kwon, el responsable del colapso de 40.000 millones de las criptomonedas Luna y TerraUSD' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/apps/llegan-whatsapp-audios-caducidad-solo-pueden-reproducir-vez-1220358'>Llegan a WhatsApp los audios con caducidad que solo se pueden reproducir una vez</a></h4>
     <a href='https://computerhoy.com/apps/llegan-whatsapp-audios-caducidad-solo-pueden-reproducir-vez-1220358' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/audio-whatsapp-2876197.jpg?tf=1200x' alt='Llegan a WhatsApp los audios con caducidad que solo se pueden reproducir una vez' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/chatgpt-soluciona-problemas-graves-sera-fiable-1220354'>ChatGPT soluciona uno de sus problemas más graves y será más fiable</a></h4>
-    <a href='https://computerhoy.com/apps/chatgpt-soluciona-problemas-graves-sera-fiable-1220354' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/puedes-forzar-chatgpt-genere-respuestas-malintencionadas-2974930.jpg?tf=1200x' alt='ChatGPT soluciona uno de sus problemas más graves y será más fiable' />
     </a>
 </div>
 
