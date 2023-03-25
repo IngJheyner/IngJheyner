@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tv/sintomas-claros-ha-llegado-momento-cambiar-smart-tv-1219072'>Síntomas claros que de que ha llegado el momento de cambiar tu Smart TV</a></h4>
-    <a href='https://computerhoy.com/tv/sintomas-claros-ha-llegado-momento-cambiar-smart-tv-1219072' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/comprar-televisor-smart-tv-2992522.jpg?tf=1200x' alt='Síntomas claros que de que ha llegado el momento de cambiar tu Smart TV' />
+    <h4><a href='https://computerhoy.com/apps/datos-registro-chatgpt-podrian-haber-estado-expuestos-incluida-informacion-pago-1220642'>Tus datos de registro de ChatGPT podrían haber estado expuestos incluida información de pago</a></h4>
+    <a href='https://computerhoy.com/apps/datos-registro-chatgpt-podrian-haber-estado-expuestos-incluida-informacion-pago-1220642' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/8-mejores-cursos-online-exprimir-maximo-chatgpt-2971818.jpg?tf=1200x' alt='Tus datos de registro de ChatGPT podrían haber estado expuestos incluida información de pago' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/streaming/como-ver-dazn-directo-cualquier-parte-estos-son-accesorios-necesitas-1219164'>Cómo ver DAZN en directo en cualquier parte: estos son los accesorios que necesitas</a></h4>
-    <a href='https://computerhoy.com/streaming/como-ver-dazn-directo-cualquier-parte-estos-son-accesorios-necesitas-1219164' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/dazn-f1-2990384.jpg?tf=1200x' alt='Cómo ver DAZN en directo en cualquier parte: estos son los accesorios que necesitas' />
+    <h4><a href='https://computerhoy.com/redes-sociales/efecto-chatgpt-redes-sociales-tambien-beneficiaran-inteligencia-artificial-1216328'>El efecto ChatGPT: las redes sociales también se beneficiarán de la inteligencia artificial </a></h4>
+    <a href='https://computerhoy.com/redes-sociales/efecto-chatgpt-redes-sociales-tambien-beneficiaran-inteligencia-artificial-1216328' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/efecto-chatgpt-redes-sociales-tambien-beneficiaran-inteligencia-artificial-2989088.jpg?tf=1200x' alt='El efecto ChatGPT: las redes sociales también se beneficiarán de la inteligencia artificial ' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/xiaomi-redmi-smart-band-2-review-analisis-caracteristicas-1214150'>Xiaomi Redmi Smart Band 2: la pulsera deportiva barata para los que no quieren complicarse</a></h4>
-    <a href='https://computerhoy.com/analisis/xiaomi-redmi-smart-band-2-review-analisis-caracteristicas-1214150' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/xiaomi-redmi-smart-band-2-analisis-opinion-2990212.jpg?tf=1200x' alt='Xiaomi Redmi Smart Band 2: la pulsera deportiva barata para los que no quieren complicarse' />
+    <h4><a href='https://computerhoy.com/apps/13-mejores-juegos-android-2023-1215802'>Los 13 mejores juegos Android de 2023</a></h4>
+    <a href='https://computerhoy.com/apps/13-mejores-juegos-android-2023-1215802' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/13-mejores-juegos-android-2023-2990644.jpg?tf=1200x' alt='Los 13 mejores juegos Android de 2023' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/como-saber-eres-infj-personalidad-mas-rara-mundo-1220606'>Cómo saber si eres un INFJ, la personalidad más rara del mundo</a></h4>
-    <a href='https://computerhoy.com/life/como-saber-eres-infj-personalidad-mas-rara-mundo-1220606' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/como-saber-eres-infj-personalidad-rara-mundo-2993004.jpg?tf=1200x' alt='Cómo saber si eres un INFJ, la personalidad más rara del mundo' />
+    <h4><a href='https://computerhoy.com/tutoriales/puedes-arreglar-imagenes-esten-borrosas-1214228'>Así puedes arreglar imágenes que estén borrosas</a></h4>
+    <a href='https://computerhoy.com/tutoriales/puedes-arreglar-imagenes-esten-borrosas-1214228' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/imagen-borrosa-solo-mitad-2981410.jpg?tf=1200x' alt='Así puedes arreglar imágenes que estén borrosas' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/mejores/mejores-servidores-nas-montar-nube-privada-1219132'>Mejores NAS para montar tu nube privada y pagar solo una vez</a></h4>
-    <a href='https://computerhoy.com/mejores/mejores-servidores-nas-montar-nube-privada-1219132' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/synology-ds920-2990244.jpg?tf=1200x' alt='Mejores NAS para montar tu nube privada y pagar solo una vez' />
+    <h4><a href='https://computerhoy.com/tecnologia/movil-barato-samsung-rebajado-solo-139-euros-1206832'>Este móvil barato de Samsung ahora lo es aún más: con 5.000 mAh de batería está rebajado a menos de 170 euros</a></h4>
+    <a href='https://computerhoy.com/tecnologia/movil-barato-samsung-rebajado-solo-139-euros-1206832' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/samsung-galaxy-a13-5g-nuevo-smartphone-rivalizara-gama-media-xiaomi-2548931.jpg?tf=1200x' alt='Este móvil barato de Samsung ahora lo es aún más: con 5.000 mAh de batería está rebajado a menos de 170 euros' />
     </a>
 </div>
 
