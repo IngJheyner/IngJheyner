@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/redes-sociales/eeuu-comienza-implementar-toque-queda-digital-ninos-1220658'>EE.UU. comienza a implementar el “toque de queda digital” para niños</a></h4>
-    <a href='https://computerhoy.com/redes-sociales/eeuu-comienza-implementar-toque-queda-digital-ninos-1220658' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/nino-usando-redes-sociales-2993126.jpg?tf=1200x' alt='EE.UU. comienza a implementar el “toque de queda digital” para niños' />
+    <h4><a href='https://computerhoy.com/tutoriales/como-borrar-eliminar-cuenta-instagram-definitivamente-1219778'>Cómo borrar o eliminar una cuenta de Instagram definitivamente</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-borrar-eliminar-cuenta-instagram-definitivamente-1219778' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/borrar-cuenta-instagram-2991584.jpg?tf=1200x' alt='Cómo borrar o eliminar una cuenta de Instagram definitivamente' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/mejores-aplicaciones-galerias-organizar-todas-fotografias-android-1168782'>Mejores aplicaciones de galerías con las que organizar todas tus fotografías en Android</a></h4>
-    <a href='https://computerhoy.com/apps/mejores-aplicaciones-galerias-organizar-todas-fotografias-android-1168782' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/mejores-galerias-organizar-todas-fotografias-android-2908864.jpg?tf=1200x' alt='Mejores aplicaciones de galerías con las que organizar todas tus fotografías en Android' />
+    <h4><a href='https://computerhoy.com/apple/apple-patenta-correas-apple-watch-chip-nfc-integrado-1220688'>Apple patenta correas para el Apple Watch con chip NFC integrado</a></h4>
+    <a href='https://computerhoy.com/apple/apple-patenta-correas-apple-watch-chip-nfc-integrado-1220688' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/apple-watch-series-8-analisis-opinion-2841957.jpg?tf=1200x' alt='Apple patenta correas para el Apple Watch con chip NFC integrado' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/nuevo-problema-coche-electrico-golpes-muy-leves-estan-terminando-siniestro-1220654'>Nuevo problema para el coche eléctrico: golpes muy leves están terminando en siniestro</a></h4>
-    <a href='https://computerhoy.com/motor/nuevo-problema-coche-electrico-golpes-muy-leves-estan-terminando-siniestro-1220654' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/coche-electrico-estacion-carga-2538519.jpg?tf=1200x' alt='Nuevo problema para el coche eléctrico: golpes muy leves están terminando en siniestro' />
+    <h4><a href='https://computerhoy.com/smartwatches/decathlon-kiprun-gps-900-coros-reloj-inteligente-deportes-1220198'>Así es Kiprun GPS 900 by Coros, el reloj para deportistas que quiere poner en jaque a Garmin y Apple Watch</a></h4>
+    <a href='https://computerhoy.com/smartwatches/decathlon-kiprun-gps-900-coros-reloj-inteligente-deportes-1220198' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/kiprun-gps-900-2992374.jpg?tf=1200x' alt='Así es Kiprun GPS 900 by Coros, el reloj para deportistas que quiere poner en jaque a Garmin y Apple Watch' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/como-preparar-cuerpo-cambio-hora-no-te-afecte-2-seran-3-1220644'>Cómo preparar tu cuerpo para que el cambio de hora no te afecte: a las 2 serán las 3</a></h4>
-    <a href='https://computerhoy.com/life/como-preparar-cuerpo-cambio-hora-no-te-afecte-2-seran-3-1220644' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/cambio-horario-verano-2993100.jpg?tf=1200x' alt='Cómo preparar tu cuerpo para que el cambio de hora no te afecte: a las 2 serán las 3' />
+    <h4><a href='https://computerhoy.com/moviles/actualizara-movil-hora-automaticamente-cambio-hora-domingo-1220666'>¿Actualizará tu móvil la hora automáticamente con el cambio de hora de este domingo?</a></h4>
+    <a href='https://computerhoy.com/moviles/actualizara-movil-hora-automaticamente-cambio-hora-domingo-1220666' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/cambio-hora-telefono-movil-2993156.jpg?tf=1200x' alt='¿Actualizará tu móvil la hora automáticamente con el cambio de hora de este domingo?' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/7-peliculas-series-viajes-tiempo-epoca-dinosaurios-aunque-no-sean-muy-creibles-1219278'>7 películas y series con viajes en el tiempo a la época de los dinosaurios, aunque no sean muy creíbles</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/7-peliculas-series-viajes-tiempo-epoca-dinosaurios-aunque-no-sean-muy-creibles-1219278' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/dinosaurios-2991784.jpg?tf=1200x' alt='7 películas y series con viajes en el tiempo a la época de los dinosaurios, aunque no sean muy creíbles' />
+    <h4><a href='https://computerhoy.com/motor/pierde-fuerza-alternativa-fuel-combustible-sintetico-precio-final-sera-desorbitado-1220664'>Pierde fuerza la alternativa del E-Fuel o combustible sintético: su precio final será desorbitado</a></h4>
+    <a href='https://computerhoy.com/motor/pierde-fuerza-alternativa-fuel-combustible-sintetico-precio-final-sera-desorbitado-1220664' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/combustible-2993152.jpg?tf=1200x' alt='Pierde fuerza la alternativa del E-Fuel o combustible sintético: su precio final será desorbitado' />
     </a>
 </div>
 
