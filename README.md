@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/criptos/detienen-do-kwon-criptomonedas-luna-terrausd-1220376'>Detienen a Do Kwon, el responsable del colapso de 40.000 millones de las criptomonedas Luna y TerraUSD</a></h4>
+    <a href='https://computerhoy.com/criptos/detienen-do-kwon-criptomonedas-luna-terrausd-1220376' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/detienen-do-kwon-responsable-colapso-40000-millones-criptomonedas-luna-terrausd-2992732.jpg?tf=1200x' alt='Detienen a Do Kwon, el responsable del colapso de 40.000 millones de las criptomonedas Luna y TerraUSD' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/pc/teclado-ergonomico-microsoft-raton-descuento-1220374'>Este teclado ergonómico de Microsoft con ratón te puede cambiar la vida, y tiene un 29% de descuento</a></h4>
+    <a href='https://computerhoy.com/pc/teclado-ergonomico-microsoft-raton-descuento-1220374' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/teclado-ergonomico-microsoft-raton-te-puede-cambiar-vida-tiene-29-descuento-2992728.jpg?tf=1200x' alt='Este teclado ergonómico de Microsoft con ratón te puede cambiar la vida, y tiene un 29% de descuento' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/streaming/smile-almas-pena-inisherin-estreno-prime-video-disney-1220364'>Dos esperadísimas películas se estrenan sin aviso en Prime Video y Disney+</a></h4>
+    <a href='https://computerhoy.com/streaming/smile-almas-pena-inisherin-estreno-prime-video-disney-1220364' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/smile-2845801.jpg?tf=1200x' alt='Dos esperadísimas películas se estrenan sin aviso en Prime Video y Disney+' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apps/llegan-whatsapp-audios-caducidad-solo-pueden-reproducir-vez-1220358'>Llegan a WhatsApp los audios con caducidad que solo se pueden reproducir una vez</a></h4>
     <a href='https://computerhoy.com/apps/llegan-whatsapp-audios-caducidad-solo-pueden-reproducir-vez-1220358' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/audio-whatsapp-2876197.jpg?tf=1200x' alt='Llegan a WhatsApp los audios con caducidad que solo se pueden reproducir una vez' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/apps/chatgpt-soluciona-problemas-graves-sera-fiable-1220354'>ChatGPT soluciona uno de sus problemas más graves y será más fiable</a></h4>
     <a href='https://computerhoy.com/apps/chatgpt-soluciona-problemas-graves-sera-fiable-1220354' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/puedes-forzar-chatgpt-genere-respuestas-malintencionadas-2974930.jpg?tf=1200x' alt='ChatGPT soluciona uno de sus problemas más graves y será más fiable' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/sam-altman-ceo-openai-responde-elon-musk-1220348'>Sam Altman, CEO de OpenAI, responde a Elon Musk: 'Es un idiota, pero realmente se preocupa por la IA'</a></h4>
-    <a href='https://computerhoy.com/tecnologia/sam-altman-ceo-openai-responde-elon-musk-1220348' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/futuro-ia-google-gpt-4-mundo-laboral-opina-ceo-openai-sam-altman-respecto-2937980.jpg?tf=1200x' alt='Sam Altman, CEO de OpenAI, responde a Elon Musk: 'Es un idiota, pero realmente se preocupa por la IA'' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/internet/como-ocultar-red-wifi-tu-router-77045'>Cómo ocultar la red WiFi de tu router</a></h4>
-    <a href='https://computerhoy.com/noticias/internet/como-ocultar-red-wifi-tu-router-77045' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/wifi-2991352.jpg?tf=1200x' alt='Cómo ocultar la red WiFi de tu router' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-oneplus-1026519'>Estos son los mejores móviles OnePlus que puedes comprar ahora mismo</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-oneplus-1026519' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/oneplus-11-5g-analisis-opinion-2952404.jpg?tf=1200x' alt='Estos son los mejores móviles OnePlus que puedes comprar ahora mismo' />
     </a>
 </div>
 
