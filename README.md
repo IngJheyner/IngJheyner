@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/datos-registro-chatgpt-podrian-haber-estado-expuestos-incluida-informacion-pago-1220642'>Tus datos de registro de ChatGPT podrían haber estado expuestos incluida información de pago</a></h4>
-    <a href='https://computerhoy.com/apps/datos-registro-chatgpt-podrian-haber-estado-expuestos-incluida-informacion-pago-1220642' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/8-mejores-cursos-online-exprimir-maximo-chatgpt-2971818.jpg?tf=1200x' alt='Tus datos de registro de ChatGPT podrían haber estado expuestos incluida información de pago' />
+    <h4><a href='https://computerhoy.com/redes-sociales/eeuu-comienza-implementar-toque-queda-digital-ninos-1220658'>EE.UU. comienza a implementar el “toque de queda digital” para niños</a></h4>
+    <a href='https://computerhoy.com/redes-sociales/eeuu-comienza-implementar-toque-queda-digital-ninos-1220658' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/nino-usando-redes-sociales-2993126.jpg?tf=1200x' alt='EE.UU. comienza a implementar el “toque de queda digital” para niños' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/redes-sociales/efecto-chatgpt-redes-sociales-tambien-beneficiaran-inteligencia-artificial-1216328'>El efecto ChatGPT: las redes sociales también se beneficiarán de la inteligencia artificial </a></h4>
-    <a href='https://computerhoy.com/redes-sociales/efecto-chatgpt-redes-sociales-tambien-beneficiaran-inteligencia-artificial-1216328' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/efecto-chatgpt-redes-sociales-tambien-beneficiaran-inteligencia-artificial-2989088.jpg?tf=1200x' alt='El efecto ChatGPT: las redes sociales también se beneficiarán de la inteligencia artificial ' />
+    <h4><a href='https://computerhoy.com/apps/mejores-aplicaciones-galerias-organizar-todas-fotografias-android-1168782'>Mejores aplicaciones de galerías con las que organizar todas tus fotografías en Android</a></h4>
+    <a href='https://computerhoy.com/apps/mejores-aplicaciones-galerias-organizar-todas-fotografias-android-1168782' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/mejores-galerias-organizar-todas-fotografias-android-2908864.jpg?tf=1200x' alt='Mejores aplicaciones de galerías con las que organizar todas tus fotografías en Android' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/13-mejores-juegos-android-2023-1215802'>Los 13 mejores juegos Android de 2023</a></h4>
-    <a href='https://computerhoy.com/apps/13-mejores-juegos-android-2023-1215802' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/13-mejores-juegos-android-2023-2990644.jpg?tf=1200x' alt='Los 13 mejores juegos Android de 2023' />
+    <h4><a href='https://computerhoy.com/motor/nuevo-problema-coche-electrico-golpes-muy-leves-estan-terminando-siniestro-1220654'>Nuevo problema para el coche eléctrico: golpes muy leves están terminando en siniestro</a></h4>
+    <a href='https://computerhoy.com/motor/nuevo-problema-coche-electrico-golpes-muy-leves-estan-terminando-siniestro-1220654' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/coche-electrico-estacion-carga-2538519.jpg?tf=1200x' alt='Nuevo problema para el coche eléctrico: golpes muy leves están terminando en siniestro' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/puedes-arreglar-imagenes-esten-borrosas-1214228'>Así puedes arreglar imágenes que estén borrosas</a></h4>
-    <a href='https://computerhoy.com/tutoriales/puedes-arreglar-imagenes-esten-borrosas-1214228' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/imagen-borrosa-solo-mitad-2981410.jpg?tf=1200x' alt='Así puedes arreglar imágenes que estén borrosas' />
+    <h4><a href='https://computerhoy.com/life/como-preparar-cuerpo-cambio-hora-no-te-afecte-2-seran-3-1220644'>Cómo preparar tu cuerpo para que el cambio de hora no te afecte: a las 2 serán las 3</a></h4>
+    <a href='https://computerhoy.com/life/como-preparar-cuerpo-cambio-hora-no-te-afecte-2-seran-3-1220644' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/cambio-horario-verano-2993100.jpg?tf=1200x' alt='Cómo preparar tu cuerpo para que el cambio de hora no te afecte: a las 2 serán las 3' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/movil-barato-samsung-rebajado-solo-139-euros-1206832'>Este móvil barato de Samsung ahora lo es aún más: con 5.000 mAh de batería está rebajado a menos de 170 euros</a></h4>
-    <a href='https://computerhoy.com/tecnologia/movil-barato-samsung-rebajado-solo-139-euros-1206832' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/samsung-galaxy-a13-5g-nuevo-smartphone-rivalizara-gama-media-xiaomi-2548931.jpg?tf=1200x' alt='Este móvil barato de Samsung ahora lo es aún más: con 5.000 mAh de batería está rebajado a menos de 170 euros' />
+    <h4><a href='https://computerhoy.com/entretenimiento/7-peliculas-series-viajes-tiempo-epoca-dinosaurios-aunque-no-sean-muy-creibles-1219278'>7 películas y series con viajes en el tiempo a la época de los dinosaurios, aunque no sean muy creíbles</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/7-peliculas-series-viajes-tiempo-epoca-dinosaurios-aunque-no-sean-muy-creibles-1219278' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/dinosaurios-2991784.jpg?tf=1200x' alt='7 películas y series con viajes en el tiempo a la época de los dinosaurios, aunque no sean muy creíbles' />
     </a>
 </div>
 
