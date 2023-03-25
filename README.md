@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/altura-perfecta-debes-colocar-router-wifi-casa-1220264'>La altura perfecta a la que debes colocar el router WiFi en casa</a></h4>
-    <a href='https://computerhoy.com/tutoriales/altura-perfecta-debes-colocar-router-wifi-casa-1220264' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/senal-router-wifi-2992564.jpg?tf=1200x' alt='La altura perfecta a la que debes colocar el router WiFi en casa' />
+    <h4><a href='https://computerhoy.com/tv/sintomas-claros-ha-llegado-momento-cambiar-smart-tv-1219072'>Síntomas claros que de que ha llegado el momento de cambiar tu Smart TV</a></h4>
+    <a href='https://computerhoy.com/tv/sintomas-claros-ha-llegado-momento-cambiar-smart-tv-1219072' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/comprar-televisor-smart-tv-2992522.jpg?tf=1200x' alt='Síntomas claros que de que ha llegado el momento de cambiar tu Smart TV' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/primer-vuelo-terran-1-cohete-impreso-3d-bate-records-1220592'>El primer cohete impreso en 3D bate varios récords, pero no consigue todos sus objetivos</a></h4>
-    <a href='https://computerhoy.com/espacio/primer-vuelo-terran-1-cohete-impreso-3d-bate-records-1220592' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/primer-cohete-impreso-3d-bate-varios-records-pero-no-consigue-todos-objetivos-2992782.jpg?tf=1200x' alt='El primer cohete impreso en 3D bate varios récords, pero no consigue todos sus objetivos' />
+    <h4><a href='https://computerhoy.com/streaming/como-ver-dazn-directo-cualquier-parte-estos-son-accesorios-necesitas-1219164'>Cómo ver DAZN en directo en cualquier parte: estos son los accesorios que necesitas</a></h4>
+    <a href='https://computerhoy.com/streaming/como-ver-dazn-directo-cualquier-parte-estos-son-accesorios-necesitas-1219164' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/dazn-f1-2990384.jpg?tf=1200x' alt='Cómo ver DAZN en directo en cualquier parte: estos son los accesorios que necesitas' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/criptos/detienen-do-kwon-criptomonedas-luna-terrausd-1220376'>Detienen a Do Kwon, el responsable del colapso de 40.000 millones de las criptomonedas Luna y TerraUSD</a></h4>
-    <a href='https://computerhoy.com/criptos/detienen-do-kwon-criptomonedas-luna-terrausd-1220376' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/detienen-do-kwon-responsable-colapso-40000-millones-criptomonedas-luna-terrausd-2992732.jpg?tf=1200x' alt='Detienen a Do Kwon, el responsable del colapso de 40.000 millones de las criptomonedas Luna y TerraUSD' />
+    <h4><a href='https://computerhoy.com/analisis/xiaomi-redmi-smart-band-2-review-analisis-caracteristicas-1214150'>Xiaomi Redmi Smart Band 2: la pulsera deportiva barata para los que no quieren complicarse</a></h4>
+    <a href='https://computerhoy.com/analisis/xiaomi-redmi-smart-band-2-review-analisis-caracteristicas-1214150' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/xiaomi-redmi-smart-band-2-analisis-opinion-2990212.jpg?tf=1200x' alt='Xiaomi Redmi Smart Band 2: la pulsera deportiva barata para los que no quieren complicarse' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/teclado-ergonomico-microsoft-raton-descuento-1220374'>Este teclado ergonómico de Microsoft con ratón te puede cambiar la vida, y tiene un 29% de descuento</a></h4>
-    <a href='https://computerhoy.com/pc/teclado-ergonomico-microsoft-raton-descuento-1220374' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/teclado-ergonomico-microsoft-raton-te-puede-cambiar-vida-tiene-29-descuento-2992728.jpg?tf=1200x' alt='Este teclado ergonómico de Microsoft con ratón te puede cambiar la vida, y tiene un 29% de descuento' />
+    <h4><a href='https://computerhoy.com/life/como-saber-eres-infj-personalidad-mas-rara-mundo-1220606'>Cómo saber si eres un INFJ, la personalidad más rara del mundo</a></h4>
+    <a href='https://computerhoy.com/life/como-saber-eres-infj-personalidad-mas-rara-mundo-1220606' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/como-saber-eres-infj-personalidad-rara-mundo-2993004.jpg?tf=1200x' alt='Cómo saber si eres un INFJ, la personalidad más rara del mundo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/streaming/smile-almas-pena-inisherin-estreno-prime-video-disney-1220364'>Dos esperadísimas películas se estrenan sin aviso en Prime Video y Disney+</a></h4>
-    <a href='https://computerhoy.com/streaming/smile-almas-pena-inisherin-estreno-prime-video-disney-1220364' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/smile-2845801.jpg?tf=1200x' alt='Dos esperadísimas películas se estrenan sin aviso en Prime Video y Disney+' />
+    <h4><a href='https://computerhoy.com/mejores/mejores-servidores-nas-montar-nube-privada-1219132'>Mejores NAS para montar tu nube privada y pagar solo una vez</a></h4>
+    <a href='https://computerhoy.com/mejores/mejores-servidores-nas-montar-nube-privada-1219132' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/synology-ds920-2990244.jpg?tf=1200x' alt='Mejores NAS para montar tu nube privada y pagar solo una vez' />
     </a>
 </div>
 
