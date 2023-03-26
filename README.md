@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/gana-20000-euros-mes-onlyfans-lavarse-dientes-delante-camara-1220730'>Gana 20.000 euros al mes en Onlyfans por lavarse los dientes delante de la cámara</a></h4>
+    <a href='https://computerhoy.com/apps/gana-20000-euros-mes-onlyfans-lavarse-dientes-delante-camara-1220730' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/mujer-lavandose-dientes-2993266.jpg?tf=1200x' alt='Gana 20.000 euros al mes en Onlyfans por lavarse los dientes delante de la cámara' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-instalar-autofirma-pc-windows-1217222'>Cómo instalar Autofirma en tu PC con Windows</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-instalar-autofirma-pc-windows-1217222' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/autofirma-2987130.jpg?tf=1200x' alt='Cómo instalar Autofirma en tu PC con Windows' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/internet/11-mejores-cursos-certificaciones-gratuitos-mejorar-curriculum-1215804'>Los 11 mejores cursos y certificaciones gratuitos para mejorar tu currículum</a></h4>
+    <a href='https://computerhoy.com/internet/11-mejores-cursos-certificaciones-gratuitos-mejorar-curriculum-1215804' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/teletrabajo-2584825.jpg?tf=1200x' alt='Los 11 mejores cursos y certificaciones gratuitos para mejorar tu currículum' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/ani-conoce-como-inteligencia-artificial-debil-limitada-1201620'>¿Qué es ANI y por qué se le conoce como inteligencia artificial débil o limitada?</a></h4>
+    <a href='https://computerhoy.com/tecnologia/ani-conoce-como-inteligencia-artificial-debil-limitada-1201620' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/verticalimage1679677777805-2992644.jpg?tf=1200x' alt='¿Qué es ANI y por qué se le conoce como inteligencia artificial débil o limitada?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tutoriales/4-maneras-redimensionar-imagenes-rapido-gratis-windows-11-1207456'>4 maneras de redimensionar imágenes rápido y gratis en Windows 11</a></h4>
     <a href='https://computerhoy.com/tutoriales/4-maneras-redimensionar-imagenes-rapido-gratis-windows-11-1207456' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/ordenador-fotos-2969052.jpg?tf=1200x' alt='4 maneras de redimensionar imágenes rápido y gratis en Windows 11' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/mejores/moviles-motorola-1217998'>Estos son los mejores móviles de Motorola que puedes comprar ahora mismo</a></h4>
-    <a href='https://computerhoy.com/mejores/moviles-motorola-1217998' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/motorola-edge-30-ultra-analisis-opinion-2904244.jpg?tf=1200x' alt='Estos son los mejores móviles de Motorola que puedes comprar ahora mismo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/robot-capaz-hacer-cualquier-trabajo-almacen-no-quieres-1220686'>El robot capaz de hacer cualquier trabajo en el almacén que tú no quieres</a></h4>
-    <a href='https://computerhoy.com/ciencia/robot-capaz-hacer-cualquier-trabajo-almacen-no-quieres-1220686' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/robot-capaz-hacer-cualquier-trabajo-almacen-no-quieres-2993186.jpg?tf=1200x' alt='El robot capaz de hacer cualquier trabajo en el almacén que tú no quieres' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/realidad-virtual/ano-gafas-vr-triunfaran-apple-samsung-donde-meta-no-consiguio-1214650'>El año de las gafas VR: ¿Triunfarán Apple o Samsung donde Meta no lo consiguió? </a></h4>
-    <a href='https://computerhoy.com/realidad-virtual/ano-gafas-vr-triunfaran-apple-samsung-donde-meta-no-consiguio-1214650' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/ano-gafas-vr-triunfaran-apple-samsung-donde-meta-no-consiguio-2991776.jpg?tf=1200x' alt='El año de las gafas VR: ¿Triunfarán Apple o Samsung donde Meta no lo consiguió? ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/torcer-girar-forma-correcta-comer-galleta-oreo-ciencia-1220682'>¿Torcer o girar? Esta es la forma correcta de comer una galleta Oreo, según la ciencia</a></h4>
-    <a href='https://computerhoy.com/ciencia/torcer-girar-forma-correcta-comer-galleta-oreo-ciencia-1220682' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/galletas-oreo-2993178.jpg?tf=1200x' alt='¿Torcer o girar? Esta es la forma correcta de comer una galleta Oreo, según la ciencia' />
     </a>
 </div>
 
