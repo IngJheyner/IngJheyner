@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/gaming/blizzard-te-limpia-casa-fin-semana-beta-diablo-iv-1220782'>Blizzard te limpia la casa durante el fin de semana para que puedas centrarte en jugar a la beta de Diablo IV</a></h4>
+    <a href='https://computerhoy.com/gaming/blizzard-te-limpia-casa-fin-semana-beta-diablo-iv-1220782' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/blizzard-te-limpia-casa-durante-fin-semana-puedas-centrarte-jugar-beta-diablo-iv-2993364.jpg?tf=1200x' alt='Blizzard te limpia la casa durante el fin de semana para que puedas centrarte en jugar a la beta de Diablo IV' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/amazon-prime-beneficios-trucos-972303'>Beneficios de Amazon Prime que pocos conocen y a los que no les estás sacando partido</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/amazon-prime-beneficios-trucos-972303' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/portada-amazon-prime-2749921.jpg?tf=1200x' alt='Beneficios de Amazon Prime que pocos conocen y a los que no les estás sacando partido' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/pc/fallece-gordon-moore-cofundador-intel-ley-moore-1220774'>Fallece Gordon Moore a los 94 años de edad, cofundador de Intel y creador de la mítica Ley de Moore</a></h4>
+    <a href='https://computerhoy.com/pc/fallece-gordon-moore-cofundador-intel-ley-moore-1220774' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/fallece-gordon-moore-cofundador-intel-creador-mitica-ley-moore-2993356.jpg?tf=1200x' alt='Fallece Gordon Moore a los 94 años de edad, cofundador de Intel y creador de la mítica Ley de Moore' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apps/whatsapp-trabaja-mensajes-cortos-video-parecerse-cada-vez-telegram-1220748'>WhatsApp trabaja en mensajes cortos de vídeo para parecerse cada vez más a Telegram</a></h4>
     <a href='https://computerhoy.com/apps/whatsapp-trabaja-mensajes-cortos-video-parecerse-cada-vez-telegram-1220748' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/whatsapp-te-permitira-enviar-fotos-alta-calidad-2954084.jpg?tf=1200x' alt='WhatsApp trabaja en mensajes cortos de vídeo para parecerse cada vez más a Telegram' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/life/todo-ha-aumentado-nivel-mar-tan-solo-ano-preocupa-cientificos-1220742'>Esto es todo lo que ha aumentado el nivel del mar en tan solo un año, y preocupa a los científicos</a></h4>
     <a href='https://computerhoy.com/life/todo-ha-aumentado-nivel-mar-tan-solo-ano-preocupa-cientificos-1220742' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/nivel-mar-2993278.jpg?tf=1200x' alt='Esto es todo lo que ha aumentado el nivel del mar en tan solo un año, y preocupa a los científicos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/tecnologia-permitiria-abrir-coche-identificando-solo-venas-mano-1220738'>Esta tecnología permitiría abrir nuestro coche identificando solo las venas de la mano</a></h4>
-    <a href='https://computerhoy.com/ciencia/tecnologia-permitiria-abrir-coche-identificando-solo-venas-mano-1220738' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/abrir-puerta-coche-2993272.jpg?tf=1200x' alt='Esta tecnología permitiría abrir nuestro coche identificando solo las venas de la mano' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/he-pasado-semana-probando-3-personalidades-bing-ya-tengo-mi-favorita-1220148'>He pasado una semana probando las 3 personalidades de Bing y ya tengo mi favorita</a></h4>
-    <a href='https://computerhoy.com/tecnologia/he-pasado-semana-probando-3-personalidades-bing-ya-tengo-mi-favorita-1220148' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/he-pasado-semana-probando-3-personalidades-bing-2992354.jpg?tf=1200x' alt='He pasado una semana probando las 3 personalidades de Bing y ya tengo mi favorita' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/como-saber-estas-obligado-presentar-no-declaracion-renta-2022-23-1220734'>Cómo saber si estás obligado a presentar (o no) la declaración de la Renta 2022/23</a></h4>
-    <a href='https://computerhoy.com/life/como-saber-estas-obligado-presentar-no-declaracion-renta-2022-23-1220734' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/03/pasa-no-presento-declaracion-renta-estas-son-multas-2270321.jpg?tf=1200x' alt='Cómo saber si estás obligado a presentar (o no) la declaración de la Renta 2022/23' />
     </a>
 </div>
 
