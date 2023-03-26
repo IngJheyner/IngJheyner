@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/redes-sociales/200-frases-instagram-cortas-bio-ingles-motivadoras-amor-viajes-1218968'>Más de 200 frases para Instagram: cortas, bio, en inglés, motivadoras, de amor, viajes y más</a></h4>
+    <a href='https://computerhoy.com/redes-sociales/200-frases-instagram-cortas-bio-ingles-motivadoras-amor-viajes-1218968' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/instagram-2992538.jpg?tf=1200x' alt='Más de 200 frases para Instagram: cortas, bio, en inglés, motivadoras, de amor, viajes y más' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-arreglar-movil-android-iphone-no-muestre-bien-hora-1188066'>Cómo arreglar que tu móvil Android o iPhone no muestre bien la hora</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-arreglar-movil-android-iphone-no-muestre-bien-hora-1188066' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/03/294295-como-hacer-que-tu-movil-aplique-cambio-horario-automaticamente.jpg?tf=1200x' alt='Cómo arreglar que tu móvil Android o iPhone no muestre bien la hora' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/espacio/unicas-fotos-superficie-venus-1219832'>Estas son las únicas fotos que existen de la superficie de Venus, por una buena razón</a></h4>
     <a href='https://computerhoy.com/espacio/unicas-fotos-superficie-venus-1219832' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/estas-son-unicas-fotos-existen-superficie-venus-buena-razon-2991728.jpg?tf=1200x' alt='Estas son las únicas fotos que existen de la superficie de Venus, por una buena razón' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/life/hora-deberias-irte-dormir-noche-no-te-afecte-cambio-hora-1220692'>La hora a la que deberías irte a dormir esta noche para que no te afecte el cambio de hora</a></h4>
     <a href='https://computerhoy.com/life/hora-deberias-irte-dormir-noche-no-te-afecte-cambio-hora-1220692' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/cambio-hora-2518341.jpg?tf=1200x' alt='La hora a la que deberías irte a dormir esta noche para que no te afecte el cambio de hora' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-borrar-eliminar-cuenta-instagram-definitivamente-1219778'>Cómo borrar o eliminar una cuenta de Instagram definitivamente</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-borrar-eliminar-cuenta-instagram-definitivamente-1219778' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/borrar-cuenta-instagram-2991584.jpg?tf=1200x' alt='Cómo borrar o eliminar una cuenta de Instagram definitivamente' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/apple-patenta-correas-apple-watch-chip-nfc-integrado-1220688'>Apple patenta correas para el Apple Watch con chip NFC integrado</a></h4>
-    <a href='https://computerhoy.com/apple/apple-patenta-correas-apple-watch-chip-nfc-integrado-1220688' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/apple-watch-series-8-analisis-opinion-2841957.jpg?tf=1200x' alt='Apple patenta correas para el Apple Watch con chip NFC integrado' />
     </a>
 </div>
 
