@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/espacio/unicas-fotos-superficie-venus-1219832'>Estas son las únicas fotos que existen de la superficie de Venus, por una buena razón</a></h4>
+    <a href='https://computerhoy.com/espacio/unicas-fotos-superficie-venus-1219832' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/estas-son-unicas-fotos-existen-superficie-venus-buena-razon-2991728.jpg?tf=1200x' alt='Estas son las únicas fotos que existen de la superficie de Venus, por una buena razón' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-se-llama-esta-cancion-501291'>¿Cómo se llama esta canción? Las mejores opciones para descubrir nombres de canciones</a></h4>
     <a href='https://computerhoy.com/tutoriales/tecnologia/como-se-llama-esta-cancion-501291' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/mejores-canciones-2991506.jpg?tf=1200x' alt='¿Cómo se llama esta canción? Las mejores opciones para descubrir nombres de canciones' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/apple/apple-patenta-correas-apple-watch-chip-nfc-integrado-1220688'>Apple patenta correas para el Apple Watch con chip NFC integrado</a></h4>
     <a href='https://computerhoy.com/apple/apple-patenta-correas-apple-watch-chip-nfc-integrado-1220688' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/apple-watch-series-8-analisis-opinion-2841957.jpg?tf=1200x' alt='Apple patenta correas para el Apple Watch con chip NFC integrado' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/smartwatches/decathlon-kiprun-gps-900-coros-reloj-inteligente-deportes-1220198'>Así es Kiprun GPS 900 by Coros, el reloj para deportistas que quiere poner en jaque a Garmin y Apple Watch</a></h4>
-    <a href='https://computerhoy.com/smartwatches/decathlon-kiprun-gps-900-coros-reloj-inteligente-deportes-1220198' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/kiprun-gps-900-2992374.jpg?tf=1200x' alt='Así es Kiprun GPS 900 by Coros, el reloj para deportistas que quiere poner en jaque a Garmin y Apple Watch' />
     </a>
 </div>
 
