@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/redes-sociales/200-frases-instagram-cortas-bio-ingles-motivadoras-amor-viajes-1218968'>Más de 200 frases para Instagram: cortas, bio, en inglés, motivadoras, de amor, viajes y más</a></h4>
-    <a href='https://computerhoy.com/redes-sociales/200-frases-instagram-cortas-bio-ingles-motivadoras-amor-viajes-1218968' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/instagram-2992538.jpg?tf=1200x' alt='Más de 200 frases para Instagram: cortas, bio, en inglés, motivadoras, de amor, viajes y más' />
+    <h4><a href='https://computerhoy.com/tutoriales/4-maneras-redimensionar-imagenes-rapido-gratis-windows-11-1207456'>4 maneras de redimensionar imágenes rápido y gratis en Windows 11</a></h4>
+    <a href='https://computerhoy.com/tutoriales/4-maneras-redimensionar-imagenes-rapido-gratis-windows-11-1207456' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/ordenador-fotos-2969052.jpg?tf=1200x' alt='4 maneras de redimensionar imágenes rápido y gratis en Windows 11' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-arreglar-movil-android-iphone-no-muestre-bien-hora-1188066'>Cómo arreglar que tu móvil Android o iPhone no muestre bien la hora</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-arreglar-movil-android-iphone-no-muestre-bien-hora-1188066' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/03/294295-como-hacer-que-tu-movil-aplique-cambio-horario-automaticamente.jpg?tf=1200x' alt='Cómo arreglar que tu móvil Android o iPhone no muestre bien la hora' />
+    <h4><a href='https://computerhoy.com/mejores/moviles-motorola-1217998'>Estos son los mejores móviles de Motorola que puedes comprar ahora mismo</a></h4>
+    <a href='https://computerhoy.com/mejores/moviles-motorola-1217998' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/motorola-edge-30-ultra-analisis-opinion-2904244.jpg?tf=1200x' alt='Estos son los mejores móviles de Motorola que puedes comprar ahora mismo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/unicas-fotos-superficie-venus-1219832'>Estas son las únicas fotos que existen de la superficie de Venus, por una buena razón</a></h4>
-    <a href='https://computerhoy.com/espacio/unicas-fotos-superficie-venus-1219832' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/estas-son-unicas-fotos-existen-superficie-venus-buena-razon-2991728.jpg?tf=1200x' alt='Estas son las únicas fotos que existen de la superficie de Venus, por una buena razón' />
+    <h4><a href='https://computerhoy.com/ciencia/robot-capaz-hacer-cualquier-trabajo-almacen-no-quieres-1220686'>El robot capaz de hacer cualquier trabajo en el almacén que tú no quieres</a></h4>
+    <a href='https://computerhoy.com/ciencia/robot-capaz-hacer-cualquier-trabajo-almacen-no-quieres-1220686' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/robot-capaz-hacer-cualquier-trabajo-almacen-no-quieres-2993186.jpg?tf=1200x' alt='El robot capaz de hacer cualquier trabajo en el almacén que tú no quieres' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-se-llama-esta-cancion-501291'>¿Cómo se llama esta canción? Las mejores opciones para descubrir nombres de canciones</a></h4>
-    <a href='https://computerhoy.com/tutoriales/tecnologia/como-se-llama-esta-cancion-501291' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/mejores-canciones-2991506.jpg?tf=1200x' alt='¿Cómo se llama esta canción? Las mejores opciones para descubrir nombres de canciones' />
+    <h4><a href='https://computerhoy.com/realidad-virtual/ano-gafas-vr-triunfaran-apple-samsung-donde-meta-no-consiguio-1214650'>El año de las gafas VR: ¿Triunfarán Apple o Samsung donde Meta no lo consiguió? </a></h4>
+    <a href='https://computerhoy.com/realidad-virtual/ano-gafas-vr-triunfaran-apple-samsung-donde-meta-no-consiguio-1214650' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/ano-gafas-vr-triunfaran-apple-samsung-donde-meta-no-consiguio-2991776.jpg?tf=1200x' alt='El año de las gafas VR: ¿Triunfarán Apple o Samsung donde Meta no lo consiguió? ' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/hora-deberias-irte-dormir-noche-no-te-afecte-cambio-hora-1220692'>La hora a la que deberías irte a dormir esta noche para que no te afecte el cambio de hora</a></h4>
-    <a href='https://computerhoy.com/life/hora-deberias-irte-dormir-noche-no-te-afecte-cambio-hora-1220692' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/cambio-hora-2518341.jpg?tf=1200x' alt='La hora a la que deberías irte a dormir esta noche para que no te afecte el cambio de hora' />
+    <h4><a href='https://computerhoy.com/ciencia/torcer-girar-forma-correcta-comer-galleta-oreo-ciencia-1220682'>¿Torcer o girar? Esta es la forma correcta de comer una galleta Oreo, según la ciencia</a></h4>
+    <a href='https://computerhoy.com/ciencia/torcer-girar-forma-correcta-comer-galleta-oreo-ciencia-1220682' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/galletas-oreo-2993178.jpg?tf=1200x' alt='¿Torcer o girar? Esta es la forma correcta de comer una galleta Oreo, según la ciencia' />
     </a>
 </div>
 
