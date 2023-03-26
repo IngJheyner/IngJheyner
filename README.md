@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/gana-20000-euros-mes-onlyfans-lavarse-dientes-delante-camara-1220730'>Gana 20.000 euros al mes en Onlyfans por lavarse los dientes delante de la cámara</a></h4>
-    <a href='https://computerhoy.com/apps/gana-20000-euros-mes-onlyfans-lavarse-dientes-delante-camara-1220730' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/mujer-lavandose-dientes-2993266.jpg?tf=1200x' alt='Gana 20.000 euros al mes en Onlyfans por lavarse los dientes delante de la cámara' />
+    <h4><a href='https://computerhoy.com/apps/whatsapp-trabaja-mensajes-cortos-video-parecerse-cada-vez-telegram-1220748'>WhatsApp trabaja en mensajes cortos de vídeo para parecerse cada vez más a Telegram</a></h4>
+    <a href='https://computerhoy.com/apps/whatsapp-trabaja-mensajes-cortos-video-parecerse-cada-vez-telegram-1220748' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/whatsapp-te-permitira-enviar-fotos-alta-calidad-2954084.jpg?tf=1200x' alt='WhatsApp trabaja en mensajes cortos de vídeo para parecerse cada vez más a Telegram' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-instalar-autofirma-pc-windows-1217222'>Cómo instalar Autofirma en tu PC con Windows</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-instalar-autofirma-pc-windows-1217222' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/autofirma-2987130.jpg?tf=1200x' alt='Cómo instalar Autofirma en tu PC con Windows' />
+    <h4><a href='https://computerhoy.com/life/todo-ha-aumentado-nivel-mar-tan-solo-ano-preocupa-cientificos-1220742'>Esto es todo lo que ha aumentado el nivel del mar en tan solo un año, y preocupa a los científicos</a></h4>
+    <a href='https://computerhoy.com/life/todo-ha-aumentado-nivel-mar-tan-solo-ano-preocupa-cientificos-1220742' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/nivel-mar-2993278.jpg?tf=1200x' alt='Esto es todo lo que ha aumentado el nivel del mar en tan solo un año, y preocupa a los científicos' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/11-mejores-cursos-certificaciones-gratuitos-mejorar-curriculum-1215804'>Los 11 mejores cursos y certificaciones gratuitos para mejorar tu currículum</a></h4>
-    <a href='https://computerhoy.com/internet/11-mejores-cursos-certificaciones-gratuitos-mejorar-curriculum-1215804' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/teletrabajo-2584825.jpg?tf=1200x' alt='Los 11 mejores cursos y certificaciones gratuitos para mejorar tu currículum' />
+    <h4><a href='https://computerhoy.com/ciencia/tecnologia-permitiria-abrir-coche-identificando-solo-venas-mano-1220738'>Esta tecnología permitiría abrir nuestro coche identificando solo las venas de la mano</a></h4>
+    <a href='https://computerhoy.com/ciencia/tecnologia-permitiria-abrir-coche-identificando-solo-venas-mano-1220738' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/abrir-puerta-coche-2993272.jpg?tf=1200x' alt='Esta tecnología permitiría abrir nuestro coche identificando solo las venas de la mano' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/ani-conoce-como-inteligencia-artificial-debil-limitada-1201620'>¿Qué es ANI y por qué se le conoce como inteligencia artificial débil o limitada?</a></h4>
-    <a href='https://computerhoy.com/tecnologia/ani-conoce-como-inteligencia-artificial-debil-limitada-1201620' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/verticalimage1679677777805-2992644.jpg?tf=1200x' alt='¿Qué es ANI y por qué se le conoce como inteligencia artificial débil o limitada?' />
+    <h4><a href='https://computerhoy.com/tecnologia/he-pasado-semana-probando-3-personalidades-bing-ya-tengo-mi-favorita-1220148'>He pasado una semana probando las 3 personalidades de Bing y ya tengo mi favorita</a></h4>
+    <a href='https://computerhoy.com/tecnologia/he-pasado-semana-probando-3-personalidades-bing-ya-tengo-mi-favorita-1220148' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/he-pasado-semana-probando-3-personalidades-bing-2992354.jpg?tf=1200x' alt='He pasado una semana probando las 3 personalidades de Bing y ya tengo mi favorita' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/4-maneras-redimensionar-imagenes-rapido-gratis-windows-11-1207456'>4 maneras de redimensionar imágenes rápido y gratis en Windows 11</a></h4>
-    <a href='https://computerhoy.com/tutoriales/4-maneras-redimensionar-imagenes-rapido-gratis-windows-11-1207456' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/ordenador-fotos-2969052.jpg?tf=1200x' alt='4 maneras de redimensionar imágenes rápido y gratis en Windows 11' />
+    <h4><a href='https://computerhoy.com/life/como-saber-estas-obligado-presentar-no-declaracion-renta-2022-23-1220734'>Cómo saber si estás obligado a presentar (o no) la declaración de la Renta 2022/23</a></h4>
+    <a href='https://computerhoy.com/life/como-saber-estas-obligado-presentar-no-declaracion-renta-2022-23-1220734' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/03/pasa-no-presento-declaracion-renta-estas-son-multas-2270321.jpg?tf=1200x' alt='Cómo saber si estás obligado a presentar (o no) la declaración de la Renta 2022/23' />
     </a>
 </div>
 
