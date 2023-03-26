@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/espacio/alineacion-5-planetas-luna-marzo-2023-como-ver-1220796'>Esta semana se van a alinear 5 planetas con la Luna, así puedes verlos</a></h4>
+    <a href='https://computerhoy.com/espacio/alineacion-5-planetas-luna-marzo-2023-como-ver-1220796' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/semana-van-alinear-5-planetas-luna-puedes-verlo-2993406.jpg?tf=1200x' alt='Esta semana se van a alinear 5 planetas con la Luna, así puedes verlos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/lugares-terrorificos-cueva-serpientes-colgantes-video-1202906'>Lugares terroríficos: la Cueva de las Serpientes Colgantes, que atacan desde el techo (vídeo)</a></h4>
+    <a href='https://computerhoy.com/life/lugares-terrorificos-cueva-serpientes-colgantes-video-1202906' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/lugares-terrorificos-cueva-serpientes-colgantes-atacan-techo-video-2961304.jpg?tf=1200x' alt='Lugares terroríficos: la Cueva de las Serpientes Colgantes, que atacan desde el techo (vídeo)' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/nvidia-criptomonedas-no-aportan-nada-util-sociedad-prefiere-inteligencia-artificial-1220792'>NVIDIA carga contra las criptomonedas: 'No aportan nada útil a la sociedad'</a></h4>
+    <a href='https://computerhoy.com/tecnologia/nvidia-criptomonedas-no-aportan-nada-util-sociedad-prefiere-inteligencia-artificial-1220792' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/granjas-minado-bitcoin-cortan-luz-iran-consumen-tanto-como-ciudad-100000-habitantes-2224757.jpg?tf=1200x' alt='NVIDIA carga contra las criptomonedas: 'No aportan nada útil a la sociedad'' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/gaming/blizzard-te-limpia-casa-fin-semana-beta-diablo-iv-1220782'>Blizzard te limpia la casa durante el fin de semana para que puedas centrarte en jugar a la beta de Diablo IV</a></h4>
     <a href='https://computerhoy.com/gaming/blizzard-te-limpia-casa-fin-semana-beta-diablo-iv-1220782' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/blizzard-te-limpia-casa-durante-fin-semana-puedas-centrarte-jugar-beta-diablo-iv-2993364.jpg?tf=1200x' alt='Blizzard te limpia la casa durante el fin de semana para que puedas centrarte en jugar a la beta de Diablo IV' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/amazon-prime-beneficios-trucos-972303'>Beneficios de Amazon Prime que pocos conocen y a los que no les estás sacando partido</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/amazon-prime-beneficios-trucos-972303' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/portada-amazon-prime-2749921.jpg?tf=1200x' alt='Beneficios de Amazon Prime que pocos conocen y a los que no les estás sacando partido' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/fallece-gordon-moore-cofundador-intel-ley-moore-1220774'>Fallece Gordon Moore a los 94 años de edad, cofundador de Intel y creador de la mítica Ley de Moore</a></h4>
-    <a href='https://computerhoy.com/pc/fallece-gordon-moore-cofundador-intel-ley-moore-1220774' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/fallece-gordon-moore-cofundador-intel-creador-mitica-ley-moore-2993356.jpg?tf=1200x' alt='Fallece Gordon Moore a los 94 años de edad, cofundador de Intel y creador de la mítica Ley de Moore' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/whatsapp-trabaja-mensajes-cortos-video-parecerse-cada-vez-telegram-1220748'>WhatsApp trabaja en mensajes cortos de vídeo para parecerse cada vez más a Telegram</a></h4>
-    <a href='https://computerhoy.com/apps/whatsapp-trabaja-mensajes-cortos-video-parecerse-cada-vez-telegram-1220748' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/whatsapp-te-permitira-enviar-fotos-alta-calidad-2954084.jpg?tf=1200x' alt='WhatsApp trabaja en mensajes cortos de vídeo para parecerse cada vez más a Telegram' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/todo-ha-aumentado-nivel-mar-tan-solo-ano-preocupa-cientificos-1220742'>Esto es todo lo que ha aumentado el nivel del mar en tan solo un año, y preocupa a los científicos</a></h4>
-    <a href='https://computerhoy.com/life/todo-ha-aumentado-nivel-mar-tan-solo-ano-preocupa-cientificos-1220742' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/nivel-mar-2993278.jpg?tf=1200x' alt='Esto es todo lo que ha aumentado el nivel del mar en tan solo un año, y preocupa a los científicos' />
     </a>
 </div>
 
