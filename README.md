@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/redes-sociales/fabricante-armas-no-puede-fabricar-municion-culpa-videos-gatitos-tiktok-1221428'>Un fabricante de armas asegura que no puede fabricar más munición por culpa de los vídeos de gatitos de TikTok</a></h4>
+    <a href='https://computerhoy.com/redes-sociales/fabricante-armas-no-puede-fabricar-municion-culpa-videos-gatitos-tiktok-1221428' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/fabricante-armas-asegura-no-puede-fabricar-municion-culpa-videos-gatos-tiktok-2994466.jpg?tf=1200x' alt='Un fabricante de armas asegura que no puede fabricar más munición por culpa de los vídeos de gatitos de TikTok' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/perifericos/formify-raton-a-medida-inteligencia-artificial-foto-mano-video-1221420'>Formify, el ratón a medida que una inteligencia artificial fabrica con una foto de tu mano (vídeo)</a></h4>
     <a href='https://computerhoy.com/perifericos/formify-raton-a-medida-inteligencia-artificial-foto-mano-video-1221420' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/verticalimage1679944263763-2994454.jpg?tf=1200x' alt='Formify, el ratón a medida que una inteligencia artificial fabrica con una foto de tu mano (vídeo)' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/pc/microsoft-surface-pro-9-portatil-2-1-200-euros-descuento-1221272'>Surface Pro 9, el portátil 2 en 1 más potente de Microsoft, ahora con 300 euros de descuento</a></h4>
     <a href='https://computerhoy.com/pc/microsoft-surface-pro-9-portatil-2-1-200-euros-descuento-1221272' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/surface-pro-9-portatil-2-1-potente-microsoft-ahora-200-euros-descuento-2994122.jpg?tf=1200x' alt='Surface Pro 9, el portátil 2 en 1 más potente de Microsoft, ahora con 300 euros de descuento' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/streaming/movistar-plus-estreno-peliculas-espanolas-vasil-manticora-la-maternal-abril-1221406'>Movistar Plus+ estrena tres películas españolas que dejan huella</a></h4>
-    <a href='https://computerhoy.com/streaming/movistar-plus-estreno-peliculas-espanolas-vasil-manticora-la-maternal-abril-1221406' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/movistar-plus-estrena-tres-peliculas-espanolas-dejan-huella-2994428.jpg?tf=1200x' alt='Movistar Plus+ estrena tres películas españolas que dejan huella' />
     </a>
 </div>
 
