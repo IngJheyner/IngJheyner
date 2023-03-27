@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/software/zoom-estrena-ia-no-te-pierdas-nada-llegas-tarde-reunion-1221324'>Zoom estrena una IA para que no te pierdas nada si llegas tarde a una reunión</a></h4>
-    <a href='https://computerhoy.com/software/zoom-estrena-ia-no-te-pierdas-nada-llegas-tarde-reunion-1221324' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/zoom-estrena-ia-no-te-pierdas-nada-llegas-tarde-reunion-2994424.jpg?tf=1200x' alt='Zoom estrena una IA para que no te pierdas nada si llegas tarde a una reunión' />
+    <h4><a href='https://computerhoy.com/perifericos/formify-raton-a-medida-inteligencia-artificial-foto-mano-video-1221420'>Formify, el ratón a medida que una inteligencia artificial fabrica con una foto de tu mano (vídeo)</a></h4>
+    <a href='https://computerhoy.com/perifericos/formify-raton-a-medida-inteligencia-artificial-foto-mano-video-1221420' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/verticalimage1679944263763-2994454.jpg?tf=1200x' alt='Formify, el ratón a medida que una inteligencia artificial fabrica con una foto de tu mano (vídeo)' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/software/estas-fotos-papa-han-hecho-virales-estan-generadas-ia-truco-descubrirlo-1221322'>Estas fotos del Papa que se han hecho virales están generadas con IA: este es el truco para descubrirlo</a></h4>
-    <a href='https://computerhoy.com/software/estas-fotos-papa-han-hecho-virales-estan-generadas-ia-truco-descubrirlo-1221322' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/estas-fotos-papa-han-hecho-virales-estan-generadas-ia-truco-descubrirlo-2994390.jpg?tf=1200x' alt='Estas fotos del Papa que se han hecho virales están generadas con IA: este es el truco para descubrirlo' />
+    <h4><a href='https://computerhoy.com/smartwatches/malas-noticias-diabeticos-tenian-puestas-esperanzas-apple-watch-1221414'>Malas noticias para los diabéticos que tenían puestas sus esperanzas en el Apple Watch</a></h4>
+    <a href='https://computerhoy.com/smartwatches/malas-noticias-diabeticos-tenian-puestas-esperanzas-apple-watch-1221414' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/apple-watch-series-8-analisis-opinion-2841939.jpg?tf=1200x' alt='Malas noticias para los diabéticos que tenían puestas sus esperanzas en el Apple Watch' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/gaming/microsoft-fulmina-mejores-ofertas-xbox-game-pass-1221314'>Microsoft fulmina una de las mejores ofertas del Xbox Game Pass</a></h4>
-    <a href='https://computerhoy.com/gaming/microsoft-fulmina-mejores-ofertas-xbox-game-pass-1221314' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/xbox-game-pass-2364743.jpg?tf=1200x' alt='Microsoft fulmina una de las mejores ofertas del Xbox Game Pass' />
+    <h4><a href='https://computerhoy.com/internet/millones-hogares-todo-mundo-tienen-router-wifi-colocado-lugar-equivocado-1221412'>Millones de hogares en todo el mundo tienen el router WiFi colocado en el lugar equivocado</a></h4>
+    <a href='https://computerhoy.com/internet/millones-hogares-todo-mundo-tienen-router-wifi-colocado-lugar-equivocado-1221412' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/router-wifi-2994456.jpg?tf=1200x' alt='Millones de hogares en todo el mundo tienen el router WiFi colocado en el lugar equivocado' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/amazon/ofertas-primavera-amazon-chollos-ofertas-1221164'>Ofertas de primavera de Amazon: estos son los mejores chollos</a></h4>
-    <a href='https://computerhoy.com/amazon/ofertas-primavera-amazon-chollos-ofertas-1221164' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/buzon-paquetes-amazon-ofertas-primavera-superpuesto-2994080.jpg?tf=1200x' alt='Ofertas de primavera de Amazon: estos son los mejores chollos' />
+    <h4><a href='https://computerhoy.com/pc/microsoft-surface-pro-9-portatil-2-1-200-euros-descuento-1221272'>Surface Pro 9, el portátil 2 en 1 más potente de Microsoft, ahora con 300 euros de descuento</a></h4>
+    <a href='https://computerhoy.com/pc/microsoft-surface-pro-9-portatil-2-1-200-euros-descuento-1221272' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/surface-pro-9-portatil-2-1-potente-microsoft-ahora-200-euros-descuento-2994122.jpg?tf=1200x' alt='Surface Pro 9, el portátil 2 en 1 más potente de Microsoft, ahora con 300 euros de descuento' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/apps-grabar-llamadas-movil-1221130'>10 apps gratis para grabar llamadas en iPhone y Android</a></h4>
-    <a href='https://computerhoy.com/apps/apps-grabar-llamadas-movil-1221130' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/10-apps-android-ios-grabar-llamadas-movil-2994004.jpg?tf=1200x' alt='10 apps gratis para grabar llamadas en iPhone y Android' />
+    <h4><a href='https://computerhoy.com/streaming/movistar-plus-estreno-peliculas-espanolas-vasil-manticora-la-maternal-abril-1221406'>Movistar Plus+ estrena tres películas españolas que dejan huella</a></h4>
+    <a href='https://computerhoy.com/streaming/movistar-plus-estreno-peliculas-espanolas-vasil-manticora-la-maternal-abril-1221406' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/movistar-plus-estrena-tres-peliculas-espanolas-dejan-huella-2994428.jpg?tf=1200x' alt='Movistar Plus+ estrena tres películas españolas que dejan huella' />
     </a>
 </div>
 
