@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/raspberry-presenta-arduino-r4-pequena-bestia-cpu-32-bits-16-veces-ram-usb-c-1221134'>Raspberry presenta Arduino Uno R4 una pequeña bestia con CPU de 32 bits, 16 veces más de RAM y USB-C</a></h4>
+    <a href='https://computerhoy.com/tecnologia/raspberry-presenta-arduino-r4-pequena-bestia-cpu-32-bits-16-veces-ram-usb-c-1221134' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/arduino-r4-2994052.jpg?tf=1200x' alt='Raspberry presenta Arduino Uno R4 una pequeña bestia con CPU de 32 bits, 16 veces más de RAM y USB-C' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/investigadores-microsoft-afirman-ultima-version-chatgpt-muestra-indicios-inteligencia-humana-1221122'>Investigadores de Microsoft afirman que la última versión de ChatGPT muestra indicios de inteligencia humana</a></h4>
+    <a href='https://computerhoy.com/investigadores-microsoft-afirman-ultima-version-chatgpt-muestra-indicios-inteligencia-humana-1221122' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/ultima-version-chatgpt-asusta-expertos-indicios-inteligencia-humana-2993750.jpg?tf=1200x' alt='Investigadores de Microsoft afirman que la última versión de ChatGPT muestra indicios de inteligencia humana' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/redes-sociales/malas-noticias-elon-musk-filtra-codigo-fuente-twitter-1221118'>Malas noticias para Elon Musk: se filtra el código fuente de Twitter</a></h4>
     <a href='https://computerhoy.com/redes-sociales/malas-noticias-elon-musk-filtra-codigo-fuente-twitter-1221118' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/estas-son-algunas-mejores-opciones-ser-nuevo-ceo-twitter-elon-musk-quiere-salvar-red-social-2929310.jpg?tf=1200x' alt='Malas noticias para Elon Musk: se filtra el código fuente de Twitter' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/apple/empleados-apple-creen-proximas-gafas-realidad-mixta-seran-gran-fracaso-1221102'>Empleados de Apple creen que las próximas gafas de realidad mixta serán un gran fracaso</a></h4>
     <a href='https://computerhoy.com/apple/empleados-apple-creen-proximas-gafas-realidad-mixta-seran-gran-fracaso-1221102' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/empleados-apple-creen-proximos-auriculares-realidad-mixta-seran-fracaso-2993744.jpg?tf=1200x' alt='Empleados de Apple creen que las próximas gafas de realidad mixta serán un gran fracaso' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/descubren-forma-perder-peso-no-recuperarlo-sea-sencillo-1221086'>Descubren una forma para que perder peso y no recuperarlo sea más sencillo</a></h4>
-    <a href='https://computerhoy.com/life/descubren-forma-perder-peso-no-recuperarlo-sea-sencillo-1221086' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/descubren-forma-perder-peso-no-recuperarlo-sea-sencillo-2993710.jpg?tf=1200x' alt='Descubren una forma para que perder peso y no recuperarlo sea más sencillo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-eliminar-cuenta-facebook-1220216'>Cómo eliminar una cuenta de Facebook</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-eliminar-cuenta-facebook-1220216' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/facebook-2992546.jpg?tf=1200x' alt='Cómo eliminar una cuenta de Facebook' />
     </a>
 </div>
 
