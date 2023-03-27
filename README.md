@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/apple-anadira-ios-17-varias-funciones-demandas-usuarios-1221288'>Apple añadirá a iOS 17 varias de las funciones más demandas por los usuarios</a></h4>
-    <a href='https://computerhoy.com/apple/apple-anadira-ios-17-varias-funciones-demandas-usuarios-1221288' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/iphone-14-2963536.jpg?tf=1200x' alt='Apple añadirá a iOS 17 varias de las funciones más demandas por los usuarios' />
+    <h4><a href='https://computerhoy.com/software/zoom-estrena-ia-no-te-pierdas-nada-llegas-tarde-reunion-1221324'>Zoom estrena una IA para que no te pierdas nada si llegas tarde a una reunión</a></h4>
+    <a href='https://computerhoy.com/software/zoom-estrena-ia-no-te-pierdas-nada-llegas-tarde-reunion-1221324' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/zoom-estrena-ia-no-te-pierdas-nada-llegas-tarde-reunion-2994424.jpg?tf=1200x' alt='Zoom estrena una IA para que no te pierdas nada si llegas tarde a una reunión' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/filtrados-posibles-requisitos-minimos-windows-12-no-pasaran-desapercibidos-1221276'>Filtrados los posibles requisitos mínimos de Windows 12 que no pasarán desapercibidos</a></h4>
-    <a href='https://computerhoy.com/windows/filtrados-posibles-requisitos-minimos-windows-12-no-pasaran-desapercibidos-1221276' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/windows-12-2971604.jpg?tf=1200x' alt='Filtrados los posibles requisitos mínimos de Windows 12 que no pasarán desapercibidos' />
+    <h4><a href='https://computerhoy.com/software/estas-fotos-papa-han-hecho-virales-estan-generadas-ia-truco-descubrirlo-1221322'>Estas fotos del Papa que se han hecho virales están generadas con IA: este es el truco para descubrirlo</a></h4>
+    <a href='https://computerhoy.com/software/estas-fotos-papa-han-hecho-virales-estan-generadas-ia-truco-descubrirlo-1221322' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/estas-fotos-papa-han-hecho-virales-estan-generadas-ia-truco-descubrirlo-2994390.jpg?tf=1200x' alt='Estas fotos del Papa que se han hecho virales están generadas con IA: este es el truco para descubrirlo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/honor-70-lite-nuevo-movil-gama-entrada-5g-triple-camara-llega-espana-1221274'>HONOR 70 Lite: así es el nuevo móvil de gama de entrada con 5G y triple cámara que llega a España</a></h4>
-    <a href='https://computerhoy.com/moviles/honor-70-lite-nuevo-movil-gama-entrada-5g-triple-camara-llega-espana-1221274' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/honor-70-lite-nuevo-movil-gama-entrada-5g-triple-camara-llega-espana-2994162.jpg?tf=1200x' alt='HONOR 70 Lite: así es el nuevo móvil de gama de entrada con 5G y triple cámara que llega a España' />
+    <h4><a href='https://computerhoy.com/gaming/microsoft-fulmina-mejores-ofertas-xbox-game-pass-1221314'>Microsoft fulmina una de las mejores ofertas del Xbox Game Pass</a></h4>
+    <a href='https://computerhoy.com/gaming/microsoft-fulmina-mejores-ofertas-xbox-game-pass-1221314' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/xbox-game-pass-2364743.jpg?tf=1200x' alt='Microsoft fulmina una de las mejores ofertas del Xbox Game Pass' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/raspberry-presenta-arduino-r4-pequena-bestia-cpu-32-bits-16-veces-ram-usb-c-1221134'>Raspberry presenta Arduino Uno R4 una pequeña bestia con CPU de 32 bits, 16 veces más de RAM y USB-C</a></h4>
-    <a href='https://computerhoy.com/tecnologia/raspberry-presenta-arduino-r4-pequena-bestia-cpu-32-bits-16-veces-ram-usb-c-1221134' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/arduino-r4-2994052.jpg?tf=1200x' alt='Raspberry presenta Arduino Uno R4 una pequeña bestia con CPU de 32 bits, 16 veces más de RAM y USB-C' />
+    <h4><a href='https://computerhoy.com/amazon/ofertas-primavera-amazon-chollos-ofertas-1221164'>Ofertas de primavera de Amazon: estos son los mejores chollos</a></h4>
+    <a href='https://computerhoy.com/amazon/ofertas-primavera-amazon-chollos-ofertas-1221164' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/buzon-paquetes-amazon-ofertas-primavera-superpuesto-2994080.jpg?tf=1200x' alt='Ofertas de primavera de Amazon: estos son los mejores chollos' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/investigadores-microsoft-afirman-ultima-version-chatgpt-muestra-indicios-inteligencia-humana-1221122'>Investigadores de Microsoft afirman que la última versión de ChatGPT muestra indicios de inteligencia humana</a></h4>
-    <a href='https://computerhoy.com/investigadores-microsoft-afirman-ultima-version-chatgpt-muestra-indicios-inteligencia-humana-1221122' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/ultima-version-chatgpt-asusta-expertos-indicios-inteligencia-humana-2993750.jpg?tf=1200x' alt='Investigadores de Microsoft afirman que la última versión de ChatGPT muestra indicios de inteligencia humana' />
+    <h4><a href='https://computerhoy.com/apps/apps-grabar-llamadas-movil-1221130'>10 apps gratis para grabar llamadas en iPhone y Android</a></h4>
+    <a href='https://computerhoy.com/apps/apps-grabar-llamadas-movil-1221130' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/10-apps-android-ios-grabar-llamadas-movil-2994004.jpg?tf=1200x' alt='10 apps gratis para grabar llamadas en iPhone y Android' />
     </a>
 </div>
 
