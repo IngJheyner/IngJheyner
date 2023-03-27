@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/37-noticias-tecnologia-comenzar-manana-informado-ultimo-1221066'>37 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
-    <a href='https://computerhoy.com/tecnologia/37-noticias-tecnologia-comenzar-manana-informado-ultimo-1221066' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/37-noticias-tecnologia-comenzar-manana-informado-ultimo-2993686.jpg?tf=1200x' alt='37 noticias de tecnología para comenzar la mañana informado de lo último' />
+    <h4><a href='https://computerhoy.com/redes-sociales/malas-noticias-elon-musk-filtra-codigo-fuente-twitter-1221118'>Malas noticias para Elon Musk: se filtra el código fuente de Twitter</a></h4>
+    <a href='https://computerhoy.com/redes-sociales/malas-noticias-elon-musk-filtra-codigo-fuente-twitter-1221118' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/estas-son-algunas-mejores-opciones-ser-nuevo-ceo-twitter-elon-musk-quiere-salvar-red-social-2929310.jpg?tf=1200x' alt='Malas noticias para Elon Musk: se filtra el código fuente de Twitter' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/mejores/interruptores-inteligentes-wifi-1220116'>Interruptores inteligentes WiFi: qué debes saber y cuáles son los mejores</a></h4>
-    <a href='https://computerhoy.com/mejores/interruptores-inteligentes-wifi-1220116' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/iluminacion-interruptores-inteligente-2992244.jpg?tf=1200x' alt='Interruptores inteligentes WiFi: qué debes saber y cuáles son los mejores' />
+    <h4><a href='https://computerhoy.com/tecnologia/ventiladores-techo-vuelven-estar-moda-cecotec-tiene-mando-distancia-wifi-1219168'>Los ventiladores de techo vuelven a estar de moda: este de Cecotec tiene mando a distancia y WiFi</a></h4>
+    <a href='https://computerhoy.com/tecnologia/ventiladores-techo-vuelven-estar-moda-cecotec-tiene-mando-distancia-wifi-1219168' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/cecotec-energysilence-aero-5400-aqua-connected-2990282.jpg?tf=1200x' alt='Los ventiladores de techo vuelven a estar de moda: este de Cecotec tiene mando a distancia y WiFi' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/alineacion-5-planetas-luna-marzo-2023-como-ver-1220796'>Esta semana se van a alinear 5 planetas con la Luna, así puedes verlos</a></h4>
-    <a href='https://computerhoy.com/espacio/alineacion-5-planetas-luna-marzo-2023-como-ver-1220796' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/semana-van-alinear-5-planetas-luna-puedes-verlo-2993406.jpg?tf=1200x' alt='Esta semana se van a alinear 5 planetas con la Luna, así puedes verlos' />
+    <h4><a href='https://computerhoy.com/apple/empleados-apple-creen-proximas-gafas-realidad-mixta-seran-gran-fracaso-1221102'>Empleados de Apple creen que las próximas gafas de realidad mixta serán un gran fracaso</a></h4>
+    <a href='https://computerhoy.com/apple/empleados-apple-creen-proximas-gafas-realidad-mixta-seran-gran-fracaso-1221102' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/empleados-apple-creen-proximos-auriculares-realidad-mixta-seran-fracaso-2993744.jpg?tf=1200x' alt='Empleados de Apple creen que las próximas gafas de realidad mixta serán un gran fracaso' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/lugares-terrorificos-cueva-serpientes-colgantes-video-1202906'>Lugares terroríficos: la Cueva de las Serpientes Colgantes, que atacan desde el techo (vídeo)</a></h4>
-    <a href='https://computerhoy.com/life/lugares-terrorificos-cueva-serpientes-colgantes-video-1202906' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/lugares-terrorificos-cueva-serpientes-colgantes-atacan-techo-video-2961304.jpg?tf=1200x' alt='Lugares terroríficos: la Cueva de las Serpientes Colgantes, que atacan desde el techo (vídeo)' />
+    <h4><a href='https://computerhoy.com/life/descubren-forma-perder-peso-no-recuperarlo-sea-sencillo-1221086'>Descubren una forma para que perder peso y no recuperarlo sea más sencillo</a></h4>
+    <a href='https://computerhoy.com/life/descubren-forma-perder-peso-no-recuperarlo-sea-sencillo-1221086' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/descubren-forma-perder-peso-no-recuperarlo-sea-sencillo-2993710.jpg?tf=1200x' alt='Descubren una forma para que perder peso y no recuperarlo sea más sencillo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/nvidia-criptomonedas-no-aportan-nada-util-sociedad-prefiere-inteligencia-artificial-1220792'>NVIDIA carga contra las criptomonedas: 'No aportan nada útil a la sociedad'</a></h4>
-    <a href='https://computerhoy.com/tecnologia/nvidia-criptomonedas-no-aportan-nada-util-sociedad-prefiere-inteligencia-artificial-1220792' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/granjas-minado-bitcoin-cortan-luz-iran-consumen-tanto-como-ciudad-100000-habitantes-2224757.jpg?tf=1200x' alt='NVIDIA carga contra las criptomonedas: 'No aportan nada útil a la sociedad'' />
+    <h4><a href='https://computerhoy.com/tutoriales/como-eliminar-cuenta-facebook-1220216'>Cómo eliminar una cuenta de Facebook</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-eliminar-cuenta-facebook-1220216' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/facebook-2992546.jpg?tf=1200x' alt='Cómo eliminar una cuenta de Facebook' />
     </a>
 </div>
 
