@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/life/mejores-ventiladores-techo-leroy-merlin-1076517'>Ventiladores de techo de Leroy Merlin: estos son los más vendidos y mejor valorados</a></h4>
+    <a href='https://computerhoy.com/reportajes/life/mejores-ventiladores-techo-leroy-merlin-1076517' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/salon-ventilador-techo-2729599.jpg?tf=1200x' alt='Ventiladores de techo de Leroy Merlin: estos son los más vendidos y mejor valorados' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/analisis/analisis-razer-blade-18-bestia-gaming-portatil-solo-apta-profesionales-1218032'>Análisis del Razer Blade 18, una bestia gaming portátil solo apta para profesionales</a></h4>
+    <a href='https://computerhoy.com/analisis/analisis-razer-blade-18-bestia-gaming-portatil-solo-apta-profesionales-1218032' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/razer-blade-18-2990460.jpg?tf=1200x' alt='Análisis del Razer Blade 18, una bestia gaming portátil solo apta para profesionales' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/24-noticias-tecnologia-comenzar-manana-informado-ultimo-1221628'>24 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
     <a href='https://computerhoy.com/tecnologia/24-noticias-tecnologia-comenzar-manana-informado-ultimo-1221628' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/24-noticias-tecnologia-comenzar-manana-informado-ultimo-2994670.jpg?tf=1200x' alt='24 noticias de tecnología para comenzar la mañana informado de lo último' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/redes-sociales/fabricante-armas-no-puede-fabricar-municion-culpa-videos-gatitos-tiktok-1221428'>Un fabricante de armas asegura que no puede fabricar más munición por culpa de los vídeos de gatitos de TikTok</a></h4>
     <a href='https://computerhoy.com/redes-sociales/fabricante-armas-no-puede-fabricar-municion-culpa-videos-gatitos-tiktok-1221428' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/fabricante-armas-asegura-no-puede-fabricar-municion-culpa-videos-gatos-tiktok-2994466.jpg?tf=1200x' alt='Un fabricante de armas asegura que no puede fabricar más munición por culpa de los vídeos de gatitos de TikTok' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/perifericos/formify-raton-a-medida-inteligencia-artificial-foto-mano-video-1221420'>Formify, el ratón a medida que una inteligencia artificial fabrica con una foto de tu mano (vídeo)</a></h4>
-    <a href='https://computerhoy.com/perifericos/formify-raton-a-medida-inteligencia-artificial-foto-mano-video-1221420' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/verticalimage1679944263763-2994454.jpg?tf=1200x' alt='Formify, el ratón a medida que una inteligencia artificial fabrica con una foto de tu mano (vídeo)' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/smartwatches/malas-noticias-diabeticos-tenian-puestas-esperanzas-apple-watch-1221414'>Malas noticias para los diabéticos que tenían puestas sus esperanzas en el Apple Watch</a></h4>
-    <a href='https://computerhoy.com/smartwatches/malas-noticias-diabeticos-tenian-puestas-esperanzas-apple-watch-1221414' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/apple-watch-series-8-analisis-opinion-2841939.jpg?tf=1200x' alt='Malas noticias para los diabéticos que tenían puestas sus esperanzas en el Apple Watch' />
     </a>
 </div>
 
