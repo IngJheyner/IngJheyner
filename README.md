@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/life/mejores-ventiladores-techo-leroy-merlin-1076517'>Ventiladores de techo de Leroy Merlin: estos son los más vendidos y mejor valorados</a></h4>
-    <a href='https://computerhoy.com/reportajes/life/mejores-ventiladores-techo-leroy-merlin-1076517' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/salon-ventilador-techo-2729599.jpg?tf=1200x' alt='Ventiladores de techo de Leroy Merlin: estos son los más vendidos y mejor valorados' />
+    <h4><a href='https://computerhoy.com/ciencia-termina-eterno-debate-cerveza-lata-botella-1221756'>La ciencia termina con el eterno debate de la cerveza: ¿en lata o en botella?</a></h4>
+    <a href='https://computerhoy.com/ciencia-termina-eterno-debate-cerveza-lata-botella-1221756' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/cerveza-lata-botella-2995010.jpg?tf=1200x' alt='La ciencia termina con el eterno debate de la cerveza: ¿en lata o en botella?' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/analisis-razer-blade-18-bestia-gaming-portatil-solo-apta-profesionales-1218032'>Análisis del Razer Blade 18, una bestia gaming portátil solo apta para profesionales</a></h4>
-    <a href='https://computerhoy.com/analisis/analisis-razer-blade-18-bestia-gaming-portatil-solo-apta-profesionales-1218032' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/razer-blade-18-2990460.jpg?tf=1200x' alt='Análisis del Razer Blade 18, una bestia gaming portátil solo apta para profesionales' />
+    <h4><a href='https://computerhoy.com/twitter-elon-musk-pagas-no-existes-1221738'>El Twitter de Elon Musk: O pagas o no existes</a></h4>
+    <a href='https://computerhoy.com/twitter-elon-musk-pagas-no-existes-1221738' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/musk-dinero-2994964.jpg?tf=1200x' alt='El Twitter de Elon Musk: O pagas o no existes' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/24-noticias-tecnologia-comenzar-manana-informado-ultimo-1221628'>24 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
-    <a href='https://computerhoy.com/tecnologia/24-noticias-tecnologia-comenzar-manana-informado-ultimo-1221628' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/24-noticias-tecnologia-comenzar-manana-informado-ultimo-2994670.jpg?tf=1200x' alt='24 noticias de tecnología para comenzar la mañana informado de lo último' />
+    <h4><a href='https://computerhoy.com/whatsapp-trabaja-chats-voz-grupales-puro-estilo-discord-1221714'>WhatsApp ya trabaja en chats de voz grupales al más puro estilo Discord </a></h4>
+    <a href='https://computerhoy.com/whatsapp-trabaja-chats-voz-grupales-puro-estilo-discord-1221714' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/whatsapp-ya-trabaja-chats-voz-grupales-puro-estilo-discord-2994900.jpg?tf=1200x' alt='WhatsApp ya trabaja en chats de voz grupales al más puro estilo Discord ' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/listas/tecnologia/auriculares-apple-cual-es-mejor-533703'>Me quiero comprar unos auriculares Apple, ¿cuáles son los mejores en 2023?</a></h4>
-    <a href='https://computerhoy.com/listas/tecnologia/auriculares-apple-cual-es-mejor-533703' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/apple-airpods-pro-2-analisis-opinion-2844267.jpg?tf=1200x' alt='Me quiero comprar unos auriculares Apple, ¿cuáles son los mejores en 2023?' />
+    <h4><a href='https://computerhoy.com/encuentran-sorprendente-hallazgo-interior-muros-catedral-notre-dame-1221700'>Encuentran un sorprendente hallazgo en el interior de los muros de la catedral de Notre-Dame</a></h4>
+    <a href='https://computerhoy.com/encuentran-sorprendente-hallazgo-interior-muros-catedral-notre-dame-1221700' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/04/notre-dame_1.jpg?tf=1200x' alt='Encuentran un sorprendente hallazgo en el interior de los muros de la catedral de Notre-Dame' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/redes-sociales/fabricante-armas-no-puede-fabricar-municion-culpa-videos-gatitos-tiktok-1221428'>Un fabricante de armas asegura que no puede fabricar más munición por culpa de los vídeos de gatitos de TikTok</a></h4>
-    <a href='https://computerhoy.com/redes-sociales/fabricante-armas-no-puede-fabricar-municion-culpa-videos-gatitos-tiktok-1221428' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/fabricante-armas-asegura-no-puede-fabricar-municion-culpa-videos-gatos-tiktok-2994466.jpg?tf=1200x' alt='Un fabricante de armas asegura que no puede fabricar más munición por culpa de los vídeos de gatitos de TikTok' />
+    <h4><a href='https://computerhoy.com/moviles/ofertas-amazon-primavera-mejores-moviles-analizados-1221672'>5 móviles que hemos probado, merecen la pena y están rebajados en las Ofertas de Primavera de Amazon</a></h4>
+    <a href='https://computerhoy.com/moviles/ofertas-amazon-primavera-mejores-moviles-analizados-1221672' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/analisis-pixel-6a-2765529.jpg?tf=1200x' alt='5 móviles que hemos probado, merecen la pena y están rebajados en las Ofertas de Primavera de Amazon' />
     </a>
 </div>
 
