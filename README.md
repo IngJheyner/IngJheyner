@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/dji-anuncia-experiencia-inmersiva-otro-nivel-estas-novedades-1221760'>DJI anuncia nuevas gafas FPV y un mando mejorado para llevar la experiencia de vuelo de drones a otro nivel</a></h4>
-    <a href='https://computerhoy.com/dji-anuncia-experiencia-inmersiva-otro-nivel-estas-novedades-1221760' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/dji-anuncia-unas-nuevas-gafas-fpv-mando-mejorado-llevar-experiencia-vuelo-drones-otro-nivel-2995008.jpg?tf=1200x' alt='DJI anuncia nuevas gafas FPV y un mando mejorado para llevar la experiencia de vuelo de drones a otro nivel' />
+    <h4><a href='https://computerhoy.com/ciencia/crean-albondiga-mamut-laboratorio-no-atreven-probarla-1221916'>Crean una albóndiga de mamut en un laboratorio y no se atreven a probarla</a></h4>
+    <a href='https://computerhoy.com/ciencia/crean-albondiga-mamut-laboratorio-no-atreven-probarla-1221916' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/crean-albondiga-mamut-laboratorio-no-atreven-probarla-2995326.jpg?tf=1200x' alt='Crean una albóndiga de mamut en un laboratorio y no se atreven a probarla' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/luces-router-wifi-significan-como-pueden-ayudarte-identificar-problemas-1221360'>Luces del router WiFi: ¿qué significan y cómo pueden ayudarte a identificar problemas?</a></h4>
-    <a href='https://computerhoy.com/luces-router-wifi-significan-como-pueden-ayudarte-identificar-problemas-1221360' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/luces-led-router-wifi-2995144.jpg?tf=1200x' alt='Luces del router WiFi: ¿qué significan y cómo pueden ayudarte a identificar problemas?' />
+    <h4><a href='https://computerhoy.com/hogar/ofertas-aspiradoras-dyson-mediamarkt-1221332'>MediaMarkt te da otra oportunidad para comprar una aspiradora barata de Dyson</a></h4>
+    <a href='https://computerhoy.com/hogar/ofertas-aspiradoras-dyson-mediamarkt-1221332' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/dyson-v12-slim-absolute-2641117.jpg?tf=1200x' alt='MediaMarkt te da otra oportunidad para comprar una aspiradora barata de Dyson' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/fabricantes-buscan-limitar-acceso-zonas-zbe-coches-etiqueta-b-2027-1221750'>Los fabricantes quieren limitar el acceso a las zonas ZBE a los coches con etiqueta B en 2027</a></h4>
-    <a href='https://computerhoy.com/fabricantes-buscan-limitar-acceso-zonas-zbe-coches-etiqueta-b-2027-1221750' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/contaminacion-ciudades-nos-hace-tontos-primer-estudio-cientifico-confirma-2937974.jpg?tf=1200x' alt='Los fabricantes quieren limitar el acceso a las zonas ZBE a los coches con etiqueta B en 2027' />
+    <h4><a href='https://computerhoy.com/reportajes/life/bicicletas-electricas-montana-merecen-pena-envio-gratis-1004723'>5 bicicletas eléctricas de montaña que merecen la pena y tienen envío gratis</a></h4>
+    <a href='https://computerhoy.com/reportajes/life/bicicletas-electricas-montana-merecen-pena-envio-gratis-1004723' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/bicicleta-montana-electrica-decathlon-rockrider-st-500-2995300.jpg?tf=1200x' alt='5 bicicletas eléctricas de montaña que merecen la pena y tienen envío gratis' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia-termina-eterno-debate-cerveza-lata-botella-1221756'>La ciencia termina con el eterno debate de la cerveza: ¿en lata o en botella?</a></h4>
-    <a href='https://computerhoy.com/ciencia-termina-eterno-debate-cerveza-lata-botella-1221756' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/cerveza-lata-botella-2995010.jpg?tf=1200x' alt='La ciencia termina con el eterno debate de la cerveza: ¿en lata o en botella?' />
+    <h4><a href='https://computerhoy.com/alimentacion/nuevo-estudio-confirma-consumo-cafe-reduce-riesgo-diabetes-tipo-2-1221976'>Un nuevo estudio confirma que el consumo de café reduce el riesgo de padecer diabetes de tipo 2</a></h4>
+    <a href='https://computerhoy.com/alimentacion/nuevo-estudio-confirma-consumo-cafe-reduce-riesgo-diabetes-tipo-2-1221976' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/consume-cafe-reduce-riesgo-diabetes-tipo-2-nuevo-estudio-2995266.jpg?tf=1200x' alt='Un nuevo estudio confirma que el consumo de café reduce el riesgo de padecer diabetes de tipo 2' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/twitter-elon-musk-pagas-no-existes-1221738'>El Twitter de Elon Musk: O pagas o no existes</a></h4>
-    <a href='https://computerhoy.com/twitter-elon-musk-pagas-no-existes-1221738' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/musk-dinero-2994964.jpg?tf=1200x' alt='El Twitter de Elon Musk: O pagas o no existes' />
+    <h4><a href='https://computerhoy.com/apple/apple-music-classical-ya-disponible-puedes-escuchar-gratis-musica-clasica-bandas-sonoras-maxima-calidad-1221964'>Apple Music Classical ya disponible: así puedes escuchar gratis música clásica y bandas sonoras a máxima calidad</a></h4>
+    <a href='https://computerhoy.com/apple/apple-music-classical-ya-disponible-puedes-escuchar-gratis-musica-clasica-bandas-sonoras-maxima-calidad-1221964' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/apple-music-classical-ya-disponible-puedes-escuchar-gratis-musica-clasica-bandas-sonoras-maxima-calidad-2995318.jpg?tf=1200x' alt='Apple Music Classical ya disponible: así puedes escuchar gratis música clásica y bandas sonoras a máxima calidad' />
     </a>
 </div>
 
