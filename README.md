@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/dji-anuncia-experiencia-inmersiva-otro-nivel-estas-novedades-1221760'>DJI anuncia nuevas gafas FPV y un mando mejorado para llevar la experiencia de vuelo de drones a otro nivel</a></h4>
+    <a href='https://computerhoy.com/dji-anuncia-experiencia-inmersiva-otro-nivel-estas-novedades-1221760' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/dji-anuncia-unas-nuevas-gafas-fpv-mando-mejorado-llevar-experiencia-vuelo-drones-otro-nivel-2995008.jpg?tf=1200x' alt='DJI anuncia nuevas gafas FPV y un mando mejorado para llevar la experiencia de vuelo de drones a otro nivel' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/luces-router-wifi-significan-como-pueden-ayudarte-identificar-problemas-1221360'>Luces del router WiFi: ¿qué significan y cómo pueden ayudarte a identificar problemas?</a></h4>
+    <a href='https://computerhoy.com/luces-router-wifi-significan-como-pueden-ayudarte-identificar-problemas-1221360' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/luces-led-router-wifi-2995144.jpg?tf=1200x' alt='Luces del router WiFi: ¿qué significan y cómo pueden ayudarte a identificar problemas?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/fabricantes-buscan-limitar-acceso-zonas-zbe-coches-etiqueta-b-2027-1221750'>Los fabricantes quieren limitar el acceso a las zonas ZBE a los coches con etiqueta B en 2027</a></h4>
     <a href='https://computerhoy.com/fabricantes-buscan-limitar-acceso-zonas-zbe-coches-etiqueta-b-2027-1221750' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/contaminacion-ciudades-nos-hace-tontos-primer-estudio-cientifico-confirma-2937974.jpg?tf=1200x' alt='Los fabricantes quieren limitar el acceso a las zonas ZBE a los coches con etiqueta B en 2027' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/twitter-elon-musk-pagas-no-existes-1221738'>El Twitter de Elon Musk: O pagas o no existes</a></h4>
     <a href='https://computerhoy.com/twitter-elon-musk-pagas-no-existes-1221738' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/musk-dinero-2994964.jpg?tf=1200x' alt='El Twitter de Elon Musk: O pagas o no existes' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/whatsapp-trabaja-chats-voz-grupales-puro-estilo-discord-1221714'>WhatsApp ya trabaja en chats de voz grupales al más puro estilo Discord </a></h4>
-    <a href='https://computerhoy.com/whatsapp-trabaja-chats-voz-grupales-puro-estilo-discord-1221714' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/whatsapp-ya-trabaja-chats-voz-grupales-puro-estilo-discord-2994900.jpg?tf=1200x' alt='WhatsApp ya trabaja en chats de voz grupales al más puro estilo Discord ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/encuentran-sorprendente-hallazgo-interior-muros-catedral-notre-dame-1221700'>Encuentran un sorprendente hallazgo en el interior de los muros de la catedral de Notre-Dame</a></h4>
-    <a href='https://computerhoy.com/encuentran-sorprendente-hallazgo-interior-muros-catedral-notre-dame-1221700' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/04/notre-dame_1.jpg?tf=1200x' alt='Encuentran un sorprendente hallazgo en el interior de los muros de la catedral de Notre-Dame' />
     </a>
 </div>
 
