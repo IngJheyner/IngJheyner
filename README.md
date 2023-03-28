@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/fabricantes-buscan-limitar-acceso-zonas-zbe-coches-etiqueta-b-2027-1221750'>Los fabricantes quieren limitar el acceso a las zonas ZBE a los coches con etiqueta B en 2027</a></h4>
+    <a href='https://computerhoy.com/fabricantes-buscan-limitar-acceso-zonas-zbe-coches-etiqueta-b-2027-1221750' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/contaminacion-ciudades-nos-hace-tontos-primer-estudio-cientifico-confirma-2937974.jpg?tf=1200x' alt='Los fabricantes quieren limitar el acceso a las zonas ZBE a los coches con etiqueta B en 2027' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciencia-termina-eterno-debate-cerveza-lata-botella-1221756'>La ciencia termina con el eterno debate de la cerveza: ¿en lata o en botella?</a></h4>
     <a href='https://computerhoy.com/ciencia-termina-eterno-debate-cerveza-lata-botella-1221756' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/cerveza-lata-botella-2995010.jpg?tf=1200x' alt='La ciencia termina con el eterno debate de la cerveza: ¿en lata o en botella?' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/encuentran-sorprendente-hallazgo-interior-muros-catedral-notre-dame-1221700'>Encuentran un sorprendente hallazgo en el interior de los muros de la catedral de Notre-Dame</a></h4>
     <a href='https://computerhoy.com/encuentran-sorprendente-hallazgo-interior-muros-catedral-notre-dame-1221700' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/04/notre-dame_1.jpg?tf=1200x' alt='Encuentran un sorprendente hallazgo en el interior de los muros de la catedral de Notre-Dame' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/ofertas-amazon-primavera-mejores-moviles-analizados-1221672'>5 móviles que hemos probado, merecen la pena y están rebajados en las Ofertas de Primavera de Amazon</a></h4>
-    <a href='https://computerhoy.com/moviles/ofertas-amazon-primavera-mejores-moviles-analizados-1221672' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/analisis-pixel-6a-2765529.jpg?tf=1200x' alt='5 móviles que hemos probado, merecen la pena y están rebajados en las Ofertas de Primavera de Amazon' />
     </a>
 </div>
 
