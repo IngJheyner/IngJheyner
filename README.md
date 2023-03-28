@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/crean-albondiga-mamut-laboratorio-no-atreven-probarla-1221916'>Crean una albóndiga de mamut en un laboratorio y no se atreven a probarla</a></h4>
-    <a href='https://computerhoy.com/ciencia/crean-albondiga-mamut-laboratorio-no-atreven-probarla-1221916' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/crean-albondiga-mamut-laboratorio-no-atreven-probarla-2995326.jpg?tf=1200x' alt='Crean una albóndiga de mamut en un laboratorio y no se atreven a probarla' />
+    <h4><a href='https://computerhoy.com/streaming/auronplay-pone-fecha-caducidad-tdt-tiene-claro-sustituto-1222018'>Hasta AuronPlay pone fecha de caducidad a la TDT y tiene claro su sustituto</a></h4>
+    <a href='https://computerhoy.com/streaming/auronplay-pone-fecha-caducidad-tdt-tiene-claro-sustituto-1222018' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/auronplay-2958206.jpg?tf=1200x' alt='Hasta AuronPlay pone fecha de caducidad a la TDT y tiene claro su sustituto' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/hogar/ofertas-aspiradoras-dyson-mediamarkt-1221332'>MediaMarkt te da otra oportunidad para comprar una aspiradora barata de Dyson</a></h4>
-    <a href='https://computerhoy.com/hogar/ofertas-aspiradoras-dyson-mediamarkt-1221332' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/dyson-v12-slim-absolute-2641117.jpg?tf=1200x' alt='MediaMarkt te da otra oportunidad para comprar una aspiradora barata de Dyson' />
+    <h4><a href='https://computerhoy.com/streaming/filmin-pelicula-vida-muerte-almacen-1222016'>Filmin estrena la película que te hará pensártelo dos veces, antes de comprar online</a></h4>
+    <a href='https://computerhoy.com/streaming/filmin-pelicula-vida-muerte-almacen-1222016' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/filmin-estrena-pelicula-te-hara-pensartelo-dos-veces-antes-comprar-internet-2995370.jpg?tf=1200x' alt='Filmin estrena la película que te hará pensártelo dos veces, antes de comprar online' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/life/bicicletas-electricas-montana-merecen-pena-envio-gratis-1004723'>5 bicicletas eléctricas de montaña que merecen la pena y tienen envío gratis</a></h4>
-    <a href='https://computerhoy.com/reportajes/life/bicicletas-electricas-montana-merecen-pena-envio-gratis-1004723' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/bicicleta-montana-electrica-decathlon-rockrider-st-500-2995300.jpg?tf=1200x' alt='5 bicicletas eléctricas de montaña que merecen la pena y tienen envío gratis' />
+    <h4><a href='https://computerhoy.com/gaming/ibai-suelta-bomba-probablemente-me-retire-pronto-deje-twitch-1222004'>Ibai suelta la bomba: “probablemente me retire pronto y deje Twitch”</a></h4>
+    <a href='https://computerhoy.com/gaming/ibai-suelta-bomba-probablemente-me-retire-pronto-deje-twitch-1222004' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/ibai-llanos-2995352.jpg?tf=1200x' alt='Ibai suelta la bomba: “probablemente me retire pronto y deje Twitch”' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/alimentacion/nuevo-estudio-confirma-consumo-cafe-reduce-riesgo-diabetes-tipo-2-1221976'>Un nuevo estudio confirma que el consumo de café reduce el riesgo de padecer diabetes de tipo 2</a></h4>
-    <a href='https://computerhoy.com/alimentacion/nuevo-estudio-confirma-consumo-cafe-reduce-riesgo-diabetes-tipo-2-1221976' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/consume-cafe-reduce-riesgo-diabetes-tipo-2-nuevo-estudio-2995266.jpg?tf=1200x' alt='Un nuevo estudio confirma que el consumo de café reduce el riesgo de padecer diabetes de tipo 2' />
+    <h4><a href='https://computerhoy.com/redes-sociales/sale-luz-lista-secreta-usuarios-vip-twitter-personalidades-famosos-red-social-elon-musk-mima-1221918'>Sale a la luz la lista secreta de usuarios VIP de Twitter: personalidades y famosos la red social de Elon Musk mima</a></h4>
+    <a href='https://computerhoy.com/redes-sociales/sale-luz-lista-secreta-usuarios-vip-twitter-personalidades-famosos-red-social-elon-musk-mima-1221918' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/elon-musk-logo-twitter-2928328.jpg?tf=1200x' alt='Sale a la luz la lista secreta de usuarios VIP de Twitter: personalidades y famosos la red social de Elon Musk mima' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/apple-music-classical-ya-disponible-puedes-escuchar-gratis-musica-clasica-bandas-sonoras-maxima-calidad-1221964'>Apple Music Classical ya disponible: así puedes escuchar gratis música clásica y bandas sonoras a máxima calidad</a></h4>
-    <a href='https://computerhoy.com/apple/apple-music-classical-ya-disponible-puedes-escuchar-gratis-musica-clasica-bandas-sonoras-maxima-calidad-1221964' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/apple-music-classical-ya-disponible-puedes-escuchar-gratis-musica-clasica-bandas-sonoras-maxima-calidad-2995318.jpg?tf=1200x' alt='Apple Music Classical ya disponible: así puedes escuchar gratis música clásica y bandas sonoras a máxima calidad' />
+    <h4><a href='https://computerhoy.com/espacio/datos-james-webb-abren-puerta-nueva-tierra-sistema-solar-20-1221998'>Los datos de James Webb abren la puerta a una nueva Tierra y a un Sistema Solar 2.0</a></h4>
+    <a href='https://computerhoy.com/espacio/datos-james-webb-abren-puerta-nueva-tierra-sistema-solar-20-1221998' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/telescopio-james-webb-nasa-2747455.jpg?tf=1200x' alt='Los datos de James Webb abren la puerta a una nueva Tierra y a un Sistema Solar 2.0' />
     </a>
 </div>
 
