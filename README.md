@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/24-noticias-tecnologia-comenzar-manana-informado-ultimo-1221628'>24 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
+    <a href='https://computerhoy.com/tecnologia/24-noticias-tecnologia-comenzar-manana-informado-ultimo-1221628' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/24-noticias-tecnologia-comenzar-manana-informado-ultimo-2994670.jpg?tf=1200x' alt='24 noticias de tecnología para comenzar la mañana informado de lo último' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/listas/tecnologia/auriculares-apple-cual-es-mejor-533703'>Me quiero comprar unos auriculares Apple, ¿cuáles son los mejores en 2023?</a></h4>
+    <a href='https://computerhoy.com/listas/tecnologia/auriculares-apple-cual-es-mejor-533703' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/apple-airpods-pro-2-analisis-opinion-2844267.jpg?tf=1200x' alt='Me quiero comprar unos auriculares Apple, ¿cuáles son los mejores en 2023?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/redes-sociales/fabricante-armas-no-puede-fabricar-municion-culpa-videos-gatitos-tiktok-1221428'>Un fabricante de armas asegura que no puede fabricar más munición por culpa de los vídeos de gatitos de TikTok</a></h4>
     <a href='https://computerhoy.com/redes-sociales/fabricante-armas-no-puede-fabricar-municion-culpa-videos-gatitos-tiktok-1221428' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/fabricante-armas-asegura-no-puede-fabricar-municion-culpa-videos-gatos-tiktok-2994466.jpg?tf=1200x' alt='Un fabricante de armas asegura que no puede fabricar más munición por culpa de los vídeos de gatitos de TikTok' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/smartwatches/malas-noticias-diabeticos-tenian-puestas-esperanzas-apple-watch-1221414'>Malas noticias para los diabéticos que tenían puestas sus esperanzas en el Apple Watch</a></h4>
     <a href='https://computerhoy.com/smartwatches/malas-noticias-diabeticos-tenian-puestas-esperanzas-apple-watch-1221414' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/apple-watch-series-8-analisis-opinion-2841939.jpg?tf=1200x' alt='Malas noticias para los diabéticos que tenían puestas sus esperanzas en el Apple Watch' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/millones-hogares-todo-mundo-tienen-router-wifi-colocado-lugar-equivocado-1221412'>Millones de hogares en todo el mundo tienen el router WiFi colocado en el lugar equivocado</a></h4>
-    <a href='https://computerhoy.com/internet/millones-hogares-todo-mundo-tienen-router-wifi-colocado-lugar-equivocado-1221412' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/router-wifi-2994456.jpg?tf=1200x' alt='Millones de hogares en todo el mundo tienen el router WiFi colocado en el lugar equivocado' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/microsoft-surface-pro-9-portatil-2-1-200-euros-descuento-1221272'>Surface Pro 9, el portátil 2 en 1 más potente de Microsoft, ahora con 300 euros de descuento</a></h4>
-    <a href='https://computerhoy.com/pc/microsoft-surface-pro-9-portatil-2-1-200-euros-descuento-1221272' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/surface-pro-9-portatil-2-1-potente-microsoft-ahora-200-euros-descuento-2994122.jpg?tf=1200x' alt='Surface Pro 9, el portátil 2 en 1 más potente de Microsoft, ahora con 300 euros de descuento' />
     </a>
 </div>
 
