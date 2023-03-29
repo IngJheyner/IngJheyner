@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/nasa-envia-dron-titan-luna-saturno-busca-pistas-origen-vida-1222480'>La NASA envía un dron a Titán, la luna de Saturno, en busca de pistas sobre el origen de la vida</a></h4>
-    <a href='https://computerhoy.com/ciencia/nasa-envia-dron-titan-luna-saturno-busca-pistas-origen-vida-1222480' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/nasa-envia-dron-titan-luna-saturno-busca-pistas-origen-vida-2996120.jpg?tf=1200x' alt='La NASA envía un dron a Titán, la luna de Saturno, en busca de pistas sobre el origen de la vida' />
+    <h4><a href='https://computerhoy.com/apple/apple-wwdc23-5-julio-presentara-ios-17-iphone-novedades-1222588'>Apple pone fecha a la WWDC 2023: esto es todo lo que esperamos ver</a></h4>
+    <a href='https://computerhoy.com/apple/apple-wwdc23-5-julio-presentara-ios-17-iphone-novedades-1222588' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/apple-pone-fecha-wwdc23-todo-esperamos-ver-2996304.jpg?tf=1200x' alt='Apple pone fecha a la WWDC 2023: esto es todo lo que esperamos ver' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/fabrican-cerveza-aguas-residuales-edificio-no-estas-pensando-1222478'>Fabrican una cerveza con las aguas residuales de un edificio y no es lo que estás pensando</a></h4>
-    <a href='https://computerhoy.com/ciencia/fabrican-cerveza-aguas-residuales-edificio-no-estas-pensando-1222478' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/fabrican-cerveza-aguas-residuales-edificio-no-estas-pensando-2996068.jpg?tf=1200x' alt='Fabrican una cerveza con las aguas residuales de un edificio y no es lo que estás pensando' />
+    <h4><a href='https://computerhoy.com/apps/10-apps-buscar-trabajo-movil-1222314'>Las 10 mejores aplicaciones para buscar trabajo con el móvil</a></h4>
+    <a href='https://computerhoy.com/apps/10-apps-buscar-trabajo-movil-1222314' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/chica-muy-contenta-mirando-movil-2996284.jpg?tf=1200x' alt='Las 10 mejores aplicaciones para buscar trabajo con el móvil' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-usar-google-maps-movil-estar-conectado-internet-1221922'>Cómo usar Google Maps en el móvil sin estar conectado a Internet</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-usar-google-maps-movil-estar-conectado-internet-1221922' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/google-maps-2996016.jpg?tf=1200x' alt='Cómo usar Google Maps en el móvil sin estar conectado a Internet' />
+    <h4><a href='https://computerhoy.com/android/avistado-nuevo-troyano-android-quiere-hacerse-datos-bancarios-1222508'>Avistado un nuevo troyano en Android que quiere hacerse con tus datos bancarios</a></h4>
+    <a href='https://computerhoy.com/android/avistado-nuevo-troyano-android-quiere-hacerse-datos-bancarios-1222508' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/07/troyano-bancario.jpg?tf=1200x' alt='Avistado un nuevo troyano en Android que quiere hacerse con tus datos bancarios' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/software/microsoft-podria-poner-publicidad-menu-inicio-windows-11-1222412'>Microsoft podría poner publicidad en el menú de inicio de Windows 11</a></h4>
-    <a href='https://computerhoy.com/software/microsoft-podria-poner-publicidad-menu-inicio-windows-11-1222412' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/windows-11-moment-2-2975864.jpg?tf=1200x' alt='Microsoft podría poner publicidad en el menú de inicio de Windows 11' />
+    <h4><a href='https://computerhoy.com/tutoriales/como-ver-toda-tdt-60-canales-gratis-movil-pc-instalar-nada-1222502'>Cómo ver toda la TDT y más de 60 canales gratis en tu móvil o PC sin instalar nada</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-ver-toda-tdt-60-canales-gratis-movil-pc-instalar-nada-1222502' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/04/como-ver-canales-hd-no-estan-tdt_6.jpg?tf=1200x' alt='Cómo ver toda la TDT y más de 60 canales gratis en tu móvil o PC sin instalar nada' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/elon-musk-otros-expertos-preocupados-descontrolado-desarrollo-ia-1222388'>Elon Musk y otros expertos preocupados por el descontrolado desarrollo de la IA</a></h4>
-    <a href='https://computerhoy.com/tecnologia/elon-musk-otros-expertos-preocupados-descontrolado-desarrollo-ia-1222388' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/elon-musk-otros-expertos-preocupados-descontrolado-desarrollo-ia-2995876.jpg?tf=1200x' alt='Elon Musk y otros expertos preocupados por el descontrolado desarrollo de la IA' />
+    <h4><a href='https://computerhoy.com/apps/whatsapp-prepara-gran-actualizacion-mensajes-autodestruyen-1222506'>WhatsApp prepara su gran actualización para los mensajes que se autodestruyen</a></h4>
+    <a href='https://computerhoy.com/apps/whatsapp-prepara-gran-actualizacion-mensajes-autodestruyen-1222506' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/whatsapp-estrena-chat-oficial-resolver-dudas-recibir-ayuda-2992604.jpg?tf=1200x' alt='WhatsApp prepara su gran actualización para los mensajes que se autodestruyen' />
     </a>
 </div>
 
