@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/gaming/steam-dejara-funcionar-windows-7-windows-8-windows-81-enero-2024-1222036'>Se acabó el juego: Steam dejará de funcionar en Windows 7, Windows 8 y Windows 8.1</a></h4>
+    <a href='https://computerhoy.com/gaming/steam-dejara-funcionar-windows-7-windows-8-windows-81-enero-2024-1222036' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/tecnica-estan-robado-cuentas-steam-valen-300000-euros-2812387.jpg?tf=1200x' alt='Se acabó el juego: Steam dejará de funcionar en Windows 7, Windows 8 y Windows 8.1' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/hogar/aire-acondicionado-wifi-3000-frigorias-gran-eficiencia-energetica-solo-329eu-1222032'>Este aire acondicionado con WiFi, 3.000 frigorías y gran eficiencia energética, por solo 329€</a></h4>
+    <a href='https://computerhoy.com/hogar/aire-acondicionado-wifi-3000-frigorias-gran-eficiencia-energetica-solo-329eu-1222032' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/aire-acondicionado-wifi-3000-frigorias-gran-eficiencia-energetica-solo-329eu-2995396.jpg?tf=1200x' alt='Este aire acondicionado con WiFi, 3.000 frigorías y gran eficiencia energética, por solo 329€' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/streaming/auronplay-pone-fecha-caducidad-tdt-tiene-claro-sustituto-1222018'>Hasta AuronPlay pone fecha de caducidad a la TDT y tiene claro su sustituto</a></h4>
     <a href='https://computerhoy.com/streaming/auronplay-pone-fecha-caducidad-tdt-tiene-claro-sustituto-1222018' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/auronplay-2958206.jpg?tf=1200x' alt='Hasta AuronPlay pone fecha de caducidad a la TDT y tiene claro su sustituto' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/gaming/ibai-suelta-bomba-probablemente-me-retire-pronto-deje-twitch-1222004'>Ibai suelta la bomba: “probablemente me retire pronto y deje Twitch”</a></h4>
     <a href='https://computerhoy.com/gaming/ibai-suelta-bomba-probablemente-me-retire-pronto-deje-twitch-1222004' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/ibai-llanos-2995352.jpg?tf=1200x' alt='Ibai suelta la bomba: “probablemente me retire pronto y deje Twitch”' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/redes-sociales/sale-luz-lista-secreta-usuarios-vip-twitter-personalidades-famosos-red-social-elon-musk-mima-1221918'>Sale a la luz la lista secreta de usuarios VIP de Twitter: personalidades y famosos la red social de Elon Musk mima</a></h4>
-    <a href='https://computerhoy.com/redes-sociales/sale-luz-lista-secreta-usuarios-vip-twitter-personalidades-famosos-red-social-elon-musk-mima-1221918' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/elon-musk-logo-twitter-2928328.jpg?tf=1200x' alt='Sale a la luz la lista secreta de usuarios VIP de Twitter: personalidades y famosos la red social de Elon Musk mima' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/datos-james-webb-abren-puerta-nueva-tierra-sistema-solar-20-1221998'>Los datos de James Webb abren la puerta a una nueva Tierra y a un Sistema Solar 2.0</a></h4>
-    <a href='https://computerhoy.com/espacio/datos-james-webb-abren-puerta-nueva-tierra-sistema-solar-20-1221998' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/telescopio-james-webb-nasa-2747455.jpg?tf=1200x' alt='Los datos de James Webb abren la puerta a una nueva Tierra y a un Sistema Solar 2.0' />
     </a>
 </div>
 
