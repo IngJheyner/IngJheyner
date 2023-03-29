@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/amazon/amazon-quiere-acabar-resenas-falsas-marcando-productos-muchas-devoluciones-1222318'>Amazon quiere acabar con las reseñas falsas marcando los productos con muchas devoluciones</a></h4>
+    <a href='https://computerhoy.com/amazon/amazon-quiere-acabar-resenas-falsas-marcando-productos-muchas-devoluciones-1222318' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/amazon-podria-estar-desarrollando-propio-navegador-encuesta-ha-lanzado-2987796.jpg?tf=1200x' alt='Amazon quiere acabar con las reseñas falsas marcando los productos con muchas devoluciones' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/google/google-carga-desinformacion-estas-nuevas-funciones-1222300'>Google añade nuevas funciones a su búsqueda para ayudar a los usuarios a verificar la información</a></h4>
+    <a href='https://computerhoy.com/google/google-carga-desinformacion-estas-nuevas-funciones-1222300' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/google-anade-nuevas-funciones-busqueda-ayudar-usuarios-verificar-informacion-2995716.jpg?tf=1200x' alt='Google añade nuevas funciones a su búsqueda para ayudar a los usuarios a verificar la información' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-utilizar-gpt-4-otras-inteligencias-artificiales-gratis-pagar-nada-1222284'>Cómo utilizar GPT-4 y otras inteligencias artificiales gratis sin pagar nada</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-utilizar-gpt-4-otras-inteligencias-artificiales-gratis-pagar-nada-1222284' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/como-utilizar-gpt-4-otras-inteligencias-artificiales-gratis-pagar-nada-2995688.jpg?tf=1200x' alt='Cómo utilizar GPT-4 y otras inteligencias artificiales gratis sin pagar nada' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ahorrate-licencia-windows-estos-portatiles-sistema-operativo-1221836'>Ahórrate la licencia de Windows con estos portátiles sin sistema operativo</a></h4>
+    <a href='https://computerhoy.com/ahorrate-licencia-windows-estos-portatiles-sistema-operativo-1221836' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/galeria-review-hp-victus-16-2544989.jpg?tf=1200x' alt='Ahórrate la licencia de Windows con estos portátiles sin sistema operativo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/28-noticias-tecnologia-comenzar-manana-informado-ultimo-1222272'>28 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
     <a href='https://computerhoy.com/tecnologia/28-noticias-tecnologia-comenzar-manana-informado-ultimo-1222272' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/27-noticias-tecnologia-comenzar-manana-informado-ultimo-2995650.jpg?tf=1200x' alt='28 noticias de tecnología para comenzar la mañana informado de lo último' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/philips-oled-937-65-tv-oled-gama-altaexclusivo-philips-barra-incorporada-1216248'>Philips OLED+ 937 de 65”: el TV OLED de gama altaexclusivo de Philips con barra incorporada</a></h4>
-    <a href='https://computerhoy.com/analisis/philips-oled-937-65-tv-oled-gama-altaexclusivo-philips-barra-incorporada-1216248' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/philips-oled-937-analisis-opinion-2992734.jpg?tf=1200x' alt='Philips OLED+ 937 de 65”: el TV OLED de gama altaexclusivo de Philips con barra incorporada' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/amazon/ofertas-primavera-amazon-mejores-chollos-ultima-hora-1221822'>¡Última oportunidad! Las Ofertas de Primavera de Amazon están a punto de acabarse pero todavía tienes tiempo para conseguir estos chollos</a></h4>
-    <a href='https://computerhoy.com/amazon/ofertas-primavera-amazon-mejores-chollos-ultima-hora-1221822' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/apple-iphone-14-plus-analisis-opinion-2857809.jpg?tf=1200x' alt='¡Última oportunidad! Las Ofertas de Primavera de Amazon están a punto de acabarse pero todavía tienes tiempo para conseguir estos chollos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/perlas-cristal-luna-millones-toneladas-agua-1222258'>Las perlas de cristal descubiertas en la Luna podrían contener millones de toneladas de agua</a></h4>
-    <a href='https://computerhoy.com/espacio/perlas-cristal-luna-millones-toneladas-agua-1222258' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/perlas-cristal-descubiertas-luna-podrian-contener-millones-toneladas-agua-2995586.jpg?tf=1200x' alt='Las perlas de cristal descubiertas en la Luna podrían contener millones de toneladas de agua' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/gaming/steam-dejara-funcionar-windows-7-windows-8-windows-81-enero-2024-1222036'>Se acabó el juego: Steam dejará de funcionar en Windows 7, Windows 8 y Windows 8.1</a></h4>
-    <a href='https://computerhoy.com/gaming/steam-dejara-funcionar-windows-7-windows-8-windows-81-enero-2024-1222036' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/tecnica-estan-robado-cuentas-steam-valen-300000-euros-2812387.jpg?tf=1200x' alt='Se acabó el juego: Steam dejará de funcionar en Windows 7, Windows 8 y Windows 8.1' />
     </a>
 </div>
 
