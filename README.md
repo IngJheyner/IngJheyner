@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/apple-wwdc23-5-julio-presentara-ios-17-iphone-novedades-1222588'>Apple pone fecha a la WWDC 2023: esto es todo lo que esperamos ver</a></h4>
-    <a href='https://computerhoy.com/apple/apple-wwdc23-5-julio-presentara-ios-17-iphone-novedades-1222588' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/apple-pone-fecha-wwdc23-todo-esperamos-ver-2996304.jpg?tf=1200x' alt='Apple pone fecha a la WWDC 2023: esto es todo lo que esperamos ver' />
+    <h4><a href='https://computerhoy.com/hogar/nuevo-robot-cocina-cecotec-mambo-touch-oferta-1222610'>El nuevo robot de cocina de Cecotec supera al de Thermomix: ocupa menos, tiene pantalla táctil y está en oferta</a></h4>
+    <a href='https://computerhoy.com/hogar/nuevo-robot-cocina-cecotec-mambo-touch-oferta-1222610' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/nuevo-robot-cocina-cecotec-supera-thermomix-ocupa-menos-tiene-pantalla-tactil-oferta-2996326.jpg?tf=1200x' alt='El nuevo robot de cocina de Cecotec supera al de Thermomix: ocupa menos, tiene pantalla táctil y está en oferta' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/10-apps-buscar-trabajo-movil-1222314'>Las 10 mejores aplicaciones para buscar trabajo con el móvil</a></h4>
-    <a href='https://computerhoy.com/apps/10-apps-buscar-trabajo-movil-1222314' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/chica-muy-contenta-mirando-movil-2996284.jpg?tf=1200x' alt='Las 10 mejores aplicaciones para buscar trabajo con el móvil' />
+    <h4><a href='https://computerhoy.com/apps/netflix-no-enviando-avisos-cancelacion-cuentas-estafa-1222606'>Netflix no está enviando avisos de cancelación de cuentas, es una estafa</a></h4>
+    <a href='https://computerhoy.com/apps/netflix-no-enviando-avisos-cancelacion-cuentas-estafa-1222606' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/netflix-2810051.jpg?tf=1200x' alt='Netflix no está enviando avisos de cancelación de cuentas, es una estafa' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/android/avistado-nuevo-troyano-android-quiere-hacerse-datos-bancarios-1222508'>Avistado un nuevo troyano en Android que quiere hacerse con tus datos bancarios</a></h4>
-    <a href='https://computerhoy.com/android/avistado-nuevo-troyano-android-quiere-hacerse-datos-bancarios-1222508' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/07/troyano-bancario.jpg?tf=1200x' alt='Avistado un nuevo troyano en Android que quiere hacerse con tus datos bancarios' />
+    <h4><a href='https://computerhoy.com/apple/avalanchas-quejas-advertencias-ios-164-no-actualices-1222602'>Avalanchas de quejas y advertencias sobre iOS 16.4: ¡no actualices!</a></h4>
+    <a href='https://computerhoy.com/apple/avalanchas-quejas-advertencias-ios-164-no-actualices-1222602' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/iphone-14-2948946.jpg?tf=1200x' alt='Avalanchas de quejas y advertencias sobre iOS 16.4: ¡no actualices!' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-ver-toda-tdt-60-canales-gratis-movil-pc-instalar-nada-1222502'>Cómo ver toda la TDT y más de 60 canales gratis en tu móvil o PC sin instalar nada</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-ver-toda-tdt-60-canales-gratis-movil-pc-instalar-nada-1222502' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/04/como-ver-canales-hd-no-estan-tdt_6.jpg?tf=1200x' alt='Cómo ver toda la TDT y más de 60 canales gratis en tu móvil o PC sin instalar nada' />
+    <h4><a href='https://computerhoy.com/streaming/estrenos-netflix-abril-2023-video-1222600'>El regreso del niño ciervo, una isla imposible, y charlas en el más allá, entre los estrenos de Netflix en abril</a></h4>
+    <a href='https://computerhoy.com/streaming/estrenos-netflix-abril-2023-video-1222600' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/verticalimage1680113155168-2996316.jpg?tf=1200x' alt='El regreso del niño ciervo, una isla imposible, y charlas en el más allá, entre los estrenos de Netflix en abril' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/whatsapp-prepara-gran-actualizacion-mensajes-autodestruyen-1222506'>WhatsApp prepara su gran actualización para los mensajes que se autodestruyen</a></h4>
-    <a href='https://computerhoy.com/apps/whatsapp-prepara-gran-actualizacion-mensajes-autodestruyen-1222506' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/whatsapp-estrena-chat-oficial-resolver-dudas-recibir-ayuda-2992604.jpg?tf=1200x' alt='WhatsApp prepara su gran actualización para los mensajes que se autodestruyen' />
+    <h4><a href='https://computerhoy.com/life/sirva-precedente-mail-policia-cierto-debes-hacerle-caso-1222512'>Sin que sirva de precedente, este mail de la Policía es cierto y debes hacerle caso</a></h4>
+    <a href='https://computerhoy.com/life/sirva-precedente-mail-policia-cierto-debes-hacerle-caso-1222512' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/dni-40-policia-nacional-2374929.jpg?tf=1200x' alt='Sin que sirva de precedente, este mail de la Policía es cierto y debes hacerle caso' />
     </a>
 </div>
 
