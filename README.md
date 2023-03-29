@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/espacio/perlas-cristal-luna-millones-toneladas-agua-1222258'>Las perlas de cristal descubiertas en la Luna podrían contener millones de toneladas de agua</a></h4>
+    <a href='https://computerhoy.com/espacio/perlas-cristal-luna-millones-toneladas-agua-1222258' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/perlas-cristal-descubiertas-luna-podrian-contener-millones-toneladas-agua-2995586.jpg?tf=1200x' alt='Las perlas de cristal descubiertas en la Luna podrían contener millones de toneladas de agua' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/gaming/steam-dejara-funcionar-windows-7-windows-8-windows-81-enero-2024-1222036'>Se acabó el juego: Steam dejará de funcionar en Windows 7, Windows 8 y Windows 8.1</a></h4>
     <a href='https://computerhoy.com/gaming/steam-dejara-funcionar-windows-7-windows-8-windows-81-enero-2024-1222036' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/tecnica-estan-robado-cuentas-steam-valen-300000-euros-2812387.jpg?tf=1200x' alt='Se acabó el juego: Steam dejará de funcionar en Windows 7, Windows 8 y Windows 8.1' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/streaming/filmin-pelicula-vida-muerte-almacen-1222016'>Filmin estrena la película que te hará pensártelo dos veces, antes de comprar online</a></h4>
     <a href='https://computerhoy.com/streaming/filmin-pelicula-vida-muerte-almacen-1222016' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/filmin-estrena-pelicula-te-hara-pensartelo-dos-veces-antes-comprar-internet-2995370.jpg?tf=1200x' alt='Filmin estrena la película que te hará pensártelo dos veces, antes de comprar online' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/gaming/ibai-suelta-bomba-probablemente-me-retire-pronto-deje-twitch-1222004'>Ibai suelta la bomba: “probablemente me retire pronto y deje Twitch”</a></h4>
-    <a href='https://computerhoy.com/gaming/ibai-suelta-bomba-probablemente-me-retire-pronto-deje-twitch-1222004' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/ibai-llanos-2995352.jpg?tf=1200x' alt='Ibai suelta la bomba: “probablemente me retire pronto y deje Twitch”' />
     </a>
 </div>
 
