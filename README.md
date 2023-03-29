@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/nasa-envia-dron-titan-luna-saturno-busca-pistas-origen-vida-1222480'>La NASA envía un dron a Titán, la luna de Saturno, en busca de pistas sobre el origen de la vida</a></h4>
+    <a href='https://computerhoy.com/ciencia/nasa-envia-dron-titan-luna-saturno-busca-pistas-origen-vida-1222480' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/nasa-envia-dron-titan-luna-saturno-busca-pistas-origen-vida-2996120.jpg?tf=1200x' alt='La NASA envía un dron a Titán, la luna de Saturno, en busca de pistas sobre el origen de la vida' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/fabrican-cerveza-aguas-residuales-edificio-no-estas-pensando-1222478'>Fabrican una cerveza con las aguas residuales de un edificio y no es lo que estás pensando</a></h4>
+    <a href='https://computerhoy.com/ciencia/fabrican-cerveza-aguas-residuales-edificio-no-estas-pensando-1222478' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/fabrican-cerveza-aguas-residuales-edificio-no-estas-pensando-2996068.jpg?tf=1200x' alt='Fabrican una cerveza con las aguas residuales de un edificio y no es lo que estás pensando' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-usar-google-maps-movil-estar-conectado-internet-1221922'>Cómo usar Google Maps en el móvil sin estar conectado a Internet</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-usar-google-maps-movil-estar-conectado-internet-1221922' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/google-maps-2996016.jpg?tf=1200x' alt='Cómo usar Google Maps en el móvil sin estar conectado a Internet' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/software/microsoft-podria-poner-publicidad-menu-inicio-windows-11-1222412'>Microsoft podría poner publicidad en el menú de inicio de Windows 11</a></h4>
     <a href='https://computerhoy.com/software/microsoft-podria-poner-publicidad-menu-inicio-windows-11-1222412' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/windows-11-moment-2-2975864.jpg?tf=1200x' alt='Microsoft podría poner publicidad en el menú de inicio de Windows 11' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/elon-musk-otros-expertos-preocupados-descontrolado-desarrollo-ia-1222388'>Elon Musk y otros expertos preocupados por el descontrolado desarrollo de la IA</a></h4>
     <a href='https://computerhoy.com/tecnologia/elon-musk-otros-expertos-preocupados-descontrolado-desarrollo-ia-1222388' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/elon-musk-otros-expertos-preocupados-descontrolado-desarrollo-ia-2995876.jpg?tf=1200x' alt='Elon Musk y otros expertos preocupados por el descontrolado desarrollo de la IA' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/cumples-estos-requisitos-no-deberias-ponerte-vacunas-covid-oms-1222378'>Si cumples estos requisitos no deberías ponerte más vacunas contra el COVID, según la OMS</a></h4>
-    <a href='https://computerhoy.com/ciencia/cumples-estos-requisitos-no-deberias-ponerte-vacunas-covid-oms-1222378' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/ropa-vacunarse-2230393.jpg?tf=1200x' alt='Si cumples estos requisitos no deberías ponerte más vacunas contra el COVID, según la OMS' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/microsoft-presenta-asistente-ciberseguridad-impulsado-gpt-4-1222360'>Microsoft presenta su asistente de ciberseguridad impulsado por la IA de GPT-4</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/microsoft-presenta-asistente-ciberseguridad-impulsado-gpt-4-1222360' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/microsoft-presenta-asistente-ciberseguridad-impulsado-ia-gpt-4-2995814.jpg?tf=1200x' alt='Microsoft presenta su asistente de ciberseguridad impulsado por la IA de GPT-4' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/redes/como-colocar-correctamente-antenas-router-wifi-mejorar-velocidad-cobertura-1222366'>Cómo colocar correctamente las antenas del router WiFi para mejorar la velocidad y cobertura</a></h4>
-    <a href='https://computerhoy.com/redes/como-colocar-correctamente-antenas-router-wifi-mejorar-velocidad-cobertura-1222366' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/router-wifi-2946290.jpg?tf=1200x' alt='Cómo colocar correctamente las antenas del router WiFi para mejorar la velocidad y cobertura' />
     </a>
 </div>
 
