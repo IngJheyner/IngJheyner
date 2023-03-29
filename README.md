@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/amazon/amazon-quiere-acabar-resenas-falsas-marcando-productos-muchas-devoluciones-1222318'>Amazon quiere acabar con las reseñas falsas marcando los productos con muchas devoluciones</a></h4>
-    <a href='https://computerhoy.com/amazon/amazon-quiere-acabar-resenas-falsas-marcando-productos-muchas-devoluciones-1222318' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/amazon-podria-estar-desarrollando-propio-navegador-encuesta-ha-lanzado-2987796.jpg?tf=1200x' alt='Amazon quiere acabar con las reseñas falsas marcando los productos con muchas devoluciones' />
+    <h4><a href='https://computerhoy.com/software/microsoft-podria-poner-publicidad-menu-inicio-windows-11-1222412'>Microsoft podría poner publicidad en el menú de inicio de Windows 11</a></h4>
+    <a href='https://computerhoy.com/software/microsoft-podria-poner-publicidad-menu-inicio-windows-11-1222412' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/windows-11-moment-2-2975864.jpg?tf=1200x' alt='Microsoft podría poner publicidad en el menú de inicio de Windows 11' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/google-carga-desinformacion-estas-nuevas-funciones-1222300'>Google añade nuevas funciones a su búsqueda para ayudar a los usuarios a verificar la información</a></h4>
-    <a href='https://computerhoy.com/google/google-carga-desinformacion-estas-nuevas-funciones-1222300' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/google-anade-nuevas-funciones-busqueda-ayudar-usuarios-verificar-informacion-2995716.jpg?tf=1200x' alt='Google añade nuevas funciones a su búsqueda para ayudar a los usuarios a verificar la información' />
+    <h4><a href='https://computerhoy.com/tecnologia/elon-musk-otros-expertos-preocupados-descontrolado-desarrollo-ia-1222388'>Elon Musk y otros expertos preocupados por el descontrolado desarrollo de la IA</a></h4>
+    <a href='https://computerhoy.com/tecnologia/elon-musk-otros-expertos-preocupados-descontrolado-desarrollo-ia-1222388' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/elon-musk-otros-expertos-preocupados-descontrolado-desarrollo-ia-2995876.jpg?tf=1200x' alt='Elon Musk y otros expertos preocupados por el descontrolado desarrollo de la IA' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-utilizar-gpt-4-otras-inteligencias-artificiales-gratis-pagar-nada-1222284'>Cómo utilizar GPT-4 y otras inteligencias artificiales gratis sin pagar nada</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-utilizar-gpt-4-otras-inteligencias-artificiales-gratis-pagar-nada-1222284' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/como-utilizar-gpt-4-otras-inteligencias-artificiales-gratis-pagar-nada-2995688.jpg?tf=1200x' alt='Cómo utilizar GPT-4 y otras inteligencias artificiales gratis sin pagar nada' />
+    <h4><a href='https://computerhoy.com/ciencia/cumples-estos-requisitos-no-deberias-ponerte-vacunas-covid-oms-1222378'>Si cumples estos requisitos no deberías ponerte más vacunas contra el COVID, según la OMS</a></h4>
+    <a href='https://computerhoy.com/ciencia/cumples-estos-requisitos-no-deberias-ponerte-vacunas-covid-oms-1222378' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/ropa-vacunarse-2230393.jpg?tf=1200x' alt='Si cumples estos requisitos no deberías ponerte más vacunas contra el COVID, según la OMS' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ahorrate-licencia-windows-estos-portatiles-sistema-operativo-1221836'>Ahórrate la licencia de Windows con estos portátiles sin sistema operativo</a></h4>
-    <a href='https://computerhoy.com/ahorrate-licencia-windows-estos-portatiles-sistema-operativo-1221836' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/galeria-review-hp-victus-16-2544989.jpg?tf=1200x' alt='Ahórrate la licencia de Windows con estos portátiles sin sistema operativo' />
+    <h4><a href='https://computerhoy.com/ciberseguridad/microsoft-presenta-asistente-ciberseguridad-impulsado-gpt-4-1222360'>Microsoft presenta su asistente de ciberseguridad impulsado por la IA de GPT-4</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/microsoft-presenta-asistente-ciberseguridad-impulsado-gpt-4-1222360' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/microsoft-presenta-asistente-ciberseguridad-impulsado-ia-gpt-4-2995814.jpg?tf=1200x' alt='Microsoft presenta su asistente de ciberseguridad impulsado por la IA de GPT-4' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/28-noticias-tecnologia-comenzar-manana-informado-ultimo-1222272'>28 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
-    <a href='https://computerhoy.com/tecnologia/28-noticias-tecnologia-comenzar-manana-informado-ultimo-1222272' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/27-noticias-tecnologia-comenzar-manana-informado-ultimo-2995650.jpg?tf=1200x' alt='28 noticias de tecnología para comenzar la mañana informado de lo último' />
+    <h4><a href='https://computerhoy.com/redes/como-colocar-correctamente-antenas-router-wifi-mejorar-velocidad-cobertura-1222366'>Cómo colocar correctamente las antenas del router WiFi para mejorar la velocidad y cobertura</a></h4>
+    <a href='https://computerhoy.com/redes/como-colocar-correctamente-antenas-router-wifi-mejorar-velocidad-cobertura-1222366' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/router-wifi-2946290.jpg?tf=1200x' alt='Cómo colocar correctamente las antenas del router WiFi para mejorar la velocidad y cobertura' />
     </a>
 </div>
 
