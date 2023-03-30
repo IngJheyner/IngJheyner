@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/hogar/seguramente-tienes-microondas-mal-conectado-aumentando-riesgo-incendio-1223166'>Seguramente tienes el microondas mal conectado aumentando el riesgo de incendio</a></h4>
-    <a href='https://computerhoy.com/hogar/seguramente-tienes-microondas-mal-conectado-aumentando-riesgo-incendio-1223166' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/horno-microondas-ikea-tillreda-2668337.jpg?tf=1200x' alt='Seguramente tienes el microondas mal conectado aumentando el riesgo de incendio' />
+    <h4><a href='https://computerhoy.com/streaming/citadel-serie-mas-ambiciosa-prime-video-2023-fecha-estreno-trailer-1223276'>Llega Citadel, la segunda serie más cara de la historia, y la apuesta más ambiciosa de Prime Video para 2023</a></h4>
+    <a href='https://computerhoy.com/streaming/citadel-serie-mas-ambiciosa-prime-video-2023-fecha-estreno-trailer-1223276' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/verticalimage1680203497970-2997406.jpg?tf=1200x' alt='Llega Citadel, la segunda serie más cara de la historia, y la apuesta más ambiciosa de Prime Video para 2023' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/android/android-14-quiere-ponerselo-dificil-hackers-caracteristica-1223170'>Android 14 quiere ponérselo difícil a los hackers con esta característica</a></h4>
-    <a href='https://computerhoy.com/android/android-14-quiere-ponerselo-dificil-hackers-caracteristica-1223170' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/google-presenta-primera-version-preliminar-android-14-focalizada-accesibilidad-bateria-seguridad-2951334.jpg?tf=1200x' alt='Android 14 quiere ponérselo difícil a los hackers con esta característica' />
+    <h4><a href='https://computerhoy.com/life/record-longevidad-humanos-rompera-2060-sera-mujer-pais-1223266'>El récord de longevidad en humanos se romperá en 2060, será una mujer de este país</a></h4>
+    <a href='https://computerhoy.com/life/record-longevidad-humanos-rompera-2060-sera-mujer-pais-1223266' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/anciana-2997400.jpg?tf=1200x' alt='El récord de longevidad en humanos se romperá en 2060, será una mujer de este país' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/portatiles-ligeros-1-kg-peso-ideales-trabajar-estudiar-916347'>5 portátiles de apenas 1 kg de peso que son ideales para trabajar y estudiar</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/portatiles-ligeros-1-kg-peso-ideales-trabajar-estudiar-916347' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/lg-gram-3-2666251.jpg?tf=1200x' alt='5 portátiles de apenas 1 kg de peso que son ideales para trabajar y estudiar' />
+    <h4><a href='https://computerhoy.com/apps/gpt-5-podria-llegar-mismo-ano-sera-imposible-distinguir-ser-humano-1223264'>GPT-5 podría llegar este mismo año y será imposible de distinguir de un ser humano</a></h4>
+    <a href='https://computerhoy.com/apps/gpt-5-podria-llegar-mismo-ano-sera-imposible-distinguir-ser-humano-1223264' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/inteligencia-artificial-2997398.jpg?tf=1200x' alt='GPT-5 podría llegar este mismo año y será imposible de distinguir de un ser humano' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/nokia-tiene-ambicioso-plan-llevara-4g-luna-1223118'>Nokia tiene un ambicioso plan con el que llevará 4G a la Luna</a></h4>
-    <a href='https://computerhoy.com/moviles/nokia-tiene-ambicioso-plan-llevara-4g-luna-1223118' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/luna-2983236.jpg?tf=1200x' alt='Nokia tiene un ambicioso plan con el que llevará 4G a la Luna' />
+    <h4><a href='https://computerhoy.com/tecnologia/ia-aprendizaje-automatico-samsung-mete-cocina-1223204'>La IA con aprendizaje automático se mete en tu cocina: Samsung se convierte en el único fabricante de frigoríficos inteligentes</a></h4>
+    <a href='https://computerhoy.com/tecnologia/ia-aprendizaje-automatico-samsung-mete-cocina-1223204' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/samsung-tech-forum-2023-iot-electrodomesticos-frigorificos-lavadoras-ia-2997350.jpg?tf=1200x' alt='La IA con aprendizaje automático se mete en tu cocina: Samsung se convierte en el único fabricante de frigoríficos inteligentes' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/nada-gratis-microsoft-integrara-publicidad-bing-chatgpt-1223114'>Nada es gratis: Microsoft integrará publicidad en Bing con ChatGPT</a></h4>
-    <a href='https://computerhoy.com/internet/nada-gratis-microsoft-integrara-publicidad-bing-chatgpt-1223114' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/bing-2993878.jpg?tf=1200x' alt='Nada es gratis: Microsoft integrará publicidad en Bing con ChatGPT' />
+    <h4><a href='https://computerhoy.com/noticias/software/como-traducir-documento-pdf-ingles-espanol-79189'>Cómo traducir un documento PDF de inglés a español </a></h4>
+    <a href='https://computerhoy.com/noticias/software/como-traducir-documento-pdf-ingles-espanol-79189' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/04/297905-como-traducir-documento-pdf-ingles-espanol.jpg?tf=1200x' alt='Cómo traducir un documento PDF de inglés a español ' />
     </a>
 </div>
 
