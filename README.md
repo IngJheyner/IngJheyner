@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/hogar/senalan-freidoras-aire-como-posible-foco-intoxicaciones-alimentarias-1223136'>Señalan a las freidoras de aire como un posible foco de intoxicaciones alimentarias</a></h4>
+    <a href='https://computerhoy.com/hogar/senalan-freidoras-aire-como-posible-foco-intoxicaciones-alimentarias-1223136' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/freidora-aire-aceite-2875957.jpg?tf=1200x' alt='Señalan a las freidoras de aire como un posible foco de intoxicaciones alimentarias' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apple/filosofia-vida-steve-jobs-asumir-errores-sacar-siempre-aprendizaje-1223072'>La filosofía de vida de Steve Jobs para asumir sus errores y sacar siempre un aprendizaje</a></h4>
     <a href='https://computerhoy.com/apple/filosofia-vida-steve-jobs-asumir-errores-sacar-siempre-aprendizaje-1223072' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/apple-estrena-emotivo-video-homenajeando-steve-jobs-decimo-aniversario-muerte-2493217.jpg?tf=1200x' alt='La filosofía de vida de Steve Jobs para asumir sus errores y sacar siempre un aprendizaje' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/software/filtran-nuevos-detalles-corepc-futuro-windows-12-1223036'>Se filtran nuevos detalles de CorePC, el futuro  Windows 12</a></h4>
     <a href='https://computerhoy.com/software/filtran-nuevos-detalles-corepc-futuro-windows-12-1223036' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/windows-12-2845309.jpg?tf=1200x' alt='Se filtran nuevos detalles de CorePC, el futuro  Windows 12' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/industria/prompt-engineer-trabajador-susurra-ia-335000-dolares-ano-1223032'>Prompt Engineer, el trabajador que susurra a la IA: sueldos de hasta 335.000 dólares al año</a></h4>
-    <a href='https://computerhoy.com/industria/prompt-engineer-trabajador-susurra-ia-335000-dolares-ano-1223032' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/programadora-2479361.jpg?tf=1200x' alt='Prompt Engineer, el trabajador que susurra a la IA: sueldos de hasta 335.000 dólares al año' />
     </a>
 </div>
 
