@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/analisis/vivo-x90-pro-review-opinion-nuevo-movil-fotografico-top-1214288'>Vivo x90 Pro, análisis y opinión del nuevo móvil fotográfico top</a></h4>
+    <a href='https://computerhoy.com/analisis/vivo-x90-pro-review-opinion-nuevo-movil-fotografico-top-1214288' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/vivo-x90-pro-2996658.jpg?tf=1200x' alt='Vivo x90 Pro, análisis y opinión del nuevo móvil fotográfico top' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/smartwatches/motivos-suficientes-comprar-nuevo-redmi-watch-3-1222426'>Motivos más que suficientes para comprar el nuevo Redmi Watch 3</a></h4>
+    <a href='https://computerhoy.com/smartwatches/motivos-suficientes-comprar-nuevo-redmi-watch-3-1222426' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/redmi-watch-3jpg-2995880.jpg?tf=1200x' alt='Motivos más que suficientes para comprar el nuevo Redmi Watch 3' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/noticias-tecnologia-hoy-jueves-30-marzo-1222834'>26 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
+    <a href='https://computerhoy.com/tecnologia/noticias-tecnologia-hoy-jueves-30-marzo-1222834' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/27-noticias-tecnologia-comenzar-manana-informado-ultimo-2955828.jpg?tf=1200x' alt='26 noticias de tecnología para comenzar la mañana informado de lo último' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/listas/life/barbacoas-gas-debes-tener-cuenta-mejores-modelos-1007981'>Barbacoas de gas: qué debes tener en cuenta para comprar una y cuáles son las mejores</a></h4>
+    <a href='https://computerhoy.com/listas/life/barbacoas-gas-debes-tener-cuenta-mejores-modelos-1007981' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/persona-cocinando-barbacoa-2995838.jpg?tf=1200x' alt='Barbacoas de gas: qué debes tener en cuenta para comprar una y cuáles son las mejores' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/pregunta-chatgpt-como-ganar-dinero-gana-1280-euros-1222626'>Le pregunta a ChatGPT cómo ganar dinero con 100 euros, y en un día gana 1.280 euros</a></h4>
     <a href='https://computerhoy.com/tecnologia/pregunta-chatgpt-como-ganar-dinero-gana-1280-euros-1222626' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/pregunta-chatgpt-como-ganar-dinero-100-euros-dia-gana-1280-euros-2996442.jpg?tf=1200x' alt='Le pregunta a ChatGPT cómo ganar dinero con 100 euros, y en un día gana 1.280 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/amazon/amazon-sidewalk-conecta-gratis-dispositivos-sin-internet-1222624'>Amazon abre a todo el mundo su red gratuita Sidewalk, para conectar dispositivos sin Internet</a></h4>
-    <a href='https://computerhoy.com/amazon/amazon-sidewalk-conecta-gratis-dispositivos-sin-internet-1222624' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/amazon-abre-todo-mundo-red-gratuita-sidewalk-conectar-dispositivos-internet-2996374.jpg?tf=1200x' alt='Amazon abre a todo el mundo su red gratuita Sidewalk, para conectar dispositivos sin Internet' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/hogar/nuevo-robot-cocina-cecotec-mambo-touch-oferta-1222610'>El nuevo robot de cocina de Cecotec supera al de Thermomix: ocupa menos, tiene pantalla táctil y está en oferta</a></h4>
-    <a href='https://computerhoy.com/hogar/nuevo-robot-cocina-cecotec-mambo-touch-oferta-1222610' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/nuevo-robot-cocina-cecotec-supera-thermomix-ocupa-menos-tiene-pantalla-tactil-oferta-2996326.jpg?tf=1200x' alt='El nuevo robot de cocina de Cecotec supera al de Thermomix: ocupa menos, tiene pantalla táctil y está en oferta' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/netflix-no-enviando-avisos-cancelacion-cuentas-estafa-1222606'>Netflix no está enviando avisos de cancelación de cuentas, es una estafa</a></h4>
-    <a href='https://computerhoy.com/apps/netflix-no-enviando-avisos-cancelacion-cuentas-estafa-1222606' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/netflix-2810051.jpg?tf=1200x' alt='Netflix no está enviando avisos de cancelación de cuentas, es una estafa' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/avalanchas-quejas-advertencias-ios-164-no-actualices-1222602'>Avalanchas de quejas y advertencias sobre iOS 16.4: ¡no actualices!</a></h4>
-    <a href='https://computerhoy.com/apple/avalanchas-quejas-advertencias-ios-164-no-actualices-1222602' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/iphone-14-2948946.jpg?tf=1200x' alt='Avalanchas de quejas y advertencias sobre iOS 16.4: ¡no actualices!' />
     </a>
 </div>
 
