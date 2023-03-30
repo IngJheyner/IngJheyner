@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/vivo-x90-pro-review-opinion-nuevo-movil-fotografico-top-1214288'>Vivo x90 Pro, análisis y opinión del nuevo móvil fotográfico top</a></h4>
-    <a href='https://computerhoy.com/analisis/vivo-x90-pro-review-opinion-nuevo-movil-fotografico-top-1214288' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/vivo-x90-pro-2996658.jpg?tf=1200x' alt='Vivo x90 Pro, análisis y opinión del nuevo móvil fotográfico top' />
+    <h4><a href='https://computerhoy.com/life/mapa-muestra-costumbre-espana-imbatible-1222904'>Este mapa muestra una curiosa costumbre en la que España es absolutamente imbatible</a></h4>
+    <a href='https://computerhoy.com/life/mapa-muestra-costumbre-espana-imbatible-1222904' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/mapa-muestra-curiosa-costumbre-espana-absolutamente-imbatible-2996794.jpg?tf=1200x' alt='Este mapa muestra una curiosa costumbre en la que España es absolutamente imbatible' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/smartwatches/motivos-suficientes-comprar-nuevo-redmi-watch-3-1222426'>Motivos más que suficientes para comprar el nuevo Redmi Watch 3</a></h4>
-    <a href='https://computerhoy.com/smartwatches/motivos-suficientes-comprar-nuevo-redmi-watch-3-1222426' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/redmi-watch-3jpg-2995880.jpg?tf=1200x' alt='Motivos más que suficientes para comprar el nuevo Redmi Watch 3' />
+    <h4><a href='https://computerhoy.com/google/google-acusado-copiar-chatgpt-entrenar-bard-1222870'>Google acusado de copiar a ChatGPT para entrenar su inteligencia artificial Bard</a></h4>
+    <a href='https://computerhoy.com/google/google-acusado-copiar-chatgpt-entrenar-bard-1222870' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/chatgpt-vs-google-bard-principales-diferencias-cual-mejor-2951532.jpg?tf=1200x' alt='Google acusado de copiar a ChatGPT para entrenar su inteligencia artificial Bard' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/noticias-tecnologia-hoy-jueves-30-marzo-1222834'>26 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
-    <a href='https://computerhoy.com/tecnologia/noticias-tecnologia-hoy-jueves-30-marzo-1222834' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/27-noticias-tecnologia-comenzar-manana-informado-ultimo-2955828.jpg?tf=1200x' alt='26 noticias de tecnología para comenzar la mañana informado de lo último' />
+    <h4><a href='https://computerhoy.com/gaming/netflix-quiere-convertir-televisor-playstation-5-1222890'>Netflix quiere convertir tu televisor en una PlayStation 5</a></h4>
+    <a href='https://computerhoy.com/gaming/netflix-quiere-convertir-televisor-playstation-5-1222890' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/ps5-2428191.jpg?tf=1200x' alt='Netflix quiere convertir tu televisor en una PlayStation 5' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/listas/life/barbacoas-gas-debes-tener-cuenta-mejores-modelos-1007981'>Barbacoas de gas: qué debes tener en cuenta para comprar una y cuáles son las mejores</a></h4>
-    <a href='https://computerhoy.com/listas/life/barbacoas-gas-debes-tener-cuenta-mejores-modelos-1007981' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/persona-cocinando-barbacoa-2995838.jpg?tf=1200x' alt='Barbacoas de gas: qué debes tener en cuenta para comprar una y cuáles son las mejores' />
+    <h4><a href='https://computerhoy.com/demuestran-30-minutos-como-chatgpt-otras-inteligencias-artificiales-destruiran-millones-trabajos-1222864'>Demuestran en 30 minutos como ChatGPT y otras inteligencias artificiales destruirán millones de trabajos</a></h4>
+    <a href='https://computerhoy.com/demuestran-30-minutos-como-chatgpt-otras-inteligencias-artificiales-destruiran-millones-trabajos-1222864' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/inteligencia-artificial-2980656.jpg?tf=1200x' alt='Demuestran en 30 minutos como ChatGPT y otras inteligencias artificiales destruirán millones de trabajos' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/pregunta-chatgpt-como-ganar-dinero-gana-1280-euros-1222626'>Le pregunta a ChatGPT cómo ganar dinero con 100 euros, y en un día gana 1.280 euros</a></h4>
-    <a href='https://computerhoy.com/tecnologia/pregunta-chatgpt-como-ganar-dinero-gana-1280-euros-1222626' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/pregunta-chatgpt-como-ganar-dinero-100-euros-dia-gana-1280-euros-2996442.jpg?tf=1200x' alt='Le pregunta a ChatGPT cómo ganar dinero con 100 euros, y en un día gana 1.280 euros' />
+    <h4><a href='https://computerhoy.com/tecnologia/ya-quiosco-numero-639-computer-hoy-1219254'>¡Ya está en tu quiosco el número 639 de Computer Hoy!</a></h4>
+    <a href='https://computerhoy.com/tecnologia/ya-quiosco-numero-639-computer-hoy-1219254' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/computer-hoy-639-2991648.jpg?tf=1200x' alt='¡Ya está en tu quiosco el número 639 de Computer Hoy!' />
     </a>
 </div>
 
