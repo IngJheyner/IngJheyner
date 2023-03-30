@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/mapa-muestra-costumbre-espana-imbatible-1222904'>Este mapa muestra una curiosa costumbre en la que España es absolutamente imbatible</a></h4>
-    <a href='https://computerhoy.com/life/mapa-muestra-costumbre-espana-imbatible-1222904' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/mapa-muestra-curiosa-costumbre-espana-absolutamente-imbatible-2996794.jpg?tf=1200x' alt='Este mapa muestra una curiosa costumbre en la que España es absolutamente imbatible' />
+    <h4><a href='https://computerhoy.com/apple/filosofia-vida-steve-jobs-asumir-errores-sacar-siempre-aprendizaje-1223072'>La filosofía de vida de Steve Jobs para asumir sus errores y sacar siempre un aprendizaje</a></h4>
+    <a href='https://computerhoy.com/apple/filosofia-vida-steve-jobs-asumir-errores-sacar-siempre-aprendizaje-1223072' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/apple-estrena-emotivo-video-homenajeando-steve-jobs-decimo-aniversario-muerte-2493217.jpg?tf=1200x' alt='La filosofía de vida de Steve Jobs para asumir sus errores y sacar siempre un aprendizaje' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/google-acusado-copiar-chatgpt-entrenar-bard-1222870'>Google acusado de copiar a ChatGPT para entrenar su inteligencia artificial Bard</a></h4>
-    <a href='https://computerhoy.com/google/google-acusado-copiar-chatgpt-entrenar-bard-1222870' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/chatgpt-vs-google-bard-principales-diferencias-cual-mejor-2951532.jpg?tf=1200x' alt='Google acusado de copiar a ChatGPT para entrenar su inteligencia artificial Bard' />
+    <h4><a href='https://computerhoy.com/redes/superficies-jamas-deberias-colocar-router-wifi-1223058'>Superficies sobre las que jamás deberías colocar el router WiFi</a></h4>
+    <a href='https://computerhoy.com/redes/superficies-jamas-deberias-colocar-router-wifi-1223058' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/router-exterior-2977560.jpg?tf=1200x' alt='Superficies sobre las que jamás deberías colocar el router WiFi' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/gaming/netflix-quiere-convertir-televisor-playstation-5-1222890'>Netflix quiere convertir tu televisor en una PlayStation 5</a></h4>
-    <a href='https://computerhoy.com/gaming/netflix-quiere-convertir-televisor-playstation-5-1222890' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/ps5-2428191.jpg?tf=1200x' alt='Netflix quiere convertir tu televisor en una PlayStation 5' />
+    <h4><a href='https://computerhoy.com/life/trabaja-solo-4-horas-dia-gana-2-millones-ano-programa-tiene-casi-40-anos-1223026'>Trabaja solo 4 horas al día y gana más de 2 millones al año con un programa que tiene casi 40 años</a></h4>
+    <a href='https://computerhoy.com/life/trabaja-solo-4-horas-dia-gana-2-millones-ano-programa-tiene-casi-40-anos-1223026' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/trabaja-solo-4-horas-dia-gana-2-millones-ano-programa-tiene-casi-40-anos-2997030.jpg?tf=1200x' alt='Trabaja solo 4 horas al día y gana más de 2 millones al año con un programa que tiene casi 40 años' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/demuestran-30-minutos-como-chatgpt-otras-inteligencias-artificiales-destruiran-millones-trabajos-1222864'>Demuestran en 30 minutos como ChatGPT y otras inteligencias artificiales destruirán millones de trabajos</a></h4>
-    <a href='https://computerhoy.com/demuestran-30-minutos-como-chatgpt-otras-inteligencias-artificiales-destruiran-millones-trabajos-1222864' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/inteligencia-artificial-2980656.jpg?tf=1200x' alt='Demuestran en 30 minutos como ChatGPT y otras inteligencias artificiales destruirán millones de trabajos' />
+    <h4><a href='https://computerhoy.com/software/filtran-nuevos-detalles-corepc-futuro-windows-12-1223036'>Se filtran nuevos detalles de CorePC, el futuro  Windows 12</a></h4>
+    <a href='https://computerhoy.com/software/filtran-nuevos-detalles-corepc-futuro-windows-12-1223036' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/windows-12-2845309.jpg?tf=1200x' alt='Se filtran nuevos detalles de CorePC, el futuro  Windows 12' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/ya-quiosco-numero-639-computer-hoy-1219254'>¡Ya está en tu quiosco el número 639 de Computer Hoy!</a></h4>
-    <a href='https://computerhoy.com/tecnologia/ya-quiosco-numero-639-computer-hoy-1219254' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/computer-hoy-639-2991648.jpg?tf=1200x' alt='¡Ya está en tu quiosco el número 639 de Computer Hoy!' />
+    <h4><a href='https://computerhoy.com/industria/prompt-engineer-trabajador-susurra-ia-335000-dolares-ano-1223032'>Prompt Engineer, el trabajador que susurra a la IA: sueldos de hasta 335.000 dólares al año</a></h4>
+    <a href='https://computerhoy.com/industria/prompt-engineer-trabajador-susurra-ia-335000-dolares-ano-1223032' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/programadora-2479361.jpg?tf=1200x' alt='Prompt Engineer, el trabajador que susurra a la IA: sueldos de hasta 335.000 dólares al año' />
     </a>
 </div>
 
