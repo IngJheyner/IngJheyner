@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/pregunta-chatgpt-como-ganar-dinero-gana-1280-euros-1222626'>Le pregunta a ChatGPT cómo ganar dinero con 100 euros, y en un día gana 1.280 euros</a></h4>
+    <a href='https://computerhoy.com/tecnologia/pregunta-chatgpt-como-ganar-dinero-gana-1280-euros-1222626' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/pregunta-chatgpt-como-ganar-dinero-100-euros-dia-gana-1280-euros-2996442.jpg?tf=1200x' alt='Le pregunta a ChatGPT cómo ganar dinero con 100 euros, y en un día gana 1.280 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/amazon/amazon-sidewalk-conecta-gratis-dispositivos-sin-internet-1222624'>Amazon abre a todo el mundo su red gratuita Sidewalk, para conectar dispositivos sin Internet</a></h4>
+    <a href='https://computerhoy.com/amazon/amazon-sidewalk-conecta-gratis-dispositivos-sin-internet-1222624' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/amazon-abre-todo-mundo-red-gratuita-sidewalk-conectar-dispositivos-internet-2996374.jpg?tf=1200x' alt='Amazon abre a todo el mundo su red gratuita Sidewalk, para conectar dispositivos sin Internet' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/hogar/nuevo-robot-cocina-cecotec-mambo-touch-oferta-1222610'>El nuevo robot de cocina de Cecotec supera al de Thermomix: ocupa menos, tiene pantalla táctil y está en oferta</a></h4>
     <a href='https://computerhoy.com/hogar/nuevo-robot-cocina-cecotec-mambo-touch-oferta-1222610' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/nuevo-robot-cocina-cecotec-supera-thermomix-ocupa-menos-tiene-pantalla-tactil-oferta-2996326.jpg?tf=1200x' alt='El nuevo robot de cocina de Cecotec supera al de Thermomix: ocupa menos, tiene pantalla táctil y está en oferta' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/apple/avalanchas-quejas-advertencias-ios-164-no-actualices-1222602'>Avalanchas de quejas y advertencias sobre iOS 16.4: ¡no actualices!</a></h4>
     <a href='https://computerhoy.com/apple/avalanchas-quejas-advertencias-ios-164-no-actualices-1222602' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/iphone-14-2948946.jpg?tf=1200x' alt='Avalanchas de quejas y advertencias sobre iOS 16.4: ¡no actualices!' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/streaming/estrenos-netflix-abril-2023-video-1222600'>El regreso del niño ciervo, una isla imposible, y charlas en el más allá, entre los estrenos de Netflix en abril</a></h4>
-    <a href='https://computerhoy.com/streaming/estrenos-netflix-abril-2023-video-1222600' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/verticalimage1680113155168-2996316.jpg?tf=1200x' alt='El regreso del niño ciervo, una isla imposible, y charlas en el más allá, entre los estrenos de Netflix en abril' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/sirva-precedente-mail-policia-cierto-debes-hacerle-caso-1222512'>Sin que sirva de precedente, este mail de la Policía es cierto y debes hacerle caso</a></h4>
-    <a href='https://computerhoy.com/life/sirva-precedente-mail-policia-cierto-debes-hacerle-caso-1222512' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/dni-40-policia-nacional-2374929.jpg?tf=1200x' alt='Sin que sirva de precedente, este mail de la Policía es cierto y debes hacerle caso' />
     </a>
 </div>
 
