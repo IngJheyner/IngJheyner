@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/hogar/senalan-freidoras-aire-como-posible-foco-intoxicaciones-alimentarias-1223136'>Señalan a las freidoras de aire como un posible foco de intoxicaciones alimentarias</a></h4>
-    <a href='https://computerhoy.com/hogar/senalan-freidoras-aire-como-posible-foco-intoxicaciones-alimentarias-1223136' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/freidora-aire-aceite-2875957.jpg?tf=1200x' alt='Señalan a las freidoras de aire como un posible foco de intoxicaciones alimentarias' />
+    <h4><a href='https://computerhoy.com/hogar/seguramente-tienes-microondas-mal-conectado-aumentando-riesgo-incendio-1223166'>Seguramente tienes el microondas mal conectado aumentando el riesgo de incendio</a></h4>
+    <a href='https://computerhoy.com/hogar/seguramente-tienes-microondas-mal-conectado-aumentando-riesgo-incendio-1223166' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/horno-microondas-ikea-tillreda-2668337.jpg?tf=1200x' alt='Seguramente tienes el microondas mal conectado aumentando el riesgo de incendio' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/filosofia-vida-steve-jobs-asumir-errores-sacar-siempre-aprendizaje-1223072'>La filosofía de vida de Steve Jobs para asumir sus errores y sacar siempre un aprendizaje</a></h4>
-    <a href='https://computerhoy.com/apple/filosofia-vida-steve-jobs-asumir-errores-sacar-siempre-aprendizaje-1223072' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/apple-estrena-emotivo-video-homenajeando-steve-jobs-decimo-aniversario-muerte-2493217.jpg?tf=1200x' alt='La filosofía de vida de Steve Jobs para asumir sus errores y sacar siempre un aprendizaje' />
+    <h4><a href='https://computerhoy.com/android/android-14-quiere-ponerselo-dificil-hackers-caracteristica-1223170'>Android 14 quiere ponérselo difícil a los hackers con esta característica</a></h4>
+    <a href='https://computerhoy.com/android/android-14-quiere-ponerselo-dificil-hackers-caracteristica-1223170' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/google-presenta-primera-version-preliminar-android-14-focalizada-accesibilidad-bateria-seguridad-2951334.jpg?tf=1200x' alt='Android 14 quiere ponérselo difícil a los hackers con esta característica' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/redes/superficies-jamas-deberias-colocar-router-wifi-1223058'>Superficies sobre las que jamás deberías colocar el router WiFi</a></h4>
-    <a href='https://computerhoy.com/redes/superficies-jamas-deberias-colocar-router-wifi-1223058' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/router-exterior-2977560.jpg?tf=1200x' alt='Superficies sobre las que jamás deberías colocar el router WiFi' />
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/portatiles-ligeros-1-kg-peso-ideales-trabajar-estudiar-916347'>5 portátiles de apenas 1 kg de peso que son ideales para trabajar y estudiar</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/portatiles-ligeros-1-kg-peso-ideales-trabajar-estudiar-916347' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/lg-gram-3-2666251.jpg?tf=1200x' alt='5 portátiles de apenas 1 kg de peso que son ideales para trabajar y estudiar' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/trabaja-solo-4-horas-dia-gana-2-millones-ano-programa-tiene-casi-40-anos-1223026'>Trabaja solo 4 horas al día y gana más de 2 millones al año con un programa que tiene casi 40 años</a></h4>
-    <a href='https://computerhoy.com/life/trabaja-solo-4-horas-dia-gana-2-millones-ano-programa-tiene-casi-40-anos-1223026' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/trabaja-solo-4-horas-dia-gana-2-millones-ano-programa-tiene-casi-40-anos-2997030.jpg?tf=1200x' alt='Trabaja solo 4 horas al día y gana más de 2 millones al año con un programa que tiene casi 40 años' />
+    <h4><a href='https://computerhoy.com/moviles/nokia-tiene-ambicioso-plan-llevara-4g-luna-1223118'>Nokia tiene un ambicioso plan con el que llevará 4G a la Luna</a></h4>
+    <a href='https://computerhoy.com/moviles/nokia-tiene-ambicioso-plan-llevara-4g-luna-1223118' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/luna-2983236.jpg?tf=1200x' alt='Nokia tiene un ambicioso plan con el que llevará 4G a la Luna' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/software/filtran-nuevos-detalles-corepc-futuro-windows-12-1223036'>Se filtran nuevos detalles de CorePC, el futuro  Windows 12</a></h4>
-    <a href='https://computerhoy.com/software/filtran-nuevos-detalles-corepc-futuro-windows-12-1223036' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/windows-12-2845309.jpg?tf=1200x' alt='Se filtran nuevos detalles de CorePC, el futuro  Windows 12' />
+    <h4><a href='https://computerhoy.com/internet/nada-gratis-microsoft-integrara-publicidad-bing-chatgpt-1223114'>Nada es gratis: Microsoft integrará publicidad en Bing con ChatGPT</a></h4>
+    <a href='https://computerhoy.com/internet/nada-gratis-microsoft-integrara-publicidad-bing-chatgpt-1223114' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/bing-2993878.jpg?tf=1200x' alt='Nada es gratis: Microsoft integrará publicidad en Bing con ChatGPT' />
     </a>
 </div>
 
