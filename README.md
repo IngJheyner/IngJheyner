@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/motor/nueva-bicicleta-electrica-montana-barata-decathlon-rockrider-1223284'>Decathlon tiene una nueva bicicleta eléctrica de montaña barata: Rockrider E-ST 500</a></h4>
+    <a href='https://computerhoy.com/motor/nueva-bicicleta-electrica-montana-barata-decathlon-rockrider-1223284' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/decathlon-tiene-nueva-bicicleta-electrica-montana-barata-rockrider-st-500-2997424.jpg?tf=1200x' alt='Decathlon tiene una nueva bicicleta eléctrica de montaña barata: Rockrider E-ST 500' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/streaming/citadel-serie-mas-ambiciosa-prime-video-2023-fecha-estreno-trailer-1223276'>Llega Citadel, la segunda serie más cara de la historia, y la apuesta más ambiciosa de Prime Video para 2023</a></h4>
     <a href='https://computerhoy.com/streaming/citadel-serie-mas-ambiciosa-prime-video-2023-fecha-estreno-trailer-1223276' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/verticalimage1680203497970-2997406.jpg?tf=1200x' alt='Llega Citadel, la segunda serie más cara de la historia, y la apuesta más ambiciosa de Prime Video para 2023' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/ia-aprendizaje-automatico-samsung-mete-cocina-1223204'>La IA con aprendizaje automático se mete en tu cocina: Samsung se convierte en el único fabricante de frigoríficos inteligentes</a></h4>
     <a href='https://computerhoy.com/tecnologia/ia-aprendizaje-automatico-samsung-mete-cocina-1223204' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/samsung-tech-forum-2023-iot-electrodomesticos-frigorificos-lavadoras-ia-2997350.jpg?tf=1200x' alt='La IA con aprendizaje automático se mete en tu cocina: Samsung se convierte en el único fabricante de frigoríficos inteligentes' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/software/como-traducir-documento-pdf-ingles-espanol-79189'>Cómo traducir un documento PDF de inglés a español </a></h4>
-    <a href='https://computerhoy.com/noticias/software/como-traducir-documento-pdf-ingles-espanol-79189' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/04/297905-como-traducir-documento-pdf-ingles-espanol.jpg?tf=1200x' alt='Cómo traducir un documento PDF de inglés a español ' />
     </a>
 </div>
 
