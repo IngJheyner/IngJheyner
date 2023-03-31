@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/midjourney-cancela-prueba-gratuita-abuso-deepfakes-1223502'>Midjourney cancela la prueba gratuita, ¿demasiados usuarios, o abuso de los deepfakes?</a></h4>
-    <a href='https://computerhoy.com/tecnologia/midjourney-cancela-prueba-gratuita-abuso-deepfakes-1223502' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/midjourney-cancela-prueba-gratuita-demasiados-usuarios-abuso-deepfakes-2997626.jpg?tf=1200x' alt='Midjourney cancela la prueba gratuita, ¿demasiados usuarios, o abuso de los deepfakes?' />
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/6-auriculares-cancelacion-ruido-hemos-probado-recomendamos-998463'>13 auriculares con cancelación de ruido que hemos probado y recomendamos</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/6-auriculares-cancelacion-ruido-hemos-probado-recomendamos-998463' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/nothing-ear-2-2989248.jpg?tf=1200x' alt='13 auriculares con cancelación de ruido que hemos probado y recomendamos' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/nueva-bicicleta-electrica-montana-barata-decathlon-rockrider-1223284'>Decathlon tiene una nueva bicicleta eléctrica de montaña barata: Rockrider E-ST 500</a></h4>
-    <a href='https://computerhoy.com/motor/nueva-bicicleta-electrica-montana-barata-decathlon-rockrider-1223284' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/decathlon-tiene-nueva-bicicleta-electrica-montana-barata-rockrider-st-500-2997424.jpg?tf=1200x' alt='Decathlon tiene una nueva bicicleta eléctrica de montaña barata: Rockrider E-ST 500' />
+    <h4><a href='https://computerhoy.com/tecnologia/industria-chips-sera-2023-ano-finalmente-sector-recobre-fuerzas-1214008'>La industria de los chips: ¿Será 2023 el año en el que finalmente el sector recobre fuerzas?</a></h4>
+    <a href='https://computerhoy.com/tecnologia/industria-chips-sera-2023-ano-finalmente-sector-recobre-fuerzas-1214008' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/industria-chips-sera-2023-ano-finalmente-sector-recobre-fuerzas-2987258.jpg?tf=1200x' alt='La industria de los chips: ¿Será 2023 el año en el que finalmente el sector recobre fuerzas?' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/streaming/citadel-serie-mas-ambiciosa-prime-video-2023-fecha-estreno-trailer-1223276'>Llega Citadel, la segunda serie más cara de la historia, y la apuesta más ambiciosa de Prime Video para 2023</a></h4>
-    <a href='https://computerhoy.com/streaming/citadel-serie-mas-ambiciosa-prime-video-2023-fecha-estreno-trailer-1223276' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/verticalimage1680203497970-2997406.jpg?tf=1200x' alt='Llega Citadel, la segunda serie más cara de la historia, y la apuesta más ambiciosa de Prime Video para 2023' />
+    <h4><a href='https://computerhoy.com/tecnologia/noticias-tecnologia-hoy-viernes-31-marzo-1223510'>27 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
+    <a href='https://computerhoy.com/tecnologia/noticias-tecnologia-hoy-viernes-31-marzo-1223510' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/27-noticias-tecnologia-comenzar-manana-informado-ultimo-2997634.jpg?tf=1200x' alt='27 noticias de tecnología para comenzar la mañana informado de lo último' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/record-longevidad-humanos-rompera-2060-sera-mujer-pais-1223266'>El récord de longevidad en humanos se romperá en 2060, será una mujer de este país</a></h4>
-    <a href='https://computerhoy.com/life/record-longevidad-humanos-rompera-2060-sera-mujer-pais-1223266' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/anciana-2997400.jpg?tf=1200x' alt='El récord de longevidad en humanos se romperá en 2060, será una mujer de este país' />
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/pulsera-inteligente-cual-es-mejor-539211'>Comprar una pulsera inteligente, ¿qué debo tener en cuenta y cuáles son los mejores modelos?</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/pulsera-inteligente-cual-es-mejor-539211' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/xiaomi-redmi-smart-band-2-analisis-opinion-2990224.jpg?tf=1200x' alt='Comprar una pulsera inteligente, ¿qué debo tener en cuenta y cuáles son los mejores modelos?' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/gpt-5-podria-llegar-mismo-ano-sera-imposible-distinguir-ser-humano-1223264'>GPT-5 podría llegar este mismo año y será imposible de distinguir de un ser humano</a></h4>
-    <a href='https://computerhoy.com/apps/gpt-5-podria-llegar-mismo-ano-sera-imposible-distinguir-ser-humano-1223264' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/inteligencia-artificial-2997398.jpg?tf=1200x' alt='GPT-5 podría llegar este mismo año y será imposible de distinguir de un ser humano' />
+    <h4><a href='https://computerhoy.com/life/compra-detector-metales-oferta-encuentra-pepita-oro-tamano-balon-1223506'>Compra un detector de metales en oferta y encuentra una pepita de oro del tamaño de un balón de fútbol</a></h4>
+    <a href='https://computerhoy.com/life/compra-detector-metales-oferta-encuentra-pepita-oro-tamano-balon-1223506' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/compra-detector-metales-oferta-encuentra-pepita-oro-tamano-balon-futbol-2997628.jpg?tf=1200x' alt='Compra un detector de metales en oferta y encuentra una pepita de oro del tamaño de un balón de fútbol' />
     </a>
 </div>
 
