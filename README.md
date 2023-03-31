@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/midjourney-cancela-prueba-gratuita-abuso-deepfakes-1223502'>Midjourney cancela la prueba gratuita, ¿demasiados usuarios, o abuso de los deepfakes?</a></h4>
+    <a href='https://computerhoy.com/tecnologia/midjourney-cancela-prueba-gratuita-abuso-deepfakes-1223502' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/midjourney-cancela-prueba-gratuita-demasiados-usuarios-abuso-deepfakes-2997626.jpg?tf=1200x' alt='Midjourney cancela la prueba gratuita, ¿demasiados usuarios, o abuso de los deepfakes?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/motor/nueva-bicicleta-electrica-montana-barata-decathlon-rockrider-1223284'>Decathlon tiene una nueva bicicleta eléctrica de montaña barata: Rockrider E-ST 500</a></h4>
     <a href='https://computerhoy.com/motor/nueva-bicicleta-electrica-montana-barata-decathlon-rockrider-1223284' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/decathlon-tiene-nueva-bicicleta-electrica-montana-barata-rockrider-st-500-2997424.jpg?tf=1200x' alt='Decathlon tiene una nueva bicicleta eléctrica de montaña barata: Rockrider E-ST 500' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/apps/gpt-5-podria-llegar-mismo-ano-sera-imposible-distinguir-ser-humano-1223264'>GPT-5 podría llegar este mismo año y será imposible de distinguir de un ser humano</a></h4>
     <a href='https://computerhoy.com/apps/gpt-5-podria-llegar-mismo-ano-sera-imposible-distinguir-ser-humano-1223264' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/inteligencia-artificial-2997398.jpg?tf=1200x' alt='GPT-5 podría llegar este mismo año y será imposible de distinguir de un ser humano' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/ia-aprendizaje-automatico-samsung-mete-cocina-1223204'>La IA con aprendizaje automático se mete en tu cocina: Samsung se convierte en el único fabricante de frigoríficos inteligentes</a></h4>
-    <a href='https://computerhoy.com/tecnologia/ia-aprendizaje-automatico-samsung-mete-cocina-1223204' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/samsung-tech-forum-2023-iot-electrodomesticos-frigorificos-lavadoras-ia-2997350.jpg?tf=1200x' alt='La IA con aprendizaje automático se mete en tu cocina: Samsung se convierte en el único fabricante de frigoríficos inteligentes' />
     </a>
 </div>
 
