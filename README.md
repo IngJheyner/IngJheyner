@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/streaming/peliculas-ver-fin-semana-netflix-movistar-plus-secuestro-avion-aspirante-astronauta-fiesta-familiar-1223570'>Qué películas ver este fin de semana en Netflix y Movistar Plus+: un secuestro de avión, un aspirante a astronauta y una fiesta familiar</a></h4>
+    <a href='https://computerhoy.com/streaming/peliculas-ver-fin-semana-netflix-movistar-plus-secuestro-avion-aspirante-astronauta-fiesta-familiar-1223570' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/peliculas-ver-fin-semana-netflix-movistar-plus-secuestro-avion-aspirante-astronauta-fiesta-familiar-2997742.jpg?tf=1200x' alt='Qué películas ver este fin de semana en Netflix y Movistar Plus+: un secuestro de avión, un aspirante a astronauta y una fiesta familiar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/legislacion/regulador-italiano-proteccion-datos-ha-prohibido-chatgpt-1223744'>El regulador italiano de protección de datos ha prohibido ChatGPT</a></h4>
+    <a href='https://computerhoy.com/legislacion/regulador-italiano-proteccion-datos-ha-prohibido-chatgpt-1223744' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/debate-etico-chatgpt-2959494.jpg?tf=1200x' alt='El regulador italiano de protección de datos ha prohibido ChatGPT' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/nasa-muestra-impacto-guerra-espacio-ucrania-apaga-1223610'>La NASA muestra el impacto de la guerra desde el espacio: Ucrania se apaga</a></h4>
     <a href='https://computerhoy.com/tecnologia/nasa-muestra-impacto-guerra-espacio-ucrania-apaga-1223610' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/nasa-muestra-impacto-guerra-espacio-ucrania-apaga-2997808.jpg?tf=1200x' alt='La NASA muestra el impacto de la guerra desde el espacio: Ucrania se apaga' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/motor/primer-gran-test-baterias-coche-electrico-consigue-desmontar-mucho-mitos-1223592'>El primer gran test de baterías de coche eléctrico consigue desmontar muchos mitos</a></h4>
     <a href='https://computerhoy.com/motor/primer-gran-test-baterias-coche-electrico-consigue-desmontar-mucho-mitos-1223592' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/bateria-litio-2979576.jpg?tf=1200x' alt='El primer gran test de baterías de coche eléctrico consigue desmontar muchos mitos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/quiere-solucionar-microsoft-infierno-actualizaciones-windows-12-1223574'>Así quiere solucionar Microsoft el infierno de las actualizaciones en Windows 12</a></h4>
-    <a href='https://computerhoy.com/windows/quiere-solucionar-microsoft-infierno-actualizaciones-windows-12-1223574' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/windows-12-2992294.jpg?tf=1200x' alt='Así quiere solucionar Microsoft el infierno de las actualizaciones en Windows 12' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/apple-retrasa-gafas-realidad-mixta-podrian-no-llegar-wwdc-1223578'>Apple retrasa sus gafas de realidad mixta y podrían no llegar para el WWDC</a></h4>
-    <a href='https://computerhoy.com/apple/apple-retrasa-gafas-realidad-mixta-podrian-no-llegar-wwdc-1223578' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/gafas-realidad-aumentada-apple-fracasan-tendran-esperar-indefinidamente-2931416.jpg?tf=1200x' alt='Apple retrasa sus gafas de realidad mixta y podrían no llegar para el WWDC' />
     </a>
 </div>
 
