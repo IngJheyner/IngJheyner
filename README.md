@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/nasa-muestra-impacto-guerra-espacio-ucrania-apaga-1223610'>La NASA muestra el impacto de la guerra desde el espacio: Ucrania se apaga</a></h4>
+    <a href='https://computerhoy.com/tecnologia/nasa-muestra-impacto-guerra-espacio-ucrania-apaga-1223610' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/nasa-muestra-impacto-guerra-espacio-ucrania-apaga-2997808.jpg?tf=1200x' alt='La NASA muestra el impacto de la guerra desde el espacio: Ucrania se apaga' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tutoriales/como-activar-nuevo-modo-secreto-google-chrome-paginas-sean-faciles-leer-1223606'>Cómo activar el nuevo modo secreto de Google Chrome para que las páginas sean más fáciles de leer</a></h4>
     <a href='https://computerhoy.com/tutoriales/como-activar-nuevo-modo-secreto-google-chrome-paginas-sean-faciles-leer-1223606' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/google-chrome-2943032.jpg?tf=1200x' alt='Cómo activar el nuevo modo secreto de Google Chrome para que las páginas sean más fáciles de leer' />
@@ -58,9 +66,9 @@
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/primer-gran-test-baterias-coche-electrico-consigue-desmontar-mucho-mitos-1223592'>El primer gran test de baterías de coche eléctrico consigue desmontar mucho mitos</a></h4>
+    <h4><a href='https://computerhoy.com/motor/primer-gran-test-baterias-coche-electrico-consigue-desmontar-mucho-mitos-1223592'>El primer gran test de baterías de coche eléctrico consigue desmontar muchos mitos</a></h4>
     <a href='https://computerhoy.com/motor/primer-gran-test-baterias-coche-electrico-consigue-desmontar-mucho-mitos-1223592' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/bateria-litio-2979576.jpg?tf=1200x' alt='El primer gran test de baterías de coche eléctrico consigue desmontar mucho mitos' />
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/bateria-litio-2979576.jpg?tf=1200x' alt='El primer gran test de baterías de coche eléctrico consigue desmontar muchos mitos' />
     </a>
 </div>
 
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/apple/apple-retrasa-gafas-realidad-mixta-podrian-no-llegar-wwdc-1223578'>Apple retrasa sus gafas de realidad mixta y podrían no llegar para el WWDC</a></h4>
     <a href='https://computerhoy.com/apple/apple-retrasa-gafas-realidad-mixta-podrian-no-llegar-wwdc-1223578' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/gafas-realidad-aumentada-apple-fracasan-tendran-esperar-indefinidamente-2931416.jpg?tf=1200x' alt='Apple retrasa sus gafas de realidad mixta y podrían no llegar para el WWDC' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/eres-listo-ia-demuestralo-juego-online-gratis-1223542'>¿Eres más listo que una IA? Demuéstralo con este juego online gratis</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/eres-listo-ia-demuestralo-juego-online-gratis-1223542' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/ia-dall-openai-ya-disponible-gratis-todos-2828817.jpg?tf=1200x' alt='¿Eres más listo que una IA? Demuéstralo con este juego online gratis' />
     </a>
 </div>
 
