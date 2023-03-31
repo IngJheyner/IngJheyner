@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/6-auriculares-cancelacion-ruido-hemos-probado-recomendamos-998463'>13 auriculares con cancelación de ruido que hemos probado y recomendamos</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/6-auriculares-cancelacion-ruido-hemos-probado-recomendamos-998463' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/nothing-ear-2-2989248.jpg?tf=1200x' alt='13 auriculares con cancelación de ruido que hemos probado y recomendamos' />
+    <h4><a href='https://computerhoy.com/tutoriales/como-activar-nuevo-modo-secreto-google-chrome-paginas-sean-faciles-leer-1223606'>Cómo activar el nuevo modo secreto de Google Chrome para que las páginas sean más fáciles de leer</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-activar-nuevo-modo-secreto-google-chrome-paginas-sean-faciles-leer-1223606' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/google-chrome-2943032.jpg?tf=1200x' alt='Cómo activar el nuevo modo secreto de Google Chrome para que las páginas sean más fáciles de leer' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/industria-chips-sera-2023-ano-finalmente-sector-recobre-fuerzas-1214008'>La industria de los chips: ¿Será 2023 el año en el que finalmente el sector recobre fuerzas?</a></h4>
-    <a href='https://computerhoy.com/tecnologia/industria-chips-sera-2023-ano-finalmente-sector-recobre-fuerzas-1214008' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/industria-chips-sera-2023-ano-finalmente-sector-recobre-fuerzas-2987258.jpg?tf=1200x' alt='La industria de los chips: ¿Será 2023 el año en el que finalmente el sector recobre fuerzas?' />
+    <h4><a href='https://computerhoy.com/motor/primer-gran-test-baterias-coche-electrico-consigue-desmontar-mucho-mitos-1223592'>El primer gran test de baterías de coche eléctrico consigue desmontar mucho mitos</a></h4>
+    <a href='https://computerhoy.com/motor/primer-gran-test-baterias-coche-electrico-consigue-desmontar-mucho-mitos-1223592' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/bateria-litio-2979576.jpg?tf=1200x' alt='El primer gran test de baterías de coche eléctrico consigue desmontar mucho mitos' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/noticias-tecnologia-hoy-viernes-31-marzo-1223510'>27 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
-    <a href='https://computerhoy.com/tecnologia/noticias-tecnologia-hoy-viernes-31-marzo-1223510' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/27-noticias-tecnologia-comenzar-manana-informado-ultimo-2997634.jpg?tf=1200x' alt='27 noticias de tecnología para comenzar la mañana informado de lo último' />
+    <h4><a href='https://computerhoy.com/windows/quiere-solucionar-microsoft-infierno-actualizaciones-windows-12-1223574'>Así quiere solucionar Microsoft el infierno de las actualizaciones en Windows 12</a></h4>
+    <a href='https://computerhoy.com/windows/quiere-solucionar-microsoft-infierno-actualizaciones-windows-12-1223574' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/windows-12-2992294.jpg?tf=1200x' alt='Así quiere solucionar Microsoft el infierno de las actualizaciones en Windows 12' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/pulsera-inteligente-cual-es-mejor-539211'>Comprar una pulsera inteligente, ¿qué debo tener en cuenta y cuáles son los mejores modelos?</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/pulsera-inteligente-cual-es-mejor-539211' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/xiaomi-redmi-smart-band-2-analisis-opinion-2990224.jpg?tf=1200x' alt='Comprar una pulsera inteligente, ¿qué debo tener en cuenta y cuáles son los mejores modelos?' />
+    <h4><a href='https://computerhoy.com/apple/apple-retrasa-gafas-realidad-mixta-podrian-no-llegar-wwdc-1223578'>Apple retrasa sus gafas de realidad mixta y podrían no llegar para el WWDC</a></h4>
+    <a href='https://computerhoy.com/apple/apple-retrasa-gafas-realidad-mixta-podrian-no-llegar-wwdc-1223578' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/gafas-realidad-aumentada-apple-fracasan-tendran-esperar-indefinidamente-2931416.jpg?tf=1200x' alt='Apple retrasa sus gafas de realidad mixta y podrían no llegar para el WWDC' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/compra-detector-metales-oferta-encuentra-pepita-oro-tamano-balon-1223506'>Compra un detector de metales en oferta y encuentra una pepita de oro del tamaño de un balón de fútbol</a></h4>
-    <a href='https://computerhoy.com/life/compra-detector-metales-oferta-encuentra-pepita-oro-tamano-balon-1223506' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/compra-detector-metales-oferta-encuentra-pepita-oro-tamano-balon-futbol-2997628.jpg?tf=1200x' alt='Compra un detector de metales en oferta y encuentra una pepita de oro del tamaño de un balón de fútbol' />
+    <h4><a href='https://computerhoy.com/entretenimiento/eres-listo-ia-demuestralo-juego-online-gratis-1223542'>¿Eres más listo que una IA? Demuéstralo con este juego online gratis</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/eres-listo-ia-demuestralo-juego-online-gratis-1223542' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/ia-dall-openai-ya-disponible-gratis-todos-2828817.jpg?tf=1200x' alt='¿Eres más listo que una IA? Demuéstralo con este juego online gratis' />
     </a>
 </div>
 
