@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/legislacion/primer-pais-registrar-direcciones-ip-clientes-servicios-ilegales-iptv-1223790'>Primer país en registrar las direcciones IP de los clientes de servicios ilegales de IPTV</a></h4>
-    <a href='https://computerhoy.com/legislacion/primer-pais-registrar-direcciones-ip-clientes-servicios-ilegales-iptv-1223790' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/08/iptv-mala-idea-utilizarlo_1.jpg?tf=1200x' alt='Primer país en registrar las direcciones IP de los clientes de servicios ilegales de IPTV' />
+    <h4><a href='https://computerhoy.com/streaming/estrenos-hbo-max-abril-2023-pollos-sin-cabeza-1223866'>La nueva serie de Hugo Silva y un documental sobre el crítico Carlos Boyero, entre los estrenos de HBO Max en abril</a></h4>
+    <a href='https://computerhoy.com/streaming/estrenos-hbo-max-abril-2023-pollos-sin-cabeza-1223866' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/verticalimage1680291509703-2998428.jpg?tf=1200x' alt='La nueva serie de Hugo Silva y un documental sobre el crítico Carlos Boyero, entre los estrenos de HBO Max en abril' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/redes-sociales/elon-musk-liberara-codigo-algoritmo-twitter-como-medida-transparencia-1223844'>Elon Musk liberará el código del algoritmo de Twitter como medida de transparencia</a></h4>
-    <a href='https://computerhoy.com/redes-sociales/elon-musk-liberara-codigo-algoritmo-twitter-como-medida-transparencia-1223844' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/elon-musk-propietario-twitter-2888206.jpg?tf=1200x' alt='Elon Musk liberará el código del algoritmo de Twitter como medida de transparencia' />
+    <h4><a href='https://computerhoy.com/google/google-drive-actualiza-acabo-no-saber-donde-tienes-archivo-1223836'>Google Drive se actualiza: se acabó no saber dónde tienes un archivo</a></h4>
+    <a href='https://computerhoy.com/google/google-drive-actualiza-acabo-no-saber-donde-tienes-archivo-1223836' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/google-drive-actualiza-acabo-no-saber-donde-tienes-archivo-2998402.jpg?tf=1200x' alt='Google Drive se actualiza: se acabó no saber dónde tienes un archivo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/streaming/netflix-cambia-estrategia-ahora-menos-sera-1223788'>Netflix cambia de estrategia, ahora menos será más</a></h4>
-    <a href='https://computerhoy.com/streaming/netflix-cambia-estrategia-ahora-menos-sera-1223788' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/oficinas-netflix-angeles-2931328.jpg?tf=1200x' alt='Netflix cambia de estrategia, ahora menos será más' />
+    <h4><a href='https://computerhoy.com/life/elon-musk-tesla-lanzan-gibabier-cerveza-30-euros-inspirada-cybertruck-1223854'>Elon Musk y Tesla lanzan GibaBier, una cerveza de 30 euros inspirada en el Cybertruck</a></h4>
+    <a href='https://computerhoy.com/life/elon-musk-tesla-lanzan-gibabier-cerveza-30-euros-inspirada-cybertruck-1223854' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/tesla-gigabier-2998420.jpg?tf=1200x' alt='Elon Musk y Tesla lanzan GibaBier, una cerveza de 30 euros inspirada en el Cybertruck' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-ratones-verticales-1114873'>Mejores ratones verticales que puedes comprar</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-ratones-verticales-1114873' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/logitech-lift-2997880.jpg?tf=1200x' alt='Mejores ratones verticales que puedes comprar' />
+    <h4><a href='https://computerhoy.com/criptos/beneficiando-bitcoin-crisis-bancaria-1223818'>¿Se está beneficiando Bitcoin de la crisis bancaria?</a></h4>
+    <a href='https://computerhoy.com/criptos/beneficiando-bitcoin-crisis-bancaria-1223818' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/bitcoin-2928088.jpg?tf=1200x' alt='¿Se está beneficiando Bitcoin de la crisis bancaria?' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/bill-gates-impresionado-subirse-coche-autonomo-calles-londres-video-1223756'>Bill Gates impresionado tras subirse a un coche autónomo por las calles de Londres (vídeo)</a></h4>
-    <a href='https://computerhoy.com/motor/bill-gates-impresionado-subirse-coche-autonomo-calles-londres-video-1223756' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/bill-gates-impresionado-subirse-coche-autonomo-calles-londres-video-2998244.jpg?tf=1200x' alt='Bill Gates impresionado tras subirse a un coche autónomo por las calles de Londres (vídeo)' />
+    <h4><a href='https://computerhoy.com/apps/espana-podria-seguir-pasos-italia-prohibir-uso-chatgpt-1223852'>España podría seguir los pasos de Italia y prohibir el uso de ChatGPT</a></h4>
+    <a href='https://computerhoy.com/apps/espana-podria-seguir-pasos-italia-prohibir-uso-chatgpt-1223852' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/inteligencia-artificial-2998412.jpg?tf=1200x' alt='España podría seguir los pasos de Italia y prohibir el uso de ChatGPT' />
     </a>
 </div>
 
