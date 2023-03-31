@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/streaming/peliculas-ver-fin-semana-netflix-movistar-plus-secuestro-avion-aspirante-astronauta-fiesta-familiar-1223570'>Qué películas ver este fin de semana en Netflix y Movistar Plus+: un secuestro de avión, un aspirante a astronauta y una fiesta familiar</a></h4>
-    <a href='https://computerhoy.com/streaming/peliculas-ver-fin-semana-netflix-movistar-plus-secuestro-avion-aspirante-astronauta-fiesta-familiar-1223570' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/peliculas-ver-fin-semana-netflix-movistar-plus-secuestro-avion-aspirante-astronauta-fiesta-familiar-2997742.jpg?tf=1200x' alt='Qué películas ver este fin de semana en Netflix y Movistar Plus+: un secuestro de avión, un aspirante a astronauta y una fiesta familiar' />
+    <h4><a href='https://computerhoy.com/legislacion/primer-pais-registrar-direcciones-ip-clientes-servicios-ilegales-iptv-1223790'>Primer país en registrar las direcciones IP de los clientes de servicios ilegales de IPTV</a></h4>
+    <a href='https://computerhoy.com/legislacion/primer-pais-registrar-direcciones-ip-clientes-servicios-ilegales-iptv-1223790' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/08/iptv-mala-idea-utilizarlo_1.jpg?tf=1200x' alt='Primer país en registrar las direcciones IP de los clientes de servicios ilegales de IPTV' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/legislacion/regulador-italiano-proteccion-datos-ha-prohibido-chatgpt-1223744'>El regulador italiano de protección de datos ha prohibido ChatGPT</a></h4>
-    <a href='https://computerhoy.com/legislacion/regulador-italiano-proteccion-datos-ha-prohibido-chatgpt-1223744' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/debate-etico-chatgpt-2959494.jpg?tf=1200x' alt='El regulador italiano de protección de datos ha prohibido ChatGPT' />
+    <h4><a href='https://computerhoy.com/redes-sociales/elon-musk-liberara-codigo-algoritmo-twitter-como-medida-transparencia-1223844'>Elon Musk liberará el código del algoritmo de Twitter como medida de transparencia</a></h4>
+    <a href='https://computerhoy.com/redes-sociales/elon-musk-liberara-codigo-algoritmo-twitter-como-medida-transparencia-1223844' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/elon-musk-propietario-twitter-2888206.jpg?tf=1200x' alt='Elon Musk liberará el código del algoritmo de Twitter como medida de transparencia' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/nasa-muestra-impacto-guerra-espacio-ucrania-apaga-1223610'>La NASA muestra el impacto de la guerra desde el espacio: Ucrania se apaga</a></h4>
-    <a href='https://computerhoy.com/tecnologia/nasa-muestra-impacto-guerra-espacio-ucrania-apaga-1223610' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/nasa-muestra-impacto-guerra-espacio-ucrania-apaga-2997808.jpg?tf=1200x' alt='La NASA muestra el impacto de la guerra desde el espacio: Ucrania se apaga' />
+    <h4><a href='https://computerhoy.com/streaming/netflix-cambia-estrategia-ahora-menos-sera-1223788'>Netflix cambia de estrategia, ahora menos será más</a></h4>
+    <a href='https://computerhoy.com/streaming/netflix-cambia-estrategia-ahora-menos-sera-1223788' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/oficinas-netflix-angeles-2931328.jpg?tf=1200x' alt='Netflix cambia de estrategia, ahora menos será más' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-activar-nuevo-modo-secreto-google-chrome-paginas-sean-faciles-leer-1223606'>Cómo activar el nuevo modo secreto de Google Chrome para que las páginas sean más fáciles de leer</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-activar-nuevo-modo-secreto-google-chrome-paginas-sean-faciles-leer-1223606' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/google-chrome-2943032.jpg?tf=1200x' alt='Cómo activar el nuevo modo secreto de Google Chrome para que las páginas sean más fáciles de leer' />
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-ratones-verticales-1114873'>Mejores ratones verticales que puedes comprar</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-ratones-verticales-1114873' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/logitech-lift-2997880.jpg?tf=1200x' alt='Mejores ratones verticales que puedes comprar' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/primer-gran-test-baterias-coche-electrico-consigue-desmontar-mucho-mitos-1223592'>El primer gran test de baterías de coche eléctrico consigue desmontar muchos mitos</a></h4>
-    <a href='https://computerhoy.com/motor/primer-gran-test-baterias-coche-electrico-consigue-desmontar-mucho-mitos-1223592' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/bateria-litio-2979576.jpg?tf=1200x' alt='El primer gran test de baterías de coche eléctrico consigue desmontar muchos mitos' />
+    <h4><a href='https://computerhoy.com/motor/bill-gates-impresionado-subirse-coche-autonomo-calles-londres-video-1223756'>Bill Gates impresionado tras subirse a un coche autónomo por las calles de Londres (vídeo)</a></h4>
+    <a href='https://computerhoy.com/motor/bill-gates-impresionado-subirse-coche-autonomo-calles-londres-video-1223756' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/bill-gates-impresionado-subirse-coche-autonomo-calles-londres-video-2998244.jpg?tf=1200x' alt='Bill Gates impresionado tras subirse a un coche autónomo por las calles de Londres (vídeo)' />
     </a>
 </div>
 
