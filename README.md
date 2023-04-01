@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/whatsapp-trabaja-chats-privados-secretos-evitar-miradas-indiscretas-1224188'>WhatsApp trabaja en chats privados y secretos para evitar miradas indiscretas</a></h4>
+    <a href='https://computerhoy.com/apps/whatsapp-trabaja-chats-privados-secretos-evitar-miradas-indiscretas-1224188' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/privacidad-whatsapp-2301975.jpg?tf=1200x' alt='WhatsApp trabaja en chats privados y secretos para evitar miradas indiscretas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/espacio/nasa-ia-tormentas-solares-capaz-enviar-advertencia-30-minutos-antelacion-llegada-tierra-1224158'>La NASA y su IA para tormentas solares capaz de enviar una advertencia con 30 minutos de antelación a su llegada a la Tierra</a></h4>
+    <a href='https://computerhoy.com/espacio/nasa-ia-tormentas-solares-capaz-enviar-advertencia-30-minutos-antelacion-llegada-tierra-1224158' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/tormenta-solar-2998782.jpg?tf=1200x' alt='La NASA y su IA para tormentas solares capaz de enviar una advertencia con 30 minutos de antelación a su llegada a la Tierra' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/ropa-inteligente-controlar-datos-corporales-1219836'>Así funciona la ropa inteligente que controla tus datos corporales</a></h4>
+    <a href='https://computerhoy.com/tecnologia/ropa-inteligente-controlar-datos-corporales-1219836' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/ropa-inteligente-controlar-datos-corporales-2991808.jpg?tf=1200x' alt='Así funciona la ropa inteligente que controla tus datos corporales' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apps/bing-chat-ahora-inteligente-gracias-anadido-busquedas-videos-imagenes-1224154'>Bing Chat es ahora más inteligente gracias al añadido de búsquedas de vídeos e imágenes</a></h4>
     <a href='https://computerhoy.com/apps/bing-chat-ahora-inteligente-gracias-anadido-busquedas-videos-imagenes-1224154' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/he-pasado-semana-probando-3-personalidades-bing-2992354.jpg?tf=1200x' alt='Bing Chat es ahora más inteligente gracias al añadido de búsquedas de vídeos e imágenes' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/apps/google-bard-mejora-capacidades-matematicas-logicas-pero-lejos-ser-perfecto-1224152'>Google Bard mejora sus capacidades matemáticas y lógicas, pero lejos de ser perfecto</a></h4>
     <a href='https://computerhoy.com/apps/google-bard-mejora-capacidades-matematicas-logicas-pero-lejos-ser-perfecto-1224152' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/google-bard-2998776.jpg?tf=1200x' alt='Google Bard mejora sus capacidades matemáticas y lógicas, pero lejos de ser perfecto' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-borrar-cuenta-usuario-windows-11-1200788'>Cómo borrar una cuenta de usuario en Windows 11</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-borrar-cuenta-usuario-windows-11-1200788' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/borrar-cuenta-windows-11-2957064.jpg?tf=1200x' alt='Cómo borrar una cuenta de usuario en Windows 11' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-hacer-google-maps-te-muestre-gasolinera-barata-viaje-semana-santa-1224148'>Cómo hacer que Google Maps te muestre la gasolinera más barata en tu viaje de Semana Santa</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-hacer-google-maps-te-muestre-gasolinera-barata-viaje-semana-santa-1224148' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/google-maps-gasolineras-2998772.jpg?tf=1200x' alt='Cómo hacer que Google Maps te muestre la gasolinera más barata en tu viaje de Semana Santa' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/streaming/skyshowtime-no-muestra-sintomas-mejora-lia-ultimo-estreno-1224146'>SkyShowtime no muestra síntomas de mejora y la lía con su último estreno</a></h4>
-    <a href='https://computerhoy.com/streaming/skyshowtime-no-muestra-sintomas-mejora-lia-ultimo-estreno-1224146' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/llega-espana-skyshowtime-plataforma-streaming-paramount-universal-2925134.jpg?tf=1200x' alt='SkyShowtime no muestra síntomas de mejora y la lía con su último estreno' />
     </a>
 </div>
 
