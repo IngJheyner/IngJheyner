@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/ardilla-edad-hielo-momificada-1224076'>Esta es la verdadera Scrat, un ardilla de la Edad de Hielo momificada</a></h4>
+    <a href='https://computerhoy.com/life/ardilla-edad-hielo-momificada-1224076' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/verdadera-scrat-ardilla-edad-hielo-momificada-2998634.jpg?tf=1200x' alt='Esta es la verdadera Scrat, un ardilla de la Edad de Hielo momificada' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/alimentacion/freidora-aire-xiaomi-no-tiene-rival-baja-precio-minimo-1223870'>La freidora de aire de Xiaomi no tiene rival y en Lidl tiene su mejor precio histórico</a></h4>
     <a href='https://computerhoy.com/alimentacion/freidora-aire-xiaomi-no-tiene-rival-baja-precio-minimo-1223870' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/analisis-freidora-xiaomi-air-fryer-2507927.jpg?tf=1200x' alt='La freidora de aire de Xiaomi no tiene rival y en Lidl tiene su mejor precio histórico' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/google/google-drive-actualiza-acabo-no-saber-donde-tienes-archivo-1223836'>Google Drive se actualiza: se acabó no saber dónde tienes un archivo</a></h4>
     <a href='https://computerhoy.com/google/google-drive-actualiza-acabo-no-saber-donde-tienes-archivo-1223836' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/google-drive-actualiza-acabo-no-saber-donde-tienes-archivo-2998402.jpg?tf=1200x' alt='Google Drive se actualiza: se acabó no saber dónde tienes un archivo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/elon-musk-tesla-lanzan-gibabier-cerveza-30-euros-inspirada-cybertruck-1223854'>Elon Musk y Tesla lanzan GibaBier, una cerveza de 30 euros inspirada en el Cybertruck</a></h4>
-    <a href='https://computerhoy.com/life/elon-musk-tesla-lanzan-gibabier-cerveza-30-euros-inspirada-cybertruck-1223854' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/tesla-gigabier-2998420.jpg?tf=1200x' alt='Elon Musk y Tesla lanzan GibaBier, una cerveza de 30 euros inspirada en el Cybertruck' />
     </a>
 </div>
 
