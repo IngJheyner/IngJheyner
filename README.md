@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/pintura-mas-ligera-mundo-gota-pinta-dos-lados-puerta-1223616'>La pintura más ligera del mundo: una gota del tamaño de una uña pinta los dos lados de una puerta</a></h4>
+    <a href='https://computerhoy.com/ciencia/pintura-mas-ligera-mundo-gota-pinta-dos-lados-puerta-1223616' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/pintura-ligera-mundo-gota-tamano-pinta-dos-lados-puerta-2997744.jpg?tf=1200x' alt='La pintura más ligera del mundo: una gota del tamaño de una uña pinta los dos lados de una puerta' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apps/whatsapp-trabaja-chats-privados-secretos-evitar-miradas-indiscretas-1224188'>WhatsApp trabaja en chats privados y secretos para evitar miradas indiscretas</a></h4>
     <a href='https://computerhoy.com/apps/whatsapp-trabaja-chats-privados-secretos-evitar-miradas-indiscretas-1224188' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/privacidad-whatsapp-2301975.jpg?tf=1200x' alt='WhatsApp trabaja en chats privados y secretos para evitar miradas indiscretas' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/apps/bing-chat-ahora-inteligente-gracias-anadido-busquedas-videos-imagenes-1224154'>Bing Chat es ahora más inteligente gracias al añadido de búsquedas de vídeos e imágenes</a></h4>
     <a href='https://computerhoy.com/apps/bing-chat-ahora-inteligente-gracias-anadido-busquedas-videos-imagenes-1224154' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/he-pasado-semana-probando-3-personalidades-bing-2992354.jpg?tf=1200x' alt='Bing Chat es ahora más inteligente gracias al añadido de búsquedas de vídeos e imágenes' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/google-bard-mejora-capacidades-matematicas-logicas-pero-lejos-ser-perfecto-1224152'>Google Bard mejora sus capacidades matemáticas y lógicas, pero lejos de ser perfecto</a></h4>
-    <a href='https://computerhoy.com/apps/google-bard-mejora-capacidades-matematicas-logicas-pero-lejos-ser-perfecto-1224152' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/google-bard-2998776.jpg?tf=1200x' alt='Google Bard mejora sus capacidades matemáticas y lógicas, pero lejos de ser perfecto' />
     </a>
 </div>
 
