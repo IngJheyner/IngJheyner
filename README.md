@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/bing-chat-ahora-inteligente-gracias-anadido-busquedas-videos-imagenes-1224154'>Bing Chat es ahora más inteligente gracias al añadido de búsquedas de vídeos e imágenes</a></h4>
+    <a href='https://computerhoy.com/apps/bing-chat-ahora-inteligente-gracias-anadido-busquedas-videos-imagenes-1224154' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/he-pasado-semana-probando-3-personalidades-bing-2992354.jpg?tf=1200x' alt='Bing Chat es ahora más inteligente gracias al añadido de búsquedas de vídeos e imágenes' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/google-bard-mejora-capacidades-matematicas-logicas-pero-lejos-ser-perfecto-1224152'>Google Bard mejora sus capacidades matemáticas y lógicas, pero lejos de ser perfecto</a></h4>
+    <a href='https://computerhoy.com/apps/google-bard-mejora-capacidades-matematicas-logicas-pero-lejos-ser-perfecto-1224152' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/google-bard-2998776.jpg?tf=1200x' alt='Google Bard mejora sus capacidades matemáticas y lógicas, pero lejos de ser perfecto' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-borrar-cuenta-usuario-windows-11-1200788'>Cómo borrar una cuenta de usuario en Windows 11</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-borrar-cuenta-usuario-windows-11-1200788' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/borrar-cuenta-windows-11-2957064.jpg?tf=1200x' alt='Cómo borrar una cuenta de usuario en Windows 11' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-hacer-google-maps-te-muestre-gasolinera-barata-viaje-semana-santa-1224148'>Cómo hacer que Google Maps te muestre la gasolinera más barata en tu viaje de Semana Santa</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-hacer-google-maps-te-muestre-gasolinera-barata-viaje-semana-santa-1224148' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/google-maps-gasolineras-2998772.jpg?tf=1200x' alt='Cómo hacer que Google Maps te muestre la gasolinera más barata en tu viaje de Semana Santa' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/streaming/skyshowtime-no-muestra-sintomas-mejora-lia-ultimo-estreno-1224146'>SkyShowtime no muestra síntomas de mejora y la lía con su último estreno</a></h4>
     <a href='https://computerhoy.com/streaming/skyshowtime-no-muestra-sintomas-mejora-lia-ultimo-estreno-1224146' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/llega-espana-skyshowtime-plataforma-streaming-paramount-universal-2925134.jpg?tf=1200x' alt='SkyShowtime no muestra síntomas de mejora y la lía con su último estreno' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-llevar-carnet-conducir-movil-1221232'>Cómo llevar tu carnet de conducir en el móvil</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-llevar-carnet-conducir-movil-1221232' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/mi-dgt-2994002.jpg?tf=1200x' alt='Cómo llevar tu carnet de conducir en el móvil' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/eres-capaz-superar-tiempo-reaccion-piloto-f1-1224128'>¿Eres capaz de superar el tiempo de reacción de un piloto de F1?</a></h4>
-    <a href='https://computerhoy.com/life/eres-capaz-superar-tiempo-reaccion-piloto-f1-1224128' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/formula-1-2998738.jpg?tf=1200x' alt='¿Eres capaz de superar el tiempo de reacción de un piloto de F1?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/hacienda-cambia-forma-declarar-bitcoin-resto-criptomonedas-renta-2022-23-1224124'>Hacienda cambia la forma de declarar Bitcoin y el resto de criptomonedas en la Renta 2022/23</a></h4>
-    <a href='https://computerhoy.com/life/hacienda-cambia-forma-declarar-bitcoin-resto-criptomonedas-renta-2022-23-1224124' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/declaracion-renta-bitcoin-2998734.jpg?tf=1200x' alt='Hacienda cambia la forma de declarar Bitcoin y el resto de criptomonedas en la Renta 2022/23' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/he-probado-decenas-aplicaciones-regla-duda-mi-favorita-1223582'>He probado decenas de aplicaciones para la regla y sin duda esta esta mi favorita</a></h4>
-    <a href='https://computerhoy.com/apps/he-probado-decenas-aplicaciones-regla-duda-mi-favorita-1223582' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/he-probado-decenas-aplicaciones-regla-duda-mi-favorita-2997794.jpg?tf=1200x' alt='He probado decenas de aplicaciones para la regla y sin duda esta esta mi favorita' />
     </a>
 </div>
 
