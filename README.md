@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/relevancia-big-data-tendencia-auge-potencial-1219808'>La relevancia del 'big data': una tendencia en auge por su claro potencial y uso de la IA</a></h4>
-    <a href='https://computerhoy.com/tecnologia/relevancia-big-data-tendencia-auge-potencial-1219808' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/relevancia-big-data-tendencia-auge-potencial-2995322.jpg?tf=1200x' alt='La relevancia del 'big data': una tendencia en auge por su claro potencial y uso de la IA' />
+    <h4><a href='https://computerhoy.com/tutoriales/como-instalar-android-windows-1217548'>Cómo instalar Android en Windows</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-instalar-android-windows-1217548' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/android-windows-2987540.jpg?tf=1200x' alt='Cómo instalar Android en Windows' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/hogar/potty-pillow-almohada-lumbar-retrete-video-1224084'>Potty Pillow, la almohada lumbar para el retrete (vídeo)</a></h4>
-    <a href='https://computerhoy.com/hogar/potty-pillow-almohada-lumbar-retrete-video-1224084' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/verticalimage1680325786901-2998650.jpg?tf=1200x' alt='Potty Pillow, la almohada lumbar para el retrete (vídeo)' />
+    <h4><a href='https://computerhoy.com/pc/intenta-colar-aduana-china-510000-procesadores-ssd-moviles-1224090'>Un hombre de 61 años intenta colar en la aduana china 510.000 procesadores, SSD y móviles, todos al mismo tiempo</a></h4>
+    <a href='https://computerhoy.com/pc/intenta-colar-aduana-china-510000-procesadores-ssd-moviles-1224090' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/hombre-61-anos-intenta-colar-aduana-china-500000-procesadores-ssd-todos-mismo-tiempo-2998656.jpg?tf=1200x' alt='Un hombre de 61 años intenta colar en la aduana china 510.000 procesadores, SSD y móviles, todos al mismo tiempo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/hogar/mejores-barbacoas-baratas-lidl-1223120'>Llega la temporada de barbacoas: estos son los mejores modelos que puedes conseguir en Lidl</a></h4>
-    <a href='https://computerhoy.com/hogar/mejores-barbacoas-baratas-lidl-1223120' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/llega-temporada-barbacoas-estos-son-mejores-modelos-puedes-conseguir-lidl-2996240.jpg?tf=1200x' alt='Llega la temporada de barbacoas: estos son los mejores modelos que puedes conseguir en Lidl' />
+    <h4><a href='https://computerhoy.com/apps/10-apps-aprender-ingles-1221290'>Las 10 mejores apps para aprender inglés con el móvil</a></h4>
+    <a href='https://computerhoy.com/apps/10-apps-aprender-ingles-1221290' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/aplicaciones-ingles-2994210.jpg?tf=1200x' alt='Las 10 mejores apps para aprender inglés con el móvil' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/mapa-paises-felices-infelices-2023-1220268'>El mapa con los países más felices e infelices de 2023, España y Ucrania te van a sorprender </a></h4>
-    <a href='https://computerhoy.com/life/mapa-paises-felices-infelices-2023-1220268' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/mapa-paises-felices-infelices-2023-te-va-sorprender-2992494.jpg?tf=1200x' alt='El mapa con los países más felices e infelices de 2023, España y Ucrania te van a sorprender ' />
+    <h4><a href='https://computerhoy.com/tutoriales/como-funciona-simulador-renta-2022-23-1223162'>Cómo funciona el simulador de la Renta 2022/23 para saber al instante el resultado de tu declaración</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-funciona-simulador-renta-2022-23-1223162' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/renta-hacienda-2582853.jpg?tf=1200x' alt='Cómo funciona el simulador de la Renta 2022/23 para saber al instante el resultado de tu declaración' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/ardilla-edad-hielo-momificada-1224076'>Esta es la verdadera Scrat, un ardilla de la Edad de Hielo momificada</a></h4>
-    <a href='https://computerhoy.com/life/ardilla-edad-hielo-momificada-1224076' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/verdadera-scrat-ardilla-edad-hielo-momificada-2998634.jpg?tf=1200x' alt='Esta es la verdadera Scrat, un ardilla de la Edad de Hielo momificada' />
+    <h4><a href='https://computerhoy.com/audio/tinder-hi-res-auriculares-inalambricos-movil-1221856'>El Tinder Hi-Res de auriculares inalámbricos y tu smartphone</a></h4>
+    <a href='https://computerhoy.com/audio/tinder-hi-res-auriculares-inalambricos-movil-1221856' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/auriculares-bt-hires-2995174.jpg?tf=1200x' alt='El Tinder Hi-Res de auriculares inalámbricos y tu smartphone' />
     </a>
 </div>
 
