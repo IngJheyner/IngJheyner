@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/alimentacion/freidora-aire-xiaomi-no-tiene-rival-baja-precio-minimo-1223870'>La freidora de aire de Xiaomi no tiene rival y en Lidl tiene su mejor precio histórico</a></h4>
+    <a href='https://computerhoy.com/alimentacion/freidora-aire-xiaomi-no-tiene-rival-baja-precio-minimo-1223870' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/analisis-freidora-xiaomi-air-fryer-2507927.jpg?tf=1200x' alt='La freidora de aire de Xiaomi no tiene rival y en Lidl tiene su mejor precio histórico' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/gaming/cancelacion-feria-e3-2023-fin-era-videojuegos-1223868'>La cancelación de la feria E3 representa el fin de una era de los videojuegos</a></h4>
+    <a href='https://computerhoy.com/gaming/cancelacion-feria-e3-2023-fin-era-videojuegos-1223868' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/e3-2019-2226197.jpg?tf=1200x' alt='La cancelación de la feria E3 representa el fin de una era de los videojuegos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/streaming/estrenos-hbo-max-abril-2023-pollos-sin-cabeza-1223866'>La nueva serie de Hugo Silva y un documental sobre el crítico Carlos Boyero, entre los estrenos de HBO Max en abril</a></h4>
     <a href='https://computerhoy.com/streaming/estrenos-hbo-max-abril-2023-pollos-sin-cabeza-1223866' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/verticalimage1680291509703-2998428.jpg?tf=1200x' alt='La nueva serie de Hugo Silva y un documental sobre el crítico Carlos Boyero, entre los estrenos de HBO Max en abril' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/life/elon-musk-tesla-lanzan-gibabier-cerveza-30-euros-inspirada-cybertruck-1223854'>Elon Musk y Tesla lanzan GibaBier, una cerveza de 30 euros inspirada en el Cybertruck</a></h4>
     <a href='https://computerhoy.com/life/elon-musk-tesla-lanzan-gibabier-cerveza-30-euros-inspirada-cybertruck-1223854' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/tesla-gigabier-2998420.jpg?tf=1200x' alt='Elon Musk y Tesla lanzan GibaBier, una cerveza de 30 euros inspirada en el Cybertruck' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/criptos/beneficiando-bitcoin-crisis-bancaria-1223818'>¿Se está beneficiando Bitcoin de la crisis bancaria?</a></h4>
-    <a href='https://computerhoy.com/criptos/beneficiando-bitcoin-crisis-bancaria-1223818' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/bitcoin-2928088.jpg?tf=1200x' alt='¿Se está beneficiando Bitcoin de la crisis bancaria?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/espana-podria-seguir-pasos-italia-prohibir-uso-chatgpt-1223852'>España podría seguir los pasos de Italia y prohibir el uso de ChatGPT</a></h4>
-    <a href='https://computerhoy.com/apps/espana-podria-seguir-pasos-italia-prohibir-uso-chatgpt-1223852' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/inteligencia-artificial-2998412.jpg?tf=1200x' alt='España podría seguir los pasos de Italia y prohibir el uso de ChatGPT' />
     </a>
 </div>
 
