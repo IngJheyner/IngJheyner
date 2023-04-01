@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/relevancia-big-data-tendencia-auge-potencial-1219808'>La relevancia del 'big data': una tendencia en auge por su claro potencial y uso de la IA</a></h4>
+    <a href='https://computerhoy.com/tecnologia/relevancia-big-data-tendencia-auge-potencial-1219808' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/relevancia-big-data-tendencia-auge-potencial-2995322.jpg?tf=1200x' alt='La relevancia del 'big data': una tendencia en auge por su claro potencial y uso de la IA' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/hogar/potty-pillow-almohada-lumbar-retrete-video-1224084'>Potty Pillow, la almohada lumbar para el retrete (vídeo)</a></h4>
+    <a href='https://computerhoy.com/hogar/potty-pillow-almohada-lumbar-retrete-video-1224084' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/verticalimage1680325786901-2998650.jpg?tf=1200x' alt='Potty Pillow, la almohada lumbar para el retrete (vídeo)' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/hogar/mejores-barbacoas-baratas-lidl-1223120'>Llega la temporada de barbacoas: estos son los mejores modelos que puedes conseguir en Lidl</a></h4>
+    <a href='https://computerhoy.com/hogar/mejores-barbacoas-baratas-lidl-1223120' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/llega-temporada-barbacoas-estos-son-mejores-modelos-puedes-conseguir-lidl-2996240.jpg?tf=1200x' alt='Llega la temporada de barbacoas: estos son los mejores modelos que puedes conseguir en Lidl' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/mapa-paises-felices-infelices-2023-1220268'>El mapa con los países más felices e infelices de 2023, España y Ucrania te van a sorprender </a></h4>
+    <a href='https://computerhoy.com/life/mapa-paises-felices-infelices-2023-1220268' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/mapa-paises-felices-infelices-2023-te-va-sorprender-2992494.jpg?tf=1200x' alt='El mapa con los países más felices e infelices de 2023, España y Ucrania te van a sorprender ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/ardilla-edad-hielo-momificada-1224076'>Esta es la verdadera Scrat, un ardilla de la Edad de Hielo momificada</a></h4>
     <a href='https://computerhoy.com/life/ardilla-edad-hielo-momificada-1224076' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/verdadera-scrat-ardilla-edad-hielo-momificada-2998634.jpg?tf=1200x' alt='Esta es la verdadera Scrat, un ardilla de la Edad de Hielo momificada' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/alimentacion/freidora-aire-xiaomi-no-tiene-rival-baja-precio-minimo-1223870'>La freidora de aire de Xiaomi no tiene rival y en Lidl tiene su mejor precio histórico</a></h4>
-    <a href='https://computerhoy.com/alimentacion/freidora-aire-xiaomi-no-tiene-rival-baja-precio-minimo-1223870' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/analisis-freidora-xiaomi-air-fryer-2507927.jpg?tf=1200x' alt='La freidora de aire de Xiaomi no tiene rival y en Lidl tiene su mejor precio histórico' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/gaming/cancelacion-feria-e3-2023-fin-era-videojuegos-1223868'>La cancelación de la feria E3 representa el fin de una era de los videojuegos</a></h4>
-    <a href='https://computerhoy.com/gaming/cancelacion-feria-e3-2023-fin-era-videojuegos-1223868' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/e3-2019-2226197.jpg?tf=1200x' alt='La cancelación de la feria E3 representa el fin de una era de los videojuegos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/streaming/estrenos-hbo-max-abril-2023-pollos-sin-cabeza-1223866'>La nueva serie de Hugo Silva y un documental sobre el crítico Carlos Boyero, entre los estrenos de HBO Max en abril</a></h4>
-    <a href='https://computerhoy.com/streaming/estrenos-hbo-max-abril-2023-pollos-sin-cabeza-1223866' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/verticalimage1680291509703-2998428.jpg?tf=1200x' alt='La nueva serie de Hugo Silva y un documental sobre el crítico Carlos Boyero, entre los estrenos de HBO Max en abril' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/google-drive-actualiza-acabo-no-saber-donde-tienes-archivo-1223836'>Google Drive se actualiza: se acabó no saber dónde tienes un archivo</a></h4>
-    <a href='https://computerhoy.com/google/google-drive-actualiza-acabo-no-saber-donde-tienes-archivo-1223836' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/google-drive-actualiza-acabo-no-saber-donde-tienes-archivo-2998402.jpg?tf=1200x' alt='Google Drive se actualiza: se acabó no saber dónde tienes un archivo' />
     </a>
 </div>
 
