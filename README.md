@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-instalar-android-windows-1217548'>Cómo instalar Android en Windows</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-instalar-android-windows-1217548' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/android-windows-2987540.jpg?tf=1200x' alt='Cómo instalar Android en Windows' />
+    <h4><a href='https://computerhoy.com/streaming/skyshowtime-no-muestra-sintomas-mejora-lia-ultimo-estreno-1224146'>SkyShowtime no muestra síntomas de mejora y la lía con su último estreno</a></h4>
+    <a href='https://computerhoy.com/streaming/skyshowtime-no-muestra-sintomas-mejora-lia-ultimo-estreno-1224146' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/llega-espana-skyshowtime-plataforma-streaming-paramount-universal-2925134.jpg?tf=1200x' alt='SkyShowtime no muestra síntomas de mejora y la lía con su último estreno' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/intenta-colar-aduana-china-510000-procesadores-ssd-moviles-1224090'>Un hombre de 61 años intenta colar en la aduana china 510.000 procesadores, SSD y móviles, todos al mismo tiempo</a></h4>
-    <a href='https://computerhoy.com/pc/intenta-colar-aduana-china-510000-procesadores-ssd-moviles-1224090' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/hombre-61-anos-intenta-colar-aduana-china-500000-procesadores-ssd-todos-mismo-tiempo-2998656.jpg?tf=1200x' alt='Un hombre de 61 años intenta colar en la aduana china 510.000 procesadores, SSD y móviles, todos al mismo tiempo' />
+    <h4><a href='https://computerhoy.com/tutoriales/como-llevar-carnet-conducir-movil-1221232'>Cómo llevar tu carnet de conducir en el móvil</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-llevar-carnet-conducir-movil-1221232' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/mi-dgt-2994002.jpg?tf=1200x' alt='Cómo llevar tu carnet de conducir en el móvil' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/10-apps-aprender-ingles-1221290'>Las 10 mejores apps para aprender inglés con el móvil</a></h4>
-    <a href='https://computerhoy.com/apps/10-apps-aprender-ingles-1221290' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/aplicaciones-ingles-2994210.jpg?tf=1200x' alt='Las 10 mejores apps para aprender inglés con el móvil' />
+    <h4><a href='https://computerhoy.com/life/eres-capaz-superar-tiempo-reaccion-piloto-f1-1224128'>¿Eres capaz de superar el tiempo de reacción de un piloto de F1?</a></h4>
+    <a href='https://computerhoy.com/life/eres-capaz-superar-tiempo-reaccion-piloto-f1-1224128' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/formula-1-2998738.jpg?tf=1200x' alt='¿Eres capaz de superar el tiempo de reacción de un piloto de F1?' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-funciona-simulador-renta-2022-23-1223162'>Cómo funciona el simulador de la Renta 2022/23 para saber al instante el resultado de tu declaración</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-funciona-simulador-renta-2022-23-1223162' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/renta-hacienda-2582853.jpg?tf=1200x' alt='Cómo funciona el simulador de la Renta 2022/23 para saber al instante el resultado de tu declaración' />
+    <h4><a href='https://computerhoy.com/life/hacienda-cambia-forma-declarar-bitcoin-resto-criptomonedas-renta-2022-23-1224124'>Hacienda cambia la forma de declarar Bitcoin y el resto de criptomonedas en la Renta 2022/23</a></h4>
+    <a href='https://computerhoy.com/life/hacienda-cambia-forma-declarar-bitcoin-resto-criptomonedas-renta-2022-23-1224124' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/declaracion-renta-bitcoin-2998734.jpg?tf=1200x' alt='Hacienda cambia la forma de declarar Bitcoin y el resto de criptomonedas en la Renta 2022/23' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/audio/tinder-hi-res-auriculares-inalambricos-movil-1221856'>El Tinder Hi-Res de auriculares inalámbricos y tu smartphone</a></h4>
-    <a href='https://computerhoy.com/audio/tinder-hi-res-auriculares-inalambricos-movil-1221856' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/auriculares-bt-hires-2995174.jpg?tf=1200x' alt='El Tinder Hi-Res de auriculares inalámbricos y tu smartphone' />
+    <h4><a href='https://computerhoy.com/apps/he-probado-decenas-aplicaciones-regla-duda-mi-favorita-1223582'>He probado decenas de aplicaciones para la regla y sin duda esta esta mi favorita</a></h4>
+    <a href='https://computerhoy.com/apps/he-probado-decenas-aplicaciones-regla-duda-mi-favorita-1223582' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/he-probado-decenas-aplicaciones-regla-duda-mi-favorita-2997794.jpg?tf=1200x' alt='He probado decenas de aplicaciones para la regla y sin duda esta esta mi favorita' />
     </a>
 </div>
 
