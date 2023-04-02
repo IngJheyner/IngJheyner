@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/9-apps-webs-crear-sorteos-1222970'>Las 9 mejores aplicaciones y webs para crear sorteos </a></h4>
-    <a href='https://computerhoy.com/apps/9-apps-webs-crear-sorteos-1222970' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/sorteo-2998028.jpg?tf=1200x' alt='Las 9 mejores aplicaciones y webs para crear sorteos ' />
+    <h4><a href='https://computerhoy.com/tutoriales/como-instalar-certificado-digital-ordenador-windows-mac-linux-1221776'>Cómo instalar un certificado digital en el ordenador (Windows, Mac y Linux)</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-instalar-certificado-digital-ordenador-windows-mac-linux-1221776' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/certificado-digital-2994750.jpg?tf=1200x' alt='Cómo instalar un certificado digital en el ordenador (Windows, Mac y Linux)' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/gpt-4-novedades-traera-ia-tan-avanzada-1215734'>¿Qué es GPT-4 y qué novedades traerá esta inteligencia artificial tan avanzada?</a></h4>
-    <a href='https://computerhoy.com/tecnologia/gpt-4-novedades-traera-ia-tan-avanzada-1215734' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/gpt-4-novedades-traera-inteligencia-artificial-tan-avanzada-2998110.jpg?tf=1200x' alt='¿Qué es GPT-4 y qué novedades traerá esta inteligencia artificial tan avanzada?' />
+    <h4><a href='https://computerhoy.com/windows/ultima-actualizacion-windows-11-facilita-descargar-aplicaciones-microsoft-store-1224470'>La última actualización para Windows 11 facilita descargar aplicaciones desde la Microsoft Store</a></h4>
+    <a href='https://computerhoy.com/windows/ultima-actualizacion-windows-11-facilita-descargar-aplicaciones-microsoft-store-1224470' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/windows-11-2621901.jpg?tf=1200x' alt='La última actualización para Windows 11 facilita descargar aplicaciones desde la Microsoft Store' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/streamlabs-obs-como-configurarlo-streaming-profesional-1223024'>Streamlabs OBS: cómo configurarlo para streaming profesional</a></h4>
-    <a href='https://computerhoy.com/tutoriales/streamlabs-obs-como-configurarlo-streaming-profesional-1223024' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/streamlabs-obs-2996754.jpg?tf=1200x' alt='Streamlabs OBS: cómo configurarlo para streaming profesional' />
+    <h4><a href='https://computerhoy.com/entretenimiento/7-peliculas-estan-basadas-juegos-rol-menos-eso-parece-verlas-1222408'>7 películas que están basadas en juegos de rol, o al menos eso parece al verlas</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/7-peliculas-estan-basadas-juegos-rol-menos-eso-parece-verlas-1222408' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/7-peliculas-estan-basadas-juegos-rol-menos-eso-parece-verlas-2997056.jpg?tf=1200x' alt='7 películas que están basadas en juegos de rol, o al menos eso parece al verlas' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-tablets-estudiantes-1113743'>Estas son las mejores tablets para estudiantes</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-tablets-estudiantes-1113743' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/analisis-ipad-pro-m2-2022-2875543.jpg?tf=1200x' alt='Estas son las mejores tablets para estudiantes' />
+    <h4><a href='https://computerhoy.com/ciberseguridad/yoigo-sufre-ciberataque-estos-son-datos-afectados-debes-hacer-eres-cliente-1224456'>Yoigo sufre un ciberataque: estos son los datos afectados y lo que debes hacer si eres cliente</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/yoigo-sufre-ciberataque-estos-son-datos-afectados-debes-hacer-eres-cliente-1224456' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/yoigo-2999158.jpg?tf=1200x' alt='Yoigo sufre un ciberataque: estos son los datos afectados y lo que debes hacer si eres cliente' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/extravagante-robot-oruga-puede-deslizarse-debajo-cualquier-puerta-tareas-rescate-1224182'>El extravagante robot oruga que puede deslizarse por debajo de cualquier puerta para tareas de rescate</a></h4>
-    <a href='https://computerhoy.com/ciencia/extravagante-robot-oruga-puede-deslizarse-debajo-cualquier-puerta-tareas-rescate-1224182' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/extravagante-robot-oruga-puede-deslizarse-debajo-cualquier-puerta-pensado-tareas-rescate-2998806.jpg?tf=1200x' alt='El extravagante robot oruga que puede deslizarse por debajo de cualquier puerta para tareas de rescate' />
+    <h4><a href='https://computerhoy.com/tutoriales/como-instalar-linux-ordenador-windows-1217578'>Cómo instalar Linux en un ordenador con Windows</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-instalar-linux-ordenador-windows-1217578' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/linux-windows-2987564.jpg?tf=1200x' alt='Cómo instalar Linux en un ordenador con Windows' />
     </a>
 </div>
 
