@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/cerveza-nothing-beer-1224528'>El nuevo producto de Nothing: ¿una broma, o su próximo éxito?</a></h4>
+    <a href='https://computerhoy.com/life/cerveza-nothing-beer-1224528' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/nuevo-producto-nothing-broma-proximo-exito-2999278.jpg?tf=1200x' alt='El nuevo producto de Nothing: ¿una broma, o su próximo éxito?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/streaming/como-enganan-traileres-peliculas-1224526'>Así es como los tráileres de las películas nos engañan</a></h4>
+    <a href='https://computerhoy.com/streaming/como-enganan-traileres-peliculas-1224526' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/como-traileres-peliculas-nos-enganan-2999266.jpg?tf=1200x' alt='Así es como los tráileres de las películas nos engañan' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/camara-fin-mundo-banco-mundial-semillas-svalbard-tour-virtual-1223242'>Entra dentro de La Cámara del Fin del Mundo, en el Polo Norte, con este tour virtual </a></h4>
+    <a href='https://computerhoy.com/life/camara-fin-mundo-banco-mundial-semillas-svalbard-tour-virtual-1223242' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/entra-dentro-camara-fin-mundo-polo-norte-tour-virtual-2997288.jpg?tf=1200x' alt='Entra dentro de La Cámara del Fin del Mundo, en el Polo Norte, con este tour virtual ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/espacio/bolido-artificial-1-abril-espana-satelite-1224522'>Qué es la espectacular estela de fuego que cruzó ayer España, y por qué cada vez van a ser más frecuentes</a></h4>
     <a href='https://computerhoy.com/espacio/bolido-artificial-1-abril-espana-satelite-1224522' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/espectacular-bolido-artificial-cruzo-ayer-espana-cada-vez-van-ser-frecuentes-2999260.jpg?tf=1200x' alt='Qué es la espectacular estela de fuego que cruzó ayer España, y por qué cada vez van a ser más frecuentes' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/life/descubre-si-tienes-personalidad-intj-1223662'>Descubre si tienes la personalidad INTJ, que solo posee el 2% de la población</a></h4>
     <a href='https://computerhoy.com/life/descubre-si-tienes-personalidad-intj-1223662' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/descubre-tienes-personalidad-intj-solo-posee-2-poblacion-2997878.jpg?tf=1200x' alt='Descubre si tienes la personalidad INTJ, que solo posee el 2% de la población' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/engana-chatgpt-genere-clave-pirata-windows-1224514'>Engaña a ChatGPT para que genere una clave pirata de Windows, pese a que lo prohíben sus directrices</a></h4>
-    <a href='https://computerhoy.com/tecnologia/engana-chatgpt-genere-clave-pirata-windows-1224514' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/engana-chatgpt-genere-clave-pirata-windows-95-2999252.jpg?tf=1200x' alt='Engaña a ChatGPT para que genere una clave pirata de Windows, pese a que lo prohíben sus directrices' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/discord-web-como-usarlo-navegador-1217922'>Discord Web: como usarlo en tu navegador</a></h4>
-    <a href='https://computerhoy.com/tutoriales/discord-web-como-usarlo-navegador-1217922' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/10/discord-2106551.jpg?tf=1200x' alt='Discord Web: como usarlo en tu navegador' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/conectarte-wifi-acceso-publico-podria-costarte-muy-caro-1224486'>Conectarte a un WiFi gratuito de acceso público podría costarte muy caro</a></h4>
-    <a href='https://computerhoy.com/internet/conectarte-wifi-acceso-publico-podria-costarte-muy-caro-1224486' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/conectarte-wifi-acceso-publico-podria-costarte-muy-caro-2999188.jpg?tf=1200x' alt='Conectarte a un WiFi gratuito de acceso público podría costarte muy caro' />
     </a>
 </div>
 
