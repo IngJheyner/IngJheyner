@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/9-apps-webs-crear-sorteos-1222970'>Las 9 mejores aplicaciones y webs para crear sorteos </a></h4>
+    <a href='https://computerhoy.com/apps/9-apps-webs-crear-sorteos-1222970' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/sorteo-2998028.jpg?tf=1200x' alt='Las 9 mejores aplicaciones y webs para crear sorteos ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/gpt-4-novedades-traera-ia-tan-avanzada-1215734'>¿Qué es GPT-4 y qué novedades traerá esta inteligencia artificial tan avanzada?</a></h4>
+    <a href='https://computerhoy.com/tecnologia/gpt-4-novedades-traera-ia-tan-avanzada-1215734' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/gpt-4-novedades-traera-inteligencia-artificial-tan-avanzada-2998110.jpg?tf=1200x' alt='¿Qué es GPT-4 y qué novedades traerá esta inteligencia artificial tan avanzada?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/streamlabs-obs-como-configurarlo-streaming-profesional-1223024'>Streamlabs OBS: cómo configurarlo para streaming profesional</a></h4>
+    <a href='https://computerhoy.com/tutoriales/streamlabs-obs-como-configurarlo-streaming-profesional-1223024' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/streamlabs-obs-2996754.jpg?tf=1200x' alt='Streamlabs OBS: cómo configurarlo para streaming profesional' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-tablets-estudiantes-1113743'>Estas son las mejores tablets para estudiantes</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/mejores-tablets-estudiantes-1113743' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/analisis-ipad-pro-m2-2022-2875543.jpg?tf=1200x' alt='Estas son las mejores tablets para estudiantes' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/ciencia/extravagante-robot-oruga-puede-deslizarse-debajo-cualquier-puerta-tareas-rescate-1224182'>El extravagante robot oruga que puede deslizarse por debajo de cualquier puerta para tareas de rescate</a></h4>
     <a href='https://computerhoy.com/ciencia/extravagante-robot-oruga-puede-deslizarse-debajo-cualquier-puerta-tareas-rescate-1224182' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/extravagante-robot-oruga-puede-deslizarse-debajo-cualquier-puerta-pensado-tareas-rescate-2998806.jpg?tf=1200x' alt='El extravagante robot oruga que puede deslizarse por debajo de cualquier puerta para tareas de rescate' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/withings-scanwatch-horizon-specs-review-analisis-30-dias-bateria-1214274'>Withings ScanWatch Horizon, análisis: reloj híbrido con batería de un mes</a></h4>
-    <a href='https://computerhoy.com/analisis/withings-scanwatch-horizon-specs-review-analisis-30-dias-bateria-1214274' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/withings-scanwatch-horizon-2995992.jpg?tf=1200x' alt='Withings ScanWatch Horizon, análisis: reloj híbrido con batería de un mes' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/2100-seremos-menos-personas-tierra-ahora-1224184'>En 2100 seremos menos personas en la Tierra que ahora</a></h4>
-    <a href='https://computerhoy.com/life/2100-seremos-menos-personas-tierra-ahora-1224184' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/poblacion-mundial-2998812.jpg?tf=1200x' alt='En 2100 seremos menos personas en la Tierra que ahora' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/ordenadores-sobremesa-gaming-baratos-ampliables-futuro-1223860'>Estos ordenadores de sobremesa gaming son baratos y perfectos para mejorarlos en el futuro</a></h4>
-    <a href='https://computerhoy.com/pc/ordenadores-sobremesa-gaming-baratos-ampliables-futuro-1223860' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/estos-ordenadores-sobremesa-gaming-son-baratos-perfectos-mejorarlos-futuro-2998382.jpg?tf=1200x' alt='Estos ordenadores de sobremesa gaming son baratos y perfectos para mejorarlos en el futuro' />
     </a>
 </div>
 
