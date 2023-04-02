@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/discord-web-como-usarlo-navegador-1217922'>Discord Web: como usarlo en tu navegador</a></h4>
+    <a href='https://computerhoy.com/tutoriales/discord-web-como-usarlo-navegador-1217922' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/10/discord-2106551.jpg?tf=1200x' alt='Discord Web: como usarlo en tu navegador' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/internet/conectarte-wifi-acceso-publico-podria-costarte-muy-caro-1224486'>Conectarte a un WiFi gratuito de acceso público podría costarte muy caro</a></h4>
+    <a href='https://computerhoy.com/internet/conectarte-wifi-acceso-publico-podria-costarte-muy-caro-1224486' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/conectarte-wifi-acceso-publico-podria-costarte-muy-caro-2999188.jpg?tf=1200x' alt='Conectarte a un WiFi gratuito de acceso público podría costarte muy caro' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/apple-piensa-tecnologia-capaz-realizar-seguimiento-completo-cuerpo-1224480'>Apple piensa en una tecnología capaz de realizar un seguimiento completo de nuestro cuerpo</a></h4>
+    <a href='https://computerhoy.com/apple/apple-piensa-tecnologia-capaz-realizar-seguimiento-completo-cuerpo-1224480' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/hombre-haciendo-ejercicio-airpods-2999184.jpg?tf=1200x' alt='Apple piensa en una tecnología capaz de realizar un seguimiento completo de nuestro cuerpo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/crean-primer-perro-robotico-mundo-impulsado-inteligencia-artificial-extremidades-musculoesqueleticas-1224476'>Crean el primer perro robótico del mundo impulsado por inteligencia artificial con extremidades musculoesqueléticas</a></h4>
+    <a href='https://computerhoy.com/ciencia/crean-primer-perro-robotico-mundo-impulsado-inteligencia-artificial-extremidades-musculoesqueleticas-1224476' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/crean-primer-perro-robotico-mundo-impulsado-inteligencia-artificial-extremidades-musculoesqueleticas-2999174.jpg?tf=1200x' alt='Crean el primer perro robótico del mundo impulsado por inteligencia artificial con extremidades musculoesqueléticas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tutoriales/como-instalar-certificado-digital-ordenador-windows-mac-linux-1221776'>Cómo instalar un certificado digital en el ordenador (Windows, Mac y Linux)</a></h4>
     <a href='https://computerhoy.com/tutoriales/como-instalar-certificado-digital-ordenador-windows-mac-linux-1221776' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/certificado-digital-2994750.jpg?tf=1200x' alt='Cómo instalar un certificado digital en el ordenador (Windows, Mac y Linux)' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/ultima-actualizacion-windows-11-facilita-descargar-aplicaciones-microsoft-store-1224470'>La última actualización para Windows 11 facilita descargar aplicaciones desde la Microsoft Store</a></h4>
-    <a href='https://computerhoy.com/windows/ultima-actualizacion-windows-11-facilita-descargar-aplicaciones-microsoft-store-1224470' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/windows-11-2621901.jpg?tf=1200x' alt='La última actualización para Windows 11 facilita descargar aplicaciones desde la Microsoft Store' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/7-peliculas-estan-basadas-juegos-rol-menos-eso-parece-verlas-1222408'>7 películas que están basadas en juegos de rol, o al menos eso parece al verlas</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/7-peliculas-estan-basadas-juegos-rol-menos-eso-parece-verlas-1222408' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/7-peliculas-estan-basadas-juegos-rol-menos-eso-parece-verlas-2997056.jpg?tf=1200x' alt='7 películas que están basadas en juegos de rol, o al menos eso parece al verlas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/yoigo-sufre-ciberataque-estos-son-datos-afectados-debes-hacer-eres-cliente-1224456'>Yoigo sufre un ciberataque: estos son los datos afectados y lo que debes hacer si eres cliente</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/yoigo-sufre-ciberataque-estos-son-datos-afectados-debes-hacer-eres-cliente-1224456' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/yoigo-2999158.jpg?tf=1200x' alt='Yoigo sufre un ciberataque: estos son los datos afectados y lo que debes hacer si eres cliente' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-instalar-linux-ordenador-windows-1217578'>Cómo instalar Linux en un ordenador con Windows</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-instalar-linux-ordenador-windows-1217578' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/linux-windows-2987564.jpg?tf=1200x' alt='Cómo instalar Linux en un ordenador con Windows' />
     </a>
 </div>
 
