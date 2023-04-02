@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/pintura-mas-ligera-mundo-gota-pinta-dos-lados-puerta-1223616'>La pintura más ligera del mundo: una gota del tamaño de una uña pinta los dos lados de una puerta</a></h4>
-    <a href='https://computerhoy.com/ciencia/pintura-mas-ligera-mundo-gota-pinta-dos-lados-puerta-1223616' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/pintura-ligera-mundo-gota-tamano-pinta-dos-lados-puerta-2997744.jpg?tf=1200x' alt='La pintura más ligera del mundo: una gota del tamaño de una uña pinta los dos lados de una puerta' />
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-tablets-estudiantes-1113743'>Estas son las mejores tablets para estudiantes</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-tablets-estudiantes-1113743' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/analisis-ipad-pro-m2-2022-2875543.jpg?tf=1200x' alt='Estas son las mejores tablets para estudiantes' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/whatsapp-trabaja-chats-privados-secretos-evitar-miradas-indiscretas-1224188'>WhatsApp trabaja en chats privados y secretos para evitar miradas indiscretas</a></h4>
-    <a href='https://computerhoy.com/apps/whatsapp-trabaja-chats-privados-secretos-evitar-miradas-indiscretas-1224188' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/privacidad-whatsapp-2301975.jpg?tf=1200x' alt='WhatsApp trabaja en chats privados y secretos para evitar miradas indiscretas' />
+    <h4><a href='https://computerhoy.com/ciencia/extravagante-robot-oruga-puede-deslizarse-debajo-cualquier-puerta-tareas-rescate-1224182'>El extravagante robot oruga que puede deslizarse por debajo de cualquier puerta para tareas de rescate</a></h4>
+    <a href='https://computerhoy.com/ciencia/extravagante-robot-oruga-puede-deslizarse-debajo-cualquier-puerta-tareas-rescate-1224182' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/extravagante-robot-oruga-puede-deslizarse-debajo-cualquier-puerta-pensado-tareas-rescate-2998806.jpg?tf=1200x' alt='El extravagante robot oruga que puede deslizarse por debajo de cualquier puerta para tareas de rescate' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/nasa-ia-tormentas-solares-capaz-enviar-advertencia-30-minutos-antelacion-llegada-tierra-1224158'>La NASA y su IA para tormentas solares capaz de enviar una advertencia con 30 minutos de antelación a su llegada a la Tierra</a></h4>
-    <a href='https://computerhoy.com/espacio/nasa-ia-tormentas-solares-capaz-enviar-advertencia-30-minutos-antelacion-llegada-tierra-1224158' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/tormenta-solar-2998782.jpg?tf=1200x' alt='La NASA y su IA para tormentas solares capaz de enviar una advertencia con 30 minutos de antelación a su llegada a la Tierra' />
+    <h4><a href='https://computerhoy.com/analisis/withings-scanwatch-horizon-specs-review-analisis-30-dias-bateria-1214274'>Withings ScanWatch Horizon, análisis: reloj híbrido con batería de un mes</a></h4>
+    <a href='https://computerhoy.com/analisis/withings-scanwatch-horizon-specs-review-analisis-30-dias-bateria-1214274' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/withings-scanwatch-horizon-2995992.jpg?tf=1200x' alt='Withings ScanWatch Horizon, análisis: reloj híbrido con batería de un mes' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/ropa-inteligente-controlar-datos-corporales-1219836'>Así funciona la ropa inteligente que controla tus datos corporales</a></h4>
-    <a href='https://computerhoy.com/tecnologia/ropa-inteligente-controlar-datos-corporales-1219836' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/ropa-inteligente-controlar-datos-corporales-2991808.jpg?tf=1200x' alt='Así funciona la ropa inteligente que controla tus datos corporales' />
+    <h4><a href='https://computerhoy.com/life/2100-seremos-menos-personas-tierra-ahora-1224184'>En 2100 seremos menos personas en la Tierra que ahora</a></h4>
+    <a href='https://computerhoy.com/life/2100-seremos-menos-personas-tierra-ahora-1224184' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/poblacion-mundial-2998812.jpg?tf=1200x' alt='En 2100 seremos menos personas en la Tierra que ahora' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/bing-chat-ahora-inteligente-gracias-anadido-busquedas-videos-imagenes-1224154'>Bing Chat es ahora más inteligente gracias al añadido de búsquedas de vídeos e imágenes</a></h4>
-    <a href='https://computerhoy.com/apps/bing-chat-ahora-inteligente-gracias-anadido-busquedas-videos-imagenes-1224154' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/he-pasado-semana-probando-3-personalidades-bing-2992354.jpg?tf=1200x' alt='Bing Chat es ahora más inteligente gracias al añadido de búsquedas de vídeos e imágenes' />
+    <h4><a href='https://computerhoy.com/pc/ordenadores-sobremesa-gaming-baratos-ampliables-futuro-1223860'>Estos ordenadores de sobremesa gaming son baratos y perfectos para mejorarlos en el futuro</a></h4>
+    <a href='https://computerhoy.com/pc/ordenadores-sobremesa-gaming-baratos-ampliables-futuro-1223860' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/estos-ordenadores-sobremesa-gaming-son-baratos-perfectos-mejorarlos-futuro-2998382.jpg?tf=1200x' alt='Estos ordenadores de sobremesa gaming son baratos y perfectos para mejorarlos en el futuro' />
     </a>
 </div>
 
