@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/espacio/bolido-artificial-1-abril-espana-satelite-1224522'>Qué es la espectacular estela de fuego que cruzó ayer España, y por qué cada vez van a ser más frecuentes</a></h4>
+    <a href='https://computerhoy.com/espacio/bolido-artificial-1-abril-espana-satelite-1224522' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/espectacular-bolido-artificial-cruzo-ayer-espana-cada-vez-van-ser-frecuentes-2999260.jpg?tf=1200x' alt='Qué es la espectacular estela de fuego que cruzó ayer España, y por qué cada vez van a ser más frecuentes' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/descubre-si-tienes-personalidad-intj-1223662'>Descubre si tienes la personalidad INTJ, que solo posee el 2% de la población</a></h4>
+    <a href='https://computerhoy.com/life/descubre-si-tienes-personalidad-intj-1223662' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/descubre-tienes-personalidad-intj-solo-posee-2-poblacion-2997878.jpg?tf=1200x' alt='Descubre si tienes la personalidad INTJ, que solo posee el 2% de la población' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/engana-chatgpt-genere-clave-pirata-windows-1224514'>Engaña a ChatGPT para que genere una clave pirata de Windows, pese a que lo prohíben sus directrices</a></h4>
+    <a href='https://computerhoy.com/tecnologia/engana-chatgpt-genere-clave-pirata-windows-1224514' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/engana-chatgpt-genere-clave-pirata-windows-95-2999252.jpg?tf=1200x' alt='Engaña a ChatGPT para que genere una clave pirata de Windows, pese a que lo prohíben sus directrices' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tutoriales/discord-web-como-usarlo-navegador-1217922'>Discord Web: como usarlo en tu navegador</a></h4>
     <a href='https://computerhoy.com/tutoriales/discord-web-como-usarlo-navegador-1217922' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/10/discord-2106551.jpg?tf=1200x' alt='Discord Web: como usarlo en tu navegador' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/internet/conectarte-wifi-acceso-publico-podria-costarte-muy-caro-1224486'>Conectarte a un WiFi gratuito de acceso público podría costarte muy caro</a></h4>
     <a href='https://computerhoy.com/internet/conectarte-wifi-acceso-publico-podria-costarte-muy-caro-1224486' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/conectarte-wifi-acceso-publico-podria-costarte-muy-caro-2999188.jpg?tf=1200x' alt='Conectarte a un WiFi gratuito de acceso público podría costarte muy caro' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/apple-piensa-tecnologia-capaz-realizar-seguimiento-completo-cuerpo-1224480'>Apple piensa en una tecnología capaz de realizar un seguimiento completo de nuestro cuerpo</a></h4>
-    <a href='https://computerhoy.com/apple/apple-piensa-tecnologia-capaz-realizar-seguimiento-completo-cuerpo-1224480' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/hombre-haciendo-ejercicio-airpods-2999184.jpg?tf=1200x' alt='Apple piensa en una tecnología capaz de realizar un seguimiento completo de nuestro cuerpo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/crean-primer-perro-robotico-mundo-impulsado-inteligencia-artificial-extremidades-musculoesqueleticas-1224476'>Crean el primer perro robótico del mundo impulsado por inteligencia artificial con extremidades musculoesqueléticas</a></h4>
-    <a href='https://computerhoy.com/ciencia/crean-primer-perro-robotico-mundo-impulsado-inteligencia-artificial-extremidades-musculoesqueleticas-1224476' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/crean-primer-perro-robotico-mundo-impulsado-inteligencia-artificial-extremidades-musculoesqueleticas-2999174.jpg?tf=1200x' alt='Crean el primer perro robótico del mundo impulsado por inteligencia artificial con extremidades musculoesqueléticas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-instalar-certificado-digital-ordenador-windows-mac-linux-1221776'>Cómo instalar un certificado digital en el ordenador (Windows, Mac y Linux)</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-instalar-certificado-digital-ordenador-windows-mac-linux-1221776' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/certificado-digital-2994750.jpg?tf=1200x' alt='Cómo instalar un certificado digital en el ordenador (Windows, Mac y Linux)' />
     </a>
 </div>
 
