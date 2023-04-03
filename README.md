@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/gaming/asus-rog-ally-mas-potente-steam-deck-1225132'>Asus ROG Ally, la consola portátil con Windows 11, mucho más potente que Steam Deck</a></h4>
+    <a href='https://computerhoy.com/gaming/asus-rog-ally-mas-potente-steam-deck-1225132' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/asus-rog-ally-3000404.jpg?tf=1200x' alt='Asus ROG Ally, la consola portátil con Windows 11, mucho más potente que Steam Deck' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/modo-monje-truco-procrastinacion-1225124'>Así funciona el Modo Monje contra la procrastinación: recuperas hasta 3 horas al día</a></h4>
+    <a href='https://computerhoy.com/life/modo-monje-truco-procrastinacion-1225124' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/funciona-modo-monje-procrastinacion-recuperas-3-horas-dia-3000370.jpg?tf=1200x' alt='Así funciona el Modo Monje contra la procrastinación: recuperas hasta 3 horas al día' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/pequena-aerolinea-espanola-cuela-mejores-mundo-1225116'>Una pequeña aerolínea española se cuela entre las mejores del mundo</a></h4>
     <a href='https://computerhoy.com/life/pequena-aerolinea-espanola-cuela-mejores-mundo-1225116' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/viajar-avion-3000390.jpg?tf=1200x' alt='Una pequeña aerolínea española se cuela entre las mejores del mundo' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/redes-sociales/elon-musk-elimina-verificados-twitter-ahora-red-social-caos-1224986'>Elon Musk elimina los verificados en Twitter y ahora la red social es un caos</a></h4>
     <a href='https://computerhoy.com/redes-sociales/elon-musk-elimina-verificados-twitter-ahora-red-social-caos-1224986' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/elon-musk-dueno-twitter-2937776.jpg?tf=1200x' alt='Elon Musk elimina los verificados en Twitter y ahora la red social es un caos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/google-drive-pone-limite-archivos-muchos-usuarios-tienen-borrar-millones-1224984'>Google Drive pone un límite de archivos, muchos usuarios tienen que borrar millones</a></h4>
-    <a href='https://computerhoy.com/google/google-drive-pone-limite-archivos-muchos-usuarios-tienen-borrar-millones-1224984' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/google-drive-2239641.jpg?tf=1200x' alt='Google Drive pone un límite de archivos, muchos usuarios tienen que borrar millones' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/enviar-archivos-movil-pc-ahora-facil-funciona-nearby-share-windows-1224988'>Enviar archivos entre el móvil y el PC ahora es más fácil: así funciona Nearby Share en Windows</a></h4>
-    <a href='https://computerhoy.com/google/enviar-archivos-movil-pc-ahora-facil-funciona-nearby-share-windows-1224988' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/enviar-archivos-movil-pc-ahora-facil-funciona-nearby-share-windows-3000282.jpg?tf=1200x' alt='Enviar archivos entre el móvil y el PC ahora es más fácil: así funciona Nearby Share en Windows' />
     </a>
 </div>
 
