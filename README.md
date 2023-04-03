@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/1g-5g-evolucion-movil-constante-6g-horizonte-1219576'>Del 1G al 5G: una constante evolución móvil con un 6G en el horizonte</a></h4>
+    <a href='https://computerhoy.com/tecnologia/1g-5g-evolucion-movil-constante-6g-horizonte-1219576' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/1g-5g-constante-evolucion-movil-posible-6g-horizonte-2997968.jpg?tf=1200x' alt='Del 1G al 5G: una constante evolución móvil con un 6G en el horizonte' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/noticias-tecnologia-hoy-lunes-3-abril-1224710'>38 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
+    <a href='https://computerhoy.com/tecnologia/noticias-tecnologia-hoy-lunes-3-abril-1224710' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/38-noticias-tecnologia-comenzar-manana-informado-ultimo-2999450.jpg?tf=1200x' alt='38 noticias de tecnología para comenzar la mañana informado de lo último' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/insta360-flow-palo-selfie-estabilizador-definitivo-inteligencia-artificial-1223786'>Insta360 Flow, el palo selfie definitivo con IA que ya puedes comprar</a></h4>
+    <a href='https://computerhoy.com/tecnologia/insta360-flow-palo-selfie-estabilizador-definitivo-inteligencia-artificial-1223786' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/insta360-flow-2998332.jpg?tf=1200x' alt='Insta360 Flow, el palo selfie definitivo con IA que ya puedes comprar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/cerveza-nothing-beer-1224528'>El nuevo producto de Nothing: ¿una broma, o su próximo éxito?</a></h4>
     <a href='https://computerhoy.com/life/cerveza-nothing-beer-1224528' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/nuevo-producto-nothing-broma-proximo-exito-2999278.jpg?tf=1200x' alt='El nuevo producto de Nothing: ¿una broma, o su próximo éxito?' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/streaming/como-enganan-traileres-peliculas-1224526'>Así es como los tráileres de las películas nos engañan</a></h4>
     <a href='https://computerhoy.com/streaming/como-enganan-traileres-peliculas-1224526' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/como-traileres-peliculas-nos-enganan-2999266.jpg?tf=1200x' alt='Así es como los tráileres de las películas nos engañan' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/camara-fin-mundo-banco-mundial-semillas-svalbard-tour-virtual-1223242'>Entra dentro de La Cámara del Fin del Mundo, en el Polo Norte, con este tour virtual </a></h4>
-    <a href='https://computerhoy.com/life/camara-fin-mundo-banco-mundial-semillas-svalbard-tour-virtual-1223242' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/entra-dentro-camara-fin-mundo-polo-norte-tour-virtual-2997288.jpg?tf=1200x' alt='Entra dentro de La Cámara del Fin del Mundo, en el Polo Norte, con este tour virtual ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/bolido-artificial-1-abril-espana-satelite-1224522'>Qué es la espectacular estela de fuego que cruzó ayer España, y por qué cada vez van a ser más frecuentes</a></h4>
-    <a href='https://computerhoy.com/espacio/bolido-artificial-1-abril-espana-satelite-1224522' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/espectacular-bolido-artificial-cruzo-ayer-espana-cada-vez-van-ser-frecuentes-2999260.jpg?tf=1200x' alt='Qué es la espectacular estela de fuego que cruzó ayer España, y por qué cada vez van a ser más frecuentes' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/descubre-si-tienes-personalidad-intj-1223662'>Descubre si tienes la personalidad INTJ, que solo posee el 2% de la población</a></h4>
-    <a href='https://computerhoy.com/life/descubre-si-tienes-personalidad-intj-1223662' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/descubre-tienes-personalidad-intj-solo-posee-2-poblacion-2997878.jpg?tf=1200x' alt='Descubre si tienes la personalidad INTJ, que solo posee el 2% de la población' />
     </a>
 </div>
 
