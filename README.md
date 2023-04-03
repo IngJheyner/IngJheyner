@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/gaming/nintendo-solucionara-joy-drift-gratis-nintendo-switch-garantia-1224996'>Nintendo solucionará los Joy-Con con drift gratis en las Nintendo Switch sin garantía</a></h4>
-    <a href='https://computerhoy.com/gaming/nintendo-solucionara-joy-drift-gratis-nintendo-switch-garantia-1224996' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/joy-nintendo-2922104.jpg?tf=1200x' alt='Nintendo solucionará los Joy-Con con drift gratis en las Nintendo Switch sin garantía' />
+    <h4><a href='https://computerhoy.com/espacio/estos-son-astronautas-viajaran-luna-ano-viene-1225050'>Estos son los astronautas que viajarán a la Luna el año que viene</a></h4>
+    <a href='https://computerhoy.com/espacio/estos-son-astronautas-viajaran-luna-ano-viene-1225050' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/estos-son-astronautas-viajaran-luna-ano-viene-3000292.jpg?tf=1200x' alt='Estos son los astronautas que viajarán a la Luna el año que viene' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/amazon/problemas-fire-tv-truco-solucionaras-algunos-problemas-apps-no-funcionan-1224998'>El truco infalible para desbloquear un Amazon Fire TV cuando se queda atascado</a></h4>
-    <a href='https://computerhoy.com/amazon/problemas-fire-tv-truco-solucionaras-algunos-problemas-apps-no-funcionan-1224998' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/analisis-amazon-fire-tv-stick-2224133.jpg?tf=1200x' alt='El truco infalible para desbloquear un Amazon Fire TV cuando se queda atascado' />
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/relojes-baratos-alternativa-apple-watch-ultra-1120737'>Relojes más baratos que el Apple Watch Ultra y que pueden plantarle cara</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/relojes-baratos-alternativa-apple-watch-ultra-1120737' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/huawei-watch-ultimate-2999586.jpg?tf=1200x' alt='Relojes más baratos que el Apple Watch Ultra y que pueden plantarle cara' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/trajes-astronautas-durante-despegue-no-son-blancos-1224842'>¿Por qué los trajes de los astronautas durante el despegue no son blancos?</a></h4>
-    <a href='https://computerhoy.com/life/trajes-astronautas-durante-despegue-no-son-blancos-1224842' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/astronauta-2685043.jpg?tf=1200x' alt='¿Por qué los trajes de los astronautas durante el despegue no son blancos?' />
+    <h4><a href='https://computerhoy.com/analisis/sony-wf-c700n-review-opinion-mejor-relacion-calidad-precio-tws-sony-1224952'>Sony WF-C700N, análisis y opinión: auriculares true wireless de botón con un gran cancelación de ruido</a></h4>
+    <a href='https://computerhoy.com/analisis/sony-wf-c700n-review-opinion-mejor-relacion-calidad-precio-tws-sony-1224952' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/sony-wf-c700n-3000058.jpg?tf=1200x' alt='Sony WF-C700N, análisis y opinión: auriculares true wireless de botón con un gran cancelación de ruido' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/usa-chatgpt-cualquier-web-mientras-navegas-extension-chrome-1224934'>Esta extensión de Chrome te permite utilizar ChatGPT en cualquier web</a></h4>
-    <a href='https://computerhoy.com/tutoriales/usa-chatgpt-cualquier-web-mientras-navegas-extension-chrome-1224934' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/extensiones-chrome-chatgpt-4-2999920.jpg?tf=1200x' alt='Esta extensión de Chrome te permite utilizar ChatGPT en cualquier web' />
+    <h4><a href='https://computerhoy.com/pc/microsoft-quiere-limitar-mejores-funciones-windows-11-evitar-bloqueos-1224992'>Microsoft quiere limitar una de las mejores funciones de Windows 11 para evitar bloqueos</a></h4>
+    <a href='https://computerhoy.com/pc/microsoft-quiere-limitar-mejores-funciones-windows-11-evitar-bloqueos-1224992' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/windows-11-2987236.jpg?tf=1200x' alt='Microsoft quiere limitar una de las mejores funciones de Windows 11 para evitar bloqueos' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/estos-nuevo-auriculares-te-permitiran-conversar-ia-acceder-chatgpt-1224858'>Estos nuevos auriculares te permitirán conversar con la IA y acceder a ChatGPT</a></h4>
-    <a href='https://computerhoy.com/tecnologia/estos-nuevo-auriculares-te-permitiran-conversar-ia-acceder-chatgpt-1224858' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/estos-nuevos-auriculares-te-permitiran-conversar-ia-acceder-chatgpt-2999804.jpg?tf=1200x' alt='Estos nuevos auriculares te permitirán conversar con la IA y acceder a ChatGPT' />
+    <h4><a href='https://computerhoy.com/amazon/como-funciona-crazy-day-factory-tienda-viral-comprar-devoluciones-amazon-1-euro-1224990'>Cómo funciona Crazy Day Factory, la tienda viral para comprar devoluciones de Amazon desde 1 euro</a></h4>
+    <a href='https://computerhoy.com/amazon/como-funciona-crazy-day-factory-tienda-viral-comprar-devoluciones-amazon-1-euro-1224990' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/amazon-2968408.jpg?tf=1200x' alt='Cómo funciona Crazy Day Factory, la tienda viral para comprar devoluciones de Amazon desde 1 euro' />
     </a>
 </div>
 
