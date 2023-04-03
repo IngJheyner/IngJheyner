@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/trajes-astronautas-durante-despegue-no-son-blancos-1224842'>¿Por qué los trajes de los astronautas durante el despegue no son blancos?</a></h4>
+    <a href='https://computerhoy.com/life/trajes-astronautas-durante-despegue-no-son-blancos-1224842' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/astronauta-2685043.jpg?tf=1200x' alt='¿Por qué los trajes de los astronautas durante el despegue no son blancos?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/usa-chatgpt-cualquier-web-mientras-navegas-extension-chrome-1224934'>Esta extensión de Chrome te permite utilizar ChatGPT en cualquier web</a></h4>
+    <a href='https://computerhoy.com/tutoriales/usa-chatgpt-cualquier-web-mientras-navegas-extension-chrome-1224934' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/extensiones-chrome-chatgpt-4-2999920.jpg?tf=1200x' alt='Esta extensión de Chrome te permite utilizar ChatGPT en cualquier web' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/estos-nuevo-auriculares-te-permitiran-conversar-ia-acceder-chatgpt-1224858'>Estos nuevos auriculares te permitirán conversar con la IA y acceder a ChatGPT</a></h4>
+    <a href='https://computerhoy.com/tecnologia/estos-nuevo-auriculares-te-permitiran-conversar-ia-acceder-chatgpt-1224858' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/estos-nuevos-auriculares-te-permitiran-conversar-ia-acceder-chatgpt-2999804.jpg?tf=1200x' alt='Estos nuevos auriculares te permitirán conversar con la IA y acceder a ChatGPT' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/inteligencia-artificial-creando-videos-locos-1224758'>Esta inteligencia artificial que convierte texto a vídeo está creando resultados de lo más locos</a></h4>
     <a href='https://computerhoy.com/tecnologia/inteligencia-artificial-creando-videos-locos-1224758' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/inteligencia-artificial-convierte-texto-video-creando-resultados-locos-2999598.jpg?tf=1200x' alt='Esta inteligencia artificial que convierte texto a vídeo está creando resultados de lo más locos' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/apple/ipad-pro-2024-podrian-montar-pantallas-oled-doble-capa-precio-tambien-dobla-1224776'>Los iPad Pro de 2024 podrían montar pantallas OLED de doble capa y un precio que también se dobla</a></h4>
     <a href='https://computerhoy.com/apple/ipad-pro-2024-podrian-montar-pantallas-oled-doble-capa-precio-tambien-dobla-1224776' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/analisis-ipad-pro-m2-2022-2875545.jpg?tf=1200x' alt='Los iPad Pro de 2024 podrían montar pantallas OLED de doble capa y un precio que también se dobla' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/primer-gran-fabricante-eliminar-android-auto-coches-muy-mala-senal-bolsillo-1224760'>Primer gran fabricante en eliminar Android Auto de sus coches y es muy mala señal para tu bolsillo</a></h4>
-    <a href='https://computerhoy.com/motor/primer-gran-fabricante-eliminar-android-auto-coches-muy-mala-senal-bolsillo-1224760' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/android-auto-2700725.jpg?tf=1200x' alt='Primer gran fabricante en eliminar Android Auto de sus coches y es muy mala señal para tu bolsillo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/paris-sera-primera-ciudad-mundo-prohibir-patinetes-electricos-alquiler-1224756'>París será la primera ciudad del mundo en prohibir los patinetes eléctricos de alquiler</a></h4>
-    <a href='https://computerhoy.com/motor/paris-sera-primera-ciudad-mundo-prohibir-patinetes-electricos-alquiler-1224756' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/15-trucos-patinete-electrico-2-2374739.jpg?tf=1200x' alt='París será la primera ciudad del mundo en prohibir los patinetes eléctricos de alquiler' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/implante-podria-acabar-inyecciones-persona-diabeticas-1224738'>Este implante libera insulina de forma autónoma y podría acabar con las inyecciones en persona diabéticas</a></h4>
-    <a href='https://computerhoy.com/tecnologia/implante-podria-acabar-inyecciones-persona-diabeticas-1224738' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/implante-libera-insulina-forma-autonoma-podria-acabar-inyecciones-persona-diabeticas-2999492.jpg?tf=1200x' alt='Este implante libera insulina de forma autónoma y podría acabar con las inyecciones en persona diabéticas' />
     </a>
 </div>
 
