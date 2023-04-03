@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/1g-5g-evolucion-movil-constante-6g-horizonte-1219576'>Del 1G al 5G: una constante evolución móvil con un 6G en el horizonte</a></h4>
-    <a href='https://computerhoy.com/tecnologia/1g-5g-evolucion-movil-constante-6g-horizonte-1219576' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/1g-5g-constante-evolucion-movil-posible-6g-horizonte-2997968.jpg?tf=1200x' alt='Del 1G al 5G: una constante evolución móvil con un 6G en el horizonte' />
+    <h4><a href='https://computerhoy.com/tecnologia/inteligencia-artificial-creando-videos-locos-1224758'>Esta inteligencia artificial que convierte texto a vídeo está creando resultados de lo más locos</a></h4>
+    <a href='https://computerhoy.com/tecnologia/inteligencia-artificial-creando-videos-locos-1224758' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/inteligencia-artificial-convierte-texto-video-creando-resultados-locos-2999598.jpg?tf=1200x' alt='Esta inteligencia artificial que convierte texto a vídeo está creando resultados de lo más locos' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/noticias-tecnologia-hoy-lunes-3-abril-1224710'>38 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
-    <a href='https://computerhoy.com/tecnologia/noticias-tecnologia-hoy-lunes-3-abril-1224710' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/38-noticias-tecnologia-comenzar-manana-informado-ultimo-2999450.jpg?tf=1200x' alt='38 noticias de tecnología para comenzar la mañana informado de lo último' />
+    <h4><a href='https://computerhoy.com/apple/ipad-pro-2024-podrian-montar-pantallas-oled-doble-capa-precio-tambien-dobla-1224776'>Los iPad Pro de 2024 podrían montar pantallas OLED de doble capa y un precio que también se dobla</a></h4>
+    <a href='https://computerhoy.com/apple/ipad-pro-2024-podrian-montar-pantallas-oled-doble-capa-precio-tambien-dobla-1224776' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/analisis-ipad-pro-m2-2022-2875545.jpg?tf=1200x' alt='Los iPad Pro de 2024 podrían montar pantallas OLED de doble capa y un precio que también se dobla' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/insta360-flow-palo-selfie-estabilizador-definitivo-inteligencia-artificial-1223786'>Insta360 Flow, el palo selfie definitivo con IA que ya puedes comprar</a></h4>
-    <a href='https://computerhoy.com/tecnologia/insta360-flow-palo-selfie-estabilizador-definitivo-inteligencia-artificial-1223786' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/insta360-flow-2998332.jpg?tf=1200x' alt='Insta360 Flow, el palo selfie definitivo con IA que ya puedes comprar' />
+    <h4><a href='https://computerhoy.com/motor/primer-gran-fabricante-eliminar-android-auto-coches-muy-mala-senal-bolsillo-1224760'>Primer gran fabricante en eliminar Android Auto de sus coches y es muy mala señal para tu bolsillo</a></h4>
+    <a href='https://computerhoy.com/motor/primer-gran-fabricante-eliminar-android-auto-coches-muy-mala-senal-bolsillo-1224760' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/android-auto-2700725.jpg?tf=1200x' alt='Primer gran fabricante en eliminar Android Auto de sus coches y es muy mala señal para tu bolsillo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/cerveza-nothing-beer-1224528'>El nuevo producto de Nothing: ¿una broma, o su próximo éxito?</a></h4>
-    <a href='https://computerhoy.com/life/cerveza-nothing-beer-1224528' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/nuevo-producto-nothing-broma-proximo-exito-2999278.jpg?tf=1200x' alt='El nuevo producto de Nothing: ¿una broma, o su próximo éxito?' />
+    <h4><a href='https://computerhoy.com/motor/paris-sera-primera-ciudad-mundo-prohibir-patinetes-electricos-alquiler-1224756'>París será la primera ciudad del mundo en prohibir los patinetes eléctricos de alquiler</a></h4>
+    <a href='https://computerhoy.com/motor/paris-sera-primera-ciudad-mundo-prohibir-patinetes-electricos-alquiler-1224756' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/15-trucos-patinete-electrico-2-2374739.jpg?tf=1200x' alt='París será la primera ciudad del mundo en prohibir los patinetes eléctricos de alquiler' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/streaming/como-enganan-traileres-peliculas-1224526'>Así es como los tráileres de las películas nos engañan</a></h4>
-    <a href='https://computerhoy.com/streaming/como-enganan-traileres-peliculas-1224526' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/como-traileres-peliculas-nos-enganan-2999266.jpg?tf=1200x' alt='Así es como los tráileres de las películas nos engañan' />
+    <h4><a href='https://computerhoy.com/tecnologia/implante-podria-acabar-inyecciones-persona-diabeticas-1224738'>Este implante libera insulina de forma autónoma y podría acabar con las inyecciones en persona diabéticas</a></h4>
+    <a href='https://computerhoy.com/tecnologia/implante-podria-acabar-inyecciones-persona-diabeticas-1224738' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/implante-libera-insulina-forma-autonoma-podria-acabar-inyecciones-persona-diabeticas-2999492.jpg?tf=1200x' alt='Este implante libera insulina de forma autónoma y podría acabar con las inyecciones en persona diabéticas' />
     </a>
 </div>
 
