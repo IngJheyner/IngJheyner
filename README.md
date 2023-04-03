@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/estos-son-astronautas-viajaran-luna-ano-viene-1225050'>Estos son los astronautas que viajarán a la Luna el año que viene</a></h4>
-    <a href='https://computerhoy.com/espacio/estos-son-astronautas-viajaran-luna-ano-viene-1225050' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/estos-son-astronautas-viajaran-luna-ano-viene-3000292.jpg?tf=1200x' alt='Estos son los astronautas que viajarán a la Luna el año que viene' />
+    <h4><a href='https://computerhoy.com/life/pequena-aerolinea-espanola-cuela-mejores-mundo-1225116'>Una pequeña aerolínea española se cuela entre las mejores del mundo</a></h4>
+    <a href='https://computerhoy.com/life/pequena-aerolinea-espanola-cuela-mejores-mundo-1225116' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/viajar-avion-3000390.jpg?tf=1200x' alt='Una pequeña aerolínea española se cuela entre las mejores del mundo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/relojes-baratos-alternativa-apple-watch-ultra-1120737'>Relojes más baratos que el Apple Watch Ultra y que pueden plantarle cara</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/relojes-baratos-alternativa-apple-watch-ultra-1120737' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/huawei-watch-ultimate-2999586.jpg?tf=1200x' alt='Relojes más baratos que el Apple Watch Ultra y que pueden plantarle cara' />
+    <h4><a href='https://computerhoy.com/life/dinero-deberias-tener-ahorrado-edad-no-tener-problemas-financieros-1225112'>Este es el dinero que deberías tener ahorrado según tu edad para no tener problemas financieros</a></h4>
+    <a href='https://computerhoy.com/life/dinero-deberias-tener-ahorrado-edad-no-tener-problemas-financieros-1225112' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/ahorrar-dinero-3000384.jpg?tf=1200x' alt='Este es el dinero que deberías tener ahorrado según tu edad para no tener problemas financieros' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/sony-wf-c700n-review-opinion-mejor-relacion-calidad-precio-tws-sony-1224952'>Sony WF-C700N, análisis y opinión: auriculares true wireless de botón con un gran cancelación de ruido</a></h4>
-    <a href='https://computerhoy.com/analisis/sony-wf-c700n-review-opinion-mejor-relacion-calidad-precio-tws-sony-1224952' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/sony-wf-c700n-3000058.jpg?tf=1200x' alt='Sony WF-C700N, análisis y opinión: auriculares true wireless de botón con un gran cancelación de ruido' />
+    <h4><a href='https://computerhoy.com/redes-sociales/elon-musk-elimina-verificados-twitter-ahora-red-social-caos-1224986'>Elon Musk elimina los verificados en Twitter y ahora la red social es un caos</a></h4>
+    <a href='https://computerhoy.com/redes-sociales/elon-musk-elimina-verificados-twitter-ahora-red-social-caos-1224986' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/elon-musk-dueno-twitter-2937776.jpg?tf=1200x' alt='Elon Musk elimina los verificados en Twitter y ahora la red social es un caos' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/microsoft-quiere-limitar-mejores-funciones-windows-11-evitar-bloqueos-1224992'>Microsoft quiere limitar una de las mejores funciones de Windows 11 para evitar bloqueos</a></h4>
-    <a href='https://computerhoy.com/pc/microsoft-quiere-limitar-mejores-funciones-windows-11-evitar-bloqueos-1224992' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/windows-11-2987236.jpg?tf=1200x' alt='Microsoft quiere limitar una de las mejores funciones de Windows 11 para evitar bloqueos' />
+    <h4><a href='https://computerhoy.com/google/google-drive-pone-limite-archivos-muchos-usuarios-tienen-borrar-millones-1224984'>Google Drive pone un límite de archivos, muchos usuarios tienen que borrar millones</a></h4>
+    <a href='https://computerhoy.com/google/google-drive-pone-limite-archivos-muchos-usuarios-tienen-borrar-millones-1224984' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/google-drive-2239641.jpg?tf=1200x' alt='Google Drive pone un límite de archivos, muchos usuarios tienen que borrar millones' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/amazon/como-funciona-crazy-day-factory-tienda-viral-comprar-devoluciones-amazon-1-euro-1224990'>Cómo funciona Crazy Day Factory, la tienda viral para comprar devoluciones de Amazon desde 1 euro</a></h4>
-    <a href='https://computerhoy.com/amazon/como-funciona-crazy-day-factory-tienda-viral-comprar-devoluciones-amazon-1-euro-1224990' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/amazon-2968408.jpg?tf=1200x' alt='Cómo funciona Crazy Day Factory, la tienda viral para comprar devoluciones de Amazon desde 1 euro' />
+    <h4><a href='https://computerhoy.com/google/enviar-archivos-movil-pc-ahora-facil-funciona-nearby-share-windows-1224988'>Enviar archivos entre el móvil y el PC ahora es más fácil: así funciona Nearby Share en Windows</a></h4>
+    <a href='https://computerhoy.com/google/enviar-archivos-movil-pc-ahora-facil-funciona-nearby-share-windows-1224988' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/enviar-archivos-movil-pc-ahora-facil-funciona-nearby-share-windows-3000282.jpg?tf=1200x' alt='Enviar archivos entre el móvil y el PC ahora es más fácil: así funciona Nearby Share en Windows' />
     </a>
 </div>
 
