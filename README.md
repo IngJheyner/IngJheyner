@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/noticias-tecnologia-hoy-martes-4-abril-1225330'>27 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
-    <a href='https://computerhoy.com/tecnologia/noticias-tecnologia-hoy-martes-4-abril-1225330' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/27-noticias-tecnologia-comenzar-manana-informado-ultimo-3000598.jpg?tf=1200x' alt='27 noticias de tecnología para comenzar la mañana informado de lo último' />
+    <h4><a href='https://computerhoy.com/tecnologia/todo-sabemos-gpt-5-proxima-gran-actualizacion-chatgpt-1225382'>Todo lo que sabemos de GPT-5 y la próxima gran actualización de ChatGPT</a></h4>
+    <a href='https://computerhoy.com/tecnologia/todo-sabemos-gpt-5-proxima-gran-actualizacion-chatgpt-1225382' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/todo-sabemos-gpt-5-proxima-gran-actualizacion-chatgpt-3000734.jpg?tf=1200x' alt='Todo lo que sabemos de GPT-5 y la próxima gran actualización de ChatGPT' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejoers-gafas-realidad-virtual-1109917'>Gafas de realidad virtual (VR): estas son las mejores que puedes comprar</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejoers-gafas-realidad-virtual-1109917' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/dani-ps-vr2-2963016.jpg?tf=1200x' alt='Gafas de realidad virtual (VR): estas son las mejores que puedes comprar' />
+    <h4><a href='https://computerhoy.com/criptos/elon-musk-juega-cambiando-icono-twitter-dogecoin-1225402'>¿Por qué sale un Shiba Inu como icono de Twitter? Elon Musk se la juega con Dogecoin</a></h4>
+    <a href='https://computerhoy.com/criptos/elon-musk-juega-cambiando-icono-twitter-dogecoin-1225402' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/esperanza-twitter-acepte-criptomoneda-dogecoin-como-oficial-dispara-valor-2859579.jpg?tf=1200x' alt='¿Por qué sale un Shiba Inu como icono de Twitter? Elon Musk se la juega con Dogecoin' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/seeair-buceo-sin-bombona-aire-durante-5-horas-12-metros-video-1225326'>SeeAir, el sistema para bucear sin bombona durante 5 horas, a 12 metros de profundidad (vídeo)</a></h4>
-    <a href='https://computerhoy.com/life/seeair-buceo-sin-bombona-aire-durante-5-horas-12-metros-video-1225326' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/verticalimage1680566986017-3000596.jpg?tf=1200x' alt='SeeAir, el sistema para bucear sin bombona durante 5 horas, a 12 metros de profundidad (vídeo)' />
+    <h4><a href='https://computerhoy.com/ciberseguridad/nuevo-pais-une-veto-tiktok-dispositivos-gubernamentales-1225368'>Un nuevo país se une al veto de TikTok en los dispositivos gubernamentales</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/nuevo-pais-une-veto-tiktok-dispositivos-gubernamentales-1225368' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/nuevo-pais-une-veto-tiktok-dispositivos-gubernamentales-3000704.jpg?tf=1200x' alt='Un nuevo país se une al veto de TikTok en los dispositivos gubernamentales' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/graban-video-pez-profundidad-8336-metros-parece-alienigena-1225134'>Graban en vídeo el pez a más profundidad, 8.336 metros, y parece alienígena</a></h4>
-    <a href='https://computerhoy.com/ciencia/graban-video-pez-profundidad-8336-metros-parece-alienigena-1225134' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/graban-video-pez-profundidad-8336-metros-parece-alienigena-3000410.jpg?tf=1200x' alt='Graban en vídeo el pez a más profundidad, 8.336 metros, y parece alienígena' />
+    <h4><a href='https://computerhoy.com/audio/rode-lanza-wireless-me-version-economica-microfono-arrasa-tiktok-youtube-1225374'>Rode lanza Wireless ME, la versión económica del micrófono que arrasa en TikTok y YouTube</a></h4>
+    <a href='https://computerhoy.com/audio/rode-lanza-wireless-me-version-economica-microfono-arrasa-tiktok-youtube-1225374' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/rode-connect-3000660.jpg?tf=1200x' alt='Rode lanza Wireless ME, la versión económica del micrófono que arrasa en TikTok y YouTube' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/gaming/asus-rog-ally-mas-potente-steam-deck-1225132'>Asus ROG Ally, la consola portátil con Windows 11, mucho más potente que Steam Deck</a></h4>
-    <a href='https://computerhoy.com/gaming/asus-rog-ally-mas-potente-steam-deck-1225132' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/asus-rog-ally-3000404.jpg?tf=1200x' alt='Asus ROG Ally, la consola portátil con Windows 11, mucho más potente que Steam Deck' />
+    <h4><a href='https://computerhoy.com/ciberseguridad/eeuu-afirma-globo-espia-chino-robo-informacion-sensible-1225354'>EE.UU. afirma que el globo espía chino recopiló información sensible en su recorrido por el país</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/eeuu-afirma-globo-espia-chino-robo-informacion-sensible-1225354' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/eeuu-afirma-globo-espia-chino-recopilo-informacion-sensible-recorrido-pais-3000618.jpg?tf=1200x' alt='EE.UU. afirma que el globo espía chino recopiló información sensible en su recorrido por el país' />
     </a>
 </div>
 
