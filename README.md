@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/noticias-tecnologia-hoy-martes-4-abril-1225330'>27 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
+    <a href='https://computerhoy.com/tecnologia/noticias-tecnologia-hoy-martes-4-abril-1225330' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/27-noticias-tecnologia-comenzar-manana-informado-ultimo-3000598.jpg?tf=1200x' alt='27 noticias de tecnología para comenzar la mañana informado de lo último' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejoers-gafas-realidad-virtual-1109917'>Gafas de realidad virtual (VR): estas son las mejores que puedes comprar</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejoers-gafas-realidad-virtual-1109917' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/dani-ps-vr2-2963016.jpg?tf=1200x' alt='Gafas de realidad virtual (VR): estas son las mejores que puedes comprar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/seeair-buceo-sin-bombona-aire-durante-5-horas-12-metros-video-1225326'>SeeAir, el sistema para bucear sin bombona durante 5 horas, a 12 metros de profundidad (vídeo)</a></h4>
+    <a href='https://computerhoy.com/life/seeair-buceo-sin-bombona-aire-durante-5-horas-12-metros-video-1225326' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/verticalimage1680566986017-3000596.jpg?tf=1200x' alt='SeeAir, el sistema para bucear sin bombona durante 5 horas, a 12 metros de profundidad (vídeo)' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciencia/graban-video-pez-profundidad-8336-metros-parece-alienigena-1225134'>Graban en vídeo el pez a más profundidad, 8.336 metros, y parece alienígena</a></h4>
     <a href='https://computerhoy.com/ciencia/graban-video-pez-profundidad-8336-metros-parece-alienigena-1225134' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/graban-video-pez-profundidad-8336-metros-parece-alienigena-3000410.jpg?tf=1200x' alt='Graban en vídeo el pez a más profundidad, 8.336 metros, y parece alienígena' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/gaming/asus-rog-ally-mas-potente-steam-deck-1225132'>Asus ROG Ally, la consola portátil con Windows 11, mucho más potente que Steam Deck</a></h4>
     <a href='https://computerhoy.com/gaming/asus-rog-ally-mas-potente-steam-deck-1225132' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/asus-rog-ally-3000404.jpg?tf=1200x' alt='Asus ROG Ally, la consola portátil con Windows 11, mucho más potente que Steam Deck' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/modo-monje-truco-procrastinacion-1225124'>Así funciona el Modo Monje contra la procrastinación: recuperas hasta 3 horas al día</a></h4>
-    <a href='https://computerhoy.com/life/modo-monje-truco-procrastinacion-1225124' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/funciona-modo-monje-procrastinacion-recuperas-3-horas-dia-3000370.jpg?tf=1200x' alt='Así funciona el Modo Monje contra la procrastinación: recuperas hasta 3 horas al día' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/pequena-aerolinea-espanola-cuela-mejores-mundo-1225116'>Una pequeña aerolínea española se cuela entre las mejores del mundo</a></h4>
-    <a href='https://computerhoy.com/life/pequena-aerolinea-espanola-cuela-mejores-mundo-1225116' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/viajar-avion-3000390.jpg?tf=1200x' alt='Una pequeña aerolínea española se cuela entre las mejores del mundo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/dinero-deberias-tener-ahorrado-edad-no-tener-problemas-financieros-1225112'>Este es el dinero que deberías tener ahorrado según tu edad para no tener problemas financieros</a></h4>
-    <a href='https://computerhoy.com/life/dinero-deberias-tener-ahorrado-edad-no-tener-problemas-financieros-1225112' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/ahorrar-dinero-3000384.jpg?tf=1200x' alt='Este es el dinero que deberías tener ahorrado según tu edad para no tener problemas financieros' />
     </a>
 </div>
 
