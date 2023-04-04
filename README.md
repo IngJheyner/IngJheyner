@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/moviles/motorola-edge-40-pro-toma-contacto-1225486'>Así es el Motorola Edge 40 Pro, toma de contacto</a></h4>
+    <a href='https://computerhoy.com/moviles/motorola-edge-40-pro-toma-contacto-1225486' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/motorola-edge-40-pro-3001072.jpg?tf=1200x' alt='Así es el Motorola Edge 40 Pro, toma de contacto' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/moviles/motorola-edge-40-pro-nuevo-buque-insignia-precio-ganga-1223652'>Motorola Edge 40 Pro, nuevo buque insignia a precio de ganga</a></h4>
+    <a href='https://computerhoy.com/moviles/motorola-edge-40-pro-nuevo-buque-insignia-precio-ganga-1223652' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/motorola-edge-40-pro-2997936.jpg?tf=1200x' alt='Motorola Edge 40 Pro, nuevo buque insignia a precio de ganga' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/internet/electrodomesticos-vampiro-arruinan-senal-router-wifi-1225404'>Estos 5 electrodomésticos vampiro estarían arruinando la señal de tu router WiFi</a></h4>
+    <a href='https://computerhoy.com/internet/electrodomesticos-vampiro-arruinan-senal-router-wifi-1225404' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/estos-5-electrodomesticos-vampiro-estarian-arruinando-senal-router-wifi-3000784.jpg?tf=1200x' alt='Estos 5 electrodomésticos vampiro estarían arruinando la señal de tu router WiFi' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tv/lg-oled-500-euros-descuento-oferta-1225334'>Esta Smart TV de LG tiene más de 500€ de descuento y uno de los mejores paneles</a></h4>
+    <a href='https://computerhoy.com/tv/lg-oled-500-euros-descuento-oferta-1225334' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/smart-tv-lg-4k-oled-evo-3000606.jpg?tf=1200x' alt='Esta Smart TV de LG tiene más de 500€ de descuento y uno de los mejores paneles' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/funciona-near-share-copia-airdrop-apple-llega-windows-11-1225416'>Así funciona Near Share, la copia de AirDrop de Apple que llega a Windows 11</a></h4>
     <a href='https://computerhoy.com/funciona-near-share-copia-airdrop-apple-llega-windows-11-1225416' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/near-share-3000800.jpg?tf=1200x' alt='Así funciona Near Share, la copia de AirDrop de Apple que llega a Windows 11' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/todo-sabemos-gpt-5-proxima-gran-actualizacion-chatgpt-1225382'>Todo lo que sabemos de GPT-5 y la próxima gran actualización de ChatGPT</a></h4>
-    <a href='https://computerhoy.com/tecnologia/todo-sabemos-gpt-5-proxima-gran-actualizacion-chatgpt-1225382' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/todo-sabemos-gpt-5-proxima-gran-actualizacion-chatgpt-3000734.jpg?tf=1200x' alt='Todo lo que sabemos de GPT-5 y la próxima gran actualización de ChatGPT' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/criptos/elon-musk-juega-cambiando-icono-twitter-dogecoin-1225402'>¿Por qué sale un Shiba Inu como icono de Twitter? Elon Musk se la juega con Dogecoin</a></h4>
-    <a href='https://computerhoy.com/criptos/elon-musk-juega-cambiando-icono-twitter-dogecoin-1225402' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/esperanza-twitter-acepte-criptomoneda-dogecoin-como-oficial-dispara-valor-2859579.jpg?tf=1200x' alt='¿Por qué sale un Shiba Inu como icono de Twitter? Elon Musk se la juega con Dogecoin' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/nuevo-pais-une-veto-tiktok-dispositivos-gubernamentales-1225368'>Un nuevo país se une al veto de TikTok en los dispositivos gubernamentales</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/nuevo-pais-une-veto-tiktok-dispositivos-gubernamentales-1225368' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/nuevo-pais-une-veto-tiktok-dispositivos-gubernamentales-3000704.jpg?tf=1200x' alt='Un nuevo país se une al veto de TikTok en los dispositivos gubernamentales' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/audio/rode-lanza-wireless-me-version-economica-microfono-arrasa-tiktok-youtube-1225374'>Rode lanza Wireless ME, la versión económica del micrófono que arrasa en TikTok y YouTube</a></h4>
-    <a href='https://computerhoy.com/audio/rode-lanza-wireless-me-version-economica-microfono-arrasa-tiktok-youtube-1225374' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/rode-connect-3000660.jpg?tf=1200x' alt='Rode lanza Wireless ME, la versión económica del micrófono que arrasa en TikTok y YouTube' />
     </a>
 </div>
 
