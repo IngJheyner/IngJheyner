@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/pc/intel-no-tira-toalla-ya-prepara-tarjetas-graficas-battlemage-celestial-1225650'>Intel no tira la toalla y ya prepara las tarjetas gráficas Battlemage y Celestial</a></h4>
+    <a href='https://computerhoy.com/pc/intel-no-tira-toalla-ya-prepara-tarjetas-graficas-battlemage-celestial-1225650' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/intel-arc-nueva-marca-graficos-alto-rendimiento-2440637.jpg?tf=1200x' alt='Intel no tira la toalla y ya prepara las tarjetas gráficas Battlemage y Celestial' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/listas/tecnologia/mejores-paginas-dibujar-online-305949'>Las mejores páginas para dibujar online</a></h4>
+    <a href='https://computerhoy.com/listas/tecnologia/mejores-paginas-dibujar-online-305949' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/09/dibujo.jpg?tf=1200x' alt='Las mejores páginas para dibujar online' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/mejores/moviles-snapdragon-778g-1225022'>Estos son los mejores móviles con procesador Snapdragon 778G del momento</a></h4>
+    <a href='https://computerhoy.com/mejores/moviles-snapdragon-778g-1225022' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/motorola-edge-30-2725461.jpg?tf=1200x' alt='Estos son los mejores móviles con procesador Snapdragon 778G del momento' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/google/google-cambia-opinion-quejas-limite-google-drive-ha-eliminado-1225610'>Google cambia de opinión tras las quejas: el límite de Google Drive se ha eliminado</a></h4>
     <a href='https://computerhoy.com/google/google-cambia-opinion-quejas-limite-google-drive-ha-eliminado-1225610' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/02/drive.jpg?tf=1200x' alt='Google cambia de opinión tras las quejas: el límite de Google Drive se ha eliminado' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/moviles/oneplus-nord-ce-3-lite-nuevo-oneplus-economico-llega-junto-auriculares-nord-buds-2-1225580'>OnePlus Nord CE 3 Lite: el nuevo OnePlus económico que llega junto con los auriculares Nord Buds 2</a></h4>
     <a href='https://computerhoy.com/moviles/oneplus-nord-ce-3-lite-nuevo-oneplus-economico-llega-junto-auriculares-nord-buds-2-1225580' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/oneplus-nord-ce-3-lite-nuevo-oneplus-economico-llega-junto-auriculares-nord-buds-2-3001186.jpg?tf=1200x' alt='OnePlus Nord CE 3 Lite: el nuevo OnePlus económico que llega junto con los auriculares Nord Buds 2' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/mapa-te-permite-enfadar-cada-pais-europa-tan-solo-frase-1225542'>Este mapa te permite enfadar a cada país de Europa con tan solo una frase</a></h4>
-    <a href='https://computerhoy.com/life/mapa-te-permite-enfadar-cada-pais-europa-tan-solo-frase-1225542' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/mapa-te-permite-enfadar-cada-pais-europa-tan-solo-frase-3001124.jpg?tf=1200x' alt='Este mapa te permite enfadar a cada país de Europa con tan solo una frase' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/motorola-edge-40-pro-toma-contacto-1225486'>Así es el Motorola Edge 40 Pro, toma de contacto</a></h4>
-    <a href='https://computerhoy.com/moviles/motorola-edge-40-pro-toma-contacto-1225486' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/motorola-edge-40-pro-3001072.jpg?tf=1200x' alt='Así es el Motorola Edge 40 Pro, toma de contacto' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/motorola-edge-40-pro-nuevo-buque-insignia-precio-ganga-1223652'>Motorola Edge 40 Pro, nuevo buque insignia a precio de ganga</a></h4>
-    <a href='https://computerhoy.com/moviles/motorola-edge-40-pro-nuevo-buque-insignia-precio-ganga-1223652' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/motorola-edge-40-pro-2997936.jpg?tf=1200x' alt='Motorola Edge 40 Pro, nuevo buque insignia a precio de ganga' />
     </a>
 </div>
 
