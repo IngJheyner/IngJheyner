@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/google/google-cambia-opinion-quejas-limite-google-drive-ha-eliminado-1225610'>Google cambia de opinión tras las quejas: el límite de Google Drive se ha eliminado</a></h4>
+    <a href='https://computerhoy.com/google/google-cambia-opinion-quejas-limite-google-drive-ha-eliminado-1225610' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/02/drive.jpg?tf=1200x' alt='Google cambia de opinión tras las quejas: el límite de Google Drive se ha eliminado' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/moviles/oneplus-nord-ce-3-lite-nuevo-oneplus-economico-llega-junto-auriculares-nord-buds-2-1225580'>OnePlus Nord CE 3 Lite: el nuevo OnePlus económico que llega junto con los auriculares Nord Buds 2</a></h4>
+    <a href='https://computerhoy.com/moviles/oneplus-nord-ce-3-lite-nuevo-oneplus-economico-llega-junto-auriculares-nord-buds-2-1225580' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/oneplus-nord-ce-3-lite-nuevo-oneplus-economico-llega-junto-auriculares-nord-buds-2-3001186.jpg?tf=1200x' alt='OnePlus Nord CE 3 Lite: el nuevo OnePlus económico que llega junto con los auriculares Nord Buds 2' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/mapa-te-permite-enfadar-cada-pais-europa-tan-solo-frase-1225542'>Este mapa te permite enfadar a cada país de Europa con tan solo una frase</a></h4>
+    <a href='https://computerhoy.com/life/mapa-te-permite-enfadar-cada-pais-europa-tan-solo-frase-1225542' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/mapa-te-permite-enfadar-cada-pais-europa-tan-solo-frase-3001124.jpg?tf=1200x' alt='Este mapa te permite enfadar a cada país de Europa con tan solo una frase' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/moviles/motorola-edge-40-pro-toma-contacto-1225486'>Así es el Motorola Edge 40 Pro, toma de contacto</a></h4>
     <a href='https://computerhoy.com/moviles/motorola-edge-40-pro-toma-contacto-1225486' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/motorola-edge-40-pro-3001072.jpg?tf=1200x' alt='Así es el Motorola Edge 40 Pro, toma de contacto' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/moviles/motorola-edge-40-pro-nuevo-buque-insignia-precio-ganga-1223652'>Motorola Edge 40 Pro, nuevo buque insignia a precio de ganga</a></h4>
     <a href='https://computerhoy.com/moviles/motorola-edge-40-pro-nuevo-buque-insignia-precio-ganga-1223652' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/motorola-edge-40-pro-2997936.jpg?tf=1200x' alt='Motorola Edge 40 Pro, nuevo buque insignia a precio de ganga' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/electrodomesticos-vampiro-arruinan-senal-router-wifi-1225404'>Estos 5 electrodomésticos vampiro estarían arruinando la señal de tu router WiFi</a></h4>
-    <a href='https://computerhoy.com/internet/electrodomesticos-vampiro-arruinan-senal-router-wifi-1225404' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/estos-5-electrodomesticos-vampiro-estarian-arruinando-senal-router-wifi-3000784.jpg?tf=1200x' alt='Estos 5 electrodomésticos vampiro estarían arruinando la señal de tu router WiFi' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tv/lg-oled-500-euros-descuento-oferta-1225334'>Esta Smart TV de LG tiene más de 500€ de descuento y uno de los mejores paneles</a></h4>
-    <a href='https://computerhoy.com/tv/lg-oled-500-euros-descuento-oferta-1225334' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/smart-tv-lg-4k-oled-evo-3000606.jpg?tf=1200x' alt='Esta Smart TV de LG tiene más de 500€ de descuento y uno de los mejores paneles' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/funciona-near-share-copia-airdrop-apple-llega-windows-11-1225416'>Así funciona Near Share, la copia de AirDrop de Apple que llega a Windows 11</a></h4>
-    <a href='https://computerhoy.com/funciona-near-share-copia-airdrop-apple-llega-windows-11-1225416' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/near-share-3000800.jpg?tf=1200x' alt='Así funciona Near Share, la copia de AirDrop de Apple que llega a Windows 11' />
     </a>
 </div>
 
