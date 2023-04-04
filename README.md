@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/funciona-near-share-copia-airdrop-apple-llega-windows-11-1225416'>Así funciona Near Share, la copia de AirDrop de Apple que llega a Windows 11</a></h4>
+    <a href='https://computerhoy.com/funciona-near-share-copia-airdrop-apple-llega-windows-11-1225416' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/near-share-3000800.jpg?tf=1200x' alt='Así funciona Near Share, la copia de AirDrop de Apple que llega a Windows 11' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/todo-sabemos-gpt-5-proxima-gran-actualizacion-chatgpt-1225382'>Todo lo que sabemos de GPT-5 y la próxima gran actualización de ChatGPT</a></h4>
     <a href='https://computerhoy.com/tecnologia/todo-sabemos-gpt-5-proxima-gran-actualizacion-chatgpt-1225382' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/todo-sabemos-gpt-5-proxima-gran-actualizacion-chatgpt-3000734.jpg?tf=1200x' alt='Todo lo que sabemos de GPT-5 y la próxima gran actualización de ChatGPT' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/audio/rode-lanza-wireless-me-version-economica-microfono-arrasa-tiktok-youtube-1225374'>Rode lanza Wireless ME, la versión económica del micrófono que arrasa en TikTok y YouTube</a></h4>
     <a href='https://computerhoy.com/audio/rode-lanza-wireless-me-version-economica-microfono-arrasa-tiktok-youtube-1225374' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/rode-connect-3000660.jpg?tf=1200x' alt='Rode lanza Wireless ME, la versión económica del micrófono que arrasa en TikTok y YouTube' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/eeuu-afirma-globo-espia-chino-robo-informacion-sensible-1225354'>EE.UU. afirma que el globo espía chino recopiló información sensible en su recorrido por el país</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/eeuu-afirma-globo-espia-chino-robo-informacion-sensible-1225354' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/eeuu-afirma-globo-espia-chino-recopilo-informacion-sensible-recorrido-pais-3000618.jpg?tf=1200x' alt='EE.UU. afirma que el globo espía chino recopiló información sensible en su recorrido por el país' />
     </a>
 </div>
 
