@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/intel-no-tira-toalla-ya-prepara-tarjetas-graficas-battlemage-celestial-1225650'>Intel no tira la toalla y ya prepara las tarjetas gráficas Battlemage y Celestial</a></h4>
-    <a href='https://computerhoy.com/pc/intel-no-tira-toalla-ya-prepara-tarjetas-graficas-battlemage-celestial-1225650' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/intel-arc-nueva-marca-graficos-alto-rendimiento-2440637.jpg?tf=1200x' alt='Intel no tira la toalla y ya prepara las tarjetas gráficas Battlemage y Celestial' />
+    <h4><a href='https://computerhoy.com/google/google-earth-actualiza-timelapse-imagenes-2021-2022-ya-puedes-ver-como-ha-cambiado-tierra-40-anos-1225702'>Google Earth actualiza su Timelapse con imágenes de 2021 y 2022, ya puedes ver cómo ha cambiado la Tierra en 40 años</a></h4>
+    <a href='https://computerhoy.com/google/google-earth-actualiza-timelapse-imagenes-2021-2022-ya-puedes-ver-como-ha-cambiado-tierra-40-anos-1225702' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/google-earth-actualiza-timelapse-imagenes-2021-2022-ya-puedes-ver-como-ha-cambiado-tierra-40-anos-3001504.jpg?tf=1200x' alt='Google Earth actualiza su Timelapse con imágenes de 2021 y 2022, ya puedes ver cómo ha cambiado la Tierra en 40 años' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/listas/tecnologia/mejores-paginas-dibujar-online-305949'>Las mejores páginas para dibujar online</a></h4>
-    <a href='https://computerhoy.com/listas/tecnologia/mejores-paginas-dibujar-online-305949' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/09/dibujo.jpg?tf=1200x' alt='Las mejores páginas para dibujar online' />
+    <h4><a href='https://computerhoy.com/apple/apple-detiene-fabricacion-procesadores-m2-baja-demanda-macbooks-1225686'>Apple detiene la fabricación de procesadores M2 por la bajada en la demanda de MacBooks</a></h4>
+    <a href='https://computerhoy.com/apple/apple-detiene-fabricacion-procesadores-m2-baja-demanda-macbooks-1225686' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/portatil-macbook-pro-procesador-m2-apple-tiene-descuento-220-euros-precio-lanzamiento-2944052.jpg?tf=1200x' alt='Apple detiene la fabricación de procesadores M2 por la bajada en la demanda de MacBooks' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/mejores/moviles-snapdragon-778g-1225022'>Estos son los mejores móviles con procesador Snapdragon 778G del momento</a></h4>
-    <a href='https://computerhoy.com/mejores/moviles-snapdragon-778g-1225022' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/motorola-edge-30-2725461.jpg?tf=1200x' alt='Estos son los mejores móviles con procesador Snapdragon 778G del momento' />
+    <h4><a href='https://computerhoy.com/streaming/serie-rebook-harry-potter-hbo-max-1225704'>HBO y Warner están ultimando el reboot de Harry Potter, será una serie de 7 temporadas, una por cada libro</a></h4>
+    <a href='https://computerhoy.com/streaming/serie-rebook-harry-potter-hbo-max-1225704' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/03/warner-prohibe-buhos-exhibiciones-vivo-harry-potter-2276705.jpg?tf=1200x' alt='HBO y Warner están ultimando el reboot de Harry Potter, será una serie de 7 temporadas, una por cada libro' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/google-cambia-opinion-quejas-limite-google-drive-ha-eliminado-1225610'>Google cambia de opinión tras las quejas: el límite de Google Drive se ha eliminado</a></h4>
-    <a href='https://computerhoy.com/google/google-cambia-opinion-quejas-limite-google-drive-ha-eliminado-1225610' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/02/drive.jpg?tf=1200x' alt='Google cambia de opinión tras las quejas: el límite de Google Drive se ha eliminado' />
+    <h4><a href='https://computerhoy.com/streaming/posible-estes-viendo-mal-disney-no-te-hayas-dado-cuenta-1225696'>Es posible que estés viendo mal Disney+ y no te hayas dado cuenta</a></h4>
+    <a href='https://computerhoy.com/streaming/posible-estes-viendo-mal-disney-no-te-hayas-dado-cuenta-1225696' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/disney-disney-plus-2543387.jpg?tf=1200x' alt='Es posible que estés viendo mal Disney+ y no te hayas dado cuenta' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/oneplus-nord-ce-3-lite-nuevo-oneplus-economico-llega-junto-auriculares-nord-buds-2-1225580'>OnePlus Nord CE 3 Lite: el nuevo OnePlus económico que llega junto con los auriculares Nord Buds 2</a></h4>
-    <a href='https://computerhoy.com/moviles/oneplus-nord-ce-3-lite-nuevo-oneplus-economico-llega-junto-auriculares-nord-buds-2-1225580' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/oneplus-nord-ce-3-lite-nuevo-oneplus-economico-llega-junto-auriculares-nord-buds-2-3001186.jpg?tf=1200x' alt='OnePlus Nord CE 3 Lite: el nuevo OnePlus económico que llega junto con los auriculares Nord Buds 2' />
+    <h4><a href='https://computerhoy.com/windows/nuevas-filtraciones-muestran-cambios-muy-importantes-windows-12-1225692'>Nuevas filtraciones muestran cambios muy importantes en Windows 12</a></h4>
+    <a href='https://computerhoy.com/windows/nuevas-filtraciones-muestran-cambios-muy-importantes-windows-12-1225692' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/windows-11-2987236.jpg?tf=1200x' alt='Nuevas filtraciones muestran cambios muy importantes en Windows 12' />
     </a>
 </div>
 
