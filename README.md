@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/apple-planea-inutilizar-iphone-antiguos-1226148'>Apple planea inutilizar los iPhone antiguos</a></h4>
+    <a href='https://computerhoy.com/apple/apple-planea-inutilizar-iphone-antiguos-1226148' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/11/iphone-5-2124309.jpg?tf=1200x' alt='Apple planea inutilizar los iPhone antiguos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/ni-exito-ni-dinero-razon-deberias-montar-propio-negocio-steve-jobs-1226062'>Ni éxito, ni dinero, esta es la razón por la que deberías montar tu propio negocio según Steve Jobs</a></h4>
     <a href='https://computerhoy.com/life/ni-exito-ni-dinero-razon-deberias-montar-propio-negocio-steve-jobs-1226062' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/steve-jobs-sosteniendo-iphone-2986484.jpg?tf=1200x' alt='Ni éxito, ni dinero, esta es la razón por la que deberías montar tu propio negocio según Steve Jobs' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/pantallas-oled-apple-cuestan-3140-millones-dolares-samsung-1226004'>Las pantallas OLED de Apple le cuestan 3.140 millones de dólares a Samsung</a></h4>
     <a href='https://computerhoy.com/pantallas-oled-apple-cuestan-3140-millones-dolares-samsung-1226004' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/ipad-10a-generacion-analisis-opinion-2897828.jpg?tf=1200x' alt='Las pantallas OLED de Apple le cuestan 3.140 millones de dólares a Samsung' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/7-lugares-donde-no-debes-conectarte-nunca-red-wifi-gratuita-1225972'>7 lugares donde no debes conectarte nunca a la red WiFi gratuita</a></h4>
-    <a href='https://computerhoy.com/tecnologia/7-lugares-donde-no-debes-conectarte-nunca-red-wifi-gratuita-1225972' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/free-wifi-3001876.jpg?tf=1200x' alt='7 lugares donde no debes conectarte nunca a la red WiFi gratuita' />
     </a>
 </div>
 
