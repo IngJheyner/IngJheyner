@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/analisis/huawei-watch-ultimate-analisis-review-caracteristicas-precio-1224896'>Review del Huawei Watch Ultimate: el mayor rival del Apple Watch Ultra también es más barato</a></h4>
+    <a href='https://computerhoy.com/analisis/huawei-watch-ultimate-analisis-review-caracteristicas-precio-1224896' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/huawei-watch-ultimate-analisis-opinion-3001446.jpg?tf=1200x' alt='Review del Huawei Watch Ultimate: el mayor rival del Apple Watch Ultra también es más barato' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/noticias-tecnologia-hoy-miercoles-5-abril-1225936'>22 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
+    <a href='https://computerhoy.com/tecnologia/noticias-tecnologia-hoy-miercoles-5-abril-1225936' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/22-noticias-tecnologia-comenzar-manana-informado-ultimo-3001816.jpg?tf=1200x' alt='22 noticias de tecnología para comenzar la mañana informado de lo último' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/moviles/mejores-moviles-procesador-dimensity-9000-puedes-comprar-1225534'>Mejores móviles con procesador Dimensity 9000 que puedes comprar</a></h4>
+    <a href='https://computerhoy.com/moviles/mejores-moviles-procesador-dimensity-9000-puedes-comprar-1225534' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/xiaomi-12-pro-2649325.jpg?tf=1200x' alt='Mejores móviles con procesador Dimensity 9000 que puedes comprar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-tocadiscos-bluetooth-1048581'>Vintage pero no mucho: estos tocadiscos Bluetooth aúnan tradición y modernidad</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-tocadiscos-bluetooth-1048581' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/tocadiscos-alta-gama-2680995.jpg?tf=1200x' alt='Vintage pero no mucho: estos tocadiscos Bluetooth aúnan tradición y modernidad' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/criptos/caza-tesoro-luna-nakamoto-1-lunarcrush-bitcoins-rover-1225716'>Caza del Tesoro en la Luna: van a enviar 62 Bitcoins en un rover, quien los encuentre se los queda</a></h4>
     <a href='https://computerhoy.com/criptos/caza-tesoro-luna-nakamoto-1-lunarcrush-bitcoins-rover-1225716' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/caza-tesoro-luna-van-enviar-62-bitcoins-rover-quien-encuentre-queda-3001584.jpg?tf=1200x' alt='Caza del Tesoro en la Luna: van a enviar 62 Bitcoins en un rover, quien los encuentre se los queda' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tv/sony-pantalla-realidad-espacial-3d-sin-gafas-elf-sr2-1225714'>Sony presenta la primera pantalla de Realidad Espacial: 3D sin gafas (vídeo)</a></h4>
-    <a href='https://computerhoy.com/tv/sony-pantalla-realidad-espacial-3d-sin-gafas-elf-sr2-1225714' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/verticalimage1680641782270-3001534.jpg?tf=1200x' alt='Sony presenta la primera pantalla de Realidad Espacial: 3D sin gafas (vídeo)' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/google-earth-actualiza-timelapse-imagenes-2021-2022-ya-puedes-ver-como-ha-cambiado-tierra-40-anos-1225702'>Google Earth actualiza su Timelapse con imágenes de 2021 y 2022, ya puedes ver cómo ha cambiado la Tierra en 40 años</a></h4>
-    <a href='https://computerhoy.com/google/google-earth-actualiza-timelapse-imagenes-2021-2022-ya-puedes-ver-como-ha-cambiado-tierra-40-anos-1225702' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/google-earth-actualiza-timelapse-imagenes-2021-2022-ya-puedes-ver-como-ha-cambiado-tierra-40-anos-3001504.jpg?tf=1200x' alt='Google Earth actualiza su Timelapse con imágenes de 2021 y 2022, ya puedes ver cómo ha cambiado la Tierra en 40 años' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/apple-detiene-fabricacion-procesadores-m2-baja-demanda-macbooks-1225686'>Apple detiene la fabricación de procesadores M2 por la bajada en la demanda de MacBooks</a></h4>
-    <a href='https://computerhoy.com/apple/apple-detiene-fabricacion-procesadores-m2-baja-demanda-macbooks-1225686' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/portatil-macbook-pro-procesador-m2-apple-tiene-descuento-220-euros-precio-lanzamiento-2944052.jpg?tf=1200x' alt='Apple detiene la fabricación de procesadores M2 por la bajada en la demanda de MacBooks' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/streaming/serie-rebook-harry-potter-hbo-max-1225704'>HBO y Warner están ultimando el reboot de Harry Potter, será una serie de 7 temporadas, una por cada libro</a></h4>
-    <a href='https://computerhoy.com/streaming/serie-rebook-harry-potter-hbo-max-1225704' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/03/warner-prohibe-buhos-exhibiciones-vivo-harry-potter-2276705.jpg?tf=1200x' alt='HBO y Warner están ultimando el reboot de Harry Potter, será una serie de 7 temporadas, una por cada libro' />
     </a>
 </div>
 
