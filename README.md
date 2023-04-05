@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/ni-exito-ni-dinero-razon-deberias-montar-propio-negocio-steve-jobs-1226062'>Ni éxito, ni dinero, esta es la razón por la que deberías montar tu propio negocio según Steve Jobs</a></h4>
+    <a href='https://computerhoy.com/life/ni-exito-ni-dinero-razon-deberias-montar-propio-negocio-steve-jobs-1226062' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/steve-jobs-sosteniendo-iphone-2986484.jpg?tf=1200x' alt='Ni éxito, ni dinero, esta es la razón por la que deberías montar tu propio negocio según Steve Jobs' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/espacio/james-webb-ha-observado-galaxias-antiguas-jamas-observadas-1226022'>El James Webb de la NASA ha observado las galaxias más antiguas jamás observadas</a></h4>
+    <a href='https://computerhoy.com/espacio/james-webb-ha-observado-galaxias-antiguas-jamas-observadas-1226022' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/james-webb-2940640.jpg?tf=1200x' alt='El James Webb de la NASA ha observado las galaxias más antiguas jamás observadas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tutoriales/como-activar-aviso-radares-google-maps-waze-mapas-apple-1225964'>Cómo hacer que Google Maps, Waze y Mapas de Apple te avisen de los radares de la carretera </a></h4>
     <a href='https://computerhoy.com/tutoriales/como-activar-aviso-radares-google-maps-waze-mapas-apple-1225964' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/como-hacer-google-maps-waze-mapas-apple-te-avisen-radares-carretera-3001906.jpg?tf=1200x' alt='Cómo hacer que Google Maps, Waze y Mapas de Apple te avisen de los radares de la carretera ' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/7-lugares-donde-no-debes-conectarte-nunca-red-wifi-gratuita-1225972'>7 lugares donde no debes conectarte nunca a la red WiFi gratuita</a></h4>
     <a href='https://computerhoy.com/tecnologia/7-lugares-donde-no-debes-conectarte-nunca-red-wifi-gratuita-1225972' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/free-wifi-3001876.jpg?tf=1200x' alt='7 lugares donde no debes conectarte nunca a la red WiFi gratuita' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/windows-12-todo-debes-saber-1225966'>Windows 12: todo lo que debes saber</a></h4>
-    <a href='https://computerhoy.com/windows/windows-12-todo-debes-saber-1225966' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/concepto-windows-12-tiene-todo-falta-windows-11-2516391.jpg?tf=1200x' alt='Windows 12: todo lo que debes saber' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/gaming/facebook-messenger-agrega-juegos-multijugador-videollamadas-1225956'>Facebook añade juegos multijugador para entretenerse durante las videollamadas en Messenger</a></h4>
-    <a href='https://computerhoy.com/gaming/facebook-messenger-agrega-juegos-multijugador-videollamadas-1225956' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/facebook-anade-juegos-multijugador-entretenerte-durante-videollamadas-messenger-3001856.jpg?tf=1200x' alt='Facebook añade juegos multijugador para entretenerse durante las videollamadas en Messenger' />
     </a>
 </div>
 
