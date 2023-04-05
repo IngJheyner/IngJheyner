@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/ex-ingeniero-google-revela-fecha-exacta-humanidad-lograra-inmortalidad-1226156'>Un ex ingeniero de Google revela la fecha exacta en que la humanidad logrará la inmortalidad</a></h4>
+    <a href='https://computerhoy.com/ciencia/ex-ingeniero-google-revela-fecha-exacta-humanidad-lograra-inmortalidad-1226156' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/riesgos-gpt-4-cuando-ia-empieza-ser-demasiado-inteligente-2984734.jpg?tf=1200x' alt='Un ex ingeniero de Google revela la fecha exacta en que la humanidad logrará la inmortalidad' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/streaming/xumo-tv-mejor-opcion-ver-gratis-250-canales-television-todo-debes-saber-1226128'>Xumo TV, la mejor opción para ver gratis 250 canales de televisión: todo lo que debes saber</a></h4>
+    <a href='https://computerhoy.com/streaming/xumo-tv-mejor-opcion-ver-gratis-250-canales-television-todo-debes-saber-1226128' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/xumo-tv-3002196.jpg?tf=1200x' alt='Xumo TV, la mejor opción para ver gratis 250 canales de televisión: todo lo que debes saber' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/estafa-vinted-muchos-pican-ropa-gratis-vendedores-enganados-1226122'>La estafa de Vinted en la que muchos pican: ropa gratis y vendedores engañados</a></h4>
+    <a href='https://computerhoy.com/apps/estafa-vinted-muchos-pican-ropa-gratis-vendedores-enganados-1226122' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/vinted-estafa-3002194.jpg?tf=1200x' alt='La estafa de Vinted en la que muchos pican: ropa gratis y vendedores engañados' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apple/apple-planea-inutilizar-iphone-antiguos-1226148'>Apple planea inutilizar los iPhone antiguos</a></h4>
     <a href='https://computerhoy.com/apple/apple-planea-inutilizar-iphone-antiguos-1226148' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/11/iphone-5-2124309.jpg?tf=1200x' alt='Apple planea inutilizar los iPhone antiguos' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/life/ni-exito-ni-dinero-razon-deberias-montar-propio-negocio-steve-jobs-1226062'>Ni éxito, ni dinero, esta es la razón por la que deberías montar tu propio negocio según Steve Jobs</a></h4>
     <a href='https://computerhoy.com/life/ni-exito-ni-dinero-razon-deberias-montar-propio-negocio-steve-jobs-1226062' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/steve-jobs-sosteniendo-iphone-2986484.jpg?tf=1200x' alt='Ni éxito, ni dinero, esta es la razón por la que deberías montar tu propio negocio según Steve Jobs' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/james-webb-ha-observado-galaxias-antiguas-jamas-observadas-1226022'>El James Webb de la NASA ha observado las galaxias más antiguas jamás observadas</a></h4>
-    <a href='https://computerhoy.com/espacio/james-webb-ha-observado-galaxias-antiguas-jamas-observadas-1226022' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/james-webb-2940640.jpg?tf=1200x' alt='El James Webb de la NASA ha observado las galaxias más antiguas jamás observadas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-activar-aviso-radares-google-maps-waze-mapas-apple-1225964'>Cómo hacer que Google Maps, Waze y Mapas de Apple te avisen de los radares de la carretera </a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-activar-aviso-radares-google-maps-waze-mapas-apple-1225964' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/como-hacer-google-maps-waze-mapas-apple-te-avisen-radares-carretera-3001906.jpg?tf=1200x' alt='Cómo hacer que Google Maps, Waze y Mapas de Apple te avisen de los radares de la carretera ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pantallas-oled-apple-cuestan-3140-millones-dolares-samsung-1226004'>Las pantallas OLED de Apple le cuestan 3.140 millones de dólares a Samsung</a></h4>
-    <a href='https://computerhoy.com/pantallas-oled-apple-cuestan-3140-millones-dolares-samsung-1226004' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/ipad-10a-generacion-analisis-opinion-2897828.jpg?tf=1200x' alt='Las pantallas OLED de Apple le cuestan 3.140 millones de dólares a Samsung' />
     </a>
 </div>
 
