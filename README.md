@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/huawei-watch-ultimate-analisis-review-caracteristicas-precio-1224896'>Review del Huawei Watch Ultimate: el mayor rival del Apple Watch Ultra también es más barato</a></h4>
-    <a href='https://computerhoy.com/analisis/huawei-watch-ultimate-analisis-review-caracteristicas-precio-1224896' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/huawei-watch-ultimate-analisis-opinion-3001446.jpg?tf=1200x' alt='Review del Huawei Watch Ultimate: el mayor rival del Apple Watch Ultra también es más barato' />
+    <h4><a href='https://computerhoy.com/tutoriales/como-activar-aviso-radares-google-maps-waze-mapas-apple-1225964'>Cómo hacer que Google Maps, Waze y Mapas de Apple te avisen de los radares de la carretera </a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-activar-aviso-radares-google-maps-waze-mapas-apple-1225964' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/como-hacer-google-maps-waze-mapas-apple-te-avisen-radares-carretera-3001906.jpg?tf=1200x' alt='Cómo hacer que Google Maps, Waze y Mapas de Apple te avisen de los radares de la carretera ' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/noticias-tecnologia-hoy-miercoles-5-abril-1225936'>22 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
-    <a href='https://computerhoy.com/tecnologia/noticias-tecnologia-hoy-miercoles-5-abril-1225936' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/22-noticias-tecnologia-comenzar-manana-informado-ultimo-3001816.jpg?tf=1200x' alt='22 noticias de tecnología para comenzar la mañana informado de lo último' />
+    <h4><a href='https://computerhoy.com/pantallas-oled-apple-cuestan-3140-millones-dolares-samsung-1226004'>Las pantallas OLED de Apple le cuestan 3.140 millones de dólares a Samsung</a></h4>
+    <a href='https://computerhoy.com/pantallas-oled-apple-cuestan-3140-millones-dolares-samsung-1226004' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/ipad-10a-generacion-analisis-opinion-2897828.jpg?tf=1200x' alt='Las pantallas OLED de Apple le cuestan 3.140 millones de dólares a Samsung' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/mejores-moviles-procesador-dimensity-9000-puedes-comprar-1225534'>Mejores móviles con procesador Dimensity 9000 que puedes comprar</a></h4>
-    <a href='https://computerhoy.com/moviles/mejores-moviles-procesador-dimensity-9000-puedes-comprar-1225534' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/xiaomi-12-pro-2649325.jpg?tf=1200x' alt='Mejores móviles con procesador Dimensity 9000 que puedes comprar' />
+    <h4><a href='https://computerhoy.com/tecnologia/7-lugares-donde-no-debes-conectarte-nunca-red-wifi-gratuita-1225972'>7 lugares donde no debes conectarte nunca a la red WiFi gratuita</a></h4>
+    <a href='https://computerhoy.com/tecnologia/7-lugares-donde-no-debes-conectarte-nunca-red-wifi-gratuita-1225972' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/free-wifi-3001876.jpg?tf=1200x' alt='7 lugares donde no debes conectarte nunca a la red WiFi gratuita' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-tocadiscos-bluetooth-1048581'>Vintage pero no mucho: estos tocadiscos Bluetooth aúnan tradición y modernidad</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-tocadiscos-bluetooth-1048581' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/tocadiscos-alta-gama-2680995.jpg?tf=1200x' alt='Vintage pero no mucho: estos tocadiscos Bluetooth aúnan tradición y modernidad' />
+    <h4><a href='https://computerhoy.com/windows/windows-12-todo-debes-saber-1225966'>Windows 12: todo lo que debes saber</a></h4>
+    <a href='https://computerhoy.com/windows/windows-12-todo-debes-saber-1225966' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/concepto-windows-12-tiene-todo-falta-windows-11-2516391.jpg?tf=1200x' alt='Windows 12: todo lo que debes saber' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/criptos/caza-tesoro-luna-nakamoto-1-lunarcrush-bitcoins-rover-1225716'>Caza del Tesoro en la Luna: van a enviar 62 Bitcoins en un rover, quien los encuentre se los queda</a></h4>
-    <a href='https://computerhoy.com/criptos/caza-tesoro-luna-nakamoto-1-lunarcrush-bitcoins-rover-1225716' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/caza-tesoro-luna-van-enviar-62-bitcoins-rover-quien-encuentre-queda-3001584.jpg?tf=1200x' alt='Caza del Tesoro en la Luna: van a enviar 62 Bitcoins en un rover, quien los encuentre se los queda' />
+    <h4><a href='https://computerhoy.com/gaming/facebook-messenger-agrega-juegos-multijugador-videollamadas-1225956'>Facebook añade juegos multijugador para entretenerse durante las videollamadas en Messenger</a></h4>
+    <a href='https://computerhoy.com/gaming/facebook-messenger-agrega-juegos-multijugador-videollamadas-1225956' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/facebook-anade-juegos-multijugador-entretenerte-durante-videollamadas-messenger-3001856.jpg?tf=1200x' alt='Facebook añade juegos multijugador para entretenerse durante las videollamadas en Messenger' />
     </a>
 </div>
 
