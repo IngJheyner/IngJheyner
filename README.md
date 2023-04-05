@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/ex-ingeniero-google-revela-fecha-exacta-humanidad-lograra-inmortalidad-1226156'>Un ex ingeniero de Google revela la fecha exacta en que la humanidad logrará la inmortalidad</a></h4>
-    <a href='https://computerhoy.com/ciencia/ex-ingeniero-google-revela-fecha-exacta-humanidad-lograra-inmortalidad-1226156' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/riesgos-gpt-4-cuando-ia-empieza-ser-demasiado-inteligente-2984734.jpg?tf=1200x' alt='Un ex ingeniero de Google revela la fecha exacta en que la humanidad logrará la inmortalidad' />
+    <h4><a href='https://computerhoy.com/apps/google-obligara-apps-opcion-borrar-cuenta-1226230'>Google va a obligar a todas las apps de Android a incluir una opción para borrar la cuenta y los datos de usuario</a></h4>
+    <a href='https://computerhoy.com/apps/google-obligara-apps-opcion-borrar-cuenta-1226230' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/google-va-obligar-todas-apps-android-incluir-opcion-borrar-cuenta-datos-usuario-3002316.jpg?tf=1200x' alt='Google va a obligar a todas las apps de Android a incluir una opción para borrar la cuenta y los datos de usuario' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/streaming/xumo-tv-mejor-opcion-ver-gratis-250-canales-television-todo-debes-saber-1226128'>Xumo TV, la mejor opción para ver gratis 250 canales de televisión: todo lo que debes saber</a></h4>
-    <a href='https://computerhoy.com/streaming/xumo-tv-mejor-opcion-ver-gratis-250-canales-television-todo-debes-saber-1226128' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/xumo-tv-3002196.jpg?tf=1200x' alt='Xumo TV, la mejor opción para ver gratis 250 canales de televisión: todo lo que debes saber' />
+    <h4><a href='https://computerhoy.com/software/midjourney-estrena-caracteristica-descubriras-como-creo-imagen-1226154'>Midjourney estrena una característica con la que descubrirás cómo se creó una imagen</a></h4>
+    <a href='https://computerhoy.com/software/midjourney-estrena-caracteristica-descubriras-como-creo-imagen-1226154' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/inteligencia-artificial-2998412.jpg?tf=1200x' alt='Midjourney estrena una característica con la que descubrirás cómo se creó una imagen' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/estafa-vinted-muchos-pican-ropa-gratis-vendedores-enganados-1226122'>La estafa de Vinted en la que muchos pican: ropa gratis y vendedores engañados</a></h4>
-    <a href='https://computerhoy.com/apps/estafa-vinted-muchos-pican-ropa-gratis-vendedores-enganados-1226122' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/vinted-estafa-3002194.jpg?tf=1200x' alt='La estafa de Vinted en la que muchos pican: ropa gratis y vendedores engañados' />
+    <h4><a href='https://computerhoy.com/life/truco-viral-tiktok-peor-puedes-hacer-limpiar-freidora-aire-1226152'>Este truco viral de TikTok es lo peor que puedes hacer para limpiar tu freidora de aire</a></h4>
+    <a href='https://computerhoy.com/life/truco-viral-tiktok-peor-puedes-hacer-limpiar-freidora-aire-1226152' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/freidora-aire-toda-familia-philips-tamano-xl-mejores-ofertas-semana-2780243.jpg?tf=1200x' alt='Este truco viral de TikTok es lo peor que puedes hacer para limpiar tu freidora de aire' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/apple-planea-inutilizar-iphone-antiguos-1226148'>Apple planea inutilizar los iPhone antiguos</a></h4>
-    <a href='https://computerhoy.com/apple/apple-planea-inutilizar-iphone-antiguos-1226148' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/11/iphone-5-2124309.jpg?tf=1200x' alt='Apple planea inutilizar los iPhone antiguos' />
+    <h4><a href='https://computerhoy.com/tecnologia/interrogatorio-chatgpt-gpt-4-sin-censura-1226224'>Cómo asesinar a una persona y cómo crear una bomba: así fue interrogada la inteligencia artificial GPT-4 antes de ser liberada</a></h4>
+    <a href='https://computerhoy.com/tecnologia/interrogatorio-chatgpt-gpt-4-sin-censura-1226224' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/mo-asesinar-persona-como-crear-bomba-fue-interrogada-inteligencia-artificial-gpt-4-antes-ser-liberada-3002290.jpg?tf=1200x' alt='Cómo asesinar a una persona y cómo crear una bomba: así fue interrogada la inteligencia artificial GPT-4 antes de ser liberada' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/ni-exito-ni-dinero-razon-deberias-montar-propio-negocio-steve-jobs-1226062'>Ni éxito, ni dinero, esta es la razón por la que deberías montar tu propio negocio según Steve Jobs</a></h4>
-    <a href='https://computerhoy.com/life/ni-exito-ni-dinero-razon-deberias-montar-propio-negocio-steve-jobs-1226062' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/steve-jobs-sosteniendo-iphone-2986484.jpg?tf=1200x' alt='Ni éxito, ni dinero, esta es la razón por la que deberías montar tu propio negocio según Steve Jobs' />
+    <h4><a href='https://computerhoy.com/apps/whatsapp-llevara-android-caracteristicas-deseadas-version-iphone-1226150'>WhatsApp llevará a Android una de las características más deseadas de la versión para iPhone</a></h4>
+    <a href='https://computerhoy.com/apps/whatsapp-llevara-android-caracteristicas-deseadas-version-iphone-1226150' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/whatsapp-estrena-chat-oficial-resolver-dudas-recibir-ayuda-2992604.jpg?tf=1200x' alt='WhatsApp llevará a Android una de las características más deseadas de la versión para iPhone' />
     </a>
 </div>
 
