@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/criptos/caza-tesoro-luna-nakamoto-1-lunarcrush-bitcoins-rover-1225716'>Caza del Tesoro en la Luna: van a enviar 62 Bitcoins en un rover, quien los encuentre se los queda</a></h4>
+    <a href='https://computerhoy.com/criptos/caza-tesoro-luna-nakamoto-1-lunarcrush-bitcoins-rover-1225716' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/caza-tesoro-luna-van-enviar-62-bitcoins-rover-quien-encuentre-queda-3001584.jpg?tf=1200x' alt='Caza del Tesoro en la Luna: van a enviar 62 Bitcoins en un rover, quien los encuentre se los queda' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tv/sony-pantalla-realidad-espacial-3d-sin-gafas-elf-sr2-1225714'>Sony presenta la primera pantalla de Realidad Espacial: 3D sin gafas (vídeo)</a></h4>
+    <a href='https://computerhoy.com/tv/sony-pantalla-realidad-espacial-3d-sin-gafas-elf-sr2-1225714' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/verticalimage1680641782270-3001534.jpg?tf=1200x' alt='Sony presenta la primera pantalla de Realidad Espacial: 3D sin gafas (vídeo)' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/google/google-earth-actualiza-timelapse-imagenes-2021-2022-ya-puedes-ver-como-ha-cambiado-tierra-40-anos-1225702'>Google Earth actualiza su Timelapse con imágenes de 2021 y 2022, ya puedes ver cómo ha cambiado la Tierra en 40 años</a></h4>
     <a href='https://computerhoy.com/google/google-earth-actualiza-timelapse-imagenes-2021-2022-ya-puedes-ver-como-ha-cambiado-tierra-40-anos-1225702' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/google-earth-actualiza-timelapse-imagenes-2021-2022-ya-puedes-ver-como-ha-cambiado-tierra-40-anos-3001504.jpg?tf=1200x' alt='Google Earth actualiza su Timelapse con imágenes de 2021 y 2022, ya puedes ver cómo ha cambiado la Tierra en 40 años' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/streaming/serie-rebook-harry-potter-hbo-max-1225704'>HBO y Warner están ultimando el reboot de Harry Potter, será una serie de 7 temporadas, una por cada libro</a></h4>
     <a href='https://computerhoy.com/streaming/serie-rebook-harry-potter-hbo-max-1225704' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/03/warner-prohibe-buhos-exhibiciones-vivo-harry-potter-2276705.jpg?tf=1200x' alt='HBO y Warner están ultimando el reboot de Harry Potter, será una serie de 7 temporadas, una por cada libro' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/streaming/posible-estes-viendo-mal-disney-no-te-hayas-dado-cuenta-1225696'>Es posible que estés viendo mal Disney+ y no te hayas dado cuenta</a></h4>
-    <a href='https://computerhoy.com/streaming/posible-estes-viendo-mal-disney-no-te-hayas-dado-cuenta-1225696' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/disney-disney-plus-2543387.jpg?tf=1200x' alt='Es posible que estés viendo mal Disney+ y no te hayas dado cuenta' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/nuevas-filtraciones-muestran-cambios-muy-importantes-windows-12-1225692'>Nuevas filtraciones muestran cambios muy importantes en Windows 12</a></h4>
-    <a href='https://computerhoy.com/windows/nuevas-filtraciones-muestran-cambios-muy-importantes-windows-12-1225692' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/windows-11-2987236.jpg?tf=1200x' alt='Nuevas filtraciones muestran cambios muy importantes en Windows 12' />
     </a>
 </div>
 
