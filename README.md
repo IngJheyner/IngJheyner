@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/secreto-torrija-perfecta-creador-mejor-espana-2023-1226536'>Este es el secreto de la torrija perfecta según el creador de la mejor de España en 2023</a></h4>
-    <a href='https://computerhoy.com/life/secreto-torrija-perfecta-creador-mejor-espana-2023-1226536' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/secreto-torrija-perfecta-creador-mejor-espana-2023-3002682.jpg?tf=1200x' alt='Este es el secreto de la torrija perfecta según el creador de la mejor de España en 2023' />
+    <h4><a href='https://computerhoy.com/ciberseguridad/ataques-basados-ultrasonido-pueden-poner-jaque-asistentes-voz-otros-dispositivos-inteligentes-1226596'>Ataques basados en ultrasonido pueden poner en jaque a los asistentes de voz y otros dispositivos inteligentes</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/ataques-basados-ultrasonido-pueden-poner-jaque-asistentes-voz-otros-dispositivos-inteligentes-1226596' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/dispositivo-alexa-3002784.jpg?tf=1200x' alt='Ataques basados en ultrasonido pueden poner en jaque a los asistentes de voz y otros dispositivos inteligentes' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/he-probado-bard-google-deja-mucho-desear-comparacion-chatgpt-1226472'>He probado el nuevo Bard de Google y deja mucho que desear en comparación con ChatGPT</a></h4>
-    <a href='https://computerhoy.com/tecnologia/he-probado-bard-google-deja-mucho-desear-comparacion-chatgpt-1226472' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/he-probado-nuevo-bard-google-deja-mucho-desear-comparacion-chatgpt-3002664.jpg?tf=1200x' alt='He probado el nuevo Bard de Google y deja mucho que desear en comparación con ChatGPT' />
+    <h4><a href='https://computerhoy.com/hogar/xiaomi-vuelve-sorprender-presenta-tendedero-casi-magico-capacidades-secado-1226578'>Xiaomi vuelve a sorprender y presenta un tendedero casi mágico con capacidades de secado</a></h4>
+    <a href='https://computerhoy.com/hogar/xiaomi-vuelve-sorprender-presenta-tendedero-casi-magico-capacidades-secado-1226578' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/xiaomi-vuelve-sorprender-presenta-tendedero-casi-magico-capacidades-secado-3002744.jpg?tf=1200x' alt='Xiaomi vuelve a sorprender y presenta un tendedero casi mágico con capacidades de secado' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/mercado-vr-tambalea-pero-apple-quiere-lanzar-dispositivo-2023-1226508'>El mercado VR se tambalea pero Apple sigue empeñado en lanzar sus gafas de realidad mixta en 2023</a></h4>
-    <a href='https://computerhoy.com/apple/mercado-vr-tambalea-pero-apple-quiere-lanzar-dispositivo-2023-1226508' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/mercado-vr-tambalea-pero-apple-sigue-empenado-lanzar-gafas-realidad-mixta-2023-3002628.jpg?tf=1200x' alt='El mercado VR se tambalea pero Apple sigue empeñado en lanzar sus gafas de realidad mixta en 2023' />
+    <h4><a href='https://computerhoy.com/apple/documento-tecnico-bitcoin-ha-estado-oculto-ordenadores-apple-2018-1226572'>El documento técnico de Bitcoin ha estado oculto en los ordenadores Apple desde 2018</a></h4>
+    <a href='https://computerhoy.com/apple/documento-tecnico-bitcoin-ha-estado-oculto-ordenadores-apple-2018-1226572' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/documento-tecnico-bitcoin-ha-estado-oculto-ordenadores-apple-2018-3002738.jpg?tf=1200x' alt='El documento técnico de Bitcoin ha estado oculto en los ordenadores Apple desde 2018' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/samsung-no-rinde-anuncia-procesadores-exynos-gpu-amd-radeon-1226496'>Samsung no se rinde y anuncia más procesadores Exynos con GPU AMD Radeon</a></h4>
-    <a href='https://computerhoy.com/moviles/samsung-no-rinde-anuncia-procesadores-exynos-gpu-amd-radeon-1226496' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/samsung-no-rinde-anuncia-procesadores-exynos-gpu-amd-radeon-3002610.jpg?tf=1200x' alt='Samsung no se rinde y anuncia más procesadores Exynos con GPU AMD Radeon' />
+    <h4><a href='https://computerhoy.com/noticias/hardware/que-es-como-funciona-cpu-64368'>Qué es y cómo funciona una CPU</a></h4>
+    <a href='https://computerhoy.com/noticias/hardware/que-es-como-funciona-cpu-64368' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2017/06/245554-cpu.jpg?tf=1200x' alt='Qué es y cómo funciona una CPU' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/stickers-whatsapp-como-instalar-paquetes-gratis-1217598'>Stickers de WhatsApp: cómo instalar paquetes gratis</a></h4>
-    <a href='https://computerhoy.com/tutoriales/stickers-whatsapp-como-instalar-paquetes-gratis-1217598' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/stickers-whatsapp-2987620.jpg?tf=1200x' alt='Stickers de WhatsApp: cómo instalar paquetes gratis' />
+    <h4><a href='https://computerhoy.com/tecnologia/accesorios-montar-oficina-viajes-teletrabajo-1225604'>Estos son los accesorios que usamos para montar nuestra oficina cuando viajamos</a></h4>
+    <a href='https://computerhoy.com/tecnologia/accesorios-montar-oficina-viajes-teletrabajo-1225604' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/persona-trabajando-casa-portatil-haciendo-videollamada-3001358.jpg?tf=1200x' alt='Estos son los accesorios que usamos para montar nuestra oficina cuando viajamos' />
     </a>
 </div>
 
