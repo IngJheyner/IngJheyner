@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/enventur-caseta-hinchable-perros-resistencia-militar-video-1226462'>Enventur, la caseta hinchable para perros con resistencia militar (vídeo)</a></h4>
+    <a href='https://computerhoy.com/life/enventur-caseta-hinchable-perros-resistencia-militar-video-1226462' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/verticalimage1680742764757-3002546.jpg?tf=1200x' alt='Enventur, la caseta hinchable para perros con resistencia militar (vídeo)' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/entretenimiento/warner-cumple-100-anos-reestreno-cine-superman-exorcista-1226234'>Warner cumple 100 años y lo celebra reestrenando en cines películas míticas como Superman o El Exorcista</a></h4>
     <a href='https://computerhoy.com/entretenimiento/warner-cumple-100-anos-reestreno-cine-superman-exorcista-1226234' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/warner-cumple-100-anos-celebra-reestrenando-cines-peliculas-miticas-como-superman-exorcista-3002328.jpg?tf=1200x' alt='Warner cumple 100 años y lo celebra reestrenando en cines películas míticas como Superman o El Exorcista' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/life/truco-viral-tiktok-peor-puedes-hacer-limpiar-freidora-aire-1226152'>Este truco viral de TikTok es lo peor que puedes hacer para limpiar tu freidora de aire</a></h4>
     <a href='https://computerhoy.com/life/truco-viral-tiktok-peor-puedes-hacer-limpiar-freidora-aire-1226152' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/freidora-aire-toda-familia-philips-tamano-xl-mejores-ofertas-semana-2780243.jpg?tf=1200x' alt='Este truco viral de TikTok es lo peor que puedes hacer para limpiar tu freidora de aire' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/interrogatorio-chatgpt-gpt-4-sin-censura-1226224'>Cómo asesinar a una persona y cómo crear una bomba: así fue interrogada la inteligencia artificial GPT-4 antes de ser liberada</a></h4>
-    <a href='https://computerhoy.com/tecnologia/interrogatorio-chatgpt-gpt-4-sin-censura-1226224' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/mo-asesinar-persona-como-crear-bomba-fue-interrogada-inteligencia-artificial-gpt-4-antes-ser-liberada-3002290.jpg?tf=1200x' alt='Cómo asesinar a una persona y cómo crear una bomba: así fue interrogada la inteligencia artificial GPT-4 antes de ser liberada' />
     </a>
 </div>
 
