@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/warner-cumple-100-anos-reestreno-cine-superman-exorcista-1226234'>Warner cumple 100 años y lo celebra reestrenando en cines películas míticas como Superman o El Exorcista</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/warner-cumple-100-anos-reestreno-cine-superman-exorcista-1226234' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/warner-cumple-100-anos-celebra-reestrenando-cines-peliculas-miticas-como-superman-exorcista-3002328.jpg?tf=1200x' alt='Warner cumple 100 años y lo celebra reestrenando en cines películas míticas como Superman o El Exorcista' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apps/google-obligara-apps-opcion-borrar-cuenta-1226230'>Google va a obligar a todas las apps de Android a incluir una opción para borrar la cuenta y los datos de usuario</a></h4>
     <a href='https://computerhoy.com/apps/google-obligara-apps-opcion-borrar-cuenta-1226230' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/google-va-obligar-todas-apps-android-incluir-opcion-borrar-cuenta-datos-usuario-3002316.jpg?tf=1200x' alt='Google va a obligar a todas las apps de Android a incluir una opción para borrar la cuenta y los datos de usuario' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/interrogatorio-chatgpt-gpt-4-sin-censura-1226224'>Cómo asesinar a una persona y cómo crear una bomba: así fue interrogada la inteligencia artificial GPT-4 antes de ser liberada</a></h4>
     <a href='https://computerhoy.com/tecnologia/interrogatorio-chatgpt-gpt-4-sin-censura-1226224' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/mo-asesinar-persona-como-crear-bomba-fue-interrogada-inteligencia-artificial-gpt-4-antes-ser-liberada-3002290.jpg?tf=1200x' alt='Cómo asesinar a una persona y cómo crear una bomba: así fue interrogada la inteligencia artificial GPT-4 antes de ser liberada' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/whatsapp-llevara-android-caracteristicas-deseadas-version-iphone-1226150'>WhatsApp llevará a Android una de las características más deseadas de la versión para iPhone</a></h4>
-    <a href='https://computerhoy.com/apps/whatsapp-llevara-android-caracteristicas-deseadas-version-iphone-1226150' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/whatsapp-estrena-chat-oficial-resolver-dudas-recibir-ayuda-2992604.jpg?tf=1200x' alt='WhatsApp llevará a Android una de las características más deseadas de la versión para iPhone' />
     </a>
 </div>
 
