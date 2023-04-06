@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/microsoft-trae-bing-chat-teclado-swiftkey-android-1226600'>Microsoft trae Bing Chat al teclado SwiftKey en Android</a></h4>
+    <a href='https://computerhoy.com/tecnologia/microsoft-trae-bing-chat-teclado-swiftkey-android-1226600' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/microsoft-trae-bing-chat-teclado-swiftkey-android-3002790.jpg?tf=1200x' alt='Microsoft trae Bing Chat al teclado SwiftKey en Android' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/motor/triangulos-emergencia-podrian-decirnos-adios-antes-previsto-1226598'>Los triángulos de emergencia podrían decirnos adiós antes de lo previsto</a></h4>
+    <a href='https://computerhoy.com/motor/triangulos-emergencia-podrian-decirnos-adios-antes-previsto-1226598' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/03/triangulo-emergencia-2253099.jpg?tf=1200x' alt='Los triángulos de emergencia podrían decirnos adiós antes de lo previsto' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciberseguridad/ataques-basados-ultrasonido-pueden-poner-jaque-asistentes-voz-otros-dispositivos-inteligentes-1226596'>Ataques basados en ultrasonido pueden poner en jaque a los asistentes de voz y otros dispositivos inteligentes</a></h4>
     <a href='https://computerhoy.com/ciberseguridad/ataques-basados-ultrasonido-pueden-poner-jaque-asistentes-voz-otros-dispositivos-inteligentes-1226596' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/dispositivo-alexa-3002784.jpg?tf=1200x' alt='Ataques basados en ultrasonido pueden poner en jaque a los asistentes de voz y otros dispositivos inteligentes' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/apple/documento-tecnico-bitcoin-ha-estado-oculto-ordenadores-apple-2018-1226572'>El documento técnico de Bitcoin ha estado oculto en los ordenadores Apple desde 2018</a></h4>
     <a href='https://computerhoy.com/apple/documento-tecnico-bitcoin-ha-estado-oculto-ordenadores-apple-2018-1226572' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/documento-tecnico-bitcoin-ha-estado-oculto-ordenadores-apple-2018-3002738.jpg?tf=1200x' alt='El documento técnico de Bitcoin ha estado oculto en los ordenadores Apple desde 2018' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/hardware/que-es-como-funciona-cpu-64368'>Qué es y cómo funciona una CPU</a></h4>
-    <a href='https://computerhoy.com/noticias/hardware/que-es-como-funciona-cpu-64368' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2017/06/245554-cpu.jpg?tf=1200x' alt='Qué es y cómo funciona una CPU' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/accesorios-montar-oficina-viajes-teletrabajo-1225604'>Estos son los accesorios que usamos para montar nuestra oficina cuando viajamos</a></h4>
-    <a href='https://computerhoy.com/tecnologia/accesorios-montar-oficina-viajes-teletrabajo-1225604' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/persona-trabajando-casa-portatil-haciendo-videollamada-3001358.jpg?tf=1200x' alt='Estos son los accesorios que usamos para montar nuestra oficina cuando viajamos' />
     </a>
 </div>
 
