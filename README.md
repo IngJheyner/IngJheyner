@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/enventur-caseta-hinchable-perros-resistencia-militar-video-1226462'>Enventur, la caseta hinchable para perros con resistencia militar (vídeo)</a></h4>
-    <a href='https://computerhoy.com/life/enventur-caseta-hinchable-perros-resistencia-militar-video-1226462' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/verticalimage1680742764757-3002546.jpg?tf=1200x' alt='Enventur, la caseta hinchable para perros con resistencia militar (vídeo)' />
+    <h4><a href='https://computerhoy.com/tecnologia/como-big-data-transformando-investigacion-medica-1225954'>Así es como el 'big data' está transformando la investigación médica </a></h4>
+    <a href='https://computerhoy.com/tecnologia/como-big-data-transformando-investigacion-medica-1225954' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/como-big-data-transformando-investigacion-medica-3002050.jpg?tf=1200x' alt='Así es como el 'big data' está transformando la investigación médica ' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/warner-cumple-100-anos-reestreno-cine-superman-exorcista-1226234'>Warner cumple 100 años y lo celebra reestrenando en cines películas míticas como Superman o El Exorcista</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/warner-cumple-100-anos-reestreno-cine-superman-exorcista-1226234' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/warner-cumple-100-anos-celebra-reestrenando-cines-peliculas-miticas-como-superman-exorcista-3002328.jpg?tf=1200x' alt='Warner cumple 100 años y lo celebra reestrenando en cines películas míticas como Superman o El Exorcista' />
+    <h4><a href='https://computerhoy.com/tecnologia/estos-consejos-te-ayudaran-sacar-mayor-partido-chatgpt-1219810'>Cómo sacar el mayor partido a ChatGPT para unirte a la revolución de la IA </a></h4>
+    <a href='https://computerhoy.com/tecnologia/estos-consejos-te-ayudaran-sacar-mayor-partido-chatgpt-1219810' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/como-usar-chatgpt-mundo-real-unirte-revolucion-ia-3000276.jpg?tf=1200x' alt='Cómo sacar el mayor partido a ChatGPT para unirte a la revolución de la IA ' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/google-obligara-apps-opcion-borrar-cuenta-1226230'>Google va a obligar a todas las apps de Android a incluir una opción para borrar la cuenta y los datos de usuario</a></h4>
-    <a href='https://computerhoy.com/apps/google-obligara-apps-opcion-borrar-cuenta-1226230' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/google-va-obligar-todas-apps-android-incluir-opcion-borrar-cuenta-datos-usuario-3002316.jpg?tf=1200x' alt='Google va a obligar a todas las apps de Android a incluir una opción para borrar la cuenta y los datos de usuario' />
+    <h4><a href='https://computerhoy.com/ciencia/halo-rojo-360-kilometros-cielo-italia-elve-1226464'>Qué es el inmenso halo rojo de 360 Kilómetros que ha aparecido en el cielo de Italia</a></h4>
+    <a href='https://computerhoy.com/ciencia/halo-rojo-360-kilometros-cielo-italia-elve-1226464' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/inmenso-halo-rojo-360-kilometros-ha-aparecido-cielos-italianos-3002550.jpg?tf=1200x' alt='Qué es el inmenso halo rojo de 360 Kilómetros que ha aparecido en el cielo de Italia' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/software/midjourney-estrena-caracteristica-descubriras-como-creo-imagen-1226154'>Midjourney estrena una característica con la que descubrirás cómo se creó una imagen</a></h4>
-    <a href='https://computerhoy.com/software/midjourney-estrena-caracteristica-descubriras-como-creo-imagen-1226154' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/inteligencia-artificial-2998412.jpg?tf=1200x' alt='Midjourney estrena una característica con la que descubrirás cómo se creó una imagen' />
+    <h4><a href='https://computerhoy.com/redes/red-basura-cuando-recoger-desperdicios-sirve-tambien-medir-cobertura-1214924'>¿Red de basura? Cuando el recoger desperdicios sirve también para medir la cobertura</a></h4>
+    <a href='https://computerhoy.com/redes/red-basura-cuando-recoger-desperdicios-sirve-tambien-medir-cobertura-1214924' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/07/empresa-espanola-busca-datos-basura.jpg?tf=1200x' alt='¿Red de basura? Cuando el recoger desperdicios sirve también para medir la cobertura' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/truco-viral-tiktok-peor-puedes-hacer-limpiar-freidora-aire-1226152'>Este truco viral de TikTok es lo peor que puedes hacer para limpiar tu freidora de aire</a></h4>
-    <a href='https://computerhoy.com/life/truco-viral-tiktok-peor-puedes-hacer-limpiar-freidora-aire-1226152' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/freidora-aire-toda-familia-philips-tamano-xl-mejores-ofertas-semana-2780243.jpg?tf=1200x' alt='Este truco viral de TikTok es lo peor que puedes hacer para limpiar tu freidora de aire' />
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/samsung-galaxy-a13-merece-pena-alternativas-baratas-1087025'>Samsung Galaxy A13: ¿merece la pena? Características y alternativas baratas</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/samsung-galaxy-a13-merece-pena-alternativas-baratas-1087025' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/samsung-galaxy-a13-3001998.jpg?tf=1200x' alt='Samsung Galaxy A13: ¿merece la pena? Características y alternativas baratas' />
     </a>
 </div>
 
