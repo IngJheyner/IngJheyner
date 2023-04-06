@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/secreto-torrija-perfecta-creador-mejor-espana-2023-1226536'>Este es el secreto de la torrija perfecta según el creador de la mejor de España en 2023</a></h4>
+    <a href='https://computerhoy.com/life/secreto-torrija-perfecta-creador-mejor-espana-2023-1226536' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/secreto-torrija-perfecta-creador-mejor-espana-2023-3002682.jpg?tf=1200x' alt='Este es el secreto de la torrija perfecta según el creador de la mejor de España en 2023' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/he-probado-bard-google-deja-mucho-desear-comparacion-chatgpt-1226472'>He probado el nuevo Bard de Google y deja mucho que desear en comparación con ChatGPT</a></h4>
+    <a href='https://computerhoy.com/tecnologia/he-probado-bard-google-deja-mucho-desear-comparacion-chatgpt-1226472' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/he-probado-nuevo-bard-google-deja-mucho-desear-comparacion-chatgpt-3002664.jpg?tf=1200x' alt='He probado el nuevo Bard de Google y deja mucho que desear en comparación con ChatGPT' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apple/mercado-vr-tambalea-pero-apple-quiere-lanzar-dispositivo-2023-1226508'>El mercado VR se tambalea pero Apple sigue empeñado en lanzar sus gafas de realidad mixta en 2023</a></h4>
     <a href='https://computerhoy.com/apple/mercado-vr-tambalea-pero-apple-quiere-lanzar-dispositivo-2023-1226508' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/mercado-vr-tambalea-pero-apple-sigue-empenado-lanzar-gafas-realidad-mixta-2023-3002628.jpg?tf=1200x' alt='El mercado VR se tambalea pero Apple sigue empeñado en lanzar sus gafas de realidad mixta en 2023' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tutoriales/stickers-whatsapp-como-instalar-paquetes-gratis-1217598'>Stickers de WhatsApp: cómo instalar paquetes gratis</a></h4>
     <a href='https://computerhoy.com/tutoriales/stickers-whatsapp-como-instalar-paquetes-gratis-1217598' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/stickers-whatsapp-2987620.jpg?tf=1200x' alt='Stickers de WhatsApp: cómo instalar paquetes gratis' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/aumentan-ciberestafas-debido-campana-renta-2022-23-1226474'>Protégete de las ciberestafas con motivo de la campaña de la Renta 2022/23 con estos consejos</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/aumentan-ciberestafas-debido-campana-renta-2022-23-1226474' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/protegete-ciberestafas-motivo-campana-renta-2022-23-estos-consejos-3002582.jpg?tf=1200x' alt='Protégete de las ciberestafas con motivo de la campaña de la Renta 2022/23 con estos consejos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-eliminar-chat-meet-barra-lateral-gmail-1199224'>Cómo eliminar el Chat y Meet de la barra lateral en Gmail</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-eliminar-chat-meet-barra-lateral-gmail-1199224' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/gmail-2954166.jpg?tf=1200x' alt='Cómo eliminar el Chat y Meet de la barra lateral en Gmail' />
     </a>
 </div>
 
