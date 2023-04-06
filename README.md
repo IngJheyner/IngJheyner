@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/mercado-vr-tambalea-pero-apple-quiere-lanzar-dispositivo-2023-1226508'>El mercado VR se tambalea pero Apple sigue empeñado en lanzar sus gafas de realidad mixta en 2023</a></h4>
+    <a href='https://computerhoy.com/apple/mercado-vr-tambalea-pero-apple-quiere-lanzar-dispositivo-2023-1226508' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/mercado-vr-tambalea-pero-apple-sigue-empenado-lanzar-gafas-realidad-mixta-2023-3002628.jpg?tf=1200x' alt='El mercado VR se tambalea pero Apple sigue empeñado en lanzar sus gafas de realidad mixta en 2023' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/moviles/samsung-no-rinde-anuncia-procesadores-exynos-gpu-amd-radeon-1226496'>Samsung no se rinde y anuncia más procesadores Exynos con GPU AMD Radeon</a></h4>
+    <a href='https://computerhoy.com/moviles/samsung-no-rinde-anuncia-procesadores-exynos-gpu-amd-radeon-1226496' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/samsung-no-rinde-anuncia-procesadores-exynos-gpu-amd-radeon-3002610.jpg?tf=1200x' alt='Samsung no se rinde y anuncia más procesadores Exynos con GPU AMD Radeon' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tutoriales/stickers-whatsapp-como-instalar-paquetes-gratis-1217598'>Stickers de WhatsApp: cómo instalar paquetes gratis</a></h4>
     <a href='https://computerhoy.com/tutoriales/stickers-whatsapp-como-instalar-paquetes-gratis-1217598' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/stickers-whatsapp-2987620.jpg?tf=1200x' alt='Stickers de WhatsApp: cómo instalar paquetes gratis' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tutoriales/como-eliminar-chat-meet-barra-lateral-gmail-1199224'>Cómo eliminar el Chat y Meet de la barra lateral en Gmail</a></h4>
     <a href='https://computerhoy.com/tutoriales/como-eliminar-chat-meet-barra-lateral-gmail-1199224' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/gmail-2954166.jpg?tf=1200x' alt='Cómo eliminar el Chat y Meet de la barra lateral en Gmail' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/3-formas-resetear-contrasena-administrador-windows-11-no-recuerdas-1208102'>3 formas de resetear la contraseña de Administrador en Windows 11 si no la recuerdas</a></h4>
-    <a href='https://computerhoy.com/tutoriales/3-formas-resetear-contrasena-administrador-windows-11-no-recuerdas-1208102' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/portada-2970326.jpg?tf=1200x' alt='3 formas de resetear la contraseña de Administrador en Windows 11 si no la recuerdas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/chatgpt-ia-harian-semana-laboral-4-dias-realidad-1226466'>ChatGPT y la inteligencia artificial harían de la semana laboral de 4 días una realidad</a></h4>
-    <a href='https://computerhoy.com/tecnologia/chatgpt-ia-harian-semana-laboral-4-dias-realidad-1226466' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/chatgpt-inteligencia-artificial-harian-semana-laboral-4-dias-realidad-3002556.jpg?tf=1200x' alt='ChatGPT y la inteligencia artificial harían de la semana laboral de 4 días una realidad' />
     </a>
 </div>
 
