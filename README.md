@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/como-big-data-transformando-investigacion-medica-1225954'>Así es como el 'big data' está transformando la investigación médica </a></h4>
-    <a href='https://computerhoy.com/tecnologia/como-big-data-transformando-investigacion-medica-1225954' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/como-big-data-transformando-investigacion-medica-3002050.jpg?tf=1200x' alt='Así es como el 'big data' está transformando la investigación médica ' />
+    <h4><a href='https://computerhoy.com/tutoriales/stickers-whatsapp-como-instalar-paquetes-gratis-1217598'>Stickers de WhatsApp: cómo instalar paquetes gratis</a></h4>
+    <a href='https://computerhoy.com/tutoriales/stickers-whatsapp-como-instalar-paquetes-gratis-1217598' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/stickers-whatsapp-2987620.jpg?tf=1200x' alt='Stickers de WhatsApp: cómo instalar paquetes gratis' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/estos-consejos-te-ayudaran-sacar-mayor-partido-chatgpt-1219810'>Cómo sacar el mayor partido a ChatGPT para unirte a la revolución de la IA </a></h4>
-    <a href='https://computerhoy.com/tecnologia/estos-consejos-te-ayudaran-sacar-mayor-partido-chatgpt-1219810' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/como-usar-chatgpt-mundo-real-unirte-revolucion-ia-3000276.jpg?tf=1200x' alt='Cómo sacar el mayor partido a ChatGPT para unirte a la revolución de la IA ' />
+    <h4><a href='https://computerhoy.com/ciberseguridad/aumentan-ciberestafas-debido-campana-renta-2022-23-1226474'>Protégete de las ciberestafas con motivo de la campaña de la Renta 2022/23 con estos consejos</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/aumentan-ciberestafas-debido-campana-renta-2022-23-1226474' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/protegete-ciberestafas-motivo-campana-renta-2022-23-estos-consejos-3002582.jpg?tf=1200x' alt='Protégete de las ciberestafas con motivo de la campaña de la Renta 2022/23 con estos consejos' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/halo-rojo-360-kilometros-cielo-italia-elve-1226464'>Qué es el inmenso halo rojo de 360 Kilómetros que ha aparecido en el cielo de Italia</a></h4>
-    <a href='https://computerhoy.com/ciencia/halo-rojo-360-kilometros-cielo-italia-elve-1226464' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/inmenso-halo-rojo-360-kilometros-ha-aparecido-cielos-italianos-3002550.jpg?tf=1200x' alt='Qué es el inmenso halo rojo de 360 Kilómetros que ha aparecido en el cielo de Italia' />
+    <h4><a href='https://computerhoy.com/tutoriales/como-eliminar-chat-meet-barra-lateral-gmail-1199224'>Cómo eliminar el Chat y Meet de la barra lateral en Gmail</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-eliminar-chat-meet-barra-lateral-gmail-1199224' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/gmail-2954166.jpg?tf=1200x' alt='Cómo eliminar el Chat y Meet de la barra lateral en Gmail' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/redes/red-basura-cuando-recoger-desperdicios-sirve-tambien-medir-cobertura-1214924'>¿Red de basura? Cuando el recoger desperdicios sirve también para medir la cobertura</a></h4>
-    <a href='https://computerhoy.com/redes/red-basura-cuando-recoger-desperdicios-sirve-tambien-medir-cobertura-1214924' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/07/empresa-espanola-busca-datos-basura.jpg?tf=1200x' alt='¿Red de basura? Cuando el recoger desperdicios sirve también para medir la cobertura' />
+    <h4><a href='https://computerhoy.com/tutoriales/3-formas-resetear-contrasena-administrador-windows-11-no-recuerdas-1208102'>3 formas de resetear la contraseña de Administrador en Windows 11 si no la recuerdas</a></h4>
+    <a href='https://computerhoy.com/tutoriales/3-formas-resetear-contrasena-administrador-windows-11-no-recuerdas-1208102' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/portada-2970326.jpg?tf=1200x' alt='3 formas de resetear la contraseña de Administrador en Windows 11 si no la recuerdas' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/samsung-galaxy-a13-merece-pena-alternativas-baratas-1087025'>Samsung Galaxy A13: ¿merece la pena? Características y alternativas baratas</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/samsung-galaxy-a13-merece-pena-alternativas-baratas-1087025' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/samsung-galaxy-a13-3001998.jpg?tf=1200x' alt='Samsung Galaxy A13: ¿merece la pena? Características y alternativas baratas' />
+    <h4><a href='https://computerhoy.com/tecnologia/chatgpt-ia-harian-semana-laboral-4-dias-realidad-1226466'>ChatGPT y la inteligencia artificial harían de la semana laboral de 4 días una realidad</a></h4>
+    <a href='https://computerhoy.com/tecnologia/chatgpt-ia-harian-semana-laboral-4-dias-realidad-1226466' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/chatgpt-inteligencia-artificial-harian-semana-laboral-4-dias-realidad-3002556.jpg?tf=1200x' alt='ChatGPT y la inteligencia artificial harían de la semana laboral de 4 días una realidad' />
     </a>
 </div>
 
