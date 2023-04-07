@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/cambiara-tecnologia-telemedicina-futuro-sanidad-1219578'>Telemedicina y metaverso, dos de las grandes tecnologías que protagonizarán la medicina del futuro</a></h4>
+    <a href='https://computerhoy.com/tecnologia/cambiara-tecnologia-telemedicina-futuro-sanidad-1219578' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/salud-tecnologia-como-pieza-clave-futuro-sector-sanitario-3001438.jpg?tf=1200x' alt='Telemedicina y metaverso, dos de las grandes tecnologías que protagonizarán la medicina del futuro' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-poco-893443'>Estos son los mejores móviles POCO que puedes comprar en 2023</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-poco-893443' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/poco-x5-poco-x5-pro-2948030.jpg?tf=1200x' alt='Estos son los mejores móviles POCO que puedes comprar en 2023' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/microsoft-trae-bing-chat-teclado-swiftkey-android-1226600'>Microsoft trae Bing Chat al teclado SwiftKey en Android</a></h4>
     <a href='https://computerhoy.com/tecnologia/microsoft-trae-bing-chat-teclado-swiftkey-android-1226600' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/microsoft-trae-bing-chat-teclado-swiftkey-android-3002790.jpg?tf=1200x' alt='Microsoft trae Bing Chat al teclado SwiftKey en Android' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/ciberseguridad/ataques-basados-ultrasonido-pueden-poner-jaque-asistentes-voz-otros-dispositivos-inteligentes-1226596'>Ataques basados en ultrasonido pueden poner en jaque a los asistentes de voz y otros dispositivos inteligentes</a></h4>
     <a href='https://computerhoy.com/ciberseguridad/ataques-basados-ultrasonido-pueden-poner-jaque-asistentes-voz-otros-dispositivos-inteligentes-1226596' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/dispositivo-alexa-3002784.jpg?tf=1200x' alt='Ataques basados en ultrasonido pueden poner en jaque a los asistentes de voz y otros dispositivos inteligentes' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/hogar/xiaomi-vuelve-sorprender-presenta-tendedero-casi-magico-capacidades-secado-1226578'>Xiaomi vuelve a sorprender y presenta un tendedero casi mágico con capacidades de secado</a></h4>
-    <a href='https://computerhoy.com/hogar/xiaomi-vuelve-sorprender-presenta-tendedero-casi-magico-capacidades-secado-1226578' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/xiaomi-vuelve-sorprender-presenta-tendedero-casi-magico-capacidades-secado-3002744.jpg?tf=1200x' alt='Xiaomi vuelve a sorprender y presenta un tendedero casi mágico con capacidades de secado' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/documento-tecnico-bitcoin-ha-estado-oculto-ordenadores-apple-2018-1226572'>El documento técnico de Bitcoin ha estado oculto en los ordenadores Apple desde 2018</a></h4>
-    <a href='https://computerhoy.com/apple/documento-tecnico-bitcoin-ha-estado-oculto-ordenadores-apple-2018-1226572' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/documento-tecnico-bitcoin-ha-estado-oculto-ordenadores-apple-2018-3002738.jpg?tf=1200x' alt='El documento técnico de Bitcoin ha estado oculto en los ordenadores Apple desde 2018' />
     </a>
 </div>
 
