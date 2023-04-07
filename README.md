@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-instalar-certificado-digital-movil-android-1215492'>Cómo instalar el certificado digital en un móvil Android</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-instalar-certificado-digital-movil-android-1215492' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/certificado-digital-2983738.jpg?tf=1200x' alt='Cómo instalar el certificado digital en un móvil Android' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/redes-sociales/bots-twitter-estan-muriendo-elon-musk-cierra-grifo-api-gratuita-1226848'>Los bots de Twitter están muriendo: Elon Musk cierra el grifo a su API gratuita</a></h4>
+    <a href='https://computerhoy.com/redes-sociales/bots-twitter-estan-muriendo-elon-musk-cierra-grifo-api-gratuita-1226848' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/elon-musk-2996806.jpg?tf=1200x' alt='Los bots de Twitter están muriendo: Elon Musk cierra el grifo a su API gratuita' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/4-formas-ejecutar-solucionador-problemas-compatibilidad-programas-windows-1206106'>4 formas de ejecutar el Solucionador de problemas de compatibilidad de programas en Windows</a></h4>
+    <a href='https://computerhoy.com/tutoriales/4-formas-ejecutar-solucionador-problemas-compatibilidad-programas-windows-1206106' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/windows-11-pantalla-ordenador-2613829.jpg?tf=1200x' alt='4 formas de ejecutar el Solucionador de problemas de compatibilidad de programas en Windows' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/microsoft-office-versiones-diferencias-mejores-alternativas-gratis-1213398'>Microsoft Office: versiones, diferencias, y mejores alternativas gratis</a></h4>
+    <a href='https://computerhoy.com/tecnologia/microsoft-office-versiones-diferencias-mejores-alternativas-gratis-1213398' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/microsoft-offce-2980456.jpg?tf=1200x' alt='Microsoft Office: versiones, diferencias, y mejores alternativas gratis' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/cambiara-tecnologia-telemedicina-futuro-sanidad-1219578'>Telemedicina y metaverso, dos de las grandes tecnologías que protagonizarán la medicina del futuro</a></h4>
     <a href='https://computerhoy.com/tecnologia/cambiara-tecnologia-telemedicina-futuro-sanidad-1219578' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/salud-tecnologia-como-pieza-clave-futuro-sector-sanitario-3001438.jpg?tf=1200x' alt='Telemedicina y metaverso, dos de las grandes tecnologías que protagonizarán la medicina del futuro' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-poco-893443'>Estos son los mejores móviles POCO que puedes comprar en 2023</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-poco-893443' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/poco-x5-poco-x5-pro-2948030.jpg?tf=1200x' alt='Estos son los mejores móviles POCO que puedes comprar en 2023' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/microsoft-trae-bing-chat-teclado-swiftkey-android-1226600'>Microsoft trae Bing Chat al teclado SwiftKey en Android</a></h4>
-    <a href='https://computerhoy.com/tecnologia/microsoft-trae-bing-chat-teclado-swiftkey-android-1226600' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/microsoft-trae-bing-chat-teclado-swiftkey-android-3002790.jpg?tf=1200x' alt='Microsoft trae Bing Chat al teclado SwiftKey en Android' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/triangulos-emergencia-podrian-decirnos-adios-antes-previsto-1226598'>Los triángulos de emergencia podrían decirnos adiós antes de lo previsto</a></h4>
-    <a href='https://computerhoy.com/motor/triangulos-emergencia-podrian-decirnos-adios-antes-previsto-1226598' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/03/triangulo-emergencia-2253099.jpg?tf=1200x' alt='Los triángulos de emergencia podrían decirnos adiós antes de lo previsto' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/ataques-basados-ultrasonido-pueden-poner-jaque-asistentes-voz-otros-dispositivos-inteligentes-1226596'>Ataques basados en ultrasonido pueden poner en jaque a los asistentes de voz y otros dispositivos inteligentes</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/ataques-basados-ultrasonido-pueden-poner-jaque-asistentes-voz-otros-dispositivos-inteligentes-1226596' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/dispositivo-alexa-3002784.jpg?tf=1200x' alt='Ataques basados en ultrasonido pueden poner en jaque a los asistentes de voz y otros dispositivos inteligentes' />
     </a>
 </div>
 
