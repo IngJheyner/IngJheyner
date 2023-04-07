@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/motor/videos-grabados-tesla-no-son-privados-empleados-tesla-habrian-visto-compartido-estos-videos-1226914'>Los videos grabados por tu Tesla no son privados: empleados de Tesla habrían visto y compartido estos videos</a></h4>
+    <a href='https://computerhoy.com/motor/videos-grabados-tesla-no-son-privados-empleados-tesla-habrian-visto-compartido-estos-videos-1226914' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/ya-puedes-tener-android-auto-carplay-coche-tesla-gracias-hack-2849791.jpg?tf=1200x' alt='Los videos grabados por tu Tesla no son privados: empleados de Tesla habrían visto y compartido estos videos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/imagen-sonido/asi-puedes-calibrar-tu-televisor-tener-mejor-imagen-74971'>Así puedes calibrar tu televisor para tener la mejor imagen</a></h4>
+    <a href='https://computerhoy.com/noticias/imagen-sonido/asi-puedes-calibrar-tu-televisor-tener-mejor-imagen-74971' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/panasonic-oled-mz2000-2919792.jpg?tf=1200x' alt='Así puedes calibrar tu televisor para tener la mejor imagen' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/smartwatches/amazfit-t-rex-ultra-smartwatch-aventuras-duradero-barato-1225350'>Amazfit T-Rex Ultra, la alternativa al Apple Watch Ultra que cuesta la mitad</a></h4>
+    <a href='https://computerhoy.com/smartwatches/amazfit-t-rex-ultra-smartwatch-aventuras-duradero-barato-1225350' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/amazfit-t-rex-ultra-3000850.jpg?tf=1200x' alt='Amazfit T-Rex Ultra, la alternativa al Apple Watch Ultra que cuesta la mitad' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/google/google-quiere-poner-trabajar-grafica-1226934'>Google quiere poner a trabajar a tu gráfica</a></h4>
+    <a href='https://computerhoy.com/google/google-quiere-poner-trabajar-grafica-1226934' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/google-chrome-2897360.jpg?tf=1200x' alt='Google quiere poner a trabajar a tu gráfica' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/gaming/sony-tendria-manos-consola-portatil-jugaras-remoto-ps5-1226928'>Sony tendría entre manos una consola portátil con la que jugarás en remoto a la PS5</a></h4>
     <a href='https://computerhoy.com/gaming/sony-tendria-manos-consola-portatil-jugaras-remoto-ps5-1226928' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/playstation-5-ps5-2963696.jpg?tf=1200x' alt='Sony tendría entre manos una consola portátil con la que jugarás en remoto a la PS5' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/industria/msi-victima-ciberataque-pone-aviso-usuarios-equipos-1226918'>MSI es victima de un ciberataque y pone en aviso a los usuarios de sus equipos</a></h4>
-    <a href='https://computerhoy.com/industria/msi-victima-ciberataque-pone-aviso-usuarios-equipos-1226918' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/msi-raider-2905090.jpg?tf=1200x' alt='MSI es victima de un ciberataque y pone en aviso a los usuarios de sus equipos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/google-no-quiere-quedarse-atras-integrara-inteligencia-artificial-buscador-1226890'>Google no quiere quedarse atrás e integrará inteligencia artificial a su buscador</a></h4>
-    <a href='https://computerhoy.com/google/google-no-quiere-quedarse-atras-integrara-inteligencia-artificial-buscador-1226890' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/google-anade-nuevas-funciones-busqueda-ayudar-usuarios-verificar-informacion-2995716.jpg?tf=1200x' alt='Google no quiere quedarse atrás e integrará inteligencia artificial a su buscador' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/mejor-caracteristica-iphone-llegara-moviles-android-1226870'>La mejor característica de los iPhone llegará a los móviles Android</a></h4>
-    <a href='https://computerhoy.com/moviles/mejor-caracteristica-iphone-llegara-moviles-android-1226870' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/analisis-pixel-7-2914820.jpg?tf=1200x' alt='La mejor característica de los iPhone llegará a los móviles Android' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/software/microsoft-planta-cara-midjourney-ahora-puedes-probar-ia-generativa-imagenes-1226864'>Microsoft planta cara a Midjourney: ahora puedes probar su IA generativa de imágenes</a></h4>
-    <a href='https://computerhoy.com/software/microsoft-planta-cara-midjourney-ahora-puedes-probar-ia-generativa-imagenes-1226864' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/microsoft-edge-2580983.jpg?tf=1200x' alt='Microsoft planta cara a Midjourney: ahora puedes probar su IA generativa de imágenes' />
     </a>
 </div>
 
