@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/gaming/sony-tendria-manos-consola-portatil-jugaras-remoto-ps5-1226928'>Sony tendría entre manos una consola portátil con la que jugarás en remoto a la PS5</a></h4>
+    <a href='https://computerhoy.com/gaming/sony-tendria-manos-consola-portatil-jugaras-remoto-ps5-1226928' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/playstation-5-ps5-2963696.jpg?tf=1200x' alt='Sony tendría entre manos una consola portátil con la que jugarás en remoto a la PS5' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/industria/msi-victima-ciberataque-pone-aviso-usuarios-equipos-1226918'>MSI es victima de un ciberataque y pone en aviso a los usuarios de sus equipos</a></h4>
+    <a href='https://computerhoy.com/industria/msi-victima-ciberataque-pone-aviso-usuarios-equipos-1226918' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/msi-raider-2905090.jpg?tf=1200x' alt='MSI es victima de un ciberataque y pone en aviso a los usuarios de sus equipos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/google/google-no-quiere-quedarse-atras-integrara-inteligencia-artificial-buscador-1226890'>Google no quiere quedarse atrás e integrará inteligencia artificial a su buscador</a></h4>
+    <a href='https://computerhoy.com/google/google-no-quiere-quedarse-atras-integrara-inteligencia-artificial-buscador-1226890' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/google-anade-nuevas-funciones-busqueda-ayudar-usuarios-verificar-informacion-2995716.jpg?tf=1200x' alt='Google no quiere quedarse atrás e integrará inteligencia artificial a su buscador' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/moviles/mejor-caracteristica-iphone-llegara-moviles-android-1226870'>La mejor característica de los iPhone llegará a los móviles Android</a></h4>
     <a href='https://computerhoy.com/moviles/mejor-caracteristica-iphone-llegara-moviles-android-1226870' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/analisis-pixel-7-2914820.jpg?tf=1200x' alt='La mejor característica de los iPhone llegará a los móviles Android' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/software/microsoft-planta-cara-midjourney-ahora-puedes-probar-ia-generativa-imagenes-1226864'>Microsoft planta cara a Midjourney: ahora puedes probar su IA generativa de imágenes</a></h4>
     <a href='https://computerhoy.com/software/microsoft-planta-cara-midjourney-ahora-puedes-probar-ia-generativa-imagenes-1226864' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/microsoft-edge-2580983.jpg?tf=1200x' alt='Microsoft planta cara a Midjourney: ahora puedes probar su IA generativa de imágenes' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-instalar-disco-ssd-1219066'>Cómo instalar un disco SSD</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-instalar-disco-ssd-1219066' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/07/disco-ssd-crucial.jpg?tf=1200x' alt='Cómo instalar un disco SSD' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/google-chrome-pronto-integrara-mejores-caracteristicas-google-pixel-1226860'>Google Chrome pronto integrará una de las mejores características de los Google Pixel</a></h4>
-    <a href='https://computerhoy.com/google/google-chrome-pronto-integrara-mejores-caracteristicas-google-pixel-1226860' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/google-chrome-2845581.jpg?tf=1200x' alt='Google Chrome pronto integrará una de las mejores características de los Google Pixel' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-instalar-certificado-digital-movil-android-1215492'>Cómo instalar el certificado digital en un móvil Android</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-instalar-certificado-digital-movil-android-1215492' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/certificado-digital-2983738.jpg?tf=1200x' alt='Cómo instalar el certificado digital en un móvil Android' />
     </a>
 </div>
 
