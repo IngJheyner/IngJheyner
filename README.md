@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/gana-loteria-gracias-ayuda-chatgpt-1227190'>Gana la lotería gracias a la ayuda de ChatGPT</a></h4>
+    <a href='https://computerhoy.com/apps/gana-loteria-gracias-ayuda-chatgpt-1227190' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/chatgpt-loteria-3003460.jpg?tf=1200x' alt='Gana la lotería gracias a la ayuda de ChatGPT' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/inventan-unas-gafas-sonar-comunicacion-palabras-1227182'>Inventan unas gafas de sonar para la comunicación silenciosa</a></h4>
+    <a href='https://computerhoy.com/ciencia/inventan-unas-gafas-sonar-comunicacion-palabras-1227182' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/inventan-unas-gafas-sonar-comunicacion-palabras-3003432.jpg?tf=1200x' alt='Inventan unas gafas de sonar para la comunicación silenciosa' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/contrasenas-ya-no-son-seguras-avance-inteligencia-artificial-1227178'>Tus contraseñas ya no son seguras por el avance de la inteligencia artificial</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/contrasenas-ya-no-son-seguras-avance-inteligencia-artificial-1227178' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/contrasenas-3003402.jpg?tf=1200x' alt='Tus contraseñas ya no son seguras por el avance de la inteligencia artificial' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apps/10-apps-editar-videos-gratis-movil-1219800'>Las 10 mejores apps para editar vídeos gratis con el móvil</a></h4>
     <a href='https://computerhoy.com/apps/10-apps-editar-videos-gratis-movil-1219800' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/editar-video-smartphones-2991636.jpg?tf=1200x' alt='Las 10 mejores apps para editar vídeos gratis con el móvil' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/tutoriales/como-descargar-videos-tiktok-marca-agua-1223650'>Cómo descargar vídeos de TikTok sin marca de agua</a></h4>
     <a href='https://computerhoy.com/tutoriales/como-descargar-videos-tiktok-marca-agua-1223650' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/logo-tiktok-2923622.jpg?tf=1200x' alt='Cómo descargar vídeos de TikTok sin marca de agua' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-instalar-tarjeta-grafica-1219156'>Cómo instalar una tarjeta gráfica</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-instalar-tarjeta-grafica-1219156' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/02/tarjeta-grafica-nvidia-1857733.jpg?tf=1200x' alt='Cómo instalar una tarjeta gráfica' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/como-afecta-tecnologia-salud-mental-1225448'>Tecnología y salud mental: una relación en continuo debate por sus grandes desventajas</a></h4>
-    <a href='https://computerhoy.com/tecnologia/como-afecta-tecnologia-salud-mental-1225448' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/como-tecnologia-puede-afectar-salud-mental-3000914.jpg?tf=1200x' alt='Tecnología y salud mental: una relación en continuo debate por sus grandes desventajas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/cara-b-chatgpt-enganos-deepfakes-estafas-phishing-1219238'>La cara B de ChatGPT: engaños, 'deepfakes', estafas y 'phishing'</a></h4>
-    <a href='https://computerhoy.com/tecnologia/cara-b-chatgpt-enganos-deepfakes-estafas-phishing-1219238' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/cara-b-chatgpt-enganos-deepfakes-estafas-phishing-2995108.jpg?tf=1200x' alt='La cara B de ChatGPT: engaños, 'deepfakes', estafas y 'phishing'' />
     </a>
 </div>
 
