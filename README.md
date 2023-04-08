@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/como-afecta-tecnologia-salud-mental-1225448'>Tecnología y salud mental: una relación en continuo debate por sus grandes desventajas</a></h4>
+    <a href='https://computerhoy.com/tecnologia/como-afecta-tecnologia-salud-mental-1225448' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/como-tecnologia-puede-afectar-salud-mental-3000914.jpg?tf=1200x' alt='Tecnología y salud mental: una relación en continuo debate por sus grandes desventajas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/cara-b-chatgpt-enganos-deepfakes-estafas-phishing-1219238'>La cara B de ChatGPT: engaños, 'deepfakes', estafas y 'phishing'</a></h4>
+    <a href='https://computerhoy.com/tecnologia/cara-b-chatgpt-enganos-deepfakes-estafas-phishing-1219238' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/cara-b-chatgpt-enganos-deepfakes-estafas-phishing-2995108.jpg?tf=1200x' alt='La cara B de ChatGPT: engaños, 'deepfakes', estafas y 'phishing'' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-tablets-para-leer-1054531'>Mejores tablets para leer que puedes comprar ahora mismo</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-tablets-para-leer-1054531' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/mejores-tablets-leer-puedes-comprar-ahora-mismo-3002764.jpg?tf=1200x' alt='Mejores tablets para leer que puedes comprar ahora mismo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciencia/musica-compuesta-ia-inferior-compuesta-humanos-revela-nuevo-estudio-1226962'>La música compuesta por IA es “inferior a la compuesta por humanos”, revela un nuevo estudio</a></h4>
     <a href='https://computerhoy.com/ciencia/musica-compuesta-ia-inferior-compuesta-humanos-revela-nuevo-estudio-1226962' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/musica-ordenador-3003194.jpg?tf=1200x' alt='La música compuesta por IA es “inferior a la compuesta por humanos”, revela un nuevo estudio' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/ciencia/inquietante-furby-conectado-chatgpt-revela-planes-expandir-influencia-dominar-completamente-toda-humanidad-1226960'>Un inquietante Furby conectado a ChatGPT revela sus planes de “expandir su influencia hasta dominar completamente a toda la humanidad”</a></h4>
     <a href='https://computerhoy.com/ciencia/inquietante-furby-conectado-chatgpt-revela-planes-expandir-influencia-dominar-completamente-toda-humanidad-1226960' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/inquietante-furby-conectado-chatgpt-revela-planes-expandir-influencia-dominar-completamente-toda-humanidad-3003192.jpg?tf=1200x' alt='Un inquietante Furby conectado a ChatGPT revela sus planes de “expandir su influencia hasta dominar completamente a toda la humanidad”' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/redes-sociales/no-eres-twitter-no-deja-interactuar-determinados-tweets-1226944'>No eres tú: Twitter no deja interactuar con determinados tweets</a></h4>
-    <a href='https://computerhoy.com/redes-sociales/no-eres-twitter-no-deja-interactuar-determinados-tweets-1226944' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/como-borrar-eliminar-cuenta-twitter-2995084.jpg?tf=1200x' alt='No eres tú: Twitter no deja interactuar con determinados tweets' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/videos-grabados-tesla-no-son-privados-empleados-tesla-habrian-visto-compartido-estos-videos-1226914'>Los videos grabados por tu Tesla no son privados: empleados de Tesla habrían visto y compartido estos videos</a></h4>
-    <a href='https://computerhoy.com/motor/videos-grabados-tesla-no-son-privados-empleados-tesla-habrian-visto-compartido-estos-videos-1226914' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/ya-puedes-tener-android-auto-carplay-coche-tesla-gracias-hack-2849791.jpg?tf=1200x' alt='Los videos grabados por tu Tesla no son privados: empleados de Tesla habrían visto y compartido estos videos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/imagen-sonido/asi-puedes-calibrar-tu-televisor-tener-mejor-imagen-74971'>Así puedes calibrar tu televisor para tener la mejor imagen</a></h4>
-    <a href='https://computerhoy.com/noticias/imagen-sonido/asi-puedes-calibrar-tu-televisor-tener-mejor-imagen-74971' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/panasonic-oled-mz2000-2919792.jpg?tf=1200x' alt='Así puedes calibrar tu televisor para tener la mejor imagen' />
     </a>
 </div>
 
