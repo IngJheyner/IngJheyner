@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/acabo-perder-tiempo-vas-poder-agregar-editar-contactos-dentro-aplicacion-whatsapp-1227204'>Se acabó perder el tiempo: Vas a poder agregar y editar contactos dentro de la aplicación de WhatsApp</a></h4>
+    <a href='https://computerhoy.com/apps/acabo-perder-tiempo-vas-poder-agregar-editar-contactos-dentro-aplicacion-whatsapp-1227204' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/contactos-whatsapp-3003478.jpg?tf=1200x' alt='Se acabó perder el tiempo: Vas a poder agregar y editar contactos dentro de la aplicación de WhatsApp' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apps/gana-loteria-gracias-ayuda-chatgpt-1227190'>Gana la lotería gracias a la ayuda de ChatGPT</a></h4>
     <a href='https://computerhoy.com/apps/gana-loteria-gracias-ayuda-chatgpt-1227190' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/chatgpt-loteria-3003460.jpg?tf=1200x' alt='Gana la lotería gracias a la ayuda de ChatGPT' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/apps/10-apps-editar-videos-gratis-movil-1219800'>Las 10 mejores apps para editar vídeos gratis con el móvil</a></h4>
     <a href='https://computerhoy.com/apps/10-apps-editar-videos-gratis-movil-1219800' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/editar-video-smartphones-2991636.jpg?tf=1200x' alt='Las 10 mejores apps para editar vídeos gratis con el móvil' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-descargar-videos-tiktok-marca-agua-1223650'>Cómo descargar vídeos de TikTok sin marca de agua</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-descargar-videos-tiktok-marca-agua-1223650' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/logo-tiktok-2923622.jpg?tf=1200x' alt='Cómo descargar vídeos de TikTok sin marca de agua' />
     </a>
 </div>
 
