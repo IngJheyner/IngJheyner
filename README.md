@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/10-apps-editar-videos-gratis-movil-1219800'>Las 10 mejores apps para editar vídeos gratis con el móvil</a></h4>
+    <a href='https://computerhoy.com/apps/10-apps-editar-videos-gratis-movil-1219800' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/editar-video-smartphones-2991636.jpg?tf=1200x' alt='Las 10 mejores apps para editar vídeos gratis con el móvil' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-descargar-videos-tiktok-marca-agua-1223650'>Cómo descargar vídeos de TikTok sin marca de agua</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-descargar-videos-tiktok-marca-agua-1223650' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/logo-tiktok-2923622.jpg?tf=1200x' alt='Cómo descargar vídeos de TikTok sin marca de agua' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-instalar-tarjeta-grafica-1219156'>Cómo instalar una tarjeta gráfica</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-instalar-tarjeta-grafica-1219156' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/02/tarjeta-grafica-nvidia-1857733.jpg?tf=1200x' alt='Cómo instalar una tarjeta gráfica' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/como-afecta-tecnologia-salud-mental-1225448'>Tecnología y salud mental: una relación en continuo debate por sus grandes desventajas</a></h4>
     <a href='https://computerhoy.com/tecnologia/como-afecta-tecnologia-salud-mental-1225448' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/como-tecnologia-puede-afectar-salud-mental-3000914.jpg?tf=1200x' alt='Tecnología y salud mental: una relación en continuo debate por sus grandes desventajas' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/cara-b-chatgpt-enganos-deepfakes-estafas-phishing-1219238'>La cara B de ChatGPT: engaños, 'deepfakes', estafas y 'phishing'</a></h4>
     <a href='https://computerhoy.com/tecnologia/cara-b-chatgpt-enganos-deepfakes-estafas-phishing-1219238' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/cara-b-chatgpt-enganos-deepfakes-estafas-phishing-2995108.jpg?tf=1200x' alt='La cara B de ChatGPT: engaños, 'deepfakes', estafas y 'phishing'' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-tablets-para-leer-1054531'>Mejores tablets para leer que puedes comprar ahora mismo</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-tablets-para-leer-1054531' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/mejores-tablets-leer-puedes-comprar-ahora-mismo-3002764.jpg?tf=1200x' alt='Mejores tablets para leer que puedes comprar ahora mismo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/musica-compuesta-ia-inferior-compuesta-humanos-revela-nuevo-estudio-1226962'>La música compuesta por IA es “inferior a la compuesta por humanos”, revela un nuevo estudio</a></h4>
-    <a href='https://computerhoy.com/ciencia/musica-compuesta-ia-inferior-compuesta-humanos-revela-nuevo-estudio-1226962' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/musica-ordenador-3003194.jpg?tf=1200x' alt='La música compuesta por IA es “inferior a la compuesta por humanos”, revela un nuevo estudio' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/inquietante-furby-conectado-chatgpt-revela-planes-expandir-influencia-dominar-completamente-toda-humanidad-1226960'>Un inquietante Furby conectado a ChatGPT revela sus planes de “expandir su influencia hasta dominar completamente a toda la humanidad”</a></h4>
-    <a href='https://computerhoy.com/ciencia/inquietante-furby-conectado-chatgpt-revela-planes-expandir-influencia-dominar-completamente-toda-humanidad-1226960' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/inquietante-furby-conectado-chatgpt-revela-planes-expandir-influencia-dominar-completamente-toda-humanidad-3003192.jpg?tf=1200x' alt='Un inquietante Furby conectado a ChatGPT revela sus planes de “expandir su influencia hasta dominar completamente a toda la humanidad”' />
     </a>
 </div>
 
