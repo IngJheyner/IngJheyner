@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/windows/filtradas-todas-nuevas-funcionalidades-llegaran-proxima-gran-actualizacion-windows-11-1227206'>Filtradas todas las nuevas funcionalidades que llegarán con la próxima gran actualización de Windows 11</a></h4>
+    <a href='https://computerhoy.com/windows/filtradas-todas-nuevas-funcionalidades-llegaran-proxima-gran-actualizacion-windows-11-1227206' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/windows-11-3003502.jpg?tf=1200x' alt='Filtradas todas las nuevas funcionalidades que llegarán con la próxima gran actualización de Windows 11' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/apple-quiere-revolucionar-audio-futuribles-airpods-1227234'>Apple quiere revolucionar el audio en unos futuribles AirPods</a></h4>
+    <a href='https://computerhoy.com/apple/apple-quiere-revolucionar-audio-futuribles-airpods-1227234' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/airpods-2575889.jpg?tf=1200x' alt='Apple quiere revolucionar el audio en unos futuribles AirPods' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/estudiantes-crean-robot-profesor-impulsado-chatgpt-hace-bromas-matematicas-1227208'>Estudiantes crean un robot profesor impulsado por ChatGPT que hace bromas sobre matemáticas</a></h4>
+    <a href='https://computerhoy.com/ciencia/estudiantes-crean-robot-profesor-impulsado-chatgpt-hace-bromas-matematicas-1227208' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/estudiantes-crean-robot-profesor-impulsado-chatgpt-hace-bromas-matematicas-3003504.jpg?tf=1200x' alt='Estudiantes crean un robot profesor impulsado por ChatGPT que hace bromas sobre matemáticas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-tablets-para-leer-1054531'>Mejores tablets para leer que puedes comprar ahora mismo</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-tablets-para-leer-1054531' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/mujer-sentada-utilizando-tablet-2793825.jpg?tf=1200x' alt='Mejores tablets para leer que puedes comprar ahora mismo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apps/acabo-perder-tiempo-vas-poder-agregar-editar-contactos-dentro-aplicacion-whatsapp-1227204'>Se acabó perder el tiempo: Vas a poder agregar y editar contactos dentro de la aplicación de WhatsApp</a></h4>
     <a href='https://computerhoy.com/apps/acabo-perder-tiempo-vas-poder-agregar-editar-contactos-dentro-aplicacion-whatsapp-1227204' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/contactos-whatsapp-3003478.jpg?tf=1200x' alt='Se acabó perder el tiempo: Vas a poder agregar y editar contactos dentro de la aplicación de WhatsApp' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/gana-loteria-gracias-ayuda-chatgpt-1227190'>Gana la lotería gracias a la ayuda de ChatGPT</a></h4>
-    <a href='https://computerhoy.com/apps/gana-loteria-gracias-ayuda-chatgpt-1227190' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/chatgpt-loteria-3003460.jpg?tf=1200x' alt='Gana la lotería gracias a la ayuda de ChatGPT' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/inventan-unas-gafas-sonar-comunicacion-palabras-1227182'>Inventan unas gafas de sonar para la comunicación silenciosa</a></h4>
-    <a href='https://computerhoy.com/ciencia/inventan-unas-gafas-sonar-comunicacion-palabras-1227182' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/inventan-unas-gafas-sonar-comunicacion-palabras-3003432.jpg?tf=1200x' alt='Inventan unas gafas de sonar para la comunicación silenciosa' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/contrasenas-ya-no-son-seguras-avance-inteligencia-artificial-1227178'>Tus contraseñas ya no son seguras por el avance de la inteligencia artificial</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/contrasenas-ya-no-son-seguras-avance-inteligencia-artificial-1227178' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/contrasenas-3003402.jpg?tf=1200x' alt='Tus contraseñas ya no son seguras por el avance de la inteligencia artificial' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/10-apps-editar-videos-gratis-movil-1219800'>Las 10 mejores apps para editar vídeos gratis con el móvil</a></h4>
-    <a href='https://computerhoy.com/apps/10-apps-editar-videos-gratis-movil-1219800' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/editar-video-smartphones-2991636.jpg?tf=1200x' alt='Las 10 mejores apps para editar vídeos gratis con el móvil' />
     </a>
 </div>
 
