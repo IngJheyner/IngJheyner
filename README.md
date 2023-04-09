@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/usa-chatgpt-crear-malware-peligroso-indetectable-antivirus-1227514'>Usa ChatGPT para crear un malware peligroso e  indetectable por los antivirus</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/usa-chatgpt-crear-malware-peligroso-indetectable-antivirus-1227514' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/inteligencia-artificial-malware-3003886.jpg?tf=1200x' alt='Usa ChatGPT para crear un malware peligroso e  indetectable por los antivirus' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/seria-apple-watch-futuro-tiene-ver-correa-1227500'>Así sería el Apple Watch del futuro, y tiene que ver con la correa</a></h4>
+    <a href='https://computerhoy.com/apple/seria-apple-watch-futuro-tiene-ver-correa-1227500' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/apple-watch-series-8-analisis-opinion-2841961.jpg?tf=1200x' alt='Así sería el Apple Watch del futuro, y tiene que ver con la correa' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/windows/microsoft-cambia-forma-toda-vida-capturar-pantalla-windows-11-no-va-gustarte-1227498'>Microsoft cambia la forma de toda la vida de capturar pantalla en Windows 11, y no va a gustarte</a></h4>
     <a href='https://computerhoy.com/windows/microsoft-cambia-forma-toda-vida-capturar-pantalla-windows-11-no-va-gustarte-1227498' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/windows-11-3003862.jpg?tf=1200x' alt='Microsoft cambia la forma de toda la vida de capturar pantalla en Windows 11, y no va a gustarte' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/apps/ya-no-puedes-recibir-enviar-correos-electronicos-outlook-culpa-tiene-onedrive-1227486'>Si ya no puedes recibir y enviar correos electrónicos en Outlook la culpa la tiene OneDrive</a></h4>
     <a href='https://computerhoy.com/apps/ya-no-puedes-recibir-enviar-correos-electronicos-outlook-culpa-tiene-onedrive-1227486' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/correo-electronico-outlook-3003844.jpg?tf=1200x' alt='Si ya no puedes recibir y enviar correos electrónicos en Outlook la culpa la tiene OneDrive' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/10-apps-probar-como-te-quedan-cortes-pelo-1224906'>10 apps para probar tu nuevo corte de pelo antes de dar el paso</a></h4>
-    <a href='https://computerhoy.com/apps/10-apps-probar-como-te-quedan-cortes-pelo-1224906' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/estas-10-apps-te-ayudaran-elegir-nuevo-corte-pelo-antes-dar-paso-3000008.jpg?tf=1200x' alt='10 apps para probar tu nuevo corte de pelo antes de dar el paso' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/utiliza-chatgpt-librarse-pagar-buena-multa-aparcamiento-1227480'>Utiliza ChatGPT para librarse de pagar una buena multa de aparcamiento</a></h4>
-    <a href='https://computerhoy.com/apps/utiliza-chatgpt-librarse-pagar-buena-multa-aparcamiento-1227480' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/multa-aparcamiento-3003840.jpg?tf=1200x' alt='Utiliza ChatGPT para librarse de pagar una buena multa de aparcamiento' />
     </a>
 </div>
 
