@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/robo-436-iphone-tienda-apple-tienda-cafeteras-1227562'>Hacen un agujero en el baño de una tienda de cafeteras... para robar 436 iPhone en la tienda Apple adyacente</a></h4>
+    <a href='https://computerhoy.com/apple/robo-436-iphone-tienda-apple-tienda-cafeteras-1227562' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/hacen-agujero-bano-tienda-cafeteras-robar-436-iphone-tienda-apple-adyacente-3003974.jpg?tf=1200x' alt='Hacen un agujero en el baño de una tienda de cafeteras... para robar 436 iPhone en la tienda Apple adyacente' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/ingeniero-avisa-no-juegues-poker-chatgpt-1227560'>Un ingeniero avisa: no juegues al póker con ChatGPT</a></h4>
+    <a href='https://computerhoy.com/tecnologia/ingeniero-avisa-no-juegues-poker-chatgpt-1227560' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/ingeniero-avisa-no-juegues-poker-chatgpt-3003972.jpg?tf=1200x' alt='Un ingeniero avisa: no juegues al póker con ChatGPT' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/disney-anuncia-tres-nuevas-peliculas-star-wars-retorno-rey-1227558'>Disney anuncia tres nuevas películas de Star Wars: vuelve Rey, y un querido director recibe su recompensa</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/disney-anuncia-tres-nuevas-peliculas-star-wars-retorno-rey-1227558' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/daisy-ridley-como-rey-universo-star-wars-3003152.jpg?tf=1200x' alt='Disney anuncia tres nuevas películas de Star Wars: vuelve Rey, y un querido director recibe su recompensa' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/5-ventiladores-baratos-menos-30-euros-tienen-envio-gratis-877491'>5 ventiladores baratos de menos de 30 euros que tienen envío gratis</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/5-ventiladores-baratos-menos-30-euros-tienen-envio-gratis-877491' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/ventilador-2359633.jpg?tf=1200x' alt='5 ventiladores baratos de menos de 30 euros que tienen envío gratis' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/gaming/microsoft-prohibe-emulacion-consolas-xbox-series-x-s-1227550'>Después de 3 años de mirar hacia otro lado, Microsoft prohíbe la emulación en Xbox Series X y S</a></h4>
     <a href='https://computerhoy.com/gaming/microsoft-prohibe-emulacion-consolas-xbox-series-x-s-1227550' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/despues-3-anos-mirar-otro-lado-microsoft-prohibe-emulacion-xbox-series-x-s-3003960.jpg?tf=1200x' alt='Después de 3 años de mirar hacia otro lado, Microsoft prohíbe la emulación en Xbox Series X y S' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/usa-chatgpt-crear-malware-peligroso-indetectable-antivirus-1227514'>Usa ChatGPT para crear un malware peligroso e  indetectable por los antivirus</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/usa-chatgpt-crear-malware-peligroso-indetectable-antivirus-1227514' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/inteligencia-artificial-malware-3003886.jpg?tf=1200x' alt='Usa ChatGPT para crear un malware peligroso e  indetectable por los antivirus' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/seria-apple-watch-futuro-tiene-ver-correa-1227500'>Así sería el Apple Watch del futuro, y tiene que ver con la correa</a></h4>
-    <a href='https://computerhoy.com/apple/seria-apple-watch-futuro-tiene-ver-correa-1227500' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/apple-watch-series-8-analisis-opinion-2841961.jpg?tf=1200x' alt='Así sería el Apple Watch del futuro, y tiene que ver con la correa' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/microsoft-cambia-forma-toda-vida-capturar-pantalla-windows-11-no-va-gustarte-1227498'>Microsoft cambia la forma de toda la vida de capturar pantalla en Windows 11, y no va a gustarte</a></h4>
-    <a href='https://computerhoy.com/windows/microsoft-cambia-forma-toda-vida-capturar-pantalla-windows-11-no-va-gustarte-1227498' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/windows-11-3003862.jpg?tf=1200x' alt='Microsoft cambia la forma de toda la vida de capturar pantalla en Windows 11, y no va a gustarte' />
     </a>
 </div>
 
