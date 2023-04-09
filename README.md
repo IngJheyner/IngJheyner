@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/5-ventiladores-baratos-menos-30-euros-tienen-envio-gratis-877491'>5 ventiladores baratos de menos de 30 euros que tienen envío gratis</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/5-ventiladores-baratos-menos-30-euros-tienen-envio-gratis-877491' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/ventilador-2359633.jpg?tf=1200x' alt='5 ventiladores baratos de menos de 30 euros que tienen envío gratis' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/gaming/microsoft-prohibe-emulacion-consolas-xbox-series-x-s-1227550'>Después de 3 años de mirar hacia otro lado, Microsoft prohíbe la emulación en Xbox Series X y S</a></h4>
+    <a href='https://computerhoy.com/gaming/microsoft-prohibe-emulacion-consolas-xbox-series-x-s-1227550' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/despues-3-anos-mirar-otro-lado-microsoft-prohibe-emulacion-xbox-series-x-s-3003960.jpg?tf=1200x' alt='Después de 3 años de mirar hacia otro lado, Microsoft prohíbe la emulación en Xbox Series X y S' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciberseguridad/usa-chatgpt-crear-malware-peligroso-indetectable-antivirus-1227514'>Usa ChatGPT para crear un malware peligroso e  indetectable por los antivirus</a></h4>
     <a href='https://computerhoy.com/ciberseguridad/usa-chatgpt-crear-malware-peligroso-indetectable-antivirus-1227514' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/inteligencia-artificial-malware-3003886.jpg?tf=1200x' alt='Usa ChatGPT para crear un malware peligroso e  indetectable por los antivirus' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/windows/microsoft-cambia-forma-toda-vida-capturar-pantalla-windows-11-no-va-gustarte-1227498'>Microsoft cambia la forma de toda la vida de capturar pantalla en Windows 11, y no va a gustarte</a></h4>
     <a href='https://computerhoy.com/windows/microsoft-cambia-forma-toda-vida-capturar-pantalla-windows-11-no-va-gustarte-1227498' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/windows-11-3003862.jpg?tf=1200x' alt='Microsoft cambia la forma de toda la vida de capturar pantalla en Windows 11, y no va a gustarte' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/te-contamos-truco-recuperar-archivos-mp4-corruptos-1213692'>Te contamos un truco para recuperar archivos MP4 corruptos</a></h4>
-    <a href='https://computerhoy.com/tutoriales/te-contamos-truco-recuperar-archivos-mp4-corruptos-1213692' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/mp4-ve-mal-2980880.jpg?tf=1200x' alt='Te contamos un truco para recuperar archivos MP4 corruptos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/ya-no-puedes-recibir-enviar-correos-electronicos-outlook-culpa-tiene-onedrive-1227486'>Si ya no puedes recibir y enviar correos electrónicos en Outlook la culpa la tiene OneDrive</a></h4>
-    <a href='https://computerhoy.com/apps/ya-no-puedes-recibir-enviar-correos-electronicos-outlook-culpa-tiene-onedrive-1227486' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/correo-electronico-outlook-3003844.jpg?tf=1200x' alt='Si ya no puedes recibir y enviar correos electrónicos en Outlook la culpa la tiene OneDrive' />
     </a>
 </div>
 
