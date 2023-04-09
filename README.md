@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-instalar-certificado-digital-iphone-ipad-ios-1217186'>Cómo instalar el certificado digital en un iPhone o iPad con iOS</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-instalar-certificado-digital-iphone-ipad-ios-1217186' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/certificado-digital-2987018.jpg?tf=1200x' alt='Cómo instalar el certificado digital en un iPhone o iPad con iOS' />
+    <h4><a href='https://computerhoy.com/windows/microsoft-cambia-forma-toda-vida-capturar-pantalla-windows-11-no-va-gustarte-1227498'>Microsoft cambia la forma de toda la vida de capturar pantalla en Windows 11, y no va a gustarte</a></h4>
+    <a href='https://computerhoy.com/windows/microsoft-cambia-forma-toda-vida-capturar-pantalla-windows-11-no-va-gustarte-1227498' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/windows-11-3003862.jpg?tf=1200x' alt='Microsoft cambia la forma de toda la vida de capturar pantalla en Windows 11, y no va a gustarte' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/5-alternativas-gratuitas-chatgpt-puedes-usar-ya-mismo-1215332'>Las 5 alternativas gratuitas a ChatGPT que puedes usar ya mismo</a></h4>
-    <a href='https://computerhoy.com/tecnologia/5-alternativas-gratuitas-chatgpt-puedes-usar-ya-mismo-1215332' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/usuario-utiliza-chatgpt-2924972.jpg?tf=1200x' alt='Las 5 alternativas gratuitas a ChatGPT que puedes usar ya mismo' />
+    <h4><a href='https://computerhoy.com/tutoriales/te-contamos-truco-recuperar-archivos-mp4-corruptos-1213692'>Te contamos un truco para recuperar archivos MP4 corruptos</a></h4>
+    <a href='https://computerhoy.com/tutoriales/te-contamos-truco-recuperar-archivos-mp4-corruptos-1213692' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/mp4-ve-mal-2980880.jpg?tf=1200x' alt='Te contamos un truco para recuperar archivos MP4 corruptos' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/dribblebot-perro-robot-capaz-regatear-pelota-futbol-salvar-vidas-1227220'>Así es DribbleBot, un perro robot capaz de regatear con una pelota de fútbol y hasta salvar vidas</a></h4>
-    <a href='https://computerhoy.com/ciencia/dribblebot-perro-robot-capaz-regatear-pelota-futbol-salvar-vidas-1227220' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/dribblebot-3003520.jpg?tf=1200x' alt='Así es DribbleBot, un perro robot capaz de regatear con una pelota de fútbol y hasta salvar vidas' />
+    <h4><a href='https://computerhoy.com/apps/ya-no-puedes-recibir-enviar-correos-electronicos-outlook-culpa-tiene-onedrive-1227486'>Si ya no puedes recibir y enviar correos electrónicos en Outlook la culpa la tiene OneDrive</a></h4>
+    <a href='https://computerhoy.com/apps/ya-no-puedes-recibir-enviar-correos-electronicos-outlook-culpa-tiene-onedrive-1227486' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/correo-electronico-outlook-3003844.jpg?tf=1200x' alt='Si ya no puedes recibir y enviar correos electrónicos en Outlook la culpa la tiene OneDrive' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/ha-convertido-linkedin-nuevo-tinder-1221752'>¿Se está convirtiendo LinkedIn en el nuevo Tinder?</a></h4>
-    <a href='https://computerhoy.com/apps/ha-convertido-linkedin-nuevo-tinder-1221752' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/convirtiendo-linkedin-nuevo-tinder-3001074.jpg?tf=1200x' alt='¿Se está convirtiendo LinkedIn en el nuevo Tinder?' />
+    <h4><a href='https://computerhoy.com/apps/10-apps-probar-como-te-quedan-cortes-pelo-1224906'>10 apps para probar tu nuevo corte de pelo antes de dar el paso</a></h4>
+    <a href='https://computerhoy.com/apps/10-apps-probar-como-te-quedan-cortes-pelo-1224906' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/estas-10-apps-te-ayudaran-elegir-nuevo-corte-pelo-antes-dar-paso-3000008.jpg?tf=1200x' alt='10 apps para probar tu nuevo corte de pelo antes de dar el paso' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/alimentacion/crean-grasa-cultivada-laboratorio-mejorar-textura-calidad-carne-artificial-1227224'>Crean grasa cultivada en laboratorio para mejorar la textura y calidad de la carne artificial</a></h4>
-    <a href='https://computerhoy.com/alimentacion/crean-grasa-cultivada-laboratorio-mejorar-textura-calidad-carne-artificial-1227224' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/carne-3003524.jpg?tf=1200x' alt='Crean grasa cultivada en laboratorio para mejorar la textura y calidad de la carne artificial' />
+    <h4><a href='https://computerhoy.com/apps/utiliza-chatgpt-librarse-pagar-buena-multa-aparcamiento-1227480'>Utiliza ChatGPT para librarse de pagar una buena multa de aparcamiento</a></h4>
+    <a href='https://computerhoy.com/apps/utiliza-chatgpt-librarse-pagar-buena-multa-aparcamiento-1227480' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/multa-aparcamiento-3003840.jpg?tf=1200x' alt='Utiliza ChatGPT para librarse de pagar una buena multa de aparcamiento' />
     </a>
 </div>
 
