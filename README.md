@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-instalar-certificado-digital-iphone-ipad-ios-1217186'>Cómo instalar el certificado digital en un iPhone o iPad con iOS</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-instalar-certificado-digital-iphone-ipad-ios-1217186' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/certificado-digital-2987018.jpg?tf=1200x' alt='Cómo instalar el certificado digital en un iPhone o iPad con iOS' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/5-alternativas-gratuitas-chatgpt-puedes-usar-ya-mismo-1215332'>Las 5 alternativas gratuitas a ChatGPT que puedes usar ya mismo</a></h4>
+    <a href='https://computerhoy.com/tecnologia/5-alternativas-gratuitas-chatgpt-puedes-usar-ya-mismo-1215332' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/usuario-utiliza-chatgpt-2924972.jpg?tf=1200x' alt='Las 5 alternativas gratuitas a ChatGPT que puedes usar ya mismo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/dribblebot-perro-robot-capaz-regatear-pelota-futbol-salvar-vidas-1227220'>Así es DribbleBot, un perro robot capaz de regatear con una pelota de fútbol y hasta salvar vidas</a></h4>
+    <a href='https://computerhoy.com/ciencia/dribblebot-perro-robot-capaz-regatear-pelota-futbol-salvar-vidas-1227220' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/dribblebot-3003520.jpg?tf=1200x' alt='Así es DribbleBot, un perro robot capaz de regatear con una pelota de fútbol y hasta salvar vidas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/ha-convertido-linkedin-nuevo-tinder-1221752'>¿Se está convirtiendo LinkedIn en el nuevo Tinder?</a></h4>
+    <a href='https://computerhoy.com/apps/ha-convertido-linkedin-nuevo-tinder-1221752' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/convirtiendo-linkedin-nuevo-tinder-3001074.jpg?tf=1200x' alt='¿Se está convirtiendo LinkedIn en el nuevo Tinder?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/alimentacion/crean-grasa-cultivada-laboratorio-mejorar-textura-calidad-carne-artificial-1227224'>Crean grasa cultivada en laboratorio para mejorar la textura y calidad de la carne artificial</a></h4>
     <a href='https://computerhoy.com/alimentacion/crean-grasa-cultivada-laboratorio-mejorar-textura-calidad-carne-artificial-1227224' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/carne-3003524.jpg?tf=1200x' alt='Crean grasa cultivada en laboratorio para mejorar la textura y calidad de la carne artificial' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/listas/tecnologia/mejores-relojes-amazfit-656161'>Relojes Inteligentes Amazfit: estos son los mejores que puedes comprar</a></h4>
-    <a href='https://computerhoy.com/listas/tecnologia/mejores-relojes-amazfit-656161' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/relojes-inteligentes-amazfit-estos-son-mejores-puedes-comprar-3002776.jpg?tf=1200x' alt='Relojes Inteligentes Amazfit: estos son los mejores que puedes comprar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/filtradas-todas-nuevas-funcionalidades-llegaran-proxima-gran-actualizacion-windows-11-1227206'>Filtradas todas las nuevas funcionalidades que llegarán con la próxima gran actualización de Windows 11</a></h4>
-    <a href='https://computerhoy.com/windows/filtradas-todas-nuevas-funcionalidades-llegaran-proxima-gran-actualizacion-windows-11-1227206' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/windows-11-3003502.jpg?tf=1200x' alt='Filtradas todas las nuevas funcionalidades que llegarán con la próxima gran actualización de Windows 11' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/apple-quiere-revolucionar-audio-futuribles-airpods-1227234'>Apple quiere revolucionar el audio en unos futuribles AirPods</a></h4>
-    <a href='https://computerhoy.com/apple/apple-quiere-revolucionar-audio-futuribles-airpods-1227234' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/airpods-2575889.jpg?tf=1200x' alt='Apple quiere revolucionar el audio en unos futuribles AirPods' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/estudiantes-crean-robot-profesor-impulsado-chatgpt-hace-bromas-matematicas-1227208'>Estudiantes crean un robot profesor impulsado por ChatGPT que hace bromas sobre matemáticas</a></h4>
-    <a href='https://computerhoy.com/ciencia/estudiantes-crean-robot-profesor-impulsado-chatgpt-hace-bromas-matematicas-1227208' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/estudiantes-crean-robot-profesor-impulsado-chatgpt-hace-bromas-matematicas-3003504.jpg?tf=1200x' alt='Estudiantes crean un robot profesor impulsado por ChatGPT que hace bromas sobre matemáticas' />
     </a>
 </div>
 
