@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/windows/puedes-conseguir-windows-11-gratis-necesidad-licencia-1228016'>Así puedes conseguir Windows 11 gratis sin necesidad de licencia</a></h4>
+    <a href='https://computerhoy.com/windows/puedes-conseguir-windows-11-gratis-necesidad-licencia-1228016' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/windows-11-3003862.jpg?tf=1200x' alt='Así puedes conseguir Windows 11 gratis sin necesidad de licencia' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/ya-puedes-usar-whatsapp-dos-moviles-vez-nuevo-companion-mode-whatsapp-1228046'>Ya puedes usar tu WhatsApp en dos móviles a la vez: así es el nuevo Companion Mode de WhatsApp</a></h4>
+    <a href='https://computerhoy.com/apps/ya-puedes-usar-whatsapp-dos-moviles-vez-nuevo-companion-mode-whatsapp-1228046' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/ya-puedes-usar-whatsapp-dos-moviles-vez-nuevo-companion-mode-whatsapp-3004794.jpg?tf=1200x' alt='Ya puedes usar tu WhatsApp en dos móviles a la vez: así es el nuevo Companion Mode de WhatsApp' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/android/merece-pena-pagar-antivirus-tablet-movil-android-1227924'>¿Merece la pena pagar por un antivirus para tu tablet o móvil Android? La respuesta te sorprenderá</a></h4>
     <a href='https://computerhoy.com/android/merece-pena-pagar-antivirus-tablet-movil-android-1227924' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/merece-pena-pagar-antivirus-tablet-movil-android-respuesta-te-sorprendera-3004562.jpg?tf=1200x' alt='¿Merece la pena pagar por un antivirus para tu tablet o móvil Android? La respuesta te sorprenderá' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/estos-son-5-grandes-problemas-tecnologicos-puedes-encontrar-cuando-viajas-1227874'>Estos son los 5 grandes problemas tecnológicos que puedes encontrar cuando viajas</a></h4>
     <a href='https://computerhoy.com/tecnologia/estos-son-5-grandes-problemas-tecnologicos-puedes-encontrar-cuando-viajas-1227874' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/estos-son-5-grandes-problemas-tecnologicos-puedes-encontrar-cuando-viajas-3004456.jpg?tf=1200x' alt='Estos son los 5 grandes problemas tecnológicos que puedes encontrar cuando viajas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/samsung-podria-lanzar-tablet-plegable-finales-2023-rumores-1227792'>Samsung podría lanzar su tablet plegable a finales de 2023 según algunos rumores</a></h4>
-    <a href='https://computerhoy.com/tecnologia/samsung-podria-lanzar-tablet-plegable-finales-2023-rumores-1227792' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/samsung-podria-lanzar-tablet-plegable-finales-2023-rumores-3004294.jpg?tf=1200x' alt='Samsung podría lanzar su tablet plegable a finales de 2023 según algunos rumores' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/audio/apple-ha-patentado-airpods-pantalla-pero-jbl-ya-tiene-mucho-baratos-1227862'>Apple ha patentado unos AirPods con pantalla, pero JBL ya los tiene y mucho más baratos</a></h4>
-    <a href='https://computerhoy.com/audio/apple-ha-patentado-airpods-pantalla-pero-jbl-ya-tiene-mucho-baratos-1227862' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/jbl-tour-pro-2-2904764.jpg?tf=1200x' alt='Apple ha patentado unos AirPods con pantalla, pero JBL ya los tiene y mucho más baratos' />
     </a>
 </div>
 
