@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/samsung-podria-lanzar-tablet-plegable-finales-2023-rumores-1227792'>Samsung podría lanzar su tablet plegable a finales de 2023 según algunos rumores</a></h4>
+    <a href='https://computerhoy.com/tecnologia/samsung-podria-lanzar-tablet-plegable-finales-2023-rumores-1227792' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/samsung-podria-lanzar-tablet-plegable-finales-2023-rumores-3004294.jpg?tf=1200x' alt='Samsung podría lanzar su tablet plegable a finales de 2023 según algunos rumores' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/audio/apple-ha-patentado-airpods-pantalla-pero-jbl-ya-tiene-mucho-baratos-1227862'>Apple ha patentado unos AirPods con pantalla, pero JBL ya los tiene y mucho más baratos</a></h4>
+    <a href='https://computerhoy.com/audio/apple-ha-patentado-airpods-pantalla-pero-jbl-ya-tiene-mucho-baratos-1227862' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/jbl-tour-pro-2-2904764.jpg?tf=1200x' alt='Apple ha patentado unos AirPods con pantalla, pero JBL ya los tiene y mucho más baratos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/todo-sabemos-ipad-mini-2023-7th-gen-apple-1227794'>Todo lo que sabemos del iPad Mini 2023 (7th gen) de Apple</a></h4>
+    <a href='https://computerhoy.com/apple/todo-sabemos-ipad-mini-2023-7th-gen-apple-1227794' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/ipad-mini-6a-generacion-2021-analisis-opinion-2501973.jpg?tf=1200x' alt='Todo lo que sabemos del iPad Mini 2023 (7th gen) de Apple' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apple/tim-cook-ceo-apple-hace-cada-manana-comenzar-rutina-trabajo-1227778'>Esta es la razón por la que Tim Cook, CEO de Apple, lee cada mañana las reseñas de los usuarios</a></h4>
     <a href='https://computerhoy.com/apple/tim-cook-ceo-apple-hace-cada-manana-comenzar-rutina-trabajo-1227778' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/09/tim-cook.jpg?tf=1200x' alt='Esta es la razón por la que Tim Cook, CEO de Apple, lee cada mañana las reseñas de los usuarios' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/smartwatches/causas-fiebre-smartwatch-deportivos-caros-1224892'>Cada vez hay más smartwatch deportivos y más caros: cuáles son las causas de la fiebre que lideran el Apple Watch Ultra y el Huawei Watch Ultimate</a></h4>
     <a href='https://computerhoy.com/smartwatches/causas-fiebre-smartwatch-deportivos-caros-1224892' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/huawei-watch-ultimate-garmin-fenix-5-plus-apple-watch-ultra-3002078.jpg?tf=1200x' alt='Cada vez hay más smartwatch deportivos y más caros: cuáles son las causas de la fiebre que lideran el Apple Watch Ultra y el Huawei Watch Ultimate' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/noticias-tecnologia-hoy-lunes-10-abril-1227748'>29 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
-    <a href='https://computerhoy.com/tecnologia/noticias-tecnologia-hoy-lunes-10-abril-1227748' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/29-noticias-tecnologia-comenzar-manana-informado-ultimo-3004174.jpg?tf=1200x' alt='29 noticias de tecnología para comenzar la mañana informado de lo último' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/gaming/ofertas-playstation-5-juegos-tiempo-limitado-1226086'>Hemos encontrado todas estas PlayStation 5 para que todo el mundo pueda comprar una en oferta</a></h4>
-    <a href='https://computerhoy.com/gaming/ofertas-playstation-5-juegos-tiempo-limitado-1226086' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/playstation-5-ps5-2797383.jpg?tf=1200x' alt='Hemos encontrado todas estas PlayStation 5 para que todo el mundo pueda comprar una en oferta' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/robo-436-iphone-tienda-apple-tienda-cafeteras-1227562'>Hacen un agujero en el baño de una tienda de cafeteras... para robar 436 iPhone en la tienda Apple adyacente</a></h4>
-    <a href='https://computerhoy.com/apple/robo-436-iphone-tienda-apple-tienda-cafeteras-1227562' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/hacen-agujero-bano-tienda-cafeteras-robar-436-iphone-tienda-apple-adyacente-3003974.jpg?tf=1200x' alt='Hacen un agujero en el baño de una tienda de cafeteras... para robar 436 iPhone en la tienda Apple adyacente' />
     </a>
 </div>
 
