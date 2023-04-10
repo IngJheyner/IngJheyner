@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/internet/como-elegir-velocidad-internet-necesito-casa-habitos-aparatos-conectados-1228172'>Cómo elegir la velocidad de Internet según tus hábitos y dispositivos conectados</a></h4>
+    <a href='https://computerhoy.com/internet/como-elegir-velocidad-internet-necesito-casa-habitos-aparatos-conectados-1228172' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/como-elegir-velocidad-internet-habitos-dispositivos-conectados-3005006.jpg?tf=1200x' alt='Cómo elegir la velocidad de Internet según tus hábitos y dispositivos conectados' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/llega-propina-americana-espana-consiste-1228156'>Llega la “propina americana” a España y en esto consiste</a></h4>
     <a href='https://computerhoy.com/life/llega-propina-americana-espana-consiste-1228156' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/dejar-propina-3005012.jpg?tf=1200x' alt='Llega la “propina americana” a España y en esto consiste' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/entretenimiento/super-mario-bros-pelicula-taquilla-record-pelicula-animacion-1228138'>Super Mario Bros se lleva todas las monedas: ya es la película de animación con mejor taquilla de la historia</a></h4>
     <a href='https://computerhoy.com/entretenimiento/super-mario-bros-pelicula-taquilla-record-pelicula-animacion-1228138' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/super-mario-bros-lleva-todas-monedas-ya-pelicula-animacion-mejor-taquilla-historia-3004940.jpg?tf=1200x' alt='Super Mario Bros se lleva todas las monedas: ya es la película de animación con mejor taquilla de la historia' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/no-uses-app-identificar-plantas-caso-vida-muerte-1228066'>No uses una app para identificar plantas: es un caso de vida o muerte</a></h4>
-    <a href='https://computerhoy.com/apps/no-uses-app-identificar-plantas-caso-vida-muerte-1228066' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/cierto-plantas-te-roban-oxigeno-noches-2760773.jpg?tf=1200x' alt='No uses una app para identificar plantas: es un caso de vida o muerte' />
     </a>
 </div>
 
