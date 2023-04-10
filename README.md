@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/tim-cook-ceo-apple-hace-cada-manana-comenzar-rutina-trabajo-1227778'>Esta es la razón por la que Tim Cook, CEO de Apple, lee cada mañana las reseñas de los usuarios</a></h4>
+    <a href='https://computerhoy.com/apple/tim-cook-ceo-apple-hace-cada-manana-comenzar-rutina-trabajo-1227778' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/09/tim-cook.jpg?tf=1200x' alt='Esta es la razón por la que Tim Cook, CEO de Apple, lee cada mañana las reseñas de los usuarios' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/smartwatches/causas-fiebre-smartwatch-deportivos-caros-1224892'>Cada vez hay más smartwatch deportivos y más caros: cuáles son las causas de la fiebre que lideran el Apple Watch Ultra y el Huawei Watch Ultimate</a></h4>
+    <a href='https://computerhoy.com/smartwatches/causas-fiebre-smartwatch-deportivos-caros-1224892' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/huawei-watch-ultimate-garmin-fenix-5-plus-apple-watch-ultra-3002078.jpg?tf=1200x' alt='Cada vez hay más smartwatch deportivos y más caros: cuáles son las causas de la fiebre que lideran el Apple Watch Ultra y el Huawei Watch Ultimate' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/noticias-tecnologia-hoy-lunes-10-abril-1227748'>29 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
+    <a href='https://computerhoy.com/tecnologia/noticias-tecnologia-hoy-lunes-10-abril-1227748' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/29-noticias-tecnologia-comenzar-manana-informado-ultimo-3004174.jpg?tf=1200x' alt='29 noticias de tecnología para comenzar la mañana informado de lo último' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/gaming/ofertas-playstation-5-juegos-tiempo-limitado-1226086'>Hemos encontrado todas estas PlayStation 5 para que todo el mundo pueda comprar una en oferta</a></h4>
     <a href='https://computerhoy.com/gaming/ofertas-playstation-5-juegos-tiempo-limitado-1226086' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/playstation-5-ps5-2797383.jpg?tf=1200x' alt='Hemos encontrado todas estas PlayStation 5 para que todo el mundo pueda comprar una en oferta' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/apple/robo-436-iphone-tienda-apple-tienda-cafeteras-1227562'>Hacen un agujero en el baño de una tienda de cafeteras... para robar 436 iPhone en la tienda Apple adyacente</a></h4>
     <a href='https://computerhoy.com/apple/robo-436-iphone-tienda-apple-tienda-cafeteras-1227562' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/hacen-agujero-bano-tienda-cafeteras-robar-436-iphone-tienda-apple-adyacente-3003974.jpg?tf=1200x' alt='Hacen un agujero en el baño de una tienda de cafeteras... para robar 436 iPhone en la tienda Apple adyacente' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/ingeniero-avisa-no-juegues-poker-chatgpt-1227560'>Un ingeniero avisa: no juegues al póker con ChatGPT</a></h4>
-    <a href='https://computerhoy.com/tecnologia/ingeniero-avisa-no-juegues-poker-chatgpt-1227560' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/ingeniero-avisa-no-juegues-poker-chatgpt-3003972.jpg?tf=1200x' alt='Un ingeniero avisa: no juegues al póker con ChatGPT' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/disney-anuncia-tres-nuevas-peliculas-star-wars-retorno-rey-1227558'>Disney anuncia tres nuevas películas de Star Wars: vuelve Rey, y un querido director recibe su recompensa</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/disney-anuncia-tres-nuevas-peliculas-star-wars-retorno-rey-1227558' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/daisy-ridley-como-rey-universo-star-wars-3003152.jpg?tf=1200x' alt='Disney anuncia tres nuevas películas de Star Wars: vuelve Rey, y un querido director recibe su recompensa' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/5-ventiladores-baratos-menos-30-euros-tienen-envio-gratis-877491'>5 ventiladores baratos de menos de 30 euros que tienen envío gratis</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/5-ventiladores-baratos-menos-30-euros-tienen-envio-gratis-877491' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/ventilador-2359633.jpg?tf=1200x' alt='5 ventiladores baratos de menos de 30 euros que tienen envío gratis' />
     </a>
 </div>
 
