@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/puedes-conseguir-windows-11-gratis-necesidad-licencia-1228016'>Así puedes conseguir Windows 11 gratis sin necesidad de licencia</a></h4>
-    <a href='https://computerhoy.com/windows/puedes-conseguir-windows-11-gratis-necesidad-licencia-1228016' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/windows-11-3003862.jpg?tf=1200x' alt='Así puedes conseguir Windows 11 gratis sin necesidad de licencia' />
+    <h4><a href='https://computerhoy.com/life/llega-propina-americana-espana-consiste-1228156'>Llega la “propina americana” a España y en esto consiste</a></h4>
+    <a href='https://computerhoy.com/life/llega-propina-americana-espana-consiste-1228156' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/dejar-propina-3005012.jpg?tf=1200x' alt='Llega la “propina americana” a España y en esto consiste' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/ya-puedes-usar-whatsapp-dos-moviles-vez-nuevo-companion-mode-whatsapp-1228046'>Ya puedes usar tu WhatsApp en dos móviles a la vez: así es el nuevo Companion Mode de WhatsApp</a></h4>
-    <a href='https://computerhoy.com/apps/ya-puedes-usar-whatsapp-dos-moviles-vez-nuevo-companion-mode-whatsapp-1228046' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/ya-puedes-usar-whatsapp-dos-moviles-vez-nuevo-companion-mode-whatsapp-3004794.jpg?tf=1200x' alt='Ya puedes usar tu WhatsApp en dos móviles a la vez: así es el nuevo Companion Mode de WhatsApp' />
+    <h4><a href='https://computerhoy.com/apps/todas-novedades-android-auto-93-como-forzar-actualizacion-1228152'>Todas las novedades de Android Auto 9.3 y cómo forzar la actualización</a></h4>
+    <a href='https://computerhoy.com/apps/todas-novedades-android-auto-93-como-forzar-actualizacion-1228152' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/android-auto-coolwalk-2870275.jpg?tf=1200x' alt='Todas las novedades de Android Auto 9.3 y cómo forzar la actualización' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/android/merece-pena-pagar-antivirus-tablet-movil-android-1227924'>¿Merece la pena pagar por un antivirus para tu tablet o móvil Android? La respuesta te sorprenderá</a></h4>
-    <a href='https://computerhoy.com/android/merece-pena-pagar-antivirus-tablet-movil-android-1227924' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/merece-pena-pagar-antivirus-tablet-movil-android-respuesta-te-sorprendera-3004562.jpg?tf=1200x' alt='¿Merece la pena pagar por un antivirus para tu tablet o móvil Android? La respuesta te sorprenderá' />
+    <h4><a href='https://computerhoy.com/software/poe-chatbot-quora-gobernar-todos-chatbots-1228150'>Poe: así es el chatbot de Quora para gobernar a todos los chatbots</a></h4>
+    <a href='https://computerhoy.com/software/poe-chatbot-quora-gobernar-todos-chatbots-1228150' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/poe-chatbot-quora-gobernar-todos-chatbots-3004992.jpg?tf=1200x' alt='Poe: así es el chatbot de Quora para gobernar a todos los chatbots' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/gaming/10-trucos-configurar-correctamente-ps5-1227978'>10 trucos para optimizar el uso de la PS5</a></h4>
-    <a href='https://computerhoy.com/gaming/10-trucos-configurar-correctamente-ps5-1227978' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/playstation-5-ps5-2963696.jpg?tf=1200x' alt='10 trucos para optimizar el uso de la PS5' />
+    <h4><a href='https://computerhoy.com/entretenimiento/super-mario-bros-pelicula-taquilla-record-pelicula-animacion-1228138'>Super Mario Bros se lleva todas las monedas: ya es la película de animación con mejor taquilla de la historia</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/super-mario-bros-pelicula-taquilla-record-pelicula-animacion-1228138' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/super-mario-bros-lleva-todas-monedas-ya-pelicula-animacion-mejor-taquilla-historia-3004940.jpg?tf=1200x' alt='Super Mario Bros se lleva todas las monedas: ya es la película de animación con mejor taquilla de la historia' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/estos-son-5-grandes-problemas-tecnologicos-puedes-encontrar-cuando-viajas-1227874'>Estos son los 5 grandes problemas tecnológicos que puedes encontrar cuando viajas</a></h4>
-    <a href='https://computerhoy.com/tecnologia/estos-son-5-grandes-problemas-tecnologicos-puedes-encontrar-cuando-viajas-1227874' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/estos-son-5-grandes-problemas-tecnologicos-puedes-encontrar-cuando-viajas-3004456.jpg?tf=1200x' alt='Estos son los 5 grandes problemas tecnológicos que puedes encontrar cuando viajas' />
+    <h4><a href='https://computerhoy.com/apps/no-uses-app-identificar-plantas-caso-vida-muerte-1228066'>No uses una app para identificar plantas: es un caso de vida o muerte</a></h4>
+    <a href='https://computerhoy.com/apps/no-uses-app-identificar-plantas-caso-vida-muerte-1228066' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/cierto-plantas-te-roban-oxigeno-noches-2760773.jpg?tf=1200x' alt='No uses una app para identificar plantas: es un caso de vida o muerte' />
     </a>
 </div>
 
