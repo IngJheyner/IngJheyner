@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/perros-chernobil-radiacion-evolucionan-forma-diferente-1228176'>Los perros de Chernóbil han mutado: evolucionan de forma diferente a los de zonas cercanas</a></h4>
+    <a href='https://computerhoy.com/ciencia/perros-chernobil-radiacion-evolucionan-forma-diferente-1228176' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/perros-chernobil-han-mutado-evolucionan-forma-diferente-zonas-cercanas-3005044.jpg?tf=1200x' alt='Los perros de Chernóbil han mutado: evolucionan de forma diferente a los de zonas cercanas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/internet/como-elegir-velocidad-internet-necesito-casa-habitos-aparatos-conectados-1228172'>Cómo elegir la velocidad de Internet según tus hábitos y dispositivos conectados</a></h4>
     <a href='https://computerhoy.com/internet/como-elegir-velocidad-internet-necesito-casa-habitos-aparatos-conectados-1228172' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/como-elegir-velocidad-internet-habitos-dispositivos-conectados-3005006.jpg?tf=1200x' alt='Cómo elegir la velocidad de Internet según tus hábitos y dispositivos conectados' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/software/poe-chatbot-quora-gobernar-todos-chatbots-1228150'>Poe: así es el chatbot de Quora para gobernar a todos los chatbots</a></h4>
     <a href='https://computerhoy.com/software/poe-chatbot-quora-gobernar-todos-chatbots-1228150' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/poe-chatbot-quora-gobernar-todos-chatbots-3004992.jpg?tf=1200x' alt='Poe: así es el chatbot de Quora para gobernar a todos los chatbots' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/super-mario-bros-pelicula-taquilla-record-pelicula-animacion-1228138'>Super Mario Bros se lleva todas las monedas: ya es la película de animación con mejor taquilla de la historia</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/super-mario-bros-pelicula-taquilla-record-pelicula-animacion-1228138' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/super-mario-bros-lleva-todas-monedas-ya-pelicula-animacion-mejor-taquilla-historia-3004940.jpg?tf=1200x' alt='Super Mario Bros se lleva todas las monedas: ya es la película de animación con mejor taquilla de la historia' />
     </a>
 </div>
 
