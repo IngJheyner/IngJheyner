@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/45-anos-lenguaje-longevo-cobol-80-sigue-demandandose-1219580'>COBOL-80: ¿Por qué un lenguaje de hace 45 años sigue demandándose?</a></h4>
+    <a href='https://computerhoy.com/tecnologia/45-anos-lenguaje-longevo-cobol-80-sigue-demandandose-1219580' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/ponte-dia-cobol-80-lenguaje-45-anos-sigue-siendo-tan-demandado-3003538.jpg?tf=1200x' alt='COBOL-80: ¿Por qué un lenguaje de hace 45 años sigue demandándose?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/noticias-tecnologia-hoy-martes-11-abril-1228384'>20 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
+    <a href='https://computerhoy.com/tecnologia/noticias-tecnologia-hoy-martes-11-abril-1228384' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/20-noticias-tecnologia-comenzar-manana-informado-ultimo-3005254.jpg?tf=1200x' alt='20 noticias de tecnología para comenzar la mañana informado de lo último' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/hogar/mejores-robots-aspiradoras-baratos-lefant-1227892'>Estos son los mejores robots aspiradores de Lefant, la marca de bajo coste de gran éxito en Amazon</a></h4>
+    <a href='https://computerhoy.com/hogar/mejores-robots-aspiradoras-baratos-lefant-1227892' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/robot-aspirador-lefant-3004890.jpg?tf=1200x' alt='Estos son los mejores robots aspiradores de Lefant, la marca de bajo coste de gran éxito en Amazon' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/criptos/datos-consumo-contaminacion-bitcoin-estados-unidos-son-alarmantes-1228382'>El bitcoin consume en Estados Unidos como una ciudad de 8 millones de habitantes, contamina como 3,5 millones de coches, y sube el precio de la luz</a></h4>
+    <a href='https://computerhoy.com/criptos/datos-consumo-contaminacion-bitcoin-estados-unidos-son-alarmantes-1228382' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/bitcoin-consume-estados-unidos-como-ciudad-1-millon-habitantes-contamina-como-35-millones-coches-sube-precio-luz-3005252.jpg?tf=1200x' alt='El bitcoin consume en Estados Unidos como una ciudad de 8 millones de habitantes, contamina como 3,5 millones de coches, y sube el precio de la luz' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciencia/perros-chernobil-radiacion-evolucionan-forma-diferente-1228176'>Los perros de Chernóbil han mutado: evolucionan de forma diferente a los de zonas cercanas</a></h4>
     <a href='https://computerhoy.com/ciencia/perros-chernobil-radiacion-evolucionan-forma-diferente-1228176' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/perros-chernobil-han-mutado-evolucionan-forma-diferente-zonas-cercanas-3005044.jpg?tf=1200x' alt='Los perros de Chernóbil han mutado: evolucionan de forma diferente a los de zonas cercanas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/como-elegir-velocidad-internet-necesito-casa-habitos-aparatos-conectados-1228172'>Cómo elegir la velocidad de Internet según tus hábitos y dispositivos conectados</a></h4>
-    <a href='https://computerhoy.com/internet/como-elegir-velocidad-internet-necesito-casa-habitos-aparatos-conectados-1228172' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/como-elegir-velocidad-internet-habitos-dispositivos-conectados-3005006.jpg?tf=1200x' alt='Cómo elegir la velocidad de Internet según tus hábitos y dispositivos conectados' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/llega-propina-americana-espana-consiste-1228156'>Llega la “propina americana” a España y en esto consiste</a></h4>
-    <a href='https://computerhoy.com/life/llega-propina-americana-espana-consiste-1228156' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/dejar-propina-3005012.jpg?tf=1200x' alt='Llega la “propina americana” a España y en esto consiste' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/todas-novedades-android-auto-93-como-forzar-actualizacion-1228152'>Todas las novedades de Android Auto 9.3 y cómo forzar la actualización</a></h4>
-    <a href='https://computerhoy.com/apps/todas-novedades-android-auto-93-como-forzar-actualizacion-1228152' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/android-auto-coolwalk-2870275.jpg?tf=1200x' alt='Todas las novedades de Android Auto 9.3 y cómo forzar la actualización' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/software/poe-chatbot-quora-gobernar-todos-chatbots-1228150'>Poe: así es el chatbot de Quora para gobernar a todos los chatbots</a></h4>
-    <a href='https://computerhoy.com/software/poe-chatbot-quora-gobernar-todos-chatbots-1228150' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/poe-chatbot-quora-gobernar-todos-chatbots-3004992.jpg?tf=1200x' alt='Poe: así es el chatbot de Quora para gobernar a todos los chatbots' />
     </a>
 </div>
 
