@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/amazon/convierte-dispositivo-amazon-alexa-alarma-24-horas-casa-totalmente-gratis-1228584'>Convierte tu dispositivo Amazon con Alexa en una alarma 24 horas para casa totalmente gratis</a></h4>
-    <a href='https://computerhoy.com/amazon/convierte-dispositivo-amazon-alexa-alarma-24-horas-casa-totalmente-gratis-1228584' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/echo-dot-5a-generacion-2875349.jpg?tf=1200x' alt='Convierte tu dispositivo Amazon con Alexa en una alarma 24 horas para casa totalmente gratis' />
+    <h4><a href='https://computerhoy.com/entretenimiento/max-llamara-nuevo-servicio-streaming-sustituira-hbo-max-1228668'>Max: así se llamará el nuevo servicio de streaming que sustituirá a HBO Max</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/max-llamara-nuevo-servicio-streaming-sustituira-hbo-max-1228668' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/hbo-max-2778919.jpg?tf=1200x' alt='Max: así se llamará el nuevo servicio de streaming que sustituirá a HBO Max' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-conseguir-dato-casilla-505-renta-2022-23-1225588'>Cómo conseguir el dato de la casilla 505 para la declaración de la Renta 2022/23</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-conseguir-dato-casilla-505-renta-2022-23-1225588' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/02/renta-1871531.jpg?tf=1200x' alt='Cómo conseguir el dato de la casilla 505 para la declaración de la Renta 2022/23' />
+    <h4><a href='https://computerhoy.com/redes-sociales/twitter-tiene-nuevo-bug-circulos-no-son-privados-cualquiera-puede-ver-escribes-1228592'>Twitter tiene un nuevo bug: los círculos no son privados y cualquiera puede ver lo que escribes</a></h4>
+    <a href='https://computerhoy.com/redes-sociales/twitter-tiene-nuevo-bug-circulos-no-son-privados-cualquiera-puede-ver-escribes-1228592' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/bye-bye-bird-pajaro-raspberry-pi-suelta-lagrima-cada-vez-alguien-borra-twitter-2881713.jpg?tf=1200x' alt='Twitter tiene un nuevo bug: los círculos no son privados y cualquiera puede ver lo que escribes' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/aldea-asterix-espana-tiene-propio-idioma-no-habla-ningun-otro-lugar-mundo-1228582'>La aldea de Astérix está en España: tiene su propio idioma que no se habla en ningún otro lugar del mundo</a></h4>
-    <a href='https://computerhoy.com/life/aldea-asterix-espana-tiene-propio-idioma-no-habla-ningun-otro-lugar-mundo-1228582' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/asterix-obelix-reino-medio-2914524.jpg?tf=1200x' alt='La aldea de Astérix está en España: tiene su propio idioma que no se habla en ningún otro lugar del mundo' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/como-saber-cuanta-ram-tiene-mi-pc-428069'>Cómo saber cuánta RAM tiene mi PC</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/como-saber-cuanta-ram-tiene-mi-pc-428069' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/05/ram.jpg?tf=1200x' alt='Cómo saber cuánta RAM tiene mi PC' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/6-dispositivos-todos-esperan-apple-presente-2023-1228514'>Estos son los 6 dispositivos que todos esperan que Apple presente en 2023</a></h4>
-    <a href='https://computerhoy.com/apple/6-dispositivos-todos-esperan-apple-presente-2023-1228514' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/estos-son-6-dispositivos-todos-esperan-apple-presente-2023-3005574.jpg?tf=1200x' alt='Estos son los 6 dispositivos que todos esperan que Apple presente en 2023' />
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/topes-gama-mas-baratos-iphone-14-pro-max-1123867'>Topes de gama que son más baratos que el iPhone 14 Pro Max y que merecen mucho la pena</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/topes-gama-mas-baratos-iphone-14-pro-max-1123867' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/galeria-review-galaxy-s22-ultra-2620965.jpg?tf=1200x' alt='Topes de gama que son más baratos que el iPhone 14 Pro Max y que merecen mucho la pena' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-saber-router-wifi-te-dando-velocidad-realmente-necesitas-1228556'>Cómo saber si tu router WiFi te está dando la velocidad que realmente necesitas</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-saber-router-wifi-te-dando-velocidad-realmente-necesitas-1228556' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/router-wifi-2839071.jpg?tf=1200x' alt='Cómo saber si tu router WiFi te está dando la velocidad que realmente necesitas' />
+    <h4><a href='https://computerhoy.com/streaming/llega-warner-tv-nuevo-canal-gratuito-demanda-sustituye-tnt-1228602'>Se estrena Warner TV, el nuevo canal que sustituye a TNT, con importantes novedades</a></h4>
+    <a href='https://computerhoy.com/streaming/llega-warner-tv-nuevo-canal-gratuito-demanda-sustituye-tnt-1228602' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/verticalimage1681217178216-3005850.jpg?tf=1200x' alt='Se estrena Warner TV, el nuevo canal que sustituye a TNT, con importantes novedades' />
     </a>
 </div>
 
