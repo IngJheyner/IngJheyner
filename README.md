@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/45-anos-lenguaje-longevo-cobol-80-sigue-demandandose-1219580'>COBOL-80: ¿Por qué un lenguaje de hace 45 años sigue demandándose?</a></h4>
-    <a href='https://computerhoy.com/tecnologia/45-anos-lenguaje-longevo-cobol-80-sigue-demandandose-1219580' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/ponte-dia-cobol-80-lenguaje-45-anos-sigue-siendo-tan-demandado-3003538.jpg?tf=1200x' alt='COBOL-80: ¿Por qué un lenguaje de hace 45 años sigue demandándose?' />
+    <h4><a href='https://computerhoy.com/tecnologia/bill-gates-pone-fecha-llegada-coche-autonomo-ciudad-1228428'>Bill Gates pone fecha definitiva a la llegada del coche autónomo a nuestras ciudades</a></h4>
+    <a href='https://computerhoy.com/tecnologia/bill-gates-pone-fecha-llegada-coche-autonomo-ciudad-1228428' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/bill-gates-pone-fecha-definitiva-llegada-coche-autonomo-ciudades-3005338.jpg?tf=1200x' alt='Bill Gates pone fecha definitiva a la llegada del coche autónomo a nuestras ciudades' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/noticias-tecnologia-hoy-martes-11-abril-1228384'>20 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
-    <a href='https://computerhoy.com/tecnologia/noticias-tecnologia-hoy-martes-11-abril-1228384' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/20-noticias-tecnologia-comenzar-manana-informado-ultimo-3005254.jpg?tf=1200x' alt='20 noticias de tecnología para comenzar la mañana informado de lo último' />
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-apple-rango-precio-931423'>Estos son los mejores móviles de Apple por rango de precio</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-apple-rango-precio-931423' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/persona-sujetando-iphone-14-pro-3005300.jpg?tf=1200x' alt='Estos son los mejores móviles de Apple por rango de precio' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/hogar/mejores-robots-aspiradoras-baratos-lefant-1227892'>Estos son los mejores robots aspiradores de Lefant, la marca de bajo coste de gran éxito en Amazon</a></h4>
-    <a href='https://computerhoy.com/hogar/mejores-robots-aspiradoras-baratos-lefant-1227892' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/robot-aspirador-lefant-3004890.jpg?tf=1200x' alt='Estos son los mejores robots aspiradores de Lefant, la marca de bajo coste de gran éxito en Amazon' />
+    <h4><a href='https://computerhoy.com/tutoriales/como-crear-contrasena-segura-prueba-ia-1228434'>Cómo crear una contraseña segura a prueba de inteligencia artificial</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-crear-contrasena-segura-prueba-ia-1228434' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/10-contrasenas-inseguras-2022-como-escoger-acertada-2914964.jpg?tf=1200x' alt='Cómo crear una contraseña segura a prueba de inteligencia artificial' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/criptos/datos-consumo-contaminacion-bitcoin-estados-unidos-son-alarmantes-1228382'>El bitcoin consume en Estados Unidos como una ciudad de 8 millones de habitantes, contamina como 3,5 millones de coches, y sube el precio de la luz</a></h4>
-    <a href='https://computerhoy.com/criptos/datos-consumo-contaminacion-bitcoin-estados-unidos-son-alarmantes-1228382' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/bitcoin-consume-estados-unidos-como-ciudad-1-millon-habitantes-contamina-como-35-millones-coches-sube-precio-luz-3005252.jpg?tf=1200x' alt='El bitcoin consume en Estados Unidos como una ciudad de 8 millones de habitantes, contamina como 3,5 millones de coches, y sube el precio de la luz' />
+    <h4><a href='https://computerhoy.com/tecnologia/gigante-tecnologico-detras-aliexpress-ya-cuenta-propio-chatbot-rival-chatgpt-1228418'>El gigante tecnológico detrás de AliExpress ya cuenta con su propio chatbot rival de ChatGPT</a></h4>
+    <a href='https://computerhoy.com/tecnologia/gigante-tecnologico-detras-aliexpress-ya-cuenta-propio-chatbot-rival-chatgpt-1228418' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/gigante-tecnologico-detras-aliexpress-ya-cuenta-propio-chatbot-rival-chatgpt-3005318.jpg?tf=1200x' alt='El gigante tecnológico detrás de AliExpress ya cuenta con su propio chatbot rival de ChatGPT' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/perros-chernobil-radiacion-evolucionan-forma-diferente-1228176'>Los perros de Chernóbil han mutado: evolucionan de forma diferente a los de zonas cercanas</a></h4>
-    <a href='https://computerhoy.com/ciencia/perros-chernobil-radiacion-evolucionan-forma-diferente-1228176' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/perros-chernobil-han-mutado-evolucionan-forma-diferente-zonas-cercanas-3005044.jpg?tf=1200x' alt='Los perros de Chernóbil han mutado: evolucionan de forma diferente a los de zonas cercanas' />
+    <h4><a href='https://computerhoy.com/software/microsoft-lleva-cinco-anos-ralentizando-firefox-microsoft-defender-1228422'>Microsoft lleva cinco años ralentizando Firefox con Microsoft Defender</a></h4>
+    <a href='https://computerhoy.com/software/microsoft-lleva-cinco-anos-ralentizando-firefox-microsoft-defender-1228422' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/defender-firefox-3005294.jpg?tf=1200x' alt='Microsoft lleva cinco años ralentizando Firefox con Microsoft Defender' />
     </a>
 </div>
 
