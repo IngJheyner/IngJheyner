@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/max-llamara-nuevo-servicio-streaming-sustituira-hbo-max-1228668'>Max: así se llamará el nuevo servicio de streaming que sustituirá a HBO Max</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/max-llamara-nuevo-servicio-streaming-sustituira-hbo-max-1228668' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/hbo-max-2778919.jpg?tf=1200x' alt='Max: así se llamará el nuevo servicio de streaming que sustituirá a HBO Max' />
+    <h4><a href='https://computerhoy.com/streaming/lofi-girl-synth-boy-lofi-boy-mejor-musica-gratis-concentrarte-1228710'>Lofi Girl tiene un nuevo amigo, Synth Boy: la mejor música gratis para concentrarte mientras estudias o trabajas</a></h4>
+    <a href='https://computerhoy.com/streaming/lofi-girl-synth-boy-lofi-boy-mejor-musica-gratis-concentrarte-1228710' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/lofi-girl-tiene-nuevo-amigo-synth-boy-mejor-musica-gratis-concentrarte-mientras-estudias-trabajas-3006302.jpg?tf=1200x' alt='Lofi Girl tiene un nuevo amigo, Synth Boy: la mejor música gratis para concentrarte mientras estudias o trabajas' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/redes-sociales/twitter-tiene-nuevo-bug-circulos-no-son-privados-cualquiera-puede-ver-escribes-1228592'>Twitter tiene un nuevo bug: los círculos no son privados y cualquiera puede ver lo que escribes</a></h4>
-    <a href='https://computerhoy.com/redes-sociales/twitter-tiene-nuevo-bug-circulos-no-son-privados-cualquiera-puede-ver-escribes-1228592' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/bye-bye-bird-pajaro-raspberry-pi-suelta-lagrima-cada-vez-alguien-borra-twitter-2881713.jpg?tf=1200x' alt='Twitter tiene un nuevo bug: los círculos no son privados y cualquiera puede ver lo que escribes' />
+    <h4><a href='https://computerhoy.com/espacio/estas-son-impresionantes-nunca-vistas-imagenes-urano-captadas-james-webb-1228632'>Estas son las impresionantes y nunca vistas imágenes de Urano captadas por el James Webb</a></h4>
+    <a href='https://computerhoy.com/espacio/estas-son-impresionantes-nunca-vistas-imagenes-urano-captadas-james-webb-1228632' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/estas-son-impresionantes-nunca-vistas-imagenes-urano-captadas-james-webb-3006046.jpg?tf=1200x' alt='Estas son las impresionantes y nunca vistas imágenes de Urano captadas por el James Webb' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/como-saber-cuanta-ram-tiene-mi-pc-428069'>Cómo saber cuánta RAM tiene mi PC</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/como-saber-cuanta-ram-tiene-mi-pc-428069' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/05/ram.jpg?tf=1200x' alt='Cómo saber cuánta RAM tiene mi PC' />
+    <h4><a href='https://computerhoy.com/life/crometofobia-trastorno-no-hay-confundir-tacaneria-1228696'>Qué es la crometofobia, un trastorno que no hay que confundir con la tacañería</a></h4>
+    <a href='https://computerhoy.com/life/crometofobia-trastorno-no-hay-confundir-tacaneria-1228696' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/crometofobia-trastorno-no-hay-confundir-tacaneria-3006076.jpg?tf=1200x' alt='Qué es la crometofobia, un trastorno que no hay que confundir con la tacañería' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/topes-gama-mas-baratos-iphone-14-pro-max-1123867'>Topes de gama que son más baratos que el iPhone 14 Pro Max y que merecen mucho la pena</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/topes-gama-mas-baratos-iphone-14-pro-max-1123867' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/galeria-review-galaxy-s22-ultra-2620965.jpg?tf=1200x' alt='Topes de gama que son más baratos que el iPhone 14 Pro Max y que merecen mucho la pena' />
+    <h4><a href='https://computerhoy.com/life/despues-ver-te-quitaran-ganas-volver-usar-secador-manos-1228690'>Después de ver esto se te quitarán las ganas de volver a usar un secador de manos</a></h4>
+    <a href='https://computerhoy.com/life/despues-ver-te-quitaran-ganas-volver-usar-secador-manos-1228690' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/secador-manos-3006242.jpg?tf=1200x' alt='Después de ver esto se te quitarán las ganas de volver a usar un secador de manos' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/streaming/llega-warner-tv-nuevo-canal-gratuito-demanda-sustituye-tnt-1228602'>Se estrena Warner TV, el nuevo canal que sustituye a TNT, con importantes novedades</a></h4>
-    <a href='https://computerhoy.com/streaming/llega-warner-tv-nuevo-canal-gratuito-demanda-sustituye-tnt-1228602' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/verticalimage1681217178216-3005850.jpg?tf=1200x' alt='Se estrena Warner TV, el nuevo canal que sustituye a TNT, con importantes novedades' />
+    <h4><a href='https://computerhoy.com/ciberseguridad/fbi-advierte-lugares-donde-nunca-deberias-cargar-movil-1228686'>El FBI advierte sobre los lugares donde nunca deberías cargar tu móvil</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/fbi-advierte-lugares-donde-nunca-deberias-cargar-movil-1228686' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/puerto-carga-publico-3006240.jpg?tf=1200x' alt='El FBI advierte sobre los lugares donde nunca deberías cargar tu móvil' />
     </a>
 </div>
 
