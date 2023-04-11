@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/hyundai-sufre-ciberataque-espana-compromete-datos-miles-clientes-1228530'>Hyundai sufre un ciberataque en España que compromete los datos de miles de clientes</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/hyundai-sufre-ciberataque-espana-compromete-datos-miles-clientes-1228530' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/hyundai-sufre-ciberataque-espana-compromete-datos-miles-usuarios-3005588.jpg?tf=1200x' alt='Hyundai sufre un ciberataque en España que compromete los datos de miles de clientes' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/motor/empleados-tesla-compartieron-videos-sensibles-grabados-vehiculos-1228444'>Tesla contra las cuerdas: empleados compartieron contenido sensible grabado por los vehículos</a></h4>
+    <a href='https://computerhoy.com/motor/empleados-tesla-compartieron-videos-sensibles-grabados-vehiculos-1228444' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/tesla-cuerdas-empleados-compartieron-contenido-sensible-grabado-vehiculos-3005386.jpg?tf=1200x' alt='Tesla contra las cuerdas: empleados compartieron contenido sensible grabado por los vehículos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/audio/huawei-freebuds-5-nuevos-llamativos-auriculares-premium-aterrizan-espana-1228476'>Huawei FreeBuds 5: los nuevos y llamativos auriculares TWS premium aterrizan en España</a></h4>
+    <a href='https://computerhoy.com/audio/huawei-freebuds-5-nuevos-llamativos-auriculares-premium-aterrizan-espana-1228476' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/huawei-freebuds-5-nuevos-llamativos-auriculares-premium-aterrizan-espana-3005454.jpg?tf=1200x' alt='Huawei FreeBuds 5: los nuevos y llamativos auriculares TWS premium aterrizan en España' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/google/google-no-dara-soporte-pantallas-inteligentes-lanzadas-2018-1228478'>Google finaliza el soporte para pantallas inteligentes de LG, Lenovo y JBL: qué hacer si tienes una</a></h4>
+    <a href='https://computerhoy.com/google/google-no-dara-soporte-pantallas-inteligentes-lanzadas-2018-1228478' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/12/lenovo-smart-display.jpg?tf=1200x' alt='Google finaliza el soporte para pantallas inteligentes de LG, Lenovo y JBL: qué hacer si tienes una' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/bill-gates-pone-fecha-llegada-coche-autonomo-ciudad-1228428'>Bill Gates pone fecha definitiva a la llegada del coche autónomo a nuestras ciudades</a></h4>
     <a href='https://computerhoy.com/tecnologia/bill-gates-pone-fecha-llegada-coche-autonomo-ciudad-1228428' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/bill-gates-pone-fecha-definitiva-llegada-coche-autonomo-ciudades-3005338.jpg?tf=1200x' alt='Bill Gates pone fecha definitiva a la llegada del coche autónomo a nuestras ciudades' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-apple-rango-precio-931423'>Estos son los mejores móviles de Apple por rango de precio</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-apple-rango-precio-931423' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/persona-sujetando-iphone-14-pro-3005300.jpg?tf=1200x' alt='Estos son los mejores móviles de Apple por rango de precio' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-crear-contrasena-segura-prueba-ia-1228434'>Cómo crear una contraseña segura a prueba de inteligencia artificial</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-crear-contrasena-segura-prueba-ia-1228434' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/10-contrasenas-inseguras-2022-como-escoger-acertada-2914964.jpg?tf=1200x' alt='Cómo crear una contraseña segura a prueba de inteligencia artificial' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/gigante-tecnologico-detras-aliexpress-ya-cuenta-propio-chatbot-rival-chatgpt-1228418'>El gigante tecnológico detrás de AliExpress ya cuenta con su propio chatbot rival de ChatGPT</a></h4>
-    <a href='https://computerhoy.com/tecnologia/gigante-tecnologico-detras-aliexpress-ya-cuenta-propio-chatbot-rival-chatgpt-1228418' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/gigante-tecnologico-detras-aliexpress-ya-cuenta-propio-chatbot-rival-chatgpt-3005318.jpg?tf=1200x' alt='El gigante tecnológico detrás de AliExpress ya cuenta con su propio chatbot rival de ChatGPT' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/software/microsoft-lleva-cinco-anos-ralentizando-firefox-microsoft-defender-1228422'>Microsoft lleva cinco años ralentizando Firefox con Microsoft Defender</a></h4>
-    <a href='https://computerhoy.com/software/microsoft-lleva-cinco-anos-ralentizando-firefox-microsoft-defender-1228422' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/defender-firefox-3005294.jpg?tf=1200x' alt='Microsoft lleva cinco años ralentizando Firefox con Microsoft Defender' />
     </a>
 </div>
 
