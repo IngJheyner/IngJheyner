@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tv/tcl-cf630-qled-4k-smart-tv-oferta-amazon-1228462'>Amazon ha rebajado una de las Smart TV con panel QLED más económicas que ahora es 100€ más barata</a></h4>
-    <a href='https://computerhoy.com/tv/tcl-cf630-qled-4k-smart-tv-oferta-amazon-1228462' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/tcl-cf630-2950584.jpg?tf=1200x' alt='Amazon ha rebajado una de las Smart TV con panel QLED más económicas que ahora es 100€ más barata' />
+    <h4><a href='https://computerhoy.com/redes-sociales/elon-musk-confiesa-bbc-dispuesto-vender-twitter-1229220'>Elon Musk confiesa a la BBC que está dispuesto a vender Twitter</a></h4>
+    <a href='https://computerhoy.com/redes-sociales/elon-musk-confiesa-bbc-dispuesto-vender-twitter-1229220' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/elon-musk-dueno-twitter-2937776.jpg?tf=1200x' alt='Elon Musk confiesa a la BBC que está dispuesto a vender Twitter' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/aburrido-wordle-nyt-lanza-digits-nuevo-juego-diario-ahora-numeros-tremendamente-adictivo-1229166'>¿Aburrido de Wordle? NYT lanza Digits su nuevo juego diario, ahora con números, tremendamente adictivo</a></h4>
-    <a href='https://computerhoy.com/internet/aburrido-wordle-nyt-lanza-digits-nuevo-juego-diario-ahora-numeros-tremendamente-adictivo-1229166' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/aburrido-wordle-nyt-lanza-digits-nuevo-juego-diario-ahora-numeros-tremendamente-adictivo-3007014.jpg?tf=1200x' alt='¿Aburrido de Wordle? NYT lanza Digits su nuevo juego diario, ahora con números, tremendamente adictivo' />
+    <h4><a href='https://computerhoy.com/legislacion/espana-podria-seguir-pasos-italia-prohibir-utilizacion-chatgpt-1229226'>España podría seguir los pasos de Italia y prohibir la utilización de ChatGPT</a></h4>
+    <a href='https://computerhoy.com/legislacion/espana-podria-seguir-pasos-italia-prohibir-utilizacion-chatgpt-1229226' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/chatgpt-2997362.jpg?tf=1200x' alt='España podría seguir los pasos de Italia y prohibir la utilización de ChatGPT' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/hacer-te-has-equivocado-presentar-declaracion-renta-1225632'>Consecuencias y qué debes hacer si te equivocas al presentar la declaración de la Renta 2022/23</a></h4>
-    <a href='https://computerhoy.com/tutoriales/hacer-te-has-equivocado-presentar-declaracion-renta-1225632' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/renta-2021-2675373.jpg?tf=1200x' alt='Consecuencias y qué debes hacer si te equivocas al presentar la declaración de la Renta 2022/23' />
+    <h4><a href='https://computerhoy.com/tecnologia/mejores-ofertas-semana-web-mediamarkt-1229042'>Chollos en móviles, portátiles, Smart TV y movilidad en la Semana Web de MediaMarkt</a></h4>
+    <a href='https://computerhoy.com/tecnologia/mejores-ofertas-semana-web-mediamarkt-1229042' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/frontal-tienda-mediamarkt-3006918.jpg?tf=1200x' alt='Chollos en móviles, portátiles, Smart TV y movilidad en la Semana Web de MediaMarkt' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/nvidia-geforce-rtx-4070-founders-edition-ya-realidad-juegos-4k-ray-tracing-renunciar-nada-1229116'>Nvidia GeForce RTX 4070 Founders Edition ya es una realidad: juegos en 4K con Ray Tracing sin renunciar a nada</a></h4>
-    <a href='https://computerhoy.com/pc/nvidia-geforce-rtx-4070-founders-edition-ya-realidad-juegos-4k-ray-tracing-renunciar-nada-1229116' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/valoracion-rtx-4070-3006300.jpg?tf=1200x' alt='Nvidia GeForce RTX 4070 Founders Edition ya es una realidad: juegos en 4K con Ray Tracing sin renunciar a nada' />
+    <h4><a href='https://computerhoy.com/paso-a-paso/hardware/repara-tu-disco-duro-danado-sectores-defectuosos-9051'>Repara tu disco duro dañado con sectores defectuosos</a></h4>
+    <a href='https://computerhoy.com/paso-a-paso/hardware/repara-tu-disco-duro-danado-sectores-defectuosos-9051' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/07/disco-duro-hdd.jpg?tf=1200x' alt='Repara tu disco duro dañado con sectores defectuosos' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/software/ya-puedes-usar-whatsapp-dos-dispositivos-android-vez-1229150'>Ya puedes usar WhatsApp en dos dispositivos Android a la vez</a></h4>
-    <a href='https://computerhoy.com/software/ya-puedes-usar-whatsapp-dos-dispositivos-android-vez-1229150' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/whatsapp-estrena-chat-oficial-resolver-dudas-recibir-ayuda-2992604.jpg?tf=1200x' alt='Ya puedes usar WhatsApp en dos dispositivos Android a la vez' />
+    <h4><a href='https://computerhoy.com/life/forma-usas-raton-refleja-nivel-estres-1229218'>La forma en la que usas el ratón refleja tu nivel de estrés</a></h4>
+    <a href='https://computerhoy.com/life/forma-usas-raton-refleja-nivel-estres-1229218' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/raton-ordenador-2927508.jpg?tf=1200x' alt='La forma en la que usas el ratón refleja tu nivel de estrés' />
     </a>
 </div>
 
