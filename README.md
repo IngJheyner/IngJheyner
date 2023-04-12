@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/analisis/samsung-galaxy-s23-galaxy-s23-analisis-review-caracteristicas-precio-1216246'>Samsung Galaxy S23 y Galaxy S23+, todo ha cambiado para que nada cambie</a></h4>
+    <a href='https://computerhoy.com/analisis/samsung-galaxy-s23-galaxy-s23-analisis-review-caracteristicas-precio-1216246' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/samsung-galaxy-s23-galaxy-s23-analisis-opinion-3006094.jpg?tf=1200x' alt='Samsung Galaxy S23 y Galaxy S23+, todo ha cambiado para que nada cambie' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/noticias-tecnologia-hoy-miercoles-12-abril-1228964'>29 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
+    <a href='https://computerhoy.com/tecnologia/noticias-tecnologia-hoy-miercoles-12-abril-1228964' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/29-noticias-tecnologia-comenzar-manana-informado-ultimo-3006544.jpg?tf=1200x' alt='29 noticias de tecnología para comenzar la mañana informado de lo último' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/xiaomi-fan-festival-mejores-ofertas-descuentos-moviles-auriculares-gadgets-1228100'>Xiaomi tira la casa por la ventana en su Fan Festival 2023: estas son las mejores ofertas</a></h4>
+    <a href='https://computerhoy.com/tecnologia/xiaomi-fan-festival-mejores-ofertas-descuentos-moviles-auriculares-gadgets-1228100' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/xiaomi-13-primeras-impresiones-2966982.jpg?tf=1200x' alt='Xiaomi tira la casa por la ventana en su Fan Festival 2023: estas son las mejores ofertas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/espacio/spacex-imagina-colonizacion-marte-video-espectacular-1228948'>SpaceX imagina la colonización de Marte en este vídeo, y es espectacular</a></h4>
+    <a href='https://computerhoy.com/espacio/spacex-imagina-colonizacion-marte-video-espectacular-1228948' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/verticalimage1681256439714-3006326.jpg?tf=1200x' alt='SpaceX imagina la colonización de Marte en este vídeo, y es espectacular' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/openai-une-1x-robot-humanoide-trabajador-chatgpt-1228722'>Ya están aquí: OpenAI se une a 1X para crear el primer robot humanoide trabajador con ChatGPT</a></h4>
     <a href='https://computerhoy.com/tecnologia/openai-une-1x-robot-humanoide-trabajador-chatgpt-1228722' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/ya-estan-aqui-openai-une-1x-crear-primer-robot-humanoide-trabajador-chatgpt-3006320.jpg?tf=1200x' alt='Ya están aquí: OpenAI se une a 1X para crear el primer robot humanoide trabajador con ChatGPT' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/streaming/lofi-girl-synth-boy-lofi-boy-mejor-musica-gratis-concentrarte-1228710'>Lofi Girl tiene un nuevo amigo, Synth Boy: la mejor música gratis para concentrarte mientras estudias o trabajas</a></h4>
-    <a href='https://computerhoy.com/streaming/lofi-girl-synth-boy-lofi-boy-mejor-musica-gratis-concentrarte-1228710' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/lofi-girl-tiene-nuevo-amigo-synth-boy-mejor-musica-gratis-concentrarte-mientras-estudias-trabajas-3006302.jpg?tf=1200x' alt='Lofi Girl tiene un nuevo amigo, Synth Boy: la mejor música gratis para concentrarte mientras estudias o trabajas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/estas-son-impresionantes-nunca-vistas-imagenes-urano-captadas-james-webb-1228632'>Estas son las impresionantes y nunca vistas imágenes de Urano captadas por el James Webb</a></h4>
-    <a href='https://computerhoy.com/espacio/estas-son-impresionantes-nunca-vistas-imagenes-urano-captadas-james-webb-1228632' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/estas-son-impresionantes-nunca-vistas-imagenes-urano-captadas-james-webb-3006046.jpg?tf=1200x' alt='Estas son las impresionantes y nunca vistas imágenes de Urano captadas por el James Webb' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/crometofobia-trastorno-no-hay-confundir-tacaneria-1228696'>Qué es la crometofobia, un trastorno que no hay que confundir con la tacañería</a></h4>
-    <a href='https://computerhoy.com/life/crometofobia-trastorno-no-hay-confundir-tacaneria-1228696' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/crometofobia-trastorno-no-hay-confundir-tacaneria-3006076.jpg?tf=1200x' alt='Qué es la crometofobia, un trastorno que no hay que confundir con la tacañería' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/despues-ver-te-quitaran-ganas-volver-usar-secador-manos-1228690'>Después de ver esto se te quitarán las ganas de volver a usar un secador de manos</a></h4>
-    <a href='https://computerhoy.com/life/despues-ver-te-quitaran-ganas-volver-usar-secador-manos-1228690' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/secador-manos-3006242.jpg?tf=1200x' alt='Después de ver esto se te quitarán las ganas de volver a usar un secador de manos' />
     </a>
 </div>
 
