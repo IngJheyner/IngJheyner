@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/openai-une-1x-robot-humanoide-trabajador-chatgpt-1228722'>Ya están aquí: OpenAI se une a 1X para crear el primer robot humanoide trabajador con ChatGPT</a></h4>
+    <a href='https://computerhoy.com/tecnologia/openai-une-1x-robot-humanoide-trabajador-chatgpt-1228722' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/ya-estan-aqui-openai-une-1x-crear-primer-robot-humanoide-trabajador-chatgpt-3006320.jpg?tf=1200x' alt='Ya están aquí: OpenAI se une a 1X para crear el primer robot humanoide trabajador con ChatGPT' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/streaming/lofi-girl-synth-boy-lofi-boy-mejor-musica-gratis-concentrarte-1228710'>Lofi Girl tiene un nuevo amigo, Synth Boy: la mejor música gratis para concentrarte mientras estudias o trabajas</a></h4>
     <a href='https://computerhoy.com/streaming/lofi-girl-synth-boy-lofi-boy-mejor-musica-gratis-concentrarte-1228710' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/lofi-girl-tiene-nuevo-amigo-synth-boy-mejor-musica-gratis-concentrarte-mientras-estudias-trabajas-3006302.jpg?tf=1200x' alt='Lofi Girl tiene un nuevo amigo, Synth Boy: la mejor música gratis para concentrarte mientras estudias o trabajas' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/life/despues-ver-te-quitaran-ganas-volver-usar-secador-manos-1228690'>Después de ver esto se te quitarán las ganas de volver a usar un secador de manos</a></h4>
     <a href='https://computerhoy.com/life/despues-ver-te-quitaran-ganas-volver-usar-secador-manos-1228690' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/secador-manos-3006242.jpg?tf=1200x' alt='Después de ver esto se te quitarán las ganas de volver a usar un secador de manos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/fbi-advierte-lugares-donde-nunca-deberias-cargar-movil-1228686'>El FBI advierte sobre los lugares donde nunca deberías cargar tu móvil</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/fbi-advierte-lugares-donde-nunca-deberias-cargar-movil-1228686' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/puerto-carga-publico-3006240.jpg?tf=1200x' alt='El FBI advierte sobre los lugares donde nunca deberías cargar tu móvil' />
     </a>
 </div>
 
