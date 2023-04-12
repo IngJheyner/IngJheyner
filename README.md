@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/redes-sociales/elon-musk-confiesa-bbc-dispuesto-vender-twitter-1229220'>Elon Musk confiesa a la BBC que está dispuesto a vender Twitter</a></h4>
-    <a href='https://computerhoy.com/redes-sociales/elon-musk-confiesa-bbc-dispuesto-vender-twitter-1229220' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/elon-musk-dueno-twitter-2937776.jpg?tf=1200x' alt='Elon Musk confiesa a la BBC que está dispuesto a vender Twitter' />
+    <h4><a href='https://computerhoy.com/streaming/hbo-max-pasa-llamarse-max-sube-cuotas-1229290'>HBO Max se marca 'un Netflix' con su nuevo nombre Max: planes con publicidad y pagas más por el contenido 4K</a></h4>
+    <a href='https://computerhoy.com/streaming/hbo-max-pasa-llamarse-max-sube-cuotas-1229290' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/hbo-max-marca-netflix-nuevo-nombre-max-planes-publicidad-pagas-contenido-4k-3007228.jpg?tf=1200x' alt='HBO Max se marca 'un Netflix' con su nuevo nombre Max: planes con publicidad y pagas más por el contenido 4K' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/legislacion/espana-podria-seguir-pasos-italia-prohibir-utilizacion-chatgpt-1229226'>España podría seguir los pasos de Italia y prohibir la utilización de ChatGPT</a></h4>
-    <a href='https://computerhoy.com/legislacion/espana-podria-seguir-pasos-italia-prohibir-utilizacion-chatgpt-1229226' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/chatgpt-2997362.jpg?tf=1200x' alt='España podría seguir los pasos de Italia y prohibir la utilización de ChatGPT' />
+    <h4><a href='https://computerhoy.com/ciencia/nuevo-estudio-indica-puede-predecir-alzheimer-gracias-molecula-azucar-1229284'>Un nuevo estudio indica que se puede predecir el Alzheimer gracias a una molécula de azúcar</a></h4>
+    <a href='https://computerhoy.com/ciencia/nuevo-estudio-indica-puede-predecir-alzheimer-gracias-molecula-azucar-1229284' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/cerebro-2943130.jpg?tf=1200x' alt='Un nuevo estudio indica que se puede predecir el Alzheimer gracias a una molécula de azúcar' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/mejores-ofertas-semana-web-mediamarkt-1229042'>Chollos en móviles, portátiles, Smart TV y movilidad en la Semana Web de MediaMarkt</a></h4>
-    <a href='https://computerhoy.com/tecnologia/mejores-ofertas-semana-web-mediamarkt-1229042' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/frontal-tienda-mediamarkt-3006918.jpg?tf=1200x' alt='Chollos en móviles, portátiles, Smart TV y movilidad en la Semana Web de MediaMarkt' />
+    <h4><a href='https://computerhoy.com/internet/cuidado-fotos-chicas-guapas-ofrecen-desnudarte-ti-estan-generadas-ia-1229222'>Cuidado con las fotos de chicas guapas que se ofrecen a desnudarte para ti: están generadas por IA</a></h4>
+    <a href='https://computerhoy.com/internet/cuidado-fotos-chicas-guapas-ofrecen-desnudarte-ti-estan-generadas-ia-1229222' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/fiesta-inteligencia-artificial-2933396.jpg?tf=1200x' alt='Cuidado con las fotos de chicas guapas que se ofrecen a desnudarte para ti: están generadas por IA' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/paso-a-paso/hardware/repara-tu-disco-duro-danado-sectores-defectuosos-9051'>Repara tu disco duro dañado con sectores defectuosos</a></h4>
-    <a href='https://computerhoy.com/paso-a-paso/hardware/repara-tu-disco-duro-danado-sectores-defectuosos-9051' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/07/disco-duro-hdd.jpg?tf=1200x' alt='Repara tu disco duro dañado con sectores defectuosos' />
+    <h4><a href='https://computerhoy.com/streaming/podras-ver-800-canales-television-gratis-chromecast-dispositivos-google-tv-1229278'>Podrás ver más de 800 canales de televisión gratis en Chromecast y dispositivos con Google TV</a></h4>
+    <a href='https://computerhoy.com/streaming/podras-ver-800-canales-television-gratis-chromecast-dispositivos-google-tv-1229278' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/google-tv-3007186.jpg?tf=1200x' alt='Podrás ver más de 800 canales de televisión gratis en Chromecast y dispositivos con Google TV' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/forma-usas-raton-refleja-nivel-estres-1229218'>La forma en la que usas el ratón refleja tu nivel de estrés</a></h4>
-    <a href='https://computerhoy.com/life/forma-usas-raton-refleja-nivel-estres-1229218' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/raton-ordenador-2927508.jpg?tf=1200x' alt='La forma en la que usas el ratón refleja tu nivel de estrés' />
+    <h4><a href='https://computerhoy.com/life/desconocido-boton-horno-casi-nadie-usa-te-hara-ahorrar-mucho-tiempo-1229276'>El desconocido botón del horno que casi nadie usa y que te hará ahorrar mucho tiempo</a></h4>
+    <a href='https://computerhoy.com/life/desconocido-boton-horno-casi-nadie-usa-te-hara-ahorrar-mucho-tiempo-1229276' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/horno-3007182.jpg?tf=1200x' alt='El desconocido botón del horno que casi nadie usa y que te hará ahorrar mucho tiempo' />
     </a>
 </div>
 
