@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/protege-dispositivos-ataques-maliciosos-cargadores-publicos-1229056'>Qué son los preservativos USB y cómo funcionan</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/protege-dispositivos-ataques-maliciosos-cargadores-publicos-1229056' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/ya-sabemos-dia-todos-moviles-tendran-usar-cargador-usb-tipo-c-europa-incluido-iphone-2895718.jpg?tf=1200x' alt='Qué son los preservativos USB y cómo funcionan' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/ojos-no-te-enganan-nueva-coleccion-pixel-loewe-vende-4000-euros-1229000'>Tus ojos no te engañan, ya puedes comprar la nueva colección 'Pixel' de LOEWE por casi 4.000 euros</a></h4>
+    <a href='https://computerhoy.com/life/ojos-no-te-enganan-nueva-coleccion-pixel-loewe-vende-4000-euros-1229000' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/ojos-no-te-enganan-ya-puedes-comprar-nueva-coleccion-pixel-loewe-casi-4000-euros-3006680.jpg?tf=1200x' alt='Tus ojos no te engañan, ya puedes comprar la nueva colección 'Pixel' de LOEWE por casi 4.000 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/serie-s8-aspiradores-robot-roborock-aterriza-espana-nuevas-funciones-1228980'>La serie S8 de aspiradores robot Roborock aterriza en España con nuevas funciones</a></h4>
     <a href='https://computerhoy.com/tecnologia/serie-s8-aspiradores-robot-roborock-aterriza-espana-nuevas-funciones-1228980' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/serie-s8-aspiradores-robot-roborock-aterriza-espana-nuevas-funciones-3006608.jpg?tf=1200x' alt='La serie S8 de aspiradores robot Roborock aterriza en España con nuevas funciones' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/apple/problemas-tecnicos-podrian-acabar-grandes-novedades-iphone-15-1228984'>Problemas técnicos podrían acabar con una de las grandes novedades del iPhone 15</a></h4>
     <a href='https://computerhoy.com/apple/problemas-tecnicos-podrian-acabar-grandes-novedades-iphone-15-1228984' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/apple-quiere-iphone-15-pro-exclusivo-recortara-muchas-funciones-resto-versiones-2978050.jpg?tf=1200x' alt='Problemas técnicos podrían acabar con una de las grandes novedades del iPhone 15' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tv/tcl-cf630-qled-4k-smart-tv-oferta-amazon-1228462'>Amazon ha rebajado una de las Smart TV con panel QLED más económicas que ahora es 100€ más barata</a></h4>
-    <a href='https://computerhoy.com/tv/tcl-cf630-qled-4k-smart-tv-oferta-amazon-1228462' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/tcl-cf630-2950584.jpg?tf=1200x' alt='Amazon ha rebajado una de las Smart TV con panel QLED más económicas que ahora es 100€ más barata' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/samsung-galaxy-s23-galaxy-s23-analisis-review-caracteristicas-precio-1216246'>Samsung Galaxy S23 y Galaxy S23+, todo ha cambiado para que nada cambie</a></h4>
-    <a href='https://computerhoy.com/analisis/samsung-galaxy-s23-galaxy-s23-analisis-review-caracteristicas-precio-1216246' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/samsung-galaxy-s23-galaxy-s23-analisis-opinion-3006094.jpg?tf=1200x' alt='Samsung Galaxy S23 y Galaxy S23+, todo ha cambiado para que nada cambie' />
     </a>
 </div>
 
