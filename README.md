@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/serie-s8-aspiradores-robot-roborock-aterriza-espana-nuevas-funciones-1228980'>La serie S8 de aspiradores robot Roborock aterriza en España con nuevas funciones</a></h4>
+    <a href='https://computerhoy.com/tecnologia/serie-s8-aspiradores-robot-roborock-aterriza-espana-nuevas-funciones-1228980' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/serie-s8-aspiradores-robot-roborock-aterriza-espana-nuevas-funciones-3006608.jpg?tf=1200x' alt='La serie S8 de aspiradores robot Roborock aterriza en España con nuevas funciones' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/google/google-estrena-pagina-actualizaciones-bard-donde-veras-todas-novedades-1228992'>Google estrena página de actualizaciones de Bard donde podrás consultar todas las novedades</a></h4>
     <a href='https://computerhoy.com/google/google-estrena-pagina-actualizaciones-bard-donde-veras-todas-novedades-1228992' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/google-estrena-pagina-actualizaciones-bard-donde-podras-consultar-todas-novedades-3006650.jpg?tf=1200x' alt='Google estrena página de actualizaciones de Bard donde podrás consultar todas las novedades' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/analisis/samsung-galaxy-s23-galaxy-s23-analisis-review-caracteristicas-precio-1216246'>Samsung Galaxy S23 y Galaxy S23+, todo ha cambiado para que nada cambie</a></h4>
     <a href='https://computerhoy.com/analisis/samsung-galaxy-s23-galaxy-s23-analisis-review-caracteristicas-precio-1216246' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/samsung-galaxy-s23-galaxy-s23-analisis-opinion-3006094.jpg?tf=1200x' alt='Samsung Galaxy S23 y Galaxy S23+, todo ha cambiado para que nada cambie' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/noticias-tecnologia-hoy-miercoles-12-abril-1228964'>29 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
-    <a href='https://computerhoy.com/tecnologia/noticias-tecnologia-hoy-miercoles-12-abril-1228964' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/29-noticias-tecnologia-comenzar-manana-informado-ultimo-3006544.jpg?tf=1200x' alt='29 noticias de tecnología para comenzar la mañana informado de lo último' />
     </a>
 </div>
 
