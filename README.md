@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/windows-11-dara-nueva-vida-tecla-posiblemente-no-has-pulsado-jamas-1229076'>Windows 11 dará una nueva vida a una de tecla que posiblemente no has pulsado jamás</a></h4>
-    <a href='https://computerhoy.com/windows/windows-11-dara-nueva-vida-tecla-posiblemente-no-has-pulsado-jamas-1229076' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/windows-11-dara-nueva-vida-tecla-posiblemente-no-has-pulsado-jamas-3006844.jpg?tf=1200x' alt='Windows 11 dará una nueva vida a una de tecla que posiblemente no has pulsado jamás' />
+    <h4><a href='https://computerhoy.com/tv/tcl-cf630-qled-4k-smart-tv-oferta-amazon-1228462'>Amazon ha rebajado una de las Smart TV con panel QLED más económicas que ahora es 100€ más barata</a></h4>
+    <a href='https://computerhoy.com/tv/tcl-cf630-qled-4k-smart-tv-oferta-amazon-1228462' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/tcl-cf630-2950584.jpg?tf=1200x' alt='Amazon ha rebajado una de las Smart TV con panel QLED más económicas que ahora es 100€ más barata' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/cuanto-tiempo-tarda-hacienda-devolverte-dinero-declaracion-1225608'>¿Cuánto tardarán en ingresarme la devolución de la declaración de la Renta 2022/23? </a></h4>
-    <a href='https://computerhoy.com/tutoriales/cuanto-tiempo-tarda-hacienda-devolverte-dinero-declaracion-1225608' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/renta-2664745.jpg?tf=1200x' alt='¿Cuánto tardarán en ingresarme la devolución de la declaración de la Renta 2022/23? ' />
+    <h4><a href='https://computerhoy.com/internet/aburrido-wordle-nyt-lanza-digits-nuevo-juego-diario-ahora-numeros-tremendamente-adictivo-1229166'>¿Aburrido de Wordle? NYT lanza Digits su nuevo juego diario, ahora con números, tremendamente adictivo</a></h4>
+    <a href='https://computerhoy.com/internet/aburrido-wordle-nyt-lanza-digits-nuevo-juego-diario-ahora-numeros-tremendamente-adictivo-1229166' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/aburrido-wordle-nyt-lanza-digits-nuevo-juego-diario-ahora-numeros-tremendamente-adictivo-3007014.jpg?tf=1200x' alt='¿Aburrido de Wordle? NYT lanza Digits su nuevo juego diario, ahora con números, tremendamente adictivo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/protege-dispositivos-ataques-maliciosos-cargadores-publicos-1229056'>Qué son los preservativos USB y cómo funcionan</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/protege-dispositivos-ataques-maliciosos-cargadores-publicos-1229056' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/ya-sabemos-dia-todos-moviles-tendran-usar-cargador-usb-tipo-c-europa-incluido-iphone-2895718.jpg?tf=1200x' alt='Qué son los preservativos USB y cómo funcionan' />
+    <h4><a href='https://computerhoy.com/tutoriales/hacer-te-has-equivocado-presentar-declaracion-renta-1225632'>Consecuencias y qué debes hacer si te equivocas al presentar la declaración de la Renta 2022/23</a></h4>
+    <a href='https://computerhoy.com/tutoriales/hacer-te-has-equivocado-presentar-declaracion-renta-1225632' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/renta-2021-2675373.jpg?tf=1200x' alt='Consecuencias y qué debes hacer si te equivocas al presentar la declaración de la Renta 2022/23' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/ojos-no-te-enganan-nueva-coleccion-pixel-loewe-vende-4000-euros-1229000'>Tus ojos no te engañan, ya puedes comprar la nueva colección 'Pixel' de LOEWE por casi 4.000 euros</a></h4>
-    <a href='https://computerhoy.com/life/ojos-no-te-enganan-nueva-coleccion-pixel-loewe-vende-4000-euros-1229000' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/ojos-no-te-enganan-ya-puedes-comprar-nueva-coleccion-pixel-loewe-casi-4000-euros-3006680.jpg?tf=1200x' alt='Tus ojos no te engañan, ya puedes comprar la nueva colección 'Pixel' de LOEWE por casi 4.000 euros' />
+    <h4><a href='https://computerhoy.com/pc/nvidia-geforce-rtx-4070-founders-edition-ya-realidad-juegos-4k-ray-tracing-renunciar-nada-1229116'>Nvidia GeForce RTX 4070 Founders Edition ya es una realidad: juegos en 4K con Ray Tracing sin renunciar a nada</a></h4>
+    <a href='https://computerhoy.com/pc/nvidia-geforce-rtx-4070-founders-edition-ya-realidad-juegos-4k-ray-tracing-renunciar-nada-1229116' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/valoracion-rtx-4070-3006300.jpg?tf=1200x' alt='Nvidia GeForce RTX 4070 Founders Edition ya es una realidad: juegos en 4K con Ray Tracing sin renunciar a nada' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/serie-s8-aspiradores-robot-roborock-aterriza-espana-nuevas-funciones-1228980'>La serie S8 de aspiradores robot Roborock aterriza en España con nuevas funciones</a></h4>
-    <a href='https://computerhoy.com/tecnologia/serie-s8-aspiradores-robot-roborock-aterriza-espana-nuevas-funciones-1228980' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/serie-s8-aspiradores-robot-roborock-aterriza-espana-nuevas-funciones-3006608.jpg?tf=1200x' alt='La serie S8 de aspiradores robot Roborock aterriza en España con nuevas funciones' />
+    <h4><a href='https://computerhoy.com/software/ya-puedes-usar-whatsapp-dos-dispositivos-android-vez-1229150'>Ya puedes usar WhatsApp en dos dispositivos Android a la vez</a></h4>
+    <a href='https://computerhoy.com/software/ya-puedes-usar-whatsapp-dos-dispositivos-android-vez-1229150' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/whatsapp-estrena-chat-oficial-resolver-dudas-recibir-ayuda-2992604.jpg?tf=1200x' alt='Ya puedes usar WhatsApp en dos dispositivos Android a la vez' />
     </a>
 </div>
 
