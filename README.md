@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/google/google-estrena-pagina-actualizaciones-bard-donde-veras-todas-novedades-1228992'>Google estrena página de actualizaciones de Bard donde podrás consultar todas las novedades</a></h4>
+    <a href='https://computerhoy.com/google/google-estrena-pagina-actualizaciones-bard-donde-veras-todas-novedades-1228992' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/google-estrena-pagina-actualizaciones-bard-donde-podras-consultar-todas-novedades-3006650.jpg?tf=1200x' alt='Google estrena página de actualizaciones de Bard donde podrás consultar todas las novedades' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/problemas-tecnicos-podrian-acabar-grandes-novedades-iphone-15-1228984'>Problemas técnicos podrían acabar con una de las grandes novedades del iPhone 15</a></h4>
+    <a href='https://computerhoy.com/apple/problemas-tecnicos-podrian-acabar-grandes-novedades-iphone-15-1228984' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/apple-quiere-iphone-15-pro-exclusivo-recortara-muchas-funciones-resto-versiones-2978050.jpg?tf=1200x' alt='Problemas técnicos podrían acabar con una de las grandes novedades del iPhone 15' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tv/tcl-cf630-qled-4k-smart-tv-oferta-amazon-1228462'>Amazon ha rebajado una de las Smart TV con panel QLED más económicas que ahora es 100€ más barata</a></h4>
+    <a href='https://computerhoy.com/tv/tcl-cf630-qled-4k-smart-tv-oferta-amazon-1228462' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/tcl-cf630-2950584.jpg?tf=1200x' alt='Amazon ha rebajado una de las Smart TV con panel QLED más económicas que ahora es 100€ más barata' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/analisis/samsung-galaxy-s23-galaxy-s23-analisis-review-caracteristicas-precio-1216246'>Samsung Galaxy S23 y Galaxy S23+, todo ha cambiado para que nada cambie</a></h4>
     <a href='https://computerhoy.com/analisis/samsung-galaxy-s23-galaxy-s23-analisis-review-caracteristicas-precio-1216246' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/samsung-galaxy-s23-galaxy-s23-analisis-opinion-3006094.jpg?tf=1200x' alt='Samsung Galaxy S23 y Galaxy S23+, todo ha cambiado para que nada cambie' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/noticias-tecnologia-hoy-miercoles-12-abril-1228964'>29 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
     <a href='https://computerhoy.com/tecnologia/noticias-tecnologia-hoy-miercoles-12-abril-1228964' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/29-noticias-tecnologia-comenzar-manana-informado-ultimo-3006544.jpg?tf=1200x' alt='29 noticias de tecnología para comenzar la mañana informado de lo último' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/xiaomi-fan-festival-mejores-ofertas-descuentos-moviles-auriculares-gadgets-1228100'>Xiaomi tira la casa por la ventana en su Fan Festival 2023: estas son las mejores ofertas</a></h4>
-    <a href='https://computerhoy.com/tecnologia/xiaomi-fan-festival-mejores-ofertas-descuentos-moviles-auriculares-gadgets-1228100' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/xiaomi-13-primeras-impresiones-2966982.jpg?tf=1200x' alt='Xiaomi tira la casa por la ventana en su Fan Festival 2023: estas son las mejores ofertas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/spacex-imagina-colonizacion-marte-video-espectacular-1228948'>SpaceX imagina la colonización de Marte en este vídeo, y es espectacular</a></h4>
-    <a href='https://computerhoy.com/espacio/spacex-imagina-colonizacion-marte-video-espectacular-1228948' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/verticalimage1681256439714-3006326.jpg?tf=1200x' alt='SpaceX imagina la colonización de Marte en este vídeo, y es espectacular' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/openai-une-1x-robot-humanoide-trabajador-chatgpt-1228722'>Ya están aquí: OpenAI se une a 1X para crear el primer robot humanoide trabajador con ChatGPT</a></h4>
-    <a href='https://computerhoy.com/tecnologia/openai-une-1x-robot-humanoide-trabajador-chatgpt-1228722' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/ya-estan-aqui-openai-une-1x-crear-primer-robot-humanoide-trabajador-chatgpt-3006320.jpg?tf=1200x' alt='Ya están aquí: OpenAI se une a 1X para crear el primer robot humanoide trabajador con ChatGPT' />
     </a>
 </div>
 
