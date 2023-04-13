@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/espacio/juice-europa-viaja-jupiter-lunas-lanzamiento-1229516'>Europa viaja a Júpiter y sus lunas por primera vez, así puedes ver el lanzamiento</a></h4>
+    <a href='https://computerhoy.com/espacio/juice-europa-viaja-jupiter-lunas-lanzamiento-1229516' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/europa-viaja-jupiter-lunas-primera-vez-puedes-ver-lanzamiento-3007232.jpg?tf=1200x' alt='Europa viaja a Júpiter y sus lunas por primera vez, así puedes ver el lanzamiento' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/streaming/discograficas-piden-apple-music-spotify-bloqueen-musica-inteligencia-artificial-1229296'>Comienza la batalla: las discográficas piden a Apple Music y Spotify que bloqueen la música generada por IA</a></h4>
     <a href='https://computerhoy.com/streaming/discograficas-piden-apple-music-spotify-bloqueen-musica-inteligencia-artificial-1229296' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/comienza-batalla-discograficas-piden-apple-music-spotify-bloqueen-musica-generada-ia-3007180.jpg?tf=1200x' alt='Comienza la batalla: las discográficas piden a Apple Music y Spotify que bloqueen la música generada por IA' />
@@ -74,17 +82,9 @@
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/cuidado-fotos-chicas-guapas-ofrecen-desnudarte-ti-estan-generadas-ia-1229222'>Cuidado con las fotos de chicas guapas que se ofrecen a desnudarte para ti: están generadas por IA</a></h4>
+    <h4><a href='https://computerhoy.com/internet/cuidado-fotos-chicas-guapas-ofrecen-desnudarte-ti-estan-generadas-ia-1229222'>Cuidado con las fotos de chicas guapas que se ofrecen a desnudarse para ti: están generadas por IA</a></h4>
     <a href='https://computerhoy.com/internet/cuidado-fotos-chicas-guapas-ofrecen-desnudarte-ti-estan-generadas-ia-1229222' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/fiesta-inteligencia-artificial-2933396.jpg?tf=1200x' alt='Cuidado con las fotos de chicas guapas que se ofrecen a desnudarte para ti: están generadas por IA' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/streaming/podras-ver-800-canales-television-gratis-chromecast-dispositivos-google-tv-1229278'>Podrás ver más de 800 canales de televisión gratis en Chromecast y dispositivos con Google TV</a></h4>
-    <a href='https://computerhoy.com/streaming/podras-ver-800-canales-television-gratis-chromecast-dispositivos-google-tv-1229278' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/google-tv-3007186.jpg?tf=1200x' alt='Podrás ver más de 800 canales de televisión gratis en Chromecast y dispositivos con Google TV' />
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/fiesta-inteligencia-artificial-2933396.jpg?tf=1200x' alt='Cuidado con las fotos de chicas guapas que se ofrecen a desnudarse para ti: están generadas por IA' />
     </a>
 </div>
 
