@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-mini-pc-procesadores-ryzen-1010701'>Mejores Mini PC con procesadores Ryzen que puedes comprar en 2023</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-mini-pc-procesadores-ryzen-1010701' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/mini-pc-procesador-amd-minis-forum-neptune-hx99g-3007486.jpg?tf=1200x' alt='Mejores Mini PC con procesadores Ryzen que puedes comprar en 2023' />
+    <h4><a href='https://computerhoy.com/apple/iphone-15-pro-max-podria-alcanzar-precio-absolutamente-disparatado-1229818'>El iPhone 15 Pro Max podría alcanzar un precio absolutamente disparatado</a></h4>
+    <a href='https://computerhoy.com/apple/iphone-15-pro-max-podria-alcanzar-precio-absolutamente-disparatado-1229818' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/persona-sujetando-iphone-14-pro-3005300.jpg?tf=1200x' alt='El iPhone 15 Pro Max podría alcanzar un precio absolutamente disparatado' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/online-telefono-presencial-mejor-presentar-renta-2022-23-1225080'>Qué es mejor para presentar la Renta 2022/23: ¿online, teléfono o presencial?</a></h4>
-    <a href='https://computerhoy.com/internet/online-telefono-presencial-mejor-presentar-renta-2022-23-1225080' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/02/fecha-declaracion-renta-2020-1867769.jpg?tf=1200x' alt='Qué es mejor para presentar la Renta 2022/23: ¿online, teléfono o presencial?' />
+    <h4><a href='https://computerhoy.com/streaming/diferencia-precio-exacta-hbo-max-max-1229858'>Paga MAX por lo mismo: así han subido los precios con el cambio de HBO Max a Max</a></h4>
+    <a href='https://computerhoy.com/streaming/diferencia-precio-exacta-hbo-max-max-1229858' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/paga-max-mismo-han-subido-precios-cambio-hbo-max-max-3008112.jpg?tf=1200x' alt='Paga MAX por lo mismo: así han subido los precios con el cambio de HBO Max a Max' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-limpiar-pantalla-tv-led-qled-oled-rastro-productos-nunca-deberias-utilizar-1229782'>Cómo limpiar la pantalla de tu TV LED, QLED u OLED sin rastro y productos que nunca deberías utilizar</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-limpiar-pantalla-tv-led-qled-oled-rastro-productos-nunca-deberias-utilizar-1229782' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/09/limpiar-pantalla-televisor-2059275.jpg?tf=1200x' alt='Cómo limpiar la pantalla de tu TV LED, QLED u OLED sin rastro y productos que nunca deberías utilizar' />
+    <h4><a href='https://computerhoy.com/espacio/publicada-primera-fotografia-resolucion-completa-agujero-negro-supermasivo-1229848'>Publicada la primera fotografía en resolución completa de un agujero negro supermasivo</a></h4>
+    <a href='https://computerhoy.com/espacio/publicada-primera-fotografia-resolucion-completa-agujero-negro-supermasivo-1229848' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/agujero-negro-3008128.jpg?tf=1200x' alt='Publicada la primera fotografía en resolución completa de un agujero negro supermasivo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/streaming/perderas-descuento-50-cuando-hbo-max-convierta-max-1229758'>¿Perderás tu descuento del 50% cuando HBO Max se convierta en Max?</a></h4>
-    <a href='https://computerhoy.com/streaming/perderas-descuento-50-cuando-hbo-max-convierta-max-1229758' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/hbo-max-2882517.jpg?tf=1200x' alt='¿Perderás tu descuento del 50% cuando HBO Max se convierta en Max?' />
+    <h4><a href='https://computerhoy.com/espacio/empresa-espanola-lanzara-constelacion-satelites-conectar-territorios-aislados-1229844'>Una empresa española lanzará una constelación de satélites para conectar territorios aislados</a></h4>
+    <a href='https://computerhoy.com/espacio/empresa-espanola-lanzara-constelacion-satelites-conectar-territorios-aislados-1229844' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/sateliot-3008118.jpg?tf=1200x' alt='Una empresa española lanzará una constelación de satélites para conectar territorios aislados' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/dji-lanza-nuevo-dron-cine-inspire-3-caracteristicas-infarto-1229078'>DJI estrena su nuevo dron de cine de alta gama Inspire 3 con especificaciones de infarto</a></h4>
-    <a href='https://computerhoy.com/tecnologia/dji-lanza-nuevo-dron-cine-inspire-3-caracteristicas-infarto-1229078' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/dji-estrena-nuevo-dron-cine-alta-gama-inspire-3-especificaciones-infarto-3006876.jpg?tf=1200x' alt='DJI estrena su nuevo dron de cine de alta gama Inspire 3 con especificaciones de infarto' />
+    <h4><a href='https://computerhoy.com/internet/pasa-no-presentas-renta-2022-23-dentro-plazo-1225052'>Qué pasa si no presentas la Renta 2022/23 dentro del plazo estando obligado a hacerla</a></h4>
+    <a href='https://computerhoy.com/internet/pasa-no-presentas-renta-2022-23-dentro-plazo-1225052' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/fechas-renta-2022-23-pedir-borrador-cuando-podrias-tener-ingresada-devolucion-2969698.jpg?tf=1200x' alt='Qué pasa si no presentas la Renta 2022/23 dentro del plazo estando obligado a hacerla' />
     </a>
 </div>
 
