@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/energia/jeff-bezos-bill-gates-george-soros-obsesionados-geoingenieria-solar-1229602'>Por qué multimillonarios como Jeff Bezos, Bill Gates o George Soros están obsesionados con la geoingeniería solar</a></h4>
+    <a href='https://computerhoy.com/energia/jeff-bezos-bill-gates-george-soros-obsesionados-geoingenieria-solar-1229602' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/multimillonarios-como-jeff-bezos-bill-gates-george-soros-estan-obsesionados-geoingenieria-solar-3007644.jpg?tf=1200x' alt='Por qué multimillonarios como Jeff Bezos, Bill Gates o George Soros están obsesionados con la geoingeniería solar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/truco-viral-recordar-nombre-persona-te-saludando-1229576'>El genial truco viral para recordar al instante el nombre de la persona que te está saludando</a></h4>
+    <a href='https://computerhoy.com/life/truco-viral-recordar-nombre-persona-te-saludando-1229576' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/genial-truco-viral-recordar-instante-nombre-persona-te-saludando-3007554.jpg?tf=1200x' alt='El genial truco viral para recordar al instante el nombre de la persona que te está saludando' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/industria/intel-une-arm-desbancar-samsung-fabricacion-procesadores-1229626'>Intel se une a ARM para desbancar a Samsung en la fabricación de procesadores</a></h4>
     <a href='https://computerhoy.com/industria/intel-une-arm-desbancar-samsung-fabricacion-procesadores-1229626' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/procesador-intel-2976324.jpg?tf=1200x' alt='Intel se une a ARM para desbancar a Samsung en la fabricación de procesadores' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/apps/7-apps-te-ayudaran-declaracion-renta-ahorrarte-miles-euros-impuestos-1229030'>Estas 7 apps te ayudarán con la declaración de la Renta y ahorrarte miles de euros en impuestos</a></h4>
     <a href='https://computerhoy.com/apps/7-apps-te-ayudaran-declaracion-renta-ahorrarte-miles-euros-impuestos-1229030' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/estas-7-apps-te-ayudaran-declaracion-renta-ahorrarte-miles-euros-impuestos-3006818.jpg?tf=1200x' alt='Estas 7 apps te ayudarán con la declaración de la Renta y ahorrarte miles de euros en impuestos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/warren-buffet-asegura-no-cambiarias-iphone-10000-euros-no-volver-tener-nunca-1229596'>Warren Buffet asegura que no cambiarías tu iPhone por 10.000 euros y no volver a tener uno nunca más</a></h4>
-    <a href='https://computerhoy.com/apple/warren-buffet-asegura-no-cambiarias-iphone-10000-euros-no-volver-tener-nunca-1229596' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/sabio-consejo-warren-buffett-steve-jobs-rechazo-tim-cook-no-dejo-escapar-2985914.jpg?tf=1200x' alt='Warren Buffet asegura que no cambiarías tu iPhone por 10.000 euros y no volver a tener uno nunca más' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/nuevo-mapa-marte-te-permitira-descubrir-lugares-fascinantes-1229550'>El Google Maps de Marte para descubrir los lugares más fascinantes del planeta rojo</a></h4>
-    <a href='https://computerhoy.com/espacio/nuevo-mapa-marte-te-permitira-descubrir-lugares-fascinantes-1229550' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/objetivo-reducir-barreras-personas-interesadas-explorar-marte-3007540.jpg?tf=1200x' alt='El Google Maps de Marte para descubrir los lugares más fascinantes del planeta rojo' />
     </a>
 </div>
 
