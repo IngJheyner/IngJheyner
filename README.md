@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/industria/andreas-zimmer-huawei-algunas-personas-no-saben-necesitan-producto-prueban-1216694'>Andreas Zimmer (Huawei): "Algunas personas no saben que necesitan un producto hasta que lo prueban y ya no quieren dejarlo"</a></h4>
-    <a href='https://computerhoy.com/industria/andreas-zimmer-huawei-algunas-personas-no-saben-necesitan-producto-prueban-1216694' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/director-producto-huawei-consumer-business-group-3002712.jpg?tf=1200x' alt='Andreas Zimmer (Huawei): "Algunas personas no saben que necesitan un producto hasta que lo prueban y ya no quieren dejarlo"' />
+    <h4><a href='https://computerhoy.com/industria/intel-une-arm-desbancar-samsung-fabricacion-procesadores-1229626'>Intel se une a ARM para desbancar a Samsung en la fabricación de procesadores</a></h4>
+    <a href='https://computerhoy.com/industria/intel-une-arm-desbancar-samsung-fabricacion-procesadores-1229626' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/procesador-intel-2976324.jpg?tf=1200x' alt='Intel se une a ARM para desbancar a Samsung en la fabricación de procesadores' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/minis-forum-mars-mc560-mini-pc-webcam-2k-alto-rendimiento-1229180'>Este potente mini PC tiene procesador Ryzen 5 y una webcam 2K integrada, perfecto para ahorrar espacio y dinero</a></h4>
-    <a href='https://computerhoy.com/pc/minis-forum-mars-mc560-mini-pc-webcam-2k-alto-rendimiento-1229180' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/minis-forum-mars-mc560-3007050.jpg?tf=1200x' alt='Este potente mini PC tiene procesador Ryzen 5 y una webcam 2K integrada, perfecto para ahorrar espacio y dinero' />
+    <h4><a href='https://computerhoy.com/android/android-auto-desbloquea-nueva-categoria-aplicaciones-compatibles-1229624'>Android Auto desbloquea una nueva categoría de aplicaciones compatibles</a></h4>
+    <a href='https://computerhoy.com/android/android-auto-desbloquea-nueva-categoria-aplicaciones-compatibles-1229624' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/android-auto-2965016.jpg?tf=1200x' alt='Android Auto desbloquea una nueva categoría de aplicaciones compatibles' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/noticias-tecnologia-hoy-jueves-13-abril-1229524'>24 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
-    <a href='https://computerhoy.com/tecnologia/noticias-tecnologia-hoy-jueves-13-abril-1229524' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/24-noticias-tecnologia-comenzar-manana-informado-ultimo-3007452.jpg?tf=1200x' alt='24 noticias de tecnología para comenzar la mañana informado de lo último' />
+    <h4><a href='https://computerhoy.com/apps/7-apps-te-ayudaran-declaracion-renta-ahorrarte-miles-euros-impuestos-1229030'>Estas 7 apps te ayudarán con la declaración de la Renta y ahorrarte miles de euros en impuestos</a></h4>
+    <a href='https://computerhoy.com/apps/7-apps-te-ayudaran-declaracion-renta-ahorrarte-miles-euros-impuestos-1229030' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/estas-7-apps-te-ayudaran-declaracion-renta-ahorrarte-miles-euros-impuestos-3006818.jpg?tf=1200x' alt='Estas 7 apps te ayudarán con la declaración de la Renta y ahorrarte miles de euros en impuestos' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/mejores/moviles-menos-300-euros-primavera-1228658'>Mejores móviles por menos de 300€ que puedes comprar esta primavera</a></h4>
-    <a href='https://computerhoy.com/mejores/moviles-menos-300-euros-primavera-1228658' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/poco-m5-3006020.jpg?tf=1200x' alt='Mejores móviles por menos de 300€ que puedes comprar esta primavera' />
+    <h4><a href='https://computerhoy.com/apple/warren-buffet-asegura-no-cambiarias-iphone-10000-euros-no-volver-tener-nunca-1229596'>Warren Buffet asegura que no cambiarías tu iPhone por 10.000 euros y no volver a tener uno nunca más</a></h4>
+    <a href='https://computerhoy.com/apple/warren-buffet-asegura-no-cambiarias-iphone-10000-euros-no-volver-tener-nunca-1229596' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/sabio-consejo-warren-buffett-steve-jobs-rechazo-tim-cook-no-dejo-escapar-2985914.jpg?tf=1200x' alt='Warren Buffet asegura que no cambiarías tu iPhone por 10.000 euros y no volver a tener uno nunca más' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/hogar/makita-primer-microondas-inalambrico-portatil-sin-cable-video-1229518'>Makita MW001G, el primer microondas inalámbrico (vídeo)</a></h4>
-    <a href='https://computerhoy.com/hogar/makita-primer-microondas-inalambrico-portatil-sin-cable-video-1229518' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/verticalimage1681348095090-3007448.jpg?tf=1200x' alt='Makita MW001G, el primer microondas inalámbrico (vídeo)' />
+    <h4><a href='https://computerhoy.com/espacio/nuevo-mapa-marte-te-permitira-descubrir-lugares-fascinantes-1229550'>El Google Maps de Marte para descubrir los lugares más fascinantes del planeta rojo</a></h4>
+    <a href='https://computerhoy.com/espacio/nuevo-mapa-marte-te-permitira-descubrir-lugares-fascinantes-1229550' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/objetivo-reducir-barreras-personas-interesadas-explorar-marte-3007540.jpg?tf=1200x' alt='El Google Maps de Marte para descubrir los lugares más fascinantes del planeta rojo' />
     </a>
 </div>
 
