@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/dji-lanza-nuevo-dron-cine-inspire-3-caracteristicas-infarto-1229078'>DJI estrena su nuevo dron de cine de alta gama Inspire 3 con especificaciones de infarto</a></h4>
+    <a href='https://computerhoy.com/tecnologia/dji-lanza-nuevo-dron-cine-inspire-3-caracteristicas-infarto-1229078' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/dji-estrena-nuevo-dron-cine-alta-gama-inspire-3-especificaciones-infarto-3006876.jpg?tf=1200x' alt='DJI estrena su nuevo dron de cine de alta gama Inspire 3 con especificaciones de infarto' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/industria/dogs-dow-estrategia-financiera-hacerse-millonario-invirtiendo-solo-5-euros-dia-1229686'>'Dogs of the Dow', la estrategia financiera para hacerse millonario invirtiendo solo 5 euros al día</a></h4>
+    <a href='https://computerhoy.com/industria/dogs-dow-estrategia-financiera-hacerse-millonario-invirtiendo-solo-5-euros-dia-1229686' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/dogs-dow-estrategia-financiera-hacerse-millonario-invirtiendo-solo-5-euros-dia-3007764.jpg?tf=1200x' alt=''Dogs of the Dow', la estrategia financiera para hacerse millonario invirtiendo solo 5 euros al día' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/espacio/nuevo-mapa-universo-confirma-teoria-albert-einstein-1229668'>Un nuevo mapa del Universo confirma una de las teorías más controvertidas de Albert Einstein</a></h4>
+    <a href='https://computerhoy.com/espacio/nuevo-mapa-universo-confirma-teoria-albert-einstein-1229668' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/nuevo-mapa-universo-confirma-teorias-controvertidas-albert-einstein-3007738.jpg?tf=1200x' alt='Un nuevo mapa del Universo confirma una de las teorías más controvertidas de Albert Einstein' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/energia/jeff-bezos-bill-gates-george-soros-obsesionados-geoingenieria-solar-1229602'>Por qué multimillonarios como Jeff Bezos, Bill Gates o George Soros están obsesionados con la geoingeniería solar</a></h4>
     <a href='https://computerhoy.com/energia/jeff-bezos-bill-gates-george-soros-obsesionados-geoingenieria-solar-1229602' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/multimillonarios-como-jeff-bezos-bill-gates-george-soros-estan-obsesionados-geoingenieria-solar-3007644.jpg?tf=1200x' alt='Por qué multimillonarios como Jeff Bezos, Bill Gates o George Soros están obsesionados con la geoingeniería solar' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/life/truco-viral-recordar-nombre-persona-te-saludando-1229576'>El genial truco viral para recordar al instante el nombre de la persona que te está saludando</a></h4>
     <a href='https://computerhoy.com/life/truco-viral-recordar-nombre-persona-te-saludando-1229576' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/genial-truco-viral-recordar-instante-nombre-persona-te-saludando-3007554.jpg?tf=1200x' alt='El genial truco viral para recordar al instante el nombre de la persona que te está saludando' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/industria/intel-une-arm-desbancar-samsung-fabricacion-procesadores-1229626'>Intel se une a ARM para desbancar a Samsung en la fabricación de procesadores</a></h4>
-    <a href='https://computerhoy.com/industria/intel-une-arm-desbancar-samsung-fabricacion-procesadores-1229626' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/procesador-intel-2976324.jpg?tf=1200x' alt='Intel se une a ARM para desbancar a Samsung en la fabricación de procesadores' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/android/android-auto-desbloquea-nueva-categoria-aplicaciones-compatibles-1229624'>Android Auto desbloquea una nueva categoría de aplicaciones compatibles</a></h4>
-    <a href='https://computerhoy.com/android/android-auto-desbloquea-nueva-categoria-aplicaciones-compatibles-1229624' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/android-auto-2965016.jpg?tf=1200x' alt='Android Auto desbloquea una nueva categoría de aplicaciones compatibles' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/7-apps-te-ayudaran-declaracion-renta-ahorrarte-miles-euros-impuestos-1229030'>Estas 7 apps te ayudarán con la declaración de la Renta y ahorrarte miles de euros en impuestos</a></h4>
-    <a href='https://computerhoy.com/apps/7-apps-te-ayudaran-declaracion-renta-ahorrarte-miles-euros-impuestos-1229030' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/estas-7-apps-te-ayudaran-declaracion-renta-ahorrarte-miles-euros-impuestos-3006818.jpg?tf=1200x' alt='Estas 7 apps te ayudarán con la declaración de la Renta y ahorrarte miles de euros en impuestos' />
     </a>
 </div>
 
