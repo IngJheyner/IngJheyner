@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/juice-europa-viaja-jupiter-lunas-lanzamiento-1229516'>Europa viaja a Júpiter y sus lunas por primera vez, así puedes ver el lanzamiento</a></h4>
-    <a href='https://computerhoy.com/espacio/juice-europa-viaja-jupiter-lunas-lanzamiento-1229516' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/europa-viaja-jupiter-lunas-primera-vez-puedes-ver-lanzamiento-3007232.jpg?tf=1200x' alt='Europa viaja a Júpiter y sus lunas por primera vez, así puedes ver el lanzamiento' />
+    <h4><a href='https://computerhoy.com/industria/andreas-zimmer-huawei-algunas-personas-no-saben-necesitan-producto-prueban-1216694'>Andreas Zimmer (Huawei): "Algunas personas no saben que necesitan un producto hasta que lo prueban y ya no quieren dejarlo"</a></h4>
+    <a href='https://computerhoy.com/industria/andreas-zimmer-huawei-algunas-personas-no-saben-necesitan-producto-prueban-1216694' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/director-producto-huawei-consumer-business-group-3002712.jpg?tf=1200x' alt='Andreas Zimmer (Huawei): "Algunas personas no saben que necesitan un producto hasta que lo prueban y ya no quieren dejarlo"' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/streaming/discograficas-piden-apple-music-spotify-bloqueen-musica-inteligencia-artificial-1229296'>Comienza la batalla: las discográficas piden a Apple Music y Spotify que bloqueen la música generada por IA</a></h4>
-    <a href='https://computerhoy.com/streaming/discograficas-piden-apple-music-spotify-bloqueen-musica-inteligencia-artificial-1229296' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/comienza-batalla-discograficas-piden-apple-music-spotify-bloqueen-musica-generada-ia-3007180.jpg?tf=1200x' alt='Comienza la batalla: las discográficas piden a Apple Music y Spotify que bloqueen la música generada por IA' />
+    <h4><a href='https://computerhoy.com/pc/minis-forum-mars-mc560-mini-pc-webcam-2k-alto-rendimiento-1229180'>Este potente mini PC tiene procesador Ryzen 5 y una webcam 2K integrada, perfecto para ahorrar espacio y dinero</a></h4>
+    <a href='https://computerhoy.com/pc/minis-forum-mars-mc560-mini-pc-webcam-2k-alto-rendimiento-1229180' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/minis-forum-mars-mc560-3007050.jpg?tf=1200x' alt='Este potente mini PC tiene procesador Ryzen 5 y una webcam 2K integrada, perfecto para ahorrar espacio y dinero' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/streaming/hbo-max-pasa-llamarse-max-sube-cuotas-1229290'>HBO Max se marca 'un Netflix' con su nuevo nombre Max: planes con publicidad y pagas más por el contenido 4K</a></h4>
-    <a href='https://computerhoy.com/streaming/hbo-max-pasa-llamarse-max-sube-cuotas-1229290' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/hbo-max-marca-netflix-nuevo-nombre-max-planes-publicidad-pagas-contenido-4k-3007228.jpg?tf=1200x' alt='HBO Max se marca 'un Netflix' con su nuevo nombre Max: planes con publicidad y pagas más por el contenido 4K' />
+    <h4><a href='https://computerhoy.com/tecnologia/noticias-tecnologia-hoy-jueves-13-abril-1229524'>24 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
+    <a href='https://computerhoy.com/tecnologia/noticias-tecnologia-hoy-jueves-13-abril-1229524' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/24-noticias-tecnologia-comenzar-manana-informado-ultimo-3007452.jpg?tf=1200x' alt='24 noticias de tecnología para comenzar la mañana informado de lo último' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/nuevo-estudio-indica-puede-predecir-alzheimer-gracias-molecula-azucar-1229284'>Un nuevo estudio indica que se puede predecir el Alzheimer gracias a una molécula de azúcar</a></h4>
-    <a href='https://computerhoy.com/ciencia/nuevo-estudio-indica-puede-predecir-alzheimer-gracias-molecula-azucar-1229284' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/cerebro-2943130.jpg?tf=1200x' alt='Un nuevo estudio indica que se puede predecir el Alzheimer gracias a una molécula de azúcar' />
+    <h4><a href='https://computerhoy.com/mejores/moviles-menos-300-euros-primavera-1228658'>Mejores móviles por menos de 300€ que puedes comprar esta primavera</a></h4>
+    <a href='https://computerhoy.com/mejores/moviles-menos-300-euros-primavera-1228658' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/poco-m5-3006020.jpg?tf=1200x' alt='Mejores móviles por menos de 300€ que puedes comprar esta primavera' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/cuidado-fotos-chicas-guapas-ofrecen-desnudarte-ti-estan-generadas-ia-1229222'>Cuidado con las fotos de chicas guapas que se ofrecen a desnudarse para ti: están generadas por IA</a></h4>
-    <a href='https://computerhoy.com/internet/cuidado-fotos-chicas-guapas-ofrecen-desnudarte-ti-estan-generadas-ia-1229222' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/fiesta-inteligencia-artificial-2933396.jpg?tf=1200x' alt='Cuidado con las fotos de chicas guapas que se ofrecen a desnudarse para ti: están generadas por IA' />
+    <h4><a href='https://computerhoy.com/hogar/makita-primer-microondas-inalambrico-portatil-sin-cable-video-1229518'>Makita MW001G, el primer microondas inalámbrico (vídeo)</a></h4>
+    <a href='https://computerhoy.com/hogar/makita-primer-microondas-inalambrico-portatil-sin-cable-video-1229518' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/verticalimage1681348095090-3007448.jpg?tf=1200x' alt='Makita MW001G, el primer microondas inalámbrico (vídeo)' />
     </a>
 </div>
 
