@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-mini-pc-procesadores-ryzen-1010701'>Mejores Mini PC con procesadores Ryzen que puedes comprar en 2023</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-mini-pc-procesadores-ryzen-1010701' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/mini-pc-procesador-amd-minis-forum-neptune-hx99g-3007486.jpg?tf=1200x' alt='Mejores Mini PC con procesadores Ryzen que puedes comprar en 2023' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/internet/online-telefono-presencial-mejor-presentar-renta-2022-23-1225080'>Qué es mejor para presentar la Renta 2022/23: ¿online, teléfono o presencial?</a></h4>
+    <a href='https://computerhoy.com/internet/online-telefono-presencial-mejor-presentar-renta-2022-23-1225080' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/02/fecha-declaracion-renta-2020-1867769.jpg?tf=1200x' alt='Qué es mejor para presentar la Renta 2022/23: ¿online, teléfono o presencial?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-limpiar-pantalla-tv-led-qled-oled-rastro-productos-nunca-deberias-utilizar-1229782'>Cómo limpiar la pantalla de tu TV LED, QLED u OLED sin rastro y productos que nunca deberías utilizar</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-limpiar-pantalla-tv-led-qled-oled-rastro-productos-nunca-deberias-utilizar-1229782' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/09/limpiar-pantalla-televisor-2059275.jpg?tf=1200x' alt='Cómo limpiar la pantalla de tu TV LED, QLED u OLED sin rastro y productos que nunca deberías utilizar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/streaming/perderas-descuento-50-cuando-hbo-max-convierta-max-1229758'>¿Perderás tu descuento del 50% cuando HBO Max se convierta en Max?</a></h4>
+    <a href='https://computerhoy.com/streaming/perderas-descuento-50-cuando-hbo-max-convierta-max-1229758' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/hbo-max-2882517.jpg?tf=1200x' alt='¿Perderás tu descuento del 50% cuando HBO Max se convierta en Max?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/dji-lanza-nuevo-dron-cine-inspire-3-caracteristicas-infarto-1229078'>DJI estrena su nuevo dron de cine de alta gama Inspire 3 con especificaciones de infarto</a></h4>
     <a href='https://computerhoy.com/tecnologia/dji-lanza-nuevo-dron-cine-inspire-3-caracteristicas-infarto-1229078' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/dji-estrena-nuevo-dron-cine-alta-gama-inspire-3-especificaciones-infarto-3006876.jpg?tf=1200x' alt='DJI estrena su nuevo dron de cine de alta gama Inspire 3 con especificaciones de infarto' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/industria/dogs-dow-estrategia-financiera-hacerse-millonario-invirtiendo-solo-5-euros-dia-1229686'>'Dogs of the Dow', la estrategia financiera para hacerse millonario invirtiendo solo 5 euros al día</a></h4>
-    <a href='https://computerhoy.com/industria/dogs-dow-estrategia-financiera-hacerse-millonario-invirtiendo-solo-5-euros-dia-1229686' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/dogs-dow-estrategia-financiera-hacerse-millonario-invirtiendo-solo-5-euros-dia-3007764.jpg?tf=1200x' alt=''Dogs of the Dow', la estrategia financiera para hacerse millonario invirtiendo solo 5 euros al día' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/nuevo-mapa-universo-confirma-teoria-albert-einstein-1229668'>Un nuevo mapa del Universo confirma una de las teorías más controvertidas de Albert Einstein</a></h4>
-    <a href='https://computerhoy.com/espacio/nuevo-mapa-universo-confirma-teoria-albert-einstein-1229668' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/nuevo-mapa-universo-confirma-teorias-controvertidas-albert-einstein-3007738.jpg?tf=1200x' alt='Un nuevo mapa del Universo confirma una de las teorías más controvertidas de Albert Einstein' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/energia/jeff-bezos-bill-gates-george-soros-obsesionados-geoingenieria-solar-1229602'>Por qué multimillonarios como Jeff Bezos, Bill Gates o George Soros están obsesionados con la geoingeniería solar</a></h4>
-    <a href='https://computerhoy.com/energia/jeff-bezos-bill-gates-george-soros-obsesionados-geoingenieria-solar-1229602' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/multimillonarios-como-jeff-bezos-bill-gates-george-soros-estan-obsesionados-geoingenieria-solar-3007644.jpg?tf=1200x' alt='Por qué multimillonarios como Jeff Bezos, Bill Gates o George Soros están obsesionados con la geoingeniería solar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/truco-viral-recordar-nombre-persona-te-saludando-1229576'>El genial truco viral para recordar al instante el nombre de la persona que te está saludando</a></h4>
-    <a href='https://computerhoy.com/life/truco-viral-recordar-nombre-persona-te-saludando-1229576' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/genial-truco-viral-recordar-instante-nombre-persona-te-saludando-3007554.jpg?tf=1200x' alt='El genial truco viral para recordar al instante el nombre de la persona que te está saludando' />
     </a>
 </div>
 
