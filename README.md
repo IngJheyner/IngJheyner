@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/streaming/discograficas-piden-apple-music-spotify-bloqueen-musica-inteligencia-artificial-1229296'>Comienza la batalla: las discográficas piden a Apple Music y Spotify que bloqueen la música generada por IA</a></h4>
+    <a href='https://computerhoy.com/streaming/discograficas-piden-apple-music-spotify-bloqueen-musica-inteligencia-artificial-1229296' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/comienza-batalla-discograficas-piden-apple-music-spotify-bloqueen-musica-generada-ia-3007180.jpg?tf=1200x' alt='Comienza la batalla: las discográficas piden a Apple Music y Spotify que bloqueen la música generada por IA' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/streaming/hbo-max-pasa-llamarse-max-sube-cuotas-1229290'>HBO Max se marca 'un Netflix' con su nuevo nombre Max: planes con publicidad y pagas más por el contenido 4K</a></h4>
     <a href='https://computerhoy.com/streaming/hbo-max-pasa-llamarse-max-sube-cuotas-1229290' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/hbo-max-marca-netflix-nuevo-nombre-max-planes-publicidad-pagas-contenido-4k-3007228.jpg?tf=1200x' alt='HBO Max se marca 'un Netflix' con su nuevo nombre Max: planes con publicidad y pagas más por el contenido 4K' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/streaming/podras-ver-800-canales-television-gratis-chromecast-dispositivos-google-tv-1229278'>Podrás ver más de 800 canales de televisión gratis en Chromecast y dispositivos con Google TV</a></h4>
     <a href='https://computerhoy.com/streaming/podras-ver-800-canales-television-gratis-chromecast-dispositivos-google-tv-1229278' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/google-tv-3007186.jpg?tf=1200x' alt='Podrás ver más de 800 canales de televisión gratis en Chromecast y dispositivos con Google TV' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/desconocido-boton-horno-casi-nadie-usa-te-hara-ahorrar-mucho-tiempo-1229276'>El desconocido botón del horno que casi nadie usa y que te hará ahorrar mucho tiempo</a></h4>
-    <a href='https://computerhoy.com/life/desconocido-boton-horno-casi-nadie-usa-te-hara-ahorrar-mucho-tiempo-1229276' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/horno-3007182.jpg?tf=1200x' alt='El desconocido botón del horno que casi nadie usa y que te hará ahorrar mucho tiempo' />
     </a>
 </div>
 
