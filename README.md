@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/software/editor-codigo-rapsberry-python-lenguaje-inteligencia-artificial-1229872'>Raspberry lanza un editor de código gratuito para aprender Python, el lenguaje de la IA</a></h4>
+    <a href='https://computerhoy.com/software/editor-codigo-rapsberry-python-lenguaje-inteligencia-artificial-1229872' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/raspberry-lanza-editor-codigo-aprender-python-lenguaje-ia-3008158.jpg?tf=1200x' alt='Raspberry lanza un editor de código gratuito para aprender Python, el lenguaje de la IA' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/whatsapp-lanza-dos-nuevas-medidas-seguridad-evitaran-te-roben-cuenta-1229826'>WhatsApp lanza dos nuevas medidas de seguridad que evitarán que te roben tu cuenta</a></h4>
+    <a href='https://computerhoy.com/apps/whatsapp-lanza-dos-nuevas-medidas-seguridad-evitaran-te-roben-cuenta-1229826' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/whatsapp-lanza-dos-nuevas-medidas-seguridad-evitaran-te-roben-cuenta-3008132.jpg?tf=1200x' alt='WhatsApp lanza dos nuevas medidas de seguridad que evitarán que te roben tu cuenta' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apple/iphone-15-pro-max-podria-alcanzar-precio-absolutamente-disparatado-1229818'>El iPhone 15 Pro Max podría alcanzar un precio absolutamente disparatado</a></h4>
     <a href='https://computerhoy.com/apple/iphone-15-pro-max-podria-alcanzar-precio-absolutamente-disparatado-1229818' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/persona-sujetando-iphone-14-pro-3005300.jpg?tf=1200x' alt='El iPhone 15 Pro Max podría alcanzar un precio absolutamente disparatado' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/espacio/publicada-primera-fotografia-resolucion-completa-agujero-negro-supermasivo-1229848'>Publicada la primera fotografía en resolución completa de un agujero negro supermasivo</a></h4>
     <a href='https://computerhoy.com/espacio/publicada-primera-fotografia-resolucion-completa-agujero-negro-supermasivo-1229848' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/agujero-negro-3008128.jpg?tf=1200x' alt='Publicada la primera fotografía en resolución completa de un agujero negro supermasivo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/empresa-espanola-lanzara-constelacion-satelites-conectar-territorios-aislados-1229844'>Una empresa española lanzará una constelación de satélites para conectar territorios aislados</a></h4>
-    <a href='https://computerhoy.com/espacio/empresa-espanola-lanzara-constelacion-satelites-conectar-territorios-aislados-1229844' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/sateliot-3008118.jpg?tf=1200x' alt='Una empresa española lanzará una constelación de satélites para conectar territorios aislados' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/pasa-no-presentas-renta-2022-23-dentro-plazo-1225052'>Qué pasa si no presentas la Renta 2022/23 dentro del plazo estando obligado a hacerla</a></h4>
-    <a href='https://computerhoy.com/internet/pasa-no-presentas-renta-2022-23-dentro-plazo-1225052' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/fechas-renta-2022-23-pedir-borrador-cuando-podrias-tener-ingresada-devolucion-2969698.jpg?tf=1200x' alt='Qué pasa si no presentas la Renta 2022/23 dentro del plazo estando obligado a hacerla' />
     </a>
 </div>
 
