@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/streaming/series-ver-fin-semana-hbo-max-disney-amazon-prime-video-drama-comedia-animacion-1230226'>Qué series ver este fin de semana en HBO Max, Disney+ y Amazon Prime Video: drama, comedia y animación</a></h4>
-    <a href='https://computerhoy.com/streaming/series-ver-fin-semana-hbo-max-disney-amazon-prime-video-drama-comedia-animacion-1230226' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/maravillosa-senora-maisel-2729157.jpg?tf=1200x' alt='Qué series ver este fin de semana en HBO Max, Disney+ y Amazon Prime Video: drama, comedia y animación' />
+    <h4><a href='https://computerhoy.com/software/sony-llevara-inteligencia-artificial-raspberry-pi-1229800'>Sony llevará su inteligencia artificial a Raspberry Pi</a></h4>
+    <a href='https://computerhoy.com/software/sony-llevara-inteligencia-artificial-raspberry-pi-1229800' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/raspberry-pi-2379269.jpg?tf=1200x' alt='Sony llevará su inteligencia artificial a Raspberry Pi' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/samsung-galaxy-z-fold-5-podria-llegar-novedad-sorprendente-1230380'>Samsung Galaxy Z Fold 5 podría llegar con una novedad sorprendente</a></h4>
-    <a href='https://computerhoy.com/moviles/samsung-galaxy-z-fold-5-podria-llegar-novedad-sorprendente-1230380' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/samsung-galaxy-z-fold-4-5g-1677587963434-2969664.jpg?tf=1200x' alt='Samsung Galaxy Z Fold 5 podría llegar con una novedad sorprendente' />
+    <h4><a href='https://computerhoy.com/streaming/fenomenas-netflix-paranormal-grupo-hepta-trailer-1230468'>La película española Fenómenas llega a Netflix, misterios paranormales basados en el Grupo Hepta</a></h4>
+    <a href='https://computerhoy.com/streaming/fenomenas-netflix-paranormal-grupo-hepta-trailer-1230468' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/verticalimage1681498454446-3009196.jpg?tf=1200x' alt='La película española Fenómenas llega a Netflix, misterios paranormales basados en el Grupo Hepta' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-google-1124989'>Estos son los mejores móviles de Google que puedes comprar</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-google-1124989' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/google-pixel-7-pro-encima-mesa-madera-junto-unas-gafas-sol-2860757.jpg?tf=1200x' alt='Estos son los mejores móviles de Google que puedes comprar' />
+    <h4><a href='https://computerhoy.com/apps/no-hijo-no-tiene-movil-roto-funciona-nueva-estafa-whatsapp-1230384'>No, tu hijo no tiene el móvil roto: así funciona la nueva estafa en WhatsApp</a></h4>
+    <a href='https://computerhoy.com/apps/no-hijo-no-tiene-movil-roto-funciona-nueva-estafa-whatsapp-1230384' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/son-como-funcionan-nuevos-mensajes-candado-whatsapp-2898696.jpg?tf=1200x' alt='No, tu hijo no tiene el móvil roto: así funciona la nueva estafa en WhatsApp' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/redes-sociales/elon-musk-abre-posibilidad-monetizar-contenido-twitter-1230374'>Elon Musk abre la posibilidad de monetizar tu contenido en Twitter</a></h4>
-    <a href='https://computerhoy.com/redes-sociales/elon-musk-abre-posibilidad-monetizar-contenido-twitter-1230374' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/elon-musk-2903170.jpg?tf=1200x' alt='Elon Musk abre la posibilidad de monetizar tu contenido en Twitter' />
+    <h4><a href='https://computerhoy.com/smartwatches/xiaomi-smart-band-8-convierte-collar-llega-dos-nuevos-modos-correr-boxear-1230460'>Xiaomi Smart Band 8 se convierte en collar y llega con dos nuevos modos para correr y boxear</a></h4>
+    <a href='https://computerhoy.com/smartwatches/xiaomi-smart-band-8-convierte-collar-llega-dos-nuevos-modos-correr-boxear-1230460' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/xiaomi-smart-band-8-3009186.jpg?tf=1200x' alt='Xiaomi Smart Band 8 se convierte en collar y llega con dos nuevos modos para correr y boxear' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/streaming/peliculas-ver-fin-semana-netflix-disney-movistarplus-jeremy-renner-vikingos-asesino-inalcanzable-1230144'>Qué películas ver este fin de semana en Netflix, Disney+ y MovistarPlus+: Jeremy Renner, vikingos y un asesino inalcanzable</a></h4>
-    <a href='https://computerhoy.com/streaming/peliculas-ver-fin-semana-netflix-disney-movistarplus-jeremy-renner-vikingos-asesino-inalcanzable-1230144' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/peliculas-ver-fin-semana-netflix-disney-movistarplus-jeremy-renner-vikingos-asesino-inalcanzable-3008558.jpg?tf=1200x' alt='Qué películas ver este fin de semana en Netflix, Disney+ y MovistarPlus+: Jeremy Renner, vikingos y un asesino inalcanzable' />
+    <h4><a href='https://computerhoy.com/motor/alertan-importante-fallo-seguridad-coches-audi-bmw-skoda-estos-son-modelos-afectados-1230458'>Alertan de un importante fallo de seguridad en coches Audi, BMW y Skoda: estos son los modelos afectados</a></h4>
+    <a href='https://computerhoy.com/motor/alertan-importante-fallo-seguridad-coches-audi-bmw-skoda-estos-son-modelos-afectados-1230458' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/airbag-3009182.jpg?tf=1200x' alt='Alertan de un importante fallo de seguridad en coches Audi, BMW y Skoda: estos son los modelos afectados' />
     </a>
 </div>
 
