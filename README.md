@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/tratamiento-natural-celulosa-invisible-picaduras-mosquitos-1230108'>Descubren un tratamiento natural y barato que evita las picaduras de mosquito</a></h4>
-    <a href='https://computerhoy.com/ciencia/tratamiento-natural-celulosa-invisible-picaduras-mosquitos-1230108' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/descubren-tratamiento-natural-barato-evita-picaduras-mosquito-3008176.jpg?tf=1200x' alt='Descubren un tratamiento natural y barato que evita las picaduras de mosquito' />
+    <h4><a href='https://computerhoy.com/realidad-virtual/meta-quiere-menores-formen-parte-metaverso-pero-no-va-tener-facil-1230138'>Meta quiere que los menores formen parte del metaverso pero no lo va a tener fácil</a></h4>
+    <a href='https://computerhoy.com/realidad-virtual/meta-quiere-menores-formen-parte-metaverso-pero-no-va-tener-facil-1230138' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/meta-quiere-menores-formen-parte-metaverso-pero-no-va-tener-facil-3008442.jpg?tf=1200x' alt='Meta quiere que los menores formen parte del metaverso pero no lo va a tener fácil' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/mapa-mundial-contaminacion-luminica-1229874'>¿Hay demasiada luz nocturna en tu localidad? Este mapa mundial de contaminación lumínica es muy revelador</a></h4>
-    <a href='https://computerhoy.com/life/mapa-mundial-contaminacion-luminica-1229874' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/hay-demasiada-luz-nocturna-localidad-mapa-mundial-contaminacion-luminica-muy-revelador-3008168.jpg?tf=1200x' alt='¿Hay demasiada luz nocturna en tu localidad? Este mapa mundial de contaminación lumínica es muy revelador' />
+    <h4><a href='https://computerhoy.com/pc/minis-forum-th80-mini-pc-core-i7-oferta-1229778'>Este mini PC es lo más parecido a un Mac mini que vas a encontrar y tiene procesador Core i7</a></h4>
+    <a href='https://computerhoy.com/pc/minis-forum-th80-mini-pc-core-i7-oferta-1229778' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/minis-forum-th80-3007906.jpg?tf=1200x' alt='Este mini PC es lo más parecido a un Mac mini que vas a encontrar y tiene procesador Core i7' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/software/editor-codigo-rapsberry-python-lenguaje-inteligencia-artificial-1229872'>Raspberry lanza un editor de código gratuito para aprender Python, el lenguaje de la IA</a></h4>
-    <a href='https://computerhoy.com/software/editor-codigo-rapsberry-python-lenguaje-inteligencia-artificial-1229872' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/raspberry-lanza-editor-codigo-aprender-python-lenguaje-ia-3008158.jpg?tf=1200x' alt='Raspberry lanza un editor de código gratuito para aprender Python, el lenguaje de la IA' />
+    <h4><a href='https://computerhoy.com/analisis/apple-homepod-2023-review-especificaciones-opinion-mejor-altavoz-apple-1214290'>HomePod (2023), análisis y opinión del mejor altavoz inteligente Apple</a></h4>
+    <a href='https://computerhoy.com/analisis/apple-homepod-2023-review-especificaciones-opinion-mejor-altavoz-apple-1214290' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/apple-homepod-2023-3007200.jpg?tf=1200x' alt='HomePod (2023), análisis y opinión del mejor altavoz inteligente Apple' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/whatsapp-lanza-dos-nuevas-medidas-seguridad-evitaran-te-roben-cuenta-1229826'>WhatsApp lanza dos nuevas medidas de seguridad que evitarán que te roben tu cuenta</a></h4>
-    <a href='https://computerhoy.com/apps/whatsapp-lanza-dos-nuevas-medidas-seguridad-evitaran-te-roben-cuenta-1229826' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/whatsapp-lanza-dos-nuevas-medidas-seguridad-evitaran-te-roben-cuenta-3008132.jpg?tf=1200x' alt='WhatsApp lanza dos nuevas medidas de seguridad que evitarán que te roben tu cuenta' />
+    <h4><a href='https://computerhoy.com/tecnologia/noticias-tecnologia-hoy-viernes-14-abril-1230110'>29 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
+    <a href='https://computerhoy.com/tecnologia/noticias-tecnologia-hoy-viernes-14-abril-1230110' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/29-noticias-tecnologia-comenzar-manana-informado-ultimo-3008398.jpg?tf=1200x' alt='29 noticias de tecnología para comenzar la mañana informado de lo último' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/iphone-15-pro-max-podria-alcanzar-precio-absolutamente-disparatado-1229818'>El iPhone 15 Pro Max podría alcanzar un precio absolutamente disparatado</a></h4>
-    <a href='https://computerhoy.com/apple/iphone-15-pro-max-podria-alcanzar-precio-absolutamente-disparatado-1229818' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/persona-sujetando-iphone-14-pro-3005300.jpg?tf=1200x' alt='El iPhone 15 Pro Max podría alcanzar un precio absolutamente disparatado' />
+    <h4><a href='https://computerhoy.com/listas/tecnologia/altavoz-google-home-cual-es-mejor-532895'>Cuál es el mejor altavoz Google Home (o Nest) para ti</a></h4>
+    <a href='https://computerhoy.com/listas/tecnologia/altavoz-google-home-cual-es-mejor-532895' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/google-home-mini-3007844.jpg?tf=1200x' alt='Cuál es el mejor altavoz Google Home (o Nest) para ti' />
     </a>
 </div>
 
