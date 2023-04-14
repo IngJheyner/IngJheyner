@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/tratamiento-natural-celulosa-invisible-picaduras-mosquitos-1230108'>Descubren un tratamiento natural y barato que evita las picaduras de mosquito</a></h4>
+    <a href='https://computerhoy.com/ciencia/tratamiento-natural-celulosa-invisible-picaduras-mosquitos-1230108' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/descubren-tratamiento-natural-barato-evita-picaduras-mosquito-3008176.jpg?tf=1200x' alt='Descubren un tratamiento natural y barato que evita las picaduras de mosquito' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/mapa-mundial-contaminacion-luminica-1229874'>¿Hay demasiada luz nocturna en tu localidad? Este mapa mundial de contaminación lumínica es muy revelador</a></h4>
     <a href='https://computerhoy.com/life/mapa-mundial-contaminacion-luminica-1229874' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/hay-demasiada-luz-nocturna-localidad-mapa-mundial-contaminacion-luminica-muy-revelador-3008168.jpg?tf=1200x' alt='¿Hay demasiada luz nocturna en tu localidad? Este mapa mundial de contaminación lumínica es muy revelador' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/apple/iphone-15-pro-max-podria-alcanzar-precio-absolutamente-disparatado-1229818'>El iPhone 15 Pro Max podría alcanzar un precio absolutamente disparatado</a></h4>
     <a href='https://computerhoy.com/apple/iphone-15-pro-max-podria-alcanzar-precio-absolutamente-disparatado-1229818' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/persona-sujetando-iphone-14-pro-3005300.jpg?tf=1200x' alt='El iPhone 15 Pro Max podría alcanzar un precio absolutamente disparatado' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/streaming/diferencia-precio-exacta-hbo-max-max-1229858'>Paga MAX por lo mismo: así han subido los precios con el cambio de HBO Max a Max</a></h4>
-    <a href='https://computerhoy.com/streaming/diferencia-precio-exacta-hbo-max-max-1229858' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/paga-max-mismo-han-subido-precios-cambio-hbo-max-max-3008112.jpg?tf=1200x' alt='Paga MAX por lo mismo: así han subido los precios con el cambio de HBO Max a Max' />
     </a>
 </div>
 
