@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/mapa-mundial-contaminacion-luminica-1229874'>¿Hay demasiada luz nocturna en tu localidad? Este mapa mundial de contaminación lumínica es muy revelador</a></h4>
+    <a href='https://computerhoy.com/life/mapa-mundial-contaminacion-luminica-1229874' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/hay-demasiada-luz-nocturna-localidad-mapa-mundial-contaminacion-luminica-muy-revelador-3008168.jpg?tf=1200x' alt='¿Hay demasiada luz nocturna en tu localidad? Este mapa mundial de contaminación lumínica es muy revelador' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/software/editor-codigo-rapsberry-python-lenguaje-inteligencia-artificial-1229872'>Raspberry lanza un editor de código gratuito para aprender Python, el lenguaje de la IA</a></h4>
     <a href='https://computerhoy.com/software/editor-codigo-rapsberry-python-lenguaje-inteligencia-artificial-1229872' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/raspberry-lanza-editor-codigo-aprender-python-lenguaje-ia-3008158.jpg?tf=1200x' alt='Raspberry lanza un editor de código gratuito para aprender Python, el lenguaje de la IA' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/streaming/diferencia-precio-exacta-hbo-max-max-1229858'>Paga MAX por lo mismo: así han subido los precios con el cambio de HBO Max a Max</a></h4>
     <a href='https://computerhoy.com/streaming/diferencia-precio-exacta-hbo-max-max-1229858' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/paga-max-mismo-han-subido-precios-cambio-hbo-max-max-3008112.jpg?tf=1200x' alt='Paga MAX por lo mismo: así han subido los precios con el cambio de HBO Max a Max' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/publicada-primera-fotografia-resolucion-completa-agujero-negro-supermasivo-1229848'>Publicada la primera fotografía en resolución completa de un agujero negro supermasivo</a></h4>
-    <a href='https://computerhoy.com/espacio/publicada-primera-fotografia-resolucion-completa-agujero-negro-supermasivo-1229848' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/agujero-negro-3008128.jpg?tf=1200x' alt='Publicada la primera fotografía en resolución completa de un agujero negro supermasivo' />
     </a>
 </div>
 
