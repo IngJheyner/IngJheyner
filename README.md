@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/streaming/series-ver-fin-semana-hbo-max-disney-amazon-prime-video-drama-comedia-animacion-1230226'>Qué series ver este fin de semana en HBO Max, Disney+ y Amazon Prime Video: drama, comedia y animación</a></h4>
+    <a href='https://computerhoy.com/streaming/series-ver-fin-semana-hbo-max-disney-amazon-prime-video-drama-comedia-animacion-1230226' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/maravillosa-senora-maisel-2729157.jpg?tf=1200x' alt='Qué series ver este fin de semana en HBO Max, Disney+ y Amazon Prime Video: drama, comedia y animación' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/moviles/samsung-galaxy-z-fold-5-podria-llegar-novedad-sorprendente-1230380'>Samsung Galaxy Z Fold 5 podría llegar con una novedad sorprendente</a></h4>
+    <a href='https://computerhoy.com/moviles/samsung-galaxy-z-fold-5-podria-llegar-novedad-sorprendente-1230380' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/samsung-galaxy-z-fold-4-5g-1677587963434-2969664.jpg?tf=1200x' alt='Samsung Galaxy Z Fold 5 podría llegar con una novedad sorprendente' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-google-1124989'>Estos son los mejores móviles de Google que puedes comprar</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-google-1124989' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/google-pixel-7-pro-encima-mesa-madera-junto-unas-gafas-sol-2860757.jpg?tf=1200x' alt='Estos son los mejores móviles de Google que puedes comprar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/redes-sociales/elon-musk-abre-posibilidad-monetizar-contenido-twitter-1230374'>Elon Musk abre la posibilidad de monetizar tu contenido en Twitter</a></h4>
     <a href='https://computerhoy.com/redes-sociales/elon-musk-abre-posibilidad-monetizar-contenido-twitter-1230374' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/elon-musk-2903170.jpg?tf=1200x' alt='Elon Musk abre la posibilidad de monetizar tu contenido en Twitter' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/streaming/peliculas-ver-fin-semana-netflix-disney-movistarplus-jeremy-renner-vikingos-asesino-inalcanzable-1230144'>Qué películas ver este fin de semana en Netflix, Disney+ y MovistarPlus+: Jeremy Renner, vikingos y un asesino inalcanzable</a></h4>
     <a href='https://computerhoy.com/streaming/peliculas-ver-fin-semana-netflix-disney-movistarplus-jeremy-renner-vikingos-asesino-inalcanzable-1230144' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/peliculas-ver-fin-semana-netflix-disney-movistarplus-jeremy-renner-vikingos-asesino-inalcanzable-3008558.jpg?tf=1200x' alt='Qué películas ver este fin de semana en Netflix, Disney+ y MovistarPlus+: Jeremy Renner, vikingos y un asesino inalcanzable' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/discos-opticos-estan-muriendo-cual-tiempo-maximo-vida-cd-dvd-1230358'>Tus discos ópticos se están muriendo: ¿cuál es el tiempo máximo de vida de un CD o DVD?</a></h4>
-    <a href='https://computerhoy.com/tecnologia/discos-opticos-estan-muriendo-cual-tiempo-maximo-vida-cd-dvd-1230358' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/cd-2787485.jpg?tf=1200x' alt='Tus discos ópticos se están muriendo: ¿cuál es el tiempo máximo de vida de un CD o DVD?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/windows-11-permitira-aplicaciones-apagar-ordenador-cuando-no-estes-cerca-1230264'>Windows 11 permitirá a las aplicaciones apagar el ordenador cuando no estés cerca</a></h4>
-    <a href='https://computerhoy.com/windows/windows-11-permitira-aplicaciones-apagar-ordenador-cuando-no-estes-cerca-1230264' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/windows-11-3003502.jpg?tf=1200x' alt='Windows 11 permitirá a las aplicaciones apagar el ordenador cuando no estés cerca' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/oferta-google-pixel-7-precio-minimo-historico-1230174'>Pixel 7 es uno de los mejores móviles de Google y ya cuesta 125€ menos: date prisa y consigue esta oferta</a></h4>
-    <a href='https://computerhoy.com/moviles/oferta-google-pixel-7-precio-minimo-historico-1230174' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/analisis-pixel-7-2914798.jpg?tf=1200x' alt='Pixel 7 es uno de los mejores móviles de Google y ya cuesta 125€ menos: date prisa y consigue esta oferta' />
     </a>
 </div>
 
