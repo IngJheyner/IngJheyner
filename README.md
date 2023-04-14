@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/realidad-virtual/meta-quiere-menores-formen-parte-metaverso-pero-no-va-tener-facil-1230138'>Meta quiere que los menores formen parte del metaverso pero no lo va a tener fácil</a></h4>
-    <a href='https://computerhoy.com/realidad-virtual/meta-quiere-menores-formen-parte-metaverso-pero-no-va-tener-facil-1230138' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/meta-quiere-menores-formen-parte-metaverso-pero-no-va-tener-facil-3008442.jpg?tf=1200x' alt='Meta quiere que los menores formen parte del metaverso pero no lo va a tener fácil' />
+    <h4><a href='https://computerhoy.com/motor/nueva-tecnologia-aumenta-autonomia-vehiculos-electricos-20-1230216'>Esta nueva tecnología aumenta la autonomía de los vehículos eléctricos en un 20%</a></h4>
+    <a href='https://computerhoy.com/motor/nueva-tecnologia-aumenta-autonomia-vehiculos-electricos-20-1230216' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/titan-silicon-3008548.jpg?tf=1200x' alt='Esta nueva tecnología aumenta la autonomía de los vehículos eléctricos en un 20%' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/minis-forum-th80-mini-pc-core-i7-oferta-1229778'>Este mini PC es lo más parecido a un Mac mini que vas a encontrar y tiene procesador Core i7</a></h4>
-    <a href='https://computerhoy.com/pc/minis-forum-th80-mini-pc-core-i7-oferta-1229778' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/minis-forum-th80-3007906.jpg?tf=1200x' alt='Este mini PC es lo más parecido a un Mac mini que vas a encontrar y tiene procesador Core i7' />
+    <h4><a href='https://computerhoy.com/apple/han-filtrado-algunas-mejoras-traeria-ios-17-mejor-rendimiento-eficiencia-estabilidad-1230218'>iOS 17: mejor rendimiento, eficiencia y estabilidad según las últimas filtraciones</a></h4>
+    <a href='https://computerhoy.com/apple/han-filtrado-algunas-mejoras-traeria-ios-17-mejor-rendimiento-eficiencia-estabilidad-1230218' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/iphone-2951344.jpg?tf=1200x' alt='iOS 17: mejor rendimiento, eficiencia y estabilidad según las últimas filtraciones' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/apple-homepod-2023-review-especificaciones-opinion-mejor-altavoz-apple-1214290'>HomePod (2023), análisis y opinión del mejor altavoz inteligente Apple</a></h4>
-    <a href='https://computerhoy.com/analisis/apple-homepod-2023-review-especificaciones-opinion-mejor-altavoz-apple-1214290' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/apple-homepod-2023-3007200.jpg?tf=1200x' alt='HomePod (2023), análisis y opinión del mejor altavoz inteligente Apple' />
+    <h4><a href='https://computerhoy.com/espacio/eclipses-raros-cubrira-cielos-algunas-zonas-20-abril-1230166'>Uno de los eclipses más raros cubrirá los cielos de algunas zonas el 20 de abril</a></h4>
+    <a href='https://computerhoy.com/espacio/eclipses-raros-cubrira-cielos-algunas-zonas-20-abril-1230166' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/eclipses-raros-cubrira-cielos-algunas-zonas-20-abril-3008496.jpg?tf=1200x' alt='Uno de los eclipses más raros cubrirá los cielos de algunas zonas el 20 de abril' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/noticias-tecnologia-hoy-viernes-14-abril-1230110'>29 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
-    <a href='https://computerhoy.com/tecnologia/noticias-tecnologia-hoy-viernes-14-abril-1230110' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/29-noticias-tecnologia-comenzar-manana-informado-ultimo-3008398.jpg?tf=1200x' alt='29 noticias de tecnología para comenzar la mañana informado de lo último' />
+    <h4><a href='https://computerhoy.com/android/gran-problema-android-hay-usuarios-usando-android-9-android-13-1230202'>El gran problema Android: Hay más usuarios usando Android 9 que Android 13</a></h4>
+    <a href='https://computerhoy.com/android/gran-problema-android-hay-usuarios-usando-android-9-android-13-1230202' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/android-parecidos-iphone-2971984.jpg?tf=1200x' alt='El gran problema Android: Hay más usuarios usando Android 9 que Android 13' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/listas/tecnologia/altavoz-google-home-cual-es-mejor-532895'>Cuál es el mejor altavoz Google Home (o Nest) para ti</a></h4>
-    <a href='https://computerhoy.com/listas/tecnologia/altavoz-google-home-cual-es-mejor-532895' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/google-home-mini-3007844.jpg?tf=1200x' alt='Cuál es el mejor altavoz Google Home (o Nest) para ti' />
+    <h4><a href='https://computerhoy.com/ciencia/inyeccion-podria-detener-hemorragias-severas-salvar-millones-vidas-1230146'>Una inyección podría detener las hemorragias severas y salvar millones de vidas</a></h4>
+    <a href='https://computerhoy.com/ciencia/inyeccion-podria-detener-hemorragias-severas-salvar-millones-vidas-1230146' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/inyeccion-podria-detener-hemorragias-severas-salvar-millones-vidas-3008450.jpg?tf=1200x' alt='Una inyección podría detener las hemorragias severas y salvar millones de vidas' />
     </a>
 </div>
 
