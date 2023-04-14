@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/redes-sociales/elon-musk-abre-posibilidad-monetizar-contenido-twitter-1230374'>Elon Musk abre la posibilidad de monetizar tu contenido en Twitter</a></h4>
+    <a href='https://computerhoy.com/redes-sociales/elon-musk-abre-posibilidad-monetizar-contenido-twitter-1230374' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/elon-musk-2903170.jpg?tf=1200x' alt='Elon Musk abre la posibilidad de monetizar tu contenido en Twitter' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/streaming/peliculas-ver-fin-semana-netflix-disney-movistarplus-jeremy-renner-vikingos-asesino-inalcanzable-1230144'>Qué películas ver este fin de semana en Netflix, Disney+ y MovistarPlus+: Jeremy Renner, vikingos y un asesino inalcanzable</a></h4>
+    <a href='https://computerhoy.com/streaming/peliculas-ver-fin-semana-netflix-disney-movistarplus-jeremy-renner-vikingos-asesino-inalcanzable-1230144' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/peliculas-ver-fin-semana-netflix-disney-movistarplus-jeremy-renner-vikingos-asesino-inalcanzable-3008558.jpg?tf=1200x' alt='Qué películas ver este fin de semana en Netflix, Disney+ y MovistarPlus+: Jeremy Renner, vikingos y un asesino inalcanzable' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/discos-opticos-estan-muriendo-cual-tiempo-maximo-vida-cd-dvd-1230358'>Tus discos ópticos se están muriendo: ¿cuál es el tiempo máximo de vida de un CD o DVD?</a></h4>
+    <a href='https://computerhoy.com/tecnologia/discos-opticos-estan-muriendo-cual-tiempo-maximo-vida-cd-dvd-1230358' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/cd-2787485.jpg?tf=1200x' alt='Tus discos ópticos se están muriendo: ¿cuál es el tiempo máximo de vida de un CD o DVD?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/windows/windows-11-permitira-aplicaciones-apagar-ordenador-cuando-no-estes-cerca-1230264'>Windows 11 permitirá a las aplicaciones apagar el ordenador cuando no estés cerca</a></h4>
     <a href='https://computerhoy.com/windows/windows-11-permitira-aplicaciones-apagar-ordenador-cuando-no-estes-cerca-1230264' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/windows-11-3003502.jpg?tf=1200x' alt='Windows 11 permitirá a las aplicaciones apagar el ordenador cuando no estés cerca' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/moviles/oferta-google-pixel-7-precio-minimo-historico-1230174'>Pixel 7 es uno de los mejores móviles de Google y ya cuesta 125€ menos: date prisa y consigue esta oferta</a></h4>
     <a href='https://computerhoy.com/moviles/oferta-google-pixel-7-precio-minimo-historico-1230174' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/analisis-pixel-7-2914798.jpg?tf=1200x' alt='Pixel 7 es uno de los mejores móviles de Google y ya cuesta 125€ menos: date prisa y consigue esta oferta' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-corregir-algoritmo-netflix-ha-vuelto-loco-solo-recomienda-cosas-no-te-gustan-1230260'>Cómo corregir el algoritmo de Netflix si se ha vuelto loco y solo recomienda cosas que no te gustan</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-corregir-algoritmo-netflix-ha-vuelto-loco-solo-recomienda-cosas-no-te-gustan-1230260' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/algoritmo-netflix-3008646.jpg?tf=1200x' alt='Cómo corregir el algoritmo de Netflix si se ha vuelto loco y solo recomienda cosas que no te gustan' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/chatgpt-como-herramienta-tener-varios-trabajos-vez-1230256'>Consiguen explotar a ChatGPT para tener varios trabajos a tiempo completo de forma simultánea</a></h4>
-    <a href='https://computerhoy.com/tecnologia/chatgpt-como-herramienta-tener-varios-trabajos-vez-1230256' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/consiguen-explotar-chatgpt-tener-varios-trabajos-tiempo-completo-forma-simultanea-3008520.jpg?tf=1200x' alt='Consiguen explotar a ChatGPT para tener varios trabajos a tiempo completo de forma simultánea' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/nueva-tecnologia-aumenta-autonomia-vehiculos-electricos-20-1230216'>Esta nueva tecnología aumenta la autonomía de los vehículos eléctricos en un 20%</a></h4>
-    <a href='https://computerhoy.com/motor/nueva-tecnologia-aumenta-autonomia-vehiculos-electricos-20-1230216' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/titan-silicon-3008548.jpg?tf=1200x' alt='Esta nueva tecnología aumenta la autonomía de los vehículos eléctricos en un 20%' />
     </a>
 </div>
 
