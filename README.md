@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/espacio/rover-iris-creado-estudiantes-paseara-luna-mayo-1226192'>Un rover creado por estudiantes rodará por la superficie de la Luna en mayo, adelantando a la NASA</a></h4>
+    <a href='https://computerhoy.com/espacio/rover-iris-creado-estudiantes-paseara-luna-mayo-1226192' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/rover-creado-universitarios-paseara-luna-mayo-adelantando-nasa-3002198.jpg?tf=1200x' alt='Un rover creado por estudiantes rodará por la superficie de la Luna en mayo, adelantando a la NASA' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/whatsapp-te-permitira-anadir-descripcion-archivos-enviados-evitar-malentendidos-1230770'>WhatsApp te permitirá añadir una descripción a los archivos enviados para evitar malentendidos</a></h4>
+    <a href='https://computerhoy.com/apps/whatsapp-te-permitira-anadir-descripcion-archivos-enviados-evitar-malentendidos-1230770' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/whatsapp-2870685.jpg?tf=1200x' alt='WhatsApp te permitirá añadir una descripción a los archivos enviados para evitar malentendidos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/windows/microsoft-quiere-sea-facil-navegacion-intercambio-fotos-windows-11-1230760'>Microsoft quiere que sea más fácil la navegación y el intercambio de fotos en Windows 11</a></h4>
     <a href='https://computerhoy.com/windows/microsoft-quiere-sea-facil-navegacion-intercambio-fotos-windows-11-1230760' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/windows-11-2987236.jpg?tf=1200x' alt='Microsoft quiere que sea más fácil la navegación y el intercambio de fotos en Windows 11' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/ciberseguridad/te-sale-devolver-renta-2022-23-ten-cuidado-estafa-avisa-guardia-civil-1230740'>Si te sale a devolver la Renta 2022/23 ten cuidado con esta estafa, avisa la Guardia Civil</a></h4>
     <a href='https://computerhoy.com/ciberseguridad/te-sale-devolver-renta-2022-23-ten-cuidado-estafa-avisa-guardia-civil-1230740' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/comienza-campana-renta-2022-23-ella-ciberestafas-como-protegerte-expertos-3008590.jpg?tf=1200x' alt='Si te sale a devolver la Renta 2022/23 ten cuidado con esta estafa, avisa la Guardia Civil' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/android/android-14-te-permitira-evitar-notificaciones-molestas-movil-1230736'>Android 14 te permitirá evitar las notificaciones más molestas de tu móvil</a></h4>
-    <a href='https://computerhoy.com/android/android-14-te-permitira-evitar-notificaciones-molestas-movil-1230736' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/notificaciones-telefono-movil-3009502.jpg?tf=1200x' alt='Android 14 te permitirá evitar las notificaciones más molestas de tu móvil' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/escalofriante-respuesta-chatgpt-como-maquinas-podrian-esclavizar-humanidad-1230734'>La escalofriante respuesta de ChatGPT sobre cómo las máquinas podrían esclavizar a la humanidad tras nuestra pregunta</a></h4>
-    <a href='https://computerhoy.com/apps/escalofriante-respuesta-chatgpt-como-maquinas-podrian-esclavizar-humanidad-1230734' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/inteligencia-artificial-3009498.jpg?tf=1200x' alt='La escalofriante respuesta de ChatGPT sobre cómo las máquinas podrían esclavizar a la humanidad tras nuestra pregunta' />
     </a>
 </div>
 
