@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/conduce-colmena-abejas-dentro-coche-video-1230682'>Conduce con una colmena de abejas dentro del coche, un biólogo explica qué está pasando (vídeo)</a></h4>
-    <a href='https://computerhoy.com/life/conduce-colmena-abejas-dentro-coche-video-1230682' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/colmena-3009404.jpg?tf=1200x' alt='Conduce con una colmena de abejas dentro del coche, un biólogo explica qué está pasando (vídeo)' />
+    <h4><a href='https://computerhoy.com/apps/14-mejores-apps-google-tv-2023-1215800'>Las 14 mejores Apps para Google TV de 2023</a></h4>
+    <a href='https://computerhoy.com/apps/14-mejores-apps-google-tv-2023-1215800' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/chromecast-google-tv-solo-5529eu-2719311.jpg?tf=1200x' alt='Las 14 mejores Apps para Google TV de 2023' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/sam-altman-openai-asegura-no-estan-trabajando-gpt-5-1230476'>El CEO de OpenAI critica la carta de Elon Musk y otros expertos, y confirma que no están trabajando en GPT-5</a></h4>
-    <a href='https://computerhoy.com/tecnologia/sam-altman-openai-asegura-no-estan-trabajando-gpt-5-1230476' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/futuro-ia-google-gpt-4-mundo-laboral-opina-ceo-openai-sam-altman-respecto-2937980.jpg?tf=1200x' alt='El CEO de OpenAI critica la carta de Elon Musk y otros expertos, y confirma que no están trabajando en GPT-5' />
+    <h4><a href='https://computerhoy.com/smartwatches/eres-relojes-inteligentes-moviles-forma-reloj-1228548'>¿Relojes inteligentes o móviles con forma de reloj?</a></h4>
+    <a href='https://computerhoy.com/smartwatches/eres-relojes-inteligentes-moviles-forma-reloj-1228548' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/nuevo-smartwatch-escandinavo-combina-amazon-alexa-habilidades-spo2-sensor-fc-mejorado-2803959.jpg?tf=1200x' alt='¿Relojes inteligentes o móviles con forma de reloj?' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/juice-despega-rumbo-jupiter-lunas-1230474'>Europa pone en órbita a Juice, una nave de 27 metros que viajará a Júpiter y sus lunas, en busca de vida</a></h4>
-    <a href='https://computerhoy.com/espacio/juice-despega-rumbo-jupiter-lunas-1230474' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/lanzamiento-juice-3009202.jpg?tf=1200x' alt='Europa pone en órbita a Juice, una nave de 27 metros que viajará a Júpiter y sus lunas, en busca de vida' />
+    <h4><a href='https://computerhoy.com/tecnologia/9-usos-sacar-maximo-partido-chatgpt-dia-dia-1224826'>9 usos de ChatGPT que te permitirán exprimir al máximo esta IA en tu día a día </a></h4>
+    <a href='https://computerhoy.com/tecnologia/9-usos-sacar-maximo-partido-chatgpt-dia-dia-1224826' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/usos-puedes-dar-ia-chatgpt-dia-dia-3000264.jpg?tf=1200x' alt='9 usos de ChatGPT que te permitirán exprimir al máximo esta IA en tu día a día ' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/software/sony-llevara-inteligencia-artificial-raspberry-pi-1229800'>Sony llevará su inteligencia artificial a Raspberry Pi</a></h4>
-    <a href='https://computerhoy.com/software/sony-llevara-inteligencia-artificial-raspberry-pi-1229800' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/raspberry-pi-2379269.jpg?tf=1200x' alt='Sony llevará su inteligencia artificial a Raspberry Pi' />
+    <h4><a href='https://computerhoy.com/ciencia/estudiantes-demuestran-teorema-pitagoras-trigonometria-1230684'>Dos estudiantes de instituto demuestran el Teorema de Pitágoras con una fórmula que los matemáticos consideran imposible</a></h4>
+    <a href='https://computerhoy.com/ciencia/estudiantes-demuestran-teorema-pitagoras-trigonometria-1230684' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/dos-estudiantes-instituto-demuestran-teorema-pitagoras-formula-matematicos-consideran-imposible-3009408.jpg?tf=1200x' alt='Dos estudiantes de instituto demuestran el Teorema de Pitágoras con una fórmula que los matemáticos consideran imposible' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/streaming/fenomenas-netflix-paranormal-grupo-hepta-trailer-1230468'>La película española Fenómenas llega a Netflix, misterios paranormales basados en el Grupo Hepta</a></h4>
-    <a href='https://computerhoy.com/streaming/fenomenas-netflix-paranormal-grupo-hepta-trailer-1230468' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/verticalimage1681498454446-3009196.jpg?tf=1200x' alt='La película española Fenómenas llega a Netflix, misterios paranormales basados en el Grupo Hepta' />
+    <h4><a href='https://computerhoy.com/motor/bicicleta-ruedas-cuadradas-funciona-1230188'>Llega la bicicleta con ruedas cuadradas, y realmente funciona (vídeo)</a></h4>
+    <a href='https://computerhoy.com/motor/bicicleta-ruedas-cuadradas-funciona-1230188' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/llega-bicicleta-ruedas-cuadradas-realmente-funciona-video-3008494.jpg?tf=1200x' alt='Llega la bicicleta con ruedas cuadradas, y realmente funciona (vídeo)' />
     </a>
 </div>
 
