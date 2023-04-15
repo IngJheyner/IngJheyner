@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-descargar-peliculas-gratis-1225520'>Cómo descargar películas gratis</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-descargar-peliculas-gratis-1225520' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/cine-3000788.jpg?tf=1200x' alt='Cómo descargar películas gratis' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/gaming/pocketstar-miniatures-consolas-mas-pequenas-mundo-video-1230686'>PocketStar Miniatures: las consolas más pequeñas del mundo (vídeo)</a></h4>
+    <a href='https://computerhoy.com/gaming/pocketstar-miniatures-consolas-mas-pequenas-mundo-video-1230686' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/verticalimage1681539124260-3009420.jpg?tf=1200x' alt='PocketStar Miniatures: las consolas más pequeñas del mundo (vídeo)' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/vas-poder-encontrar-aplicaciones-ocultas-android-1229098'>Así vas a poder encontrar aplicaciones ocultas en Android</a></h4>
+    <a href='https://computerhoy.com/tutoriales/vas-poder-encontrar-aplicaciones-ocultas-android-1229098' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/lupa-3006562.jpg?tf=1200x' alt='Así vas a poder encontrar aplicaciones ocultas en Android' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/internet/9-cosas-no-sabias-puedes-desgravarte-renta-2022-2023-1226114'>Cosas que no sabías que puedes desgravarte en la Renta 2022/23 para conseguir un resultado favorable</a></h4>
+    <a href='https://computerhoy.com/internet/9-cosas-no-sabias-puedes-desgravarte-renta-2022-2023-1226114' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/declaracion-renta-2299113.jpg?tf=1200x' alt='Cosas que no sabías que puedes desgravarte en la Renta 2022/23 para conseguir un resultado favorable' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apps/14-mejores-apps-google-tv-2023-1215800'>Las 14 mejores Apps para Google TV de 2023</a></h4>
     <a href='https://computerhoy.com/apps/14-mejores-apps-google-tv-2023-1215800' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/chromecast-google-tv-solo-5529eu-2719311.jpg?tf=1200x' alt='Las 14 mejores Apps para Google TV de 2023' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/smartwatches/eres-relojes-inteligentes-moviles-forma-reloj-1228548'>¿Relojes inteligentes o móviles con forma de reloj?</a></h4>
-    <a href='https://computerhoy.com/smartwatches/eres-relojes-inteligentes-moviles-forma-reloj-1228548' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/nuevo-smartwatch-escandinavo-combina-amazon-alexa-habilidades-spo2-sensor-fc-mejorado-2803959.jpg?tf=1200x' alt='¿Relojes inteligentes o móviles con forma de reloj?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/9-usos-sacar-maximo-partido-chatgpt-dia-dia-1224826'>9 usos de ChatGPT que te permitirán exprimir al máximo esta IA en tu día a día </a></h4>
-    <a href='https://computerhoy.com/tecnologia/9-usos-sacar-maximo-partido-chatgpt-dia-dia-1224826' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/usos-puedes-dar-ia-chatgpt-dia-dia-3000264.jpg?tf=1200x' alt='9 usos de ChatGPT que te permitirán exprimir al máximo esta IA en tu día a día ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/estudiantes-demuestran-teorema-pitagoras-trigonometria-1230684'>Dos estudiantes de instituto demuestran el Teorema de Pitágoras con una fórmula que los matemáticos consideran imposible</a></h4>
-    <a href='https://computerhoy.com/ciencia/estudiantes-demuestran-teorema-pitagoras-trigonometria-1230684' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/dos-estudiantes-instituto-demuestran-teorema-pitagoras-formula-matematicos-consideran-imposible-3009408.jpg?tf=1200x' alt='Dos estudiantes de instituto demuestran el Teorema de Pitágoras con una fórmula que los matemáticos consideran imposible' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/bicicleta-ruedas-cuadradas-funciona-1230188'>Llega la bicicleta con ruedas cuadradas, y realmente funciona (vídeo)</a></h4>
-    <a href='https://computerhoy.com/motor/bicicleta-ruedas-cuadradas-funciona-1230188' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/llega-bicicleta-ruedas-cuadradas-realmente-funciona-video-3008494.jpg?tf=1200x' alt='Llega la bicicleta con ruedas cuadradas, y realmente funciona (vídeo)' />
     </a>
 </div>
 
