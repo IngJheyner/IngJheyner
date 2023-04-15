@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-descargar-peliculas-gratis-1225520'>Cómo descargar películas gratis</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-descargar-peliculas-gratis-1225520' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/cine-3000788.jpg?tf=1200x' alt='Cómo descargar películas gratis' />
+    <h4><a href='https://computerhoy.com/apps/escalofriante-respuesta-chatgpt-como-maquinas-podrian-esclavizar-humanidad-1230734'>La escalofriante respuesta de ChatGPT sobre cómo las máquinas podrían esclavizar a la humanidad tras nuestra pregunta</a></h4>
+    <a href='https://computerhoy.com/apps/escalofriante-respuesta-chatgpt-como-maquinas-podrian-esclavizar-humanidad-1230734' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/inteligencia-artificial-3009498.jpg?tf=1200x' alt='La escalofriante respuesta de ChatGPT sobre cómo las máquinas podrían esclavizar a la humanidad tras nuestra pregunta' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/gaming/pocketstar-miniatures-consolas-mas-pequenas-mundo-video-1230686'>PocketStar Miniatures: las consolas más pequeñas del mundo (vídeo)</a></h4>
-    <a href='https://computerhoy.com/gaming/pocketstar-miniatures-consolas-mas-pequenas-mundo-video-1230686' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/verticalimage1681539124260-3009420.jpg?tf=1200x' alt='PocketStar Miniatures: las consolas más pequeñas del mundo (vídeo)' />
+    <h4><a href='https://computerhoy.com/apps/telegram-abandona-competencia-whatsapp-convertirse-lugar-muy-peligroso-1230728'>Telegram abandona su competencia con WhatsApp para convertirse en un lugar muy peligroso</a></h4>
+    <a href='https://computerhoy.com/apps/telegram-abandona-competencia-whatsapp-convertirse-lugar-muy-peligroso-1230728' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/informes-aseguran-telegram-convirtiendo-ecosistema-perfecto-ciberdelincuencia-2964032.jpg?tf=1200x' alt='Telegram abandona su competencia con WhatsApp para convertirse en un lugar muy peligroso' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/vas-poder-encontrar-aplicaciones-ocultas-android-1229098'>Así vas a poder encontrar aplicaciones ocultas en Android</a></h4>
-    <a href='https://computerhoy.com/tutoriales/vas-poder-encontrar-aplicaciones-ocultas-android-1229098' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/lupa-3006562.jpg?tf=1200x' alt='Así vas a poder encontrar aplicaciones ocultas en Android' />
+    <h4><a href='https://computerhoy.com/alimentacion/lugar-adecuado-cocinar-forma-segura-freidora-aire-1230720'>Este es el lugar más adecuado para cocinar de forma segura con tu freidora de aire</a></h4>
+    <a href='https://computerhoy.com/alimentacion/lugar-adecuado-cocinar-forma-segura-freidora-aire-1230720' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/freidora-aire-3009478.jpg?tf=1200x' alt='Este es el lugar más adecuado para cocinar de forma segura con tu freidora de aire' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/9-cosas-no-sabias-puedes-desgravarte-renta-2022-2023-1226114'>Cosas que no sabías que puedes desgravarte en la Renta 2022/23 para conseguir un resultado favorable</a></h4>
-    <a href='https://computerhoy.com/internet/9-cosas-no-sabias-puedes-desgravarte-renta-2022-2023-1226114' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/declaracion-renta-2299113.jpg?tf=1200x' alt='Cosas que no sabías que puedes desgravarte en la Renta 2022/23 para conseguir un resultado favorable' />
+    <h4><a href='https://computerhoy.com/windows/11-razones-definitivas-actualizar-windows-11-1228676'>Las 11 razones definitivas para actualizar Windows 11</a></h4>
+    <a href='https://computerhoy.com/windows/11-razones-definitivas-actualizar-windows-11-1228676' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/windows-11-ordenador-portatil-2653611.jpg?tf=1200x' alt='Las 11 razones definitivas para actualizar Windows 11' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/14-mejores-apps-google-tv-2023-1215800'>Las 14 mejores Apps para Google TV de 2023</a></h4>
-    <a href='https://computerhoy.com/apps/14-mejores-apps-google-tv-2023-1215800' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/chromecast-google-tv-solo-5529eu-2719311.jpg?tf=1200x' alt='Las 14 mejores Apps para Google TV de 2023' />
+    <h4><a href='https://computerhoy.com/apps/elon-musk-funda-xai-vision-inteligencia-artificial-crear-propio-chatgpt-competir-openai-1230714'>Elon Musk funda X.AI, su visión de la inteligencia artificial para crear su propio ChatGPT y competir con OpenAI</a></h4>
+    <a href='https://computerhoy.com/apps/elon-musk-funda-xai-vision-inteligencia-artificial-crear-propio-chatgpt-competir-openai-1230714' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/elon-musk-3009470.jpg?tf=1200x' alt='Elon Musk funda X.AI, su visión de la inteligencia artificial para crear su propio ChatGPT y competir con OpenAI' />
     </a>
 </div>
 
