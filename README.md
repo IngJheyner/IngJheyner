@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/windows/microsoft-quiere-sea-facil-navegacion-intercambio-fotos-windows-11-1230760'>Microsoft quiere que sea más fácil la navegación y el intercambio de fotos en Windows 11</a></h4>
+    <a href='https://computerhoy.com/windows/microsoft-quiere-sea-facil-navegacion-intercambio-fotos-windows-11-1230760' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/windows-11-2987236.jpg?tf=1200x' alt='Microsoft quiere que sea más fácil la navegación y el intercambio de fotos en Windows 11' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/xiaomi-fan-festival-mejores-ofertas-descuentos-moviles-auriculares-gadgets-1228100'>Xiaomi tira la casa por la ventana en su Fan Festival 2023: estas son las mejores ofertas</a></h4>
+    <a href='https://computerhoy.com/tecnologia/xiaomi-fan-festival-mejores-ofertas-descuentos-moviles-auriculares-gadgets-1228100' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/ecosistema-xiaomi-2320727.jpg?tf=1200x' alt='Xiaomi tira la casa por la ventana en su Fan Festival 2023: estas son las mejores ofertas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/te-sale-devolver-renta-2022-23-ten-cuidado-estafa-avisa-guardia-civil-1230740'>Si te sale a devolver la Renta 2022/23 ten cuidado con esta estafa, avisa la Guardia Civil</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/te-sale-devolver-renta-2022-23-ten-cuidado-estafa-avisa-guardia-civil-1230740' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/comienza-campana-renta-2022-23-ella-ciberestafas-como-protegerte-expertos-3008590.jpg?tf=1200x' alt='Si te sale a devolver la Renta 2022/23 ten cuidado con esta estafa, avisa la Guardia Civil' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/android/android-14-te-permitira-evitar-notificaciones-molestas-movil-1230736'>Android 14 te permitirá evitar las notificaciones más molestas de tu móvil</a></h4>
+    <a href='https://computerhoy.com/android/android-14-te-permitira-evitar-notificaciones-molestas-movil-1230736' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/notificaciones-telefono-movil-3009502.jpg?tf=1200x' alt='Android 14 te permitirá evitar las notificaciones más molestas de tu móvil' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apps/escalofriante-respuesta-chatgpt-como-maquinas-podrian-esclavizar-humanidad-1230734'>La escalofriante respuesta de ChatGPT sobre cómo las máquinas podrían esclavizar a la humanidad tras nuestra pregunta</a></h4>
     <a href='https://computerhoy.com/apps/escalofriante-respuesta-chatgpt-como-maquinas-podrian-esclavizar-humanidad-1230734' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/inteligencia-artificial-3009498.jpg?tf=1200x' alt='La escalofriante respuesta de ChatGPT sobre cómo las máquinas podrían esclavizar a la humanidad tras nuestra pregunta' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/telegram-abandona-competencia-whatsapp-convertirse-lugar-muy-peligroso-1230728'>Telegram abandona su competencia con WhatsApp para convertirse en un lugar muy peligroso</a></h4>
-    <a href='https://computerhoy.com/apps/telegram-abandona-competencia-whatsapp-convertirse-lugar-muy-peligroso-1230728' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/informes-aseguran-telegram-convirtiendo-ecosistema-perfecto-ciberdelincuencia-2964032.jpg?tf=1200x' alt='Telegram abandona su competencia con WhatsApp para convertirse en un lugar muy peligroso' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/alimentacion/lugar-adecuado-cocinar-forma-segura-freidora-aire-1230720'>Este es el lugar más adecuado para cocinar de forma segura con tu freidora de aire</a></h4>
-    <a href='https://computerhoy.com/alimentacion/lugar-adecuado-cocinar-forma-segura-freidora-aire-1230720' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/freidora-aire-3009478.jpg?tf=1200x' alt='Este es el lugar más adecuado para cocinar de forma segura con tu freidora de aire' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/11-razones-definitivas-actualizar-windows-11-1228676'>Las 11 razones definitivas para actualizar Windows 11</a></h4>
-    <a href='https://computerhoy.com/windows/11-razones-definitivas-actualizar-windows-11-1228676' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/windows-11-ordenador-portatil-2653611.jpg?tf=1200x' alt='Las 11 razones definitivas para actualizar Windows 11' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/elon-musk-funda-xai-vision-inteligencia-artificial-crear-propio-chatgpt-competir-openai-1230714'>Elon Musk funda X.AI, su visión de la inteligencia artificial para crear su propio ChatGPT y competir con OpenAI</a></h4>
-    <a href='https://computerhoy.com/apps/elon-musk-funda-xai-vision-inteligencia-artificial-crear-propio-chatgpt-competir-openai-1230714' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/elon-musk-3009470.jpg?tf=1200x' alt='Elon Musk funda X.AI, su visión de la inteligencia artificial para crear su propio ChatGPT y competir con OpenAI' />
     </a>
 </div>
 
