@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/sam-altman-openai-asegura-no-estan-trabajando-gpt-5-1230476'>El CEO de OpenAI critica la carta de Elon Musk y otros expertos, y confirma que no están trabajando en GPT-5</a></h4>
+    <a href='https://computerhoy.com/tecnologia/sam-altman-openai-asegura-no-estan-trabajando-gpt-5-1230476' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/futuro-ia-google-gpt-4-mundo-laboral-opina-ceo-openai-sam-altman-respecto-2937980.jpg?tf=1200x' alt='El CEO de OpenAI critica la carta de Elon Musk y otros expertos, y confirma que no están trabajando en GPT-5' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/espacio/juice-despega-rumbo-jupiter-lunas-1230474'>Europa pone en órbita a Juice, una nave de 27 metros que viajará a Júpiter y sus lunas, en busca de vida</a></h4>
+    <a href='https://computerhoy.com/espacio/juice-despega-rumbo-jupiter-lunas-1230474' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/lanzamiento-juice-3009202.jpg?tf=1200x' alt='Europa pone en órbita a Juice, una nave de 27 metros que viajará a Júpiter y sus lunas, en busca de vida' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/software/sony-llevara-inteligencia-artificial-raspberry-pi-1229800'>Sony llevará su inteligencia artificial a Raspberry Pi</a></h4>
     <a href='https://computerhoy.com/software/sony-llevara-inteligencia-artificial-raspberry-pi-1229800' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/raspberry-pi-2379269.jpg?tf=1200x' alt='Sony llevará su inteligencia artificial a Raspberry Pi' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/apps/no-hijo-no-tiene-movil-roto-funciona-nueva-estafa-whatsapp-1230384'>No, tu hijo no tiene el móvil roto: así funciona la nueva estafa en WhatsApp</a></h4>
     <a href='https://computerhoy.com/apps/no-hijo-no-tiene-movil-roto-funciona-nueva-estafa-whatsapp-1230384' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/son-como-funcionan-nuevos-mensajes-candado-whatsapp-2898696.jpg?tf=1200x' alt='No, tu hijo no tiene el móvil roto: así funciona la nueva estafa en WhatsApp' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/smartwatches/xiaomi-smart-band-8-convierte-collar-llega-dos-nuevos-modos-correr-boxear-1230460'>Xiaomi Smart Band 8 se convierte en collar y llega con dos nuevos modos para correr y boxear</a></h4>
-    <a href='https://computerhoy.com/smartwatches/xiaomi-smart-band-8-convierte-collar-llega-dos-nuevos-modos-correr-boxear-1230460' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/xiaomi-smart-band-8-3009186.jpg?tf=1200x' alt='Xiaomi Smart Band 8 se convierte en collar y llega con dos nuevos modos para correr y boxear' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/alertan-importante-fallo-seguridad-coches-audi-bmw-skoda-estos-son-modelos-afectados-1230458'>Alertan de un importante fallo de seguridad en coches Audi, BMW y Skoda: estos son los modelos afectados</a></h4>
-    <a href='https://computerhoy.com/motor/alertan-importante-fallo-seguridad-coches-audi-bmw-skoda-estos-son-modelos-afectados-1230458' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/airbag-3009182.jpg?tf=1200x' alt='Alertan de un importante fallo de seguridad en coches Audi, BMW y Skoda: estos son los modelos afectados' />
     </a>
 </div>
 
