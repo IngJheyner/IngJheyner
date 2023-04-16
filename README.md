@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/chincheta-infinita-genial-truco-google-maps-casi-nadie-utiliza-1231038'>La chincheta infinita, el genial truco de Google Maps que casi nadie utiliza</a></h4>
+    <a href='https://computerhoy.com/apps/chincheta-infinita-genial-truco-google-maps-casi-nadie-utiliza-1231038' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/google-maps-2352479.jpg?tf=1200x' alt='La chincheta infinita, el genial truco de Google Maps que casi nadie utiliza' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/virtualbox-como-crear-maquina-virtual-paso-paso-1228534'>VirtualBox: qué es y cómo crear una máquina virtual paso a paso </a></h4>
+    <a href='https://computerhoy.com/tutoriales/virtualbox-como-crear-maquina-virtual-paso-paso-1228534' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/virtualbox-3005308.jpg?tf=1200x' alt='VirtualBox: qué es y cómo crear una máquina virtual paso a paso ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/internet/10-cosas-declarar-renta-evitar-problemas-hacienda-1226108'>Cosas que no sabías que debes declarar en la Renta 2022/23 si no quieres tener problemas con Hacienda</a></h4>
+    <a href='https://computerhoy.com/internet/10-cosas-declarar-renta-evitar-problemas-hacienda-1226108' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/declaracion-renta-2675107.jpg?tf=1200x' alt='Cosas que no sabías que debes declarar en la Renta 2022/23 si no quieres tener problemas con Hacienda' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/verificacion-dos-pasos-2sv-1215736'>¿Qué es la verificación en dos pasos (2SV)?</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/verificacion-dos-pasos-2sv-1215736' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/verticalimage1681555959598-3009476.jpg?tf=1200x' alt='¿Qué es la verificación en dos pasos (2SV)?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/como-funciona-auto-chatgpt-peligrosa-ia-deja-obsoleto-propio-chatgpt-1230316'>Qué es y cómo funciona AutoGPT, la peligrosa IA que deja obsoleto al propio ChatGPT</a></h4>
     <a href='https://computerhoy.com/tecnologia/como-funciona-auto-chatgpt-peligrosa-ia-deja-obsoleto-propio-chatgpt-1230316' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/como-funciona-autogpt-peligrosa-ia-deja-obsoleto-propio-chatgpt-3008874.jpg?tf=1200x' alt='Qué es y cómo funciona AutoGPT, la peligrosa IA que deja obsoleto al propio ChatGPT' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/uso-android-pero-iphone-mi-companero-viajes-1225934'>Así ha cambiado el iPhone mi mochila de trabajo cuando viajo</a></h4>
-    <a href='https://computerhoy.com/moviles/uso-android-pero-iphone-mi-companero-viajes-1225934' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/analisis-iphone-14-pro-2821729.jpg?tf=1200x' alt='Así ha cambiado el iPhone mi mochila de trabajo cuando viajo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/nuevos-robots-patrullaran-calles-nueva-york-vienen-polemica-1230766'>Los nuevos robots que patrullarán las calles de Nueva York vienen con polémica</a></h4>
-    <a href='https://computerhoy.com/ciencia/nuevos-robots-patrullaran-calles-nueva-york-vienen-polemica-1230766' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/robot-policia-3009530.jpg?tf=1200x' alt='Los nuevos robots que patrullarán las calles de Nueva York vienen con polémica' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/renta-2022-23-ciberestafas-como-protegerte-expertos-1229206'>Comienza la campaña de la Renta 2022/23 y con ella las ciberestafas: cómo protegerte, según expertos</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/renta-2022-23-ciberestafas-como-protegerte-expertos-1229206' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/comienza-campana-renta-2022-23-ella-ciberestafas-como-protegerte-expertos-3008590.jpg?tf=1200x' alt='Comienza la campaña de la Renta 2022/23 y con ella las ciberestafas: cómo protegerte, según expertos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/cientificos-encuentran-cura-resaca-1230764'>Científicos encuentran la cura para la resaca</a></h4>
-    <a href='https://computerhoy.com/life/cientificos-encuentran-cura-resaca-1230764' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/resaca-3009524.jpg?tf=1200x' alt='Científicos encuentran la cura para la resaca' />
     </a>
 </div>
 
