@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/chincheta-infinita-genial-truco-google-maps-casi-nadie-utiliza-1231038'>La chincheta infinita, el genial truco de Google Maps que casi nadie utiliza</a></h4>
-    <a href='https://computerhoy.com/apps/chincheta-infinita-genial-truco-google-maps-casi-nadie-utiliza-1231038' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/google-maps-2352479.jpg?tf=1200x' alt='La chincheta infinita, el genial truco de Google Maps que casi nadie utiliza' />
+    <h4><a href='https://computerhoy.com/apps/personas-prefieren-hablar-ser-humano-inteligencia-artificial-desvela-estudio-1231064'>Las personas prefieren hablar con un ser humano que con una inteligencia artificial, desvela este estudio</a></h4>
+    <a href='https://computerhoy.com/apps/personas-prefieren-hablar-ser-humano-inteligencia-artificial-desvela-estudio-1231064' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/inteligencia-artificial-2707953.jpg?tf=1200x' alt='Las personas prefieren hablar con un ser humano que con una inteligencia artificial, desvela este estudio' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/virtualbox-como-crear-maquina-virtual-paso-paso-1228534'>VirtualBox: qué es y cómo crear una máquina virtual paso a paso </a></h4>
-    <a href='https://computerhoy.com/tutoriales/virtualbox-como-crear-maquina-virtual-paso-paso-1228534' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/virtualbox-3005308.jpg?tf=1200x' alt='VirtualBox: qué es y cómo crear una máquina virtual paso a paso ' />
+    <h4><a href='https://computerhoy.com/apps/ultimo-problema-android-auto-mala-calidad-imagen-google-pide-ayuda-1231062'>El último problema con Android Auto es una mala calidad de imagen, y Google pide tu ayuda</a></h4>
+    <a href='https://computerhoy.com/apps/ultimo-problema-android-auto-mala-calidad-imagen-google-pide-ayuda-1231062' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/android-auto-2973768.jpg?tf=1200x' alt='El último problema con Android Auto es una mala calidad de imagen, y Google pide tu ayuda' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/10-cosas-declarar-renta-evitar-problemas-hacienda-1226108'>Cosas que no sabías que debes declarar en la Renta 2022/23 si no quieres tener problemas con Hacienda</a></h4>
-    <a href='https://computerhoy.com/internet/10-cosas-declarar-renta-evitar-problemas-hacienda-1226108' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/declaracion-renta-2675107.jpg?tf=1200x' alt='Cosas que no sabías que debes declarar en la Renta 2022/23 si no quieres tener problemas con Hacienda' />
+    <h4><a href='https://computerhoy.com/espacio/curioso-habitat-simulado-marte-nasa-incluye-videoconsolas-juegos-mesa-1231052'>El curioso hábitat simulado de Marte de la NASA que incluye videoconsolas y juegos de mesa</a></h4>
+    <a href='https://computerhoy.com/espacio/curioso-habitat-simulado-marte-nasa-incluye-videoconsolas-juegos-mesa-1231052' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/curioso-habitat-simulado-marte-nasa-incluye-videoconsolas-juegos-mesa-3009840.jpg?tf=1200x' alt='El curioso hábitat simulado de Marte de la NASA que incluye videoconsolas y juegos de mesa' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/verificacion-dos-pasos-2sv-1215736'>¿Qué es la verificación en dos pasos (2SV)?</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/verificacion-dos-pasos-2sv-1215736' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/verticalimage1681555959598-3009476.jpg?tf=1200x' alt='¿Qué es la verificación en dos pasos (2SV)?' />
+    <h4><a href='https://computerhoy.com/tutoriales/solucionar-mal-funcionamiento-bloqueo-mayusculas-windows-11-1200844'>8 maneras de solucionar el mal funcionamiento del bloqueo de mayúsculas en Windows 11</a></h4>
+    <a href='https://computerhoy.com/tutoriales/solucionar-mal-funcionamiento-bloqueo-mayusculas-windows-11-1200844' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/teclado-2957350.jpg?tf=1200x' alt='8 maneras de solucionar el mal funcionamiento del bloqueo de mayúsculas en Windows 11' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/como-funciona-auto-chatgpt-peligrosa-ia-deja-obsoleto-propio-chatgpt-1230316'>Qué es y cómo funciona AutoGPT, la peligrosa IA que deja obsoleto al propio ChatGPT</a></h4>
-    <a href='https://computerhoy.com/tecnologia/como-funciona-auto-chatgpt-peligrosa-ia-deja-obsoleto-propio-chatgpt-1230316' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/como-funciona-autogpt-peligrosa-ia-deja-obsoleto-propio-chatgpt-3008874.jpg?tf=1200x' alt='Qué es y cómo funciona AutoGPT, la peligrosa IA que deja obsoleto al propio ChatGPT' />
+    <h4><a href='https://computerhoy.com/streaming/sirve-jailbreak-amazon-fire-tv-merece-pena-1231048'>Qué es y para qué sirve el jailbreak para el Amazon Fire TV: ¿merece la pena?</a></h4>
+    <a href='https://computerhoy.com/streaming/sirve-jailbreak-amazon-fire-tv-merece-pena-1231048' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/analisis-fire-tv-stick-4k-max-2526575.jpg?tf=1200x' alt='Qué es y para qué sirve el jailbreak para el Amazon Fire TV: ¿merece la pena?' />
     </a>
 </div>
 
