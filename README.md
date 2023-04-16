@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/guia-compra/philips-hue-diferencias-funciones-productos-1230454'>Todo lo que debes saber sobre Philips Hue: Diferencias, funciones y productos</a></h4>
-    <a href='https://computerhoy.com/guia-compra/philips-hue-diferencias-funciones-productos-1230454' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/philips-hue-3009106.jpg?tf=1200x' alt='Todo lo que debes saber sobre Philips Hue: Diferencias, funciones y productos' />
+    <h4><a href='https://computerhoy.com/tecnologia/como-funciona-auto-chatgpt-peligrosa-ia-deja-obsoleto-propio-chatgpt-1230316'>Qué es y cómo funciona AutoGPT, la peligrosa IA que deja obsoleto al propio ChatGPT</a></h4>
+    <a href='https://computerhoy.com/tecnologia/como-funciona-auto-chatgpt-peligrosa-ia-deja-obsoleto-propio-chatgpt-1230316' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/como-funciona-autogpt-peligrosa-ia-deja-obsoleto-propio-chatgpt-3008874.jpg?tf=1200x' alt='Qué es y cómo funciona AutoGPT, la peligrosa IA que deja obsoleto al propio ChatGPT' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/rover-iris-creado-estudiantes-paseara-luna-mayo-1226192'>Un rover creado por estudiantes rodará por la superficie de la Luna en mayo, adelantando a la NASA</a></h4>
-    <a href='https://computerhoy.com/espacio/rover-iris-creado-estudiantes-paseara-luna-mayo-1226192' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/rover-creado-universitarios-paseara-luna-mayo-adelantando-nasa-3002198.jpg?tf=1200x' alt='Un rover creado por estudiantes rodará por la superficie de la Luna en mayo, adelantando a la NASA' />
+    <h4><a href='https://computerhoy.com/moviles/uso-android-pero-iphone-mi-companero-viajes-1225934'>Así ha cambiado el iPhone mi mochila de trabajo cuando viajo</a></h4>
+    <a href='https://computerhoy.com/moviles/uso-android-pero-iphone-mi-companero-viajes-1225934' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/analisis-iphone-14-pro-2821729.jpg?tf=1200x' alt='Así ha cambiado el iPhone mi mochila de trabajo cuando viajo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/whatsapp-te-permitira-anadir-descripcion-archivos-enviados-evitar-malentendidos-1230770'>WhatsApp te permitirá añadir una descripción a los archivos enviados para evitar malentendidos</a></h4>
-    <a href='https://computerhoy.com/apps/whatsapp-te-permitira-anadir-descripcion-archivos-enviados-evitar-malentendidos-1230770' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/whatsapp-2870685.jpg?tf=1200x' alt='WhatsApp te permitirá añadir una descripción a los archivos enviados para evitar malentendidos' />
+    <h4><a href='https://computerhoy.com/ciencia/nuevos-robots-patrullaran-calles-nueva-york-vienen-polemica-1230766'>Los nuevos robots que patrullarán las calles de Nueva York vienen con polémica</a></h4>
+    <a href='https://computerhoy.com/ciencia/nuevos-robots-patrullaran-calles-nueva-york-vienen-polemica-1230766' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/robot-policia-3009530.jpg?tf=1200x' alt='Los nuevos robots que patrullarán las calles de Nueva York vienen con polémica' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/microsoft-quiere-sea-facil-navegacion-intercambio-fotos-windows-11-1230760'>Microsoft quiere que sea más fácil la navegación y el intercambio de fotos en Windows 11</a></h4>
-    <a href='https://computerhoy.com/windows/microsoft-quiere-sea-facil-navegacion-intercambio-fotos-windows-11-1230760' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/windows-11-2987236.jpg?tf=1200x' alt='Microsoft quiere que sea más fácil la navegación y el intercambio de fotos en Windows 11' />
+    <h4><a href='https://computerhoy.com/ciberseguridad/renta-2022-23-ciberestafas-como-protegerte-expertos-1229206'>Comienza la campaña de la Renta 2022/23 y con ella las ciberestafas: cómo protegerte, según expertos</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/renta-2022-23-ciberestafas-como-protegerte-expertos-1229206' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/comienza-campana-renta-2022-23-ella-ciberestafas-como-protegerte-expertos-3008590.jpg?tf=1200x' alt='Comienza la campaña de la Renta 2022/23 y con ella las ciberestafas: cómo protegerte, según expertos' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/xiaomi-fan-festival-mejores-ofertas-descuentos-moviles-auriculares-gadgets-1228100'>Xiaomi tira la casa por la ventana en su Fan Festival 2023: estas son las mejores ofertas</a></h4>
-    <a href='https://computerhoy.com/tecnologia/xiaomi-fan-festival-mejores-ofertas-descuentos-moviles-auriculares-gadgets-1228100' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/ecosistema-xiaomi-2320727.jpg?tf=1200x' alt='Xiaomi tira la casa por la ventana en su Fan Festival 2023: estas son las mejores ofertas' />
+    <h4><a href='https://computerhoy.com/life/cientificos-encuentran-cura-resaca-1230764'>Científicos encuentran la cura para la resaca</a></h4>
+    <a href='https://computerhoy.com/life/cientificos-encuentran-cura-resaca-1230764' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/resaca-3009524.jpg?tf=1200x' alt='Científicos encuentran la cura para la resaca' />
     </a>
 </div>
 
