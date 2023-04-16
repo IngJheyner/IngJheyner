@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/guia-compra/philips-hue-diferencias-funciones-productos-1230454'>Todo lo que debes saber sobre Philips Hue: Diferencias, funciones y productos</a></h4>
+    <a href='https://computerhoy.com/guia-compra/philips-hue-diferencias-funciones-productos-1230454' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/philips-hue-3009106.jpg?tf=1200x' alt='Todo lo que debes saber sobre Philips Hue: Diferencias, funciones y productos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/espacio/rover-iris-creado-estudiantes-paseara-luna-mayo-1226192'>Un rover creado por estudiantes rodará por la superficie de la Luna en mayo, adelantando a la NASA</a></h4>
     <a href='https://computerhoy.com/espacio/rover-iris-creado-estudiantes-paseara-luna-mayo-1226192' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/rover-creado-universitarios-paseara-luna-mayo-adelantando-nasa-3002198.jpg?tf=1200x' alt='Un rover creado por estudiantes rodará por la superficie de la Luna en mayo, adelantando a la NASA' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/xiaomi-fan-festival-mejores-ofertas-descuentos-moviles-auriculares-gadgets-1228100'>Xiaomi tira la casa por la ventana en su Fan Festival 2023: estas son las mejores ofertas</a></h4>
     <a href='https://computerhoy.com/tecnologia/xiaomi-fan-festival-mejores-ofertas-descuentos-moviles-auriculares-gadgets-1228100' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/ecosistema-xiaomi-2320727.jpg?tf=1200x' alt='Xiaomi tira la casa por la ventana en su Fan Festival 2023: estas son las mejores ofertas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/te-sale-devolver-renta-2022-23-ten-cuidado-estafa-avisa-guardia-civil-1230740'>Si te sale a devolver la Renta 2022/23 ten cuidado con esta estafa, avisa la Guardia Civil</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/te-sale-devolver-renta-2022-23-ten-cuidado-estafa-avisa-guardia-civil-1230740' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/comienza-campana-renta-2022-23-ella-ciberestafas-como-protegerte-expertos-3008590.jpg?tf=1200x' alt='Si te sale a devolver la Renta 2022/23 ten cuidado con esta estafa, avisa la Guardia Civil' />
     </a>
 </div>
 
