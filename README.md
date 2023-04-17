@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/espiral-azul-alaska-falcon-9-spacex-1231674'>Qué es la espectacular galaxia azul que ha aparecido en los cielos de Alaska</a></h4>
-    <a href='https://computerhoy.com/espacio/espiral-azul-alaska-falcon-9-spacex-1231674' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/espectacular-espiral-ha-aparecido-cielos-alaska-3011028.jpg?tf=1200x' alt='Qué es la espectacular galaxia azul que ha aparecido en los cielos de Alaska' />
+    <h4><a href='https://computerhoy.com/tecnologia/inteligencia-artificial-gana-concurso-fotografico-sony-world-photography-awards-2023-1231700'>Gana el prestigioso concurso fotográfico Sony World Photography Awards 2023 y renuncia al premio porque la foto está generada por IA</a></h4>
+    <a href='https://computerhoy.com/tecnologia/inteligencia-artificial-gana-concurso-fotografico-sony-world-photography-awards-2023-1231700' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/gana-prestigioso-concurso-fotografico-sony-world-photography-awards-2023-renuncia-premio-porque-foto-generada-ia-3011094.jpg?tf=1200x' alt='Gana el prestigioso concurso fotográfico Sony World Photography Awards 2023 y renuncia al premio porque la foto está generada por IA' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/plegables-economicos-llegarian-ano-motorola-razr-lite-1231564'>Los plegables económicos llegarían este año con el Motorola Razr Lite</a></h4>
-    <a href='https://computerhoy.com/moviles/plegables-economicos-llegarian-ano-motorola-razr-lite-1231564' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/plegables-economicos-llegarian-ano-motorola-razr-lite-3011002.jpg?tf=1200x' alt='Los plegables económicos llegarían este año con el Motorola Razr Lite' />
+    <h4><a href='https://computerhoy.com/software/adobe-va-todas-integrara-ia-editor-video-1231632'>Adobe va a por todas: integrará la IA en su editor de video</a></h4>
+    <a href='https://computerhoy.com/software/adobe-va-todas-integrara-ia-editor-video-1231632' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/adobe-va-todas-integrara-ia-editor-video-3011090.jpg?tf=1200x' alt='Adobe va a por todas: integrará la IA en su editor de video' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/streaming/rtve-play-llega-google-tv-todo-contenido-palma-mano-1231662'>Series, películas y documentales: todo el contenido de RTVE Play llega a Chromecast Google TV </a></h4>
-    <a href='https://computerhoy.com/streaming/rtve-play-llega-google-tv-todo-contenido-palma-mano-1231662' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/rtve-app-play-2745905.jpg?tf=1200x' alt='Series, películas y documentales: todo el contenido de RTVE Play llega a Chromecast Google TV ' />
+    <h4><a href='https://computerhoy.com/tecnologia/identifican-4-dias-clave-2023-podrian-provocar-fuerte-volatilidad-precio-bitcoin-1231688'>Identifican 4 días clave en 2023 que podrían provocar una fuerte volatilidad en el precio de Bitcoin</a></h4>
+    <a href='https://computerhoy.com/tecnologia/identifican-4-dias-clave-2023-podrian-provocar-fuerte-volatilidad-precio-bitcoin-1231688' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/bitcoin-3011088.jpg?tf=1200x' alt='Identifican 4 días clave en 2023 que podrían provocar una fuerte volatilidad en el precio de Bitcoin' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/streaming/netflix-love-is-blind-live-reunion-desastre-1231522'>El intento de Netflix de volver a la televisión rancia de hace 20 años, termina en desastre</a></h4>
-    <a href='https://computerhoy.com/streaming/netflix-love-is-blind-live-reunion-desastre-1231522' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/intento-netflix-volver-television-rancia-termina-desastre-3010658.jpg?tf=1200x' alt='El intento de Netflix de volver a la televisión rancia de hace 20 años, termina en desastre' />
+    <h4><a href='https://computerhoy.com/windows/anuncios-windows-11-plan-microsoft-1231622'>Más anuncios en Windows 11: así es el plan de Microsoft</a></h4>
+    <a href='https://computerhoy.com/windows/anuncios-windows-11-plan-microsoft-1231622' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/anuncios-windows-11-plan-microsoft-3011080.jpg?tf=1200x' alt='Más anuncios en Windows 11: así es el plan de Microsoft' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/ofertas-portatiles-microsoft-surface-amazon-1231420'>A precios de Prime Day: Estos portátiles de Microsoft son el sueño de los fans de Office desde 635€</a></h4>
-    <a href='https://computerhoy.com/pc/ofertas-portatiles-microsoft-surface-amazon-1231420' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/ofertas-microsoft-surface-3010608.jpg?tf=1200x' alt='A precios de Prime Day: Estos portátiles de Microsoft son el sueño de los fans de Office desde 635€' />
+    <h4><a href='https://computerhoy.com/legislacion/espana-igualara-grandes-streamers-plataformas-audiovisuales-1231620'>España igualará a los grandes streamers con las plataformas audiovisuales</a></h4>
+    <a href='https://computerhoy.com/legislacion/espana-igualara-grandes-streamers-plataformas-audiovisuales-1231620' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/ibai-2985488.jpg?tf=1200x' alt='España igualará a los grandes streamers con las plataformas audiovisuales' />
     </a>
 </div>
 
