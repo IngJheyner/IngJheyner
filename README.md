@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/cuidado-hablas-chatgpt-4-consejos-tener-cuenta-evitar-problemas-1231414'>Cuidado con lo que hablas con ChatGPT: 4 consejos a tener en cuenta para evitar problemas</a></h4>
-    <a href='https://computerhoy.com/tecnologia/cuidado-hablas-chatgpt-4-consejos-tener-cuenta-evitar-problemas-1231414' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/cuidado-hablas-chatgpt-4-consejos-tener-cuenta-evitar-problemas-3010418.jpg?tf=1200x' alt='Cuidado con lo que hablas con ChatGPT: 4 consejos a tener en cuenta para evitar problemas' />
+    <h4><a href='https://computerhoy.com/google/google-acelerara-chrome-solo-aquellos-paguen-1231556'>Google acelerará Chrome solo para aquellos que más paguen</a></h4>
+    <a href='https://computerhoy.com/google/google-acelerara-chrome-solo-aquellos-paguen-1231556' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/google-chrome-2845341.jpg?tf=1200x' alt='Google acelerará Chrome solo para aquellos que más paguen' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/samsung-elige-bing-como-buscador-moviles-google-entra-panico-1231422'>Samsung elige Bing como buscador para sus móviles y Google entra en pánico</a></h4>
-    <a href='https://computerhoy.com/google/samsung-elige-bing-como-buscador-moviles-google-entra-panico-1231422' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/samsung-galaxy-s23-galaxy-s23-analisis-opinion-3006102.jpg?tf=1200x' alt='Samsung elige Bing como buscador para sus móviles y Google entra en pánico' />
+    <h4><a href='https://computerhoy.com/audio/mejor-calidad-llamadas-voz-android-auriculares-bluetooth-gracias-super-wideband-1231552'>Mejor calidad de las llamadas de voz en Android con auriculares bluetooth gracias a Super Wideband</a></h4>
+    <a href='https://computerhoy.com/audio/mejor-calidad-llamadas-voz-android-auriculares-bluetooth-gracias-super-wideband-1231552' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/huawei-watch-buds-analisis-opinion-2977612.jpg?tf=1200x' alt='Mejor calidad de las llamadas de voz en Android con auriculares bluetooth gracias a Super Wideband' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/lg-gram-14-ultraportatil-core-i7-16gb-ram-oferta-amazon-1231410'>LG Gram 14, la competencia del MacBook Air con Core i7 y 16GB de RAM tiene 500€ de descuento en Amazon</a></h4>
-    <a href='https://computerhoy.com/pc/lg-gram-14-ultraportatil-core-i7-16gb-ram-oferta-amazon-1231410' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/lg-gram-14-3010422.jpg?tf=1200x' alt='LG Gram 14, la competencia del MacBook Air con Core i7 y 16GB de RAM tiene 500€ de descuento en Amazon' />
+    <h4><a href='https://computerhoy.com/gaming/segacompra-rovio-creadores-angry-birds-1000-millones-dolares-1231096'>SEGA compra Rovio, los creadores de Angry Birds, por 706 millones de euros</a></h4>
+    <a href='https://computerhoy.com/gaming/segacompra-rovio-creadores-angry-birds-1000-millones-dolares-1231096' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/sega-punto-compra-rovio-creadores-angry-birds-1000-millones-dolares-3009978.jpg?tf=1200x' alt='SEGA compra Rovio, los creadores de Angry Birds, por 706 millones de euros' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/vuelve-panico-google-planeando-varias-funciones-nuevas-ia-busqueda-1231378'>Vuelve el pánico: Google está planeando varias funciones nuevas de IA para Chrome</a></h4>
-    <a href='https://computerhoy.com/google/vuelve-panico-google-planeando-varias-funciones-nuevas-ia-busqueda-1231378' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/google-chrome-2842863.jpg?tf=1200x' alt='Vuelve el pánico: Google está planeando varias funciones nuevas de IA para Chrome' />
+    <h4><a href='https://computerhoy.com/espacio/james-webb-supera-mejora-imagen-profunda-jamas-vista-hubble-1231426'>James Webb consigue superar la mejor imagen del universo profundo jamás capturada por el Hubble</a></h4>
+    <a href='https://computerhoy.com/espacio/james-webb-supera-mejora-imagen-profunda-jamas-vista-hubble-1231426' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/james-webb-consigue-superar-mejor-imagen-universo-profundo-jamas-capturada-hubble-3010484.jpg?tf=1200x' alt='James Webb consigue superar la mejor imagen del universo profundo jamás capturada por el Hubble' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/streaming/dos-series-machacadas-critica-ponen-entredicho-top-10-netflix-1231344'>Dos series machacadas por la crítica ponen en entredicho la imparcialidad del top 10 de Netflix</a></h4>
-    <a href='https://computerhoy.com/streaming/dos-series-machacadas-critica-ponen-entredicho-top-10-netflix-1231344' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/dos-series-machacadas-critica-ponen-entredicho-imparcialidad-top-10-netflix-3010320.jpg?tf=1200x' alt='Dos series machacadas por la crítica ponen en entredicho la imparcialidad del top 10 de Netflix' />
+    <h4><a href='https://computerhoy.com/motor/abre-europa-primera-electrolinera-te-permite-marcharte-bateria-100-5-minutos-1231490'>Abre en Europa la primera electrolinera que te permite marcharte con la batería 100% en 5 minutos</a></h4>
+    <a href='https://computerhoy.com/motor/abre-europa-primera-electrolinera-te-permite-marcharte-bateria-100-5-minutos-1231490' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/carga-nio-3010654.jpg?tf=1200x' alt='Abre en Europa la primera electrolinera que te permite marcharte con la batería 100% en 5 minutos' />
     </a>
 </div>
 
