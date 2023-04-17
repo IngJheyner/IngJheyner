@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/internet/google-maps-antipodas-mapa-te-dice-donde-terminarias-excavaras-atravesando-tierra-1231388'>El Google Maps de las antípodas: este mapa te dice dónde terminarías si excavaras atravesando la Tierra</a></h4>
+    <a href='https://computerhoy.com/internet/google-maps-antipodas-mapa-te-dice-donde-terminarias-excavaras-atravesando-tierra-1231388' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/antipodas-3010330.jpg?tf=1200x' alt='El Google Maps de las antípodas: este mapa te dice dónde terminarías si excavaras atravesando la Tierra' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/google/ceo-google-vuelve-alertar-necesidad-regular-ia-1231338'>Sundar Pichai, CEO de Google, sobre la IA: "puede ser muy perjudicial si se implementa incorrectamente"</a></h4>
+    <a href='https://computerhoy.com/google/ceo-google-vuelve-alertar-necesidad-regular-ia-1231338' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/sundar-pichai-ceo-google-vuelve-alertar-necesidad-regular-inteligencia-artificial-3010282.jpg?tf=1200x' alt='Sundar Pichai, CEO de Google, sobre la IA: "puede ser muy perjudicial si se implementa incorrectamente"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/android/como-tener-chatgpt-teclado-movil-1227964'>Cómo tener a ChatGPT en el teclado de tu móvil</a></h4>
     <a href='https://computerhoy.com/android/como-tener-chatgpt-teclado-movil-1227964' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/movil-mujer-manos-chat-teclado-3007948.jpg?tf=1200x' alt='Cómo tener a ChatGPT en el teclado de tu móvil' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/gaming/ofertas-playstation-5-juegos-tiempo-limitado-1226086'>Hemos encontrado todas estas PlayStation 5 para que todo el mundo pueda comprar una en oferta</a></h4>
     <a href='https://computerhoy.com/gaming/ofertas-playstation-5-juegos-tiempo-limitado-1226086' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/playstation-5-ps5-2797383.jpg?tf=1200x' alt='Hemos encontrado todas estas PlayStation 5 para que todo el mundo pueda comprar una en oferta' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/streaming/netflix-pierde-liderazgo-streaming-prime-video-disney-plus-1231114'>Netflix ya no es la plataforma más vista, Disney también pierde mercado</a></h4>
-    <a href='https://computerhoy.com/streaming/netflix-pierde-liderazgo-streaming-prime-video-disney-plus-1231114' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/netflix-ya-no-plataforma-vista-disney-tambien-pierde-mercado-3010064.jpg?tf=1200x' alt='Netflix ya no es la plataforma más vista, Disney también pierde mercado' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/norteamericana-crea-mejor-video-turistico-espana-1231112'>Una norteamericana desvela qué es lo que más envidian sus compatiotras de España, y nosotros no lo valoramos</a></h4>
-    <a href='https://computerhoy.com/life/norteamericana-crea-mejor-video-turistico-espana-1231112' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/norteamericana-desvela-envidian-compatiotras-espana-nosotros-no-valoramos-3010060.jpg?tf=1200x' alt='Una norteamericana desvela qué es lo que más envidian sus compatiotras de España, y nosotros no lo valoramos' />
     </a>
 </div>
 
