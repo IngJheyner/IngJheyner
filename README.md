@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/streaming/netflix-pierde-liderazgo-streaming-prime-video-disney-plus-1231114'>Netflix ya no es la plataforma más vista, Disney también pierde mercado</a></h4>
+    <a href='https://computerhoy.com/streaming/netflix-pierde-liderazgo-streaming-prime-video-disney-plus-1231114' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/netflix-ya-no-plataforma-vista-disney-tambien-pierde-mercado-3010064.jpg?tf=1200x' alt='Netflix ya no es la plataforma más vista, Disney también pierde mercado' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/norteamericana-crea-mejor-video-turistico-espana-1231112'>Una norteamericana desvela qué es lo que más envidian sus compatiotras de España, y nosotros no lo valoramos</a></h4>
     <a href='https://computerhoy.com/life/norteamericana-crea-mejor-video-turistico-espana-1231112' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/norteamericana-desvela-envidian-compatiotras-espana-nosotros-no-valoramos-3010060.jpg?tf=1200x' alt='Una norteamericana desvela qué es lo que más envidian sus compatiotras de España, y nosotros no lo valoramos' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/windows/descarga-gratis-live11-windows-11-pendrive-microsd-sin-instalacion-1231104'>Ya puedes descargar gratis Live11, la versión de Windows 11 que funciona en un pendrive o microSD, sin instalación</a></h4>
     <a href='https://computerhoy.com/windows/descarga-gratis-live11-windows-11-pendrive-microsd-sin-instalacion-1231104' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/ya-puedes-descargar-gratis-live11-version-windows-11-funciona-pendrive-microsd-instalacion-3010040.jpg?tf=1200x' alt='Ya puedes descargar gratis Live11, la versión de Windows 11 que funciona en un pendrive o microSD, sin instalación' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/motor/estas-son-mejores-bicis-electricas-ciudad-2022-1031387'>Estas son las mejores bicis eléctricas para la ciudad de 2023</a></h4>
-    <a href='https://computerhoy.com/reportajes/motor/estas-son-mejores-bicis-electricas-ciudad-2022-1031387' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/mujer-sentada-bicicletea-3009854.jpg?tf=1200x' alt='Estas son las mejores bicis eléctricas para la ciudad de 2023' />
     </a>
 </div>
 
