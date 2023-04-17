@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/cuidado-hablas-chatgpt-4-consejos-tener-cuenta-evitar-problemas-1231414'>Cuidado con lo que hablas con ChatGPT: 4 consejos a tener en cuenta para evitar problemas</a></h4>
+    <a href='https://computerhoy.com/tecnologia/cuidado-hablas-chatgpt-4-consejos-tener-cuenta-evitar-problemas-1231414' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/cuidado-hablas-chatgpt-4-consejos-tener-cuenta-evitar-problemas-3010418.jpg?tf=1200x' alt='Cuidado con lo que hablas con ChatGPT: 4 consejos a tener en cuenta para evitar problemas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/google/samsung-elige-bing-como-buscador-moviles-google-entra-panico-1231422'>Samsung elige Bing como buscador para sus móviles y Google entra en pánico</a></h4>
+    <a href='https://computerhoy.com/google/samsung-elige-bing-como-buscador-moviles-google-entra-panico-1231422' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/samsung-galaxy-s23-galaxy-s23-analisis-opinion-3006102.jpg?tf=1200x' alt='Samsung elige Bing como buscador para sus móviles y Google entra en pánico' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/pc/lg-gram-14-ultraportatil-core-i7-16gb-ram-oferta-amazon-1231410'>LG Gram 14, la competencia del MacBook Air con Core i7 y 16GB de RAM tiene 500€ de descuento en Amazon</a></h4>
+    <a href='https://computerhoy.com/pc/lg-gram-14-ultraportatil-core-i7-16gb-ram-oferta-amazon-1231410' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/lg-gram-14-3010422.jpg?tf=1200x' alt='LG Gram 14, la competencia del MacBook Air con Core i7 y 16GB de RAM tiene 500€ de descuento en Amazon' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/google/vuelve-panico-google-planeando-varias-funciones-nuevas-ia-busqueda-1231378'>Vuelve el pánico: Google está planeando varias funciones nuevas de IA para Chrome</a></h4>
+    <a href='https://computerhoy.com/google/vuelve-panico-google-planeando-varias-funciones-nuevas-ia-busqueda-1231378' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/google-chrome-2842863.jpg?tf=1200x' alt='Vuelve el pánico: Google está planeando varias funciones nuevas de IA para Chrome' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/streaming/dos-series-machacadas-critica-ponen-entredicho-top-10-netflix-1231344'>Dos series machacadas por la crítica ponen en entredicho la imparcialidad del top 10 de Netflix</a></h4>
     <a href='https://computerhoy.com/streaming/dos-series-machacadas-critica-ponen-entredicho-top-10-netflix-1231344' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/dos-series-machacadas-critica-ponen-entredicho-imparcialidad-top-10-netflix-3010320.jpg?tf=1200x' alt='Dos series machacadas por la crítica ponen en entredicho la imparcialidad del top 10 de Netflix' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/google-maps-antipodas-mapa-te-dice-donde-terminarias-excavaras-atravesando-tierra-1231388'>El Google Maps de las antípodas: este mapa te dice dónde terminarías si excavaras atravesando la Tierra</a></h4>
-    <a href='https://computerhoy.com/internet/google-maps-antipodas-mapa-te-dice-donde-terminarias-excavaras-atravesando-tierra-1231388' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/antipodas-3010330.jpg?tf=1200x' alt='El Google Maps de las antípodas: este mapa te dice dónde terminarías si excavaras atravesando la Tierra' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/ceo-google-vuelve-alertar-necesidad-regular-ia-1231338'>Sundar Pichai, CEO de Google, sobre la IA: "puede ser muy perjudicial si se implementa incorrectamente"</a></h4>
-    <a href='https://computerhoy.com/google/ceo-google-vuelve-alertar-necesidad-regular-ia-1231338' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/sundar-pichai-ceo-google-vuelve-alertar-necesidad-regular-inteligencia-artificial-3010282.jpg?tf=1200x' alt='Sundar Pichai, CEO de Google, sobre la IA: "puede ser muy perjudicial si se implementa incorrectamente"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/android/como-tener-chatgpt-teclado-movil-1227964'>Cómo tener a ChatGPT en el teclado de tu móvil</a></h4>
-    <a href='https://computerhoy.com/android/como-tener-chatgpt-teclado-movil-1227964' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/movil-mujer-manos-chat-teclado-3007948.jpg?tf=1200x' alt='Cómo tener a ChatGPT en el teclado de tu móvil' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/audio/no-cargan-auriculares-bluetooth-tws-expertos-1219152'>No eres el único al que le han dejado de funcionar sus auriculares Bluetooth: cuál es la explicación, según los expertos</a></h4>
-    <a href='https://computerhoy.com/audio/no-cargan-auriculares-bluetooth-tws-expertos-1219152' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/oneplus-buds-pro-2-analisis-opinion-2953734.jpg?tf=1200x' alt='No eres el único al que le han dejado de funcionar sus auriculares Bluetooth: cuál es la explicación, según los expertos' />
     </a>
 </div>
 
