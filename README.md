@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/software/drake-weeknd-no-tienen-nueva-cancion-viral-juntos-ha-sido-creada-ia-1231562'>Drake y The Weeknd no tienen una nueva canción viral juntos: ha sido creada por una IA</a></h4>
+    <a href='https://computerhoy.com/software/drake-weeknd-no-tienen-nueva-cancion-viral-juntos-ha-sido-creada-ia-1231562' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/drake-weeknd-no-tienen-nueva-cancion-viral-juntos-ha-sido-creada-ia-3010844.jpg?tf=1200x' alt='Drake y The Weeknd no tienen una nueva canción viral juntos: ha sido creada por una IA' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/google/google-acelerara-chrome-solo-aquellos-paguen-1231556'>Google acelerará Chrome solo para aquellos que más paguen</a></h4>
     <a href='https://computerhoy.com/google/google-acelerara-chrome-solo-aquellos-paguen-1231556' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/google-chrome-2845341.jpg?tf=1200x' alt='Google acelerará Chrome solo para aquellos que más paguen' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/espacio/james-webb-supera-mejora-imagen-profunda-jamas-vista-hubble-1231426'>James Webb consigue superar la mejor imagen del universo profundo jamás capturada por el Hubble</a></h4>
     <a href='https://computerhoy.com/espacio/james-webb-supera-mejora-imagen-profunda-jamas-vista-hubble-1231426' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/james-webb-consigue-superar-mejor-imagen-universo-profundo-jamas-capturada-hubble-3010484.jpg?tf=1200x' alt='James Webb consigue superar la mejor imagen del universo profundo jamás capturada por el Hubble' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/abre-europa-primera-electrolinera-te-permite-marcharte-bateria-100-5-minutos-1231490'>Abre en Europa la primera electrolinera que te permite marcharte con la batería 100% en 5 minutos</a></h4>
-    <a href='https://computerhoy.com/motor/abre-europa-primera-electrolinera-te-permite-marcharte-bateria-100-5-minutos-1231490' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/carga-nio-3010654.jpg?tf=1200x' alt='Abre en Europa la primera electrolinera que te permite marcharte con la batería 100% en 5 minutos' />
     </a>
 </div>
 
