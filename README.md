@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/software/drake-weeknd-no-tienen-nueva-cancion-viral-juntos-ha-sido-creada-ia-1231562'>Drake y The Weeknd no tienen una nueva canción viral juntos: ha sido creada por una IA</a></h4>
-    <a href='https://computerhoy.com/software/drake-weeknd-no-tienen-nueva-cancion-viral-juntos-ha-sido-creada-ia-1231562' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/drake-weeknd-no-tienen-nueva-cancion-viral-juntos-ha-sido-creada-ia-3010844.jpg?tf=1200x' alt='Drake y The Weeknd no tienen una nueva canción viral juntos: ha sido creada por una IA' />
+    <h4><a href='https://computerhoy.com/espacio/espiral-azul-alaska-falcon-9-spacex-1231674'>Qué es la espectacular galaxia azul que ha aparecido en los cielos de Alaska</a></h4>
+    <a href='https://computerhoy.com/espacio/espiral-azul-alaska-falcon-9-spacex-1231674' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/espectacular-espiral-ha-aparecido-cielos-alaska-3011028.jpg?tf=1200x' alt='Qué es la espectacular galaxia azul que ha aparecido en los cielos de Alaska' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/google-acelerara-chrome-solo-aquellos-paguen-1231556'>Google acelerará Chrome solo para aquellos que más paguen</a></h4>
-    <a href='https://computerhoy.com/google/google-acelerara-chrome-solo-aquellos-paguen-1231556' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/google-chrome-2845341.jpg?tf=1200x' alt='Google acelerará Chrome solo para aquellos que más paguen' />
+    <h4><a href='https://computerhoy.com/moviles/plegables-economicos-llegarian-ano-motorola-razr-lite-1231564'>Los plegables económicos llegarían este año con el Motorola Razr Lite</a></h4>
+    <a href='https://computerhoy.com/moviles/plegables-economicos-llegarian-ano-motorola-razr-lite-1231564' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/plegables-economicos-llegarian-ano-motorola-razr-lite-3011002.jpg?tf=1200x' alt='Los plegables económicos llegarían este año con el Motorola Razr Lite' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/audio/mejor-calidad-llamadas-voz-android-auriculares-bluetooth-gracias-super-wideband-1231552'>Mejor calidad de las llamadas de voz en Android con auriculares bluetooth gracias a Super Wideband</a></h4>
-    <a href='https://computerhoy.com/audio/mejor-calidad-llamadas-voz-android-auriculares-bluetooth-gracias-super-wideband-1231552' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/huawei-watch-buds-analisis-opinion-2977612.jpg?tf=1200x' alt='Mejor calidad de las llamadas de voz en Android con auriculares bluetooth gracias a Super Wideband' />
+    <h4><a href='https://computerhoy.com/streaming/rtve-play-llega-google-tv-todo-contenido-palma-mano-1231662'>Series, películas y documentales: todo el contenido de RTVE Play llega a Chromecast Google TV </a></h4>
+    <a href='https://computerhoy.com/streaming/rtve-play-llega-google-tv-todo-contenido-palma-mano-1231662' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/rtve-app-play-2745905.jpg?tf=1200x' alt='Series, películas y documentales: todo el contenido de RTVE Play llega a Chromecast Google TV ' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/gaming/segacompra-rovio-creadores-angry-birds-1000-millones-dolares-1231096'>SEGA compra Rovio, los creadores de Angry Birds, por 706 millones de euros</a></h4>
-    <a href='https://computerhoy.com/gaming/segacompra-rovio-creadores-angry-birds-1000-millones-dolares-1231096' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/sega-punto-compra-rovio-creadores-angry-birds-1000-millones-dolares-3009978.jpg?tf=1200x' alt='SEGA compra Rovio, los creadores de Angry Birds, por 706 millones de euros' />
+    <h4><a href='https://computerhoy.com/streaming/netflix-love-is-blind-live-reunion-desastre-1231522'>El intento de Netflix de volver a la televisión rancia de hace 20 años, termina en desastre</a></h4>
+    <a href='https://computerhoy.com/streaming/netflix-love-is-blind-live-reunion-desastre-1231522' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/intento-netflix-volver-television-rancia-termina-desastre-3010658.jpg?tf=1200x' alt='El intento de Netflix de volver a la televisión rancia de hace 20 años, termina en desastre' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/james-webb-supera-mejora-imagen-profunda-jamas-vista-hubble-1231426'>James Webb consigue superar la mejor imagen del universo profundo jamás capturada por el Hubble</a></h4>
-    <a href='https://computerhoy.com/espacio/james-webb-supera-mejora-imagen-profunda-jamas-vista-hubble-1231426' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/james-webb-consigue-superar-mejor-imagen-universo-profundo-jamas-capturada-hubble-3010484.jpg?tf=1200x' alt='James Webb consigue superar la mejor imagen del universo profundo jamás capturada por el Hubble' />
+    <h4><a href='https://computerhoy.com/pc/ofertas-portatiles-microsoft-surface-amazon-1231420'>A precios de Prime Day: Estos portátiles de Microsoft son el sueño de los fans de Office desde 635€</a></h4>
+    <a href='https://computerhoy.com/pc/ofertas-portatiles-microsoft-surface-amazon-1231420' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/ofertas-microsoft-surface-3010608.jpg?tf=1200x' alt='A precios de Prime Day: Estos portátiles de Microsoft son el sueño de los fans de Office desde 635€' />
     </a>
 </div>
 
