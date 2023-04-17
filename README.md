@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/streaming/dos-series-machacadas-critica-ponen-entredicho-top-10-netflix-1231344'>Dos series machacadas por la crítica ponen en entredicho la imparcialidad del top 10 de Netflix</a></h4>
+    <a href='https://computerhoy.com/streaming/dos-series-machacadas-critica-ponen-entredicho-top-10-netflix-1231344' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/dos-series-machacadas-critica-ponen-entredicho-imparcialidad-top-10-netflix-3010320.jpg?tf=1200x' alt='Dos series machacadas por la crítica ponen en entredicho la imparcialidad del top 10 de Netflix' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/internet/google-maps-antipodas-mapa-te-dice-donde-terminarias-excavaras-atravesando-tierra-1231388'>El Google Maps de las antípodas: este mapa te dice dónde terminarías si excavaras atravesando la Tierra</a></h4>
     <a href='https://computerhoy.com/internet/google-maps-antipodas-mapa-te-dice-donde-terminarias-excavaras-atravesando-tierra-1231388' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/antipodas-3010330.jpg?tf=1200x' alt='El Google Maps de las antípodas: este mapa te dice dónde terminarías si excavaras atravesando la Tierra' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/audio/no-cargan-auriculares-bluetooth-tws-expertos-1219152'>No eres el único al que le han dejado de funcionar sus auriculares Bluetooth: cuál es la explicación, según los expertos</a></h4>
     <a href='https://computerhoy.com/audio/no-cargan-auriculares-bluetooth-tws-expertos-1219152' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/oneplus-buds-pro-2-analisis-opinion-2953734.jpg?tf=1200x' alt='No eres el único al que le han dejado de funcionar sus auriculares Bluetooth: cuál es la explicación, según los expertos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/gaming/ofertas-playstation-5-juegos-tiempo-limitado-1226086'>Hemos encontrado todas estas PlayStation 5 para que todo el mundo pueda comprar una en oferta</a></h4>
-    <a href='https://computerhoy.com/gaming/ofertas-playstation-5-juegos-tiempo-limitado-1226086' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/playstation-5-ps5-2797383.jpg?tf=1200x' alt='Hemos encontrado todas estas PlayStation 5 para que todo el mundo pueda comprar una en oferta' />
     </a>
 </div>
 
