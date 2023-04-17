@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/android/como-tener-chatgpt-teclado-movil-1227964'>Cómo tener a ChatGPT en el teclado de tu móvil</a></h4>
+    <a href='https://computerhoy.com/android/como-tener-chatgpt-teclado-movil-1227964' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/movil-mujer-manos-chat-teclado-3007948.jpg?tf=1200x' alt='Cómo tener a ChatGPT en el teclado de tu móvil' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/audio/no-cargan-auriculares-bluetooth-tws-expertos-1219152'>No eres el único al que le han dejado de funcionar sus auriculares Bluetooth: cuál es la explicación, según los expertos</a></h4>
+    <a href='https://computerhoy.com/audio/no-cargan-auriculares-bluetooth-tws-expertos-1219152' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/oneplus-buds-pro-2-analisis-opinion-2953734.jpg?tf=1200x' alt='No eres el único al que le han dejado de funcionar sus auriculares Bluetooth: cuál es la explicación, según los expertos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/gaming/ofertas-playstation-5-juegos-tiempo-limitado-1226086'>Hemos encontrado todas estas PlayStation 5 para que todo el mundo pueda comprar una en oferta</a></h4>
+    <a href='https://computerhoy.com/gaming/ofertas-playstation-5-juegos-tiempo-limitado-1226086' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/playstation-5-ps5-2797383.jpg?tf=1200x' alt='Hemos encontrado todas estas PlayStation 5 para que todo el mundo pueda comprar una en oferta' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/streaming/netflix-pierde-liderazgo-streaming-prime-video-disney-plus-1231114'>Netflix ya no es la plataforma más vista, Disney también pierde mercado</a></h4>
     <a href='https://computerhoy.com/streaming/netflix-pierde-liderazgo-streaming-prime-video-disney-plus-1231114' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/netflix-ya-no-plataforma-vista-disney-tambien-pierde-mercado-3010064.jpg?tf=1200x' alt='Netflix ya no es la plataforma más vista, Disney también pierde mercado' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/life/norteamericana-crea-mejor-video-turistico-espana-1231112'>Una norteamericana desvela qué es lo que más envidian sus compatiotras de España, y nosotros no lo valoramos</a></h4>
     <a href='https://computerhoy.com/life/norteamericana-crea-mejor-video-turistico-espana-1231112' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/norteamericana-desvela-envidian-compatiotras-espana-nosotros-no-valoramos-3010060.jpg?tf=1200x' alt='Una norteamericana desvela qué es lo que más envidian sus compatiotras de España, y nosotros no lo valoramos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/pajaros-venenosos-nueva-guinea-poseen-neurotoxina-mortal-1226124'>Descubren dos pájaros venenosos en Nueva Guinea: si tocas sus plumas pasarás un mal rato</a></h4>
-    <a href='https://computerhoy.com/ciencia/pajaros-venenosos-nueva-guinea-poseen-neurotoxina-mortal-1226124' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/descubren-dos-pajaros-venenosos-nueva-guinea-tocas-plumas-pasaras-mal-rato-3002138.jpg?tf=1200x' alt='Descubren dos pájaros venenosos en Nueva Guinea: si tocas sus plumas pasarás un mal rato' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/conferencia-wwdc-2023-apple-realidad-mixta-reality-pro-1231108'>Mark Gurman desvela todo lo que se presentará en la conferencia WWDC 2023 de Apple</a></h4>
-    <a href='https://computerhoy.com/apple/conferencia-wwdc-2023-apple-realidad-mixta-reality-pro-1231108' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/apple-pone-fecha-wwdc23-todo-esperamos-ver-2996304.jpg?tf=1200x' alt='Mark Gurman desvela todo lo que se presentará en la conferencia WWDC 2023 de Apple' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/descarga-gratis-live11-windows-11-pendrive-microsd-sin-instalacion-1231104'>Ya puedes descargar gratis Live11, la versión de Windows 11 que funciona en un pendrive o microSD, sin instalación</a></h4>
-    <a href='https://computerhoy.com/windows/descarga-gratis-live11-windows-11-pendrive-microsd-sin-instalacion-1231104' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/ya-puedes-descargar-gratis-live11-version-windows-11-funciona-pendrive-microsd-instalacion-3010040.jpg?tf=1200x' alt='Ya puedes descargar gratis Live11, la versión de Windows 11 que funciona en un pendrive o microSD, sin instalación' />
     </a>
 </div>
 
