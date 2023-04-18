@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/regalos-tecnologicos-baratos-dia-madre-1231532'>Regalos tecnológicos y baratos para el Día de la Madre</a></h4>
-    <a href='https://computerhoy.com/life/regalos-tecnologicos-baratos-dia-madre-1231532' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/dia-madre-3010698.jpg?tf=1200x' alt='Regalos tecnológicos y baratos para el Día de la Madre' />
+    <h4><a href='https://computerhoy.com/streaming/ultimos-dias-conseguir-skyshowtime-50-vida-merece-pena-1232000'>Últimos días para conseguir SkyShowtime al 50% de por vida: ¿merece la pena?</a></h4>
+    <a href='https://computerhoy.com/streaming/ultimos-dias-conseguir-skyshowtime-50-vida-merece-pena-1232000' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/ultimos-dias-conseguir-skyshowtime-50-vida-merece-pena-3011566.jpg?tf=1200x' alt='Últimos días para conseguir SkyShowtime al 50% de por vida: ¿merece la pena?' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/industria/metaverso-futuro-fail-tecnologico-1229254'>Metaverso: ¿futuro o 'fail' tecnológico?</a></h4>
-    <a href='https://computerhoy.com/industria/metaverso-futuro-fail-tecnologico-1229254' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/metaverso-3007164.jpg?tf=1200x' alt='Metaverso: ¿futuro o 'fail' tecnológico?' />
+    <h4><a href='https://computerhoy.com/gaming/revendedores-convierten-mejor-opcion-conseguir-playstation-5-barata-1232030'>Los revendedores se convierten en tu mejor opción para conseguir una PlayStation 5 barata</a></h4>
+    <a href='https://computerhoy.com/gaming/revendedores-convierten-mejor-opcion-conseguir-playstation-5-barata-1232030' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/11/ps5-dinero-especulacion-2149379.jpg?tf=1200x' alt='Los revendedores se convierten en tu mejor opción para conseguir una PlayStation 5 barata' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/rover-curiosity-descubre-fosil-dragon-marte-1231928'>El rover Curiosity descubre un 'fósil' de dragón en Marte</a></h4>
-    <a href='https://computerhoy.com/espacio/rover-curiosity-descubre-fosil-dragon-marte-1231928' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/rover-curiosity-descubre-fosil-espinas-marte-3011338.jpg?tf=1200x' alt='El rover Curiosity descubre un 'fósil' de dragón en Marte' />
+    <h4><a href='https://computerhoy.com/apple/apple-podria-claudicar-ios-17-anadir-funciones-peligrosas-android-1231704'>Apple podría claudicar en iOS 17 y añadir una de las funciones más polémicas y peligrosas de Android</a></h4>
+    <a href='https://computerhoy.com/apple/apple-podria-claudicar-ios-17-anadir-funciones-peligrosas-android-1231704' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/apple-ios-3011548.jpg?tf=1200x' alt='Apple podría claudicar en iOS 17 y añadir una de las funciones más polémicas y peligrosas de Android' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-servicios-vpn-1117911'>Estas son las mejores VPN de 2023 para proteger tu privacidad en PC, Android, Mac y más</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-servicios-vpn-1117911' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/telefono-movil-vpn-conectandose-avion-3010722.jpg?tf=1200x' alt='Estas son las mejores VPN de 2023 para proteger tu privacidad en PC, Android, Mac y más' />
+    <h4><a href='https://computerhoy.com/gaming/grandes-avances-playstation-5-genera-indiferencia-usuarios-1232016'>Uno de los grandes avances de la PlayStation 5 genera indiferencia en los usuarios</a></h4>
+    <a href='https://computerhoy.com/gaming/grandes-avances-playstation-5-genera-indiferencia-usuarios-1232016' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/11/analisis-ps5-computerhoy-2140465.jpg?tf=1200x' alt='Uno de los grandes avances de la PlayStation 5 genera indiferencia en los usuarios' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/terraplanista-gasta-miles-euros-experimento-demuestra-tierra-redonda-1231922'>El terraplanista que se gastó 20.000 dólares en un experimento que demostró que la Tierra es... redonda</a></h4>
-    <a href='https://computerhoy.com/life/terraplanista-gasta-miles-euros-experimento-demuestra-tierra-redonda-1231922' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/terraplanista-gasto-20000-dolares-experimento-demostro-tierra-redonda-3011308.jpg?tf=1200x' alt='El terraplanista que se gastó 20.000 dólares en un experimento que demostró que la Tierra es... redonda' />
+    <h4><a href='https://computerhoy.com/windows/windows-12-podria-venir-cargado-grandes-potentes-integraciones-inteligencia-artificial-1231980'>Windows 12 será el sistema operativo más top gracias a la integración de inteligencia artificial</a></h4>
+    <a href='https://computerhoy.com/windows/windows-12-podria-venir-cargado-grandes-potentes-integraciones-inteligencia-artificial-1231980' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/windows-12-sera-sistema-operativo-top-gracias-integracion-inteligencia-artificial-3011474.jpg?tf=1200x' alt='Windows 12 será el sistema operativo más top gracias a la integración de inteligencia artificial' />
     </a>
 </div>
 
