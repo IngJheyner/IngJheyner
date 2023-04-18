@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-silenciar-palabras-cuentas-twitter-tener-feed-libre-spoilers-toxicidad-1232088'>Cómo silenciar palabras y cuentas de Twitter para tener tu 'feed' libre de spoilers y toxicidad</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-silenciar-palabras-cuentas-twitter-tener-feed-libre-spoilers-toxicidad-1232088' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/como-silenciar-palabras-cuentas-twitter-tener-feed-libre-spoilers-toxicidad-3011804.jpg?tf=1200x' alt='Cómo silenciar palabras y cuentas de Twitter para tener tu 'feed' libre de spoilers y toxicidad' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/motor/llega-roadpol-speed-marathon-festival-multas-dgt-guardia-civil-no-broma-1232036'>Llega el 'RoadPol Speed Marathon', el "festival" de las multas de DGT y Guardia Civil y (y no es broma)</a></h4>
+    <a href='https://computerhoy.com/motor/llega-roadpol-speed-marathon-festival-multas-dgt-guardia-civil-no-broma-1232036' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/llega-roadpol-speed-marathon-festival-multas-dgt-guardia-civil-no-broma-3011584.jpg?tf=1200x' alt='Llega el 'RoadPol Speed Marathon', el "festival" de las multas de DGT y Guardia Civil y (y no es broma)' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/pc/minis-forum-um580d-ryzen-7-32gb-ram-oferta-descuento-extra-1232070'>¿Un mini PC con Ryzen 7, 32GB de RAM y menos de 500€? Este pequeño PC es uno de los chollos de la semana</a></h4>
+    <a href='https://computerhoy.com/pc/minis-forum-um580d-ryzen-7-32gb-ram-oferta-descuento-extra-1232070' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/minis-forum-um580d-3011718.jpg?tf=1200x' alt='¿Un mini PC con Ryzen 7, 32GB de RAM y menos de 500€? Este pequeño PC es uno de los chollos de la semana' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/streaming/ultimos-dias-conseguir-skyshowtime-50-vida-merece-pena-1232000'>Últimos días para conseguir SkyShowtime al 50% de por vida: ¿merece la pena?</a></h4>
     <a href='https://computerhoy.com/streaming/ultimos-dias-conseguir-skyshowtime-50-vida-merece-pena-1232000' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/ultimos-dias-conseguir-skyshowtime-50-vida-merece-pena-3011566.jpg?tf=1200x' alt='Últimos días para conseguir SkyShowtime al 50% de por vida: ¿merece la pena?' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/gaming/revendedores-convierten-mejor-opcion-conseguir-playstation-5-barata-1232030'>Los revendedores se convierten en tu mejor opción para conseguir una PlayStation 5 barata</a></h4>
     <a href='https://computerhoy.com/gaming/revendedores-convierten-mejor-opcion-conseguir-playstation-5-barata-1232030' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/11/ps5-dinero-especulacion-2149379.jpg?tf=1200x' alt='Los revendedores se convierten en tu mejor opción para conseguir una PlayStation 5 barata' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/apple-podria-claudicar-ios-17-anadir-funciones-peligrosas-android-1231704'>Apple podría claudicar en iOS 17 y añadir una de las funciones más polémicas y peligrosas de Android</a></h4>
-    <a href='https://computerhoy.com/apple/apple-podria-claudicar-ios-17-anadir-funciones-peligrosas-android-1231704' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/apple-ios-3011548.jpg?tf=1200x' alt='Apple podría claudicar en iOS 17 y añadir una de las funciones más polémicas y peligrosas de Android' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/gaming/grandes-avances-playstation-5-genera-indiferencia-usuarios-1232016'>Uno de los grandes avances de la PlayStation 5 genera indiferencia en los usuarios</a></h4>
-    <a href='https://computerhoy.com/gaming/grandes-avances-playstation-5-genera-indiferencia-usuarios-1232016' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/11/analisis-ps5-computerhoy-2140465.jpg?tf=1200x' alt='Uno de los grandes avances de la PlayStation 5 genera indiferencia en los usuarios' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/windows-12-podria-venir-cargado-grandes-potentes-integraciones-inteligencia-artificial-1231980'>Windows 12 será el sistema operativo más top gracias a la integración de inteligencia artificial</a></h4>
-    <a href='https://computerhoy.com/windows/windows-12-podria-venir-cargado-grandes-potentes-integraciones-inteligencia-artificial-1231980' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/windows-12-sera-sistema-operativo-top-gracias-integracion-inteligencia-artificial-3011474.jpg?tf=1200x' alt='Windows 12 será el sistema operativo más top gracias a la integración de inteligencia artificial' />
     </a>
 </div>
 
