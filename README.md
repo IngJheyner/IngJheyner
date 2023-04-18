@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/terraplanista-gasta-miles-euros-experimento-demuestra-tierra-redonda-1231922'>El terraplanista que se gastó 20.000 dólares en un experimento que demostró que la Tierra es... redonda</a></h4>
+    <a href='https://computerhoy.com/life/terraplanista-gasta-miles-euros-experimento-demuestra-tierra-redonda-1231922' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/terraplanista-gasto-20000-dolares-experimento-demostro-tierra-redonda-3011308.jpg?tf=1200x' alt='El terraplanista que se gastó 20.000 dólares en un experimento que demostró que la Tierra es... redonda' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/tefi-perro-robot-cesic-guiar-personas-ciegas-alzheimer-1231706'>TEFI, el perro robot para guiar a personas ciegas, desarrollado por el CESIC (vídeo)</a></h4>
     <a href='https://computerhoy.com/tecnologia/tefi-perro-robot-cesic-guiar-personas-ciegas-alzheimer-1231706' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/verticalimage1681768993848-3011114.jpg?tf=1200x' alt='TEFI, el perro robot para guiar a personas ciegas, desarrollado por el CESIC (vídeo)' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/software/adobe-va-todas-integrara-ia-editor-video-1231632'>Adobe va a por todas: integrará la IA en su editor de video</a></h4>
     <a href='https://computerhoy.com/software/adobe-va-todas-integrara-ia-editor-video-1231632' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/adobe-va-todas-integrara-ia-editor-video-3011090.jpg?tf=1200x' alt='Adobe va a por todas: integrará la IA en su editor de video' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/identifican-4-dias-clave-2023-podrian-provocar-fuerte-volatilidad-precio-bitcoin-1231688'>Identifican 4 días clave en 2023 que podrían provocar una fuerte volatilidad en el precio de Bitcoin</a></h4>
-    <a href='https://computerhoy.com/tecnologia/identifican-4-dias-clave-2023-podrian-provocar-fuerte-volatilidad-precio-bitcoin-1231688' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/bitcoin-3011088.jpg?tf=1200x' alt='Identifican 4 días clave en 2023 que podrían provocar una fuerte volatilidad en el precio de Bitcoin' />
     </a>
 </div>
 
