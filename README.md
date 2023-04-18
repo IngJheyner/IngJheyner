@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/merece-pena-pagar-version-pago-chatgpt-1232094'>¿Merece la pena pagar por GPT-4? Esto es lo que debes saber</a></h4>
-    <a href='https://computerhoy.com/tecnologia/merece-pena-pagar-version-pago-chatgpt-1232094' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/todo-sabemos-gpt-5-proxima-gran-actualizacion-chatgpt-3000734.jpg?tf=1200x' alt='¿Merece la pena pagar por GPT-4? Esto es lo que debes saber' />
+    <h4><a href='https://computerhoy.com/entretenimiento/pelicula-duke-nukem-creadores-cobra-kai-legendary-1232314'>Duke Nukem vuelve.... en forma de película, con los creadores de Cobra Kai</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/pelicula-duke-nukem-creadores-cobra-kai-legendary-1232314' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/duke-nukem-2433411.jpg?tf=1200x' alt='Duke Nukem vuelve.... en forma de película, con los creadores de Cobra Kai' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/todo-sabemos-acerca-google-pixel-7a-pixel-tablet-1232202'>Todo lo que sabemos acerca del Google Pixel 7a y la Pixel Tablet</a></h4>
-    <a href='https://computerhoy.com/moviles/todo-sabemos-acerca-google-pixel-7a-pixel-tablet-1232202' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/google-pixel-7-pro-encima-mesa-madera-junto-unas-gafas-sol-2860757.jpg?tf=1200x' alt='Todo lo que sabemos acerca del Google Pixel 7a y la Pixel Tablet' />
+    <h4><a href='https://computerhoy.com/apps/tdtchannels-actualiza-nuevos-canales-menos-anuncios-gracias-suscripciones-1231634'>TDTChannels se actualiza: nuevos canales y menos anuncios gracias a las suscripciones</a></h4>
+    <a href='https://computerhoy.com/apps/tdtchannels-actualiza-nuevos-canales-menos-anuncios-gracias-suscripciones-1231634' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/tdtchannels-3010604.jpg?tf=1200x' alt='TDTChannels se actualiza: nuevos canales y menos anuncios gracias a las suscripciones' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/hacker-durante-30-anos-desvela-cosas-aterradoras-ha-visto-dark-web-1232228'>Un hacker durante más de 30 años desvela las cosas más aterradoras que ha visto en la Dark Web</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/hacker-durante-30-anos-desvela-cosas-aterradoras-ha-visto-dark-web-1232228' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/06/10-mejores-hackers-historia.jpg?tf=1200x' alt='Un hacker durante más de 30 años desvela las cosas más aterradoras que ha visto en la Dark Web' />
+    <h4><a href='https://computerhoy.com/apps/whatsapp-muy-cerca-ser-prohibido-reino-unido-podria-pasar-mismo-otros-paises-1232300'>WhatsApp muy cerca de ser prohibido en Reino Unido: ¿podría pasar lo mismo en otros países?</a></h4>
+    <a href='https://computerhoy.com/apps/whatsapp-muy-cerca-ser-prohibido-reino-unido-podria-pasar-mismo-otros-paises-1232300' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/whatsapp-3012152.jpg?tf=1200x' alt='WhatsApp muy cerca de ser prohibido en Reino Unido: ¿podría pasar lo mismo en otros países?' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-portatiles-windows-hemos-probado-ultimamente-995347'>Estos son los mejores portátiles Windows que hemos probado últimamente</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-portatiles-windows-hemos-probado-ultimamente-995347' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/analisis-lenovo-thinkpad-z16-2899176.jpg?tf=1200x' alt='Estos son los mejores portátiles Windows que hemos probado últimamente' />
+    <h4><a href='https://computerhoy.com/ciberseguridad/telegram-convierte-refugio-seguro-ciberdelincuentes-1232116'>Telegram, cada vez más oscuro, se convierte en un refugio seguro para los ciberdelincuentes</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/telegram-convierte-refugio-seguro-ciberdelincuentes-1232116' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/telegram-3012130.jpg?tf=1200x' alt='Telegram, cada vez más oscuro, se convierte en un refugio seguro para los ciberdelincuentes' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/semana-satelite-nasa-estrellara-tierra-1232198'>Esta semana un satélite de la NASA se estrellará contra la Tierra</a></h4>
-    <a href='https://computerhoy.com/espacio/semana-satelite-nasa-estrellara-tierra-1232198' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/semana-satelite-nasa-estrellara-tierra-3011964.jpg?tf=1200x' alt='Esta semana un satélite de la NASA se estrellará contra la Tierra' />
+    <h4><a href='https://computerhoy.com/life/adios-codigos-barras-seran-sustituidos-estos-codigos-2d-partir-2027-1232298'>Adiós a los códigos de barras, serán sustituidos por estos códigos 2D a partir de 2027</a></h4>
+    <a href='https://computerhoy.com/life/adios-codigos-barras-seran-sustituidos-estos-codigos-2d-partir-2027-1232298' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/adios-codigos-barras-seran-sustituidos-estos-codigos-2d-partir-2027-3012148.jpg?tf=1200x' alt='Adiós a los códigos de barras, serán sustituidos por estos códigos 2D a partir de 2027' />
     </a>
 </div>
 
