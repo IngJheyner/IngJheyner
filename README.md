@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/tefi-perro-robot-cesic-guiar-personas-ciegas-alzheimer-1231706'>TEFI, el perro robot para guiar a personas ciegas, desarrollado por el CESIC (vídeo)</a></h4>
+    <a href='https://computerhoy.com/tecnologia/tefi-perro-robot-cesic-guiar-personas-ciegas-alzheimer-1231706' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/verticalimage1681768993848-3011114.jpg?tf=1200x' alt='TEFI, el perro robot para guiar a personas ciegas, desarrollado por el CESIC (vídeo)' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/espejo-muestra-objetos-ocultos-misterio-viral-explicado-1231586'>El misterio del espejo que se ha hecho viral, explicado: por qué nos muestra objetos ocultos detrás de un papel</a></h4>
+    <a href='https://computerhoy.com/life/espejo-muestra-objetos-ocultos-misterio-viral-explicado-1231586' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/misterio-espejo-ha-hecho-viral-explicado-nos-muestra-objetos-ocultos-3010768.jpg?tf=1200x' alt='El misterio del espejo que se ha hecho viral, explicado: por qué nos muestra objetos ocultos detrás de un papel' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/inteligencia-artificial-gana-concurso-fotografico-sony-world-photography-awards-2023-1231700'>Gana el prestigioso concurso fotográfico Sony World Photography Awards 2023 y renuncia al premio porque la foto está generada por IA</a></h4>
     <a href='https://computerhoy.com/tecnologia/inteligencia-artificial-gana-concurso-fotografico-sony-world-photography-awards-2023-1231700' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/gana-prestigioso-concurso-fotografico-sony-world-photography-awards-2023-renuncia-premio-porque-foto-generada-ia-3011094.jpg?tf=1200x' alt='Gana el prestigioso concurso fotográfico Sony World Photography Awards 2023 y renuncia al premio porque la foto está generada por IA' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/identifican-4-dias-clave-2023-podrian-provocar-fuerte-volatilidad-precio-bitcoin-1231688'>Identifican 4 días clave en 2023 que podrían provocar una fuerte volatilidad en el precio de Bitcoin</a></h4>
     <a href='https://computerhoy.com/tecnologia/identifican-4-dias-clave-2023-podrian-provocar-fuerte-volatilidad-precio-bitcoin-1231688' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/bitcoin-3011088.jpg?tf=1200x' alt='Identifican 4 días clave en 2023 que podrían provocar una fuerte volatilidad en el precio de Bitcoin' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/anuncios-windows-11-plan-microsoft-1231622'>Más anuncios en Windows 11: así es el plan de Microsoft</a></h4>
-    <a href='https://computerhoy.com/windows/anuncios-windows-11-plan-microsoft-1231622' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/anuncios-windows-11-plan-microsoft-3011080.jpg?tf=1200x' alt='Más anuncios en Windows 11: así es el plan de Microsoft' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/legislacion/espana-igualara-grandes-streamers-plataformas-audiovisuales-1231620'>España igualará a los grandes streamers con las plataformas audiovisuales</a></h4>
-    <a href='https://computerhoy.com/legislacion/espana-igualara-grandes-streamers-plataformas-audiovisuales-1231620' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/ibai-2985488.jpg?tf=1200x' alt='España igualará a los grandes streamers con las plataformas audiovisuales' />
     </a>
 </div>
 
