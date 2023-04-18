@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/regalos-tecnologicos-baratos-dia-madre-1231532'>Regalos tecnológicos y baratos para el Día de la Madre</a></h4>
+    <a href='https://computerhoy.com/life/regalos-tecnologicos-baratos-dia-madre-1231532' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/dia-madre-3010698.jpg?tf=1200x' alt='Regalos tecnológicos y baratos para el Día de la Madre' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/industria/metaverso-futuro-fail-tecnologico-1229254'>Metaverso: ¿futuro o 'fail' tecnológico?</a></h4>
+    <a href='https://computerhoy.com/industria/metaverso-futuro-fail-tecnologico-1229254' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/metaverso-3007164.jpg?tf=1200x' alt='Metaverso: ¿futuro o 'fail' tecnológico?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/espacio/rover-curiosity-descubre-fosil-dragon-marte-1231928'>El rover Curiosity descubre un 'fósil' de dragón en Marte</a></h4>
+    <a href='https://computerhoy.com/espacio/rover-curiosity-descubre-fosil-dragon-marte-1231928' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/rover-curiosity-descubre-fosil-espinas-marte-3011338.jpg?tf=1200x' alt='El rover Curiosity descubre un 'fósil' de dragón en Marte' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-servicios-vpn-1117911'>Estas son las mejores VPN de 2023 para proteger tu privacidad en PC, Android, Mac y más</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-servicios-vpn-1117911' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/telefono-movil-vpn-conectandose-avion-3010722.jpg?tf=1200x' alt='Estas son las mejores VPN de 2023 para proteger tu privacidad en PC, Android, Mac y más' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/terraplanista-gasta-miles-euros-experimento-demuestra-tierra-redonda-1231922'>El terraplanista que se gastó 20.000 dólares en un experimento que demostró que la Tierra es... redonda</a></h4>
     <a href='https://computerhoy.com/life/terraplanista-gasta-miles-euros-experimento-demuestra-tierra-redonda-1231922' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/terraplanista-gasto-20000-dolares-experimento-demostro-tierra-redonda-3011308.jpg?tf=1200x' alt='El terraplanista que se gastó 20.000 dólares en un experimento que demostró que la Tierra es... redonda' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/tefi-perro-robot-cesic-guiar-personas-ciegas-alzheimer-1231706'>TEFI, el perro robot para guiar a personas ciegas, desarrollado por el CESIC (vídeo)</a></h4>
-    <a href='https://computerhoy.com/tecnologia/tefi-perro-robot-cesic-guiar-personas-ciegas-alzheimer-1231706' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/verticalimage1681768993848-3011114.jpg?tf=1200x' alt='TEFI, el perro robot para guiar a personas ciegas, desarrollado por el CESIC (vídeo)' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/espejo-muestra-objetos-ocultos-misterio-viral-explicado-1231586'>El misterio del espejo que se ha hecho viral, explicado: por qué nos muestra objetos ocultos detrás de un papel</a></h4>
-    <a href='https://computerhoy.com/life/espejo-muestra-objetos-ocultos-misterio-viral-explicado-1231586' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/misterio-espejo-ha-hecho-viral-explicado-nos-muestra-objetos-ocultos-3010768.jpg?tf=1200x' alt='El misterio del espejo que se ha hecho viral, explicado: por qué nos muestra objetos ocultos detrás de un papel' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/inteligencia-artificial-gana-concurso-fotografico-sony-world-photography-awards-2023-1231700'>Gana el prestigioso concurso fotográfico Sony World Photography Awards 2023 y renuncia al premio porque la foto está generada por IA</a></h4>
-    <a href='https://computerhoy.com/tecnologia/inteligencia-artificial-gana-concurso-fotografico-sony-world-photography-awards-2023-1231700' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/gana-prestigioso-concurso-fotografico-sony-world-photography-awards-2023-renuncia-premio-porque-foto-generada-ia-3011094.jpg?tf=1200x' alt='Gana el prestigioso concurso fotográfico Sony World Photography Awards 2023 y renuncia al premio porque la foto está generada por IA' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/software/adobe-va-todas-integrara-ia-editor-video-1231632'>Adobe va a por todas: integrará la IA en su editor de video</a></h4>
-    <a href='https://computerhoy.com/software/adobe-va-todas-integrara-ia-editor-video-1231632' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/adobe-va-todas-integrara-ia-editor-video-3011090.jpg?tf=1200x' alt='Adobe va a por todas: integrará la IA en su editor de video' />
     </a>
 </div>
 
