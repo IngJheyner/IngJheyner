@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/moviles/xiaomi-13-ultra-leica-mejor-movil-2023-1232174'>Xiaomi 13 Ultra, la culminación de Xiaomi que quiere ser el mejor móvil de 2023</a></h4>
+    <a href='https://computerhoy.com/moviles/xiaomi-13-ultra-leica-mejor-movil-2023-1232174' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/xiaomi-13-ultra-3011856.jpg?tf=1200x' alt='Xiaomi 13 Ultra, la culminación de Xiaomi que quiere ser el mejor móvil de 2023' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tv/nuevos-televisores-xiaomi-paneles-oled-mini-led-100-pulgadas-1232152'>Nuevos televisores de Xiaomi: paneles OLED y Mini LED de hasta 100 pulgadas</a></h4>
+    <a href='https://computerhoy.com/tv/nuevos-televisores-xiaomi-paneles-oled-mini-led-100-pulgadas-1232152' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/nuevos-televisores-xiaomi-paneles-oled-mini-led-100-pulgadas-3011858.jpg?tf=1200x' alt='Nuevos televisores de Xiaomi: paneles OLED y Mini LED de hasta 100 pulgadas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tutoriales/como-silenciar-palabras-cuentas-twitter-tener-feed-libre-spoilers-toxicidad-1232088'>Cómo silenciar palabras y cuentas de Twitter para tener tu 'feed' libre de spoilers y toxicidad</a></h4>
     <a href='https://computerhoy.com/tutoriales/como-silenciar-palabras-cuentas-twitter-tener-feed-libre-spoilers-toxicidad-1232088' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/como-silenciar-palabras-cuentas-twitter-tener-feed-libre-spoilers-toxicidad-3011804.jpg?tf=1200x' alt='Cómo silenciar palabras y cuentas de Twitter para tener tu 'feed' libre de spoilers y toxicidad' />
@@ -58,9 +74,9 @@
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/llega-roadpol-speed-marathon-festival-multas-dgt-guardia-civil-no-broma-1232036'>Llega el 'RoadPol Speed Marathon', el "festival" de las multas de DGT y Guardia Civil y (y no es broma)</a></h4>
+    <h4><a href='https://computerhoy.com/motor/llega-roadpol-speed-marathon-festival-multas-dgt-guardia-civil-no-broma-1232036'>Llega el 'RoadPol Speed Marathon', el "festival" de las multas de DGT y Guardia Civil (y no es broma)</a></h4>
     <a href='https://computerhoy.com/motor/llega-roadpol-speed-marathon-festival-multas-dgt-guardia-civil-no-broma-1232036' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/llega-roadpol-speed-marathon-festival-multas-dgt-guardia-civil-no-broma-3011584.jpg?tf=1200x' alt='Llega el 'RoadPol Speed Marathon', el "festival" de las multas de DGT y Guardia Civil y (y no es broma)' />
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/llega-roadpol-speed-marathon-festival-multas-dgt-guardia-civil-no-broma-3011584.jpg?tf=1200x' alt='Llega el 'RoadPol Speed Marathon', el "festival" de las multas de DGT y Guardia Civil (y no es broma)' />
     </a>
 </div>
 
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/pc/minis-forum-um580d-ryzen-7-32gb-ram-oferta-descuento-extra-1232070'>¿Un mini PC con Ryzen 7, 32GB de RAM y menos de 500€? Este pequeño PC es uno de los chollos de la semana</a></h4>
     <a href='https://computerhoy.com/pc/minis-forum-um580d-ryzen-7-32gb-ram-oferta-descuento-extra-1232070' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/minis-forum-um580d-3011718.jpg?tf=1200x' alt='¿Un mini PC con Ryzen 7, 32GB de RAM y menos de 500€? Este pequeño PC es uno de los chollos de la semana' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/streaming/ultimos-dias-conseguir-skyshowtime-50-vida-merece-pena-1232000'>Últimos días para conseguir SkyShowtime al 50% de por vida: ¿merece la pena?</a></h4>
-    <a href='https://computerhoy.com/streaming/ultimos-dias-conseguir-skyshowtime-50-vida-merece-pena-1232000' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/ultimos-dias-conseguir-skyshowtime-50-vida-merece-pena-3011566.jpg?tf=1200x' alt='Últimos días para conseguir SkyShowtime al 50% de por vida: ¿merece la pena?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/gaming/revendedores-convierten-mejor-opcion-conseguir-playstation-5-barata-1232030'>Los revendedores se convierten en tu mejor opción para conseguir una PlayStation 5 barata</a></h4>
-    <a href='https://computerhoy.com/gaming/revendedores-convierten-mejor-opcion-conseguir-playstation-5-barata-1232030' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/11/ps5-dinero-especulacion-2149379.jpg?tf=1200x' alt='Los revendedores se convierten en tu mejor opción para conseguir una PlayStation 5 barata' />
     </a>
 </div>
 
