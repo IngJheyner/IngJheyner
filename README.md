@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/merece-pena-pagar-version-pago-chatgpt-1232094'>¿Merece la pena pagar por GPT-4? Esto es lo que debes saber</a></h4>
+    <a href='https://computerhoy.com/tecnologia/merece-pena-pagar-version-pago-chatgpt-1232094' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/todo-sabemos-gpt-5-proxima-gran-actualizacion-chatgpt-3000734.jpg?tf=1200x' alt='¿Merece la pena pagar por GPT-4? Esto es lo que debes saber' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/moviles/todo-sabemos-acerca-google-pixel-7a-pixel-tablet-1232202'>Todo lo que sabemos acerca del Google Pixel 7a y la Pixel Tablet</a></h4>
+    <a href='https://computerhoy.com/moviles/todo-sabemos-acerca-google-pixel-7a-pixel-tablet-1232202' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/google-pixel-7-pro-encima-mesa-madera-junto-unas-gafas-sol-2860757.jpg?tf=1200x' alt='Todo lo que sabemos acerca del Google Pixel 7a y la Pixel Tablet' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/hacker-durante-30-anos-desvela-cosas-aterradoras-ha-visto-dark-web-1232228'>Un hacker durante más de 30 años desvela las cosas más aterradoras que ha visto en la Dark Web</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/hacker-durante-30-anos-desvela-cosas-aterradoras-ha-visto-dark-web-1232228' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/06/10-mejores-hackers-historia.jpg?tf=1200x' alt='Un hacker durante más de 30 años desvela las cosas más aterradoras que ha visto en la Dark Web' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-portatiles-windows-hemos-probado-ultimamente-995347'>Estos son los mejores portátiles Windows que hemos probado últimamente</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/mejores-portatiles-windows-hemos-probado-ultimamente-995347' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/analisis-lenovo-thinkpad-z16-2899176.jpg?tf=1200x' alt='Estos son los mejores portátiles Windows que hemos probado últimamente' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/espacio/semana-satelite-nasa-estrellara-tierra-1232198'>Esta semana un satélite de la NASA se estrellará contra la Tierra</a></h4>
     <a href='https://computerhoy.com/espacio/semana-satelite-nasa-estrellara-tierra-1232198' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/semana-satelite-nasa-estrellara-tierra-3011964.jpg?tf=1200x' alt='Esta semana un satélite de la NASA se estrellará contra la Tierra' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/xiaomi-pad-6-6-pro-xiaomi-band-8-dos-one-more-thing-1232194'>Xiaomi Pad 6 y 6 Pro, Xiaomi Band 8 y dos one more thing</a></h4>
-    <a href='https://computerhoy.com/tecnologia/xiaomi-pad-6-6-pro-xiaomi-band-8-dos-one-more-thing-1232194' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/xiaomi-band-8-pad-6-3011980.jpg?tf=1200x' alt='Xiaomi Pad 6 y 6 Pro, Xiaomi Band 8 y dos one more thing' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/xiaomi-13-ultra-leica-mejor-movil-2023-1232174'>Xiaomi 13 Ultra, la culminación de Xiaomi que quiere ser el mejor móvil de 2023</a></h4>
-    <a href='https://computerhoy.com/moviles/xiaomi-13-ultra-leica-mejor-movil-2023-1232174' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/xiaomi-13-ultra-3011856.jpg?tf=1200x' alt='Xiaomi 13 Ultra, la culminación de Xiaomi que quiere ser el mejor móvil de 2023' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tv/nuevos-televisores-xiaomi-paneles-oled-mini-led-100-pulgadas-1232152'>Nuevos televisores de Xiaomi: paneles OLED y Mini LED de hasta 100 pulgadas</a></h4>
-    <a href='https://computerhoy.com/tv/nuevos-televisores-xiaomi-paneles-oled-mini-led-100-pulgadas-1232152' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/nuevos-televisores-xiaomi-paneles-oled-mini-led-100-pulgadas-3011858.jpg?tf=1200x' alt='Nuevos televisores de Xiaomi: paneles OLED y Mini LED de hasta 100 pulgadas' />
     </a>
 </div>
 
