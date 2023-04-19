@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/insulina-autoajustable-posiciona-como-gran-esperanza-diabeticos-tipo-1-1232592'>La insulina autoajustable se posiciona como la gran esperanza para los diabéticos tipo 1</a></h4>
+    <a href='https://computerhoy.com/tecnologia/insulina-autoajustable-posiciona-como-gran-esperanza-diabeticos-tipo-1-1232592' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/insulina-autoajustable-posiciona-como-gran-esperanza-diabeticos-tipo-1-3012492.jpg?tf=1200x' alt='La insulina autoajustable se posiciona como la gran esperanza para los diabéticos tipo 1' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/streaming/netflix-potencia-plan-basico-anuncios-anadiendo-dos-grandes-ventajas-espana-1232590'>Netflix potencia el plan 'Básico con anuncios' añadiendo dos grandes ventajas en España</a></h4>
+    <a href='https://computerhoy.com/streaming/netflix-potencia-plan-basico-anuncios-anadiendo-dos-grandes-ventajas-espana-1232590' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/netflix-potencia-plan-basico-anuncios-anadiendo-dos-grandes-ventajas-espana-3012444.jpg?tf=1200x' alt='Netflix potencia el plan 'Básico con anuncios' añadiendo dos grandes ventajas en España' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/gaming/nintendo-switch-lite-ofertas-jugar-zelda-1232290'>Estas Nintendo Switch Lite están a precio de liquidación y podrás jugar al próximo Zelda</a></h4>
+    <a href='https://computerhoy.com/gaming/nintendo-switch-lite-ofertas-jugar-zelda-1232290' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/nintendo-switch-lite-2296855.jpg?tf=1200x' alt='Estas Nintendo Switch Lite están a precio de liquidación y podrás jugar al próximo Zelda' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/motor/que-son-pelos-goma-neumaticos-coches-1232570'>Por qué los neumáticos de los coches tienen esos extraños "pelillos" de goma</a></h4>
+    <a href='https://computerhoy.com/motor/que-son-pelos-goma-neumaticos-coches-1232570' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/ruedas-coches-tienen-esos-extranos-pelillos-goma-3012404.jpg?tf=1200x' alt='Por qué los neumáticos de los coches tienen esos extraños "pelillos" de goma' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/mejores/tablets-lenovo-1231598'>Cuáles son las mejores tablets de Lenovo que puedes comprar </a></h4>
     <a href='https://computerhoy.com/mejores/tablets-lenovo-1231598' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/tab-p11-pro-3010854.jpg?tf=1200x' alt='Cuáles son las mejores tablets de Lenovo que puedes comprar ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/inocente-funcion-movil-prohibida-japon-corea-1232556'>La opción antipervertidos del móvil que es obligatorio usar en Japón y Corea</a></h4>
-    <a href='https://computerhoy.com/moviles/inocente-funcion-movil-prohibida-japon-corea-1232556' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/opcion-antipervertidos-movil-obligatorio-usar-japon-corea-3012400.jpg?tf=1200x' alt='La opción antipervertidos del móvil que es obligatorio usar en Japón y Corea' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/energia/caza-vecinos-gorrones-aprovechan-luz-trasteros-comunitarios-1232306'>Así se caza a los vecinos gorrones que se aprovechan de la luz de los trasteros comunitarios</a></h4>
-    <a href='https://computerhoy.com/energia/caza-vecinos-gorrones-aprovechan-luz-trasteros-comunitarios-1232306' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/cables-hogar-3012168.jpg?tf=1200x' alt='Así se caza a los vecinos gorrones que se aprovechan de la luz de los trasteros comunitarios' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/byd-disus-coche-puede-botar-saltar-rodar-sin-rueda-1232550'>BYD presenta un coche que puede botar, saltar, y rodar sin una rueda</a></h4>
-    <a href='https://computerhoy.com/motor/byd-disus-coche-puede-botar-saltar-rodar-sin-rueda-1232550' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/byd-presenta-coche-puede-botar-saltar-rodar-rueda-3012396.jpg?tf=1200x' alt='BYD presenta un coche que puede botar, saltar, y rodar sin una rueda' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/como-ver-eclipse-solar-hibrido-20-abril-1232548'>El 20 de abril tenemos un raro eclipse solar híbrido, que solo ocurre unas pocas veces en un siglo</a></h4>
-    <a href='https://computerhoy.com/espacio/como-ver-eclipse-solar-hibrido-20-abril-1232548' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/semana-tendremos-raro-eclipse-solar-hibrido-solo-ocurre-unas-pocas-veces-siglo-3012180.jpg?tf=1200x' alt='El 20 de abril tenemos un raro eclipse solar híbrido, que solo ocurre unas pocas veces en un siglo' />
     </a>
 </div>
 
