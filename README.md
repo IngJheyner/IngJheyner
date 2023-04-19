@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/gaming/monster-hunter-now-nuevo-juego-niantic-exito-pokemon-go-1232282'>Monster Hunter Now: así es el nuevo juego de Niantic tras el éxito de Pokémon Go</a></h4>
+    <a href='https://computerhoy.com/gaming/monster-hunter-now-nuevo-juego-niantic-exito-pokemon-go-1232282' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/monster-hunter-rise-sunbreak-2873621.jpg?tf=1200x' alt='Monster Hunter Now: así es el nuevo juego de Niantic tras el éxito de Pokémon Go' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/netflix-cierra-alquiler-dvd-blu-ray-1232318'>Después de 25 años, Netflix deja de alquilar discos DVD y Blu-ray</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/netflix-cierra-alquiler-dvd-blu-ray-1232318' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/despues-25-anos-netflix-deja-alquilar-dvds-3012172.jpg?tf=1200x' alt='Después de 25 años, Netflix deja de alquilar discos DVD y Blu-ray' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/redes-sociales/instagram-profesionaliza-ahora-podras-anadir-5-enlaces-biografia-1232280'>Instagram se profesionaliza y ahora podrás añadir hasta 5 enlaces en tu biografía</a></h4>
+    <a href='https://computerhoy.com/redes-sociales/instagram-profesionaliza-ahora-podras-anadir-5-enlaces-biografia-1232280' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/instagram-2992538.jpg?tf=1200x' alt='Instagram se profesionaliza y ahora podrás añadir hasta 5 enlaces en tu biografía' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/entretenimiento/pelicula-duke-nukem-creadores-cobra-kai-legendary-1232314'>Duke Nukem vuelve.... en forma de película, con los creadores de Cobra Kai</a></h4>
     <a href='https://computerhoy.com/entretenimiento/pelicula-duke-nukem-creadores-cobra-kai-legendary-1232314' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/duke-nukem-2433411.jpg?tf=1200x' alt='Duke Nukem vuelve.... en forma de película, con los creadores de Cobra Kai' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/apps/tdtchannels-actualiza-nuevos-canales-menos-anuncios-gracias-suscripciones-1231634'>TDTChannels se actualiza: nuevos canales y menos anuncios gracias a las suscripciones</a></h4>
     <a href='https://computerhoy.com/apps/tdtchannels-actualiza-nuevos-canales-menos-anuncios-gracias-suscripciones-1231634' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/tdtchannels-3010604.jpg?tf=1200x' alt='TDTChannels se actualiza: nuevos canales y menos anuncios gracias a las suscripciones' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/whatsapp-muy-cerca-ser-prohibido-reino-unido-podria-pasar-mismo-otros-paises-1232300'>WhatsApp muy cerca de ser prohibido en Reino Unido: ¿podría pasar lo mismo en otros países?</a></h4>
-    <a href='https://computerhoy.com/apps/whatsapp-muy-cerca-ser-prohibido-reino-unido-podria-pasar-mismo-otros-paises-1232300' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/whatsapp-3012152.jpg?tf=1200x' alt='WhatsApp muy cerca de ser prohibido en Reino Unido: ¿podría pasar lo mismo en otros países?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/telegram-convierte-refugio-seguro-ciberdelincuentes-1232116'>Telegram, cada vez más oscuro, se convierte en un refugio seguro para los ciberdelincuentes</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/telegram-convierte-refugio-seguro-ciberdelincuentes-1232116' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/telegram-3012130.jpg?tf=1200x' alt='Telegram, cada vez más oscuro, se convierte en un refugio seguro para los ciberdelincuentes' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/adios-codigos-barras-seran-sustituidos-estos-codigos-2d-partir-2027-1232298'>Adiós a los códigos de barras, serán sustituidos por estos códigos 2D a partir de 2027</a></h4>
-    <a href='https://computerhoy.com/life/adios-codigos-barras-seran-sustituidos-estos-codigos-2d-partir-2027-1232298' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/adios-codigos-barras-seran-sustituidos-estos-codigos-2d-partir-2027-3012148.jpg?tf=1200x' alt='Adiós a los códigos de barras, serán sustituidos por estos códigos 2D a partir de 2027' />
     </a>
 </div>
 
