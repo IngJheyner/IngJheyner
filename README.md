@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/espacio/china-deja-ia-controle-satelite-militar-hace-bastante-inquietante-1232938'>China deja que una IA controle un satélite militar, y lo que hace es bastante inquietante</a></h4>
+    <a href='https://computerhoy.com/espacio/china-deja-ia-controle-satelite-militar-hace-bastante-inquietante-1232938' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/04/satelite-orbita-1921573.jpg?tf=1200x' alt='China deja que una IA controle un satélite militar, y lo que hace es bastante inquietante' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/redes-sociales/reddit-quiere-parte-pastel-haber-ayudado-entrenar-ias-1232934'>Reddit quiere su parte del pastel por haber ayudado a entrenar a las IAs</a></h4>
+    <a href='https://computerhoy.com/redes-sociales/reddit-quiere-parte-pastel-haber-ayudado-entrenar-ias-1232934' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/01/reddit-2213439.jpg?tf=1200x' alt='Reddit quiere su parte del pastel por haber ayudado a entrenar a las IAs' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/streaming/dialogos-series-peliculas-suenan-prime-video-tiene-solucion-1232878'>¿Los diálogos de las series y películas suenan bajo? Prime Video tiene la solución</a></h4>
+    <a href='https://computerhoy.com/streaming/dialogos-series-peliculas-suenan-prime-video-tiene-solucion-1232878' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/amazon-prime-video-2891348.jpg?tf=1200x' alt='¿Los diálogos de las series y películas suenan bajo? Prime Video tiene la solución' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/streaming/netflix-contenta-fin-cuentas-compartidas-llegan-estados-unidos-1232960'>Netflix dice que el fin de las cuentas compartidas 'ha ido bien', lo va a implantar en Estados Unidos</a></h4>
     <a href='https://computerhoy.com/streaming/netflix-contenta-fin-cuentas-compartidas-llegan-estados-unidos-1232960' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/acabo-plazo-elegir-ubicacion-principal-netflix-pasa-ahora-2963196.jpg?tf=1200x' alt='Netflix dice que el fin de las cuentas compartidas 'ha ido bien', lo va a implantar en Estados Unidos' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/alimentacion/peligroso-truco-viral-servilleta-no-tener-limpiar-placa-induccion-1232954'>¿Es peligroso el truco viral de la servilleta para no tener que limpiar la placa de inducción?</a></h4>
     <a href='https://computerhoy.com/alimentacion/peligroso-truco-viral-servilleta-no-tener-limpiar-placa-induccion-1232954' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/placa-induccion-3013344.jpg?tf=1200x' alt='¿Es peligroso el truco viral de la servilleta para no tener que limpiar la placa de inducción?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/alimentacion/fallo-matrix-pasando-tapones-coca-cola-leche-otras-bebidas-1232928'>Fallo en Matrix: ¿qué está pasando con los tapones de Coca-Cola, leche y otras bebidas?</a></h4>
-    <a href='https://computerhoy.com/alimentacion/fallo-matrix-pasando-tapones-coca-cola-leche-otras-bebidas-1232928' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/nuevo-envase-central-lechera-asturiana-3013312.jpg?tf=1200x' alt='Fallo en Matrix: ¿qué está pasando con los tapones de Coca-Cola, leche y otras bebidas?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/steve-jobs-tenia-muy-claro-cancer-grandes-empresas-1232952'>Steve Jobs lo tenía muy claro: este es el cáncer de las grandes empresas</a></h4>
-    <a href='https://computerhoy.com/apple/steve-jobs-tenia-muy-claro-cancer-grandes-empresas-1232952' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/03/steve-jobs-2280383.jpg?tf=1200x' alt='Steve Jobs lo tenía muy claro: este es el cáncer de las grandes empresas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/tim-cook-asegura-ia-forma-parte-todos-productos-apple-1232876'>Tim Cook asegura que la IA forma parte de todos los productos de Apple</a></h4>
-    <a href='https://computerhoy.com/apple/tim-cook-asegura-ia-forma-parte-todos-productos-apple-1232876' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/03/tim-cook.jpg?tf=1200x' alt='Tim Cook asegura que la IA forma parte de todos los productos de Apple' />
     </a>
 </div>
 
