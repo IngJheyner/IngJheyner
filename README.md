@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/honor-magic5-pro-analisis-opinion-apuesta-top-gran-actualizacion-1232580'>Honor Magic5 Pro, análisis y opinión: apuesta top y gran actualización</a></h4>
-    <a href='https://computerhoy.com/analisis/honor-magic5-pro-analisis-opinion-apuesta-top-gran-actualizacion-1232580' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/honor-magic5-pro-3012742.jpg?tf=1200x' alt='Honor Magic5 Pro, análisis y opinión: apuesta top y gran actualización' />
+    <h4><a href='https://computerhoy.com/ciencia/como-donde-ver-eclipse-hibrido-solar-jueves-20-abril-1232912'>Cómo ver el eclipse híbrido de 2023: un extraño fenómeno que solo ocurre una vez cada 10 años</a></h4>
+    <a href='https://computerhoy.com/ciencia/como-donde-ver-eclipse-hibrido-solar-jueves-20-abril-1232912' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/eclipses-raros-cubrira-cielos-algunas-zonas-20-abril-3008496.jpg?tf=1200x' alt='Cómo ver el eclipse híbrido de 2023: un extraño fenómeno que solo ocurre una vez cada 10 años' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/inteligencia-artificial-movimientos-oculares-detectar-alzheimer-1232772'>Inteligencia artificial y movimientos oculares para detectar el Alzheimer: el Método Cognitus</a></h4>
-    <a href='https://computerhoy.com/ciencia/inteligencia-artificial-movimientos-oculares-detectar-alzheimer-1232772' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/alzheimer-3012912.jpg?tf=1200x' alt='Inteligencia artificial y movimientos oculares para detectar el Alzheimer: el Método Cognitus' />
+    <h4><a href='https://computerhoy.com/streaming/hombre-demanda-netflix-usar-imagen-documental-confundirlo-criminal-1232890'>Un hombre demanda a Netflix por usar su imagen en un documental y confundirlo con un criminal</a></h4>
+    <a href='https://computerhoy.com/streaming/hombre-demanda-netflix-usar-imagen-documental-confundirlo-criminal-1232890' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/fotograma-mochilero-hacha-3013212.jpg?tf=1200x' alt='Un hombre demanda a Netflix por usar su imagen en un documental y confundirlo con un criminal' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/cientificos-espanoles-crean-nuevo-tipo-lupulo-cambio-climatico-no-acabe-cerveza-1232326'>Científicos españoles crean un nuevo tipo de lúpulo para que el cambio climático no acabe con la cerveza</a></h4>
-    <a href='https://computerhoy.com/ciencia/cientificos-espanoles-crean-nuevo-tipo-lupulo-cambio-climatico-no-acabe-cerveza-1232326' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/personas-brindando-cervezas-comida-2555421.jpg?tf=1200x' alt='Científicos españoles crean un nuevo tipo de lúpulo para que el cambio climático no acabe con la cerveza' />
+    <h4><a href='https://computerhoy.com/apple/estos-son-iphone-apple-abandonara-suerte-cuando-lance-iphone-15-1232842'>Estos son los iPhone que Apple abandonará a su suerte cuando se lance el iPhone 15</a></h4>
+    <a href='https://computerhoy.com/apple/estos-son-iphone-apple-abandonara-suerte-cuando-lance-iphone-15-1232842' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/persona-sujetando-iphone-14-pro-3005300.jpg?tf=1200x' alt='Estos son los iPhone que Apple abandonará a su suerte cuando se lance el iPhone 15' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/apple-estaria-preparando-ecosistema-software-antes-lanzamiento-gafas-vr-1232742'>Las gafas VR de Apple llegarán con mucho software bajo el brazo</a></h4>
-    <a href='https://computerhoy.com/apple/apple-estaria-preparando-ecosistema-software-antes-lanzamiento-gafas-vr-1232742' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/gafas-realidad-aumentada-google-estan-cada-vez-cerca-ser-realidad-2764581.jpg?tf=1200x' alt='Las gafas VR de Apple llegarán con mucho software bajo el brazo' />
+    <h4><a href='https://computerhoy.com/ciberseguridad/viejo-router-wifi-podria-filtrar-datos-personales-no-tomas-medidas-adecuadas-1232896'>Tu viejo router WiFi podría estar filtrando tus datos personales si no tomas las medidas adecuadas</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/viejo-router-wifi-podria-filtrar-datos-personales-no-tomas-medidas-adecuadas-1232896' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/router-wifi-3013256.jpg?tf=1200x' alt='Tu viejo router WiFi podría estar filtrando tus datos personales si no tomas las medidas adecuadas' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/cuantos-anos-duran-baterias-coches-electricos-actuales-1232324'>¿Cuántos años duran realmente las baterías de los coches eléctricos actuales?</a></h4>
-    <a href='https://computerhoy.com/motor/cuantos-anos-duran-baterias-coches-electricos-actuales-1232324' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/carga-coche-electrico-2922466.jpg?tf=1200x' alt='¿Cuántos años duran realmente las baterías de los coches eléctricos actuales?' />
+    <h4><a href='https://computerhoy.com/mejores/radios-android-auto-1232748'>Mejores radios con Android Auto que deberías comprar para tu coche</a></h4>
+    <a href='https://computerhoy.com/mejores/radios-android-auto-1232748' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/android-auto-bmw-3012754.jpg?tf=1200x' alt='Mejores radios con Android Auto que deberías comprar para tu coche' />
     </a>
 </div>
 
