@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/insulina-autoajustable-posiciona-como-gran-esperanza-diabeticos-tipo-1-1232592'>La insulina autoajustable se posiciona como la gran esperanza para los diabéticos tipo 1</a></h4>
-    <a href='https://computerhoy.com/tecnologia/insulina-autoajustable-posiciona-como-gran-esperanza-diabeticos-tipo-1-1232592' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/insulina-autoajustable-posiciona-como-gran-esperanza-diabeticos-tipo-1-3012492.jpg?tf=1200x' alt='La insulina autoajustable se posiciona como la gran esperanza para los diabéticos tipo 1' />
+    <h4><a href='https://computerhoy.com/ciencia/cientificos-espanoles-crean-nuevo-tipo-lupulo-cambio-climatico-no-acabe-cerveza-1232326'>Científicos españoles crean un nuevo tipo de lúpulo para que el cambio climático no acabe con la cerveza</a></h4>
+    <a href='https://computerhoy.com/ciencia/cientificos-espanoles-crean-nuevo-tipo-lupulo-cambio-climatico-no-acabe-cerveza-1232326' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/personas-brindando-cervezas-comida-2555421.jpg?tf=1200x' alt='Científicos españoles crean un nuevo tipo de lúpulo para que el cambio climático no acabe con la cerveza' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/streaming/netflix-potencia-plan-basico-anuncios-anadiendo-dos-grandes-ventajas-espana-1232590'>Netflix potencia el plan 'Básico con anuncios' añadiendo dos grandes ventajas en España</a></h4>
-    <a href='https://computerhoy.com/streaming/netflix-potencia-plan-basico-anuncios-anadiendo-dos-grandes-ventajas-espana-1232590' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/netflix-potencia-plan-basico-anuncios-anadiendo-dos-grandes-ventajas-espana-3012444.jpg?tf=1200x' alt='Netflix potencia el plan 'Básico con anuncios' añadiendo dos grandes ventajas en España' />
+    <h4><a href='https://computerhoy.com/apple/apple-estaria-preparando-ecosistema-software-antes-lanzamiento-gafas-vr-1232742'>Las gafas VR de Apple llegarán con mucho software bajo el brazo</a></h4>
+    <a href='https://computerhoy.com/apple/apple-estaria-preparando-ecosistema-software-antes-lanzamiento-gafas-vr-1232742' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/gafas-realidad-aumentada-google-estan-cada-vez-cerca-ser-realidad-2764581.jpg?tf=1200x' alt='Las gafas VR de Apple llegarán con mucho software bajo el brazo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/gaming/nintendo-switch-lite-ofertas-jugar-zelda-1232290'>Estas Nintendo Switch Lite están a precio de liquidación y podrás jugar al próximo Zelda</a></h4>
-    <a href='https://computerhoy.com/gaming/nintendo-switch-lite-ofertas-jugar-zelda-1232290' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/nintendo-switch-lite-2296855.jpg?tf=1200x' alt='Estas Nintendo Switch Lite están a precio de liquidación y podrás jugar al próximo Zelda' />
+    <h4><a href='https://computerhoy.com/motor/cuantos-anos-duran-baterias-coches-electricos-actuales-1232324'>¿Cuántos años duran realmente las baterías de los coches eléctricos actuales?</a></h4>
+    <a href='https://computerhoy.com/motor/cuantos-anos-duran-baterias-coches-electricos-actuales-1232324' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/carga-coche-electrico-2922466.jpg?tf=1200x' alt='¿Cuántos años duran realmente las baterías de los coches eléctricos actuales?' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/que-son-pelos-goma-neumaticos-coches-1232570'>Por qué los neumáticos de los coches tienen esos extraños "pelillos" de goma</a></h4>
-    <a href='https://computerhoy.com/motor/que-son-pelos-goma-neumaticos-coches-1232570' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/ruedas-coches-tienen-esos-extranos-pelillos-goma-3012404.jpg?tf=1200x' alt='Por qué los neumáticos de los coches tienen esos extraños "pelillos" de goma' />
+    <h4><a href='https://computerhoy.com/redes-sociales/facebook-podria-deberte-dinero-puedes-reclamarlo-1232312'>Facebook podría deberte dinero y así puedes reclamarlo</a></h4>
+    <a href='https://computerhoy.com/redes-sociales/facebook-podria-deberte-dinero-puedes-reclamarlo-1232312' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/facebook-3012670.jpg?tf=1200x' alt='Facebook podría deberte dinero y así puedes reclamarlo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/mejores/tablets-lenovo-1231598'>Cuáles son las mejores tablets de Lenovo que puedes comprar </a></h4>
-    <a href='https://computerhoy.com/mejores/tablets-lenovo-1231598' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/tab-p11-pro-3010854.jpg?tf=1200x' alt='Cuáles son las mejores tablets de Lenovo que puedes comprar ' />
+    <h4><a href='https://computerhoy.com/streaming/netflix-da-paso-definitivo-acabar-contrasenas-acabo-periodo-gracia-1232698'>Netflix da el paso definitivo para acabar con las contraseñas, se acabó el periodo de gracia</a></h4>
+    <a href='https://computerhoy.com/streaming/netflix-da-paso-definitivo-acabar-contrasenas-acabo-periodo-gracia-1232698' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/netflix-da-paso-definitivo-acabar-contrasenas-acabo-periodo-gracia-3012650.jpg?tf=1200x' alt='Netflix da el paso definitivo para acabar con las contraseñas, se acabó el periodo de gracia' />
     </a>
 </div>
 
