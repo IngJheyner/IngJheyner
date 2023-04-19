@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/analisis/honor-magic5-pro-analisis-opinion-apuesta-top-gran-actualizacion-1232580'>Honor Magic5 Pro, análisis y opinión: apuesta top y gran actualización</a></h4>
+    <a href='https://computerhoy.com/analisis/honor-magic5-pro-analisis-opinion-apuesta-top-gran-actualizacion-1232580' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/honor-magic5-pro-3012742.jpg?tf=1200x' alt='Honor Magic5 Pro, análisis y opinión: apuesta top y gran actualización' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/inteligencia-artificial-movimientos-oculares-detectar-alzheimer-1232772'>Inteligencia artificial y movimientos oculares para detectar el Alzheimer: el Método Cognitus</a></h4>
+    <a href='https://computerhoy.com/ciencia/inteligencia-artificial-movimientos-oculares-detectar-alzheimer-1232772' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/alzheimer-3012912.jpg?tf=1200x' alt='Inteligencia artificial y movimientos oculares para detectar el Alzheimer: el Método Cognitus' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciencia/cientificos-espanoles-crean-nuevo-tipo-lupulo-cambio-climatico-no-acabe-cerveza-1232326'>Científicos españoles crean un nuevo tipo de lúpulo para que el cambio climático no acabe con la cerveza</a></h4>
     <a href='https://computerhoy.com/ciencia/cientificos-espanoles-crean-nuevo-tipo-lupulo-cambio-climatico-no-acabe-cerveza-1232326' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/personas-brindando-cervezas-comida-2555421.jpg?tf=1200x' alt='Científicos españoles crean un nuevo tipo de lúpulo para que el cambio climático no acabe con la cerveza' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/motor/cuantos-anos-duran-baterias-coches-electricos-actuales-1232324'>¿Cuántos años duran realmente las baterías de los coches eléctricos actuales?</a></h4>
     <a href='https://computerhoy.com/motor/cuantos-anos-duran-baterias-coches-electricos-actuales-1232324' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/carga-coche-electrico-2922466.jpg?tf=1200x' alt='¿Cuántos años duran realmente las baterías de los coches eléctricos actuales?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/redes-sociales/facebook-podria-deberte-dinero-puedes-reclamarlo-1232312'>Facebook podría deberte dinero y así puedes reclamarlo</a></h4>
-    <a href='https://computerhoy.com/redes-sociales/facebook-podria-deberte-dinero-puedes-reclamarlo-1232312' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/facebook-3012670.jpg?tf=1200x' alt='Facebook podría deberte dinero y así puedes reclamarlo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/streaming/netflix-da-paso-definitivo-acabar-contrasenas-acabo-periodo-gracia-1232698'>Netflix da el paso definitivo para acabar con las contraseñas, se acabó el periodo de gracia</a></h4>
-    <a href='https://computerhoy.com/streaming/netflix-da-paso-definitivo-acabar-contrasenas-acabo-periodo-gracia-1232698' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/netflix-da-paso-definitivo-acabar-contrasenas-acabo-periodo-gracia-3012650.jpg?tf=1200x' alt='Netflix da el paso definitivo para acabar con las contraseñas, se acabó el periodo de gracia' />
     </a>
 </div>
 
