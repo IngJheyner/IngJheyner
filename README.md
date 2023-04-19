@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/motor/byd-disus-coche-puede-botar-saltar-rodar-sin-rueda-1232550'>BYD presenta un coche que puede botar, saltar, y rodar sin una rueda</a></h4>
+    <a href='https://computerhoy.com/motor/byd-disus-coche-puede-botar-saltar-rodar-sin-rueda-1232550' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/byd-presenta-coche-puede-botar-saltar-rodar-rueda-3012396.jpg?tf=1200x' alt='BYD presenta un coche que puede botar, saltar, y rodar sin una rueda' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/espacio/como-ver-eclipse-solar-hibrido-20-abril-1232548'>El 20 de abril tenemos un raro eclipse solar híbrido, que solo ocurre unas pocas veces en un siglo</a></h4>
+    <a href='https://computerhoy.com/espacio/como-ver-eclipse-solar-hibrido-20-abril-1232548' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/semana-tendremos-raro-eclipse-solar-hibrido-solo-ocurre-unas-pocas-veces-siglo-3012180.jpg?tf=1200x' alt='El 20 de abril tenemos un raro eclipse solar híbrido, que solo ocurre unas pocas veces en un siglo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/gaming/monster-hunter-now-nuevo-juego-niantic-exito-pokemon-go-1232282'>Monster Hunter Now: así es el nuevo juego de Niantic tras el éxito de Pokémon Go</a></h4>
     <a href='https://computerhoy.com/gaming/monster-hunter-now-nuevo-juego-niantic-exito-pokemon-go-1232282' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/monster-hunter-rise-sunbreak-2873621.jpg?tf=1200x' alt='Monster Hunter Now: así es el nuevo juego de Niantic tras el éxito de Pokémon Go' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/redes-sociales/instagram-profesionaliza-ahora-podras-anadir-5-enlaces-biografia-1232280'>Instagram se profesionaliza y ahora podrás añadir hasta 5 enlaces en tu biografía</a></h4>
     <a href='https://computerhoy.com/redes-sociales/instagram-profesionaliza-ahora-podras-anadir-5-enlaces-biografia-1232280' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/instagram-2992538.jpg?tf=1200x' alt='Instagram se profesionaliza y ahora podrás añadir hasta 5 enlaces en tu biografía' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/pelicula-duke-nukem-creadores-cobra-kai-legendary-1232314'>Duke Nukem vuelve.... en forma de película, con los creadores de Cobra Kai</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/pelicula-duke-nukem-creadores-cobra-kai-legendary-1232314' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/duke-nukem-2433411.jpg?tf=1200x' alt='Duke Nukem vuelve.... en forma de película, con los creadores de Cobra Kai' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/tdtchannels-actualiza-nuevos-canales-menos-anuncios-gracias-suscripciones-1231634'>TDTChannels se actualiza: nuevos canales y menos anuncios gracias a las suscripciones</a></h4>
-    <a href='https://computerhoy.com/apps/tdtchannels-actualiza-nuevos-canales-menos-anuncios-gracias-suscripciones-1231634' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/tdtchannels-3010604.jpg?tf=1200x' alt='TDTChannels se actualiza: nuevos canales y menos anuncios gracias a las suscripciones' />
     </a>
 </div>
 
