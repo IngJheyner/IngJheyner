@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/como-donde-ver-eclipse-hibrido-solar-jueves-20-abril-1232912'>Cómo ver el eclipse híbrido de 2023: un extraño fenómeno que solo ocurre una vez cada 10 años</a></h4>
-    <a href='https://computerhoy.com/ciencia/como-donde-ver-eclipse-hibrido-solar-jueves-20-abril-1232912' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/eclipses-raros-cubrira-cielos-algunas-zonas-20-abril-3008496.jpg?tf=1200x' alt='Cómo ver el eclipse híbrido de 2023: un extraño fenómeno que solo ocurre una vez cada 10 años' />
+    <h4><a href='https://computerhoy.com/streaming/netflix-contenta-fin-cuentas-compartidas-llegan-estados-unidos-1232960'>Netflix dice que el fin de las cuentas compartidas 'ha ido bien', lo va a implantar en Estados Unidos</a></h4>
+    <a href='https://computerhoy.com/streaming/netflix-contenta-fin-cuentas-compartidas-llegan-estados-unidos-1232960' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/acabo-plazo-elegir-ubicacion-principal-netflix-pasa-ahora-2963196.jpg?tf=1200x' alt='Netflix dice que el fin de las cuentas compartidas 'ha ido bien', lo va a implantar en Estados Unidos' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/streaming/hombre-demanda-netflix-usar-imagen-documental-confundirlo-criminal-1232890'>Un hombre demanda a Netflix por usar su imagen en un documental y confundirlo con un criminal</a></h4>
-    <a href='https://computerhoy.com/streaming/hombre-demanda-netflix-usar-imagen-documental-confundirlo-criminal-1232890' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/fotograma-mochilero-hacha-3013212.jpg?tf=1200x' alt='Un hombre demanda a Netflix por usar su imagen en un documental y confundirlo con un criminal' />
+    <h4><a href='https://computerhoy.com/alimentacion/peligroso-truco-viral-servilleta-no-tener-limpiar-placa-induccion-1232954'>¿Es peligroso el truco viral de la servilleta para no tener que limpiar la placa de inducción?</a></h4>
+    <a href='https://computerhoy.com/alimentacion/peligroso-truco-viral-servilleta-no-tener-limpiar-placa-induccion-1232954' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/placa-induccion-3013344.jpg?tf=1200x' alt='¿Es peligroso el truco viral de la servilleta para no tener que limpiar la placa de inducción?' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/estos-son-iphone-apple-abandonara-suerte-cuando-lance-iphone-15-1232842'>Estos son los iPhone que Apple abandonará a su suerte cuando se lance el iPhone 15</a></h4>
-    <a href='https://computerhoy.com/apple/estos-son-iphone-apple-abandonara-suerte-cuando-lance-iphone-15-1232842' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/persona-sujetando-iphone-14-pro-3005300.jpg?tf=1200x' alt='Estos son los iPhone que Apple abandonará a su suerte cuando se lance el iPhone 15' />
+    <h4><a href='https://computerhoy.com/alimentacion/fallo-matrix-pasando-tapones-coca-cola-leche-otras-bebidas-1232928'>Fallo en Matrix: ¿qué está pasando con los tapones de Coca-Cola, leche y otras bebidas?</a></h4>
+    <a href='https://computerhoy.com/alimentacion/fallo-matrix-pasando-tapones-coca-cola-leche-otras-bebidas-1232928' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/nuevo-envase-central-lechera-asturiana-3013312.jpg?tf=1200x' alt='Fallo en Matrix: ¿qué está pasando con los tapones de Coca-Cola, leche y otras bebidas?' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/viejo-router-wifi-podria-filtrar-datos-personales-no-tomas-medidas-adecuadas-1232896'>Tu viejo router WiFi podría estar filtrando tus datos personales si no tomas las medidas adecuadas</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/viejo-router-wifi-podria-filtrar-datos-personales-no-tomas-medidas-adecuadas-1232896' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/router-wifi-3013256.jpg?tf=1200x' alt='Tu viejo router WiFi podría estar filtrando tus datos personales si no tomas las medidas adecuadas' />
+    <h4><a href='https://computerhoy.com/apple/steve-jobs-tenia-muy-claro-cancer-grandes-empresas-1232952'>Steve Jobs lo tenía muy claro: este es el cáncer de las grandes empresas</a></h4>
+    <a href='https://computerhoy.com/apple/steve-jobs-tenia-muy-claro-cancer-grandes-empresas-1232952' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/03/steve-jobs-2280383.jpg?tf=1200x' alt='Steve Jobs lo tenía muy claro: este es el cáncer de las grandes empresas' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/mejores/radios-android-auto-1232748'>Mejores radios con Android Auto que deberías comprar para tu coche</a></h4>
-    <a href='https://computerhoy.com/mejores/radios-android-auto-1232748' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/android-auto-bmw-3012754.jpg?tf=1200x' alt='Mejores radios con Android Auto que deberías comprar para tu coche' />
+    <h4><a href='https://computerhoy.com/apple/tim-cook-asegura-ia-forma-parte-todos-productos-apple-1232876'>Tim Cook asegura que la IA forma parte de todos los productos de Apple</a></h4>
+    <a href='https://computerhoy.com/apple/tim-cook-asegura-ia-forma-parte-todos-productos-apple-1232876' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/03/tim-cook.jpg?tf=1200x' alt='Tim Cook asegura que la IA forma parte de todos los productos de Apple' />
     </a>
 </div>
 
