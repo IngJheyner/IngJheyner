@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/mejores/tablets-lenovo-1231598'>Cuáles son las mejores tablets de Lenovo que puedes comprar </a></h4>
+    <a href='https://computerhoy.com/mejores/tablets-lenovo-1231598' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/tab-p11-pro-3010854.jpg?tf=1200x' alt='Cuáles son las mejores tablets de Lenovo que puedes comprar ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/moviles/inocente-funcion-movil-prohibida-japon-corea-1232556'>La opción antipervertidos del móvil que es obligatorio usar en Japón y Corea</a></h4>
+    <a href='https://computerhoy.com/moviles/inocente-funcion-movil-prohibida-japon-corea-1232556' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/opcion-antipervertidos-movil-obligatorio-usar-japon-corea-3012400.jpg?tf=1200x' alt='La opción antipervertidos del móvil que es obligatorio usar en Japón y Corea' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/energia/caza-vecinos-gorrones-aprovechan-luz-trasteros-comunitarios-1232306'>Así se caza a los vecinos gorrones que se aprovechan de la luz de los trasteros comunitarios</a></h4>
+    <a href='https://computerhoy.com/energia/caza-vecinos-gorrones-aprovechan-luz-trasteros-comunitarios-1232306' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/cables-hogar-3012168.jpg?tf=1200x' alt='Así se caza a los vecinos gorrones que se aprovechan de la luz de los trasteros comunitarios' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/motor/byd-disus-coche-puede-botar-saltar-rodar-sin-rueda-1232550'>BYD presenta un coche que puede botar, saltar, y rodar sin una rueda</a></h4>
     <a href='https://computerhoy.com/motor/byd-disus-coche-puede-botar-saltar-rodar-sin-rueda-1232550' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/byd-presenta-coche-puede-botar-saltar-rodar-rueda-3012396.jpg?tf=1200x' alt='BYD presenta un coche que puede botar, saltar, y rodar sin una rueda' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/espacio/como-ver-eclipse-solar-hibrido-20-abril-1232548'>El 20 de abril tenemos un raro eclipse solar híbrido, que solo ocurre unas pocas veces en un siglo</a></h4>
     <a href='https://computerhoy.com/espacio/como-ver-eclipse-solar-hibrido-20-abril-1232548' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/semana-tendremos-raro-eclipse-solar-hibrido-solo-ocurre-unas-pocas-veces-siglo-3012180.jpg?tf=1200x' alt='El 20 de abril tenemos un raro eclipse solar híbrido, que solo ocurre unas pocas veces en un siglo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/gaming/monster-hunter-now-nuevo-juego-niantic-exito-pokemon-go-1232282'>Monster Hunter Now: así es el nuevo juego de Niantic tras el éxito de Pokémon Go</a></h4>
-    <a href='https://computerhoy.com/gaming/monster-hunter-now-nuevo-juego-niantic-exito-pokemon-go-1232282' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/monster-hunter-rise-sunbreak-2873621.jpg?tf=1200x' alt='Monster Hunter Now: así es el nuevo juego de Niantic tras el éxito de Pokémon Go' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/netflix-cierra-alquiler-dvd-blu-ray-1232318'>Después de 25 años, Netflix deja de alquilar discos DVD y Blu-ray</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/netflix-cierra-alquiler-dvd-blu-ray-1232318' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/despues-25-anos-netflix-deja-alquilar-dvds-3012172.jpg?tf=1200x' alt='Después de 25 años, Netflix deja de alquilar discos DVD y Blu-ray' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/redes-sociales/instagram-profesionaliza-ahora-podras-anadir-5-enlaces-biografia-1232280'>Instagram se profesionaliza y ahora podrás añadir hasta 5 enlaces en tu biografía</a></h4>
-    <a href='https://computerhoy.com/redes-sociales/instagram-profesionaliza-ahora-podras-anadir-5-enlaces-biografia-1232280' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/instagram-2992538.jpg?tf=1200x' alt='Instagram se profesionaliza y ahora podrás añadir hasta 5 enlaces en tu biografía' />
     </a>
 </div>
 
