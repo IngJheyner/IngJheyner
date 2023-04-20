@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/despega-exito-cohete-spacex-nos-llevara-luna-explota-lanzamiento-1233530'>Despega con éxito el cohete de SpaceX que nos llevará a la Luna y explota tras su lanzamiento</a></h4>
-    <a href='https://computerhoy.com/espacio/despega-exito-cohete-spacex-nos-llevara-luna-explota-lanzamiento-1233530' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/despega-exito-cohete-spacex-nos-llevara-luna-explosion-final-estaba-prevista-3014330.jpg?tf=1200x' alt='Despega con éxito el cohete de SpaceX que nos llevará a la Luna y explota tras su lanzamiento' />
+    <h4><a href='https://computerhoy.com/alimentacion/productos-roban-supermercados-espanoles-ojo-madrid-valencia-1233592'>Los productos que más se roban en los supermercados españoles: ¡ojo con Madrid y Valencia!</a></h4>
+    <a href='https://computerhoy.com/alimentacion/productos-roban-supermercados-espanoles-ojo-madrid-valencia-1233592' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/robo-supermercado-3014478.jpg?tf=1200x' alt='Los productos que más se roban en los supermercados españoles: ¡ojo con Madrid y Valencia!' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/puedes-enganar-chatgpt-otras-ia-obtener-respuestas-prohibidas-1233488'>Así puedes engañar a ChatGPT y otras IA para obtener respuestas prohibidas</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/puedes-enganar-chatgpt-otras-ia-obtener-respuestas-prohibidas-1233488' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/cuidado-hablas-chatgpt-4-consejos-tener-cuenta-evitar-problemas-3010418.jpg?tf=1200x' alt='Así puedes engañar a ChatGPT y otras IA para obtener respuestas prohibidas' />
+    <h4><a href='https://computerhoy.com/espacio/radio-taxi-argentina-cuela-caminata-espacial-1233536'>Una radio taxi argentina se cuela en una caminata espacial</a></h4>
+    <a href='https://computerhoy.com/espacio/radio-taxi-argentina-cuela-caminata-espacial-1233536' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/imagen-satelite-galileo-2942156.jpg?tf=1200x' alt='Una radio taxi argentina se cuela en una caminata espacial' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/legislacion/ya-hay-fecha-cargador-universal-espana-condiciones-posibles-consecuencias-1233458'>Ya hay fecha para el cargador universal en España: condiciones y posibles consecuencias</a></h4>
-    <a href='https://computerhoy.com/legislacion/ya-hay-fecha-cargador-universal-espana-condiciones-posibles-consecuencias-1233458' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/ya-sabemos-dia-todos-moviles-tendran-usar-cargador-usb-tipo-c-europa-incluido-iphone-2895718.jpg?tf=1200x' alt='Ya hay fecha para el cargador universal en España: condiciones y posibles consecuencias' />
+    <h4><a href='https://computerhoy.com/tecnologia/sera-fin-papel-higienico-tecnologia-podria-reemplazar-siempre-1233576'>¿Será el fin del papel higiénico? Esta tecnología lo podría reemplazar para siempre</a></h4>
+    <a href='https://computerhoy.com/tecnologia/sera-fin-papel-higienico-tecnologia-podria-reemplazar-siempre-1233576' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/persona-yendo-bano-3014438.jpg?tf=1200x' alt='¿Será el fin del papel higiénico? Esta tecnología lo podría reemplazar para siempre' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/hardware/cual-es-cantidad-memoria-ram-adecuada-mi-pc-61856'>¿Cuál es la cantidad de memoria RAM adecuada para mi PC?</a></h4>
-    <a href='https://computerhoy.com/noticias/hardware/cual-es-cantidad-memoria-ram-adecuada-mi-pc-61856' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2017/05/236640-cual-es-cantidad-memoria-ram-adecuada-mi-pc.jpg?tf=1200x' alt='¿Cuál es la cantidad de memoria RAM adecuada para mi PC?' />
+    <h4><a href='https://computerhoy.com/software/chatgpt-sale-competencia-stable-diffusion-lanza-stablelm-1233534'>A ChatGPT le sale competencia: Stable Diffusion lanza StableLM</a></h4>
+    <a href='https://computerhoy.com/software/chatgpt-sale-competencia-stable-diffusion-lanza-stablelm-1233534' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/chatgpt-sale-competencia-stable-diffusion-lanza-stablelm-3014382.jpg?tf=1200x' alt='A ChatGPT le sale competencia: Stable Diffusion lanza StableLM' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/bill-gates-asegura-ia-sera-tan-buen-profesor-como-cualquier-ser-humano-1233468'>Bill Gates asegura que la IA será tan buen profesor como cualquier ser humano</a></h4>
-    <a href='https://computerhoy.com/bill-gates-asegura-ia-sera-tan-buen-profesor-como-cualquier-ser-humano-1233468' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/bill-gates-2979764.jpg?tf=1200x' alt='Bill Gates asegura que la IA será tan buen profesor como cualquier ser humano' />
+    <h4><a href='https://computerhoy.com/hogar/nuevas-ofertas-aspiradora-dyson-1233292'>Tienes otra oportunidad para comprar una aspiradora Dyson en oferta y hemos encontrado estos chollos</a></h4>
+    <a href='https://computerhoy.com/hogar/nuevas-ofertas-aspiradora-dyson-1233292' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/dyson-v15-detect-3013790.jpg?tf=1200x' alt='Tienes otra oportunidad para comprar una aspiradora Dyson en oferta y hemos encontrado estos chollos' />
     </a>
 </div>
 
