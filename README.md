@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/xiaomi-mijia-pulse-water-gun-pistola-agua-alta-precision-xiaomi-1232978'>Xiaomi Mijia Pulse Water Gun, la escopeta de agua de alta precisión de Xiaomi con pantalla LED y batería recargable</a></h4>
+    <a href='https://computerhoy.com/life/xiaomi-mijia-pulse-water-gun-pistola-agua-alta-precision-xiaomi-1232978' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/xiaomi-mijia-pulse-water-gun-pistola-agua-alta-precision-xiaomi-3013382.jpg?tf=1200x' alt='Xiaomi Mijia Pulse Water Gun, la escopeta de agua de alta precisión de Xiaomi con pantalla LED y batería recargable' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/google/bard-peor-inutil-mentirosa-compulsiva-empleados-google-1232972'>Empleados de Google dicen que la inteligencia artificial Bard es 'peor que inútil' y 'una mentirosa compulsiva'</a></h4>
+    <a href='https://computerhoy.com/google/bard-peor-inutil-mentirosa-compulsiva-empleados-google-1232972' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/empleados-google-dicen-bard-peor-inutil-mentirosa-compulsiva-3013356.jpg?tf=1200x' alt='Empleados de Google dicen que la inteligencia artificial Bard es 'peor que inútil' y 'una mentirosa compulsiva'' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/dia-vieja-red-telefonos-fijos-cumple-siglo-telefonica-cierra-1232936'>El día en que la vieja red de teléfonos fijos cumple un siglo, Telefónica la cierra</a></h4>
+    <a href='https://computerhoy.com/tecnologia/dia-vieja-red-telefonos-fijos-cumple-siglo-telefonica-cierra-1232936' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/cabina-telefonica-2536975.jpg?tf=1200x' alt='El día en que la vieja red de teléfonos fijos cumple un siglo, Telefónica la cierra' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/espacio/china-deja-ia-controle-satelite-militar-hace-bastante-inquietante-1232938'>China deja que una IA controle un satélite militar, y lo que hace es bastante inquietante</a></h4>
     <a href='https://computerhoy.com/espacio/china-deja-ia-controle-satelite-militar-hace-bastante-inquietante-1232938' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/04/satelite-orbita-1921573.jpg?tf=1200x' alt='China deja que una IA controle un satélite militar, y lo que hace es bastante inquietante' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/redes-sociales/reddit-quiere-parte-pastel-haber-ayudado-entrenar-ias-1232934'>Reddit quiere su parte del pastel por haber ayudado a entrenar a las IAs</a></h4>
     <a href='https://computerhoy.com/redes-sociales/reddit-quiere-parte-pastel-haber-ayudado-entrenar-ias-1232934' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/01/reddit-2213439.jpg?tf=1200x' alt='Reddit quiere su parte del pastel por haber ayudado a entrenar a las IAs' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/streaming/dialogos-series-peliculas-suenan-prime-video-tiene-solucion-1232878'>¿Los diálogos de las series y películas suenan bajo? Prime Video tiene la solución</a></h4>
-    <a href='https://computerhoy.com/streaming/dialogos-series-peliculas-suenan-prime-video-tiene-solucion-1232878' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/amazon-prime-video-2891348.jpg?tf=1200x' alt='¿Los diálogos de las series y películas suenan bajo? Prime Video tiene la solución' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/streaming/netflix-contenta-fin-cuentas-compartidas-llegan-estados-unidos-1232960'>Netflix dice que el fin de las cuentas compartidas 'ha ido bien', lo va a implantar en Estados Unidos</a></h4>
-    <a href='https://computerhoy.com/streaming/netflix-contenta-fin-cuentas-compartidas-llegan-estados-unidos-1232960' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/acabo-plazo-elegir-ubicacion-principal-netflix-pasa-ahora-2963196.jpg?tf=1200x' alt='Netflix dice que el fin de las cuentas compartidas 'ha ido bien', lo va a implantar en Estados Unidos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/alimentacion/peligroso-truco-viral-servilleta-no-tener-limpiar-placa-induccion-1232954'>¿Es peligroso el truco viral de la servilleta para no tener que limpiar la placa de inducción?</a></h4>
-    <a href='https://computerhoy.com/alimentacion/peligroso-truco-viral-servilleta-no-tener-limpiar-placa-induccion-1232954' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/placa-induccion-3013344.jpg?tf=1200x' alt='¿Es peligroso el truco viral de la servilleta para no tener que limpiar la placa de inducción?' />
     </a>
 </div>
 
