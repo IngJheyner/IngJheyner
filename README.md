@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/mejores-neumaticos-2023-ocu-40000-kilometros-diferencia-1233432'>Los mejores neumáticos de 2023 según la OCU: ¡hasta 40.000 kilómetros de diferencia!</a></h4>
-    <a href='https://computerhoy.com/motor/mejores-neumaticos-2023-ocu-40000-kilometros-diferencia-1233432' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/neumaticos-2740725.jpg?tf=1200x' alt='Los mejores neumáticos de 2023 según la OCU: ¡hasta 40.000 kilómetros de diferencia!' />
+    <h4><a href='https://computerhoy.com/espacio/despega-exito-cohete-spacex-nos-llevara-luna-explota-lanzamiento-1233530'>Despega con éxito el cohete de SpaceX que nos llevará a la Luna y explota tras su lanzamiento</a></h4>
+    <a href='https://computerhoy.com/espacio/despega-exito-cohete-spacex-nos-llevara-luna-explota-lanzamiento-1233530' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/despega-exito-cohete-spacex-nos-llevara-luna-explosion-final-estaba-prevista-3014330.jpg?tf=1200x' alt='Despega con éxito el cohete de SpaceX que nos llevará a la Luna y explota tras su lanzamiento' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/gaming/alertan-error-muy-comun-puede-dejar-nintendo-switch-como-pisapapeles-1233380'>Alertan de un error muy común que puede dejar tu Nintendo Switch como un pisapapeles</a></h4>
-    <a href='https://computerhoy.com/gaming/alertan-error-muy-comun-puede-dejar-nintendo-switch-como-pisapapeles-1233380' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/persona-jugando-animal-crossing-nintendo-switch-2792563.jpg?tf=1200x' alt='Alertan de un error muy común que puede dejar tu Nintendo Switch como un pisapapeles' />
+    <h4><a href='https://computerhoy.com/ciberseguridad/puedes-enganar-chatgpt-otras-ia-obtener-respuestas-prohibidas-1233488'>Así puedes engañar a ChatGPT y otras IA para obtener respuestas prohibidas</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/puedes-enganar-chatgpt-otras-ia-obtener-respuestas-prohibidas-1233488' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/cuidado-hablas-chatgpt-4-consejos-tener-cuenta-evitar-problemas-3010418.jpg?tf=1200x' alt='Así puedes engañar a ChatGPT y otras IA para obtener respuestas prohibidas' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/redes-sociales/elon-musk-amenaza-demandar-microsoft-utilizar-datos-twitter-entrenar-ia-1233388'>Elon Musk amenaza con demandar a Microsoft por utilizar datos de Twitter para entrenar su IA</a></h4>
-    <a href='https://computerhoy.com/redes-sociales/elon-musk-amenaza-demandar-microsoft-utilizar-datos-twitter-entrenar-ia-1233388' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/elon-musk-bill-gates-2994776.jpg?tf=1200x' alt='Elon Musk amenaza con demandar a Microsoft por utilizar datos de Twitter para entrenar su IA' />
+    <h4><a href='https://computerhoy.com/legislacion/ya-hay-fecha-cargador-universal-espana-condiciones-posibles-consecuencias-1233458'>Ya hay fecha para el cargador universal en España: condiciones y posibles consecuencias</a></h4>
+    <a href='https://computerhoy.com/legislacion/ya-hay-fecha-cargador-universal-espana-condiciones-posibles-consecuencias-1233458' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/ya-sabemos-dia-todos-moviles-tendran-usar-cargador-usb-tipo-c-europa-incluido-iphone-2895718.jpg?tf=1200x' alt='Ya hay fecha para el cargador universal en España: condiciones y posibles consecuencias' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/barra-tareas-windows-11-recupera-caracteristica-clasica-todos-echabamos-menos-1233340'>La barra de tareas de Windows 11 recupera una característica clásica que todos echábamos de menos</a></h4>
-    <a href='https://computerhoy.com/windows/barra-tareas-windows-11-recupera-caracteristica-clasica-todos-echabamos-menos-1233340' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/barra-tareas-windows-11-recupera-caracteristica-clasica-todos-echabamos-menos-3013954.jpg?tf=1200x' alt='La barra de tareas de Windows 11 recupera una característica clásica que todos echábamos de menos' />
+    <h4><a href='https://computerhoy.com/noticias/hardware/cual-es-cantidad-memoria-ram-adecuada-mi-pc-61856'>¿Cuál es la cantidad de memoria RAM adecuada para mi PC?</a></h4>
+    <a href='https://computerhoy.com/noticias/hardware/cual-es-cantidad-memoria-ram-adecuada-mi-pc-61856' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2017/05/236640-cual-es-cantidad-memoria-ram-adecuada-mi-pc.jpg?tf=1200x' alt='¿Cuál es la cantidad de memoria RAM adecuada para mi PC?' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-saber-datos-personales-estan-venta-deep-web-1233316'>Cómo saber si tus datos personales están a la venta en la 'Deep web'</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-saber-datos-personales-estan-venta-deep-web-1233316' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/como-saber-datos-personales-estan-venta-deep-web-3013900.jpg?tf=1200x' alt='Cómo saber si tus datos personales están a la venta en la 'Deep web'' />
+    <h4><a href='https://computerhoy.com/bill-gates-asegura-ia-sera-tan-buen-profesor-como-cualquier-ser-humano-1233468'>Bill Gates asegura que la IA será tan buen profesor como cualquier ser humano</a></h4>
+    <a href='https://computerhoy.com/bill-gates-asegura-ia-sera-tan-buen-profesor-como-cualquier-ser-humano-1233468' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/bill-gates-2979764.jpg?tf=1200x' alt='Bill Gates asegura que la IA será tan buen profesor como cualquier ser humano' />
     </a>
 </div>
 
