@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/redes-sociales/ahora-twitter-dice-adios-marca-verificacion-azul-no-estas-suscrito-1233242'>Esta es la de verdad: Twitter eliminará hoy la insignia de verificación azul a no ser que pagues por ella</a></h4>
+    <a href='https://computerhoy.com/redes-sociales/ahora-twitter-dice-adios-marca-verificacion-azul-no-estas-suscrito-1233242' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/verdad-twitter-eliminara-hoy-insignia-verificacion-no-ser-pagues-ella-3013732.jpg?tf=1200x' alt='Esta es la de verdad: Twitter eliminará hoy la insignia de verificación azul a no ser que pagues por ella' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/streaming/suscripcion-oculta-netflix-merece-pena-ahora-plan-anuncios-ha-mejorado-1232966'>La suscripción oculta de Netflix: ¿merece la pena ahora que el plan con anuncios ha mejorado?</a></h4>
+    <a href='https://computerhoy.com/streaming/suscripcion-oculta-netflix-merece-pena-ahora-plan-anuncios-ha-mejorado-1232966' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/netflix-3013734.jpg?tf=1200x' alt='La suscripción oculta de Netflix: ¿merece la pena ahora que el plan con anuncios ha mejorado?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/software/heart-my-sleeve-cancion-ia-weeknd-drake-pone-jaque-google-1232982'>'Heart on my Sleeve': la canción de The Weeknd y Drake creada por una IA, un serio problema para Google</a></h4>
+    <a href='https://computerhoy.com/software/heart-my-sleeve-cancion-ia-weeknd-drake-pone-jaque-google-1232982' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/psp-oro-drake-2932442.jpg?tf=1200x' alt=''Heart on my Sleeve': la canción de The Weeknd y Drake creada por una IA, un serio problema para Google' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/retrasar-rapido-desarrollo-ia-6-meses-buena-mala-idea-1227772'>Retrasar el desarrollo de la IA 6 meses por su "potencial peligro": ¿es buena o mala idea?</a></h4>
     <a href='https://computerhoy.com/tecnologia/retrasar-rapido-desarrollo-ia-6-meses-buena-mala-idea-1227772' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/retrasar-desarrollo-ia-6-meses-potencial-peligro-favor-3009514.jpg?tf=1200x' alt='Retrasar el desarrollo de la IA 6 meses por su "potencial peligro": ¿es buena o mala idea?' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/espacio/sara-garcia-primera-astronauta-espanola-duras-pruebas-1233222'>Las duras pruebas que Sara García tuvo que superar para convertirse en la astronauta que podría viajar a la Luna</a></h4>
     <a href='https://computerhoy.com/espacio/sara-garcia-primera-astronauta-espanola-duras-pruebas-1233222' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/duras-pruebas-sara-garcia-tuvo-superar-convertirse-astronauta-agencia-espacial-europea-3013704.jpg?tf=1200x' alt='Las duras pruebas que Sara García tuvo que superar para convertirse en la astronauta que podría viajar a la Luna' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/mejores-moviles-regalar-dia-madre-1232750'>Estos son los móviles que te aconsejamos comprar por el Día de la Madre</a></h4>
-    <a href='https://computerhoy.com/moviles/mejores-moviles-regalar-dia-madre-1232750' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/mujer-mediana-edad-telefono-movil-3012800.jpg?tf=1200x' alt='Estos son los móviles que te aconsejamos comprar por el Día de la Madre' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/zoo-gears-instrumento-musical-perros-inteligencia-artificial-video-1233212'>Zoo Gears, el instrumento musical para perros con inteligencia artificial (vídeo)</a></h4>
-    <a href='https://computerhoy.com/life/zoo-gears-instrumento-musical-perros-inteligencia-artificial-video-1233212' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/verticalimage1681960705818-3013702.jpg?tf=1200x' alt='Zoo Gears, el instrumento musical para perros con inteligencia artificial (vídeo)' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/no-hemos-vuelto-luna-50-anos-1232944'>¿Por qué no hemos vuelto a la Luna en 50 años? La respuesta de la NASA es deprimente</a></h4>
-    <a href='https://computerhoy.com/ciencia/no-hemos-vuelto-luna-50-anos-1232944' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/luna-2983236.jpg?tf=1200x' alt='¿Por qué no hemos vuelto a la Luna en 50 años? La respuesta de la NASA es deprimente' />
     </a>
 </div>
 
