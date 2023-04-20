@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/redes-sociales/imgur-elimina-porno-todas-imagenes-anonimas-reddit-1233608'>El almacén de imágenes Imgur elimina el porno y el contenido anónimo, borrando para siempre una década de la memoria de Internet</a></h4>
+    <a href='https://computerhoy.com/redes-sociales/imgur-elimina-porno-todas-imagenes-anonimas-reddit-1233608' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/almacen-imagenes-imgur-elimina-porno-todas-contenido-anonimo-borrando-siempre-decada-memoria-internet-3014490.jpg?tf=1200x' alt='El almacén de imágenes Imgur elimina el porno y el contenido anónimo, borrando para siempre una década de la memoria de Internet' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/cientificos-descubren-modo-revertir-aparicion-canas-pelo-1233596'>Científicos descubren un modo de revertir la aparición de las canas en el pelo</a></h4>
+    <a href='https://computerhoy.com/life/cientificos-descubren-modo-revertir-aparicion-canas-pelo-1233596' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/canas-3014484.jpg?tf=1200x' alt='Científicos descubren un modo de revertir la aparición de las canas en el pelo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/alimentacion/productos-roban-supermercados-espanoles-ojo-madrid-valencia-1233592'>Los productos que más se roban en los supermercados españoles: ¡ojo con Madrid y Valencia!</a></h4>
     <a href='https://computerhoy.com/alimentacion/productos-roban-supermercados-espanoles-ojo-madrid-valencia-1233592' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/robo-supermercado-3014478.jpg?tf=1200x' alt='Los productos que más se roban en los supermercados españoles: ¡ojo con Madrid y Valencia!' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/sera-fin-papel-higienico-tecnologia-podria-reemplazar-siempre-1233576'>¿Será el fin del papel higiénico? Esta tecnología lo podría reemplazar para siempre</a></h4>
     <a href='https://computerhoy.com/tecnologia/sera-fin-papel-higienico-tecnologia-podria-reemplazar-siempre-1233576' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/persona-yendo-bano-3014438.jpg?tf=1200x' alt='¿Será el fin del papel higiénico? Esta tecnología lo podría reemplazar para siempre' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/software/chatgpt-sale-competencia-stable-diffusion-lanza-stablelm-1233534'>A ChatGPT le sale competencia: Stable Diffusion lanza StableLM</a></h4>
-    <a href='https://computerhoy.com/software/chatgpt-sale-competencia-stable-diffusion-lanza-stablelm-1233534' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/chatgpt-sale-competencia-stable-diffusion-lanza-stablelm-3014382.jpg?tf=1200x' alt='A ChatGPT le sale competencia: Stable Diffusion lanza StableLM' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/hogar/nuevas-ofertas-aspiradora-dyson-1233292'>Tienes otra oportunidad para comprar una aspiradora Dyson en oferta y hemos encontrado estos chollos</a></h4>
-    <a href='https://computerhoy.com/hogar/nuevas-ofertas-aspiradora-dyson-1233292' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/dyson-v15-detect-3013790.jpg?tf=1200x' alt='Tienes otra oportunidad para comprar una aspiradora Dyson en oferta y hemos encontrado estos chollos' />
     </a>
 </div>
 
