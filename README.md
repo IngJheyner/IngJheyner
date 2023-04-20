@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-saber-datos-personales-estan-venta-deep-web-1233316'>Cómo saber si tus datos personales están a la venta en la 'Deep web'</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-saber-datos-personales-estan-venta-deep-web-1233316' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/como-saber-datos-personales-estan-venta-deep-web-3013900.jpg?tf=1200x' alt='Cómo saber si tus datos personales están a la venta en la 'Deep web'' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tv/hisense-70e7hq-smart-tv-70-pulgadas-gran-descuento-1233294'>La Smart TV de 70 pulgadas 4K y con panel QLED de Hisense tiene 400€ de descuento por tiempo limitado</a></h4>
+    <a href='https://computerhoy.com/tv/hisense-70e7hq-smart-tv-70-pulgadas-gran-descuento-1233294' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/hisense-70e7hq-3013864.jpg?tf=1200x' alt='La Smart TV de 70 pulgadas 4K y con panel QLED de Hisense tiene 400€ de descuento por tiempo limitado' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/recupera-chiste-episodio-simpson-llevaba-oculto-30-anos-1233274'>Recupera un chiste de un episodio de Los Simpson que llevaba oculto más de 30 años</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/recupera-chiste-episodio-simpson-llevaba-oculto-30-anos-1233274' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/03/simpson-homer-estrangulando-bart-1893363.jpg?tf=1200x' alt='Recupera un chiste de un episodio de Los Simpson que llevaba oculto más de 30 años' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/industria/microsoft-cerrar-samsung-sustituir-google-bing-moviles-1233270'>Por qué Microsoft debería pagar a Samsung lo que le cueste sustituir Google Search en sus móviles por Bing</a></h4>
+    <a href='https://computerhoy.com/industria/microsoft-cerrar-samsung-sustituir-google-bing-moviles-1233270' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/he-pasado-semana-probando-3-personalidades-bing-2992354.jpg?tf=1200x' alt='Por qué Microsoft debería pagar a Samsung lo que le cueste sustituir Google Search en sus móviles por Bing' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/redes-sociales/ahora-twitter-dice-adios-marca-verificacion-azul-no-estas-suscrito-1233242'>Esta es la de verdad: Twitter eliminará hoy la insignia de verificación azul a no ser que pagues por ella</a></h4>
     <a href='https://computerhoy.com/redes-sociales/ahora-twitter-dice-adios-marca-verificacion-azul-no-estas-suscrito-1233242' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/verdad-twitter-eliminara-hoy-insignia-verificacion-no-ser-pagues-ella-3013732.jpg?tf=1200x' alt='Esta es la de verdad: Twitter eliminará hoy la insignia de verificación azul a no ser que pagues por ella' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/streaming/suscripcion-oculta-netflix-merece-pena-ahora-plan-anuncios-ha-mejorado-1232966'>La suscripción oculta de Netflix: ¿merece la pena ahora que el plan con anuncios ha mejorado?</a></h4>
-    <a href='https://computerhoy.com/streaming/suscripcion-oculta-netflix-merece-pena-ahora-plan-anuncios-ha-mejorado-1232966' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/netflix-3013734.jpg?tf=1200x' alt='La suscripción oculta de Netflix: ¿merece la pena ahora que el plan con anuncios ha mejorado?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/software/heart-my-sleeve-cancion-ia-weeknd-drake-pone-jaque-google-1232982'>'Heart on my Sleeve': la canción de The Weeknd y Drake creada por una IA, un serio problema para Google</a></h4>
-    <a href='https://computerhoy.com/software/heart-my-sleeve-cancion-ia-weeknd-drake-pone-jaque-google-1232982' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/psp-oro-drake-2932442.jpg?tf=1200x' alt=''Heart on my Sleeve': la canción de The Weeknd y Drake creada por una IA, un serio problema para Google' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/retrasar-rapido-desarrollo-ia-6-meses-buena-mala-idea-1227772'>Retrasar el desarrollo de la IA 6 meses por su "potencial peligro": ¿es buena o mala idea?</a></h4>
-    <a href='https://computerhoy.com/tecnologia/retrasar-rapido-desarrollo-ia-6-meses-buena-mala-idea-1227772' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/retrasar-desarrollo-ia-6-meses-potencial-peligro-favor-3009514.jpg?tf=1200x' alt='Retrasar el desarrollo de la IA 6 meses por su "potencial peligro": ¿es buena o mala idea?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/sara-garcia-primera-astronauta-espanola-duras-pruebas-1233222'>Las duras pruebas que Sara García tuvo que superar para convertirse en la astronauta que podría viajar a la Luna</a></h4>
-    <a href='https://computerhoy.com/espacio/sara-garcia-primera-astronauta-espanola-duras-pruebas-1233222' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/duras-pruebas-sara-garcia-tuvo-superar-convertirse-astronauta-agencia-espacial-europea-3013704.jpg?tf=1200x' alt='Las duras pruebas que Sara García tuvo que superar para convertirse en la astronauta que podría viajar a la Luna' />
     </a>
 </div>
 
