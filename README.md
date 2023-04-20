@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/bicicleta-rueda-partida-dos-funciona-video-1233210'>La bicicleta con la rueda partida en dos, que realmente funciona (vídeo)</a></h4>
+    <a href='https://computerhoy.com/life/bicicleta-rueda-partida-dos-funciona-video-1233210' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/bicicleta-rueda-partida-dos-realmente-funciona-video-3013466.jpg?tf=1200x' alt='La bicicleta con la rueda partida en dos, que realmente funciona (vídeo)' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/xiaomi-mijia-pulse-water-gun-pistola-agua-alta-precision-xiaomi-1232978'>Xiaomi Mijia Pulse Water Gun, la escopeta de agua de alta precisión de Xiaomi con pantalla LED y batería recargable</a></h4>
     <a href='https://computerhoy.com/life/xiaomi-mijia-pulse-water-gun-pistola-agua-alta-precision-xiaomi-1232978' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/xiaomi-mijia-pulse-water-gun-pistola-agua-alta-precision-xiaomi-3013382.jpg?tf=1200x' alt='Xiaomi Mijia Pulse Water Gun, la escopeta de agua de alta precisión de Xiaomi con pantalla LED y batería recargable' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/espacio/china-deja-ia-controle-satelite-militar-hace-bastante-inquietante-1232938'>China deja que una IA controle un satélite militar, y lo que hace es bastante inquietante</a></h4>
     <a href='https://computerhoy.com/espacio/china-deja-ia-controle-satelite-militar-hace-bastante-inquietante-1232938' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/04/satelite-orbita-1921573.jpg?tf=1200x' alt='China deja que una IA controle un satélite militar, y lo que hace es bastante inquietante' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/redes-sociales/reddit-quiere-parte-pastel-haber-ayudado-entrenar-ias-1232934'>Reddit quiere su parte del pastel por haber ayudado a entrenar a las IAs</a></h4>
-    <a href='https://computerhoy.com/redes-sociales/reddit-quiere-parte-pastel-haber-ayudado-entrenar-ias-1232934' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/01/reddit-2213439.jpg?tf=1200x' alt='Reddit quiere su parte del pastel por haber ayudado a entrenar a las IAs' />
     </a>
 </div>
 
