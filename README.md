@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/motor/mejores-neumaticos-2023-ocu-40000-kilometros-diferencia-1233432'>Los mejores neumáticos de 2023 según la OCU: ¡hasta 40.000 kilómetros de diferencia!</a></h4>
+    <a href='https://computerhoy.com/motor/mejores-neumaticos-2023-ocu-40000-kilometros-diferencia-1233432' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/neumaticos-2740725.jpg?tf=1200x' alt='Los mejores neumáticos de 2023 según la OCU: ¡hasta 40.000 kilómetros de diferencia!' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/gaming/alertan-error-muy-comun-puede-dejar-nintendo-switch-como-pisapapeles-1233380'>Alertan de un error muy común que puede dejar tu Nintendo Switch como un pisapapeles</a></h4>
+    <a href='https://computerhoy.com/gaming/alertan-error-muy-comun-puede-dejar-nintendo-switch-como-pisapapeles-1233380' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/persona-jugando-animal-crossing-nintendo-switch-2792563.jpg?tf=1200x' alt='Alertan de un error muy común que puede dejar tu Nintendo Switch como un pisapapeles' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/redes-sociales/elon-musk-amenaza-demandar-microsoft-utilizar-datos-twitter-entrenar-ia-1233388'>Elon Musk amenaza con demandar a Microsoft por utilizar datos de Twitter para entrenar su IA</a></h4>
+    <a href='https://computerhoy.com/redes-sociales/elon-musk-amenaza-demandar-microsoft-utilizar-datos-twitter-entrenar-ia-1233388' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/elon-musk-bill-gates-2994776.jpg?tf=1200x' alt='Elon Musk amenaza con demandar a Microsoft por utilizar datos de Twitter para entrenar su IA' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/windows/barra-tareas-windows-11-recupera-caracteristica-clasica-todos-echabamos-menos-1233340'>La barra de tareas de Windows 11 recupera una característica clásica que todos echábamos de menos</a></h4>
+    <a href='https://computerhoy.com/windows/barra-tareas-windows-11-recupera-caracteristica-clasica-todos-echabamos-menos-1233340' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/barra-tareas-windows-11-recupera-caracteristica-clasica-todos-echabamos-menos-3013954.jpg?tf=1200x' alt='La barra de tareas de Windows 11 recupera una característica clásica que todos echábamos de menos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tutoriales/como-saber-datos-personales-estan-venta-deep-web-1233316'>Cómo saber si tus datos personales están a la venta en la 'Deep web'</a></h4>
     <a href='https://computerhoy.com/tutoriales/como-saber-datos-personales-estan-venta-deep-web-1233316' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/como-saber-datos-personales-estan-venta-deep-web-3013900.jpg?tf=1200x' alt='Cómo saber si tus datos personales están a la venta en la 'Deep web'' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tv/hisense-70e7hq-smart-tv-70-pulgadas-gran-descuento-1233294'>La Smart TV de 70 pulgadas 4K y con panel QLED de Hisense tiene 400€ de descuento por tiempo limitado</a></h4>
-    <a href='https://computerhoy.com/tv/hisense-70e7hq-smart-tv-70-pulgadas-gran-descuento-1233294' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/hisense-70e7hq-3013864.jpg?tf=1200x' alt='La Smart TV de 70 pulgadas 4K y con panel QLED de Hisense tiene 400€ de descuento por tiempo limitado' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/recupera-chiste-episodio-simpson-llevaba-oculto-30-anos-1233274'>Recupera un chiste de un episodio de Los Simpson que llevaba oculto más de 30 años</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/recupera-chiste-episodio-simpson-llevaba-oculto-30-anos-1233274' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/03/simpson-homer-estrangulando-bart-1893363.jpg?tf=1200x' alt='Recupera un chiste de un episodio de Los Simpson que llevaba oculto más de 30 años' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/industria/microsoft-cerrar-samsung-sustituir-google-bing-moviles-1233270'>Por qué Microsoft debería pagar a Samsung lo que le cueste sustituir Google Search en sus móviles por Bing</a></h4>
-    <a href='https://computerhoy.com/industria/microsoft-cerrar-samsung-sustituir-google-bing-moviles-1233270' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/he-pasado-semana-probando-3-personalidades-bing-2992354.jpg?tf=1200x' alt='Por qué Microsoft debería pagar a Samsung lo que le cueste sustituir Google Search en sus móviles por Bing' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/redes-sociales/ahora-twitter-dice-adios-marca-verificacion-azul-no-estas-suscrito-1233242'>Esta es la de verdad: Twitter eliminará hoy la insignia de verificación azul a no ser que pagues por ella</a></h4>
-    <a href='https://computerhoy.com/redes-sociales/ahora-twitter-dice-adios-marca-verificacion-azul-no-estas-suscrito-1233242' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/verdad-twitter-eliminara-hoy-insignia-verificacion-no-ser-pagues-ella-3013732.jpg?tf=1200x' alt='Esta es la de verdad: Twitter eliminará hoy la insignia de verificación azul a no ser que pagues por ella' />
     </a>
 </div>
 
