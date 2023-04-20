@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/bicicleta-rueda-partida-dos-funciona-video-1233210'>La bicicleta con la rueda partida en dos, que realmente funciona (vídeo)</a></h4>
-    <a href='https://computerhoy.com/life/bicicleta-rueda-partida-dos-funciona-video-1233210' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/bicicleta-rueda-partida-dos-realmente-funciona-video-3013466.jpg?tf=1200x' alt='La bicicleta con la rueda partida en dos, que realmente funciona (vídeo)' />
+    <h4><a href='https://computerhoy.com/tecnologia/retrasar-rapido-desarrollo-ia-6-meses-buena-mala-idea-1227772'>Retrasar el desarrollo de la IA 6 meses por su "potencial peligro": ¿es buena o mala idea?</a></h4>
+    <a href='https://computerhoy.com/tecnologia/retrasar-rapido-desarrollo-ia-6-meses-buena-mala-idea-1227772' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/retrasar-desarrollo-ia-6-meses-potencial-peligro-favor-3009514.jpg?tf=1200x' alt='Retrasar el desarrollo de la IA 6 meses por su "potencial peligro": ¿es buena o mala idea?' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/xiaomi-mijia-pulse-water-gun-pistola-agua-alta-precision-xiaomi-1232978'>Xiaomi Mijia Pulse Water Gun, la escopeta de agua de alta precisión de Xiaomi con pantalla LED y batería recargable</a></h4>
-    <a href='https://computerhoy.com/life/xiaomi-mijia-pulse-water-gun-pistola-agua-alta-precision-xiaomi-1232978' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/xiaomi-mijia-pulse-water-gun-pistola-agua-alta-precision-xiaomi-3013382.jpg?tf=1200x' alt='Xiaomi Mijia Pulse Water Gun, la escopeta de agua de alta precisión de Xiaomi con pantalla LED y batería recargable' />
+    <h4><a href='https://computerhoy.com/espacio/sara-garcia-primera-astronauta-espanola-duras-pruebas-1233222'>Las duras pruebas que Sara García tuvo que superar para convertirse en la astronauta que podría viajar a la Luna</a></h4>
+    <a href='https://computerhoy.com/espacio/sara-garcia-primera-astronauta-espanola-duras-pruebas-1233222' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/duras-pruebas-sara-garcia-tuvo-superar-convertirse-astronauta-agencia-espacial-europea-3013704.jpg?tf=1200x' alt='Las duras pruebas que Sara García tuvo que superar para convertirse en la astronauta que podría viajar a la Luna' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/bard-peor-inutil-mentirosa-compulsiva-empleados-google-1232972'>Empleados de Google dicen que la inteligencia artificial Bard es 'peor que inútil' y 'una mentirosa compulsiva'</a></h4>
-    <a href='https://computerhoy.com/google/bard-peor-inutil-mentirosa-compulsiva-empleados-google-1232972' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/empleados-google-dicen-bard-peor-inutil-mentirosa-compulsiva-3013356.jpg?tf=1200x' alt='Empleados de Google dicen que la inteligencia artificial Bard es 'peor que inútil' y 'una mentirosa compulsiva'' />
+    <h4><a href='https://computerhoy.com/moviles/mejores-moviles-regalar-dia-madre-1232750'>Estos son los móviles que te aconsejamos comprar por el Día de la Madre</a></h4>
+    <a href='https://computerhoy.com/moviles/mejores-moviles-regalar-dia-madre-1232750' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/mujer-mediana-edad-telefono-movil-3012800.jpg?tf=1200x' alt='Estos son los móviles que te aconsejamos comprar por el Día de la Madre' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/dia-vieja-red-telefonos-fijos-cumple-siglo-telefonica-cierra-1232936'>El día en que la vieja red de teléfonos fijos cumple un siglo, Telefónica la cierra</a></h4>
-    <a href='https://computerhoy.com/tecnologia/dia-vieja-red-telefonos-fijos-cumple-siglo-telefonica-cierra-1232936' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/cabina-telefonica-2536975.jpg?tf=1200x' alt='El día en que la vieja red de teléfonos fijos cumple un siglo, Telefónica la cierra' />
+    <h4><a href='https://computerhoy.com/life/zoo-gears-instrumento-musical-perros-inteligencia-artificial-video-1233212'>Zoo Gears, el instrumento musical para perros con inteligencia artificial (vídeo)</a></h4>
+    <a href='https://computerhoy.com/life/zoo-gears-instrumento-musical-perros-inteligencia-artificial-video-1233212' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/verticalimage1681960705818-3013702.jpg?tf=1200x' alt='Zoo Gears, el instrumento musical para perros con inteligencia artificial (vídeo)' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/china-deja-ia-controle-satelite-militar-hace-bastante-inquietante-1232938'>China deja que una IA controle un satélite militar, y lo que hace es bastante inquietante</a></h4>
-    <a href='https://computerhoy.com/espacio/china-deja-ia-controle-satelite-militar-hace-bastante-inquietante-1232938' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/04/satelite-orbita-1921573.jpg?tf=1200x' alt='China deja que una IA controle un satélite militar, y lo que hace es bastante inquietante' />
+    <h4><a href='https://computerhoy.com/ciencia/no-hemos-vuelto-luna-50-anos-1232944'>¿Por qué no hemos vuelto a la Luna en 50 años? La respuesta de la NASA es deprimente</a></h4>
+    <a href='https://computerhoy.com/ciencia/no-hemos-vuelto-luna-50-anos-1232944' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/luna-2983236.jpg?tf=1200x' alt='¿Por qué no hemos vuelto a la Luna en 50 años? La respuesta de la NASA es deprimente' />
     </a>
 </div>
 
