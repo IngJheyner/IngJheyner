@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/primero-debes-hacer-alquilas-apartamento-1233614'>Esto es lo primero que tienes que hacer si alquilas un apartamento en Japón, y también se aplica a España</a></h4>
+    <a href='https://computerhoy.com/life/primero-debes-hacer-alquilas-apartamento-1233614' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/primero-tienes-hacer-alquilas-apartamento-japon-tambien-aplica-espana-3014502.jpg?tf=1200x' alt='Esto es lo primero que tienes que hacer si alquilas un apartamento en Japón, y también se aplica a España' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/truco-coleta-camarera-ganar-propinas-1233610'>El truco de una camarera para ganar más propinas: 'Es asqueroso, pero tengo que pagar el alquiler'</a></h4>
+    <a href='https://computerhoy.com/life/truco-coleta-camarera-ganar-propinas-1233610' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/truco-camarera-ganar-propinas-asqueroso-pero-tengo-pagar-alquiler-3014498.jpg?tf=1200x' alt='El truco de una camarera para ganar más propinas: 'Es asqueroso, pero tengo que pagar el alquiler'' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/redes-sociales/imgur-elimina-porno-todas-imagenes-anonimas-reddit-1233608'>El almacén de imágenes Imgur elimina el porno y el contenido anónimo, borrando para siempre una década de la memoria de Internet</a></h4>
     <a href='https://computerhoy.com/redes-sociales/imgur-elimina-porno-todas-imagenes-anonimas-reddit-1233608' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/almacen-imagenes-imgur-elimina-porno-todas-contenido-anonimo-borrando-siempre-decada-memoria-internet-3014490.jpg?tf=1200x' alt='El almacén de imágenes Imgur elimina el porno y el contenido anónimo, borrando para siempre una década de la memoria de Internet' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/alimentacion/productos-roban-supermercados-espanoles-ojo-madrid-valencia-1233592'>Los productos que más se roban en los supermercados españoles: ¡ojo con Madrid y Valencia!</a></h4>
     <a href='https://computerhoy.com/alimentacion/productos-roban-supermercados-espanoles-ojo-madrid-valencia-1233592' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/robo-supermercado-3014478.jpg?tf=1200x' alt='Los productos que más se roban en los supermercados españoles: ¡ojo con Madrid y Valencia!' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/radio-taxi-argentina-cuela-caminata-espacial-1233536'>Una radio taxi argentina se cuela en una caminata espacial</a></h4>
-    <a href='https://computerhoy.com/espacio/radio-taxi-argentina-cuela-caminata-espacial-1233536' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/imagen-satelite-galileo-2942156.jpg?tf=1200x' alt='Una radio taxi argentina se cuela en una caminata espacial' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/sera-fin-papel-higienico-tecnologia-podria-reemplazar-siempre-1233576'>¿Será el fin del papel higiénico? Esta tecnología lo podría reemplazar para siempre</a></h4>
-    <a href='https://computerhoy.com/tecnologia/sera-fin-papel-higienico-tecnologia-podria-reemplazar-siempre-1233576' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/persona-yendo-bano-3014438.jpg?tf=1200x' alt='¿Será el fin del papel higiénico? Esta tecnología lo podría reemplazar para siempre' />
     </a>
 </div>
 
