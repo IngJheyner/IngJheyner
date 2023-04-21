@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/alerta-funcion-oculta-permite-ladrones-bloquear-iphone-siempre-1233994'>Una función aparentemente de seguridad permite a los ladrones bloquear tu iPhone para siempre</a></h4>
+    <a href='https://computerhoy.com/apple/alerta-funcion-oculta-permite-ladrones-bloquear-iphone-siempre-1233994' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/sensor-lidar-iphone-14-2921618.jpg?tf=1200x' alt='Una función aparentemente de seguridad permite a los ladrones bloquear tu iPhone para siempre' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/pc/asus-renueva-gama-zenbook-s-diseno-impresionante-pantalla-oled-1233990'>Asus Zenbook S 13 OLED, el portátil OLED de 13,3" más delgado del mundo</a></h4>
     <a href='https://computerhoy.com/pc/asus-renueva-gama-zenbook-s-diseno-impresionante-pantalla-oled-1233990' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/asus-zenbook-s-13-3015168.jpg?tf=1200x' alt='Asus Zenbook S 13 OLED, el portátil OLED de 13,3" más delgado del mundo' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/criptos/termino-criptoinvierno-tendencia-bitcoin-ya-deja-ver-luz-final-tunel-1233880'>¿Terminó el criptoinvierno? la tendencia de Bitcoin ya deja ver luz al final de túnel</a></h4>
     <a href='https://computerhoy.com/criptos/termino-criptoinvierno-tendencia-bitcoin-ya-deja-ver-luz-final-tunel-1233880' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/bitcoin-tiene-totalmente-desconcertados-expertos-2936936.jpg?tf=1200x' alt='¿Terminó el criptoinvierno? la tendencia de Bitcoin ya deja ver luz al final de túnel' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/pasa-pasajero-avion-fallece-durante-vuelo-piloto-1233910'>Lo que pasa si un pasajero de un avión muere durante el vuelo, según un veterano piloto</a></h4>
-    <a href='https://computerhoy.com/life/pasa-pasajero-avion-fallece-durante-vuelo-piloto-1233910' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/avion-airbus-a300-200-puedes-pedir-comidas-bebidas-bar-directamente-pantallas-2799723.jpg?tf=1200x' alt='Lo que pasa si un pasajero de un avión muere durante el vuelo, según un veterano piloto' />
     </a>
 </div>
 
