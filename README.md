@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/alimentacion/comida-moscas-contaminacion-patogenos-1233802'>¿Hay que tirar la comida, si se han posado las moscas?</a></h4>
+    <a href='https://computerhoy.com/alimentacion/comida-moscas-contaminacion-patogenos-1233802' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/hay-tirar-comida-han-posado-moscas-3014682.jpg?tf=1200x' alt='¿Hay que tirar la comida, si se han posado las moscas?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/primero-debes-hacer-alquilas-apartamento-1233614'>Esto es lo primero que tienes que hacer si alquilas un apartamento en Japón, y también se aplica a España</a></h4>
     <a href='https://computerhoy.com/life/primero-debes-hacer-alquilas-apartamento-1233614' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/primero-tienes-hacer-alquilas-apartamento-japon-tambien-aplica-espana-3014502.jpg?tf=1200x' alt='Esto es lo primero que tienes que hacer si alquilas un apartamento en Japón, y también se aplica a España' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/life/cientificos-descubren-modo-revertir-aparicion-canas-pelo-1233596'>Científicos descubren un modo de revertir la aparición de las canas en el pelo</a></h4>
     <a href='https://computerhoy.com/life/cientificos-descubren-modo-revertir-aparicion-canas-pelo-1233596' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/canas-3014484.jpg?tf=1200x' alt='Científicos descubren un modo de revertir la aparición de las canas en el pelo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/alimentacion/productos-roban-supermercados-espanoles-ojo-madrid-valencia-1233592'>Los productos que más se roban en los supermercados españoles: ¡ojo con Madrid y Valencia!</a></h4>
-    <a href='https://computerhoy.com/alimentacion/productos-roban-supermercados-espanoles-ojo-madrid-valencia-1233592' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/robo-supermercado-3014478.jpg?tf=1200x' alt='Los productos que más se roban en los supermercados españoles: ¡ojo con Madrid y Valencia!' />
     </a>
 </div>
 
