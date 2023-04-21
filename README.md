@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-quitar-proteccion-escritura-usb-pendrive-289381'>Cómo quitar la protección contra escritura de un USB o pendrive</a></h4>
-    <a href='https://computerhoy.com/tutoriales/tecnologia/como-quitar-proteccion-escritura-usb-pendrive-289381' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/08/pendrive-usb.jpg?tf=1200x' alt='Cómo quitar la protección contra escritura de un USB o pendrive' />
+    <h4><a href='https://computerhoy.com/entretenimiento/redbox-quiere-comprar-negocio-alquiler-dvds-netflix-1234148'>Redbox quiere comprar el negocio de alquiler de DVDs de Netflix, que prefiere cerrarlo</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/redbox-quiere-comprar-negocio-alquiler-dvds-netflix-1234148' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/netflix-dvd-3015540.jpg?tf=1200x' alt='Redbox quiere comprar el negocio de alquiler de DVDs de Netflix, que prefiere cerrarlo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/estrenos-cine-movistar-plus-mayo-bardem-brendan-fraser-1234114'>Una ballena y un cocodrilo que canta con Bardem, entre los estrenos de cine de Movistar Plus+ de mayo</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/estrenos-cine-movistar-plus-mayo-bardem-brendan-fraser-1234114' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/ballena-cocodrilo-canta-bardem-estrenos-cine-movistar-plus-mayo-3015422.jpg?tf=1200x' alt='Una ballena y un cocodrilo que canta con Bardem, entre los estrenos de cine de Movistar Plus+ de mayo' />
+    <h4><a href='https://computerhoy.com/ciencia/22-millones-animales-tarros-alcohol-entra-tour-virtual-1234150'>Un tour virtual por el museo de los 22 millones de animales metidos en tarros con alcohol (vídeo)</a></h4>
+    <a href='https://computerhoy.com/ciencia/22-millones-animales-tarros-alcohol-entra-tour-virtual-1234150' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/visitamos-museo-20-millones-animales-metidos-tarros-alcohol-3015530.jpg?tf=1200x' alt='Un tour virtual por el museo de los 22 millones de animales metidos en tarros con alcohol (vídeo)' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/gaming/mandos-baratos-nintendo-switch-estos-son-mejores-modelos-momento-1233528'>Mandos baratos para Nintendo Switch: estos son los mejores modelos del momento</a></h4>
-    <a href='https://computerhoy.com/gaming/mandos-baratos-nintendo-switch-estos-son-mejores-modelos-momento-1233528' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/pdp-rock-candy-3014314.jpg?tf=1200x' alt='Mandos baratos para Nintendo Switch: estos son los mejores modelos del momento' />
+    <h4><a href='https://computerhoy.com/google/metodo-google-arreglar-aplicaciones-no-funcionan-deja-mucho-desear-1234088'>El método de Google para arreglar las aplicaciones que no funcionan deja mucho que desear</a></h4>
+    <a href='https://computerhoy.com/google/metodo-google-arreglar-aplicaciones-no-funcionan-deja-mucho-desear-1234088' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/metodo-google-arreglar-aplicaciones-no-funcionan-deja-mucho-desear-3015472.jpg?tf=1200x' alt='El método de Google para arreglar las aplicaciones que no funcionan deja mucho que desear' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/steve-jobs-tiene-clave-exito-laboral-1234078'>Steve Jobs tiene la clave para el éxito laboral: 'Pide y se te dará'</a></h4>
-    <a href='https://computerhoy.com/apple/steve-jobs-tiene-clave-exito-laboral-1234078' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/steve-jobs-2951464.jpg?tf=1200x' alt='Steve Jobs tiene la clave para el éxito laboral: 'Pide y se te dará'' />
+    <h4><a href='https://computerhoy.com/apps/telegram-actualiza-ahora-podras-compartir-carpetas-solo-enviar-enlace-1234092'>Telegram se actualiza: ahora podrás compartir tus carpetas con solo enviar un enlace</a></h4>
+    <a href='https://computerhoy.com/apps/telegram-actualiza-ahora-podras-compartir-carpetas-solo-enviar-enlace-1234092' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/telegram-actualiza-ahora-podras-compartir-carpetas-solo-enviar-enlace-3015442.jpg?tf=1200x' alt='Telegram se actualiza: ahora podrás compartir tus carpetas con solo enviar un enlace' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/digi-sufre-ciberataque-delincuentes-coprometen-datos-personales-clientes-1234090'>DIGI sufre un ciberataque y los delincuentes coprometen los datos personales de clientes</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/digi-sufre-ciberataque-delincuentes-coprometen-datos-personales-clientes-1234090' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/ciberataque-2368113.jpg?tf=1200x' alt='DIGI sufre un ciberataque y los delincuentes coprometen los datos personales de clientes' />
+    <h4><a href='https://computerhoy.com/google/deepmind-google-fusionan-desarrollar-ia-avanzada-mundo-1234142'>DeepMind y Google Research se fusionan para desarrollar la IA más avanzada del mundo, esto es lo que nos espera</a></h4>
+    <a href='https://computerhoy.com/google/deepmind-google-fusionan-desarrollar-ia-avanzada-mundo-1234142' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/desarrolladores-3015524.jpg?tf=1200x' alt='DeepMind y Google Research se fusionan para desarrollar la IA más avanzada del mundo, esto es lo que nos espera' />
     </a>
 </div>
 
