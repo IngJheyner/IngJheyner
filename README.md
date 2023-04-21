@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/alerta-funcion-oculta-permite-ladrones-bloquear-iphone-siempre-1233994'>Una función aparentemente de seguridad permite a los ladrones bloquear tu iPhone para siempre</a></h4>
-    <a href='https://computerhoy.com/apple/alerta-funcion-oculta-permite-ladrones-bloquear-iphone-siempre-1233994' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/sensor-lidar-iphone-14-2921618.jpg?tf=1200x' alt='Una función aparentemente de seguridad permite a los ladrones bloquear tu iPhone para siempre' />
+    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-quitar-proteccion-escritura-usb-pendrive-289381'>Cómo quitar la protección contra escritura de un USB o pendrive</a></h4>
+    <a href='https://computerhoy.com/tutoriales/tecnologia/como-quitar-proteccion-escritura-usb-pendrive-289381' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/08/pendrive-usb.jpg?tf=1200x' alt='Cómo quitar la protección contra escritura de un USB o pendrive' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/asus-renueva-gama-zenbook-s-diseno-impresionante-pantalla-oled-1233990'>Asus Zenbook S 13 OLED, el portátil OLED de 13,3" más delgado del mundo</a></h4>
-    <a href='https://computerhoy.com/pc/asus-renueva-gama-zenbook-s-diseno-impresionante-pantalla-oled-1233990' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/asus-zenbook-s-13-3015168.jpg?tf=1200x' alt='Asus Zenbook S 13 OLED, el portátil OLED de 13,3" más delgado del mundo' />
+    <h4><a href='https://computerhoy.com/entretenimiento/estrenos-cine-movistar-plus-mayo-bardem-brendan-fraser-1234114'>Una ballena y un cocodrilo que canta con Bardem, entre los estrenos de cine de Movistar Plus+ de mayo</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/estrenos-cine-movistar-plus-mayo-bardem-brendan-fraser-1234114' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/ballena-cocodrilo-canta-bardem-estrenos-cine-movistar-plus-mayo-3015422.jpg?tf=1200x' alt='Una ballena y un cocodrilo que canta con Bardem, entre los estrenos de cine de Movistar Plus+ de mayo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/mapa-muestra-como-espana-perdiendo-territorios-emblematicos-1233898'>Este mapa muestra cómo España está "perdiendo" uno de sus territorios más emblemáticos</a></h4>
-    <a href='https://computerhoy.com/life/mapa-muestra-como-espana-perdiendo-territorios-emblematicos-1233898' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/mapa-muestra-como-espana-perdiendo-territorios-emblematicos-3014960.jpg?tf=1200x' alt='Este mapa muestra cómo España está "perdiendo" uno de sus territorios más emblemáticos' />
+    <h4><a href='https://computerhoy.com/gaming/mandos-baratos-nintendo-switch-estos-son-mejores-modelos-momento-1233528'>Mandos baratos para Nintendo Switch: estos son los mejores modelos del momento</a></h4>
+    <a href='https://computerhoy.com/gaming/mandos-baratos-nintendo-switch-estos-son-mejores-modelos-momento-1233528' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/pdp-rock-candy-3014314.jpg?tf=1200x' alt='Mandos baratos para Nintendo Switch: estos son los mejores modelos del momento' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/vivo-x-flip-plegable-dos-pantallas-quiere-terminar-hegemonia-galaxy-z-flip-samsung-1233800'>Vivo X Flip, el plegable con dos pantallas que quiere terminar con la hegemonía del Galaxy Z Flip de Samsung</a></h4>
-    <a href='https://computerhoy.com/moviles/vivo-x-flip-plegable-dos-pantallas-quiere-terminar-hegemonia-galaxy-z-flip-samsung-1233800' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/vivo-x-flip-3014678.jpg?tf=1200x' alt='Vivo X Flip, el plegable con dos pantallas que quiere terminar con la hegemonía del Galaxy Z Flip de Samsung' />
+    <h4><a href='https://computerhoy.com/apple/steve-jobs-tiene-clave-exito-laboral-1234078'>Steve Jobs tiene la clave para el éxito laboral: 'Pide y se te dará'</a></h4>
+    <a href='https://computerhoy.com/apple/steve-jobs-tiene-clave-exito-laboral-1234078' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/steve-jobs-2951464.jpg?tf=1200x' alt='Steve Jobs tiene la clave para el éxito laboral: 'Pide y se te dará'' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/criptos/termino-criptoinvierno-tendencia-bitcoin-ya-deja-ver-luz-final-tunel-1233880'>¿Terminó el criptoinvierno? la tendencia de Bitcoin ya deja ver luz al final de túnel</a></h4>
-    <a href='https://computerhoy.com/criptos/termino-criptoinvierno-tendencia-bitcoin-ya-deja-ver-luz-final-tunel-1233880' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/bitcoin-tiene-totalmente-desconcertados-expertos-2936936.jpg?tf=1200x' alt='¿Terminó el criptoinvierno? la tendencia de Bitcoin ya deja ver luz al final de túnel' />
+    <h4><a href='https://computerhoy.com/ciberseguridad/digi-sufre-ciberataque-delincuentes-coprometen-datos-personales-clientes-1234090'>DIGI sufre un ciberataque y los delincuentes coprometen los datos personales de clientes</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/digi-sufre-ciberataque-delincuentes-coprometen-datos-personales-clientes-1234090' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/ciberataque-2368113.jpg?tf=1200x' alt='DIGI sufre un ciberataque y los delincuentes coprometen los datos personales de clientes' />
     </a>
 </div>
 
