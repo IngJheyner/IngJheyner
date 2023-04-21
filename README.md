@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/alimentacion/comida-moscas-contaminacion-patogenos-1233802'>¿Hay que tirar la comida, si se han posado las moscas?</a></h4>
-    <a href='https://computerhoy.com/alimentacion/comida-moscas-contaminacion-patogenos-1233802' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/hay-tirar-comida-han-posado-moscas-3014682.jpg?tf=1200x' alt='¿Hay que tirar la comida, si se han posado las moscas?' />
+    <h4><a href='https://computerhoy.com/internet/llego-dia-twitter-te-quita-simbolo-verificacion-azul-no-pagas-twitter-blue-1233850'>Llegó el día: Twitter te quita el símbolo de verificación azul si no pagas Twitter Blue</a></h4>
+    <a href='https://computerhoy.com/internet/llego-dia-twitter-te-quita-simbolo-verificacion-azul-no-pagas-twitter-blue-1233850' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/twitter-eliminara-verificacion-azul-dias-menos-comiences-pagar-ella-2992236.jpg?tf=1200x' alt='Llegó el día: Twitter te quita el símbolo de verificación azul si no pagas Twitter Blue' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/primero-debes-hacer-alquilas-apartamento-1233614'>Esto es lo primero que tienes que hacer si alquilas un apartamento en Japón, y también se aplica a España</a></h4>
-    <a href='https://computerhoy.com/life/primero-debes-hacer-alquilas-apartamento-1233614' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/primero-tienes-hacer-alquilas-apartamento-japon-tambien-aplica-espana-3014502.jpg?tf=1200x' alt='Esto es lo primero que tienes que hacer si alquilas un apartamento en Japón, y también se aplica a España' />
+    <h4><a href='https://computerhoy.com/industria/mark-zuckerberg-anuncia-despidos-meta-destruyendo-moral-empleados-1233834'>Mark Zuckerberg anuncia más recortes en Meta destruyendo la moral de sus empleados</a></h4>
+    <a href='https://computerhoy.com/industria/mark-zuckerberg-anuncia-despidos-meta-destruyendo-moral-empleados-1233834' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/mark-zuckerberg-2425929.jpg?tf=1200x' alt='Mark Zuckerberg anuncia más recortes en Meta destruyendo la moral de sus empleados' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/truco-coleta-camarera-ganar-propinas-1233610'>El truco de una camarera para ganar más propinas: 'Es asqueroso, pero tengo que pagar el alquiler'</a></h4>
-    <a href='https://computerhoy.com/life/truco-coleta-camarera-ganar-propinas-1233610' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/truco-camarera-ganar-propinas-asqueroso-pero-tengo-pagar-alquiler-3014498.jpg?tf=1200x' alt='El truco de una camarera para ganar más propinas: 'Es asqueroso, pero tengo que pagar el alquiler'' />
+    <h4><a href='https://computerhoy.com/hogar/amazon-rebaja-precio-ring-intercom-telefonillo-wifi-1233574'>Amazon tiene un aparato con Alexa que te permite responder tu telefonillo desde cualquier sitio y ahora cuesta menos de la mitad</a></h4>
+    <a href='https://computerhoy.com/hogar/amazon-rebaja-precio-ring-intercom-telefonillo-wifi-1233574' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/ring-intercom-3014428.jpg?tf=1200x' alt='Amazon tiene un aparato con Alexa que te permite responder tu telefonillo desde cualquier sitio y ahora cuesta menos de la mitad' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/redes-sociales/imgur-elimina-porno-todas-imagenes-anonimas-reddit-1233608'>El almacén de imágenes Imgur elimina el porno y el contenido anónimo, borrando para siempre una década de la memoria de Internet</a></h4>
-    <a href='https://computerhoy.com/redes-sociales/imgur-elimina-porno-todas-imagenes-anonimas-reddit-1233608' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/almacen-imagenes-imgur-elimina-porno-todas-contenido-anonimo-borrando-siempre-decada-memoria-internet-3014490.jpg?tf=1200x' alt='El almacén de imágenes Imgur elimina el porno y el contenido anónimo, borrando para siempre una década de la memoria de Internet' />
+    <h4><a href='https://computerhoy.com/analisis/motorola-thinkphone-analisis-review-caracteristicas-precio-1226548'>Motorola ThinkPhone, análisis y opinión del resistente y ultraseguro teléfono de Motorola, el cual ofrece mucho más.</a></h4>
+    <a href='https://computerhoy.com/analisis/motorola-thinkphone-analisis-review-caracteristicas-precio-1226548' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/motorola-thinkphone-3003472.jpg?tf=1200x' alt='Motorola ThinkPhone, análisis y opinión del resistente y ultraseguro teléfono de Motorola, el cual ofrece mucho más.' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/cientificos-descubren-modo-revertir-aparicion-canas-pelo-1233596'>Científicos descubren un modo de revertir la aparición de las canas en el pelo</a></h4>
-    <a href='https://computerhoy.com/life/cientificos-descubren-modo-revertir-aparicion-canas-pelo-1233596' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/canas-3014484.jpg?tf=1200x' alt='Científicos descubren un modo de revertir la aparición de las canas en el pelo' />
+    <h4><a href='https://computerhoy.com/software/licencias-microsoft-365-baratas-1233540'>Dónde encontrar las licencias de Microsoft 365 más baratas y evitar estafas</a></h4>
+    <a href='https://computerhoy.com/software/licencias-microsoft-365-baratas-1233540' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/persona-escribiendo-portatil-microsoft-excel-abierto-3014370.jpg?tf=1200x' alt='Dónde encontrar las licencias de Microsoft 365 más baratas y evitar estafas' />
     </a>
 </div>
 
