@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/llego-dia-twitter-te-quita-simbolo-verificacion-azul-no-pagas-twitter-blue-1233850'>Llegó el día: Twitter te quita el símbolo de verificación azul si no pagas Twitter Blue</a></h4>
-    <a href='https://computerhoy.com/internet/llego-dia-twitter-te-quita-simbolo-verificacion-azul-no-pagas-twitter-blue-1233850' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/twitter-eliminara-verificacion-azul-dias-menos-comiences-pagar-ella-2992236.jpg?tf=1200x' alt='Llegó el día: Twitter te quita el símbolo de verificación azul si no pagas Twitter Blue' />
+    <h4><a href='https://computerhoy.com/moviles/vivo-x-flip-plegable-dos-pantallas-quiere-terminar-hegemonia-galaxy-z-flip-samsung-1233800'>Vivo X Flip, el plegable con dos pantallas que quiere terminar con la hegemonía del Galaxy Z Flip de Samsung</a></h4>
+    <a href='https://computerhoy.com/moviles/vivo-x-flip-plegable-dos-pantallas-quiere-terminar-hegemonia-galaxy-z-flip-samsung-1233800' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/vivo-x-flip-3014678.jpg?tf=1200x' alt='Vivo X Flip, el plegable con dos pantallas que quiere terminar con la hegemonía del Galaxy Z Flip de Samsung' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/industria/mark-zuckerberg-anuncia-despidos-meta-destruyendo-moral-empleados-1233834'>Mark Zuckerberg anuncia más recortes en Meta destruyendo la moral de sus empleados</a></h4>
-    <a href='https://computerhoy.com/industria/mark-zuckerberg-anuncia-despidos-meta-destruyendo-moral-empleados-1233834' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/mark-zuckerberg-2425929.jpg?tf=1200x' alt='Mark Zuckerberg anuncia más recortes en Meta destruyendo la moral de sus empleados' />
+    <h4><a href='https://computerhoy.com/criptos/termino-criptoinvierno-tendencia-bitcoin-ya-deja-ver-luz-final-tunel-1233880'>¿Terminó el criptoinvierno? la tendencia de Bitcoin ya deja ver luz al final de túnel</a></h4>
+    <a href='https://computerhoy.com/criptos/termino-criptoinvierno-tendencia-bitcoin-ya-deja-ver-luz-final-tunel-1233880' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/bitcoin-tiene-totalmente-desconcertados-expertos-2936936.jpg?tf=1200x' alt='¿Terminó el criptoinvierno? la tendencia de Bitcoin ya deja ver luz al final de túnel' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/hogar/amazon-rebaja-precio-ring-intercom-telefonillo-wifi-1233574'>Amazon tiene un aparato con Alexa que te permite responder tu telefonillo desde cualquier sitio y ahora cuesta menos de la mitad</a></h4>
-    <a href='https://computerhoy.com/hogar/amazon-rebaja-precio-ring-intercom-telefonillo-wifi-1233574' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/ring-intercom-3014428.jpg?tf=1200x' alt='Amazon tiene un aparato con Alexa que te permite responder tu telefonillo desde cualquier sitio y ahora cuesta menos de la mitad' />
+    <h4><a href='https://computerhoy.com/life/pasa-pasajero-avion-fallece-durante-vuelo-piloto-1233910'>Lo que pasa si un pasajero de un avión muere durante el vuelo, según un veterano piloto</a></h4>
+    <a href='https://computerhoy.com/life/pasa-pasajero-avion-fallece-durante-vuelo-piloto-1233910' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/avion-airbus-a300-200-puedes-pedir-comidas-bebidas-bar-directamente-pantallas-2799723.jpg?tf=1200x' alt='Lo que pasa si un pasajero de un avión muere durante el vuelo, según un veterano piloto' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/motorola-thinkphone-analisis-review-caracteristicas-precio-1226548'>Motorola ThinkPhone, análisis y opinión del resistente y ultraseguro teléfono de Motorola, el cual ofrece mucho más.</a></h4>
-    <a href='https://computerhoy.com/analisis/motorola-thinkphone-analisis-review-caracteristicas-precio-1226548' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/motorola-thinkphone-3003472.jpg?tf=1200x' alt='Motorola ThinkPhone, análisis y opinión del resistente y ultraseguro teléfono de Motorola, el cual ofrece mucho más.' />
+    <h4><a href='https://computerhoy.com/tecnologia/inteligencia-artificial-autentico-desastre-creando-manos-1233606'>¿Por qué la inteligencia artificial es un auténtico desastre creando manos?</a></h4>
+    <a href='https://computerhoy.com/tecnologia/inteligencia-artificial-autentico-desastre-creando-manos-1233606' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/mano-humana-inteligencia-artificial-3014970.jpg?tf=1200x' alt='¿Por qué la inteligencia artificial es un auténtico desastre creando manos?' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/software/licencias-microsoft-365-baratas-1233540'>Dónde encontrar las licencias de Microsoft 365 más baratas y evitar estafas</a></h4>
-    <a href='https://computerhoy.com/software/licencias-microsoft-365-baratas-1233540' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/persona-escribiendo-portatil-microsoft-excel-abierto-3014370.jpg?tf=1200x' alt='Dónde encontrar las licencias de Microsoft 365 más baratas y evitar estafas' />
+    <h4><a href='https://computerhoy.com/apple/obsesion-apple-oled-1233844'>La obsesión de Apple por las pantallas OLED y el fin del mini-LED que podría salirle muy caro</a></h4>
+    <a href='https://computerhoy.com/apple/obsesion-apple-oled-1233844' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/ordenador-portatil-macbook-pro-chip-m1-auriculares-cuaderno-cerca-mesa-2856675.jpg?tf=1200x' alt='La obsesión de Apple por las pantallas OLED y el fin del mini-LED que podría salirle muy caro' />
     </a>
 </div>
 
