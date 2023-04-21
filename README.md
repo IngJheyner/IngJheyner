@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/pc/asus-renueva-gama-zenbook-s-diseno-impresionante-pantalla-oled-1233990'>Asus Zenbook S 13 OLED, el portátil OLED de 13,3" más delgado del mundo</a></h4>
+    <a href='https://computerhoy.com/pc/asus-renueva-gama-zenbook-s-diseno-impresionante-pantalla-oled-1233990' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/asus-zenbook-s-13-3015168.jpg?tf=1200x' alt='Asus Zenbook S 13 OLED, el portátil OLED de 13,3" más delgado del mundo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/mapa-muestra-como-espana-perdiendo-territorios-emblematicos-1233898'>Este mapa muestra cómo España está "perdiendo" uno de sus territorios más emblemáticos</a></h4>
+    <a href='https://computerhoy.com/life/mapa-muestra-como-espana-perdiendo-territorios-emblematicos-1233898' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/mapa-muestra-como-espana-perdiendo-territorios-emblematicos-3014960.jpg?tf=1200x' alt='Este mapa muestra cómo España está "perdiendo" uno de sus territorios más emblemáticos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/moviles/vivo-x-flip-plegable-dos-pantallas-quiere-terminar-hegemonia-galaxy-z-flip-samsung-1233800'>Vivo X Flip, el plegable con dos pantallas que quiere terminar con la hegemonía del Galaxy Z Flip de Samsung</a></h4>
     <a href='https://computerhoy.com/moviles/vivo-x-flip-plegable-dos-pantallas-quiere-terminar-hegemonia-galaxy-z-flip-samsung-1233800' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/vivo-x-flip-3014678.jpg?tf=1200x' alt='Vivo X Flip, el plegable con dos pantallas que quiere terminar con la hegemonía del Galaxy Z Flip de Samsung' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/life/pasa-pasajero-avion-fallece-durante-vuelo-piloto-1233910'>Lo que pasa si un pasajero de un avión muere durante el vuelo, según un veterano piloto</a></h4>
     <a href='https://computerhoy.com/life/pasa-pasajero-avion-fallece-durante-vuelo-piloto-1233910' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/avion-airbus-a300-200-puedes-pedir-comidas-bebidas-bar-directamente-pantallas-2799723.jpg?tf=1200x' alt='Lo que pasa si un pasajero de un avión muere durante el vuelo, según un veterano piloto' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/inteligencia-artificial-autentico-desastre-creando-manos-1233606'>¿Por qué la inteligencia artificial es un auténtico desastre creando manos?</a></h4>
-    <a href='https://computerhoy.com/tecnologia/inteligencia-artificial-autentico-desastre-creando-manos-1233606' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/mano-humana-inteligencia-artificial-3014970.jpg?tf=1200x' alt='¿Por qué la inteligencia artificial es un auténtico desastre creando manos?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/obsesion-apple-oled-1233844'>La obsesión de Apple por las pantallas OLED y el fin del mini-LED que podría salirle muy caro</a></h4>
-    <a href='https://computerhoy.com/apple/obsesion-apple-oled-1233844' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/ordenador-portatil-macbook-pro-chip-m1-auriculares-cuaderno-cerca-mesa-2856675.jpg?tf=1200x' alt='La obsesión de Apple por las pantallas OLED y el fin del mini-LED que podría salirle muy caro' />
     </a>
 </div>
 
