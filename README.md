@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/genial-truco-viral-evitar-pasajeros-avion-reclinen-asientos-atras-1234412'>El genial truco viral para evitar que los pasajeros de avión reclinen sus asientos hacia atrás</a></h4>
+    <a href='https://computerhoy.com/life/genial-truco-viral-evitar-pasajeros-avion-reclinen-asientos-atras-1234412' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/viajar-avion-3015836.jpg?tf=1200x' alt='El genial truco viral para evitar que los pasajeros de avión reclinen sus asientos hacia atrás' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/primer-pais-mundo-adoptar-chatgpt-ayudar-tareas-administrativas-1234398'>Este es el primer país del mundo en adoptar ChatGPT para ayudar con las tareas administrativas</a></h4>
+    <a href='https://computerhoy.com/apps/primer-pais-mundo-adoptar-chatgpt-ayudar-tareas-administrativas-1234398' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/inteligencia-artificial-2942750.jpg?tf=1200x' alt='Este es el primer país del mundo en adoptar ChatGPT para ayudar con las tareas administrativas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/7-peliculas-terror-exorcismos-posesiones-maldiciones-mejor-no-tener-cerca-1225676'>7 películas de terror con exorcismos, posesiones y maldiciones que es mejor no tener cerca</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/7-peliculas-terror-exorcismos-posesiones-maldiciones-mejor-no-tener-cerca-1225676' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/7-peliculas-terror-exorcismos-posesiones-maldiciones-mejor-no-tener-cerca-3002142.jpg?tf=1200x' alt='7 películas de terror con exorcismos, posesiones y maldiciones que es mejor no tener cerca' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tutoriales/como-instalar-tdtchannels-anadir-listas-canales-gratis-1231570'>Cómo instalar TDTChannels y añadir listas de canales gratis</a></h4>
     <a href='https://computerhoy.com/tutoriales/como-instalar-tdtchannels-anadir-listas-canales-gratis-1231570' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/tdtchannels-3010604.jpg?tf=1200x' alt='Cómo instalar TDTChannels y añadir listas de canales gratis' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/como-ver-tv-vivo-android-aplicaciones-gratis-iptv-1229718'>Cómo ver la TV en vivo en Android: Aplicaciones gratis de IPTV</a></h4>
     <a href='https://computerhoy.com/tecnologia/como-ver-tv-vivo-android-aplicaciones-gratis-iptv-1229718' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/viendo-smartphone-3007462.jpg?tf=1200x' alt='Cómo ver la TV en vivo en Android: Aplicaciones gratis de IPTV' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/adios-hype-mundos-virtuales-ha-acabado-ia-metaverso-1232268'>Adiós al 'hype' de los mundos virtuales: ¿ha acabado la IA con el Metaverso?</a></h4>
-    <a href='https://computerhoy.com/tecnologia/adios-hype-mundos-virtuales-ha-acabado-ia-metaverso-1232268' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/ha-acabado-ia-metaverso-adios-hype-mundos-virtuales-3013342.jpg?tf=1200x' alt='Adiós al 'hype' de los mundos virtuales: ¿ha acabado la IA con el Metaverso?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/como-importante-memoria-elegir-smartphone-1219114'>Memoria de almacenamiento en los móviles, irónicamente, la gran olvidada</a></h4>
-    <a href='https://computerhoy.com/moviles/como-importante-memoria-elegir-smartphone-1219114' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/xiaomi-13-xiaomi-13-pro-analisis-opinion-2985152.jpg?tf=1200x' alt='Memoria de almacenamiento en los móviles, irónicamente, la gran olvidada' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/samsung-galaxy-a54-5g-analisis-review-caracteristicas-precio-1220630'>Samsung Galaxy A54 5G, análisis y opinión del referente de Samsung para la gama media</a></h4>
-    <a href='https://computerhoy.com/analisis/samsung-galaxy-a54-5g-analisis-review-caracteristicas-precio-1220630' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/samsung-galaxy-a54-5g-2993044.jpg?tf=1200x' alt='Samsung Galaxy A54 5G, análisis y opinión del referente de Samsung para la gama media' />
     </a>
 </div>
 
