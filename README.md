@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/genial-truco-viral-evitar-pasajeros-avion-reclinen-asientos-atras-1234412'>El genial truco viral para evitar que los pasajeros de avión reclinen sus asientos hacia atrás</a></h4>
-    <a href='https://computerhoy.com/life/genial-truco-viral-evitar-pasajeros-avion-reclinen-asientos-atras-1234412' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/viajar-avion-3015836.jpg?tf=1200x' alt='El genial truco viral para evitar que los pasajeros de avión reclinen sus asientos hacia atrás' />
+    <h4><a href='https://computerhoy.com/internet/autodefinidos-gratis-jugar-online-mejores-webs-aplicaciones-1226888'>Autodefinidos gratis para jugar online: mejores webs y aplicaciones</a></h4>
+    <a href='https://computerhoy.com/internet/autodefinidos-gratis-jugar-online-mejores-webs-aplicaciones-1226888' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/autodefinidos-3003130.jpg?tf=1200x' alt='Autodefinidos gratis para jugar online: mejores webs y aplicaciones' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/primer-pais-mundo-adoptar-chatgpt-ayudar-tareas-administrativas-1234398'>Este es el primer país del mundo en adoptar ChatGPT para ayudar con las tareas administrativas</a></h4>
-    <a href='https://computerhoy.com/apps/primer-pais-mundo-adoptar-chatgpt-ayudar-tareas-administrativas-1234398' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/inteligencia-artificial-2942750.jpg?tf=1200x' alt='Este es el primer país del mundo en adoptar ChatGPT para ayudar con las tareas administrativas' />
+    <h4><a href='https://computerhoy.com/smartwatches/samsung-galaxy-watch-6-llegaria-mejor-procesador-regreso-viejo-conocido-1234442'>El Samsung Galaxy Watch 6 llegaría con mejor procesador y con el regreso de un viejo conocido</a></h4>
+    <a href='https://computerhoy.com/smartwatches/samsung-galaxy-watch-6-llegaria-mejor-procesador-regreso-viejo-conocido-1234442' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/samsung-galaxy-watch-5-pro-analisis-opinion-2809259.jpg?tf=1200x' alt='El Samsung Galaxy Watch 6 llegaría con mejor procesador y con el regreso de un viejo conocido' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/7-peliculas-terror-exorcismos-posesiones-maldiciones-mejor-no-tener-cerca-1225676'>7 películas de terror con exorcismos, posesiones y maldiciones que es mejor no tener cerca</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/7-peliculas-terror-exorcismos-posesiones-maldiciones-mejor-no-tener-cerca-1225676' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/7-peliculas-terror-exorcismos-posesiones-maldiciones-mejor-no-tener-cerca-3002142.jpg?tf=1200x' alt='7 películas de terror con exorcismos, posesiones y maldiciones que es mejor no tener cerca' />
+    <h4><a href='https://computerhoy.com/moviles/seria-google-pixel-fold-filtrarse-video-1234436'>Así sería el Google Pixel Fold tras filtrarse este vídeo</a></h4>
+    <a href='https://computerhoy.com/moviles/seria-google-pixel-fold-filtrarse-video-1234436' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/google-pixel-fold-3015916.jpg?tf=1200x' alt='Así sería el Google Pixel Fold tras filtrarse este vídeo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-instalar-tdtchannels-anadir-listas-canales-gratis-1231570'>Cómo instalar TDTChannels y añadir listas de canales gratis</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-instalar-tdtchannels-anadir-listas-canales-gratis-1231570' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/tdtchannels-3010604.jpg?tf=1200x' alt='Cómo instalar TDTChannels y añadir listas de canales gratis' />
+    <h4><a href='https://computerhoy.com/apple/apple-futurista-idea-proyectar-pantalla-imac-cualquier-pared-1234432'>Apple y su futurista idea de proyectar la pantalla de un iMac a cualquier pared</a></h4>
+    <a href='https://computerhoy.com/apple/apple-futurista-idea-proyectar-pantalla-imac-cualquier-pared-1234432' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/apple-imac-2439851.jpg?tf=1200x' alt='Apple y su futurista idea de proyectar la pantalla de un iMac a cualquier pared' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/como-ver-tv-vivo-android-aplicaciones-gratis-iptv-1229718'>Cómo ver la TV en vivo en Android: Aplicaciones gratis de IPTV</a></h4>
-    <a href='https://computerhoy.com/tecnologia/como-ver-tv-vivo-android-aplicaciones-gratis-iptv-1229718' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/viendo-smartphone-3007462.jpg?tf=1200x' alt='Cómo ver la TV en vivo en Android: Aplicaciones gratis de IPTV' />
+    <h4><a href='https://computerhoy.com/life/xiaomi-quiere-revolucionar-cocina-tres-nuevas-herramientas-incluido-abridor-vino-electrico-1234424'>Xiaomi quiere revolucionar tu cocina con tres nuevas herramientas, incluido un abridor de vino eléctrico</a></h4>
+    <a href='https://computerhoy.com/life/xiaomi-quiere-revolucionar-cocina-tres-nuevas-herramientas-incluido-abridor-vino-electrico-1234424' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/xiaomi-quiere-revolucionar-cocina-tres-nuevas-herramientas-incluido-abridor-vino-electrico-3015856.jpg?tf=1200x' alt='Xiaomi quiere revolucionar tu cocina con tres nuevas herramientas, incluido un abridor de vino eléctrico' />
     </a>
 </div>
 
