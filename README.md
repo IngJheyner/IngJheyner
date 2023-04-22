@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/humane-dispositivo-inteligencia-artificial-jubilar-movil-1234156'>Humane, el dispositivo con IA que proyecta imágenes en la mano, quiere acabar con los móviles para siempre</a></h4>
-    <a href='https://computerhoy.com/tecnologia/humane-dispositivo-inteligencia-artificial-jubilar-movil-1234156' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/humane-dispositivo-ia-proyecta-imagenes-mano-quiere-acabar-moviles-siempre-3015576.jpg?tf=1200x' alt='Humane, el dispositivo con IA que proyecta imágenes en la mano, quiere acabar con los móviles para siempre' />
+    <h4><a href='https://computerhoy.com/analisis/samsung-galaxy-a54-5g-analisis-review-caracteristicas-precio-1220630'>Samsung Galaxy A54 5G, análisis y opinión del referente de Samsung para la gama media</a></h4>
+    <a href='https://computerhoy.com/analisis/samsung-galaxy-a54-5g-analisis-review-caracteristicas-precio-1220630' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/samsung-galaxy-a54-5g-2993044.jpg?tf=1200x' alt='Samsung Galaxy A54 5G, análisis y opinión del referente de Samsung para la gama media' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/gafas-integran-chatgpt-ayudarte-ligar-mantener-conversaciones-1234154'>Estas gafas integran ChatGPT para ayudarte a ligar y a mantener conversaciones, si eres tímido </a></h4>
-    <a href='https://computerhoy.com/tecnologia/gafas-integran-chatgpt-ayudarte-ligar-mantener-conversaciones-1234154' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/gafas-chatgpt-3015574.jpg?tf=1200x' alt='Estas gafas integran ChatGPT para ayudarte a ligar y a mantener conversaciones, si eres tímido ' />
+    <h4><a href='https://computerhoy.com/ciencia/pino-cook-nueva-caledonia-siempre-inclina-ecuador-1234360'>Esta especie de pino siempre se inclina hacia el ecuador, y nadie sabe por qué</a></h4>
+    <a href='https://computerhoy.com/ciencia/pino-cook-nueva-caledonia-siempre-inclina-ecuador-1234360' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/especie-pino-siempre-inclina-ecuador-nadie-sabe-3015760.jpg?tf=1200x' alt='Esta especie de pino siempre se inclina hacia el ecuador, y nadie sabe por qué' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/redbox-quiere-comprar-negocio-alquiler-dvds-netflix-1234148'>Redbox quiere comprar el negocio de alquiler de DVDs de Netflix, que prefiere cerrarlo</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/redbox-quiere-comprar-negocio-alquiler-dvds-netflix-1234148' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/netflix-dvd-3015540.jpg?tf=1200x' alt='Redbox quiere comprar el negocio de alquiler de DVDs de Netflix, que prefiere cerrarlo' />
+    <h4><a href='https://computerhoy.com/apps/5555-4444-1437-te-estan-queriendo-decir-recibes-estos-codigos-whatsapp-1234106'>5555, 4444, 1437… ¿Qué te están queriendo decir si recibes estos códigos por WhatsApp?</a></h4>
+    <a href='https://computerhoy.com/apps/5555-4444-1437-te-estan-queriendo-decir-recibes-estos-codigos-whatsapp-1234106' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/whatsapp-2364249.jpg?tf=1200x' alt='5555, 4444, 1437… ¿Qué te están queriendo decir si recibes estos códigos por WhatsApp?' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/22-millones-animales-tarros-alcohol-entra-tour-virtual-1234150'>Un tour virtual por el museo de los 22 millones de animales metidos en tarros con alcohol (vídeo)</a></h4>
-    <a href='https://computerhoy.com/ciencia/22-millones-animales-tarros-alcohol-entra-tour-virtual-1234150' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/visitamos-museo-20-millones-animales-metidos-tarros-alcohol-3015530.jpg?tf=1200x' alt='Un tour virtual por el museo de los 22 millones de animales metidos en tarros con alcohol (vídeo)' />
+    <h4><a href='https://computerhoy.com/pc/tarjetas-graficas-potentes-ofertas-1233836'>Fueron las tarjetas gráficas más potentes de 2022, pero ahora están todas rebajadas</a></h4>
+    <a href='https://computerhoy.com/pc/tarjetas-graficas-potentes-ofertas-1233836' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/ordenador-interior-descubierto-placa-base-tarjeta-grafica-3015136.jpg?tf=1200x' alt='Fueron las tarjetas gráficas más potentes de 2022, pero ahora están todas rebajadas' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/metodo-google-arreglar-aplicaciones-no-funcionan-deja-mucho-desear-1234088'>El método de Google para arreglar las aplicaciones que no funcionan deja mucho que desear</a></h4>
-    <a href='https://computerhoy.com/google/metodo-google-arreglar-aplicaciones-no-funcionan-deja-mucho-desear-1234088' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/metodo-google-arreglar-aplicaciones-no-funcionan-deja-mucho-desear-3015472.jpg?tf=1200x' alt='El método de Google para arreglar las aplicaciones que no funcionan deja mucho que desear' />
+    <h4><a href='https://computerhoy.com/tv/magnasonic-fs81-maquina-digitalizar-viejas-peliculas-super-8-1234358'>Magnasonic FS81, la máquina para digitalizar las viejas películas en Super 8 (vídeo)</a></h4>
+    <a href='https://computerhoy.com/tv/magnasonic-fs81-maquina-digitalizar-viejas-peliculas-super-8-1234358' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/verticalimage1682123724317-3015758.jpg?tf=1200x' alt='Magnasonic FS81, la máquina para digitalizar las viejas películas en Super 8 (vídeo)' />
     </a>
 </div>
 
