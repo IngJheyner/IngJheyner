@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-instalar-tdtchannels-anadir-listas-canales-gratis-1231570'>Cómo instalar TDTChannels y añadir listas de canales gratis</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-instalar-tdtchannels-anadir-listas-canales-gratis-1231570' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/tdtchannels-3010604.jpg?tf=1200x' alt='Cómo instalar TDTChannels y añadir listas de canales gratis' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/como-ver-tv-vivo-android-aplicaciones-gratis-iptv-1229718'>Cómo ver la TV en vivo en Android: Aplicaciones gratis de IPTV</a></h4>
+    <a href='https://computerhoy.com/tecnologia/como-ver-tv-vivo-android-aplicaciones-gratis-iptv-1229718' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/viendo-smartphone-3007462.jpg?tf=1200x' alt='Cómo ver la TV en vivo en Android: Aplicaciones gratis de IPTV' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/adios-hype-mundos-virtuales-ha-acabado-ia-metaverso-1232268'>Adiós al 'hype' de los mundos virtuales: ¿ha acabado la IA con el Metaverso?</a></h4>
+    <a href='https://computerhoy.com/tecnologia/adios-hype-mundos-virtuales-ha-acabado-ia-metaverso-1232268' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/ha-acabado-ia-metaverso-adios-hype-mundos-virtuales-3013342.jpg?tf=1200x' alt='Adiós al 'hype' de los mundos virtuales: ¿ha acabado la IA con el Metaverso?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/moviles/como-importante-memoria-elegir-smartphone-1219114'>Memoria de almacenamiento en los móviles, irónicamente, la gran olvidada</a></h4>
+    <a href='https://computerhoy.com/moviles/como-importante-memoria-elegir-smartphone-1219114' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/xiaomi-13-xiaomi-13-pro-analisis-opinion-2985152.jpg?tf=1200x' alt='Memoria de almacenamiento en los móviles, irónicamente, la gran olvidada' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/analisis/samsung-galaxy-a54-5g-analisis-review-caracteristicas-precio-1220630'>Samsung Galaxy A54 5G, análisis y opinión del referente de Samsung para la gama media</a></h4>
     <a href='https://computerhoy.com/analisis/samsung-galaxy-a54-5g-analisis-review-caracteristicas-precio-1220630' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/samsung-galaxy-a54-5g-2993044.jpg?tf=1200x' alt='Samsung Galaxy A54 5G, análisis y opinión del referente de Samsung para la gama media' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/pino-cook-nueva-caledonia-siempre-inclina-ecuador-1234360'>Esta especie de pino siempre se inclina hacia el ecuador, y nadie sabe por qué</a></h4>
-    <a href='https://computerhoy.com/ciencia/pino-cook-nueva-caledonia-siempre-inclina-ecuador-1234360' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/especie-pino-siempre-inclina-ecuador-nadie-sabe-3015760.jpg?tf=1200x' alt='Esta especie de pino siempre se inclina hacia el ecuador, y nadie sabe por qué' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/5555-4444-1437-te-estan-queriendo-decir-recibes-estos-codigos-whatsapp-1234106'>5555, 4444, 1437… ¿Qué te están queriendo decir si recibes estos códigos por WhatsApp?</a></h4>
-    <a href='https://computerhoy.com/apps/5555-4444-1437-te-estan-queriendo-decir-recibes-estos-codigos-whatsapp-1234106' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/whatsapp-2364249.jpg?tf=1200x' alt='5555, 4444, 1437… ¿Qué te están queriendo decir si recibes estos códigos por WhatsApp?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/tarjetas-graficas-potentes-ofertas-1233836'>Fueron las tarjetas gráficas más potentes de 2022, pero ahora están todas rebajadas</a></h4>
-    <a href='https://computerhoy.com/pc/tarjetas-graficas-potentes-ofertas-1233836' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/ordenador-interior-descubierto-placa-base-tarjeta-grafica-3015136.jpg?tf=1200x' alt='Fueron las tarjetas gráficas más potentes de 2022, pero ahora están todas rebajadas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tv/magnasonic-fs81-maquina-digitalizar-viejas-peliculas-super-8-1234358'>Magnasonic FS81, la máquina para digitalizar las viejas películas en Super 8 (vídeo)</a></h4>
-    <a href='https://computerhoy.com/tv/magnasonic-fs81-maquina-digitalizar-viejas-peliculas-super-8-1234358' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/verticalimage1682123724317-3015758.jpg?tf=1200x' alt='Magnasonic FS81, la máquina para digitalizar las viejas películas en Super 8 (vídeo)' />
     </a>
 </div>
 
