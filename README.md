@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/guardia-civil-alerta-contrasenas-jamas-deberias-utilizar-1234466'>La Guardia Civil alerta de las contraseñas que jamás deberías utilizar</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/guardia-civil-alerta-contrasenas-jamas-deberias-utilizar-1234466' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/contrasenas-3015948.jpg?tf=1200x' alt='La Guardia Civil alerta de las contraseñas que jamás deberías utilizar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/melatonina-que-sirve-que-ayuda-dormir-bien-51188'>Melatonina, para qué sirve y por qué ayuda a dormir bien</a></h4>
+    <a href='https://computerhoy.com/noticias/life/melatonina-que-sirve-que-ayuda-dormir-bien-51188' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2016/09/195722-melatonina-que-sirve-que-ayuda-dormir-bien.jpg?tf=1200x' alt='Melatonina, para qué sirve y por qué ayuda a dormir bien' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/ofertas-patinetes-electricos-xiaomi-decathlon-corre-estas-ofertas-1234020'>Ofertas de patinetes eléctricos Xiaomi en Decathlon: corre a por estas ofertas</a></h4>
+    <a href='https://computerhoy.com/life/ofertas-patinetes-electricos-xiaomi-decathlon-corre-estas-ofertas-1234020' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/patinete-electrico-xiaomi-3015246.jpg?tf=1200x' alt='Ofertas de patinetes eléctricos Xiaomi en Decathlon: corre a por estas ofertas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/windows/actualizacion-windows-10-no-vas-querer-instalarte-tienes-impresora-1234456'>La actualización de Windows 10 que no vas a querer instalarte si tienes impresora</a></h4>
+    <a href='https://computerhoy.com/windows/actualizacion-windows-10-no-vas-querer-instalarte-tienes-impresora-1234456' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/windows-2872935.jpg?tf=1200x' alt='La actualización de Windows 10 que no vas a querer instalarte si tienes impresora' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/internet/autodefinidos-gratis-jugar-online-mejores-webs-aplicaciones-1226888'>Autodefinidos gratis para jugar online: mejores webs y aplicaciones</a></h4>
     <a href='https://computerhoy.com/internet/autodefinidos-gratis-jugar-online-mejores-webs-aplicaciones-1226888' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/autodefinidos-3003130.jpg?tf=1200x' alt='Autodefinidos gratis para jugar online: mejores webs y aplicaciones' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/smartwatches/samsung-galaxy-watch-6-llegaria-mejor-procesador-regreso-viejo-conocido-1234442'>El Samsung Galaxy Watch 6 llegaría con mejor procesador y con el regreso de un viejo conocido</a></h4>
-    <a href='https://computerhoy.com/smartwatches/samsung-galaxy-watch-6-llegaria-mejor-procesador-regreso-viejo-conocido-1234442' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/samsung-galaxy-watch-5-pro-analisis-opinion-2809259.jpg?tf=1200x' alt='El Samsung Galaxy Watch 6 llegaría con mejor procesador y con el regreso de un viejo conocido' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/seria-google-pixel-fold-filtrarse-video-1234436'>Así sería el Google Pixel Fold tras filtrarse este vídeo</a></h4>
-    <a href='https://computerhoy.com/moviles/seria-google-pixel-fold-filtrarse-video-1234436' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/google-pixel-fold-3015916.jpg?tf=1200x' alt='Así sería el Google Pixel Fold tras filtrarse este vídeo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/apple-futurista-idea-proyectar-pantalla-imac-cualquier-pared-1234432'>Apple y su futurista idea de proyectar la pantalla de un iMac a cualquier pared</a></h4>
-    <a href='https://computerhoy.com/apple/apple-futurista-idea-proyectar-pantalla-imac-cualquier-pared-1234432' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/apple-imac-2439851.jpg?tf=1200x' alt='Apple y su futurista idea de proyectar la pantalla de un iMac a cualquier pared' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/xiaomi-quiere-revolucionar-cocina-tres-nuevas-herramientas-incluido-abridor-vino-electrico-1234424'>Xiaomi quiere revolucionar tu cocina con tres nuevas herramientas, incluido un abridor de vino eléctrico</a></h4>
-    <a href='https://computerhoy.com/life/xiaomi-quiere-revolucionar-cocina-tres-nuevas-herramientas-incluido-abridor-vino-electrico-1234424' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/xiaomi-quiere-revolucionar-cocina-tres-nuevas-herramientas-incluido-abridor-vino-electrico-3015856.jpg?tf=1200x' alt='Xiaomi quiere revolucionar tu cocina con tres nuevas herramientas, incluido un abridor de vino eléctrico' />
     </a>
 </div>
 
