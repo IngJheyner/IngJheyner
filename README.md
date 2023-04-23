@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/mejores-trucos-tener-look-minimal-windows-11-1206154'>Los mejores trucos para tener un look Minimal en Windows 11</a></h4>
+    <a href='https://computerhoy.com/tutoriales/mejores-trucos-tener-look-minimal-windows-11-1206154' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/windows-11-2498473.jpg?tf=1200x' alt='Los mejores trucos para tener un look Minimal en Windows 11' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/estos-trabajadores-pagaban-grandes-sumas-economicas-no-hacer-nada-1234716'>A estos trabajadores les pagaban grandes sumas económicas por no hacer nada</a></h4>
+    <a href='https://computerhoy.com/life/estos-trabajadores-pagaban-grandes-sumas-economicas-no-hacer-nada-1234716' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/trabajar-oficina-3016272.jpg?tf=1200x' alt='A estos trabajadores les pagaban grandes sumas económicas por no hacer nada' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/superinteligencia-artificial-1213438'>¿Qué es la Superinteligencia Artificial (ASI)?</a></h4>
+    <a href='https://computerhoy.com/tecnologia/superinteligencia-artificial-1213438' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/verticalimage1682076218344-3015186.jpg?tf=1200x' alt='¿Qué es la Superinteligencia Artificial (ASI)?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/he-probado-hackear-chatgpt-salte-politicas-openai-resultado-1233920'>He probado a 'hackear' ChatGPT para que se salte las políticas de OpenAI y este es el resultado</a></h4>
+    <a href='https://computerhoy.com/tecnologia/he-probado-hackear-chatgpt-salte-politicas-openai-resultado-1233920' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/chatgpt-3015198.jpg?tf=1200x' alt='He probado a 'hackear' ChatGPT para que se salte las políticas de OpenAI y este es el resultado' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/moviles/moviles-han-muerto-larga-vida-moviles-1232278'>¿Son los móviles actuales un formato obsoleto o todavía les queda margen?</a></h4>
     <a href='https://computerhoy.com/moviles/moviles-han-muerto-larga-vida-moviles-1232278' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/samsung-galaxy-s23-galaxy-s23-analisis-opinion-3006122.jpg?tf=1200x' alt='¿Son los móviles actuales un formato obsoleto o todavía les queda margen?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/crean-nuevo-tipo-oled-muy-elastico-puede-estirar-doble-longitud-1234464'>Crean un nuevo tipo de OLED muy elástico que se puede estirar hasta más del doble de su longitud</a></h4>
-    <a href='https://computerhoy.com/ciencia/crean-nuevo-tipo-oled-muy-elastico-puede-estirar-doble-longitud-1234464' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/crean-oled-muy-elastico-puede-estirar-doble-longitud-3015946.jpg?tf=1200x' alt='Crean un nuevo tipo de OLED muy elástico que se puede estirar hasta más del doble de su longitud' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/industria/vigilancia-teletrabajo-todo-debes-saber-1224898'>Vigilancia del teletrabajo, todo lo que debes saber: qué derechos tienes y qué puede hacer tu empresa</a></h4>
-    <a href='https://computerhoy.com/industria/vigilancia-teletrabajo-todo-debes-saber-1224898' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/teletrabajo-hibrido-ahora-algunos-buscan-pesadilla-empresas-2939092.jpg?tf=1200x' alt='Vigilancia del teletrabajo, todo lo que debes saber: qué derechos tienes y qué puede hacer tu empresa' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/europa-arde-2022-ha-sido-verano-caluroso-historia-advierten-solo-principio-1234460'>Europa arde: 2022 ha sido el verano más caluroso de la historia y advierten de que esto es solo el principio</a></h4>
-    <a href='https://computerhoy.com/life/europa-arde-2022-ha-sido-verano-caluroso-historia-advierten-solo-principio-1234460' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/calor-3015944.jpg?tf=1200x' alt='Europa arde: 2022 ha sido el verano más caluroso de la historia y advierten de que esto es solo el principio' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/redes-estado-shock-descubrir-verdadero-sabor-ositos-verdes-haribo-1234118'>Las redes en estado de shock tras descubrir el verdadero sabor de los ositos verdes de Haribo</a></h4>
-    <a href='https://computerhoy.com/life/redes-estado-shock-descubrir-verdadero-sabor-ositos-verdes-haribo-1234118' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/haribo-3015500.jpg?tf=1200x' alt='Las redes en estado de shock tras descubrir el verdadero sabor de los ositos verdes de Haribo' />
     </a>
 </div>
 
