@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/ya-disponible-version-estable-android-auto-94-puedes-descargarla-esperas-1234740'>Ya está disponible la versión estable de Android Auto 9.4 y así puedes descargarla sin esperas</a></h4>
+    <a href='https://computerhoy.com/apps/ya-disponible-version-estable-android-auto-94-puedes-descargarla-esperas-1234740' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/android-auto-89-2955218.jpg?tf=1200x' alt='Ya está disponible la versión estable de Android Auto 9.4 y así puedes descargarla sin esperas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/crean-bolsa-papel-fuerte-capaz-resistir-lluvia-1234718'>Crean una bolsa de papel más fuerte capaz de resistir hasta la lluvia</a></h4>
     <a href='https://computerhoy.com/life/crean-bolsa-papel-fuerte-capaz-resistir-lluvia-1234718' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/bolsa-papel-3016274.jpg?tf=1200x' alt='Crean una bolsa de papel más fuerte capaz de resistir hasta la lluvia' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tutoriales/mejores-trucos-tener-look-minimal-windows-11-1206154'>Los mejores trucos para tener un look Minimal en Windows 11</a></h4>
     <a href='https://computerhoy.com/tutoriales/mejores-trucos-tener-look-minimal-windows-11-1206154' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/windows-11-2498473.jpg?tf=1200x' alt='Los mejores trucos para tener un look Minimal en Windows 11' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/estos-trabajadores-pagaban-grandes-sumas-economicas-no-hacer-nada-1234716'>A estos trabajadores les pagaban grandes sumas económicas por no hacer nada</a></h4>
-    <a href='https://computerhoy.com/life/estos-trabajadores-pagaban-grandes-sumas-economicas-no-hacer-nada-1234716' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/trabajar-oficina-3016272.jpg?tf=1200x' alt='A estos trabajadores les pagaban grandes sumas económicas por no hacer nada' />
     </a>
 </div>
 
