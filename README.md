@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/guardia-civil-alerta-contrasenas-jamas-deberias-utilizar-1234466'>La Guardia Civil alerta de las contraseñas que jamás deberías utilizar</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/guardia-civil-alerta-contrasenas-jamas-deberias-utilizar-1234466' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/contrasenas-3015948.jpg?tf=1200x' alt='La Guardia Civil alerta de las contraseñas que jamás deberías utilizar' />
+    <h4><a href='https://computerhoy.com/moviles/moviles-han-muerto-larga-vida-moviles-1232278'>¿Son los móviles actuales un formato obsoleto o todavía les queda margen?</a></h4>
+    <a href='https://computerhoy.com/moviles/moviles-han-muerto-larga-vida-moviles-1232278' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/samsung-galaxy-s23-galaxy-s23-analisis-opinion-3006122.jpg?tf=1200x' alt='¿Son los móviles actuales un formato obsoleto o todavía les queda margen?' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/melatonina-que-sirve-que-ayuda-dormir-bien-51188'>Melatonina, para qué sirve y por qué ayuda a dormir bien</a></h4>
-    <a href='https://computerhoy.com/noticias/life/melatonina-que-sirve-que-ayuda-dormir-bien-51188' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2016/09/195722-melatonina-que-sirve-que-ayuda-dormir-bien.jpg?tf=1200x' alt='Melatonina, para qué sirve y por qué ayuda a dormir bien' />
+    <h4><a href='https://computerhoy.com/ciencia/crean-nuevo-tipo-oled-muy-elastico-puede-estirar-doble-longitud-1234464'>Crean un nuevo tipo de OLED muy elástico que se puede estirar hasta más del doble de su longitud</a></h4>
+    <a href='https://computerhoy.com/ciencia/crean-nuevo-tipo-oled-muy-elastico-puede-estirar-doble-longitud-1234464' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/crean-oled-muy-elastico-puede-estirar-doble-longitud-3015946.jpg?tf=1200x' alt='Crean un nuevo tipo de OLED muy elástico que se puede estirar hasta más del doble de su longitud' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/ofertas-patinetes-electricos-xiaomi-decathlon-corre-estas-ofertas-1234020'>Ofertas de patinetes eléctricos Xiaomi en Decathlon: corre a por estas ofertas</a></h4>
-    <a href='https://computerhoy.com/life/ofertas-patinetes-electricos-xiaomi-decathlon-corre-estas-ofertas-1234020' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/patinete-electrico-xiaomi-3015246.jpg?tf=1200x' alt='Ofertas de patinetes eléctricos Xiaomi en Decathlon: corre a por estas ofertas' />
+    <h4><a href='https://computerhoy.com/industria/vigilancia-teletrabajo-todo-debes-saber-1224898'>Vigilancia del teletrabajo, todo lo que debes saber: qué derechos tienes y qué puede hacer tu empresa</a></h4>
+    <a href='https://computerhoy.com/industria/vigilancia-teletrabajo-todo-debes-saber-1224898' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/teletrabajo-hibrido-ahora-algunos-buscan-pesadilla-empresas-2939092.jpg?tf=1200x' alt='Vigilancia del teletrabajo, todo lo que debes saber: qué derechos tienes y qué puede hacer tu empresa' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/actualizacion-windows-10-no-vas-querer-instalarte-tienes-impresora-1234456'>La actualización de Windows 10 que no vas a querer instalarte si tienes impresora</a></h4>
-    <a href='https://computerhoy.com/windows/actualizacion-windows-10-no-vas-querer-instalarte-tienes-impresora-1234456' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/windows-2872935.jpg?tf=1200x' alt='La actualización de Windows 10 que no vas a querer instalarte si tienes impresora' />
+    <h4><a href='https://computerhoy.com/life/europa-arde-2022-ha-sido-verano-caluroso-historia-advierten-solo-principio-1234460'>Europa arde: 2022 ha sido el verano más caluroso de la historia y advierten de que esto es solo el principio</a></h4>
+    <a href='https://computerhoy.com/life/europa-arde-2022-ha-sido-verano-caluroso-historia-advierten-solo-principio-1234460' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/calor-3015944.jpg?tf=1200x' alt='Europa arde: 2022 ha sido el verano más caluroso de la historia y advierten de que esto es solo el principio' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/autodefinidos-gratis-jugar-online-mejores-webs-aplicaciones-1226888'>Autodefinidos gratis para jugar online: mejores webs y aplicaciones</a></h4>
-    <a href='https://computerhoy.com/internet/autodefinidos-gratis-jugar-online-mejores-webs-aplicaciones-1226888' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/autodefinidos-3003130.jpg?tf=1200x' alt='Autodefinidos gratis para jugar online: mejores webs y aplicaciones' />
+    <h4><a href='https://computerhoy.com/life/redes-estado-shock-descubrir-verdadero-sabor-ositos-verdes-haribo-1234118'>Las redes en estado de shock tras descubrir el verdadero sabor de los ositos verdes de Haribo</a></h4>
+    <a href='https://computerhoy.com/life/redes-estado-shock-descubrir-verdadero-sabor-ositos-verdes-haribo-1234118' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/haribo-3015500.jpg?tf=1200x' alt='Las redes en estado de shock tras descubrir el verdadero sabor de los ositos verdes de Haribo' />
     </a>
 </div>
 
