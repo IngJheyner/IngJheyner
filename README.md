@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/pc/chromebooks-rompen-no-se-pueden-reparar-1234766'>Miles de Chromebooks comprados por las escuelas se están rompiendo, y no se pueden reparar  </a></h4>
+    <a href='https://computerhoy.com/pc/chromebooks-rompen-no-se-pueden-reparar-1234766' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/lenovo-ideapad-3-cb-14m836-chromebook-gen-6-2682421.jpg?tf=1200x' alt='Miles de Chromebooks comprados por las escuelas se están rompiendo, y no se pueden reparar  ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/hogar/aires-acondicionados-ventiladores-oferta-antes-llegue-verano-1233938'>Superamos los 30ºC y no es verano: Es el momento de comprar ventiladores y aires acondicionados en oferta</a></h4>
+    <a href='https://computerhoy.com/hogar/aires-acondicionados-ventiladores-oferta-antes-llegue-verano-1233938' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/mujer-calor-sujetando-abanico-3015014.jpg?tf=1200x' alt='Superamos los 30ºC y no es verano: Es el momento de comprar ventiladores y aires acondicionados en oferta' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-descargar-musica-youtube-ordenador-1225418'>Cómo descargar música de YouTube al ordenador</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-descargar-musica-youtube-ordenador-1225418' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/musica-youtube-3000702.jpg?tf=1200x' alt='Cómo descargar música de YouTube al ordenador' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apps/ya-disponible-version-estable-android-auto-94-puedes-descargarla-esperas-1234740'>Ya está disponible la versión estable de Android Auto 9.4 y así puedes descargarla sin esperas</a></h4>
     <a href='https://computerhoy.com/apps/ya-disponible-version-estable-android-auto-94-puedes-descargarla-esperas-1234740' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/android-auto-89-2955218.jpg?tf=1200x' alt='Ya está disponible la versión estable de Android Auto 9.4 y así puedes descargarla sin esperas' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/life/crean-bolsa-papel-fuerte-capaz-resistir-lluvia-1234718'>Crean una bolsa de papel más fuerte capaz de resistir hasta la lluvia</a></h4>
     <a href='https://computerhoy.com/life/crean-bolsa-papel-fuerte-capaz-resistir-lluvia-1234718' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/bolsa-papel-3016274.jpg?tf=1200x' alt='Crean una bolsa de papel más fuerte capaz de resistir hasta la lluvia' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/7-peliculas-nos-ensenaron-debemos-valorar-muchos-aspectos-trabajar-ia-como-chatgpt-1232128'>7 películas que nos enseñaron que debemos valorar muchos aspectos al trabajar con una IA como ChatGPT</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/7-peliculas-nos-ensenaron-debemos-valorar-muchos-aspectos-trabajar-ia-como-chatgpt-1232128' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/7-peliculas-nos-ensenaron-debemos-valorar-muchos-aspectos-trabajar-ia-como-chatgpt-3012164.jpg?tf=1200x' alt='7 películas que nos enseñaron que debemos valorar muchos aspectos al trabajar con una IA como ChatGPT' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/chat-inteligente-bing-ya-no-te-dejara-tirado-conversaciones-1234728'>El chat inteligente de Bing ya no te dejará tirado en las conversaciones</a></h4>
-    <a href='https://computerhoy.com/apps/chat-inteligente-bing-ya-no-te-dejara-tirado-conversaciones-1234728' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/bing-2993878.jpg?tf=1200x' alt='El chat inteligente de Bing ya no te dejará tirado en las conversaciones' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/mejores-trucos-tener-look-minimal-windows-11-1206154'>Los mejores trucos para tener un look Minimal en Windows 11</a></h4>
-    <a href='https://computerhoy.com/tutoriales/mejores-trucos-tener-look-minimal-windows-11-1206154' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/windows-11-2498473.jpg?tf=1200x' alt='Los mejores trucos para tener un look Minimal en Windows 11' />
     </a>
 </div>
 
