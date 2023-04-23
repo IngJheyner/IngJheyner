@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/crean-bolsa-papel-fuerte-capaz-resistir-lluvia-1234718'>Crean una bolsa de papel más fuerte capaz de resistir hasta la lluvia</a></h4>
+    <a href='https://computerhoy.com/life/crean-bolsa-papel-fuerte-capaz-resistir-lluvia-1234718' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/bolsa-papel-3016274.jpg?tf=1200x' alt='Crean una bolsa de papel más fuerte capaz de resistir hasta la lluvia' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/7-peliculas-nos-ensenaron-debemos-valorar-muchos-aspectos-trabajar-ia-como-chatgpt-1232128'>7 películas que nos enseñaron que debemos valorar muchos aspectos al trabajar con una IA como ChatGPT</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/7-peliculas-nos-ensenaron-debemos-valorar-muchos-aspectos-trabajar-ia-como-chatgpt-1232128' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/7-peliculas-nos-ensenaron-debemos-valorar-muchos-aspectos-trabajar-ia-como-chatgpt-3012164.jpg?tf=1200x' alt='7 películas que nos enseñaron que debemos valorar muchos aspectos al trabajar con una IA como ChatGPT' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/chat-inteligente-bing-ya-no-te-dejara-tirado-conversaciones-1234728'>El chat inteligente de Bing ya no te dejará tirado en las conversaciones</a></h4>
+    <a href='https://computerhoy.com/apps/chat-inteligente-bing-ya-no-te-dejara-tirado-conversaciones-1234728' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/bing-2993878.jpg?tf=1200x' alt='El chat inteligente de Bing ya no te dejará tirado en las conversaciones' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tutoriales/mejores-trucos-tener-look-minimal-windows-11-1206154'>Los mejores trucos para tener un look Minimal en Windows 11</a></h4>
     <a href='https://computerhoy.com/tutoriales/mejores-trucos-tener-look-minimal-windows-11-1206154' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/windows-11-2498473.jpg?tf=1200x' alt='Los mejores trucos para tener un look Minimal en Windows 11' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/life/estos-trabajadores-pagaban-grandes-sumas-economicas-no-hacer-nada-1234716'>A estos trabajadores les pagaban grandes sumas económicas por no hacer nada</a></h4>
     <a href='https://computerhoy.com/life/estos-trabajadores-pagaban-grandes-sumas-economicas-no-hacer-nada-1234716' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/trabajar-oficina-3016272.jpg?tf=1200x' alt='A estos trabajadores les pagaban grandes sumas económicas por no hacer nada' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/superinteligencia-artificial-1213438'>¿Qué es la Superinteligencia Artificial (ASI)?</a></h4>
-    <a href='https://computerhoy.com/tecnologia/superinteligencia-artificial-1213438' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/verticalimage1682076218344-3015186.jpg?tf=1200x' alt='¿Qué es la Superinteligencia Artificial (ASI)?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/he-probado-hackear-chatgpt-salte-politicas-openai-resultado-1233920'>He probado a 'hackear' ChatGPT para que se salte las políticas de OpenAI y este es el resultado</a></h4>
-    <a href='https://computerhoy.com/tecnologia/he-probado-hackear-chatgpt-salte-politicas-openai-resultado-1233920' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/chatgpt-3015198.jpg?tf=1200x' alt='He probado a 'hackear' ChatGPT para que se salte las políticas de OpenAI y este es el resultado' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/moviles-han-muerto-larga-vida-moviles-1232278'>¿Son los móviles actuales un formato obsoleto o todavía les queda margen?</a></h4>
-    <a href='https://computerhoy.com/moviles/moviles-han-muerto-larga-vida-moviles-1232278' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/samsung-galaxy-s23-galaxy-s23-analisis-opinion-3006122.jpg?tf=1200x' alt='¿Son los móviles actuales un formato obsoleto o todavía les queda margen?' />
     </a>
 </div>
 
