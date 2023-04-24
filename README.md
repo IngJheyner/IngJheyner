@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/moviles/errores-carga-matan-bateria-movil-expertos-1235016'>Los errores más comunes que acaban con la batería de tu móvil, según los expertos en reparación</a></h4>
+    <a href='https://computerhoy.com/moviles/errores-carga-matan-bateria-movil-expertos-1235016' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/errores-comunes-acaban-bateria-movil-expertos-reparacion-3016760.jpg?tf=1200x' alt='Los errores más comunes que acaban con la batería de tu móvil, según los expertos en reparación' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tutoriales/como-instalar-ia-conversacional-estilo-chatgpt-local-gratis-1234994'>Cómo instalar una IA de estilo ChatGPT en tu ordenador, que funcione en local y gratis</a></h4>
     <a href='https://computerhoy.com/tutoriales/como-instalar-ia-conversacional-estilo-chatgpt-local-gratis-1234994' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/gpt4all-3016702.jpg?tf=1200x' alt='Cómo instalar una IA de estilo ChatGPT en tu ordenador, que funcione en local y gratis' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/moviles/marca-moviles-ha-vendido-2022-pero-no-rentable-1216252'>Vender más no siempre es lo más rentable: ¿sabes cuántos móviles se compran al día?</a></h4>
     <a href='https://computerhoy.com/moviles/marca-moviles-ha-vendido-2022-pero-no-rentable-1216252' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/ventas-moviles-2022-3014368.jpg?tf=1200x' alt='Vender más no siempre es lo más rentable: ¿sabes cuántos móviles se compran al día?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/vacaciones-verano-2023-productos-tecnologicos-no-pueden-faltar-maleta-1234470'>Vacaciones de verano 2023: los productos tecnológicos que no pueden faltar en tu maleta</a></h4>
-    <a href='https://computerhoy.com/life/vacaciones-verano-2023-productos-tecnologicos-no-pueden-faltar-maleta-1234470' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/mujer-leyendo-playa-3015954.jpg?tf=1200x' alt='Vacaciones de verano 2023: los productos tecnológicos que no pueden faltar en tu maleta' />
     </a>
 </div>
 
