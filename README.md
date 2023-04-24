@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/vacaciones-verano-2023-productos-tecnologicos-no-pueden-faltar-maleta-1234470'>Vacaciones de verano 2023: los productos tecnológicos que no pueden faltar en tu maleta</a></h4>
+    <a href='https://computerhoy.com/life/vacaciones-verano-2023-productos-tecnologicos-no-pueden-faltar-maleta-1234470' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/mujer-leyendo-playa-3015954.jpg?tf=1200x' alt='Vacaciones de verano 2023: los productos tecnológicos que no pueden faltar en tu maleta' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/gaming/microsoft-adventure-primer-juego-comercial-pc-historia-1234790'>Así es Microsoft Adventure, el olvidado primer juego comercial de PC de la historia, que ha cumplido 42 años</a></h4>
     <a href='https://computerhoy.com/gaming/microsoft-adventure-primer-juego-comercial-pc-historia-1234790' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/microsoft-adventure-olvidado-primer-juego-pc-historia-ha-cumplido-42-anos-3016410.jpg?tf=1200x' alt='Así es Microsoft Adventure, el olvidado primer juego comercial de PC de la historia, que ha cumplido 42 años' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/espacio/video-asmr-tierra-espacio-nasa-resolucion-4k-1234776'>Este vídeo ASMR de la Tierra desde el espacio creado por la NASA, te ayudará a relajarte</a></h4>
     <a href='https://computerhoy.com/espacio/video-asmr-tierra-espacio-nasa-resolucion-4k-1234776' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/video-asmr-tierra-espacio-creado-nasa-te-ayudara-relajarte-3016384.jpg?tf=1200x' alt='Este vídeo ASMR de la Tierra desde el espacio creado por la NASA, te ayudará a relajarte' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/openai-gasta-millones-chatgpt-1234774'>A OpenAI le cuesta una millonada al día hacer funcionar ChatGPT: así quiere reducir el gasto</a></h4>
-    <a href='https://computerhoy.com/tecnologia/openai-gasta-millones-chatgpt-1234774' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/openai-cuesta-millonada-dia-hacer-funcionar-chatgpt-como-quiere-reducir-gasto-3016380.jpg?tf=1200x' alt='A OpenAI le cuesta una millonada al día hacer funcionar ChatGPT: así quiere reducir el gasto' />
     </a>
 </div>
 
