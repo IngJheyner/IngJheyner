@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-instalar-ia-conversacional-estilo-chatgpt-local-gratis-1234994'>Cómo instalar una IA de estilo ChatGPT en tu ordenador, que funcione en local y gratis</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-instalar-ia-conversacional-estilo-chatgpt-local-gratis-1234994' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/gpt4all-3016702.jpg?tf=1200x' alt='Cómo instalar una IA de estilo ChatGPT en tu ordenador, que funcione en local y gratis' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/microsoft-da-ciberdelincuentes-nuevos-nombres-basados-clima-1235000'>Microsoft estrena nomenclatura para los ciberdelincuentes basándose en desastres naturales </a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/microsoft-da-ciberdelincuentes-nuevos-nombres-basados-clima-1235000' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/nueva-nomenclatura-microsoft-grupos-ciberdelincuentes-basandose-desastres-naturales-3016662.jpg?tf=1200x' alt='Microsoft estrena nomenclatura para los ciberdelincuentes basándose en desastres naturales ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/pc/nuevo-mac-mini-chip-m2-precio-minimo-historico-abril-2023-1234772'>El nuevo Mac mini con chip M2 a su precio mínimo histórico, solo 679€</a></h4>
+    <a href='https://computerhoy.com/pc/nuevo-mac-mini-chip-m2-precio-minimo-historico-abril-2023-1234772' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/mac-mini-m2-pro-1678355448818-2978228.jpg?tf=1200x' alt='El nuevo Mac mini con chip M2 a su precio mínimo histórico, solo 679€' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/moviles/marca-moviles-ha-vendido-2022-pero-no-rentable-1216252'>Vender más no siempre es lo más rentable: ¿sabes cuántos móviles se compran al día?</a></h4>
+    <a href='https://computerhoy.com/moviles/marca-moviles-ha-vendido-2022-pero-no-rentable-1216252' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/ventas-moviles-2022-3014368.jpg?tf=1200x' alt='Vender más no siempre es lo más rentable: ¿sabes cuántos móviles se compran al día?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/vacaciones-verano-2023-productos-tecnologicos-no-pueden-faltar-maleta-1234470'>Vacaciones de verano 2023: los productos tecnológicos que no pueden faltar en tu maleta</a></h4>
     <a href='https://computerhoy.com/life/vacaciones-verano-2023-productos-tecnologicos-no-pueden-faltar-maleta-1234470' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/mujer-leyendo-playa-3015954.jpg?tf=1200x' alt='Vacaciones de verano 2023: los productos tecnológicos que no pueden faltar en tu maleta' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/gaming/microsoft-adventure-primer-juego-comercial-pc-historia-1234790'>Así es Microsoft Adventure, el olvidado primer juego comercial de PC de la historia, que ha cumplido 42 años</a></h4>
-    <a href='https://computerhoy.com/gaming/microsoft-adventure-primer-juego-comercial-pc-historia-1234790' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/microsoft-adventure-olvidado-primer-juego-pc-historia-ha-cumplido-42-anos-3016410.jpg?tf=1200x' alt='Así es Microsoft Adventure, el olvidado primer juego comercial de PC de la historia, que ha cumplido 42 años' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/biofire-smart-gun-pistola-inteligente-huella-dactilar-reconocimiento-facial-1234788'>Biofire Smart Gun, la pistola con huella dactilar y reconocimiento facial que quiere salvar cientos de vidas</a></h4>
-    <a href='https://computerhoy.com/life/biofire-smart-gun-pistola-inteligente-huella-dactilar-reconocimiento-facial-1234788' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/biofire-smart-gun-pistola-huella-dactilar-reconocimiento-facial-quiere-salvar-cientos-vidas-3016390.jpg?tf=1200x' alt='Biofire Smart Gun, la pistola con huella dactilar y reconocimiento facial que quiere salvar cientos de vidas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/twitter-regala-verificacion-cuentas-celebridades-fallecidas-1234782'>Twitter “regala” la verificación a cuentas de celebridades fallecidas</a></h4>
-    <a href='https://computerhoy.com/apps/twitter-regala-verificacion-cuentas-celebridades-fallecidas-1234782' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/verdad-twitter-eliminara-hoy-insignia-verificacion-no-ser-pagues-ella-3013732.jpg?tf=1200x' alt='Twitter “regala” la verificación a cuentas de celebridades fallecidas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/video-asmr-tierra-espacio-nasa-resolucion-4k-1234776'>Este vídeo ASMR de la Tierra desde el espacio creado por la NASA, te ayudará a relajarte</a></h4>
-    <a href='https://computerhoy.com/espacio/video-asmr-tierra-espacio-nasa-resolucion-4k-1234776' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/video-asmr-tierra-espacio-creado-nasa-te-ayudara-relajarte-3016384.jpg?tf=1200x' alt='Este vídeo ASMR de la Tierra desde el espacio creado por la NASA, te ayudará a relajarte' />
     </a>
 </div>
 
