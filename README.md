@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/gaming/microsoft-adventure-primer-juego-comercial-pc-historia-1234790'>Así es Microsoft Adventure, el olvidado primer juego comercial de PC de la historia, que ha cumplido 42 años</a></h4>
+    <a href='https://computerhoy.com/gaming/microsoft-adventure-primer-juego-comercial-pc-historia-1234790' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/microsoft-adventure-olvidado-primer-juego-pc-historia-ha-cumplido-42-anos-3016410.jpg?tf=1200x' alt='Así es Microsoft Adventure, el olvidado primer juego comercial de PC de la historia, que ha cumplido 42 años' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/biofire-smart-gun-pistola-inteligente-huella-dactilar-reconocimiento-facial-1234788'>Biofire Smart Gun, la pistola con huella dactilar y reconocimiento facial que quiere salvar cientos de vidas</a></h4>
     <a href='https://computerhoy.com/life/biofire-smart-gun-pistola-inteligente-huella-dactilar-reconocimiento-facial-1234788' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/biofire-smart-gun-pistola-huella-dactilar-reconocimiento-facial-quiere-salvar-cientos-vidas-3016390.jpg?tf=1200x' alt='Biofire Smart Gun, la pistola con huella dactilar y reconocimiento facial que quiere salvar cientos de vidas' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/openai-gasta-millones-chatgpt-1234774'>A OpenAI le cuesta una millonada al día hacer funcionar ChatGPT: así quiere reducir el gasto</a></h4>
     <a href='https://computerhoy.com/tecnologia/openai-gasta-millones-chatgpt-1234774' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/openai-cuesta-millonada-dia-hacer-funcionar-chatgpt-como-quiere-reducir-gasto-3016380.jpg?tf=1200x' alt='A OpenAI le cuesta una millonada al día hacer funcionar ChatGPT: así quiere reducir el gasto' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/chromebooks-rompen-no-se-pueden-reparar-1234766'>Miles de Chromebooks comprados por las escuelas se están rompiendo, y no se pueden reparar  </a></h4>
-    <a href='https://computerhoy.com/pc/chromebooks-rompen-no-se-pueden-reparar-1234766' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/lenovo-ideapad-3-cb-14m836-chromebook-gen-6-2682421.jpg?tf=1200x' alt='Miles de Chromebooks comprados por las escuelas se están rompiendo, y no se pueden reparar  ' />
     </a>
 </div>
 
