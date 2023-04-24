@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/biofire-smart-gun-pistola-inteligente-huella-dactilar-reconocimiento-facial-1234788'>Biofire Smart Gun, la pistola con huella dactilar y reconocimiento facial que quiere salvar cientos de vidas</a></h4>
+    <a href='https://computerhoy.com/life/biofire-smart-gun-pistola-inteligente-huella-dactilar-reconocimiento-facial-1234788' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/biofire-smart-gun-pistola-huella-dactilar-reconocimiento-facial-quiere-salvar-cientos-vidas-3016390.jpg?tf=1200x' alt='Biofire Smart Gun, la pistola con huella dactilar y reconocimiento facial que quiere salvar cientos de vidas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/twitter-regala-verificacion-cuentas-celebridades-fallecidas-1234782'>Twitter “regala” la verificación a cuentas de celebridades fallecidas</a></h4>
+    <a href='https://computerhoy.com/apps/twitter-regala-verificacion-cuentas-celebridades-fallecidas-1234782' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/verdad-twitter-eliminara-hoy-insignia-verificacion-no-ser-pagues-ella-3013732.jpg?tf=1200x' alt='Twitter “regala” la verificación a cuentas de celebridades fallecidas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/espacio/video-asmr-tierra-espacio-nasa-resolucion-4k-1234776'>Este vídeo ASMR de la Tierra desde el espacio creado por la NASA, te ayudará a relajarte</a></h4>
     <a href='https://computerhoy.com/espacio/video-asmr-tierra-espacio-nasa-resolucion-4k-1234776' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/video-asmr-tierra-espacio-creado-nasa-te-ayudara-relajarte-3016384.jpg?tf=1200x' alt='Este vídeo ASMR de la Tierra desde el espacio creado por la NASA, te ayudará a relajarte' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/pc/chromebooks-rompen-no-se-pueden-reparar-1234766'>Miles de Chromebooks comprados por las escuelas se están rompiendo, y no se pueden reparar  </a></h4>
     <a href='https://computerhoy.com/pc/chromebooks-rompen-no-se-pueden-reparar-1234766' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/lenovo-ideapad-3-cb-14m836-chromebook-gen-6-2682421.jpg?tf=1200x' alt='Miles de Chromebooks comprados por las escuelas se están rompiendo, y no se pueden reparar  ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/hogar/aires-acondicionados-ventiladores-oferta-antes-llegue-verano-1233938'>Superamos los 30ºC y no es verano: Es el momento de comprar ventiladores y aires acondicionados en oferta</a></h4>
-    <a href='https://computerhoy.com/hogar/aires-acondicionados-ventiladores-oferta-antes-llegue-verano-1233938' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/mujer-calor-sujetando-abanico-3015014.jpg?tf=1200x' alt='Superamos los 30ºC y no es verano: Es el momento de comprar ventiladores y aires acondicionados en oferta' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-descargar-musica-youtube-ordenador-1225418'>Cómo descargar música de YouTube al ordenador</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-descargar-musica-youtube-ordenador-1225418' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/musica-youtube-3000702.jpg?tf=1200x' alt='Cómo descargar música de YouTube al ordenador' />
     </a>
 </div>
 
