@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/hogar/tienes-colocado-asistente-alexa-lugar-equivocado-seguramente-no-sabes-1235142'>Tienes colocado tu asistente con Alexa en el lugar equivocado y seguramente no lo sabes</a></h4>
+    <a href='https://computerhoy.com/hogar/tienes-colocado-asistente-alexa-lugar-equivocado-seguramente-no-sabes-1235142' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/tienes-colocado-asistente-alexa-lugar-equivocado-seguramente-no-sabes-3017026.jpg?tf=1200x' alt='Tienes colocado tu asistente con Alexa en el lugar equivocado y seguramente no lo sabes' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciberseguridad/flipper-zero-juguete-peligrosa-herramienta-aprendices-hacker-1235106'>Flipper Zero: ¿juguete o peligrosa herramienta para aprendices de hacker?</a></h4>
     <a href='https://computerhoy.com/ciberseguridad/flipper-zero-juguete-peligrosa-herramienta-aprendices-hacker-1235106' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/flipper-zero-3017058.jpg?tf=1200x' alt='Flipper Zero: ¿juguete o peligrosa herramienta para aprendices de hacker?' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/chromecast-google-tv-vs-amazon-fire-tv-cual-deberias-comprar-728165'>Chromecast con Google TV vs Amazon Fire TV: ¿Cuál deberías comprar?</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/chromecast-google-tv-vs-amazon-fire-tv-cual-deberias-comprar-728165' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/analisis-amazon-fire-tv-cube-2022-2925922.jpg?tf=1200x' alt='Chromecast con Google TV vs Amazon Fire TV: ¿Cuál deberías comprar?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/realidad-virtual/estas-son-algunas-caracteristicas-clave-gafas-apple-1235074'>Apple VR: Todo lo que sabemos de las gafas Reality Pro de Apple</a></h4>
-    <a href='https://computerhoy.com/realidad-virtual/estas-son-algunas-caracteristicas-clave-gafas-apple-1235074' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/hombre-visor-realidad-virtual-cabeza-2787451.jpg?tf=1200x' alt='Apple VR: Todo lo que sabemos de las gafas Reality Pro de Apple' />
     </a>
 </div>
 
