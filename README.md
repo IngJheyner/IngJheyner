@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/errores-carga-matan-bateria-movil-expertos-1235016'>Los errores más comunes que acaban con la batería de tu móvil, según los expertos en reparación</a></h4>
-    <a href='https://computerhoy.com/moviles/errores-carga-matan-bateria-movil-expertos-1235016' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/errores-comunes-acaban-bateria-movil-expertos-reparacion-3016760.jpg?tf=1200x' alt='Los errores más comunes que acaban con la batería de tu móvil, según los expertos en reparación' />
+    <h4><a href='https://computerhoy.com/ciberseguridad/flipper-zero-juguete-peligrosa-herramienta-aprendices-hacker-1235106'>Flipper Zero: ¿juguete o peligrosa herramienta para aprendices de hacker?</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/flipper-zero-juguete-peligrosa-herramienta-aprendices-hacker-1235106' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/flipper-zero-3017058.jpg?tf=1200x' alt='Flipper Zero: ¿juguete o peligrosa herramienta para aprendices de hacker?' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-instalar-ia-conversacional-estilo-chatgpt-local-gratis-1234994'>Cómo instalar una IA de estilo ChatGPT en tu ordenador, que funcione en local y gratis</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-instalar-ia-conversacional-estilo-chatgpt-local-gratis-1234994' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/gpt4all-3016702.jpg?tf=1200x' alt='Cómo instalar una IA de estilo ChatGPT en tu ordenador, que funcione en local y gratis' />
+    <h4><a href='https://computerhoy.com/redes-sociales/elon-musk-quier-utilizar-twitter-entrenar-nueva-inteligencia-artificial-truthgpt-1235132'>Elon Musk planea utilizar Twitter para enseñar a su nueva inteligencia artificial TruthGPT</a></h4>
+    <a href='https://computerhoy.com/redes-sociales/elon-musk-quier-utilizar-twitter-entrenar-nueva-inteligencia-artificial-truthgpt-1235132' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/elon-musk-inteligencia-artificial-2969202.jpg?tf=1200x' alt='Elon Musk planea utilizar Twitter para enseñar a su nueva inteligencia artificial TruthGPT' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/microsoft-da-ciberdelincuentes-nuevos-nombres-basados-clima-1235000'>Microsoft estrena nomenclatura para los ciberdelincuentes basándose en desastres naturales </a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/microsoft-da-ciberdelincuentes-nuevos-nombres-basados-clima-1235000' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/nueva-nomenclatura-microsoft-grupos-ciberdelincuentes-basandose-desastres-naturales-3016662.jpg?tf=1200x' alt='Microsoft estrena nomenclatura para los ciberdelincuentes basándose en desastres naturales ' />
+    <h4><a href='https://computerhoy.com/streaming/ya-hay-fecha-estreno-skyshowtime-promete-ser-documental-polemico-ano-espana-1235088'>Ya hay fecha de estreno en SkyShowtime del que promete ser el documental más polémico del año en España</a></h4>
+    <a href='https://computerhoy.com/streaming/ya-hay-fecha-estreno-skyshowtime-promete-ser-documental-polemico-ano-espana-1235088' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/ya-hay-fecha-estreno-skyshowtime-promete-ser-documental-polemico-ano-espana-3016952.jpg?tf=1200x' alt='Ya hay fecha de estreno en SkyShowtime del que promete ser el documental más polémico del año en España' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/nuevo-mac-mini-chip-m2-precio-minimo-historico-abril-2023-1234772'>El nuevo Mac mini con chip M2 a su precio mínimo histórico, solo 679€</a></h4>
-    <a href='https://computerhoy.com/pc/nuevo-mac-mini-chip-m2-precio-minimo-historico-abril-2023-1234772' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/mac-mini-m2-pro-1678355448818-2978228.jpg?tf=1200x' alt='El nuevo Mac mini con chip M2 a su precio mínimo histórico, solo 679€' />
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/chromecast-google-tv-vs-amazon-fire-tv-cual-deberias-comprar-728165'>Chromecast con Google TV vs Amazon Fire TV: ¿Cuál deberías comprar?</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/chromecast-google-tv-vs-amazon-fire-tv-cual-deberias-comprar-728165' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/analisis-amazon-fire-tv-cube-2022-2925922.jpg?tf=1200x' alt='Chromecast con Google TV vs Amazon Fire TV: ¿Cuál deberías comprar?' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/marca-moviles-ha-vendido-2022-pero-no-rentable-1216252'>Vender más no siempre es lo más rentable: ¿sabes cuántos móviles se compran al día?</a></h4>
-    <a href='https://computerhoy.com/moviles/marca-moviles-ha-vendido-2022-pero-no-rentable-1216252' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/ventas-moviles-2022-3014368.jpg?tf=1200x' alt='Vender más no siempre es lo más rentable: ¿sabes cuántos móviles se compran al día?' />
+    <h4><a href='https://computerhoy.com/realidad-virtual/estas-son-algunas-caracteristicas-clave-gafas-apple-1235074'>Apple VR: Todo lo que sabemos de las gafas Reality Pro de Apple</a></h4>
+    <a href='https://computerhoy.com/realidad-virtual/estas-son-algunas-caracteristicas-clave-gafas-apple-1235074' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/hombre-visor-realidad-virtual-cabeza-2787451.jpg?tf=1200x' alt='Apple VR: Todo lo que sabemos de las gafas Reality Pro de Apple' />
     </a>
 </div>
 
