@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/criptos/bitcoin-podria-llegar-100000-dolares-2024-banco-standard-chartered-1235262'>Bitcoin podría llegar a 100.000 dólares en 2024</a></h4>
-    <a href='https://computerhoy.com/criptos/bitcoin-podria-llegar-100000-dolares-2024-banco-standard-chartered-1235262' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/bitcoin-2928088.jpg?tf=1200x' alt='Bitcoin podría llegar a 100.000 dólares en 2024' />
+    <h4><a href='https://computerhoy.com/tecnologia/amazon-kindle-microsoft-word-ya-son-oficialmente-amigos-1235372'>Amazon Kindle y Microsoft Word ya son oficialmente amigos</a></h4>
+    <a href='https://computerhoy.com/tecnologia/amazon-kindle-microsoft-word-ya-son-oficialmente-amigos-1235372' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/kindle-scribe-2828135.jpg?tf=1200x' alt='Amazon Kindle y Microsoft Word ya son oficialmente amigos' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/mejores/mini-proyectores-viaje-1235082'>Mini proyectores de viaje: qué debes saber sobre ellos y mejores modelos</a></h4>
-    <a href='https://computerhoy.com/mejores/mini-proyectores-viaje-1235082' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/mini-proyector-3016934.jpg?tf=1200x' alt='Mini proyectores de viaje: qué debes saber sobre ellos y mejores modelos' />
+    <h4><a href='https://computerhoy.com/streaming/skyshowtime-estrenos-mayo-frasier-twin-peaks-1235374'>SkyShowtime recupera las dos series más icónicas de los 90, entre sus estrenos de mayo</a></h4>
+    <a href='https://computerhoy.com/streaming/skyshowtime-estrenos-mayo-frasier-twin-peaks-1235374' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/skyshowtime-recupera-dos-series-iconicas-90-estrenos-mayo-3017400.jpg?tf=1200x' alt='SkyShowtime recupera las dos series más icónicas de los 90, entre sus estrenos de mayo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/sec-palm-google-chatgpt-especializado-ciberseguridad-1235284'>Sec-PaLM, la nueva IA estilo ChatGPT de Google, especializada en ciberseguridad</a></h4>
-    <a href='https://computerhoy.com/google/sec-palm-google-chatgpt-especializado-ciberseguridad-1235284' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/google-crea-propio-chatgpt-especializado-ciberseguridad-3017236.jpg?tf=1200x' alt='Sec-PaLM, la nueva IA estilo ChatGPT de Google, especializada en ciberseguridad' />
+    <h4><a href='https://computerhoy.com/ciberseguridad/guardia-civil-alerta-peligroso-mensaje-siendo-difundido-whatsapp-1235360'>Guardia Civil alerta de un peligroso mensaje que está siendo difundido por WhatsApp</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/guardia-civil-alerta-peligroso-mensaje-siendo-difundido-whatsapp-1235360' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/whatsapp-2708557.jpg?tf=1200x' alt='Guardia Civil alerta de un peligroso mensaje que está siendo difundido por WhatsApp' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/streaming/ahora-nunca-oferta-conseguir-skyshowtime-casi-gratis-vida-acaba-unas-horas-1235266'>Ahora o nunca: la oferta para conseguir SkyShowtime casi gratis de por vida se acaba en unas horas</a></h4>
-    <a href='https://computerhoy.com/streaming/ahora-nunca-oferta-conseguir-skyshowtime-casi-gratis-vida-acaba-unas-horas-1235266' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/skyshowtime-3017250.jpg?tf=1200x' alt='Ahora o nunca: la oferta para conseguir SkyShowtime casi gratis de por vida se acaba en unas horas' />
+    <h4><a href='https://computerhoy.com/apple/paga-43000-euros-poder-hacer-unboxing-youtube-primer-iphone-1235358'>Paga más de 43.000 euros para poder hacer un unboxing en YouTube del primer iPhone</a></h4>
+    <a href='https://computerhoy.com/apple/paga-43000-euros-poder-hacer-unboxing-youtube-primer-iphone-1235358' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/paga-43000-euros-poder-hacer-unboxing-youtube-primer-iphone-3017412.jpg?tf=1200x' alt='Paga más de 43.000 euros para poder hacer un unboxing en YouTube del primer iPhone' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/redes-sociales/telegram-actualiza-novedades-muy-potentes-bots-mejorados-chats-compartibles-1235212'>Telegram se actualiza con novedades muy potentes: bots mejorados, chats compartibles y más</a></h4>
-    <a href='https://computerhoy.com/redes-sociales/telegram-actualiza-novedades-muy-potentes-bots-mejorados-chats-compartibles-1235212' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/telegram-3017214.jpg?tf=1200x' alt='Telegram se actualiza con novedades muy potentes: bots mejorados, chats compartibles y más' />
+    <h4><a href='https://computerhoy.com/tecnologia/directora-tecnologia-openai-mira-murati-admite-chatgpt-tiene-ser-regulado-autoridades-1235330'>La propia directora de tecnología de OpenAI admite que ChatGPT tiene que ser regulado por las autoridades</a></h4>
+    <a href='https://computerhoy.com/tecnologia/directora-tecnologia-openai-mira-murati-admite-chatgpt-tiene-ser-regulado-autoridades-1235330' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/aprueba-chatgpt-test-turing-2996706.jpg?tf=1200x' alt='La propia directora de tecnología de OpenAI admite que ChatGPT tiene que ser regulado por las autoridades' />
     </a>
 </div>
 
