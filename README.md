@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/hogar/tienes-colocado-asistente-alexa-lugar-equivocado-seguramente-no-sabes-1235142'>Tienes colocado tu asistente con Alexa en el lugar equivocado y seguramente no lo sabes</a></h4>
-    <a href='https://computerhoy.com/hogar/tienes-colocado-asistente-alexa-lugar-equivocado-seguramente-no-sabes-1235142' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/tienes-colocado-asistente-alexa-lugar-equivocado-seguramente-no-sabes-3017026.jpg?tf=1200x' alt='Tienes colocado tu asistente con Alexa en el lugar equivocado y seguramente no lo sabes' />
+    <h4><a href='https://computerhoy.com/criptos/bitcoin-podria-llegar-100000-dolares-2024-banco-standard-chartered-1235262'>Bitcoin podría llegar a 100.000 dólares en 2024</a></h4>
+    <a href='https://computerhoy.com/criptos/bitcoin-podria-llegar-100000-dolares-2024-banco-standard-chartered-1235262' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/bitcoin-2928088.jpg?tf=1200x' alt='Bitcoin podría llegar a 100.000 dólares en 2024' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/flipper-zero-juguete-peligrosa-herramienta-aprendices-hacker-1235106'>Flipper Zero: ¿juguete o peligrosa herramienta para aprendices de hacker?</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/flipper-zero-juguete-peligrosa-herramienta-aprendices-hacker-1235106' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/flipper-zero-3017058.jpg?tf=1200x' alt='Flipper Zero: ¿juguete o peligrosa herramienta para aprendices de hacker?' />
+    <h4><a href='https://computerhoy.com/mejores/mini-proyectores-viaje-1235082'>Mini proyectores de viaje: qué debes saber sobre ellos y mejores modelos</a></h4>
+    <a href='https://computerhoy.com/mejores/mini-proyectores-viaje-1235082' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/mini-proyector-3016934.jpg?tf=1200x' alt='Mini proyectores de viaje: qué debes saber sobre ellos y mejores modelos' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/redes-sociales/elon-musk-quier-utilizar-twitter-entrenar-nueva-inteligencia-artificial-truthgpt-1235132'>Elon Musk planea utilizar Twitter para enseñar a su nueva inteligencia artificial TruthGPT</a></h4>
-    <a href='https://computerhoy.com/redes-sociales/elon-musk-quier-utilizar-twitter-entrenar-nueva-inteligencia-artificial-truthgpt-1235132' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/elon-musk-inteligencia-artificial-2969202.jpg?tf=1200x' alt='Elon Musk planea utilizar Twitter para enseñar a su nueva inteligencia artificial TruthGPT' />
+    <h4><a href='https://computerhoy.com/google/sec-palm-google-chatgpt-especializado-ciberseguridad-1235284'>Sec-PaLM, la nueva IA estilo ChatGPT de Google, especializada en ciberseguridad</a></h4>
+    <a href='https://computerhoy.com/google/sec-palm-google-chatgpt-especializado-ciberseguridad-1235284' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/google-crea-propio-chatgpt-especializado-ciberseguridad-3017236.jpg?tf=1200x' alt='Sec-PaLM, la nueva IA estilo ChatGPT de Google, especializada en ciberseguridad' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/streaming/ya-hay-fecha-estreno-skyshowtime-promete-ser-documental-polemico-ano-espana-1235088'>Ya hay fecha de estreno en SkyShowtime del que promete ser el documental más polémico del año en España</a></h4>
-    <a href='https://computerhoy.com/streaming/ya-hay-fecha-estreno-skyshowtime-promete-ser-documental-polemico-ano-espana-1235088' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/ya-hay-fecha-estreno-skyshowtime-promete-ser-documental-polemico-ano-espana-3016952.jpg?tf=1200x' alt='Ya hay fecha de estreno en SkyShowtime del que promete ser el documental más polémico del año en España' />
+    <h4><a href='https://computerhoy.com/streaming/ahora-nunca-oferta-conseguir-skyshowtime-casi-gratis-vida-acaba-unas-horas-1235266'>Ahora o nunca: la oferta para conseguir SkyShowtime casi gratis de por vida se acaba en unas horas</a></h4>
+    <a href='https://computerhoy.com/streaming/ahora-nunca-oferta-conseguir-skyshowtime-casi-gratis-vida-acaba-unas-horas-1235266' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/skyshowtime-3017250.jpg?tf=1200x' alt='Ahora o nunca: la oferta para conseguir SkyShowtime casi gratis de por vida se acaba en unas horas' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/chromecast-google-tv-vs-amazon-fire-tv-cual-deberias-comprar-728165'>Chromecast con Google TV vs Amazon Fire TV: ¿Cuál deberías comprar?</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/chromecast-google-tv-vs-amazon-fire-tv-cual-deberias-comprar-728165' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/analisis-amazon-fire-tv-cube-2022-2925922.jpg?tf=1200x' alt='Chromecast con Google TV vs Amazon Fire TV: ¿Cuál deberías comprar?' />
+    <h4><a href='https://computerhoy.com/redes-sociales/telegram-actualiza-novedades-muy-potentes-bots-mejorados-chats-compartibles-1235212'>Telegram se actualiza con novedades muy potentes: bots mejorados, chats compartibles y más</a></h4>
+    <a href='https://computerhoy.com/redes-sociales/telegram-actualiza-novedades-muy-potentes-bots-mejorados-chats-compartibles-1235212' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/telegram-3017214.jpg?tf=1200x' alt='Telegram se actualiza con novedades muy potentes: bots mejorados, chats compartibles y más' />
     </a>
 </div>
 
