@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/asus-rog-ally-nueva-consola-portatil-windows-11-quiere-desbancar-steam-deck-1235840'>ASUS ROG Ally: así es la nueva consola portátil con Windows 11 que quiere desbancar a la Steam Deck</a></h4>
-    <a href='https://computerhoy.com/tecnologia/asus-rog-ally-nueva-consola-portatil-windows-11-quiere-desbancar-steam-deck-1235840' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/asus-rog-ally-nueva-consola-portatil-windows-11-quiere-desbancar-steam-deck-3018258.jpg?tf=1200x' alt='ASUS ROG Ally: así es la nueva consola portátil con Windows 11 que quiere desbancar a la Steam Deck' />
+    <h4><a href='https://computerhoy.com/internet/frase-delata-bot-spam-contaminando-web-contenido-generado-ia-1235928'>Esta frase delata a un bot de spam contaminando la web con contenido generado por IA</a></h4>
+    <a href='https://computerhoy.com/internet/frase-delata-bot-spam-contaminando-web-contenido-generado-ia-1235928' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/stop-spam-2573275.jpg?tf=1200x' alt='Esta frase delata a un bot de spam contaminando la web con contenido generado por IA' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-proyectores-puedes-comprar-4k-full-hd-portatiles-1056845'>Mejores proyectores que puedes comprar: 4K, Full HD y portátiles</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-proyectores-puedes-comprar-4k-full-hd-portatiles-1056845' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/proyector-2694963.jpg?tf=1200x' alt='Mejores proyectores que puedes comprar: 4K, Full HD y portátiles' />
+    <h4><a href='https://computerhoy.com/tv/mogo-2-mogo-2-pro-son-nuevos-proyectores-portatiles-xgimi-1235940'>MoGo 2 y MoGo 2 Pro: así son los nuevos proyectores portátiles de XGIMI</a></h4>
+    <a href='https://computerhoy.com/tv/mogo-2-mogo-2-pro-son-nuevos-proyectores-portatiles-xgimi-1235940' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/mogo-2-mogo-2-pro-son-nuevos-proyectores-portatiles-xgimi-3018434.jpg?tf=1200x' alt='MoGo 2 y MoGo 2 Pro: así son los nuevos proyectores portátiles de XGIMI' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/nueva-funcionalidad-llegara-whatsapp-copia-telegram-1235736'>La nueva funcionalidad que llegará a WhatsApp y que es una copia de Telegram</a></h4>
-    <a href='https://computerhoy.com/apps/nueva-funcionalidad-llegara-whatsapp-copia-telegram-1235736' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/nueva-funcionalidad-llegara-whatsapp-copia-telegram-3018004.jpg?tf=1200x' alt='La nueva funcionalidad que llegará a WhatsApp y que es una copia de Telegram' />
+    <h4><a href='https://computerhoy.com/listas/tecnologia/5-alternativas-chromecast-puedes-comprar-amazon-572101'>5 alternativas al Chromecast que sí puedes comprar en Amazon</a></h4>
+    <a href='https://computerhoy.com/listas/tecnologia/5-alternativas-chromecast-puedes-comprar-amazon-572101' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/google-chromecast-2926538.jpg?tf=1200x' alt='5 alternativas al Chromecast que sí puedes comprar en Amazon' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/google-cloud-pone-prueba-nuevos-chips-intel-encuentra-varios-fallos-seguridad-1235708'>Google Cloud pone a prueba los nuevos chips de Intel y encuentra varios fallos de seguridad</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/google-cloud-pone-prueba-nuevos-chips-intel-encuentra-varios-fallos-seguridad-1235708' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/google-cloud-pone-prueba-nuevos-chips-intel-encuentra-varios-fallos-seguridad-3017956.jpg?tf=1200x' alt='Google Cloud pone a prueba los nuevos chips de Intel y encuentra varios fallos de seguridad' />
+    <h4><a href='https://computerhoy.com/entretenimiento/ia-genera-fotos-celebridades-comiendo-cemento-1235876'>Una IA genera fotos de famosos comiendo cemento y es lo más raro que hemos visto últimamente </a></h4>
+    <a href='https://computerhoy.com/entretenimiento/ia-genera-fotos-celebridades-comiendo-cemento-1235876' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/concurso-comer-cemento-famosos-3018374.jpg?tf=1200x' alt='Una IA genera fotos de famosos comiendo cemento y es lo más raro que hemos visto últimamente ' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/twitter-regala-verificacion-cuentas-celebridades-fallecidas-1234782'>Famosos fallecidos como Kobe Bryant o Pelé "se suscriben" a Twitter Blue desde la tumba: tienen la insignia en su perfil</a></h4>
-    <a href='https://computerhoy.com/apps/twitter-regala-verificacion-cuentas-celebridades-fallecidas-1234782' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/verdad-twitter-eliminara-hoy-insignia-verificacion-no-ser-pagues-ella-3013732.jpg?tf=1200x' alt='Famosos fallecidos como Kobe Bryant o Pelé "se suscriben" a Twitter Blue desde la tumba: tienen la insignia en su perfil' />
+    <h4><a href='https://computerhoy.com/google/truco-gmail-crear-cuentas-correo-infinitas-1235900'>El truco de Gmail con el que crear cuentas de correo infinitas</a></h4>
+    <a href='https://computerhoy.com/google/truco-gmail-crear-cuentas-correo-infinitas-1235900' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/persona-usando-gmail-2553633.jpg?tf=1200x' alt='El truco de Gmail con el que crear cuentas de correo infinitas' />
     </a>
 </div>
 
