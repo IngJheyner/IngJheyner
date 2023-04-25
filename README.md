@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/apple-anota-otra-victoria-batalla-epic-games-1235656'>Apple se anota otra victoria en la batalla de la App Store contra Epic Games</a></h4>
+    <a href='https://computerhoy.com/apple/apple-anota-otra-victoria-batalla-epic-games-1235656' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/apple-anota-otra-victoria-batalla-app-store-epic-games-3017822.jpg?tf=1200x' alt='Apple se anota otra victoria en la batalla de la App Store contra Epic Games' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/pc/amd-tiene-nuevas-gpu-camino-prometen-sorprender-sabemos-1235390'>AMD tiene nuevas GPU en camino y prometen sorprender, esto es lo que sabemos</a></h4>
     <a href='https://computerhoy.com/pc/amd-tiene-nuevas-gpu-camino-prometen-sorprender-sabemos-1235390' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/sapphire-pulse-amd-radeon-rx-7900-xt-3014702.jpg?tf=1200x' alt='AMD tiene nuevas GPU en camino y prometen sorprender, esto es lo que sabemos' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/analisis/apple-macbook-pro-16-m2-max-2023-analisis-review-caracteristicas-precio-1231358'>Apple MacBook Pro de 16” con M2 Max (2023), potencia y calidad al alcance de muy pocos</a></h4>
     <a href='https://computerhoy.com/analisis/apple-macbook-pro-16-m2-max-2023-analisis-review-caracteristicas-precio-1231358' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/macbook-pro-16-m2-max-analisis-opinion-3015952.jpg?tf=1200x' alt='Apple MacBook Pro de 16” con M2 Max (2023), potencia y calidad al alcance de muy pocos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/curioso-problema-matematico-sigue-dividiendo-internet-1235616'>El problema matemático que sigue dividiendo Internet, cada persona obtiene un resultado diferente</a></h4>
-    <a href='https://computerhoy.com/ciencia/curioso-problema-matematico-sigue-dividiendo-internet-1235616' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/problema-matematico-sigue-dividiendo-internet-cada-persona-obtiene-resultado-diferente-3017698.jpg?tf=1200x' alt='El problema matemático que sigue dividiendo Internet, cada persona obtiene un resultado diferente' />
     </a>
 </div>
 
