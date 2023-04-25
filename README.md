@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/pc/amd-tiene-nuevas-gpu-camino-prometen-sorprender-sabemos-1235390'>AMD tiene nuevas GPU en camino y prometen sorprender, esto es lo que sabemos</a></h4>
+    <a href='https://computerhoy.com/pc/amd-tiene-nuevas-gpu-camino-prometen-sorprender-sabemos-1235390' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/sapphire-pulse-amd-radeon-rx-7900-xt-3014702.jpg?tf=1200x' alt='AMD tiene nuevas GPU en camino y prometen sorprender, esto es lo que sabemos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/encuentran-camara-oculta-gran-piramide-guiza-1235644'>Encuentran una cámara oculta en la Gran Pirámide de Guiza</a></h4>
+    <a href='https://computerhoy.com/ciencia/encuentran-camara-oculta-gran-piramide-guiza-1235644' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/encuentran-camara-oculta-gran-piramide-giza-3017706.jpg?tf=1200x' alt='Encuentran una cámara oculta en la Gran Pirámide de Guiza' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/comandos-rapidos-chrome-como-activarlos-sirven-1235354'>Comandos rápidos de Chrome: cómo activarlos y para qué sirven</a></h4>
+    <a href='https://computerhoy.com/tutoriales/comandos-rapidos-chrome-como-activarlos-sirven-1235354' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/teclado-google-chrome-2406123.jpg?tf=1200x' alt='Comandos rápidos de Chrome: cómo activarlos y para qué sirven' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/analisis/apple-macbook-pro-16-m2-max-2023-analisis-review-caracteristicas-precio-1231358'>Apple MacBook Pro de 16” con M2 Max (2023), potencia y calidad al alcance de muy pocos</a></h4>
+    <a href='https://computerhoy.com/analisis/apple-macbook-pro-16-m2-max-2023-analisis-review-caracteristicas-precio-1231358' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/macbook-pro-16-m2-max-analisis-opinion-3015952.jpg?tf=1200x' alt='Apple MacBook Pro de 16” con M2 Max (2023), potencia y calidad al alcance de muy pocos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciencia/curioso-problema-matematico-sigue-dividiendo-internet-1235616'>El problema matemático que sigue dividiendo Internet, cada persona obtiene un resultado diferente</a></h4>
     <a href='https://computerhoy.com/ciencia/curioso-problema-matematico-sigue-dividiendo-internet-1235616' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/problema-matematico-sigue-dividiendo-internet-cada-persona-obtiene-resultado-diferente-3017698.jpg?tf=1200x' alt='El problema matemático que sigue dividiendo Internet, cada persona obtiene un resultado diferente' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/mejores/gestores-contrasenas-1235216'>Mantén tus contraseñas a salvo con los mejores gestores de contraseñas</a></h4>
-    <a href='https://computerhoy.com/mejores/gestores-contrasenas-1235216' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/contrasenas-3017188.jpg?tf=1200x' alt='Mantén tus contraseñas a salvo con los mejores gestores de contraseñas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/fabricacion-pantalones-vaqueros-rotos-abuso-laboral-tecnologia-segura-1235610'>La polémica con los pantalones vaqueros rotos: ¿abuso laboral o tecnología segura?</a></h4>
-    <a href='https://computerhoy.com/life/fabricacion-pantalones-vaqueros-rotos-abuso-laboral-tecnologia-segura-1235610' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/polemica-pantalones-vaqueros-rotos-abuso-laboral-tecnologia-limpia-3017694.jpg?tf=1200x' alt='La polémica con los pantalones vaqueros rotos: ¿abuso laboral o tecnología segura?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/sonda-emiratos-arabes-envia-foto-nitida-luna-deimos-marte-1235608'>La sonda de Emiratos Árabes envía la foto más espectacular de la luna Deimos de Marte, y descubre su origen</a></h4>
-    <a href='https://computerhoy.com/espacio/sonda-emiratos-arabes-envia-foto-nitida-luna-deimos-marte-1235608' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/sonda-emiratos-arabes-envia-foto-espectacular-luna-deimos-marte-descubre-nuevos-secretos-3017692.jpg?tf=1200x' alt='La sonda de Emiratos Árabes envía la foto más espectacular de la luna Deimos de Marte, y descubre su origen' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/autenticador-google-soluciona-problema-pierdes-movil-sincronizar-cuenta-1235384'>El autenticador de Google al fin añade una característica que los usuarios llevaban 13 años pidiendo</a></h4>
-    <a href='https://computerhoy.com/google/autenticador-google-soluciona-problema-pierdes-movil-sincronizar-cuenta-1235384' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/autentificador-google-3017464.jpg?tf=1200x' alt='El autenticador de Google al fin añade una característica que los usuarios llevaban 13 años pidiendo' />
     </a>
 </div>
 
